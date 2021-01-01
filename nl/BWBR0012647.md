@@ -4,7 +4,7 @@ identifier: "BWBR0012647"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012647"
 soort: "AMvB"
@@ -138,7 +138,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. De directeur vraagt een machtiging tot deelname aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) schriftelijk aan bij Onze Minister. De directeur doet in zijn aanvraag verslag van de aspecten, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), en vermeldt de voorwaarden bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2020-01-01&g=2020-01-01). De aanvraag vermeldt voorts de duur van de deelname aan het scholings- en trainingsprogramma.
+1. De directeur vraagt een machtiging tot deelname aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) schriftelijk aan bij Onze Minister. De directeur doet in zijn aanvraag verslag van de aspecten, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=9&z=2021-01-01&g=2021-01-01), en vermeldt de voorwaarden bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2021-01-01&g=2021-01-01). De aanvraag vermeldt voorts de duur van de deelname aan het scholings- en trainingsprogramma.
 
 2. De directeur voegt bij de aanvraag het advies van het openbaar ministerie, indien de aanvraag betrekking heeft op een jeugdige ten aanzien van wie het openbaar ministerie een executie-indicator heeft gegeven. De aanvraag wordt opgesteld in samenwerking met de jeugdreclassering, dan wel de reclassering in het arrondissement waarin aan het scholings- en trainingsprogramma wordt deelgenomen. De raad voor de kinderbescherming wordt door de directeur in de gelegenheid gesteld advies uit te brengen.
 
@@ -150,7 +150,7 @@ Vervallen
 
 - b. zwaarwegende belangen van de jeugdige zich daartegen verzetten.
 
-5. Onze Minister beslist zo spoedig mogelijk, doch uiterlijk binnen vier weken, op de aanvraag van de directeur. Onze Minister betrekt in zijn beslissing de aspecten, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), en de voorwaarden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2020-01-01&g=2020-01-01).
+5. Onze Minister beslist zo spoedig mogelijk, doch uiterlijk binnen vier weken, op de aanvraag van de directeur. Onze Minister betrekt in zijn beslissing de aspecten, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=9&z=2021-01-01&g=2021-01-01), en de voorwaarden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2021-01-01&g=2021-01-01).
 
 6. Onze Minister kan een machtiging tot deelname aan het programma weigeren, indien:
 
@@ -228,7 +228,7 @@ De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en train
 
 ##### Artikel 13
 
-1. De deelnemer aan een scholings- en trainingsprogramma kan bij de beklagcommissie bij de inrichting waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2020-01-01&g=2020-01-01).
+1. De deelnemer aan een scholings- en trainingsprogramma kan bij de beklagcommissie bij de inrichting waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2021-01-01&g=2021-01-01).
 
 2. De [artikelen 65, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=65), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=70), [72, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=73), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=75) en [76 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=76) zijn van overeenkomstige toepassing.
 
@@ -404,7 +404,7 @@ De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectber
 
 2. De jeugdige heeft recht op een periodieke evaluatie door de directeur van het perspectiefplan. Deze evaluatie vindt ten minste driemaal per jaar plaats, doch in ieder geval tijdig voor de opmaking van een advies als bedoeld in [artikel 77t, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77t) of een verlenging als bedoeld in [artikel 265c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265c), of [305, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=305).
 
-3. De evaluatie van het perspectiefplan vindt plaats op basis van informatie van ten minste de functionaris en de gecertificeerde instelling, bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=5&artikel=25&z=2020-01-01&g=2020-01-01). De jeugdige wordt in de gelegenheid gesteld zijn visie te geven op het verloop van het verblijf in de inrichting. Tevens worden bij de evaluatie betrokken de ouders of voogd, stiefouder of pleegouders van de jeugdige, met inachtneming van artikel 25, vijfde lid, en de betrokken gecertificeerde instelling. Van de evaluatie wordt een verslag opgesteld.
+3. De evaluatie van het perspectiefplan vindt plaats op basis van informatie van ten minste de functionaris en de gecertificeerde instelling, bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=5&artikel=25&z=2021-01-01&g=2021-01-01). De jeugdige wordt in de gelegenheid gesteld zijn visie te geven op het verloop van het verblijf in de inrichting. Tevens worden bij de evaluatie betrokken de ouders of voogd, stiefouder of pleegouders van de jeugdige, met inachtneming van artikel 25, vijfde lid, en de betrokken gecertificeerde instelling. Van de evaluatie wordt een verslag opgesteld.
 
 4. Bij de evaluatie worden de volgende aspecten betrokken:
 
@@ -628,131 +628,63 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 50
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2020-01-01&g=2020-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2021-01-01&g=2021-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van de behandeling.
 
-### Hoofdstuk 8a. Toezicht op telefoongesprekken
+### Hoofdstuk 8. (Onvrijwillige) geneeskundige behandeling
 
 ##### Artikel 51
 
-Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of levensovertuigingen verbonden, doch in elk geval een geestelijk verzorger van protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond.
+1. Bij het Ministerie van Justitie en Veiligheid zijn een hoofd boeddhistische geestelijke verzorging, een hoofd hindoeïstische geestelijke verzorging, een hoofd islamitische geestelijke verzorging, een hoofdrabbijn, een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
+
+2. De hoofden zijn in ieder geval belast met het doen van voordrachten voor aanstelling van geestelijke verzorgers bij de rijksinrichtingen behorende tot hun gezindte of levensovertuiging.
 
 ##### Artikel 52
 
-1. Bij het Ministerie van Veiligheid en Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging in dienst. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
-
-2. De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor de indienstneming van geestelijk verzorgers bij de rijksinrichtingen, behorende tot hun gezindte of levensovertuiging.
+Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of levensovertuigingen verbonden, doch in elk geval geestelijk verzorgers van boeddhistische, hindoeïstische, islamitische, joodse, protestantse en rooms-katholieke gezindte en geestelijk verzorgers van het humanistisch verbond.
 
 ##### Artikel 53
 
-1. De indienstneming van een geestelijk verzorger van protestantse of rooms-katholieke gezindte of een geestelijk verzorger, behorend tot het humanistisch verbond, bij een rijksinrichting geschiedt door of vanwege Onze Minister op verzoek van de betrokken hoofdgeestelijke, genoemd in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=52&z=2020-01-01&g=2020-01-01).
+1. De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een rijksinrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=51&z=2021-01-01&g=2021-01-01).
 
-2. De indienstneming van een geestelijk verzorger van protestantse of rooms-katholieke gezindte of een geestelijk verzorger, behorend tot het humanistisch verbond, bij een particuliere inrichting geschiedt door of vanwege het bestuur van de inrichting gehoord de betrokken hoofdgeestelijke, genoemd in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=52&z=2020-01-01&g=2020-01-01).
+2. De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een justitiële particuliere inrichting geschiedt door of vanwege het bestuur van de inrichting gehoord de betrokken hoofdgeestelijke, genoemd in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=51&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 54
 
-1. Een geestelijk verzorger van een andere dan de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=53&z=2020-01-01&g=2020-01-01) genoemde gezindte of levensovertuiging kan door de directeur van een rijksinrichting aan diens inrichting worden verbonden anders dan bij wijze van een indienstneming. De directeur van de rijksinrichting neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijk verzorgers.
-
-2. Onze Minister kan functievereisten vaststellen ten aanzien van geestelijk verzorgers als bedoeld in de eerste volzin van het eerste lid.
-
-3. Een geestelijk verzorger die aan een rijksinrichting is verbonden anders dan bij wijze van indienstneming, ontvangt een bij regeling van Onze Minister vast te stellen vergoeding voor zijn werkzaamheden en de door hem gemaakte kosten.
+Een andere geestelijk verzorger dan de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=52&z=2021-01-01&g=2021-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### Hoofdstuk 10. Beroep tegen medisch handelen
 
 ##### Artikel 55
 
-1. Een jeugdige kan een beroepschrift indienen tegen het medisch handelen van de inrichtingsarts. Met de inrichtingsarts wordt in dit hoofdstuk gelijkgesteld de verpleegkundige dan wel andere hulpverleners die door de inrichtingsarts bij de zorg aan jeugdigen in de inrichting zijn betrokken.
-
-2. Onder medisch handelen als bedoeld in het eerste lid wordt verstaan:
-
-- a. enig handelen in het kader van of nalaten in strijd met de zorg die de in het eerste lid bedoelde personen in die hoedanigheid behoren te betrachten ten opzichte van de jeugdige, met betrekking tot wiens gezondheidstoestand zij bijstand verlenen of hun bijstand is ingeroepen;
-
-- b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in strijd met het belang van een goede uitoefening van de individuele gezondheidszorg.
+Vervallen
 
 ##### Artikel 56
 
-1. Alvorens een beroepschrift in te dienen doet de jeugdige een schriftelijk verzoek aan de Medisch Adviseur bij het Ministerie van Veiligheid en Justitie om te bemiddelen terzake van de klacht. Dit verzoek dient uiterlijk op de veertiende dag na die waarop het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden te worden ingediend.
-
-2. De Medisch Adviseur stelt de betrokkene in de gelegenheid de klacht schriftelijk of mondeling toe te lichten, tenzij hij het aanstonds duidelijk acht dat de klacht zich niet voor bemiddeling leent. Hij kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen.
-
-3. De Medisch Adviseur is ten behoeve van de bemiddeling bevoegd het medisch dossier van de jeugdige in te zien.
-
-4. De Medisch Adviseur streeft ernaar binnen vier weken een voor beide partijen aanvaardbare oplossing te bereiken.
-
-5. De Medisch Adviseur sluit de bemiddeling af met een mededeling van zijn bevindingen aan de jeugdige en de arts. De jeugdige wordt gewezen op de mogelijkheid van het indienen van een beroepschrift alsmede de termijn waarbinnen en de wijze waarop dit gedaan moet worden.
-
-6. Een afschrift van de mededeling zendt de Medisch Adviseur aan de directeur van de inrichting waaraan de arts tegen wiens medisch handelen de klacht zich richt is verbonden.
-
-7. De Medisch Adviseur is bevoegd een klacht door te verwijzen naar de beklagcommissie. Hij zendt van de doorverwijzing van een klacht een bericht aan de klager.
+Vervallen
 
 ##### Artikel 57
 
-1. Het beroepschrift wordt ingediend bij en behandeld door een door en uit de Raad benoemde commissie van drie leden, bestaande uit één jurist en twee artsen, die wordt bijgestaan door een secretaris.
-
-2. Het met redenen omklede beroepschrift wordt uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de mededeling van de Medisch Adviseur ingediend. De directeur draagt zorg dat een jeugdige die beroep wenst in te stellen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
-
-3. De indiening van het beroepschrift kan door tussenkomst van de directeur van de inrichting waar de jeugdige verblijft geschieden. De directeur draagt in dat geval zorg dat het beroepschrift, of, indien het beroepschrift zich in een envelop bevindt, de envelop, van een dagtekening wordt voorzien, welke geldt als dag van indiening.
-
-4. Het beroepschrift vermeldt zo nauwkeurig mogelijk het medisch handelen waarover wordt geklaagd en de redenen van het beroep.
-
-5. Indien de jeugdige de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=16&artikel=81&z=2020-01-01&g=2020-01-01).
+Vervallen
 
 ##### Artikel 58
 
-1. De beroepscommissie en de secretaris zijn ten behoeve van de behandeling van het beroepschrift bevoegd het medisch dossier van de klager in te zien.
-
-2. De behandeling van het beroepschrift vindt niet in het openbaar plaats, behoudens ingeval de beroepscommissie van oordeel is dat de niet openbare behandeling niet verenigbaar is met enige een ieder verbindende bepaling van een in Nederland geldend verdrag.
-
-3. De secretaris van de beroepscommissie zendt de arts een afschrift van het beroepschrift toe en vraagt het verslag van de bemiddeling op bij de Medisch Adviseur.
-
-4. De beroepscommissie stelt de klager en de arts in de gelegenheid omtrent het beroepschrift mondeling of schriftelijk opmerkingen te maken, tenzij zij het beroep aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht. De beroepscommissie kan bepalen dat de mondelinge opmerkingen ten overstaan van een lid van de commissie kunnen worden gemaakt.
-
-5. De klager en de arts kunnen de voorzitter van de beroepscommissie de vragen opgeven die zij aan elkaar gesteld wensen te zien.
-
-6. De beroepscommissie kan de arts en de klager buiten elkaars aanwezigheid horen. In dat geval worden zij in de gelegenheid gesteld vooraf de vragen op te geven die zij gesteld wensen te zien en wordt de zakelijke inhoud van de aldus afgelegde verklaring door de voorzitter van de beroepscommissie aan de klager onderscheidenlijk de arts mondeling medegedeeld.
-
-7. De beroepscommissie kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen. Indien mondeling inlichtingen worden ingewonnen, zijn het vijfde en zesde lid, tweede volzin, van overeenkomstige toepassing. De beroepscommissie kan bepalen dat ingeval bij een andere persoon mondeling inlichtingen worden ingewonnen, de betrokkenen uitsluitend in de gelegenheid worden gesteld schriftelijk de vragen op te geven die zij aan die persoon gesteld wensen te zien.
-
-8. De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018).
-
-9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=16&artikel=81&z=2020-01-01&g=2020-01-01).
-
-10. Tijdens de beroepsprocedure staat de beroepscommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
+Vervallen
 
 ##### Artikel 59
 
-1. De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager, de arts en de directeur wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.
-
-2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=16&artikel=81&z=2020-01-01&g=2020-01-01).
-
-3. De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 60
 
-1. De uitspraak van de beroepscommissie strekt tot gehele of gedeeltelijke:
-
-- a. niet-ontvankelijkverklaring van het beroep;
-
-- b. ongegrondverklaring van het beroep;
-
-- c. gegrondverklaring van het beroep.
-
-2. Indien de klacht door de beroepscommissie geheel of gedeeltelijk gegrond wordt geacht bepaalt de beroepscommissie of enige tegemoetkoming aan de klager geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
+Vervallen
 
 ##### Artikel 61
 
-1. De in de [artikelen 55 tot en met 58](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=10&artikel=55&z=2020-01-01&g=2020-01-01) aan de jeugdige toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de jeugdige zich daartegen verzetten, mede worden uitgeoefend door:
+Vervallen
 
-- a. de curator, indien de jeugdige onder curatele is gesteld;
-
-- b. de mentor, indien ten behoeve van de jeugdige een mentorschap is ingesteld;
-
-- c. de ouders of voogd, indien de jeugdige minderjarig is.
-
-2. De directeur draagt zorg dat de in het eerste lid genoemde personen op deze rechten opmerkzaam worden gemaakt.
-
-### Hoofdstuk 11. Onderwijs en pedagogische activiteiten
+### Hoofdstuk 8a. Toezicht op telefoongesprekken
 
 ##### Artikel 62
 
@@ -894,7 +826,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 2. De directeur zendt het dossier gelijktijdig met de overplaatsing van de jeugdige, bedoeld in [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12), aan de directeur van de inrichting waar de jeugdige verder zal verblijven.
 
-3. Indien de jeugdige in de gelegenheid wordt gesteld deel te nemen aan een scholings- en trainingsprogramma zendt de directeur het dossier aan de directeur, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=10&z=2020-01-01&g=2020-01-01).
+3. Indien de jeugdige in de gelegenheid wordt gesteld deel te nemen aan een scholings- en trainingsprogramma zendt de directeur het dossier aan de directeur, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=10&z=2021-01-01&g=2021-01-01).
 
 4. Bij invrijheidstelling, ontvluchting of overlijden van de jeugdige zendt de directeur het dossier aan Onze Minister.
 
@@ -934,9 +866,9 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 - a. op verzoek van de rechtspersoon die de residentiële voorziening van jeugdhulpverlening beheert;
 
-- b. indien de beveiliging dan wel de personele of materiële toerusting van de inrichting, bedoeld in [artikel 72, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=13&artikel=72&z=2020-01-01&g=2020-01-01), niet meer voldoet aan de eisen die daaraan naar het oordeel van Onze Minister moeten worden gesteld.
+- b. indien de beveiliging dan wel de personele of materiële toerusting van de inrichting, bedoeld in [artikel 72, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=13&artikel=72&z=2021-01-01&g=2021-01-01), niet meer voldoet aan de eisen die daaraan naar het oordeel van Onze Minister moeten worden gesteld.
 
-2. De aanwijzing als particuliere inrichting kan door Onze Minister worden ingetrokken, indien de rechtspersoon heeft gehandeld in strijd met de toepasselijke regelgeving of hetgeen overeenkomstig [artikel 72, tweede lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=13&artikel=72&z=2020-01-01&g=2020-01-01), is verklaard.
+2. De aanwijzing als particuliere inrichting kan door Onze Minister worden ingetrokken, indien de rechtspersoon heeft gehandeld in strijd met de toepasselijke regelgeving of hetgeen overeenkomstig [artikel 72, tweede lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=13&artikel=72&z=2021-01-01&g=2021-01-01), is verklaard.
 
 ##### Artikel 74
 
@@ -968,21 +900,21 @@ De inrichting organiseert het verblijf op zodanige wijze, voorziet de instelling
 
 ##### Artikel 79
 
-1. Het uitvoeren van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2020-01-01&g=2020-01-01) omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van het verblijf.
+1. Het uitvoeren van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2021-01-01&g=2021-01-01) omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van het verblijf.
 
 2. Ter uitvoering van het eerste lid draagt de inrichting, afgestemd op de aard en omvang van de instelling, zorg voor:
 
 - a. het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van het verblijf in een werkplan;
 
-- b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2020-01-01&g=2020-01-01) leidt tot een verantwoord verblijf;
+- b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2021-01-01&g=2021-01-01) leidt tot een verantwoord verblijf;
 
-- c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veranderen van de wijze waarop [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2020-01-01&g=2020-01-01) wordt uitgevoerd.
+- c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veranderen van de wijze waarop [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2021-01-01&g=2021-01-01) wordt uitgevoerd.
 
 ##### Artikel 80
 
-1. Indien Onze Minister van oordeel is dat de [artikelen 77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=77&z=2020-01-01&g=2020-01-01) niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de directeur een schriftelijke aanwijzing geven.
+1. Indien Onze Minister van oordeel is dat de [artikelen 77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=77&z=2021-01-01&g=2021-01-01) niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de directeur een schriftelijke aanwijzing geven.
 
-2. In de aanwijzing omschrijft Onze Minister met redenen omkleed de punten waarop de [artikelen 77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=77&z=2020-01-01&g=2020-01-01) niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, alsmede de in verband daarmee te nemen maatregelen.
+2. In de aanwijzing omschrijft Onze Minister met redenen omkleed de punten waarop de [artikelen 77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=77&z=2021-01-01&g=2021-01-01) niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, alsmede de in verband daarmee te nemen maatregelen.
 
 3. De aanwijzing bevat een termijn waarbinnen de directeur eraan moet voldoen. De directeur is verplicht binnen de daartoe gestelde termijn aan de aanwijzing te voldoen.
 
@@ -1066,9 +998,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 10. Beroep tegen medisch handelen
 
-### Hoofdstuk 11. Onderwijs en pedagogische activiteiten
+### Hoofdstuk 9. Geestelijke verzorging
 
-### Hoofdstuk 12. Dossiers van jeugdigen
+### Hoofdstuk 10. Beroep tegen medisch handelen
 
 ### Hoofdstuk 13. Aanwijzing van particuliere inrichtingen
 
@@ -1086,7 +1018,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Onze Minister kan de machtiging intrekken:
 
-- a. bij overtreding van de voorwaarden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2020-01-01&g=2020-01-01);
+- a. bij overtreding van de voorwaarden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2021-01-01&g=2021-01-01);
 
 - b. zodra de jeugdige vierentwintig uur ongeoorloofd afwezig is, tenzij sprake is van overmacht;
 
@@ -1098,7 +1030,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3. Commissie van toezicht en beklagcommissie
 
-### Hoofdstuk 4. De inrichting
+### Hoofdstuk 3a. Commissie van toezicht en beklagcommissie voor het vervoer
 
 ### Hoofdstuk 5. Het perspectiefplan
 
@@ -1118,15 +1050,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 12. Dossiers van jeugdigen
 
-### Hoofdstuk 13. Aanwijzing van particuliere inrichtingen
+### Hoofdstuk 11. Onderwijs en pedagogische activiteiten
 
 ### Hoofdstuk 15. Kwaliteit
 
-### Hoofdstuk 16. Vergoedingen beklag- en beroepsprocedures
+### Hoofdstuk 13. Aanwijzing van particuliere inrichtingen
 
 ### Hoofdstuk 17. Aansprakelijkheid directeur
 
-### Hoofdstuk 15. Kwaliteit
+### Hoofdstuk 14. Opperbeheer rijksinrichtingen
 
 ### Hoofdstuk 16. Vergoedingen beklag- en beroepsprocedures
 
@@ -1152,7 +1084,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. of er overeenstemming over het geneeskundig behandelingsplan is.
 
-2. Gedurende de behandeling kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging wordt de uitkomst van het multidisciplinair overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2020-01-01&g=2020-01-01), betrokken.
+2. Gedurende de behandeling kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging wordt de uitkomst van het multidisciplinair overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2021-01-01&g=2021-01-01), betrokken.
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de persoon, bedoeld in [artikel 51c, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51c) vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
@@ -1176,7 +1108,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2020-01-01&g=2020-01-01), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2021-01-01&g=2021-01-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 49d
 
@@ -1212,7 +1144,7 @@ De jeugdige wordt gedurende de periode dat de a- of b-dwangbehandeling of de ged
 
 ##### Artikel 49f
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling en voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2020-01-01&g=2020-01-01), [artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2020-01-01&g=2020-01-01) en [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49c&z=2020-01-01&g=2020-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling en voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2021-01-01&g=2021-01-01), [artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2021-01-01&g=2021-01-01) en [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49c&z=2021-01-01&g=2021-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
 
 ##### Artikel 49g
 
@@ -1227,6 +1159,44 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 ### Hoofdstuk 10. Beroep tegen medisch handelen
 
 ### Hoofdstuk 12. Dossiers van jeugdigen
+
+### Hoofdstuk 17. Aansprakelijkheid directeur
+
+### Hoofdstuk 18. Wijziging andere regelgeving
+
+### Hoofdstuk 19. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 23a
+
+1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 19b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=19b), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
+
+2. De [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=15&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=17&z=2021-01-01&g=2021-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=19&z=2021-01-01&g=2021-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=21&z=2021-01-01&g=2021-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=22&z=2021-01-01&g=2021-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=23&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
+
+3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=16&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+
+##### Artikel 23b
+
+1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
+
+2. De leden van de commissie van toezicht ontvangen van Onze Minister en de directeur van de inrichting alle door hen gewenste inlichtingen ten aanzien van het vervoer van jeugdigen en kunnen alle op het vervoer betreffende stukken inzien. Zij zijn tot geheimhouding verplicht, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de tenuitvoerlegging van hun taak de noodzaak tot bekendmaking voortvloeit.
+
+3. Onze Minister en de directeur van de inrichting brengen alle voor de uitoefening van de taak van de commissie van toezicht belangrijke feiten en omstandigheden ter kennis van de commissie van toezicht.
+
+### Hoofdstuk 4. De inrichting
+
+### Hoofdstuk 5. Het perspectiefplan
+
+### Hoofdstuk 6. Verlof
+
+### Hoofdstuk 7. Proefverlof
+
+### Hoofdstuk 12. Dossiers van jeugdigen
+
+### Hoofdstuk 15. Kwaliteit
+
+### Hoofdstuk 16. Vergoedingen beklag- en beroepsprocedures
 
 ### Hoofdstuk 17. Aansprakelijkheid directeur
 
