@@ -4,7 +4,7 @@ identifier: "BWBR0030815"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-01-01"
-last_updated: "2017-09-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030815"
 soort: "beleidsregel"
@@ -89,13 +89,13 @@ De bedrijfsactiviteiten moeten duidelijk worden omschreven. Sociale partners kun
 
 Ter verduidelijking van de afbakening ten opzichte van andere bpf-en, bedrijfstakken of ook ondernemingspensioenfondsen kunnen namen van bedrijven worden opgenomen, bijvoorbeeld om te bepalen of een bedrijf in verband met een variëteit aan bedrijfsactiviteiten onder de werkingssfeer valt.
 
-Een aanvraag in het kader van de verplichtstelling moet worden ingediend door een voldoende representatieve vertegenwoordiging van sociale partners in de bedrijfstak waarvoor verplichtstelling wordt gevraagd. In de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10), en [11, tweede en derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) wordt dit geformuleerd als ‘het georganiseerde bedrijfsleven in een bedrijfstak dat naar het oordeel van de Minister van SZW een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt’.
+Een aanvraag in het kader van de verplichtstelling moet worden ingediend door een voldoende representatieve vertegenwoordiging van sociale partners in de bedrijfstak waarvoor verplichtstelling wordt gevraagd. In de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10), en [11, tweede en derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) wordt dit geformuleerd als het georganiseerde bedrijfsleven in een bedrijfstak dat naar het oordeel van de Minister van SZW een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt.
 
-Reden hiervoor is dat een besluit in het kader van de verplichtstelling grote gevolgen heeft voor een bedrijfstak, in beginsel voor onbepaalde tijd. Voldoende draagvlak binnen de bedrijfstak voor zo’n besluit is daarom van belang.
+Reden hiervoor is dat een besluit in het kader van de verplichtstelling grote gevolgen heeft voor een bedrijfstak, in beginsel voor onbepaalde tijd. Voldoende draagvlak binnen de bedrijfstak voor een dergelijk besluit is daarom van belang.
 
 ### Deelnemer
 
-Dit is anders dan bij een verzoek om AVV. Dat kan op basis van de wet worden ingediend door een of meer werkgevers of een of meer verenigingen van werkgevers of werknemers.
+Dit is anders dan bij een verzoek om avv. Dat kan op basis van de wet worden ingediend door een of meer werkgevers of een of meer verenigingen van werkgevers of werknemers.
 
 ### Overlapping van werkingssferen
 
@@ -103,7 +103,7 @@ In het geval van meerdere bedrijfstakken binnen één bpf zal per bedrijfstak de
 
 Sociale partners hebben bij de omschrijving van de werkingssfeer de mogelijkheid om bepaalde categorieën werknemers of bedrijven van de werkingssfeer uit te zonderen. Deze vallen dan buiten de werkingssfeer van het bpf en buiten het besluit tot verplichtstelling en worden daarom niet meegenomen in de beoordeling van de representativiteit.
 
-Op basis van [artikel 13, derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13), is het [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094) (Stb. 633) tot stand gekomen. Op grond daarvan is het op bepaalde gronden mogelijk door het bpf te worden vrijgesteld van verplichte deelname. De vrijgestelden blijven echter onder de werkingssfeer van de verplichtstelling vallen en worden daarom wel meegenomen in de beoordeling van de representativiteit.
+Op basis van [artikel 13, derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13), is het [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094) (Stb. 2000, 633) tot stand gekomen. Op grond daarvan is het op bepaalde gronden mogelijk door het bpf te worden vrijgesteld van verplichte deelname. De vrijgestelden blijven echter onder de werkingssfeer van de verplichtstelling vallen en worden daarom wel meegenomen in de beoordeling van de representativiteit.
 
 Een besluit tot verplichtstelling kan pas genomen worden wanneer de werkingssferen door sociale partners bij debetrokken bpf-en zijn afgebakend. Het moet uit het oogpunt van rechtszekerheid duidelijk zijn in welk bpf de ongeorganiseerde verplicht is deel te nemen.
 
@@ -129,7 +129,7 @@ Bij de opgave van de representativiteit dienen de aantallen te worden vermeld va
 
 De opgegeven aantallen dienen van recente datum te zijn. De gegevens zouden op het moment van inzending in beginsel niet ouder dan één jaar mogen zijn.
 
-Bij een aanvraag in het kader van de verplichtstelling zal, net als bij verzoeken om AVV, een nadere toelichting gegeven moeten worden op de manier waarop de representativiteitsgegevens zijn verzameld. De toelichting bevat in ieder geval:
+Bij een aanvraag in het kader van de verplichtstelling zal, net als bij verzoeken om avv, een nadere toelichting gegeven moeten worden op de manier waarop de representativiteitsgegevens zijn verzameld. De toelichting bevat in ieder geval:
 
 Wanneer het bij de aanvraag slechts om een deel van de werkingssfeer gaat of om één van de bedrijfstakken in het geval van een bpf met meerdere bedrijfstakken, dan dient de opgave van de aantallen werknemers en werkgevers (op grond waarvan de representativiteit wordt vastgesteld) betrekking te hebben op de werkingssfeer van het deel van de bedrijfstak of de bedrijfstak waarop de aanvraag zich richt.
 
@@ -141,9 +141,9 @@ De eisen aan de opgave van de representativiteitsgegevens zijn ook vastgelegd in
 
 ### b. De periodieke representativiteitstoets
 
-Ten minste een maal per vijf jaar zal worden beoordeeld of voor de verplichtstelling nog voldoende draagvlak bestaat (eerste keer per 1 januari 2006). Op deze manier wordt veilig gesteld dat de basis voor een verplichtstelling – een belangrijke meerderheid van het bedrijfsleven in de bedrijfstak ondersteunt de verplichtstelling – gewaarborgd wordt.
+Ten minste éénmaal per vijf jaar zal worden beoordeeld of voor de verplichtstelling nog voldoende draagvlak bestaat. Op deze manier wordt veilig gesteld dat de basis voor een verplichtstelling – een belangrijke meerderheid van het bedrijfsleven in de bedrijfstak ondersteunt de verplichtstelling – gewaarborgd wordt.
 
-De periodieke toets betreft de meting van de representativiteit op dezelfde manier, met dezelfde criteria en (vorm)vereisten, als in paragraaf 3.1.a.beschreven. In de brief waarin de Minister van SZW verzoekt aan te tonen dat nog steeds sprake is van een belangrijke meerderheid zullen de criteria worden vermeld en zal een checklist representativiteit worden meegezonden.
+De periodieke toets betreft de meting van de representativiteit op dezelfde manier, met dezelfde criteria en (vorm)vereisten, als in paragraaf 3.1.a.beschreven. Bij het verzoek van de Minister van SZW om aan te tonen dat nog steeds sprake is van een belangrijke meerderheid zullen de criteria worden vermeld en zal een checklist representativiteit worden meegezonden.
 
 ### Belangrijke meerderheid in de periodieke representativiteitstoets
 
@@ -157,7 +157,7 @@ Indien niet wordt voldaan aan het vereiste van een belangrijke meerderheid, zal 
 
 De opgegeven aantallen dienen van recente datum te zijn. De gegevens zouden op het moment van inzending in beginsel niet ouder dan één jaar mogen zijn.
 
-Iedere keer dat een verplichtstelling na 1 januari 2001 is opgelegd dan wel gewijzigd, en waarbij de representativiteit is vastgesteld, begint de termijn van vijf jaar voor de periodieke toets opnieuw te lopen.
+Iedere keer dat een verplichtstelling is opgelegd dan wel gewijzigd, en waarbij de representativiteit is vastgesteld, begint de termijn van vijf jaar voor de periodieke toets opnieuw te lopen.
 
 Indien geen wijziging van de verplichtstelling plaatsvindt, zal vijf jaar na de vorige periodieke toets of in het geval van een noodzakelijke herhalingstoets, vijf jaar na die herhalingstoets, de representativiteit opnieuw getoetst worden.
 
@@ -177,11 +177,11 @@ In het verzoek van de Minister van SZW wordt aangegeven op welke wijze de repres
 
 ### Belangrijke meerderheid in het geval van een herhalingstoets van de representativiteit
 
-In het geval van meerdere bedrijfstakken binnen één bpf mag de representativiteit van al die bedrijfstakken tegelijkertijd worden aangetoond op het eerste moment waarop voor een deel van het bpf het verzoek van de Minister van SZW in het kader van de vijfjaarstoets wordt ontvangen. Voor alle bedrijfstakken begint dan gelijktijdig een nieuwe periode van vijf jaar te lopen.
+In het geval van meerdere bedrijfstakken binnen één bpf mag de representativiteit van al die bedrijfstakken tegelijkertijd worden aangetoond op het eerste moment waarop voor één (of meerdere) van de bedrijfstakken van het bpf het verzoek van de Minister van SZW in het kader van de vijfjaarstoets wordt ontvangen. Voor alle bedrijfstakken begint dan gelijktijdig een nieuwe periode van vijf jaar te lopen.
 
 ### Resultaat vijfjaarstoets
 
-Indien partijen binnen 8 weken na het verzoek aantonen te voldoen aan het vereiste van representativiteit, dan stelt de Minister van SZW per brief betrokkenen hiervan op de hoogte.
+Indien partijen binnen 8 weken na het verzoek aantonen te voldoen aan het vereiste van representativiteit, dan stelt de Minister van SZW betrokkenen hiervan op de hoogte.
 
 ### Termijn
 
@@ -199,13 +199,13 @@ Indien de herhalingstoets opnieuw aantoont dat niet wordt voldaan aan de represe
 
 Het niet voldoen aan de periodieke toets in het geval van meerdere bedrijfstakken, zal leiden tot intrekking van het deel van de verplichtstelling waarvoor niet langer een voldoende representatief georganiseerd bedrijfsleven aanwezig is.
 
-Indien partijen binnen 8 weken na het verzoek aantonen te voldoen aan het vereiste van representativiteit, dan stelt de Minister van SZW per brief betrokkenen hiervan op de hoogte.
+Indien partijen binnen 8 weken na het verzoek aantonen te voldoen aan het vereiste van representativiteit, dan stelt de Minister van SZW betrokkenen hiervan op de hoogte.
 
-Indien partijen binnen 8 weken na het verzoek niet aantonen te voldoen aan het vereiste van representativiteit, dan meldt de Minister van SZW in de Staatscourant dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid en stelt per brief betrokkenen hiervan op de hoogte.
+Indien partijen binnen 8 weken na het verzoek niet aantonen te voldoen aan het vereiste van representativiteit, dan meldt de Minister van SZW in de Staatscourant dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid en worden betrokkenen hiervan op de hoogte gesteld.
 
 In het geval van meerdere bedrijfstakken binnen één bpf moet periodiek per bedrijfstak de representativiteit worden aangetoond. Daarbij kan een verschillend moment voor de verschillende delen van het bpf aan de orde zijn. Dit is afhankelijk van tussentijdse wijzigingen in de werkingssfeer. Indien die slechts een deel van de werkingssfeer betroffen, is alleen voor dat deel de representativiteit aangetoond en een nieuwe periode van vijf jaar gestart.
 
-[Artikel 6a van de Regeling aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=6a) bepaalt dat de Minister van SZW zo spoedig mogelijk op de aanvraag van verplichtstelling, wijziging of intrekking ervan beslist, doch uiterlijk binnen 26 weken nadatvan de aanvraag mededeling is gedaan in de Staatscourant. Als in verband met het nemen van een besluit informatie of advies is gevraagd aan een persoon of instantie, bijvoorbeeld de Stichting van de Arbeid of De Nederlandsche Bank (DNB), dan kan deze termijn ten hoogste twee maal worden verlengd met een periode van maximaal 13 weken. De Minister van SZW informeert verzoekende partijen over deze verlenging.
+[Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074) bepaalt dat de Minister van SZW zo spoedig mogelijk op de aanvraag van verplichtstelling, wijziging of intrekking ervan beslist, doch uiterlijk binnen 26 weken nadatvan de aanvraag mededeling is gedaan in de Staatscourant. Als in verband met het nemen van een besluit informatie of advies is gevraagd aan een persoon of instantie, bijvoorbeeld de Stichting van de Arbeid of De Nederlandsche Bank (DNB), dan kan deze termijn ten hoogste twee maal worden verlengd met een periode van maximaal 13 weken. De Minister van SZW informeert verzoekende partijen over deze verlenging.
 
 ### Resultaat vijfjaarstoets
 
@@ -237,7 +237,7 @@ In het tweede lid van [artikel 2, van de Wet Bpf 2000](https://wetten.overheid.n
 
 Een aanvraag om verplichtstelling wordt pas in behandeling genomen als de aanvraag volledig is en inhoudelijk voldoet aan de vereisten. De datum van in behandeling nemen isde datum waarop de aanvraag in de Staatscourant wordt geplaatst en de termijn van tervisielegging start.
 
-Alle stukken die in het kader van de aanvraag dienen te worden meegestuurd liggen ter visie en kunnen worden geraadpleegd viade site van de Directie UAW (http://cao.szw.nl).Zienswijzen tegen de (wijzigingen van) reglementen, de akte van oprichting van het bpf, de akte houdende wijziging van de statuten en de actuariële en bedrijfstechnische nota worden primair beoordeeld door DNB. In het advies van DNB aan de Minister van SZW met betrekking tot de aanvraag wordt op de zienswijzen ingegaan. De Minister van SZW is verantwoordelijk voor de besluitvorming hierover.
+Alle stukken die in het kader van de aanvraag dienen te worden meegestuurd liggen ter visie en kunnen worden geraadpleegd viade site van de Directie UAW (www.uitvoeringarbeidsvoorwaardenwetgeving.nl). Zienswijzen tegen de (wijzigingen van) reglementen, de akte van oprichting van het bpf, de akte houdende wijziging van de statuten en de actuariële en bedrijfstechnische nota worden primair beoordeeld door DNB. In het advies van DNB aan de Minister van SZW met betrekking tot de aanvraag wordt op de zienswijzen ingegaan. De Minister van SZW is verantwoordelijk voor de besluitvorming hierover.
 
 Indien stukken ontbreken, zal de Directie UAW hierover reclameren bij de indiener(s) van de aanvraag. Dit geldt evenzo voor onduidelijkheden in de werkingssfeer vande verplichtstelling, het ontbreken van een toelichting of een onvoldoende representativiteit(sopgave).
 
@@ -249,15 +249,13 @@ Bij een eerste aanvraag van verplichtstelling wordt de representativiteit bereke
 
 In het geval van een representativiteit onder de 60% dient voor de representativiteitsopgavegebruik gemaakt te worden van het formulier representativiteitsgegevens(zie hierover paragraaf 3.1.a).
 
-Wanneer in de procedure van verplichtstelling, wijziging of intrekking ervan aanpassingen moeten worden gedaan die leiden tot een nieuwe tervisielegging, dan blijft de oorspronkelijke datum van indienen van de in behandeling genomen aanvraag van belang voor de vrijstelling op grond van [artikel 2 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2).
+Na vaststelling van de volledigheid van de aanvraag en het voldoen aan de vereisten, waaronder die van de representativiteit zal de aanvraag om verplichtstelling in behandelingworden genomen. Dit blijkt door publicatie van de aanvraagin de Staatscourant ([artikel 16, eerste lid, Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=16)).
 
 ### 4. De procedures in het kader van de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092)
 
 ### a. Eerste aanvraag van verplichtstelling
 
 ### Indienen aanvraag
-
-Zienswijzen die zijn ingediend vóór de datum van bekendmaking in de Staatscourant worden niet in behandeling genomen.
 
 Na het verstrijken van de termijn van tervisielegging worden de ingediende zienswijzen voor commentaar voorgelegd aan de bij de aanvraag om verplichtstelling betrokken partijen. Partijen moeten binnen 6 weken reageren.
 
@@ -267,15 +265,17 @@ Over herhaalde en evident kansloze zienswijzen zal de Stichting van de Arbeid na
 
 De Stichting van de Arbeid wordt in ieder geval om een reactie gevraagd als bij zienswijzensprake is van(vermeende) overlap van werkingssferen van bedrijfstakpensioenfondsen, zodat zij kan bezien of haar tussenkomst wenselijk is.Indien sprake is van (vermeende) overlap van de werkingssfeer van een bpf met de werkingssfeer van een beroepspensioenregeling worden de Stichting van de Arbeid en de SER om een reactie gevraagd. In dat geval zullen zij bezien of hun tussenkomst wenselijk is.
 
-Indien stukken ontbreken, zal de Directie UAW hierover reclameren bij de indiener(s) van de aanvraag. Dit geldt evenzo voor onduidelijkheden in de werkingssfeer vande verplichtstelling, het ontbreken van een toelichting of een onvoldoende representativiteit(sopgave).
+De Stichting van de Arbeid wordt in ieder geval om een reactie gevraagd als bij zienswijzensprake is van(vermeende) overlap van werkingssferen van bedrijfstakpensioenfondsen, zodat zij kan bezien of haar tussenkomst wenselijk is.Indien sprake is van (vermeende) overlap van de werkingssfeer van een bpf met de werkingssfeer van een beroepspensioenregeling worden de Stichting van de Arbeid en de SER om een reactie gevraagd. In dat geval zullen zij bezien of hun tussenkomst wenselijk is.
+
+Bij een eerste aanvraag om verplichtstelling zal DNB door de Minister van SZW worden gevraagd aan te geven of de oprichtingsakte, statuten en reglementen aan wet- en regelgeving voldoen. Bij de aanvraag moeten op grond van [artikel 2 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2)deze stukken worden meegestuurd.
 
 ### Representativiteit
 
 Tevens zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd. Daartoe zal een actuariële en bedrijfstechnische nota, die hiervoor als informatie dient, onderdeel uitmaken van de aanvraag.
 
-Bij een eerste aanvraag van verplichtstelling wordt de representativiteit berekend over de gehele werkingssfeer van het bpf waarvoor verplichtstelling wordt gevraagd. Het is mogelijk dat partijen aangeven dat een bpf meerdere afgebakende bedrijfstakken omvat. In zo’n situatie zal de beoordeling van de representativiteit plaatsvinden per afzonderlijke bedrijfstak en daarmee ook voor het geheel. Het is immers van belang te waarborgen dat binnen alle bij het bpf aangesloten bedrijfstakken een belangrijke meerderheid de verplichtstelling wenst. Het moet niet zo kunnen zijn dat twee grote bedrijfstakken een verplichtstelling kunnen opleggen aan een derde, kleine bedrijfstak.
-
 Na ontvangst van het oordeel van DNB en eventueel van de Stichting van de Arbeid zal door de Minister van SZW een besluit genomen worden.
+
+Een besluit tot verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeld waarbij voor de volledigheid wordtaangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
 ### Zienswijzen
 
@@ -283,9 +283,7 @@ De aanvragers van de verplichtstelling, de eventuele indieners van zienswijzen e
 
 Daarbij wordt aangegeven binnen welke termijn derden/belanghebbenden zienswijzen kunnen indienen tegen de aanvraag ([artikel 16, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=16)). De termijn van tervisielegging bedraagt in beginsel vier weken. Gedurende de termijn van vier weken liggen de op de aanvraag van verplichtstelling betrekking hebbende stukken ter visie.
 
-Overschrijding van de vierwekentermijn voor het indienen van zienswijzen is niet mogelijk, tenzij de Directie UAW daartoe schriftelijk toestemming heeft gegeven. Dit uitstel kan bovendien alleen worden verleend wanneer tenminste de hoofdpunten van de zienswijzen tijdens de periode van tervisielegging schriftelijk zijn ingebracht en deugdelijk gemotiveerd is waarom om uitstel wordt verzocht.
-
-Op basis van [artikel 10, eerste lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10) kunnen naar oordeel van de Minister van SZW voldoende representatieve partijen wijziging van de verplichtstelling aanvragen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
+Op basis van [artikel 10, eerste lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10) kunnen naar oordeel van de Minister van SZW voldoende representatieve partijen wijziging van de verplichtstelling aanvragen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 Een wijziging van de verplichtstelling heeft betrekking op een aanpassing van de werkingssfeer, niet zijnde een inkrimping in de zin dat een bepaalde bedrijfstak of een afgebakend deel van de bedrijfstak uit de werkingssfeer wordt gehaald. Dan is namelijk sprake van intrekking van een deel van de verplichtstelling (zie hierover paragraaf 4c).
 
@@ -295,19 +293,21 @@ Bij een aanvraag om wijziging van de verplichtstelling moeten de bescheiden geno
 
 Op grond van [artikel 9 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=9), moeten de met de wijziging van de verplichtstelling samenhangende statuten- of reglementswijzigingen door het bpf aan DNB worden gezonden.
 
-### Overleg met DNB
+Wanneer de aanvraag om wijziging van de verplichtstelling volledig is en inhoudelijkvoldoet aan de vereisten, wordt metde procedure wat betreft de bekendmaking in de Staatscourant en (eventueel) de zienswijzenprocedure gestart, zoals bij een eerste aanvraag om verplichtstelling (zie paragraaf 4.a.).
 
-Bij een eerste aanvraag om verplichtstelling zal DNB door de Minister van SZW worden gevraagd aan te geven of de oprichtingsakte, statuten en reglementen aan wet- en regelgeving voldoen. Bij de aanvraag moeten op grond van [artikel 2 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2)deze stukken worden meegestuurd.
+### Representativiteit
 
 Ten aanzien van aanvragen om wijziging van de verplichtstelling kan onderscheid worden gemaakt in de volgende situaties:
 
-### Besluit
+Wanneer aan deze twee voorwaarden is voldaan, wordt bij wijziging van de verplichtstelling waarbij een bedrijfstak wordt toegevoegd, of waarbij ten aanzien van een bepaalde bedrijfstak iets wijzigt, de representativiteit van de verzoekende werkgevers- en werknemersorganisaties beoordeeld wat betreft de werkingssfeer van die ene bedrijfstak.
 
-Na ontvangst van het oordeel van DNB en eventueel van de Stichting van de Arbeid zal door de Minister van SZW een besluit genomen worden.
+### Zienswijzen
 
 Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
 
-De aanvragers van de verplichtstelling, de eventuele indieners van zienswijzen en DNB worden schriftelijk geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de Stichting van de Arbeid en eventueel van de SER dan worden deze over het besluit geïnformeerd.
+Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
+
+Afhankelijk van de inhoud van de wijziging zal de Minister van SZW in overleg treden met DNB.
 
 ### b. Wijziging van de verplichtstelling
 
@@ -315,37 +315,37 @@ De aanvragers van de verplichtstelling, de eventuele indieners van zienswijzen e
 
 Wanneer de wijziging van de verplichtstelling alleen een naamswijziging betreft of een andere wijziging die geen inhoudelijke verandering in zich houdt, zal het overleg met DNB achterwege blijven.
 
-Een wijziging van de verplichtstelling heeft betrekking op een aanpassing van de werkingssfeer, niet zijnde een inkrimping in de zin dat een bepaalde bedrijfstak of een afgebakend deel van de bedrijfstak uit de werkingssfeer wordt gehaald. Dan is namelijk sprake van intrekking van een deel van de verplichtstelling (zie hierover paragraaf 4c).
-
 Een besluit betreffende een wijziging van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeldwaarbij voor devolledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft.Het besluit wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+
+De aanvragers om wijziging van de verplichtstelling en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de Stichting van de Arbeid en eventueel van de SER dan worden deze over het besluit geïnformeerd.
 
 De aanvragers om wijziging van de verplichtstelling en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de Stichting van de Arbeid en eventueel van de SER dan worden deze over het besluit geïnformeerd.
 
 Op grond van [artikel 9 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=9), moeten de met de wijziging van de verplichtstelling samenhangende statuten- of reglementswijzigingen door het bpf aan DNB worden gezonden.
 
-Wanneer de aanvraag om wijziging van de verplichtstelling volledig is en inhoudelijkvoldoet aan de vereisten, wordt metde procedure wat betreft de bekendmaking in de Staatscourant en (eventueel) de zienswijzenprocedure gestart, zoals bij een eerste aanvraag om verplichtstelling (zie paragraaf 4.a.).
+Op basis van [artikel 11, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) kunnen naar het oordeel van de Minister van SZW voldoende representatieve partijen een aanvraag om intrekking van de verplichtstelling indienen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 ### Representativiteit
 
-Bij een aanvraag om intrekking van de verplichtstelling zijn op basis van [artikel 11, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074)).
+Ook een aanvraag om intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen een aanvraag om intrekking kunnen zienswijzen worden ingebracht (zie hiervoor paragraaf 4.a.‘Eerste aanvraag van verplichtstelling’).
 
 Ook een aanvraag om intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen een aanvraag om intrekking kunnen zienswijzen worden ingebracht (zie hiervoor paragraaf 4.a.‘Eerste aanvraag van verplichtstelling’).
 
 ### Representativiteit
 
-In het geval van een aanvraag om een volledige intrekking zal worden beoordeeld of de verzoekende partijen representatief zijn voor de gehele werkingssfeer van het bpf.
+In het geval van intrekking van de verplichtstelling van een bpf dat meerdere afgebakende bedrijfstakken omvat, zal de beoordeling van de representativiteit plaatsvinden per afzonderlijke bedrijfstak en daarmee ook voor het geheel. Het is immers van belang te waarborgen dat binnen alle bij het bpf aangesloten bedrijfstakken voldoende draagvlak voor de intrekking van de verplichtstelling aanwezig is. Het moet niet zo kunnen zijn dat twee grote bedrijfstakken een intrekking van de verplichtstelling kunnen opleggen aan een derde, kleine bedrijfstak.
 
-### Overleg met DNB
-
-Afhankelijk van de inhoud van de wijziging zal de Minister van SZW in overleg treden met DNB.
+### Zienswijzen
 
 Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
 
-Wanneer de wijziging van de verplichtstelling alleen een naamswijziging betreft of een andere wijziging die geen inhoudelijke verandering in zich houdt, zal het overleg met DNB achterwege blijven.
+Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
+
+De Minister van SZW zal in het geval van een aanvraag om intrekking van de verplichtstelling in overleg treden met DNB. Een intrekking kan financiële gevolgen hebben voor het bpf of de deelnemers in het bpf.
 
 ### Besluit tot wijziging
 
-In het geval van een aanvraag om een intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van de verplichtstelling.
+Op grond van [artikel 11, vierde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de intrekking als informatie dienen.
 
 Op grond van [artikel 11, vierde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de intrekking als informatie dienen.
 
@@ -357,13 +357,13 @@ De aanvragers om intrekking, de eventuele indieners van zienswijzen, evenals DNB
 
 Bij een aanvraag om intrekking van de verplichtstelling zijn op basis van [artikel 11, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074)).
 
-Ook een aanvraag om intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen een aanvraag om intrekking kunnen zienswijzen worden ingebracht (zie hiervoor paragraaf 4.a.‘Eerste aanvraag van verplichtstelling’).
+Op basis van [artikel 11, derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) kunnen naar het oordeel van de Minister van SZW voldoende representatieve partijen intrekking van een deel van de verplichtstelling vragen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 ### Representativiteit
 
 Bij een aanvraag om intrekking van een deel van de verplichtstelling zijn op basis van [artikel 11, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074)).
 
-In het geval van intrekking van de verplichtstelling van een bpf dat meerdere afgebakende bedrijfstakken omvat, zal de beoordeling van de representativiteit plaatsvinden per afzonderlijke bedrijfstak en daarmee ook voor het geheel. Het is immers van belang te waarborgen dat binnen alle bij het bpf aangesloten bedrijfstakken voldoende draagvlak voor de intrekking van de verplichtstelling aanwezig is. Het moet niet zo kunnen zijn dat twee grote bedrijfstakken een intrekking van de verplichtstelling kunnen opleggen aan een derde, kleine bedrijfstak.
+Zo’n deel kan bestaan uit:
 
 ### Zienswijzen
 
@@ -371,43 +371,41 @@ Ook een aanvraag om gedeeltelijke intrekking van de verplichtstelling wordt beke
 
 ### Representativiteit
 
-Dezelfde werkgevers- en werknemersorganisaties als die betrokken zijn geweest bij de verplichtstelling kunnen een gedeeltelijke intrekking aanvragen.
-
 Maar ook andere organisaties of een deel van de bij de verplichtstelling van het bpf betrokken werkgevers- en werknemersorganisaties kunnen een gedeeltelijke intrekking aanvragen.
 
 Voor iedere aanvrager gelden echter dezelfde eisen:
 
-### Besluit tot intrekking
+In het geval van een aanvraag tot gedeeltelijke intrekking van de verplichtstelling betreffende één van de bedrijfstakken in het bpf of voor een afgebakend deel binnen een bedrijfstak zal worden gekeken of sprake is van voldoende representativiteit bij de verzoekende partijen voor dat deel waarvoor intrekking van de verplichtstelling wordt verzocht.
 
-Draagvlak binnen de gehele werkingssfeer van het bpf is bij een gedeeltelijke intrekking niet vereist. Gedachte hierachter is dat wanneer een representatieve vertegenwoordiging van een bedrijfstak of een afgebakend deel van de bedrijfstak niet langer een verplichtstelling wil, intrekking voor dat deel mogelijk moet zijn. De wens van sociale partners is immers de basis voor een verplichtstelling.
+### Besluit tot intrekking
 
 De Minister van SZW zal in een geval van gedeeltelijke intrekking echter ook de bij het verplichtgestelde bpf achterblijvende partijen betrekken in het proces. Zij zullen worden geïnformeerd over de aanvraag om gedeeltelijke intrekking, opdat zij hun opvatting hierover aan de Minister van SZW kenbaar kunnen maken.
 
+Dit is ook in het belang van de partijen die een aanvraag om gedeeltelijke intrekking indienen. Immers, het deel van de bedrijfstak of, in het geval van meerdere bedrijfstakken binnen het bpf, de bedrijfstak waarvoor intrekking van de verplichtstelling wordt gevraagd, maakt onderdeel uit van dat bpf. Een vertrek bij het bpf nadat het besluit tot intrekking van de verplichtstelling is genomen heeft consequenties voor zowel de vertrekkende partij als voor ’de achterblijvers’. De vertrekkende partij zal mogelijk overgaan tot het oprichten van een eigen bpf. Dan moet met de achterblijvende partijen in het bpf overeenstemming worden bereikt over de financiële afwikkeling. De vertrekkende partij heeft er belang bij dat die overeenstemming er komt, omdat het anders erg moeilijk zal zijn een eigen fonds op te richten.
+
 ### d. Intrekking van een deel van de verplichtstelling op aanvraag van partijen
 
-### Aanvraag intrekking deel van verplichtstelling
+### Zienswijzen
 
-Op basis van [artikel 11, derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) kunnen naar het oordeel van de Minister van SZW voldoende representatieve partijen intrekking van een deel van de verplichtstelling vragen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
+Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
 
 Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
 
 ### Overleg met DNB
 
-De Minister van SZW zal in het geval van een aanvraag om gedeeltelijke intrekking van de verplichtstelling in overleg treden met DNB.
-
 In het geval van een aanvraag om een gedeeltelijke intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van een deel van de verplichtstelling. DNB zal zich in het bijzonder ook buigen over de consequenties van de gedeeltelijke intrekking voor de financiële positie van het verplichtgestelde bpf en zijn deelnemers.
 
-### Representativiteit
+Op grond van [artikel 11, vierde lid, Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot gedeeltelijke intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de gedeeltelijke intrekking als informatie dienen.
 
-Dezelfde werkgevers- en werknemersorganisaties als die betrokken zijn geweest bij de verplichtstelling kunnen een gedeeltelijke intrekking aanvragen.
+### Besluit tot gedeeltelijke intrekking
 
 Een besluit betreffende intrekking van een deel van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeldwaarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende krachtheeft.Het besluit tot intrekking van een deel van de verplichtstelling wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+
+De aanvragers om gedeeltelijke intrekking, de eventuele indieners van zienswijzen evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
 
 De aanvragers om gedeeltelijke intrekking, de eventuele indieners van zienswijzen evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
 
 In het geval van een aanvraag tot gedeeltelijke intrekking van de verplichtstelling betreffende één van de bedrijfstakken in het bpf of voor een afgebakend deel binnen een bedrijfstak zal worden gekeken of sprake is van voldoende representativiteit bij de verzoekende partijen voor dat deel waarvoor intrekking van de verplichtstelling wordt verzocht.
-
-Draagvlak binnen de gehele werkingssfeer van het bpf is bij een gedeeltelijke intrekking niet vereist. Gedachte hierachter is dat wanneer een representatieve vertegenwoordiging van een bedrijfstak of een afgebakend deel van de bedrijfstak niet langer een verplichtstelling wil, intrekking voor dat deel mogelijk moet zijn. De wens van sociale partners is immers de basis voor een verplichtstelling.
 
 Op basis van [artikel 11, eerste lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), kan de Minister van SZW de verplichtstelling of een deel ervan ambtshalve intrekken. De motivering voor zo’n ambtshalve intrekking ligt in de verantwoordelijkheid die de Minister van SZW heeft ten aanzien van degenen die via een besluit tot verplichtstelling worden gebonden aan een bpf.
 
@@ -415,15 +413,17 @@ Deze bevoegdheid zal naar verwachting niet snel gebruikt worden, omdat het een i
 
 De Minister van SZW kan in het uiterste geval waarin een bpf weigert de situatie binnen het fonds te wijzigen en bijvoorbeeld vasthoudt aan een regeling die niet de instemming heeft van DNB of op andere wijze onbehoorlijk handelt, overgaan tot ambtshalve intrekking.
 
+Ook in het geval dat, in het kader van een aanvraag om intrekking van de verplichtstelling, niet langer is aangetoond dat sprake is van representatieve sociale partners in de bedrijfstak waarbinnen deelname aan een bpf is verplichtgesteld, kan deze bevoegdheid uitkomst bieden. De Minister van SZW kan dan overgaan tot ambtshalve intrekking, eventueel na een verzoek daartoe van belanghebbenden, bijvoorbeeld niet-representatieve partijen in die bedrijfstak of het bestuur van het bpf dat verplichtgesteld is.
+
 ### Zienswijzen
 
-De niet-representatieve partijen kunnen namelijk geen gebruik maken van het zelf met succes indienen van een aanvraag om intrekking op basis van [artikel 11, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), omdat niet kan worden voldaan aan de voorwaarde van representativiteit.
+Door de mogelijkheid van ambtshalve intrekking, kan worden voorkomen dat een verplichtstelling wordt gehandhaafd tot het moment van de vijfjaarstoets/herhalingstoets waarin zal worden vastgesteld dat niet langer sprake is van een representatieve vertegenwoordiging.
 
 ### Overleg met DNB
 
 Een voornemen tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant. Ook tegen zo’n voornemen kunnen zienswijzen worden ingebracht.
 
-In het geval van een aanvraag om een gedeeltelijke intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van een deel van de verplichtstelling. DNB zal zich in het bijzonder ook buigen over de consequenties van de gedeeltelijke intrekking voor de financiële positie van het verplichtgestelde bpf en zijn deelnemers.
+Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Eerste aanvraag van verplichtstelling’.
 
 Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Aanvraag van verplichtstelling’.
 
@@ -431,15 +431,13 @@ Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in p
 
 In het geval van een voornemen tot ambtshalve intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de ambtshalve intrekking van (een deel van) de verplichtstelling.
 
-De aanvragers om gedeeltelijke intrekking, de eventuele indieners van zienswijzen evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
+Een besluit tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant. De datumvan in werking treden wordt bij het besluit vermeld waarbij voor de volledigheid wordtaangegeven dat het besluit geen terugwerkende kracht heeft.Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
 ### e. Ambtshalve intrekking van de verplichtstelling
 
 ### Voornemen tot ambtshalve intrekking
 
 De partijen die betrokken zijn bij het bpf waarvan de verplichtstelling wordt ingetrokken, de eventuele indieners van zienswijzen evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
-
-Deze bevoegdheid zal naar verwachting niet snel gebruikt worden, omdat het een ingrijpende bevoegdheid is.
 
 In de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) is ten aanzien van de representativiteit een nieuw element geïntroduceerd, de periodieke toets (zie hierover ook paragraaf 3.1.b).
 
@@ -451,31 +449,33 @@ De intrekking kan worden uitgesteld op basis van [artikel 12, zesde lid, van de 
 
 Op basis van [artikel 12, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=12), kan de Minister van SZW bij de intrekking voorschriften geven met betrekking tot de rechten en verplichtingen van de deelnemers, gewezen deelnemers of hun werkgevers.
 
-### Zienswijzen
+De opvatting van DNB over de financiële gevolgen van de intrekking kan hierbij als informatie dienen.
 
-Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4.a. ‘Aanvraag van verplichtstelling’.
+### g. Ontheffing
+
+Op basis van [artikel 15 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15) kan ontheffing van verplichtstelling worden gevraagd aan de Minister van SZW. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 ### Overleg met DNB
 
-Zo’n aanvraag kan worden gedaan door of voor een individuele persoon die slechts gedurende een beperkte periode in Nederland werkzaam is.
+De wet van 21 juni 2001 tot wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten ter uitvoering van [richtlijn nr. 98/49/EG](31998L0049) (Staatsblad 2001, 314) heeft geleid tot een aanpassing van [artikel 15 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15). artikel 15, eerste lid, Wet Bpf 2000, verwijst nu naar dat wat in [artikel 97 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=97)is bepaald.
 
 ### Besluit tot ambtshalve intrekking
-
-Hierdoor hoeft voor gedetacheerde werknemers van binnen de Europese Unie en van wie de detachering is begonnen op of na 25 juli 2001, niet langer ontheffing te worden aangevraagd indien de betaling van bijdragen in een andere lidstaat wordt voortgezet. Deze werknemers en hun werkgevers zijn op basis van [artikel 97, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=97) vrijgesteld van de verplichting tot het betalen van bijdragen aan het verplichtgestelde bpf in Nederland.
 
 [Artikel 15 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15) heeft nog betekenis voor die gevallen waarop [artikel 97 vande Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=97) niet van toepassing is, bijvoorbeeld bij detacheringen die begonnen zijn voor 25 juli 2001 en bij detacheringen van buiten de Europese Unie.Ook houdt artikel 15 nog betekenis voor gevallen waar het gaat om personen die in een andere hoedanigheid (dan detachering) tijdelijk in Nederland werkzaam zijn.
 
 In [artikel 5 van de Regeling betreffende aanvragen op grond van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5) is aangegeven waaraan zo’n aanvraag moet voldoen.
 
-### h. Wijziging van statuten en reglementen
+In [artikel 5 van de Regeling betreffende aanvragen op grond van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5) is aangegeven waaraan zo’n aanvraag moet voldoen.
 
-Er kan onderscheid worden gemaakt tussen een wijziging van statuten en reglementen die tevens een wijziging van het besluit tot verplichtstelling noodzakelijk maakt, en statuten- en reglementswijzigingen die geen invloed hebben op een besluit tot verplichtstelling. Sociale partners dienen dit bij iedere wijziging die zij overeenkomen in aanmerking te nemen omdat de actie die zij moeten ondernemen in verband met de verplichtstelling daarvan afhankelijk is.
+### h. Wijziging van statuten en reglementen
 
 In het geval dat de statuten- en reglementswijziging gevolgen heeft voor het besluit tot verplichtstelling dient een van de procedures zoals hiervoor omschreven te worden gevolgd.
 
 Statuten- en reglementswijzigingen die niet leiden tot aanpassing van de verplichtstelling dienen door het verplichtgestelde bpf rechtstreeks aan DNB te worden gezonden ([artikel 9 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=9)). DNB beoordeelt, zoals dat ook bij andere pensioenfondsen dan de verplichtgestelde pensioenfondsen gebeurt, of sprake is van strijd met wet- en regelgeving. Indien DNB strijdigheid constateert, meldt hij dit ter kennisname aan de Minister van SZW.
 
 Indien een bpf dit nalaat of de wijziging ondanks een negatieve beoordeling van DNB toch invoert, is in [artikel 9, vierde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=9) opgenomen dat het bpf de kosten moet vergoeden aan degene die zijn vrijgesteld op basis van het [Vrijstellings- enboetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094). Afhankelijk van de vrijstellingsgrond moet een vrijgestelde namelijk de wijzigingen in statuten en reglementen van het bpf volgen. Wanneer die wijziging niet conform wet- en regelgeving blijkt te zijn en de vrijgestelde vanwege een nieuwe aanpassing van statuten en reglementen van het bpf ook zijn statuten en reglementen opnieuw moet aanpassen, moet het bpf de kosten die daarmee samenhangen, vergoeden.
+
+Het moment van inwerkingtreding van wijziging van statuten en reglementen wordt bepaald door het bestuur van het bpf.
 
 Het moment van inwerkingtreding van wijziging van statuten en reglementen wordt bepaald door het bestuur van het bpf.
 
@@ -513,7 +513,7 @@ Het moment van inwerkingtreding van wijziging van statuten en reglementen wordt 
 
 ### Omschrijving van de werkingssfeer van de verplichtstelling
 
-Wanneer in een omschrijving van een werkingssfeer wordt verwezen naar een bepaalde wet, besluit of regeling, dan moet deze worden gefixeerd. Dit betekent dat moet worden aangegeven van welke datum de wet, besluit of regeling is waarnaar verwezen wordt en waar die is terug te vinden. Een verwijzing naar een CAO voor de omschrijving van dewerkingssfeer is niet mogelijk. Indien eenzelfde werkingssfeer als een bepaalde CAO gewenst wordt, zal in plaats van een verwijzing de werkingssfeer van die CAO uitgeschreven moeten worden in de werkingssfeer van de verplichtstelling. Wanneer voor de maximumleeftijd voor beëindiging van de deelname in het pensioenfonds verwezen wordt naar [artikel 18a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a)of [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) is het opnemen van een fixatie niet vereist.
+Wanneer in een omschrijving van een werkingssfeer wordt verwezen naar een bepaalde wet, besluit of regeling, dan moet deze worden gefixeerd. Dit betekent dat een jaartal en publicatienummer van de Staatscourant of het Staatsblad zijn opgenomen. Een verwijzing naar een cao voor de omschrijving van dewerkingssfeer is niet mogelijk. Indien eenzelfde werkingssfeer als een bepaalde cao gewenst wordt, zal in plaats van een verwijzing de werkingssfeer van die cao uitgeschreven moeten worden in de werkingssfeer van de verplichtstelling. Wanneer voor de maximumleeftijd voor beëindiging van de deelname in het pensioenfonds verwezen wordt naar [artikel 18a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a)of [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) is het opnemen van een fixatie niet vereist.
 
 ### Deelnemer
 
@@ -527,7 +527,7 @@ Een besluit tot verplichtstelling kan pas genomen worden wanneer de werkingssfer
 
 ### Uitgangspunten
 
-Mede vanwege de grote betekenis van zo’n besluit voor een bedrijfstak, moet het bij een aanvraag om verplichtstelling op grond van de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) gaan om een gezamenlijke aanvraag van werkgevers en werknemers, ‘het georganiseerde bedrijfsleven in de bedrijfstak’. Bij de beoordeling van de representativiteit wordt daarom zowel gekeken naar de werkgevers- als naar de werknemerspartijen.
+Mede vanwege de grote betekenis van een dergelijk besluit voor een bedrijfstak, moet het bij een aanvraag om verplichtstelling op grond van de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) gaan om een gezamenlijke aanvraag van werkgevers en werknemers, ‘het georganiseerde bedrijfsleven in de bedrijfstak’. Bij de beoordeling van de representativiteit wordt daarom zowel gekeken naar de werkgevers- als naar de werknemerspartijen.
 
 De representativiteit in het kader van de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) wordt beoordeeld ten aanzien van de werkingssfeer waarvoor verplichtstelling, wijziging of gehele of gedeeltelijke intrekking wordt gevraagd.
 
@@ -541,7 +541,7 @@ Indien echter tegen de representativiteit van werknemersorganisaties zienswijzen
 
 ### Eisen aan de representativiteitsgegevens
 
-De opgave van de representativiteit kan worden ingediend aan de hand van het formulier representativiteitsgegevens (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3) en [4,van de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4)). Ingeval van een representativiteitspercentage onder de 60 of ingeval beargumenteerde zienswijzen tegen de representativiteit daartoe aanleiding geven is het gebruik maken van dit formulier vereist. De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een nadere rapportage, van een registeraccountant of accountant-administratieconsulent die daartoe is gecertificeerd, over de juistheid van de opgave wordt overgelegd.
+De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een assurancerapport van een registeraccountant of accountant-administratieconsulent, die daartoe is gecertificeerd, over de juistheid van de opgave wordt overgelegd.
 
 ### Belangrijke meerderheid in het geval van een herhalingstoets van de representativiteit
 
@@ -551,11 +551,11 @@ De opgave van de representativiteit kan worden ingediend aan de hand van het for
 
 De Minister van SZW zal 8 weken voor het verstrijken van de vijfjaarstermijn (via het verplichtgestelde bpf) aan de sociale partners betrokken bij het verplichtgestelde bpf verzoeken op juiste en volledige wijze binnen 8 weken aan te tonen dat nog steeds wordt voldaan aan het representativiteitsvereiste.
 
-De opgave van de representativiteitsgegevens en de hiervoor gehanteerde onderzoeksmethodiek kan worden ingediend aan de hand van het formulier representativiteitsgegevens, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3) en [4, van de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4). In geval van een representativiteitspercentage onder de 60 is het gebruik maken van dit formulier vereist. De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een nadere rapportage van een registeraccountant of accountant-administratieconsulent die daartoe gecertificeerd is, over de juistheid van de opgave wordt overgelegd.
+De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een assurancerapport van een registeraccountant of accountant-administratieconsulent, die daartoe is gecertificeerd, over de juistheid van de opgave wordt overgelegd.
 
-In het geval van meerdere bedrijfstakken binnen één bpf moet periodiek per bedrijfstak de representativiteit worden aangetoond. Daarbij kan een verschillend moment voor de verschillende delen van het bpf aan de orde zijn. Dit is afhankelijk van tussentijdse wijzigingen in de werkingssfeer. Indien die slechts een deel van de werkingssfeer betroffen, is alleen voor dat deel de representativiteit aangetoond en een nieuwe periode van vijf jaar gestart.
+In het geval van meerdere bedrijfstakken binnen één bpf moet periodiek per bedrijfstak de representativiteit worden aangetoond. Daarbij kan een verschillend moment voor de verschillende bedrijfstakken van het bpf aan de orde zijn. Dit is afhankelijk van tussentijdse wijzigingen in de werkingssfeer. Indien die slechts betrekking heeft op één bedrijfstak, is alleen voor die bedrijfstak de representativiteit aangetoond en een nieuwe periode van vijf jaar gestart.
 
-Indien partijen binnen 8 weken na het verzoek niet aantonen te voldoen aan het vereiste van representativiteit, dan doet de Minister van SZW in de Staatscourant de mededeling dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid. Ook worden betrokkenen hiervan per brief op de hoogte gesteld.
+Indien partijen binnen 8 weken na het verzoek niet aantonen te voldoen aan het vereiste van representativiteit, dan doet de Minister van SZW in de Staatscourant de mededeling dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid. Ook worden betrokkenen hiervan op de hoogte gesteld.
 
 ### Herhalingstoets
 
@@ -575,7 +575,7 @@ Wanneer in de procedure van verplichtstelling, wijziging of intrekking ervan aan
 
 ### Indienen aanvraag
 
-Een aanvraag om verplichtstelling moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW).
+Een aanvraag om verplichtstelling moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW).
 
 ### Representativiteit
 
@@ -583,21 +583,21 @@ Wanneer de aanvraag om verplichtstelling volledig is, zal worden beoordeeld of d
 
 ### Zienswijzen
 
-Na vaststelling van de volledigheid van de aanvraag en het voldoen aan de vereisten, waaronder die van de representativiteit zal de aanvraag om verplichtstelling in behandelingworden genomen. Dit blijkt door publicatie van de aanvraagin de Staatscourant ([artikel 16, eerste lid, Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=16)).
-
 Daarbij wordt aangegeven binnen welke termijn derden/belanghebbenden zienswijzen kunnen indienen tegen de aanvraag ([artikel 16, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=16)). De termijn van tervisielegging bedraagt in beginsel vier weken. Gedurende de termijn van vier weken liggen de op de aanvraag van verplichtstelling betrekking hebbende stukken ter visie.
 
-Overschrijding van de vierwekentermijn voor het indienen van zienswijzen is niet mogelijk, tenzij de Directie UAW daartoe schriftelijk toestemming heeft gegeven. Dit uitstel kan bovendien alleen worden verleend wanneer tenminste de hoofdpunten van de zienswijzen tijdens de periode van tervisielegging schriftelijk zijn ingebracht en deugdelijk gemotiveerd is waarom om uitstel wordt verzocht.
+Overschrijding van de vierwekentermijn voor het indienen van zienswijzen is niet mogelijk, tenzij de Directie UAW daartoe schriftelijk (elektronisch) toestemming heeft gegeven. Dit uitstel kan bovendien alleen worden verleend wanneer tenminste de hoofdpunten van de zienswijzen tijdens de periode van tervisielegging zijn ingebracht en deugdelijk gemotiveerd is waarom om uitstel wordt verzocht.
+
+Zienswijzen die zijn ingediend vóór de datum van bekendmaking in de Staatscourant worden niet in behandeling genomen.
 
 ### Overleg met DNB
 
-Bij een eerste aanvraag om verplichtstelling zal DNB door de Minister van SZW worden gevraagd aan te geven of de oprichtingsakte, statuten en reglementen aan wet- en regelgeving voldoen. Bij de aanvraag moeten op grond van [artikel 2 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2)deze stukken worden meegestuurd.
+Tevens zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd. Daartoe zal een actuariële en bedrijfstechnische nota, die hiervoor als informatie dient, onderdeel uitmaken van de aanvraag.
 
 ### Besluit
 
-Een besluit tot verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeld waarbij voor de volledigheid wordtaangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+De aanvragers van de verplichtstelling, de eventuele indieners van zienswijzen en DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de Stichting van de Arbeid en eventueel van de SER dan worden deze over het besluit geïnformeerd.
 
-### b. Wijziging van de verplichtstelling
+### Indienen aanvraag tot wijziging
 
 ### Indienen aanvraag tot wijziging
 
@@ -611,17 +611,17 @@ Wanneer aan deze twee voorwaarden is voldaan, wordt bij wijziging van de verplic
 
 ### Overleg met DNB
 
-Afhankelijk van de inhoud van de wijziging zal de Minister van SZW in overleg treden met DNB.
-
 Wanneer sprake is van een aanpassing van de werkingssfeer van de verplichtstelling zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd na wijziging. Een actuariële en bedrijfstechnische nota die hiervoor als informatie dient moet, bij wijziging, door het bpf bij de aanvraag worden meegezonden.
+
+Wanneer de wijziging van de verplichtstelling alleen een naamswijziging betreft of een andere wijziging die geen inhoudelijke verandering in zich houdt, zal het overleg met DNB achterwege blijven.
 
 ### Besluit tot wijziging
 
-### c. Intrekking van de verplichtstelling op aanvraag van partijen
+### Indienen aanvraag om intrekking
 
 ### Indienen aanvraag om intrekking
 
-Op basis van [artikel 11, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) kunnen naar het oordeel van de Minister van SZW voldoende representatieve partijen een aanvraag om intrekking van de verplichtstelling indienen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
+Bij een aanvraag om intrekking van de verplichtstelling zijn op basis van [artikel 11, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074)).
 
 In het geval van intrekking van de verplichtstelling van een bpf dat meerdere afgebakende bedrijfstakken omvat, zal de beoordeling van de representativiteit plaatsvinden per afzonderlijke bedrijfstak en daarmee ook voor het geheel. Het is immers van belang te waarborgen dat binnen alle bij het bpf aangesloten bedrijfstakken voldoende draagvlak voor de intrekking van de verplichtstelling aanwezig is. Het moet niet zo kunnen zijn dat twee grote bedrijfstakken een intrekking van de verplichtstelling kunnen opleggen aan een derde, kleine bedrijfstak.
 
@@ -629,23 +629,23 @@ In het geval van intrekking van de verplichtstelling van een bpf dat meerdere af
 
 ### Overleg met DNB
 
-De Minister van SZW zal in het geval van een aanvraag om intrekking van de verplichtstelling in overleg treden met DNB. Een intrekking kan financiële gevolgen hebben voor het bpf of de deelnemers in het bpf.
+In het geval van een aanvraag om een intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van de verplichtstelling.
 
-Een besluit betreffende een intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeld waarbij voordevolledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft.Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
-
-### d. Intrekking van een deel van de verplichtstelling op aanvraag van partijen
+De aanvragers om intrekking, de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
 
 ### Aanvraag intrekking deel van verplichtstelling
 
-Op basis van [artikel 11, derde lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) kunnen naar het oordeel van de Minister van SZW voldoende representatieve partijen intrekking van een deel van de verplichtstelling vragen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
+### Aanvraag intrekking deel van verplichtstelling
+
+Bij een aanvraag om intrekking van een deel van de verplichtstelling zijn op basis van [artikel 11, zevende lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074)).
 
 ### Een deel van de verplichtstelling
 
-Zo’n deel kan bestaan uit:
+Ook een aanvraag om gedeeltelijke intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen zo’n aanvraag kunnen zienswijzen worden ingebracht.
 
-In het geval van een aanvraag tot gedeeltelijke intrekking van de verplichtstelling betreffende één van de bedrijfstakken in het bpf of voor een afgebakend deel binnen een bedrijfstak zal worden gekeken of sprake is van voldoende representativiteit bij de verzoekende partijen voor dat deel waarvoor intrekking van de verplichtstelling wordt verzocht.
+Draagvlak binnen de gehele werkingssfeer van het bpf is bij een gedeeltelijke intrekking niet vereist. Gedachte hierachter is dat wanneer een representatieve vertegenwoordiging van een bedrijfstak of een afgebakend deel van de bedrijfstak niet langer een verplichtstelling wil, intrekking voor dat deel mogelijk moet zijn. De wens van sociale partners is immers de basis voor een verplichtstelling.
 
-Dit is ook in het belang van de partijen die een aanvraag om gedeeltelijke intrekking indienen. Immers, het deel van de bedrijfstak of, in het geval van meerdere bedrijfstakken binnen het bpf, de bedrijfstak waarvoor intrekking van de verplichtstelling wordt gevraagd, maakt onderdeel uit van dat bpf. Een vertrek bij het bpf nadat het besluit tot intrekking van de verplichtstelling is genomen heeft consequenties voor zowel de vertrekkende partij als voor ’de achterblijvers’. De vertrekkende partij zal mogelijk overgaan tot het oprichten van een eigen bpf. Dan moet met de achterblijvende partijen in het bpf overeenstemming worden bereikt over de financiële afwikkeling. De vertrekkende partij heeft er belang bij dat die overeenstemming er komt, omdat het anders erg moeilijk zal zijn een eigen fonds op te richten.
+Bovendien bestaat ook bij een aanvraag om intrekking van een deel van de verplichtstelling de mogelijkheid zienswijzen in te dienen. Indien de achterblijvende partijen hiervan gebruik maken kan dat eveneens een obstakel zijn in de totstandkoming van het uiteindelijke besluit.
 
 Bovendien bestaat ook bij een aanvraag om intrekking van een deel van de verplichtstelling de mogelijkheid zienswijzen in te dienen. Indien de achterblijvende partijen hiervan gebruik maken kan dat eveneens een obstakel zijn in de totstandkoming van het uiteindelijke besluit.
 
@@ -655,21 +655,21 @@ Op grond van [artikel 11, vierde lid, Wet Bpf 2000](https://wetten.overheid.nl/j
 
 ### Besluit tot gedeeltelijke intrekking
 
-### e. Ambtshalve intrekking van de verplichtstelling
+### Voornemen tot ambtshalve intrekking
 
 ### Voornemen tot ambtshalve intrekking
 
-Ook in het geval dat, in het kader van een aanvraag om intrekking van de verplichtstelling, niet langer is aangetoond dat sprake is van representatieve sociale partners in de bedrijfstak waarbinnen deelname aan een bpf is verplichtgesteld, kan deze bevoegdheid uitkomst bieden. De Minister van SZW kan dan overgaan tot ambtshalve intrekking, eventueel na een verzoek daartoe van belanghebbenden, bijvoorbeeld niet-representatieve partijen in die bedrijfstak of het bestuur van het bpf dat verplichtgesteld is.
+De niet-representatieve partijen kunnen namelijk geen gebruik maken van het zelf met succes indienen van een aanvraag om intrekking op basis van [artikel 11, tweede lid, van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), omdat niet kan worden voldaan aan de voorwaarde van representativiteit.
 
-Door de mogelijkheid van ambtshalve intrekking, kan worden voorkomen dat een verplichtstelling wordt gehandhaafd tot het moment van de vijfjaarstoets/herhalingstoets waarin zal worden vastgesteld dat niet langer sprake is van een representatieve vertegenwoordiging.
+Een voornemen tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant. Ook tegen zo’n voornemen kunnen zienswijzen worden ingebracht.
 
 ### Zienswijzen
 
 ### Besluit tot ambtshalve intrekking
 
-Een besluit tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant. De datumvan in werking treden wordt bij het besluit vermeld waarbij voor de volledigheid wordtaangegeven dat het besluit geen terugwerkende kracht heeft.Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
-
 Op grond van [artikel 11, vierde lid, Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking.
+
+De partijen die betrokken zijn bij het bpf waarvan de verplichtstelling wordt ingetrokken, de eventuele indieners van zienswijzen evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De Stichting van de Arbeid wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen.
 
 ### f. Intrekking van de verplichtstelling op grond van onvoldoende representativiteit
 
@@ -677,6 +677,58 @@ De opvatting van DNB over de financiële gevolgen van de intrekking kan hierbij 
 
 ### g. Ontheffing
 
-Op basis van [artikel 15 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15) kan ontheffing van verplichtstelling worden gevraagd aan de Minister van SZW. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
+Zo’n aanvraag kan worden gedaan door of voor een individuele persoon die slechts gedurende een beperkte periode in Nederland werkzaam is.
 
-De wet van 21 juni 2001 tot wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten ter uitvoering van [richtlijn nr. 98/49/EG](31998L0049) (Staatsblad 2001, 314) heeft geleid tot een aanpassing van [artikel 15 van de Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15). artikel 15, eerste lid, Wet Bpf 2000, verwijst nu naar dat wat in [artikel 97 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=97)is bepaald.
+Hierdoor hoeft voor gedetacheerde werknemers van binnen de Europese Unie en van wie de detachering is begonnen op of na 25 juli 2001, niet langer ontheffing te worden aangevraagd indien de betaling van bijdragen in een andere lidstaat wordt voortgezet. Deze werknemers en hun werkgevers zijn op basis van [artikel 97, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=97) vrijgesteld van de verplichting tot het betalen van bijdragen aan het verplichtgestelde bpf in Nederland.
+
+### Zienswijzen
+
+### Overleg met DNB
+
+### Besluit
+
+### b. Wijziging van de verplichtstelling
+
+### Overleg met DNB
+
+### Besluit tot wijziging
+
+### c. Intrekking van de verplichtstelling op aanvraag van partijen
+
+### Representativiteit
+
+In het geval van een aanvraag om een volledige intrekking zal worden beoordeeld of de verzoekende partijen representatief zijn voor de gehele werkingssfeer van het bpf.
+
+### Overleg met DNB
+
+### Besluit tot intrekking
+
+Een besluit betreffende een intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt bij het besluit vermeld waarbij voordevolledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft.Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+
+### d. Intrekking van een deel van de verplichtstelling op aanvraag van partijen
+
+### Een deel van de verplichtstelling
+
+### Representativiteit
+
+Dezelfde werkgevers- en werknemersorganisaties als die betrokken zijn geweest bij de verplichtstelling kunnen een gedeeltelijke intrekking aanvragen.
+
+### Overleg met DNB
+
+De Minister van SZW zal in het geval van een aanvraag om gedeeltelijke intrekking van de verplichtstelling in overleg treden met DNB.
+
+### e. Ambtshalve intrekking van de verplichtstelling
+
+### Zienswijzen
+
+### Overleg met DNB
+
+In het geval van een voornemen tot ambtshalve intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het bpf en de grondslagen waarop die opzet is gebaseerd, ook na de ambtshalve intrekking van (een deel van) de verplichtstelling.
+
+### Besluit tot ambtshalve intrekking
+
+### f. Intrekking van de verplichtstelling op grond van onvoldoende representativiteit
+
+### h. Wijziging van statuten en reglementen
+
+Er kan onderscheid worden gemaakt tussen een wijziging van statuten en reglementen die tevens een wijziging van het besluit tot verplichtstelling noodzakelijk maakt, en statuten- en reglementswijzigingen die geen invloed hebben op een besluit tot verplichtstelling. Sociale partners dienen dit bij iedere wijziging die zij overeenkomen in aanmerking te nemen omdat de actie die zij moeten ondernemen in verband met de verplichtstelling daarvan afhankelijk is.
