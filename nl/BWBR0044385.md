@@ -4,7 +4,7 @@ identifier: "BWBR0044385"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-23"
-last_updated: "2020-11-27"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044385"
 soort: "ministeriele-regeling"
@@ -92,9 +92,9 @@ Onze Minister verstrekt en betaalt de gemeenten een voorschot van 100% van de ee
 
 1. De gemeente legt aan Onze Minister verantwoording af over de besteding van de specifieke uitkering op de wijze zoals is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Voor de activiteiten genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2020-11-27&g=2020-11-27), voert de gemeente de daadwerkelijk gemaakte kosten op voor de financiële verantwoording.
+2. Voor de activiteiten genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01), voert de gemeente de daadwerkelijk gemaakte kosten op voor de financiële verantwoording.
 
-3. Voor de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2020-11-27&g=2020-11-27), worden normbedragen gehanteerd die de gemeente opvoert voor de financiële verantwoording. Voor de activiteit genoemd in artikel 3, eerste lid, onder d, geldt voorts dat indien nazorg onderdeel is van de activiteiten genoemd onder artikel 3, eerste lid, onder c, de daadwerkelijke gemaakte kosten worden opgenomen in de financiële verantwoording. De volgende normbedragen worden gehanteerd:
+3. Voor de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01), worden normbedragen gehanteerd die de gemeente opvoert voor de financiële verantwoording. Voor de activiteit genoemd in artikel 3, eerste lid, onder d, geldt voorts dat indien nazorg onderdeel is van de activiteiten genoemd onder artikel 3, eerste lid, onder c, de daadwerkelijke gemaakte kosten worden opgenomen in de financiële verantwoording. De volgende normbedragen worden gehanteerd:
 
 - a. registratie van gedupeerde, eerste contact en inventarisatie van de hulpvragen: 380 euro;
 
@@ -106,9 +106,9 @@ Onze Minister verstrekt en betaalt de gemeenten een voorschot van 100% van de ee
 
 ##### Artikel 8. Vaststelling en terugvordering
 
-1. Onze Minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=7&z=2020-11-27&g=2020-11-27), genoemde verantwoording, respectievelijk van de in het vierde lid van dat artikel genoemde aanvulling.
+1. Onze Minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=7&z=2021-11-23&g=2021-01-01), genoemde verantwoording, respectievelijk van de in het vierde lid van dat artikel genoemde aanvulling.
 
-2. Onze Minister kan de uitkering op een lager bedrag vaststellen dan op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2020-11-27&g=2020-11-27), is verstrekt en het verschil terugvorderen indien uit de verantwoording blijkt dat de uitkering niet of niet volledig is besteed aan de activiteiten zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2020-11-27&g=2020-11-27).
+2. Onze Minister kan de uitkering op een lager bedrag vaststellen dan op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2021-11-23&g=2021-01-01), is verstrekt en het verschil terugvorderen indien uit de verantwoording blijkt dat de uitkering niet of niet volledig is besteed aan de activiteiten zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01).
 
 ##### Artikel 9. Monitoring en evaluatie
 
@@ -122,7 +122,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 De regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek.
 
-## Bijlage. Aan gemeenten te verstrekken bijdragen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2020-11-27&g=2020-11-27)
+## Bijlage. Aan gemeenten te verstrekken bijdragen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2021-11-23&g=2021-01-01)
 
 | Gemeente | Aantal gedupeerden | Bedrag totaal (in euro) | Waarvan door het BTW-compensatiefonds (in euro) | Waarvan op grond van de Regeling (in euro) |
 | --- | --- | --- | --- | --- |
