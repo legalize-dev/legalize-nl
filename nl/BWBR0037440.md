@@ -4,7 +4,7 @@ identifier: "BWBR0037440"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2020-04-18"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037440"
 soort: "ministeriele-regeling"
@@ -110,13 +110,13 @@ Tot speur- en ontwikkelingswerk wordt niet gerekend:
 
 ##### Artikel 3
 
-1. De S&O-inhoudingsplichtige of de S&O-belastingplichtige voert gedurende het kalenderjaar waarin de S&O-verklaring afgegeven is per project een zodanige administratie dat daaruit op eenvoudige en duidelijke wijze zijn af te leiden:
+1. De S&O-inhoudingsplichtige of de S&O-belastingplichtige voert gedurende het kalenderjaar waarvoor de S&O-verklaring afgegeven is per project een zodanige administratie dat daaruit op eenvoudige en duidelijke wijze zijn af te leiden:
 
 - a. de aard, inhoud en voortgang van het werk dat is verricht;
 
 - b. op welke dagen door een werknemer van de S&O-inhoudingsplichtige of door de S&O-belastingplichtige het werk is verricht en om hoeveel uur het per dag ging.
 
-2. Onverminderd het eerste lid voert de S&O-inhoudingsplichtige, ingeval aan hem een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23) bevat, gedurende het kalenderjaar waarin de S&O-verklaring afgegeven is per project een zodanige administratie dat daaruit op eenvoudige en duidelijke wijze zijn af te leiden:
+2. Onverminderd het eerste lid voert de S&O-inhoudingsplichtige, ingeval aan hem een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23) bevat, gedurende het kalenderjaar waarvoor de S&O-verklaring afgegeven is per project een zodanige administratie dat daaruit op eenvoudige en duidelijke wijze zijn af te leiden:
 
 - a. dat de kosten en uitgaven uitsluitend dienstbaar, onderscheidenlijk dienstbaar, en direct toerekenbaar zijn aan het werk dat in het betreffende kalenderjaar is verricht;
 
