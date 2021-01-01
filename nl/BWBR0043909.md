@@ -71,9 +71,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2021.
 Dit besluit wordt aangehaald als: Besluit garantiebedrag Wajong.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a. Verlenging periode
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
