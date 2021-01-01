@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
@@ -145,7 +145,9 @@ Vervallen
 
 ##### Artikel 2c
 
-Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
+1. Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
+
+2. Voor de toepassing van de [artikelen 13d, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), en [15i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i) wordt van de staten waarmee de Europese Unie een associatieovereenkomst heeft gesloten aangewezen: Turkije.
 
 ##### Artikel 2bis
 
@@ -233,11 +235,11 @@ Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die
 
 - h. het gecontroleerde lichaam gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden van het gecontroleerde lichaam en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
 
-2. Het eerste lid is van overeenkomstige toepassing op aan een vaste inrichting toerekenbare besmette voordelen als bedoeld in [artikel 15e, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), met dien verstande dat daarbij voor gecontroleerd lichaam wordt gelezen: vaste inrichting.
+2. Het eerste lid is van overeenkomstige toepassing op aan een vaste inrichting toerekenbare besmette voordelen als bedoeld in [artikel 15e, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), met dien verstande dat daarbij voor gecontroleerd lichaam wordt gelezen: vaste inrichting.
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
 
-De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2020-01-01&g=2020-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2021-01-01&g=2021-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2021-01-01&g=2021-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -269,7 +271,6 @@ De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.
 | Slowakije | 70% |
 | Spanje | 90% |
 | Tsjechië | 70% |
-| Verenigd Koninkrijk | 100% |
 | Zweden | 100% |
 | Zwitserland | 100% |
 
