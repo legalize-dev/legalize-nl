@@ -4,7 +4,7 @@ identifier: "BWBR0040287"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-12-09"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040287"
 soort: "ministeriele-regeling"
@@ -122,37 +122,37 @@ In deze regeling wordt verstaan onder:
 
 - a. voor een invoercontrole als bedoeld in de artikelen 49, eerste, tweede en derde lid, en 52 van verordening (EU) 2017/625:
 
-- 1°. € 0,01211 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 72,66 en ten hoogste € 557,06 in rekening wordt gebracht;
+- 1°. € 0,01232 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 73,92 en ten hoogste € 566,72 in rekening wordt gebracht;
 
-- 2°. € 0,01574 per kg voor zover controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 94,44 en ten hoogste € 724,04 in rekening wordt gebracht;
+- 2°. € 0,01601 per kg voor zover controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 96,06 en ten hoogste € 736,46 in rekening wordt gebracht;
 
 - b. voor een invoercontrole als bedoeld in artikel 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625:
 
-- 1°. € 161,46 starttarief; en
+- 1°. € 164,20 starttarief; en
 
-- 2°. € 33,20 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
+- 2°. € 33,76 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
 
 3. In afwijking van het tweede lid, onderdeel a, bedragen de maximale kosten indien het de invoercontrole betreft van:
 
 - a. een partij visserijproducten die vervoerd en aangeboden wordt als stukgoederen:
 
-- 1°. € 794,08 per schip met een lading visserijproducten tot 500 ton;
+- 1°. € 807,58 per schip met een lading visserijproducten tot 500 ton;
 
-- 2°. € 1.588,13 per schip met een lading visserijproducten tot 1.000 ton;
+- 2°. € 1.615,13 per schip met een lading visserijproducten tot 1.000 ton;
 
-- 3°. € 3.176,32 per schip met een lading visserijproducten tot 2.000 ton;
+- 3°. € 3.230,32 per schip met een lading visserijproducten tot 2.000 ton;
 
-- 4°. € 4.764,48 per schip met een lading visserijproducten van 2.000 ton of meer;
+- 4°. € 4.845,48 per schip met een lading visserijproducten van 2.000 ton of meer;
 
 - b. een partij pluimveevlees die vervoerd en aangeboden wordt als stukgoederen:
 
-- 1°. € 1.032,28 per schip met een lading pluimveevlees tot 500 ton;
+- 1°. € 1.049,83 per schip met een lading pluimveevlees tot 500 ton;
 
-- 2°. € 2.064,59 per schip met een lading pluimveevlees tot 1.000 ton;
+- 2°. € 2.099,69 per schip met een lading pluimveevlees tot 1.000 ton;
 
-- 3°. € 4.129,20 per schip met een lading pluimveevlees tot 2000 ton;
+- 3°. € 4.199,40 per schip met een lading pluimveevlees tot 2000 ton;
 
-- 4°. € 6.202,29 per schip met een lading pluimveevlees van 2000 ton of meer.
+- 4°. € 6.307,73 per schip met een lading pluimveevlees van 2000 ton of meer.
 
 4. In afwijking van het tweede lid, onderdeel a, en derde lid, bedragen de kosten indien het de invoercontrole betreft van een partij producten van dierlijke oorsprong afkomstig uit Nieuw Zeeland: 77,5% van de bedragen genoemd in het tweede lid, onderdeel a, en derde lid.
 
@@ -188,109 +188,97 @@ In deze regeling wordt verstaan onder:
 
 - a. voor een controle bij doorvoer als bedoeld in artikel 51, eerste lid, onderdeel d, van verordening (EU) 2017/625:
 
-- 1°. € 0,01211 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 72,66 en ten hoogste € 557,06 in rekening wordt gebracht;
+- 1°. € 0,01232 per kg voor zover de controle plaatsvindt op een werkdag tussen 06.00 en 23.00 uur, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 73,92 en ten hoogste € 566,72 in rekening wordt gebracht;
 
-- 2°. € 0,01574 per kg voor zover de controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 94,44 en ten hoogste € 724,04 in rekening wordt gebracht.
+- 2°. € 0,01601 per kg voor zover de controle plaatsvindt op een werkdag tussen 23.00 en 06.00 uur, of op een zaterdag, zondag of algemeen erkende feestdag, met dien verstande dat voor elke ter keuring aangeboden partij producten van dierlijke oorsprong ten minste € 96,06 en ten hoogste € 736,46 in rekening wordt gebracht.
 
 - b. voor een controle bij inslag, opslag en uitslag als bedoeld in artikel 48, onderdeel h, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625 voor iedere medewerker van de NVWA:
 
-- 1°. € 161,46 starttarief; en
+- 1°. € 164,20 starttarief; en
 
-- 2°. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- 2°. € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 3. In afwijking van het tweede lid, onderdeel a, bedragen de maximale kosten indien het de doorvoercontrole betreft van:
 
 - a. een partij visserijproducten die vervoerd en aangeboden wordt als stukgoederen:
 
-- 1°. € 794,08 per schip met een lading visserijproducten tot 500 ton;
+- 1°. € 807,58 per schip met een lading visserijproducten tot 500 ton;
 
-- 2°. € 1.588,13 per schip met een lading visserijproducten tot 1.000 ton;
+- 2°. € 1.615,13 per schip met een lading visserijproducten tot 1.000 ton;
 
-- 3°. € 3.176,32 per schip met een lading visserijproducten tot 2.000 ton;
+- 3°. € 3.230,32 per schip met een lading visserijproducten tot 2.000 ton;
 
-- 4°. € 4.764,48 per schip met een lading visserijproducten van 2.000 ton of meer;
+- 4°. € 4.845,48 per schip met een lading visserijproducten van 2.000 ton of meer;
 
 - b. een partij pluimveevlees die vervoerd en aangeboden wordt als stukgoederen:
 
-- 1°. € 1.032,28 per schip met een lading pluimveevlees tot 500 ton;
+- 1°. € 1.049,83 per schip met een lading pluimveevlees tot 500 ton;
 
-- 2°. € 2.064,59 per schip met een lading pluimveevlees tot 1.000 ton;
+- 2°. € 2.099,69 per schip met een lading pluimveevlees tot 1.000 ton;
 
-- 3°. € 4.129,20 per schip met een lading pluimveevlees tot 2.000 ton;
+- 3°. € 4.199,40 per schip met een lading pluimveevlees tot 2.000 ton;
 
-- 4°. € 6.202,29 per schip met een lading pluimveevlees van 2.000 ton of meer.
+- 4°. € 6.307,73 per schip met een lading pluimveevlees van 2.000 ton of meer.
 
 ##### Artikel 8
 
-1. De NVWA berekent aan de handelaar de kosten door voor werkzaamheden in verband met de behandeling van een ingediende aanvraag tot goedkeuring als handelaar als bedoeld in artikel 77, eerste lid, onderdeel c, van verordening (EU) 2017/625.
+1. De NVWA of het COKZ berekent aan de exploitant of de eigenaar van een inrichting die een aanvraag doet tot erkenning van die inrichting in het kader artikel 4 van [verordening (EG) 853/2004](32004R0853) de kosten door.
 
-2. De NVWA berekent aan de exploitant of de eigenaar van het entrepot de kosten door voor de werkzaamheden in verband met de behandeling van een ingediende aanvraag tot erkenning van een entrepot als bedoeld in artikel 48, onderdeel h, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625 of van een speciaal entrepot in de haven van bestemming als bedoeld in artikel 77, eerste lid, onderdeel c, van verordening (EU) 2017/625.
+2. De kosten voor de behandeling en afhandeling door de NVWA van een aanvraag tot erkenning van een inrichting als bedoeld in het eerste lid, bedragen voor iedere medewerker van de NVWA:
 
-3. De NVWA of het COKZ berekent aan de exploitant of de eigenaar van een inrichting die een aanvraag doet tot erkenning van die inrichting in het kader artikel 4 van [verordening (EG) 853/2004](32004R0853) de kosten door.
+- 1°. € 164,20 starttarief; en
 
-4. De kosten voor de behandeling en afhandeling door de NVWA van een aanvraag tot goedkeuring als handelaar, erkenning van een entrepot of erkenning van een inrichting als bedoeld in het eerste, tweede onderscheidenlijk derde lid, bedragen voor iedere medewerker van de NVWA:
+- 2°. € 33,76 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
 
-- 1°. € 161,46 starttarief; en
+3. De kosten, bedoeld in het tweede lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
 
-- 2°. € 33,20 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
+4. In afwijking van het tweede en derde lid bedragen de kosten voor de behandeling en afhandeling door het COKZ van een aanvraag tot erkenning van een inrichting, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie IX, van die verordening voorschriften bevat:
 
-5. De kosten, bedoeld in het vierde lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
+- a. € 62,10 aanvraagtarief;
 
-6. In afwijking van het vierde en vijfde lid bedragen de kosten voor de behandeling en afhandeling door het COKZ van een aanvraag tot erkenning van een inrichting, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie IX, van die verordening voorschriften bevat:
+- b. € 84,00 starttarief;
 
-- a. € 61,20 aanvraagtarief;
+- c. € 21,00 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- b. € 82,80 starttarief;
+- d. € 77,40 administratiekosten.
 
-- c. € 20,70 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
+5. In afwijking van het tweede tot en met vierde lid bedragen de kosten voor de behandeling en afhandeling door het COKZ van een aanvraag tot erkenning van een inrichting, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie X, van die verordening voorschriften bevat:
 
-- d. € 76,20 administratiekosten.
+- a. € 62,10 aanvraagtarief;
 
-7. In afwijking van het vierde tot en met zesde lid bedragen de kosten voor de behandeling en afhandeling door het COKZ van een aanvraag tot erkenning van een inrichting, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie X, van die verordening voorschriften bevat:
+- b. € 59,85 starttarief;
 
-- a. € 61,20 aanvraagtarief;
+- c. € 19,95 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- b. € 58,96 starttarief;
-
-- c. € 19,65 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
-
-- d. € 73,35 administratiekosten.
+- d. € 74,45 administratiekosten.
 
 ##### Artikel 9
 
-1. De NVWA of het COKZ berekent aan de handelaar, de exploitant of de eigenaar, bedoeld in [artikel 8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=8&z=2020-12-09&g=2020-12-09), de kosten door voor vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan:
-
-- a. de goedkeuring als handelaar als bedoeld in artikel 77, eerste lid, onderdeel c, van verordening (EU) 2017/625;
-
-- b. de erkenning van een entrepot als bedoeld in de artikelen 48, onderdeel h, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
-
-- c. de erkenning van een speciaal entrepot in de haven van bestemming als bedoeld in artikel 77, eerste lid, onderdeel c, van verordening (EU) 2017/625; of
-
-- d. de erkenning als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853).
+1. De NVWA of het COKZ berekent aan de exploitant of de eigenaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=8&z=2021-01-01&g=2021-01-01), de kosten door voor vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de erkenning als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853).
 
 2. De kosten voor de behandeling en afhandeling van een periodieke controle als bedoeld in het eerste lid, bedragen voor iedere medewerker van de NVWA:
 
-- a. € 161,46 starttarief; en
+- a. € 164,20 starttarief; en
 
-- b. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- b. € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 3. De kosten, bedoeld in het tweede lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
 
 4. In afwijking van het tweede en derde lid bedragen de kosten voor de behandeling en afhandeling van een periodieke controle door het COKZ op de naleving van de eisen verbonden aan de erkenning van een inrichting als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie IX, van die verordening voorschriften bevat:
 
-- a. € 82,80 starttarief;
+- a. € 84,00 starttarief;
 
-- c. € 20,70 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
+- c. € 21,00 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- d. € 76,20 administratiekosten.
+- d. € 77,40 administratiekosten.
 
 5. In afwijking van het tweede tot en met vierde lid bedragen de kosten voor de behandeling en afhandeling van een periodieke controle door het COKZ op de naleving van de eisen verbonden aan de erkenning van een inrichting als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie X, van die verordening voorschriften bevat:
 
-- a. € 58,96 starttarief;
+- a. € 59,85 starttarief;
 
-- b. € 19,65 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
+- b. € 19,95 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- c. € 73,35 administratiekosten.
+- c. € 74,45 administratiekosten.
 
 ##### Artikel 10
 
@@ -298,15 +286,15 @@ In deze regeling wordt verstaan onder:
 
 2. De kosten voor de behandeling en afhandeling van een aanvraag van een vergunning als bedoeld in het eerste lid, bedragen voor iedere medewerker van de NVWA:
 
-- a. € 161,46 starttarief; en
+- a. € 164,20 starttarief; en
 
-- b. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- b. € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 ##### Artikel 11
 
 1. De NVWA berekent aan de exploitant of de eigenaar van een inrichting de kosten door voor een aanvraag tot registratie van die inrichting in het kader van artikel 6 van [verordening (EG) 852/2004](32004R0852).
 
-2. De kosten voor de aanvraag tot registratie als bedoeld in het eerste lid bedragen: € 46,86.
+2. De kosten voor de aanvraag tot registratie als bedoeld in het eerste lid bedragen: € 47,66.
 
 ##### Artikel 12
 
@@ -316,9 +304,9 @@ In deze regeling wordt verstaan onder:
 
 3. De kosten voor de controle van een partij ingevroren visserijproducten, bedoeld in het eerste lid, bedragen voor iedere medewerker van de NVWA:
 
-- a. € 161,46 starttarief; en
+- a. € 164,20 starttarief; en
 
-- b. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- b. € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 4. In afwijking van het derde lid komen de kosten voor de controle van een partij verse zeevis, schaaldieren, waaronder de Crangon crangon garnalen, en koppotigen overeen met de werkelijke kosten.
 
@@ -326,17 +314,15 @@ In deze regeling wordt verstaan onder:
 
 1. De NVWA berekent aan de exploitant, de eigenaar of de vertegenwoordiger van de eigenaar van een ontvanger van boerderijmelk jaarlijks de kosten door voor de controles op grond van verordening (EU) 2017/625 ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in producten daarvan. De kosten bedragen de werkelijke kosten.
 
-2. De NVWA berekent aan de exploitant, de eigenaar of de vertegenwoordiger van de eigenaar van een inrichting als bedoeld in artikel 19, tweede lid, onderdelen a en b, van verordening (EU) 2017/625, de kosten door voor de controles op grond van verordening (EU) 2017/625 ten aanzien van bepaalde stoffen en residuen daarvan in aquacultuurproducten. De kosten bedragen € 0,1247 per ton verhandelde aquacultuurproducten.
+2. De NVWA berekent aan de pakstations, legpluimveehouders, eiproductenfabrikanten en verzamelaars de kosten door voor de controles op grond van verordening (EU) 2017/625 ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in producten daarvan. De kosten bedragen de werkelijke kosten.
 
-3. De NVWA berekent aan de pakstations, legpluimveehouders, eiproductenfabrikanten en verzamelaars de kosten door voor de controles op grond van verordening (EU) 2017/625 ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in producten daarvan. De kosten bedragen de werkelijke kosten.
+3. Degene die ingevolge het eerste en tweede lid kosten is verschuldigd, doet aan de NVWA binnen één maand na afloop van het jaar waarover betalingsplicht bestaat, opgave van de hoeveelheid in dat jaar als grondstof gebruikte rauwe melk, dan wel van de hoeveelheid in dat jaar verhandelde eieren en houdt daartoe een register bij. Dit register wordt ter inzage gelegd aan een ieder die namens de NVWA de controle op deze regeling uitvoert.
 
-4. Degene die ingevolge het eerste, tweede en derde lid kosten is verschuldigd, doet aan de NVWA binnen één maand na afloop van het jaar waarover betalingsplicht bestaat, opgave van de hoeveelheid in dat jaar als grondstof gebruikte rauwe melk, dan wel van de hoeveelheid in dat jaar verhandelde aquacultuurproducten of eieren en houdt daartoe een register bij. Dit register wordt ter inzage gelegd aan een ieder die namens de NVWA de controle op deze regeling uitvoert.
-
-5. Indien de opgave, bedoeld in het vierde lid, niet binnen de hiervoor gestelde termijn door de NVWA wordt ontvangen, dan wel naar het oordeel van de NVWA niet betrouwbaar is, stelt de NVWA de desbetreffende hoeveelheid als grondstof gebruikte rauwe melk, dan wel de desbetreffende hoeveelheid verhandelde aquacultuurproducten of eieren vast.
+4. Indien de opgave, bedoeld in het derde lid, niet binnen de hiervoor gestelde termijn door de NVWA wordt ontvangen, dan wel naar het oordeel van de NVWA niet betrouwbaar is, stelt de NVWA de desbetreffende hoeveelheid als grondstof gebruikte rauwe melk, dan wel de desbetreffende hoeveelheid verhandelde eieren vast.
 
 ##### Artikel 14
 
-1. De aanbieder doet een aanvraag voor een controle of werkzaamheden als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=5&z=2020-12-09&g=2020-12-09), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=6&z=2020-12-09&g=2020-12-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), die hij door de NVWA wenst te laten verrichten, schriftelijk bij de NVWA.
+1. De aanbieder doet een aanvraag voor een controle of werkzaamheden als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), die hij door de NVWA wenst te laten verrichten, schriftelijk bij de NVWA.
 
 2. De aanvraag, bedoeld in het eerste lid, omvat ten minste:
 
@@ -358,7 +344,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de datum of het tijdstip van aanvang of beëindiging van de controles of werkzaamheden, bedoeld in het derde lid, afwijkt van de datum of het tijdstip volgens de aanvraag, bedoeld in het eerste lid, stelt de NVWA degene die de aanvraag heeft gedaan, hiervan in kennis.
 
-5. Het eerste lid is niet van toepassing op de controle, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), indien deze controle plaatsvindt bij eerste verkoop op een afslag binnen Nederland.
+5. Het eerste lid is niet van toepassing op de controle, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), indien deze controle plaatsvindt bij eerste verkoop op een afslag binnen Nederland.
 
 #### § 3. Wijziging aangevraagde activiteiten
 
@@ -366,55 +352,55 @@ In deze regeling wordt verstaan onder:
 
 Indien een aangevraagde bedrijfsactiviteit niet zal plaatsvinden, wordt uitgesteld of wijziging ondergaat als gevolg van niet aan de NVWA te wijten oorzaken of omstandigheden, bericht degene die de aanvraag heeft gedaan dit schriftelijk aan de NVWA:
 
-- a. uiterlijk om 08.00 uur op de werkdag voorafgaande aan de dag waarop de desbetreffende activiteit plaatsvindt dan wel zou hebben plaatsgevonden, voor zover het een in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=9&z=2020-12-09&g=2020-12-09), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bedoelde bedrijfsactiviteit betreft;
+- a. uiterlijk om 08.00 uur op de werkdag voorafgaande aan de dag waarop de desbetreffende activiteit plaatsvindt dan wel zou hebben plaatsgevonden, voor zover het een in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=9&z=2021-01-01&g=2021-01-01), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bedoelde bedrijfsactiviteit betreft;
 
-- b. uiterlijk om 14.00 uur op de werkdag voorafgaande aan de dag waarop de desbetreffende activiteit plaatsvindt dan wel zou hebben plaatsgevonden, voor zover het een in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=5&z=2020-12-09&g=2020-12-09), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=6&z=2020-12-09&g=2020-12-09), of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), bedoelde bedrijfsactiviteit betreft.
+- b. uiterlijk om 14.00 uur op de werkdag voorafgaande aan de dag waarop de desbetreffende activiteit plaatsvindt dan wel zou hebben plaatsgevonden, voor zover het een in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), bedoelde bedrijfsactiviteit betreft.
 
 #### § 4. Verhoging kosten
 
 ##### Artikel 16
 
-1. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), bij de NVWA is aangemeld na 14.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, worden de desbetreffende kosten in de navolgende gevallen verhoogd. Deze verhoging bedraagt:
+1. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), bij de NVWA is aangemeld na 14.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, worden de desbetreffende kosten in de navolgende gevallen verhoogd. Deze verhoging bedraagt:
 
-- a. € 9,95 per persoon per kwartier voor zover het een invoercontrole betreft als bedoeld in artikel 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
+- a. € 10,12 per persoon per kwartier voor zover het een invoercontrole betreft als bedoeld in artikel 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
 
-- b. € 9,95 per persoon per kwartier voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in de artikelen 48, onderdeel h, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625.
+- b. € 10,12 per persoon per kwartier voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in de artikelen 48, onderdeel h, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625.
 
-2. Indien een controle- of keuringsactiviteit als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bij de NVWA is aangemeld na 08.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, worden de desbetreffende kosten verhoogd met € 9,95 per persoon per kwartier dat deze werkzaamheden duren.
+2. Indien een controle- of keuringsactiviteit als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bij de NVWA is aangemeld na 08.00 uur op de dag voorafgaande aan de dag waarop de controle of de werkzaamheden hebben plaatsgevonden of zouden hebben plaatsgevonden, worden de desbetreffende kosten verhoogd met € 10,12 per persoon per kwartier dat deze werkzaamheden duren.
 
-3. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), niet tijdig overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=14&z=2020-12-09&g=2020-12-09) is afgemeld, blijft de aanbieder die de aanvraag voor deze werkzaamheden heeft gedaan in de navolgende gevallen kosten verschuldigd, bestaande uit een bedrag per afgemeld kwartier per persoon:
+3. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), niet tijdig overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=14&z=2021-01-01&g=2021-01-01) is afgemeld, blijft de aanbieder die de aanvraag voor deze werkzaamheden heeft gedaan in de navolgende gevallen kosten verschuldigd, bestaande uit een bedrag per afgemeld kwartier per persoon:
 
-- a. € 33,20 per persoon per kwartier, voor zover het een controle bij doorvoer betreft als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, en 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
+- a. € 33,76 per persoon per kwartier, voor zover het een controle bij doorvoer betreft als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, en 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
 
-- b. € 33,20 per persoon per kwartier, voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
+- b. € 33,76 per persoon per kwartier, voor zover het een controle bij de inslag, opslag en uitslag betreft als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
 
-- c. € 33,20 voor een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bedoelde controle- of keuringsactiviteit.
+- c. € 33,76 voor een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bedoelde controle- of keuringsactiviteit.
 
 ##### Artikel 17
 
-1. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), wordt onderbroken of uitgesteld en dit is toe te rekenen aan degene die kosten is verschuldigd, worden de desbetreffende kosten in de navolgende gevallen verhoogd. Deze verhoging bedraagt:
+1. Indien een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), wordt onderbroken of uitgesteld en dit is toe te rekenen aan degene die kosten is verschuldigd, worden de desbetreffende kosten in de navolgende gevallen verhoogd. Deze verhoging bedraagt:
 
-- a. € 33,20 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een invoercontrole betreft als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
+- a. € 33,76 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een invoercontrole betreft als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
 
-- b. € 33,20 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
+- b. € 33,76 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
 
-- c. € 33,20 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bedoelde controle- of keuringsactiviteit betreft.
+- c. € 33,76 per persoon per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bedoelde controle- of keuringsactiviteit betreft.
 
-2. Indien voor de uitvoering van een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), meer tijd nodig is dan de aangevraagde tijd, is de aanbieder naast de ingevolge deze artikelen verschuldigde kosten, in de navolgende gevallen kosten verschuldigd voor de duur van de uitloop van de werkzaamheden. Deze kosten bedragen:
+2. Indien voor de uitvoering van een controle- of keuringsactiviteit als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), of [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), meer tijd nodig is dan de aangevraagde tijd, is de aanbieder naast de ingevolge deze artikelen verschuldigde kosten, in de navolgende gevallen kosten verschuldigd voor de duur van de uitloop van de werkzaamheden. Deze kosten bedragen:
 
-- a. € 33,20 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij doorvoer als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
+- a. € 33,76 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij doorvoer als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
 
-- b. € 33,20 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen artikel 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
+- b. € 33,76 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen artikel 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
 
-- c. € 33,20 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bedoelde activiteit of controle betreft.
+- c. € 33,76 per persoon per kwartier dat de werkzaamheden langer duren dan is aangemeld, voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bedoelde activiteit of controle betreft.
 
-3. Indien een controle- of keuringsactiviteit, op verzoek van aanvrager, buiten de openingstijd plaatsvindt, worden de kosten, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2020-12-09&g=2020-12-09), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2020-12-09&g=2020-12-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2020-12-09&g=2020-12-09), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), onverminderd het eerste en tweede lid, in de navolgende gevallen verhoogd met een bedrag voor de tijd die aan de werkzaamheden door een medewerker van de NVWA is besteed. Dat bedrag bedraagt:
+3. Indien een controle- of keuringsactiviteit, op verzoek van aanvrager, buiten de openingstijd plaatsvindt, worden de kosten, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), onverminderd het eerste en tweede lid, in de navolgende gevallen verhoogd met een bedrag voor de tijd die aan de werkzaamheden door een medewerker van de NVWA is besteed. Dat bedrag bedraagt:
 
-- a. € 9,95 per persoon per kwartier voor zover het een controle betreft bij invoer als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
+- a. € 10,12 per persoon per kwartier voor zover het een controle betreft bij invoer als bedoeld in de artikelen 3, 47, eerste lid, 49, tweede lid, 51, eerste lid, onderdeel b en c, van verordening (EU) 2017/625;
 
-- b. € 9,95 per persoon per kwartier voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
+- b. € 10,12 per persoon per kwartier voor zover het een controle betreft bij de inslag, opslag en uitslag als bedoeld in de artikelen 48, onderdeel h, 50, eerste lid, en artikel 77, eerste lid, onderdeel k, van verordening (EU) 2017/625;
 
-- c. € 9,95 per persoon per kwartier voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09), bedoelde activiteit of controle betreft.
+- c. € 10,12 per persoon per kwartier voor zover het een in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01), bedoelde activiteit of controle betreft.
 
 #### § 4. Verhoging kosten
 
@@ -440,7 +426,7 @@ Indien op grond van deze regeling een starttarief verschuldigd is, wordt dit in 
 
 ##### Artikel 20
 
-De kosten voor laboratoriumonderzoeken van chemische of microbiologische monsters die zijn genomen in het kader van werkzaamheden als bedoeld in de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2020-12-09&g=2020-12-09), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2020-12-09&g=2020-12-09) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=9&artikel=23&z=2020-12-09&g=2020-12-09), komen overeen met de werkelijke kosten van deze onderzoeken, waaronder de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
+De kosten voor laboratoriumonderzoeken van chemische of microbiologische monsters die zijn genomen in het kader van werkzaamheden als bedoeld in de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=12&z=2021-01-01&g=2021-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=9&artikel=23&z=2021-01-01&g=2021-01-01), komen overeen met de werkelijke kosten van deze onderzoeken, waaronder de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
 
 #### § 7. Tarieven aanvullende officiële controle
 
@@ -448,89 +434,103 @@ De kosten voor laboratoriumonderzoeken van chemische of microbiologische monster
 
 1. De NVWA berekent aan de exploitant of de eigenaar van de inrichting, dan wel degene die de producten ten tijde van de controle onder zijn hoede had, de kosten door voor een aanvullende officiële controle.
 
-2. De kosten voor een digitale aanvullende officiële controle bedragen € 76,75.
+2. De kosten voor een digitale aanvullende officiële controle bedragen € 78,05.
 
-3. De kosten voor een schriftelijke aanvullende officiële controle bedragen € 107,09.
+3. De kosten voor een schriftelijke aanvullende officiële controle bedragen € 108,91.
 
 4. De kosten voor een aanvullende officiële controle bedragen voor iedere medewerker:
 
-- a. € 112,84 starttarief; en
+- a. € 114,76 starttarief; en
 
-- b. een bedrag van € 23,01 per kwartier dat aan de inspectiewerkzaamheden door een medewerker van de NVWA is besteed.
+- b. een bedrag van € 23,40 per kwartier dat aan de inspectiewerkzaamheden door een medewerker van de NVWA is besteed.
 
 5. Het starttarief, bedoeld in het vierde lid, onderdeel a, wordt niet in rekening gebracht indien de aanvullende officiële controle plaatsvindt op internet of via sociale media.
 
-6. De kosten, bedoeld in het vierde lid, worden verhoogd met € 23,01 administratiekosten.
+6. De kosten, bedoeld in het vierde lid, worden verhoogd met € 23,40 administratiekosten.
 
 7. In afwijking van het zesde lid worden de kosten, bedoeld in het vierde lid, vermeerderd met:
 
-- a. € 46,02 administratiekosten indien een interventie plaatsvindt; of
+- a. € 46,80 administratiekosten indien een interventie plaatsvindt; of
 
-- b. € 230,11 administratiekosten indien de natuurlijke persoon of rechtspersoon eerder drie maal is beboet voor een vergelijkbare overtreding en er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boetes onherroepelijk zijn geworden of indien de aanvullende officiële controle plaatsvindt bij een bedrijf waar de NVWA eerder met spoed heeft ingegrepen in het proces in verband met risico’s voor de volksgezondheid.
+- b. € 234,00 administratiekosten indien de natuurlijke persoon of rechtspersoon eerder drie maal is beboet voor een vergelijkbare overtreding en er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boetes onherroepelijk zijn geworden of indien de aanvullende officiële controle plaatsvindt bij een bedrijf waar de NVWA eerder met spoed heeft ingegrepen in het proces in verband met risico’s voor de volksgezondheid.
 
 8. De kosten, bedoeld in het vierde lid, worden bij bemonstering en laboratoriumonderzoek vermeerderd met:
 
-- a. een bedrag van € 23,01 per kwartier dat aan de bemonsteringswerkzaamheden door een medewerker van de NVWA is besteed; en
+- a. een bedrag van € 23,40 per kwartier dat aan de bemonsteringswerkzaamheden door een medewerker van de NVWA is besteed; en
 
 - b. de werkelijke kosten van het uitgevoerde laboratorium onderzoek.
 
 9. De kosten voor een aanvullende officiële bemonstering bedragen voor iedere medewerker:
 
-- a. € 112,84 starttarief;
+- a. € 114,76 starttarief;
 
-- b. een bedrag van € 23,01 per kwartier dat aan de bemonsteringswerkzaamheden door een medewerker van de NVWA is besteed;
+- b. een bedrag van € 23,40 per kwartier dat aan de bemonsteringswerkzaamheden door een medewerker van de NVWA is besteed;
 
 - c. de werkelijke kosten van het uitgevoerde laboratorium onderzoek; en
 
-- d. € 23,01 administratiekosten.
+- d. € 23,40 administratiekosten.
 
 10. In afwijking van het tweede tot en met negende lid bedragen de kosten voor een aanvullende officiële controle bij een inrichting als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie IX, van die verordening voorschriften bevat:
 
-- a. € 82,80 starttarief;
+- a. € 84,00 starttarief;
 
-- b. een bedrag van € 20,70 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
+- b. een bedrag van € 21,00 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- c. € 76,20 administratiekosten.
+- c. € 77,40 administratiekosten.
 
 11. In afwijking van het tweede tot en met tiende lid bedragen de kosten voor een aanvullende officiële controle bij een inrichting als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853) en waarvoor bijlage III, sectie X, van die verordening voorschriften bevat:
 
-- a. € 58,96 starttarief;
+- a. € 59,85 starttarief;
 
-- b. € 19,65 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
+- b. € 19,95 per kwartier dat aan de werkzaamheden is besteed door de persoon die met de werkzaamheden is belast; en
 
-- c. € 73,35 administratiekosten.
+- c. € 74,45 administratiekosten.
 
 12. In afwijking van het vierde tot en met negende lid bedragen de kosten voor een aanvullende officiële controle in een erkend bedrijf voor iedere medewerker van de NVWA:
 
-- a. € 161,46 starttarief; en
+- a. € 164,20 starttarief; en
 
-- b. € 33,20 per kwartier dan aan de inspectiewerkzaamheden door deze medewerker van de NVWA is besteed.
+- b. € 33,76 per kwartier dan aan de inspectiewerkzaamheden door deze medewerker van de NVWA is besteed.
 
-13. De kosten, bedoeld in het twaalfde lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
+13. In afwijking van het vierde tot en met negende en twaalfde lid bedragen de kosten voor een aanvullende officiële controle bij een veehouder, voor zover deze controle betrekking heeft op de naleving van artikel 4, eerste lid, en bijlage I, deel A, van [verordening (EG) 852/2004](32004R0852), voor iedere medewerker van de NVWA:
 
-14. Dit artikel is niet van toepassing op een periodieke controle in een erkend bedrijf als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=9&z=2020-12-09&g=2020-12-09).
+- a. € 116,02 starttarief; en
 
-#### § 8. Tarieven technisch dossier [verordening (EG) 110/2008](32008R0110)
+- b. € 47,66 per kwartier dan aan de inspectiewerkzaamheden door deze medewerker van de NVWA is besteed.
+
+14. De kosten, bedoeld in het twaalfde en dertiende lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
+
+15. Indien het beoordelen van een studie als bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU 2005, L 338) onderdeel uitmaakt van een aanvullende officiële controle, worden de kosten van deze beoordeling doorberekend.
+
+16. De kosten, bedoeld in het vijftiende lid, bedragen:
+
+- a. € 290,10 per beoordeling van een studie per product of productgroep, voor de eerste twee beoordelingen; en
+
+- b. € 116,04 per beoordeling van een studie per product of productgroep, vanaf de derde beoordeling.
+
+17. Dit artikel is niet van toepassing op een periodieke controle in een erkend bedrijf als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=2&artikel=9&z=2021-01-01&g=2021-01-01).
+
+#### § 6. Laboratoriumkosten
 
 ##### Artikel 22
 
 1. De NVWA berekent aan de exploitant die belang heeft bij een technisch dossier als bedoeld in artikel 22, eerste lid, van [verordening (EG) 110/2008](32008R0110), de kosten door voor de verificatie van de inachtneming van de specificaties in het technisch dossier.
 
-2. De kosten, bedoeld in het eerste lid, bedragen: € 33,20 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
+2. De kosten, bedoeld in het eerste lid, bedragen: € 33,76 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
 
-3. De kosten, bedoeld in het tweede lid, worden vermeerderd met een starttarief van € 161,46 indien de werkzaamheden verbonden aan de verificatie van een technisch dossier plaatsvinden op de locatie van de exploitant.
+3. De kosten, bedoeld in het tweede lid, worden vermeerderd met een starttarief van € 164,20 indien de werkzaamheden verbonden aan de verificatie van een technisch dossier plaatsvinden op de locatie van de exploitant.
 
-#### § 9. Tarieven exportverklaringen
+#### § 7. Tarieven aanvullende officiële controle
 
 ##### Artikel 23
 
 1. De NVWA berekent aan de exploitant, de eigenaar of de vertegenwoordiger van de eigenaar van een inrichting die een aanvraag indient voor een exportverklaring, de kosten hiervan door.
 
-2. De kosten voor een exportverklaring, bedoeld in het eerste lid, bedragen € 56,76 per aangevraagde exportverklaring indien de aanvraag ten minste voor 14.00 uur op de derde werkdag voor de voorgenomen export is aangevraagd.
+2. De kosten voor een exportverklaring, bedoeld in het eerste lid, bedragen € 59,17 per aangevraagde exportverklaring indien de aanvraag ten minste voor 14.00 uur op de derde werkdag voor de voorgenomen export is aangevraagd.
 
 3. Indien een aanvraag tot afgifte van een in het eerste lid bedoelde exportverklaring wordt ingetrokken door de aanvrager door omstandigheden buiten toedoen van de met de werkzaamheden belaste medewerker(s) van de NVWA, blijven de desbetreffende in het tweede lid bedoelde kosten verschuldigd.
 
-4. In afwijking van het tweede lid is een bedrag verschuldigd van € 297,23 indien de werkzaamheden betrekking hebben op de aanvraag tot vervanging of wijziging van een eerder afgegeven exportcertificaat of exportverklaring.
+4. In afwijking van het tweede lid is een bedrag verschuldigd van € 192,79 indien de werkzaamheden betrekking hebben op de aanvraag tot vervanging of wijziging van een eerder afgegeven exportcertificaat of exportverklaring.
 
 5. De NVWA voert in de volgende gevallen voorafgaand aan de afgifte van een exportverklaring een fysieke inspectie uit:
 
@@ -542,9 +542,9 @@ De kosten voor laboratoriumonderzoeken van chemische of microbiologische monster
 
 6. In afwijking van het tweede lid bedragen de kosten voor een door de NVWA afgegeven exportverklaring waar voorafgaand een fysieke inspectie heeft plaatsgevonden:
 
-- a. € 161,46 starttarief; en
+- a. € 164,20 starttarief; en
 
-- b. € 33,20 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
+- b. € 33,76 per kwartier dat aan de werkzaamheden door een medewerker van de NVWA is besteed.
 
 ##### Artikel 24
 
@@ -552,9 +552,9 @@ De kosten voor laboratoriumonderzoeken van chemische of microbiologische monster
 
 2. De kosten voor een exportverklaring, bedoeld in het eerste lid, bedragen:
 
-- a. € 23,50 per exportverklaring;
+- a. € 23,85 per exportverklaring;
 
-- b. € 17,70 per kwartier voor de invoer van bijzondere verzoeken van een bedrijf op basis van nacalculatie;
+- b. € 18,00 per kwartier voor de invoer van bijzondere verzoeken van een bedrijf op basis van nacalculatie;
 
 - c. € 1,50 per kopie certificaat.
 
@@ -572,7 +572,7 @@ De NVWA berekent aan de importeur of zijn vertegenwoordiger de werkelijke kosten
 
 Vervallen
 
-#### § 12. Betalingsvoorwaarden
+#### § 10. Tarieven materiële controles verordening (EU) 284/2011
 
 ##### Artikel 27
 
@@ -582,7 +582,7 @@ Vervallen
 
 3. Indien het eerste lid is toegepast en de verwachte kosten over een periode van 12 weken na hervatting van de werkzaamheden naar verwachting minder bedragen dan € 5.000,00 kan de NVWA van de betalingsplichtige eisen dat het totale bedrag van die verwachte kosten over een periode van 12 weken als voorschot wordt betaald, alvorens de werkzaamheden worden hervat.
 
-#### § 13. Overige bepalingen
+#### § 11. Tarieven aanvraag advies en verslag op basis van [verordening (EG) 258/97](31997R0258)
 
 ##### Artikel 28
 
@@ -596,7 +596,7 @@ De [Regeling Zekerheidsstelling en betaling van VWS-retributies](https://wetten.
 
 1. Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdeel D, van de wet van 20 mei 2015 tot wijziging van de Warenwet in verband met het verhogen van het maximum bedrag van de bestuurlijke boete en enkele andere wijzigingen waaronder regels inzake het aanprijzen van het aanbrengen van een tatoeage of piercing en wijziging van de Warenwet BES in verband met het eenduidig regelen van de bevoegdheden van de toezichthouders en de eilandbesturen (Stb. 2015, 235) in werking treedt.
 
-2. [Paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=11&z=2020-12-09&g=2020-12-09), met inbegrip van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=11&artikel=26&z=2020-12-09&g=2020-12-09), vervalt met ingang van 1 januari 2018.
+2. [Paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=11&z=2021-01-01&g=2021-01-01), met inbegrip van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0040287&paragraaf=11&artikel=26&z=2021-01-01&g=2021-01-01), vervalt met ingang van 1 januari 2018.
 
 ##### Artikel 31
 
@@ -630,9 +630,9 @@ De NVWA berekent aan exploitanten als bedoeld in artikel 35, eerste lid, van ver
 
 #### § 3. Wijziging aangevraagde activiteiten
 
-#### § 5. In rekening brengen starttarieven en gecombineerde werkzaamheden
+#### § 4. Verhoging kosten
 
-#### § 6. Laboratoriumkosten
+#### § 5. In rekening brengen starttarieven en gecombineerde werkzaamheden
 
 #### § 6. Laboratoriumkosten
 
@@ -640,7 +640,7 @@ De NVWA berekent aan exploitanten als bedoeld in artikel 35, eerste lid, van ver
 
 #### § 8. Tarieven technisch dossier [verordening (EG) 110/2008](32008R0110)
 
-#### § 10. Tarieven materiële controles verordening (EU) 284/2011
+#### § 9. Tarieven exportverklaringen
 
 #### § 10. Tarieven materiële controles verordening (EU) 284/2011
 
@@ -672,9 +672,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De kosten voor de behandeling en afhandeling door de NVWA van een aanvraag tot aanwijzing van een grenscontrolepost op grond van artikel 59 van verordening (EU) 2017/625, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die aanwijzing verbonden eisen, bedragen voor iedere medewerker van de NVWA:
 
-- 1°. € 161,46 starttarief; en
+- 1°. € 164,20 starttarief; en
 
-- 2°. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- 2°. € € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 2. De kosten, bedoeld in het eerste lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
 
@@ -682,30 +682,66 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De kosten voor de behandeling en afhandeling door de NVWA van een aanvraag tot aanwijzing van een ander controlepunt dan een grenscontrolepost op grond van artikel 53 van verordening (EU) 2017/625, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die aanwijzing verbonden eisen, bedragen voor iedere medewerker van de NVWA:
 
-- 1°. € 161,46 starttarief; en
+- 1°. € 164,20 starttarief; en
 
-- 2°. € 33,20 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
+- 2°. € € 33,76 per kwartier dat aan de werkzaamheden door deze medewerker van de NVWA is besteed.
 
 2. De kosten, bedoeld in het eerste lid, worden vermeerderd met een in de tweede kolom van de bijlage genoemd bedrag aan administratiekosten, waarbij het bedrag afhankelijk is van de inspectietijd, zoals opgenomen in de eerste kolom van de bijlage.
 
 #### § 13. Overige bepalingen
 
-## Bijlage. bij de Warenwetregeling doorberekening kosten levensmiddelensector 2017
+## Bijlage. bij de Warenwetregeling doorberekening kosten
 
 | Netto inspectietijd op het bedrijf | Administratiekosten |
 | --- | --- |
-| 15 minuten – 1 uur | € 33,20 |
-| > 1 uur – 2 uur | € 66,40 |
-| > 2 uur – 3 uur | € 132,80 |
-| > 3 uur – 4 uur | € 199,20 |
-| > 4 uur – 5 uur | € 265,60 |
-| > 5 uur – 6 uur | € 332,00 |
-| > 6 uur – 7 uur | € 398,40 |
-| > 7 uur – 8 uur | € 464,80 |
-| > 8 uur – 12 uren | € 531,20 |
-| > 12 uren – 16 uren | € 597,60 |
-| > 16 uren – 20 uren | € 664,00 |
-| > 20 uren – 24 uren | € 730,40 |
-| > 24 uren | € 796,80 |
+| 15 minuten – 1 uur | € 33,76 |
+| > 1 uur – 2 uur | € 67,52 |
+| > 2 uur – 3 uur | € 135,04 |
+| > 3 uur – 4 uur | € 202,56 |
+| > 4 uur – 5 uur | € 270,08 |
+| > 5 uur – 6 uur | € 337,60 |
+| > 6 uur – 7 uur | € 405,12 |
+| > 7 uur – 8 uur | € 472,64 |
+| > 8 uur – 12 uren | € 540,16 |
+| > 12 uren – 16 uren | € 607,68 |
+| > 16 uren – 20 uren | € 675,20 |
+| > 20 uren – 24 uren | € 742,72 |
+| > 24 uren | € 810,24 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a
+
+1. De NVWA berekent de jaarlijkse kosten van de controles, bedoeld in artikel 18, eerste en achtste lid, onderdelen a en f, van verordening (EU) 2017/625, door aan alle aanvoerders van verse zeevis, schaaldieren, waaronder de Crangon crangon garnalen, en koppotigen.
+
+2. De kosten, bedoeld in het eerste lid, komen overeen met de totale kosten van deze controles en worden in rekening gebracht bij alle aanvoerders als bedoeld in het eerste lid, ongeacht of een controle bij de desbetreffende aanvoerder heeft plaatsgevonden, op basis van de vangstgegevens uit het betreffende jaar.
+
+3. De kosten, bedoeld in het eerste lid, worden in rekening gebracht bij de aanvoerder voor zover de eerste verkoop op een afslag binnen Nederland plaatsvindt, dan wel bij een inrichting voor visserijproducten voor zover de partij direct na aanlanding rechtstreeks vervoerd wordt naar een inrichting voor visserijproducten, dan wel bij eerste aanlanding indien de partij direct bestemd is voor een bestemming buiten Nederland.
+
+#### § 3. Wijziging aangevraagde activiteiten
+
+#### § 8. Tarieven technisch dossier [verordening (EG) 110/2008](32008R0110)
+
+#### § 12. Betalingsvoorwaarden
+
+#### § 13. Overige bepalingen
+
+## Bijlage. bij de Warenwetregeling doorberekening kosten
+
+| Netto inspectietijd op het bedrijf | Administratiekosten |
+| --- | --- |
+| 15 minuten – 1 uur | € 33,76 |
+| > 1 uur – 2 uur | € 67,52 |
+| > 2 uur – 3 uur | € 135,04 |
+| > 3 uur – 4 uur | € 202,56 |
+| > 4 uur – 5 uur | € 270,08 |
+| > 5 uur – 6 uur | € 337,60 |
+| > 6 uur – 7 uur | € 405,12 |
+| > 7 uur – 8 uur | € 472,64 |
+| > 8 uur – 12 uren | € 540,16 |
+| > 12 uren – 16 uren | € 607,68 |
+| > 16 uren – 20 uren | € 675,20 |
+| > 20 uren – 24 uren | € 742,72 |
+| > 24 uren | € 810,24 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
