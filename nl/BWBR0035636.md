@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2020-07-08"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2020-07-08&g=2020-07-08) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2021-07-16&g=2021-01-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
