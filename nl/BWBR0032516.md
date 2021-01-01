@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -106,7 +106,9 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - –. runderen, varkens, schapen, geiten en paarden.
 
-- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6).
+- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6);
+
+- i. dierenartsen en andere personen die voor specifieke toezichtswerkzaamheden door de Minister van Landbouw, Natuur en Voedselkwaliteit worden ingezet.
 
 ##### Artikel 3
 
