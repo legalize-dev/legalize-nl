@@ -4,7 +4,7 @@ identifier: "BWBR0042532"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-30"
-last_updated: "2019-09-11"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042532"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ namens deze:
 
 ##### Artikel 5
 
-Ondermandaatbesluiten en machtigingen die zijn vastgesteld op grond van een van de besluiten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042532&artikel=4&z=2019-09-11&g=2019-09-11), gelden als besluiten inzake mandaat en machtiging op grond van dit besluit.
+Ondermandaatbesluiten en machtigingen die zijn vastgesteld op grond van een van de besluiten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042532&artikel=4&z=2019-09-11&g=2021-01-01), gelden als besluiten inzake mandaat en machtiging op grond van dit besluit.
 
 ##### Artikel 6
 
