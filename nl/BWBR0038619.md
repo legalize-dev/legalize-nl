@@ -4,7 +4,7 @@ identifier: "BWBR0038619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038619"
 soort: "ministeriele-regeling"
@@ -49,9 +49,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **defensieambtenaar:** de militair als bedoeld in [artikel 1, eerste lid onderdeel c onder 1 het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) die op of na 1 oktober 2016 in werkelijke dienst is of de ambtenaar die op of na 1 oktober 2016 in burgerlijke openbare dienst is bij het Ministerie van Defensie als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2018-01-01&g=2020-12-01);
+- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2021-03-04&g=2021-01-01);
 
-- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2020-12-01).
+- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2021-01-01).
 
 ##### Artikel 2. Aanvraag
 
@@ -75,9 +75,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Bronnen
 
-1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2020-12-01) genoemde doelen:
+1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2021-01-01) genoemde doelen:
 
-- a. de eindejaarsuitkering, mits deze wordt ingezet voor het doel, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2020-12-01);
+- a. de eindejaarsuitkering, mits deze wordt ingezet voor het doel, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2021-01-01);
 
 - b. maximaal 10% van het jaarsalaris;
 
