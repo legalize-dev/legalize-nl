@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-11-25"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -58,19 +58,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Indexcijfer cao-lonen en consumentenprijsindex
 
-1. Voor de toepassing van [artikel 17, vierde lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17) en [artikel 5, derde lid, van het BTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5) wordt onder indexcijfer van de cao-lonen verstaan: de reeks ‘CAO-lonen per maand inclusief bijzondere beloningen’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin. De van toepassing zijnde procentuele ontwikkeling is 2,18 procent.
+1. Voor de toepassing van [artikel 17, vierde lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17) en [artikel 5, derde lid, van het BTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5) wordt onder indexcijfer van de cao-lonen verstaan: de reeks ‘CAO-lonen per maand inclusief bijzondere beloningen’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin. De van toepassing zijnde procentuele ontwikkeling is 2,75 procent.
 
-2. Voor de toepassing van [artikel 17, vierde lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17), en [artikel 5, derde lid, van het BTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), wordt onder consumentenprijsindex verstaan: de reeks ‘consumentenprijsindex alle huishoudens’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin. De van toepassing zijnde procentuele ontwikkeling is 1,71 procent.
+2. Voor de toepassing van [artikel 17, vierde lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17), en [artikel 5, derde lid, van het BTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), wordt onder consumentenprijsindex verstaan: de reeks ‘consumentenprijsindex alle huishoudens’, zoals die is berekend door het Centraal Bureau voor de Statistiek en is gepubliceerd in het Statistisch Bulletin. De van toepassing zijnde procentuele ontwikkeling is 2,63 procent.
 
-3. Voor de toepassing van [artikel 8.1, tweede lid van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1) wordt onder consumentenprijsindex verstaan: de index in de reeks ‘consumentenprijsindex Caribisch Nederland’ met de grootste procentuele stijging. De van toepassing zijnde procentuele ontwikkeling is 3,44 procent.
+3. Voor de toepassing van [artikel 8.1, tweede lid van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1) wordt onder consumentenprijsindex verstaan: de index in de reeks ‘consumentenprijsindex Caribisch Nederland’ met de grootste procentuele stijging. De van toepassing zijnde procentuele ontwikkeling is 1,30 procent.
 
 ##### Artikel 3. Rentepercentage [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
-1. Het rentepercentage, bedoeld in [artikel 6.3, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3), wordt voor het jaar 2020 vastgesteld op 0,0 procent.
+1. Het rentepercentage, bedoeld in [artikel 6.3, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3), wordt voor het jaar 2021 vastgesteld op 0,0 procent.
 
-2. Het rentepercentage, bedoeld in [artikel 6.3, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3), wordt voor het jaar 2020 vastgesteld op 0,0 procent.
+2. Het rentepercentage, bedoeld in [artikel 6.3, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3), wordt voor het jaar 2021 vastgesteld op 0,0 procent.
 
-3. Het rentepercentage, bedoeld in [artikel 4.3 van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.3), wordt voor het jaar 2020 vastgesteld op 0,0 procent.
+3. Het rentepercentage, bedoeld in [artikel 4.3 van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.3), wordt voor het jaar 2021 vastgesteld op 0,0 procent.
 
 ### Hoofdstuk 2. Normen [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en [BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545)
 
@@ -80,131 +80,131 @@ Vervallen
 
 ##### Artikel 5. Vrije voet veronderstelde ouderlijke bijdrage beroepsonderwijs
 
-Met ingang van 1 januari 2020 worden de bedragen, genoemd in [artikel 3.9, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 18.288,73 onderscheidenlijk € 23.170,86.
+Met ingang van 1 januari 2021 worden de bedragen, genoemd in [artikel 3.9, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 18.791,67 onderscheidenlijk € 23.808,06.
 
 ##### Artikel 6. Vordering wegens eigen inkomsten mbo-student
 
-1. Met ingang van 1 januari 2020 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), vastgesteld op € 15.003,05.
+1. Met ingang van 1 januari 2021 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), vastgesteld op € 15.415,63.
 
-2. Met ingang van 1 januari 2020 bedraagt het bedrag, genoemd in [artikel 3.17, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), € 348,62.
+2. Met ingang van 1 januari 2021 bedraagt het bedrag, genoemd in [artikel 3.17, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), € 358,07.
 
 ##### Artikel 7. Normbedragen studiefinanciering
 
-Met ingang van 1 januari 2020 luiden de bedragen, genoemd in de overzichten 1, 2 en 3 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), als volgt:
+Met ingang van 1 januari 2021 luiden de bedragen, genoemd in de overzichten 1, 2 en 3 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), als volgt:
 
 | **A. Beroepsonderwijs** |   |
 | --- | --- |
-| Normbedrag thuiswonend | € 521,88 |
-| Normbedrag uitwonend | € 737,07 |
+| Normbedrag thuiswonend | € 535,61 |
+| Normbedrag uitwonend | € 756,45 |
 | **B. Hoger onderwijs** |   |
-| Normbedrag | € 897,56 |
+| Normbedrag | € 921,17 |
 
 | **A. Beroepsonderwijs** |   |
 | --- | --- |
 | Basisbeurs (exclusief toeslag eenoudergezin) | Basisbeurs (exclusief toeslag eenoudergezin) |
-| • thuiswonend | € 85,13 |
-| • uitwonend | € 277,84 |
+| • thuiswonend | € 87,37 |
+| • uitwonend | € 285,15 |
 | Basislening | Basislening |
-| • thuis- en uitwonend | € 185,46 |
-| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage* | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage* |
-| • thuiswonend | € 251,29 |
-| • uitwonend | € 273,77 |
+| • thuis- en uitwonend | € 190,34 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 |
+| • thuiswonend | € 257,90 |
+| • uitwonend | € 280,96 |
 | **B. Hoger onderwijs** | **B. Hoger onderwijs** |
-| • Basislening | € 494,39 |
-| • Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | € 403,17 |
+| • Basislening | € 507,39 |
+| • Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | € 413,78 |
 
-***) Voor mbo-studenten die lesgeld verschuldigd zijn, wordt de maximale aanvullende beurs/lening ingevolge artikel 3.2, derde lid, van de wet vanaf 1 januari 2020 verhoogd met € 97,33 en per 1 augustus 2020 met € 100,17 per maand.**
+1 Voor mbo-studenten die lesgeld verschuldigd zijn, wordt de maximale aanvullende beurs/lening ingevolge [artikel 3.2, derde lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.2) vanaf 1 januari 2021 verhoogd met € 100,17 en per 1 augustus 2021 met € 101,33 per maand.
 
 |   | Hoger onderwijs | Beroepsonderwijs |
 | --- | --- | --- |
-| Toeslag eenoudergezin | € 259,69 | € 259,69 |
+| Toeslag eenoudergezin | € 266,52 | € 266,52 |
 
 ##### Artikel 8. Maximale hoogte lening
 
-Met ingang van 1 januari 2020 wordt het bedrag, genoemd in de [artikelen 4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), en [5.2, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), vastgesteld op € 963,59.
+Met ingang van 1 januari 2021 wordt het bedrag, genoemd in de [artikelen 4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), en [5.2, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), vastgesteld op € 988,93.
 
 ### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 ##### Artikel 9. Grensbedragen draagkracht en toetsingsinkomen
 
-1. Met ingang van schooljaar 2020–2021 wordt het grensbedrag draagkracht, bedoeld in [artikel 2.23, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.23), vastgesteld op € 36.088,27.
+1. Met ingang van schooljaar 2021–2022 wordt het grensbedrag draagkracht, bedoeld in [artikel 2.23, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.23), vastgesteld op € 37.080,70.
 
-2. Met ingang van 1 januari 2020 wordt het grensbedrag toetsingsinkomen, bedoeld in [artikel 10.5, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.5), vastgesteld op € 4.057,04.
+2. Met ingang van 1 januari 2021 wordt het grensbedrag toetsingsinkomen, bedoeld in [artikel 10.5, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.5), vastgesteld op € 4.168,61.
 
 ##### Artikel 10. Normbedragen basistoelage
 
-Met ingang van 1 januari 2020 wordt de hoogte van de basistoelage per kalendermaand, bedoeld in [artikel 4.3 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), als volgt vastgesteld:
+Met ingang van 1 januari 2021 wordt de hoogte van de basistoelage per kalendermaand, bedoeld in [artikel 4.3 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), als volgt vastgesteld:
 
-- a. € 117,20 voor een thuiswonende leerling;
+- a. € 120,28 voor een thuiswonende leerling;
 
-- b. € 273,26 voor een uitwonende leerling.
+- b. € 280,45 voor een uitwonende leerling.
 
 ##### Artikel 11. Normbedragen tegemoetkoming schoolkosten ex [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6)
 
-Met ingang van schooljaar 2020–2021 luidt de tegemoetkoming schoolkosten, bedoeld in [artikel 4.6 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), als volgt:
+Met ingang van schooljaar 2021–2022 luiden de bedragen van de tegemoetkoming schoolkosten, bedoeld in [artikel 4.6 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), als volgt:
 
-| a. onderbouw volledig op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum | € 82,64 |
+| a. onderbouw volledig op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum | € 84,81 |
 | --- | --- |
-| b. bovenbouw volledig op grond van de WVO bekostigd onderwijs | € 90,47 |
-| c. onderbouw niet volledig en rechtstreeks bekostigd vo | € 113,14 |
-| d. bovenbouw niet volledig en rechtstreeks bekostigd vo | € 121,02 |
-| e. speciaal onderwijs en voortgezet speciaal onderwijs | € 54,89 |
-| f. voortgezet algemeen volwassenen onderwijs (vavo) | € 121,02 |
+| b. bovenbouw volledig op grond van de WVO bekostigd onderwijs | € 92,85 |
+| c. onderbouw niet volledig en rechtstreeks bekostigd vo | € 116,12 |
+| d. bovenbouw niet volledig en rechtstreeks bekostigd vo | € 124,20 |
+| e. speciaal onderwijs en voortgezet speciaal onderwijs | € 56,33 |
+| f. voortgezet algemeen volwassenen onderwijs (vavo) | € 124,20 |
 
 ##### Artikel 12. Normbedrag tegemoetkoming schoolkosten ex [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4)
 
-Met ingang van schooljaar 2020–2021 wordt de tegemoetkoming schoolkosten, bedoeld in [artikel 5.4 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4), vastgesteld op € 761,23.
+Met ingang van schooljaar 2021–2022 wordt de tegemoetkoming schoolkosten, bedoeld in [artikel 5.4 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4), vastgesteld op € 781,25.
 
 ##### Artikel 13. Normbedragen tegemoetkoming schoolkosten ex [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10)
 
-Met ingang van schooljaar 2020–2021 luidt de tegemoetkoming schoolkosten, bedoeld in de overzichten 1 en 2 van [artikel 5.10 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10), als volgt:
+Met ingang van schooljaar 2021–2022 luiden de bedragen van de tegemoetkoming schoolkosten, bedoeld in de overzichten 1 en 2 van [artikel 5.10 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10), als volgt:
 
-| aantal minuten per week | Schoolkosten |
+| Aantal minuten per week | Schoolkosten |
 | --- | --- |
-| 540 of meer | € 325,71 |
-| 540 of meer en voor 1 januari 270 tot 540 | € 162,86+ € 162,86 naar rato aantal minuten dat onderwijs wordt gevolgd |
-| 270 tot 540 | € 219,44 |
-| 270 tot 540 en voor 1 januari minder dan 270 | € 109,72+ € 109,72 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 540 of meer | € 334,28 |
+| 540 of meer en voor 1 januari 270 tot 540 | € 167,14+ € 167,14 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 270 tot 540 | € 225,21 |
+| 270 tot 540 en voor 1 januari minder dan 270 | € 112,61+ € 112,61 naar rato aantal minuten dat onderwijs wordt gevolgd |
 | minder dan 270 | Nihil |
 
-| aantal minuten per week | Schoolkosten |
+| Aantal minuten per week | Schoolkosten |
 | --- | --- |
-| 540 of meer | € 162,86 |
-| 540 of meer en voor 1 januari 270 tot 540 | € 81,43 + € 81,43 naar rato aantal minuten dat onderwijs wordt gevolgd |
-| 270 tot 540 | € 109,72 |
-| 270 tot 540 en voor 1 januari minder dan 270 | € 54,86 + € 54,86 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 540 of meer | € 167,14 |
+| 540 of meer en voor 1 januari 270 tot 540 | € 83,57 + € 83,57 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 270 tot 540 | € 112,61 |
+| 270 tot 540 en voor 1 januari minder dan 270 | € 56,31 + € 56,31 naar rato aantal minuten dat onderwijs wordt gevolgd |
 | Minder dan 270 | Nihil |
 
 ##### Artikel 14. Normbedragen tegemoetkoming schoolkosten ex [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7)
 
-Met ingang van het schooljaar of studiejaar 2020–2021 wordt de tegemoetkoming in de schoolkosten, genoemd in [artikel 10.7, derde lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7), als volgt vastgesteld:
+Met ingang van het schooljaar of studiejaar 2021–2022 wordt de tegemoetkoming in de schoolkosten, genoemd in [artikel 10.7, derde lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7), als volgt vastgesteld:
 
-- a. € 761,00 voor het onderwijs genoemd in onderdeel a;
+- a. € 781,00 voor het onderwijs genoemd in onderdeel a;
 
-- b. € 325,71 voor het onderwijs genoemd in onderdeel b;
+- b. € 334,28 voor het onderwijs genoemd in onderdeel b;
 
-- c. € 219,44 voor het onderwijs genoemd in onderdeel c.
+- c. € 225,21 voor het onderwijs genoemd in onderdeel c.
 
 ### Hoofdstuk 4. Normen [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
 ##### Artikel 15. Normbedragen studiefinanciering en opstarttoelage BES
 
-Met ingang van 1 januari 2020 luiden de bedragen, bedoeld in [artikel 2.2 van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2), als volgt:
+Met ingang van 1 januari 2021 luiden de bedragen, bedoeld in [artikel 2.2 van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2), als volgt:
 
 | I. Onderwijstype | II. Plaats opleiding | III. Prestatiebeurs of gift per maand | IV. Lening tijdens prestatiebeurs per maand | V. Lening na prestatiebeurs per maand |
 | --- | --- | --- | --- | --- |
-| Beroepsonderwijs | Eigen openbaar lichaam | USD 79,00 | USD 158,00 | USD 237,00 |
-|   | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten | USD 256,72 | USD 513,44 | USD 770,16 |
-|   | Overig deel Caribische regio | USD 394,94 | USD 789,88 | USD 1.184,82 |
-|   | Verenigde Staten van Amerika en Canada | USD 541.79 | USD 1.083,58 | USD 1.625,37 |
-| Hoger onderwijs | Eigen openbaar lichaam | USD 148,10 | USD 296,20 | USD 444,30 |
-|   | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten | USD 296,20 | USD 592,40 | USD 888,60 |
-|   | Overig deel Caribische regio | USD 394,94 | USD 789,88 | USD 1.184,82 |
-|   | Verenigde Staten van Amerika en Canada | USD 541,79 | USD 1.083,58 | USD 1.625,37 |
+| Beroepsonderwijs | Eigen openbaar lichaam | USD 80,02 | USD 160,04 | USD 240,06 |
+|   | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten | USD 260,05 | USD 520,10 | USD 780,15 |
+|   | Overig deel Caribische regio | USD 400,06 | USD 800,12 | USD 1.200,18 |
+|   | Verenigde Staten van Amerika en Canada | USD 548,81 | USD 1.097,62 | USD 1.646,43 |
+| Hoger onderwijs | Eigen openbaar lichaam | USD 150,02 | USD 300,04 | USD 450,06 |
+|   | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten | USD 300,04 | USD 600,08 | USD 900,12 |
+|   | Overig deel Caribische regio | USD 400,06 | USD 800,12 | USD 1.200,18 |
+|   | Verenigde Staten van Amerika en Canada | USD 548,81 | USD 1.097,62 | USD 1.646,43 |
 
 | I. Onderwijstype | II. Plaats opleiding | III. Prestatiebeurs | IV. Lening |
 | --- | --- | --- | --- |
-| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs | Europees deel van Nederland | USD 2.726,40 | USD 5.452,80 |
+| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs | Europees deel van Nederland | USD 2.761,72 | USD 5.523,44 |
 
 ### Hoofdstuk 5. Wijziging bedragen in andere regelingen
 
@@ -220,7 +220,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk 5. Wijziging bedragen in andere regelingen
+### Hoofdstuk 4. Normen [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
 ##### Artikel 19. Inwerkingtreding en vervaldatum
 
@@ -234,22 +234,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Normbedrag kwijtschelding studieschuld
 
-Met ingang van 1 januari 2020 bedraagt het bedrag, genoemd in [artikel 6.2a, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2a), € 1.292,66.
+Met ingang van 1 januari 2021 bedraagt het bedrag, genoemd in [artikel 6.2a, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2a), € 1.326,66.
 
 ##### Artikel 8b. Normbedragen cohortgarantie
 
-Met ingang van 1 januari 2020 luiden de bedragen, genoemd in [artikel 12.14, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), als volgt:
+Met ingang van 1 januari 2021 luiden de bedragen, genoemd in [artikel 12.14, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), als volgt:
 
 |   | thuiswonende | uitwonende |
 | --- | --- | --- |
-| a. maandbedrag als bedoeld in overzicht 1 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 682,34 | € 897,56 |
-| b. basisbeurs als bedoeld in overzicht 2 van artikel 3.18 | € 108,00 | € 300,69 |
-| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van artikel 3.18 | € 265,42 | € 287,95 |
-| d. basislening als bedoeld in overzicht 2 van artikel 3.18 | € 308,92 | € 308,92 |
+| a. maandbedrag als bedoeld in overzicht 1 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 700,29 | € 921,17 |
+| b. basisbeurs als bedoeld in overzicht 2 van artikel 3.18 | € 110,84 | € 308,60 |
+| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van artikel 3.18 | € 272,41 | € 295,53 |
+| d. basislening als bedoeld in overzicht 2 van artikel 3.18 | € 317,04 | € 317,04 |
 
 ##### Artikel 8c. Waarde van de voucher
 
-Met ingang van 1 januari 2020 bedraagt het bedrag, bedoeld in [artikel 19, eerste lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=19), € 2.068,87.
+Met ingang van 1 januari 2021 bedraagt het bedrag, bedoeld in [artikel 19, eerste lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=19), € 2.123,28.
 
 ##### Artikel 8d. Normbedrag partnertoeslag
 
@@ -265,13 +265,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Vrije voet veronderstelde ouderlijke bijdrage hoger onderwijs
 
-1. Met ingang van 1 januari 2020 wordt het bedrag, genoemd in [artikel 3.9a, onder a, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 16.391,04.
+1. Met ingang van 1 januari 2021 wordt het bedrag, genoemd in [artikel 3.9a, onder a, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 16.841,79.
 
-2. Met ingang van 1 januari 2020 wordt het bedrag, genoemd in [artikel 3.9a, onder b, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 20.766,37.
+2. Met ingang van 1 januari 2021 wordt het bedrag, genoemd in [artikel 3.9a, onder b, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 21.337,45.
 
 ### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 ### Hoofdstuk 4. Normen [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
+
+### Hoofdstuk 5. Wijziging bedragen in andere regelingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Bedragen OV-boete
+
+1. Met ingang van 1 januari 2021 wordt het bedrag, genoemd in [artikel 3.27, tweede lid, onder a, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), vastgesteld op € 78,29.
+
+2. Met ingang van 1 januari 2021 wordt het bedrag, genoemd in [artikel 3.27, tweede lid, onder b, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), vastgesteld op € 156,58.
+
+### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 ### Hoofdstuk 5. Wijziging bedragen in andere regelingen
 
