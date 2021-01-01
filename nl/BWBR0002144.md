@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -72,9 +72,9 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 ##### Artikel 4
 
-Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op het College, met dien verstande dat:
+Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21c) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2019-01-01&g=2019-01-01), zijn;
+- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2021-01-01&g=2021-01-01), zijn;
 
 - b. de voorzitter onderscheidenlijk het andere rechterlijk lid gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van zijn salaris overeenkomstig het bepaalde bij en krachtens [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid ontvangt, en dat daarop de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13), [17, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17), en [18 tot en met 19 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=18) van overeenkomstige toepassing zijn;
 
