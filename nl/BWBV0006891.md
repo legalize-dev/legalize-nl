@@ -4,7 +4,7 @@ identifier: "BWBV0006891"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-06-01"
-last_updated: "2020-12-14"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006891"
 soort: "verdrag"
@@ -148,7 +148,7 @@ Onder bni in de zin van lid 1, onder d), wordt verstaan een jaarlijks bni, uitge
 
 3. Er wordt een gepaste verhouding tussen vastleggingskredieten en betalingskredieten in acht genomen om ervoor te zorgen dat zij verenigbaar zijn en om in de volgende jaren de hand te kunnen houden aan het in lid 1 bepaalde maximum.
 
-4. Indien wijzigingen in Verordening (EU) nr. 549/2013 significante veranderingen van het bni-peil meebrengt, berekent de Commissie de in de leden 1 en 2 vastgelegde maxima opnieuw, zoals tijdelijk verhoogd overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2020-12-14&g=2020-12-14), op basis van de volgende formule:
+4. Indien wijzigingen in Verordening (EU) nr. 549/2013 significante veranderingen van het bni-peil meebrengt, berekent de Commissie de in de leden 1 en 2 vastgelegde maxima opnieuw, zoals tijdelijk verhoogd overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2021-06-01&g=2021-01-01), op basis van de volgende formule:
 
 waarbij:
 
@@ -170,7 +170,7 @@ De Unie gebruikt op kapitaalmarkten geleende middelen niet voor de financiering 
 
 - a. wordt de Commissie gemachtigd om namens de Unie middelen op kapitaalmarkten maximaal 750 miljard EUR in prijzen van 2018 te lenen. De transacties tot het opnemen van leningen worden uitgevoerd in euro;
 
-- b. maximaal 360 miljard EUR in prijzen van 2018 van de geleende middelen mogen worden gebruikt voor het verstrekken van leningen en, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=4&z=2020-12-14&g=2020-12-14), maximaal 390 miljard EUR in prijzen van 2018 van de geleende middelen mag worden gebruikt voor uitgaven.
+- b. maximaal 360 miljard EUR in prijzen van 2018 van de geleende middelen mogen worden gebruikt voor het verstrekken van leningen en, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=4&z=2021-06-01&g=2021-01-01), maximaal 390 miljard EUR in prijzen van 2018 van de geleende middelen mag worden gebruikt voor uitgaven.
 
 Het in de eerste alinea, onder a), bedoelde bedrag wordt aangepast op basis van een vaste deflator van 2 % per jaar. De Commissie stelt het Europees Parlement en de Raad jaarlijks in kennis van het aangepaste bedrag.
 
@@ -186,13 +186,13 @@ De door de Unie in een gegeven jaar verschuldigde bedragen voor de terugbetaling
 
 ##### Artikel 6. Buitengewone en tijdelijke verhoging van de maxima van de eigen middelen ten behoeve van de toewijzing van de voor de bestrijding van de gevolgen van de COVID-19-crisis benodigde middelen
 
-De in [artikel 3, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2020-12-14&g=2020-12-14), vastgestelde maxima worden elk tijdelijk verhoogd met 0,6 procentpunt met als enig doel alle verplichtingen van de Unie die voortvloeien uit haar in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=5&z=2020-12-14&g=2020-12-14) bedoelde leningen, te dekken totdat al deze verplichtingen zijn vervallen, en uiterlijk tot en met 31 december 2058.
+De in [artikel 3, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2021-06-01&g=2021-01-01), vastgestelde maxima worden elk tijdelijk verhoogd met 0,6 procentpunt met als enig doel alle verplichtingen van de Unie die voortvloeien uit haar in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=5&z=2021-06-01&g=2021-01-01) bedoelde leningen, te dekken totdat al deze verplichtingen zijn vervallen, en uiterlijk tot en met 31 december 2058.
 
 De verhoogde maxima van de eigen middelen mogen niet worden gebruikt ter dekking van andere verplichtingen van de Unie.
 
 ##### Artikel 7. Universaliteitsbeginsel
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14) bedoelde ontvangsten worden zonder onderscheid gebruikt voor de financiering van alle uitgaven die in de jaarlijkse begroting van de Unie zijn opgenomen.
+De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01) bedoelde ontvangsten worden zonder onderscheid gebruikt voor de financiering van alle uitgaven die in de jaarlijkse begroting van de Unie zijn opgenomen.
 
 ##### Artikel 8. Overdracht van het overschot
 
@@ -200,35 +200,35 @@ Het eventuele overschot van de ontvangsten van de Unie ten opzichte van de total
 
 ##### Artikel 9. Inning van de eigen middelen en terbeschikkingstelling ervan aan de Commissie
 
-1. De in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde eigen middelen worden door de lidstaten geïnd overeenkomstig de nationale wettelijke en bestuursrechtelijke bepalingen. De lidstaten passen die bepalingen waar nodig aan opdat zij aan de Unievoorschriften voldoen.
+1. De in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde eigen middelen worden door de lidstaten geïnd overeenkomstig de nationale wettelijke en bestuursrechtelijke bepalingen. De lidstaten passen die bepalingen waar nodig aan opdat zij aan de Unievoorschriften voldoen.
 
 De Commissie onderzoekt de desbetreffende nationale bepalingen waarvan de lidstaten haar in kennis stellen, deelt de lidstaten de aanpassingen mee die zij noodzakelijk acht om deze bepalingen in overeenstemming te brengen met de Unievoorschriften, en brengt zo nodig verslag uit aan het Europees Parlement en de Raad.
 
-2. De lidstaten houden 25 % van de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde bedragen in als inningskosten.
+2. De lidstaten houden 25 % van de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde bedragen in als inningskosten.
 
-3. De lidstaten stellen de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), van dit besluit bedoelde eigen middelen ter beschikking van de Commissie, in overeenstemming met verordeningen die op grond van artikel 322, lid 2, VWEU worden vastgesteld.
+3. De lidstaten stellen de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), van dit besluit bedoelde eigen middelen ter beschikking van de Commissie, in overeenstemming met verordeningen die op grond van artikel 322, lid 2, VWEU worden vastgesteld.
 
-4. Onverminderd artikel 14, lid 2, van Verordening (EU, Euratom) nr. 609/2014 van de Raad12)Verordening (EU, Euratom) nr. 609/2014 van de Raad van 26 mei 2014 betreffende de regels en procedures voor de terbeschikkingstelling van de traditionele eigen middelen, de btw- en de bni-middelen, en betreffende de maatregelen om in de behoefte aan kasmiddelen te voorzien (PB L 168 van 7.6.2014, blz. 39). geldt dat, als de in de Uniebegroting opgenomen toegestane kredieten voor de Unie niet toereikend zijn om te voldoen aan haar verplichtingen die voortvloeien uit het opnemen van leningen zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=5&z=2020-12-14&g=2020-12-14) van dit besluit, en de Commissie de nodige liquiditeit niet kan genereren door andere maatregelen die in de op die leningen toepasselijke financiële regelingen zijn opgenomen, op tijd te activeren om de naleving van de verplichtingen van de Unie te garanderen, inclusief door actief liquiditeitsbeheer en, indien nodig, door een beroep te doen op kortetermijnfinanciering op kapitaalmarkten conform de in artikel 5, lid 1, eerste alinea, onder a), en artikel 5, lid 2, vastgelegde voorwaarden en beperkingen, de lidstaten de Commissie, als laatste redmiddel, daartoe de nodige middelen ter beschikking stellen. In die alinea, onder a), en artikel 5, lid 2, vastgelegde voorwaarden en beperkingen, de lidstaten de Commissie, als laatste redmiddel, daartoe de nodige middelen ter beschikking stellen. In die gevallen zijn, in afwijking van artikel 14, lid 3, en van artikel 14, lid 4, eerste alinea, van Verordening (EU, Euratom) nr. 609/2014, leden 5 tot en met 9, van dit artikel van toepassing.
+4. Onverminderd artikel 14, lid 2, van Verordening (EU, Euratom) nr. 609/2014 van de Raad12)Verordening (EU, Euratom) nr. 609/2014 van de Raad van 26 mei 2014 betreffende de regels en procedures voor de terbeschikkingstelling van de traditionele eigen middelen, de btw- en de bni-middelen, en betreffende de maatregelen om in de behoefte aan kasmiddelen te voorzien (PB L 168 van 7.6.2014, blz. 39). geldt dat, als de in de Uniebegroting opgenomen toegestane kredieten voor de Unie niet toereikend zijn om te voldoen aan haar verplichtingen die voortvloeien uit het opnemen van leningen zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=5&z=2021-06-01&g=2021-01-01) van dit besluit, en de Commissie de nodige liquiditeit niet kan genereren door andere maatregelen die in de op die leningen toepasselijke financiële regelingen zijn opgenomen, op tijd te activeren om de naleving van de verplichtingen van de Unie te garanderen, inclusief door actief liquiditeitsbeheer en, indien nodig, door een beroep te doen op kortetermijnfinanciering op kapitaalmarkten conform de in artikel 5, lid 1, eerste alinea, onder a), en artikel 5, lid 2, vastgelegde voorwaarden en beperkingen, de lidstaten de Commissie, als laatste redmiddel, daartoe de nodige middelen ter beschikking stellen. In die alinea, onder a), en artikel 5, lid 2, vastgelegde voorwaarden en beperkingen, de lidstaten de Commissie, als laatste redmiddel, daartoe de nodige middelen ter beschikking stellen. In die gevallen zijn, in afwijking van artikel 14, lid 3, en van artikel 14, lid 4, eerste alinea, van Verordening (EU, Euratom) nr. 609/2014, leden 5 tot en met 9, van dit artikel van toepassing.
 
 5. Behoudens artikel 14, lid 4, tweede alinea, van Verordening (EU, Euratom) nr. 609/2014 kan de Commissie de lidstaten verzoeken om, naar evenredigheid („pro rata”) van de geraamde begrotingsontvangsten van elk van hen, voorlopig het verschil tussen de totale activa en de behoeften aan kasmiddelen bij te passen. De Commissie kondigt dergelijke verzoeken ruim van tevoren aan de lidstaten aan. De Commissie zal met de nationale bureaus voor schuldbeheer en de nationale schatkisten een gestructureerde dialoog aangaan over de uitgifte en de terugbetalingsschema’s.
 
 Indien een lidstaat een verzoek niet tijdig volledig of gedeeltelijk inwilligt of de lidstaat de Commissie ervan in kennis stelt dat hij daaraan geen gevolg zal kunnen geven, heeft de Commissie voorlopig het recht om ter dekking van het deel van de betrokken lidstaat, aanvullende verzoeken te doen bij andere lidstaten. Dergelijke verzoeken zijn pro rata naar de geraamde begrotingsontvangsten van elk van de andere lidstaten. De lidstaat die een verzoek niet inwilligt, blijft gehouden tot inwilliging ervan.
 
-6. Het maximale totale jaarlijkse bedrag aan kasmiddelen dat uit hoofde van lid 5 van een lidstaat kan worden gevraagd, wordt in elk geval beperkt tot zijn relatieve aandeel op basis van het bni in de buitengewone en tijdelijke verhoging van het maximum van de eigen middelen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2020-12-14&g=2020-12-14). Daartoe wordt het relatieve aandeel op basis van het bni berekend als het aandeel in het totale bni van de Unie, zoals dat voortvloeit uit de overeenkomstige kolom in het deel „ontvangsten” van de laatst vastgestelde jaarlijkse begroting van de Unie.
+6. Het maximale totale jaarlijkse bedrag aan kasmiddelen dat uit hoofde van lid 5 van een lidstaat kan worden gevraagd, wordt in elk geval beperkt tot zijn relatieve aandeel op basis van het bni in de buitengewone en tijdelijke verhoging van het maximum van de eigen middelen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2021-06-01&g=2021-01-01). Daartoe wordt het relatieve aandeel op basis van het bni berekend als het aandeel in het totale bni van de Unie, zoals dat voortvloeit uit de overeenkomstige kolom in het deel „ontvangsten” van de laatst vastgestelde jaarlijkse begroting van de Unie.
 
 7. Elke verstrekking van kasmiddelen op grond van de leden 5 en 6 wordt onverwijld gecompenseerd in overeenstemming met het toepasselijke juridisch kader voor de Uniebegroting.
 
 8. De uitgaven die met de overeenkomstig lid 5 voorlopig opgenomen kasmiddelen worden gedekt, worden onverwijld in de Uniebegroting opgenomen om ervoor te zorgen dat de desbetreffende ontvangsten zo spoedig mogelijk in aanmerking worden genomen opdat de eigen middelen door de lidstaten op het credit van rekeningen worden geboekt overeenkomstig de toepasselijke bepalingen van Verordening (EU, Euratom) nr. 609/2014.
 
-9. De toepassing van lid 5 mag er niet toe leiden toe dat jaarlijks kasmiddelen worden gevraagd die de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2020-12-14&g=2020-12-14) bedoelde maxima van de eigen middelen overschrijden, zoals verhoogd overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2020-12-14&g=2020-12-14).
+9. De toepassing van lid 5 mag er niet toe leiden toe dat jaarlijks kasmiddelen worden gevraagd die de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2021-06-01&g=2021-01-01) bedoelde maxima van de eigen middelen overschrijden, zoals verhoogd overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2021-06-01&g=2021-01-01).
 
 ##### Artikel 10. Uitvoeringsmaatregelen
 
 De Raad stelt, overeenkomstig de procedure van artikel 311, vierde alinea, VWEU, uitvoeringsmaatregelen vast ten aanzien van de volgende elementen van het stelsel van eigen middelen van de Unie:
 
-- a. de procedure voor de berekening en budgettering van het saldo van de jaarlijkse begroting als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=8&z=2020-12-14&g=2020-12-14);
+- a. de procedure voor de berekening en budgettering van het saldo van de jaarlijkse begroting als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=8&z=2021-06-01&g=2021-01-01);
 
-- b. de voorschriften en regelingen welke noodzakelijk zijn voor de controle en het toezicht op de inning van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde eigen middelen en eventuele relevante rapportagevereisten.
+- b. de voorschriften en regelingen welke noodzakelijk zijn voor de controle en het toezicht op de inning van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde eigen middelen en eventuele relevante rapportagevereisten.
 
 ##### Artikel 11. Overgangs- en slotbepalingen
 
@@ -236,11 +236,11 @@ De Raad stelt, overeenkomstig de procedure van artikel 311, vierde alinea, VWEU,
 
 2. De artikelen 2, 4 en 5 van Besluit 94/728/EG, Euratom, de artikelen 2, 4 en 5 van Besluit 2000/597/EG, Euratom, de artikelen 2, 4 en 5 van Besluit 2007/436/EG, Euratom en de artikelen 2, 4 en 5 van Besluit 2014/335/EU blijven van toepassing op de berekening en de aanpassing van de ontvangsten die voortvloeien uit de toepassing van een afdrachtpercentage op de btw-grondslag die op uniforme wijze is vastgesteld en beperkt tot 50 % à 55 % van het bnp of bni van elke lidstaat, al naargelang het jaar, op de berekening van de correctie voor begrotingsonevenwichtigheden ten behoeve van het Verenigd Koninkrijk voor de jaren 1995 tot en met 2020 en op de berekening van de financiering door andere lidstaten van de correcties ten behoeve van het Verenigd Koninkrijk.
 
-3. Op de in [artikel 2, lid 1, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde bedragen die vóór 28 februari 2001 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 10 % als inningskosten ingehouden.
+3. Op de in [artikel 2, lid 1, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde bedragen die vóór 28 februari 2001 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 10 % als inningskosten ingehouden.
 
-4. Op de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde bedragen die tussen 1 maart 2001 en 28 februari 2014 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 25 % als inningskosten ingehouden.
+4. Op de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde bedragen die tussen 1 maart 2001 en 28 februari 2014 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 25 % als inningskosten ingehouden.
 
-5. Op de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2020-12-14&g=2020-12-14), bedoelde bedragen die tussen 1 maart 2014 en 28 februari 2021 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 20 % als inningskosten ingehouden.
+5. Op de in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-01-01), bedoelde bedragen die tussen 1 maart 2014 en 28 februari 2021 door de lidstaten beschikbaar hadden moeten worden gesteld overeenkomstig de geldende Unievoorschriften, wordt door de lidstaten 20 % als inningskosten ingehouden.
 
 6. Voor de toepassing van dit besluit dienen alle bedragen worden uitgedrukt in euro.
 
