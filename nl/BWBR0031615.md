@@ -4,7 +4,7 @@ identifier: "BWBR0031615"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-08"
-last_updated: "2020-10-28"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031615"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=2&artikel=3&z=2020-10-28&g=2020-10-28) bedoelde militaire goederen indien aan de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=4&z=2020-10-28&g=2020-10-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=5&z=2020-10-28&g=2020-10-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=6&z=2020-10-28&g=2020-10-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=7&z=2020-10-28&g=2020-10-28) genoemde voorwaarden is voldaan.
+1. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=2&artikel=3&z=2020-10-28&g=2021-01-01) bedoelde militaire goederen indien aan de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=4&z=2020-10-28&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=5&z=2020-10-28&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=6&z=2020-10-28&g=2021-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=3&artikel=7&z=2020-10-28&g=2021-01-01) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene doorvoervergunning zijn de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=4&artikel=8&z=2020-10-28&g=2020-10-28) genoemde voorschriften verbonden.
+2. Aan de algemene doorvoervergunning zijn de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=4&artikel=8&z=2020-10-28&g=2021-01-01) genoemde voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -84,7 +84,7 @@ De algemene doorvoervergunning NL007 geldt voor militaire goederen zoals opgenom
 
 ##### Artikel 4
 
-De algemene doorvoervergunning NL007 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=2&artikel=3&z=2020-10-28&g=2020-10-28), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen herkomstig is uit Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische verdragsorganisatie en niet als eindbestemming heeft een van de genoemde landen of lidstaten of Jemen, Saoedi-Arabië, de Verenigde Arabische Emiraten, Egypte, Turkije of Oekraïne.
+De algemene doorvoervergunning NL007 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031615&paragraaf=2&artikel=3&z=2020-10-28&g=2021-01-01), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen herkomstig is uit Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische verdragsorganisatie en niet als eindbestemming heeft een van de genoemde landen of lidstaten of Jemen, Saoedi-Arabië, de Verenigde Arabische Emiraten, Egypte, Turkije of Oekraïne.
 
 ##### Artikel 5
 
