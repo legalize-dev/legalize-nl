@@ -4,7 +4,7 @@ identifier: "BWBR0040718"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2018-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040718"
 soort: "wet"
@@ -89,7 +89,7 @@ Een begunstigde die de op de verstrekking van staatssteun betrekking hebbende of
 
 ##### Artikel 5
 
-1. De [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), met uitzondering van [artikel 4:97](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:97), en [4.4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) zijn niet van toepassing op een geldschuld vastgesteld bij een beschikking tot betaling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=3&z=2018-07-01&g=2018-07-01).
+1. De [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), met uitzondering van [artikel 4:97](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:97), en [4.4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) zijn niet van toepassing op een geldschuld vastgesteld bij een beschikking tot betaling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=3&z=2021-01-01&g=2021-01-01).
 
 2. Het bestuursorgaan dat het aangaat kan de door een begunstigde te betalen geldsom invorderen bij dwangbevel.
 
@@ -105,13 +105,13 @@ Het bestuursorgaan dat het besluit tot verstrekking van staatssteun heeft genome
 
 2. Bij de toepassing van het eerste lid is rente verschuldigd over het te vorderen bedrag die wordt berekend overeenkomstig het bepaalde bij of krachtens de artikelen 16, tweede lid, en 33, onderdeel e, van de procedureverordening.
 
-3. [Artikel 4:57, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing en de [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), met uitzondering van [artikel 4:97](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:97), en [4.4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) zijn niet van toepassing. Uit de toepassing van een belastingwet voortvloeiende staatssteun als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=2&z=2018-07-01&g=2018-07-01), of staatssteun die voortvloeit uit de toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) kan ter uitvoering van het eerste lid teruggevorderd en ingevorderd worden met overeenkomstige toepassing van [hoofdstuk IVbis van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVbis) of [hoofdstuk VIIbis van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIbis).
+3. [Artikel 4:57, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing en de [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), met uitzondering van [artikel 4:97](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:97), en [4.4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) zijn niet van toepassing. Uit de toepassing van een belastingwet voortvloeiende staatssteun als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=2&z=2021-01-01&g=2021-01-01), of staatssteun die voortvloeit uit de toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) kan ter uitvoering van het eerste lid teruggevorderd en ingevorderd worden met overeenkomstige toepassing van [hoofdstuk IVbis van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVbis) of [hoofdstuk VIIbis van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIbis).
 
-4. In het geval staatssteun voortvloeit uit een overeenkomst naar Nederlands recht en die staatsteun ongedaan gemaakt wordt wegens strijd met artikel 108, derde lid, van het Verdrag betreffende de werking van de Europese Unie, is, indien er geen sprake is van een Commissiebesluit, het tweede lid van overeenkomstige toepassing op de rente over het ongedaan te maken staatssteunbedrag.
+4. In het geval staatssteun voortvloeit uit een overeenkomst naar Nederlands recht en die staatssteun ongedaan gemaakt wordt wegens strijd met artikel 108, derde lid, van het Verdrag betreffende de werking van de Europese Unie, is, indien er geen sprake is van een Commissiebesluit, het tweede lid van overeenkomstige toepassing op de rente over het ongedaan te maken staatssteunbedrag.
 
 ##### Artikel 8
 
-Indien voor de inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=2&z=2018-07-01&g=2018-07-01) al rechtshandelingen zijn verricht ter uitvoering van een Commissiebesluit, is op die terugvordering de verplichting van artikel 2, eerste lid, niet van toepassing.
+Indien voor de inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=2&z=2021-01-01&g=2021-01-01) al rechtshandelingen zijn verricht ter uitvoering van een Commissiebesluit, is op die terugvordering de verplichting van artikel 2, eerste lid, niet van toepassing.
 
 ##### Artikel 9
 
