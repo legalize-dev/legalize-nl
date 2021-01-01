@@ -869,15 +869,3 @@ De volgende regelingen worden ingetrokken:
 Deze regeling wordt aangehaald als: Loodsplichtregeling 2021.
 
 Deze regeling zal met de toelichting in de Staatcourant worden geplaatst.
-
-##### Artikel 33a. Vrijstelling van de loodsplicht voor kleine zeeschepen
-
-De kapitein of eerste stuurman van een klein zeeschip met als vertrekpunt respectievelijk bestemming de Handelskade te Dordrecht of een locatie op de Nieuwe Maas, gelegen tussen kilometerraaien 992 en 993 of tussen kilometerraaien 1001 en 1004, en die in het bezit is van een geldig Rijnpatent als bedoeld in [artikel 11.02 van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=11.02) of vaarbevoegdheidsbewijs voor de binnenvaart als bedoeld in [artikel 25, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25), is vrijgesteld van de loodsplicht indien de haven van bestemming respectievelijk vertrek is gelegen aan een scheepvaartweg waar de loodsplicht niet van toepassing is. De vorige volzin is tevens van toepassing indien een derde, die in het bezit is van een genoemde vaarbevoegdheid, aan boord is respectievelijk aan boord komt op een genoemde locatie.
-
-#### § 2. Zeehavengebied Scheveningen
-
-### Hoofdstuk 5. Zeehavenregio Scheldemonden
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatcourant worden geplaatst.
