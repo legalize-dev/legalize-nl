@@ -4,7 +4,7 @@ identifier: "BWBR0030610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2016-05-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030610"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ Geen melding is vereist voor:
 
 - a. de doorvoer van militaire goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van Nederland;
 
-- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2016-05-01&g=2016-05-01);
+- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2016-05-01&g=2021-01-01);
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
