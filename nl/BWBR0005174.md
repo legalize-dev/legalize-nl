@@ -4,7 +4,7 @@ identifier: "BWBR0005174"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2017-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005174"
 soort: "AMvB"
@@ -52,17 +52,19 @@ Het model voor het in [artikel 475, tweede lid, van het Wetboek van Burgerlijke 
 
 ##### Artikel 2
 
-1. De in [artikel 476**b** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476b) bedoelde verklaring wordt tot de in dat artikel bedoelde deurwaarder of advocaat gericht door:
+1. De in [artikel 476**b** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476b) bedoelde verklaring wordt tot de in dat artikel bedoelde deurwaarder gericht door:
 
-- a. overhandiging aan de deurwaarder of advocaat van een ingevuld formulier naar het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005174&artikel=1&z=2017-01-01&g=2017-01-01) bedoelde model;
+- a. overhandiging aan de deurwaarder van een ingevuld formulier naar het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005174&artikel=1&z=2021-01-01&g=2021-01-01) bedoelde model;
 
 - b. een gewone of aangetekende brief, inhoudende een ingevuld formulier als bedoeld onder **a**;
 
-- c. een telefax, inhoudende een ingevuld formulier als bedoeld onder **a**, indien in dat formulier het telefaxnummer van de deurwaarder of advocaat is opgegeven;
+- c. een telefax, inhoudende een ingevuld formulier als bedoeld onder **a**, indien in dat formulier het telefaxnummer van de deurwaarder is opgegeven;
 
-- d. elk ander door de deurwaarder of advocaat als verklaring aanvaard geschrift.
+- d. een langs elektronische weg ingediend ingevuld formulier als bedoeld onder a, indien in dat formulier het elektronisch adres van de deurwaarder is opgegeven; of
 
-2. In het geval van het eerste lid onder **a** geeft de deurwaarder of advocaat aan de derde terstond een schriftelijk ontvangstbewijs af. In andere gevallen zendt de deurwaarder of advocaat de derde onverwijld een zodanig bewijs toe.
+- e. elk ander door de deurwaarder als verklaring aanvaard geschrift.
+
+2. In het geval van het eerste lid onder **a** geeft de deurwaarder aan de derde terstond een schriftelijk ontvangstbewijs af. In andere gevallen zendt de deurwaarder de derde onverwijld een zodanig bewijs toe.
 
 ##### Artikel 3
 
@@ -295,5 +297,31 @@ functie:
 ondertekening
 
 (evt. firmastempel)
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 2a
+
+De kosten die op grond van een overeenkomst met de geëxecuteerde door de derde-beslagene kunnen worden gerekend voor het afgeven van de verklaring en de afwikkeling van het beslag, bedoeld in [artikel 476a, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a), bedragen maximaal € 80.
+
+## Het modelformulier verklaring bij derdenbeslag
+
+### Uitleg bij het modelformulier
+
+Dit formulier is het zogeheten verklaringsformulier bij derdenbeslag. Het is door de deurwaarder aan u toegezonden of gelaten in opdracht van een schuldeiser (zie voor de contactgegevens van de schuldeiser de eerste pagina van het formulier onder «B»), omdat de schuldeiser denkt dat u iets verschuldigd bent aan de schuldenaar (zie voor de contactgegevens van de schuldenaar de eerste pagina van het formulier onder «C»). De schuldeiser heeft geen vordering op u. U bent geen partij bij het conflict tussen de schuldeiser en de schuldenaar.
+
+U bent verplicht om het formulier in te vullen, zodat de deurwaarder kan achterhalen of u inderdaad iets verschuldigd bent aan de schuldenaar. Met het leggen van dit zogeheten «derdenbeslag» kan de schuldeiser ervoor zorgen dat hij het verschuldigde kan innen bij u in plaats van bij de schuldenaar. U wordt de «derde-beslagene» genoemd. U kunt bijvoorbeeld geld of een zaak (zoals een auto) van de schuldenaar in uw bezit hebben. Of u bent geld of zaken verschuldigd aan de schuldenaar. Of de schuldenaar heeft nu of in de toekomst iets van u te vorderen op grond van een nu bestaande overeenkomst of andere verplichting (bijvoorbeeld op basis van een huurovereenkomst). Nadat de deurwaarder het formulier van u heeft ontvangen, kan hij u op grond van dit beslag vragen aan hem af te geven wat u verschuldigd bent aan de schuldenaar. Tot die tijd zult u het verschuldigde onder u moeten houden en mag u dit niet aan de schuldenaar of aan een ander geven. Als de deurwaarder u vraagt om het verschuldigde aan hem af te geven, zult u hieraan moeten meewerken. Daarover krijgt u nog bericht van de deurwaarder.
+
+### Invullen en opsturen
+
+Het verklaringsformulier bestaat uit verschillende onderdelen. Een onderdeel **(1)** voor beslag op loon of een uitkering, **(2)** voor bankbeslag, **(3)**voor huurbeslag en **(4)** voor de overige soorten derdenbeslag (bijvoorbeeld een beslag op een zaak die een ander bij u heeft gestald of een beslag op een zaak die u van een ander heeft geleend). U moet alleen die onderdelen invullen die op uw situatie van toepassing zijn.
+
+U moet het formulier naar waarheid invullen en ondertekenen. Het ingevulde formulier moet worden afgegeven of teruggestuurd aan de in het formulier genoemde deurwaarder (voor dit adres, zie op de volgende pagina onder «Dit formulier is toegezonden of gelaten aan u»). Dit kunt u doen **(1)** door overhandiging van uw verklaring **(2)** dan wel door toezending daarvan bij gewone of aangetekende brief, **(3)** per telefax of **(4)**elektronisch (bijvoorbeeld per e-mail) in het geval in het formulier het elektronisch adres (bijvoorbeeld het e-mailadres) van de deurwaarder is opgenomen.
+
+U mag het ingevulde formulier niet eerder dan na twee weken na de datum van het beslag afgeven of terugsturen.
+
+Bent u te laat met het versturen van het formulier, dan loopt u het risico dat de schuldeiser de rechter vraagt om u te veroordelen tot het betalen van het hele bedrag waarvoor het beslag is gelegd.
+
+U geeft uw verklaring af door middel van het aan u toegestuurde formulier. In het formulier zijn eerst de contactgegevens van de deurwaarder, de schuldeiser, de schuldenaar en van uzelf als derde-beslagene opgenomen. Dit deel is al ingevuld door de deurwaarder. De rest van het formulier moet u invullen. U moet het formulier aan het slot ondertekenen. De deurwaarder zal u schriftelijk of elektronisch een ontvangstbevestiging van uw verklaringsformulier toesturen zodra hij het ingevulde formulier van u heeft ontvangen.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
