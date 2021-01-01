@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -101,8 +101,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI. [Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565)
 
 Wijzigt de Kadasterwet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
 
