@@ -4,7 +4,7 @@ identifier: "BWBR0028304"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028304"
 soort: "wet-BES"
@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **werknemer:** de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van een persoon werkzaam bij een publiekrechtelijk lichaam en een beambte of leerkracht bij het gesubsidieerd bijzonder onderwijs;
 
-- d. **cessantia-uitkering:** de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2016-01-01&g=2016-01-01);
+- d. **cessantia-uitkering:** de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2021-01-01&g=2021-01-01);
 
 - e. **loon:** het loon, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) en [9a van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=9a);
 
@@ -104,7 +104,7 @@ Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maa
 
 ##### Artikel 5
 
-1. De cessantia-uitkering wordt op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2016-01-01&g=2016-01-01) aan de gewezen werknemer op zijn verzoek door Onze Minister toegekend, dan wel, bij zijn overlijden, aan zijn nagelaten betrekkingen op hun verzoek door de werkgever of op grond van artikel 4 door Onze Minister toegekend, mits het verzoek binnen twaalf maanden na het einde van de dienstbetrekking bij de werkgever dan wel Onze Minister is ingediend. Met het einde van de dienstbetrekking wordt voor de toepassing van dit lid gelijkgesteld een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een dienstbetrekking als geëindigd wordt verklaard.
+1. De cessantia-uitkering wordt op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) aan de gewezen werknemer op zijn verzoek door Onze Minister toegekend, dan wel, bij zijn overlijden, aan zijn nagelaten betrekkingen op hun verzoek door de werkgever of op grond van artikel 4 door Onze Minister toegekend, mits het verzoek binnen twaalf maanden na het einde van de dienstbetrekking bij de werkgever dan wel Onze Minister is ingediend. Met het einde van de dienstbetrekking wordt voor de toepassing van dit lid gelijkgesteld een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een dienstbetrekking als geëindigd wordt verklaard.
 
 2. Voor de toepassing van het eerste lid wordt onder nagelaten betrekkingen verstaan:
 
@@ -186,13 +186,13 @@ Vervallen
 
 1. Deze wet wordt uitgevoerd door Onze Minister, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en dat de invordering daarvan geschiedt door de ontvanger.
 
-2. Een ieder is verplicht ten behoeve van de uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2016-01-01&g=2016-01-01) alle door Onze Minister verlangde inlichtingen te verstrekken, desverlangd schriftelijk en binnen een door Onze Minister te stellen redelijke termijn.
+2. Een ieder is verplicht ten behoeve van de uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) alle door Onze Minister verlangde inlichtingen te verstrekken, desverlangd schriftelijk en binnen een door Onze Minister te stellen redelijke termijn.
 
-3. De werkgever, die verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2016-01-01&g=2016-01-01), is verplicht bij het beëindigen en bij het eindigen van de dienstbetrekking Onze Minister onverwijld hieromtrent in te lichten. Onze Minister kan voor het verstrekken van deze inlichtingen formulieren beschikbaar stellen waarop de voor het beoordelen van het recht van de werknemer op de cessantia-uitkering door Onze Minister gewenste gegevens dienen te worden vermeld en welke door de werkgever ondertekend bij Onze Minister dienen te worden ingediend.
+3. De werkgever, die verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01), is verplicht bij het beëindigen en bij het eindigen van de dienstbetrekking Onze Minister onverwijld hieromtrent in te lichten. Onze Minister kan voor het verstrekken van deze inlichtingen formulieren beschikbaar stellen waarop de voor het beoordelen van het recht van de werknemer op de cessantia-uitkering door Onze Minister gewenste gegevens dienen te worden vermeld en welke door de werkgever ondertekend bij Onze Minister dienen te worden ingediend.
 
-4. Ingeval de dienstbetrekking van de werknemer krachtens het bepaalde in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2016-01-01&g=2016-01-01), dan wel anderszins als rechtens ononderbroken dient te worden beschouwd, en de werkgever verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2016-01-01&g=2016-01-01), geeft de werkgever zo spoedig mogelijk hiervan kennis aan Onze Minister.
+4. Ingeval de dienstbetrekking van de werknemer krachtens het bepaalde in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2021-01-01&g=2021-01-01), dan wel anderszins als rechtens ononderbroken dient te worden beschouwd, en de werkgever verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01), geeft de werkgever zo spoedig mogelijk hiervan kennis aan Onze Minister.
 
-5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2016-01-01&g=2016-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -202,17 +202,7 @@ Ter uitvoering van deze wet kunnen bij algemene maatregel van bestuur nadere reg
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn de bij ministeriële regeling aangewezen functionarissen belast.
 
-2. De functionarissen, bedoeld in het eerste lid, zijn uitsluitend bevoegd voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is:
-
-- a. alle inlichtingen te vragen;
-
-- b. inzage te verlangen van alle boeken, bescheiden en andere informatiedragers en daarvan afschriften te nemen of deze daartoe tijdelijk mee te nemen;
-
-- c. alle plaatsen te betreden, met uitzondering van woningen, zonder de uitdrukkelijke toestemming van de bewoner.
-
-3. Zo nodig wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel c, verschaft met behulp van de sterke arm.
-
-4. Een ieder is verplicht aan de in het eerste lid bedoelde functionarissen alle medewerking te verlenen die voor de toezichtsuitoefening op grond van het tweede lid noodzakelijk is.
+2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ##### Artikel 13
 
@@ -222,15 +212,15 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14
 
-1. Hij die opzettelijk inlichtingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2016-01-01&g=2016-01-01) onjuist verstrekt, dan wel een valse verklaring aan Onze Minister aflegt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+1. Hij die opzettelijk inlichtingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2021-01-01&g=2021-01-01) onjuist verstrekt, dan wel een valse verklaring aan Onze Minister aflegt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-2. Overtreding van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=10&z=2016-01-01&g=2016-01-01), dan wel het niet of niet tijdig nakomen van een verplichting op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2016-01-01&g=2016-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2016-01-01&g=2016-01-01), [11, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2016-01-01&g=2016-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=12&z=2016-01-01&g=2016-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+2. Overtreding van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=10&z=2021-01-01&g=2021-01-01), dan wel het niet of niet tijdig nakomen van een verplichting op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2021-01-01&g=2021-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2021-01-01&g=2021-01-01), [11, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2021-01-01&g=2021-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=12&z=2021-01-01&g=2021-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
 4. De in het tweede lid strafbaar gestelde feiten zijn overtredingen
 
-## Overgangs- en slotbepalingen
+## Strafbepalingen
 
 ##### Artikel 15
 
@@ -242,7 +232,7 @@ Deze wet wordt aangehaald als: Cessantiawet BES.
 
 ##### Artikel 7a
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2016-01-01&g=2016-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2021-01-01&g=2021-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 1a
 
@@ -267,5 +257,15 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 ## Uitvoering en toezicht
 
 ## Strafbepalingen
+
+## Overgangs- en slotbepalingen
+
+##### Artikel 11a
+
+1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
+
+2. De werknemer, dan wel diens nagelaten betrekkingen, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
+
+3. De werknemer, dan wel diens nagelaten betrekkingen, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
 ## Overgangs- en slotbepalingen
