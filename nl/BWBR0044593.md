@@ -4,7 +4,7 @@ identifier: "BWBR0044593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2018-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044593"
 soort: "ministeriele-regeling"
@@ -40,17 +40,13 @@ entry_into_force: "2021-01-01"
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=I&z=2021-01-01&g=2021-01-01), is niet van toepassing op onderhandse akten van schenking die uiterlijk op 31 december 2020 tot stand zijn gekomen.
 
 ##### Artikel III
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -60,39 +56,29 @@ Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling verstrekking jaarloongegevens 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0022374) wordt ingetrokken.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling verstrekking jaarloongegevens 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023732) wordt ingetrokken.
 
 ##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
@@ -104,83 +90,81 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Algemene douaneregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
 Wijzigt de Wijzigingsregeling enige uitvoeringsregelingen 2017 (belastingen en toeslagen).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 januari 2021, met dien verstande dat:
+
+- a. [artikel IV, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=IV&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2018;
+
+- b. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=IV&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 juli 2020;
+
+- c. [artikel IV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=IV&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2020;
+
+- d. [artikel IX, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=IX&z=2021-01-01&g=2021-01-01), en [artikel X, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=X&z=2021-01-01&g=2021-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2021;
+
+- e. [artikel XIX, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XIX&z=2021-01-01&g=2021-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die op of na 31 december 2020 zijn geëindigd.
+
+- f. [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XXV&z=2021-01-01&g=2021-01-01) toepassing vindt voordat [artikel XIII van de Regeling van de Staatssecretaris van Financiën van 29 december 2016, nr. 2016-0000225960, tot wijziging van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XIII) (Stcrt. 2016, 71813) wordt toegepast.
+
+2. In afwijking van het eerste lid:
+
+- a. treedt [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XII&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 januari 2022;
+
+- b. treedt [artikel XIV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XIV&z=2021-01-01&g=2021-01-01), in werking met ingang van 3 juni 2021;
+
+- c. treedt [artikel XVIII, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XVIII&z=2021-01-01&g=2021-01-01), in werking op het tijdstip waarop [artikel XXXI, onderdelen B en F, van het Belastingplan 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXI) in werking treedt;
+
+- d. treedt [artikel XVIII, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XVIII&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 april 2021;
+
+- e. treden [artikel XIX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XIX&z=2021-01-01&g=2021-01-01), en [artikel XXI, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=XXI&z=2021-01-01&g=2021-01-01), in werking op het tijdstip waarop de [Wet vliegbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0044580) in werking treedt.
 
 Handelende wat de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) en [3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit, onderscheidenlijk de Minister van Infrastructuur en Waterstaat;
 
