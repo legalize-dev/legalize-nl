@@ -4,7 +4,7 @@ identifier: "BWBR0039687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2019-03-29"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039687"
 soort: "ministeriele-regeling"
@@ -68,21 +68,7 @@ In deze regeling wordt verstaan onder het Besluit: het [Besluit alcohol, drugs e
 
 ##### Artikel 3
 
-Voor het verrichten van een voorlopig ademonderzoek als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6) worden tot 1 januari 2021 de volgende typen ademtesters aangewezen:
-
-- a. Dräger Alcotest 6810;
-
-- b. Dräger Alcotest 7410;
-
-- c. Dräger Alcotest 7510;
-
-- d. Lion SL 400/SD 400;
-
-- e. Honac Alcosensor IV BlackDot;
-
-- f. Intoximeters Alcosensor FST2;
-
-- g. Envitec Wismar Alcoquant 6020-plus.
+Voor het verrichten van een voorlopig ademonderzoek als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6) wordt de Dräger Alcotest 7510 ademtester aangewezen.
 
 ##### Artikel 4
 
@@ -92,23 +78,13 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 1. Voor het verrichten van een ademonderzoek als bedoeld in [artikel 10, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=10) worden de ademanalyseapparaten van Dräger Alcotest 9510 NL aangewezen die zijn voorzien van het goedkeuringsteken T7802.
 
-2. Onverminderd het eerste lid worden tot 1 januari 2021 de volgende typen ademanalyseapparaten aangewezen:
-
-- a. ademanalyseapparaten van het type National Patent Analytical Systems Inc. BAC Datamaster II die zijn voorzien van het goedkeuringsteken IJK-87401;
-
-- b. ademanalyseapparaten van het type Dräger Alcotest 7110 NL die zijn voorzien van het goedkeuringsteken IJK88402;
-
-- c. ademanalyseapparaten van het type Intoximeters Inc. Intox EC/I R die zijn voorzien van het goedkeuringsteken T5973;
-
-- d. ademanalyseapparaten van het type Alcotest 7110 MK111 NL die zijn voorzien van het goedkeuringsteken IJK 94403.
-
-3. Het alcoholgehalte wordt bepaald door toepassing van de volgende correctie op het rekenkundig gemiddelde van de twee meetresultaten, bedoeld in [artikel 10, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=10):
+2. Het alcoholgehalte wordt bepaald door toepassing van de volgende correctie op het rekenkundig gemiddelde van de twee meetresultaten, bedoeld in [artikel 10, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=10):
 
 - a. indien het rekenkundige gemiddelde (Y) van de twee meetresultaten kleiner is dan 500 microgram per liter, is het resultaat van het ademonderzoek gelijk aan (0,9Y–30) microgram per liter;
 
 - b. indien het rekenkundige gemiddelde (Y) van de twee meetresultaten gelijk is aan of groter is dan 500 microgram per liter, is het resultaat van het ademonderzoek gelijk aan (0,85Y–5) microgram per liter.
 
-4. Het resultaat van het ademonderzoek mag niet worden aangewezen of afgedrukt indien het verschil tussen de beide meetresultaten groter is dan 10% van het kleinste meetresultaat.
+3. Het resultaat van het ademonderzoek mag niet worden aangewezen of afgedrukt indien het verschil tussen de beide meetresultaten groter is dan 10% van het kleinste meetresultaat.
 
 ##### Artikel 6
 
@@ -138,19 +114,19 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 ##### Artikel 7
 
-1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2019-03-29&g=2019-03-29) bij deze regeling.
+1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
-2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2019-03-29&g=2019-03-29) bij deze regeling.
+2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 8
 
-1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 62 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 81 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
+1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 78 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 102 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2019-03-29&g=2019-03-29) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2021-01-01&g=2021-01-01) opgenomen kosten verschuldigd.
 
 ##### Artikel 9
 
-De [Regeling bloed- en urineonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0018724), de [Regeling voorlopig ademonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008803), de [Regeling ademanalyse](https://wetten.overheid.nl/jci1.3:c:BWBR0008799), de [Regeling type-aanwijzing ademanalysepparaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008801), de [Regeling typeaanwijzing ademanalyseapparaat 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030622), alsmede de aanwijzingen van de ademtestapparaten en ademtestbuisjes worden ingetrokken met dien verstande dat voor de keuringen en herkeuringen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=3&z=2019-03-29&g=2019-03-29), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=5&z=2019-03-29&g=2019-03-29), bedoelde ademtesters en ademanalyseapparaten de eisen van toepassing blijven zoals ze zijn gesteld bij of krachtens deze regelingen.
+Vervallen
 
 ##### Artikel 10
 
@@ -220,7 +196,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Het rapport van het tegenonderzoek licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
 
-## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2019-03-29&g=2019-03-29)
+## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2021-01-01&g=2021-01-01)
 
 **De eisen aan de methode met behulp waarvan bloedonderzoek als bedoeld in artikel 1, onder b, van het Besluit wordt verricht:**
 
@@ -256,7 +232,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Resultaten en tussenberekeningen van het onderzoek worden niet afgerond. Het resultaat van de metingen van het gehalte van alcohol of een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen wordt gemiddeld. Op dat gemiddelde vindt een correctie-aftrek plaats van 30% bij de meetbare stoffen van de in artikel 3 van het Besluit genoemde stoffen, en van 6% bij alcohol.
 
-- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen. Bij alcohol wordt het eindresultaat gerapporteerd met 2 decimalen.4Uit praktische overwegingen is gekozen om het eindresultaat van het alcoholonderzoek met 2 decimalen te rapporteren zoals gebruikelijk in de periode voorafgaand aan de Wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994.5Om praktische redenen wordt een uitzondering gemaakt voor waarden vanaf 100, waarbij het eindresultaat wordt afgerond op drie significante cijfers en voor waarden vanaf 1.000, waarbij het eindresultaat wordt afgerond op vier significante cijfers.
+- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen.4Om praktische redenen wordt een uitzondering gemaakt voor waarden vanaf 100, waarbij het eindresultaat wordt afgerond op drie significante cijfers, en voor waarden vanaf 1.000, waarbij het eindresultaat wordt afgerond op vier significante cijfers. Bij alcohol wordt het eindresultaat gerapporteerd met twee decimalen.5Uit praktische overwegingen is gekozen om het eindresultaat van het alcoholonderzoek met 2 decimalen te rapporteren zoals gebruikelijk in de periode voorafgaand aan de Wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994.
 
 - •. De bloedgehaltes worden in tabelvorm in het rapport opgenomen zoals in het hierna getoonde voorbeeld. **Het eindresultaat van de analyse bedraagt, na aftrek van de wettelijk voorgeschreven correctie:** **# Het resultaat van het ademonderzoek naar alcohol, indien door politie uitgevoerd, is niet in deze tabel opgenomen. Volgens de ons bekende informatie is er [wel/geen] ademonderzoek naar alcohol verricht. Het resultaat bedroeg [resultaat] microgram per liter uitgeademde lucht volgens vermelding op het aanvraagformulier.** **@ Wegenverkeerswet 1994, art 8, tweede en derde lid.** Toelichting bij combinaties met amfetamine-achtige stoffen:
 
@@ -282,7 +258,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Er wordt bij het rapporteren van het eindresultaat geen rekening gehouden met medicinaal gebruik van de aangewezen stoffen, bedoeld in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2).
 
-## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2019-03-29&g=2019-03-29)
+## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2021-01-01&g=2021-01-01)
 
 **De eisen aan de methode met behulp waarvan een aanvullend bloedonderzoek als bedoeld in artikel 1, onder c, van het Besluit wordt verricht:**
 
@@ -308,7 +284,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Als ambtenaren als bedoeld in [artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6) worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
 
-## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2019-03-29&g=2019-03-29)
+## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2021-01-01&g=2021-01-01)
 
 ### Verzending naar een laboratorium buiten Nederland
 
