@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 2. In belangrijke mate onderhouden van kinderen
 
-Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 433 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
+Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 439 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
@@ -99,17 +99,13 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 - c. de Subsidieregeling natuurbeheer van de onderscheiden provincies;
 
-- d. de [Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000) zoals die luidde tot 1 januari 2007, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=2);
+- d. de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuurbeheer, bedoeld in artikel 3.1 van die verordening, en de subsidie landschapsbeheer, bedoeld in artikel 5.1.1.1 van die verordening;
 
-- e. de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de landschapssubsidie, bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, van die regeling;
+- e. de Subsidieregeling kwaliteitsimpuls natuur en landschap van de onderscheiden provincies, voor zover betrekking hebbende op de investeringssubsidie, bedoeld in artikel 8, eerste, derde en vierde lid, van die regeling, en de subsidie functieverandering, bedoeld in artikel 15 van die regeling;
 
-- f. de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuurbeheer, bedoeld in artikel 3.1 van die verordening, en de subsidie landschapsbeheer, bedoeld in artikel 5.1.1.1 van die verordening;
+- f. de Subsidieregeling natuur- en landschapsbeheer 2016 van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuur- en landschapsbeheer, bedoeld in artikel 2.2 van die regeling;
 
-- g. de Subsidieregeling kwaliteitsimpuls natuur en landschap van de onderscheiden provincies, voor zover betrekking hebbende op de investeringssubsidie, bedoeld in artikel 8, eerste, derde en vierde lid, van die regeling, en de subsidie functieverandering, bedoeld in artikel 15 van die regeling;
-
-- h. de Subsidieregeling natuur- en landschapsbeheer 2016 van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuur- en landschapsbeheer, bedoeld in artikel 2.2 van die regeling;
-
-- i. de overeenkomsten met het Bureau Beheer Landbouwgronden:
+- g. de overeenkomsten met het Bureau Beheer Landbouwgronden:
 
 - 1°. met het door de Dienst Landelijk Gebied toegekende nummer: 005/9001 van 29 mei 1996;
 
@@ -119,9 +115,9 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 - 4°. met het door de Dienst Landelijk Gebied toegekende nummer: 003/9001 van 15 december 1997;
 
-- j. de beschikkingen van de Minister van Economische Zaken van 18 april 1998 met de beschikkingnummers kaderwet/pnb/01, kaderwet/pnb/02 en kaderwet/pnb/03.
+- h. de beschikkingen van de Minister van Economische Zaken van 18 april 1998 met de beschikkingnummers kaderwet/pnb/01, kaderwet/pnb/02 en kaderwet/pnb/03.
 
-2. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen a, i en j, bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen b tot en met h, bedoelde regelingen en overeenkomsten behoort 100% niet tot de winst.
+2. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen a, g en h, bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen b tot en met f, bedoelde regelingen en overeenkomsten behoort 100% niet tot de winst.
 
 ##### Artikel 7. Belastbare winst uit onderneming; van aftrek uitgesloten kosten ten behoeve van de belastingplichtige; werkkleding
 
@@ -385,98 +381,101 @@ Vervallen
 
 | Voor het dieet bij het ziektebeeld en de aandoening | Voor het dieet bij het ziektebeeld en de aandoening | op welk dieet de in deze kolom genoemde typering van toepassing is | bedragen de extra uitgaven |
 | --- | --- | --- | --- |
-| Algemene symptomen | groeiachterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Algemene symptomen | groeiachterstand bij kinderen | energieverrijkt | € 700 |
-| Algemene symptomen | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Algemene symptomen | ondervoeding | energieverrijkt | € 700 |
-| Algemene symptomen | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Hartziekten | decompensatio cordis, hartfalen | natriumbeperkt | € 100 |
-| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-|   |   | energieverrijkt | € 700 |
-| Maag-, darm- en leverziekten | dumpingsyndroom | lactosebeperkt/lactosevrij | € 200 |
-| Maag-, darm- en leverziekten | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-| Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt | € 700 |
-| Maag-, darm- en leverziekten | coeliakie en ziekte van Dühring | glutenvrij | € 900 |
-| Maag-, darm- en leverziekten | coeliakie en ziekte van Dühring | glutenvrij in combinatie met lactosebeperkt/lactosevrij | € 1.050 |
-| Maag-, darm- en leverziekten | short bowel syndroom | energieverrijkt in combinatie met MCT-vetverrijkt | € 700 |
-| Maag-, darm- en leverziekten |   | energieverrijkt in combinatie met MCT-vetverrijkt met vitaminepreparaat | € 750 |
-| Maag-, darm- en leverziekten | prikkelbaredarmsyn droom | fermenteerbare oligosachariden, disachariden, monosachariden en polyolen beperkt (FODMAP) | € 900 |
-| Maag-, darm- en leverziekten | overige | energieverrijkt | € 700 |
-|   |   | energieverrijkt met vitaminepreparaat | € 750 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij | € 1.200 |
-| Metabole ziekten | hypercholesterolemie | verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt | € 100 |
-| Metabole ziekten | vetstofwisselingsstoornis | vetbeperkt in combinatie met MCT-vetverrijkt | € 700 |
-| Metabole ziekten | fructose-intolerantie | fructosebeperkt | € 250 |
-| Metabole ziekten | galactosemie | galactosebeperkt/galactosevrij | € 200 |
-|   | sacharase isomaltase deficiëntie | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt | € 800 |
-|   | eiwitstofwisselings stoornis (zoals PKU en hyperlysinemie) | sterk eiwitbeperkt | € 2.700 |
-|   | glycogeenstapelings ziekte | sacharosebeperkt, fructosebeperkt, lactosebeperkt en vetbeperkt | € 650 |
-|   | insulineresistentie | sterk koolhydraatbeperkt, zonder energiebeperking | € 250 |
-| Nierziekten | nierziekten | natriumbeperkt | € 100 |
-| Nierziekten | chronische nierinsufficiëntie met hemodialyse/ peritoneale dialyse | eiwitverrijkt in combinatie met natriumbeperkt | € 550 |
-| Nierziekten | nefrotisch syndroom | natriumbeperkt | € 100 |
-| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-|   |   | energieverrijkt | € 700 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij | € 300 |
-| Overige | voedselovergevoelig heid | kippenei-eiwitvrij | € 100 |
-| Overige | voedselovergevoelig heid | lactosebeperkt/lactosevrij | € 200 |
-| Overige | voedselovergevoelig heid | tarwevrij | € 600 |
-| Overige | voedselovergevoelig heid | tarwevrij in combinatie met kippenei-eiwitvrij | € 700 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 350 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 350 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 400 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij | € 950 |
-| Overige | voedselovergevoelig heid | koemelkeiwitvrij in combinatie met glutenvrij en al dan niet tarwevrij | € 1.100 |
-| Overige | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 900 |
-|   | lymfe lekkage | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt | € 700 |
-|   | epilepsie | sterk koolhydraatbeperkt in combinatie met eiwitbeperkt en vetverrijkt | € 150 |
+| Algemene symptomen | groeiachterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+| Algemene symptomen | groeiachterstand bij kinderen | energieverrijkt | € 400 |
+| Algemene symptomen | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+| Algemene symptomen | ondervoeding | energieverrijkt | € 400 |
+| Algemene symptomen |   | eiwitverrijkt | € 250 |
+| Algemene symptomen | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+|   |   | eiwitverrijkt | € 250 |
+| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+|   |   | energieverrijkt | € 400 |
+| Maag-, darm- en leverziekten | dumpingsyndroom | lactosebeperkt/lactosevrij | € 150 |
+| Maag-, darm- en leverziekten | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+| Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+| Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt | € 400 |
+| Maag-, darm- en leverziekten | coeliakie, ziekte van Dühring en glutenintolerantie | glutenvrij | € 950 |
+| Maag-, darm- en leverziekten | coeliakie, ziekte van Dühring en glutenintolerantie | glutenvrij in combinatie met lactosebeperkt/lactosevrij | € 1050 |
+| Maag-, darm- en leverziekten | short bowel syndroom | energieverrijkt in combinatie met MCT-vetverrijkt | € 950 |
+| Maag-, darm- en leverziekten |   | energieverrijkt in combinatie met MCT-vetverrijkt met vitaminepreparaat | € 1000 |
+| Maag-, darm- en leverziekten | prikkelbaredarm-syndroom | fermenteerbare oligosachariden, disachariden, monosachariden en polyolen beperkt (FODMAP) | € 1050 |
+| Maag-, darm- en leverziekten | lactose-intolerantie | lactosebeperkt/lactosevrij | € 150 |
+| Maag-, darm- en leverziekten | levercirrose met complicaties | eiwitverrijkt in combinatie met sterk zoutbeperkt | € 650 |
+| Maag-, darm- en leverziekten | overige | energieverrijkt | € 400 |
+|   |   | energieverrijkt met vitaminepreparaat | € 450 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij | € 600 |
+| Metabole ziekten | hypercholesterolemie | fyto/plantensterolenverrijkt bij verzadigd vetbeperkt | € 350 |
+| Metabole ziekten | vetstofwisselings-stoornis | vetbeperkt in combinatie met MCT-vetverrijkt | € 950 |
+| Metabole ziekten | galactosemie | galactosebeperkt/galactosevrij | € 300 |
+|   | sacharase isomaltase deficiëntie | sucrosebeperkt in combinatie met (iso)maltosebeperkt | € 200 |
+|   | eiwitstofwisselings- stoornis (zoals PKU en hyperlysinemie) | sterk eiwitbeperkt | € 2150 |
+|   | glycogeenstapelings- ziekte | sucrosebeperkt, fructosebeperkt, lactosebeperkt en vetbeperkt | € 200 |
+|   | insulineresistentie | sterk koolhydraatbeperkt zonder energiebeperking | € 1000 |
+| Nierziekten | chronische nierinsufficiëntie met hemodialyse/ peritoneale dialyse | eiwitverrijkt in combinatie met sterk zoutbeperkt | € 650 |
+| Nierziekten | nefrotisch syndroom | sterk zoutbeperkt | € 200 |
+| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+|   |   | energieverrijkt | € 400 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij | € 450 |
+| Overige | voedselovergevoelig- heid | kippenei-eiwitvrij | € 50 |
+| Overige | voedselovergevoelig- heid | lactosebeperkt/lactosevrij | € 150 |
+| Overige | voedselovergevoelig- heid | tarwevrij | € 950 |
+| Overige | voedselovergevoelig- heid | tarwevrij in combinatie met kippenei-eiwitvrij | € 950 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 450 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 750 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 800 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij | € 1600 |
+| Overige | voedselovergevoelig- heid | koemelkeiwitvrij in combinatie met glutenvrij en al dan niet tarwevrij | € 1350 |
+| Overige | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 500 |
+|   | lymfelekkage | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt | € 950 |
+|   | epilepsie | sterk koolhydraatbeperkt in combinatie met eiwitbeperkt en vetverrijkt | € 800 |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.
 
 2. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. referentievoeding: een gezonde voeding conform een Nederlands voedingspatroon, gebaseerd op de Richtlijnen Goede Voeding en Richtlijnen Voedselkeuze;
+- a. **referentievoeding:** een gezonde voeding conform het advies voor een Nederlands voedingspatroon, gebaseerd op de Richtlijnen Goede Voeding;
 
-- b. energieverrijkt in combinatie met eiwitverrijkt: een voorgeschreven energiebehoefte van ten minste 150% ten opzichte van de referentievoeding en een voorgeschreven hoeveelheid eiwit van ten minste 16% van de hoeveelheid energie;
+- b. **basaalmetabolisme:** het energieverbruik van een persoon in rust;
 
-- c. energieverrijkt: een voorgeschreven energiebehoefte van ten minste 150% ten opzichte van de referentievoeding;
+- c. **energieverrijkt in combinatie met eiwitverrijkt:** een voorgeschreven energiebehoefte van ten minste 150% van het basaalmetabolisme van de gebruiker en een voorgeschreven hoeveelheid eiwit van ten minste 1,5 gram eiwit per kilogram lichaamsgewicht van de gebruiker;
 
-- d. natriumbeperkt: een voorgeschreven beperking tot 2400 milligram natrium per etmaal;
+- d. **energieverrijkt:** een voorgeschreven energiebehoefte van ten minste 150% van het basaalmetabolisme van de gebruiker;
 
-- e. lactosebeperkt/lactosevrij: een voorgeschreven lactosebeperking tot 5 gram per etmaal;
+- e. **eiwitverrijkt:** een voorgeschreven hoeveelheid eiwit van ten minste 1,5 gram eiwit per kilogram lichaamsgewicht van de gebruiker;
 
-- f. glutenvrij in combinatie met lactosebeperkt/lactosevrij: glutenvrij en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
+- f. **lactosebeperkt/lactosevrij:** een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- g. energieverrijkt in combinatie met MCT-vetverrijkt: een voorgeschreven energiebehoefte van ten minste 150% ten opzichte van de referentievoeding en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;
+- g. **glutenvrij in combinatie met lactosebeperkt/lactosevrij:** glutenvrij en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- h. energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij: een voorgeschreven energiebehoefte van ten minste 150% ten opzichte van de referentievoeding, een voorgeschreven hoeveelheid eiwit van ten minste 16% van de hoeveelheid energie en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
+- h. **energieverrijkt in combinatie met MCT-vetverrijkt:** een voorgeschreven energiebehoefte van ten minste 150% van het basaalmetabolisme van de gebruiker en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;
 
-- i. verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt: een voorgeschreven hoeveelheid verzadigd vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid plantaardige stanolen of van plantaardige sterolen van ten minste 2 gram per etmaal;
+- i. **fermenteerbare oligosachariden, disachariden, monosachariden en polyolen beperkt dieet:** een voorgeschreven dieet vrij van voedingsmiddelen die rijk zijn aan fermenteerbare oligosachariden, disachariden, monosachariden en polyolen;
 
-- j. vetbeperkt in combinatie met MCT-vetverrijkt: een voeding uitgaande van een zo laag mogelijke hoeveelheid vet en een voorgeschreven hoeveelheid MCT-vet van ten minste 18% van de hoeveelheid energie per etmaal;
+- j. **eiwitverrijkt in combinatie met sterk zoutbeperkt:** een voorgeschreven hoeveelheid eiwit van ten minste 1,5 gram eiwit per kilogram lichaamsgewicht van de gebruiker en een voorgeschreven beperking tot 5 gram zout per etmaal;
 
-- k. fructosebeperkt: een voorgeschreven fructosebeperking tot 5 gram per etmaal;
+- k. **energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij:** een voorgeschreven energiebehoefte van ten minste 150% van het basaalmetabolisme van de gebruiker, een voorgeschreven hoeveelheid eiwit van ten minste 1,5 gram eiwit per kilogram lichaamsgewicht van de gebruiker en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- l. sterk eiwitbeperkt: een voorgeschreven beperking tot 20 gram eiwit per etmaal;
+- l. **fyto/plantensterolenverrijkt bij verzadigd vetbeperkt:** een voorgeschreven hoeveelheid plantaardige stanolen of plantaardige sterolen van ten minste 2 gram per etmaal en een voorgeschreven hoeveelheid verzadigd vet tot 10% van de hoeveelheid energie;
 
-- m. eiwitverrijkt in combinatie met natriumbeperkt: een voorgeschreven hoeveelheid eiwit van ten minste 16% van de hoeveelheid energie en een voorgeschreven beperking tot 2000 milligram natrium per etmaal;
+- m. **vetbeperkt in combinatie met MCT-vetverrijkt:** een voeding uitgaande van een zo laag mogelijke hoeveelheid (LCT-)vet en een voorgeschreven hoeveelheid MCT-vet van ten minste 18% van de hoeveelheid energie per etmaal;
 
-- n. eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt: een voorgeschreven hoeveelheid eiwit van ten minste 16% van de hoeveelheid energie, uitgaande van een zo laag mogelijke hoeveelheid vet en een voorgeschreven hoeveelheid MCT-vet van ten minste 18% van de hoeveelheid energie per etmaal;
+- n. **galactosebeperkt/galactosevrij:** een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- o. fermenteerbare oligosachariden, disachariden, monosachariden en polyolen beperkt dieet: vrij van voedingsmiddelen die rijk zijn aan fermenteerbare oligosachariden, disachariden, monosachariden en polyolen;
+- o. **sucrosebeperkt in combinatie met (iso)maltosebeperkt:** een voorgeschreven sucrosebeperking en een voorgeschreven (iso)maltosebeperking in combinatie met enzymsuppletie afgestemd op de gebruiker;
 
-- p. galactosebeperkt/galactosevrij: een voorgeschreven lactosebeperking tot 5 gram per etmaal;
+- p. **sterk eiwitbeperkt:** een voorgeschreven beperking tot 25 gram eiwit per etmaal;
 
-- q. sacharosebeperkt, fructosebeperkt, lactosebeperkt en vetbeperkt: een voorgeschreven hoeveelheid koolhydraten van ten minste 21 gram koolhydraten per 2 uur gedurende de dag en ten minste 16 gram koolhydraten per 2 uur gedurende de nacht en sacharosebeperkt, fructosebeperkt, lactosebeperkt en vetbeperkt;
+- q. **sucrosebeperkt, fructosebeperkt, lactosebeperkt en vetbeperkt:** een voorgeschreven sucrosebeperking, fructosebeperking, lactosebeperking en vetbeperking en een voorgeschreven hoeveelheid koolhydraten berekend aan de hand van de endogene glucoseproductie van de gebruiker;
 
-- r. sterk koolhydraatbeperkt zonder energiebeperking: een voorgeschreven hoeveelheid koolhydraten van maximaal 30 energieprocent bij een volwaardige voeding in energie;
+- r. **sterk koolhydraatbeperkt zonder energiebeperking:** een voorgeschreven hoeveelheid energie uit koolhydraten tot 30% bij een volwaardige voeding in energie;
 
-- s. sterk sacharosebeperkt in combinatie met (iso)maltose beperkt: een voorgeschreven hoeveelheid koolhydraten tot maximaal 30 energieprocent in combinatie met enzymsuppletie;
+- s. **sterk zoutbeperkt:** een voorgeschreven beperking tot 5 gram zout per etmaal;
 
-- t. sterk koolhydraatbeperkt in combinatie met eiwitbeperkt en vetverrijkt: een voorgeschreven hoeveelheid koolhydraten die voorziet in niet meer dan 4% van de hoeveelheid energie, een voorgeschreven hoeveelheid eiwit die voorziet in niet meer dan 6% van de hoeveelheid energie en een voorgeschreven hoeveelheid vet van ten minste 90% van de hoeveelheid energie ten opzichte van de referentievoeding.
+- t. **eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt:** een voorgeschreven hoeveelheid eiwit van ten minste 1,5 gram eiwit per kilogram lichaamsgewicht van de gebruiker, uitgaande van een zo laag mogelijke hoeveelheid (LCT-)vet en een voorgeschreven hoeveelheid MCT-vet van ten minste 18% van de hoeveelheid energie per etmaal;
+
+- u. **sterk koolhydraatbeperkt in combinatie met eiwitbeperkt en vetverrijkt:** een voorgeschreven hoeveelheid koolhydraten en eiwitten die samen tot 20% van de hoeveelheid energie leveren en een voorgeschreven hoeveelheid vet van ten minste 80% van de hoeveelheid energie per etmaal.
 
 3. Voor de toepassing van het eerste lid geldt voor:
 
@@ -484,7 +483,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 - b. verschillende dieettyperingen die in aanmerking zouden komen bij eenzelfde ziektebeeld en aandoening elk van de bij die dieettyperingen behorende bedragen;
 
-- c. deels overeenkomende dieettyperingen bij eenzelfde ziektebeeld en aandoening, alleen het hoogste van de voor het van toepassing zijnde ziektebeeld en aandoening geldende bedragen.
+- c. deels overeenkomende dieettyperingen alleen het hoogste van de voor de van toepassing zijnde ziektebeelden en aandoeningen geldende bedragen bij die dieettypering.
 
 4. Ingeval extra uitgaven voor een op voorschrift van een arts of diëtist gehouden dieet niet gedurende het gehele kalenderjaar worden gedaan, worden de met toepassing van het eerste lid bepaalde bedragen naar tijdsgelang herrekend.
 
@@ -560,7 +559,7 @@ Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dage
 
 ##### Artikel 41. Aftrekbare giften; voorwaarden onderhandse akte van schenking
 
-1. In de onderhandse akte van schenking, bedoeld in [artikel 6.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), worden ten minste de volgende gegevens vermeld:
+In de onderhandse akte van schenking, bedoeld in [artikel 6.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), worden ten minste de volgende gegevens vermeld:
 
 - a. de naam, het adres en het burgerservicenummer van de belastingplichtige;
 
@@ -568,7 +567,7 @@ Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dage
 
 - c. het startjaar en de looptijd van de uitkeringen of verstrekkingen;
 
-- d. de jaarlijkse hoogte van de uitkeringen of een omschrijving van de verstrekkingen; en
+- d. de jaarlijkse hoogte van de uitkeringen of een omschrijving alsmede de waarde in het economische verkeer van de verstrekkingen; en
 
 - e. een door de instelling of vereniging aan de schenking toe te kennen uniek transactienummer van ten hoogste vijftien cijfers.
 
@@ -594,7 +593,7 @@ Vervallen
 
 ##### Artikel 44b. Inkomensafhankelijke combinatiekorting voor co-ouders
 
-Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.
+Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste zin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij, in een binnen het kalenderjaar doorgaans repeterend ritme, ten minste 156 dagen van het kalenderjaar in elk van beide huishoudens verblijft. Indien het kind niet gedurende het gehele kalenderjaar, maar wel gedurende ten minste zes maanden, in elk van beide huishoudens enkele dagen verblijft, wordt het aantal dagen, genoemd in de tweede zin, naar tijdsgelang herrekend.
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -690,11 +689,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2020-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2021-09-18&g=2021-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2020-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2021-09-18&g=2021-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2020-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2021-09-18&g=2021-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -702,7 +701,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Vervallen
+Met betrekking tot het kalenderjaar 2021 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) in samenhang met artikel 3.22, tiende lid, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2017 tot en met 2019 ten opzichte van de periode 2016 tot en met 2018 niet is afgenomen.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -834,9 +833,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2023-01-01&g=2020-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2021-09-18&g=2021-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2023-01-01&g=2020-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2021-09-18&g=2021-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -970,7 +969,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2023-01-01&g=2020-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2021-09-18&g=2021-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
