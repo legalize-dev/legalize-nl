@@ -4,7 +4,7 @@ identifier: "BWBR0042111"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2020-02-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042111"
 soort: "wet"
@@ -55,8 +55,6 @@ Wijzigt de Wet op de formeel buitenlandse vennootschappen.
 
 Wijzigt de Wegenverkeerswet 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Hoofdstuk 3. Ministerie van Economische Zaken en Klimaat
 
 ##### Artikel III
@@ -95,7 +93,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel X. Regelgevende bevoegdheden ten behoeve van overgangssituaties
 
-1. Bij algemene maatregel van bestuur of bij ministeriële regeling van Onze Minister die het aangaat kunnen tot zes maanden na de datum van terugtrekking van het Verenigd Koninkrijk uit de Europese Unie, voorzieningen worden getroffen met het oog op een goed verloop van deze terugtrekking. De eerste volzin is slechts van toepassing indien op grond van het bepaalde bij of krachtens een andere wet geen voorzieningen als bedoeld in de eerste volzin kunnen worden getroffen of indien terstond intredende onaanvaardbare gevolgen het treffen van voorzieningen als bedoeld in de eerste volzin noodzakelijk maken. Het gebruik van de bevoegdheid, bedoeld in de eerste volzin, wordt nadrukkelijk gemotiveerd.
+1. Bij algemene maatregel van bestuur of bij ministeriële regeling van Onze Minister die het aangaat kunnen tot zes maanden na het einde van de overgangsperiode, bedoeld in artikel 126 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29), voorzieningen worden getroffen met het oog op een goed verloop van deze terugtrekking. De eerste volzin is slechts van toepassing indien op grond van het bepaalde bij of krachtens een andere wet geen voorzieningen als bedoeld in de eerste volzin kunnen worden getroffen of indien terstond intredende onaanvaardbare gevolgen het treffen van voorzieningen als bedoeld in de eerste volzin noodzakelijk maken. Het gebruik van de bevoegdheid, bedoeld in de eerste volzin, wordt nadrukkelijk gemotiveerd.
 
 2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden afgeweken van het bepaalde bij of krachtens de wet, voor zover dit nodig is voor een goede tenuitvoerlegging van een bindende EU-rechtshandeling met betrekking tot de terugtrekking van het Verenigd Koninkrijk, of ter voorkoming van onaanvaardbare en onomkeerbare gevolgen daarvan. Bij de algemene maatregel van bestuur, bedoeld in de eerste volzin, wordt niet afgeweken van bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften.
 
@@ -126,5 +124,15 @@ Wijzigt de Zorgverzekeringswet.
 ##### Artikel XII. Citeertitel
 
 Deze wet wordt aangehaald als: Verzamelwet Brexit.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
+
+1. Bij algemene maatregel van bestuur kan in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden bepaald dat het Verenigd Koninkrijk na de terugtrekking uit de Europese Unie voor de toepassing van die wetten gedurende een daarbij aangegeven periode nog als EU-lidstaat wordt aangemerkt, en kan in die wetten overgangsrecht worden opgenomen voor de situatie na de terugtrekking of na afloop van die periode ter voorkoming van onevenredig nadeel voor verzekerden in het Verenigd Koninkrijk en Nederland.
+
+2. Zo spoedig mogelijk na de totstandkoming van de algemene maatregel van bestuur, maar uiterlijk binnen acht weken, wordt een voorstel van wet tot goedkeuring van de algemene maatregel van bestuur aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt de algemene maatregel van bestuur onverwijld ingetrokken en wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden dat er toe strekt de bij de algemene maatregel van bestuur vastgestelde wijzigingen ongedaan te maken.
+
+### Hoofdstuk 6. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
