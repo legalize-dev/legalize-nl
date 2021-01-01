@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -125,7 +125,7 @@ Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot 
 
 - b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
 
-4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2020-01-01&g=2020-01-01).
+4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2021-01-01&g=2021-01-01).
 
 ### Hoofdstuk III. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
@@ -285,7 +285,7 @@ De vrijstelling van belasting voor voordrachten en dergelijke diensten, als zijn
 
 1. In het geval, bedoeld in [artikel 37d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
 
-2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2020-01-01&g=2020-01-01).
+2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 9
 
@@ -367,7 +367,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 13a
 
-1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2020-01-01&g=2020-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2021-01-01&g=2021-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
 
 - a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15);
 
@@ -439,7 +439,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2020-01-01&g=2020-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2020-01-01&g=2020-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2021-01-01&g=2021-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2021-01-01&g=2021-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -459,7 +459,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2020-01-01&g=2020-01-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2021-01-01&g=2021-01-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -483,9 +483,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2020-01-01&g=2020-01-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2021-01-01&g=2021-01-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2020-01-01&g=2020-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2021-01-01&g=2021-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -503,7 +503,7 @@ Vervallen
 
 ##### Artikel 19
 
-De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2020-01-01&g=2020-01-01) opgenomen model.
+De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2021-01-01&g=2021-01-01) opgenomen model.
 
 ##### Artikel 19a
 
@@ -515,7 +515,7 @@ Bij de aangifte ter verkrijging van teruggaaf op grond van [artikel 24, eerste l
 
 - a. bescheiden waarmee kan worden aangetoond hoeveel belasting voor de goederen is betaald;
 
-- b. het certificaat van uitvoer waarin de uit de Unie uitgevoerde of in een entrepot opgeslagen goederen zijn vermeld en dat overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=22&z=2020-01-01&g=2020-01-01) is aangeboden en afgetekend;
+- b. het certificaat van uitvoer waarin de uit de Unie uitgevoerde of in een entrepot opgeslagen goederen zijn vermeld en dat overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=22&z=2021-01-01&g=2021-01-01) is aangeboden en afgetekend;
 
 - c. voor wat betreft motorrijtuigen waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven, een ter zake van de uitvoer uit de Unie door de Dienst Wegverkeer afgegeven kentekenbewijs deel II, dat is uitgereikt op de voet van [artikel 17, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17).
 
@@ -555,7 +555,7 @@ Ingeval een lichaam als bedoeld in [artikel 24, eerste lid, van de wet](https://
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing met betrekking tot goederen die worden afgenomen door een natuurlijke persoon die zijn normale verblijfplaats heeft in de Unie en die ten genoegen van de inspecteur kan aantonen dat hij zich binnen de in het eerste lid bedoelde termijn in een derde-land zal vestigen.
 
-3. Met betrekking tot de toepassing van het tarief van nihil is het bepaalde in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12) van overeenkomstige toepassing, met dien verstande dat voor het aantonen van de aanspraak op toepassing daarvan in ieder geval is vereist een factuur, een kopie-factuur, of een daarmee gelijk te stellen bescheid dat, na daartoe te zijn aangeboden, voor uitvoer uit de Unie is afgetekend door een daartoe bevoegde ambtenaar.
+3. Met betrekking tot de toepassing van het tarief van nihil is het bepaalde in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12) van overeenkomstige toepassing, met dien verstande dat voor het aantonen van de aanspraak op toepassing daarvan in ieder geval is vereist een factuur, een kopie-factuur, of een daarmee gelijk te stellen bescheid dat, na daartoe te zijn aangeboden, voor uitvoer uit de Unie is voorzien van een visum door een geautomatiseerd systeem van of vanwege de bevoegde autoriteiten of door een daartoe bevoegde ambtenaar.
 
 ### Hoofdstuk VIII. Kleine ondernemers
 
@@ -637,7 +637,7 @@ De ondernemer of de tussenpersoon die het recht uitoefent om overeenkomstig [art
 
 ##### Artikel 29c
 
-Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2020-01-01&g=2020-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
+Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2021-01-01&g=2021-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
 
 ##### Artikel 29d
 
