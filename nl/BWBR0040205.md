@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -86,13 +86,7 @@ Met betrekking tot het registratieobject booronderzoek binnen de categorie verke
 
 ##### Artikel 2.3.1
 
-Met betrekking tot het registratieobject grondwatermonitoringput binnen de categorie constructies wordt als brondocument aangewezen een bij de realisatie of wijziging van een constructie opgemaakt document over de constructie op een locatie voor één of meer peilbuizen die door of in opdracht van een bestuursorgaan is gerealiseerd, gewijzigd of wordt gebruikt om grondwaterstanden of de grondwatersamenstelling te registreren:
-
-- a. met de bedoeling om dat voor ten minste één jaar te doen,
-
-- b. voor het genereren van gegevens die worden verstrekt in het kader van een aanvraag van een vergunning als bedoeld in de [artikelen 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), en [6.5, onderdeel b, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) of bij een melding als bedoeld in [artikel 6.11, eerste lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), of
-
-- c. voor het verkrijgen van representatief inzicht in de geohydrologische situatie ter plaatse indien de ruimtelijk spreiding van de overige grondwatermonitoringputten in de nabijheid niet afdoende is om dat inzicht te krijgen.
+Met betrekking tot het registratieobject grondwatermonitoringput binnen de categorie constructies wordt als brondocument aangewezen een bij de realisatie of wijziging van een constructie opgemaakt document over de constructie op een locatie voor één of meer peilbuizen om grondwaterstanden of de grondwatersamenstelling te registreren.
 
 #### § 2. Bodemkwaliteit
 
@@ -102,7 +96,7 @@ Met betrekking tot het registratieobject grondwatermonitoringput binnen de categ
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### § 4. Grondwatergebruik
+#### § 2. Bodemkwaliteit
 
 ### Hoofdstuk 3. De registratie ondergrond
 
@@ -116,13 +110,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 2°. belast is met de uitvoering van een verkenning of een deel daarvan,
 
-- b. een aanduiding dat de gegevens deel hebben uitgemaakt van de Registratie Data en Informatie Nederlandse Ondergrond of het Bodemkundig Informatie Systeem en als brondocument zijn aangeleverd op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=39),
+- b. over het registratieobject geotechnisch sondeeronderzoek: gegevens over de gebruikte conus, en
 
-- c. over het registratieobject geotechnisch sondeeronderzoek: gegevens over de gebruikte conus, en
+- c. voor zover van toepassing, gegevens over het apparaat dat is gebruikt bij het verzamelen van de voorgeschreven gegevens.
 
-- d. over de geotechnische boormonsterbeschrijving in het registratieobject booronderzoek: gegevens over het gebruikte bemonsteringsapparaat.
-
-2. De gegevens, bedoeld in het eerste lid, onderdelen a, c en d, zijn authentieke gegevens.
+2. De gegevens, bedoeld in het eerste lid, zijn authentieke gegevens.
 
 ##### Artikel 3.2
 
@@ -144,9 +136,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 4°. belast is met het onderhoud van een constructie, en
 
-- c. voor zover van toepassing, een aanduiding dat de gegevens deel hebben uitgemaakt van de Registratie Data en Informatie Nederlandse Ondergrond of het Bodemkundig Informatie Systeem en als brondocument zijn aangeleverd op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=39).
+- c. voor zover van toepassing, gegevens over het apparaat dat is gebruikt bij het verzamelen van de voorgeschreven gegevens.
 
-2. De gegevens, bedoeld in het eerste lid, onderdelen a en b, zijn authentieke gegevens.
+2. De gegevens, bedoeld in het eerste lid, zijn authentieke gegevens.
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
@@ -188,7 +180,7 @@ Met betrekking tot het registratieobject booronderzoek binnen de categorie verke
 
 Met betrekking tot het registratieobject wandonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige wandbeschrijving met de resultaten van een onderzoek van de wand van een profielkuil op een locatie naar de bodemkundige eigenschappen van de bodem door middel van grondmonsters die zijn verkregen van de wand van een profielkuil of andere ontsluiting aan de hand waarvan de bodemopbouw in verschillende horizonten is beschreven.
 
-#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+#### § 3. Grondwatermonitoring
 
 #### § 6. Modellen
 
@@ -241,6 +233,52 @@ Met betrekking tot het registratieobject digitaal geologisch model binnen de cat
 - e. de gegevens over de totstandkoming van het model of een deel daarvan.
 
 2. De gegevens, bedoeld in het eerste lid, zijn authentieke gegevens.
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+### Hoofdstuk 3. De registratie ondergrond
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.1.3a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.1.7
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.1.8
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.3.0
+
+Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met de resultaten van een onderzoek in het kader van grondwatermonitoring dat door of in opdracht van een bestuursorgaan is uitgevoerd, gewijzigd of wordt gebruikt:
+
+- a. met de bedoeling om dat voor ten minste één jaar te doen,
+
+- b. voor het genereren van gegevens die worden verstrekt in het kader van een aanvraag van een vergunning als bedoeld in de [artikelen 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), en [6.5, onderdeel b, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) of bij een melding als bedoeld in [artikel 6.11, eerste lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), of
+
+- c. voor het verkrijgen van representatief inzicht in de geohydrologische situatie ter plaatse indien de ruimtelijk spreiding van de overige grondwatermonitoringputten in de nabijheid niet afdoende is om dat inzicht te krijgen.
+
+##### Artikel 2.3.2
+
+Met betrekking tot het registratieobject grondwatermonitoringnet binnen de categorie constructies wordt als brondocument aangewezen een document houdende de aanwijzing van een samenhangende verzameling locaties, waar periodiek onderzoek aan het grondwater wordt gedaan om de toestand van het grondwater in het desbetreffende gebied te kunnen bepalen en om de eventuele veranderingen daarin te kunnen volgen.
+
+##### Artikel 2.3.3
+
+Met betrekking tot het registratieobject grondwatersamenstellingsonderzoek binnen de categorie constructies wordt als brondocument aangewezen een document met de definitieve meetwaarden, voorzien van een beoordelingsresultaat, van een op grondwatersamenstelling gericht onderzoek dat is gedaan aan een grondwatermonster, genomen in een monitoringbuis in een grondwatermonitoringput.
+
+##### Artikel 2.3.4
+
+Met betrekking tot het registratieobject grondwaterstandonderzoek binnen de categorie constructies wordt als brondocument aangewezen een document met periodieke waterstandsmetingen, voorzien van een beoordelingsresultaat, die in een monitoringbuis van een grondwatermonitoringput gemeten zijn, voor een of meer monitoringdoelen. De waterstand representeert de grondwaterstand of stijghoogte ter plekke van het filter van die monitoringbuis.
+
+#### § 4. Grondwatergebruik
+
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+#### § 6. Modellen
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
