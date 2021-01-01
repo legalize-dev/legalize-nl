@@ -4,7 +4,7 @@ identifier: "BWBR0042935"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042935"
 soort: "wet"
@@ -79,8 +79,6 @@ Wijzigt de Wet op de loonbelasting 1964.
 ##### Artikel IX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
@@ -166,14 +164,20 @@ Wijzigt de Wet opslag duurzame energie- en klimaattransitie.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
 
-- a. [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=X&z=2020-01-01&g=2020-01-01) eerst toepassing vindt nadat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2021 is toegepast;
+- a. [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=X&z=2021-01-01&g=2021-01-01) eerst toepassing vindt nadat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2021 is toegepast;
 
-- b. [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XI&z=2020-01-01&g=2020-01-01) eerst toepassing vindt nadat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2023 is toegepast.
+- b. [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XI&z=2021-01-01&g=2021-01-01) eerst toepassing vindt nadat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2023 is toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=IX&z=2020-01-01&g=2020-01-01) in werking met ingang van 1 januari 2021.
+2. In afwijking van het eerste lid treedt [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=IX&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 2021.
 
 ##### Artikel XXXI
 
 Deze wet wordt aangehaald als: Wet fiscale maatregelen Klimaatakkoord.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XIa
+
+[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=X&z=2021-01-01&g=2021-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XI&z=2021-01-01&g=2021-01-01) opgenomen verhogingen van de accijns.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
