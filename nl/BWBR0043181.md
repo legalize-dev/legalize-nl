@@ -4,7 +4,7 @@ identifier: "BWBR0043181"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2020-03-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043181"
 soort: "beleidsregel-BES"
@@ -113,5 +113,11 @@ De persoon die uitsluitend om studieredenen in het Europees deel van Nederland w
 ##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 maart 2020.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Citeertitel
+
+Deze beleidsregel wordt aangehaald als: Beleidsregel RCN-unit SZW toepassing AOV en AWW BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
