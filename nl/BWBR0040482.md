@@ -4,7 +4,7 @@ identifier: "BWBR0040482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040482"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2020-01-01&g=2020-01-01) bij deze regeling.
+De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 3
 
@@ -90,7 +90,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 1. Bij de primaire controle vindt in ieder geval een beoordeling plaats van de adequate uitvoering van de volgende aspecten binnen de Organisatie:
 
-- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), en
+- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-01-01&g=2021-01-01), en
 
 - b. de werking van de getroffen maatregelen en procedures.
 
@@ -98,7 +98,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - a. de inrichting en organisationele inbedding van en interne besluitvorming over de basisregistratie ondergrond,
 
-- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01),
+- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01),
 
 - c. de conformiteit en de continuïteit van de gebruikte in beheer en in ontwikkeling zijnde systemen,
 
@@ -106,7 +106,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - e. de verwerking van persoonsgegevens, en
 
-- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2020-01-01&g=2020-01-01).
+- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 8
 
@@ -126,7 +126,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 4. De resultaten van de hercontrole worden in een hercontrolerapport vastgelegd.
 
-5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
+5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
 
 ### Hoofdstuk 4. Het bronhouderportaal
 
@@ -138,29 +138,39 @@ De Stichting ICTU wordt aangewezen als beheerder van het bronhouderportaal als b
 
 ##### Artikel 11
 
-De catalogus bestaat uit de onderdelen, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2020-01-01&g=2020-01-01) bij deze regeling:
+De catalogus bestaat uit de onderdelen, opgenomen in:
 
-- a. Geotechnisch sondeeronderzoek;
+- a. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2021-01-01&g=2021-01-01) van deze regeling:
 
-- b. Booronderzoek bodemkundig boormonsterprofiel;
+- 1°. geotechnisch sondeeronderzoek;
 
-- c. Booronderzoek geotechnische boormonsterbeschrijving;
+- 2°. booronderzoek bodemkundig boormonsterprofiel;
 
-- d. Booronderzoek geotechnische boormonsteranalyse;
+- 3°. booronderzoek geotechnische boormonsterbeschrijving;
 
-- e. Wandonderzoek bodemkundige wandbeschrijving;
+- 4°. booronderzoek geotechnische boormonsteranalyse;
 
-- f. Grondwatermonitoringput;
+- 5°. wandonderzoek bodemkundige wandbeschrijving;
 
-- g. Bodemkaart;
+- 6°. grondwatermonitoringput;
 
-- h. Geomorfologische kaart;
+- 7°. bodemkaart;
 
-- i. Hydrogeologisch model;
+- 8°. geomorfologische kaart;
 
-- j. GeoTop;
+- 9°. hydrogeologisch model;
 
-- k. Digitaal geologisch model.
+- 10°. GeoTop;
+
+- 11°. digitaal geologisch model;
+
+- b. [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2021-01-01&g=2021-01-01) bij deze regeling:
+
+- 1°. grondwatermonitoringnet;
+
+- 2°. grondwatersamenstellingsonderzoek;
+
+- 3°. grondwaterstandsonderzoek.
 
 ### Hoofdstuk 6. Inzage in en verstrekking van gegevens
 
@@ -200,7 +210,7 @@ De catalogus bestaat uit de onderdelen, opgenomen in [bijlage II](https://wetten
 
 ##### Artikel 15
 
-Voor zover in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2020-01-01&g=2020-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2020-01-01&g=2020-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
+Voor zover in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-01-01&g=2021-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2021-01-01&g=2021-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2021-01-01&g=2021-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
 ##### Artikel 16
 
@@ -262,7 +272,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 2. De Minister komt met de Minister die het aangaat een updatefrequentie en schaalniveau van het model overeen. De maker van het model adviseert over de updatefrequentie en schaalniveau van het model. Hierbij kan onderscheid bestaan tussen landsdekkende en regionale modellen.
 
-3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2020-01-01&g=2020-01-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
+3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2021-01-01&g=2021-01-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
 
 4. De Minister verstrekt op verzoek het totstandkomingsrapport en het toetsrapport.
 
@@ -282,7 +292,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 - f. de opvolging van meldingen, gebruikersverzoeken en klachten.
 
-2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11d
 
@@ -296,11 +306,11 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage I. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01) van de Regeling basisregistratie ondergrond
+## Bijlage I. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
 
 Deze bijlage betreft de Globale Architectuurschets Basisregistratie Ondergrond en de Programma Start Architectuur Basisregistratie Ondergrond en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
-## Bijlage II. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2020-01-01&g=2020-01-01) van de Regeling basisregistratie ondergrond
+## Bijlage II. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
 
 Deze bijlage betreft de catalogus en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
@@ -3275,5 +3285,925 @@ Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de lig
 ### 2.6.7. Verticaal referentiesysteem
 
 Alle hoogten in het lagenmodel van DGM zijn gegeven in meter ten opzichte van NAP.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van de registratieobjecten grondwatermonitoringnet, grondwatersamenstellingsonderzoek en grondwaterstandsonderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+### Basisregistratie ondergrond (BRO) catalogus grondwatermonitoringnet
+
+Datum: 31 december 2019
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Het domeinmodel
+
+**Domeinmodel**
+
+### 2. Registratieobject
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwatermonitoringnet
+
+**Grondwatermonitoringnet**
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. naam
+
+### 3.1.7. kader aanlevering
+
+### 3.1.8. monitoringdoel
+
+### 3.1.9. grondwateraspect
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3. Monitoringnetgeschiedenis
+
+**Monitoringnetgeschiedenis**
+
+### 3.3.1. begindatum monitoring
+
+### 3.3.2. einddatum monitoring
+
+### 3.4. Tussentijdse gebeurtenis
+
+**Tussentijdse gebeurtenis**
+
+### 3.4.1. naam gebeurtenis
+
+### 3.4.2. datum gebeurtenis
+
+### 3.5. Meetpunt
+
+**Meetpunt**
+
+### 3.5.1. meetpuntcode
+
+### 3.6. GMW-monitoringbuis
+
+**GMW-monitoringbuis**
+
+### 3.6.1. BRO-ID
+
+### 3.6.2. buisnummer
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. GrondwaterAspect
+
+### 1.2. KaderAanlevering
+
+### 1.3. Monitoringdoel
+
+### 1.4. Registratiestatus
+
+### 1.5. NaamGebeurtenis
+
+### Toelichting
+
+### 1. Grondwatermonitoringnet
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond, namelijk dat die gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatermonitoringnet.
+
+De monitoring van de kwaliteit van de ondiepe bodem met het daarin aanwezige grondwater (bodemvocht), zoals dat gedaan wordt om de gevolgen van met name landbouwactiviteiten te kunnen volgen, valt buiten de scope van het registratieobject Grondwatermonitoringnet. De volledige scopeafbakening is beschreven in het Scopedocument grondwatermonitoringnet GMN.
+
+### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatermonitoringnet.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als **meetpunt** in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringsput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellings- of grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellings- of grondwaterstandonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwatersamenstellings- en grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het onderzoek. Deze bronhouder levert het onderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het onderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan.
+
+Op de website basisregistratie ondergrond is meer informatie te vinden over grondwatersamenstellingsonderzoek en grondwaterstandonderzoek.
+
+### 1.3. Wettelijk kader en monitoringdoel
+
+Met het registratieobject Grondwatermonitoringnet wordt de groepering van samenhangende onderzoeksgegevens, namelijk van onderzoeken die vanuit hetzelfde bepaalde doel zijn uitgevoerd, tot een gegevensset gefaciliteerd. Naast de (her)gebruikswaarde van de afzonderlijke onderzoeksgegevens, ontstaat hiermee toegevoegde (her)gebruikswaarde door groepering in een gegevensset. Bestuursorganen en andere gebruikers worden met deze gegevenssets in staat gesteld om huidige en toekomstige geohydrologische vraagstukken beter en efficiënter te beantwoorden.
+
+Een grondwateronderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden: een onderzoek kan in het kader van meerdere grondwatermonitoringnetten tegelijk zijn uitgevoerd, en dus deel uitmaken van meerdere gegevenssets. In het registratieobject Grondwatermonitoringnet worden daartoe het doel van de monitoring (**monitoringdoel**) vastgelegd en het wettelijk kader waar dit doel uit volgt (**kader aanlevering**). In de bijlage is een overzicht opgenomen van de wettelijke kaders en de daarbij behorende monitoringdoelen.
+
+Bij de registratieobjecten Grondwatersamenstellingsonderzoek en Grondwaterstandonderzoek wordt vastgelegd ten behoeve van welk(e) monitoringnet(ten) het onderzoek is uitgevoerd. Het **kader aanlevering** van een grondwatermonitoringnet geldt daarmee ook voor de aan het monitoringnet gekoppelde onderzoeken.
+
+De wettelijke kaders waarbinnen grondwatermonitoring plaatsvindt, staan in de codelijst KaderAanlevering. In deze codelijst zijn alleen wetten opgenomen die op dit moment in werking zijn. Er wordt op dit moment gewerkt aan de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885). Het is de ambitie om verschillende wetten die in de codelijst KaderAanlevering staan, waaronder de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en de [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505), te laten opgaan in de Omgevingswet. De Omgevingswet is nog niet in werking getreden, en is daarom niet opgenomen in de codelijst KaderAanlevering.
+
+In de basisregistratie ondergrond ligt alleen de huidige rechtsgrond vast op basis waarvan de monitoring plaatsvindt. Aangezien de wetgeving kan veranderen gedurende de periode van monitoren, terwijl het monitoringdoel gelijk kan blijven, geldt dat de rechtsgrond gedurende de levensduur van het grondwatermonitoringnet kan veranderen. In dat geval geeft de bronhouder de nieuwe waarde voor **kader aanlevering** door, en vervangt dit de waarde die op dat moment vastligt. In de basisregistratie ondergrond ligt van **kader aanlevering** alleen de huidige waarde vast, er wordt van dit gegeven geen materiële geschiedenis bijgehouden.
+
+### 1.4. Meetpunten
+
+Om aan te geven op welke locaties er onderzoek wordt gedaan ten behoeve van het monitoringdoel, ligt bij een grondwatermonitoringnet vast welke meetpunten onderdeel zijn van het net. Een meetpunt wordt gevormd door een filter dat zich in een monitoringbuis van een grondwatermonitoringput bevindt. In de basisregistratie ondergrond wordt de verwijzing naar deze monitoringbuis vastgelegd door middel van **het BRO-ID** van de grondwatermonitoringput en het **buisnummer**. Het grondwatermonitoringnet en de grondwatermonitoringputten kunnen overigens verschillende bronhouders hebben.
+
+Het meetpunt wordt binnen de basisregistratie ondergrond geïdentificeerd door de **meetpuntcode**. Deze code is uniek binnen het grondwatermonitoringnet en wordt door de bronhouder bepaald en aangeleverd.
+
+De verzameling meetpunten geeft de samenstelling van het grondwatermonitoringnet weer, en geeft inzicht in het gebied waarin wordt gemonitord. De verzameling meetpunten waaruit het monitoringnet bestaat, kan veranderen in de tijd: de verzameling meetpunten kan worden uitgebreid en/of ingekrompen. In de tijd kunnen ook meetpunten zelf veranderen: een meetpunt kan opeenvolgend gevormd worden door verschillende, in buizen aanwezige filters. Deze filters kunnen onderdeel zijn van verschillende grondwatermonitoringputten. Bijvoorbeeld wanneer een filter verstopt raakt of de put kapot gaat en vervangen wordt door een nieuwe put. Als de bronhouder van een grondwatermonitoringnet de vervangende put en de daarin aanwezige buis met filter met het oog op het monitoringdoel van het monitoringnet beschouwt als voldoende vergelijkbaar met het oude filter (in de voorgaande put), dan kan hij ervoor kiezen om het meetpunt voort te zetten met het vervangende filter in de buis van de (vervangende) put.
+
+Om de geohydrologische context te kunnen begrijpen, moet de gebruiker van de basisregistratie ondergrond de volledige, door de bronhouder gedefinieerde, gegevensset van een grondwatermonitoringnet kunnen raadplegen. Voor optimale herbruikbaarheid is het daarom nodig dat deze verzameling van meetpunten volledig en juist in de basisregistratie ondergrond wordt vastgelegd. Om het aanleveren van gegevens van de verschillende registratieobjecten in het grondwaterdomein gemakkelijker te maken is het is niet verplicht om deze gegevens meteen bij registratie volledig aan te leveren. Bij een grondwatermonitoringnet moet wel altijd minstens één koppeling zijn met een monitoringbuis van een grondwatermonitoringput als meetpunt, zodat het grondwatermonitoringnet op elk moment in de tijd via een gekoppelde grondwatermonitoringput gerelateerd kan worden aan een locatie. De verzameling van meetpunten kan eventueel na registratie van het grondwatermonitoringnet op een later moment compleet gemaakt worden.
+
+### 1.4.1. Aanduiding buis in gebruik in Grondwatermonitoringput
+
+In het registratieobject Grondwatermonitoringput ligt voor elke buis in de put vast of het filter in die buis in gebruik is (attribuut **buis in gebruik**). Deze aanduiding geeft aan of het filter van de monitoringbuis een actueel meetpunt vormt in een grondwatermonitoringnet. Een filter vormt een actueel meetpunt als er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het al dan niet gekoppeld zijn van grondwatersamenstellingsonderzoeken of grondwaterstandonderzoeken aan de betreffende buis van de put is niet van invloed op de waarde van **buis in gebruik**.
+
+De waarde van het attribuut **buis in gebruik** wordt door de basisregistratie ondergrond afgeleid. Dit wordt niet door een bronhouder aangeleverd. Wanneer de gegevens van de buis worden aangeleverd aan de basisregistratie ondergrond in het registratieobject Grondwatermonitoringput, krijgt **buis in gebruik** initieel de waarde 'onbekend'. Wanneer een bronhouder een verandering doorgeeft in een meetpunt van een monitoringnet, dan past de basisregistratie ondergrond, als dat nodig is, ook de waarde van **buis in gebruik** aan voor de betreffende buis in de grondwatermonitoringput. Dit zorgt ervoor dat **buis in gebruik** op 'ja' staat wanneer er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het staat op 'nee' wanneer dit niet het geval is.
+
+### 1.5. Object met een levensloop
+
+Het grondwatermonitoringnet is een object met een levensloop. Een grondwatermonitoringnet bestaat voor langere tijd, en tijdens zijn bestaan kunnen veranderingen optreden die geregistreerd moeten worden in de basisregistratie ondergrond. Registratie van gegevens van een grondwatermonitoringnet is dus geen eenmalige gebeurtenis, maar een proces dat zo lang duurt als het grondwatermonitoringnet bestaat. De levensloop van een grondwatermonitoringnet heeft een begin en een eind, en loopt gelijk met de periode waarin wordt gemonitord.
+
+De **monitoringnetgeschiedenis** bevat het geheel van gebeurtenissen dat de geschiedenis van het monitoringnet in de werkelijkheid beschrijft: de monitoringgeschiedenis geeft aan wat de begindatum van monitoring is, wat de einddatum van monitoring is en welke gebeurtenissen er tussentijds hebben plaatsgevonden.
+
+Bij het registreren van het grondwatermonitoringnet geeft de bronhouder de **begindatum monitoring** op. Wanneer de reeds bestaande monitoringnetten voor het eerst in de basisregistratie ondergrond geregistreerd worden, zal de begindatum voor deze monitoringnetten in het verleden liggen.
+
+Tot het moment van beëindigen blijft een grondwatermonitoringnet vanuit het oogpunt van de basisregistratie ondergrond actief. Ook als er gedurende enige of langere tijd geen grondwatersamenstellingsonderzoeken aan gekoppeld worden, of lopende grondwaterstandonderzoeken aan gekoppeld zijn. Bij het eindigen van het monitoren binnen een bepaald grondwatermonitoringnet geeft de bronhouder de **einddatum monitoring** op. De gegevens van het grondwatermonitoringnet en de onderzoeken die eraan gekoppeld zijn blijven na die einddatum opvraagbaar voor gebruikers.
+
+Wanneer zich gedurende de levensloop van een grondwatermonitoringnet een relevante verandering voordoet, worden de nieuwe gegevens aangeboden aan de basisregistratie ondergrond. Deze veranderingen worden vastgelegd als **Tussentijdse gebeurtenis**. Van elke tussentijdse gebeurtenis wordt de **naam gebeurtenis** en de **datum gebeurtenis** vastgelegd. Tussentijds kan de verzameling meetpunten veranderen; er kunnen meetpunten bijkomen (**meetpuntToevoegen**) en afvallen (**meetpuntBeëindigen**). Dit betekent dat van elk meetpunt de begin- en de einddatum wordt vastgelegd. Deze informatie is ook opvraagbaar voor gebruikers.
+
+Bij een meetpunt kan tevens de verwijzing naar de monitoringbuis in de grondwatermonitoringput wijzigen (**monitoringbuisVervangen**) zie paragraaf 1.4, Meetpunten. De vervangingsdatum van de, aan het meetpunt gekoppelde monitoringbuis in een put, wordt vastgelegd en is daarmee door gebruikers opvraagbaar. Een meetpunt moet altijd een verwijzing naar een monitoringbuis in een put bevatten. De registratie van de tussentijdse gebeurtenis monitoringbuisVervangen kan daarom pas plaatsvinden nadat de grondwatermonitoringput en de monitoringbuis zijn geregistreerd in de basisregistratie ondergrond.
+
+In de registratiegeschiedenis van elk registratieobject ligt vast sinds wanneer het is geregistreerd in de basisregistratie ondergrond (**tijdstip registratie object**) en wanneer de registratie is voltooid (**tijdstip voltooiing registratie**). Dit is onderdeel van de formele geschiedenis van het registratieobject. De **begindatum** en **einddatum monitoring** van het monitoringnet kunnen andere datums zijn dan de datums in de formele geschiedenis. De begin- en einddatum monitoring zijn onderdeel van de **Monitoringnetgeschiedenis.** De monitoringnetgeschiedenis vormt de materiële geschiedenis van het registratieobject. Voor uitleg over materiële en formele geschiedenis van objecten: zie de inleidende tekst in het begeleidende document.
+
+### 1.6. Kwaliteit en kwantiteit
+
+In het kader van een grondwatermonitoringnet wordt onderzoek gedaan naar de kwaliteit of kwantiteit van het grondwater. Het komt ook voor dat er onderzoeken worden uitgevoerd naar beide grondwateraspecten: zowel de kwaliteit als de kwantiteit. In dat geval is wel altijd één van beide grondwateraspecten primair, en vinden er ondersteunend ook onderzoeken aan het andere aspect plaats. Bijvoorbeeld: in sommige monitoringnetten voor kwantiteit worden ook chloridegehaltes gemeten ten behoeve van eventuele correcties (‘zoutcorrecties’).
+
+Voor de aspecten kwaliteit en kwantiteit zijn er afzonderlijke monitoringdoelen. In het geval dat er in het kader van het grondwatermonitoringnet metingen aan zowel de kwaliteit als de kwantiteit worden gedaan, wordt het monitoringdoel bij het primaire, meest belangrijke aspect vastgelegd in de basisregistratie ondergrond. Naast onderzoeken aan het primaire grondwateraspect, kunnen er ook onderzoeken aan het andere aspect gekoppeld zijn aan het grondwatermonitoringnet. Bijvoorbeeld: aan een grondwatermonitoringnet waarin primair het aspect kwantiteit wordt gemonitord, kunnen naast grondwaterstandonderzoeken ook grondwatersamenstellingsonderzoeken gekoppeld worden.
+
+In de basisregistratie ondergrond wordt, naast het **monitoringdoel**, het **grondwateraspect** ook in een eigen attribuut vastgelegd. De gebruiker kan hierdoor grondwatermonitoringnetten selecteren op basis van het aspect dat gemonitord wordt: kwaliteit of kwantiteit.
+
+### 1.7. Kwaliteitsregime IMBRO/A
+
+Een belangrijk aandachtspunt in het domein grondwatermonitoring is het in de basisregistratie ondergrond registreren van historische onderzoeksgegevens van grondwaterkwaliteit en grondwaterstanden. Deze zijn mogelijk niet onder te brengen in een scherp gedefinieerd monitoringnet met bijbehorend wettelijk kader conform de eisen van kwaliteitsregime IMBRO.
+
+Voor historische onderzoeksgegevens zijn het wettelijk kader en het monitoringdoel niet altijd bekend. Deze historische gegevens kunnen aan een grondwatermonitoringnet gekoppeld worden met kwaliteitsregime IMBRO/A. Grondwatermonitoringnetten onder kwaliteitsregime IMBRO/A zijn bedoeld als administratieve oplossing om in de basisregistratie ondergrond historische onderzoeksgegevens, bijvoorbeeld uit archiefoverdracht, te kunnen registreren waarvan niet (meer) bekend is binnen welk(e) monitoringnet(ten) deze tot stand zijn gekomen. Onder kwaliteitsregime IMBRO/A is het daarom mogelijk om grondwatermonitoringnetten te definiëren zonder specifiek wettelijk kader (kader aanlevering 'archiefoverdracht') en zonder specifiek monitoringdoel (monitoringdoel 'onbekend'). Wanneer het monitoringdoel 'onbekend' opgegeven is, kan de bronhouder er daarnaast voor kiezen om het grondwateraspect 'onbekend' vast te leggen, in plaats van specifiek 'kwaliteit' of 'kwantiteit'.
+
+Grondwatermonitoringnetten onder IMBRO/A moeten altijd betrekking hebben op een periode in het verleden: bij registratie geeft de bronhouder een **einddatum monitoring** in het verleden op, of anders een **einddatum monitoring** met de waarde 'onbekend'.
+
+### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’, en de beschrijving over het gegeven buis in gebruik in paragraaf ‘Aanduiding buis in gebruik in Grondwatermonitoringput’.
+
+Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af, behalve op het gebied van verwijzingen zoals hieronder beschreven.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’):
+
+Daarnaast wordt op de volgende punten consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.8.1. Buiten scope
+
+Binnen het geheel van grondwatersamenstellingsonderzoeken die gekoppeld zijn aan een grondwatermonitoringnet, wordt soms nog een verdere groepering onderkend in meetrondes. In een meetronde wordt samenhang aangebracht tussen grondwatersamenstellingsonderzoeken die in dezelfde periode zijn uitgevoerd in verschillende meetpunten. Deze zijn door de bronhouder bedoeld om een samenhangende gegevensset te vormen. Het concept meetronde is niet opgenomen in de basisregistratie ondergrond, en maakt dus geen deel uit van het registratieobject Grondwatermonitoringnet.
+
+### 1.9. INSPIRE
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatermonitoringnet valt onder het INSPIRE-thema Environmental monitoring facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatermonitoringnet op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+### 1.10. Bijlage: Wettelijk kader en monitoringdoel
+
+In onderstaande overzicht is aangegeven:
+
+1 Dit **monitoringdoel** komt voor binnen meerdere **kaders aanlevering**.
+
+### Basisregistratie ondergrond (BRO) catalogus grondwatersamenstellingsonderzoek
+
+Datum 15 november 2019
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Het domeinmodel
+
+**Domeinmodel**
+
+### 2. Registratieobject
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwatersamenstellingsonderzoek
+
+**Grondwatersamenstellingsonderzoek**
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. beoordelingsprocedure
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip voltooiing registratie
+
+### 3.2.4. gecorrigeerd
+
+### 3.2.5. tijdstip laatste correctie
+
+### 3.2.6. in onderzoek
+
+### 3.2.7. in onderzoek sinds
+
+### 3.2.8. uit registratie genomen
+
+### 3.2.9. tijdstip uit registratie genomen
+
+### 3.2.10. weer in registratie genomen
+
+### 3.2.11. tijdstip weer in registratie genomen
+
+### 3.3. Grondwatermonitoringnet
+
+**Grondwatermonitoringnet**
+
+### 3.3.1. BRO-ID
+
+### 3.4. GMW-monitoringbuis
+
+**GMW-monitoringbuis**
+
+### 3.4.1. BRO-ID
+
+### 3.4.2. buisnummer
+
+### 3.5. Veldonderzoek
+
+**Veldonderzoek**
+
+### 3.5.1. tijdstip veldonderzoek
+
+### 3.5.2. uitvoerder veldonderzoek
+
+### 3.5.3. bemonsteringsprocedure
+
+### 3.6. Bemonsteringsapparaat
+
+**Bemonsteringsapparaat**
+
+### 3.6.1. pomptype
+
+### 3.7. Veldwaarneming
+
+**Veldwaarneming**
+
+### 3.7.1. hoofdkleur
+
+### 3.7.2. bijkleur
+
+### 3.7.3. kleursterkte
+
+### 3.7.4. afwijkend gekoeld
+
+### 3.7.5. afwijking in meetapparatuur
+
+### 3.7.6. contaminatie door verbrandingsmotor
+
+### 3.7.7. filter belucht
+
+### 3.7.8. grondwaterstand teveel gedaald
+
+### 3.7.9. inline filter afwijkend
+
+### 3.7.10. monster belucht
+
+### 3.7.11. slang hergebruikt
+
+### 3.7.12. temperatuur moeilijk te bepalen
+
+### 3.8. Veldmeting
+
+**Veldmeting**
+
+### 3.8.1. parameter
+
+### 3.8.2. veldmeetwaarde
+
+### 3.8.3. status kwaliteitscontrole
+
+### 3.9. Laboratoriumonderzoek
+
+**Laboratoriumonderzoek**
+
+### 3.9.1. uitvoerder laboratoriumonderzoek
+
+### 3.10. Analyseproces
+
+**Analyseproces**
+
+### 3.10.1. analysedatum
+
+### 3.10.2. bepalingstechniek
+
+### 3.10.3. bepalingsprocedure
+
+### 3.11. Analyse
+
+**Analyse**
+
+### 3.11.1. parameter
+
+### 3.11.2. analysemeetwaarde
+
+### 3.11.3. limietsymbool
+
+### 3.11.4. rapportagegrens
+
+### 3.11.5. status kwaliteitscontrole
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. Parameterlijst
+
+### 1.2. Bemonsteringsprocedure
+
+### 1.3. Beoordelingsprocedure
+
+### 1.4. Kleur
+
+### 1.5. Kleursterkte
+
+### 1.6. LimietSymbool
+
+### 1.7. Pomptype
+
+### 1.8. Registratiestatus
+
+### 1.9. StatusKwaliteitscontrole
+
+### 1.10. Waardebepalingsprocedure
+
+### 1.11. Waardebepalingstechniek
+
+### Toelichting
+
+### 1. Grondwatersamenstellingsonderzoek
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond namelijk dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatersamenstellingsonderzoek.
+
+De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwatersamenstelling, omdat zij daarin een wettelijke taak hebben zijn RIVM, Rijkswaterstaat, provincies, waterschappen, gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwatersamenstelling, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe)bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen) en natuurterreinbeheerorganisaties. Deze organisaties doen periodiek grondwatersamenstellingsonderzoek en hebben daarvoor grondwatermonitoringnetten. Het bestuursorgaan dat optreedt als bevoegd gezag kan het registreren van deze gegevens als voorwaarde opnemen in de beschikking van de betreffende vergunningsaanvragen.
+
+De volledige scopeafbakening is beschreven in het Scopedocument grondwatersamenstellings-onderzoek GAR.
+
+### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatersamenstellingsonderzoek.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond.
+
+Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput. Naast putten kunnen ook bronnen gebruikt worden in grondwatersamenstellingsmonitoring. Een bron is een locatie waar het grondwater uittreedt aan het maaiveld. Op dit moment voorziet de basisregistratie het registreren van bronnen niet. Voorzien wordt dat de gegevensdefinitie van de grondwatermonitoringput aangepast wordt, zodat het mogelijk wordt om bronnen te registreren.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellingsonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellingsonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwatersamenstellingsonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwatersamenstellingsonderzoek. Deze bronhouder levert het grondwatersamenstellingsonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwatersamenstellingsonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 1.3. Het grondwatersamenstellingsonderzoek
+
+### 1.3.1. Inleiding
+
+Een **grondwatersamenstellingsonderzoek** is een monitoringactiviteit gericht op het onderzoeken van de samenstelling van een grondwatermonster uit een bepaald meetpunt in de ondergrond. In plaats van samenstelling van het grondwater wordt ook wel gesproken over kwaliteit van het grondwater. In deze catalogus doelen we met beide op hetzelfde. Een meetpunt wordt gevormd door een **filter** van een monitoringbuis in een **grondwatermonitoringput** (zie paragraaf 1.2 van deze toelichting). Een grondwatersamenstellingsonderzoek wordt uitgevoerd door of in opdracht van een bronhouder en wordt gedaan in het kader van een of meerdere monitoringdoelen.
+
+Een grondwatersamenstellingsonderzoek wordt uitgevoerd in meerdere delen. Het eerste deel van het onderzoek wordt in het veld verricht. Het tweede deel vindt plaats in het laboratorium. In enkele gevallen vindt er geen laboratoriumonderzoek plaats en bestaat het grondwatersamenstellingsonderzoek uit uitsluitend veldmetingen. Het kan ook voorkomen dat het laboratoriumonderzoek wordt uitgevoerd in meer dan één laboratorium. De resultaten van de verschillende delen van het onderzoek worden, na beoordeling door de bronhouder, samen geregistreerd in de basisregistratie ondergrond.
+
+In tegenstelling tot de relatief snel variërende stand van het grondwater (grondwaterstanden veranderen binnen een dag), verandert de samenstelling van het grondwater relatief langzaam. Dit komt doordat grondwater zich langzaam verplaatst door de ondergrond. Grondwatersamenstellingsonderzoeken worden daarom doorgaans maar één keer of hooguit een paar keer per jaar uitgevoerd op een locatie. In de meetpunten in het landelijke monitoringnet en in de meetpunten in de provinciale monitoringnetten wordt er bijvoorbeeld jaarlijks één grondwatersamenstellingsonderzoek uitgevoerd. Als er lokaal reden is om de grondwatersamenstelling beter in de gaten te houden, omdat daar bijvoorbeeld drinkwater onttrokken wordt of er activiteiten plaatsvinden die invloed kunnen hebben op de grondwatersamenstelling, kan er besloten worden om de onderzoeksfrequentie te verhogen.
+
+### 1.3.2. Het proces
+
+Een grondwatersamenstellingsonderzoek wordt uitgevoerd aan de hand van verschillende protocollen. Zowel bij het veldonderzoekdeel als bij het laboratoriumdeel als bij de beoordeling wordt gewerkt volgens vastgestelde voorschriften, normen en richtlijnen.
+
+Het verloop van het proces is schematisch weergegeven in de onderstaande figuur en daaronder beschreven. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. De eerste drie stappen van het proces zijn kort beschreven in paragraaf 1.1 en 1.2 van deze toelichting en uitgebreider in het Scopedocument grondwatersamenstellingsonderzoek GAR. Een handboek voor inname beschrijft het proces dat bij het leveren van gegevens aan de basisregistratie ondergrond wordt doorlopen. In deze catalogus beschrijven we alleen de onderdelen veldonderzoek, labonderzoek en controleren en beoordelen.
+
+### 1.4. Belangrijkste entiteiten
+
+In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie. Als eerst wordt de hoofdentiteit beschreven, daarna de entiteiten van het veldonderzoek en de entiteiten van het laboratoriumonderzoek. Het resultaat van de beoordeling, de kwaliteitsstatus van de gegevens, is onderdeel van zowel het veldonderzoek als het laboratoriumonderzoek.
+
+### 1.4.1. Grondwatersamenstellingsonderzoek
+
+Informatie uit de periodieke grondwatersamenstellingsonderzoeken wordt in de basisregistratie ondergrond geregistreerd als het registratieobject Grondwatersamenstellingsonderzoek. Dit registratieobject omvat de, van een beoordelingsresultaat voorziene, definitieve meetwaarden van een op grondwatersamenstelling gericht onderzoek dat aan een grondwatermonster uit een bepaald meetpunt is verricht. Daarbij is een uitgangspunt dat een grondwatersamenstellingsonderzoek één bronhouder heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn. Daarnaast is een uitgangspunt dat alle gegevens van het grondwatersamenstellingsonderzoek tegelijk worden aangeleverd aan de basisregistratie ondergrond. De resultaten van het veldonderzoekdeel en het laboratoriumonderzoekdeel binnen één grondwatersamenstellingsonderzoek worden dus samen aangeleverd.
+
+Een grondwatersamenstellingsonderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject Grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) geregistreerd en het wettelijk kader waar dit doel uit volgt (kader aanlevering). In het registratieobject grondwatersamenstellingsonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwatersamenstellingsonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 van deze toelichting) is het doel en het wettelijk kader van het grondwatersamenstellingsonderzoek indirect geregistreerd. De verwijzing naar het grondwatermonitoringnet wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
+
+Bij een grondwatersamenstellingsonderzoek ligt de verwijzing vast naar de monitoringbuis van de grondwatermonitoringput waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 van deze toelichting). De verwijzing wordt gemaakt op basis van het BRO-ID van de grondwatermonitoringput in combinatie met het buisnummer van de buis waarin de bemonstering heeft plaatsgehad. Met deze buisverwijzing is via de filterdiepte ook de diepte geregistreerd waarop de grondwatermonsters zijn genomen.
+
+De veld- en laboratoriumanalyseresultaten van een grondwatersamenstellingsonderzoek worden door de bronhouder en/of een derde partij in opdracht van een bronhouder gecontroleerd en beoordeeld. Bij het beoordelen van gegevens wordt gekeken naar de resultaten van het grondwatersamenstellingsonderzoek als geheel. Bijvoorbeeld wordt de consistentie beoordeeld tussen de chemische veld- en laboratoriumresultaten met behulp van verschillende chemische relaties. Daarnaast worden meetresultaten beoordeeld binnen de tijdreeks, indien aanwezig, van het betreffende filter. De beoordeling vindt plaats aan de hand van een **beoordelingsprocedure**. Dit is een protocol of werkvoorschrift dat is toegepast bij het beoordelen van de kwaliteit van de meetwaarden die in het veld en/of in het laboratorium gemeten zijn. De procedure beschrijft hoe de beoordeling wordt gedaan en op welke manier de beoordeling leidt tot het eindoordeel over de kwaliteit van een individuele meting.
+
+Elk grondwatersamenstellingsonderzoek wordt uitgevoerd volgens afspraak tussen opdrachtgever (de **bronhouder** die in de basisregistratie ondergrond voor elk registratieobject wordt geregistreerd) en opdrachtnemer(s). Bij elk grondwatersamenstellingsonderzoek wordt een hoeveelheid parameters, ofwel eigenschappen van het grondwatermonster, gemeten. Het resultaat van deze metingen wordt geregistreerd in de basisregistratie ondergrond.
+
+### 1.4.2. Identificatie van parameters
+
+Zowel in het veldonderzoek als in het laboratoriumonderzoek worden parameters, eigenschappen, van het grondwater bepaald. Bij de registratie van de meetresultaten van het veldonderzoek en het laboratoriumonderzoek wordt gebruik gemaakt van de **Parameterlijst** (zie Artikel 1, 1.1 Parameterlijst, voor de inhoud van de lijst). Elke **parameter** in deze lijst wordt geïdentificeerd door het **ID** van de parameter. Het ID wordt gebruikt om de parameter aan te duiden, dit is een persistent, identificerend volgnummer binnen de referentielijst zoals dat uitgegeven wordt door het SIKB. Het ID van een parameter zal in de loop der tijd dus niet veranderen. Voor nieuwe stoffen kan een nieuw ID met een nieuwe Aquocode aangevraagd worden.
+
+In de Parameterlijst is voor elke parameter naast het ID ook vastgelegd: de **Aquocode**, het **CASnummer** (indien van toepassing), een **omschrijving**, de **eenheid** en de **hoedanigheid** waarin de parameter wordt geregistreerd.
+
+De **Aquocode** is een codering voor een stof die afgeleid is van de naam van de stof. De Aquocode maakt onderdeel uit van de Aquo-standaard. Dit is een open standaard en uniforme taal voor de uitwisseling van gegevens binnen de watersector.
+
+Het **CASnummer** is het Chemical Abstracts Service nummer van de laboratoriumparameter. Dit is een internationaal gebruikte, unieke, numerieke code voor chemische elementen, componenten en polymeren. Er zijn alleen CASnummers voor chemische verbindingen, niet voor parameters die de toestand van het grondwater beschrijven zoals zuurgraad, troebelheid, elektrisch geleidingsvermogen of temperatuur. Ook zijn er geen CASnummers voor som-parameters zoals stikstof-totaal of de som van trichloorfenol-isomeren.
+
+De Aquocode, het CASnummer (indien van toepassing) en de **omschrijving** vormen de toelichting op de parameter, deze gegevens zorgen ervoor dat alle gebruikers er zeker van zijn om welke eigenschap of stof het gaat.
+
+Om verschillende grondwatersamenstellingsonderzoeken met elkaar te kunnen vergelijken is de **eenheid** door de basisregistratie ondergrond voorgeschreven. Alleen een veelvoud of een deel van de voorgeschreven eenheid kan voorkomen. Wanneer bijvoorbeeld µg/l in de parameterlijst staat is mg/l ook toegestaan als dit beter aansluit bij de hoogte van de gemeten waarde. De prefix, het voorvoegsel van de eenheid mag dus worden aangepast ten opzichte van wat is gedefinieerd in de parameterlijst.
+
+Naast de eenheid is ook de **hoedanigheid** voorgeschreven. De hoedanigheid is de vorm waarin de eenheid behorend bij een meetwaarde wordt uitgedrukt of de fractie van de parameter waarop de meetwaarde betrekking heeft. De verschillende waarden van de hoedanigheid kenmerken zich door de volgende criteria:
+
+De hoedanigheid bevat géén waarden die een nadere aanduiding zijn van methodes, technieken voor behandeling, ontsluiting of analyse van monsters.
+
+De parameterlijst is gebaseerd op de Aquo parameterlijst Grondwaterkwaliteit van het IHW, aangevuld met parameters van de Aquo parameterlijst Bodemkwaliteit – compartiment Grondwater van het SIKB en verder aangevuld met door stakeholders kenbaar gemaakte parameters waar grondwater op bemonsterd wordt.
+
+### 1.4.3. Veldonderzoek en monstername
+
+Tijdens het **veldonderzoek** wordt in het veld een aantal waarnemingen gedaan en een aantal metingen uitgevoerd die belangrijk zijn om in het veld uit te voeren en het resultaat ervan te registreren. Tevens worden monsters genomen voor analyse in het laboratorium. De **uitvoerder veldonderzoek** is de partij die voor de bronhouder verantwoordelijk is voor het uitvoeren van het veldonderzoek.
+
+Het veldonderzoek gebeurt op een bepaald tijdstip, op een bepaalde datum, het **tijdstip veldonderzoek**. Dit is het tijdstip van monstername. Bij historische gegevens kan het voorkomen dat het tijdstip van monstername niet bekend is, dat alleen de datum van het veldonderzoek bekend is. In deze gevallen kan een fictief tijdstip, 12:00:00, gekozen worden. Bij het veldonderzoek wordt **een** bepaalde **bemonsteringsprocedure** gebruikt. Hierin zijn de eisen en de voorgeschreven werkwijze ten aanzien van bemonstering vastgelegd.
+
+Gegevens over het **Bemonsteringsapparaat** zijn relevant voor de beoordeling van de kwaliteit van het monster. Het **pomptype** is kenmerkend voor het bemonsteringsapparaat en wordt daarom vastgelegd in de basisregistratie ondergrond.
+
+Een aantal van de metingen die in het veld worden gedaan, wordt in de basisregistratie ondergrond geregistreerd bij **Veldmeting.** Deze gegevens hebben hergebruikswaarde: ze geven een algemene indruk over het bemonsterde grondwater, de meetwaarden worden gebruikt in bepaalde controles, of de bepaling in het veld levert een betrouwbaarder resultaat op dan een bepaling in het laboratorium. Voor het meten van parameters in het veld zijn meerdere redenen:
+
+Het resultaat van de metingen in het veld wordt geregistreerd bij **Veldmeting**. Zoals in paragraaf 1.4.2 toegelicht, wordt elke **parameter** geïdentificeerd door het ID van de parameter. De gemeten **waarde** van een veldmeting wordt geregistreerd in de basisregistratie ondergrond bij **veldmeetwaarde**. De **veldmeetwaarde** heeft het formaat Meetwaarde. Bij de meetwaarde hoort een meeteenheid. De meeteenheid is afhankelijk van de parameter. De aan te leveren meeteenheid is vastgelegd in de Parameterlijst waarbij de prefix, het voorvoegsel van de eenheid aangepast mag worden(zie paragraaf 1.4.2).
+
+Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Samen met de meeteenheid geeft de opbouw de nauwkeurigheid van de meetwaarde weer. Bij de veldmeetwaarde en de analysemeetwaarde (de in het laboratorium gemeten waarde) kan er geen vaste opbouw worden gegeven omdat het waarden van verschillende parameters kan betreffen die elk een andere opbouw en eventueel een andere meeteenheid hebben. Dit betekent dat bij de resultaten van het veldonderzoek en het laboratoriumonderzoek de nauwkeurigheid (het aantal significante cijfers) niet gedefinieerd wordt door de basisregistratie ondergrond. Bij aanlevering aan de basisregistratie ondergrond vindt geen controle plaats op de opbouw. De bronhouder heeft de verantwoordelijkheid het getal in de juiste nauwkeurigheid aan te leveren. Dat wil zeggen met het juiste aantal significante cijfers, het aantal cijfers dat betekenis heeft voor de nauwkeurigheid van de meting. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
+
+Bij elke individuele meting van een parameter in het grondwatersamenstellingsonderzoek geeft de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**. Het is een oordeel over de kwaliteit van de meting van de parameter, geen oordeel over het grondwatermonster als geheel.
+
+Het resultaat van de waarnemingen in het veld wordt geregistreerd bij **Veldwaarneming**. Hier worden verschillende waarnemingen vastgelegd die belangrijk kunnen zijn voor hergebruik. De kleur van het grondwater wordt gedefinieerd in drie attributen te weten de **hoofdkleur**, de **bijkleur** en de **kleursterkte.** De uitbreidbare waardelijsten die gebruikt worden om de kleur van het grondwater vast te leggen, Kleur en Kleursterkte, zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de gelijknamige Aquo domeintabellen.
+
+Naast de kleur wordt aan de hand van de onderstaande attributen vastgelegd of er bepaalde bijzonderheden zijn geconstateerd die relevant zijn voor het beoordelen of hergebruiken van de resultaten van het onderzoek. Deze attributen worden met ja of met nee gevuld indien dit bekend is. Het attribuut ontbreekt als niet bekend is of het ja of nee is.
+
+### 1.4.4. Laboratoriumonderzoek
+
+Een **laboratoriumonderzoek** van een grondwatersamenstellingsonderzoek wordt door een of meerdere laboratoria verricht. Alle laboratoria die onderzoeken uitvoeren die binnen de scope van de basisregistratie ondergrond vallen, zijn geaccrediteerd door de Raad voor Accreditatie. Vereist voor de accreditatie is onder andere het volgen van (inter)nationale standaarden (NEN- en/of ISO-normen). Laboratoria werken volgens strikte interne kwaliteitssystemen vastgelegd in handboeken, conform de richtlijnen van de Raad voor Accreditatie. Geaccrediteerde laboratoria zijn daarnaast verplicht om deel te nemen aan ringonderzoeken: onderzoeken waarbij de testresultaten van verschillende laboratoria worden vergeleken. De accreditatie legt op parameter(groep)niveau vast welke bepalingstechnieken en bijbehorende procedures gehanteerd worden door het geaccrediteerde laboratorium. Laboratoria zijn vaak niet voor alle parameters of parametergroepen geaccrediteerd. Met name parameters die zij niet regelmatig meten kunnen accreditaties missen. Wanneer de bronhouder ervoor kiest om alle parameters volgens een geaccrediteerde procedure te laten meten, kan het in enkele gevallen voorkomen dat het laboratoriumonderzoek door meer dan één laboratorium uitgevoerd wordt. Op de website van de Raad van Accreditatie (www.rva.nl) is per laboratorium informatie te vinden over hun huidige accreditatie.
+
+Het laboratoriumonderzoek omvat de resultaten van het onderzoek van één of meer deelmonsters, waarbij doorgaans veel verschillende parameters worden bepaald. Elk laboratoriumonderzoek wordt onder de verantwoordelijkheid van één laboratorium, de **uitvoerder laboratoriumonderzoek**, uitgevoerd.
+
+In het laboratorium worden een of meer analyseprocessen uitgevoerd. Een **analyseproces** bevat de kenmerken van de in het laboratorium uitgevoerde activiteiten ten behoeve van de bepaling van de waarde van parameters in het grondwatermonster. Van het analyseproces worden de **analysedatum**, de **bepalingstechniek** en de **bepalingsprocedure** geregistreerd in de Basisregistratie Ondergrond.
+
+De datum waarop een bepalingstechniek wordt uitgevoerd, wordt geregistreerd met de analysedatum. Wanneer de bepalingstechniek zich uitstrekt over meer dagen, wordt de datum geregistreerd waarop de bepalingstechniek is afgerond.
+
+Een parameter kan vaak met verschillende bepalingstechnieken gemeten worden. De **bepalingstechniek** is van invloed op de gemeten waarde en de nauwkeurigheid van de gemeten waarde. Met één bepalingstechniek worden meestal meerdere parameters gemeten. Verschillende laboratoria kunnen voor dezelfde bepalingstechniek een verschillende norm of voorschrift hanteren. Daarom wordt de door het laboratorium gebruikte norm of het voorschrift geregistreerd, de **bepalingsprocedure**. In sommige gevallen wordt een procedure gebruikt die niet is gecertificeerd of geaccrediteerd. Dit doet zich bijvoorbeeld voor bij de analyse van stoffen waarop recentelijk voor het eerst analyses plaatsvinden. In deze gevallen wordt een eigen methode gebruikt. Dit wordt als **niet genormaliseerde automatische waardebepaling** aangeduid.
+
+De uitbreidbare waardelijsten **Waardebepalingstechniek** en **Waardebepalingsprocedure** zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de Aquo-domeintabellen Waardebepalingstechniek respectievelijk Waardebepalingsmethode.
+
+Het analyseproces leidt tot meetresultaten van een of meer parameters. Deze worden geregistreerd in **Analyse**. Middels het **ID** wordt de **parameter** geïdentificeerd (zie paragraaf 1.4.2).
+
+Het gemeten gehalte van de parameter wordt geregistreerd in het attribuut **analysemeetwaarde**. In sommige gevallen wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de rapportagegrens: De door het uitvoerende laboratorium met de opdrachtgever afgesproken grensconcentratie waarboven het gemeten gehalte of de waargenomen waarde van de parameter in een monster wordt gerapporteerd aan de opdrachtgever. Een gemeten waarde kan ook hoger zijn dan de hoogste grenswaarde die nog wordt gerapporteerd aan de opdrachtgever. In dit geval zal het laboratorium het monster verdunnen. Het kan voorkomen dat dit niet meer mogelijk is. In dat geval wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de hoogste nog gerapporteerde grenswaarde.
+
+Wanneer het attribuut analysemeetwaarde een grenswaarde bevat is er een **limietsymbool** aanwezig. Het limietsymbool geeft aan dat het, in het grondwater aanwezige gehalte kleiner of groter is dan de grensconcentratie die geregistreerd is bij analysemeetwaarde.
+
+De **rapportagegrens** is de, door het uitvoerende laboratorium met de opdrachtgever afgesproken, kleinste waarde van een concentratie van een component die door een laboratorium standaard wordt gerapporteerd aan de opdrachtgever. In sommige gevallen hebben de opdrachtnemer en de opdrachtgever de afspraak gemaakt dat de rapportagegrens gelijk is aan de detectiegrens, ofwel aantoonbaarheidsgrens. Dit is de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is. In andere gevallen is de detectiegrens lager dan de rapportagegrens. De rapportagegrens is voor hergebruik een belangrijk gegeven en wordt geregistreerd indien hij bekend is bij de bronhouder. Deze grens is mede afhankelijk van de bepalingstechniek en de eventuele bewerking van het grondwatermonster.
+
+Wanneer het gemeten gehalte lager is dan de rapportagegrens, mag de bronhouder de rapportagegrens in het attribuut analysemeetwaarde registreren. In dit geval wordt eveneens het limietsymbool geregistreerd. De bronhouder mag bij een, door een laboratorium toch gerapporteerd gemeten gehalte dat lager is dan de rapportagegrens, besluiten of hij deze gemeten waarde registreert bij het attribuut analysemeetwaarde in de basisregistratie ondergrond of niet. Is bijvoorbeeld de rapportagegrens 1,0 mg/l en het laboratorium rapporteert 0,95 mg/l, dan mag de bronhouder kiezen. Hij kan 0,95 mg/l opnemen of hij kan 1,0 mg/l opnemen in het veld analysemeetwaarde. Neemt de bronhouder 1,0 mg/l op, dan wordt ook het attribuut limietsymbool gevuld met: <.
+
+Andere soorten grenzen, zoals de detectiegrens: de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is, of de bepaalbaarheidsgrens, die iets zegt over wanneer het gehalte van een parameter betrouwbaar kan worden vastgesteld, worden niet geregistreerd in de basisregistratie ondergrond.
+
+De **analysemeetwaarde** en de **rapportagegrens** hebben het formaat Meetwaarde. Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Net als bij de veldmeetwaarde kan er bij de analysemeetwaarde en de rapportagegrens van de in het laboratorium gemeten parameters geen vaste opbouw worden gegeven. Net als bij de resultaten van de veldmetingen heeft de bronhouder de verantwoordelijkheid het getal in de juiste nauwkeurigheid (het aantal significante cijfers) aan te leveren. In de door laboratoria gebruikte bepalingsprocedure is vaak vastgelegd hoe er afgerond moet worden. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
+
+Net als bij Veldmeting, wordt bij Analyse bij elke individuele meting door de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting aangegeven. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**.
+
+### 1.5. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond):
+
+Daarnaast wordt op de volgende punten consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.6. INSPIRE
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatersamenstellingsonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatersamenstellingsonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+### Basisregistratie ondergrond (BRO) catalogus grondwaterstandonderzoek
+
+Datum 27 maart 2020
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Registratieobject
+
+### 2. Het domeinmodel
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwaterstandonderzoek
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. datum eerste meting
+
+### 3.1.7. datum recentste meting
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3. Grondwatermonitoringnet
+
+### 3.3.1. BRO-ID
+
+### 3.4. GMW-monitoringbuis
+
+### 3.4.1. BRO-ID
+
+### 3.4.2. buisnummer
+
+### 3.5. Observatie
+
+### 3.5.1. observatie ID
+
+### 3.5.2. observatieperiode
+
+### 3.5.3. tijdstip resultaat
+
+### 3.6. Metadata observatie
+
+### 3.6.1. datum metadata
+
+### 3.6.2. observatietype
+
+### 3.6.3. mate beoordeling
+
+### 3.7. Organisatiegegevens
+
+### 3.7.1. identificatie
+
+### 3.7.2. organisatienaam
+
+### 3.8. Observatieproces
+
+### 3.8.1. observatieproces ID
+
+### 3.8.2. meetprocedure
+
+### 3.8.3. type meetinstrument
+
+### 3.8.4. type luchtdrukcompensatie
+
+### 3.8.5. procestype
+
+### 3.8.6. beoordelingsprocedure
+
+### 3.9. Tijdmeetwaardereeks
+
+### 3.9.1. tijdmeetwaardereeks ID
+
+### 3.10. Tijdmeetwaardepaar
+
+### 3.10.1. tijdstip meting
+
+### 3.10.2. waterstand
+
+### 3.11. Metadata tijdmeetwaardepaar
+
+### 3.11.1. status kwaliteitscontrole
+
+### 3.11.2. censuurreden
+
+### 3.11.3. censuurlimietwaarde
+
+### 3.11.4. interpolatietype
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. Registratiestatus
+
+### 1.2. Meetprocedure
+
+### 1.3. TypeMeetinstrument
+
+### 1.4. TypeLuchtdrukcompensatie
+
+### 1.5. Procestype
+
+### 1.6. Beoordelingsprocedure
+
+### 1.7. MateBeoordeling
+
+### 1.8. Observatietype
+
+### 1.9. StatusKwaliteitscontrole
+
+### 1.10. Censuurreden
+
+### 1.11. Interpolatietype
+
+### Toelichting
+
+### 1. Grondwaterstandonderzoek
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden periodiek grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd. Door het verzamelen van deze meetgegevens over ons grondwatersysteem kunnen trends worden gesignaleerd en kan getoetst en gerapporteerd worden of we voldoen aan (inter)nationale normen en streefbeelden.
+
+In het domein grondwatermonitoring staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het monitoringdoel, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld, afgezien van het feit dat voor de gehele basisregistratie ondergrond geldt dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de BRO ‘voorlopig’ respectievelijk ‘vooralsnog’ geen milieukwaliteitsinformatie bevat. Voor het grondwatermonitoringdomein zijn grondwatersamenstellingsonderzoeksgegevens uit monitoringnetten rondom milieu-hygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’ (Kamerstuk Motie 34864-19). Momenteel is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van grondwaterstandonderzoek.
+
+De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
+
+De volledige scopeafbakening is beschreven in het Scopedocument Grondwaterstandonderzoek (GLD).
+
+### 1.2. Domein grondwatermonitoring in de BRO
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond (BRO) omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject grondwaterstandonderzoek.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen de Engelstalige afkortingen en verder de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald monitoringdoel met een bepaald wettelijk kader, periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet weerspiegelt de groepering van onderzoeksgegevens door de bronhouder op basis van het doel van de monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om een grondwaterstandonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat grondwaterstand- en grondwatersamenstellingsonderzoek kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwaterstandonderzoek. Deze bronhouder levert het grondwaterstandonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwaterstandonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 1.3. Het grondwaterstandonderzoek
+
+### 1.3.1. Inleiding
+
+Een **Grondwaterstandonderzoek** (GLD) is een monitoringactiviteit, waarbij herhaaldelijk de waterstand in een monitoringbuis van een grondwatermonitoringput wordt gemeten. Een filter van een monitoringbuis in een grondwatermonitoringput vormt een meetpunt in registratieobject grondwatermonitoringnet (zie paragraaf 1.2, Domein grondwatermonitoring in de BRO). Het grondwaterstandonderzoek wordt verricht door een bronhouder of door derden, op basis van een opdracht van of afspraak met die bronhouder, en komt voort uit een of meerdere monitoringdoelen. Het resultaat van het grondwaterstandonderzoek omvat de beoordeelde metingen in de tijd-meetwaardereeks die hieruit volgt. De resultaten van het onderzoek worden geregistreerd in de basisregistratie ondergrond.
+
+In tegenstelling tot de relatief langzame verandering van de samenstelling van het grondwater, kunnen de fluctuaties van de grondwaterstand en/of stijghoogte snel optreden. Dit wordt bijvoorbeeld veroorzaakt door neerslag, invloed van getij, seizoenen en/of menselijk handelen. Van oudsher worden handpeilingen veelal met een frequentie van eens per 14 dagen uitgevoerd. Sinds de intrede van (druk)sensoren kan de waterstand in de monitoringbuis met een aanzienlijk hogere frequentie worden gemeten.
+
+De snelheid waarmee gegevens van grondwaterstanden beschikbaar komen hangt af van de toegepaste systemen. Voor een handpeiling is het duidelijk dat een veldbezoek noodzakelijk is, maar ook voor veel meetsystemen met een (druk)sensor is een veldbezoek noodzakelijk om de aan de (druk)sensor gekoppelde datalogger uit te lezen. Pas na het uitgevoerde veldbezoek komen dan de gegevens beschikbaar voor verdere verwerking.
+
+Steeds vaker worden systemen toegepast waarbij de datalogger gekoppeld is aan een modem, waarbij de gegevens direct aan de dataleverancier of bronhouder worden verstuurd. Dit gebeurt via een draadloos netwerk zoals het GSM- of het LoRa-netwerk. LoRa is een Long Range, Low Power verbinding speciaal ontwikkeld om kleine hoeveelheden informatie uit te wisselen tussen objecten en systemen. Deze wijze van beschikbaar komen van data wordt hieronder als telemetrie beschreven.
+
+### 1.3.2. Het proces
+
+Het proces waarin grondwaterstandonderzoeksgegevens in de praktijk ontstaan is schematisch weergegeven in de onderstaande figuur en wordt daaronder beschreven. Daarbij wordt benadrukt dat de precieze invulling van de processtappen in de praktijk vaak afhankelijk is van het gebruiksdoel en het toepassingsgebied van de monitoring. Het komt ook voor dat niet alle beschreven stappen worden doorlopen. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. In deze catalogus beschrijven we alleen de onderdelen meten, omrekenen, controleren, corrigeren en keuren. Het samenhangend geheel van de processtappen controleren, corrigeren en keuren wordt in dit document ook ‘beoordelen’ genoemd.
+
+### 1.4. WaterML
+
+De gegevensdefinitie van het grondwaterstandonderzoek, GLD, is gebaseerd op WaterML 2.0, een door het Open Geospatial Consortium (OGC) gepubliceerde internationale, open standaard over waterobservatiegegevens, met als doel de uitwisseling van dergelijke gegevens tussen informatiesystemen mogelijk te maken. De overheid hecht veel waarde aan en stimuleert het gebruik van open standaarden. WaterML maakt weer gebruik van andere, reeds bestaande OGC-standaarden waardoor het een interoperabel uitwisselingsformaat is. Er is voor WaterML 2.0 gekozen boven andere standaarden omdat in WaterML 2.0 reeksen van tijd-meetwaarde paren zijn gemodelleerd. In andere standaarden zijn dergelijke tijdreeksen niet gemodelleerd.
+
+In deze catalogus zijn de Engelse namen van entiteiten en attributen van WaterML vertaald naar het Nederlands waarbij in sommige gevallen de namen en de inhoud meer in detail zijn geformuleerd, gedefinieerd of afgebakend zonder dat dit strijdig is met WaterML. In de uitwisselingsberichten worden (noodzakelijkerwijs) de Engelstalige WaterML namen gebruikt.
+
+De in WaterML verplichte entiteiten en attributen zijn in de gegevensdefinitie van GLD opgenomen. Van de attributen die in WaterML optioneel zijn, zijn alleen diegene opgenomen die een hergebruikswaarde hebben voor de basisregistratie ondergrond. In sommige gevallen is in WaterML geen attribuut gedefinieerd voor een bepaald grondwaterstandgegeven dat in de basisregistratie ondergrond wel opgenomen moet worden. In die gevallen is gebruik gemaakt van een zogenoemde ‘parameter’ uit WaterML die het mogelijk maakt om extra gegevens op te nemen. In de gegevensdefinitie is het verschil tussen verplichte gegevens, optionele gegevens en parameters uit WaterML niet zichtbaar.
+
+De WaterML standaard bevat een aantal verplichte attributen die in de basisregistratie ondergrond een vaste waarde hebben of afleidbaar zijn. Ook deze attributen dienen door de bronhouder of dataleverancier aangeleverd te worden. Deze attributen worden niet afgeleid door de basisregistratie ondergrond. Dit garandeert namelijk dat op WaterML gebaseerde software van dataleveranciers, waarmee grondwaterstandonderzoeken worden aangeleverd, direct gebruikt kan worden, zonder dat deze aangepast moet worden.
+
+### 1.5. Belangrijkste entiteiten
+
+In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud van de belangrijkste entiteiten. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie in artikel 1. Als eerste wordt de hoofdentiteit beschreven, daarna de overige entiteiten.
+
+### 1.5.1. Grondwaterstandonderzoek
+
+Het registratieobject **Grondwaterstandonderzoek** bevat de, van een beoordelingsresultaat voorziene, tijd-meetwaardereeks(en) van de berekende waterstand in meter ten opzichte van NAP, in een bepaald filter van een grondwatermonitoringput. Uitgangspunt is dat een grondwaterstandonderzoek één **bronhouder** heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn.
+
+De gegevens van een grondwaterstandonderzoek ontstaan gedurende de ‘levensduur’ van het onderzoek, dat wil zeggen: gedurende de monitoringsperiode. Een belangrijk uitgangspunt voor dit registratieobject is dat er op min of meer vastomlijnde momenten (deel)gegevens geregistreerd worden als er daartoe ‘aanleidingen’ zijn. Voorbeelden van aanleidingen zijn: het starten van het grondwaterstandonderzoek, het beschikbaar komen van een uitgelezen tijd-meetwaardereeks die voorlopig of volledig is beoordeeld, het wijzigen van het type meetinstrument of de meetprocedure en het beëindigen van het grondwaterstandonderzoek. Het resultaat van een grondwaterstandonderzoek wordt dus niet in één keer geregistreerd, na beëindiging van het monitoren. De complete set van aanleidingen die zich voordoen gedurende de levensduur van het grondwaterstandonderzoek, en de daaruit af te leiden inhoud van berichten, zullen worden beschreven in de berichtencatalogus. In deze berichtencatalogus worden ook de mogelijke correctieberichten beschreven.
+
+Door het werkveld is de wens uitgesproken om (sets van) meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Afgesproken is daarnaast dat meetgegevens die via telemetrie beschikbaar komen niet frequenter dan dagelijks worden aangeleverd.
+
+De meetgegevens van een bepaalde periode zijn samen gebundeld in een observatie (zie de volgende paragraaf). Een grondwaterstandonderzoek wordt gedurende de levensduur steeds aangevuld met nieuwe observaties.
+
+Een grondwaterstandonderzoek kan ten behoeve van meer dan één monitoringdoel worden uitgevoerd. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) en het wettelijk kader waar dit doel uit volgt (kader aanlevering) geregistreerd. In het registratieobject grondwaterstandonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwaterstandonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO) is het doel en het wettelijk kader van het grondwaterstandonderzoek indirect geregistreerd. De verwijzing naar het **grondwatermonitoringnet** wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
+
+Bij een grondwaterstandonderzoek ligt de verwijzing vast naar de monitoringbuis waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO). De verwijzing wordt gemaakt op basis van het **BRO-ID** van de **grondwatermonitoringput** in combinatie met het **buisnummer** van de monitoringbuis waarin het grondwaterstandonderzoek is uitgevoerd. De diepte van het filter van de monitoringsbuis is geregistreerd via de verwijzing naar de monitoringbuis.
+
+Van elk grondwaterstandonderzoek wordt vastgelegd wat de datum is van de eerste meting (**datum eerste meting)** en wat de datum is van de meest recente meting (**datum recentste meting**) van het gehele onderzoek. Beide data worden door de basisregistratie ondergrond afgeleid uit de aangeleverde gegevens. Bij elke aanvullende levering van grondwaterstanden wordt door de basisregistratie ondergrond gecheckt of de **begindatum** van de **observatieperiode** van de aanvullende levering vόόr de geregistreerde datum eerste metingligt.Wanneer dat het geval is, wordt de **datum eerste meting** vervangen door de begindatum van de observatieperiode van de aanvullende levering. Wanneer dat niet het geval is, blijft de **datum eerste meting** ongewijzigd. Ook wordt bij elke aanvullende levering van grondwaterstanden door de basisregistratie ondergrond gecheckt of de **einddatum** van de **observatieperiode** van de aanvullende levering na de geregistreerde **datum recentste meting** ligt. Wanneer dat het geval is, wordt de **datum recentste meting** vervangen door de einddatum van de observatieperiode van de aanvullende levering.
+
+### 1.5.2. Observatie
+
+De entiteit observatie omvat het geheel van gegevens en kenmerken van de activiteiten die geleid hebben tot het bepalen van waterstanden in een bepaalde periode. De inhoud van de entiteit observatie wordt hieronder toegelicht. De observatie heeft als resultaat een reeks tijd-meetwaardeparen (**Tijdmeetwaardereeks**) van de waterstand. Het grondwaterstandonderzoek wordt in de loop der tijd aangevuld met observaties die elk een meetperiode, een **observatieperiode**, omvatten. Van elke observatie wordt een ID vastgelegd, het **observatie ID**. Dit is een door de bronhouder te bepalen ID dat de observatie uniek identificeert. Dit unieke ID kan bijvoorbeeld gebruikt worden om in een later stadium een correctie in de observatiegegevens te registreren. Met behulp van het observatie ID kan in dat geval geïdentificeerd worden welke observatie gecorrigeerd moet worden.
+
+Een bronhouder laat bijvoorbeeld eens per kwartaal de datalogger uitlezen. Omdat met het werkveld is afgesproken dat gegevens zo snel mogelijk, na een eventuele eerste beoordeling, in de basisregistratie ondergrond geregistreerd worden, zal de bronhouder de uitgelezen gegevens van één kwartaal als één observatie aanleveren aan de basisregistratie ondergrond. De bronhouder kan er ook voor kiezen de uitgelezen gegevens van een kwartaal op te knippen in bijvoorbeeld drie observaties van elk één maand. In het eerste geval overspant de observatie een periode en een reeks van tijd-meetwaardeparen van drie maanden. In het tweede geval overspant de observatie één maand aan gegevens. Een observatie kan later niet aangevuld worden met additionele tijd-meetwaardeparen. Een aanvullende levering van bijvoorbeeld het volgende kwartaal zal een nieuwe observatie zijn die de nieuwe meetgegevens bevat.
+
+Het observatie ID heeft een domein van het type tekst en mag maximaal 40 tekens bevatten. Dit geeft de bronhouder de mogelijkheid zelf een code of naam aan het ID te geven die herkenbaar is en/of past in de werkwijze van de bronhouder.
+
+Conform WaterML wordt het tijdsvenster waarin de meetwaarden zijn gedaan vastgelegd. Dit is de periode tussen de eerste en de laatste meting van de tijd-meetwaardereeks die het resultaat is van de observatie. Deze **observatieperiode** wordt gevormd door de begindatum en de einddatum van de tijd-meetwaardereeks. De bronhouder of dataleverancier kan deze data afleiden van het tijdstip van de eerste en de laatste meting uit de reeks.
+
+### .1.5.2.1 Metadata observatie
+
+Elke observatie heeft een aantal metadata gegevens, de **Metadata observatie**. Deze metadata bevat, conform WaterML, de datum waarop de metadata tot stand zijn gekomen: **datum metadata**. Deze datum wordt door de bronhouder of dataleverancier afgeleid van het gegeven **tijdstip resultaat** van de entiteit **Observatie**.
+
+Het **observatietype** beschrijft de reden van het plaatsvinden van de observatie. Hier worden twee typen onderscheiden namelijk de **reguliere meting** en de **controlemeting**. De **controlemeting** wordt uitgevoerd ter controle van een reeks van reguliere metingen met een hoge(re) frequentie. De controlemeting is veelal een handpeiling. Alle andere metingen betreffen reguliere metingen. De **reguliere meting** kan door zowel een sensor als handmatig worden gedaan. De reden van meten ligt bij reguliere metingen vast in het monitoringdoel, een attribuut van het grondwatermonitoringnet waarnaar wordt verwezen.
+
+Onderdeel van de metadata is verder de **mate beoordeling** waarbij de mate wordt vastgelegd waarin de reeks van tijd-meetwaarden, die het resultaat zijn van de observatie, zijn beoordeeld. Hier zijn twee beoordelingsniveaus gedefinieerd. Naast volledig beoordeelde tijd-meetwaardereeksen bestaat de mogelijkheid om nog niet volledig, of niet beoordeelde tijd-meetwaardereeksen te registreren in de basisregistratie ondergrond. Zowel bij niet beoordeelde reeksen als bij niet volledig beoordeelde reeksen wordt een mate beoordeling: **voorlopig** geregistreerd. Of al een voorlopige beoordeling heeft plaatsgevonden hangt af van de gebruikte **beoordelingsprocedure**. De belangrijkste reden voor het toevoegen van deze voorlopige tijd-meetwaardereeksen is de wens om meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Onder voorlopige tijd-meetwaardereeksen vallen bijvoorbeeld gegevens die (vrijwel) automatisch, uit telemetriesystemen aan het bronhouderportaal worden doorgezet, bijvoorbeeld binnen één of enkele dagen. Maar ook tijd-meetwaardereeksen waarbij, afhankelijk van de gevolgde beoordelingsprocedure, bijvoorbeeld na een jaar een volledige beoordeling plaats vindt, kunnen als voorlopige tijd-meetwaardereeksen al eerder in de basisregistratie ondergrond worden opgenomen, eventueel na een eerste, voorlopige beoordeling.
+
+Als een tijdreeks van een grondwaterstandonderzoek zowel voorlopig als volledig wordt beoordeeld dan worden zowel de voorlopig beoordeelde tijd-meetwaardereeks als ook volledig beoordeelde tijd-meetwaardereeks ‘naast elkaar’ in de basisregistratie ondergrond geregistreerd. Beide gegevenssets zijn daarmee beschikbaar voor de gebruiker.
+
+**C**ontrolemetingen dienen ter controle van de reguliere metingen. Het onderscheid in de mate van beoordeling is voor controlemetingen daarom niet, of minder van belang en wordt niet in de basisregistratie ondergrond opgenomen. Voor beide observatietypen dient het attribuut **status kwaliteitscontrole**(zie paragraaf Metadata tijdmeetwaardepaar) en het attribuut **beoordelingsprocedure** (zie paragraaf Observatieproces) wel aanwezig te zijn.
+
+De observatieperiode van een reguliere meting met een mate van beoordeling, volledig beoordeeld, mag niet overlappen met de observatieperiode van een andere observatie met hetzelfde observatietype en dezelfde mate van beoordeling. De observatieperiode van een reguliere, voorlopige tijd-meetwaardereeks mag eventueel wel overlappen met de observatieperiode van een andere reguliere, voorlopige tijd-meetwaardereeks. Bij een voorlopige tijd-meetwaardereeks kan het namelijk voorkomen dat de tijdsverschuiving van een niet, of niet goed functionerende klok nog niet is hersteld waardoor er overlap met de observatieperiode van een andere observatie kan voorkomen. Bij controlemetingen mag de observatieperiode van verschillende observaties eventueel ook overlappen.
+
+Het **tijdstip resultaat** van de entiteit **Observatie** is, conform WaterML, het tijdstip waarop het laatste proces is afgerond. Het betreft hier het laatste proces dat gebruikt is bij de totstandkoming van de waterstand in meter ten opzichte van NAP. In de praktijk wordt dit tijdstip veelal niet genoteerd. In de basisregistratie ondergrond wordt daarom bij het in WaterML verplichte attribuut **tijdstip resultaat** het volgende geregistreerd:
+
+De **uitvoerder** is de partij die voor de bronhouder geldt als verantwoordelijk voor de uitvoering van de waterstandmeting. In WaterML is het verplicht hier gegevens van een organisatie vast te leggen die bestaan uit een aantal verplichte attributen: de **organisatienaam** en de rol van deze organisatie in het grondwaterstandonderzoek. De rol ligt opgesloten in de naam van dit attribuut: uitvoerder. In GLD voegen we hier, ten opzicht van WaterML, de **identificatie** van de uitvoerder aan toe. De identificatie wordt, zoals bij andere registratieobjecten in de basisregistratie ondergrond, vastgelegd middels het KvK-nummer van de onderneming of de maatschappelijke activiteit, of het equivalent van het KvK-nummer in een handelsregister van een andere lidstaat van de Europese Unie dan Nederland.
+
+### .1.5.2.2 Gerelateerde observaties
+
+Een observatie die resulteert in een volledig beoordeelde tijd-meetwaardereeks is (vaak) gebaseerd op één of meer eerder geregistreerde observaties, namelijk de observatie(s) met een voorlopige tijd-meetwaardereeks waarop de observatie is gebaseerd en/of één of meer observaties met een controlemeting die gebruikt zijn tijdens de beoordeling. Bij een observatie met een volledig beoordeelde tijd-meetwaardereeks moet in dat geval geregistreerd worden dat de observatie **gerelateerd is aan** één of meer andere observaties indien deze gerelateerde observaties aanwezig zijn.
+
+Het kan echter in de praktijk ook voorkomen dat de voorlopig beoordeelde observatie(s) ontbreken. Ook controlemetingen die normaal gesproken gebruikt worden bij de beoordeling kunnen ontbreken. In deze gevallen kunnen **gerelateerde observaties** ontbreken.
+
+Ook bij een observatie die resulteert in een voorlopige tijd-meetwaardereeks kan gebruik gemaakt zijn van één of meer observaties met een controlemeting. Dit kan bijvoorbeeld het geval zijn bij gegevens die zijn uitgelezen uit een datalogger en die een voorlopige beoordeling hebben ondergaan. In dat geval wordt de observaties met een voorlopige tijd-meetwaardereeks gerelateerd aan één of meer observaties met een controlemeting. Indien de controlemetingen ontbreken, worden geen gerelateerde observaties geregistreerd bij een voorlopig beoordeelde observatie.
+
+Observaties die resulteren in een controlemeting zijn zelfstandige waarnemingen en worden niet gerelateerd aan andere observaties.
+
+Bij het registreren van gerelateerde observaties wordt gebruik gemaakt van het observatie ID van deze gerelateerde observaties. Bij de aanlevering zal een check uitgevoerd worden of de aangeleverde observatie ID(s) bij het betreffende grondwaterstandonderzoek in de LV-BRO bekend zijn als observatie ID(s).
+
+### 1.5.3. Observatieproces
+
+In het **observatieproces** worden de kenmerken van de processen die resulteren in de uiteindelijke meetwaarden vastgelegd. Onderdeel van het observatieproces is het **observatieproces ID**. Dit is een door de bronhouder of dataleverancier te bepalen tekst van maximaal 40 karakters die de kenmerken van een observatieproces uniek identificeren. Binnen het registratieobject moet dit ID uniek zijn. Het observatieproces ID kan bijvoorbeeld gebruikt worden bij aanvullende leveringen van een Grondwaterstandonderzoek: Wanneer een observatie wordt aangeleverd die dezelfde observatieproceskenmerken heeft als een observatie die al geregistreerd is, kan de bronhouder/ dataleverancier ervoor kiezen om niet alle observatieproceskenmerken opnieuw aan te leveren maar in plaats daarvan te verwijzen naar het reeds geregistreerde observatieproces door alleen het observatieproces ID van het reeds geregistreerde observatieproces aan te leveren. De overige observatieproceskenmerken hoeven in dit geval niet opnieuw aangeleverd te worden.
+
+De **meetprocedure** is onderdeel van het observatieproces. Het betreft de procedure of het werkvoorschrift dat gehanteerd is bij de observatie voor de grondwatermonitoring. In deze procedure staan de afspraken waaronder de observatie is uitgevoerd. De procedures zijn opgesomd in een waardelijst.
+
+Het type meetinstrument beschrijft het meetinstrument waarmee de metingen in de monitoringbuis zijn uitgevoerd. In het geval van sensoren betreft het hier het type sensor. Wanneer een apparaat uit meerdere sensoren bestaat, wordt het type sensor bedoeld, niet het apparaat.
+
+Bij het **type meetinstrument**: druksensor, zijn er globaal twee typen te onderscheiden, de relatieve druksensor en de absolute druksensor. Een relatieve druksensor meet de waterdruk met één enkele sensor. De invloed van de luchtdruk wordt door middel van een capillair in de kabel genivelleerd. Bij dit type druksensor wordt bij **type luchtdrukcompensatie** geregistreerd: **capillair**.
+
+Bij een absolute druksensor zijn voor het bepalen van uitsluitend de waterdruk twee sensoren noodzakelijk. De absolute druksensor meet de som van de waterdruk en de luchtdruk. Voor luchtdruk moet rekenkundig gecompenseerd worden. Dit betekent dat naast de absolute druksensor een sensor noodzakelijk is die de luchtdruk meet. Er zijn verschillende manieren waarop de rekenkundige gecompenseerd wordt. Dit wordt vastgelegd bij het attribuut **type luchtdrukcompensatie**. In sommige gevallen zijn de sensor die de absolute druk meet en de sensor die de luchtdruk meet geïntegreerd in één apparaat. In dit geval wordt de rekenkundige compensatie soms al in het apparaat gedaan. Het **type luchtdrukcompensatie** betreft dan: **putlocatiemeting**.
+
+Het **procestype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het procestype geeft aan wat het laatste type proces is dat is uitgevoerd voor de bepaling van het eindresultaat. WaterML heeft een vaste waardelijst voor het procestype: simulatie, handmatige methode, sensor, algoritme en onbekend. Op dit moment wordt in het grondwaterstandonderzoek alleen de waterstand in meter ten opzichte van NAP vastgelegd en geen ruwe meetwaarden. De bepaling van de waterstand ten opzichte van NAP is altijd een berekening. Daarom wordt hier een vaste waarde ingevuld: algoritme. Indien in de toekomst ook ruwe metingen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+De individuele tijd-meetwaardeparen van de reguliere metingen worden onder andere beoordeeld aan de hand van de controlemetingen. Hoe dit proces van beoordelen van de kwaliteit van de tijd-meetwaardeparen verloopt, is beschreven in een werkvoorschrift of procedure, de **beoordelingsprocedure**. Bij het moment van vaststellen van versie 1.0 van de catalogus is er een aantal procedures beschreven en beschikbaar. Voor de partijen die deze procedures niet gebruiken maar op een andere, niet beschreven wijze beoordelen, is er de mogelijkheid om aan te geven dat beoordeeld is op basis van het oordeel van een deskundige. Omdat het voor een gebruiker waardevol is om te weten op welke wijze er is beoordeeld, is het is de bedoeling dat de waardelijst van beoordelingsprocedures wordt aangevuld ten behoeve van volgende versies van de catalogus.
+
+### 1.5.4. Tijdmeetwaardereeks
+
+Tijd-meetwaardeparen worden gegroepeerd in een **Tijdmeetwaardereeks**. Eén observatie leidt tot één tijd-meetwaardereeks, waarbij alle tijd-meetwaardeparen in de reeks dezelfde observatie-eigenschappen hebben. Het is ook mogelijk dat de tijd-meetwaardereeks uit één tijd-meetwaardepaar bestaat. Het is waarschijnlijk dat dit bijvoorbeeld bij controlemetingen het geval zal zijn.
+
+Van elke tijd-meetwaardereeks wordt een ID vastgelegd, het **tijdmeetwaardereeks ID**. Dit is een door de bronhouder te bepalen ID dat de tijd-meetwaardereeks uniek identificeert. Binnen het registratieobject moet dit ID uniek zijn.
+
+De tijd-meetwaardeparen in de reeks moeten in oplopende chronologische volgorde in de reeks worden geplaatst.
+
+### 1.5.5. Tijdmeetwaardepaar
+
+Het **Tijdmeetwaardepaar** bevat het tijdstip waarop is gemeten: het **tijdstip meting**, in combinatie met de waterstand in meter ten opzichte van NAP zoals berekend uit een meting in een monitoringbuis van een grondwatermonitoringput: de **waterstand**.
+
+### .1.5.5.1 Metadata tijdmeetwaardepaar
+
+Elk tijd-meetwaardepaar heeft een aantal metadata gegevens, **Metadata tijdmeetwaardepaar**. Deze metadata bevat onder andere het eindresultaat van de beoordeling zoals uitgevoerd conform de beoordelingsprocedure. Deze **statuskwaliteitscontrole** geeft het eindoordeel van de bronhouder over de kwaliteit van een individuele meting. Niet alleen bij een volledig beoordeelde observatie maar ook bij observaties van het observatietype controlemeting en observaties met een mate van beoordeling voorlopig, is de statuskwaliteitscontrole aanwezig. In de beoordelingsprocedure is opgenomen welke controles en beoordeling er voor elk observatietype en voor elke mate van beoordeling wordt uitgevoerd. Alleen in het geval de observatie het observatietype reguliere meting heeft en een mate beoordeling: voorlopig, is het mogelijk om bij de status kwaliteitscontrole **nogNietBeoordeeld** te registreren. Dit kan bijvoorbeeld het geval zijn bij gegevens die via telemetrie zijn verkregen en die zonder beoordeeld te zijn, worden geregistreerd in de basisregistratie ondergrond.
+
+In WaterML is een attribuut (quality) met een waardelijst (DataQualityCode) gedefinieerd voor de kwaliteit van de resultaten. Voor het grondwaterstandonderzoek is er echter voor gekozen om dit attribuut met waardelijst niet te gebruiken. In plaats daarvan is een eigen parameter met een eigen codelijst opgesteld, de **statuskwaliteitscontrole**. De reden hiervan is dat er voor het grondwaterstandonderzoek en het grondwaterkwaliteitsonderzoek een uitgebreide analyse is gedaan naar de mogelijke kwaliteit van de resultaten. Dit heeft geresulteerd in een waardelijst voor de status kwaliteitscontrole die geldt voor zowel het grondwaterkwaliteitsonderzoek als het grondwaterstandonderzoek. De waarden en de definities van de waarden op deze waardelijst komen niet geheel overeen en zijn in sommige gevallen niet één-op-één te vertalen in de waarden op de waardelijst van WaterML.
+
+Een waarde (van de waterstand) die buiten het meetbereik van de meetopstelling valt, betreft een gecensureerde waarde. De term gecensureerde waarde heeft in de statistiek een specifieke betekenis. Het geeft aan dat de waarde van een variabele niet exact bekend is of niet exact bepaald kon worden, maar dat wel duidelijk is dat deze zich boven of juist beneden een bepaalde limiet bevindt. Bij een grondwaterstandonderzoek is dit bijvoorbeeld het geval bij een drooggevallen sensor: de waarde van de waterstand kan niet exact worden gegeven maar wel is duidelijk dat de waterstand zich onder het niveau van de inhangdiepte van de sensor bevindt.
+
+Het attribuut **waterstand** heeft in het geval van een gecensureerde meting geen waarde. Metingen die buiten het meetbereik vallen geven desondanks een waardevol inzicht in de situatie van het grondwater ter plaatse van de monitoringbuis. Daarom zijn in de metadata van het tijd-meetwaardepaar de attributen **censuurreden** en **censuurlimietwaarde** opgenomen. Wanneer de waterstand geen waarde heeft, moeten deze attributen gevuld zijn. De **censuurreden** blijft beperkt tot **kleiner dan limietwaarde** of **groter dan limietwaarde**. Het niveau van de limietwaarde die over- of onderschreden wordt, wordt als **censuurlimietwaarde** opgenomen. Hieronder zijn een aantal voorbeelden gepresenteerd, waarin sprake is van gecensureerde waarden. Daarnaast zijn in figuur 5 een tweetal situaties weergegeven van gecensureerde metingen.
+
+In het linkerdeel van bovenstaande figuur is het verloop in de tijd van de grondwaterstand/stijghoogte aangegeven zoals in de ondergrond op kan treden. De grondwaterstand/stijghoogte in de ondergrond zal zich niet laten reguleren door de meetopstelling, waarbij de meetopstelling in dit geval de combinatie van de monitoringbuis en de druksensor betreft. Het rechter deel van de figuur geeft de tijd-meetwaardereeks weer van de waterstand in de monitoringbuis. Waterstanden in de monitoringbuis onder het niveau van de druksensor kunnen niet worden gemeten. In dat geval is de censuurreden: **kleiner dan limietwaarde** en de censuurlimietwaarde is het niveau van de sensor in meter ten opzichte van NAP.
+
+Bij waterstanden in de monitoringbuis hoger dan de bovenkant van de buis zal de monitoringbuis overlopen. Ervan uitgaande dat geen drukdop of kweldop is toegepast, kunnen hogere waterstanden dan bovenkantbuis niet worden gemeten. In dat geval is de censuurreden **groter dan limietwaarde** en de censuurlimietwaarde is het niveau van bovenkantbuis van de monitoringbuis in meter ten opzichte van NAP.
+
+In het geval dat de waterstand in de monitoringbuis wordt gemeten door middel van handpeilingen (met een meetlint of ander handapparaat), worden gecensureerde metingen veroorzaakt door monitoringbuis gerelateerde aspecten. Dit betreffen bovenkant monitoringsbuis (zie ook figuur 5) en droogval van het filter van de monitoringsbuis: als het grondwaterniveau lager is dan de onderkant van het geperforeerde deel van de monitoringbuis. In dat geval is de censuurreden: **kleiner dan limietwaarde** en het niveau van de onderkant van het filter is de censuurlimietwaarde.
+
+Bij druksensormetingen gelden aanvullende censuurredenen die samenhangen met het meetbereik van de druksensor. Het sensormaximum kan bijvoorbeeld worden overschreden. Dit doet zich voor wanneer het sensormaximum kleiner is dan bovenkantbuis óf de monitoringbuis aan de bovenkant afgesloten is door een drukdop of kweldop. De censuurreden is: **groter dan limietwaarde** en het niveau van het sensormaximum is de censuurlimietwaarde. Zoals hierboven reeds genoemd, kan het ook voorkomen dat een druksensor is drooggevallen.
+
+Er is een aantal complicerende factoren waar de dataleverancier of bronhouder alert op dient te zijn. Hieronder worden er een aantal genoemd.
+
+In de praktijk kan er sprake zijn van een combinatie van oorzaken van gecensureerde metingen, namelijk monitoringbuis gerelateerde en sensor gerelateerde oorzaken. Bijvoorbeeld kan zowel het filter als de sensor zijn drooggevallen.
+
+Bij een drooggevallen filter bestaat het risico dat wel een waterstand in de monitoringbuis wordt gemeten, dit kan stagnerend water in een zandvang zijn. Om dit aspect te onderkennen, moeten de metingen en de filterstelling beide worden beschouwd.
+
+Zoals eerder genoemd, bestaan er twee typen druksensoren, namelijk relatieve druksensoren en absolute druksensoren. Ten aanzien van gecensureerde metingen is er een duidelijk verschil tussen beide type sensoren. Het maximale drukbereik van relatieve druksensoren komt overeen met een vaste maximale waterdruk en daarmee een vaste maximale waterstand. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten een constant niveau is. Dit niveau hangt alleen nog af van het niveau (nulpunt) van de druksensor. De absolute druksensor meet de som van lucht- en waterdruk. Hierdoor is de maximale meting van de waterdruk afhankelijk is van de heersende luchtdruk op dat moment. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten geen constant niveau is.
+
+De uiterste grenzen (de censuurlimietwaarden) zijn afhankelijk van de specificaties van de gebruikte sensor. Benadrukt wordt dat deze grenzen niet alleen van toepassing zijn voor druksensoren, maar voor type sensoren zoals de akoestische- en de radarsensor. Van belang is dat gebruiker van sensoren zich hiervan bewust is.
+
+Het **interpolatietype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het interpolatietype geeft aan wat de aard is van de relatie tussen het tijdstip en de meetwaarde. Deze relatie en de wijze van interpoleren kan bijvoorbeeld voor visualisatie en/of aggregatie van belang zijn. WaterML heeft een vaste waardelijst voor het interpolatietype. Het kan bijvoorbeeld het maximum of het minimum of het gemiddelde zijn over het gemeten interval. We leggen in de basisregistratie ondergrond de feitelijke waarnemingen vast en daarom wordt hier de vaste waarde: **discontinu** ingevuld. Het is aan de gebruiker te beoordelen of en hoe hij de meetwaarden eventueel wil interpoleren of aggregeren. Indien in de toekomst ook andere metingen met andere interpolatietypen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+### 1.6. Impact kwaliteitsregime IMBRO/A
+
+In het verleden waren de werkprocessen en middelen rond het grondwaterwaterstandonderzoek anders dan ze nu zijn. Bij de aanlevering van historische gegevens wordt geaccepteerd dat een aantal formeel verplichte gegevens geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd en dat kent minder strikte regels. Het betreft authentieke gegevens waarvan de betrouwbaarheid en herkomst eenduidig moet zijn. Daarom is de samenhang tussen de attributen **mate beoordeling**, de **beoordelingsprocedure** en de **status kwaliteitscontrole** bij IMBRO/A gegevens hetzelfde als bij IMBRO gegevens.
+
+Wanneer bij historische gegevens onduidelijk is of de tijd-meetwaardereeks is beoordeeld, krijgen deze gegevens een mate beoordeling waarde ‘onbekend’. In dit geval is het tevens onbekend welke beoordelingsprocedure er is gebruikt. De status kwaliteitscontrole zal in dit geval ook ‘onbekend’ moeten zijn.
+
+Het is mogelijk dat een bronhouder weet dat zijn historische gegevens destijds beoordeeld zijn en hoewel er niet per tijd-meetwaardepaar een uitkomst van de beoordeling is opgeslagen, weet de bronhouder dat de gegevens destijds zijn goedgekeurd, bijvoorbeeld omdat ze anders niet in het gegevensbeheersysteem waren opgeslagen. De bronhouder geeft in dit geval aan dat de mate beoordeling ’volledig beoordeeld’ is. Afhankelijk van wat de bronhouder nog weet van de beoordelingsprocedure kan hij aangeven dat de beoordelingsprocedure ‘oordeel deskundige’ is, maar ook ‘onbekend’ is mogelijk. Daarnaast geeft de bronhouder in dit geval aan dat de tijd-meetwaardeparen een status kwaliteit controle ‘goedgekeurd’ hebben. Wanneer de bronhouder onzeker is over de uitkomst van de beoordeling van destijds, kan hij ook aangeven dat de status kwaliteitscontrole ‘onbekend’ is. Het **tijdstip resultaat** wordt bij een volledig beoordeelde meetreeks gedefinieerd als het tijdstip waarop de beoordeling is afgerond. In dit geval gaat het om de beoordeling van destijds en kan, afhankelijk van de beschikbaarheid van dit gegeven, een voor IMBRO/A geldende **OnvolledigeDatum** worden ingevuld.
+
+Het kan ook voorkomen dat historische gegevens voorafgaand aan registratie in de basisregistratie ondergrond nog in retroperspectief worden beoordeeld met het doel de tijd-meetwaardeparen een status kwaliteitscontrole te geven. In dit geval heeft dat ook consequenties voor de mate beoordeling, die wordt daarmee volledig beoordeeld. Het is mogelijk dat geen ‘huidige’ beoordelingsprocedure gevolgd kan worden maar dat er een alternatieve beoordeling van deze historische gegevens zal plaats vinden. Er dient in dat geval te worden gekozen voor ‘oordeel deskundige’. Het **tijdstip resultaat** is in dit geval het tijdstip waarop de beoordeling die achteraf wordt gedaan, is afgerond.
+
+### 1.7. Hiërarchie in gebruiksplicht
+
+Er worden in het grondwaterstandonderzoek verschillende stadia van de gegevens over de waterstand vastgelegd. Op dit moment zijn dat volledig beoordeelde gegevens en voorlopige gegevens. Dit betekent dat er van een meting op een bepaalde datum, op een bepaald tijdstip verschillende meetwaarden geregistreerd kunnen zijn in de basisregistratie ondergrond, een voorlopige meetwaarde en een volledig beoordeelde meetwaarde. De volledig beoordeelde meetwaarde heeft alle in het beoordelingsprocedure vermelde controles ondergaan en is daardoor, in samenhang met het attribuut status kwaliteitscontrole, betrouwbaarder dan de voorlopige meetwaarde die geen of niet alle controles heeft ondergaan. De hiërarchie van de juridische gebruiksplicht is daarom als volgt:
+
+### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2,Domein grondwatermonitoring in de BRO. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2,Domein grondwatermonitoring in de BRO):
+
+Daarnaast wordt op het volgende punt consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.9. INSPIRE
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject grondwaterstandonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject grondwaterstandonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
