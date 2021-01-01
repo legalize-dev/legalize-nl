@@ -4,7 +4,7 @@ identifier: "BWBR0009398"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009398"
 soort: "AMvB"
@@ -162,7 +162,7 @@ Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen b
 
 ##### Artikel 10
 
-1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01).
+1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2021-01-01&g=2021-01-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=70) en [71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71) zijn van overeenkomstige toepassing.
 
@@ -306,129 +306,61 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 23
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2020-01-01&g=2020-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-01-01&g=2021-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
-### Hoofdstuk 6. Geestelijke verzorging
+### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
 
 ##### Artikel 24
 
-Aan een inrichting zijn geestelijke verzorgers van verschillende godsdiensten of levensovertuigingen verbonden, doch in elk geval geestelijke verzorgers van protestantse en rooms-katholieke gezindte en geestelijke verzorgers behorend tot het humanistisch verbond.
+1. Bij het Ministerie van Justitie en Veiligheid zijn een hoofd boeddhistische geestelijke verzorging, een hoofd hindoeïstische geestelijke verzorging, een hoofd islamitische geestelijke verzorging, een hoofdrabbijn, een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
+
+2. De hoofden zijn in ieder geval belast met het doen van voordrachten voor aanstelling van geestelijk verzorgers behorende tot hun gezindte of levensovertuiging.
 
 ##### Artikel 25
 
-1. Bij het Ministerie van Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistisch geestelijke verzorging in dienst. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
-
-2. De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor indienstneming van geestelijke verzorgers behorende tot hun gezindte of levensovertuiging.
+Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of levensovertuigingen verbonden, doch in elk geval geestelijk verzorgers van boeddhistische, hindoeïstische, islamitische, joodse, protestantse en rooms-katholieke gezindte en geestelijk verzorgers van het humanistisch verbond.
 
 ##### Artikel 26
 
-De indienstneming van een geestelijke verzorger van protestantse of rooms-katholieke gezindte of een geestelijke verzorger behorend tot het humanistisch verbond bij een inrichting geschiedt door of vanwege Onze Minister op verzoek van de betrokken hoofdgeestelijke, genoemd in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2020-01-01&g=2020-01-01).
+De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 27
 
-1. Een geestelijke verzorger van een andere dan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2020-01-01&g=2020-01-01) genoemde gezindte of levensovertuiging kan door de directeur aan een inrichting worden verbonden anders dan bij wijze van een indienstneming. De directeur neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijke verzorgers.
-
-2. Onze Minister kan functievereisten vaststellen ten aanzien van geestelijke verzorgers als bedoeld in de eerste volzin van het eerste lid.
-
-3. Een geestelijke verzorger die aan de inrichting is verbonden anders dan bij wijze van indienstneming, ontvangt een bij regeling van Onze Minister vast te stellen vergoeding voor zijn werkzaamheden en de door hem gemaakte kosten.
+Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2021-01-01&g=2021-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### Hoofdstuk 7. Beroep tegen medisch handelen
 
 ##### Artikel 28
 
-1. Een gedetineerde kan een beroepschrift indienen tegen het medisch handelen van de inrichtingsarts. Met de inrichtingsarts wordt in dit hoofdstuk gelijkgesteld de verpleegkundige dan wel andere hulpverleners die door de inrichtingsarts bij de zorg aan gedetineerden zijn betrokken.
-
-2. Onder medisch handelen als bedoeld in het eerste lid wordt verstaan:
-
-- a. enig handelen in het kader van of nalaten in strijd met de zorg die de in het eerste lid bedoelde personen in die hoedanigheid behoren te betrachten ten opzichte van de gedetineerde, met betrekking tot wiens gezondheidstoestand zij bijstand verlenen of hun bijstand is ingeroepen;
-
-- b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in strijd met het belang van een goede uitoefening van de individuele gezondheidszorg.
+Vervallen
 
 ##### Artikel 29
 
-1. Alvorens een beroepschrift in te dienen doet de gedetineerde een schriftelijk verzoek aan de Medisch Adviseur bij het Ministerie van Justitie om te bemiddelen terzake van de klacht. Dit verzoek dient uiterlijk op de veertiende dag na die waarop het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden te worden ingediend.
-
-2. De Medisch Adviseur stelt de betrokkene in de gelegenheid de klacht schriftelijk of mondeling toe te lichten, tenzij hij het aanstonds duidelijk acht dat de klacht zich niet voor bemiddeling leent. Hij kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen.
-
-3. De Medisch Adviseur is ten behoeve van de bemiddeling bevoegd het medisch dossier van de gedetineerde in te zien.
-
-4. De Medisch Adviseur streeft ernaar binnen vier weken een voor beide partijen aanvaardbare oplossing te bereiken.
-
-5. De Medisch Adviseur sluit de bemiddeling af met een mededeling van zijn bevindingen aan de gedetineerde en de arts. De gedetineerde wordt gewezen op de mogelijkheid van het indienen van een beroepschrift alsmede de termijn waarbinnen en de wijze waarop dit gedaan moet worden.
-
-6. Een afschrift van de mededeling zendt de Medisch Adviseur aan de directeur van de inrichting waaraan de arts tegen wiens medisch handelen de klacht zich richt is verbonden.
-
-7. De Medisch Adviseur is bevoegd een klacht door te verwijzen naar de beklagcommissie. Hij zendt van de doorverwijzing van een klacht een bericht aan de klager.
+Vervallen
 
 ##### Artikel 30
 
-1. Het beroepschrift wordt ingediend bij en behandeld door een door de Raad voor Strafrechtstoepassing en Jeugdbescherming benoemde commissie van drie leden, bestaande uit één jurist en twee artsen, die wordt bijgestaan door een secretaris.
-
-2. Het met redenen omklede beroepschrift wordt uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de mededeling van de Medisch Adviseur ingediend. De directeur draagt zorg dat een gedetineerde die beroep wenst in te stellen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
-
-3. De indiening van het beroepschrift kan door tussenkomst van de directeur van de inrichting waar de gedetineerde verblijft geschieden. De directeur draagt in dat geval zorg dat het beroepschrift, of, indien het beroepschrift zich in een envelop bevindt, de envelop, van een dagtekening wordt voorzien, welke geldt als dag van indiening.
-
-4. Het beroepschrift vermeldt zo nauwkeurig mogelijk het medisch handelen waarover wordt geklaagd en de redenen van het beroep.
-
-5. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
+Vervallen
 
 ##### Artikel 31
 
-1. De beroepscommissie en de secretaris zijn ten behoeve van de behandeling van het beroepschrift bevoegd het medisch dossier van de klager in te zien.
-
-2. De behandeling van het beroepschrift vindt niet in het openbaar plaats, behoudens ingeval de beroepscommissie van oordeel is dat de niet openbare behandeling niet verenigbaar is met enige een ieder verbindende bepaling van een in Nederland geldend verdrag.
-
-3. De secretaris van de beroepscommissie zendt de arts een afschrift van het beroepschrift toe en vraagt het verslag van de bemiddeling op bij de Medisch Adviseur.
-
-4. De beroepscommissie stelt de klager en de arts in de gelegenheid omtrent het beroepschrift mondeling of schriftelijk opmerkingen te maken, tenzij zij het beroep aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht. De beroepscommissie kan bepalen dat de mondelinge opmerkingen ten overstaan van een lid van de commissie, bedoeld in het derde lid, kunnen worden gemaakt.
-
-5. De klager en de arts kunnen de voorzitter van de beroepscommissie de vragen opgeven die zij aan elkaar gesteld wensen te zien.
-
-6. De beroepscommissie kan de arts en de klager buiten elkaars aanwezigheid horen. In dat geval worden zij in de gelegenheid gesteld vooraf de vragen op te geven die zij gesteld wensen te zien en wordt de zakelijke inhoud van de aldus afgelegde verklaring door de voorzitter van de beroepscommissie aan de klager onderscheidenlijk de arts mondeling medegedeeld.
-
-7. De beroepscommissie kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen. Indien mondeling inlichtingen worden ingewonnen, zijn het vijfde en zesde lid, tweede volzin, van overeenkomstige toepassing. De beroepscommissie kan bepalen dat ingeval bij een andere persoon mondeling inlichtingen worden ingewonnen, de betrokkenen uitsluitend in de gelegenheid worden gesteld schriftelijk de vragen op te geven die zij aan die persoon gesteld wensen te zien.
-
-8. De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens regelen te stellen bij algemene maatregel van bestuur.
-
-9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
-
-10. Tijdens de beroepsprocedure staat de beroepscommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
+Vervallen
 
 ##### Artikel 32
 
-1. De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de arts wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.
-
-2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
-
-3. De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 33
 
-1. De uitspraak van de beroepscommissie strekt tot gehele of gedeeltelijke:
-
-- a. niet-ontvankelijkverklaring van het beroep;
-
-- b. ongegrondverklaring van het beroep;
-
-- c. gegrondverklaring van het beroep.
-
-2. Indien de klacht door de beroepscommissie geheel of gedeeltelijk gegrond wordt geacht bepaalt de beroepscommissie of enige tegemoetkoming aan de klager geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
+Vervallen
 
 ##### Artikel 34
 
-1. De in de [artikelen 28 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7&artikel=28&z=2020-01-01&g=2020-01-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
+Vervallen
 
-- a. de curator, indien de gedetineerde onder curatele is gesteld;
-
-- b. de mentor, indien ten behoeve van de gedetineerde een mentorschap is ingesteld;
-
-- c. de ouders of voogd, indien de gedetineerde minderjarig is.
-
-2. De directeur draagt zorg dat de in het eerste lid genoemde personen op deze rechten opmerkzaam worden gemaakt.
-
-### Hoofdstuk 8. Dossiers
+### Hoofdstuk 5a. Toezicht op telefoongesprekken
 
 ##### Artikel 35
 
@@ -444,7 +376,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - c. registratiekaarten;
 
-- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2020-01-01&g=2020-01-01) genoemde bescheiden, gerangschikt per inrichting.
+- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-01-01&g=2021-01-01) genoemde bescheiden, gerangschikt per inrichting.
 
 2. Het dossier wordt in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -498,7 +430,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien een gedetineerde wordt overgebracht naar een instelling voor de verlening van forensische zorg, als bedoeld in [artikel 1.1, eerste lid, onder f, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), zendt de directeur de voor een goede en veilige verlening van de forensische zorg noodzakelijk geachte bescheiden daaruit aan het hoofd of de geneesheer-directeur van die instelling.
 
-4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01).
+4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01).
 
 5. Bij invrijheidstelling, ontvluchting of overlijden van een gedetineerde zendt de directeur het penitentiair dossier naar Onze Minister.
 
@@ -510,11 +442,11 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien de gedetineerde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw wordt gedetineerd vervalt de bewaartermijn.
 
-4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2020-01-01&g=2020-01-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
+4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-01-01&g=2021-01-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
 
 ##### Artikel 40
 
-1. De directeur kan, in geval van weigering van inzage door de gedetineerde van diens dossier op een van de gronden van [artikel 41 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=41), een door de gedetineerde gemachtigd lid van de commissie van toezicht doen kennis nemen van de gegevens waarvan de kennisneming aan de gedetineerde onthouden wordt. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=57) en [58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=58) zijn van overeenkomstige toepassing.
+1. De directeur kan, in geval van weigering van inzage door de gedetineerde van diens dossier op een van de gronden van [artikel 21, tweede lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=21), een door de gedetineerde gemachtigd lid van de commissie van toezicht doen kennis nemen van de gegevens waarvan de kennisneming aan de gedetineerde onthouden wordt. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=57) en [58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=58) zijn van overeenkomstige toepassing.
 
 2. Aan Onze Minister en de door deze aan te wijzen ambtenaren of medewerkers kunnen gegevens uit het dossier worden verstrekt voor zover dat noodzakelijk is voor:
 
@@ -528,7 +460,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 Hetzelfde geldt voor de selectiefunctionaris, de directeur en de door hen aangewezen ambtenaren of medewerkers.
 
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
+### Hoofdstuk 7. Beroep tegen medisch handelen
 
 ##### Artikel 41
 
@@ -570,7 +502,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 44c
 
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2020-01-01&g=2020-01-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
+[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2021-01-01&g=2021-01-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
 
 ##### Artikel 44d
 
@@ -602,7 +534,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het verblijfsplan bestrijkt de wijze van tenuitvoerlegging van de maatregel. Het plan wordt in zijn geheel of in gedeelten vastgesteld door de directeur. Het verblijfsplan voor de laatste fase van de maatregel buiten de inrichting wordt vastgesteld door de directeur en het college van burgemeester en wethouders.
 
-2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2020-01-01&g=2020-01-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
+2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2021-01-01&g=2021-01-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
 
 ##### Artikel 44h
 
@@ -610,7 +542,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 
-3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
+3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 44i
 
@@ -626,7 +558,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. de voorwaarden die zijn verbonden aan deelneming aan het programma, de afspraken met betrokkene over deelneming daaraan en de gevolgen van het niet nakomen van die afspraken;
 
-- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2020-01-01&g=2020-01-01).
+- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2021-01-01&g=2021-01-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde afspraken houden in ieder geval in dat betrokkene zich schriftelijk bereid verklaart deel te nemen aan het programma en te voldoen aan de daaraan verbonden voorwaarden.
 
@@ -704,7 +636,7 @@ De trajectcoördinator heeft tot taak:
 
 ##### Artikel 44n
 
-1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2020-01-01&g=2020-01-01), bedoelde voorwaarden kan de directeur beslissen tot:
+1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2021-01-01&g=2021-01-01), bedoelde voorwaarden kan de directeur beslissen tot:
 
 - a. het geven van een waarschuwing aan betrokkene;
 
@@ -718,11 +650,11 @@ Van de overtreding van de voorwaarden en een beslissing als bedoeld in het eerst
 
 ##### Artikel 44o
 
-De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
+De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2021-01-01&g=2021-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2021-01-01&g=2021-01-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
 
 ##### Artikel 44p
 
-1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2020-01-01&g=2020-01-01).
+1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2021-01-01&g=2021-01-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), en [68 tot en met 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68) zijn van overeenkomstige toepassing.
 
@@ -844,7 +776,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
 
-### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
+### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
 
 ### Hoofdstuk 5a. Toezicht op telefoongesprekken
 
@@ -862,7 +794,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 12. Wijziging andere regelgeving
 
-### Hoofdstuk 13. Slotbepalingen
+### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -926,7 +858,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. of er overeenstemming over het geneeskundig behandelingsplan is.
 
-2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), betrokken.
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), betrokken.
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
@@ -950,7 +882,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 22d
 
@@ -984,7 +916,7 @@ De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de
 
 ##### Artikel 22f
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2020-01-01&g=2020-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2020-01-01&g=2020-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-01-01&g=2021-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2021-01-01&g=2021-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
 
 ##### Artikel 22g
 
@@ -1007,6 +939,38 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 ### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
 
 ### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
+
+### Hoofdstuk 13. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 20a
+
+1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 18e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18e), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
+
+2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2021-01-01&g=2021-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2021-01-01&g=2021-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2021-01-01&g=2021-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2021-01-01&g=2021-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
+
+3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+
+##### Artikel 20b
+
+1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
+
+2. De leden van de commissie van toezicht ontvangen van Onze Minister en de directeur van de inrichting alle door hen gewenste inlichtingen ten aanzien van het vervoer van gedetineerden en kunnen alle op het vervoer betreffende stukken inzien. Zij zijn tot geheimhouding verplicht, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de tenuitvoerlegging van hun taak de noodzaak tot bekendmaking voortvloeit.
+
+3. Onze Minister en de directeur van de inrichting brengen alle voor de uitoefening van de taak van de commissie van toezicht belangrijke feiten en omstandigheden ter kennis van de commissie van toezicht.
+
+### Hoofdstuk 6. Geestelijke verzorging
+
+### Hoofdstuk 8. Dossiers
+
+### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
+
+### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
+
+### Hoofdstuk 12. Wijziging andere regelgeving
 
 ### Hoofdstuk 13. Slotbepalingen
 
