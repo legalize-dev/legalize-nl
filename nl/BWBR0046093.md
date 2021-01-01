@@ -4,7 +4,7 @@ identifier: "BWBR0046093"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046093"
 soort: "wet"
@@ -64,8 +64,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet bronbelasting 2021.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de omzetbelasting 1968.
@@ -97,11 +95,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2022 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
