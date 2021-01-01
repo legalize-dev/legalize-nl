@@ -4,7 +4,7 @@ identifier: "BWBR0039974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2020-11-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039974"
 soort: "ministeriele-regeling"
@@ -351,7 +351,7 @@ De militair met een Nederlands militair parachutistenbrevet, of in opleiding daa
 
 - e. een gedeelte van een etmaal aangemerkt als een vol etmaal.
 
-5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2020-11-24&g=2020-11-24).
+5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 17. Toelage verblijf recompressietoestel
 
@@ -683,15 +683,15 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 36a. Garantievliegtoelage
 
-1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2020-11-24&g=2020-11-24), zoals dat artikel luidde voor genoemde datum.
+1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2021-01-01&g=2021-01-01), zoals dat artikel luidde voor genoemde datum.
 
-2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2020-11-24&g=2020-11-24) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
+2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2021-01-01&g=2021-01-01) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
 
-3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2020-11-24&g=2020-11-24) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2020-11-24&g=2020-11-24), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
+3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2021-01-01&g=2021-01-01) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2021-01-01&g=2021-01-01), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
 
 ##### Artikel 37. Herstructurering vliegtoelage/garantievliegtoelage
 
-1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2020-11-24&g=2020-11-24), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
+1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2021-01-01&g=2021-01-01), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
 
 2. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een garantievliegtoelage als bedoeld in artikel 3, tweede lid, of artikel 5, vierde lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 48, tweede lid, of artikel 80, vierde lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, is bij beëindiging van de in genoemde bepalingen bedoelde tijdelijke onderbreking voor het vaststellen van de waarderingsfactor het eerste lid van overeenkomstige toepassing.
 
@@ -809,19 +809,15 @@ Bedragen met ingang van 1 januari 2018
 
 Bedragen met ingang van 1 januari 2018
 
-### Tabel 13a
+### Tabel 13a. IRM 2021
 
-¹ Instroom via verkorte traject met opleiding Helicopter Controller
+1 Alleen ter indicatie zijn de maandbedragen vermeld, uitbetaling premie vindt plaats na afronding initiële opleiding en dienverplichting.
 
-² Instroom via verkorte traject met leerlijn Duiker
+1 Alleen ter indicatie zijn de maandbedragen vermeld, uitbetaling premie vindt plaats na afronding initiële opleiding en dienverplichting.
 
-¹ De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
-
-### Tabel 13b
+1 Alleen ter indicatie zijn de maandbedragen vermeld, uitbetaling premie vindt plaats na afronding initiële opleiding en dienverplichting.
 
 ### Tabel 14. Duiktoelage
-
-Bedragen met ingang van 1 januari 2018
 
 ### Tabel 15. Toelage verblijf onderwaterlaboratorium
 
@@ -837,17 +833,17 @@ Bedragen met ingang van 1 januari 2018
 
 ### Tabel 18. Tegemoetkoming in de kosten van representatie
 
-### Tabel 19. Tegemoetkoming in de kosten van recepties
+Bedragen met ingang van 1 januari 2018
 
 ### Tabel 20. Havenvergoeding
 
-Bedragen met ingang van 1 januari 2004 (in euro’s)
+### Tabel 20. Havenvergoeding
 
 ### Tabel 21. Herstructurering vliegtoelage (waarderingsfactoren)
 
-### Tabel 22
+Bedragen met ingang van 1 januari 2004 (in euro’s)
 
-(vervallen)
+### Tabel 22
 
 ### Tabel 23
 
@@ -858,6 +854,10 @@ Bedragen met ingang van 1 januari 2004 (in euro’s)
 (vervallen)
 
 ### Tabel 25. Toelage meerdaagse dienstreis
+
+Bedragen met ingang van 1 januari 2018
+
+### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
 
 Bedragen met ingang van 1 januari 2018
 
@@ -933,11 +933,7 @@ Bedragen met ingang van 1 januari 2018
 
 Bedragen met ingang van 1 januari 2018
 
-### Tabel 13a
-
-¹ De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
-
-### Tabel 14. Duiktoelage
+### Tabel 13a. IRM 2021
 
 Bedragen met ingang van 1 januari 2018
 
@@ -953,9 +949,9 @@ Bedragen met ingang van 1 januari 2018
 
 Bedragen met ingang van 1 januari 2018
 
-### Tabel 20. Havenvergoeding
+### Tabel 19. Tegemoetkoming in de kosten van recepties
 
-Bedragen met ingang van 1 januari 2004 (in euro’s)
+Bedragen met ingang van 1 januari 2018
 
 ### Tabel 22
 
@@ -970,6 +966,10 @@ Bedragen met ingang van 1 januari 2004 (in euro’s)
 (vervallen)
 
 ### Tabel 25. Toelage meerdaagse dienstreis
+
+Bedragen met ingang van 1 januari 2018
+
+### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
 
 Bedragen met ingang van 1 januari 2018
 
@@ -1009,7 +1009,7 @@ Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-40
 
 - –. **nadelig pensioenvooruitzicht:** het berekende bedrag dat het uitzichtpensioen op basis van de eindloonregeling hoger is dan het uitzichtpensioen op basis van de middelloonregeling;
 
-- –. **niet reguliere wijziging van een vaste toelage:** de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2023-08-31&g=2020-11-24) van de Inkomstenregeling militairen;
+- –. **niet reguliere wijziging van een vaste toelage:** de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2023-08-31&g=2021-01-01) van de Inkomstenregeling militairen;
 
 - –. **nieuwe diensteinderegeling:** het leeftijdsontslag als bedoeld in [artikel 39, tweede lid, onder a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), waarbij in dit artikel wordt uitgegaan van een UGM-ingangsdatum op de leeftijd van 63 jaar en een pensioeningangsdatum op de leeftijd van 68 jaar;
 
@@ -1097,16 +1097,24 @@ Indien de berekeningsgrondslag eindloon kleiner is dan € 31.158, dan wordt het
 
 Bedragen met ingang van 1 januari 2018
 
-### Tabel 13a
-
-¹ De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
+### Tabel 13b. IRM 2021
 
 Bedragen met ingang van 1 januari 2018
 
 Bedragen met ingang van 1 januari 2004 (in euro’s)
 
+(vervallen)
+
 Bedragen met ingang van 1 januari 2018
 
 ### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
+
+Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
+
+### Tabel 14. Duiktoelage
+
+Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
+
+Bedragen met ingang van 1 januari 2004 (in euro’s)
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
