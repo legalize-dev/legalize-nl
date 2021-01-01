@@ -4,7 +4,7 @@ identifier: "BWBR0045646"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2020-12-21"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045646"
 soort: "beleidsregel-BES"
@@ -182,21 +182,27 @@ Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
 **Om te voorkomen dat de abb een belemmering vormt voor de levering en het gebruik van COVID-19 vaccins en testkits, gelden de navolgende tijdelijke goedkeuringen.**
 
+**Om het risico op overdracht van het coronavirus waar mogelijk te beperken, geldt op veel plekken een verplichting tot het dragen van een mondkapje. Deze verplichtstelling is aanleiding voor het treffen van een tijdelijke goedkeuring. Deze goedkeuring kan met terugwerkende kracht worden toegepast met ingang van 1 januari 2021 en geldt tot en met 30 september 2021.**
+
+### 6b.1. Covid-19-vaccins
+
+### 6b.2. Covid-19-testkits
+
+### 6b. Covid-19-vaccins en covid-19-testkits
+
+### 6b.1. Covid-19-vaccins
+
+### 6b.2. Covid-19-testkits
+
 **De goedkeuringen in de onderdelen 6b.1. en 6b.2. kunnen met terugwerkende kracht worden toegepast met ingang van 21 december 2020. De goedkeuringen in onderdeel 6b.3. en 6b.4. kunnen met terugwerkende kracht worden toegepast met ingang van 17 april 2021. De goedkeuringen gelden tot en met 30 september 2021.**
 
 ### 6b.1. Covid-19-vaccins
 
-### 6b.2. Covid-19-testkits
-
-### 6b.3. Covid-19-testkits – uitbreiding
-
-### 6b.1. Covid-19-vaccins
-
-### 6b.2. Covid-19-testkits
+**Ik keur goed dat geen abb wordt geheven ter zake de dienst bestaande uit het vaccineren met COVID-19 vaccins. Hieronder vallen alleen de vaccins die door het Europees Geneesmiddelenbureau (EMA) zijn goedgekeurd als COVID-19-vaccins.**
 
 **Als van deze goedkeuring gebruik wordt gemaakt, geldt het volgende. Voor de dienst van het vaccineren met voornoemde COVID-19 vaccins is geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
-### 6b.2. Covid-19-testkits
+**Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Voor de invoer en levering van COVID-19-in-vitrodiagnostiek en de dienst van het testen met deze testkits geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
 **Ik keur goed dat geen abb wordt geheven ter zake van de invoer van COVID-19-in-vitrodiagnostiek en de dienst bestaande uit het afnemen en/of uitvoeren van de test met deze testkits.**
 
@@ -204,19 +210,13 @@ Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
 **Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Voor de invoer en levering van COVID-19-in-vitrodiagnostiek en de dienst van het testen met deze testkits geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
-Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
-
-Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
-
-Onderdeel 6 vervalt met ingang van 1 oktober 2021.
-
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
 Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
 
-### 9. Citeertitel
+### 7. Ingetrokken regeling
 
-Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -260,9 +260,9 @@ Vooruitlopend op wetgeving keur ik met terugwerkende kracht tot en met 1 januari
 
 ### 6b. Covid-19-vaccins en covid-19-testkits
 
-**De invoer van vaccins en (niet-commerciële) testkits is vrijgesteld van abb. De invoer en levering van commerciële testkits is echter belast met abb. De dienst bestaande uit het tegen vergoeding vaccineren of testen is belast, tenzij deze is vrijgesteld op grond van 6.11, eerste lid, onderdeel c, Belastingwet BES.**
+**Ik keur goed dat geen algemene bestedingsbelasting (hierna: abb) wordt geheven over de invoer en levering van mondkapjes.**
 
-**Om te voorkomen dat de abb een belemmering vormt voor de levering en het gebruik van COVID-19 vaccins en testkits, gelden de navolgende tijdelijke goedkeuringen.**
+**Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Bij de invoer en levering van (zowel medische als niet medische) mondkapjes geldt voor de abb een tarief van nihil, tenzij voor deze invoer of levering een vrijstelling van toepassing is. Het tarief van nihil heeft voor lokale producenten geen gevolgen voor het recht op aftrek van abb. Het begrip ‘mondkapjes’ moet naar algemeen spraakgebruik worden uitgelegd.**
 
 **De goedkeuringen in de onderdelen 6b.1. en 6b.2. kunnen met terugwerkende kracht worden toegepast met ingang van 21 december 2020. De goedkeuringen in onderdeel 6b.3. en 6b.4. kunnen met terugwerkende kracht worden toegepast met ingang van 17 april 2021. De goedkeuringen gelden tot en met 30 september 2021.**
 
@@ -270,7 +270,7 @@ Vooruitlopend op wetgeving keur ik met terugwerkende kracht tot en met 1 januari
 
 ### 7. Ingetrokken regeling
 
-### 8. Inwerkingtreding en vervaldatum
+### 6b.2. Covid-19-testkits
 
 Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
 
@@ -278,11 +278,11 @@ Onderdeel 6 vervalt met ingang van 1 oktober 2021.
 
 ### 9. Citeertitel
 
-Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
+Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-**Ik keur goed dat geen abb wordt geheven ter zake de dienst bestaande uit het vaccineren met COVID-19 vaccins. Hieronder vallen alleen de vaccins die door het Europees Geneesmiddelenbureau (EMA) zijn goedgekeurd als COVID-19-vaccins.**
+**Om te voorkomen dat de abb een belemmering vormt voor de levering en het gebruik van COVID-19 vaccins en testkits, gelden de navolgende tijdelijke goedkeuringen.**
 
 ### 6b.3. Covid-19-testkits – uitbreiding
 
@@ -290,13 +290,29 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ### 7. Ingetrokken regeling
 
-### 8. Inwerkingtreding en vervaldatum
+### 6b.4. Covid-19-zelftestkits met ontheffing
+
+Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+
+Onderdeel 6 vervalt met ingang van 1 oktober 2021.
 
 Onderdeel 4 vervalt met ingang van 1 januari 2022.
 
-Goedkeuring 2 in onderdeel 3 vervalt met ingang van 1 februari 2022, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 31 januari 2022 zijn opgelegd.
+Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
+
+### 9. Citeertitel
 
 Onderdeel 2.2 vervalt met ingang van 1 januari 2024.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+**De invoer van vaccins en (niet-commerciële) testkits is vrijgesteld van abb. De invoer en levering van commerciële testkits is echter belast met abb. De dienst bestaande uit het tegen vergoeding vaccineren of testen is belast, tenzij deze is vrijgesteld op grond van 6.11, eerste lid, onderdeel c, Belastingwet BES.**
+
+### 6b.3. Covid-19-testkits – uitbreiding
+
+### 8. Inwerkingtreding en vervaldatum
+
+Goedkeuring 2 in onderdeel 3 vervalt met ingang van 1 februari 2022, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 31 januari 2022 zijn opgelegd.
 
 Onderdeel 2.5 vervalt met ingang van 1 oktober 2027.
 
