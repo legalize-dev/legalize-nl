@@ -4,7 +4,7 @@ identifier: "BWBR0033865"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2014-03-27"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033865"
 soort: "ministeriele-regeling"
@@ -54,17 +54,17 @@ In deze regeling wordt verstaan onder:
 
 Het is verboden om zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking uit Nederland uit te voeren goederen voor tweeërlei gebruik als bedoeld in:
 
-- a. [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=I&z=2014-03-27&g=2014-03-27) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=II&z=2014-03-27&g=2014-03-27), indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben;
+- a. [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=I&z=2014-03-27&g=2021-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=II&z=2014-03-27&g=2021-01-01), indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben;
 
-- b. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=II&z=2014-03-27&g=2014-03-27), indien deze als bestemming, met inbegrip van de eindbestemming, Egypte of Oekraïne hebben.
+- b. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=II&z=2014-03-27&g=2021-01-01), indien deze als bestemming, met inbegrip van de eindbestemming, Egypte of Oekraïne hebben.
 
 ##### Artikel 3
 
-Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking een tussenhandeldienst als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of[6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) te verlenen voor goederen voor tweeërlei gebruik als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=I&z=2014-03-27&g=2014-03-27), indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben.
+Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking een tussenhandeldienst als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of[6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) te verlenen voor goederen voor tweeërlei gebruik als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&bijlage=I&z=2014-03-27&g=2021-01-01), indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben.
 
 ##### Artikel 4
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) wordt gedaan door de exporteur en ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) wordt gedaan door de exporteur en ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -84,7 +84,7 @@ Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en On
 
 ##### Artikel 5
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2014-03-27) wordt gedaan door degene die een tussenhandeldienst, als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) verleent en ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2021-01-01) wordt gedaan door degene die een tussenhandeldienst, als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) verleent en ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -106,27 +106,27 @@ Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en On
 
 ##### Artikel 6
 
-1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) kunnen voorwaarden worden verbonden en kunnen ten minste de volgende voorschriften worden verbonden:
+1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) kunnen voorwaarden worden verbonden en kunnen ten minste de volgende voorschriften worden verbonden:
 
 - a. door middel van een bewijsstuk van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument of een eindgebruikersverklaring wordt bij de inspecteur aangetoond dat de goederen voor tweeërlei gebruik de bestemming waarvoor de vergunning is verleend, hebben bereikt;
 
 - b. bij elke uitvoer wordt een factuur ingezonden aan de inspecteur.
 
-2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) kan onder beperkingen worden verleend.
 
 ##### Artikel 7
 
-1. Aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2014-03-27) kunnen voorwaarden en voorschriften worden verbonden.
+1. Aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2021-01-01) kunnen voorwaarden en voorschriften worden verbonden.
 
-2. Een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2014-03-27) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2021-01-01) kan onder beperkingen worden verleend.
 
 ##### Artikel 8
 
-Indien een vergunninghouder geen gebruik maakt of meer kan of zal maken van de vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2014-03-27), wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur.
+Indien een vergunninghouder geen gebruik maakt of meer kan of zal maken van de vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2021-01-01), wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur.
 
 ##### Artikel 9
 
-Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2014-03-27) kan in ieder geval ingetrokken worden indien:
+Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=3&z=2014-03-27&g=2021-01-01) kan in ieder geval ingetrokken worden indien:
 
 - a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;
 
@@ -144,7 +144,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik.
 
-## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) van de Regeling goederen voor tweeërlei gebruik
+## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) van de Regeling goederen voor tweeërlei gebruik
 
 | Nr. | SG-post | Test-, inspectie- en productieapparatuur |
 | --- | --- | --- |
@@ -154,7 +154,7 @@ Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik.
 
 1. Met goederen worden in deze bijlage zowel nieuwe als gebruikte goederen bedoeld.
 
-## Bijlage II. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2014-03-27) van de Regeling goederen voor tweeërlei gebruik
+## Bijlage II. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033865&artikel=2&z=2014-03-27&g=2021-01-01) van de Regeling goederen voor tweeërlei gebruik
 
 ### Lijst van apparatuur die zou kunnen worden gebruikt voor binnenlandse repressie
 
