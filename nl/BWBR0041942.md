@@ -4,7 +4,7 @@ identifier: "BWBR0041942"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-01"
-last_updated: "2020-04-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041942"
 soort: "ministeriele-regeling"
@@ -48,7 +48,9 @@ Deze regeling berust op [artikel 673e, zevende lid, van Boek 7 van het Burgerlij
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraag:** verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
+- **Aanvraag van compensatie na langdurige arbeidsongeschiktheid**: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
+
+- **Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming**: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel b, onder 1° of 3°, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
 
 - **UWV:** Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
@@ -56,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanvraagtermijn
 
-De aanvraag wordt afgewezen, indien deze wordt ingediend:
+De aanvraag van compensatie na langdurige arbeidsongeschiktheid wordt afgewezen, indien deze wordt ingediend:
 
 - a. voordat de volledige vergoeding in verband met het eindigen of niet voortzetten van de arbeidsovereenkomst aan de werknemer is verstrekt; of
 
@@ -64,17 +66,37 @@ De aanvraag wordt afgewezen, indien deze wordt ingediend:
 
 ##### Artikel 3. Afwijkende aanvraag- en beslistermijnen oude gevallen
 
-1. Indien de volledige vergoeding, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041942&artikel=2&z=2020-04-01&g=2020-04-01), aan de werknemer verstrekt is voor 1 april 2020, wordt in afwijking van artikel 2, onderdeel b, de aanvraag ingediend voor 1 oktober 2020.
+1. Indien de volledige vergoeding, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041942&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), aan de werknemer verstrekt is voor 1 april 2020, wordt in afwijking van artikel 2, onderdeel b, de aanvraag van compensatie na langdurige arbeidsongeschiktheid ingediend voor 1 oktober 2020.
 
 2. Het UWV beslist binnen zes maanden na ontvangst van de aanvraag indien het een aanvraag betreft waarvan het einde van de periode waarvoor het opzegverbod als bedoeld in [artikel 670, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) geldt, gelegen is voor 1 april 2020.
 
 3. Dit artikel vervalt met ingang van 1 april 2022.
 
-##### Artikel 4. Citeertitel
+##### Artikel 4. Aanvraagtermijn
+
+De aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming wordt afgewezen, indien deze wordt ingediend:
+
+- a. voordat de volledige vergoeding in verband met het eindigen of niet voortzetten van de arbeidsovereenkomst aan de werknemer is verstrekt; of
+
+- b. meer dan twaalf maanden na de dag van indiening van het eerste verzoek op basis van [artikel 2 van het Besluit compensatie transitievergoeding bij beëindiging van de werkzaamheden van de onderneming](https://wetten.overheid.nl/jci1.3:c:BWBR0044334&artikel=2), dat heeft geleid tot toestemming om de arbeidsovereenkomst op te zeggen, hetzij dat heeft geleid tot ontbinding van de arbeidsovereenkomst door de rechter, als bedoeld in [artikel 7 van genoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044334&artikel=7).
+
+##### Artikel 5
+
+Door vernummering vervallen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. Aanvraag van compensatie na langdurige arbeidsongeschiktheid
+
+#### Paragraaf 3. Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming
+
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling compensatie transitievergoeding.
 
-##### Artikel 5. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2020.
 
