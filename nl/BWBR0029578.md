@@ -4,7 +4,7 @@ identifier: "BWBR0029578"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2021-01-01"
-last_updated: "2011-03-08"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029578"
 soort: "AMvB-BES"
@@ -82,28 +82,138 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Beschrijving van de gegevens
 
-Dit onderdeel is nog niet inwerking getreden
+De gegevens, bedoeld in de [artikelen 132](onbekend) en [133 van de wet](onbekend) waarover een bevoegd gezag beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de bijlage bij dit besluit.
 
 ##### Artikel 4. Nadere invulling
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Overgangsbepaling
 
-Tot het tijdstip waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2011-03-08&g=2011-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2011-03-08&g=2011-03-08) in werking treden, worden bij ministeriële regeling regels vastgesteld met betrekking tot de gegevens die het bevoegd gezag ten aanzien van bekostiging en beleid aan Onze Minister levert en op welke wijze deze gegevens worden gedefinieerd en geordend.
+Tot het tijdstip waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2021-01-01&g=2021-01-01) in werking treden, worden bij ministeriële regeling regels vastgesteld met betrekking tot de gegevens die het bevoegd gezag ten aanzien van bekostiging en beleid aan Onze Minister levert en op welke wijze deze gegevens worden gedefinieerd en geordend.
 
 ##### Artikel 6. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=1&z=2011-03-08&g=2011-03-08), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2&z=2011-03-08&g=2011-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=5&z=2011-03-08&g=2011-03-08) treden in werking met ingang van de op Bonaire, Sint Eustatius en Saba na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2&z=2021-01-01&g=2021-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=5&z=2021-01-01&g=2021-01-01) treden in werking met ingang van de op Bonaire, Sint Eustatius en Saba na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2011-03-08&g=2011-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2011-03-08&g=2011-03-08) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2021-01-01&g=2021-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO BES.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2011-03-08&g=2011-03-08) van het Besluit informatievoorziening WPO BES
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) van het Besluit informatievoorziening WPO BES
 
-Dit onderdeel is nog niet inwerking getreden
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van het ministerie van Onderwijs, Cultuur en Wetenschap. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
+
+Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
+
+### A. **Instellingsgegevens**
+
+### A1. **Bevoegd gezag**
+
+Voor de bekostiging:
+
+Datum oprichting en opheffing
+
+Brin-nummer
+
+Naam en adresgegevens
+
+Communicatiegegevens, zoals telefoonnummer en emailadres
+
+Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
+
+### A2. **School, instelling, vestiging**
+
+Voor de bekostiging:
+
+Gegevens over de datum oprichting en opheffing
+
+Datum ingang en einde bekostiging
+
+Een brin-nummer
+
+Naam en adresgegevens
+
+Communicatiegegevens, zoals telefoonnummer en emailadres
+
+Voor beleid:
+
+Richting school/instelling
+
+### B. **Financiële gegevens**
+
+### B1. **Bevoegd gezag**
+
+Voor de bekostiging:
+
+De (geconsolideerde) balans met de volgende gegevens over:
+
+activa:
+
+passiva:
+
+De (geconsolideerde) exploitatierekening waaronder de volgende baten:
+
+en waaronder de volgende lasten
+
+en het aandeel van derden
+
+Het (geconsolideerde) kasstroomoverzicht met de kasstroom uit:
+
+en de mutatie en eindstand liquide middelen
+
+### B2. **School en instelling**
+
+Voor beleid:
+
+met een specificatie voor:
+
+met een specificatie voor:
+
+### C. **Personeelsgegevens**
+
+Voor beleid:
+
+Persoonsgegevens
+
+Geboortedatum
+
+Geslachtsaanduiding
+
+Personeelsnummer
+
+Arbeidsrelatiegegevens
+
+Brin-nummer werkgever
+
+Datum begin en einde arbeidsverhouding
+
+Soort arbeidsverhouding (waaronder vast of tijdelijk)
+
+Zij-instroom
+
+Functie, betrekking en salarisgegevens
+
+Brin-nummer school (waar te werk gesteld)
+
+Betrekkinggegevens, waaronder betrekkingsomvang in fulltime equivalenten (fte)
+
+Functie (code en omschrijving)
+
+Functiecategorie
+
+Salarisschaal
+
+Salarisnummer
+
+Bruto salaris
+
+Toelagen
+
+Ziekte en verlofgegevens
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
