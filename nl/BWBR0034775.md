@@ -4,7 +4,7 @@ identifier: "BWBR0034775"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034775"
 soort: "AMvB"
@@ -77,6 +77,8 @@ In dit besluit wordt verstaan onder:
 - 5°. aan een van de misdrijven omschreven in de [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162a), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166) en [385d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385d), wanneer de verdachte zich in Nederland bevindt;
 
 - 6°. aan een van de misdrijven omschreven in de [artikelen 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140a), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161quater), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162a), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=163), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=173a), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=191), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288), [288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288a), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=352), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=354), [381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=381), [385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385a), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385b), [385c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385c), [385d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385d), in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79) en [80 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=17), en [33b van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=33b) in samenhang met [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3), of [4 van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=4) in samenhang met artikel 1 van de Wet op de economische delicten, in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3) of [4 van de Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4), in samenhang met artikel 1 van de Wet op de economische delicten, voor zover het feit valt onder de omschrijving van artikel 1 van het op 10 september 2010 te Beijing tot stand gekomen Verdrag tot bestrijding van wederrechtelijke gedragingen betreffende de burgerluchtvaart of van artikel II van het op 10 september 2010 te Beijing tot stand gekomen Aanvullend Protocol bij het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in Nederland bevindt;
+
+- 7°. aan enig strafbaar feit waardoor de veiligheid van een luchtvaartuig, de veiligheid van personen of goederen aan boord of de goede orde en discipline aan boord in gevaar wordt gebracht, indien het strafbare feit is begaan aan boord van een luchtvaartuig waarvan het laatste punt van opstijgen of het volgende beoogde landingspunt zich in Nederland bevindt en dat luchtvaartuig vervolgens in Nederland landt met de verdachte nog aan boord;
 
 - b.
 
@@ -170,25 +172,25 @@ Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extrater
 
 ## Bijlage. bij het Besluit internationale verplichtingen extraterritoriale rechtsmacht
 
-### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
+### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2020-12-01&g=2020-12-01)
+### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
+### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
+### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
 
-### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
+### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
 
 ### [Artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
 
