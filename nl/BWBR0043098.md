@@ -4,7 +4,7 @@ identifier: "BWBR0043098"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043098"
 soort: "AMvB"
@@ -60,7 +60,7 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294) is niet van toepassing
 
 - b. inrichtingen als bedoeld in de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), instellingen voor de verpleging van ter beschikking gestelden als bedoeld in de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634) en justitiële jeugdinrichtingen als bedoeld in de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
 
-- c. gemeentelijke gezondheidsdiensten als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14) alsmede gemeenten die zelf jeugdgezondheidszorg of ouderengezondheidszorg op grond van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) verlenen;
+- c. gemeentelijke gezondheidsdiensten als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), voor zover zij geen ambulancezorg leveren als bedoeld in [artikel 5 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=5) alsmede gemeenten die zelf jeugdgezondheidszorg of ouderengezondheidszorg op grond van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) verlenen;
 
 - d. instellingen waar cliënten verblijven waarvan de zorg uitsluitend wordt bekostigd uit een persoonsgebonden budget, indien de meerderheid van de zeggenschap in het bestuur van die instelling is belegd bij de cliënten die in die instelling verblijven of hun wettelijke vertegenwoordigers of bloed- of aanverwanten;
 
@@ -82,7 +82,7 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294) is niet van toepassing
 
 - 8°. verlenen van zorg door optometristen, orthoptisten of audiciens;
 
-- 9°. vervoer van een cliënt als bedoeld in de [artikelen 3.1.1, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), en [11.1.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5), anders dan ambulancezorg als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1);
+- 9°. vervoer van een cliënt als bedoeld in de [artikelen 3.1.1, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), en [11.1.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5), anders dan ambulancezorg als bedoeld in [artikel 4, eerste lid, van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
 
 - 10°. schoonhouden van de woonruimte van een cliënt;
 
