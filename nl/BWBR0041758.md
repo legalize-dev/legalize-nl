@@ -4,7 +4,7 @@ identifier: "BWBR0041758"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041758"
 soort: "wet"
@@ -62,8 +62,6 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikelen 7.6 en 7.7
 
 [Vervallen]
@@ -90,7 +88,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 8.0. Overgangsbepaling beperking afschrijving gebouwen in eigen gebruik
 
-Met betrekking tot een gebouw in eigen gebruik waarop de belastingplichtige reeds vóór 1 januari 2019 heeft afgeschreven doch nog niet over drie volledige jaren heeft kunnen afschrijven, vindt de in [artikel 7.3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2020-01-01&g=2020-01-01), opgenomen wijziging van [artikel 8, zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) voor het eerst toepassing met ingang van het boekjaar dat volgt op het boekjaar waarin die periode van drie volledige jaren is geëindigd.
+Met betrekking tot een gebouw in eigen gebruik waarop de belastingplichtige reeds vóór 1 januari 2019 heeft afgeschreven doch nog niet over drie volledige jaren heeft kunnen afschrijven, vindt de in [artikel 7.3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2021-01-01&g=2021-01-01), opgenomen wijziging van [artikel 8, zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) voor het eerst toepassing met ingang van het boekjaar dat volgt op het boekjaar waarin die periode van drie volledige jaren is geëindigd.
 
 ##### Artikel 8.1. Overgangsbepaling verliesverrekening
 
@@ -114,13 +112,13 @@ In afwijking van [artikel 20, vierde lid, van de Wet op de vennootschapsbelastin
 
 1. Deze wet treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 
-- a. [artikel 7.3, onderdelen A, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q, R, T en U](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2020-01-01&g=2020-01-01), en de [artikelen 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.8&z=2020-01-01&g=2020-01-01) en [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=8&artikel=8.1&z=2020-01-01&g=2020-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2019;
+- a. [artikel 7.3, onderdelen A, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q, R, T en U](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2021-01-01&g=2021-01-01), en de [artikelen 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.8&z=2021-01-01&g=2021-01-01) en [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=8&artikel=8.1&z=2021-01-01&g=2021-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2019;
 
-- b. [artikel 7.3, onderdeel Ta](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2020-01-01&g=2020-01-01), terugwerkt tot en met 1 maart 2018.
+- b. [artikel 7.3, onderdeel Ta](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.3&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 maart 2018.
 
-2. In afwijking van het eerste lid treedt [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.4&z=2020-01-01&g=2020-01-01) in werking met ingang van 1 januari 2020, met dien verstande dat artikel 7.4, onderdelen E tot en met H, voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
+2. In afwijking van het eerste lid treedt [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.4&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 2020, met dien verstande dat artikel 7.4, onderdelen E tot en met H, voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
 
-3. In afwijking van het eerste lid treedt [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.5&z=2020-01-01&g=2020-01-01) in werking met ingang van 1 januari 2021.
+3. In afwijking van het eerste lid treedt [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&hoofdstuk=7&artikel=7.5&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 2021.
 
 ##### Artikel 9.3. Citeertitel
 
