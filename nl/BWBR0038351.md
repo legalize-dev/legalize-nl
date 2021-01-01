@@ -4,7 +4,7 @@ identifier: "BWBR0038351"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038351"
 soort: "zbo"
@@ -58,35 +58,35 @@ Vervallen
 
 1. Vervallen.
 
-2. De syllabi worden vastgesteld voor de centrale examens 2020 voor de vakken als vermeld in [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&bijlage=4b&z=2020-01-01&g=2020-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+2. Vervallen.
 
-3. De syllabi worden vastgesteld voor de centrale examens 2021 voor de vakken als vermeld in [bijlage 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&bijlage=4c&z=2020-01-01&g=2020-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+3. De syllabi worden vastgesteld voor de centrale examens 2021 voor de vakken als vermeld in [bijlage 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&bijlage=4c&z=2021-01-01&g=2021-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 5. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2020-01-01&g=2020-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2020-01-01&g=2020-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=2&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2021-01-01&g=2021-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1.1. betreffende [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2020-01-01&g=2020-01-01): per 1 januari 2019;
+- 1.1. betreffende [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2021-01-01&g=2021-01-01): per 1 januari 2019;
 
-- 1.2. betreffende [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2020-01-01&g=2020-01-01): per 1 januari 2020;
+- 1.2. betreffende [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2021-01-01&g=2021-01-01): per 1 januari 2020;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=2&z=2020-01-01&g=2020-01-01): per 1 januari 2018;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=2&z=2021-01-01&g=2021-01-01): per 1 januari 2018;
 
-- 3.1. betreffende [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2020-01-01&g=2020-01-01): per 1 januari 2018;
+- 3.1. betreffende [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2021-01-01&g=2021-01-01): per 1 januari 2018;
 
-- 3.2. betreffende [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2020-01-01&g=2020-01-01): per 1 januari 2019;
+- 3.2. betreffende [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2021-01-01&g=2021-01-01): per 1 januari 2019;
 
-- 4.1. betreffende [artikel 4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2020-01-01&g=2020-01-01): per 1 januari 2020;
+- 4.1. betreffende [artikel 4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2021-01-01&g=2021-01-01): per 1 januari 2020;
 
-- 4.2. betreffende [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2020-01-01&g=2020-01-01): per 1 januari 2021;
+- 4.2. betreffende [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2021-01-01&g=2021-01-01): per 1 januari 2021;
 
-- 4.3. betreffende [artikel 4 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2020-01-01&g=2020-01-01): per 1 januari 2022.
+- 4.3. betreffende [artikel 4 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2021-01-01&g=2021-01-01): per 1 januari 2022.
 
 ##### Artikel 7. Citeertitel
 
@@ -118,9 +118,9 @@ bouwtechniek-schilderen
 
 Voor de centrale examens vwo 2020 worden syllabi voor de volgende vakken vastgesteld:
 
-maatschappijwetenschappen
+Voor de centrale examens vwo 2021 worden syllabi voor de volgende vakken vastgesteld:
 
-consumptief-bakken
+bedrijfseconomie
 
 Voor de centrale examens havo 2020 worden syllabi voor de volgende vakken vastgesteld:
 
@@ -586,14 +586,20 @@ Vervallen
 
 ## Bijlage 4b. bij de Regeling syllabi centrale examens VO 2018, van 27 juni 2016, nummer CvTE-16.01268
 
+Vervallen
+
 ### Preliminaire vaststelling syllabi 2020
 
-### vwo
+### Preliminaire vaststelling syllabi 2021
 
 ### havo
 
 ## Bijlage 4c. bij de Regeling syllabi centrale examens VO 2018, van 27 juni 2016, nummer CvTE-16.01268
 
 ### Preliminaire vaststelling syllabi 2021
+
+### vwo
+
+## Bijlage 4c. bij de Regeling syllabi centrale examens VO 2018, van 27 juni 2016, nummer CvTE-16.01268
 
 ### vwo
