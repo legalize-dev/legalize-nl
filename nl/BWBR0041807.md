@@ -4,7 +4,7 @@ identifier: "BWBR0041807"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041807"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de algemeen directeur:** de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
-- b. **de Chief Financial Officer:** de Chief Financial Officer van de Dienst ICT Uitvoering, tevens directeur financiën en inkoop van het Ministerie van Economische Zaken en Klimaat;
+- b. **de Chief Financial Officer:** de Chief Financial Officer van de Dienst ICT Uitvoering, tevens directeur bedrijfsvoering van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
 - c. **de directeuren:** de directeuren van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
@@ -58,13 +58,17 @@ In dit besluit wordt verstaan onder:
 
 - f. **de teamleiders:** de teamleiders van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
-- g. **de clusterleiders:** de clusterleiders van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
+- g. **de dienstverantwoordelijken:** de dienstverantwoordelijken van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
-- h. **de cryptobeheerders:** de cryptobeheerder en de plaatsvervangend cryptobeheerder van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
+- h. **de officemanager:** de officemanager van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
-- i. **de machtigingenbeheerders eHerkenningsmiddelen:** de machtigingenbeheerders eHerkenningsmiddelen van de directie Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat;
+- i. **de clusterleiders:** de clusterleiders van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
 
-- j. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- j. **de cryptobeheerders:** de cryptobeheerder en de plaatsvervangend cryptobeheerder van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat;
+
+- k. **de machtigingenbeheerders eHerkenningsmiddelen:** de machtigingenbeheerders eHerkenningsmiddelen van de directie Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat;
+
+- l. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur en de onder hem ressorterende functionarissen
 
@@ -116,7 +120,7 @@ aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van fina
 
 ##### Artikel 5
 
-1. Aan de divisiemanagers van de Dienst ICT Uitvoering wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 249.000 per verplichting niet te boven gaat.
+1. Aan de divisiemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 249.000 per verplichting niet te boven gaat.
 
 2. Aan de divisiemanagers wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -132,9 +136,9 @@ aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van fina
 
 ##### Artikel 6
 
-1. Aan de teamleiders van de Dienst ICT Uitvoering wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 99.000 per verplichting niet te boven gaat.
+1. Aan de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 99.000 per verplichting niet te boven gaat.
 
-2. Aan de teamleiders wordt voorts, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor:
+2. Aan de teamleiders wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
 - a. het verlenen van verlof en kort buitengewoon verlof;
 
@@ -148,9 +152,13 @@ aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van fina
 
 ##### Artikel 7
 
-1. Aan de clusterleiders van de Dienst ICT Uitvoering wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 24.000 per verplichting niet te boven gaat.
+Aan de dienstverantwoordelijken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 99.000 per verplichting niet te boven gaat.
 
-2. Aan de clusterleiders wordt voorts, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor:
+##### Artikel 8
+
+1. Aan de clusterleiders en de officemanager wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 24.000 per verplichting niet te boven gaat.
+
+2. Aan de clusterleiders en de officemanager wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
 - a. het verlenen van verlof en kort buitengewoon verlof;
 
@@ -162,37 +170,45 @@ aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van fina
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen Nederland.
 
-##### Artikel 8
-
-Aan de cryptobeheerders wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
-
 ##### Artikel 9
 
-Aan de medewerkers die door de machtigingenbeheerders eHerkenningsmiddelen zijn geautoriseerd wordt, ieder voor zich, volmacht en machtiging verleend voor het afnemen van digitale overheidsdiensten op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 500 per verplichting niet te boven gaat.
+Aan de cryptobeheerders wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
 #### § 3. Vervanging
 
 ##### Artikel 10
 
-1. De uit dit besluit voor een directeur voortvloeiende bevoegdheden gaan bij afwezigheid over op een door die directeur aangewezen divisiemanager of teamleider.
-
-2. De uit dit besluit voor een divisiemanager voortvloeiende bevoegdheden gaan bij afwezigheid over op een door die divisiemanager aangewezen teamleider.
-
-3. De uit dit besluit voor een teamleider voortvloeiende bevoegdheden gaan bij afwezigheid over op een andere teamleider.
-
-4. De uit dit besluit voor een clusterleider voortvloeiende bevoegdheden gaan bij afwezigheid over op een andere clusterleider.
+Aan de medewerkers die door de machtigingenbeheerders eHerkenningsmiddelen zijn geautoriseerd wordt, ieder voor zich, volmacht en machtiging verleend voor het afnemen van digitale overheidsdiensten op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 500 per verplichting niet te boven gaat.
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 11
 
-Het [Besluit ondermandaat, volmacht en machtiging van de algemeen directeur voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037250) wordt ingetrokken.
+1. De uit dit besluit voor een directeur voortvloeiende bevoegdheden gaan bij afwezigheid over op een door die directeur aangewezen divisiemanager of teamleider.
+
+2. De uit dit besluit voor een divisiemanager voortvloeiende bevoegdheden gaan bij afwezigheid over op een door die divisiemanager aangewezen teamleider.
+
+3. De uit dit besluit voor een teamleider voortvloeiende bevoegdheden gaan bij afwezigheid over op de overige teamleiders.
+
+4. De uit dit besluit voor een dienstverantwoordelijke voortvloeiende bevoegdheden gaan bij afwezigheid over op de overige dienstverantwoordelijken.
+
+5. De uit dit besluit voor een clusterleider voortvloeiende bevoegdheden gaan bij afwezigheid over op de overige clusterleiders.
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
+Het [Besluit ondermandaat, volmacht en machtiging van de algemeen directeur voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037250) wordt ingetrokken.
 
 ##### Artikel 13
+
+Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+#### § 3. Vervanging
+
+#### § 4. Slotbepalingen
+
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat 2019.
 
