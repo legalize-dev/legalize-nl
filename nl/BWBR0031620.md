@@ -4,7 +4,7 @@ identifier: "BWBR0031620"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-23"
-last_updated: "2020-10-28"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031620"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2020-10-28&g=2020-10-28) bedoelde categorieën van militaire goederen indien aan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=4&z=2020-10-28&g=2020-10-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=5&z=2020-10-28&g=2020-10-28) genoemde voorwaarden is voldaan.
+1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-01-01) bedoelde categorieën van militaire goederen indien aan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=4&z=2021-06-23&g=2021-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=5&z=2021-06-23&g=2021-01-01) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene doorvoervergunning zijn de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=4&artikel=6&z=2020-10-28&g=2020-10-28) genoemde voorschriften verbonden.
+2. Aan de algemene doorvoervergunning zijn de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=4&artikel=6&z=2021-06-23&g=2021-01-01) genoemde voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -74,7 +74,7 @@ De algemene doorvoervergunning NL008 geldt voor militaire goederen zoals opgenom
 
 ##### Artikel 4
 
-De algemene doorvoervergunning NL008 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2020-10-28&g=2020-10-28), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische Verdragsorganisatie met uitzondering van Turkije.
+De algemene doorvoervergunning NL008 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-01-01), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische Verdragsorganisatie met uitzondering van Turkije.
 
 ##### Artikel 5
 
