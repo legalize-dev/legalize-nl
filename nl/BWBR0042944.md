@@ -4,7 +4,7 @@ identifier: "BWBR0042944"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042944"
 soort: "AMvB"
@@ -116,19 +116,19 @@ Wijzigt het Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz. (
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
 
-- a. [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=V&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 januari 2010;
+- a. [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=V&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2010;
 
-- b. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=III&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 januari 2013;
+- b. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=III&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2013;
 
-- c. [artikel I, onderdeel B, onder 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 januari 2014;
+- c. [artikel I, onderdeel B, onder 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2014;
 
-- d. [artikel I, onderdeel B, onder 1 en onder 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 januari 2017;
+- d. [artikel I, onderdeel B, onder 1 en onder 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2017;
 
-- e. [artikel XI, onderdeel D, onder 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XI&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 januari 2018.
+- e. [artikel XI, onderdeel D, onder 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XI&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2018.
 
-2. In afwijking van het eerste lid treedt [artikel XIII, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XIII&z=2020-07-01&g=2020-07-01), in werking met ingang van 1 juli 2020.
+2. In afwijking van het eerste lid treedt [artikel XIII, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XIII&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 juli 2020.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2020-07-01&g=2020-07-01), en [artikel XIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XIII&z=2020-07-01&g=2020-07-01), in werking met ingang van 1 januari 2021.
+3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=I&z=2021-01-01&g=2021-01-01), en [artikel XIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=XIII&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 januari 2021.
 
 Op de voordracht van de Staatssecretaris van Financiën van 15 november 2019, nr. 2019-0000191387;
 
