@@ -4,7 +4,7 @@ identifier: "BWBR0041790"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041790"
 soort: "beleidsregel"
@@ -48,7 +48,7 @@ Deze beleidsregels zijn van toepassing indien de Minister van Volksgezondheid, W
 
 1. In de bijlagen bij deze beleidsregels is per beboetbaar gesteld artikel bepaald of sprake is van een overtreding die direct beboet wordt, danwel eerst een schriftelijke waarschuwing wordt opgelegd.
 
-2. Indien na eerdere schriftelijke waarschuwing voor een overtreding van een wettelijk voorschrift, binnen twee jaar een tweede overtreding van hetzelfde voorschrift wordt geconstateerd kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg of de Staatssecretaris van Volksgezondheid, Welzijn en Sport een bestuurlijke boete opleggen. Daarbij maakt het niet uit of bij de tweede constatering sprake is van een voortduren van de eerder geconstateerde overtreding of dat sprake is van een nieuwe overtreding van hetzelfde voorschrift. De verzenddatum eerder verstuurde waarschuwing is hierbij bepalend.
+2. Indien binnen twee jaar nadat een schriftelijke waarschuwing is opgelegd voor een overtreding van een wettelijk voorschrift, een tweede overtreding van hetzelfde voorschrift wordt geconstateerd, kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg of de Staatssecretaris van Volksgezondheid, Welzijn en Sport een bestuurlijke boete opleggen. Daarbij maakt het geen verschil of bij de tweede constatering sprake is van een voortduren van de eerder geconstateerde overtreding of dat sprake is van een nieuwe overtreding van hetzelfde voorschrift. De verzenddatum van de eerder verstuurde waarschuwing is hierbij bepalend.
 
 3. Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd een tweede overtreding van hetzelfde voorschrift wordt geconstateerd, kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg of de Staatssecretaris van Volksgezondheid, Welzijn en Sport nogmaals een bestuurlijke boete opleggen. In dat geval wordt het boetebedrag verdubbeld. Dit geldt voor iedere volgende overtreding binnen de recidivetermijn van vier jaar tot het maximale in de specifieke wet vastgestelde boetebedrag. De onherroepelijkheid van een eerdere boete speelt hierbij geen rol.
 
@@ -174,7 +174,9 @@ Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweed
 
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
-## Bijlage. bij de Boetebeleidsregels ministerie VWS 2019: [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700)
+## Boetedifferentiatie
+
+Vervallen
 
 ### Boetedifferentiatie
 
@@ -182,11 +184,11 @@ Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is gecon
 
 ### Leeswijzer
 
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+### Leeswijzer
 
 ### Stap 2. Ernst van de overtreding
 
-**Duur.** Indien vast kan worden gesteld dat een overtreder gedurende langer dan een week niet aan de wettelijke voorschriften heeft voldaan wordt de duur als lang en verzwarend beoordeeld. Indien vastgesteld kan worden dat een overtreding korter dan een dag geduurd heeft wordt deze als korte duur beoordeeld.
+Vanaf de constatering van een incident heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
 
 **Omvang.** Bij de omvang van de overtreding wordt gekeken naar het aantal meldingen niet gedaan of overeenkomstig. Eén melding is een kleine omvang meer dan 5 meldingen is een grote omvang. Indien niet van toepassing dit in de motivering weergeven.
 
@@ -195,48 +197,6 @@ Meerdere meldplichtige overtredingen kunnen afzonderlijk beboet worden.
 ### Stap 3. Bepalen voorlopig boetebedrag
 
 Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2
-
-Voor het gebruik van onderstaand schema (B) geldt het volgende:
-
-□ **A**Er is één of meer verlichtende omstandigheid van toepassing
-
-□ **B** Er is geen verlichtende en/ of verzwarende omstandigheid van toepassing
-
-□ **C** Er is één of meer verzwarende omstandigheid van toepassing
-
-### Stap 4. Verwijtbaarheid
-
-Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen. Het gaat hierbij om pogingen die de overtreder heeft ondernomen voorafgaand aan de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
-
-### Stap 5. Natuurlijke persoon of onderneming, grootte van de onderneming
-
-Voor de berekening in schema D wordt rekening gehouden met de vraag of de overtreder een natuurlijke persoon betreft, een natuurlijke persoon die een onderneming drijft of een rechtspersoon die een onderneming drijft. Daarnaast wordt er rekening gehouden met de grootte van die onderneming. Dit zorgt ervoor dat natuurlijke personen en rechtspersonen op evenredige wijze worden geraakt door de boete. De grootte van de onderneming van een natuurlijke persoon en een rechtspersoon wordt vastgesteld aan de hand van het aantal in de onderneming werkzame FTE. Dit wordt bepaald door de hoeveelheid werkzame personen van een onderneming, zoals geregistreerd in het handelsregister van de Kamer van Koophandel, te vermenigvuldigen met 0,65 (de gemiddelde inzetbaarheid van werkzame personen per FTE volgens CBS). Indien dit gegeven niet uit het handelsregister blijkt, of indien de Minister reden heeft om aan te nemen dat de registratie in het handelsregister onjuist of niet langer actueel is, maakt de Minister gebruik van een inschatting van het aantal werkzame personen op basis van constateringen van de inspecteur tijdens inspectie of gegevens uit het jaarverslag. Het aantal FTE wordt indien nodig afgerond in het voordeel van de betrokkene. Een factor van 0,65 of minder wordt afgerond op 1 FTE.
-
-### Stap 6. Recidive
-
-Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij recidive.
-
-Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
-
-## Boetedifferentiatie
-
-### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)
-
-Met deze bijlage is het mogelijk om stapsgewijs, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete vast te stellen.
-
-### Leeswijzer
-
-**Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit en geweld.
-
-Vanaf de constatering van een incident heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
-
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
-
-### Stap 2. Ernst van de overtreding
-
-In schema A zijn twee factoren genoemd die een rol kunnen spelen bij het bepalen van de ernst van de overtreding.
-
-### Stap 3. Bepalen voorlopig boetebedrag
 
 Met behulp van schema B wordt bepaald welk voorlopig boetebedrag van toepassing is op grond van de uitkomsten van stap 1 en 2. Voor het gebruik van schema B geldt het volgende:
 
@@ -268,17 +228,17 @@ Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is gecon
 
 ### Leeswijzer
 
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+**Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit en geweld.
 
 **TARIEFLIJST normbedragen bestuurlijke boete Opiumwet**
 
 ### Stap 2. Ernst van de overtreding
 
-In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+### Stap 2. Ernst van de overtreding
+
+In schema A zijn twee factoren genoemd die een rol kunnen spelen bij het bepalen van de ernst van de overtreding.
 
 ### Stap 3. Bepalen voorlopig boetebedrag
-
-Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
 □ **A**Er is één verlichtende omstandigheid van toepassing
 
@@ -286,9 +246,9 @@ Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het 
 
 □ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
-### Stap 4. Verwijtbaarheid
+□ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
-Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
+### Stap 4. Verwijtbaarheid
 
 Aangezien deze wet zich richt tot de natuurlijke persoon als normadressaat zal er geen sprake zijn van matiging in het kader van het aantal FTE’s, zoals dat in de overige bijlagen van de beleidsregels wel wordt toegepast.
 
@@ -296,19 +256,19 @@ Aangezien deze wet zich richt tot de natuurlijke persoon als normadressaat zal e
 
 Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
 
-Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
+### Stap 6. Recidive
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+
+Het op te leggen bedrag is nu vastgesteld op basis van de Beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
 ## Boetedifferentiatie
 
-### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396)
-
-Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding**vast te stellen.
-
 ### Leeswijzer
 
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
 
-**TARIEFLIJST normbedragen bestuurlijke boete Wet afbreking zwangerschap**
+### Leeswijzer
 
 ### Stap 2. Ernst van de overtreding
 
@@ -318,13 +278,13 @@ In onderstaand schema A is één factor genoemd die een rol speelt.
 
 Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
-□ **A**Er is een verlichtende omstandigheden van toepassing
+### Stap 3. Bepalen voorlopig boetebedrag
 
 □ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 □ **C** Er is een verzwarende omstandigheden van toepassing
 
-### Stap 4. Verwijtbaarheid
+□ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
 
@@ -332,17 +292,17 @@ Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder poging
 
 Voor de berekening in schema E wordt rekening gehouden met de vraag of de overtreder een natuurlijke persoon betreft, een natuurlijke persoon die een onderneming drijft of een rechtspersoon die een onderneming drijft. Daarnaast wordt er rekening gehouden met de grootte van die onderneming. Dit zorgt ervoor dat natuurlijke personen en rechtspersonen op evenredige wijze worden geraakt door de boete. De grootte van de onderneming van een natuurlijke persoon en een rechtspersoon wordt vastgesteld aan de hand van het aantal in de onderneming FTE. Dit wordt bepaald door de hoeveelheid werkzame personen van een onderneming, zoals geregistreerd in het handelsregister van de Kamer van Koophandel, te vermenigvuldigen met 0,65 (afgeleid van het statistisch gemiddelde van het CBS van werkzame personen per FTE volgens CBS). Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indien er reden is om aan te nemen dat de registratie in het handelsregister onjuist of niet langer actueel is, wordt een inschatting van het aantal werkzame personen gemaakt op basis van constateringen van de inspecteur tijdens inspectie of gegevens uit het jaarverslag. Het aantal FTE wordt indien nodig afgerond in het voordeel van de betrokkene. Een factor van 0,65 of minder wordt afgerond op 1 FTE.
 
-### Stap 6. Recidive
+Aangezien deze wet zich richt tot de natuurlijke persoon als normadressaat zal er geen sprake zijn van matiging in het kader van het aantal FTE’s, zoals dat in de overige bijlagen van de beleidsregels wel wordt toegepast.
 
-Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+### Stap 5. Recidive
+
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
 ## Boetedifferentiatie
 
-### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet op de bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974)
-
-Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396)
 
 **Leeswijzer**
 
@@ -356,13 +316,13 @@ In onderstaand schema A zijn drie factoren genoemd die een rol kunnen spelen.
 
 Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
-□ **A**Er zijn één of meer verlichtende omstandigheden van toepassing
+### Stap 3. Bepalen voorlopig boetebedrag
 
 □ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 □ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
-### Stap 4. Verwijtbaarheid
+□ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
 
@@ -374,33 +334,33 @@ Voor de berekening in schema D wordt rekening gehouden met de vraag of de overtr
 
 Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
 
+### Stap 6. Recidive
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
 ## Boetedifferentiatie
 
-### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079)
+### Leeswijzer
 
 Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
 
-### Leeswijzer
+**Leeswijzer**
 
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
-
-### Stap 2. Ernst van de overtreding
-
-In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+### Stap 1. Vaststelling zwaartecategorie van het overtreden voorschrift
 
 ### Stap 3. Bepalen voorlopig boetebedrag
 
 Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2. Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
-□ **A**Er zijn één of meer verlichtende omstandigheden van toepassing
+### Stap 3. Bepalen voorlopig boetebedrag
 
 □ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 □ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
-### Stap 4. Verwijtbaarheid
+□ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
 
@@ -412,19 +372,19 @@ Voor de berekening in schema D wordt rekening gehouden met de vraag of de overtr
 
 Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
 
+### Stap 6. Recidive
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
 
 ## Boetedifferentiatie
-
-### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
-
-Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
 
 ### Leeswijzer
 
 **Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit, geweld en ontslag wegens disfunctioneren.
 
-Vanaf de constatering van een gebeurtenis heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
+### Leeswijzer
 
 ### Stap 1. Vaststelling zwaartecategorie van het overtreden voorschrift
 
@@ -506,23 +466,23 @@ Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is gecon
 
 ### Leeswijzer
 
+**Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit of geweld.
+
+Vanaf de constatering van een incident heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. De constatering kan door een ieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
+
 ### Stap 1. Vaststelling zwaartecategorie van het overtreden voorschrift
-
-### Stap 2. Ernst van de overtreding
-
-In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
 
 ### Stap 3. Bepalen voorlopig boetebedrag
 
 Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
-□ **A** Er zijn één of meer verlichtende omstandigheden van toepassing
+### Stap 3. Bepalen voorlopig boetebedrag
 
 □ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 □ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
-### Stap 4. Verwijtbaarheid
+□ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
 
 Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
 
@@ -534,7 +494,49 @@ Voor de berekening in schema D wordt rekening gehouden met de vraag of de overtr
 
 Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
 
-Het op te leggen bedrag is nu vastgesteld op basis van de Beleidsregels bestuurlijke boete Ministerie VWS 2019.
+### Stap 6. Recidive
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
+
+## Boetedifferentiatie
+
+### Inhoud
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+
+### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+
+### Stap 2. De aard van het product.
+
+### Stap 2. Ernst van de overtreding
+
+In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+
+### Stap 3. Bepalen voorlopig boetebedrag
+
+**Ten eerste de omvang van de overtreding**. Een deel van de klasse I medische hulpmiddelen zijn ‘volumeproducten’ die in grotere hoeveelheden tegelijk in verpakkingen voorhanden zijn en afgeleverd worden. Voor het bepalen van de omvang van deze ‘volumeproducten’ geldt dat van een kleine omvang sprake is als er niet meer dan 100 producten voorhanden of afgeleverd zijn. Als er sprake is van meer dan 500 klasse I ‘volumeproducten’ (voorhanden of afgeleverd) is de omvang groot. Voor de overige klasse I medische hulpmiddelen geldt dat er sprake is van een kleine omvang als er niet meer dan 10 producten voorhanden zijn of afgeleverd zijn en van een grote omvang is sprake als er meer dan 50 producten voorhanden zijn of afgeleverd zijn. Voor medische hulpmiddelen in de klasse IIa, IIb of III geldt dat van een kleine omvang sprake is als er niet meer dan 5 producten voorhanden of afgeleverd zijn en als er sprake is van meer dan 10 producten (voorhanden of afgeleverd) is de omvang groot. Voor het bepalen van de omvang van gunstbetoon speelt bijvoorbeeld het percentage van de overschrijding van de vergoeding voor deelnamekosten een rol.
+
+**Ten tweede de duur van de overtreding**. Daarbij kan gedacht worden aan een overtreding die een jaar heeft voortgeduurd (lang) of een overtreding die minder dan een maand heeft geduurd (kort).
+
+**Ten derde het bereik van de overtreding**. Een medisch hulpmiddel dat ook buiten Nederland (bijvoorbeeld via internet) wordt verkocht heeft een groter bereik dan een medisch hulpmiddel dat naar maat gemaakt is (klein). Bij een gemiddeld bereik moet gedacht worden aan een medisch hulpmiddel dat binnen de grenzen van Nederland is gebleven.
+
+**Gunstbetoon**
+
+### Stap 4. Verwijtbaarheid
+
+In schema B is opgenomen of er op grond van deze factoren sprake is van verlichtende of verzwarende omstandigheden. De genoemde voorbeelden zijn niet limitatief.
+
+### Stap 4. Bepalen voorlopig boetebedrag
+
+Welk voorlopig boetebedrag is van toepassing op grond van stap 2 en 3? Voor het gebruik van onderstaand schema (C) geldt het volgende:
+
+### Stap 6. Recidive
+
+□ **B** Er zijn geen verlichtende en/ of verzwarende omstandigheden van toepassing
+
+□ **C** Er zijn één of meer verzwarende omstandigheden van toepassing
 
 ## Boetedifferentiatie
 
@@ -546,11 +548,11 @@ Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is gecon
 
 ### Leeswijzer
 
-### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+### Stap 7. Recidive
 
 ### Stap 2. De aard van het product.
 
-Hierbij dient te worden bepaald of het ging om een medisch hulpmiddel uit risicoklasse I, IIa, IIb of III. Ingeval het een in-vitro diagnosticum betreft, moet bepaald worden of het om een laag-risico, midden hoog-risico of hoog-risico in-vitro diagnosticum ging.
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke bo ete Ministerie VWS 2019.
 
 ### Stap 3. Ernst van de overtreding
 
@@ -593,5 +595,135 @@ Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indi
 Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het bedrag bij een nieuwe boete verdubbeld. Deze handelwijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive
 
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke bo ete Ministerie VWS 2019.
+
+Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)
+
+Met deze bijlage is het mogelijk om stapsgewijs, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete vast te stellen.
+
+**Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit en geweld.
+
+### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+
+### Stap 2. Ernst van de overtreding
+
+In schema A zijn twee factoren genoemd die een rol kunnen spelen bij het bepalen van de ernst van de overtreding.
+
+### Stap 3. Bepalen voorlopig boetebedrag
+
+### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+
+In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+
+### Stap 3. Bepalen voorlopig boetebedrag
+
+Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2? Voor het gebruik van onderstaand schema (B) geldt het volgende:
+
+### Stap 4. Verwijtbaarheid
+
+Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
+
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396)
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding**vast te stellen.
+
+### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+
+**TARIEFLIJST normbedragen bestuurlijke boete Wet afbreking zwangerschap**
+
+□ **A**Er is een verlichtende omstandigheden van toepassing
+
+### Stap 4. Verwijtbaarheid
+
+### Stap 6. Recidive
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Deze handelswijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet op de bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974)
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+
+□ **A**Er zijn één of meer verlichtende omstandigheden van toepassing
+
+### Stap 4. Verwijtbaarheid
+
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079)
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+
+### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
+
+### Stap 2. Ernst van de overtreding
+
+In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+
+□ **A**Er zijn één of meer verlichtende omstandigheden van toepassing
+
+### Stap 4. Verwijtbaarheid
+
+Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke boete Ministerie VWS 2019.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+
+Vanaf de constatering van een gebeurtenis heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
+
+### Stap 1. Vaststelling zwaartecategorie van het overtreden voorschrift
+
+### Stap 2. Ernst van de overtreding
+
+In onderstaand schema A zijn twee factoren genoemd die een rol kunnen spelen.
+
+□ **A** Er zijn één of meer verlichtende omstandigheden van toepassing
+
+### Stap 4. Verwijtbaarheid
+
+Het op te leggen bedrag is nu vastgesteld op basis van de Beleidsregels bestuurlijke boete Ministerie VWS 2019.
+
+## Boetedifferentiatie
+
+### Bijlage bij de Boetebeleidsregels ministerie VWS 2019: [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697)
+
+Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is geconstateerd, de hoogte van de boete in deze differentiatie **per afzonderlijke overtreding** vast te stellen.
+
+### Leeswijzer
+
+Hierbij dient te worden bepaald of het ging om een medisch hulpmiddel uit risicoklasse I, IIa, IIb of III. Ingeval het een in-vitro diagnosticum betreft, moet bepaald worden of het om een laag-risico, midden hoog-risico of hoog-risico in-vitro diagnosticum ging.
+
+### Stap 3. Ernst van de overtreding
+
+In onderstaand schema B zijn diverse factoren genoemd die meegewogen kunnen worden bij het bepalen van de ernst van de overtreding.
+
+Indien er sprake is van gunstbetoon, kan punt drie in schema B overgeslagen worden. Punt vier in schema B kan overgeslagen worden indien er geen sprake is van gunstbetoon.
+
+□ **A**Er zijn één of meer verlichtende omstandigheden van toepassing
+
+### Stap 5. Verwijtbaarheid
+
+Voor de verwijtbaarheid is het van belang om te bekijken of de overtreder pogingen heeft ondernomen om de overtreding te voorkomen, voorafgaand aan de constatering van de overtreding. Ten aanzien van het beëindigen van de overtreding dient hierbij te worden gedacht aan het uit eigen beweging beëindigen van de overtreding voorafgaand aan de constatering van de overtreding. De overtreder moet hierbij tot het uiterste zijn gegaan om aanspraak te kunnen doen op verminderde verwijtbaarheid. Bij verminderde verwijtbaarheid moet altijd gemotiveerd worden uit welke feiten en omstandigheden dit bleek.
+
+### Stap 6. Natuurlijke persoon of onderneming, grootte van de onderneming
+
+Voor de berekening in schema E wordt rekening gehouden met de vraag of de overtreder een natuurlijke persoon betreft, een natuurlijke persoon die een onderneming drijft of een rechtspersoon die een onderneming drijft. Daarnaast wordt er rekening gehouden met de grootte van die onderneming. Dit zorgt ervoor dat natuurlijke personen en rechtspersonen op evenredige wijze worden geraakt door de boete. De grootte van de onderneming van een natuurlijke persoon en een rechtspersoon wordt vastgesteld aan de hand van het aantal in de onderneming FTE. Dit wordt bepaald door de hoeveelheid werkzame personen van een onderneming, zoals geregistreerd in het handelsregister van de Kamer van Koophandel, te vermenigvuldigen met 0,65 (afgeleid van het statistisch gemiddelde van het CBS van werkzame personen per FTE volgens CBS).
+
+Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indien er reden is om aan te nemen dat de registratie in het handelsregister onjuist of niet langer actueel is, wordt een inschatting van het aantal werkzame personen gemaakt op basis van constateringen van de inspecteur tijdens inspectie of gegevens uit het jaarverslag. Het aantal FTE wordt indien nodig afgerond in het voordeel van de betrokkene. Een uitkomst van 0,65 of minder wordt afgerond op 1 FTE.
+
+Indien binnen vier jaar nadat een overtreding is geconstateerd opnieuw een tweede of volgende overtreding van dezelfde wettelijke norm wordt geconstateerd (recidive), wordt het bedrag bij een nieuwe boete verdubbeld. Deze handelwijze wordt toegepast op iedere volgende overtreding binnen de recidivetermijn tot het maximale in de wet vastgestelde boetebedrag. Onherroepelijkheid van een eerdere boete speelt zodoende geen rol bij de vraag of de boete verdubbeld kan worden wegens recidive
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
