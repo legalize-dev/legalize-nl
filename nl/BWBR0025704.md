@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-04-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2017-04-01&g=2017-04-01) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01) van de beroepsrichtlijn voor het wegvervoer.
 
 8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -204,17 +204,51 @@ Het model voor een verklaring als bedoeld in [artikel 2.11, tweede lid, van de w
 
 3. Het tweede lid is niet van toepassing indien het beroepsvervoer betreft waarvan de op dat vervoer betrekking hebbende vrachtbriefgegevens gestructureerd en genormeerd via een elektronisch systeem worden uitgewisseld.
 
-4. Geen vrachtbrief is vereist voor het binnenlands beroepsvervoer van:
+4. Het verbod, bedoeld in [artikel 2.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), is niet van toepassing op binnenlands beroepsvervoer dat:
 
-- a. levende dieren;
+- a. wordt verricht met een of meer vrachtauto’s met een toegestaan laadvermogen van niet meer dan 500 kg; of
 
-- b. landbouwproducten van de teeltplaats naar de veiling en van tot dit vervoer gebezigde ledige verpakkingsmiddelen van de veiling naar de teeltplaats;
+- b. het vervoer betreft van:
 
-- c. inboedels;
+- 1°. levende dieren;
 
-- d. losgestorte goederen, of
+- 2°. landbouwproducten van de teeltplaats naar de veiling en van tot dit vervoer gebezigde ledige verpakkingsmiddelen van de veiling naar de teeltplaats;
 
-- e. postzendingen.
+- 3°. inboedels;
+
+- 4°. losgestorte goederen; of
+
+- 5°. postzendingen.
+
+5. Het verbod, bedoeld in [artikel 2.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), richt zich tot:
+
+- a. de vervoerder indien:
+
+- 1°. met betrekking tot dat vervoer geen vrachtbrief is opgemaakt;
+
+- 2°. de naam en het adres van de vervoerder niet of onjuist op de vrachtbrief zijn vermeld; of
+
+- 3°. de vrachtbrief niet getoond kan worden bij eerste vordering door de op grond van [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=5.1) aangewezen personen;
+
+- b. de afzender indien:
+
+- 1°. met betrekking tot binnenlands beroepsvervoer de aanduidingen, bedoeld in het eerste lid, onderdelen a en c tot en met e, onvolledig of onjuist op de vrachtbrief zijn vermeld; of
+
+- 2°. met betrekking tot grensoverschrijdend beroepsvervoer de volgende aanduidingen onvolledig of onjuist op de vrachtbrief zijn vermeld:
+
+- a. de naam en het adres van de afzender;
+
+- b. de plaats en de datum van inontvangstneming der goederen en de plaats bestemd voor de aflevering der goederen;
+
+- c. de naam en het adres van de geadresseerde;
+
+- d. de gebruikelijke aanduiding van de aard der goederen en de wijze van verpakking en, voor gevaarlijke goederen, hun algemeen erkende benaming;
+
+- e. het aantal colli, hun bijzondere merken en hun nummers;
+
+- f. het bruto-gewicht of de op andere wijze aangegeven hoeveelheid van de goederen; en
+
+- g. de voor het vervullen van douane- en andere formaliteiten nodige instructies.
 
 ### Hoofdstuk 7. Bestuur NIWO
 
@@ -244,7 +278,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2017-04-01&g=2017-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2017-04-01&g=2017-04-01) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2021-01-01&g=2021-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2021-01-01&g=2021-01-01) vormt een strafbaar feit.
 
 2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
 
