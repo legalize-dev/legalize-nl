@@ -4,7 +4,7 @@ identifier: "BWBR0043619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2020-09-09"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043619"
 soort: "ministeriele-regeling"
@@ -52,6 +52,6 @@ Vervallen
 
 ##### Artikel III
 
-Deze regeling treedt in werking met ingang van 1 juli 2020, met uitzondering van [Artikel I, onderdelen BB, EE en FF](https://wetten.overheid.nl/jci1.3:c:BWBR0043619&artikel=I&z=2020-09-09&g=2020-09-09), die in werking treden met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 juli 2020, met uitzondering van [Artikel I, onderdelen BB, EE en FF](https://wetten.overheid.nl/jci1.3:c:BWBR0043619&artikel=I&z=2021-01-01&g=2021-01-01), die in werking treden met ingang van 1 januari 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
