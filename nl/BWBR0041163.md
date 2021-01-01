@@ -4,7 +4,7 @@ identifier: "BWBR0041163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2018-09-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041163"
 soort: "ministeriele-regeling"
@@ -48,11 +48,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 36, eerste, derde, vierde, vijfde, zesde, negende, tiende en veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), worden aangewezen:
-
-- a. De verpleegkundig specialist acute zorg bij somatische aandoeningen;
-
-- b. De verpleegkundig specialist intensieve zorg bij somatische aandoeningen.
+Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 36, eerste, derde, vierde, vijfde, zesde, negende, tiende en veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), wordt aangewezen de verpleegkundig specialist algemene gezondheidszorg.
 
 ##### Artikel 3
 
@@ -68,7 +64,7 @@ Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 36, vijfd
 
 ##### Artikel 6
 
-De verpleegkundig specialisten bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=2&z=2018-09-01&g=2018-09-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=3&z=2018-09-01&g=2018-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=4&z=2018-09-01&g=2018-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=5&z=2018-09-01&g=2018-09-01) zijn bevoegd tot het verrichten van de in die artikelen genoemde handelingen voor zover:
+De verpleegkundig specialisten bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=2&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=3&z=2021-01-01&g=2021-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=4&z=2021-01-01&g=2021-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041163&artikel=5&z=2021-01-01&g=2021-01-01) zijn bevoegd tot het verrichten van de in die artikelen genoemde handelingen voor zover:
 
 - a. die handelingen plaatsvinden binnen de uitoefening van het deelgebied van het beroep waarvoor hij een erkende specialistentitel mag voeren;
 
