@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **vestiging:** een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16) en [65, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=65) en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a);
 
-- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2019 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2020-01-01&g=2020-01-01) bij deze regeling;
+- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2020 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling;
 
 - h. **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2020 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2021 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
 2. De aanvullende personele bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
@@ -88,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvullende personele bekostiging
 
-Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01).
+Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 4. Berekening aanvullende personele bekostiging
 
-1. Voor deze aanvullende bekostiging is in 2020 een bedrag van € 65,0 miljoen beschikbaar.
+1. Voor deze aanvullende bekostiging is in 2021 een bedrag van € 67,2 miljoen beschikbaar.
 
 2. De verstrekking van de aanvullende personele bekostiging vindt plaats per kalenderjaar.
 
@@ -106,7 +106,7 @@ De definitie van de verschillende componenten uit deze formule is als volgt:
 
 - a. Xi = de aanvullende personele bekostiging voor een individuele school;
 
-- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
+- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2021-01-01&g=2021-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
 
 - c. Bi = reguliere personele bekostiging voor leraren van school i in het betreffende kalenderjaar als bedoeld in [artikel 8 van het Formatiebesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005446&artikel=8);
 
@@ -138,7 +138,7 @@ Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeke
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-2. Deze regeling vervalt met ingang van 1 januari 2021, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
+2. Deze regeling vervalt met ingang van 1 januari 2022, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
 
 ##### Artikel 9. Citeertitel
 
