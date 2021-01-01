@@ -4,7 +4,7 @@ identifier: "BWBR0036578"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036578"
 soort: "AMvB"
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2:3
 
-De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2020-01-01&g=2020-01-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2020-01-01&g=2020-01-01) en [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2a&z=2020-01-01&g=2020-01-01), die door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank via de verwerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de verwerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de verwerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
+De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2021-01-01&g=2021-01-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2021-01-01&g=2021-01-01) en [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2a&z=2021-01-01&g=2021-01-01), die door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank via de verwerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de verwerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de verwerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
 
 #### **Verstrekken van gegevens door de Sociale verzekeringsbank**
 
@@ -138,7 +138,7 @@ De certificerende instelling en de verwerker dragen zorg voor passende technisch
 
 ### Hoofdstuk 3. Preventieve stillegging van werk in verband met recidive
 
-#### Overtredingen voor preventieve stillegging
+#### Beveiliging tegen verlies of onrechtmatige verwerking
 
 ##### Artikel 3:1
 
@@ -150,33 +150,33 @@ De certificerende instelling en de verwerker dragen zorg voor passende technisch
 
 4. Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.
 
-#### Overtredingen voor preventieve stillegging
+#### Waarborgen gegevensverwerking door certificerende instellingen
 
 ##### Artikel 3:2
 
-Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2020-01-01&g=2020-01-01), worden aangepast.
+Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2021-01-01&g=2021-01-01), worden aangepast.
 
 #### Overtredingen voor preventieve stillegging
 
 ##### Artikel 3:3
 
-Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2020-01-01&g=2020-01-01).
+Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2021-01-01&g=2021-01-01).
 
 ### Hoofdstuk 3a. Openbaarmaking inspectiegegevens
 
-#### [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+#### Aanpassing aantal werknemers
 
 ##### Artikel 4:1
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+#### Ernstige overtredingen
 
 ##### Artikel 4:2
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 3a. Openbaarmaking inspectiegegevens
 
 #### Intrekking Besluit
 
@@ -210,23 +210,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. de punten waarop is gecontroleerd en de wet of wetten die de grondslag daarvoor bieden;
 
-- b. de locatie waar het onderzoek heeft plaatsgevonden; en
+- b. de locatie waar het onderzoek heeft plaatsgevonden;
 
-- c. de datum of periode waarop het onderzoek heeft plaatsgevonden.
+- c. de datum of periode waarop het onderzoek heeft plaatsgevonden;
 
-2. Indien het onderzoek heeft plaatsgevonden bij een normadressaat die is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), worden in aanvulling op het eerste lid met betrekking tot de normadressaat tevens openbaar gemaakt:
+- d. de naam en vestigingsplaats van de betreffende normadressaat;
 
-- a. de naam en vestigingsplaats;
+- e. het nummer waaronder de betreffende normadressaat is ingeschreven in een register van het land van vestiging, dan wel de unieke code die naar de betreffende normadressaat te herleiden is; en
 
-- b. het nummer waaronder deze staat ingeschreven in het handelsregister; en
+- f. de sector of branche waarin deze normadressaat zijn economische activiteiten verricht.
 
-- c. de sector of branche waarin deze normadressaat zijn economische activiteiten verricht.
-
-3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2020-01-01&g=2020-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
+2. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2021-01-01&g=2021-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
 ##### Artikel 3a:3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
 
-1. In aanvulling op [artikel 3a:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2020-01-01&g=2020-01-01), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18) of door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=22), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
+1. In aanvulling op [artikel 3a:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2021-01-01&g=2021-01-01), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18) of door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=22), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
 
 - a. welk besluit is genomen, de artikelen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) die de grondslag daarvoor bieden en de datum van dat besluit; en
 
@@ -236,27 +234,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a:4. Termijn waarbinnen openbaarmaking geschiedt
 
-1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2020-01-01&g=2020-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2020-01-01&g=2020-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
+1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2021-01-01&g=2021-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2021-01-01&g=2021-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 15b, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
 ##### Artikel 3a:5. Reactie van belanghebbende
 
-1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2020-01-01&g=2020-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2020-01-01&g=2020-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
+1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2021-01-01&g=2021-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2021-01-01&g=2021-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
 ##### Artikel 3a:6. Rectificatie
 
-Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), en de [artikelen 3a:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:1&z=2020-01-01&g=2020-01-01) en [3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2020-01-01&g=2020-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
+Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), en de [artikelen 3a:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:1&z=2021-01-01&g=2021-01-01) en [3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2021-01-01&g=2021-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
 
 ### Hoofdstuk 4. Wijzigingen in andere besluiten
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4. Wijzigingen in andere besluiten
 
-#### Intrekking Besluit
+#### [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
-#### Intrekking Besluit
+#### [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 #### Intrekking Besluit
 
@@ -264,13 +262,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2:2a
 
-1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de verwerker aan de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), ten minste eenmaal per jaar de door de certificerende instellingen aan de verwerker verstrekte naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2020-01-01&g=2020-01-01), van de gecertificeerde ondernemingen of rechtspersonen en een afschrift van de bij deze ondernemingen of rechtspersonen behorende verklaringen toepasselijke wetgeving als bedoeld in artikel 14b, derde lid, van de wet, waarvan wordt vermoed dat deze verklaringen onterecht dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring, inclusief per afschrift een referentienummer en de motivering van het vermoeden.
+1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de verwerker aan de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), ten minste eenmaal per jaar de door de certificerende instellingen aan de verwerker verstrekte naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2021-01-01&g=2021-01-01), van de gecertificeerde ondernemingen of rechtspersonen en een afschrift van de bij deze ondernemingen of rechtspersonen behorende verklaringen toepasselijke wetgeving als bedoeld in artikel 14b, derde lid, van de wet, waarvan wordt vermoed dat deze verklaringen onterecht dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring, inclusief per afschrift een referentienummer en de motivering van het vermoeden.
 
 2. Aan de hand van de gegevens, bedoeld in het eerste lid, gaat de Sociale verzekeringsbank na of is gebleken dat ten behoeve van een bij deze gecertificeerde onderneming of rechtspersoon werkzame persoon een terechte, onterechte, juiste dan wel onjuiste verklaring toepasselijke wetgeving is afgegeven of dat er sprake is van een vervalste verklaring.
 
 3. De Sociale verzekeringsbank verstrekt ten minste eenmaal per jaar, aan de hand van de door de verwerker verstrekte gegevens, bedoeld in het eerste lid, door tussenkomst van de verwerker aan de certificerende instelling, de volgende gegevens:
 
-- a. de naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2020-01-01&g=2020-01-01), van de gecertificeerde onderneming of rechtspersoon; en
+- a. de naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2021-01-01&g=2021-01-01), van de gecertificeerde onderneming of rechtspersoon; en
 
 - b. per referentienummer als bedoeld in het eerste lid, het gegeven of de verklaring waarop het referentienummer betrekking heeft terecht, onterecht, juist dan wel onjuist is afgegeven of dat er sprake is van een vervalste verklaring en de motivering van dat gegeven.
 
@@ -315,6 +313,50 @@ Bij collectieve arbeidsovereenkomst kan worden afgeweken van [artikel 8a van de 
 #### [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 ### Hoofdstuk 5. Slotbepalingen
+
+#### Citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a:1. Adequate pensioenregeling voor arbeidskrachten die in het kader van payrolling ter beschikking zijn gesteld
+
+1. In aanvulling op [artikel 8a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8a) is er eveneens sprake van een adequate pensioenregeling als bedoeld in artikel 8a, vierde lid, van de wet, indien voor de arbeidskracht die in het kader van payrolling ter beschikking is gesteld een basispensioenregeling geldt:
+
+- a. die ten minste voorziet in ouderdomspensioen en nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1);
+
+- b. die geen wachttijd of drempelperiode als bedoeld in [artikel 14, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=14) bevat; en
+
+- c. waarbij de totale werkgeverspremie, bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), ten minste 14,6% per 1 januari 2021: 14,5%.bedraagt van de som van de pensioengrondslag van de arbeidskrachten die door de onderneming in het kader van payrolling ter beschikking worden gesteld en die op grond van [artikel 8a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8a) recht hebben op een pensioenregeling.
+
+2. Voor het vaststellen van de in het eerste lid, onderdeel c, bedoelde pensioengrondslag wordt uitgegaan van het maximale pensioengevend loon, binnen de begrenzingen van [hoofdstuk IIB van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), met uitzondering van het loon uit vroegere dienstbetrekking als bedoeld in die wet, en, indien van toepassing, het loon, bedoeld in het vijfde lid, verminderd met 100/75 maal het bedrag dat op grond van [artikel 18a, zevende lid, onderdelen a, eerste zin, b en c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in aanmerking moet worden genomen.
+
+3. Bij de toepassing van het tweede lid wordt geen rekening gehouden met specifieke bepalingen over demotie, ziekte en arbeidsongeschiktheid.
+
+4. Het percentage, genoemd in het eerste lid, onderdeel c, wordt per 1 januari van elk kalenderjaar bij ministeriële regeling aangepast aan de hand van de ontwikkeling van de gemiddelde werkgeverspremie die wordt afgedragen voor Nederlandse basispensioenregelingen.
+
+5. Indien het voldoen aan de voorwaarde, bedoeld in het eerste lid, onderdeel c, ertoe leidt dat de basispensioenregeling niet blijft binnen de bij of krachtens de [hoofdstukken IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) en [VIII van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIII) gestelde begrenzingen, kan in afwijking van het eerste lid, onderdeel c, worden volstaan met de maximale werkgeverspremie die is toegestaan om binnen de voornoemde begrenzingen te blijven voor alle arbeidskrachten waar de pensioenregeling voor geldt.
+
+6. De beoordeling of aan het eerste lid, onderdeel c, of het vijfde lid, wordt voldaan, wordt vastgesteld bij het sluiten van de pensioenovereenkomst en de uitvoeringsovereenkomst door degene die de arbeidskracht ter beschikking stelt en de pensioenuitvoerder, en op basis van het eerste tijdvak van het kalenderjaar waarover de premie verschuldigd is, met dien verstande dat dit tijdvak niet langer dan een kwartaal mag zijn.
+
+### Hoofdstuk 2. Gegevensuitwisseling
+
+#### Verstrekken van gegevens door Inspectie SZW
+
+#### Verstrekken van gegevens door rijksbelastingdienst
+
+#### **Verstrekken van gegevens door de Sociale verzekeringsbank**
+
+#### Reikwijdte gegevensverwerking en vernietiging gegevens
+
+### Hoofdstuk 3. Preventieve stillegging van werk in verband met recidive
+
+#### Overtredingen voor preventieve stillegging
+
+### Hoofdstuk 5. Slotbepalingen
+
+#### Intrekking Besluit
+
+#### Inwerkingtreding
 
 #### Citeertitel
 
