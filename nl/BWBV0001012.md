@@ -4,7 +4,7 @@ identifier: "BWBV0001012"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-06-01"
-last_updated: "2016-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001012"
 soort: "verdrag"
@@ -191,13 +191,7 @@ Eventuele reiskosten die worden gemaakt om gevolg te geven aan de in artikel 8, 
 
 ##### Artikel 10
 
-1. Om gedurende een verblijf op het grondgebied van de andere, niet bevoegde Staat in aanmerking te komen voor verstrekkingen, legt de in artikel 11, eerste lid, van het Verdrag bedoelde werknemer aan het orgaan van de verblijfplaats een verklaring over die door het bevoegde orgaan zo mogelijk voor het vertrek uit de bevoegde Staat is afgegeven en waaruit blijkt dat hij recht heeft op bovengenoemde verstrekkingen. Deze verklaring vermeldt met name gedurende welk tijdvak deze verstrekkingen kunnen worden verleend. Indien de werknemer de genoemde verklaring niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan om toezending.
-
-2. Het in het voorgaande lid bepaalde is van overeenkomstige toepassing op de gezinsleden van de werknemer.
-
-3. Indien de in het eerste lid van dit artikel genoemde formaliteiten gedurende het verblijf niet konden worden vervuld, worden de gemaakte onkosten op verzoek van de werknemer vergoed door het bevoegde orgaan, tegen de door het orgaan van de verblijfplaats gehanteerde tarieven.
-
-4. Het orgaan van de verblijfplaats dient aan het bevoegde orgaan dat hierom verzoekt de benodigde gegevens met betrekking tot deze tarieven te verstrekken.
+Vervallen
 
 ##### Artikel 11
 
@@ -205,9 +199,9 @@ Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, l
 
 ##### Artikel 12
 
-1. Teneinde de toestemming te verkrijgen die voor toekenning van de in [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde verstrekkingen vereist is, richt het orgaan van de woon- of verblijfplaats een verzoek tot het bevoegde orgaan. Dit laatstgenoemde orgaan heeft een termijn van dertig dagen, te rekenen vanaf de verzending van dit verzoek, om in voorkomend geval zijn bezwaren gemotiveerd kenbaar te maken; het orgaan van de woon- of verblijfplaats kent de verstrekkingen toe, indien het na het verstrijken van deze termijn geen kennisgeving van bezwaren heeft ontvangen.
+1. Teneinde de toestemming te verkrijgen die voor toekenning van de in [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde verstrekkingen vereist is, richt het orgaan van de woonplaats een verzoek tot het bevoegde orgaan. Dit laatstgenoemde orgaan heeft een termijn van dertig dagen, te rekenen vanaf de verzending van dit verzoek, om in voorkomend geval zijn bezwaren gemotiveerd kenbaar te maken; het orgaan van de woonplaats kent de verstrekkingen toe, indien het na het verstrijken van deze termijn geen kennisgeving van bezwaren heeft ontvangen.
 
-2. Wanneer de in [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde verstrekkingen in onmiskenbare spoedgevallen zonder toestemming van het bevoegde orgaan moeten worden verleend, stelt het orgaan van de woon- of verblijfplaats dit orgaan hiervan onmiddellijk in kennis.
+2. Wanneer de in [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde verstrekkingen in onmiskenbare spoedgevallen zonder toestemming van het bevoegde orgaan moeten worden verleend, stelt het orgaan van de woonplaats dit orgaan hiervan onmiddellijk in kennis.
 
 3. Onmiskenbare spoedgevallen in de zin van [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) zijn die gevallen, waarin het verlenen van de verstrekking niet kan worden uitgesteld zonder het leven of de gezondheid van de betrokkene ernstig in gevaar te brengen. Ingeval een prothese of een hulpmiddel door een ongeval is gebroken of beschadigd, is het, om de onmiskenbare spoed vast te stellen, voldoende de noodzaak van reparatie of vervanging van deze prothese of dit hulpmiddel aan te tonen.
 
@@ -243,21 +237,19 @@ Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, l
 
 7. Het in artikel 13 bepaalde is van overeenkomstige toepassing op de in [artikel 13, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde gezinsleden.
 
-8. Met betrekking tot het verlenen van verstrekkingen aan pensioengerechtigden en hun gezinsleden, tijdens een verblijf zoals bedoeld in [artikel 13, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13), is het in artikel 10 en artikel 12 bepaalde van overeenkomstige toepassing.
-
 ##### Artikel 14a
 
-In de in [artikel 13, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde gevallen verzoekt het bevoegde orgaan, zo nodig, het orgaan van de laatste woonplaats om gegevens met betrekking tot het tijdvak waarin verstrekkingen zijn verleend dat onmiddellijk voorafging aan het verblijf op of de overbrenging van de woonplaats naar het grondgebied van de bevoegde Staat.
+In de in [artikel 13, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde gevallen verzoekt het bevoegde orgaan, zo nodig, het orgaan van de laatste woonplaats om gegevens met betrekking tot het tijdvak waarin verstrekkingen zijn verleend dat onmiddellijk voorafging aan de overbrenging van de woonplaats naar het grondgebied van de bevoegde Staat.
 
 ##### Artikel 14b
 
-De werkelijke bedragen van de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=10), [artikel 11, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13), en [artikel 13, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13), worden door de bevoegde organen vergoed aan de organen die bedoelde verstrekkingen hebben verleend, en wel op grond van de boekhouding van de laatstgenoemde organen.
+De werkelijke bedragen van de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=10), en [artikel 11, tweede en zesde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11), worden door de bevoegde organen vergoed aan de organen die bedoelde verstrekkingen hebben verleend, en wel op grond van de boekhouding van de laatstgenoemde organen.
 
 ##### Artikel 14c
 
 1. Voor de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=12) en [artikel 13, tweede en derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) wordt voor elk kalenderjaar een vast bedrag vastgesteld.
 
-2. Het in het eerste lid bedoelde vaste bedrag dat door de Nederlandse organen is verschuldigd, wordt vastgesteld door 95 % van de gemiddelde jaarlijkse kosten per persoon te vermenigvuldigen met het gemiddelde aantal personen waarmee jaarlijks moet worden gerekend.
+2. Het in het eerste lid bedoelde vaste bedrag dat door de Nederlandse organen is verschuldigd, wordt vastgesteld door de gemiddelde jaarlijkse kosten per persoon te vermenigvuldigen met het gemiddelde aantal personen waarmee jaarlijks moet worden gerekend.
 
 Dit bedrag wordt berekend aan de hand van statistieken die door de bevoegde Marokkaanse autoriteit worden vastgesteld, uitgaande van:
 
