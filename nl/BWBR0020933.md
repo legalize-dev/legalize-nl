@@ -4,7 +4,7 @@ identifier: "BWBR0020933"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2018-02-27"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020933"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Vervallen
 
 ##### Artikel 4
 
-De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningsteam, tot een maximum van 6 jaar.
+Vervallen
 
 ##### Artikel 5
 
