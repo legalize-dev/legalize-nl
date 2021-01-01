@@ -4,7 +4,7 @@ identifier: "BWBR0032581"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-06-25"
-last_updated: "2012-12-25"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032581"
 soort: "beleidsregel"
@@ -49,7 +49,7 @@ Het Voorschrift informatie fiscus/banken bevat beleidsregels met betrekking tot 
 
 ### 2. Gebruikte begrippen en afkortingen
 
-### 3. Algemeen
+### 2. Gebruikte begrippen en afkortingen
 
 Het Voorschrift geeft aan op welke wijze de Belastingdienst om informatie over derden verzoekt met betrekking tot bancaire activiteiten en op welke wijze de banken daaraan moeten voldoen. Het Voorschrift vindt geen toepassing ten aanzien van niet-bancaire activiteiten.
 
@@ -57,11 +57,13 @@ Het Voorschrift geeft aan op welke wijze de Belastingdienst om informatie over d
 
 **3.1.0.**
 
+**3.1.0.**
+
 Alvorens een verzoek om informatie te doen bij de bank, tracht de Belastingdienst de benodigde gegevens te verkrijgen van de betrokken derde zelf. Indien verkrijging van de benodigde gegevens bij deze derde niet mogelijk is, wordt deze door de Belastingdienst in de gelegenheid gesteld die gegevens bij de bank te verzamelen. Indien dat niet tot het gewenste resultaat leidt, wendt de Belastingdienst zich met een verzoek om informatie rechtstreeks tot de bank. Naar aanleiding van dit verzoek verstrekt de bank overeenkomstig de wettelijke bepalingen informatie over de derde.
 
 **3.1.1.**
 
-In afwijking van het bepaalde in paragraaf 3.1.0 wendt de Belastingdienst zich eveneens rechtstreeks tot de bank indien naar het oordeel van de desbetreffende directeur het belang van het onderzoek niet toestaat dat de procedure als bedoeld in die paragraaf wordt gevolgd. Indien de directeur daarom verzoekt zal de bank de betrokken derde niet omtrent het informatieverzoek inlichten. De bank kan aan de informatieverstrekking niet de voorwaarde verbinden dat de betrokken derde daarmee instemt.
+In afwijking van het bepaalde in paragraaf 3.1.0 wendt de Belastingdienst zich eveneens rechtstreeks tot de bank indien naar het oordeel van de desbetreffende directeur het belang van het onderzoek niet toestaat dat de procedure als bedoeld in die paragraaf wordt gevolgd. De bank licht de betrokken derde niet in over het informatieverzoek. De bank kan aan de informatieverstrekking niet de voorwaarde verbinden dat de betrokken derde daarmee instemt.
 
 **3.1.2.**
 
@@ -81,17 +83,13 @@ In gevallen waarin niet in redelijkheid kan worden aangenomen dat de rekening bi
 
 **3.1.5.**
 
-De Belastingdienst beperkt zich zo veel als mogelijk tot het opvragen van gegevens die op het actuele onderzoeksjaar betrekking hebben. Onverminderd de wettelijke bewaarverplichtingen, verstrekt de bank desgevraagd een zogeheten historisch overzicht van het actuele onderzoeksjaar en maximaal van de laatste vijf kalenderjaren van de desbetreffende rekening(en).
+De Belastingdienst beperkt zich zo veel als mogelijk tot het opvragen van gegevens die op het actuele onderzoeksjaar betrekking hebben.
 
 **3.1.6.**
 
-De bank voldoet binnen een redelijke termijn aan een verzoek om informatie over stukken betreffende mutaties die voorkomen in het in paragraaf 3.1.5. vermelde historische overzicht.
+De kosten die door de bank zijn gemaakt in het kader van het voldoen aan een verzoek om informatie worden, net als de kosten voor het maken van afschriften voor de Belastingdienst, niet door de Belastingdienst vergoed. Het voorgaande geldt ook indien de bank ongevraagd, teneinde de snelheid van het onderzoek te bevorderen, eigen personeel en apparatuur ter beschikking stelt.
 
 **3.1.7.**
-
-De kosten van de bank gemaakt in het kader van het voldoen aan een verzoek om informatie, de kosten verbonden aan het in paragraaf 3.1.5. vermelde historisch overzicht alsmede de kosten voor het maken van afschriften door de Belastingdienst, worden door de Belastingdienst niet aan de bank vergoed. Het voorgaande geldt ook indien de bank ongevraagd, teneinde de snelheid van het onderzoek te bevorderen, eigen personeel en apparatuur ter beschikking stelt.
-
-**3.1.8.**
 
 Een verzoek tot het beschikbaar stellen ter raadpleging van boeken, bescheiden en andere gegevensdragers wordt gedaan indien naar het oordeel van de desbetreffende directeur deze raadpleging voor de heffing of invordering van belang kan zijn.
 
@@ -99,35 +97,91 @@ Toegestaan wordt dat van bepaalde stukken kopieën, afschriften, e.d. worden gem
 
 De bank hoeft adviezen van (belasting)adviseurs voor zover ze ten doel hebben de fiscale positie van de bank of cliënt te belichten of hem daaromtrent te adviseren niet ter inzage te verstrekken (het fair play beginsel).
 
-**3.1.9.**
+**3.1.8.**
 
 Op verzoek van de directeur worden de gegevens in digitale vorm verstrekt. Zo nodig levert de Belastingdienst de benodigde gegevensdragers aan. De directeur kan aangeven dat de informatie op een andere wijze moet worden verstrekt.
 
-Indien de bank de desbetreffende gegevens niet in digitale vorm bewaart of indien de bank van mening is dat digitale verstrekking technisch niet mogelijk dan wel onevenredig belastend is, wijst de bank dit verzoek gemotiveerd af. Bij blijvend geschil van mening wordt dit geschil voorgelegd aan het Directoraat-generaal Belastingdienst, cluster fiscaliteit.
+Indien de bank de desbetreffende gegevens niet in digitale vorm bewaart of indien de bank van mening is dat digitale verstrekking technisch niet mogelijk dan wel onevenredig belastend is, wijst de bank dit verzoek gemotiveerd af. Bij een blijvend verschil van inzicht wordt het geschil voorgelegd aan de hoofddirecteur van de concerndirectie Fiscale en Juridische Zaken.
 
-**3.1.10**
+**3.1.9**
 
 De medewerker van de Belastingdienst wordt op diens verzoek in de gelegenheid gesteld de originele stukken in te zien.
 
-**3.1.11**
+**3.1.10**
+
+De algemeen directeur van de Belastingdienst/Grote ondernemingen kan, na toestemming van de hoofddirecteur van de concerndirectie Fiscale en Juridische Zaken, serievragen stellen. Deze vragen worden feitelijk gesteld door de regiodirecteur Grote ondernemingen Noordwest.
 
 De Belastingdienst kan, na toestemming van het Directoraat-generaal Belastingdienst, cluster fiscaliteit, serievragen stellen.
-
-Deze serievragen worden gesteld door de directeur van de Belastingen/GO, kantoor Amsterdam.
-
-### 4. Wederzijdse bijstand
 
 De bepalingen van dit Voorschrift hebben mede betrekking op verzoeken om informatie en het stellen van vragen inzake een individuele derde of groepen van derden in verband met het door Nederland verlenen van bijstand ten behoeve van de heffing van belastingen en de invordering van belastingschulden van andere staten.
 
 ### 5. Overige zaken
 
-Gevallen en zaken waarin dit Voorschrift niet voorziet worden voorgelegd aan het Directoraat-generaal Belastingdienst, cluster fiscaliteit.
+Gevallen en zaken waarin dit Voorschrift niet voorziet worden voorgelegd aan de hoofddirecteur van de concerndirectie Fiscale en Juridische Zaken.
 
 ### 6. Ingetrokken regelingen
 
 Het [besluit van 28 januari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029530), nr. BLKB2011/109M, wordt met ingang van de inwerkingtreding van dit besluit ingetrokken.
 
 ### 7. Inwerkingtreding
+
+Het [besluit van 28 januari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029530), nr. BLKB2011/109M, wordt met ingang van de inwerkingtreding van dit besluit ingetrokken.
+
+### 7. Inwerkingtreding
+
+## Bijlage. bij het voorschriftinformatiefiscus/banken
+
+Bancaire activiteiten:
+
+- 1. In ontvangst nemen van deposito’s en andere terugbetaalbare gelden;
+
+- 2. Verstrekken van leningen;
+
+- 3. Financial leasing;
+
+- 4. Betalingsverrichtingen;
+
+- 5. Uitgifte en beheer van betaalmiddelen (credit cards, reischeques, kredietbrieven);
+
+- 6. Verlenen van garanties en stellen van borgtochten;
+
+- 7. Transacties voor eigen rekening van de instelling of voor rekening van cliënten met betrekking tot:
+
+- a. geldmarktinstrumenten (cheques, wissels, depositocertificaten, CD’s, enz.);
+
+- b. valuta's;
+
+- c. financiële futures en opties;
+
+- d. swaps en soortgelijke financieringsinstrumenten;
+
+- e. effecten;
+
+- 8. Deelneming aan effectenemissies en dienstverrichtingen in verband daarmee;
+
+- 9. Advisering aan ondernemingen inzake kapitaalstructuur, bedrijfsstrategie en daarmee samenhangende aangelegenheden, alsmede advisering en dienstverrichtingen op het gebied van fusie en overname van ondernemingen;
+
+- 10. Bemiddeling op de interbankmarkten;
+
+- 11. Vermogensbeheer en -advisering, voor zover typisch bancair van aard;
+
+- 12. Bewaarneming en beheer van effecten;
+
+- 13. Commerciële inlichtingen;
+
+- 14. Verhuur van safes.
+
+– Dit besluit zal in de Staatscourant worden geplaatst.
+
+Dit besluit is gewijzigd bij besluit van 16 december 2020, nr. 2020-22953, (Stcrt. 2020, 62942). De wijzigingen zien op het wegnemen van mogelijke interpretatieverschillen en de verwerking van de nieuwe topstructuur van de Belastingdienst. Verder zijn enkele redactionele wijzigingen aangebracht.
+
+### 3. Algemeen
+
+Het Voorschrift geeft aan op welke wijze de Belastingdienst om informatie over derden verzoekt met betrekking tot bancaire activiteiten en op welke wijze de banken daaraan moeten voldoen. Het Voorschrift vindt geen toepassing ten aanzien van niet-bancaire activiteiten.
+
+### 3.1. Voorwaarden en gevolgen informatieverzoeken
+
+### 4. Wederzijdse bijstand
 
 ## Bijlage. bij het voorschriftinformatiefiscus/banken
 
