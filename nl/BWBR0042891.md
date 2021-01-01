@@ -4,7 +4,7 @@ identifier: "BWBR0042891"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-31"
-last_updated: "2020-03-27"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042891"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Een subsidie voor het uitvoeren van een basis oriënterend fertiliteitsonderzoek
 
 ##### Artikel 5. Subsidiebedrag
 
-De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2020-03-27&g=2020-03-27).
+De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2021-03-13&g=2021-01-01).
 
 ##### Artikel 6. Aanvraagtermijn
 
