@@ -4,7 +4,7 @@ identifier: "BWBR0038498"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-19"
-last_updated: "2016-09-18"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038498"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aangemelde instantie:** instantie die door Onze Minister is aangewezen overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2016-09-18&g=2016-09-18), en is aangemeld bij de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=12&z=2016-09-18&g=2016-09-18);
+- **aangemelde instantie:** instantie die door Onze Minister is aangewezen overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2021-01-01&g=2021-01-01), en is aangemeld bij de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=12&z=2021-01-01&g=2021-01-01);
 
 - **beproevingsnormen:** beproevingsnormen, genoemd in artikel 2, onder 4, van de richtlijn;
 
@@ -64,7 +64,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **eigenaar:** persoon die het beheer over het schip heeft, hetzij hij eigenaar of boekhouder van de rederij van het schip is, hetzij hem het schip in gebruik is gegeven;
 
-- **EU-conformiteitsverklaring:** verklaring die wordt afgegeven door de fabrikant en waarmee wordt aangetoond dat is voldaan aan de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18);
+- **EU-conformiteitsverklaring:** verklaring die wordt afgegeven door de fabrikant en waarmee wordt aangetoond dat is voldaan aan de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01);
 
 - **EU-schip:** Nederlands schip of schip dat onder de vlag van een andere lidstaat van de Europese Unie vaart, en waarop de verdragen van toepassing zijn;
 
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **markttoezicht:** activiteiten en maatregelen van overheidsinstanties om ervoor te zorgen dat scheepsuitrusting voldoet aan de toepasselijke eisen die zijn opgenomen in harmonisatiewetgeving van de Europese Unie en bij of krachtens deze wet, en geen gevaar oplevert voor de gezondheid en maritieme veiligheid of andere aspecten van de bescherming van het openbaar belang;
 
-- **markttoezichtautoriteit:** ambtenaren als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2016-09-18&g=2016-09-18);
+- **markttoezichtautoriteit:** ambtenaren als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2021-01-01&g=2021-01-01);
 
 - **Nederlands schip:** schip dat op grond van de voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren en waarvoor de verdragen voorschrijven dat de aan boord te plaatsen scheepsuitrusting overeenkomstig de verdragen is goedgekeurd;
 
@@ -94,7 +94,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **scheepsuitrusting:** scheepsuitrusting die is geplaatst of die bestemd is voor plaatsing aan boord van een EU-schip en waarvoor de goedkeuring van de bevoegde instantie van de vlaggenstaat op grond van de internationale instrumenten is vereist, ongeacht of het schip zich in de Europese Unie bevindt op het moment waarop de scheepsuitrusting aan boord wordt geplaatst;
 
-- **stuurwielmarkering:** symbool dat is weergegeven in bijlage I bij de richtlijn, of indien van toepassing, het elektronisch label, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2016-09-18&g=2016-09-18);
+- **stuurwielmarkering:** symbool dat is weergegeven in bijlage I bij de richtlijn, of indien van toepassing, het elektronisch label, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2021-01-01&g=2021-01-01);
 
 - **terugroepen:** maatregel waarmee wordt beoogd scheepsuitrusting die al aan boord van een EU-schip is geplaatst of is aangekocht met de bedoeling deze aan boord van een EU-schip te plaatsen, te doen terugkeren;
 
@@ -128,7 +128,7 @@ De eigenaar draagt er zorg voor dat scheepsuitrusting die aan boord van een Nede
 
 ##### Artikel 5
 
-1. Alvorens een schip, niet zijnde een EU-schip, wordt ingeschreven in het Nederlandse vlagregister, zorgt de eigenaar ervoor dat de scheepsuitrusting wordt vervangen, tenzij:
+1. Alvorens een schip, niet zijnde een EU-schip, wordt ingeschreven als Nederlands schip, zorgt de eigenaar ervoor dat de scheepsuitrusting wordt vervangen, tenzij:
 
 - a. de scheepsuitrusting voldoet aan de vereisten gesteld bij of krachtens deze wet en is voorzien van een stuurwielmarkering, of
 
@@ -146,13 +146,13 @@ De eigenaar draagt er zorg voor dat scheepsuitrusting die aan boord van een Nede
 
 ##### Artikel 6
 
-1. Indien een product in overeenstemming is met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18), stelt de fabrikant de EU-conformiteitsverklaring op en brengt hij de stuurwielmarkering op het product aan. In de EU-conformiteitsverklaring wordt vermeld dat aangetoond is dat aan de op het product van toepassing zijnde vereisten, bedoeld in artikel 3, eerste lid, is voldaan.
+1. Indien een product in overeenstemming is met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), stelt de fabrikant de EU-conformiteitsverklaring op en brengt hij de stuurwielmarkering op het product aan. In de EU-conformiteitsverklaring wordt vermeld dat aangetoond is dat aan de op het product van toepassing zijnde vereisten, bedoeld in artikel 3, eerste lid, is voldaan.
 
 2. Het gebruik van de stuurwielmarkering is onderhevig aan de algemene beginselen, bedoeld in artikel 30, eerste en derde tot en met zesde lid, van de verordening, waarbij elke verwijzing naar de CE-markering als verwijzing naar de stuurwielmarkering wordt beschouwd.
 
 3. Fabrikanten kunnen binnen een bij regeling van Onze Minister vast te stellen termijn de stuurwielmarkering aanvullen met of vervangen door een elektronisch label, indien voor de betreffende scheepsuitrusting passende criteria door de Commissie krachtens artikel 11, vierde lid, van de richtlijn zijn vastgesteld.
 
-4. Met het aanbrengen van de stuurwielmarkering en het opstellen van de EU-conformiteitsverklaring accepteert de fabrikant de verantwoordelijkheid om te waarborgen dat de scheepsuitrusting is ontworpen en vervaardigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18).
+4. Met het aanbrengen van de stuurwielmarkering en het opstellen van de EU-conformiteitsverklaring accepteert de fabrikant de verantwoordelijkheid om te waarborgen dat de scheepsuitrusting is ontworpen en vervaardigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01).
 
 5. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de verplichtingen van de fabrikant.
 
@@ -160,13 +160,13 @@ De eigenaar draagt er zorg voor dat scheepsuitrusting die aan boord van een Nede
 
 ##### Artikel 7
 
-1. Een fabrikant die van mening is of redenen heeft om aan te nemen dat een product waarop hij de stuurwielmarkering heeft aangebracht niet in overeenstemming is met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18), neemt onmiddellijk de nodige corrigerende maatregelen om het product, of in voorkomend geval de betrokken producten, in overeenstemming te brengen. Indien nodig, neemt de fabrikant het product uit de handel of roept hij het product terug.
+1. Een fabrikant die van mening is of redenen heeft om aan te nemen dat een product waarop hij de stuurwielmarkering heeft aangebracht niet in overeenstemming is met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), neemt onmiddellijk de nodige corrigerende maatregelen om het product, of in voorkomend geval de betrokken producten, in overeenstemming te brengen. Indien nodig, neemt de fabrikant het product uit de handel of roept hij het product terug.
 
 2. Indien een product als bedoeld in het eerste lid een risico vertoont, brengt de fabrikant de markttoezichtautoriteit hiervan onmiddellijk op de hoogte, waarbij hij in het bijzonder de non-conformiteit en alle genomen corrigerende maatregelen beschrijft.
 
 ##### Artikel 8
 
-1. Een importeur of distributeur wordt voor de toepassing van deze wet en de onderliggende regelgeving als fabrikant beschouwd en voldoet aan de verplichtingen van de fabrikant wanneer de importeur of distributeur de scheepsuitrusting onder eigen naam of merknaam in de handel brengt, dan wel aan boord van een EU-schip plaatst of reeds in de handel gebrachte scheepsuitrusting zodanig wijzigt dat de conformiteit met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18), in het gedrang kan komen.
+1. Een importeur of distributeur wordt voor de toepassing van deze wet en de onderliggende regelgeving als fabrikant beschouwd en voldoet aan de verplichtingen van de fabrikant wanneer de importeur of distributeur de scheepsuitrusting onder eigen naam of merknaam in de handel brengt, dan wel aan boord van een EU-schip plaatst of reeds in de handel gebrachte scheepsuitrusting zodanig wijzigt dat de conformiteit met de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), in het gedrang kan komen.
 
 2. Bij regeling van Onze Minister worden de verplichtingen van de vertegenwoordiger, importeur en distributeur vastgesteld.
 
@@ -202,7 +202,7 @@ De eigenaar draagt er zorg voor dat scheepsuitrusting die aan boord van een Nede
 
 ##### Artikel 12
 
-1. Onze Minister meldt de op grond van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2016-09-18&g=2016-09-18), aangewezen instanties aan bij de Europese Commissie en de andere lidstaten van de Europese Unie, overeenkomstig bijlage IV, onder 2, bij de richtlijn.
+1. Onze Minister meldt de op grond van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2021-01-01&g=2021-01-01), aangewezen instanties aan bij de Europese Commissie en de andere lidstaten van de Europese Unie, overeenkomstig bijlage IV, onder 2, bij de richtlijn.
 
 2. De aangemelde instantie gaat pas over tot het verrichten van conformiteitsbeoordelingsprocedures na mededeling van Onze Minister dat de Europese Commissie en de andere lidstaten geen bezwaren als bedoeld in bijlage IV, onder 2.5, bij de richtlijn hebben ingediend tegen de aanmelding, bedoeld in het eerste lid.
 
@@ -290,7 +290,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 - d. in uitzonderlijke omstandigheden indien het aantoonbaar is dat specifieke scheepsuitrusting die is voorzien van een stuurwielmarkering niet in de handel verkrijgbaar is.
 
-2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18) behoeft scheepsuitrusting, bedoeld in het eerste lid, niet te voldoen aan de vereisten, bedoeld in artikel 3, eerste lid, en mag die uitrusting zonder stuurwielmarkering in de handel worden gebracht, mits die uitrusting voldoet aan de eisen opgenomen krachtens het eerste lid.
+2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01) behoeft scheepsuitrusting, bedoeld in het eerste lid, niet te voldoen aan de vereisten, bedoeld in artikel 3, eerste lid, en mag die uitrusting zonder stuurwielmarkering in de handel worden gebracht, mits die uitrusting voldoet aan de eisen opgenomen krachtens het eerste lid.
 
 #### Paragraaf 9. Handhaving
 
@@ -300,9 +300,9 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 - a. niet op deugdelijke wijze is voorzien van een stuurwielmarkering;
 
-- b. niet vergezeld gaat van een certificaat van gelijkwaardigheid als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=3&artikel=5&z=2016-09-18&g=2016-09-18), of
+- b. niet vergezeld gaat van een certificaat van gelijkwaardigheid als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=3&artikel=5&z=2021-01-01&g=2021-01-01), of
 
-- c. niet vergezeld gaat van een verklaring waarin wordt aangegeven dat de scheepsuitrusting op grond van [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=8&artikel=21&z=2016-09-18&g=2016-09-18), is vrijgesteld van het hebben van een stuurwielmarkering.
+- c. niet vergezeld gaat van een verklaring waarin wordt aangegeven dat de scheepsuitrusting op grond van [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=8&artikel=21&z=2021-01-01&g=2021-01-01), is vrijgesteld van het hebben van een stuurwielmarkering.
 
 2. Het is verboden de stuurwielmarkering aan te brengen op producten waarbij niet overeenkomstig de desbetreffende conformiteitsbeoordelingsprocedure is aangetoond dat deze voldoet aan de vereisten gesteld bij of krachtens deze wet.
 
@@ -312,21 +312,21 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 5. Het is verboden te handelen in strijd met een verplichting, gebod of verbod, opgenomen in:
 
-- a. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=5&artikel=10&z=2016-09-18&g=2016-09-18);
+- a. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=5&artikel=10&z=2021-01-01&g=2021-01-01);
 
-- b. [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2016-09-18&g=2016-09-18), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=8&z=2016-09-18&g=2016-09-18), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=5&artikel=9&z=2016-09-18&g=2016-09-18), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=20&z=2016-09-18&g=2016-09-18);
+- b. [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2021-01-01&g=2021-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=8&z=2021-01-01&g=2021-01-01), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=5&artikel=9&z=2021-01-01&g=2021-01-01), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=20&z=2021-01-01&g=2021-01-01);
 
-- c. [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=7&z=2016-09-18&g=2016-09-18), [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=18&z=2016-09-18&g=2016-09-18), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=19&z=2016-09-18&g=2016-09-18).
+- c. [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=7&z=2021-01-01&g=2021-01-01), [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=18&z=2021-01-01&g=2021-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=19&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 23
 
-1. Onze Minister kan aan degene die handelt in strijd met de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2016-09-18&g=2016-09-18) gestelde verboden een bestuurlijke boete opleggen.
+1. Onze Minister kan aan degene die handelt in strijd met de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2021-01-01&g=2021-01-01) gestelde verboden een bestuurlijke boete opleggen.
 
-2. De bestuurlijke boete die voor een overtreding van [artikel 22, eerste lid en vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2016-09-18&g=2016-09-18), ten hoogste kan worden opgelegd komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+2. De bestuurlijke boete die voor een overtreding van [artikel 22, eerste lid en vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2021-01-01&g=2021-01-01), ten hoogste kan worden opgelegd komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-3. De bestuurlijke boete die voor een overtreding van [artikel 22, tweede tot en met vierde lid en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2016-09-18&g=2016-09-18), kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+3. De bestuurlijke boete die voor een overtreding van [artikel 22, tweede tot en met vierde lid en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2021-01-01&g=2021-01-01), kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-4. De bestuurlijke boete die voor een overtreding van [artikel 22, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2016-09-18&g=2016-09-18), kan worden opgelegd komt overeen met de boete van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+4. De bestuurlijke boete die voor een overtreding van [artikel 22, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=9&artikel=22&z=2021-01-01&g=2021-01-01), kan worden opgelegd komt overeen met de boete van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 5. De op te leggen bestuurlijke boete kan met ten hoogste 50 procent worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van ten hoogste 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.
 
@@ -338,7 +338,7 @@ Onze Minister is bevoegd tot toepassing van een last onder bestuursdwang ter han
 
 ##### Artikel 25
 
-1. De vereisten en beproevingsnormen voor scheepsuitrusting die op grond van de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) van toepassing waren voor de dag van inwerkingtreding van deze wet, blijven van toepassing totdat op grond van deze wet de voor die betreffende scheepsuitrusting geldende vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2016-09-18&g=2016-09-18), in werking treden.
+1. De vereisten en beproevingsnormen voor scheepsuitrusting die op grond van de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) van toepassing waren voor de dag van inwerkingtreding van deze wet, blijven van toepassing totdat op grond van deze wet de voor die betreffende scheepsuitrusting geldende vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), in werking treden.
 
 2. Op scheepsuitrusting die op de markt is aangeboden of is geplaatst aan boord van een Nederlands schip na 18 oktober 2000 en voor de dag van inwerkingtreding van deze wet, blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=3), [7 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=7) en [20 tot en met 26 van de Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=20) alsmede [artikel 1, onderdeel 4, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=4) van toepassing, zoals die luidden op de dag voorafgaand aan die van de inwerkingtreding van deze wet.
 
