@@ -109,9 +109,3 @@ In 2021 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging strategisch personeelsbeleid, begeleiding en verzuim vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Omhangbepaling
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
