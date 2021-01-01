@@ -4,7 +4,7 @@ identifier: "BWBR0027402"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027402"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Besluit:
 
 ##### Artikel 3
 
-1. De vergoeding per vergadering bedraagt € 200,–.
+1. De vergoeding per vergadering bedraagt € 275,–.
 
 2. De vergoeding per vergadering wordt uitsluitend betaald indien door middel van een getekende presentielijst, overgelegd door de secretaris van de Gezondheidsraad, is aangetoond dat de betrokkene heeft deelgenomen aan de vergadering.
 
-3. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027402&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde leden en deskundigen ontvangen op basis van de in het tweede lid genoemde presentielijst een reiskostenvergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+3. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027402&artikel=1&z=2021-01-01&g=2021-01-01), bedoelde leden en deskundigen ontvangen op basis van de in het tweede lid genoemde presentielijst een reiskostenvergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 4. In afwijking van het tweede lid kan de in dat lid bedoelde vergoeding per vergadering aan de betrokkene worden uitbetaald zonder dat deze de vergadering heeft bijgewoond, indien de betrokkene blijkens een door de secretaris van de Gezondheidsraad overgelegde verklaring als deskundige werkzaamheden heeft verricht ten behoeve van een advies dat in de vergadering buiten zijn aanwezigheid is behandeld.
 
