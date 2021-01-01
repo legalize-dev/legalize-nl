@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2020-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -218,6 +218,12 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
 
 ##### Artikel 8.1
+
+Wijzigt de Regeling cafetariamodel defensie.
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 9.1
 
 Wijzigt de Regeling cafetariamodel defensie.
 
