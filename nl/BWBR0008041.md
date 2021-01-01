@@ -4,7 +4,7 @@ identifier: "BWBR0008041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2018-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008041"
 soort: "ministeriele-regeling"
@@ -47,6 +47,16 @@ Voor omwisseling tegen een Nederlands rijbewijs komen in aanmerking de door de h
 - Andorra B (personenauto)
 
 - Chinees Taipei: B (personenauto)
+
+- Gibraltar en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: alle rijbewijscategorieën, indien de houder:
+
+- a. op of na 1 januari 2021 in Nederland is komen te wonen, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+
+- b. in de periode tussen 1 februari 2020 en 1 januari 2021 in Nederland is komen te wonen, maar niet voor 1 januari 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+
+- c. voor 1 februari 2020 in Nederland is komen te wonen, maar niet voor 1 mei 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+
+- Guernsey: alle rijbewijscategorieën, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
 
 - Israël: B (personenauto)
 
