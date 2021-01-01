@@ -4,7 +4,7 @@ identifier: "BWBR0041573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2019-04-10"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041573"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2021-01-01&g=2021-01-01), vergoed.
 
 ##### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
 
@@ -114,7 +114,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2021-01-01&g=2021-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
 
@@ -150,7 +150,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ##### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
 
-1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), een vaste vergoeding worden toegekend.
+1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2021-01-01&g=2021-01-01), een vaste vergoeding worden toegekend.
 
 2. De vaste vergoeding, bedoeld in het eerste lid, bedraagt per maand:
 
@@ -180,7 +180,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-### Hoofdstuk 4. Waterschappen
+### Hoofdstuk 3. Gemeenten
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
@@ -210,7 +210,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2019-04-10&g=2019-04-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2019-04-10&g=2019-04-10) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2019-04-10&g=2019-04-10), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2019-04-10&g=2019-04-10), in werking met ingang van 28 maart 2019.
+2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2021-01-01&g=2021-01-01) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2021-01-01&g=2021-01-01), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2021-01-01&g=2021-01-01), in werking met ingang van 28 maart 2019.
 
 ##### Artikel 5.4. Citeertitel
 
@@ -252,7 +252,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in de [artikelen 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-04-10&g=2019-04-10), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in de [artikelen 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2021-01-01&g=2021-01-01), vergoed.
 
 ##### Artikel 2.4. Tegemoetkoming kosten dubbele woonlasten commissaris en gedeputeerden
 
@@ -274,7 +274,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-04-10&g=2019-04-10), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2021-01-01&g=2021-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 2.5. Ter beschikking gestelde woning commissaris en gedeputeerden
 
@@ -409,6 +409,84 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 3. Voor reizen voor de uitoefening van het ambt worden aan de voorzitter of het lid van het dagelijks bestuur bij gebruik van een ter beschikking gestelde auto de kosten voor parkeergelden ten laste van het waterschap vergoed, mits deze kosten niet uit anderen hoofde worden vergoed.
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.9. Vergoeding preventieve beveiligingsmaatregelen woonplek commissaris en gedeputeerden
+
+1. Voor het treffen van preventieve beveiligingsmaatregelen ten behoeve van een veilige woonplek als bedoeld in [artikel 2.3.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.3.1) worden aan de commissaris of de gedeputeerde werkelijk gemaakte kosten vergoed tot een bedrag van ten hoogste € 2.400,– inclusief btw.
+
+2. De aanspraak, bedoeld in het eerste lid, geldt enkel voor het gedurende de uitoefening van de functie, of op een moment daarvoor waarop vaststond dat de commissaris of de gedeputeerde de functie zou gaan vervullen, treffen van preventieve beveiligingsmaatregelen aan de woning op het woonadres, bedoeld in [artikel 1.1, onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1), van de commissaris of de gedeputeerde.
+
+3. Indien het woonadres van de commissaris of de gedeputeerde gedurende de uitoefening van diens functie wijzigt en de commissaris of de gedeputeerde heeft al gebruik gemaakt van de aanspraak, bedoeld in het eerste lid, ontstaat die aanspraak nogmaals voor de woning waar de commissaris of de gedeputeerde diens nieuwe woonadres heeft.
+
+4. De aanspraak, bedoeld in het eerste lid, geldt slechts indien de betreffende woning blijkens een geldig Politiekeurmerk Veilig Wonen-certificaat voldoet aan de eisen van het Politiekeurmerk Veilig Wonen.
+
+5. Onder preventieve beveiligingsmaatregelen worden enkel de volgende maatregelen begrepen:
+
+- a. beveiliging van de brievenbus;
+
+- b. versteviging van de ruiten om braak te beperken;
+
+- c. installatie van een deurspion of video-intercom;
+
+- d. installatie van een basissysteem waarop een bewakingssysteem kan worden aangesloten; en
+
+- e. installatie van een brand- en inbraakwerende kluis.
+
+6. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal bureau voor de statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
+
+##### Artikel 3.9. Vergoeding preventieve beveiligingsmaatregelen woonplek burgemeester en wethouders
+
+1. Voor het treffen van preventieve beveiligingsmaatregelen ten behoeve van een veilige woonplek als bedoeld in [artikel 3.3.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.3.1) worden aan de burgemeester of de wethouder werkelijk gemaakte kosten vergoed tot een bedrag van ten hoogste € 2.400,– inclusief btw.
+
+2. De aanspraak, bedoeld in het eerste lid, geldt enkel voor het gedurende de uitoefening van de functie, of op een moment daarvoor waarop vaststond dat de burgemeester of de wethouder de functie zou gaan vervullen, treffen van preventieve beveiligingsmaatregelen aan de woning op het woonadres, bedoeld in [artikel 1.1, onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1), van de burgemeester of de wethouder.
+
+3. Indien het woonadres van de burgemeester of de wethouder gedurende de uitoefening van diens functie wijzigt en de burgemeester of de wethouder heeft al gebruik gemaakt van de aanspraak, bedoeld in het eerste lid, ontstaat die aanspraak nogmaals voor de woning waar de burgemeester of de wethouder diens nieuwe woonadres heeft.
+
+4. De aanspraak, bedoeld in het eerste lid, geldt slechts indien de woning blijkens een geldig Politiekeurmerk Veilig Wonen-certificaat voldoet aan de eisen van het Politiekeurmerk Veilig Wonen.
+
+5. Onder preventieve beveiligingsmaatregelen worden enkel de volgende maatregelen begrepen:
+
+- a. beveiliging van de brievenbus;
+
+- b. versteviging van de ruiten om braak te beperken;
+
+- c. installatie van een deurspion of video-intercom;
+
+- d. installatie van een basissysteem waarop een bewakingssysteem kan worden aangesloten; en
+
+- e. installatie van een brand- en inbraakwerende kluis.
+
+6. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal bureau voor de statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
+
+### Hoofdstuk 4. Waterschappen
+
+##### Artikel 4.9. Vergoeding preventieve beveiligingsmaatregelen woonplek voorzitter en leden van het dagelijks bestuur
+
+1. Voor het treffen van preventieve beveiligingsmaatregelen ten behoeve van een veilige woonplek als bedoeld in [artikel 4.3.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.3.1) worden aan de voorzitter of het lid van het dagelijks bestuur werkelijk gemaakte kosten vergoed tot een bedrag van ten hoogste € 2.400,– inclusief btw.
+
+2. De aanspraak, bedoeld in het eerste lid, geldt enkel voor het gedurende de uitoefening van de functie, of op een moment daarvoor waarop vaststond dat de voorzitter of het lid van het dagelijks bestuur de functie zou gaan vervullen, treffen van preventieve beveiligingsmaatregelen aan de woning op het woonadres, bedoeld in [artikel 1.1, onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1), van de voorzitter of het lid van het dagelijks bestuur.
+
+3. Indien het woonadres van de voorzitter of het lid van het dagelijks bestuur gedurende de uitoefening van diens functie wijzigt en de voorzitter of het lid van het dagelijks bestuur heeft al gebruik gemaakt van de aanspraak, bedoeld in het eerste lid, ontstaat die aanspraak nogmaals voor de woning waar de voorzitter of het lid van het dagelijks bestuur diens nieuwe woonadres heeft.
+
+4. De aanspraak, bedoeld in het eerste lid, geldt slechts indien de woning blijkens een geldig Politiekeurmerk Veilig Wonen-certificaat voldoet aan de eisen van het Politiekeurmerk Veilig Wonen.
+
+5. Onder preventieve beveiligingsmaatregelen worden enkel de volgende maatregelen begrepen:
+
+- a. beveiliging van de brievenbus;
+
+- b. versteviging van de ruiten om braak te beperken;
+
+- c. installatie van een deurspion of video-intercom;
+
+- d. installatie van een basissysteem waarop een bewakingssysteem kan worden aangesloten; en
+
+- e. installatie van een brand- en inbraakwerende kluis.
+
+6. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal bureau voor de statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
