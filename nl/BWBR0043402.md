@@ -4,7 +4,7 @@ identifier: "BWBR0043402"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-10-01"
-last_updated: "2020-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043402"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **algemene de-minimisverordening:** verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352);
 
-- **verklaring:** verklaring als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2020-10-01&g=2020-10-01);
+- **verklaring:** verklaring als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2021-03-20&g=2021-01-01);
 
 - **wet:** [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. voor de kalendermaanden waarover algemene bijstand wordt aangevraagd een opgave van het inkomen dat hij heeft verworven of verwacht te gaan verwerven; en
 
-- c. dat hij of, indien van toepassing, zijn gezin over geen in aanmerking te nemen vermogen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&artikel=7&z=2020-10-01&g=2020-10-01), beschikt of redelijkerwijs kan beschikken.
+- c. dat hij of, indien van toepassing, zijn gezin over geen in aanmerking te nemen vermogen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&artikel=7&z=2021-03-20&g=2021-01-01), beschikt of redelijkerwijs kan beschikken.
 
 2. De gehuwde zelfstandige betrekt bij de verklaring, bedoeld in het eerste lid, onderdelen b en c, het inkomen van beide echtgenoten.
 
@@ -192,7 +192,7 @@ In de verklaring wordt door de aanvrager van bijstand ter voorziening in de beho
 
 - c. dat de omvang van de aangevraagde bijstand niet zal leiden tot een overschrijding van het de-minimisplafond, bedoeld in artikel 3, tweede lid, van de algemene de- minimisverordening; en
 
-- d. dat geen sprake is van een situatie als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=10&z=2020-10-01&g=2020-10-01).
+- d. dat geen sprake is van een situatie als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=10&z=2021-03-20&g=2021-01-01).
 
 ##### Artikel 13. Vorm van de bijstand
 
@@ -256,7 +256,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het r
 
 ##### Artikel 20. Voorschot op de vergoeding
 
-1. Onze Minister verleent voorschotten op de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2020-10-01&g=2020-10-01).
+1. Onze Minister verleent voorschotten op de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-01-01).
 
 2. De voorschotten worden afgestemd op de landelijk te verwachte kosten, waarbij deze worden verdeeld over gemeenten op basis van het aantal zelfstandigen per gemeente.
 
@@ -264,13 +264,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het r
 
 ##### Artikel 21. Vaststelling van de vergoeding
 
-1. Onze Minister stelt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2020-10-01&g=2020-10-01), vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Onze Minister stelt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-01-01), vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. De kosten van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
 
 3. Indien de toepassing van het tweede lid naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard kan hij de kosten die als fout of onzeker worden aangemerkt, in afwijking van het tweede lid, geheel of gedeeltelijk in aanmerking nemen bij de vaststelling.
 
-4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2020-10-01&g=2020-10-01), ambtshalve door Onze Minister vastgesteld.
+4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-01-01), ambtshalve door Onze Minister vastgesteld.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -288,7 +288,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 19a. Vergoeding voor onverschuldigd verleende voorschotten
 
-1. Onze Minister vergoedt ten laste van ’s Rijks kas aan het college 30% van het totaalbedrag van de vorderingen als gevolg van onverschuldigd verleende voorschotten op aanvragen tot bijstand voor levensonderhoud als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&z=2021-03-20&g=2020-10-01), welke feitelijk zijn ingediend vóór 22 april 2020.
+1. Onze Minister vergoedt ten laste van ’s Rijks kas aan het college 30% van het totaalbedrag van de vorderingen als gevolg van onverschuldigd verleende voorschotten op aanvragen tot bijstand voor levensonderhoud als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&z=2021-03-20&g=2021-01-01), welke feitelijk zijn ingediend vóór 22 april 2020.
 
 2. Van een onverschuldigd verleend voorschot als bedoeld in het eerste lid is sprake indien het als gevolg van de beslissing op de aanvraag geheel of gedeeltelijk niet verrekend kan worden omdat:
 
