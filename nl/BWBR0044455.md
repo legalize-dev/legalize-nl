@@ -4,7 +4,7 @@ identifier: "BWBR0044455"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2020-12-05"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044455"
 soort: "wet"
@@ -48,8 +48,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Algemene kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
@@ -58,227 +56,153 @@ Wijzigt de Algemene nabestaandenwet.
 
 Wijzigt de Algemene ouderdomswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIIa. [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
 Wijzigt de Arbeidswet 2000 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IVa. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
 Wijzigt de Cessantiawet BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Va. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
 
 Wijzigt de Gemeentewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Vb. [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
 
 Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063)
 
 Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIIa. [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
 
 Wijzigt de Politiewet 2012.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIb. [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
 
 Wijzigt de Provinciewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIIc. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
 Wijzigt de Remigratiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIId. [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
 
 Wijzigt de Waterschapswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Xa. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xb. [Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
 
 Wijzigt de Wet ambtenaren defensie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIa. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIb. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
 Wijzigt de Wet inburgering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIc. Wet inburgering 20..
 
 Wijzigt de Wet inburgering 20.. (kst. 35483).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 Wijzigt de Wet ongevallenverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIa. [Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286)
 
 Wijzigt de Wet rechtspositie ministers en staatssecretarissen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIb. [Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788)
 
 Wijzigt de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIc. [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVId. [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. Wet van 27 mei 2020 tot wijziging van de wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes wajong (Stb. 2020, 173)
 
 Wijzigt de Wet van 27 mei 2020 tot wijziging van de wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes wajong (Stb. 2020, 173).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIa. [Wet vereenvoudiging beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0039377)
 
 Wijzigt de Wet vereenvoudiging beslagvrije voet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 Wijzigt de Wet ziekteverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIXa. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0044455&artikel=II&z=2020-12-05&g=2020-12-05), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerkt tot en met 1 januari 2015.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0044455&artikel=II&z=2021-01-01&g=2021-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerkt tot en met 1 januari 2015.
 
 ##### Artikel XXII. Citeertitel
 
