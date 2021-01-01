@@ -4,7 +4,7 @@ identifier: "BWBR0044364"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-03"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044364"
 soort: "wet"
@@ -62,7 +62,7 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+De in [artikel 1a, eerste lid, onderdeel d, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) gestelde voorwaarde geldt voor het kalenderjaar 2015 niet voor een bloedverwant in de eerste graad die een uitkering als bedoeld in [artikel 19a van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=19a) zoals dat artikel op 31 december 2014 luidde heeft genoten in verband met in het kalenderjaar 2014 aan de in het kalenderjaar 2015 overleden bloedverwant verleende zorg.
 
 ##### Artikel VII
 
@@ -72,34 +72,56 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+De naleving en de controle daarop van het bepaalde bij of krachtens de [artikelen 3:4](onbekend) en [3:5 van de Algemene douanewet](onbekend) zullen uiterlijk in 2026 worden geëvalueerd en daarna om de vijf jaar. Hierbij wordt aangesloten bij de evaluatie, bedoeld in artikel 19 van Verordening (EU) 2018/1672 van het Europees Parlement en de Raad van 23 oktober 2018 betreffende de controle van liquide middelen die de Unie binnenkomen of verlaten en tot intrekking van [Verordening (EG) nr. 1889/2005](32005R1889) (PbEU 2018, L 284).
 
 ##### Artikel IX
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
 Wijzigt de Wet terugvordering staatssteun.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+[vervallen]
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2021, met dien verstande dat:
+
+- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2010;
+
+- b. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), en [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-01-01&g=2021-01-01), terugwerken tot en met 1 januari 2015;
+
+- c. [artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 juli 2016;
+
+- d. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2018;
+
+- e. [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2019;
+
+- f. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=III&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2020, met dien verstande dat dat onderdeel voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
+
+- g. [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2020.
+
+2. In afwijking van het eerste lid treedt:
+
+- a. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=VII&z=2021-01-01&g=2021-01-01) in werking met ingang van 3 juni 2021;
+
+- b. [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=IV&z=2021-01-01&g=2021-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Fiscale verzamelwet 2021.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2021 en volgende jaren wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen is een wettelijke delegatiegrondslag voor een compensatieregeling op te nemen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
