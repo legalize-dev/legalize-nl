@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-03-19"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand;
 
-- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2020-03-19&g=2020-03-19) vastgestelde bedrag;
+- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2021-01-01&g=2021-01-01) vastgestelde bedrag;
 
 - h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -71,21 +71,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De normpremie bedraagt een percentage van het drempelinkomen in het berekeningsjaar, vermeerderd met een percentage van het toetsingsinkomen van de verzekerde in dat jaar voorzover dat toetsingsinkomen het drempelinkomen te boven gaat. Voor een verzekerde met een partner wordt daarbij het gezamenlijke toetsingsinkomen in aanmerking genomen.
 
-3. De percentages worden voor verzekerden met een partner vastgesteld op 4,140% van het drempelinkomen, vermeerderd met 13,550% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 1,830% van het drempelinkomen, vermeerderd met 13,550% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
+3. De percentages worden voor verzekerden met een partner vastgesteld op 4,225% van het drempelinkomen, vermeerderd met 13,580% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 1,915% van het drempelinkomen, vermeerderd met 13,580% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
 
 4. In afwijking van het eerste lid bedraagt de aanspraak op een zorgtoeslag voor een verzekerde met een partner die geen verzekerde is, vijftig procent van het op grond van het eerste lid berekende bedrag.
 
-5. In afwijking van het eerste lid heeft een verzekerde met een partner die niet heeft voldaan aan de voor hem op grond van [artikel 2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2) geldende verplichting zich krachtens een zorgverzekering te verzekeren, geen aanspraak op een zorgtoeslag.
+5. De aanspraak op een zorgtoeslag wordt voor iedere kalendermaand afzonderlijk bepaald.
 
-6. De aanspraak op een zorgtoeslag wordt voor iedere kalendermaand afzonderlijk bepaald.
+6. Bij regeling van Onze Minister kunnen omtrent het bepaalde in het vijfde lid nadere regels worden gesteld.
 
-7. Bij regeling van Onze Minister kunnen omtrent het bepaalde in het zesde lid nadere regels worden gesteld.
-
-8. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+7. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2020-03-19&g=2020-03-19), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2021-01-01&g=2021-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
@@ -119,13 +117,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) bestaat geen aanspraak op een zorgtoeslag indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van de belanghebbende in het berekeningsjaar meer bedraagt dan € 85.767, dan wel, ingeval de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001, van de belanghebbende en zijn partner in het berekeningsjaar meer bedraagt dan € 85.767. Bij de bepaling van de grondslag, bedoeld in de vorige volzin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
+1. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op een zorgtoeslag indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de verzekerde aan het begin van het berekeningsjaar meer bedraagt dan € 118.479 of, indien de verzekerde het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3, van de Wet inkomstenbelasting 2001, van de verzekerde en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 149.819. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
 
-2. Bij het begin van het kalenderjaar wordt het bedrag, bedoeld in het eerste lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+2. Bij het begin van het kalenderjaar worden de bedragen, bedoeld in het eerste lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-3. Indien er aanleiding is om het bedrag, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het tweede lid, wordt het bedrag vastgesteld bij algemene maatregel van bestuur.
+3. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het tweede lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-4. Het overeenkomstig het eerste of tweede lid aangepaste bedrag treedt in de plaats van het bedrag, genoemd in het eerste lid.
+4. De overeenkomstig het tweede en derde lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in het eerste lid.
 
 5. Indien een verhoging als bedoeld in het derde lid wordt toegepast, vindt deze verhoging plaats nadat het tweede lid toepassing heeft gevonden.
 
