@@ -516,19 +516,3 @@ Het percentage van het leerlingaantal ten opzichte van de voor een nieuwe locati
 ### Bekostigingspercentages voor het schoolgebouw en terrein
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Normbedragen voor de jaren 2021, 2022 en 2023
-
-### Percentages van het leerlingaantal per opvangmodaliteit:
-
-### Bekostigingspercentages voor het schoolgebouw en terrein
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-**Ruimtebehoefte per asielleerling**
-
-**Percentages van het leerlingaantal per opvangmodaliteit:**
-
-Het percentage van het leerlingaantal ten opzichte van de voor een nieuwe locatie in de bestuursovereenkomst afgesproken maximale bezetting wordt vastgesteld op 10% voor een regulier opvangcentrum en 15% voor een gezinslocatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
