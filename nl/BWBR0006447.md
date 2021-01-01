@@ -4,7 +4,7 @@ identifier: "BWBR0006447"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2015-12-27"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006447"
 soort: "AMvB"
@@ -57,15 +57,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **voorwerp:** een object waaraan tijdens de productie een speciale vorm, oppervlak of patroon wordt gegeven waardoor zijn functie in hogere mate wordt bepaald dan door de chemische samenstelling;
 
-- d. **verordening (EG) 1907/2006:** verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 (PbEU 2007, L 136) inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van richtlijn 1999/45/EG en houdende intrekking van verordening (EEG) nr. 793/93 van de Raad en verordening (EG) nr. 1488/94 van de Commissie alsmede richtlijn 76/769/EEG van de Raad en de richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie.
+- d. **verordening (EG) 1907/2006:** [Verordening (EG) nr. 1907/2006](32006R1907) van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van [richtlijn 1999/45/EG](31999L0045) en houdende intrekking van verordening (EEG) nr. 793/93 van de Raad en verordening (EG) nr. 1488/94 van de Commissie alsmede [richtlijn 76/769/EEG](31976L0769) van de Raad en de [richtlijnen 91/155/EEG](31991L0155), [93/67/EEG](31993L0067), [93/105/EG](31993L0105) en [2000/21/EG](32000L0021) van de Commissie (PbEU 2007, L 136).
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met artikel 67, eerste lid, en bijlage XVII van verordening (EG) 1907/2006, voor zover de daarin opgenomen voorschriften betrekking hebben op:
-
-- a. de in kolom 1 van die bijlage onder de nummers 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 20, 23, punt 10 van de bijbehorende kolom 2, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 40, 43, 45, 46, 47, punten 5 en 6 van de bijbehorende kolom 2, 48, 50, punten 5 en 6 van de bijbehorende kolom 2, 51, 52, 54, 55, 56, 57, 59, punt 1 van de bijbehorende kolom 2, 61 en 63, aangeduide stoffen, groepen van stoffen, mengsels of voorwerpen;
-
-- b. de in kolom 1 van die bijlage onder nummer 31 aangeduide stoffen, groepen van stoffen of mengsels, in samenhang met uitsluitend het behandelde hout, bedoeld in punt 3 van de bijbehorende in kolom 2 van die bijlage opgenomen beperkingsvoorwaarden.
+Het is verboden te handelen in strijd met artikel 67, eerste lid, en bijlage XVII van [verordening (EG) 1907/2006](32006R1907), voor zover de daarin opgenomen voorschriften betrekking hebben op bij ministeriële regeling aan te wijzen stoffen, groepen van stoffen, mengsels of voorwerpen.
 
 ##### Artikel 3
 
@@ -85,6 +81,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Warenwetbesluit algemene chemische produktveiligheid.
+Dit besluit wordt aangehaald als: Warenwetbesluit algemene chemische productveiligheid.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
