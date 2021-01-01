@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -52,19 +52,19 @@ Vervallen
 
 - b. overige bijeenkomsten: maximaal € 50,– per deelnemer;
 
-- c. een afgifte van een certificaat van oorsprong: € 19,35;
+- c. een afgifte van een certificaat van oorsprong: € 19,85;
 
-- d. een digitale afgifte van een certificaat van oorsprong: € 13,85;
+- d. een digitale afgifte van een certificaat van oorsprong: € 14,20;
 
-- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 220,–;
+- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 220,– per carnet, verhoogd met 0,6655 promille in verband met de verzekeringspremie niet-voldane douaneverplichtingen;
 
-- f. een afgifte van legalisatiedocumenten: € 11,35;
+- f. een afgifte van legalisatiedocumenten: € 11,65;
 
-- g. een digitale afgifte van legalisatiedocumenten: € 9,35;
+- g. een digitale afgifte van legalisatiedocumenten: € 9,60;
 
 - h. het in depot houden van algemene voorwaarden: € 18,– per jaar;
 
-- i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 0,95 per kopie;
+- i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 1,– per kopie;
 
 - j. een afgifte van de vergunning winkelweekactie: € 28,– per vergunning;
 
@@ -90,25 +90,25 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2020-07-01&g=2020-07-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2021-01-01&g=2021-01-01)
 
-- a. Uurtarieven begroting 2020 (in euro, exclusief BTW)
+- a. Uurtarieven begroting 2021 (in euro, exclusief BTW)
 
-| Loonschaal 4 | 46 |
+| Loonschaal 4 | 47 |
 | --- | --- |
-| Loonschaal 5 | 49 |
+| Loonschaal 5 | 50 |
 | Loonschaal 6 | 52 |
 | Loonschaal 7 | 55 |
 | Loonschaal 8 | 59 |
 | Loonschaal 9 | 64 |
-| Loonschaal 10 | 69 |
+| Loonschaal 10 | 70 |
 | Loonschaal 11 | 77 |
-| Loonschaal 12 | 86 |
-| Loonschaal 13 | 95 |
-| Loonschaal 14 | 104 |
-| Loonschaal 15 | 111 |
-| Loonschaal 16 | 120 |
+| Loonschaal 12 | 87 |
+| Loonschaal 13 | 96 |
+| Loonschaal 14 | 105 |
+| Loonschaal 15 | 113 |
+| Loonschaal 16 | 121 |
 
-- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2020 een standaard tarief vastgesteld van € 116 per uur.
+- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2021 een standaard tarief vastgesteld van € 110,– per uur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
