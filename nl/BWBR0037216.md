@@ -4,7 +4,7 @@ identifier: "BWBR0037216"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2015-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037216"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en On
 
 ##### Artikel 4
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2015-12-01&g=2015-12-01) wordt gedaan door de exporteur en ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2021-06-23&g=2021-01-01) wordt gedaan door de exporteur en ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -80,11 +80,11 @@ Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en On
 
 ##### Artikel 5
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2015-12-01&g=2015-12-01) wordt gedaan door degene die een tussenhandeldienst, als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) verleent en wordt ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2021-06-23&g=2021-01-01) wordt gedaan door degene die een tussenhandeldienst, als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) verleent en wordt ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
-- a. de naam en het adres van degene die tussenhandeldiensten, als bedoeld in artikel 2, vijfde lid, van [verordening 428/2009](32009R0428), indien [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=4&z=2015-12-01&g=2015-12-01), van toepassing is of als bedoeld in [artikel 1, negende of tiende liggend streepje, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=1) indien [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) van toepassing is, verleent;
+- a. de naam en het adres van degene die tussenhandeldiensten, als bedoeld in artikel 2, vijfde lid, van [verordening 428/2009](32009R0428), indien [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=4&z=2021-06-23&g=2021-01-01), van toepassing is of als bedoeld in [artikel 1, negende of tiende liggend streepje, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=1) indien [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=5), of [6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=6) van toepassing is, verleent;
 
 - b. het land of de landen van herkomst en bestemming, met inbegrip van de eindbestemming, van de goederen voor tweeërlei gebruik waarop de tussenhandeldiensten betrekking hebben;
 
@@ -102,27 +102,27 @@ Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en On
 
 ##### Artikel 6
 
-1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2015-12-01&g=2015-12-01) kunnen voorwaarden worden verbonden en kunnen ten minste de volgende voorschriften worden verbonden:
+1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2021-06-23&g=2021-01-01) kunnen voorwaarden worden verbonden en kunnen ten minste de volgende voorschriften worden verbonden:
 
 - a. door middel van een bewijsstuk van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument of een eindgebruikersverklaring wordt bij de inspecteur aangetoond dat de goederen voor tweeërlei gebruik de bestemming waarvoor de vergunning is verleend, hebben bereikt;
 
 - b. bij elke uitvoer wordt een factuur ingezonden aan de inspecteur.
 
-2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2015-12-01&g=2015-12-01) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2021-06-23&g=2021-01-01) kan onder beperkingen worden verleend.
 
 ##### Artikel 7
 
-1. Aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2015-12-01&g=2015-12-01) kunnen voorwaarden en voorschriften worden verbonden.
+1. Aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2021-06-23&g=2021-01-01) kunnen voorwaarden en voorschriften worden verbonden.
 
-2. Een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2015-12-01&g=2015-12-01) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2021-06-23&g=2021-01-01) kan onder beperkingen worden verleend.
 
 ##### Artikel 8
 
-Indien een vergunninghouder geen gebruik maakt van een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2015-12-01&g=2015-12-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2015-12-01&g=2015-12-01), of daarvan geen gebruik meer zal maken, wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur.
+Indien een vergunninghouder geen gebruik maakt van een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2021-06-23&g=2021-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2021-06-23&g=2021-01-01), of daarvan geen gebruik meer zal maken, wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur.
 
 ##### Artikel 9
 
-Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2015-12-01&g=2015-12-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2015-12-01&g=2015-12-01) kan in ieder geval ingetrokken worden indien:
+Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=2&z=2021-06-23&g=2021-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037216&artikel=3&z=2021-06-23&g=2021-01-01) kan in ieder geval ingetrokken worden indien:
 
 - a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;
 
