@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2017-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,7 +125,7 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2017-01-01&g=2017-01-01));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2021-02-19&g=2021-01-01));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
