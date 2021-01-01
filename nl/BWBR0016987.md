@@ -4,7 +4,7 @@ identifier: "BWBR0016987"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2008-03-26"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016987"
 soort: "wet"
@@ -56,11 +56,11 @@ Wijzigt de Databankenwet.
 
 ##### Artikel IIIa
 
-Voor zover uitvoerende kunstenaars of fonogrammenproducenten als bedoeld in het op 20 december 1996 te Genève gesloten Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (Trb. 1998, 248) rechten kunnen ontlenen aan dat verdrag, kunnen zij aanspraak maken op de daarmee corresponderende rechten uit de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921).
+Voor zover uitvoerende kunstenaars of fonogrammenproducenten als bedoeld in het op 20 december 1996 te Genève gesloten Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (Trb. 1998, 248) door de vervulling van de op hen toegesneden toepassingscriteria uit dat verdrag rechten kunnen ontlenen aan dat verdrag, kunnen zij aanspraak maken op de daarmee corresponderende rechten uit de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921).
 
 ##### Artikel IV
 
-Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0016987&artikel=VII&z=2008-03-26&g=2008-03-26) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
+Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0016987&artikel=VII&z=2021-01-01&g=2021-01-01) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
 
 ##### Artikel V
 
