@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -86,17 +86,17 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1. De maximum uurprijs bedraagt voor:
 
-- a. dagopvang € 8,17;
+- a. dagopvang € 8,46;
 
-- b. buitenschoolse opvang € 7,02; en
+- b. buitenschoolse opvang € 7,27; en
 
-- c. gastouderopvang € 6,27.
+- c. gastouderopvang € 6,49.
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -104,19 +104,19 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2020-01-01&g=2020-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2021-01-01&g=2021-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2021-01-01&g=2021-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2020-01-01&g=2020-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2021-01-01&g=2021-01-01).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01), € 126.832, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2021-01-01&g=2021-01-01), € 129.457, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -427,163 +427,88 @@ Vervallen
 
 Vervallen
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2021-01-01&g=2021-01-01) van het Besluit kinderopvangtoeslag
 
 | (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
 | --- | --- | --- | --- |
-|   |   | eerste kind | volgend kind |
-| lager dan | 19.890 | 96,0% | 96,0% |
-| 19.891 | 21.215 | 96,0% | 96,0% |
-| 21.216 | 22.537 | 96,0% | 96,0% |
-| 22.538 | 23.863 | 96,0% | 96,0% |
-| 23.864 | 25.188 | 96,0% | 96,0% |
-| 25.189 | 26.512 | 95,6% | 95,7% |
-| 26.513 | 27.836 | 94,5% | 95,5% |
-| 27.837 | 29.156 | 93,5% | 95,3% |
-| 29.157 | 30.581 | 92,6% | 95,1% |
-| 30.582 | 32.004 | 92,0% | 95,0% |
-| 32.005 | 33.430 | 91,0% | 94,8% |
-| 33.431 | 34.853 | 90,5% | 94,6% |
-| 34.854 | 36.280 | 89,7% | 94,6% |
-| 36.281 | 37.704 | 88,9% | 94,6% |
-| 37.705 | 39.161 | 88,3% | 94,6% |
-| 39.162 | 40.622 | 87,5% | 94,6% |
-| 40.623 | 42.082 | 86,8% | 94,6% |
-| 42.083 | 43.542 | 86,1% | 94,6% |
-| 43.543 | 45.004 | 85,2% | 94,6% |
-| 45.005 | 46.465 | 84,7% | 94,6% |
-| 46.466 | 47.924 | 83,9% | 94,6% |
-| 47.925 | 49.385 | 83,3% | 94,6% |
-| 49.386 | 50.981 | 82,4% | 94,6% |
-| 50.982 | 54.110 | 80,9% | 94,6% |
-| 54.111 | 57.238 | 80,1% | 94,2% |
-| 57.239 | 60.368 | 79,0% | 93,6% |
-| 60.369 | 63.499 | 76,8% | 93,2% |
-| 63.500 | 66.627 | 74,5% | 92,9% |
-| 66.628 | 69.758 | 72,3% | 92,2% |
-| 69.759 | 72.887 | 69,9% | 91,7% |
-| 72.888 | 76.016 | 67,6% | 91,2% |
-| 76.017 | 79.148 | 65,4% | 90,5% |
-| 79.149 | 82.276 | 63,1% | 90,0% |
-| 82.277 | 85.408 | 60,9% | 89,6% |
-| 85.409 | 88.537 | 58,4% | 89,3% |
-| 88.538 | 91.665 | 56,2% | 88,6% |
+| (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | eerste kind | volgend kind |
+| lager dan | 20.302 | 96,0% | 96,0% |
+| 20.303 | 21.654 | 96,0% | 96,0% |
+| 21.655 | 23.004 | 96,0% | 96,0% |
+| 23.005 | 24.357 | 96,0% | 96,0% |
+| 24.358 | 25.709 | 96,0% | 96,0% |
+| 25.710 | 27.061 | 95,6% | 95,7% |
+| 27.062 | 28.412 | 94,5% | 95,5% |
+| 28.413 | 29.760 | 93,5% | 95,3% |
+| 29.761 | 31.214 | 92,6% | 95,1% |
+| 31.215 | 32.666 | 92,0% | 95,0% |
+| 32.667 | 34.122 | 91,0% | 94,8% |
+| 34.123 | 35.574 | 90,5% | 94,6% |
+| 35.575 | 37.031 | 89,7% | 94,6% |
+| 37.032 | 38.484 | 88,9% | 94,6% |
+| 38.485 | 39.972 | 88,3% | 94,6% |
+| 39.973 | 41.463 | 87,5% | 94,6% |
+| 41.464 | 42.953 | 86,8% | 94,6% |
+| 42.954 | 44.443 | 86,1% | 94,6% |
+| 44.444 | 45.936 | 85,2% | 94,6% |
+| 45.937 | 47.427 | 84,7% | 94,6% |
+| 47.428 | 48.916 | 83,9% | 94,6% |
+| 48.917 | 50.407 | 83,3% | 94,6% |
+| 50.408 | 52.036 | 82,4% | 94,6% |
+| 52.037 | 55.230 | 80,9% | 94,6% |
+| 55.231 | 58.423 | 80,1% | 94,2% |
+| 58.424 | 61.618 | 79,0% | 93,6% |
+| 61.619 | 64.813 | 76,8% | 93,2% |
+| 64.814 | 68.006 | 74,5% | 92,9% |
+| 68.007 | 71.202 | 72,3% | 92,2% |
+| 71.203 | 74.396 | 69,9% | 91,7% |
+| 74.397 | 77.590 | 67,6% | 91,2% |
+| 77.591 | 80.786 | 65,4% | 90,5% |
 
 | (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
 | --- | --- | --- | --- |
-|   |   | eerste kind | volgend kind |
-| 91.666 | 94.795 | 54,0% | 88,2% |
-| 94.796 | 97.987 | 51,6% | 87,7% |
-| 97.988 | 101.192 | 49,6% | 87,0% |
-| 101.193 | 104.397 | 47,5% | 86,5% |
-| 104.398 | 107.602 | 45,4% | 86,1% |
-| 107.603 | 110.805 | 43,3% | 85,8% |
-| 110.806 | 114.011 | 41,4% | 85,1% |
-| 114.012 | 117.218 | 39,5% | 84,5% |
-| 117.219 | 120.423 | 37,6% | 84,1% |
-| 120.424 | 123.625 | 35,7% | 83,5% |
-| 123.626 | 126.831 | 34,1% | 83,2% |
-| 126.832 | 130.037 | 33,3% | 82,5% |
-| 130.038 | 133.241 | 33,3% | 81,9% |
-| 133.242 | 136.446 | 33,3% | 80,9% |
-| 136.447 | 139.650 | 33,3% | 80,6% |
-| 139.651 | 142.856 | 33,3% | 79,8% |
-| 142.857 | 146.064 | 33,3% | 78,9% |
-| 146.065 | 149.266 | 33,3% | 78,3% |
-| 149.267 | 152.472 | 33,3% | 77,4% |
-| 152.473 | 155.675 | 33,3% | 76,9% |
-| 155.676 | 158.882 | 33,3% | 76,2% |
-| 158.883 | 162.088 | 33,3% | 75,5% |
-| 162.089 | 165.292 | 33,3% | 74,8% |
-| 165.293 | 168.497 | 33,3% | 73,8% |
-| 168.498 | 171.699 | 33,3% | 73,3% |
-| 171.700 | 174.906 | 33,3% | 72,6% |
-| 174.907 | 178.110 | 33,3% | 71,8% |
-| 178.111 | 181.317 | 33,3% | 71,1% |
-| 181.318 | 184.522 | 33,3% | 70,5% |
-| 184.523 | 187.726 | 33,3% | 69,8% |
-| 187.727 | 190.932 | 33,3% | 69,0% |
-| 190.933 | 194.135 | 33,3% | 68,5% |
-| 194.136 | en hoger | 33,3% | 67,6% |
+| (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | eerste kind | volgend kind |
+| 80.787 | 83.979 | 63,1% | 90,0% |
+| 83.980 | 87.176 | 60,9% | 89,6% |
+| 87.177 | 90.370 | 58,4% | 89,3% |
+| 90.371 | 93.562 | 56,2% | 88,6% |
+| 93.563 | 96.757 | 54,0% | 88,2% |
+| 96.758 | 100.015 | 51,6% | 87,7% |
+| 100.016 | 103.287 | 49,6% | 87,0% |
+| 103.288 | 106.558 | 47,5% | 86,5% |
+| 106.559 | 109.829 | 45,4% | 86,1% |
+| 109.830 | 113.099 | 43,3% | 85,8% |
+| 113.100 | 116.371 | 41,4% | 85,1% |
+| 116.372 | 119.644 | 39,5% | 84,5% |
+| 119.645 | 122.916 | 37,6% | 84,1% |
+| 122.917 | 126.184 | 35,7% | 83,5% |
+| 126.185 | 129.456 | 34,1% | 83,2% |
+| 129.457 | 132.729 | 33,3% | 82,5% |
+| 132.730 | 135.999 | 33,3% | 81,9% |
+| 136.000 | 139.270 | 33,3% | 80,9% |
+| 139.271 | 142.541 | 33,3% | 80,6% |
+| 142.542 | 145.813 | 33,3% | 79,8% |
+| 145.814 | 149.088 | 33,3% | 78,9% |
+| 149.089 | 152.356 | 33,3% | 78,3% |
+| 152.357 | 155.628 | 33,3% | 77,4% |
+| 155.629 | 158.897 | 33,3% | 76,9% |
+| 158.898 | 162.171 | 33,3% | 76,2% |
+| 162.172 | 165.443 | 33,3% | 75,5% |
+| 165.444 | 168.714 | 33,3% | 74,8% |
+| 168.715 | 171.985 | 33,3% | 73,8% |
+| 171.986 | 175.253 | 33,3% | 73,3% |
+| 175.254 | 178.527 | 33,3% | 72,6% |
+| 178.528 | 181.797 | 33,3% | 71,8% |
+| 181.798 | 185.070 | 33,3% | 71,1% |
+| 185.071 | 188.342 | 33,3% | 70,5% |
+| 188.343 | 191.612 | 33,3% | 69,8% |
+| 191.613 | 194.884 | 33,3% | 69,0% |
+| 194.885 | 198.154 | 33,3% | 68,5% |
+| 198.155 | en hoger | 33,3% | 67,6% |
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2021-02-09&g=2020-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage II. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
-| (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
-| --- | --- | --- | --- |
-|   |   | eerste kind | volgend kind |
-| lager dan | 19.890 | 96,0% | 96,0% |
-| 19.891 | 21.215 | 96,0% | 96,0% |
-| 21.216 | 22.537 | 96,0% | 96,0% |
-| 22.538 | 23.863 | 96,0% | 96,0% |
-| 23.864 | 25.188 | 96,0% | 96,0% |
-| 25.189 | 26.512 | 95,6% | 95,7% |
-| 26.513 | 27.836 | 94,5% | 95,5% |
-| 27.837 | 29.156 | 93,5% | 95,3% |
-| 29.157 | 30.581 | 92,6% | 95,1% |
-| 30.582 | 32.004 | 92,0% | 95,0% |
-| 32.005 | 33.430 | 91,0% | 94,8% |
-| 33.431 | 34.853 | 90,5% | 94,6% |
-| 34.854 | 36.280 | 89,7% | 94,6% |
-| 36.281 | 37.704 | 88,9% | 94,6% |
-| 37.705 | 39.161 | 88,3% | 94,6% |
-| 39.162 | 40.622 | 87,5% | 94,6% |
-| 40.623 | 42.082 | 86,8% | 94,6% |
-| 42.083 | 43.542 | 86,1% | 94,6% |
-| 43.543 | 45.004 | 85,2% | 94,6% |
-| 45.005 | 46.465 | 84,7% | 94,6% |
-| 46.466 | 47.924 | 83,9% | 94,6% |
-| 47.925 | 49.385 | 83,3% | 94,6% |
-| 49.386 | 50.981 | 82,4% | 94,6% |
-| 50.982 | 54.110 | 80,9% | 94,6% |
-| 54.111 | 57.238 | 80,1% | 94,2% |
-| 57.239 | 60.368 | 79,0% | 93,6% |
-| 60.369 | 63.499 | 76,8% | 93,2% |
-| 63.500 | 66.627 | 74,5% | 92,9% |
-| 66.628 | 69.758 | 72,3% | 92,2% |
-| 69.759 | 72.887 | 69,9% | 91,7% |
-| 72.888 | 76.016 | 67,6% | 91,2% |
-| 76.017 | 79.148 | 65,4% | 90,5% |
-| 79.149 | 82.276 | 63,1% | 90,0% |
-| 82.277 | 85.408 | 60,9% | 89,6% |
-| 85.409 | 88.537 | 58,4% | 89,3% |
-| 88.538 | 91.665 | 56,2% | 88,6% |
-
-| (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
-| --- | --- | --- | --- |
-|   |   | eerste kind | volgend kind |
-| 91.666 | 94.795 | 54,0% | 88,2% |
-| 94.796 | 97.987 | 51,6% | 87,7% |
-| 97.988 | 101.192 | 49,6% | 87,0% |
-| 101.193 | 104.397 | 47,5% | 86,5% |
-| 104.398 | 107.602 | 45,4% | 86,1% |
-| 107.603 | 110.805 | 43,3% | 85,8% |
-| 110.806 | 114.011 | 41,4% | 85,1% |
-| 114.012 | 117.218 | 39,5% | 84,5% |
-| 117.219 | 120.423 | 37,6% | 84,1% |
-| 120.424 | 123.625 | 35,7% | 83,5% |
-| 123.626 | 126.831 | 34,1% | 83,2% |
-| 126.832 | 130.037 | 33,3% | 82,5% |
-| 130.038 | 133.241 | 33,3% | 81,9% |
-| 133.242 | 136.446 | 33,3% | 80,9% |
-| 136.447 | 139.650 | 33,3% | 80,6% |
-| 139.651 | 142.856 | 33,3% | 79,8% |
-| 142.857 | 146.064 | 33,3% | 78,9% |
-| 146.065 | 149.266 | 33,3% | 78,3% |
-| 149.267 | 152.472 | 33,3% | 77,4% |
-| 152.473 | 155.675 | 33,3% | 76,9% |
-| 155.676 | 158.882 | 33,3% | 76,2% |
-| 158.883 | 162.088 | 33,3% | 75,5% |
-| 162.089 | 165.292 | 33,3% | 74,8% |
-| 165.293 | 168.497 | 33,3% | 73,8% |
-| 168.498 | 171.699 | 33,3% | 73,3% |
-| 171.700 | 174.906 | 33,3% | 72,6% |
-| 174.907 | 178.110 | 33,3% | 71,8% |
-| 178.111 | 181.317 | 33,3% | 71,1% |
-| 181.318 | 184.522 | 33,3% | 70,5% |
-| 184.523 | 187.726 | 33,3% | 69,8% |
-| 187.727 | 190.932 | 33,3% | 69,0% |
-| 190.933 | 194.135 | 33,3% | 68,5% |
-| 194.136 | en hoger | 33,3% | 67,6% |
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
@@ -605,7 +530,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. per berekeningsjaar:
 
-- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), gezamenlijk;
+- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2021-01-01&g=2021-01-01), gezamenlijk;
 
 - 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd waarop kinderen naar het basisonderwijs kunnen gaan, gezamenlijk;
 
@@ -629,7 +554,7 @@ Vervallen
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
-## Bijlage II. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+## Bijlage IIa. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 Vervallen
 
@@ -649,7 +574,7 @@ Indien buitenschoolse opvang wordt geboden aan kinderen die basisonderwijs volge
 
 ##### Artikel 7a
 
-Vervallen
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-01-01&g=2021-01-01) wordt niet volledig toegepast voor de aanpassing van de bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2021-01-01&g=2021-01-01), per 1 januari 2021. De toetsingsinkomens van de inkomensgroepen worden met 0,60%-punt minder geïndexeerd.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -659,11 +584,11 @@ Vervallen
 
 ### Kinderopvangtoeslagtabel 2015
 
-## Bijlage IIa. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+## Bijlage IIb. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 Vervallen
 
-## Bijlage IIb. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+## Bijlage IIc. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 Vervallen
 
@@ -679,7 +604,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8b
 
-1. In afwijking van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=8a&z=2021-02-09&g=2020-01-01) bedraagt voor het berekeningsjaar 2020 het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, voor ieder kind niet meer dan:
+1. In afwijking van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=8a&z=2021-02-09&g=2021-01-01) bedraagt voor het berekeningsjaar 2020 het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, voor ieder kind niet meer dan:
 
 - a. 230 uren per kalendermaand; en
 
