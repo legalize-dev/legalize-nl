@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2020-07-01&g=2020-07-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2020-07-01&g=2020-07-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2021-01-01&g=2021-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2021-01-01&g=2021-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
 - a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
 
@@ -136,9 +136,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - f. de boekhouding wordt in Nederland gevoerd;
 
-- g. het vestigingsadres van de belastingplichtige is in Nederland;
+- g. de belastingplichtige heeft een bedrag aan loonkosten dat een vergoeding vormt voor de werkzaamheden, bedoeld in het eerste lid, en dat ten minste gelijk is aan € 100.000;
 
-- h. de belastingplichtige wordt, voor zover bij de belastingplichtige bekend, niet in een ander land fiscaal als inwoner beschouwd;
+- h. de belastingplichtige heeft gedurende een periode van ten minste 24 maanden een in Nederland gelegen onroerende zaak of deel van een onroerende zaak ter beschikking waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend;
 
 - i. de belastingplichtige loopt met betrekking tot de geldleningen of rechtsverhoudingen en de samenhangende geldleningen of rechtsverhoudingen die ten grondslag liggen aan de ontvangen en betaalde rente, royalty’s, huur of leasetermijnen een reëel risico als bedoeld in [artikel 8c, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8c);
 
