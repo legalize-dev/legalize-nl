@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2020-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -179,8 +179,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) | [Artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [artikel 10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a) | verzoek om teruggaaf |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   |   | overige berichten, niet zijnde de berichten, bedoeld in de volgende rij | x |   |   |   |
 | In een door Nederland gesloten verdrag of getroffen regeling ter voorkoming van dubbele belasting opgenomen regeling voor dividenden |   | verzoek om teruggaaf |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-| [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) | [Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) | verzoek om teruggaaf energiebelasting |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-|   |   | alle overige berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de belasting op kolen en de energiebelasting | x |   |   |   |
+| [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) |   | alle berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de kolenbelasting en de energiebelasting | x |   |   |   |
+|   | [Artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89) | aangifte vliegbelasting |   | xx | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge Verordening (EU) nr. 910/2014 voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 | [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359) |   | alle berichten in verband met de heffing van de kansspelbelasting | x |   |   |   |
 | [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553) |   | aangifte verhuurderheffing voor zover die aangifte betrekking heeft op een tijdvak dat vóór 1 januari 2020 is aangevangen | x |   | niet-ingezeten natuurlijke personen die niet over DigiD beschikken en niet-ingezeten rechtspersonen die geen toegang hebben tot MijnBelastingdienst Ondernemers |   |
 |   |   | aangifte verhuurderheffing voor zover die aangifte betrekking heeft op een tijdvak dat vóór 1 januari 2020 is aangevangen |   | x | ingezeten natuurlijke personen en niet-ingezeten natuurlijke personen die over DigiD beschikken: elektronisch formulier op www.belastingdienst.nl | DigiD |
