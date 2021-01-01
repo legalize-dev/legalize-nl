@@ -4,7 +4,7 @@ identifier: "BWBR0046114"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2018-05-25"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046114"
 soort: "ministeriele-regeling"
@@ -84,8 +84,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling bronbelasting 2021.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
@@ -101,8 +99,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XII
 
 Wijzigt de Algemene douaneregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -131,8 +127,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
