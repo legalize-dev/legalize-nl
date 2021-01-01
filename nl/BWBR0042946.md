@@ -4,7 +4,7 @@ identifier: "BWBR0042946"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042946"
 soort: "wet"
@@ -44,35 +44,35 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel V
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel VI
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel VII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel VIII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel IX
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel X
 
@@ -138,19 +138,19 @@ Ingeval de samenloop van wetten die in 2019 in het Staatsblad zijn of worden gep
 
 Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
 
-- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=I&z=2020-01-01&g=2020-01-01), en [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XI&z=2020-01-01&g=2020-01-01), voor het eerst toepassing vinden met betrekking tot kosten en lasten, onderscheidenlijk loonbestanddelen, die verband houden met:
+- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=I&z=2021-01-01&g=2021-01-01), en [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XI&z=2021-01-01&g=2021-01-01), voor het eerst toepassing vinden met betrekking tot kosten en lasten, onderscheidenlijk loonbestanddelen, die verband houden met:
 
 - 1°. geldsommen die zijn betaald in het kader van een na 31 december 2019 uitgevaardigde strafbeschikking of daarmee vergelijkbare buitenlandse wijze van bestraffing die na 31 december 2019 heeft plaatsgevonden;
 
 - 2°. dwangsommen die zijn verbeurd na 31 december 2019;
 
-- b. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XII&z=2020-01-01&g=2020-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
+- b. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XII&z=2021-01-01&g=2021-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
 
-- c. [artikel XIV, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XIV&z=2020-01-01&g=2020-01-01), terugwerkt tot en met 1 februari 2019;
+- c. [artikel XIV, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XIV&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 februari 2019;
 
-- d. [artikel XX, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XX&z=2020-01-01&g=2020-01-01), toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=II) en [XV van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XV) worden toegepast;
+- d. [artikel XX, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XX&z=2021-01-01&g=2021-01-01), toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=II) en [XV van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XV) worden toegepast;
 
-- e. [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XXI&z=2020-01-01&g=2020-01-01), toepassing vindt voordat [artikel 7.4, onderdeel I, van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.4) wordt toegepast.
+- e. [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XXI&z=2021-01-01&g=2021-01-01), toepassing vindt voordat [artikel 7.4, onderdeel I, van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.4) wordt toegepast.
 
 ##### Artikel XXVI
 
