@@ -4,7 +4,7 @@ identifier: "BWBR0038926"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038926"
 soort: "wet"
@@ -72,7 +72,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017.
 
-2. In afwijking van het eerste lid treden [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=I&z=2017-01-01&g=2017-01-01), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=II&z=2017-01-01&g=2017-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=III&z=2017-01-01&g=2017-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=IV&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, in welk besluit de volgorde van toepassing van de verschillende artikelen of onderdelen daarvan wordt vastgesteld. Als dat tijdstip na 1 januari 2017 valt werken zij terug tot en met 1 januari 2017. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
+2. In afwijking van het eerste lid treden [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=I&z=2021-01-01&g=2021-01-01), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=II&z=2021-01-01&g=2021-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=III&z=2021-01-01&g=2021-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=IV&z=2021-01-01&g=2021-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, in welk besluit de volgorde van toepassing van de verschillende artikelen of onderdelen daarvan wordt vastgesteld. Als dat tijdstip na 1 januari 2017 valt werken zij terug tot en met 1 januari 2017. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 ##### Artikel VI
 
