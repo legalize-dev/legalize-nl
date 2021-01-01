@@ -4,7 +4,7 @@ identifier: "BWBR0029367"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-19"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029367"
 soort: "zbo"
@@ -308,7 +308,7 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 1. Het subsidie bedraagt nooit meer dan 50% van de subsidiabele kosten als deze € 125.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 125.000 bedragen.
 
-2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2021-02-19&g=2021-01-01) van overeenkomstige toepassing.
 
 3. Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.
 
