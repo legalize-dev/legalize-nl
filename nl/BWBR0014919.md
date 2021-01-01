@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-12-17"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De vergoeding voor de leden die niet op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=2&z=2020-12-17&g=2020-12-17) een vergoeding ontvangen is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld. Indien het lid is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
+De vergoeding voor de leden die niet op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=2&z=2021-01-01&g=2021-01-01) een vergoeding ontvangen is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld. Indien het lid is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
 
 ##### Artikel 4
 
@@ -112,7 +112,7 @@ De leden en de buitengewone leden hebben recht op vergoeding wegens reis- en ver
 
 ##### Artikel 8
 
-[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-12-17&g=2020-12-17) is van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=16).
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=16).
 
 ##### Artikel 9
 
