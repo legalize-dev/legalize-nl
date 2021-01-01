@@ -4,7 +4,7 @@ identifier: "BWBR0039851"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039851"
 soort: "zbo"
@@ -48,23 +48,21 @@ Vervallen
 
 ##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
-1. Vervallen.
-
-2. De syllabi voor de centrale examens 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=2b&z=2020-01-01&g=2020-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 3. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2020-01-01&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2020-01-01&g=2020-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2021-01-01&g=2021-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2020-01-01&g=2020-01-01) per 1 januari 2020;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2021-01-01&g=2021-01-01) per 1 januari 2020;
 
-- 2.1. betreffende [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2020-01-01&g=2020-01-01): per 1 januari 2019;
+- 2.1. betreffende [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2021-01-01&g=2021-01-01): per 1 januari 2019;
 
 - 2.2. betreffende artikel 2.2: per 1 januari 2021.
 
@@ -137,6 +135,8 @@ Vervallen
 Vervallen
 
 ## Bijlage 2b
+
+Vervallen
 
 ### Nadere vaststelling syllabi 2020
 
