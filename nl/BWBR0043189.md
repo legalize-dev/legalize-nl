@@ -4,7 +4,7 @@ identifier: "BWBR0043189"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2020-04-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043189"
 soort: "wet"
@@ -57,9 +57,7 @@ Wijzigt de Kadasterwet.
 
 ##### Artikel IV
 
-1. [Paragraaf 2 van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken en de daarop berustende bepalingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2), zoals die luidden op de dag voor de datum van inwerkingtreding van deze wet, blijven tot het tijdstip waarop de mededeling, bedoeld in [artikel 17a, tweede lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=17a) is gedaan, van toepassing op de beperkingenbesluiten, bedoeld in [artikel 3, eerste lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=3) zoals die luidde op de dag voor de datum van inwerkingtreding van deze wet en de daarop betrekking hebbende beslissingen in administratief beroep of rechterlijke uitspraken, bedoeld in artikel 3, eerste lid, en vervallenverklaringen als bedoeld in [artikel 15, derde lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15) zoals die luidde op de dag voor de datum van inwerkingtreding van deze wet.
-
-2. Dit artikel en [artikel 17a van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=17a) vervallen met ingang van 1 januari 2021.
+Vervallen
 
 ##### Artikel V
 
