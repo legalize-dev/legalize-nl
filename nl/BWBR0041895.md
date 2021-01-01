@@ -207,15 +207,3 @@ Zijn van de inkomstenverhouding(en) slechts twee aangiftetijdvakken bekend?
 Wijkt – onder aftrek van de uitbetaalde vakantiebijslag of het extra periode salaris – het loon LB/PH van het voorlaatste beschikbare aangiftetijdvak minder dan 5% af van het loon LB/PH in de aan het voorlaatste aangiftetijdvak voorafgaande tijdvak?
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a. Overgangsbepaling
-
-1. Indien bij de berekening van het belastbaar inkomen in de indicatieperiode aangiftetijdvakken zijn gelegen van voor 1 januari 2022, is op die aangiftetijdvakken de tekst van dit besluit van toepassing, zoals dit luidde op de dag voor die datum.
-
-2. Dit artikel vervalt met ingang van 1 januari 2027.
-
-## Bijlage. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=2&z=2022-01-01&g=2022-01-01), van het Besluit beslagvrije voet
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
