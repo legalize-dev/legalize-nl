@@ -4,7 +4,7 @@ identifier: "BWBR0043862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2020-10-17"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043862"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Vergoeding vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, wordt door het bevoegd gezag per uur dat de ambtenaar in opdracht van het bevoegd gezag daadwerkelijke dienst verricht een vergoeding van € 4,00 netto toegekend.
 
 ##### Artikel 4. Intrekking regeling
 
@@ -76,9 +76,9 @@ De [Regeling Vergoeding vrijwillige politie](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2020-10-17&g=2020-10-17), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
+1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2021-01-01&g=2021-01-01), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2020-10-17&g=2020-10-17) treedt in werking met ingang van 1 januari 2021.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2021-01-01&g=2021-01-01) treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
