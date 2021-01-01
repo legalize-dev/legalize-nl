@@ -4,7 +4,7 @@ identifier: "BWBR0043057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043057"
 soort: "ministeriele-regeling"
@@ -51,18 +51,14 @@ Wijzigt de Uitvoeringsregeling Meststoffenwet.
 
 Wijzigt de Uitvoeringsregeling Meststoffenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-1. Meldingen die zijn gedaan op grond van [artikel 32, eerste lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=32) worden na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0043057&artikel=I&z=2020-01-01&g=2020-01-01) van deze regeling aangemerkt als meldingen als bedoeld in [artikel 33, eerste lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=33).
+1. Meldingen die zijn gedaan op grond van [artikel 32, eerste lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=32) worden na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0043057&artikel=I&z=2021-01-01&g=2021-01-01) van deze regeling aangemerkt als meldingen als bedoeld in [artikel 33, eerste lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=33).
 
-2. Op percelen waarop de meldingen, bedoeld in het eerste lid, van toepassing zijn, zijn de overeenkomstige fosfaatgebruiksnormen van toepassing zoals deze golden op 31 december 2019.
-
-3. Op percelen waarvoor voor de inwerkingtreding van deze regeling meldingen als bedoeld in [artikel 103b, tweede lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=103b) zijn gedaan, zijn tot het verstrijken van de termijn van vier jaren, bedoeld in [artikel 103a, derde lid, van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&artikel=103a) of, indien dat eerder is, tot het moment waarop een nieuwe melding op grond van de eerstgenoemde bepaling is gedaan, de fosfaatgebruiksnormen van toepassing zoals deze golden op 31 december 2019.
+2. Vervallen.
 
 ##### Artikel IV
 
-Indien het bij koninklijke boodschap van 27 juni 2019 ingediende voorstel van wet tot wijziging van de Meststoffenwet in verband met de implementatie van het zesde actieprogramma Nitraatrichtlijn (Kamerstukken 35 233) tot wet is verheven en die wet in werking treedt, treedt deze regeling op hetzelfde moment in werking, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0043057&artikel=II&z=2020-01-01&g=2020-01-01) dat in werking treedt met ingang van 1 januari 2021.
+Indien het bij koninklijke boodschap van 27 juni 2019 ingediende voorstel van wet tot wijziging van de Meststoffenwet in verband met de implementatie van het zesde actieprogramma Nitraatrichtlijn (Kamerstukken 35 233) tot wet is verheven en die wet in werking treedt, treedt deze regeling op hetzelfde moment in werking, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0043057&artikel=II&z=2021-01-01&g=2021-01-01) dat in werking treedt met ingang van 1 januari 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
