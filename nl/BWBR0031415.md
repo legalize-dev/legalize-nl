@@ -4,7 +4,7 @@ identifier: "BWBR0031415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2014-04-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031415"
 soort: "ministeriele-regeling"
@@ -72,8 +72,28 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C.
 
-## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) van de Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C
+## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01) van de Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C
 
-### Eind- en toetstermen voor het praktijk-examen rijbewijs voor categorie C1, E bij C1, C en E bij C
+### Eind- en toetstermen voor het praktijkexamen rijbewijs voor categorie C1, E bij C1, C en E bij C
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Toelichting
+
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
+Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
+
+Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
+
+F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
+
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
