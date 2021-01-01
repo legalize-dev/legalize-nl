@@ -4,7 +4,7 @@ identifier: "BWBR0042940"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042940"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. Overgangsbepaling
 
-1. Personen die beschikken over een geldig certificaat of getuigschrift dat is afgegeven krachtens het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498), zoals dat besluit luidde op de dag voorafgaand aan de datum van inwerkingtreding van de op dat certificaat of getuigschrift van toepassing zijnde onderdelen of subonderdelen van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042940&artikel=I&z=2020-01-01&g=2020-01-01), kunnen voor de resterende geldigheidsduur van dat certificaat of getuigschrift worden ingeschreven in het van toepassing zijnde register, bedoeld in [artikel 1.5j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j).
+1. Personen die beschikken over een geldig certificaat of getuigschrift dat is afgegeven krachtens het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498), zoals dat besluit luidde op de dag voorafgaand aan de datum van inwerkingtreding van de op dat certificaat of getuigschrift van toepassing zijnde onderdelen of subonderdelen van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042940&artikel=I&z=2021-01-01&g=2021-01-01), kunnen voor de resterende geldigheidsduur van dat certificaat of getuigschrift worden ingeschreven in het van toepassing zijnde register, bedoeld in [artikel 1.5j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j).
 
 2. Indien de resterende geldigheidsduur van een certificaat als bedoeld in het eerste lid, verstrijkt binnen twaalf maanden na de datum van inwerkingtreding, bedoeld in het eerste lid, kan Onze Minister in bijzondere gevallen de registratie in het van toepassing zijnde register verlengen voor ten hoogste zes maanden.
 
