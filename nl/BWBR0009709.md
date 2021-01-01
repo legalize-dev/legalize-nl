@@ -4,7 +4,7 @@ identifier: "BWBR0009709"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009709"
 soort: "wet"
@@ -50,13 +50,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Justitie;
+- a. Onze Minister: Onze Minister voor Rechtsbescherming;
 
-- b. inrichting: een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01);
+- b. inrichting: een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2021-01-01&g=2021-01-01);
 
-- c. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=8&z=2020-01-01&g=2020-01-01);
+- c. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01);
 
-- d. directeur: de persoon, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), alsmede diens vervanger of vervangers, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01);
+- d. directeur: de persoon, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2021-01-01&g=2021-01-01), alsmede diens vervanger of vervangers, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2021-01-01&g=2021-01-01);
 
 - e. gedetineerde: een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een inrichting plaatsvindt;
 
@@ -66,29 +66,29 @@ Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan 
 
 - h. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=6);
 
-- i. rechtsbijstandverlener: de advocaat of de medewerker van de voorziening, bedoeld in [artikel 8, tweede lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8), voorzover belast met de verlening van rechtsbijstand anders dan rechtshulp;
+- i. rechtsbijstandverlener: de advocaat of de medewerker van de voorziening, bedoeld in [artikel 8, tweede lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8), voor zover belast met de verlening van rechtsbijstand anders dan rechtshulp;
 
 - j. Raad: de Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- k. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2020-01-01&g=2020-01-01);
+- k. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2021-01-01&g=2021-01-01);
 
-- l. beklagcommissie: een commissie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2020-01-01&g=2020-01-01);
+- l. beklagcommissie: een commissie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2021-01-01&g=2021-01-01);
 
-- m. beroepscommissie: een commissie als bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2020-01-01&g=2020-01-01);
+- m. beroepscommissie: een commissie als bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2021-01-01&g=2021-01-01);
 
-- n. verblijfsruimte: de aan een gedetineerde door de directeur ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=16&z=2020-01-01&g=2020-01-01), toegewezen ruimte;
+- n. verblijfsruimte: de aan een gedetineerde door de directeur ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=16&z=2021-01-01&g=2021-01-01), toegewezen ruimte;
 
-- o. penitentiair programma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01);
+- o. penitentiair programma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2021-01-01&g=2021-01-01);
 
-- p. huisregels: regels als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01);
+- p. huisregels: regels als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2021-01-01&g=2021-01-01);
 
-- q. regime: het samenstel van de verzorging en activiteiten, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2020-01-01&g=2020-01-01), en de regels die gelden voor gedetineerden in een inrichting of afdeling;
+- q. regime: het samenstel van de verzorging en activiteiten, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2021-01-01&g=2021-01-01), en de regels die gelden voor gedetineerden in een inrichting of afdeling;
 
-- r. activiteiten: activiteiten als bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2020-01-01&g=2020-01-01);
+- r. activiteiten: activiteiten als bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2021-01-01&g=2021-01-01);
 
 - s. vrijheidsstraf: gevangenisstraf, (vervangende) hechtenis, militaire detentie en (vervangende) jeugddetentie;
 
-- t. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, lijfsdwang, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere dan de in [artikel 1, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01), genoemde gronden plaatsvindt;
+- t. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, lijfsdwang, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere dan de in [artikel 1, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01), genoemde gronden plaatsvindt;
 
 - u. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het samenstel van dergelijke straffen dat nog moet worden ondergaan, waarbij wordt uitgegaan van de toepassing van de voorwaardelijke invrijheidstelling volgens de daarvoor geldende wettelijke regeling;
 
@@ -108,13 +108,13 @@ Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan 
 
 ##### Artikel 3
 
-1. Onze Minister wijst penitentiaire inrichtingen aan.
+1. Onze Minister wijst penitentiaire inrichtingen aan. Een inrichting kan zijn gevestigd op verschillende locaties binnen hetzelfde arrondissement.
 
 2. Het opperbeheer van de inrichtingen berust bij Onze Minister. Onze Minister kan mandaat verlenen betreffende de hem bij of krachtens deze wet toegekende bevoegdheden tot het vaststellen van algemeen verbindende voorschriften aan het hoofd van de Dienst Justitiële Inrichtingen.
 
 3. Het beheer van een inrichting of afdeling berust bij de directeur, die als zodanig door Onze Minister wordt aangewezen.
 
-4. Onze Minister wijst een of meer personen aan als plaatsvervanger van de directeur.
+4. Onze Minister wijst een of meer personen aan als plaatsvervanger van de directeur. De aanwijzing als plaatsvervanger kan worden beperkt tot het nemen van een in de aanwijzing bepaalde beslissing als bedoeld in [artikel 5, vierde lid, onder b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2021-01-01&g=2021-01-01).
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende het beheer van en het regime in een inrichting.
 
@@ -160,27 +160,27 @@ Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden
 
 4. Aan de directeur is voorbehouden de beslissing omtrent:
 
-- a. de onderbrenging van een kind in de inrichting, bedoeld in [artikel 12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2020-01-01&g=2020-01-01);
+- a. de onderbrenging van een kind in de inrichting, bedoeld in [artikel 12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2021-01-01&g=2021-01-01);
 
-- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01);
+- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), onderscheidenlijk [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01);
 
-- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2020-01-01&g=2020-01-01), op de gronden van [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2020-01-01&g=2020-01-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2020-01-01&g=2020-01-01);
+- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-01-01&g=2021-01-01), op de gronden van [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-01-01&g=2021-01-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-01-01&g=2021-01-01);
 
-- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2020-01-01&g=2020-01-01);
+- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2021-01-01&g=2021-01-01);
 
-- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2020-01-01&g=2020-01-01);
+- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2021-01-01&g=2021-01-01);
 
-- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2020-01-01&g=2020-01-01);
+- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2021-01-01&g=2021-01-01);
 
-- g. het verrichten van geneeskundige behandeling als bedoeld in [artikel 46d, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01);
+- g. het verrichten van geneeskundige behandeling als bedoeld in [artikel 46d, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01);
 
-- h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2020-01-01&g=2020-01-01);
+- h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2021-01-01&g=2021-01-01);
 
-- i. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2020-01-01&g=2020-01-01), en de toepassing van de [artikelen 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2020-01-01&g=2020-01-01), en [53, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2020-01-01&g=2020-01-01).
+- i. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2021-01-01&g=2021-01-01), en de toepassing van de [artikelen 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2021-01-01&g=2021-01-01), en [53, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 6
 
-De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XIII](onbekend) en [XV](onbekend), en[hoofdstuk 7 van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7).
+De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2021-01-01&g=2021-01-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XV&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 7
 
@@ -188,11 +188,11 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 2. De commissie van toezicht heeft tot taak:
 
-- a. toezicht te houden op de wijze van tenuitvoerlegging van de vrijheidsbeneming in de inrichting of afdeling;
+- a. toezicht te houden op de wijze van tenuitvoerlegging van de vrijheidsbeneming in de inrichting of afdeling en het vervoer uitgevoerd door de inrichting;
 
 - b. kennis te nemen van door de gedetineerden naar voren gebrachte grieven;
 
-- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2020-01-01&g=2020-01-01);
+- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2021-01-01&g=2021-01-01);
 
 - d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.
 
@@ -204,7 +204,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 ##### Artikel 8
 
-1. Onze Minister bepaalt de bestemming van elke inrichting of afdeling ingevolge de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=9&z=2020-01-01&g=2020-01-01) en stelt regels voor de plaatsing en overplaatsing van de gedetineerden.
+1. Onze Minister bepaalt de bestemming van elke inrichting of afdeling ingevolge de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=9&z=2021-01-01&g=2021-01-01) en stelt regels voor de plaatsing en overplaatsing van de gedetineerden.
 
 2. Onze Minister kan delen van een inrichting als afdeling met een aparte bestemming aanwijzen.
 
@@ -250,7 +250,7 @@ Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van persone
 
 2. Onze Minister wijst inrichtingen of afdelingen aan die uitsluitend zijn bestemd voor de onderbrenging van vrouwelijke gedetineerden.
 
-3. Onze Minister kan inrichtingen of afdelingen aanwijzen waarin van het eerste lid wordt afgeweken vanwege hun bestemming als inrichting of afdeling voor bijzondere opvang als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2020-01-01&g=2020-01-01).
+3. Onze Minister kan inrichtingen of afdelingen aanwijzen waarin van het eerste lid wordt afgeweken vanwege hun bestemming als inrichting of afdeling voor bijzondere opvang als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2021-01-01&g=2021-01-01).
 
 4. De directeur kan gedetineerden van verschillend geslacht die in dezelfde inrichting verblijven in de gelegenheid stellen gezamenlijk aan activiteiten deel te nemen.
 
@@ -298,11 +298,11 @@ Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van persone
 
 1. Inrichtingen of afdelingen daarvan kunnen door Onze Minister worden bestemd voor de onderbrenging van gedetineerden die een bijzondere opvang behoeven.
 
-2. De bijzondere opvang, bedoeld in het eerste lid, kan verband houden met de leeftijd, de persoonlijkheid, de lichamelijke of de geestelijke gezondheidstoestand van de gedetineerden, de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01) alsmede met het delict waarvoor zij zijn gedetineerd.
+2. De bijzondere opvang, bedoeld in het eerste lid, kan verband houden met de leeftijd, de persoonlijkheid, de lichamelijke of de geestelijke gezondheidstoestand van de gedetineerden, de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01) alsmede met het delict waarvoor zij zijn gedetineerd.
 
 3. Onze Minister bepaalt de criteria waaraan gedetineerden moeten voldoen om voor plaatsing in een inrichting of een afdeling als bedoeld in het eerste lid in aanmerking te komen.
 
-4. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwezigheid van de benodigde voorzieningen in een inrichting of afdeling voor de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01). In elk geval worden nadere regels gesteld omtrent de beschikbaarheid van een psychiater en een verpleegkundige ten dienste van deze inrichting of afdeling.
+4. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwezigheid van de benodigde voorzieningen in een inrichting of afdeling voor de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01). In elk geval worden nadere regels gesteld omtrent de beschikbaarheid van een psychiater en een verpleegkundige ten dienste van deze inrichting of afdeling.
 
 ### Hoofdstuk IV. Selectie en selectieprocedure
 
@@ -310,9 +310,9 @@ Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van persone
 
 ##### Artikel 15
 
-1. De personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast worden geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig de bestemming daarvan ingevolge [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&z=2020-01-01&g=2020-01-01). Van het bepaalde omtrent de bestemming kan worden afgeweken op gronden gelegen in de persoon van de betrokkene. Indien een persoon voor plaatsing in meer dan één inrichting of afdeling in aanmerking komt, geschiedt deze met inachtneming van [artikel 2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01).
+1. De personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast worden geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig de bestemming daarvan ingevolge [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&z=2021-01-01&g=2021-01-01). Van het bepaalde omtrent de bestemming kan worden afgeweken op gronden gelegen in de persoon van de betrokkene. Indien een persoon voor plaatsing in meer dan één inrichting of afdeling in aanmerking komt, geschiedt deze met inachtneming van [artikel 2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2021-01-01&g=2021-01-01).
 
-2. Gedetineerden die hiervoor ingevolge [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01), in aanmerking komen, kunnen in de gelegenheid worden gesteld tot deelname aan een penitentiair programma en daarbij voor de duur van het programma of een gedeelte daarvan onder elektronisch toezicht worden gesteld. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01), kan de deelname worden beëindigd.
+2. Gedetineerden die hiervoor ingevolge [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2021-01-01&g=2021-01-01), in aanmerking komen, kunnen in de gelegenheid worden gesteld tot deelname aan een penitentiair programma en daarbij voor de duur van het programma of een gedeelte daarvan onder elektronisch toezicht worden gesteld. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2021-01-01&g=2021-01-01), kan de deelname worden beëindigd.
 
 3. Onze Minister is bevoegd tot plaatsing en overplaatsing als bedoeld in het eerste lid en tot het nemen van de beslissingen, bedoeld in het tweede lid. Onze Minister is tevens bevoegd de overbrenging te bevelen naar de voor hen bestemde inrichting of afdeling, dan wel ten behoeve van deelname aan het voor hen bestemde penitentiair programma dan wel de beëindiging hiervan. Onze Minister is bovendien bevoegd tot de beslissing of ten aanzien van de individuele gedetineerde is gebleken van goed gedrag dat aanleiding geeft tot deelname van de gedetineerde aan een penitentiair programma, zodra aan de voorwaarden, bedoeld in artikel 4, tweede lid, onderdelen b en c, is voldaan. De inrichting is verplicht te betrokkene op te nemen.
 
@@ -320,19 +320,19 @@ Inrichtingen voor stelselmatige daders zijn bestemd voor de opneming van persone
 
 5. In geval van een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap van een gedetineerde kan Onze Minister bepalen dat de gedetineerde naar een accommodatie als bedoeld in [artikel 1:1, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=1:1) of [artikel 1, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1) zal worden overgebracht om daar zolang dat noodzakelijk is te worden verpleegd. Indien de gedetineerde wordt overgebracht ten behoeve van de verlening van forensische zorg, bedoeld bij of krachtens de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634), geschiedt de overbrenging overeenkomstig die wet.
 
-6. Onze Minister stelt nadere regels vast omtrent de procedure van plaatsing en overplaatsing en overbrenging, bedoeld in het eerste onderscheidenlijk het vijfde lid, en omtrent de wijze waarop het vervoer van de gedetineerde plaatsvindt.
+6. Onze Minister stelt nadere regels vast omtrent de procedure van plaatsing en overplaatsing en overbrenging, bedoeld in het eerste onderscheidenlijk het vijfde lid.
 
 ##### Artikel 15a
 
-In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2020-01-01&g=2020-01-01), kan Onze Minister bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
+In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2021-01-01&g=2021-01-01), kan Onze Minister bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
 
 ##### Artikel 16
 
-1. De directeur bepaalt de wijze van onderbrenging van de gedetineerden die overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2020-01-01&g=2020-01-01) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
+1. De directeur bepaalt de wijze van onderbrenging van de gedetineerden die overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2021-01-01&g=2021-01-01) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
 
-2. De directeur wijst iedere gedetineerde een verblijfsruimte toe met inachtneming van de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=20&z=2020-01-01&g=2020-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=21&z=2020-01-01&g=2020-01-01) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2020-01-01&g=2020-01-01).
+2. De directeur wijst iedere gedetineerde een verblijfsruimte toe met inachtneming van de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=20&z=2021-01-01&g=2021-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=21&z=2021-01-01&g=2021-01-01) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2021-01-01&g=2021-01-01).
 
-3. De directeur kan onderdelen van de inrichting of afdeling aanwijzen voor de onderbrenging van gedetineerden die een bijzondere opvang in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2020-01-01&g=2020-01-01) behoeven.
+3. De directeur kan onderdelen van de inrichting of afdeling aanwijzen voor de onderbrenging van gedetineerden die een bijzondere opvang in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2021-01-01&g=2021-01-01) behoeven.
 
 4. De directeur bepaalt de criteria waaraan de gedetineerde moet voldoen om voor onderbrenging als bedoeld in het derde lid in aanmerking te komen.
 
@@ -344,15 +344,15 @@ In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid
 
 1. De betrokkene heeft het recht een met redenen omkleed bezwaarschrift in te dienen tegen de beslissing:
 
-- a. tot plaatsing of overplaatsing als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2020-01-01&g=2020-01-01);
+- a. tot plaatsing of overplaatsing als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2021-01-01&g=2021-01-01);
 
 - b. tot beëindiging van zijn deelname aan een penitentiair programma.
 
-2. Op de wijze van indiening is [artikel 61, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
+2. Op de wijze van indiening is [artikel 61, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing.
 
 3. Onze Minister stelt de betrokkene in de gelegenheid schriftelijk of mondeling diens bezwaarschrift toe te lichten, tenzij hij het aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht.
 
-4. Onze Minister stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2020-01-01&g=2020-01-01), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
+4. Onze Minister stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2021-01-01&g=2021-01-01), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
 
 5. Het indienen van een bezwaarschrift blijft achterwege, indien de betrokkene in de gelegenheid is gesteld zijn bezwaren tegen een door Onze Minister voorgenomen en hem betreffende beslissing als bedoeld in het eerste lid kenbaar te maken.
 
@@ -366,7 +366,7 @@ In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid
 
 2. Met een verzoekschrift wordt gelijkgesteld een akkoordverklaring van de gedetineerde met het selectieadvies van de directeur van de inrichting.
 
-3. De [artikelen 61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2020-01-01&g=2020-01-01), en [17, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), en [17, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2021-01-01&g=2021-01-01), zijn van overeenkomstige toepassing.
 
 4. Indien het verzoekschrift, bedoeld in het eerste lid, is afgewezen, kan zes maanden na deze afwijzing opnieuw een dergelijk verzoekschrift worden ingediend.
 
@@ -424,7 +424,7 @@ In een regime van beperkte gemeenschap worden gedetineerden in de gelegenheid ge
 
 2. In een individueel regime bepaalt de directeur de mate waarin de gedetineerde in staat wordt gesteld individueel dan wel gemeenschappelijk aan activiteiten deel te nemen.
 
-#### Paragraaf 2. Ordemaatregelen
+#### Paragraaf 1. Mate van gemeenschap
 
 ##### Artikel 23
 
@@ -444,13 +444,13 @@ In een regime van beperkte gemeenschap worden gedetineerden in de gelegenheid ge
 
 ##### Artikel 24
 
-1. De directeur is bevoegd een gedetineerde in afzondering te plaatsen op de gronden genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01). De afzondering ingevolge [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), duurt ten hoogste twee weken.
+1. De directeur is bevoegd een gedetineerde in afzondering te plaatsen op de gronden genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01). De afzondering ingevolge [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), duurt ten hoogste twee weken.
 
-2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de gedetineerde niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2020-01-01&g=2020-01-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de afzonderingscel beperken of uitsluiten.
+2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de gedetineerde niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2021-01-01&g=2021-01-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de afzonderingscel beperken of uitsluiten.
 
-3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
+3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
 
-4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), geboden is, kan een ambtenaar of medewerker een gedetineerde voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
+4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), geboden is, kan een ambtenaar of medewerker een gedetineerde voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
 
 5. De directeur draagt zorg dat in geval van afzondering het nodige contact tussen ambtenaren en medewerkers van de inrichting en de gedetineerde wordt gewaarborgd en naar aard en frequentie op de situatie van de gedetineerde wordt afgestemd.
 
@@ -514,17 +514,19 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De directeur is bevoegd een gedetineerde bij binnenkomst of bij het verlaten van de inrichting, voorafgaand aan of na afloop van bezoek, dan wel indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting, aan zijn lichaam of aan zijn kleding te onderzoeken.
 
-2. Het onderzoek aan het lichaam van de gedetineerde omvat mede het uitwendig schouwen van de openingen en holten van het lichaam van de gedetineerde. Het onderzoek aan de kleding van de gedetineerde omvat mede het onderzoek van de voorwerpen die de gedetineerde bij zich draagt of met zich meevoert.
+2. Onze Minister is bevoegd ten behoeve van het vervoer een gedetineerde aan zijn lichaam of aan zijn kleding te onderzoeken.
 
-3. Het onderzoek aan het lichaam van de gedetineerde wordt op een besloten plaats en, voor zover mogelijk, door personen van hetzelfde geslacht als de gedetineerde verricht.
+3. Het onderzoek aan het lichaam van de gedetineerde omvat mede het uitwendig schouwen van de openingen en holten van het lichaam van de gedetineerde. Het onderzoek aan de kleding van de gedetineerde omvat mede het onderzoek van de voorwerpen die de gedetineerde bij zich draagt of met zich meevoert.
 
-4. Indien bij een onderzoek aan het lichaam of de kleding voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en, voor zover het onderzoek betrekking heeft op de openingen of holten van het lichaam van de gedetineerde, deze voorwerpen zonder het gebruik van hulpmiddelen daaruit kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. Hij draagt zorg dat deze voorwerpen, hetzij onder afgifte van een bewijs van ontvangst ten behoeve van de gedetineerde op diens kosten worden bewaard, hetzij met toestemming van de gedetineerde worden vernietigd, hetzij aan een opsporingsambtenaar ter hand worden gesteld met het oog op de voorkoming of opsporing van strafbare feiten.
+4. Het onderzoek aan het lichaam van de gedetineerde wordt op een besloten plaats en, voor zover mogelijk, door personen van hetzelfde geslacht als de gedetineerde verricht.
+
+5. Indien bij een onderzoek aan het lichaam of de kleding voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en, voor zover het onderzoek betrekking heeft op de openingen of holten van het lichaam van de gedetineerde, deze voorwerpen zonder het gebruik van hulpmiddelen daaruit kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. Hij draagt zorg dat deze voorwerpen, hetzij onder afgifte van een bewijs van ontvangst ten behoeve van de gedetineerde op diens kosten worden bewaard, hetzij met toestemming van de gedetineerde worden vernietigd, hetzij aan een opsporingsambtenaar ter hand worden gesteld met het oog op de voorkoming of opsporing van strafbare feiten.
 
 ##### Artikel 30
 
 1. De directeur kan, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting dan wel in verband met de beslissing tot plaatsing of overplaatsing dan wel in verband met de verlening van verlof, een gedetineerde verplichten urine af te staan ten behoeve van een onderzoek van die urine op aanwezigheid van gedragsbeïnvloedende middelen.
 
-2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden.[Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. [Artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 31
 
@@ -532,7 +534,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. Een ambtenaar of medewerker van de inrichting waar de gedetineerde verblijft kan indien onverwijlde tenuitvoerlegging geboden is, een beslissing als bedoeld in het eerste lid nemen.
 
-3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen.[Artikel 29, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. [Artikel 29, vijfde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -558,7 +560,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - b. indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-2. [Artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+2. [Artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
 
 3. De directeur is bevoegd de verblijfsruimte van een gedetineerde te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de gedetineerde aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van [artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6) een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.
 
@@ -574,7 +576,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of de [Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212) door de officier van justitie of de rechter-commissaris genomen beslissing.
 
-2. Onze Minister of een daartoe door hem aangewezen ambtenaar of medewerker is bevoegd jegens een gedetineerde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een van de volgende belangen:
+2. Onze Minister is bevoegd jegens een gedetineerde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een van de volgende belangen:
 
 - a. de uitvoering van een door hem genomen beslissing;
 
@@ -590,7 +592,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De gedetineerde heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht brieven en stukken per post te verzenden en te ontvangen. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de gedetineerde.
 
-2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor gedetineerden, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2020-01-01&g=2020-01-01), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken gedetineerde.
+2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor gedetineerden, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2021-01-01&g=2021-01-01), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken gedetineerde.
 
 3. De directeur is bevoegd op de inhoud van brieven of andere poststukken afkomstig van of bestemd voor gedetineerden toezicht uit te oefenen. Dit toezicht kan omvatten het kopiëren van brieven of andere poststukken. Van de wijze van uitoefenen van toezicht wordt aan de gedetineerden tevoren mededeling gedaan.
 
@@ -608,7 +610,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 37
 
-1. [Artikel 36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01), is niet van toepassing op brieven, door de gedetineerde gericht aan of afkomstig van:
+1. [Artikel 36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01), is niet van toepassing op brieven, door de gedetineerde gericht aan of afkomstig van:
 
 - a. leden van het Koninklijk Huis;
 
@@ -626,15 +628,19 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - h. de commissie van toezicht of een beklagcommissie, of leden daarvan;
 
-- i. diens rechtsbijstandverlener;
+- i. organen, of leden daarvan, die krachtens een wettelijk voorschrift of een in Nederland geldend verdrag:
 
-- j. diens reclasseringswerker;
+- 1°. bevoegd zijn tot kennisneming van klachten of behandeling van met een klacht aangevangen zaken; dan wel
 
-- k. andere door Onze Minister of de directeur aan te wijzen personen of instanties.
+- 2°. zijn belast met het houden van toezicht op de behandeling van personen aan wie hun vrijheid is ontnomen;
 
-2. Voor de toepassing van het eerste lid, onder d, wordt onder justitiële autoriteiten mede begrepen: organen die krachtens een wettelijk voorschrift of een in Nederland geldend verdrag bevoegd zijn tot kennisneming van klachten of behandeling van met een klacht aangevangen zaken.
+- j. diens rechtsbijstandverlener;
 
-3. Onze Minister kan nadere regels stellen omtrent de wijze van verzending van brieven aan en door de in het eerste lid genoemde personen en instanties.
+- k. diens reclasseringswerker;
+
+- l. andere door Onze Minister of de directeur aan te wijzen personen of instanties.
+
+2. Onze Minister kan nadere regels stellen omtrent de wijze van verzending van brieven aan en door de in het eerste lid genoemde personen en instanties.
 
 ##### Artikel 38
 
@@ -642,25 +648,25 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De directeur kan het aantal tegelijkertijd tot de gedetineerde toe te laten personen beperken, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-3. De directeur kan de toelating tot de gedetineerde van een bepaald persoon of van bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01). Deze weigering geldt voor ten hoogste twaalf maanden.
+3. De directeur kan de toelating tot de gedetineerde van een bepaald persoon of van bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01). Deze weigering geldt voor ten hoogste twaalf maanden.
 
-4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01). Dit toezicht kan omvatten het beluisteren of opnemen van het gesprek tussen de bezoeker en de gedetineerde. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
+4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01). Dit toezicht kan omvatten het beluisteren of opnemen van het gesprek tussen de bezoeker en de gedetineerde. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
 
 5. Iedere bezoeker dient zich bij binnenkomst op deugdelijke wijze te legitimeren. De directeur kan bepalen dat een bezoeker aan zijn kleding wordt onderzocht op de aanwezigheid van voorwerpen die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting. Dit onderzoek kan ook betrekking hebben op door hem meegebrachte voorwerpen. De directeur is bevoegd dergelijke voorwerpen gedurende de duur van het bezoek onder zich te nemen tegen afgifte van een bewijs van ontvangst dan wel aan een opsporingsambtenaar ter hand te stellen met het oog op de voorkoming of opsporing van strafbare feiten.
 
-6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01).
+6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01).
 
-7. De in [artikel 37, eerste lid, onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2020-01-01&g=2020-01-01), genoemde personen en instanties hebben te allen tijde toegang tot de gedetineerde. De overige in dat lid genoemde personen en instanties hebben toegang tot de gedetineerde op in de huisregels vastgestelde tijden en plaatsen. Tijdens dit bezoek kunnen zij zich vrijelijk met de gedetineerde onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de gedetineerde een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de gedetineerde en diens rechtsbijstandverlener bij derden bekend kunnen worden.
+7. De in [artikel 37, eerste lid, onder g, h, en i, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2021-01-01&g=2021-01-01) genoemde personen en instanties hebben te allen tijde toegang tot de gedetineerde. De overige in dat lid genoemde personen en instanties hebben toegang tot de gedetineerde op in de huisregels vastgestelde tijden en plaatsen. Tijdens dit bezoek kunnen zij zich vrijelijk met de gedetineerde onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de gedetineerde een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de gedetineerde en diens rechtsbijstandverlener bij derden bekend kunnen worden.
 
 ##### Artikel 39
 
 1. De gedetineerde heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht ten minste eenmaal per week op in de huisregels vastgestelde tijden en plaatsen en met behulp van een daartoe aangewezen toestel gedurende tien minuten een of meer telefoongesprekken te voeren met personen buiten de inrichting. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de gedetineerde. In verband met het uitoefenen van toezicht als bedoeld in het tweede lid, kunnen telefoongesprekken worden opgenomen.
 
-2. De directeur kan bepalen dat op de door of met de gedetineerde gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de gedetineerde een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01). Dit toezicht kan omvatten het beluisteren van een telefoongesprek of het uitluisteren van een opgenomen telefoongesprek. Aan de betrokkene wordt mededeling gedaan van de aard en de reden van het toezicht. Bij algemene maatregel van bestuur worden nadere regels gesteld over het opnemen van telefoongesprekken en het bewaren en verstrekken van opgenomen telefoongesprekken.
+2. De directeur kan bepalen dat op de door of met de gedetineerde gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de gedetineerde een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01). Dit toezicht kan omvatten het beluisteren van een telefoongesprek of het uitluisteren van een opgenomen telefoongesprek. Aan de betrokkene wordt mededeling gedaan van de aard en de reden van het toezicht. Bij algemene maatregel van bestuur worden nadere regels gesteld over het opnemen van telefoongesprekken en het bewaren en verstrekken van opgenomen telefoongesprekken.
 
-3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste twaalf maanden. Onze Minister kan nadere regels stellen omtrent het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken.
+3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste twaalf maanden. Onze Minister kan nadere regels stellen omtrent het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken.
 
-4. De gedetineerde wordt in staat gesteld met de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2020-01-01&g=2020-01-01), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaat. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan noodzakelijk is om de identiteit van de personen of instantie met wie de gedetineerde een telefoongesprek voert of wenst te voeren vast te stellen.
+4. De gedetineerde wordt in staat gesteld met de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2021-01-01&g=2021-01-01), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaat. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan noodzakelijk is om de identiteit van de personen of instantie met wie de gedetineerde een telefoongesprek voert of wenst te voeren vast te stellen.
 
 ##### Artikel 40
 
@@ -692,9 +698,9 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - a. persoonlijk contact te onderhouden met de geestelijke verzorger van de godsdienst of levensovertuiging van zijn keuze, die aan de inrichting is verbonden;
 
-- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2020-01-01&g=2020-01-01);
+- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2021-01-01&g=2021-01-01);
 
-- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
+- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ten aanzien van de beschikbaarheid van de geestelijke verzorging. Deze regels hebben betrekking op de verlening van geestelijke verzorging door of vanwege verschillende richtingen van godsdienst of levensovertuiging, op de organisatie en de bekostiging van de geestelijke verzorging en op de indienstneming van geestelijke verzorgers bij een inrichting.
 
@@ -719,8 +725,6 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 - b. de behandeling van de gedetineerde op aanwijzing van de aan de inrichting verbonden arts of diens vervanger;
 
 - c. de overbrenging van de gedetineerde naar een ziekenhuis dan wel andere instelling, indien de onder b bedoelde behandeling aldaar plaatsvindt.
-
-5. Bij algemene maatregel van bestuur worden regels gesteld inzake het klagen over beslissingen die ten aanzien van gedetineerden zijn genomen door de aan de inrichting verbonden arts of diens plaatsvervanger.
 
 ##### Artikel 43
 
@@ -766,7 +770,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 3. In de huisregels kunnen nadere regels worden gesteld omtrent het bezit van contant geld en het gebruik van de rekening-courant. Deze regels kunnen een beperking betreffen van het bedrag waarover de gedetineerde ten hoogste in contanten of door middel van zijn rekeningcourant mag beschikken.
 
-#### Paragraaf 2. Arbeid en andere activiteiten
+#### Paragraaf 1. Verzorging
 
 ##### Artikel 47
 
@@ -812,7 +816,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 51
 
-1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2020-01-01&g=2020-01-01), de navolgende disciplinaire straffen opleggen:
+1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2021-01-01&g=2021-01-01), de navolgende disciplinaire straffen opleggen:
 
 - a. opsluiting in een strafcel dan wel een andere verblijfsruimte voor ten hoogste twee weken;
 
@@ -826,11 +830,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De directeur bepaalt bij de oplegging van een geldboete tevens door welke andere straf deze zal worden vervangen, ingeval de boete niet binnen de daartoe door hem gestelde termijn is betaald.
 
-3. De directeur kan voor feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2020-01-01&g=2020-01-01), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij tezamen niet langer duren dan twee weken;
+3. De directeur kan voor feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2021-01-01&g=2021-01-01), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij tezamen niet langer duren dan twee weken;
 
 4. De oplegging van een straf laat onverlet de mogelijkheid voor de directeur om terzake van de door de gedetineerde toegebrachte schade met hem een regeling te treffen.
 
-5. Geen straf kan worden opgelegd, indien de gedetineerde voor het begaan van een feit als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2020-01-01&g=2020-01-01), niet verantwoordelijk kan worden gesteld.
+5. Geen straf kan worden opgelegd, indien de gedetineerde voor het begaan van een feit als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2021-01-01&g=2021-01-01), niet verantwoordelijk kan worden gesteld.
 
 6. Indien een straf is opgelegd wordt deze onverwijld ten uitvoer gelegd. De directeur kan bepalen dat een straf niet of slechts ten dele ten uitvoer wordt gelegd.
 
@@ -846,7 +850,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. Een straf kan geheel of ten dele voorwaardelijk worden opgelegd. De proeftijd bedraagt ten hoogste drie maanden.
 
-2. De directeur stelt in elk geval als voorwaarde dat de gedetineerde zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de gedetineerde stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=58&z=2020-01-01&g=2020-01-01).
+2. De directeur stelt in elk geval als voorwaarde dat de gedetineerde zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de gedetineerde stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=58&z=2021-01-01&g=2021-01-01).
 
 3. Bij het overtreden van een voorwaarde binnen de proeftijd kan de directeur bepalen dat de opgelegde voorwaardelijke straf geheel of ten dele ten uitvoer wordt gelegd.
 
@@ -856,11 +860,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. Van elke strafoplegging dan wel wijziging daarvan houdt de directeur aantekening.
 
-2. Indien een straf ingevolge de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2020-01-01&g=2020-01-01) of [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2020-01-01&g=2020-01-01) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening.
+2. Indien een straf ingevolge de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2021-01-01&g=2021-01-01) of [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2021-01-01&g=2021-01-01) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening.
 
 ##### Artikel 55
 
-1. De gedetineerde aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2020-01-01&g=2020-01-01), is opgelegd is uitgesloten van het deelnemen aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2020-01-01&g=2020-01-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de strafcel beperken of uitsluiten.
+1. De gedetineerde aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2021-01-01&g=2021-01-01), is opgelegd is uitgesloten van het deelnemen aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2021-01-01&g=2021-01-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de strafcel beperken of uitsluiten.
 
 2. De directeur draagt zorg dat, ingeval de opsluiting in een strafcel ten uitvoer wordt gelegd en langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger terstond hiervan in kennis worden gesteld.
 
@@ -874,11 +878,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De gedetineerde wordt hierbij in het bijzonder gewezen op diens bevoegdheid:
 
-- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&z=2020-01-01&g=2020-01-01);
+- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&z=2021-01-01&g=2021-01-01);
 
 - b. zich te wenden tot de maandcommissaris van de commissie van toezicht;
 
-- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2020-01-01&g=2020-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2020-01-01&g=2020-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2020-01-01&g=2020-01-01).
+- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2021-01-01&g=2021-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2021-01-01&g=2021-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2021-01-01&g=2021-01-01).
 
 3. Een gedetineerde vreemdeling wordt bij binnenkomst in de inrichting geïnformeerd over zijn recht de consulaire vertegenwoordiger van zijn land van zijn detentie op de hoogte te laten stellen.
 
@@ -886,31 +890,33 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De directeur stelt de gedetineerde in de gelegenheid te worden gehoord, zoveel mogelijk in een voor hem begrijpelijke taal, alvorens hij beslist omtrent:
 
-- a. de weigering of intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2020-01-01&g=2020-01-01);
+- a. de weigering of intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2021-01-01&g=2021-01-01);
 
-- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a of b, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01);
+- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a of b, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01);
 
-- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2020-01-01&g=2020-01-01), op grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2020-01-01&g=2020-01-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2020-01-01&g=2020-01-01);
+- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-01-01&g=2021-01-01), op grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2021-01-01&g=2021-01-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-01-01&g=2021-01-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-01-01&g=2021-01-01);
 
-- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2020-01-01&g=2020-01-01);
+- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2021-01-01&g=2021-01-01);
 
-- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2020-01-01&g=2020-01-01);
+- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2021-01-01&g=2021-01-01);
 
-- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2020-01-01&g=2020-01-01);
+- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2021-01-01&g=2021-01-01);
 
-- g. het verrichten van een geneeskundige behandeling bedoeld in [artikel 46d, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01);
+- g. het verrichten van een geneeskundige behandeling bedoeld in [artikel 46d, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01);
 
-- h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2020-01-01&g=2020-01-01);
+- h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2021-01-01&g=2021-01-01);
 
-- i. de observatie door middel van een camera en de verlenging daarvan, bedoeld in [artikel 34a, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=34a&z=2020-01-01&g=2020-01-01);
+- i. de observatie door middel van een camera en de verlenging daarvan, bedoeld in [artikel 34a, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=34a&z=2021-01-01&g=2021-01-01);
 
-- j. de observatie door middel van een camera, bedoeld in de [artikelen 24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24a&z=2020-01-01&g=2020-01-01), en [51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51a&z=2020-01-01&g=2020-01-01);
+- j. de observatie door middel van een camera, bedoeld in de [artikelen 24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24a&z=2021-01-01&g=2021-01-01), en [51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51a&z=2021-01-01&g=2021-01-01);
 
-- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2020-01-01&g=2020-01-01), en toepassing van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2020-01-01&g=2020-01-01) en [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2020-01-01&g=2020-01-01).
+- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2021-01-01&g=2021-01-01), en toepassing van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2021-01-01&g=2021-01-01) en [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2021-01-01&g=2021-01-01);
+
+- l. de overplaatsing van een gedetineerde naar een andere locatie binnen dezelfde penitentiaire inrichting.
 
 2. Zo nodig geschiedt het horen van de gedetineerde met bijstand van een tolk. Van het horen van de gedetineerde wordt aantekening gehouden.
 
-3. Toepassing van het eerste lid, onder b, c, d, e, f en h, kan achterwege blijven indien:
+3. Toepassing van het eerste lid, onder b, c, d, e, f, h en l, kan achterwege blijven indien:
 
 - a. de vereiste spoed zich daartegen verzet;
 
@@ -918,21 +924,21 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 58
 
-1. De directeur geeft de gedetineerde van elke beslissing als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=57&z=2020-01-01&g=2020-01-01), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+1. De directeur geeft de gedetineerde van elke beslissing als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=57&z=2021-01-01&g=2021-01-01), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
 
 2. De directeur geeft de gedetineerde op de in het eerste lid omschreven wijze een mededeling omtrent:
 
-- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen, bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2020-01-01&g=2020-01-01);
+- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen, bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2021-01-01&g=2021-01-01);
 
-- b. de weigering van de toelating tot de gedetineerde van een bepaald persoon of bepaalde personen, bedoeld in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2020-01-01&g=2020-01-01);
+- b. de weigering van de toelating tot de gedetineerde van een bepaald persoon of bepaalde personen, bedoeld in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2021-01-01&g=2021-01-01);
 
-- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken, bedoeld in [artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=39&z=2020-01-01&g=2020-01-01);
+- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken, bedoeld in [artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=39&z=2021-01-01&g=2021-01-01);
 
-- d. de weigering van een contact met een vertegenwoordiger van de media, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=40&z=2020-01-01&g=2020-01-01).
+- d. de weigering van een contact met een vertegenwoordiger van de media, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=40&z=2021-01-01&g=2021-01-01).
 
 3. In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de gedetineerde is opgelegd ingevolge de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62), [62a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62a) en [76 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=76).
 
-4. De gedetineerde wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het instellen van beklag, bedoeld in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2020-01-01&g=2020-01-01), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
+4. De gedetineerde wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het instellen van beklag, bedoeld in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2021-01-01&g=2021-01-01), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
 
 ##### Artikel 59
 
@@ -954,15 +960,17 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 2. De indiening van het klaagschrift kan door tussenkomst van de directeur van de inrichting waar de gedetineerde verblijft geschieden. De directeur draagt in dat geval zorg dat het klaagschrift of, indien het klaagschrift zich in een envelop bevindt, de envelop van een dagtekening wordt voorzien, welke geldt als dag van indiening.
 
-3. Het klaagschrift vermeldt zo nauwkeurig mogelijk de beslissing waarover wordt geklaagd en de redenen van het beklag.
+3. Het klaagschrift vermeldt zo nauwkeurig mogelijk de beslissing waarover wordt geklaagd en de redenen van het beklag. Indien de gedetineerde omtrent de beslissing waarover hij klaagt geen verzoek tot bemiddeling heeft gedaan, vermeldt hij de redenen hiervoor in het klaagschrift.
 
 4. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het klaagschrift in een andere taal indienen. De voorzitter van de beklagcommissie kan bepalen dat het klaagschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.
 
 5. Het klaagschrift wordt uiterlijk op de zevende dag na die waarop de gedetineerde kennis heeft gekregen van de beslissing waarover hij zich wenst te beklagen ingediend. Een na afloop van deze termijn ingediend klaagschrift is niettemin ontvankelijk, indien redelijkerwijs niet kan worden geoordeeld dat de gedetineerde in verzuim is geweest.
 
+6. Indien een gedetineerde een verzoek tot bemiddeling als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=Xa&artikel=59a&z=2021-01-01&g=2021-01-01) heeft gedaan, wordt, in afwijking van het vijfde lid, het klaagschrift ingediend uiterlijk op de zevende dag na die waarop de gedetineerde de schriftelijke mededeling van de bevindingen van de commissie van toezicht heeft ontvangen.
+
 ##### Artikel 62
 
-1. Het klaagschrift wordt behandeld door een door de commissie van toezicht benoemde beklagcommissie, bestaande uit drie leden, die wordt bijgestaan door een secretaris.
+1. Het klaagschrift wordt behandeld door een door de commissie van toezicht benoemde beklagcommissie, bestaande uit drie leden, die wordt bijgestaan door een secretaris. Een lid van de commissie van toezicht neemt geen deel aan de behandeling van het klaagschrift, indien hij heeft bemiddeld ter zake van de beslissing waarop het klaagschrift betrekking heeft of daarmee op enige andere wijze bemoeienis heeft gehad.
 
 2. De voorzitter dan wel een door hem aangewezen lid van de beklagcommissie kan, indien hij het beklag van eenvoudige aard, dan wel kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht, het klaagschrift enkelvoudig afdoen, met dien verstande dat hij tevens de bevoegdheden bezit die aan de voorzitter van de voltallige beklagcommissie toekomen.
 
@@ -978,7 +986,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Aan de klager geeft de secretaris van de beklagcommissie schriftelijk kennis van de inhoud van deze inlichtingen en opmerkingen.
 
-4. De beklagcommissie kan het klaagschrift in handen stellen van het lid van de commissie van toezicht, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2020-01-01&g=2020-01-01), teneinde deze in de gelegenheid te stellen terzake te bemiddelen. De secretaris doet hiervan mededeling aan de directeur.
+4. De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voor onbepaalde tijd uitstellen, indien hij van oordeel is dat het klaagschrift zich leent voor bemiddeling of indien de bemiddelingsprocedure nog niet is afgesloten. In het eerste geval stelt de voorzitter een afschrift van het klaagschrift ter hand aan de maandcommissaris of een ander lid van de commissie van toezicht met het verzoek om te bemiddelen. [Artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=Xa&artikel=59a&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
+
+5. Indien de commissie van toezicht omtrent de beslissing waarover wordt geklaagd heeft bemiddeld en zij haar bevindingen schriftelijk aan de gedetineerde en de directeur heeft medegedeeld, voegt de secretaris van de beklagcommissie de bevindingen bij de processtukken.
 
 ##### Artikel 64
 
@@ -998,7 +1008,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Tijdens de beklagprocedure staat de beklagcommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
 
-4. Indien de klager elders verblijft kunnen de opmerkingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2020-01-01&g=2020-01-01), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
+4. Indien de klager elders verblijft kunnen de opmerkingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
 
 5. Van het horen van de betrokkenen maakt de secretaris een schriftelijk verslag, dat door de voorzitter en de secretaris wordt ondertekend. Bij verhindering van een van hen wordt de reden daarvan in het verslag vermeld.
 
@@ -1014,13 +1024,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 2. De uitspraak is met redenen omkleed en gedagtekend. Zij bevat een verslag van het horen van personen door de beklagcommissie. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de directeur wordt onverwijld en kosteloos een afschrift van de beslissing van de beklagcommissie toegezonden of uitgereikt. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend.
 
-3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2020-01-01&g=2020-01-01).
+3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2021-01-01&g=2021-01-01).
 
 4. Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling, bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.
 
-5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Zij worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2020-01-01&g=2020-01-01). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt deze uitspraak op het klaagschrift aangetekend.
+5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Zij worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2021-01-01&g=2021-01-01). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt deze uitspraak op het klaagschrift aangetekend.
 
-6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2020-01-01&g=2020-01-01), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
+6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2021-01-01&g=2021-01-01), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
 
 7. De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
 
@@ -1068,7 +1078,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 4. De voorzitter, dan wel het door hem aangewezen lid, bedoeld in het derde lid, kan de behandeling te allen tijde verwijzen naar de voltallige beroepscommissie.
 
-5. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2020-01-01&g=2020-01-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2020-01-01&g=2020-01-01), [62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2020-01-01&g=2020-01-01), [63, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2020-01-01&g=2020-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2020-01-01&g=2020-01-01), en [65, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
+5. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2021-01-01&g=2021-01-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), [62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2021-01-01&g=2021-01-01), [63, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2021-01-01&g=2021-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), en [65, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
 
 - a. de directeur en de klager uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1078,7 +1088,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 70
 
-1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 68, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2020-01-01&g=2020-01-01), inhoudt.
+1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 68, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2021-01-01&g=2021-01-01), inhoudt.
 
 2. Hangende de uitspraak op het beroepschrift kan de voorzitter van de beroepscommissie op verzoek van degene die het beroep heeft ingesteld en gehoord de andere betrokkene in de procedure de tenuitvoerlegging van de uitspraak van de beklagcommissie geheel of gedeeltelijk schorsen. Hij doet hiervan onverwijld mededeling aan de directeur en de klager.
 
@@ -1096,27 +1106,27 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Indien het tweede lid, onder c, toepassing vindt, doet de beroepscommissie hetgeen de beklagcommissie had behoren te doen.
 
-4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2020-01-01&g=2020-01-01) en [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
+4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2021-01-01&g=2021-01-01) en [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing.
 
-### Hoofdstuk XII. Beroep tegen de uitspraak van de beklagcommissie
+### Hoofdstuk Xa. Bemiddeling
 
 ##### Artikel 72
 
-1. De betrokkene heeft het recht tegen de beslissing van Onze Minister op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2020-01-01&g=2020-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2020-01-01&g=2020-01-01) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2020-01-01&g=2020-01-01). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2020-01-01&g=2020-01-01), achterwege is gebleven.
+1. De betrokkene heeft het recht tegen de beslissing van Onze Minister op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2021-01-01&g=2021-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2021-01-01&g=2021-01-01) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2021-01-01&g=2021-01-01). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2021-01-01&g=2021-01-01), achterwege is gebleven.
 
-2. De gedetineerde heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2020-01-01&g=2020-01-01), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2020-01-01&g=2020-01-01).
+2. De gedetineerde heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2021-01-01&g=2021-01-01), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2021-01-01&g=2021-01-01).
 
-3. Tegen de beslissing als bedoeld in het eerste lid van [artikel 46e](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46e&z=2020-01-01&g=2020-01-01) kan rechtstreeks beroep worden ingesteld bij de Raad.
+3. Tegen de beslissing als bedoeld in het eerste lid van [artikel 46e](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46e&z=2021-01-01&g=2021-01-01) kan rechtstreeks beroep worden ingesteld bij de Raad.
 
 ##### Artikel 73
 
-1. Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris. Ten aanzien van het beroepschrift, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=72&z=2020-01-01&g=2020-01-01), is [artikel 69, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
+1. Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris. Ten aanzien van het beroepschrift, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=72&z=2021-01-01&g=2021-01-01), is [artikel 69, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing.
 
 2. Het beroepschrift wordt ingediend uiterlijk op de zevende dag na die waarop de betrokkene kennis heeft gekregen van de beslissing waartegen hij beroep instelt. Een na afloop van deze termijn ingediend beroepschrift is niettemin ontvankelijk, indien redelijkerwijs niet kan worden geoordeeld dat de gedetineerde in verzuim is geweest.
 
 3. Indien de betrokkene gedetineerd is, kan de indiening van het beroepschrift geschieden door tussenkomst van de directeur van de inrichting of afdeling waar hij verblijft. De directeur draagt zorg dat het beroepschrift onverwijld van een dagtekening wordt voorzien. Als dag waarop het beroepschrift is ingediend geldt die van de dagtekening.
 
-4. De [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2020-01-01&g=2020-01-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2020-01-01&g=2020-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2020-01-01&g=2020-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2020-01-01&g=2020-01-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2020-01-01&g=2020-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2020-01-01&g=2020-01-01), [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2020-01-01&g=2020-01-01), [68, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
+4. De [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2021-01-01&g=2021-01-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2021-01-01&g=2021-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2021-01-01&g=2021-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2021-01-01&g=2021-01-01), [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2021-01-01&g=2021-01-01), [68, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2021-01-01&g=2021-01-01), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
 
 - a. de betrokkenen uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1132,7 +1142,7 @@ De directeur draagt zorg voor een regelmatig overleg met gedetineerden over zake
 
 ##### Artikel 75
 
-1. De in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2020-01-01&g=2020-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2020-01-01&g=2020-01-01), alsmede in de [hoofdstukken XI tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2020-01-01&g=2020-01-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval Onze Minister of beklag- of beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
+1. De in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2021-01-01&g=2021-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2021-01-01&g=2021-01-01), alsmede in de [hoofdstukken XI tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2021-01-01&g=2021-01-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval Onze Minister, de Medisch Adviseur, Onze Minister of beklag- of beroepscommissie, de beklagcommissie, bedoeld in [hoofdstuk XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIIa&z=2021-01-01&g=2021-01-01), of de beroepscommissie, bedoeld in hoofdstuk XIIA of [XIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIIb&z=2021-01-01&g=2021-01-01), van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
 
 - a. de curator, indien de gedetineerde onder curatele is gesteld;
 
@@ -1216,7 +1226,7 @@ Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
 ##### Artikel 91
 
-De Beginselenwet gevangeniswezen wordt ingetrokken, met uitzondering van [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01).
+De Beginselenwet gevangeniswezen wordt ingetrokken, met uitzondering van [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2021-01-01&g=2021-01-01) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 92
 
@@ -1228,7 +1238,7 @@ Deze wet heeft geen gevolgen voor klaagschriften of beroepschriften die zijn ing
 
 ##### Artikel 94
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XV&artikel=76&z=2020-01-01&g=2020-01-01) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XV&artikel=76&z=2021-01-01&g=2021-01-01) in werking treedt.
 
 ##### Artikel 95
 
@@ -1270,7 +1280,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 34a
 
-1. De directeur kan bepalen dat de gedetineerde die in een individueel regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2020-01-01&g=2020-01-01) of in een extra beveiligde inrichting als bedoeld in [artikel 13, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=13&z=2020-01-01&g=2020-01-01), is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:
+1. De directeur kan bepalen dat de gedetineerde die in een individueel regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2021-01-01&g=2021-01-01) of in een extra beveiligde inrichting als bedoeld in [artikel 13, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=13&z=2021-01-01&g=2021-01-01), is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:
 
 - a. indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting;
 
@@ -1310,7 +1320,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk XII. Beroep tegen de uitspraak van de beklagcommissie
 
-### Hoofdstuk XVI. Bijzondere bepalingen betreffende inrichtingen tot klinische observatie bestemd
+### Hoofdstuk XIa. Beklag inzake vervoer
 
 ### Hoofdstuk XIIa. Beroep inzake vervoer
 
@@ -1384,9 +1394,9 @@ Voor de toepassing van deze paragraaf wordt onder gevaar verstaan:
 
 ##### Artikel 46b
 
-1. De directeur draagt zorg dat in overleg met de gedetineerde die in verband met zijn geestelijke gezondheidstoestand verblijft in een daartoe op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2020-01-01&g=2020-01-01) aangewezen afdeling of inrichting een geneeskundig behandelingsplan wordt vastgesteld.
+1. De directeur draagt zorg dat in overleg met de gedetineerde die in verband met zijn geestelijke gezondheidstoestand verblijft in een daartoe op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2021-01-01&g=2021-01-01) aangewezen afdeling of inrichting een geneeskundig behandelingsplan wordt vastgesteld.
 
-2. Het geneeskundig behandelingsplan is gericht op het zodanig wegnemen van het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de gedetineerde doet veroorzaken dat de gedetineerde niet langer in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2020-01-01&g=2020-01-01) aangewezen afdeling of inrichting behoeft te verblijven. Zo mogelijk geschiedt dit door het behandelen van de stoornis. Indien dit niet mogelijk is, geschiedt dit door het anderszins wegnemen van het gevaar.
+2. Het geneeskundig behandelingsplan is gericht op het zodanig wegnemen van het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de gedetineerde doet veroorzaken dat de gedetineerde niet langer in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2021-01-01&g=2021-01-01) aangewezen afdeling of inrichting behoeft te verblijven. Zo mogelijk geschiedt dit door het behandelen van de stoornis. Indien dit niet mogelijk is, geschiedt dit door het anderszins wegnemen van het gevaar.
 
 3. Bij algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een geneeskundig behandelingsplan tenminste moet voldoen en de voorschriften die bij een wijziging daarvan in acht genomen moeten worden.
 
@@ -1400,15 +1410,15 @@ Voor de toepassing van deze paragraaf wordt onder gevaar verstaan:
 
 Geneeskundige behandeling van de geestelijke gezondheidstoestand van de gedetineerde vindt slechts plaats:
 
-- a. voor zover deze is voorzien in het geneeskundig behandelingsplan als bedoeld in [artikel 46b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2020-01-01&g=2020-01-01)
+- a. voor zover deze is voorzien in het geneeskundig behandelingsplan als bedoeld in [artikel 46b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2021-01-01&g=2021-01-01)
 
-- b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in [artikel 46b, eerste lid of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2020-01-01&g=2020-01-01), tot overeenstemming heeft geleid, en
+- b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in [artikel 46b, eerste lid of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2021-01-01&g=2021-01-01), tot overeenstemming heeft geleid, en
 
-- c. indien de gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2020-01-01&g=2020-01-01), zich niet tegen de behandeling verzet.
+- c. indien de gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2021-01-01&g=2021-01-01), zich niet tegen de behandeling verzet.
 
 ##### Artikel 46d
 
-Indien niet voldaan wordt aan de voorwaarden van [artikel 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46c&z=2020-01-01&g=2020-01-01), kan als uiterste redmiddel niettemin geneeskundige behandeling plaatsvinden:
+Indien niet voldaan wordt aan de voorwaarden van [artikel 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46c&z=2021-01-01&g=2021-01-01), kan als uiterste redmiddel niettemin geneeskundige behandeling plaatsvinden:
 
 - a. voor zover aannemelijk is dat zonder die geneeskundige behandeling het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de gedetineerde doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of
 
@@ -1416,19 +1426,19 @@ Indien niet voldaan wordt aan de voorwaarden van [artikel 46c, onderdelen b en c
 
 ##### Artikel 46e
 
-1. Geneeskundige behandeling overeenkomstig [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01), vindt plaats na een schriftelijke beslissing van de directeur waarin wordt vermeld voor welke termijn zij geldt.
+1. Geneeskundige behandeling overeenkomstig [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01), vindt plaats na een schriftelijke beslissing van de directeur waarin wordt vermeld voor welke termijn zij geldt.
 
-2. Ten behoeve van deze beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de gedetineerde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de gedetineerde op wie de verklaring betrekking heeft, een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft en dat een geval als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01), zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.
+2. Ten behoeve van deze beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de gedetineerde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de gedetineerde op wie de verklaring betrekking heeft, een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft en dat een geval als bedoeld in [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01), zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.
 
 3. De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.
 
-4. De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2020-01-01&g=2020-01-01).
+4. De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2021-01-01&g=2021-01-01).
 
-5. Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de geneeskundige behandeling overeenkomstig [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01), nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van de directeur. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in het vierde lid opnieuw behandeling overeenkomstig artikel 46d, onder a, nodig is. De gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2020-01-01&g=2020-01-01), ontvangt onverwijld een afschrift van deze beslissing. De directeur geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, eerste volzin van toepassing.
+5. Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de geneeskundige behandeling overeenkomstig [artikel 46d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01), nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van de directeur. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in het vierde lid opnieuw behandeling overeenkomstig artikel 46d, onder a, nodig is. De gedetineerde of de persoon als bedoeld in [artikel 46b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46b&z=2021-01-01&g=2021-01-01), ontvangt onverwijld een afschrift van deze beslissing. De directeur geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, eerste volzin van toepassing.
 
-6. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van [artikel 46d onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01).
+6. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van [artikel 46d onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01).
 
-7. Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een geneeskundige behandeling als bedoeld in [artikel 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2020-01-01&g=2020-01-01). Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.
+7. Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een geneeskundige behandeling als bedoeld in [artikel 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1a&artikel=46d&z=2021-01-01&g=2021-01-01). Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.
 
 #### Paragraaf 2. Arbeid en andere activiteiten
 
@@ -1442,9 +1452,9 @@ Indien niet voldaan wordt aan de voorwaarden van [artikel 46c, onderdelen b en c
 
 ### Hoofdstuk XV. Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13) of [19 van het wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=19) is toegepast
 
-### Hoofdstuk XIV. Overleg en vertegenwoordiging
+### Hoofdstuk XIIa. Beroep inzake vervoer
 
-### Hoofdstuk XVII. Overgangs- en slotbepalingen
+### Hoofdstuk XIIb. Beroep tegen medisch handelen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -1476,7 +1486,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk XIa. Beklag inzake vervoer
 
-### Hoofdstuk XIIb. Beroep tegen medisch handelen
+### Hoofdstuk XII. Beroep tegen de uitspraak van de beklagcommissie
 
 ### Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing, deelname aan een penitentiair programma, verlof en strafonderbreking
 
@@ -1485,6 +1495,182 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 ### Hoofdstuk XVI. Bijzondere bepalingen betreffende inrichtingen tot klinische observatie bestemd
 
 ### Hoofdstuk XVIa. Experimenten
+
+### Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing, deelname aan een penitentiair programma, verlof en strafonderbreking
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 18d
+
+Onze Minister kan nadere regels stellen omtrent de wijze waarop het vervoer van de gedetineerde plaatsvindt.
+
+##### Artikel 18e
+
+1. Er is een commissie van toezicht voor het vervoer, die door Onze Minister is ingesteld.
+
+2. De commissie van toezicht voor het vervoer heeft tot taak:
+
+- a. toezicht te houden op de uitvoering van het vervoer van gedetineerden uitgevoerd door Onze Minister;
+
+- b. kennis te nemen van door de gedetineerde naar voren gebrachte grieven betreffende het vervoer, bedoeld onder a;
+
+- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk XIA](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIa&z=2021-01-01&g=2021-01-01);
+
+- d. aan Onze Minister en de Raad advies en inlichtingen te geven omtrent het onder a gestelde.
+
+3. Bij algemene maatregel van bestuur worden regels gesteld over de bevoegdheden, de samenstelling en de werkwijze van de commissie en de benoeming en het ontslag van haar leden.
+
+### Hoofdstuk V. Bewegingsvrijheid
+
+#### Paragraaf 2. Ordemaatregelen
+
+#### Paragraaf 3. Verlaten van de inrichting
+
+### Hoofdstuk VI. Controle en geweldgebruik
+
+### Hoofdstuk VII. Contact met de buitenwereld
+
+### Hoofdstuk VIII. Verzorging, arbeid en andere activiteiten
+
+#### Paragraaf 1a. Verblijf in een bijzondere afdeling in verband met de geestelijke gezondheidstoestand
+
+#### Paragraaf 2. Arbeid en andere activiteiten
+
+### Hoofdstuk IX. Disciplinaire straffen
+
+### Hoofdstuk X. Informatie, hoor- en mededelingsplicht en dossier
+
+##### Artikel 59a
+
+1. De gedetineerde heeft het recht zich, mondeling of schriftelijk, tot de commissie van toezicht te wenden met het verzoek te bemiddelen ter zake van een grief omtrent de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens hem heeft gedragen of een bij of krachtens deze wet gestelde zorgplicht heeft betracht. Een gedraging van een ambtenaar of medewerker jegens de gedetineerde wordt met het oog op de toepassing van deze bepaling als een gedraging van de directeur aangemerkt.
+
+2. Indien de grief een beslissing betreft waartegen beklag openstaat, dient dit verzoek uiterlijk op de zevende dag na die waarop de gedetineerde kennis heeft gekregen van die beslissing te worden ingediend.
+
+3. De commissie van toezicht streeft ernaar binnen vier weken een voor beide partijen aanvaardbare oplossing te bereiken. Zij kan de bemiddeling geheel of ten dele aan de maandcommissaris of een ander uit haar midden aangewezen lid opdragen.
+
+4. De commissie van toezicht stelt de gedetineerde en de directeur in de gelegenheid, al dan niet in elkaars tegenwoordigheid, hun standpunt mondeling toe te lichten. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst, draagt de commissie van toezicht zorg voor de bijstand van een tolk.
+
+5. De commissie van toezicht legt de resultaten van de bemiddeling neer in een schriftelijke mededeling en zendt dan wel reikt uit een gedagtekend afschrift daarvan aan de directeur en de gedetineerde. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend. Indien de gedetineerde de Nederlandse taal niet voldoende begrijpt, draagt de commissie van toezicht zorg voor een vertaling van de mededeling. In de gevallen, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2021-01-01&g=2021-01-01), wordt de gedetineerde gewezen op de mogelijkheid van beklag en de wijze waarop en de termijn waarbinnen dit moet worden gedaan.
+
+### Hoofdstuk XI. Beklag
+
+##### Artikel 68a
+
+1. Een gedetineerde kan bij de beklagcommissie van de commissie van toezicht voor het vervoer, bedoeld in [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IVb&artikel=18e&z=2021-01-01&g=2021-01-01), beklag doen over de beslissingen, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2021-01-01&g=2021-01-01) en [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=35&z=2021-01-01&g=2021-01-01), voor zover de beslissing is genomen ten behoeve van het vervoer van de gedetineerde.
+
+2. De directeur van de inrichting waar de gedetineerde verblijft, draagt zorg dat een gedetineerde die beklag wenst te doen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
+
+3. De [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2021-01-01&g=2021-01-01), [63, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2021-01-01&g=2021-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2021-01-01&g=2021-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing, met dien verstande dat onder de directeur in de artikelen 63, 64 en 67 steeds wordt verstaan Onze Minister.
+
+##### Artikel 68b
+
+1. [Artikel 68, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+
+2. Indien het beklag geheel of gedeeltelijk gegrond wordt geacht, bepaalt de beklagcommissie of enige tegemoetkoming aan de gedetineerde geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
+
+##### Artikel 71a
+
+Tegen de uitspraak van de beklagcommissie, bedoeld in [hoofdstuk XIA](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIa&z=2021-01-01&g=2021-01-01), kunnen Onze Minister en de gedetineerde beroep instellen. [Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing, met uitzondering van [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2021-01-01&g=2021-01-01).
+
+##### Artikel 71b
+
+Een gedetineerde kan een beroepschrift indienen tegen het medisch handelen van de aan de inrichting verbonden arts of diens vervanger, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1&artikel=42&z=2021-01-01&g=2021-01-01). Met de inrichtingsarts wordt in dit hoofdstuk gelijkgesteld de verpleegkundige dan wel andere hulpverleners die door de inrichtingsarts bij de zorg aan gedetineerden zijn betrokken.
+
+##### Artikel 71c
+
+1. Alvorens een beroepschrift in te dienen doet de gedetineerde een schriftelijk verzoek aan de Medisch Adviseur bij het Ministerie van Veiligheid en Justitie om te bemiddelen terzake van de klacht. Dit verzoek dient uiterlijk op de veertiende dag na die waarop het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden te worden ingediend.
+
+2. De indiening van het schriftelijk verzoek kan door tussenkomst van een door de directeur daartoe aangewezen ambtenaar of medewerker geschieden, die bevoegd is van het verzoekschrift kennis te nemen. Deze ambtenaar of medewerker draagt in dat geval zorg dat het verzoekschrift van een dagtekening wordt voorzien, welke dag geldt als dag van indiening.
+
+3. De ambtenaar of medewerker, bedoeld in het tweede lid, voert een of meerdere gesprekken met de betrokkenen en zendt een verslag daarvan naar de Medisch Adviseur.
+
+4. De Medisch Adviseur stelt de gedetineerde in de gelegenheid de klacht schriftelijk of mondeling toe te lichten, tenzij hij het aanstonds duidelijk acht dat de klacht zich niet voor bemiddeling leent. Hij kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen.
+
+5. De Medisch Adviseur is ten behoeve van de bemiddeling bevoegd het medisch dossier van de gedetineerde in te zien.
+
+6. De Medisch Adviseur streeft ernaar binnen vier weken nadat hij het verslag, bedoeld in het derde lid, heeft ontvangen een voor beide partijen aanvaardbare oplossing te bereiken.
+
+7. De Medisch Adviseur sluit de bemiddeling af met een mededeling van zijn bevindingen aan de gedetineerde en de arts. De gedetineerde wordt gewezen op de mogelijkheden van het indienen van een beroepschrift alsmede de termijn waarbinnen en de wijze waarop dit gedaan moet worden.
+
+8. De Medisch Adviseur zendt een afschrift van de mededeling aan de ambtenaar of medewerker, bedoeld in het tweede lid, en de directeur van de inrichting waaraan de arts tegen wiens medisch handelen de klacht zich richt, is verbonden.
+
+9. De ambtenaar of medewerker, bedoeld in het tweede lid, en de Medisch Adviseur zijn bevoegd een klacht die geen medisch handelen betreft, door te verwijzen naar de beklagcommissie. Hij zendt van de doorverwijzing een bericht aan de gedetineerde en, indien het de Medisch Adviseur is die doorverwijst, naar de ambtenaar of medewerker, bedoeld in het tweede lid. Indien reeds een verslag als bedoeld in het derde lid is opgesteld, wordt dit naar de commissie van toezicht gezonden.
+
+##### Artikel 71d
+
+1. Een met redenen omkleed beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden of buitengewone leden, bestaande uit één jurist en twee artsen, die wordt bijgestaan door een secretaris.
+
+2. Het beroepschrift wordt ingediend uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de mededeling van de Medisch Adviseur. De directeur draagt zorg dat een gedetineerde die beroep wenst in te stellen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
+
+3. [Artikel 61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+
+4. Het beroepschrift vermeldt zo nauwkeurig mogelijk het medisch handelen waarover wordt geklaagd en de redenen van het beroep.
+
+##### Artikel 71e
+
+1. De beroepscommissie en de secretaris zijn ten behoeve van de behandeling van het beroepschrift bevoegd het medisch dossier van de gedetineerde in te zien.
+
+2. De behandeling van het beroepschrift vindt niet in het openbaar plaats, behoudens ingeval de beroepscommissie van oordeel is dat de niet openbare behandeling niet verenigbaar is met enige een ieder verbindende bepaling van een in Nederland geldend verdrag.
+
+3. De secretaris van de beroepscommissie zendt de inrichtingsarts een afschrift van het beroepschrift toe en vraagt het verslag van de bemiddeling op bij de Medisch Adviseur.
+
+4. De beroepscommissie stelt de gedetineerde en de inrichtingsarts in de gelegenheid omtrent het beroepschrift mondeling of schriftelijk opmerkingen te maken, tenzij zij het beroep aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht. De beroepscommissie kan bepalen dat de mondelinge opmerkingen ten overstaan van een lid van de commissie, bedoeld in [artikel 71d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIIb&artikel=71d&z=2021-01-01&g=2021-01-01), kunnen worden gemaakt.
+
+5. [Artikel 64, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+
+6. [Artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing. De beroepscommissie kan bepalen dat ingeval bij een andere persoon mondeling inlichtingen worden ingewonnen, de betrokkenen uitsluitend in de gelegenheid worden gesteld schriftelijk de vragen op te geven die zij aan die persoon gesteld wensen te zien.
+
+7. [Artikel 65, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 71f
+
+1. De beroepscommissie doet zo spoedig mogelijk uitspraak.
+
+2. De [artikelen 67, tweede, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2021-01-01&g=2021-01-01), en [68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2021-01-01&g=2021-01-01), zijn van overeenkomstige toepassing.
+
+3. De uitspraak strekt tot gegrondverklaring van het beroep indien sprake is van:
+
+- a. enig handelen in het kader van of nalaten in strijd met de zorg die de in [artikel 71b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIIb&artikel=71b&z=2021-01-01&g=2021-01-01) bedoelde personen in die hoedanigheid behoren te betrachten ten opzichte van de gedetineerde, met betrekking tot wiens gezondheidstoestand zij bijstand verlenen of hun bijstand is ingeroepen;
+
+- b. enig ander onder a bedoeld handelen of nalaten in die hoedanigheid in strijd met het belang van een goede uitoefening van de individuele gezondheidszorg.
+
+4. Indien de klacht door de beroepscommissie geheel of gedeeltelijk gegrond wordt geacht bepaalt de beroepscommissie of enige tegemoetkoming aan de gedetineerde geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
+
+### Hoofdstuk XIV. Overleg en vertegenwoordiging
+
+### Hoofdstuk XV. Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13) of [19 van het wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=19) is toegepast
+
+### Hoofdstuk XVI. Bijzondere bepalingen betreffende inrichtingen tot klinische observatie bestemd
+
+### Hoofdstuk XVIa. Experimenten
+
+##### Artikel 77a
+
+1. Bij algemene maatregel van bestuur kunnen bij wijze van experiment regels worden gesteld waarmee tijdelijk wordt afgeweken van de in [artikel 77b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XVIa&artikel=77b&z=2021-01-01&g=2021-01-01) te noemen bepalingen, zulks met inachtneming van de aldaar genoemde doelen met het oog waarop afwijking van de betreffende bepaling gedurende de werkingsduur van de maatregel plaats kan hebben.
+
+2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+3. Onze Minister kan nadere regels stellen ter uitvoering van het experiment.
+
+4. Onze Minister zendt ten minste drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk.
+
+5. De algemene maatregel van bestuur, bedoeld in het eerste lid, geldt voor een periode van ten hoogste twee jaar na inwerkingtreding daarvan.
+
+6. Het vijfde lid is niet van toepassing, indien binnen de twee jaar, bedoeld in het vijfde lid, voordracht plaatsvindt van een voorstel van wet, waarmee in het onderwerp van de maatregel wordt voorzien.
+
+##### Artikel 77b
+
+Op de wijze als voorzien in [artikel 77a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XVIa&artikel=77a&z=2021-01-01&g=2021-01-01) kan worden afgeweken van:
+
+- a. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), met als doel om verschillende doelgroepen gezamenlijk op een afdeling te laten verblijven dan wel aan gezamenlijke activiteiten te laten deelnemen;
+
+- b. [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=13&z=2021-01-01&g=2021-01-01), met als doel de vaststelling van andersoortige mate van beveiliging voor zover dit noodzakelijk is voor de bereiking van het doel, genoemd in onderdeel a, dan wel voor zover bijzondere technologische ontwikkelingen daartoe aanleiding geven;
+
+- c. [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=1&artikel=44&z=2021-01-01&g=2021-01-01), met als doel het voorkomen van ordeverstorend gedrag dan wel het structureel bevorderen van de orde of veiligheid binnen de inrichting;
+
+- d. [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=47&z=2021-01-01&g=2021-01-01), met als doel de tenuitvoerlegging zo veel mogelijk dienstbaar te maken aan de voorbereiding van de terugkeer van de betrokkene in de maatschappij;
+
+- e. de [artikelen 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=Xa&artikel=59a&z=2021-01-01&g=2021-01-01) en [71c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIIb&artikel=71c&z=2021-01-01&g=2021-01-01), met als doel het bevorderen van het gebruik van de bemiddelingsprocedure als wijze van geschillenbeslechting.
 
 ### Hoofdstuk XVII. Overgangs- en slotbepalingen
 
