@@ -4,7 +4,7 @@ identifier: "BWBR0042918"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042918"
 soort: "wet"
@@ -206,7 +206,7 @@ Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XX. Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen V, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=V&z=2020-01-01&g=2020-01-01), [XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XI&z=2020-01-01&g=2020-01-01), en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XVII&z=2020-01-01&g=2020-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen V, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=V&z=2021-01-01&g=2021-01-01), [XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XI&z=2021-01-01&g=2021-01-01), en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XVII&z=2021-01-01&g=2021-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
 
 ##### Artikel XXI. Citeertitel
 
