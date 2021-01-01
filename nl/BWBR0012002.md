@@ -4,7 +4,7 @@ identifier: "BWBR0012002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2020-12-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012002"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2
 
-Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar de buitengrenzen, wordt onder 'Nederland' in de [artikelen 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.7&z=2020-12-24&g=2020-12-24) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.8&z=2020-12-24&g=2020-12-24) mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.
+Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar de buitengrenzen, wordt onder 'Nederland' in de [artikelen 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.7&z=2021-01-01&g=2021-01-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.8&z=2021-01-01&g=2021-01-01) mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.
 
 ##### Artikel 1.3
 
@@ -151,15 +151,15 @@ Als referent van een vreemdeling die arbeid voor een religieuze of levensbeschou
 
 ##### Artikel 1.11
 
-1. Ter zake van de afdoening van een aanvraag om de erkenning als referent is de aanvrager een bedrag van € 4.017 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag om de erkenning als referent is de aanvrager een bedrag van € 4.125 verschuldigd.
 
-2. In afwijking van het eerste lid is de aanvrager ter zake van de afdoening van een aanvraag om de erkenning als referent een bedrag van € 2.008 verschuldigd, indien:
+2. In afwijking van het eerste lid is de aanvrager ter zake van de afdoening van een aanvraag om de erkenning als referent een bedrag van € 2.062 verschuldigd, indien:
 
 - a. de aanvraag verband houdt met uitwisseling;
 
 - b. de aanvraag verband houdt met arbeid en de aanvrager een onderneming met ten hoogste 50 medewerkers of een onderneming van een concern met ten hoogste 50 medewerkers betreft, of
 
-- c. het een aanvraag om erkenning met toepassing van [artikel 1.13, tweede lid, onderdeel b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.13&z=2020-12-24&g=2020-12-24), betreft.
+- c. het een aanvraag om erkenning met toepassing van [artikel 1.13, tweede lid, onderdeel b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.13&z=2021-01-01&g=2021-01-01), betreft.
 
 ##### Artikel 1.12
 
@@ -209,19 +209,19 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 
 ##### Artikel 1.16
 
-1. Als administraties, bedoeld in [artikel 2d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2d), en [2t, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t), zijn aangewezen de administraties vermeld in kolom A van [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=20&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Als administraties, bedoeld in [artikel 2d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2d), en [2t, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t), zijn aangewezen de administraties vermeld in kolom A van [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=20&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
-2. Als gegevens en bescheiden, bedoeld in [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2d), en [2t, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=20&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. Als gegevens en bescheiden, bedoeld in [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2d), en [2t, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=20&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ### Hoofdstuk 1a. Nationale visa
 
 ##### Artikel 1.17
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van € 157 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van € 161 verschuldigd.
 
 2. In afwijking van het eerste lid is de vreemdeling die valt onder [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1), geen leges verschuldigd.
 
-3. In afwijking van het eerste lid is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 2963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971,70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, een bedrag van € 46 verschuldigd.
+3. In afwijking van het eerste lid is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 2963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971,70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, een bedrag van € 47 verschuldigd.
 
 ### Hoofdstuk 2. Toegang
 
@@ -229,7 +229,7 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 
 1. Als luchthavens, bedoeld in [artikel 2.2, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.2), zijn aangewezen:
 
-- a. de luchthavens die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=1&z=2020-12-24&g=2020-12-24) bij deze regeling, en
+- a. de luchthavens die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling, en
 
 - b. de luchthavens, vanaf welke vluchten vertrekken voor het vervoer van personen in het ongeregeld vervoer, als bedoeld in het [Besluit Vracht- en overige vluchten](https://wetten.overheid.nl/jci1.3:c:BWBR0003376) van de Minister van Infrastructuur en Milieu, met uitzondering van de vluchten die door onze Minister door tussenkomst van de Minister van Infrastructuur en Milieu van de verplichting tot het maken van een afbeelding zijn ontheven.
 
@@ -247,11 +247,11 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 
 ##### Artikel 2.2
 
-Als de staten, bedoeld in [artikel 2.3, derde lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3), zijn aangewezen de staten, vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=2&z=2020-12-24&g=2020-12-24) bij deze regeling.
+Als de staten, bedoeld in [artikel 2.3, derde lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3), zijn aangewezen de staten, vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=2&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 2.3
 
-Als de categorieën vreemdelingen, bedoeld in [artikel 2.3, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3) zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3&z=2020-12-24&g=2020-12-24) bij deze regeling, voor zover de vreemdeling:
+Als de categorieën vreemdelingen, bedoeld in [artikel 2.3, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3) zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3&z=2021-01-01&g=2021-01-01) bij deze regeling, voor zover de vreemdeling:
 
 - a. voldoet aan de voor hem gestelde voorwaarden, en
 
@@ -259,7 +259,7 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 2.3, derde lid, onder b, 
 
 ##### Artikel 2.4
 
-Als de vliegvelden in Nederland, bedoeld in [artikel 2.4, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4), zijn aangewezen de vliegvelden, vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2020-12-24&g=2020-12-24) bij deze regeling.
+Als de vliegvelden in Nederland, bedoeld in [artikel 2.4, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4), zijn aangewezen de vliegvelden, vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 2.5
 
@@ -269,7 +269,7 @@ Vervallen
 
 1. De aantekening, bedoeld in [artikel 2.4, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4), luidt: 'Toegang tot het Beneluxgebied verleend van (datum) tot (datum), [artikel 2.4, tweede/vijfde lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4) (inreisstempel en handtekening van ambtenaar die toegang verleent)'.
 
-2. Het model van de afzonderlijke verklaring, waaruit het verlenen van toegang op grond van [artikel 2.4, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4) blijkt, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=5&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. Het model van de afzonderlijke verklaring, waaruit het verlenen van toegang op grond van [artikel 2.4, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4) blijkt, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=5&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 2.7
 
@@ -283,9 +283,9 @@ Vervallen
 
 Voor de ondertekening door een daartoe solvabele derde van de garantverklaring, bedoeld in [artikel 2.11, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.11), wordt bij het verlenen van toegang aan:
 
-- a. een zeeman of meerdere zeelieden gebruik gemaakt van het model, dat als [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6a&z=2020-12-24&g=2020-12-24) onderscheidenlijk als [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6b&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. een zeeman of meerdere zeelieden gebruik gemaakt van het model, dat als [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6a&z=2021-01-01&g=2021-01-01) onderscheidenlijk als [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6b&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. een andere vreemdeling gebruik gemaakt van het model, dat als [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6c&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+- b. een andere vreemdeling gebruik gemaakt van het model, dat als [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6c&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 ##### Artikel 2.10
 
@@ -305,15 +305,15 @@ Voor de ondertekening door een daartoe solvabele derde van de garantverklaring, 
 
 1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a tot en met d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), blijkt, zijn aangewezen de volgende documenten en schriftelijke verklaringen, waarbij het vastgestelde model van dat document of die schriftelijke verklaring wordt aangegeven:
 
-- a. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document I van het model dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd of een schriftelijke verklaring, waaruit volgt dat een onderdaan van het Verenigd Koninkrijk of zijn familielid hier een tijdelijk verblijfsrecht op grond van [artikel 3.4, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) geniet, dat als [bijlage 7a2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a2&z=2020-12-24&g=2020-12-24) en [bijlage 7a3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a3&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document I van het model dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd of een schriftelijke verklaring, waaruit volgt dat een onderdaan van het Verenigd Koninkrijk of zijn familielid hier een tijdelijk verblijfsrecht op grond van [artikel 3.4, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) geniet, dat als [bijlage 7a2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a2&z=2021-01-01&g=2021-01-01) en [bijlage 7a3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a3&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document II van het model dat als [bijlage 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20);
+- b. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document II van het model dat als [bijlage 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20);
 
-- c. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document III van het model dat als [bijlage 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- c. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document III van het model dat als [bijlage 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- d. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document IV van het model dat als [bijlage 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), en
+- d. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document IV van het model dat als [bijlage 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), en
 
-- e. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document V van het model dat als [bijlage 7d2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d2&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in [artikel 45a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45a).
+- e. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document V van het model dat als [bijlage 7d2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d2&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd indien de vreemdeling rechtmatig verblijf heeft op grond van een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in [artikel 45a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45a).
 
 2. De beperking waaronder de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt verleend, wordt vermeld op het document of de schriftelijke verklaring, bedoeld in het eerste lid, onder a.
 
@@ -355,19 +355,19 @@ Voor de ondertekening door een daartoe solvabele derde van de garantverklaring, 
 
 5. De documenten, bedoeld in het eerste lid, zijn ingevolge [artikel 4.21, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) tevens vastgesteld als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). Voor de schriftelijke verklaring als bedoeld in het eerste lid, onder a, geldt dat deze enkel in combinatie met een geldig grensoverschrijdend document wordt beschouwd als document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen met rechtmatig verblijf als bedoeld in[artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-6. Als aanvullend document is aangewezen het document van het model dat als [bijlage 7l](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7l&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+6. Als aanvullend document is aangewezen het document van het model dat als [bijlage 7l](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7l&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 ##### Artikel 3.2
 
 1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven:
 
-- a. voor gemeenschapsonderdanen die zes maanden in Nederland als werkzoekende of als grensarbeider verblijven: de sticker Verblijfsaantekeningen Gemeenschapsonderdanen van het model dat als [bijlage 7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. voor gemeenschapsonderdanen die zes maanden in Nederland als werkzoekende of als grensarbeider verblijven: de sticker Verblijfsaantekeningen Gemeenschapsonderdanen van het model dat als [bijlage 7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. voor gemeenschapsonderdanen, niet zijnde onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte of de Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat, en voor gemeenschapsonderdanen die werkzaamheden in loondienst verrichten waarvan de te verwachten duur meer dan zes maanden maar minder dan een jaar bedraagt: het document I van het model, dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- b. voor gemeenschapsonderdanen, niet zijnde onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte of de Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat, en voor gemeenschapsonderdanen die werkzaamheden in loondienst verrichten waarvan de te verwachten duur meer dan zes maanden maar minder dan een jaar bedraagt: het document I van het model, dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- c. voor vreemdelingen die hun rechtmatig verblijf ontlenen aan het Terugtrekkingsakkoord: de documenten ‘Terugtrekkingsakkoord’ van de modellen die als [bijlage 7e2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e2&z=2020-12-24&g=2020-12-24), [7e3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e3&z=2020-12-24&g=2020-12-24), [7e4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e4&z=2020-12-24&g=2020-12-24) en [7e5](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e5&z=2020-12-24&g=2020-12-24) bij deze regeling zijn gevoegd, en;
+- c. voor vreemdelingen die hun rechtmatig verblijf ontlenen aan het Terugtrekkingsakkoord: de documenten ‘Terugtrekkingsakkoord’ van de modellen die als [bijlage 7e2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e2&z=2021-01-01&g=2021-01-01), [7e3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e3&z=2021-01-01&g=2021-01-01), [7e4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e4&z=2021-01-01&g=2021-01-01) en [7e5](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e5&z=2021-01-01&g=2021-01-01) bij deze regeling zijn gevoegd, en;
 
-- d. voor de overige gemeenschapsonderdanen: het document EU/EER van de modellen die als [bijlage 7e6](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e6&z=2020-12-24&g=2020-12-24), [7e7](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e7&z=2020-12-24&g=2020-12-24), [7e8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e8&z=2020-12-24&g=2020-12-24) en [7e9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e9&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+- d. voor de overige gemeenschapsonderdanen: het document EU/EER van de modellen die als [bijlage 7e6](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e6&z=2021-01-01&g=2021-01-01), [7e7](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e7&z=2021-01-01&g=2021-01-01), [7e8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e8&z=2021-01-01&g=2021-01-01) en [7e9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e9&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 2. Op de documenten en verklaringen, bedoeld in het eerste lid, wordt de aantekening gesteld: ‘arbeid toegestaan; tewerkstellingsvergunning niet vereist’.
 
@@ -387,19 +387,19 @@ Vervallen
 
 1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder f tot en met h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven:
 
-- a. voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke beslissing omtrent een verblijfsvergunning als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) en [33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33): het document W van het model dat als [bijlage 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. voor vreemdelingen die in afwachting zijn van een besluit of een rechterlijke beslissing omtrent een verblijfsvergunning als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) en [33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33): het document W van het model dat als [bijlage 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. voor vreemdelingen die in afwachting zijn van een besluit of rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en in het verleden een aanvraag om verlening van een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) hebben ingediend: het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- b. voor vreemdelingen die in afwachting zijn van een besluit of rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en in het verleden een aanvraag om verlening van een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) hebben ingediend: het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- c. voor vreemdelingen die in afwachting zijn van de beslissing op een aanvraag tot het verlengen van de geldigheidsduur van de gecombineerde vergunning: de sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het derde lid;
+- c. voor vreemdelingen die in afwachting zijn van de beslissing op een aanvraag tot het verlengen van de geldigheidsduur van de gecombineerde vergunning: de sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het derde lid;
 
-- d. voor overige vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en [20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en waarbij naar oordeel van de Minister sprake is van zeer bijzondere omstandigheden: het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- d. voor overige vreemdelingen die in afwachting zijn van een besluit of een rechterlijke uitspraak omtrent een aanvraag tot verlening, verlenging van de geldigheidsduur of wijziging van een verblijfsvergunning als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en [20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en die rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, g of h van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en waarbij naar oordeel van de Minister sprake is van zeer bijzondere omstandigheden: het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- e. voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder f of g, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): de sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vierde lid, en
+- e. voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder f of g, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): de sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vierde lid, en
 
-- f. voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): de sticker Verblijfsaantekeningen Vervolgprocedures van het model dat als [bijlage 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vijfde lid;
+- f. voor overige vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, onder h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): de sticker Verblijfsaantekeningen Vervolgprocedures van het model dat als [bijlage 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het vijfde lid;
 
-- g. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder m, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+- g. voor vreemdelingen met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder m, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 2. Het document, bedoeld in het eerste lid, onder a, b, c en d, zijn ingevolge [artikel 4.21, eerste lid, onder c en d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) tevens vastgesteld als geldend document ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie van vreemdelingen.
 
@@ -417,7 +417,7 @@ Vervallen
 
 ##### Artikel 3.4
 
-1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder i, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is aangewezen de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het tweede lid.
+1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder i, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is aangewezen de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening, bedoeld in het tweede lid.
 
 2. De tekst van de aantekening, bedoeld in het eerste lid, luidt: 'aangemeld op (datum) voor verblijf op grond van [artikel 12 Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12) tot (datum). arbeid wel/niet toegestaan; tewerkstellingvergunning wel/niet vereist'. Indien het betreft een vreemdeling die naar Nederland is gekomen om als zeeman werk te zoeken aan boord van een zeeschip, wordt de aantekening omtrent aanmelding aangevuld met 'voor verblijf als zeeman tot (datum)'.
 
@@ -427,33 +427,33 @@ Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder j, va
 
 - a. in de gevallen, bedoeld in [artikel 4.29, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29): het document W2 van het model dat als bijlage 7f2 bij deze regeling is gevoegd;
 
-- b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening 'verblijf als bedoeld in [artikel 8, onder j, Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist'.
+- b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening 'verblijf als bedoeld in [artikel 8, onder j, Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist'.
 
 ##### Artikel 3.6
 
 Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder k, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), blijkt, zijn aangewezen de volgende documenten en verklaringen:
 
-- a. in het geval, bedoeld in [artikel 4.21, eerste lid onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21): het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. in het geval, bedoeld in [artikel 4.21, eerste lid onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21): het document W2 van het model dat als [bijlage 7f2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd, voorzien van de aantekening “verblijf als bedoeld in [artikel 8, onder k, Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist”.
+- b. in de overige gevallen: de Sticker Verblijfsaantekeningen Algemeen van het model dat als [bijlage 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd, voorzien van de aantekening “verblijf als bedoeld in [artikel 8, onder k, Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) tot (datum). Arbeid wel/niet toegestaan; tewerkstellingsvergunning wel/niet vereist”.
 
 ##### Artikel 3.7
 
 1. Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, zijn aangewezen de volgende documenten en verklaringen, waarbij het vastgestelde model van dat document of die verklaring wordt aangegeven:
 
-- a. voor vreemdelingen die niet tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c, of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben: het document I van het model dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd;
+- a. voor vreemdelingen die niet tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c, of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben: het document I van het model dat als [bijlage 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd;
 
-- b. voor vreemdelingen die tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c dan wel d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben: het document II, III respectievelijk IV van de modellen die als [bijlage 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2020-12-24&g=2020-12-24), respectievelijk [bijlagen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2020-12-24&g=2020-12-24) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d&z=2020-12-24&g=2020-12-24) bij deze regeling zijn gevoegd.
+- b. voor vreemdelingen die tevens rechtmatig verblijf als bedoeld in [artikel 8, onder b, c dan wel d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben: het document II, III respectievelijk IV van de modellen die als [bijlage 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2021-01-01&g=2021-01-01), respectievelijk [bijlagen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2021-01-01&g=2021-01-01) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7d&z=2021-01-01&g=2021-01-01) bij deze regeling zijn gevoegd.
 
-2. [Artikel 3.1, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24), is van overeenkomstige toepassing.
+2. [Artikel 3.1, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3.8
 
-1. De stickers van de modellen die als [bijlagen 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2020-12-24&g=2020-12-24), [7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h&z=2020-12-24&g=2020-12-24) en [7i](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i&z=2020-12-24&g=2020-12-24) bij deze regeling zijn gevoegd, worden geplaatst:
+1. De stickers van de modellen die als [bijlagen 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g&z=2021-01-01&g=2021-01-01), [7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h&z=2021-01-01&g=2021-01-01) en [7i](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i&z=2021-01-01&g=2021-01-01) bij deze regeling zijn gevoegd, worden geplaatst:
 
 - a. in het document voor grensoverschrijding van de vreemdeling, of
 
-- b. in de gevallen, aangewezen in [artikel 4.29, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29): op het afzonderlijk inlegblad van het model dat als [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+- b. in de gevallen, aangewezen in [artikel 4.29, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29): op het afzonderlijk inlegblad van het model dat als [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 2. Op de stickers, bedoeld in het eerste lid, wordt aangetekend:
 
@@ -479,7 +479,7 @@ Als document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder k, va
 
 2. De kosten van een consult bij een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige zoals bedoeld in het eerste lid, komen voor rekening van de vreemdeling.
 
-3. De in het eerste lid bedoelde verklaring wordt aan de aangewezen arts aangeboden met de in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=19&z=2020-12-24&g=2020-12-24) opgenomen begeleidende brief en het in bijlage 19 opgenomen ingevulde registratieformulier.
+3. De in het eerste lid bedoelde verklaring wordt aan de aangewezen arts aangeboden met de in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=19&z=2021-01-01&g=2021-01-01) opgenomen begeleidende brief en het in bijlage 19 opgenomen ingevulde registratieformulier.
 
 ##### Artikel 3.11
 
@@ -579,17 +579,17 @@ Vervallen
 
 ##### Artikel 3.20a
 
-1. Het puntenstelsel, bedoeld in [artikel 3.30, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30), is opgenomen in [bijlage 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8a&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Het puntenstelsel, bedoeld in [artikel 3.30, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30), is opgenomen in [bijlage 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8a&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 2. Met de arbeid als zelfstandige is een wezenlijk Nederlands belang gediend, indien aan de vreemdeling met toepassing van het puntenstelsel, bedoeld in het eerste lid, ten minste 30 punten worden toegekend voor elk van de drie navolgende criteria: diens persoonlijke ervaring, diens ondernemingsplan als voor diens toegevoegde waarde voor de Nederlandse economie.
 
 3. In afwijking van het tweede lid geldt dat met de arbeid als zelfstandige tevens een wezenlijk Nederlands belang is gediend, indien aan de vreemdeling met toepassing van het puntenstel, bedoeld in het eerste lid, minder dan 30 punten worden toegekend voor diens toegevoegde waarde voor de Nederlandse economie en ten minste 45 punten worden toegekend voor diens persoonlijke ervaring en ten minste 45 punten voor diens ondernemingsplan.
 
-4. Het puntenstelsel is niet van toepassing op vreemdelingen met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefenen. De toetsingscriteria waar de vreemdeling met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefent aan moet voldoen zijn opgenomen in [bijlage 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8aa&z=2020-12-24&g=2020-12-24) bij deze regeling.
+4. Het puntenstelsel is niet van toepassing op vreemdelingen met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefenen. De toetsingscriteria waar de vreemdeling met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefent aan moet voldoen zijn opgenomen in [bijlage 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8aa&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 3.20b
 
-1. Verblijf in het kader van arbeid als zelfstandige als bedoeld in [artikel 3.30, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30), is mogelijk indien de vreemdeling naar het oordeel van Onze Minister beschikt over een betrouwbare deskundige begeleider en voldoet aan artikel 3.30, zesde lid, van het Besluit. De beoordeling geschiedt aan de hand van [bijlage 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8b&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Verblijf in het kader van arbeid als zelfstandige als bedoeld in [artikel 3.30, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30), is mogelijk indien de vreemdeling naar het oordeel van Onze Minister beschikt over een betrouwbare deskundige begeleider en voldoet aan artikel 3.30, zesde lid, van het Besluit. De beoordeling geschiedt aan de hand van [bijlage 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8b&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 2. Het verblijf kan door de vreemdeling of een persoon of rechtspersoon gezamenlijk worden bekostigd.
 
@@ -597,7 +597,7 @@ Vervallen
 
 4. Middelen van bestaan zijn duurzaam, indien deze op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, voor een jaar of zoveel korter als het voorgenomen verblijf in Nederland zal duren, beschikbaar zijn.
 
-5. Middelen van bestaan zijn eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland, dan wel op de bankrekening van de begeleider, een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in [artikel 3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.19&z=2020-12-24&g=2020-12-24), vermenigvuldigd met twaalf, of zoveel minder als het voorgenomen verblijf in Nederland zal duren.
+5. Middelen van bestaan zijn eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland, dan wel op de bankrekening van de begeleider, een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in [artikel 3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.19&z=2021-01-01&g=2021-01-01), vermenigvuldigd met twaalf, of zoveel minder als het voorgenomen verblijf in Nederland zal duren.
 
 6. De verblijfsvergunning kan worden afgewezen indien de vreemdeling en de begeleider van elkaar bloedverwant zijn tot en met de derde graad.
 
@@ -655,7 +655,7 @@ Als buitenlandse onderwijsinstelling, bedoeld in [artikel 3.42, eerste lid, onde
 
 - d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen, en
 
-- e. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de bewustverklaring ondertekenen. De bewustverklaring is opgenomen in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=10a&z=2020-12-24&g=2020-12-24) van deze regeling.
+- e. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de bewustverklaring ondertekenen. De bewustverklaring is opgenomen in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=10a&z=2021-01-01&g=2021-01-01) van deze regeling.
 
 4. Vervallen.
 
@@ -679,7 +679,7 @@ De aanvraag om een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.25
 
-Het model van de antecedentenverklaring, bedoeld in [artikel 3.77, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77), en [artikel 3.86, achttiende lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86), is opgenomen in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12&z=2020-12-24&g=2020-12-24) bij deze regeling.
+Het model van de antecedentenverklaring, bedoeld in [artikel 3.77, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77), en [artikel 3.86, achttiende lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86), is opgenomen in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 3.25a
 
@@ -753,57 +753,57 @@ Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen ondersch
 
 | I. Verblijfsdoel | II. Verlening of wijziging | III. Verlenging |
 | --- | --- | --- |
-| a. ‘verblijf als familie- of gezinslid’ | € 174 | € 174 |
-| b. ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’ | € 174, of als vermogende vreemdeling: € 2.223 | € 174, of als vermogende vreemdeling: € 1.112 |
-| c. ‘arbeid als zelfstandige’ | In het kader van ‘arbeid als zelfstandige’ als bedoeld in [artikel 3.30, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30) € 333, overige € 1.379 | € 369 |
-| d. ‘arbeid als kennismigrant’ | € 290 | € 290 |
-| e. ‘verblijf als houder van de Europese blauwe kaart’ | € 290 | € 290 |
-| f. ‘seizoenarbeid’ | € 174 | € 174 |
-| g. ‘overplaatsing binnen een onderneming’ | € 290 | € 290 |
-| h. ‘arbeid in loondienst’ | € 290 | € 290 |
-| i. ‘grensoverschrijdende dienstverlening’ | € 290 | € 290 |
-| j. ‘wetenschappelijk onderzoek in de zin van [richtlijn 2016/801](32016L0801)/EU’ | € 174 | € 174 |
-| k. ‘lerend werken’ | € 290 | € 290 |
+| a. ‘verblijf als familie- of gezinslid’ | € 192 | € 192 |
+| b. ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’ | € 192, of als vermogende vreemdeling: € 2.283 | € 192, of als vermogende vreemdeling: € 1.142 |
+| c. ‘arbeid als zelfstandige’ | In het kader van ‘arbeid als zelfstandige’ als bedoeld in [artikel 3.30, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30) € 342, overige € 1.416 | € 379 |
+| d. ‘arbeid als kennismigrant’ | € 320 | € 320 |
+| e. ‘verblijf als houder van de Europese blauwe kaart’ | € 320 | € 320 |
+| f. ‘seizoenarbeid’ | € 192 | € 192 |
+| g. ‘overplaatsing binnen een onderneming’ | € 320 | € 320 |
+| h. ‘arbeid in loondienst’ | € 320 | € 320 |
+| i. ‘grensoverschrijdende dienstverlening’ | € 320 | € 320 |
+| j. ‘wetenschappelijk onderzoek in de zin van [richtlijn 2016/801](32016L0801)/EU’ | € 192 | € 192 |
+| k. ‘lerend werken’ | € 320 | € 320 |
 | l. ‘arbeid als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel’ | € 0 | € 0 |
-| m. ‘studie’ | € 174 | € 174 |
-| n. ‘het zoeken en verrichten van arbeid al dan niet in loondienst’ | € 174 | niet van toepassing |
-| o. ‘uitwisseling, al dan niet in het kader van een verdrag’ | € 290 | € 290 |
-| p. ‘medische behandeling’ | In het kader van ‘medische behandeling’ als bedoeld in [artikel 3.46, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.46) € 0, overige € 1.057 | In het kader van ‘medische behandeling’ als bedoeld in artikel 3.46, vierde lid, van het Besluit € 0, overige € 369 |
-| q. ‘tijdelijke humanitaire gronden’ | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 333, overige € 0 | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 333, overige € 0 |
-| r. ‘het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17)’ | € 1.057 | € 369 |
-| s. ‘niet-tijdelijke humanitaire gronden’ | In het kader van [artikel 3.24aa, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24aa&z=2020-12-24&g=2020-12-24) € 0, overige € 1.057 | In het kader van artikel 3.24aa, tweede lid, onderdeel k € 0, in het kader van de regeling langdurig verblijvende kinderen € 168, overige € 369 |
-| t. alle overige verblijfsdoelen | € 1.057 | € 369 |
+| m. ‘studie’ | € 192 | € 192 |
+| n. ‘het zoeken en verrichten van arbeid al dan niet in loondienst’ | € 192 | niet van toepassing |
+| o. ‘uitwisseling, al dan niet in het kader van een verdrag’ | € 320 | € 320 |
+| p. ‘medische behandeling’ | In het kader van ‘medische behandeling’ als bedoeld in [artikel 3.46, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.46) € 0, overige € 1.086 | In het kader van ‘medische behandeling’ als bedoeld in artikel 3.46, vierde lid, van het Besluit € 0, overige € 379 |
+| q. ‘tijdelijke humanitaire gronden’ | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 342, overige € 0 | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 342, overige € 0 |
+| r. ‘het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17)’ | € 1.086 | € 379 |
+| s. ‘niet-tijdelijke humanitaire gronden’ | In het kader van [artikel 3.24aa, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24aa&z=2021-01-01&g=2021-01-01) € 0, overige € 1.086 | In het kader van artikel 3.24aa, tweede lid, onderdeel k € 0, in het kader van de regeling langdurig verblijvende kinderen € 173, overige € 379 |
+| t. alle overige verblijfsdoelen | € 1.086 | € 379 |
 
 ##### Artikel 3.34a
 
-In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24) geldt voor de navolgende categorieën vreemdelingen als bedoeld in kolom I, het daarachter vermelde bedrag in kolom II onderscheidenlijk kolom III.
+In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) geldt voor de navolgende categorieën vreemdelingen als bedoeld in kolom I, het daarachter vermelde bedrag in kolom II onderscheidenlijk kolom III.
 
 | I. Categorie | II. Verlening of wijziging | III. Verlenging |
 | --- | --- | --- |
-| a. ‘verblijf als familie- of gezinslid’ indien het een kind betreft die verblijf vraagt bij een ouder | € 174 | € 174 |
-| b. gezinslid van een houder van een EU-verblijfsvergunning voor langdurig ingezetenen welk gezinslid het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt | € 174 | € 174 |
-| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) aanvraagt | € 174 | € 174 |
-| d. vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie | € 58 | € 58 |
-| e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8) | € 58 | € 58 |
-| f. vreemdeling met de nationaliteit van Argentinië, Australië, Canada, Hong Kong, Nieuw Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Programme | € 58 | niet van toepassing |
-| g. vreemdeling met de nationaliteit van Canada die het verblijfsdoel ‘lerend werken’ aanvraagt, in het kader van het Young Workers Exchange Programme | € 58 | € 58 |
-| h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt | € 68 | € 68 |
-| i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt | € 68 | € 68 |
+| a. ‘verblijf als familie- of gezinslid’ indien het een kind betrtikel 3.343.34d komen te luiden:nderdeel NNet Voorschrift Vreemdelingen 2000 worden de bij dit besluit opgenomen bijlagen ingreft die verblijf vraagt bij een ouder | € 192 | € 192 |
+| b. gezinslid van een houder van een EU-verblijfsvergunning voor langdurig ingezetenen welk gezinslid het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt | € 192 | € 192 |
+| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) aanvraagt | € 192 | € 192 |
+| d. vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie | € 64 | € 64 |
+| e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8) | € 64 | € 64 |
+| f. vreemdeling met de nationaliteit van Argentinië, Australië, Canada, Hong Kong, Nieuw Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Programme | € 64 | niet van toepassing |
+| g. vreemdeling met de nationaliteit van Canada die het verblijfsdoel ‘lerend werken’ aanvraagt, in het kader van het Young Workers Exchange Programme | € 64 | € 64 |
+| h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt | € 69 | € 69 |
+| i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt | € 69 | € 69 |
 | j. vreemdeling die het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt en die om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen | € 0 | € 0 |
 | k. vreemdeling die blijkens een schriftelijke verklaring van de Minister in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden of met een ander verblijfsdoel dan genoemd in [artikel 3.4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) | € 0 | niet van toepassing |
 | l. minderjarig kind dat een aanvraag indient voor ‘verblijf als familie- of gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’, tenzij die verblijfsvergunning is verleend op grond van artikel 3.48, eerste lid, onder g, of 3.48, tweede lid, onder a, van het Besluit | € 0 | € 0 |
 | m. de vreemdeling in aanmerking komt voor verlenging van de verblijfsvergunning als bedoeld in [artikel van 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid voor verblijf bij een vreemdeling aan wie in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden is verleend | niet van toepassing | € 0 |
 | n. de broer en zus die een aanvraag indienen voor ‘verblijf als familie- en gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’ in het kader van het beleid voor de Afghaanse vreemdeling die een verwesterde, schoolgaande en minderjarige vrouw is | € 0 | € 0 |
 | o. vreemdeling die een aanvraag indient in het geval, bedoeld in [artikel 3.101, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.101) | € 0 | niet van toepassing |
-| p. de vreemdeling waaraan een verblijfsvergunning is verleend in het kader van verblijf als gezinslid van een militair verbonden aan een hier te lande gevestigd internationaal militair hoofdkwartier (Joint Force Command-headquarters) onder de beperking ‘arbeid in loondienst’ | € 290 | € 0 |
+| p. de vreemdeling waaraan een verblijfsvergunning is verleend in het kader van verblijf als gezinslid van een militair verbonden aan een hier te lande gevestigd internationaal militair hoofdkwartier (Joint Force Command-headquarters) onder de beperking ‘arbeid in loondienst’ | € 320 | € 0 |
 
 ##### Artikel 3.34b
 
-In aanvulling op [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2020-12-24&g=2020-12-24) kan de Minister in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
+In aanvulling op [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01) kan de Minister in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
 
 ##### Artikel 3.34c
 
-1. In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2020-12-24&g=2020-12-24) is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) een bedrag van € 391 verschuldigd die:
+1. In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01) is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) een bedrag van € 402 verschuldigd die:
 
 - a. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met tijdelijke humanitaire gronden in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld;
 
@@ -813,11 +813,13 @@ In aanvulling op [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&
 
 - d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van achterlating.
 
-2. In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2020-12-24&g=2020-12-24) is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50), of [artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), een bedrag van € 174 verschuldigd.
+2. In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01) is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50), of [artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), een bedrag van € 192 verschuldigd.
+
+3. In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) en [3.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01) is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met tijdelijke humanitaire gronden op grond van [artikel 3.48, tweede lid, aanhef en onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) en [artikel 3.24aa, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24aa&z=2021-01-01&g=2021-01-01), in verband met een ondertoezichtstelling, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.51, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en artikel 3.24aa, tweede lid, aanhef en onder j, in verband met een ondertoezichtstelling, een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.34d
 
-In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24) is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), indien:
+In afwijking van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01) is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), indien:
 
 - a. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het wijzigen van een verblijfsvergunning, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de verblijfsvergunning afloopt;
 
@@ -833,19 +835,19 @@ Vervallen
 
 ##### Artikel 3.34g
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, is de vreemdeling een bedrag van € 174 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, is de vreemdeling een bedrag van € 192 verschuldigd.
 
-2. In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, een bedrag van € 58 verschuldigd.
+2. In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, een bedrag van € 64 verschuldigd.
 
-3. In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het tweede lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, een bedrag van € 58 verschuldigd.
+3. In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het tweede lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een EU-verblijfsvergunning voor langdurig ingezetenen, een bedrag van € 64 verschuldigd.
 
-4. Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 58 verschuldigd.
+4. Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.34h
 
-1. Ter zake van de afdoening van een aanvraag om toetsing aan het gemeenschapsrecht en afgifte van het daaraan verbonden verblijfsdocument, is de vreemdeling een bedrag van € 58 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag om toetsing aan het gemeenschapsrecht en afgifte van het daaraan verbonden verblijfsdocument, is de vreemdeling een bedrag van € 64 verschuldigd.
 
-2. Onverminderd [artikel 3.34g, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2020-12-24&g=2020-12-24), is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), een bedrag van € 58 verschuldigd.
+2. Onverminderd [artikel 3.34g, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2021-01-01&g=2021-01-01), is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.34i
 
@@ -853,13 +855,13 @@ Vervallen
 
 ##### Artikel 3.34j
 
-1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 135 verschuldigd.
+1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 139 verschuldigd.
 
-2. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 135 verschuldigd.
+2. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 139 verschuldigd.
 
-3. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 58 verschuldigd.
+3. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 64 verschuldigd.
 
-4. In afwijking van het eerste lid is de vreemdeling een bedrag van € 58 verschuldigd ter zake van de afgifte van een vervangend document:
+4. In afwijking van het eerste lid is de vreemdeling een bedrag van € 64 verschuldigd ter zake van de afgifte van een vervangend document:
 
 - a. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, voor zover de vreemdeling van Turkse nationaliteit is en de verblijfsvergunning is verleend onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;
 
@@ -869,29 +871,29 @@ Vervallen
 
 - d. waaruit het rechtmatig verblijf bedoeld in [artikel 8, onder a, b of l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel c.
 
-5. In afwijking van het eerste lid is de vreemdeling een bedrag van € 135 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid.
+5. In afwijking van het eerste lid is de vreemdeling een bedrag van € 139 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid.
 
 ##### Artikel 3.34ja
 
-In afwijking van de tarieftabel in [artikel 3.34a, rij d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2020-12-24&g=2020-12-24), en de [artikelen 3.34g, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2020-12-24&g=2020-12-24), [3.34h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34h&z=2020-12-24&g=2020-12-24), [3.34ha, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34ha&z=2020-12-24&g=2020-12-24), en [3.34j, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 31 verschuldigd.
+In afwijking van de tarieftabel in [artikel 3.34a, rij d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01), en de [artikelen 3.34g, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2021-01-01&g=2021-01-01), [3.34h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34h&z=2021-01-01&g=2021-01-01), [3.34ha, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34ha&z=2021-01-01&g=2021-01-01), en [3.34j, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 33 verschuldigd.
 
 ##### Artikel 3.34jb
 
-In afwijking van de tarieftabel in [artikel 3.34, rij a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2020-12-24&g=2020-12-24), de tarieftabel in [artikel 3.34a, rij a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2020-12-24&g=2020-12-24), en de [artikelen 3.34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34c&z=2020-12-24&g=2020-12-24), [3.34g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2020-12-24&g=2020-12-24), en [3.34j, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 58 verschuldigd.
+In afwijking van de tarieftabel in [artikel 3.34, rij a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34&z=2021-01-01&g=2021-01-01), de tarieftabel in [artikel 3.34a, rij a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34a&z=2021-01-01&g=2021-01-01), en de [artikelen 3.34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34c&z=2021-01-01&g=2021-01-01), [3.34g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34g&z=2021-01-01&g=2021-01-01), en [3.34j, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.34k
 
-1. Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a of b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 110 verschuldigd.
+1. Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder a of b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 113 verschuldigd.
 
-2. Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de minderjarige vreemdeling een bedrag van € 31 verschuldigd.
+2. Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de minderjarige vreemdeling een bedrag van € 33 verschuldigd.
 
-3. In afwijking van het eerste lid is de minderjarige vreemdeling die het gezinslid is van een vreemdeling als bedoeld in [artikel 3.34j, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2020-12-24&g=2020-12-24) een bedrag van € 31 verschuldigd.
+3. In afwijking van het eerste lid is de minderjarige vreemdeling die het gezinslid is van een vreemdeling als bedoeld in [artikel 3.34j, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34j&z=2021-01-01&g=2021-01-01) een bedrag van € 33 verschuldigd.
 
 ##### Artikel 3.34l
 
-1. Als administraties, bedoeld in [artikel 24a, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a), zijn aangewezen de administraties vermeld in kolom A van [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=21&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Als administraties, bedoeld in [artikel 24a, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a), zijn aangewezen de administraties vermeld in kolom A van [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=21&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
-2. Als gegevens en bescheiden, bedoeld in [artikel 24a, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=21&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. Als gegevens en bescheiden, bedoeld in [artikel 24a, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=21&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 3.34m
 
@@ -947,7 +949,7 @@ Vervallen
 
 - Afhankelijk van de omstandigheden in het land van herkomst kan een specifieke sociale groep een groep zijn die als gemeenschappelijk kenmerk seksuele gerichtheid heeft. Seksuele gerichtheid omvat geen handelingen die volgens het nationale recht van de lidstaten als strafbaar worden beschouwd. Wanneer moet worden vastgesteld of iemand tot een bepaalde sociale groep behoort of wanneer een kenmerk van een dergelijke groep wordt geïdentificeerd, wordt er terdege rekening gehouden met genderaspecten, waaronder genderidentiteit;
 
-- e. het begrip «politieke overtuiging» houdt met name in dat de vreemdeling een opvatting, gedachte of mening heeft betreffende een aangelegenheid die verband houdt met de in [artikel 3.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37a&z=2020-12-24&g=2020-12-24) genoemde potentiële actoren en hun beleid of methoden, ongeacht of de vreemdeling zich in zijn handelen door deze opvatting, gedachte of mening heeft laten leiden.
+- e. het begrip «politieke overtuiging» houdt met name in dat de vreemdeling een opvatting, gedachte of mening heeft betreffende een aangelegenheid die verband houdt met de in [artikel 3.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37a&z=2021-01-01&g=2021-01-01) genoemde potentiële actoren en hun beleid of methoden, ongeacht of de vreemdeling zich in zijn handelen door deze opvatting, gedachte of mening heeft laten leiden.
 
 2. Bij de beoordeling of de vrees van de vreemdeling voor vervolging in de zin van het Vluchtelingenverdrag gegrond is, doet het niet ter zake of de vreemdeling in werkelijkheid de raciale, godsdienstige, nationale, sociale of politieke kenmerken vertoont die aanleiding geven tot de vervolging indien deze kenmerken hem door de actor van de vervolging worden toegeschreven.
 
@@ -959,7 +961,7 @@ Actoren van vervolging in de zin van het Vluchtelingenverdrag, dan wel van ernst
 
 - b. partijen of organisaties die de staat of een aanzienlijk deel van zijn grondgebied beheersen;
 
-- c. niet-overheidsactoren, indien kan worden aangetoond dat de actoren als bedoeld onder a en b, inclusief internationale organisaties, geen bescherming als bedoeld in [artikel 3.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37c&z=2020-12-24&g=2020-12-24) kunnen of willen bieden tegen vervolging in de zin van het Vluchtelingenverdrag, dan wel tegen ernstige schade.
+- c. niet-overheidsactoren, indien kan worden aangetoond dat de actoren als bedoeld onder a en b, inclusief internationale organisaties, geen bescherming als bedoeld in [artikel 3.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37c&z=2021-01-01&g=2021-01-01) kunnen of willen bieden tegen vervolging in de zin van het Vluchtelingenverdrag, dan wel tegen ernstige schade.
 
 ##### Artikel 3.37b
 
@@ -985,7 +987,7 @@ mits zij bereid en in staat zijn bescherming te bieden overeenkomstig het tweede
 
 - a. geen gegronde vrees heeft voor vervolging of geen reëel risico op ernstige schade loopt; of
 
-- b. toegang heeft tot bescherming als bedoeld in [artikel 3.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37c&z=2020-12-24&g=2020-12-24) tegen vervolging of tegen ernstige schade,
+- b. toegang heeft tot bescherming als bedoeld in [artikel 3.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37c&z=2021-01-01&g=2021-01-01) tegen vervolging of tegen ernstige schade,
 
 en hij op een veilige en wettige manier kan reizen naar en zich toegang verschaffen tot dat deel van het land, en redelijkerwijs kan worden verwacht dat hij er zich vestigt.
 
@@ -1021,7 +1023,7 @@ en hij op een veilige en wettige manier kan reizen naar en zich toegang verschaf
 
 - d. het beschikbaar zijn van een systeem van daadwerkelijke rechtsmiddelen tegen schendingen van voornoemde rechten en vrijheden.
 
-3. Met inachtneming van het eerste en het tweede lid zijn als veilige landen van herkomst als bedoeld in [artikel 3.105ba, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105ba) aangewezen de landen die zijn opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13&z=2020-12-24&g=2020-12-24) bij deze regeling.
+3. Met inachtneming van het eerste en het tweede lid zijn als veilige landen van herkomst als bedoeld in [artikel 3.105ba, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105ba) aangewezen de landen die zijn opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 3.37g
 
@@ -1063,31 +1065,31 @@ Vervallen
 
 ##### Artikel 3.43b
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), is de vreemdeling een bedrag van € 174 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), is de vreemdeling een bedrag van € 192 verschuldigd.
 
-2. In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), een bedrag van € 58 verschuldigd.
+2. In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een verblijfsvergunning als bedoeld in [artikel 33 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), een bedrag van € 64 verschuldigd.
 
 3. De leges, bedoeld in het eerste lid, worden door de vreemdeling door middel van een in opdracht van de IND toegezonden acceptgirokaart voldaan.
 
-4. Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 58 verschuldigd.
+4. Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.43c
 
-1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 135 verschuldigd.
+1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 139 verschuldigd.
 
-2. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 135 verschuldigd.
+2. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt of ter zake van de afgifte van een vervangend document ter correctie van naar het oordeel van de Minister gedateerde of onjuiste gegevens, is de vreemdeling een bedrag van € 139 verschuldigd.
 
-3. In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, een bedrag van € 58 verschuldigd.
+3. In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, een bedrag van € 64 verschuldigd.
 
-4. In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, een bedrag van € 58 verschuldigd.
+4. In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.43d
 
-In afwijking van de [artikelen 3.43b, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43b&z=2020-12-24&g=2020-12-24) en [3.43c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43c&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 31 verschuldigd.
+In afwijking van de [artikelen 3.43b, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43b&z=2021-01-01&g=2021-01-01) en [3.43c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43c&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 33 verschuldigd.
 
 ##### Artikel 3.43e
 
-In afwijking van de [artikelen 3.43b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43b&z=2020-12-24&g=2020-12-24), en [3.43c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43c&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 58 verschuldigd.
+In afwijking van de [artikelen 3.43b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43b&z=2021-01-01&g=2021-01-01), en [3.43c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.43c&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.44
 
@@ -1123,7 +1125,7 @@ Indien de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de [a
 
 2. Bij een beroep op [artikel 3.107a, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a) overlegt de aanvrager het advies, bedoeld in [artikel 2.8, eerste lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.8), dat niet ouder is dan zes maanden.
 
-3. Het [derde en vierde lid van artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.16&z=2020-12-24&g=2020-12-24) zijn van overeenkomstige toepassing.
+3. Het [derde en vierde lid van artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.16&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.49
 
@@ -1163,9 +1165,9 @@ Duidelijke aanwijzingen dat de vreemdeling de eerste opvolgende asielaanvraag he
 
 ##### Artikel 3.51
 
-1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 135 verschuldigd.
+1. Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 139 verschuldigd.
 
-2. In afwijking van het eerste lid is de vreemdeling een bedrag van € 58 verschuldigd ter zake van de afgifte van een vervangend document:
+2. In afwijking van het eerste lid is de vreemdeling een bedrag van € 64 verschuldigd ter zake van de afgifte van een vervangend document:
 
 - a. waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt voor zover de vreemdeling van Turkse nationaliteit is en de vreemdeling direct voorafgaande aan de aanvraag houder is van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) onder een beperking verband houdend met het verrichten van arbeid als zelfstandige;
 
@@ -1177,15 +1179,15 @@ Duidelijke aanwijzingen dat de vreemdeling de eerste opvolgende asielaanvraag he
 
 ##### Artikel 3.52
 
-Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 58 verschuldigd.
+Ter zake van de afgifte ter uitvoering van [artikel 4.22, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, is de vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.52a
 
-In afwijking van de [artikelen 3.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.51&z=2020-12-24&g=2020-12-24) en [3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.52&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 31 verschuldigd.
+In afwijking van de [artikelen 3.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.51&z=2021-01-01&g=2021-01-01) en [3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.52&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 33 verschuldigd.
 
 ##### Artikel 3.52b
 
-In afwijking van [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.51&z=2020-12-24&g=2020-12-24), is de minderjarige vreemdeling een bedrag van € 58 verschuldigd.
+In afwijking van [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=3.51&z=2021-01-01&g=2021-01-01), is de minderjarige vreemdeling een bedrag van € 64 verschuldigd.
 
 ##### Artikel 3.53
 
@@ -1233,13 +1235,13 @@ Bij de indiening van de aanvraag, bedoeld in [artikel 45a van de Wet](https://we
 
 - 5. middenmanager.
 
-2. Bij de uitoefening van zijn taak draagt de ambtenaar, bedoeld in het eerste lid, een legitimatiebewijs als opgenomen in [bijlage 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a&z=2020-12-24&g=2020-12-24), bij zich.
+2. Bij de uitoefening van zijn taak draagt de ambtenaar, bedoeld in het eerste lid, een legitimatiebewijs als opgenomen in [bijlage 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a&z=2021-01-01&g=2021-01-01), bij zich.
 
 ##### Artikel 4.2
 
-1. Als de plaatsen waar grensdoorlaatposten zijn gevestigd, zijn aangewezen de plaatsen vermeld in kolom A van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2020-12-24&g=2020-12-24) bij deze regeling. Personencontrole in het kader van de grensbewaking kan worden uitgevoerd op de locaties, vermeld in kolom B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Als de plaatsen waar grensdoorlaatposten zijn gevestigd, zijn aangewezen de plaatsen vermeld in kolom A van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2021-01-01&g=2021-01-01) bij deze regeling. Personencontrole in het kader van de grensbewaking kan worden uitgevoerd op de locaties, vermeld in kolom B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
-2. De grensdoorlaatposten, bedoeld in het eerste lid, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. De grensdoorlaatposten, bedoeld in het eerste lid, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=4&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 4.3
 
@@ -1247,21 +1249,21 @@ Het teken, bedoeld in [artikel 4.9, onder a, van het Besluit](https://wetten.ove
 
 ##### Artikel 4.4. Modellen bemanningslijst/passagierslijst zeeschip
 
-1. Het model van de bemanningslijst, bedoeld in [artikel 4.11, eerste lid onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) is opgenomen in [bijlage 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14a&z=2020-12-24&g=2020-12-24) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14b&z=2020-12-24&g=2020-12-24) bij deze regeling. Op de bemanningslijst worden de gegevens verstrekt omtrent de familienaam, voornamen, rang, nationaliteit, geboortedatum en geboorteplaats, van zowel de gezagvoerder als van alle bij het binnenvaren van Nederland aan boord aanwezige personen die deel uitmaken van de bemanning en als zodanig op de monsterrol voorkomen.
+1. Het model van de bemanningslijst, bedoeld in [artikel 4.11, eerste lid onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) is opgenomen in [bijlage 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14a&z=2021-01-01&g=2021-01-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14b&z=2021-01-01&g=2021-01-01) bij deze regeling. Op de bemanningslijst worden de gegevens verstrekt omtrent de familienaam, voornamen, rang, nationaliteit, geboortedatum en geboorteplaats, van zowel de gezagvoerder als van alle bij het binnenvaren van Nederland aan boord aanwezige personen die deel uitmaken van de bemanning en als zodanig op de monsterrol voorkomen.
 
-2. Voor schepen die zijn gecertificeerd voor het vervoer van ten hoogste twaalf passagiers wordt de schriftelijke opgave, bedoeld in [artikel 4.11, eerste lid onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11), verstrekt met het model van de passagierslijst, opgenomen in [bijlage 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14c&z=2020-12-24&g=2020-12-24) en [14d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14d&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. Voor schepen die zijn gecertificeerd voor het vervoer van ten hoogste twaalf passagiers wordt de schriftelijke opgave, bedoeld in [artikel 4.11, eerste lid onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11), verstrekt met het model van de passagierslijst, opgenomen in [bijlage 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14c&z=2021-01-01&g=2021-01-01) en [14d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14d&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 4.5
 
-1. Het model van de bemanningslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15), is opgenomen in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=15&z=2020-12-24&g=2020-12-24) bij deze regeling.
+1. Het model van de bemanningslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15), is opgenomen in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=15&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
-2. Het model van de passagierslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15), is opgenomen in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=16&z=2020-12-24&g=2020-12-24) bij deze regeling.
+2. Het model van de passagierslijst, bedoeld in [artikel 4.15, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15), is opgenomen in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=16&z=2021-01-01&g=2021-01-01) bij deze regeling.
 
 ##### Artikel 4.6
 
 1. De aantekening, bedoeld in de [artikelen 4.24, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24), en [4.26 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.26), luidt: 'aanmelden binnen drie dagen bij de korpschef te (plaats), (datum waarop de aantekening wordt gesteld, handtekening en stempel)'.
 
-2. Het opleggen van een verplichting tot aanmelding bij de korpschef aan een vreemdeling, aan wie een bijzonder doorlaatbewijs als bedoeld in [bijlage 3 onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3&z=2020-12-24&g=2020-12-24) bij deze regeling is afgegeven, geschiedt door in dat document achter de woorden 'zich melden binnen drie dagen na afgifte van dit doorlaatbewijs bij' aan te tekenen: 'de korpschef te (plaats)'.
+2. Het opleggen van een verplichting tot aanmelding bij de korpschef aan een vreemdeling, aan wie een bijzonder doorlaatbewijs als bedoeld in [bijlage 3 onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3&z=2021-01-01&g=2021-01-01) bij deze regeling is afgegeven, geschiedt door in dat document achter de woorden 'zich melden binnen drie dagen na afgifte van dit doorlaatbewijs bij' aan te tekenen: 'de korpschef te (plaats)'.
 
 ##### Artikel 4.7
 
@@ -1277,7 +1279,7 @@ Het teken, bedoeld in [artikel 4.9, onder a, van het Besluit](https://wetten.ove
 
 ##### Artikel 4.9
 
-Voor het stellen van aantekeningen in de reis- en identiteitspapieren van de vreemdeling, bedoeld in [artikel 4.29 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), wordt gebruik gemaakt van het model dat als [bijlage 7j](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7j&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+Voor het stellen van aantekeningen in de reis- en identiteitspapieren van de vreemdeling, bedoeld in [artikel 4.29 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), wordt gebruik gemaakt van het model dat als [bijlage 7j](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7j&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 ##### Artikel 4.10
 
@@ -1291,7 +1293,7 @@ De aantekening, bedoeld in [artikel 4.29 van het Besluit](https://wetten.overhei
 
 3. De aantekening, bedoeld in het tweede lid, heeft een geldigheidsduur van ten hoogste zes maanden. Indien de geldigheidsduur van de aantekening is verstreken voordat een beslissing is genomen op het verzoek om een voorlopige voorziening, kan de desbetreffende aantekening wederom worden gesteld met een geldigheidsduur van ten hoogste zes maanden. Indien afwijzend is beslist, wordt de aantekening 'vervallen' geplaatst.
 
-4. Voor de aantekeningen, bedoeld in het tweede lid, wordt gebruik gemaakt van de Sticker Aantekening Voorlopige Voorziening, waarvan het model als [bijlage 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7k&z=2020-12-24&g=2020-12-24) bij deze regeling is gevoegd.
+4. Voor de aantekeningen, bedoeld in het tweede lid, wordt gebruik gemaakt van de Sticker Aantekening Voorlopige Voorziening, waarvan het model als [bijlage 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7k&z=2021-01-01&g=2021-01-01) bij deze regeling is gevoegd.
 
 ##### Artikel 4.12
 
@@ -1527,7 +1529,7 @@ De referent van een vreemdeling, die in Nederland verblijft of wil verblijven al
 
 De vreemdeling die in Nederland verblijft in het kader van uitwisseling, studie, seizoenarbeid, lerend werken, arbeid in loondienst, arbeid als kennismigrant, als houder van de Europese blauwe kaart of in het kader van onderzoek in de zin van richtlijn (EU) 2016/801, verstrekt inlichtingen indien hij van uitwisselings- of au pairorganisatie, onderwijsinstelling of werkgever wijzigt.
 
-#### Paragraaf 2. Administratieplichten
+#### Paragraaf 1. Informatieplichten
 
 ##### Artikel 4.27
 
@@ -1629,7 +1631,7 @@ De referent, met uitzondering van de referent van een vreemdeling die in Nederla
 
 ##### Artikel 4.31
 
-Bewijsstukken als bedoeld in de [artikelen 4.29, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.29&z=2020-12-24&g=2020-12-24) en [4.30, eerste lid, onderdeel e, tweede lid, onderdeel c en derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.30&z=2020-12-24&g=2020-12-24), zijn:
+Bewijsstukken als bedoeld in de [artikelen 4.29, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.29&z=2021-01-01&g=2021-01-01) en [4.30, eerste lid, onderdeel e, tweede lid, onderdeel c en derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.30&z=2021-01-01&g=2021-01-01), zijn:
 
 - a. indien de middelen van bestaan worden gefinancierd door de vreemdeling zelf:
 
@@ -1733,7 +1735,7 @@ De referent van een vreemdeling die in Nederland verblijft of wil verblijven in 
 
 ##### Artikel 4.37
 
-Bewijsstukken als bedoeld in [artikel 4.36, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.36&z=2020-12-24&g=2020-12-24), zijn:
+Bewijsstukken als bedoeld in [artikel 4.36, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.36&z=2021-01-01&g=2021-01-01), zijn:
 
 - a. een afschrift van de arbeidsovereenkomst, een recente werkgeversverklaring voorzien van datum, handtekening van de werkgever en firmastempel en afschriften van loonspecificaties;
 
@@ -1795,7 +1797,7 @@ Bewijsstukken als bedoeld in [artikel 4.36, onder c](https://wetten.overheid.nl/
 
 ##### Artikel 4.39
 
-Bewijsstukken als bedoeld in [4.38, eerste lid, onder e en vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.38&z=2020-12-24&g=2020-12-24), zijn:
+Bewijsstukken als bedoeld in [4.38, eerste lid, onder e en vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.38&z=2021-01-01&g=2021-01-01), zijn:
 
 - a. indien de referent beschikt over inkomen uit arbeid in loondienst:
 
@@ -1815,7 +1817,7 @@ Bewijsstukken als bedoeld in [4.38, eerste lid, onder e en vierde lid, onder c](
 
 - 4°. voor zover van toepassing uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van de aanvraag om verlening van de verblijfsvergunning;
 
-- c. indien de referent beschikt over middelen van bestaan als bedoeld in [artikel 3.24b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24b&z=2020-12-24&g=2020-12-24):
+- c. indien de referent beschikt over middelen van bestaan als bedoeld in [artikel 3.24b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24b&z=2021-01-01&g=2021-01-01):
 
 - 1°. de bewijsstukken genoemd onder a;
 
@@ -1893,7 +1895,7 @@ De maatregel, bedoeld in [artikel 56, eerste lid, van de Wet](https://wetten.ove
 
 ##### Artikel 5.4
 
-De ambtenaren genoemd in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=5&artikel=5.3&z=2020-12-24&g=2020-12-24), zijn bevoegd tot het nemen van het besluit, bedoeld in [artikel 5.5, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.5) en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
+De ambtenaren genoemd in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=5&artikel=5.3&z=2021-01-01&g=2021-01-01), zijn bevoegd tot het nemen van het besluit, bedoeld in [artikel 5.5, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.5) en tot het doen van de kennisgeving, bedoeld in artikel 5.5, tweede lid, van het Besluit.
 
 ### Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
@@ -1923,7 +1925,7 @@ De korpschef en de Commandant der Koninklijke marechaussee zijn bevoegd de koste
 
 ##### Artikel 6.2a
 
-De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kostensoort vermeld in kolom A van [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=22&z=2020-12-24&g=2020-12-24) bij deze regeling en de bijbehorende tarieven vermeld in kolom B van bijlage 22 bij deze regeling.
+De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kostensoort vermeld in kolom A van [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=22&z=2021-01-01&g=2021-01-01) bij deze regeling en de bijbehorende tarieven vermeld in kolom B van bijlage 22 bij deze regeling.
 
 ##### Artikel 6.3
 
@@ -1963,13 +1965,13 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ##### Artikel 7.1
 
-1. Het bestuursorgaan of orgaan als bedoeld in [artikel 107 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), dat de Minister met toepassing van [artikel 8.1, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.1) vraagt om onverwijld nadere gegevens over de verblijfsrechtelijke positie van de vreemdeling te verstrekken, maakt daarvoor gebruik van het formulier van het in [bijlage 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17a&z=2020-12-24&g=2020-12-24) bij deze regeling aangeduide model. Op dit formulier wordt tevens aangegeven om welke reden onduidelijkheid bestaat over de verblijfsrechtelijke positie van de vreemdeling.
+1. Het bestuursorgaan of orgaan als bedoeld in [artikel 107 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), dat de Minister met toepassing van [artikel 8.1, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.1) vraagt om onverwijld nadere gegevens over de verblijfsrechtelijke positie van de vreemdeling te verstrekken, maakt daarvoor gebruik van het formulier van het in [bijlage 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17a&z=2021-01-01&g=2021-01-01) bij deze regeling aangeduide model. Op dit formulier wordt tevens aangegeven om welke reden onduidelijkheid bestaat over de verblijfsrechtelijke positie van de vreemdeling.
 
-2. De verstrekking van de nadere gegevens over de verblijfsrechtelijke positie van een vreemdeling aan de in het eerste lid bedoelde bestuursorgaan, vindt plaats door gebruikmaking van het formulier van het in [bijlage 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17b&z=2020-12-24&g=2020-12-24) bij deze regeling aangeduide model.
+2. De verstrekking van de nadere gegevens over de verblijfsrechtelijke positie van een vreemdeling aan de in het eerste lid bedoelde bestuursorgaan, vindt plaats door gebruikmaking van het formulier van het in [bijlage 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17b&z=2021-01-01&g=2021-01-01) bij deze regeling aangeduide model.
 
-3. Bij het vragen van gegevens omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning bij het in het eerste lid bedoelde bestuursorgaan of orgaan op grond van [artikel 8.2, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.2), wordt gebruik gemaakt van het formulier van het in [bijlage 17c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17c&z=2020-12-24&g=2020-12-24) van deze regeling aangeduide model.
+3. Bij het vragen van gegevens omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning bij het in het eerste lid bedoelde bestuursorgaan of orgaan op grond van [artikel 8.2, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.2), wordt gebruik gemaakt van het formulier van het in [bijlage 17c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17c&z=2021-01-01&g=2021-01-01) van deze regeling aangeduide model.
 
-4. Het in het eerste lid bedoelde bestuursorgaan of orgaan dat de Minister desgevraagd of uit eigen beweging op grond van [artikel 8.2, tweede of derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.2), gegevens verstrekt omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning, maakt daarvoor gebruik van het formulier van het in [bijlage 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17d&z=2020-12-24&g=2020-12-24) bij deze regeling aangeduide model.
+4. Het in het eerste lid bedoelde bestuursorgaan of orgaan dat de Minister desgevraagd of uit eigen beweging op grond van [artikel 8.2, tweede of derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.2), gegevens verstrekt omtrent de toekenning of beëindiging van een verstrekking, voorziening, uitkering, ontheffing of vergunning, maakt daarvoor gebruik van het formulier van het in [bijlage 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=17d&z=2021-01-01&g=2021-01-01) bij deze regeling aangeduide model.
 
 ##### Artikel 7.1a
 
@@ -2025,7 +2027,7 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 1. De onverenigbare verwerking van bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard wordt op de volgende wijze tegengegaan:
 
-- a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatiseerde bestand is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in de [artikelen 7.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1a&z=2020-12-24&g=2020-12-24) en [7.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1c&z=2020-12-24&g=2020-12-24) toegang tot de informatie moeten hebben;
+- a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatiseerde bestand is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in de [artikelen 7.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1a&z=2021-01-01&g=2021-01-01) en [7.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1c&z=2021-01-01&g=2021-01-01) toegang tot de informatie moeten hebben;
 
 - b. de verwerkingsverantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de Algemene verordening gegevensbescherming;
 
@@ -2181,7 +2183,7 @@ De vreemdeling van wie is vastgesteld dat de vingers niet blijvend fysiek bescha
 
 ##### Artikel 7.1k
 
-Als documenten, bedoeld in [artikel 8.32, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.32), zijn aangewezen de documenten, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.3&z=2020-12-24&g=2020-12-24).
+Als documenten, bedoeld in [artikel 8.32, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.32), zijn aangewezen de documenten, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.3&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 7.1l
 
@@ -2193,7 +2195,7 @@ Als documenten, bedoeld in [artikel 8.32, eerste lid, van het Besluit](https://w
 
 ##### Artikel 7.2
 
-De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.2&z=2020-12-24&g=2020-12-24) zijn niet van toepassing op kinderen beneden de leeftijd van twaalf jaar, die bij een van hun ouders inwonen, indien in het aan deze ouder verstrekte document, bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.2&z=2020-12-24&g=2020-12-24), is aangetekend dat de hem verleende verblijfsvergunning mede voor deze kinderen geldt.
+De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.2&z=2021-01-01&g=2021-01-01) zijn niet van toepassing op kinderen beneden de leeftijd van twaalf jaar, die bij een van hun ouders inwonen, indien in het aan deze ouder verstrekte document, bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.2&z=2021-01-01&g=2021-01-01), is aangetekend dat de hem verleende verblijfsvergunning mede voor deze kinderen geldt.
 
 ##### Artikel 7.2a
 
@@ -2371,25 +2373,11 @@ Lidstaten van de EU
 
 Lidstaten van de EU
 
-## Bijlage 2. behorend bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.2&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
+## Bijlage 1a. , behorend bij [artikel 2.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1a&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-## Bijlage 3. behorend bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.3&z=2016-03-01&g=2016-03-01) Voorschrift Vreemdelingen (categorieën vreemdelingen die toegang tot Nederland hebben, zonder in het bezit te zijn van een mvv)
+Vervallen
 
-- 1. Houders van een geldig paspoort en een geldig verblijfsdocument voor Nederland (zie [bijlagen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2016-03-01&g=2016-03-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2016-03-01&g=2016-03-01), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2016-03-01&g=2016-03-01) en [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e&z=2016-03-01&g=2016-03-01) VV);
-
-- 2. Houders van een geldig document voor grensoverschrijding en van een door een andere lidstaat van de Europese Unie afgegeven EG-verblijfsvergunning als langdurig ingezetene dan wel de echtgenoot of het minderjarig kind van die houder, in geval het gezin reeds was gevormd in die andere staat;
-
-- 3. Visumplichtige familieleden van een vreemdeling met de nationaliteit van een lidstaat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, die in het bezit zijn van een geldig grensoverschrijdingsdocument dat is voorzien van een visum kort verblijf;
-
-- 4. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument (zie Model M81);
-
-- 5. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
-
-- 6. Uitgenodigde vluchtelingen die houders zijn van een “laissez-passer” afgegeven door de Nederlandse autoriteiten;
-
-- 7. Houders van een “laissez-passer” afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
-
-- 8. Houders van een “officieel legitimatiebewijs” of een “Reiswijzer” (“Ordre de Mission – Travel Order”) van de Noord-Atlantische Verdragsorganisatie;
+## Bijlage 2. behorend bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.2&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
 
 ## Bijlage 3. behorend bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.3&z=2016-07-01&g=2016-09-21) Voorschrift Vreemdelingen (categorieën vreemdelingen die toegang tot Nederland hebben, zonder in het bezit te zijn van een mvv)
 
@@ -2583,6 +2571,24 @@ Vervallen
 
 - 8. Houders van een “officieel legitimatiebewijs” of een “Reiswijzer” (“Ordre de Mission – Travel Order”) van de Noord-Atlantische Verdragsorganisatie;
 
+## Bijlage 3. behorend bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.3&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen (categorieën vreemdelingen die toegang tot Nederland hebben, zonder in het bezit te zijn van een mvv)
+
+- 1. Houders van een geldig paspoort en een geldig verblijfsdocument voor Nederland (zie [bijlagen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a&z=2021-01-01&g=2021-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7b&z=2021-01-01&g=2021-01-01), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7c&z=2021-01-01&g=2021-01-01) en [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e&z=2021-01-01&g=2021-01-01) VV);
+
+- 2. Houders van een geldig document voor grensoverschrijding en van een door een andere lidstaat van de Europese Unie afgegeven EG-verblijfsvergunning als langdurig ingezetene dan wel de echtgenoot of het minderjarig kind van die houder, in geval het gezin reeds was gevormd in die andere staat;
+
+- 3. Visumplichtige familieleden van een vreemdeling met de nationaliteit van een lidstaat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, die in het bezit zijn van een geldig grensoverschrijdingsdocument dat is voorzien van een visum kort verblijf;
+
+- 4. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument (zie Model M81);
+
+- 5. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
+
+- 6. Uitgenodigde vluchtelingen die houders zijn van een “laissez-passer” afgegeven door de Nederlandse autoriteiten;
+
+- 7. Houders van een “laissez-passer” afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
+
+- 8. Houders van een “officieel legitimatiebewijs” of een “Reiswijzer” (“Ordre de Mission – Travel Order”) van de Noord-Atlantische Verdragsorganisatie;
+
 ## Bijlage 3a. , behorend bij bijlage 3, onder G, Voorschrift Vreemdelingen (Model Collectieve lijst voor in groepsverband reizende minderjarigen)
 
 Vervallen
@@ -2597,7 +2603,7 @@ Vervallen
 
 ## Bijlage 3d
 
-## Bijlage 4. behorend bij de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.4&z=2020-12-24&g=2020-12-24) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.2&z=2020-12-24&g=2020-12-24) van het Voorschrift Vreemdelingen 2000 (vliegvelden, andere grensdoorlaatposten en hun openingstellingstijden)
+## Bijlage 4. behorend bij de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.4&z=2021-01-01&g=2021-01-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.2&z=2021-01-01&g=2021-01-01) van het Voorschrift Vreemdelingen 2000 (vliegvelden, andere grensdoorlaatposten en hun openingstellingstijden)
 
 | A. doorlaatpost | B. locatie | C. openstellingstijden |
 | --- | --- | --- |
@@ -2651,29 +2657,29 @@ Vervallen
 | IJmuiden | alle aanlegmogelijkheden | 00.00 – 24.00 uur |
 | – haven |   |   |
 
-## Bijlage 5. behorend bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.6&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen (verklaring toegangverlening)
+## Bijlage 5. behorend bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.6&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen (verklaring toegangverlening)
 
 ## Bijlage 5b. , behorend bij artikel 2.6, tweede lid, Voorschrift Vreemdelingen (verklaring toegangverlening)
 
 Vervallen
 
-## Bijlage 6a. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen
+## Bijlage 6a. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen
 
-## Bijlage 6b. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen
+## Bijlage 6b. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen
 
-## Bijlage 6c. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2020-12-24&g=2020-12-24) van het Voorschrift Vreemdelingen 2000
+## Bijlage 6c. behorend bij [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.9&z=2021-01-01&g=2021-01-01) van het Voorschrift Vreemdelingen 2000
 
-## Bijlage 7. behorend bij de [artikelen 3.1 – 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24) en [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.11&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen
+## Bijlage 7. behorend bij de [artikelen 3.1 – 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01) en [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.11&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen
 
 ## Bijlage 7a. Document I
 
-## Bijlage 7a2. behorend bij [artikel 3.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24)
-
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
+
+## Bijlage 7c. Document III
 
 ## Bijlage 7d. Document IV
 
@@ -2684,8 +2690,6 @@ Vervallen
 Vervallen
 
 ## Bijlage 7e2. Verblijfsrecht voor bepaalde tijd onder het Terugtrekkingsakkoord (economisch inactief)
-
-## Bijlage 7e3. Verblijfsrecht voor bepaalde tijd onder het Terugtrekkingsakkoord (economisch actief)
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
@@ -2699,13 +2703,13 @@ Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kenn
 
 **In dit kader verklaart de ondergetekende, verder te noemen gastgezin, als volgt:**
 
+## Bijlage 7e9. Document EU/EER – artikel 20 [Richtlijn 2004/38/EG](32004L0038)
+
 ## Bijlage 7f. document W
 
 ## Bijlage 7f2. document W2
 
 ## Bijlage 7g. sticker Verblijfsaantekening Algemeen
-
-## Bijlage 7h. sticker Verblijfsaantekeningen Gemeenschapsonderdanen
 
 ### Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten)
 
@@ -2739,6 +2743,8 @@ Het gastgezin is zich ervan bewust dat in het kader van het toezicht op naleving
 
 Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.
 
+Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.
+
 **In dit kader verklaart de ondergetekende, verder te noemen gastgezin, als volgt:**
 
 Het gastgezin is ermee bekend dat verblijf als au pair in Nederland slechts wordt toegestaan als:
@@ -2747,15 +2753,13 @@ Het gastgezin is ermee bekend dat verblijf als au pair in Nederland slechts word
 
 Het gastgezin is zich ervan bewust dat in het kader van het toezicht op naleving van de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) (Wav) de Vreemdelingenpolitie, de Inspectie SZW of de IND de au pair en/of het gastgezin hetzij met een concrete aanleiding, hetzij steekproefsgewijs aan huis kunnen bezoeken of uitnodigen voor een gesprek. Als het gastgezin de au pair werkzaamheden laat verrichten die niet voldoen aan de voorwaarden die de wet- en regelgeving stellen, is het gastgezin in overtreding en kan een bestuurlijke boete volgen.
 
-Albanië
-
 Algerije
 
 Andorra
 
-## Bijlage 13. behorend bij [artikel 3.37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37f&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000 (veilige landen van herkomst)
+## Bijlage 12a. behorend bij [artikel 4.1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.1a&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-## Bijlage 14a. IMO Bemanningslijst
+## Bijlage 13. behorend bij [artikel 3.37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37f&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000 (veilige landen van herkomst)
 
 ## Bijlage 12a. behorend bij [artikel 4.1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.1a&z=2019-04-01&g=2019-04-01), Voorschrift Vreemdelingen 2000
 
@@ -2778,6 +2782,8 @@ Andorra
 ## Bijlage 14a. IMO Bemanningslijst
 
 ### STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
+
+India
 
 Jamaica
 
@@ -2811,13 +2817,11 @@ Tunesië
 
 Vaticaanstad
 
+Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+
 Verenigde Staten
 
 Zwitserland
-
-San Marino
-
-Senegal
 
 Servië
 
@@ -2843,9 +2847,9 @@ Voorna(a)m(en) betrokkene:.........
 
 Het medisch vragenformulier (1.) wordt ingevolge [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000 ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts.
 
-Het model medisch vragenformulier (1.) wordt ingevolge [artikel 3.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000 aan de aangewezen arts aangeboden met daarbij de in deze bijlage opgenomen begeleidende brief (2.) en het (deels) door de verzoeker ingevulde registratieformulier/toestemmingsverklaring (3.)
+**Voor wie is het medisch vragenformulier bestemd en wie vult deze in?**
 
-**Kruis hieronder enkel aan welke van de onderstaande type-aandoening of aandoeningen van toepassing is /zijn en beantwoord de hierbij gestelde vragen.**
+Het medisch vragenformulier (1.) wordt ingevolge [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000 ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts.
 
 ### Bijlage:. STAPPEN
 
@@ -2853,11 +2857,11 @@ Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburg
 
 ### STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
 
+Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburgering waarbij **medische omstandigheden** een rol spelen. **Niet-medische** omstandigheden (zoals bijvoorbeeld analfabetisme) die in de aanvraagprocedure worden aangevoerd, worden door de Immigratie- en Naturalisatiedienst ook meegewogen bij de beoordeling van het verzoek om ontheffing. U hoeft hier als medicus niks over op te merken. Graag hier aangeven van welke medische informatie gebruik is gemaakt voor het onderzoek
+
+Graag ontvang ik van u de antwoorden op de relevante vragen.
+
 **Kruis hieronder enkel aan welke van de onderstaande type-aandoening of aandoeningen van toepassing is /zijn en beantwoord de hierbij gestelde vragen.**
-
-Middels ondertekening van het registratieformulier -tevens toestemmingsverklaring- heeft deze persoon op ............................... (datum) ook toestemming gegeven voor het beschikbaar stellen van dit ingevuld vragenformulier aan de Immigratie- en Naturalisatiedienst (IND) in Nederland, door tussenkomst van de ambassade/het consulaat.
-
-De beoordeling of er reden is voor ontheffing van (onderdelen van) het basisexamen inburgering wordt gedaan door de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Justitie en Veiligheid in Nederland. Medische omstandigheden worden hierbij betrokken. Een duidelijke beantwoording door u van de vragenlijst over de medische aandoening(en) is dan ook erg belangrijk.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2016-02-25&g=2016-02-25), Voorschrift Vreemdelingen 2000
 
@@ -2913,7 +2917,7 @@ De beoordeling of er reden is voor ontheffing van (onderdelen van) het basisexam
 
 ##### Artikel 4.12a
 
-Als de landen, bedoeld in [artikel 4.46, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46), zijn aangewezen de landen, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.18&z=2020-12-24&g=2020-12-24).
+Als de landen, bedoeld in [artikel 4.46, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46), zijn aangewezen de landen, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.18&z=2021-01-01&g=2021-01-01).
 
 ### Afdeling 2. Verplichtingen van de referent
 
@@ -2968,17 +2972,17 @@ Als de landen, bedoeld in [artikel 4.46, tweede lid, van het Besluit](https://we
 
 Lidstaten van de EU
 
-## Bijlage 7a3. behorend bij [artikel 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24)
+## Bijlage 7a2. behorend bij [artikel 3.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01)
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-## Bijlage 7e4. Verblijfsrecht voor onbepaalde tijd onder het Terugtrekkingsakkoord
+## Bijlage 7e3. Verblijfsrecht voor bepaalde tijd onder het Terugtrekkingsakkoord (economisch actief)
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
 Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.
 
-## Bijlage 7i. sticker Verblijfsaantekeningen Vervolgprocedures
+## Bijlage 7h. sticker Verblijfsaantekeningen Gemeenschapsonderdanen
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
@@ -2988,15 +2992,15 @@ Armenië
 
 ### STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
 
+Het model medisch vragenformulier (1.) wordt ingevolge [artikel 3.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000 aan de aangewezen arts aangeboden met daarbij de in deze bijlage opgenomen begeleidende brief (2.) en het (deels) door de verzoeker ingevulde registratieformulier/toestemmingsverklaring (3.)
+
+### 1. Standaard medisch vragenformulier (in te vullen door aangewezen arts)
+
 **Betreft:**
-
-### 2. Standaardbrief voor de arts betreffende zijn/haar rol in het kader van de ontheffing basisexamen inburgering buitenland
-
-Graag ontvang ik van u de antwoorden op de relevante vragen.
 
 ### Bijlage:. STAPPEN
 
-Plaatsnaam, datum
+Middels ondertekening van het registratieformulier -tevens toestemmingsverklaring- heeft deze persoon op ............................... (datum) ook toestemming gegeven voor het beschikbaar stellen van dit ingevuld vragenformulier aan de Immigratie- en Naturalisatiedienst (IND) in Nederland, door tussenkomst van de ambassade/het consulaat.
 
 ## Bijlage 21. behorend bij [artikel 3.34l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34l&z=2016-10-01&g=2016-10-01), Voorschrift Vreemdelingen 2000
 
@@ -3059,7 +3063,7 @@ De erkenning als referent kan worden ingetrokken indien:
 
 ### Afdeling 1. Uitzetting en overdracht
 
-### Hoofdstuk 7. Algemene en slotbepalingen
+### Hoofdstuk 6. Vertrek en uitzetting
 
 ## Bijlage 1a. , behorend bij [artikel 2.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1a&z=2016-11-01&g=2016-11-01), Voorschrift Vreemdelingen 2000
 
@@ -3069,17 +3073,17 @@ Vervallen
 
 Lidstaten van de EER
 
-## Bijlage 7b. Document II
+## Bijlage 7a3. behorend bij [artikel 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01)
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
-## Bijlage 7e5. Grensarbeider onder het Terugtrekkingsakkoord
+## Bijlage 7e4. Verblijfsrecht voor onbepaalde tijd onder het Terugtrekkingsakkoord
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
 **In dit kader verklaart de ondergetekende, verder te noemen gastgezin, als volgt:**
 
-## Bijlage 7j
+## Bijlage 7i. sticker Verblijfsaantekeningen Vervolgprocedures
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
@@ -3179,17 +3183,17 @@ In aanvulling op [artikel 3.75, eerste lid, van het Besluit](https://wetten.over
 
 Lidstaten van de EU
 
-## Bijlage 7c. Document III
+## Bijlage 7b. Document II
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-## Bijlage 7e6. Document EU/EER – artikel 8 [Richtlijn 2004/38/EG](32004L0038)
+## Bijlage 7e5. Grensarbeider onder het Terugtrekkingsakkoord
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
 Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.
 
-## Bijlage 7k
+## Bijlage 7j
 
 ### Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten)
 
@@ -3201,7 +3205,7 @@ Albanië
 
 ### 2. Standaardbrief voor de arts betreffende zijn/haar rol in het kader van de ontheffing basisexamen inburgering buitenland
 
-U hebt aan de Nederlandse ambassade/het consulaat-generaal laten weten dat u bereid bent om een medische keuring te doen bij personen die medische ontheffing wensen van (onderdelen van) het basisexamen inburgering. Dit document is bedoeld om u nadere informatie te geven over het examen en de ontheffingsprocedure.
+Plaatsnaam, datum
 
 ## Bijlage 23. behorend bij [artikel 7.2a, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.2a&z=2016-10-01&g=2016-10-01), Voorschrift Vreemdelingen 2000
 
@@ -3258,21 +3262,21 @@ Met het toezicht op de naleving en de uitvoering van de Schengengrenscode en de 
 
 ### **Niet MVV-plichtig**
 
-Lidstaten van de EER
+Lidstaten van de EU
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
-## Bijlage 7e7. Document EU/EER – artikel 10 [Richtlijn 2004/38/EG](32004L0038)
+## Bijlage 7e6. Document EU/EER – artikel 8 [Richtlijn 2004/38/EG](32004L0038)
 
 ### Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten)
 
 **In dit kader verklaart de ondergetekende, verder te noemen gastgezin, als volgt:**
 
-## Bijlage 7l. behorend bij [artikel 3.1, zes lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 7k
 
 ### Lidstaten van de EER
 
-Algerije
+Albanië
 
 ## Bijlage 14a. IMO Bemanningslijst
 
@@ -3280,7 +3284,7 @@ Algerije
 
 ### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
-De beoordeling of er reden is voor ontheffing van (onderdelen van) het basisexamen inburgering wordt gedaan door de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Justitie en Veiligheid in Nederland. Medische omstandigheden worden hierbij betrokken. Een duidelijke beantwoording door u van de vragenlijst over de medische aandoening(en) is dan ook erg belangrijk.
+Geachte heer/mevrouw,
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2016-11-01&g=2016-11-01), Voorschrift Vreemdelingen 2000
 
@@ -3295,11 +3299,11 @@ De beoordeling of er reden is voor ontheffing van (onderdelen van) het basisexam
 | Het National Academic Research and Collaborations Information System | Vermelding van de onderzoeksinstelling in het informatiesysteem |
 | Register Normering Arbeid | Vermelding van het uitzendbureau in het register |
 
+Algerije
+
 Andorra
 
 Armenië
-
-Australië
 
 ## Bijlage 14a. IMO Bemanningslijst
 
@@ -3309,15 +3313,15 @@ Australië
 
 ### STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
 
-### Bijlage:. STAPPEN
+### 2. Standaardbrief voor de arts betreffende zijn/haar rol in het kader van de ontheffing basisexamen inburgering buitenland
 
 ### Bijlage:. STAPPEN
+
+U hebt aan de Nederlandse ambassade/het consulaat-generaal laten weten dat u bereid bent om een medische keuring te doen bij personen die medische ontheffing wensen van (onderdelen van) het basisexamen inburgering. Dit document is bedoeld om u nadere informatie te geven over het examen en de ontheffingsprocedure.
+
+De beoordeling of er reden is voor ontheffing van (onderdelen van) het basisexamen inburgering wordt gedaan door de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Justitie en Veiligheid in Nederland. Medische omstandigheden worden hierbij betrokken. Een duidelijke beantwoording door u van de vragenlijst over de medische aandoening(en) is dan ook erg belangrijk.
 
 Het is niet de bedoeling dat u zelf een oordeel geeft over het verzoek om ontheffing van het basisexamen.
-
-Het behalen van het basisexamen inburgering is een van de voorwaarden voor toelating tot Nederland. Dit betekent dat de betrokkene vóór zijn/haar komst naar Nederland kennis op basisniveau moet hebben van de Nederlandse samenleving en van de Nederlandse taal (A1-niveau van het Europees Raamwerk voor Moderne Vreemde Talen (lezen en spreken). A1-niveau houdt in dat betrokkene vertrouwde dagelijkse uitdrukkingen en basiszinnen, gericht op concrete behoeften, kan begrijpen en gebruiken. Hij/zij kan zichzelf aan anderen voorstellen en kan vragen stellen en beantwoorden over persoonlijke gegevens zoals waar hij/zij woont, mensen die hij/zij kent en dingen die hij/zij bezit. Hij/zij kan op een simpele wijze reageren, als de andere persoon langzaam en duidelijk praat en bereid is om te helpen.
-
-Het basisexamen inburgering wordt afgelegd bij de Nederlandse ambassade/het Nederlandse consulaat en bestaat uit drie onderdelen:
 
 ## Bijlage 21. behorend bij [artikel 3.34l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34l&z=2016-11-01&g=2016-11-01), Voorschrift Vreemdelingen 2000
 
@@ -3354,7 +3358,7 @@ Het basisexamen inburgering wordt afgelegd bij de Nederlandse ambassade/het Nede
 | Het National Academic Research and Collaborations Information System | Vermelding van de onderzoeksinstelling in het informatiesysteem |
 | Register Normering Arbeid | Vermelding van het uitzendbureau in het register |
 
-Bosnië-Herzegovina
+Australië
 
 ## Bijlage 14c. IMO Passagierslijst
 
@@ -3364,7 +3368,7 @@ Bosnië-Herzegovina
 
 ### Bijlage:. STAPPEN
 
-De examenonderdelen kunnen los van elkaar worden afgelegd. Het is **niet**nodig om te kunnen schrijven. Het is bovendien **niet** nodig om te kunnen lezen om de onderdelen Spreekvaardigheid en Kennis van de Nederlandse Samenleving te kunnen behalen.
+Het behalen van het basisexamen inburgering is een van de voorwaarden voor toelating tot Nederland. Dit betekent dat de betrokkene vóór zijn/haar komst naar Nederland kennis op basisniveau moet hebben van de Nederlandse samenleving en van de Nederlandse taal (A1-niveau van het Europees Raamwerk voor Moderne Vreemde Talen (lezen en spreken). A1-niveau houdt in dat betrokkene vertrouwde dagelijkse uitdrukkingen en basiszinnen, gericht op concrete behoeften, kan begrijpen en gebruiken. Hij/zij kan zichzelf aan anderen voorstellen en kan vragen stellen en beantwoorden over persoonlijke gegevens zoals waar hij/zij woont, mensen die hij/zij kent en dingen die hij/zij bezit. Hij/zij kan op een simpele wijze reageren, als de andere persoon langzaam en duidelijk praat en bereid is om te helpen.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2016-12-01&g=2016-12-01), Voorschrift Vreemdelingen 2000
 
@@ -3454,25 +3458,21 @@ De examenonderdelen kunnen los van elkaar worden afgelegd. Het is **niet**nodig 
 
 ### **Niet MVV-plichtig**
 
-Australië
+Lidstaten van de EER
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-## Bijlage 7e8. Document EU/EER – artikel 19 [Richtlijn 2004/38/EG](32004L0038)
+## Bijlage 7e7. Document EU/EER – artikel 10 [Richtlijn 2004/38/EG](32004L0038)
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
 Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kennis te maken met de Nederlandse cultuur en samenleving. Het gastgezin biedt de au pair kost en inwoning en een maandelijks onderling overeen te komen bedrag aan zakgeld. In ruil voor de faciliteiten die het gastgezin biedt, verleent de au pair hulp in de huishouding van alleen het gastgezin, en/of bij het opvangen en verzorgen van eventuele kinderen van dit gezin. Het gaat dan om lichte werkzaamheden in de huishouding en/of de opvang en verzorging van eventuele kinderen, niet om werk waarvoor een tewerkstellingsvergunning (twv) of gecombineerde vergunning voor verblijf en arbeid vereist is. Dit betekent dat de au pair alleen die werkzaamheden mag verrichten waarvoor in zijn/haar aanwezigheid steeds een aantoonbaar alternatief voorhanden is. Dat betekent dus dat een au pair niet alleen verantwoordelijk mag zijn voor de opvang van kinderen maar dat er bijvoorbeeld een ouder of grootouder aanwezig (of direct beschikbaar) is die verantwoordelijk is. Het ondersteunende karakter van het werk houdt tevens in dat de au pair niet volledig verantwoordelijk is voor de huishoudelijke taken. De au pair verblijft immers op basis van gelijkheid (met de gezinsleden) in het gastgezin.
 
-## Bijlage 8. behorend bij [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.8&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen (afzonderlijk inlegblad)
-
-model 1994
-
-model 1997
+## Bijlage 7l. behorend bij [artikel 3.1, zes lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.1&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
 ### Inleiding
 
-Brazilië
+Bosnië-Herzegovina
 
 ## Bijlage 14d. IMO Passenger List
 
@@ -3480,7 +3480,7 @@ Brazilië
 
 ### Bijlage:. STAPPEN
 
-Het examen wordt via een computer met headset afgenomen. Het afleggen van het gehele examen (drie onderdelen) duurt maximaal 95 minuten. Het afleggen van de onderdelen Kennis van de Nederlandse Samenleving en Spreekvaardigheid duurt elk maximaal 30 minuten. Het afleggen van het onderdeel Leesvaardigheid duurt maximaal 35 minuten.
+Het basisexamen inburgering wordt afgelegd bij de Nederlandse ambassade/het Nederlandse consulaat en bestaat uit drie onderdelen:
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2017-01-01&g=2017-01-01), Voorschrift Vreemdelingen 2000
 
@@ -3543,17 +3543,21 @@ Het examen wordt via een computer met headset afgenomen. Het afleggen van het ge
 
 ### **Niet MVV-plichtig**
 
-Canada
+Australië
 
-## Bijlage 7e9. Document EU/EER – artikel 20 [Richtlijn 2004/38/EG](32004L0038)
+## Bijlage 7e8. Document EU/EER – artikel 19 [Richtlijn 2004/38/EG](32004L0038)
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
-## Bijlage 8a. behorend bij [artikel 3.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20a&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 8. behorend bij [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=1&artikel=3.8&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen (afzonderlijk inlegblad)
+
+model 1994
+
+model 1997
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-Canada
+Brazilië
 
 ## Bijlage 15. behorend bij [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2018-07-01&g=2018-05-25), Voorschrift Vreemdelingen
 
@@ -3561,7 +3565,7 @@ Canada
 
 ### Bijlage:. STAPPEN
 
-Voor de voorbereiding op de verschillende onderdelen van het basisexamen is een studiepakket beschikbaar. Dit studiepakket is verkrijgbaar in 34 talen. Het is een zelfstudiemethode. Het materiaal is ook geschikt voor analfabeten en personen die alleen een ander schrift beheersen.
+De examenonderdelen kunnen los van elkaar worden afgelegd. Het is **niet**nodig om te kunnen schrijven. Het is bovendien **niet** nodig om te kunnen lezen om de onderdelen Spreekvaardigheid en Kennis van de Nederlandse Samenleving te kunnen behalen.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2017-04-05&g=2017-04-05), Voorschrift Vreemdelingen 2000
 
@@ -3649,17 +3653,15 @@ Middelen van bestaan zijn duurzaam, indien deze op het tijdstip waarop de aanvra
 
 ### **Niet MVV-plichtig**
 
-Japan
+Canada
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-## Bijlage 9. , behorend bij artikel 3.22 Voorschrift Vreemdelingen
+## Bijlage 8a. behorend bij [artikel 3.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20a&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-Vervallen
+### Criterium persoonlijke ervaring (minimum score 30 punten)
 
-### Criterium ondernemingsplan (minimum score 30 punten)
-
-Georgië
+Canada
 
 ## Bijlage 16. behorend bij [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2018-07-01&g=2018-05-25), Voorschrift Vreemdelingen
 
@@ -3667,7 +3669,7 @@ Georgië
 
 ### Bijlage:. STAPPEN
 
-Het onderdeel Kennis van de Nederlandse Samenleving toetst kennis over Nederland. Ter voorbereiding op het examen is een film beschikbaar. De film is ingesproken in 34 talen en er is een versie in het Nederlands. Bij de film hoort een fotoboek met een audio-cd. In het fotoboek staan 100 genummerde foto’s met beelden uit de film. Bij elke foto hoort een vraag en moet gekozen worden uit twee antwoorden. De vragen en antwoorden kunnen op de cd in het Nederlands beluisterd worden. Dit examenonderdeel bestaat uit 30 vragen die gekozen zijn uit de 100 vragen van het fotoboek en de cd. Op het examen ziet de kandidaat foto’s en leest de vragen. De vragen worden ook uitgesproken in een langzaam spreektempo. De kandidaat ziet en hoort twee antwoordmogelijkheden en moet het juiste antwoord aanklikken met de muis.
+Het examen wordt via een computer met headset afgenomen. Het afleggen van het gehele examen (drie onderdelen) duurt maximaal 95 minuten. Het afleggen van de onderdelen Kennis van de Nederlandse Samenleving en Spreekvaardigheid duurt elk maximaal 30 minuten. Het afleggen van het onderdeel Leesvaardigheid duurt maximaal 35 minuten.
 
 ## Bijlage 21. behorend bij [artikel 3.34l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34l&z=2017-04-05&g=2017-04-05), Voorschrift Vreemdelingen 2000
 
@@ -3680,7 +3682,7 @@ Het onderdeel Kennis van de Nederlandse Samenleving toetst kennis over Nederland
 
 ##### Artikel 4.4a
 
-1. De gezagvoerder, scheepsagent, of een ander door de gezagvoerder naar behoren gemachtigd persoon van een zeeschip of ander schip, daaronder begrepen schepen die vanuit Nederlandse havens veerverbindingen met havens in derde landen verzorgen, zendt de in [artikel 4.11 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) en [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.4&z=2020-12-24&g=2020-12-24) bedoelde gegevens elektronisch aan het hoofd van de grensdoorlaatpost via een elektronisch platform waarvoor de autoriteit belast met grenstoezicht het Nederlandse Maritiem Single Window heeft aangewezen.
+1. De gezagvoerder, scheepsagent, of een ander door de gezagvoerder naar behoren gemachtigd persoon van een zeeschip of ander schip, daaronder begrepen schepen die vanuit Nederlandse havens veerverbindingen met havens in derde landen verzorgen, zendt de in [artikel 4.11 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) en [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.4&z=2021-01-01&g=2021-01-01) bedoelde gegevens elektronisch aan het hoofd van de grensdoorlaatpost via een elektronisch platform waarvoor de autoriteit belast met grenstoezicht het Nederlandse Maritiem Single Window heeft aangewezen.
 
 2. De gegevens worden, onverminderd specifieke bepalingen betreffende aanmelding opgenomen in andere toepasselijke wet- en regelgeving, door de gezagvoerder, scheepsagent of een andere, door de gezagvoerder naar behoren gemachtigd persoon, verstuurd aan het hoofd van de grensdoorlaatpost:
 
@@ -3700,7 +3702,7 @@ Het onderdeel Kennis van de Nederlandse Samenleving toetst kennis over Nederland
 
 #### Paragraaf 2. Administratieplichten
 
-### Hoofdstuk 6. Vertrek en uitzetting
+### Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
 ### Afdeling 2. Verhaal kosten van uitzetting
 
@@ -3749,7 +3751,7 @@ Het onderdeel Kennis van de Nederlandse Samenleving toetst kennis over Nederland
 
 ### **Niet MVV-plichtig**
 
-Monaco
+Japan
 
 ### Criterium persoonlijke ervaring (minimum score 30 punten)
 
@@ -3757,9 +3759,9 @@ Monaco
 
 Vervallen
 
-### Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten)
+### Criterium ondernemingsplan (minimum score 30 punten)
 
-Ghana
+Georgië
 
 ## Bijlage 17a. behorend bij [artikel 7.1, eerste lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2018-07-01&g=2018-05-25)
 
@@ -3767,7 +3769,7 @@ Ghana
 
 ### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
-Het onderdeel Spreekvaardigheid bestaat uit 24 vragen. Alle vragen die op het examen gesteld kunnen worden, zijn beschikbaar als oefenmateriaal zodat iemand zich goed kan voorbereiden op het examen.
+Voor de voorbereiding op de verschillende onderdelen van het basisexamen is een studiepakket beschikbaar. Dit studiepakket is verkrijgbaar in 34 talen. Het is een zelfstudiemethode. Het materiaal is ook geschikt voor analfabeten en personen die alleen een ander schrift beheersen.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2017-04-27&g=2017-09-01), Voorschrift Vreemdelingen 2000
 
@@ -3782,7 +3784,7 @@ Het onderdeel Spreekvaardigheid bestaat uit 24 vragen. Alle vragen die op het ex
 | Het National Academic Research and Collaborations Information System | Vermelding van de onderzoeksinstelling in het informatiesysteem |
 | Register Normering Arbeid | Vermelding van het uitzendbureau in het register |
 
-India
+Ghana
 
 ## Bijlage 17b. behorend bij [artikel 7.1, tweede lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2018-07-01&g=2018-05-25)
 
@@ -3790,7 +3792,7 @@ India
 
 ### Bijlage:. STAPPEN
 
-Het examen Leesvaardigheid bestaat uit de onderdelen ‘woorden lezen en naar woorden luisteren’ en ‘teksten lezen en vragen maken’. De vragen zijn meerkeuzevragen waarbij de antwoorden moeten worden aangeklikt met de muis.
+Het onderdeel Kennis van de Nederlandse Samenleving toetst kennis over Nederland. Ter voorbereiding op het examen is een film beschikbaar. De film is ingesproken in 34 talen en er is een versie in het Nederlands. Bij de film hoort een fotoboek met een audio-cd. In het fotoboek staan 100 genummerde foto’s met beelden uit de film. Bij elke foto hoort een vraag en moet gekozen worden uit twee antwoorden. De vragen en antwoorden kunnen op de cd in het Nederlands beluisterd worden. Dit examenonderdeel bestaat uit 30 vragen die gekozen zijn uit de 100 vragen van het fotoboek en de cd. Op het examen ziet de kandidaat foto’s en leest de vragen. De vragen worden ook uitgesproken in een langzaam spreektempo. De kandidaat ziet en hoort twee antwoordmogelijkheden en moet het juiste antwoord aanklikken met de muis.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2018-05-03&g=2018-05-03), Voorschrift Vreemdelingen 2000
 
@@ -3813,9 +3815,9 @@ Het examen Leesvaardigheid bestaat uit de onderdelen ‘woorden lezen en naar wo
 
 ### Bijlage:. STAPPEN
 
-Het kan voorkomen dat door een medische aandoening een persoon langdurig (periode van drie jaar) niet in staat is om te oefenen voor het basisexamen inburgering buitenland of om het basisexamen af te leggen.
+Het onderdeel Spreekvaardigheid bestaat uit 24 vragen. Alle vragen die op het examen gesteld kunnen worden, zijn beschikbaar als oefenmateriaal zodat iemand zich goed kan voorbereiden op het examen.
 
-Voor wat betreft lichamelijke medische aandoeningen gaat het met name om blindheid en doofheid. Tevens kan onder meer gedacht worden aan een spraakgebrek dat de menselijke communicatie verhindert en het afleggen van het examen onmogelijk maakt. Onder blindheid of doofheid valt mede slechtziendheid en hardhorendheid, indien de persoon niet met eigen hulpmiddelen (bijvoorbeeld een bril of hoorapparaat) alsnog voldoende gezichts- of hoorvermogen krijgt om het examen te kunnen afleggen.
+Het examen Leesvaardigheid bestaat uit de onderdelen ‘woorden lezen en naar woorden luisteren’ en ‘teksten lezen en vragen maken’. De vragen zijn meerkeuzevragen waarbij de antwoorden moeten worden aangeklikt met de muis.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2018-07-01&g=2018-05-25), Voorschrift Vreemdelingen 2000
 
@@ -3887,13 +3889,13 @@ Een op 1 oktober 2017 geldige verblijfsvergunning voor bepaalde tijd regulier, v
 
 ### **Niet MVV-plichtig**
 
-Nieuw-Zeeland
+Monaco
 
 ### Criterium ondernemingsplan (minimum score 30 punten)
 
 ## Bijlage 10a. behorend bij [artikel 3.24, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24&z=2020-10-03&g=2020-10-03), Voorschrift Vreemdelingen 2000
 
-### Inleiding
+### Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten)
 
 ## Bijlage 14a. IMO Bemanningslijst
 
@@ -3903,7 +3905,7 @@ Nieuw-Zeeland
 
 ### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
-Voor wat betreft psychiatrische medische aandoeningen en verstandelijke handicaps gaat het met name om aandoeningen die een langdurig en ernstig gebrek aan cognitieve vaardigheden (leervermogen) veroorzaken, waardoor iemand niet in staat is om te oefenen voor (onderdelen van) het basisexamen of om (onderdelen van) het basisexamen af te leggen.
+Het kan voorkomen dat door een medische aandoening een persoon langdurig (periode van drie jaar) niet in staat is om te oefenen voor het basisexamen inburgering buitenland of om het basisexamen af te leggen.
 
 ## Bijlage 22. behorend bij [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=6&afdeling=2&artikel=6.2a&z=2018-07-01&g=2018-05-25) Voorschrift Vreemdelingen 2000
 
@@ -3972,7 +3974,7 @@ Vervallen
 
 ### **Niet MVV-plichtig**
 
-Vaticaanstad
+Nieuw-Zeeland
 
 ## Bijlage 8aa. behorend bij [artikel 3.20a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20a&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
 
@@ -3997,15 +3999,19 @@ Vaticaanstad
 
 ### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
-Vanzelfsprekend zijn er in de praktijk meer medische aandoeningen dan hierboven genoemd. In de bijlage treft u een lijst aan met voorbeelden van dergelijke aandoeningen.
+Voor wat betreft lichamelijke medische aandoeningen gaat het met name om blindheid en doofheid. Tevens kan onder meer gedacht worden aan een spraakgebrek dat de menselijke communicatie verhindert en het afleggen van het examen onmogelijk maakt. Onder blindheid of doofheid valt mede slechtziendheid en hardhorendheid, indien de persoon niet met eigen hulpmiddelen (bijvoorbeeld een bril of hoorapparaat) alsnog voldoende gezichts- of hoorvermogen krijgt om het examen te kunnen afleggen.
 
 ## Bijlage 23. behorend bij [artikel 7.2a, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.2a&z=2018-07-01&g=2018-05-25), Voorschrift Vreemdelingen 2000
 
 ### 2. Ondertekening (door de vreemdeling)
 
-## Bijlage 12a. behorend bij [artikel 4.1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.1a&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 12. Antecedentenverklaring
 
 ### Lidstaten van de EER
+
+## Bijlage 14a. IMO Bemanningslijst
+
+## Bijlage 14b. IMO Crew List
 
 ## Bijlage 14a. IMO Bemanningslijst
 
@@ -4015,25 +4021,23 @@ Vanzelfsprekend zijn er in de praktijk meer medische aandoeningen dan hierboven 
 
 ## Bijlage 14d. IMO Passenger List
 
-## Bijlage 15. behorend bij [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen
+## Bijlage 15. behorend bij [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen
 
-## Bijlage 16. behorend bij [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen
+## Bijlage 16. behorend bij [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen
 
-## Bijlage 17a. behorend bij [artikel 7.1, eerste lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-12-24&g=2020-12-24)
+## Bijlage 17a. behorend bij [artikel 7.1, eerste lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2021-01-01&g=2021-01-01)
 
-## Bijlage 17b. behorend bij [artikel 7.1, tweede lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-12-24&g=2020-12-24)
+## Bijlage 17b. behorend bij [artikel 7.1, tweede lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2021-01-01&g=2021-01-01)
 
-## Bijlage 17c. behorend bij [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen
+## Bijlage 17c. behorend bij [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen
 
-## Bijlage 17d. behorend bij [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen
-
-## Bijlage 18. , behorend bij [artikel 3.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.33a&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen
-
-Vervallen
-
-## Bijlage 19. behorend bij [artikel 3.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 17d. behorend bij [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen
 
 ### STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
+
+Voor wat betreft psychiatrische medische aandoeningen en verstandelijke handicaps gaat het met name om aandoeningen die een langdurig en ernstig gebrek aan cognitieve vaardigheden (leervermogen) veroorzaken, waardoor iemand niet in staat is om te oefenen voor (onderdelen van) het basisexamen of om (onderdelen van) het basisexamen af te leggen.
+
+Vanzelfsprekend zijn er in de praktijk meer medische aandoeningen dan hierboven genoemd. In de bijlage treft u een lijst aan met voorbeelden van dergelijke aandoeningen.
 
 De persoon die als gevolg van (een) medische aandoening(en) langdurig niet in staat is het basisexamen inburgering af te leggen of hiervoor te oefenen, kan ontheffing krijgen van (een deel van) het examen. Bij de persoon die hier niet aan voldoet, maar die wel (een) medische aandoening(en) heeft, zal dit samen met de overige individuele en bijzondere omstandigheden betrokken worden bij de beoordeling van het verzoek om ontheffing door de Immigratie- en Naturalisatiedienst.
 
@@ -4047,21 +4051,17 @@ Deze deskundige dient de betreffende persoon zelf te onderzoeken en van deze exp
 
 Uw contactpersoon op de Nederlandse ambassade/het consulaat is de consul/het hoofd van de Consulaire Afdeling; de heer/mevrouw ......................, ...................., functie .............................
 
-In geval van problemen of vragen kunt u te allen tijde met hem/haar contact opnemen.
+### Bijlage:. STAPPEN
 
 De ambassadeur,
 
-### Bijlage:. STAPPEN
+### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
 Handtekening: …………………………………….
 
-### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
+Naam en functie: …………………………………….
 
 Verzoekt u akkoord te gaan met bovenstaande procedure en ter bevestiging onderstaand uw handtekening te plaatsen en een exemplaar te retourneren aan de Nederlandse ambassade/het Nederlandse consulaat.
-
-*** In de bijlage treft u in chronologische volgorde de te volgen stappen aan.**
-
-Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts/deskundige in het kader van een verzoek tot ontheffing basisexamen inburgering buitenland. In te vullen door verzoeker van ontheffing (mede) vanwege medische indicatie.
 
 ## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2019-03-09&g=2019-03-09), Voorschrift Vreemdelingen 2000
 
@@ -4115,7 +4115,7 @@ Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts
 
 ##### Artikel 3.34ha
 
-1. Ter zake van de afdoening van een aanvraag om toetsing aan het terugtrekkingsakkoord en afgifte van het daaraan verbonden verblijfsdocument, is de vreemdeling een bedrag van € 58 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag om toetsing aan het terugtrekkingsakkoord en afgifte van het daaraan verbonden verblijfsdocument, is de vreemdeling een bedrag van € 64 verschuldigd.
 
 2. In afwijking van het eerste lid is de vreemdeling geen leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsdocument als bedoeld in artikel 19 van het terugtrekkingsakkoord indien de vreemdeling die deze aanvraag indient reeds in het bezit is van een document, waaruit het verblijfsrecht als bedoeld in [artikel 8.17 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17) blijkt.
 
@@ -4141,7 +4141,7 @@ Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts
 
 ### Hoofdstuk 6. Vertrek en uitzetting
 
-### Afdeling 2. Verhaal kosten van uitzetting
+### Afdeling 1. Uitzetting en overdracht
 
 ### Hoofdstuk 7. Algemene en slotbepalingen
 
@@ -4191,56 +4191,56 @@ Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts
 
 ### **Niet MVV-plichtig**
 
+Vaticaanstad
+
 Verenigd Koninkrijk van Groot Brittannië en Noord-Ierland
 
-Verenigde Staten
+## Bijlage 8aa. behorend bij [artikel 3.20a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20a&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-## Bijlage 8b. behorende bij [artikel 3.20b, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20b&z=2020-12-24&g=2020-12-24), van het Voorschrift Vreemdelingen 2000
-
-| 1. Beoordeling van de deskundige begeleider | 1. Beoordeling van de deskundige begeleider | 1. Beoordeling van de deskundige begeleider |
+| Criterium | Invulling | Toelichting |
 | --- | --- | --- |
-| Onderwerp | Toetsingscriterium | Toelichting |
-| **Voortoets** | De begeleider krijgt opnieuw een positief advies als deze niet langer dan een jaar voor indiening van de aanvraag van de startende ondernemer een positief advies voor zijn begeleiding heeft gekregen. | Een eerder positief advies van de Rijksdienst voor Ondernemend Nederland (RVO) dat niet ouder is dan een jaar leidt zonder verdere toetsing wederom tot een positief advies. De betrouwbaarheid en de deskundigheid van de begeleider worden door de RVO in dat geval aangenomen. Een eerder afgegeven positief advies ouder dan een jaar (of nog geen eerdere toets) leidt tot een (nieuwe) toets. |
-| **1.1 Inschrijving Kamer van Koophandel** | De begeleider staat ingeschreven in het Handelsregister bij de Kamer van Koophandel. | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. Geen inschrijving betekent een negatief advies. |
-| **1.2 Deskundigheid** | a) De begeleider biedt een pakket ‘op maat’ van faciliteiten aan de startende ondernemer. b) De begeleider heeft ervaring. | a) Een pakket ‘op maat’ betekent dat de begeleider in staat is om de startende ondernemer van idee tot onderneming te begeleiden. Niet iedere ondernemer heeft dezelfde begeleiding nodig. Het pakket aan faciliteiten verschilt daarom per startende ondernemer. Faciliteiten bestaan bijvoorbeeld doch niet uitputtend uit: (toegang tot) coaching, technologie, onderzoek, bescherming intellectueel eigendom, marktonderzoek en financiering. b) Ervaring betekent minimaal twee jaar ervaring met het begeleiden van innovatieve startende ondernemers bij minimaal twee personen. Aan te tonen via bijvoorbeeld een eigen ondernemingsplan, voorbeelden van begeleide startende ondernemers, referenties en CV’s. Indien de begeleiding door verschillende personen wordt gedaan, is informatie over alle personen die begeleiden nodig. |
-| **1.3 Betrouwbaarheid** | De begeleider is financieel gezond. | De begeleider verkeert niet in surseance of faillissement en heeft een gezonde solvabiliteit en liquiditeit. Aan te tonen via bijvoorbeeld (niet uitputtend) recente jaarrekeningen en/of overeenkomsten met / garantstellingen door financiers en/of accountantsverklaringen en/of bankafschriften en/of onderbouwde financiële prognoses. |
-
-| 2. Beoordeling van de startende ondernemer | 2. Beoordeling van de startende ondernemer | 2. Beoordeling van de startende ondernemer |
-| --- | --- | --- |
-| Onderwerp | Toetsingscriterium | Toelichting |
-| **2.1 Inschrijving Kamer van Koophandel** | De startende ondernemer staat ingeschreven bij de Kamer van Koophandel. | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. De startende ondernemer moet zeggenschap in de startende onderneming hebben. Dit is van belang omdat hij beslissingen over de toekomstige onderneming moet kunnen nemen. Geen inschrijving betekent een negatief advies. |
-| **2.2 Stappenplan** | a) In het stappenplan staat beschreven wat de taak en rol is van de startende ondernemer in de startende onderneming. b) In het stappenplan staat beschreven waarom het product of dienst innovatief is. c) In het stappenplan staat beschreven welke activiteiten (stappen) de startende ondernemer verricht in het eerste jaar om van idee tot onderneming te komen. | a) De startende ondernemer moet een actieve rol hebben. Dit betekent dat de aanvrager niet alleen aandeelhouder of financier is. b) Er is sprake van innovativiteit bij aanwezigheid van minstens één van onderstaande drie aspecten: 1) Het product of de dienst is nieuw voor Nederland. 2) Er is sprake van nieuwe technologie bij productie, distributie, marketing. 3) Er is sprake van een innovatieve organisatorische opzet en werkwijze. Hierbij kan worden gedacht aan bijvoorbeeld (niet uitputtend opgesomd): – Activiteiten die in het kader van het Topsectorenbeleid worden gestimuleerd. – Zelf ontwikkelde nieuwe producten of diensten. – Originele aanpak energiebesparing. – Originele aanpak duurzaamheidsproblematiek. – Slimme en creatieve aanpassingen of combinaties ten behoeve van sector overschrijdende toepassingen. – Nieuwe product-marktcombinaties. – Creatieve of vernieuwende marktbenadering. – Sociale innovatie. – Introductie maatschappelijk verantwoord ondernemen. |
-| **2.3 Overeenkomst met begeleider** | a) In de overeenkomst is de aard van de begeleiding beschreven. b) De voorwaarden van de overeenkomst mogen niet nadelig of belemmerend zijn voor een gezonde ontwikkeling van de startende ondernemer. c) De begeleider mag geen meerderheidsbelang hebben in de startende onderneming. d) De overeenkomst is door beide partijen (begeleider en startende ondernemer) ondertekend. | a) De begeleiding moet op maat zijn (zie 1.2. onder a). b) Er mag geen sprake zijn van ‘wurgcontracten’. c) Uit de overeenkomst wordt duidelijk welk belang de begeleider heeft in de startende onderneming. d) De begeleider moet bevoegd zijn om de overeenkomst te ondertekenen. |
+| **De onderneming voorziet in een behoefte in Nederland** | Er is sprake van een zodanige markt voor de producten / diensten van de aanvrager, dat de onderneming levensvatbaar is. Dit betekent dat de onderneming een zodanig resultaat behaalt dat de ondernemer minimaal het bruto minimumloon aan de onderneming kan onttrekken. | In het geval van een V.O.F. geldt dat iedere vennoot minimaal het bruto minimumloon kan onttrekken; bij een B.V. iedere eigenaar. In het geval van toetreding tot een bestaande onderneming, geldt bovenstaande ook en geldt dat het marginale aandeel van de zittende vennoten / eigenaren niet verslechtert. In het geval van een negatief eigen vermogen en geen aannemelijke vooruitzichten op een positieve kentering wordt uitgegaan van een gebrek aan continuïteitsperspectief en dit leidt tot een negatief advies. |
+|   |   |   |
+|   |   | De behoefte in Nederland en de levensvatbaarheid worden met de volgende bescheiden aangetoond: Ondernemingsplan, waarin minimaal de volgende onderwerpen zijn opgenomen: – persoonlijke gegevens van de ondernemer; – het product of de dienst en wat het unieke daarvan is; – een marktanalyse toegespitst op het eigen product of dienst; – de organisatie; – de (openings)balans; – de omzet- en liquiditeitsprognose inclusief berekeningen; en – een specificatie en begroting arbeidscreatie en investeringen (indien aanwezig). |
+|   |   |   |
+|   |   | Nadere toelichting bij de gevraagde bescheiden: • De marktanalyse bevat minimaal informatie over de kenmerken van de specifieke markt, de doelgroep, de concurrentie (het onderscheidend vermogen), potentieel marktaandeel, marketing, risico’s, prijsbeleid. Voor onderbouwing van de marktanalyse moeten de volgende bewijsmiddelen toegevoegd worden: – Branchegegevens van de specifieke markt, waarop de onderneming zich richt; – Prognoses van balansen, omzetten en resultaten; – Kopieën van concrete (omvang in tijd en geld) intentieverklaringen van toekomstige opdrachtgevers; eventuele al verkregen opdrachten; – gegevens ter onderbouwing van de competenties van de ondernemer zoals: ○ een kopie van referenties en arbeidsovereenkomst(en) van de voormalige dienstbetrekking(en); ○ kopieën van behaalde diploma’s. Betreft het een buitenlands diploma? Dan moet deze voorzien zijn van een waardering van Nuffic/stichting Samenwerking Beroepsonderwijs Bedrijfsleven (SBB); |
+|   |   | • Voor onderbouwing van eventuele al gerealiseerde omzetgegevens moeten de volgende bewijsmiddelen toegevoegd worden: BTW aangiftes en -beschikkingen, definitieve jaarrekeningen en tussentijdse balansen en exploitatieoverzichten, aangiftes Inkomstenbelasting en aanslagen, loonaangiften, verkoopfacturen en bankafschriften (alleen positie aan eind verslagperiode). • Als sprake is van een BV moet een kopie van het aandelenregister en de oprichtingsakte toegevoegd worden; is sprake van een VOF/CV, dan wordt een kopie van het VOF/CV contract toegevoegd waarin minimaal staat: inbreng van vennoten, verantwoordelijkheden en het aandeel in het resultaat. • Als de vreemdeling als freelancer werkt: kopieën van intentieverklaringen en/of overeenkomst(en) van (de) opdracht(en) waaruit blijkt dat deze in opdracht als freelancer werkt. • Zowel bij een overname van als toetreding tot een bestaande onderneming zijn over meerdere jaren exploitatiecijfers van de oude situatie nodig. Financiële stukken die de aanvraag onderbouwen moeten gecontroleerd zijn door een daartoe bevoegd extern onafhankelijk deskundige (register accountant, een accountant administratieconsulent, boekhouder, of een financieel adviseur). |
+| **Er mag geen negatieve invloed op de markteconomie zijn** | De op te richten onderneming zorgt niet voor verstoring op de markt. | De actuele situatie op de specifieke markt waarop de onderneming zich begeeft, is bij de beoordeling van belang. Dit betekent dat de concurrentieverhoudingen niet verstoord worden door bijvoorbeeld prijsdumping, toetreding tot een markt met overcapaciteit, toetreding tot een markt met dalende vraag, optreden als extra schakel op al bestaand sectorkolomniveau (toelevering aan gelijksoortige ondernemingen, ook wederzijds). Bij branches die na een dip weer aantrekken, zal worden gekeken naar de mate van groeiverwachting in relatie tot eventuele bestaande overcapaciteit. Er is ook sprake van een negatief gevolg voor de markteconomie als de (verwachte) resultaten onder de norm van het bruto minimumloon liggen en de ondernemer grote kans loopt zijn onderneming te moeten staken. De ondernemer zal dan uiteindelijk in het sociale vangnet terecht kunnen komen, wat geen bijdrage aan de markteconomie betekent. Ook wanneer de onderneming al eerder is opgestart zal de beoordeling plaatsvinden alsof het bedrijf nieuw op de markt komt. |
+| **Er mag geen negatieve invloed voor de werkgelegenheid zijn** | Toetreding tot de markt door betrokkene mag geen verstoring betekenen van de arbeidsmarkt voor werknemers en zelfstandigen. | De actuele arbeidsmarktsituatie in de branche waar betrokkene toetreedt is van belang. Toetreding tot een branche met hoge werkloosheid onder werknemers en zelfstandigen is arbeidsmarkt verstorend. Hierbij wordt ook de regio, waarin de activiteiten worden uitgevoerd mee genomen. Cijfers van UWV worden in de beoordeling betrokken. Ook toetreding tot de markt in het verleden, betekent in de toetsing nieuw op de arbeidsmarkt. |
+|   |   |   |
+|   |   | Wijziging van het werknemerschap in mede-eigendom (vennoot, aandeelhouder) kan leiden tot een negatief advies op grond van verstoring van de arbeidsmarkt indien voor en / of na omzetting geen sprake is van een geldige verblijfsvergunning. |
 
 ### Antecedentenverklaring
 
 ### Antecedentenverklaring
 
-### 1. Verklaring
+### Inleiding
 
 ### Lidstaten van de EER
 
-## Bijlage 17a. behorend bij [artikel 7.1, eerste lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-01-31&g=2020-01-31)
+## Bijlage 18. , behorend bij [artikel 3.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.33a&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen
 
-## Bijlage 15. behorend bij [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2020-04-23&g=2020-04-23), Voorschrift Vreemdelingen
+Vervallen
+
+## Bijlage 19. behorend bij [artikel 3.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.10&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
 ## Bijlage 16. behorend bij [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.5&z=2020-04-23&g=2020-04-23), Voorschrift Vreemdelingen
 
 ### 1. Standaard medisch vragenformulier (in te vullen door aangewezen arts)
 
-voor deze
+In geval van problemen of vragen kunt u te allen tijde met hem/haar contact opnemen.
 
-Naam en functie: …………………………………….
+voor deze
 
 ### Bijlage:. STAPPEN
 
 ### Bijlage:
 
-**STAPPEN**
+*** In de bijlage treft u in chronologische volgorde de te volgen stappen aan.**
 
 Alvorens het hele proces van start gaat, is het van belang dat de hele procedure voor u helder is en dat er goede afspraken worden gemaakt met de ambassade/het consulaat over de te volgen procedure, betaling, vertrouwelijkheid, kopieverlening van uw verklaring aan betrokkene, alsmede het zelf archiveren van stukken van cliënten.
 
-Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerking te verlenen aan een medische consultatie door een door de ambassade/het consulaat-generaal aangewezen arts over mijn gezondheidstoestand, en dat hierover – door tussenkomst van de ambassade/het consulaat – een medisch rapport ten behoeve van de Immigratie- en Naturalisatiedienst (IND) in Nederland zal worden uitgebracht.
+**STAPPEN**
 
 ## Bijlage 21. behorend bij [artikel 3.34l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34l&z=2020-10-03&g=2020-10-03), Voorschrift Vreemdelingen 2000
 
@@ -4340,21 +4340,74 @@ Als categorie vreemdelingen, bedoeld in [artikel 3.4, vierde lid, van het Beslui
 
 ### Hoofdstuk 7. Algemene en slotbepalingen
 
-## Bijlage 1a. , behorend bij [artikel 2.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1a&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 1. behorend bij [artikel 2.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-Vervallen
+| Luchthaven | Luchthavencode |
+| --- | --- |
+| Accra International Airport | ACC |
+| Amman Queen Alia International Airport | AMM |
+| Abu Dhabi International Airport | AUH |
+| Bahrein International Airport | BAH |
+| Boryspil International Airport | KBP |
+| Casablanca International Airport | CMN |
+| Ezeiza International Airport | EZE |
+| Damman- King Fahd International Airport | DMM |
+| Dar Es Salaam International Airport | DAR |
+| Dubai International Airport | DXB |
+| Dubai Al Maktoum International Airport | DWC |
+| Entebbe International Airport | EBB |
+| Guangzhou Baiyun International Airport | CAN |
+| Hong Kong International Airport | HKG |
+| Hamad International Airport | DOH |
+| Istanbul International Airport | IST |
+| Istanbul Sabiha Gökçen International Airport | SAW |
+| Izmir International Airport | ADB |
+| Johan Adolf Pengel International Airport | PBM |
+| Johannesburg International Airport | JNB |
+| Kigali International Airport | KGL |
+| Kuala Lumpur International Airport | KUL |
+| Konya Airport | KYA |
+| Kuwait International Airport | KWI |
+| Lagos International Airport | LOS |
+| Lungi International Airport | FNA |
+| Marrakesh Menara Airport | RAK |
+| Moskou Sheremetjevo International Airport | SVO |
+| Muscat International Airport | MCT |
+| Nairobi Jomo Kenyatta International Airport | NBO |
+| New Delhi Indira Gandhi International Airport | DEL |
+| Rafael Núnez International Airport | CTG |
+| Rafik Hariri International Airport | BEY |
+| Roberts International Airport | RBO |
+| Rio de Janeiro Galeao International Airport | GIG |
+| Sao Paulo International Airport | GRU |
+| Singapore Changi International Airport | SIN |
+| Teheran Imam Khomeini International Airport | IKA |
+| Tirana Nene Tereza International Airport | TIA |
 
 ### **Niet MVV-plichtig**
 
+Verenigde Staten
+
 Zuid-Korea
 
-Zwitserland
+## Bijlage 8b. behorende bij [artikel 3.20b, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.20b&z=2021-01-01&g=2021-01-01), van het Voorschrift Vreemdelingen 2000
+
+| 1. Beoordeling van de deskundige begeleider | 1. Beoordeling van de deskundige begeleider | 1. Beoordeling van de deskundige begeleider |
+| --- | --- | --- |
+| Onderwerp | Toetsingscriterium | Toelichting |
+| **Voortoets** | De begeleider krijgt opnieuw een positief advies als deze niet langer dan een jaar voor indiening van de aanvraag van de startende ondernemer een positief advies voor zijn begeleiding heeft gekregen. | Een eerder positief advies van de Rijksdienst voor Ondernemend Nederland (RVO) dat niet ouder is dan een jaar leidt zonder verdere toetsing wederom tot een positief advies. De betrouwbaarheid en de deskundigheid van de begeleider worden door de RVO in dat geval aangenomen. Een eerder afgegeven positief advies ouder dan een jaar (of nog geen eerdere toets) leidt tot een (nieuwe) toets. |
+| **1.1 Inschrijving Kamer van Koophandel** | De begeleider staat ingeschreven in het Handelsregister bij de Kamer van Koophandel. | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. Geen inschrijving betekent een negatief advies. |
+| **1.2 Deskundigheid** | a) De begeleider biedt een pakket ‘op maat’ van faciliteiten aan de startende ondernemer. b) De begeleider heeft ervaring. | a) Een pakket ‘op maat’ betekent dat de begeleider in staat is om de startende ondernemer van idee tot onderneming te begeleiden. Niet iedere ondernemer heeft dezelfde begeleiding nodig. Het pakket aan faciliteiten verschilt daarom per startende ondernemer. Faciliteiten bestaan bijvoorbeeld doch niet uitputtend uit: (toegang tot) coaching, technologie, onderzoek, bescherming intellectueel eigendom, marktonderzoek en financiering. b) Ervaring betekent minimaal twee jaar ervaring met het begeleiden van innovatieve startende ondernemers bij minimaal twee personen. Aan te tonen via bijvoorbeeld een eigen ondernemingsplan, voorbeelden van begeleide startende ondernemers, referenties en CV’s. Indien de begeleiding door verschillende personen wordt gedaan, is informatie over alle personen die begeleiden nodig. |
+| **1.3 Betrouwbaarheid** | De begeleider is financieel gezond. | De begeleider verkeert niet in surseance of faillissement en heeft een gezonde solvabiliteit en liquiditeit. Aan te tonen via bijvoorbeeld (niet uitputtend) recente jaarrekeningen en/of overeenkomsten met / garantstellingen door financiers en/of accountantsverklaringen en/of bankafschriften en/of onderbouwde financiële prognoses. |
+
+| 2. Beoordeling van de startende ondernemer | 2. Beoordeling van de startende ondernemer | 2. Beoordeling van de startende ondernemer |
+| --- | --- | --- |
+| Onderwerp | Toetsingscriterium | Toelichting |
+| **2.1 Inschrijving Kamer van Koophandel** | De startende ondernemer staat ingeschreven bij de Kamer van Koophandel. | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. De startende ondernemer moet zeggenschap in de startende onderneming hebben. Dit is van belang omdat hij beslissingen over de toekomstige onderneming moet kunnen nemen. Geen inschrijving betekent een negatief advies. |
+| **2.2 Stappenplan** | a) In het stappenplan staat beschreven wat de taak en rol is van de startende ondernemer in de startende onderneming. b) In het stappenplan staat beschreven waarom het product of dienst innovatief is. c) In het stappenplan staat beschreven welke activiteiten (stappen) de startende ondernemer verricht in het eerste jaar om van idee tot onderneming te komen. | a) De startende ondernemer moet een actieve rol hebben. Dit betekent dat de aanvrager niet alleen aandeelhouder of financier is. b) Er is sprake van innovativiteit bij aanwezigheid van minstens één van onderstaande drie aspecten: 1) Het product of de dienst is nieuw voor Nederland. 2) Er is sprake van nieuwe technologie bij productie, distributie, marketing. 3) Er is sprake van een innovatieve organisatorische opzet en werkwijze. Hierbij kan worden gedacht aan bijvoorbeeld (niet uitputtend opgesomd): – Activiteiten die in het kader van het Topsectorenbeleid worden gestimuleerd. – Zelf ontwikkelde nieuwe producten of diensten. – Originele aanpak energiebesparing. – Originele aanpak duurzaamheidsproblematiek. – Slimme en creatieve aanpassingen of combinaties ten behoeve van sector overschrijdende toepassingen. – Nieuwe product-marktcombinaties. – Creatieve of vernieuwende marktbenadering. – Sociale innovatie. – Introductie maatschappelijk verantwoord ondernemen. |
+| **2.3 Overeenkomst met begeleider** | a) In de overeenkomst is de aard van de begeleiding beschreven. b) De voorwaarden van de overeenkomst mogen niet nadelig of belemmerend zijn voor een gezonde ontwikkeling van de startende ondernemer. c) De begeleider mag geen meerderheidsbelang hebben in de startende onderneming. d) De overeenkomst is door beide partijen (begeleider en startende ondernemer) ondertekend. | a) De begeleiding moet op maat zijn (zie 1.2. onder a). b) Er mag geen sprake zijn van ‘wurgcontracten’. c) Uit de overeenkomst wordt duidelijk welk belang de begeleider heeft in de startende onderneming. d) De begeleider moet bevoegd zijn om de overeenkomst te ondertekenen. |
 
 ## Bijlage 9. , behorend bij artikel 3.22 Voorschrift Vreemdelingen
-
-Vervallen
-
-## Bijlage 10. , behorend bij [artikel 3.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.23&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
 
 Vervallen
 
@@ -4366,9 +4419,9 @@ Vervallen
 
 ## Bijlage 17b. behorend bij [artikel 7.1, tweede lid, Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.1&z=2020-04-23&g=2020-04-23)
 
-### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
+### Bijlage:
 
-Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts/deskundige in het kader van een verzoek tot ontheffing basisexamen inburgering buitenland. In te vullen door verzoeker van ontheffing (mede) vanwege medische indicatie.
+Alvorens het hele proces van start gaat, is het van belang dat de hele procedure voor u helder is en dat er goede afspraken worden gemaakt met de ambassade/het consulaat over de te volgen procedure, betaling, vertrouwelijkheid, kopieverlening van uw verklaring aan betrokkene, alsmede het zelf archiveren van stukken van cliënten.
 
 Gelieve hieronder uw persoonlijke gegevens in te vullen en te retourneren met 2 gelijkende pasfoto’s.
 
@@ -4394,7 +4447,9 @@ Gelieve hieronder uw persoonlijke gegevens in te vullen en te retourneren met 2 
 | Het register Beroepen in de Individuele Gezondheidszorg | Vermelding in het register |
 | Het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) | Uittreksel uit het Handelsregister |
 
-## Bijlage 10a. behorend bij [artikel 3.24, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
+## Bijlage 10. , behorend bij [artikel 3.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.23&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
+
+Vervallen
 
 ### Inleiding
 
@@ -4410,22 +4465,20 @@ Gelieve hieronder uw persoonlijke gegevens in te vullen en te retourneren met 2 
 
 ### 3. Registratieformulier, tevens toestemmingsverklaring
 
-**Toestemmingsverklaring**
+Dit registratieformulier, tevens toestemmingsverklaring, is ten behoeve van arts/deskundige in het kader van een verzoek tot ontheffing basisexamen inburgering buitenland. In te vullen door verzoeker van ontheffing (mede) vanwege medische indicatie.
 
-## Bijlage 22. behorend bij [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=6&afdeling=2&artikel=6.2a&z=2020-12-24&g=2020-12-24) Voorschrift Vreemdelingen 2000
+## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-| Kolom A Kostensoort | Kolom B Tarief |
+| Kolom A Administratie | Kolom B Gegeven(s) of bescheid |
 | --- | --- |
-| **Vervoer (per vervoerde vreemdeling)** |   |
-| Binnen Rotterdam Van Rotterdam naar Den Haag Van Rotterdam naar Amsterdam Van Rotterdam naar Brussel Binnen Amsterdam Van Amsterdam naar Den Haag Van Amsterdam naar Rotterdam Van Amsterdam naar Brussel Vervoer naar overige bestemmingen, per vreemdeling per uur | € 149,80 € 299,60 € 299,60 € 449,40 € 149,80 € 299,60 € 299,60 € 599,20 € 74,90 |
-| **Laissez passer** |   |
-| Kosten aanvraagproces Tolk tijdens vooronderzoek (per aanvraag) Prijs laissez passer | € 686,00 € 60,00 variabel |
-| **Escortering tijdens het terugvervoer** |   |
-| Salariskosten (per escort per uur) Kosten voor het verblijf van de escort (per escort) Ticketkosten (per escort) Vliegvergoeding (per escort per uur) Onkostenvergoeding (per escort per dag) Reisverzekering (per escort) | € 63,78 variabel variabel € 17,05 € 13,50 variabel |
-| **Verblijf van de geweigerde vreemdeling** |   |
-| Enige verblijfplaats aangewezen als plaats of ruimte bedoeld in [artikel 6, eerste en tweede lid, Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) (per persoon per dag) | € 298,00 |
-| **Overige kosten** | variabel |
-| **Administratiekosten** (maximaal € 500 administratiekosten per vreemdeling) | 8% |
+| Het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) | Inschrijving in het Handelsregister Gegevens over surseance van betaling of faillissement Gegevens over de doelstelling van een uitwisselingsreferent Statuten van levensbeschouwelijke of religieuze organisaties Het gehele bedrijfsprofiel |
+| Centraal Insolventieregister | Gegevens over surséance van betaling of faillissement |
+| Het Centraal Register Opleidingen Hoger Onderwijs | Vermelding van de opleiding in het register |
+| Het openbare register van onderwijsinstellingen die de gedragscode internationale student in het Nederlandse hoger onderwijs hebben ondertekend | Vermelding van de onderwijsinstelling in het register |
+| Het openbare register van toegelaten onderwijsinstellingen voor het verzorgen van opleidingen in het kader van het ontwikkelingssamenwerkingsbeleid van het Ministerie van Buitenlandse Zaken | Vermelding van de onderwijsinstelling in het register |
+| Het openbare register van toegelaten onderwijsinstellingen die opleidingen faciliteren in het kader van de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) | Vermelding van de onderwijsinstelling in het register |
+| Het National Academic Research and Collaborations Information System | Vermelding van de onderzoeksinstelling in het informatiesysteem |
+| Register Normering Arbeid | Vermelding van het uitzendbureau in het register |
 
 ## Bijlage 11. , behorend bij artikel 3.24 Voorschrift Vreemdelingen
 
@@ -4451,15 +4504,22 @@ Vervallen
 
 ### REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
 
+Gelieve hieronder uw persoonlijke gegevens in te vullen en te retourneren met 2 gelijkende pasfoto’s.
+
+**Toestemmingsverklaring**
+
 Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerking te verlenen aan een medische consultatie door een door de ambassade/het consulaat-generaal aangewezen arts over mijn gezondheidstoestand, en dat hierover – door tussenkomst van de ambassade/het consulaat – een medisch rapport ten behoeve van de Immigratie- en Naturalisatiedienst (IND) in Nederland zal worden uitgebracht.
 
-Gelieve onderstaand uw persoonlijke gegevens in te vullen en te retourneren met 2 gelijkende pasfoto’s.
+## Bijlage 21. behorend bij [artikel 3.34l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.34l&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
-Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerking te verlenen aan een medische consultatie door een door de ambassade/het consulaat-generaal aangewezen arts over mijn lichamelijke gesteldheid, en dat hierover – door tussenkomst van de ambassade/het consulaat-generaal – een medisch rapport ten behoeve van de Immigratie- en Naturalisatiedienst (IND) in Nederland zal worden uitgebracht.
+| Kolom A Administratie | Kolom B Gegeven(s) of bescheid |
+| --- | --- |
+| de BRP | Bewijs van inschrijving Bewijs van inschrijving huwelijk Bewijs van verbreking huwelijk Bewijs van de burgerlijke staat Bewijs van de adresgegevens |
+| De polisadministratie, bedoeld in bijlage I behorend bij [artikel 5.2, eerste lid, besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2) | Gegevens ter beoordeling van de hoogte en duurzaamheid van middelen van bestaan, verworven uit arbeid in loondienst als bedoeld in [artikel 3.73, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73) of inkomensvervangende uitkeringen als bedoeld in artikel 3.73, eerste lid, onder c, van het Besluit, waaronder: Afschrift van een arbeidsovereenkomst Afschrift van een uitzendovereenkomst Afschrift van een uitkeringsbeschikking Afschrift van een toekenningsbeschikking van de uitkerende instantie ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) Afschrift van een loonstrook Afschrift van een uitkeringsspecifatie Afschrift van een jaaropgave |
+| Het register Beroepen in de Individuele Gezondheidszorg | Vermelding in het register |
+| Het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) | Uittreksel uit het Handelsregister |
 
-## Bijlage 23. behorend bij [artikel 7.2a, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.2a&z=2020-12-24&g=2020-12-24), Voorschrift Vreemdelingen 2000
-
-## Bijlage 22. behorend bij [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=6&afdeling=2&artikel=6.2a&z=2020-04-23&g=2020-04-23) Voorschrift Vreemdelingen 2000
+## Bijlage 22. behorend bij [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=6&afdeling=2&artikel=6.2a&z=2021-01-01&g=2021-01-01) Voorschrift Vreemdelingen 2000
 
 | Kolom A Kostensoort | Kolom B Tarief |
 | --- | --- |
@@ -4474,7 +4534,7 @@ Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerki
 | **Overige kosten** | variabel |
 | **Administratiekosten** (maximaal € 500 administratiekosten per vreemdeling) | 8% |
 
-## Bijlage 23. behorend bij [artikel 7.2a, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.2a&z=2020-04-23&g=2020-04-23), Voorschrift Vreemdelingen 2000
+## Bijlage 23. behorend bij [artikel 7.2a, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=7&artikel=7.2a&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
 
 ## Bijlage 12a. behorend bij [artikel 4.1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=4&afdeling=1&artikel=4.1a&z=2020-10-03&g=2020-10-03), Voorschrift Vreemdelingen 2000
 
@@ -4539,4 +4599,30 @@ Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerki
 
 Vervallen
 
-## Bijlage 12. Antecedentenverklaring
+## Bijlage 11. , behorend bij artikel 3.24 Voorschrift Vreemdelingen
+
+Vervallen
+
+##### Artikel 4.2a
+
+1. De grenscontrole vindt plaats na de tijdige kennisgeving van de afvaart. De tijdige kennisgeving van afvaart, bedoeld in punt 3.1.5. van bijlage VI van de Schengengrenscode, wordt gedaan tenminste drie uur en ten hoogste drie dagen voor het moment waarop het schip de buitengrens van het Schengengebied daadwerkelijk zal overschrijden.
+
+2. In onvoorziene en uitzonderlijke situaties of indien het schip zich korter dan drie uur bevindt bij de grensdoorlaatpost waar de kennisgeving moet plaatsvinden, wordt de kennisgeving als bedoeld in het eerste lid gedaan op een zodanig tijdstip dat de met de bediening van de grensdoorlaatpost belaste ambtenaar in staat is de door hem uit te oefenen personencontrole uit te voeren.
+
+### Afdeling 2. Verplichtingen van de referent
+
+#### Paragraaf 2. Administratieplichten
+
+### Afdeling 2. Verhaal kosten van uitzetting
+
+### Hoofdstuk 7. Algemene en slotbepalingen
+
+### **Niet MVV-plichtig**
+
+Zwitserland
+
+## Bijlage 10a. behorend bij [artikel 3.24, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24&z=2021-01-01&g=2021-01-01), Voorschrift Vreemdelingen 2000
+
+### Lidstaten van de EER
+
+### 3. Registratieformulier, tevens toestemmingsverklaring
