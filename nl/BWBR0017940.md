@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2019-06-16"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2019-06-16&g=2019-06-16) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2021-11-09&g=2021-01-01) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2021-11-09&g=2021-01-01) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2019-06-16&g=2019-06-16) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2021-11-09&g=2021-01-01) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2021-11-09&g=2021-01-01) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -274,7 +274,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg of een vliegtuig met straalmotoren.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2021-11-09&g=2021-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
