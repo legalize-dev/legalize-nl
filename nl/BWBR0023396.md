@@ -4,7 +4,7 @@ identifier: "BWBR0023396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2018-09-05"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023396"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde beroepen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2018-09-05&g=2018-09-05)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2021-01-01&g=2021-01-01)
 
 | Minister met de beleidsverantwoordelijkheid voor de reglementering van het desbetreffende beroep | Gereglementeerd beroep |
 | --- | --- |
@@ -76,13 +76,13 @@ Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde
 | Infrastructuur en Milieu | VTS-operator |
 | Infrastructuur en Milieu | volmatroos |
 | Sociale Zaken en Werkgelegenheid | deskundig asbestverwijderaar |
+| Sociale Zaken en Werkgelegenheid | deskundige opsporing van ontplofbare oorlogsresten |
 | Sociale Zaken en Werkgelegenheid | deskundig toezichthouder asbestverwijdering |
+| Sociale Zaken en Werkgelegenheid | deskundige werken met explosieve stoffen |
 | Sociale Zaken en Werkgelegenheid | duiker |
 | Sociale Zaken en Werkgelegenheid | duikerploegleider |
 | Sociale Zaken en Werkgelegenheid | gasdeskundige tankschepen |
 | Sociale Zaken en Werkgelegenheid | kraanmachinist |
-| Sociale Zaken en Werkgelegenheid | schietmeester |
-| Sociale Zaken en Werkgelegenheid | springmeester |
 | Sociale Zaken en Werkgelegenheid | vuurwerkdeskundige |
 | Veiligheid en Justitie | beëdigde tolk |
 | Veiligheid en Justitie | beëdigde vertaler |
