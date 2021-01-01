@@ -4,7 +4,7 @@ identifier: "BWBR0038973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2018-03-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038973"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel XVII
 
-[Artikel 6f, achtste lid, van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=6f) is niet van toepassing op een belastingschuld waarvoor reeds voor de datum van inwerkingtreding van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2018-03-24&g=2018-03-24) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2018-03-24&g=2018-03-24) uitstel van betaling is verleend.
+[Artikel 6f, achtste lid, van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=6f) is niet van toepassing op een belastingschuld waarvoor reeds voor de datum van inwerkingtreding van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2021-01-01&g=2021-01-01) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2021-01-01&g=2021-01-01) uitstel van betaling is verleend.
 
 ##### Artikel XVIII
 
@@ -132,37 +132,37 @@ Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2017, met dien verstande dat:
 
-- a. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 1 januari 2012;
+- a. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2012;
 
-- b. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 1 januari 2013;
+- b. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2013;
 
-- c. [artikel XVI, onderdeel G, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 23 mei 2014;
+- c. [artikel XVI, onderdeel G, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 23 mei 2014;
 
-- d. [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2018-03-24&g=2018-03-24), eerste volzin, terugwerkt tot en met 1 januari 2015;
+- d. [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2021-01-01&g=2021-01-01), eerste volzin, terugwerkt tot en met 1 januari 2015;
 
-- e. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2018-03-24&g=2018-03-24), [artikel IV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2018-03-24&g=2018-03-24), en [artikel XXII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XXII&z=2018-03-24&g=2018-03-24), terugwerken tot en met 1 januari 2016;
+- e. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2021-01-01&g=2021-01-01), [artikel IV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IV&z=2021-01-01&g=2021-01-01), en [artikel XXII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XXII&z=2021-01-01&g=2021-01-01), terugwerken tot en met 1 januari 2016;
 
-- h. [artikel X, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=X&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 18 januari 2016;
+- h. [artikel X, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=X&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 18 januari 2016;
 
-- i. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 1 mei 2016;
+- i. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 mei 2016;
 
-- j. [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2018-03-24&g=2018-03-24), terugwerkt tot en met 25 oktober 2016, 17.30 uur;
+- j. [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 25 oktober 2016, 17.30 uur;
 
-- k. [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=VIII&z=2018-03-24&g=2018-03-24) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IX&z=2018-03-24&g=2018-03-24) terugwerken tot en met 6 november 2016;
+- k. [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=VIII&z=2021-01-01&g=2021-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=IX&z=2021-01-01&g=2021-01-01) terugwerken tot en met 6 november 2016;
 
-- l. [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XIV&z=2018-03-24&g=2018-03-24), eerst toepassing vindt ter zake van aangiften gedaan vanwege een overlijden dat of een schenking die op of na 1 januari 2017 plaatsvindt;
+- l. [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XIV&z=2021-01-01&g=2021-01-01), eerst toepassing vindt ter zake van aangiften gedaan vanwege een overlijden dat of een schenking die op of na 1 januari 2017 plaatsvindt;
 
-- m. [artikel XVI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2018-03-24&g=2018-03-24), voor het eerst van toepassing is op verzoeken om kwijtschelding die op of na 1 januari 2018 bij de ontvanger worden ingediend.
+- m. [artikel XVI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2021-01-01&g=2021-01-01), voor het eerst van toepassing is op verzoeken om kwijtschelding die op of na 1 januari 2018 bij de ontvanger worden ingediend.
 
-2. In afwijking van het eerste lid treden [artikel III, onderdelen A en C,](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2018-03-24&g=2018-03-24) en [artikel XVI, onderdelen B, E, F en G, onder 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2018-03-24&g=2018-03-24), in werking op het tijdstip waarop [artikel XIII, onderdeel C, van de Fiscale vereenvoudigingswet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIII) in werking treedt.
+2. In afwijking van het eerste lid treden [artikel III, onderdelen A en C,](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=III&z=2021-01-01&g=2021-01-01) en [artikel XVI, onderdelen B, E, F en G, onder 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XVI&z=2021-01-01&g=2021-01-01), in werking op het tijdstip waarop [artikel XIII, onderdeel C, van de Fiscale vereenvoudigingswet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIII) in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XII&z=2018-03-24&g=2018-03-24), in werking op het tijdstip waarop de wijziging waarbij de definitie van het begrip ‘primair allocatiepunt’ in de [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938) wordt opgenomen.
+3. In afwijking van het eerste lid treedt [artikel XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XII&z=2021-01-01&g=2021-01-01), in werking op het tijdstip waarop de wijziging waarbij de definitie van het begrip ‘primair allocatiepunt’ in de [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938) wordt opgenomen.
 
-4. In afwijking van het eerste lid treedt [artikel XIX, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XIX&z=2018-03-24&g=2018-03-24), in werking met ingang van 1 maart 2017.
+4. In afwijking van het eerste lid treedt [artikel XIX, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=XIX&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 maart 2017.
 
-5. In afwijking van het eerste lid treedt [artikel X, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=X&z=2018-03-24&g=2018-03-24), in werking met ingang van 1 juli 2017.
+5. In afwijking van het eerste lid treedt [artikel X, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=X&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 juli 2017.
 
-6. In afwijking van het eerste lid treedt [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2018-03-24&g=2018-03-24), in werking met ingang van 1 januari 2018.
+6. In afwijking van het eerste lid treedt [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0038973&artikel=I&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 januari 2018.
 
 Handelende wat [artikel 3.13, eerste lid, onderdeel g, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft na overleg met de Minister van Economische Zaken;
 
