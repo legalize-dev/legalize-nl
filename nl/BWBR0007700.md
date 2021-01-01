@@ -4,7 +4,7 @@ identifier: "BWBR0007700"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2004-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007700"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De commandant van een Nederlands of bondgenootschappelijk oorlogsschip, dat zich bevindt op de in de bijlage van de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364) genoemde scheepvaartwegen, is vrijgesteld van de loodsplicht, bedoeld in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10).
+De commandant van een Nederlands of bondgenootschappelijk oorlogsschip, dat zich bevindt op de scheepvaartwegen die deel uitmaken van een zeehavengebied als bedoeld in [artikel 10, eerste, tweede en derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10) en de daarop berustende bepalingen, is vrijgesteld van de loodsplicht, bedoeld in artikel 10, eerste lid, van de Scheepvaartverkeerswet.
 
 ##### Artikel 2
 
