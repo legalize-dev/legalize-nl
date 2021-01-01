@@ -4,7 +4,7 @@ identifier: "BWBR0037456"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2016-07-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037456"
 soort: "wet"
@@ -134,7 +134,7 @@ Wijzigt de Wet verhoging AOW- en pensioenrichtleeftijd.
 
 ##### Artikel XXIV
 
-De in [artikel XIX, onderdeel A, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2016-07-01&g=2016-07-01), opgenomen wijzigingen zijn mede van toepassing op:
+De in [artikel XIX, onderdeel A, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2021-01-01&g=2021-01-01), opgenomen wijzigingen zijn mede van toepassing op:
 
 - a. vóór 1 juli 2015 gegeven toeslagbeschikkingen die op 1 juli 2015 nog niet onherroepelijk waren; en
 
@@ -160,23 +160,23 @@ Wijzigt de Elektriciteits- en gaswet.
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2016, met dien verstande dat:
 
-- a. [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=III&z=2016-07-01&g=2016-07-01), voor het eerst toepassing vindt met betrekking tot te rapporteren jaren van multinationale groepen die aanvangen op of na 1 januari 2016;
+- a. [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=III&z=2021-01-01&g=2021-01-01), voor het eerst toepassing vindt met betrekking tot te rapporteren jaren van multinationale groepen die aanvangen op of na 1 januari 2016;
 
-- b. de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIII&z=2016-07-01&g=2016-07-01) en [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XX&z=2016-07-01&g=2016-07-01) voor het eerst toepassing vinden met betrekking tot beboetbare en strafbare feiten die zijn begaan op of na 1 januari 2016;
+- b. de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIII&z=2021-01-01&g=2021-01-01) en [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XX&z=2021-01-01&g=2021-01-01) voor het eerst toepassing vinden met betrekking tot beboetbare en strafbare feiten die zijn begaan op of na 1 januari 2016;
 
 - c. [artikel 25a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25a) zoals dat luidde op 31 december 2015, van toepassing blijft op bezwaren die ingevolge dat artikel vóór 1 januari 2016 zijn aangewezen als massaal bezwaar;
 
-- d. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2016-07-01&g=2016-07-01), eerst toepassing vindt met betrekking tot uitspraken van de rechtbank of de voorzieningenrechter die zijn gedaan op of na 1 januari 2016.
+- d. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2021-01-01&g=2021-01-01), eerst toepassing vindt met betrekking tot uitspraken van de rechtbank of de voorzieningenrechter die zijn gedaan op of na 1 januari 2016.
 
-2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=I&z=2016-07-01&g=2016-07-01), werkt terug tot en met 1 januari 2013.
+2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=I&z=2021-01-01&g=2021-01-01), werkt terug tot en met 1 januari 2013.
 
-3. [Artikel XII, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XII&z=2016-07-01&g=2016-07-01), werkt terug tot en met 1 januari 2015.
+3. [Artikel XII, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XII&z=2021-01-01&g=2021-01-01), werkt terug tot en met 1 januari 2015.
 
-4. [Artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XVII&z=2016-07-01&g=2016-07-01), werkt terug tot en met 15 september 2015, 15.15 uur.
+4. [Artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XVII&z=2021-01-01&g=2021-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
 
-5. In afwijking van het eerste lid treden de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=X&z=2016-07-01&g=2016-07-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XI&z=2016-07-01&g=2016-07-01) in werking met ingang van 1 juli 2016.
+5. In afwijking van het eerste lid treden de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=X&z=2021-01-01&g=2021-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XI&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 juli 2016.
 
-6. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=V&z=2016-07-01&g=2016-07-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+6. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=V&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 2021.
 
 ##### Artikel XXVIII
 
