@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2019-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 1. Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
 
-- a. de Stichting Beroeps Opleiding Huisartsen, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisarts, specialist ouderengeneeskunde, en arts voor verstandelijk gehandicapten;
+- a. de Stichting Beroeps Opleiding Huisartsen, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisarts, specialist ouderengeneeskunde, verslavingsarts en arts voor verstandelijk gehandicapten;
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
@@ -116,7 +116,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - d. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) dat deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht, en
 
-- e. vervoer als bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13).
+- e. vervoer als bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13) door of vanwege een Regionale Ambulancevoorziening dat in Nederland aanvangt en eindigt of dat bestaat uit spoedeisend grensoverschrijdend vervoer vanaf of naar de Belgische of Duitse grens.
 
 ##### Artikel 4
 
