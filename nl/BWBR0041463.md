@@ -4,7 +4,7 @@ identifier: "BWBR0041463"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-01-01"
-last_updated: "2018-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041463"
 soort: "pbo"
@@ -54,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3. Verzoek ontheffing
 
-1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk twee maanden voor aanvang van de vestiging van het kantoor buiten Nederland door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek ontheffing kantoorhouden buiten Nederland.
+1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk twee maanden voor aanvang van de vestiging van het kantoor buiten Nederland.
 
 2. De advocaat die na afloop van de tijdsperiode van de ontheffing buiten Nederland kantoor wil blijven houden, verzoekt opnieuw om ontheffing voor een nieuwe tijdsperiode.
 
@@ -102,9 +102,9 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, derde l
 
 ##### Artikel 7. Ontheffing aan stagiaire
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=3&z=2018-11-01&g=2018-11-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=3&z=2021-01-01&g=2021-01-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
 
-2. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=3&z=2018-11-01&g=2018-11-01) verstrekt de stagiaire bij het verzoek een individueel opleidingsplan, met daarin opgenomen de waarborgen die ertoe leiden dat de stagiaire alle onderdelen van de beroepsopleiding kan volgen en binnen de gestelde termijn de beroepsopleiding en de stage kan voltooien.
+2. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=3&z=2021-01-01&g=2021-01-01) verstrekt de stagiaire bij het verzoek een individueel opleidingsplan, met daarin opgenomen de waarborgen die ertoe leiden dat de stagiaire alle onderdelen van de beroepsopleiding kan volgen en binnen de gestelde termijn de beroepsopleiding en de stage kan voltooien.
 
 3. Het opleidingsplan bevat naast de waarborgen in ieder geval:
 
@@ -118,9 +118,9 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, derde l
 
 4. De algemene raad hoort de raad van de orde in het arrondissement waar de stagiaire op het moment van het verzoek kantoor houdt over het opleidingsplan.
 
-5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=6&z=2018-11-01&g=2018-11-01) verbindt de algemene raad aan een ontheffing aan een stagiaire in ieder geval de voorwaarde dat het opleidingsplan wordt nageleefd.
+5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=6&z=2021-01-01&g=2021-01-01) verbindt de algemene raad aan een ontheffing aan een stagiaire in ieder geval de voorwaarde dat het opleidingsplan wordt nageleefd.
 
-6. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=5&z=2018-11-01&g=2018-11-01), wordt de ontheffing aan een stagiaire verleend voor de verzochte tijdsperiode, niet zijnde langer dan anderhalf jaar.
+6. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=5&z=2021-01-01&g=2021-01-01), wordt de ontheffing aan een stagiaire verleend voor de verzochte tijdsperiode, niet zijnde langer dan anderhalf jaar.
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -131,6 +131,8 @@ Dit besluit treedt in werking met ingang van 1 januari 2015.
 Dit besluit wordt aangehaald als: Beleidsregel kantoorhouden buiten Nederland.
 
 ## Bijlage 1. Formulier verzoek ontheffing kantoorhouden buiten Nederland
+
+Vervallen
 
 Met dit formulier verzoekt u ontheffing van de verplichting in één arrondissement op één locatie kantoor te houden omwille van kantoor houden buiten Nederland ([artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12)). De aanvraag dient ten minste twee maanden voor vertrek naar het buitenland te worden ingediend bij de algemene raad.
 
