@@ -167,5 +167,3 @@ In onderstaande tabel V zijn de omstandigheden en daarvoor geldende correctiefac
 Als er sprake is van economisch voordeel dat niet gecorrigeerd kan worden door ambtshalve vaststelling van het emissiecijfer, door aanpassing van de toewijzing van emissierechten of door terugvordering van teveel verleende emissierechten, wordt de boete, onder aftrek van een eventueel nadeel dat rechtstreeks verband houdt met de overtreding, verhoogd met het saldo van het resterende voordeel. Wanneer er geen sprake is van een voordelig saldo is er geen sprake van economisch voordeel.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
