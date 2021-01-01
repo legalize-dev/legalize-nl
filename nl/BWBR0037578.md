@@ -4,7 +4,7 @@ identifier: "BWBR0037578"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-01-01"
-last_updated: "2018-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037578"
 soort: "pbo"
@@ -56,23 +56,23 @@ In deze beleidsregel wordt verstaan onder:
 
 - **hardheidsclausule:** de mogelijkheid af te wijken in gevallen waarin toepassing van de desbetreffende bepaling zou leiden tot een onbillijkheid van overwegende aard;
 
-- **OIO:** officier van justitie in opleiding;
-
-- **RIO:** rechter in opleiding;
-
 - **toets:** een onderdeel van het examen.
 
-##### Artikel 3. Verzoek vrijstelling en hardheidsclausule
+##### Artikel 3. Termijn verzoek hardheidsclausule
 
-1. De stagiaire verzoekt vrijstelling deelname onderwijs als bedoeld in [artikel 3.18, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), uiterlijk vier weken na aanvang van het desbetreffende onderwijs door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek vrijstelling onderwijs of toets.
+De stagiaire verzoekt tot toepassing van de hardheidsclausule als bedoeld in [artikel 3.19, zesde lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), uiterlijk vier weken na de desbetreffende toetsgelegenheid.
 
-2. De stagiaire verzoekt vrijstelling van een toets als bedoeld in [artikel 3.20, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.20), uiterlijk zes weken voor de desbetreffende eerste toetsgelegenheid door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek vrijstelling onderwijs of toets.
+##### Artikel 4. Reikwijdte paragraaf
 
-3. De stagiaire verzoekt tot toepassing van de hardheidsclausule als bedoeld in [artikel 3.19, negende lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), uiterlijk vier weken na de desbetreffende toetsgelegenheid door middel van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=2&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek hardheidsclausule BA.
+Deze paragraaf is uitsluitend van toepassing op de advocaat die uiterlijk in september 2020 de beroepsopleiding advocaten aanvangt en met ingang van 1 oktober 2020 zonder onderbreking op het tableau staat ingeschreven en ingevolge daarvan een beroep doet op [artikel 9.2a van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=9.2a).
 
-4. De stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van RIO of OIO verzoekt vrijstelling deelname onderwijs en vrijstelling van het examen door middel van het formulier aanmeldformulier beroepsopleiding advocaten RIO/OIO.
+##### Artikel 5. Termijn verzoek vrijstelling onderwijs en toets
 
-##### Artikel 4. Weigering van de vrijstelling
+1. De stagiaire verzoekt vrijstelling deelname onderwijs als bedoeld in [artikel 3.18, eerste lid van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), uiterlijk vier weken na aanvang van het desbetreffende onderwijs.
+
+2. De stagiaire verzoekt vrijstelling van de toets als bedoeld in [artikel 3.20, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.20), uiterlijk zes weken voor de desbetreffende eerste toetsgelegenheid.
+
+##### Artikel 6. Weigering van de vrijstelling
 
 1. De algemene raad weigert de vrijstelling deelname onderwijs in ieder geval indien:
 
@@ -94,15 +94,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. de stagiaire reeds een onvoldoende resultaat heeft behaald voor de desbetreffende toets.
 
-3. De algemene raad weigert de vrijstelling deelname onderwijs en vrijstelling toets voor de RIO en OIO in ieder geval indien:
-
-- a. de stagiaire zijn hoedanigheid van RIO of OIO niet aantoont;
-
-- b. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO voornemens is om langer dan één jaar op het tableau ingeschreven te staan; of
-
-- c. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO vrijstelling verzoekt voor het gehele onderwijs en alle onderdelen van het examen.
-
-##### Artikel 5. Verlening van de vrijstelling
+##### Artikel 7. Verlening van de vrijstelling
 
 1. De algemene raad verleent de vrijstelling deelname onderwijs in ieder geval indien:
 
@@ -129,20 +121,6 @@ In deze beleidsregel wordt verstaan onder:
 - –. behaald diploma of certificaat van een toets waarvan het niveau vergelijkbaar is met dat van de betreffende toets in de beroepsopleiding advocaten, behaald niet langer dan drie jaren voor de eerste toetsgelegenheid; of
 
 - –. fundamenteel onderzoek, gepubliceerd in wetenschappelijke tijdschriften of vakbladen, gepubliceerd niet langer dan drie jaren voor de beëdiging.
-
-3. De algemene raad verleent de vrijstelling deelname onderwijs en examen voor de RIO/OIO in ieder geval indien:
-
-- a. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO aangeeft voornemens te zijn te verzoeken om schrapping van het tableau direct na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding; en
-
-- b. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO vrijstelling vraagt van deelname aan het onderwijs en vrijstelling van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek.
-
-##### Artikel 6. Voorwaarden in de vrijstelling RIO/OIO
-
-De algemene raad verbindt aan de vrijstelling deelname onderwijs en de vrijstelling examen RIO/OIO in ieder geval de voorwaarde dat de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO verzoekt om schrapping van het tableau na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding en uiterlijk met ingang van een door de algemene raad te bepalen datum.
-
-##### Artikel 7. Inwerkingtreding
-
-Deze beleidsregel treedt in werking met ingang van 1 februari 2016.
 
 ## Bijlage 1. Formulier aanvraag vrijstelling onderwijs
 
@@ -358,9 +336,9 @@ plaats en datum: ............................................................
 
 handtekening aanvrager: ............................................................
 
-##### Artikel 8. Citeertitel
+##### Artikel 8. Inwerkingtreding
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel onderwijs en toetsen BA.
+Deze beleidsregel treedt in werking met ingang van 1 februari 2016.
 
 ## Bijlage 1. Formulier verzoek vrijstelling onderwijs of toets
 
@@ -401,3 +379,13 @@ Het verzoek dient te worden onderbouwd met een of meer bewijsstukken. In geval v
 ### 4. Ondertekening
 
 plaats en datum: ............................................................
+
+#### Paragraaf 1. Bepalingen BA
+
+#### Paragraaf 2. Bepalingen voor de stagiaire gestart met de BA vóór 1 maart 2021
+
+#### Paragraaf 3. slotbepalingen
+
+##### Artikel 9. Citeertitel
+
+Deze beleidsregel wordt aangehaald als: Beleidsregel onderwijs en toetsen BA.
