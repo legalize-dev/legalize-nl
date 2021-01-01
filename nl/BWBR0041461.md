@@ -4,7 +4,7 @@ identifier: "BWBR0041461"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-01-01"
-last_updated: "2018-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041461"
 soort: "pbo"
@@ -64,9 +64,9 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3. Verzoek ontheffing
 
-1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, vierde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk één week voor aanvang van de detachering door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek ontheffing detachering.
+1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, vierde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk één week voor aanvang van de detachering.
 
-2. De advocaat verstrekt bij het verzoek een door de advocaat en de inlener ondertekende verklaring, overeenkomstig de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&bijlage=2&z=2018-11-01&g=2018-11-01) opgenomen verklaring onafhankelijke beroepsuitoefening bij detachering.
+2. De advocaat verstrekt bij het verzoek een door de advocaat en de inlener ondertekende verklaring, overeenkomstig de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&bijlage=1&z=2021-01-01&g=2021-01-01) opgenomen verklaring onafhankelijke beroepsuitoefening bij detachering.
 
 ##### Artikel 4. Weigering van de ontheffing
 
@@ -108,9 +108,9 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, vierde 
 
 ##### Artikel 7. Ontheffing aan stagiaire
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=3&z=2018-11-01&g=2018-11-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=3&z=2021-01-01&g=2021-01-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
 
-2. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=3&z=2018-11-01&g=2018-11-01) verstrekt de stagiaire bij het verzoek een individueel opleidingsplan, met daarin opgenomen de waarborgen die ertoe leiden dat de stagiaire alle onderdelen van de beroepsopleiding kan volgen en binnen de gestelde termijn de beroepsopleiding en de stage kan voltooien.
+2. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=3&z=2021-01-01&g=2021-01-01) verstrekt de stagiaire bij het verzoek een individueel opleidingsplan, met daarin opgenomen de waarborgen die ertoe leiden dat de stagiaire alle onderdelen van de beroepsopleiding kan volgen en binnen de gestelde termijn de beroepsopleiding en de stage kan voltooien.
 
 3. Het opleidingsplan voorziet onverminderd het tweede lid in ieder geval in:
 
@@ -124,7 +124,7 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, vierde 
 
 4. De algemene raad hoort de raad van de orde in het arrondissement waar de stagiaire op het moment van het verzoek kantoor houdt over het opleidingsplan.
 
-5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=6&z=2018-11-01&g=2018-11-01) verbindt de algemene raad aan een ontheffing aan een stagiaire in ieder geval de voorwaarde dat het opleidingsplan wordt nageleefd.
+5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=6&z=2021-01-01&g=2021-01-01) verbindt de algemene raad aan een ontheffing aan een stagiaire in ieder geval de voorwaarde dat het opleidingsplan wordt nageleefd.
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -134,7 +134,9 @@ Dit besluit treedt in werking met ingang van 1 januari 2015.
 
 Dit besluit wordt aangehaald als: Beleidsregel detachering.
 
-## Bijlage 1. Formulier verzoek ontheffing detachering
+## Bijlage 1. Verklaring onafhankelijke beroepsuitoefening bij detachering
+
+Niet opgenomen.
 
 Advocaten zijn verplicht in één arrondissement op één locatie kantoor te houden ([artikel 12, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12)). Met dit formulier vraagt u ontheffing aan van deze verplichting ingeval van detachering (artikel 12, vierde lid, van de Advocatenwet).
 
