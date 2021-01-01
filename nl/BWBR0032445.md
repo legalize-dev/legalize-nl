@@ -4,7 +4,7 @@ identifier: "BWBR0032445"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-01-01"
-last_updated: "2018-04-11"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032445"
 soort: "beleidsregel"
@@ -38,7 +38,7 @@ Het Toetsingskader Wet verplichte beroepspensioenregeling (Toetsingskader Wvb) i
 
 Met de verplichtstelling wordt tegemoet gekomen aan de behoefte onder vrije beroepsgenoten om in collectief verband een pensioenvoorziening te treffen. Een verplichtstelling die naar het oordeel van het kabinet alleen gehandhaafd kan worden met strikte eisen ten aanzien van solidariteit en representativiteit. Die eisen zijn in de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) opgenomen.
 
-Met de verplichtstelling wordt tegemoet gekomen aan de behoefte onder vrije beroepsgenoten om in collectief verband een pensioenvoorziening te treffen. Een verplichtstelling die naar het oordeel van het kabinet alleen gehandhaafd kan worden met strikte eisen ten aanzien van solidariteit en representativiteit. Die eisen zijn in de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) opgenomen.
+Met de verplichtstelling wordt tegemoetgekomen aan de behoefte onder vrije beroepsgenoten om in collectief verband een pensioenvoorziening te treffen. Een verplichtstelling die naar het oordeel van het kabinet alleen gehandhaafd kan worden met strikte eisen ten aanzien van solidariteit en representativiteit. Die eisen zijn in de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) opgenomen.
 
 In [artikel 5, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=5) is bepaald dat arbitrale bedingen buiten de reikwijdte van de verplichtstelling vallen. Doordat dit in de wet is vastgelegd, zijn zulke bepalingen van rechtswege van de verplichtstelling uitgesloten. Hierdoor zijn beroepsgenoten die geen lid zijn van de beroepspensioenvereniging niet gebonden aan arbitrale bedingen in de verplichtgestelde beroepspensioenregeling.
 
@@ -56,7 +56,7 @@ Om de werkingssfeer van de verplichtstelling te omschrijven, geeft de beroepspen
 
 Daarom is het in ieder geval nodig aan te geven of de werkingssfeer zich uitstrekt over beroepsgenoten in loondienst. Verder moet, als er een minimumleeftijd voor toetreding is, worden aangegeven hoe hoog die is. Ook moet de maximum leeftijd voor beëindiging van de deelname aan de pensioenregeling worden opgenomen. Wanneer voor de maximumleeftijd wordt verwezen naar [artikel 18a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) of [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) zal de maximumleeftijd automatisch meebewegen met het tijdpad dat daarin is opgenomen.
 
-Wanneer in een omschrijving van een werkingssfeer wordt verwezen naar een bepaalde wet, besluit of regeling, dan moet deze worden gefixeerd. Dit betekent dat moet worden aangegeven van welke datum de wet, het besluit of de regeling is waarnaar verwezen wordt en waar die is terug te vinden. Bij verwijzing naar [artikel 18a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) of [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) is het opnemen van een fixatie niet vereist.
+Wanneer in een omschrijving van een werkingssfeer wordt verwezen naar een bepaalde wet, besluit of regeling, dan moet deze worden gefixeerd. Dit betekent dat een jaartal en publicatienummer van de Staatscourant of het Staatsblad zijn opgenomen. Bij verwijzing naar [artikel 18a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) of [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) is het opnemen van een fixatie niet vereist.
 
 Een overlap van werkingsferen zal zich niet voordoen bij de vrije beroepsgenoten, omdat de werkingssfeer een afgebakende omschrijving kent van het beroep van de beroepsgenoot. Voor beroepsgenoten in loondienst kan wel een overlap van werkingsferen ontstaan. Een beroepsgenoot in loondienst kan zowel onder de werkingssfeer van een verplichte beroepspensioenregeling vallen als onder de werkingssfeer van een verplichtgesteld Bedrijfstakpensioenfonds (bpf). Teneinde een samenloop te voorkomen zal de beroepspensioenvereniging de werkingssfeer zo moeten omschrijven dat werknemers die al onder een andere verplichtstelling vallen worden uitgesloten. Mocht bij de aanvraag blijken dat er toch overlap bestaat, dan zal de Minister van SZW de beroepspensioenvereniging verzoeken de werkingssfeer te wijzigen alvorens de aanvraag verder in behandeling wordt genomen.
 
@@ -132,7 +132,7 @@ Bij een aanvraag in het kader van de verplichtstelling zal, net als bij de verpl
 
 De toelichting bevat in ieder geval:
 
-De opgave van de representativiteit kan worden ingediend aan de hand van het formulier representativiteitsgegevens. Ingeval van een representativiteitspercentage onder de 60 of ingeval beargumenteerde zienswijzen tegen de representativiteit daartoe aanleiding geven, is het gebruik maken van dit formulier vereist. De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een nadere rapportage, van een registeraccountant of een accountantadministratieconsulent die daartoe is gecertificeerd, over de juistheid van de opgave wordt overgelegd.
+De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een assurancerapport van een registeraccountant of accountant-administratieconsulent, die daartoe is gecertificeerd, over de juistheid van de opgave wordt overgelegd.
 
 Deze eisen aan de opgave van representativiteitsgegevens zijn ook vastgelegd in de [Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895).
 
@@ -144,7 +144,7 @@ Zienswijzen tegen en onduidelijkheid over de representativiteit zullen worden vo
 
 Evenals de [Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) kent ook de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) een periodieke representativiteitstoets.
 
-Ten minste één maal per vijf jaar zal worden beoordeeld of voor de verplichtstelling nog voldoende draagvlak bestaat (eerste keer per 1 januari 2011).Op deze manier wordt veilig gesteld dat de basis voor een verplichtstelling - een belangrijke meerderheid van de beroepsgenoten ondersteunt deze - gewaarborgd wordt.
+Ten minste één maal per vijf jaar zal worden beoordeeld of voor de verplichtstelling nog voldoende draagvlak bestaat. Op deze manier wordt veilig gesteld dat de basis voor een verplichtstelling - een belangrijke meerderheid van de beroepsgenoten ondersteunt deze - gewaarborgd wordt.
 
 ### Eisen aan de representativiteitsgegevens
 
@@ -158,7 +158,7 @@ In het verzoek van de Minister van SZW wordt aangegeven op welke wijze de repres
 
 De opgave van de representativiteitsgegevens en de hiervoor gehanteerde onderzoeksmethodiek kan worden ingediend aan de hand van het formulier representativiteitsgegevens, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&artikel=3) en [5 van de Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&artikel=5).
 
-Deze eisen aan de opgave van representativiteitsgegevens zijn ook vastgelegd in de [Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895).
+**Belangrijke meerderheid in de periodieke representativiteitstoets**
 
 ### Rol Sociaal Economische Raad
 
@@ -166,19 +166,19 @@ Zienswijzen tegen en onduidelijkheid over de representativiteit zullen worden vo
 
 ### b. de periodieke representativiteitstoets
 
-Indien geen wijziging van de verplichtstelling plaatsvindt, zal vijf jaar na de vorige periodieke toets of in het geval van een noodzakelijke herhalingstoets, vijf jaar na afronding van die herhalingstoets, de representativiteit opnieuw getoetst worden.
+Indien geen wijziging van de verplichtstelling plaatsvindt, zal vijf jaar na de vorige periodieke toets of in het geval van een noodzakelijke herhalingstoets, vijf jaar na afronding van die herhalingstoets, de representativiteit opnieuw worden getoetst.
 
 In het geval dat bij een aanvraag tot wijziging van de verplichtstelling is gebleken dat de representativiteit onvoldoende is, zal de wijziging van de verplichtstelling niet plaatsvinden en begint de periode van vijf jaar niet opnieuw te lopen. Na de oorspronkelijke vijf jaar zal de periodieke toets van de representativiteit plaatsvinden en bij onvoldoende meerderheid ook na de herhalingstoets twee jaar later, zal intrekking van de verplichtstelling volgen.
 
 In het geval dat bij een aanvraag tot wijziging van de verplichtstelling is gebleken dat de representativiteit onvoldoende is, zal de wijziging van de verplichtstelling niet plaatsvinden en begint de periode van vijf jaar niet opnieuw te lopen. Na de oorspronkelijke vijf jaar zal de periodieke toets van de representativiteit plaatsvinden en bij onvoldoende meerderheid ook na de herhalingstoets twee jaar later, zal intrekking van de verplichtstelling volgen.
 
-Indien de beroepspensioenvereniging binnen 8 weken na het verzoek aantoont te voldoen aan de vereiste representativiteit, dan stelt de Minister van SZW per brief betrokkenen hiervan op de hoogte.
+Indien de beroepspensioenvereniging binnen 8 weken na het verzoek aantoont te voldoen aan de vereiste representativiteit, dan stelt de Minister van SZW betrokkenen hiervan op de hoogte.
+
+Indien de beroepspensioenvereniging binnen 8 weken na het verzoek niet aantoont te voldoen aan de vereiste representativiteit, dan doet de Minister van SZW in de Staatscourant de mededeling dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid. Ook worden betrokkenen hiervan op de hoogte gesteld.
 
 Indien de beroepspensioenvereniging binnen 8 weken na het verzoek niet aantoont te voldoen aan de vereiste representativiteit, dan doet de Minister van SZW in de Staatscourant de mededeling dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid. Ook worden betrokkenen hiervan per brief op de hoogte gesteld.
 
-Indien de beroepspensioenvereniging binnen 8 weken na het verzoek niet aantoont te voldoen aan de vereiste representativiteit, dan doet de Minister van SZW in de Staatscourant de mededeling dat niet is aangetoond dat voldaan wordt aan het vereiste van een belangrijke meerderheid. Ook worden betrokkenen hiervan per brief op de hoogte gesteld.
-
-8 weken voor het verstrijken van de twee jaar na deze melding in de Staatscourant, zal aan betrokken beroepspensioenvereniging opnieuw worden gevraagd aan te tonen dat zij voldoet aan het representativiteitsvereiste.
+8 weken voor het verstrijken van de twee jaar na deze melding in de Staatscourant, zal aan de betrokken beroepspensioenvereniging opnieuw worden gevraagd aan te tonen dat zij voldoet aan het representativiteitsvereiste.
 
 Wanneer in de periode tussen de vijfjaarstoets en de herhalingstoets echter is aangetoond dat er wel voldaan wordt aan het vereiste van een belangrijke meerderheid, begint vanaf dat moment een nieuwe vijfjaarstermijn te lopen en komt de herhalingstoets te vervallen. Het tussentijds aantonen van een voldoende representativiteit kan spontaan door de betrokken beroepspensioenvereniging gebeuren, maar ook in het kader van een wijziging van de verplichtstelling in de periode tussen de vijfjaarstoets en de herhalingstoets.
 
@@ -240,13 +240,11 @@ Als de verplichtstelling ook betrekking heeft op beroepsgenoten in loondienst wo
 
 In het geval van een representativiteit(percentage) van onder de 60% dient voor de representativiteitsopgave gebruik gemaakt te worden van het formulier representativiteitsgegevens (zie paragraaf 3a).
 
-In het geval van een representativiteit(percentage) van onder de 60% dient voor de representativiteitsopgave gebruik gemaakt te worden van het formulier representativiteitsgegevens (zie paragraaf 3a).
+Na vaststelling van de volledigheid van de aanvraag en het voldoen aan de vereisten waaronder die van de representativiteit zoals in dit toetsingkader toegelicht, zal de aanvraag tot verplichtstelling bekend worden gemaakt door publicatie in de Staatscourant ([artikel 16, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=16)). Dat is het moment waarop de behandeling van de aanvraag start. Daarbij wordt aangegeven binnen welke termijn derden/belanghebbenden zienswijzen kunnen indienen tegen de aanvraag (artikel 16, tweede lid, Wvb).
 
 ### Zienswijzen
 
 ### Indienen aanvraag
-
-Overschrijding van de vier weken termijn voor het indienen van zienswijzen is niet mogelijk, tenzij de directie UAW daartoe schriftelijk toestemming heeft gegeven. Dit uitstel kan bovendien alleen worden verleend wanneer tenminste de hoofdpunten van de zienswijzen tijdens de periode van tervisielegging schriftelijk zijn ingebracht en deugdelijk gemotiveerd is waarom om uitstel wordt verzocht.
 
 Zienswijzen die zijn ingediend vóór de datum van bekendmaking van de aanvraag in de Staatscourant, worden niet in behandeling genomen.
 
@@ -258,29 +256,29 @@ Voorbeelden van zienswijzen die als evident kansloos zullen worden aangemerkt zi
 
 Over deze herhaalde en evident kansloze zienswijzen zal de SER nadat het besluit is genomen worden geïnformeerd.
 
-### Representativiteit
-
 Indien sprake is van (vermeende) overlap van de werkingssfeer van een beroepspensioenregeling met de werkingssfeer van een bedrijfstakpensioenfonds worden de SER en de Stichting van de Arbeid om een reactie gevraagd. In dat geval zullen zij bezien of hun tussenkomst wenselijk is.
 
-Bij een eerste aanvraag tot verplichtstelling zal DNB door de Minister van SZW worden gevraagd aan te geven of de oprichtingsakte, statuten en reglementen aan wet- en regelgeving voldoen. Bij de aanvraag moeten op grond van [artikel 6 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=6) deze stukken worden meegestuurd.
+### Overleg met DNB
+
+Bij een eerste aanvraag tot verplichtstelling zal DNB door de Minister van SZW worden gevraagd aan te geven of de oprichtingsakte, statuten en reglementen aan wet- en regelgeving voldoen. Bij de aanvraag moeten op grond van [artikel 6 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=6) deze stukken worden meegestuurd.
 
 Tevens zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd. Daartoe zal een actuariële en bedrijfstechnische nota, die hiervoor als informatie dient, onderdeel uitmaken van de aanvraag.
 
 Tevens zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd. Daartoe zal een actuariële en bedrijfstechnische nota, die hiervoor als informatie dient, onderdeel uitmaken van de aanvraag.
+
+Na ontvangst van het oordeel van DNB en eventueel van de SER zal de Minister van SZW een besluit nemen.
 
 ### Besluit
 
-Een besluit tot verplichtstelling wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+De aanvrager van de verplichtstelling, de eventuele indieners van zienswijzen, en DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit.
 
-De aanvrager van de verplichtstelling, de eventuele indieners van zienswijzen, en DNB worden schriftelijk geïnformeerd over het genomen besluit.
-
-De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
+De SER wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
 
 De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
 
-Na het verstrijken van de termijn van tervisielegging worden de ingediende zienswijzen voor commentaar voorgelegd aan de beroepspensioenvereniging die de verplichtstelling aanvraagt. Deze moet binnen 6 weken reageren.
+De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
 
-Op basis van [artikel 9, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt een wijziging van de verplichtstelling aanvragen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de directie UAW.
+Op basis van [artikel 9, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt een wijziging van de verplichtstelling aanvragen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 Een wijziging van de verplichtstelling heeft betrekking op een aanpassing van de werkingssfeer. Daarvan is sprake in geval de werkingssfeer met een groep beroepsgenoten wordt uitgebreid. Daarbij kan het gaan om een uitbreiding met de groep beroepsgenoten die in loondienst werken. De werkingssfeer kan ook uitgebreid worden met een bepaalde groep, waarvan de deelnemers binnen de beroepsgroep helder te onderscheiden zijn op grond van hun activiteiten.
 
@@ -288,15 +286,15 @@ Als de wijziging van de verplichtstelling betrekking heeft op een inperking van 
 
 Een wijziging van de verplichtstelling kan bijvoorbeeld ook aan de orde zijn bij een naamswijziging.
 
+Bij een aanvraag tot wijziging van de verplichtstelling moeten de bescheiden bedoeld in [artikel 9 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9)worden meegezonden. Verder zijn op basis van artikel 9, vierde lid, Wvb nadere regels gesteld waaraan de aanvraag moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
+
 ### Overleg met DNB
 
-Indien de beroepspensioenregeling door een pensioenfonds wordt uitgevoerd en er heeft een wijziging van de statuten en reglementen plaatsgevonden moet op grond van [artikel 9, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9) ook een authentiek afschrift van de wijzigingsakte en een gewaarmerkt exemplaar van de wijzigingen van het reglement worden meegestuurd.
+Het beroepspensioenfonds dient de met de wijziging van de verplichtstelling samenhangende statuten- of reglementswijzigingen aan DNB te zenden ([art. 108 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=108))
 
-Het beroepspensioenfonds dient de met de wijziging van de verplichtstelling samenhangende statuten- of reglementswijzigingen aan DNB te zenden ([art. 109 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=109))
+Wanneer de aanvraag tot wijziging van de verplichtstelling volledig is en inhoudelijk voldoet aan de vereisten, wordt van de aanvraag mededeling gedaan in de Staatscourant en kunnen er zienswijzen tegen de wijzigingsaanvraag worden ingebracht, zoals bij een eerste aanvraag tot verplichtstelling (zie hiervoor paragraaf 4a).
 
-### Besluit
-
-Wanneer de aanvraag tot wijziging van de verplichtstelling volledig is en inhoudelijk voldoet aan de vereisten, wordt met de procedure wat betreft de bekendmaking in de Staatscourant en (eventueel) de zienswijzenprocedure gestart, zoals bij een eerste aanvraag tot verplichtstelling (zie paragraaf 4a).
+### Representativiteit
 
 De representativiteit wordt beoordeeld aan de hand van de werkingssfeer zoals die na de wijziging zal luiden. Ten aanzien van aanvragen tot wijziging van de verplichtstelling kunnen de volgende situaties onderscheiden worden.
 
@@ -304,11 +302,11 @@ Indien de wijziging inhoudt dat de werkingssfeer met beroepsgenoten in loondiens
 
 Als de groep van zelfstandig werkende beroepsgenoten ten minste 55% bedraagt, zal vervolgens de representativiteit van beide groepen afzonderlijk worden beoordeeld op dezelfde wijze als beschreven in paragraaf 3.
 
-### b. Wijziging van de verplichtstelling
+Als de werkingssfeer met een bepaalde groep beroepsgenoten wordt uitgebreid, wordt eerst de representativiteit binnen deze groep beoordeeld. Vervolgens wordt de representativiteit van de gehele groep beoordeeld. Indien ook beroepsgenoten in loondienst tot de werkingssfeer behoren dan wordt voor deze groep de representativiteit ook nog afzonderlijk beoordeeld. De beoordeling vindt plaats zoals beschreven in paragraaf 3.
 
 ### Zienswijzen
 
-Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4a.
+### Zienswijzen
 
 Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4a.
 
@@ -322,19 +320,17 @@ Wanneer de wijziging van de verplichtstelling alleen een naamswijziging betreft 
 
 Een besluit betreffende een wijziging van de verplichtstelling wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit wordt met redenen omkleed uitgebracht wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
+De aanvrager om wijziging van de verplichtstelling en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De SER wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
+
 De aanvrager om wijziging van de verplichtstelling en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit. Is er in verband met (vermeende) overlap van werkingssferen een reactie gevraagd van de SER en van de Stichting van de Arbeid dan worden deze over het besluit geïnformeerd.
 
-### c. intrekking van de verplichtstelling op aanvraag van de beroepspensioenvereniging
+### Indienen aanvraag tot intrekking
 
-De representativiteit wordt beoordeeld aan de hand van de werkingssfeer zoals die na de wijziging zal luiden. Ten aanzien van aanvragen tot wijziging van de verplichtstelling kunnen de volgende situaties onderscheiden worden.
+Op basis van [artikel 13, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt, een aanvraag tot intrekking van de verplichtstelling indienen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
-Op basis van [artikel 13, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt, een aanvraag tot intrekking van de verplichtstelling indienen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de directie UAW.
-
-Bij een aanvraag tot intrekking van de verplichtstelling zijn op basis van [artikel 13, zesde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) nadere regels gesteld waaraan de aanvraag tot een intrekking van de verplichtstelling moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
+Bij een aanvraag tot intrekking van de verplichtstelling zijn op basis van [artikel 13, zesde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) nadere regels gesteld waaraan de aanvraag tot intrekking van de verplichtstelling moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
 
 Ook een aanvraag tot intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen een intrekkingsaanvraag kunnen zienswijzen worden ingebracht.
-
-### Zienswijzen
 
 (zie hiervoor paragraaf 4a)
 
@@ -342,13 +338,17 @@ Ook een aanvraag tot intrekking van de verplichtstelling wordt bekend gemaakt in
 
 In het geval van een aanvraag tot een volledige intrekking zal worden beoordeeld of de verzoekende beroepspensioenvereniging een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt.
 
+### Zienswijzen
+
 De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling (zie hiervoor paragraaf 4a) .
 
 De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling (zie hiervoor paragraaf 4a) .
+
+De Minister van SZW zal in het geval van een aanvraag tot intrekking van de verplichtstelling in overleg treden met DNB. Een intrekking kan financiële gevolgen hebben voor het beroepspensioenfonds of de deelnemers in het beroepspensioenfonds.
 
 ### Overleg met DNB
 
-In het geval van een aanvraag tot een intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van de verplichtstelling.
+Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de intrekking als informatie dienen.
 
 Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de intrekking als informatie dienen.
 
@@ -360,65 +360,63 @@ De aanvrager tot intrekking en de eventuele indieners van zienswijzen, evenals D
 
 De aanvrager tot intrekking en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
-Ook een aanvraag tot intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant en tegen een intrekkingsaanvraag kunnen zienswijzen worden ingebracht.
+Op basis van [artikel 13, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt, om intrekking van een deel van de verplichtstelling vragen. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
-Op basis van [artikel 13, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) kan een beroepspensioenvereniging die naar het oordeel van de Minister van SZW een belangrijke meerderheid van de beroepsgenoten in de beroepsgroep vertegenwoordigt, om intrekking van een deel van de verplichtstelling vragen. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de directie UAW.
-
-### Representativiteit
-
-Op basis van [artikel 13 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) zijn nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
+Op basis van [artikel 13, zesde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) zijn nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
 
 ### Een deel van de verplichtstelling
 
-De intrekking mag niet tot gevolg hebben dat alleen verplichtstelling resteert voor de beroepsgenoten in loondienst.
+Zo’n deel kan op grond van [artikel 13, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) bestaan uit een of meer bepaalde groepen beroepsgenoten. Er is sprake van een bepaalde groep als de deelnemers ervan binnen de beroepsgroep helder te onderscheiden zijn op grond van hun activiteiten. Er is ook sprake van een groep als de deelnemers ervan allen beroepsgenoten in loondienst zijn.
+
+### Een deel van de verplichtstelling
+
+Ook een aanvraag tot gedeeltelijke intrekking van de verplichtstelling wordt bekendgemaakt in de Staatscourant en tegen een dergelijke intrekkingsaanvraag kunnen zienswijzen worden ingebracht.
 
 ### Overleg met DNB
 
 (Zie hiervoor paragraaf 4a).
 
-(Zie hiervoor paragraaf 4a).
-
 De beroepspensioenvereniging die betrokken is geweest bij de verplichtstelling kan een gedeeltelijke intrekking aanvragen. Maar ook een andere beroepspensioenvereniging kan een gedeeltelijke intrekking aanvragen.
+
+In beide gevallen moet de beroepspensioenvereniging wel een belangrijke meerderheid vertegenwoordigen van de groep waarvoor gedeeltelijke intrekking wordt gevraagd.
 
 ### Besluit tot intrekking
 
 De Minister van SZW zal in geval van gedeeltelijke intrekking ook de beroepsgenoten bij het proces betrekken voor wie de verplichtstelling in stand blijft. Zij zullen worden geïnformeerd over de aanvraag tot gedeeltelijke intrekking, opdat zij hun opvatting hierover aan de Minister van SZW kenbaar kunnen maken. Immers de groep van beroepsgenoten waarvoor intrekking van de verplichtstelling wordt gevraagd, maakt onderdeel uit van de verplichtgestelde beroepspensioenregeling. Een vertrek uit die regeling heeft consequenties voor ‘de achterblijvers’. Bovendien bestaat ook bij een aanvraag tot intrekking van een deel van de verplichtstelling de mogelijkheid zienswijzen in te dienen.
 
-De Minister van SZW zal in geval van gedeeltelijke intrekking ook de beroepsgenoten bij het proces betrekken voor wie de verplichtstelling in stand blijft. Zij zullen worden geïnformeerd over de aanvraag tot gedeeltelijke intrekking, opdat zij hun opvatting hierover aan de Minister van SZW kenbaar kunnen maken. Immers de groep van beroepsgenoten waarvoor intrekking van de verplichtstelling wordt gevraagd, maakt onderdeel uit van de verplichtgestelde beroepspensioenregeling. Een vertrek uit die regeling heeft consequenties voor ‘de achterblijvers’. Bovendien bestaat ook bij een aanvraag tot intrekking van een deel van de verplichtstelling de mogelijkheid zienswijzen in te dienen.
-
-### Zienswijzen
+De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling(zie hiervoor paragraaf 4a).
 
 ### Overleg met DNB
 
-De Minister van SZW zal in het geval van een aanvraag tot gedeeltelijke intrekking van de verplichtstelling in overleg treden met DNB.
+### Overleg met DNB
 
-In het geval van een aanvraag tot een gedeeltelijke intrekking waarbij de uitvoering van de pensioenregeling is opgedragen aan een beroepspensioenfonds zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van een deel van de verplichtstelling.
+In het geval van een aanvraag tot gedeeltelijke intrekking waarbij de uitvoering van de pensioenregeling is opgedragen aan een beroepspensioenfonds zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van een deel van de verplichtstelling.
+
+DNB zal zich in het bijzonder ook buigen over de consequenties van de gedeeltelijke intrekking voor de financiële positie van het beroepspensioenfonds en zijn deelnemers.
 
 ### Een deel van de verplichtstelling
 
 Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot gedeeltelijke intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de gedeeltelijke intrekking als informatie dienen.
 
-Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot gedeeltelijke intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de gedeeltelijke intrekking als informatie dienen.
+Een besluit betreffende een intrekking van een deel van de verplichtstelling wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking van een deel van de verplichtstelling wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
-Een besluit betreffende een intrekking van een deel van de verplichtstelling wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking van een deel van de verplichtstelling wordt met redenen omkleed uitgebracht wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+De aanvragers om gedeeltelijke intrekking en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De SER wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
 De aanvragers om gedeeltelijke intrekking en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
-### e. ambtshalve intrekking van de verplichtstelling
-
-De beroepspensioenvereniging die betrokken is geweest bij de verplichtstelling kan een gedeeltelijke intrekking aanvragen. Maar ook een andere beroepspensioenvereniging kan een gedeeltelijke intrekking aanvragen.
+### Voornemen tot ambtshalve intrekking
 
 Op basis van [artikel 14, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=14) kan de Minister van SZW in uitzonderlijke gevallen de verplichtstelling of een deel ervan ambtshalve intrekken. De motivering voor een dergelijke ambtshalve intrekking ligt in de verantwoordelijkheid die de Minister van SZW heeft ten aanzien van degenen die via een besluit tot verplichtstelling worden gebonden aan een beroepspensioenregeling.
 
 Deze bevoegdheid zal naar verwachting niet snel gebruikt worden, omdat het een ingrijpende bevoegdheid is.
 
+Op grond van [artikel 14, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=14) is van een uitzonderlijk geval in ieder geval sprake indien er geen bijdragen meer aan de pensioenuitvoerder worden gedaan.
+
 ### Zienswijzen
 
-De Minister van SZW kan in het uiterste geval waarin een beroepspensioenfonds weigert de situatie binnen het fonds te wijzigen en bijvoorbeeld vasthoudt aan een regeling die niet de instemming heeft van de DNB of op andere wijze onbehoorlijk handelt, overgaan tot ambtshalve intrekking.
+Deze bevoegdheid kan ook uitkomst bieden in het geval dat, in het kader van een aanvraag tot intrekking van de verplichtstelling, niet langer is aangetoond dat sprake is van een representatieve beroepspensioenvereniging in de beroepsgroep waarvoor deelname aan een beroepspensioenregeling verplicht is gesteld.
 
 ### Overleg met DNB
-
-De beroepsvereniging die niet meer aan het belangrijke meerderheidsvereiste voldoet kan namelijk geen gebruik maken van het zelf met succes indienen van een aanvraag tot intrekking op basis van [artikel 13 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), omdat niet kan worden voldaan aan de voorwaarde van representativiteit.
 
 De Minister van SZW kan dan overgaan tot ambtshalve intrekking, eventueel na een verzoek daartoe van belanghebbenden, bijvoorbeeld niet-representatieve groepen in die beroepsgroep of het bestuur van de beroepspensioenvereniging.
 
@@ -426,45 +424,47 @@ Door de mogelijkheid van ambtshalve intrekking, kan worden voorkomen dat een ver
 
 Een voornemen tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant.
 
+Een voornemen tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant.
+
 ### Zienswijzen
 
 Ook tegen een voornemen tot ambtshalve intrekking kunnen zienswijzen worden ingebracht. De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling (paragraaf 4a.).
 
-Ook tegen een voornemen tot ambtshalve intrekking kunnen zienswijzen worden ingebracht. De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling (paragraaf 4a.).
-
-### Overleg met DNB
+In het geval van een voornemen tot ambtshalve intrekking zal DNB worden gevraagd, voorzover er sprake is van uitvoering door een pensioenfonds, te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de ambtshalve intrekking van (een deel van) de verplichtstelling.
 
 ### Besluit tot ambtshalve intrekking
 
-Een besluit tot ambtshalve intrekking wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+### Besluit tot ambtshalve intrekking
 
 Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking.
 
-De betrokken beroepspensioenvereniging en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
+De betrokken beroepspensioenvereniging en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De SER wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
 De betrokken beroepspensioenvereniging en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk geïnformeerd over het genomen besluit. De SER wordt schriftelijk geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
-Na iedere periode van vijf jaar moet de beroepspensioenvereniging aantonen dat er nog steeds voldoende draagvlak is voor de verplichtstelling (de zogenaamde periodieke representativiteitstoets zie hiervoor paragraaf 3b). Is er op dat moment geen sprake van een voldoende belangrijke meerderheid, dan krijgt zij nog twee jaar tijd om aan de representativiteitseis te voldoen. Na die twee jaar vindt een herhalingstoets plaats. Indien ook dan wordt vastgesteld dat de representativiteit onvoldoende is, zal de Minister van SZW overgaan tot intrekking van de verplichtstelling. De intrekking van de verplichtstelling heeft geen terugwerkende kracht.
+Na iedere periode van vijf jaar moet de beroepspensioenvereniging aantonen dat er nog steeds voldoende draagvlak is voor de verplichtstelling, de zogenaamde periodieke representativiteitstoets (zie hiervoor paragraaf 3b). Is er op dat moment geen sprake van een voldoende belangrijke meerderheid, dan krijgt zij nog twee jaar tijd om aan de representativiteitseis te voldoen. Na die twee jaar vindt een herhalingstoets plaats. Indien ook dan wordt vastgesteld dat de representativiteit onvoldoende is, zal de Minister van SZW overgaan tot intrekking van de verplichtstelling. De intrekking van de verplichtstelling heeft geen terugwerkende kracht.
 
 In het geval van een voorgenomen intrekking op grond van onvoldoende representativiteit zal DNB worden gevraagd te oordelen over de financiële opzet van het pensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van de verplichtstelling.
 
 De intrekking kan worden uitgesteld op basis van [artikel 15, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) gedurende de periode dat tegen de intrekking overwegende bezwaren in verband met de rechten van de deelnemers of gewezen deelnemers bestaan. Hierover zal de Minister van SZW in overleg treden met DNB.
 
-Op basis van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW bij de intrekking voorschriften geven met betrekking tot de rechten en verplichtingen van de deelnemers, gewezen deelnemers of hun werkgevers. De opvatting van DNB over de financiële gevolgen van de intrekking kan hierbij als informatie dienen.
+Op basis van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW bij de intrekking voorschriften geven met betrekking tot de rechten en verplichtingen van onder meer de deelnemers en gewezen deelnemers. De opvatting van DNB over de financiële gevolgen van de intrekking kan hierbij als informatie dienen.
 
 Op basis van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW bij de intrekking voorschriften geven met betrekking tot de rechten en verplichtingen van de deelnemers, gewezen deelnemers of hun werkgevers. De opvatting van DNB over de financiële gevolgen van de intrekking kan hierbij als informatie dienen.
+
+Op basis van [artikel 18 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) kan ontheffing van verplichtstelling worden gevraagd aan de Minister van SZW. Een dergelijke aanvraag moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie UAW.
 
 ### g. ontheffing
 
-Een dergelijk aanvraag kan worden gedaan door of voor een individuele persoon, die slechts gedurende een beperkte periode in Nederland werkzaam is. Deze periode duurt in beginsel maximaal vijf jaar.
+[Artikel 7 van de Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&artikel=17) geeft aan waaraan zo’n aanvraag moet voldoen .
 
 ### Overleg met DNB
 
-Voor gedetacheerde beroepsgenoten van wie de detachering is begonnen op of na 25 juli 2001 en die vanuit landen binnen de Europese Unie zijn gedetacheerd hoeft geen ontheffing te worden aangevraagd indien de betaling van premies in een andere lidstaat wordt voortgezet. Deze beroepsgenoten en hun werkgevers zijn op basis van [artikel 17, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) vrijgesteld van de verplichting tot het betalen van premies in Nederland.
+[Artikel 18 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) heeft nog betekenis voor die gevallen waarop [artikel 17 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) niet van toepassing is. Bijvoorbeeld bij detacheringen die begonnen zijn vóór 25 juli 2001 of bij detacheringen van buiten de Europese Unie. Ook houdt artikel 17 nog betekenis voor gevallen waar het gaat om personen die in een andere hoedanigheid (dan detachering) tijdelijk in Nederland werkzaam zijn.
 
-### Besluit tot ambtshalve intrekking
+### h. wijziging van de beroepspensioenregeling
 
-[Artikel 18 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) heeft nog betekenis voor die gevallen waarop [artikel 17 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) niet van toepassing is. Bijvoorbeeld bij detacheringen die begonnen zijn vóór 25 juli 2001 of bij detacheringen van buiten de Europese Unie. Ook houdt artikel 17 nog betekenis voor gevallen waar het gaat om personen die in een andere hoedanigheid (dan detachering) tijdelijk in Nederland werkzaam zijn.
+Op grond van [artikel 10 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=10) zendt de beroepspensioenvereniging binnen twee weken nadat de wijziging van de regeling tot stand is gekomen een gewaarmerkt afschrift van de wijziging aan de Minister van SZW. De Minister van SZW doet in de Staatscourant melding van de wijziging.
 
 Op grond van [artikel 10 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=10) zendt de beroepspensioenvereniging binnen twee weken nadat de wijziging van de regeling tot stand is gekomen een gewaarmerkt afschrift van de wijziging aan de Minister van SZW. De Minister van SZW doet in de Staatscourant melding van de wijziging.
 
@@ -510,7 +510,7 @@ Voor het overige zijn de hiervoor beschreven procedures van toepassing.
 
 ### Overlapping van werkingssferen
 
-Een overlap van werkingsferen zal zich niet voordoen bij de vrije beroepsgenoten, omdat de werkingssfeer een afgebakende omschrijving kent van het beroep van de beroepsgenoot. Voor beroepsgenoten in loondienst kan wel een overlap van werkingsferen ontstaan. Een beroepsgenoot in loondienst kan zowel onder de werkingssfeer van een verplichte beroepspensioenregeling vallen als onder de werkingssfeer van een verplichtgesteld bedrijfstakpensioenfonds (bpf). Teneinde een samenloop te voorkomen zal de beroepspensioenvereniging de werkingssfeer zo moeten omschrijven dat werknemers die al onder een andere verplichtstelling vallen worden uitgesloten. Mocht bij de aanvraag blijken dat er toch overlap bestaat, dan zal de Minister van Sociale Zaken en Werkgelegenheid (SZW) de beroepspensioenvereniging verzoeken de werkingssfeer te wijzigen alvorens de aanvraag verder in behandeling wordt genomen.
+Een overlap van werkingssferen zal zich niet voordoen bij de vrije beroepsgenoten, omdat de werkingssfeer een afgebakende omschrijving kent van het beroep van de beroepsgenoot. Voor beroepsgenoten in loondienst kan wel een overlap van werkingssferen ontstaan. Een beroepsgenoot in loondienst kan zowel onder de werkingssfeer van een verplichte beroepspensioenregeling vallen als onder de werkingssfeer van een verplichtgesteld bedrijfstakpensioenfonds (bpf). Teneinde een samenloop te voorkomen zal de beroepspensioenvereniging de werkingssfeer zo moeten omschrijven dat werknemers die al onder een andere verplichtstelling vallen worden uitgesloten. Mocht bij de aanvraag blijken dat er toch overlap bestaat, dan zal de Minister van Sociale Zaken en Werkgelegenheid (SZW) de beroepspensioenvereniging verzoeken de werkingssfeer te wijzigen alvorens de aanvraag verder in behandeling wordt genomen.
 
 ### 3. Representativiteit
 
@@ -542,11 +542,11 @@ De periodieke toets betreft de meting van de representativiteit op dezelfde mani
 
 ### Belangrijke meerderheid in de periodieke toets
 
-Indien het representativiteitpercentage minder dan 60% bedraagt, moet ook in het geval van de vijfjaarstoets verplicht gebruik worden gemaakt van het formulier representativiteitsgegevens. De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een nadere rapportage, van een registeraccountant of accountant-administratieconsulent die daartoe gecertificeerd is, over de juistheid van de opgave wordt overgelegd.
+De Minister van SZW kan naar aanleiding van de opgave van de representativiteit verlangen dat een assurancerapport van een registeraccountant of accountant-administratieconsulent, die daartoe gecertificeerd is, over de juistheid van de opgave wordt overgelegd.
 
 ### Termijn
 
-Iedere keer dat een verplichtstelling na 1 januari 2006 is opgelegd dan wel gewijzigd en waarbij de representativiteit is vastgesteld, begint de termijn van vijf jaar voor de periodieke toets opnieuw te lopen.
+Iedere keer dat een verplichtstelling is opgelegd dan wel gewijzigd en waarbij de representativiteit is vastgesteld, begint de termijn van vijf jaar voor de periodieke toets opnieuw te lopen.
 
 ### Resultaat vijfjaarstoets
 
@@ -570,15 +570,15 @@ Binnen deze termijn van 26 respectievelijk 39 dan wel maximaal 52 weken worden d
 
 ### Indienen aanvraag
 
-Een aanvraag tot verplichtstelling moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de directie UAW.
+Een aanvraag tot verplichtstelling moet schriftelijk (elektronisch) bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW).
 
 Een aanvraag tot verplichtstelling wordt pas in behandeling genomen als de aanvraag volledig is en inhoudelijk voldoet aan de vereisten. De datum van in behandeling nemen is de datum waarop de aanvraag in de Staatscourant wordt geplaatst en de termijn van tervisielegging start.
 
-Alle stukken die in het kader van de aanvraag dienen te worden meegestuurd liggen ter visie en kunnen worden geraadpleegd via de site van de Directie UAW (http://cao.szw.nl). Zienswijzen tegen de (wijzigingen van) reglementen en statuten van de beroepspensioenvereniging, de akte van oprichting van het beroepspensioenfonds, het reglement of de reglementen van het beroepspensioenfonds, de actuariële en bedrijfstechnische nota, de uitvoeringsovereenkomst en de overeenkomst tot overdracht of herverzekering, worden primair beoordeeld door DNB. In het advies van DNB aan de Minister van SZW met betrekking tot de aanvraag wordt op de zienswijzen ingegaan. De Minister van SZW is verantwoordelijk voor de besluitvorming hierover.
+Alle stukken die in het kader van de aanvraag dienen te worden meegestuurd liggen ter visie en kunnen worden geraadpleegd via de site van de Directie UAW (www.uitvoeringarbeidsvoorwaardenwetgeving.nl). Zienswijzen tegen de (wijzigingen van) reglementen en statuten van de beroepspensioenvereniging, de akte van oprichting van het beroepspensioenfonds, het reglement of de reglementen van het beroepspensioenfonds, de actuariële en bedrijfstechnische nota, de uitvoeringsovereenkomst en de overeenkomst tot overdracht of herverzekering, worden primair beoordeeld door DNB. In het advies van DNB aan de Minister van SZW met betrekking tot de aanvraag wordt op de zienswijzen ingegaan. De Minister van SZW is verantwoordelijk voor de besluitvorming hierover.
 
 ### Representativiteit
 
-De termijn van tervisielegging bedraagt in beginsel vier weken. Gedurende deze termijn van vier weken liggen de op de aanvraag van verplichtstelling betrekking hebbende stukken ter visie en kunnen zienswijzen worden ingediend.
+Overschrijding van de vier weken termijn voor het indienen van zienswijzen is niet mogelijk, tenzij de Directie UAW daartoe schriftelijk (elektronisch) toestemming heeft gegeven. Dit uitstel kan bovendien alleen worden verleend wanneer tenminste de hoofdpunten van de zienswijzen tijdens de periode van tervisielegging zijn ingebracht en deugdelijk gemotiveerd is waarom om uitstel wordt verzocht.
 
 Indien sprake is van (vermeende) overlap van de werkingssfeer van een beroepspensioenregeling met de werkingssfeer van een bedrijfstakpensioenfonds worden de SER en de Stichting van de Arbeid om een reactie gevraagd. In dat geval zullen zij bezien of hun tussenkomst wenselijk is.
 
@@ -588,7 +588,7 @@ Indien sprake is van (vermeende) overlap van de werkingssfeer van een beroepspen
 
 ### Indienen aanvraag tot wijziging
 
-Bij een aanvraag tot wijziging van de verplichtstelling moeten de bescheiden bedoeld in [artikel 6 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=6) met uitzondering van de oprichtingsakte en een gewaarmerkt exemplaar van de reglementen worden meegezonden. Verder zijn op basis van dit artikel nadere regels gesteld waaraan de aanvraag moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
+Indien de beroepspensioenregeling door een pensioenfonds wordt uitgevoerd en er heeft een wijziging van de statuten en reglementen plaatsgevonden moet op grond van [artikel 9, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9) ook een authentiek afschrift van de wijzigingsakte en een gewaarmerkt exemplaar van de wijzigingen van het reglement worden meegestuurd.
 
 Wanneer de aanvraag tot wijziging van de verplichtstelling volledig is en inhoudelijk voldoet aan de vereisten, wordt met de procedure wat betreft de bekendmaking in de Staatscourant en (eventueel) de zienswijzenprocedure gestart, zoals bij een eerste aanvraag tot verplichtstelling (zie paragraaf 4a).
 
@@ -596,9 +596,9 @@ Wanneer de aanvraag tot wijziging van de verplichtstelling volledig is en inhoud
 
 Als de werkingssfeer met een bepaalde groep beroepsgenoten wordt uitgebreid, wordt eerst de representativiteit binnen deze groep beoordeeld. Vervolgens wordt de representativiteit van de gehele groep beoordeeld. Indien ook beroepsgenoten in loondienst tot de werkingssfeer behoren dan wordt voor deze groep de representativiteit ook nog afzonderlijk beoordeeld. De beoordeling vindt plaats zoals beschreven in paragraaf 3.
 
-Als de werkingssfeer met een bepaalde groep beroepsgenoten wordt uitgebreid, wordt eerst de representativiteit binnen deze groep beoordeeld. Vervolgens wordt de representativiteit van de gehele groep beoordeeld. Indien ook beroepsgenoten in loondienst tot de werkingssfeer behoren dan wordt voor deze groep de representativiteit ook nog afzonderlijk beoordeeld. De beoordeling vindt plaats zoals beschreven in paragraaf 3.
+Zie voor de procedure met betrekking tot eventuele zienswijzen het gestelde in paragraaf 4a.
 
-### Zienswijzen
+### Overleg met DNB
 
 ### Overleg met DNB
 
@@ -612,9 +612,9 @@ De aanvrager om wijziging van de verplichtstelling en de eventuele indieners van
 
 (zie hiervoor paragraaf 4a)
 
-### Zienswijzen
+### Overleg met DNB
 
-Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de intrekking als informatie dienen.
+Een besluit betreffende een intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
 ### Aanvraag intrekking deel van verplichtstelling
 
@@ -622,17 +622,17 @@ Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BW
 
 Op basis van [artikel 13 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) zijn nadere regels gesteld waaraan de aanvraag van een intrekking van de verplichtstelling moet voldoen ([Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895)).
 
-Ook een aanvraag tot gedeeltelijke intrekking van de verplichtstelling wordt bekendgemaakt in de Staatscourant en tegen een dergelijke intrekkingsaanvraag kunnen zienswijzen worden ingebracht.
+(Zie hiervoor paragraaf 4a).
 
 ### Representativiteit
 
-In beide gevallen moet de beroepspensioenvereniging wel een belangrijke meerderheid vertegenwoordigen van de groep waarvoor gedeeltelijke intrekking wordt gevraagd.
+De Minister van SZW zal in geval van gedeeltelijke intrekking ook de beroepsgenoten bij het proces betrekken voor wie de verplichtstelling in stand blijft. Zij zullen worden geïnformeerd over de aanvraag tot gedeeltelijke intrekking, opdat zij hun opvatting hierover aan de Minister van SZW kenbaar kunnen maken. Immers de groep van beroepsgenoten waarvoor intrekking van de verplichtstelling wordt gevraagd, maakt onderdeel uit van de verplichtgestelde beroepspensioenregeling. Een vertrek uit die regeling heeft consequenties voor ‘de achterblijvers’. Bovendien bestaat ook bij een aanvraag tot intrekking van een deel van de verplichtstelling de mogelijkheid zienswijzen in te dienen.
 
-De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling(zie hiervoor paragraaf 4a).
+De Minister van SZW zal in het geval van een aanvraag tot gedeeltelijke intrekking van de verplichtstelling in overleg treden met DNB.
 
 ### Overleg met DNB
 
-DNB zal zich in het bijzonder ook buigen over de consequenties van de gedeeltelijke intrekking voor de financiële positie van het beroepspensioenfonds en zijn deelnemers.
+Op grond van [artikel 15, derde lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=15) kan de Minister van SZW ter bescherming van de rechten van de deelnemers of gewezen deelnemers voorschriften verbinden aan een besluit tot gedeeltelijke intrekking. Daarbij kan de opvatting van DNB over de financiële gevolgen van de gedeeltelijke intrekking als informatie dienen.
 
 ### Besluit tot gedeeltelijke intrekking
 
@@ -642,21 +642,21 @@ De aanvragers om gedeeltelijke intrekking en de eventuele indieners van zienswij
 
 ### Voornemen tot ambtshalve intrekking
 
-Op grond van [artikel 14, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=14) is van een uitzonderlijk geval in ieder geval sprake indien er geen bijdragen meer aan de pensioenuitvoerder worden gedaan.
+De Minister van SZW kan in het uiterste geval waarin een beroepspensioenfonds weigert de situatie binnen het fonds te wijzigen en bijvoorbeeld vasthoudt aan een regeling die niet de instemming heeft van de DNB of op andere wijze onbehoorlijk handelt, overgaan tot ambtshalve intrekking.
 
-Deze bevoegdheid kan ook uitkomst bieden in het geval dat, in het kader van een aanvraag tot intrekking van de verplichtstelling, niet langer is aangetoond dat sprake is van een representatieve beroepspensioenvereniging in de beroepsgroep waarvoor deelname aan een beroepspensioenregeling verplicht is gesteld.
+De beroepsvereniging die niet meer aan het belangrijke meerderheidsvereiste voldoet kan geen gebruik maken van het zelf met succes indienen van een aanvraag tot intrekking op basis van [artikel 13 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), omdat niet kan worden voldaan aan de voorwaarde van representativiteit.
 
-Een voornemen tot ambtshalve intrekking wordt bekend gemaakt in de Staatscourant.
+Ook tegen een voornemen tot ambtshalve intrekking kunnen zienswijzen worden ingebracht. De zienswijzenprocedure verloopt conform de procedure bij een aanvraag tot verplichtstelling (zie hiervoor paragraaf 4a).
 
-### Zienswijzen
+### Overleg met DNB
 
-In het geval van een voornemen tot ambtshalve intrekking zal DNB worden gevraagd, voorzover er sprake is van uitvoering door een pensioenfonds, te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de ambtshalve intrekking van (een deel van) de verplichtstelling.
+Een besluit tot ambtshalve intrekking wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
 ### Besluit tot ambtshalve intrekking
 
 ### f. intrekking van de verplichtstelling op grond van onvoldoende representativiteit
 
-[Artikel 7 van de Regeling verplichtstelling beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&artikel=17) geeft aan waaraan zo’n aanvraag moet voldoen .
+Voor gedetacheerde beroepsgenoten van wie de detachering is begonnen op of na 25 juli 2001 en die vanuit landen binnen de Europese Unie zijn gedetacheerd hoeft geen ontheffing te worden aangevraagd indien de betaling van premies in een andere lidstaat wordt voortgezet. Deze beroepsgenoten en hun werkgevers zijn op basis van [artikel 17, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) vrijgesteld van de verplichting tot het betalen van premies in Nederland.
 
 [Artikel 18 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) heeft nog betekenis voor die gevallen waarop [artikel 17 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) niet van toepassing is. Bijvoorbeeld bij detacheringen die begonnen zijn vóór 25 juli 2001 of bij detacheringen van buiten de Europese Unie. Ook houdt artikel 17 nog betekenis voor gevallen waar het gaat om personen die in een andere hoedanigheid (dan detachering) tijdelijk in Nederland werkzaam zijn.
 
@@ -672,7 +672,7 @@ De Minister van SZW doet in de Staatscourant melding van de wijziging. Binnen vi
 
 ### Overlapping van werkingssferen
 
-Indien overlap wordt geconstateerd bij twee gelijktijdig in behandeling zijnde aanvragen, de een in het kader van de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) en de ander in het kader van de [wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), worden beide aanvragen aangehouden. Aanvragers zullen worden verzocht een oplossing te vinden voor de overlap bij gebreke waarvan niet tot besluitvorming kan worden overgegaan.
+Indien overlap wordt geconstateerd bij twee gelijktijdig in behandeling zijnde aanvragen, de één in het kader van de [Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) en de ander in het kader van de [wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), worden beide aanvragen aangehouden. Aanvragers zullen worden verzocht een oplossing te vinden voor de overlap bij gebreke waarvan niet tot besluitvorming kan worden overgegaan.
 
 ### Beoordeling van de representativiteit van de beroepspensioenvereniging
 
@@ -696,15 +696,15 @@ DNB zal in de procedure tot intrekking worden geraadpleegd over de consequenties
 
 ### Zienswijzen
 
-Na vaststelling van de volledigheid van de aanvraag en het voldoen aan de vereisten waaronder die van de representativiteit zoals in dit toetsingkader toegelicht, zal de aanvraag tot verplichtstelling bekend worden gemaakt door publicatie in de Staatscourant ([artikel 16, eerste lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=16)). Dat is het moment waarop de behandeling van de aanvraag start. Daarbij wordt aangegeven binnen welke termijn derden/belanghebbenden zienswijzen kunnen indienen tegen de aanvraag (artikel 16, tweede lid, Wvb).
+De termijn van tervisielegging bedraagt in beginsel vier weken. Gedurende deze termijn van vier weken liggen de op de aanvraag van verplichtstelling betrekking hebbende stukken ter visie en kunnen zienswijzen worden ingediend.
 
 ### Overleg met DNB
 
 ### Besluit
 
-Na ontvangst van het oordeel van DNB en eventueel van de SER zal de Minister van SZW een besluit nemen.
+Een besluit tot verplichtstelling wordt bekendgemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit wordt met redenen omkleed wanneer tegen de aanvraag zienswijzen zijn ingebracht.
 
-### b. wijziging van de verplichtstelling
+### Indienen aanvraag tot wijziging
 
 ### Representativiteit
 
@@ -720,15 +720,15 @@ In het geval van een aanvraag tot een volledige intrekking zal worden beoordeeld
 
 ### Overleg met DNB
 
-De Minister van SZW zal in het geval van een aanvraag tot intrekking van de verplichtstelling in overleg treden met DNB. Een intrekking kan financiële gevolgen hebben voor het beroepspensioenfonds of de deelnemers in het beroepspensioenfonds.
+In het geval van een aanvraag tot intrekking zal DNB worden gevraagd te oordelen over de financiële opzet van het beroepspensioenfonds en de grondslagen waarop die opzet is gebaseerd, ook na de intrekking van de verplichtstelling.
 
-Een besluit betreffende een intrekking van de verplichtstelling wordt bekend gemaakt in de Staatscourant. De datum van in werking treden wordt in het besluit vermeld waarbij voor de volledigheid wordt aangegeven dat het besluit geen terugwerkende kracht heeft. Het besluit tot intrekking wordt met redenen omkleed uitgebracht wanneer tegen de aanvraag zienswijzen zijn ingebracht.
+De aanvrager tot intrekking en de eventuele indieners van zienswijzen, evenals DNB worden schriftelijk (elektronisch) geïnformeerd over het genomen besluit. De SER wordt schriftelijk (elektronisch) geïnformeerd in het geval dat in de procedure sprake was van zienswijzen of onduidelijkheden over de representativiteit.
 
-### d. intrekking van een deel van de verplichtstelling op aanvraag van de beroepspensioenvereniging
+### Aanvraag intrekking deel van verplichtstelling
 
 ### Een deel van de verplichtstelling
 
-Zo’n deel kan op grond van [artikel 13, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) bestaan uit een of meer bepaalde groepen beroepsgenoten. Er is sprake van een bepaalde groep als de deelnemers ervan binnen de beroepsgroep helder te onderscheiden zijn op grond van hun activiteiten. Er is ook sprake van een groep als de deelnemers ervan allen beroepsgenoten in loondienst zijn.
+De intrekking mag niet tot gevolg hebben dat alleen verplichtstelling resteert voor de beroepsgenoten in loondienst.
 
 ### Representativiteit
 
@@ -746,6 +746,36 @@ In het geval van een voornemen tot ambtshalve intrekking zal DNB worden gevraagd
 
 ### g. ontheffing
 
-Op basis van [artikel 18 Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) kan ontheffing van verplichtstelling worden gevraagd aan de Minister van SZW. Een dergelijke aanvraag moet schriftelijk bij de Minister van SZW worden ingediend en wordt namens deze behandeld door de directie UAW.
+Een dergelijk aanvraag kan worden gedaan door of voor een individuele persoon, die slechts gedurende een beperkte periode in Nederland werkzaam is. Deze periode duurt in beginsel maximaal vijf jaar.
 
 ### h. wijziging van de beroepspensioenregeling
+
+### Belangrijke meerderheid in de periodieke toets
+
+### Zienswijzen
+
+### Besluit
+
+### b. wijziging van de verplichtstelling
+
+### Besluit tot wijziging
+
+### c. intrekking van de verplichtstelling op aanvraag van de beroepspensioenvereniging
+
+### Besluit tot intrekking
+
+### d. intrekking van een deel van de verplichtstelling op aanvraag van de beroepspensioenvereniging
+
+### Representativiteit
+
+### Zienswijzen
+
+### Besluit tot gedeeltelijke intrekking
+
+### e. ambtshalve intrekking van de verplichtstelling
+
+### Zienswijzen
+
+### f. intrekking van de verplichtstelling op grond van onvoldoende representativiteit
+
+### g. ontheffing
