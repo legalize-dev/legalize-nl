@@ -4,7 +4,7 @@ identifier: "BWBR0043668"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2020-10-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043668"
 soort: "wet"
@@ -66,8 +66,6 @@ Op beslagen die zijn gelegd voor de datum van inwerkingtreding van deze wet, bli
 ##### Artikel VI
 
 Wijzigt deze wet, de Wet vereenvoudiging beslagvrije voet, en de Verzamelwet SZW 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
