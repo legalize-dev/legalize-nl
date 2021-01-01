@@ -4,7 +4,7 @@ identifier: "BWBR0044832"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-19"
-last_updated: "2020-11-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044832"
 soort: "zbo"
@@ -37,25 +37,17 @@ entry_into_force: "2021-02-19"
 
 Wijzigt de Deelregeling projectsubsidies Fonds Podiumkunsten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Deelregeling internationaliseringssubsidies Fonds Podiumkunsten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt de Deelregeling composities en libretto's Fonds Podiumkunsten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Deelregeling programmeringssubsidies Fonds Podiumkunsten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
@@ -63,15 +55,17 @@ Wijzigt de Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringe
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+De [Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2013–2016](https://wetten.overheid.nl/jci1.3:c:BWBR0030587) wordt ingetrokken.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Aanvragen voor het Programmeringssubsidie incidentele concerten popmuziek mogen nog tot en met 31 januari 2021 worden ingediend mits de activiteiten waarvoor wordt aangevraagd, hebben plaatsgevonden in 2020. Aanvragen worden afgehandeld op basis van de regeling zoals die gold op 31 december 2020.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044832&artikel=I&z=2021-02-19&g=2021-01-01) en de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044832&artikel=VI&z=2021-02-19&g=2021-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044832&artikel=VII&z=2021-02-19&g=2021-01-01) treden met terugwerkende kracht in werking met ingang van 1 januari 2021.
+
+2. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0044832&artikel=V&z=2021-02-19&g=2021-01-01) treedt met terugwerkende kracht in werking op 1 november 2020.
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0022753&artikel=2)
 
