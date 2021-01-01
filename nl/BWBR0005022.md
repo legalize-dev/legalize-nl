@@ -4,7 +4,7 @@ identifier: "BWBR0005022"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2015-12-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005022"
 soort: "AMvB"
@@ -52,15 +52,15 @@ Hebben goedgevonden en verstaan:
 
 - b. 175.000 rekeneenheden per reiziger in geval van vervoer over krachtens [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2) aangewezen hoofdspoorwegen of in geval van vervoer over krachtens [artikel 2, eerste lid van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=2) aangewezen lokale spoorwegen, als bedoeld in [artikel 3, derde lid van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=3);
 
-- c. € 137.000 per reiziger in geval van vervoer over zee of binnenwateren.
+- c. 400.000 rekeneenheden per reiziger in geval van vervoer over zee of binnenwateren.
 
 2. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente, mag het gekapitaliseerde bedrag het bedrag waartoe de aansprakelijkheid is beperkt op grond van het eerste lid niet te boven gaan.
 
 ##### Artikel 2
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2015-12-01&g=2015-12-01), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2015-12-01&g=2015-12-01), tot een bedrag van 1400 rekeneenheden. In geval van vervoersdiensten als bedoeld in artikel 2, eerste en derde lid, van Verordening (EU) Nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (Pb EU L 55) is de schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage beperkt tot een bedrag van € 1500 per stuk.
+1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2021-01-01&g=2021-01-01), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2021-01-01&g=2021-01-01), tot een bedrag van 1400 rekeneenheden. In geval van vervoersdiensten als bedoeld in artikel 2, eerste en derde lid, van Verordening (EU) Nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (Pb EU L 55) is de schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage beperkt tot een bedrag van € 1500 per stuk.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2015-12-01&g=2015-12-01), beperkt tot een bedrag van € 9100 per voertuig of schip.
+2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2021-01-01&g=2021-01-01), beperkt tot een bedrag van € 9100 per voertuig of schip.
 
 ##### Artikel 3
 
