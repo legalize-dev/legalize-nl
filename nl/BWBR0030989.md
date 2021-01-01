@@ -4,7 +4,7 @@ identifier: "BWBR0030989"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030989"
 soort: "AMvB"
@@ -48,7 +48,32 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Wijzigt de Wet op de zorgtoeslag.
+Het percentage van het drempelinkomen respectievelijk het percentage van het toetsingsinkomen, bedoeld in [artikel 2, derde lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2), worden voor de hierna genoemde berekeningsjaren vastgesteld als in navolgend schema voor verzekerden met en zonder partner weergegeven:
+
+|   | Percentage van het drempelinkomen | Percentage van het drempelinkomen | Percentage van het toetsingsinkomen voor zover dat het drempelinkomen te boven gaat | Percentage van het toetsingsinkomen voor zover dat het drempelinkomen te boven gaat |
+| --- | --- | --- | --- | --- |
+|   |   |   |   |   |
+| Berekeningsjaar | Zonder partner | Met partner | Zonder partner | Met partner |
+| 2021 | 1,885% | 4,195% | 13,580% | 13,580% |
+| 2022 | 1,900% | 4,210% | 13,610% | 13,610% |
+| 2023 | 1,915% | 4,225% | 13,640% | 13,640% |
+| 2024 | 1,930% | 4,240% | 13,670% | 13,670% |
+| 2025 | 1,945% | 4,255% | 13,700% | 13,700% |
+| 2026 | 1,960% | 4,270% | 13,730% | 13,730% |
+| 2027 | 1,975% | 4,285% | 13,760% | 13,760% |
+| 2028 | 1,990% | 4,300% | 13,790% | 13,790% |
+| 2029 | 2,005% | 4,315% | 13,820% | 13,820% |
+| 2030 | 2,020% | 4,330% | 13,850% | 13,850% |
+| 2031 | 2,035% | 4,345% | 13,880% | 13,880% |
+| 2032 | 2,050% | 4,360% | 13,910% | 13,910% |
+| 2033 | 2,065% | 4,375% | 13,940% | 13,940% |
+| 2034 | 2,080% | 4,390% | 13,970% | 13,970% |
+| 2035 | 2,095% | 4,405% | 14,000% | 14,000% |
+| 2036 | 2,110% | 4,420% | 14,030% | 14,030% |
+| 2037 | 2,125% | 4,435% | 14,060% | 14,060% |
+| 2038 | 2,140% | 4,450% | 14,090% | 14,090% |
+| 2039 | 2,155% | 4,465% | 14,120% | 14,120% |
+| 2040 | 2,170% | 4,480% | 14,150% | 14,150% |
 
 ##### Artikel 2
 
