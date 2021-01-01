@@ -4,7 +4,7 @@ identifier: "BWBR0046105"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046105"
 soort: "wet"
@@ -52,7 +52,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Tot de winst, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8), behoort niet een subsidie aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen startende MKB-onderneming die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze MKB-onderneming in staat te stellen in de periode van 1 januari 2021 tot en met 31 maart 2021 de vaste lasten te betalen.
+
+2. De winst, bedoeld in [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), wordt mede opgevat en bepaald op de voet van het eerste lid.
 
 ##### Artikel IV
 
@@ -74,7 +76,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De vrije ruimte, bedoeld in [artikel 31a, derde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), bedraagt voor het kalenderjaar 2021, in afwijking van de in dat kalenderjaar geldende tekst van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471):
+
+- a. 3% van het loon waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven met een maximum van € 12.000, vermeerderd met:
+
+- b. 1,18% van het loon waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven voor zover dat loon meer bedraagt dan € 400.000.
 
 ##### Artikel VIII
 
@@ -183,11 +189,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming voor het jaar 2022 en dat het ook in het kader van het fiscale beleid voor het jaar 2022 en volgende jaren wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
