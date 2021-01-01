@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2020-10-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,26 +54,26 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2020 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2021 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-| naam gemeente | aantal behandeleenheden | maximum aantal behandelplaatsen | maximale uitkering 2020 |
+| naam gemeente | aantal behandel- eenheden | maximum aantal behandelplaatsen | maximale uitkering 2021 |
 | --- | --- | --- | --- |
-| Amsterdam | 2 | 100 | € 1.953.568 |
-| Apeldoorn | 1 | 21 | € 584.949 |
-| Arnhem | 1 | 25 | € 666.254 |
-| Den Haag | 1 | 65 | € 1.219.573 |
-| Deventer | 1 | 20 | € 564.623 |
-| Eindhoven | 1 | 20 | € 564.623 |
-| Enschede | 1 | 27 | € 702.391 |
-| Groningen | 1 | 42 | € 941.787 |
-| Heerlen | 1 | 35 | € 835.640 |
-| ’s-Hertogenbosch | 1 | 20 | € 564.623 |
-| Leeuwarden | 1 | 30 | € 756.595 |
-| Maastricht | 1 | 20 | € 564.623 |
-| Nijmegen | 1 | 20 | € 564.623 |
-| Rotterdam | 1 | 90 | € 1.501.863 |
-| Tilburg | 1 | 23 | € 625.602 |
-| Utrecht | 1 | 44 | € 968.889 |
+| Amsterdam | 2 | 100 | 2.004.838 |
+| Apeldoorn | 1 | 20 | 579.439 |
+| Arnhem | 1 | 24 | 662.876 |
+| Den Haag | 1 | 65 | 1.251.575 |
+| Deventer | 1 | 20 | 579.439 |
+| Eindhoven | 1 | 20 | 579.439 |
+| Enschede | 1 | 25 | 683.735 |
+| Groningen | 1 | 37 | 890.013 |
+| Heerlen | 1 | 35 | 857.565 |
+| ’s-Hertogenbosch | 1 | 20 | 579.439 |
+| Leeuwarden | 1 | 30 | 776.446 |
+| Maastricht | 1 | 20 | 579.439 |
+| Nijmegen | 1 | 20 | 579.439 |
+| Rotterdam | 1 | 83 | 1.460.164 |
+| Tilburg | 1 | 20 | 579.439 |
+| Utrecht | 1 | 44 | 994.311 |
 
 2. Onder kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -165,7 +165,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2020-10-24&g=2020-10-24), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2021-01-01&g=2021-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 2. De specifieke uitkering wordt vastgesteld op een bedrag voor:
 
