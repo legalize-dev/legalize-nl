@@ -4,7 +4,7 @@ identifier: "BWBR0038841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2017-09-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038841"
 soort: "ministeriele-regeling"
@@ -112,41 +112,17 @@ De methode voor de uitvoering van bloedonderzoek voor het bepalen van het gehalt
 
 ##### Artikel 6
 
-1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 12, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12) ten behoeve van een tegenonderzoek bedraagt € 62,– indien het afnemen van bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 81,– indien het afnemen geschiedt in de periode 18.00 uur ’s avonds tot 08.00 uur ’s ochtends of in de periode van 18.00 uur vrijdagavond tot 08.00 uur maandagochtend.
+1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 12, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12) ten behoeve van een tegenonderzoek bedraagt € 78,– indien het afnemen van bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en €102,– indien het afnemen geschiedt in de periode 18.00 uur ’s avonds tot 08.00 uur ’s ochtends of in de periode van 18.00 uur vrijdagavond tot 08.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2017-09-01&g=2017-09-01) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2021-01-01&g=2021-01-01) opgenomen kosten verschuldigd.
 
 ##### Artikel 7
 
-1. Voor het verrichten van een voorlopig onderzoek van uitgeademde lucht als bedoeld in [artikel 5, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=5) worden tot 1 januari 2021 de volgende typen ademtesters aangewezen:
-
-- a. Dräger Alcotest 6810;
-
-- b. Dräger Alcotest 7410;
-
-- c. Dräger Alcotest 7510;
-
-- d. Lion SL 400/SD 400;
-
-- e. Honac Alcosensor IV BlackDot;
-
-- f. Intoximeters Alcosensor FST2;
-
-- g. Envitec Wismar Alcoquant 6020-plus.
-
-2. De ademtesters, bedoeld in het eerste lid, mogen op 1 januari 2017 niet ouder dan vijf jaar zijn en dienen de in [artikel 4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=4) genoemde grenswaarde voor alcohol te kunnen meten, rekening houdend met een correctie van 80 ug/l.
+Voor het verrichten van een voorlopig ademonderzoek van uitgeademde lucht als bedoeld in [artikel 5, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=5) wordt de Dräger Alcotest 7510 ademtester aangewezen.
 
 ##### Artikel 8
 
-Onverminderd [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=3&z=2017-09-01&g=2017-09-01), worden voor het verrichten van een nader ademonderzoek als bedoeld in [artikel 11, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=11) tot 1 januari 2021 tevens de volgende typen ademanalyseapparaten aangewezen:
-
-- a. ademanalyseapparaten van het type National Patent Analytical Systems Inc. BAC Datamaster II die zijn voorzien van het goedkeuringsteken IJK-87401;
-
-- b. ademanalyseapparaten van het type Dräger Alcotest 7110 NL die zijn voorzien van het goedkeuringsteken IJK88402;
-
-- c. ademanalyseapparaten van het type Intoximeters Inc. Intox EC/I R die zijn voorzien van het goedkeuringsteken T5973;
-
-- d. ademanalyseapparaten van het type Alcotest 7110 MK111 NL, die zijn voorzien van goedkeuringsteken IJK 94403.
+Vervallen
 
 ##### Artikel 9
 
@@ -209,13 +185,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 9, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=9), wordt het type Dräger DrugCheck 3000 als speekseltester aangewezen.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2017-09-01&g=2017-09-01) van de Regeling middelenonderzoek bij geweldplegers
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2021-01-01&g=2021-01-01) van de Regeling middelenonderzoek bij geweldplegers
 
 Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt aan de volgende eisen voldaan:
 
 - •. Zo spoedig mogelijk na de bloedafname worden de twee buisjes bloed bevroren bewaard of, als dat niet mogelijk is, in de koelkast.1Een bewaartemperatuur bij ongeveer -20°C heeft de voorkeur. Het bloedblok wordt liggend op het grootste oppervlak in de vriezer geplaatst om de kans op breuk van de bloedbuizen te minimaliseren.
 
-- •. Het dient duidelijk te zijn op welke wijze het transport van de twee buisjes bloed van de politie naar het laboratorium en tussen laboratoria plaatsvindt.
+- •. In geval van een tegenonderzoek op alcohol wordt het buisje bloed gekoeld getransporteerd. In geval van een tegenonderzoek op andere stoffen, al dan niet in combinatie met tegenonderzoek op alcohol, wordt het buisje bloed op droogijs of in een vriezer van ongeveer –20°C getransporteerd.
 
 - •. Het gehalte van alcohol of een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt minimaal in tweevoud (duplo) bepaald.
 
@@ -225,9 +201,9 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. Ter bevestiging van het gebruik van cocaïne en ter verificatie van het resultaat van het onderzoek naar het gehalte van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) wordt ook de aanwezigheid van benzoylegonine bepaald. Cocaïne wordt alleen gerapporteerd als benzoylecgonine aanwezig is. Er wordt geen grenswaarde voor benzoylecgonine voorgesteld en de aanwezigheid van benzoylecgonine wordt niet gerapporteerd.
 
-- •. Van benzoylecgonine wordt minimaal de LOI vastgesteld bij validatie.
+- •. Van benzoylecgonine wordt minimaal de ‘limit of identification’ (LOI) vastgesteld bij validatie. Deze dient 5 microgram per liter te zijn.
 
-- •. De ‘limit of identification’ (LOI) is gedefinieerd als 2x de ‘limit of detection’3http://depa.fquim.unam.mx/amyd/archivero/Limite_deteccion_4836.pdf en mag niet boven de ondergrens van de kwantitatieve bepaling (LLOQ) liggen.
+- •. De LOI is gedefinieerd als 2x de ‘limit of detection’3http://depa.fquim.unam.mx/amyd/archivero/Limite_deteccion_4836.pdf en mag niet boven de ondergrens van de kwantitatieve bepaling (‘lower limit of quantification’, LLOQ) liggen.
 
 - •. De ‘uitgebreide meetonzekerheid’ voor een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) is maximaal 30% en wordt berekend uit de afwijking van de juiste waarde (‘bias’), de spreiding in de juistheidsmetingen en de reproduceerbaarheid binnen het laboratorium (‘intermediate precision’).
 
@@ -241,7 +217,7 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. Resultaten en tussenberekeningen van het onderzoek worden niet afgerond. Het resultaat van de duplometingen van het gehalte van alcohol of een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt gemiddeld. Op dat gemiddelde dat tevens het eindresultaat is, vindt een correctie-aftrek plaats van 30% bij de middelen, bedoeld in artikel 3 van het Besluit, en van 6% bij alcohol.
 
-- •. De einduitkomst wordt afgerond op twee significante cijfers bij de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3). Bij alcohol wordt de einduitkomst gerapporteerd met 2 decimalen.
+- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3).4Om praktische redenen wordt een uitzondering gemaakt voor waarden vanaf 100, waarbij het eindresultaat wordt afgerond op drie significante cijfers, en voor waarden vanaf 1.000, waarbij het eindresultaat wordt afgerond op vier significante cijfers. Bij alcohol wordt het eindresultaat gerapporteerd met 2 decimalen.
 
 - •. De bloedgehaltes worden in tabelvorm in het rapport opgenomen zoals in het hierna getoonde voorbeeld.
 
@@ -256,12 +232,12 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. Er wordt bij het rapporteren van de resultaten geen rekening gehouden met medicinaal gebruik van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3).
 
-## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2017-09-01&g=2017-09-01)
+## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2021-01-01&g=2021-01-01)
 
 |   | Tegenonderzoek naar gehalte van alcohol in bloed | Tegenonderzoek naar gehalte van de in artikel 3 van het Besluit aangewezen stoffen |
 | --- | --- | --- |
 | **Transportkosten binnen Nederland** | € 0,85 per km (koeltransport) | € 0,53 per km |
-| **Temperatuur en daarbij horende kosten van transport** | Geen extra kosten | Vervoer op droogijs: € 184 |
+| **Temperatuur en daarbij horende kosten van transport** | Geen extra kosten | Vervoer op droogijs of in de vriezer: € 184 |
 | **Verpakkingsmateriaal ten behoeve van verzending** | € 17 | € 17 |
 
 Indien de verdachte een laboratorium buiten Nederland aanwijst voor tegenonderzoek zullen de verzendkosten hoger liggen. Naast de kilometerprijs dient in dat geval rekening gehouden te worden met eventuele reis- en verblijfkosten van de transporteur. Aan het transportbedrijf wordt in deze situatie door de instantie die het bloed verstuurt, gevraagd een offerte op te maken en krijgt de verdachte binnen twee werkdagen een terugkoppeling van de verzendkosten.
