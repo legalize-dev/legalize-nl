@@ -4,7 +4,7 @@ identifier: "BWBR0035887"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035887"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Het tarief, bedoeld in [artikel 153a, tweede lid, van de Wegenverkeerswet 1994](
 
 - a. € 22,50 per kalenderjaar, per verkeersteken dat voor de desbetreffende wegbeheerder of eigenaar als bewegwijzeringsobject onderdeel uitmaakt van de categorie bewegwijzering, bepaald naar de peildatum van 1 juli van het jaar voorafgaand aan het jaar waarop het tarief betrekking heeft, te betalen na ontvangst van de daarvoor opgemaakte factuur, binnen dertig dagen na ontvangst daarvan;
 
-- b. € 79, € 89 of € 99 per uur, voor opdrachten van wegbeheerders of eigenaren, door de Minister van Infrastructuur en Milieu te bepalen naar rato van de inzet bij de uitvoering van de opdracht van medewerkers op verschillende niveaus van ervaring en deskundigheid.
+- b. € 85, € 95 of € 106 per uur, voor opdrachten van wegbeheerders of eigenaren, door de Minister van Infrastructuur en Milieu te bepalen naar rato van de inzet bij de uitvoering van de opdracht van medewerkers op verschillende niveaus van ervaring en deskundigheid.
 
 ##### Artikel 2
 
