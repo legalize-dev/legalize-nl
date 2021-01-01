@@ -4,7 +4,7 @@ identifier: "BWBR0036560"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-05"
-last_updated: "2019-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036560"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I van de wet van
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamen rijbewijscategorie T.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036560&artikel=1&z=2019-01-01&g=2019-01-01) van de Regeling eisen praktijkexamen rijbewijscategorie T
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036560&artikel=1&z=2021-01-05&g=2021-01-01) van de Regeling eisen praktijkexamen rijbewijscategorie T
 
 ### Toetsmatrijs Praktijkexamen Rijbewijs voor categorie T
 
