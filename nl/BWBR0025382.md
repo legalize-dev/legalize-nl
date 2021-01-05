@@ -4,7 +4,7 @@ identifier: "BWBR0025382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-05"
-last_updated: "2013-01-01"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025382"
 soort: "ministeriele-regeling"
@@ -48,9 +48,7 @@ Besluit:
 
 - b. buitenlands gekentekende motorrijtuigen of aanhangwagens;
 
-- c. pleziervaartuigen;
-
-- d. land- en bosbouwvoertuigen en wegenbouw- en waterbouwwerktuigen, voor zover deze niet vallen onder de onderdelen a tot en met c.
+- c. pleziervaartuigen.
 
 2. Onder de in het eerste lid bedoelde gegevens die, voor zover bekend, worden geregistreerd worden verstaan:
 
