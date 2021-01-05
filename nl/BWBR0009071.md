@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -59,9 +59,11 @@ Besluit:
 
 - a. kentekens, bevattende de lettergroep AA of CDJ en vóór 1 januari 1991 opgegeven kentekens bevattende de lettergroep CD uit een samenstel van genoemde lettergroep en één groep van ten hoogste drie cijfers,
 
-- b. kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van drie letters en cijfers of een combinatie daarvan, en
+- b. kentekens als bedoeld in [artikel 4, derde lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) uit een samenstel van de lettergroep ZZ of ZZZ en twee groepen van twee cijfers respectievelijk één cijfer en één groep van twee cijfers,
 
-- c. kentekens als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van twee cijfers en één enkele letter.
+- c. kentekens als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) uit een samenstel van twee of drie groepen van letters en cijfers, en
+
+- d. kentekens als bedoeld in [artikel 4, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) uit een samenstel van de enkele letter A, E, H, K, L, N, P, S, T, V, W of X en twee groepen van twee cijfers of één cijfer en één groep van drie cijfers.
 
 3. Voor een bedrijfsauto of bus waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg wordt een kenteken opgegeven:
 
@@ -103,11 +105,13 @@ Besluit:
 
 - 2°. Voor wat betreft motorrijtuigen die worden gebruikt voor taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), in zwarte, onuitwisbare tekens op een retroreflecterende lichtblauwe achtergrond. Voor wat betreft voertuigen die vóór 1 januari 1978 in gebruik zijn genomen en waarvoor geen kenteken is opgegeven dat bestaat uit twee groepen van twee letters en één groep van twee cijfers, dan wel één groep van twee letters, één groep van drie cijfers en één enkele letter, of één groep van twee cijfers, één groep van drie letters en één enkel cijfer mogen deze kentekens in plaats van in zwarte, onuitwisbare tekens op een retrorefelecterende gele achtergrond, worden aangebracht in witte, onuitwisbare tekens op een donkerblauwe achtergrond. De kleuren geel, donkerblauw en lichtblauw moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172);
 
-- c. mag op een kentekenplichtige aanhangwagen die in gebruik is genomen voor 1 januari 1978, een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op donkerblauwe achtergrond volgens de modellen 1.1, 2.1, 8.1, 9.1, 10.1, 11.1, 12.1 en de modellen 15.1 tot en met 17.3 van de bijlage;
+- c. mag op een kentekenplichtige landbouw- en bosbouwtrekker die, een motorrijtuig met beperkte snelheid dat of een mobiele machine die in gebruik is genomen vóór 1 januari 1978 een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op een donkerblauwe achtergrond volgens de modellen 1.1 tot en met 17.3 van de bijlage;
 
-- d. dient voor zover een kentekenplaat volgens de modellen 27.1A tot en met 30.14 dient te zijn voorzien van een duplicaatcode deze te zijn aangebracht in zwarte onuitwisbare tekens.
+- d. mag op een kentekenplichtige aanhangwagen die in gebruik is genomen voor 1 januari 1978, een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op donkerblauwe achtergrond volgens de modellen 1.1, 2.1, 8.1, 9.1, 10.1, 11.1, 12.1 en de modellen 15.1 tot en met 17.3 van de bijlage en volgens het model 4.1 indien het betreft een kentekenplichtige aanhangwagen die wordt voortbewogen door een landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid of mobiele machine;
 
-3. Met betrekking tot motorrijtuigen die voor 1 februari 2000 in gebruik zijn genomen mogen kentekens, niet zijnde handelaarskentekens of kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), in afwijking van het eerste lid zijn aangebracht op een gele achtergrond volgens de modellen 11.1, 12.1, 13.1, 14.1, en 18.1 van de bijlage en, voor zover het betreft kentekens behorende tot de lettergroep AA en CDJ alsmede vóór 1 februari 1991 opgegeven kentekens bevattende de lettergroep CD, volgens de modellen 15.1, 16.1, 17.1, 17.2 en 17.3 van de bijlage. Deze afwijkingsmogelijkheid geldt:
+- e. dient voor zover een kentekenplaat volgens de modellen 27.1A tot en met 30.14 dient te zijn voorzien van een duplicaatcode deze te zijn aangebracht in zwarte onuitwisbare tekens.
+
+3. Met betrekking tot motorrijtuigen die voor 1 februari 2000 in gebruik zijn genomen mogen kentekens, niet zijnde handelaarskentekens of kentekens als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), in afwijking van het eerste lid zijn aangebracht op een gele achtergrond volgens de modellen 11.1, 12.1, 13.1, 14.1, en 18.1 van de bijlage en, voor zover het betreft kentekens behorende tot de lettergroep AA en CDJ alsmede vóór 1 februari 1991 opgegeven kentekens bevattende de lettergroep CD, volgens de modellen 15.1, 16.1, 17.1, 17.2 en 17.3 van de bijlage. Deze afwijkingsmogelijkheid geldt:
 
 - a. voor APK-plichtige motorrijtuigen: tot de aanvang van de eerste periodieke keuring na 1 juni 2000, zulks onverminderd het zesde en zevende lid;.
 
@@ -119,21 +123,17 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - b. Op een niet-kentekenplichtige aanhangwagen mag het kenteken slechts zijn aangebracht op een kentekenplaat in een kleur en volgens een model als genoemd in het tweede lid, onder a, indien het kenteken op het trekkend motorrijtuig op een kentekenplaat in dezelfde kleur is aangebracht.
 
-- c. Op een aanhangwagen achter een motorrijtuig waarvoor een GV-kenteken is opgegeven, mag een kentekenplaat met het voor het trekkend motorrijtuig opgegeven kenteken worden gevoerd volgens de modellen 27.24A tot en met 27.25C.
+- c. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2021-01-05&g=2021-01-05), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
-- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2021-01-05&g=2021-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- d. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage.
 
-- e. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage.
-
-5. Vervallen.
-
-6. In afwijking van het eerste en derde lid moeten kentekens die zijn opgegeven voor motorrijtuigen die op of na 1 juli 2000 voor de eerste keer worden gebruikt voor taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), zijn aangebracht op kentekenplaten in zwarte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 27.30A tot en met 27.31C, onverminderd het bepaalde in het tweede lid, onderdeel b, aanhef en onder 2°. De kleur van de achtergrond is lichtblauw. De kleur van de rand is zwart. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
+5. In afwijking van het eerste en derde lid moeten kentekens die zijn opgegeven voor motorrijtuigen die op of na 1 juli 2000 voor de eerste keer worden gebruikt voor taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), zijn aangebracht op kentekenplaten in zwarte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 27.30A tot en met 27.31C, onverminderd het bepaalde in het tweede lid, onderdeel b, aanhef en onder 2°. De kleur van de achtergrond is lichtblauw. De kleur van de rand is zwart. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
 
 Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplaten volgens de modellen 27.15A tot en met 27.16E van de bijlage.
 
-7. Indien het kenteken van een motorrijtuig op meer dan drie wielen is aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E of 27.15A tot en met 27.16E van de bijlage, is het motorrijtuig aan de voor- en achterzijde voorzien van een kentekenplaat volgens hetzelfde model dan wel, voor wat betreft de modellen 27.15A tot en met 27.16E, van een kentekenplaat volgens één van deze modellen.
+6. Indien het kenteken van een motorrijtuig op meer dan drie wielen is aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E of 27.15A tot en met 27.16E van de bijlage, is het motorrijtuig aan de voor- en achterzijde voorzien van een kentekenplaat volgens hetzelfde model dan wel, voor wat betreft de modellen 27.15A tot en met 27.16E, van een kentekenplaat volgens één van deze modellen.
 
-8. In afwijking van de voorgaande leden moeten kentekens welke zijn opgegeven voor bromfietsen die geconstrueerd zijn voor een maximumsnelheid van ten hoogste 25 km/h niet zijnde speed-pedelecs, als bedoeld in [artikel 1, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 30.3A tot en met 30.4D. De kleur van de achtergrond is lichtblauw. De kleur van de rand is wit. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
+7. In afwijking van de voorgaande leden moeten kentekens welke zijn opgegeven voor bromfietsen die geconstrueerd zijn voor een maximumsnelheid van ten hoogste 25 km/h niet zijnde speed-pedelecs, als bedoeld in [artikel 1, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 30.3A tot en met 30.4D. De kleur van de achtergrond is lichtblauw. De kleur van de rand is wit. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
 
 ##### Artikel 4
 
@@ -187,7 +187,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2021-01-05&g=2021-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2021-01-05&g=2021-01-05), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
@@ -211,15 +211,15 @@ Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van
 
 ##### Artikel 7
 
-1. Bij motorrijtuigen op meer dan drie wielen, met uitzondering van bromfietsen, moeten de kentekenplaten zijn aangebracht aan de voor- en achterzijde van het motorrijtuig op de daartoe bestemde plaats.
+1. Bij motorrijtuigen op meer dan drie wielen, met uitzondering van bromfietsen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines, moeten de kentekenplaten zijn aangebracht aan de voor- en achterzijde van het motorrijtuig op de daartoe bestemde plaats.
 
 2. Bij motorrijtuigen op twee of drie wielen met of zonder zijspanwagen, met uitzondering van bromfietsen, moet de kentekenplaat zijn aangebracht aan de achterzijde van het motorrijtuig op de daartoe bestemde plaats.
 
 3. Bij aanhangwagens waarvoor een kenteken dient te zijn opgegeven moet de kentekenplaat zijn aangebracht aan de achterzijde van de aanhangwagen op de daartoe bestemde plaats.
 
-4. Bij bromfietsen moet de kentekenplaat zijn aangebracht aan de achterzijde van de bromfiets op de daartoe bestemde plaats.
+4. Bij bromfietsen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines moet de kentekenplaat zijn aangebracht aan de achterzijde van het motorrijtuig op de daartoe bestemde plaats.
 
-5. Bij aanhangwagens waarvoor het vereiste dat een kenteken dient te zijn opgegeven niet geldt, moet, indien de aanhangwagen is verbonden met een motorrijtuig, een kentekenplaat met het kenteken van het motorrijtuig zijn aangebracht aan de achterzijde van de aanhangwagen op de daartoe bestemde plaats.
+5. Bij aanhangwagens waarvoor het vereiste dat een kenteken dient te zijn opgegeven niet geldt, moet, indien de aanhangwagen is verbonden met een motorrijtuig, een kentekenplaat met het kenteken van het motorrijtuig dan wel, indien het een aanhangwagen als bedoeld in artikel 37, tweede lid, onderdeel c, van de wet betreft, een kenteken als bedoeld in dat onderdeel zijn aangebracht aan de achterzijde van de aanhangwagen op de daartoe bestemde plaats.
 
 6. De kentekenplaat moet loodrecht op het verticale mediaanvlak van het voertuig zijn aangebracht en zich in verticale stand bevinden, met een tolerantie van 5%. Indien de vorm van het voertuig zulks vereist, mag de kentekenplaat evenwel de volgende helling ten opzichte van de verticale stand hebben:
 
@@ -227,7 +227,7 @@ Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van
 
 - b. indien de van het kenteken voorziene zijde van de kentekenplaat naar beneden is gekeerd, een hoek van ten hoogste 15°, mits de bovenrand van de kentekenplaat zich op een grotere hoogte dan 1.20 m boven het wegdek bevindt.
 
-7. Het kenteken dat aan de voorzijde is aangebracht moet van voren, het kenteken dat aan de achterzijde is aangebracht, moet van achteren zichtbaar zijn en mag niet hoger dan 2 m boven het wegdek zijn aangebracht.
+7. Het kenteken dat aan de voorzijde is aangebracht moet van voren, het kenteken dat aan de achterzijde is aangebracht, moet van achteren zichtbaar zijn en mag niet hoger dan 4 m boven het wegdek zijn aangebracht.
 
 8. De kentekenplaat moet zodanig op het motorrijtuig dan wel de aanhangwagen bevestigd, dat:
 
@@ -265,11 +265,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2021-01-05&g=2021-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2021-01-05&g=2021-01-05), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
 
 ##### Artikel 8a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2021-01-05&g=2021-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2021-01-05&g=2021-01-05), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
 
 ## Bijlage
 
@@ -317,21 +317,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 **MODEL 27.2 H:**Voor:
 
-**MODEL 27.10 A:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
+**MODEL 27.10 A:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
 
-**MODEL 27.10 B:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
+**MODEL 27.10 B:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
 
-**MODEL 27.10 C:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
+**MODEL 27.10 C:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
 
-**MODEL 27.10 D:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
+**MODEL 27.10 D:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
 
-**MODEL 27.10 E:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
+**MODEL 27.10 E:**Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)).
 
 **MODEL 27.11:**Handelaarskentekens voor kentekenplichte motorrijtuigen op meer dan twee wielen alsmede voor kentekenplichte aanhangwagens.
 
 **MODEL 27.12:**Handelaarskentekens voor kentekenplichte motorrijtuigen op meer dan twee wielen alsmede voor kentekenplichte aanhangwagens.
 
-**MODEL 27.13:**Handelaarskentekens voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen.
+**MODEL 27.13:**Handelaarskentekens voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens.
 
 **MODEL 27.14:**Handelaarskentekens voor kentekenplichtige motorrijtuigen op meer dan twee wielen die gerechtigd zijn tot het voeren van een Amerikaans model kentekenplaten.
 
@@ -355,25 +355,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 **MODEL 27.16 E:**Voor kentekenplichtige motorrijtuigen op meer dan twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) en kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-**MODEL 27.17 A:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
+**MODEL 27.17 A:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-**MODEL 27.17 B:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
+**MODEL 27.17 B:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-**MODEL 27.17 C:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
+**MODEL 27.17 C:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-**MODEL 27.17 D:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
+**MODEL 27.17 D:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-**MODEL 27.17 E:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
+**MODEL 27.17 E:**Voor kentekenplichtige motorrijtuigen op twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)) met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens als tijdelijke plaat met beperkte geldigheid (bij vermissing of diefstal).
 
-27.18 Voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig [artikel 4, vijfde lid, onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitoplaat).
+27.18 Voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitoplaat).
 
 Model 27.18
 
-27.19 Voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig [artikel 4, vijfde lid, onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitokentekenplaat).
+27.19 Voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op meer dan twee wielen, alsmede kentekenplichtige aanhangwagens die overeenkomstig [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitokentekenplaat).
 
 Model 27.19
 
-27.20. Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspan die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspan die overeenkomstig [artikel 4, vijfde lid, onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitokentekenplaat).
+27.20. Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspan, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens die overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) of [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) voorgoed buiten Nederland worden gebracht, alsmede voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspan, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens die overeenkomstig [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) niet eerder in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht (export- en transitokentekenplaat).
 
 Model 27.20
 
@@ -384,6 +384,10 @@ De modellen van de kentekenplaten zijn rechthoekig afgebeeld. Voor de afrondings
 (Voor kentekenplichtige motorrijtuigen op meer dan twee wielen alsmede voor kentekenplichtige aanhangwagens die ter verkrijging van een kentekenbewijs naar en van de plaats van weging en onderzoek moeten worden gereden (1-daags kenteken)).
 
 De modellen van de kentekenplaten zijn rechthoekig afgebeeld. Voor de afrondingsstraal van de kentekenplaat wordt verwezen naar [artikel 12 lid 8 van de Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&artikel=12).
+
+**MODEL 27.23:** Voor kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen aanhangwagens die ter verkrijging van een kentekenbewijs naar en van de plaats van weging en onderzoek moeten worden gereden (1-daags kenteken)
+
+De modellen van de kentekenplaten zijn rechthoekig afgebeeld. Voor de afrondingsstraal van de kentekenplaat wordt verwezen naar artikel 12, achtste lid, van de Regeling eisen goedkeuring kentekenplaten 2000.
 
 **MODEL 27.24 A:**Voor:
 
@@ -405,15 +409,15 @@ De modellen van de kentekenplaten zijn rechthoekig afgebeeld. Voor de afrondings
 
 **MODEL 27.25 E:**Voor
 
-**MODEL 27.26 A:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen (inclusief fietsendrager en dergelijke).
+**MODEL 27.26 A:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens (inclusief fietsendrager en dergelijke).
 
-**MODEL 27.26 B:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen (inclusief fietsendrager en dergelijke).
+**MODEL 27.26 B:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens (inclusief fietsendrager en dergelijke).
 
-**MODEL 27.26 C:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen (inclusief fietsendrager en dergelijke).
+**MODEL 27.26 C:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens (inclusief fietsendrager en dergelijke).
 
-**MODEL 27.26 D:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen (inclusief fietsendrager en dergelijke).
+**MODEL 27.26 D:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens (inclusief fietsendrager en dergelijke).
 
-**MODEL 27.26 E:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen (inclusief fietsendrager en dergelijke).
+**MODEL 27.26 E:**Voor niet-kentekenplichtige aanhangwagens van en aanhangsels op kentekenplichtige motorrijtuigen op twee wielen met of zonder zijspanwagen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en daardoor voortbewogen kentekenplichtige aanhangwagens (inclusief fietsendrager en dergelijke).
 
 **MODEL 27.30 A:**Voor kentekenplichtige motorrijtuigen op meer dan twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)), bestemd voor gebruik als taxi.
 
@@ -430,6 +434,8 @@ De modellen van de kentekenplaten zijn rechthoekig afgebeeld. Voor de afrondings
 **MODEL 27.31 B:**Voor kentekenplichtige motorrijtuigen op meer dan twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)), bestemd voor gebruik als taxi.
 
 **MODEL 27.31 C:**Voor kentekenplichtige motorrijtuigen op meer dan twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)), bestemd voor gebruik als taxi.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat, Plesmanweg 1, ’s-Gravenhage, de Dienst Wegverkeer, Europaweg 205, Zoetermeer en de Dienst Wegverkeer, Skager Rak 10 Veendam.
 
 **MODEL 27.31 D:**Voor kentekenplichtige motorrijtuigen op meer dan twee wielen ([WVW1994 art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37)), bestemd voor gebruik als taxi.
 
