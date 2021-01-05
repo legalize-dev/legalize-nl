@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -44,11 +44,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+**personenauto, bedrijfsauto, landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid, mobiele machine, motorfiets, bromfiets, driewielig motorrijtuig en aanhangwagen**:
+
+hetgeen daaronder wordt verstaan in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
+
 ##### Artikel 2. Modellen kentekenbewijzen en overige modellen
 
 1. Voor kentekenbewijzen en delen daarvan worden de volgende, in de bijlage bij deze regeling opgenomen, modellen vastgesteld:
 
-- a. een kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto: model D.1;
+- a. een kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen, een bedrijfsauto, een landbouw- of bosbouwtrekker, een motorrijtuig met beperkte snelheid of een mobiele machine: model D.1;
 
 - b. een na 31 december 2013 afgegeven kentekenbewijs deel II: model D.2;
 
@@ -56,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - d. een kentekenbewijs dat is afgegeven voor een voertuig dat door de Dienst Wegverkeer is gekeurd ingevolge [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), in afwachting van de verkrijging van een tweedelig kentekenbewijs (voorlopig kentekenbewijs): model 2.1;
 
-- e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers: model 5.1;
+- e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers: model 5.1;
 
 - f. een voor 1 juni 2004 afgegeven deel II van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig of een aanhangwagen dan wel voor een bedrijfsauto: model 10.1;
 
@@ -64,19 +68,19 @@ In deze regeling wordt verstaan onder:
 
 - h. een overschrijvingsbewijs: model 13.1;
 
-- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
+- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN of GN en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
 
-- j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers: model 15.1;
+- j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN of GN en twee groepen van twee cijfers: model 15.1;
 
 - k. een bedrijfsvoorraad deel I B: model 16.1 of model 16.2;
 
 - l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;
 
-- m. een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokentekenbewijs): model: 19.1;
+- m. een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokentekenbewijs): model: 19.1;
 
 - n. een kentekencard bevattende een handelaarskenteken: model 5.2;
 
-- o. een kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken): model 19.2.
+- o. een kentekencard bevattende een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokenteken): model 19.2.
 
 2. De volgende, in de bijlage van dit besluit opgenomen, modellen worden vastgesteld:
 
@@ -134,21 +138,35 @@ Vervallen
 
 - c. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
 
-- d. een aanhangwagen, of;
+- d. een landbouw- of bosbouwtrekker,
 
-- e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, niet zijnde een voertuig als genoemd in [artikel 1 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1), voor zover het voertuig 15 jaar of ouder is.
+- e. een motorrijtuig met beperkte snelheid,
+
+- f. een mobiele machine,
+
+- g. een aanhangwagen, of;
+
+- h. een ander voertuig dan de in de onderdelen a tot en met g genoemde, niet zijnde een voertuig als genoemd in [artikel 1 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1), voor zover het voertuig 15 jaar of ouder is.
 
 3. Indien het voertuig definitief bestemd is voor gebruik buiten de weg, bedoeld in [artikel 40b, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=40b), verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voertuig bestemd is om als voertuig buiten de weg te worden gebruikt ten behoeve van:
 
-- a. bedrijfsmatig gebruik op een bedrijfsterrein dat geen deel uitmaakt van de voor het openbaar verkeer openstaande weg en dit aannemelijk wordt gemaakt aan de hand van:
+- a. bedrijfsmatig gebruik op een bedrijfsterrein dat geen deel uitmaakt van een weg en dit aannemelijk wordt gemaakt aan de hand van:
 
-- 1º. een uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2) alsmede 2° een uittreksel uit het Kadaster of een huurcontract;
+- 1°. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9); en
 
-- b. educatieve doeleinden en dit aannemelijk wordt gemaakt aan de hand van een verklaring waaruit blijkt dat de melding geschiedt door een opleidingsinstituut in de autobranche of een instituut waar bijzondere rijopleidingen worden gegeven dan wel door de brandweer;
+- 2°. een document waaruit het gebruiksdoel van het desbetreffende terrein blijkt of een huurcontract;
 
-- c. auto- of motorsport en dit aannemelijk wordt gemaakt aan de hand van een kopie van een licentie van de KNAC Nationale Autosport Federatie, de Koninklijke Nederlandse Motorrijders Vereniging of de Motorsport Organisatie Nederland, dan wel
+- b. bedrijfsmatig gebruik voor landbouw of bosbouw op een terrein dat geen deel uitmaakt van een weg en dit aannemelijk wordt gemaakt aan de hand van:
 
-- d. het gebruik als museumvoertuig.
+- 1°. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), of een overeenkomst; en
+
+- 2°. een document waaruit het gebruiksdoel van het desbetreffende terrein blijkt;
+
+- c. educatieve doeleinden en dit aannemelijk wordt gemaakt aan de hand van een verklaring waaruit blijkt dat de melding geschiedt door een opleidingsinstituut in de autobranche of een instituut waar bijzondere rijopleidingen worden gegeven dan wel door de brandweer;
+
+- d. auto- of motorsport en dit aannemelijk wordt gemaakt aan de hand van een kopie van een licentie van de KNAC Nationale Autosport Federatie, de Koninklijke Nederlandse Motorrijders Vereniging of de Motorsport Organisatie Nederland, dan wel
+
+- e. het gebruik als museumvoertuig.
 
 4. Indien een voertuig voorgoed buiten Nederland wordt gebracht door een ander dan een erkend bedrijf en de betrokken kentekenplaten vermist zijn, verklaart de Dienst Wegverkeer de tenaamstelling vervallen mits een daartoe strekkende verklaring op een door de Dienst Wegverkeer voorgeschreven wijze bij deze dienst wordt ingediend.
 
@@ -332,7 +350,7 @@ Indien op de uitvoerverklaring een uitvoerkenteken is ingevuld, dient de verklar
 
 ##### Artikel 3
 
-De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraag betrekking heeft op een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4).
+De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraag betrekking heeft op een kenteken als bedoeld in [artikel 4, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4).
 
 ##### Artikel 8a
 
@@ -394,7 +412,7 @@ Aan het uitvoerkentekenbewijs is tevens een groene en een gele doorslag gehecht,
 
 welke zijn bestemd voor de geregistreerde eigenaar/houder respectievelijk voor de Dienst Wegverkeer.
 
-Model 5.1 Deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers
+Model 5.1 Deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers
 
 Voorzijde (kleur:wit en grijs)
 
@@ -438,7 +456,7 @@ Achterzijde kleur: overwegend groen
 
 Model 14.1
 
-Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken.
+Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN of GN en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken.
 
 **Voorzijde (kleur: wit en grijs)**
 
@@ -446,7 +464,7 @@ Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, 
 
 Model 15.1
 
-Deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers.
+Deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN of GN en twee groepen van twee cijfers.
 
 **Voorzijde (kleur: wit)**
 
@@ -472,17 +490,17 @@ Model 17.1.
 
 Model 18.1
 
-**Deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement, tevens uitvoerverklaring**
+Vervallen.
 
 Model 19.1
 
-**Deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)**
+**Deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven, bevattende een kenteken als bedoeld in artikel 4, derde lid, onderdeel b, van het Kentekenreglement (transitokentekenbewijs)**
 
 **Voorzijde (kleur: wit)**
 
 **Achterzijde (kleur: overwegend blauw)**
 
-Model 19.2 Kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken)
+Model 19.2 Kentekencard bevattende een kenteken als bedoeld in artikel 4, derde lid, onderdeel b, van het Kentekenreglement (transitokenteken)
 
 Model A.1 Vrijwaringsbewijs, af te geven door de Dienst Wegverkeer
 
@@ -504,7 +522,7 @@ Model C.1
 
 Vervallen.
 
-Model D.1 Kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto
+Model D.1 Kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen, een bedrijfsauto, een landbouw- of bosbouwtrekker, een motorrijtuig met beperkte snelheid of een mobiele machine
 
 Model D.2 Na 31 december 2013 afgegeven kentekenbewijs deel II
 
