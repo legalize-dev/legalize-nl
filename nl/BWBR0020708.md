@@ -4,7 +4,7 @@ identifier: "BWBR0020708"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020708"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder transitokenteken: kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4).
+In deze regeling wordt verstaan onder transitokenteken: kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4).
 
 ##### Artikel 2
 
