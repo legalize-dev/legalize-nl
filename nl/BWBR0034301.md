@@ -4,7 +4,7 @@ identifier: "BWBR0034301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-18"
-last_updated: "2018-08-01"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034301"
 soort: "ministeriele-regeling"
@@ -58,7 +58,17 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergi
 
 ##### Artikel 4
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) zijn belast de ambtenaren van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid voor zover het hun werkterrein betreft, met uitzondering van het toezicht op de bescherming tegen de risico’s van ioniserende straling van de werknemers in inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) zijn belast de ambtenaren van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid voor zover het hun werkterrein betreft. Dit betreft mede de veiligheid en gezondheid van elke werknemer, zelfstandige en vrijwilliger in de zin van [artikel 1, eerste, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), die aan straling blootgesteld wordt:
+
+- a. bij door hem ten behoeve van een ondernemer in de zin van [bijlage 1 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), in diens onderneming uitgevoerde werkzaamheden;
+
+- b. bij door een ondernemer als bedoeld onder a, uitgevoerde handelingen in de zin van [bijlage 1 bij eerdergenoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), in een onderneming toebehorend aan een derde, ten behoeve van wie de werknemer, zelfstandige of vrijwilliger werkzaamheden uitvoert.
+
+2. Het eerste lid is niet van toepassing op het toezicht op de bescherming tegen de risico’s van ioniserende straling van:
+
+- a. de eigen werknemers en externe werknemers als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), in inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend en
+
+- b. elke andere werknemer, zelfstandige en vrijwilliger in de zin van [artikel 1, eerste, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1) in inrichtingen als bedoeld onder a.
 
 ##### Artikel 5
 
