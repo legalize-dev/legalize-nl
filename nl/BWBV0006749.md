@@ -4,7 +4,7 @@ identifier: "BWBV0006749"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-01-08"
-last_updated: "2019-06-27"
+last_updated: "2021-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006749"
 soort: "verdrag"
@@ -36,7 +36,7 @@ Wij, de partijen bij deze Overeenkomst,
 
 In herinnering roepend de Verklaring van Parijs over de International Solar Alliance van 30 november 2015 en de gedeelde ambitie om gezamenlijke inspanningen te leveren die nodig zijn om de financieringskosten en de kosten van technologie te verlagen, meer dan 1000 miljard dollar aan investeringen te mobiliseren die nodig zijn tegen 2030 voor een grootschalige toepassing van zonne-energie, en de weg vrij te maken voor toekomstige technologieën die aan de behoeften zijn aangepast,
 
-Erkennend dat zonne-energie aan landen die rijk zijn aan zonne-energie, die geheel of gedeeltelijk tussen de Kreeftskeerkring en Steenbokskeerkring liggen, een ongekende kans biedt om te zorgen voor welvaart, energiezekerheid en duurzame ontwikkeling voor hun bevolking,
+Erkennend dat zonne-energie aan landen een ongekende kans biedt om te zorgen voor welvaart, energiezekerheid en duurzame ontwikkeling voor hun bevolking,
 
 Erkennend dat er specifieke en gemeenschappelijke belemmeringen zijn die een snelle en massale schaalvergroting van zonne-energie in deze landen nog steeds in de weg staan,
 
@@ -62,7 +62,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 ##### Artikel III. Programma's en overige activiteiten
 
-1. Een programma van de ISA bestaat uit een reeks acties, projecten en activiteiten die op gecoördineerde wijze door de leden, met bijstand van het Secretariaat, dienen te worden uitgevoerd ter bevordering van de in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=I&z=2019-06-27&g=2019-06-27) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=II&z=2019-06-27&g=2019-06-27) beschreven doelstellingen en richtsnoeren. De programma's zijn zo opgesteld dat een maximaal schaalvoordeel en deelname van een zo groot mogelijk aantal leden wordt bereikt. Ze omvatten eenvoudige, meetbare, mobiliserende doelstellingen.
+1. Een programma van de ISA bestaat uit een reeks acties, projecten en activiteiten die op gecoördineerde wijze door de leden, met bijstand van het Secretariaat, dienen te worden uitgevoerd ter bevordering van de in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=I&z=2021-01-08&g=2021-01-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=II&z=2021-01-08&g=2021-01-08) beschreven doelstellingen en richtsnoeren. De programma's zijn zo opgesteld dat een maximaal schaalvoordeel en deelname van een zo groot mogelijk aantal leden wordt bereikt. Ze omvatten eenvoudige, meetbare, mobiliserende doelstellingen.
 
 2. De programmavoorstellen worden opgesteld door middel van open overleg tussen alle nationale contactpunten, met bijstand van het Secretariaat, en zijn gebaseerd op informatie die door de leden wordt gedeeld. Een programma kan worden voorgesteld door twee leden of een groep leden, of door het Secretariaat. Het Secretariaat draagt zorg voor samenhang tussen alle ISA-programma's.
 
@@ -76,7 +76,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 1. De partijen richten hierbij een Vergadering op waarin elk lid vertegenwoordigd is, die besluiten neemt over de uitvoering van deze Overeenkomst en over gecoördineerde acties die dienen te worden ondernomen om de doelstelling ervan te verwezenlijken. De Vergadering komt jaarlijks op ministerieel niveau bijeen op de zetel van de ISA. De Vergadering kan ook onder bijzondere omstandigheden bijeenkomen.
 
-2. Break-outsessies van de Vergadering worden gehouden om op ministerieel niveau de balans op te maken van de programma's en besluiten te nemen over de verdere uitvoering ervan, in het verlengde van [artikel III.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=III&z=2019-06-27&g=2019-06-27).
+2. Break-outsessies van de Vergadering worden gehouden om op ministerieel niveau de balans op te maken van de programma's en besluiten te nemen over de verdere uitvoering ervan, in het verlengde van [artikel III.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=III&z=2021-01-08&g=2021-01-08).
 
 3. De Vergadering beoordeelt het totale effect van de programma's en andere activiteiten in het kader van de ISA, met name wat betreft de inzet van zonne-energie, prestaties, betrouwbaarheid, alsook kosten en omvang van de financiering. Op basis van deze beoordeling nemen de leden alle noodzakelijke besluiten met betrekking tot de verdere uitvoering van het doel van de ISA.
 
@@ -108,7 +108,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 1. De operationele kosten van het Secretariaat en de Vergadering en alle kosten in verband met ondersteunende functies en sectoroverkoepelende activiteiten vormen de begroting van de ISA. Zij worden gedekt door:
 
-- a. Vrijwillige bijdragen van de leden, partnerlanden, de VN en haar agentschappen en andere landen;
+- a. Vrijwillige bijdragen van de leden, de VN en haar agentschappen en andere landen;
 
 - b. Vrijwillige bijdragen van de private sector. In het geval van mogelijke belangenconflict verwijst het Secretariaat de kwestie naar de Vergadering voor goedkeuring van de aanvaarding van de bijdrage;
 
@@ -124,13 +124,11 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 6. Het secretariaat kan met goedkeuring van de Vergadering een externe accountant aanstellen om de rekeningen van de ISA te onderzoeken.
 
-##### Artikel VII. Status van leden en partnerlanden
+##### Artikel VII. Status van leden
 
-1. Het lidmaatschap staat open voor de staten die rijk zijn aan zonne-energie die geheel of gedeeltelijk tussen de Kreeftskeerkring en de Steenbokskeerkring liggen en die lid zijn van de Verenigde Naties. Deze staten worden lid van de ISA door ondertekening van deze overeenkomst en nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring.
+1. Het lidmaatschap staat open voor staten die lid zijn van de Verenigde Naties. Deze staten worden lid van de ISA door ondertekening van deze overeenkomst en nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring.
 
-2. De Vergadering kan de status van partnerland toekennen aan staten die buiten de Kreeftskeerkring en de Steenbokskeerkring vallen, lid zijn van de Verenigde Naties en bereid en in staat zijn bij te dragen aan de doelstellingen en activiteiten waarin deze overeenkomst voorziet.
-
-3. Partnerlanden komen in aanmerking voor deelname aan de ISA-programma's, met de goedkeuring van de leden die aan het programma deelnemen.
+2. Vervallen.
 
 ##### Artikel VIII. Partnerorganisatie
 
@@ -142,7 +140,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 ##### Artikel IX. Waarnemers
 
-De status van waarnemer kan door de Vergadering worden toegekend aan aanvragers van lidmaatschap of partnerschap waarvan de aanvraag in behandeling is, of aan elke andere organisatie die het belang en de doelstellingen van de ISA kan bevorderen.
+De status van waarnemer kan door de Vergadering worden toegekend aan aanvragers van lidmaatschap waarvan de aanvraag in behandeling is, of aan elke andere organisatie die het belang en de doelstellingen van de ISA kan bevorderen.
 
 ##### Artikel X. Status, voorrechten en immuniteiten van de ISA
 
