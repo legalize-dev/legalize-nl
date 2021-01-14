@@ -4,7 +4,7 @@ identifier: "BWBR0043971"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-01"
-last_updated: "2020-11-14"
+last_updated: "2021-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043971"
 soort: "ministeriele-regeling"
@@ -84,13 +84,13 @@ In dit besluit wordt verstaan onder:
 
 - –. levensmiddelen die zowel producten van plantaardige oorsprong als verwerkte producten van dierlijke oorsprong bevatten;
 
-- –. levensmiddelen waarop artikel 47, eerste lid, onder c, d, e of f, van verordening (EU) 2017/625 van toepassing is, worden aangewezen de in de tabel van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=I&z=2021-12-01&g=2020-11-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
+- –. levensmiddelen waarop artikel 47, eerste lid, onder c, d, e of f, van verordening (EU) 2017/625 van toepassing is, worden aangewezen de in de tabel van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=I&z=2021-12-01&g=2021-01-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
 
-2. Als grenscontroleposten voor de uitvoering van officiële controles op levensmiddelen van plantaardige oorsprong worden aangewezen de in de tabel van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=II&z=2021-12-01&g=2020-11-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
+2. Als grenscontroleposten voor de uitvoering van officiële controles op levensmiddelen van plantaardige oorsprong worden aangewezen de in de tabel van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=II&z=2021-12-01&g=2021-01-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
 
-3. Als grenscontroleposten voor de uitvoering van officiële controles op planten, plantaardige producten, niet zijnde levensmiddelen, en ander materiaal worden aangewezen de in de tabel van [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=III&z=2021-12-01&g=2020-11-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
+3. Als grenscontroleposten voor de uitvoering van officiële controles op planten, plantaardige producten, niet zijnde levensmiddelen, en ander materiaal worden aangewezen de in de tabel van [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=III&z=2021-12-01&g=2021-01-14) genoemde grenscontroleposten, met in voorkomend geval bijbehorende inspectiecentra, onder de in die tabel ten aanzien van de desbetreffende grenscontrolepost in de daarbij horende kolommen vermelde beperkingen.
 
-4. Als controlepunten voor de uitvoering van officiële controles op andere dan onder het eerste of derde lid bedoelde producten worden aangewezen de in de laatste tabel van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=II&z=2021-12-01&g=2020-11-14) genoemde controlepunten.
+4. Als controlepunten voor de uitvoering van officiële controles op andere dan onder het eerste of derde lid bedoelde producten worden aangewezen de in de laatste tabel van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=II&z=2021-12-01&g=2021-01-14) genoemde controlepunten.
 
 ##### Artikel 3
 
@@ -100,11 +100,11 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing grenscontroleposten en cont
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 december 2019.
 
-## Bijlage I. Levende dieren en dierlijke producten, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2020-11-14)
+## Bijlage I. Levende dieren en dierlijke producten, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2021-01-14)
 
 ### Afkortingen en specificaties van toepassing op de categorieën dieren en goederen waarvoor de grenscontrolepost/het controlepunt is aangewezen, indien van toepassing met inbegrip van inspectiecentra:
 
-## Bijlage II. Producten en levensmiddelen plantaardig, als bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2020-11-14)
+## Bijlage II. Producten en levensmiddelen plantaardig, als bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2021-01-14)
 
 ### Border Control Post: Mainport NL
 
@@ -120,7 +120,7 @@ Westelijke parallelweg 4, 3331 EW Zwijndrecht) email: import@vwa.nl
 
 Westelijke parallelweg 4, 3331 EW Zwijndrecht) email: import@vwa.nl
 
-## Bijlage III. Fyto, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2020-11-14)
+## Bijlage III. Fyto, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&artikel=2&z=2021-12-01&g=2021-01-14)
 
 | 1 | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
