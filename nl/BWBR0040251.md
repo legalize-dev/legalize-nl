@@ -4,7 +4,7 @@ identifier: "BWBR0040251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-15"
-last_updated: "2017-12-01"
+last_updated: "2021-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040251"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Aan het Rijksinstituut voor Volksgezondheid en Milieu, bedoeld in [artikel 1, on
 
 - –. antivenoms, antitoxinen, immunoglobulinen of equivalenten tegen beten of steken van giftige dieren of insecten;
 
-- –. antivirale middelen ter behandeling van besmettingen met en ter mitigatie van infecties met virussen;
+- –. geneesmiddelen ter behandeling en ter mitigatie van infecties met virussen, inclusief geneesmiddelen ter ondersteuning van de behandeling van infecties met virussen;
 
 - –. middelen ter diagnosticering van infectieziekten;
 
