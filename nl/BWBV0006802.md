@@ -4,7 +4,7 @@ identifier: "BWBV0006802"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-01-15"
-last_updated: "2019-03-12"
+last_updated: "2021-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006802"
 soort: "verdrag"
@@ -102,7 +102,7 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 ##### Artikel 4. Voorrechten en immuniteiten
 
-1. Alle leden kennen de voorrechten en immuniteiten toe als omschreven in het Protocol betreffende de voorrechten en immuniteiten van het Square Kilometre Array Observatory, dat als [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&z=2019-03-12&g=2019-03-12) wordt gehecht aan en een integrerend onderdeel vormt van deze Overeenkomst.
+1. Alle leden kennen de voorrechten en immuniteiten toe als omschreven in het Protocol betreffende de voorrechten en immuniteiten van het Square Kilometre Array Observatory, dat als [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&z=2021-01-15&g=2021-01-15) wordt gehecht aan en een integrerend onderdeel vormt van deze Overeenkomst.
 
 2. Alle voorrechten en immuniteiten zijn uitsluitend bedoeld om de officiële werkzaamheden van de SKAO en de verwezenlijking van de doelstellingen te faciliteren.
 
@@ -120,7 +120,7 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 1. De partijen bij deze Overeenkomst zijn de leden van de SKAO. Het lidmaatschap staat open voor staten en internationale organisaties.
 
-2. De Raad kan met eenparigheid van stemmen besluiten nieuwe leden tot de SKAO toe te laten overeenkomstig deze Overeenkomst en op de door hem vastgestelde voorwaarden. Wanneer de Overeenkomst voor die staat of internationale organisatie in werking treedt overeenkomstig [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=19&z=2019-03-12&g=2019-03-12), wordt deze staat of internationale organisatie lid en is deze gebonden aan de door de Raad vastgestelde voorwaarden.
+2. De Raad kan met eenparigheid van stemmen besluiten nieuwe leden tot de SKAO toe te laten overeenkomstig deze Overeenkomst en op de door hem vastgestelde voorwaarden. Wanneer de Overeenkomst voor die staat of internationale organisatie in werking treedt overeenkomstig [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=19&z=2021-01-15&g=2021-01-15), wordt deze staat of internationale organisatie lid en is deze gebonden aan de door de Raad vastgestelde voorwaarden.
 
 3. De Raad kan met eenparigheid van stemmen besluiten geassocieerde leden tot de SKAO toe te laten op de door Raad vastgestelde voorwaarden. Deze voorwaarden waarborgen dat de geassocieerde leden geen voordelen genieten die gelijkwaardig zijn aan die van de leden. Het geassocieerd lidmaatschap staat open voor staten en internationale organisaties.
 
@@ -160,9 +160,9 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 7. Bij de vaststelling van de eenparigheid van stemmen of meerderheden waarin deze Overeenkomst of het Financieel Protocol van de Square Kilometre Array Observatory voorziet, wordt geen rekening gehouden met leden die afwezig zijn, niet aan de stemming deelnemen, zich van stemming onthouden of geen stemrecht hebben.
 
-8. De keuze van het land van het hoofdkantoor en van elk gastland kan, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=15&z=2019-03-12&g=2019-03-12), worden gewijzigd na een met eenparigheid van stemmen genomen besluit van de Raad.
+8. De keuze van het land van het hoofdkantoor en van elk gastland kan, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=15&z=2021-01-15&g=2021-01-15), worden gewijzigd na een met eenparigheid van stemmen genomen besluit van de Raad.
 
-9. Voor projecten die overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=3&z=2019-03-12&g=2019-03-12), zijn goedgekeurd, hebben de leden geen stemrecht, tenzij zij zijn overeengekomen om een financiële bijdrage te leveren.
+9. Voor projecten die overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=3&z=2021-01-15&g=2021-01-15), zijn goedgekeurd, hebben de leden geen stemrecht, tenzij zij zijn overeengekomen om een financiële bijdrage te leveren.
 
 10. Met inachtneming van de bepalingen van deze Overeenkomst stelt de Raad zijn eigen reglement van orde op.
 
@@ -194,17 +194,17 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 - h. Alle andere taken uitvoeren zoals gedelegeerd door de Raad.
 
-3. Behoudens [artikel 8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=8&z=2019-03-12&g=2019-03-12), wordt de directeur-generaal bijgestaan door het wetenschappelijk, technisch en administratief personeel dat de directeur-generaal noodzakelijk acht binnen de door de Raad toegestane grenzen. Dit personeel wordt door de directeur-generaal aangesteld en ontslagen overeenkomstig de bepalingen van het personeelsreglement.
+3. Behoudens [artikel 8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=8&z=2021-01-15&g=2021-01-15), wordt de directeur-generaal bijgestaan door het wetenschappelijk, technisch en administratief personeel dat de directeur-generaal noodzakelijk acht binnen de door de Raad toegestane grenzen. Dit personeel wordt door de directeur-generaal aangesteld en ontslagen overeenkomstig de bepalingen van het personeelsreglement.
 
 4. De directeur-generaal en het personeel nemen het internationale karakter van de SKAO in acht en vervullen hun taken uitsluitend in het belang van de SKAO.
 
 ##### Artikel 10. Financiële aangelegenheden
 
-1. De SKAO voert zijn financiële zaken uit in overeenstemming met het Financieel Protocol van de Square Kilometre Array Observatory, dat als [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2019-03-12&g=2019-03-12) wordt gehecht aan en een integrerend deel vormt van deze Overeenkomst.
+1. De SKAO voert zijn financiële zaken uit in overeenstemming met het Financieel Protocol van de Square Kilometre Array Observatory, dat als [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2021-01-15&g=2021-01-15) wordt gehecht aan en een integrerend deel vormt van deze Overeenkomst.
 
-2. De leden en geassocieerde leden leveren financiële bijdragen in overeenstemming met de financieringsschema’s die door de Raad zijn goedgekeurd overeenkomstig het [Financieel Protocol van de Square Kilometre Array Observatory](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2019-03-12&g=2019-03-12).
+2. De leden en geassocieerde leden leveren financiële bijdragen in overeenstemming met de financieringsschema’s die door de Raad zijn goedgekeurd overeenkomstig het [Financieel Protocol van de Square Kilometre Array Observatory](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2021-01-15&g=2021-01-15).
 
-3. De financieringsschema’s voor de uitvoering van een volgende fase worden vastgesteld overeenkomstig het [Financieel Protocol van de Square Kilometre Array Observatory](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2019-03-12&g=2019-03-12).
+3. De financieringsschema’s voor de uitvoering van een volgende fase worden vastgesteld overeenkomstig het [Financieel Protocol van de Square Kilometre Array Observatory](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2021-01-15&g=2021-01-15).
 
 4. De leden en geassocieerde leden hebben eenaandeel in het SKA-project dat evenredig is met hun cumulatieve toegezegde financiële bijdragen aan het SKA-project.
 
@@ -288,7 +288,7 @@ het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 2. Deze Overeenkomst dient te worden bekrachtigd, aanvaard, of goedgekeurd door de staten vermeld in het eerste lid in overeenstemming met hun nationale vereisten. Zij treedt in werking dertig dagen na de datum waarop Australië, de Republiek Zuid-Afrika, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en twee andere ondertekenaars hun akten van bekrachtiging, aanvaarding of goedkeuring hebben gedeponeerd bij de depositaris.
 
-3. Deze Overeenkomst staat open voor toetreding door staten die niet zijn opgenomen in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=19&z=2019-03-12&g=2019-03-12), en internationale organisaties, onder voorbehoud van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=6&z=2019-03-12&g=2019-03-12).
+3. Deze Overeenkomst staat open voor toetreding door staten die niet zijn opgenomen in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=19&z=2021-01-15&g=2021-01-15), en internationale organisaties, onder voorbehoud van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=6&z=2021-01-15&g=2021-01-15).
 
 4. Voor elke staat of internationale organisatie die zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding deponeert na de inwerkingtreding van deze Overeenkomst, treedt de Overeenkomst voor die staat of organisatie in werking dertig dagen na de datum van de deponering van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -308,7 +308,7 @@ het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 - e. De leden in kennis stellen van de datum van beëindiging van de Overeenkomst; en
 
-- f. De leden in kennis stellen van een besluit van de Raad, overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=18&z=2019-03-12&g=2019-03-12), dat een lid ophoudt lid te zijn van de SKAO en van de datum waarop dat besluit van kracht wordt.
+- f. De leden in kennis stellen van een besluit van de Raad, overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=18&z=2021-01-15&g=2021-01-15), dat een lid ophoudt lid te zijn van de SKAO en van de datum waarop dat besluit van kracht wordt.
 
 3. Deze Overeenkomst wordt na de inwerkingtreding ervan door de depositaris aan het Secretariaat van de Verenigde Naties toegezonden ter registratie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
@@ -338,7 +338,7 @@ Binnen het kader van de officiële werkzaamheden heeft de SKAO immuniteit van re
 
 - b. In het geval van civiele vorderingen ingesteld door derden voor schadevergoeding voortvloeiend uit een ongeval veroorzaakt door een motorvoertuig dat toebehoort aan of bestuurd wordt namens de SKAO of in verband met een verkeersovertreding;
 
-- c. Met betrekking tot een arbitraal vonnis gewezen krachtens [artikel 14 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=14&z=2019-03-12&g=2019-03-12);
+- c. Met betrekking tot een arbitraal vonnis gewezen krachtens [artikel 14 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=14&z=2021-01-15&g=2021-01-15);
 
 - d. In het geval van beslaglegging op de salarissen, lonen en emolumenten die de SKAO aan een personeelslid van de SKAO verschuldigd is ingevolge een besluit van de administratieve of gerechtelijke autoriteiten; en
 
@@ -376,13 +376,13 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 ##### Artikel 6. Wederverkoop van goederen
 
-1. Goederen die op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=5&z=2019-03-12&g=2019-03-12) zijn verworven of ingevoerd, mogen op het grondgebied van een lidstaat niet worden verkocht, geschonken, verhuurd of anderszins vervreemd, tenzij die lidstaat daarvan vooraf in kennis is gesteld en alle relevante rechten en heffingen zijn betaald en aan alle met die lidstaat overeengekomen voorwaarden is voldaan.
+1. Goederen die op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=5&z=2021-01-15&g=2021-01-15) zijn verworven of ingevoerd, mogen op het grondgebied van een lidstaat niet worden verkocht, geschonken, verhuurd of anderszins vervreemd, tenzij die lidstaat daarvan vooraf in kennis is gesteld en alle relevante rechten en heffingen zijn betaald en aan alle met die lidstaat overeengekomen voorwaarden is voldaan.
 
 2. De te betalen rechten en heffingen worden door de lidstaat berekend op basis van de tarieven en de waarde van de goederen op de datum waarop zij ter beschikking worden gesteld. De lidstaat verstrekt de SKAO de nodige instructies betreffende de te volgen procedure.
 
 ##### Artikel 7. Voorrechten en immuniteiten van het personeel, met inbegrip van de directeur-generaal
 
-1. De directeur-generaal en alle personeelsleden die hun functie in een lidstaat uitoefenen, genieten samen met hun gezinsleden, behalve in de gevallen waarin de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2019-03-12&g=2019-03-12) bedoelde bevoegde autoriteit deze immuniteit heeft opgeheven, de volgende voorrechten en immuniteiten:
+1. De directeur-generaal en alle personeelsleden die hun functie in een lidstaat uitoefenen, genieten samen met hun gezinsleden, behalve in de gevallen waarin de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2021-01-15&g=2021-01-15) bedoelde bevoegde autoriteit deze immuniteit heeft opgeheven, de volgende voorrechten en immuniteiten:
 
 - a. Zij worden ter zake van door hen in hun officiële hoedanigheid verrichte handelingen, met inbegrip van door hen gesproken of geschreven woorden, gevrijwaard van rechtsvervolging. Deze immuniteit blijft ook gelden na beëindiging van hun dienstverband bij de SKAO. Deze immuniteit is niet van toepassing op verkeersovertredingen en schade als gevolg van een door hen bestuurd voertuig;
 
@@ -402,7 +402,7 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 ##### Artikel 8. Voorrechten en immuniteiten van vertegenwoordigers
 
-1. Vertegenwoordigers die hun functie in een lidstaat uitoefenen, genieten de volgende voorrechten en immuniteiten, behalve voor zover deze immuniteit door de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2019-03-12&g=2019-03-12) bedoelde bevoegde autoriteit in een bepaald geval is opgeheven:
+1. Vertegenwoordigers die hun functie in een lidstaat uitoefenen, genieten de volgende voorrechten en immuniteiten, behalve voor zover deze immuniteit door de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2021-01-15&g=2021-01-15) bedoelde bevoegde autoriteit in een bepaald geval is opgeheven:
 
 - a. Zij worden ter zake van door hen in hun officiële hoedanigheid verrichte handelingen, met inbegrip van door hen gesproken of geschreven woorden, gevrijwaard van rechtsvervolging. Deze immuniteit blijft ook gelden wanneer zij geen vertegenwoordiger meer zijn. Deze immuniteit is niet van toepassing op verkeersovertredingen en schade als gevolg van een door hen bestuurd voertuig;
 
@@ -422,7 +422,7 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 ##### Artikel 10. Samenwerking met de autoriteiten van de lidstaten
 
-1. Onverminderd hun voorrechten en immuniteiten dienen alle personen die uit hoofde van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=7&z=2019-03-12&g=2019-03-12), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=8&z=2019-03-12&g=2019-03-12) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=9&z=2019-03-12&g=2019-03-12) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de lidstaat op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
+1. Onverminderd hun voorrechten en immuniteiten dienen alle personen die uit hoofde van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=7&z=2021-01-15&g=2021-01-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=8&z=2021-01-15&g=2021-01-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=9&z=2021-01-15&g=2021-01-15) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de lidstaat op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
 
 2. De SKAO werkt te allen tijde samen met de desbetreffende autoriteiten van de lidstaten teneinde de handhaving van hun wetgeving te vereenvoudigen en misbruik in verband met de voorrechten, immuniteiten en faciliteiten als bedoeld in dit Protocol te voorkomen.
 
@@ -486,7 +486,7 @@ De SKAO volgt de principes van een gedegen financieel beheer, efficiency, transp
 
 ##### Artikel 5. Deelname aan het project
 
-1. Overeenkomstig [artikel 10, vierde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=10&z=2019-03-12&g=2019-03-12) worden regels en voorschriften betreffende de aandeelbasis van projectdeelname bij besluit van de Raad goedgekeurd.
+1. Overeenkomstig [artikel 10, vierde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=10&z=2021-01-15&g=2021-01-15) worden regels en voorschriften betreffende de aandeelbasis van projectdeelname bij besluit van de Raad goedgekeurd.
 
 2. Het aandeel van de financiële bijdragen van de leden en geassocieerde leden aan de werkzaamheden, met inbegrip van de kosten voor werkzaamheden, upgrades en ontmanteling, is gelijk aan het aandeel van de financiële bijdragen aan de bouw. Financiële bijdragen die tot gevolg hebben dat het proportionele aandeel voor de bouw en de werkzaamheden ongelijk is, en de wijze waarop zij worden verleend, zijn slechts toegestaan indien de Raad daarmee bij besluit heeft ingestemd.
 
