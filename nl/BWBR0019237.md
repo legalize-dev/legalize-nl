@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -237,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2021-01-01&g=2021-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2022-11-05&g=2021-01-26), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -257,7 +257,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De Belastingdienst/Toeslagen herziet onder bijzondere omstandigheden, onder overeenkomstige toepassing van het eerste lid, onderdelen a tot en met c, in het voordeel van de belanghebbende een beschikking tot terugvordering die onherroepelijk is geworden voor zover de nadelige gevolgen van die beschikking onevenredig zijn in verhouding tot de met die beschikking te dienen doelen.
 
-3. Met betrekking tot de toepassing van het tweede lid op de kinderopvangtoeslag is [artikel 9b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9b&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing.
+3. Met betrekking tot de toepassing van het tweede lid op de kinderopvangtoeslag is [artikel 9b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9b&z=2022-11-05&g=2021-01-26), van overeenkomstige toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -269,7 +269,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2022-11-05&g=2021-01-26), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
