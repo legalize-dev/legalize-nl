@@ -4,7 +4,7 @@ identifier: "BWBR0043785"
 country: "nl"
 rank: "wet"
 publication_date: "2022-11-05"
-last_updated: "2020-07-07"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043785"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel II
 
-Indien een belanghebbende voorafgaand aan de inwerkingtredingsdatum, bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043785&artikel=III&z=2020-07-07&g=2020-07-07), een verzoek heeft gedaan dat inhoudelijk overeenkomt met een verzoek als bedoeld in [artikel 49, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), wordt dit verzoek na die inwerkingtredingsdatum geacht een verzoek te zijn als bedoeld in artikel 49, tweede lid, van de Algemene wet inkomensafhankelijke regelingen en wordt dit verzoek voor de toepassing van artikel 49, negende lid, van de Algemene wet inkomensafhankelijke regelingen geacht te zijn ontvangen op die inwerkingtredingsdatum.
+Indien een belanghebbende voorafgaand aan de inwerkingtredingsdatum, bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043785&artikel=III&z=2020-07-07&g=2021-01-26), een verzoek heeft gedaan dat inhoudelijk overeenkomt met een verzoek als bedoeld in [artikel 49, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), wordt dit verzoek na die inwerkingtredingsdatum geacht een verzoek te zijn als bedoeld in artikel 49, tweede lid, van de Algemene wet inkomensafhankelijke regelingen en wordt dit verzoek voor de toepassing van artikel 49, negende lid, van de Algemene wet inkomensafhankelijke regelingen geacht te zijn ontvangen op die inwerkingtredingsdatum.
 
 ##### Artikel IIa
 
