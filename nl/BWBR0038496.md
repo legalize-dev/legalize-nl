@@ -4,7 +4,7 @@ identifier: "BWBR0038496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-28"
-last_updated: "2016-10-01"
+last_updated: "2021-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038496"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **Military Aviation System:** geheel van regels, processen en de daarbij passende organisatiestructuur, waarmee onder inachtneming van de taakstelling van de krijgsmacht, de veiligheid van de militaire luchtvaart systematisch wordt geborgd;
 
-- b. **MLA:** Militaire Luchtvaart Autoriteit als bedoeld in [artikel 22 van het Algemeen organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=22).
+- b. **MLA:** Militaire Luchtvaart Autoriteit als bedoeld in [artikel 21 van het Algemeen organisatiebesluit Defensie 2021](onbekend).
 
 ##### Artikel 2
 
@@ -63,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-De Directeur van de MLA en de door hem aangewezen ambtenaren van de MLA zijn belast met de handhaving van de in [artikel 22, onderdelen b en c, van het Algemeen organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=22) aan de Directeur van de MLA opgedragen goedkeuringen en autorisaties alsmede besluiten en andere handelingen ter uitvoering van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+De Directeur van de MLA en de door hem aangewezen ambtenaren van de MLA zijn belast met de handhaving van de in [artikel 21, onderdelen b en c, van het Algemeen organisatiebesluit Defensie 2021](onbekend) aan de Directeur van de MLA opgedragen goedkeuringen en autorisaties alsmede besluiten en andere handelingen ter uitvoering van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ##### Artikel 5
 
