@@ -4,7 +4,7 @@ identifier: "BWBR0041057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-21"
-last_updated: "2021-01-15"
+last_updated: "2021-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041057"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2018.
 
 ## Bijlage
 
-### Nationaliteiten, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2021-01-15&g=2021-01-15):
+### Nationaliteiten, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2021-01-30&g=2021-01-30):
 
 Albanië
 
@@ -234,7 +234,7 @@ Zweden
 
 Zwitserland
 
-### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2021-01-15&g=2021-01-15)
+### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2021-01-30&g=2021-01-30)
 
 Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
 
