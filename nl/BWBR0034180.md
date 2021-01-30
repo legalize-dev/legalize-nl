@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2021-01-01"
+last_updated: "2021-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -118,31 +118,35 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 8. Het model voor de stempas voor de verkiezing van de leden van de eilandsraad luidt als volgt:
 
-2. Het model voor de kiezershandleiding voor het referendum luidt als volgt:
+9. Het model voor de stempas voor de verkiezing van de leden van de Tweede Kamer luidt in het Europees deel van Nederland als volgt:
 
-1. Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
+10. Het model voor de stempas voor de verkiezing van de leden van de Tweede Kamer luidt in Bonaire en Sint Eustatius als volgt:
 
-Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
+11. Het model voor de stempas voor de verkiezing van de leden van de Tweede Kamer luidt in Saba als volgt:
+
+### Model J 7-1. De technische eisen aan de stempas, de kiezerspas, het schriftelijk volmachtbewijs en het briefstembewijs
+
+### Model J 16. Kiezershandleidingen voor verkiezingen
+
+### Model K 6-2. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60))
 
 ### Model J 20
 
-### Model K 6. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60)) Verzoek om een kiezerspas
-
-### Model K 6-2. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60))
-
-### Model L 8. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61))
-
-### Model L 8-2. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61))
+### Model K 4. Kiezerspas
 
 ### Model K 4. Kiezerspas
 
-1. De kiezerspas voor de verkiezing van de leden van het algemeen bestuur van het waterschap luidt als volgt:
+2. De kiezerspas voor de verkiezing van de leden van de provinciale staten luidt als volgt:
 
 ### Model K 6. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60)) Verzoek om een kiezerspas
 
 ### Model K 6-2. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60))
 
-3. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt als volgt:
+5. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer luidt in Bonaire en Sint Eustatius als volgt:
+
+### Model K 6-2
+
+### Model K 6
 
 ### Model K 6-2
 
@@ -151,10 +155,6 @@ Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
 ### Model L 8-2
 
 ### Model L 11. Schriftelijk volmachtbewijs
-
-### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
-
-### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62))
 
 ### Model M 6-3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Enveloppe voor het stembiljet
 
@@ -174,7 +174,15 @@ Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
 
 ### Model M 6-3. Enveloppe voor het stembiljet
 
-### Model N 10-1
+### Model M 3
+
+### Model M 6-1
+
+### Model M 6-2
+
+### Model N 10-2b
+
+### Model M 6-3. Enveloppe voor het stembiljet
 
 ### Model N 10-1
 
@@ -182,21 +190,13 @@ Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
 
 ### Model N 10-2b
 
-### Model N 10-2b
-
 ### Model N 11
-
-### Model O 3
-
-### Model O 3
-
-### Model P 22-1
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2021-01-01&g=2021-01-01) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2021-01-30&g=2021-01-30) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -206,13 +206,13 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 
 ### Model K 4
 
-2. De kiezerspas voor de verkiezing van de leden van de provinciale staten luidt als volgt:
+3. De kiezerspas voor de verkiezing van de leden van het Europees Parlement luidt als volgt:
 
 ### Model K 6
 
-Stembiljet (kleur wit)
+6. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer luidt in Saba als volgt:
 
-### Model P 22-1
+### Model O 3
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
 
@@ -226,11 +226,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 (voorzijde)1Op de achterzijde van het stembiljet worden gedrukt:–de handtekening, bedoeld in artikel J 20, eerste lid, dan wel artikel T 2, eerste lid, van de Kieswet, zoveel malen dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft.–de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring. In afwijking hiervan wordt bij verkiezingen voor de Eerste Kamer op de achterzijde slechts de naam van de betreffende provincie gedrukt. De naam (en aanduiding) worden aan de bovenzijde gedrukt, zoveel malen dat zij goed zichtbaar is als het stembiljet is dichtgevouwen.2Indien in een gemeente twee of meer stemmingen gelijktijdig plaatsvinden, worden op de voor- en achterzijde van het stembiljet over de gehele breedte een voor de stemming onderscheidend kenmerk in de vorm van één of meer kleurenbalken gedrukt, zodanig dat het goed zichtbaar is als het stembiljet is open- of dichtgevouwen.
 
-3. De kiezerspas voor de verkiezing van de leden van het Europees Parlement luidt als volgt:
+4. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer luidt in het Europees deel van Nederland als volgt:
 
 1. Het model voor het schriftelijk volmachtbewijs luidt voor een verkiezing als bedoeld in artikel 52 van de Wet algemene regels herindeling als volgt:
 
-### Model P 22-2
+### Model P 22-1
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-01-01&g=2015-01-01) van de Kies- en referendumregeling
 
@@ -242,9 +242,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2021-01-01&g=2021-01-01) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2021-01-30&g=2021-01-30) van de Kiesregeling
 
 4. Het model voor de stempas voor de verkiezing van de leden van het algemeen bestuur van het waterschap waarmee in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:
+
+### Model P 22-2
 
 ### Model T 4
 
@@ -262,35 +264,33 @@ Vervallen
 
 ### Model W 2
 
-### Model W 4
-
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
+### Model W 5
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model Ya 7
+### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-1. Het model voor de kiezerspas voor het referendum op 21 maart 2018 luidt voor de kiezers in het Europese deel van Nederland en voor de kiezers op Bonaire, Sint Eustatius en Saba luidt als volgt:
+1. De kiezerspas voor de verkiezing van de leden van het algemeen bestuur van het waterschap luidt als volgt:
 
-### Model W 5
+### Model W 4
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Y 32
+### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Ya 9
+### Model Ya 7
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -300,7 +300,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Model J 20
 
-STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal/Eerste Kamer der Staten-Generaal/provinciale staten van ...../ het algemeen bestuur van het waterschap..../ de raad van de gemeente ...../ de eilandsraad van het openbaar lichaam ...../ het kiescollege van het openbaar lichaam ...../ het Europees Parlement op ..... [in kieskring ..... (.....)] 3Alleen op te nemen, indien het een verkiezing betreft van de leden van de Tweede Kamer of van provinciale staten van een provincie die uit meer dan één kieskring bestaat. Achter ‘kieskring’ het nummer en tussen haakjes de naam van de gemeente waar het hoofdstembureau is gevestigd.
+Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:
 
 KANDIDATENLIJSTEN4Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd.
 
@@ -310,17 +310,17 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 2. Het model voor het briefstembewijs voor het referendum op 21 maart 2018 luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
 
-4. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het Europees Parlement luidt als volgt:
+2. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het algemeen bestuur van het waterschap luidt als volgt:
 
-5. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het kiescollege luidt als volgt:
+3. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de provinciale staten luidt als volgt:
 
-### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
+### Model Y 32
+
+### Model Ya 9
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
-
-### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
 
 ### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
@@ -346,15 +346,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het algemeen bestuur van het waterschap luidt als volgt:
 
-3. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de provinciale staten luidt als volgt:
+1. Het model voor het schriftelijk volmachtbewijs luidt voor een verkiezing van de leden van de gemeenteraad of voor een verkiezing als bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) als volgt:
 
-3. Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt:
+5. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het kiescollege luidt als volgt:
 
-4. Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
+6. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de eilandsraad luidt als volgt:
 
-3. Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt:
+7. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de Tweede Kamer luidt in het Europese deel van Nederland als volgt:
 
-Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal en voor de verkiezing van de leden van het Europees parlement luidt als volgt:
+8. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de Tweede Kamer luidt in Bonaire en Sint Eustatius als volgt:
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
@@ -398,7 +398,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Het model voor de stempas voor de verkiezing van de leden van het algemeen bestuur van het waterschap waarmee niet in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:
 
-6. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de eilandsraad luidt als volgt:
+4. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het Europees Parlement luidt als volgt:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2017-07-20&g=2017-07-20) van de Kies- en referendumregeling
 
@@ -412,7 +412,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Model J 16. Kiezershandleidingen voor verkiezingen
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2017-12-16&g=2017-12-16) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2021-01-30&g=2021-01-30) van de Kies- en referendumregeling
+
+Vervallen
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
@@ -436,7 +438,7 @@ De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
+9. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de Tweede Kamer luidt in Saba als volgt:
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2021-01-01&g=2021-01-01) van de Kiesregeling
 
@@ -447,3 +449,9 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal en voor de verkiezing van de leden van het Europees parlement luidt als volgt:
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2021-01-30&g=2021-01-30) van de Kiesregeling
+
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
