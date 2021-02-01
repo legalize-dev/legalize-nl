@@ -4,7 +4,7 @@ identifier: "BWBR0042181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-27"
-last_updated: "2020-01-01"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042181"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Besluit:
 
 ##### Artikel 2
 
-Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2022-11-04&g=2020-01-01) bij dit besluit.
+Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2022-11-04&g=2021-02-01) bij dit besluit.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2022-11-04&g=2020-01-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2022-11-04&g=2021-02-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -70,7 +70,7 @@ Aan de Nationaal Coördinator Terrorismebestrijding en Veiligheid blijft voorbeh
 
 ##### Artikel 5
 
-1. De in [artikel 1, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=1&z=2022-11-04&g=2020-01-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in artikel 1, eerste lid, genoemde bevoegdheden.
+1. De in [artikel 1, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=1&z=2022-11-04&g=2021-02-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in artikel 1, eerste lid, genoemde bevoegdheden.
 
 2. De Nationaal Coördinator Terrorismebestrijding en Veiligheid wordt bij afwezigheid vervangen door de plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid. Bij afwezigheid van de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid worden zij vervangen door de directeuren, in volgorde van benoeming.
 
@@ -94,4 +94,4 @@ Ligt ter inzage bij het Ministerie van Justitie en Veiligheid.
 
 Ligt ter inzage bij het Ministerie van Justitie en Veiligheid.
 
-Dit besluit zal met toelichting in de Staatscourant wordt geplaatst. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2022-11-04&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2022-11-04&g=2020-01-01) bij dit besluit liggen bij het ministerie ter inzage.
+Dit besluit zal met toelichting in de Staatscourant wordt geplaatst. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2022-11-04&g=2021-02-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2022-11-04&g=2021-02-01) bij dit besluit liggen bij het ministerie ter inzage.
