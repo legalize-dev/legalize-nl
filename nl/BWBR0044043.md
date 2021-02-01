@@ -211,9 +211,3 @@ Deze regeling treedt in werking met ingang van 1 februari 2021.
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po CN 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Aanvragen tot bekostiging 2022
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
