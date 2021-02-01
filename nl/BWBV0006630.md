@@ -4,7 +4,7 @@ identifier: "BWBV0006630"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-01"
-last_updated: "2016-07-25"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006630"
 soort: "verdrag"
@@ -142,7 +142,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 8. Gevolgen van de overbrenging voor de Staat van tenuitvoerlegging
 
-De voortzetting van de tenuitvoerlegging van de veroordeling wordt beheerst door het recht van de Staat van tenuitvoerlegging en alleen die Staat is bevoegd alle ter zake dienende beslissingen te nemen. Bij beschikkingen inzake vervroegde of voorwaardelijke invrijheidstelling mag de Staat van tenuitvoerlegging ook rekening houden met de in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2016-07-25&g=2016-07-25), genoemde bepalingen of beslissingen.
+De voortzetting van de tenuitvoerlegging van de veroordeling wordt beheerst door het recht van de Staat van tenuitvoerlegging en alleen die Staat is bevoegd alle ter zake dienende beslissingen te nemen. Bij beschikkingen inzake vervroegde of voorwaardelijke invrijheidstelling mag de Staat van tenuitvoerlegging ook rekening houden met de in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2021-02-01&g=2021-02-01), genoemde bepalingen of beslissingen.
 
 ##### Artikel 9. Voortzetting van de tenuitvoerlegging
 
@@ -174,9 +174,9 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 ##### Artikel 14. Talen en kosten
 
-1. De kennisgevingen en inlichtingen bedoeld in de [artikelen 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=4&z=2016-07-25&g=2016-07-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=12&z=2016-07-25&g=2016-07-25) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=13&z=2016-07-25&g=2016-07-25) worden gesteld in de taal van de Partij waaraan ze gericht zijn. De stukken ter ondersteuning van een verzoek genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2016-07-25&g=2016-07-25) dienen vergezeld te gaan van vertalingen in de taal van de Partij waaraan ze gericht zijn.
+1. De kennisgevingen en inlichtingen bedoeld in de [artikelen 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=4&z=2021-02-01&g=2021-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=12&z=2021-02-01&g=2021-02-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=13&z=2021-02-01&g=2021-02-01) worden gesteld in de taal van de Partij waaraan ze gericht zijn. De stukken ter ondersteuning van een verzoek genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2021-02-01&g=2021-02-01) dienen vergezeld te gaan van vertalingen in de taal van de Partij waaraan ze gericht zijn.
 
-2. Onverminderd het bepaalde in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2016-07-25&g=2016-07-25), behoeven de stukken die ter toepassing van dit Verdrag worden verzonden niet gewaarmerkt te zijn.
+2. Onverminderd het bepaalde in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006630&artikel=6&z=2021-02-01&g=2021-02-01), behoeven de stukken die ter toepassing van dit Verdrag worden verzonden niet gewaarmerkt te zijn.
 
 3. De kosten voortvloeiende uit de toepassing van dit Verdrag worden door de Staat van tenuitvoerlegging gedragen, met uitzondering van de kosten die uitsluitend op het grondgebied van de Staat van veroordeling zijn gemaakt.
 
