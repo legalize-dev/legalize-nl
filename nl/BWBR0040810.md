@@ -4,7 +4,7 @@ identifier: "BWBR0040810"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-03"
-last_updated: "2020-06-27"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040810"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder Besluit: het [Besluit bewapening en uitrusti
 
 ##### Artikel 3
 
-Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2020-06-27&g=2020-06-27), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met:
+Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2021-04-03&g=2021-02-01), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met:
 
 - a. munitie van het merk RUAG Ammotec GmbH, type Action, model NP, kaliber 9 millimeter maal 19 millimeter, of
 
@@ -106,7 +106,7 @@ Als pepperspray, bedoeld in [artikel 1, onder g, van het Besluit](https://wetten
 
 ##### Artikel 7
 
-Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2020-06-27&g=2020-06-27) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
+Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2021-04-03&g=2021-02-01) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
 
 ##### Artikel 8
 
