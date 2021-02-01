@@ -4,7 +4,7 @@ identifier: "BWBR0043533"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-12-31"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043533"
 soort: "ministeriele-regeling-BES"
@@ -200,21 +200,21 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 ##### Artikel 13. Hoogte ouderbijdrage
 
-1. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de dagopvang op Bonaire.
+1. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de dagopvang op Bonaire.
 
-2. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang op Bonaire.
+2. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang op Bonaire.
 
-3. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 175 van de ouders voor de dagopvang bij gastouderopvang op Bonaire.
+3. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 175 van de ouders voor de dagopvang bij gastouderopvang op Bonaire.
 
-4. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang bij gastouderopvang op Bonaire.
+4. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang bij gastouderopvang op Bonaire.
 
-5. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 van de ouders voor de dagopvang op Sint Eustatius.
+5. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 150 van de ouders voor de dagopvang op Sint Eustatius.
 
-6. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 75 van de ouders voor de buitenschoolse opvang op Sint Eustatius.
+6. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 75 van de ouders voor de buitenschoolse opvang op Sint Eustatius.
 
-7. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 van de ouders voor de dagopvang op Saba.
+7. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 100 van de ouders voor de dagopvang op Saba.
 
-8. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 50 van de ouders voor de buitenschoolse opvang op Saba.
+8. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2021-07-17&g=2021-02-01), bedraagt $ 50 van de ouders voor de buitenschoolse opvang op Saba.
 
 9. Indien de ouderbijdrage die de kinderopvangorganisatie in rekening bij de ouder heeft gebracht voor 1 juli 2020, lager is dan de ouderbijdrage zoals opgenomen in het eerste tot en met het achtste lid, kan de minister op advies van het openbaar lichaam afwijken van de bedragen genoemd in deze leden.
 
@@ -246,9 +246,9 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 4. De minister betaalt de kostprijs verlagende subsidies en de kindplaatssubsidies per kwartaal in de vorm van een voorschot.
 
-5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-12-31&g=2020-12-31) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
+5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2021-07-17&g=2021-02-01) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
 
-5. De kinderopvangorganisatie kan bij de minister een aanvraag doen tot een eenmalig voorschot met een maximale hoogte van 35% van het bedrag vastgesteld aan de hand van de informatie, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-12-31&g=2020-12-31). Dit voorschot wordt in het laatste kwartaal voorafgaand aan de vaststelling verrekend.
+5. De kinderopvangorganisatie kan bij de minister een aanvraag doen tot een eenmalig voorschot met een maximale hoogte van 35% van het bedrag vastgesteld aan de hand van de informatie, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2021-07-17&g=2021-02-01). Dit voorschot wordt in het laatste kwartaal voorafgaand aan de vaststelling verrekend.
 
 7. De looptijd van de subsidie wordt bepaald bij verleningsbeschikking maar eindigt in ieder geval op 31 december 2021.
 
@@ -292,7 +292,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - a. de subsidieaanvraag niet voldoet aan de krachtens deze regeling gestelde voorwaarden;
 
-- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2020-12-31&g=2020-12-31), reeds door eerder ingediende aanvragen zijn uitgeput.
+- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2021-07-17&g=2021-02-01), reeds door eerder ingediende aanvragen zijn uitgeput.
 
 ##### Artikel 18. Intrekking subsidie
 
