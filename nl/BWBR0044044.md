@@ -277,7 +277,3 @@ Deze regeling treedt in werking met ingang van 1 februari 2021.
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po 2021. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Aanvragen tot bekostiging 2022
-
-Dit onderdeel is nog niet inwerking getreden
