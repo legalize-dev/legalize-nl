@@ -4,7 +4,7 @@ identifier: "BWBR0044778"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-05-12"
-last_updated: "2020-12-25"
+last_updated: "2021-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044778"
 soort: "beleidsregel"
@@ -86,15 +86,15 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 1. De vergoeding bestaat uit:
 
-- a. een vergoeding voor inkomensschade, vastgesteld overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=5&z=2021-02-03&g=2020-12-25) en voor zover van toepassing gecorrigeerd overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=10&z=2021-02-03&g=2020-12-25);
+- a. een vergoeding voor inkomensschade, vastgesteld overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=5&z=2021-02-03&g=2021-02-03) en voor zover van toepassing gecorrigeerd overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=10&z=2021-02-03&g=2021-02-03);
 
-- b. een vergoeding voor de benodigde periode om vervangende arbeid te vinden, vastgesteld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=6&z=2021-02-03&g=2020-12-25);
+- b. een vergoeding voor de benodigde periode om vervangende arbeid te vinden, vastgesteld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=6&z=2021-02-03&g=2021-02-03);
 
-- c. een vergoeding voor de transitiekosten voor werknemers, vastgesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=7&z=2021-02-03&g=2020-12-25), en
+- c. een vergoeding voor de transitiekosten voor werknemers, vastgesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=7&z=2021-02-03&g=2021-02-03), en
 
-- d. een vergoeding ter compensatie van de waardevermindering vanwege de door het opgelegde vervoersverbod ontstane beperking de fokteven te exporteren, vastgesteld overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=8&z=2021-02-03&g=2020-12-25).
+- d. een vergoeding ter compensatie van de waardevermindering vanwege de door het opgelegde vervoersverbod ontstane beperking de fokteven te exporteren, vastgesteld overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=8&z=2021-02-03&g=2021-02-03).
 
-2. Op de totale vergoeding, bedoeld in het eerste lid, wordt het normaal maatschappelijk risico, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=3&z=2021-02-03&g=2020-12-25), in mindering gebracht.
+2. Op de totale vergoeding, bedoeld in het eerste lid, wordt het normaal maatschappelijk risico, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=3&z=2021-02-03&g=2021-02-03), in mindering gebracht.
 
 ##### Artikel 5. Inkomensschade
 
@@ -126,7 +126,7 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 ##### Artikel 7. Transitiekosten werknemer
 
-1. Een pelsdierhouder komt in aanmerking voor een vergoeding van 60% van de transitievergoeding die hij aan zijn werknemer overeenkomstig [artikel 7:673 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) dient uit te keren, indien het dienstverband is beëindigd na 28 augustus 2020 en voor het einde van de 26 weken, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2020-12-25).
+1. Een pelsdierhouder komt in aanmerking voor een vergoeding van 60% van de transitievergoeding die hij aan zijn werknemer overeenkomstig [artikel 7:673 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) dient uit te keren, indien het dienstverband is beëindigd na 28 augustus 2020 en voor het einde van de 26 weken, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2021-02-03).
 
 2. Een pelsdierhouder komt niet in aanmerking voor een vergoeding als bedoeld in het eerste lid, indien het dienstverband na 28 augustus 2020 is aangegaan.
 
@@ -138,15 +138,15 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 ##### Artikel 9. Overige vergoedingen
 
-Indien de minister een vergoeding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2020-12-25) toekent, vergoedt de minister ook:
+Indien de minister een vergoeding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2021-02-03) toekent, vergoedt de minister ook:
 
 - a. redelijke kosten ter zake van door een derde beroepsmatig verleende rechtsbijstand of andere deskundige bijstand bij de vaststelling van de schade;
 
-- b. de wettelijke rente vanaf de ontvangst van de aanvraag en de gegevens, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2020-12-25).
+- b. de wettelijke rente vanaf de ontvangst van de aanvraag en de gegevens, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2021-02-03).
 
 ##### Artikel 10. Verhouding Regeling subsidie financiering vaste lasten MKB COVID-19
 
-Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering vaste lasten MKB COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043735) een subsidie is verleend om bij te dragen aan de financiering van de vaste lasten in de periode na 1 januari 2021, wordt het bedrag dat op grond van [artikel 11 van die Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043735&artikel=11) is vastgesteld in mindering gebracht op de vergoeding van inkomensschade, vastgesteld overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2020-12-25).
+Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering vaste lasten MKB COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043735) een subsidie is verleend om bij te dragen aan de financiering van de vaste lasten in de periode na 1 januari 2021, wordt het bedrag dat op grond van [artikel 11 van die Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043735&artikel=11) is vastgesteld in mindering gebracht op de vergoeding van inkomensschade, vastgesteld overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2021-02-03).
 
 ##### Artikel 11. Aanvraag vergoeding
 
@@ -178,9 +178,9 @@ Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering va
 
 ##### Artikel 13. Voorschot
 
-1. De minister kent de pelsdierhouder die een aanvraag als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2020-12-25), heeft ingediend, een voorschot toe.
+1. De minister kent de pelsdierhouder die een aanvraag als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-02-03&g=2021-02-03), heeft ingediend, een voorschot toe.
 
-2. Het voorschot bedraagt 20% van de aangevraagde vergoeding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2020-12-25), indien redelijkerwijs kan worden aangenomen dat hij daarvoor in aanmerking kan komen. Op het voorschot is artikel 4, tweede lid, niet van toepassing.
+2. Het voorschot bedraagt 20% van de aangevraagde vergoeding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-02-03&g=2021-02-03), indien redelijkerwijs kan worden aangenomen dat hij daarvoor in aanmerking kan komen. Op het voorschot is artikel 4, tweede lid, niet van toepassing.
 
 3. Met een besluit tot verlening van een voorschot wordt geen aanspraak op vergoeding van schade erkend.
 
