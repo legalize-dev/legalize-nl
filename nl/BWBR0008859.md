@@ -4,7 +4,7 @@ identifier: "BWBR0008859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-20"
-last_updated: "2020-06-27"
+last_updated: "2021-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008859"
 soort: "ministeriele-regeling"
@@ -38,15 +38,15 @@ Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzak
 
 Gelet op het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen (Trb. 1981, 143);
 
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27);
+Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04);
 
-Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27);
+Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04);
 
 Besluit:
 
 ##### Artikel 1
 
-1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27) bij deze regeling.
+1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status, de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04) bij deze regeling, en personen in de openbare dienst van een vreemde staat die aanspraak maken op een geprivilegieerde status op grond van een verdrag, genoemd in die bijlage, alsmede hun gezinsleden voor zover die eveneens aanspraak kunnen maken op een geprivilegieerde status op grond van datzelfde verdrag.
 
 2. Vervallen.
 
@@ -78,7 +78,7 @@ Deze regeling treedt in werking op 11 augustus 1997.
 
 Deze regeling wordt aangehaald als [Regeling identiteitsbewijs geprivilegieerden](https://wetten.overheid.nl/jci1.3:c:BWBR0008858).
 
-## Bijlage 1. Organisaties zonder zetelovereenkomst en/of internationale rechtspersoonlijkheid
+## Bijlage 1. Organisaties zonder zetelovereenkomst en/of Internationale rechtspersoonlijkheid en personen in de openbare dienst van een vreemde staat
 
 Organisaties zonder zetelovereenkomst doch met internationale rechtspersoonlijkheid:
 
@@ -89,6 +89,10 @@ Organisaties zonder zetelovereenkomst:
 - –. Iran-United States Claims Tribunal, opgericht ingevolge artikel II van de Verklaring van de Regering van de Demokratische Volksrepubliek Algerije van 19 januari 1981 (Trb. 1981, 155, p. 11 e.v.);
 
 - –. De Hoge Commissaris inzake Nationale Minderheden, HCNM, van de Organisatie voor Veiligheid en Samenwerking in Europa (Stb. 2002, 580).
+
+Personen in de openbare dienst van een vreemde staat:
+
+- –. De ambtenaren van de UK Border Force als bedoeld in bijlage B bij de op 10 juli 2020 te ’s-Gravenhage tot stand gekomen Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding (Trb. 2020, 69).
 
 ##### I. Internationale organisaties met zetelovereenkomsten
 
