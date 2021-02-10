@@ -110,31 +110,3 @@ Denk daarbij aan de volgende situaties:
 De toezichthouder gaat uitsluitend over tot bezichtiging van de woning nadat de bewoner hiervoor toestemming heeft verleend.
 
 Dit besluit wordt met de toelichting en de bijlage in de Staatscourant geplaatst.
-
-**Protocol Huisbezoeken Handhaving UWV januari 2023**
-
-### Inleiding
-
-Dit protocol beschrijft de vormen en (juridische) vormvereisten van een huisbezoek. UWV heeft toezichthouders benoemd1Besluit aanwijzing toezichthouders UWV die op basis van [artikel 5:15 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) een huisbezoek mogen afleggen.
-
-Binnen Nederland verrichten toezichthouders van UWV een huisbezoek. Buiten Nederland verrichten toezichthouders van UWV of de aan de Nederlandse ambassade verbonden attachés van Sociale Zaken en hun medewerkers een huisbezoek.
-
-### Informed consent
-
-Een bewoner van de woning moet toestemming verlenen vóór het binnentreden van de woning. Dit wordt ‘informed consent’ genoemd. De toezichthouder draagt zorg voor het feit dat de toestemming gebaseerd is op:
-
-### Toestemming
-
-Zowel de weigering van het huisbezoek als het niet verschijnen op de kantoorafspraak of geschikte locatie in het buitenland kan gevolgen hebben voor de uitkering.
-
-### Aankondiging huisbezoek
-
-In beginsel wordt het huisbezoek door de toezichthouder aangekondigd. Als de wijze van aankondiging naar het oordeel van UWV zou afdoen aan de effectiviteit van het in te stellen onderzoek wordt daarvan afgezien. Voorgaande doet zich voor in de situatie dat sprake is van een duidelijk vermoeden van regelovertreding in een individueel geval. In dat geval laat UWV de aankondiging van het huisbezoek achterwege en vindt het huisbezoek plaats door twee toezichthouders.
-
-Uitzondering hierop betreffen huisbezoeken in het kader van samenwerkingsverbanden en hieraan gelieerde projecten. Een samenwerkingsverband is een samenwerking tussen UWV en andere (externe partijen), met als doel om misbruik en oneigenlijk gebruik te voorkomen of te bestrijden en/of om de rechtmatigheid van sociale verzekeringsgelden te borgen. Bij een huisbezoek in een samenwerkingsverband kunnen afwijkende regels gelden over het aankondigen van een huisbezoek. Gedachte hierachter is dat hiervoor binnen het project/samenwerkingsverband duidelijke afwegingen worden gemaakt over de aankondiging van huisbezoeken.
-
-### Bezichtiging van de woning ter verificatie
-
-De toezichthouder gaat uitsluitend over tot bezichtiging van de woning nadat de bewoner hiervoor toestemming heeft verleend.
-
-Dit besluit wordt met de toelichting en de bijlage in de Staatscourant geplaatst.
