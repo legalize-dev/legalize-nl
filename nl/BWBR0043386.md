@@ -4,7 +4,7 @@ identifier: "BWBR0043386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2020-04-17"
+last_updated: "2021-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043386"
 soort: "ministeriele-regeling"
@@ -68,6 +68,8 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
+- **Nationaal Coördinator Groningen:** de Dienst Nationaal Coördinator Groningen. genoemd in [artikel 2 van het Instellingsbesluit Nationaal Coördinator Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0036587&artikel=2);
+
 - **projectorganisatie:** de projectorganisatie, genoemd in artikel 5.3 van het Groninger Zorgakkoord;
 
 - **NEN-norm voor aardbevingsbestendig bouwen:** meest recente NEN-norm voor aardbevingsbestendig bouwen, beoordeling van constructieve veiligheid van een gebouw bij nieuwbouw, verbouw en afkeuren – Geïnduceerde aardbevingen – Grondslagen, belastingen en weerstanden;
@@ -98,7 +100,7 @@ De minister kan subsidie verstrekken voor activiteiten ter voorbereiding van nie
 
 ##### Artikel 2.2. Hoogte van de subsidie
 
-De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2020-04-17&g=2020-04-17) bedraagt € 750.000 per beoogde zorglocatie.
+De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2021-02-11&g=2021-02-11) bedraagt € 750.000 per beoogde zorglocatie.
 
 ##### Artikel 2.3. Voorwaarden voor subsidie
 
@@ -138,7 +140,7 @@ De minister kan subsidie verstrekken aan instellingen voor het afstoten van best
 
 1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de rest1waarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
 
-2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2020-04-17&g=2020-04-17) bij de onderhavige regeling.
+2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2021-02-11&g=2021-02-11) bij de onderhavige regeling.
 
 ##### Artikel 3.4. Voorwaarden voor subsidie
 
@@ -164,11 +166,13 @@ Subsidie wordt zonder voorafgaande verlening direct vastgesteld.
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
-2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2020-04-17&g=2020-04-17) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
+2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2021-02-11&g=2021-02-11) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
-3. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2020-04-17&g=2020-04-17), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
+3. In afwijking van het tweede lid, kan de aanvraag tot vaststelling vergezeld gaan van een positief advies van de Nationaal Coördinator Groningen in plaats van een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
-4. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
+4. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2021-02-11&g=2021-02-11), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
+
+5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
 ### Hoofdstuk 4. Subsidie voor te realiseren nieuwbouw
 
@@ -193,16 +197,18 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 | **A2:** | het aantal te realiseren plaatsen in de dagbesteding; |
 | **A3:** | het aantal te realiseren plaatsen in de kinderdagcentra; |
 | **B:** | het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen |
-| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2020-04-17&g=2020-04-17) van deze regeling |
+| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2021-02-11&g=2021-02-11) van deze regeling |
 | **D:** | het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager. |
 
 2. Subsidie wordt verstrekt voor ten hoogste het aantal te realiseren plaatsen dat door de minister in de verleningsbeschikking wordt bepaald.
 
-3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 96.765.
+3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 101.664.
 
-4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 70.270.
+4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 73.827.
 
-5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 28.799.
+5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 30.257.
+
+6. De hoogte van het geïndexeerde normbedrag, bedoeld in het derde tot en met het vijfde lid, in het jaar van de aanvraag tot verlening, is bepalend voor de vaststelling van de subsidie.
 
 ##### Artikel 4.4. Voorwaarden voor subsidie
 
@@ -273,9 +279,9 @@ Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is word
 | Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
 | Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
 | Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
-| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 3.102.621 |
-| – | Pieter Bieremastraat 5 | Appingedam | € 568.349 |
-| Damsterheerd | Heerdlaan 2: deel Wlz | Appingedam | € 4.409.761 |
+| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
+| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
+| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
 | Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
 | BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
 | Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
@@ -284,7 +290,7 @@ Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is word
 | Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
 | Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
 | Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
-| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 457.452 |
+| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
 | Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
 | De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
 | Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
