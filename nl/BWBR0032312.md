@@ -4,7 +4,7 @@ identifier: "BWBR0032312"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-02-12"
-last_updated: "2019-08-01"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032312"
 soort: "AMvB"
@@ -185,11 +185,11 @@ Indien verhuizing in het belang van de defensieambtenaar of zijn gezinsleden naa
 
 ##### Artikel 11. Vervallen van de aanspraak op tegemoetkoming verhuiskosten
 
-De aanspraak op een tegemoetkoming in de verhuiskosten ingevolge de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=5&z=2021-02-12&g=2019-08-01) vervalt indien de verhuizing niet plaatsvindt binnen een jaar na de datum van het ontslag, het overlijden of de datum waarop het bevoegde gezag wegens sociale en of medische noodzaak aanspraak heeft verleend op een tegemoetkoming in de verhuiskosten.
+De aanspraak op een tegemoetkoming in de verhuiskosten ingevolge de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=5&z=2021-02-12&g=2021-02-12) vervalt indien de verhuizing niet plaatsvindt binnen een jaar na de datum van het ontslag, het overlijden of de datum waarop het bevoegde gezag wegens sociale en of medische noodzaak aanspraak heeft verleend op een tegemoetkoming in de verhuiskosten.
 
 ##### Artikel 12. Aard van de tegemoetkoming verhuiskosten anders dan bij verhuisplicht
 
-1. Ten aanzien van verhuizingen anders dan als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01), is de tegemoetkoming in de verhuiskosten gelijk aan een tegemoetkoming in:
+1. Ten aanzien van verhuizingen anders dan als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12), is de tegemoetkoming in de verhuiskosten gelijk aan een tegemoetkoming in:
 
 - a. de reis- en verblijfkosten die voor de defensieambtenaar en zijn gezin zijn verbonden aan de reis naar de nieuwe woning, mits het een verhuizing betreft van, naar of in een buiten Nederland gelegen land;
 
@@ -205,11 +205,11 @@ Ten aanzien van verhuizingen als bedoeld in dit hoofdstuk die in eigen beheer wo
 
 ##### Artikel 14. Tegemoetkoming reis- en verblijfkosten
 
-De tegemoetkoming in de reis- en verblijfkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2019-08-01), wordt bepaald aan de hand van het gestelde bij of krachtens het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
+De tegemoetkoming in de reis- en verblijfkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2021-02-12), wordt bepaald aan de hand van het gestelde bij of krachtens het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
 
 ##### Artikel 15. Aard van de tegemoetkoming transportkosten bij verhuizing
 
-1. Onder de transportkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2019-08-01), worden bij een verhuizing binnen Nederland verstaan de kosten van:
+1. Onder de transportkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2021-02-12), worden bij een verhuizing binnen Nederland verstaan de kosten van:
 
 - a. het transport van de inboedel en de bagage van de defensieambtenaar en de medeverhuizende gezinsleden;
 
@@ -217,7 +217,7 @@ De tegemoetkoming in de reis- en verblijfkosten, bedoeld in de [artikelen 2](htt
 
 - c. de verzekering van de inboedel en de bagage tegen schade ten gevolge van of in verband met de verhuizing.
 
-2. Onder de transportkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2019-08-01), worden bij een verhuizing van, naar of buiten Nederland verstaan de kosten van:
+2. Onder de transportkosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2021-02-12), worden bij een verhuizing van, naar of buiten Nederland verstaan de kosten van:
 
 - a. het transport van de inboedel van de defensieambtenaar en de medeverhuizende gezinsleden;
 
@@ -239,11 +239,11 @@ De tegemoetkoming in de reis- en verblijfkosten, bedoeld in de [artikelen 2](htt
 
 ##### Artikel 16. Tegemoetkoming aanschaf personenauto buiten Europa
 
-De defensieambtenaar heeft bij plaatsing in een land buiten Europa aanspraak op een tegemoetkoming in de aanschaf ter plaatse van een personenauto of motorrijwiel, indien bij de verplaatsing naar dat land geen kosten als bedoeld in [artikel 15, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=15&z=2021-02-12&g=2019-08-01), in rekening worden gebracht. De tegemoetkoming wordt vastgesteld bij ministeriële regeling.
+De defensieambtenaar heeft bij plaatsing in een land buiten Europa aanspraak op een tegemoetkoming in de aanschaf ter plaatse van een personenauto of motorrijwiel, indien bij de verplaatsing naar dat land geen kosten als bedoeld in [artikel 15, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=15&z=2021-02-12&g=2021-02-12), in rekening worden gebracht. De tegemoetkoming wordt vastgesteld bij ministeriële regeling.
 
 ##### Artikel 17. Tegemoetkoming transport van bagage bij verplaatsing uit, naar en buiten Nederland
 
-1. Indien het bevoegd gezag bij verplaatsing uit, naar en buiten Nederland heeft bepaald dat de defensieambtenaar geen gezinsleden op rijkskosten kan meenemen, is de tegemoetkoming in de verhuiskosten, in afwijking van [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2019-08-01), gelijk aan de kosten van:
+1. Indien het bevoegd gezag bij verplaatsing uit, naar en buiten Nederland heeft bepaald dat de defensieambtenaar geen gezinsleden op rijkskosten kan meenemen, is de tegemoetkoming in de verhuiskosten, in afwijking van [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=12&z=2021-02-12&g=2021-02-12), gelijk aan de kosten van:
 
 - a. het transport van de bagage;
 
@@ -281,27 +281,21 @@ De defensieambtenaar heeft bij plaatsing in een land buiten Europa aanspraak op 
 
 ##### Artikel 20. Tegemoetkoming woon- werkverkeer bij niet dagelijks reizen
 
-De defensieambtenaar heeft aanspraak op een tegemoetkoming in de kosten van het niet dagelijks reizen over de afstand tussen de woning en de plaats van tewerkstelling, indien hij niet dagelijks reist en indien hij militair is tevens een eigen huishouding voert, van:
+De defensieambtenaar die niet dagelijks reist tussen de woning en de plaats van tewerkstelling heeft aanspraak op een tegemoetkoming in de reiskosten:
 
-- a. vier maal per periode van vier weken, indien de plaats van tewerkstelling in Nederland, België of Duitsland en de woning in Nederland, België of Duitsland is gelegen;
+- a. viermaal per periode van vier weken, indien de plaats van tewerkstelling in Nederland, België of Duitsland en de woning in Nederland, België of Duitsland is gelegen;
 
-- b. vier maal per periode van vier weken, indien de plaats van tewerkstelling en de woning beide in Nederland zijn gelegen en hij verplicht huisvesting van rijkswege ontvangt;
+- b. viermaal per periode van vier weken, indien de plaats van tewerkstelling en de woning beide in Nederland zijn gelegen en hij verplicht huisvesting van rijkswege ontvangt;
 
 - c. eenmaal per periode van twee weken, indien de plaats van tewerkstelling en de woning beide in Europa zijn gelegen, terwijl a of b niet van toepassing is;
 
-- d. eenmaal per plaatsingsperiode van negen maanden, indien de plaats van tewerkstelling buiten Europa is gelegen.
+- d. eenmaal per plaatsingsperiode van zes maanden, indien de plaats van tewerkstelling buiten Europa is gelegen en zijn gezin niet ter plaatse woonachtig is;
 
-##### Artikel 21. Tegemoetkoming woon- werkverkeer voor militairen zonder eigen huishouding
+- e. eenmaal per plaatsingsperiode van negen maanden, indien de plaats van tewerkstelling is gelegen buiten Europa en d niet van toepassing is.
 
-De militair die geen eigen huishouding voert, heeft aanspraak op een tegemoetkoming in de kosten van het reizen over de afstand tussen de woning en de plaats van tewerkstelling, van:
+##### Artikel 21. Militairen met zelfstandige woonruimte
 
-- a. eenmaal per periode van twee weken, indien de plaats van tewerkstelling en de woning beide in Nederland zijn gelegen en aan de militair huisvesting van rijkswege is verleend, òf
-
-- b. vier maal per periode van vier weken, indien de plaats van tewerkstelling en de woning beide in Nederland zijn gelegen en aan de militair geen huisvesting van rijkswege is verleend, òf
-
-- c. eenmaal per periode van vier weken, indien de plaats van tewerkstelling en de woning beide zijn gelegen in Europa, terwijl het gestelde onder a of b niet van toepassing is, òf
-
-- d. eenmaal per plaatsingsperiode van negen maanden, indien de plaats van tewerkstelling is gelegen buiten Europa.
+De militair bedoeld in [artikel 20, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20&z=2021-02-12&g=2021-02-12), die in het land van plaatsing buiten Europa zelfstandige woonruimte bewoont en dagelijks reist van die woonruimte naar de plaats van tewerkstelling, heeft aanspraak op een tegemoetkoming in de kosten van het dagelijks reizen als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19&z=2021-02-12&g=2021-02-12) en daarnaast de aanspraak als bedoeld in artikel 20, onder d of e.
 
 ##### Artikel 22. Reizen tussen de woning buiten Europa en een plaats naar keuze in Nederland
 
@@ -311,17 +305,17 @@ De militair die geen eigen huishouding voert, heeft aanspraak op een tegemoetkom
 
 ##### Artikel 23. Overdraagbaarheid van reisaanspraken
 
-1. De defensieambtenaar kan de aanspraak als bedoeld in [artikel 20 onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20&z=2021-02-12&g=2019-08-01), overdragen aan één van zijn gezinsleden tot maximaal het bedrag van de aanspraak van de defensieambtenaar.
+1. De defensieambtenaar kan de aanspraak als bedoeld in [artikel 20 onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20&z=2021-02-12&g=2021-02-12), overdragen aan één van zijn gezinsleden tot maximaal het bedrag van de aanspraak van de defensieambtenaar. Voor de toepassing van dit lid wordt onder gezinsleden tevens verstaan de eigen, stief- of pleegkinderen van de defensieambtenaar die niet met hem samenwonen.
 
-2. De defensieambtenaar kan de aanspraak als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=22&z=2021-02-12&g=2019-08-01), naar bij ministeriele regeling te stellen voorwaarden overdragen aan één van zijn eveneens in het land van plaatsing gevestigde gezinsleden tot maximaal het bedrag van de aanspraak van de defensieambtenaar.
+2. De defensieambtenaar kan de aanspraak, bedoeld in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=22&z=2021-02-12&g=2021-02-12), overdragen aan zijn al dan niet met hem samenwonende gezinsleden tot maximaal het bedrag van de aanspraak van de defensieambtenaar dan wel zijn gezinsleden.
 
 ##### Artikel 24. Tegemoetkoming in de kosten van het reizen tussen de plaats van legering en de plaats van tewerkstelling
 
-De defensieambtenaar die aanspraak heeft op een tegemoetkoming, bedoeld in [artikel 20 onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20&z=2021-02-12&g=2019-08-01) en [21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=21&z=2021-02-12&g=2019-08-01), heeft eveneens aanspraak op een tegemoetkoming in de kosten van het dagelijks reizen voor de tussen de plaats van legering of het pension en de plaats van tewerkstelling af te leggen afstand indien de te reizen afstand meer dan 10 kilometer bedraagt.
+De defensieambtenaar die aanspraak heeft op een tegemoetkoming, bedoeld in [artikel 20 onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20&z=2021-02-12&g=2021-02-12) en [21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=21&z=2021-02-12&g=2021-02-12), heeft eveneens aanspraak op een tegemoetkoming in de kosten van het dagelijks reizen voor de tussen de plaats van legering of het pension en de plaats van tewerkstelling af te leggen afstand indien de te reizen afstand meer dan 10 kilometer bedraagt.
 
 ##### Artikel 25. Bepalingen bij de inzet van vervoer van rijkswege
 
-1. Het bevoegd gezag kan bepalen dat de defensieambtenaar die de mogelijkheid heeft om te reizen met van rijkswege ingezet vervoer, in afwijking van de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19&z=2021-02-12&g=2019-08-01), geen aanspraak heeft op de in die artikelen bedoelde tegemoetkoming.
+1. Het bevoegd gezag kan bepalen dat de defensieambtenaar die de mogelijkheid heeft om te reizen met van rijkswege ingezet vervoer, in afwijking van de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19&z=2021-02-12&g=2021-02-12), geen aanspraak heeft op de in die artikelen bedoelde tegemoetkoming.
 
 2. De defensieambtenaar die op grond van het eerste lid geen aanspraak heeft op een tegemoetkoming in de kosten van het dagelijks reizen voor de tussen de woning of de plaats van legering en de plaats van tewerkstelling af te leggen afstand is, indien gebruik wordt gemaakt van het van rijkswege ingezette vervoer, hiervoor een bij ministeriële regeling te bepalen bedrag verschuldigd.
 
@@ -335,7 +329,7 @@ De defensieambtenaar die aanspraak heeft op een tegemoetkoming, bedoeld in [arti
 
 ##### Artikel 27. Vaststelling tegemoetkomingen
 
-De tegemoetkomingen, bedoeld in de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19&z=2021-02-12&g=2019-08-01), worden vastgesteld bij ministeriële regeling.
+De tegemoetkomingen, bedoeld in de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19&z=2021-02-12&g=2021-02-12), worden vastgesteld bij ministeriële regeling.
 
 ##### Artikel 28. Aanspraken partner
 
@@ -355,7 +349,7 @@ Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld 
 
 ##### Artikel 31. Hardheidsclausule
 
-De Minister kan van de [artikelen 2 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2019-08-01) afwijken voor zover toepassing gelet op het belang van dat deze regelgeving beoogd te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+De Minister kan van de [artikelen 2 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2&z=2021-02-12&g=2021-02-12) afwijken voor zover toepassing gelet op het belang van dat deze regelgeving beoogd te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 32. Inwerkingtreding
 
