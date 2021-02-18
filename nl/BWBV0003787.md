@@ -4,7 +4,7 @@ identifier: "BWBV0003787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-18"
-last_updated: "2019-09-10"
+last_updated: "2021-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003787"
 soort: "verdrag"
@@ -100,15 +100,15 @@ Een Lid is niet, op grond van zijn lidmaatschap, aansprakelijk wat betreft hande
 
 ##### Artikel 4. Middelen
 
-De middelen van het Fonds worden gevormd door;
+De middelen van het Fonds worden gevormd door:
 
-- i. de oorspronkelijke bijdragen;
+- i. oorspronkelijke bijdragen;
 
 - ii. aanvullende bijdragen;
 
 - iii. bijzondere bijdragen van niet-Lid-Staten en uit andere bronnen;
 
-- iv. gelden verkregen of te verkrijgen uit verrichtingen of gelden die op andere wijze aan het Fonds toekomen.
+- iv. gelden verkregen of te verkrijgen uit verrichtingen of gelden die op andere wijze aan het Fonds toekomen, met inbegrip van leningen verstrekt door Leden en uit andere bronnen.
 
 - (a). De oorspronkelijke bijdrage van een oorspronkelijk Lid en een niet-oorspronkelijk Lid is het bedrag in de valuta aangegeven door het Lid in zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd door dat Lid ingevolge artikel 13, eerste lid, letters (b) en (c) van deze Overeenkomst.
 
@@ -120,7 +120,7 @@ Indien de Raad van Bestuur het, als resultaat van een zodanig onderzoek, noodzak
 
 De Raad van Bestuur kan te allen tijde een Lid machtigen het bedrag van een van zijn bijdragen te verhogen.
 
-- a. De bijdragen worden verstrekt zonder beperkingen ten aanzien van het gebruik en worden alleen aan de bijdragende Leden terugbetaald overeenkomstig artikel 9, vierde lid.
+- a. De bijdragen worden verstrekt zonder beperkingen ten aanzien van het gebruik en worden alleen aan de bijdragende Leden terugbetaald overeenkomstig [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003787&artikel=9&z=2021-02-18&g=2021-02-18).
 
 - b. De bijdragen worden verstrekt in vrij inwisselbare valuta.
 
@@ -128,13 +128,17 @@ De Raad van Bestuur kan te allen tijde een Lid machtigen het bedrag van een van 
 
 - i. de bijdragen worden naar rato aangewend over door het College van Bewindvoerders redelijk geachte tijdvakken;
 
-- ii. wanneer een bijdrage gedeeltelijk in contant geld wordt betaald, wordt het aldus betaalde bedrag overeenkomstig het bepaalde in (i) aangewend vóór het restant van de bijdrage. Behalve voor zover het in contant geld betaalde gedeelte aldus wordt aangewend, kan het door het Fonds worden gedeponeerd of belegd om inkomen te produceren ter bestrijding van zijn administratieve en andere uitgaven;
+- ii. wanneer een bijdrage gedeeltelijk in contant geld wordt betaald, wordt het aldus betaalde bedrag overeenkomstig het bepaalde in i. aangewend vóór het restant van de bijdrage. Behalve voor zover het in contant geld betaalde gedeelte aldus wordt aangewend, kan het door het Fonds worden gedeponeerd of belegd om inkomen te produceren ter bestrijding van zijn administratieve en andere uitgaven;
 
 - iii. alle oorspronkelijke bijdragen, alsmede verhogingen daarvan, worden aangewend voordat de aanvullende bijdragen worden aangewend. Dezelfde regel is van toepassing op toekomstige aanvullende bijdragen.
 
 - d. Onverminderd letter (c) kunnen bijdragen aan het Fonds ook worden verstrekt in de vorm van een schenkingselement van een concessionele partnerlening; voor dit doel wordt onder „concessionele partnerlening” verstaan een lening die wordt verstrekt door een Lid of een van zijn door de staat gesteunde instellingen, die een schenkingselement ten behoeve van het Fonds omvat en anderszins in overeenstemming is met het door het College van Bewindvoerders goedgekeurde kader voor concessionele partnerleningen; en wordt onder „door de staat gesteunde instelling” verstaan een onderneming en instelling voor ontwikkelingsfinanciering die eigendom is van of wordt beheerst door de Staat van een Lid, met uitzondering van multilaterale instellingen.
 
+- e. Niettegenstaande de bovenstaande letter c, kunnen bijdragen aan het Fonds tevens gedaan worden in de vorm van de korting die of het krediet dat ontstaat uit de vroegtijdige inning van bijdragen in overeenstemming met het door de Raad van Bestuur goedgekeurde mechanisme.
+
 De middelen van het Fonds kunnen worden uitgebreid door bijzondere bijdragen van niet-Lid-Staten of uit andere bronnen op voorwaarden die verenigbaar zijn met het vijfde lid van dit artikel, en die worden goedgekeurd door de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.
+
+Het Fonds is gemachtigd gelden van Lid-Staten of uit andere bronnen te lenen, waardepapieren die het heeft uitgegeven of gegarandeerd te kopen of te verkopen, en de bevoegdheden uit te oefenen die bijkomstig zijn aan zijn leenactiviteiten voor zover deze noodzakelijk of wenselijk zijn bij het nastreven van zijn doeleinden.
 
 ##### Artikel 5. Valuta’s
 
@@ -186,13 +190,13 @@ Het Fonds bezit:
 
 - (g). Het quorum voor een vergadering van de Raad van Bestuur wordt gevormd door de Bestuurders die twee derde van het totale aantal stemmen van alle leden van de Raad bezitten.
 
-- (a). Oorspronkelijke stemmen en stemmen op basis van aanvullende bijdragen. Alle Leden hebben in gelijke mate de beschikking over deze stemmen op de volgende basis:
+- a. Het totale aantal stemmen in de Raad van Bestuur bestaat uit oorspronkelijke stemmen en stemmen op basis van aanvullende bijdragen. Alle Leden hebben in gelijke mate de beschikking over deze stemmen op de volgende basis:
 
 - i. Het aantal **oorspronkelijke stemmen** bedraagt in totaal achttienhonderd (1800) en bestaat uit stemmen op basis van lidmaatschap en stemmen op basis van bijdrage;
 
 - A. De **stemmen op basis van lidmaatschap** worden gelijkelijk onder alle Leden verdeeld; en
 
-- B. De **stemmen op basis van bijdrage** worden onder alle Leden verdeeld evenredig met de verhouding tussen de door elk Lid betaalde cumulatieve bijdragen aan de middelen van het Fonds, goedgekeurd door de Raad van Bestuur voor 26 januari 1995 en door de Leden verstrekt in overeenstemming met artikel 4, tweede, derde en vierde lid van deze Overeenkomst, en het totale bedrag van de desbetreffende door alle Leden betaalde bijdragen;
+- B. De**stemmen op basis van bijdrage** worden onder alle Leden verdeeld evenredig met de verhouding tussen de door elk Lid betaalde cumulatieve bijdragen aan de middelen van het Fonds, goedgekeurd door de Raad van Bestuur voor 26 januari 1995 en door de Leden verstrekt in overeenstemming met artikel 4, tweede, derde en vierde lid van deze Overeenkomst, en het totale bedrag van de desbetreffende door alle Leden betaalde bijdragen;
 
 - ii. **Stemmen op basis van aanvullende bijdragen** bestaan uit stemmen op basis van lidmaatschap en stemmen op basis van bijdrage, waarbij het totale aantal stemmen wordt bepaald door de Raad van Bestuur telkens wanneer hij verzoekt om aanvullende bijdragen uit hoofde van artikel 4, derde lid, van deze Overeenkomst (een „aanvulling”) te beginnen met de vierde van deze aanvullingen. Tenzij de Raad van Bestuur met een tweederdemeerderheid van het totale aantal stemmen anders beslist, worden de stemmen voor elke aanvulling vastgesteld in de verhouding van honderd (100) stemmen voor het equivalent van elke honderdachtenvijftig miljoen US dollar (USD 158 000 000) dat wordt bijgedragen aan het totale bedrag van die aanvulling, of een deel daarvan;
 
@@ -202,7 +206,9 @@ Het Fonds bezit:
 
 - iii. De Raad van Bestuur bepaalt het totale aantal stemmen dat uit hoofde van de onderdelen (i) en (ii) van dit lid wordt toegewezen als stemmen op basis van lidmaatschap en stemmen op basis van bijdrage. Na elke wijziging van het aantal Leden van het Fonds worden de stemmen op basis van lidmaatschap 27 139 en de stemmen op basis van bijdrage die uit hoofde van de onderdelen (i) en (ii) van dit lid zijn toegewezen opnieuw verdeeld in overeenstemming met de beginselen vervat in de genoemde onderdelen. Bij het toewijzen van stemmen waarborgt de Raad van Bestuur dat de Leden die voor 26 januari 1995 waren ingedeeld als leden in categorie III, een derde van het totale aantal stemmen als stemmen op basis van lidmaatschap krijgen.3)De toewijzing van stemmen geschiedt in overeenstemming met de grondbeginselen die door de Raad van Bestuur zijn goedgekeurd in het Verslag van de Bijzondere Commissie en in het bijzonder onderdeel 5 daarvan. De Raad van Bestuur neemt bij elke aanvulling een resolutie aan ter zake van de aanvulling en de verdeling van stemmen onder de Leden van de Raad van Bestuur en het College van Bewindvoerders voor elk tijdvak van aanvulling vanaf de Vierde Aanvulling. De resolutie inzake de Vierde Aanvulling bevat details over de stemmen die onder de Leden worden verdeeld tot en met het einde van het tijdvak van de Derde Aanvulling.
 
-- (b). Behalve voor zover anders in deze Overeenkomst bepaald, worden besluiten van de Raad van Bestuur genomen met een enkelvoudige meerderheid van het totale aantal stemmen.
+- b. Ten behoeve van het bovenstaande derde lid, letter a, paragrafen i.B en ii.B, wordt het schenkingselement van een concessionele partnerlening en de korting die of het krediet dat ontstaat uit de vroegtijdige inning van bijdragen beschouwd als “betaalde bijdragen” en de stemmen op basis van bijdragen worden dienovereenkomstig verdeeld; en
+
+- c. Behalve voor zover anders in deze Overeenkomst bepaald, worden besluiten van de Raad van Bestuur genomen met een enkelvoudige meerderheid van het totale aantal stemmen.
 
 De Raad van Bestuur kiest uit zijn midden een Voorzitter met een ambtstermijn van twee jaar.
 
@@ -252,7 +258,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (a). De middelen van het Fonds worden gebruikt ter verwezenlijking van het in artikel 2 aangegeven doel.
 
-- (b). Er worden door het Fonds alleen financiële middelen verstrekt ten behoeve van Lidstaten in ontwikkeling. Dergelijke financiële middelen kunnen rechtstreeks aan Lidstaten in ontwikkeling worden verstrekt of via intergouvernementele organisaties waarin zulke Leden deelnemen of aan, of via, organisaties en ondernemingen in de private sector. In het geval van een lening aan een intergouvernementele organisatie kan het Fonds passende gouvernementele of andere waarborgen eisen.
+- (b). Er worden door het Fonds alleen financiële middelen verstrekt ten behoeve van Lidstaten in ontwikkeling. Dergelijke financiële middelen kunnen rechtstreeks aan Lidstaten in ontwikkeling of staatkundige onderdelen daarvan worden verstrekt of via intergouvernementele organisaties waarin zulke Leden deelnemen of aan, of via, nationale ontwikkelingsbanken, organisaties en ondernemingen in de private sector, of andere entiteiten die van tijd tot tijd door de Raad van Bestuur worden beoordeeld. In het geval van een lening aan een entiteit anders dan een Lid-Staat, kan het Fonds passende gouvernementele of andere waarborgen eisen, tenzij de Raad van Bestuur anderszins besluit op basis van een grondige beoordeling van de bijbehorende risico’s en waarborgen.
 
 - (c). Het Fonds treft maatregelen ter verzekering dat de financiële middelen alleen worden gebruikt voor de doeleinden waarvoor ze werden verstrekt, waarbij naar behoren rekening wordt gehouden met overwegingen van zuinigheid, doelmatigheid en sociale rechtvaardigheid.
 
@@ -312,9 +318,9 @@ Wanneer een Staat ophoudt Lid te zijn, door terugtrekking dan wel als gevolg van
 
 Het Fonds bezit internationale rechtspersoonlijkheid.
 
-- (a). Het Fonds geniet in het grondgebied van elk van zijn Leden de voorrechten en immuniteiten die nodig zijn voor het vervullen van zijn taken en voor de verwezenlijking van zijn doel. De vertegenwoordigers van de Leden, de President en de staf van het Fonds genieten de voorrechten en immuniteiten die nodig zijn voor de onafhankelijke vervulling van hun taken in verband met het Fonds.
+- a. Het Fonds geniet in het grondgebied van elk van zijn Leden de voorrechten en immuniteiten die nodig zijn voor het vervullen van zijn taken en voor de verwezenlijking van zijn doel. De vertegenwoordigers van de Leden, de President en de staf van het Fonds genieten de voorrechten en immuniteiten die nodig zijn voor de onafhankelijke vervulling van hun taken in verband met het Fonds.
 
-- (b). De in letter (a) bedoelde voorrechten en immuniteiten zijn:
+- b. De in letter (a) bedoelde voorrechten en immuniteiten zijn:
 
 - (i). in het grondgebied van een Lid dat ten aanzien van het Fonds is toegetreden tot het [Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties](https://wetten.overheid.nl/jci1.3:c:BWBV0005536), die zoals omschreven in de standaardclausules van dat Verdrag zoals gewijzigd bij een aanhangsel daarbij goedgekeurd door de Raad van Bestuur;
 
@@ -322,7 +328,17 @@ Het Fonds bezit internationale rechtspersoonlijkheid.
 
 - (iii). die zoals omschreven in andere door het Fonds gesloten overeenkomsten.
 
-- (c). Ten aanzien van een Lid dat een groep van Staten is, verzekert deze groep dat de in dit artikel bedoelde voorrechten en immuniteiten worden toegepast in de grondgebieden van alle leden van de groep.
+- c. Ten aanzien van een Lid dat een groep van Staten is, verzekert deze groep dat de in dit artikel bedoelde voorrechten en immuniteiten worden toegepast in de grondgebieden van alle leden van de groep.
+
+- d. Niettegenstaande het bovenstaande tweede lid, letters a – c, kunnen rechtsvorderingen tegen het Fonds die voortvloeien uit diens bevoegdheden krachtens [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003787&artikel=4&z=2021-02-18&g=2021-02-18), uitsluitend worden ingesteld bij een bevoegde rechter op het grondgebied van een Lid wanneer:
+
+- i. het Fonds een vertegenwoordiger heeft aangewezen voor de betekening van dagvaardingen; of
+
+- ii. het Fonds waardepapieren heeft uitgegeven of gegarandeerd, op voorwaarde echter dat:
+
+- A. er geen procedures worden ingesteld door Lid-Staten of personen die optreden voor of vorderingen hebben op Lid-Staten; en
+
+- B. de eigendommen en bezittingen van het Fonds, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard van elke vorm van inbeslagname, beslaglegging of executie voordat een definitief vonnis tegen het Fonds is uitgesproken.
 
 ##### Artikel 11. Uitlegging en arbitrage
 
