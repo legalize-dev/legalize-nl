@@ -4,7 +4,7 @@ identifier: "BWBR0043538"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-04-16"
-last_updated: "2020-05-19"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043538"
 soort: "zbo"
@@ -99,15 +99,13 @@ Subsidie kan alleen worden aangevraagd indien de betrokken uitvoerenden professi
 
 4. Het bestuur informeert de aanvrager uiterlijk binnen 4 weken na de uiterlijke indiendatum schriftelijk over zijn besluit.
 
-5. Aanvragen worden afgehandeld op volgorde van indiening. Als moment van indiening geldt de datum waarop de aanvraag compleet is.
-
 ##### Artikel 7. Toekenning
 
 1. Het bestuur kent een financiële bijdrage toe ten behoeve van een initiatief als dat voldoet aan de eisen van de regeling en voor zover de financiële middelen dat toelaten.
 
 2. Het bestuur bepaalt de hoogte van de bijdrage. De bijdrage is een tegemoetkoming in de investering van tijd, materialen en diensten van derden en kan gebruikt worden voor kosten die verband houden met de ontwikkeling van nieuw werk.
 
-3. Het subsidie bedraagt nooit meer dan € 5.000.
+3. Het subsidie bedraagt nooit meer dan € 7.500.
 
 ##### Artikel 8. Subsidieplafond
 
