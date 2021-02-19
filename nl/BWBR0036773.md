@@ -4,7 +4,7 @@ identifier: "BWBR0036773"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-17"
-last_updated: "2021-01-01"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036773"
 soort: "zbo"
@@ -164,7 +164,7 @@ Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het verva
 
 2. Een aanvrager kan voor maximaal drie werken per jaar een aanvraag indienen. Een niet-gehonoreerde aanvraag mag eenmaal opnieuw worden ingediend mits aan de andere vereisten wordt voldaan.
 
-3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2019-01-01&g=2021-01-01).
+3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2021-02-19&g=2021-02-19).
 
 ##### Artikel 3.3. Subsidieaanvraag
 
@@ -183,6 +183,8 @@ Een aanvraag heeft betrekking op een specifieke opdracht aan een door de aanvrag
 - d). de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan het vereiste uit het eerste lid sub d in behandeling te nemen als de aanvrager niet kan worden tegengeworpen dat niet aan het vereiste wordt voldaan en het resultaat van de opdracht een bijzondere bijdrage kan leveren aan het doel van deze subsidievorm.
+
+3. In afwijking van [artikel 1.7 lid sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=1&artikel=1.7&z=2021-02-19&g=2021-02-19) kan het bestuur het subsidie weigeren als reeds eerder voor dezelfde activiteit subsidie is aangevraagd.
 
 ##### Artikel 3.5. Beoordeling
 
