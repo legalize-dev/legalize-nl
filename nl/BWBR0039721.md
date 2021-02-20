@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2020-10-29"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -68,11 +68,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De minister kan subsidie verstrekken aan de aanvrager voor de ontwikkeling en uitvoering van een doorstroomprogramma.
 
-2. Het doorstroomprogramma is gericht op het versoepelen van de overgang van het primair naar het voortgezet onderwijs. Deelnemers verkrijgen kennis en vaardigheden die van belang zijn bij de overgang naar het voortgezet onderwijs en binnen het voortgezet onderwijs.
+2. Deze subsidieregeling is één van de maatregelen uit het Actieplan gelijke kansen in het onderwijs uit 2016. Met deze maatregel wordt beoogd om gelijke kansen in het onderwijs te bevorderen en talenten van leerlingen uit de doelgroep beter te benutten.
 
-3. Doelgroep van de doorstroomprogramma’s zijn leerlingen die in het voortgezet onderwijs op een hoger niveau kunnen presteren en dit ambiëren, maar niet of minder vanzelfsprekend dan hun klasgenoten ondersteuning of hulpbronnen tot hun beschikking hebben die nodig zijn om deze ambitie te realiseren.
+3. Het doorstroomprogramma is gericht op het versoepelen van de overgang van het primair naar het voortgezet onderwijs. Deelnemers verkrijgen kennis en vaardigheden die van belang zijn bij de overgang naar het voortgezet onderwijs en binnen het voortgezet onderwijs.
 
-4. De bij het doorstroomprogramma betrokken bevoegd gezagen bepalen of een leerling tot de doelgroep behoort.
+4. Doelgroep van de doorstroomprogramma’s zijn (toekomstige) voortgezet onderwijs leerlingen die op een hoger niveau kunnen instromen of presteren in het voortgezet onderwijs dan ze tot nu toe laten zien, maar door omgevingsfactoren buiten de school of door de thuissituatie niet of minder vanzelfsprekend dan hun klasgenoten ondersteuning of hulpbronnen tot hun beschikking hebben die nodig zijn om dit niveau te realiseren.
+
+5. De bij het doorstroomprogramma betrokken bevoegd gezagen bepalen of een leerling tot de doelgroep behoort.
 
 ##### Artikel 4. Subsidieplafond
 
@@ -82,15 +84,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 14.141.000 beschikbaar.
 
-4. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
+4. Voor subsidieverstrekking op grond van deze regeling is voor 2021 een bedrag van € 15.130.000,– beschikbaar.
+
+5. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. Na afloop van de aanvraagperiode wordt jaarlijks door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd.
 
-2. Loting vindt plaats per regio, zoals bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=3). De regio waarin aanvragen meeloten, wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
+2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2021-02-20&g=2021-02-20), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
-3. Per regio zijn de volgende percentages van het subsidieplafond beschikbaar:
+3. Indien na toepassing van het tweede lid nog middelen resteren, wordt vervolgens voorrang verleend aan de aanvragen die zijn gericht op in ieder geval één basisschool als bedoeld [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) met een positieve achterstandsscore als bedoeld in [artikel 27 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=27), blijkend uit de in het jaar van de aanvraag door het Centraal Bureau voor de Statistiek aan de minister verstrekte gegevens. Indien niet genoeg middelen resteren om al deze aanvragen te honoreren, dan wordt er geloot.
+
+4. Indien na toepassing van het tweede en derde lid nog middelen resteren, vindt loting plaats per regio als bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2016-2021](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=3). De regio waarin aanvragen meeloten wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
+
+5. Per regio zijn de volgende percentages van het resterende bedrag, bedoeld in het vierde lid beschikbaar:
 
 - a. regio noord: 36,5%,
 
@@ -98,15 +106,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - c. regio zuid: 27%.
 
-4. Caribisch Nederland wordt jaarlijks ingedeeld bij de regio waar de zomervakantie het eerst begint en eindigt.
-
-5. Indien de in het derde lid gestelde percentages niet leiden tot uitputting van het totaal beschikbare bedrag, worden de resterende middelen in gelijke delen toegevoegd aan het budget voor de andere regio dan wel regio’s.
+6. Indien de in het vijfde lid gestelde percentages niet leiden tot uitputting van het totaal beschikbare bedrag, worden de resterende middelen in gelijke delen toegevoegd aan het budget voor de andere regio dan wel regio’s.
 
 ##### Artikel 6. Subsidiecriteria
 
 1. Een doorstroomprogramma voldoet ten minste aan de volgende voorwaarden:
 
-- a. het wordt door ten minste één school voor primair onderwijs en ten minste één school voor voortgezet onderwijs gezamenlijk vormgegeven. Per aanvraagperiode wordt aan een school of nevenvestiging voor maximaal één doorstroomprogramma subsidie verstrekt,
+- a. het wordt door ten minste één school voor primair onderwijs en ten minste één school voor voortgezet onderwijs gezamenlijk vormgegeven. Per aanvraagperiode kan een school of nevenvestiging voor primair onderwijs aan maximaal één, en een school of nevenvestiging voor voortgezet onderwijs aan maximaal twee doorstroomprogramma’s deelnemen,
 
 - b. het beslaat ten minste 100 klokuren,
 
@@ -114,21 +120,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. het zet in op ouderbetrokkenheid,
 
-- e. het bevat ten minste twee van de volgende inhoudelijke lijnen, waarvan lijn 4 in ieder geval aanwezig is:
+- e. het is gericht op:
 
-- 1°. het versterken van cognitieve vaardigheden,
+- 1˚. het vergroten van kennis en vaardigheden die bij de overgang naar het voortgezet onderwijs van belang zijn, en
 
-- 2°. het versterken van taal- en leesvaardigheden,
+- 2˚. randvoorwaarden die nodig zijn om in het voortgezet onderwijs tot leren te komen,
 
-- 3°. het versterken van metacognitieve vaardigheden,
+- f. het bevat ten minste twee van de volgende inhoudelijke lijnen:
 
-- 4°. het inzetten op omgevingsfactoren en de thuissituatie.
+- 1°. het versterken van cognitieve vaardigheden, bijvoorbeeld gericht op het versterken van taal- en leesvaardigheden en rekenen,
 
-2. De aanvraag bevat een onderbouwde prognose van het aantal deelnemers en maakt daarbij het aantal deelnemers per deelnemende school of nevenvestiging inzichtelijk. Tevens wordt omschreven op welke wijze de deelnemers worden geselecteerd.
+- 2°. het versterken van metacognitieve vaardigheden, bijvoorbeeld gericht op het versterken van zelfstandig leren, effectieve werkhouding en plannen ten behoeve van de overgang naar het vo,
 
-3. Indien de omvang van een doorstroomprogramma ten gevolge van de uitbraak van het coronavirus of de maatregelen ter bestrijding van het virus in het gedrang komt, kan de minister toestaan dat de periode voor de uitvoering van het doorstroomprogramma, wordt verlengd, uiterlijk tot en met de maand januari van het tweede leerjaar van het voortgezet onderwijs.
+- 3°. het inzetten op omgevingsfactoren buiten de klas en de thuissituatie, bijvoorbeeld gericht op het vergroten van ouderbetrokkenheid, het vergroten of benutten van netwerken of hulpbronnen uit de omgeving, het versterken van sociale vaardigheden, het begeleiden bij de schoolkeuze en brede loopbaanoriëntatie, allemaal ten behoeve van de overgang naar het vo.
 
-4. Een doorstroomprogramma kan minder dan 100 klokuren beslaan, indien het tekort aan omvang van het doorstroomprogramma is toe te rekenen aan de uitbraak van het coronavirus of de maatregelen ter bestrijding ervan en indien het voor de subsidieontvanger redelijkerwijs onmogelijk is het doorstroomprogramma met toestemming van de minister gedurende een langere periode uit te voeren.
+2. Indien de omvang van een doorstroomprogramma ten gevolge van de uitbraak van het coronavirus of de maatregelen ter bestrijding van het virus in het gedrang komt, kan de minister toestaan dat de periode voor de uitvoering van het doorstroomprogramma, wordt verlengd, uiterlijk tot en met de maand januari van het tweede leerjaar van het voortgezet onderwijs.
+
+3. Een doorstroomprogramma kan minder dan 100 klokuren beslaan, indien het tekort aan omvang van het doorstroomprogramma is toe te rekenen aan de uitbraak van het coronavirus of de maatregelen ter bestrijding ervan en indien het voor de subsidieontvanger redelijkerwijs onmogelijk is het doorstroomprogramma met toestemming van de minister gedurende een langere periode uit te voeren.
 
 ##### Artikel 7. Penvoerderschap
 
@@ -138,17 +146,27 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-4. De aanvraag bevat een door alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen getekende verklaring, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
+4. De aanvraag bevat een verklaring van alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-10-29&g=2020-10-29).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2021-02-20&g=2021-02-20).
 
 ##### Artikel 8. Subsidieaanvraag
 
 1. Voor aanvraag van subsidie wordt een door de minister vastgesteld aanvraagformulier gebruikt dat is bekendgemaakt op de website www.dus-i.nl.
 
-2. In 2017 kan tot uiterlijk 1 oktober subsidie worden aangevraagd. In 2018 en 2019 kan jaarlijks tussen 1 maart en 31 mei subsidie worden aangevraagd. In 2020 kan van 1 maart tot en met 31 juli subsidie worden aangevraagd.
+2. De aanvraag bevat:
 
-3. De minister beslist jaarlijks binnen 13 weken na het verstrijken van de periode waarin aanvragen kunnen worden ingediend op de aanvragen.
+- a. een onderbouwde prognose van het aantal deelnemers, waarbij het aantal deelnemers per deelnemende school of nevenvestiging inzichtelijk wordt gemaakt,
+
+- b. een omschrijving van de wijze waarop de deelnemers zijn geselecteerd,
+
+- c. een omschrijving van de wijze waarop de selectie, bedoeld in onderdeel b, bijdraagt aan het doel van de regeling,
+
+- d. een omschrijving van de wijze waarop de samenwerking tussen de po- en vo-school wordt vormgegeven ten behoeve van een gunstige doorstroom van de deelnemende leerlingen.
+
+3. In 2021 en 2022 kan jaarlijks van 20 februari tot en met 30 april subsidie worden aangevraagd.
+
+4. De minister beslist jaarlijks binnen 13 weken na het verstrijken van de periode waarin aanvragen kunnen worden ingediend op de aanvragen.
 
 ##### Artikel 9. Omvang subsidie
 
@@ -158,6 +176,8 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Het subsidiebedrag per doorstroomprogramma op Caribisch Nederland wordt omgerekend in dollars tegen de vastgestelde wisselkoers.
 
+4. De activiteiten kunnen worden verricht vanaf het moment van indiening van de aanvraag, tot aan het einde van het eerste leerjaar van het voortgezet onderwijs.
+
 ##### Artikel 10. Subsidieverstrekking en betaling
 
 1. Subsidie op grond van deze regeling wordt direct vastgesteld.
@@ -166,9 +186,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 11. Inspannings- en meldplicht aantal deelnemers
 
-1. De aanvrager tracht deelnemers het gehele doorstroomprogramma aan te bieden. Indien een deelnemer het doorstroomprogramma voortijdig afbreekt, mag in diens plaats een andere deelnemer worden geselecteerd.
+1. De aanvrager tracht deelnemers het gehele doorstroomprogramma aan te bieden. Indien een deelnemer het doorstroomprogramma voortijdig afbreekt, spant de aanvrager zich in om een andere deelnemer te selecteren in diens plaats. Indien een deelnemer doorstroomt naar een vo-school die niet deelneemt in het doorstroomprogramma, kan tijdens de looptijd van de subsidie een schriftelijk verzoek tot wijziging van de subsidie bij DUS-I worden ingediend om deze vo-school toe te laten als deelnemende school aan het doorstroomprogramma.
 
-2. De aanvrager maakt er bij de minister in ieder geval melding van indien het daadwerkelijke aantal deelnemers kleiner is dan 85 procent van het geprognosticeerd aantal deelnemers op basis waarvan de hoogte van de subsidie is vastgesteld. In dat geval stelt de minister de subsidie lager vast.
+2. De aanvrager maakt er bij de minister in ieder geval schriftelijk melding van indien het daadwerkelijke aantal deelnemers kleiner is dan 85 procent van het geprognosticeerd aantal deelnemers op basis waarvan de hoogte van de subsidie is vastgesteld. In dat geval stelt de minister de subsidie lager vast.
 
 ##### Artikel 12. Verantwoording
 
@@ -192,7 +212,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2024.
+2. Deze regeling vervalt met ingang van 1 januari 2026.
 
 ##### Artikel 15. Citeertitel
 
