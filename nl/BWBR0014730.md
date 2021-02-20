@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2020-05-16"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 bis van Verordening (EG) nr. 147/2003 is, wat betreft de onderdelen a, b, c en e, de Minister van Financiën voor zover het betreft financiering en financiële bijstand, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technisch advies, bijstand of opleiding. De bevoegde autoriteit, bedoeld in artikel 2 bis, onder d, en artikel 3 quater is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking. De bevoegde autoriteit, bedoeld in artikel 3 bis van Verordening (EG) nr. 147/2003 is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+1. De bevoegde autoriteit, bedoeld in artikel 2 bis van [Verordening (EG) nr. 147/2003](32003R0147) is, de Minister van Financiën voor zover het betreft financiering en financiële bijstand, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand. De bevoegde autoriteit, bedoeld in artikel 3 bis van [Verordening (EG) nr. 147/2003](32003R0147) is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegde autoriteit, bedoeld in artikel 3 quater van [Verordening (EG) nr. 147/2003](32003R0147) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 2. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van Verordening (EU) nr. 356/2010 is de Minister van Financiën.
 
