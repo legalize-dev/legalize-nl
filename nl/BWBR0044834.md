@@ -4,7 +4,7 @@ identifier: "BWBR0044834"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-20"
-last_updated: "2020-01-01"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044834"
 soort: "zbo"
@@ -74,7 +74,7 @@ Jaarlijks brengt de NZa vóór 1 december volgend op het verslaggevingsjaar van 
 
 Binnen de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zijn verschillende afspraken gemaakt over de financiering van de gevolgen van het SARS-CoV-2 virus. De financiering richt zich op het vergoeden van doorlopende kosten van zorgaanbieders. Ook kan een deel van de zorgaanbieders aanspraak maken op vergoeding van extra kosten. De afspraken verschillen sterk tussen verschillende leveringsvormen (zorg in natura en pgb), en ook tussen verschillende zorgaanbieders. Zo gelden voor leveranciers van hulpmiddelen andere uitgangspunten dan voor mondzorgaanbieders.
 
-De afspraken zijn voor een deel opgenomen in beleidsregels, en deels in brieven. De beleidsregels en brieven zijn opgenomen als onderdeel van het normenkader van de accountant, in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01) van dit protocol.
+De afspraken zijn voor een deel opgenomen in beleidsregels, en deels in brieven. De beleidsregels en brieven zijn opgenomen als onderdeel van het normenkader van de accountant, in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20) van dit protocol.
 
 Voor de controles en die de Wlz-uitvoerders uitvoeren en de wijze waarop zij zich verantwoorden over de kosten die samenhangen met de kosten voor het SARS-CoV-2 virus zijn deze beleidsregels en brieven leidend. De accountant van de Wlz-uitvoerders controleert overeenkomstig het normenkader, waar deze beleidsregels en brieven onderdeel van uitmaken. De accountant betrekt in zijn controle de opzet en het bestaan van de processen die samenhangen met de kosten voor het SARS-CoV-2 virus. De accountant geeft geen inhoudelijk oordeel over de werking van deze processen, behalve wanneer hij dit nodig acht voor zijn controle.
 
@@ -106,7 +106,7 @@ In de hierna opgenomen tabel is de relatie tussen de onderzoeksgebieden, de vera
 
 Bron: NZa
 
-In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=3&z=2021-02-20&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=4&z=2021-02-20&g=2020-01-01) is een opsomming gegeven van minimale en specifieke punten die in de producten opgenomen dienen te worden.
+In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=3&z=2021-02-20&g=2021-02-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=4&z=2021-02-20&g=2021-02-20) is een opsomming gegeven van minimale en specifieke punten die in de producten opgenomen dienen te worden.
 
 ### 2.1.2. Werkzaamheden accountant
 
@@ -196,7 +196,7 @@ Het kan voorkomen dat de gegevens een bandbreedte bevatten. Als dit het geval is
 
 ### 3.2.4. Wet- en- regelgeving
 
-De accountant15In opdracht van of onder verantwoordelijkheid van de Wlz-uitvoerder. hanteert de begripsomschrijvingen uit de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0043284) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01). ‘Lijst met circulaires en wet- en regelgeving Wlz’ en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2020-01-01). ‘Lijst met circulaires en wet- en regelgeving AWBZ’ geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
+De accountant15In opdracht van of onder verantwoordelijkheid van de Wlz-uitvoerder. hanteert de begripsomschrijvingen uit de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0043284) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20). ‘Lijst met circulaires en wet- en regelgeving Wlz’ en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2021-02-20). ‘Lijst met circulaires en wet- en regelgeving AWBZ’ geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
 
 ### 3.2.5. Fouten
 
@@ -300,17 +300,17 @@ In dit hoofdstuk wordt niet verder ingegaan op de te verrichten werkzaamheden in
 
 De hieronder genoemde verdere toelichting heeft betrekking op het onderzoek naar de rechtmatigheid van de in het financieel verslag opgenomen schaden [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), schaden [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), bedrijfsopbrengsten Wlz, bedrijfsopbrengsten AWBZ, beheerskosten Wlz en beheerskosten AWBZ.
 
-De van toepassing zijnde wet- en regelgeving is opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving AWBZ.
+De van toepassing zijnde wet- en regelgeving is opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving AWBZ.
 
 De accountant rapporteert zijn bevindingen in het accountantsverslag en – voor zover relevant bij zijn oordeelsvorming – in de bij het financieel verslag behorende controleverklaring.
 
 ### 4.1. Juiste en volledige afhandeling declaraties Zorg in Natura en pgb16Eventuele problemen in de uitvoering van het pgb door de SVB kunnen gevolgen hebben voor de uitvoering van de accountantscontrole. De NZa zal hierover nader in overleg treden met de Wlz-uitvoerders en hun accountants.
 
-De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving AWBZ.
+De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving AWBZ.
 
 De accountant stelt vast of de Wlz-uitvoerder hiertoe beschikt over een cliëntvolgende administratie, waarin een verband kan worden gelegd tussen de geldige indicatiebesluiten van de Wlz-verzekerden, de in opdracht van Wlz-uitvoerders geleverde zorg en de betalingen aan zorgaanbieders die deze zorg geleverd hebben.
 
-De accountant onderzoekt of de Wlz-uitvoerder formele en materiële controles uitvoert met inachtneming van de geldende wet- en regelgeving ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving AWBZ).
+De accountant onderzoekt of de Wlz-uitvoerder formele en materiële controles uitvoert met inachtneming van de geldende wet- en regelgeving ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving AWBZ).
 
 De normenkaders op het gebied van formele controle, materiële controles en fraudeonderzoek door de Wlz-uitvoerder zijn opgenomen in de [Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909). Deze regeling stelt voorwaarden en voorschriften voor de uitvoering van administratie en controle door Wlz-uitvoerders, om de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) te bevorderen.
 
@@ -372,7 +372,7 @@ De Wlz-uitvoerder moet een redelijk rendement toerekenen over de wettelijke rese
 
 Relevant bij buitenlandzorg zijn:
 
-De accountant stelt vast dat de Wlz-uitvoerder bij de vergoeding van kosten bij wonen en tijdelijk verblijf in het buitenland de geldende wet- en regelgeving in acht heeft genomen ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2020-01-01): Lijst met circulaires en wet- en regelgeving AWBZ).
+De accountant stelt vast dat de Wlz-uitvoerder bij de vergoeding van kosten bij wonen en tijdelijk verblijf in het buitenland de geldende wet- en regelgeving in acht heeft genomen ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=1&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving Wlz en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=2&z=2021-02-20&g=2021-02-20): Lijst met circulaires en wet- en regelgeving AWBZ).
 
 ### 5. Onderzoek van de prestatie-indicatoren
 
@@ -388,7 +388,7 @@ Van de accountant wordt uitdrukkelijk geen inhoudelijk oordeel verwacht ten aanz
 
 ### 6.1. Controleverklaring
 
-De accountant geeft een controleverklaring af bij het financieel verslag. In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=3&z=2021-02-20&g=2020-01-01): Specifieke punten controleverklaring, is een opsomming gegeven van minimale en specifieke punten die in de controleverklaring opgenomen dienen te worden. De strekking van het oordeel kan behalve goedkeurend ook met beperking, metoordeelonthouding of afkeurend zijn.
+De accountant geeft een controleverklaring af bij het financieel verslag. In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=3&z=2021-02-20&g=2021-02-20): Specifieke punten controleverklaring, is een opsomming gegeven van minimale en specifieke punten die in de controleverklaring opgenomen dienen te worden. De strekking van het oordeel kan behalve goedkeurend ook met beperking, metoordeelonthouding of afkeurend zijn.
 
 ### 6.2. Accountantsverslag
 
@@ -404,7 +404,7 @@ In het rapport van feitelijke bevindingen geeft de accountant zijn onderzoeksbev
 
 De bevindingen uit het onderzoek naar de naleving van de criteria ter bepaling van de resultaatgerichte prestatie-indicatoren.
 
-In [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=4&z=2021-02-20&g=2020-01-01): Specifieke punten rapport van feitelijke bevindingen, is een opsomming gegeven van minimale en specifieke punten die in het rapport van feitelijke bevindingen opgenomen dienen te worden.
+In [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044834&bijlage=4&z=2021-02-20&g=2021-02-20): Specifieke punten rapport van feitelijke bevindingen, is een opsomming gegeven van minimale en specifieke punten die in het rapport van feitelijke bevindingen opgenomen dienen te worden.
 
 ## Bijlage 1. Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
