@@ -4,7 +4,7 @@ identifier: "BWBR0044844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-02-24"
-last_updated: "2021-01-01"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044844"
 soort: "ministeriele-regeling"
@@ -42,7 +42,9 @@ Wijzigt de Regeling subsidie zij-instroom.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044844&artikel=I&z=2021-02-24&g=2021-02-24), werkt daarbij terug tot en met 1 januari 2020, met dien verstande dat de terugwerkende kracht, voor zover zij een beperking inhoudt van hetgeen onder zij-instromer wordt verstaan, geen betrekking heeft op aanvragen die voor de inwerkingtreding van deze regeling zijn ingediend.
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
