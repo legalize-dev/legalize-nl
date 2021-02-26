@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2020-02-15"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -52,15 +52,19 @@ In deze regeling wordt verstaan onder:
 
 **leraar**: degene die voldoet aan bevoegdheidseisen gesteld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel 3 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3);
 
+**leraarondersteuner:** iemand die als leraarondersteuner werkzaam is op een school, instelling of samenwerkingsverband welke valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+
 **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-**onderwijsassistent**: iemand die als onderwijsassistent werkzaam is op een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+**onderwijsassistent:** iemand die als onderwijsassistent werkzaam is op een school, instelling of samenwerkingsverband welke valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
 **opleiding tot leraar:** op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
+**samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26) voor zover deze rechtspersoonlijkheid heeft of expertisecentrum onderwijszorg als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+
 **studiekosten:** de kosten van college-, examen- en diplomagelden;
 
-**studieverlof:** verlof ten behoeve van het bijwonen van lessen van de opleiding tot leraar en verlof ten behoeve van de uren die de onderwijsassistent besteedt voor de opleiding tot leraar.
+**studieverlof:** verlof ten behoeve van het bijwonen van lessen van de opleiding tot leraar en verlof ten behoeve van de uren die de onderwijsassistent of leraarondersteuner besteedt voor de opleiding tot leraar.
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -70,17 +74,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag in dienst zijnde onderwijsassistent die in 2019 of 2020 met die opleiding is gestart.
+1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021 of 2022 met die opleiding is gestart.
 
-2. Het bevoegd gezag en de onderwijsassistent sluiten een overeenkomst, waarin ten minste is opgenomen:
+2. Het bevoegd gezag of samenwerkingsverband en de onderwijsassistent of leraarondersteuner sluiten een overeenkomst, waarin ten minste is opgenomen:
 
-- a. dat de onderwijsassistent ten minste 20% van het aantal uren van de betrekkingsomvang per week aan studieverlof ontvangt;
+- a. dat de onderwijsassistent of leraarondersteuner ten minste 20% van het aantal uren van de betrekkingsomvang per week aan studieverlof ontvangt;
 
 - b. door wie de overige kosten naast de studiekosten worden gedragen;
 
-- c. wie welke de kosten draagt indien de onderwijsassistent langer dan vier jaar over de opleiding tot leraar doet;
+- c. wie welke de kosten draagt indien de onderwijsassistent of leraarondersteuner langer dan vier jaar over de opleiding tot leraar doet;
 
-- d. dat de onderwijsassistent niet op andere wijze een studievergoeding krijgt vanuit het Rijk; en
+- d. dat de onderwijsassistent of leraarondersteuner niet op andere wijze een studievergoeding krijgt vanuit het Rijk; en
 
 - e. welke afspraken zijn gemaakt voor het geval dat geen subsidie wordt toegekend.
 
@@ -88,49 +92,59 @@ In deze regeling wordt verstaan onder:
 
 1. Voor subsidieverstrekking op grond van deze regeling is een bedrag beschikbaar van ten hoogste:
 
-- a. € 1.000.000 voor het kalenderjaar 2019; en
+- a. € 1.000.000 voor het kalenderjaar 2019;
 
-- b. in totaal € 11.000.000 voor de kalenderjaren 2020 tot en met 2023.
+- b. in totaal € 11.000.000 voor de kalenderjaren 2020;
 
-2. De subsidie bedraagt € 5.000 per onderwijsassistent per jaar gedurende maximaal vier jaren.
+- c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2022.
+
+2. De subsidie bedraagt € 5.000 per onderwijsassistent of leraarondersteuner per jaar gedurende maximaal vier jaren.
+
+3. In het geval het voor subsidieverstrekking in 2021 beschikbare bedrag in 2021 niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het subsidieplafond voor 2022.
+
+4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba wordt het in het tweede lid bedoelde subsidiebedrag omgerekend in dollars tegen de vastgestelde wisselkoers.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.
 
-2. De minister verstrekt per bevoegd gezag voor maximaal drie onderwijsassistenten subsidie.
+2. De minister verstrekt per bevoegd gezag of samenwerkingsverband voor maximaal drie onderwijsassistenten of leraarondersteuners subsidie.
 
-3. Indien het voor subsidieverstrekking beschikbare bedrag in het betreffende kalenderjaar na toepassing van het eerste en tweede lid niet wordt uitgeput, worden de resterende middelen in afwijking van het tweede lid verdeeld over de aanvragen die betrekking hebben op een vierde onderwijsassistent per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+3. Indien het voor subsidieverstrekking beschikbare bedrag in het betreffende kalenderjaar na toepassing van het eerste en tweede lid niet wordt uitgeput, worden de resterende middelen in afwijking van het tweede lid verdeeld over een vierde aanvraag per bevoegd gezag of samenwerkingsverband. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
 
-4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober 2019 niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent per bevoegd gezag.
+4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende jaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner per bevoegd gezag of samenwerkingsverband.
 
-5. Indien het in 2020 voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent per bevoegd gezag.
+5. Vervallen.
 
-6. Indien een aanvraag voor subsidieverstrekking in het jaar 2019 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2020 en behandeld als ware zij op 16 oktober 2019 ingediend.
+6. Indien een aanvraag voor subsidieverstrekking in het jaar 2021 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2022 en behandeld als ware zij op 16 oktober 2021 ingediend.
 
 ##### Artikel 6. Verplichtingen subsidie
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
-- a. het bevoegd gezag informeert jaarlijks DUS-I of de onderwijsassistent de opleiding nog volgt en in welk studiejaar de onderwijsassistent zit;
+- a. het bevoegd gezag of samenwerkingsverband informeert jaarlijks DUS-I of de onderwijsassistent of leraarondersteuner de opleiding nog volgt en in welk studiejaar de onderwijsassistent of leraarondersteuner zit;
 
-- b. het bevoegd gezag informeert DUS-I wanneer de onderwijsassistent het diploma heeft behaald;
+- b. het bevoegd gezag of samenwerkingsverband informeert DUS-I wanneer de onderwijsassistent of leraarondersteuner het diploma heeft behaald;
 
-- c. het bevoegd gezag werkt mee aan evaluatie of monitoring van deze subsidie.
+- c. het bevoegd gezag of samenwerkingsverband werkt mee aan evaluatie of monitoring van deze subsidie.
 
-- d. indien de onderwijsassistent tussentijds stopt met de opleiding tot leraar meldt het bevoegd dit aan DUS-I. De subsidie kan dan lager worden vastgesteld en het teveel ontvangen bedrag zal worden teruggevorderd.
+- d. indien de onderwijsassistent of leraarondersteuner tussentijds stopt met de opleiding tot leraar meldt het bevoegd dit aan DUS-I. De subsidie kan dan lager worden vastgesteld en het teveel ontvangen bedrag zal worden teruggevorderd.
 
 ##### Artikel 7. Aanvraag subsidie
 
-1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
+1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2020-02-15&g=2020-02-15):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2021-02-26&g=2021-02-26):
 
-- a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019; en
+- a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019;
 
-- b. van 16 oktober 2019 tot en met 15 oktober 2020, voor subsidieverstrekking in het jaar 2020.
+- b. van 16 oktober 2019 tot en met 15 oktober 2020, voor subsidieverstrekking in het jaar 2020;
 
-3. Per onderwijsassistent kan eenmaal op grond van deze regeling subsidie worden verstrekt.
+- c. tot en met 15 oktober 2021, voor subsidieverstrekking in het jaar 2021; en
+
+- d. van 16 oktober 2021 tot en met 15 oktober 2022, voor subsidieverstrekking in het jaar 2022.
+
+3. Per onderwijsassistent of leraarondersteuner kan eenmaal per opleiding op grond van deze regeling subsidie worden verstrekt.
 
 ##### Artikel 8. Vaststelling en besteding subsidie
 
@@ -140,19 +154,23 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 3. In afwijking van het tweede lid wordt de subsidie, indien de aanvraag is ingediend:
 
-- a. in de periode van 16 oktober 2019 tot en met 31 december 2019, uiterlijk vóór 1 maart 2020 direct vastgesteld; en
+- a. in de periode van 16 oktober 2019 tot en met 31 december 2019, uiterlijk vóór 1 maart 2020 direct vastgesteld;
 
-- b. in de periode van 1 augustus 2020 tot en met 15 oktober 2020, uiterlijk vóór 11 december 2020 direct vastgesteld.
+- b. in de periode van 1 augustus 2020 tot en met 15 oktober 2020, uiterlijk vóór 11 december 2020 direct vastgesteld;
+
+- c. in de periode van 16 oktober 2021 tot en met 31 december 2021, uiterlijk vóór 1 maart 2022 direct vastgesteld; en
+
+- d. in de periode van 1 augustus 2022 tot en met 15 oktober 2022, uiterlijk vóór 11 december 2022 direct vastgesteld.
 
 ##### Artikel 9. Betaling
 
 1. De minister betaalt het gehele subsidiebedrag ineens.
 
-2. In afwijking van het eerste lid en [artikel 6.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), betaalt de minister een subsidie die in 2020 is verstrekt uit in gelijke delen van €5.000,– per onderwijsassistent per kalenderjaar totdat het vastgestelde subsidiebedrag is bereikt.
+2. In afwijking van het eerste lid en [artikel 6.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), betaalt de minister een subsidie die in 2020, 2021 of 2022 is verstrekt uit in gelijke delen van €5.000,– per onderwijsassistent of leraarondersteuner per kalenderjaar totdat het vastgestelde subsidiebedrag is bereikt.
 
-##### Artikel 10. Overgang bevoegd gezag
+##### Artikel 10. Overgang bevoegd gezag of samenwerkingsverband
 
-Indien de onderwijsassistent het dienstverband met de subsidieontvanger beëindigt en de opleiding tot leraar voortzet in dienst bij een ander bevoegd gezag, kan de subsidieontvanger de subsidie aanwenden om de onderwijsassistent de opleiding tot leraar te laten voortzetten bij dat andere bevoegd gezag.
+Indien de onderwijsassistent of leraarondersteuner het dienstverband met de subsidieontvanger beëindigt en de opleiding tot leraar voortzet in dienst bij een ander bevoegd gezag of samenwerkingsverband, kan de subsidieontvanger de subsidie aanwenden om de onderwijsassistent of leraarondersteuner de opleiding tot leraar te laten voortzetten bij dat andere bevoegd gezag of samenwerkingsverband.
 
 ##### Artikel 11. Verantwoording
 
