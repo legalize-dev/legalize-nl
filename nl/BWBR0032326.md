@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2020-12-09"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -96,7 +96,7 @@ Tevens is in de bijlage aangegeven voor welke overtredingen een boete aan een we
 
 Een al dan niet op bedrijfsgrootte gecorrigeerd normbedrag is het uitgangsbedrag voor eventuele verdere boeteberekening.
 
-Bij overtredingen begaan door anderen dan de werkgever, te weten: de opdrachtgever, de ontwerpende partij en de uitvoerende partij bedoeld in [artikel 1.1, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.1), wordt niet gecorrigeerd naar het aantal werknemers. In dat geval zijn de in de bijlage genoemde normbedragen uitgangspunt voor de berekening van de op te leggen bestuurlijke boete.
+Bij overtredingen begaan door anderen dan de werkgever, te weten: de opdrachtgever, de ontwerpende partij en de uitvoerende partij bedoeld in [artikel 1.1, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.1), wordt niet gecorrigeerd naar het aantal werknemers. Bij overtredingen begaan door werknemers, zelfstandigen en meewerkende werkgevers geldt als uitgangspunt voor de berekening van de op te leggen bestuurlijke boete een normbedrag dat is gecorrigeerd voor bedrijven of instellingen met minder dan 5 werknemers.
 
 Bij overtredingen begaan door bedrijfsartsen en deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), worden de in de bijlage, Tarieflijst, onderdeel Arbowet, bij artikel 14, tweede en derde lid, genoemde normbedragen gehanteerd voor de berekening van de op te leggen bestuurlijke boete.
 
@@ -174,429 +174,429 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging arbeidsomsta
 
 ### Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-Leeswijzer:
+**Leeswijzer:**
 
-In de hieronder staande tabel wordt per beboetbaar artikel van de Arboregelgeving aangegeven welke categorie boetenormbedrag van toepassing is en of op grond van dit artikel tevens een werknemersboete kan worden opgelegd dan wel een boete aan de bedrijfsarts of de bedrijfsarts of de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), wordt opgelegd. In de laatste kolom staat ZO voor zware overtreding, ODB voor een overtreding waarvoor direct een boete volgt en OO voor een overige overtreding (OO). Een actuele versie van de regelgeving is te vinden op www.overheid.nl
+In deze bijlage is in tabelvorm opgenomen voor welk artikel, artikellid of onderdeel een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt uit de Arbeidsomstandighedenwetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
 
-0a De ODB luidt: het niet hebben van een schriftelijke risico-inventarisatie- en evaluatie.
+1 De ODB luidt: het niet hebben van een schriftelijke risico inventarisatie- en evaluatie.
 
-0b De ODB luidt: het niet hebben van een plan van aanpak als onderdeel van de schriftelijke risico-inventarisatie- en evaluatie.
+2 De ODB luidt: het niet hebben van een plan van aanpak als onderdeel van de schriftelijke risico inventarisatie- en evaluatie.
 
-1 De ODB luidt: het onvoldoende toezien op de naleving van instructies en voorschriften bij werkzaamheden waaraan risico’s voor werknemers zijn verbonden.
+3 De ODB luidt: het onvoldoende toezien op de naleving van instructies en voorschriften bij werkzaamheden waaraan risico’s voor werknemers (vrijwilligers) zijn verbonden.
 
-2 Bij het niet onverwijld melden van een arbeidsongeval kunnen zich drie situaties voordoen, die, tot een verschillend boetenormbedrag kunnen leiden, deze betreffen:
+4 Bij het niet onverwijld melden van een arbeidsongeval kunnen zich drie situaties voordoen, die, tot een verschillend boetenormbedrag kunnen leiden, deze betreffen:
 
-1. te laat gemeld en niet meer te onderzoeken (50.000 euro);
+5 De ODB luidt: het niet (direct) melden van een dodelijk arbeidsongeval of een arbeidsongeval dat leidt tot een blijvend letsel of een ziekenhuisopname.
 
-2. te laat gemeld door een ander dan de werkgever en nog wel te onderzoeken (categorie 5);
+6 De ZO luiden:
 
-3. te laat gemeld door de werkgever en nog wel te onderzoeken (categorie 3).
+7 De ZO luidt: het niet of onjuist gebruiken van ter beschikking gestelde noodzakelijke beveiligingen of persoonlijke beschermingsmiddelen door een werknemer (vrijwilliger), waardoor ernstig gevaar bestaat voor de werknemer (vrijwilliger) zelf of voor andere personen dan de werknemer (vrijwilliger).
 
-3 De ODB luidt: het niet (direct) melden van een dodelijk arbeidsongeval of een arbeidsongeval dat leidt tot een blijvend letsel of een ziekenhuisopname.
+8 De ODB luidt: het ontbreken van een schriftelijk vastgelegde overeenkomst tussen de werkgever en de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, lid 1, Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
 
-4 De ZO luidt: het niet nemen van doeltreffende maatregelen indien bij of in rechtstreeks verband met de arbeid die de werkgever door zijn werknemers doet verrichten in een bedrijf of een inrichting of in de onmiddellijke omgeving daarvan gevaar kan ontstaan voor de veiligheid of de gezondheid van andere personen dan die werknemers.
+9 De ODB luidt: indien de overeenkomst geen omschrijving bevat van de wijze waarop uitvoering wordt gegeven aan de advisering bij de begeleiding van zieke werknemers.
 
-5 De ZO luidt: Het niet of onjuist gebruiken van ter beschikking gestelde noodzakelijke beveiligingen of persoonlijke beschermingsmiddelen door een werknemer, waardoor ernstig gevaar bestaat voor de werknemer zelf of voor andere personen dan de werknemer.
+10 De ODB luidt: het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
-5a De ODB luidt:
+11 De ODB luidt: het ontbreken van adequaat deskundig toezicht op jeugdige werknemers (vrijwilligers).
 
-Het ontbreken van een schriftelijk vastgelegde overeenkomst tussen de werkgever en de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
+12 De ODB luidt: het ontbreken van adequaat deskundig toezicht op jeugdige werknemers (vrijwilligers) om specifieke gevaren voor jeugdige werknemers (vrijwilligers) te voorkomen.
 
-5b De ODB luidt:
+13 De ZO luidt: het verrichten van plaatsonafhankelijke arbeid met gevaarlijke stoffen die niet zijn toegestaan.
 
-Indien de overeenkomst geen omschrijving bevat van de wijze waarop uitvoering wordt gegeven aan de advisering bij de begeleiding van zieke werknemers.
+14 De ZO luidt: het blootstellen van werknemers die plaatsonafhankelijke arbeid verrichten, aan concentraties van stoffen in de individuele ademhalingszone van een werknemer aan meer dan tweemaal de (wettelijke of door de werkgever vastgestelde) grenswaarde of aan meer dan de ceilingwaarde.
 
-5c De ODB luidt: Het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
+15 De ZO luidt: het door werknemers die plaatsonafhankelijke arbeid verrichten, laten werken met stoffen als bedoeld in [artikel 1.46, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.46), waarbij direct contact met de huid mogelijk is en die kunnen leiden tot ernstige schade aan de gezondheid.
 
-6 De ODB luidt: Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers.
+16 De ZO luidt: het door werknemers die plaatsonafhankelijke arbeid verrichten, laten werken met stoffen als bedoeld in [artikel 1.46, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.46), waarbij direct contact met de ogen mogelijk is en die kunnen leiden tot ernstige schade aan de gezondheid.
 
-7 De ODB luidt: Het ontbreken van adequaat deskundig toezicht op jeugdige werknemers om specifieke gevaren voor jeugdige werknemers te voorkomen.
+17 De ZO luidt: onvoldoende of onjuiste maatregelen of voorzieningen treffen bij plaatsonafhankelijke arbeid met gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen.
 
-8De ZO luidt: Het verrichten van plaatsonafhankelijke arbeid met gevaarlijke stoffen die niet zijn toegestaan
+18 De ZO luidt: het bij plaatsonafhankelijke arbeid ontbreken of het onjuist toepassen van voorgeschreven beveiligingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen aan arbeidsmiddelen.
 
-9 De ZO luidt: Het blootstellen van werknemers die plaatsonafhankelijke arbeid verrichten, aan concentraties van stoffen in de individuele ademhalingszone van een werknemer aan meer dan twee maal de (wettelijke of door de werkgever vastgestelde) grenswaarde of aan meer dan de ceilingwaarde.
+19 De ODB luidt: het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Inspectie SZW over de voorgenomen totstandkoming van het bouwwerk.
 
-10 De ZO luidt: Het door werknemers die plaatsonafhankelijke arbeid verrichten, laten werken met stoffen als bedoeld in [artikel 1.46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.46), waarbij direct contact met de huid mogelijk is en die kunnen leiden tot ernstige schade aan de gezondheid.
+20 De ODB luidt: het ontbreken van een veiligheid- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498).
 
-10a De ZO luidt: Het door werknemers die plaatsonafhankelijke arbeid verrichten, laten werken met stoffen als bedoeld in [artikel 1.46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.46), waarbij direct contact met de ogen mogelijk is en die kunnen leiden tot ernstige schade aan de gezondheid.
+21 De ODB luidt: de opdrachtgever stelt niet één of meer coördinatoren voor de ontwerpfase aan dan wel de uitvoerende partij stelt niet één of meer coördinatoren voor de uitvoeringsfase aan indien in de uitvoeringsfase werkzaamheden worden verricht door twee of meer werkgevers, één werkgever en één of meer zelfstandigen of twee of meer zelfstandigen.
 
-11 De ZO luidt: Onvoldoende of onjuiste maatregelen of voorzieningen treffen bij plaatsonafhankelijke arbeid met gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen.
+22 De ZO luidt: de opdrachtgever heeft niet zodanige maatregelen genomen dat de coördinator de taken, bedoeld in [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.30), naar behoren uitoefent, terwijl daardoor ernstig gevaar voor personen bestaat ([artikel 2.32, lid 1, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.32)).
 
-12 De ZO luidt: Het bij plaatsonafhankelijke arbeid ontbreken of het onjuist toepassen van voorgeschreven beveiligingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen aan arbeidsmiddelen.
+23 De ZO luidt: de uitvoerende partij heeft niet zodanige maatregelen genomen dat de coördinator de taken, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.31), naar behoren uitoefent, terwijl daardoor ernstig gevaar voor personen bestaat ([artikel 2.33, lid 1 onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.33)).
 
-13 De OBD luidt: Het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Inspectie SZW over de voorgenomen totstandkoming van het bouwwerk.
+24 De ODB luidt: het ontbreken van een veiligheids- en gezondheidsdocument ten aanzien van werkzaamheden verricht in de winningsindustrie in dagbouw, ondergronds of met behulp van boringen.
 
-14 De OBD luidt: het ontbreken van een veiligheid- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het Arbobesluit.
+25 De ZO luidt: het niet aanwezig hebben van een Veiligheids- en zorgsysteem als bedoeld in [artikel 2.42e Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42e).
 
-15 De ODB luidt: Het ontbreken van een veiligheids- en gezondheidsdocument ten aanzien van werkzaamheden verricht in de winningsindustrie in dagbouw, ondergronds of met behulp van boringen.
+26 De ZO luidt: het ontbreken van samenwerking bij het opstellen van een adequaat Veiligheids- en Gezondheidsdocument conform [artikel 2.42f, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f).
 
-16 De ZO luidt: het niet aanwezig hebben van een Veiligheids- en zorgsysteem als bedoeld in [artikel 2.42e Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42).
+27 De ODB luidt: het ontbreken van trainingen voor het uitvoeren van noodhandelingen bij winningsindustrieën met behulp van boringen.
 
-17 De ZO luidt: het ontbreken van samenwerking bij het opstellen van een adequaat Veiligheids- en Gezondheidsdocument conform [artikel 2.42f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f).
+28 De ZO luidt: het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden.
 
-18 De ODB luidt: Het ontbreken van trainingen voor het uitvoeren van noodhandelingen bij winningsindustrieën met behulp van boringen.
+29 De ZO luidt: het in ernstige mate niet treffen van maatregelen of voorzieningen op de arbeidsplaats ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2.
 
-19 De ZO luidt: Het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden.
+30 De ODB luidt: het niet nemen van hygiënische voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
 
-19a De ZO luidt: Het in ernstige mate niet treffen van maatregelen of voorzieningen op de arbeidsplaats ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2.
+31 De ODB luidt: het niet geven van voorlichting of onderricht aan werknemers over de bestrijding van SARS-CoV-2 op de arbeidsplaats.
 
-19b De ODB luidt: Het niet nemen van hygiënische voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
+32 De ODB luidt: het niet houden van toezicht op de naleving van de noodzakelijke maatregelen of voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
 
-19c De ODB luidt: Het niet geven van voorlichting of onderricht aan werknemers over de bestrijding van SARS-CoV-2 op de arbeidsplaats.
+33De ZO luiden:
 
-19d De ODB luidt: Het niet houden van toezicht op de naleving van de noodzakelijke maatregelen of voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
+34 De ZO luidt: het aanwezig zijn van niet afgeschermde, direct aanraakbare spanningvoerende delen met een spanning hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning.
 
-20 De ZO luiden: Het werken in gebouwen, waarvan wanden, vloeren, plafonds of installaties in zodanige staat verkeren, dat ernstig gevaar bestaat voor instorten, verschuiven, omvallen of kantelen. ([artikel 3.3, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.3))
+35 De ZO luiden:
 
-Het werken op plaatsen, waar ernstig gevaar bestaat voor instorten, verschuiven, omvallen of kantelen van opgeslagen voorwerpen en stoffen. ([artikel 3.3, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.3))
+36 De ZO luiden:
 
-21 De ZO luidt: Het aanwezig zijn van niet afgeschermde, direct aanraakbare spanningvoerende delen met een spanning hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning.
+37 De ZO luiden:
 
-22 De ZO luiden: Het verrichten van werkzaamheden aan of in de nabijheid van onder spanning staande elektrische installaties, toestellen of leidingen met een spanning van hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning zonder het treffen van de nodige veiligheidsmaatregelen (lid 3 en lid 4), en
+38 De ODB luidt: het niet beschikbaar en gebruiksklaar houden van vluchtmiddelen zodat werknemers de gevaarlijke gebieden snel en veilig kunnen verlaten.
 
-Het verrichten van werkzaamheden aan of in de nabijheid van onder hoogspanning staande elektrische installaties, toestellen of leidingen zonder het treffen van de nodige veiligheidsmaatregelen (lid 7).
+39 De ZO luiden:
 
-23 De ZO luiden: Het ontbreken van doeltreffende maatregelen om het ontstaan van een explosieve atmosfeer op de arbeidsplaats te voorkomen. ([artikel 3.5d, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5d))
+40 De ODB luidt: het verrichten van onderzoek naar de veiligheid aan, op of in tankschepen door een persoon die niet beschikt over het certificaat van vakbekwaamheid gasdeskundige.
 
-Het niet nemen van de volgende maatregelen in de hieronder aangegeven volgorde, indien het voorkomen van het ontstaan van een explosieve atmosfeer, gezien de aard van het werk, niet mogelijk is:
+41 De ZO luidt: het schoonmaken, onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen, zonder veiligheids- en gezondheidsverklaring van een gasdeskundige.
 
-a. de ontsteking van explosieve atmosferen wordt voorkomen, waarbij rekening wordt gehouden met elektrostatische ontladingen die van werknemers of de arbeidsplaats als ladingsdrager of ladingsproducent kunnen uitgaan;
+42 De ZO luidt: het werken op arbeidsplaatsen waar een doeltreffende vluchtweg ontbreekt en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
 
-b. de schadelijke gevolgen van een explosie worden beperkt. ([artikel 3.5d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5d))
+43 De ZO voor lid 1 luidt: het werken op arbeidsplaatsen waar een doeltreffende vluchtweg is geblokkeerd en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
 
-24 De ZO luiden: Het ontbreken van de volgende maatregelen in de gevarenzones, bedoeld in [artikel 3.5d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5d), en met betrekking tot de installaties in gebieden zonder explosiegevaar die vereist zijn voor, of bijdragen tot het explosieveilig gebruik van installaties die zich op plaatsen bevinden waar explosiegevaar heerst:
+De ZO voor lid 2 luidt: het werken op arbeidsplaatsen waarbij een nooduitgang niet kan worden geopend en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
 
-a. vrijkomende gassen, dampen, nevels of brandbaar stof die explosiegevaar kunnen doen ontstaan, worden op passende wijze afgevoerd en onschadelijk gemaakt;
+44 De ZO luidt: het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen vallen (lid 1).
 
-b. indien een explosieve atmosfeer meerdere soorten brandbare stoffen bevat, wordt bij de veiligheidsmaatregelen uitgegaan van het grootste mogelijke risico. ([artikel 3.5e, onder a. en b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5e))
+N.B. Indien het valgevaar gepaard gaat met risico verhogende omstandigheden, zoals het gevaar te vallen op of langs uitstekende delen, de aanwezigheid van verkeer, het vallen in water e.d., dan kan er, afhankelijk van de toename van het risico, ook bij geringere werkhoogte sprake zijn van een ZO.
 
-Het in de gevarenzones niet gebruiken en toepassen van apparaten en beveiligingssystemen overeenkomstig de categorieën als bedoeld in het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0037644) volgens de navolgende principes:
+45 De ZO luidt: werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen de gevolgen van vallen (lid 5).
 
-1°. gevarenzone 0 of 20: categorie 1-apparatuur;
+46 De ZO luidt: het zodanig ingericht zijn van een arbeidsplaats dat daardoor ernstig gevaar bestaat getroffen of geraakt te worden door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan.
 
-2°. gevarenzone 1 of 21: categorie 1- of categorie 2-apparatuur;
+47 De ZO luidt: het toepassen van een laadplatform dat niet is afgestemd op de te vervoeren lading.
 
-3°. gevarenzone 2 of 22: categorie 1-, categorie 2- of categorie 3-apparatuur. ([artikel 3.5e, onder e, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5e))
+48 De ZO luidt: het werken op hoogten van meer dan 2.50 meter op instabiele en onvoldoende stevige werkplekken op bouwplaatsen.
 
-25 De DBO luidt: Het niet beschikbaar en gebruiksklaar houden van vluchtmiddelen zodat werknemers de gevaarlijke gebieden snel en veilig kunnen verlaten.
+49 De ZO luiden:
 
-26 De ZO luiden: Het niet verrichten van onderzoek naar gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie op een plaats of in een ruimte waar een werknemer zich bevindt, indien kan worden vermoed dat de atmosfeer op die plaats of in die ruimte in zodanige mate stoffen bevat dat daardoor gevaar bestaat voor verstikking, bedwelming, vergiftiging, brand of explosie (lid 1).
+50 De ZO luiden:
 
-Het niet nemen van doeltreffende maatregelen indien uit onderzoek blijkt dat er sprake is van gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie op een plaats of in een ruimte waar een werknemer zich bevindt (lid 2).
+51 De ZO luidt: 0nvoldoende draagkrachtige bekistingen, tijdelijke stutten of schoren op een bouwwerkplek, waardoor werknemers (zelfstandigen) ernstig gevaar lopen (loopt) bekneld te raken of bedolven te worden.
 
-27 De DBO luidt: Het verrichten van onderzoek naar de veiligheid aan, op of in tankschepen door een persoon die niet beschikt over het certificaat van vakbekwaamheid gasdeskundige.
+52 De ZO luidt: het ontbreken van twee afzonderlijke uitgangen in verbinding met de oppervlakte bij een ondergrondse ontginning.
 
-28 De ZO luidt: Het schoonmaken, onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen, zonder veiligheids- en gezondheidsverklaring van een gasdeskundige.
+53 De ZO luidt: het niet zo spoedig mogelijk na het delven ondersteuningen aanbrengen, terwijl dit vanwege de instabiliteit van het terrein noodzakelijk is voor de veiligheid van de werknemers.
 
-29 De ZO luidt: Het werken op arbeidsplaatsen waar een doeltreffende vluchtweg ontbreekt en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
+54 De ODB luidt: het ontbreken van voldoende geschikte reddingsmiddelen op een mijnbouwinstallatie.
 
-30 De ZO voor lid 1 luidt: Het werken op arbeidsplaatsen waar een doeltreffende vluchtweg is geblokkeerd en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
+55 De ZO luiden:
 
-De ZO voor lid 2 luidt: Het werken op arbeidsplaatsen waarbij een nooduitgang niet kan worden geopend en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
+56 De ODB luiden:
 
-31 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen vallen (lid 1).
+57 Lid 2 wordt beboet via lid 1.
 
-N.B. Indien het valgevaar gepaard gaat met risicoverhogende omstandigheden, zoals het gevaar te vallen op of langs uitstekende delen, de aanwezigheid van verkeer, het vallen in water e.d., dan kan er, afhankelijk van de toename van het risico, ook bij geringere werkhoogte sprake zijn van een ZO.
+58 De ZO luidt: het werken met stoffen, waarbij direct contact met de huid mogelijk is, die voldoen aan de criteria genoemd in [artikel 4.1c, onderdeel f, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1c), en die kunnen leiden tot ernstige schade aan de gezondheid.
 
-31a De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen de gevolgen van vallen (lid 5).
+59 De ZO luidt: Het werken met stoffen, waarbij direct contact met de ogen mogelijk is, die voldoen aan de criteria genoemd in [artikel 4.1c, onderdeel g, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1c), en die kunnen leiden tot ernstige schade aan de gezondheid.
 
-32 De ZO luidt: Het zodanig ingericht zijn van een arbeidsplaats dat daardoor ernstig gevaar bestaat getroffen of geraakt te worden door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te raken tussen voorwerpen, producten of onderdelen daarvan.
+60 De ZO luidt: het blootstellen van werknemers (zelfstandigen; vrijwilligers) aan concentraties van stoffen in de inademingslucht van een persoon van meer dan de (wettelijke of door de werkgever vastgestelde) grenswaarde of van meer dan de ceilingswaarde.
 
-33 De ZO luidt: Het toepassen van een laadplatform dat niet is afgestemd op de te vervoeren lading.
+61 De ZO luidt: het opnieuw in circulatie brengen van lucht die een gevaarlijke stof bevat naar een arbeidsplaats waar de betreffende stof niet aanwezig is (lid 2).
 
-34 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter op instabiele en onvoldoende stevige werkplekken op bouwplaatsen.
+62 De ZO luiden:
 
-35 De ZO luiden: Het werken op een bouwplaats indien bovengrondse elektriciteitsleidingen niet omgeleid zijn of spanningsloos zijn gemaakt of, indien dit niet mogelijk is, hekken of waarschuwingsborden ontbreken. ([artikel 3.29, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.29)).
+63 De ZO luidt: na een onvoorziene toename van het blootstellingniveau aan kankerverwekkende of mutagene stoffen, er niet voor gezorgd hebben dat werknemers (zelfstandigen; vrijwilligers) uit de gevarenzone zijn (is) verwijderd.
 
-Het werken op bouwplaatsen waarbij ernstig gevaar bestaat voor personen als gevolg van beschadiging van ondergrondse elektriciteitsleidingen en -kabels. ([artikel 3.29, lid 5, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.29)).
+64 De ODB luiden:
 
-36 De ZO luiden: Het werken in bouwputten, tunnels, bij uitgravingen of andere ondergrondse werkzaamheden waarbij onvoldoende stut- of taludvoorzieningen zijn getroffen tegen instortings- of overstromingsgevaar. ([artikel 3.30, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.30)).
+65 De ODB luidt: het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
-Het bij grondverzetwerkzaamheden niet op veilige afstand houden van de uitgegraven aarde, gebruikte materialen en voertuigen, waardoor werknemers ernstig gevaar lopen bedolven te worden. ([artikel 3.30, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.30)).
+66 De ZO luidt: het niet werken volgens een vooraf opgesteld werkplan, als bedoeld in [Bijlage VB van de Arbeidsomstandighedenregeling,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VB) m.b.t. opbouw, installeren, monteren, assembleren, dan wel verwijderen na ontbranding, van professioneel vuurwerk.
 
-37 De ZO luidt: Onvoldoende draagkrachtige bekistingen, tijdelijke stutten of schoren op een bouwwerkplek, waardoor werknemers ernstig gevaar lopen bekneld te raken of bedolven te worden.
+67 De ODB luiden:
 
-38 De ZO luidt: het ontbreken van twee afzonderlijke uitgangen in verbinding met de oppervlakte bij een ondergrondse ontginning.
+68 De ODB luidt: in een geval waarin gevaar voor de veiligheid of gezondheid van werknemers (zelfstandigen; vrijwilligers) kan bestaan door de mogelijke aanwezigheid van ontplofbare oorlogsresten, wordt niet, alvorens de werkzaamheden worden aangevangen, een oriënterend onderzoek hiernaar ingesteld.
 
-39 De ZO luidt: Het niet zo spoedig mogelijk na het delven ondersteuningen aanbrengen, terwijl dit vanwege de instabiliteit van het terrein noodzakelijk is voor de veiligheid van de werknemers.
+69 De ODB luidt: hoewel het oriënterend onderzoek de mogelijke aanwezigheid van ontplofbare oorlogsresten die gevaar kunnen opleveren voor de veiligheid of gezondheid van werknemers (zelfstandigen; vrijwilligers) niet uitsluit, wordt geen nader onderzoek ingesteld.
 
-40 De ODB luidt: het ontbreken van voldoende geschikte reddingsmiddelen op een mijnbouwinstallatie.
+70 De ODB luidt: hoewel uit het nader onderzoek blijkt dat gevaar bestaat voor de veiligheid of gezondheid van werknemers (zelfstandigen; vrijwilligers) door de aanwezigheid van ontplofbare oorlogsresten, worden die ontplofbare oorlogsresten niet opgespoord of geen andere passende maatregelen getroffen om dit gevaar te voorkomen.
 
-41 De ZO luiden: het niet hebben van een adequaat noodplan (lid 1).
+71 De ODB luidt: arbeid bestaande uit het opsporen van ontplofbare oorlogsresten wordt niet verricht door een bedrijf dat voor de te verrichten arbeid in het bezit is van een certificaat opsporen ontplofbare oorlogsresten dat is afgegeven door Onze Minister of een door hem aangewezen certificerende instelling.
 
-Het niet voldoen aan de eisen van [artikel 3.37v lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v) m.b.t. het noodplan (lid 2).
+72 De ODB luiden:
 
-42 De ODB luiden: Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten waarbij gevaar voor instorting bestaat. (sub a)
+73 De ODB luidt: het ruimen van ontplofbare oorlogsresten wordt niet verricht door een explosievenopruimingseenheid van het Ministerie van Defensie.
 
-Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichten aan, met of in de directe nabijheid van een hoogspanningsinstallatie. (sub b)
+74 De ODB luidt: het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
-43Lid 2 wordt beboet via lid 1
+75 De ZO luidt: het blootstellen van werknemers (zelfstandigen; vrijwilligers) aan concentraties van kankerverwekkende en mutagene stoffen in de ademhalingslucht boven de (wettelijke of door de werkgever vastgestelde) grenswaarde: lid 3
 
-44 De ZO luiden: Het werken met stoffen, waarbij direct contact met de huid mogelijk is, die voldoen aan de criteria genoemd in [artikel 4.1c, onderdeel f, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1c), en die kunnen leiden tot ernstige schade aan de gezondheid.
+76 De ZO luidt: het niet of onvoldoende zorgen voor doeltreffende maatregelen bij overschrijding van de grenswaarde waarbij werknemers (zelfstandigen; vrijwilligers) worden (wordt) blootgesteld aan concentraties van kankerverwekkende en mutagene stoffen in de inademingslucht.
 
-44a Het werken met stoffen, waarbij direct contact met de ogen mogelijk is, die voldoen aan de criteria genoemd in [artikel 4.1c, onderdeel g, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1c), en die kunnen leiden tot ernstige schade aan de gezondheid.
+77 De ZO luidt: het niet zo laag mogelijk onder de grenswaarde van [artikel 4.46 Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46) houden van de concentratie van asbeststof in de lucht door:
 
-45 De ZO luidt: het blootstellen van werknemers aan concentraties van stoffen in de inademingslucht van een werknemer van meer dan twee maal de (wettelijke of door de werkgever vastgestelde) grenswaarde of van meer dan de ceilingswaarde.
+78 De ZO luidt: het blootstellen van werknemers (zelfstandigen; vrijwilligers) aan concentraties van asbeststof in de lucht boven de grenswaarden van [artikel 4.46 Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46).
 
-46 De ZO luidt: Het opnieuw in circulatie brengen van lucht die een gevaarlijke stof bevat naar een arbeidsplaats waar de betreffende stof niet aanwezig is (lid 2).
+79 De ZO luiden:
 
-47 De ZO luiden: Het ontbreken van maatregelen bij aanwezigheid van kankerverwekkende of mutagene stoffen waarbij ernstig gevaar bestaat voor plotselinge blootstelling.
+80 De ODB luidt: het werken met asbest of asbesthoudende producten zonder dit tijdig en (volledig) op correcte wijze te hebben gemeld aan de Inspectie SZW (lid 1).
 
-Het ontbreken van maatregelen bij aanwezigheid van gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen.
+81 De ODB luidt: Het niet opnieuw melden aan de Inspectie SZW, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten (lid 2).
 
-48 De ZO luidt: Na een onvoorziene toename van het blootstellingniveau aan kankerverwekkende of mutagene stoffen, er niet voor gezorgd hebben dat werknemers uit de gevarenzone zijn verwijderd.
+82 De ZO luiden:
 
-49 De ODB luiden: gebruik van springstoffen zonder dat hierop voortdurend toezicht plaatsvindt door een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester (lid 2).
+83 De ODB luidt: het niet beschikken over een, overeenkomstig [artikel 4.50 Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50) opgesteld, schriftelijk werkplan door de werkgever van het bedrijf, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), voordat wordt aangevangen met de werkzaamheden.
 
-Het verrichten van werkzaamheden bestaande uit het springen van materialen ten behoeve van de opsporing of winning van delfstoffen door personen die niet in het bezit zijn van een getuigschrift van schietmeester ( lid 3).
+84 De ODB luidt: Het in het werkplan ontbreken van voorgeschreven gegevens, zoals beschreven in [artikel 4.50 lid 4 onder a t/m d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50).
 
-50 De Z0 luidt: het niet werken volgens een vooraf opgesteld werkplan, als bedoeld in [Bijlage VB van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VB), mbt opbouw, installeren, monteren, assembleren, dan wel verwijderen na ontbranding, van professioneel vuurwerk.
+85 De ZO luidt: het bij slopen, verwijderen, reinigen en opruimen van asbest of van producten die deze stof bevatten, niet conform het werkplan uitvoeren van de maatregelen ter bescherming van de veiligheid en gezondheid van de betrokken werknemers (zelfstandigen; vrijwilligers).
 
-51 De ODB luiden: het niet door een gecertificeerd persoon toezicht houden op opbouw, installeren, monteren, assembleren, dan wel verwijderen na ontbranding van professioneel vuurwerk;
+86 De ZO luiden:
 
-Het niet door een gecertificeerd persoon toezicht houden op het bewerken van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1).
+87 De ODB luidt: het niet treffen van doeltreffende maatregelen om blootstelling aan asbeststof te voorkomen als het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10a), daartoe aanleiding geeft.
 
-51a Arbeid bestaande uit het opsporen van conventionele explosieven wordt verricht door een bedrijf dat voor de te verrichten arbeid niet in het bezit is van een procescertificaat opsporen conventionele explosieven dat is afgegeven door Onze Minister of een certificerende instelling.
+88 De ODB luidt: het in het kader van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) – niet, of niet volledig inventariseren van de aanwezigheid van asbest of asbesthoudende producten voordat wordt aangevangen met de volgende werkzaamheden:
 
-52 De ZO luidt: het blootstellen van werknemers aan concentraties van kankerverwekkende en mutagene stoffen in de ademhalingslucht boven de (wettelijke of door de werkgever vastgestelde) grenswaarde.: lid 3
+89 De ODB luidt: het niet op grond van de uitgevoerde inventarisatie, als bedoeld in [artikel 4.54a, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), bepalen van de daarbij behorende risicoklasse als bedoeld in de [artikelen 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.44), [4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48) of [4.53a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53a).
 
-53 De ZO luidt: Het niet of onvoldoende zorgen voor doeltreffende maatregelen bij overschrijding van de grenswaarde waarbij werknemers worden blootgesteld aan concentraties van kankerverwekkende en mutagene stoffen in de inademingslucht.
+90 De ODB luidt: de inventarisatie, bedoeld in [artikel 4.54a, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), en het inventarisatierapport, bedoeld in artikel 4.54a, lid 3, Arbobesluit, worden uitgevoerd, onderscheidenlijk opgesteld, door een bedrijf dat niet in het bezit is van een certificaat asbestinventarisatie dat is afgegeven door Onze Minister of een certificerende instelling.
 
-54 De ZO luidt: het niet zo laag mogelijk onder de grenswaarde (2.000 vezels per kubieke centimeter berekend over een referentieperiode van 8 uur) houden van de concentratie van asbeststof in de lucht door:
+91 De ZO luiden:
 
-55 De ZO luidt: het blootstellen van werknemers aan concentraties van asbeststof in de lucht boven de grenswaarde van 0, 01 vezel per kubieke centimeter, berekend over een referteperiode van 8 uur.
+92 De ODB luidt: het door het bedrijf dat asbest verwijdert niet beschikken over een afschrift van een inventarisatierapport waarin de resultaten zijn neergelegd van de inventarisatie van de aanwezigheid van asbest en asbesthoudende producten, voordat wordt aangevangen met het verwijderen van asbest.
 
-56 De ZO luiden: Het niet opsporen van de oorzaken van de overschrijding van de grenswaarde, bedoeld in [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46), en het niet zo spoedig mogelijk nemen van doeltreffende maatregelen om de concentratie asbeststof terug te brengen tot beneden die waarde. (lid 1)
+93 De ODB luiden:
 
-Het laten voortzetten van de arbeid op een arbeidsplaats met overschrijding van de grenswaarde, bedoeld in [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46), waar de maatregelen om de concentratie terug te brengen nog niet volledig ten uitvoer zijn gelegd, zonder de betrokken werknemers doeltreffend te beschermen tegen blootstelling aan asbeststof. (lid 3).
+94 De ZO luidt: Het door een machinist niet werken onder de voorwaarden genoemd in [artikel 4.54d, tiende lid, onder a en b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) bij het verplaatsen van asbest waardoor sprake kan zijn van werkzaamheden als bedoeld in [artikel 4.54a, eerste lid, onderdeel b of c, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a).
 
-57 De DBO luiden: Het werken met asbest of asbesthoudende producten zonder dit tijdig en (volledig) op correcte wijze te hebben gemeld aan de Inspectie SZW. (lid 1)
+95 De ZO luiden:
 
-Het niet opnieuw melden aan de Inspectie SZW, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten. ( lid 2)
+96 De ZO luiden:
 
-58 De ZO luiden: het niet nemen van doeltreffende maatregelen ter bescherming van de bestrokken werknemers, indien, gelet op de aard van de werkzaamheden, overschrijding van de grenswaarde, bedoeld in [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46), kan worden verwacht ondanks preventieve technische maatregelen ter beperking van de asbestconcentratie in de lucht (lid 1).
+97 De ZO luiden:
 
-Het niet verwijderen van het aanwezig asbest dan wel de aanwezige asbesthoudende producten, voordat wordt aangevangen met andere werkzaamheden (lid 4).
+98 De ZO luidt: het (zand)stralen met een stof die aan kwarts of een andere vorm van vrij kristallijn siliciumdioxyde meer dan 1% bevat.
 
-59 De ODB luidt: Het in het werkplan ontbreken van voorgeschreven gegevens, zoals beschreven in [artikel 4.50 lid 4 onder a t/m d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50).
+99 ZO luiden:
 
-60 De ZO luidt: het bij slopen, verwijderen, reinigen en opruimen van asbest of van producten die deze stof bevatten, niet conform het werkplan uitvoeren van de maatregelen ter bescherming van de veiligheid en gezondheid van de betrokken werknemers.
+100 De ZO luiden:
 
-61 De ZO luiden: Het na reiniging van de arbeidsplaats niet op de desbetreffende arbeidsplaats in een binnenruimte uitvoeren van een eindbeoordeling, waarbij de monsterneming wordt uitgevoerd door een persoon als bedoeld in [artikel 4.47, lid 7, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47), en de monsteranalyse door een laboratorium als bedoeld in artikel 4.47, lid 8, Arbobesluit. (lid 1)
+101 ZO luidt: het bij het schilderen van binnenwerk van gebouwen of vaartuigen gebruiken van loodwit, loodsulfaat of producten die een van deze stoffen als bestanddeel bevatten.
 
-Het bij de eindbeoordeling bedoeld in [artikel 4.51a, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), niet uitvoeren van een visuele inspectie gevolgd door een eindmeting, om vast te stellen of de concentratie van asbeststof in de lucht niet hoger is dan 0,01 vezel per cm3, uitgaande van een referentieperiode van twee uur. (lid 2)
+102 De ODB luiden:
 
-Het na het reinigen van de arbeidsplaats, op de betreffende arbeidsplaats in de buitenlucht geen visuele inspectie uitvoeren met vaststelling dat de aanwezigheid van asbest niet meer visueel waarneembaar is door een bedrijf dat daartoe adequaat is toegerust, voordat met andere werkzaamheden een aanvang wordt gemaakt. (lid 3)
+103 De ZO luidt: het blootstellen van werknemers (zelfstandigen) aan biologische agentia waarbij ernstig gevaar bestaat voor schade aan de gezondheid.
 
-Het na het beëindigen van werkzaamheden in de buitenlucht met asbesthoudende grond, niet uitvoeren van een visuele inspectie op de aanwezigheid van asbest teneinde vast te stellen dat de concentratie asbest niet hoger is dan honderd milligram per kilogram droge stof als bedoeld in [artikel 2, onderdeel b, van het Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&artikel=2), door een bedrijf dat daartoe adequaat is toegerust. (lid 4)
+104 De ODB luiden:
 
-62 De ODB luidt: het niet treffen van doeltreffende maatregelen om blootstelling aan asbeststof te voorkomen als het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10a), daartoe aanleiding geeft.
+105 De ODB luidt: het niet tijdig en op correcte wijze hebben gemeld aan de Inspectie SZW van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3e of 4e categorie.
 
-63 De ZO luidt: Het niet uitvoeren van een eindbeoordeling in aanvulling op [artikel 4.51a, lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), in de naast de arbeidsplaats gelegen ruimten in een binnensituatie bij risicoklasse 3.
+106 De ZO luiden:
 
-64 De ZO luidt: Het bij risicoklasse 3 – in het kader van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) – niet volledig inventariseren van de aanwezigheid van asbest of asbesthoudende producten voordat wordt aangevangen met de volgende werkzaamheden:
+107 De ODB luidt: het ontbreken van deskundig toezicht op jeugdige werknemers ter voorkoming van specifieke gevaren bij het werken met gevaarlijke stoffen of gassen of artikelen die ontplofbare stoffen bevatten.
 
-a. het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken, met uitzondering van grondwerken, of objecten waarin asbest of asbesthoudende producten is respectievelijk zijn verwerkt;
+108 De ZO luiden:
 
-b. het verwijderen van asbest of asbesthoudende producten uit de bouwwerken of objecten, bedoeld in onderdeel a;
+109 De ZO luiden:
 
-c. het opruimen van asbest of asbesthoudende producten die ten gevolge van een incident zijn vrijgekomen.
+110 De ODB’s gelden voor de volgende werkzaamheden: blokkenstellen ruwbouw, betonstaalvlechten, metselen, monteren van metalen dak- en gevelelementen, glaszetten, dakdekken platte daken, gipsblokkenstellen, wandplatenstellen, plafondplatenstellen, stukadoren traditioneel/mechanisch en het leggen van zandcementdekvloeren, betonboren/betonzagen, koppensnellen, dakdekken (pannendaken), stellen kozijnen en deuren, (de)montage steigerbouw, installatie-werkzaamheden en stratenmaken en luiden:
 
-65 De ODB luidt:het niet voor aanvang van de werkzaamheden volledig inventariseren van de aanwezigheid van asbest of asbesthoudende producten, bij het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken of objecten of het verwijderen en opruimen van asbest of asbesthoudende producten.
+111 De ZO luiden:
 
-66 De ODB luidt: Het niet op grond van de uitgevoerde inventarisatie , als bedoeld in [artikel 4.54a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), bepalen van de daarbij behorende risicoklasse als bedoeld in de [artikelen 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.44), [4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48) of [4.53a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53a).
+112 De ZO luidt: het verrichten van werkzaamheden in situaties waarbij de dagelijkse blootstelling aan lawaai, rekening houdend met de dempende werking van de door de werknemer (zelfstandige) gedragen individuele gehoorbeschermers, hoger is dan 87 dB(A) of de piekgeluidsdruk hoger is dan 200 Pa.
 
-66a De inventarisatie, bedoeld in [artikel 4.54a, eerste lid, van het Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), en het inventarisatierapport, bedoeld in artikel 4.54a, derde lid, van het Arbobesluit, worden uitgevoerd, onderscheidenlijk opgesteld, door een bedrijf dat niet in het bezit is van een certificaat asbestinventarisatie dat is afgegeven door Onze Minister of een certificerende instelling.
+113 De ZO luidt: het verrichten van werkzaamheden zonder individuele gehoorbescherming in situaties waarbij de dagelijkse blootstelling aan lawaai 85 dB(A) of hoger is of de piekgeluidsdruk 140 Pa of hoger is.
 
-67 De ZO luiden: Het verrichten van handelingen, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) door een bedrijf dat niet in het bezit is van een certificaat voor asbestverwijdering. (lid 1)
+114 De ZO luiden:
 
-Het verrichten van de werkzaamheden, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) zonder voortdurend toezicht van (of niet door) een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het werken met asbest. (lid 5)
+115 ZO luidt: het blootstellen van werknemers (zelfstandigen; vrijwilligers) aan kunstmatige optische straling boven de grenswaarde voor blootstelling genoemd in [artikel 6.12c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12c). ([artikel 6.12e, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12e), juncto artikel 6.12c Arbobesluit).
 
-Het mede verrichten van de handelingen, bedoeld in [artikel 4.54d, eerste lid, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) door een persoon die niet in het bezit is van een certificaat van vakbekwaamheid voor het verwijderen van asbest. (lid 7).
+116 De ZO luidt: het blootstellen van werknemers (de zelfstandige; vrijwilligers) aan elektromagnetische velden boven de grenswaarden voor effecten op de gezondheid, tenzij is voldaan aan de voorwaarden genoemd in [artikel 6.12o](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12o) (MRI-apparatuur gezondheidszorg) of in een vrijstelling of ontheffing ([artikel 9.17c, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.17c)).
 
-68 De ODB luidt: Het door het bedrijf dat asbest verwijdert niet beschikken over een afschrift van een inventarisatierapport waarin de resultaten zijn neergelegd van de inventarisatie van de aanwezigheid van asbest en asbesthoudende producten, voordat wordt aangevangen met het verwijderen van asbest.
+117 De ZO luiden:
 
-69 De ODB luiden: Het bij een gecertificeerd asbestverwijderingsbedrijf niet werkzaam zijn op basis van een arbeidsovereenkomst van een persoon die in het bezit is van een certificaat van vakbekwaamheid voor het toezicht houden op het verwijderen van asbest. (lid 6)
+118 ODB luidt: het voor de aanvang van de arbeid uitvoeren van een arbeidsgezondheidskundig onderzoek door een arts, die niet in het bezit is van een certificaat duikerarts.
 
-Het niet begeleiden van de handelingen als bedoeld in [artikel 5, onderdelen e en f, van het Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&artikel=5) die betrekking hebben op werkzaamheden met asbesthoudende grond, door een persoon die in het bezit is van een certificaat van vakbekwaamheid arbeidhygiëne of veiligheidskunde als bedoeld in [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7). (lid 8)
+119 ZO luidt: het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk zonder dat aan de beperkende voorschriften volgend uit een arbeidsgezondheidskundig onderzoek wordt voldaan.
 
-70 De ZO luiden: het vervaardigen of gebruiken van propaansulton (CAS-nummer 1120-71-4) (lid 1) en
+120 ZO luidt: het niet aan werknemers ter beschikking stellen van materiaal dat in deugdelijke staat verkeert en van voldoende ademgas van goede kwaliteit ([artikel 6.15, eerste lid onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.15)).
 
-Het, anders dan ten behoeve van doorvoer, in voorraad houden van propaansulton (lid 2)
+121 ZO luidt: het verrichten van duikarbeid zonder te worden bijgestaan door een reserveduiker en ploegleider.
 
-71 De ZO luiden: het vervaardigen of gebruiken van de volgende stoffen:
+122 ODB luiden:
 
-a. 2-naftylamine en de zouten daarvan (CAS-nummer 91–59–8);
+123 ODB luidt: het uitvoeren van duikarbeid:
 
-Arbeidsomstandighedenbesluit (SDU-opmaat tekst geldig vanaf 01-07-2012)
+124 ZO luiden:
 
-b. 4-aminodifenyl en de zouten daarvan (CAS-nummer 92–67–1);
+125 ZO luidt: het door één persoon verrichten van caissonarbeid.
 
-c. benzidine en de zouten daarvan (CAS-nummer 92–87–5);
+126 ODB luidt: het verrichten van caissonarbeid zonder de Inspectie SZW daarvan tijdig en op correcte wijze in kennis te stellen, onder overlegging van een deugdelijk werkplan.
 
-d. 4-nitrodifenyl (CAS-nummer 92–93–3) (lid 1).
+127 ZO luiden:
 
-Het, anders dan ten behoeve van doorvoer, in voorraad houden van de volgende stoffen:
+128 De ZO luiden:
 
-a. 2-naftylamine en de zouten daarvan (CAS-nummer 91–59–8);
+129 De ZO luiden:
 
-Arbeidsomstandighedenbesluit (SDU-opmaat tekst geldig vanaf 01-07-2012)
+130 De ZO luiden:
 
-b. 4-aminodifenyl en de zouten daarvan (CAS-nummer 92–67–1);
+131 De ZO luiden:
 
-c. benzidine en de zouten daarvan (CAS-nummer 92–87–5);
+132 De ZO luidt: het op de arbeidsplaats blootstellen van een zwangere werknemer (zelfstandige; vrijwilliger) aan equivalente geluidsniveaus boven de 80 dB(A) en piekgeluiden boven de 112 Pa.
 
-d. 4-nitrodifenyl (CAS-nummer 92–93–3) (lid 2).
+133 ZO luidt: het gebruiken van arbeidsmiddelen op een andere wijze of plaats dan waarvoor zij zijn ingericht en bestemd.
 
-72 De ZO luiden: het bewerken of verwerken van zandsteen, behoudens in de gevallen benoemd in [artikel 4.60, tweede lid, Arbeidsomstandighedenbeslui](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.60)t (lid 1).
+134 ZO luidt: het niet of onvoldoende treffen van beschermende maatregelen bij het gebruik van een arbeidsmiddel, waardoor ernstig gevaar bestaat voor persoonlijk letsel.
 
-Het in voorraad houden van zandsteen, behoudens in de gevallen benoemd in [artikel 4.60, vierde lid, Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.60) (lid 3).
+135 ZO luidt: het zodanig geplaatst bevestigd of ingericht zijn en zodanig gebruikt worden van een arbeidsmiddel dat daardoor ernstig gevaar bestaat voor verschuiven, omvallen, kantelen, getroffen worden door het arbeidsmiddel of onderdelen daarvan, oververhitting, brand, ontploffen, blikseminslag en directe of indirecte aanraking met elektriciteit.
 
-73 De ZO luidt: het (zand)stralen met een stof die aan kwarts of een andere vorm van vrij kristallijn siliciumdioxyde meer dan 1% bevat.
+136 ZO luidt: het zodanig geplaatst of ingericht zijn en zodanig gebruikt worden van een arbeidsmiddel dat daardoor ernstig gevaar bestaat getroffen of geraakt te worden door voorwerpen, producten of onderdelen daarvan dan wel vloeistoffen of gassen, of bekneld te raken tussen voorwerpen, producten of onderdelen daarvan.
 
-74 ZO luidt: Het ontzanden van gietstukken, door middel van stralen, buiten de voor dat doel bestemde gesloten toestellen of ruimten. ([artikel 4.61, lid 3, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.61))
+137 ZO luidt: het onderhouden, repareren en reinigen van arbeidsmiddelen die ingeschakeld zijn of onder druk of spanning staan.
 
-Het bij ontzanden van gietstukken, door middel van stralen, afvoeren van afgezogen lucht naar ruimtes waar personen moeten verblijven.([artikel 4.61, lid 5, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.61))
+138 ZO luidt: het afstellen van arbeidsmiddelen die ingeschakeld zijn of onder druk of elektrische spanning staan.
 
-75 De ZO luiden: Het gebruik van benzeen of van een product waarvan het gehalte aan benzeen meer dan 1 volumeprocent bedraagt als oplos-, reinigings- of verdunningsmiddel, behoudens indien zulks geschiedt in een gesloten systeem of op een andere wijze waardoor in tenminste gelijke mate bescherming tegen blootstelling daaraan wordt geboden (lid 1) en
+139 ZO luidt: het op niet veilige wijze (de)monteren van arbeidsmiddelen.
 
-Het gebruik van tetrachloorkoolstof, pentachloorethaan en 1,1,2,2,-tetrachloorethaan of van een product waarvan het gehalte aan een van de vorengenoemde stoffen meer dan 1 volumeprocent bedraagt, behoudens indien zulks geschiedt in een gesloten systeem of op een andere wijze waardoor in tenminste gelijke mate bescherming tegen blootstelling daaraan wordt geboden (lid 3)
+140 Lid 4 en 7 worden beboet via lid 1.
 
-76 De ZO luidt: het bij het schilderen van binnenwerk van gebouwen of vaartuigen gebruiken van loodwit, loodsulfaat of producten die een van deze stoffen als bestanddeel bevatten.
+141 ZO luidt: het ontbreken of onjuist toepassen van voorgeschreven beveiligingen en afschermingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen van arbeidsmiddelen, waardoor er ernstig gevaar optreedt.
 
-77 De ODB luiden: Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32a, lid 4 tot en met 6, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32a) bij werkzaamheden waarvoor dit op grond van artikel 4.32a, lid 2, Arboregeling (lijmen en verven in binnensituaties), niet is toegestaan.
+142 ZO luidt: het kunnen aanraken van (onderdelen van) arbeidsmiddelen met een zeer hoge of lage temperatuur.
 
-Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32b, lid 2 tot en met 4, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32b) bij werkzaamheden waarvoor dit op grond van artikel 4.32b, lid 1, Arboregeling (offset drukken), niet is toegestaan.
+143 ZO luidt: het loskoppelen en opnieuw aansluiten van een arbeidsmiddel van en op een krachtbron.
 
-Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32c, lid 2 en 3, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32c) bij werkzaamheden waarvoor dit op grond van artikel 4.32c, lid 1, Arboregeling (zeefdrukken), niet is toegestaan.
+144 ZO luidt: het ontbreken van een noodstopvoorziening op arbeidsmiddelen waarbij dit noodzakelijk is.
 
-Het werken met producten die niet voldoen aan de criteria genoemd in [artikel 4.32d, lid 2, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32d) bij werkzaamheden waarvoor dit op grond van artikel 4.32d, lid 1, Arboregeling (illustratiediepdrukken), niet is toegestaan.
+145 ZO luidt: het vervoeren van personen met een mobiel arbeidsmiddel dat daartoe niet is uitgerust.
 
-Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32e, lid 3, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32e) bij werkzaamheden waarvoor dit op grond van artikel 4.32e, lid 2, Arboregeling (verpakkingsdiepdrukken en flexodrukken), niet is toegestaan.
+146 ZO luidt: het gebruik van mobiele arbeidsmiddelen (m.u.v. heftrucks) waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan.
 
-Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32f, lid 4, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32f) bij werkzaamheden waarvoor dit op grond van artikel 4.32f, lid 2, Arboregeling (herstellen van autoschade), niet is toegestaan.
+ZO luidt: het gebruik van heftrucks waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan.
 
-Het werken met producten die niet voldoen aan het criterium genoemd in [artikel 4.32g, lid 3, Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=4.32g) bij werkzaamheden waarvoor dit op grond van artikel 4.32g, lid 2, Arboregeling (coating timmerwerk in binnensituaties), niet is toegestaan.
+147 ZO luidt: het gebruik van heftrucks waarmee personen kunnen worden vervoerd zonder beschermingsconstructies ter voorkoming van kantelen of de gevolgen daarvan.
 
-78 De ZO luidt: Het blootstellen van werknemers aan biologische agentia waarbij ernstig gevaar bestaat voor schade aan de gezondheid.
+148 ZO luidt: het ontbreken van een rem- en stopvoorziening, alsmede een noodstopvoorziening voor zover deze noodzakelijk is, op een mobiel arbeidsmiddel met eigen aandrijving.
 
-79 De ODB luiden: Het voor de eerste maal werken met biologische agentia van de 2e, 3e of 4e categorie, zonder dit tijdig en op correcte wijze te melden aan de Inspectie SZW.( lid 1)
+149 ODB luidt: het werken met mobiele arbeidsmiddelen met eigen aandrijving, zonder dat de bedieners daartoe specifieke deskundigheid bezitten.
 
-Het werken met een nieuw biologisch agens van de 3e of 4e categorie, zonder dit tijdig en op correcte wijze te melden aan de Inspectie SZW. (lid 3)
+N.B. uitsluitend aan de orde indien criteria bestaan (en in projecten zijn aangegeven) wanneer en in welke situatie er sprake is van dit feit.
 
-Het werken met biologische agentia van de 2e, 3e of 4e categorie na veranderingen in procedés of procedures met mogelijke gevolgen voor veiligheid en gezondheid, zonder dit opnieuw te hebben gemeld aan de Inspectie SZW. (lid 5)
+150 ZO luidt: het meerijden op mobiele arbeidsmiddelen met eigen aandrijving zonder speciaal daartoe ingerichte veilige plaatsen.
 
-80 De ODB luidt: Het niet tijdig en op correcte wijze hebben gemeld aan de Inspectie SZW van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3e of 4e categorie.
+151 ZO luidt: het zwaarder belasten van een hijs- of hefwerktuig, dan de toegelaten bedrijfslast of dan een veilig gebruik toelaat.
 
-81 De ZO luiden: het laten verrichten van arbeid met of laten blootstellen aan stoffen die voldoen aan de krachtens [artikel 9.2.3.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1) vastgestelde criteria voor indeling in een of meer van de categorieën «zeer vergiftig», «vergiftig»,«sensibiliserend», «kankerverwekkend», «mutageen» en «voor de voortplanting vergiftig», alsmede stoffen die voldoen aan de bij of krachtens die wet vastgestelde criteria voortoekenning van de R-zinnen 33 en 48, door en van jeugdige werknemers (lid 1);
+152 De ZO luidt: het zodanig opgesteld zijn van hijs- en hefwerktuigen, dat daardoor ernstig gevaar bestaat dat lasten werknemers (zelfstandigen; vrijwilligers) kunnen raken.
 
-Het laten verrichten van arbeid met of laten blootstellen aan biologische agentia van categorie 3 of 4, bedoeld in [afdeling 9 van hoofdstuk 4 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=9) door en van jeugdige werknemers(lid 2) en
+153 De ZO luidt: het zich bevinden van werknemers (zelfstandigen; vrijwilligers) onder hangende lasten.
 
-Het laten verrichten van arbeid aan of met kuipen, bassins, leidingen of reservoirs waarin zich een of meer van de in het [eerste of tweede lid van artikel 4.105 Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.105) bedoelde stoffen of biologische agentia bevinden, door jeugdige werknemers (lid 3).
+154 De ODB luidt: het vervoeren van personen met een hijs- of werktuig, dat daarvoor niet is bestemd of ingericht.
 
-82 De ODB luidt: Het ontbreken van deskundig toezicht op jeugdige werknemers ter voorkoming van specifieke gevaren bij het werken met gevaarlijke stoffen of gassen of artikelen die ontplofbare stoffen bevatten.
+155 ZO luidt: het zodanig gebruik van een mobiel hijs- of hefwerktuig dat daardoor ernstig gevaar bestaat voor kantelen, ongewild in beweging komen of wegglijden.
 
-83 De ZO luiden: Het door een zwangere werknemer of een werknemer tijdens de lactatie arbeid laten verrichten waarbij zij kunnen worden blootgesteld aan metallisch lood en zijn verbindingen (lid 1).
+156 ZO luidt: het gebruik van hijs- en hefwerktuigen in slechte weersomstandigheden.
 
-Het door een zwangere werknemer of een werknemer tijdens de lactatie arbeid laten verrichten waarbij zij kunnen worden blootgesteld aan gevaarlijke stoffen die de gezondheid van het ongeboren kind of de zuigeling schade kunnen toebrengen via een genotoxisch werkingsmechanisme en die via de moeder het ongeboren kind of de zuigeling kunnen bereiken (lid 2).
+157 ZO luidt: het hijsen of heffen van personen op een onbeveiligd platform.
 
-84 De ZO luidt: Het door een zwangere werknemer arbeid laten verrichten waarbij zij kan worden blootgesteld aan de biologische agentia Toxoplasma en Rubellavirus, bedoeld in [afdeling 9 van hoofdstuk 4 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=9), tenzij is gebleken dat zij hiervoor immuun is.
+158 ZO luidt: het overbelasten van hijs en hefgereedschap met meer dan 10%.
 
-85 De ODB’s gelden voor de volgende werkzaamheden: blokkenstellen ruwbouw, betonstaalvlechten, metselen, monteren van metalen dak- en gevelelementen, glaszetten, dakdekken platte daken, gipsblokkenstellen, wandplatenstellen, plafondplatenstellen, stukadoren traditioneel/mechanisch en het leggen van zandcementdekvloeren, betonboren/betonzagen, koppensnellen, dakdekken (pannendaken), stellen kozijnen en deuren, (de)montage steigerbouw, installatie-werkzaamheden en stratenmaken en luiden:
+159 De ZO luiden:
 
-Bij blokkenstellen ruwbouw, blokken van 14 kilogram of meer hanteren zonder gebruik van een elementenstelselmachine; niet mechanisch opperen; geen verhoogde plaatsing van de blokken en de lijmkuip op minimaal 20 cm hoogte; blokkenstellen boven 150 cm met uitzondering van de binnenmuren net onder de verdiepingsvloer; blokkenstellen onder sta-oppervlak, met uitzondering van het vloer- en funderingsniveau.
+160 De ZO luidt: het niet kiezen van de meest geschikte arbeidsmiddelen bij tijdelijke werkzaamheden op hoogte, waardoor:
 
-Bij betonstaalvlechten handmatig tillen van 25 kilogram per werknemer of zwaarder dan 50 kilogram per twee werknemers of meer tillen; boven schouder-hoogte binden; handmatig knippen van rond 8 mm met een handschaar korter dan 75 cm; handmatig knippen van meer dan 8 mm met een handschaar korter dan 90 cm; handmatig knippen van meer dan 10 mm; werken zonder werktafel of alternatieve verhoging voor voormontage waar dit wel mogelijk is.
+161 De ZO luidt: het ontbreken van een valbeveiliging om de aan een arbeidsmiddel verbonden valrisico’s voor werknemers (vrijwilligers) te minimaliseren.
 
-Metselen zonder verhoogde plaatsing van de te verwerken metselstenen en speciekuip op 20 cm hoogte; metselen boven 170 cm met uitzondering van de binnenmuren onder de verdiepingsvloer; metselen onder 20 cm hoogte ten opzichte van het sta-oppervlak, met uitzondering van het vloer- en funderingsniveau; een stenentang met één hand gebruiken; een kruiwagen zwaarder dan 25 kilogram aan de handvatten hanteren; eenhandig pakken van stenen met een steenbreedte van meer dan 105 mm.
+162 De ZO luidt: he bij een arbeidsmiddel behorende valbeveiliging is niet van een zodanige configuratie en sterkte dat vallen van hoogte wordt voorkomen of dat een eventuele val wordt gestopt, zodanig dat letsel bij de werknemers zoveel mogelijk wordt voorkomen.
 
-Bij het monteren van metalen dak- en gevelelementen, platen handmatig lostrekken en/of omklappen; platen van 118 kilogram of meer niet mechanisch/machinaal op montageplek in het werk brengen; platen onder de 118 kilogram door één werknemer handmatig verslepen zonder een daartoe aangewezen hulpmiddel; platen onder 118 kilogram verder dan gemiddeld 8 meter handmatig verslepen; platen onder 118 kilogram verslepen; bij handmatig verslepen geen geschikt hulpmiddel gebruiken.
+163 De ZO luidt: het onderbreken van collectieve valbeveiligingen op andere plekken dan daar waar zich een toegang tot een ladder of trap bevindt.
 
-Bij glaszetten, glas handmatig tillen/plaatsen/transporteren van glas zwaarder dan 25 kg per werknemer of zwaarder dan 50 kg per twee werknemers of meer; van 25 kilogram of meer handmatig tillen/plaatsen; met meer personen 50 kilogram of meer per persoon handmatig tillen/plaatsen; handmatig tillen/plaatsen glas zonder mechanische hulpmiddelen boven de 50 kilogram plaatsen; geen gebruik maken van transportmiddelen voor het (ver)plaatsen van glas van 25 kg of meer; met meer personen meer dan 25 kg per persoon; geen gebruik maken van persoonsgebonden hulpmiddelen voor het plaatsen van glas.
+164 De ZO luidt: het laten werken op plaatsen waar geen doeltreffende, vervangende veiligheidsvoorzieningen, zijn getroffen en waarbij de collectieve valbeveiliging – in verband met de werkzaamheden – tijdelijk is verwijderd.
 
-Bij het dakdekken van platte daken meer dan 25 kilogram handmatig tillen; dakrollen en andere lasten van 25 kilogram of meer niet mechanisch/machinaal transporteren; geen gereedschap gebruiken met een verlengde of instelbare steel, zodat rechtop gewerkt kan worden; hulpmiddelen zoals een kraan, lift, ladderlift en (steek)wagentje voor het op en over het dak verplaatsen van materialen niet verstrekken of gebruiken.
+165 De ZO luidt: het laten uitvoeren van tijdelijke werkzaamheden op hoogte wanneer de weersomstandigheden de veiligheid en gezondheid van de werknemers (vrijwilligers) in gevaar brengen.
 
-Bij het gipsblokkenstellen 25 kilogram of meer handmatig tillen; niet mechanisch opperen; elementen van 18 kilogram of meer niet mechanisch/machinaal verwerken; verpakkingseenheden gips, cement, granietkorrels, marmerkorrels of andere grondstoffen van 25 kilogram of meer handmatig tillen/transporteren/op het werk voorhanden hebben; de blokken en de lijmmortelkuip niet op een verhoging van 20 cm of meer plaatsen; werken onder de gestelde werkhoogte van minimaal 20 cm ten opzichte van sta-oppervlak of meer (met uitzondering van de eerste laag).
+166 De ZO luiden:
 
-Bij het wandplatenstellen 25 kilogram of meer handmatig tillen/plaatsen/transporteren; met twee of meer personen 50 kilogram of meer per persoon handmatig tillen/plaatsen/transporteren; hulpmiddelen (zoals materialenlift, kraan of verreiker, platenkar) voor het verticaal en horizontaal transport van materialen, apparatuur en gereedschap niet inzetten; wandplaten niet vertikaal aangeleverd en niet vanuit verticale positie gemonteerd of wandplaten vanaf horizontale opslag op grond verwerken.
+167 De ZO luidt: de ondersteuningen van een steiger zijn niet beveiligd tegen wegglijden, hetzij door bevestiging aan het steunvlak, hetzij door een antislipinrichting of een andere, even doeltreffende oplossing.
 
-Bij het plafondplatenstellen 25 kilogram of meer handmatig tillen/transporteren; met twee of meer personen 50 kilogram of meer handmatig tillen/transporteren; hulpmiddelen (zoals materialenlift, kraan of verreiker, platenkar) voor het verticaal en horizontaal transport van materialen, apparatuur en gereedschap niet inzetten; geen gebruik maken van een platenlift bij plaatsen plafondplaten; plafondplaten niet vertikaal aangeleverd en niet vanuit verticale positie gemonteerd of wandplaten vanaf horizontale opslag op grond verwerken.
+168 De ZO luidt: de steunpunten van de steiger zijn niet op een stabiele, stevige ondergrond van voldoende omvang geplaatst, waardoor de stabiliteit niet wordt gewaarborgd.
 
-Bij het stukadoren 25 kilogram of meer traditioneel/mechanisch handmatig tillen; geen gebruik maken van (mechanische) hulpmiddelen bij het opperwerk; geen gebruik maken van een bordes, stukadoorstrapje of rolsteiger voor het aanbrengen van de stuc op hogere delen van de wand; geen gebruik maken van een mixer op statief, dan wel een mixer met 2 handvatten, dit ter voorkoming van het met de hand omsteken; geen gebruik maken van een (verrijdbare) mortelkuip op een verhoging van 20 cm of meer.
+169 De ZO luidt: niet verzekerde stabiliteit van steigers door onvoldoende verankering en/of schoren.
 
-Bij het leggen van zandcementdekvloeren geen gebruik maken van een mechanische rei/robot terwijl dit wel mogelijk is; bij het leggen van zandcement-dekvloeren met de mechanische rei/robot meer dan 80 m2 per persoon per dag aangemaakt bij semimachinaal mengen; meer dan 50 m2 per persoon per dag aangemaakt bij handmatig vullen van een vloerenpomp;
+170 De ZO luiden: het niet zodanig monteren van de vloeren van steigers dat hun onderdelen bij normaal gebruik niet kunnen bewegen.
 
-Bij het handmatig leggen van zandcementdekvloeren (uitzondering, indien technisch niet mogelijk te werken met de mechanische rei/rob) meer dan 60 m2 per persoon per dag aangemaakt bij machinaal aanmaken, mengen en transporteren van de specie; meer dan 50 m2 per persoon per dag aangemaakt bij semimachinaal mengen.
+Tussen de onderdelen van de vloeren en de verticale inrichtingen van de collectieve valbeveiligingen komen gevaarlijke openingen voor.
 
-Bij handmatig vullen van een vloerenpomp meer dan 40 m2 per persoon per dag aangemaakt; meer dan 20 m2 per persoon per dag verwerken bij volledig hand-matig mengen en transporteren met een maximum van 40 m2 op een locatie. Meer dan 10 liter per emmer handmatig water toevoegen; de grondstof meer dan 2 meter handmatig rondom de driepoot verspreiden; geen gebruik maken van een vlindermachine (aangedreven d.m.v. benzine, elektriciteit of gas) bij het afwerken van de smeervloer; geen aluminium rei (of lichter materiaal) gebruiken bij het afreien; een rei gebruiken waarvan de lengte niet is afgestemd op de ruimte waarin gewerkt wordt.
+171 De ZO luidt: het werken aan één enkele lijn, waarbij geen sprake is van een afzonderlijk verankerde veiligheidslijn die als reservelijn fungeert en is uitgerust met een beweegbaar valbeveiligingsmechanisme dat de werknemer (vrijwilliger) in zijn beweging volgt.
 
-Bij het betonboren/betonzagen niet mechanisch/machinaal transporteren van materialen en apparatuur zwaarder dan 25 kilogram (horizontaal transport) of zwaarder dan 10 kilogram (verticaal transport) getransporteerd; geen gebruik maken van hulpmiddelen om boven het hoofd werken te voorkomen.
+172 De ODB luiden: het onvoldoende adequaat en specifiek opgeleid zijn van werknemers (de zelfstandige; vrijwilligers) voor het werken aan lijnen.
 
-Bij het koppensnellen, de paalkoppen niet met behulp van een minder belastende techniek (hydraulisch kraken, pneumatisch knippen, waterhakken of machinaal hakken) verwijderen; werken met sloophamers zwaarder dan 15 kilogram.
+Werknemers zijn (de zelfstandige is; vrijwilligers zijn) niet op de hoogte van de reddingsprocedures voor het werken aan lijnen.
 
-Bij het dakdekken (pannendekken) geen hulpmiddelen inzetten voor het op het dak (ver)plaatsen van materialen, apparatuur en gereedschap; geen gebruik maken van hulpmiddelen zoals stortkoker en container bij het handmatig afvoeren van oude materialen.
+173 De ODB luidt: het verrichten van arbeid door werknemers vanuit een werkbak die of een werkplatform dat is gekoppeld aan een hijswerktuig op plaatsen die niet moeilijk bereikbaar zijn en/of waarbij andere meer geëigende arbeidsmiddelen en/of werkmethoden beschikbaar zijn om die plaatsen veilig te bereiken.
 
-Bij het stellen van kozijnen en deuren handmatig tillen zwaarder dan 25 kilogram per werknemer of zwaarder dan 50 kilogram per twee werknemers of meer; kozijnen en elementen zwaarder dan 50 kilogram niet machinaal/mechanisch plaatsen; transport- en tilhulpen voor horizontaal en verticaal transport niet gebruiken of verstrekken.
+([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-Bij het (de)monteren van steiger geen hulpmiddelen voor verticaal en horizontaal transport van materialen, apparatuur en gereedschap inzetten; handmatig tillen zwaarder dan 25 kilogram per werknemer of handmatig tillen zwaarder dan 50 kilogram per twee werknemers of meer; bij het op de schouder verplaatsen van materialen geen gebruik maken van schouderbescherming zoals specifieke werk-kleding met schoudervulling; handmatige opbouw van rolsteiger met een werkvloerhoogte hoger dan 2,5 m niet met minimaal twee personen opbouwen.
+174 De ODB luidt: de werkzaamheden zijn aangevangen zonder dat een schriftelijk werkplan is opgesteld, dat door een veiligheidskundige als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) is getoetst, waarin is geoordeeld en vastgelegd dat, rekening houdend met de aard en de inrichting van het bouwwerk waar de werkzaamheden zullen worden verricht en de gegeven omgevingsfactoren, geen andere veilige werkwijze mogelijk is ([artikel 7.23d, lid 3, onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-Bij installatiewerkzaamheden (CV en klimaattechniek) geen (transport)-hulpmiddelen verstrekken of gebruiken om het tillen en sturen van zware materialen te beperken; handmatig tillen zwaarder dan 25 kilogram per werknemer of handmatig tillen zwaarder dan 50 kilogram per twee werknemers of meer.
+175 De ODB luidt: de werkzaamheden zijn aangevangen zonder dat een schriftelijk werkplan is opgesteld, waarin door de veiligheidskundige als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) is geoordeeld en vastgelegd dat op de locatie waar de werkzaamheden zullen plaatsvinden, de werkzaamheden overeenkomstig het werkplan veilig kunnen worden verricht ([artikel 7.23d, lid 3, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-Bij stratenmaken stenen zwaarder dan 4 kilogram en tegels zwaarder dan 9,5 kilogram handmatig tillen en leggen; betonnen trottoirbanden, inritblokken, putten en kolken handmatig tillen en plaatsen; is het gewicht van de kruiwagen bij de handvatten zwaarder dan 25 kilogram.
+176 De ODB luidt: het niet of niet tijdig aan de toezichthouder melden van de werkzaamheden, waarbij gebruik wordt gemaakt van een werkbak of werkplatform aan een hijswerktuig ([artikel 7.23d, lid 4, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-86 De ZO luiden: Het door een zwangere werknemer of een werknemer tijdens de lactatie de volgende fysiek belastende bewegingen laten uitvoeren:
+177 De ODB luiden:
 
-a. dagelijks meer dan eenmaal per uur te hurken, knielen, bukken of staande voetpedalen te bedienen tijdens de laatste drie maanden van de zwangerschap;
+178 De ODB luidt: het verblijf van werknemers (vrijwilligers) in een werkbak of werkplatform waarbij de bedieningsplaats van het hijswerktuig niet bezet is ([artikel 7.23d, lid 8, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-b. meer te tillen dan 10 kilogram in één handeling gedurende de hele zwangerschap en in de periode tot drie maanden na de bevalling;
+179 De ODB luiden:
 
-c. meer dan 10 keer per dag gewichten van meer dan 5 kilogram te tillen vanaf de twintigste week van de zwangerschap;
+180 De ODB luiden:
 
-d. meer dan 5 keer per dag gewichten van meer dan 5 kilogram te tillen vanaf de dertigste week van de zwangerschap.
+181 De ODB luiden:
 
-87 De ZO luidt: Het verrichten van werkzaamheden in situaties waarbij de dagelijkse blootstelling aan lawaai, rekening houdend met de dempende werking van de door de werknemer gedragen individuele gehoorbeschermers, hoger is dan 87 dB(A) of de piekgeluidsdruk hoger is dan 200 Pa.
+182 De ZO luidt: het hijsen of heffen van luiken van schepen zonder dat deze daartoe geschikte bevestigingen hebben voor het vastmaken van hijsgereedschap.
 
-88 De ZO luidt: Het verrichten van werkzaamheden zonder individuele gehoorbescherming in situaties waarbij de dagelijkse blootstelling aan lawaai 85 dB(A) of hoger is of de piekgeluidsdruk 140 Pa of hoger is.
+183 De ZO luidt: het laden en lossen van schepen zonder dat luiken die niet afdoende tegen verplaatsing kunnen worden geborgd, verwijderd zijn.
 
-89 De ZO luiden: Het blootstellen van werknemers aan trillingen boven de grenswaarde voor blootstelling, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.11a). ( lid 2)
+184 De ZO luidt: het plaatsen of verwijderen van luiken op schepen terwijl in het ruim onder de luikopening wordt gewerkt.
 
-Het niet onverwijld treffen van maatregelen om de blootstelling terug te brengen tot onder de grenswaarde voor blootstelling, bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.11a). ( lid 3 onder a)
+185 De ZO luidt: het opnieuw gebruiken van voor eenmalig gebruik bestemde bind- of hijsmiddelen.
 
-Het niet onderzoeken van de oorzaak van de overschrijding bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.11a). ( lid 3 onder b)
+186 De ZO luidt: het niet aanwezig zijn van middelen zodat werknemers bij het aanbrengen of verwijderen van sjorringen van containers aan ernstig gevaar worden blootgesteld.
 
-Het niet aanpassen van de beschermings- en preventiemaatregelen om te voorkomen dat de grenswaarde opnieuw wordt overschreden bij overschrijding van de grenswaarde voor blootstelling aan trillingen, bedoeld in [artikel 6.11 a, tweede lid, onderdeel a, en derde lid, onderdeel a Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.11a). (lid 3 onder c)
+187 De ODB luidt: het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen.
 
-90 ZO luiden: Het blootstellen van werknemers aan kunstmatige optische straling boven de grenswaarde voor blootstelling genoemd in [artikel 6.12c van het Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12c). ([artikel 6.12e, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12e) juncto artikel 6.12c Arbobesluit)
+188 De ODB luiden:
 
-90a De ZO luidt: Het blootstellen van werknemers aan elektromagnetische velden boven de grenswaarden voor effecten op de gezondheid, tenzij is voldaan aan de voorwaarden genoemd in [artikel 6.12o](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12o) (MRI-apparatuur gezondheidszorg) of in een vrijstelling of ontheffing ([artikel 9.17c, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.17c)).
+189 De ODB luidt: het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
-90b De ZO luidt: Het niet nemen van maatregelen indien de blootstelling van werknemers aan elektromagnetische velden de grenswaarden voor effecten op de gezondheid overschrijdt, tenzij is voldaan aan de voorwaarden genoemd in [artikel 6.12o](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12o) (MRI-apparatuur gezondheidszorg) of in een vrijstelling of ontheffing ([artikel 6.12j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12j), juncto [artikel 6.12l, negende lid, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12l)).
+190 De ZO luiden:
 
-Het niet onverwijld treffen van maatregelen om de blootstelling aan kunstmatige optische straling terug te brengen tot onder de grenswaarde voor blootstelling. ([artikel 6.12e, lid 4 onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.12e))
+191 De ODB luidt: het verrichten van trekker arbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers (vrijwilligers) zonder toezicht.
 
-91 ODB luidt: Het voor de aanvang van de arbeid uitvoeren van een arbeidsgezondheidskundig onderzoek door een arts, die niet in het bezit is van een certificaat duikerarts.
+192 De ZO luidt: het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers (vrijwilligers) bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers (vrijwilligers).
 
-92 ZO luidt: Het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk zonder dat aan de beperkende voorschriften volgend uit een arbeidsgezondheidskundig onderzoek wordt voldaan.
+193 De ZO luidt: het onvoldoende er voor zorgen dat werknemers (vrijwilligers) aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers (vrijwilligers.
 
 93 ZO luidt: Het niet aan werknemers ter beschikking stellen van materiaal dat in deugdelijke staat verkeert en van voldoende ademgas van goede kwaliteit.
 
 94 ZO luidt: Het verrichten van duikarbeid zonder te worden bijgestaan door een reserveduiker en ploegleider.
 
-95 ODB luidt: Het optreden als duikploegleider zonder in het bezit te zijn van een certificaat duikploegleider met betrekking tot de soort arbeid die wordt verricht. ([artikel 6.16, lid 3, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16))
+De zware overtredingen betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen. Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege naar redelijk oordeel van de toezichthouder ernstig gevaar op grond van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’. Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbobesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
 
-Het duiken zonder in het bezit te zijn van het certificaat duikarbeid met betrekking tot de soort duikarbeid die wordt verricht. ([artikel 6.16, lid 6, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16))
+Indien de feiten zoals geformuleerd in de lijst daadwerkelijk door de inspecteur worden geconstateerd, dan is sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan. Wanneer geen sprake is van heterdaad, maar wel bewezen kan worden dat sprake was van een situatie zoals beschreven in de lijst (op basis van getuigenverklaringen en onderzoek), dan wordt eveneens direct een boete aangezegd door de inspecteur. Treft de inspecteur situaties aan die naar zijn redelijk oordeel zouden kunnen leiden tot ernstige feiten zoals geformuleerd in de lijst, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze wel bevoegd om op basis van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd.
 
-Het verrichten van duikarbeid zonder de aanwezigheid van een persoon die in het bezit is van een certificaat duikmedische begeleiding met betrekking tot de soort arbeid die hij verricht* ([artikel 6.16, lid 7, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16))
+De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
 
 96 ODB luidt: Het uitvoeren van duikarbeid:
 
-**a.**op een diepte groter dan 9 meter,
+Er bestaat een aantal overtredingen in de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen. Het gaat hierbij om feiten met betrekking tot:
 
-**b.**bij een stroomsnelheid groter dan 0,5 meter per seconde,
+Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
 **c.**met voorgenomen decompressie,
 
-**d.**met een ademgas anders dan lucht,
+De overtredingen die in de bijlage niet zijn benoemd als ZO of als ODB zijn OO.
 
 **e.**over een periode langer dan een week,
 
@@ -889,5 +889,15 @@ Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten 
 ### Overige Overtredingen (OO)
 
 De overtredingen die niet in de bijlage zijn benoemd als ZO of als ODB worden beschouwd als OO.
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Toelichting bij de verschillende typen overtredingen
+
+### Zware overtredingen (ZO)
+
+### Overtredingen waarop direct een boete volgt (ODB)
+
+### Overige overtredingen (OO)
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
