@@ -4,7 +4,7 @@ identifier: "BWBR0032303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-02-27"
-last_updated: "2013-01-01"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032303"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Veiligheidsregio Brabant-Zuidoost is voor regio Brabant-Zuidoost de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4).
+GGD Brabant-Zuidoost is voor regio Brabant-Zuidoost de Regionale Ambulancevoorziening, bedoeld in [artikel 4, tweede lid, van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4).
 
 ##### Artikel 2
 
