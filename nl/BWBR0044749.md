@@ -4,7 +4,7 @@ identifier: "BWBR0044749"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-02-17"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044749"
 soort: "wet"
@@ -46,8 +46,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 ##### Artikel I. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
 
