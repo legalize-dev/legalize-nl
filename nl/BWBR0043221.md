@@ -4,7 +4,7 @@ identifier: "BWBR0043221"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2020-02-28"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043221"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 2
 
-Aan de voorzitter van het Steering Committee van Oxfam Novib/Hivos wordt mandaat en machtiging verleend om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen en voorbereidingshandelingen te verrichten op bezwaarschriften tegen besluiten, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043221&artikel=1&z=2020-02-28&g=2020-02-28), die door de functionarissen, bedoeld in artikel 1, eerste lid, onder a en b, namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking zijn genomen of behandeld.
+Aan de voorzitter van het Steering Committee van Oxfam Novib/Hivos wordt mandaat en machtiging verleend om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen en voorbereidingshandelingen te verrichten op bezwaarschriften tegen besluiten, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043221&artikel=1&z=2020-02-28&g=2021-03-01), die door de functionarissen, bedoeld in artikel 1, eerste lid, onder a en b, namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking zijn genomen of behandeld.
 
 ##### Artikel 3
 
