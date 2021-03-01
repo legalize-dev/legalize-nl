@@ -4,7 +4,7 @@ identifier: "BWBV0006725"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-03-01"
-last_updated: "2017-11-24"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006725"
 soort: "verdrag"
@@ -378,7 +378,7 @@ De partijen komen overeen samen te werken om een hoog niveau van bescherming van
 
 ##### Artikel 19. Samenwerking in de strijd tegen terrorisme
 
-1. In overeenstemming met de beginselen die ten grondslag liggen aan de strijd tegen het terrorisme als beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=II&artikel=11&z=2017-11-24&g=2017-11-24), bevestigen de partijen opnieuw het belang van rechtshandhaving en een justitiële aanpak in de strijd tegen het terrorisme en komen zij overeen samen te werken bij de voorkoming en bestrijding van terrorisme, in het bijzonder door:
+1. In overeenstemming met de beginselen die ten grondslag liggen aan de strijd tegen het terrorisme als beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=II&artikel=11&z=2021-03-01&g=2021-03-01), bevestigen de partijen opnieuw het belang van rechtshandhaving en een justitiële aanpak in de strijd tegen het terrorisme en komen zij overeen samen te werken bij de voorkoming en bestrijding van terrorisme, in het bijzonder door:
 
 - a. informatie uit te wisselen over terroristische groepen en personen en de hen ondersteunende netwerken, overeenkomstig het nationale en internationale recht, in het bijzonder ten aanzien van gegevensbescherming en bescherming van de persoonlijke levenssfeer;
 
@@ -450,7 +450,7 @@ De partijen werken samen ter versterking van goed bestuur op fiscaal gebied, ten
 
 ##### Artikel 26
 
-Ten aanzien van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=IV&hoofdstuk=2&artikel=25&z=2017-11-24&g=2017-11-24) erkennen de partijen de beginselen van goed bestuur op fiscaal gebied, dat wil zeggen de beginselen van transparantie, uitwisseling van inlichtingen en eerlijke belastingconcurrentie, zoals de lidstaten die op het niveau van de Europese Unie onderschrijven, en verbinden de partijen zich tot tenuitvoerlegging van deze beginselen. De partijen streven daartoe naar betere internationale samenwerking op fiscaal gebied, vergemakkelijking van het innen van belastingen en het opzetten van maatregelen voor de doelmatige uitvoering van deze beginselen van goed bestuur, zonder afbreuk te doen aan de bevoegdheden van de Europese Unie en de lidstaten.
+Ten aanzien van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=IV&hoofdstuk=2&artikel=25&z=2021-03-01&g=2021-03-01) erkennen de partijen de beginselen van goed bestuur op fiscaal gebied, dat wil zeggen de beginselen van transparantie, uitwisseling van inlichtingen en eerlijke belastingconcurrentie, zoals de lidstaten die op het niveau van de Europese Unie onderschrijven, en verbinden de partijen zich tot tenuitvoerlegging van deze beginselen. De partijen streven daartoe naar betere internationale samenwerking op fiscaal gebied, vergemakkelijking van het innen van belastingen en het opzetten van maatregelen voor de doelmatige uitvoering van deze beginselen van goed bestuur, zonder afbreuk te doen aan de bevoegdheden van de Europese Unie en de lidstaten.
 
 ##### Artikel 27
 
@@ -966,7 +966,7 @@ De partijen bevorderen samenwerking op alle gebieden van civiel wetenschappelijk
 
 ##### Artikel 79
 
-De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=V&hoofdstuk=13&artikel=78&z=2017-11-24&g=2017-11-24) bedoelde samenwerking bestrijkt:
+De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=V&hoofdstuk=13&artikel=78&z=2021-03-01&g=2021-03-01) bedoelde samenwerking bestrijkt:
 
 - a. een beleidsdialoog en uitwisseling van wetenschappelijke en technologische informatie;
 
@@ -984,7 +984,7 @@ De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=V&h
 
 ##### Artikel 80
 
-Bij het uitvoeren van dergelijke samenwerkingsactiviteiten moet worden gestreefd naar synergieën met activiteiten die worden gefinancierd door het Internationaal Centrum voor Wetenschap en Technologie („ISTC”) en andere activiteiten in het kader van de financiële samenwerking tussen de Europese Unie en de Republiek Armenië, als bedoeld in [titel VII, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VII&hoofdstuk=1&z=2017-11-24&g=2017-11-24).
+Bij het uitvoeren van dergelijke samenwerkingsactiviteiten moet worden gestreefd naar synergieën met activiteiten die worden gefinancierd door het Internationaal Centrum voor Wetenschap en Technologie („ISTC”) en andere activiteiten in het kader van de financiële samenwerking tussen de Europese Unie en de Republiek Armenië, als bedoeld in [titel VII, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VII&hoofdstuk=1&z=2021-03-01&g=2021-03-01).
 
 ### HOOFDSTUK 14. CONSUMENTENBESCHERMING
 
@@ -1302,7 +1302,7 @@ Geen van beide partijen stelt douanerechten, belastingen of andere heffingen vas
 
 1. De partijen behandelen gereviseerde goederen op dezelfde manier als gelijkaardige nieuwe goederen. Een partij kan eisen dat gereviseerde goederen van een specifiek etiket worden voorzien om misleiding van de consument te voorkomen.
 
-2. Voor alle duidelijkheid: [artikel 117, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=1&artikel=117&z=2017-11-24&g=2017-11-24), is van toepassing op verboden en beperkingen op gereviseerde goederen.
+2. Voor alle duidelijkheid: [artikel 117, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=1&artikel=117&z=2021-03-01&g=2021-03-01), is van toepassing op verboden en beperkingen op gereviseerde goederen.
 
 3. In overeenstemming met haar verplichtingen in het kader van deze overeenkomst en de [WTO-overeenkomst](onbekend) kan een partij eisen dat gereviseerde goederen:
 
@@ -1372,7 +1372,7 @@ De partijen achten het beginsel van de vrije doorvoer een essentiële voorwaarde
 
 ##### Artikel 124. Wederzijdse administratieve bijstand
 
-Onverminderd andere vormen van samenwerking waarin deze overeenkomst voorziet, met name in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=123&z=2017-11-24&g=2017-11-24), verlenen de partijen elkaar wederzijdse administratieve bijstand in douaneaangelegenheden, overeenkomstig de bepalingen van Protocol II inzake wederzijdse administratieve bijstand in douaneaangelegenheden bij deze overeenkomst.
+Onverminderd andere vormen van samenwerking waarin deze overeenkomst voorziet, met name in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=123&z=2021-03-01&g=2021-03-01), verlenen de partijen elkaar wederzijdse administratieve bijstand in douaneaangelegenheden, overeenkomstig de bepalingen van Protocol II inzake wederzijdse administratieve bijstand in douaneaangelegenheden bij deze overeenkomst.
 
 ##### Artikel 125. Douanewaarde
 
@@ -1440,7 +1440,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 ##### Artikel 131. Markering en etikettering
 
-1. Onverminderd [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=3&artikel=129&z=2017-11-24&g=2017-11-24) van deze overeenkomst bevestigen de partijen met betrekking tot de technische voorschriften voor de etikettering of merktekens opnieuw de beginselen van [artikel 2, lid 2, van de Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2), dat die voorschriften niet moeten worden opgesteld, vastgesteld of toegepast met het oogmerk of gevolg dat er onnodige belemmeringen voor de internationale handel ontstaan. Daartoe mogen dergelijke voorschriften voor de etikettering of merktekens de handel niet meer beperken dan voor het bereiken van een legitieme doelstelling noodzakelijk is, waarbij acht moet worden geslagen op de risico’s die zouden ontstaan wanneer niet aan die voorschriften wordt voldaan. De partijen bevorderen het gebruik van internationaal geharmoniseerde voorschriften voor merktekens. In voorkomend geval streven de partijen naar het gebruik van afneembare, niet-permanente etikettering.
+1. Onverminderd [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=3&artikel=129&z=2021-03-01&g=2021-03-01) van deze overeenkomst bevestigen de partijen met betrekking tot de technische voorschriften voor de etikettering of merktekens opnieuw de beginselen van [artikel 2, lid 2, van de Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2), dat die voorschriften niet moeten worden opgesteld, vastgesteld of toegepast met het oogmerk of gevolg dat er onnodige belemmeringen voor de internationale handel ontstaan. Daartoe mogen dergelijke voorschriften voor de etikettering of merktekens de handel niet meer beperken dan voor het bereiken van een legitieme doelstelling noodzakelijk is, waarbij acht moet worden geslagen op de risico’s die zouden ontstaan wanneer niet aan die voorschriften wordt voldaan. De partijen bevorderen het gebruik van internationaal geharmoniseerde voorschriften voor merktekens. In voorkomend geval streven de partijen naar het gebruik van afneembare, niet-permanente etikettering.
 
 2. Meer bepaald geldt voor de partijen in verband met verplichte voorschriften voor de etikettering of merktekens het volgende:
 
@@ -1450,7 +1450,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 ##### Artikel 132. Transparantie
 
-1. Onverminderd [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=12&z=2017-11-24&g=2017-11-24) zorgt elke partij ervoor dat tijdens de procedures voor de ontwikkeling van technische voorschriften en conformiteitsbeoordelingsprocedures belanghebbenden worden geraadpleegd in een vroeg en passend stadium, wanneer het nog mogelijk is om rekening te houden met hun opmerkingen en deze te verwerken, behalve als dit niet mogelijk is in geval van een noodsituatie of een dreigende noodsituatie in verband met veiligheid, volksgezondheid, milieubescherming of nationale veiligheid.
+1. Onverminderd [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=12&z=2021-03-01&g=2021-03-01) zorgt elke partij ervoor dat tijdens de procedures voor de ontwikkeling van technische voorschriften en conformiteitsbeoordelingsprocedures belanghebbenden worden geraadpleegd in een vroeg en passend stadium, wanneer het nog mogelijk is om rekening te houden met hun opmerkingen en deze te verwerken, behalve als dit niet mogelijk is in geval van een noodsituatie of een dreigende noodsituatie in verband met veiligheid, volksgezondheid, milieubescherming of nationale veiligheid.
 
 2. Overeenkomstig [artikel 2, lid 9, van de Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2) voorziet elke partij in een periode voor het indienen van opmerkingen in een vroeg en passend stadium na de kennisgeving van de voorgestelde technische voorschriften of conformiteitsbeoordelingsprocedures. Indien een overlegproces plaatsvindt over voorgestelde technische voorschriften of conformiteitsbeoordelingsprocedures dat openstaat voor het publiek, stelt elke partij de andere partij, of natuurlijke personen of rechtspersonen van de andere partij, in staat deel te nemen aan het openbare overleg onder dezelfde voorwaarden als die gelden voor de eigen natuurlijke personen of rechtspersonen.
 
@@ -1478,7 +1478,7 @@ De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [Overeenk
 
 ##### Artikel 136. Invoervereisten
 
-1. De invoervereisten van de partij van invoer gelden voor het hele grondgebied van de partij van uitvoer, met inachtneming van [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=4&artikel=137&z=2017-11-24&g=2017-11-24).
+1. De invoervereisten van de partij van invoer gelden voor het hele grondgebied van de partij van uitvoer, met inachtneming van [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=4&artikel=137&z=2021-03-01&g=2021-03-01).
 
 2. De invoervereisten die in certificaten worden vastgesteld, worden gebaseerd op de beginselen van de Codex alimentarius, de Wereldorganisatie voor diergezondheid en het [Internationaal Verdrag voor de bescherming van planten](onbekend), tenzij de invoervereisten stoelen op een wetenschappelijk verantwoorde risico-evaluatie die in overeenstemming met de bepalingen van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) is uitgevoerd.
 
@@ -1522,9 +1522,9 @@ Elke partij zal:
 
 1. De partijen herbevestigen hun respectievelijke verbintenissen ingevolge de [WTO-overeenkomst](onbekend), en leggen hierbij de noodzakelijke regels vast voor de geleidelijke wederzijdse liberalisering van het recht van vestiging en van de handel in diensten, alsmede voor samenwerking op het gebied van elektronische handel.
 
-2. Niets in dit hoofdstuk kan zodanig worden uitgelegd dat een verplichting wordt opgelegd met betrekking tot overheidsopdrachten, die voorwerp zijn van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=8&z=2017-11-24&g=2017-11-24).
+2. Niets in dit hoofdstuk kan zodanig worden uitgelegd dat een verplichting wordt opgelegd met betrekking tot overheidsopdrachten, die voorwerp zijn van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=8&z=2021-03-01&g=2021-03-01).
 
-3. Dit hoofdstuk is niet van toepassing op door een partij verleende subsidies, die in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&z=2017-11-24&g=2017-11-24) worden behandeld.
+3. Dit hoofdstuk is niet van toepassing op door een partij verleende subsidies, die in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&z=2021-03-01&g=2021-03-01) worden behandeld.
 
 4. Overeenkomstig dit hoofdstuk behoudt elke partij het recht nieuwe regelingen in te voeren en te handhaven om legitieme beleidsdoelstellingen te bereiken.
 
@@ -1632,7 +1632,7 @@ Geen enkele bepaling van dit hoofdstuk kan zodanig worden uitgelegd dat de recht
 
 ##### Artikel 147. Norm voor behandeling van filialen en vertegenwoordigingskantoren
 
-1. Het bepaalde in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24) vormt geen beletsel voor de toepassing door een partij van bijzondere maatregelen met betrekking tot de vestiging en exploitatie op haar grondgebied van filialen en vertegenwoordigingskantoren van rechtspersonen van de andere partij die op het grondgebied van eerstgenoemde partij niet als rechtspersoon zijn erkend, wanneer deze bijzondere regels op grond van juridische of technische verschillen tussen bedoelde filialen en vertegenwoordigingskantoren en filialen en vertegenwoordigingskantoren van op het grondgebied van eerstgenoemde partij erkende rechtspersonen of, voor wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
+1. Het bepaalde in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01) vormt geen beletsel voor de toepassing door een partij van bijzondere maatregelen met betrekking tot de vestiging en exploitatie op haar grondgebied van filialen en vertegenwoordigingskantoren van rechtspersonen van de andere partij die op het grondgebied van eerstgenoemde partij niet als rechtspersoon zijn erkend, wanneer deze bijzondere regels op grond van juridische of technische verschillen tussen bedoelde filialen en vertegenwoordigingskantoren en filialen en vertegenwoordigingskantoren van op het grondgebied van eerstgenoemde partij erkende rechtspersonen of, voor wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
 
 2. Het verschil in behandeling blijft beperkt tot hetgeen als gevolg van dergelijke juridische of technische verschillen strikt noodzakelijk is of, wat financiële diensten betreft, tot hetgeen om prudentiële redenen noodzakelijk is.
 
@@ -1688,13 +1688,13 @@ Deze afdeling is van toepassing op maatregelen van de partijen die van invloed z
 
 ##### Artikel 152. Evaluatie
 
-Met het oog op de geleidelijke liberalisering van de grensoverschrijdende dienstverlening tussen de partijen herziet het Partnerschapscomité, in zijn samenstelling voor handelsvraagstukken, regelmatig de in de artikelen 149 tot en met 151 bedoelde lijsten van verbintenissen. Bij deze evaluatie wordt onder meer rekening gehouden met het proces van geleidelijke aanpassing, als bedoeld in de [artikelen 169](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=IV&artikel=169&z=2017-11-24&g=2017-11-24), [180](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=180&z=2017-11-24&g=2017-11-24) en [192](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VII&artikel=192&z=2017-11-24&g=2017-11-24), en de impact daarvan op de afschaffing van resterende belemmeringen voor de grensoverschrijdende dienstverlening tussen de partijen.
+Met het oog op de geleidelijke liberalisering van de grensoverschrijdende dienstverlening tussen de partijen herziet het Partnerschapscomité, in zijn samenstelling voor handelsvraagstukken, regelmatig de in de artikelen 149 tot en met 151 bedoelde lijsten van verbintenissen. Bij deze evaluatie wordt onder meer rekening gehouden met het proces van geleidelijke aanpassing, als bedoeld in de [artikelen 169](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=IV&artikel=169&z=2021-03-01&g=2021-03-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=180&z=2021-03-01&g=2021-03-01) en [192](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VII&artikel=192&z=2021-03-01&g=2021-03-01), en de impact daarvan op de afschaffing van resterende belemmeringen voor de grensoverschrijdende dienstverlening tussen de partijen.
 
 ### AFDELING D. TIJDELIJK VERBLIJF VAN NATUURLIJKE PERSONEN VOOR ZAKEN
 
 ##### Artikel 153. Toepassingsgebied en definities
 
-1. Deze afdeling is van toepassing op maatregelen van de partijen betreffende de toelating tot en het tijdelijke verblijf op hun grondgebied van stafpersoneel, trainees, handelsvertegenwoordigers, dienstverleners op contractbasis en beoefenaren van een vrij beroep, onverminderd het bepaalde in [artikel 141, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=A&artikel=141&z=2017-11-24&g=2017-11-24).
+1. Deze afdeling is van toepassing op maatregelen van de partijen betreffende de toelating tot en het tijdelijke verblijf op hun grondgebied van stafpersoneel, trainees, handelsvertegenwoordigers, dienstverleners op contractbasis en beoefenaren van een vrij beroep, onverminderd het bepaalde in [artikel 141, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=A&artikel=141&z=2021-03-01&g=2021-03-01).
 
 2. Voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -1726,13 +1726,13 @@ Met het oog op de geleidelijke liberalisering van de grensoverschrijdende dienst
 
 ##### Artikel 154. Stafpersoneel en trainees
 
-1. Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24) worden aangegaan, staat elk van beide partijen, behoudens de in bijlage VIII-C opgenomen voorbehouden, ondernemers van de andere partij toe natuurlijke personen uit die andere partij naar hun vestiging over te plaatsen, mits die werknemers behoren tot het stafpersoneel dan wel trainee als bedoeld in [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&artikel=153&z=2017-11-24&g=2017-11-24) zijn. De toegang en het tijdelijke verblijf van stafpersoneel en trainees vinden plaats voor een periode van ten hoogste drie jaar voor binnen de onderneming overgeplaatste personen, van ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers voor vestigingsdoeleinden, en van ten hoogste één jaar voor trainees.
+1. Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01) worden aangegaan, staat elk van beide partijen, behoudens de in bijlage VIII-C opgenomen voorbehouden, ondernemers van de andere partij toe natuurlijke personen uit die andere partij naar hun vestiging over te plaatsen, mits die werknemers behoren tot het stafpersoneel dan wel trainee als bedoeld in [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&artikel=153&z=2021-03-01&g=2021-03-01) zijn. De toegang en het tijdelijke verblijf van stafpersoneel en trainees vinden plaats voor een periode van ten hoogste drie jaar voor binnen de onderneming overgeplaatste personen, van ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers voor vestigingsdoeleinden, en van ten hoogste één jaar voor trainees.
 
-2. Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24) worden aangegaan, worden de maatregelen die een partij niet mag handhaven of vaststellen voor een bepaalde regio of voor haar gehele grondgebied, tenzij anders bepaald in bijlage VIII-C, omschreven als beperkingen van het totale aantal natuurlijke personen dat een ondernemer als stafpersoneel of als trainees in een bepaalde sector in dienst mag nemen, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte, en als discriminerende beperkingen.
+2. Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01) worden aangegaan, worden de maatregelen die een partij niet mag handhaven of vaststellen voor een bepaalde regio of voor haar gehele grondgebied, tenzij anders bepaald in bijlage VIII-C, omschreven als beperkingen van het totale aantal natuurlijke personen dat een ondernemer als stafpersoneel of als trainees in een bepaalde sector in dienst mag nemen, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte, en als discriminerende beperkingen.
 
 ##### Artikel 155. Handelsvertegenwoordigers
 
-Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24) worden aangegaan, staat elk van beide partijen, behoudens de in bijlage VIII-C opgenomen voorbehouden, de toegang en het tijdelijke verblijf van handelsvertegenwoordigers toe voor een periode van ten hoogste negentig dagen gedurende een periode van twaalf maanden.
+Voor elke sector waarvoor verbintenissen overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01) worden aangegaan, staat elk van beide partijen, behoudens de in bijlage VIII-C opgenomen voorbehouden, de toegang en het tijdelijke verblijf van handelsvertegenwoordigers toe voor een periode van ten hoogste negentig dagen gedurende een periode van twaalf maanden.
 
 ##### Artikel 156. Dienstverleners op contractbasis
 
@@ -1788,7 +1788,7 @@ Overeenkomstig de bijlagen VIII-D en VIII-G staat elke partij toe dat beoefenare
 
 - b. de vestiging op hun grondgebied van natuurlijke personen of rechtspersonen van een partij; alsmede
 
-- c. het tijdelijke verblijf op hun grondgebied van de categorieën natuurlijke personen die zijn genoemd in [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&artikel=153&z=2017-11-24&g=2017-11-24).
+- c. het tijdelijke verblijf op hun grondgebied van de categorieën natuurlijke personen die zijn genoemd in [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&artikel=153&z=2021-03-01&g=2021-03-01).
 
 2. Wat grensoverschrijdende dienstverlening aangaat, is deze afdeling alleen van toepassing op sectoren waarvoor de partij specifieke verbintenissen is aangegaan, en voor zover die specifieke verbintenissen van toepassing zijn. Wat vestiging aangaat, is deze afdeling niet van toepassing op sectoren voor zover een voorbehoud is gemaakt overeenkomstig de bijlagen VIII-A en VIII-E. Wat het tijdelijke verblijf van natuurlijke personen aangaat, is deze afdeling niet van toepassing op sectoren voor zover een voorbehoud is gemaakt overeenkomstig de bijlagen VIII-C, VIII-D en VIII-G.
 
@@ -1880,7 +1880,7 @@ Overeenkomstig de bijlagen VIII-D en VIII-G staat elke partij toe dat beoefenare
 
 ##### Artikel 163. Afspraak over diensten in verband met computers
 
-1. Bij de liberalisering van de handel in diensten in verband met computers overeenkomstig de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24), gelden voor de partijen de bepalingen van de leden 2 tot en met 4.
+1. Bij de liberalisering van de handel in diensten in verband met computers overeenkomstig de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01), gelden voor de partijen de bepalingen van de leden 2 tot en met 4.
 
 2. De centrale productenclassificatie („CPC”20)De centrale productenclassificatie, zoals vastgesteld in „Statistical Office of the United Nations, Statistical Papers, Series M, N° 77, CPC prov, 1991”.) 84, de VN-code die wordt gebruikt voor het beschrijven van diensten in verband met computers, heeft betrekking op de basisfuncties voor alle diensten in verband met computers: computerprogramma’s, gedefinieerd als de instructies waardoor computers kunnen werken en met elkaar kunnen communiceren (met inbegrip van de ontwikkeling en implementatie ervan), gegevensverwerking en -opslag, en aanverwante diensten, zoals het geven van adviezen en opleidingen aan het personeel van klanten. De technologische ontwikkeling heeft geleid tot een toename van het aanbod van deze diensten als een pakket aanverwante diensten die alle of een deel van die basisfuncties kunnen omvatten. Zo bestaan diensten als web- of domeinhosting, datamining en gridcomputing allemaal uit een combinatie van basisfuncties van diensten in verband met computers.
 
@@ -1904,7 +1904,7 @@ Overeenkomstig de bijlagen VIII-D en VIII-G staat elke partij toe dat beoefenare
 
 1. Deze onderafdeling bevat de beginselen van het regelgevingskader voor alle postdiensten.
 
-2. Voor de toepassing van deze onderafdeling en van de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24), gelden de volgende definities:
+2. Voor de toepassing van deze onderafdeling en van de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01), gelden de volgende definities:
 
 - a. „vergunning”: een vergunning die door een regelgevende autoriteit aan een individuele aanbieder moet worden verleend alvorens deze een bepaalde activiteit mag uitvoeren of een bepaalde dienst mag verlenen; alsmede
 
@@ -1948,7 +1948,7 @@ De partijen erkennen het belang van de geleidelijke aanpassing van de wetgeving 
 
 ##### Artikel 170. Toepassingsgebied en definities
 
-1. Deze onderafdeling bevat de beginselen van het regelgevingskader voor de verstrekking van elektronische-communicatienetwerken en -diensten die ingevolge de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24) zijn geliberaliseerd.
+1. Deze onderafdeling bevat de beginselen van het regelgevingskader voor de verstrekking van elektronische-communicatienetwerken en -diensten die ingevolge de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01) zijn geliberaliseerd.
 
 2. Voor de toepassing van deze onderafdeling gelden de volgende definities:
 
@@ -2048,7 +2048,7 @@ Administratieve kosten als bedoeld in de eerste alinea omvatten geen veiling- of
 
 2. De stand van zaken met betrekking tot toegewezen frequentiebanden wordt algemeen bekendgemaakt, maar een gedetailleerde vermelding van radiospectra die voor specifiek gebruik door de overheid zijn toegewezen, is niet vereist.
 
-3. Elke partij behoudt het recht maatregelen voor het vaststellen en toepassen van spectra en frequenties te treffen die tot gevolg kunnen hebben dat het aantal aanbieders van elektronische-communicatiediensten wordt beperkt, op voorwaarde dat dit geschiedt op een manier die overeenstemt met deze overeenkomst. Dit recht omvat de mogelijkheid om frequentiebanden toe te wijzen rekening houdend met bestaande en toekomstige behoeften en spectrumbeschikbaarheid. De maatregelen die een partij treft voor de toewijzing en toekenning van spectra en voor het beheer van de frequenties, worden niet beschouwd als maatregelen die op zich in strijd zijn met de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24), [149](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=149&z=2017-11-24&g=2017-11-24) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2017-11-24&g=2017-11-24).
+3. Elke partij behoudt het recht maatregelen voor het vaststellen en toepassen van spectra en frequenties te treffen die tot gevolg kunnen hebben dat het aantal aanbieders van elektronische-communicatiediensten wordt beperkt, op voorwaarde dat dit geschiedt op een manier die overeenstemt met deze overeenkomst. Dit recht omvat de mogelijkheid om frequentiebanden toe te wijzen rekening houdend met bestaande en toekomstige behoeften en spectrumbeschikbaarheid. De maatregelen die een partij treft voor de toewijzing en toekenning van spectra en voor het beheer van de frequenties, worden niet beschouwd als maatregelen die op zich in strijd zijn met de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01), [149](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=149&z=2021-03-01&g=2021-03-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 174. Toegang en interconnectie
 
@@ -2102,7 +2102,7 @@ Elke partij waarborgt het vertrouwelijke karakter van elektronische communicatie
 
 2. Indien een dergelijk geschil betrekking heeft op grensoverschrijdende dienstverlening, coördineren de regelgevende autoriteiten hun inspanningen om het geschil tot een oplossing te brengen.
 
-3. De beslissing van de regelgevende autoriteit wordt openbaar gemaakt, met inachtneming van de vereisten inzake vertrouwelijke bedrijfsgegevens. De betrokken partijen krijgen een volledig verslag van de redenen waarop het besluit is gebaseerd, en hebben het recht ertegen in beroep te gaan, overeenkomstig [artikel 171, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=171&z=2017-11-24&g=2017-11-24).
+3. De beslissing van de regelgevende autoriteit wordt openbaar gemaakt, met inachtneming van de vereisten inzake vertrouwelijke bedrijfsgegevens. De betrokken partijen krijgen een volledig verslag van de redenen waarop het besluit is gebaseerd, en hebben het recht ertegen in beroep te gaan, overeenkomstig [artikel 171, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=171&z=2021-03-01&g=2021-03-01).
 
 4. De procedure van dit artikel laat het recht van elk van de betrokken partijen om bij de rechterlijke instanties een procedure in te leiden, onverlet.
 
@@ -2114,7 +2114,7 @@ De partijen erkennen het belang van de geleidelijke aanpassing van de wetgeving 
 
 ##### Artikel 181. Toepassingsgebied en definities
 
-1. Deze onderafdeling heeft betrekking op maatregelen inzake de verlening van financiële diensten, waar financiële diensten geliberaliseerd worden krachtens de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24).
+1. Deze onderafdeling heeft betrekking op maatregelen inzake de verlening van financiële diensten, waar financiële diensten geliberaliseerd worden krachtens de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01).
 
 2. Voor de toepassing van dit hoofdstuk betekent „financiële dienst” elke dienst van financiële aard, aangeboden door een verlener van financiële diensten van een partij. Financiële diensten omvatten verzekeringen en verzekeringgerelateerde diensten, alsook bank- en andere financiële diensten.
 
@@ -2224,7 +2224,7 @@ Op verzoek van een aanvrager stelt de desbetreffende partij deze in kennis van d
 
 ##### Artikel 184. Nieuwe financiële diensten
 
-Elke partij staat verleners van financiële diensten uit de andere partij toe nieuwe financiële diensten te verlenen die soortgelijk zijn aan diensten voor het verlenen waarvan zij krachtens haar interne wetgeving onder vergelijkbare omstandigheden aan haar eigen verleners van financiële diensten toestemming zou verlenen. De betrokken partij kan de rechtsvorm vaststellen waarin de dienst kan worden verleend en kan de verlening van de betrokken dienst aan een vergunningsplicht onderwerpen. Wanneer een vergunning vereist is, wordt hieromtrent binnen een redelijke termijn een besluit genomen en de vergunning kan uitsluitend worden geweigerd om prudentiële redenen, overeenkomstig [artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VI&artikel=182&z=2017-11-24&g=2017-11-24).
+Elke partij staat verleners van financiële diensten uit de andere partij toe nieuwe financiële diensten te verlenen die soortgelijk zijn aan diensten voor het verlenen waarvan zij krachtens haar interne wetgeving onder vergelijkbare omstandigheden aan haar eigen verleners van financiële diensten toestemming zou verlenen. De betrokken partij kan de rechtsvorm vaststellen waarin de dienst kan worden verleend en kan de verlening van de betrokken dienst aan een vergunningsplicht onderwerpen. Wanneer een vergunning vereist is, wordt hieromtrent binnen een redelijke termijn een besluit genomen en de vergunning kan uitsluitend worden geweigerd om prudentiële redenen, overeenkomstig [artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VI&artikel=182&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 185. Gegevensverwerking
 
@@ -2244,11 +2244,11 @@ Elke partij staat verleners van financiële diensten uit de andere partij toe ni
 
 ##### Artikel 187. Zelfregulerende organisaties
 
-Wanneer een partij het lidmaatschap van of deelname aan dan wel toegang tot een zelfregulerend lichaam, effecten- of termijnbeurs of effecten- of termijnmarkt, clearinmaatschappijen of een andere organisatie of vereniging als voorwaarde stelt voor verleners van financiële diensten uit de andere partij om op voet van gelijkheid met haar eigen verleners van financiële diensten financiële diensten te kunnen verlenen, of wanneer zij dergelijke entiteiten direct of indirect voorrechten of voordelen voor de verlening van financiële diensten toekent, waarborgt zij dat de verplichtingen van de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2017-11-24&g=2017-11-24) worden nageleefd.
+Wanneer een partij het lidmaatschap van of deelname aan dan wel toegang tot een zelfregulerend lichaam, effecten- of termijnbeurs of effecten- of termijnmarkt, clearinmaatschappijen of een andere organisatie of vereniging als voorwaarde stelt voor verleners van financiële diensten uit de andere partij om op voet van gelijkheid met haar eigen verleners van financiële diensten financiële diensten te kunnen verlenen, of wanneer zij dergelijke entiteiten direct of indirect voorrechten of voordelen voor de verlening van financiële diensten toekent, waarborgt zij dat de verplichtingen van de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2021-03-01&g=2021-03-01) worden nageleefd.
 
 ##### Artikel 188. Clearing- en betalingssystemen
 
-Onder de voorwaarden voor toekenning van nationale behandeling als bedoeld in de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2017-11-24&g=2017-11-24), verschaft elke partij aan op haar grondgebied gevestigde verleners van financiële diensten van de andere partij toegang tot betalings- en clearingsystemen van openbare instanties, alsmede tot voor de normale bedrijfsvoering beschikbare officiële financierings- en herfinancieringsfaciliteiten. Dit artikel beoogt geen toegang te verschaffen tot de faciliteiten van kredietverstrekker in laatste instantie van een partij.
+Onder de voorwaarden voor toekenning van nationale behandeling als bedoeld in de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2021-03-01&g=2021-03-01), verschaft elke partij aan op haar grondgebied gevestigde verleners van financiële diensten van de andere partij toegang tot betalings- en clearingsystemen van openbare instanties, alsmede tot voor de normale bedrijfsvoering beschikbare officiële financierings- en herfinancieringsfaciliteiten. Dit artikel beoogt geen toegang te verschaffen tot de faciliteiten van kredietverstrekker in laatste instantie van een partij.
 
 ##### Artikel 189. Financiële stabiliteit en regulering van financiële diensten in de Republiek Armenië
 
@@ -2258,11 +2258,11 @@ De partijen erkennen het belang van een adequate regulering van de financiële d
 
 ##### Artikel 190. Toepassingsgebied en doelstellingen
 
-Deze onderafdeling bevat de beginselen voor de liberalisering, op grond van met de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24), van internationale vervoersdiensten.
+Deze onderafdeling bevat de beginselen voor de liberalisering, op grond van met de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01), van internationale vervoersdiensten.
 
 ##### Artikel 191. Definities
 
-1. Voor de toepassing van deze onderafdeling en van de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2017-11-24&g=2017-11-24), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2017-11-24&g=2017-11-24), gelden de volgende definities:
+1. Voor de toepassing van deze onderafdeling en van de [afdelingen B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&z=2021-03-01&g=2021-03-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01), en [D](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=D&z=2021-03-01&g=2021-03-01), gelden de volgende definities:
 
 - a. „internationaal zeevervoer”: vervoer van deur tot deur en multimodaal vervoer, zijnde het vervoer van goederen met behulp van meer dan één wijze van vervoer, waaronder vervoer over zee, met een enkel vervoersdocument, en in verband daarmee ook het recht om rechtstreeks met dienstverleners voor andere wijzen van vervoer contracten te sluiten;
 
@@ -2324,7 +2324,7 @@ De partijen erkennen het belang van de geleidelijke aanpassing van de wetgeving 
 
 2. De partijen zijn het erover eens dat de ontwikkeling van de elektronische handel volledig in overeenstemming moet zijn met de strengste internationale normen inzake gegevensbescherming, teneinde ervoor te zorgen dat de gebruikers vertrouwen in de elektronische handel hebben.
 
-3. De partijen komen overeen dat elektronische transmissies worden beschouwd als dienstverlening in de zin van [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2017-11-24&g=2017-11-24), die niet aan douanerechten kan worden onderworpen.
+3. De partijen komen overeen dat elektronische transmissies worden beschouwd als dienstverlening in de zin van [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&z=2021-03-01&g=2021-03-01), die niet aan douanerechten kan worden onderworpen.
 
 ##### Artikel 194. Regelgevingsaspecten van elektronische handel
 
@@ -2392,7 +2392,7 @@ Beide partijen erkennen dat derde partijen voor activiteiten die een inbreuk vor
 
 ##### Artikel 199. Geen algemene toezichtverplichting
 
-1. De partijen leggen de aanbieders van de diensten geen algemene verplichting op om bij het aanbieden van de in de [artikelen 196](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=196&z=2017-11-24&g=2017-11-24), [197](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=197&z=2017-11-24&g=2017-11-24) en [198](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=198&z=2017-11-24&g=2017-11-24) bedoelde diensten toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.
+1. De partijen leggen de aanbieders van de diensten geen algemene verplichting op om bij het aanbieden van de in de [artikelen 196](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=196&z=2021-03-01&g=2021-03-01), [197](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=197&z=2021-03-01&g=2021-03-01) en [198](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=F&paragraaf=II&artikel=198&z=2021-03-01&g=2021-03-01) bedoelde diensten toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.
 
 2. Elke partij kan aanbieders van diensten van de informatiemaatschappij verplichten om de bevoegde overheidsautoriteiten onverwijld in kennis te stellen van vermeende onwettige activiteiten of informatie van de afnemers van hun dienst, of verplichten om de bevoegde autoriteiten op hun verzoek informatie te verstrekken die kan dienen tot het achterhalen van afnemers van hun dienst waarmee zij een opslagovereenkomst hebben.
 
@@ -2420,7 +2420,7 @@ Beide partijen erkennen dat derde partijen voor activiteiten die een inbreuk vor
 
 - iii. de veiligheid; of
 
-- f. strijdig zijn met de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2017-11-24&g=2017-11-24), mits het verschil in behandeling bedoeld is om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen ten aanzien van economische activiteiten, ondernemers of dienstverleners uit de andere partij24)Maatregelen die bedoeld zijn om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen, omvatten maatregelen die een partij op grond van haar belastingstelsel neemt en die:i.van toepassing zijn op ondernemers en dienstverleners die geen ingezetenen zijn, gezien het feit dat de fiscale verplichtingen van niet-ingezetenen worden vastgesteld op grond van belastbare feiten die hun oorsprong vinden of geschieden op het grondgebied van de partij;ii.van toepassing zijn op niet-ingezetenen om ervoor te zorgen dat belastingen op het grondgebied van de partij kunnen worden opgelegd of geïnd;iii.van toepassing zijn op niet-ingezetenen of ingezetenen ter voorkoming van belastingontwijking of -ontduiking, inclusief handhavingsbepalingen;iv.van toepassing zijn op gebruikers van diensten die op of vanaf het grondgebied van de andere partij worden verleend, om ervoor te zorgen dat door die gebruikers verschuldigde belastingen die hun bron op het grondgebied van de partij hebben, kunnen worden opgelegd of geïnd;v.een onderscheid maken tussen enerzijds ondernemers en dienstverleners die belastingplichtig zijn ter zake van wereldwijd belastbare feiten, en anderzijds andere ondernemers en dienstverleners, gezien het verschil in de aard van de heffingsgrondslag tussen hen; ofvi.inkomen, winst, voordeel, verlies, aftrek of krediet van ingezeten personen of filialen, dan wel tussen gelieerde personen of filialen van dezelfde persoon vaststellen, toewijzen of omslaan, om de belastinggrondslag van de partij te behouden.De belastingvoorwaarden of -concepten onder f) en in deze voetnoot worden vastgesteld volgens de belastingdefinities en -concepten, dan wel gelijkwaardige of soortgelijke definities en concepten van het interne recht van de partij die de maatregel neemt..
+- f. strijdig zijn met de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2021-03-01&g=2021-03-01), mits het verschil in behandeling bedoeld is om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen ten aanzien van economische activiteiten, ondernemers of dienstverleners uit de andere partij24)Maatregelen die bedoeld zijn om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen, omvatten maatregelen die een partij op grond van haar belastingstelsel neemt en die:i.van toepassing zijn op ondernemers en dienstverleners die geen ingezetenen zijn, gezien het feit dat de fiscale verplichtingen van niet-ingezetenen worden vastgesteld op grond van belastbare feiten die hun oorsprong vinden of geschieden op het grondgebied van de partij;ii.van toepassing zijn op niet-ingezetenen om ervoor te zorgen dat belastingen op het grondgebied van de partij kunnen worden opgelegd of geïnd;iii.van toepassing zijn op niet-ingezetenen of ingezetenen ter voorkoming van belastingontwijking of -ontduiking, inclusief handhavingsbepalingen;iv.van toepassing zijn op gebruikers van diensten die op of vanaf het grondgebied van de andere partij worden verleend, om ervoor te zorgen dat door die gebruikers verschuldigde belastingen die hun bron op het grondgebied van de partij hebben, kunnen worden opgelegd of geïnd;v.een onderscheid maken tussen enerzijds ondernemers en dienstverleners die belastingplichtig zijn ter zake van wereldwijd belastbare feiten, en anderzijds andere ondernemers en dienstverleners, gezien het verschil in de aard van de heffingsgrondslag tussen hen; ofvi.inkomen, winst, voordeel, verlies, aftrek of krediet van ingezeten personen of filialen, dan wel tussen gelieerde personen of filialen van dezelfde persoon vaststellen, toewijzen of omslaan, om de belastinggrondslag van de partij te behouden.De belastingvoorwaarden of -concepten onder f) en in deze voetnoot worden vastgesteld volgens de belastingdefinities en -concepten, dan wel gelijkwaardige of soortgelijke definities en concepten van het interne recht van de partij die de maatregel neemt..
 
 3. Dit hoofdstuk en bijlage VIII bij deze overeenkomst zijn niet van toepassing op de sociale-zekerheidsstelsels van de partijen of op activiteiten op het grondgebied van de partijen die, al dan niet incidenteel, verband houden met de uitoefening van het overheidsgezag.
 
@@ -2460,7 +2460,7 @@ De partijen staan overeenkomstig de artikelen van de [Overeenkomst betreffende h
 
 ##### Artikel 205. Kapitaalverkeer
 
-1. Met betrekking tot verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans waarborgen de partijen vanaf de datum van inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen25)Met inbegrip van de verwerving van onroerend goed in verband met directe investeringen. die volgens het recht van het gastland zijn gedaan en die in overeenstemming zijn met de bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&z=2017-11-24&g=2017-11-24), alsmede de liquidatie of repatriëring van dergelijk geïnvesteerd kapitaal en van alle opbrengsten daarvan.
+1. Met betrekking tot verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans waarborgen de partijen vanaf de datum van inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen25)Met inbegrip van de verwerving van onroerend goed in verband met directe investeringen. die volgens het recht van het gastland zijn gedaan en die in overeenstemming zijn met de bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&z=2021-03-01&g=2021-03-01), alsmede de liquidatie of repatriëring van dergelijk geïnvesteerd kapitaal en van alle opbrengsten daarvan.
 
 2. Wat niet door lid 1 bestreken verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans betreft, waarborgen de partijen vanaf de inwerkingtreding van deze overeenkomst en onverminderd de overige bepalingen van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met:
 
@@ -2468,7 +2468,7 @@ De partijen staan overeenkomstig de artikelen van de [Overeenkomst betreffende h
 
 - b. leningen en kredieten van de investeerders uit de andere partij; alsmede
 
-- c. kapitaalparticipatie in een rechtspersoon, als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=A&artikel=142&z=2017-11-24&g=2017-11-24), zonder de intentie duurzame economische banden aan te knopen of te handhaven.
+- c. kapitaalparticipatie in een rechtspersoon, als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=A&artikel=142&z=2021-03-01&g=2021-03-01), zonder de intentie duurzame economische banden aan te knopen of te handhaven.
 
 3. Onverminderd hetgeen elders in deze overeenkomst is bepaald, voeren de partijen geen nieuwe beperkingen in op het kapitaalverkeer en op lopende betalingen tussen ingezetenen van de Europese Unie en van de Republiek Armenië en brengen zij in de bestaande regelingen geen verdere beperkingen aan.
 
@@ -2514,7 +2514,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 1. De partijen waarborgen een adequate en doeltreffende tenuitvoerlegging van de internationale verdragen inzake intellectuele eigendom waarbij zij partij zijn, met inbegrip van de [WTO-Overeenkomst inzake de handelsaspecten van de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), die is opgenomen in bijlage 1C bij de WTO-Overeenkomst („TRIPS-Overeenkomst”). Dit hoofdstuk vormt een aanvulling op en specificatie van de tussen de partijen geldende rechten en verplichtingen uit hoofde van de TRIPS-Overeenkomst en andere internationale verdragen op het gebied van intellectuele eigendom.
 
-2. Voor de toepassing van deze overeenkomst omvat de term „intellectuele eigendom” onder meer alle categorieën intellectuele eigendom die vermeld worden in [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&z=2017-11-24&g=2017-11-24) van dit hoofdstuk.
+2. Voor de toepassing van deze overeenkomst omvat de term „intellectuele eigendom” onder meer alle categorieën intellectuele eigendom die vermeld worden in [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&z=2021-03-01&g=2021-03-01) van dit hoofdstuk.
 
 3. De bescherming van intellectuele eigendom omvat ook de bescherming tegen oneerlijke concurrentie zoals bedoeld in [artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=10bis) van 1883, laatstelijk herzien bij de Akte van Stockholm van 1967 („Verdrag van Parijs (1967)”).
 
@@ -2744,7 +2744,7 @@ Begin van gebruik of hernieuwd gebruik binnen drie maanden vóór de instelling 
 
 1. Deze onderafdeling is van toepassing op de bescherming van geografische aanduidingen die hun oorsprong hebben in het grondgebied van de partijen.
 
-2. Geografische aanduidingen van een partij die door de andere partij moeten worden beschermd, vallen enkel onder deze onderafdeling indien zij binnen het toepassingsgebied van de in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2017-11-24&g=2017-11-24) bedoelde wetgeving vallen.
+2. Geografische aanduidingen van een partij die door de andere partij moeten worden beschermd, vallen enkel onder deze onderafdeling indien zij binnen het toepassingsgebied van de in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2021-03-01&g=2021-03-01) bedoelde wetgeving vallen.
 
 ##### Artikel 231. Gevestigde geografische aanduidingen
 
@@ -2758,7 +2758,7 @@ Begin van gebruik of hernieuwd gebruik binnen drie maanden vóór de instelling 
 
 ##### Artikel 232. Toevoeging van nieuwe geografische aanduidingen
 
-1. De partijen kunnen overeenkomstig de procedure van [artikel 240, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2017-11-24&g=2017-11-24), nieuwe geografische aanduidingen opnemen in de lijst van beschermde geografische aanduidingen van bijlage X. Dergelijke nieuwe geografische aanduidingen kunnen worden toegevoegd na afronding van de bezwaarprocedure en na bestudering van de geografische aanduidingen ten genoegen van beide partijen, overeenkomstig [artikel 231, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2017-11-24&g=2017-11-24).
+1. De partijen kunnen overeenkomstig de procedure van [artikel 240, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2021-03-01&g=2021-03-01), nieuwe geografische aanduidingen opnemen in de lijst van beschermde geografische aanduidingen van bijlage X. Dergelijke nieuwe geografische aanduidingen kunnen worden toegevoegd na afronding van de bezwaarprocedure en na bestudering van de geografische aanduidingen ten genoegen van beide partijen, overeenkomstig [artikel 231, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2021-03-01&g=2021-03-01).
 
 2. De partijen zijn niet verplicht een geografische aanduiding toe te voegen aan de lijst als bedoeld in lid 1, wanneer:
 
@@ -2792,7 +2792,7 @@ Een gelijkluidende benaming die bij de consument ten onrechte de indruk wekt dat
 
 5. Geen enkele bepaling in deze onderafdeling verplicht een partij ertoe een geografische aanduiding van de andere partij te beschermen, indien deze aanduiding in het land van oorsprong niet of niet langer is beschermd.
 
-De partijen stellen elkaar ervan in kennis wanneer een geografische aanduiding in het land van oorsprong niet langer wordt beschermd. Een dergelijke kennisgeving vindt plaats overeenkomstig de procedures van [artikel 240, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2017-11-24&g=2017-11-24).
+De partijen stellen elkaar ervan in kennis wanneer een geografische aanduiding in het land van oorsprong niet langer wordt beschermd. Een dergelijke kennisgeving vindt plaats overeenkomstig de procedures van [artikel 240, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2021-03-01&g=2021-03-01).
 
 6. Deze overeenkomst doet op generlei wijze afbreuk aan het recht van een persoon om in het handelsverkeer zijn naam of de naam van zijn voorganger in zaken te gebruiken, behalve wanneer deze naam op zodanige wijze wordt gebruikt dat het publiek daardoor wordt misleid.
 
@@ -2804,13 +2804,13 @@ De partijen stellen elkaar ervan in kennis wanneer een geografische aanduiding i
 
 ##### Artikel 235. Verband met handelsmerken
 
-1. De partijen weigeren de registratie of zorgen voor nietigverklaring van een handelsmerk in een van de in [artikel 233, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=233&z=2017-11-24&g=2017-11-24), bedoelde situaties met betrekking tot een beschermde geografische aanduiding voor soortgelijke producten, mits een aanvraag om het handelsmerk te registreren wordt ingediend na de datum van het verzoek om bescherming van de geografische aanduiding in het desbetreffende grondgebied.
+1. De partijen weigeren de registratie of zorgen voor nietigverklaring van een handelsmerk in een van de in [artikel 233, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=233&z=2021-03-01&g=2021-03-01), bedoelde situaties met betrekking tot een beschermde geografische aanduiding voor soortgelijke producten, mits een aanvraag om het handelsmerk te registreren wordt ingediend na de datum van het verzoek om bescherming van de geografische aanduiding in het desbetreffende grondgebied.
 
-2. Voor de in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2017-11-24&g=2017-11-24) bedoelde geografische aanduidingen is de datum van de beschermingsaanvraag de datum van inwerkingtreding van de onderhavige overeenkomst.
+2. Voor de in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2021-03-01&g=2021-03-01) bedoelde geografische aanduidingen is de datum van de beschermingsaanvraag de datum van inwerkingtreding van de onderhavige overeenkomst.
 
-3. Voor de in [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2017-11-24&g=2017-11-24) bedoelde geografische aanduidingen is de datum van de beschermingsaanvraag de datum waarop een partij de andere partij een verzoek om bescherming van een geografische aanduiding toezendt.
+3. Voor de in [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2021-03-01&g=2021-03-01) bedoelde geografische aanduidingen is de datum van de beschermingsaanvraag de datum waarop een partij de andere partij een verzoek om bescherming van een geografische aanduiding toezendt.
 
-4. Onverminderd [artikel 232, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2017-11-24&g=2017-11-24), beschermen de partijen geografische aanduidingen die zijn genoemd in bijlage X, ook wanneer er een ouder handelsmerk bestaat. Onder een ouder handelsmerk wordt verstaan een handelsmerk dat in één van de situaties als bedoeld in [artikel 233, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=233&z=2017-11-24&g=2017-11-24), is gebruikt en dat vóór de datum waarop de aanvraag voor bescherming van de geografische aanduiding door de andere partij in het kader van deze overeenkomst wordt ingediend, is aangevraagd, geregistreerd of waarvoor, mits de betrokken wetgeving in deze mogelijkheid voorziet, rechten zijn verworven door gebruik, te goeder trouw, op het grondgebied van een van de partijen. Een dergelijk handelsmerk mag verder worden gebruikt en kan worden vernieuwd, niettegenstaande de bescherming van de geografische aanduiding, mits er geen redenen zijn voor nietig- of vervallenverklaring op grond van de wetgeving van een van de partijen inzake handelsmerken.
+4. Onverminderd [artikel 232, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2021-03-01&g=2021-03-01), beschermen de partijen geografische aanduidingen die zijn genoemd in bijlage X, ook wanneer er een ouder handelsmerk bestaat. Onder een ouder handelsmerk wordt verstaan een handelsmerk dat in één van de situaties als bedoeld in [artikel 233, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=233&z=2021-03-01&g=2021-03-01), is gebruikt en dat vóór de datum waarop de aanvraag voor bescherming van de geografische aanduiding door de andere partij in het kader van deze overeenkomst wordt ingediend, is aangevraagd, geregistreerd of waarvoor, mits de betrokken wetgeving in deze mogelijkheid voorziet, rechten zijn verworven door gebruik, te goeder trouw, op het grondgebied van een van de partijen. Een dergelijk handelsmerk mag verder worden gebruikt en kan worden vernieuwd, niettegenstaande de bescherming van de geografische aanduiding, mits er geen redenen zijn voor nietig- of vervallenverklaring op grond van de wetgeving van een van de partijen inzake handelsmerken.
 
 5. In afwijking van lid 4 worden oudere handelsmerken van de Republiek Armenië die bestaan uit de geografische aanduiding van de Europese Unie „Cognac” of „Champagne”, ook in transcriptie of vertaling, of die deze bevatten, en die zijn geregistreerd voor vergelijkbare producten die niet voldoen aan de relevante specificatie, nietig verklaard, herroepen of gewijzigd, zodat deze naam verdwijnt als element van het hele handelsmerk, uiterlijk 14 jaar voor „Cognac” en 2 jaar voor „Champagne”, na inwerkingtreding van deze overeenkomst.
 
@@ -2842,21 +2842,21 @@ Elke partij handhaaft de bescherming van de geografische aanduidingen overeenkom
 
 5. De specifieke bedragen, soorten, mechanismen en tijdskaders voor de EU-steun als bedoeld in lid 4, worden bepaald in een pakket voor financiële en technische steun waarover de partijen uiterlijk binnen één jaar na de inwerkingtreding van deze overeenkomst een definitief akkoord moeten vinden. De partijen ontwikkelen gezamenlijk de voorwaarden voor zulk een steunpakket, gebaseerd op een grondige analyse van de behoeften die door deze steun moeten worden gedekt. Deze analyse wordt uitgevoerd door een internationaal consultingbedrijf dat door de partijen gezamenlijk wordt geselecteerd.
 
-6. Indien de Europese Unie de financiële en technische steun als bedoeld in lid 4 niet verstrekt, kan de Republiek Armenië een beroep doen op het mechanisme voor geschillenbeslechting waarin is voorzien bij [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24), en kan zij, indien succesvol, de verplichtingen uit hoofde van de leden 2 en 3 opschorten.
+6. Indien de Europese Unie de financiële en technische steun als bedoeld in lid 4 niet verstrekt, kan de Republiek Armenië een beroep doen op het mechanisme voor geschillenbeslechting waarin is voorzien bij [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01), en kan zij, indien succesvol, de verplichtingen uit hoofde van de leden 2 en 3 opschorten.
 
 7. De financiële en technische steun van de Europese Unie wordt verstrekt niet langer dan acht jaar na de datum van de inwerkingtreding van deze overeenkomst.
 
 ##### Artikel 238. Algemene voorschriften
 
-1. Invoer, uitvoer en afzet van de in de [artikelen 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2017-11-24&g=2017-11-24) en [232](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2017-11-24&g=2017-11-24) bedoelde producten vinden plaats overeenkomstig de wet- en regelgeving die van toepassing is op het grondgebied van de partij waar de producten op de markt worden gebracht.
+1. Invoer, uitvoer en afzet van de in de [artikelen 231](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=231&z=2021-03-01&g=2021-03-01) en [232](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=232&z=2021-03-01&g=2021-03-01) bedoelde producten vinden plaats overeenkomstig de wet- en regelgeving die van toepassing is op het grondgebied van de partij waar de producten op de markt worden gebracht.
 
-2. Het subcomité voor geografische aanduidingen dat is opgericht krachtens [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2017-11-24&g=2017-11-24), behandelt elke aangelegenheid die betrekking heeft op productspecificaties van een geregistreerde geografische aanduiding die door de autoriteiten van een partij waaruit het product van oorsprong is, werden goedgekeurd, met inbegrip van eventuele wijzigingen daarvan.
+2. Het subcomité voor geografische aanduidingen dat is opgericht krachtens [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2021-03-01&g=2021-03-01), behandelt elke aangelegenheid die betrekking heeft op productspecificaties van een geregistreerde geografische aanduiding die door de autoriteiten van een partij waaruit het product van oorsprong is, werden goedgekeurd, met inbegrip van eventuele wijzigingen daarvan.
 
 3. In het kader van deze onderafdeling beschermde geografische aanduidingen kunnen alleen worden ingetrokken door de partij waaruit het product van oorsprong is.
 
 ##### Artikel 239. Samenwerking en transparantie
 
-1. De partijen houden rechtstreeks of via het bij [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2017-11-24&g=2017-11-24) ingestelde subcomité voor geografische aanduidingen contact over alle kwesties in verband met de uitvoering en werking van deze onderafdeling. In het bijzonder kan een partij de andere partij verzoeken om informatie betreffende productspecificaties en de wijziging daarvan, alsook betreffende de contactpunten van de nationale controleautoriteiten.
+1. De partijen houden rechtstreeks of via het bij [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=III&artikel=240&z=2021-03-01&g=2021-03-01) ingestelde subcomité voor geografische aanduidingen contact over alle kwesties in verband met de uitvoering en werking van deze onderafdeling. In het bijzonder kan een partij de andere partij verzoeken om informatie betreffende productspecificaties en de wijziging daarvan, alsook betreffende de contactpunten van de nationale controleautoriteiten.
 
 2. Elke partij kan de specificaties van de geografische aanduidingen die krachtens deze onderafdeling beschermd worden, of een samenvatting daarvan, alsmede informatie over de contactpunten van de nationale controleautoriteiten, die betrekking hebben op krachtens deze onderafdeling beschermde geografische aanduidingen uit de andere partij, openbaar maken.
 
@@ -2986,9 +2986,9 @@ Met betrekking tot geneesmiddelen waarvoor kindergeneeskundige studies zijn verr
 
 ##### Artikel 250. Civielrechtelijke procedures en maatregelen voor bedrijfsgeheimen
 
-1. Elke partij zorgt ervoor dat eenieder die deelneemt aan de civielrechtelijke procedures als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2017-11-24&g=2017-11-24), of die toegang heeft tot documenten die deel uitmaken van deze gerechtelijke procedures, een bedrijfsgeheim of vermeend bedrijfsgeheim niet mag gebruiken of openbaar maken, voor zover de bevoegde autoriteiten dit bedrijfsgeheim als reactie op een voldoende verantwoorde aanvraag van een belanghebbende hebben aangemerkt als vertrouwelijk en waarop zij zijn geattendeerd door dergelijke deelname of toegang.
+1. Elke partij zorgt ervoor dat eenieder die deelneemt aan de civielrechtelijke procedures als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2021-03-01&g=2021-03-01), of die toegang heeft tot documenten die deel uitmaken van deze gerechtelijke procedures, een bedrijfsgeheim of vermeend bedrijfsgeheim niet mag gebruiken of openbaar maken, voor zover de bevoegde autoriteiten dit bedrijfsgeheim als reactie op een voldoende verantwoorde aanvraag van een belanghebbende hebben aangemerkt als vertrouwelijk en waarop zij zijn geattendeerd door dergelijke deelname of toegang.
 
-2. In de civielrechtelijke procedures als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2017-11-24&g=2017-11-24) zorgt elke partij ervoor dat haar gerechtelijke autoriteiten ten minste de bevoegdheid hebben om:
+2. In de civielrechtelijke procedures als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2021-03-01&g=2021-03-01) zorgt elke partij ervoor dat haar gerechtelijke autoriteiten ten minste de bevoegdheid hebben om:
 
 - a. voorlopige maatregelen te treffen om het verkrijgen, gebruiken of openbaar maken van een bedrijfsgeheim op een manier die in strijd is met eerlijke handelsgebruiken, te voorkomen;
 
@@ -3006,7 +3006,7 @@ Met betrekking tot geneesmiddelen waarvoor kindergeneeskundige studies zijn verr
 
 - e. sancties op te leggen aan de partijen of aan andere personen die onder de bevoegdheid van de rechtbank vallen, voor niet-toepassing van maatregelen die door de rechtbank krachtens lid 1 of punt d) van dit lid zijn getroffen, betreffende de bescherming van een bedrijfsgeheim of vermeend bedrijfsgeheim dat tijdens de rechtsprocedure is overgelegd.
 
-3. Van de partijen wordt niet vereist dat zij instaan voor de gerechtelijke procedures en maatregelen als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2017-11-24&g=2017-11-24), indien de activiteit in strijd met eerlijke handelsgebruiken geschiedt, overeenkomstig hun eigen binnenlandse wetgeving, met de bedoeling een fout, wangedrag, of illegale activiteiten te onthullen, of om een rechtmatig belang te beschermen dat door de wet is erkend.
+3. Van de partijen wordt niet vereist dat zij instaan voor de gerechtelijke procedures en maatregelen als bedoeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=249&z=2021-03-01&g=2021-03-01), indien de activiteit in strijd met eerlijke handelsgebruiken geschiedt, overeenkomstig hun eigen binnenlandse wetgeving, met de bedoeling een fout, wangedrag, of illegale activiteiten te onthullen, of om een rechtmatig belang te beschermen dat door de wet is erkend.
 
 ##### Artikel 251. Bescherming van gegevens die zijn ingediend ter verkrijging van een vergunning voor het in de handel brengen van een geneesmiddel
 
@@ -3058,7 +3058,7 @@ Onder „beperkte toepassing” wordt verstaan de toepassing van een gewasbesche
 
 2. De in lid 1 bedoelde maatregelen, procedures en rechtsmiddelen zijn tevens doeltreffend, evenredig en afschrikkend; zij worden zodanig toegepast dat het scheppen van belemmeringen voor legitiem handelsverkeer wordt vermeden en dat wordt voorzien in waarborgen tegen misbruik van deze procedures.
 
-3. Voor de toepassing van [onderafdeling II](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&z=2017-11-24&g=2017-11-24) van deze afdeling worden onder het begrip „intellectuele-eigendomsrechten” ten minste de volgende rechten verstaan:
+3. Voor de toepassing van [onderafdeling II](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&z=2021-03-01&g=2021-03-01) van deze afdeling worden onder het begrip „intellectuele-eigendomsrechten” ten minste de volgende rechten verstaan:
 
 - a. auteursrecht;
 
@@ -3082,7 +3082,7 @@ Onder „beperkte toepassing” wordt verstaan de toepassing van een gewasbesche
 
 - k. handelsnamen voor zover deze beschermd worden als exclusieve eigendomsrechten in de desbetreffende interne wetgeving.
 
-Bedrijfsgeheimen vallen niet onder het toepassingsgebied van deze afdeling. De handhaving van bedrijfsgeheimen wordt in [artikel 250](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=250&z=2017-11-24&g=2017-11-24) behandeld.
+Bedrijfsgeheimen vallen niet onder het toepassingsgebied van deze afdeling. De handhaving van bedrijfsgeheimen wordt in [artikel 250](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&deel=B&paragraaf=VI&artikel=250&z=2021-03-01&g=2021-03-01) behandeld.
 
 ##### Artikel 255. Gerechtigde aanvragers
 
@@ -3156,7 +3156,7 @@ Elke partij zorgt ervoor dat de rechterlijke instanties, wanneer een inbreuk op 
 
 ##### Artikel 261. Alternatieve maatregelen
 
-Een partij kan bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van de persoon aan wie de in de [artikelen 259](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&artikel=259&z=2017-11-24&g=2017-11-24) of [260](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&artikel=260&z=2017-11-24&g=2017-11-24) vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat de maatregelen van deze artikelen niet worden toegepast, maar in plaats daarvan aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald. Dergelijke geldelijke schadeloosstelling wordt betaald wanneer de persoon aan wie de maatregelen kunnen worden opgelegd, zonder opzet en zonder nalatigheid heeft gehandeld, wanneer uitvoering van de maatregelen van de artikelen 259 en 260 de betrokkene onevenredige schade zou berokkenen en wanneer geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs toereikend lijkt.
+Een partij kan bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van de persoon aan wie de in de [artikelen 259](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&artikel=259&z=2021-03-01&g=2021-03-01) of [260](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=7&afdeling=C&paragraaf=II&artikel=260&z=2021-03-01&g=2021-03-01) vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat de maatregelen van deze artikelen niet worden toegepast, maar in plaats daarvan aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald. Dergelijke geldelijke schadeloosstelling wordt betaald wanneer de persoon aan wie de maatregelen kunnen worden opgelegd, zonder opzet en zonder nalatigheid heeft gehandeld, wanneer uitvoering van de maatregelen van de artikelen 259 en 260 de betrokkene onevenredige schade zou berokkenen en wanneer geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs toereikend lijkt.
 
 ##### Artikel 262. Schadevergoedingen
 
@@ -3198,7 +3198,7 @@ De partijen erkennen dat het voor de toepassing van de in deze afdeling bedoelde
 
 7. Zonder afbreuk te doen aan andere manieren van samenwerking is Protocol II inzake wederzijdse administratieve bijstand in douaneaangelegenheden van toepassing op de grenshandhaving met betrekking tot intellectuele-eigendomsrechten.
 
-8. Zonder afbreuk te doen aan de algemene bevoegdheden van het Partnerschapscomité is het subcomité douane als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=126&z=2017-11-24&g=2017-11-24) bevoegd om de correcte werking en de uitvoering van deze afdeling te garanderen, door prioriteiten vast te stellen en te voorzien in passende procedures voor samenwerking tussen de bevoegde autoriteiten van beide partijen.
+8. Zonder afbreuk te doen aan de algemene bevoegdheden van het Partnerschapscomité is het subcomité douane als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=126&z=2021-03-01&g=2021-03-01) bevoegd om de correcte werking en de uitvoering van deze afdeling te garanderen, door prioriteiten vast te stellen en te voorzien in passende procedures voor samenwerking tussen de bevoegde autoriteiten van beide partijen.
 
 #### ONDERAFDELING IV. OVERIGE BEPALINGEN VOOR DE HANDHAVING
 
@@ -3238,13 +3238,13 @@ De partijen erkennen dat het voor de toepassing van de in deze afdeling bedoelde
 
 ##### Artikel 269. Betrekkingen met de [WTO-Overeenkomst inzake overheidsopdrachten](onbekend)
 
-De partijen bevestigen hun wederzijdse rechten en verplichtingen in het kader van de herziene [Overeenkomst inzake overheidsopdrachten van 2012](onbekend)27)Bijlage bij het Protocol tot wijziging van de Overeenkomst inzake overheidsopdrachten (GPA/113). (WTO-Overeenkomst inzake overheidsopdrachten). Deze rechten en verplichtingen die zijn opgesteld bij de WTO-Overeenkomst inzake overheidsopdrachten, met inbegrip van de specificaties voor elke partij zoals uiteengezet in de respectievelijke bijlagen bij aanhangsel I, worden in deze overeenkomst opgenomen en vallen onder de bepalingen voor de bilaterale regeling voor geschillenbeslechting van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24).
+De partijen bevestigen hun wederzijdse rechten en verplichtingen in het kader van de herziene [Overeenkomst inzake overheidsopdrachten van 2012](onbekend)27)Bijlage bij het Protocol tot wijziging van de Overeenkomst inzake overheidsopdrachten (GPA/113). (WTO-Overeenkomst inzake overheidsopdrachten). Deze rechten en verplichtingen die zijn opgesteld bij de WTO-Overeenkomst inzake overheidsopdrachten, met inbegrip van de specificaties voor elke partij zoals uiteengezet in de respectievelijke bijlagen bij aanhangsel I, worden in deze overeenkomst opgenomen en vallen onder de bepalingen voor de bilaterale regeling voor geschillenbeslechting van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 270. Extra toepassingsgebied
 
 1. De partijen passen mutatis mutandis de bepalingen toe van de [artikelen I tot en met IV](onbekend), [VI tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011923&artikel=1), [XVI.1 tot en met XVI.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XVI), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XVII) en [XVIII van de WTO-Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XVIII) op de overheidsopdrachten die worden bestreken door bijlage XI bij deze overeenkomst.
 
-2. Het Partnerschapscomité kan besluiten bijlage XI bij deze overeenkomst te wijzigen. Wat de procedure betreft voor wijzigingen en rectificaties van deze bijlage door een partij, passen de partijen mutatis mutandis de bepalingen toe van [artikel XIX van de WTO-Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XIX), mits de kennisgevingen direct geschieden aan de andere partij en de verwijzing naar geschillenbeslechting wordt begrepen als een verwijzing naar [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24).
+2. Het Partnerschapscomité kan besluiten bijlage XI bij deze overeenkomst te wijzigen. Wat de procedure betreft voor wijzigingen en rectificaties van deze bijlage door een partij, passen de partijen mutatis mutandis de bepalingen toe van [artikel XIX van de WTO-Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XIX), mits de kennisgevingen direct geschieden aan de andere partij en de verwijzing naar geschillenbeslechting wordt begrepen als een verwijzing naar [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 271. Aanvullende voorschriften
 
@@ -3308,7 +3308,7 @@ De partijen passen op de aanbestedingen die worden bestreken respectievelijk doo
 
 ##### Artikel 273. Recht regels te stellen en beschermingsniveaus
 
-De partijen erkennen het recht van elke partij om haar eigen beleid en prioriteiten voor duurzame ontwikkeling en haar eigen niveaus van interne milieu- en arbeidsbescherming vast te stellen, en dienovereenkomstig haar wetgeving en beleid ter zake vast te stellen of te wijzigen, in overeenstemming met haar verbintenissen op grond van internationaal erkende normen en overeenkomsten als bedoeld in de [artikelen 274](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=274&z=2017-11-24&g=2017-11-24) en [275](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=275&z=2017-11-24&g=2017-11-24), en zij streven ernaar dat hun wetgeving en beleid voorzien in hoge beschermingsniveaus voor milieu en werknemers, en dat deze worden bevorderd, en zij streven naar een voortdurende verbetering van hun wetgeving en beleid en de onderliggende beschermingsniveaus.
+De partijen erkennen het recht van elke partij om haar eigen beleid en prioriteiten voor duurzame ontwikkeling en haar eigen niveaus van interne milieu- en arbeidsbescherming vast te stellen, en dienovereenkomstig haar wetgeving en beleid ter zake vast te stellen of te wijzigen, in overeenstemming met haar verbintenissen op grond van internationaal erkende normen en overeenkomsten als bedoeld in de [artikelen 274](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=274&z=2021-03-01&g=2021-03-01) en [275](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=275&z=2021-03-01&g=2021-03-01), en zij streven ernaar dat hun wetgeving en beleid voorzien in hoge beschermingsniveaus voor milieu en werknemers, en dat deze worden bevorderd, en zij streven naar een voortdurende verbetering van hun wetgeving en beleid en de onderliggende beschermingsniveaus.
 
 ##### Artikel 274. Internationale arbeidsnormen en -overeenkomsten
 
@@ -3430,7 +3430,7 @@ Bij de opstelling en tenuitvoerlegging van op de bescherming van het milieu of d
 
 ##### Artikel 282. Transparantie
 
-Elke partij ziet er, in overeenstemming met haar interne wet- en regelgeving en [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=12&z=2017-11-24&g=2017-11-24), op toe dat alle op de bescherming van het milieu of de arbeidsomstandigheden gerichte maatregelen die de handel of de investeringen negatief kunnen beïnvloeden, op transparante wijze worden opgesteld, ingevoerd en ten uitvoer gelegd, dat zij tijdig worden aangekondigd, dat hierover een openbare raadpleging wordt gehouden en dat niet-overheidsactoren op passende wijze tijdig worden geïnformeerd en geconsulteerd.
+Elke partij ziet er, in overeenstemming met haar interne wet- en regelgeving en [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=12&z=2021-03-01&g=2021-03-01), op toe dat alle op de bescherming van het milieu of de arbeidsomstandigheden gerichte maatregelen die de handel of de investeringen negatief kunnen beïnvloeden, op transparante wijze worden opgesteld, ingevoerd en ten uitvoer gelegd, dat zij tijdig worden aangekondigd, dat hierover een openbare raadpleging wordt gehouden en dat niet-overheidsactoren op passende wijze tijdig worden geïnformeerd en geconsulteerd.
 
 ##### Artikel 283. Evaluatie van effecten op duurzaamheid
 
@@ -3468,13 +3468,13 @@ De partijen verbinden zich ertoe het effect van de tenuitvoerlegging van deze ov
 
 2. De partijen wisselen informatie en ervaring uit over hun activiteiten ter bevordering van de samenhang en de wederzijdse ondersteuning van doelstellingen op het gebied van handel, milieu en sociale aspecten. Voorts voeren de partijen hun samenwerking en dialoog op inzake kwesties van duurzame ontwikkeling die in de context van hun wederzijdse handelsbetrekkingen aan de orde komen.
 
-3. Bij dergelijke samenwerking en dialoog worden de belanghebbenden betrokken, met name de sociale partners, evenals andere maatschappelijke organisaties, in het kader van het bij [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=1&artikel=366&z=2017-11-24&g=2017-11-24) ingestelde platform van maatschappelijke organisaties.
+3. Bij dergelijke samenwerking en dialoog worden de belanghebbenden betrokken, met name de sociale partners, evenals andere maatschappelijke organisaties, in het kader van het bij [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=1&artikel=366&z=2021-03-01&g=2021-03-01) ingestelde platform van maatschappelijke organisaties.
 
 4. Het Partnerschapscomité kan regels vaststellen voor dergelijke samenwerking en dialoog.
 
 ##### Artikel 285. Geschillenbeslechting
 
-[Hoofdstuk 13, afdeling 3, onderafdeling 2, van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&z=2017-11-24&g=2017-11-24) is niet van toepassing op geschillen waarop dit hoofdstuk van toepassing is. Nadat het arbitragepanel zijn eindverslag heeft opgesteld overeenkomstig de [artikelen 325](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=325&z=2017-11-24&g=2017-11-24) en [326](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=326&z=2017-11-24&g=2017-11-24), bespreken de partijen de passende maatregelen die zij zullen nemen, waarbij zij rekening houden met dit verslag. Het Partnerschapscomité ziet toe op de tenuitvoerlegging van dergelijke maatregelen en blijft de zaak volgen, onder andere door middel van het in [artikel 284, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=284&z=2017-11-24&g=2017-11-24), bedoelde mechanisme.
+[Hoofdstuk 13, afdeling 3, onderafdeling 2, van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&z=2021-03-01&g=2021-03-01) is niet van toepassing op geschillen waarop dit hoofdstuk van toepassing is. Nadat het arbitragepanel zijn eindverslag heeft opgesteld overeenkomstig de [artikelen 325](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=325&z=2021-03-01&g=2021-03-01) en [326](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=326&z=2021-03-01&g=2021-03-01), bespreken de partijen de passende maatregelen die zij zullen nemen, waarbij zij rekening houden met dit verslag. Het Partnerschapscomité ziet toe op de tenuitvoerlegging van dergelijke maatregelen en blijft de zaak volgen, onder andere door middel van het in [artikel 284, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=284&z=2021-03-01&g=2021-03-01), bedoelde mechanisme.
 
 ### HOOFDSTUK 10. MEDEDINGING
 
@@ -3500,7 +3500,7 @@ De partijen erkennen het belang van een vrije en onvervalste mededinging voor hu
 
 ##### Artikel 288. Tenuitvoerlegging
 
-1. Elke partij houdt operationeel onafhankelijke autoriteiten in stand die verantwoordelijk zijn voor de volledige tenuitvoerlegging en doeltreffende handhaving van de in [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=B&artikel=287&z=2017-11-24&g=2017-11-24) bedoelde mededingingswet en die daartoe toereikend met bevoegdheden en middelen zijn uitgerust.
+1. Elke partij houdt operationeel onafhankelijke autoriteiten in stand die verantwoordelijk zijn voor de volledige tenuitvoerlegging en doeltreffende handhaving van de in [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=B&artikel=287&z=2021-03-01&g=2021-03-01) bedoelde mededingingswet en die daartoe toereikend met bevoegdheden en middelen zijn uitgerust.
 
 2. De partijen passen hun respectievelijke mededingingswetgeving op transparante en niet-discriminerende wijze toe, met inachtneming van de beginselen van een billijke rechtsgang en van het recht van verweer van de betrokken ondernemingen, ongeacht hun nationaliteit of eigendomsstatus.
 
@@ -3524,13 +3524,13 @@ De partijen komen overeen dat een partij subsidies kan toekennen indien dat nodi
 
 Alinea 1 doet geen afbreuk aan de uitkomst van toekomstige discussies binnen de WTO over de definitie van subsidies voor diensten. Afhankelijk van de voortgang van dergelijke discussies op WTO-niveau kunnen de partijen een besluit in het Partnerschapscomité vaststellen om deze overeenkomst op dit punt aan te passen.
 
-2. Een subsidie wordt alleen dan door dit hoofdstuk bestreken indien zij als specifiek wordt aangemerkt overeenkomstig [artikel 2 van de Overeenkomst inzake subsidies en compenserende maatregelen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2). Een subsidie waarop het bepaalde in [artikel 295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2017-11-24&g=2017-11-24) van deze overeenkomst van toepassing is, wordt geacht specifiek te zijn.
+2. Een subsidie wordt alleen dan door dit hoofdstuk bestreken indien zij als specifiek wordt aangemerkt overeenkomstig [artikel 2 van de Overeenkomst inzake subsidies en compenserende maatregelen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2). Een subsidie waarop het bepaalde in [artikel 295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2021-03-01&g=2021-03-01) van deze overeenkomst van toepassing is, wordt geacht specifiek te zijn.
 
 3. Subsidies die aan alle ondernemingen worden verleend, hetzij openbare of particuliere, zijn het voorwerp van dit hoofdstuk. De toepassing van de voorschriften van deze afdeling mag ondernemingen niet belemmeren in de wettelijke of feitelijke uitvoering van de aan hen opgedragen bijzondere taken van algemeen belang. Uitzonderingen op de voorschriften van deze afdeling blijven beperkt tot taken van algemeen belang, evenredig met het nagestreefde beleidsdoel en transparant.
 
-4. [Artikel 294](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2017-11-24&g=2017-11-24) van deze overeenkomst is niet van toepassing op subsidies die betrekking hebben op de handel in goederen die vallen onder de [Overeenkomst inzake landbouw](onbekend), die is neergelegd in bijlage 1A bij de WTO-Overeenkomst.
+4. [Artikel 294](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2021-03-01&g=2021-03-01) van deze overeenkomst is niet van toepassing op subsidies die betrekking hebben op de handel in goederen die vallen onder de [Overeenkomst inzake landbouw](onbekend), die is neergelegd in bijlage 1A bij de WTO-Overeenkomst.
 
-5. De [artikelen 294](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2017-11-24&g=2017-11-24) en [295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2017-11-24&g=2017-11-24) zijn niet van toepassing op de audiovisuele sector.
+5. De [artikelen 294](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2021-03-01&g=2021-03-01) en [295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2021-03-01&g=2021-03-01) zijn niet van toepassing op de audiovisuele sector.
 
 ##### Artikel 292. Verband met de WTO
 
@@ -3546,9 +3546,9 @@ De bepalingen van dit hoofdstuk doen geen afbreuk aan de rechten en verplichting
 
 ##### Artikel 294. Overleg
 
-1. Indien een partij van oordeel is dat een subsidie die door de andere partij is verleend, en die niet is gedekt door [artikel 295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2017-11-24&g=2017-11-24), een negatief effect kan hebben op haar belangen, kan deze partij haar bezorgdheid uitspreken bij de partij die de subsidie heeft verleend, en verzoeken om overleg over de aangelegenheid. De partij waaraan het verzoek is gericht, neemt dit in zorgvuldige en welwillende overweging.
+1. Indien een partij van oordeel is dat een subsidie die door de andere partij is verleend, en die niet is gedekt door [artikel 295](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=295&z=2021-03-01&g=2021-03-01), een negatief effect kan hebben op haar belangen, kan deze partij haar bezorgdheid uitspreken bij de partij die de subsidie heeft verleend, en verzoeken om overleg over de aangelegenheid. De partij waaraan het verzoek is gericht, neemt dit in zorgvuldige en welwillende overweging.
 
-2. Onverminderd de transparantievereisten die zijn uiteengezet in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=293&z=2017-11-24&g=2017-11-24) en met het oog op de oplossing van het probleem, beoogt het overleg in het bijzonder het beleidsdoel vast te stellen waarvoor de subsidies zijn verleend, alsook het bedrag van de subsidie in kwestie, en gegevens waarmee het negatieve effect van de subsidie op de handel en investeringen kan worden geëvalueerd.
+2. Onverminderd de transparantievereisten die zijn uiteengezet in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=293&z=2021-03-01&g=2021-03-01) en met het oog op de oplossing van het probleem, beoogt het overleg in het bijzonder het beleidsdoel vast te stellen waarvoor de subsidies zijn verleend, alsook het bedrag van de subsidie in kwestie, en gegevens waarmee het negatieve effect van de subsidie op de handel en investeringen kan worden geëvalueerd.
 
 3. Om het overleg te vergemakkelijken verstrekt de partij waaraan het verzoek is gericht, binnen 60 dagen na ontvangst van het verzoek informatie over de betrokken subsidie.
 
@@ -3570,7 +3570,7 @@ Elke partij zorgt ervoor dat de bedrijven de verleende subsidies alleen gebruike
 
 ##### Artikel 297. Geschillenbeslechting
 
-Geen partij maakt gebruik van de geschillenbeslechting waarin is voorzien in [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24) van deze overeenkomst voor een zaak die valt onder [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=B&z=2017-11-24&g=2017-11-24) van dit hoofdstuk of onder [artikel 294, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2017-11-24&g=2017-11-24).
+Geen partij maakt gebruik van de geschillenbeslechting waarin is voorzien in [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01) van deze overeenkomst voor een zaak die valt onder [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=B&z=2021-03-01&g=2021-03-01) van dit hoofdstuk of onder [artikel 294, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=10&afdeling=C&artikel=294&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 298. Vertrouwelijkheid
 
@@ -3622,19 +3622,19 @@ Voor de toepassing van dit hoofdstuk is:
 
 2. Dit hoofdstuk heeft betrekking op alle bedrijven die in artikel 300 worden bedoeld als betrokken bij een commerciële activiteit. Indien een bedrijf commerciële en niet-commerciële activiteiten combineert32)Voor alle duidelijkheid wordt voor de toepassing van dit hoofdstuk de verlening van openbare diensten niet beschouwd als een commerciële activiteit in de zin van artikel 301, onder d)., worden alleen de commerciële activiteiten van dat bedrijf door dit hoofdstuk bestreken.
 
-3. Dit hoofdstuk heeft betrekking op alle bedrijven die in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24) worden bedoeld, op centraal en subcentraal bestuursniveau.
+3. Dit hoofdstuk heeft betrekking op alle bedrijven die in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01) worden bedoeld, op centraal en subcentraal bestuursniveau.
 
-4. Dit hoofdstuk is niet van toepassing op aanbestedingen door een partij of door de aanbestedende diensten van een partij in de zin als bedoeld in de [artikelen 278](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=278&z=2017-11-24&g=2017-11-24) en [279](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=279&z=2017-11-24&g=2017-11-24).
+4. Dit hoofdstuk is niet van toepassing op aanbestedingen door een partij of door de aanbestedende diensten van een partij in de zin als bedoeld in de [artikelen 278](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=278&z=2021-03-01&g=2021-03-01) en [279](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=9&artikel=279&z=2021-03-01&g=2021-03-01).
 
 5. Dit hoofdstuk is niet van toepassing op enige dienst die wordt verleend in het kader van de uitoefening van bestuursgezag in de zin van [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B).
 
-6. [Artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=304&z=2017-11-24&g=2017-11-24):
+6. [Artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=304&z=2021-03-01&g=2021-03-01):
 
-- a. is niet van toepassing op de sectoren die zijn bedoeld in de [artikelen 143](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=143&z=2017-11-24&g=2017-11-24) en [148](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=148&z=2017-11-24&g=2017-11-24);
+- a. is niet van toepassing op de sectoren die zijn bedoeld in de [artikelen 143](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=143&z=2021-03-01&g=2021-03-01) en [148](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=148&z=2021-03-01&g=2021-03-01);
 
-- b. is niet van toepassing op welke maatregel dan ook van een overheidsbedrijf, een bedrijf waaraan bijzondere rechten of privileges zijn toegekend, of een aangewezen monopolie, indien een voorbehoud van een partij, dat is gemaakt tegen een verplichting van nationale behandeling of van meestbegunstigingsbehandeling in het kader van [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2017-11-24&g=2017-11-24), als uiteengezet in het schema van de partij in bijlage VIII-A voor de Europese Unie of bijlage VIII-E voor de Republiek Armenië, van toepassing zou zijn indien dezelfde maatregel door die partij zou zijn genomen of gehandhaafd; alsmede
+- b. is niet van toepassing op welke maatregel dan ook van een overheidsbedrijf, een bedrijf waaraan bijzondere rechten of privileges zijn toegekend, of een aangewezen monopolie, indien een voorbehoud van een partij, dat is gemaakt tegen een verplichting van nationale behandeling of van meestbegunstigingsbehandeling in het kader van [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=B&artikel=144&z=2021-03-01&g=2021-03-01), als uiteengezet in het schema van de partij in bijlage VIII-A voor de Europese Unie of bijlage VIII-E voor de Republiek Armenië, van toepassing zou zijn indien dezelfde maatregel door die partij zou zijn genomen of gehandhaafd; alsmede
 
-- c. is van toepassing op commerciële activiteiten van een overheidsbedrijf, een bedrijf waaraan bijzondere rechten of privileges zijn toegekend, of een aangewezen monopolie, indien dezelfde activiteit gevolgen zou hebben voor de handel in diensten met betrekking waartoe een partij in het kader van de [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=149&z=2017-11-24&g=2017-11-24) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2017-11-24&g=2017-11-24) verbintenissen op zich heeft genomen, met inachtneming van de voorwaarden en kwalificaties als uiteengezet in het schema van die partij in bijlage VIII-B voor de Europese Unie of bijlage VIII-F voor de Republiek Armenië.
+- c. is van toepassing op commerciële activiteiten van een overheidsbedrijf, een bedrijf waaraan bijzondere rechten of privileges zijn toegekend, of een aangewezen monopolie, indien dezelfde activiteit gevolgen zou hebben voor de handel in diensten met betrekking waartoe een partij in het kader van de [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=149&z=2021-03-01&g=2021-03-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=C&artikel=150&z=2021-03-01&g=2021-03-01) verbintenissen op zich heeft genomen, met inachtneming van de voorwaarden en kwalificaties als uiteengezet in het schema van die partij in bijlage VIII-B voor de Europese Unie of bijlage VIII-F voor de Republiek Armenië.
 
 ##### Artikel 303. Algemene bepalingen
 
@@ -3668,7 +3668,7 @@ Voor de toepassing van dit hoofdstuk is:
 
 ##### Artikel 305. Uitgangspunten van de regelgeving
 
-1. Elke partij streeft ernaar te garanderen dat de bedrijven als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24) de internationaal erkende normen van behoorlijk ondernemingsbestuur naleven.
+1. Elke partij streeft ernaar te garanderen dat de bedrijven als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01) de internationaal erkende normen van behoorlijk ondernemingsbestuur naleven.
 
 2. Elke partij zorgt ervoor dat met het oog op een doeltreffende en onpartijdige uitoefening van haar regelgevende opdracht in gelijksoortige omstandigheden met betrekking tot alle bedrijven waarover zij toezicht uitoefent, met inbegrip van overheidsbedrijven, bedrijven waaraan bijzondere rechten of privileges zijn toegekend, of aangewezen monopolies, elk regelgevend orgaan dat door een partij wordt opgericht of gehandhaafd, geen verantwoording verschuldigd is aan een van de bedrijven die het controleert.
 
@@ -3676,27 +3676,27 @@ De onpartijdigheid waarvan het regelgevende orgaan bij zijn werkzaamheden blijk 
 
 Voor die sectoren waarvoor de partijen in andere hoofdstukken specifieke verplichtingen zijn overeengekomen in verband met het regelgevende orgaan, zijn de relevante bepalingen in die andere hoofdstukken van kracht.
 
-3. Elke partij zorgt ervoor dat de wet- en regelgeving op een consistente en niet-discriminatoire wijze wordt gehandhaafd, met inbegrip van de wet- en regelgeving voor ondernemingen als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24).
+3. Elke partij zorgt ervoor dat de wet- en regelgeving op een consistente en niet-discriminatoire wijze wordt gehandhaafd, met inbegrip van de wet- en regelgeving voor ondernemingen als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 306. Transparantie
 
-1. Indien een partij redenen heeft om aan te nemen dat haar belangen in het kader van dit hoofdstuk worden geschaad door de commerciële activiteiten van een bedrijf van de andere partij als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24), en die vallen onder het toepassingsgebied van dit hoofdstuk, kan zij de andere partij schriftelijk verzoeken om informatie over de activiteiten van dat bedrijf die verband houden met de door dit hoofdstuk bestreken activiteiten.
+1. Indien een partij redenen heeft om aan te nemen dat haar belangen in het kader van dit hoofdstuk worden geschaad door de commerciële activiteiten van een bedrijf van de andere partij als bedoeld in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01), en die vallen onder het toepassingsgebied van dit hoofdstuk, kan zij de andere partij schriftelijk verzoeken om informatie over de activiteiten van dat bedrijf die verband houden met de door dit hoofdstuk bestreken activiteiten.
 
 In een verzoek om dergelijke informatie moet worden vermeld om welke ondernemingen, welke producten of diensten en welke markten het gaat en welke aanwijzingen er zijn dat deze onderneming praktijken hanteert die de handel of investeringen tussen de partijen belemmeren.
 
 2. De overeenkomstig lid 1 verstrekte informatie bevat de volgende gegevens:
 
-- a. de eigendom en de stemverhoudingen van de onderneming, waarbij het percentage aandelen en het percentage stemrechten die een partij of een in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24) bedoelde onderneming cumulatief in bezit heeft, worden aangegeven;
+- a. de eigendom en de stemverhoudingen van de onderneming, waarbij het percentage aandelen en het percentage stemrechten die een partij of een in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01) bedoelde onderneming cumulatief in bezit heeft, worden aangegeven;
 
-- b. een beschrijving van eventuele speciale aandelen of speciale stem- of andere rechten die een partij of een in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24) bedoelde onderneming in bezit heeft, indien deze rechten verschillen van de rechten die verbonden zijn met de algemene gewone aandelen van zulk een entiteit;
+- b. een beschrijving van eventuele speciale aandelen of speciale stem- of andere rechten die een partij of een in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01) bedoelde onderneming in bezit heeft, indien deze rechten verschillen van de rechten die verbonden zijn met de algemene gewone aandelen van zulk een entiteit;
 
-- c. de organisatiestructuur van het bedrijf; de samenstelling van de raad van bestuur of van een equivalent orgaan dat directe of indirecte controle uitoefent op zulk een onderneming; en wederzijdse deelname en andere banden met diverse bedrijven of groepen bedrijven, als gespecificeerd in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24);
+- c. de organisatiestructuur van het bedrijf; de samenstelling van de raad van bestuur of van een equivalent orgaan dat directe of indirecte controle uitoefent op zulk een onderneming; en wederzijdse deelname en andere banden met diverse bedrijven of groepen bedrijven, als gespecificeerd in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01);
 
 - d. een beschrijving van de ministeries of overheidsorganen die de onderneming beheren en controleren, een beschrijving van de rapportagekanalen33)Voor alle duidelijkheid: een partij is niet gehouden verslagen te publiceren of de inhoud van enig verslag bekend te maken., alsook van de rechten en werkwijzen van de regering of enig ander overheidsorgaan bij de benoeming, het ontslag of de vergoeding van bestuurders;
 
 - e. het jaarlijkse inkomen of de totale waarde van activa, of beide; alsmede
 
-- f. uitzonderingen, niet-conforme maatregelen, immuniteiten en andere maatregelen, inclusief gunstigere behandeling, die op het grondgebied van de partij waaraan het verzoek wordt gericht, worden toegepast op in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2017-11-24&g=2017-11-24) bedoelde ondernemingen.
+- f. uitzonderingen, niet-conforme maatregelen, immuniteiten en andere maatregelen, inclusief gunstigere behandeling, die op het grondgebied van de partij waaraan het verzoek wordt gericht, worden toegepast op in [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=11&artikel=300&z=2021-03-01&g=2021-03-01) bedoelde ondernemingen.
 
 3. De punten a) tot en met e) van lid 2 zijn niet van toepassing op kleine en middelgrote ondernemingen, zoals gedefinieerd in de wet- en regelgeving van de partij.
 
@@ -3742,7 +3742,7 @@ De partijen erkennen dat de regelgeving gevolgen voor hun onderlinge handel en i
 
 3. Elke partij voert passende mechanismen in, of handhaaft deze, om vragen van enige persoon over voorgestelde of van kracht zijnde algemene maatregelen en over de toepassing daarvan te beantwoorden. De vragen kunnen worden ingediend via het krachtens lid 1 opgerichte contactpunt of via een ander geschikt mechanisme, tenzij in deze overeenkomst een specifiek mechanisme is opgericht.
 
-4. Elke partij voorziet in procedures voor personen die een oplossing zoeken voor problemen die zich voordoen wegens de toepassing van maatregelen van algemene strekking in het kader van deze overeenkomst. Deze procedures doen geen afbreuk aan beroeps- of toetsingsprocedures die de partijen invoeren of handhaven in het kader van deze overeenkomst. Ook doen zij geen afbreuk aan de rechten en verplichtingen van de partijen uit hoofde van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24).
+4. Elke partij voorziet in procedures voor personen die een oplossing zoeken voor problemen die zich voordoen wegens de toepassing van maatregelen van algemene strekking in het kader van deze overeenkomst. Deze procedures doen geen afbreuk aan beroeps- of toetsingsprocedures die de partijen invoeren of handhaven in het kader van deze overeenkomst. Ook doen zij geen afbreuk aan de rechten en verplichtingen van de partijen uit hoofde van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01).
 
 5. De partijen erkennen dat de uit hoofde van dit artikel gegeven antwoorden niet altijd definitief en juridisch bindend zijn, maar alleen ter informatie worden gegeven, tenzij in hun wet- en regelgeving anders wordt bepaald.
 
@@ -3808,7 +3808,7 @@ Dit hoofdstuk is van toepassing op alle geschillen over de interpretatie en toep
 
 4. Overleg over dringende aangelegenheden, zoals wanneer het bederfelijke waren, seizoensgebonden goederen of diensten of energie-gerelateerde aangelegenheden betreft, wordt binnen 15 dagen na de datum van ontvangst van het verzoek door de partij waaraan het gericht is, gehouden en wordt binnen hetzelfde tijdsbestek geacht te zijn afgesloten, tenzij beide partijen overeenkomen het overleg voort te zetten.
 
-5. Een partij die om overleg verzoekt, kan een beroep doen op bemiddeling overeenkomstig [artikel 319](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=319&z=2017-11-24&g=2017-11-24), indien:
+5. Een partij die om overleg verzoekt, kan een beroep doen op bemiddeling overeenkomstig [artikel 319](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=319&z=2021-03-01&g=2021-03-01), indien:
 
 - a. de partij waaraan het verzoek om overleg gericht is, niet binnen 10 dagen na de datum van ontvangst van het verzoek hierop reageert;
 
@@ -3834,7 +3834,7 @@ Dit hoofdstuk is van toepassing op alle geschillen over de interpretatie en toep
 
 ##### Artikel 320. Inleiding van de arbitrageprocedure
 
-1. Wanneer de partijen er niet in zijn geslaagd het geschil door middel van het in [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=318&z=2017-11-24&g=2017-11-24) bedoelde overleg op te lossen, kan de partij die om overleg heeft verzocht, overeenkomstig dit artikel om de instelling van een arbitragepanel verzoeken.
+1. Wanneer de partijen er niet in zijn geslaagd het geschil door middel van het in [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=318&z=2021-03-01&g=2021-03-01) bedoelde overleg op te lossen, kan de partij die om overleg heeft verzocht, overeenkomstig dit artikel om de instelling van een arbitragepanel verzoeken.
 
 2. Het verzoek om instelling van een arbitragepanel wordt schriftelijk gedaan bij de andere partij en bij het Partnerschapscomité. De klagende partij vermeldt in haar verzoek de maatregel die in het geding is, en legt uit waarom die maatregel een inbreuk is op de bepalingen van deze titel, waarbij duidelijk de rechtsgrond voor de klacht wordt aangegeven.
 
@@ -3844,21 +3844,21 @@ Dit hoofdstuk is van toepassing op alle geschillen over de interpretatie en toep
 
 2. Binnen 14 dagen na de datum waarop het schriftelijke verzoek tot instelling van een arbitragepanel is ingediend bij de partij waartegen de klacht is gericht, voeren de partijen overleg teneinde overeen te komen over de samenstelling van het panel.
 
-3. Wanneer de partijen binnen de in lid 2 van dit artikel genoemde termijn geen overeenstemming over de samenstelling van het arbitragepanel bereiken, kan elke partij binnen vijf dagen na het verstrijken van de in lid 2 vastgestelde termijn een arbiter benoemen uit de overeenkomstig [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2017-11-24&g=2017-11-24) opgestelde sublijst van die partij. Wanneer een van de partijen verzuimt een arbiter te benoemen, wordt deze op verzoek van de andere partij door de voorzitter van het Partnerschapscomité, of door diens vertegenwoordiger, door middel van loting aangewezen uit de overeenkomstig artikel 339 opgestelde sublijst van die partij.
+3. Wanneer de partijen binnen de in lid 2 van dit artikel genoemde termijn geen overeenstemming over de samenstelling van het arbitragepanel bereiken, kan elke partij binnen vijf dagen na het verstrijken van de in lid 2 vastgestelde termijn een arbiter benoemen uit de overeenkomstig [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2021-03-01&g=2021-03-01) opgestelde sublijst van die partij. Wanneer een van de partijen verzuimt een arbiter te benoemen, wordt deze op verzoek van de andere partij door de voorzitter van het Partnerschapscomité, of door diens vertegenwoordiger, door middel van loting aangewezen uit de overeenkomstig artikel 339 opgestelde sublijst van die partij.
 
-4. Tenzij de partijen binnen de in lid 2 van dit artikel vastgestelde termijn overeenstemming bereiken over de voorzitter van het arbitragepanel, wordt deze op verzoek van een van de partijen door de voorzitter van het Partnerschapscomité, of diens vertegenwoordiger, door middel van loting aangewezen uit de sublijst van voorzitters die is opgenomen in de overeenkomstig [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2017-11-24&g=2017-11-24) opgestelde lijst.
+4. Tenzij de partijen binnen de in lid 2 van dit artikel vastgestelde termijn overeenstemming bereiken over de voorzitter van het arbitragepanel, wordt deze op verzoek van een van de partijen door de voorzitter van het Partnerschapscomité, of diens vertegenwoordiger, door middel van loting aangewezen uit de sublijst van voorzitters die is opgenomen in de overeenkomstig [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2021-03-01&g=2021-03-01) opgestelde lijst.
 
 5. De voorzitter van het Partnerschapscomité of diens vertegenwoordiger wijst binnen vijf dagen na het in lid 3 of 4 bedoelde verzoek de arbiters aan.
 
 6. De datum van instelling van het arbitragepanel is die waarop alle drie de aangewezen arbiters hun benoeming hebben aanvaard overeenkomstig het reglement van orde.
 
-7. Indien een of meer van de in [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2017-11-24&g=2017-11-24) bedoelde lijsten niet zijn opgesteld of niet voldoende namen bevatten op het tijdstip van indiening van een verzoek als bedoeld in lid 3 of 4 van dit artikel, worden de arbiters door middel van loting aangewezen uit de personen die door een van de partijen of door beide partijen formeel zijn voorgedragen.
+7. Indien een of meer van de in [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=D&artikel=339&z=2021-03-01&g=2021-03-01) bedoelde lijsten niet zijn opgesteld of niet voldoende namen bevatten op het tijdstip van indiening van een verzoek als bedoeld in lid 3 of 4 van dit artikel, worden de arbiters door middel van loting aangewezen uit de personen die door een van de partijen of door beide partijen formeel zijn voorgedragen.
 
 ##### Artikel 322. Mandaat
 
 1. Tenzij de partijen binnen vijf dagen na de datum van aanwijzing van de arbiters anders overeenkomen, luidt de taakomschrijving van het arbitragepanel als volgt:
 
-„In het licht van de desbetreffende bepalingen van [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=V&z=2017-11-24&g=2017-11-24) van deze overeenkomst waarop de partijen bij het geschil zich beroepen, de aangelegenheid onderzoeken die in het verzoek om instelling van het arbitragepanel is beschreven, zich uitspreken over de verenigbaarheid van de maatregel in kwestie met de genoemde relevante bepalingen en een verslag uitbrengen overeenkomstig de [artikelen 324](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=324&z=2017-11-24&g=2017-11-24), [325](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=325&z=2017-11-24&g=2017-11-24), [326](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=326&z=2017-11-24&g=2017-11-24) en [338](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=338&z=2017-11-24&g=2017-11-24) van deze overeenkomst.”.
+„In het licht van de desbetreffende bepalingen van [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=V&z=2021-03-01&g=2021-03-01) van deze overeenkomst waarop de partijen bij het geschil zich beroepen, de aangelegenheid onderzoeken die in het verzoek om instelling van het arbitragepanel is beschreven, zich uitspreken over de verenigbaarheid van de maatregel in kwestie met de genoemde relevante bepalingen en een verslag uitbrengen overeenkomstig de [artikelen 324](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=324&z=2021-03-01&g=2021-03-01), [325](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=325&z=2021-03-01&g=2021-03-01), [326](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=326&z=2021-03-01&g=2021-03-01) en [338](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=338&z=2021-03-01&g=2021-03-01) van deze overeenkomst.”.
 
 2. De partijen stellen het arbitragepanel binnen drie dagen in kennis van de overeengekomen taakomschrijving.
 
@@ -3880,15 +3880,15 @@ Indien een partij daarom verzoekt, doet het arbitragepanel binnen 10 dagen na zi
 
 1. Uiterlijk 90 dagen na de datum van instelling van het arbitragepanel, legt het een tussentijds verslag voor aan de partijen. Wanneer het arbitragepanel van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Partnerschapscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het arbitragepanel zijn tussentijds verslag denkt te kunnen voorleggen. In geen geval mag het tussentijds verslag later dan 120 dagen na de instelling van het arbitragepanel worden uitgebracht.
 
-2. In dringende gevallen, als bedoeld in [artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=323&z=2017-11-24&g=2017-11-24), zoals wanneer het bederfelijke waren, seizoensgebonden goederen of diensten of energie-gerelateerde aangelegenheden betreft, stelt het arbitragepanel alles in het werk om zijn tussentijdse verslag binnen 45, maar in geen geval later dan 60 dagen na de datum van zijn instelling voor te leggen.
+2. In dringende gevallen, als bedoeld in [artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=323&z=2021-03-01&g=2021-03-01), zoals wanneer het bederfelijke waren, seizoensgebonden goederen of diensten of energie-gerelateerde aangelegenheden betreft, stelt het arbitragepanel alles in het werk om zijn tussentijdse verslag binnen 45, maar in geen geval later dan 60 dagen na de datum van zijn instelling voor te leggen.
 
-3. Een partij kan binnen 14 dagen na ontvangst van het tussentijdse verslag het arbitragepanel schriftelijk verzoeken bepaalde aspecten te heroverwegen, overeenkomstig [artikel 324, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=324&z=2017-11-24&g=2017-11-24). Dit verzoek wordt tegelijkertijd aan de andere partij meegedeeld. Een partij kan binnen 7 dagen na ontvangst van het schriftelijke verzoek van de andere partij aan het arbitragepanel aantekeningen daarbij maken.
+3. Een partij kan binnen 14 dagen na ontvangst van het tussentijdse verslag het arbitragepanel schriftelijk verzoeken bepaalde aspecten te heroverwegen, overeenkomstig [artikel 324, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=324&z=2021-03-01&g=2021-03-01). Dit verzoek wordt tegelijkertijd aan de andere partij meegedeeld. Een partij kan binnen 7 dagen na ontvangst van het schriftelijke verzoek van de andere partij aan het arbitragepanel aantekeningen daarbij maken.
 
 ##### Artikel 326. Eindverslag van het arbitragepanel
 
 1. Uiterlijk 120 dagen na de datum van instelling legt het arbitragepanel een eindverslag voor aan de partijen en het Partnerschapscomité. Wanneer het arbitragepanel van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Partnerschapscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het arbitragepanel zijn eindverslag denkt te kunnen voorleggen. In geen geval wordt het eindverslag later dan 150 dagen na de datum van instelling van het arbitragepanel voorgelegd.
 
-2. In dringende gevallen, als bedoeld in [artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=323&z=2017-11-24&g=2017-11-24), zoals wanneer het bederfelijke waren, seizoensgebonden goederen of diensten of energie-gerelateerde aangelegenheden betreft, stelt het arbitragepanel alles in het werk om binnen 60 dagen na de datum van zijn instelling kennis te geven van zijn eindverslag. In geen geval wordt het eindverslag later dan 75 dagen na de datum van instelling van het arbitragepanel voorgelegd.
+2. In dringende gevallen, als bedoeld in [artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=323&z=2021-03-01&g=2021-03-01), zoals wanneer het bederfelijke waren, seizoensgebonden goederen of diensten of energie-gerelateerde aangelegenheden betreft, stelt het arbitragepanel alles in het werk om binnen 60 dagen na de datum van zijn instelling kennis te geven van zijn eindverslag. In geen geval wordt het eindverslag later dan 75 dagen na de datum van instelling van het arbitragepanel voorgelegd.
 
 #### ONDERAFDELING II. NALEVING
 
@@ -3914,19 +3914,19 @@ De partij waartegen de klacht is gericht, neemt de nodige maatregelen om het ein
 
 ##### Artikel 330. Tijdelijke maatregelen bij niet-naleving
 
-1. Indien de partij waartegen de klacht is gericht, niet voor afloop van de redelijke termijn kennis geeft van een maatregel die zij heeft getroffen om het eindverslag van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat er geen dergelijke maatregel is getroffen of dat de maatregel waarvan overeenkomstig [artikel 329, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2017-11-24&g=2017-11-24), kennis is gegeven, niet verenigbaar is met de verplichtingen van de partij krachtens de bepalingen van deze titel, biedt de partij waartegen de klacht is gericht de klagende partij, op verzoek van en na overleg met deze laatste, een compensatie aan.
+1. Indien de partij waartegen de klacht is gericht, niet voor afloop van de redelijke termijn kennis geeft van een maatregel die zij heeft getroffen om het eindverslag van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat er geen dergelijke maatregel is getroffen of dat de maatregel waarvan overeenkomstig [artikel 329, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2021-03-01&g=2021-03-01), kennis is gegeven, niet verenigbaar is met de verplichtingen van de partij krachtens de bepalingen van deze titel, biedt de partij waartegen de klacht is gericht de klagende partij, op verzoek van en na overleg met deze laatste, een compensatie aan.
 
-2. Indien de klagende partij besluit niet om een aanbod voor tijdelijke compensatie als bedoeld in lid 1 van dit artikel te verzoeken of, wanneer zij wel daarom verzoekt maar de partijen geen akkoord over compensatie bereiken binnen 30 dagen na afloop van de redelijke termijn of de kennisgeving van de uitspraak van het arbitragepanel op grond van [artikel 329, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2017-11-24&g=2017-11-24), heeft de klagende partij het recht, na kennisgeving aan de andere partij en het Partnerschapscomité, de verplichtingen uit hoofde van de bepalingen van deze titel op te schorten. In de kennisgeving wordt gespecificeerd in welke mate de verplichtingen worden opgeschort. Deze mate stemt overeen met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt. De klagende partij mag de opschorting 10 dagen na de datum van ontvangst van de kennisgeving door de partij waartegen de klacht gericht is, toepassen, tenzij de partij waartegen de klacht gericht is, uit hoofde van lid 3 van dit artikel een verzoek tot arbitrage heeft ingediend.
+2. Indien de klagende partij besluit niet om een aanbod voor tijdelijke compensatie als bedoeld in lid 1 van dit artikel te verzoeken of, wanneer zij wel daarom verzoekt maar de partijen geen akkoord over compensatie bereiken binnen 30 dagen na afloop van de redelijke termijn of de kennisgeving van de uitspraak van het arbitragepanel op grond van [artikel 329, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2021-03-01&g=2021-03-01), heeft de klagende partij het recht, na kennisgeving aan de andere partij en het Partnerschapscomité, de verplichtingen uit hoofde van de bepalingen van deze titel op te schorten. In de kennisgeving wordt gespecificeerd in welke mate de verplichtingen worden opgeschort. Deze mate stemt overeen met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt. De klagende partij mag de opschorting 10 dagen na de datum van ontvangst van de kennisgeving door de partij waartegen de klacht gericht is, toepassen, tenzij de partij waartegen de klacht gericht is, uit hoofde van lid 3 van dit artikel een verzoek tot arbitrage heeft ingediend.
 
 3. Indien de partij waartegen de klacht gericht is, van oordeel is dat de geplande mate van opschorting van de verplichtingen niet overeenstemt met de mate waarin de schending de voordelen voor de andere partij tenietdoet of beperkt, kan zij het oorspronkelijke arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. Dit verzoek wordt voor het verstrijken van de in lid 2 bedoelde periode van 10 dagen meegedeeld aan de klagende partij en aan het Partnerschapscomité. Het oorspronkelijke arbitragepanel maakt zijn verslag over de mate van opschorting van verplichtingen binnen 30 dagen na indiening van het verzoek aan de partijen en het Partnerschapscomité bekend. De verplichtingen worden niet opgeschort voordat het oorspronkelijke arbitragepanel zijn verslag heeft bekendgemaakt. De opschorting stemt overeen met de mate van opschorting die in het verslag van het arbitragepanel wordt aangegeven.
 
 4. De opschorting van de verplichtingen en de in dit artikel voorziene compensatie zijn van tijdelijke aard en mogen niet meer worden toegepast nadat:
 
-- a. de partijen ingevolge [artikel 334](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=334&z=2017-11-24&g=2017-11-24) tot een onderling overeengekomen oplossing zijn gekomen;
+- a. de partijen ingevolge [artikel 334](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=334&z=2021-03-01&g=2021-03-01) tot een onderling overeengekomen oplossing zijn gekomen;
 
-- b. de partijen zijn overeengekomen dat de maatregel waarvan overeenkomstig [artikel 329, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2017-11-24&g=2017-11-24), is kennis gegeven, ertoe leidt dat de partij waartegen de klacht is gericht, in overeenstemming is met de bepalingen van deze titel; of
+- b. de partijen zijn overeengekomen dat de maatregel waarvan overeenkomstig [artikel 329, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2021-03-01&g=2021-03-01), is kennis gegeven, ertoe leidt dat de partij waartegen de klacht is gericht, in overeenstemming is met de bepalingen van deze titel; of
 
-- c. de maatregel waarvan het arbitragepanel overeenkomstig [artikel 329, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2017-11-24&g=2017-11-24), heeft vastgesteld dat deze niet verenigbaar is met de bepalingen van deze titel, is ingetrokken of gewijzigd zodat de maatregel met die bepalingen in overeenstemming is gebracht.
+- c. de maatregel waarvan het arbitragepanel overeenkomstig [artikel 329, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=II&artikel=329&z=2021-03-01&g=2021-03-01), heeft vastgesteld dat deze niet verenigbaar is met de bepalingen van deze titel, is ingetrokken of gewijzigd zodat de maatregel met die bepalingen in overeenstemming is gebracht.
 
 ##### Artikel 331. Onderzoek van nalevingsmaatregelen die zijn getroffen na vaststelling van tijdelijke maatregelen bij niet-naleving
 
@@ -3938,7 +3938,7 @@ De partij waartegen de klacht is gericht, neemt de nodige maatregelen om het ein
 
 ##### Artikel 332. Vervanging van arbiters
 
-Indien in een in het kader van dit hoofdstuk gevoerde arbitrageprocedure het oorspronkelijke arbitragepanel niet in staat is of een of meer leden ervan niet in staat zijn om aan de werkzaamheden van het panel deel te nemen, zich terugtrekken of moeten worden vervangen wegens schending van de gedragscode, is de procedure van [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=321&z=2017-11-24&g=2017-11-24) van toepassing. De termijn voor kennisgeving van het verslag kan worden verlengd met de tijd die nodig is om een nieuwe arbiter te benoemen, maar in geen geval met meer dan 20 dagen.
+Indien in een in het kader van dit hoofdstuk gevoerde arbitrageprocedure het oorspronkelijke arbitragepanel niet in staat is of een of meer leden ervan niet in staat zijn om aan de werkzaamheden van het panel deel te nemen, zich terugtrekken of moeten worden vervangen wegens schending van de gedragscode, is de procedure van [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=321&z=2021-03-01&g=2021-03-01) van toepassing. De termijn voor kennisgeving van het verslag kan worden verlengd met de tijd die nodig is om een nieuwe arbiter te benoemen, maar in geen geval met meer dan 20 dagen.
 
 ##### Artikel 333. Schorsing en beëindiging van arbitrage- en nalevingsprocedures
 
@@ -3992,7 +3992,7 @@ Het arbitragepanel legt de bepalingen van deze titel uit volgens de gebruikelijk
 
 2. De arbiters beschikken over aantoonbare deskundigheid op het gebied van het recht, de internationale handel en andere onderwerpen waarop de bepalingen van deze titel betrekking hebben. Zij zijn onafhankelijk, treden op persoonlijke titel op, nemen geen instructies aan van enige organisatie of regering, zijn niet verbonden aan de regering van een van de partijen en houden zich aan de gedragscode. De voorzitter beschikt ook over ervaring met procedures voor geschillenbeslechting.
 
-3. Het Partnerschapscomité kan aanvullende lijsten van 15 personen met kennis van en ervaring in specifieke, onder de bepalingen van deze titel vallende sectoren opstellen. Met instemming van de partijen worden die aanvullende lijsten gebruikt voor de samenstelling van het arbitragepanel overeenkomstig de procedure van [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=321&z=2017-11-24&g=2017-11-24).
+3. Het Partnerschapscomité kan aanvullende lijsten van 15 personen met kennis van en ervaring in specifieke, onder de bepalingen van deze titel vallende sectoren opstellen. Met instemming van de partijen worden die aanvullende lijsten gebruikt voor de samenstelling van het arbitragepanel overeenkomstig de procedure van [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=321&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 340. Forumkeuze
 
@@ -4002,7 +4002,7 @@ Het arbitragepanel legt de bepalingen van deze titel uit volgens de gebruikelijk
 
 3. Voor de toepassing van dit artikel wordt:
 
-- a. een procedure voor geschillenbeslechting krachtens dit hoofdstuk geacht te zijn ingeleid wanneer een partij overeenkomstig [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=320&z=2017-11-24&g=2017-11-24) een verzoek tot instelling van een arbitragepanel indient;
+- a. een procedure voor geschillenbeslechting krachtens dit hoofdstuk geacht te zijn ingeleid wanneer een partij overeenkomstig [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=I&artikel=320&z=2021-03-01&g=2021-03-01) een verzoek tot instelling van een arbitragepanel indient;
 
 - b. een procedure voor geschillenbeslechting krachtens de WTO-overeenkomst geacht te zijn ingeleid wanneer een partij overeenkomstig [artikel 6 van het WTO-memorandum van overeenstemming inzake de regels en procedures betreffende de geschillenbeslechting](onbekend) een verzoek om instelling van een panel indient; alsmede
 
@@ -4018,7 +4018,7 @@ Het arbitragepanel legt de bepalingen van deze titel uit volgens de gebruikelijk
 
 ##### Artikel 342. Verwijzingen naar Hof van Justitie van de Europese Unie
 
-1. De procedure als bedoeld in lid 2 is van toepassing op geschillen die vragen opwerpen over de interpretatie van de bepalingen inzake aanpassing van de [artikelen 169](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=IV&artikel=169&z=2017-11-24&g=2017-11-24), [180](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=180&z=2017-11-24&g=2017-11-24), [189](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VI&artikel=189&z=2017-11-24&g=2017-11-24) en [192](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VII&artikel=192&z=2017-11-24&g=2017-11-24).
+1. De procedure als bedoeld in lid 2 is van toepassing op geschillen die vragen opwerpen over de interpretatie van de bepalingen inzake aanpassing van de [artikelen 169](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=IV&artikel=169&z=2021-03-01&g=2021-03-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=V&artikel=180&z=2021-03-01&g=2021-03-01), [189](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VI&artikel=189&z=2021-03-01&g=2021-03-01) en [192](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=5&afdeling=E&paragraaf=VII&artikel=192&z=2021-03-01&g=2021-03-01).
 
 2. Indien een geschil als bedoeld in lid 1 een vraag opwerpt over de interpretatie van een bepaling van recht van de Europese Unie, verzoekt het arbitragepanel het Hof van Justitie van de Europese Unie daarover uitspraak te doen, mits deze vraag noodzakelijk is voor het besluit van het arbitragepanel. In die gevallen worden de termijnen voor het doen van een uitspraak door het arbitragepanel opgeschort totdat het Hof van Justitie van de Europese Unie uitspraak heeft gedaan. De uitspraak van het Hof van Justitie van de Europese Unie is bindend voor het arbitragepanel.
 
@@ -4050,7 +4050,7 @@ De Partnerschapsraad wordt op de hoogte gehouden van de voortgang en de uitvoeri
 
 ##### Artikel 347
 
-De partijen voeren de financiële steun uit volgens de beginselen van goed financieel beheer en werken samen om de financiële belangen van de Europese Unie en de Republiek Armenië te beschermen, overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VII&hoofdstuk=2&z=2017-11-24&g=2017-11-24) van deze titel.
+De partijen voeren de financiële steun uit volgens de beginselen van goed financieel beheer en werken samen om de financiële belangen van de Europese Unie en de Republiek Armenië te beschermen, overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VII&hoofdstuk=2&z=2021-03-01&g=2021-03-01) van deze titel.
 
 ### HOOFDSTUK 2. FRAUDEBESTRIJDINGS- EN CONTROLEBEPALINGEN
 
@@ -4072,7 +4072,7 @@ De partijen nemen doeltreffende maatregelen om fraude, corruptie en andere illeg
 
 2. Het Europees Bureau voor Fraudebestrijding kan met de instanties voor fraudebestrijding van de Republiek Armenië afspraken maken over verdere samenwerking op het vlak van fraudebestrijding met inbegrip van operationele regelingen met de autoriteiten van de Republiek Armenië.
 
-3. Voor de overdracht en de verwerking van persoonsgegevens is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=III&artikel=13&z=2017-11-24&g=2017-11-24) van toepassing.
+3. Voor de overdracht en de verwerking van persoonsgegevens is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=III&artikel=13&z=2021-03-01&g=2021-03-01) van toepassing.
 
 ##### Artikel 352. Samenwerking met het oog op de bescherming van de euro en de Armeense dram tegen valsemunterij
 
@@ -4170,7 +4170,7 @@ De Republiek Armenië past haar wetgeving aan die van de Europese Unie en aan de
 
 7. De Partnerschapsraad is een forum voor uitwisseling van informatie over de wetgeving van de Europese Unie en de Republiek Armenië, zowel wetgeving die in voorbereiding is als wetgeving die van kracht is, en over de maatregelen ter uitvoering, afdwinging en naleving ervan.
 
-8. De Partnerschapsraad is bevoegd om de bijlagen bij te werken of te wijzigen, zonder afbreuk te doen aan eventuele specifieke bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24).
+8. De Partnerschapsraad is bevoegd om de bijlagen bij te werken of te wijzigen, zonder afbreuk te doen aan eventuele specifieke bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 363. Partnerschapscomité
 
@@ -4186,7 +4186,7 @@ De Republiek Armenië past haar wetgeving aan die van de Europese Unie en aan de
 
 6. Het Partnerschapscomité kan besluiten vaststellen op gebieden waar de Partnerschapsraad bevoegdheden aan het comité heeft gedelegeerd en in de gevallen waarin deze overeenkomst voorziet. Die besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. Het Partnerschapscomité stelt zijn besluiten vast in overleg tussen de partijen, met gepaste eerbiediging voor de voltooiing van de respectievelijke interne procedures van de partijen.
 
-7. Het Partnerschapscomité komt in een specifieke samenstelling bijeen voor de bespreking van alle onderwerpen met betrekking tot [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24). Het Partnerschapscomité komt in deze samenstelling ten minste eenmaal per jaar bijeen.
+7. Het Partnerschapscomité komt in een specifieke samenstelling bijeen voor de bespreking van alle onderwerpen met betrekking tot [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01). Het Partnerschapscomité komt in deze samenstelling ten minste eenmaal per jaar bijeen.
 
 ##### Artikel 364. Subcomités en andere organen
 
@@ -4266,11 +4266,11 @@ Niets in deze overeenkomst wordt zodanig uitgelegd dat:
 
 ##### Artikel 370. Geleidelijke aanpassing
 
-De Republiek Armenië brengt haar wetgeving geleidelijk in overeenstemming met de in de bijlagen beschreven EU-wetgeving, op basis van de verbintenissen die zijn beschreven in deze overeenkomst en de bepalingen van de genoemde bijlagen. Dit artikel doet geen afbreuk aan eventuele bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24).
+De Republiek Armenië brengt haar wetgeving geleidelijk in overeenstemming met de in de bijlagen beschreven EU-wetgeving, op basis van de verbintenissen die zijn beschreven in deze overeenkomst en de bepalingen van de genoemde bijlagen. Dit artikel doet geen afbreuk aan eventuele bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 371. Dynamische aanpassing
 
-In overeenstemming met de doelstelling van de geleidelijke aanpassing van de wetgeving van Armenië aan de EU-wetgeving, zal de Partnerschapsraad de bijlagen bij deze overeenkomst regelmatig herzien en bijwerken, onder meer om rekening te houden met de ontwikkeling van de EU-wetgeving en toepasselijke normen die worden vastgesteld in internationale instrumenten die de partijen relevant achten, rekening houdend met de voltooiing van de respectievelijke interne procedures van de partijen. Dit artikel doet geen afbreuk aan eventuele bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24).
+In overeenstemming met de doelstelling van de geleidelijke aanpassing van de wetgeving van Armenië aan de EU-wetgeving, zal de Partnerschapsraad de bijlagen bij deze overeenkomst regelmatig herzien en bijwerken, onder meer om rekening te houden met de ontwikkeling van de EU-wetgeving en toepasselijke normen die worden vastgesteld in internationale instrumenten die de partijen relevant achten, rekening houdend met de voltooiing van de respectievelijke interne procedures van de partijen. Dit artikel doet geen afbreuk aan eventuele bepalingen uit hoofde van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 372. Toezicht en toetsing van de aanpassing
 
@@ -4282,11 +4282,11 @@ In overeenstemming met de doelstelling van de geleidelijke aanpassing van de wet
 
 ##### Artikel 373. Resultaten van het toezicht, met inbegrip van toetsingen van de aanpassing
 
-1. De resultaten van de toezichtactiviteiten, waaronder de toetsingen van de aanpassing als bedoeld in [artikel 372](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=372&z=2017-11-24&g=2017-11-24), worden besproken in alle relevante krachtens deze overeenkomst opgerichte organen. Deze organen kunnen gezamenlijke aanbevelingen goedkeuren die worden voorgelegd aan de Partnerschapsraad.
+1. De resultaten van de toezichtactiviteiten, waaronder de toetsingen van de aanpassing als bedoeld in [artikel 372](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=372&z=2021-03-01&g=2021-03-01), worden besproken in alle relevante krachtens deze overeenkomst opgerichte organen. Deze organen kunnen gezamenlijke aanbevelingen goedkeuren die worden voorgelegd aan de Partnerschapsraad.
 
-2. Als de partijen menen dat de maatregelen die noodzakelijk zijn op grond van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24), zijn uitgevoerd en worden nageleefd, kan de Partnerschapsraad volgens de hem bij [artikel 319, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=319&z=2017-11-24&g=2017-11-24), en [artikel 335, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=335&z=2017-11-24&g=2017-11-24), verleende bevoegdheden besluiten tot verdere marktopenstelling zoals gedefinieerd in titel VI.
+2. Als de partijen menen dat de maatregelen die noodzakelijk zijn op grond van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01), zijn uitgevoerd en worden nageleefd, kan de Partnerschapsraad volgens de hem bij [artikel 319, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=B&artikel=319&z=2021-03-01&g=2021-03-01), en [artikel 335, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&afdeling=C&paragraaf=III&artikel=335&z=2021-03-01&g=2021-03-01), verleende bevoegdheden besluiten tot verdere marktopenstelling zoals gedefinieerd in titel VI.
 
-3. Een gezamenlijke aanbeveling als bedoeld in lid 1 van dit artikel die is voorgelegd aan de Partnerschapsraad, of het feit dat er geen overeenstemming is bereikt over een dergelijke aanbeveling, valt niet onder de geschillenbeslechtingsprocedure zoals vastgesteld in [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24). Een besluit van het subcomité voor geografische aanduidingen, of het feit dat een dergelijk besluit niet is genomen, valt niet onder de geschillenbeslechtingsprocedure zoals vastgesteld in titel VI.
+3. Een gezamenlijke aanbeveling als bedoeld in lid 1 van dit artikel die is voorgelegd aan de Partnerschapsraad, of het feit dat er geen overeenstemming is bereikt over een dergelijke aanbeveling, valt niet onder de geschillenbeslechtingsprocedure zoals vastgesteld in [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01). Een besluit van het subcomité voor geografische aanduidingen, of het feit dat een dergelijk besluit niet is genomen, valt niet onder de geschillenbeslechtingsprocedure zoals vastgesteld in titel VI.
 
 ##### Artikel 374. Beperkingen in het geval van problemen op het gebied van de betalingsbalans en de buitenlandse financiële positie
 
@@ -4338,35 +4338,35 @@ Tenzij anderszins bepaald in deze overeenkomst, draagt elke partij er zorg voor 
 
 2. De partijen komen overeen om op verzoek van een partij onmiddellijk via passende kanalen overleg te plegen over kwesties met betrekking tot de interpretatie of uitvoering van deze overeenkomst en andere relevante aspecten van de betrekkingen tussen de partijen.
 
-3. Elke partij legt geschillen over de interpretatie of de uitvoering van deze overeenkomst voor aan de Partnerschapsraad, overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2017-11-24&g=2017-11-24).
+3. Elke partij legt geschillen over de interpretatie of de uitvoering van deze overeenkomst voor aan de Partnerschapsraad, overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2021-03-01&g=2021-03-01).
 
-4. De Partnerschapsraad kan een bindend besluit vaststellen om het geschil te beslechten, overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2017-11-24&g=2017-11-24).
+4. De Partnerschapsraad kan een bindend besluit vaststellen om het geschil te beslechten, overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 378. Geschillenbeslechting
 
-1. Wanneer tussen de partijen een geschil ontstaat over de interpretatie of de uitvoering van deze overeenkomst, dient de ene partij bij de andere partij en bij de Partnerschapsraad een formeel verzoek tot geschillenbeslechting in. In afwijking daarvan worden geschillen die betrekking hebben op de interpretatie en uitvoering van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24), uitsluitend opgelost op grond van [titel VI, hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2017-11-24&g=2017-11-24).
+1. Wanneer tussen de partijen een geschil ontstaat over de interpretatie of de uitvoering van deze overeenkomst, dient de ene partij bij de andere partij en bij de Partnerschapsraad een formeel verzoek tot geschillenbeslechting in. In afwijking daarvan worden geschillen die betrekking hebben op de interpretatie en uitvoering van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01), uitsluitend opgelost op grond van [titel VI, hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=13&z=2021-03-01&g=2021-03-01).
 
 2. De partijen streven ernaar geschillen op te lossen via overleg te goeder trouw binnen de Partnerschapsraad, teneinde zo snel mogelijk tot een wederzijds aanvaardbare oplossing te komen.
 
-3. In overleg tussen de partijen of op verzoek van een van de partijen kan een geschil ook worden besproken tijdens een vergadering van het Partnerschapscomité of een ander relevant orgaan als bedoeld in [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=1&artikel=364&z=2017-11-24&g=2017-11-24). Overleg kan ook schriftelijk plaatsvinden.
+3. In overleg tussen de partijen of op verzoek van een van de partijen kan een geschil ook worden besproken tijdens een vergadering van het Partnerschapscomité of een ander relevant orgaan als bedoeld in [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=1&artikel=364&z=2021-03-01&g=2021-03-01). Overleg kan ook schriftelijk plaatsvinden.
 
 4. De partijen verstrekken de Partnerschapsraad, het Partnerschapscomité of enig ander relevant subcomité of orgaan alle relevante informatie die nodig is voor een grondig onderzoek van de situatie.
 
-5. Een geschil wordt geacht te zijn beslecht wanneer de Partnerschapsraad een bindend besluit heeft genomen waarbij het geschil wordt beslecht, overeenkomstig [artikel 377, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=377&z=2017-11-24&g=2017-11-24), of wanneer hij heeft verklaard dat het geschil is beëindigd.
+5. Een geschil wordt geacht te zijn beslecht wanneer de Partnerschapsraad een bindend besluit heeft genomen waarbij het geschil wordt beslecht, overeenkomstig [artikel 377, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=377&z=2021-03-01&g=2021-03-01), of wanneer hij heeft verklaard dat het geschil is beëindigd.
 
 6. Alle tijdens het overleg verstrekte informatie blijft vertrouwelijk.
 
 ##### Artikel 379. Passende maatregelen bij niet-nakoming van verplichtingen
 
-1. Een partij kan passende maatregelen treffen als een geschil niet is opgelost binnen drie maanden na indiening van een formeel verzoek tot geschillenbeslechting overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2017-11-24&g=2017-11-24) en als de klagende partij van mening is dat de andere partij een verplichting uit hoofde van de overeenkomst niet nakomt. De overlegperiode van drie maanden is niet verplicht in uitzonderlijke gevallen als beschreven in lid 3 van dit artikel.
+1. Een partij kan passende maatregelen treffen als een geschil niet is opgelost binnen drie maanden na indiening van een formeel verzoek tot geschillenbeslechting overeenkomstig [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2021-03-01&g=2021-03-01) en als de klagende partij van mening is dat de andere partij een verplichting uit hoofde van de overeenkomst niet nakomt. De overlegperiode van drie maanden is niet verplicht in uitzonderlijke gevallen als beschreven in lid 3 van dit artikel.
 
-2. Bij voorrang moeten passende maatregelen worden gekozen die de werking van de overeenkomst het minst verstoren. Behalve de in lid 3 van dit artikel beschreven gevallen mogen dergelijke maatregelen niet de opschorting behelzen van rechten of plichten in het kader van deze overeenkomst die worden genoemd in [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2017-11-24&g=2017-11-24). De in lid 1 van dit artikel genoemde maatregelen moeten onverwijld aan de Partnerschapsraad worden gemeld en vallen onder de overlegprocedure van [artikel 377, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=377&z=2017-11-24&g=2017-11-24), en de geschillenbeslechtingsprocedure van [artikel 378, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2017-11-24&g=2017-11-24).
+2. Bij voorrang moeten passende maatregelen worden gekozen die de werking van de overeenkomst het minst verstoren. Behalve de in lid 3 van dit artikel beschreven gevallen mogen dergelijke maatregelen niet de opschorting behelzen van rechten of plichten in het kader van deze overeenkomst die worden genoemd in [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&z=2021-03-01&g=2021-03-01). De in lid 1 van dit artikel genoemde maatregelen moeten onverwijld aan de Partnerschapsraad worden gemeld en vallen onder de overlegprocedure van [artikel 377, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=377&z=2021-03-01&g=2021-03-01), en de geschillenbeslechtingsprocedure van [artikel 378, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VIII&hoofdstuk=2&artikel=378&z=2021-03-01&g=2021-03-01).
 
 3. De in de leden 1 en 2 van dit artikel bedoelde uitzonderingen betreffen:
 
 - a. een verwerping van deze overeenkomst die in strijd is met de algemene regels van het internationaal recht, of
 
-- b. schending door de andere partij van de essentiële elementen van de overeenkomst als bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=I&artikel=2&z=2017-11-24&g=2017-11-24), en [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=II&artikel=9&z=2017-11-24&g=2017-11-24).
+- b. schending door de andere partij van de essentiële elementen van de overeenkomst als bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=I&artikel=2&z=2021-03-01&g=2021-03-01), en [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=II&artikel=9&z=2021-03-01&g=2021-03-01).
 
 ##### Artikel 380. Verhouding tot andere overeenkomsten
 
@@ -4534,7 +4534,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - a. de soevereiniteit zou kunnen aantasten van de Republiek Armenië of van een lidstaat die in het kader van dit protocol om bijstand is verzocht;
 
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&artikel=10&z=2017-11-24&g=2017-11-24), bedoelde gevallen; of
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&artikel=10&z=2021-03-01&g=2021-03-01), bedoelde gevallen; of
 
 - c. tot schending van een industrieel geheim, een handelsgeheim of een beroepsgeheim leidt.
 
@@ -4576,7 +4576,7 @@ De bepalingen van dit protocol prevaleren boven bilaterale overeenkomsten inzake
 
 ##### Artikel 15. Overleg
 
-Ten aanzien van vraagstukken in verband met de interpretatie en de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=126&z=2017-11-24&g=2017-11-24) van deze overeenkomst ingestelde subcomité Douane.
+Ten aanzien van vraagstukken in verband met de interpretatie en de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0006725&titeldeel=VI&hoofdstuk=2&artikel=126&z=2021-03-01&g=2021-03-01) van deze overeenkomst ingestelde subcomité Douane.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe naar behoren gemachtigd, deze overeenkomst hebben ondertekend.
 
