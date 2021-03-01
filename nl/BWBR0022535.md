@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2016-11-08"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2016-11-08&g=2016-11-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2016-11-08&g=2016-11-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2016-11-08&g=2016-11-08) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2016-11-08&g=2016-11-08) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2021-03-01&g=2021-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2021-03-01&g=2021-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2021-03-01&g=2021-03-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2021-03-01&g=2021-03-01) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -176,7 +176,7 @@ Vervallen
 
 1. De Stichting KCB is de controle-instantie, bedoeld in artikel 9, eerste lid, onderdeel b, van verordening (EU) 543/2011, en belast met:
 
-- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, bananen en krenten en rozijnen;
+- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, aardappelen, bananen en krenten en rozijnen;
 
 - b. het uitreiken van bewijsstukken, bedoeld in artikel 14, eerste lid, van verordening (EU) 543/2011, indien is voldaan aan artikel 76, eerste en derde lid, en de handelsnormen, gesteld krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013;
 
@@ -184,7 +184,7 @@ Vervallen
 
 - d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de onder b en c bedoelde verordeningen.
 
-2. De Stichting KCB is de bevoegde autoriteit, bedoeld in de artikelen 36 en 37 van verordening (EU) 1151/2012 alsmede voor de controles, bedoeld in artikel 38, van verordening (EU) 1151/2012 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
+2. De Stichting KCB is de bevoegde autoriteit voor de officiële controles, bedoeld in artikel 36, derde lid, van verordening (EU) 1151/2012 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
 
 ##### Artikel 15
 
@@ -194,17 +194,21 @@ De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, v
 
 - b. uitvoering van de registratie, bedoeld in artikel 28 van verordening (EG) 834/2007;
 
-- c. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde verordening.
+- c. uitvoering van de overeenstemmingscontroles en de materiële controles ten behoeve van de verificatie van zendingen, bedoeld in artikel 2, vijfde lid, en artikel 13, eerste lid, onderdeel b, van Verordening (EU) 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008, L334);
+
+- d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde verordening.
 
 ##### Artikel 16
 
-Vervallen
+1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625.
+
+2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4).
 
 ##### Artikel 17
 
 1. Onze Minister is de bevoegde autoriteit, voor:
 
-- a. de artikelen 36 en 37 van verordening (EU) 1151/2012 alsmede voor de controle, bedoeld in artikel 38, van verordening (EU) 1151/2012 ten aanzien van producten die naar hun aard niet onder de bevoegdheid van de Stichting KCB, bedoeld in artikel 14, tweede lid, vallen;
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2021-03-01&g=2021-03-01), bedoelde bevoegdheid van de Stichting KCB vallen;
 
 - b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007;
 
