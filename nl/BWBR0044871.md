@@ -4,7 +4,7 @@ identifier: "BWBR0044871"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-03-02"
-last_updated: "2021-02-01"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044871"
 soort: "zbo"
@@ -68,7 +68,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 3. De eigen bijdrage van de instelling is minimaal 10 procent, 5.000 euro.
 
-4. Indien het subsidieplafond, zoals beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-02-01), niet wordt overschreden, kan de in het eerste lid bedoelde bijdrage worden verhoogd. De looptijd van de aanstelling wordt daarbij naar rato verhoogd.
+4. Indien het subsidieplafond, zoals beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02), niet wordt overschreden, kan de in het eerste lid bedoelde bijdrage worden verhoogd. De looptijd van de aanstelling wordt daarbij naar rato verhoogd.
 
 5. De bijdrage betreft de bruto salariskosten en de daarmee samenhangende werkgeverslasten.
 
@@ -92,9 +92,9 @@ Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformul
 
 ##### Artikel 6. Beoordeling
 
-1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-02-01) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
+1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
 
-2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-02-01) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
+2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
 
 3. Aanvragen zoals bedoeld in het tweede lid van dit artikel worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
