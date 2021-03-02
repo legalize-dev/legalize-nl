@@ -4,7 +4,7 @@ identifier: "BWBR0044868"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-03-01"
-last_updated: "2021-01-01"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044868"
 soort: "zbo"
@@ -124,7 +124,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 6
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2021-03-02&g=2021-01-01) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2021-03-02&g=2021-03-02) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
@@ -134,7 +134,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - d. Voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland nog als 2 regio’s geteld.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2021-03-02&g=2021-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2020 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2021-03-02&g=2021-03-02) resterende bedrag op basis van het aantal inwoners per 1 januari 2020 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 7
 
@@ -166,7 +166,7 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 ##### Artikel 8
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=7&z=2021-03-02&g=2021-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2020 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2020. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=7&z=2021-03-02&g=2021-03-02), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2020 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2020. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 9
 
@@ -210,7 +210,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 14
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-01-01) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-03-02) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
@@ -220,7 +220,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - d. Voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-03-02) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 15
 
@@ -252,7 +252,7 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 ##### Artikel 16
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=15&z=2021-03-02&g=2021-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2021 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2021. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=15&z=2021-03-02&g=2021-03-02), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2021 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2021. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 17
 
@@ -292,7 +292,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 21
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-01-01) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-03-02) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
@@ -302,7 +302,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - d. Voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2021-03-02&g=2021-03-02) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 22
 
@@ -334,7 +334,7 @@ Bij de definitieve vaststelling verdeelt het Zorginstituut het bedrag voor de Wl
 
 ##### Artikel 23
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=4&artikel=22&z=2021-03-02&g=2021-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2020 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2020. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=4&artikel=22&z=2021-03-02&g=2021-03-02), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2020 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2020. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 24
 
