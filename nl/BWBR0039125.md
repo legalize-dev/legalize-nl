@@ -4,7 +4,7 @@ identifier: "BWBR0039125"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-28"
-last_updated: "2017-01-01"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039125"
 soort: "zbo"
@@ -69,27 +69,27 @@ entry_into_force: "2017-01-01"
 
 - •. kunst in de openbare ruimte.
 
-- e. **Ingroeipercentage:** Een percentage van de in de richtlijn genoemde vergoedingen.
-
-- f. **Beeldende kunstinstelling:** een in Nederland gevestigde publiekstoegankelijke organisatie die hedendaagse beeldende kunst tentoonstelt en het presenteren van beeldende kunst en/of erfgoed zonder verkoopdoel als kernactiviteit heeft.
+- e. **Beeldende kunstinstelling:** een in Nederland gevestigde publiekstoegankelijke organisatie die hedendaagse beeldende kunst tentoonstelt en het presenteren van beeldende kunst en/of erfgoed zonder verkoopdoel als kernactiviteit heeft.
 
 ##### Artikel 2. Toepasselijkheid
 
-1. Een bijdrage kunstenaarshonorarium kan worden verstrekt aan een beeldende kunstinstelling die de kunstenaar voor de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2017-01-01&g=2017-01-01) genoemde deelprestaties minimaal overeenkomstig de honoreringsrichtlijn honoreert.
+1. Een bijdrage kunstenaarshonorarium kan worden verstrekt aan een beeldende kunstinstelling die de kunstenaar voor de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2021-03-04&g=2021-03-04) genoemde deelprestaties minimaal overeenkomstig de honoreringsrichtlijn honoreert.
 
-2. Een bijdrage kunstenaarshonorarium wordt alleen verstrekt ten behoeve van het honoreren van beeldend kunstenaars die ten minste in het bezit is van een bachelor beeldende kunst of ten minste beschikt over drie jaar professionele werkervaring als beeldend kunstenaar.
+2. Geen bijdrage kan worden verstrekt aan:
 
-3. Een bijdrage wordt uitsluitend verstrekt als de hoogte van het honorarium minimaal 50% van de in de richtlijn genoemde beloning bedraagt.
+- a. instellingen die onderdeel zijn van de culturele basisinfrastructuur 2021–2024 (BIS);
+
+- b. instellingen die een Bijdrage Kunstpodia toegekend hebben gekregen;
+
+- c. instellingen die op grond van de deelregeling Bijdragen Meerjarenprogramma’s Presentatie en Erfgoedinstellingen voor zover het betreft subsidie aan instellingen die tot primair doel hebben hedendaagse beeldende kunst te presenteren en voorzover de subsidie is verstrekt voor 2021.
+
+3. Een bijdrage kunstenaarshonorarium wordt alleen verstrekt ten behoeve van het honoreren van beeldend kunstenaars die ten minste in het bezit is van een bachelor beeldende kunst of ten minste beschikt over drie jaar professionele werkervaring als beeldend kunstenaar.
+
+4. Een bijdrage wordt uitsluitend verstrekt als de hoogte van het honorarium minimaal 100% van de in de richtlijn genoemde beloning bedraagt.
 
 ##### Artikel 3. Hoogte bijdrage
 
-1. Bij de bepaling van de hoogte van de bijdrage kunstenaarshonoraria worden de volgende percentages gehanteerd:
-
-- •. Bij een toepassing van 50 procent van de in de richtlijn genoemde beloning bedraagt de bijdrage 30 procent van het kunstenaarshonorarium;
-
-- •. bij een toepassing van 70 procent van de in de richtlijn genoemde beloning bedraagt de bijdrage 40 procent van het kunstenaarshonorarium;
-
-- •. bij een toepassing van 100 procent van de in de richtlijn genoemde beloning bedraagt de bijdrage 50 procent..
+De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 ##### Artikel 4. Aanvraag
 
@@ -101,9 +101,9 @@ entry_into_force: "2017-01-01"
 
 - •. een beschrijving van de tentoonstelling,
 
-- •. een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2017-01-01&g=2017-01-01)
+- •. een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2021-03-04&g=2021-03-04)
 
-- •. het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2017-01-01&g=2017-01-01), alsmede de factureringsmomenten,
+- •. het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2021-03-04&g=2021-03-04), alsmede de factureringsmomenten,
 
 - •. een dekkende begroting van de tentoonstelling, inclusief honorarium voor de kunstenaar,
 
@@ -115,7 +115,7 @@ entry_into_force: "2017-01-01"
 
 ##### Artikel 5. Besluit
 
-1. Indien de aanvraag voldoet aan de bepalingen in dit reglement en indien het voor dit reglement bestemde budget niet is uitgeput, besluit het bestuur de bijdrage, waarvan de hoogte overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=3&z=2017-01-01&g=2017-01-01) wordt vastgesteld, toe te kennen.
+1. Indien de aanvraag voldoet aan de bepalingen in dit reglement en indien het voor dit reglement bestemde budget niet is uitgeput, besluit het bestuur de bijdrage, waarvan de hoogte overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=3&z=2021-03-04&g=2021-03-04) wordt vastgesteld, toe te kennen.
 
 2. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen acht weken beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager en aan de beeldend kunstenaar.
 
@@ -131,7 +131,7 @@ entry_into_force: "2017-01-01"
 
 - •. er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte het plan op basis waarvan de bijdrage is verstrekt,
 
-- •. er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2017-01-01&g=2017-01-01) genoemde deelprestaties.
+- •. er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2021-03-04&g=2021-03-04) genoemde deelprestaties.
 
 3. Naar aanleiding van een in het tweede lid bedoelde melding kan, al naar gelang de aard daarvan, de bijdrage lager of op nihil worden vastgesteld of kunnen nadere afspraken worden gemaakt over de aanpassing van de verplichtingen.
 
@@ -142,5 +142,3 @@ entry_into_force: "2017-01-01"
 2. Het bestuur kan wegens zwaarwegende redenen afwijken van dit reglement.
 
 3. Dit reglement treedt in werking op 1 januari 2017 en is van kracht totdat het budget is uitgeput.
-
-4. Voor dit reglement is maximaal 600.000 euro beschikbaar.
