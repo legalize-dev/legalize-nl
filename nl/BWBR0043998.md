@@ -4,7 +4,7 @@ identifier: "BWBR0043998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2020-01-01"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043998"
 soort: "ministeriele-regeling"
@@ -49,9 +49,9 @@ In deze regeling wordt verstaan onder:
 
 - b. **‘studiefaciliteiten’:**
 
-- a. studieverlof als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3&z=2021-03-04&g=2020-01-01);
+- a. studieverlof als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3&z=2021-03-04&g=2021-03-04);
 
-- b. tegemoetkoming in studiekosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=4&z=2021-03-04&g=2020-01-01);
+- b. tegemoetkoming in studiekosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=4&z=2021-03-04&g=2021-03-04);
 
 - c. **‘het hoofd defensieonderdeel’:** het hoofd defensieonderdeel als bedoeld in [artikel 3, eerste lid, onderdeel b, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=3).
 
@@ -91,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 - 3. Bij het volgen van een studie in het kader van de bevordering van de externe werkzekerheid van de ambtenaar wordt het in het vorige lid genoemde percentage op 100 gesteld.
 
-- 4. Een tegemoetkoming in studiekosten wordt eerst verleend nadat de ambtenaar schriftelijk heeft verklaard dat hij bekend is met de verplichting tot gehele of gedeeltelijke terugbetaling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=5&z=2021-03-04&g=2020-01-01).
+- 4. Een tegemoetkoming in studiekosten wordt eerst verleend nadat de ambtenaar schriftelijk heeft verklaard dat hij bekend is met de verplichting tot gehele of gedeeltelijke terugbetaling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=5&z=2021-03-04&g=2021-03-04).
 
 ##### Artikel 5. Terugbetaling tegemoetkoming studiekosten
 
