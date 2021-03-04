@@ -4,7 +4,7 @@ identifier: "BWBR0039881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2021-03-02"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039881"
 soort: "ministeriele-regeling"
@@ -79,9 +79,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - h. de aanspraken op grond van [artikel 62 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62), indien en voor zover de minister dit bepaalt;
 
-- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2021-03-10&g=2021-03-02) van deze regeling;
+- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2021-03-04&g=2021-03-04) van deze regeling;
 
-- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2021-03-10&g=2021-03-02) van deze regeling;
+- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2021-03-04&g=2021-03-04) van deze regeling;
 
 - k. de overgangstoelage personenchauffeur, bedoeld in [artikel 11 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=11);
 
@@ -123,11 +123,11 @@ Het pensioengevend inkomen bestaat uit:
 
 - (8). Persoonlijk risico/gevaar: het werken onder omstandigheden die een verhoogd risico/gevaar voor de persoon meebrengen.
 
-2. Het hoofd defensieonderdeel kent een toelage bezwarende arbeidsomstandigheden toe aan de ambtenaar die werkzaamheden verricht onder bezwarende arbeidsomstandigheden op basis van het aantal uren gedurende welke onder die omstandigheden is gewerkt, met een maximum van 360 uren per jaar. Toekenning vindt plaats indien alle redelijkerwijs mogelijke preventieve maatregelen zijn genomen om de bezwarende omstandigheid zoveel mogelijk te voorkomen.
+2. Het hoofd defensieonderdeel kent een toelage bezwarende arbeidsomstandigheden toe aan de ambtenaar die werkzaamheden verricht onder bezwarende arbeidsomstandigheden op basis van het aantal uren gedurende welke onder die omstandigheden is gewerkt. Toekenning vindt plaats indien alle redelijkerwijs mogelijke preventieve maatregelen zijn genomen om de bezwarende omstandigheid zoveel mogelijk te voorkomen.
 
 3. De toelage wordt niet toegekend, indien sprake is van een oefening.
 
-4. Voor de ambtenaar die gedurende meer dan 360 uren per jaar de in het tweede lid bedoelde werkzaamheden heeft verricht, wordt de toelage berekend over 360 uren per jaar.
+4. De ambtenaar die meer dan 360 uur per jaar de in het tweede lid bedoelde werkzaamheden verricht of heeft verricht wordt jaarlijks onderworpen aan een periodiek bedrijfsgeneeskundig onderzoek als bedoeld in [artikel 56, tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=56). Het hoofd defensieonderdeel besluit na het onderzoek of de ambtenaar zijn arbeid geheel of gedeeltelijk blijft verrichten of dat hem andere werkzaamheden worden opgedragen.
 
 5. De bezwarende arbeidsomstandigheden worden onderverdeeld in drie toelagecategorieën:
 
@@ -137,7 +137,7 @@ Het pensioengevend inkomen bestaat uit:
 
 - c. toelagecategorie 3: drie of meer typen bezwarende arbeidsomstandigheden.
 
-6. De toelage bedraagt een percentage van het salaris per uur doch ten hoogste van het salaris per uur afgeleid van het salaris behorend bij het maximum van salarisschaal 3 van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A), te weten:
+6. De toelage bedraagt een percentage van het salaris per uur doch ten hoogste van het salaris per uur afgeleid van het salaris behorend bij het maximum van salarisschaal 7 van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A), te weten:
 
 - a. 5% van het salaris per uur: voor toelagecategorie 1;
 
@@ -147,7 +147,13 @@ Het pensioengevend inkomen bestaat uit:
 
 7. Het hoofd defensieonderdeel beoordeelt en stelt vast, na verkregen advies van de adviseur arbeidsomstandigheden, of sprake is van bezwarende arbeidsomstandigheden en stelt vervolgens vast welke toelagecategorie wordt toegepast. Het hoofd defensieonderdeel kan indien sprake is van uitzonderlijk bezwarende arbeidsomstandigheden in plaats van het in het vorige lid aangegeven bij een toelagecategorie behorende toelagepercentage het toelagepercentage van een hogere toelagecategorie toepassen onverminderd het in het tweede tot en met vierde lid bepaalde. Deze bevoegdheden kunnen niet worden overgedragen.
 
-8. Het hoofd defensieonderdeel kan na de beslissingen bedoeld in het zevende lid de bevoegdheid met betrekking tot de toekenning van de toelage aan een ambtenaar overdragen aan onder hem ressorterende lijnfunctionarissen.
+8. De ambtenaar die gedurende meer dan 360 uur per jaar de in het tweede lid bedoelde werkzaamheden verricht heeft aanspraak op een verhoging van de in het zesde lid bedoelde toelage:
+
+- a. van 75% voor het werken onder bezwarende omstandigheden van 361 tot 500 uur per jaar.
+
+- b. van 100% voor het werken onder bezwarende omstandigheden van 501 tot 600 uur per jaar.
+
+- c. van 200% voor het werken onder bezwarende omstandigheden boven 600 uur per jaar.
 
 ##### Artikel 5a. Bindingspremie
 
@@ -173,7 +179,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 ##### Artikel 6. Duiktoelage
 
-1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2021-03-10&g=2021-03-02).
+1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2021-03-04&g=2021-03-04).
 
 2. Voor de toepassing van het eerste lid wordt:
 
@@ -187,7 +193,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 1. In dit artikel wordt verstaan onder onderwaterlaboratorium: een in het water neergelaten toestel waarin de druk gelijk kan worden gemaakt aan de omgevende waterdruk en waarin zodanige voorzieningen zijn aangebracht dat één of meerdere personen daarin gedurende langere tijd en zonder gebruikmaking van ademhalingsapparatuur kunnen verblijven.
 
-2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2021-03-10&g=2021-03-02).
+2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2021-03-04&g=2021-03-04).
 
 3. De bedragen, bedoeld in het tweede lid, worden verdubbeld, indien wordt verbleven in een onverwarmd onderwaterlaboratorium binnen de poolcirkel of in het tijdvak van 1 oktober tot en met 30 april in de gematigde luchtstreken.
 
@@ -231,7 +237,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 - c. op de ZZF-dag minimaal drie aaneengesloten uren daadwerkelijk wordt gereisd.
 
-3. De ambtenaar heeft aanspraak op € 48,28 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
+3. De ambtenaar heeft aanspraak op € 51,37 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
 
 ##### Artikel 7a. Vlieggeld
 
@@ -343,7 +349,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 - b. vijf jaar vóór de datum waarop hij aanspraak zou hebben gehad op een gratificatie wegens trouwe dienst bij het bereiken van een diensttijd van vijfentwintig, veertig of vijftig jaar.
 
-5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2021-03-10&g=2021-03-02), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
+5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2021-03-04&g=2021-03-04), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
 
 6. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd over een proportionele diensttijdgratificatie die is afgeleid van een diensttijdgratificatie wegens vijfentwintig of veertig jaar trouwe dienst, als bedoeld in het tweede lid, onderdeel b, en in het vierde lid, onderdeel b, komen voor rekening van Defensie.
 
