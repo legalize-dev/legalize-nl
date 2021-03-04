@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2021-01-01"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Het Sociaal Beleidskader Defensie 2012-2016 wordt verlengd tot en met 31 decembe
 
 ### Hoofdstuk 2. Wijzigingen met ingang van 1 januari 2019
 
-### Hoofdstuk 3. Wijzigingen met ingang van 1 april 2019
+### Hoofdstuk 2. Wijzigingen met ingang van 1 januari 2019
 
 ### Hoofdstuk 4. Wijzigingen met ingang van 1 juli 2019
 
@@ -55,7 +55,7 @@ Het Sociaal Beleidskader Defensie 2012-2016 wordt verlengd tot en met 31 decembe
 
 ### Hoofdstuk 3. Wijzigingen met ingang van 1 april 2019
 
-### Hoofdstuk 4. Wijzigingen met ingang van 1 juli 2019
+### Hoofdstuk 3. Wijzigingen met ingang van 1 april 2019
 
 ### Hoofdstuk 5. Wijzigingen met ingang van 1 augustus 2019
 
@@ -115,7 +115,7 @@ Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid 
 
 Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
-### Hoofdstuk 5. Wijzigingen met ingang van 1 augustus 2019
+### Hoofdstuk 4. Wijzigingen met ingang van 1 juli 2019
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
 
@@ -123,7 +123,7 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
 ### Hoofdstuk 5. Wijzigingen met ingang van 1 augustus 2019
 
-### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
+### Hoofdstuk 5. Wijzigingen met ingang van 1 augustus 2019
 
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
 
@@ -143,7 +143,7 @@ Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid 
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
 
-### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
+### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
 
 ##### Artikel 5.1
 
@@ -181,7 +181,7 @@ Wijzigt de Inkomstenregeling militairen.
 
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
 
-### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
+### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
 
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
 
@@ -213,7 +213,7 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
 
-### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
+### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
 
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
 
@@ -221,10 +221,44 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
 Wijzigt de Regeling cafetariamodel defensie.
 
-### Hoofdstuk 10. Slotbepalingen
+### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
 
 ##### Artikel 9.1
 
 Wijzigt de Regeling cafetariamodel defensie.
 
 ### Hoofdstuk 10. Slotbepalingen
+
+Gelet op:
+
+Het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [Inkomstenbesluit militairen](onbekend), zoals deze besluiten zijn gewijzigd bij het [Besluit tot vaststelling van een eenmalige uitkering (...) en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 oktober 2018 tot en met 31 december 2020, alsmede (...) en een aantal andere wijzigingen](https://wetten.overheid.nl/jci1.3:c:BWBR0044816) (Stb. 2021-60)
+
+Besluit:
+
+### Hoofdstuk 1. Wijzigingen met ingang van 1 oktober 2018
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 10.1. Inwerkingtreding
+
+Deze regeling treedt in werking op de dag na de datum van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat:
+
+- a. [Hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=1&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 oktober 2018;
+
+- b. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=2&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 januari 2019;
+
+- c. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=3&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 april 2019;
+
+- d. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=4&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 juli 2019;
+
+- e. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=5&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 augustus 2019;
+
+- f. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=6&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 januari 2020;
+
+- g. [Hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=7&z=2021-03-04&g=2021-03-04) terugwerkt tot en met 1 juli 2020;
+
+- h. [Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=8&z=2021-03-04&g=2021-03-04) in werking treedt met ingang van 1 december 2020;
+
+- i. [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044884&hoofdstuk=9&z=2021-03-04&g=2021-03-04) in werking treedt met ingang van 1 januari 2021.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
