@@ -4,7 +4,7 @@ identifier: "BWBR0015104"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2018-01-01"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015104"
 soort: "AMvB"
@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Een verkoper biedt een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, voor zover dat product of monster ter plaatse aanwezig is, slechts te koop aan indien het voorzien is van een aanduiding van de verkoopprijs en de prijs per meeteenheid.
+1. Een verkoper biedt een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, slechts te koop aan indien het voorzien is van een aanduiding van de verkoopprijs en de prijs per meeteenheid.
 
 2. De verkoopprijs en de prijs per meeteenheid behoeft niet te worden aangeduid voor een product, vermeld in bijlage I.
 
@@ -92,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De aanduiding van de verkoopprijs en de prijs per meeteenheid vindt plaats op, in of nabij het product of het monster, dan wel op de verpakking of op het voorwerp, waarin het zich bevindt. Ten aanzien van elke nabij een product of een monster vermelde verkoopprijs en prijs per meeteenheid blijkt duidelijk op welk product deze aanduiding betrekking heeft.
+1. De aanduiding van de verkoopprijs en de prijs per meeteenheid van een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, dat ter plaatse aanwezig is vindt plaats op, in of nabij het product of het monster, dan wel op de verpakking of op het voorwerp, waarin het zich bevindt. Ten aanzien van elke nabij een product of een monster vermelde verkoopprijs en prijs per meeteenheid blijkt duidelijk op welk product deze aanduiding betrekking heeft.
 
 2. De aanduiding van de verkoopprijs en prijs per meeteenheid:
 
@@ -108,9 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2018-01-01&g=2018-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2018-01-01&g=2018-01-01) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2018-01-01&g=2018-01-01) van toepassing.
-
-2. Indien een verkoper producten aan een consument te koop aanbiedt in het kader van een consumentenkoop als bedoeld in [artikel 5 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5) die tevens een overeenkomst op afstand is als bedoeld in [artikel 230g, eerste lid, onderdeel e, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230g), is dit besluit slechts van toepassing op de aanduiding van de prijs per meeteenheid.
+Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2021-03-05&g=2021-03-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2021-03-05&g=2021-03-05) van toepassing.
 
 ##### Artikel 6
 
@@ -128,7 +126,7 @@ De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de 
 
 Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten.
 
-## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2018-01-01&g=2018-01-01)
+## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05)
 
 A. Antiquiteiten.
 
@@ -140,7 +138,7 @@ D. Producten die bij een dienstverlening worden verstrekt.
 
 E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
 
-## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2018-01-01&g=2018-01-01)
+## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05)
 
 A. Producten die te koop worden aangeboden in fantasieverpakking of in fantasievorm voor speciale gelegenheden.
 
