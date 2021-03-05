@@ -4,7 +4,7 @@ identifier: "BWBR0021932"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-03-05"
-last_updated: "2007-06-06"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021932"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als instantie met een rechtmatig belang bij de beëindiging van of het verbieden van intracommunautaire inbreuken als bedoeld in artikel 4, tweede lid, van [verordening 2006/2004](32004R2006) wordt de Stichting Reclame Code aangewezen.
+Als aangewezen instantie als bedoeld in [artikel 6.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=6.2) wordt aangewezen de Stichting Reclame Code.
 
 ##### Artikel 2
 
