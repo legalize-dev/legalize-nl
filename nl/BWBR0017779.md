@@ -4,7 +4,7 @@ identifier: "BWBR0017779"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017779"
 soort: "AMvB"
@@ -72,7 +72,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
 
-- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
+- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
 
 - b. op grond van artikel 24 van de EG-richtlijn handel in broeikasgasemissierechten in het systeem van handel in broeikasgasemissierechten opgenomen: met ingang van de in de beschikking van de Europese Commissie tot goedkeuring van die opneming genoemde datum.
 
@@ -82,7 +82,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 2. De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten, indien:
 
-- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01), niet wordt overschreden;
+- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05), niet wordt overschreden;
 
 - b. de broeikasgasinstallatie waarin de activiteiten worden verricht, bestemd is voor het verbranden van gevaarlijke of huishoudelijke afvalstoffen of bestemd voor onderzoek, ontwikkeling of beproeving van nieuwe processen of producten;
 
@@ -92,9 +92,9 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 - e. zich in de broeikasgasinstallatie waarin de activiteiten worden verricht, een reserve, achtervang of parallelle eenheid bevindt die niet gelijktijdig in werking kan zijn met andere eenheden en:
 
-- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
+- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
 
-- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01), op geen enkel moment kunnen worden overschreden;
+- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05), op geen enkel moment kunnen worden overschreden;
 
 - 3°. de technische restrictie, bedoeld onder 2°, gemeld is aan het bestuur van de emissieautoriteit, en
 
@@ -126,9 +126,9 @@ Vervallen
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen en met inachtneming van bij die regeling te stellen eisen:
 
-- a. bij het bepalen van de jaarvracht van een broeikasgasinstallatie tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
+- a. bij het bepalen van de jaarvracht van een broeikasgasinstallatie tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
 
-- b. bij het bepalen van de jaarvracht van een broeikasgasinstallatie geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-01-01&g=2021-01-01) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
+- b. bij het bepalen van de jaarvracht van een broeikasgasinstallatie geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2021-03-05&g=2021-03-05) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
 
 ##### Artikel 6
 
@@ -541,38 +541,38 @@ Vervallen
 
 ##### Artikel 12g
 
-Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2021-01-01&g=2021-01-01) van overeenkomstige toepassing.
+Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2021-03-05&g=2021-03-05) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ## Bijlage I. behorende bij het Besluit handel in emissierechten
 
-Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01):
+Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-03-05&g=2021-03-05):
 
 | **Activiteiten** | **Broeikasgassen** |
 | --- | --- |
 | **Categorie A** |   |
-| 1. Verbranden van brandstof in verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt per inrichting | CO2 |
+| 1. Verbranden van brandstof in verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt per broeikasgasinstallatie | CO2 |
 | 2. Raffineren van aardoliën | CO2 |
 | 3. Productie van cokes | CO2 |
 | **Categorie B** |   |
 | 4. Roosteren en sinteren, met inbegrip van pelletiseren, van ertsen (met inbegrip van zwavelhoudend erts) | CO2 |
 | 5. Productie van ruwijzer of staal (primaire of secundaire smelting) inclusief continugieten, met een capaciteit van meer dan 2,5 ton per uur | CO2 |
-| 6. Productie of bewerking van ferrometalen (inclusief ferrolegeringen) waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen per inrichting van meer dan 20 megawatt worden gebruikt. Onder bewerking wordt onder andere verstaan: behandeling in een walserij, herverhitter, gloeioven, smederij of gieterij dan wel coating of beitsen | CO2 |
+| 6. Productie of bewerking van ferrometalen (inclusief ferrolegeringen) waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt worden gebruikt. Onder bewerking wordt onder andere verstaan: behandeling in een walserij, herverhitter, gloeioven, smederij of gieterij dan wel coating of beitsen | CO2 |
 | 7. Productie van primair aluminium | CO2 en perfluorkoolstoffen |
-| 8. Productie van secundair aluminium waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen per inrichting van meer dan 20 megawatt worden gebruikt | CO2 |
-| 9. Productie of bewerking van non-ferrometalen, met inbegrip van de productie van legeringen, raffinage, gieterijen en dergelijke, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen per inrichting (met inbegrip van brandstoffen die als reductoren worden ingezet) van meer dan 20 megawatt worden gebruikt | CO2 |
+| 8. Productie van secundair aluminium waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt worden gebruikt | CO2 |
+| 9. Productie of bewerking van non-ferrometalen, met inbegrip van de productie van legeringen, raffinage, gieterijen en dergelijke, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen (met inbegrip van brandstoffen die als reductoren worden ingezet) van meer dan 20 megawatt worden gebruikt | CO2 |
 | **Categorie C** |   |
 | 10. Productie van cementklinkers in draaiovens met een productiecapaciteit van meer dan 500 ton per dag of in andere ovens met een productiecapaciteit van meer dan 50 ton per dag | CO2 |
 | 11. Productie van kalk of het calcineren van dolomiet of magnesiet in draaiovens of in andere ovens met een productiecapaciteit van meer dan 50 ton per dag | CO2 |
 | 12. Fabricage van glas, met inbegrip van de fabricage van glasvezels, met een smeltcapaciteit van meer dan 20 ton per dag | CO2 |
 | 13. Fabricage van keramische producten door middel van verhitting, met name dakpannen, bakstenen, vuurvaste stenen, tegels, aardewerk of porselein, met een productiecapaciteit van meer dan 75 ton per dag | CO2 |
 | 14. Fabricage van isolatiemateriaal uit minerale wol met gebruikmaking van glas, steen of slakken met een smeltcapaciteit van meer dan 20 ton per dag | CO2 |
-| 15. Drogen of calcineren van gips of het produceren van gipsplaten en andere gipsproducten, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen per inrichting van meer dan 20 megawatt worden gebruikt | CO2 |
+| 15. Drogen of calcineren van gips of het produceren van gipsplaten en andere gipsproducten, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt worden gebruikt | CO2 |
 | **Categorie D** |   |
 | 16. Productie van pulp uit hout of andere vezelhoudende materialen | CO2 |
 | 17. Productie van papier of karton met een productiecapaciteit van meer dan 20 ton per dag | CO2 |
-| 18. Productie van roet waarbij organische stoffen zoals olie, teer en kraak- en destillatieresiduen worden verkoold, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen per inrichting van meer dan 20 megawatt worden gebruikt | CO2 |
+| 18. Productie van roet waarbij organische stoffen zoals olie, teer en kraak- en destillatieresiduen worden verkoold, waarbij verbrandingseenheden met een totaal nominaal thermisch ingangsvermogen van meer dan 20 megawatt worden gebruikt | CO2 |
 | 19. Productie van salpeterzuur | CO2 en N2O |
 | 20. Productie van adipinezuur | CO2 en N2O |
 | 21. Productie van glyoxal en glyoxylzuur | CO2 en N2O |
@@ -584,7 +584,7 @@ Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](ht
 | 27. Transport van broeikasgassen via pijpleidingen met het oog op geologische opslag op een opslaglocatie als bedoeld onder 26 | CO2 |
 | 28. Geologische opslag van broeikasgassen op een opslaglocatie als bedoeld onder 26 | CO2 |
 
-Voor het bepalen of het totaal nominaal thermisch ingangsvermogen van verbrandingseenheden per inrichting meer dan 20 megawatt thermisch bedraagt, worden eenheden met een vermogen van minder dan 3 megawatt thermisch en eenheden die uitsluitend biomassa gebruiken buiten beschouwing gelaten.
+Voor het bepalen of het totaal nominaal thermisch ingangsvermogen van een broeikasgasinstallatie meer dan 20 megawatt thermisch bedraagt, worden eenheden met een vermogen van minder dan 3 megawatt thermisch en eenheden die uitsluitend biomassa gebruiken buiten beschouwing gelaten.
 
 ### **Categorie 1. Energieactiviteiten**
 
