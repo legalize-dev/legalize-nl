@@ -4,7 +4,7 @@ identifier: "BWBR0044118"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-03-05"
-last_updated: "2020-10-01"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044118"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Bij de toepassing van [artikel 14a.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.4), wordt aangenomen dat er sprake is van relevante invloed als bedoeld in dat lid, aanhef en onder a tot en met d, indien de telecommunicatiepartij bedoeld in artikel 14a.4, eerste lid, en eventuele andere telecommunicatiepartijen waarin de houder of verkrijger of de groep waarvan de houder of verkrijger deel uitmaakt overwegende zeggenschap houdt of verkrijgt, alleen of tezamen:
+1. Bij de toepassing van [artikel 14a.4, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.4), wordt aangenomen dat er sprake is van relevante invloed als bedoeld in dat lid, aanhef en onder a tot en met d, indien de telecommunicatiepartij bedoeld in artikel 14a.4, eerste lid, en eventuele andere telecommunicatiepartijen waarin de houder of verkrijger of de groep waarvan de houder of verkrijger deel uitmaakt overwegende zeggenschap houdt of verkrijgt, alleen of tezamen:
 
 - a. een internettoegangsdienst of telefoondienst aanbiedt aan meer dan 100.000 eindgebruikers in Nederland, waarbij met betrekking tot:
 
@@ -76,9 +76,9 @@ Hebben goedgevonden en verstaan:
 
 - 2°. het aantal autonome systemen dat is aangesloten op een internetknooppunt wordt gedeeld door 300,
 
-- 3°. het jaarlijks verbruik van de datacenters wordt gedeeld door 50, en
+- 3°. de stroomcapaciteit van de datacenters wordt gedeeld door 50, en
 
-- 4°. het aantal .nl-domeinnamen ten behoeve waarvan hostingdiensten worden aangeboden wordt gedeeld door 400.000 miljoen.
+- 4°. het aantal .nl-domeinnamen ten behoeve waarvan hostingdiensten worden aangeboden wordt gedeeld door 400.000.
 
 2. Onder zakelijke gebruiker in het eerste lid wordt verstaan een natuurlijke persoon of rechtspersoon die gebruik maakt van of verzoekt om een openbare elektronische communicatiedienst of -netwerk voor bedrijfs- of beroepsdoeleinden.
 
