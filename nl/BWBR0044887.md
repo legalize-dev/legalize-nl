@@ -4,7 +4,7 @@ identifier: "BWBR0044887"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-03-06"
-last_updated: "2021-01-01"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044887"
 soort: "beleidsregel"
@@ -58,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 1. Deze beleidsregel is van toepassing op infrastructuur die is gelegen op een locatie waar de piekgrondversnelling ten minste 0,05 g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
 
-2. Indien de infrastructuur nog niet is gerealiseerd op het moment van indienen van een aanvraag voor een vergoeding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), wordt in afwijking van het eerste lid bij het berekenen en vaststellen van de piekgrondversnelling uitgegaan van het moment van verwachte oplevering van de nieuw te bouwen infrastructuur.
+2. Indien de infrastructuur nog niet is gerealiseerd op het moment van indienen van een aanvraag voor een vergoeding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), wordt in afwijking van het eerste lid bij het berekenen en vaststellen van de piekgrondversnelling uitgegaan van het moment van verwachte oplevering van de nieuw te bouwen infrastructuur.
 
 3. Deze beleidsregel is niet van toepassing op de Zuidelijke Ringweg Groningen, bedoeld in het Tracébesluit A7/N7 Zuidelijke Ringweg Groningen, fase 2 zoals vastgesteld op 29 september 2014 door de Minister van Infrastructuur en Milieu.
 
@@ -80,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 4. Aanvraag voor vergoeding
 
-1. De aanvraag voor de vergoeding voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), bevat:
+1. De aanvraag voor de vergoeding voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), bevat:
 
 - a. een omschrijving van de infrastructuur of de te realiseren infrastrucuur;
 
@@ -90,7 +90,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. een overzicht van de daadwerkelijk gemaakte kosten van het onderzoek.
 
-2. Indien van toepassing bevat de aanvraag voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), bevat:
+2. Indien van toepassing bevat de aanvraag voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), bevat:
 
 - a. een overzicht van de te treffen maatregelen;
 
@@ -112,19 +112,19 @@ In deze beleidsregel wordt verstaan onder:
 
 1. In het besluit tot toekenning van de vergoeding wordt de hoogte van de vergoeding vastgesteld.
 
-2. Indien van toepassing worden aan het besluit tot toekenning van de vergoeding voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), de volgende voorschriften verbonden:
+2. Indien van toepassing worden aan het besluit tot toekenning van de vergoeding voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), de volgende voorschriften verbonden:
 
 - a. de beheerder draagt zorg voor de uitvoering van de maatregelen, zoals vermeld in de aanvraag;
 
 - b. de beheerder meldt aan de minister wanneer de te treffen maatregelen zijn uitgevoerd;
 
-- c. de beheerder meldt aan de minister indien vertraging wordt opgelopen bij het uitvoeren van de te treffen maatregelen die kan leiden tot een overschrijding van de beoogde start- of einddatum, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=4&z=2021-03-06&g=2021-01-01).
+- c. de beheerder meldt aan de minister indien vertraging wordt opgelopen bij het uitvoeren van de te treffen maatregelen die kan leiden tot een overschrijding van de beoogde start- of einddatum, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=4&z=2021-03-06&g=2021-03-06).
 
 ##### Artikel 6. Betaling
 
-1. Indien uit het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), blijkt dat geen maatregelen nodig zijn om de infrastructuur te laten voldoen aan de veiligheidsnorm, vindt de betaling van de in het besluit tot toekenning opgenomen vergoeding plaats binnen zes weken nadat het besluit tot toekenning is vastgesteld.
+1. Indien uit het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), blijkt dat geen maatregelen nodig zijn om de infrastructuur te laten voldoen aan de veiligheidsnorm, vindt de betaling van de in het besluit tot toekenning opgenomen vergoeding plaats binnen zes weken nadat het besluit tot toekenning is vastgesteld.
 
-2. Indien uit het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), blijkt dat maatregelen nodig zijn om de infrastructuur te laten voldoen aan de veiligheidsnorm, vindt de betaling van de in het besluit tot toekenning opgenomen vergoeding plaats binnen zes weken nadat de melding, bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=5&z=2021-03-06&g=2021-01-01), is gedaan.
+2. Indien uit het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), blijkt dat maatregelen nodig zijn om de infrastructuur te laten voldoen aan de veiligheidsnorm, vindt de betaling van de in het besluit tot toekenning opgenomen vergoeding plaats binnen zes weken nadat de melding, bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=5&z=2021-03-06&g=2021-03-06), is gedaan.
 
 3. Indien niet is voldaan aan de aan het besluit tot toekenning van de vergoeding verbonden voorschriften, kan de minister besluiten de in het besluit tot toekenning opgenomen vergoeding niet of niet volledig uit te betalen.
 
@@ -136,9 +136,9 @@ De minister wijst een aanvraag af indien:
 
 - a. een aanvraag niet voldoet aan de bij of krachtens deze beleidsregel gestelde bepalingen;
 
-- b. aan de aanvrager eerder op grond van deze beleidsregel een vergoeding is verstrekt voor een activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01);
+- b. aan de aanvrager eerder op grond van deze beleidsregel een vergoeding is verstrekt voor een activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06);
 
-- c. de aanvrager eerder een privaatrechtelijke vergoeding door de Nederlandse Aardolie Maatschappij B.V. is verstrekt voor het uitvoeren van een activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-01-01), of daarvoor een aanvraag heeft gedaan waarop nog niet onherroepelijk is beslist.
+- c. de aanvrager eerder een privaatrechtelijke vergoeding door de Nederlandse Aardolie Maatschappij B.V. is verstrekt voor het uitvoeren van een activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), of daarvoor een aanvraag heeft gedaan waarop nog niet onherroepelijk is beslist.
 
 ##### Artikel 8. Inwerkingtreding
 
