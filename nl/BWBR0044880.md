@@ -4,7 +4,7 @@ identifier: "BWBR0044880"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-13"
-last_updated: "2021-03-05"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044880"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=1&z=2021-03-05&g=2021-03-05), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=1&z=2021-04-13&g=2021-03-06), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -65,7 +65,7 @@ Dit besluit wordt aangehaald als: Derde tijdelijke vrijstelling handdesinfectie 
 
 Dit besluit treedt in werking met ingang van 5 maart 2021. Indien de Staatscourant waarin het besluit wordt geplaatst, wordt uitgegeven op of na de in de eerste volzin bedoelde datum, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met de in de eerste volzin bedoelde datum.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=2&z=2021-03-05&g=2021-03-05)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=2&z=2021-04-13&g=2021-03-06)
 
 De vrijgestelde handdesinfectiemiddelen en het bijgeleverde etiket moeten voldoen aan de volgende voorwaarden:
 
