@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2021-02-19"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,7 +125,7 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds eenmaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2021-02-19&g=2021-02-19));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2021-03-06&g=2021-03-06));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
@@ -217,33 +217,33 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 2. Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.
 
-#### Paragraaf 4. : subsidie voor uitwisselingsprojecten
+#### Paragraaf 4. : subsidie voor internationale coproducties
 
 ##### Artikel 4.1. Doel
 
-Het bestuur verstrekt subsidies voor projecten die bijdragen aan de internationalisering van de podiumkunsten in Nederland door het bewerkstelligen van kennisopbouw, -overdracht of -uitwisseling.
+Het bestuur verstrekt subsidies voor het mogelijk maken van internationale coproducties om bij te dragen aan de internationalisering van de podiumkunsten.
 
 ##### Artikel 4.2. Aanvrager
 
-Een aanvraag kan uitsluitend worden gedaan door een instelling met een artistiek-inhoudelijke doelstelling.
+Het subsidie kan uitsluitend worden aangevraagd door een Nederlandse instelling die gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten door professionele podiumkunstenaars.
 
 ##### Artikel 4.3. Subsidieaanvraag
 
-1. Een aanvraag heeft betrekking op een project waarbij sprake is van research buiten Nederland, kennisuitwisseling op internationaal niveau of samenwerking tussen Nederlandse en buitenlandse podiumkunstenaars die leidt tot een productie.
-
-2. In afwijking van het bepaalde in het Algemeen Reglement van het Fonds Podiumkunsten kan een aanvraag betrekking hebben op een project waarin geen sprake is van openbare activiteiten.
+Een aanvraag heeft betrekking op een project waarbij sprake is van een professionele podiumkunstproductie die in samenwerking tussen een Nederlandse en buitenlandse instelling tot stand komt.
 
 ##### Artikel 4.4. Vereisten
 
-1. Als subsidie wordt aangevraagd ten behoeve van de activiteiten van een of meer groepen of performers, dan dienen die minimaal twee jaar actief zijn en meerdere producties te hebben voortgebracht.
+1. Het subsidie kan alleen worden verstrekt als de verantwoordelijke maker of makers minimaal twee jaar actief zijn en meerdere producties hebben voortgebracht.
 
-2. Subsidie is alleen mogelijk voor zover de resultaten daarvan direct of indirect ten goede komen aan de podiumkunstpraktijk in Nederland. Daarvan is geen sprake als het gaat om het in opdracht van een buitenlandse partner verrichten van artistieke werkzaamheden in het buitenland.
+2. Er moet sprake zijn van een goede balans tussen de artistieke en financiële inbreng van partijen.
 
-3. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
+3. Subsidie is alleen mogelijk voor zover de resultaten daarvan direct of indirect ten goede komen aan de podiumkunstpraktijk in Nederland.
 
-4. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
+4. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
-5. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
+5. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
+
+6. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
 
 ##### Artikel 4.5. Beoordeling
 
@@ -255,19 +255,17 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 - c. bijdrage aan het Internationaal Cultuurbeleid;
 
-- d. relevantie voor de podiumkunstpraktijk in Nederland.
+- d. betekenis voor de Nederlandse podiumkunstpraktijk.
 
 ##### Artikel 4.6. Hoogte subsidie
 
-1. Voor subsidiering komen uitsluitend de volgende kosten in aanmerking:
+1. Voor subsidiëring komen uitsluitend de volgende kosten in aanmerking:
 
 - a. personeelskosten;
 
 - b. voorbereiding en uitvoeringskosten;
 
-- c. kosten voor marketing en publiciteit;
-
-- d. bureau en huisvestingskosten.
+- c. kosten voor marketing en publiciteit.
 
 2. Niet voor subsidiëring in aanmerking komen:
 
