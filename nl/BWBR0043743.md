@@ -4,7 +4,7 @@ identifier: "BWBR0043743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043743"
 soort: "ministeriele-regeling"
@@ -92,11 +92,11 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport wordt mandaat en machtiging verleend om namens de Ministers:
 
-- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2020-07-01&g=2020-07-01);
+- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2021-03-09&g=2021-03-09);
 
 - b. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2020-07-01&g=2020-07-01).
+- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2021-03-09&g=2021-03-09).
 
 2. De directeur is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
 
@@ -108,19 +108,21 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 - a. een last onder bestuursdwang als bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9) op te leggen;
 
-- b. een bestuurlijke boete als bedoeld in [artikel 9a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a) op te leggen.
+- b. een bestuurlijke boete als bedoeld in [artikel 9a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a) op te leggen;
 
-2. Onverminderd het bepaalde in [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) is de Inspecteur-Generaal bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
+- c. beleidsregels vast te stellen.
+
+2. Onverminderd het bepaalde in [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) is de Inspecteur-Generaal bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen, behoudens voor wat betreft het vaststellen van beleidsregels als bedoeld in het eerste lid, onderdeel c.
 
 ##### Artikel 7
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid wordt mandaat en machtiging verleend om namens de Ministers:
 
-- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2020-07-01&g=2020-07-01);
+- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2021-03-09&g=2021-03-09);
 
 - b. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2020-07-01&g=2020-07-01).
+- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2021-03-09&g=2021-03-09).
 
 2. De directeur is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
 
@@ -136,13 +138,15 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 - d. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel c;
 
-- e. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in onderdelen a of b.
+- e. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in onderdeel a of b;
 
-2. Onverminderd het bepaalde in [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) is de Inspecteur-Generaal bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
+- f. beleidsregels vast te stellen.
+
+2. Onverminderd het bepaalde in [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) is de Inspecteur-Generaal bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen, behoudens voor wat betreft het vaststellen van beleidsregels als bedoeld in het eerste lid, onderdeel f.
 
 ##### Artikel 9
 
-De Inspecteur-Generaal van de Inspectie Justitie en Veiligheid en de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit informeren de Ministers periodiek over de genomen handhavingsbesluiten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2020-07-01&g=2020-07-01), onderscheidenlijk [artikel 8, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=8&z=2020-07-01&g=2020-07-01).
+De Inspecteur-Generaal van de Inspectie Justitie en Veiligheid en de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit informeren de Ministers periodiek over de genomen handhavingsbesluiten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2021-03-09&g=2021-03-09), onderscheidenlijk [artikel 8, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=8&z=2021-03-09&g=2021-03-09).
 
 ### Slotbepaling
 
