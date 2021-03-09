@@ -4,7 +4,7 @@ identifier: "BWBR0044905"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-09"
-last_updated: "2021-02-12"
+last_updated: "2021-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044905"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Staatssecretaris:** de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044905&artikel=2&z=2021-03-09&g=2021-02-12).
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044905&artikel=2&z=2021-03-09&g=2021-03-09).
 
 ##### Artikel 2. Instelling
 
