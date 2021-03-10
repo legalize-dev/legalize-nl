@@ -4,7 +4,7 @@ identifier: "BWBR0044909"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-10"
-last_updated: "2018-01-01"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044909"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2018 is voor de beheerskosten [Wlz](https://wetten.overheid.nl/jci
 
 ##### Artikel 2
 
-Het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044909&artikel=1&z=2021-03-10&g=2018-01-01) genoemd van € 0,614 miljoen is volledig bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
+Het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044909&artikel=1&z=2021-03-10&g=2021-03-10) genoemd van € 0,614 miljoen is volledig bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
 
 ##### Artikel 3
 
