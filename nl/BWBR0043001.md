@@ -4,7 +4,7 @@ identifier: "BWBR0043001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-10"
-last_updated: "2020-01-01"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043001"
 soort: "ministeriele-regeling"
@@ -177,11 +177,11 @@ De Commandant der Strijdkrachten kan met inachtneming van het [Reglement verkeer
 
 ##### Artikel 13. Verplaatsing afwijkende voertuigen: begeleiding
 
-1. Verplaatsingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01) worden begeleid door de Koninklijke Marechaussee.
+1. Verplaatsingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2021-03-10&g=2021-03-10) worden begeleid door de Koninklijke Marechaussee.
 
 2. De Commandant Landstrijdkrachten kan in overeenstemming met de Commandant Koninklijke Marechaussee of de Commandant Landelijk Tactisch Commando afwijken van de verplichting, genoemd in het eerste lid.
 
-3. Het afwijken kan bij verplaatsingen, genoemd in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01), er toe leiden dat:
+3. Het afwijken kan bij verplaatsingen, genoemd in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2021-03-10&g=2021-03-10), er toe leiden dat:
 
 - a. er geen begeleiding hoeft plaats te vinden;
 
@@ -189,7 +189,7 @@ De Commandant der Strijdkrachten kan met inachtneming van het [Reglement verkeer
 
 - c. de begeleiding wordt uitgevoerd door een partij buiten Defensie.
 
-4. Het afwijken kan bij verplaatsingen, genoemd in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01), er toe leiden dat er geen begeleiding hoeft plaats te vinden.
+4. Het afwijken kan bij verplaatsingen, genoemd in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=3&artikel=12&z=2021-03-10&g=2021-03-10), er toe leiden dat er geen begeleiding hoeft plaats te vinden.
 
 5. Bij het afwijken kunnen voorwaarden worden gesteld.
 
@@ -335,7 +335,7 @@ Hetgeen in de [Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/
 
 - b. een nota van of namens de Commandant der Strijdkrachten waarmee toestemming wordt verleend voor toelating van het type defensievoertuig tot het verkeer op de weg.
 
-3. Het model van het militair registratiebewijs is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=1&z=2020-01-01&g=2020-01-01).
+3. Het model van het militair registratiebewijs is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=1&z=2021-03-10&g=2021-03-10).
 
 4. De Commandant der Strijdkrachten kan nadere regels stellen met betrekking tot de toelating van een defensievoertuig tot het verkeer op de weg en de afgifte van een militair registratiebewijs.
 
@@ -385,7 +385,7 @@ Voor het besturen van een defensievoertuig is voorafgaande toestemming van de co
 
 1. De bestuurder van een defensievoertuig is in het bezit van een op zijn naam gesteld geldig civiel of militair rijbewijs van de betreffende rijbewijscategorie.
 
-2. Voor het besturen van een defensievoertuig dat specifiek militair operationeel wordt gebruikt, is een geldig militair rijbewijs van de desbetreffende rijbewijscategorie vereist, waarvan het model is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=2&z=2020-01-01&g=2020-01-01).
+2. Voor het besturen van een defensievoertuig dat specifiek militair operationeel wordt gebruikt, is een geldig militair rijbewijs van de desbetreffende rijbewijscategorie vereist, waarvan het model is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=2&z=2021-03-10&g=2021-03-10).
 
 3. Een bevoegdheid die is behaald na gevolgde verplichte (bij-)bijscholing, wordt geregistreerd in het personeelssysteem en, indien van toepassing, aangetekend op het overzicht bevoegdheden van het militair rijbewijs.
 
@@ -395,9 +395,9 @@ Voor het besturen van een defensievoertuig is voorafgaande toestemming van de co
 
 ##### Artikel 32. Uitzondering geldig rijbewijs
 
-1. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=31&z=2020-01-01&g=2020-01-01), is niet van toepassing op de bestuurder die onderricht krijgt in het besturen van een defensievoertuig, tijdens dit rijonderricht en het rijexamen. In dat geval is de rijinstructeur evenwel in het bezit van een rijinstructiepas of is de examinator in het bezit van een examinatorpas, beide in combinatie met het vereiste rijbewijs.
+1. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=31&z=2021-03-10&g=2021-03-10), is niet van toepassing op de bestuurder die onderricht krijgt in het besturen van een defensievoertuig, tijdens dit rijonderricht en het rijexamen. In dat geval is de rijinstructeur evenwel in het bezit van een rijinstructiepas of is de examinator in het bezit van een examinatorpas, beide in combinatie met het vereiste rijbewijs.
 
-2. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=31&z=2020-01-01&g=2020-01-01), is niet van toepassing op het besturen van een defensievoertuig dat behoort tot de rijbewijscategorie T als bedoeld in [artikel 15, eerste lid, onderdeel j, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=15). In dat geval is de bestuurder evenwel in het bezit van een rijbewijs categorie B en heeft hij met goed gevolg de scholing afgerond die voor het specifieke voertuig is aangewezen.
+2. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=31&z=2021-03-10&g=2021-03-10), is niet van toepassing op het besturen van een defensievoertuig dat behoort tot de rijbewijscategorie T als bedoeld in [artikel 15, eerste lid, onderdeel j, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=15). In dat geval is de bestuurder evenwel in het bezit van een rijbewijs categorie B en heeft hij met goed gevolg de scholing afgerond die voor het specifieke voertuig is aangewezen.
 
 ##### Artikel 33. Nog geen indeling in rijbewijscategorie
 
@@ -465,9 +465,9 @@ Een defensievoertuig waarvoor nog geen militaire rijbewijscategorie is vastgeste
 
 - h. kennis van voertuigadministratie en ongevalsregistratie.
 
-3. Het rijexamen voor de aantekening, genoemd in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=34&z=2020-01-01&g=2020-01-01), wordt afgelegd met een combinatie van een motorrijtuig rijbewijscategorie C en genoemde middenas-aanhangwagen die tenminste 4,50 meter en hooguit 5 meter lang is.
+3. Het rijexamen voor de aantekening, genoemd in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=34&z=2021-03-10&g=2021-03-10), wordt afgelegd met een combinatie van een motorrijtuig rijbewijscategorie C en genoemde middenas-aanhangwagen die tenminste 4,50 meter en hooguit 5 meter lang is.
 
-4. Voor toelating tot het rijexamen voor rijbewijscategorie F is een militair rijbewijs categorie B vereist.
+4. Voor toelating tot het rijexamen voor rijbewijscategorie F is een civiel rijbewijs categorie B vereist.
 
 ##### Artikel 37. Bijscholing, scholing en familiarisatie
 
@@ -477,7 +477,7 @@ Een defensievoertuig waarvoor nog geen militaire rijbewijscategorie is vastgeste
 
 - a. bijscholing, als het wordt gegeven in opdracht van de Commandant der Strijdkrachten, door een rijinstructeur en het een ander type motorrijtuig of aanhangwagen uit dezelfde rijbewijscategorie betreft;
 
-- b. scholing, als het wordt gegeven in opdracht van de Commandant der Strijdkrachten, door een rijinstructeur en het eenzelfde type motorrijtuig uit dezelfde rijbewijscategorie betreft, een bergingsmiddel of mobiel arbeidsmiddel;
+- b. scholing, als het wordt gegeven in opdracht van de Commandant der Strijdkrachten, door een instructeur en het eenzelfde type motorrijtuig uit dezelfde rijbewijscategorie betreft, een bergingsmiddel of mobiel arbeidsmiddel;
 
 - c. familiarisatie, als het wordt gegeven in opdracht van de commandant, door een defensiemedewerker met de vereiste bevoegdheid en ervaring in het besturen van het defensievoertuig en de benodigde educatieve vaardigheden, en het eenzelfde type motorrijtuig betreft, een bergingsmiddel of mobiel arbeidsmiddel.
 
@@ -489,15 +489,15 @@ De Commandant Opleidings- en Trainingscentrum Rijden en Bergen:
 
 - b. registreert de verklaring van rijvaardigheid in het Register Rijbewijzen van de Dienst Wegverkeer;
 
-- c. plaatst de aantekening op het militair rijbewijs, als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=34&z=2020-01-01&g=2020-01-01);
+- c. plaatst de aantekening op het militair rijbewijs, als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=34&z=2021-03-10&g=2021-03-10);
 
 - d. registreert de gegevens over de afgegeven militaire rijbewijzen;
 
-- e. registreert gegevens over beperkingen van de rijbevoegdheid die voortvloeien uit de situaties, genoemd in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=41&z=2020-01-01&g=2020-01-01) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=42&z=2020-01-01&g=2020-01-01), voor zover deze gegevens noodzakelijk zijn voor een goede handhaving van deze regeling en de daarop berustende bepalingen.
+- e. registreert gegevens over beperkingen van de rijbevoegdheid die voortvloeien uit de situaties, genoemd in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=41&z=2021-03-10&g=2021-03-10) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=42&z=2021-03-10&g=2021-03-10), voor zover deze gegevens noodzakelijk zijn voor een goede handhaving van deze regeling en de daarop berustende bepalingen.
 
 ##### Artikel 39. Registratie verklaring rijvaardigheid
 
-1. De in [artikel 38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=38&z=2020-01-01&g=2020-01-01), genoemde registratie is eenmalig en geldt voor de rijbewijscategorie, genoemd in [artikel 15 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=15) die overeenstemt met de rijbewijscategorie waarvoor het militair rijbewijs is afgegeven.
+1. De in [artikel 38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&paragraaf=7&artikel=38&z=2021-03-10&g=2021-03-10), genoemde registratie is eenmalig en geldt voor de rijbewijscategorie, genoemd in [artikel 15 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=15) die overeenstemt met de rijbewijscategorie waarvoor het militair rijbewijs is afgegeven.
 
 2. De registratie geeft tot drie jaar na het moment van registratie de mogelijkheid tot verkrijging van het civiel rijbewijs van de betreffende rijbewijscategorie.
 
@@ -515,7 +515,7 @@ De Commandant Opleidings- en Trainingscentrum Rijden en Bergen:
 
 2. In afwijking van het eerste lid, onderdeel b, kan een buitenlands civiel of militair bewijs van bevoegdheid tot het besturen van een motorrijtuig, als succesvolle afronding van de vereiste rijopleiding worden aangemerkt.
 
-3. Een militair rijbewijs wordt aangevraagd met een formulier waarvan het model is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=3&z=2020-01-01&g=2020-01-01).
+3. Een militair rijbewijs wordt aangevraagd met een formulier waarvan het model is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043001&bijlage=3&z=2021-03-10&g=2021-03-10).
 
 ##### Artikel 41. Ongeldigverklaring militair rijbewijs
 
