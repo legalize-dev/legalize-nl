@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2020-01-16"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ EN 12491:2001 Schermvliegtuigen – Noodparachutes – Veiligheidseisen en bepro
 
 EN 12655:1998 Turntoestellen – Ringentoestellen – Functionele en veiligheidseisen, beproevingsmethoden
 
-EN ISO 12863:2010 Standaard beproevingsmethode voor bepaling van de ontvlambaarheid van sigaretten (ISO 12863:2010) EN ISO 12863:2010/A1:2016
+EN ISO 12863:2010 Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten (ISO 12863:2010) EN ISO 12863:2010/AC:20 11 EN ISO 12863:2010/A1:2016
 
 EN 13120:2009+A1:2014 Aan de binnenzijde geplaatste zonneschermen – Prestatie-eisen inclusief veiligheid
 
@@ -158,6 +158,12 @@ EN 16433:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen 
 
 EN 16434:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen verwurging – Eisen en beproevingsmethoden voor veiligheidsvoorzieningen
 
+EN 16890:2017 Kindermeubilair – Matrassen voor kinderbedden en wiegen – Veiligheidseisen en beproevingsmethoden
+
+EN 17022:2018 Kinderartikelen – Badhulpmiddelen – Veiligheidseisen en beproevingsmethoden
+
+EN 17072:2018 Kinderartikelen – Babybadjes en standaarden – Veiligheidseisen en beproevingsmethoden
+
 EN ISO 20957-1:2013 Vast opgestelde trainingsapparatuur – Deel 1: Algemene veiligheidseisen en beproevingsmethoden (ISO 20957- 1:2013)
 
 EN ISO 20957-4:2016 Vast opgestelde trainingsapparatuur – Deel 4: Krachttrainingsbanken, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-4:2016)
@@ -166,7 +172,7 @@ EN ISO 20957-5:2016 Vast opgestelde trainingsapparatuur – Deel 5: Trainingsapp
 
 EN ISO 20957-8:2017 Vast opgestelde trainingsapparatuur – Deel 8: Stap-, traploop- en klimapparaten – Aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-8:2017)
 
-EN ISO 20957-9:2016 Vast opgestelde trainingsapparatuur – Deel 9: Elliptische oefentoestellen, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-9:2016)
+EN ISO 20957-9:2016 Vast opgestelde trainingsapparatuur – Deel 9: Elliptische oefentoestellen, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-9:2016) EN ISO 20957-9:2016/A1:2019
 
 EN ISO 20957-10:2017 Vast opgestelde trainingsapparatuur – Deel 10: Trainingsfietsen met een vast wiel of zonder freewheel, aanvullende specifieke veiligheidseisen en beproevingsmethoden (ISO 20957-10:2017)
 
