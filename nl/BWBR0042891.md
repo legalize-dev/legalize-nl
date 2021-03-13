@@ -4,7 +4,7 @@ identifier: "BWBR0042891"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-31"
-last_updated: "2021-01-01"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042891"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Een subsidie voor het uitvoeren van een basis oriënterend fertiliteitsonderzoek
 
 ##### Artikel 5. Subsidiebedrag
 
-De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2021-03-13&g=2021-01-01).
+De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2021-03-13&g=2021-03-13).
 
 ##### Artikel 6. Aanvraagtermijn
 
@@ -114,7 +114,9 @@ De aanvraag tot verlening van een subsidie gaat vergezeld van een begroting die,
 
 2. In aanvulling op [Hoofdstuk 7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7), gaat de aanvraag tot vaststelling vergezeld van een opgave van het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen en het aantal vrouwen bij wie deze behandelingen in dat jaar zijn uitgevoerd.
 
-3. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
+3. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger in afwijking van [artikel 7.5, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) tevens verantwoording af door het overleggen van een rapport van feitelijke bevindingen als bedoeld in artikel 7.5, derde lid, van de Kaderregeling subsidies OCW, SZW en VWS in plaats van een assurancerapport.
+
+4. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
 ##### Artikel 10. DAEB
 
