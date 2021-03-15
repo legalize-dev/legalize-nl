@@ -4,7 +4,7 @@ identifier: "BWBR0040855"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-01"
-last_updated: "2020-06-01"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040855"
 soort: "ministeriele-regeling"
@@ -72,11 +72,13 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 - i. met betrekking tot aanvragen die bij het Ministerie van Buitenlandse Zaken worden ingediend voor accreditatie van hoofden van een diplomatieke missie of consulaire post dan wel aanstelling van defensie-, marine-, landmacht- of luchtmacht-attachés: de Minister van Buitenlandse Zaken, of namens deze de Directie Protocol en Gastlandzaken van het Ministerie van Buitenlandse Zaken;
 
-- j. met betrekking tot personen ten aanzien van wie een beperkende maatregel op grond van hoofdstuk VII van het Handvest van de Verenigde Naties, het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie dan wel krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) van toepassing is of wordt overwogen alsmede met betrekking tot personen ten aanzien van wie het vermoeden bestaat dat jegens hen zodanige maatregel van toepassing is: de Minister van Financiën, of namens deze de Directie Financiële Markten van het Ministerie van Financiën, of de Minister van Buitenlandse Zaken, of namens deze de Directie Veiligheidsbeleid, afdeling Terrorismebestrijding en Nationale Veiligheid van het Ministerie van Buitenlandse Zaken.
+- j. met betrekking tot personen ten aanzien van wie een beperkende maatregel op grond van hoofdstuk VII van het Handvest van de Verenigde Naties, het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie dan wel krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) van toepassing is of wordt overwogen alsmede met betrekking tot personen ten aanzien van wie het vermoeden bestaat dat jegens hen zodanige maatregel van toepassing is: de Minister van Financiën, of namens deze de Directie Financiële Markten van het Ministerie van Financiën, of de Minister van Buitenlandse Zaken, of namens deze de Directie Veiligheidsbeleid, afdeling Terrorismebestrijding en Nationale Veiligheid van het Ministerie van Buitenlandse Zaken;
+
+- k. met betrekking tot personen die voor het Eurovisie Songfestival 2021 worden geaccrediteerd voor de hoofdevenementenlocatie (Ahoy) en die toegang krijgen tot kritieke onderdelen van het evenement: de Minister van Justitie en Veiligheid, of namens deze de Nationaal Coördinator Terrorismebestrijding en Veiligheid.
 
 ##### Artikel 3
 
-De mededeling met betrekking tot de gevallen, bedoeld in [artikel 2, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=2&z=2020-06-01&g=2020-06-01), wordt gedaan aan de verzoeker door de Minister van Binnenlandse Zaken en Koninkrijksrelaties. In de overige gevallen kan de mededeling aan de verzoeker ook namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties door het hoofd van de dienst worden gedaan.
+De mededeling met betrekking tot de gevallen, bedoeld in [artikel 2, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=2&z=2021-03-15&g=2021-03-15), wordt gedaan aan de verzoeker door de Minister van Binnenlandse Zaken en Koninkrijksrelaties. In de overige gevallen kan de mededeling aan de verzoeker ook namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties door het hoofd van de dienst worden gedaan.
 
 ##### Artikel 4
 
@@ -94,7 +96,7 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 ##### Artikel 5
 
-De mededeling met betrekking tot de gevallen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=4&z=2020-06-01&g=2020-06-01) wordt gedaan aan de verzoeker door de Minister van Defensie dan wel namens deze door het hoofd van de dienst.
+De mededeling met betrekking tot de gevallen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=4&z=2021-03-15&g=2021-03-15) wordt gedaan aan de verzoeker door de Minister van Defensie dan wel namens deze door het hoofd van de dienst.
 
 ##### Artikel 6
 
