@@ -4,7 +4,7 @@ identifier: "BWBR0042449"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-13"
-last_updated: "2020-01-01"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042449"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 
 ##### Artikel 6
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042449&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042449&paragraaf=2&artikel=2&z=2020-01-01&g=2021-03-16), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
 - a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatie-eenheid, voor zover het betreft:
 
