@@ -4,7 +4,7 @@ identifier: "BWBR0040182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-16"
-last_updated: "2020-06-05"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040182"
 soort: "ministeriele-regeling"
@@ -222,7 +222,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende medewerkers.
 
-2. Aan de teamleiders, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2020-06-05&g=2020-06-05), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2020-06-05&g=2020-06-05) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+2. Aan de teamleiders, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2020-06-05&g=2021-03-16), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2020-06-05&g=2021-03-16) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -246,7 +246,7 @@ Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van ove
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.
 
-2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2020-06-05&g=2020-06-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2020-06-05&g=2020-06-05) uit te oefenen.
+2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2020-06-05&g=2021-03-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2020-06-05&g=2021-03-16) uit te oefenen.
 
 3. Overige doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
