@@ -4,7 +4,7 @@ identifier: "BWBR0014740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-26"
-last_updated: "2017-09-01"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014740"
 soort: "ministeriele-regeling"
@@ -44,7 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder demografisch bereik: het demografisch bereik, bedoeld in [artikel 1, onderdeel q, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=1), en [artikel 1, onderdeel m, van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414&artikel=1).
+In deze regeling wordt verstaan onder:
+
+- **demografisch bereik:** het demografisch bereik, bedoeld in [artikel 1, onderdeel q, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=1), en [artikel 1, onderdeel m, van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414&artikel=1);
+
+- **muziek:** uitgezonden muziekproductie, al dan niet in samenloop met spraak die dient ter aankondiging of afkondiging daarvan.
 
 ##### Artikel 2
 
@@ -76,7 +80,7 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentieruimte in de kavel A9, bedoeld in tabel 2 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.
 
-3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2017-09-01&g=2017-09-01) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
+3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2021-03-18&g=2021-03-18) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
 
 4. Bij de toepassing van het eerste lid, onderdelen b tot en met d, wordt de zendtijd besteed aan reclameboodschappen en nieuws buiten beschouwing gelaten.
 
@@ -140,11 +144,11 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 - a. het radioprogramma in elk geval wordt uitgezonden gedurende de uren van 07.00 uur tot 19.00 uur;
 
-- b. het radioprogramma tussen 07.00 uur en 19.00 uur voor ten minste 10 procent in het bijzonder gericht is op het gebied waarvoor het programma is bestemd, waarbij tot 1 september 2022 geldt dat het gebied waarvoor het programma bestemd is tevens omvat het gebied dat behoort bij het het allotment, bedoeld in nationale voetnoot 006 van het Nationaal Frequentieplan 2014, dat gekoppeld is aan de betreffende kavel, en
+- b. het radioprogramma tussen 07.00 uur en 19.00 uur voor ten minste 10 procent in het bijzonder gericht is op het gebied waarvoor het programma is bestemd, waarbij tot 1 september 2022 geldt dat het gebied waarvoor het programma bestemd is tevens omvat het gebied dat behoort bij het het allotment, bedoeld in nationale voetnoot 006 van het [Nationaal Frequentieplan 2014](onbekend), dat gekoppeld is aan de betreffende kavel, en
 
 - c. verzorgd wordt door een commerciële omroepinstelling, waarvan alle door haar verzorgde en via omroepnetwerken analoog uitgezonden programma's tezamen door niet meer dan 30 procent van het aantal inwoners van Nederland kunnen worden ontvangen.
 
-2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen de voor niet-landelijke commerciële radio-omroep bestemde kavels B1 tot en met B38.
+2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen de voor niet-landelijke commerciële radio-omroep bestemde kavels B1 tot en met B54.
 
 3. Bij de toepassing van het eerste lid, onderdeel b, wordt de zendtijd besteed aan reclameboodschappen buiten beschouwing gelaten.
 
@@ -152,9 +156,9 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mogen voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2017-09-01&g=2017-09-01), van eenzelfde commerciële omroepinstelling ten hoogste vier FM-frequenties of samenstellen van FM-frequenties worden gebruikt.
+1. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mogen voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2021-03-18&g=2021-03-18), van eenzelfde commerciële omroepinstelling ten hoogste vier FM-frequenties of samenstellen van FM-frequenties worden gebruikt.
 
-2. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2017-09-01&g=2017-09-01), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2017-09-01&g=2017-09-01), aangewezen frequentieruimte, worden gebruikt, mits
+2. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2021-03-18&g=2021-03-18), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2021-03-18&g=2021-03-18), aangewezen frequentieruimte, worden gebruikt, mits
 
 - a. het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent; en
 
