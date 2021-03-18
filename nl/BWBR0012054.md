@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-01-01&g=2021-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-03-18&g=2021-03-18) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -81,15 +81,15 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 1. De verklaring van de minister, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2021-01-01&g=2021-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2021-03-18&g=2021-03-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2021-03-18&g=2021-03-18).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-01-01&g=2021-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-03-18&g=2021-03-18), van toepassing is.
 
 ##### Artikel 6
 
-1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2021-01-01&g=2021-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2021-03-18&g=2021-03-18) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -105,7 +105,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-01-01&g=2021-01-01) van de Uitvoeringsregeling energie-investeringsaftrek 2001
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2021-03-18&g=2021-03-18) van de Uitvoeringsregeling energie-investeringsaftrek 2001
 
 ### Artikel 1
 
@@ -443,7 +443,7 @@ Technische voorzieningen ten behoeve van energiebesparing in of aan transportmid
 
 De energiebesparing moet gebaseerd zijn op dezelfde rij- of vaarroute, waarbij wordt uitgegaan van dezelfde goederen en van een maximale belading.
 
-Op een transportmiddel geplaatste bedrijfsmiddelen, die worden ingezet voor productiewerkzaamheden, moeten voldoen aan de vereisten genoemd in [artikel 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=1&z=2021-01-01&g=2021-01-01), voor investeringen ten behoeve van processen.
+Op een transportmiddel geplaatste bedrijfsmiddelen, die worden ingezet voor productiewerkzaamheden, moeten voldoen aan de vereisten genoemd in [artikel 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=1&z=2021-03-18&g=2021-03-18), voor investeringen ten behoeve van processen.
 
 Technische voorzieningen die er toe strekken energie te besparen door balanceren van energie in de energieinfrastructuur, door:
 
