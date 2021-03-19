@@ -4,7 +4,7 @@ identifier: "BWBR0037382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-22"
-last_updated: "2021-01-01"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037382"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter wordt door de Staatssecretaris benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de Staatssecretaris worden geschorst en ontslagen.
 
-3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2021-03-19&g=2021-01-01), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2021-03-19&g=2021-03-19), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
 
 4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de Staatssecretaris. Na instemming van de Staatssecretaris wijst de betrokken organisatie het andere lid aan.
 
@@ -104,7 +104,7 @@ Te rekenen vanaf 1 januari 2020 wordt mevrouw N. Kabalt woonachtig te Alkmaar, b
 
 ##### Artikel 6
 
-Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,3 fte.
+Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,5 fte.
 
 ##### Artikel 7
 
