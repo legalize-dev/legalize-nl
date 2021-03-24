@@ -4,7 +4,7 @@ identifier: "BWBR0044323"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-24"
-last_updated: "2021-01-01"
+last_updated: "2021-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044323"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Uitvoeringsregeling accijns.
 
 ##### Artikel II
 
-Tabaksproducten mogen nog tot en met 31 maart 2021 bij de uitslag tot verbruik zijn voorzien van een accijnszegel als bedoel in [artikel 44 van de Uitvoeringsregeling accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&artikel=44) zoals dat luidde op 31 december 2020, mits hierop de juiste tariefcode, bedoeld in artikel 44, derde lid, van de Uitvoeringsregeling accijns, is vermeld.
+Tabaksproducten mogen nog tot en met 30 juni 2021 bij de uitslag tot verbruik zijn voorzien van een accijnszegel als bedoel in [artikel 44 van de Uitvoeringsregeling accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&artikel=44) zoals dat luidde op 31 december 2020, mits hierop de juiste tariefcode, bedoeld in artikel 44, derde lid, van de Uitvoeringsregeling accijns, is vermeld.
 
 ##### Artikel III
 
