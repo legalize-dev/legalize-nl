@@ -4,7 +4,7 @@ identifier: "BWBR0044109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-26"
-last_updated: "2020-11-01"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044109"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Conform [artikel 4, eerste lid, van het Besluit woningbouwimpuls 2020](https://w
 
 ##### Artikel 2
 
-Het uitkeringsplafond van dit aanvraagtijdvak is € 225.000.000.
+Het uitkeringsplafond van dit aanvraagtijdvak is € 265.000.000.
 
 Gelet op [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4) en [artikel 3, tweede lid, van het Besluit Woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3);
 
