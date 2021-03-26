@@ -4,7 +4,7 @@ identifier: "BWBR0044967"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-26"
-last_updated: "2021-02-15"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044967"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **staatssecretaris:** Staatssecretaris van Defensie;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044967&artikel=2&z=2021-03-26&g=2021-02-15);
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044967&artikel=2&z=2021-03-26&g=2021-03-26);
 
 - c. **uitkeringsregeling:** [Regeling uitkering chroom-6 Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0040982).
 
@@ -101,7 +101,7 @@ Secretariële ondersteuning wordt door het Centrum Arbeidsvoorwaarden Overheidsp
 
 1. De commissie brengt uiterlijk 1 november 2021 haar eindrapport uit aan de staatssecretaris.
 
-2. De commissie verstrekt tussentijds een rapportage aan de staatssecretaris met daarin haar voorlopige bevindingen en conclusies aangaande de afzonderlijke vragen genoemd onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044967&artikel=2&z=2021-03-26&g=2021-02-15).
+2. De commissie verstrekt tussentijds een rapportage aan de staatssecretaris met daarin haar voorlopige bevindingen en conclusies aangaande de afzonderlijke vragen genoemd onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044967&artikel=2&z=2021-03-26&g=2021-03-26).
 
 3. Indien de commissie daartoe aanleiding ziet, doet zij tussentijds verslag aan de staatssecretaris.
 
