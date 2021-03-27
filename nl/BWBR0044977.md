@@ -4,7 +4,7 @@ identifier: "BWBR0044977"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2019-07-27"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044977"
 soort: "ministeriele-regeling"
@@ -189,7 +189,7 @@ De bevoegdheden die in dit besluit worden (onder)gemandateerd, komen ook toe aan
 
 ##### Artikel 8. Mandaatverlening
 
-1. Aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk wordt mandaat verleend tot het nemen van beslissingen op bezwaarschriften die zijn ingediend door ambtenaren van politie tegen personeelsbesluiten van de teamchef RST als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044977&hoofdstuk=2&artikel=4&z=2021-03-27&g=2019-07-27).
+1. Aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk wordt mandaat verleend tot het nemen van beslissingen op bezwaarschriften die zijn ingediend door ambtenaren van politie tegen personeelsbesluiten van de teamchef RST als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044977&hoofdstuk=2&artikel=4&z=2021-03-27&g=2021-03-27).
 
 2. Besluiten die op basis van dit artikel door de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk worden genomen, worden als volgt ondertekend:
 
