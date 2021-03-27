@@ -4,7 +4,7 @@ identifier: "BWBR0043221"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2021-03-01"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043221"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 - –. Directeur regiokantoor Hivos te Nairobi in geval het activiteiten in Kenia of in Tanzania betreft;
 
-- –. Directeur regiokantoor Hivos te Jakarta in geval het activiteiten in Filipijnen of in Indonesië betreft;
+- –. Directeur Yayasan (Stichting) Hivos te Jakarta in geval het activiteiten in Filipijnen of in Indonesië betreft;
 
 - –. Directeur landenkantoor Oxfam in Cambodja ondersteund door Oxfam Novib in geval het activiteiten in Cambodja betreft;
 
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 2
 
-Aan de voorzitter van het Steering Committee van Oxfam Novib/Hivos wordt mandaat en machtiging verleend om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen en voorbereidingshandelingen te verrichten op bezwaarschriften tegen besluiten, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043221&artikel=1&z=2020-02-28&g=2021-03-01), die door de functionarissen, bedoeld in artikel 1, eerste lid, onder a en b, namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking zijn genomen of behandeld.
+Aan de voorzitter van het Steering Committee van Oxfam Novib/Hivos wordt mandaat en machtiging verleend om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen en voorbereidingshandelingen te verrichten op bezwaarschriften tegen besluiten, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043221&artikel=1&z=2021-03-27&g=2021-03-27), die door de functionarissen, bedoeld in artikel 1, eerste lid, onder a en b, namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking zijn genomen of behandeld.
 
 ##### Artikel 3
 
