@@ -4,7 +4,7 @@ identifier: "BWBR0028779"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2021-03-30"
-last_updated: "2011-10-09"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028779"
 soort: "AMvB-BES"
@@ -58,9 +58,9 @@ In dit besluit wordt verstaan onder
 
 - b. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1);
 
-- c. Sectorale Overlegcommissie BES: de Commissie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.1&z=2011-10-09&g=2011-10-09);
+- c. Sectorale Overlegcommissie BES: de Commissie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.1&z=2021-03-30&g=2021-03-30);
 
-- d. Decentrale Overlegcommissie: de Decentrale Overlegcommissie Bonaire, Sint Eustatius respectievelijk Saba, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.1&z=2011-10-09&g=2011-10-09);
+- d. Decentrale Overlegcommissie: de Decentrale Overlegcommissie Bonaire, Sint Eustatius respectievelijk Saba, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.1&z=2021-03-30&g=2021-03-30);
 
 - e. bestuurscollege: het bestuurscollege, bedoeld in [artikel 36, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=36);
 
@@ -108,9 +108,9 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 2.4. Agenda
 
-1. De in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2011-10-09&g=2011-10-09), bedoelde aangelegenheden worden door Onze Minister aan de Sectorale Overlegcommissie BES voorgelegd.
+1. De in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2021-03-30&g=2021-03-30), bedoelde aangelegenheden worden door Onze Minister aan de Sectorale Overlegcommissie BES voorgelegd.
 
-2. Iedere tot de Sectorale Overlegcommissie BES toegelaten vakorganisatie is bevoegd aan de voorzitter van het overleg bepaalde, in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2011-10-09&g=2011-10-09) bedoelde onderwerpen ter plaatsing op de agenda op te geven.
+2. Iedere tot de Sectorale Overlegcommissie BES toegelaten vakorganisatie is bevoegd aan de voorzitter van het overleg bepaalde, in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2021-03-30&g=2021-03-30) bedoelde onderwerpen ter plaatsing op de agenda op te geven.
 
 ##### Artikel 2.5. Informatieverplichting
 
@@ -124,7 +124,7 @@ In dit besluit wordt verstaan onder
 
 2. Elke vakorganisatie brengt een stem uit.
 
-3. Indien de stemmen staken, beslist Onze Minister of het voorstel ten uitvoer kan worden gebracht, daarbij rekening houdend met het gewogen gemiddelde belang van de vakorganisatie.
+3. Indien de stemmen staken, beslist Onze Minister of het voorstel ten uitvoer kan worden gebracht.
 
 ### Hoofdstuk 3. Het overleg met de Decentrale Overlegcommissie Bonaire, Sint Eustatius of Saba
 
@@ -162,9 +162,9 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 3.4. Agenda
 
-1. De in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2011-10-09&g=2011-10-09), bedoelde aangelegenheden worden door het bestuurscollege aan de Decentrale Overlegcommissie voorgelegd.
+1. De in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2021-03-30&g=2021-03-30), bedoelde aangelegenheden worden door het bestuurscollege aan de Decentrale Overlegcommissie voorgelegd.
 
-2. Iedere tot de Decentrale Overlegcommissie toegelaten vakorganisatie is bevoegd aan de voorzitter van het overleg bepaalde, in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2011-10-09&g=2011-10-09), bedoelde onderwerpen ter plaatsing op de agenda op te geven.
+2. Iedere tot de Decentrale Overlegcommissie toegelaten vakorganisatie is bevoegd aan de voorzitter van het overleg bepaalde, in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2021-03-30&g=2021-03-30), bedoelde onderwerpen ter plaatsing op de agenda op te geven.
 
 ##### Artikel 3.5. Informatieverplichting
 
@@ -184,15 +184,15 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 4.1. Geschillen
 
-1. Onze Minister stelt regels over de wijze waarop een geschil over het overleg over aangelegenheden als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2011-10-09&g=2011-10-09), en [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2011-10-09&g=2011-10-09), wordt beslecht.
+1. Onze Minister stelt regels over de wijze waarop een geschil over het overleg over aangelegenheden als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2021-03-30&g=2021-03-30), en [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2021-03-30&g=2021-03-30), wordt beslecht.
 
 2. Een regeling wordt vastgesteld, indien daarover overeenstemming bestaat met de Sectorale Overlegcommissie BES.
 
 ##### Artikel 4.2. Overeenstemmingsvereiste en belangrijke organisatiewijzigingen
 
-1. In afwijking van de [artikelen 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2011-10-09&g=2011-10-09), kunnen bij regeling van Onze Minister groepen ambtenaren worden aangewezen waarvoor een belangrijke wijziging van de organisatiestructuur van het dienstonderdeel op rijksniveau ten uitvoer kan worden gebracht indien overeenstemming wordt bereikt met bij een of meer, bij ministeriële regeling aan te wijzen vakorganisaties met rechtspersoonlijkheid, die gelet op het totaal aantal ambtenaren, werkzaam binnen deze organisatiestructuur, als representatief kunnen worden aangemerkt.
+1. In afwijking van de [artikelen 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=2&artikel=2.2&z=2021-03-30&g=2021-03-30), kunnen bij regeling van Onze Minister groepen ambtenaren worden aangewezen waarvoor een belangrijke wijziging van de organisatiestructuur van het dienstonderdeel op rijksniveau ten uitvoer kan worden gebracht indien overeenstemming wordt bereikt met bij een of meer, bij ministeriële regeling aan te wijzen vakorganisaties met rechtspersoonlijkheid, die gelet op het totaal aantal ambtenaren, werkzaam binnen deze organisatiestructuur, als representatief kunnen worden aangemerkt.
 
-2. In afwijking van [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2011-10-09&g=2011-10-09), kunnen bij regeling van het bestuurscollege groepen ambtenaren worden aangewezen waarvoor een belangrijke wijziging van de organisatiestructuur van het dienstonderdeel op decentraal niveau ten uitvoer kan worden gebracht indien overeenstemming wordt bereikt met bij een of meer, bij regeling van het bestuurscollege aan te wijzen vakorganisaties met rechtspersoonlijkheid, die gelet op het totaal aantal ambtenaren, werkzaam binnen deze organisatiestructuur, als representatief kunnen worden aangemerkt.
+2. In afwijking van [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&hoofdstuk=3&artikel=3.2&z=2021-03-30&g=2021-03-30), kunnen bij regeling van het bestuurscollege groepen ambtenaren worden aangewezen waarvoor een belangrijke wijziging van de organisatiestructuur van het dienstonderdeel op decentraal niveau ten uitvoer kan worden gebracht indien overeenstemming wordt bereikt met bij een of meer, bij regeling van het bestuurscollege aan te wijzen vakorganisaties met rechtspersoonlijkheid, die gelet op het totaal aantal ambtenaren, werkzaam binnen deze organisatiestructuur, als representatief kunnen worden aangemerkt.
 
 ##### Artikel 4.3. Uitsluiting van het overleg
 
