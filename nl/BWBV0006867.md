@@ -4,7 +4,7 @@ identifier: "BWBV0006867"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-03-31"
-last_updated: "2020-05-05"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006867"
 soort: "verdrag"
@@ -122,7 +122,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
-- 1. „Bilateraal Investeringsverdrag”: alle in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2020-05-05&g=2020-05-05) of [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2020-05-05&g=2020-05-05) genoemde investeringsverdragen;
+- 1. „Bilateraal Investeringsverdrag”: alle in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) of [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemde investeringsverdragen;
 
 - 2. „Arbitrageprocedures”: alle procedures voor een scheidsgerecht dat is opgericht om een geschil tussen een investeerder uit een lidstaat van de Europese Unie en een andere lidstaat van de Europese Unie te beslechten in overeenstemming met een Bilateraal Investeringsverdrag;
 
@@ -144,19 +144,19 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 ##### Artikel 2. Beëindiging van Bilaterale Investeringsverdragen
 
-1. De in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2020-05-05&g=2020-05-05) genoemde Bilaterale Investeringsverdragen worden beëindigd in overeenstemming met de voorwaarden van deze overeenkomst.
+1. De in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden beëindigd in overeenstemming met de voorwaarden van deze overeenkomst.
 
-2. Om meer zekerheid te bieden, worden de Horizonclausules van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2020-05-05&g=2020-05-05) genoemde Bilaterale Investeringsverdragen beëindigd in overeenstemming met lid 1 van dit artikel en hebben zij geen rechtsgevolgen.
+2. Om meer zekerheid te bieden, worden de Horizonclausules van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen beëindigd in overeenstemming met lid 1 van dit artikel en hebben zij geen rechtsgevolgen.
 
 ##### Artikel 3. Beëindiging van mogelijke gevolgen van Horizonclausules
 
-Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2020-05-05&g=2020-05-05) genoemde Bilaterale Investeringsverdragen worden beëindigd door deze overeenkomst en hebben geen rechtsgevolgen, in overeenstemming met de voorwaarden van deze overeenkomst.
+Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden beëindigd door deze overeenkomst en hebben geen rechtsgevolgen, in overeenstemming met de voorwaarden van deze overeenkomst.
 
 ##### Artikel 4. Gemeenschappelijke bepalingen
 
 1. De Overeenkomstsluitende Partijen bevestigen dat Arbitragebedingen strijdig zijn met de EU-Verdragen en derhalve geen toepassing kunnen vinden. Als gevolg van deze onverenigbaarheid tussen Arbitragebedingen en de EU-Verdragen kan vanaf de datum waarop de laatste van de partijen bij een Bilateraal Investeringsverdrag een lidstaat van de Europese Unie werd, het Arbitragebeding in een dergelijk Bilateraal Investeringsverdrag niet als rechtsgrondslag voor Arbitrageprocedures dienen.
 
-2. De beëindiging in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=2&z=2020-05-05&g=2020-05-05) van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2020-05-05&g=2020-05-05) genoemde Bilaterale Investeringsverdragen en de beëindiging in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=3&z=2020-05-05&g=2020-05-05) van Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2020-05-05&g=2020-05-05) genoemde Bilaterale Investeringsverdragen worden voor elk dergelijk verdrag van kracht zodra deze overeenkomst voor de betrokken Overeenkomstsluitende Partijen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2020-05-05&g=2020-05-05) in werking treedt.
+2. De beëindiging in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=2&z=2021-03-31&g=2021-03-31) van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen en de beëindiging in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=3&z=2021-03-31&g=2021-03-31) van Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden voor elk dergelijk verdrag van kracht zodra deze overeenkomst voor de betrokken Overeenkomstsluitende Partijen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2021-03-31&g=2021-03-31) in werking treedt.
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE VORDERINGEN OP GROND VAN BILATERALE INVESTERINGSVERDRAGEN
 
@@ -166,7 +166,7 @@ Arbitragebedingen dienen niet als rechtsgrondslag voor Nieuwe Arbitrageprocedure
 
 ##### Artikel 6. Beëindigde Arbitrageprocedures
 
-1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2020-05-05&g=2020-05-05) doet deze overeenkomst geen afbreuk aan Beëindigde Arbitrageprocedures. Deze procedures worden niet heropend.
+1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31) doet deze overeenkomst geen afbreuk aan Beëindigde Arbitrageprocedures. Deze procedures worden niet heropend.
 
 2. Daarnaast doet deze overeenkomst geen afbreuk aan elke overeenkomst om een geschil ten aanzien waarvan vóór 6 maart 2018 een Arbitrageprocedure is ingeleid, in der minne te schikken.
 
@@ -174,17 +174,17 @@ Arbitragebedingen dienen niet als rechtsgrondslag voor Nieuwe Arbitrageprocedure
 
 Ingeval de Overeenkomstsluitende Partijen partijen zijn bij Bilaterale Investeringsverdragen op grond waarvan Aanhangige Arbitrageprocedures of Nieuwe Arbitrageprocedures zijn ingeleid, zijn zij ertoe gehouden:
 
-- a. in onderlinge samenwerking en met gebruikmaking van de verklaring in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=C&z=2020-05-05&g=2020-05-05), scheidsgerechten te informeren over de rechtsgevolgen van het **Achmea**-arrest zoals beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2020-05-05&g=2020-05-05); en
+- a. in onderlinge samenwerking en met gebruikmaking van de verklaring in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=C&z=2021-03-31&g=2021-03-31), scheidsgerechten te informeren over de rechtsgevolgen van het **Achmea**-arrest zoals beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31); en
 
 - b. ingeval zij partij zijn in een gerechtelijke procedure betreffende een arbitrale uitspraak die op grond van een Bilateraal Investeringsverdrag is gedaan, de bevoegde nationale rechter – ook als het om een rechter uit een derde land gaat – te vragen om, al naargelang het geval, de arbitrale uitspraak te seponeren of te vernietigen, dan wel zich te onthouden van de erkenning of tenuitvoerlegging ervan.
 
 ##### Artikel 8. Overgangsmaatregelen in verband met Aanhangige Arbitrageprocedures
 
-1. Indien een investeerder partij is in een Aanhangige Arbitrageprocedure en de maatregel die het voorwerp van het geschil uitmaakt niet bij de bevoegde nationale rechter is aangevochten, zijn de overgangsmaatregelen van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=10&z=2020-05-05&g=2020-05-05) van toepassing.
+1. Indien een investeerder partij is in een Aanhangige Arbitrageprocedure en de maatregel die het voorwerp van het geschil uitmaakt niet bij de bevoegde nationale rechter is aangevochten, zijn de overgangsmaatregelen van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=10&z=2021-03-31&g=2021-03-31) van toepassing.
 
 2. Wanneer vóór de datum van inwerkingtreding van deze overeenkomst een definitieve uitspraak wordt gedaan waarin wordt vastgesteld dat de bestreden maatregel niet onder het betrokken Bilaterale Investeringsverdrag valt of dat Bilaterale Investeringsverdrag niet schendt, zijn de in dit artikel bedoelde overgangsmaatregelen niet van toepassing.
 
-3. Indien de betrokken Overeenkomstsluitende Partij in het kader van een Aanhangige Arbitrageprocedure tegenvorderingen heeft ingesteld, zijn dit artikel en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=10&z=2020-05-05&g=2020-05-05) van overeenkomstige toepassing op die vorderingen.
+3. Indien de betrokken Overeenkomstsluitende Partij in het kader van een Aanhangige Arbitrageprocedure tegenvorderingen heeft ingesteld, zijn dit artikel en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=10&z=2021-03-31&g=2021-03-31) van overeenkomstige toepassing op die vorderingen.
 
 4. De betrokken Overeenkomstsluitende Partij en de investeerder kunnen ook overeenstemming bereiken over een andere passende beslechting van het geschil, zoals onder meer een minnelijke schikking, op voorwaarde dat de oplossing in overeenstemming is met het Unierecht.
 
@@ -202,7 +202,7 @@ Een Partij kan een investeerder die bij een Aanhangige Arbitrageprocedure is bet
 
 In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende Partij of in de aanvaarding door de investeerder worden vermeld dat de schikkingsprocedure daarbij is ingeleid.
 
-2. Een schikkingsprocedure mag enkel worden ingeleid binnen zes maanden na de beëindiging, overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=2&z=2020-05-05&g=2020-05-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=3&z=2020-05-05&g=2020-05-05) van deze overeenkomst, van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, door overeenkomstig lid 1 van dit artikel daarom te verzoeken.
+2. Een schikkingsprocedure mag enkel worden ingeleid binnen zes maanden na de beëindiging, overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=2&z=2021-03-31&g=2021-03-31) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=3&z=2021-03-31&g=2021-03-31) van deze overeenkomst, van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, door overeenkomstig lid 1 van dit artikel daarom te verzoeken.
 
 3. Er wordt een schikkingsprocedure ingeleid indien het HvJ-EU of een nationale rechter in een in kracht van gewijsde gegane beslissing heeft geoordeeld dat de staatsmaatregel die in de in lid 1 bedoelde procedure wordt bestreden, het Unierecht schendt.
 
@@ -214,7 +214,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 7. Op de schikkingsprocedure wordt toezicht uitgeoefend door een onpartijdige facilitator met de bedoeling buiten gerecht en arbitrage om tussen de partijen tot een minnelijke, rechtmatige en billijke schikking te komen van het geschil dat het voorwerp van de Arbitrageprocedure uitmaakt. De schikkingsprocedure is onpartijdig en vertrouwelijk. Elke partij in de schikkingsprocedure heeft het recht haar standpunten kenbaar te maken.
 
-8. De facilitator wordt aangewezen in onderlinge overeenstemming tussen de investeerder en de betrokken Overeenkomstsluitende Partij die als verweerder in de desbetreffende Aanhangige Arbitrageprocedure optreedt. De facilitator wordt gekozen uit personen wier onafhankelijkheid en onpartijdigheid boven elke twijfel verheven is en die over de nodige kwalificaties, waaronder een grondige kennis van het Unierecht, beschikken. De facilitator is geen onderdaan van de lidstaat waarin de investering heeft plaatsgevonden en evenmin van de lidstaat van herkomst van de investeerder, en verkeert niet in een belangenconflict. Indien binnen een maand na de inleiding van de schikkingsprocedure geen onderlinge overeenstemming over de keuze van een onpartijdige facilitator wordt bereikt, verzoekt de investeerder of de betrokken Overeenkomstsluitende Partij die als verweerder in de desbetreffende Aanhangige Arbitrageprocedure optreedt, de directeur-generaal van de Juridische Dienst van de Europese Commissie een voormalig lid van het Hof van Justitie van de Europese Unie aan te wijzen, die, na raadpleging van elke partij bij het geschil, een persoon aanstelt die aan de in dit lid beschreven criteria voldoet. In [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=D&z=2020-05-05&g=2020-05-05) is een indicatieve vergoedingsregeling voor de facilitator vastgelegd.
+8. De facilitator wordt aangewezen in onderlinge overeenstemming tussen de investeerder en de betrokken Overeenkomstsluitende Partij die als verweerder in de desbetreffende Aanhangige Arbitrageprocedure optreedt. De facilitator wordt gekozen uit personen wier onafhankelijkheid en onpartijdigheid boven elke twijfel verheven is en die over de nodige kwalificaties, waaronder een grondige kennis van het Unierecht, beschikken. De facilitator is geen onderdaan van de lidstaat waarin de investering heeft plaatsgevonden en evenmin van de lidstaat van herkomst van de investeerder, en verkeert niet in een belangenconflict. Indien binnen een maand na de inleiding van de schikkingsprocedure geen onderlinge overeenstemming over de keuze van een onpartijdige facilitator wordt bereikt, verzoekt de investeerder of de betrokken Overeenkomstsluitende Partij die als verweerder in de desbetreffende Aanhangige Arbitrageprocedure optreedt, de directeur-generaal van de Juridische Dienst van de Europese Commissie een voormalig lid van het Hof van Justitie van de Europese Unie aan te wijzen, die, na raadpleging van elke partij bij het geschil, een persoon aanstelt die aan de in dit lid beschreven criteria voldoet. In [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=D&z=2021-03-31&g=2021-03-31) is een indicatieve vergoedingsregeling voor de facilitator vastgelegd.
 
 9. De facilitator vraagt de investeerder en de lidstaat waarin de investering heeft plaatsgevonden, binnen twee maanden na de aanstelling van de facilitator schriftelijke opmerkingen in te dienen. Indien de schikkingsprocedure op grond van lid 6 is ingeleid, kan de facilitator de Europese Commissie vragen binnen twee maanden advies uit te brengen over de desbetreffende kwesties die met het Unierecht verband houden.
 
@@ -242,15 +242,15 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 - a. de investeerder de Aanhangige Arbitrageprocedure intrekt en afstand doet van alle rechten en vorderingen uit hoofde van het desbetreffende Bilaterale Investeringsverdrag, dan wel afziet van de uitvoering van een reeds gedane maar nog niet definitief ten uitvoer gelegde of uitgevoerde uitspraak en zich ertoe verbindt af te zien van de inleiding van een Nieuwe Arbitrageprocedure:
 
-- i. binnen zes maanden na de beëindiging van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, ingeval geen gebruik is gemaakt van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05) voorziet;
+- i. binnen zes maanden na de beëindiging van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, ingeval geen gebruik is gemaakt van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) voorziet;
 
-- ii. binnen zes maanden, te rekenen vanaf de datum waarop de betrokken Overeenkomstsluitende Partij het verzoek van de investeerder afwijst om overeenkomstig [artikel 9, leden 1 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05), een gestructureerde dialoog aan te gaan; of
+- ii. binnen zes maanden, te rekenen vanaf de datum waarop de betrokken Overeenkomstsluitende Partij het verzoek van de investeerder afwijst om overeenkomstig [artikel 9, leden 1 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), een gestructureerde dialoog aan te gaan; of
 
-- iii. binnen zes maanden, te rekenen vanaf de datum waarop de laatste van de partijen overeenkomstig [artikel 9, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05), haar beslissing meedeelt, ingeval is gebruikgemaakt van de gestructureerde dialoog waarin artikel 9 voorziet;
+- iii. binnen zes maanden, te rekenen vanaf de datum waarop de laatste van de partijen overeenkomstig [artikel 9, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), haar beslissing meedeelt, ingeval is gebruikgemaakt van de gestructureerde dialoog waarin artikel 9 voorziet;
 
 - b. van de toegang tot de nationale rechter zal worden gebruikgemaakt om een vordering op grond van het nationale of het Unierecht in te stellen; en
 
-- c. in voorkomend geval, geen schikkingsovereenkomst is bereikt als gevolg van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2020-05-05&g=2020-05-05) voorziet.
+- c. in voorkomend geval, geen schikkingsovereenkomst is bereikt als gevolg van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) voorziet.
 
 2. De krachtens lid 1 geldende nationale termijnen voor de toegang tot de nationale rechter worden geacht aan te vangen op de datum waarop de investeerder zich uit de desbetreffende Aanhangige Arbitrageprocedure terugtrekt, dan wel overeenkomstig lid 1, onder a), afziet van de uitvoering van een reeds gedane maar nog niet definitief ten uitvoer gelegde of uitgevoerde uitspraak en zich ertoe verbindt af te zien van de inleiding van een Nieuwe Arbitrageprocedure, al naargelang het geval; de duur van deze termijnen is die welke bij het toepasselijke nationale recht wordt voorgeschreven.
 
@@ -268,13 +268,13 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 2. De secretaris-generaal van de Raad van de Europese Unie stelt de Overeenkomstsluitende Partijen in kennis van:
 
-- a. elk besluit inzake voorlopige toepassing overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=17&z=2020-05-05&g=2020-05-05);
+- a. elk besluit inzake voorlopige toepassing overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=17&z=2021-03-31&g=2021-03-31);
 
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding of goedkeuring overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=15&z=2020-05-05&g=2020-05-05);
+- b. de nederlegging van elke akte van bekrachtiging, aanvaarding of goedkeuring overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=15&z=2021-03-31&g=2021-03-31);
 
-- c. de datum van inwerkingtreding van deze overeenkomst krachtens [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2020-05-05&g=2020-05-05);
+- c. de datum van inwerkingtreding van deze overeenkomst krachtens [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2021-03-31&g=2021-03-31);
 
-- d. de datum van inwerkingtreding van deze overeenkomst voor elke Overeenkomstsluitende Partij krachtens [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2020-05-05&g=2020-05-05).
+- d. de datum van inwerkingtreding van deze overeenkomst voor elke Overeenkomstsluitende Partij krachtens [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2021-03-31&g=2021-03-31).
 
 3. De secretaris-generaal van de Raad van de Europese Unie maakt deze overeenkomst bekend in het **Publicatieblad van de Europese Unie**.
 
@@ -282,7 +282,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 1. De bijlagen bij deze overeenkomst vormen een integrerend onderdeel daarvan.
 
-2. Indien een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2020-05-05&g=2020-05-05) genoemd Bilateraal Investeringsverdrag niet van kracht is op de datum waarop deze overeenkomst voor de desbetreffende Overeenkomstsluitende Partijen in werking treedt, maar indien vóór de beëindiging van dit verdrag gedane investeringen op grond van de in het verdrag opgenomen Horizonclausule nog wel binnen de werkingssfeer ervan kunnen vallen, wordt het als een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2020-05-05&g=2020-05-05) genoemd Bilateraal Investeringsverdrag beschouwd.
+2. Indien een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemd Bilateraal Investeringsverdrag niet van kracht is op de datum waarop deze overeenkomst voor de desbetreffende Overeenkomstsluitende Partijen in werking treedt, maar indien vóór de beëindiging van dit verdrag gedane investeringen op grond van de in het verdrag opgenomen Horizonclausule nog wel binnen de werkingssfeer ervan kunnen vallen, wordt het als een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemd Bilateraal Investeringsverdrag beschouwd.
 
 ##### Artikel 13. Voorbehouden
 
