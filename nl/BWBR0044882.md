@@ -617,15 +617,3 @@ Wijzigt de Regeling garanties van oorsprong en certificaten van oorsprong.
 Deze regeling wordt aangehaald als: Subsidieregeling coöperatieve energieopwekking.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 47a. (overgangsbepaling minimum aantal leden)
-
-Op beschikkingen tot subsidieverlening die zijn afgegeven op aanvragen voor subsidie die zijn ontvangen voor inwerkingtreding van het [Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049501) is [artikel 35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=35&z=2024-04-02&g=2024-04-02), van toepassing zoals dat luidde voor de inwerkingtreding van de Regeling van de Minister voor Klimaat en Energie van 18 maart 2024, nr. WJZ/ 45392695, tot wijziging van de Subsidieregeling coöperatieve energieopwekking in verband met de Algemene Groepsvrijstellingsverordening en overige wijzigingen (Stcrt. 2024, 8919).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 47b. (overgangsbepaling onbalanskosten in de elektriciteitsprijs en correctiebedragen)
-
-Op beschikkingen tot subsidieverlening die zijn afgegeven op aanvragen voor subsidie die zijn ontvangen voor inwerkingtreding van het [Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2026](onbekend) zijn [artikelen 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=7&z=2026-03-01&g=2026-03-01), en [9, eerste lid, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2026-03-01&g=2026-03-01), van toepassing zoals die luidden voor 1 maart 2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
