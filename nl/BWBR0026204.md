@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2021-02-10"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -58,19 +58,19 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag.
 
-2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-02-10&g=2021-02-10), een dergelijke verlaging of verhoging rechtvaardigen.
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-04-01&g=2021-04-01), een dergelijke verlaging of verhoging rechtvaardigen.
 
-3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-02-10&g=2021-02-10), een dergelijke verlaging of verhoging rechtvaardigen.
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-04-01&g=2021-04-01), een dergelijke verlaging of verhoging rechtvaardigen.
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-02-10&g=2021-02-10) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-04-01&g=2021-04-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-02-10&g=2021-02-10), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
+2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-04-01&g=2021-04-01), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
 #### § 2. Indeling van overtredingen in categorieën
 
@@ -1064,7 +1064,8 @@ Vervallen
 | [79, eerste tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=79) | 2 |   |
 | [80](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80) | 2 |   |
 | [80.0a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80.0a) | 2 |   |
-| [80e, eerste tot en met derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80e) | 2 |   |
+| [80e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80e) | 2 |   |
+| [80f, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80f) | 2 |   |
 | [81, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81) | 2 |   |
 | [81a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81a) | 2 |   |
 | [artikel 81b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) | 2 |   |
@@ -1723,7 +1724,7 @@ Dit besluit berust mede op de [artikelen 1:81, derde lid](https://wetten.overhei
 
 ##### Artikel 3a
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-02-10&g=2021-02-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2021-02-10&g=2021-02-10) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-04-01&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2021-04-01&g=2021-04-01) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
 
 #### § 2. Indeling van overtredingen in categorieën, bijzondere boetemaxima en bijzondere termijnen openbaarmaking
 
