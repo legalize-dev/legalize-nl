@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2019-11-07"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
 
-- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2019-11-07&g=2019-11-07);
+- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2021-04-01&g=2021-04-01);
 
 - k. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
 
@@ -84,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 1. AIS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
 
-2. Op luchtvaartterreinen waar geen AIS unit is gevestigd is de exploitant van het luchtvaartterrein verantwoordelijk voor het beschikbaar stellen van luchtvaartinlichtingen, die vrij toegankelijk zijn, voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
+2. Op luchthavens waar geen AIS unit is gevestigd is de exploitant van de luchthaven verantwoordelijk voor het beschikbaar stellen van luchtvaartinlichtingen, die vrij toegankelijk zijn, voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
 
-3. De exploitant van het luchtvaartterrein, die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt er zorg voor dat deze informatie wordt doorgegeven aan een AIS unit.
+3. De exploitant van de luchthaven, die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt er zorg voor dat deze informatie wordt doorgegeven aan een AIS unit.
 
 4. Een AIS unit die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt zorg voor:
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een zodanige verspreiding als de omstandigheden vereisen.
 
-5. De exploitant van het luchtvaartterrein is verantwoordelijk voor het bijhouden van de luchtvaartinlichtingen.
+5. De exploitant van de luchthaven is verantwoordelijk voor het bijhouden van de luchtvaartinlichtingen.
 
 ### Hoofdstuk 2
 
@@ -160,7 +160,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2019-11-07&g=2019-11-07).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2021-04-01&g=2021-04-01).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -182,32 +182,23 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 15
 
-- a. Op de volgende luchthavens en luchtvaartterreinen worden de luchtvaartinlichtingen beschikbaar gesteld via een zelfbedieningsdienst:
+- a. Op de volgende luchthavens worden de luchtvaartinlichtingen beschikbaar gesteld via een zelfbedieningsdienst:
 
-| Internationale luchthavens | Cat. | Dekkingsgebied |
-| --- | --- | --- |
-| Amsterdam/Schiphol | A | Africa-Indian Ocean Region; Caribbean and South American Region; European and North Atlantic Region; Middle East and South East Asia Region; North American Region |
-| Groningen/Eelde | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
-| Maastricht/Maastricht Aachen | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
-| Eindhoven/Eindhoven | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
-| Rotterdam/Rotterdam | B | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
-| Lelystad/Lelystad | B | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland |
+- i. Schiphol;
 
-| Internationale luchtvaartterreinen | Cat. | Dekkingsgebied |
-| --- | --- | --- |
-| Deventer/Teuge | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
-| Hilversum/Hilversum | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
-| Hoeven/Seppe | C | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
-| Hoogeveen/Hoogeveen | C | Nederland; Duitsland |
-| Middelburg/Midden-Zeeland | C | België/Luxemburg; Duitsland; Nederland; Verenigd Koninkrijk |
-| Texel/Texel | C | België/Luxemburg; Duitsland; Nederland |
-| Ameland/Ameland | D | Nederland |
-| Drachten/Drachten | D | Nederland |
-| Weert/Budel | D | Nederland |
+- ii. Lelystad;
 
-- b. De luchtvaartinlichtingencategorie A omvat:
+- iii. Eelde;
 
-- 1º. Geïntegreerde pakketten luchtvaartinlichtingen van de ICAO regio's waarop geregeld internationaal luchtverkeer plaatsvindt. De volgende geïntegreerde pakketten luchtvaartinlichtingen zijn minimaal beschikbaar: volledige ICAO 'E' en 'L' regio en aangrenzende regio's;
+- iv. Maastricht;
+
+- v. Rotterdam;
+
+- vi. Eindhoven.
+
+- b. De in onderdeel a bedoelde luchtvaartinlichtingen omvatten:
+
+- 1°. geïntegreerde pakketten luchtvaartinlichtingen met wereldwijde dekking;
 
 - 2º. luchtvaartkaarten;
 
@@ -219,53 +210,19 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - 6º. het in ontvangst nemen van inlichtingen na de vlucht.
 
-- c. De luchtvaartinlichtingencategorie B omvat:
+2. Luchtvaartinlichtingen worden verstrekt op de luchthaven van vertrek, overeenkomstig het eerste lid, gedurende de gepubliceerde openstellingstijden van de luchthaven.
 
-- 1º. Geïntegreerde pakketten luchtvaartinlichtingen van de staten of gebieden waarop geregeld internationaal luchtverkeer plaatsvindt. De geïntegreerde pakketten luchtvaartinlichtingen van de volgende staten of gebieden zijn minimaal beschikbaar: Nederland, Duitsland, Denemarken, het Verenigd Koninkrijk, België, Luxemburg, Frankrijk en Zwitserland;
+3. Buiten de perioden genoemd in het tweede lid zijn luchtvaartinlichtingen beschikbaar via een homebriefing account.
 
-- 2º. luchtvaartkaarten;
+4. Buiten de perioden genoemd in het tweede lid en indien homebriefing ontoereikend is, worden luchtvaartinlichtingen op aanvraag verstrekt en in ontvangst genomen door de AIS-unit Schiphol.
 
-- 3º. inlichtingen voor de vlucht in de vorm van een PIB;
-
-- 4º. briefing;
-
-- 5º. selfbriefing;
-
-- 6º. het in ontvangst nemen of doorgeven van inlichtingen na de vlucht.
-
-- d. De luchtvaartinlichtingencategorie C omvat:
-
-- 1º. Geïntegreerde pakketten luchtvaartinlichtingen van de staten of gebieden waarop geregeld internationaal luchtverkeer plaatsvindt. De geïntegreerde pakketten luchtvaartinlichtingen van de volgende staten of gebieden zijn minimaal beschikbaar: Nederland, Duitsland, België en Luxemburg;
-
-- 2º. luchtvaartkaarten;
-
-- 3º. selfbriefing;
-
-- 4º. het in ontvangst nemen en doorgeven van inlichtingen na de vlucht.
-
-- e. De luchtvaartinlichtingencategorie D omvat:
-
-- 1º. geïntegreerd pakket luchtvaartinlichtingen van Nederland;
-
-- 2º. luchtvaartkaarten;
-
-- 3º. briefing met behulp van communicatiemiddelen;
-
-- 4º. het in ontvangst nemen en doorgeven van inlichtingen na de vlucht.
-
-- a. Luchtvaartinlichtingen worden verstrekt op het luchtvaartterrein van vertrek, overeenkomstig het eerste lid, gedurende de gepubliceerde openstellingstijden van het luchtvaartterrein.
-
-- b. Op luchtvaartterreinen met de categorie A,B of C worden tevens luchtvaartinlichtingen verstrekt gedurende een periode van minimaal twee uur voorafgaand aan de openstellingstijden.
-
-3. Buiten de perioden genoemd in het tweede lid, worden luchtvaartinlichtingen verstrekt en in ontvangst genomen door de AIS-unit Schiphol.
-
-4. De AIS-unit Schiphol is aangewezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig bijlage 15.
+5. De AIS-unit Schiphol is aangewezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig bijlage 15.
 
 ### Hoofdstuk 5
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2019-11-07&g=2019-11-07), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2021-04-01&g=2021-04-01), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -275,7 +232,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - d. luchtverkeersdiensten belast met vluchtinformatieverstrekking;
 
-- e. exploitanten of havendiensten van luchtvaartterreinen;
+- e. exploitanten of havendiensten van luchthavens;
 
 - f. buitenlandse luchtvaartinlichtingendiensten.
 
@@ -285,11 +242,9 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - b. de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=2);
 
-- c. commissie luchtverkeersincidenten;
+- c. dienst Operationele samenwerking van de Landelijke eenheid;
 
-- d. dienst Operationele samenwerking van de Landelijke eenheid;
-
-- e. de Inspectie Leefomgeving en Transport.
+- d. de Inspectie Leefomgeving en Transport.
 
 ### Hoofdstuk 6
 
@@ -301,7 +256,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - a. luchtverkeersdiensten;
 
-- b. luchtvaartterreinen met een luchtvaartinlichtingencategorie A of B, alsmede het luchtvaartterrein Lelystad.
+- b. de luchthavens, genoemd in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2021-04-01&g=2021-04-01).
 
 ### Hoofdstuk 7
 
