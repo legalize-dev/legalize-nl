@@ -4,7 +4,7 @@ identifier: "BWBR0038329"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2020-04-15"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038329"
 soort: "wet"
@@ -146,9 +146,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Ten aanzien van een procedure bij de civiele rechter waarbij het exploot voor de datum van inwerkingtreding van deze wet rechtsgeldig is betekend, blijft het recht van toepassing zoals dat voor die datum gold.
 
-2. Dit lid is nog niet in werking getreden.
+2. Ten aanzien van een procedure bij de civiele rechter waarbij voor de datum van inwerkingtreding van deze wet een verzoekschrift bij de rechter is ingediend, een beroepschrift bij het gerechtshof is ingediend of een verzoekschrift bij de Hoge Raad is ingediend, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
 
 3. Zolang de verplichting om langs elektronische weg te procederen nog niet bij alle gerechten voor alle zaken in werking is getreden, bepaalt de rechter naar wie een zaak wordt doorgestuurd, verwezen of terugverwezen, zo nodig op welke wijze die zaak wordt behandeld of voortgezet.
+
+4. Ten aanzien van een procedure bij de bestuursrechter blijft het recht zoals dit gold voor de datum van inwerkingtreding van de verplichting om langs elektronische weg te procederen, van toepassing op:
+
+- a. beroep tegen een voor dat tijdstip bekendgemaakt besluit;
+
+- b. hoger beroep, verzet of beroep in cassatie tegen een voor die datum bekendgemaakte uitspraak van de bestuursrechter;
+
+- c. een voor die datum ingesteld beroep wegens niet tijdig beslissen;
+
+- d. een voor die datum ingediend verzoek om schadevergoeding als bedoeld in [artikel 8:88, eerste lid, van de Algemene bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:88), en
+
+- e. een voor die datum ingediend verzoek om herziening van een uitspraak van de bestuursrechter.
+
+5. Het vierde lid is van overeenkomstige toepassing op een verzoek aan de bestuursrechter om een voorlopige voorziening of om opheffing of wijziging daarvan.
 
 ##### Artikel CIXa
 
@@ -166,7 +180,7 @@ Bij wijze van experiment kan in afwijking van het [Wetboek van Burgerlijke Recht
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende procedures, vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.
 
-2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2020-04-15&g=2020-04-15) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2021-04-01&g=2021-04-01) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel CXI
 
@@ -395,8 +409,6 @@ Wijzigt de Wet op de naburige rechten.
 ##### Artikel XLV
 
 Wijzigt de Wet Overheidsaansprakelijkheid Bezettingshandelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLVI
 
