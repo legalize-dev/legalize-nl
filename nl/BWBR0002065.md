@@ -4,7 +4,7 @@ identifier: "BWBR0002065"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2008-09-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002065"
 soort: "wet"
@@ -42,21 +42,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De Staat en de overige publiekrechtelijke lichamen zijn niet gebonden door overeenkomsten, in bezet gebied van Nederland gesloten, indien deze overeenkomsten ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), niet rechtstreeks zijn voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekten of hebben bijgedragen.
+1. De Staat en de overige publiekrechtelijke lichamen zijn niet gebonden door overeenkomsten, in bezet gebied van Nederland gesloten, indien deze overeenkomsten ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), niet rechtstreeks zijn voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekten of hebben bijgedragen.
 
 2. Het bepaalde in het eerste lid is niet van toepassing op overeenkomsten van geldlening waarbij het recht van de schuldeiser blijkt uit een schuldbrief aan toonder of uit een inschrijving in een Grootboek der Nationale Schuld.
 
 ##### Artikel 2
 
-De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor de betaling van schadeloosstelling wegens vordering of onteigening, in bezet gebied van Nederland gedaan, indien deze vordering of onteigening ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), niet rechtstreeks is voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekte of heeft bijgedragen.
+De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor de betaling van schadeloosstelling wegens vordering of onteigening, in bezet gebied van Nederland gedaan, indien deze vordering of onteigening ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), niet rechtstreeks is voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekte of heeft bijgedragen.
 
 ##### Artikel 3
 
-De Staat en de overige publiekrechtelijke lichamen zijn niet gehouden tot terugbetaling van hetgeen in bezet gebied van Nederland onverschuldigd is betaald, indien deze betaling ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), niet rechtstreeks is voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekte of heeft bijgedragen.
+De Staat en de overige publiekrechtelijke lichamen zijn niet gehouden tot terugbetaling van hetgeen in bezet gebied van Nederland onverschuldigd is betaald, indien deze betaling ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), niet rechtstreeks is voortgevloeid uit des bezetters verplichting tot het herstel of de verzekering van de openbare orde en het openbare leven, noch feitelijk hiertoe strekte of heeft bijgedragen.
 
 ##### Artikel 4
 
-De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor de schade, in bezet gebied van Nederland door een onrechtmatige daad - daaronder begrepen nalatigheid of onvoorzichtigheid - toegebracht, indien het veroorzaken van de schade ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), de Staat of het lichaam ten gevolge van de bezetting niet kan worden toegerekend.
+De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor de schade, in bezet gebied van Nederland door een onrechtmatige daad - daaronder begrepen nalatigheid of onvoorzichtigheid - toegebracht, indien het veroorzaken van de schade ingevolge een verklaring van de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), de Staat of het lichaam ten gevolge van de bezetting niet kan worden toegerekend.
 
 ##### Artikel 5
 
@@ -64,7 +64,7 @@ Het bepaalde in de voorgaande artikelen is niet toepasselijk op handelingen, ver
 
 ##### Artikel 6
 
-Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een onteigening of vordering, een verplichting tot terugbetaling van hetgeen onverschuldigd was betaald of ter vergoeding van schade, veroorzaakt door een onrechtmatige daad - daaronder begrepen nalatigheid of onvoorzichtigheid - met betrekking tot welke betalingen nadien een verklaring, als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01) bedoeld, is afgelegd, kan de Staat of het andere publiekrechtelijke lichaam niet opkomen.
+Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een onteigening of vordering, een verplichting tot terugbetaling van hetgeen onverschuldigd was betaald of ter vergoeding van schade, veroorzaakt door een onrechtmatige daad - daaronder begrepen nalatigheid of onvoorzichtigheid - met betrekking tot welke betalingen nadien een verklaring, als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01) bedoeld, is afgelegd, kan de Staat of het andere publiekrechtelijke lichaam niet opkomen.
 
 ##### Artikel 7
 
@@ -76,7 +76,7 @@ Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een on
 
 ##### Artikel 8
 
-1. Een verzoek, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), wordt ingediend, al dan niet door een advocaat, met overlegging van twee afschriften. Een dezer afschriften zendt de griffier onverwijld bij aangetekende brief aan de wederpartij; het andere afschrift zendt hij aan Onze Minister van Financiën. De wederpartij kan binnen drie weken na de dag van afzending een verweerschrift inzenden. Het verweerschrift gaat vergezeld van twee afschriften, waarvan de griffier onverwijld een aan de verzoeker en een aan Onze Minister van Financiën toezendt.
+1. Een verzoek, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), wordt ingediend, al dan niet door een advocaat, met overlegging van twee afschriften. Een dezer afschriften zendt de griffier onverwijld bij aangetekende brief aan de wederpartij; het andere afschrift zendt hij aan Onze Minister van Financiën. De wederpartij kan binnen drie weken na de dag van afzending een verweerschrift inzenden. Het verweerschrift gaat vergezeld van twee afschriften, waarvan de griffier onverwijld een aan de verzoeker en een aan Onze Minister van Financiën toezendt.
 
 2. Het Gerechtshof bepaalt na afloop van de termijn van inzending van het verweerschrift of na eerdere ontvangst daarvan een dag voor verhoor van partijen. Het kan tegen de dag van verhoor of een nadere dag het horen van getuigen of deskundigen bevelen.
 
@@ -86,11 +86,11 @@ Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een on
 
 ##### Artikel 9
 
-1. Van de beschikking van het Hof staat geen hoger beroep open. Echter kan daarvan binnen een maand na de dag der uitspraak beroep in cassatie worden ingesteld. Het verzoekschrift in cassatie wordt ingediend door een advocaat bij de Hoge Raad en is vergezeld van twee afschriften waarvan de griffier onverwijld een aan de wederpartij en een aan Onze Minister van Financiën toezendt. De wederpartij kan binnen drie weken door tussenkomst van een advocaat bij de Hoge Raad een verweerschrift indienen. Het verweerschrift gaat vergezeld van twee afschriften, waarvan de griffier onverwijld een aan de verzoeker en een aan Onze Minister van Financiën toezendt. Partijen kunnen in de gelegenheid worden gesteld de zaak mondeling toe te lichten.
+1. Van de beschikking van het Hof staat geen hoger beroep open. Echter kan daarvan binnen een maand na de dag van de uitspraak beroep in cassatie worden ingesteld. De procesinleiding wordt ingediend door een advocaat bij de Hoge Raad. De griffier zendt een afschrift van de procesinleiding onverwijld aan de wederpartij en aan Onze Minister van Financiën. De wederpartij kan binnen drie weken door tussenkomst van een advocaat bij de Hoge Raad een verweerschrift indienen. De griffier zendt een afschrift van het verweerschrift onverwijld aan de verzoeker en aan Onze Minister van Financiën. Partijen kunnen in de gelegenheid worden gesteld de zaak mondeling toe te lichten.
 
 2. De beschikking van de Hoge Raad is met redenen omkleed en wordt uitgesproken in een openbare zitting.
 
-3. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=8&z=2008-09-01&g=2008-09-01), laatste lid, is van toepassing.
+3. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=8&z=2021-04-01&g=2021-04-01), laatste lid, is van toepassing.
 
 ##### Artikel 10
 
@@ -110,7 +110,7 @@ De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor 
 
 ##### Artikel 14
 
-1. Indien door de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2008-09-01&g=2008-09-01), is verklaard dat de Staat of een ander publiekrechtelijk lichaam niet aansprakelijk is voor de nakoming van een verbintenis, dan wel indien ingevolge deze wet een opdracht tot betaling niet wordt uitgevoerd, of indien schade ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=12&z=2008-09-01&g=2008-09-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=13&z=2008-09-01&g=2008-09-01) dezer wet niet op de Staat of een ander publiekrechtelijk lichaam kan worden verhaald, kan, in geval niet volgens de Wet op de Materiële Oorlogsschaden reeds een bijdrage wordt gegeven, door de Directeur van het Bureau van het Commissariaat voor Oorlogsschade op daartoe door degene, die de schade lijdt, gedaan schriftelijk verzoek, overeenkomstig door Onze Minister van Financiën te stellen richtlijnen worden beslist, dat aan hem van Staatswege een tegemoetkoming zal worden toegekend. Gelijke bevoegdheid bestaat, indien, in de gevallen bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=1&z=2008-09-01&g=2008-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=2&z=2008-09-01&g=2008-09-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=3&z=2008-09-01&g=2008-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=4&z=2008-09-01&g=2008-09-01), de wederpartij van de Staat of van het andere publiekrechtelijke lichaam, met erkenning dat geen aansprakelijkheid van de Staat of van het andere publiekrechtelijke lichaam bestaat, zich met een desbetreffend schriftelijk verzoek heeft gewend tot de Directeur van het Bureau van het Commissariaat voor Oorlogsschade.
+1. Indien door de rechter, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=7&z=2021-04-01&g=2021-04-01), is verklaard dat de Staat of een ander publiekrechtelijk lichaam niet aansprakelijk is voor de nakoming van een verbintenis, dan wel indien ingevolge deze wet een opdracht tot betaling niet wordt uitgevoerd, of indien schade ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=12&z=2021-04-01&g=2021-04-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=13&z=2021-04-01&g=2021-04-01) dezer wet niet op de Staat of een ander publiekrechtelijk lichaam kan worden verhaald, kan, in geval niet volgens de Wet op de Materiële Oorlogsschaden reeds een bijdrage wordt gegeven, door de Directeur van het Bureau van het Commissariaat voor Oorlogsschade op daartoe door degene, die de schade lijdt, gedaan schriftelijk verzoek, overeenkomstig door Onze Minister van Financiën te stellen richtlijnen worden beslist, dat aan hem van Staatswege een tegemoetkoming zal worden toegekend. Gelijke bevoegdheid bestaat, indien, in de gevallen bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=1&z=2021-04-01&g=2021-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=2&z=2021-04-01&g=2021-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=3&z=2021-04-01&g=2021-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=4&z=2021-04-01&g=2021-04-01), de wederpartij van de Staat of van het andere publiekrechtelijke lichaam, met erkenning dat geen aansprakelijkheid van de Staat of van het andere publiekrechtelijke lichaam bestaat, zich met een desbetreffend schriftelijk verzoek heeft gewend tot de Directeur van het Bureau van het Commissariaat voor Oorlogsschade.
 
 2. De tegemoetkoming, bedoeld in het vorige lid, wordt in geen geval toegekend, indien degene, die de schade lijdt, deze aan zichzelf te wijten heeft.
 
@@ -120,7 +120,7 @@ De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor 
 
 ##### Artikel 15
 
-1. Het bedrag der schadeloosstelling, toekomende aan degenen, van wie roerende goederen zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 Mei 1946, 6e Afdeling, no. 1115 A en B, Generale Thesaurie, Afdeling Juridische Zaken en Bewindvoering no. 221 (**Nederlandse Staatscourant** van 22 Mei 1946, n°. 100) wordt, in afwijking van het bepaalde in het Algemeen Vorderingsbesluit 1940, zoals dit gewijzigd is gehandhaafd bij de Algemeene Vorderingsregeling 1944, vastgesteld overeenkomstig [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14&z=2008-09-01&g=2008-09-01).
+1. Het bedrag der schadeloosstelling, toekomende aan degenen, van wie roerende goederen zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 Mei 1946, 6e Afdeling, no. 1115 A en B, Generale Thesaurie, Afdeling Juridische Zaken en Bewindvoering no. 221 (**Nederlandse Staatscourant** van 22 Mei 1946, n°. 100) wordt, in afwijking van het bepaalde in het Algemeen Vorderingsbesluit 1940, zoals dit gewijzigd is gehandhaafd bij de Algemeene Vorderingsregeling 1944, vastgesteld overeenkomstig [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14&z=2021-04-01&g=2021-04-01).
 
 2. Evenwel wordt het bedrag dezer schadeloosstelling vastgesteld overeenkomstig de bepalingen van het Algemeen Vorderingsbesluit 1940, en van de maatregelen ter uitvoering van dit besluit voorzover:
 
