@@ -4,7 +4,7 @@ identifier: "BWBR0038331"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2017-03-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038331"
 soort: "wet"
@@ -51,7 +51,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 1. Ten aanzien van een procedure in hoger beroep en cassatie waarbij het exploot voor de datum van inwerkingtreding van deze wet rechtsgeldig is betekend, blijft het recht van toepassing zoals dat voor die datum gold.
 
-2. Dit lid is nog niet in werking getreden.
+2. Ten aanzien van een procedure in hoger beroep en cassatie waarbij een beroepschrift of verzoekschrift voor de datum van inwerkingtreding van deze wet bij het gerechtshof of bij de Hoge Raad is ingediend, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
 
 3. Zolang de verplichting om langs elektronische weg te procederen nog niet bij alle gerechten voor alle zaken in werking is getreden, bepaalt de rechter naar wie een zaak wordt doorgestuurd, verwezen of teruggewezen, zo nodig op welke wijze die zaak wordt behandeld of voortgezet.
 
