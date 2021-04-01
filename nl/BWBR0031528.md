@@ -4,7 +4,7 @@ identifier: "BWBR0031528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-01"
-last_updated: "2015-10-08"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031528"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **horeca-automaat:** een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino als bedoeld in [paragraaf 4.3 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&sub-paragraaf=4.3);
 
-- j. **aangifteformulier:** aangifteformulier als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=5&z=2015-10-08&g=2015-10-08), van deze regeling;
+- j. **aangifteformulier:** aangifteformulier als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=5&z=2021-04-01&g=2021-04-01), van deze regeling;
 
 - k. **raad van bestuur:** raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a).
 
@@ -110,7 +110,7 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 - b. een omschrijving van de gevraagde gegevens of bescheiden;
 
-- c. de termijn, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=6&z=2015-10-08&g=2015-10-08), waarbinnen aangifte moet worden gedaan.
+- c. de termijn, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=6&z=2021-04-01&g=2021-04-01), waarbinnen aangifte moet worden gedaan.
 
 3. Het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, kunnen langs elektronische weg worden toegezonden.
 
@@ -130,7 +130,7 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 ##### Artikel 8
 
-Deze regeling berust op [artikel 33f, derde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) en [artikel 6a van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=6a).
+Deze regeling berust op de [artikelen 33e, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), en [33f, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) en [artikel 9 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=9).
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -141,5 +141,27 @@ Deze regeling treedt in werking met ingang van de dag na de datum van de Staatsc
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kansspelheffing.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+1. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), of [30z, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z) verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in [artikel 33e, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), bedraagt:
+
+- a. voor tafelspelen in een speelcasino: het deeltarief van € 1.961 per speeltafel en € 96 per aangekoppelde speelterminal geheven uit de in [artikel 33f, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarieven;
+
+- b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: het deeltarief van € 96 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief;
+
+- c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: het deeltarief van € 39 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief;
+
+- d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: het deeltarief van € 39 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief.
+
+2. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a) verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in [artikel 33e, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), bedraagt het deelpercentage van 0,25% van de grondslag, bedoeld in artikel 33e, tweede lid, onder c, van de wet.
+
+### Hoofdstuk 3. Aangifte en aanslagen
+
+### Hoofdstuk 4. Grondslag
+
+### Hoofdstuk 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
