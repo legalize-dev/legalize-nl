@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2021-02-19"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -371,23 +371,23 @@ De IND start na ontvangst van het volledig ingevulde en complete model M35-O op 
 
 De IND of de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen mag na ontvangst van het model M35-O een onderzoek starten. Paragraaf C1/2.2 Vc onder het kopje **‘Onderzoek in de rust- en voorbereidingstermijn’** is in dat geval van overeenkomstige toepassing.
 
-De IND beslist na ontvangst van een volledige aanvraag en, indien nodig, na overleg met de Raad voor Rechtsbijstand en het COA op welke datum de ééndagstoets asiel van de vreemdeling start. De ééndagstoets asiel vangt aan met het gehoor als bedoeld in artikel 3.118b, tweede lid, onder a, Vb, tenzij de IND de kennis omtrent de relevante feiten en de af te wegen belangen die nodig is voor het kunnen nemen van de beschikking, kan vergaren zonder gehoor. In de gevallen waarin de IND afziet van het houden van een gehoor, vangt de ééndagstoets asiel aan met het voornemen als bedoeld in artikel 3.118b, tweede lid, onder c, Vb. De IND kan onder meer besluiten om af te zien van een gehoor in de situatie dat de vreemdeling:
+De IND beslist na ontvangst van een volledige aanvraag en, indien nodig, na overleg met de Raad voor Rechtsbijstand en het COA op welke datum de ééndagstoets asiel van de vreemdeling start. De ééndagstoets asiel vangt aan met het gehoor als bedoeld in artikel 3.118b, tweede lid, onder a, Vb, tenzij de IND de kennis omtrent de relevante feiten en de af te wegen belangen die nodig is voor het kunnen nemen van de beschikking, kan vergaren zonder gehoor én daarbij tot de conclusie komt dat er geen sprake is van nieuwe elementen of bevindingen. Enkel indien een tweede of volgende aanvraag op grond van [artikel 30a, eerste lid, sub d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) kan worden afgewezen, kan van het houden van een gehoor worden afgezien. In de gevallen waarin de IND afziet van het houden van een gehoor, vangt de ééndagstoets asiel aan met het voornemen als bedoeld in artikel 3.118b, tweede lid, onder c, Vb. De IND kan onder meer besluiten om af te zien van een gehoor in de situatie dat de vreemdeling:
 
 In gevallen waarin zich een van de hiervoor benoemde situaties voordoet maar individuele omstandigheden in de betreffende zaak ertoe leiden dat door het achterwege laten van het gehoor niet zorgvuldig kan worden beslist, wordt gehoord. De IND maakt geen gebruik van de mogelijkheid om af te zien van een gehoor bij de in artikel 40, zesde lid van de Procedurerichtlijn benoemde gevallen waarin weliswaar sprake is van een tweede of volgende aanvraag maar de vreemdeling voor het eerst zelfstandig en op eigen naam een (opvolgende) aanvraag indient.
 
-Indien er aanleiding bestaat om in gevallen waarin is afgezien van een gehoor op grond van nieuwe elementen of bevindingen of een andere beoordeling van reeds bekende elementen of bevindingen alsnog de vreemdeling te horen, vangt de ééndagstoets asiel opnieuw aan. Dit geldt ook als de IND al gebruik heeft gemaakt van de mogelijkheid om het onderzoek voort te zetten in het aanmeldcentrum als bedoeld in artikel 3.118b, vijfde lid, Vb.
+Indien er aanleiding bestaat om in gevallen, waarin in eerste instantie is afgezien van een gehoor, op grond van nieuwe elementen of bevindingen of een andere beoordeling van reeds bekende elementen of bevindingen alsnog de vreemdeling te horen, vangt de ééndagstoets asiel opnieuw aan. Dit geldt ook als de IND al gebruik heeft gemaakt van de mogelijkheid om het onderzoek voort te zetten in het aanmeldcentrum als bedoeld in artikel 3.118b, vijfde lid, Vb.
 
 Als de vreemdeling zonder voorafgaande mededeling niet verschijnt voor het gehoor als bedoeld in artikel 3.118b, tweede lid, onder a, Vb wordt gehandeld overeenkomstig [artikel 30c, eerste lid onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30c) en paragraaf C2/8 Vc.
 
-Voor de termijnen in de ééndagstoets asiel zijn de beleidsregels in C1/2.3 Vconder het kopje **Termijnen****in de algemene asielprocedure** van overeenkomstige toepassing.
+Voor de termijnen in de ééndagstoets asiel zijn de beleidsregels in C1/2.3 Vc onder het kopje **Termijnen in de algemene asielprocedure** van overeenkomstige toepassing.
 
 De IND behandelt de tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de procedure als beschreven in artikel 3.118b, zesde lid, Vb, of in de Dublinprocedure als het voornemen tot afwijzing niet volgens artikel 3.118b tweede lid onder c, Vb, op de eerste dag aan de vreemdeling is toegezonden of uitgereikt.
 
 Een toerekenbare overschrijding van de termijnen als bedoeld in artikel 3.118b, tweede lid, Vb door de vreemdeling is geen reden voor verlenging van de termijnen.
 
-De IND behandelt de tweede of volgende aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de algemene asielprocedure (zie paragraaf C1/2.1 Vc), als de vreemdeling op grond van artikel 3.118b, tiende lid, Vb, juncto artikel 3.50 VV is uitgezonderd van de ééndagstoets asiel of in de Dublinprocedure in geval artikel 3.50 onder d, VV van toepassing is.
+De IND behandelt de tweede of volgende aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de algemene asielprocedure (zie paragraaf C1/2.1 Vc), als de vreemdeling op grond van artikel 3.118b, tiende lid, Vb juncto artikel 3.50 VV is uitgezonderd van de ééndagstoets asiel of in de Dublinprocedure in geval artikel 3.50 onder d, VV van toepassing is.
 
-Wanneer het een alleenstaande minderjarige vreemdeling betreft, kan de tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de ééndagstoets asiel alleen niet-ontvankelijk worden verklaard op grond van [artikel 30a, eerste lid, onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) of kennelijk ongegrond worden verklaard op grond van [artikel 30b, eerste lid, onder b, j of k, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b). Dit vloeit voort uit artikel 25, zesde lid onder a van de Procedurerichtlijn. In alle overige gevallen neemt de IND eerst een beslissing op de tweede of volgende aanvraag na doorzending naar de Dublinprocedure, de algemene asielprocedure of de verlengde asielprocedure.
+Wanneer het een alleenstaande minderjarige vreemdeling betreft, kan de tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de ééndagstoets asiel alleen niet-ontvankelijk worden verklaard op grond van artikel 30a, eerste lid, onder d, Vw of kennelijk ongegrond worden verklaard op grond van [artikel 30b, eerste lid, onder b, j of k, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b). Dit vloeit voort uit artikel 25, zesde lid onder a van de Procedurerichtlijn. In alle overige gevallen neemt de IND eerst een beslissing op de tweede of volgende aanvraag na doorzending naar de Dublinprocedure, de algemene asielprocedure of de verlengde asielprocedure.
 
 Paragraaf C1/2.13 Vc onder ‘Wijze van bekendmaken’ is van overeenkomstige toepassing.
 
