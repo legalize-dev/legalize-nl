@@ -4,7 +4,7 @@ identifier: "BWBR0045013"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-04-01"
-last_updated: "2020-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045013"
 soort: "zbo"
@@ -244,7 +244,7 @@ Om tot een werkbaar rechtmatigheidsbegrip te komen, dat het CAK als maatstaf kan
 
 de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045013&bijlage=2&z=2021-04-01&g=2020-01-01) bij dit model is een overzicht opgenomen van de circulaires, bestuurlijke afspraken en de regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045013&bijlage=2&z=2021-04-01&g=2021-04-01) bij dit model is een overzicht opgenomen van de circulaires, bestuurlijke afspraken en de regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
 
 Als aan de genoemde randvoorwaarden is voldaan, rekening houdend met de invulling van het begrip rechtmatigheid in dit hoofdstuk, kan de Raad van bestuur van het CAK een eigen rechtmatigheidsoordeel geven en in de rechtmatigheidsverantwoording een uitspraak doen over de rechtmatige uitvoering van de specifieke burgerregelingen en de buitenlandtaken.
 
@@ -658,7 +658,7 @@ Lasten: Het CAK vergoedt de zorgkosten van betrokkene. Bij in Nederland wonende 
 
 ### 4.3. Rechtmatigheidsverantwoording
 
-Bij de verantwoording over de rechtmatige uitvoering van de in paragraaf 4.2 uitgewerkte financiële stromen inzake de 18 burgerregelingen maakt het CAK gebruik van een rechtmatigheids-verantwoording. De inrichtingsvoorschriften voor deze rechtmatigheidsverantwoording zijn uitgewerkt in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045013&bijlage=5&z=2021-04-01&g=2020-01-01) van dit model.
+Bij de verantwoording over de rechtmatige uitvoering van de in paragraaf 4.2 uitgewerkte financiële stromen inzake de 18 burgerregelingen maakt het CAK gebruik van een rechtmatigheids-verantwoording. De inrichtingsvoorschriften voor deze rechtmatigheidsverantwoording zijn uitgewerkt in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045013&bijlage=5&z=2021-04-01&g=2021-04-01) van dit model.
 
 Verder wordt verwezen naar paragraaf 3.3 t/m 3.5 voor wat betreft de invulling van de begrippen rechtmatigheid, fouten en onzekerheden alsmede materialiteit.
 
