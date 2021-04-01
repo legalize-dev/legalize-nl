@@ -4,7 +4,7 @@ identifier: "BWBR0028595"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028595"
 soort: "AMvB-BES"
@@ -104,7 +104,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **arbeidsinschakeling:** het verkrijgen van algemeen geaccepteerde arbeid;
 
-- **bijzondere onderstand:** de onderstand, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2021-01-01&g=2021-01-01);
+- **bijzondere onderstand:** de onderstand, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2021-04-01&g=2021-04-01);
 
 - **onderstand:** algemene en bijzondere onderstand;
 
@@ -223,18 +223,18 @@ Het basisbedrag van de algemene onderstand bedraagt per twee weken:
 
 ##### Artikel 14. Toeslag voor zelfstandig wonen
 
-1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt voor een zelfstandig wonende belanghebbende verhoogd met een toeslag per twee weken van:
+1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt voor een zelfstandig wonende belanghebbende verhoogd met een toeslag per twee weken van:
 
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: | USD 19 per 1 januari 2020: USD 66; |
 | --- | --- |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: | USD 19 per 1 januari 2020: USD 80; |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: | USD 19 per 1 januari 2020: USD 79. |
 
-2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
+2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
 
 ##### Artikel 15. Toeslag voor een gezamenlijke huishouding
 
-Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt voor personen met een gezamenlijke huishouding verhoogd met een toeslag per twee weken van:
+Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt voor personen met een gezamenlijke huishouding verhoogd met een toeslag per twee weken van:
 
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: | USD 47 per 1 januari 2020: USD 63: |
 | --- | --- |
@@ -243,7 +243,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 ##### Artikel 16. Kindertoeslag
 
-1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt voor een gezin met een of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
+1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt voor een gezin met een of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
 
 | a. indien het gezin woonachtig is in het openbaar lichaam Bonaire: | USD 23 per 1 januari 2020: USD 31; |
 | --- | --- |
@@ -251,7 +251,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 | c. indien het gezin woonachtig is in het openbaar lichaam Saba: | USD 23 per 1 januari 2020: USD 36 |
 | voor het eerste kind. |   |
 
-2. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt voor een gezin met twee of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
+2. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt voor een gezin met twee of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
 
 | a. indien het gezin woonachtig is in het openbaar lichaam Bonaire: | USD 12 per 1 januari 2020: USD 16; |
 | --- | --- |
@@ -263,14 +263,14 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 ##### Artikel 17. Toeslag bij volledige en duurzame arbeidsongeschiktheid
 
-1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt bij volledige en duurzame arbeidsongeschiktheid van de alleenstaande, van de alleenstaande ouder of van een van de personen dan wel beide personen die een gezamenlijke huishouding voeren, verhoogd met een enkelvoudige toeslag per twee weken van:
+1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt bij volledige en duurzame arbeidsongeschiktheid van de alleenstaande, van de alleenstaande ouder of van een van de personen dan wel beide personen die een gezamenlijke huishouding voeren, verhoogd met een enkelvoudige toeslag per twee weken van:
 
 | a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: | USD 100per 1 januari 2020: USD 197; |
 | --- | --- |
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: | USD 122per 1 januari 2020: USD 238; |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: | USD 120per 1 januari 2020: USD 235. |
 
-2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
+2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
 
 #### § 3.3. Middelen
 
@@ -298,17 +298,31 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 ##### Artikel 20. Toekenning bijzondere onderstand
 
-Onverminderd [paragraaf 2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&z=2021-01-01&g=2021-01-01) kan Onze Minister bijzondere onderstand toekennen aan de alleenstaande of het gezin voor zover de alleenstaande of het gezin niet de middelen kan verwerven om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en voldoet aan de plicht tot arbeidsinschakeling, behoudens in geval de omstandigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-01-01&g=2021-01-01), aan de orde is.
+1. Onverminderd [paragraaf 2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&z=2021-04-01&g=2021-04-01) kan Onze Minister bijzondere onderstand toekennen aan de alleenstaande of het gezin voor zover de alleenstaande of het gezin niet de middelen kan verwerven om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en voldoet aan de plicht tot arbeidsinschakeling, behoudens in geval de omstandigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-04-01&g=2021-04-01), aan de orde is.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. De eilandsraad van het openbaar lichaam Saba stelt bij eilandsverordening regels over de uitvoering van de bepalingen van dit besluit met betrekking tot bijzondere onderstand. Deze regels bevatten in elk geval bepalingen omtrent:
+
+- a. de aanvraag en criteria voor verlening van bijzondere onderstand;
+
+- b. de onderscheiden kostensoorten van bijzondere onderstand;
+
+- c. de maatregelen en terugvordering;
+
+- d. de afwijking van de eilandsverordening ten gunste van de belanghebbende met het oog op onredelijke gevolgen.
 
 #### § 4.1. Bijzondere onderstand
 
 ##### Artikel 21. Aanpassing en herziening
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat de prijsindexcijfers voor het derde kwartaal van het lopende jaar, vergeleken met de prijsindexcijfers voor het derde kwartaal van het voorafgaande jaar zijn gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-01-01&g=2021-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-01-01&g=2021-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-01-01&g=2021-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers zoals vastgesteld door het Centraal Bureau voor de Statistiek voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat de prijsindexcijfers voor het derde kwartaal van het lopende jaar, vergeleken met de prijsindexcijfers voor het derde kwartaal van het voorafgaande jaar zijn gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-04-01&g=2021-04-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-04-01&g=2021-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-04-01&g=2021-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-04-01&g=2021-04-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-04-01&g=2021-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-04-01&g=2021-04-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers zoals vastgesteld door het Centraal Bureau voor de Statistiek voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
-2. De overeenkomstig het eerste lid herziene bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-01-01&g=2021-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-01-01&g=2021-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-01-01&g=2021-01-01).
+2. De overeenkomstig het eerste lid herziene bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-04-01&g=2021-04-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-04-01&g=2021-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-04-01&g=2021-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-04-01&g=2021-04-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-04-01&g=2021-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-04-01&g=2021-04-01).
 
-3. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-01-01&g=2021-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-01-01&g=2021-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-01-01&g=2021-01-01) bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. De gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-01-01&g=2021-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-01-01&g=2021-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-01-01&g=2021-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-01-01&g=2021-01-01).
+3. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-04-01&g=2021-04-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-04-01&g=2021-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-04-01&g=2021-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-04-01&g=2021-04-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-04-01&g=2021-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-04-01&g=2021-04-01) bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. De gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-04-01&g=2021-04-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2021-04-01&g=2021-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2021-04-01&g=2021-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2021-04-01&g=2021-04-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2021-04-01&g=2021-04-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2021-04-01&g=2021-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-04-01&g=2021-04-01).
 
 4. Indien een wijziging als bedoeld in het derde lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het derde lid bedoelde ministeriële regeling.
 
@@ -384,7 +398,7 @@ De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door h
 
 ##### Artikel 31. Nadere verplichtingen
 
-1. Naast de verplichtingen die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&z=2021-01-01&g=2021-01-01) in elk geval aan de onderstand verbonden zijn, dan wel daaraan door Onze Minister verbonden worden, kan Onze Minister vanaf de dag waarop de alleenstaande of het gezin onderstand heeft aangevraagd als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.1&artikel=22&z=2021-01-01&g=2021-01-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van onderstand of die strekken tot zijn vermindering of beëindiging.
+1. Naast de verplichtingen die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&z=2021-04-01&g=2021-04-01) in elk geval aan de onderstand verbonden zijn, dan wel daaraan door Onze Minister verbonden worden, kan Onze Minister vanaf de dag waarop de alleenstaande of het gezin onderstand heeft aangevraagd als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.1&artikel=22&z=2021-04-01&g=2021-04-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van onderstand of die strekken tot zijn vermindering of beëindiging.
 
 2. Een verplichting als bedoeld in het eerste lid kan, op advies van een arts, inhouden het zich onderwerpen aan een noodzakelijke behandeling van medische aard.
 
@@ -404,23 +418,23 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 - a. ten onrechte of tot een te hoog bedrag is verleend;
 
-- b. op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.1&artikel=29&z=2021-01-01&g=2021-01-01) bij wijze van voorschot is verleend en nadien is vastgesteld dat geen recht op onderstand bestaat;
+- b. op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.1&artikel=29&z=2021-04-01&g=2021-04-01) bij wijze van voorschot is verleend en nadien is vastgesteld dat geen recht op onderstand bestaat;
 
 - c. anderszins onverschuldigd is betaald voor zover de belanghebbende dit redelijkerwijs had kunnen begrijpen, of
 
 - d. anderszins onverschuldigd is betaald, waaronder begrepen dat:
 
-- 1°. de belanghebbende naderhand met betrekking tot de periode waarover onderstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&z=2021-01-01&g=2021-01-01) beschikt of kan beschikken;
+- 1°. de belanghebbende naderhand met betrekking tot de periode waarover onderstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&z=2021-04-01&g=2021-04-01) beschikt of kan beschikken;
 
 - 2°. onderstand is verleend met een bepaalde bestemming en naderhand door de belanghebbende vergoedingen of tegemoetkomingen worden ontvangen met het oog op die bestemming.
 
-2. Het in aanmerking nemen van in de voorafgaande drie maanden ontvangen middelen, voor zover deze niet vallen onder de vrijlating, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-01-01&g=2021-01-01), wordt niet als terugvordering beschouwd.
+2. Het in aanmerking nemen van in de voorafgaande drie maanden ontvangen middelen, voor zover deze niet vallen onder de vrijlating, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2021-04-01&g=2021-04-01), wordt niet als terugvordering beschouwd.
 
 3. Bij gebreke van tijdige betaling kan de vordering worden verhoogd met de wettelijke rente en de op de terugvordering betrekking hebbende kosten.
 
 ##### Artikel 34. Terugvordering gezinsleden
 
-1. Onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&artikel=33&z=2021-01-01&g=2021-01-01) kunnen kosten van onderstand, indien de onderstand aan een gezin wordt verleend, van alle gezinsleden worden teruggevorderd.
+1. Onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&artikel=33&z=2021-04-01&g=2021-04-01) kunnen kosten van onderstand, indien de onderstand aan een gezin wordt verleend, van alle gezinsleden worden teruggevorderd.
 
 2. De in het eerste lid bedoelde personen zijn hoofdelijk aansprakelijk voor de terugbetaling van kosten van onderstand die worden teruggevorderd.
 
@@ -434,7 +448,7 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 ##### Artikel 36. Inlichtingenverplichting werkgever
 
-1. Een ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan Onze Minister kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van dit besluit ten opzichte van een persoon te wiens behoeve onderstand is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie kosten van onderstand op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&z=2021-01-01&g=2021-01-01) worden of kunnen worden teruggevorderd.
+1. Een ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan Onze Minister kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van dit besluit ten opzichte van een persoon te wiens behoeve onderstand is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie kosten van onderstand op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&z=2021-04-01&g=2021-04-01) worden of kunnen worden teruggevorderd.
 
 2. De opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door Onze Minister schriftelijk te stellen termijn verstrekt.
 
@@ -496,11 +510,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De belanghebbende kan tegen een beschikking op grond van dit besluit beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
-2. Bij een beroep tegen een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-01-01&g=2021-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
+2. Bij een beroep tegen een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-04-01&g=2021-04-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
 
-3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-01-01&g=2021-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
+3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-04-01&g=2021-04-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
 
-4. Met betrekking tot een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-01-01&g=2021-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
+4. Met betrekking tot een beschikking op grond van [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-04-01&g=2021-04-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
 ### Hoofdstuk 7. Overige bepalingen
 
@@ -518,7 +532,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 17a. Toeslag bij AOV-gerechtigde leeftijd
 
-Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), wordt voor de alleenstaande, de alleenstaande ouder of de personen die een gezamenlijke huishouding voeren, die de pensioengerechtigde leeftijd heeft of hebben bereikt, verhoogd met een enkelvoudige toeslag per twee weken van:
+Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), wordt voor de alleenstaande, de alleenstaande ouder of de personen die een gezamenlijke huishouding voeren, die de pensioengerechtigde leeftijd heeft of hebben bereikt, verhoogd met een enkelvoudige toeslag per twee weken van:
 
 - a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 263;
 
@@ -528,7 +542,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 ##### Artikel 17b. Bovengrens onderstand
 
-Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-01-01&g=2021-01-01), en de toeslagen, genoemd in de [artikelen 14 tot en met 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-01-01&g=2021-01-01), bij elkaar overschrijden niet de hoogte van het minimumloon.
+Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2021-04-01&g=2021-04-01), en de toeslagen, genoemd in de [artikelen 14 tot en met 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-04-01&g=2021-04-01), bij elkaar overschrijden niet de hoogte van het minimumloon.
 
 #### § 3.3. Middelen
 
@@ -647,6 +661,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 41b. Overgangsrecht uitsluiten fraudevorderingen van vermogenstoets
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 41b*. Overgangsrecht uitvoering bijzondere onderstand
 
 Dit onderdeel is nog niet inwerking getreden
 
