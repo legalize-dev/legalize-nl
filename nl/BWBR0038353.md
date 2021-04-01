@@ -4,7 +4,7 @@ identifier: "BWBR0038353"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2017-09-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038353"
 soort: "wet"
@@ -79,7 +79,7 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 ##### Artikel IVa
 
-Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na het tijdstip waarop de laatste fase van de invoering van de verplichting om langs elektronische weg te procederen, in werking is getreden, bedoeld in [artikel V, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038353&artikel=V&z=2017-09-01&g=2017-09-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na het tijdstip waarop de laatste fase van de invoering van de verplichting om langs elektronische weg te procederen, in werking is getreden, bedoeld in [artikel V, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038353&artikel=V&z=2021-04-01&g=2021-04-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel V
 
