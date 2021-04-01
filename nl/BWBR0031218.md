@@ -4,7 +4,7 @@ identifier: "BWBR0031218"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2024-04-01"
-last_updated: "2017-07-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031218"
 soort: "wet-BES"
@@ -97,7 +97,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint-Eustatius en Sa
 
 - **huishoudelijk afvalwater:** afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;
 
-- **huisvestingsvergunning:** vergunning als bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2017-07-01&g=2017-07-01);
+- **huisvestingsvergunning:** vergunning als bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2021-04-01&g=2021-04-01);
 
 - **inrichting:** elke door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid die binnen een zekere begrenzing pleegt te worden verricht;
 
@@ -155,7 +155,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint-Eustatius en Sa
 
 - **stortplaats:** inrichting waar afvalstoffen worden gestort, dan wel het gedeelte van een inrichting, waar afvalstoffen worden gestort;
 
-- **toezichthouder:** een persoon, die op grond van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2017-07-01&g=2017-07-01), is belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet;
+- **toezichthouder:** een persoon, die op grond van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2021-04-01&g=2021-04-01), is belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet;
 
 - **Verdrag van Bazel:** het op 22 maart 1989 te Bazel tot stand gekomen Verdrag inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan (Trb. 1990, 12), zoals gewijzigd op 29 oktober 2004 (Trb. 2006, 12);
 
@@ -187,7 +187,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint-Eustatius en Sa
 
 - 2°. het tijdelijk voor nuttige toepassing afgeven van afvalstoffen.
 
-6. In [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&z=2017-07-01&g=2017-07-01) en de daarop berustende bepalingen wordt onder bevoegd gezag mede verstaan het bestuursorgaan dat bevoegd is een plan vast te stellen.
+6. In [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&z=2021-04-01&g=2021-04-01) en de daarop berustende bepalingen wordt onder bevoegd gezag mede verstaan het bestuursorgaan dat bevoegd is een plan vast te stellen.
 
 ##### Artikel 1.3
 
@@ -255,13 +255,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 - c. het beheer van afvalwater;
 
-- d. een overzicht van onderzoeksgevallen en gevallen van ernstige verontreiniging als bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.10&z=2017-07-01&g=2017-07-01);
+- d. een overzicht van onderzoeksgevallen en gevallen van ernstige verontreiniging als bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.10&z=2021-04-01&g=2021-04-01);
 
 - e. bodembeschermende maatregelen;
 
 - f. een overzicht van de financiële gevolgen van de in de onderdelen a tot en met e genoemde activiteiten.
 
-2. Bij de vaststelling van het milieuprogramma neemt de eilandsraad het milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2017-07-01&g=2017-07-01), in acht.
+2. Bij de vaststelling van het milieuprogramma neemt de eilandsraad het milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2021-04-01&g=2021-04-01), in acht.
 
 3. Bij de vaststelling van het milieuprogramma met betrekking tot afvalstoffen als bedoeld in het eerste lid, onderdeel b, houdt de eilandsraad:
 
@@ -299,7 +299,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Indien toepassing wordt gegeven aan het eerste lid:
 
-- a. wijst de eilandsraad in de huisvestingsverordening de categorieën woonruimte aan die niet voor bewoning in gebruik mogen worden genomen of gegeven indien daarvoor geen huisvestingsvergunning is verleend;
+- a. wijst de eilandsraad in de huisvestingsverordening de categorieën woonruimte aan die niet voor bewoning in gebruik mogen worden genomen of gegeven of voor verkoop zijn bestemd indien daarvoor geen huisvestingsvergunning is verleend;
 
 - b. wijst de eilandsraad in de huisvestingsverordening de categorieën woningzoekenden aan die voor het verkrijgen van een huisvestingsvergunning in aanmerking komen;
 
@@ -309,7 +309,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.2
 
-1. In de huisvestingsverordening kan de eilandsraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte in verband met de aard, grootte of prijs van die woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan een daarbij aangewezen gedeelte van de overeenkomstig [artikel 3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2017-07-01&g=2017-07-01), aangewezen categorieën woningzoekenden.
+1. In de huisvestingsverordening kan de eilandsraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte in verband met de aard, grootte of prijs van die woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan een daarbij aangewezen gedeelte van de overeenkomstig [artikel 3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2021-04-01&g=2021-04-01), aangewezen categorieën woningzoekenden.
 
 2. In de huisvestingsverordening kan de eilandsraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden waarvoor de voorziening in de behoefte aan woonruimte dringend noodzakelijk is. Hierbij kunnen de criteria voor indeling in urgentiecategorieën worden opgenomen.
 
@@ -341,15 +341,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.4
 
-1. Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens [artikel 3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2017-07-01&g=2017-07-01), aangewezen categorie woningzoekenden.
+1. Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens [artikel 3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2021-04-01&g=2021-04-01), aangewezen categorie woningzoekenden.
 
-2. Indien de woonruimte is aangewezen op grond van [artikel 3.2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.2&z=2017-07-01&g=2017-07-01), kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van dat artikel voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.
+2. Indien de woonruimte is aangewezen op grond van [artikel 3.2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.2&z=2021-04-01&g=2021-04-01), kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van dat artikel voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.
 
 ##### Artikel 3.5
 
-1. Het is verboden om woonruimte die is aangewezen krachtens [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2017-07-01&g=2017-07-01), voor bewoning in gebruik te nemen zonder vergunning van het bestuurscollege.
+1. Het is verboden om woonruimte die is aangewezen krachtens [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2021-04-01&g=2021-04-01), voor bewoning in gebruik te nemen zonder vergunning van het bestuurscollege.
 
-2. Het is verboden om woonruimte die is aangewezen krachtens [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2017-07-01&g=2017-07-01), voor bewoning in gebruik te geven aan een persoon die niet beschikt over een huisvestingsvergunning.
+2. Het is verboden om woonruimte die is aangewezen krachtens [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.1&z=2021-04-01&g=2021-04-01), voor bewoning in gebruik te geven aan een persoon die niet beschikt over een huisvestingsvergunning.
 
 ##### Artikel 3.6
 
@@ -391,17 +391,17 @@ Het bestuurscollege draagt er zorg voor dat:
 
 - b. op ten minste een daartoe ter beschikking gestelde plaats binnen het openbaar lichaam in voldoende mate gelegenheid wordt geboden om grove huishoudelijke afvalstoffen achter te laten, en
 
-- c. in de gevallen, bedoeld in [artikel 4.7, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2017-07-01&g=2017-07-01), en voor de afvalstoffen, bedoeld in artikel 4.7, vierde lid, onderdeel b en c, en [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2017-07-01&g=2017-07-01), op ten minste een daartoe ter beschikking gestelde plaats binnen het openbaar lichaam in voldoende mate gelegenheid wordt geboden om de afvalstoffen achter te laten.
+- c. in de gevallen, bedoeld in [artikel 4.7, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2021-04-01&g=2021-04-01), en voor de afvalstoffen, bedoeld in artikel 4.7, vierde lid, onderdeel b en c, en [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2021-04-01&g=2021-04-01), op ten minste een daartoe ter beschikking gestelde plaats binnen het openbaar lichaam in voldoende mate gelegenheid wordt geboden om de afvalstoffen achter te laten.
 
 ##### Artikel 4.7
 
 1. De eilandsraad stelt in het belang van de bescherming van het milieu een afvalstoffenverordening vast.
 
-2. Bij het vaststellen van de afvalstoffenverordening houdt de eilandsraad rekening met de voorkeursvolgorde, bedoeld in [artikel 1.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2017-07-01&g=2017-07-01).
+2. Bij het vaststellen van de afvalstoffenverordening houdt de eilandsraad rekening met de voorkeursvolgorde, bedoeld in [artikel 1.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2021-04-01&g=2021-04-01).
 
 3. De afvalstoffenverordening bevat ten minste regels omtrent:
 
-- a. het overdragen of het ter inzameling aanbieden van afvalstoffen aan een inzameldienst die beschikt over een vergunning als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2017-07-01&g=2017-07-01);
+- a. het overdragen of het ter inzameling aanbieden van afvalstoffen aan een inzameldienst die beschikt over een vergunning als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2021-04-01&g=2021-04-01);
 
 - b. het overdragen van zodanige afvalstoffen aan een ander;
 
@@ -413,7 +413,7 @@ Het bestuurscollege draagt er zorg voor dat:
 
 - f. het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen.
 
-4. In afwijking van [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2017-07-01&g=2017-07-01), wijst de eilandsraad in de afvalstoffenverordening categorieën van afvalstoffen aan die:
+4. In afwijking van [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2021-04-01&g=2021-04-01), wijst de eilandsraad in de afvalstoffenverordening categorieën van afvalstoffen aan die:
 
 - a. afzonderlijk moeten worden aangeboden aan de inzameldienst;
 
@@ -421,7 +421,7 @@ Het bestuurscollege draagt er zorg voor dat:
 
 - c. afzonderlijk moeten worden aangeboden bij daartoe aangewezen inzamelpunten.
 
-5. In afwijking van [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2017-07-01&g=2017-07-01), kan de eilandsraad in het belang van een doelmatig beheer van afvalstoffen in de afvalstoffenverordening voorts bepalen dat:
+5. In afwijking van [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2021-04-01&g=2021-04-01), kan de eilandsraad in het belang van een doelmatig beheer van afvalstoffen in de afvalstoffenverordening voorts bepalen dat:
 
 - a. afvalstoffen worden ingezameld nabij elk perceel;
 
@@ -433,7 +433,7 @@ Het bestuurscollege draagt er zorg voor dat:
 
 ##### Artikel 4.8
 
-1. Onze Minister kan, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, aan de eilandsraad een bindende aanwijzing geven met betrekking tot het opnemen in de afvalstoffenverordening van regels als bedoeld in [artikel 4.7, vierde lid, onderdelen a, b en c, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2017-07-01&g=2017-07-01).
+1. Onze Minister kan, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, aan de eilandsraad een bindende aanwijzing geven met betrekking tot het opnemen in de afvalstoffenverordening van regels als bedoeld in [artikel 4.7, vierde lid, onderdelen a, b en c, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2021-04-01&g=2021-04-01).
 
 2. Onze Minister pleegt over een voornemen tot het geven van een aanwijzing overleg met de eilandsraad.
 
@@ -455,7 +455,7 @@ Het bestuurscollege draagt er zorg voor dat:
 
 ##### Artikel 4.26
 
-Met betrekking tot het lozen van afvalwater anders dan vanuit een inrichting voorziet de afvalwaterverordening, bedoeld in [artikel 4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2017-07-01&g=2017-07-01), ten minste in:
+Met betrekking tot het lozen van afvalwater anders dan vanuit een inrichting voorziet de afvalwaterverordening, bedoeld in [artikel 4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2021-04-01&g=2021-04-01), ten minste in:
 
 - a. maatregelen om het ontstaan van afvalwater te voorkomen of te beperken;
 
@@ -487,7 +487,7 @@ Met betrekking tot het lozen van afvalwater anders dan vanuit een inrichting voo
 
 2. Indien door een activiteit milieuschade ontstaat, treft degene die de activiteit verricht elke haalbare maatregel om de betrokken verontreinigende stoffen of andere schadefactoren onmiddellijk onder controle te houden, in te perken, te verwijderen of anderszins te beheersen, teneinde verdere milieuschade en negatieve effecten op de menselijke gezondheid of verdere aantasting van functies te voorkomen of te beperken.
 
-3. Indien milieuschade of een onmiddellijke dreiging daarvan ontstaat, meldt degene die de activiteit onderneemt dit voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is tot het verlenen van de vergunning indien het een inrichting betreft die bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), is aangewezen, dan wel, in andere gevallen, aan het bestuurscollege.
+3. Indien milieuschade of een onmiddellijke dreiging daarvan ontstaat, meldt degene die de activiteit onderneemt dit voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is tot het verlenen van de vergunning indien het een inrichting betreft die bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), is aangewezen, dan wel, in andere gevallen, aan het bestuurscollege.
 
 4. Het bevoegd gezag dat de melding ontvangt, geeft van die melding en de daarbij verstrekte gegevens onverwijld kennis aan de gezaghebber, de inspecteur en andere bestuursorganen of overheidsdiensten die direct belang hebben bij een onverwijlde mededeling.
 
@@ -535,19 +535,19 @@ Met betrekking tot het lozen van afvalwater anders dan vanuit een inrichting voo
 
 1. Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van
 
-- a. de verplichtingen, gesteld bij of krachtens de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.3&z=2017-07-01&g=2017-07-01), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2017-07-01&g=2017-07-01), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2017-07-01&g=2017-07-01), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.2&z=2017-07-01&g=2017-07-01), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.3&z=2017-07-01&g=2017-07-01) en [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2017-07-01&g=2017-07-01) en [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&z=2017-07-01&g=2017-07-01);
+- a. de verplichtingen, gesteld bij of krachtens de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.3&z=2021-04-01&g=2021-04-01), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2021-04-01&g=2021-04-01), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2021-04-01&g=2021-04-01), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.2&z=2021-04-01&g=2021-04-01), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.3&z=2021-04-01&g=2021-04-01) en [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2021-04-01&g=2021-04-01) en [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&z=2021-04-01&g=2021-04-01);
 
-- b. de voorschriften die voor degene die een inrichting drijft, gelden op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&z=2017-07-01&g=2017-07-01) en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&z=2017-07-01&g=2017-07-01) voor zover Onze Minister bevoegd is een vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), te verlenen dan wel Onze Minister het bestuursorgaan is waaraan de melding, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2017-07-01&g=2017-07-01) wordt gericht.
+- b. de voorschriften die voor degene die een inrichting drijft, gelden op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&z=2021-04-01&g=2021-04-01) en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&z=2021-04-01&g=2021-04-01) voor zover Onze Minister bevoegd is een vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), te verlenen dan wel Onze Minister het bestuursorgaan is waaraan de melding, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2021-04-01&g=2021-04-01) wordt gericht.
 
 2. Het bestuurscollege heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van:
 
-- a. de voorschriften, gesteld bij of krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&z=2017-07-01&g=2017-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&z=2017-07-01&g=2017-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&z=2017-07-01&g=2017-07-01);
+- a. de voorschriften, gesteld bij of krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&z=2021-04-01&g=2021-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&z=2021-04-01&g=2021-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&z=2021-04-01&g=2021-04-01);
 
-- b. de verplichtingen, gesteld krachtens de afvalstoffenverordening, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2017-07-01&g=2017-07-01) en de afvalwaterverordening, bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2017-07-01&g=2017-07-01) en de verplichtingen, gesteld bij of krachtens [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&z=2017-07-01&g=2017-07-01);
+- b. de verplichtingen, gesteld krachtens de afvalstoffenverordening, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2021-04-01&g=2021-04-01) en de afvalwaterverordening, bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2021-04-01&g=2021-04-01) en de verplichtingen, gesteld bij of krachtens [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&z=2021-04-01&g=2021-04-01);
 
-- c. de verplichtingen, gesteld bij of krachtens de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.3&z=2017-07-01&g=2017-07-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2017-07-01&g=2017-07-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2017-07-01&g=2017-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2017-07-01&g=2017-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2017-07-01&g=2017-07-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2017-07-01&g=2017-07-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2017-07-01&g=2017-07-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.11&z=2017-07-01&g=2017-07-01), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.13&z=2017-07-01&g=2017-07-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.14&z=2017-07-01&g=2017-07-01), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.34&z=2017-07-01&g=2017-07-01), [5.35](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.35&z=2017-07-01&g=2017-07-01), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2017-07-01&g=2017-07-01), [5.37](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.37&z=2017-07-01&g=2017-07-01), [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2017-07-01&g=2017-07-01) en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.40&z=2017-07-01&g=2017-07-01), en
+- c. de verplichtingen, gesteld bij of krachtens de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.3&z=2021-04-01&g=2021-04-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2021-04-01&g=2021-04-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2021-04-01&g=2021-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2021-04-01&g=2021-04-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2021-04-01&g=2021-04-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2021-04-01&g=2021-04-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2021-04-01&g=2021-04-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.11&z=2021-04-01&g=2021-04-01), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.13&z=2021-04-01&g=2021-04-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.14&z=2021-04-01&g=2021-04-01), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.34&z=2021-04-01&g=2021-04-01), [5.35](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.35&z=2021-04-01&g=2021-04-01), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2021-04-01&g=2021-04-01), [5.37](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.37&z=2021-04-01&g=2021-04-01), [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2021-04-01&g=2021-04-01) en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.40&z=2021-04-01&g=2021-04-01), en
 
-- d. de voorschriften die voor degene die een inrichting drijft, gelden op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&z=2017-07-01&g=2017-07-01) en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&z=2017-07-01&g=2017-07-01), voor zover het bestuurscollege bevoegd is een vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), te verlenen dan wel het bestuurscollege het bestuursorgaan is waaraan de melding, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2017-07-01&g=2017-07-01) wordt gericht.
+- d. de voorschriften die voor degene die een inrichting drijft, gelden op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&z=2021-04-01&g=2021-04-01) en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&z=2021-04-01&g=2021-04-01), voor zover het bestuurscollege bevoegd is een vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), te verlenen dan wel het bestuurscollege het bestuursorgaan is waaraan de melding, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2021-04-01&g=2021-04-01) wordt gericht.
 
 ##### Artikel 10.3
 
@@ -557,19 +557,19 @@ De [titels 5.1 tot en met 5.3 van de Algemene wet bestuursrecht](https://wetten.
 
 1. Onze Minister en het bestuurscollege zijn bevoegd tot het opleggen van een last onder bestuursdwang of een last onder dwangsom in gevallen waarin hen de zorg voor de bestuursrechtelijke handhaving van de betrokken bepalingen is opgedragen.
 
-2. Een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op de naleving van het bepaalde bij of krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&z=2017-07-01&g=2017-07-01), kan mede inhouden dat het bouwen, gebruik of slopen wordt gestaakt dan wel dat voorzieningen worden getroffen, met inbegrip van het slopen van een bouwwerk, gericht op het tegengaan van gevaar voor de gezondheid of veiligheid.
+2. Een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op de naleving van het bepaalde bij of krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&z=2021-04-01&g=2021-04-01), kan mede inhouden dat het bouwen, gebruik of slopen wordt gestaakt dan wel dat voorzieningen worden getroffen, met inbegrip van het slopen van een bouwwerk, gericht op het tegengaan van gevaar voor de gezondheid of veiligheid.
 
 ##### Artikel 10.5
 
 Het bestuursorgaan zendt onverwijld een afschrift van de beschikking tot oplegging van een last onder bestuursdwang, tot oplegging van een last onder dwangsom of tot intrekking van zodanige beschikkingen dan wel van de beschikking tot intrekking van een vergunning of ontheffing aan:
 
-- a. de inspecteur, voor beschikkingen als bedoeld in de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2017-07-01&g=2017-07-01), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2017-07-01&g=2017-07-01), [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.6&z=2017-07-01&g=2017-07-01), en [6.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.12&z=2017-07-01&g=2017-07-01), of
+- a. de inspecteur, voor beschikkingen als bedoeld in de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2021-04-01&g=2021-04-01), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2021-04-01&g=2021-04-01), [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.6&z=2021-04-01&g=2021-04-01), en [6.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.12&z=2021-04-01&g=2021-04-01), of
 
-- b. het bestuurscollege, in gevallen als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.6&z=2017-07-01&g=2017-07-01).
+- b. het bestuurscollege, in gevallen als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.6&z=2021-04-01&g=2021-04-01).
 
 ##### Artikel 10.6
 
-1. De krachtens [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2017-07-01&g=2017-07-01) aangewezen ambtenaren zijn voor de vervulling van hun taak bevoegd, met medeneming van de benodigde apparatuur, een woning of een tot woning bestemd gedeelte van een vaartuig binnen te treden zonder toestemming van de bewoner.
+1. De krachtens [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2021-04-01&g=2021-04-01) aangewezen ambtenaren zijn voor de vervulling van hun taak bevoegd, met medeneming van de benodigde apparatuur, een woning of een tot woning bestemd gedeelte van een vaartuig binnen te treden zonder toestemming van de bewoner.
 
 2. Op het binnentreden, bedoeld in het eerste lid, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), met dien verstande dat de zinsnede «en zoveel mogelijk de grond van de verdenking» vervalt, en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de gezaghebber.
 
@@ -577,7 +577,7 @@ Het bestuursorgaan zendt onverwijld een afschrift van de beschikking tot opleggi
 
 1. Het ten aanzien van een vergunning of ontheffing bevoegde gezag kan de vergunning of ontheffing geheel of gedeeltelijk intrekken, indien niet overeenkomstig die vergunning of ontheffing is of wordt gehandeld, dan wel indien aan de vergunning of ontheffing verbonden voorschriften of voor de houder van de vergunning of ontheffing als zodanig geldende algemene regels niet worden nageleefd.
 
-2. Een vergunning of ontheffing, die betrekking heeft op het beheer van gevaarlijke afvalstoffen, dan wel van andere afvalstoffen die van elders afkomstig zijn, kan, voor zover zij het beheer van afvalstoffen betreft, tevens worden ingetrokken, indien op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&z=2017-07-01&g=2017-07-01) voor de houder geldende voorschriften niet worden nageleefd.
+2. Een vergunning of ontheffing, die betrekking heeft op het beheer van gevaarlijke afvalstoffen, dan wel van andere afvalstoffen die van elders afkomstig zijn, kan, voor zover zij het beheer van afvalstoffen betreft, tevens worden ingetrokken, indien op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&z=2021-04-01&g=2021-04-01) voor de houder geldende voorschriften niet worden nageleefd.
 
 3. Het bevoegd gezag gaat niet tot intrekking als bedoeld in het eerste en tweede lid over dan nadat het de betrokkene de gelegenheid heeft geboden om binnen een daartoe te bepalen termijn zijn handelen alsnog in overeenstemming te brengen met de vergunning of ontheffing, onderscheidenlijk de voorschriften of de algemene regels, bedoeld in het eerste of tweede lid.
 
@@ -601,15 +601,15 @@ Het bestuursorgaan zendt onverwijld een afschrift van de beschikking tot opleggi
 
 ##### Artikel 10.10
 
-1. Onze Minister is belast met de coördinatie van de uitvoering van het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2017-07-01&g=2017-07-01).
+1. Onze Minister is belast met de coördinatie van de uitvoering van het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2021-04-01&g=2021-04-01).
 
-2. Er wordt regelmatig overleg gevoerd tussen de bestuursorganen die belast zijn met de handhaving en het toezicht over de afstemming van de werkzaamheden. In dat overleg worden in ieder geval afspraken gemaakt over de wijze waarop uitvoering wordt gegeven aan het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2017-07-01&g=2017-07-01).
+2. Er wordt regelmatig overleg gevoerd tussen de bestuursorganen die belast zijn met de handhaving en het toezicht over de afstemming van de werkzaamheden. In dat overleg worden in ieder geval afspraken gemaakt over de wijze waarop uitvoering wordt gegeven aan het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2021-04-01&g=2021-04-01).
 
 ##### Artikel 10.11
 
-1. Onze Minister kan, indien dat in het belang van een doelmatige handhaving geboden is, in overeenstemming met Onze betrokken Minister, aan het bestuurscollege een aanwijzing geven ter zake van de uitvoering van het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2017-07-01&g=2017-07-01).
+1. Onze Minister kan, indien dat in het belang van een doelmatige handhaving geboden is, in overeenstemming met Onze betrokken Minister, aan het bestuurscollege een aanwijzing geven ter zake van de uitvoering van het bepaalde krachtens [artikel 10.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.9&z=2021-04-01&g=2021-04-01).
 
-2.Bij het geven van een aanwijzing houdt Onze Minister rekening met het geldende milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2017-07-01&g=2017-07-01), en stelt hij een termijn binnen welke gevolg moet zijn gegeven aan de aanwijzing.
+2.Bij het geven van een aanwijzing houdt Onze Minister rekening met het geldende milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2021-04-01&g=2021-04-01), en stelt hij een termijn binnen welke gevolg moet zijn gegeven aan de aanwijzing.
 
 3. Onze Minister pleegt over een voornemen tot het geven van een aanwijzing overleg met het betrokken bestuurscollege.
 
@@ -627,25 +627,25 @@ Een gedraging in strijd met een voorschrift dat is verbonden aan een krachtens d
 
 ##### Artikel 10.13
 
-1. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2017-07-01&g=2017-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2017-07-01&g=2017-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2017-07-01&g=2017-07-01), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2017-07-01&g=2017-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2017-07-01&g=2017-07-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2017-07-01&g=2017-07-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2017-07-01&g=2017-07-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.11&z=2017-07-01&g=2017-07-01), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.13&z=2017-07-01&g=2017-07-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.14&z=2017-07-01&g=2017-07-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&artikel=4.15&z=2017-07-01&g=2017-07-01), [4.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&artikel=4.24&z=2017-07-01&g=2017-07-01), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2017-07-01&g=2017-07-01), [5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2017-07-01&g=2017-07-01), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.16&z=2017-07-01&g=2017-07-01), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.17&z=2017-07-01&g=2017-07-01), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.18&z=2017-07-01&g=2017-07-01), [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.19&z=2017-07-01&g=2017-07-01), [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.20&z=2017-07-01&g=2017-07-01), [5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.25&z=2017-07-01&g=2017-07-01), [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.26&z=2017-07-01&g=2017-07-01), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2017-07-01&g=2017-07-01), [5.38](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.38&z=2017-07-01&g=2017-07-01), [8.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2017-07-01&g=2017-07-01), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.3&artikel=8.5&z=2017-07-01&g=2017-07-01), [8.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.3&artikel=8.6&z=2017-07-01&g=2017-07-01), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2017-07-01&g=2017-07-01), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.2&z=2017-07-01&g=2017-07-01), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2017-07-01&g=2017-07-01) en [10.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.2&artikel=10.12&z=2017-07-01&g=2017-07-01) is:
+1. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2021-04-01&g=2021-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2021-04-01&g=2021-04-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2021-04-01&g=2021-04-01), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2021-04-01&g=2021-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2021-04-01&g=2021-04-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2021-04-01&g=2021-04-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.10&z=2021-04-01&g=2021-04-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.11&z=2021-04-01&g=2021-04-01), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.13&z=2021-04-01&g=2021-04-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.2&artikel=4.14&z=2021-04-01&g=2021-04-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&artikel=4.15&z=2021-04-01&g=2021-04-01), [4.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.3&artikel=4.24&z=2021-04-01&g=2021-04-01), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2021-04-01&g=2021-04-01), [5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-04-01&g=2021-04-01), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.16&z=2021-04-01&g=2021-04-01), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.17&z=2021-04-01&g=2021-04-01), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.18&z=2021-04-01&g=2021-04-01), [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.19&z=2021-04-01&g=2021-04-01), [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.20&z=2021-04-01&g=2021-04-01), [5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.25&z=2021-04-01&g=2021-04-01), [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.26&z=2021-04-01&g=2021-04-01), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2021-04-01&g=2021-04-01), [5.38](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.38&z=2021-04-01&g=2021-04-01), [8.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2021-04-01&g=2021-04-01), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.3&artikel=8.5&z=2021-04-01&g=2021-04-01), [8.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.3&artikel=8.6&z=2021-04-01&g=2021-04-01), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.1&z=2021-04-01&g=2021-04-01), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.2&z=2021-04-01&g=2021-04-01), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2021-04-01&g=2021-04-01) en [10.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.2&artikel=10.12&z=2021-04-01&g=2021-04-01) is:
 
 - a. voor zover opzettelijk begaan, een misdrijf en wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie;
 
 - b. voor zover geen misdrijf, een overtreding en wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie.
 
-2. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.1&z=2017-07-01&g=2017-07-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.2&z=2017-07-01&g=2017-07-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2017-07-01&g=2017-07-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.6&z=2017-07-01&g=2017-07-01), [5.3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2017-07-01&g=2017-07-01), [5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-07-01&g=2017-07-01), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.34&z=2017-07-01&g=2017-07-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.1&z=2017-07-01&g=2017-07-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.2&z=2017-07-01&g=2017-07-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.3&z=2017-07-01&g=2017-07-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.4&z=2017-07-01&g=2017-07-01), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.5&z=2017-07-01&g=2017-07-01), [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.6&z=2017-07-01&g=2017-07-01), [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.7&z=2017-07-01&g=2017-07-01), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.8&z=2017-07-01&g=2017-07-01), [6.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.10&z=2017-07-01&g=2017-07-01), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.12&z=2017-07-01&g=2017-07-01), [6.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.13&z=2017-07-01&g=2017-07-01), [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2017-07-01&g=2017-07-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.1&artikel=8.2&z=2017-07-01&g=2017-07-01), en [8.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2017-07-01&g=2017-07-01), is:
+2. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.1&z=2021-04-01&g=2021-04-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.2&z=2021-04-01&g=2021-04-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2021-04-01&g=2021-04-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.6&z=2021-04-01&g=2021-04-01), [5.3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2021-04-01&g=2021-04-01), [5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2021-04-01&g=2021-04-01), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.34&z=2021-04-01&g=2021-04-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.1&z=2021-04-01&g=2021-04-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.2&z=2021-04-01&g=2021-04-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.3&z=2021-04-01&g=2021-04-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.4&z=2021-04-01&g=2021-04-01), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.5&z=2021-04-01&g=2021-04-01), [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.6&z=2021-04-01&g=2021-04-01), [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.7&z=2021-04-01&g=2021-04-01), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.8&z=2021-04-01&g=2021-04-01), [6.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.10&z=2021-04-01&g=2021-04-01), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.12&z=2021-04-01&g=2021-04-01), [6.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&artikel=6.13&z=2021-04-01&g=2021-04-01), [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2021-04-01&g=2021-04-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.1&artikel=8.2&z=2021-04-01&g=2021-04-01), en [8.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2021-04-01&g=2021-04-01), is:
 
 - a. voor zover opzettelijk begaan, een misdrijf en wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie;
 
 - b. voor zover geen misdrijf, een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-3. Handelen in strijd met [artikel 5.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2017-07-01&g=2017-07-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+3. Handelen in strijd met [artikel 5.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2021-04-01&g=2021-04-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-4. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 5.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2017-07-01&g=2017-07-01), en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.40&z=2017-07-01&g=2017-07-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+4. Handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 5.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.39&z=2021-04-01&g=2021-04-01), en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.5&artikel=5.40&z=2021-04-01&g=2021-04-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-5. Overtreding van het verbod gegeven in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2017-07-01&g=2017-07-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
+5. Overtreding van het verbod gegeven in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2021-04-01&g=2021-04-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-6. Overtreding van het verbod gegeven in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2017-07-01&g=2017-07-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste vier maanden of geldboete van de derde categorie.
+6. Overtreding van het verbod gegeven in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=3&artikel=3.5&z=2021-04-01&g=2021-04-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste vier maanden of geldboete van de derde categorie.
 
 7. Als bijkomende straf kan worden opgelegd:
 
@@ -711,7 +711,7 @@ Deze paragraaf is van toepassing op het geven van beschikkingen bij of krachtens
 
 1. Indien na een geheel of gedeeltelijk afwijzende beschikking een nieuwe aanvraag wordt gedaan, is de aanvrager gehouden nieuw gebleken feiten of veranderde omstandigheden te vermelden.
 
-2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan, zonder toepassing te geven aan [artikel 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.4&z=2017-07-01&g=2017-07-01), de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.
+2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan, zonder toepassing te geven aan [artikel 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.4&z=2021-04-01&g=2021-04-01), de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.
 
 ##### Artikel 11.6
 
@@ -735,11 +735,11 @@ Deze paragraaf is van toepassing op het geven van beschikkingen bij of krachtens
 
 ##### Artikel 11.8
 
-Bij toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2017-07-01&g=2017-07-01) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2017-07-01&g=2017-07-01) kan de belanghebbende naar keuze schriftelijk of mondeling zijn zienswijze naar voren brengen.
+Bij toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2021-04-01&g=2021-04-01) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2021-04-01&g=2021-04-01) kan de belanghebbende naar keuze schriftelijk of mondeling zijn zienswijze naar voren brengen.
 
 ##### Artikel 11.9
 
-Het bestuursorgaan kan toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2017-07-01&g=2017-07-01) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2017-07-01&g=2017-07-01) achterwege laten voor zover:
+Het bestuursorgaan kan toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2021-04-01&g=2021-04-01) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2021-04-01&g=2021-04-01) achterwege laten voor zover:
 
 - a. de vereiste spoed zich daartegen verzet;
 
@@ -751,7 +751,7 @@ Het bestuursorgaan kan toepassing van de [artikelen 11.6](https://wetten.overhei
 
 1. Een beschikking wordt gegeven binnen de bij wettelijk voorschrift bepaalde termijn of, bij het ontbreken van zulk een termijn, binnen een redelijke termijn na ontvangst van de aanvraag.
 
-2. De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen zestien weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een kennisgeving als bedoeld in [artikel 11.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.11&z=2017-07-01&g=2017-07-01), heeft gedaan.
+2. De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen zestien weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een kennisgeving als bedoeld in [artikel 11.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.1&artikel=11.11&z=2021-04-01&g=2021-04-01), heeft gedaan.
 
 ##### Artikel 11.11
 
@@ -765,7 +765,7 @@ Het bestuursorgaan kan toepassing van de [artikelen 11.6](https://wetten.overhei
 
 1. De termijn voor het geven van een beschikking wordt opgeschort met ingang van de dag na die waarop het bestuursorgaan:
 
-- a. de aanvrager krachtens [artikel 11.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.3&artikel=11.14&z=2017-07-01&g=2017-07-01), uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, of
+- a. de aanvrager krachtens [artikel 11.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=11&paragraaf=11.3&artikel=11.14&z=2021-04-01&g=2021-04-01), uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, of
 
 - b. de aanvrager mededeelt dat voor de beschikking op de aanvraag redelijkerwijs noodzakelijke informatie aan een buitenlandse instantie is gevraagd, tot de dag waarop deze informatie is ontvangen of verder uitstel niet meer redelijk is.
 
@@ -811,31 +811,31 @@ Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 11.18
 
-1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&z=2017-07-01&g=2017-07-01) is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:
+1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&z=2021-04-01&g=2021-04-01) is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:
 
 - a. de [Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176),
 
 - b. de [Wet voorkoming verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453) en de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642), behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.
 
-2. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&z=2017-07-01&g=2017-07-01) is niet van toepassing op de bodem en de oevers van een oppervlaktewaterlichaam en, voor zover het oppervlaktewaterlichaam behoort tot de zee, de ondergrond van de zeebodem.
+2. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=6&z=2021-04-01&g=2021-04-01) is niet van toepassing op de bodem en de oevers van een oppervlaktewaterlichaam en, voor zover het oppervlaktewaterlichaam behoort tot de zee, de ondergrond van de zeebodem.
 
-3. [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&z=2017-07-01&g=2017-07-01) is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het neerleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) of de [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) ten aanzien van stoffen, preparaten of micro-organismen, voor zover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is hoofdstuk 9 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die ter zake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), de Wet luchtvaart of de Luchtvaartwet BES.
+3. [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&z=2021-04-01&g=2021-04-01) is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het neerleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) of de [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) ten aanzien van stoffen, preparaten of micro-organismen, voor zover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is hoofdstuk 9 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die ter zake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), de Wet luchtvaart of de Luchtvaartwet BES.
 
-4. [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&z=2017-07-01&g=2017-07-01) is niet van toepassing op gedragingen, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486) of de [Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176).
+4. [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&z=2021-04-01&g=2021-04-01) is niet van toepassing op gedragingen, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486) of de [Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176).
 
-5. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), wordt gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot zijn verantwoordelijkheid behoren, Onze Minister van Economische Zaken, Landbouw en Innovatie.
+5. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), wordt gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot zijn verantwoordelijkheid behoren, Onze Minister van Economische Zaken, Landbouw en Innovatie.
 
-6. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2017-07-01&g=2017-07-01) wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister.
+6. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=9&artikel=9.4&z=2021-04-01&g=2021-04-01) wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister.
 
 ##### Artikel 11.19
 
-1. De [artikelen 5.13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2017-07-01&g=2017-07-01), [5.14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2017-07-01&g=2017-07-01), en [5.31, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2017-07-01&g=2017-07-01), zijn tot een bij koninklijk besluit te bepalen tijdstip niet van toepassing op vergunningen voor inrichtingen die voor dat tijdstip in werking zijn gebracht.
+1. De [artikelen 5.13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2021-04-01&g=2021-04-01), [5.14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2021-04-01&g=2021-04-01), en [5.31, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2021-04-01&g=2021-04-01), zijn tot een bij koninklijk besluit te bepalen tijdstip niet van toepassing op vergunningen voor inrichtingen die voor dat tijdstip in werking zijn gebracht.
 
-2. [Artikel 5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2017-07-01&g=2017-07-01) is van toepassing op stortplaatsen waar na het tijdstip van inwerkingtreding van deze wet afvalstoffen worden gestort.
+2. [Artikel 5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.36&z=2021-04-01&g=2021-04-01) is van toepassing op stortplaatsen waar na het tijdstip van inwerkingtreding van deze wet afvalstoffen worden gestort.
 
 ##### Artikel 11.20
 
-Uiterlijk twaalf maanden na het tijdstip van inwerkingtreding van deze wet, geeft de eilandsraad uitvoering aan de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2017-07-01&g=2017-07-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2017-07-01&g=2017-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2017-07-01&g=2017-07-01) en [4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2017-07-01&g=2017-07-01).
+Uiterlijk twaalf maanden na het tijdstip van inwerkingtreding van deze wet, geeft de eilandsraad uitvoering aan de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2021-04-01&g=2021-04-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2021-04-01&g=2021-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2021-04-01&g=2021-04-01) en [4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4&paragraaf=4.4&artikel=4.25&z=2021-04-01&g=2021-04-01).
 
 ##### Artikel 11.21
 
@@ -885,7 +885,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5.6
 
-1. Het bestuurscollege van het openbaar lichaam waar de inrichting zal zijn of is gelegen, is bevoegd te beslissen op de aanvraag om een vergunning als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01).
+1. Het bestuurscollege van het openbaar lichaam waar de inrichting zal zijn of is gelegen, is bevoegd te beslissen op de aanvraag om een vergunning als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01).
 
 2. In afwijking van het eerste lid kan bij of krachtens algemene maatregel van bestuur worden bepaald dat Onze Minister bevoegd is te beslissen op de aanvraag om een vergunning ten aanzien van daarbij aangewezen categorieën van inrichtingen.
 
@@ -899,11 +899,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5.8
 
-1. Indien een vergunning wordt aangevraagd als bedoeld in [artikel 5.1, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, kan het bevoegd gezag, uit eigen beweging of op verzoek, bepalen dat een vergunning moet worden aangevraagd voor die verandering en voor het in werking hebben na die verandering van de gehele inrichting of onderdelen daarvan, waarmee die verandering samenhangt.
+1. Indien een vergunning wordt aangevraagd als bedoeld in [artikel 5.1, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, kan het bevoegd gezag, uit eigen beweging of op verzoek, bepalen dat een vergunning moet worden aangevraagd voor die verandering en voor het in werking hebben na die verandering van de gehele inrichting of onderdelen daarvan, waarmee die verandering samenhangt.
 
 2. Indien het bevoegd gezag heeft bepaald dat een zodanige vergunning moet worden aangevraagd, besluit het tot het buiten behandeling laten van aanvragen om een vergunning voor de betrokken verandering van de inrichting of van de werking daarvan, die geen betrekking hebben op een zodanige vergunning.
 
-3. Het bevoegd gezag kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van de [artikelen 5.28 tot en met 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2017-07-01&g=2017-07-01).
+3. Het bevoegd gezag kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van de [artikelen 5.28 tot en met 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2021-04-01&g=2021-04-01).
 
 4. Een met toepassing van dit artikel verleende vergunning vervangt met ingang van het tijdstip waarop zij in werking treedt, de eerder voor de inrichting of met betrekking tot de in het eerste lid bedoelde onderdelen daarvan verleende vergunningen. Deze vergunningen vervallen op het tijdstip waarop de met toepassing van dit artikel verleende vergunning onherroepelijk wordt.
 
@@ -927,17 +927,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Het bevoegd gezag betrekt bij de beslissing op de aanvraag in ieder geval:
 
-- a. de onderwerpen, genoemd in [artikel 5.2, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.2&z=2017-07-01&g=2017-07-01);
+- a. de onderwerpen, genoemd in [artikel 5.2, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.2&z=2021-04-01&g=2021-04-01);
 
 - b. het systeem van met elkaar samenhangende technische, administratieve en organisatorische maatregelen om de gevolgen die de inrichting voor het milieu veroorzaakt, te monitoren, te beheersen en, voor zover het nadelige gevolgen betreft, te verminderen, dat degene die de inrichting drijft met betrekking tot die inrichting toepast, alsmede het milieubeleid dat hij met betrekking tot de activiteit voert.
 
-2. Het bevoegd gezag houdt bij de beslissing op de aanvraag in ieder geval rekening met het voor hem geldende milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2017-07-01&g=2017-07-01), en het voor hem geldende milieuprogramma, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2017-07-01&g=2017-07-01).
+2. Het bevoegd gezag houdt bij de beslissing op de aanvraag in ieder geval rekening met het voor hem geldende milieubeleidsplan, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.4&z=2021-04-01&g=2021-04-01), en het voor hem geldende milieuprogramma, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=1&artikel=1.5&z=2021-04-01&g=2021-04-01).
 
 3. Het bevoegd gezag neemt bij de beslissing op de aanvraag in ieder geval in acht:
 
-- a. de voor hem geldende, krachtens [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.19&z=2017-07-01&g=2017-07-01) gestelde regels;
+- a. de voor hem geldende, krachtens [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.19&z=2021-04-01&g=2021-04-01) gestelde regels;
 
-- b. aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2017-07-01&g=2017-07-01) door Onze Minister zijn gegeven.
+- b. aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2021-04-01&g=2021-04-01) door Onze Minister zijn gegeven.
 
 4. Het bevoegd gezag geeft in de motivering van de beslissing op de aanvraag aan, op welke wijze de in het eerste lid genoemde aspecten de inhoud van het besluit hebben beïnvloed.
 
@@ -953,9 +953,9 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 - a. door verlening daarvan niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
 
-- b. verlening daarvan niet in overeenstemming zou zijn met hetgeen overeenkomstig [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2017-07-01&g=2017-07-01), door het bevoegd gezag in acht moet worden genomen;
+- b. verlening daarvan niet in overeenstemming zou zijn met hetgeen overeenkomstig [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2021-04-01&g=2021-04-01), door het bevoegd gezag in acht moet worden genomen;
 
-- c. door verlening daarvan strijd zou ontstaan met regels als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2017-07-01&g=2017-07-01).
+- c. door verlening daarvan strijd zou ontstaan met regels als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2021-04-01&g=2021-04-01).
 
 3. In afwijking van het eerste lid kan de vergunning tevens worden geweigerd ingeval door verlening daarvan strijd zou ontstaan met een ontwikkelingsplan als bedoeld in de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028218).
 
@@ -989,7 +989,7 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 1. Voor zover dit naar het oordeel van het bevoegd gezag noodzakelijk is, kunnen aan de vergunning voorschriften worden verbonden, inhoudende de verplichting tot het treffen van technische maatregelen.
 
-2. Indien voorschriften als bedoeld in het eerste lid aan de vergunning worden verbonden in plaats van voorschriften als bedoeld in [artikel 5.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2017-07-01&g=2017-07-01), leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.
+2. Indien voorschriften als bedoeld in het eerste lid aan de vergunning worden verbonden in plaats van voorschriften als bedoeld in [artikel 5.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-04-01&g=2021-04-01), leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.
 
 3. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het eerste lid, kunnen daaraan in ieder geval ook voorschriften worden verbonden, inhoudende dat:
 
@@ -997,7 +997,7 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 - b. daarbij aangegeven metingen, berekeningen of tellingen moeten worden verricht ter bepaling van de mate waarin de inrichting de nadelige gevolgen voor het milieu veroorzaakt, ter voorkoming of beperking waarvan die voorschriften zijn bedoeld.
 
-4. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het derde lid, is [artikel 5.15, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+4. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het derde lid, is [artikel 5.15, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-04-01&g=2021-04-01), van overeenkomstige toepassing.
 
 ##### Artikel 5.17
 
@@ -1023,7 +1023,7 @@ Aan de vergunning worden in ieder geval de voor de betrokken inrichting in aanme
 
 1. Aan de vergunning kunnen in het belang van de bescherming van het milieu andere voorschriften worden verbonden. Die voorschriften kunnen in ieder geval inhouden:
 
-- a. dat daarbij aangegeven andere metingen, berekeningen of tellingen dan bedoeld in de [artikelen 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2017-07-01&g=2017-07-01) en [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.16&z=2017-07-01&g=2017-07-01) moeten worden verricht ter bepaling van de mate waarin de inrichting nadelige gevolgen voor het milieu veroorzaakt;
+- a. dat daarbij aangegeven andere metingen, berekeningen of tellingen dan bedoeld in de [artikelen 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-04-01&g=2021-04-01) en [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.16&z=2021-04-01&g=2021-04-01) moeten worden verricht ter bepaling van de mate waarin de inrichting nadelige gevolgen voor het milieu veroorzaakt;
 
 - b. dat in een mate als bij het voorschrift aangegeven, onderzoek wordt verricht naar mogelijkheden tot verdergaande bescherming van het milieu dan waarin de andere aan de vergunning verbonden voorschriften voorzien;
 
@@ -1031,11 +1031,11 @@ Aan de vergunning worden in ieder geval de voor de betrokken inrichting in aanme
 
 - d. dat wordt voldaan aan daarbij aangegeven eisen ten aanzien van de vakbekwaamheid van in de inrichting werkzame personen;
 
-- e. dat aan de in de inrichting werkzame personen schriftelijk instructies worden gegeven om handelen in strijd met de vergunning, de daaraan verbonden voorschriften of bij of krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), gestelde regels tegen te gaan, en dat toezicht wordt gehouden op het naleven van die instructies;
+- e. dat aan de in de inrichting werkzame personen schriftelijk instructies worden gegeven om handelen in strijd met de vergunning, de daaraan verbonden voorschriften of bij of krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), gestelde regels tegen te gaan, en dat toezicht wordt gehouden op het naleven van die instructies;
 
 - f. dat met betrekking tot in het voorschrift geregelde, daarbij aangegeven onderwerpen wordt voldaan aan nadere eisen die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld;
 
-- g. dat van daarbij aangegeven veranderingen als bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), binnen een in het voorschrift te bepalen termijn schriftelijk mededeling wordt gedaan aan het bevoegd gezag of een door hem aangewezen instantie;
+- g. dat van daarbij aangegeven veranderingen als bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), binnen een in het voorschrift te bepalen termijn schriftelijk mededeling wordt gedaan aan het bevoegd gezag of een door hem aangewezen instantie;
 
 - h. dat met het oog op het kunnen voldoen aan de andere aan de vergunning verbonden voorschriften daarbij aangegeven organisatorische en administratieve maatregelen worden getroffen;
 
@@ -1047,9 +1047,9 @@ Aan de vergunning worden in ieder geval de voor de betrokken inrichting in aanme
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende de verplichting voor het bevoegd gezag beperkingen of voorschriften, die nodig zijn ter bescherming van het milieu en waarvan de inhoud in die maatregel is aangegeven, aan te brengen onderscheidenlijk te verbinden aan de vergunningen voor inrichtingen die behoren tot een bij de maatregel aangewezen categorie. Bij de algemene maatregel van bestuur kan worden bepaald dat de daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
 
-2. [Artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.2&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing op de beslissing tot het vaststellen van een algemene maatregel van bestuur als bedoeld in het eerste lid.
+2. [Artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.2&z=2021-04-01&g=2021-04-01), is van overeenkomstige toepassing op de beslissing tot het vaststellen van een algemene maatregel van bestuur als bedoeld in het eerste lid.
 
-3. Ten aanzien van bij het eerste lid aan te wijzen beperkingen en voorschriften zijn de [artikelen 5.14, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2017-07-01&g=2017-07-01), [5.15 tot en met 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2017-07-01&g=2017-07-01) en [5.28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+3. Ten aanzien van bij het eerste lid aan te wijzen beperkingen en voorschriften zijn de [artikelen 5.14, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2021-04-01&g=2021-04-01), [5.15 tot en met 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-04-01&g=2021-04-01) en [5.28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2021-04-01&g=2021-04-01), van overeenkomstige toepassing.
 
 4. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt bepaald in hoeverre het bevoegd gezag met betrekking tot daarbij aangegeven onderwerpen van bij de maatregel gestelde regels kan afwijken of nadere eisen kan stellen. Daarbij kan worden bepaald dat de bevoegdheid tot afwijken of tot het stellen van nadere eisen slechts geldt in bij de maatregel aangegeven categorieën van gevallen.
 
@@ -1121,7 +1121,7 @@ In een vergunning kan worden bepaald:
 
 - a. indien de inrichting niet binnen drie jaar nadat de vergunning onherroepelijk is geworden, is voltooid en in werking gebracht;
 
-- b. indien de inrichting een stortplaats is en deze krachtens [artikel 5.35](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.35&z=2017-07-01&g=2017-07-01) voor gesloten in verklaard.
+- b. indien de inrichting een stortplaats is en deze krachtens [artikel 5.35](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.4&artikel=5.35&z=2021-04-01&g=2021-04-01) voor gesloten in verklaard.
 
 2. Indien kan worden verwacht dat de inrichting niet binnen de in het eerste lid, onderdeel a, bedoelde termijn kan worden voltooid en in werking gebracht, kan in de vergunning een andere termijn worden vastgesteld, die daarvoor in de plaats treedt.
 
@@ -1133,13 +1133,13 @@ In een vergunning kan worden bepaald:
 
 - b. het voornemen tot het uitvoeren van de verandering door de vergunninghouder schriftelijk overeenkomstig de krachtens het zesde lid, onderdeel a, gestelde regels aan het bevoegd gezag is gemeld, en
 
-- c. het bevoegd gezag aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan de aanhef en onderdeel a en de verandering naar zijn oordeel geen aanleiding geeft tot toepassing van de [artikelen 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2017-07-01&g=2017-07-01), [5.29](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.29&z=2017-07-01&g=2017-07-01) of [5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2017-07-01&g=2017-07-01).
+- c. het bevoegd gezag aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan de aanhef en onderdeel a en de verandering naar zijn oordeel geen aanleiding geeft tot toepassing van de [artikelen 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2021-04-01&g=2021-04-01), [5.29](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.29&z=2021-04-01&g=2021-04-01) of [5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2021-04-01&g=2021-04-01).
 
-2. Het eerste lid is niet van toepassing op veranderingen ten aanzien waarvan, indien zij vergunningplichtig zouden zijn geweest, bij de voorbereiding van de besluiten ter zake, een milieueffectrapport als bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&z=2017-07-01&g=2017-07-01) had moeten worden gemaakt.
+2. Het eerste lid is niet van toepassing op veranderingen ten aanzien waarvan, indien zij vergunningplichtig zouden zijn geweest, bij de voorbereiding van de besluiten ter zake, een milieueffectrapport als bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&z=2021-04-01&g=2021-04-01) had moeten worden gemaakt.
 
 3. Een besluit inzake een verklaring als bedoeld in het eerste lid, onderdeel c, wordt zo spoedig mogelijk, doch uiterlijk zes weken na ontvangst van de melding, bekendgemaakt.
 
-4. Zo spoedig mogelijk, doch uiterlijk twee weken na de bekendmaking van de verklaring, bedoeld in het eerste lid, onderdeel c, geeft het bevoegd gezag openbaar kennis daarvan. Indien de verklaring betrekking heeft op een inrichting die behoort tot een krachtens [artikel 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01), aangewezen categorie, zendt het bevoegd gezag bovendien een afschrift van de melding en de verklaring aan de inspecteur.
+4. Zo spoedig mogelijk, doch uiterlijk twee weken na de bekendmaking van de verklaring, bedoeld in het eerste lid, onderdeel c, geeft het bevoegd gezag openbaar kennis daarvan. Indien de verklaring betrekking heeft op een inrichting die behoort tot een krachtens [artikel 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01), aangewezen categorie, zendt het bevoegd gezag bovendien een afschrift van de melding en de verklaring aan de inspecteur.
 
 5. Het bevoegd gezag geeft een ieder desgevraagd kosteloos inzage in de melding en de daarbij behorende stukken en verstrekt daarvan desgevraagd tegen betaling van de kosten een afschrift.
 
@@ -1163,11 +1163,11 @@ In een vergunning kan worden bepaald:
 
 ##### Artikel 5.27
 
-1. Indien met betrekking tot een inrichting waarvoor de bij of krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), gestelde verboden niet gelden, die verboden op enig tijdstip gaan gelden, kan die inrichting in afwijking van die bepaling zonder vergunning in werking worden gehouden tot twaalf weken na dat tijdstip en, indien binnen deze termijn een aanvraag om de krachtens die bepaling vereiste vergunning is ingediend, vervolgens tot acht weken na het tijdstip waarop de beschikking op die aanvraag in werking is getreden.
+1. Indien met betrekking tot een inrichting waarvoor de bij of krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), gestelde verboden niet gelden, die verboden op enig tijdstip gaan gelden, kan die inrichting in afwijking van die bepaling zonder vergunning in werking worden gehouden tot twaalf weken na dat tijdstip en, indien binnen deze termijn een aanvraag om de krachtens die bepaling vereiste vergunning is ingediend, vervolgens tot acht weken na het tijdstip waarop de beschikking op die aanvraag in werking is getreden.
 
 2. Indien zodanige verboden gaan gelden ten gevolge van een verandering van de inrichting of van de werking daarvan, is het eerste lid niet van toepassing, voor zover het die verandering betreft.
 
-3. Indien de bij of krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), gestelde verboden met betrekking tot de inrichting niet golden, blijven de voorschriften die krachtens een algemene maatregel van bestuur krachtens artikel 5.1, eerste lid, voor de inrichting golden onmiddellijk voor het gaan gelden van die verboden, voor de inrichting van toepassing gedurende de periode waarin de inrichting ingevolge het eerste lid zonder vergunning in werking mag worden gehouden, behoudens voor zover het veranderingen als bedoeld in het tweede lid betreft.
+3. Indien de bij of krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), gestelde verboden met betrekking tot de inrichting niet golden, blijven de voorschriften die krachtens een algemene maatregel van bestuur krachtens artikel 5.1, eerste lid, voor de inrichting golden onmiddellijk voor het gaan gelden van die verboden, voor de inrichting van toepassing gedurende de periode waarin de inrichting ingevolge het eerste lid zonder vergunning in werking mag worden gehouden, behoudens voor zover het veranderingen als bedoeld in het tweede lid betreft.
 
 ##### Artikel 5.28
 
@@ -1175,7 +1175,7 @@ In een vergunning kan worden bepaald:
 
 2. Het bevoegd gezag wijzigt de beperkingen waaronder de vergunning is verleend en de voorschriften die daaraan zijn verbonden, vult deze aan of trekt ze in, dan wel brengt alsnog beperkingen aan, of verbindt alsnog voorschriften aan de vergunning, voor zover blijkt dat de nadelige gevolgen die de inrichting voor het milieu veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu verder kunnen, of, gezien de ontwikkeling van de kwaliteit van het milieu, verder moeten worden beperkt.
 
-3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 5.29
 
@@ -1183,19 +1183,19 @@ In een vergunning kan worden bepaald:
 
 2. Een belanghebbende, met uitzondering van de vergunninghouder, kan het bevoegd gezag verzoeken een vergunning in het belang van de bescherming van het milieu met toepassing van het eerste lid te wijzigen.
 
-3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 5.30
 
 1. Op aanvraag van de vergunninghouder kan het bevoegd gezag beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden.
 
-2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 5.10 tot en met 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 5.31
 
-1. Het bevoegd gezag kan, onverminderd het in de [artikelen 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2017-07-01&g=2017-07-01) en [10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.7&z=2017-07-01&g=2017-07-01) bepaalde, een vergunning voor een inrichting geheel of gedeeltelijk intrekken:
+1. Het bevoegd gezag kan, onverminderd het in de [artikelen 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2021-04-01&g=2021-04-01) en [10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.7&z=2021-04-01&g=2021-04-01) bepaalde, een vergunning voor een inrichting geheel of gedeeltelijk intrekken:
 
-- a. indien de inrichting ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van [artikel 5.29](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.29&z=2017-07-01&g=2017-07-01) redelijkerwijs daarvoor geen oplossing biedt;
+- a. indien de inrichting ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van [artikel 5.29](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.29&z=2021-04-01&g=2021-04-01) redelijkerwijs daarvoor geen oplossing biedt;
 
 - b. indien dit in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is;
 
@@ -1203,31 +1203,31 @@ In een vergunning kan worden bepaald:
 
 - d. indien de inrichting geheel of gedeeltelijk is verwoest;
 
-- e. indien, in gevallen als aangegeven krachtens [artikel 5.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.26&z=2017-07-01&g=2017-07-01), de vergunninghouder niet meer degene is, die de inrichting drijft;
+- e. indien, in gevallen als aangegeven krachtens [artikel 5.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.26&z=2021-04-01&g=2021-04-01), de vergunninghouder niet meer degene is, die de inrichting drijft;
 
 2. Het bevoegd gezag trekt de vergunning in:
 
-- a. indien door toepassing van [artikel 5.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2017-07-01&g=2017-07-01), redelijkerwijs niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
+- a. indien door toepassing van [artikel 5.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.28&z=2021-04-01&g=2021-04-01), redelijkerwijs niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
 
 - b. voor zover regels vastgesteld bij algemene maatregel van bestuur ter uitvoering van een voor de openbare lichamen verbindend verdrag of een voor de openbare lichamen verbindend besluit van een volkenrechtelijke organisatie, hiertoe verplichten.
 
 3. Een belanghebbende, met uitzondering van de vergunninghouder, kan het bevoegd gezag verzoeken een vergunning met toepassing van het eerste lid in te trekken.
 
-4. Met betrekking tot een beslissing als bedoeld in het eerste lid zijn de [artikelen 5.10 tot en met 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+4. Met betrekking tot een beslissing als bedoeld in het eerste lid zijn de [artikelen 5.10 tot en met 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
 
-5. In een geval als aangegeven bij of krachtens [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.21&z=2017-07-01&g=2017-07-01) kan een voorschrift overeenkomstig de betrokken algemene maatregel van bestuur aan de beschikking tot intrekking worden verbonden. Artikel 5.21, vierde lid, is van overeenkomstige toepassing.
+5. In een geval als aangegeven bij of krachtens [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.21&z=2021-04-01&g=2021-04-01) kan een voorschrift overeenkomstig de betrokken algemene maatregel van bestuur aan de beschikking tot intrekking worden verbonden. Artikel 5.21, vierde lid, is van overeenkomstige toepassing.
 
 6. In de beschikking tot intrekking kan worden bepaald dat een voorschrift als bedoeld in het vijfde lid, dan wel daarbij aangewezen aan de vergunning verbonden voorschriften gedurende een daarbij aan te geven termijn blijven gelden.
 
-7. Het bevoegd gezag gaat tot intrekking van een vergunning op grond van het eerste lid, onderdeel c, d of e, of het tweede lid niet over zonder de vergunninghouder in de gelegenheid te hebben gesteld binnen een termijn van zes weken schriftelijk of mondeling zienswijzen over de intrekking naar voren te brengen. Van de beschikking wordt mededeling gedaan door toezending daarvan aan de adviseurs, bedoeld in [artikel 5.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2017-07-01&g=2017-07-01).
+7. Het bevoegd gezag gaat tot intrekking van een vergunning op grond van het eerste lid, onderdeel c, d of e, of het tweede lid niet over zonder de vergunninghouder in de gelegenheid te hebben gesteld binnen een termijn van zes weken schriftelijk of mondeling zienswijzen over de intrekking naar voren te brengen. Van de beschikking wordt mededeling gedaan door toezending daarvan aan de adviseurs, bedoeld in [artikel 5.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-04-01&g=2021-04-01).
 
 ##### Artikel 5.32
 
 1. Het bevoegd gezag kan de vergunning geheel of gedeeltelijk intrekken op verzoek van de vergunninghouder, indien het belang van de bescherming van het milieu zich daartegen niet verzet.
 
-2. Met betrekking tot de beslissing ter zake zijn de [artikelen 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2017-07-01&g=2017-07-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake zijn de [artikelen 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2021-04-01&g=2021-04-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
 
-3. [Artikel 5.31, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. [Artikel 5.31, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.3&artikel=5.31&z=2021-04-01&g=2021-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5.33
 
@@ -1247,7 +1247,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5.41
 
-De voordracht voor een krachtens [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 6. Bodem
 
@@ -1283,7 +1283,7 @@ De voordracht voor een krachtens [artikel 5.1](https://wetten.overheid.nl/jci1.3
 
 - d. een aanduiding van de mogelijke belangrijke nadelige gevolgen voor het milieu.
 
-7. Ingeval ter zake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan, wordt ter voorbereiding van dat besluit en dat plan één milieueffectrapport gemaakt. Het milieueffectrapport wordt voorbereid met toepassing van [paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&z=2017-07-01&g=2017-07-01).
+7. Ingeval ter zake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan, wordt ter voorbereiding van dat besluit en dat plan één milieueffectrapport gemaakt. Het milieueffectrapport wordt voorbereid met toepassing van [paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&z=2021-04-01&g=2021-04-01).
 
 8. Uiterlijk twee weken na het nemen van het besluit, bedoeld in het vijfde lid, onderdeel b, doet het bevoegd gezag gelijktijdig mededeling van dat besluit door kennisgeving in een of meer plaatselijke dagbladen, in de Staatscourant en op de voor publicatie van officiële mededelingen gebruikelijke wijze, en wordt een exemplaar van dat besluit ter inzage gelegd, ten aanzien waarvan in de kennisgeving de plaats, het tijdstip en de uren worden vermeld.
 
@@ -1321,7 +1321,7 @@ De voordracht voor een krachtens [artikel 5.1](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 7.4
 
-1. Degene die een aangewezen activiteit als bedoeld in [artikel 7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2017-07-01&g=2017-07-01), wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, tweede lid, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.
+1. Degene die een aangewezen activiteit als bedoeld in [artikel 7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-04-01&g=2021-04-01), wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, tweede lid, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.
 
 2. Op verzoek van de aanvrager kan het bevoegd gezag advies uitbrengen inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.
 
@@ -1331,7 +1331,7 @@ De voordracht voor een krachtens [artikel 5.1](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 7.5
 
-1. Degene die een aangewezen activiteit als bedoeld in [artikel 7.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2017-07-01&g=2017-07-01), wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, derde lid, deelt dat schriftelijk mee aan het bevoegd gezag.
+1. Degene die een aangewezen activiteit als bedoeld in [artikel 7.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-04-01&g=2021-04-01), wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, derde lid, deelt dat schriftelijk mee aan het bevoegd gezag.
 
 2. Het bevoegd gezag neemt uiterlijk acht weken na de datum van ontvangst een beslissing omtrent de vraag of bij de voorbereiding van het besluit, vanwege de belangrijke nadelige gevolgen die de voorgenomen activiteit voor het milieu kan hebben, een milieueffectrapport moet worden gemaakt.
 
@@ -1359,7 +1359,7 @@ Het bevoegd gezag laat een verzoek tot het nemen van een besluit waarvoor een mi
 
 - a. bij het indienen van de aanvraag geen milieueffectrapport is overlegd;
 
-- b. het overgelegde milieueffectrapport niet voldoet aan [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2017-07-01&g=2017-07-01), dan wel onjuistheden bevat.
+- b. het overgelegde milieueffectrapport niet voldoet aan [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2021-04-01&g=2021-04-01), dan wel onjuistheden bevat.
 
 ##### Artikel 7.8
 
@@ -1369,15 +1369,15 @@ In het besluit wordt in ieder geval vermeld:
 
 - b. hetgeen is overwogen omtrent de in het milieueffectrapport beschreven alternatieven;
 
-- c. hetgeen is overwogen omtrent de overeenkomstig [artikel 7.6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2017-07-01&g=2017-07-01), naar voren gebrachte zienswijzen;
+- c. hetgeen is overwogen omtrent de overeenkomstig [artikel 7.6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2021-04-01&g=2021-04-01), naar voren gebrachte zienswijzen;
 
-- d. indien er een advies, als bedoeld in [artikel 7.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2017-07-01&g=2017-07-01), is uitgebracht, hetgeen is overwogen omtrent dit advies.
+- d. indien er een advies, als bedoeld in [artikel 7.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2021-04-01&g=2021-04-01), is uitgebracht, hetgeen is overwogen omtrent dit advies.
 
 #### Paragraaf 7.3. De milieueffectrapportage die betrekking heeft op een plan
 
 ##### Artikel 7.9
 
-1. Het milieueffectrapport dat betrekking heeft op een plan als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2017-07-01&g=2017-07-01), wordt opgesteld door het bevoegd gezag en bevat ten minste:
+1. Het milieueffectrapport dat betrekking heeft op een plan als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-04-01&g=2021-04-01), wordt opgesteld door het bevoegd gezag en bevat ten minste:
 
 - a. een beschrijving van hetgeen met de voorgenomen activiteit wordt beoogd;
 
@@ -1401,7 +1401,7 @@ In het besluit wordt in ieder geval vermeld:
 
 ##### Artikel 7.10
 
-Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het plan berust bij de voorbereiding van het plan worden betrokken over de reikwijdte en het detailniveau van de informatie die gericht is op wat relevant is voor het plan en die op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.9&z=2017-07-01&g=2017-07-01) in het milieueffectrapport moet worden opgenomen.
+Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het plan berust bij de voorbereiding van het plan worden betrokken over de reikwijdte en het detailniveau van de informatie die gericht is op wat relevant is voor het plan en die op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.9&z=2021-04-01&g=2021-04-01) in het milieueffectrapport moet worden opgenomen.
 
 ##### Artikel 7.11
 
@@ -1419,7 +1419,7 @@ Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de 
 
 ##### Artikel 7.12
 
-Het bevoegd gezag stelt een plan als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2017-07-01&g=2017-07-01), niet vast:
+Het bevoegd gezag stelt een plan als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-04-01&g=2021-04-01), niet vast:
 
 - a. dan nadat een milieueffectrapport is gemaakt;
 
@@ -1433,9 +1433,9 @@ Bij de vaststelling van het plan wordt in ieder geval vermeld:
 
 - b. hetgeen is overwogen omtrent de in het milieueffectrapport beschreven alternatieven;
 
-- c. hetgeen is overwogen omtrent de overeenkomstig [artikel 7.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.11&z=2017-07-01&g=2017-07-01), naar voren gebrachte zienswijzen;
+- c. hetgeen is overwogen omtrent de overeenkomstig [artikel 7.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.11&z=2021-04-01&g=2021-04-01), naar voren gebrachte zienswijzen;
 
-- d. indien er een advies als bedoeld in [artikel 7.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.11&z=2017-07-01&g=2017-07-01), is uitgebracht, hetgeen overwogen is omtrent dit advies.
+- d. indien er een advies als bedoeld in [artikel 7.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=7&paragraaf=7.3&artikel=7.11&z=2021-04-01&g=2021-04-01), is uitgebracht, hetgeen overwogen is omtrent dit advies.
 
 ### Hoofdstuk 8. Maatregelen in bijzondere omstandigheden
 
@@ -1449,9 +1449,9 @@ Bij de vaststelling van het plan wordt in ieder geval vermeld:
 
 ##### Artikel 8.2
 
-1. Degene die een inrichting drijft, waarin zich een ongewoon voorval voordoet of heeft voorgedaan, meldt dit voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is tot het verlenen van de vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01), indien het een inrichting betreft die bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is aangewezen, dan wel, in andere gevallen, aan het bestuurscollege.
+1. Degene die een inrichting drijft, waarin zich een ongewoon voorval voordoet of heeft voorgedaan, meldt dit voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is tot het verlenen van de vergunning krachtens [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01), indien het een inrichting betreft die bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is aangewezen, dan wel, in andere gevallen, aan het bestuurscollege.
 
-2. Het bevoegd gezag kan in een vergunning voor een inrichting of bij een maatwerkvoorschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-07-01&g=2017-07-01) voor een ongewoon voorval, waarvan de nadelige gevolgen voor het milieu niet significant zijn:
+2. Het bevoegd gezag kan in een vergunning voor een inrichting of bij een maatwerkvoorschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2021-04-01&g=2021-04-01) voor een ongewoon voorval, waarvan de nadelige gevolgen voor het milieu niet significant zijn:
 
 - a. bepalen dat in afwijking van het eerste lid het voorval wordt geregistreerd;
 
@@ -1609,11 +1609,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. te slopen,
 
-voor zover daarbij niet wordt voldaan aan de op de desbetreffende activiteit van toepassing zijnde voorschriften, bedoeld in de [artikelen 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2017-07-01&g=2017-07-01), en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2017-07-01&g=2017-07-01).
+voor zover daarbij niet wordt voldaan aan de op de desbetreffende activiteit van toepassing zijnde voorschriften, bedoeld in de [artikelen 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2021-04-01&g=2021-04-01), en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2021-04-01&g=2021-04-01).
 
-2. Het is verboden een bouwwerk dan wel een deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in de [artikelen 2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2017-07-01&g=2017-07-01), en [2.4, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2017-07-01&g=2017-07-01).
+2. Het is verboden een bouwwerk dan wel een deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in de [artikelen 2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2021-04-01&g=2021-04-01), en [2.4, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2021-04-01&g=2021-04-01).
 
-3. De verboden, bedoeld in het eerste en tweede lid, hebben mede betrekking op het niet voldoen aan de voorschriften, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2017-07-01&g=2017-07-01), voor zover deze voorschriften ingevolge artikel 2.4, derde lid, rechtstreeks gelden.
+3. De verboden, bedoeld in het eerste en tweede lid, hebben mede betrekking op het niet voldoen aan de voorschriften, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2021-04-01&g=2021-04-01), voor zover deze voorschriften ingevolge artikel 2.4, derde lid, rechtstreeks gelden.
 
 4. De verboden, bedoeld in het eerste en tweede lid, zijn niet van toepassing voor zover een bouwvergunning afwijking van de desbetreffende voorschriften met betrekking tot bouwen uitdrukkelijk toestaat.
 
@@ -1643,23 +1643,23 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 ##### Artikel 2.9
 
-1. Het bestuurscollege houdt de beslissing omtrent de aanvraag om een bouwvergunning aan, indien er geen grond is om de vergunning te weigeren en het bouwen tevens aan te merken is als het oprichten of veranderen van een inrichting waarvoor een vergunning op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01) is vereist, tenzij die vergunning verleend is en deze beslissing onherroepelijk is geworden.
+1. Het bestuurscollege houdt de beslissing omtrent de aanvraag om een bouwvergunning aan, indien er geen grond is om de vergunning te weigeren en het bouwen tevens aan te merken is als het oprichten of veranderen van een inrichting waarvoor een vergunning op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01) is vereist, tenzij die vergunning verleend is en deze beslissing onherroepelijk is geworden.
 
-2. Nadat de vergunning op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-07-01&g=2017-07-01) onherroepelijk is geworden, verleent het bestuurscollege de bouwvergunning binnen vier weken na dat tijdstip.
+2. Nadat de vergunning op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2021-04-01&g=2021-04-01) onherroepelijk is geworden, verleent het bestuurscollege de bouwvergunning binnen vier weken na dat tijdstip.
 
 ##### Artikel 2.10
 
 De bouwvergunning wordt geweigerd, indien:
 
-- a. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van het bestuurscollege niet aannemelijk maken dat het bouwen waarop de aanvraag betrekking heeft, voldoet aan de voorschriften die zijn gegeven bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2017-07-01&g=2017-07-01);
+- a. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van het bestuurscollege niet aannemelijk maken dat het bouwen waarop de aanvraag betrekking heeft, voldoet aan de voorschriften die zijn gegeven bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2021-04-01&g=2021-04-01);
 
 - b. het bouwen in strijd is met een ontwikkelingsplan als bedoeld in [artikel 7 van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&artikel=7);
 
 - c. voor het bouwen een vergunning ingevolge de [Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429) is vereist en deze niet is verleend;
 
-- d. het bouwen in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2017-07-01&g=2017-07-01), of
+- d. het bouwen in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.5&z=2021-04-01&g=2021-04-01), of
 
-- e. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van het bestuurscollege niet aannemelijk maken dat het bouwen voldoet aan de voorschriften die zijn gegeven bij de bouwverordening of, zolang de bouwverordening nog niet in overeenstemming is gebracht met de voorschriften die zijn gegeven bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2017-07-01&g=2017-07-01), aan laatstbedoelde voorschriften.
+- e. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van het bestuurscollege niet aannemelijk maken dat het bouwen voldoet aan de voorschriften die zijn gegeven bij de bouwverordening of, zolang de bouwverordening nog niet in overeenstemming is gebracht met de voorschriften die zijn gegeven bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.4&z=2021-04-01&g=2021-04-01), aan laatstbedoelde voorschriften.
 
 ##### Artikel 2.11
 
@@ -1669,7 +1669,7 @@ De bouwvergunning wordt geweigerd, indien:
 
 ##### Artikel 2.12
 
-Onverminderd [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.7&z=2017-07-01&g=2017-07-01) kan het bestuurscollege de bouwvergunning geheel of gedeeltelijk intrekken:
+Onverminderd [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=10&afdeling=10.1&artikel=10.7&z=2021-04-01&g=2021-04-01) kan het bestuurscollege de bouwvergunning geheel of gedeeltelijk intrekken:
 
 - a. indien blijkt dat het bestuurscollege de vergunning op basis van een onjuiste of onvolledige opgave heeft verleend;
 
@@ -1683,7 +1683,7 @@ Onverminderd [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoof
 
 ##### Artikel 2.13
 
-De voordracht voor een krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2017-07-01&g=2017-07-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2&artikel=2.3&z=2021-04-01&g=2021-04-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 3. Huisvesting
 
@@ -1736,6 +1736,28 @@ De voordracht voor een krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3
 #### Paragraaf 11.4. Wijziging van de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028218)
 
 #### Paragraaf 11.5. Wijziging [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228)
+
+#### Paragraaf 11.5. Wijziging [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228)
+
+#### Paragraaf 11.7. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10.5a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Afdeling 10.2. Strafbepalingen
+
+### Hoofdstuk 11. Overige bepalingen
+
+#### Paragraaf 11.1. Algemene bepalingen omtrent beschikkingen
+
+#### Paragraaf 11.2. Geheimhouding
+
+#### Paragraaf 11.3. Wijziging [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449)
+
+#### Paragraaf 11.4. Wijziging van de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028218)
 
 #### Paragraaf 11.6. Wijziging [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151)
 
