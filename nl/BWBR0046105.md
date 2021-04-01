@@ -4,7 +4,7 @@ identifier: "BWBR0046105"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046105"
 soort: "wet"
@@ -159,8 +159,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXII
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIIa
 
