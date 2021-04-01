@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2021-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -2903,7 +2903,7 @@ De beleidsregels zijn een nadere invulling of een uitwerking van de [artikelen 3
 
 ### 2. Oud-Nederlanders
 
-### 2.1. In Nederland geboren en getogen oud-Nederlanders
+### 2.1. Als Nederlander in Nederland geboren en getogen oud-Nederlanders
 
 De IND verleent de verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling voldoet aan de voorwaarden genoemd in [artikel 3.51, eerste lid, aanhef en onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51).
 
