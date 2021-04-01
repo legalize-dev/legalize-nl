@@ -4,7 +4,7 @@ identifier: "BWBR0045008"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-08"
-last_updated: "2020-01-02"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045008"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ Van het ingevolge [artikel 1, aanhef en onder f, van het Mandaatbesluit hoofden 
 
 ##### Artikel 2
 
-Als werkgever als bedoeld in de CAO Rijk, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=1&z=2021-04-01&g=2020-01-02) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als werkgever als bedoeld in de CAO Rijk, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=1&z=2021-04-01&g=2021-04-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=2&z=2021-04-01&g=2020-01-02) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=2&z=2021-04-01&g=2021-04-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -82,7 +82,7 @@ Aan de algemeen directeur van de Dienst JUSTIS blijft voorbehouden de bevoegdhei
 
 ##### Artikel 5
 
-Als bevoegd, in verband met de uitvoering van de Garantstellingsregeling Curatoren 2012, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=3&z=2021-04-01&g=2020-01-02) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage, tot:
+Als bevoegd, in verband met de uitvoering van de Garantstellingsregeling Curatoren 2012, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=3&z=2021-04-01&g=2021-04-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage, tot:
 
 - 1. het aangaan van een overeenkomst tot het garantstellen in een faillissement;
 
@@ -92,11 +92,11 @@ Als bevoegd, in verband met de uitvoering van de Garantstellingsregeling Curator
 
 ##### Artikel 6
 
-1. De algemeen directeur van de Dienst JUSTIS wordt bij afwezigheid vervangen door de plaatsvervangend directeur genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2020-01-02).
+1. De algemeen directeur van de Dienst JUSTIS wordt bij afwezigheid vervangen door de plaatsvervangend directeur genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2021-04-01).
 
-2. De afdelingsmanagers genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2020-01-02), kunnen elkaar bij afwezigheid wederzijds vervangen.
+2. De afdelingsmanagers genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2021-04-01), kunnen elkaar bij afwezigheid wederzijds vervangen.
 
-3. De afdelingsmanagers genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2020-01-02), kunnen elkaar bij afwezigheid wederzijds vervangen.
+3. De afdelingsmanagers genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&artikel=1&z=2021-04-01&g=2021-04-01), kunnen elkaar bij afwezigheid wederzijds vervangen.
 
 ##### Artikel 7
 
@@ -122,4 +122,4 @@ Ligt ter inzage bij de Dienst JUSTIS.
 
 Ligt ter inzage bij de Dienst JUSTIS.
 
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst. [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=1&z=2021-04-01&g=2020-01-02), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=2&z=2021-04-01&g=2020-01-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=3&z=2021-04-01&g=2020-01-02) bij dit besluit liggen bij de Dienst JUSTIS ter inzage.
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst. [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=1&z=2021-04-01&g=2021-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=2&z=2021-04-01&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045008&bijlage=3&z=2021-04-01&g=2021-04-01) bij dit besluit liggen bij de Dienst JUSTIS ter inzage.
