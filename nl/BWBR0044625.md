@@ -4,7 +4,7 @@ identifier: "BWBR0044625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044625"
 soort: "ministeriele-regeling"
@@ -50,6 +50,6 @@ Besluiten die voor het tijdstip van inwerkingtreding van deze regeling zijn geno
 
 ##### Artikel III
 
-Deze regeling treedt in werking met ingang van 1 januari 2021, met uitzondering van [artikel I, onderdelen I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0044625&artikel=I&z=2021-01-01&g=2021-01-01), die in werking treden met ingang van 1 april 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021, met uitzondering van [artikel I, onderdelen I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0044625&artikel=I&z=2021-04-01&g=2021-04-01), die in werking treden met ingang van 1 april 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
