@@ -4,7 +4,7 @@ identifier: "BWBR0043922"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-02-09"
+last_updated: "2021-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043922"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-1. In deze regeling wordt in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2021-02-09&g=2021-02-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2021-02-09&g=2021-02-09) verstaan onder:
+1. In deze regeling wordt in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2021-07-17&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2021-07-17&g=2021-04-01) verstaan onder:
 
 - a. **bankrekening:** het bij de Minister bekende bankrekeningnummer waarop de student studiefinanciering op grond van de [Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) ontvangt;
 
@@ -58,7 +58,7 @@ Besluit:
 
 - d. **Wsf 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In deze regeling wordt in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2021-02-09&g=2021-02-09) verstaan onder:
+2. In deze regeling wordt in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2021-07-17&g=2021-04-01) verstaan onder:
 
 - a. **bankrekening:** het bij de Minister bekende bankrekeningnummer waarop de student studiefinanciering op grond van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) ontvangt;
 
@@ -84,7 +84,7 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 ##### Artikel 3. Omvang tegemoetkoming
 
-1. Een student die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-02-09&g=2021-02-09) in aanmerking komt voor een tegemoetkoming ontvangt eenmalig een bedrag van:
+1. Een student die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-07-17&g=2021-04-01) in aanmerking komt voor een tegemoetkoming ontvangt eenmalig een bedrag van:
 
 - a. € 300,– indien het een student betreft die met goed gevolg een opleiding in de beroepsopleidende leerweg als bedoeld in [artikel 7.2.7, derde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) heeft afgesloten;
 
@@ -92,11 +92,11 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 - c. € 535,– indien het een student betreft die met goed gevolg een opleiding in het hoger onderwijs heeft afgesloten.
 
-2. Indien een student in de periode, genoemd in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-02-09&g=2021-02-09), meerdere diploma’s als bedoeld in het eerste lid behaalt, wordt uitsluitend het hoogste bedrag toegekend.
+2. Indien een student in de periode, genoemd in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-07-17&g=2021-04-01), meerdere diploma’s als bedoeld in het eerste lid behaalt, wordt uitsluitend het hoogste bedrag toegekend.
 
 ##### Artikel 4. Toekenning en uitbetaling
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2021-02-09&g=2021-02-09), ambtshalve toegekend en uitbetaald.
+1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2021-07-17&g=2021-04-01), ambtshalve toegekend en uitbetaald.
 
 2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening, of indien geen studiefinanciering is toegekend de bankrekening die is gebruikt voor de betaling van het lesgeld.
 
@@ -106,11 +106,11 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 ##### Artikel 5. Aanvraag nadat geen tegemoetkoming is ontvangen
 
-1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-02-09&g=2021-02-09), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
+1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-07-17&g=2021-04-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
 
 2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze.
 
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-02-09&g=2021-02-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2021-02-09&g=2021-02-09).
+3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2021-07-17&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2021-07-17&g=2021-04-01).
 
 4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
 
@@ -132,17 +132,17 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 ##### Artikel 7. Omvang tegemoetkoming
 
-1. Een student die op grond van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 800,–.
+1. Een student die op grond van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 800,–.
 
-2. Een student die op grond van [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 2.000,–.
+2. Een student die op grond van [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 2.000,–.
 
-3. Een student die op grond van [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.200,–.
+3. Een student die op grond van [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.200,–.
 
-4. Een student die op grond van [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.500,–.
+4. Een student die op grond van [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.500,–.
 
 ##### Artikel 8. Toekenning en uitbetaling
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), ambtshalve toegekend en uitbetaald.
+1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), ambtshalve toegekend en uitbetaald.
 
 2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening. Indien bij de Minister geen bankrekening van de student bekend is, wordt de student verzocht de bankrekening te verstrekken op een door de Minister te bepalen wijze en binnen een door de Minister te bepalen redelijke termijn, waarna kan worden uitbetaald.
 
@@ -150,11 +150,11 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 ##### Artikel 9. Aanvraag nadat geen tegemoetkoming is ontvangen
 
-1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
+1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
 
 2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze.
 
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-02-09&g=2021-02-09).
+3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2021-07-17&g=2021-04-01).
 
 4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
 
@@ -168,31 +168,31 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 - b. voor wie in de periode juni 2020 tot en met augustus 2021 de aanspraak op prestatiebeurs BES eindigt.
 
-2. Deze paragraaf is niet van toepassing op een student die aanspraak maakt op een tegemoetkoming op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2021-02-09&g=2021-02-09) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2021-02-09&g=2021-02-09).
+2. Deze paragraaf is niet van toepassing op een student die aanspraak maakt op een tegemoetkoming op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2021-07-17&g=2021-04-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2021-07-17&g=2021-04-01).
 
 ##### Artikel 11. Omvang tegemoetkoming BES
 
-1. Een student die op grond van [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming, ontvangt:
+1. Een student die op grond van [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming, ontvangt:
 
 - a. USD 333 voor een beroepsopleiding; of
 
 - b. USD 594 voor een opleiding hoger onderwijs.
 
-2. Een student die op grond van [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09), in aanmerking komt voor een tegemoetkoming, ontvangt een bedrag ter hoogte van drie maal het maandelijkse bedrag aan prestatiebeurs als genoemd in [artikel 2.2, eerste lid, kolom III, van de Wsf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2) voor de opleiding en plaats van de opleiding waar hij tot een van de in artikel 10, onder b, genoemde maanden prestatiebeurs voor ontving, afgerond op hele USD.
+2. Een student die op grond van [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01), in aanmerking komt voor een tegemoetkoming, ontvangt een bedrag ter hoogte van drie maal het maandelijkse bedrag aan prestatiebeurs als genoemd in [artikel 2.2, eerste lid, kolom III, van de Wsf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2) voor de opleiding en plaats van de opleiding waar hij tot een van de in artikel 10, onder b, genoemde maanden prestatiebeurs voor ontving, afgerond op hele USD.
 
 ##### Artikel 12. Toekenning en uitbetaling tegemoetkoming lesgeld of collegegeld
 
-1. Een student die voldoet aan de criteria genoemd in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
+1. Een student die voldoet aan de criteria genoemd in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
 
 2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze en uitbetaald door bijschrijving op een bij de aanvraag aangeleverde bankrekening.
 
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09).
+3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01).
 
 4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
 
 ##### Artikel 13. Toekenning en uitbetaling tegemoetkoming prestatiebeurs
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09), ambtshalve toegekend en uitbetaald.
+1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01), ambtshalve toegekend en uitbetaald.
 
 2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening.
 
@@ -202,11 +202,11 @@ De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf w
 
 ##### Artikel 14. Aanvraag nadat geen tegemoetkoming prestatiebeurs is ontvangen
 
-1. Een student die geen tegemoetkoming als bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-02-09&g=2021-02-09), heeft ontvangen maar wel voldoet aan de criteria genoemd in dat artikel, kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
+1. Een student die geen tegemoetkoming als bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2021-07-17&g=2021-04-01), heeft ontvangen maar wel voldoet aan de criteria genoemd in dat artikel, kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
 
-2. [Artikel 12, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=12&z=2021-02-09&g=2021-02-09), is van overeenkomstige toepassing.
+2. [Artikel 12, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=12&z=2021-07-17&g=2021-04-01), is van overeenkomstige toepassing.
 
-#### Paragraaf 5. Slotbepalingen
+#### Paragraaf 4a. Extra reisvoorziening
 
 ##### Artikel 15. Inwerkingtreding
 
@@ -215,5 +215,29 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling tegemoetkoming studenten in verband met de uitbraak van COVID-19.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 14a. Extra reisvoorziening
+
+1. Een ho-student die in de periode maart tot en met december 2020 voor de duur van minimaal 1 kalendermaand aanspraak had op een reisvoorziening en voor wie in die periode voor een of meerdere maanden een vorm van reguliere studiefinanciering als bedoeld in [hoofdstuk 3 van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3) is toegekend, komt in aanmerking voor een extra reisvoorziening, bestaande uit een verlenging van de duur van de aanspraak op een reisvoorziening, als bedoeld in [artikel 5.2 van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), met de duur van 12 kalendermaanden.
+
+2. De verlengde aanspraak op reisvoorziening wordt toegekend aansluitend aan de laatste maand van de reguliere aanspraak op reisvoorziening.
+
+##### Artikel 14b. Wijze van toekenning
+
+1. De extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2021-07-17&g=2021-04-01), wordt ambtshalve toegekend.
+
+2. In afwijking van het eerste lid, vindt toekenning van de extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2021-07-17&g=2021-04-01), plaats op aanvraag in het geval waarin de reguliere reisvoorziening vóór 1 april 2021 was geëindigd.
+
+##### Artikel 14c. Terugwerkende kracht
+
+De extra reisvoorziening wordt uitsluitend met terugwerkende kracht toegekend voor de maand of maanden waarover een student voor wie de aanspraak op de reguliere reisvoorziening reeds was geëindigd een bedrag als bedoeld in [artikel 3.27, tweede lid, van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27) aan de Minister is verschuldigd.
+
+##### Artikel 14d. Vorm
+
+De extra reisvoorziening wordt toegekend in de vorm van een prestatiebeurs.
+
+#### Paragraaf 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
