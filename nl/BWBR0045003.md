@@ -295,9 +295,3 @@ Een vaststellings- of vakcommissie stelt items (mbo en Nt2),examens (vo en Nt2) 
 Met het instellen van het College voor examens in 2009 ([Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), Stb.2009, 93), zijn de hoofdtaken van de Centrale examencommissie vaststelling opgaven, staatsexamencommissies VO en Nt2 in opgedragen aan het college. De staatsexamencommissies voor zowel de staatsexamens Nt2 als voor het vo als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364) zijn toen opgehouden te bestaan. Een deel van de structuur is evenwel behouden. De vaststellingscommissies ingesteld voor het staatsexamen vo, onderscheidenlijk het staatsexamen Nt2, zijn nu verantwoordelijk voor het vaststellen van de opgaven, items en college-examens van de staatsexamens. Zij doen hetzelfde als de (andere) vaststellingscommissie en hebben tevens het mandaat om onder meer te beslissen tot het nemen van maatregelen naar aanleiding van onregelmatigheden. Tevens beoordelen de commissies het werk, stellen zij het resultaat vast en beslissen zij op verzoeken om een afwijkende wijze van examinering.
 
 Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
-
-### Organisatie van vaststellings- en vakcommissies
-
-Een belangrijk deel van de bevoegdheden van het College wordt in mandaat uitgevoerd door de medewerkers van het bureau en de commissies waarin medewerkers van het bureau, naast docenten en andere deskundigen, zitting hebben.
-
-Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
