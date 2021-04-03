@@ -4,7 +4,7 @@ identifier: "BWBR0045020"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2020-08-01"
+last_updated: "2021-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045020"
 soort: "AMvB-BES"
@@ -66,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **deelcertificaat:** een certificaat voor een vak;
 
-- **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2021-04-03&g=2020-08-01);
+- **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2021-04-03&g=2021-04-03);
 
 - **ERK-niveaus:** niveaus, overeenkomstig het Europees Referentiekader voor moderne vreemde talen, van beheersing van de Nederlandse taal, waarmee de beheersing van de Nederlandse taal door de leerlingen aan het einde van een onderwijssoort kan worden vergeleken, zoals opgenomen in de bijlage bij dit besluit;
 
@@ -144,25 +144,25 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 ##### Artikel 8. Onderwijsprogramma in de eerste drie leerjaren
 
-In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderwijsprogramma ingericht, dat is gebaseerd op CCSLC onderwijs, het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), omvat, en dat, met behoud van keuzevrijheid, de doorstroming van de leerlingen naar CSEC onderwijs of CVQ onderwijs bevordert.
+In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderwijsprogramma ingericht, dat is gebaseerd op CCSLC onderwijs, het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), omvat, en dat, met behoud van keuzevrijheid, de doorstroming van de leerlingen naar CSEC onderwijs of CVQ onderwijs bevordert.
 
 ##### Artikel 9. Onderwijs CSEC
 
-1. CSEC onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2020-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs.
+1. CSEC onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2021-04-03), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs.
 
-2. Het onderwijs omvat het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), en ten minste vijf CSEC vakken, waaronder in ieder geval:
+2. Het onderwijs omvat het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), en ten minste vijf CSEC vakken, waaronder in ieder geval:
 
 - a. English language and literature; en
 
 - b. Mathematics.
 
-3. Het onderwijs omvat, samen met het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2020-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
+3. Het onderwijs omvat, samen met het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2021-04-03), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
 ##### Artikel 10. Onderwijs CVQ
 
-1. CVQ onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2020-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs of op het uitoefenen van een beroep, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn.
+1. CVQ onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2021-04-03), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs of op het uitoefenen van een beroep, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn.
 
-2. Het onderwijs omvat, samen met onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2020-08-01), en het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
+2. Het onderwijs omvat, samen met onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-04-03&g=2021-04-03), en het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
 ##### Artikel 11. Buitenschools praktijkgedeelte CVQ
 
@@ -174,7 +174,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 ##### Artikel 12. Onderwijs CAPE
 
-1. CAPE onderwijs is het onderwijs, volgend op het CSEC onderwijs, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=9&z=2021-04-03&g=2020-08-01), dat is ingericht ter voorbereiding op wetenschappelijk onderwijs.
+1. CAPE onderwijs is het onderwijs, volgend op het CSEC onderwijs, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=9&z=2021-04-03&g=2021-04-03), dat is ingericht ter voorbereiding op wetenschappelijk onderwijs.
 
 2. Het onderwijs omvat ten minste zes CAPE vakken, waaronder in ieder geval:
 
@@ -294,13 +294,13 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 1. De directeur reikt een schooldiploma uit aan de leerling die:
 
-- a. zes vakken voor CAPE met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), een cijfer 6,0 of hoger heeft behaald;
+- a. zes vakken voor CAPE met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), een cijfer 6,0 of hoger heeft behaald;
 
-- b. zes vakken voor CSEC met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), een cijfer 6,0 of hoger heeft behaald;
+- b. zes vakken voor CSEC met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), een cijfer 6,0 of hoger heeft behaald;
 
-- c. vijf vakken voor CSEC heeft afgelegd met een andere combinatie van grades, dan genoemd in onderdeel b, en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), een cijfer 6,0 of hoger heeft behaald; of
+- c. vijf vakken voor CSEC heeft afgelegd met een andere combinatie van grades, dan genoemd in onderdeel b, en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), een cijfer 6,0 of hoger heeft behaald; of
 
-- d. het certificaat CVQ 2 heeft verkregen en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), een cijfer 6,0 of hoger heeft behaald.
+- d. het certificaat CVQ 2 heeft verkregen en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), een cijfer 6,0 of hoger heeft behaald.
 
 2. Bij ministeriële regeling worden de modellen voor de schooldiploma’s vastgesteld.
 
@@ -308,11 +308,11 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1) worden aangewezen:
 
-- a. het certificaat CSEC, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=20&z=2021-04-03&g=2020-08-01);
+- a. het certificaat CSEC, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=20&z=2021-04-03&g=2021-04-03);
 
-- b. een certificaat CVQ, bedoeld in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=21&z=2021-04-03&g=2020-08-01), op niveau 2; en
+- b. een certificaat CVQ, bedoeld in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=21&z=2021-04-03&g=2021-04-03), op niveau 2; en
 
-- c. het diploma CAPE, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=22&z=2021-04-03&g=2020-08-01).
+- c. het diploma CAPE, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=22&z=2021-04-03&g=2021-04-03).
 
 ### Hoofdstuk 5. Bekostiging
 
@@ -360,7 +360,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 2. Het overige personeel heeft tot taak het onderwijs te ondersteunen of de directeur bij te staan.
 
-3. [Artikel 27, tweede lid, onderdelen a en b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=6&artikel=27&z=2021-04-03&g=2020-08-01), zijn op de directeur en het overige personeel van overeenkomstige toepassing.
+3. [Artikel 27, tweede lid, onderdelen a en b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=6&artikel=27&z=2021-04-03&g=2021-04-03), zijn op de directeur en het overige personeel van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -370,16 +370,16 @@ Het [Tijdelijk besluit Saba Comprehensive School en Gwendoline van Puttenschool 
 
 ##### Artikel 30. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), terug tot en met 1 augustus 2020.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), terug tot en met 1 augustus 2020.
 
-2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01), treedt in werking met ingang van 1 augustus 2021.
+2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03), treedt in werking met ingang van 1 augustus 2021.
 
 ##### Artikel 31. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES.
 
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2021-04-03&g=2020-08-01)
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2021-04-03&g=2021-04-03)
 
-### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01)
+### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2021-04-03)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
