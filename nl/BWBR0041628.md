@@ -4,7 +4,7 @@ identifier: "BWBR0041628"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-03"
-last_updated: "2019-04-02"
+last_updated: "2021-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041628"
 soort: "ministeriele-regeling"
@@ -93,6 +93,8 @@ Besluit:
 - –. Nederlands Olympisch Comité – Nederlandse Sport Federatie (NOC/NSF);
 
 - –. Stichting Dental Health International Nederland (DHIN);
+
+- –. Stichting Jeugd met een Opdracht;
 
 - –. Stichting Kinderhulp Mondiaal (Kimon);
 
