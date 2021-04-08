@@ -4,7 +4,7 @@ identifier: "BWBR0013726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013726"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van de Commissie van advies inzake volkenrechtelijke vraagstukken ontvangt een vergoeding van € 310 per vergadering. De voorzitter van de Staatscommissie voor het internationaal privaatrecht ontvangt een vaste vergoeding per jaar, overeenkomend met een bedrag dat gelijk is aan tweemaal het maximum maandsalaris behorend bij schaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijkambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+Aan de voorzitter van de Commissie van advies inzake volkenrechtelijke vraagstukken wordt een vaste vergoeding per maand toegekend ter hoogte van 130% van salarisschaal 18, trede 10, van [bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311&bijlage=I-B) met een arbeidsduurfactor van 0,0959. Aan de voorzitter van de Staatscommissie voor het internationaal privaatrecht wordt een vaste vergoeding per jaar toegekend, overeenkomend met een bedrag dat gelijk is aan tweemaal het maximum maandsalaris behorend bij schaal 18, trede 10, van bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020.
 
 ##### Artikel 2
 
-De leden van de Commissie van advies inzake volkenrechtelijke vraagstukken en de leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 235 per vergadering.
+Aan de leden van de Commissie van advies inzake volkenrechtelijke vraagstukken wordt een vaste vergoeding per maand toegekend ter hoogte van 100% van salarisschaal 18, trede 10, van [bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311&bijlage=I-B) met een arbeidsduurfactor van 0,0848. De leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 235 per vergadering.
 
 ##### Artikel 3
 
@@ -59,6 +59,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Na het verstrijken van de geldigheidsduur van de [Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311) wordt de vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=1&z=2021-04-08&g=2021-01-01) en [artikel 2, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=2&z=2021-04-08&g=2021-01-01), voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
+Na het verstrijken van de geldigheidsduur van de [Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311) wordt de vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=1&z=2021-04-08&g=2021-04-08) en [artikel 2, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=2&z=2021-04-08&g=2021-04-08), voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
