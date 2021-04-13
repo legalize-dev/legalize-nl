@@ -4,7 +4,7 @@ identifier: "BWBR0044880"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-13"
-last_updated: "2021-03-06"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044880"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=1&z=2021-04-13&g=2021-03-06), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=1&z=2021-04-13&g=2021-04-13), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -65,7 +65,7 @@ Dit besluit wordt aangehaald als: Derde tijdelijke vrijstelling handdesinfectie 
 
 Dit besluit treedt in werking met ingang van 5 maart 2021. Indien de Staatscourant waarin het besluit wordt geplaatst, wordt uitgegeven op of na de in de eerste volzin bedoelde datum, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met de in de eerste volzin bedoelde datum.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=2&z=2021-04-13&g=2021-03-06)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044880&artikel=2&z=2021-04-13&g=2021-04-13)
 
 De vrijgestelde handdesinfectiemiddelen en het bijgeleverde etiket moeten voldoen aan de volgende voorwaarden:
 
@@ -75,20 +75,22 @@ De vrijgestelde handdesinfectiemiddelen en het bijgeleverde etiket moeten voldoe
 
 - •. Het etiket vermeldt duidelijk leesbaar en onuitwisbaar, de in het product aanwezige werkzame stoffen en de concentraties van de werkzame stoffen in het product in % v/v.
 
-- •. Het product mag niet geclassificeerd zijn met irriterende of corrosieve eigenschappen voor de huid. Met andere woorden, het product mag niet geclassificeerd zijn met: H314, H315, H317, H318, EUH208 of EUH066.
+- •. Het product mag niet de volgende (EU)H-zinnen hebben: H314, H315, H317, H318, EUH208 of EUH066.
 
 - •. De formulering moet voldoen aan de voorwaarden voor producten die op de huid toegepast worden zoals vermeld in artikel 19, negende lid van de Biocidenverordening (Verordening EG 528/2012).
 
-De volgende handdesinfectiemiddelen mogen alleen worden aangeprezen en verkocht aan professionele gebruikers en worden gebruikt in een bedrijfs- of beroepsmatige omgeving.
+De volgende handdesinfectiemiddelen mogen alleen worden aangeprezen en verkocht aan professionele gebruikers en worden gebruikt door professionele en niet-professionele gebruikers in een bedrijfs- of beroepsmatige omgeving (professionele gebruikers zijn bijvoorbeeld winkeliers, niet professionele gebruikers zijn bijvoorbeeld de klanten van de winkelier, beiden mogen deze middelen in de winkel of bij de ingang gebruiken).
 
-| Naam middel voor handdesinfectie | Producent / distributeur | Toelatingsnummer |
+| Naam middel voor handdesinfectie | Producent / distributeur | Toelatings-nummer |
 | --- | --- | --- |
 | Acticid | Veip B.V. | 14021N |
 | Alcohol dentior 70% | Reymerink B.V. | 14081N |
 | Alcohol dentior 80% | Reymerink B.V. | 14366N |
+| Alcohol Podior 70% | Reymerink B.V. | 14061N |
 | Alcohol Podior 80% | Reymerink B.V. | 14331N |
 | Apesin swift | Werner & Mertz Benelux N.V. S.A. | 15790N |
 | Alcoolgel | Seifar | n.v.t. |
+| Cien Hygiënische antibacteriële handspray | Next Generation Perfumes B.V. | n.v.t. |
 | Clean Co | Nova Trade LTD | n.v.t. |
 | CMT Handsfree Disinfection Liquid | Cemex Trescon B.V. | 14334N |
 | Corpusan Skindisinfection E | IVN Nettetal GmbH | n.v.t. |
@@ -96,37 +98,43 @@ De volgende handdesinfectiemiddelen mogen alleen worden aangeprezen en verkocht 
 | Dermal Med S.31 | Hygeniq | n.v.t. |
 | Dermal Med S.33 | Hygeniq | n.v.t. |
 | Domily+ desinfect handgel | Max Brands Marketing B.V. | n.v.t. |
+| Epicare DES | Ecolab B.V. | 14336N |
 | Ethades | Spectro B.V. | 14065N |
+| Foam Alcohol Hand Rub | Newell Europe Sàrl | n.v.t. |
 | Grain Naturals Handalcohol 80%. | Kalkwijck C.V. | n.v.t. |
-| Green Nature Desinfecterende vloeistof- spray | Next Generation Perfumes B.V. | n.v.t. |
+| Green Nature Desinfecterende vloeistof-spray | Next Generation Perfumes B.V. | n.v.t. |
+| Green Nature desinfecterende handgel | Next Generation Perfumes B.V. | n.v.t. |
 | Hand Sanitizer Sendil | Vipack B.V. | n.v.t. |
 | HANDGEL OP ALCOHOLBASIS | INEOS Solvents Germany GmbH | n.v.t. |
 | Handsanitizer 80% | Koninklijke de Kuyper B.V. | n.v.t. |
 | Hegron Disinfecting Hand Gel | Hegron Cosmetics B.V. | n.v.t. |
 | Konix Alcohol Based Hand & Skin Antiseptic | Multa Group B.V. | n.v.t. |
 | Konix Antibacterial Gel | Multa Group B.V. | n.v.t. |
+| Manodes GP | Ecolab B.V. | n.v.t. |
 | Manus Alcohol | Selden Europe B.V. | n.v.t. |
 | NEODES CMT HANDDISINFECTION GEL | Neomix Columbus B.V. | 14623N |
+| P3-manodes LI | Ecolab B.V. | 14484N |
+| Phago'Gel SPS | Christeyns N.V. | n.v.t. |
+| Phago'Solution | Christeyns N.V. | n.v.t. |
 | Podilon | Reymerink B.V. | 14028N |
 | Sanitoor HD-80-VK | Toorank Productions B.V | n.v.t. |
 | Santé Hygiënische Alcohol Handgel | Santé Group | n.v.t. |
-| Skinman Soft Protect | Ecolab B.V. | 13899N |
+| Sence desinfect handgel | Next Generation Perfumes B.V. | n.v.t. |
 | Skinman Soft Protect FF | Ecolab B.V. | 16076N |
+| Soft Care Des E | Diversey B.V. | 14400N |
 | Soft Care Des E Spray | Diversey B.V. | 15533N |
 | Spirigel Complete | Ecolab B.V. | 13900N |
-| TS Trisept | Tristar Industries Special Products B.V. | n.v.t. |
-| TS Trisept Gel | Tristar Industries Special Products B.V. | n.v.t. |
+| TORK Alcohol Gel Hand Sanitizer | Essity Netherlands B.V. | 14711N |
+| TS Trisept | Tristar Industries Nederland B.V. | n.v.t. |
+| TS Trisept Gel | Tristar Industries Nederland B.V. | n.v.t. |
 | UTB Hand & Surface Cleaner | UTB B.V. | n.v.t. |
 
-De volgende handdesinfectiemiddelen mogen alleen worden verkocht en worden gebruikt door professionele gebruikers.
+De volgende handdesinfectiemiddelen mogen alleen worden aangeprezen, verkocht aan en gebruikt door professionele gebruikers (deze middelen mogen dus niet aangeprezen of verkocht worden aan particulieren en ook niet door de winkelier voor gebruik bij de ingang van de winkel worden gezet voor gebruik door klanten).
 
-| Naam middel voor handdesinfectie | Producent / distributeur | Toelatingsnummer |
+| Naam middel voor handdesinfectie | Producent / distributeur | Toelatings-nummer |
 | --- | --- | --- |
-| Foam Alcohol Hand Rub | Newell Europe Sàrl | n.v.t. |
 | Instant Hand Sanitizer | Zep Industries B.V. | n.v.t. |
-| Manodes GP | Ecolab B.V. | n.v.t. |
-| Phago'Gel SPS | Christeyns N.V. | n.v.t. |
-| Phago'Solution | Christeyns N.V. | n.v.t. |
-| Soft Care Des E | Diversey B.V. | 14400N |
+| Skinman Soft Protect | Ecolab B.V. | 13899N |
+| Softa-Man ViscoRub | B. Braun Medical AG | n.v.t. |
 
 Dit besluit zal met bijlage en de toelichting in de Staatscourant worden geplaatst.
