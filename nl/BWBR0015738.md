@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2021-01-01"
+last_updated: "2021-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -136,7 +136,23 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - o. de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Beleidsregel tegemoetkoming Q-koorts](https://wetten.overheid.nl/jci1.3:c:BWBR0041372&artikel=2);
 
-- p. de compensatie, toegekend op grond van het Besluit Compensatieregeling CAF 11 of het [Besluit Compensatieregeling CAF 11 en vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059), de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), de bijzondere tegemoetkoming, bedoeld in [artikel 49a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a), de compensatie, bedoeld in [artikel 49b, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49b) of de O/GS-tegemoetkoming, bedoeld in [49c van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c), of de noodvoorziening, bedoeld in het Besluit noodvoorziening kinderopvangtoeslag;
+- p. betalingen door de Belastingdienst/Toeslagen inzake:
+
+- 1°. de compensatie op grond van het [Besluit Compensatieregeling CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043573) of het [Besluit Compensatieregeling CAF 11 en vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059);
+
+- 2°. de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49);
+
+- 3°. de bijzondere tegemoetkoming, bedoeld in [artikel 49a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a);
+
+- 4°. de compensatie, bedoeld in [artikel 49b, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49b) of de O/GS-tegemoetkoming, bedoeld in [49c van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c);
+
+- 5°. de noodvoorziening, bedoeld in het [Besluit noodvoorziening kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0044164) of in het [Besluit noodvoorziening toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044497);
+
+- 6°. de eenmalige tegemoetkoming, bedoeld in [artikel 49g van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49g);
+
+- 7°. de aanvullende tegemoetkoming op grond van het [Besluit aanvullende tegemoetkoming werkelijke schade bij O/GS](https://wetten.overheid.nl/jci1.3:c:BWBR0044447);
+
+- 8°. het forfaitaire bedrag aan compensatie en tegemoetkoming, op grond van het Besluit forfaitair bedrag en verruiming compensatieregeling;
 
 - q. het voorschot, bedoeld in de Regeling tegemoetkoming werknemers met CSE;
 
@@ -164,7 +180,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2021-01-01&g=2021-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2021-01-01&g=2021-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2021-01-01&g=2021-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2021-01-01&g=2021-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2021-04-14&g=2021-04-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2021-04-14&g=2021-04-14), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2021-04-14&g=2021-04-14) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2021-04-14&g=2021-04-14) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -359,7 +375,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 15b. Aantallen beschut werk
 
-Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2021 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2021-01-01&g=2021-01-01) bij deze regeling bepaalde aantal per gemeente.
+Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2021 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2021-04-14&g=2021-04-14) bij deze regeling bepaalde aantal per gemeente.
 
 #### § 8. Slotbepalingen
 
@@ -939,7 +955,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2021-01-01&g=2021-01-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2021-04-14&g=2021-04-14) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
 | --- | --- | --- | --- |
@@ -1128,7 +1144,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2021-01-01&g=2021-01-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2021-04-14&g=2021-04-14) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Indeling 2021 | Indeling 2021 | 8597 |
 | --- | --- | --- |
