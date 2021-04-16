@@ -4,7 +4,7 @@ identifier: "BWBR0043538"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-04-16"
-last_updated: "2021-02-19"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043538"
 soort: "zbo"
@@ -109,11 +109,15 @@ Subsidie kan alleen worden aangevraagd indien de betrokken uitvoerenden professi
 
 ##### Artikel 8. Subsidieplafond
 
-1. Het subsidieplafond bedraagt € 500.000.
+1. Het bestuur kan een of meer subsidieplafonds vaststellen. Subsidieplafonds worden vastgesteld voor een bepaalde periode.
 
-2. Het bestuur kan besluiten het subsidieplafond in lid 1 te verhogen.
+2. Het bestuur kan eerder vastgestelde subsidieplafonds verhogen of verlagen.
 
-3. Een besluit als bedoeld in het tweede lid wordt bekendgemaakt via de website van het Fonds Podiumkunsten.
+3. Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt via de website van het Fonds Podiumkunsten.
+
+4. Het beschikbare subsidiebedrag wordt verdeeld overeenkomstig het bepaalde in deze regeling.
+
+5. Alle tijdig ingediende aanvragen worden op basis van een loting in een volgorde geplaatst en in deze volgorde beoordeeld met inachtneming van het bepaalde in deze regeling, totdat het subsidieplafond is bereikt.
 
 ##### Artikel 9. Overig
 
