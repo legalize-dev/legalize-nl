@@ -4,7 +4,7 @@ identifier: "BWBR0045646"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045646"
 soort: "beleidsregel-BES"
@@ -212,11 +212,11 @@ Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
-Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
+**Ik keur goed dat geen abb wordt geheven ter zake van de invoer van COVID-19-in-vitrodiagnostiek en de dienst bestaande uit het afnemen en/of uitvoeren van de test met deze testkits.**
 
 ### 7. Ingetrokken regeling
 
-Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+**Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Voor de invoer van de COVID-19-in-vitrodiagnostiek en de dienst van het testen met deze testkits geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -272,13 +272,13 @@ Vooruitlopend op wetgeving keur ik met terugwerkende kracht tot en met 1 januari
 
 ### 6b.2. Covid-19-testkits
 
-Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+**Hierbij moet het gaan om COVID-19-testkits die op het moment van levering zijn opgenomen in de ‘COVID-19 In Vitro Diagnostic Devices and Test Methods Database’ van de Europese Commissie en zijn voorzien van een CE-markering.3[https://covid-19-diagnostics.jrc.ec.europa.eu/devices?manufacturer=&text_name=&marking=Yes&method=&rapid_diag=&target_type=&search_method=AND#form_content](onbekend)**
 
 Onderdeel 6 vervalt met ingang van 1 oktober 2021.
 
 ### 9. Citeertitel
 
-Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
+**Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Voor de invoer van deze zelftesten geldt een abb-tarief van nihil tenzij er ter zake een vrijstelling van toepassing is.**
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -292,17 +292,17 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ### 6b.4. Covid-19-zelftestkits met ontheffing
 
-Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+**Ik keur goed dat geen abb wordt geheven ter zake van de invoer van Antigeen-zelftesten waarvoor de Minister voor Medische Zorg en Sport ontheffing heeft verleend deze op de Nederlandse markt te mogen brengen, 4[https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/documenten/publicaties/2021/03/10/ontheffingen-antigeentesten](onbekend) en deze op Caribisch Nederland mogen worden ingevoerd.**
 
 Onderdeel 6 vervalt met ingang van 1 oktober 2021.
 
-Onderdeel 4 vervalt met ingang van 1 januari 2022.
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
 Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
 
 ### 9. Citeertitel
 
-Onderdeel 2.2 vervalt met ingang van 1 januari 2024.
+Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -310,9 +310,27 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ### 6b.3. Covid-19-testkits – uitbreiding
 
+### 6b.4. Covid-19-zelftestkits met ontheffing
+
+Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+
+Onderdeel 6 vervalt met ingang van 1 oktober 2021.
+
+### 9. Citeertitel
+
+Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 7. Ingetrokken regeling
+
 ### 8. Inwerkingtreding en vervaldatum
 
+Onderdeel 4 vervalt met ingang van 1 januari 2022.
+
 Goedkeuring 2 in onderdeel 3 vervalt met ingang van 1 februari 2022, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 31 januari 2022 zijn opgelegd.
+
+Onderdeel 2.2 vervalt met ingang van 1 januari 2024.
 
 Onderdeel 2.5 vervalt met ingang van 1 oktober 2027.
 
