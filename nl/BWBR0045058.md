@@ -4,7 +4,7 @@ identifier: "BWBR0045058"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-04-21"
-last_updated: "2021-04-10"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045058"
 soort: "zbo"
@@ -138,9 +138,9 @@ De bijdrage kan worden aangevraagd door een in Nederland gevestigd museum dat:
 
 ##### Artikel 6. Beoordeling
 
-1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=8&z=2021-04-21&g=2021-04-10) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
+1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=8&z=2021-04-21&g=2021-04-21) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
 
-2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=9&z=2021-04-21&g=2021-04-10) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
+2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=9&z=2021-04-21&g=2021-04-21) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
 
 3. Aanvragen zoals bedoeld in het tweede lid van dit artikel worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
@@ -174,15 +174,15 @@ Het subsidieplafond bedraagt 7.500.000 euro.
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen op basis van deze regeling en de **Compensatieregeling Coronacrisis Kunsthallen**.
 
-2. Het bestuur verdeelt de beschikbare subsidies volgens de beoordelingsprocedure als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=6&z=2021-04-21&g=2021-04-10) en de rekenregel zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=7&z=2021-04-21&g=2021-04-10).
+2. Het bestuur verdeelt de beschikbare subsidies volgens de beoordelingsprocedure als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=6&z=2021-04-21&g=2021-04-21) en de rekenregel zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=7&z=2021-04-21&g=2021-04-21).
 
-3. Indien het subsidieplafond door toepassing van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=6&z=2021-04-21&g=2021-04-10) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=7&z=2021-04-21&g=2021-04-10) zou worden overschreden, worden de te verlenen subsidiebedragen naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut.
+3. Indien het subsidieplafond door toepassing van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=6&z=2021-04-21&g=2021-04-21) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=7&z=2021-04-21&g=2021-04-21) zou worden overschreden, worden de te verlenen subsidiebedragen naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut.
 
 4. Indien het subsidieplafond van deze regeling niet wordt bereikt, kan het restant worden toegevoegd aan het budget van de **Compensatieregeling Coronacrisis Kunsthallen**.
 
-5. Indien het subsidieplafond van deze regeling of het subsidieplafond zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=8&z=2021-04-21&g=2021-04-10) van de **Compensatieregeling Coronacrisis Kunsthallen** niet wordt bereikt, kan het bestuur in afwijking van de van toepassing zijnde voorschriften over de hoogte van het subsidiebedrag besluiten de op basis van deze regeling en de op basis van de **Compensatieregeling Coronacrisis Kunsthallen** te verlenen subsidiebedragen naar rato te verhogen, met dien verstande dat de subsidie niet meer dan 1.000.000 euro bedraagt.
+5. Indien het subsidieplafond van deze regeling of het subsidieplafond zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=8&z=2021-04-21&g=2021-04-21) van de **Compensatieregeling Coronacrisis Kunsthallen** niet wordt bereikt, kan het bestuur in afwijking van de van toepassing zijnde voorschriften over de hoogte van het subsidiebedrag besluiten de op basis van deze regeling en de op basis van de **Compensatieregeling Coronacrisis Kunsthallen** te verlenen subsidiebedragen naar rato te verhogen, met dien verstande dat de subsidie niet meer dan 1.000.000 euro bedraagt.
 
-6. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=5&z=2021-04-21&g=2021-04-10) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
+6. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=5&z=2021-04-21&g=2021-04-21) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
 
 ##### Artikel 10. Hardheidsclausule
 
