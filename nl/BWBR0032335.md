@@ -4,7 +4,7 @@ identifier: "BWBR0032335"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-27"
-last_updated: "2021-03-09"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032335"
 soort: "AMvB"
@@ -76,6 +76,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **verordening (EG) nr. 2075/2005:** verordening (EG) nr. 2075/2005 van de Commissie van 5 december 2005 tot vaststelling van specifieke voorschriften voor de officiële controles op Trichinella in vlees (PbEU 2005 L 338);
 
+- –. **verordening (EU) nr. 2016/429:** verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84);
+
 - –. **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (Pb EU 2017 L 95);
 
 - –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
@@ -86,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. een product dat is samengesteld uit melk, dat wil zeggen een product waarvan geen enkel element in de plaats komt van een melkbestanddeel of bedoeld is om daarvoor in de plaats te komen en waarvan de melk een essentieel bestanddeel is, hetzij door de hoeveelheid, hetzij omdat het effect kenmerkend is voor deze producten.
 
-### Hoofdstuk 2. Voor menselijke consumptie bestemde dierlijke producten
+### Hoofdstuk 1a. Buiten of binnen Nederland brengen van dierlijke producten
 
 #### § 1. Vleeskeuring
 
@@ -114,7 +116,7 @@ Rechtstreekse levering van kleine hoeveelheden vlees van op het bedrijf geslacht
 
 ##### Artikel 2.4. Onderzoek wilde zwijnen
 
-1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2021-03-09&g=2021-03-09), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, derde lid, derde alinea, van verordening (EG) nr. 2075/2005.
+1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2021-04-21&g=2021-04-21), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, derde lid, derde alinea, van verordening (EG) nr. 2075/2005.
 
 2. De bemonstering en het onderzoek van het monster vinden plaats overeenkomstig bijlage I, hoofdstuk I, onderdeel 1, onderdeel 2, onder c, tweede alinea en onderdeel 3, onder I en II, en bijlage III, aanhef en onderdelen a, d en f, van verordening (EG) nr. 2075/2005.
 
@@ -150,9 +152,9 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.7. Regels ter uitvoering EU-rechtshandelingen
 
-1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-03-09&g=2021-03-09) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
+1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2021-04-21) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
 
-2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-03-09&g=2021-03-09) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
+2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2021-04-21) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
 
 ##### Artikel 2.8. Nationale kwaliteitsvoorschriften voor kaas
 
@@ -174,7 +176,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.9. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
-1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2021-03-09&g=2021-03-09) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2021-03-09&g=2021-03-09), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
+1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2021-04-21&g=2021-04-21) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2021-04-21&g=2021-04-21), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
 
 - a. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8), [11, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), en [13 tot en met 13y van de Landbouwkwaliteitswet](onbekend);
 
@@ -182,7 +184,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 2. Op de uitvoering van het toezicht op de naleving van regels over de kwaliteit van levensmiddelen van dierlijke oorsprong door Onze Minister, is [artikel 11, tweede en vierde tot en met zevende lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) van overeenkomstige toepassing.
 
-3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-03-09&g=2021-03-09).
+3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2021-04-21).
 
 ##### Artikel 2.10. Controles en bewijsstukken
 
@@ -236,7 +238,7 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 2. De tarieven, alsmede wijzigingen daarvan, behoeven de goedkeuring van Onze Minister.
 
-3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2021-03-09&g=2021-03-09).
+3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2021-04-21&g=2021-04-21).
 
 4. Indien de vanaf een kalenderjaar te berekenen tarieven niet voor 1 januari van dat jaar zijn goedgekeurd, kan Onze Minister de tarieven vaststellen.
 
@@ -246,9 +248,9 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 ##### Artikel 3.5. Extra kosten
 
-Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2021-03-09&g=2021-03-09), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
+Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2021-04-21&g=2021-04-21), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
 
-### Hoofdstuk 4. Overige bepalingen
+### Hoofdstuk 3. Niet voor menselijke consumptie bestemde dierlijke producten
 
 ##### Artikel 4.1. Overgangsrecht besluiten, tarieven en tuchtrecht Stichting CPE
 
@@ -363,6 +365,54 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 3. Niet voor menselijke consumptie bestemde dierlijke producten
 
 #### § 1. Dierlijke bijproducten
+
+### Hoofdstuk 4. Overige bepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a.1. Buiten Nederland brengen dierlijke producten voor derde landen
+
+1. Ingeval artikel 243, tweede lid, van verordening (EU) nr. 2016/429 van toepassing is en de regelgeving of de bevoegde autoriteit van het derde land waarvoor dierlijke producten zijn bestemd, vereist dat de dierlijke producten voldoen aan door het derde land gestelde vereisten, wordt een officieel certificaat afgegeven door Onze Minister waaruit blijkt dat aan deze eisen is voldaan.
+
+2. Ingeval de regelgeving of de bevoegde autoriteit van een derde land, bedoeld in het eerste lid, een bepaalde gezondheidsstatus vereist van dierlijke producten, maar geen eisen stelt aan de laboratoria waarin en de wijze waarop laboratoriumanalyses, -tests en -diagnoses worden uitgevoerd, vinden deze plaats in een daartoe door Onze Minister erkend laboratorium.
+
+3. Bij ministeriële regeling worden regels gesteld over de uitvoering van werkzaamheden als bedoeld in het tweede lid ingeval er voor het onderzoek met betrekking tot een bepaalde gezondheidsstatus geen laboratorium is erkend.
+
+##### Artikel 1a.2. Binnen Nederland brengen dierlijke producten vanuit derde landen
+
+Ingeval artikel 234, derde lid, van verordening (EU) nr. 2016/429 van toepassing is, kunnen bij ministeriële regeling regels worden gesteld over het binnen Nederland brengen van voor menselijke consumptie bestemde dierlijke producten en levende producten met betrekking tot:
+
+- a. de gezondheidsstatus van die producten;
+
+- b. de begeleidende documenten die die producten vergezellen.
+
+### Hoofdstuk 2. Voor menselijke consumptie bestemde dierlijke producten
+
+#### § 1. Vleeskeuring
+
+#### § 2. Kwaliteit van levensmiddelen van dierlijke oorsprong
+
+#### § 1. Dierlijke bijproducten
+
+#### § 2. Levende dierlijke producten
+
+##### Artikel 3.6. Regels levende producten voor Nederlandse markt
+
+1. Bij ministeriële regeling kunnen onderdelen van het bij of krachtens verordening (EU) nr. 2016/429 bepaalde ten aanzien van het winnen, het produceren, het behandelen, de opslag of de handel van levende producten van runderen, varkens of paardachtigen van overeenkomstige toepassing worden verklaard op het winnen, het produceren, het behandelen, de opslag of de handel van die producten als die uitsluitend binnen Nederland worden verplaats.
+
+2. Bij ministeriële regeling kunnen over verplaatsingen van levende producten van runderen, varkens of paardachtigen die uitsluitend binnen Nederland plaatsvinden, regels worden gesteld met betrekking tot:
+
+- a. de eisen die aan een inrichting voor levende producten worden gesteld;
+
+- b. de bedrijfsvoering van een inrichting voor levende producten;
+
+- c. het bijhouden en bewaren van een administratie ten aanzien van de inrichting, de aanwezigheid van donordieren, de productie en de aanwezigheid van levende producten;
+
+- d. de diergezondheidstatus van donordieren of levende producten;
+
+- e. de verpakking van levende producten;
+
+- f. het vervoer van en de handel in levende producten en de begeleidende documenten daarbij.
 
 ### Hoofdstuk 4. Overige bepalingen
 
