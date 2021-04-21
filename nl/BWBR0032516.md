@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2021-01-01"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -42,13 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+1. In dit besluit wordt verstaan onder:
 
 - –. **richtlijn 2001/82/EG:** [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEU 2001 L 311);
 
 - –. **verordening (EG) nr. 1/2005:** Verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);
 
 - –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
+
+2. Dit besluit berust mede op [artikel 5.9, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9).
 
 ##### Artikel 2
 
@@ -68,7 +70,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217);
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), [2.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), en het bepaalde krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5) of [artikel 6.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) en het bij of krachtens het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) bepaalde, het krachtens [artikel 3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6) bepaalde, het krachtens [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9) bepaalde, of [artikel 2.3, tweede en derde lid, van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3);
 
 - g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
 
@@ -100,15 +102,25 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 10.°. [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13) en [2.14 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14);
 
-- 11.°. [artikel 96 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=96) ten aanzien van:
+- 11.°. de regels over identificatie en registratie:
 
-- –. honden, of
+- –. in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) en de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) ten aanzien van runderen, varkens, schapen, geiten of paarden;
 
-- –. runderen, varkens, schapen, geiten en paarden.
+- –. in [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009019&hoofdstuk=2) en [paragraaf 7a van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&paragraaf=7a) ten aanzien van honden.
 
 - h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6);
 
-- i. dierenartsen en andere personen die voor specifieke toezichtswerkzaamheden door de Minister van Landbouw, Natuur en Voedselkwaliteit worden ingezet.
+- i. dierenartsen en andere personen die voor specifieke toezichtswerkzaamheden door de Minister van Landbouw, Natuur en Voedselkwaliteit worden ingezet;
+
+- j. voor zover het betreft het toezicht op de naleving van de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), of [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), of het bepaalde krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5) of [artikel 6.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), het bij of krachtens het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) bepaalde, het krachtens [artikel 3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6) bepaalde, het krachtens [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9) bepaalde, of [artikel 2.3, tweede en derde lid, van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3):
+
+- 1°. militairen van de Koninklijke marechaussee;
+
+- 2°. de door de Minister van Defensie aangewezen overige militairen van de krijgsmacht;
+
+- 3°. de personen werkzaam als radarwaarnemer of verkeersassistent binnen het team verkeershandhaving van een regionale eenheid van de politie;
+
+- 4°. ambtenaren van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 3
 
@@ -117,5 +129,13 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren.
+
+Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde ambtenaren.
+
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde personen.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
