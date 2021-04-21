@@ -135,9 +135,3 @@ Het [besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 dec
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 21 april 2021.
 
 Dit besluit wordt bekend gemaakt door toezending aan Gezondheidsdienst voor Dieren B.V. en door plaatsing in de Staatscourant.
-
-##### Artikel 9a. citeertitel
-
-Dit besluit wordt aangehaald als Besluit aanwijzing Gezondheidsdienst voor Dieren B.V. voor uitvoering diergezondheidsmonitoring.
-
-Dit besluit wordt bekend gemaakt door toezending aan Gezondheidsdienst voor Dieren B.V. en door plaatsing in de Staatscourant.
