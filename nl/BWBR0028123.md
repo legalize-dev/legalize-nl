@@ -4,7 +4,7 @@ identifier: "BWBR0028123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-06-06"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028123"
 soort: "ministeriele-regeling"
@@ -84,13 +84,35 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
+- – **basismonster:** basismonster als bedoeld in bijlage I, onderdeel 2, bij [verordening (EG) nr. 152/2009](32009R0152);
+
 - – **besluit:**[Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346);
 
-- – **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- – **derde land:** land dat geen lid is van de Europese Economische Ruimte;
+
+- – **eindmonster:** eindmonster als bedoeld in bijlage I, onderdeel 2, bij [verordening (EG) nr. 152/2009](32009R0152);
+
+- – **grootouderdier:** vermeerderingsdier dat wordt gehouden voor de productie van andere vermeerderingsdieren;
+
+- – **kalkoen:** dier van de soort Meleagris gallopavo;
+
+- – **kip:** dier van de soort Gallus gallus;
+
+- – **leghen:** dier bestemd voor de productie van consumptie-eieren;
 
 - – **lidstaat:** land dat lid is van de Europese Economische Ruimte;
 
-- – **derde land:** land dat geen lid is van de Europese Economische Ruimte;
+- – **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+
+- – **pluimvee:** hoenderachtigen, eenden of ganzen;
+
+- – **vermeerderingsdier:** vogel bestemd voor de productie van broedeieren;
+
+- – **verzamelmonster:** verzamelmonster als bedoeld in bijlage I, onderdeel 2, bij [verordening (EG) nr. 152/2009](32009R0152);
+
+- – **vleeskalkoen:** kalkoen van 72 uur en ouder die worden opgefokt of worden gehouden voor de productie van vlees;
+
+- – **vleeskuiken:** kip van 72 uur en ouder die worden opgefokt of worden gehouden voor de productie van vlees;
 
 - – **werkdag:** dag, niet zijnde een zaterdag, zondag of algemeen erkende feestdag.
 
@@ -114,7 +136,9 @@ In deze regeling wordt verstaan onder:
 
 - g. **verordening (EU) nr. 2017/625:** verordening (EU) nr. 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), (EG) nr. [396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151). (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen (EG) nr. [1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (Pb EU L 95);
 
-- h. **uitvoeringsverordening (EU) 2019/1973:** uitvoeringsverordening (EU) 2019/1793 van de Commissie van 22 oktober 2019 betreffende de tijdelijke verhoging van de officiële controles en noodmaatregelen met betrekking tot de binnenkomst in de Unie van bepaalde goederen uit bepaalde derde landen tot uitvoering van de Verordeningen (EU) 2017/625 en (EG) nr. 178/2002 van het Europees Parlement en de Raad, en tot intrekking van de [Verordeningen (EG) nr. 669/2009](32009R0669)), (EU) [nr. 884/2014](32014R0884), (EU) [2015/175](32075R2015), (EU) [2017/186](32086R2017) en (EU) [2018/1660](33560R2018) van de Commissie (PbEU L 11).
+- h. **uitvoeringsverordening (EU) 2019/1973:** uitvoeringsverordening (EU) 2019/1793 van de Commissie van 22 oktober 2019 betreffende de tijdelijke verhoging van de officiële controles en noodmaatregelen met betrekking tot de binnenkomst in de Unie van bepaalde goederen uit bepaalde derde landen tot uitvoering van de Verordeningen (EU) 2017/625 en (EG) nr. 178/2002 van het Europees Parlement en de Raad, en tot intrekking van de [Verordeningen (EG) nr. 669/2009](32009R0669)), (EU) [nr. 884/2014](32014R0884), (EU) [2015/175](32075R2015), (EU) [2017/186](32086R2017) en (EU) [2018/1660](33560R2018) van de Commissie (PbEU L 11);
+
+- i. **verordening (EG) nr. 152/2009:** [verordening (EG) nr. 152/2009](32009R0152) van de Commissie van 27 januari 2009 tot vaststelling van de bemonsterings- en analysemethoden voor de officiële controle van diervoeders (PbEU 2009, L 54).
 
 ### Hoofdstuk 2. Ongewenste stoffen in diervoeders, verboden voedermiddelen en onder beperkingen toegestane middelen en stoffen in biologische diervoeders
 
@@ -146,7 +170,7 @@ In deze regeling wordt verstaan onder:
 
 3. Water dat wordt gebruikt voor het bereiden, bewerken of verwerken van een diervoeder is van voldoende kwaliteit.
 
-4. Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2020-06-06&g=2020-06-06) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
+4. Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2021-04-21&g=2021-04-21) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
 
 ##### Artikel 4
 
@@ -174,7 +198,7 @@ Vervallen
 
 ##### Artikel 6
 
-De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) zijn van overeenkomstige toepassing op handelingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2020-06-06&g=2020-06-06), met diervoeders.
+De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) zijn van overeenkomstige toepassing op handelingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2021-04-21&g=2021-04-21), met diervoeders.
 
 ### Hoofdstuk 3. Regels ter uitvoering van communautaire verordeningen
 
@@ -224,11 +248,11 @@ Het is eenieder verboden met diervoeders die vallen binnen de werkingssfeer, bed
 
 ##### Artikel 15
 
-Indien een inrichting een activiteit als bedoeld in artikel 10, onder 1, van verordening (EG) nr. 183/2005 verricht, is een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2020-06-06&g=2020-06-06) vereist.
+Indien een inrichting een activiteit als bedoeld in artikel 10, onder 1, van verordening (EG) nr. 183/2005 verricht, is een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2021-04-21&g=2021-04-21) vereist.
 
 ##### Artikel 16
 
-Indien aan een bedrijf een erkenning voor een activiteit, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2020-06-06&g=2020-06-06) is verleend, dan is voor diezelfde activiteit geen registratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2020-06-06&g=2020-06-06), meer nodig.
+Indien aan een bedrijf een erkenning voor een activiteit, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2021-04-21&g=2021-04-21) is verleend, dan is voor diezelfde activiteit geen registratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2021-04-21&g=2021-04-21), meer nodig.
 
 ##### Artikel 17
 
@@ -274,23 +298,23 @@ Vervallen
 
 1. De volgende aanvragen worden bij de NVWA ingediend:
 
-- a. een aanvraag tot erkenning of registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=8&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- a. een aanvraag tot erkenning of registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=8&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- b. een aanvraag tot goedkeuring als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- b. een aanvraag tot goedkeuring als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- c. een aanvraag tot toestemming als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- c. een aanvraag tot toestemming als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- d. een aanvraag tot erkenning als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- d. een aanvraag tot erkenning als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=11&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- e. een aanvraag tot registratie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- e. een aanvraag tot registratie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- f. een aanvraag tot erkenning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2020-06-06&g=2020-06-06), dan wel tot wijziging daarvan;
+- f. een aanvraag tot erkenning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2021-04-21&g=2021-04-21), dan wel tot wijziging daarvan;
 
-- g. een aanvraag tot goedkeuring als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=18&z=2020-06-06&g=2020-06-06).
+- g. een aanvraag tot goedkeuring als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=18&z=2021-04-21&g=2021-04-21).
 
-2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 35, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2020-06-06&g=2020-06-06), verschuldigde bedrag is voldaan.
+2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 35, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2021-04-21&g=2021-04-21), verschuldigde bedrag is voldaan.
 
-3. De aanvrager van een registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=8&z=2020-06-06&g=2020-06-06), is geregistreerd, indien een termijn van zes weken, te rekenen vanaf de datum van ontvangst van de aanvraag tot registratie, is verstreken zonder dat de minister op de aanvraag heeft beslist.
+3. De aanvrager van een registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1b&artikel=8&z=2021-04-21&g=2021-04-21), is geregistreerd, indien een termijn van zes weken, te rekenen vanaf de datum van ontvangst van de aanvraag tot registratie, is verstreken zonder dat de minister op de aanvraag heeft beslist.
 
 ##### Artikel 27
 
@@ -470,9 +494,9 @@ Als instellingen als bedoeld in [artikel 10.2 van de wet](https://wetten.overhei
 
 Als bemonsterings- en analysemethoden als bedoeld in artikel 34, eerste en tweede lid, van verordening (EU) nr. 2017/625 worden aangemerkt de methoden, genoemd in:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2020-06-06&g=2020-06-06) bij deze regeling, en
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2021-04-21&g=2021-04-21) bij deze regeling, en
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2020-06-06&g=2020-06-06) bij deze regeling, met dien verstande dat deze worden toegepast binnen de toepassingsgebieden en in de titels genoemde onderwerpen in genoemde bijlage.
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2021-04-21&g=2021-04-21) bij deze regeling, met dien verstande dat deze worden toegepast binnen de toepassingsgebieden en in de titels genoemde onderwerpen in genoemde bijlage.
 
 #### § 3. Aanwijzing schadelijke stoffen
 
@@ -480,17 +504,17 @@ Als bemonsterings- en analysemethoden als bedoeld in artikel 34, eerste en tweed
 
 1. Het is een houder van een dier verboden een diervoeder te vervoederen dat:
 
-- a. een stof bevat in strijd met een voorschrift als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2020-06-06&g=2020-06-06);
+- a. een stof bevat in strijd met een voorschrift als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2021-04-21&g=2021-04-21);
 
 - b. onveilig is of onveilig wordt geacht als bedoeld in artikel 15, eerste lid, van verordening (EG) nr. 178/2002, onverminderd artikel 20;
 
-- c. in strijd met de algemene verplichting, bedoeld in artikel 4, tweede lid, van verordening (EG) nr. 183/2005, verontreinigingen bevat, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=13&z=2020-06-06&g=2020-06-06);
+- c. in strijd met de algemene verplichting, bedoeld in artikel 4, tweede lid, van verordening (EG) nr. 183/2005, verontreinigingen bevat, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=13&z=2021-04-21&g=2021-04-21);
 
 - d. in strijd met de goede praktijken voor het voederen van dieren, bedoeld in artikel 5, vijfde lid, en bijlage III, van verordening (EG) nr. 183/2005, wordt vervoederd aan voedselproducerende dieren, onverminderd artikel 13;
 
 - e. in strijd met etiketteringsvoorschriften als bedoeld in artikel 3, eerste lid, onderdeel c, van verordening (EG) nr. 1831/2003, onverminderd artikel 23.
 
-2. Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2020-06-06&g=2020-06-06) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
+2. Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2021-04-21&g=2021-04-21) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
 
 #### § 3. Aanwijzing schadelijke stoffen
 
@@ -504,9 +528,9 @@ Een aanvraag tot toestemming voor een onderzoek voor wetenschappelijke doeleinde
 
 ##### Artikel 60
 
-Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=59&z=2020-06-06&g=2020-06-06) wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831).
+Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=59&z=2021-04-21&g=2021-04-21) wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831).
 
-#### § 4. Nadere regelen over het gebruik van toevoegingsmiddelen, vervangende voederproteïnen of een product met een mogelijk ongewenste stof in een proefstadium of voor onderzoeksdoeleinden
+#### § 2. Aanwijzing toezichthouders en laboratoria
 
 ##### Artikel 61
 
@@ -618,7 +642,7 @@ Deze regeling wordt aangehaald als: Regeling diervoeders 2012.
 
 ### Plantaardige en dierlijke producten, diervoeders – bepaling van het gehalte vocht; gewichtsverlies na verwarmen, gravimetrisch
 
-### Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen, bepalen en bevestigen van stoffen met hormonale werking en van beta-agonisten; vloeistofchromatografie en massaspectrometrische detectie
+### Analysemethoden in vaste scope
 
 ### Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen, bepalen en bevestigen van stoffen met hormonale werking; gaschromatografie en massaspectrometrische detectie
 
@@ -638,7 +662,7 @@ De Regeling diervoeders zoals die luidde bij de inwerkingtreding van deze regeli
 
 ## Bijlage 1. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2010-10-19&g=2010-10-19)
 
-### Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen van stoffen met hormonale werking en dierbehandelingsmiddelen; immunochemische detectie
+### Analysemethoden in flexibele scope
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -654,7 +678,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 5. Verrichtingen op verzoek
 
-#### § 7. Heronderzoek
+#### § 3. Aanwijzing schadelijke stoffen
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -686,7 +710,7 @@ Vervallen
 
 #### § 1. Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015764&artikel=7)
 
-#### § 3. Aanwijzing schadelijke stoffen
+#### § 1. Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015764&artikel=7)
 
 #### § 7. Heronderzoek
 
@@ -724,9 +748,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking en van beta-agonisten; vloeistofchromatografie en massaspectrometrische detectie**
 
-**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking; gaschromatografie en massaspectrometrische detectie**
+**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van dierbehandelingsmiddelen; vloeistofchromatografie, massaspectrometrische detectie en fluorescentie detectie**
 
-**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen van stoffen met hormonale werking en dierbehandelingsmiddelen; immunochemische detectie**
+**Dierlijke en plantaardige producten, diervoeder (grondstoffen) – Het aantonen, bepalen en bevestigen van natuurlijke toxinen; vloeistofchromatografie en massaspectrometrische detectie en UV detectie en fluorescentie**
 
 ##### Artikel 6a
 
@@ -742,9 +766,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. De aanvraag tot erkenning, registratie of goedkeuring, vereist op grond van Europese verordeningen
 
-### Hoofdstuk 4. Regels over de in- en uitvoer
+### Hoofdstuk 3a. Monitoring zoönotische salmonella
 
-### Hoofdstuk 5. Regels over retributies
+### Hoofdstuk 4. Regels over de in- en uitvoer
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -758,9 +782,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2020-06-06&g=2020-06-06)
 
-**Urine en diervoeder(grondstoffen) – Screening op hormonale activiteit; Gist bioassay met fluorescentiemeting**
+**Dierlijke en plantaardige producten – Bepalen van het gehalte aan dioxinen, dibenzofuranen, nonorthoPCB’s en monoortho PCB’s (en indicator PCB’s); GCHRMS**
 
-**Plantaardige en dierlijke producten, diervoeders, water – Bepalen van het gehalte stikstof/ruw eiwit; Kjeldahl**
+**Dierlijke en plantaardige producten – Bepalen van het gehalte aan bestrijdingsmiddelen, gaschromatografie en ECD**
 
 ##### Artikel 56a
 
@@ -786,13 +810,159 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stcrt. 
 
 - d. de gegevens in de database Kringloopwijzer over de hoeveelheden en het bruto fosforgehalte van voeders voor runderen, enkelvoudige voeders, vochtrijke voeders en ruwvoeders, geautomatiseerd worden aangeleverd via datakoppelingen met leveranciers. Indien datakoppelingen niet aanwezig zijn dient een jaaroverzicht van het betreffende geleverde voedermiddel te kunnen worden overlegd om de in de database Kringloopwijzer opgenomen waarden te kunnen onderbouwen.
 
-#### § 6. Nadere regelen omtrent het verstrekken van inlichtingen
+#### § 4. Nadere regelen over het gebruik van toevoegingsmiddelen, vervangende voederproteïnen of een product met een mogelijk ongewenste stof in een proefstadium of voor onderzoeksdoeleinden
 
 #### § 7. Heronderzoek
 
 ### Hoofdstuk 9. Slotbepalingen
 
 ## Bijlage 2. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2020-06-06&g=2020-06-06)
+
+**Plantaardige en dierlijke producten – Bepalen van metalen; ETAAS, FAAS en koude damp-AFS techniek**
+
+**Plantaardige en dierlijke producten, diervoeders – Bepaling van het gehalte vocht; gewichtsverlies na verwarmen, gravimetrisch**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 28a
+
+1. De producent van mengvoeders voor pluimvee bemonstert voedermiddelen bij de aanvoer per productielocatie, indien de jaarproductie van die locatie:
+
+- a. ten hoogste 4.000 ton bedraagt: ten minste eenmaal per kwartaal;
+
+- b. ten hoogste 8.000 ton bedraagt: ten minste tweemaal per kwartaal;
+
+- c. ten hoogste 10.000 ton bedraagt: ten minste driemaal per kwartaal;
+
+- d. ten hoogste 20.000 ton bedraagt: ten minste vijfmaal per kwartaal;
+
+- e. ten hoogste 30.000 ton bedraagt: ten minste achtmaal per kwartaal;
+
+- f. ten hoogste 40.000 ton bedraagt: ten minste tienmaal per kwartaal;
+
+- g. meer dan 40.000 ton bedraagt: ten minste 13 maal per kwartaal.
+
+2. Een monster als bedoeld in het eerste lid weegt ten minste 60 gram.
+
+##### Artikel 28b
+
+1. De producent van mengvoeders voor pluimvee bemonstert van de af te leveren partijen mengvoer van 24 ton die bestemd zijn voor:
+
+- a. vermeerderingsdieren die worden gehouden als grootouderdier of overgrootouderdier: ten minste 50%;
+
+- b. kippen of kalkoenen die worden opgefokt tot andere vermeerderingsdieren dan bedoeld in onderdeel a: ten minste 20%;
+
+- c. kippen of kalkoenen die worden gehouden als vermeerderingsdier: ten minste 10%;
+
+- d. vleeskuikens, leghennen en dieren die worden opgefokt tot leghen: ten minste 5%;
+
+- e. vleeskalkoenen: ten minste 1 op de 30.
+
+2. De leverancier van voedermiddelen die aan pluimveehouderijen worden geleverd, bemonstert van de af te leveren partijen voedermiddelen van 24 ton ten minste 1 op de 30 partijen.
+
+3. De monsters, bedoeld in het eerste en tweede lid, worden genomen uit de productstroom.
+
+4. In aanvulling op het eerste en tweede lid bemonstert de producent van mengvoeders en de leverancier van voedermiddelen voor pluimvee ten minste elke zes maanden op kritische punten in het productieproces of het logistieke proces, bedoeld in artikel 6 van [verordening (EG) nr. 183/2005](32005R0183) van het Europees Parlement en de Raad van 12 januari 2005 tot vaststelling van voorschriften voor diervoederhygiëne (PbEU 2005, L 35).
+
+5. Een monster als bedoeld in het eerste tot en met vierde lid weegt ten minste 60 gram.
+
+##### Artikel 28c
+
+1. De producent van mengvoeders die bestemd zijn voor herkauwende dieren, eenhoevigen of varkens neemt uit de productstroom per productielocatie waarvan de jaarproductie:
+
+- a. ten hoogste 4.000 ton bedraagt: ten minste twee monsters per kwartaal;
+
+- b. ten hoogste 6.000 ton bedraagt: ten minste drie monsters per kwartaal;
+
+- c. ten hoogste 8.000 ton bedraagt: ten minste vier monsters per kwartaal;
+
+- d. ten hoogste 10.000 ton bedraagt: ten minste vijf monsters per kwartaal;
+
+- e. ten hoogste 20.000 ton bedraagt: ten minste tien monsters per kwartaal;
+
+- f. ten hoogste 30.000 ton bedraagt: ten minste 15 monsters per kwartaal;
+
+- g. ten hoogste 40.000 ton bedraagt: ten minste 20 monsters per kwartaal;
+
+- h. meer dan 40.000 ton bedraagt: ten minste 25 monsters per kwartaal.
+
+2. Ten minste 50% van de monsters, bedoeld in het eerste lid, worden genomen van mengvoeders.
+
+3. Een monster, bedoeld in het eerste lid, weegt ten minste 60 gram.
+
+##### Artikel 28d
+
+1. De producent en de leverancier van voedermiddelen die bestemd zijn voor herkauwende dieren, eenhoevigen of varkens nemen per product per toeleverancier een monster van ten minste 60 gram per kwartaal.
+
+2. De producent en de leverancier kunnen ten aanzien van een partij voedermiddelen schriftelijk overeenkomen dat de bemonstering, bedoeld in het eerste lid, door de producent of de leverancier plaatsvindt.
+
+3. Bij seizoensgebonden of incidentele producten start de bemonstering, bedoeld in het eerste lid, bij de eerste lading.
+
+4. Het eerste lid is niet van toepassing, indien:
+
+- a. de zuurtegraad van de voedermiddelen ten hoogste 4,5 pH bedraagt bij spontane melkzuurfermentatie;
+
+- b. de zuurtegraad van de voedermiddelen ten hoogste 4 pH bedraagt, indien organische zuren zijn toegevoegd;
+
+- c. de zuurtegraad van de voedermiddelen ten hoogste 3,5 pH bedraagt, indien anorganische zuren zijn toegevoegd; of
+
+- d. de producent of de leverancier aantoont dat de zuurtegraad voldoende is om salmonella in de voedermiddelen te inactiveren.
+
+##### Artikel 28e
+
+1. De producent en de leverancier, bedoeld in dit hoofdstuk, laten de monsters onderzoeken in een laboratorium.
+
+2. De producent en de leverancier laten monsters waarin, na onderzoek als bedoeld in het eerste lid, de aanwezigheid van Salmonella is geconstateerd nader onderzoeken op de volgende serotypes:
+
+- a. Salmonella enteritidis;
+
+- b. Salmonella typhimurium;
+
+- c. Salmonella hadar;
+
+- d. Salmonella infantis;
+
+- e. Salmonella Virchow; en
+
+- f. Salmonella java.
+
+3. De serotypering van de monsters, bedoeld in het tweede lid, vindt plaats in een laboratorium dat daarvoor op grond van [artikel 3 van de Regeling erkenning veterinaire laboratoria](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&artikel=3) is erkend.
+
+##### Artikel 28f
+
+1. De producent en de leverancier bewaren de uitslag van het onderzoek, bedoeld in [artikel 28e](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3a&artikel=28e&z=2021-04-21&g=2021-04-21), gedurende een periode van twee jaar.
+
+2. Geconstateerde aanwezigheid van de serotypes, bedoeld in [artikel 28e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3a&artikel=28e&z=2021-04-21&g=2021-04-21), wordt onverwijld door de producent of de leverancier aan de minister en de betrokken pluimveehouder doorgegeven.
+
+### Hoofdstuk 5. Regels over retributies
+
+### Hoofdstuk 6. Overige bepalingen
+
+#### § 5. Verrichtingen op verzoek
+
+#### § 6. Nadere regelen omtrent het verstrekken van inlichtingen
+
+#### § 7. Heronderzoek
+
+### Hoofdstuk 7. Overige bepalingen
+
+### Hoofdstuk 8. Wijziging en intrekking van andere regelingen
+
+### Hoofdstuk 9. Slotbepalingen
+
+## Bijlage 1. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2021-04-21&g=2021-04-21)
+
+## Bijlage 2. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2021-04-21&g=2021-04-21)
+
+**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking en van beta-agonisten; vloeistofchromatografie en massaspectrometrische detectie**
+
+**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking; gaschromatografie en massaspectrometrische detectie**
+
+**Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen van stoffen met hormonale werking en dierbehandelingsmiddelen; immunochemische detectie**
+
+**Urine en diervoeder(grondstoffen) – Screening op hormonale activiteit; Gist bioassay met fluorescentiemeting**
+
+**Plantaardige en dierlijke producten, diervoeders, water – Bepalen van het gehalte stikstof/ruw eiwit; Kjeldahl**
 
 **Plantaardige en dierlijke producten, diervoeders, water – Bepaling van het gehalte lactose na chromatografische scheiding; LCRI**
 
