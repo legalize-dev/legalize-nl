@@ -4,7 +4,7 @@ identifier: "BWBR0039803"
 country: "nl"
 rank: "wet"
 publication_date: "2022-12-22"
-last_updated: "2018-01-01"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039803"
 soort: "wet"
@@ -51,21 +51,19 @@ Wijzigt de Gezondheids- en welzijnswet voor dieren.
 
 Wijzigt de Wet dieren.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Na de inwerkingtreding van [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=II&z=2021-04-21&g=2021-04-21), de [artikelen 9.15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.15), [9.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.16), [9.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.18), [9.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.19), [9.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.22), en [9.25, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.25), berusten de algemene maatregelen van bestuur, bedoeld in onderscheidenlijk de [artikelen 91c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91c), [91d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91d), [91f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91f), [91g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91g), [91j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91j), en [91m, eerste lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91m), op respectievelijk de artikelen 9.15, tweede en derde lid, 9.16, tweede en derde lid, 9.18, derde lid, 9.19, derde lid, 9.22, eerste lid, en 9.25, eerste lid, van de Wet dieren.
 
 ##### Artikel IV
 
-1. Op besluiten met betrekking tot de diergezondheidsheffing, genomen voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2018-01-01&g=2018-01-01) van deze wet, blijft het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.
+1. Op besluiten met betrekking tot de diergezondheidsheffing, genomen voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2021-04-21&g=2021-04-21) van deze wet, blijft het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.
 
-2. Op besluiten met betrekking tot de diergezondheidsheffing, genomen na het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2018-01-01&g=2018-01-01) van deze wet, maar voor het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=II&z=2018-01-01&g=2018-01-01) van deze wet, blijft het recht zoals dat gold onmiddellijk voorafgaand aan laatstbedoeld tijdstip van toepassing.
+2. Op besluiten met betrekking tot de diergezondheidsheffing, genomen na het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2021-04-21&g=2021-04-21) van deze wet, maar voor het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=II&z=2021-04-21&g=2021-04-21) van deze wet, blijft het recht zoals dat gold onmiddellijk voorafgaand aan laatstbedoeld tijdstip van toepassing.
 
 ##### Artikel IVa
 
-In afwijking van [artikel 91f, vierde lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91f) wordt de diergezondheidsheffing voor het houden van kippen, kalkoenen, eenden of dieren behorend tot een andere krachtens [artikel 91c, tweede lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91c) aangewezen soort gevogelte tussen het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2018-01-01&g=2018-01-01) en de eerstvolgende in artikel 91f, vierde lid, van de Gezondheids- en welzijnswet voor dieren bedoelde periode, geheven naar het aantal dieren dat aan het begin van de periode die op het tijdstip van inwerkingtreding van deze wet gaande is in een tot het bedrijf behorende stal of ruimte is binnengebracht. Daarbij wordt de hoogte van het bedrag waarop de diergezondheidsheffing wordt vastgesteld bepaald naar rato van het deel van die periode waarop deze wet van toepassing is.
+In afwijking van [artikel 91f, vierde lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91f) wordt de diergezondheidsheffing voor het houden van kippen, kalkoenen, eenden of dieren behorend tot een andere krachtens [artikel 91c, tweede lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91c) aangewezen soort gevogelte tussen het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039803&artikel=I&z=2021-04-21&g=2021-04-21) en de eerstvolgende in artikel 91f, vierde lid, van de Gezondheids- en welzijnswet voor dieren bedoelde periode, geheven naar het aantal dieren dat aan het begin van de periode die op het tijdstip van inwerkingtreding van deze wet gaande is in een tot het bedrijf behorende stal of ruimte is binnengebracht. Daarbij wordt de hoogte van het bedrag waarop de diergezondheidsheffing wordt vastgesteld bepaald naar rato van het deel van die periode waarop deze wet van toepassing is.
 
 ##### Artikel V
 
