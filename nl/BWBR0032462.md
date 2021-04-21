@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2020-07-07"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1.1. Begripsbepalingen
 
-In deze regeling wordt verstaan onder:
+1. In deze regeling wordt verstaan onder:
 
 - –. **besluit:** [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335);
 
@@ -53,6 +53,8 @@ In deze regeling wordt verstaan onder:
 - –. **verordening (EG) nr. 999/2001:** [verordening (EG) nr. 999/2001](32001R0999) van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001 L 147);
 
 - –. **verordening (EG) nr. 834/2007:** [verordening (EG) nr. 834/2007](32007R0834) van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van [Verordening (EEG) nr. 2092/91](31991R2092) (PbEU 2007 L 189).
+
+2. Deze regeling berust mede op de [artikelen 1A1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=1a.1), en [3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6).
 
 ##### Artikel 1.2. Minister bevoegde instantie EU-verordeningen
 
@@ -76,9 +78,11 @@ In deze paragraaf wordt verstaan onder:
 
 - –. **verordening (EG) nr. 2074/2005:** [verordening (EG) nr. 2074/2005](32005R2074) van de Commissie van 5 december 2005 tot vaststelling van uitvoeringsmaatregelen voor bepaalde producten die onder [Verordening (EG) nr. 853/2004](32004R0853) vallen en voor de organisatie van officiële controles overeenkomstig de [Verordeningen (EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882), tot afwijking van [Verordening (EG) nr. 852/2004](32004R0852) en tot wijziging van [Verordeningen (EG) nr. 853/2004](32004R0853) en [(EG) nr. 854/2004](32004R0854) (PbEG 2005 L 338);
 
-- **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoeder-wetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plant-gezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017 L 95);
+- –. **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoeder-wetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plant-gezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017 L 95);
 
-- **gedelegeerde verordening (EU) nr. 2019/624:** gedelegeerde verordening (EU) 2019/624 van de Commissie van 8 februari 2019 betreffende specifieke voorschriften voor de uitvoering van officiële controles van de productie van vlees en voor de productie- en de heruitzettingsgebieden van levende tweekleppige weekdieren overeenkomstig Verordening (EU) 2017/625 van het Europees Parlement en de Raad (PbEU L 131).
+- –. **gedelegeerde verordening (EU) nr. 2019/624:** gedelegeerde verordening (EU) 2019/624 van de Commissie van 8 februari 2019 betreffende specifieke voorschriften voor de uitvoering van officiële controles van de productie van vlees en voor de productie- en de heruitzettingsgebieden van levende tweekleppige weekdieren overeenkomstig Verordening (EU) 2017/625 van het Europees Parlement en de Raad (PbEU L 131);
+
+- –. **verordening (EU) 2019/627:** uitvoeringsverordening (EU) 2019/627 van de Commissie van 15 maart 2019 tot vaststelling van eenvormige praktische regelingen voor de uitvoering van officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong overeenkomstig Verordening (EU) 2017/625 van het Europees Parlement en de Raad en tot wijziging van [Verordening (EG) nr. 2074/2005](32005R2074) van de Commissie wat officiële controles betreft (Pb EU 2019, L 131).
 
 ##### Artikel 2.2. Toepassingsbereik
 
@@ -102,7 +106,9 @@ Vervallen
 
 - e. de artikelen 3, 4, 5, eerste lid, tweede lid, eerste alinea, en vierde en vijfde lid 7, eerste, tweede en vierde lid, en 9 van [verordening (EG) nr. 2073/2005](32005R2073);
 
-- f. de artikelen 2, 4, en 9 van [verordening (EG) nr. 2075/2005](32005R2075).
+- f. de artikelen 2, 4, en 9 van [verordening (EG) nr. 2075/2005](32005R2075);
+
+- g. artikel 12, vierde lid, van verordening (EU) nr. 2019/627.
 
 2. Het eerste lid is niet van toepassing, indien een bepaalde handeling of toestand in deze paragraaf of door middel van een ontheffing is toegestaan en is voldaan aan daarbij gestelde voorwaarden.
 
@@ -446,15 +452,27 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2020-07-07&g=2020-07-07);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2021-04-21&g=2021-04-21);
+
+- –. **dierenarts van het centrum:** dierenarts als bedoeld in artikel 2, onderdeel 20, van verordening (EU) nr. 2020/686;
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
+
+- –. **URL:** uniform resource locator;
 
 - –. **verordening (EG) nr. 1069/2009:** [verordening (EG) nr. 1069/2009](32009R1069) van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van [Verordening (EG) nr. 1774/2002](32002R1774) (PbEU 2009 L 300);
 
 - –. **verordening (EU) nr. 142/2011:** verordening (EU) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van [Verordening (EG) nr. 1069/2009](32009R1069) van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van [Richtlijn 97/78/EG](31997L0078) van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn (PbEU 2011 L 54);
 
-- –. **verordening (EG) nr. 1523/2007:** [verordening (EG) nr. 1523/2007](32007R1523) van het Europees Parlement en de Raad van 11 december 2007 houdende een verbod op het in de handel brengen, de invoer naar en de uitvoer uit de Gemeenschap van katten- en hondenbont en van producten die dergelijk bont bevatten (PbEG 2007 L 343).
+- –. **verordening (EG) nr. 1523/2007:** [verordening (EG) nr. 1523/2007](32007R1523) van het Europees Parlement en de Raad van 11 december 2007 houdende een verbod op het in de handel brengen, de invoer naar en de uitvoer uit de Gemeenschap van katten- en hondenbont en van producten die dergelijk bont bevatten (PbEG 2007 L 343);
+
+- –. **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoeder-wetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plant-gezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
+
+- –. **verordening (EU) nr. 2019/2035:** gedelegeerde verordening (EU) 2019/2035 van de Commissie van 28 juni 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren (PbEU 2019, L 314);
+
+- –. **verordening (EU) nr. 2020/686:** gedelegeerde verordening (EU) 2020/686 van de Commissie van 17 december 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft de erkenning van inrichtingen voor levende producten en de traceerbaarheids- en diergezondheidsvoorschriften voor verplaatsingen binnen de Unie van levende producten van bepaalde gehouden landdieren (PbEU 2020, L 174);
+
+- –. **verordening (EU) nr. 2020/999:** uitvoeringsverordening (EU) 2020/999 van de Commissie van 9 juli 2020 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft de erkenning van inrichtingen voor levende producten en de traceerbaarheid van levende producten van runderen, varkens, schapen, geiten en paardachtigen (PbEU 2020, L 221).
 
 #### § 2. : Uitvoering EU-regels
 
@@ -614,7 +632,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](32009R1069), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2020-07-07&g=2020-07-07) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2021-04-21&g=2021-04-21) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -660,15 +678,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2020-07-07&g=2020-07-07), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2021-04-21&g=2021-04-21), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2020-07-07&g=2020-07-07), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](32009R1069) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2021-04-21&g=2021-04-21), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](32009R1069) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2020-07-07&g=2020-07-07), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2021-04-21&g=2021-04-21), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2020-07-07&g=2020-07-07) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2021-04-21&g=2021-04-21) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -676,7 +694,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.26. Registratie kadavers runderen door ondernemer
 
-1. De ondernemer registreert de identificatiecode van het merk, bedoeld in [artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=8) van een door hem opgehaalde kadaver van een rund.
+1. De ondernemer registreert de identificatiecode van het merk, bedoeld in artikel 38 van verordening (EU) nr. 2019/2035, van een door hem opgehaalde kadaver van een rund.
 
 2. Binnen drie werkdagen nadat het kadaver is opgehaald meldt de ondernemer de identificatiecode van het merk aan de Minister.
 
@@ -692,7 +710,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2020-07-07&g=2020-07-07).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2021-04-21&g=2021-04-21).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
@@ -704,7 +722,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2020-07-07&g=2020-07-07), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2020-07-07&g=2020-07-07), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2020-07-07&g=2020-07-07) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2020-07-07&g=2020-07-07), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2021-04-21&g=2021-04-21), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2021-04-21&g=2021-04-21), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2021-04-21&g=2021-04-21) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2021-04-21&g=2021-04-21), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
@@ -908,7 +926,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 1. Een broederij registreert het aantal ingelegde broedeieren, bedoeld in artikel 8, eerste lid, van verordening (EG) nr. 617/2008, binnen vijf werkdagen na afloop van de betreffende kalendermaand:
 
-- a. via een elektronisch portaal dat op grond van [artikel 38hh van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38hh) door de minister is aangewezen als elektronisch portaal voor de registratie van die gegevens, of
+- a. via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) door de minister is aangewezen als elektronisch portaal voor de registratie van die gegevens, of
 
 - b. bij de minister, voor zover voor de registratie van die gegevens geen aanwijzing als bedoeld in onderdeel a heeft plaatsgevonden.
 
@@ -960,7 +978,7 @@ Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan gr
 
 ##### Artikel 2.35. Uitloop
 
-1. Bij gebruik van de vermeldingen, genoemd in [artikel 2.31, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2020-07-07&g=2020-07-07):
+1. Bij gebruik van de vermeldingen, genoemd in [artikel 2.31, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2021-04-21&g=2021-04-21):
 
 - a. hebben de kippen ten minste van het einde van de ochtendschemering tot het begin van de avondschemering of ten minste tien uur per dag toegang tot een uitloopruimte in de vrije lucht;
 
@@ -968,7 +986,7 @@ Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan gr
 
 - c. hebben de kippen toegang tot de uitloop vanaf uiterlijk de 28e levensdag.
 
-2. Bij gebruik van de vermelding, genoemd in [artikel 2.31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.31&z=2020-07-07&g=2020-07-07), mag de bezettingsdichtheid in de stal worden verhoogd tot dertien kippen per vierkante meter.
+2. Bij gebruik van de vermelding, genoemd in [artikel 2.31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.31&z=2021-04-21&g=2021-04-21), mag de bezettingsdichtheid in de stal worden verhoogd tot dertien kippen per vierkante meter.
 
 ##### Artikel 2.36. Verkoop aan particulieren
 
@@ -1030,7 +1048,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 1. Indien een ontvanger van boerderijmelk een melkveehouder uitbetaalt op basis van het vetgehalte of het eiwitgehalte, wordt dit gehalte per leverantie bepaald.
 
-2. Monsters boerderijmelk die bestemd zijn voor de bepaling van vetgehalte of eiwitgehalte worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2020-07-07&g=2020-07-07), bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen.
+2. Monsters boerderijmelk die bestemd zijn voor de bepaling van vetgehalte of eiwitgehalte worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2021-04-21&g=2021-04-21), bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen.
 
 3. De bepaling van het vetgehalte geschiedt overeenkomstig referentiemethode NEN-EN-ISO 1211:2010 of een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig die referentiemethode.
 
@@ -1048,11 +1066,11 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 1. Een ontvanger van boerderijmelk onderzoekt iedere leverantie van boerderijmelk op de aanwezigheid van melkvreemde bacteriegroeiremmende stoffen.
 
-2. Monsters boerderijmelk die bestemd zijn voor onderzoek op melkvreemde bacteriegroeiremmende stoffen worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2020-07-07&g=2020-07-07), bewaard bij een temperatuur van ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen. Gedurende een periode van ten hoogste 24 uur kan de temperatuur ten hoogste 20 °C bedragen.
+2. Monsters boerderijmelk die bestemd zijn voor onderzoek op melkvreemde bacteriegroeiremmende stoffen worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2021-04-21&g=2021-04-21), bewaard bij een temperatuur van ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen. Gedurende een periode van ten hoogste 24 uur kan de temperatuur ten hoogste 20 °C bedragen.
 
 3. Het onderzoek op melkvreemde bacteriegroeiremmende stoffen geschiedt volgens een onderzoekschema dat bestaat uit een screeningsmethode, een bevestigingsmethode en een test ter nadere kwalificering van de groeiremming. Met de screeningsmethode worden monsters rauwe melk opgespoord die aantoonbaar bacteriegroeiremmende stoffen kunnen bevatten. Met de bevestigingsproef wordt nagegaan of na verhitting van de met de screeningsmethode opgespoorde monsters de bacteriegroeiremming in deze monsters wordt bevestigd.
 
-4. De gebruikte screeningsmethode en bevestigingsmethode kunnen tenminste de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=2&z=2020-07-07&g=2020-07-07) genoemde concentraties van bacteriegroeiremmende stoffen aantonen.
+4. De gebruikte screeningsmethode en bevestigingsmethode kunnen tenminste de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=2&z=2021-04-21&g=2021-04-21) genoemde concentraties van bacteriegroeiremmende stoffen aantonen.
 
 5. Indien ook in de bevestigingsproef sprake is van groeiremming, wordt een test uitgevoerd ter nadere kwalificering van de aard en mate van de groeiremming.
 
@@ -1134,7 +1152,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 ##### Artikel 2.50. Bepaling van het chloroformgehalte
 
-1. De bepaling van het chloroformgehalte van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt met een methode die berust op het verwarmen van een hoeveelheid monster in een afgesloten flesje met een septum. Aansluitend wordt een deel van de bovenstaande gasfase in een gaschromatograaf geïnjecteerd. Na scheiding van de gehalogeneerde koolwaterstoffen vindt detectie plaats middels een EC-detector en wordt het chloroformgehalte met behulp van een kalibratiecurve gekwantificeerd. Het gemeten gehalte wordt vervolgens gecombineerd met het overeenkomstig [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.35&z=2020-07-07&g=2020-07-07) vastgestelde vetgehalte van het monster.
+1. De bepaling van het chloroformgehalte van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt met een methode die berust op het verwarmen van een hoeveelheid monster in een afgesloten flesje met een septum. Aansluitend wordt een deel van de bovenstaande gasfase in een gaschromatograaf geïnjecteerd. Na scheiding van de gehalogeneerde koolwaterstoffen vindt detectie plaats middels een EC-detector en wordt het chloroformgehalte met behulp van een kalibratiecurve gekwantificeerd. Het gemeten gehalte wordt vervolgens gecombineerd met het overeenkomstig [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.35&z=2021-04-21&g=2021-04-21) vastgestelde vetgehalte van het monster.
 
 2. Het chloroformgehalte wordt uitgedrukt in milligram chloroform per kilogram vet.
 
@@ -1142,7 +1160,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 ##### Artikel 2.51. Bewaartemperatuur
 
-Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.44 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.44&z=2020-07-07&g=2020-07-07), worden in afwijking van het bepaalde in [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2020-07-07&g=2020-07-07):
+Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.44 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.44&z=2021-04-21&g=2021-04-21), worden in afwijking van het bepaalde in [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2021-04-21&g=2021-04-21):
 
 - a. bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en binnen 36 uur na monsterneming in onderzoek genomen of
 
@@ -1150,7 +1168,7 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.52. Melkcontrolestation
 
-1. Een ontvanger van boerderijmelk draagt er zorg voor dat de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2020-07-07&g=2020-07-07), worden verricht door een melkcontrolestation dat beschikt over een ter zake deskundige leiding en over een voor het te verrichten onderzoek voldoende outillage en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025:2005.
+1. Een ontvanger van boerderijmelk draagt er zorg voor dat de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2021-04-21&g=2021-04-21), worden verricht door een melkcontrolestation dat beschikt over een ter zake deskundige leiding en over een voor het te verrichten onderzoek voldoende outillage en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025:2005.
 
 2. Een melkcontrolestation beschikt over een gedocumenteerd en adequaat functionerend systeem waarmee de kwaliteit van de werkzaamheden wordt geborgd en over een gedetailleerde en actuele beschrijving van de methoden die worden toegepast voor het onderzoek van de samenstelling en kwaliteit van boerderijmelk.
 
@@ -1158,9 +1176,9 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.53. Kwaliteitsborging
 
-1. De ontvanger van boerderijmelk beschikt over een door Stichting COKZ goedgekeurd handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2020-07-07&g=2020-07-07) en [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2020-07-07&g=2020-07-07) wordt gerealiseerd, beheerst en geborgd.
+1. De ontvanger van boerderijmelk beschikt over een door Stichting COKZ goedgekeurd handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2021-04-21&g=2021-04-21) en [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2021-04-21&g=2021-04-21) wordt gerealiseerd, beheerst en geborgd.
 
-2. De ontvanger van boerderijmelk legt het systeem van de uitvoering en beoordeling van de resultaten van de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2020-07-07&g=2020-07-07), vast. Dit systeem wordt aan de betrokken melkveehouders bekendgemaakt.
+2. De ontvanger van boerderijmelk legt het systeem van de uitvoering en beoordeling van de resultaten van de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2021-04-21&g=2021-04-21), vast. Dit systeem wordt aan de betrokken melkveehouders bekendgemaakt.
 
 ##### Artikel 2.54. Administratie
 
@@ -1174,9 +1192,9 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.55. Gebruik van rijdende melkontvangsten
 
-1. De ontvanger van boerderijmelk die bij de bepaling van de geleverde hoeveelheid boerderijmelk, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2020-07-07&g=2020-07-07), gebruik maakt van een rijdende melkontvangst neemt het bepaalde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2020-07-07&g=2020-07-07) in acht.
+1. De ontvanger van boerderijmelk die bij de bepaling van de geleverde hoeveelheid boerderijmelk, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2021-04-21&g=2021-04-21), gebruik maakt van een rijdende melkontvangst neemt het bepaalde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2021-04-21&g=2021-04-21) in acht.
 
-2. De ontvanger van boerderijmelk, bedoeld in het eerste lid, beschikt over een handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2020-07-07&g=2020-07-07) wordt gerealiseerd, beheerst en geborgd.
+2. De ontvanger van boerderijmelk, bedoeld in het eerste lid, beschikt over een handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2021-04-21&g=2021-04-21) wordt gerealiseerd, beheerst en geborgd.
 
 ##### Artikel 2.56. Eisen aan rijdende melkontvangsten
 
@@ -1204,13 +1222,13 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 2. In de data-apparatuur op een rijdende melkontvangst kan het volume van de geleverde boerderijmelk worden omgerekend van liters naar kilogrammen melk, mits op de plaats van inname van de melk het geregistreerde aantal liters en de omrekeningsfactor inzichtelijk zijn.
 
-3. Indien het volume van de geleverde boerderijmelk wordt omgerekend van liters naar kilogrammen melk geschiedt dit door het aantal liters overeenkomstig een door de ontvanger van boerderijmelk overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2020-07-07&g=2020-07-07) vast te stellen omrekeningsfactor om te rekenen in kilogrammen, waarbij hoeveelheden tot een halve kg worden afgerond naar beneden en hoeveelheden van een halve tot één kg worden afgerond naar boven. De omrekeningsfactor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk legt vast op welke wijze de objectieve vaststelling van de omrekeningsfactor wordt geborgd.
+3. Indien het volume van de geleverde boerderijmelk wordt omgerekend van liters naar kilogrammen melk geschiedt dit door het aantal liters overeenkomstig een door de ontvanger van boerderijmelk overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2021-04-21&g=2021-04-21) vast te stellen omrekeningsfactor om te rekenen in kilogrammen, waarbij hoeveelheden tot een halve kg worden afgerond naar beneden en hoeveelheden van een halve tot één kg worden afgerond naar boven. De omrekeningsfactor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk legt vast op welke wijze de objectieve vaststelling van de omrekeningsfactor wordt geborgd.
 
-4. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van een ontvanger van boerderijmelk bewaard onder vermelding van de datum van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek. In geval van een uniforme omrekeningsfactor als bedoeld in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2020-07-07&g=2020-07-07), omvatten deze gegevens de datum, het aantal liters en kilogrammen en de gevonden omrekeningsfactor voor iedere in gebruik zijnde rijdende melkontvangst.
+4. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van een ontvanger van boerderijmelk bewaard onder vermelding van de datum van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek. In geval van een uniforme omrekeningsfactor als bedoeld in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2021-04-21&g=2021-04-21), omvatten deze gegevens de datum, het aantal liters en kilogrammen en de gevonden omrekeningsfactor voor iedere in gebruik zijnde rijdende melkontvangst.
 
 5. Indien de omrekeningsfactor voor een rijdende melkontvangst kleiner is dan 1,028 of groter is dan 1,035, wordt binnen één week na vaststelling van deze omrekeningsfactor opnieuw de omrekeningsfactor van deze rijdende melkontvangst vastgesteld. Indien de omrekeningsfactor wederom kleiner is dan 1,028 of groter is dan 1,035, wordt de rijdende melkontvangst binnen 10 werkdagen na de tweede weegcontrole voor een keuring bij de erkende keurder aangeboden en wordt hiervan binnen één week na aanbieding melding gemaakt aan Stichting COKZ.
 
-6. Een gewijzigde rijdende melkontvangst wordt door de ontvanger van boerderijmelk direct aan een weegcontrole onderworpen. Deze weegcontrole wordt uitgevoerd overeenkomstig de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2020-07-07&g=2020-07-07), beschreven werkwijze. Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing.
+6. Een gewijzigde rijdende melkontvangst wordt door de ontvanger van boerderijmelk direct aan een weegcontrole onderworpen. Deze weegcontrole wordt uitgevoerd overeenkomstig de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2021-04-21&g=2021-04-21), beschreven werkwijze. Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 2.59. Deskundigheid
 
@@ -1368,9 +1386,152 @@ Het maximumniveau, bedoeld in artikel 8, onderdeel d, van verordening (EG) nr. 1
 
 #### § 4. : Honden- en kattenbont
 
-### Hoofdstuk 4. : Overige bepalingen
+### Hoofdstuk 3a. Levende producten
 
 ## Bijlage 3. behorende bij [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.58&z=2020-07-07&g=2020-07-07), berekening van de omrekeningsfactor
+
+### B. Gebruik van meerdere rijdende melkontvangsten
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+#### § 3a.1. Algemeen
+
+##### Artikel 3a.1. Middel registratie inrichting levende producten
+
+De inkennisstelling van en de verstrekking van de gegevens over een inrichting waar levende producten worden gewonnen, geproduceerd, verwerkt of opgeslagen, bedoeld in artikel 84, eerste lid, onderdelen a en b, van verordening (EU) nr. 2016/429, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+
+##### Artikel 3a.2. Aanvullende gegevens registratie inrichting levende producten
+
+In aanvulling op artikel 84, eerste lid, onderdeel b, van verordening (EU) nr. 2016/429 verstrekt de exploitant van een inrichting waar sperma van runderen, varkens of paardachtigen wordt gewonnen, geproduceerd, verwerkt of opgeslagen met het oog op de registratie daarvan, de volgende gegevens:
+
+- a. indien beschikbaar, de URL van de website van de inrichting; en
+
+- b. de naam van de dierenarts van het centrum.
+
+##### Artikel 3a.3. Termijn inkennisstelling wijziging gegevens registratie
+
+1. Een exploitant van een inrichting waar levende producten worden gewonnen, geproduceerd, verwerkt of opgeslagen doet de inkennisstelling, bedoeld in artikel 84, tweede lid, van verordening (EU) nr. 2016/429, binnen zeven werkdagen, te rekenen vanaf de dag dat de desbetreffende wijziging of stopzetting heeft plaatsgevonden.
+
+2. Indien de gegevens, bedoeld in [artikel 3A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3a&paragraaf=3a.1&artikel=3a.2&z=2021-04-21&g=2021-04-21), wijzigen, verstrekt de exploitant binnen zeven werkdagen de gewijzigde gegevens.
+
+##### Artikel 3a.4. Uitzondering registratieplicht bepaalde inrichtingen
+
+(gereserveerd)
+
+##### Artikel 3a.5. Middel erkenning inrichting levende producten
+
+Een aanvraag tot erkenning van een inrichting als bedoeld in artikel 94, eerste lid, onderdeel b, van verordening (EU) nr. 2016/429 of van een broederij van waaruit broedeieren worden verplaatst als bedoeld in onderdeel c van dat artikellid, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+
+##### Artikel 3a.6. Termijn inkennisstelling gegevens erkenning
+
+1. De termijn, bedoeld in artikel 4, eerste lid, verordening (EU) nr. 2020/999, bedraagt ten hoogste 90 dagen voorafgaand aan de dag waarop een exploitant als bedoeld in artikel 94, eerste lid, onderdeel b, van verordening (EU) nr. 2016/429 voornemens is de inrichting voor levende producten te exploiteren.
+
+2. Een exploitant van een inrichting waar levende producten worden gewonnen, geproduceerd, behandeld of opgeslagen, of van een broederij van waaruit broedeieren worden verplaatst, doet de inkennisstelling, bedoeld in artikel 96, tweede lid, van verordening (EU) nr. 2016/429, binnen zeven werkdagen nadat een gebeurtenis als bedoeld in dat artikel heeft plaatsgevonden.
+
+3. Indien de gegevens, bedoeld in artikel 3, eerste lid, onderdeel b, onder ii, van verordening (EU) nr. 2020/999, of het derde lid, wijzigen, verstrekt de exploitant binnen zeven werkdagen de gewijzigde gegevens.
+
+##### Artikel 3a.7. Aanvullende gegevens erkenning inrichting levende producten
+
+In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2020/999 verstrekt de exploitant, bedoeld in artikel 7, eerste lid, van verordening (EU) nr. 2020/686, indien beschikbaar, de URL van de website van de inrichting binnen de termijn, bedoeld in [artikel 3A.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3a&paragraaf=3a.1&artikel=3a.6&z=2021-04-21&g=2021-04-21).
+
+##### Artikel 3a.8. Documentatieplicht exploitant inrichting levende producten
+
+1. Een exploitant als bedoeld in artikel 103, eerste lid, aanhef, van verordening (EU) nr. 2016/429 legt de gegevens, bedoeld in dat artikellid en voor zover van toepassing, artikel 8, eerste lid, van verordening (EU) nr. 2020/686, vast binnen 3 werkdagen, te rekenen vanaf de dag waarop de gebeurtenis heeft plaatsgevonden.
+
+2. De minimumduur, bedoeld in artikel 103, derde lid, onderdeel b, van verordening (EU) nr. 2016/429, bedraagt drie jaar.
+
+##### Artikel 3a.9. Uitvoeren tests quarantainevoorziening inrichting levende producten
+
+Het is toegestaan om de tests, bedoeld in artikel 25, eerste lid, van verordening (EU) nr. 2020/686, uit te voeren op de in dat lid bedoelde monsters.
+
+#### § 3a.2. Handel levende producten binnen Nederland
+
+##### Artikel 3a.10. Voorschriften inrichting voor Nederlandse markt
+
+1. De artikelen 4, eerste lid, 8, eerste lid, 10, 15, 19, 24, 26, 28 en 29 van verordening (EU) nr. 2020/686 en artikel 5, eerste lid, van verordening (EU) nr. 2020/999 zijn van overeenkomstige toepassing op inrichtingen waar sperma van uit Nederland afkomstige runderen, varkens of paardachtigen wordt gewonnen, geproduceerd, verwerkt of opgeslagen dat is bestemd voor een inrichting in Nederland, met dien verstande dat:
+
+- a. in afwijking van de artikelen 19, eerste lid, onderdeel a, onder ii, en 24, eerste lid, onderdeel a, onder ii, van verordening (EU) nr. 2020/686, er geen onderzoek wordt gedaan naar de aanwezigheid van het abortus blauw-virus bij donorvarkens; en
+
+- b. in afwijking van de artikelen 19, eerste lid, onderdeel a, onder iv, en 24, eerste lid, onderdeel a, onder iv, van verordening (EU) nr. 2020/686, er geen onderzoek wordt gedaan naar de aanwezigheid van infectieuze anemie bij donorhengsten en paardensperma.
+
+2. De artikelen 16, 18, 20, 21, 23 en 27 van verordening (EU) nr. 2020/686 zijn van overeenkomstige toepassing op de dierenarts van het centrum waar sperma van uit Nederland afkomstige runderen, varkens of paardachtigen wordt gewonnen, geproduceerd, verwerkt of opgeslagen dat bestemd is voor een inrichting in Nederland, met dien verstande dat:
+
+- a. in afwijking van de artikelen 16, onderdeel f, onder ii, en 21, eerste lid, onderdeel b, van verordening (EU) nr. 2020/686, er geen onderzoek wordt gedaan naar de aanwezigheid van het abortus blauw-virus bij donorvarkens;
+
+- b. in afwijking van artikel 18, onderdeel c, onder i, van verordening (EU) nr. 2020/686, de aanwezigheid van het abortus blauw-virus bij donorvarkens niet hoeft te worden gemeld;
+
+- c. artikel 21, tweede lid, onderdeel d, van verordening (EU) nr. 2020/686, niet van toepassing is op donorvarkens;
+
+- d. in afwijking van de artikelen 16, onderdeel f, onder iv, en 23, eerste lid, onderdeel c, van verordening (EU) nr. 2020/686, er geen onderzoek wordt gedaan naar de aanwezigheid van infectieuze anemie bij donorhengsten en paardensperma; en
+
+- e. voor de toepassing van artikel 23, eerste lid, donorhengsten ieder jaar vóór het begin van het dekseizoen aan de in dat lid gestelde voorschriften voldoen, in plaats van de in dat lid gestelde termijnen vóór de winning.
+
+##### Artikel 3a.11. Erkend laboratorium
+
+De onderzoeken die op grond van [artikel 3A.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3a&paragraaf=3a.2&artikel=3a.10&z=2021-04-21&g=2021-04-21) plaatsvinden, worden verricht door een laboratorium dat daarvoor is erkend op grond van artikel 3 van de Regeling erkenning veterinaire laboratoria.
+
+##### Artikel 3a.12. Vervoer sperma begeleidende documenten
+
+Sperma dat afkomstig is van een inrichting waar sperma van uit Nederland afkomstige runderen, varkens of paardachtigen wordt gewonnen, geproduceerd, verwerkt of opgeslagen en dat wordt verplaatst naar een andere inrichting in Nederland, gaat vergezeld van een geleidebiljet waarop de volgende gegevens zijn vermeld:
+
+- a. de inrichting van oorsprong en het unieke registratienummer van die inrichting, bedoeld in artikel 93 van verordening (EU) nr. 2016/429;
+
+- b. de datum van verplaatsing;
+
+- c. het merkteken van het betrokken sperma;
+
+- d. de identificatiecode van de donordieren; en
+
+- e. de naam, het adres en, indien van toepassing, het unieke registratienummer van de inrichting van bestemming, bedoeld in artikel 93 van verordening (EU) nr. 2016/429.
+
+##### Artikel 3a.13. Gegevens vervoerder en handelaar sperma
+
+1. Degene die sperma vervoert of verhandelt dat afkomstig is van een inrichting waar sperma van uit Nederland afkomstige runderen of varkens wordt gewonnen, geproduceerd, verwerkt of opgeslagen en dat wordt verplaatst naar een andere inrichting in Nederland, houdt over dat sperma de volgende gegevens bij, onverwijld nadat zij bekend zijn:
+
+- a. de datum van iedere verplaatsing van sperma;
+
+- b. het merkteken van het betrokken sperma;
+
+- c. het ontvangen of afgeleverde aantal doses sperma;
+
+- d. de naam en het adres van degene die het sperma vervoert of verhandelt; en
+
+- e. het unieke registratienummer van de inrichting van oorsprong en bestemming, bedoeld in artikel 93 van verordening (EU) nr. 2016/429.
+
+2. De gegevens, bedoeld in het eerste lid, worden ten minste drie jaar bewaard.
+
+### Hoofdstuk 3b. Handel met derde landen van dierlijke producten
+
+##### Artikel 3b.1. Uitvoeren vereiste test zonder erkend laboratorium
+
+Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.10), geen laboratorium is erkend voor een onderzoek naar de vereiste diergezondheidsstatus van een naar een derde land uit te voeren dierlijk product, verricht Wageningen Bioveterinary Research dat onderzoek.
+
+### Hoofdstuk 4. : Overige bepalingen
+
+## Bijlage 1. behorende bij [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2021-04-21&g=2021-04-21)
+
+Vervallen
+
+## Bijlage 2. behorende bij [artikel 2.42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.42&z=2021-04-21&g=2021-04-21), concentraties van bacteriegroeiremmende stoffen
+
+| Stof | Aantoonbare concentraties |
+| --- | --- |
+| **Beta-lactam antibiotica** |   |
+| benzylpenicilline | 0,003 IE/ml |
+| ampicilline | 0,002 µg/ml |
+| cloxacilline | 0,02 µg/ml |
+| cefalexine | 0,1 µg/ml |
+| ceftiofur | 0,05 µg/ml |
+|   |   |
+| **Overige antibiotica** |   |
+| sulfamethazine | 0,2 µg/ml |
+| oxytetracycline | 0,2 µg/ml |
+| neomycine | 0,5 µg/ml |
+| tylosine | 0,05 µg/ml |
+
+## Bijlage 3. behorende bij [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.58&z=2021-04-21&g=2021-04-21), berekening van de omrekeningsfactor
+
+### A. Gebruik van één rijdende melkontvangst
 
 ### B. Gebruik van meerdere rijdende melkontvangsten
 
