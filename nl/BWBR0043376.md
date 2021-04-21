@@ -4,7 +4,7 @@ identifier: "BWBR0043376"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-21"
-last_updated: "2020-04-11"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043376"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d). **DG:** de directeur-generaal van de Belastingdienst, de directeur-generaal Toeslagen en de directeur-generaal Douane;
 
-- e). **Personeelsraadspersonen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043376&artikel=2&z=2020-04-11&g=2020-04-11) als zodanig bedoelde personen;
+- e). **Personeelsraadspersonen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043376&artikel=2&z=2021-04-21&g=2021-04-21) als zodanig bedoelde personen;
 
 - f). **Betrokkene:** een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon of organisatie die zich op een andere wijze in relatie tot de organisatie verhoudt.
 
@@ -78,7 +78,7 @@ De personeelsraadspersoon heeft tot taak:
 
 1. Als personeelsraadspersonen worden benoemd de heer A.M. Hol en mevrouw H.A.G. Splinter-van Kan.
 
-2. De benoeming geschiedt met ingang van 1 maart 2020 en voor de duur van één jaar.
+2. De benoeming geschiedt met ingang van 1 maart 2020 en voor de duur van anderhalf jaar.
 
 3. De personeelsraadspersonen zijn bereikbaar via: PersoneelsraadspersonenBelastingdienst@rijksoverheid.nl.
 
