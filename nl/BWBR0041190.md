@@ -4,7 +4,7 @@ identifier: "BWBR0041190"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-07-25"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041190"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasr
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het instellingen betreft als bedoeld in artikel 1a, vierde lid, onderdeel g, h, i, k en l, van de Wet ter voorkoming van witwassen en financieren van terrorisme, de medewerkers van het onderdeel de Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft, van de Belastingdienst.
+Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het instellingen betreft als bedoeld in [artikel 1a, vierde lid, onderdeel g, h, i, j, k, o en p, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), de medewerkers van het onderdeel de Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft, van de Belastingdienst.
 
 ##### Artikel 2
 
@@ -62,13 +62,13 @@ Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming v
 
 ##### Artikel 4
 
-1. Aan de directeur-generaal van de Belastingdienst wordt mandaat verleend om te beslissen op bezwaarschriften tegen op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=2&z=2018-07-25&g=2018-07-25), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=3&z=2018-07-25&g=2018-07-25), in mandaat genomen besluiten.
+1. Aan de directeur-generaal van de Belastingdienst wordt mandaat verleend om te beslissen op bezwaarschriften tegen op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=2&z=2021-04-22&g=2021-04-22), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=3&z=2021-04-22&g=2021-04-22), in mandaat genomen besluiten.
 
 2. De directeur-generaal van de Belastingdienst kan ondermandaat verlenen aan de landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst, voor zover dit ziet op besluiten die de landelijk directeur niet in mandaat neemt.
 
 ##### Artikel 5
 
-De directeur-generaal van de Belastingdienst en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2018-07-25&g=2018-07-25), bedoelde landelijk directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+De directeur-generaal van de Belastingdienst en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2021-04-22&g=2021-04-22), bedoelde landelijk directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
 
 ##### Artikel 6
 
