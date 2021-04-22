@@ -4,7 +4,7 @@ identifier: "BWBR0034299"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2020-01-01"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034299"
 soort: "KB"
@@ -80,6 +80,6 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 ##### Artikel 1a
 
-In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034299&artikel=1&z=2021-04-22&g=2020-01-01), zijn het teken van de Muntmeester en het teken van de Koninklijke Nederlandse Munt geen bestanddelen van de beeldenaar van de nationale zijde van de in 2020 uitgegeven Nederlandse muntstukken van vijf-eurocent.
+In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034299&artikel=1&z=2021-04-22&g=2021-04-22), zijn het teken van de Muntmeester en het teken van de Koninklijke Nederlandse Munt geen bestanddelen van de beeldenaar van de nationale zijde van de in 2020 uitgegeven Nederlandse muntstukken van vijf-eurocent.
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.
