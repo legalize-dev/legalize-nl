@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2020-12-31"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c
 
 - d. de vlucht wordt niet uitgevoerd buiten de daglichtperiode, zoals gepubliceerd in de luchtvaartgids;
 
-- e. de vlucht wordt niet uitgevoerd boven gebieden met aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen dan wel boven mensenmenigten of boven spoorlijnen of voor motorrijtuigen toegankelijke verharde openbare wegen, met uitzondering van wegen in 30 km-zones binnen de bebouwde kom en wegen in 60 km-gebieden buiten de bebouwde kom;
+- e. de vlucht wordt niet uitgevoerd boven aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen dan wel boven mensenmenigten of boven spoorlijnen of voor motorrijtuigen toegankelijke verharde openbare wegen, met uitzondering van wegen in 30 km-zones binnen de bebouwde kom en wegen in 60 km-gebieden buiten de bebouwde kom;
 
 - f. voor een vlucht wordt geen vliegplan ingediend;
 
@@ -74,7 +74,7 @@ Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c
 
 - 2°. voor vluchten binnen een gebied waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen iemand met de bestuurder van het modelluchtvaartuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen;
 
-- i. in afwijking van onderdeel h zijn vluchten binnen het verband van een bij de Koninklijke Nederlandse Vereniging voor Luchtvaart of de Federatie Limburgse Radio Controle Vliegers aangesloten vereniging toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim klasse G, mits wordt voldaan aan de in dat onderdeel genoemde voorwaarden;
+- i. in afwijking van onderdeel h zijn vluchten binnen het verband van een bij de Koninklijke Nederlandse Vereniging voor Luchtvaart, de Federatie Limburgse Radio Controle Vliegers of de Samenwerkende Nederlandse Modelvlieg Verenigingen aangesloten vereniging toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim klasse G, mits wordt voldaan aan de in dat onderdeel genoemde voorwaarden;
 
 - j. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
 
