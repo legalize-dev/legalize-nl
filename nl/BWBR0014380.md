@@ -4,7 +4,7 @@ identifier: "BWBR0014380"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2020-01-01"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014380"
 soort: "KB"
@@ -56,7 +56,7 @@ De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkoste
 
 ##### Artikel 3
 
-De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van 3% van het maximum van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn. Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
+De overige leden van de raad van advies ontvangen voor hun werkzaamheden en onkosten een vaste maandelijkse vergoeding welke is gebaseerd op een arbeidsduurfactor van 0,041, berekend over het maximum van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 4
 
