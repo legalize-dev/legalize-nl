@@ -4,7 +4,7 @@ identifier: "BWBR0044598"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-12-31"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044598"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ Wijzigt de Regeling uitvoering en handhaving luchtvaartveiligheid.
 
 ##### Artikel 15. Overgangsrecht
 
-1. De [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3) en [4 van de Regeling op afstand bestuurde luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4), zoals deze luidden voor de inwerkingtreding van de Regeling onbemande luchtvaartuigen, blijven tot 1 januari 2022 van toepassing op de behandeling van de aanvraag van respectievelijk een ROC, RPA-L en speciaal-BvL of een ontheffing voor een RPA-L of een speciaal-BvL, indien de aanvraag is ingediend voor 31 december 2020.
+1. De [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3) en [4 van de Regeling op afstand bestuurde luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4), zoals deze luidden voor de inwerkingtreding van de Regeling onbemande luchtvaartuigen, blijven tot 1 januari 2022 van toepassing op de behandeling van de aanvraag van respectievelijk een RPA-L, speciaal-BvL, bewijs van inschrijving en geluidverklaring of een ontheffing voor een RPA-L of een speciaal-BvL, indien de aanvraag is ingediend voor 31 december 2021.
 
 2. Verzoeken tot wijziging van respectievelijk een ROC, RPA-L en speciaal-BvL of een ontheffing voor een RPA-L of een speciaal-BvL, kunnen worden ingediend tot 1 januari 2022 of tot de datum waarop het ROC of ROC-light voor 1 januari 2022 is omgezet in overeenstemming met uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
 
@@ -152,9 +152,9 @@ Deze regeling treedt in werking met ingang van 31 december 2020.
 
 Deze regeling wordt aangehaald als: Regeling onbemande luchtvaartuigen.
 
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2020-12-31&g=2020-12-31) van de Regeling onbemande luchtvaartuigen
+## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2021-04-22&g=2021-04-22) van de Regeling onbemande luchtvaartuigen
 
-Als objecten of gebieden die onderdeel uitmaken van vitale processen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2020-12-31&g=2020-12-31), worden aangewezen:
+Als objecten of gebieden die onderdeel uitmaken van vitale processen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2021-04-22&g=2021-04-22), worden aangewezen:
 
 - •. Het hoogspanningsnetwerk voor landelijke en regionale transport en distributie van elektriciteit;
 
