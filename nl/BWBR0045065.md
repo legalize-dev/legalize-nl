@@ -4,7 +4,7 @@ identifier: "BWBR0045065"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-23"
-last_updated: "2021-01-01"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045065"
 soort: "ministeriele-regeling"
@@ -81,7 +81,7 @@ Deze regeling is niet van toepassing indien er sprake is van samenloop met vergo
 
 ##### Artikel 6. Pensioen
 
-De vergoeding zoals bedoeld in [artikel 3, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045065&artikel=3&z=2021-04-23&g=2021-01-01), en [artikel 4, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045065&artikel=4&z=2021-04-23&g=2021-01-01), maakt deel uit van de berekeningsgrondslag pensioenen als bedoeld in [artikel 23a, tweede lid onder b, tabel 3 onder f. van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a).
+De vergoeding zoals bedoeld in [artikel 3, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045065&artikel=3&z=2021-04-23&g=2021-04-23), en [artikel 4, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045065&artikel=4&z=2021-04-23&g=2021-04-23), maakt deel uit van de berekeningsgrondslag pensioenen als bedoeld in [artikel 23a, tweede lid onder b, tabel 3 onder f. van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a).
 
 ##### Artikel 7. Inwerkingtreding
 
