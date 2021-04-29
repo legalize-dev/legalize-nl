@@ -4,7 +4,7 @@ identifier: "BWBR0042768"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-29"
-last_updated: "2020-11-18"
+last_updated: "2021-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042768"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ De Secretaris-Generaal heeft;
 
 - a. volmacht ten aanzien van personeelsaangelegenheden betreffende arbeidsovereenkomsten met alle medewerkers van het ministerie.
 
-- b. machtiging tot het vaststellen van personeelsreglementen, het vaststellen van reorganisaties, het geven van aanwijzingen en instructies aan de functionarissen genoemd in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2020-11-18&g=2020-11-18).
+- b. machtiging tot het vaststellen van personeelsreglementen, het vaststellen van reorganisaties, het geven van aanwijzingen en instructies aan de functionarissen genoemd in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2021-04-29&g=2021-04-29).
 
 ##### Artikel 3. Portefeuillehouders
 
@@ -118,7 +118,7 @@ De hoofden van dienst hebben volmacht ten aanzien van te sluiten en gesloten arb
 
 ##### Artikel 7. De Secretaris-Generaal
 
-In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2020-11-18&g=2020-11-18), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2020-11-18&g=2020-11-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2020-11-18&g=2020-11-18) heeft uitsluitend de Secretaris-Generaal volmacht onderscheidenlijk machtiging ten aanzien van:
+In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2021-04-29&g=2021-04-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2021-04-29&g=2021-04-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2021-04-29&g=2021-04-29) heeft uitsluitend de Secretaris-Generaal volmacht onderscheidenlijk machtiging ten aanzien van:
 
 - a. te sluiten en gesloten arbeidsovereenkomsten betreffende:
 
@@ -142,9 +142,9 @@ In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR004276
 
 ##### Artikel 8. Portefeuillehouders
 
-1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2020-11-18&g=2020-11-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2020-11-18&g=2020-11-18) hebben de Directeuren-Generaal van het kernministerie en de plaatsvervangend Secretaris-Generaal volmacht ten aanzien van te nemen reorganisatiebesluiten die betrekking hebben op onderdelen van het ministerie die behoren tot hun gezagsdomein.
+1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2021-04-29&g=2021-04-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2021-04-29&g=2021-04-29) hebben de Directeuren-Generaal van het kernministerie en de plaatsvervangend Secretaris-Generaal volmacht ten aanzien van te nemen reorganisatiebesluiten die betrekking hebben op onderdelen van het ministerie die behoren tot hun gezagsdomein.
 
-2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2020-11-18&g=2020-11-18) hebben de Directeuren-Generaal van het kernministerie en de plaatsvervangend Secretaris-Generaal volmacht tot:
+2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2021-04-29&g=2021-04-29) hebben de Directeuren-Generaal van het kernministerie en de plaatsvervangend Secretaris-Generaal volmacht tot:
 
 - –. het in dienst nemen en het ontslag op initiatief van de medewerker zelf, van functies die zijn gewaardeerd op salarisschaal 14, 15 of 16 van de CAO Rijk;
 
@@ -164,7 +164,7 @@ Met uitzondering van de Secretaris-Generaal verricht een gevolmachtigde geen rec
 
 ##### Artikel 10. Bijzondere gevallen van substitutie
 
-1. De Secretaris-Generaal kan aan andere functionarissen dan de op grond van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&z=2020-11-18&g=2020-11-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=3&z=2020-11-18&g=2020-11-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=4&z=2020-11-18&g=2020-11-18) gevolmachtigde functionarissen ondervolmacht verlenen.
+1. De Secretaris-Generaal kan aan andere functionarissen dan de op grond van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&z=2021-04-29&g=2021-04-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=3&z=2021-04-29&g=2021-04-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=4&z=2021-04-29&g=2021-04-29) gevolmachtigde functionarissen ondervolmacht verlenen.
 
 2. De hoofden van dienst van dienstonderdelen van het kernministerie en secretariaten van raden en commissies zijn voor het verrichten van bepaalde rechtshandelingen bevoegd ondervolmacht te verlenen aan onder hen ressorterende functionarissen. Elke ondervolmacht wordt schriftelijk verleend en behoeft goedkeuring van de plaatsvervangend Secretaris-Generaal.
 
@@ -182,15 +182,15 @@ Met uitzondering van de Secretaris-Generaal verricht een gevolmachtigde geen rec
 
 - –. het sluiten en voortzetten van arbeidsovereenkomsten na het bereiken van de AOW-gerechtigde leeftijd van onder hen ressorterende ambtenaren.
 
-6. De plaatsvervangend Secretaris-Generaal is bevoegd om in het kader van P-Direkt schriftelijk ondervolmacht te verlenen aan andere functionarissen dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2020-11-18&g=2020-11-18), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2020-11-18&g=2020-11-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2020-11-18&g=2020-11-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2020-11-18&g=2020-11-18) vermelde functionarissen.
+6. De plaatsvervangend Secretaris-Generaal is bevoegd om in het kader van P-Direkt schriftelijk ondervolmacht te verlenen aan andere functionarissen dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2021-04-29&g=2021-04-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2021-04-29&g=2021-04-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2021-04-29&g=2021-04-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2021-04-29&g=2021-04-29) vermelde functionarissen.
 
-7. De directeur Organisatie, Bedrijfsvoering en Personeel is bevoegd ter zake van de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2020-11-18&g=2020-11-18) aan hem verleende volmacht ondervolmacht te verlenen aan onder hem ressorterende functionarissen.
+7. De directeur Organisatie, Bedrijfsvoering en Personeel is bevoegd ter zake van de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2021-04-29&g=2021-04-29) aan hem verleende volmacht ondervolmacht te verlenen aan onder hem ressorterende functionarissen.
 
 8. Op ondervolmachten zijn de bepalingen van deze regeling van overeenkomstige toepassing.
 
 ##### Artikel 11
 
-De plaatsvervangend Secretaris-Generaal is gemachtigd de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2020-11-18&g=2020-11-18), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2020-11-18&g=2020-11-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2020-11-18&g=2020-11-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2020-11-18&g=2020-11-18) verleende volmachten op te zeggen.
+De plaatsvervangend Secretaris-Generaal is gemachtigd de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2021-04-29&g=2021-04-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2021-04-29&g=2021-04-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2021-04-29&g=2021-04-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2021-04-29&g=2021-04-29) verleende volmachten op te zeggen.
 
 ### Hoofdstuk 5. Machtiging
 
@@ -206,9 +206,9 @@ Daar waar in regelgeving die betrekking heeft op personele aangelegenheden wordt
 
 ##### Artikel 14. Register
 
-1. Alle op grond van deze regeling verleende volmachten op grond van dit besluit en nog niet geformaliseerde wijzigingen van het [Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606), waaronder wijzigingen in de portefeuilleverdeling van portefeuillehouders, worden opgenomen in het register dat de directeur Bestuurlijke en Politieke Zaken bijhoudt ter uitvoering van [artikel 18, eerste lid, van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=18).
+1. Alle op grond van deze regeling verleende volmachten op grond van dit besluit en nog niet geformaliseerde wijzigingen van het [Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606), waaronder wijzigingen in de portefeuilleverdeling van portefeuillehouders, worden opgenomen in het register dat de directeur Organisatie, Bedrijfsvoering en Personeel bijhoudt ter uitvoering van [artikel 18, eerste lid, van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=18).
 
-2. Bij verlenging, wijziging of beëindiging van een volmacht wordt een kopie van die beëindiging gezonden aan de directeur Bestuurlijke en Politieke Zaken.
+2. Bij verlenging, wijziging of beëindiging van een volmacht wordt een kopie van die beëindiging gezonden aan de directeur Organisatie, Bedrijfsvoering en Personeel.
 
 ##### Artikel 15. Uitoefening bevoegdheid door volmachtverlener
 
@@ -278,7 +278,7 @@ Wijzigt de Mandaatregeling VWS.
 
 ##### Artikel 25. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=6&artikel=24&z=2020-11-18&g=2020-11-18), dat in werking treedt met ingang van 1 januari 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=6&artikel=24&z=2021-04-29&g=2021-04-29), dat in werking treedt met ingang van 1 januari 2020.
 
 ##### Artikel 26. Citeertitel
 
