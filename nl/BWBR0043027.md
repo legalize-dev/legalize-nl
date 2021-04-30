@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-01-01"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -50,21 +50,23 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **het ministerie:** het Ministerie van Financiën;
 
-- b. **het kernministerie:** het Ministerie van Financiën exclusief het directoraat-generaal Belastingdienst;
+- b. **het kernministerie:** het Ministerie van Financiën exclusief de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
-- c. **de minister:** de Minister van Financiën;
+- c. **de Belastingdienst:** de directoraten-generaal Belastingdienst, Toeslagen en Douane van het Ministerie van Financiën;
 
-- d. **de staatssecretaris:** de Staatssecretaris van Financiën;
+- d. **de minister:** de Minister van Financiën;
 
-- e. **bewindspersoon:** de Minister of de Staatssecretaris van Financiën;
+- e. **de staatssecretaris:** de Staatssecretaris van Financiën;
 
-- f. **algemene leiding:** de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de thesaurier-generaal;
+- f. **bewindspersoon:** de Minister of de Staatssecretaris van Financiën;
 
-- g. **mandaat:** de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
+- g. **algemene leiding:** de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de thesaurier-generaal;
 
-- h. **(hoofd)budgethouder:** hoofd van een organisatie-eenheid verantwoordelijk voor het financieel beheer van één of meer budgetten;
+- h. **mandaat:** de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
 
-- i. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging;
+- i. **(hoofd)budgethouder:** hoofd van een organisatie-eenheid verantwoordelijk voor het financieel beheer van één of meer budgetten;
+
+- j. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging;
 
 ### Hoofdstuk 2. Algemene leiding
 
@@ -80,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-01-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-04-30).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-01-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-04-30).
 
 ##### Artikel 4. De bestuursraad
 
@@ -108,7 +110,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - h. de pSG;
 
-- i. de hoofddirecteur Financieel-Economische Zaken.
+- i. de directeur Financieel-Economische Zaken.
 
 4. De directie Bestuursondersteuning en Advies (BOA) verzorgt het secretariaat van de bestuursraad.
 
@@ -208,7 +210,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - e. een directeur of de Agent van de Generale Thesaurie;
 
-- f. de hoofddirecteur Financieel-Economische Zaken;
+- f. de directeur Financieel-Economische Zaken;
 
 - g. de directeur Bedrijfsvoering;
 
@@ -230,7 +232,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - b. het directoraat-generaal Belastingdienst (DGBD);
 
-- c. het directoraat-generaal Toeslagen (DGT);
+- c. het directoraat-generaal Toeslagen (DGTSL);
 
 - d. het directoraat-generaal Douane (DGD);
 
@@ -242,11 +244,11 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-04-30) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-04-30) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
-3. De SG kan de directeur-generaal Belastingdienst toestemming verlenen om, met inachtneming van de structuur van het DGBD en de taken genoemd in het [Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043509), tijdelijke organisatieonderdelen in te stellen.
+3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
 ### Hoofdstuk 4. Het cluster secretaris-generaal (sg-cluster)
 
@@ -268,7 +270,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - f. de directie Communicatie;
 
-- g. de hoofddirectie Financieel-Economische Zaken.
+- g. de directie Financieel-Economische Zaken.
 
 2. Het SG-cluster bestaat tevens uit de volgende Rijksbrede organisatieonderdelen:
 
@@ -388,7 +390,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - b. planning en control en AO/IC;
 
-- c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kerndepartement, rekening houdend met de rol van de hoofddirectie FEZ.
+- c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kerndepartement, rekening houdend met de rol van de directie FEZ.
 
 8. Het team Inkoop/CDI-Office heeft de volgende taken:
 
@@ -398,7 +400,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-04-30&g=2021-01-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-04-30&g=2021-04-30). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -454,11 +456,13 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - g. bemiddelen bij juridische geschillen en het voeren van procedures voor alle directies binnen het ministerie van Financiën;
 
-- h. het voorbereiden van wetgeving op het gebied van de Comptabiliteitswet 2016 en overige wet- en regelgeving voor zover die niet behoort tot het beleidsterrein van DGFZ of de directie Financiële Markten;
+- h. het voorbereiden van wetgeving op het gebied van de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en overige wet- en regelgeving voor zover die niet behoort tot het beleidsterrein van DGFZ of de directie Financiële Markten;
 
-- i. het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit van het Ministerie van Financiën;
+- i. het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit van het Ministerie van Financiën en van de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
-- j. het zorgdragen voor een Insiderregeling Financiën, in overleg met de Compliance Officer van het BVA-Office en de eenheid O&P van het kernministerie.
+- j. het zorgdragen voor een Insiderregeling Financiën, in overleg met de Compliance Officer van het BVA-Office en de eenheid O&P van het kernministerie;
+
+- k. adviseren over en besluiten op verzoeken op grond van de Algemene verordening gegevensbescherming (AVG).
 
 2. De directie Juridische Zaken bestaat uit een afdeling Publiekrecht en een afdeling Privaatrecht.
 
@@ -508,9 +512,9 @@ De directie Communicatie heeft de volgende taken:
 
 - g. coördineert het beleid ter zake van uitnodigingen, werkbezoeken en speeches van de politieke leiding en verzorgt de organisatie van conferenties, congressen, seminars, bijeenkomsten en vergaderingen op het niveau van de politieke en ambtelijke leiding en verzorgt de werkzaamheden in verband met het aanvragen van Koninklijke onderscheidingen en protocollaire aangelegenheden en adviseert ter zake.
 
-##### Artikel 19. Hoofddirectie Financieel-Economische Zaken (HDFEZ)
+##### Artikel 19. Directie Financieel-Economische Zaken (DFEZ)
 
-1. De hoofddirectie Financieel-Economische Zaken heeft de volgende hoofdtaken:
+1. De directie Financieel-Economische Zaken heeft de volgende hoofdtaken:
 
 - a. als concerncontroller van het ministerie van Financiën een allocatieve weging uitvoeren van middelen voor het beleid en uitvoering en er op toezien dat uitgaven en ontvangsten binnen de budgettaire kaders passen;
 
@@ -526,7 +530,7 @@ De directie Communicatie heeft de volgende taken:
 
 - g. het indienen van bezwaar en het instellen van beroep inzake belastingaangiften, in overeenstemming met de secretaris-generaal.
 
-2. De Hoofddirectie Financieel-Economische Zaken bestaat uit een staf en de volgende afdelingen:
+2. De directie Financieel-Economische Zaken bestaat uit een staf en de volgende afdelingen:
 
 - a. afdeling Begrotingszaken met als hoofdtaak de coördinatie van de totstandkoming van de begrotingsstukken van de begroting van het ministerie van Financiën;
 
@@ -614,15 +618,15 @@ De directie Communicatie heeft de volgende taken:
 
 ##### Artikel 22. Directeur-generaal Belastingdienst
 
-1. De directeur-generaal Belastingdienst is verantwoordelijk voor de beleidsterreinen genoemd in het [Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043509).
+1. De directeur-generaal Belastingdienst is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 4 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4).
 
 2. De directeur-generaal Belastingdienst heeft een plaatsvervanger die hem bij afwezigheid vervangt.
 
-3. De directeur-generaal Belastingdienst geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043518).
+3. De directeur-generaal Belastingdienst geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
 ##### Artikel 23. Missie en strategie Belastingdienst
 
-De missie van het directoraat-generaal Belastingdienst is als volgt geformuleerd: De Belastingdienst draagt bij aan een financieel gezond Nederland. Dat doet de dienst door eerlijk en zorgvuldig belastingen te heffen en te innen en toeslagen uit te keren. Daarnaast draagt de Belastingdienst bij aan een financieel gezonde, concurrerende en veilige Europese Unie. De Belastingdienst bevordert dat burgers en bedrijven zoveel mogelijk uit zichzelf de regels naleven (compliance).
+Vervallen
 
 ### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
@@ -654,7 +658,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - c. bereidt wetgeving en internationale regelingen voor op het gebied van de directe belastingen, de verbruiksbelastingen en wat daarmee verband houdt en adviseert over het hiermee samenhangende beleid;
 
-- d. adviseert over het beleid en bereidt wetgeving voor op het gebied van de uitvoering van toeslagen door de Belastingdienst.
+- d. adviseert over het beleid en bereidt wetgeving voor op het gebied van de uitvoering van toeslagen door het DGTSL;
 
 - e. heeft een strategie- en onderzoeksfunctie op zijn beleidsterrein.
 
@@ -1272,7 +1276,7 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 2. De DG’s stellen gedurende het jaar twee uitvoeringsrapportages op en bespreken deze met de SG. In de uitvoeringsrapportages wordt gerapporteerd over het realiseren van beleidsdoelstellingen en activiteiten, over de uitputting van budgetten en over bijzonderheden in de bedrijfsvoering.
 
-3. Op basis van de uitvoeringsrapportages van de DG's stelt de hoofddirecteur Financieel-Economische Zaken tweemaal per jaar een concernrapportage op die wordt besproken in de bestuursraad.
+3. Op basis van de uitvoeringsrapportages van de DG's stelt de directeur Financieel-Economische Zaken tweemaal per jaar een concernrapportage op die wordt besproken in de bestuursraad.
 
 4. De DG’s stellen na afloop van ieder jaar een afsluiten uitvoeringsrapportage en een managementverklaring op en bespreken deze met de SG. In de managementverklaring wordt verslag gedaan van afwijkingen in de bedrijfsvoering en over de risicobeheersing daarbij. Voorts bevat de managementverklaring een oordeel over de rechtmatigheid van de gedane uitgaven.
 
@@ -1280,11 +1284,11 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 44. Control
 
-1. De hoofddirecteur Financieel-Economische Zaken (FEZ) ondersteunt in de vorm van toezicht en advies de SG en de DG’s bij hun overkoepelende verantwoordelijkheid voor beleidsterreinen en bijbehorende bedrijfsvoering.
+1. De directeur Financieel-Economische Zaken (FEZ) ondersteunt in de vorm van toezicht en advies de SG en de DG’s bij hun overkoepelende verantwoordelijkheid voor beleidsterreinen en bijbehorende bedrijfsvoering.
 
 2. De hoofddirecteur FEZ vervult de rol van concerncontroller – vanuit de in wet- en regelgeving, waaronder de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), vastgelegde taken – bij de totstandkoming van solide begrotingen en verantwoordingen in het kader van de planning- en controlcyclus, en bij de beoordeling van voorstellen met financiële gevolgen.
 
-3. De verantwoordelijkheden en bevoegdheden van de hoofddirecteur FEZ zijn vastgelegd in het [Besluit taak FEZ](https://wetten.overheid.nl/jci1.3:c:BWBR0005333).
+3. De verantwoordelijkheden en bevoegdheden van de directeur FEZ zijn vastgelegd in het [Besluit taak FEZ](https://wetten.overheid.nl/jci1.3:c:BWBR0005333).
 
 ##### Artikel 45. Audit
 
@@ -1298,7 +1302,7 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 1. Er is een Audit Committee.
 
-2. Het Audit Committee is samengesteld uit vier externe leden, de gehele bestuursraad, de Auditdienst Rijk (ADR) en de Algemene Rekenkamer. De SG is de voorzitter van de Audit Committee. HDFEZ voert het secretariaat.
+2. Het Audit Committee is samengesteld uit vier externe leden, de gehele bestuursraad, de Auditdienst Rijk (ADR) en de Algemene Rekenkamer. De SG is de voorzitter van de Audit Committee. DFEZ voert het secretariaat.
 
 3. De externe leden van het Audit Committee kunnen hun bevindingen separaat aan de minister kenbaar maken.
 
@@ -1312,9 +1316,9 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-04-30&g=2021-04-30) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-04-30&g=2021-04-30), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
@@ -1340,17 +1344,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 23a. Directeur-generaal Toeslagen
 
-De directeur-generaal Toeslagen is verantwoordelijk voor de taken en verantwoordelijkheden van:
+1. De directeur-generaal Toeslagen is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 7 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7).
 
-- a. de Directie Toeslagen, zoals bedoeld in [bijlage 1 onder 3c van het Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043509&bijlage=1);
-
-- b. de Hersteloperatie Toeslagen.
+2. De directeur-generaal Toeslagen geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
 ### Hoofdstuk 5B. Directoraat-generaal douane
 
 ##### Artikel 23b. Directeur-generaal Douane
 
-De directeur-generaal Douane is verantwoordelijk voor de taken en verantwoordelijkheden van de Directie Douane, zoals bedoeld in [bijlage 1 onder 3a van het Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043509&bijlage=1).
+1. De directeur-generaal Douane is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9).
+
+2. De directeur-generaal Douane geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
 ### Hoofdstuk 6. Directoraat-generaal fiscale zaken
 
