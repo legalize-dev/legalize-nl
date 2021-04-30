@@ -4,7 +4,7 @@ identifier: "BWBR0043122"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-30"
-last_updated: "2020-02-01"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043122"
 soort: "KB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Buitenlandse Zaken;
 
-- **Nationale Groep:** de Nationale Groep van het Permanent Hof van Arbitrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=2&z=2020-02-01&g=2020-02-01).
+- **Nationale Groep:** de Nationale Groep van het Permanent Hof van Arbitrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=2&z=2021-04-30&g=2021-04-30).
 
 ##### Artikel 2
 
@@ -94,15 +94,17 @@ Er is een Nationale Groep van het Permanent Hof van Arbitrage.
 
 - b. de President van de Vergadering van Staten die Partij zijn bij het Statuut van Rome van een kandidaat voor verkiezing tot rechter in het Internationaal Strafhof;
 
-3. De Nationale Groep kan voordrachten doen aan het Noors Nobelcomité van kandidaten voor de Nobelprijs voor de Vrede.
+3. De leden van de Nationale Groep kunnen, zowel individueel als gezamenlijk, voordrachten doen aan het Noors Nobelcomité van kandidaten voor de Nobelprijs voor de Vrede.
 
 ##### Artikel 5
 
-De Nationale Groep doet, op verzoek van Onze Minister, een voordracht aan Onze Minister van een kandidaat voor verkiezing tot:
+1. De Nationale Groep doet, op verzoek van Onze Minister, een voordracht aan Onze Minister van een kandidaat voor verkiezing tot:
 
 - a. rechter in het Internationaal Zeerechttribunaal;
 
 - b. lid van de Commissie voor Internationaal Recht van de Verenigde Naties.
+
+2. De Nationale Groep doet, op verzoek van Onze Minister, een voordracht aan Onze Minister van een kandidaat voor benoeming tot lid van de Commissie van advies inzake volkenrechtelijke vraagstukken.
 
 ##### Artikel 6
 
@@ -112,9 +114,9 @@ De Nationale Groep doet, op verzoek van Onze Minister, een voordracht aan Onze M
 
 ##### Artikel 7
 
-1. Voor de selectie van een voor te dragen kandidaat als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2020-02-01&g=2020-02-01), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=5&z=2020-02-01&g=2020-02-01) volgt de Nationale Groep een eerlijke, transparante en consistente procedure.
+1. Voor de selectie van een voor te dragen kandidaat als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2021-04-30&g=2021-04-30), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=5&z=2021-04-30&g=2021-04-30) volgt de Nationale Groep een eerlijke, transparante en consistente procedure. De Nationale Groep kan hiervoor een besloten vergadering beleggen.
 
-2. De Nationale Groep onthoudt zich van de selectie van haar eigen leden voor de functies als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2020-02-01&g=2020-02-01), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=5&z=2020-02-01&g=2020-02-01), met uitzondering van de éénmalige mogelijkheid voor haar eigen leden om, indien zij een van deze functies vervullen, voor herverkiezing in aanmerking te komen.
+2. De Nationale Groep onthoudt zich van de selectie van haar eigen leden voor de functies als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2021-04-30&g=2021-04-30), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=5&z=2021-04-30&g=2021-04-30), met uitzondering van de éénmalige mogelijkheid voor haar eigen leden om, indien zij een van deze functies vervullen, voor herverkiezing in aanmerking te komen.
 
 ##### Artikel 8
 
@@ -126,7 +128,7 @@ Onze Minister voorziet in het secretariaat van de Nationale Groep.
 
 ##### Artikel 10
 
-Koninklijke besluiten die voorafgaand aan inwerkingtreding van dit besluit tot stand zijn gekomen, houdende de benoeming van personen met het oog op het verrichten van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2020-02-01&g=2020-02-01) genoemde werkzaamheden, wier benoemingstermijn nog niet verlopen is, gelden als benoemingsbesluiten op grond van dit besluit.
+Koninklijke besluiten die voorafgaand aan inwerkingtreding van dit besluit tot stand zijn gekomen, houdende de benoeming van personen met het oog op het verrichten van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=4&z=2021-04-30&g=2021-04-30) genoemde werkzaamheden, wier benoemingstermijn nog niet verlopen is, gelden als benoemingsbesluiten op grond van dit besluit.
 
 ##### Artikel 11
 
