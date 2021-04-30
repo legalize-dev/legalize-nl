@@ -4,7 +4,7 @@ identifier: "BWBR0043022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-01-01"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043022"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **het ministerie:** het Ministerie van Financiën;
 
-- b. **het kernministerie:** het Ministerie van Financiën exclusief het directoraat-generaal Belastingdienst;
+- b. **het kernministerie:** het Ministerie van Financiën exclusief de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
 - c. **de minister:** de Minister van Financiën;
 
@@ -56,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **bewindspersoon:** de Minister of de Staatssecretaris van Financiën;
 
-- f. **algemene leiding:** de secretaris-generaal (SG), de plaatsvervangend secretaris-generaal (pSG), de directeuren-generaal (DG) en de directeur-generaal Belastingdienst (DGBD);
+- f. **algemene leiding:** de secretaris-generaal (SG), de plaatsvervangend secretaris-generaal (pSG), de directeuren-generaal (DG);
 
 - g. **mandaat:** de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
 
@@ -84,11 +84,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1. De SG stelt een mandaatbesluit vast voor het ministerie.
 
-2. De DGBD stelt, in overeenstemming met de SG, een mandaatbesluit voor het directoraat-generaal Belastingdienst vast.
+2. De SG stelt, in overeenstemming met de DGBD, de DGTSL en de DGD, een mandaatbesluit voor de directoraten-generaal Belastingdienst, Toeslagen en Douane vast.
 
 ##### Artikel 4. Mandaat aan SG en DG’s
 
-1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2020-07-10&g=2021-01-01).
+1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2021-04-30&g=2021-04-30).
 
 2. De SG en DG’s hebben binnen het kader van de jaarplannen en binnen eventueel door de minister of namens de minister door de SG gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -120,7 +120,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. De SG en DG’s zijn hoofdbudgethouder voor wat betreft hun taken en zijn uit dien hoofde bevoegd verplichtingen – met financiële consequenties – aan te gaan en uitgaven goed te keuren binnen hun budgetten.
 
-2. In afwijking van het eerste lid, gaat de directeur-generaal Belastingdienst verplichtingen ten aanzien waarvan het verscherpt toezicht geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2020-07-10&g=2021-01-01), slechts aan in overeenstemming met de hoofddirecteur Control en Financiën van het DGBD dan wel de hoofddirecteur Financieel-Economische Zaken.
+2. In afwijking van het eerste lid, gaan de directeuren-generaal Belastingdienst, Toeslagen en Douane verplichtingen ten aanzien waarvan het toezicht FEZ geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2021-04-30&g=2021-04-30), slechts aan in overeenstemming met respectievelijk de directeur Control en Financiën van het DGBD, de aangewezen controller van het DGTSL, de aangewezen controller van het DGD dan wel de directeur Financieel-Economische Zaken.
 
 3. De hoofdbudgethouders zijn verantwoordelijk voor een adequaat financieel beheer.
 
@@ -128,15 +128,19 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. Het mandaat van de DG met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de DG ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.
 
-2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2021-01-01) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
+2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2021-04-30) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
 
-##### Artikel 9. Instemming van de hoofddirecteur FEZ
+##### Artikel 9. Instemming van de directeur FEZ
 
-Voor zover voorgenomen besluiten met financiële consequenties niet passen binnen de door de SG vastgestelde budgetten, is instemming van de hoofddirecteur Financieel-Economische Zaken vereist.
+Instemming van de directeur Financieel-Economische Zaken is vereist:
 
-##### Artikel 10. Voorbehouden aan SG en DG’s, uitgezonderd DGBD
+- a. voor zover voorgenomen besluiten met financiële consequenties niet passen binnen de door de SG vastgestelde budgetten;
 
-Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als bedoeld in de [hoofdstukken 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&hoofdstuk=1.2) en [2.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&hoofdstuk=2.1), alsmede over het toepassen van een uitzonderingsgrond als bedoeld in de [artikelen 2.24 tot en met 2.24c van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.24).
+- b. voor de benoeming van de directeuren control van het DGBD, het DGTSL en het DGD.
+
+##### Artikel 10. Voorbehouden aan SG en DG’s, uitgezonderd DGBD, DGTSL en DGD
+
+Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als bedoeld in de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203), alsmede over het toepassen van een uitzonderingsgrond als bedoeld in de [artikelen 2.24 tot en met 2.24c van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.24).
 
 ### Hoofdstuk 4. Algemene bepalingen ten aanzien van de uitoefening van taken
 
@@ -174,7 +178,7 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 - e. het doen van voorstellen omtrent de vaststelling van de topstructuur van het ministerie, tot en met het niveau van directies, en hiermee samenhangend het besluiten tot reorganisaties;
 
-- f. het vaststellen van de formatie, en hiermee samenhangend het besluiten tot reorganisaties van het kernministerie en van de topstructuur van het DGBD, als opgenomen in het Organisatiebesluit DGBD 2020 als bedoeld in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering 2011, en na gehoord hebbende de bestuursraad;
+- f. het vaststellen van de formatie, en hiermee samenhangend het besluiten tot reorganisaties van het kernministerie en van de topstructuur van het DGBD, als opgenomen in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) als bedoeld in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering 2011, en na gehoord hebbende de bestuursraad;
 
 - g. het aangaan van de arbeidsovereenkomst, het plaatsen en het beëindigen van de arbeidsovereenkomst met ambtenaren in functies behorende tot de topstructuur van het ministerie en de directoraten-generaal, waarbij het aangaan van een arbeidsovereenkomst plaatsvindt na overleg met de bestuursraad;
 
@@ -186,15 +190,15 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 ##### Artikel 13. Voorbehouden aan de pSG
 
-Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) is aan de pSG voorbehouden:
+Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) is aan de pSG voorbehouden:
 
 - a. het, na overleg met de bestuursraad, doen van voorstellen omtrent de vaststelling van de organisatie van het kernministerie vanaf het niveau van afdelingen (of daarmee vergelijkbare organisatieonderdelen) en lager, en hiermee samenhangend het besluiten tot reorganisaties;
 
-- b. het vaststellen van de formatie van het DGBD, voor zover het een uitbreiding van de totale formatie betreft;
+- b. het vaststellen van de formatie van het DGBD, het DGTSL en het DGD, voor zover het een uitbreiding van de totale formatie betreft;
 
-- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
+- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
 
-- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
+- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
 
 - e. het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de vorige twee onderdelen;
 
@@ -228,13 +232,15 @@ Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR004302
 
 - t. het beslissen op verzoeken doorwerken na AOW-gerechtigde leeftijd voor functionarissen van het kernministerie;
 
-- u. alle met cassatie verband houdende beslissingen zowel als eisende partij als verwerende partij met betrekking tot personeelsaangelegenheden.
+- u. alle met cassatie verband houdende beslissingen zowel als eisende partij als verwerende partij met betrekking tot personeelsaangelegenheden;
 
-##### Artikel 14. Voorbehouden aan de algemene leiding DG, uitgezonderd het DGBD
+- v. het ten aanzien van onder hem ressorterende medewerkers geven van toestemming op verzoeken om systemen te mogen raadplegen naar aanleiding van vermoedens van niet integer gedrag door medewerkers.
 
-Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van een DG, uitgezonderd het DGBD, ten aanzien van onder hen ressorterende medewerkers voorbehouden het nemen van beslissingen:
+##### Artikel 14. Voorbehouden aan de algemene leiding DG, uitgezonderd het DGBD, het DGTSL en het DGD
 
-- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2020-07-10&g=2021-01-01);
+Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van een DG, uitgezonderd het DGBD, het DGTSL en het DGD, ten aanzien van onder hen ressorterende medewerkers voorbehouden het nemen van beslissingen:
+
+- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2021-04-30&g=2021-04-30);
 
 - b. het afnemen van de eed of belofte;
 
@@ -256,53 +262,49 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - i. tot het verzoeken van toestemming aan het UWV tot ontslag wegens ziekte;
 
-- j. met betrekking tot (de aansprakelijkheidsstelling als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten als bedoeld in de CAO Rijk, waarbij de pSG door de algemene leiding wordt geïnformeerd.
+- j. met betrekking tot (de aansprakelijkheidsstelling als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten als bedoeld in de CAO Rijk, waarbij de pSG door de algemene leiding wordt geïnformeerd;
 
-##### Artikel 15. Voorbehouden aan algemene leiding DGBD
+- k. tot het geven van toestemming op verzoeken om systemen te mogen raadplegen naar aanleiding van vermoedens van niet integer gedrag door medewerkers.
 
-Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van het DGBD, ten aanzien van onder hen ressorterende medewerkers voorbehouden, het nemen van beslissingen:
+##### Artikel 15. Voorbehouden aan algemene leiding DGBD, DGTSL en DGD
+
+Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van het DGBD, het DGTSL en het DGD, ten aanzien van onder hen ressorterende medewerkers voorbehouden, het nemen van beslissingen:
 
 - a. tot het vaststellen van de organisatie tot en met afdelingsniveau, en hiermee samenhangend het besluiten tot reorganisaties;
 
 - b. tot het vaststellen van de formatie, waarbij tot wijzigingen in formatie van functies met salarisschaal 16 en hoger na overleg met de bestuursraad besloten wordt;
 
-- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
+- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
 
-- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
+- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
 
 - e. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de CAO Rijk;
 
 - f. tot een (tijdelijke) uitzending naar het buitenland;
 
-- g. tot het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de leden drie tot en met vijf van dit artikel.
+- g. tot het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de onderdelen c, d en e van dit artikel.
 
-- h. tot beloning;
-
-- i. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2021-01-01) – beloning van ambtenaren in:
+- h. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – beloning van ambtenaren in:
 
 - i. overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies, of
 
 - ii. overige functies met een beloning van salarisschaal 16 of hoger, waarbij afstemming met de pSG dient plaats te vinden.
 
-- j. het maken van afspraken tot uitbreiding van een arbeidsduur van meer dan 36 uur per week;
+- i. het binnen de rijksbrede en/of ministeriebrede kaders vaststellen van regels en beleid(skaders) inzake de bedrijfsvoering voor zover specifiek van toepassing bij het DGBD;
 
-- k. tot het beslissen op verzoeken doorwerken na AOW-gerechtigde leeftijd;
-
-- l. het binnen de rijksbrede en/of ministeriebrede kaders vaststellen van regels en beleid(skaders) inzake de bedrijfsvoering voor zover specifiek van toepassing bij het DGBD;
-
-- m. tot het opleggen van ordemaatregelen en straffen, met uitzondering van de wettelijke mogelijkheden het dienstverband te beëindigen, aan:
+- j. tot het opleggen van ordemaatregelen en straffen, met uitzondering van de wettelijke mogelijkheden het dienstverband te beëindigen, aan:
 
 - i. leidinggevende functionarissen;
 
 - ii. (strategische) functionarissen met een bezoldiging van salarisschaal 15 of hoger.
 
-- n. tot het verzoeken van toestemming aan het UWV tot ontslag wegens ziekte;
+- k. tot het verzoeken van toestemming aan het UWV tot ontslag wegens ziekte;
 
-- o. met betrekking tot (de aansprakelijkheidsstelling als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten, waarbij de pSG door de algemene leiding wordt geïnformeerd.
+- l. met betrekking tot (de aansprakelijkheidsstelling als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten, waarbij de pSG door de algemene leiding wordt geïnformeerd.
 
 ##### Artikel 16. Voorbehouden aan de directeuren en hun plaatsvervangers
 
-1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen volmacht tot het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
+1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, het DGTSL en het DGD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen volmacht tot het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
 2. De in het eerste lid toegekende mandaten kunnen binnen het kader van hun taken ook worden uitgeoefend door de onder de directeuren ressorterende functionarissen die daartoe worden gemandateerd in het mandaatregister.
 
@@ -338,7 +340,7 @@ Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zij
 
 ##### Artikel 18. Personeelsbeslissingen
 
-Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2020-07-10&g=2021-01-01) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
+Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2021-04-30&g=2021-04-30) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
 
 ##### Artikel 19. Overige bepalingen
 
@@ -366,77 +368,67 @@ Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaan
 
 Deze regeling wordt aangehaald als: Mandaatbesluit Ministerie van Financiën 2020.
 
-## Bijlage 1. Verscherpt toezicht
+## Bijlage 1. Toezicht FEZ
 
-De toepasselijkheid van het verscherpt toezicht, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2021-01-01), wordt beoordeeld aan de hand van de hierna genoemde criteria.
+De toepasselijkheid van het toezicht FEZ, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2021-04-30), wordt beoordeeld aan de hand van de hierna genoemde criteria.
 
-Algemene criteria verscherpt toezicht
+- •. De directeur Financieel-Economische Zaken (DFEZ) van het kernministerie beoordeelt aan te gane verplichtingen van het DG Belastingdienst (DGBD), het DG Toeslagen (DGTSL) en het DG Douane (DGD). Uitgangspunt hierbij is een drempelbedrag van € 500.000,- inclusief BTW. Voor de verplichtingen tussen de € 500.000,- en € 1.000.000,- geldt dat FEZ in 20% van deze gevallen beoordeelt (bij wijze van steefproef). Boven de € 1.000.000,- vervalt het steekproefprincipe en beoordeelt FEZ integraal.
 
-- •. De hoofddirecteur Financieel-Economische Zaken (HDFEZ) van het kernministerie beoordeelt aan te gane verplichtingen van het DG Belastingdienst (DGBD). Uitgangspunt hierbij is een drempelbedrag van € 500.000,– inclusief BTW.
+- •. Verplichtingen van of boven de € 50.000,- exclusief BTW worden alleen aangegaan mits er goedkeuring is van de (concern)controller van het DG of, ten aanzien van het DGBD, de (concern)directie Control & Financiën.
 
-- •. De hoofddirecteur Control en Financiën DGBD beoordeelt aan te gane verplichtingen van de Belastingdienst tussen de € 100.000,– en € 500.000,– inclusief BTW.
-
-- •. Reeds gedane bestuurlijke toezeggingen boven het drempelbedrag, zonder concrete verplichtingen of toezeggingen vallen onder het verscherpt toezicht. Indien deze leiden tot een aan te gane verplichting, worden deze voorgelegd in het kader van verscherpt toezicht.
-
-- •. De werking van de criteria zullen periodiek worden geëvalueerd en kunnen waar nodig worden bijgesteld indien daar aanleiding toe bestaat.
+- •. De werking van de criteria zal periodiek worden geëvalueerd en de criteria kunnen waar nodig worden bijgesteld indien daartoe aanleiding bestaat.
 
 - •. Het is niet toegestaan om een aan te gane verplichting of opdracht te knippen in meerdere verplichtingen of opdrachten om daarmee onder het drempelbedrag te komen.
 
-- •. Lopende aanbestedingen worden gerespecteerd. Nieuwe aanbestedingen (vanaf de inwerkingtreding van artikel I, onder L, van dit wijzigingsbesluit) die boven het drempelbedrag uit komen moet voorafgaand aan het publicatiemoment toestemming worden gevraagd. De verplichting die voortvloeiend uit de aanbesteding met de voorkeursleverancier wordt aangegaan, behoeft ook voorafgaande goedkeuring.
+- •. Voor aanbestedingen die boven het drempelbedrag uitkomen moet voorafgaand aan het publicatiemoment toestemming worden gevraagd. De verplichting die voortvloeiend uit de aanbesteding met de voorkeursleverancier wordt aangegaan, behoeft ook voorafgaande goedkeuring.
 
-- •. Bij de uitwerking van de criteria is gebruik gemaakt van de indeling van de budgettaire tabel van het beleidsartikel 1 Belastingen en de rijksbrede kostensoortentabel zoals opgenomen in de Rijksbegrotingsvoorschriften:
+- •. Bij de uitwerking van de criteria is gebruikt gemaakt van de indeling van de budgettaire tabel van het beleidsartikel 1 Belastingen en de rijksbrede kostensoortentabel zoals opgenomen in de Rijksbegrotingsvoorschriften:
 
 - ○. Eigen personeel
 
-- –. Individuele vacatures worden niet voorgelegd aan het verscherpt toezicht. De werving in het kader van de Investeringsagenda en de werving van bedrijfskritische functies zal gebundeld worden voorgelegd ter goedkeuring aan het verscherpt toezicht. Voor beide geldt dat er een onderbouwd overzicht voorgelegd dient te worden met welke functies er geworven gaan worden, met bijbehorende schalen. Aangetoond moet worden dat het beschikbare budget voor eigen personeel toereikend is (past het binnen de meerjarige formatie). Achteraf ontvangt FEZ een overzicht met welke functies er daadwerkelijk geworven zijn.
+- –. Eigen personeel wordt niet voorgelegd aan het toezicht FEZ.
 
-- –. De personele exploitatie-uitgaven zoals representatie, reiskosten, studie en opleidingen, contributies, personeelsevenementen en sociaal flankerend beleid vallen onder het verscherpt toezicht.
+- –. De personele exploitatie-uitgaven zoals representatie, reiskosten, studie en opleidingen, contributies, personeelsevenementen en sociaal flankerend beleid vallen wel onder het toezicht FEZ.
 
 - ○. Externe inhuur
 
-- –. Voor de definitie van externe inhuur wordt aangesloten op de rijksbegrotingsvoorschriften externe inhuur: ‘Externe Inhuur is het uitvoeren van werkzaamheden in opdracht van een bij de rijksoverheid in dienst zijnde opdrachtgever, door een private organisatie met winstoogmerk, middels het tegen betaling inzetten van personele capaciteit en deskundigheid, waarop door de opdrachtgever mede gestuurd wordt.’
+- –. Voor de definitie van externe inhuur wordt aangesloten op de Rijksbegrotingsvoorschriften externe inhuur: ‘Externe inhuur is het uitvoeren van werkzaamheden in opdracht van een bij de rijksoverheid in dienst zijnde opdrachtgever, door een private organisatie met winstoogmerk, middels het tegen betaling inzetten van personele capaciteit en deskundigheid, waarop door de opdrachtgever mede gestuurd wordt.’
 
-- –. Verlenging van een aflopend inhuurcontract geldt als een nieuwe verplichting. Indien het bedrag het drempelbedrag overschrijdt, valt de verlenging onder het verscherpt toezicht.
+- –. Verlenging van een aflopend inhuurcontract geldt als een nieuwe verplichting. Indien het totaalbedrag van het aflopende contract(en) en het nieuwe contract tezamen het drempelbedrag overschrijdt, valt de verlenging onder het toezicht FEZ.
 
-- –. Externe inhuur op basis van mantelcontracten (zoals Randstad) valt bij overschrijding van het drempelbedrag onder het verscherpt toezicht.
+- –. Externe inhuur op basis van mantelcontracten (zoals Randstad) valt bij overschrijding van het drempelbedrag onder het toezicht FEZ.
 
 - –. Voor de goede orde: in lijn met de motie De Pater-Van der Meer is externe inhuur boven een uurprijs van 225 euro slechts in uitzonderlijke gevallen toegestaan, volgens het principe ‘comply or explain’.
 
 - ○. ICT
 
-- –. Hieronder vallen o.a. licenties, aanschaf van hard- en software en uitbesteed werk op terrein van ICT.
+- –. Hieronder vallen o.a. licenties, aanschaf van hard- en software en uitbesteedwerk op het terrein van ICT.
 
 - ○. Bijdragen aan SSO’s
 
-- –. Hieronder vallen de bijdragen aan de SSO’s zoals P-Direkt, FMHaaglanden, Rijksvastgoedbedrijf, Doc-Direkt, Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR), SSC-ICT (allen BZK), Dictu (EZ), Paresto en IVENT/DTO (DEF). Verplichtingen boven het drempelbedrag zijn vaak langlopend en vaak vastgesteld in rijksbrede overleggen. Goedkeuring van HDFEZ is nodig voordat het DGBD zich in het rijksbrede gremia kan committeren aan nieuwe verplichtingen boven het drempelbedrag.
+- –. Hieronder vallen bijvoorbeeld de bijdragen aan de SSO’s zoals P-Direkt, FMHaaglanden, Rijksvastgoedbedrijf, Doc-Direkt, Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR), SSC-ICT (allen BZK), Dictu (EZK), Paresto en IVENT/DTO (DEF). Verplichtingen boven het drempelbedrag zijn vaak langlopend en vaak vastgesteld in rijksbrede overleggen. Goedkeuring van de directeur FEZ is nodig voordat het DGBD, het DGTSL of het DGD zich in rijksbrede gremia kan committeren aan nieuwe verplichtingen boven het drempelbedrag.
 
 - ○. Overig materieel
 
-- –. De overige materiële uitgaven (circa 350 miljoen euro) vallen onder het verscherpt toezicht. Voorbeelden van overige materiële uitgaven zijn betalingen aan het wagenpark en de schepen van Douane, huisvesting en facilitaire diensten voorzover deze niet vallen onder de bijdragen aan SSO’s, voorlichting, portokosten, dienstkleding, kosten Kamer van Koophandel en Kadaster, betalingsverkeer, betalingen aan Logius.
+- –. De overige materiële uitgaven vallen onder het toezicht FEZ. Voorbeelden van overige materiële uitgaven zijn betalingen aan het wagenpark en de schepen van Douane, huisvesting en facilitaire diensten voorzover deze niet vallen onder de bijdragen aan SSO’s, voorlichting, portokosten, dienstkleding, kosten Kamer van Koophandel en Kadaster, betalingsverkeer en betalingen aan Logius.
 
-Wat valt niet onder het verscherpt toezicht?
+- •. Tussentijdse verlengingen (zowel stilzwijgend als actief) van mantelcontracten hoeven niet voorgelegd te worden. Hierbij wordt ervan uitgegaan dat aan de verlenging van een mantelcontract een expliciet overwegingskader ten grondslag ligt. Enkel de aanbesteding van een mantelcontract en de uitnutting van het mantelcontract (boven de € 500.000,-) dient voorgelegd te worden aan het toezicht FEZ.
 
-- •. Betalingen op reeds aangegane verplichtingen tot en met 12 oktober 2016 vallen niet onder het verscherpt toezicht. Facturen op deze verplichtingen kunnen dus betaalbaar worden gesteld.
+- •. Contracten i.v.m. kantoorruimte (huur, schoonmaak, beveiliging) die stilzwijgend verlengd worden (de mogelijkheid om het contract op te zeggen wordt niet benut) hoeven niet voorgelegd te worden. Indien het contract opgehoogd wordt door specifieke beslissingen (bijvoorbeeld extra m2) moet de verplichting wel worden voorgelegd aan toezicht FEZ.
 
-- •. Tussentijdse verlengingen (zowel stilzwijgend als actief) van mantelcontracten hoeven niet voorgelegd te worden. Hierbij wordt er van uit gegaan dat aan de verlenging van een mantelcontract een expliciet overwegingskader ten grondslag ligt. Enkel de aanbesteding van een mantelcontract en de uitnutting van het mantelcontract (boven de 100.000 euro) dient voorgelegd te worden aan het verscherpt toezicht.
-
-- •. Contracten i.v.m. kantoorruimte die stilzwijgend verlengd worden (de mogelijkheid om het contract op te zeggen wordt niet benut) hoeven niet voorgelegd te worden. Indien het contract opgehoogd wordt door discrete beslissingen (bijv. extra m2) moet de verplichting wel getoetst worden als deze boven de 100.000 euro uitkomt.
-
-- •. Verplichtingen met betrekking tot de programma-uitgaven van het DGBD zoals begroot op beleidartikel 1 van de begroting vallen niet onder de verplichtingenstop:
+- •. De volgende verplichtingen met betrekking tot de uitgaven van het DGBD, het DGTSL of het DGD zoals begroot op de beleidsartikelen 1, 9 en 13 van de begroting vallen niet onder verplichtingenstop:
 
 - ○. Verplichtingen inzake betalingen van belasting- en invorderingsrente aan belastingplichtigen;
 
-- ○. Verplichtingen inzake betalingen van proceskostenvergoeding, indien belastingplichtigen in het gelijk zijn gesteld bij een bezwaar- of beroepsprocedure;
+- ○. Verplichtingen inzake betalingen van proceskostenvergoeding, indien belastingplichtigen in het gelijk zijn gesteld bij een bezwaar of beroepsprocedure;
 
 - ○. Verplichtingen inzake bekostigingsbijdragen aan de Waarderingskamer en de Douaneraad;
 
-- ○. Medewerkers die reeds een beroep hebben gedaan op de vrijwillige regeling. De VSO (vaststellingsovereenkomst) met betrekking tot deze regeling is reeds ter ondertekening toegestuurd of zal binnenkort worden uitgestuurd. Hier is sprake van reeds aangegane verplichtingen die de Belastingdienst moet nakomen. Daarmee vallen deze verplichtingen niet onder het verscherpt toezicht.
-
 - ○. Ontvangsten (belastingontvangsten en apparaatsontvangsten).
 
-## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2021-01-01)
+## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2021-04-30)
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2021-01-01) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2021-04-30) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
 
 - •. stopzetten of opschorten beloning bij ziekte;
 
