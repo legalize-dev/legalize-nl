@@ -4,7 +4,7 @@ identifier: "BWBR0014506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014506"
 soort: "ministeriele-regeling"
@@ -40,21 +40,21 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) en [84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), de [artikelen 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), en [63a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a), [artikel 34a, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=34a), [artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&artikel=1), [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=19), [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1), [artikel 1.1, onderdeel j, van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=1.1), [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) en de [artikelen 1.3, onderdelen k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), en [8.1 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.1).
+Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) en [84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), de [artikelen 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), en [63a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a), [artikel 34a, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=34a), [artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&artikel=1), [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=19), [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1), [artikel 1.1, onderdeel j, van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=1.1), [artikel 252a, tweede lid, onderdeel e, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) en de [artikelen 1.3, onderdelen k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), en [8.1 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.1).
 
 ### Hoofdstuk 1. Organisatie van de Belastingdienst
 
 ##### Artikel 2
 
-1. Er is een rijksbelastingdienst onder de naam Belastingdienst. Deze dienst is belast met de heffing en invordering van rijksbelastingen en met andere bij of krachtens de wet opgedragen taken.
+1. Er is een rijksbelastingdienst onder de naam Belastingdienst. De Belastingdienst bestaat uit het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen. De Belastingdienst is belast met de heffing en invordering van rijksbelastingen en andere bij of krachtens de wet opgedragen taken.
 
 2. De Belastingdienst staat onder het gezag van de Minister van Financiën.
 
 ##### Artikel 3
 
-1. De organisatie van de Belastingdienst bestaat uit de volgende onderdelen:
+1. Het directoraat-generaal Belastingdienst bestaat uit de volgende onderdelen:
 
-- a1.
+- a.
 
 - –. Belastingdienst/Particulieren;
 
@@ -62,11 +62,33 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 - –. Belastingdienst/Grote ondernemingen;
 
-- a2. Belastingdienst/Caribisch Nederland;
+- b.
 
-- b1. Belastingdienst/Douane Landelijk Kantoor;
+- –. Belastingdienst/Caribisch Nederland;
 
-- b2. Douaneregio’s:
+- c.
+
+- –. Belastingdienst/Centrale administratieve processen (B/CAP);
+
+- d.
+
+- –. Belastingdienst/Fiscale inlichtingen- en opsporingsdienst (FIOD);
+
+- e.
+
+- –. Belastingdienst/Informatievoorziening (B/IV);
+
+- –. Belastingdienst/Klantinteractie en Services (B/KI&S);
+
+- –. Belastingdienst/Central Liaison Office (B/CLO).
+
+2. Het directoraat-generaal Douane bestaat uit de volgende onderdelen:
+
+- a.
+
+- –. Belastingdienst/Douane Landelijk Kantoor;
+
+- b. Douaneregio’s:
 
 - –. Belastingdienst/Douane Amsterdam;
 
@@ -84,25 +106,29 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 - –. Belastingdienst/Douane Schiphol Passagiers;
 
-- c1. Belastingdienst/Centrale administratieve processen (B/CAP);
+- c.
 
-- c2. Belastingdienst/Fiscale inlichtingen- en opsporingsdienst (FIOD);
+- –. Belastingdienst/Douane Landelijk Tactisch Centrum (DLTC);
+
+- –. Belastingdienst/Douane Landelijke Service Organisatie (DLSO);
 
 - d.
 
-- –. Belastingdienst/Informatievoorziening (B/IV);
+- –. Centrale dienst voor in- en uitvoer (CDIU);
 
-- –. Belastingdienst/Klantinteractie en Services (B/KI&S);
+- –. Douane informatiecentrum (DIC);
 
-- –. Belastingdienst/Central Liaison Office (B/CLO);
+- –. Douane Laboratorium.
 
-- e. - Centrale dienst voor in- en uitvoer (CDIU); - Douane informatiecentrum (DIC); - Douane Laboratorium;
+3. Het directoraat-generaal Toeslagen omvat de Belastingdienst/Toeslagen bedoeld in [artikel 11 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11), en bestaat uit de volgende onderdelen:
 
-- f. - Belastingdienst/Toeslagen.
+- a. Directie Toeslagen;
 
-2. De organisatieonderdelen, genoemd in het eerste lid, onderdelen a1 en a2, zijn belast met de heffing en invordering van rijksbelastingen, andere dan bedoeld in het derde lid en andere dan de motorrijtuigenbelasting en de belasting zware motorrijtuigen, doch met dien verstande dat deze onderdelen wel mede zijn belast met de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen. Deze onderdelen zijn mede belast met de uitvoering van de basisregistratie inkomen.
+- b. Tijdelijke directie Uitvoeringsorganisatie Herstel Toeslagen.
 
-3. De organisatieonderdelen, genoemd in het eerste lid, onderdelen a2, b1 en b2, zijn belast met de heffing en invordering van:
+4. De organisatieonderdelen, genoemd in het eerste lid, onderdelen a en b, zijn belast met de heffing en invordering van rijksbelastingen, andere dan bedoeld in het vijfde lid en andere dan de motorrijtuigenbelasting en de belasting zware motorrijtuigen, doch met dien verstande dat deze onderdelen wel mede zijn belast met de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen. Deze onderdelen zijn mede belast met de uitvoering van de basisregistratie inkomen.
+
+5. De organisatieonderdelen, genoemd in het eerste lid, onderdeel b, en het tweede lid, onderdelen a en b, zijn belast met de heffing en invordering van:
 
 - a. de rechten bij invoer en de rechten bij uitvoer;
 
@@ -114,9 +140,9 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 - e. de kolenbelasting, voor zover deze wordt geheven ter zake van de invoer, bedoeld in de [artikelen 32, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=32), en [35 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35).
 
-4. De B/CAP is belast met de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen en is mede belast met de heffing en invordering van overige rijksbelastingen. De B/CAP is mede belast met de uitvoering van de basisregistratie inkomen.
+6. De B/CAP is belast met de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen en is mede belast met de heffing en invordering van overige rijksbelastingen. De B/CAP is mede belast met de uitvoering van de basisregistratie inkomen.
 
-5. De Belastingdienst/Toeslagen is belast met het toekennen, uitbetalen en terugvorderen van:
+7. De Belastingdienst/Toeslagen is belast met het toekennen, uitbetalen en terugvorderen van:
 
 - a. het kindgebonden budget, bedoeld in de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751);
 
@@ -126,19 +152,23 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 - d. de huurtoeslag, bedoeld in de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659).
 
+8. De organisatieonderdelen, genoemd in het eerste lid, onderdeel b, en het tweede lid, zijn mede belast met de handhaving van verboden en beperkingen met betrekking tot het goederenverkeer.
+
 ##### Artikel 4
 
-1. De Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst, bijgestaan door een directieteam (het directieteam Belastingdienst).
+1. Het directoraat-generaal Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst, bijgestaan door een directieteam (het directieteam Belastingdienst).
 
-2. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1, c1, c2, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), staan, met uitzondering van de B/CLO, elk onder leiding van een algemeen directeur. Het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, staat onder leiding van een directeur.
+2. Het directoraat-generaal Douane staat onder leiding van de directeur-generaal Douane.
 
-3. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen b1, b2 en e](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), staan onder leiding van de algemeen directeur Douane.
+3. Het directoraat-generaal Toeslagen staat onder leiding van de directeur-generaal Toeslagen.
+
+4. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a, c, d, e](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), en artikel 3, derde lid, onderdeel a staan, met uitzondering van de B/CLO, elk onder leiding van een algemeen directeur. De organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdeel b, en artikel 3, derde lid, onderdeel b, staat onder leiding van een directeur.
 
 ### Hoofdstuk 2. Aanwijzing van functionarissen
 
 ##### Artikel 5
 
-1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) en [artikel 1.3, onderdeel k, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3).
+1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, en de directeur-generaal Douane zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) en [artikel 1.3, onderdeel k, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3).
 
 2. De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) voorzover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.
 
@@ -152,17 +182,17 @@ De algemeen directeur Belastingdienst/Particulieren is directeur als bedoeld in 
 
 ##### Artikel 8
 
-De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1, c1 en c2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane oefenen het bestuur van ’s Rijks belastingen uit. De algemeen directeuren en de directeur kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van ’s Rijks belastingen uitoefenen.
+De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, en de directeur-generaal Douane oefenen het bestuur van ’s Rijks belastingen uit. De directeur-generaal Douane, de algemeen directeuren en de directeur kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van ’s Rijks belastingen uitoefenen.
 
 ##### Artikel 9
 
-1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84).
+1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, en de directeur-generaal Douane zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84).
 
 2. Als functionarissen als bedoeld in [artikel 76, eerste lid, tweede volzin, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) worden aangewezen de ambtenaren van de Belastingdienst (contactambtenaren) die door de in het eerste lid aangewezen ambtenaren zijn aangewezen om namens hen de bevoegdheid, bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), uit te oefenen.
 
 ##### Artikel 10
 
-De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=50), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53) en [55 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) en [62 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) en de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.83), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.84), [8.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.85), [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87) en [8.91 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.91) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.
+De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=50), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53) en [55 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) en [62 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) en de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.83), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.84), [8.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.85), [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87) en [8.91 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.91) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de algemeen directeur van de FIOD alsmede jegens de door deze algemeen directeur aangewezen ambtenaren van de Belastingdienst.
 
 ### Hoofdstuk 3. Ressortering onder functionarissen
 
@@ -172,15 +202,15 @@ De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci
 
 - a. met inachtneming van de woonplaats van een natuurlijk persoon dan wel de vestigingsplaats van een lichaam of entiteit, voor de heffing en invordering, bedoeld in:
 
-- 1°. [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01): onder de algemeen directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdeel a1;
+- 1°. [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30): onder de algemeen directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdeel a;
 
-- 2°. [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01): onder de algemeen directeur Douane en onder een van de douaneregio's;
+- 2°. [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30): onder de directeur-generaal Douane en onder een van de douaneregio's;
 
-- b. voor de heffing en invordering, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), en voor de uitvoering van de basisregistratie inkomen: onder de directeur van de B/CAP; tenzij in dit hoofdstuk dan wel op grond van het derde lid anders is bepaald.
+- b. voor de heffing en invordering, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), en voor de uitvoering van de basisregistratie inkomen: onder de directeur van de B/CAP; tenzij in dit hoofdstuk dan wel op grond van het derde lid anders is bepaald.
 
-2. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdeel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane kunnen voor de toepassing van deze regeling bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met een of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
+2. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, en de directeur-generaal Douane kunnen voor de toepassing van deze regeling bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met een of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
 
-3. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), en de algemeen directeur Douane kunnen nadere richtlijnen geven omtrent het bepaalde in dit hoofdstuk en kunnen afwijken van de bepalingen van dit hoofdstuk.
+3. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), en de directeur-generaal Douane kunnen nadere richtlijnen geven omtrent het bepaalde in dit hoofdstuk en kunnen afwijken van de bepalingen van dit hoofdstuk.
 
 4. De woonplaats van een natuurlijk persoon en de vestigingsplaats van een lichaam of een entiteit worden naar de omstandigheden beoordeeld.
 
@@ -220,9 +250,9 @@ Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Al
 
 - a. de algemeen directeur van de Belastingdienst/Particulieren (kantoor Den Haag): met betrekking tot de directe belastingen, de inkomstenbelasting en de omzetbelasting op diensten; en
 
-- b. onder de algemeen directeur Douane:, met betrekking tot alle andere rijksbelastingen.
+- b. onder de directeur-generaal Douane: met betrekking tot alle andere rijksbelastingen.
 
-2. Onder de algemeen directeur, genoemd in het eerste lid, onderdeel a, en de algemeen directeur Douane ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2), kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en gewezen personeelsleden van deze organisaties die van de desbetreffende organisatie geen pensioen ontvangen, indien en zolang een tijdens de actieve periode ontstaan verlies als bedoeld in [artikel 3.150 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.150) niet is verrekend.
+2. Onder de algemeen directeur, genoemd in het eerste lid, onderdeel a, en de directeur-generaal Douane ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2), kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en gewezen personeelsleden van deze organisaties die van de desbetreffende organisatie geen pensioen ontvangen, indien en zolang een tijdens de actieve periode ontstaan verlies als bedoeld in [artikel 3.150 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.150) niet is verrekend.
 
 ##### Artikel 20
 
@@ -326,7 +356,7 @@ Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Al
 
 - i. e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research - European Research Infrastructure Consortium (LifeWatch ERIC).
 
-3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), bedoelde rijksbelastingen onder de algemeen directeur van de Belastingdienst/Particulieren (kantoor Den Haag):
+3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), bedoelde rijksbelastingen onder de algemeen directeur van de Belastingdienst/Particulieren (kantoor Den Haag):
 
 - a. internationale organisaties en NAVO-onderdelen gevestigd, dan wel gelegerd in andere lidstaten van de Europese Unie, alsmede de daaraan verbonden personeelsleden;
 
@@ -364,7 +394,7 @@ De [Uitvoeringsregeling Belastingdienst](onbekend) wordt ingetrokken.
 
 ##### Artikel 27
 
-1. Een functionaris die na inwerkingtreding of wijziging van deze regeling is aangewezen als directeur, inspecteur of ontvanger, treedt in de plaats van de functionaris die als zodanig vóór inwerkingtreding of wijziging van deze regeling was aangewezen of zonder inwerkingtreding of wijziging van deze regeling aangewezen zou zijn geweest. De eerste volzin is van overeenkomstige toepassing met betrekking tot een ambtenaar die is aangewezen om het bestuur van ‘s Rijks belastingen uit te oefenen, alsmede met betrekking tot een functionaris die na inwerkingtreding of wijziging van deze regeling is belast met de leiding van het organisatieonderdeel, bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01). Onder functionaris of ambtenaar wordt mede verstaan een groep van functionarissen of ambtenaren.
+1. Een functionaris die na inwerkingtreding of wijziging van deze regeling is aangewezen als directeur, inspecteur of ontvanger, treedt in de plaats van de functionaris die als zodanig vóór inwerkingtreding of wijziging van deze regeling was aangewezen of zonder inwerkingtreding of wijziging van deze regeling aangewezen zou zijn geweest. De eerste volzin is van overeenkomstige toepassing met betrekking tot een ambtenaar die is aangewezen om het bestuur van ‘s Rijks belastingen uit te oefenen, alsmede met betrekking tot een functionaris die na inwerkingtreding of wijziging van deze regeling is belast met de leiding van de Belastingdienst/Toeslagen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30). Onder functionaris of ambtenaar wordt mede verstaan een groep van functionarissen of ambtenaren.
 
 2. Beslissingen die zijn of worden genomen door de directeur, inspecteur of ontvanger die als zodanig vóór inwerkingtreding dan wel wijziging van deze regeling bevoegd was dan wel zonder inwerkingtreding of wijziging van deze regeling bevoegd zou zijn geweest, worden geacht te zijn genomen door de directeur, inspecteur of ontvanger die als zodanig op grond van deze regeling bevoegd is. De eerste volzin is van overeenkomstige toepassing met betrekking tot beslissingen van een ambtenaar die vóór inwerkingtreding dan wel wijziging van deze regeling bevoegd was dan wel zonder inwerkingtreding van deze regeling bevoegd zou zijn geweest om het bestuur van ‘s Rijks belastingen uit te oefenen.
 
@@ -1394,13 +1424,13 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 5a
 
-1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1).
+1. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, en de directeur-generaal Douane zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1).
 
-2. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdeel a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, zijn inspecteur en ontvanger als bedoeld in [artikel 1, onderdeel h onderscheidenlijk onderdeel i, van het Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&artikel=1).
+2. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, zijn inspecteur en ontvanger als bedoeld in [artikel 1, onderdeel h onderscheidenlijk onderdeel i, van het Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&artikel=1).
 
-3. De algemeen directeur van het in [artikel 3, eerste lid, onderdeel c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), genoemde organisatieonderdeel is inspecteur als bedoeld in [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a).
+3. De algemeen directeur van het in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), genoemde organisatieonderdeel is inspecteur als bedoeld in [artikel 252a, tweede lid, onderdeel e, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a).
 
-4. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a1 en c1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), zijn inspecteur en ontvanger als bedoeld in [artikel 1.1, onderdeel j, van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=1.1).
+4. De algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), zijn inspecteur en ontvanger als bedoeld in [artikel 1.1, onderdeel j, van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=1.1).
 
 ### Hoofdstuk 3. Ressortering onder functionarissen
 
@@ -2868,7 +2898,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 26a
 
-[Artikel 3, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing op de kindertoeslag, bedoeld in [artikel 6a van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=6a).
+Vervallen
 
 ## Bijlage. bij Uitvoeringsregeling Belastingdienst 2003
 
@@ -3816,13 +3846,13 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 3a
 
-1. De in [artikel 3, eerste lid, onderdelen b1 en b2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de belasting van personenauto’s en motorrijwielen, tenzij:
+1. De in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de belasting van personenauto’s en motorrijwielen, tenzij:
 
 - a. de belasting wordt voldaan door de vergunninghouder, bedoeld in [artikel 8 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), of
 
 - b. teruggaaf op verzoek wordt verleend.
 
-2. De in [artikel 3, eerste lid, onderdelen b1 en b2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de omzetbelasting, indien [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), of [artikel 17h, tweede of derde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) toepassing vindt.
+2. De in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de omzetbelasting, indien [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), of [artikel 17h, tweede of derde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) toepassing vindt.
 
 ### Hoofdstuk 2. Aanwijzing van functionarissen
 
@@ -4707,7 +4737,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 5b
 
-De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdeel a2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-01-01&g=2021-01-01), is belastingdeurwaarder als bedoeld in [artikel 1.3, onderdeel l, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3).
+De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2021-04-30&g=2021-04-30), is belastingdeurwaarder als bedoeld in [artikel 1.3, onderdeel l, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3).
 
 ### Hoofdstuk 3. Ressortering onder functionarissen
 
@@ -4721,7 +4751,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 27a
 
-[Artikel 6a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=6a&z=2021-01-01&g=2021-01-01), zoals dat artikel op 31 december 2015 luidde, is van overeenkomstige toepassing op een verzoek als bedoeld in [artikel 4l van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4l), zoals dat artikel op 31 december 2015 luidde, in verband met rentebetalingen die zijn gedaan na 31 december 2015.
+[Artikel 6a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=6a&z=2021-04-30&g=2021-04-30), zoals dat artikel op 31 december 2015 luidde, is van overeenkomstige toepassing op een verzoek als bedoeld in [artikel 4l van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4l), zoals dat artikel op 31 december 2015 luidde, in verband met rentebetalingen die zijn gedaan na 31 december 2015.
 
 ## Bijlage. Uitvoeringsregeling Belastingdienst 2003
 
