@@ -81,9 +81,3 @@ Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen 
 Deze wet wordt aangehaald als: Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IIIaa
-
-Wijzigt de Wet goed verhuurderschap.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
