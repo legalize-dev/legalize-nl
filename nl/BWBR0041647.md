@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2020-05-21"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2020-05-21&g=2020-05-21) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2020-05-21&g=2020-05-21), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2020-05-21&g=2020-05-21) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2020-05-21&g=2020-05-21).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2021-05-01&g=2021-05-01).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -287,7 +287,7 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 | Wft.D1.17 | artikel 2:50, eerste lid, van de Wft (uitoefening van het bedrijf van natura-uitvaartverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 2.800 |
 | Wft.D1.18 | [artikel 2:54a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 26.000 |
 | Wft.D1.19 | [artikel 2:54d, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54d) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 22.400 |
-| Wft.D1.20 | [artikelen 2:54i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) en [2:54l van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) (uitoefening van het bedrijf van wisselinstelling) | € 3.100 |
+| Wft.D1.20 | [artikelen 2:54i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) en [2:54l van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) (uitoefening van het bedrijf van wisselinstelling) | € 4.400 |
 | Wft.D1.21 | [artikel 2:54g, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54g) (uitoefenen van het bedrijf van premiepensioeninstelling) | € 26.000 |
 | Wft.D1.22 | [artikel 3:4, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4) waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in artikel 3:269 van de Wft, en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is | € 44.300 |
 | Wft.D1.23 | artikel 3:4, eerste lid, van de Wft, anders dan bedoeld onder Wft.D1.22 | € 31.500 |
@@ -331,17 +331,23 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 | Wft.D7.02 | anders dan bedoeld onder Wft.D7.01, van wie de geschiktheid op grond van artikel 3:8 van de Wft dient te worden vastgesteld | € 2.000 |
 | Wft.D7.03 | Van wie de betrouwbaarheid op grond van [artikel 3:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) dient te worden vastgesteld | € 1.100 |
 | Wft.D7.04 | van een premiepensioeninstelling, van wie de betrouwbaarheid op grond van [artikel 5, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=5) dient te worden vastgesteld | € 1.100 |
+| Wft.D7.05 | van een wisselinstelling, van wie de betrouwbaarheid en de geschiktheid op grond van [artikel 3:9a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9a) dient te worden vastgesteld | € 1.300 |
 | **Onderdeel PW.D1** | **Behandeling aanvraag vergunning Pensioenwet** |   |
 | PW.D1.01 | [artikel 112a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=112a) (uitoefening van het bedrijf van algemeen pensioenfonds) | € 26.000 |
 | **Onderdeel Wtt.D1:** | **Behandeling aanvraag vergunning trustkantoor als bedoeld in** |   |
-| Wtt.D1.01 | [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), of [artikel 4 van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4) | € 3.200 |
+| Wtt.D1.01 | [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), of [artikel 4 van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4) | € 4.500 |
 | **Onderdeel Wtt.D2:** | **Behandeling van aanvraag verlening ontheffing trustkantoor als bedoeld in** |   |
 | Wtt.D2.01 | [artikel 5, tweede lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=5) | € 1.600 |
+| **Onderdeel** **Wtt.D3:** | **Toetsing persoon, niet in combinatie met een vergunning, als bedoeld in** |   |
+| Wtt.D3.01 | [Artikel 10, eerste lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=10) | € 2.000 |
+| W66.D3.02 | Artikel 10, tweede en derde lid, van de Wet toezicht trustkantoren 2018 | € 1.100 |
+| Wtt.D3.03 | Artikel 10, vierde lid, van de Wet toezicht trustkantoren 2018 | € 1.300 |
 | **Onderdeel Wwft.D1:** | **Behandeling aanvraag registratie als bedoeld in** |   |
-| Wwft.D1.01 | [Artikel 23b, eerste of tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23b) | € 5.000 |
+| Wwft.D1.01 | [Artikel 23b, eerste of tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23b) | € 6.300 |
 | **Onderdeel Wwft.D2:** | **Toetsing persoon, niet in combinatie met een registratie, als bedoeld in** |   |
 | Wwft.D2.01 | [Artikel 23h, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) | € 2.000 |
 | Wwft.D2.02 | [Artikel 23h, tweede en vierde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) | € 1.100 |
+| Wwft.D2.03 | Artikel 23h, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme | € 1.300 |
 
 #### § 4. Slotbepalingen
 
