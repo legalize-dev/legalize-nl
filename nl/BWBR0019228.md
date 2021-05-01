@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2020-12-09"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -56,11 +56,19 @@ In deze regeling wordt verstaan onder:
 
 - d. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
 
-- e. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
+- e. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is met uitzondering van zuivelinrichtingen en ei- en eiproducteninrichtingen;
 
-- f. **zuivelinrichtingen**: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853);
+- f. **zuivelinrichtingen:**
 
-- g. **ei- en eiproducteninrichtingen**: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853);
+- –. inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853) van toepassing zijn; of
+
+- –. inrichtingen waar rauwe melk, colostrum, zuivelproducten of producten op basis van colostrum al dan niet geconditioneerd worden opgeslagen of verhandeld;
+
+- g. **ei- en eiproducteninrichtingen:**
+
+- –. inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853) van toepassing zijn; of
+
+- –. inrichtingen waar eieren of eiproducten al dan niet geconditioneerd worden opgeslagen of verhandeld;
 
 - h. **gemengde bedrijven**: een combinatie van onder e, f of g bedoelde bedrijven.
 
