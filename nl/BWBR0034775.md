@@ -4,7 +4,7 @@ identifier: "BWBR0034775"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2021-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034775"
 soort: "AMvB"
@@ -124,11 +124,15 @@ In dit besluit wordt verstaan onder:
 
 3. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in [artikel 273f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), voor zover het feit is begaan tegen een persoon die de leeftijd van achttien jaar heeft bereikt, en in de [artikelen 231](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350) en [416 tot en met 417bis van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is begaan buiten de rechtsmacht van enige staat.
 
-4. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 240 tot en met 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=242), [244 tot en met 246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=244), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248a), [248d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248d), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285b), [285c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285c), [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296) en [300 tot en met 304 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), voor zover het feit valt onder de omschrijvingen van de artikelen 33 tot en met 40 van het op 11 mei 2011 te Istanboel tot stand gekomen Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld.
+4. De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=132), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140a) en [205 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), voor zover het feit valt onder de omschrijvingen van de artikelen 5, 6, 7 en 9 van het op 16 mei 2005 te Warschau tot stand gekomen Verdrag van de Raad van Europa ter voorkoming van terrorisme (Trb. 2006, 34).
 
-5. In de gevallen, bedoeld in het derde lid, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft gekregen.
+5. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 240 tot en met 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=242), [244 tot en met 246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=244), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248a), [248d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248d), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285b), [285c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285c), [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296) en [300 tot en met 304 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), voor zover het feit valt onder de omschrijvingen van de artikelen 33 tot en met 40 van het op 11 mei 2011 te Istanboel tot stand gekomen Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld.
 
-6. De bijlage van dit besluit vermeldt het verdrag dat tot het vestigen van rechtsmacht als bedoeld in het eerste lid, onder b, verplicht.
+6. De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140a) en [421 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=421), voor zover het feit valt onder de omschrijvingen van de artikelen 2 tot en met 6 van het op 22 oktober 2015 te Riga tot stand gekomen Aanvullend Protocol bij het Verdrag van de Raad van Europa ter voorkoming van terrorisme (Trb. 2016, 180).
+
+7. In de gevallen, bedoeld in het derde lid, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft gekregen.
+
+8. De bijlage van dit besluit vermeldt het verdrag dat tot het vestigen van rechtsmacht als bedoeld in het eerste lid, onder b, verplicht.
 
 #### Paragraaf 4. Verplichtingen in het kader van de Europese Unie
 
@@ -172,25 +176,25 @@ Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extrater
 
 ## Bijlage. bij het Besluit internationale verplichtingen extraterritoriale rechtsmacht
 
-### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01)
+### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2021-01-01&g=2021-01-01)
+### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
+### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
+### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-05-01&g=2021-05-01)
 
-### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-01-01&g=2021-01-01)
+### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2021-05-01&g=2021-05-01)
 
 ### [Artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
 
