@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -60,14 +60,20 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 | **Energie: gas** | • De netbeheerder van het landelijk gastransportnet, aangewezen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) • De regionale netbeheerders, aangewezen krachtens [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
 | **Energie: gas** | De Nederlandse Aardolie Maatschappij B.V. | Het opsporen en winnen van gas op basis van de concessie voor de aardgaswinning uit het Groningenveld op grond van het koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 1963, 126) |
 | **Energie: aardolie** | Stichting Centraal Orgaan Voorraadvorming Aardolieproducten | Het beheren van strategische olievoorraden |
-| **Vervoer** | De Divisie Havenmeester van het Havenbedrijf Rotterdam N.V. | Het afwikkelen van scheepvaartverkeer |
-| **Vervoer** | • Royal Schiphol Group N.V. • Luchtverkeersleiding Nederland • Maastricht Upper Area Control Centre (MUAC) • Aircraft Fuel Supply B.V. • Koninklijke marechaussee • elke luchtvaartmaatschappij met minimaal 25% van het totaal aantal vliegbewegingen op Schiphol in een kalenderjaar | Een veilige en vlotte vlucht- en vliegtuigafhandeling voor wat betreft de luchthaven Schiphol |
+| **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van oliepijpleidingen, als bedoeld in Bijlage II van de NIB-richtlijn | Beheer van oliepijpleidingen |
+| **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van voorzieningen voor de productie, opslag, transport, raffinage en behandeling van olie, bedoeld in Bijlage II van de NIB-richtlijn | Productie, opslag, transport, raffinage, of behandeling van olie |
+| **Vervoer: luchtvervoer** | • Royal Schiphol Group N.V. • Luchtverkeersleiding Nederland • Maastricht Upper Area Control Centre (MUAC) • Aircraft Fuel Supply B.V. • Koninklijke marechaussee • elke luchtvaartmaatschappij met minimaal 25% van het totaal aantal vliegbewegingen op Schiphol in een kalenderjaar | Een veilige en vlotte vlucht- en vliegtuigafhandeling voor wat betreft de luchthaven Schiphol |
+| **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen infrastructuurbeheerders, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het beheer van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) |
+| **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen spoorwegondernemingen, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het vervoer van personen of goederen over (hoofd)spoorweginfrastructuur |
+| **Vervoer: vervoer over water** | De Divisie Havenmeester van het Havenbedrijf Rotterdam N.V. | Het afwikkelen van scheepvaartverkeer |
+| **Vervoer: wegvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen wegenautoriteiten, bedoeld in artikel 2 van verordening (EU) 2015/962 | Het beheer van weginfrastructuur |
+| **Vervoer: wegvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen exploitanten van intelligente vervoerssystemen, bedoeld in artikel 4 van [richtlijn 2010/40](32010L0040)/EU | Het exploiteren van een intelligent vervoerssysteem als bedoeld in artikel 4 van [richtlijn 2010/40](32010L0040)/EU |
 | **Bankwezen** | De bij besluit van De Nederlandsche Bank N.V. aangewezen kredietinstellingen als bedoeld in artikel 4, punt 1, van Verordening (EU) nr. 575/2013 | Het aanbieden en afwikkelen van betalings- en effectenverkeer |
 | **Infrastructuur voor de financiële markt** | De bij besluit van De Nederlandsche Bank N.V. aangewezen: • exploitanten van handelsplatformen als bedoeld in artikel 4, punt 24, van [Richtlijn 2014/65](32014L0065)/EU; • centrale tegenpartijen als bedoeld in artikel 2, punt 1, van Verordening (EU) nr. 648/2012 | Het aanbieden en afwikkelen van effectenverkeer |
 | **Drinkwater** | Drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1) | Het leveren van deugdelijk drinkwater door middel van een openbare drinkwatervoorziening |
-| **Digitale infrastructuur** | Een aanbieder van een internetknooppunt als bedoeld in artikel 4, onder 13, van Richtlijn (EU) 2016/1148 waarop meer dan 300 autonome systemen zijn aangesloten | Het faciliteren van het internet- en dataverkeer |
-| **Digitale infrastructuur** | Een beheerder van een register voor topleveldomeinnamen die bij de Internet Assigned Number Authority (IANA) is geregistreerd en die meer dan 1.000.000 geregistreerde domeinnamen in beheer heeft | Het beheren en registreren van domeinnamen onder een topleveldomein |
-|   | Een beheerder van een register voor topleveldomeinnamen die bij de IANA is geregistreerd, meer dan 1.000.000 geregistreerde domeinnamen in beheer heeft en ten behoeve van die domeinnamen DNS-diensten verleent als bedoeld in artikel 4, onder 14 en 15, van Richtlijn (EU) 2016/1148 | Het verlenen van DNS-diensten ten behoeve van domeinnamen onder een topleveldomein |
+| **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van internetknooppunten, bedoeld in bijlage II van de NIB-richtlijn | Het faciliteren van het internet- en dataverkeer |
+| **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van registers voor topleveldomeinnamen, als bedoeld in bijlage II van de NIB-richtlijn | Het beheren en registreren van domeinnamen onder een topleveldomein |
+| **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van DNS-dienstverleners, als bedoeld in bijlage II van de NIB-richtlijn | Het verlenen van DNS-diensten |
 
 ##### Artikel 3. (aanwijzing andere vitale aanbieders)
 
@@ -82,10 +88,13 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 | **Financieel** | • afwikkelondernemingen, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) | • het verlenen van afwikkeldiensten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) |
 | **Financieel** | • centrale effectenbewaarinstelling, bedoeld in artikel 2, eerste lid, van Verordening (EU) nr. 909/2014 | • het exploiteren van een effectenafwikkelingssysteem |
 | **Elektronische communicatienetwerken en -diensten/ICT** | Een aanbieder van een elektronisch communicatienetwerk of een elektronische communicatiedienst die een netwerk of infrastructuur beheert dat of die direct of indirect wordt gebruikt ten behoeve van het verlenen van een telefoon-, sms- of internettoegangsdienst aan minimaal 1.000.000 eindgebruikers | Het verlenen van een telefoon-, sms- of internettoegangsdienst |
+| **Digitale overheid** | De Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2) | Het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) |
+| **Digitale overheid** | Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties | • De centrale voorzieningen, bedoeld in [artikel 1.9, derde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9) • De voorziening voor uitgifte of activatie van elektronische authenticatiemiddelen en voor elektronische authenticatie die bereikbaar is via het webadres www.digid.nl |
+| **Digitale overheid** | De aanbieder van een digitale overheidsvoorziening als bedoeld in de derde kolom | Een digitale overheidsvoorziening, aangewezen bij besluit van Onze Minister die het aangaat |
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27) zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2019-01-01&g=2019-01-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-05-01&g=2021-05-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2021-05-01&g=2021-05-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -110,5 +119,39 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 9. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit beveiliging netwerk- en informatiesystemen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a. (beveiliging aanbieders van een essentiële dienst)
+
+1. Ter uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8) neemt een aanbieder van een essentiële dienst ten minste de maatregelen, beschreven in de bijlage bij dit besluit.
+
+2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
+
+## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-05-01&g=2021-05-01), van het Besluit beveiliging netwerk- en informatiesystemen
+
+### Beveiliging aanbieders van een essentiële dienst
+
+Ter uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8) neemt de aanbieder van een essentiële dienst (hierna: de aanbieder) ten minste de in deze bijlage beschreven maatregelen. De maatregelen worden door de aanbieder periodiek geëvalueerd en bijgesteld.
+
+### 1. Risicogebaseerde aanpak
+
+De aanbieder heeft een actueel overzicht van de netwerk- en informatiesystemen die zijn essentiële dienst ondersteunen. De aanbieder stelt een risicoanalyse op waarin hij de risico’s met betrekking tot de beveiliging beschrijft en ingaat op de wijze waarop hij de risico’s naar een passend niveau verkleint. Hij motiveert daarbij waarom dit niveau volgens hem proportioneel en aanvaardbaar is. In die motivering gaat hij in ieder geval in op de organisatiespecifieke en sectorspecifieke risico’s, het maatschappelijke belang van zijn essentiële dienst en de stand van de techniek. Hij legt de resultaten van de risicoanalyse schriftelijk vast en verwerkt de resultaten in beveiligings- en beheersmaatregelen.
+
+### 2. Organisatie van netwerk- en informatiebeveiligingsbeheer
+
+De aanbieder heeft een informatiebeveiligingsbeleid en -strategie en past deze actief toe. Hij heeft de taken, bevoegdheden en verantwoordelijkheden voor de beveiliging en beheer van zijn netwerk- en informatiesystemen in de organisatie belegd.
+
+### 3. Incidenten voorkomen
+
+De aanbieder heeft een gelaagde beveiligingsstrategie die is gebaseerd op de risico’s die volgen uit de risicoanalyse.**Defense in depth**, lifecycle-, asset-, patch-, identificatie- en toegangsmanagement vormen in ieder geval onderdeel van deze strategie. Wanneer hij door relevante instanties zoals leveranciers of betrokken overheidsinstanties geattendeerd wordt op beveiligingsadviezen en dreigingsinformatie, beoordeelt hij of op basis daarvan gegeven de stand der techniek aanvullende maatregelen noodzakelijk zijn om geïdentificeerde risico’s te verkleinen naar een passend niveau. De aanbieder legt de bevindingen van zijn beoordeling schriftelijk vast.
+
+### 4. Detectie en respons
+
+De aanbieder heeft de beveiliging van zijn netwerk- en informatiesystemen zodanig ingericht dat hij daarmee incidenten kan detecteren, analyseren en vastleggen en de gevolgen daarvan zo veel mogelijk kan beperken. Hij monitort netwerk- en informatiesystemen structureel op kwetsbaarheden en mogelijke compromittatie en houdt hierbij rekening met de beschikbare dreigingsinformatie. Hij verzorgt het loggen van de handelingen op de netwerk- en informatiesystemen en bewaart deze gegevens lang genoeg om incidenten te kunnen analyseren. Hij hanteert procedures omtrent het optreden bij incidenten.
+
+### 5. Gevolgen van incidenten beperken
+
+De aanbieder stelt een bedrijfscontinuïteitsbeleid en crisismanagementbeleid op voor de netwerk- en informatiesystemen. Het crisismanagementbeleid bestaat in ieder geval uit een plan om de essentiële dienst zo spoedig mogelijk te herstellen na een incident. Het crisismanagementbeleid wordt daartoe periodiek in de praktijk beoefend.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
