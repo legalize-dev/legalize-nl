@@ -4,7 +4,7 @@ identifier: "BWBR0044476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044476"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Woonlandfactor
 
-1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling opgenomen factor.
+1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-05-01&g=2021-05-01) bij deze regeling opgenomen factor.
 
-2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
+2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-05-01&g=2021-05-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
 ##### Artikel 2. Model beslagvrije voet
 
-Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2021-01-01&g=2021-01-01) bij deze regeling.
+Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2021-05-01&g=2021-05-01) bij deze regeling.
 
 ##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Inlichtingenbureau en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
-2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2021-01-01&g=2021-01-01) van deze regeling.
+2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2021-05-01&g=2021-05-01) van deze regeling.
 
 3. Onze Minister verwijdert de berekening en de daaraan ten grondslag liggende gegevens terstond na het verstrekken daarvan.
 
@@ -374,7 +374,7 @@ Wij gaan zorgvuldig om met uw gegevens en met uw privacy. Op <**link**> staat ho
 
 ## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
 
-Deze aansluit- en gebruiksvoorwaarden zijn van toepassing op de aansluiting van aangewezen afnemers op de Centrale voorziening BVV bedoeld voor beslagleggende organisaties die gebruikmaken van de door de Minister van Sociale Zaken en Werkgelegenheid geboden ondersteuning, zoals beschreven in [artikel 8 Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
+Deze aansluit- en gebruiksvoorwaarden zijn van toepassing op de aansluiting van aangewezen afnemers op de Centrale voorziening BVV bedoeld voor beslagleggende organisaties en organisaties voor schuldhulpverlening die gebruikmaken van de door de Minister van Sociale Zaken en Werkgelegenheid geboden ondersteuning, zoals beschreven in [artikel 8 Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
 De aansluit- en gebruikersvoorwaarden zijn onderdeel van de Regeling beslagvrije voet. Het aldaar bepaalde met betrekking tot de verdeling van verantwoordelijkheden tussen partijen werkt direct door in deze aansluit- en gebruikersvoorwaarden.
 
@@ -400,4 +400,4 @@ Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van
 
 ### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-01-01&g=2021-01-01) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-05-01&g=2021-05-01) in de Staatscourant worden geplaatst.
