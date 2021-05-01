@@ -4,7 +4,7 @@ identifier: "BWBV0002871"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-01"
-last_updated: "2003-12-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002871"
 soort: "verdrag"
@@ -129,7 +129,7 @@ Tenzij in dit Verdrag anders wordt bepaald, worden voor de toepassing van de wet
 
 ##### Artikel 4
 
-1. Tenzij in dit Verdrag anders wordt bepaald, kunnen pensioenen en andere uitkeringen, met uitzondering van werkloosheidsuitkeringen, niet worden verminderd, gewijzigd, geschorst of ingetrokken op grond van het feit dat de uitkeringsgerechtigde of, in voorkomend geval, het kind, op het grondgebied van de andere Verdragsluitende Partij woont.
+1. Tenzij in dit Verdrag anders wordt bepaald, kunnen pensioenen en andere uitkeringen, met uitzondering van werkloosheidsuitkeringen, kinderbijslagen en toeslagen ingevolge de Toeslagenwet van 6 november 1986, niet worden verminderd, gewijzigd, geschorst of ingetrokken op grond van het feit dat de uitkeringsgerechtigde op het grondgebied van de andere Verdragsluitende Partij woont.
 
 2. Tenzij in dit Verdrag anders wordt bepaald, worden pensioenen en andere uitkeringen die zijn verschuldigd krachtens de wetgeving van een der Verdragsluitende Partijen, aan de onderdanen van de andere Verdragsluitende Partij, die in een derde Staat wonen, onder dezelfde voorwaarden en in dezelfde mate verleend als aan de onderdanen van eerstbedoelde Verdragsluitende Partij die in die derde Staat wonen.
 
@@ -410,6 +410,48 @@ DONE in duplicate at Jerusalem on 25 April 1984, which corresponds to the 23rd d
 ### Hoofdstuk 1. Ziekte en moederschap
 
 ### Hoofdstuk 2. Invaliditeit
+
+#### Toepassing van de Israëlische wetgeving
+
+#### Toepassing van de Nederlandse wetgeving
+
+### Hoofdstuk 5. Werkloosheid
+
+### Hoofdstuk 6. Kinderbijslag
+
+## DEEL IV. DIVERSE BEPALINGEN
+
+## DEEL V. OVERGANGS- EN SLOTBEPALINGEN
+
+IN WITNESS WHEREOF the undersigned, duly authorised by their respective Governments, have signed this Convention.
+
+DONE in duplicate at Jerusalem on 25 April 1984, which corresponds to the 23rd day of Nissan 5744, in the English language.
+
+**For the Government of the Kingdom of the Netherlands**
+
+(sd.) L. DE GRAAF
+
+(sd.) M. P. S. VAN BERCKEL
+
+**For the Government of the State of Israel,**
+
+(sd.) A. UZAN
+
+##### Artikel 4a
+
+Voor zover door de Nederlandse wetgeving wordt vereist en niettegenstaande [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002871&deel=I&artikel=4&z=2021-05-01&g=2021-05-01), wordt het woonlandbeginsel toegepast. Dit houdt in dat het bedrag van een uitkering wordt aangepast aan de kosten van levensonderhoud in het woonland van de uitkeringsgerechtigde.
+
+## DEEL II. BEPALINGEN INZAKE DE TOE TE PASSEN WETGEVING
+
+## DEEL III. BIJZONDERE BEPALINGEN INZAKE DE VERSCHILLENDE SOORTEN UITKERINGEN
+
+### Hoofdstuk 1. Ziekte en moederschap
+
+### Hoofdstuk 2. Invaliditeit
+
+### Hoofdstuk 3. Arbeidsongevallen
+
+### Hoofdstuk 4. Ouderdom en nagelaten betrekkingen
 
 #### Toepassing van de Israëlische wetgeving
 
