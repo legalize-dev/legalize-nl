@@ -4,7 +4,7 @@ identifier: "BWBV0004659"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-01"
-last_updated: "1970-02-12"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004659"
 soort: "verdrag"
@@ -44,25 +44,47 @@ De staten die partij zijn bij dit Verdrag zijn als volgt overeengekomen:
 
 - b). handelingen die, al dan niet strafbare feiten zijnde, de veiligheid van het vliegtuig of van de personen of goederen aan boord daarvan in gevaar brengen of kunnen brengen of die de goede orde en discipline aan boord in gevaar brengen.
 
-2. Onder voorbehoud van de bepalingen van hoofdstuk III heeft dit Verdrag betrekking op strafbare feiten of handelingen, begaan door een persoon aan boord van een luchtvaartuig dat ingeschreven is in een Verdragsluitende Staat, terwijl dat luchtvaartuig zich in de lucht bevindt of op de volle zee of in een gebied dat niet tot het grondgebied van een staat behoort.
+2. Onder voorbehoud van de bepalingen van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&z=2021-05-01&g=2021-05-01) heeft dit Verdrag betrekking op strafbare feiten of handelingen, begaan door een persoon aan boord van een luchtvaartuig dat ingeschreven is in een Verdragsluitende Staat, terwijl dat luchtvaartuig zich in de lucht bevindt of op de volle zee of in een gebied dat niet tot het grondgebied van een staat behoort.
 
-3. In dit Verdrag wordt een luchtvaartuig geacht in vlucht te zijn vanaf het ogenblik waarop motorvermogen wordt aangewend om op te stijgen tot het ogenblik waarop de uitloop na de landing is geëindigd.
+3. Voor de toepassing van dit Verdrag:
+
+- a. wordt een luchtvaartuig geacht in vlucht te zijn vanaf het moment waarop alle buitendeuren, na het instappen, zijn gesloten tot het moment waarop een van de deuren wordt geopend voor het uitstappen. In geval van een noodlanding wordt de vlucht geacht voort te duren totdat de bevoegde autoriteiten de verantwoordelijkheid voor het luchtvaartuig en voor de personen en goederen aan boord overnemen; en
+
+- b. wordt, wanneer de staat van de exploitant niet dezelfde is als de staat waar het luchtvaartuig is ingeschreven, „de staat waar het luchtvaartuig is ingeschreven”, zoals gebezigd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=4&z=2021-05-01&g=2021-05-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=5&z=2021-05-01&g=2021-05-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=V&artikel=13&z=2021-05-01&g=2021-05-01) van het Verdrag, geacht de staat van de exploitant te zijn.
 
 4. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
 
 ##### Artikel 2
 
-Onverminderd de bepalingen van artikel 4 en behalve wanneer de veiligheid van het luchtvaartuig of van personen of goederen aan boord dit vereist, wordt geen bepaling van dit Verdrag zo uitgelegd dat zij een optreden rechtvaardigt of vereist ten aanzien van overtredingen van strafrechtelijke bepalingen van politieke aard of gebaseerd op onderscheid met betrekking tot ras of godsdienst.
+Onverminderd de bepalingen van artikel 4 en behalve wanneer de veiligheid van het luchtvaartuig of van personen of goederen aan boord dit vereist, wordt geen bepaling van dit Verdrag zo uitgelegd dat zij een optreden rechtvaardigt of vereist ten aanzien van overtredingen van strafrechtelijke bepalingen van politieke aard of gebaseerd op onderscheid op welke grond dan ook, zoals ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht.
 
 ### Hoofdstuk II. Rechtsmacht
 
 ##### Artikel 3
 
-1. De staat waar het luchtvaartuig is ingeschreven is bevoegd kennis te nemen van strafbare feiten en handelingen die aan boord zijn begaan.
+1. De staat waar het luchtvaartuig is ingeschreven is bevoegd rechtsmacht uit te oefenen met betrekking tot strafbare feiten en handelingen die aan boord zijn begaan.
 
-2. Iedere Verdragsluitende Staat neemt de maatregelen die nodig zijn om zijn bevoegdheid tot kennisneming van strafbare feiten, aan boord van een in die staat ingeschreven luchtvaartuig begaan, te kunnen uitoefenen.
+1 bis. Een staat is eveneens bevoegd rechtsmacht uit te oefenen met betrekking tot strafbare feiten en handelingen die aan boord zijn begaan:
 
-3. Dit Verdrag sluit geen enkele bevoegdheid in strafzaken uit, die wordt uitgeoefend volgens de nationale wet.
+- a. als de staat waar het luchtvaartuig is geland, indien het luchtvaartuig aan boord waarvan het strafbare feit of de handeling is begaan op zijn grondgebied landt met de vermoedelijke dader nog aan boord; en
+
+- b. als de staat van de exploitant, indien het strafbare feit of de handeling is begaan aan boord van een luchtvaartuig dat zonder bemanning is verhuurd aan een huurder die de hoofdzetel van zijn bedrijf, of, indien de huurder een dergelijke zetel niet heeft, zijn vaste verblijfplaats heeft in die staat.
+
+2. Elke Verdragsluitende Staat neemt de maatregelen die nodig zijn om zijn rechtsmacht te vestigen als de staat waar het luchtvaartuig is ingeschreven met betrekking tot strafbare feiten die zijn begaan aan boord van luchtvaartuigen die in deze staat zijn ingeschreven.
+
+2 bis. Elke Verdragsluitende Staat neemt tevens de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot strafbare feiten begaan aan boord van luchtvaartuigen, in de volgende gevallen:
+
+- a. als de staat waar het luchtvaartuig is geland:
+
+- i. indien het laatste punt van opstijgen of volgende beoogde landingspunt van het luchtvaartuig aan boord waarvan het strafbare feit is begaan zich op zijn grondgebied bevindt en het luchtvaartuig vervolgens op zijn grondgebied landt met de vermoedelijke dader nog aan boord; en
+
+- ii. indien de veiligheid van het luchtvaartuig of van de personen of goederen aan boord daarvan in gevaar worden gebracht of de goede orde en discipline aan boord in gevaar worden gebracht;
+
+- b. als de staat van de exploitant, indien het strafbare feit is begaan aan boord van een luchtvaartuig dat zonder bemanning is verhuurd aan een huurder die de hoofdzetel van zijn bedrijf, of, indien de huurder een dergelijke zetel niet heeft, zijn vaste verblijfplaats heeft in die staat.
+
+2 ter. Bij het uitoefenen van zijn rechtsmacht als de staat waar het luchtvaartuig is geland houdt de staat rekening met het feit of het betreffende feit strafbaar is in de staat van de exploitant.
+
+3. Dit Verdrag sluit geen rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met de nationale wetgeving.
 
 ##### Artikel 4
 
@@ -82,33 +104,35 @@ Een Verdragsluitende Staat die niet de staat van inschrijving is, mag een zich i
 
 ##### Artikel 5
 
-1. De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en handelingen die begaan zijn of op het punt staan begaan te worden door een persoon aan boord van een luchtvaartuig dat zich bevindt in het luchtruim boven de staat van inschrijving of boven de volle zee of een gebied dat niet tot het grondgebied van een staat behoort tenzij het laatste punt van vertrek of het punt van de eerstvolgende voorgenomen landing in een andere staat ligt dan de staat van inschrijving, of het luchtvaartuig vervolgens vliegt in het luchtruim van een andere staat dan de staat van inschrijving met die persoon nog aan boord.
-
-2. Niettegenstaande het bepaalde in artikel 1, derde lid, wordt in dit hoofdstuk een luchtvaartuig geacht zijn vlucht te hebben aangevangen op het moment waarop alle buitendeuren, na het instappen, zijn gesloten tot het moment dat een dier deuren wordt geopend voor het uitstappen. In het geval van een noodlanding blijven de bepalingen van dit hoofdstuk van toepassing ten aanzien van strafbare feiten en handelingen aan boord begaan totdat de bevoegde autoriteiten van een staat de verantwoordelijkheid voor het luchtvaartuig en voor de personen en goederen aan boord overnemen.
+De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en handelingen die begaan zijn of op het punt staan begaan te worden door een persoon aan boord van een luchtvaartuig dat zich bevindt in het luchtruim boven de staat van inschrijving of boven de volle zee of een gebied dat niet tot het grondgebied van een staat behoort tenzij het laatste punt van vertrek of het punt van de eerstvolgende voorgenomen landing in een andere staat ligt dan de staat van inschrijving, of het luchtvaartuig vervolgens vliegt in het luchtruim van een andere staat dan de staat van inschrijving met die persoon nog aan boord.
 
 ##### Artikel 6
 
-1. De gezagvoerder van het luchtvaartuig mag, indien hij redelijke gronden heeft om aan te nemen dat een persoon aan boord van het luchtvaartuig een strafbaar feit of een handeling als bedoeld in artikel 1, eerste lid, heeft begaan of op het punt staat te begaan, ten aanzien van die persoon alle redelijke maatregelen nemen, vrijheidsbeperking daaronder begrepen, die nodig zijn om:
+1. De gezagvoerder van het luchtvaartuig mag, indien hij redelijke gronden heeft om aan te nemen dat een persoon aan boord van het luchtvaartuig een strafbaar feit of een handeling als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=I&artikel=1&z=2021-05-01&g=2021-05-01), heeft begaan of op het punt staat te begaan, ten aanzien van die persoon alle redelijke maatregelen nemen, vrijheidsbeperking daaronder begrepen, die nodig zijn om:
 
-- a). de veiligheid van het luchtvaartuig of van de zich aan boord bevindende personen of goederen te waarborgen;
+- a. de veiligheid van het luchtvaartuig of van de personen of goederen aan boord daarvan te beschermen; of
 
-- b). de goede orde en discipline aan boord te handhaven; of
+- b. de goede orde en discipline aan boord te handhaven; of
 
-- c). hem in staat te stellen de betrokken persoon aan de bevoegde autoriteiten over te dragen of hem het luchtvaartuig te doen verlaten, krachtens de bepalingen van dit hoofdstuk.
+- c. hem in staat te stellen de betrokken persoon aan de bevoegde autoriteiten over te dragen of hem het luchtvaartuig te doen verlaten, overeenkomstig de bepalingen van dit hoofdstuk.
 
-2. De gezagvoerder van het luchtvaartuig mag de hulp van andere leden der bemanning vorderen of hen tot het verlenen daarvan machtigen en hij mag de bijstand van passagiers verzoeken of hen tot het verlenen daarvan machtigen, doch niet vorderen, om een persoon in zijn vrijheid te beperken wanneer hij tot het nemen van vrijheidbeperkende maatregelen ten aanzien van die persoon gerechtigd is. Ieder lid van de bemanning en iedere passagier mag ook zonder zodanige machtiging redelijke voorzorgsmaatregelen nemen indien hij redelijke gronden heeft om aan te nemen dat zulk een optreden onmiddellijk noodzakelijk is voor de veiligheid van het luchtvaartuig of van de personen en goederen aan boord.
+2. De gezagvoerder van het luchtvaartuig mag de hulp van andere leden van de bemanning vorderen of hen tot het verlenen daarvan machtigen en hij mag om de bijstand van meereizende veiligheidsfunctionarissen of passagiers verzoeken of hen tot het verlenen daarvan machtigen, doch deze niet vorderen, om een persoon in zijn vrijheid te beperken wanneer hij tot het nemen van vrijheidsbeperkende maatregelen ten aanzien van die persoon gerechtigd is. Ieder lid van de bemanning en iedere passagier mag ook zonder deze machtiging redelijke voorzorgsmaatregelen nemen indien hij redelijke gronden heeft om aan te nemen dat onmiddellijk optreden noodzakelijk is voor het beschermen van de veiligheid van het luchtvaartuig of van de personen of goederen aan boord.
+
+3. Een meereizende veiligheidsfunctionaris die wordt ingezet ingevolge een bilaterale of multilaterale overeenkomst of regeling tussen de betreffende Verdragsluitende Staten kan ook zonder deze machtiging redelijke voorzorgsmaatregelen nemen indien hij redelijke gronden heeft om aan te nemen dat onmiddellijk optreden noodzakelijk is om de veiligheid van het luchtvaartuig of van de personen aan boord daarvan te beschermen tegen daden van wederrechtelijke inmenging, en, indien de overeenkomst of regeling daarin voorziet, tegen het begaan van ernstige strafbare feiten.
+
+4. Geen enkele bepaling van dit Verdrag wordt geacht een verplichting te scheppen voor een Verdragsluitende Staat om een programma voor meereizende veiligheidsfunctionarissen in te stellen of in te stemmen met een bilaterale of multilaterale overeenkomst of regeling waarbij buitenlandse meereizende veiligheidsfunctionarissen worden gemachtigd op zijn grondgebied op te treden.
 
 ##### Artikel 7
 
-1. Vrijheidbeperkende maatregelen genomen ten aanzien van een persoon overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=1970-02-12&g=1970-02-12) worden beëindigd zodra het luchtvaartuig is geland, tenzij:
+1. Vrijheidbeperkende maatregelen genomen ten aanzien van een persoon overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=2021-05-01&g=2021-05-01) worden beëindigd zodra het luchtvaartuig is geland, tenzij:
 
-- a). de landing heeft plaats gevonden op het grondgebied van een staat die niet partij is bij dit Verdrag en de autoriteiten van die staat niet toestaan dat die persoon het luchtvaartuig verlaat, of genoemde maatregelen zijn genomen overeenkomstig [artikel 6, lid 1 **c**](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=1970-02-12&g=1970-02-12)), teneinde hem aan de bevoegde autoriteiten te kunnen overdragen;
+- a). de landing heeft plaats gevonden op het grondgebied van een staat die niet partij is bij dit Verdrag en de autoriteiten van die staat niet toestaan dat die persoon het luchtvaartuig verlaat, of genoemde maatregelen zijn genomen overeenkomstig [artikel 6, lid 1 **c**](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=2021-05-01&g=2021-05-01)), teneinde hem aan de bevoegde autoriteiten te kunnen overdragen;
 
 - b). het luchtvaartuig een noodlanding maakt en de gezagvoerder de betrokken persoon niet aan de bevoegde autoriteiten kan overdragen; of
 
 - c). de betrokken persoon erin toestemt, met beperking van zijn vrijheid verder te worden vervoerd.
 
-2. Indien een luchtvaartuig landt op het grondgebied van een staat met aan boord een persoon die overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=1970-02-12&g=1970-02-12) aan een vrijheidbeperkende maatregel is onderworpen, dient de gezagvoerder de autoriteiten van die staat onverwijld, zo mogelijk vóór de landing, mede te delen dat er zich iemand aan boord bevindt, die aan een vrijheidbeperkende maatregel is onderworpen, onder vermelding van de reden.
+2. Indien een luchtvaartuig landt op het grondgebied van een staat met aan boord een persoon die overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=2021-05-01&g=2021-05-01) aan een vrijheidbeperkende maatregel is onderworpen, dient de gezagvoerder de autoriteiten van die staat onverwijld, zo mogelijk vóór de landing, mede te delen dat er zich iemand aan boord bevindt, die aan een vrijheidbeperkende maatregel is onderworpen, onder vermelding van de reden.
 
 ##### Artikel 8
 
@@ -118,15 +142,15 @@ Een Verdragsluitende Staat die niet de staat van inschrijving is, mag een zich i
 
 ##### Artikel 9
 
-1. De gezagvoerder van een luchtvaartuig kan iedere persoon van wie hij redelijkerwijs mag aannemen dat hij aan boord van het luchtvaartuig een handeling heeft begaan die naar zijn mening volgens het strafrecht van de staat waar het luchtvaartuig is ingeschreven een ernstig misdrijf is, overdragen aan de bevoegde autoriteiten van de Verdragsluitende Staat op welks grondgebied het luchtvaartuig landt.
+1. De gezagvoerder van een luchtvaartuig kan iedere persoon ten aanzien van wie hij redelijke gronden heeft om aan te nemen dat hij aan boord van het luchtvaartuig een handeling heeft begaan die naar zijn mening een ernstig strafbaar feit vormt, overdragen aan de bevoegde autoriteiten van de Verdragsluitende Staat op het grondgebied waarvan het luchtvaartuig landt.
 
-2. Indien een luchtvaartuig landt op het grondgebied van een Verdragsluitende Staat met aan boord een persoon die de gezagvoerder voornemens is, overeenkomstig het voorgaande lid over te dragen, dient de gezagvoerder de autoriteiten van die staat onverwijld, zo mogelijk vóór de landing, mededeling te doen van zijn voornemen die persoon over te dragen, onder vermelding van de reden.
+2. Indien een luchtvaartuig landt op het grondgebied van een Verdragsluitende Staat met aan boord een persoon die de gezagvoerder voornemens is, overeenkomstig het voorgaande lid over te dragen, stelt de gezagvoerder de autoriteiten van die staat zo spoedig mogelijk, zo mogelijk vóór de landing, in kennis van zijn voornemen die persoon over te dragen, onder vermelding van de redenen.
 
-3. De gezagvoerder van een luchtvaartuig dient de autoriteiten aan wie een verdachte overeenkomstig het bepaalde in dit artikel wordt overgedragen die bewijzen en inlichtingen te verschaffen waarover hij, krachtens de wetten van de staat waar het luchtvaartuig is ingeschreven, wettig beschikt.
+3. De gezagvoerder van een luchtvaartuig dient de autoriteiten aan wie een verdachte overeenkomstig het bepaalde in dit artikel wordt overgedragen de bewijzen en inlichtingen te verschaffen waarover hij op rechtmatige wijze de beschikking heeft gekregen.
 
 ##### Artikel 10
 
-Voor maatregelen, genomen overeenkomstig dit Verdrag, wordt noch de gezagvoerder van het luchtvaartuig, noch enig ander lid van de bemanning, passagier, eigenaar of exploitant van het luchtvaartuig, noch de persoon voor wiens rekening de vlucht werd uitgevoerd, aansprakelijk gesteld in enig geding naar aanleiding van de behandeling ondergaan door de persoon tegen wie de maatregelen waren gericht.
+Voor maatregelen genomen overeenkomstig dit Verdrag wordt noch de gezagvoerder van het luchtvaartuig, enig ander lid van de bemanning, enige passagier, meereizende veiligheidsfunctionaris, eigenaar of exploitant van het luchtvaartuig, noch de persoon voor wiens rekening de vlucht werd uitgevoerd, aansprakelijk gesteld in enig geding naar aanleiding van de behandeling ondergaan door de persoon tegen wie de maatregelen waren gericht.
 
 ### Hoofdstuk IV. Onwettige overmeestering van luchtvaartuigen
 
@@ -170,13 +194,15 @@ Iedere Verdragsluitende Staat geeft de gezagvoerder van een in een andere Verdra
 
 ##### Artikel 16
 
-1. Wat uitlevering betreft worden misdrijven en overtredingen aan boord van in een Verdragsluitende Staat ingeschreven luchtvaartuigen beschouwd alsof zij niet alleen waren gepleegd op de plaats waar dit het geval was doch ook op het grondgebied van de staat waar het vliegtuig is ingeschreven.
+1. Strafbare feiten begaan aan boord worden ten behoeve van uitlevering tussen de Verdragsluitende Staten behandeld alsof zij niet alleen zijn begaan op de plaats waar zij hebben plaatsgevonden, maar ook op het grondgebied van de Verdragsluitende Staten die hun rechtsmacht dienen te vestigen in overeenstemming met [artikel 3, tweede lid en tweede lid **bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=3&z=2021-05-01&g=2021-05-01).
 
 2. Onverminderd het bepaalde in het voorgaande lid mag geen bepaling van dit Verdrag zo worden uitgelegd dat zij de verplichting schept om een verzoek om uitlevering in te willigen.
 
 ##### Artikel 17
 
-Wanneer de Verdragsluitende Staten een maatregel ter opsporing of aanhouding nemen of op andere wijze rechtsmacht uitoefenen in verband met een misdrijf of overtreding aan boord van een luchtvaartuig, nemen zij de veiligheid en andere belangen van de luchtvaart behoorlijk in acht en gaan zodanig te werk dat onnodig oponthoud van het luchtvaartuig, de passagiers, de bemanning of de lading wordt vermeden.
+1. Wanneer de Verdragsluitende Staten een maatregel ter opsporing of aanhouding nemen of op andere wijze rechtsmacht uitoefenen met betrekking tot een strafbaar feit aan boord van een luchtvaartuig, houden zij terdege rekening met de veiligheid en andere belangen van de luchtvaart en gaan zodanig te werk dat onnodig oponthoud van het luchtvaartuig, de passagiers, de bemanning of de lading wordt vermeden.
+
+2. Elke Verdragsluitende Staat handelt bij het nakomen van zijn verplichtingen of bij het gebruikmaken van de beoordelingsvrijheid uit hoofde van dit Verdrag, in overeenstemming met de verplichtingen en verantwoordelijkheden van staten op grond van het internationaal recht. Elke Verdragsluitende Staat houdt in dit verband rekening met de beginselen van een behoorlijke rechtsgang en een eerlijke behandeling.
 
 ##### Artikel 18
 
@@ -237,6 +263,40 @@ De Internationale Burgerlijke Luchtvaartorganisatie doet aan alle staten die lid
 - d). de ontvangst van iedere mededeling van opzegging, alsmede van de datum van ontvangst;
 
 - e). de ontvangst van iedere verklaring of mededeling krachtens artikel 24, alsmede van de datum van ontvangst.
+
+IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Convention.
+
+DONE at Tokyo on the fourteenth day of September One Thousand Nine Hundred and Sixty-three in three authentic texts drawn up in the English, French and Spanish languages.
+
+This Convention shall be deposited with the International Civil Aviation Organization with which, in accordance with Article 19, it shall remain open for signature and the said Organization shall send certified copies thereof to all States Members of the United Nations or of any Specialized Agency.
+
+##### Artikel 3 bis
+
+Indien een Verdragsluitende Staat die uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=3&z=2021-05-01&g=2021-05-01) zijn rechtsmacht uitoefent ervan in kennis is gesteld of op andere wijze heeft vernomen dat één of meer Verdragsluitende Staten een onderzoek, vervolging of gerechtelijke procedure hebben ingesteld ter zake van dezelfde strafbare feiten of handelingen, treedt die Verdragsluitende Staat, naargelang van toepassing, in overleg met deze andere Verdragsluitende Staten teneinde hun maatregelen af te stemmen. De verplichtingen in dit artikel laten de verplichtingen van een Verdragsluitende Staat uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=V&artikel=13&z=2021-05-01&g=2021-05-01) onverlet.
+
+### Hoofdstuk III. Bevoegdheden van de gezagvoerder van het luchtvaartuig
+
+### Hoofdstuk IV. Onwettige overmeestering van luchtvaartuigen
+
+### Hoofdstuk V. Bevoegdheden en verplichtingen van staten
+
+##### Artikel 15 bis
+
+1. Elke Verdragsluitende Staat wordt aangemoedigd de maatregelen te nemen die nodig kunnen zijn om een passende strafrechtelijke, bestuursrechtelijke of andere gerechtelijke procedure in te stellen tegen een persoon die een strafbaar feit of een handeling zoals bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=I&artikel=1&z=2021-05-01&g=2021-05-01), begaat, met name:
+
+- a. een fysieke aanval of de dreiging met een dergelijke aanval gericht tegen een lid van de bemanning; of
+
+- b. de weigering gehoor te geven aan een rechtmatig bevel van of namens de gezagvoerder van het luchtvaartuig teneinde de veiligheid van het luchtvaartuig of van de personen of goederen aan boord te beschermen.
+
+2. Geen enkele bepaling van dit Verdrag tast het recht van een Verdragsluitende Staat aan om passende maatregelen in zijn nationale wetgeving op te nemen of te handhaven om weerspannige en verstorende handelingen aan boord te bestraffen.
+
+### Hoofdstuk VI. Verdere bepalingen
+
+##### Artikel 18 bis
+
+Geen enkele bepaling in dit Verdrag vormt een beletsel voor het recht uit hoofde van het nationale recht schadevergoeding te vorderen van een persoon die het luchtvaartuig heeft moeten verlaten ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=8&z=2021-05-01&g=2021-05-01) of is overgedragen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=9&z=2021-05-01&g=2021-05-01).
+
+### Hoofdstuk VII. Slotbepalingen
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Convention.
 
