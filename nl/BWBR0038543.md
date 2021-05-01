@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2021-01-30"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-01-30&g=2021-01-30) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-05-01&g=2021-05-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-01-30&g=2021-01-30).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-05-01&g=2021-05-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-01-30&g=2021-01-30)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-05-01&g=2021-05-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -335,10 +335,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1190 | Introductie QRM industrieel produceren |
 | K0996 | Peercoaching in de praktijk |
 | K1196 | Scheepsreparatie en -modificatie |
+|   |   |
+| **Certificaten voor keuzedelen vanaf april 2021** | **Certificaten voor keuzedelen vanaf april 2021** |
+| K1184 | Datacenter Facility Engineering |
+| K1172 | Douaneaangifte basis |
+| K1173 | Douaneaangifte verdieping |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-01-30&g=2021-01-30)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-05-01&g=2021-05-01)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -389,6 +394,10 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** |
 | C0052 | Creëren van een optimale woon- en leefomgeving voor de zorgvrager | 25656 | Verzorgende-IG |
 | C0053 | Individuele zorg verlenen | 25656 | Verzorgende-IG |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf april 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2021** |   |   |
+| C0054 | Basis voor deskundige zorg - Versie 2 | 25656 | Verzorgende-IG |
+| C0055 | Regievoering en vakontwikkeling in de zorg - Versie 2 | 25656 | Verzorgende-IG |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
