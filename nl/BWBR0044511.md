@@ -4,7 +4,7 @@ identifier: "BWBR0044511"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-01"
-last_updated: "2021-01-01"
+last_updated: "2021-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044511"
 soort: "ministeriele-regeling"
@@ -84,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt algemeen mandaat, volmacht en machtiging verleend voor al hetgeen het ministerie van Buitenlandse Zaken betreft.
 
-##### Artikel 3. Algemeen mandaat (plv) directeuren-generaal, (plv) directeuren, (plv) chefs de poste en hoofd van de consulaire service organisatie
+##### Artikel 3. Algemeen mandaat (plv) directeuren-generaal, (plv) directeuren en (plv) chefs de poste
 
-1. De secretaris-generaal verleent aan de directeuren-generaal, de plaatsvervangend directeuren-generaal, de directeuren, de plaatsvervangend directeuren, de chefs de poste, de plaatsvervangend chefs de poste en het hoofd van de consulaire service organisatie mandaat voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van de desbetreffende functionarissen.
+1. De secretaris-generaal verleent aan de directeuren-generaal, de plaatsvervangend directeuren-generaal, de directeuren, de plaatsvervangend directeuren, de chefs de poste en de plaatsvervangend chefs de poste mandaat voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van de desbetreffende functionarissen.
 
 2. Het mandaat, bedoeld in het eerste lid, omvat in ieder geval:
 
@@ -96,13 +96,13 @@ Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt alge
 
 3. Voor zover het gaat om het vaststellen van beleidsregels, wordt het mandaat, bedoeld in het eerste lid, slechts verleend aan de directeuren-generaal en de plaatsvervangend directeuren-generaal.
 
-4. De directeuren-generaal, de directeuren, de chefs de poste en het hoofd van de consulaire service organisatie kunnen ondermandaat verlenen aan onder hen ressorterende functionarissen voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van laatstbedoelde functionarissen. Dit ondermandaat geschiedt schriftelijk.
+4. De directeuren-generaal, de directeuren en de chefs de poste kunnen ondermandaat verlenen aan onder hen ressorterende functionarissen voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van laatstbedoelde functionarissen. Dit ondermandaat geschiedt schriftelijk.
 
 5. Van ondermandaten als bedoeld in het vierde lid wordt een afschrift gezonden naar de directie Juridische Zaken, afdeling Nederlands recht.
 
-##### Artikel 4. Algemene volmacht en machtiging directeuren-generaal, directeuren, chefs de poste en hoofd van de consulaire service organisatie
+##### Artikel 4. Algemene volmacht en machtiging directeuren-generaal, directeuren en chefs de poste
 
-1. De secretaris-generaal verleent aan de directeuren-generaal, de directeuren, de chefs de poste en het hoofd van de consulaire service organisatie, volmacht en machtiging tot het verrichten van rechtshandelingen, respectievelijk tot het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, op het aan de desbetreffende functionarissen toegewezen werkterrein en conform hun goedgekeurde jaarplan en budget.
+1. De secretaris-generaal verleent aan de directeuren-generaal, de directeuren en de chefs de poste volmacht en machtiging tot het verrichten van rechtshandelingen, respectievelijk tot het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, op het aan de desbetreffende functionarissen toegewezen werkterrein en conform hun goedgekeurde jaarplan en budget.
 
 2. De machtiging, bedoeld in het eerste lid, omvat in ieder geval het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) over gedragingen van onder hen ressorterende functionarissen.
 
@@ -164,7 +164,7 @@ Handelen krachtens bij deze regeling verleend mandaat, volmacht of machtiging is
 
 ##### Artikel 7. Specifieke volmacht directeur Financieel-Economische Zaken
 
-De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), aan de directeur Financieel-Economische Zaken verleende volmacht omvat tevens:
+De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01), aan de directeur Financieel-Economische Zaken verleende volmacht omvat tevens:
 
 - a. het bepalen van de muntsoort voor uitbetaling van schadeloosstelling, vergoedingen en tegemoetkomingen bij plaatsing buiten Nederland;
 
@@ -174,7 +174,7 @@ De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ##### Artikel 8. Uitzonderingen mandaat en volmacht directeuren-generaal
 
-Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), aan de directeuren-generaal en de plaatsvervangend directeuren-generaal verleende mandaat en het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), aan de directeuren-generaal verleende volmacht hebben geen betrekking op:
+Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=3&z=2021-05-01&g=2021-05-01), aan de directeuren-generaal en de plaatsvervangend directeuren-generaal verleende mandaat en het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01), aan de directeuren-generaal verleende volmacht hebben geen betrekking op:
 
 - a. het aanwijzen van vertrouwensfuncties als bedoeld in [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3);
 
@@ -236,7 +236,7 @@ De Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewind
 
 en, op grond van [artikel 3:60 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) als volgt:
 
-De Staat der Nederlanden, namens deze, de Minister van van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het ministerie van Buitenlandse Zaken,
+De Staat der Nederlanden, namens deze, de Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het ministerie van Buitenlandse Zaken,
 
 vertegenwoordigd door (naam functionaris), (functie)
 
@@ -254,7 +254,7 @@ Ondermandaatbesluiten, volmachten en competentietabellen die zijn vastgesteld op
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2021-01-01&g=2021-01-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2021-05-01&g=2021-05-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
 
 ##### Artikel 14. Citeertitel
 
