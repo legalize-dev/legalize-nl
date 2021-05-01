@@ -59,13 +59,3 @@ Deze regeling treedt in werking met ingang van 1 mei 2021.
 Deze regeling wordt aangehaald als: Regeling aanwijzing aanbieders essentiële diensten EZK.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2
-
-Deze regeling treedt in werking met ingang van 1 mei 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-Deze regeling wordt aangehaald als: Regeling aanwijzing aanbieders essentiële diensten EZK.
