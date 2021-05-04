@@ -4,7 +4,7 @@ identifier: "BWBR0045089"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-04"
-last_updated: "2020-01-01"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045089"
 soort: "ministeriele-regeling"
@@ -50,15 +50,15 @@ Besluit:
 
 - b. **DJI:** de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid;
 
-- c. **medaille:** draagmedaille, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2020-01-01), zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2020-01-01);
+- c. **medaille:** draagmedaille, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
 
-- d. **penning:** de legpenning, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2020-01-01), zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2020-01-01);
+- d. **penning:** de legpenning, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2021-05-04);
 
-- e. **jaarteken:** het teken met de aanduiding 25 (XXV), 40 (LV) of 50 (L), zoals omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2020-01-01);
+- e. **jaarteken:** het teken met de aanduiding 25 (XXV), 40 (LV) of 50 (L), zoals omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
 
-- f. **baton:** het lint met een vast formaat van 27 x 11 mm, zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2020-01-01);
+- f. **baton:** het lint met een vast formaat van 27 x 11 mm, zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
 
-- g. **oorkonde:** de oorkonde, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2020-01-01);
+- g. **oorkonde:** de oorkonde, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
 
 - h. **ambtenaar:** degene die krachtens een arbeidsovereenkomst met de Staat der Nederlanden werkzaam is bij DJI en bij deze organisatie is tewerkgesteld.
 
@@ -78,7 +78,7 @@ Voor de toepassing van onderhavige regeling wordt de voor ambtenaren voorgeschre
 
 ##### Artikel 4
 
-1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=5&z=2021-05-04&g=2020-01-01) kent de Minister eenmalig de medaille toe aan de ambtenaar die het dragen van een uniform is voorgeschreven en aan wie:
+1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=5&z=2021-05-04&g=2021-05-04) kent de Minister eenmalig de medaille toe aan de ambtenaar die het dragen van een uniform is voorgeschreven en aan wie:
 
 - a. gedurende een periode van 12½ jaar zonder wezenlijke onderbreking werkzaamheden ten behoeve van DJI is opgedragen: medaille met bijbehorende baton;
 
@@ -88,7 +88,7 @@ Voor de toepassing van onderhavige regeling wordt de voor ambtenaren voorgeschre
 
 - d. gedurende een periode van 50 jaar werkzaamheden zonder wezenlijke onderbreking ten behoeve van DJI is opgedragen: medaille met het jaarteken L met bijbehorende baton.
 
-2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=5&z=2021-05-04&g=2020-01-01) kent de Minister aan de overige ambtenaren toe:
+2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=5&z=2021-05-04&g=2021-05-04) kent de Minister aan de overige ambtenaren toe:
 
 - a. gedurende een periode van 12½ jaar werkzaamheden zonder wezenlijke onderbreking ten behoeve van DJI is opgedragen: de bronzen penning;
 
@@ -114,9 +114,9 @@ De Minister kan afzien van toekenning van de medaille, het jaarteken, de baton o
 
 ##### Artikel 6
 
-1. De medaille, de baton en het jaarteken voldoen aan de fysieke kenmerken zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2020-01-01).
+1. De medaille, de baton en het jaarteken voldoen aan de fysieke kenmerken zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04).
 
-2. De penning voldoet aan de fysieke kenmerken zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2020-01-01).
+2. De penning voldoet aan de fysieke kenmerken zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2021-05-04).
 
 ##### Artikel 7
 
@@ -126,7 +126,7 @@ De Minister kan afzien van toekenning van de medaille, het jaarteken, de baton o
 
 ##### Artikel 8
 
-Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=9&z=2021-05-04&g=2020-01-01) blijft de toegekende medaille en penning het eigendom van de ambtenaar aan wie deze zijn toegekend. Zij mogen niet worden vervreemd.
+Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=9&z=2021-05-04&g=2021-05-04) blijft de toegekende medaille en penning het eigendom van de ambtenaar aan wie deze zijn toegekend. Zij mogen niet worden vervreemd.
 
 ##### Artikel 9
 
@@ -154,7 +154,7 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 12
 
-1. De ambtenaar die op de dag van inwerkingtreding van deze regeling nog steeds in dienst is van DJI en heeft voldaan aan de vereisten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=4&z=2021-05-04&g=2020-01-01), wordt de medaille of de penning toegekend en vervolgens uitgereikt op een door het bevoegd gezag te bepalen moment.
+1. De ambtenaar die op de dag van inwerkingtreding van deze regeling nog steeds in dienst is van DJI en heeft voldaan aan de vereisten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=4&z=2021-05-04&g=2021-05-04), wordt de medaille of de penning toegekend en vervolgens uitgereikt op een door het bevoegd gezag te bepalen moment.
 
 2. Indien de ambtenaar op datum van inwerkingtreding recht op meer dan een medaille of penning heeft, wordt hem de medaille of de penning verbonden aan de meeste jaren uitgereikt.
 
