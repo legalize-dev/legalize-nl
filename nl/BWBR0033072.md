@@ -4,7 +4,7 @@ identifier: "BWBR0033072"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-05-07"
-last_updated: "2020-03-04"
+last_updated: "2021-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033072"
 soort: "zbo"
@@ -82,15 +82,17 @@ In dit reglement wordt verstaan onder:
 
 3. De invoervelden van het centrale digitale registratiesysteem worden door het bestuur vastgesteld en gepubliceerd op de website van de Stichting, www.donorgegevens.nl.
 
-4. De verrichter verwijdert de gegevens uit het centrale digitale registratiesysteem van de Stichting als vaststaat dat de kunstmatige donorbevruchting niet tot de geboorte van een levend kind heeft geleid.
+4. De op 1 juni 2004 al aanwezige gegevens worden door de verrichter aan de Stichting verstrekt, in ieder geval op het moment dat:
 
-5. De op 1 juni 2004 al aanwezige gegevens worden door de verrichter aan de Stichting verstrekt, in ieder geval op het moment dat er een verzoek om deze gegevens van een verzoeker door de Stichting is ontvangen en de Stichting dit heeft medegedeeld aan de verrichter.
+- a. er een verzoek om deze gegevens van een verzoeker door de Stichting is ontvangen en de Stichting dit heeft medegedeeld aan de verrichter of diens opvolger;
 
-6. Gedeeltelijke uitvoering van de kunstmatige donorbevruchting door een verrichter in het buitenland of door een niet beroeps- of bedrijfsmatig handelende verrichter ontslaat de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken. Dit houdt in dat een Nederlandse sperma- of eicelbank de gegevens ook aan de Stichting moet verstrekken als de kunstmatige donorbevruchting in een buitenlandse instelling of middels thuisinseminatie is verricht en dat een Nederlandse instelling de gegevens ook aan de Stichting moet verstrekken als het sperma of de eicellen die gebruikt zijn bij de kunstmatige donorbevruchting afkomstig zijn van een buitenlandse sperma- of eicelbank.
+- b. de verrichter of diens opvolger zijn werkzaamheden beëindigt.
 
-7. Bekendheid van de moeder met de identiteit van de donor en eventuele afspraken tussen de moeder en de donor over de betrokkenheid van de donor bij de verzorging en opvoeding van het kind ontslaan de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken.
+5. Gedeeltelijke uitvoering van de kunstmatige donorbevruchting door een verrichter in het buitenland of door een niet beroeps- of bedrijfsmatig handelende verrichter ontslaat de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken. Dit houdt in dat een Nederlandse sperma- of eicelbank de gegevens ook aan de Stichting moet verstrekken als de kunstmatige donorbevruchting in een buitenlandse instelling of middels thuisinseminatie is verricht en dat een Nederlandse instelling de gegevens ook aan de Stichting moet verstrekken als het sperma of de eicellen die gebruikt zijn bij de kunstmatige donorbevruchting afkomstig zijn van een buitenlandse sperma- of eicelbank.
 
-8. Voor de registratie brengt de Stichting geen kosten in rekening bij de verrichter.
+6. Bekendheid van de moeder met de identiteit van de donor en eventuele afspraken tussen de moeder en de donor over de betrokkenheid van de donor bij de verzorging en opvoeding van het kind ontslaan de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken.
+
+7. Voor de registratie brengt de Stichting geen kosten in rekening bij de verrichter.
 
 ##### Artikel 3. Gegevensbeheer
 
@@ -116,19 +118,21 @@ De Stichting verstrekt de ouder(s) van een donorkind dat jonger is dan twaalf ja
 
 ##### Artikel 7. Donor overleden of onvindbaar
 
-1. Indien de donor die vóór 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan overleden of onvindbaar is, wordt de instemming om persoonsidentificerende gegevens te verstrekken geacht te zijn geweigerd.
+1. Indien de donor van wie zaadcellen of eicellen zijn gebruikt ten behoeve van een kunstmatige donorbevruchting vóór 1 juni 2004, overleden of onvindbaar is, wordt de instemming om persoonsidentificerende gegevens te verstrekken geacht te zijn geweigerd.
 
-2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan overleden of onvindbaar is, zal de Stichting op zorgvuldige wijze de directe familieleden of nabestaanden, als bedoeld in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3), benaderen met het verzoek om in de plaats van de donor instemming te verlenen.
+2. Indien de donor van wie zaadcellen of eicellen zijn gebruikt ten behoeve van een kunstmatige donorbevruchting op of na 1 juni 2004, overleden of onvindbaar is, zal de Stichting op zorgvuldige wijze de directe familieleden of nabestaanden, als bedoeld in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3), benaderen met het verzoek om in de plaats van de donor instemming te verlenen.
 
 3. De Stichting informeert de directe familieleden of nabestaanden, in een situatie als bedoeld in het tweede lid, over de gang van zaken bij een verzoek tot verstrekking van persoonsidentificerende gegevens, het tijdpad en de mogelijke consequenties.
 
 ##### Artikel 8. Wel of niet verstrekken van persoonsidentificerende donorgegevens
 
-1. Indien de donor die vóór 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, worden deze niet verstrekt aan het donorkind van zestien jaar of ouder dat hierom had verzocht.
+1. Indien de donor van wie zaadcellen of eicellen zijn gebruikt ten behoeve van een kunstmatige donorbevruchting vóór 1 juni 2004 niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, worden deze niet verstrekt aan het donorkind van zestien jaar of ouder dat hierom had verzocht.
 
-2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan (of indien deze overleden of onvindbaar is, personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=7&z=2020-03-04&g=2020-03-04), van dit reglement) niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, blijft verstrekking uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor het verzoekende donorkind zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.
+2. Indien de donor van wie zaadcellen of eicellen zijn gebruikt ten behoeve van een kunstmatige donorbevruchting op of na 1 juni 2004 (of indien deze overleden of onvindbaar is, personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=7&z=2021-05-07&g=2021-05-07), van dit reglement) niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, blijft verstrekking uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor het verzoekende donorkind zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.
 
-3. De beslissing van de Stichting wordt het verzoekende donorkind en de donor schriftelijk en met redenen omkleed medegedeeld.
+3. Indien ter zake van een verzoek om verstrekking van persoonsidentificerende gegevens als bedoeld in het tweede lid, door de donor instemming wordt geweigerd, vindt een afweging plaats of sprake is van zwaarwegende belangen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=3&z=2021-05-07&g=2021-05-07), van de wet. Het bestuur beslist over de verstrekking van gegevens na daarover advies te hebben ingewonnen van de adviescommissie, tenzij naar het oordeel van het bestuur de noodzaak daartoe ontbreekt.
+
+4. De beslissing van de Stichting wordt het verzoekende donorkind en de donor schriftelijk en met redenen omkleed medegedeeld. Indien in de beslissing voor de motivering wordt verwezen naar het advies van de adviescommissie, wordt het advies bijgevoegd met uitzondering van de delen waaruit de identiteit van de donor herleid kan worden.
 
 ##### Artikel 9. Begeleiding van donorkinderen bij verstrekking donorgegevens
 
@@ -191,3 +195,13 @@ Eenieder die in het kader van de activiteiten van de Stichting betreffende het v
 ##### Artikel 17. Eerder vastgestelde reglementen
 
 Dit reglement vervangt eerder vastgestelde reglementen.
+
+##### Artikel 12a. Adviescommissie Stichting donorgegevens kunstmatige bevruchting
+
+1. Er is een Adviescommissie Stichting donorgegevens kunstmatige bevruchting
+
+2. De adviescommissie bestaat uit een jurist, een ethicus en een pedagoog/psycholoog.
+
+3. Het bestuur van de Stichting benoemt de leden van de adviescommissie voor een termijn van 4 jaar met eenmalig de mogelijkheid tot verlenging van 4 jaar.
+
+4. De leden van de adviescommissie ontvangen voor hun werkzaamheden een vergoeding overeenkomstig het Besluit vergoedingen adviescolleges en commissies.
