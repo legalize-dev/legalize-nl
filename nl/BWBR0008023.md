@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-04-01"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2021-04-01&g=2021-04-01)
+## Bijlage. behorende bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2021-05-08&g=2021-05-08)
 
 | Registratienummer | Artikelnaam | Productgroep | Maximumprijs | Eenheid |
 | --- | --- | --- | --- | --- |
@@ -4576,7 +4576,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/13/850/003 | IMNOVID CAPSULE 3MG | POMALIDOMIDE-3-MG-CAPSULE | 411,359181 | STUK |
 | EU/1/13/850/004 | IMNOVID CAPSULE 4MG | POMALIDOMIDE-4-MG-CAPSULE | 412,932486 | STUK |
 | EU/1/13/850/008 | IMNOVID CAPSULE 4MG | POMALIDOMIDE-4-MG-CAPSULE | 412,932486 | STUK |
-| EU/1/13/839/005 | ICLUSIG TABLET FILMOMHULD 15MG | PONATINIB-15-MG-TABLET | 109,301006 | STUK |
+| EU/1/13/839/005 | ICLUSIG TABLET FILMOMHULD 15MG | PONATINIB-15-MG-TABLET | 129,742785 | STUK |
 | EU/1/13/839/006 | ICLUSIG TABLET FILMOMHULD 30MG | PONATINIB-30-MG-TABLET | 176,293096 | STUK |
 | EU/1/13/839/003 | ICLUSIG TABLET FILMOMHULD 45MG | PONATINIB-45-MG-TABLET | 176,660346 | STUK |
 | EU/1/05/320/002 | NOXAFIL TABLET MSR 100MG | POSACONAZOLE-100-MG-TABLET, MAAGSAPRESISTENT | 21,622935 | STUK |
