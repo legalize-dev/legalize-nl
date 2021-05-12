@@ -4,7 +4,7 @@ identifier: "BWBR0002847"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-30"
-last_updated: "2020-10-19"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002847"
 soort: "AMvB"
@@ -52,63 +52,65 @@ b. België;
 
 c. Bondsrepubliek Duitsland;
 
-d. Bulgarije;
+d. Bosnië en Herzegovina;
 
-e. Cyprus;
+e. Bulgarije;
 
-f. Denemarken, met inbegrip van de Faeröer;
+f. Cyprus;
 
-g. Estland;
+g. Denemarken, met inbegrip van de Faeröer;
 
-h. Finland;
+h. Estland;
 
-i. Frankrijk en Monaco;
+i. Finland;
 
-j. Griekenland;
+j. Frankrijk en Monaco;
 
-k. Hongarije;
+k. Griekenland;
 
-l. Ierland;
+l. Hongarije;
 
-m. Italië, San Marino en Vaticaanstad;
+m. Ierland;
 
-n. Kroatië;
+n. Italië, San Marino en Vaticaanstad;
 
-o. Letland;
+o. Kroatië;
 
-p. Litouwen;
+p. Letland;
 
-q. Luxemburg;
+q. Litouwen;
 
-r. Malta;
+r. Luxemburg;
 
-s. Noorwegen;
+s. Malta;
 
-t. Oostenrijk
+t. Noorwegen;
 
-u. Polen;
+u. Oostenrijk
 
-v. Portugal;
+v. Polen;
 
-w. Roemenië;
+w. Portugal;
 
-x. Servië;
+x. Roemenië;
 
-y. Slovenië;
+y. Servië;
 
-z. Slowaakse Republiek;
+z. Slovenië;
 
-aa. Spanje;
+aa. Slowaakse Republiek;
 
-bb. Tjechische Republiek;
+bb. Spanje;
 
-cc. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
+cc. Tjechische Republiek;
 
-dd. IJsland;
+dd. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
 
-ee. Zweden;
+ee. IJsland;
 
-ff. Zwitserland en Liechtenstein.
+ff. Zweden;
+
+gg. Zwitserland en Liechtenstein.
 
 ##### Artikel 2
 
@@ -116,6 +118,6 @@ Vervallen
 
 ##### Artikel 3
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2021-05-12&g=2020-10-19) genoemde landen betreft verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2021-05-12&g=2021-05-12) genoemde landen betreft verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
