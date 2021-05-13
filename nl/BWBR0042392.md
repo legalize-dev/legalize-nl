@@ -4,7 +4,7 @@ identifier: "BWBR0042392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-07"
-last_updated: "2019-07-11"
+last_updated: "2021-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042392"
 soort: "ministeriele-regeling"
@@ -48,15 +48,15 @@ Aan de inspecteur-generaal Leefomgeving en Transport wordt mandaat, volmacht en 
 
 ##### Artikel 2
 
-Aan de inspecteur-generaal Leefomgeving en Transport wordt voorts mandaat, volmacht en machtiging verleend voor het verrichten van rechtshandelingen en feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen en gemaakte kosten van bestuursdwang als bedoeld in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25), voor zover deze verband houden met de handhaving bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2019-07-11&g=2019-07-11).
+Aan de inspecteur-generaal Leefomgeving en Transport wordt voorts mandaat, volmacht en machtiging verleend voor het verrichten van rechtshandelingen en feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen en gemaakte kosten van bestuursdwang als bedoeld in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25), voor zover deze verband houden met de handhaving bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2021-07-07&g=2021-05-13).
 
 ##### Artikel 3
 
-Aan de inspecteur-generaal Leefomgeving en Transport wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaarschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2019-07-11&g=2019-07-11) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2019-07-11&g=2019-07-11) en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
+Aan de inspecteur-generaal Leefomgeving en Transport wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaarschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2021-07-07&g=2021-05-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2021-07-07&g=2021-05-13) en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
 
 ##### Artikel 4
 
-1. De inspecteur-generaal Leefomgeving en Transport kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2019-07-11&g=2019-07-11), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2019-07-11&g=2019-07-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=3&z=2019-07-11&g=2019-07-11) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De inspecteur-generaal Leefomgeving en Transport kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2021-07-07&g=2021-05-13), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2021-07-07&g=2021-05-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=3&z=2021-07-07&g=2021-05-13) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
@@ -81,5 +81,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging IG ILT handhaving Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Aan de inspecteur-generaal Leefomgeving en Transport wordt ten aanzien van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2021-07-07&g=2021-05-13), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2021-07-07&g=2021-05-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=3&z=2021-07-07&g=2021-05-13), mandaat en machtiging verleend voor het vaststellen van beleidsregels.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
