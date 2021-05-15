@@ -4,7 +4,7 @@ identifier: "BWBR0045130"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-15"
-last_updated: "2020-01-01"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045130"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Besluit:
 
 ##### Artikel 2. Bevoegdheden
 
-1. De aan de directeur-generaal verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3) en [12 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12), eveneens gemandateerd aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2020-01-01) bedoelde functionarissen.
+1. De aan de directeur-generaal verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3) en [12 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12), eveneens gemandateerd aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2021-05-15) bedoelde functionarissen.
 
-2. Aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2020-01-01) bedoelde functionarissen worden geen bevoegdheden verleend in HRM-aangelegenheden.
+2. Aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2021-05-15) bedoelde functionarissen worden geen bevoegdheden verleend in HRM-aangelegenheden.
 
 ##### Artikel 3. Verlening volmacht en machtiging
 
-De aan de directeur-generaal verleende volmacht en machtiging worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3) en [12 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12), eveneens verleend aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2020-01-01) bedoelde functionarissen.
+De aan de directeur-generaal verleende volmacht en machtiging worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3) en [12 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12), eveneens verleend aan de in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0045130&artikel=1&z=2021-05-15&g=2021-05-15) bedoelde functionarissen.
 
 ##### Artikel 4. Grensbedragen
 
