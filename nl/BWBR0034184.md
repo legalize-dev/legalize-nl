@@ -4,7 +4,7 @@ identifier: "BWBR0034184"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-17"
-last_updated: "2020-10-24"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034184"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ Aan de directeur-generaal Rijkswaterstaat, de plaatsvervangend directeur-generaa
 
 ##### Artikel 4. Mandatering Rijkswaterstaat Bestuursstaf
 
-De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), eveneens gemandateerd aan de directeuren van de Rijkswaterstaat Bestuursstaf.
+De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), eveneens gemandateerd aan de directeuren van de Rijkswaterstaat Bestuursstaf.
 
 ##### Artikel 5. Mandatering regionale en centrale organisatieonderdelen
 
-1. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), eveneens gemandateerd aan de hoofdingenieur-directeuren van de regionale en centrale organisatieonderdelen.
+1. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), eveneens gemandateerd aan de hoofdingenieur-directeuren van de regionale en centrale organisatieonderdelen.
 
-2. De hoofdingenieur-directeuren kunnen met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) binnen hun organisatieonderdeel ten aanzien van de aan hen verleende bevoegdheden mandaat verlenen aan:
+2. De hoofdingenieur-directeuren kunnen met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) binnen hun organisatieonderdeel ten aanzien van de aan hen verleende bevoegdheden mandaat verlenen aan:
 
 - a. de directeuren;
 
@@ -76,15 +76,15 @@ De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met 
 
 4. De hoofingenieur-directeuren van de organisatieonderdelen Rijkswaterstaat Grote Projecten en Onderhoud en Rijkswaterstaat Programma’s, Projecten en Onderhoud kunnen met inachtneming van artikel 12 hun bevoegdheden ook mandateren aan project- of programmadirecteuren – Portfoliomanagement, project- of programmamanagers – Portfoliomanagement, project- of programmadirecteuren – Projectmanagement, project- of programmamanagers en projectleiders. De project- of programmadirecteuren – Projectmanagement, project- of programmamanagers en projectleiders worden geen bevoegdheden verleend in HRM-aangelegenheden.
 
-5. De hoofdingenieur-directeur van het organisatieonderdeel Rijkswaterstaat Centrale Informatievoorziening kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de programmadirecteuren.
+5. De hoofdingenieur-directeur van het organisatieonderdeel Rijkswaterstaat Centrale Informatievoorziening kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de programmadirecteuren.
 
-6. De hoofdingenieur-directeur van het organisatieonderdeel Rijkswaterstaat Zuid-Nederland kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de project- of programmadirecteur van Rijkswaterstaat Zuid-Nederland.
+6. De hoofdingenieur-directeur van het organisatieonderdeel Rijkswaterstaat Zuid-Nederland kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de project- of programmadirecteur van Rijkswaterstaat Zuid-Nederland.
 
 ##### Artikel 6. Mandatering centrale organisatieonderdeel Rijkswaterstaat Corporate Dienst
 
-1. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), eveneens gemandateerd aan de hoofdingenieur-directeur van de Rijkswaterstaat Corporate Dienst.
+1. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), eveneens gemandateerd aan de hoofdingenieur-directeur van de Rijkswaterstaat Corporate Dienst.
 
-2. De hoofdingenieur-directeur van de Rijkswaterstaat Corporate Dienst kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) binnen zijn organisatieonderdeel ten aanzien van de aan hem verleende bevoegdheden mandaat verlenen aan:
+2. De hoofdingenieur-directeur van de Rijkswaterstaat Corporate Dienst kan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) binnen zijn organisatieonderdeel ten aanzien van de aan hem verleende bevoegdheden mandaat verlenen aan:
 
 - a. de directeuren;
 
@@ -112,11 +112,11 @@ De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met 
 
 ##### Artikel 7. Mandatering Corporate Taken en overige mandatering
 
-1. Aan de hoofdingenieur-directeuren, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24), worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), tevens de aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden gemandateerd voor zover zij een door de directeur-generaal Rijkswaterstaat aangewezen corporate taak uitoefenen die het eigen organisatieonderdeel overstijgt.
+1. Aan de hoofdingenieur-directeuren, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15), worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), tevens de aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden gemandateerd voor zover zij een door de directeur-generaal Rijkswaterstaat aangewezen corporate taak uitoefenen die het eigen organisatieonderdeel overstijgt.
 
-2. Het eerste lid is van overeenkomstige toepassing ten aanzien van de verlening van bevoegdheden in mandaat aan directeuren of project- of programmadirecteuren als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24) en [6, steeds tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24).
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van de verlening van bevoegdheden in mandaat aan directeuren of project- of programmadirecteuren als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15) en [6, steeds tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15).
 
-3. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), eveneens gemandateerd aan de volgende functionarissen:
+3. De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), eveneens gemandateerd aan de volgende functionarissen:
 
 - a. de hoofdingenieur-directeur Rijkswaterstaat-programma Duurzaamheid en Leefomgeving;
 
@@ -134,9 +134,9 @@ Vervallen
 
 ##### Artikel 9. Verlening volmacht en machtiging
 
-1. De aan de directeur-generaal Rijkswaterstaat verleende volmacht en machtiging worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), eveneens verleend aan de functionarissen genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=2&z=2020-10-24&g=2020-10-24), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=4&z=2020-10-24&g=2020-10-24), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=7&z=2020-10-24&g=2020-10-24).
+1. De aan de directeur-generaal Rijkswaterstaat verleende volmacht en machtiging worden, met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), eveneens verleend aan de functionarissen genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=2&z=2021-05-15&g=2021-05-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=4&z=2021-05-15&g=2021-05-15), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=7&z=2021-05-15&g=2021-05-15).
 
-2. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24) steeds eerste lid, genoemde functionarissen kunnen met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) de verleende volmacht en machtiging binnen hun organisatieonderdeel doorgeven aan de functionarissen genoemd in artikel 5, tweede en vierde tot en met zesde lid en artikel 6, tweede lid.
+2. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15) steeds eerste lid, genoemde functionarissen kunnen met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) de verleende volmacht en machtiging binnen hun organisatieonderdeel doorgeven aan de functionarissen genoemd in artikel 5, tweede en vierde tot en met zesde lid en artikel 6, tweede lid.
 
 3. Directeuren van de directies bedrijfsvoering binnen de regionale organisatieonderdelen en de afdelingshoofden van de afdelingen Bestuurlijk Juridische Zaken en Vastgoed en van de afdeling Corporate HRM en Organisatieontwikkeling binnen de Rijkswaterstaat Corporate Dienst kunnen de aan hen verleende machtiging met betrekking tot vertegenwoordiging bij geschillen eveneens doorgeven aan adviseurs voor zover het hun werkterrein juridische zaken betreft.
 
@@ -146,11 +146,11 @@ Vervallen
 
 2. Bij gelijktijdige afwezigheid van de directeur-generaal Rijkswaterstaat, de plaatsvervangend directeur-generaal en de chief financial officer kan een van hen bij besluit een in dit besluit genoemde functionaris als waarnemer aanwijzen voor die periode.
 
-3. Bij afwezigheid van de functionaris bedoeld in de [artikelen 5 tot en met 7, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24), kan de directeur-generaal Rijkswaterstaat, de plaatsvervangend directeur-generaal of de chief financial officer bij besluit een in dit besluit genoemde functionaris als waarnemer aanwijzen voor die periode.
+3. Bij afwezigheid van de functionaris bedoeld in de [artikelen 5 tot en met 7, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15), kan de directeur-generaal Rijkswaterstaat, de plaatsvervangend directeur-generaal of de chief financial officer bij besluit een in dit besluit genoemde functionaris als waarnemer aanwijzen voor die periode.
 
 ##### Artikel 11. Grensbedragen
 
-1. Het mandaat, de volmacht en de machtiging, door de directeur-generaal Rijkswaterstaat verleend, zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de volgende grensbedragen exclusief btw:
+1. Het mandaat, de volmacht en de machtiging, door de directeur-generaal Rijkswaterstaat verleend, zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de grensbedragen exclusief btw van maximaal:
 
 | Functionarissen | Grensbedragen in € excl. btw |
 | --- | --- |
@@ -165,7 +165,7 @@ Vervallen
 | Het hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC): | 500.000 |
 | De directeur Rijkswaterstaat Bestuursstaf: | 50.000 |
 
-2. Het mandaat, de volmacht en de machtiging, welke door de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24) en [6, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24), genoemde functionarissen kunnen worden verleend zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de volgende grensbedragen exclusief btw:
+2. Het mandaat, de volmacht en de machtiging, welke door de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15) en [6, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15), genoemde functionarissen kunnen worden verleend zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de grensbedragen exclusief btw van maximaal:
 
 | Functionarissen | Grensbedragen in € excl. btw |
 | --- | --- |
@@ -197,7 +197,7 @@ Vervallen
 | Project- of programmadirecteur, project- of programmamanager en projectleider van projecten met een waarde groter dan € 50.000.000 binnen een regionaal of een centraal organisatieonderdeel: | 15.000 |
 | Senior adviseur van de afdeling Bestuurlijk Juridische zaken en Vastgoed/Schade binnen de Rijkswaterstaat Corporate Dienst, voor zover het schadeafhandeling betreft: | 15.000 |
 
-3. De grensbedragen gelden, met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24), niet:
+3. De grensbedragen gelden, met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15), niet:
 
 - a. in HRM-aangelegenheden welke deel uitmaken van de interdepartementale procesafspraken in het kader van P-Direkt.
 
@@ -211,15 +211,15 @@ Ten aanzien van de in dit besluit verleende bevoegdheden gelden de in de bijlage
 
 1. De directeur-generaal Rijkswaterstaat, de plaatsvervangend directeur-generaal en de chief financial officer kunnen instructies geven ter zake van de uitoefening van alle bevoegdheden welke verleend zijn in of op grond van dit besluit.
 
-2. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24) en [6, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24), genoemde functionarissen kunnen in hun organisatieonderdeel of directie instructies geven ter zake van de uitoefening van de bevoegdheden welke zij op grond van dit besluit verlenen, doch alleen in overeenstemming met de krachtens het eerste lid gegeven instructies.
+2. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15) en [6, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15), genoemde functionarissen kunnen in hun organisatieonderdeel of directie instructies geven ter zake van de uitoefening van de bevoegdheden welke zij op grond van dit besluit verlenen, doch alleen in overeenstemming met de krachtens het eerste lid gegeven instructies.
 
 3. De in of op grond van dit besluit gemandateerde bevoegdheden worden uitgeoefend met inachtneming van de gegeven instructies.
 
 ##### Artikel 14. Bevoegdheid bij organisatieonderdeel overschrijdende aangelegenheden
 
-1. In het geval de aan de hoofdingenieur-directeuren verleende bevoegdheden, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24) en [9, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=9&z=2020-10-24&g=2020-10-24), een en dezelfde aangelegenheid betreft en meer dan een organisatieonderdeel aangaat, kan een van deze hoofdingenieur-directeuren namens de andere bevoegde hoofdingenieur-directeuren deze bevoegdheden uitoefenen.
+1. In het geval de aan de hoofdingenieur-directeuren verleende bevoegdheden, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15) en [9, steeds eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=9&z=2021-05-15&g=2021-05-15), een en dezelfde aangelegenheid betreft en meer dan een organisatieonderdeel aangaat, kan een van deze hoofdingenieur-directeuren namens de andere bevoegde hoofdingenieur-directeuren deze bevoegdheden uitoefenen.
 
-2. Het eerste lid is van overeenkomstige toepassing op de aan directeuren en afdelingshoofden verleende bevoegdheden op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2020-10-24&g=2020-10-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2020-10-24&g=2020-10-24) en [9, steeds tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=9&z=2020-10-24&g=2020-10-24), voor zover het hun werkterrein betreft.
+2. Het eerste lid is van overeenkomstige toepassing op de aan directeuren en afdelingshoofden verleende bevoegdheden op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2021-05-15&g=2021-05-15), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2021-05-15&g=2021-05-15) en [9, steeds tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=9&z=2021-05-15&g=2021-05-15), voor zover het hun werkterrein betreft.
 
 ##### Artikel 15. Slotbepalingen
 
@@ -247,9 +247,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Op verleende bevoegdheden in mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat of aan een andere functionaris binnen Rijkswaterstaat door een ander bestuursorgaan dan de Minister van Infrastructuur en Waterstaat, is dit besluit van overeenkomstige toepassing, tenzij betreffend besluit tot verlening van bevoegdheden in mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
 
-## Bijlage. bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2020-10-24&g=2020-10-24) van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
+## Bijlage. bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2021-05-15&g=2021-05-15) van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
 
-In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2020-10-24&g=2020-10-24) wordt, conform deze bijlage, het uitoefenen van de bevoegdheden voor bepaalde categorieën besluiten voorbehouden aan de bepaalde functionarissen en/of beperkt door de eis van voorafgaande instemming van een functionaris op een hoger niveau.
+In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2021-05-15&g=2021-05-15) wordt, conform deze bijlage, het uitoefenen van de bevoegdheden voor bepaalde categorieën besluiten voorbehouden aan de bepaalde functionarissen en/of beperkt door de eis van voorafgaande instemming van een functionaris op een hoger niveau.
 
 ### Voorbehouden en beperkingen
 
