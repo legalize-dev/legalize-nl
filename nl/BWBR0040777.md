@@ -4,7 +4,7 @@ identifier: "BWBR0040777"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-05-18"
-last_updated: "2018-03-31"
+last_updated: "2021-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040777"
 soort: "zbo"
@@ -35,7 +35,7 @@ entry_into_force: "2018-03-31"
 ---
 # Bestuursreglement CIZ
 
-Het ZBO CIZ, vertegenwoordigd door haar bestuurder, heeft – gelet op [artikel 7.1.3. van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.3) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) – in zijn vergadering van 13 december 2017 besloten:
+Het zelfstandig bestuursorgaan CIZ, vertegenwoordigd door de Voorzitter van de Raad van Bestuur, heeft – gelet op [artikel 7.1.3. van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.3) (Wlz) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) – besloten tot wijziging van het Bestuursreglement CIZ zoals vastgesteld op 13 december 2017. Aanleiding voor de wijziging is de wijziging in voorzitterschap van de Raad van Bestuur per 1 februari 2021. Na wijziging luidt de tekst van het Bestuursreglement als volgt:
 
 ### Begripsbepalingen
 
@@ -43,7 +43,7 @@ Het ZBO CIZ, vertegenwoordigd door haar bestuurder, heeft – gelet op [artikel 
 
 ### Artikelen
 
-### 1. De Bestuurder
+### 1. De Raad van Bestuur
 
 ### 2. Uitoefening taken en bevoegdheden
 
@@ -51,11 +51,11 @@ Het ZBO CIZ, vertegenwoordigd door haar bestuurder, heeft – gelet op [artikel 
 
 ### 4. Besluiten van beheersmatige aard
 
-De bestuurder draagt er zorg voor dat het CIZ zich als een publiekrechtelijk orgaan bij haar bedrijfsvoering zo veel mogelijk richt op datgene wat gebruikelijk is bij de rijksoverheid, onverlet de eigen verantwoordelijkheid van het CIZ.
+De Raad van Bestuur draagt er zorg voor dat het CIZ zich als een publiekrechtelijk orgaan bij zijn bedrijfsvoering zoveel mogelijk richt op datgene wat gebruikelijk is bij de rijksoverheid, onverlet de eigen verantwoordelijkheid van het CIZ.
 
 ### 5. Tegenstrijdige belangen
 
-### 6. De vergaderingen van de bestuurstafel
+### 6. De Bestuurstafel
 
 ### 7. Bestuurlijke besluitvorming
 
@@ -63,11 +63,11 @@ De bestuurder draagt er zorg voor dat het CIZ zich als een publiekrechtelijk org
 
 ### 9. Toezicht door de Minister
 
-De Minister houdt toezicht op het CIZ. De bestuurder verleent en bevordert binnen de organisatie de volledige medewerking aan de uitvoering van de toezichthoudende taken.
+De Minister houdt toezicht op het CIZ. De Raad van Bestuur verleent en bevordert binnen de organisatie de volledige medewerking aan de uitvoering van de toezichthoudende taken.
 
 ### 10. Besluit organisatie, mandaat, volmacht en machtiging
 
-De bestuurder stelt een mandaatregeling vast. Hierin worden mandaat, volmacht en machtigingen en daaraan gerelateerde bevoegdheden beschreven en de reikwijdte c.q. organisatieonderdeel van het CIZ waarop dit van toepassing is.
+De Voorzitter stelt een mandaatregeling vast. Hierin worden mandaat, volmacht en machtigingen en daaraan gerelateerde bevoegdheden beschreven en de reikwijdte c.q. het organisatieonderdeel van het CIZ waarop dit van toepassing is.
 
 ### 11. Raad van Advies
 
@@ -77,17 +77,17 @@ De bestuurder stelt een mandaatregeling vast. Hierin worden mandaat, volmacht en
 
 ### 14. Klachtenregeling
 
-De bestuurder stelt, met inachtneming van [hoofdstuk 9 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast op grond waarvan een ieder recht heeft om over de wijze waarop het CIZ zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen een klacht in te dienen bij het CIZ.
+De Raad van Bestuur stelt, met inachtneming van [hoofdstuk 9 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast op grond waarvan eenieder recht heeft om over de wijze waarop het CIZ zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen een klacht in te dienen bij het CIZ.
 
 De wijze van behandelen van de klacht is vastgelegd in de klachtenregeling.
 
 ### 15. Integriteitsbeleid
 
-De bestuurder legt het beleid inzake de integriteit vast in een Gedragscode Integriteit waar alle medewerkers van het CIZ en de bestuurder aan zijn gebonden.
+De Raad van Bestuur legt het beleid inzake de integriteit vast in een Gedragscode Integriteit waar alle medewerkers van het CIZ en de Leden van de Raad van Bestuur aan zijn gebonden.
 
 ### 16. Klokkeluidersregeling
 
-De bestuurder stelt een klokkeluidersregeling vast. Deze regeling is opgesteld met het doel medewerkers van het CIZ, ongeacht hun functie en positie in de organisatie, op adequate en veilige wijze melding te laten doen van vermoedens van misstanden of onregelmatigheden die plaatsvinden binnen de organisatie. De wijze van behandelen van de melding is vastgelegd in de klokkeluidersregeling.
+De Raad van Bestuur stelt een klokkeluidersregeling vast. Deze regeling is opgesteld met het doel medewerkers van het CIZ, ongeacht hun functie en positie in de organisatie, op adequate en veilige wijze melding te laten doen van vermoedens van misstanden of onregelmatigheden die plaatsvinden binnen de organisatie. De wijze van behandelen van de melding is vastgelegd in de klokkeluidersregeling.
 
 ### 17. Vertrouwelijkheid
 
