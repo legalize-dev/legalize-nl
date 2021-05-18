@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-04-21"
+last_updated: "2021-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-04-21&g=2021-04-21), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-04-21&g=2021-04-21), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-04-21&g=2021-04-21), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-04-21&g=2021-04-21) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-04-21&g=2021-04-21) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-05-18&g=2021-05-18), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-05-18&g=2021-05-18), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-05-18&g=2021-05-18) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-05-18&g=2021-05-18) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
@@ -168,7 +168,7 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-04-21&g=2021-04-21) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
+In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
 
 - a. risicovogels aanwezig zijn of gewoonlijk worden gehouden in een overkapte doorloopvolière; en
 
@@ -176,7 +176,7 @@ In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&h
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-04-21&g=2021-04-21) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -324,6 +324,8 @@ De exploitant die voor een zending salamanders verantwoordelijk is, voldoet aan 
 
 ### Hoofdstuk 6
 
+### Hoofdstuk 6
+
 ### Hoofdstuk 7
 
 ### Hoofdstuk 8
@@ -331,8 +333,6 @@ De exploitant die voor een zending salamanders verantwoordelijk is, voldoet aan 
 ### Hoofdstuk 9
 
 ### Hoofdstuk 10
-
-### Hoofdstuk 11. Slotbepalingen
 
 ##### Artikel 11.1
 
@@ -343,6 +343,28 @@ Deze regeling treedt in werking met ingang van 21 april 2021.
 Deze regeling wordt aangehaald als: Regeling veterinaire maatregelen specifieke dierziekten of zoönosen.
 
 ## Bijlage. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-04-21&g=2021-04-21)
+
+Gebieden als bedoeld in artikel 2.2, tweede lid
+
+### 1. Leefgebied Wild zwijn Veluwe
+
+Het leefgebied is in donkergroen aangeduid.
+
+### 2. Leefgebied De Meinweg, Leefgebied Meerlebroek
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4.4. Opslag mest en verbod afvoer
+
+1. De exploitant van een inrichting waar nertsen werden gehouden en ten aanzien waarvan een maatregel als bedoeld in [artikel 22 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=22), zoals dat luidde voor 21 april 2021, is genomen, slaat de mest van nertsen op zijn inrichting op.
+
+2. Het is verboden mest als bedoeld in het eerste lid, van de inrichting af te voeren.
+
+### Hoofdstuk 5. Verplaatsingen van salamanders
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-05-18&g=2021-05-18)
 
 Gebieden als bedoeld in artikel 2.2, tweede lid
 
