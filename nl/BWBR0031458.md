@@ -4,7 +4,7 @@ identifier: "BWBR0031458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-12-18"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031458"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2020-12-18&g=2020-12-18) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2021-05-20&g=2021-05-20) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2020-12-18&g=2020-12-18) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2021-05-20&g=2021-05-20) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
 
 ##### Artikel 7
 
@@ -152,7 +152,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - i. de markt van het goederenvervoer.
 
-2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=2&z=2020-12-18&g=2020-12-18) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).
+2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=2&z=2021-05-20&g=2021-05-20) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).
 
 ##### Artikel 8
 
@@ -184,7 +184,7 @@ De aanvrager die het theorie examen vakbekwaamheid D1 respectievelijk D met goed
 
 - i. de markt van het personenvervoer.
 
-2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=3&z=2020-12-18&g=2020-12-18) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).
+2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=3&z=2021-05-20&g=2021-05-20) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).
 
 ##### Artikel 11
 
@@ -234,7 +234,7 @@ De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed
 
 - d. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=4&z=2020-12-18&g=2020-12-18) bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=4&z=2021-05-20&g=2021-05-20) bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.
 
 ##### Artikel 16
 
@@ -250,29 +250,29 @@ De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed
 
 - e. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=5&z=2020-12-18&g=2020-12-18) bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=5&z=2021-05-20&g=2021-05-20) bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.
 
 ##### Artikel 17
 
 1. Bij de praktijktoets vakbekwaamheid 2 voor de rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D wordt getoetst of de aanvrager in staat is de controle over het voertuig bij verschillende situaties te hebben.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=6&z=2020-12-18&g=2020-12-18) bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=6&z=2021-05-20&g=2021-05-20) bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.
 
 ##### Artikel 18
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2020-12-18&g=2020-12-18), bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2021-05-20&g=2021-05-20), bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen.
 
 ##### Artikel 19
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2020-12-18&g=2020-12-18), bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2021-05-20&g=2021-05-20), bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen.
 
 ##### Artikel 20
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2020-12-18&g=2020-12-18), bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2021-05-20&g=2021-05-20), bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen.
 
 ##### Artikel 21
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2020-12-18&g=2020-12-18), bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2021-05-20&g=2021-05-20), bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen.
 
 ##### Artikel 22
 
@@ -282,7 +282,7 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 3. Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de aanwijzing vastgestelde tarief.
 
-#### § 6. Vrijstellingen basiskwalificatie
+#### § 5a. Verlenging geldigheid examenresultaten in verband met COVID-19
 
 ##### Artikel 23
 
@@ -316,7 +316,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 2. Om voor erkenning in aanmerking te komen voldoen de opleidingscentra aan de volgende eisen:
 
-- a. de aangeboden nascholingscursussen zijn door de aangewezen exameninstantie gecertificeerd overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2020-12-18&g=2020-12-18) en voldoen aan de in het eerste lid van dat artikel opgenomen eisen;
+- a. de aangeboden nascholingscursussen zijn door de aangewezen exameninstantie gecertificeerd overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2021-05-20&g=2021-05-20) en voldoen aan de in het eerste lid van dat artikel opgenomen eisen;
 
 - b. het opleidingscentrum draagt er zorg voor dat de nascholingscursussen in een daarvoor geschikte locatie worden gegeven;
 
@@ -336,7 +336,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 4. Een erkenning van een opleidingscentrum kan door de aangewezen exameninstantie worden geschorst of ingetrokken, indien niet langer aan de eisen, bedoeld in het tweede lid, wordt voldaan.
 
-#### § 2. Erkenningseisen opleidingscentra
+#### § 1. Eisen aan toekenning nascholing gevolgd in andere lidstaat
 
 ##### Artikel 26
 
@@ -354,7 +354,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 - f. de nascholingsdocenten en -instructeurs voldoen aan de eisen zoals deze per nascholingscursus zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in [artikel 156s, tweede lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156s);
 
-- g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=4&artikel=27&z=2020-12-18&g=2020-12-18);
+- g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=4&artikel=27&z=2021-05-20&g=2021-05-20);
 
 - h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in [artikel 156z van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156z);
 
@@ -366,7 +366,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 4. Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de certificering van nascholingscursussen vastgestelde tarief.
 
-#### § 3. Certificering nascholingscursussen
+#### § 2. Erkenningseisen opleidingscentra
 
 ##### Artikel 27
 
@@ -382,7 +382,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 ##### Artikel 28
 
-1. Met het toezicht op de naleving van [artikel 156n](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156n), de [paragrafen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=9) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=10) en [artikel 26 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2020-12-18&g=2020-12-18) zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.
+1. Met het toezicht op de naleving van [artikel 156n](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156n), de [paragrafen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=9) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=10) en [artikel 26 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2021-05-20&g=2021-05-20) zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.
 
 2. Het erkende opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het toezicht vastgestelde tarief.
 
@@ -418,9 +418,9 @@ De NIWO verklaart een nationaal certificaat ongeldig indien na afgifte blijkt da
 
 - a. het nationaal certificaat is afgegeven op grond van onjuiste gegevens, dan wel
 
-- b. de aanvrager niet langer voldoet aan een of meer van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=V&artikel=29&z=2020-12-18&g=2020-12-18) genoemde vereisten.
+- b. de aanvrager niet langer voldoet aan een of meer van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=V&artikel=29&z=2021-05-20&g=2021-05-20) genoemde vereisten.
 
-### Hoofdstuk V. Nationale certificaten
+### Hoofdstuk IV. Toezicht
 
 ##### Artikel 32
 
@@ -446,21 +446,21 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid bestuurders 2012.
 
 ### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid 1 (RV1 verkeer en techniek) voor categorie C, C1, C1-Light, C1-Plus, D, D1, D1-Light en D1-Plus
 
-## Bijlage 2. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=7&z=2015-07-01&g=2015-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1 en C (R2/V2-V3)
+## Bijlage 1. bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=5&z=2021-05-20&g=2021-05-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=6&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D
 
-### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie C en C1 (R2/V2-3C)
+### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid 1 (RV1 verkeer en techniek) voor categorie C, C1, C1-Light, C1-Plus, D, D1, D1-Light en D1-Plus
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
-Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
 
 ## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2015-07-01&g=2015-07-01) van de Regeling vakbekwaamheid bestuurders 2012
 
 ### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor categorie C, C1
 
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
+Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
 
 ## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2015-07-01&g=2015-07-01) van de Regeling vakbekwaamheid bestuurders 2012
 
@@ -476,33 +476,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het certificaat praktijktrainer nascholing wordt afgegeven tegen betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het certificaat praktijktrainer nascholing vastgestelde tarief en indien wordt voldaan aan de eisen die zijn vastgesteld door de aangewezen exameninstantie.
 
-#### § 3a. Certificaat praktijktrainer nascholing
+#### § 3. Certificering nascholingscursussen
 
 ### Hoofdstuk IV. Toezicht
 
-### Hoofdstuk VI. Slotbepalingen
+### Hoofdstuk V. Nationale certificaten
 
 ## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2015-07-01&g=2015-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorie D1, en D (R2/V2-V3)
 
 ### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie D en D1 (R2/V2-3D)
 
-Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
-F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
+Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 ## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2013-04-01&g=2013-04-01) van de Regeling vakbekwaamheid bestuurders 2012
 
 ### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor categorie D, D1
 
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
 
-De scenario's vindt u op de website www.ccvexamenhuis.nl.
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 ## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2015-07-01&g=2015-07-01) van de Regeling vakbekwaamheid bestuurders 2012
 
 ### Toelichting
 
-### Eind- en toetstermen voor de toets besloten terrein / simulator voor categorie C, C1, D, D1
+### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie C en C1 (R2/V2-3C)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -522,17 +522,17 @@ Vervallen
 
 ### Hoofdstuk III. Stelsel van nascholing
 
-#### § 4. Eisen wagenpark
+#### § 3a. Certificaat praktijktrainer nascholing
 
 ### Hoofdstuk VI. Slotbepalingen
 
-De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
 
 De scenario's vindt u op de website www.ccvexamenhuis.nl.
 
 ## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2015-06-01&g=2015-06-01) van de Regeling vakbekwaamheid bestuurders 2012
 
-### Toetsmatrijs praktische toets besloten terrein of simulaor C1, C, E bij C1,E bij C, D1, D, E bij D1 of E bij D
+### Toelichting
 
 ### Eind- en toetstermen voor de toets besloten terrein / simulator voor categorie C, C1, D, D1
 
@@ -548,15 +548,15 @@ Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin sta
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
 Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
 F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
-
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 ## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2016-07-01&g=2016-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorie D1, en D (R2/V2-V3)
 
@@ -570,15 +570,15 @@ Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin sta
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
 Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
 F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
-
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 ## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2016-07-01&g=2016-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets C1, C, E bij C1 en E bij C
 
@@ -592,15 +592,15 @@ Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin sta
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
 Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
 F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
-
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 ## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2016-07-01&g=2016-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets D1, D, E bij D1 en E bij D
 
@@ -614,15 +614,15 @@ Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin sta
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
 Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
 F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
-
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 ## Bijlage 6. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2016-07-01&g=2016-07-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D, of E bij D
 
@@ -636,41 +636,121 @@ Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin sta
 
 Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
 
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
 Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
 
 Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
 
 F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
 
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
 
 ## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2020-12-18&g=2020-12-18) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorie D1, en D (R2-V2-V3)
 
 ### Toelichting
 
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
 
 ## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2020-12-18&g=2020-12-18) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets C1, C, E bij C1 en E bij C
 
 ### Toelichting
 
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
 
 ## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2020-12-18&g=2020-12-18) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets D1, D, E bij D1 en E bij D
 
 ### Toelichting
 
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
 
 ## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2020-12-18&g=2020-12-18) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D, of E bij D
 
 ### Toelichting
+
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 22a
+
+In afwijking van de [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2021-05-20&g=2021-05-20) bij deze regeling zijn de resultaten van de in die bijlagen genoemde examens en toetsen geldig tot en met:
+
+- a. 30 september 2021, indien de resultaten zijn behaald in de periode van 1 oktober 2018 tot en met 30 april 2019;
+
+- b. 30 november 2021, indien de resultaten zijn behaald in de periode van 1 mei 2019 tot en met 31 mei 2019;
+
+- c. 31 december 2021, indien de resultaten zijn behaald in de periode van 1 juni 2019 tot en met 30 juni 2019;
+
+- d. 31 januari 2022, indien de resultaten zijn behaald in de periode van 1 juli 2019 tot en met 31 juli 2019;
+
+- e. 28 februari 2022, indien de resultaten zijn behaald in de periode van 1 augustus 2019 tot en met 31 augustus 2019;
+
+- f. 31 maart 2022, indien de resultaten zijn behaald in de periode van 1 september 2019 tot en met 30 september 2019;
+
+- g. 30 april 2022, indien de resultaten zijn behaald in de periode van 1 oktober 2019 tot en met 31 oktober 2019;
+
+- h. 31 mei 2022, indien de resultaten zijn behaald in de periode van 1 november 2019 tot en met 30 november 2019;
+
+- i. 30 juni 2022, indien de resultaten zijn behaald in de periode van 1 december 2019 tot en met 31 december 2019.
+
+#### § 6. Vrijstellingen basiskwalificatie
+
+### Hoofdstuk III. Stelsel van nascholing
+
+#### § 4. Eisen wagenpark
+
+### Hoofdstuk VI. Slotbepalingen
+
+### Toelichting
+
+## Bijlage 2. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=7&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1 en C (R2-V2-V3)
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+
+## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorie D1, en D (R2-V2-V3)
+
+### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie D en D1 (R2/V2-3D)
+
+### Toelichting
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+
+## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets C1, C, E bij C1 en E bij C
+
+### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor de categorieën C1, C, E bij C1 en E bij C
+
+### Toelichting
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+
+## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets D1, D, E bij D1 en E bij D
+
+### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor de categorieën D1, D, E bij D1 en E bij D
+
+### Toelichting
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
+
+## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2021-05-20&g=2021-05-20) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D, of E bij D
+
+### Eind- en toetstermen voor de toets besloten terrein/toets simulator vakbekwaamheid voor de categorieën C1, C, E bij C1, E bij C, D1, D, E bij D1 of E bij D
+
+### Toelichting
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
 
 P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
 
