@@ -4,7 +4,7 @@ identifier: "BWBR0045144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-21"
-last_updated: "2021-01-01"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045144"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Besluit:
 
 1. Een mondelinge verkeersaanwijzing als bedoeld in [artikel 17 van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=17) wordt namens de directeur-generaal Rijkswaterstaat als bevoegde autoriteit opgelegd door een functionaris van Rijkswaterstaat die de scheepvaart instrueert vanaf een post, meldpost, vuurtoren of patrouillevaartuig.
 
-2. Een schriftelijke bevestiging hiervan vindt plaats door een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045144&artikel=2&z=2021-05-21&g=2021-01-01) bevoegde functionaris.
+2. Een schriftelijke bevestiging hiervan vindt plaats door een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045144&artikel=2&z=2021-05-21&g=2021-05-21) bevoegde functionaris.
 
 ##### Artikel 4. [Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184)
 
