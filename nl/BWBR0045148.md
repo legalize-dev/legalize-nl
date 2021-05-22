@@ -4,7 +4,7 @@ identifier: "BWBR0045148"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-05-22"
-last_updated: "2021-04-02"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045148"
 soort: "zbo"
@@ -76,7 +76,7 @@ De rechtsbijstand aan de rechtzoekende is geheel kosteloos. Er vindt geen draagk
 
 1. De advocaat ontvangt voor de rechtsbijstand aan de rechtzoekende een vergoeding van 1 punt.
 
-2. De vergoeding zoals bedoeld in het eerste lid van dit artikel wordt niet in mindering gebracht op de vergoeding waarop de advocaat aanspraak kan maken voor gefinancierde rechtsbijstand bij het verhoor zoals bedoeld onder i van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045148&artikel=1&z=2021-05-22&g=2021-04-02) van deze regeling alsmede een daaropvolgende strafprocedure.
+2. De vergoeding zoals bedoeld in het eerste lid van dit artikel wordt niet in mindering gebracht op de vergoeding waarop de advocaat aanspraak kan maken voor gefinancierde rechtsbijstand bij het verhoor zoals bedoeld onder i van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045148&artikel=1&z=2021-05-22&g=2021-05-22) van deze regeling alsmede een daaropvolgende strafprocedure.
 
 3. De advocaat dient zijn aanvraag voor vergoeding van rechtsbijstand in door middel van het declaratieformulier zoals opgenomen in de bijlage.
 
