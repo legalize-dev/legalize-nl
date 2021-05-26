@@ -4,7 +4,7 @@ identifier: "BWBR0037561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-26"
-last_updated: "2016-01-23"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037561"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Notificatie medische hulpmiddelen en in-vitro diagnostica
 
-Voor de verwerking van de notificatie, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), en [artikel 4, eerste lid, van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), is de persoon of de fabrikant die notificeert een vergoeding van € 200,– verschuldigd.
+Voor de verwerking van de notificatie, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), en [artikel 4, eerste lid, van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), is de persoon of de fabrikant die notificeert een vergoeding van € 200,– verschuldigd. Voor zover de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=24) en [25 van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=25) bepalen dat [artikel 5, eerste en tweede lid, van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), en [artikel 4, eerste lid, van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), zoals die luidden op de dag voor het tijdstip waarop de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) wordt ingetrokken, van toepassing blijven, is de persoon of de fabrikant die notificeert een vergoeding van € 200,– verschuldigd.
 
 ##### Artikel 2. Wijziging van de [Regeling Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0022160)
 
