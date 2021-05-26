@@ -4,7 +4,7 @@ identifier: "BWBR0045156"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-26"
-last_updated: "2021-04-20"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045156"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ Ten behoeve van de behandeling tegen bacteriegroei in het brandstofsysteem van v
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=1&z=2021-05-26&g=2021-04-20), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=1&z=2021-05-26&g=2021-05-26), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -67,9 +67,9 @@ Dit besluit wordt aangehaald als: Verlenging vrijstelling Biobor JF voor vliegtu
 
 Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 20 april 2021.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=2&z=2021-05-26&g=2021-04-20)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=2&z=2021-05-26&g=2021-05-26)
 
-Aan de vrijstelling en toestemming zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=1&z=2021-05-26&g=2021-04-20) zijn de volgende beperkingen en voorschriften verbonden:
+Aan de vrijstelling en toestemming zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045156&artikel=1&z=2021-05-26&g=2021-05-26) zijn de volgende beperkingen en voorschriften verbonden:
 
 - •. Uitsluitend professioneel gebruik is toegestaan
 
