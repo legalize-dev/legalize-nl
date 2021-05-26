@@ -4,7 +4,7 @@ identifier: "BWBR0043208"
 country: "nl"
 rank: "wet"
 publication_date: "2024-11-06"
-last_updated: "2021-01-01"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043208"
 soort: "wet"
@@ -105,13 +105,9 @@ Wijzigt de Wet medezeggenschap cliënten zorginstellingen 2018.
 
 Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVa
 
 Wijzigt de Wet medische hulpmiddelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -205,8 +201,6 @@ Na de inwerkingtreding van deze wet is [artikel 7 van de Wet op het RIVM](https:
 
 Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVIII
 
 Wijzigt deze wet.
@@ -223,13 +217,13 @@ Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen III, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=III&z=2021-01-01&g=2021-01-01), en [XIII, onderdelen A, onder 2, en G](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XIII&z=2021-01-01&g=2021-01-01), werken terug tot en met 1 januari 2018.
+2. De [artikelen III, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=III&z=2021-05-26&g=2021-05-26), en [XIII, onderdelen A, onder 2, en G](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XIII&z=2021-05-26&g=2021-05-26), werken terug tot en met 1 januari 2018.
 
-3. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=V&z=2021-01-01&g=2021-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VI&z=2021-01-01&g=2021-01-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VII&z=2021-01-01&g=2021-01-01), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXI&z=2021-01-01&g=2021-01-01) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXII&z=2021-01-01&g=2021-01-01) werken terug tot en met 1 september 2018.
+3. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=V&z=2021-05-26&g=2021-05-26), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VI&z=2021-05-26&g=2021-05-26), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VII&z=2021-05-26&g=2021-05-26), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXI&z=2021-05-26&g=2021-05-26) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXII&z=2021-05-26&g=2021-05-26) werken terug tot en met 1 september 2018.
 
-4. Indien [artikel XII, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2021-01-01&g=2021-01-01), na 1 januari 2020 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2020.
+4. Indien [artikel XII, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2021-05-26&g=2021-05-26), na 1 januari 2020 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2020.
 
-5. Ten aanzien van [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2021-01-01&g=2021-01-01), kan worden bepaald dat dit onderdeel terugwerkt tot en met de dag waarop de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie heeft plaatsgevonden.
+5. Ten aanzien van [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2021-05-26&g=2021-05-26), kan worden bepaald dat dit onderdeel terugwerkt tot en met de dag waarop de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie heeft plaatsgevonden.
 
 ##### Artikel XL
 
