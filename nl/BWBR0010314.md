@@ -4,7 +4,7 @@ identifier: "BWBR0010314"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-05-26"
-last_updated: "2015-03-01"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010314"
 soort: "AMvB"
@@ -54,15 +54,21 @@ Als wetenschappelijk onderzoek waarvan het onderzoekprotocol een positief oordee
 
 - b. wetenschappelijk onderzoek waarbij levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, worden in- of aangebracht in of aan het lichaam van een mens;
 
-- c. wetenschappelijk onderzoek waarbij middelen waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [artikel 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is, in farmaceutische vorm worden voorgeschreven aan personen die aan die middelen zijn verslaafd, in het kader van de behandeling van de verslaving aan die middelen;
+- c. wetenschappelijk onderzoek met geslachtscellen;
 
-- d. wetenschappelijk onderzoek met geslachtscellen;
+- d. wetenschappelijk onderzoek gericht op de ontwikkeling van een vaccin;
 
-- e. wetenschappelijk onderzoek gericht op de ontwikkeling van een vaccin;
+- e. wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;
 
-- f. wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;
+- f. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1) bevat;
 
-- g. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1) bevat.
+- g. wetenschappelijk onderzoek met een product dat levende (micro-)organismen of virussen bevat welke zich direct richten op het bestrijden van ziekteveroorzakende factoren;
+
+- h. wetenschappelijk onderzoek met geneesmiddelen bij zwangere of borstvoeding gevende vrouwen voor zover dit onderzoek betreft als omschreven in artikel 1, juncto artikel 2, tweede lid, onder 2, en artikel 33 van Verordening (EU) 536/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende klinische proeven met geneesmiddelen voor menselijk gebruik en tot intrekking van [Richtlijn 2001/20/EG](32001L0020) (PbEU 2014, L 158/1);
+
+- i. wetenschappelijk onderzoek met medische hulpmiddelen bij zwangere of borstvoeding gevende vrouwen voor zover dit onderzoek betreft als omschreven in artikel 1, eerste en tweede lid, juncto artikel 66 van Verordening (EU) 2017/745 van het Europees Parlement en de Raad van 5 april 2017 betreffende medische hulpmiddelen, tot wijziging van [Richtlijn 2001/83/EG](32001L0083), [Verordening (EG) nr. 178/2002](32002R0178) en [Verordening (EG) nr. 1223/2009](32009R1223), en tot intrekking van [Richtlijnen 90/385/EEG](31990L0385) en [93/42/EEG](31993L0042) van de Raad (PbEU 2017, L [117/1](32017L0001)), en
+
+- j. wetenschappelijk onderzoek met medische hulpmiddelen voor in-vitro-diagnostiek bij zwangere of borstvoeding gevende vrouwen voor zover dit onderzoek betreft als omschreven in artikel 1, eerste lid, juncto artikel 62 van Verordening (EU) 2017/746 van het Europees Parlement en de Raad van 5 april 2017 betreffende medische hulpmiddelen voor in-vitrodiagnostiek en tot intrekking van [Richtlijn 98/79/EG](31998L0079) en Besluit 2010/227/EU van de Commissie (PbEU 2017, L 117/176).
 
 ##### Artikel 2
 
