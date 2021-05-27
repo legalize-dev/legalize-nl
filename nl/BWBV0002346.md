@@ -4,7 +4,7 @@ identifier: "BWBV0002346"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-27"
-last_updated: "2011-11-30"
+last_updated: "2021-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002346"
 soort: "verdrag"
@@ -331,7 +331,7 @@ Om ervoor te zorgen dat de vereiste formaliteiten aan de grensposten worden gest
 
 ##### Artikel 7. Verslaggeving
 
-Met betrekking tot de artikelen 1 tot en met 6 van deze bijlage verricht de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) om de twee jaar bij de overeenkomstsluitende partijen een onderzoek naar de vorderingen die zijn gemaakt om de grensprocedures in hun landen te verbeteren.
+Met betrekking tot de artikelen 1 tot en met 6 van deze bijlage verricht de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) om de vijf jaar bij de overeenkomstsluitende partijen een onderzoek naar de vorderingen die zijn gemaakt om de grensprocedures in hun landen te verbeteren.
 
 DONE at Geneva, this twenty-first day of October one thousand nine hundred and eighty-two, in a single original, of which the English, French, Russian and Spanish texts are equally authentic.
 
@@ -375,7 +375,7 @@ Teneinde de vereiste formaliteiten bij grens(overgangs)stations doeltreffender t
 
 ##### Artikel 5. Samenwerking tussen buurlanden bij grens(overgangs)stations
 
-In overeenstemming met de bepalingen van [artikel 7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=II&artikel=7&z=2011-11-30&g=2011-11-30), stemmen de overeenkomstsluitende partijen maatregelen met elkaar af ter zake van de controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen alsmede de verwerking van transport- en begeleidende documenten en spannen zij zich in alle vormen van gezamenlijke controles te regelen op basis van bilaterale overeenkomsten.
+In overeenstemming met de bepalingen van [artikel 7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=II&artikel=7&z=2021-05-27&g=2021-05-27), stemmen de overeenkomstsluitende partijen maatregelen met elkaar af ter zake van de controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen alsmede de verwerking van transport- en begeleidende documenten en spannen zij zich in alle vormen van gezamenlijke controles te regelen op basis van bilaterale overeenkomsten.
 
 ##### Artikel 6. Controles
 
@@ -387,7 +387,7 @@ De overeenkomstsluitende partijen:
 
 - 3. verrichten vereenvoudigde controles uit bij grens(overgangs)stations en laten indien mogelijk bepaalde vormen van controle verrichten bij de stations van vertrek en aankomst;
 
-- 4. verrichten onverminderd [artikel 10 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=III&artikel=10&z=2011-11-30&g=2011-11-30), [artikel 4 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=2&artikel=4&z=2011-11-30&g=2011-11-30), [artikel 5 van bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=3&artikel=5&z=2011-11-30&g=2011-11-30) en [artikel 5 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=4&artikel=5&z=2011-11-30&g=2011-11-30) inspecties van goederen in transit uitsluitend in gevallen waarin dat vanwege de feitelijke omstandigheden of risico’s nodig is.
+- 4. verrichten onverminderd [artikel 10 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=III&artikel=10&z=2021-05-27&g=2021-05-27), [artikel 4 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=2&artikel=4&z=2021-05-27&g=2021-05-27), [artikel 5 van bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=3&artikel=5&z=2021-05-27&g=2021-05-27) en [artikel 5 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=4&artikel=5&z=2021-05-27&g=2021-05-27) inspecties van goederen in transit uitsluitend in gevallen waarin dat vanwege de feitelijke omstandigheden of risico’s nodig is.
 
 ##### Artikel 7. Termijnen
 
