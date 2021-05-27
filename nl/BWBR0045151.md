@@ -4,7 +4,7 @@ identifier: "BWBR0045151"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-27"
-last_updated: "2021-04-19"
+last_updated: "2021-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045151"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Geheimhouding
 
-1. De leden van de commissie, de secretaris en overige personen die de commissie ondersteunen zijn, behoudens de rapportage(s) aan de RvC DNB en de Minister, verplicht tot geheimhouding van de gegevens en inlichtingen die zij in het kader van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045151&artikel=2&z=2021-05-27&g=2021-04-19) bedoelde onderzoek ontvangen.
+1. De leden van de commissie, de secretaris en overige personen die de commissie ondersteunen zijn, behoudens de rapportage(s) aan de RvC DNB en de Minister, verplicht tot geheimhouding van de gegevens en inlichtingen die zij in het kader van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045151&artikel=2&z=2021-05-27&g=2021-05-27) bedoelde onderzoek ontvangen.
 
 2. Het eerste lid is niet van toepassing op gegevens en inlichtingen die reeds op andere wijze openbaar zijn gemaakt.
 
