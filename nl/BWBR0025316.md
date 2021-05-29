@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-01-01&g=2021-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-05-29&g=2021-05-29), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-01-01&g=2021-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-05-29&g=2021-05-29), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -2082,7 +2082,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-01-01&g=2021-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-05-29&g=2021-05-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-05-29&g=2021-05-29) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
@@ -2102,7 +2102,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die niet actief is in de primaire landbouwproductie of de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-01-01&g=2021-01-01)
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2021-05-29&g=2021-05-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2021-05-29&g=2021-05-29)
 
 ### Paragraaf 1. Algemeen
 
@@ -2368,17 +2368,17 @@ Toelichting: Let op: investeringen in wettelijk verplichte bedrijfsmiddelen kome
 
 **Circulair utiliteitsgebouw zonder industriefunctie**
 
-De investering in het circulaire utiliteitsgebouw komt voor ten hoogste € 1.200 per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek.
+Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (https://circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens te stimuleren en ervaring op te doen met de MilieuPrestatieberekening voor Gebouwen (MPG) op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (www.rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving. De eerste publicatie van het circulaire bouwproject vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport. Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of energie-investeringsaftrek.
 
-Investeringen in een circulair utiliteitsgebouw(deel) zoals hierboven genoemd, kunnen uitsluitend in zijn geheel voor bedrijfsmiddel G 6100 gemeld worden.
+De door de regeling erkende duurzame bouw maatlatmethodieken zijn voor 2020 BREEAM-NL en GPR Gebouw.
 
-Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6130.
+De Nationale Milieudatabase informatie kun u vinden op: www.milieudatabase.nl.
 
-Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens en producten ontworpen voor meervoudig gebruik en aangeboden met een retoursysteem te stimuleren en ervaring op te doen met parameters voor gebruik van grondstoffen, vrijkomen van afval e.d. in de MilieuPrestatieberekening voor Gebouwen op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving en kan de circulaire bepalingsmethodiek worden verbeterd. De eerste publicatie van het circulaire gebouw(deel) vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport.
+Op www.rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op:
 
-Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of Energie-investeringsaftrek.
+https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen.
 
-De door de regeling erkende duurzame bouw maatlatmethodieken zijn in 2021 BREEAM-NL en GPR Gebouw.
+**D 6101**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2468,43 +2468,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Installaties en civiele voorzieningen
 
-De Nationale Milieudatabase informatie kunt u vinden op milieudatabase.nl. Op rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen.
-
-**D 6101**
-
 **Circulair utiliteitsgebouw met industriefunctie**
 
-De investering in het circulaire utiliteitsgebouw(deel) met utiliteitsfunctie komt voor ten hoogste € 600 per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek.
+Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (https://circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens te stimuleren en ervaring op te doen met de MilieuPrestatieberekening voor Gebouwen (MPG) op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (www.rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving. De eerste publicatie van het circulaire bouwproject vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport. Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of energie-investeringsaftrek.
+
+De door de regeling erkende duurzame bouw maatlatmethodieken zijn voor 2020 BREEAM-NL en GPR Gebouw.
+
+De Nationale Milieudatabase informatie kun u vinden op: www.milieudatabase.nl.
 
 ### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
-Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6130.
-
-Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens en producten ontworpen voor meervoudig gebruik en aangeboden met een retoursysteem te stimuleren en ervaring op te doen met parameters voor gebruik van grondstoffen, vrijkomen van afval e.d. in de MilieuPrestatieberekening voor Gebouwen op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving en kan de circulaire bepalingsmethodiek worden verbeterd. De eerste publicatie van het circulaire gebouw(deel) vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport.
-
-Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of Energie-investeringsaftrek.
-
-De door de regeling erkende duurzame bouw maatlatmethodieken zijn in 2021 BREEAM-NL en GPR Gebouw.
-
-De Nationale Milieudatabase informatie kunt u vinden op milieudatabase.nl. Op rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen.
+https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen
 
 **G 6102**
 
 **Circulaire woning**
 
-De investering in de circulaire woning zoals hierboven genoemd, komt voor ten hoogste € 1.200 per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek.
+Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (https://circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens te stimuleren en ervaring op te doen met de MilieuPrestatieberekening voor Gebouwen (MPG) op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (www.rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving. De eerste publicatie van het circulaire bouwproject vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport. Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of energie-investeringsaftrek.
 
-Investeringen in een circulaire woning, zoals hierboven genoemd, kunnen uitsluitend in zijn geheel voor bedrijfsmiddel G 6102 gemeld worden.
+De door de regeling erkende duurzame bouw maatlatmethodieken zijn voor 2020 BREEAM-NL en GPR Gebouw.
 
-Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6130.
+De Nationale Milieudatabase informatie kun u vinden op: www.milieudatabase.nl. Op www.rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op:
 
-Toelichting: In het kader van de Bouwagenda en de Transitieagenda Circulaire Bouweconomie (circulairebouweconomie.nl) wordt met dit experimentele bedrijfsmiddel beoogd circulaire materiaalketens en producten ontworpen voor meervoudig gebruik en aangeboden met een retoursysteem te stimuleren en ervaring op te doen met parameters voor gebruik van grondstoffen, vrijkomen van afval e.d. in de MilieuPrestatieberekening voor Gebouwen op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het Podium Duurzame Gebouwen van de Rijksdienst voor Ondernemend Nederland (rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving en kan de circulaire bepalingsmethodiek worden verbeterd. De eerste publicatie van het circulaire gebouw(deel) vindt plaats op basis van het ontwerpassessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport.
-
-Investeringen in duurzame energieopwekkingsinstallaties en energieopslag kunnen gemeld worden voor bijvoorbeeld Stimulering Duurzame Energieproductie of Energie-investeringsaftrek.
-
-De door de regeling erkende duurzame bouw maatlatmethodieken zijn in 2021 BREEAM-NL en GPR Gebouw.
-
-De Nationale Milieudatabase informatie kunt u vinden op milieudatabase.nl. Op rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen.
+https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-economie/circulair-bouwen
 
 **G 6105**
 
@@ -2632,6 +2618,20 @@ Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgen
 
 Een investering in keramische bakstenen op basis van gerecycled materiaal als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel F 6210 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
+**E 6211**
+
+**Duurzaam beton(product) met ten minste 30% gerecyclede content**
+
+De investering in het duurzame beton(product) komt voor ten hoogste de volgende bedragen in aanmerking voor milieu-investeringsaftrek:
+
+Een investering in beton(producten) met gerecycled content als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel E 6211 niet in aanmerking voor milieu-investeringsaftrek.
+
+**A 6212**
+
+**Duurzame recyclebare bitumineuze of EPDM-dakbedekking**
+
+Een investering in duurzame recyclebare dakbedekking als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel A 6212 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Grondstoffen- en watergebruik
@@ -2686,21 +2686,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### DuBo
 
-Investeringen in een circulair utiliteitsgebouw(deel) met industriefunctie kunnen uitsluitend in zijn geheel voor bedrijfsmiddel D 6101 gemeld worden.
-
-**E 6211**
-
-**Duurzaam beton(product) met ten minste 30% gerecyclede content**
-
-De investering in het duurzame beton(product) komt voor ten hoogste de volgende bedragen in aanmerking voor milieu-investeringsaftrek:
-
-Een investering in beton(producten) met gerecycled content als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel E 6211 niet in aanmerking voor milieu-investeringsaftrek.
-
-**A 6212**
-
-**Duurzame recyclebare bitumineuze of EPDM-dakbedekking**
-
-Een investering in duurzame recyclebare dakbedekking als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel A 6212 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Op www.rvo.nl/miavamil is de ‘Handreiking circulaire gebouwen op de Milieulijst’ te downloaden. Meer informatie over circulair bouwen kunt u vinden op:
 
 **A 6213**
 
@@ -2712,7 +2698,7 @@ Een investering in sloophout als onderdeel van een duurzaam gebouw dat gemeld is
 
 **Bio-asfalt**
 
-### Bedrijfsterreinen
+Toelichting: Zie bedrijfsmiddel F 1115 voor productieapparatuur voor bio-asfalt.
 
 **F 6216**
 
@@ -2724,9 +2710,9 @@ Een investering in geopolymeer betontegels op basis van gerecycled materiaal als
 
 **Isolatiemateriaal uit 100% gerecycled polystyreen**
 
-### Infrastructuur en gebouwgebonden materiaalgebruik
+Een investering in isolatie als onderdeel van een duurzaam gebouwproject dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel B 6218 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**A 6219**
+### Bedrijfsterreinen
 
 **Kalkhennep op basis van hydraatkalk**
 
@@ -2738,7 +2724,7 @@ Een investering in kalkhennep op basis van hydraatkalk als onderdeel van een duu
 
 **A 6318**
 
-**Circulaire keuken met terugnamegarantie**
+### Infrastructuur en gebouwgebonden materiaalgebruik
 
 **A 6319**
 
@@ -2760,7 +2746,7 @@ Het RIVM houdt lijsten bij van stoffen waarvan is vastgesteld dat dit zeer zorgw
 
 **Composteerbaar vloerkleed met terugnamegarantie**
 
-### Installaties en civiele voorzieningen
+**F 6341**
 
 **Lichtgewicht naaldvilt tapijttegels op basis van gerecycled textiel en biomassa**
 
@@ -2774,7 +2760,7 @@ Toelichting: De kosten voor het verwijderen van bestaande vloerbedekking, het vo
 
 Onder los gelegde tapijttegels worden tapijttegels verstaan die niet zijn verlijmd aan de ondergrond.
 
-**B 6343**
+### Installaties en civiele voorzieningen
 
 **Tapijttegels op basis van 80% gerecycled materiaal**
 
@@ -2800,11 +2786,11 @@ Toelichting: Zie bedrijfsmiddel 251102 van de energie-investeringsaftrek voor PV
 
 Een investering in een decentrale sanitatie-installatie als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel F 6446 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**F 6446**
+**C 6410**
 
 Voor een bedrijfsmiddel met doelvoorschrift geldt:
 
-### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
+Zie rvo.nl/miavamil onder ‘Voorwaarden’ en vervolgens ‘aanvullende voorwaarden’ (onder het kopje Algemene voorwaarden) voor meer informatie over bedrijfsmiddelen met doelvoorschrift.
 
 **F 1100**
 
@@ -2818,7 +2804,7 @@ Zie de bedrijfsmiddelen F 2600, F 2601, F 2612, F 2700, F 2710, F 2717, F 2721 e
 
 **Productieapparatuur voor (producten van) biobased plastics**
 
-Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld raffinage van biomassastromen. Ook het opwaarderen (stabiliseren) van pyrolyse-olie op basis van biomassa, om deze geschikt te maken voor het bijmengen in een petrochemische kraakinstallatie als vervanger van fossiele nafta, komt niet in aanmerking onder dit bedrijfsmiddel. De teelt van biomassa komt onder bedrijfsmiddel F 1101 niet in aanmerking.
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
 Van duurzame biomassa is in ieder geval sprake als de biomassa binnen de voorwaarden van NTA 8080 is geproduceerd. Onder duurzame biomassa worden ook biomassarest- en afvalstromen verstaan. Van het verstoren van de recycling van reguliere plastics kan bijvoorbeeld sprake zijn als biobased plastics in samenstelling niet gelijk zijn aan plastics van fossiele grondstoffen en daardoor de kwaliteit van recyclaat negatief beïnvloeden.
 
@@ -2998,18 +2984,6 @@ Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. E
 
 **Apparatuur voor elektrificatie van processen in de chemische industrie**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Toelichting: Zie bedrijfsmiddel F 1115 voor productieapparatuur voor bio-asfalt.
-
-Een investering in isolatie als onderdeel van een duurzaam gebouwproject dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel B 6218 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
-
-**F 6341**
-
-### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
-
-Zie rvo.nl/miavamil onder ‘Voorwaarden’ en vervolgens ‘aanvullende voorwaarden’ (onder het kopje Algemene voorwaarden) voor meer informatie over bedrijfsmiddelen met doelvoorschrift.
-
 Toelichting: Een voorbeeld van dit bedrijfsmiddel is elektrolyse van water voor de productie van waterstof en zuurstof. Ook de binding van waterstof met koolstofcomponenten (zoals CO2) tot een basischemicalie kan gemeld worden onder dit bedrijfsmiddel. CO2 wordt niet beschouwd als een fossiele grondstof.
 
 **F 4200**
@@ -3023,6 +2997,18 @@ Het bedrijfsmiddel komt voor ten hoogste € 1 per gereduceerde kilogram CO2-equ
 **NOx-emissiereducerende techniek**
 
 Het bedrijfsmiddel komt voor ten hoogste € 500.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+**A 6219**
+
+**Circulaire keuken met terugnamegarantie**
+
+**B 6343**
+
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
+
+Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld raffinage van biomassastromen. Ook het opwaarderen (stabiliseren) van pyrolyse-olie op basis van biomassa, om deze geschikt te maken voor het bijmengen in een petrochemische kraakinstallatie als vervanger van fossiele nafta, komt niet in aanmerking onder dit bedrijfsmiddel. De teelt van biomassa komt onder bedrijfsmiddel F 1101 niet in aanmerking.
 
 Toelichting: Zie bedrijfsmiddel A 4315 voor selectieve (katalytische) reductie-installaties (SCR of SNCR).
 
@@ -3045,5 +3031,23 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie rvo.nl/miavamil onder ‘Voorwaarden’ en vervolgens ‘Voorwaarden Bedrijfsmiddelen doelvoorschrift’ voor meer informatie hierover.
 
 Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+
+**F 4420**
+
+**Apparatuur voor vermindering van stofemissie tijdens niet-reguliere bedrijfsvoering**
+
+Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderhoud aan de (reinigings-)technieken en opstarten en stoppen van installaties of processen. Bedrijfsmiddelen die de stofemissie tijdens niet-reguliere bedrijfsvoering kunnen beperken zijn bijvoorbeeld twee parallel geschakelde stoffilters waarbij in geval van uitval van één van de twee filters toch sprake is van ontstoffing.
+
+**F 4600**
+
+**Apparatuur voor reductie van styreenemissie (aanpassen bestaande situatie)**
+
+Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie rvo.nl/miavamil onder ‘Voorwaarden’ en vervolgens ‘Voorwaarden Bedrijfsmiddelen doelvoorschrift’ voor meer informatie hierover.
+
+Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
