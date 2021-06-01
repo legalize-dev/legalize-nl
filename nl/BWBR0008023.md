@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-05-08"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2021-05-08&g=2021-05-08)
+## Bijlage. behorende bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2021-06-01&g=2021-06-01)
 
 | Registratienummer | Artikelnaam | Productgroep | Maximumprijs | Eenheid |
 | --- | --- | --- | --- | --- |
@@ -189,10 +189,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/07/405/021 | RASILEZ TABLET FILMOMHULD 150MG | ALISKIREN-150-MG-TABLET | 0,898398 | STUK |
 | EU/1/07/405/022 | RASILEZ TABLET FILMOMHULD 150MG | ALISKIREN-150-MG-TABLET | 0,898398 | STUK |
 | EU/1/07/405/023 | RASILEZ TABLET FILMOMHULD 150MG | ALISKIREN-150-MG-TABLET | 0,898398 | STUK |
-| EU/1/07/405/013 | RASILEZ TABLET FILMOMHULD 300MG | ALISKIREN-300-MG-TABLET | 1,079363 | STUK |
-| EU/1/07/405/031 | RASILEZ TABLET FILMOMHULD 300MG | ALISKIREN-300-MG-TABLET | 1,079363 | STUK |
-| EU/1/07/405/032 | RASILEZ TABLET FILMOMHULD 300MG | ALISKIREN-300-MG-TABLET | 1,079363 | STUK |
-| EU/1/07/405/033 | RASILEZ TABLET FILMOMHULD 300MG | ALISKIREN-300-MG-TABLET | 1,079363 | STUK |
 | 100957 | TOCTINO CAPSULE 10MG | ALITRETINOIN-10-MG-CAPSULE | 13,853162 | STUK |
 | 119812//100957 | TOCTINO CAPSULE 10MG | ALITRETINOIN-10-MG-CAPSULE | 13,853162 | STUK |
 | 125621//100957 | TOCTINO CAPSULE 10MG | ALITRETINOIN-10-MG-CAPSULE | 13,853162 | STUK |
