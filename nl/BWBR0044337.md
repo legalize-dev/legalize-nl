@@ -4,7 +4,7 @@ identifier: "BWBR0044337"
 country: "nl"
 rank: "wet"
 publication_date: "2022-03-15"
-last_updated: "2020-12-01"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044337"
 soort: "wet"
@@ -91,7 +91,7 @@ Wijzigt deze wet en de Wet publieke gezondheid.
 
 1. Met ingang van drie maanden na het tijdstip van inwerkingtreding van deze wet vervallen:
 
-- a. [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va), [paragraaf 1a van hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&paragraaf=1a) en de [artikelen 64a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=64a), [68bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68bis) en [68ka van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68ka);
+- a. [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va), [paragraaf 1a van hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&paragraaf=1a) en de [artikelen 64a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=64a), [68bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68bis), [68ka](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68ka) en [68kb van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68kb);
 
 - b. [artikel 28, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28);
 
@@ -105,7 +105,7 @@ Wijzigt deze wet en de Wet publieke gezondheid.
 
 4. De voordracht voor een koninklijk besluit als bedoeld in het tweede of derde lid, wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
-##### Artikel IX. Terugwijziging [artikel I, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=I&z=2020-12-01&g=2020-12-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=VI&z=2020-12-01&g=2020-12-01)
+##### Artikel IX. Terugwijziging [artikel I, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=I&z=2021-06-01&g=2021-06-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=VI&z=2021-06-01&g=2021-06-01)
 
 Wijzigt de Wet publieke gezondheid en de Wegenverkeerswet 1994.
 
