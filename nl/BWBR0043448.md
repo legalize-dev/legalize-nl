@@ -4,7 +4,7 @@ identifier: "BWBR0043448"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-06-01"
-last_updated: "2020-07-01"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043448"
 soort: "AMvB"
@@ -120,7 +120,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister stuurt maandelijks na een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) vanwege het bereiken van de leeftijd van achttien jaren in de kalendermaand voorafgaand aan de aanschrijving, indien van de betrokkene nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
+
+2. Onze Minister stuurt maandelijks na een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan elke ingezetene, bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), die in de kalendermaand voorafgaand aan de aanschrijving minimaal drie jaar maar niet meer dan drie jaar en een maand nieuw als ingezetene is ingeschreven dan wel opnieuw als ingezetene is geregistreerd in de basisregistratie personen, ten minste de leeftijd van negentien jaar heeft bereikt, en van wie nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
 
 ##### Artikel 4
 
@@ -166,11 +168,11 @@ Het [Besluit donorregister](https://wetten.overheid.nl/jci1.3:c:BWBR0009352) wor
 
 ##### Artikel 10
 
-Na inwerkingtreding van dit besluit berust het [Besluit aanwijzing personen en instanties die het donorregister kunnen inzien of raadplegen](https://wetten.overheid.nl/jci1.3:c:BWBR0023017), op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=6&z=2020-07-01&g=2020-07-01) van dit besluit.
+Na inwerkingtreding van dit besluit berust het [Besluit aanwijzing personen en instanties die het donorregister kunnen inzien of raadplegen](https://wetten.overheid.nl/jci1.3:c:BWBR0023017), op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=6&z=2021-06-01&g=2021-06-01) van dit besluit.
 
 ##### Artikel 11
 
-Onze Minister stuurt op een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) die in de periode die begint op de dag na inwerkingtreding van de [Wet van 27 maart 2018, houdende wijziging van de Wet op de orgaandonatie in verband met het opnemen van een actief donorregistratiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0040793) (Stb. 2018, 95) en eindigt op de dag voorafgaand aan de inwerkingtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=3&z=2020-07-01&g=2020-07-01) van dit besluit de leeftijd van achttien jaren heeft bereikt, nieuw als ingezetene is ingeschreven of opnieuw als ingezetene is geregistreerd in de basisregistratie personen, en van wie nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
+Onze Minister stuurt op een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) die in de periode die begint op de dag na inwerkingtreding van de [Wet van 27 maart 2018, houdende wijziging van de Wet op de orgaandonatie in verband met het opnemen van een actief donorregistratiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0040793) (Stb. 2018, 95) en eindigt op de dag voorafgaand aan de inwerkingtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=3&z=2021-06-01&g=2021-06-01) van dit besluit de leeftijd van achttien jaren heeft bereikt, nieuw als ingezetene is ingeschreven of opnieuw als ingezetene is geregistreerd in de basisregistratie personen, en van wie nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
 
 ##### Artikel 12
 
