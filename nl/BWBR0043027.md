@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-05-01"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-05-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-06-01).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-05-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-06-01).
 
 ##### Artikel 4. De bestuursraad
 
@@ -244,9 +244,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-05-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-06-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-05-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-06-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -400,7 +400,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-07-06&g=2021-05-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-07-06&g=2021-06-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -1316,9 +1316,9 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-05-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-06-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-05-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-06-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
@@ -1355,6 +1355,50 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 1. De directeur-generaal Douane is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9).
 
 2. De directeur-generaal Douane geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
+
+### Hoofdstuk 6. Directoraat-generaal fiscale zaken
+
+### Hoofdstuk 7. Directoraat-generaal rijksbegroting
+
+### Hoofdstuk 8. Generale thesaurie
+
+### Hoofdstuk 9. Verantwoording
+
+### Hoofdstuk 10. Overige bepalingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19a. Tijdelijke programmadirectie Informatie op Orde (IOO)
+
+1. De (tijdelijke) programmadirectie Informatie op Orde heeft de volgende taken:
+
+- a. het definiëren van verbetermaatregelen voor het op orde brengen van de informatiehuishouding en -voorziening voor het ministerie;
+
+- b. het opstellen van een verander- en communicatieplan om kennis, houding en gedrag onderdeel te laten zijn van het programma Informatie Op Orde;
+
+- c. het maken van een stakeholderanalyse en bekijken welke verbinding er gezocht moet worden op het vlak van informatiemanagement;
+
+- d. het maken van een actieplan voor het op orde brengen van de informatiehuishouding en -voorziening, waarbij de uitvoerende directoraten-generaal verantwoordelijk zijn voor het opstellen van de actieplannen en planningen voor de primaire processen, waarover zij rapporteren aan de programmadirectie;
+
+- e. het stellen van kaders voor informatiehuishouding en -voorziening en het inrichten van een pdca-cyclus hiervoor;
+
+- f. het creëren van een organisatie waarbij archivering, transparantie en het juist delen van informatie geen optie is, maar een gegeven;
+
+- g. het realiseren van een governance van de informatiehuishouding en -voorziening, waarbij de taken en verantwoordelijkheden binnen het ministerie verder zijn uitgewerkt;
+
+- h. het inrichten van een verplicht te gebruiken Document Management Systeem voor het ministerie.
+
+2. De (tijdelijke) programmadirectie is ingedeeld naar de Rijksbrede actielijnen zoals deze door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties zijn onderscheiden.
+
+#### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
+
+### Hoofdstuk 5. Directoraat-generaal belastingdienst
+
+### Hoofdstuk 5A. Directoraat-generaal toeslagen
+
+### Hoofdstuk 5B. Directoraat-generaal douane
 
 ### Hoofdstuk 6. Directoraat-generaal fiscale zaken
 
