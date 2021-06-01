@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-05-01"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -56,9 +56,19 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 
 | **Sector** | **Aanbieder** | **Essentiële dienst** |
 | --- | --- | --- |
-| **Energie:** **elektriciteit** | • De netbeheerder van het landelijk hoogspanningsnet, aangewezen op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), of [14 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) • De regionale netbeheerders, aangewezen op grond van [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=13), of [14 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) | Transmissie en distributie van elektriciteit |
-| **Energie: gas** | • De netbeheerder van het landelijk gastransportnet, aangewezen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) • De regionale netbeheerders, aangewezen krachtens [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
-| **Energie: gas** | De Nederlandse Aardolie Maatschappij B.V. | Het opsporen en winnen van gas op basis van de concessie voor de aardgaswinning uit het Groningenveld op grond van het koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 1963, 126) |
+| **Energie: elektriciteit** | De netbeheerder van het landelijk hoogspanningsnet, aangewezen op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), of [14 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) | Transmissie en distributie van elektriciteit |
+|   | De regionale netbeheerders, aangewezen op grond van [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=13), of [14 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) |   |
+|   | BritNed Development Ltd. | Transmissie van elektriciteit (landsgrensoverschrijdend) |
+|   | Een elektriciteitsbedrijf als bedoeld in Bijlage II van de NIB-richtlijn, dat één of meerdere productie-installaties als bedoeld in [artikel 1, eerste lid, onder ah, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), beheert met een cumulatief nominaal vermogen van ten minste 100 MegaWatt | Productie van elektriciteit |
+|   | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen elektriciteitsbedrijven, als bedoeld in Bijlage II van de NIB-richtlijn | Levering of aankoop van elektriciteit |
+| **Energie: gas** | De netbeheerder van het landelijk gastransportnet, aangewezen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
+| **Energie: gas** | De regionale netbeheerders, aangewezen krachtens [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
+| **Energie: gas** | De Nederlandse Aardolie Maatschappij B.V. | Het opsporen en winnen van gas op basis van de concessie voor de aardgaswinning uit het Groningenveld op grond van het koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 1963, 126) Het opslaan van gas op basis van de opslagvergunning «Norg» van 31 maart 2003 (Stcrt. 2003, 68) |
+| **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen leveringsbedrijven, als bedoeld in Bijlage II van de NIB-richtlijn | Levering van gas |
+| **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen opslagsysteembeheerders, als bedoeld in Bijlage II van de NIB-richtlijn | Opslag van gas |
+| **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen LNG-systeembeheerders, als bedoeld in Bijlage II van de NIB-richtlijn | Het vloeibaar maken van aardgas of de invoer, de verlading en de hervergassing van LNG |
+| **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aardgasbedrijven, als bedoeld in Bijlage II van de NIB-richtlijn | Productie of aankoop van aardgas, met inbegrip van LNG |
+| **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van voorzieningen voor de raffinage en behandeling van aardgas, als bedoeld in Bijlage II van de NIB-richtlijn | Raffinage of behandeling van aardgas |
 | **Energie: aardolie** | Stichting Centraal Orgaan Voorraadvorming Aardolieproducten | Het beheren van strategische olievoorraden |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van oliepijpleidingen, als bedoeld in Bijlage II van de NIB-richtlijn | Beheer van oliepijpleidingen |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van voorzieningen voor de productie, opslag, transport, raffinage en behandeling van olie, bedoeld in Bijlage II van de NIB-richtlijn | Productie, opslag, transport, raffinage, of behandeling van olie |
@@ -94,7 +104,7 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-05-01&g=2021-05-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2021-05-01&g=2021-05-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-06-01&g=2021-06-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2021-06-01&g=2021-06-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -128,7 +138,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
 
-## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-05-01&g=2021-05-01), van het Besluit beveiliging netwerk- en informatiesystemen
+## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-06-01&g=2021-06-01), van het Besluit beveiliging netwerk- en informatiesystemen
 
 ### Beveiliging aanbieders van een essentiële dienst
 
