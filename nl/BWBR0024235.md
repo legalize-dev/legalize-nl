@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2020-01-01"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt
 
 ##### Artikel 1:1
 
-Dit besluit geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
+Dit besluit geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:4), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
 
 ### Afdeling 1.1. Internationaal recht
 
@@ -268,7 +268,23 @@ De vergunninghouder aan wie een vergunning is verleend ingevolge de douanewetgev
 
 ##### Artikel 5:1
 
-Vervallen
+Als waardevolle goederen als bedoeld in [artikel 3:4, eerste lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:4) worden aangemerkt:
+
+- a. voer- en vaartuigen;
+
+- b. edele metalen;
+
+- c. edelstenen (bewerkt en onbewerkt);
+
+- d. sieraden;
+
+- e. horloges;
+
+- f. bijouterieën;
+
+- g. beleggings- en herdenkingsmunten;
+
+- h. kunstvoorwerpen en antiquiteiten.
 
 ### Hoofdstuk 6. Bestuurlijke boeten
 
@@ -278,11 +294,11 @@ Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2020-01-01&g=2020-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2021-06-03&g=2021-06-03) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2021-06-03&g=2021-06-03), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -292,11 +308,11 @@ Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2020-01-01&g=2020-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2021-06-03&g=2021-06-03) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2021-06-03&g=2021-06-03), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -312,7 +328,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2020-01-01&g=2020-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2020-01-01&g=2020-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2021-06-03&g=2021-06-03) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2021-06-03&g=2021-06-03) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -326,7 +342,7 @@ Vervallen
 
 ### Hoofdstuk 4. Administratie
 
-### Hoofdstuk 5. Vrije zones en vrije entrepots
+### Hoofdstuk 5. Verboden en beperkingen
 
 ### Hoofdstuk 6. Bestuurlijke boeten
 
