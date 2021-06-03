@@ -4,7 +4,7 @@ identifier: "BWBR0044364"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-03"
-last_updated: "2021-01-01"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044364"
 soort: "wet"
@@ -68,8 +68,6 @@ De in [artikel 1a, eerste lid, onderdeel d, van de Successiewet 1956](https://we
 
 Wijzigt de Algemene douanewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 De naleving en de controle daarop van het bepaalde bij of krachtens de [artikelen 3:4](onbekend) en [3:5 van de Algemene douanewet](onbekend) zullen uiterlijk in 2026 worden geëvalueerd en daarna om de vijf jaar. Hierbij wordt aangesloten bij de evaluatie, bedoeld in artikel 19 van Verordening (EU) 2018/1672 van het Europees Parlement en de Raad van 23 oktober 2018 betreffende de controle van liquide middelen die de Unie binnenkomen of verlaten en tot intrekking van [Verordening (EG) nr. 1889/2005](32005R1889) (PbEU 2018, L 284).
@@ -94,25 +92,25 @@ Wijzigt de Wet terugvordering staatssteun.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2021, met dien verstande dat:
 
-- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2010;
+- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 januari 2010;
 
-- b. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), en [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-01-01&g=2021-01-01), terugwerken tot en met 1 januari 2015;
+- b. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-06-03&g=2021-06-03), en [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=V&z=2021-06-03&g=2021-06-03), terugwerken tot en met 1 januari 2015;
 
-- c. [artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 juli 2016;
+- c. [artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 juli 2016;
 
-- d. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2018;
+- d. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 januari 2018;
 
-- e. [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2019;
+- e. [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=I&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 januari 2019;
 
-- f. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=III&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2020, met dien verstande dat dat onderdeel voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
+- f. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=III&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 januari 2020, met dien verstande dat dat onderdeel voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
 
-- g. [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2020.
+- g. [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=II&z=2021-06-03&g=2021-06-03), terugwerkt tot en met 1 januari 2020.
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=VII&z=2021-01-01&g=2021-01-01) in werking met ingang van 3 juni 2021;
+- a. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=VII&z=2021-06-03&g=2021-06-03) in werking met ingang van 3 juni 2021;
 
-- b. [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=IV&z=2021-01-01&g=2021-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+- b. [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044364&artikel=IV&z=2021-06-03&g=2021-06-03) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XIV
 
