@@ -4,7 +4,7 @@ identifier: "BWBR0044587"
 country: "nl"
 rank: "wet"
 publication_date: "2022-06-07"
-last_updated: "2021-01-01"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044587"
 soort: "wet"
@@ -51,27 +51,21 @@ Wijzigt de Auteurswet.
 
 Wijzigt de Wet op de naburige rechten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Databankenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van perspublicaties die vóór 6 juni 2019 zijn openbaar gemaakt, zijn de door deze wet te dien aanzien verleende rechten niet van toepassing.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044587&artikel=VII&z=2021-06-07&g=2021-06-07) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
 
 ##### Artikel VII
 
