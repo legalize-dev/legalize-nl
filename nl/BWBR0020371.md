@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2019-11-20"
+last_updated: "2021-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 1 bis, eerste lid, 1 ter, eerste lid, 2, eerste, tweede en derde lid, en 5 van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
+1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 2, eerste, tweede en derde lid, artikel 5 en artikel 8 ter, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede, derde, vierde of vijfde lid, artikel 1 ter, tweede, derde, vierde of vijfde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede, derde, vierde of vijfde lid, artikel 1 ter, tweede, derde, vierde of vijfde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
@@ -71,6 +71,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 4. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
 
 5. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 765/2006 is de Minister van Financiën.
+
+6. De bevoegde autoriteit, bedoeld in artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 is de Minister van Infrastructuur en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
