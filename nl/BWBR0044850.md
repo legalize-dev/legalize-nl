@@ -4,7 +4,7 @@ identifier: "BWBR0044850"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-27"
-last_updated: "2021-03-01"
+last_updated: "2021-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044850"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 Aan de voorzitter wordt mandaat verleend tot:
 
-- a. het nemen van besluiten als bedoeld in [hoofdstuk 3 van de Subsidieregeling bonus zorgprofessionals COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044090&hoofdstuk=3);
+- a. het nemen van besluiten als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044090&hoofdstuk=3) en [hoofdstuk 5 van de Subsidieregeling bonus zorgprofessionals COVID-19](onbekend);
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld onder a, voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen.
 
@@ -68,7 +68,7 @@ Aan de voorzitter wordt mandaat verleend tot:
 
 Aan de voorzitter wordt machtiging verleend:
 
-- a. tot het verrichten van feitelijke handelingen en rechtshandelingen in verband met de uitvoering van [hoofdstuk 3 van de Subsidieregeling bonus zorgprofessionals COVID 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044090&hoofdstuk=3);
+- a. tot het verrichten van feitelijke handelingen en rechtshandelingen in verband met de uitvoering van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044090&hoofdstuk=3) en [hoofdstuk 5 van de Subsidieregeling bonus zorgprofessionals COVID-19](onbekend);
 
 - b. ten aanzien van verweer- en beroepschriften in administratiefrechtelijke procedures, ten behoeve van het vertegenwoordigen van de minister in deze procedures en tot het afdoen van alle stukken en het verrichten van alle feitelijke handelingen die daarop betrekking hebben.
 
