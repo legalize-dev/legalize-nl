@@ -4,7 +4,7 @@ identifier: "BWBR0045239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2020-07-07"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045239"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ De commissie stelt op een met de Belastingdienst/Toeslagen nader te bepalen mome
 
 2. Deze regeling vervalt met ingang van 1 juli 2024.
 
-3. Onze Minister kan de datum, genoemd in het tweede lid, eenmalig bij ministeriële regeling wijzigen in een ten hoogste twee jaar na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien geen werkzaamheden als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2021-06-17&g=2020-07-07), meer te verrichten zijn en ook niet meer te verwachten zijn.
+3. Onze Minister kan de datum, genoemd in het tweede lid, eenmalig bij ministeriële regeling wijzigen in een ten hoogste twee jaar na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien geen werkzaamheden als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2021-06-17&g=2021-06-17), meer te verrichten zijn en ook niet meer te verwachten zijn.
 
 ##### Artikel 11. Citeertitel
 
