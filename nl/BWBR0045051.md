@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-05-18"
+last_updated: "2021-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in de bijlage;
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-06-19&g=2021-06-19);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in de bijlage;
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-06-19&g=2021-06-19);
 
 - c. Noord-Brabant; en
 
@@ -110,7 +110,7 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-05-18&g=2021-05-18), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-05-18&g=2021-05-18), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-05-18&g=2021-05-18) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-05-18&g=2021-05-18) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-06-19&g=2021-06-19), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-06-19&g=2021-06-19), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-19&g=2021-06-19), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-06-19&g=2021-06-19) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-06-19&g=2021-06-19) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
@@ -119,6 +119,8 @@ De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&p
 1. Een exploitant van commercieel gehouden vogels of een exploitant van risicovogels neemt passende maatregelen om zo veel mogelijk te voorkomen dat de vogels in contact komt met in het wild levende dieren of hun uitwerpselen.
 
 2. Een passende maatregel als bedoeld in het eerste lid is voor een exploitant van commercieel gehouden vogels, met uitzondering van vogels, behorende tot de fazanten (Phasianidae) of de loopvogels, ten minste het binnen een gebouw brengen en daar houden van de vogels.
+
+3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van vogels die zich bevinden in een van de compartimenten, beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=2&z=2021-06-19&g=2021-06-19).
 
 ##### Artikel 3.5. Verbod wedstrijden en tentoonstellingen met vogels
 
@@ -168,7 +170,7 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
+In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-19&g=2021-06-19) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
 
 - a. risicovogels aanwezig zijn of gewoonlijk worden gehouden in een overkapte doorloopvolière; en
 
@@ -176,7 +178,7 @@ In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&h
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-05-18&g=2021-05-18) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-19&g=2021-06-19) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -364,14 +366,82 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-05-18&g=2021-05-18)
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-06-19&g=2021-06-19)
 
-Gebieden als bedoeld in artikel 2.2, tweede lid
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-06-19&g=2021-06-19)
 
 ### 1. Leefgebied Wild zwijn Veluwe
 
 Het leefgebied is in donkergroen aangeduid.
 
 ### 2. Leefgebied De Meinweg, Leefgebied Meerlebroek
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-06-19&g=2021-06-19)
+
+Gebieden waar de ophok- en afschermplicht niet geldt
+
+- 1. Vanaf de kruising van de rivier IJssel en het Zwolle-IJssel Kanaal, het Zwolle-IJssel Kanaal volgend in noordelijke richting tot aan de rivier het Zwarte Water.
+
+- 2. De rivier het Zwarte Water volgend in noordelijke richting tot aan de rivier OverijsselseVecht.
+
+- 3. De rivier de Overijsselse Vecht volgend in oostelijke richting overgaand in de Vecht tot aan de Landgrens van Nederland met Duitsland.
+
+- 4. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot aan de A1(De Lutte)
+
+- 5. De A1 volgend in oostelijke richting tot aan de Kruising A1 met de rivier de IJssel bij Deventer (vlakbij de afslag 23 Deventer)
+
+- 6. De rivier de IJssel volgend in noordelijke richting tot aan de kruising de rivier de IJssel en het Zwolle-IJssel Kanaal.
+
+- 1. Vanaf de Kruising van de A1 met de rivier de IJssel (Deventer), de A1 volgend in oostelijke richting overgaand in de A35/A1 (Knooppunt Azelo) overgaand in de A1 (Knooppunt Buren) tot aan de grens met Duitsland ter hoogte van de plaats De Lutte.
+
+- 2. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting overgaand in westelijke richting tot aan de rivier de Rijn (ter hoogte van de plaats Spijk).
+
+- 3. De rivier de Rijn volgend in westelijke richting, overgaand in het Bijlands Kanaal, overgaand in het Pannerdens Kanaal overgaand in de rivier de Nederrijn, overgaand in de rivier de IJssel tot aan de kruising van de rivier de IJssel met de A1 (Deventer)
+
+- 1. Vanaf de kruising van de Sluisweg (Waalwijk) en de rivier de Bergsche Maas, de rivier de Bergsche Maas volgend in oostelijke richting overgaand in de Maas tot aan de A2 (ter hoogte van Knooppunt Empel).
+
+- 2. De A2 volgend in zuidelijke richting tot aan de rivier de Zuid-Willemsvaart (Afslag 21 Veghel van de A2).
+
+- 3. De rivier de Zuid-Willemsvaart volgend in oostzuidelijke richting tot aan de A67 (Afslag 35 Someren van de A67).
+
+- 4. De A67 volgend in westelijke richting tot aan de Landgrens van Nederland met België.
+
+- 5. De Landgrens van Nederland met België volgend in westelijke richting tot aan de Poppelseweg (N283).
+
+- 6. De Poppelseweg (N283) volgend in noordelijke richting overgaand in de Turnhoutsebaan (N283) overgaand in de Blaakweg (N283) overgaand in de Ringbaan West (Tilburg) overgaand in de Midden Brabantweg, overgaand in de A261, overgaand in de Midden Brabantweg (N261) overgaand in de Biesbosweg (Waalwijk) tot aan de Sluisweg.
+
+- 7. De Sluisweg volgend in noordelijke richting tot aan de brug over de rivier de Bergsche Maas.
+
+- 1. Vanaf de kruising van de A2 met de rivier de Maas ter hoogte van Den Bosch, de rivier de Maas volgend oostelijke richting tot aan de Mookerplas.
+
+- 2. De Mookerplas volgend in oostelijke richting tot aan de Witteweg.
+
+- 3. De Witteweg volgend in noordoostelijke richting tot aan de N271.
+
+- 4. De N271 volgend in zuidoostelijke richting tot aan Zwarteweg (N843).
+
+- 5. De Zwarteweg (N843) volgend in noordelijke richting tot aan de Landgrens van Nederland met Duitsland.
+
+- 6. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot aan de A67 (ter hoogte van de plaats Herungerberg).
+
+- 7. De A67 volgend in westelijke richting tot aan de kruising van de A67 met de rivier de Zuid-Willemsvaart (Afslag 35 Someren van de A67).
+
+- 8. De rivier de Zuid-Willemsvaart volgend in westnoordelijke richting tot aan de A2 (Afslag 21 Veghel van de A2)
+
+- 9. De A2 volgend in noordelijke richting tot aan de kruising van de A2 met de rivier de Maas.
+
+- 1. Vanaf de kruising van de Landgrens van Nederland met België en de rivier de Maas, de rivier de Maas volgend in noordoostelijke richting tot de kruising van de rivier de Maas met de N280, Knooppunt Haelen.
+
+- 2. De N280 volgend in oostelijke richting tot aan de Sint Wirosingel (Roermond).
+
+- 3. De Sint Wirosingel (Roermond) volgend in zuidelijke richting tot aan de N68.
+
+- 4. De N68 volgend oostelijke richting tot aan de landgrens Nederland en Duitsland (Bij de plaats Asenray).
+
+- 5. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot de Landgrens van Nederland met België bij de plaats Vaals, Drielandenpunt.
+
+- 6. Vanaf het drielandenpunt bij Vaals de Landgrens van Nederland met België volgend in westelijke richting tot aan de rivier de Maas.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
