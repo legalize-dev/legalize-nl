@@ -4,7 +4,7 @@ identifier: "BWBR0044863"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-04-01"
+last_updated: "2021-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044863"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 - –. **dezelfde onderneming:**
 
-- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2021-04-01&g=2021-04-01) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
+- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2021-06-19&g=2021-06-19) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
 
 - 2°. het geheel van terreinen of percelen voor de teelt van consumptieaardappelen dat de ondernemer op Nederlands grondgebied beheert en voor eigen rekening en risico exploiteert;
 
@@ -200,13 +200,13 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. De minister wijst op kaarten met topografische achtergrond de gebieden aan waar besmet of vermoedelijk besmet oppervlaktewater voorkomt.
 
-3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-04-01&g=2021-04-01).
+3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-06-19&g=2021-06-19).
 
 ##### Artikel 9
 
 1. Het is verboden om oppervlaktewater op enigerlei wijze te gebruiken voor of bij de teelt van pootaardappelen.
 
-2. Het verbod, bedoeld in het eerste lid, is in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-04-01&g=2021-04-01) bedoelde gebieden eveneens van toepassing voor of bij de teelt van:
+2. Het verbod, bedoeld in het eerste lid, is in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-06-19&g=2021-06-19) bedoelde gebieden eveneens van toepassing voor of bij de teelt van:
 
 - a. aardappelen anders dan pootaardappelen;
 
@@ -220,7 +220,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - f. postelein (**Postulaca oleracea** L.).
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-04-01&g=2021-04-01) bedoelde gebieden.
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2021-06-19&g=2021-06-19) bedoelde gebieden.
 
 4. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige afwateringssloot.
 
@@ -230,7 +230,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. Het bepaalde in het eerste lid is niet van toepassing indien de partij waartoe de aardappelen behoren, vergezeld gaat van een door de minister afgegeven verklaring dat de partij vrij is bevonden van de bacterie **Ralstonia solanacearum** (Smith) Yabuuchi et al., alsmede van de bacterie **Clavibacter sepedonicus** (Spieckermann et Kotthoff) Davis et al.
 
-3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-04-01&g=2021-04-01).
+3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-06-19&g=2021-06-19).
 
 ##### Artikel 11
 
@@ -252,9 +252,9 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 ##### Artikel 13
 
-1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-04-01&g=2021-04-01) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
+1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-06-19&g=2021-06-19) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
 
-- a. **Cotoneaster salicifolius floccosus**, **Cotoneaster salicifolius** en **Cotoneaster watereri** en de daartoe behorende cultivars en van het geslacht **Photinia davidiana** (Stranvaesia Hort.);
+- a. **Cotoneaster floccosus**, **Cotoneaster salicifolius** en **Cotoneaster watereri** en de daartoe behorende cultivars en van het geslacht **Photinia davidiana** (Stranvaesia Hort.);
 
 - b. **Crataegus calycina**, **Crataegus laevigata** en **Crataegus monogyna** met uitzondering van de daartoe behorende cultivars.
 
@@ -262,11 +262,11 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - a. voor zover de bedoelde handelingen plaatsvinden in het kader van de bedrijfsmatige teelt van boomkwekerijgewassen;
 
-- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-04-01&g=2021-04-01) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
+- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-06-19&g=2021-06-19) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
 
 ##### Artikel 14
 
-De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-04-01&g=2021-04-01) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
+De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2021-06-19&g=2021-06-19) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
 
 #### § 3.3. Wratziekte
 
@@ -300,13 +300,13 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 18
 
-1. Op een terrein of perceel, in een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2021-04-01&g=2021-04-01) onder A aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2021-04-01&g=2021-04-01) onder B.
+1. Op een terrein of perceel, in een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2021-06-19&g=2021-06-19) onder A aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2021-06-19&g=2021-06-19) onder B.
 
-2. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2021-04-01&g=2021-04-01) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2021-04-01&g=2021-04-01) onder C1. Voor de teelt van pootaardappelen is het telen van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2021-04-01&g=2021-04-01) onder C2 vermelde rassen toegestaan.
+2. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2021-06-19&g=2021-06-19) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2021-06-19&g=2021-06-19) onder C1. Voor de teelt van pootaardappelen is het telen van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2021-06-19&g=2021-06-19) onder C2 vermelde rassen toegestaan.
 
-3. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2021-04-01&g=2021-04-01) onder B aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2021-04-01&g=2021-04-01) onder C1.
+3. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2021-06-19&g=2021-06-19) onder B aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2021-06-19&g=2021-06-19) onder C1.
 
-4. Op een terrein of perceel, in een in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2021-04-01&g=2021-04-01) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5b&z=2021-04-01&g=2021-04-01) onder B.
+4. Op een terrein of perceel, in een in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2021-06-19&g=2021-06-19) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5b&z=2021-06-19&g=2021-06-19) onder B.
 
 #### § 3.4. Phytophthora infestans
 
@@ -434,39 +434,39 @@ In deze paragraaf wordt verstaan onder:
 
 - –. **aardappelcysteaaltje:** **Globodera pallida** (Stone) Behrens (Europese populaties) of **Globodera rostochiensis** (Wollenweber) Behrens (Europese populaties);
 
-- –. **onderzoeksverklaring AM:** de verklaring, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2021-04-01&g=2021-04-01), waaruit blijkt dat het perceel vrij is van of wordt geacht te zijn van besmetting met het aardappelcysteaaltje.
+- –. **onderzoeksverklaring AM:** de verklaring, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2021-06-19&g=2021-06-19), waaruit blijkt dat het perceel vrij is van of wordt geacht te zijn van besmetting met het aardappelcysteaaltje.
 
-- –. **perceel:** ononderbroken grondoppervlak, waarvan de locatie en de grootte op basis van de uitkomsten van onderzoek naar de aanwezigheid van het aardappelcysteaaltje door de minister worden vastgesteld, overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=6&z=2021-04-01&g=2021-04-01);
+- –. **perceel:** ononderbroken grondoppervlak, waarvan de locatie en de grootte op basis van de uitkomsten van onderzoek naar de aanwezigheid van het aardappelcysteaaltje door de minister worden vastgesteld, overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=6&z=2021-06-19&g=2021-06-19);
 
 - –. **richtlijn 2007/33/EG:** [Richtlijn 2007/33/EG](32007L0033) van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van [Richtlijn 69/465/EEG](31969L0465) (PbEU L 156).
 
 ##### Artikel 35
 
-1. Het is verboden de planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01) te telen of te bewaren op grond waarvoor de gebruiksgerechtigde niet in het bezit is van een door de minister, na een officieel onderzoek overeenkomstig [richtlijn 2007/33/EG](32007L0033), afgegeven verklaring, waaruit blijkt dat het perceel vrij is of wordt geacht te zijn van besmetting met het aardappelcysteaaltje.
+1. Het is verboden de planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19) te telen of te bewaren op grond waarvoor de gebruiksgerechtigde niet in het bezit is van een door de minister, na een officieel onderzoek overeenkomstig [richtlijn 2007/33/EG](32007L0033), afgegeven verklaring, waaruit blijkt dat het perceel vrij is of wordt geacht te zijn van besmetting met het aardappelcysteaaltje.
 
 2. Het eerste lid is niet van toepassing in de volgende gevallen:
 
-- a. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01), onderdeel 1, teelt, voor zover:
+- a. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19), onderdeel 1, teelt, voor zover:
 
 - 1°. de geoogste pootaardappelen en de daaruit in volgende seizoenen vermeerderde pootaardappelen niet in de handel worden gebracht en uiteindelijk worden gepoot voor de teelt van consumptie- of zetmeelaardappelen, en
 
 - 2°. de geoogste pootaardappelen en de daaruit in volgende seizoenen vermeerderde pootaardappelen worden gepoot binnen het bedrijf van de teler;
 
-- b. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01), onderdelen 2, 3 en 4, teelt, voor zover:
+- b. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19), onderdelen 2, 3 en 4, teelt, voor zover:
 
 - 1°. de geoogste planten en de daaruit in volgende seizoenen vermeerderde planten niet in de handel worden gebracht en uiteindelijk worden geplant voor de teelt van sierteeltproducten of consumptieve producten, en
 
 - 2°. de geoogste planten en de daaruit in volgende seizoenen vermeerderde planten worden geplant binnen het bedrijf van de teler;
 
-- c. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01), onderdelen 3 en 4, teelt, voor zover de geoogste planten voordat ze in de handel worden gebracht, dusdanig worden gespoeld of geborsteld dat de aanhangende grond is verwijderd;
+- c. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19), onderdelen 3 en 4, teelt, voor zover de geoogste planten voordat ze in de handel worden gebracht, dusdanig worden gespoeld of geborsteld dat de aanhangende grond is verwijderd;
 
-- d. de situatie waarin een teler op een perceel ten aanzien waarvan een beslissing op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) is genomen, planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01), onderdelen 3 en 4, teelt, voor zover:
+- d. de situatie waarin een teler op een perceel ten aanzien waarvan een beslissing op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) is genomen, planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19), onderdelen 3 en 4, teelt, voor zover:
 
 - 1°. de fytosanitaire maatregel op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) dit toestaat, en
 
 - 2°. de geoogste planten voordat ze in de handel worden gebracht, dusdanig worden gespoeld of geborsteld dat de aanhangende grond is verwijderd;
 
-- e. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-04-01&g=2021-04-01), onderdeel 4, teelt, voor zover de geoogste planten, bestemd zijn voor de verkoop aan particuliere eindgebruikers die niet betrokken zijn bij de bedrijfsmatige planten- en snijbloementeelt en deze bestemming op de verpakking van de planten staat aangegeven.
+- e. de situatie waarin een teler op een terrein planten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=7&z=2021-06-19&g=2021-06-19), onderdeel 4, teelt, voor zover de geoogste planten, bestemd zijn voor de verkoop aan particuliere eindgebruikers die niet betrokken zijn bij de bedrijfsmatige planten- en snijbloementeelt en deze bestemming op de verpakking van de planten staat aangegeven.
 
 3. De verklaring bedoeld in het eerste lid kan onder beperkende voorwaarden worden verleend en te allen tijde worden ingetrokken.
 
@@ -480,15 +480,15 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 37
 
-Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2021-04-01&g=2021-04-01) aangewezen gebied.
+Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2021-06-19&g=2021-06-19) aangewezen gebied.
 
 ##### Artikel 38
 
 1. Aardappelen worden niet geteeld op een terrein of perceel, waarop in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
-2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een terrein of perceel dat is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2021-04-01&g=2021-04-01) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
+2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een terrein of perceel dat is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2021-06-19&g=2021-06-19) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
 
-3. In afwijking van het tweede lid, worden in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2021-04-01&g=2021-04-01) genoemde gebied geen goedgekeurde pootaardappelen geteeld, indien op dat terrein of perceel in dat gebied in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
+3. In afwijking van het tweede lid, worden in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2021-06-19&g=2021-06-19) genoemde gebied geen goedgekeurde pootaardappelen geteeld, indien op dat terrein of perceel in dat gebied in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
 ##### Artikel 39
 
@@ -498,7 +498,7 @@ Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gel
 
 - b. waarop de laatste twaalf jaar geen aardappelen of andere, in bijlage I, punt 1, van [richtlijn 2007/33/EG](32007L0033) vermelde planten, zijn geteeld; of
 
-- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2021-04-01&g=2021-04-01) aangewezen gebied.
+- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2021-06-19&g=2021-06-19) aangewezen gebied.
 
 2. Gedurende twaalf maanden nadat de boomkwekerijgewassen en vaste planten op het terrein of perceel zijn geoogst moet aantoonbaar zijn, dat is voldaan aan de eisen gesteld in het eerste lid.
 
@@ -512,9 +512,9 @@ Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gel
 
 - a. worden gebruikt ten behoeve van de teelt van zetmeelaardappelen en zijn voorzien van een schriftelijke verklaring van Stichting TBM;
 
-- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2021-04-01&g=2021-04-01) genoemde aardappelrassen, en
+- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2021-06-19&g=2021-06-19) genoemde aardappelrassen, en
 
-- c. afkomstig zijn van en geteeld worden op een terrein of perceel dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2021-04-01&g=2021-04-01) aangewezen gebied.
+- c. afkomstig zijn van en geteeld worden op een terrein of perceel dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2021-06-19&g=2021-06-19) aangewezen gebied.
 
 3. Het eerste lid is niet van toepassing indien binnen dezelfde onderneming in het voorgaande jaar geen goedgekeurde pootaardappelen zijn geteeld en het pootaardappelen voor eigen gebruik betreft die:
 
@@ -528,11 +528,11 @@ Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gel
 
 4. Het certificaat of de schriftelijke verklaring voor de pootaardappelen wordt bewaard tot de maand mei, volgend op het jaar waarin de pootaardappelen voor de teelt van aardappelen zijn gebruikt.
 
-#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2021-04-01&g=2021-04-01)
+#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2021-06-19&g=2021-06-19)
 
 ##### Artikel 41
 
-1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2021-04-01&g=2021-04-01) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
+1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2021-06-19&g=2021-06-19) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
 
 2. Aan een vrijstelling of ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
@@ -540,17 +540,17 @@ Aardappelen worden niet geteeld in de volle grond op een terrein of perceel, gel
 
 ##### Artikel 42
 
-1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 5, eerste lid, 9, derde lid, 14, eerste, derde, vierde, vijfde, zesde en zevende lid, 15, eerste lid, artikel 30, eerste lid, tweede alinea, 32, tweede lid, 33, eerste lid, 37, eerste lid, 40, eerste lid, 41, eerste lid, 42, tweede lid, 43, eerste lid, 47, eerste lid, 53, eerste lid, 54, eerste lid, 55, 57, 59, 61, eerste lid, 62, 63, derde lid, 64, eerste lid, 66, eerste en vijfde lid, 69, eerste, tweede, derde, vierde en zesde lid, 70, 74, eerste lid, 79, eerste lid, 80, eerste lid, 83, vijfde lid, 84, eerste lid, 87, eerste lid, 88, 90, 93, vijfde lid, 95, eerste, derde en vierde lid, 96, eerste lid, en 97, eerste lid, van [verordening 2016/2031](32031R2016) en de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid en 69, eerste lid, van [verordening 2017/625](32525R2017) zijn overtredingen.
+1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 5, eerste lid, 9, derde lid, 14, eerste, derde, vierde, vijfde, zesde en zevende lid, 15, eerste lid, 15, derde lid, 28, artikel 30, eerste lid, tweede alinea, 32, tweede lid, 33, eerste lid, 33, tweede lid, 37, eerste lid, 40, eerste lid, 41, eerste lid, 42, tweede lid, 43, eerste lid, 47, eerste lid, 49, 53, eerste lid, 54, eerste lid, 55, 57, 59, 61, eerste lid, 62, 63, tweede lid, 64, eerste lid, 66, eerste en vijfde lid, 69, eerste, tweede, derde, vierde en zesde lid, 70, 74, eerste lid, 79, eerste lid, 80, eerste lid, 83, vijfde lid, 84, eerste lid, 84, derde lid, 87, eerste lid, 88, 90, 93, tweede lid, 93, vijfde lid, 95, eerste, derde en vierde lid, 96, eerste lid, en 97, eerste lid, 102, vierde lid van [verordening 2016/2031](32031R2016) en de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid en 69, eerste lid, van [verordening 2017/625](32525R2017) zijn overtredingen.
 
-2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=13), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24), en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=25), en de voorschriften genoemd in het eerste lid, kunnen worden gestraft met een hechtenis van ten hoogste zes maanden of een geldboete van de vierde categorie.
+2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=9), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=13), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24), en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=25), en de voorschriften genoemd in het eerste lid, kunnen worden gestraft met een hechtenis van ten hoogste zes maanden of een geldboete van de vierde categorie.
 
 ##### Artikel 43. Bestuurlijke boete
 
-1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-04-01&g=2021-04-01) voor desbetreffende overtredingen zijn vastgelegd.
+1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-06-19&g=2021-06-19) voor desbetreffende overtredingen zijn vastgelegd.
 
-2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-04-01&g=2021-04-01) voor de desbetreffende overtreding is vastgelegd.
+2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-06-19&g=2021-06-19) voor de desbetreffende overtreding is vastgelegd.
 
-3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-04-01&g=2021-04-01) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
+3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2021-06-19&g=2021-06-19) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -574,23 +574,15 @@ De volgende regelingen en het volgende besluit worden ingetrokken:
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 
-## Bijlage 1. Bruin- en ringrotgebieden
+## Bijlage 1. verbodsgebieden gebruik oppervlaktewater
 
-[Artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2021-04-01&g=2021-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2021-04-01&g=2021-04-01)
+[Artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2021-06-19&g=2021-06-19) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2021-06-19&g=2021-06-19)
 
-Deze bijlage is ook te vinden op de website van de NVWA:
+## Bijlage 2. Bacterievuur
 
-https://ez.maps.arcgis.com/apps/webappviewer/index.html?id=5d315a29b17747faa6a6fdd1e1a59cea
+[Artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2021-06-19&g=2021-06-19) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2021-06-19&g=2021-06-19)
 
-of
-
-https://www.nvwa.nl/onderwerpen/plantenziekten-en-plagen/bruinrot/verbodsgebieden-gebruik-oppervlaktewater
-
-## Bijlage 2. Kaarten bacterievuur
-
-[Artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2021-04-01&g=2021-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2021-04-01&g=2021-04-01)
-
-## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01), worden aangewezen
+## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19), worden aangewezen
 
 - 1. Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam’) Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (I), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).
 
@@ -604,26 +596,26 @@ https://www.nvwa.nl/onderwerpen/plantenziekten-en-plagen/bruinrot/verbodsgebiede
 
 - 6. Het gebied ten noorden en westen van Borger, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Borger’) Lunsveenweg (A), Drouwenerstraat (B), Achterstekampweg (D), Bronnegerstraat (E), Bomenrij Bronnegerstraat-Westerlandsweg (F), Westerlandsweg (G), Marslandenweg (H), Bocht Marslandenweg, bebouwde kom Oost-Borger (I), Buinerstraat (J), Kruizing IJzertijdstraat-Schoonloërstraat, groenstrook richting Rolderstraat (K), Tochtsloot westelijk van Meerslagenweg (L), einde tochtsloot, bosrand richting Meerslagenweg (M) en bosrand richting Lunsveenweg (N).
 
-## Bijlage 3b. Toegelaten zetmeelaardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01)
+## Bijlage 3b. toegelaten zetmeelaardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19)
 
-| (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) |
+| 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 10 |   | 9 |   | 8 | 7 | 6 |
-| Avamond | Kuba | Achilles | Scala | Actaro | Aurora | Alanis |
-| Avarna | Megusta | Adelinde | Serum Star | Altus | Merenco | Allure |
-| Avenger | Monte Carlo | Allstar | Signum | Axion | Sofista | Annabelle |
-| Belita | Novano | Althea | Smaragd | Festien |   | Avito |
-| Cardyma | Otolia | Amarock | Supporter | Lindita |   | Starga |
-| Cekin | Plasettie | Avatar | Toronto | Simphony |   |   |
-| Constantina | Saprodi | Aventra | Vebeca | Speculos |   |   |
-| Dartiest | Sarion | BMC | Vebesta |   |   |   |
-| Django | Seresta | Plasent |   |   |   |   |
-| Eurotonda | Stefanie | Plasinka |   |   |   |   |
-| Euroviva | Transit | Plasstärke |   |   |   |   |
-| Gandawa | Triton | Plasuno |   |   |   |   |
-| Gunda | Vermont | Plasure |   |   |   |   |
+| Avamond | Megusta | Achilles | Plasure | Actaro | Aurora | Alanis |
+| Avarna | Monte Carlo | Adelinde | Scala | Altus | Merenco | Allure |
+| Avenger | Novano | Allstar | Serum Star | Axion | Sofista | Annabelle |
+| Belita | Otolia | Althea | Signum | Festien |   | Avito |
+| Cardyma | Plasettie | Amarock | Smaragd | Lindita |   | Starga |
+| Cekin | Saprodi | Avatar | Supporter | Simphony |   |   |
+| Constantina | Sarion | Aventra | Toronto | Speculos |   |   |
+| Dartiest | Seresta | BMC | Vebeca |   |   |   |
+| Django | Stefanie | Luneba | Vebesta |   |   |   |
+| Eurotonda | Transit | Plasent |   |   |   |   |
+| Euroviva | Triton | Plasinka |   |   |   |   |
+| Gandawa | Vermont | Plasstärke |   |   |   |   |
+| Kuba |   | Plasuno |   |   |   |   |
 
-## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01), worden aangewezen
+## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19), worden aangewezen
 
 De gehele provincie Drenthe en de volgende gemeenten of delen van gemeenten:
 
@@ -633,7 +625,7 @@ In de provincie Friesland: Ooststellingwerf voor zover gelegen ten noorden van d
 
 In de provincie Overijssel: Hardenberg, Twenterand, Hellendoorn, Ommen en Steenwijkerland voor zover gelegen ten oosten van autosnelweg A32 en Eesveenseweg (N855), ten zuiden van het Dolderkanaal en kanaal Steenwijk-Ossenzijl, ten westen van de Ossenzijlersloot, ten noorden en ten oosten van de Punterweg (vanaf Kuinderweg), Hammerdijk, Kerkbuurt, Blokzijlerdijk en Kuinderdijk, en ten zuiden en ten oosten van de Kanaalweg.
 
-## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01), worden aangewezen
+## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19), worden aangewezen
 
 De gemeenten in de provincie Overijssel voorzover niet gelegen in gebied A.
 
@@ -643,50 +635,51 @@ In de provincie Friesland de gemeenten Ooststellingwerf voorzover niet gelegen i
 
 In de provincie Groningen: de gemeenten Slochteren, Menterwolde, Oldambt voor zover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg, ten zuiden van de Hoofdweg en Goldhoorn, ten westen van de Noorderstraat te Oostwold, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-West te Nieuwolda, ten zuiden van de Hoofdweg 't Waar, ten zuiden van de Rechte Walsterweg en Bellingwedde, alle voor zover niet gelegen in gebieden onder A.
 
-## Bijlage 4 c1. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01)
+## Bijlage 4 c1. toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19)
 
 | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) |
 | --- | --- | --- | --- | --- | --- |
 | 10 |   | 9 | 8 | 7 | 6 |
-| Actaro | Serum Star | Achilles | Allure | Annabelle | Agria |
-| Adelinde | Signum | Altus | Ardeche | Astarte | Alanis |
-| Allstar | Simphony | Amorosa | Aveka | Asterix | Amora |
-| Althea | Stefanie | Aurora | Chenoa | Baraka | Amyla |
-| Amanda | Stemster | Avarna | Constantina | Benno Vrizo | Arizona |
-| Amarock | Talent | Avito | Dayana | Burren | Bintje |
-| Avamond | Transit | BMC | Dinky | Donald | Diamant |
-| Avatar | Triton | Cardyma | Dirigent | Fresco | Eigenheimer |
-| Avenger | Vebeca | Cleopatra | Euronova | Nomade | Euroflora |
-| Aventra | Vermont | Désirée | Eurotonda | Origo | Gloria |
-| Axion | Vitabella | Eurotango | Fontane | Parel | Raja |
-| Belita |   | Euroviva | King Russet | Plasuno | Rumba |
-| Bonza |   | Festien | Kondor | Sylvana |   |
-| Cekin |   | Gaya | Leandra |   |   |
-| Celandine |   | Hansa | Lindita |   |   |
-| Dartiest |   | Irene | Nicola |   |   |
-| Django |   | Kuroda | Poseidon |   |   |
-| Evolution |   | Lugano | Royal |   |   |
-| Fabiola |   | Melody | Rudolph |   |   |
-| Gandawa |   | Merenco | Sarion |   |   |
-| Gunda |   | Meryem | Saturna |   |   |
-| Kuba |   | Monte Carlo | Sprinter |   |   |
-| Logo |   | Plasandes | Stratos |   |   |
-| Megusta |   | Plasent | Supporter |   |   |
-| Novano |   | Plasstärke | Vebesta |   |   |
+| Actaro | Simphony | Achilles | Allure | Annabelle | Agria |
+| Adelinde | Stefanie | Altus | Ardeche | Astarte | Alanis |
+| Allstar | Stemster | Amorosa | Aveka | Asterix | Amora |
+| Althea | Talent | Aurora | Chenoa | Baraka | Amyla |
+| Amanda | Transit | Avarna | Constantina | Benno Vrizo | Arizona |
+| Amarock | Triton | Avito | Dayana | Burren | Austin |
+| Avamond | Vebeca | BMC | Dirigent | Donald | Bintje |
+| Avatar | Vermont | Cardyma | Euronova | Fresco | Diamant |
+| Avenger | Vitabella | Cleopatra | Eurotonda | Nomade | Eigenheimer |
+| Aventra |   | Désirée | Fontane | Origo | Euroflora |
+| Axion |   | Eurotango | King Russet | Parel | Gloria |
+| Belita |   | Euroviva | Kondor | Plasuno | Raja |
+| Bonza |   | Festien | Leandra | Sylvana | Rumba |
+| Cekin |   | Gaya | Lindita |   |   |
+| Dartiest |   | Hansa | Nicola |   |   |
+| Django |   | Irene | Poseidon |   |   |
+| Evolution |   | Kuroda | Royal |   |   |
+| Fabiola |   | Lugano | Rudolph |   |   |
+| Gandawa |   | Melody | Sarion |   |   |
+| Kuba |   | Merenco | Saturna |   |   |
+| Logo |   | Meryem | Sprinter |   |   |
+| Luneba |   | Monte Carlo | Stratos |   |   |
+| Megusta |   | Plasandes | Supporter |   |   |
+| Novano |   | Plasent | Vebesta |   |   |
+| Orienta |   | Plasstärke |   |   |   |
 | Otolia |   | Romano |   |   |   |
 | Plasettie |   | Sassy |   |   |   |
-| Plasinka |   | Smaragd |   |   |   |
-| Plasure |   | Sofista |   |   |   |
-| Saprodi |   | Speculos |   |   |   |
-| Scala |   | Starga |   |   |   |
-| Scarlet |   | Taurus |   |   |   |
-| Seresta |   | Toronto |   |   |   |
+| Plasinka |   | Sensation |   |   |   |
+| Plasure |   | Smaragd |   |   |   |
+| Saprodi |   | Sofista |   |   |   |
+| Scala |   | Speculos |   |   |   |
+| Scarlet |   | Starga |   |   |   |
+| Seresta |   | Taurus |   |   |   |
+| Serum Star |   | Toronto |   |   |   |
+| Signum |   |   |   |   |   |
 
-## Bijlage 4 c2. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01)
+## Bijlage 4 c2. toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19)
 
 | 5 |
 | --- |
-| Dolly |
 | Elkana |
 | Kartel |
 | Kuras |
@@ -698,117 +691,115 @@ In de provincie Groningen: de gemeenten Slochteren, Menterwolde, Oldambt voor zo
 | Sirco |
 | Victoria |
 
-## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01), worden aangewezen
+## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19), worden aangewezen
 
 - 1. Omschrijving gebied Venraij: Het gebied omsloten door de A67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de Zuid Willemsvaart. De Zuid Willemsvaart in noordelijke richting tot de kruising met de N265 in Veghel. De N265 in noordelijke richting tot Uden. De N603 in noordelijke richting tot de A50 in Heesch (gemeente Bernheze). De A50 in noordelijke richting tot de kruising met de Maas. De Maas in oostelijke richting tot de kruising met de spoorbrug in Mook (gemeente Mook en Middelaar). Vanaf de spoorbrug de N271 in zuidelijke richting tot de Schildersweg in Plasmolen (gemeente Mook en Middelaar). De Schildersweg in noordelijke richting tot de Bosweg langs Sint Jansberg. De Bosweg langs Sint Jansberg tot aan de grens met Duitsland. De grens met Duitsland in zuidelijke richting tot aan de A67 in Venlo.
 
 - 2. Omschrijving gebied Bergeijk: Het gebied rondom Bergeijk, dat door België en de volgende straten is begrensd: Postelsedijk, Sleutelstraat, Weijereind, Kleine Hoeven, Ambachtsweg, De Hoeven/Rondweg (N284) bij Bladel, Lange Trekken, Molenweg/De Vloed, De Gagelvelden, Hemelrijken, Dorpsstraat in Casteren, Casterseweg, Hoofdstraat in Hoogeloon, Heuvelseweg, Heuvel, Broekenseind, Umenweg, D’ekkersrijte, Eerselseweg, Het Groen bij Knegsel, Steenselseweg, Knegselseweg, Riethovenseweg/Stevert, Nedermolen, fietspad/veldweg in zuidelijke richting en uitlopend op De Kuningen, Broekhovenseweg, Schoolstraat en Molenstraat bij Riethoven, Keersopperdreef, Dommelsedijk (N397), Monseigneur Smetstraat, Pastoor Bolsiusstraat, Venbergseweg, Luikerweg (N69), (Oude) Dorpsstraat bij Hoek, Borkel en Schaft, en De Schafterekker.
 
-## Bijlage 5b. Toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-04-01&g=2021-04-01)
+## Bijlage 5b. toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19)
 
-| (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) | (10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar) |   |
-| --- | --- | --- | --- | --- | --- | --- |
 | 10 |   |   |   |   |   |   |
-| 7 four 7 | Avanti | Cascada | Essenza | Ikarus | Linzer Delikatess | Nandina |
-| Abby | Avarna | Cayenne | Estrella | Impala | Lisana | Nicola |
-| Accent | Aveka | Cekin | Euroflora | Inara | Logo | Nixe |
-| Achilles | Avenance | Celine | Eurogrande | Innovator | Loreley | Noblesse |
-| Acoustic | Avenger | Cerata kws | Euroking | Inspyra | Lubeca | Nomade |
-| Actaro | Avenue | Cereza | Euroluna | Irene | Lucera | Nordlicht |
-| Adretta | Axenia | Challenger | Euronova | Isabel | Lucilla | Novano |
-| Afra | Axion | Christel | Europrima | Isabelia | Lucinda | Obama |
-| Agata | Babylon | Classic Russet | Euroresa | Jaerla | Ludmilla | Omega |
-| Albatros | Bafana | Claustar | Eurostar | Jazzy | Lugano | Orchestra |
-| Alberta | Barcelona | Climax | Eurostarch | Jelly | Macarena | Origo |
-| Aldo | Bartina | Colette | Eurotango | Joly | Madeleine | Otolia |
-| Alexia | Basin Russet | Colomba | Eurotina | Jule | Madrid | Oxania |
-| Alicante | Bavatop | Connect | Eurotonda | Kardal | Magistral | Pallas |
-| Allure | Belita | Constantina | Euroviva | Karelia | Manitou | Palma |
-| Almera | Bellanita | Corazon | Evelin | Karlena | Manna | Panamera |
-| Almonda | Bellarosa | Corsica | Excellency | Kartel | Maranca | Panther |
-| Alouette | Bellefleur | Crisps4all | Exklusiv | Kiebitz | Marfona | Papageno |
-| Alpha | Bellinda | Cronos | Exquisa | King Russet | Margarita | Paradiso |
-| Althea | Bellini | Cubus | Fabula | Kiwi | Marion | Parel |
-| Altus | Belmonda | Cyrano | Fado | Kondor | Mariska | Parcoli |
-| Alverstone Russet | Benno Vrizo | Damaris | Fambo | Koopmans blauwe | Marisol | Pee Wee Russet |
-| Amanda | Bernadette | Danique | Fasan | Kormoran | Marylou | Peela |
-| Amarin | Bernina | Danuta | Fasty | Krometa | Masai | Penni |
-| Ambra | Bettina | Dartiest | Festo | Kuba | Mascha | Penta |
-| Amora | Betty | Delia Red | Fianna | Kuras | Maxilla | Performer |
-| Anivia | Bildtstar | Désirée | Fidelia | Kuroda | Meera | Perline |
-| Annabelle | Bimonda | Destiny | Figaro | Labadia | Meerlander | Picasso |
-| Annegret | Binella | Diamant | Finessa | Labella | Megusta | Picobello |
-| Anosta | Biogold | Dido | Flamenco | Lady Amarilla | Meister | Picus |
-| Anouk | Bionica | Dirosso | Folva | Lady Anna | Melody | Pimpernel |
-| Apollonia | Blanka | Disco | Fresco | Lady Blanca | Memphis | Plasettie |
-| Appassionato | Blazer Russet | Ditta | Frieslander | Lady Britta | Merlot | Plasinka |
-| Aprilia | Bleuet | Django | Furia | Lady Christl | Meryem | Plasure |
-| Arcade | BMC | Donald | Gala | Lady Claire | Messi | Pocahontas |
-| Arizona | Bondi | Donata | Gandawa | Lady Jane | Metro | Prada |
-| Arkula | Bonnata kws | Dorado | Gaudi | Lady Lenora | Mia | Première |
-| Armin | Bonus | Doré | Gaya | Lady Olympia | Michelle | Premium |
-| Arnika | Bonza | Double Fun | Gazelle | Lady Sara | Miranda | Prestige |
-| Aromata | Bordeaux | Draga | Gerona | Lady Terra | Monalisa | Primabelle |
-| Arosa | Brianna | Edison | Gioconda | Lady Valora | Mondeo | Primavera |
-| Arrow | Bricata kws | El Mundo | Gloria | Lanorma | Mondial | Primura |
-| Arsenal | Bullit | Elaia | Godzilla | Laperla | Mont Blanc | Prince of Orange |
-| Artemis | Caesar | Elata kws | Granada | Lavinia | Monte Carlo | Printaline |
-| Astarte | Canberra | Eldena | Gunda | Leandra | Montis | Prior |
-| Asterix | Caprice | Elkana | Hanna | Lekkerlander | Montreal | Producent |
-| Athlete | Captiva | Elvira | Hermes | Lenz | Mozart | Puccini |
-| Augusta | Cardinia | Emanuelle | Hermosa | Leonata kws | Mulberry Beauty | Quarta |
-| Aurora | Cardyma | Emiliana | Heros | Levinata kws | Mungo | Queen Anne |
-| Aurum | Carlita | Eos | Honorata | Leyla | Musica | Raja |
-| Austin | Carminelle | Escada | Ibiza | Lindita | Mustagata kws | Ramona |
-| Avamond | Carolus | Esmee | Idole | Linus | Nafida | Ranomi |
-
-| **vervolg 10** |   |   | **9** | **8** | **7** | **6** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Red Beauty | Satellite | Sundance | Actrice | Abbot | Berber | Fontane |
-| Red Fantasy | Satina | Sunred | Adato | Alcander | Derby |   |
-| Red Lady | Saturna | Supporter | Adelinde | Amorosa | Plasstärke |   |
-| Red Scarlett | Sava | Sylvana | Agria | Amyla |   |   |
-| Red Sonia | Sayada | Talent | Allstar | Ardeche |   |   |
-| Red Sun | Scala | Talentine | Amaez | Arielle |   |   |
-| Red Valentine | Scarlet | Tarzan | Amarock | Auriera |   |   |
-| Regina | Secura | Texla | Argana | Chateau |   |   |
-| Resonant | Selma | Tiger | Avatar | Cleopatra |   |   |
-| Ribera | Senna | Titanium | Avito | Dinky |   |   |
-| Ricarda | Sereno | Toccata | Baby Rose | Efera |   |   |
-| Rikea | Seresta | Torenia | Bedalin | Endeavour |   |   |
-| Riviera | Serum Star | Toronto | Blue Star | Evolution |   |   |
-| Rivola | SH C 1001 | Transit | Catania | Festien |   |   |
-| Robinta | SH C 1010 | Tresor | Coronada | Fontera |   |   |
-| Rock | SH C 909 | Triple7 | Daisy | Grenadine |   |   |
-| Rode Pipo | SH C 913 | Triplo | Darling | Hansa |   |   |
-| Rodeo | Siena | Triton | Dolly | Ivory Russet |   |   |
-| Rodriga | Sifra | Twinner | Felsina | Miss Blush |   |   |
-| Roko | Signum | Tyson | Glorietta | Miss Mignonne |   |   |
-| Romano | Simphony | Valetta | Heraclea | Royata kws |   |   |
-| Romeo | Simply Red | Varuna | Inova | Soprano |   |   |
-| Romina | Sirco | Vebeca | Janke | Twister |   |   |
-| Rosagold | Sissi | Vebesta | Jennifer | Ulty |   |   |
-| Rosanna | Skawa | Velox | La Vie | Vasko |   |   |
-| Rosara | Smaragd | Ventana | Lady Jo | Vitabella |   |   |
-| Rosemara | Solara | Verdi | Lady Rosetta | Zorba |   |   |
-| Rosi | Sommergold | Vermont | Laudine |   |   |   |
-| Roslin | Sophie | Victoria | Madeira |   |   |   |
-| Rossini | Soraya | Vineta | Madison |   |   |   |
-| Royal | Sorentina | Violet Queen | Melanto |   |   |   |
-| Rudolph | Spartaan | Virginia | Merenco |   |   |   |
-| Rumba | Spectra | Vitalia | Muse |   |   |   |
-| Sagitta | Speculos | Volumia | Octa |   |   |   |
-| Salinero | Spere | VR 808 | Plasuno |   |   |   |
-| Salsa | Spot | Wega | Ramos |   |   |   |
-| Sanibel | Sprinter | Wendy | Red Tinta |   |   |   |
-| Santana | Spunta | Whitney | Sababa |   |   |   |
-| Santé | Stabilo | Wilja | Vogue |   |   |   |
-| Santera | Starne | Zarina |   |   |   |   |
-| Saphia | Stayer | Zuzanna |   |   |   |   |
-| Saphire | Stefanie |   |   |   |   |   |
-| Saprodi | Stemster |   |   |   |   |   |
-| Sarion | Stiletto |   |   |   |   |   |
-| Sassy | Stratos |   |   |   |   |   |
+| 7 four 7 | Avenance | Cereza | Euroresa | Jule | Macarena | Orienta |
+| Abby | Avenger | Challenger | Eurostar | Kardal | Madeleine | Origo |
+| Accent | Avenue | Christel | Eurostarch | Karelia | Madrid | Otolia |
+| Achilles | Axenia | Classic Russet | Eurotango | Karlena | Magistral | Oxania |
+| Acoustic | Axion | Climax | Eurotina | Kartel | Manitou | Panamera |
+| Actaro | Babylon | Colette | Eurotonda | Kiebitz | Maranca | Panther |
+| Adretta | Bafana | Colomba | Euroviva | King Russet | Marfona | Papageno |
+| Afra | Barcelona | Connect | Excellency | Kiwi | Margarita | Paradiso |
+| Agata | Bartina | Constantina | Exklusiv | Kondor | Marion | Parel |
+| Albatros | Basin Russet | Corazon | Exquisa | Koopmans blauwe | Mariska | Parcoli |
+| Alberta | Bavatop | Corsica | Fabula | Kormoran | Marisol | Pee Wee Russet |
+| Aldo | Belita | Cronos | Fado | Krometa | Marjan | Peela |
+| Alexia | Bellanita | Cubus | Fambo | Kuba | Marylou | Penni |
+| Alicante | Bellarosa | Damaris | Fasan | Kuras | Masai | Penta |
+| Allure | Bellefleur | Danique | Fasty | Kuroda | Mascha | Performer |
+| Almera | Bellinda | Danuta | Festo | Labadia | Maxilla | Perline |
+| Almonda | Bellini | Dartiest | Fianna | Labella | Meera | Picasso |
+| Alouette | Belmonda | Delia Red | Fidelia | Lady Amarilla | Meerlander | Picobello |
+| Althea | Benno Vrizo | Désirée | Figaro | Lady Anna | Megusta | Picus |
+| Altus | Bernadette | Destiny | Finessa | Lady Blanca | Meister | Pimpernel |
+| Alverstone Russet | Bernina | Diamant | Flamenco | Lady Britta | Melody | Plasettie |
+| Amanda | Bettina | Dido | Folva | Lady Christl | Memphis | Plasinka |
+| Amarin | Betty | Dirosso | Fresco | Lady Claire | Merlot | Plasure |
+| Ambra | Bildtstar | Disco | Frieslander | Lady Jane | Meryem | Pocahontas |
+| Amora | Bimonda | Ditta | Gala | Lady Lenora | Messi | Prada |
+| Annabelle | Binella | Django | Gandawa | Lady Olympia | Metro | Première |
+| Annegret | Biogold | Donald | Gaudi | Lady Sara | Mia | Premium |
+| Anosta | Blazer Russet | Donata | Gaya | Lady Terra | Michelle | Prestige |
+| Anouk | Bleuet | Dorado | Gazelle | Lady Valora | Miranda | Primabelle |
+| Apollonia | BMC | Doré | Gerona | Lanorma | Monalisa | Primavera |
+| Appassionato | Bondi | Double Fun | Gloria | Laperla | Mondeo | Primura |
+| Aprilia | Bonnata kws | Draga | Godzilla | Lavinia | Mondial | Prince of Orange |
+| Arcade | Bonus | Edison | Granada | Leandra | Mont Blanc | Printaline |
+| Arizona | Bonza | El Mundo | Gunda | Lekkerlander | Monte Carlo | Prior |
+| Armin | Bordeaux | Elaia | Hanna | Lenz | Montis | Producent |
+| Arnika | Brianna | Elata kws | Hermes | Leonata kws | Montreal | Puccini |
+| Aromata | Bricata kws | Eldena | Hermosa | Levinata kws | Mozart | Quarta |
+| Arosa | Bullit | Elkana | Heros | Leyla | Mulberry Beauty | Queen Anne |
+| Arrow | Caesar | Elvira | Hind | Lindita | Mungo | Raja |
+| Arsenal | Canberra | Emanuelle | Honorata | Linus | Musica | Ramona |
+| Artemis | Caprice | Emiliana | Ibiza | Linzer Delikatess | Mustagata kws | Ranomi |
+| Astarte | Captiva | Escada | Idole | Lisana | Nafida | Red Beauty |
+| Asterix | Cardinia | Esmee | Ikarus | Logo | Nandina | Red Fantasy |
+| Athlete | Cardyma | Essenza | Impala | Liselotte | Nicola | Red Lady |
+| Augusta | Carlita | Estrella | Inara | Loreley | Nixe | Red Scarlett |
+| Aurora | Carolus | Eurodelta | Innovator | Lubeca | Noblesse | Red Sonia |
+| Aurum | Cascada | Euroflora | Inspyra | Lucera | Nomade | Red Sun |
+| Austin | Catimini | Eurogrande | Irene | Lucilla | Nordlicht | Red Valentine |
+| Avamond | Cayenne | Euroking | Isabelia | Lucinda | Novano | Regina |
+| Avanti | Cekin | Euroluna | Jaerla | Ludmilla | Obama | Resonant |
+| Avarna | Celine | Euronova | Jazzy | Lugano | Omega | Ribera |
+| Aveka | Cerata kws | Europrima | Jelly | Luneba | Orchestra | Ricarda |
+|   |   |   |   |   |   |   |
+| vervolg 10 |   |   | 9 | 8 | 7 | 6 |
+| Rikea | Serum Star | Triple7 | Actrice | Abbot | Berber | Fontane |
+| Riviera | SH C 1001 | Triplo | Adato | Amorosa | Plasstärke |   |
+| Rivola | SH C 1010 | Triton | Adelinde | Amyla |   |   |
+| Rock | SH C 909 | Twinner | Agria | Ardeche |   |   |
+| Rodeo | SH C 913 | Tyson | Allstar | Arielle |   |   |
+| Rodriga | Shepherd | Valetta | Amaez | Auriera |   |   |
+| Roko | Siena | Varuna | Amarock | Chateau |   |   |
+| Romano | Sifra | Vebeca | Argana | Cleopatra |   |   |
+| Romeo | Signum | Vebesta | Avatar | Efera |   |   |
+| Romina | Simphony | Velox | Avito | Endeavour |   |   |
+| Rosagold | Simply Red | Ventana | Baby Rose | Evolution |   |   |
+| Rosanna | Sirco | Verdi | Bedalin | Festien |   |   |
+| Rosara | Sissi | Vermont | Blue Star | Fontera |   |   |
+| Rosemara | Skawa | Victoria | Camelia | Grenadine |   |   |
+| Rosi | Smaragd | Vineta | Catania | Hansa |   |   |
+| Roslin | Sophie | Violet Queen | Coronada | Ivory Russet |   |   |
+| Rossini | Soraya | Virginia | Daisy | Miss Blush |   |   |
+| Royal | Sorentina | Vitalia | Darling | Miss Mignonne |   |   |
+| Rudolph | Spartaan | VR 808 | Felsina | Royata kws |   |   |
+| Rumba | Spectra | Wega | Glorietta | Soprano |   |   |
+| Sagitta | Speculos | Wendy | Heraclea | Twister |   |   |
+| Salinero | Spere | Whitney | Inova | Ulty |   |   |
+| Salsa | Spot | Wilja | Janke | Vasko |   |   |
+| Salvador | Sprinter | Zuzanna | La Vie | Vitabella |   |   |
+| Sanibel | Spunta |   | Lady Jo | Zorba |   |   |
+| Santana | Stabilo |   | Lady Rosetta |   |   |   |
+| Santé | Starne |   | Laudine |   |   |   |
+| Santera | Stayer |   | Madeira |   |   |   |
+| Saphia | Stefanie |   | Madison |   |   |   |
+| Saphire | Stemster |   | Melanto |   |   |   |
+| Saprodi | Stiletto |   | Merenco |   |   |   |
+| Sarion | Stratos |   | Muse |   |   |   |
+| Sassy | Sunred |   | Octa |   |   |   |
+| Satellite | Supporter |   | Plasuno |   |   |   |
+| Satina | Sylvana |   | Ramos |   |   |   |
+| Saturna | Talent |   | Ravel |   |   |   |
+| Sava | Tarzan |   | Red Tinta |   |   |   |
+| Sayada | Texla |   | Sababa |   |   |   |
+| Scala | Tiger |   | Vogue |   |   |   |
+| Scarlet | Titanium |   |   |   |   |   |
+| Secura | Toccata |   |   |   |   |   |
+| Selma | Torenia |   |   |   |   |   |
+| Sensation | Toronto |   |   |   |   |   |
+| Sereno | Transit |   |   |   |   |   |
+| Seresta | Tresor |   |   |   |   |   |
 
 ## Bijlage 6. Vaststellen perceel AM
 
@@ -816,7 +807,7 @@ In de provincie Groningen: de gemeenten Slochteren, Menterwolde, Oldambt voor zo
 
 ## Bijlage 7. Verboden planten
 
-[Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2021-04-01&g=2021-04-01)
+[Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2021-06-19&g=2021-06-19)
 
 **Onderdeel 1:**
 
@@ -872,7 +863,7 @@ voor zover ze zijn bestemd voor opplant.
 
 ## Bijlage 8. Aangewezen gebied
 
-[Artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2021-04-01&g=2021-04-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-04-01&g=2021-04-01)
+[Artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2021-06-19&g=2021-06-19), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-06-19&g=2021-06-19)
 
 - 1. het gebied gelegen in de gemeenten Waddinxveen, Boskoop, Rijnwoude en Reeuwijk, dat als volgt is begrensd: vanaf hefbrug Waddinxveen en achtereenvolgens Nesse, Noordkade, gemeentegrens Waddinxveen-Boskoop tot de Hogeveenseweg, de Hogeveenseweg, Roemer, de dijk aan de zuidwestzijde aan de Ambachtspolder tot aan de Voorweg, de Voorweg in westelijke richting tot aan het gemaal, vandaar langs de sloot in noordelijke richting tot molen Rietveldsevaart, de Rietveldsevaart in westelijke richting tot de Oostvaart, de Oostvaart in noordelijke richting tot de Spookverlaat, Spookverlaat tot de Compierekade, Compierekade in zuidelijke richting tot de Spijkerboorsche wetering, Spijkerboorsche wetering tot de Nesse, Nesse in oostelijke richting, Toegangseweg, de gemeentegrens Alphen a/d Rijn-Boskoop in oostelijke richting tot de Dammekade, Dammekade gemeentegrens Boskoop-Bodegraven tot de Ringdijk, daarna de Ringdijk volgend eerst in oostelijke-daarna in zuidelijke- en tot slot in zuidwestelijke richting tot de Schinkeldijk, Schinkeldijk in noordwestelijke richting, Tempeldijk, Middelweg, Middelburgseweg in zuidelijke richting, Zwarteweg, Bloemendaalseweg tot de A12, A12 in zuidwestelijke richting tot de Henegouwerweg, Henegouwerweg in noordelijke richting tot de hefbrug in Waddinxveen;
 
@@ -916,7 +907,7 @@ voor zover ze zijn bestemd voor opplant.
 
 - 5. het gebied in de gemeente Zundert, omsloten door: de sloot gelegen haaks op de Rijksgrens bij grenspaal 221 (in het verlengde van de Luxemburgstraat in de Belgische gemeente Meer, nabij Hazeldonk), het kavelpad tussen deze sloot en de bocht in de Laarse Heistraat, een denkbeeldige lijn tussen de bocht in de Laarse Heistraat en de hoek van de Bakkebrugstraat – Breedschotsestraat, Bakkebrugstraat, Bredaseweg, Stuivezandseweg, Klein Zundertseweg, Heischoorstraat, Sprundelsebaan, Bijloop, Rucphenseweg, Hulsdonkstraat, Roosendaalse Baan, Achtmaalseweg, Moststraat, Grote Heistraat, Oude Heistraat, Kalmthoutse Baan, de Rijksgrens tot aan grenspaal 221.
 
-## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2021-04-01&g=2021-04-01), worden aangewezen
+## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2021-06-19&g=2021-06-19), worden aangewezen
 
 - 1. De gehele provincie **Drenthe**en de volgende gemeenten of delen van gemeenten: In de provincie **Groningen**: Bellingwedde, Groningen voor zover gelegen ten zuiden van het Eemskanaal, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Menterwolde, Pekela, Reiderland voor zover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg en ten zuiden van de Hoofdweg en Goldhoorn te Finsterwolde, Scheemda voor zover gelegen ten zuiden van de Goldhoorn te Oostwold en ten westen van de Noorderstraat, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-West te Nieuwolda, ten zuiden van de Hoofdweg 't Waar, ten zuiden van de Rechte Walsterweg, Slochteren, Stadskanaal, Veendam, Vlagtwedde en Winschoten. In de provincie **Friesland**: Ooststellingwerf voor zover gelegen ten noorden van de Verwersweg (vanaf provinciegrens) tot de Zuid, ten oosten van de wegen Zuid en Hoofdweg tot Kloosterweg, ten zuiden van de wegen Kloosterweg, Terwisscha, Westeres en Bruggelaan tot de Compagnonsvaart, ten oosten van de wegen Zuideinde (door Fochteloo), Noordeinde, de Knolle tot kruising met de Weper, en ten zuiden van de wegen Weper en Weperpolder (tot provinciegrens). In de provincie **Overijssel**: Hardenberg, Twenterand, Hellendoorn, Ommen en Steenwijkerland voor zover gelegen ten noorden en ten oosten van de Punterweg (vanaf Kuinderweg), Hammerdijk, Kerkbuurt, Blokzijlerdijk en Kuinderdijk, en ten zuiden en ten oosten van de Kanaalweg;
 
@@ -952,24 +943,7 @@ voor zover ze zijn bestemd voor opplant.
 
 - c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit.
 
-## Bijlage 10. Aardappelrassen
-
-[Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-04-01&g=2021-04-01)
-
-De volgende zetmeelaardappelrassen mogen onder het TBM-regime vermeerderd worden:
-
-| Achilles | Aveka | Euroflora | Plasandes | Sarion * | Sofista * |
-| --- | --- | --- | --- | --- | --- |
-| Actaro * | Aventra * | Euronova | Plasent * | Sassy | Sprinter |
-| Allure * | Avito * | Eurotango | Plasettie * | Scarlet | Starga * |
-| Altus * | Axion * | Euroviva * | Plasinka * | Seresta * | Stratos |
-| Amyla | Belita * | Festien * | Plasstärke * | Serum Star * | Supporter * |
-| Ardeche | Benno Vrizo | Kuba * | Plasuno * | Signum * | Vebeca * |
-| Aurora * | BMC * | Merenco * | Plasure * | Simphony * | Vebesta * |
-| Avarna * | Dartiest * | Nomade | Saprodi * | Smaragd * | Vermont * |
-| Avatar * | Dirigent | Novano * |   |   |   |
-
-Let op: In de wratziektekerngebieden in de omgeving van Barger Compascuüm, Foxel, Mantinge, Borger, Ter Apel en Veendam (zie https://www.nvwa.nl/onderwerpen/teeltvoorschriften-akkerbouw-en-tuinbouw/inhoud/teeltvoorschrift-wratziekte) mogen alleen rassen worden geteeld die ook voldoende resistent zijn tegen fysio 18. Deze rassen zijn aangeduid met een *.
+## Bijlage 10. aardappelrassen
 
 ## Bijlage 11. Aangewezen zetmeelaardappeltelend gebied
 
@@ -1056,5 +1030,99 @@ In de provincie **Friesland**: Ooststellingwerf, Weststellingwerf en Opsterland.
 | [Artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-04-01&g=2021-04-01) | 3 |
 | [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-04-01&g=2021-04-01) | 3 |
 | [Artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-04-01&g=2021-04-01) | 3 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### [Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-06-19&g=2021-06-19)
+
+De volgende zetmeelaardappelrassen mogen onder het TBM-regime vermeerderd worden:
+
+Let op: In de wratziektekerngebieden in de omgeving van Barger-Compascuum, Borger, Foxel, Mantinge, Ter Apel en Veendam mogen alleen rassen worden geteeld die ook voldoende resistent zijn tegen fysio 18. Deze rassen zijn aangeduid met een *.
+
+## Bijlage 11. Aangewezen zetmeelaardappeltelend gebied
+
+[Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-06-19&g=2021-06-19)
+
+**Omschrijving:**
+
+Het gebied, gelegen in de provincie **Drenthe**, de provincie **Overijssel**, de provincie **Gelderland** ten noorden van de Nederrijn en de volgende gemeenten of gedeelten daarvan:
+
+In de provincie **Groningen**: Bellingwedde, Groningen voor zover gelegen ten zuiden van het Eemskanaal, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Menterwolde, Pekela, Reiderland voor zover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg en ten zuiden van de Hoofdweg en Goldhoorn te Finsterwolde, Scheemda voor zover gelegen ten zuiden van de Goldhoorn te Oostwold en ten westen van de Noorderstraat, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-West te Nieuwolda, ten zuiden van de Hoofdweg 't Waar, ten zuiden van de Rechte Walsterweg, Slochteren, Stadskanaal, Veendam, Vlagtwedde en Winschoten.
+
+In de provincie **Friesland**: Ooststellingwerf, Weststellingwerf en Opsterland.
+
+## Bijlage 12. Boetecategorieën
+
+[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=4&artikel=43&z=2021-06-19&g=2021-06-19)
+
+|   | Categorie eerste beboeting |
+| --- | --- |
+| **Plantgezondheidswet** |   |
+| [Artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) | 3 |
+| [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15) | 3 |
+| [Artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24) | 3 |
+|   |   |
+| **verordening 2016/2031** |   |
+| Artikel 9, derde lid | 2 |
+| Artikel 14, eerste lid | 2 |
+| Artikel 14, vierde lid | 3 |
+| Artikel 14, vijfde lid | 3 |
+| Artikel 14, zesde lid | 2 |
+| Artikel 14, zevende lid | 3 |
+| Artikel 15, derde lid | 1 |
+| Artikel 41, eerste lid | 1 |
+| Artikel 43, eerste lid | 2 |
+| Artikel 47, eerste lid | 2 |
+| Artikel 69, eerste lid | 2 |
+| Artikel 69, tweede lid | 2 |
+| Artikel 69, derde lid | 2 |
+| Artikel 69, vierde lid | 2 |
+| Artikel 69, zesde lid | 1 |
+| Artikel 70, eerste lid | 2 |
+| Artikel 79, eerste lid | 2 |
+| Artikel 83, vijfde lid | 2 |
+| Artikel 84, eerste lid | 2 |
+| Artikel 95, eerste lid | 2 |
+| Artikel 95, derde lid | 2 |
+| Artikel 95, vierde lid | 2 |
+| Artikel 96, eerste lid | 3 |
+| Artikel 97, eerste lid | 2 |
+|   |   |
+| **verordening 2017/625** |   |
+| Artikel 56, vierde lid | 2 |
+| Artikel 57, eerste lid | 2 |
+|   |   |
+| **Regeling plantgezondheid ex artikel 20, tweede lid, Plantgezondheidswet** |   |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=25&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=27&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2021-06-19&g=2021-06-19) | 2 |
+| [Artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-06-19&g=2021-06-19) | 3 |
+| [Artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2021-06-19&g=2021-06-19) | 3 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
