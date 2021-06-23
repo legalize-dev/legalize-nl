@@ -4,7 +4,7 @@ identifier: "BWBR0030610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2021-01-01"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030610"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is;
 
-- –. **inspecteur:** de Algemeen Directeur Belastingdienst/Douane;
+- –. **inspecteur:** de directeur-generaal Douane;
 
 - –. **Joint Force Command Brunssum:** het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
 
@@ -138,7 +138,7 @@ Geen melding is vereist voor:
 
 - a. de doorvoer van militaire goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van Nederland;
 
-- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2016-05-01&g=2021-01-01);
+- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2021-06-23&g=2021-06-23);
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
