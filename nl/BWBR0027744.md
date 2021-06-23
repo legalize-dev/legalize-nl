@@ -4,7 +4,7 @@ identifier: "BWBR0027744"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-23"
-last_updated: "2010-01-01"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027744"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als hoofd van het begeleidingsteam als bedoeld in [artikel 12 van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=12) wordt aangewezen de Algemeen directeur Douane als bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4).
+Als hoofd van het begeleidingsteam als bedoeld in [artikel 12 van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=12) wordt aangewezen de directeur-generaal Douane als bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4).
 
 ##### Artikel 2
 
