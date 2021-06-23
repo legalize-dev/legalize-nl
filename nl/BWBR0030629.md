@@ -4,7 +4,7 @@ identifier: "BWBR0030629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2016-12-01"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030629"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **individuele vergunning:** een vergunning die wordt verleend aan een dienstverlener voor het verlenen van bepaalde diensten aan één afnemer in een land dat geen deel uitmaakt van de Europese Unie;
 
-- –. **inspecteur:** de Algemeen Directeur Douane;
+- –. **inspecteur:** de directeur-generaal Douane;
 
 - –. **Joint Force Command Brunssum:** het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (**Trb.** 1964, 131);
 
