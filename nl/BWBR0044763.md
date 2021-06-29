@@ -4,7 +4,7 @@ identifier: "BWBR0044763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-04-01"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044763"
 soort: "ministeriele-regeling"
@@ -62,9 +62,19 @@ In deze regeling wordt verstaan onder:
 
 - c. een incidenteel kansspel, waarbij de prijzen en premies gezamenlijk een grotere waarde hebben dan € 500.000, bedraagt € 24.000;
 
-- d. een niet-incidenteel kansspel, bedraagt € 48.000.
+- d. een niet-incidenteel kansspel, bedraagt € 28.000.
 
-2. De vergoeding die is verschuldigd voor de behandeling van de aanvraag tot verlening van een vergunning als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b) of [27h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h) bedraagt € 48.000.
+2. De vergoeding die is verschuldigd voor de behandeling van de aanvraag tot verlening van een vergunning als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b) of [27h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h) bedraagt € 28.000.
+
+3. De vergoeding die is verschuldigd voor de behandeling van de aanvraag tot verlening van een vergunning als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16) en [24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24) bedraagt € 32.000.
+
+4. De vergoeding die is verschuldigd voor de behandeling van een aanvraag tot wijziging van een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), voor zover deze betrekking heeft op een niet-incidenteel kansspel, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b) of [27h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h) bedraagt:
+
+- a. € 100, voor zover de aanvraag is gericht op de wijziging van de tenaamstelling van de vergunning of de vermelding van gegevens met betrekking tot de vestigingsplaats, de rechtsvorm of andere zakelijke gegevens met betrekking tot de houder van de vergunning;
+
+- b. € 100, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningsvoorschriften met als doel de beperking van het toegestane kansspelaanbod;
+
+- c. € 8.000, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningvoorschriften met als doel de vervanging dan wel verruiming van het toegestane kansspelaanbod.
 
 #### § 3. Weddenschappen
 
@@ -78,11 +88,11 @@ De houder van een vergunning als bedoeld in [artikel 15](https://wetten.overheid
 
 ##### Artikel 3.2. Van voorafgaande analyse uitgezonderde wedstrijden
 
-Als wedstrijden en competities, bedoeld in [artikel 7, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=7), zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&bijlage=1&z=2021-04-01&g=2021-04-01) bij deze regeling.
+Als wedstrijden en competities, bedoeld in [artikel 7, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=7), zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&bijlage=1&z=2021-06-29&g=2021-06-29) bij deze regeling.
 
 ##### Artikel 3.3. Van weddenschappen uitgesloten wedstrijden en competities
 
-De houder van een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15) of [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23) organiseert geen weddenschappen op wedstrijden en competities die zijn opgenomen in onderdeel 2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&bijlage=1&z=2021-04-01&g=2021-04-01) bij deze regeling.
+De houder van een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15) of [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23) organiseert geen weddenschappen op wedstrijden en competities die zijn opgenomen in onderdeel 2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&bijlage=1&z=2021-06-29&g=2021-06-29) bij deze regeling.
 
 #### § 4. Handhaving
 
@@ -108,7 +118,7 @@ Deze regeling treedt in werking op 1 april 2021.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kansspelen.
 
-## Bijlage 1. behorend bij de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&paragraaf=3&artikel=3.2&z=2021-04-01&g=2021-04-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&paragraaf=3&artikel=3.3&z=2021-04-01&g=2021-04-01) van de Uitvoeringsregeling kansspelen
+## Bijlage 1. behorend bij de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&paragraaf=3&artikel=3.2&z=2021-06-29&g=2021-06-29) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044763&paragraaf=3&artikel=3.3&z=2021-06-29&g=2021-06-29) van de Uitvoeringsregeling kansspelen
 
 ### Onderdeel 1
 
