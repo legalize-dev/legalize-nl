@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2021-05-11"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met j, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van:
+Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met k, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van:
 
 - a). de aangelegenheden die hun cluster betreffen;
 
@@ -60,7 +60,7 @@ Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en V
 
 ##### Artikel 2
 
-De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met j, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun cluster ressorterende ambtenaren.
+De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met k, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun cluster ressorterende ambtenaren.
 
 ##### Artikel 3
 
@@ -116,9 +116,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan:
 
-- a). de plaatsvervangend secretaris-generaal bedoeld in [artikel 2, eerste lid van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aan zien van de aangelegenheden die het SG-cluster bedoeld in artikel 2, tweede lid, onder a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-05-11);
+- a). de plaatsvervangend secretaris-generaal bedoeld in [artikel 2, eerste lid van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aan zien van de aangelegenheden die het SG-cluster bedoeld in artikel 2, tweede lid, onder a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-06-30);
 
-- b). de hoofddirecteur bedrijfsvoering bedoeld in [artikel 2, tweede lid onder c van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aanzien van de aangelegenheden die het pSG-cluster bedoeld in artikel tweede lid, onder b, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-05-11).
+- b). de hoofddirecteur bedrijfsvoering bedoeld in [artikel 2, tweede lid onder c van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aanzien van de aangelegenheden die het pSG-cluster bedoeld in artikel tweede lid, onder b, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-06-30).
 
 ##### Artikel 2a
 
