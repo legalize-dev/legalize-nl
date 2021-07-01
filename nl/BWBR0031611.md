@@ -4,7 +4,7 @@ identifier: "BWBR0031611"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-01-01"
-last_updated: "2016-04-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031611"
 soort: "ministeriele-regeling-BES"
@@ -52,7 +52,7 @@ Het bedrag bedoeld in [artikel 2.3, eerste lid, onderdeel b, van de wet](https:/
 
 ##### Artikel 3
 
-Als land in de zin van [artikelen 2.9, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.9), [2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), en [3.11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.11) worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada.
+Als land in de zin van [artikelen 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), en [3.11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.11) worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada.
 
 ##### Artikel 4
 
@@ -104,46 +104,27 @@ Als land in de zin van [artikelen 2.9, eerste lid, onderdelen b en d](https://we
 
 ##### Artikel 6
 
-De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), worden met betrekking tot transacties in verband met het afnemen van diensten, bedoeld in de in onderstaande tabel genoemde onderdelen van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld zoals opgenomen in de daarbij vermelde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2016-04-01&g=2016-04-01) bij deze regeling:
-
-| Onderdelen van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) waarin diensten zijn vermeld | Bijlagen bij deze regeling waarin indicatoren zijn opgenomen |
-| --- | --- |
-| a tot en met d, g, i en p tot en met w | [A](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2016-04-01&g=2016-04-01), [I](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=I&z=2016-04-01&g=2016-04-01) en [J](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=J&z=2016-04-01&g=2016-04-01) |
-| e | [B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) |
-| f | [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) |
-| h | [D](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=D&z=2016-04-01&g=2016-04-01) |
-| j | [E](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=E&z=2016-04-01&g=2016-04-01) |
-| k | [F](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=F&z=2016-04-01&g=2016-04-01) |
-| m | [G](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=G&z=2016-04-01&g=2016-04-01) |
-| l, n en o | [H](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=H&z=2016-04-01&g=2016-04-01) |
+De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), worden met betrekking tot transacties in verband met het afnemen van de diensten, bedoeld in [bijlage A van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
 ##### Artikel 7
 
-1. De indicatoren in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) bij deze regeling blijven buiten toepassing in gevallen waarin ter voldoening aan toezeggingen omtrent pensioen door de werkgever aan werknemers, verbonden aan zijn onderneming:
+1. De risicofactoren, bedoeld in [artikel 2.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.5), worden vastgesteld zoals opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
-- a. door de werkgever overeenkomsten van verzekering zijn gesloten met een verzekeraar die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) het bedrijf van levensverzekeraar mag uitoefenen;
+2. De risicofactoren, bedoeld in [artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8), worden vastgesteld zoals opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
-- b. door de werknemers zelf overeenkomsten, bedoeld in onderdeel a, zijn gesloten, daartoe door de werkgever geheel of ten dele in staat gesteld.
-
-2. Voor de toepassing van het in het eerste lid bepaalde, worden aan de begrippen pensioen, werknemer en werkgever en onderneming dezelfde betekenis toegekend als de overeenkomstige begrippen, vermeld in [artikel 1, eerste en tweede lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1).
+3. De risicofactoren, bedoeld in [artikel 2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), worden vastgesteld zoals opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=D&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
 ##### Artikel 8
 
-De indicatoren, bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) bij deze regeling blijven voorts buiten toepassing ten aanzien van:
-
-- a. het sluiten van overeenkomsten van verzekeringen door een pensioenfonds als bedoeld in [artikel 1, eerste lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1) tot het overdragen of het herverzekeren van het uit de door het pensioenfonds aangegane verplichtingen voortspruitende risico;
-
-- b. het sluiten van overeenkomsten van overlijdensrisicoverzekeringen en andere verzekeringen zonder premievrije of afkoopwaarde;
-
-- c. ten aanzien van transacties waarvoor nog slechts een offerte is uitgebracht die nog niet door de verzekeringnemer is aanvaard.
+Vervallen
 
 ##### Artikel 9
 
-Het model voor het aangifteformulier voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in [artikel 4.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), is vastgesteld overeenkomstig de bij deze regeling behorende [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=K&z=2016-04-01&g=2016-04-01), waarbij naar keuze gebruik kan worden gemaakt van de Nederlandstalige, de Engelstalige, de Papiamentstalige of de Spaanstalige versie van het formulier.
+Het model voor het aangifteformulier voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in de [artikelen 4.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), en [4.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), is vastgesteld overeenkomstig de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=E&z=2021-07-01&g=2021-07-01), waarbij naar keuze gebruik kan worden gemaakt van de Nederlandstalige, de Engelstalige, de Papiamentstalige of de Spaanstalige versie van het formulier.
 
 ##### Artikel 10
 
-Van [artikel 4.2, eerste tot met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) zijn vrijgesteld beroepsvervoerders voor zover zij geld transporteren in opdracht van De Nederlandsche Bank N.V.
+Van de [artikelen 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), zijn vrijgesteld beroepsvervoerders voor zover zij geld transporteren in opdracht van De Nederlandsche Bank N.V.
 
 ##### Artikel 11
 
@@ -157,7 +138,24 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet ter voorkoming va
 
 Deze regeling wordt aangehaald als: Regeling ter voorkoming van witwassen en financieren van terrorisme BES.
 
-## Bijlage A. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: kredietinstellingen, geldtransactiekantoren, e.a.) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage A. Indicatoren voor ongebruikelijke transacties als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=6&z=2021-07-01&g=2021-07-01)
+
+| Dienst | **Toepasselijke indicatoren** 1 |
+| --- | --- |
+| diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (kredietinstellingen, geldtransactiekantoren, e.a.). | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Een girale transactie voor een bedrag van boven de USD 11.000. – Een contante transactie voor een bedrag van boven de USD 11.000. – Een contante storting voor een bedrag van USD 11.000 of meer ten gunste van een credit card of een vooraf betaald betaalinstrument (prepaid card). – Het gebruik van een credit card of een vooraf betaald betaalinstrument (prepaid card) in verband met een transactie voor een bedrag van USD 11.000 of meer. – Een geldtransfer voor een bedrag van USD 2.000 of meer, tenzij het een geldtransfer betreft door een dienstverlener die de afwikkeling van bedoelde geldtransfer overlaat aan een andere dienstverlener waarop de meldingsplicht, bedoeld in [artikel 3.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.5), eveneens van toepassing is. |
+| diensten als bedoeld in onderdeel e van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (levensverzekeraars en assurantiebemiddelaars) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Levensverzekeringen waarvoor de eerste premiebetaling of de koopsom meer dan USD 11.000 bedraagt. – Levensverzekeringen waarvoor de eerste premiebetaling of de koopsom meer dan USD 6.000 in contanten bedraagt. – de premie/koopsombetaling bedraagt meer dan USD 140.000. |
+| diensten als bedoeld in onderdeel f van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (levensverzekeraars en assurantiebemiddelaars) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Een contante uitkering van boven USD 11.000. – Een uitkering van boven USD 50.000 op een rekening bij een bank buiten de openbare lichamen Bonaire, Sint Eustatius en Saba binnen 5 jaar na het sluiten van de verzekering. |
+| diensten als bedoeld in onderdeel h van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (creditcard bedrijven en kredietinstellingen e.a.) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Contante storting door de cliënt in het openbaar lichaam Bonaire, Sint Eustatius of Saba ten gunste van een creditcardrekening boven USD 2.000. – Gebruik van de creditcard in verband met transacties boven USD 11.000 in of vanuit het openbaar lichaam Bonaire, Sint Eustatius of Saba. – |
+| diensten als bedoeld in onderdeel j van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (casino’s) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Het in depot nemen van munten, bankbiljetten en andere waarden boven USD 5.000. – Transacties boven USD 5.000. |
+| diensten als bedoeld in onderdeel k van [bijlage a bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (trustkantoren) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Alle contante transacties die het bedrag van USD 5.000 of de tegenwaarde daarvan in vreemde valuta te boven gaan waarbij de persoon die de meldingsverplichting heeft direct of indirect betrokken is. – Transacties van USD 50.000 en hoger waaronder begrepen de aankoop of het verzilveren door cliënt van cheques, travellercheques of soortgelijke betaalmiddelen. – Transacties van USD 500.000 en hoger waarbij cheques, travellercheques of soortgelijke betaalmiddelen zijn betrokken. |
+| diensten als bedoeld in onderdeel m van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (handelaren in zaken van grote waarde) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Transacties waarbij zaken worden verkocht tegen geheel of gedeeltelijke contante betaling waarbij het contant te betalen bedrag USD 11.000 of meer bedraagt |
+| diensten als bedoeld in onderdelen l, n en o van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Transacties waarbij USD 11.000 of meer wordt betaald aan of door tussenkomst van beroepsbeoefenaren in contanten, met cheques aan toonder, een vooraf betaald betaalinstrument (prepaid card) of soortgelijke betaalmiddelen. |
+| diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (beleggingsinstellingen) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Alle contante transacties die het bedrag van USD 5.000 te boven gaan waarbij de verlener van beheersdiensten direct of indirect betrokken is. – Transacties waarbij cheques, travellercheques of soortgelijke betaalmiddelen zijn betrokken van USD 50.000 en hoger; – Girale transacties van USD 2.000.000 en hoger |
+| diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (administrateurs beleggingsinstellingen) | – Een transactie waarbij de dienstverlener aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. – Alle contante transacties die het bedrag van USD 5.000 te boven gaan waarbij de verlener van beheersdiensten direct of indirect betrokken is. – Girale transacties van USD 5.000.000 en hoger. |
+
+1 Waar de genoemde bedragen in Amerikaanse dollar staan vermeld is ook bedoeld de tegenwaarde daarvan in een vreemde valuta.
+
+Het ligt in de rede dat transacties die in verband met witwassen of financieren van terrorisme aan politie of Openbaar Ministerie worden gemeld, ook aan het meldpunt worden gemeld; er is immers de veronderstelling dat deze transacties verband kunnen houden met witwassen of financieren van terrorisme.
 
 Voor alle indicatoren geldt:
 
@@ -165,7 +163,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage B. Indicatoren diensten als bedoeld in onderdeel e van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage E. Model aanmeld- of kennisgevingformulier voor grensoverschrijdende geldtransporten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=9&z=2021-07-01&g=2021-07-01)
 
 Voor alle indicatoren geldt:
 
@@ -173,7 +171,9 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage C. Indicatoren diensten als bedoeld in onderdeel f van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage I. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+
+Vervallen
 
 Voor alle indicatoren geldt:
 
@@ -350,5 +350,111 @@ Una pena por delito en algunas circunstancias incluyendo una multa que no exceda
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 3. Aangifteformulier (Papiamento)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage B. Risicofactoren als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=7&z=2021-07-01&g=2021-07-01)
+
+Hierna volgt een niet-limitatieve lijst van risicofactoren die dienstverleners ten minste in overweging moeten nemen wanneer zij bepalen in welke mate cliëntenonderzoeksmaatregelen moeten worden toegepast overeenkomstig [artikel 2.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.5):
+
+- 1. het doel van een rekening of een relatie;
+
+- 2. de omvang van de activa die door een cliënt worden gedeponeerd of de omvang van de gesloten transacties;
+
+- 3. de regelmaat of de duur van de zakelijke relatie.
+
+## Bijlage C. Risicofactoren als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=7&z=2021-07-01&g=2021-07-01)
+
+Hierna volgt een niet-limitatieve lijst van risicofactoren van potentieel lager risico als bedoeld in [artikel 2.8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8):
+
+- 1. Cliëntgebonden risicofactoren:
+
+- a. beursgenoteerde vennootschappen die onderworpen zijn aan informatievereisten (op grond van het beursreglement of krachtens wettelijke of afdwingbare middelen) welke voorschriften omvatten om toereikende transparantie betreffende de uiteindelijk begunstigden te garanderen;
+
+- b. overheden of overheidsbedrijven;
+
+- c. cliënten die inwoner zijn van geografische gebieden met een lager risico als vermeld in punt 3).
+
+- 2. Product-, dienst-, transactie- of leveringskanaalgebonden risicofactoren:
+
+- a. levensverzekeringspolissen met een lage premie;
+
+- b. pensioenverzekeringsovereenkomsten die geen afkoopclausule bevatten en niet als zekerheidstelling kunnen dienen;
+
+- c. een pensioenstelsel, een pensioenfonds of een soortgelijk stelsel dat pensioenen uitkeert aan werknemers, waarbij de bijdragen worden ingehouden op het loon en de regels van het stelsel de deelnemers niet toestaan hun rechten uit hoofde van het stelsel over te dragen;
+
+- d. financiële producten of diensten die op passende wijze bepaalde en beperkte diensten voor bepaalde soorten cliënten omvatten, om voor financiële inclusiedoeleinden de toegang te vergroten;
+
+- e. producten waarbij het witwasrisico en het risico van terrorismefinanciering wordt beheerd door andere factoren zoals bestedingslimieten of transparantie van eigendom (bv. bepaalde soorten elektronisch geld).
+
+- 3. Geografische risicofactoren – registratie, vestiging of woont in:
+
+- a. landen met doeltreffende AML/CFT-systemen ter bestrijding van witwassen en terrorismefinanciering;
+
+- b. landen die volgens geloofwaardige bronnen een laag niveau van corruptie of andere criminele activiteit hebben;
+
+- c. landen die volgens geloofwaardige bronnen zoals wederzijdse beoordelingen, gedetailleerde evaluatierapporten, of gepubliceerde follow-uprapporten, voorschriften inzake de bestrijding van witwassen en terrorismefinanciering hebben die beantwoorden aan de herziene FATF-aanbevelingen en die voorschriften effectief ten uitvoer leggen.
+
+## Bijlage D. Risicofactoren als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=7&z=2021-07-01&g=2021-07-01)
+
+Hierna volgt een niet-limitatieve lijst van risicofactoren van potentieel hoger risico als bedoeld in [artikel 2.10, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10):
+
+- 1. Een zakelijke relatie die een hoger risico op witwassen of financieren van terrorisme met zich brengt als bedoeld in [2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10):
+
+- a. de zakelijke relatie vindt in ongebruikelijke omstandigheden plaats;
+
+- b. cliënten die inwoner zijn van geografische gebieden met een hoger risico als vermeld in punt 3);
+
+- c. rechtspersonen of juridische constructies die vehikels zijn voor het aanhouden van persoonlijke activa;
+
+- d. vennootschappen met gevolmachtigde aandeelhouders of met aandelen aan toonder;
+
+- e. bedrijven waar veel geldverkeer in contanten plaatsvindt;
+
+- f. de eigendomsstructuur van de vennootschap lijkt ongebruikelijk of buitensporig complex gezien de aard van de vennootschapsactiviteit;
+
+- 2. Een transactie die naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt als bedoeld [2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10):
+
+- a. private banking;
+
+- b. producten of transacties die anonimiteit bevorderen;
+
+- c. met zakelijke relaties of transacties, die zonder bepaalde garanties, op afstand of langs elektronische weg plaatsvindt en niet door de relevante nationale autoriteiten is gereglementeerd, erkend, goedgekeurd of aanvaard;
+
+- d. betalingen die worden ontvangen van onbekende of niet-verbonden derden;
+
+- e. nieuwe producten en nieuwe zakelijke praktijken, daaronder begrepen nieuwe leveringsmechanismen, en het gebruik van nieuwe of in ontwikkeling zijnde technologieën voor zowel nieuwe als reeds bestaande producten;
+
+- f. transacties in verband met aardolie, wapens, edele metalen, tabaksproducten, culturele kunstvoorwerpen en andere artikelen van archeologisch, historisch, cultureel en religieus belang of met grote wetenschappelijke waarde, alsook ivoor en beschermde (dier)soorten.
+
+- 3. Een staat waar de cliënt woonachtig of gevestigd is of zijn zetel heeft die een hoger risico op witwassen of financieren van terrorisme met zich brengt:
+
+- a. landen die op basis van geloofwaardige bronnen zoals wederzijdse beoordelingen, gedetailleerde evaluatierapporten, of gepubliceerde follow-uprapporten, worden aangemerkt als een land zonder effectieve AML/CFT-systemen;
+
+- b. landen die volgens geloofwaardige bronnen significante niveaus van corruptie of andere criminele activiteit hebben;
+
+- c. landen waarvoor sancties, embargo's of soortgelijke maatregelen gelden die bijvoorbeeld door de Europese Unie of de Verenigde Naties zijn uitgevaardigd;
+
+- d. landen die financiering of ondersteuning verschaffen voor terroristische activiteiten, of op het grondgebied waarvan als terroristisch aangemerkte organisaties actief zijn.
+
+## Bijlage F. Indicatoren diensten als bedoeld in onderdeel k van [bijlage a bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: trustkantoren) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+
+Vervallen
+
+## Bijlage G. Indicatoren diensten als bedoeld in onderdeel m van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: handelaren in zaken grote waarde) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+
+Vervallen
+
+## Bijlage H. Indicatoren diensten als bedoeld in onderdelen l, n en o van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: de vrije beroepsbeoefenaren, t.w. de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+
+Vervallen
+
+## Bijlage J. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: administrateurs beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+
+Vervallen
+
+## Bijlage K. Model aangifteformulier voor grensoverschrijdende geldtransporten
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
