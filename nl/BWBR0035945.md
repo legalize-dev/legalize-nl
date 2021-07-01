@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Vervallen
 
 - l. inkomende en uitgaande handelsmissies: tarief per deelnemer wordt berekend per missie op basis van hoofdelijke omslag;
 
-- m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 65,– voor de eerste Legal Entity Identifier Inschrijving en € 40,– voor de jaarlijkse Legal Entity Identifier Verlenging;
+- m. vervallen;
 
 - n. een locatiescan: € 0,– per factsheet.
 
@@ -90,7 +90,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2021-01-01&g=2021-01-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2021-07-01&g=2021-07-01)
 
 - a. Uurtarieven begroting 2021 (in euro, exclusief BTW)
 
