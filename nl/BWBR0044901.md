@@ -209,5 +209,3 @@ Zienswijze werkgever:
 Toelichting:
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
