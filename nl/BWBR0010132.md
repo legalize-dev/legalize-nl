@@ -4,7 +4,7 @@ identifier: "BWBR0010132"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2002-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010132"
 soort: "wet"
@@ -54,11 +54,11 @@ Vervallen
 
 ##### Artikel 3
 
-Vervanging van rechtswege van een overeengekomen referentierente als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2002-01-01&g=2002-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2002-01-01&g=2002-01-01) vormt geen grond voor gehele of gedeeltelijke ontbinding van de overeenkomst of wijziging van de gevolgen van de overeenkomst wegens onvoorziene omstandigheden als bedoeld in [artikel 258 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=258).
+Vervanging van rechtswege van een overeengekomen referentierente als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2021-07-01&g=2021-07-01) vormt geen grond voor gehele of gedeeltelijke ontbinding van de overeenkomst of wijziging van de gevolgen van de overeenkomst wegens onvoorziene omstandigheden als bedoeld in [artikel 258 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=258).
 
 ##### Artikel 4
 
-De aanwijzingen van Onze Minister van Financiën, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2002-01-01&g=2002-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2002-01-01&g=2002-01-01), worden bekend gemaakt in de Staatscourant en in een landelijk verspreid dagblad.
+De aanwijzingen van Onze Minister van Financiën, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2021-07-01&g=2021-07-01), worden bekendgemaakt in de Staatscourant.
 
 ##### Artikel 5
 
@@ -66,7 +66,7 @@ Wijzigt de Wet toezicht effectenverkeer 1995.
 
 ##### Artikel 6
 
-Deze wet treedt in werking met ingang van 1 januari 1999. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 1998, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij, wat de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2002-01-01&g=2002-01-01) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=3&z=2002-01-01&g=2002-01-01) betreft, terug tot en met 1 januari 1999. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2002-01-01&g=2002-01-01) vervalt met ingang van 1 januari 2002.
+Deze wet treedt in werking met ingang van 1 januari 1999. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 1998, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij, wat de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=1&z=2021-07-01&g=2021-07-01) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=3&z=2021-07-01&g=2021-07-01) betreft, terug tot en met 1 januari 1999. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010132&artikel=2&z=2021-07-01&g=2021-07-01) vervalt met ingang van 1 januari 2002.
 
 ##### Artikel 7
 
