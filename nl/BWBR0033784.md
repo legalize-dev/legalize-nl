@@ -4,7 +4,7 @@ identifier: "BWBR0033784"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033784"
 soort: "pbo"
@@ -82,7 +82,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
 
 ##### Artikel 5
 
@@ -146,9 +146,11 @@ In een bijeenkomst van de ledenvergadering kunnen geen besluiten worden genomen 
 
 1. Tenzij de voorzitter van de vergadering op grond van bijzondere omstandigheden anders besluit, worden leden tot vijftien minuten na de opening van de bijeenkomst van de ledenvergadering in de gelegenheid gesteld zich te melden voor de presentielijst, waarna deze wordt vastgesteld en het aantal aanwezige of vertegenwoordigde stemgerechtigden wordt meegedeeld.
 
-2. Nadat de presentielijst is vastgesteld geldt deze als presentielijst van de vergadering ongeacht of er tijdens de vergadering leden nog binnenkomen dan wel de vergadering verlaten.
+2. In afwijking van het vorige lid, kan het bestuur in het geval de bijeenkomst van de ledenvergadering geheel of gedeeltelijk plaatsvindt op elektronische wijze, van een lid dat via een elektronisch communicatiemiddel deelneemt aan de bijeenkomst en daarin het stemrecht wenst uit te oefenen, verlangen dat deze zich ten hoogste dertig uren voor aanvang van de bijeenkomst voor de presentielijst aanmeldt.
 
-3. Leden die zich na de vaststelling van de presentielijst ter vergadering melden, kunnen niet stemmen. Aan hen verstrekte volmachten kunnen niet meer worden uitgeoefend.
+3. Nadat de presentielijst is vastgesteld geldt deze als presentielijst van de vergadering ongeacht of er tijdens de vergadering leden nog binnenkomen dan wel de vergadering verlaten.
+
+4. Leden die zich na de vaststelling van de presentielijst ter vergadering melden, kunnen niet stemmen. Aan hen verstrekte volmachten kunnen niet meer worden uitgeoefend.
 
 ##### Artikel 14
 
