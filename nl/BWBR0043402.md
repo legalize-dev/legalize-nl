@@ -4,7 +4,7 @@ identifier: "BWBR0043402"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-10-01"
-last_updated: "2021-03-20"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043402"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **algemene de-minimisverordening:** verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352);
 
-- **verklaring:** verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2021-03-20&g=2021-03-20);
+- **verklaring:** verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01);
 
 - **wet:** [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
@@ -68,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Kring van rechthebbenden
 
-1. De aanvrager van algemene bijstand of bijstand ter voorziening in de behoefte aan bedrijfskapitaal op grond van dit besluit verklaart schriftelijk dat hij aan [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-03-20&g=2021-03-20), voldoet.
+1. De aanvrager van algemene bijstand of bijstand ter voorziening in de behoefte aan bedrijfskapitaal op grond van dit besluit verklaart schriftelijk dat hij aan [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01), voldoet.
 
 2. Algemene bijstand of bijstand ter voorziening in de behoefte aan bedrijfskapitaal op grond van dit besluit kan worden verleend aan de zelfstandige die op 17 maart 2020 stond ingeschreven in het handelsregister, bedoeld in [artikel 2, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en schriftelijk verklaart dat diens bedrijf of zelfstandig beroep financieel is geraakt als gevolg van de crisis in verband met COVID-19.
 
@@ -92,7 +92,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. op of na 1 april 2021 en voor 1 mei 2021 geacht te zijn ingediend op de eerste dag van de kalendermaand waarin de aanvraag is ingediend;
 
-- g. op of na 1 mei 2021 geacht te zijn ingediend op de eerste dag van de kalendermaand voorafgaand aan de maand waarin de aanvraag is ingediend.
+- g. op of na 1 mei 2021 en voor 1 juli 2021 geacht te zijn ingediend op de eerste dag van de kalendermaand voorafgaand aan de maand waarin de aanvraag is ingediend;
+
+- h. op of na 1 juli 2021 en voor 1 augustus 2021 geacht te zijn ingediend op de eerste dag van de kalendermaand waarin de aanvraag is ingediend;
+
+- i. op of na 1 augustus 2021 geacht te zijn ingediend op de eerste dag van de kalendermaand voorafgaand aan de maand waarin de aanvraag is ingediend.
 
 3. Voor de ondernemer in de binnenvaart, bedoeld in [artikel 1, onderdeel k, van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=1), die geen woonplaats heeft als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), bestaat het recht op bijstand jegens het college van de gemeente waar de ondernemer in de binnenvaart op het moment van de aanvraag zijn feitelijke ligplaats heeft.
 
@@ -118,7 +122,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. voor de kalendermaanden waarover algemene bijstand wordt aangevraagd een opgave van het inkomen dat hij heeft verworven of verwacht te gaan verwerven.
 
-2. De gehuwde zelfstandige betrekt bij de verklaring, bedoeld in het eerste lid, onderdelen b en c, het inkomen van beide echtgenoten.
+2. De gehuwde zelfstandige betrekt bij de verklaring, bedoeld in het eerste lid, onderdelen c en d, het inkomen van beide echtgenoten.
 
 ##### Artikel 6. Het inkomen
 
@@ -138,7 +142,7 @@ Algemene bijstand wordt naar de regels van dit besluit verleend in de vorm van e
 
 ##### Artikel 9. Duur en periode van de bijstand
 
-De algemene bijstand wordt naar de regels van dit besluit verleend voor ten hoogste zestien kalendermaanden en ziet uitsluitend op de kalendermaanden maart 2020 tot en met juni 2021.
+De algemene bijstand wordt naar de regels van dit besluit verleend voor ten hoogste negentien kalendermaanden en ziet uitsluitend op de kalendermaanden maart 2020 tot en met september 2021.
 
 ### Hoofdstuk 3. Bijstand voor bedrijfskapitaal
 
@@ -168,7 +172,7 @@ De algemene bijstand wordt naar de regels van dit besluit verleend voor ten hoog
 
 In de verklaring wordt door de aanvrager van bijstand ter voorziening in de behoefte aan bedrijfskapitaal het volgende verklaard en de volgende informatie verstrekt:
 
-- a. dat hij voldoet aan [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-03-20&g=2021-03-20);
+- a. dat hij voldoet aan [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01);
 
 - b. dat diens bedrijf of zelfstandig beroep financieel is geraakt als gevolg van de crisis in verband met COVID-19, voorzien van een toelichting;
 
@@ -176,7 +180,7 @@ In de verklaring wordt door de aanvrager van bijstand ter voorziening in de beho
 
 - d. dat de omvang van de aangevraagde bijstand niet zal leiden tot een overschrijding van het de-minimisplafond, bedoeld in artikel 3, tweede lid, van de algemene de- minimisverordening; en
 
-- e. dat geen sprake is van een situatie als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=10&z=2021-03-20&g=2021-03-20).
+- e. dat geen sprake is van een situatie als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=10&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 13. Vorm van de bijstand
 
@@ -190,9 +194,9 @@ Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt verleend met 
 
 - a. de rente van de lening bedraagt 2 procent per jaar gedurende de gehele looptijd van de lening;
 
-- b. de looptijd van de lening is ten hoogste drie jaar en zes maanden;
+- b. de looptijd van de lening is ten hoogste vijf jaar;
 
-- c. de lening slechts wordt verleend indien de aanvraag is ingediend voor 1 juli 2021.
+- c. de lening slechts wordt verleend indien de aanvraag is ingediend voor 1 oktober 2021.
 
 ##### Artikel 15. Hoogte van de lening
 
@@ -214,7 +218,7 @@ Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt verleend met 
 
 - 3°. ingeval van surseance van betaling of faillissement van de zelfstandige, van één van de vennoten of leden waarmee het bedrijf of zelfstandig beroep in een samenwerkingsverband wordt uitgeoefend, of van de rechtspersoon.
 
-2. De verplichting tot betaling van rente en aflossing vangt aan op 1 juli 2021. In het tijdvak van 1 januari 2021 tot en met 30 juni 2021 wordt geen rente opgebouwd.
+2. De verplichting tot betaling van rente en aflossing vangt aan op 1 januari 2022. In het tijdvak van 1 januari 2021 tot en met 31 december 2021 wordt geen rente opgebouwd.
 
 3. Het college kan aan het verlenen van de bijstand ter voorziening in de behoefte aan bedrijfskapitaal verplichtingen verbinden die zijn gericht op het verkrijgen van meerdere zekerheid voor de nakoming van de aan deze bijstand verbonden rente- en aflossingsverplichtingen.
 
@@ -242,7 +246,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het r
 
 ##### Artikel 20. Voorschot op de vergoeding
 
-1. Onze Minister verleent voorschotten op de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-03-20).
+1. Onze Minister verleent voorschotten op de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-07-01&g=2021-07-01).
 
 2. De voorschotten worden afgestemd op de landelijk te verwachte kosten, waarbij deze worden verdeeld over gemeenten op basis van het aantal zelfstandigen per gemeente.
 
@@ -250,13 +254,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het r
 
 ##### Artikel 21. Vaststelling van de vergoeding
 
-1. Onze Minister stelt de vergoedingen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-03-20) en [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19a&z=2021-03-20&g=2021-03-20), vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Onze Minister stelt de vergoedingen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-07-01&g=2021-07-01) en [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19a&z=2021-07-01&g=2021-07-01), vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. De kosten van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
 
 3. Indien de toepassing van het tweede lid naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard kan hij de kosten die als fout of onzeker worden aangemerkt, in afwijking van het tweede lid, geheel of gedeeltelijk in aanmerking nemen bij de vaststelling.
 
-4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-03-20&g=2021-03-20), ambtshalve door Onze Minister vastgesteld.
+4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=5&artikel=19&z=2021-07-01&g=2021-07-01), ambtshalve door Onze Minister vastgesteld.
 
 5. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan Onze Minister kennis heeft op 30 september van het jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
@@ -268,7 +272,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het r
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 maart 2020.
 
-2. Dit besluit vervalt op 1 juli 2025 met dien verstande dat het besluit zoals dat luidde op 30 juni 2025 van toepassing blijft op de zelfstandige die op grond van dit besluit bijstand ontvangt of heeft ontvangen en op de financiële afwikkeling van het besluit.
+2. Dit besluit vervalt op 1 juli 2027 met dien verstande dat het besluit zoals dat luidde op 30 juni 2027 van toepassing blijft op de zelfstandige die op grond van dit besluit bijstand ontvangt of heeft ontvangen en op de financiële afwikkeling van het besluit.
 
 ##### Artikel 23. Citeertitel
 
@@ -278,7 +282,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 19a. Vergoeding voor onverschuldigd verleende voorschotten
 
-1. Onze Minister vergoedt ten laste van ’s Rijks kas aan het college 30% van het totaalbedrag van de vorderingen als gevolg van onverschuldigd verleende voorschotten op aanvragen tot bijstand voor levensonderhoud als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&z=2021-03-20&g=2021-03-20), welke feitelijk zijn ingediend vóór 22 april 2020.
+1. Onze Minister vergoedt ten laste van ’s Rijks kas aan het college 30% van het totaalbedrag van de vorderingen als gevolg van onverschuldigd verleende voorschotten op aanvragen tot bijstand voor levensonderhoud als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&z=2021-07-01&g=2021-07-01), welke feitelijk zijn ingediend vóór 22 april 2020.
 
 2. Van een onverschuldigd verleend voorschot als bedoeld in het eerste lid is sprake indien het als gevolg van de beslissing op de aanvraag geheel of gedeeltelijk niet verrekend kan worden omdat:
 
@@ -294,6 +298,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het in of krachtens dit besluit, zoals dit luidde op 30 september 2020, gestelde blijft van toepassing op tot 1 oktober 2020 aangevraagde bijstand.
 
-2. In afwijking van de [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-03-20&g=2021-03-20), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2021-03-20&g=2021-03-20), [5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&artikel=5&z=2021-03-20&g=2021-03-20), en [12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=12&z=2021-03-20&g=2021-03-20), kan het college bij de aanvraag voor bijstand op grond van dit besluit ingediend tussen 1 oktober 2020 en de dag voorafgaande aan de inwerkingtreding van het Besluit van 15 maart 2021 tot wijziging van de Tijdelijke overbruggingsregeling zelfstandig ondernemers in verband met het niet invoeren van de beperkte vermogenstoets, de financiële relatie tussen het Rijk en de gemeenten en enkele andere wijzigingen (Stb. 2021, 137) op andere wijze dan door middel van de verklaring vaststellen of de aanvrager per jaar 1.225 uur aan zijn bedrijf of zelfstandig beroep besteedt.
+2. In afwijking van de [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), [5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01), en [12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=12&z=2021-07-01&g=2021-07-01), kan het college bij de aanvraag voor bijstand op grond van dit besluit ingediend tussen 1 oktober 2020 en de dag voorafgaande aan de inwerkingtreding van het Besluit van 15 maart 2021 tot wijziging van de Tijdelijke overbruggingsregeling zelfstandig ondernemers in verband met het niet invoeren van de beperkte vermogenstoets, de financiële relatie tussen het Rijk en de gemeenten en enkele andere wijzigingen (Stb. 2021, 137) op andere wijze dan door middel van de verklaring vaststellen of de aanvrager per jaar 1.225 uur aan zijn bedrijf of zelfstandig beroep besteedt.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a. Activering
+
+Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17) verstrekt de zelfstandige op verzoek van het college bij de aanvraag van algemene bijstand op grond van dit besluit of tijdens de bijstand de door het college gevraagde informatie gericht op voortzetting, wijziging of beëindiging van zijn beroeps- of bedrijfsactiviteiten of gericht op zijn arbeidsinschakeling.
+
+### Hoofdstuk 3. Bijstand voor bedrijfskapitaal
+
+### Hoofdstuk 4. Ministeriële regelingen
+
+### Hoofdstuk 5. Financiering en verantwoording
+
+### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
