@@ -4,7 +4,7 @@ identifier: "BWBR0001963"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2016-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001963"
 soort: "wet"
@@ -60,13 +60,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 3
 
-1. Van het tijdstip, waarop door den beheerder tot opruiming zal worden overgegaan, wordt door of namens hem in een of meer nieuwsbladen kennisgeving gedaan, en wel ten minste tweemaal vierentwintig uren te voren, tenzij de beheerder onverwijlde opruiming noodzakelijk acht, in welk geval de kennisgeving zoo spoedig mogelijk wordt gedaan, met vermelding der redenen, welke de onverwijlde opruiming noodzakelijk maken of gemaakt hebben.
+1. Van het tijdstip, waarop door den beheerder tot opruiming zal worden overgegaan, wordt door of namens hem in het publicatieblad van het openbaar lichaam waartoe hij behoort mededeling gedaan, en wel ten minste tweemaal vierentwintig uren te voren, tenzij de beheerder onverwijlde opruiming noodzakelijk acht, in welk geval de mededeling zoo spoedig mogelijk wordt gedaan, met vermelding der redenen, welke de onverwijlde opruiming noodzakelijk maken of gemaakt hebben.
 
-2. De kennisgeving bevat, zo zij de opruiming van een vaartuig geldt, zo mogelijk opgaaf van de naam van schipper en vaartuig, en van de aard der op te ruimen voorwerpen.
+2. De mededeling bevat, zo zij de opruiming van een vaartuig geldt, zo mogelijk opgaaf van de naam van schipper en vaartuig, en van de aard der op te ruimen voorwerpen.
 
 ##### Artikel 4
 
-Het verblijf op of de toegang tot het vaartuig of ander voorwerp zonder vergunning van of namens den beheerder is verboden van het tijdstip af, waarop de in het vorige artikel bedoelde kennisgeving is geschied, of van den aanvang der opruiming af, indien de opruiming is aangevangen of voltooid, voordat de kennisgeving heeft plaats gehad.
+Het verblijf op of de toegang tot het vaartuig of ander voorwerp zonder vergunning van of namens den beheerder is verboden van het tijdstip af, waarop de mededeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=3&z=2021-07-01&g=2021-07-01), is geschied, of van den aanvang der opruiming af, indien de opruiming is aangevangen of voltooid, voordat de mededeling heeft plaats gehad.
 
 ##### Artikel 5
 
@@ -74,7 +74,7 @@ Al hetgeen bij de opruiming wordt geborgen, wordt tegen voldoening van de ter za
 
 ##### Artikel 6
 
-Indien belanghebbenden zich niet aanmelden, doch in gebreke blijven binnen een door de beheerder te stellen termijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2016-01-01&g=2016-01-01) bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
+Indien belanghebbenden zich niet aanmelden, doch in gebreke blijven binnen een door de beheerder te stellen termijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2021-07-01&g=2021-07-01) bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
 
 ##### Artikel 7
 
@@ -90,11 +90,11 @@ Vervallen
 
 ##### Artikel 10
 
-De kosten, krachtens deze wet gemaakt, komen, voor zooveel zij niet door belanghebbenden zijn terugbetaald, of uit de opbrengst van het krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=6&z=2016-01-01&g=2016-01-01) verkochte kunnen worden gekweten, ten laste van den beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op dengene, die volgens de wet daarvoor aansprakelijk is.
+De kosten, krachtens deze wet gemaakt, komen, voor zooveel zij niet door belanghebbenden zijn terugbetaald, of uit de opbrengst van het krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=6&z=2021-07-01&g=2021-07-01) verkochte kunnen worden gekweten, ten laste van den beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op dengene, die volgens de wet daarvoor aansprakelijk is.
 
 ##### Artikel 11
 
-Handelingen in strijd met het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=2&z=2016-01-01&g=2016-01-01) en het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=4&z=2016-01-01&g=2016-01-01) worden aangemerkt als overtredingen en gestraft met een geldboete van de derde categorie.
+Handelingen in strijd met het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=2&z=2021-07-01&g=2021-07-01) en het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=4&z=2021-07-01&g=2021-07-01) worden aangemerkt als overtredingen en gestraft met een geldboete van de derde categorie.
 
 ##### Artikel 12
 
@@ -104,9 +104,9 @@ Met het tijdstip van de inwerkingtreding van deze wet vervalt de wet van 23 Juli
 
 Met betrekking tot een wrak waarop de [Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162) van toepassing is, zijn:
 
-de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=1&z=2016-01-01&g=2016-01-01) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=10&z=2016-01-01&g=2016-01-01) niet van toepassing;
+de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=1&z=2021-07-01&g=2021-07-01) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=10&z=2021-07-01&g=2021-07-01) niet van toepassing;
 
-de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2016-01-01&g=2016-01-01) van toepassing op de markering en opruiming daarvan overeenkomstig die wet.
+de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2021-07-01&g=2021-07-01) van toepassing op de markering en opruiming daarvan overeenkomstig die wet.
 
 ##### Artikel 13
 
