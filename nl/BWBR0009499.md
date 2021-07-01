@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2017-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -86,7 +86,9 @@ Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen
 
 ##### Artikel 3
 
-De aanduiding **azijn**mag uitsluitend worden gebezigd voor een vloeibare waar die azijnzuur als kenmerkend bestanddeel bevat, met dien verstande dat het gehalte aan azijnzuur van de waar ten minste 4 gram per 100 ml bedraagt.
+1. De aanduiding **azijn**mag uitsluitend worden gebezigd voor een vloeibare waar die azijnzuur als kenmerkend bestanddeel bevat, met dien verstande dat het gehalte aan azijnzuur van de waar ten minste 4 gram per 100 ml bedraagt.
+
+2. De aanduiding natuurazijn mag uitsluitend worden gebezigd voor een vloeibare waar als bedoeld in het eerste lid die wordt verkregen door een alcoholische en een azijnzure fermentatie van eet- of drinkwaren van agrarische oorsprong.
 
 ##### Artikel 4
 
@@ -138,7 +140,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2017-07-01&g=2017-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2017-07-01&g=2017-07-01), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2021-07-01&g=2021-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2021-07-01&g=2021-07-01), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
@@ -164,7 +166,7 @@ De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkre
 
 waaraan mogen zijn toegevoegd:
 
-- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2017-07-01&g=2017-07-01);
+- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2021-07-01&g=2021-07-01);
 
 - –. technische hulpstoffen;
 
