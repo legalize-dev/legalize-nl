@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2019-10-04"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -229,8 +229,6 @@ Ongeschiktheid kan samenhangen met:
 
 **(De kinderen verblijven gedurende het dagprogramma zoveel mogelijk in professionele kinderopvang.)**
 
-**(Alleen verplicht voor inrichtingen met een regime van algehele gemeenschap)**
-
 (Verblijftijd in verblijfsruimte)
 
 Nadere regelgeving**(indien van toepassing)**
@@ -250,8 +248,6 @@ U wordt in de gelegenheid gesteld om deel te nemen aan de in de inrichting besch
 (recht op deelname aan de in de inrichting beschikbare arbeid voor zover de aard van de detentie zich daar niet tegen verzet)
 
 **(Alleen verplicht voor de inrichting of afdeling waar gedetineerden verblijven die tot een al dan niet onherroepelijke vrijheidsstraf zijn veroordeeld)**
-
-(verplicht tot verrichten van arbeid al dan niet onherroepelijk veroordeelden tot een vrijheidsstraf)
 
 U hoeft geen arbeid te verrichten op de algemeen erkende feestdagen zoals benoemd in de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en de zondagen. Indien u een religie belijdt op grond waarvan u op een andere dag dan voornoemd geen arbeid wilt verrichten kan de directeur bepalen dat u op die dag niet tot arbeid bent verplicht. U ontvangt in dit geval geen loon over de arbeidsuren die voor u in het dagprogramma zijn opgenomen.
 
@@ -625,27 +621,21 @@ Binnen tien werkdagen na binnenkomst in de inrichting heeft u een gesprek met ee
 
 - •. Ministeriële regeling; [Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558)
 
-**(Op de navolgende onderwerpen na, aan de directeur)**
+(Op de navolgende onderwerpen na, aan de directeur)
 
-(incidenteel verlof; wanneer, hoe aanvragen, verwijzen naar de ministeriële regeling [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
+(re-integratieverlof; wanneer, hoe aanvragen, verwijzen naar de ministeriële regeling [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
 
 (strafonderbreking; wanneer, hoe aanvragen, verwijzen naar de ministeriële regeling [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
 
-**(Enkel verplicht voor de inrichting waar verlof geen vast onderdeel is van het regime)**
+(re-integratieverlof; wanneer, hoe aanvragen, verwijzen naar regeling)
 
-(Algemeen Verlof; wanneer, hoe aanvragen, verwijzen naar regeling)
+Nadere regelgeving:
 
-**(Enkel verplicht voor de (zeer) beperkt beveiligde inrichting)**
+- −. [Penitentiaire beginselenwet; art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26)
 
-(regimesgebonden verlof; wanneer, hoe aanvragen, verwijzen naar regeling)
+- −. [Wetboek van Strafvordering; art. 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20)
 
-**Nadere regelgeving**
-
-- •. [Penitentiaire beginselenwet; art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26)
-
-- •. [Wetboek van Strafvordering; art. 570b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=570b)
-
-- •. Ministeriële regeling; [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171)
+- −. Ministeriële regeling; [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171)
 
 **(Aan de directeur)**
 
