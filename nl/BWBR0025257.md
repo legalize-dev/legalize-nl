@@ -4,7 +4,7 @@ identifier: "BWBR0025257"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2009-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025257"
 soort: "AMvB"
@@ -52,17 +52,13 @@ Treedt in werking op het tijdstip waarop artikel I van de Wet elektronische beke
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder Onze Minister:
-
-- a. in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&hoofdstuk=2&z=2009-07-01&g=2009-07-01): Onze Minister van Justitie;
-
-- b. in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&hoofdstuk=3&z=2009-07-01&g=2009-07-01): Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Justitie en Veiligheid.
 
 ### Hoofdstuk 2. Uitgifte van het Staatsblad
 
 ##### Artikel 2
 
-1. Het Staatsblad wordt uitgegeven op door Onze Minister te bepalen tijdstippen op een bij ministeriële regeling te bepalen internetadres.
+1. Het Staatsblad wordt uitgegeven op een bij ministeriële regeling te bepalen internetadres.
 
 2. Op het Staatsblad wordt vermeld wanneer het is uitgegeven.
 
@@ -78,67 +74,45 @@ Onze Minister draagt er zorg voor dat het Staatsblad na de uitgifte elektronisch
 
 ##### Artikel 5
 
-In het Staatsblad wordt opgenomen al hetgeen waarvan een wet of koninklijk besluit bekendmaking in het Staatsblad voorschrijft, alsmede datgene wat in verband hiermee naar het oordeel van Onze Minister moet worden vermeld.
+In het Staatsblad wordt opgenomen al hetgeen waarvan een wet, algemene maatregel van bestuur of ander koninklijk besluit waarbij algemeen verbindende voorschriften worden vastgesteld bekendmaking in het Staatsblad voorschrijft, alsmede datgene wat in verband hiermee naar het oordeel van Onze Minister moet worden vermeld.
 
 ##### Artikel 6
 
-1. Wetten en koninklijke besluiten die in het Staatsblad moeten worden geplaatst, worden daartoe na de in [artikel 47 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=47) bedoelde ondertekening aan Onze Minister toegezonden.
+1. Wetten, algemene maatregelen van bestuur en andere koninklijke besluiten waarbij algemeen verbindende voorschriften worden vastgesteld die in het Staatsblad moeten worden geplaatst, worden daartoe na de in [artikel 47 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=47) bedoelde ondertekening aan Onze Minister toegezonden.
 
 2. De als eerste ondertekenende minister of staatssecretaris draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat plaatsing in het Staatsblad tijdig kan geschieden.
 
 ##### Artikel 7
 
-Wetten en koninklijke besluiten worden na plaatsing in het Staatsblad door Onze Minister teruggezonden aan het Kabinet der Koningin.
+Wetten, algemene maatregelen van bestuur en andere koninklijke besluiten waarbij algemeen verbindende voorschriften worden vastgesteld, worden na plaatsing in het Staatsblad door Onze Minister teruggezonden aan het Kabinet van de Koning.
 
 ### Hoofdstuk 3. Uitgifte van de Staatscourant
 
 ##### Artikel 8
 
-1. De Staatscourant wordt uitgegeven op door Onze Minister te bepalen tijdstippen op een bij ministeriële regeling te bepalen internetadres.
-
-2. Op de Staatscourant wordt vermeld wanneer zij is uitgegeven.
+Onze Minister past met betrekking tot de plaatsing in het Staatsblad de regels of technische standaarden toe die krachtens het [Besluit elektronische publicaties](onbekend) zijn gesteld onderscheidenlijk zijn aangewezen.
 
 ##### Artikel 9
 
-Onze Minister draagt er zorg voor dat de Staatscourant na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft.
+Vervallen
 
 ##### Artikel 10
 
-1. Onze Minister draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de uitgifte en de beschikbaarstelling van de Staatscourant.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.
+Vervallen
 
 ##### Artikel 11
 
-1. In de Staatscourant worden opgenomen:
-
-- a. al hetgeen waarvan een wet, koninklijk besluit of ministerieel besluit bekendmaking of mededeling in de Staatscourant voorschrijft;
-
-- b. publicaties, afkomstig van de centrale overheid.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent publicaties als bedoeld in het eerste lid, onderdeel b.
+Vervallen
 
 ##### Artikel 12
 
-De eerste ondertekenaar van een publicatie als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01), bepaalt het tijdstip van plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.
+Vervallen
 
 ### Hoofdstuk 4. Beschikbaarstelling van teksten in geconsolideerde vorm
 
 ##### Artikel 13
 
-1. De teksten van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. regelingen die zijn vervallen of uitgewerkt vóór het tijdstip van inwerkingtreding van dit besluit;
-
-- b. regelingen voor zover deze strekken tot wijziging van een of meer regelingen;
-
-- c. wetten inzake de begroting, bedoeld in [artikel 105, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=105);
-
-- d. wetten die uitsluitend strekken tot goedkeuring van verdragen;
-
-- e. bijlagen als bedoeld in [artikel 5, eerste lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
+Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -153,5 +127,21 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet elekt
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Bekendmakingsbesluit.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk 3. Uitgifte van de Staatscourant
+
+##### Artikel 8
+
+Vervallen
+
+### Hoofdstuk 4. Beschikbaarstelling van teksten in geconsolideerde vorm
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 13
+
+Dit besluit berust op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=15) en [16, eerste, tweede en vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
