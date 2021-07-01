@@ -4,7 +4,7 @@ identifier: "BWBV0006833"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-07-01"
-last_updated: "2019-07-08"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006833"
 soort: "verdrag"
@@ -58,7 +58,7 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - d. wordt onder „het Verdrag van Chicago” verstaan het [Verdrag inzake de internationale burgerluchtvaart](onbekend), op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig [artikel 90 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) aangenomen [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1), en elke wijziging van de Bijlagen of van het Verdrag van Chicago overeenkomstig artikel 90 en [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), voor zover deze Bijlagen en wijzigingen van kracht zijn geworden voor beide partijen;
 
-- e. wordt onder „aangewezen luchtvaartmaatschappij” verstaan een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2019-07-08&g=2019-07-08) (Aanwijzing en verlening van vergunningen) van dit Verdrag;
+- e. wordt onder „aangewezen luchtvaartmaatschappij” verstaan een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2021-07-01&g=2021-07-01) (Aanwijzing en verlening van vergunningen) van dit Verdrag;
 
 - f. wordt onder „prijs” verstaan alle prijzen, kosten of heffingen die luchtvaartmaatschappijen, agentschappen inbegrepen, in rekening brengen voor vervoer door de lucht van passagiers, bagage en/of vracht (post niet meegerekend), met inbegrip van elke andere wijze van vervoer in verband daarmee, en de voor de beschikbaarheid van deze prijzen, kosten of heffingen geldende voorwaarden;
 
@@ -82,7 +82,7 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - d. andere rechten die zijn omschreven in dit Verdrag.
 
-3. De luchtvaartmaatschappijen van elke partij, anders dan die aangewezen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2019-07-08&g=2019-07-08) (Aanwijzing en verlening van vergunningen) van dit Verdrag genieten tevens de rechten die omschreven zijn in het tweede lid, onderdelen a en b, van dit artikel.
+3. De luchtvaartmaatschappijen van elke partij, anders dan die aangewezen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2021-07-01&g=2021-07-01) (Aanwijzing en verlening van vergunningen) van dit Verdrag genieten tevens de rechten die omschreven zijn in het tweede lid, onderdelen a en b, van dit artikel.
 
 4. Geen van de bepalingen in dit Verdrag wordt geacht een aangewezen luchtvaartmaatschappij of de aangewezen luchtvaartmaatschappijen van de ene partij het voorrecht te verlenen op het grondgebied van de andere partij tegen vergoeding passagiers, bagage, vracht en post aan boord te nemen bestemd voor een ander punt op het grondgebied van die andere partij.
 
@@ -96,7 +96,7 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - b. de daadwerkelijke controle of de aangewezen luchtvaartmaatschappij de regelgeving naleeft wordt uitgevoerd en gehandhaafd door de partij die de luchtvaartmaatschappij aanwijst;
 
-- c. de partij die de luchtvaartmaatschappij aanwijst de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=7&z=2019-07-08&g=2019-07-08) (Veiligheid) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=8&z=2019-07-08&g=2019-07-08) (Beveiliging van de luchtvaart) vervatte bepalingen naleeft; en
+- c. de partij die de luchtvaartmaatschappij aanwijst de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=7&z=2021-07-01&g=2021-07-01) (Veiligheid) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=8&z=2021-07-01&g=2021-07-01) (Beveiliging van de luchtvaart) vervatte bepalingen naleeft; en
 
 - d. de aangewezen luchtvaartmaatschappij in staat is te voldoen aan de in de wetten en voorschriften gestelde voorwaarden die de partij die de aanwijzing ontvangt gewoonlijk toepast op de exploitatie van internationale luchtvervoerdiensten.
 
@@ -104,13 +104,13 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 ##### Artikel 4. Weigering, intrekking en beperking van vergunningen
 
-1. De luchtvaartautoriteiten van elke partij hebben het recht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2019-07-08&g=2019-07-08) (Aanwijzing en verlening van vergunningen) van dit Verdrag vermelde vergunningen voor een door de andere partij aangewezen luchtvaartmaatschappij te weigeren en deze in te trekken, te schorsen of hieraan voorwaarden te verbinden, hetzij tijdelijk, hetzij permanent, wanneer:
+1. De luchtvaartautoriteiten van elke partij hebben het recht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2021-07-01&g=2021-07-01) (Aanwijzing en verlening van vergunningen) van dit Verdrag vermelde vergunningen voor een door de andere partij aangewezen luchtvaartmaatschappij te weigeren en deze in te trekken, te schorsen of hieraan voorwaarden te verbinden, hetzij tijdelijk, hetzij permanent, wanneer:
 
 - a. niet bewezen kan worden dat de aangewezen luchtvaartmaatschappij gevestigd is op het grondgebied van de partij die de luchtvaartmaatschappij aanwijst; of
 
 - b. de daadwerkelijke controle of de aangewezen luchtvaartmaatschappij de regelgeving naleeft niet wordt uitgevoerd en gehandhaafd door de partij die de luchtvaartmaatschappij heeft aangewezen; of
 
-- c. de partij die de luchtvaartmaatschappij aanwijst de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=7&z=2019-07-08&g=2019-07-08) (Veiligheid) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=8&z=2019-07-08&g=2019-07-08) (Beveiliging van de luchtvaart) vervatte bepalingen niet naleeft; of
+- c. de partij die de luchtvaartmaatschappij aanwijst de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=7&z=2021-07-01&g=2021-07-01) (Veiligheid) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=8&z=2021-07-01&g=2021-07-01) (Beveiliging van de luchtvaart) vervatte bepalingen niet naleeft; of
 
 - d. de aangewezen luchtvaartmaatschappij niet in staat is te voldoen aan de in de wetten en voorschriften gestelde voorwaarden die de partij die de aanwijzing ontvangt gewoonlijk toepast op de exploitatie van internationale luchtvervoerdiensten.
 
@@ -198,9 +198,9 @@ ongeacht of dergelijke goederen geheel worden gebruikt of verbruikt op het grond
 
 2. Elke partij kan verlangen dat de aangewezen luchtvaartmaatschappijen de prijzen voor vluchten die afkomstig zijn van haar grondgebied ter kennis brengen van of indienen bij de autoriteiten.
 
-3. Indien de luchtvaartautoriteiten van de ene partij van mening zijn dat de door de aangewezen luchtvaartmaatschappij van de andere partij beoogde of uitgevoerde vluchten oneerlijke concurrentie zou(den) kunnen vormen, kunnen zij verzoeken om overleg in overeenstemming met [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=19&z=2019-07-08&g=2019-07-08) (Overleg) van dit Verdrag om tot een oplossing van het probleem te komen. Een dergelijk verzoek gaat vergezeld van een kennisgeving met de redenen voor het verzoek en het overleg vangt aan binnen vijftien (15) dagen na het verzoek.
+3. Indien de luchtvaartautoriteiten van de ene partij van mening zijn dat de door de aangewezen luchtvaartmaatschappij van de andere partij beoogde of uitgevoerde vluchten oneerlijke concurrentie zou(den) kunnen vormen, kunnen zij verzoeken om overleg in overeenstemming met [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=19&z=2021-07-01&g=2021-07-01) (Overleg) van dit Verdrag om tot een oplossing van het probleem te komen. Een dergelijk verzoek gaat vergezeld van een kennisgeving met de redenen voor het verzoek en het overleg vangt aan binnen vijftien (15) dagen na het verzoek.
 
-4. Indien de partijen er niet in slagen door middel van overleg tot een oplossing van het probleem te komen, kan elk van de partijen een beroep doen op de geschillenregeling uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=20&z=2019-07-08&g=2019-07-08) (Regeling van geschillen) van dit Verdrag teneinde het geschil te beslechten.
+4. Indien de partijen er niet in slagen door middel van overleg tot een oplossing van het probleem te komen, kan elk van de partijen een beroep doen op de geschillenregeling uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=20&z=2021-07-01&g=2021-07-01) (Regeling van geschillen) van dit Verdrag teneinde het geschil te beslechten.
 
 ##### Artikel 13. Mededinging
 
