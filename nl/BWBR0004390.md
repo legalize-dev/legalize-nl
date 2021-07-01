@@ -4,7 +4,7 @@ identifier: "BWBR0004390"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2005-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004390"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Kennisgeving omtrent ledenvergaderingen van de corporatie, bedoeld in [artikel 1
 
 ##### Artikel 2
 
-De agenda en de mededeling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004390&hoofdstuk=I&artikel=1&z=2005-07-01&g=2005-07-01), bevatten in elk geval:
+De agenda en de mededeling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004390&hoofdstuk=I&artikel=1&z=2021-07-01&g=2021-07-01), bevatten in elk geval:
 
 - a. plaats, dag en aanvangsuur van de behandeling van het ontwerp van de verordening;
 
@@ -68,7 +68,7 @@ Tegelijk met de agenda van de openbare ledenvergadering wordt de tekst van het o
 
 ##### Artikel 4
 
-Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, overeenkomstig artikel 3:12, tweede lid, van de Algemene wet bestuursrecht, in de **Staatscourant** geplaatst.
+Tegelijk met de kennisgeving van de openbare ledenvergadering wordt van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, overeenkomstig [artikel 3:12, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12), in de **Staatscourant** kennisgegeven.
 
 ##### Artikel 5
 
