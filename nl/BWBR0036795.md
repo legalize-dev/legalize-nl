@@ -4,7 +4,7 @@ identifier: "BWBR0036795"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2016-10-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036795"
 soort: "wet"
@@ -93,13 +93,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Indien een verzoek te algemeen geformuleerd is, verzoekt de met een publieke taak belaste instelling de verzoeker dit zo spoedig mogelijk te preciseren en is zij hem daarbij behulpzaam.
 
-5. De met een publieke taak belaste instelling kan een verzoek om hergebruik slechts afwijzen, indien het verzoek informatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), betreft.
+5. De met een publieke taak belaste instelling kan een verzoek om hergebruik slechts afwijzen, indien het verzoek informatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2021-07-01&g=2021-07-01), betreft.
 
 6. Onverminderd hetgeen bepaald in het vijfde lid, kan een museum of bibliotheek een verzoek om hergebruik afwijzen, indien het museum of de bibliotheek de rechthebbende van de informatie is in de zin van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) of de [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591).
 
-7. Een met een publieke taak belaste instelling die een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), deelt aan de verzoeker de identiteit mee van de rechthebbende of de licentiegever van de gevraagde informatie.
+7. Een met een publieke taak belaste instelling die een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2021-07-01&g=2021-07-01), deelt aan de verzoeker de identiteit mee van de rechthebbende of de licentiegever van de gevraagde informatie.
 
-8. Indien een museum of bibliotheek een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), hoeft de identiteit van de rechthebbende of de licentiegever van de gevraagde informatie niet te worden medegedeeld.
+8. Indien een museum of bibliotheek een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2021-07-01&g=2021-07-01), hoeft de identiteit van de rechthebbende of de licentiegever van de gevraagde informatie niet te worden medegedeeld.
 
 ##### Artikel 4. Behandeling van verzoeken
 
@@ -143,7 +143,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. In de overeenkomst waarin een exclusief recht wordt verleend voor de digitalisering van verzamelingen van overheidsinformatie die berusten bij musea of bibliotheken wordt vastgelegd dat de betrokken instelling gratis een kopie van de gedigitaliseerde informatie krijgt. De kopie is beschikbaar voor hergebruik na afloop van de periode waarvoor het exclusieve recht is verleend.
 
-5. Van elk exclusief recht dat wordt verleend, wordt mededeling gedaan door kennisgeving van de zakelijke inhoud ervan in een van overheidswege uitgegeven blad of op een andere geschikte wijze.
+5. Van elk exclusief recht dat wordt verleend, wordt mededeling gedaan op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze.
 
 ##### Artikel 8. Uitfasering exclusieve rechten
 
