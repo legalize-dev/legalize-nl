@@ -4,7 +4,7 @@ identifier: "BWBR0017560"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2015-10-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017560"
 soort: "ministeriele-regeling"
@@ -97,9 +97,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 - a. arbeidstoeleiding zoals werk, het verkrijgen van een vakdiploma en gewenning aan het arbeidsproces;
 
-- b. stimuleren van de zelfredzaamheid zoals sociale vaardigheden, budgettering, woonbegeleiding, alfabetisering en vergroten van zelfdiscipline;
-
-- c. behandeling van een psychische stoornis of verslavingsproblematiek.
+- b. stimuleren van de zelfredzaamheid zoals sociale vaardigheden, budgettering, woonbegeleiding, alfabetisering en vergroten van zelfdiscipline.
 
 3. De aanvraag tot erkenning van een penitentiair programma of een module van een penitentiair programma bevat ten minste een beschrijving van:
 
@@ -141,13 +139,9 @@ Voor erkenning kunnen worden voorgedragen:
 
 2. Indien het penitentiair programma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die:
 
-- a. op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) als zorginstelling is aangemerkt;
+- a. door het Ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling; of
 
-- b. een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1) die is toegelaten voor het verlenen van zorg als bedoeld in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
-
-- c. door het Ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling; of
-
-- d. op grond van de [Reclasseringsregeling van 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120) is erkend als reclasseringsinstelling,
+- b. op grond van de [Reclasseringsregeling van 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120) is erkend als reclasseringsinstelling,
 
 dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiair programma of een module daarvan.
 
