@@ -4,7 +4,7 @@ identifier: "BWBR0042755"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-19"
-last_updated: "2021-05-26"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042755"
 soort: "wet"
@@ -57,15 +57,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 23. Overgangsrecht
 
-1. Besluiten als bedoeld in [artikel 10 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=10) die voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet zijn genomen, vervallen:
+1. Besluiten als bedoeld in [artikel 10 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=10) die voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet zijn genomen, vervallen:
 
-- a. met ingang van 26 mei 2021, voor zover het besluit is genomen krachtens [artikel 11 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=11) of krachtens [artikel 5, zevende lid, van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=5), zoals deze luidden op de dag voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet;
+- a. met ingang van 26 mei 2021, voor zover het besluit is genomen krachtens [artikel 11 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=11) of krachtens [artikel 5, zevende lid, van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=5), zoals deze luidden op de dag voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet;
 
-- b. met ingang van 26 mei 2022, voor zover het besluit is genomen krachtens [artikel 9 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=9), zoals dit luidde op de dag voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet.
+- b. met ingang van 26 mei 2022, voor zover het besluit is genomen krachtens [artikel 9 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=9), zoals dit luidde op de dag voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet.
 
-2. Besluiten als bedoeld in [artikel 8, eerste lid, eerste volzin, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=8) die voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet zijn genomen, worden aangemerkt als door de krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=8&z=2021-05-26&g=2021-05-26), van deze wet, aangewezen autoriteit genomen besluiten.
+2. Besluiten als bedoeld in [artikel 8, eerste lid, eerste volzin, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=8) die voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet zijn genomen, worden aangemerkt als door de krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01), van deze wet, aangewezen autoriteit genomen besluiten.
 
-3. Voor zover nodig is in afwijking van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&z=2021-05-26&g=2021-05-26) van deze wet, is het bepaalde bij of krachtens de [artikelen 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=13) en [14, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14), en [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), zoals deze luidden voor inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet:
+3. Voor zover nodig is in afwijking van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&z=2021-07-01&g=2021-07-01) van deze wet, is het bepaalde bij of krachtens de [artikelen 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=13) en [14, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14), en [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), zoals deze luidden voor inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet:
 
 - a. dit onderdeel is nog niet in werking getreden;
 
@@ -81,17 +81,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In dit artikel wordt verstaan onder «tijdstip van intrekking»: de latere van de data, bedoeld in artikel 123, derde lid, onderdeel d, van Verordening (EU) 2017/745.
 
-2. [Artikel 7 van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=7) en [artikel 13 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=13), zoals die luidden op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet, zijn van toepassing tot het tijdstip van intrekking.
+2. [Artikel 7 van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=7) en [artikel 13 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=13), zoals die luidden op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet, zijn van toepassing tot het tijdstip van intrekking.
 
-3. [Artikel 5a van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=5a) en [artikel 5 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), zoals deze luidden op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet, zijn van toepassing tot achttien maanden na het tijdstip van intrekking.
+3. [Artikel 5a van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=5a) en [artikel 5 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), zoals deze luidden op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet, zijn van toepassing tot achttien maanden na het tijdstip van intrekking.
 
 ##### Artikel 25. Overgangsrecht
 
 1. In dit artikel wordt verstaan onder «tijdstip van intrekking»: de latere van de data, bedoeld in artikel 113, derde lid, onderdeel f, van Verordening (EU) 2017/746.
 
-2. [Artikel 10 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=10), zoals dit luidde op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet, is van toepassing tot het tijdstip van intrekking.
+2. [Artikel 10 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=10), zoals dit luidde op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet, is van toepassing tot het tijdstip van intrekking.
 
-3. [Artikel 4 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), zoals dit luidde op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet, is van toepassing tot achttien maanden na het tijdstip van intrekking.
+3. [Artikel 4 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), zoals dit luidde op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet, is van toepassing tot achttien maanden na het tijdstip van intrekking.
 
 ##### Artikel 26. Overgangsrecht
 
@@ -101,7 +101,7 @@ Een positief oordeel als bedoeld in [artikel 2, tweede lid, van de Wet medisch-w
 
 1. Bij algemene maatregel van bestuur worden regels gesteld ter implementatie van Richtlijn (EU) 98/79/EEG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitrodiagnostiek (PbEG 1998, L331).
 
-2. Na de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-05-26&g=2021-05-26) van deze wet berust het [Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610) op het eerste lid.
+2. Na de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2021-07-01&g=2021-07-01) van deze wet berust het [Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610) op het eerste lid.
 
 ##### Artikel 28. Overgangsrecht
 
@@ -109,7 +109,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 28a. Wijzigingen
 
-De [artikelen 1 tot en met 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=1&artikel=1&z=2021-05-26&g=2021-05-26), [7 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=7&z=2021-05-26&g=2021-05-26), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=11&z=2021-05-26&g=2021-05-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=12&z=2021-05-26&g=2021-05-26), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=14&z=2021-05-26&g=2021-05-26), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=15&z=2021-05-26&g=2021-05-26) en [23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=23&z=2021-05-26&g=2021-05-26) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover die aanpassingen niet inhoudelijk van aard zijn.
+De [artikelen 1 tot en met 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01), [7 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=7&z=2021-07-01&g=2021-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=11&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=12&z=2021-07-01&g=2021-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=14&z=2021-07-01&g=2021-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=15&z=2021-07-01&g=2021-07-01) en [23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=23&z=2021-07-01&g=2021-07-01) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover die aanpassingen niet inhoudelijk van aard zijn.
 
 ##### Artikel 29. Intrekking
 
@@ -253,7 +253,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en va
 
 1. Hij die handelt in strijd met artikel 7 van Verordening (EU) 2017/745 of met artikel 7 van Verordening (EU) 2017/746 wordt gestraft met een gevangenisstraf van ten hoogste twee jaren of een geldboete van de zesde categorie.
 
-2. Hij die handelt in strijd met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-05-26&g=2021-05-26) van deze wet wordt gestraft met hechtenis van ten hoogste zes maanden of een boete uit de derde categorie indien in de daaraan voorafgaande vierentwintig maanden tweemaal een bestuurlijke boete ter zake van dezelfde gedraging is opgelegd.
+2. Hij die handelt in strijd met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-07-01&g=2021-07-01) van deze wet wordt gestraft met hechtenis van ten hoogste zes maanden of een boete uit de derde categorie indien in de daaraan voorafgaande vierentwintig maanden tweemaal een bestuurlijke boete ter zake van dezelfde gedraging is opgelegd.
 
 3. Het in het eerste lid strafbaar gestelde feit is een misdrijf. Het in het tweede lid strafbaar gestelde feit is een overtreding.
 
@@ -265,11 +265,11 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 - b. dit onderdeel is nog niet in werking getreden;
 
-- c. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5&z=2021-05-26&g=2021-05-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-05-26&g=2021-05-26) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9a&z=2021-05-26&g=2021-05-26) en van de maatregelen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=15&z=2021-05-26&g=2021-05-26) van deze wet.
+- c. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-07-01&g=2021-07-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9a&z=2021-07-01&g=2021-07-01) en van de maatregelen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=15&z=2021-07-01&g=2021-07-01) van deze wet.
 
 ##### Artikel 13. Last onder bestuursdwang
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichting.
+Vervallen
 
 ##### Artikel 14. Bestuurlijke boete
 
@@ -279,7 +279,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 - b. dit onderdeel is nog niet in werking getreden;
 
-- c. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5&z=2021-05-26&g=2021-05-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-05-26&g=2021-05-26) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9a&z=2021-05-26&g=2021-05-26) van deze wet.
+- c. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2021-07-01&g=2021-07-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9a&z=2021-07-01&g=2021-07-01) van deze wet.
 
 2. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), ter zake van een gedraging die in strijd is met:
 
@@ -287,7 +287,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 - b. dit onderdeel is nog niet in werking getreden;
 
-- c. het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5a&z=2021-05-26&g=2021-05-26) en [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5b&z=2021-05-26&g=2021-05-26) van deze wet.
+- c. het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5a&z=2021-07-01&g=2021-07-01) en [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5b&z=2021-07-01&g=2021-07-01) van deze wet.
 
 ##### Artikel 15. Bijzondere maatregelen ter bescherming van de volksgezondheid
 
