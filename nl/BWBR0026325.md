@@ -4,7 +4,7 @@ identifier: "BWBR0026325"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2011-01-20"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026325"
 soort: "AMvB"
@@ -74,9 +74,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het is verboden te handelen in strijd met de artikelen 4, 5, 6, eerste en tweede lid, 7, 10, 14, eerste lid, 15, eerste lid, 16, 17 en 19, eerste tot en met derde lid, van verordening (EG) 1334/2008.
 
-4. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2011-01-20&g=2011-01-20).
+4. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2021-07-01&g=2021-07-01).
 
-5. Het is verboden te handelen in strijd met de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2011-01-20&g=2011-01-20) vastgestelde voorschriften.
+5. Het is verboden te handelen in strijd met de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2021-07-01&g=2021-07-01) vastgestelde voorschriften.
 
 6. Het is verboden te handelen in strijd met artikel 4, tweede lid, van verordening (EG) 2065/2003.
 
@@ -94,23 +94,11 @@ wordt in ieder geval vermeld in de Engelse of de Nederlandse taal.
 
 ##### Artikel 4
 
-Bij regeling van Onze Minister worden nadere regels vastgesteld inzake [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2011-01-20&g=2011-01-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 1332/2008](32008R1332), [1333/2008](32008R1333) of [1334/2008](32008R1334) gestelde voorschriften.
+Onze Minister kan nadere regels vaststellen inzake [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2021-07-01&g=2021-07-01), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 1332/2008](32008R1332), [1333/2008](32008R1333) of [1334/2008](32008R1334) gestelde voorschriften.
 
 ##### Artikel 5
 
-Na de inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2011-01-20&g=2011-01-20):
-
-- a. de [Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008245);
-
-- b. de [Warenwetregeling zuiverheidseisen voor levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024683);
-
-- c. de [Warenwetregeling Gebruik van kleurstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007567);
-
-- d. de [Warenwetregeling zuiverheidseisen voor kleurstoffen in levensmiddelen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025307);
-
-- e. de [Warenwetregeling Gebruik van zoetstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007613);
-
-- f. de [Warenwetregeling zuiverheidseisen voor zoetstoffen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024204).
+Vervallen
 
 ##### Artikel 6
 
@@ -178,21 +166,21 @@ Wijzigt het Warenwetbesluit Gereserveerde aanduidingen.
 
 2. In afwijking van het eerste lid treden in werking met ingang van 20 januari 2011:
 
-- a. [artikel 2, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2011-01-20&g=2011-01-20);
+- a. [artikel 2, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2021-07-01&g=2021-07-01);
 
-- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2011-01-20&g=2011-01-20);
+- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2021-07-01&g=2021-07-01);
 
-- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2011-01-20&g=2011-01-20);
+- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2021-07-01&g=2021-07-01);
 
-- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2011-01-20&g=2011-01-20);
+- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2021-07-01&g=2021-07-01);
 
-- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2011-01-20&g=2011-01-20);
+- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2021-07-01&g=2021-07-01);
 
-- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2011-01-20&g=2011-01-20); en
+- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2021-07-01&g=2021-07-01); en
 
-- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2011-01-20&g=2011-01-20).
+- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2021-07-01&g=2021-07-01).
 
-3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2011-01-20&g=2011-01-20) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2021-07-01&g=2021-07-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 21
 
