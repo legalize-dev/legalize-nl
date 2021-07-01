@@ -4,7 +4,7 @@ identifier: "BWBR0044849"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2021-03-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044849"
 soort: "wet"
@@ -51,9 +51,7 @@ Wijzigt de Mediawet 2008.
 
 A. Op de benoeming van de eerste raad van toezicht van de Stichting Etherreclame zijn de [artikelen 2.99b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.99b) en [2.99c Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.99c) zoveel mogelijk van toepassing met dien verstande dat de voordracht van de raad van toezicht vervalt en de Minister van Onderwijs, Cultuur en Wetenschap zorgdraagt voor de procedure.
 
-B.
-
-Dit onderdeel is nog niet in werking getreden.
+B. Een toestemming voor een commerciële omroepdienst die uitsluitend bestaat uit het verzorgen van radioprogramma-aanbod via het open internet, die is afgegeven op grond van [artikel 3.1 Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1) zoals dat artikel luidde voor het moment van inwerkingtreding van [artikel I, onder BB](https://wetten.overheid.nl/jci1.3:c:BWBR0044849&artikel=I&z=2021-07-01&g=2021-07-01), wordt aangemerkt als een melding van het moment van de aanvang van die dienst als bedoeld in [artikel 3.29b, eerste lid, Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29b).
 
 ##### Artikel III
 
