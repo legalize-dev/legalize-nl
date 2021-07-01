@@ -4,7 +4,7 @@ identifier: "BWBR0041600"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-30"
-last_updated: "2019-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041600"
 soort: "ministeriele-regeling"
@@ -45,11 +45,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als aanvraagformulieren voor inschrijving van een kinderopvangvoorziening (dagopvang of buitenschoolse opvang) in het register buitenlandse kinderopvang en voor inschrijving van een voorziening voor gastouderopvang in het register buitenlandse kinderopvang, worden vastgesteld de bij deze regeling gevoegde [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=1&z=2019-01-01&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=2&z=2019-01-01&g=2019-01-01).
+Als aanvraagformulieren voor inschrijving van een kinderopvangvoorziening (dagopvang of buitenschoolse opvang) in het register buitenlandse kinderopvang en voor inschrijving van een voorziening voor gastouderopvang in het register buitenlandse kinderopvang, worden vastgesteld de bij deze regeling gevoegde [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=2&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 2
 
-Als formulier voor het doorgeven van wijzigingen in de gegevens van de kinderopvangvoorziening of de voorziening voor gasthouderopvang in het register buitenlandse kinderopvang door een ouder, wordt vastgesteld de bij deze regeling gevoegde [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=3&z=2019-01-01&g=2019-01-01).
+Als formulier voor het doorgeven van wijzigingen in de gegevens van de kinderopvangvoorziening of de voorziening voor gasthouderopvang in het register buitenlandse kinderopvang door een ouder, wordt vastgesteld de bij deze regeling gevoegde [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&bijlage=3&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 3
 
@@ -95,15 +95,11 @@ Het [Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 3 augustus
 
 Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=1&z=2019-01-01&g=2019-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=1&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang (Stcrt. 2018, 66983)
 
-Aanvraag inschrijving van een kinderopvangvoorziening (dagopvang of buitenschoolse opvang) in het register buitenlandse kinderopvang
+## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=1&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang (Stcrt. 2018, 66983)
 
-## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=1&z=2019-01-01&g=2019-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang
-
-Aanvraag inschrijving van een voorziening voor gastouderopvang in het register buitenlandse kinderopvang
-
-## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=2&z=2019-01-01&g=2019-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang
+## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=2&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018 tot vaststelling van de formulieren in gebruik bij het register buitenlandse kinderopvang
 
 Wijziging van een kinderopvangvoorziening of voorziening voor gastouderopvang in het register buitenlandse kinderopvang
 
