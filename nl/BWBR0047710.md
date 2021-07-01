@@ -4,7 +4,7 @@ identifier: "BWBR0047710"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2017-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047710"
 soort: "wet"
@@ -68,19 +68,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Provinciewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Gemeentewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Waterschapswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
