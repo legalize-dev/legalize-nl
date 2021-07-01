@@ -4,7 +4,7 @@ identifier: "BWBR0018784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2010-10-10"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018784"
 soort: "wet"
@@ -68,13 +68,11 @@ In deze wet wordt verstaan onder:
 
 2. Onze Minister maakt een beslissing als bedoeld in het eerste lid terstond bekend in de Staatscourant.
 
-3. Indien een beslissing als bedoeld in het eerste lid betrekking heeft of mede betrekking heeft op een lijst met woorden, kan Onze Minister in afwijking van het tweede lid die lijst bekendmaken door terinzagelegging. Van een terinzagelegging wordt door Onze Minister terstond mededeling gedaan in de Staatscourant.
-
 ##### Artikel 4
 
 1. Op het tijdstip waarop deze wet in werking treedt, geldt als schrijfwijze van de Nederlandse taal de schrijfwijze waartoe het Comité van Ministers op 21 maart 1994, 24 oktober 1994 en 25 september 1995 heeft beslist.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018784&artikel=3&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op een beslissing van het Comité van Ministers betreffende de schrijfwijze van de Nederlandse taal, die na 25 september 1995 maar voor het tijdstip van inwerkingtreding van deze wet is genomen.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018784&artikel=3&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing op een beslissing van het Comité van Ministers betreffende de schrijfwijze van de Nederlandse taal, die na 25 september 1995 maar voor het tijdstip van inwerkingtreding van deze wet is genomen.
 
 ##### Artikel 5
 
