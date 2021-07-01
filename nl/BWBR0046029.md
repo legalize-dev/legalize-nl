@@ -83,5 +83,3 @@ C – Eigenaar die tevens delen van het gebouw voor eigen gebruik aanwendt: het 
 D – Huurder/gebruiker van een geheel gebouw of een gedeelte daarvan: het certificaatonderdeel Gebruik moet voor alle activiteiten van de huurder/gebruiker in het gebouw minimaal niveau Good scoren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
