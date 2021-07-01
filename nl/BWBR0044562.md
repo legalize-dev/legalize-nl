@@ -4,7 +4,7 @@ identifier: "BWBR0044562"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2020-12-25"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044562"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 - c. het IBAN-nummer waarop het bedrag kan worden overgemaakt.
 
-2. De aanvraag ziet op de kosten die gemaakt zijn of gemaakt worden in de periode van 15 december 2020 tot en met 30 juni 2021.
+2. De aanvraag ziet op de kosten die gemaakt zijn of gemaakt worden in de periode van 15 december 2020 tot en met 30 september 2021.
 
-3. De aanvraag wordt uiterlijk op 30 juni 2021 ingediend, met gebruikmaking van door de minister ter beschikking gesteld digitaal aanvraagformulier.
+3. De aanvraag wordt uiterlijk op 30 september 2021 ingediend, met gebruikmaking van door de minister ter beschikking gesteld digitaal aanvraagformulier.
 
 ##### Artikel 5. Verlening en bevoorschotting
 
@@ -76,9 +76,9 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 ##### Artikel 6. Voor vergoeding in aanmerking komende kosten
 
-1. De uitkering wordt alleen verstrekt ter bekostiging van de over de periode van 15 december 2020 tot en met 30 juni 2021:
+1. De uitkering wordt alleen verstrekt ter bekostiging van de over de periode van 15 december 2020 tot en met 30 september 2021:
 
-- a. verschuldigde loonkosten van werknemers en arbeidskrachten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=2&z=2020-12-25&g=2020-12-25), tot een maximum van 120% van het wettelijk minimumloon per arbeidskracht;
+- a. verschuldigde loonkosten van werknemers en arbeidskrachten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=2&z=2021-07-01&g=2021-07-01), tot een maximum van 120% van het wettelijk minimumloon per arbeidskracht;
 
 - b. verschuldigd vakantiegeld, verschuldigde pensioenafdrachten en sociale zekerheidslasten, in verband met de loonkosten, bedoeld onder a; en
 
@@ -86,7 +86,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 2. Op grond van deze regeling wordt geen uitkering verstrekt voor:
 
-- a. kosten voor activiteiten waarvan redelijkerwijs aangenomen moet worden dat deze geen bijdrage leveren aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=2&z=2020-12-25&g=2020-12-25);
+- a. kosten voor activiteiten waarvan redelijkerwijs aangenomen moet worden dat deze geen bijdrage leveren aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=2&z=2021-07-01&g=2021-07-01);
 
 - b. kosten voor activiteiten waarvoor reeds een specifieke uitkering of een andere financiële bijdrage door het Rijk is verstrekt;
 
@@ -106,11 +106,11 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 ##### Artikel 8. Vaststelling en terugvordering
 
-1. De minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=7&z=2020-12-25&g=2020-12-25), genoemde verantwoording, respectievelijk van de in het derde lid van dat artikel genoemde aanvulling.
+1. De minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=7&z=2021-07-01&g=2021-07-01), genoemde verantwoording, respectievelijk van de in het derde lid van dat artikel genoemde aanvulling.
 
 2. De minister stelt de uitkering overeenkomstig de verstrekking vast, tenzij:
 
-- a. de uitkering niet of niet volledig is besteed aan de kosten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=6&z=2020-12-25&g=2020-12-25);
+- a. de uitkering niet of niet volledig is besteed aan de kosten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=6&z=2021-07-01&g=2021-07-01);
 
 - b. de gemeente waaraan de uitkering is verleend niet heeft voldaan aan de aan de uitkering verbonden verplichtingen;
 
@@ -128,7 +128,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte d
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving.
 
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=3&z=2020-12-25&g=2020-12-25)
+## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=3&z=2021-07-01&g=2021-07-01)
 
 | Gemeente | Aantal inwoners | Beschikkingsbedrag |
 | --- | --- | --- |
