@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-04-17"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -1406,7 +1406,7 @@ Bij de eerste beoordeling door het CBR van personen met ADHD vindt een onderzoek
 
 ### Hoofdstuk 10. Geneesmiddelen
 
-Bij een eerste aanvraag voor groep 1 of 2 dient bij de beoordeling een rijtest met een deskundige op het gebied van de praktische geschiktheid van het CBR plaats te vinden. Het CBR heeft hiervoor een uitvoerig protocol.
+Als de specialist duidelijk omschreven twijfels heeft over de rijgeschiktheid, die zich uiten in een advies tot termijnbeperking of een advies tot een rijtest, kan het CBR voor een juiste oordeelsvorming een deskundige op het gebied van de praktische rijgeschiktheid inschakelen om door middel van een rijtest de geschiktheid vast te stellen.
 
 ### Hoofdstuk 9. Lichamelijke handicaps
 
