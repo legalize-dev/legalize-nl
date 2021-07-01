@@ -95,23 +95,3 @@ In afwijking van het bovenstaande, inclusief de genoemde uitzonderingen, worden 
 ### § 2. Restitutie
 
 Restitutie van een schuld die voor kwijtschelding in aanmerking zou komen, als omschreven in paragraaf 2, komt op grond van deze regeling in aanmerking indien de schuld na 31 december 2020 is verminderd door aflossing of verrekening.
-
-Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2022-11-05&g=2021-11-20) in verband met enige begripsbepalingen
-
-### § 1. Schulden binnen het SZW-domein
-
-In afwijking van het bovenstaande, inclusief de genoemde uitzonderingen, worden gederfde inkomsten eveneens bekostigd op grond van deze regeling indien het uitblijven van de kwijtschelding of restitutie naar het oordeel van het college tot een onbillijkheid van overwegende aard zou leiden in een individueel geval.
-
-### § 2. Restitutie
-
-Restitutie van een schuld die voor kwijtschelding in aanmerking zou komen, als omschreven in paragraaf 2, komt op grond van deze regeling in aanmerking indien de schuld na 31 december 2020 is verminderd door aflossing of verrekening.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
