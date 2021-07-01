@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -178,7 +178,9 @@ De vice-president van de Raad van State, de president van de Algemene Rekenkamer
 
 ##### Artikel 8
 
-De vergoeding die de staatsraden in buitengewone dienst en de leden in buitengewone dienst van de Algemene Rekenkamer per gehele of gedeeltelijke werkdag ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer, is gelijk aan de vergoeding die raadsheren in buitengewone dienst van de Hoge Raad per zitting ontvangen.
+1. De vergoeding die de staatsraden in buitengewone dienst en de leden in buitengewone dienst van de Algemene Rekenkamer per gehele of gedeeltelijke werkdag ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer, is gelijk aan de vergoeding die raadsheren in buitengewone dienst bij de Hoge Raad als bedoeld in [artikel 5a, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5a), per zitting ontvangen.
+
+2. Het eerste lid is niet van toepassing op staatsraden in buitengewone dienst in de Afdeling bestuursrechtspraak van de Raad van State die reeds uit anderen hoofde in een rechterlijke functie salaris genieten.
 
 ##### Artikel 9
 
@@ -206,9 +208,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2021-07-01&g=2021-07-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2021-01-01&g=2021-01-01), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2021-07-01&g=2021-07-01), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
