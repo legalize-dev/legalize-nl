@@ -4,7 +4,7 @@ identifier: "BWBR0013064"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2020-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013064"
 soort: "wet"
@@ -100,7 +100,7 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn gewone circul
 
 ##### Artikel 6
 
-1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2020-01-01&g=2020-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2021-07-01&g=2021-07-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
 
 2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
 
@@ -108,7 +108,7 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn gewone circul
 
 ##### Artikel 7
 
-Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2020-01-01&g=2020-01-01), geregeld.
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2021-07-01&g=2021-07-01), geregeld.
 
 ##### Artikel 8
 
@@ -118,15 +118,15 @@ Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van 
 
 3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze in beslag genomen. Indien de munten naar het oordeel van die instantie niet vals of vervalst zijn:
 
-- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2020-01-01&g=2020-01-01) de nominale waarde vergoed;
+- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2021-07-01&g=2021-07-01) de nominale waarde vergoed;
 
-- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2020-01-01&g=2020-01-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
+- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2021-07-01&g=2021-07-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
 
 4. Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.
 
 ##### Artikel 9
 
-1. Gewone circulatiemunten, herdenkingsmunten en munten voor verzamelaars die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2020-01-01&g=2020-01-01), aangewezen instantie.
+1. Gewone circulatiemunten, herdenkingsmunten en munten voor verzamelaars die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2021-07-01&g=2021-07-01), aangewezen instantie.
 
 2. De in het eerste lid bedoelde instantie weigert munten in ontvangst te nemen, indien de ontvangst of behandeling daarvan gevaar voor de gezondheid van het behandelend personeel inhoudt.
 
@@ -150,11 +150,9 @@ Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van 
 
 - a. artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artikel betrekking heeft op euromunten;
 
-- b. de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de verordening echtheids- en geschiktheidscontrole euromunten;
+- b. de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de verordening echtheids- en geschiktheidscontrole euromunten.
 
-- c. [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
-
-2. De Nederlandsche Bank N.V. is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen.
+2. De Nederlandsche Bank N.V. is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen en [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 3. Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
