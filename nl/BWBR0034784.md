@@ -4,7 +4,7 @@ identifier: "BWBR0034784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2019-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034784"
 soort: "wet"
@@ -63,7 +63,7 @@ entry_into_force: "2014-02-22"
 
 ##### Artikel 4
 
-1. Bij algemene maatregel van bestuur kan voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, nader worden voorzien in een taakomschrijving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde autoriteiten.
+1. Bij algemene maatregel van bestuur kan voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, nader worden voorzien in een taakomschrijving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten.
 
 2. Bij algemene maatregel van bestuur kunnen voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, regels worden gesteld inzake de onderlinge verhouding tussen de autoriteiten en de verhouding van de autoriteiten met de Europese Commissie. Deze regels kunnen mede betrekking hebben op gegevensuitwisseling.
 
@@ -71,7 +71,7 @@ entry_into_force: "2014-02-22"
 
 1. Indien de noodzaak daartoe voortvloeit uit een EFRO-verordening kan Onze Minister organen of instanties aanwijzen die geen autoriteit zijn binnen een programma maar die anderszins zijn betrokken bij de uitvoering van die verordening of een andere EFRO-verordening.
 
-2. Een orgaan of een instantie als bedoeld in het eerste lid heeft de taken en bevoegdheden die uit een EFRO-verordening voortvloeien. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
+2. Een orgaan of een instantie als bedoeld in het eerste lid heeft de taken en bevoegdheden die uit een EFRO-verordening voortvloeien. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Subsidies
 
@@ -131,7 +131,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. subsidiabiliteit van de kosten van projecten;
 
-- b. de vaststelling van subsidieplafonds of deelplafonds, alsmede omtrent de bevoegdheden ter zake van een of meer autoriteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01);
+- b. de vaststelling van subsidieplafonds of deelplafonds, alsmede omtrent de bevoegdheden ter zake van een of meer autoriteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01);
 
 - c. de activiteiten waarvoor subsidie kan worden verstrekt;
 
@@ -161,15 +161,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Onze Minister, een van Onze andere Ministers, een gemeentebestuur of een provinciebestuur kan zijn bevoegdheid tot het nemen van besluiten inzake subsidieverstrekking in het kader van een programma delegeren aan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01).
+1. Onze Minister, een van Onze andere Ministers, een gemeentebestuur of een provinciebestuur kan zijn bevoegdheid tot het nemen van besluiten inzake subsidieverstrekking in het kader van een programma delegeren aan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01).
 
 2. Een besluit tot delegatie als bedoeld in het eerste lid regelt de gevolgen van de intrekking van dat besluit. Het bevat voorts voorschriften omtrent de verantwoording van het gebruik van de gedelegeerde bevoegdheid.
 
-3. Ten aanzien van de bekendmaking van een besluit tot delegatie zijn
-
-- a. de [artikelen 136 tot en met artikel 138 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136) van overeenkomstige toepassing ten aanzien van een besluit van het provinciebestuur;
-
-- b. de [artikelen 139 tot en met 141 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) van overeenkomstige toepassing ten aanzien van een besluit van het gemeentebestuur.
+3. Op een besluit tot delegatie is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -177,13 +173,13 @@ Voor zover cofinanciering door het Rijk is aan te merken als een specifieke uitk
 
 ##### Artikel 9
 
-Een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) neemt algemene uitgangspunten omtrent de uitoefening van haar bevoegdheden rond subsidieverstrekking die zij vaststelt ingevolge een EFRO-verordening op in een beleidsregel.
+Een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) neemt algemene uitgangspunten omtrent de uitoefening van haar bevoegdheden rond subsidieverstrekking die zij vaststelt ingevolge een EFRO-verordening op in een beleidsregel.
 
 #### § 3.2. Intrekken of wijzigen van subsidie
 
 ##### Artikel 10
 
-1. Voor zover subsidieverstrekking in strijd is met een EFRO-verordening of een andere ingevolge een verdrag voor de staat geldende verplichting kan een daartoe ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) bevoegde autoriteit:
+1. Voor zover subsidieverstrekking in strijd is met een EFRO-verordening of een andere ingevolge een verdrag voor de staat geldende verplichting kan een daartoe ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bevoegde autoriteit:
 
 - a. subsidieverstrekking weigeren;
 
@@ -203,11 +199,11 @@ Een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 11
 
-Met het toezicht op de naleving van een EFRO-verordening en de bij of krachtens deze wet gestelde regels zijn belast de bij besluit van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde autoriteiten aangewezen personen.
+Met het toezicht op de naleving van een EFRO-verordening en de bij of krachtens deze wet gestelde regels zijn belast de bij besluit van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten aangewezen personen.
 
 ##### Artikel 12
 
-1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=4&paragraaf=4.1&artikel=11&z=2019-01-01&g=2019-01-01) bedoelde aanwijzing kan in het kader van de uitvoering van een grensoverschrijdend programma, in een andere lidstaat van de EU werkzame personen betreffen.
+1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=4&paragraaf=4.1&artikel=11&z=2021-07-01&g=2021-07-01) bedoelde aanwijzing kan in het kader van de uitvoering van een grensoverschrijdend programma, in een andere lidstaat van de EU werkzame personen betreffen.
 
 2. Een aanwijzing als bedoeld in het eerste lid, alsmede de daarbij geldende voorwaarden inzake aansturing, werkwijze en verantwoording, behoeven de instemming van het bestuursorgaan of de instantie in de andere lidstaat waarbij de aan te wijzen persoon in dienst is.
 
@@ -219,21 +215,21 @@ Met het toezicht op de naleving van een EFRO-verordening en de bij of krachtens 
 
 ##### Artikel 14
 
-Ten aanzien van personen aan wie ingevolge een grensoverschrijdend programma door een in het buitenland gevestigde autoriteit het uitoefenen van toezicht is opgedragen, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing, voor zover dat toezicht in Nederland wordt uitgeoefend, met dien verstande dat indien de aanwijzing in een andere EU-lidstaat werkzame personen betreft, daarvoor de voorafgaande goedkeuring van Onze Minister is vereist.
+Ten aanzien van personen aan wie ingevolge een grensoverschrijdend programma door een in het buitenland gevestigde autoriteit het uitoefenen van toezicht is opgedragen, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing, voor zover dat toezicht in Nederland wordt uitgeoefend, met dien verstande dat indien de aanwijzing in een andere EU-lidstaat werkzame personen betreft, daarvoor de voorafgaande goedkeuring van Onze Minister is vereist.
 
 #### § 4.2. Inlichtingen en rapportages
 
 ##### Artikel 15
 
-Onze Minister kan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde autoriteiten en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde instanties en organen alle inlichtingen verlangen en inzage vorderen van alle gegevens en bescheiden indien dat voor de vervulling van zijn taak in het kader van de uitvoering van een EFRO-verordening redelijkerwijs nodig is, dan wel indien hij daarover moet kunnen beschikken ten behoeve van de uitvoering van artikel 59 van [verordening nr. 966/2012](32012R0966) van het Europees Parlement en de Raad van de Europese Unie van 25 oktober 2012 tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie en tot intrekking van verordening (EG, Euratom) nr. 1605/2002.
+Onze Minister kan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2021-07-01&g=2021-07-01) bedoelde instanties en organen alle inlichtingen verlangen en inzage vorderen van alle gegevens en bescheiden indien dat voor de vervulling van zijn taak in het kader van de uitvoering van een EFRO-verordening redelijkerwijs nodig is, dan wel indien hij daarover moet kunnen beschikken ten behoeve van de uitvoering van artikel 59 van [verordening nr. 966/2012](32012R0966) van het Europees Parlement en de Raad van de Europese Unie van 25 oktober 2012 tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie en tot intrekking van verordening (EG, Euratom) nr. 1605/2002.
 
 ##### Artikel 16
 
-Onze Minister kan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) opdragen een rapportageplicht op grond van een EFRO-verordening uit te voeren.
+Onze Minister kan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) opdragen een rapportageplicht op grond van een EFRO-verordening uit te voeren.
 
 ##### Artikel 17
 
-Voor zover een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde autoriteit op grond van een EFRO-verordening een rapportage uitbrengt over werkzaamheden van een andere op grond van artikel 3 aangewezen autoriteit, wordt de laatstbedoelde autoriteit gedurende ten minste twee weken in de gelegenheid gesteld haar zienswijze te geven op een ontwerp van de rapportage, tenzij een inzagerecht op grond van een EFRO-verordening niet mogelijk is.
+Voor zover een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteit op grond van een EFRO-verordening een rapportage uitbrengt over werkzaamheden van een andere op grond van artikel 3 aangewezen autoriteit, wordt de laatstbedoelde autoriteit gedurende ten minste twee weken in de gelegenheid gesteld haar zienswijze te geven op een ontwerp van de rapportage, tenzij een inzagerecht op grond van een EFRO-verordening niet mogelijk is.
 
 ### Hoofdstuk 5. Overige bepalingen en overgangs- en slotbepalingen
 
@@ -247,13 +243,13 @@ Wijzigt de Financiële-verhoudingswet.
 
 ##### Artikel 20
 
-In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01), kan voor de periode 2014–2020 als autoriteit worden aangewezen een privaatrechtelijke rechtspersoon die voorafgaand aan die programmaperiode als autoriteit was aangewezen in het kader van de uitvoering van de destijds geldende EFRO-verordeningen.
+In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01), kan voor de periode 2014–2020 als autoriteit worden aangewezen een privaatrechtelijke rechtspersoon die voorafgaand aan die programmaperiode als autoriteit was aangewezen in het kader van de uitvoering van de destijds geldende EFRO-verordeningen.
 
 ##### Artikel 21
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Indien het Staatsblad waarin het koninklijk besluit, bedoeld in het eerste lid, wordt geplaatst wordt uitgegeven na 1 januari 2014, kan in dat besluit worden bepaald dat [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-01-01&g=2019-01-01) terugwerkt uiterlijk tot en met 1 januari 2014.
+2. Indien het Staatsblad waarin het koninklijk besluit, bedoeld in het eerste lid, wordt geplaatst wordt uitgegeven na 1 januari 2014, kan in dat besluit worden bepaald dat [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) terugwerkt uiterlijk tot en met 1 januari 2014.
 
 ##### Artikel 22
 
