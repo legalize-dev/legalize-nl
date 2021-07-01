@@ -4,7 +4,7 @@ identifier: "BWBR0025554"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025554"
 soort: "AMvB"
@@ -62,9 +62,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid geldt niet voor de apparaten die in Nederland worden ingevoerd en waarvan door middel van handelsbescheiden wordt aangetoond dat de apparaten aansluitend worden uitgevoerd naar een andere lidstaat van de Europese Unie.
 
+3. Het is verboden om apparaten die geschikt zijn om de teller van een motorrijtuig stil te zetten of op andere wijze te manipuleren, te vervaardigen, in te voeren, in voorraad te hebben, te koop aan te bieden, af te leveren of te vervoeren.
+
 ##### Artikel 3
 
-Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2021-01-01&g=2021-01-01).
+1. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01).
+
+2. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een apparaat aanwezig is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
@@ -116,7 +120,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 ##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -182,13 +186,13 @@ Vervallen
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld, en:
 
 - a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel; en
 
 - b. sinds de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld.
 
 4. In afwijking van het eerste tot en met derde lid is een keuringsbewijs afgegeven voor een landbouw- of bosbouwtrekker geldig voor de duur van twee jaren.
 
@@ -236,7 +240,7 @@ De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrappor
 
 ##### Artikel 24
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01) is een strafbaar feit.
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01) is een strafbaar feit.
 
 ##### Artikel 25
 
@@ -246,7 +250,7 @@ Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [
 
 ##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2021-01-01&g=2021-01-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) van dit besluit.
 
 ##### Artikel 27
 
@@ -334,11 +338,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23j
 
-De in [artikel 70m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70m) bedoelde categorieën motorrijtuigen zijn motorrijtuigen van de rijbewijscategorie B.
+De in [artikel 70m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70m) bedoelde categorieën motorrijtuigen zijn motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u.
 
 ##### Artikel 23k
 
-Erkende bedrijven verstrekken aan de Dienst Wegverkeer de tellerstand van een motorrijtuig van de rijbewijscategorie B bij:
+1. Erkende bedrijven verstrekken aan de Dienst Wegverkeer de tellerstand van een motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u bij:
 
 - a. opname in de bedrijfsvoorraad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62);
 
@@ -354,13 +358,13 @@ Erkende bedrijven verstrekken aan de Dienst Wegverkeer de tellerstand van een mo
 
 - g. melding van het voorgoed buiten Nederland brengen van een voertuig als bedoeld in [artikel 46, tweede lid, onder b, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
 
-- h. melding dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten gebruik worden gesteld als bedoeld in [artikel 46, tweede lid, onder c, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
+- h. het indienen van een aanvraag van een tenaamstelling als bedoeld in [artikel 46, tweede lid, onder d, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
 
-- i. het indienen van een aanvraag van een tenaamstelling als bedoeld in [artikel 46, tweede lid, onder d, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
+- i. werkzaamheden aan de boordcomputer taxi krachtens het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
 
-- j. werkzaamheden aan de boordcomputer taxi krachtens het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
+- j. onderhoud, reparaties en vernieuwen of wisselen van banden, voor zover deze bedrijfsmatig worden verricht.
 
-- k. onderhoud en reparaties, voor zover deze bedrijfsmatig worden verricht, waarvoor een bedrag van meer dan € 150 verschuldigd is.
+2. Het eerste lid, onder i, is niet van toepassing op motorrijtuigen van de rijbewijscategorieën A, A1 en A2.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -400,7 +404,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage. Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=4a&artikel=25a&z=2021-01-01&g=2021-01-01)
+## Bijlage. Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=4a&artikel=25a&z=2021-07-01&g=2021-07-01)
 
 | **Kalenderjaar datum van eerste toelating** | **Datum tot wanneer artikel 72, eerste lid, van de wet niet van toepassing is** |
 | --- | --- |
