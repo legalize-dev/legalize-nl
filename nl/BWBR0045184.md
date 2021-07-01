@@ -4,7 +4,7 @@ identifier: "BWBR0045184"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-31"
-last_updated: "2021-06-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045184"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ##### Artikel III
 
-1. Deze regeling treedt in werking met ingang van 1 juni 2021, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045184&artikel=I&z=2021-06-01&g=2021-06-01), dat in werking treedt met ingang van 1 juli 2021.
+1. Deze regeling treedt in werking met ingang van 1 juni 2021, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045184&artikel=I&z=2021-07-01&g=2021-07-01), dat in werking treedt met ingang van 1 juli 2021.
 
 2. [Artikel 3.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.20e) en de daarbij behorende [bijlage 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8c) vervallen met ingang van 1 juni 2025.
 
