@@ -4,7 +4,7 @@ identifier: "BWBR0049169"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2021-01-26"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049169"
 soort: "wet"
@@ -78,8 +78,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene douanewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
@@ -113,11 +111,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2024 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
