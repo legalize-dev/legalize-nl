@@ -4,7 +4,7 @@ identifier: "BWBR0042721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042721"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - a. voor afschriften uit een dossier of gedeelte daarvan:
 
-- −. indien de verwerkingstijd minder dan 30 minuten bedraagt: € 15,40 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
+- –. indien een afschrift wordt verstrekt van een gedeponeerd document dat ook via internet beschikbaar is: € 15,40 per afschrift;
 
-- −. indien de verwerkingstijd 30 of meer minuten bedraagt: € 51,30 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
+- –. indien de verwerkingstijd minder dan 30 minuten bedraagt: € 15,40 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
 
-- −. indien een afschrift wordt verstrekt van een gedeponeerd document dat ook via internet beschikbaar is: € 15,40 per afschrift;
+- –. indien de verwerkingstijd 30 of meer minuten bedraagt: € 51,30 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
 
 - b. voor Uittreksels Handelsregister Kamer van Koophandel® op papier: € 15,40 per uittreksel;
 
@@ -84,7 +84,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 1. In dit artikel wordt onder KVK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [13, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
-2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2021-01-01&g=2021-01-01), de volgende tarieven berekend:
+2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2021-07-01&g=2021-07-01), de volgende tarieven berekend:
 
 - a. voor digitaal gewaarmerkte Uittreksels Handelsregister Kamer van Koophandel® in bulk:
 
@@ -122,33 +122,37 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - f. voor KVK Handelsregister bestandsvergelijking en KVK Handelsregister bestandsverrijking op basis van naam/postcode/huisnummer/telefoonnummer en voor zover bekend op basis van KVK-nummer:
 
-- −. proefvalidatie (maximaal 500 records, vast formaat): € 256,50 per opdracht;
+- –. proefvalidatie (maximaal 500 records, vast formaat): € 256,50 per opdracht;
 
-- −. per aanvraag: € 1026,–, alsmede
+- –. per aanvraag: € 1026,–, alsmede
 
-- −. per 1.000 aangeboden records: € 25,65;
+- –. per 10 aangeboden records: € 0,26;
 
-- −. adressen (bestaande uit KVK-nummer en naam, adres en woonplaats): € 0,04 per verstrekt adres;
+- –. adressen (bestaande uit KVK-nummer en naam, adres en woonplaats): € 0,04 per verstrekt adres;
 
-- −. extra rubrieken: € 0,03 per verstrekt gegeven;
+- –. extra rubrieken: € 0,03 per verstrekt gegeven;
+
+- –. verwerkingskosten extra rubriek: € 153,90 per levering per rubriek;
 
 - g. voor KVK Handelsregister mutatieabonnement:
 
-- −. initiële levering bij minder dan 50.000 records (KVK-nummer, naam, adres en woonplaats): € 1026,– per aanvraag en bij 50.000 en meer records: € 0,02 per record;
+- –. initiële levering bij minder dan 50.000 records (KVK-nummer, naam, adres en woonplaats): € 1026,– per aanvraag en bij 50.000 en meer records: € 0,02 per record;
 
-- −. initiële levering namen contactpersonen: € 0,03 per verstrekte naam;
+- –. initiële levering namen contactpersonen: € 0,03 per verstrekte naam;
 
-- −. initiële levering extra rubrieken: € 0,001 per verstrekt gegeven;
+- –. initiële levering extra rubrieken: € 0,01 per 10 verstrekte gegevens;
 
-- −. abonnement bij minder dan 50.000 records (KVK-nummer en naam, adres, en woonplaats): € 1026,– per abonnement per jaar en bij 50.000 of meer records: € 0,02 per record per jaar;
+- –. abonnement bij minder dan 50.000 records (KVK-nummer en naam, adres, en woonplaats): € 1026,– per abonnement per jaar en bij 50.000 of meer records: € 0,02 per record per jaar;
 
-- −. abonnement namen contactpersonen: € 0,03 per verstrekte naam per jaar;
+- –. abonnement namen contactpersonen: € 0,03 per verstrekte naam per jaar;
 
-- −. abonnement extra rubrieken: € 0,001 per verstrekt gegeven per jaar;
+- –. abonnement extra rubrieken: € 0,01 per 10 verstrekte gegevens per jaar;
 
-- −. abonnementstoeslag in verband met levering op weekbasis: € 1539,– per abonnement per jaar, alsmede € 0,03 per record per jaar;
+- –. abonnementstoeslag in verband met levering op weekbasis: € 1539,– per abonnement per jaar, alsmede € 0,03 per record per jaar;
 
-- −. uitbreiding of inkrimping abonnement: € 256,50 per verzoek;
+- –. uitbreiding of inkrimping abonnement: € 256,50 per verzoek;
+
+- –. verwerkingskosten extra rubriek: € 153,90 per levering per rubriek;
 
 - h. voor KVK Handelsregister adressen offline uit te voeren door de Kamer van Koophandel:
 
@@ -157,6 +161,8 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 - −. adressen (bestaande uit KVK-nummer en naam, adres en woonplaats): € 0,04 per verstrekt adres;
 
 - −. extra rubrieken: € 0,03 per verstrekt gegeven;
+
+- –. verwerkingskosten extra rubriek: € 153,90 per levering per rubriek;
 
 - i. abonnement via internet voor KVK Handelsregister zoeken op natuurlijk persoon op grond van [artikel 28, derde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28): € 1026,– per abonnement per jaar;
 
@@ -176,17 +182,35 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - –. voor KVK Handelsregister vestiging: € 1,80 per gegevenslevering;
 
+- –. voor Uittreksel Handelsregister Kamer van Koophandel®, digitaal gewaarmerkt: € 7,70 per gegevenslevering;
+
 - –. voor KVK uittreksel UBO-register: € 2,50 per gegevenslevering;
 
 - –. voor KVK bevoegdheden (RDW): € 1,35 per gegevenslevering;
 
-- –. voor KVK bevoegdheden (eHerkenning): € 1,35 per gegevenslevering;
+- –. voor KVK bevoegdheden: € 1,35 per gegevenslevering;
 
-- –. voor Jaarrekening: € 3,05 per jaarrekening;
+- –. voor Jaarrekening: € 3,15 per jaarrekening;
 
-- l. voor Application Programming Interface Search (KVK Handelsregister search), verstrekt via internet:€ 5,15 per maand per aansluiting en € 0,008 per aanvraag;
+- –. voor Overzicht van deponeringen: € 2,35 per overzicht;
 
-- m. voor Application Programming Interface Profile (KVK Handelsregister profile), verstrekt via internet: € 5,15 per maand per aansluiting en € 0,016 per aanvraag.
+- l. voor Application Programming Interface (KVK API), verstrekt via internet: € 5,15 per maand per aansluiting, alsmede
+
+- –. KVK Handelsregister search: € 0,008 per aanvraag;
+
+- –. KVK Handelsregister profile: € 0, 016 per aanvraag;
+
+- –. KVK Handelsregister basisprofiel: € 0, 016 per aanvraag;
+
+- –. KVK Handelsregister vestigingsprofiel: € 0, 016 per aanvraag;
+
+- m. voor KVK Handelsregister tellingen, offline uit te voeren door de Kamer van Koophandel:
+
+- –. basis per aanvraag: € 82,10;
+
+- –. standaard per aanvraag: € 256,50;
+
+- –. uitgebreid per aanvraag: € 256,50.
 
 3. Voor het verstrekken via de downloadservice van de Kamer van Koophandel van een overzicht, bedoeld in het tweede lid, onderdelen b tot en met j, wordt € 11,30 per download berekend.
 
@@ -209,5 +233,99 @@ Deze regeling treedt in werking met ingang van 1 januari 2020.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Financiële regeling handelsregister 2019.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier) is de volgende vergoeding verschuldigd:
+
+- –. € 65,– voor de eerste Legal Entity Identifier Inschrijving; en
+
+- –. € 40,– voor de jaarlijkse Legal Entity Identifier Verlenging.
+
+##### Artikel 5a
+
+De wijze van inzien of verstrekking van gegevens, bedoeld in [artikel 2, zesde lid, van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2), is vastgesteld in de bijlage bij deze regeling.
+
+## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=5a&z=2021-07-01&g=2021-07-01)
+
+**De wijze van inzien of verstrekking van gegevens, bedoeld in artikel 2, zesde lid, van het Financieel besluit handelsregister 2014**
+
+Het betreft informatieproducten die voor alle klanten, 24 uur en 7 dagen per week, online opvraagbaar zijn:
+
+- –. via toegangscode en wachtwoord, en/of
+
+- –. via een Application Programming Interface (KVK API), en/of
+
+- –. via een aansluiting op KVK Dataservice.
+
+- 1. Uittreksel Handelsregister Kamer van Koophandel®
+
+- 2. Uittreksel Handelsregister Kamer van Koophandel® digitaal gewaarmerkt
+
+- 3. KVK Handelsregister bedrijfsprofiel
+
+- 4. KVK Handelsregister concernrelaties
+
+- 5. Inzien van jaarrekeningen of andere gedeponeerde documenten
+
+- 6. Inzien van een gedeponeerd document gewaarmerkt
+
+- 7. Inzien van Overzicht deponeringen
+
+- 8. Inzien van ten hoogste drie van de meest recente boekjaren jaarrekeningen (gestandaardiseerd)
+
+- 9. KVK Handelsregister zoeken op natuurlijke persoon via Internet
+
+- 10. KVK dataservice:
+
+- –. KVK Dataservice Inschrijving
+
+- –. KVK Dataservice Vestiging
+
+- –. KVK Dataservice Bevoegdheden
+
+- –. Overzicht deponeringen
+
+- –. Jaarrekening
+
+- 11. KVK API:
+
+- –. KVK Handelsregister search
+
+- –. KVK Handelsregister profile
+
+- –. KVK Handelsregister basisprofiel
+
+- –. KVK Handelsregister vestigingsprofiel
+
+- 12. KVK Handelsregister tellingen
+
+Het betreft producten die alleen op aanvraag besteld kunnen worden.
+
+Bij de eerste aanvraag maakt de Kamer van Koophandel eenmalig het product aan. Iedere volgende identieke aanvraag valt onder het abonnement inputfinanciering. Voor iedere volgende aanvraag die afwijkt van de oorspronkelijke aanvraag, brengt de Kamer aanvraagkosten in rekening.
+
+Levering via downloadservice van de Kamer van Koophandel valt eveneens binnen het abonnement inputfinanciering.
+
+- 13. Uittreksels Handelsregister Kamer van Koophandel®, digitaal gewaarmerkt
+
+- 14. KVK Handelsregister concernrelatietabel met inbegrip van vermelding relatieverwijzing enig aandeelhouder, bestuurder of aansprakelijkheid
+
+- 15. KVK Handelsregister functionarissentabel en KVK Handelsregister aansprakelijkheidstabel met inbegrip van relatie verwijzing en contactgegevens (KVK-nummer en naam, adres en woonplaats)
+
+- 16. Jaarrekeningen in bulk met inbegrip van de originele jaarrekening, niet digitaal gewaarmerkt
+
+- 17. KVK Handelsregister bestandsvergelijking en KVK Handelsregister bestandsverrijking (inclusief aantal records, rubrieken en adressen), met inbegrip van proefvalidatie (maximaal 500 records, vast formaat)
+
+- 18. KVK Handelsregister mutatieabonnement (inclusief aantal records, rubrieken en adressen)
+
+- –. met inbegrip van de eerste twee verzoeken tot uitbreiding of inkrimping van een abonnement (per jaar)
+
+- –. met uitzondering van levering op weekbasis
+
+- 19. KVK Handelsregister adressen offline, met inbegrip van adressen (KVK-nummer + NAW) en extra rubrieken (bijvoorbeeld telefoonnummer)
+
+- 20. Jaarrekening selecties (gestandaardiseerd; losse posten van een jaarrekening)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
