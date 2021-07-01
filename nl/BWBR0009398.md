@@ -4,7 +4,7 @@ identifier: "BWBR0009398"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009398"
 soort: "AMvB"
@@ -56,7 +56,9 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. de wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
 
-- b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1).
+- b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1);
+
+- c. **college:** het college van burgemeester en wethouders van de gemeente waar de gedetineerde ingezetene was of overwegend verbleef voorafgaand aan de detentie dan wel van de gemeente waarin de gedetineerde zich na afloop van zijn detentie wil vestigen.
 
 ### Hoofdstuk 2. Opperbeheer inrichtingen en regime
 
@@ -72,11 +74,15 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 1. Het dagprogramma voor een inrichting of afdeling wordt bepaald in de huisregels en beslaat de periode tussen uitsluiting van de gedetineerden in de ochtend en de insluiting van de gedetineerden voor de nacht.
 
-2. In het regime van algehele gemeenschap, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=20), duurt het dagprogramma minimaal 59 uren per week en worden daarin tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.
+2. De directeur draagt in het gemeenschapsregime, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=20), zorg voor:
 
-3. In het regime van beperkte gemeenschap, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=21), worden tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.
+- a. een basisprogramma van 42,5 uur per week, waarin ten minste 22,5 uur per week aan activiteiten en bezoek worden aangeboden;
 
-4. Onze Minister stelt nadere regels omtrent de verschillende regimes die in de daarbij aangeduide inrichtingen gelden.
+- b. een plusprogramma van 59 uur per week, waarin ten minste 28 uur per week aan activiteiten en bezoek worden aangeboden.
+
+3. De aangeboden activiteiten in het basis- en in het plusprogramma kunnen per individuele gedetineerde verschillen.
+
+4. Onze Minister kan nadere regels stellen over de vaststelling van het basis- en plusprogramma. Hierbij kan in uitzonderlijke omstandigheden tijdelijk worden afgeweken van het bepaalde in het tweede lid.
 
 ##### Artikel 4
 
@@ -88,9 +94,9 @@ Vervallen
 
 1. Een penitentiair programma omvat minimaal 26 uur per week aan activiteiten waaraan door de deelnemer aan dat penitentiair programma wordt deelgenomen.
 
-2. De activiteiten in een penitentiair programma zijn gericht op het aanleren van bepaalde sociale vaardigheden, het vergroten van de kans op arbeid na invrijheidstelling, het bieden van onderwijs, het bieden van bijzondere zorg aan de deelnemer zoals verslavingszorg of geestelijke gezondheidszorg, of geven op andere wijze invulling aan de voorbereiding van de terugkeer in de maatschappij.
+2. De activiteiten in een penitentiair programma zijn gericht op het aanleren van bepaalde sociale vaardigheden, het vergroten van de kans op arbeid na invrijheidstelling, het bieden van onderwijs, het bieden van bijzondere zorg aan de deelnemer zoals ambulante verslavingszorg of ambulante geestelijke gezondheidszorg, of geven op andere wijze invulling aan de voorbereiding van de terugkeer in de maatschappij.
 
-3. Van een penitentiair programma wordt een schriftelijke omschrijving gemaakt. Deze omvat in ieder geval een beschrijving van de activiteiten, een regeling van de verantwoordelijkheid voor de uitvoering van het programma, de begeleiding van en het toezicht op de deelnemer aan het penitentiair programma, de melding van bijzondere voorvallen en de wijze en de frequentie van rapporteren over de deelnemer aan het penitentiair programma.
+3. Van een penitentiair programma wordt een schriftelijke omschrijving gemaakt. Deze omvat in ieder geval een beschrijving van de activiteiten, de verhouding tot de in het detentie-en re-integratieplan neergelegde doelen, een regeling van de verantwoordelijkheid voor de uitvoering van het programma, de begeleiding van en het toezicht op de deelnemer aan het penitentiair programma, de melding van bijzondere voorvallen en de wijze en de frequentie van rapporteren over de deelnemer aan het penitentiair programma.
 
 4. Onze Minister kan nadere regels stellen over de procedure tot erkenning van een penitentiair programma en over de kwaliteitseisen waaraan een penitentiair programma moet voldoen.
 
@@ -162,7 +168,7 @@ Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen b
 
 ##### Artikel 10
 
-1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2021-01-01&g=2021-01-01).
+1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2021-07-01&g=2021-07-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=70) en [71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71) zijn van overeenkomstige toepassing.
 
@@ -306,7 +312,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 23
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-01-01&g=2021-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-07-01&g=2021-07-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
@@ -324,11 +330,11 @@ Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of 
 
 ##### Artikel 26
 
-De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2021-01-01&g=2021-01-01).
+De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 27
 
-Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2021-01-01&g=2021-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
+Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2021-07-01&g=2021-07-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### Hoofdstuk 7. Beroep tegen medisch handelen
 
@@ -376,7 +382,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - c. registratiekaarten;
 
-- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-01-01&g=2021-01-01) genoemde bescheiden, gerangschikt per inrichting.
+- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-07-01&g=2021-07-01) genoemde bescheiden, gerangschikt per inrichting.
 
 2. Het dossier wordt in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -418,7 +424,9 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - k. kopieën van risicotaxaties;
 
-- l. kopieën van delictanalyses.
+- l. kopieën van delictanalyses;
+
+- m. het detentie- en re-integratieplan en de daarop aangebrachte aanpassingen.
 
 2. De overige op de gedetineerde betrekking hebbende stukken worden verzameld in een inrichtingsdossier. Zij worden gerangschikt naar onderwerp in chronologische volgorde.
 
@@ -430,7 +438,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien een gedetineerde wordt overgebracht naar een instelling voor de verlening van forensische zorg, als bedoeld in [artikel 1.1, eerste lid, onder f, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), zendt de directeur de voor een goede en veilige verlening van de forensische zorg noodzakelijk geachte bescheiden daaruit aan het hoofd of de geneesheer-directeur van die instelling.
 
-4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01).
+4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01).
 
 5. Bij invrijheidstelling, ontvluchting of overlijden van een gedetineerde zendt de directeur het penitentiair dossier naar Onze Minister.
 
@@ -442,7 +450,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien de gedetineerde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw wordt gedetineerd vervalt de bewaartermijn.
 
-4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-01-01&g=2021-01-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
+4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-07-01&g=2021-07-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
 
 ##### Artikel 40
 
@@ -502,7 +510,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 44c
 
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2021-01-01&g=2021-01-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
+[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2021-07-01&g=2021-07-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
 
 ##### Artikel 44d
 
@@ -534,7 +542,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het verblijfsplan bestrijkt de wijze van tenuitvoerlegging van de maatregel. Het plan wordt in zijn geheel of in gedeelten vastgesteld door de directeur. Het verblijfsplan voor de laatste fase van de maatregel buiten de inrichting wordt vastgesteld door de directeur en het college van burgemeester en wethouders.
 
-2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2021-01-01&g=2021-01-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
+2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2021-07-01&g=2021-07-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
 
 ##### Artikel 44h
 
@@ -542,7 +550,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 
-3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
+3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 44i
 
@@ -558,7 +566,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. de voorwaarden die zijn verbonden aan deelneming aan het programma, de afspraken met betrokkene over deelneming daaraan en de gevolgen van het niet nakomen van die afspraken;
 
-- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2021-01-01&g=2021-01-01).
+- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2021-07-01&g=2021-07-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde afspraken houden in ieder geval in dat betrokkene zich schriftelijk bereid verklaart deel te nemen aan het programma en te voldoen aan de daaraan verbonden voorwaarden.
 
@@ -636,7 +644,7 @@ De trajectcoördinator heeft tot taak:
 
 ##### Artikel 44n
 
-1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2021-01-01&g=2021-01-01), bedoelde voorwaarden kan de directeur beslissen tot:
+1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2021-07-01&g=2021-07-01), bedoelde voorwaarden kan de directeur beslissen tot:
 
 - a. het geven van een waarschuwing aan betrokkene;
 
@@ -650,11 +658,11 @@ Van de overtreding van de voorwaarden en een beslissing als bedoeld in het eerst
 
 ##### Artikel 44o
 
-De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2021-01-01&g=2021-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2021-01-01&g=2021-01-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
+De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2021-07-01&g=2021-07-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
 
 ##### Artikel 44p
 
-1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2021-01-01&g=2021-01-01).
+1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2021-07-01&g=2021-07-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), en [68 tot en met 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68) zijn van overeenkomstige toepassing.
 
@@ -688,7 +696,7 @@ Daarbij wordt in ieder geval aandacht besteed aan de volgende aspecten ten aanzi
 
 2. De secretaris van de beklag- of beroepscommissie stelt op basis van de in het eerste lid bedoelde bepalingen de hoogte van de beloning en vergoeding vast. Met de uitbetaling is de directeur belast.
 
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
+### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
 
 ##### Artikel 46
 
@@ -748,7 +756,7 @@ Een ieder die betrokken is bij de uitvoering van de wet en dit besluit en daarbi
 
 ##### Artikel 59
 
-De Gevangenismaatregel wordt ingetrokken.
+Dit besluit berust mede op de [artikelen 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4), en [18a, zesde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18a).
 
 ##### Artikel 60
 
@@ -778,7 +786,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
 
-### Hoofdstuk 5a. Toezicht op telefoongesprekken
+### Hoofdstuk 4b. Detentie- en re-integratieplan
 
 ### Hoofdstuk 7. Beroep tegen medisch handelen
 
@@ -834,7 +842,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 12. Wijziging andere regelgeving
 
-### Hoofdstuk 12. Wijziging andere regelgeving
+### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -858,7 +866,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. of er overeenstemming over het geneeskundig behandelingsplan is.
 
-2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), betrokken.
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), betrokken.
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
@@ -882,7 +890,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 22d
 
@@ -916,7 +924,7 @@ De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de
 
 ##### Artikel 22f
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-01-01&g=2021-01-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-01-01&g=2021-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2021-01-01&g=2021-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-07-01&g=2021-07-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2021-07-01&g=2021-07-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
 
 ##### Artikel 22g
 
@@ -928,11 +936,11 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 
 ### Hoofdstuk 6. Geestelijke verzorging
 
-### Hoofdstuk 7. Beroep tegen medisch handelen
+### Hoofdstuk 5a. Toezicht op telefoongesprekken
 
 ### Hoofdstuk 8. Dossiers
 
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
+### Hoofdstuk 8. Dossiers
 
 ### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
 
@@ -948,9 +956,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 18e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18e), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
 
-2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2021-01-01&g=2021-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2021-01-01&g=2021-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2021-01-01&g=2021-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2021-01-01&g=2021-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2021-07-01&g=2021-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2021-07-01&g=2021-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2021-07-01&g=2021-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2021-07-01&g=2021-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2021-07-01&g=2021-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
-3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
 
 ##### Artikel 20b
 
@@ -969,6 +977,102 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
 
 ### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
+
+### Hoofdstuk 12. Wijziging andere regelgeving
+
+### Hoofdstuk 13. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
+
+### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
+
+##### Artikel 20c
+
+Onze Minister kan nadere regels stellen over de inrichting van het detentie- en re-integratieplan, bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18a).
+
+##### Artikel 20d
+
+1. Voor zover dit noodzakelijk is ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan van de gedetineerde kunnen gegevens, waaronder persoonsgegevens betreffende de gezondheid, over de essentiële voorwaarden voor deelname aan het maatschappelijk leven aan elkaar worden verstrekt door de directeur, de reclassering en het college.
+
+2. De in het eerste lid bedoelde gegevens betreffen:
+
+- a. persoonsidentificerende gegevens:
+
+- 1°. de geslachtsnaam;
+
+- 2°. voornamen;
+
+- 3°. adres;
+
+- 4°. geboorteplaats en geboortedatum;
+
+- 5°. nationaliteit;
+
+- 6°. persoonsidentificerende nummers.
+
+- b. de datum van aanvang van de vrijheidsbeneming en van de invrijheidstelling.
+
+- c. de vaststelling dat de gedetineerde al dan niet beschikt over een geldig identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en, indien hij over een dergelijk document beschikt, wat daarvan de geldigheidsduur is.
+
+- d. het behoud of het verkrijgen van huisvesting of onderdak na detentie, zoals:
+
+- 1°. de inschrijving als woningzoekende;
+
+- 2°. de woonsituatie vóór detentie;
+
+- 3°. het bestaan van een betalingsachterstand bij een huurovereenkomst.
+
+- e. het verkrijgen van een inkomen uit betaald werk of uitkering na detentie, zoals:
+
+- 1°. het arbeidsverleden;
+
+- 2°. eerdere uitkeringen of werkinkomen en de hoogte daarvan;
+
+- 3°. het opleidingsniveau en eventueel lopende opleidingstrajecten.
+
+- f. gegevens als bedoeld in [artikel 8 van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8) ten behoeve van de toeleiding naar schuldhulpverlening.
+
+- g. de ondersteuning van de gedetineerde bij het opschorten en weer opstarten, of aanvragen van een zorgverzekering, zoals:
+
+- 1°. het hebben van een zorgverzekering vóór detentie;
+
+- 2°. de naam van de zorgverzekeraar;
+
+- 3°. het polisnummer behorende bij de verzekering.
+
+- h. het behoud of de versterking van een positief sociaal netwerk, met inbegrip van een hulpvraag namens de gedetineerde voor ondersteuning in de thuissituatie na detentie en een hulpvraag namens de gedetineerde aan de gemeente voor ondersteuning van gezinsleden tijdens de detentie.
+
+3. De directeur, de reclassering en het college verstrekken elkaar, indien zorg of maatschappelijke ondersteuning tijdens of na detentie nodig is, de door hen verwerkte persoonsgegevens betreffende de gezondheid als bedoeld in het eerste lid, die noodzakelijk zijn voor het organiseren van deze zorg of maatschappelijke ondersteuning. Die gegevens kunnen betrekking hebben op:
+
+- a. eerdere en lopende zorgtrajecten in het kader van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+
+- b. de naam van de zorgaanbieder die de trajecten uitvoert of bij de eerdere uitvoering betrokken is geweest;
+
+- c. de gemeente waar de zorg of maatschappelijke ondersteuning is of wordt verleend.
+
+4. Ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan, kunnen de directeur, de reclassering en het college overleggen over het inzetten van reclasseringstoezicht, het uitbrengen van advies en de inzet van interventies voor de invulling en uitvoering van het detentie- en re-integratieplan. Hiertoe kunnen gegevens worden verstrekt over:
+
+- a. eerdere reclasseringscontacten, het detentieverloop en de detentiefasering;
+
+- b. de motivatie van de gedetineerde;
+
+- c. het gedrag van de gedetineerde tijdens detentie.
+
+### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
+
+### Hoofdstuk 6. Geestelijke verzorging
+
+### Hoofdstuk 7. Beroep tegen medisch handelen
+
+### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
 
 ### Hoofdstuk 12. Wijziging andere regelgeving
 
