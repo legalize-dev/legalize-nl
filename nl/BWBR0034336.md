@@ -4,7 +4,7 @@ identifier: "BWBR0034336"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-05"
-last_updated: "2019-10-30"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034336"
 soort: "ministeriele-regeling"
@@ -133,7 +133,7 @@ Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een
 
 - c. middelen op een G-rekening als bedoeld in [artikel 1, onder k, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1).
 
-2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 0,75% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 250.000 bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 3,75 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
+2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner dan of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 2,0% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 1 miljoen bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 10 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
 
 ##### Artikel 8. Borgstelling
 
@@ -141,7 +141,7 @@ De minister van Financiën kan een borgstelling voor derden toestaan op middelen
 
 ##### Artikel 9. Uitzonderingen
 
-1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2019-10-30&g=2019-10-30), indien sprake is van een van de volgende omstandigheden:
+1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2021-07-01&g=2021-07-01), indien sprake is van een van de volgende omstandigheden:
 
 - a). Het openbaar lichaam beschikt niet over een eigen bankrekening;
 
@@ -155,7 +155,7 @@ De minister van Financiën kan een borgstelling voor derden toestaan op middelen
 
 2. Middelen op een direct opvraagbare spaarrekening waarvoor is bepaald dat over een minimum saldo gedurende een bepaalde periode de financiële instelling waarbij de spaarrekening wordt aangehouden een bonusrente vergoedt (bonusspaarrekeningen) zijn uitgezonderd van de verplichting om deze in ’s Rijks schatkist aan te houden tot 31 december 2013.
 
-3. De minister van Financiën kan een openbaar lichaam dat naar verwachting kort na de inwerkingtreding van deze regeling ophoudt te bestaan een uitzondering verlenen als bedoeld in [artikel 9, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=9&z=2019-10-30&g=2019-10-30). Daarnaast kan de minister van Financiën de middelen van dit openbaar lichaam voor een bepaalde periode uitzonderen van de verplichting om deze in ’s Rijks schatkist aan te houden.
+3. De minister van Financiën kan een openbaar lichaam dat naar verwachting kort na de inwerkingtreding van deze regeling ophoudt te bestaan een uitzondering verlenen als bedoeld in [artikel 9, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=9&z=2021-07-01&g=2021-07-01). Daarnaast kan de minister van Financiën de middelen van dit openbaar lichaam voor een bepaalde periode uitzonderen van de verplichting om deze in ’s Rijks schatkist aan te houden.
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -165,7 +165,7 @@ Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de 
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden.
 
-## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=5&z=2019-10-30&g=2019-10-30) van de Regeling schatkistbankieren decentrale overheden
+## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=5&z=2021-07-01&g=2021-07-01) van de Regeling schatkistbankieren decentrale overheden
 
 ### De modelovereenkomst
 
@@ -230,7 +230,7 @@ De agent
 | Looptijden: | 2 dagen t/m 30 jaar |
 | Renteniveaus: | Zoals bepaald in de regeling |
 | Renteconventie: | <= 1 jaar: dagtelling op basis van actual/360 > 1 jaar: dagtelling op basis van actual/actual |
-| Vervroegde opname: | Tegen marktwaarde, zoals bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2019-10-30&g=2019-10-30), van de regeling. |
+| Vervroegde opname: | Tegen marktwaarde, zoals bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2021-07-01&g=2021-07-01), van de regeling. |
 | Kosten: | Geen |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
