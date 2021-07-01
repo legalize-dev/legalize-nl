@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2021-05-26"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -190,7 +190,7 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten.
 
-3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2021-05-26&g=2021-05-26) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2021-05-26&g=2021-05-26) zijn van overeenkomstige toepassing.
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2021-07-01&g=2021-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -260,7 +260,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2021-05-26&g=2021-05-26), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2021-05-26&g=2021-05-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2021-05-26&g=2021-05-26), [7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2021-05-26&g=2021-05-26), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2021-05-26&g=2021-05-26), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2021-05-26&g=2021-05-26).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2021-07-01&g=2021-07-01), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2021-07-01&g=2021-07-01), [7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2021-07-01&g=2021-07-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 21
 
@@ -344,7 +344,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13
 
-1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2021-05-26&g=2021-05-26), kunnen ten laste worden gebracht van de aanvrager van het document.
+1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01), kunnen ten laste worden gebracht van de aanvrager van het document.
 
 2. Bij de houder van de erkenning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.
 
@@ -352,7 +352,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 19a
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichting.
+Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
