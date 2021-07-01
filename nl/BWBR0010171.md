@@ -4,7 +4,7 @@ identifier: "BWBR0010171"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2017-09-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010171"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. de minister: de Minister van Veiligheid en Justitie;
+- a. de minister: de Minister voor Rechtsbescherming;
 
 - b. wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
 
@@ -74,33 +74,31 @@ In deze regeling wordt verstaan onder:
 
 - m. verlof: het, al dan niet onder begeleiding of bewaking, tijdelijk verlaten van de inrichting voor één van de in deze regeling genoemde doeleinden.
 
-- n. algemeen verlof: verlof als bedoeld in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=14&z=2017-09-01&g=2017-09-01) van deze regeling;
+- n. re-integratieverlof: verlof als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=1&artikel=14&z=2021-07-01&g=2021-07-01);
 
-- o. regimesgebonden verlof: verlof als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=19&z=2017-09-01&g=2017-09-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=20&z=2017-09-01&g=2017-09-01) van deze regeling;
+- o. extramurale arbeid: arbeid, verricht buiten de inrichting ten behoeve van een derde, alsmede het volgen van een dagopleiding buiten de inrichting;
 
-- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2017-09-01&g=2017-09-01) van deze regeling;
+- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2021-07-01&g=2021-07-01) van deze regeling;
 
-- q. re-integratieverlof voor levenslanggestraften: verlof als bedoeld in [artikel 20d](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3b&artikel=20d&z=2017-09-01&g=2017-09-01) van deze regeling;
+- q. re-integratieverlof voor levenslanggestraften: verlof als bedoeld in [artikel 20d](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3b&artikel=20d&z=2021-07-01&g=2021-07-01) van deze regeling;
 
 - r. levenslanggestrafte: een persoon ten aanzien van wie de tenuitvoerlegging van een levenslange gevangenisstraf plaatsvindt;
 
-- s. detentie- en re-integratieplan: detentie- en re-integratieplan als bedoeld in [artikel 1c van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=1c);
+- s. detentie- en re-integratieplan: detentie- en re-integratieplan als bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18a);
 
-- t. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2017-09-01&g=2017-09-01) van deze regeling;
+- t. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2021-07-01&g=2021-07-01) van deze regeling;
 
-- u. vervolgverlof: een verlof dat volgt op een zonder incidenten verlopen eerder algemeen verlof;
+- u. inrichtingsarts: de aan de inrichting verbonden arts of tandarts;
 
-- v. inrichtingsarts: de aan de inrichting verbonden arts of tandarts;
+- v. verlofadres: het adres waar de gedetineerde tijdens zijn verlof verblijft en bereikbaar is;
 
-- w. verlofadres: het adres waar de gedetineerde tijdens zijn verlof verblijft en bereikbaar is;
-
-- x. betrokkene: betrokkene als bedoeld in [artikel 44b, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=44b).
+- w. betrokkene: betrokkene als bedoeld in [artikel 44b, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=44b).
 
 ##### Artikel 2. Verzoek, ontvangst en beslissing
 
 1. De directeur neemt het verzoek om verlof in ontvangst.
 
-2. De minister beslist over verzoeken om verlof in de gevallen bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=17&z=2017-09-01&g=2017-09-01), [20d](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3b&artikel=20d&z=2017-09-01&g=2017-09-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2017-09-01&g=2017-09-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2017-09-01&g=2017-09-01). In de overige gevallen beslist de directeur namens de minister.
+2. De selectiefunctionaris beslist namens de minister over verzoeken om verlof in de gevallen bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=2&artikel=18&z=2021-07-01&g=2021-07-01), [20a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=3&artikel=20a&z=2021-07-01&g=2021-07-01), [20d](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3b&artikel=20d&z=2021-07-01&g=2021-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2021-07-01&g=2021-07-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2021-07-01&g=2021-07-01). In de overige gevallen beslist de directeur namens de minister.
 
 ##### Artikel 3. Inlichtingen en adviezen
 
@@ -111,6 +109,10 @@ In deze regeling wordt verstaan onder:
 3. De directeur kan het Adviescollege levenslanggestraften om advies vragen over toekenning van re-integratieverlof aan een levenslanggestrafte.
 
 4. De directeur kan zich tevens laten adviseren door de reclassering, de politie of hulpverleners. Inlichtingen van niet aan de inrichting verbonden artsen, psychiaters en psychologen kunnen slechts worden ingewonnen met schriftelijke toestemming van de betrokkene.
+
+5. De directeur vraagt de selectiefunctionaris om advies in geval hij bevoegd is namens de minister te beslissen op een verzoek van een gedetineerde om re-integratieverlof.
+
+6. Indien de selectiefunctionaris namens de minister bevoegd is de beslissing op het verzoek om verlof te nemen, stuurt de directeur het verzoek met zijn advies onverwijld naar de minister.
 
 ##### Artikel 4. Weigeringsgronden
 
@@ -142,7 +144,7 @@ Het verlof wordt geweigerd in geval van:
 
 ##### Artikel 5. Voorwaarden
 
-1. Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het algemeen, regimesgebonden of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden en in geval van de toepassing van [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5a&artikel=40a&z=2017-09-01&g=2017-09-01) kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.
+1. Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het re-integratieverlof of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden en in geval van de toepassing van [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5a&artikel=40a&z=2021-07-01&g=2021-07-01) kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.
 
 2. Bij de verlening van het verlof kunnen bijzondere voorwaarden worden gesteld, die het gedrag van de gedetineerde betreffen.
 
@@ -162,7 +164,7 @@ Het verlof wordt geweigerd in geval van:
 
 ##### Artikel 8. Tenuitvoerlegging straf tijdens verlof
 
-Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2017-09-01&g=2017-09-01), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
+Gedurende het re-integratieverlof het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2021-07-01&g=2021-07-01), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
 
 ##### Artikel 9. Overplaatsing
 
@@ -216,89 +218,131 @@ neerde dient aan te tonen dat hij om medische redenen niet in staat is terug te 
 
 ### Hoofdstuk 2. Algemeen verlof
 
-##### Artikel 14. Voorwaarden
+##### Artikel 14. Re-integratieverlof
 
-1. Een gedetineerde komt eerst voor algemeen verlof in aanmerking wanneer hij, al dan niet onherroepelijk, is veroordeeld tot een vrijheidsstraf en:
+1. Re-integratieverlof omvat:
 
-- a. ingeval de veroordeling onherroepelijk is, hij ten minste een derde deel van de onvoorwaardelijk opgelegde straf heeft ondergaan dan wel, ingeval de veroordeling nog niet onherroepelijk is, de duur van de in voorlopige hechtenis doorgebrachte tijd ten minste gelijk is aan een derde deel van de onvoorwaardelijk opgelegde straf; en
+- a. kortdurend re-integratieverlof;
 
-- b. zijn strafrestant nog ten minste drie maanden en ten hoogste een jaar bedraagt.
+- b. langdurend re-integratieverlof;
 
-2. Bij het bepalen van het strafrestant wordt ook de vervangende hechtenis op grond van de [artikelen 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) en [24d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24d) en de gijzeling op grond van [artikel 28, eerste lid, Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=28) administratieve handhaving verkeersvoorschriften meegeteld.
+- c. re-integratieverlof voor extramurale arbeid.
 
-3. Algemeen verlof wordt niet verleend aan:
+2. Bij het aanmerken als één gevangenisstraf worden vervangende hechtenis als bedoeld in [artikel 24c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) en gijzeling als bedoeld in de [artikelen 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) en [6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) niet meegewogen.
 
-- a. gedetineerden die verblijven in een inrichting waar het verlof deel uitmaakt van het regime;
+##### Artikel 15. Algemene voorwaarden
 
-- b. gedetineerden aan wie tevens de maatregel van terbeschikkingstelling met dwangverpleging is opgelegd;
+1. Re-integratieverlof wordt alleen verleend ten behoeve van een re-integratiedoel dat is vastgelegd in het detentie- en re-integratieplan.
 
-- c. gedetineerden die geselecteerd zijn voor, dan wel geplaatst zijn in, een extra beveiligde of uitgebreid beveiligde inrichting of afdeling;
+2. Bij de beslissing tot het verlenen van re-integratieverlof aan een gedetineerde die al dan niet onherroepelijk is veroordeeld, worden in ieder geval de volgende aspecten betrokken:
 
-- d. gedetineerden die geplaatst zijn in een Elektronisch Detentiehuis als bedoeld in artikel 2a van de Regeling selectie, plaatsing en overplaatsing gedetineerden.
+- a. de mate waarin en de wijze waarop de gedetineerde door zijn gedrag gedurende de gehele detentie heeft doen blijken van een bijzondere geschiktheid tot terugkeer in de samenleving;
 
-##### Artikel 15. Duur
+- b. de mogelijkheid om aan het verlof verbonden risico’s te beperken en te beheersen;
 
-Het algemeen verlof wordt verleend voor een duur van maximaal 60 uur.
+- c. de belangen van slachtoffers, nabestaanden en andere relevante personen in ieder geval met betrekking tot het eerste verzoek om onbegeleid re-integratieverlof ten aanzien van een gedetineerde die is veroordeeld voor een misdrijf, als bedoeld in [artikel 51e, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51e);
 
-##### Artikel 16. Aantal
+- d. de door de gedetineerde geleverde inspanningen om door het strafbare feit veroorzaakte schade te vergoeden.
 
-1. Het aantal algemene verloven waarom een gedetineerde mag verzoeken bedraagt maximaal de helft van het aantal maanden strafrestant, waarbij een maand wordt gesteld op 30 dagen met afronding van halven en minder naar beneden. Om te bevorderen dat de verloven zoveel mogelijk gelijkmatig over het strafrestant verspreid worden, stelt de directeur een verlofschema op. De laatste vijf dagen van de detentie vindt geen verlof plaats.
+##### Artikel 16. Geen re-integratieverlof
 
-2. Wordt als gevolg van mutaties in de detentiegevens de ontslagdatum van de gedetineerde gewijzigd, dan wordt een nieuw verlofschema opgesteld.
+Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2021-07-01&g=2021-07-01) komt een gedetineerde niet in aanmerking voor re-integratieverlof indien:
 
-##### Artikel 17. Beslissingsbevoegdheid
+- a. een van de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=1&artikel=15&z=2021-07-01&g=2021-07-01), genoemde aspecten het verlenen van re-integratieverlof verhindert;
 
-1. De minister beslist over een eerste verzoek om algemeen verlof indien:
+- b. hij is geplaatst in het basisprogramma;
 
-- a. het een gedetineerde betreft die al dan niet onherroepelijk, is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar of die veroordeeld is wegens een delict waarbij sprake was van een grote maatschappelijke onrust; zijn evenwel zowel het openbaar ministerie als de directeur van mening dat het verlof niet moet worden verleend, dan doet de directeur de aanvraag af;
+- c. hij is gedegradeerd;
 
-- b. het openbaar ministerie, al dan niet verplicht geraadpleegd, anders dan de directeur van mening is dat het verlof niet moet worden verleend.
+- d. hij niet mee wil werken aan een betalingsregeling naar aanleiding van:
 
-2. In alle overige gevallen wordt de beslissing omtrent het verlenen van algemeen verlof door de directeur genomen.
+- 1°. een bij veroordeling of strafbeschikking opgelegde verplichting tot betalen van een geldboete of een geldbedrag of een schadevergoedingsmaatregel als bedoeld in [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), heeft opgelegd;
 
-3. De directeur beslist namens de minister over verzoeken om vervolgverlof. De directeur neemt een verzoek om vervolgverlof in behandeling nadat de gedetineerde een eerste algemeen verlof heeft verkregen en dit verlof goed is verlopen. Incidenten bij of tijdens het vorige algemeen verlof zijn voor de directeur aanleiding om het daarop volgende verzoek voor verlof af te wijzen.
+- 2°. een verplichting tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e);
 
-##### Artikel 18. Gewijzigde omstandigheden
+- 3°. de verplichting tot betaling van een administratieve sanctie en de administratiekosten, inclusief eventuele verhogingen en kosten van verhaal, op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581);
 
-In verband met gewijzigde omstandigheden kan de directeur een reeds verleend algemeen verlof of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan stellen. Indien de beslissing is genomen door de minister stelt de directeur hem onverwijld van de gewijzigde omstandigheden in kennis.
+- e. een levenslange gevangenisstraf aan hem is opgelegd;
+
+- f. de tenuitvoerlegging van een tevens aan hem opgelegde maatregel van terbeschikkingstelling met verpleging van overheidswege nog moet aanvangen;
+
+- g. hij is geplaatst in:
+
+- 1°. een inrichting voor stelselmatige daders als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=10a);
+
+- 2°. de extra beveiligde inrichting als bedoeld in [artikel 6 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=6);
+
+- 3°. een Terroristen Afdeling als bedoeld in [artikel 20a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=20a).
+
+##### Artikel 17. Gewijzigde omstandigheden
+
+1. In verband met gewijzigde omstandigheden kan de directeur namens de minister een reeds verleend re-integratieverlof of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan verbinden.
+
+2. Indien het besluit tot re-integratieverlof is genomen door de selectiefunctionaris namens de minister, stelt de directeur hem onverwijld van de gewijzigde omstandigheden en zijn beslissing in kennis.
+
+##### Artikel 18. Beslissing tot kortdurend en langdurend re-integratieverlof
+
+1. Op een eerste verzoek van een gedetineerde om kortdurend of langdurend re-integratieverlof beslist de selectiefunctionaris namens de minister indien het een gedetineerde betreft die, al dan niet onherroepelijk, is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar tenzij de selectiefunctionaris wil afwijken van het advies van de directeur bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=3&z=2021-07-01&g=2021-07-01). In dat geval beslissen de directeur van de divisie Individuele Zaken en de directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid tezamen namens de minister.
+
+2. De directeur is bevoegd om te besluiten op verzoeken om kortdurend en langdurend re-integratieverlof van gedetineerden met:
+
+- a. een gevangenisstraf tot maximaal twee jaar, en
+
+- b. een gevangenisstraf langer dan twee jaar indien het eerste re-integratieverlof zonder incidenten is verlopen.
+
+3. Indien de directeur wil afwijken van het advies van de selectiefunctionaris bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=3&z=2021-07-01&g=2021-07-01), dan beslissen de directeur van de divisie Individuele Zaken en de directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid tezamen namens de minister.
+
+4. Een volgend verzoek van een gedetineerde om kortdurend of langdurend re-integratieverlof wordt pas in behandeling genomen indien het vorige re-integratieverlof is geëvalueerd.
 
 ### Hoofdstuk 3. Regimesgebonden verlof
 
-##### Artikel 19. Voorwaarden
+##### Artikel 19. Het kortdurend re-integratieverlof
 
-1. De directeur kan aan gedetineerden die verblijven in een inrichting waar vierwekelijks verlof deel uitmaakt van het regime, eenmaal per vier weken regimesgebonden verlof verlenen.
+1. Kortdurend re-integratieverlof duurt niet langer dan noodzakelijk voor het realiseren van het doel waarvoor dit verlof wordt verleend en begint en eindigt op dezelfde dag.
 
-2. Het verlof, bedoeld in het eerste lid, vindt volgens een door de directeur, na overleg met de gedetineerde, opgesteld verlofschema plaats in het weekend of gedurende een periode waartoe een algemeen erkende feestdag behoort. De directeur kan in uitzonderlijke omstandigheden anders bepalen.
+2. In geval van een straf tot en met zes jaar kan kortdurend re-integratieverlof op zijn vroegst worden verleend indien:
 
-3. Aan gedetineerden die verblijven in een inrichting waar wekelijks verlof deel uitmaakt van het regime wordt ieder weekend regimesgebonden verlof verleend.
+- 1°. een periode van minimaal zes weken van de gevangenisstraf is ondergaan dan wel, ingeval de veroordeling nog niet onherroepelijk is, de duur van de in voorlopige hechtenis doorgebrachte tijd ten minste gelijk is aan zes weken, en
 
-4. De maximale duur van het verlof, bedoeld in het eerste lid, is 52 uur. Het mag tijdens het verblijf in de inrichting tweemaal tot 76 uur verlengd worden. Aan gedetineerden die zich door goed gedrag onderscheiden, kan de directeur daarenboven een verlengd verlof verlenen voor de weekends van Pasen en Pinksteren. Voorts kan hij erin toestemmen dat het laatste verlof van een jaar en het eerste verlof van het daaropvolgende jaar desgewenst kan worden verleend als een verlof voor Kerst respectievelijk voor Nieuwjaar, waarbij een van beide verloven verlengd mag worden.
+- 2°. er sprake is van een periode van maximaal achttien maanden voorafgaande aan het moment waarop de voorwaardelijke invrijheidstelling of de invrijheidstelling aanvangt.
 
-5. De maximale duur van het verlof, bedoeld in het derde lid, is 52 uur. Daarenboven kan de directeur verlof verlenen voor de algemeen erkende feestdagen als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3).
+3. In geval van een straf van langer dan zes jaar kan kortdurend re-integratieverlof op zijn vroegst worden verleend gedurende een periode van maximaal zes maanden voorafgaande aan het moment waarop een gedetineerde in aanmerking komt voor langdurend re-integratieverlof.
 
-6. De directeur beslist over weigering of verplaatsing van regimesgebonden verlof. Na overleg met de gedetineerde stelt de directeur een verlofschema op.
+4. In afwijking van het bepaalde in het tweede en het derde lid als ook in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=1&artikel=16&z=2021-07-01&g=2021-07-01) kan een gedetineerde in geval van zwaarwegende redenen die zien op zijn re-integratie, in aanmerking komen voor kortdurend re-integratieverlof.
 
-7. In een beperkt beveiligde inrichting wordt in het laatste weekend van de detentie geen regimesgebonden verlof verleend, behoudens bijzondere gevallen.
+##### Artikel 20. Langdurend re-integratieverlof
 
-8. Ten aanzien van het verlof, bedoeld in het eerste lid dan wel het derde lid wordt advies door de reclassering uitgebracht.
+1. Langdurend re-integratieverlof eindigt niet op dezelfde dag waarop het is aangevangen en duurt maximaal een aaneengesloten periode van 204 uur met minimaal een overnachting en ten hoogste acht overnachtingen per maand.
 
-##### Artikel 20. Uitgesloten van regimesgebonden verlof
+2. De directeur stelt per kalenderjaar het maximaal aantal verlofuren vast waarop de gedetineerde dat kalenderjaar aanspraak kan maken en neemt dit op in het detentie- en re-integratieplan. Indien zich een wijziging in de duur van de straf of straffen voordoet, past de directeur het aantal verlofuren aan. Verlofuren kunnen niet van het ene naar het andere kalenderjaar worden doorgeschoven.
 
-1. Aan gedetineerden die nog geen vier werkweken verblijven in een beperkt beveiligde inrichting wordt geen regimesgebonden verlof verleend, tenzij het gaat om gedetineerden die in het kader van detentiefasering in de inrichting worden geplaatst. In dat geval kan een reeds verleend algemeen verlof dat nog niet heeft plaatsgevonden, worden omgezet in een regimesgebonden verlof.
+3. In geval van een gevangenisstraf tot en met zes jaar komt een gedetineerde op zijn vroegst in aanmerking voor langdurend re-integratieverlof indien:
 
-2. Aan gedetineerden die verblijven op een normaal beveiligde afdeling van een beperkt beveiligde inrichting, wordt geen regimesgebonden verlof verleend.
+- 1°. ten minste vier maanden van de onvoorwaardelijk opgelegde straf is ondergaan dan wel, ingeval de veroordeling nog niet onherroepelijk is, de duur van de in voorlopige hechtenis doorgebrachte tijd ten minste gelijk is aan vier maanden;
 
-3. Aan gedetineerden die deelname weigeren, dan wel hun deelname weigeren voort te zetten aan een traject in het kader van het programma Terugdringen Recidive wordt geen regimesgebonden verlof verleend.
+- 2°. ten minste de helft van de gevangenisstraf is ondergaan, en
 
-##### Artikel 20a
+- 3°. er sprake is van een periode van maximaal twaalf maanden voorafgaand aan het moment waarop de voorwaardelijke invrijheidstelling of de invrijheidstelling kan aanvangen.
 
-Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2a), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=9&z=2017-09-01&g=2017-09-01) niet van toepassing.
+4. In geval van een gevangenisstraf langer dan zes jaar wordt het aantal maanden dat een gedetineerde op zijn vroegst in aanmerking komt voor langdurend re-integratieverlof voorafgaand aan het moment waarop de voorwaardelijke invrijheidstelling of de invrijheidstelling kan aanvangen, berekend volgens de volgende formule:
+
+twaalf maanden + (anderhalve maand x het aantal volle jaren boven 6 jaar gevangenisstraf).
+
+5. Het totaal aantal verlofuren langdurend re-integratieverlof waarop een gedetineerde in een kalenderjaar aanspraak heeft, is gelijk aan het aantal volle maanden waarvoor hij in aanmerking komt voor langdurend re-integratieverlof berekend op basis van het derde en vierde lid, vermenigvuldigd met de factor 72. In geval van een gebroken getal wordt naar boven afgerond.
+
+6. Het aantal verlofuren wordt geleidelijk in relatie tot het re-integratiedoel over het kalenderjaar verdeeld. Het langdurend re-integratieverlof wordt op aanvraag van de gedetineerde aaneengesloten toegekend. Meer dan een langdurend re-integratieverlof per maand is niet toegestaan. De directeur draagt er zorg voor dat het aantal opgenomen verlofuren per kalenderjaar in het detentie- en re-integratieplan wordt vastgelegd.
+
+7. Indien de voorwaardelijke invrijheidstelling niet wordt verleend, bepaalt de directeur het aantal verlofuren langdurend re-integratieverlof door het aantal volle maanden van de resterende detentie te vermenigvuldigen met de factor 72. Het eerste, tweede en zesde lid zijn van toepassing.
+
+##### Artikel 20a. Beslissing voor re-integratieverlof voor extramurale arbeid
+
+Op een verzoek van een gedetineerde om re-integratieverlof voor extramurale arbeid beslist de selectiefunctionaris namens de minister.
 
 ### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
 ##### Artikel 20b
 
-[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2017-09-01&g=2017-09-01), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
+[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2021-07-01&g=2021-07-01), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
 
 ##### Artikel 20c
 
@@ -318,7 +362,7 @@ Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die teven
 
 2. Incidenteel verlof kan indien nodig onder begeleiding of bewaking plaatsvinden.
 
-3. Incidenteel verlof wordt niet verleend indien de gedetineerde binnen een maand na de beoogde verlofdatum in aanmerking komt voor invrijheidstelling of regimesgebonden of algemeen verlof en het beoogde bezoek in dat kader kan worden afgelegd.
+3. Incidenteel verlof wordt niet verleend indien de gedetineerde binnen een maand na de beoogde verlofdatum in aanmerking komt voor invrijheidstelling of re-integratieverlof en het beoogde bezoek in dat kader kan worden afgelegd.
 
 4. Bij de bepaling van de duur van het incidenteel verlof wordt in ieder geval rekening gehouden met de benodigde reistijd en beveiliging. Het incidenteel verlof eindigt op de dag waarop het is aangevangen. Indien de benodigde reistijd dat niet toelaat eindigt het in ieder geval de daarop volgende dag.
 
@@ -384,15 +428,11 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 
 ##### Artikel 30. Studie, opleiding en examens
 
-1. Incidenteel verlof in verband met studie of vakopleiding kan slechts worden verleend indien de studie of vakopleiding voorafgaand aan de detentie is aangevangen, uitzicht bestaat op een spoedige afronding en de gedetineerde zelfstandig kan reizen.
-
-2. Incidenteel verlof in verband met deelname aan examens kan slechts worden verleend indien de gedetineerde zelfstandig kan reizen of een passend beveiligingsniveau kan worden gewaarborgd.
+Vervallen
 
 ##### Artikel 31. Voorbereiding op invrijheidstelling
 
-1. Incidenteel verlof kan worden verleend om de gedetineerde in de gelegenheid te stellen, praktische voorbereidingen op zijn invrijheidstelling te treffen.
-
-2. Incidenteel verlof als bedoeld in het vorige lid wordt slechts verleend indien de invrijheidstelling binnen drie maanden te verwachten valt en de voorbereidingen niet op een andere wijze kunnen worden getroffen.
+Vervallen
 
 ##### Artikel 32. Beslissingsbevoegdheid
 
@@ -424,7 +464,7 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 
 - l. gedetineerden die, al dan niet onherroepelijk, zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan twee jaar;
 
-- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2017-09-01&g=2017-09-01), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
+- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2021-07-01&g=2021-07-01), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
 
 ##### Artikel 33. Gewijzigde omstandigheden
 
@@ -442,7 +482,7 @@ Bij het bepalen van de duur van de strafonderbreking wordt rekening gehouden met
 
 ##### Artikel 36. Bezoek
 
-Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2017-09-01&g=2017-09-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2017-09-01&g=2017-09-01). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
+Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2021-07-01&g=2021-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37. Medische en therapeutische redenen
 
@@ -482,15 +522,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden de strafduur en het strafrestant voor de toepassing van deze regeling berekend op grond van de veroordeling waartegen het rechtsmiddel is aangewend.
+Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, wordt voor het bepalen van het moment waarop vrijheden op grond van deze regeling kunnen worden toegekend, uitgegaan van de veroordeling waartegen het rechtsmiddel is aangewend.
 
-### Hoofdstuk 2. Algemeen verlof
+### Hoofdstuk 2. Re-integratieverlof
 
 ### Hoofdstuk 3. Regimesgebonden verlof
 
 ### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
-### Hoofdstuk 3b. Verlof ten behoeve van de re-integratie van een levenslanggestrafte
+### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
 ### Hoofdstuk 5. Strafonderbreking
 
@@ -508,7 +548,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Aan de strafonderbreking wordt de voorwaarde verbonden dat de vreemdeling niet naar Nederland terugkeert. Indien de vreemdeling de voorwaarde, bedoeld in het derde lid, niet naleeft, wordt de tenuitvoerlegging van de straf hervat.
 
-5. De [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2017-09-01&g=2017-09-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=40&z=2017-09-01&g=2017-09-01) zijn van toepassing.
+5. De [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2021-07-01&g=2021-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=40&z=2021-07-01&g=2021-07-01) zijn van toepassing.
 
 ### Hoofdstuk 5a. Strafonderbreking vreemdelingen zonder rechtmatig verblijf in Nederland
 
@@ -520,7 +560,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. In zijn verzoek maakt de levenslanggestrafte duidelijk op welke wijze het verlof de in het detentie- en re-integratieplan opgenomen re-integratiedoelen ondersteunt.
 
-3. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2017-09-01&g=2017-09-01) wordt het re-integratieverlof voor levenslanggestraften geweigerd in geval van:
+3. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2021-07-01&g=2021-07-01) wordt het re-integratieverlof voor levenslanggestraften geweigerd in geval van:
 
 - a. een verzoek om re-integratieverlof voor een levenslanggestrafte die niet is toegelaten tot de re-integratiefase;
 
@@ -536,11 +576,41 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. In verband met gewijzigde omstandigheden kan de directeur een reeds verleend verlof of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan stellen. De directeur stelt de minister onverwijld van de gewijzigde omstandigheden in kennis.
 
-7. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=31&z=2017-09-01&g=2017-09-01) is niet van toepassing voor levenslanggestraften.
-
 ### Hoofdstuk 4. Incidenteel verlof
 
 ### Hoofdstuk 5. Strafonderbreking
+
+### Hoofdstuk 6. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. Kortdurend en langdurend re-integratieverlof
+
+#### Paragraaf 3. Re-integratieverlof voor extramurale arbeid
+
+##### Artikel 20ab. Re-integratieverlof voor extramurale arbeid
+
+1. Re-integratieverlof voor extramurale arbeid kan worden verleend voor de duur van minimaal vier weken en van maximaal twaalf maanden. In het detentie- en re-integratieplan wordt de duur van het re-integratieverlof voor extramurale arbeid vastgelegd.
+
+2. Re-integratieverlof voor extramurale arbeid kan op zijn vroegst worden verleend:
+
+- a. bij een gevangenisstraf langer dan zes maanden, en
+
+- b. gedurende ten hoogste een zesde deel van de opgelegde straf voorafgaand aan het moment waarop de gedetineerde in aanmerking kan komen voor de voorwaardelijke invrijheidstelling dan wel de invrijheidstelling.
+
+3. Indien de maximale periode van twaalf maanden re-integratieverlof voor extramurale arbeid is verlopen en een voorwaardelijke invrijheidstelling niet aanvangt, kan de selectiefunctionaris op verzoek van de gedetineerde namens de minister besluiten de duur van de extramurale arbeid met maximaal 24 maanden te verlengen. Bij dit besluit worden in ieder geval de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&paragraaf=1&artikel=15&z=2021-07-01&g=2021-07-01), genoemde aspecten betrokken.
+
+4. Een gedetineerde van wie het re-integratieverlof voor extramurale arbeid door eigen toedoen wordt beëindigd, komt hiervoor gedurende drie maanden niet in aanmerking.
+
+### Hoofdstuk 3b. Verlof ten behoeve van de re-integratie van een levenslanggestrafte
+
+### Hoofdstuk 4. Incidenteel verlof voor humanitaire doeleinden
+
+### Hoofdstuk 5. Strafonderbreking
+
+### Hoofdstuk 5a. Strafonderbreking vreemdelingen zonder rechtmatig verblijf in Nederland
 
 ### Hoofdstuk 6. Overgangsbepaling, inwerkingtreding en citeertitel
 
