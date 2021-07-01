@@ -77,11 +77,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 7. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-Besluit:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
