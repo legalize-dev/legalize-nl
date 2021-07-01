@@ -1,0 +1,87 @@
+---
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 november 2021, nr. 2021-0000049505, houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor de bekostiging van de kwijtschelding van gemeentelijke belastingen van gedupeerden door de toeslagenaffaire (Regeling specifieke uitkering kwijtschelding gemeentelijke belastingen)"
+identifier: "BWBR0045917"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-12"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045917"
+soort: "ministeriele-regeling"
+stam_id: "16156553"
+version_id: "29007482"
+internal_id: "C41061431"
+label_id: "16085104"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045917/2025-03-12/0"
+intitule_bron: "Stcrt.2021-47680"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-25"
+intitule_published: "2021-11-29"
+intitule_in_force: "2021-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28632"
+original_signed_date: "2022-10-20"
+original_published_date: "2022-10-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-28632"
+entry_into_force_date: "2022-10-20"
+jci_1_3: "jci1.3:c:BWBR0045917&z=2025-03-12&g=2025-03-12"
+jci_1_0: "1.0:c:BWBR0045917&g=2025-03-12"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering kwijtschelding gemeentelijke belastingen"
+signed_date: "2022-10-20"
+entry_into_force: "2022-10-20"
+---
+# Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 november 2021, nr. 2021-0000049505, houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor de bekostiging van de kwijtschelding van gemeentelijke belastingen van gedupeerden door de toeslagenaffaire (Regeling specifieke uitkering kwijtschelding gemeentelijke belastingen)
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- **college:** college van burgemeester en wethouders;
+
+- **gedupeerde:** persoon die door de Belastingdienst/Toeslagen is aangemerkt als gedupeerde als bedoeld in het [Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0045192);
+
+- **gemeentelijke belastingen:** gemeentelijke belastingen als bedoeld in [hoofdstuk XV, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=2) en [3, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=3) alsmede belastingen waarvan de heffing krachtens andere wetten door de gemeente geschiedt;
+
+- **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- **toeslagpartner:** persoon die door de Belastingdienst/Toeslagen is aangemerkt als toeslagpartner als bedoeld in het [Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0045192).
+
+##### Artikel 2. Verstrekking van een specifieke uitkering
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3. Hoogte van de specifieke uitkering
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 4. Procedure tot vaststelling van de uitkering
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5. Verantwoording
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5a
+
+Deze regeling berust op [artikel 7.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=7.2).
+
+##### Artikel 6. Inwerkingtreding
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 7. Citeertitel
+
+Dit onderdeel is nog niet inwerking getreden
+
+Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
+
+Besluit:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
