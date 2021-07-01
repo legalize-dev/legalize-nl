@@ -4,7 +4,7 @@ identifier: "BWBR0047156"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047156"
 soort: "AMvB"
@@ -44,8 +44,6 @@ Wijzigt het Besluit algemene rechtspositie politie.
 
 Wijzigt het Besluit bezoldiging politie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit medaille trouwe en langdurige dienst Nederlandse politie.
@@ -71,15 +69,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 15 juni 2022, nr. 4032201;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 juli 2022, No. W16.22.00068/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 25 augustus 2022, nr. 4131971;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
