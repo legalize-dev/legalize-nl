@@ -4,7 +4,7 @@ identifier: "BWBR0039567"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-06-24"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039567"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **oplaadpunt:** een aansluiting voor het opladen van een elektrisch voertuig of wisselen van een batterij van een elektrisch voertuig;
 
-- **motorvoertuigen:** motorvoertuigen als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1);
+- **motorvoertuigen:** motorrijtuigen als bedoeld in [artikel 1, onderdeel c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
 - **publiek toegankelijk oplaad- of tankpunt:** oplaad- of tankpunt dat op niet-discriminerende basis toegang verleent aan gebruikers in de gehele Unie;
 
@@ -132,7 +132,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 6
 
-Bij ministeriële regeling kunnen regels worden gesteld over informatie met betrekking tot na 18 november 2016 op de markt gebrachte motorvoertuigen die wordt aangeboden:
+1. Bij ministeriële regeling kunnen regels worden gesteld over informatie met betrekking tot na 18 november 2016 op de markt gebrachte motorvoertuigen die wordt aangeboden:
 
 - a. door fabrikanten van motorvoertuigen, op het motorvoertuig en in motorvoertuighandleidingen;
 
@@ -140,9 +140,11 @@ Bij ministeriële regeling kunnen regels worden gesteld over informatie met betr
 
 - c. door verkopers van motorvoertuigen, bij verkooppunten van motorvoertuigen.
 
+2. Bij ministeriële regeling kunnen regels worden gesteld over het ter beschikking stellen van gegevens over publiek toegankelijke tankpunten en oplaadpunten voor alternatieve brandstoffen.
+
 ##### Artikel 7
 
-Het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2017-06-24&g=2017-06-24).
+Het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 8
 
