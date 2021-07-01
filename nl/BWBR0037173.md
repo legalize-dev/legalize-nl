@@ -4,7 +4,7 @@ identifier: "BWBR0037173"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-05-26"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037173"
 soort: "wet"
@@ -45,6 +45,8 @@ entry_into_force: "2016-01-01"
 
 - –. **accommodatie:** een door een zorgaanbieder voor het leveren van zorg bestemde ruimte;
 
+- –. **Adviescommissie Kwaliteit:** Adviescommissie Kwaliteit, genoemd in [artikel 59b, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b);
+
 - –. **alternatieve-zorgaanbieder:** een solistisch werkende, niet-geregistreerde zorgverlener die andere zorg levert, dan wel een instelling die uitsluitend door niet-geregistreerde zorgverleners andere zorg doet verlenen;
 
 - –. **andere zorg:** handelingen op het gebied van de individuele gezondheidszorg als bedoeld in [artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), niet zijnde Wlz-zorg of Zvw-zorg, alsmede handelingen met een ander doel dan het bevorderen of bewaken van de gezondheid van de cliënt;
@@ -52,6 +54,8 @@ entry_into_force: "2016-01-01"
 - –. **calamiteit:** een niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van de zorg en die tot de dood van een cliënt of een ernstig schadelijk gevolg voor een cliënt heeft geleid;
 
 - –. **cliënt:** een natuurlijke persoon die zorg vraagt of aan wie zorg wordt verleend;
+
+- –. **collectieve zorguitgaven:** uitgaven voor Zvw-zorg die behoort tot de zorgplicht van een zorgverzekeraar of uitgaven voor Wlz-zorg;
 
 - –. **dossier:** de schriftelijk of elektronisch vastgelegde gegevens met betrekking tot de verlening van zorg aan een cliёnt;
 
@@ -70,6 +74,16 @@ entry_into_force: "2016-01-01"
 - –. **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
 - –. **klager:** de persoon die een klacht heeft ingediend;
+
+- –. **kwaliteitsstandaard:** richtlijn, module, norm, zorgstandaard dan wel organisatiebeschrijving, die:
+
+- a. betrekking heeft op het gehele zorgproces of een deel van een zorgproces;
+
+- b. vastlegt wat noodzakelijk is om vanuit het perspectief van de cliënt goede zorg te verlenen; en
+
+- c. overeenkomstig [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11a&z=2021-07-01&g=2021-07-01) in het openbaar register is opgenomen;
+
+- –. **meetinstrument:** middel waarmee een indicatie kan worden verkregen van de kwaliteit van de geleverde zorg die in het openbaar register is opgenomen;
 
 - –. **melding:** een schriftelijk of elektronisch bericht over:
 
@@ -93,11 +107,19 @@ entry_into_force: "2016-01-01"
 
 - –. **niet-geregistreerde zorgverlener:** een zorgverlener die niet staat ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), noch een beroep uitoefent waarvan de opleiding krachtens [artikel 34, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) is geregeld of aangewezen;
 
-- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport of Onze Minister voor Medische Zorg;
+
+- –. **openbaar register:** openbaar register als bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11a&z=2021-07-01&g=2021-07-01);
+
+- –. **professionele standaard:** geheel van private normen en regels, medisch wetenschappelijke inzichten en ervaringen dat invulling geeft aan het professioneel handelen van zorgverleners of zorgaanbieders;
 
 - –. **solistisch werkende zorgverlener:** een zorgverlener die, anders dan in dienst of onmiddellijk of middellijk in opdracht van een instelling beroepsmatig zorg verleent;
 
+- –. **tripartiete partijen:** organisaties van cliënten, zorgaanbieders of zorgverleners en zorgverzekeraars of Wlz-uitvoerders;
+
 - –. **vertegenwoordiger:** de persoon of personen die een zorgaanbieder op grond van enige wettelijke bepaling in plaats van of naast de cliënt moet betrekken bij de nakoming van verplichtingen jegens de cliënt;
+
+- –. **Wlz-uitvoerder:** Wlz-uitvoerder als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1);
 
 - –. **Wlz-zorg:** zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
@@ -105,7 +127,13 @@ entry_into_force: "2016-01-01"
 
 - –. **zorgaanbieder:** een instelling dan wel een solistisch werkende zorgverlener;
 
-- –. **zorgverlener:** een natuurlijke persoon die beroepsmatig zorg verleent.
+- –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+
+- –. **Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+
+- –. **zorgverlener:** een natuurlijke persoon die beroepsmatig zorg verleent;
+
+- –. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
 - –. **Zvw-zorg:** zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet.
 
@@ -113,7 +141,7 @@ entry_into_force: "2016-01-01"
 
 3. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat deze wet niet van toepassing is ten aanzien van doventolkzorg, farmaceutische zorg, hulpmiddelenzorg, verstrekking van verpleegartikelen en vervoer als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-4. Op zorg voor zover deze betreft handelingen ter beoordeling van de gezondheidstoestand of medische begeleiding van een cliënt, verricht in opdracht van een ander dan die cliënt in verband met de vaststelling van aanspraken of verplichtingen, de toelating tot een verzekering of voorziening, of de beoordeling van de geschiktheid voor een opleiding, een arbeidsverhouding of de uitvoering van bepaalde werkzaamheden, zijn [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=10&z=2021-05-26&g=2021-05-26), en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&z=2021-05-26&g=2021-05-26) niet van toepassing.
+4. Op zorg voor zover deze betreft handelingen ter beoordeling van de gezondheidstoestand of medische begeleiding van een cliënt, verricht in opdracht van een ander dan die cliënt in verband met de vaststelling van aanspraken of verplichtingen, de toelating tot een verzekering of voorziening, of de beoordeling van de geschiktheid voor een opleiding, een arbeidsverhouding of de uitvoering van bepaalde werkzaamheden, zijn [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&z=2021-07-01&g=2021-07-01) niet van toepassing.
 
 5. Deze wet is niet van toepassing in justitiële inrichtingen en instellingen voor de verpleging van ter beschikking gestelden voor zover daar een bijzondere wettelijke regeling geldt of de justitiële setting zich daartegen verzet.
 
@@ -123,9 +151,23 @@ entry_into_force: "2016-01-01"
 
 8. Een zorgverzekeraar als bedoeld in [artikel 1 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) of [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) is voor de toepassing van deze wet slechts zorgaanbieder voor zover hij zorg doet verlenen door zorgverleners die bij hem in dienst zijn.
 
-### Hoofdstuk 2. Goede zorg
+8. Een onderdeel van de professionele standaard respectievelijk een voorgedragen kwaliteitsstandaard heeft voor de toepassing van deze wet mogelijke substantiële financiële gevolgen voor de collectieve zorguitgaven indien:
+
+- a. sprake is van:
+
+- 1°. een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners;
+
+- 2°. een verhoging van de kwalificaties van de in te zetten zorgverleners; of
+
+- 3°. een nieuwe wijze van zorgverlening of een andere organisatie van het zorgproces waarbij bouwkundige, ruimtelijke, technische of organisatorische aanpassingen nodig zijn waarvoor een financiële investering nodig is; en
+
+- b. dat onderdeel respectievelijk die voorgedragen kwaliteitsstandaard breed toepasbaar is vanwege de vormen van zorg, het aantal zorgaanbieders of zorgverleners of cliënten waarop dat onderscheidenlijk die betrekking heeft.
+
+9. Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het achtste lid. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 2. Goede zorg
+
+### Hoofdstuk 2. Goede zorg en openbare registers
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
@@ -151,9 +193,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onder goede zorg wordt verstaan zorg van goede kwaliteit en van goed niveau:
 
-- a. die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht is, tijdig wordt verleend, en is afgestemd op de reële behoefte van de cliënt,
+- a. die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht is, tijdig wordt verleend, en is afgestemd op de reële behoefte van de cliënt;
 
-- b. waarbij zorgverleners handelen in overeenstemming met de op hen rustende verantwoordelijkheid, voortvloeiende uit de professionele standaard, waaronder de kwaliteitsstandaard, bedoeld in [artikel 1, onderdeel z, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), en
+- b. waarbij zorgaanbieders en zorgverleners handelen in overeenstemming met de op hen rustende verantwoordelijkheid, voortvloeiende uit de professionele standaard en de kwaliteitsstandaarden; en
 
 - c. waarbij de rechten van de cliënt zorgvuldig in acht worden genomen en de cliënt ook overigens met respect wordt behandeld.
 
@@ -183,7 +225,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de bij de
 
 - a. regels worden gesteld met betrekking tot het gebruik en periodieke kwaliteits- en veiligheidscontroles van bij of krachtens die maatregel aan te wijzen apparatuur die bij de zorgverlening wordt gebruikt, alsmede
 
-- b. indien het kwaliteitsniveau van de zorg dit vereist, de bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26) gestelde regels nader worden omschreven.
+- b. indien het kwaliteitsniveau van de zorg dit vereist, de bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01) gestelde regels nader worden omschreven.
 
 ##### Artikel 6
 
@@ -201,9 +243,9 @@ De zorgaanbieder die zorg verleent welke verblijf van de cliënt in een accommod
 
 - a. het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van de zorg op zodanige wijze dat de gegevens voor eenieder vergelijkbaar zijn met gegevens van andere zorgaanbieders van dezelfde categorie;
 
-- b. het aan de hand van de gegevens, bedoeld in onderdeel a, op systematische wijze toetsen of de wijze van uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26) leidt tot goede zorg;
+- b. het aan de hand van de gegevens, bedoeld in onderdeel a, op systematische wijze toetsen of de wijze van uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01) leidt tot goede zorg;
 
-- c. het op basis van de uitkomst van de toetsing, bedoeld in onderdeel b, zo nodig veranderen van de wijze waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26) wordt uitgevoerd.
+- c. het op basis van de uitkomst van de toetsing, bedoeld in onderdeel b, zo nodig veranderen van de wijze waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01) wordt uitgevoerd.
 
 ##### Artikel 8
 
@@ -215,7 +257,7 @@ De zorgaanbieder die zorg verleent welke verblijf van de cliënt in een accommod
 
 ##### Artikel 9
 
-1. Voor zover dit noodzakelijk is voor de goede werking van de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg, worden in een register als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7&z=2021-05-26&g=2021-05-26), zonder toestemming van de betrokkene, persoonsgegevens verwerkt betreffende intern gemelde incidenten, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming.
+1. Voor zover dit noodzakelijk is voor de goede werking van de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg, worden in een register als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-07-01&g=2021-07-01), zonder toestemming van de betrokkene, persoonsgegevens verwerkt betreffende intern gemelde incidenten, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming.
 
 2. De zorgaanbieder stelt schriftelijk een interne procedure vast, waarin stapsgewijs wordt aangegeven hoe wordt omgegaan met signalen van incidenten. De zorgaanbieder bevordert de kennis en het gebruik van de procedure.
 
@@ -225,11 +267,11 @@ De zorgaanbieder die zorg verleent welke verblijf van de cliënt in een accommod
 
 5. Degene die op grond van een wettelijk voorschrift of op grond van zijn beroep tot geheimhouding is verplicht, kan, zonder toestemming van de cliënt, overeenkomstig de vastgestelde procedure aan de daartoe aangewezen functionaris de gegevens, daaronder begrepen persoonsgegevens, gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming en andere bijzondere categorieën van persoonsgegevens als bedoeld in paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming, verstrekken die noodzakelijk zijn te achten om een incident te onderzoeken.
 
-6. Gegevens in het register, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7&z=2021-05-26&g=2021-05-26), betreffende intern gemelde incidenten, behoudens die met betrekking tot een calamiteit of geweld in de zorgrelatie, kunnen niet in een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechtelijke procedure als bewijs worden gebruikt, noch kan een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel daarop worden gebaseerd. In afwijking van de eerste volzin kunnen de gegevens voor het strafrechtelijk bewijs worden gebruikt indien zij redelijkerwijs niet op een andere manier kunnen worden verkregen.
+6. Gegevens in het register, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-07-01&g=2021-07-01), betreffende intern gemelde incidenten, behoudens die met betrekking tot een calamiteit of geweld in de zorgrelatie, kunnen niet in een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechtelijke procedure als bewijs worden gebruikt, noch kan een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel daarop worden gebaseerd. In afwijking van de eerste volzin kunnen de gegevens voor het strafrechtelijk bewijs worden gebruikt indien zij redelijkerwijs niet op een andere manier kunnen worden verkregen.
 
-7. De gegevens in het register, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7&z=2021-05-26&g=2021-05-26), betreffende intern gemelde incidenten, zijn niet openbaar.
+7. De gegevens in het register, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-07-01&g=2021-07-01), betreffende intern gemelde incidenten, zijn niet openbaar.
 
-8. De zorgaanbieder die zorg draagt voor een register als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7&z=2021-05-26&g=2021-05-26), is de verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor dat register.
+8. De zorgaanbieder die zorg draagt voor een register als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-07-01&g=2021-07-01), is de verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor dat register.
 
 ##### Artikel 10
 
@@ -249,7 +291,7 @@ De zorgaanbieder die zorg verleent welke verblijf van de cliënt in een accommod
 
 - b. geweld in de zorgrelatie;
 
-- c. de opzegging, ontbinding of niet-voortzetting van een overeenkomst als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), met een zorgverlener op grond van zijn oordeel dat de zorgverlener ernstig is tekort geschoten in zijn functioneren.
+- c. de opzegging, ontbinding of niet-voortzetting van een overeenkomst als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), met een zorgverlener op grond van zijn oordeel dat de zorgverlener ernstig is tekort geschoten in zijn functioneren.
 
 2. De zorgaanbieder en de zorgverleners die zorg verlenen aan zijn cliënten, verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ingevolge deze wet met toezicht belaste ambtenaar de gegevens, daaronder begrepen persoonsgegevens, gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming en andere bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), die voor het onderzoeken van de melding noodzakelijk zijn.
 
@@ -343,13 +385,13 @@ De geschilleninstantie is bevoegd over een geschil een uitspraak te doen bij weg
 
 1. Een geschil met een zorgaanbieder kan schriftelijk ter beslechting aan de geschilleninstantie worden voorgelegd door een cliënt, een nabestaande van een overleden cliënt dan wel een vertegenwoordiger van de cliënt, indien:
 
-- a. is gehandeld in strijd met [§1](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&z=2021-05-26&g=2021-05-26);
+- a. is gehandeld in strijd met [§1](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&z=2021-07-01&g=2021-07-01);
 
-- b. de mededeling, bedoeld in [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-05-26&g=2021-05-26), diens klacht naar zijn oordeel in onvoldoende mate wegneemt;
+- b. de mededeling, bedoeld in [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-07-01&g=2021-07-01), diens klacht naar zijn oordeel in onvoldoende mate wegneemt;
 
 - c. van hem in redelijkheid niet kan worden verlangd dat hij onder de gegeven omstandigheden zijn klacht over een hem betreffende gedraging van de zorgaanbieder in het kader van de zorgverlening bij de zorgaanbieder indient.
 
-2. Een geschil kan voorts schriftelijk ter beslechting aan de geschilleninstantie worden voorgelegd door een persoon die door de zorgaanbieder ten onrechte niet als vertegenwoordiger is beschouwd, indien de mededeling, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-05-26&g=2021-05-26), diens klacht naar zijn oordeel in onvoldoende mate wegneemt.
+2. Een geschil kan voorts schriftelijk ter beslechting aan de geschilleninstantie worden voorgelegd door een persoon die door de zorgaanbieder ten onrechte niet als vertegenwoordiger is beschouwd, indien de mededeling, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-07-01&g=2021-07-01), diens klacht naar zijn oordeel in onvoldoende mate wegneemt.
 
 3. Voorts kan een geschil schriftelijk ter beslechting aan de geschilleninstantie worden voorgelegd door een stichting of vereniging met volledige rechtsbevoegdheid, mits een belang in het geding is dat de stichting of vereniging volgens haar statuten behartigt.
 
@@ -371,9 +413,9 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 ##### Artikel 24
 
-1. De ambtenaren van de inspectie zijn belast met het toezicht op de naleving van hetgeen bij of krachtens de [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26) en [13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-05-26&g=2021-05-26), dan wel in een aanwijzing of bevel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-05-26&g=2021-05-26) of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=28&z=2021-05-26&g=2021-05-26) is bepaald. Zij rapporteren daaromtrent aan Onze Minister.
+1. De ambtenaren van de inspectie zijn belast met het toezicht op de naleving van hetgeen bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), [2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2a&z=2021-07-01&g=2021-07-01), [3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01) en [13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01), dan wel in een aanwijzing of bevel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-07-01&g=2021-07-01) of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=28&z=2021-07-01&g=2021-07-01) is bepaald. Zij rapporteren daaromtrent aan Onze Minister.
 
-2. Het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26) is mede gericht op het bevorderen van het gebruik van standaarden door zorgaanbieders en zorgverleners.
+2. Het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01) is mede gericht op het bevorderen van het gebruik van standaarden door zorgaanbieders en zorgverleners.
 
 3. De in het eerste lid bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover de woning deel uitmaakt van een bouwkundige voorziening voor het verlenen van zorg.
 
@@ -381,9 +423,11 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 5. De in het eerste lid bedoelde ambtenaren zijn bevoegd het niet naleven door een zorgaanbieder van een verplichting die voor hem uit het bepaalde bij of krachtens deze wet voortvloeit, buiten behandeling te laten, tenzij sprake is van een situatie die voor de veiligheid van cliënten of de zorg een ernstige bedreiging kan betekenen, of het belang van goede zorg anderszins daaraan redelijkerwijs in de weg staat.
 
+6. De in het eerste lid bedoelde ambtenaren volgen de eenduidige uitleg van het Zorginstituut, bedoeld in [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2a&z=2021-07-01&g=2021-07-01).
+
 ##### Artikel 25
 
-1. De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=24&z=2021-05-26&g=2021-05-26) bedoelde ambtenaren onderzoeken meldingen van aanbieders en zorgverleners als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=11&z=2021-05-26&g=2021-05-26) en andere meldingen, teneinde vast te stellen of sprake is van een situatie die voor de veiligheid van cliënten of de zorg een ernstige bedreiging kan betekenen, of met het oog op het belang van een goede zorg anderszins noodzaakt tot nader onderzoek.
+1. De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01) bedoelde ambtenaren onderzoeken meldingen van aanbieders en zorgverleners als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01) en andere meldingen, teneinde vast te stellen of sprake is van een situatie die voor de veiligheid van cliënten of de zorg een ernstige bedreiging kan betekenen, of met het oog op het belang van een goede zorg anderszins noodzaakt tot nader onderzoek.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
 
@@ -409,9 +453,9 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 ##### Artikel 27
 
-1. Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26), [4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), en [5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=5&z=2021-05-26&g=2021-05-26) niet wordt nageleefd, kan hij, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, de zorgaanbieder een schriftelijke aanwijzing geven.
+1. Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), [4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), en [5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) niet wordt nageleefd, kan hij, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, de zorgaanbieder een schriftelijke aanwijzing geven.
 
-2. In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=3&z=2021-05-26&g=2021-05-26), [4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), en [5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=5&z=2021-05-26&g=2021-05-26) niet wordt nageleefd, alsmede de in verband daarmee te nemen maatregelen.
+2. In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), [4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), en [5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) niet wordt nageleefd, alsmede de in verband daarmee te nemen maatregelen.
 
 3. Een aanwijzing bevat de termijn waarbinnen de zorgaanbieder er aan moet voldoen.
 
@@ -423,7 +467,7 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 ##### Artikel 28
 
-1. Indien Onze Minister van oordeel is dat de organisatiestructuur van de zorgaanbieder in ernstige mate afbreuk doet aan het verlenen van goede zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=2&z=2021-05-26&g=2021-05-26), kan hij de aanwijzing, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-05-26&g=2021-05-26), in de vorm van een structurele maatregel aan de zorgaanbieder opleggen teneinde voortgaande inbreuk op de kwaliteit van de zorgverlening te voorkomen.
+1. Indien Onze Minister van oordeel is dat de organisatiestructuur van de zorgaanbieder in ernstige mate afbreuk doet aan het verlenen van goede zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), kan hij de aanwijzing, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-07-01&g=2021-07-01), in de vorm van een structurele maatregel aan de zorgaanbieder opleggen teneinde voortgaande inbreuk op de kwaliteit van de zorgverlening te voorkomen.
 
 2. Onze Minister geeft een aanwijzing als bedoeld in het eerste lid niet:
 
@@ -433,15 +477,15 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 ##### Artikel 29
 
-1. Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd tot toepassing van bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichting, het bepaalde bij of krachtens de [artikelen 13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-05-26&g=2021-05-26) dan wel een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-05-26&g=2021-05-26) of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=28&z=2021-05-26&g=2021-05-26) gegeven aanwijzing of bevel.
+1. Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01) dan wel een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=27&z=2021-07-01&g=2021-07-01) of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=28&z=2021-07-01&g=2021-07-01) gegeven aanwijzing of bevel.
 
-2. Onze Minister is bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder en de zorgverlener die geen gegevens verstrekken als bedoeld in de [artikelen 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7b&z=2021-05-26&g=2021-05-26), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=11&z=2021-05-26&g=2021-05-26), of geen medewerking verleent aan de inzage van dossiers als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=24&z=2021-05-26&g=2021-05-26).
+2. Onze Minister is bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder en de zorgverlener die geen gegevens verstrekken als bedoeld in de [artikelen 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7b&z=2021-07-01&g=2021-07-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), of geen medewerking verleent aan de inzage van dossiers als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 30
 
-1. Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een handelen of nalaten in strijd met de [artikelen 7b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7b&z=2021-05-26&g=2021-05-26), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=11&z=2021-05-26&g=2021-05-26), of het bepaalde bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26).
+1. Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een handelen of nalaten in strijd met de [artikelen 7b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7b&z=2021-07-01&g=2021-07-01), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), of het bepaalde bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01).
 
-2. Degene die handelt of nalaat in strijd met [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=11&z=2021-05-26&g=2021-05-26), of het bepaalde bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), wordt gestraft met hechtenis van ten hoogste een jaar of een geldboete van de derde categorie.
+2. Degene die handelt of nalaat in strijd met [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), of het bepaalde bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), wordt gestraft met hechtenis van ten hoogste een jaar of een geldboete van de derde categorie.
 
 3. Het in het tweede lid strafbaar gestelde feit is een overtreding.
 
@@ -449,7 +493,9 @@ Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de bes
 
 ##### Artikel 31
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+1. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+
+2. Onze Minister zendt binnen vier jaar na de inwerkingtreding van [artikelen 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01), [11b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11b&z=2021-07-01&g=2021-07-01), [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11c&z=2021-07-01&g=2021-07-01), [11d](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11d&z=2021-07-01&g=2021-07-01), [11e](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11e&z=2021-07-01&g=2021-07-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die paragraaf in de praktijk. In het bijzonder wordt hierbij aandacht geschonken aan de gevolgen voor de Wlz-zorg en Zvw-zorg.
 
 ### Hoofdstuk 5. Evaluatie
 
@@ -457,7 +503,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 1. De [Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850) wordt ingetrokken.
 
-2. Het [Besluit kwaliteitseisen ziekenhuisbloedbanken](https://wetten.overheid.nl/jci1.3:c:BWBR0017831) en het [Besluit zorgplanbespreking AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025521) berusten op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=5&z=2021-05-26&g=2021-05-26).
+2. Het [Besluit kwaliteitseisen ziekenhuisbloedbanken](https://wetten.overheid.nl/jci1.3:c:BWBR0017831) en het [Besluit zorgplanbespreking AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025521) berusten op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 33
 
@@ -475,13 +521,13 @@ Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
 3. Binnen een jaar na het tijdstip van inwerkingtreding van de hierna genoemde bepalingen draagt de zorgaanbieder zorg voor:
 
-- a. vaststelling van een regeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-05-26&g=2021-05-26);
+- a. vaststelling van een regeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01);
 
-- b. aansluiting bij een geschilleninstantie als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=2&artikel=18&z=2021-05-26&g=2021-05-26).
+- b. aansluiting bij een geschilleninstantie als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=2&artikel=18&z=2021-07-01&g=2021-07-01).
 
-4. Tot het tijdstip waarop een regeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-05-26&g=2021-05-26), van kracht is geworden, blijft een regeling, vastgesteld op grond van [artikel 2 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), van toepassing op de behandeling van klachten.
+4. Tot het tijdstip waarop een regeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01), van kracht is geworden, blijft een regeling, vastgesteld op grond van [artikel 2 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), van toepassing op de behandeling van klachten.
 
-5. Een mededeling als bedoeld in [artikel 2, vijfde lid, onderdeel van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2) wordt voor de toepassing van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=2&artikel=21&z=2021-05-26&g=2021-05-26), gelijkgesteld aan een mededeling als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-05-26&g=2021-05-26).
+5. Een mededeling als bedoeld in [artikel 2, vijfde lid, onderdeel van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2) wordt voor de toepassing van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=2&artikel=21&z=2021-07-01&g=2021-07-01), gelijkgesteld aan een mededeling als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 36
 
@@ -501,7 +547,7 @@ De [Wet van 7 april 2005 tot wijziging van de Kwaliteitswet zorginstellingen en 
 
 ##### Artikel 40
 
-[Artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=4&z=2021-05-26&g=2021-05-26), geldt gedurende een jaar na het tijdstip van inwerkingtreding van dat artikelonderdeel niet voor op dat tijdstip geldende overeenkomsten tussen een zorgaanbieder en de zorgverleners en opdrachtnemers die hij zorg doet verlenen, mits zij niet in strijd zijn met de strekking van genoemd artikelonderdeel.
+[Artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), geldt gedurende een jaar na het tijdstip van inwerkingtreding van dat artikelonderdeel niet voor op dat tijdstip geldende overeenkomsten tussen een zorgaanbieder en de zorgverleners en opdrachtnemers die hij zorg doet verlenen, mits zij niet in strijd zijn met de strekking van genoemd artikelonderdeel.
 
 ### Hoofdstuk 7. Samenloopbepalingen
 
@@ -575,7 +621,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7a
 
-1. Onze Minister houdt een register in stand waarin ten behoeve van de bescherming van de gezondheid van cliënten gegevens worden verzameld over bij cliënten ingebrachte implantaten in overeenstemming met het bij of krachtens [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7b&z=2021-05-26&g=2021-05-26) bepaalde.
+1. Onze Minister houdt een register in stand waarin ten behoeve van de bescherming van de gezondheid van cliënten gegevens worden verzameld over bij cliënten ingebrachte implantaten in overeenstemming met het bij of krachtens [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7b&z=2021-07-01&g=2021-07-01) bepaalde.
 
 2. Het register wordt door Onze Minister gebruikt om:
 
@@ -587,7 +633,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. De zorgverlener houdt in het dossier van een cliënt aantekening van bij of krachtens algemene maatregel van bestuur bepaalde gegevens van een bij die cliënt ingebracht implantaat op een wijze dat het ingebrachte implantaat kan worden herleid tot die cliënt.
 
-2. De zorgaanbieder verstrekt de geregistreerde gegevens, bedoeld in het eerste lid, over een bij een cliënt ingebracht implantaat ten behoeve van het register, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&artikel=7a&z=2021-05-26&g=2021-05-26).
+2. De zorgaanbieder verstrekt de geregistreerde gegevens, bedoeld in het eerste lid, over een bij een cliënt ingebracht implantaat ten behoeve van het register, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=7a&z=2021-07-01&g=2021-07-01).
 
 3. De zorgverlener verstrekt schriftelijk aan een cliënt de gegevens, bedoeld in het eerste lid, over een bij die cliënt ingebracht implantaat.
 
@@ -601,9 +647,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2. Geschillen
 
-#### § 3. Geheimhouding
+#### § 3. Landelijk register zorgaanbieders
 
-### Hoofdstuk 4. Toezicht en handhaving
+### Hoofdstuk 3. Effectieve en laagdrempelige klachten- en geschillenbehandeling
 
 ### Hoofdstuk 6. Wijzigingen in en intrekking van andere wetten en overgangsrecht
 
@@ -618,6 +664,150 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 3. Effectieve en laagdrempelige klachten- en geschillenbehandeling
+
+#### § 2. Register voor kwaliteitsstandaarden en meetinstrumenten
+
+#### § 2. Geschillen
+
+#### § 3. Geheimhouding
+
+### Hoofdstuk 4. Toezicht en handhaving
+
+### Hoofdstuk 5. Evaluatie
+
+### Hoofdstuk 6. Wijzigingen in en intrekking van andere wetten en overgangsrecht
+
+### Hoofdstuk 7. Samenloopbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1. Goede zorg
+
+##### Artikel 2a
+
+1. Voor zover een onderdeel van de professionele standaard mogelijke substantiële financiële gevolgen voor de collectieve zorguitgaven heeft, hoeven zorgaanbieders en zorgverleners, in afwijking van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), uitsluitend te handelen in overeenstemming met dat onderdeel voor zover dat een kwaliteitsstandaard is.
+
+2. Het eerste lid is niet van toepassing op die onderdelen van de professionele standaard die voor 5 juli 2018 al tot de professionele standaard behoorden.
+
+3. Het Zorginstituut bevordert de eenduidige uitleg van de toepassing van het eerste lid op een onderdeel van de professionele standaard.
+
+##### Artikel 11a
+
+1. Het Zorginstituut houdt een openbaar register bij waarin de kwaliteitsstandaarden en de meetinstrumenten zijn opgenomen.
+
+2. De opname in het openbaar register geschiedt op basis van een voordracht als bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11b&z=2021-07-01&g=2021-07-01), onderscheidenlijk [11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11f&z=2021-07-01&g=2021-07-01).
+
+##### Artikel 11b
+
+1. De voordracht van een kwaliteitsstandaard aan het Zorginstituut vindt plaats door tripartiete partijen gezamenlijk dan wel door de Adviescommissie Kwaliteit.
+
+2. Een voorgedragen kwaliteitsstandaard voldoet aan de volgende voorwaarden:
+
+- a. hij bevat een verantwoorde beschrijving van de kwaliteit van een zorgproces of een deel van een zorgproces, waaronder in ieder geval wordt verstaan dat hij de innovatie van het zorgproces niet belemmert en dat de daarin opgenomen normen leiden tot doelmatige zorg en toepasbaar zijn in het toezicht;
+
+- b. hij bevat een cliëntenversie, een samenvatting en een onderhoudsplan;
+
+- c. hij voorkomt een onderscheid tussen zorg waarvan de uitgaven behoren tot de collectieve zorguitgaven en andere zorg in een kwaliteitsstandaard en tussen kwaliteitsstandaarden; en
+
+- d. hij is verbonden met één of meer meetinstrumenten of bevat een planning waaruit blijkt wanneer dit het geval zal zijn.
+
+3. Een voorgedragen kwaliteitsstandaard die mogelijke substantiële financiële gevolgen voor de collectieve zorguitgaven heeft bevat ook een kwalitatieve beschrijving van de directe gevolgen van die standaard voor de collectieve zorguitgaven en maakt een beoordeling van die gevolgen mogelijk.
+
+4. Voor zover niet meteen na opname in het openbaar register aan de kwaliteitsstandaard kan worden voldaan, bevat de voorgedragen kwaliteitsstandaard ook een planning waaruit blijkt wanneer wel aan die standaard kan worden voldaan.
+
+5. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 11c
+
+1. Het Zorginstituut neemt een voorgedragen kwaliteitsstandaard zonder mogelijke substantiële financiële gevolgen voor de collectieve zorguitgaven op in het openbaar register indien die voldoet aan [artikel 11b, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11b&z=2021-07-01&g=2021-07-01).
+
+2. Het Zorginstituut zendt een voorgedragen kwaliteitsstandaard die voldoet aan [artikel 11b, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11b&z=2021-07-01&g=2021-07-01) en mogelijke substantiële financiële gevolgen voor de collectieve zorguitgaven heeft, aan de zorgautoriteit voor het verrichten van een analyse naar de directe gevolgen van die standaard voor de collectieve zorguitgaven.
+
+3. Het Zorginstituut besluit tot opname van een voorgedragen kwaliteitsstandaard als bedoeld in het tweede lid in het openbaar register indien uit de analyse van de zorgautoriteit blijkt dat het hanteren van die standaard door zorgaanbieders, naar verwachting niet leidt tot een toename van de collectieve zorguitgaven.
+
+4. Het Zorginstituut vraagt, na een inhoudelijke afweging te hebben gedaan of de in voorgedragen kwaliteitsstandaard opgenomen normen leiden tot doelmatige zorg en het opstellen van een advies over die kwaliteitsstandaard, onder gelijktijdige toezending van de voorgedragen kwaliteitsstandaard, de analyse van de zorgautoriteit en het advies, toestemming aan Onze Minister voor het nemen van een besluit tot opname van de voorgedragen kwaliteitsstandaard in het openbaar register in het geval uit de analyse blijkt dat de voorgedragen kwaliteitsstandaard naar verwachting leidt tot een toename van de collectieve zorguitgaven.
+
+5. De zorgautoriteit doet niet eerder mededeling van de analyse naar de gevolgen voor de collectieve zorguitgaven dan nadat het Zorginstituut het besluit tot opname van de voorgedragen kwaliteitsstandaard in het openbaar register op grond van het derde lid heeft genomen of de voorgedragen kwaliteitsstandaard op basis van het vierde lid aan Onze Minister heeft gezonden.
+
+6. Het eerste tot en met het vijfde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 11d
+
+1. Onze Minister kan de toestemming, bedoeld in [artikel 11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11c&z=2021-07-01&g=2021-07-01), weigeren indien hij overwegende bezwaren heeft tegen de verwachte toename van de collectieve zorguitgaven.
+
+2. Voordat Onze Minister een besluit neemt tot het al dan niet geven van de toestemming, deelt hij binnen vier weken na toezending door het Zorginstituut de inhoud van dat besluit schriftelijk mede aan beide Kamers der Staten-Generaal.
+
+3. Onze Minister kan in het geval dat de voorgedragen kwaliteitsstandaard zeer ingewikkeld, omstreden of omvangrijk is de termijn, bedoeld in het tweede lid, met vier weken verdagen.
+
+4. Onze Minister stelt het besluit zo spoedig mogelijk vast, maar niet eerder dan nadat 2 weken zijn verstreken na de mededeling, bedoeld in het tweede lid, of, in een geval als bedoeld in het derde lid, nadat 4 weken zijn verstreken.
+
+5. Onze Minister doet gelijktijdig met het verlenen van toestemming of het weigeren daarvan aan het Zorginstituut mededeling van dit besluit in de Staatscourant.
+
+6. Het Zorginstituut besluit tot opname van de voorgedragen kwaliteitsstandaard in het openbaar register indien Onze Minister op grond van [artikel 11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11c&z=2021-07-01&g=2021-07-01), daarvoor toestemming heeft gegeven.
+
+7. Het eerste tot en met het zesde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 11e
+
+1. Onze Minister maakt van zijn bevoegdheid, bedoeld in [artikel 22 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), slechts gebruik binnen drie maanden nadat het Zorginstituut in strijd met [artikel 11c, eerste, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11c&z=2021-07-01&g=2021-07-01), of [artikel 11d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11d&z=2021-07-01&g=2021-07-01), heeft besloten een voorgedragen kwaliteitsstandaard in het openbaar register op te nemen.
+
+2. Het eerste lid is van overeenkomstige toepassing op een in het openbaar register opgenomen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 11f
+
+1. De voordracht van een meetinstrument aan het Zorginstituut vindt plaats door tripartiete partijen gezamenlijk dan wel de Adviescommissie Kwaliteit.
+
+2. Het Zorginstituut neemt een voorgedragen meetinstrument in het openbaar register op indien deze kan worden aangemerkt als een verantwoord middel om te meten of goede zorg is geleverd.
+
+3. Het Zorginstituut neemt een overeenkomstig het eerste lid voorgedragen meetinstrument niet op in het openbaar register indien het meetinstrument niet kan worden aangemerkt als een verantwoord middel om te meten of goede zorg is geleverd.
+
+4. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing op een aanpassing van een meetinstrument.
+
+##### Artikel 11g
+
+1. Het Zorginstituut stelt vast voor welke vormen van zorg een kwaliteitsstandaard of een meetinstrument nodig is dan wel een overeenkomstig [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11a&z=2021-07-01&g=2021-07-01) in het openbaar register opgenomen kwaliteitsstandaard of meetinstrument wijziging behoeft. Hierbij bevordert het Zorginstituut de verspreiding van goede voorbeelden op het gebied van patiëntveiligheid.
+
+2. Het Zorginstituut stelt een tijdstip vast waarop de kwaliteitsstandaard of het meetinstrument, bedoeld in het eerste lid, moet zijn opgesteld onderscheidenlijk aangepast.
+
+3. Indien op het in het tweede lid bedoelde tijdstip geen kwaliteitsstandaard of meetinstrument is opgesteld onderscheidenlijk aangepast, kan het Zorginstituut de Adviescommissie Kwaliteit verzoeken binnen een nader te bepalen termijn hiervoor zorg te dragen en over de aldus opgestelde onderscheidenlijk aangepaste kwaliteitsstandaard overleg te plegen met relevante tripartiete partijen.
+
+4. Het Zorginstituut bevordert de ontwikkeling van de kwaliteit van zorg en het door zorgaanbieders aanbieden van goede zorg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01).
+
+##### Artikel 11h
+
+1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van zijn opgedragen taken, bedoeld in [artikel 11g](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11g&z=2021-07-01&g=2021-07-01).
+
+2. Het Zorginstituut verwerkt op grond van het eerste lid slechts persoonsgegevens indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming is toegepast en vervolgens onafgebroken is gecontinueerd.
+
+3. Artikel 21, eerste lid, tweede volzin, van de Algemene verordening gegevensbescherming, is bij de verwerking door het Zorginstituut niet van toepassing.
+
+##### Artikel 11i
+
+1. Het Zorginstituut draagt zorg voor het verzamelen, samenvoegen en beschikbaar maken van informatie over de kwaliteit van verleende zorg:
+
+- a. met het oog op het recht van de cliënt een weloverwogen keuze te kunnen maken tussen verschillende zorgaanbieders; en
+
+- b. ten behoeve van het toezicht door de ambtenaren van de inspectie.
+
+2. Zorgaanbieders zijn verplicht de informatie, bedoeld in het eerste lid, te rapporteren op basis van de overeenkomstig [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11a&z=2021-07-01&g=2021-07-01) in het openbaar register opgenomen meetinstrumenten.
+
+3. Bij regeling van Onze Minister wordt de instantie aangewezen waar zorgaanbieders de in het tweede lid bedoelde informatie aanleveren.
+
+##### Artikel 11j
+
+1. De Adviescommissie Kwaliteit stelt op een verzoek van het Zorginstituut als bedoeld in [artikel 11g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=2&paragraaf=2&artikel=11g&z=2021-07-01&g=2021-07-01), een voor te dragen kwaliteitsstandaard of een meetinstrument op.
+
+2. De Adviescommissie Kwaliteit heeft tot taak het Zorginstituut te adviseren over aangelegenheden betreffende de kwaliteit van de zorgverlening, waaronder:
+
+- a. de meerjarenagenda en het werkprogramma van het Zorginstituut;
+
+- b. de samenhang tussen kwaliteitsstandaarden en de bekostiging van de zorg; en
+
+- c. het inzichtelijk maken van informatie over de kwaliteit van zorg.
+
+3. De Adviescommissie Kwaliteit kan ten behoeve van de uitvoering van haar werkzaamheden een of meer deskundigen op het gebied van een specifieke vorm van zorg inschakelen.
 
 #### § 1. Klachten
 
