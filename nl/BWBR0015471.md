@@ -4,7 +4,7 @@ identifier: "BWBR0015471"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-11-10"
-last_updated: "2013-07-11"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015471"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - a. tatoeëren: huidpenetrerende handeling waarmee kleurstoffen intradermaal worden geïnjecteerd;
 
-- b. tatoeagekleurstof: kleurstof of pigment die bestemd is om bij het tatoeëren te worden gebruikt als kleurstof;
+- b. tatoeagekleurstof: kleurstof, pigment en hulpstoffen, inclusief mogelijke onzuiverheden, die geschikt zijn om bij het tatoeëren te worden gebruikt als kleurstof;
 
 - c. pigment: uit deeltjes bestaande, in het toepassingsmedium praktisch onoplosbare verbinding die als kleurstof wordt gebruikt;
 
@@ -72,11 +72,11 @@ Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid
 
 ##### Artikel 4
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=3&z=2013-07-11&g=2013-07-11), worden tatoeagekleurstoffen uitsluitend verhandeld indien zij:
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=3&z=2021-07-01&g=2021-07-01), worden tatoeagekleurstoffen uitsluitend verhandeld indien zij:
 
-- a. geen stoffen bevatten die de in [bijlage I bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=I&z=2013-07-11&g=2013-07-11) genoemde aromatische aminen kunnen vormen;
+- a. geen stoffen bevatten die de in [bijlage I bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=I&z=2021-07-01&g=2021-07-01) genoemde aromatische aminen kunnen vormen;
 
-- b. geen stoffen bevatten die voorkomen in [bijlage II bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=II&z=2013-07-11&g=2013-07-11);
+- b. geen stoffen bevatten die voorkomen in [bijlage II bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=II&z=2021-07-01&g=2021-07-01);
 
 - c. geen stoffen bevatten die voorkomen in bijlage II van de cosmeticaverordening;
 
@@ -92,15 +92,15 @@ Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid
 
 ##### Artikel 5
 
-1. Kleurstoffen zijn voorzien van:
+1. Tatoeagekleurstoffen zijn voorzien van:
 
-- a. een vermelding van de naam of handelsnaam en het adres of de vestigingsplaats van de fabrikant of persoon die verantwoordelijk is voor het in de handel brengen van de kleurstof binnen het grondgebied waarop het Verdrag van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, met dien verstande dat de vermelding mag worden afgekort voor zover de afkorting de identificatie van de onderneming redelijkerwijs niet belemmert;
+- a. een vermelding van de naam of handelsnaam en het adres of de vestigingsplaats van de fabrikant of persoon die verantwoordelijk is voor het in de handel brengen van de tatoeagekleurstof binnen het grondgebied waarop het Verdrag van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, met dien verstande dat de vermelding mag worden afgekort voor zover de afkorting de identificatie van de onderneming redelijkerwijs niet belemmert;
 
 - b. een vermelding van de datum van minimale houdbaarheid, voorafgegaan door de woorden: «ten minste houdbaar tot»;
 
 - c. een vermelding van de gebruiksvoorwaarden en waarschuwingen;
 
-- d. een vermelding van het batch- of codenummer die het mogelijk maakt een partij kleurstoffen te identificeren;
+- d. een vermelding van het batch- of codenummer die het mogelijk maakt een partij tatoeagekleurstoffen te identificeren;
 
 - e. een vermelding van de ingrediënten in volgorde van afnemend gewicht op het tijdstip van verwerking waarbij de lijst wordt voorafgegaan door het woord «ingrediënten».
 
@@ -114,7 +114,7 @@ Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid
 
 ##### Artikel 6
 
-1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de kleurstoffen al dan niet is voldaan aan bij of krachtens dit besluit gestelde regels, worden methoden aangewezen op het gebied van chemisch en microbiologisch onderzoek.
+1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de tatoeagekleurstoffen al dan niet is voldaan aan bij of krachtens dit besluit gestelde regels, worden methoden aangewezen op het gebied van chemisch en microbiologisch onderzoek.
 
 2. Onze Minister kan omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.
 
@@ -124,7 +124,7 @@ Vervallen
 
 ##### Artikel 8
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=2&z=2013-07-11&g=2013-07-11) mogen tatoeagekleurstoffen die niet voldoen aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=5&z=2013-07-11&g=2013-07-11), tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=2&z=2021-07-01&g=2021-07-01) mogen tatoeagekleurstoffen die niet voldoen aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=5&z=2021-07-01&g=2021-07-01), tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld.
 
 ##### Artikel 9
 
@@ -134,7 +134,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen.
 
-## Bijlage I. als bedoeld in [artikel 4 lid 1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2013-07-11&g=2013-07-11) van het Warenwetbesluit tatoeagekleurstoffen
+## Bijlage I. als bedoeld in [artikel 4 lid 1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2021-07-01&g=2021-07-01) van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer | Catalogusnummer | EG-nummer | Stoffen |
 | --- | --- | --- | --- |
@@ -161,7 +161,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen.
 | 90–04–4 | 612–035–00–4 | 201–963–1 | o-anisidine 2-methoxyaniline |
 | 60–09–3 |   |   | 4-aminoazobenzeen 4-amino-3-fluorphenol |
 
-## Bijlage II. als bedoeld in [artikel 4 lid 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2013-07-11&g=2013-07-11) van het Warenwetbesluit tatoeagekleurstoffen
+## Bijlage II. als bedoeld in [artikel 4 lid 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2021-07-01&g=2021-07-01) van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer | EG-nummer | mogelijke CI Naam |
 | --- | --- | --- |
