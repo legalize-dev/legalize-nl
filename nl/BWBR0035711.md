@@ -4,7 +4,7 @@ identifier: "BWBR0035711"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035711"
 soort: "AMvB"
@@ -66,23 +66,23 @@ Hebben goedgevonden en verstaan:
 
 - d. **verzend- of tertiaire verpakking:** verpakking die zo is ontworpen dat het verladen en het vervoer van een aantal verkoopeenheden of verzamelverpakkingen wordt vergemakkelijkt om fysieke schade door verlading of transport te voorkomen, weg-, spoor-, scheeps- of vliegcontainers daaronder niet begrepen;
 
-- e. **op de markt aanbieden:** in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van verpakkingen met het oog op distributie, consumptie of gebruik op de markt;
+- e. **op de markt aanbieden:** in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een product met het oog op distributie, consumptie of gebruik op de markt;
 
-- f. **in de handel brengen:** voor het eerst beroepsmatig op de markt aanbieden van een product;
+- f. **in de handel brengen:** voor het eerst beroepsmatig in Nederland op de markt aanbieden van een product;
 
-- g. **producent of importeur:** degene die:
+- g. **producent of importeur:** elke in Nederland gevestigde natuurlijke of rechtspersoon die: alsmede elke in het buitenland gevestigde natuurlijke of rechtspersoon die rechtstreeks producten in een verpakking verkoopt aan consumenten in Nederland door overeenkomsten op afstand;
 
-- 1°. stoffen, preparaten of andere producten in een verpakking in de handel brengt;
+- 1°. producten in een verpakking in de handel brengt;
 
-- 2°. beroepsmatig stoffen, preparaten of andere producten in een verpakking invoert en zich van de verpakking ontdoet;
+- 2°. beroepsmatig producten in een verpakking invoert;
 
-- 3°. beroepsmatig een ander opdracht geeft de verpakking van stoffen, preparaten of andere producten te voorzien van zijn naam, logo of merkteken;
+- 3°. beroepsmatig een ander opdracht geeft de verpakking van producten te voorzien van zijn naam, logo of merkteken;
 
-- 4°. een verpakking in de handel brengt die is bestemd om bij het aan de gebruiker ter beschikking stellen van stoffen, preparaten of andere producten daaraan te worden toegevoegd;
+- 4°. een verpakking in de handel brengt die is bestemd om bij het aan de gebruiker ter beschikking stellen van producten daaraan te worden toegevoegd;
 
 - h. **richtlijn verpakkingen:** richtlijn nr. 94/62/EG van het Europese Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende verpakking en verpakkingsafval (PbEG 1994, L 365);
 
-- i. **recycling:** het in een productieproces opnieuw verwerken van afvalmaterialen voor het oorspronkelijke doel of voor andere doeleinden, met inbegrip van organische recycling maar uitgezonderd terugwinning van energie;
+- i. **herbruikbare verpakking:** verpakking die is bestemd, is ontworpen en in de handel is gebracht om binnen haar levensduur verscheidene omlopen te maken door opnieuw te worden gevuld of gebruikt voor hetzelfde doel als waarvoor zij is ontworpen;
 
 - j. **drankenkartons:** verpakkingen, geschikt voor het verpakken van vloeibare levensmiddelen, bestaande voor ten minste 70% uit papier en karton en voor het overige uit een ander materiaal of andere materialen;
 
@@ -138,15 +138,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. Een producent of importeur verstrekt op een met redenen omkleed verzoek van Onze Minister, binnen een bij dat verzoek te bepalen termijn, aan hem alle benodigde informatie en documentatie om het voldoen aan de [artikelen 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), en [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), aan te tonen.
+1. Een producent of importeur verstrekt op een met redenen omkleed verzoek van Onze Minister, binnen een bij dat verzoek te bepalen termijn, aan hem alle benodigde informatie en documentatie om het voldoen aan de [artikelen 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), en [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01), aan te tonen.
 
 2. In het geval een verpakking niet voldoet aan de verplichtingen, bedoeld in het eerste lid, brengt de producent of importeur van die verpakking Onze Minister onmiddellijk daarvan op de hoogte en neemt hij alle maatregelen om de verpakking alsnog te laten voldoen. Op verzoek van Onze Minister verleent de producent of importeur van een verpakking, die niet voldoet aan die verplichtingen, alle medewerking aan de te nemen maatregelen om te zorgen dat de verpakking alsnog voldoet aan dit besluit.
 
-#### § 3. Inname, recycling en overig afvalbeheer
+#### § 3. Inname, hergebruik en recycling
 
 ##### Artikel 5
 
-1. De producent of importeur draagt zorg voor de gescheiden inname of de inname en nascheiding van door hem in Nederland in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan, ten minste voor zover nodig om te kunnen voldoen aan de verplichtingen uit de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01).
+1. De producent of importeur draagt zorg voor de gescheiden inname of de inname en nascheiding van door hem in Nederland in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan, ten minste voor zover nodig om te kunnen voldoen aan de verplichtingen uit de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01).
 
 2. De kosten van de gescheiden inname of de inname en nascheiding van verpakkingen komen voor rekening van de producent of importeur.
 
@@ -154,53 +154,41 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 6
 
-1. De producent of importeur draagt er zorg voor dat per kalenderjaar van het totaal van de in dat kalenderjaar door hem in Nederland in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan ten minste 75 gewichtsprocent nuttig wordt toegepast en 70 gewichtsprocent wordt gerecycled.
+1. De producent of importeur draagt er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen die afval zijn geworden ten minste 70 gewichtsprocent wordt gerecycled.
 
-2. De producent of importeur draagt er zorg voor dat per kalenderjaar, van het totaal van de door hem in Nederland in dat kalenderjaar in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan:
+2. De producent of importeur draagt er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen die afval zijn geworden:
 
-- a. van de kunststof verpakkingen ten minste het volgende gewichtspercentage wordt gerecycled:
+- a. van het kunststof in de verpakkingen ten minste het volgende gewichtspercentage wordt gerecycled:
 
-- 1°. in 2015: 45 gewichtsprocent,
+- 1°. in 2021: 40 gewichtsprocent;
 
-- 2°. in 2016: 46 gewichtsprocent,
+- 2°. in 2022: 42 gewichtsprocent;
 
-- 3°. in 2017: 47 gewichtsprocent,
+- 3°. in 2023: 44 gewichtsprocent;
 
-- 4°. in 2018: 48 gewichtsprocent,
+- 4°. in 2024: 47 gewichtsprocent;
 
-- 5°. in 2019: 49 gewichtsprocent,
+- 5°. met ingang van 2025: 50 gewichtsprocent;
 
-- 6°. in 2020: 50 gewichtsprocent,
+- 6°. met ingang van 2030: 55 gewichtsprocent;
 
-- 7°. in 2021: 51 gewichtsprocent;
+- b. van het glas in de verpakkingen ten minste het volgende gewichtspercentage wordt gerecycled:
 
-- b. van de houten verpakkingen ten minste het volgende gewichtspercentage wordt gerecycled:
+- 1°. met ingang van 2021: 70 gewichtsprocent;
 
-- 1°. in 2015: 31 gewichtsprocent,
+- 2°. met ingang van 2030: 75 gewichtsprocent;
 
-- 2°. in 2016: 33 gewichtsprocent,
+- c. van het papier en karton in de verpakkingen ten minste 85 gewichtsprocent wordt gerecycled;
 
-- 3°. in 2017: 35 gewichtsprocent,
+- d. van het hout in de verpakkingen ten minste 30 gewichtsprocent wordt gerecycled;
 
-- 4°. in 2018: 37 gewichtsprocent,
+- e. van het aluminium in de verpakkingen ten minste 60 gewichtsprocent wordt gerecycled; en
 
-- 5°. in 2019: 39 gewichtsprocent,
-
-- 6°. in 2020: 41 gewichtsprocent,
-
-- 7°. in 2021: 43 gewichtsprocent;
-
-- c. van de overige materiaalsoorten ten minste de volgende gewichtspercentages worden gerecycled:
-
-- 1°. 90 gewichtsprocent van glazen verpakkingen,
-
-- 2°. 75 gewichtsprocent van papieren en kartonnen verpakkingen,
-
-- 3°. 85 gewichtsprocent van metalen verpakkingen.
+- f. van de ferrrometalen in de verpakkingen ten minste 80 gewichtsprocent wordt gerecycled.
 
 3. Het eerste en tweede lid zijn niet van toepassing op een producent of importeur die verpakkingen op het moment dat deze aan een ander ter beschikking worden gesteld, aan een stof, preparaat of ander product toevoegt, voor zover het deze verpakkingen betreft en voor zover deze verpakkingen niet zijn voorzien van zijn naam, logo of merkteken.
 
-4. Onverminderd het eerste en tweede lid, onder a, en indien er overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=5&artikel=9&z=2020-07-01&g=2020-07-01), gezamenlijk uitvoering wordt gegeven aan het eerste en tweede lid, dragen producenten en importeurs er gezamenlijk zorg voor dat per kalenderjaar ten minste een bij ministeriële regeling bepaalde gewichtshoeveelheid kunststof verpakkingsafval dat bij huishoudens vrijkomt, wordt gerecycled.
+4. Onverminderd het eerste en tweede lid, onder a, en indien er overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=5&artikel=9&z=2021-07-01&g=2021-07-01), gezamenlijk uitvoering wordt gegeven aan het eerste en tweede lid, dragen producenten en importeurs er gezamenlijk zorg voor dat per kalenderjaar ten minste een bij ministeriële regeling bepaalde gewichtshoeveelheid kunststof verpakkingsafval dat bij huishoudens vrijkomt, wordt gerecycled.
 
 ##### Artikel 7
 
@@ -210,7 +198,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-1. De producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich heeft ontdaan jaarlijks meer dan 50.000 kilogram bedraagt, zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2020-07-01&g=2020-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2020-07-01&g=2020-07-01).
+1. De producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich heeft ontdaan jaarlijks meer dan 50.000 kilogram bedraagt, zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2021-07-01&g=2021-07-01).
 
 2. Het verslag, bedoeld in het eerste lid, gaat vergezeld van documenten waarmee de juistheid van de gegevens in het verslag wordt aangetoond.
 
@@ -220,7 +208,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9
 
-1. De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5&z=2020-07-01&g=2020-07-01), [6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2020-07-01&g=2020-07-01).
+1. De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), [6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01).
 
 2. Indien aan het eerste lid is voldaan, zijn de in het eerste lid bedoelde verplichtingen niet van toepassing op:
 
@@ -230,7 +218,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. In gevallen waarin het tweede lid van toepassing is, berusten de verplichtingen, bedoeld in het eerste lid, op de rechtspersoon aan wie de afvalbeheerbijdrage, bedoeld in het tweede lid, wordt afgedragen.
 
-4. Bij de gezamenlijke uitvoering, bedoeld in het eerste lid, wordt er zorg voor gedragen dat er geen handelsbelemmering of concurrentieverstoring als bedoeld in artikel 7, eerste lid, van de richtlijn verpakkingen wordt veroorzaakt.
+4. Bij de gezamenlijke uitvoering, bedoeld in het eerste lid, wordt er zorg voor gedragen dat er geen handelsbelemmering of vervalsing van de mededinging als bedoeld in artikel 7, eerste lid, van de richtlijn verpakkingen wordt veroorzaakt.
 
 ##### Artikel 10
 
@@ -244,7 +232,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. de wijze waarop de verpakkingen nuttig worden toegepast of worden verwijderd.
 
-2. De gegevens, bedoeld in het eerste lid, worden door de in dat lid bedoelde rechtspersoon uitsluitend gebruikt ten behoeve van het verslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2020-07-01&g=2020-07-01).
+2. De gegevens, bedoeld in het eerste lid, worden door de in dat lid bedoelde rechtspersoon uitsluitend gebruikt ten behoeve van het verslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01).
 
 3. Bij ministeriële regeling worden regels gesteld over de wijze waarop aan de verplichting, bedoeld in het eerste lid, uitvoering wordt gegeven.
 
@@ -252,17 +240,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+In deze paragraaf wordt verstaan onder frisdrank: drinkwaar als bedoeld in [artikel 7a van het Warenwetbesluit Gereserveerde aanduidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7a).
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. De producent of importeur die water of frisdrank in een kunststof fles met een inhoud van 3 liter of minder in Nederland in de handel brengt, brengt op die fles statiegeld in rekening.
+
+2. De in het eerste lid bedoelde fles wordt na gebruik, met terugbetaling van het statiegeld, ingenomen door de producent of importeur die de in het eerste lid bedoelde fles in Nederland in de handel heeft gebracht.
+
+3. De kosten voor handelingen in het kader van de uitvoering van de in het eerste en tweede lid bedoelde verplichtingen, komen ten laste van de in het eerste lid bedoelde producent of importeur.
 
 ##### Artikel 13
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2020/122.
 
-De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2020-07-01&g=2020-07-01), is niet van toepassing op:
+De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01), is niet van toepassing op:
 
 - a. verpakkingen van:
 
@@ -284,25 +276,27 @@ De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 14
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01), bepaald. In die regeling kan voor een verschillende inhoud van de kunststof fles een verschillende minimale hoogte van het statiegeld worden vastgesteld.
 
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01), van toepassing is, voorziet de producent of importeur de verpakking van een aanduiding omtrent het statiegeld. Onze Minister kan vorm en inhoud van deze aanduiding vaststellen.
+
+2. De aanduiding, bedoeld in het eerste lid, wordt duidelijk en onuitwisbaar op de verpakking aangebracht.
 
 #### § 7. Slotbepalingen
 
 ##### Artikel 16
 
-Onze Minister zendt uiterlijk in 2018 een verslag over de doeltreffendheid en de effecten van dit besluit aan de Staten-Generaal.
+Onze Minister zendt uiterlijk in 2024 een verslag over de doeltreffendheid en de effecten van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2021-07-01&g=2021-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01) van dit besluit aan de Staten-Generaal.
 
 ##### Artikel 17
 
-Een wijziging van de richtlijn verpakkingen of van de beschikkingen, genoemd in [artikel 2, tweede lid, onder b onderscheidenlijk onder c, en in het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van de richtlijn verpakkingen of van de beschikkingen, genoemd in [artikel 2, tweede lid, onder b onderscheidenlijk onder c, en in het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 18
 
-Wijzigt dit besluit.
+Vervallen
 
 ##### Artikel 19
 
@@ -310,15 +304,15 @@ Wijzigt dit besluit.
 
 2. Het [Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139) blijft van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor het tijdstip van intrekking van dat besluit.
 
-3. [Artikel 6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), zoals gewijzigd ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=7&artikel=18&z=2020-07-01&g=2020-07-01), is niet van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor 1 januari 2022.
+3. [Artikel 6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), zoals gewijzigd ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=7&artikel=18&z=2021-07-01&g=2021-07-01), is niet van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor 1 januari 2022.
 
 ##### Artikel 20
 
-1. Dit besluit treedt, met uitzondering van de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01) en [11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2020-07-01&g=2020-07-01), in werking op 1 januari 2015.
+1. Dit besluit treedt, met uitzondering van de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01) en [11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2021-07-01&g=2021-07-01), in werking op 1 januari 2015.
 
-2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), treedt in werking op 1 januari 2016.
+2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), treedt in werking op 1 januari 2016.
 
-3. De artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2020-07-01&g=2020-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2020-07-01&g=2020-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=14&z=2020-07-01&g=2020-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2020-07-01&g=2020-07-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=14&z=2021-07-01&g=2021-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2021-07-01&g=2021-07-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21
 
@@ -332,9 +326,77 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 4. Verslaglegging
 
+#### § 4. Verslaglegging
+
 #### § 5. Collectieve uitvoering en melding aan collectieve uitvoerder door verwerkers en inzamelaars
 
+#### § 7. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+1. Onverminderd [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen tenminste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
+
+- a. in 2021: 71 gewichtsprocent;
+
+- b. met ingang van 2022: 72 gewichtsprocent;
+
+- c. in 2024: 73 gewichtsprocent;
+
+- d. met ingang van 2025: 74 gewichtsprocent.
+
+2. Onverminderd [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen:
+
+- a. van het kunststof in de verpakkingen ten minste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
+
+- 1°. in 2021: 40 gewichtsprocent;
+
+- 2°. in 2022: 42 gewichtsprocent;
+
+- 3°. in 2023: 44 gewichtsprocent;
+
+- 4°. in 2024: 47 gewichtsprocent;
+
+- 5°. met ingang van 2025: 50 gewichtsprocent;
+
+- 6°. met ingang van 2030: 55 gewichtsprocent;
+
+- b. van het glas in de verpakkingen ten minste 86 gewichtsprocent wordt hergebruikt of gerecycled;
+
+- c. van het papier en karton in de verpakkingen ten minste 85 gewichtsprocent wordt hergebruikt of gerecycled;
+
+- d. van het hout in de verpakkingen ten minste 55 gewichtsprocent wordt hergebruikt of gerecycled;
+
+- e. van het aluminium in de verpakkingen ten minste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
+
+- 1°. in 2021: 73 gewichtsprocent;
+
+- 1°. in 2022: 73 gewichtsprocent;
+
+- 2°. in 2023: 76 gewichtsprocent;
+
+- 3°. in 2024: 78 gewichtsprocent;
+
+- 4°. met ingang van 2025: 80 gewichtsprocent;
+
+- f. van de ferrometalen in de verpakkingen ten minste 94 gewichtsprocent wordt hergebruikt of gerecycled.
+
+##### Artikel 6b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 8a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 10a
+
+Dit onderdeel is nog niet inwerking getreden
+
 #### § 6. Statiegeld op drankverpakkingen
+
+#### § 6a. Kunststofverpakkingen voor eenmalig gebruik
 
 #### § 7. Slotbepalingen
 
