@@ -4,7 +4,7 @@ identifier: "BWBR0002410"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2009-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002410"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2009-07-01&g=2009-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2021-07-01&g=2021-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -73,7 +73,7 @@ In deze wet wordt verstaan onder:
 
 2. Indien bij toepassing van het eerste lid geen overeenstemming bestaat omtrent de uitoefening van bevoegdheden ten behoeve van de uitvoering van de militaire taak, beslist Onze Minister van Defensie.
 
-3. Indien krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=14&z=2009-07-01&g=2009-07-01), een vergoeding wordt toegekend vanwege de uitoefening van bevoegdheden ter uitvoering van de militaire taak, dan komt deze voor rekening van Onze Minister van Defensie.
+3. Indien krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=14&z=2021-07-01&g=2021-07-01), een vergoeding wordt toegekend vanwege de uitoefening van bevoegdheden ter uitvoering van de militaire taak, dan komt deze voor rekening van Onze Minister van Defensie.
 
 ##### Artikel 4
 
@@ -95,13 +95,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 7
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2009-07-01&g=2009-07-01) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2021-07-01&g=2021-07-01) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 3. Zo nodig oefent de toezichthouder de in de [artikelen 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) genoemde bevoegdheden uit met behulp van de sterke arm.
 
-4. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2009-07-01&g=2009-07-01) opgelegde verplichtingen.
+4. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2021-07-01&g=2021-07-01) opgelegde verplichtingen.
 
 ##### Artikel 8
 
@@ -123,21 +123,21 @@ Vervallen
 
 ##### Artikel 12
 
-De in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01) bedoelde autoriteiten, lichamen en personen, alsmede kapiteins van schepen en bestuurders van vervoermiddelen te land zijn verplicht aan Onze Minister de inlichtingen te verstrekken, welke door dezen voor de uitvoering van deze wet van hen worden verlangd en tot het verschaffen waarvan zij feitelijk in staat zijn.
+De in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten, lichamen en personen, alsmede kapiteins van schepen en bestuurders van vervoermiddelen te land zijn verplicht aan Onze Minister de inlichtingen te verstrekken, welke door dezen voor de uitvoering van deze wet van hen worden verlangd en tot het verschaffen waarvan zij feitelijk in staat zijn.
 
 ##### Artikel 13
 
-1. Hij, aan wie door een ander diensten zijn verleend ingevolge een aanwijzing, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01), is aan die ander een vergoeding verschuldigd naar de voor soortgelijke diensten ter plaatse rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de tarieven en voorwaarden, vastgesteld door Onze Minister.
+1. Hij, aan wie door een ander diensten zijn verleend ingevolge een aanwijzing, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01), is aan die ander een vergoeding verschuldigd naar de voor soortgelijke diensten ter plaatse rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de tarieven en voorwaarden, vastgesteld door Onze Minister.
 
 2. Onze Minister kan bij ministeriële regeling regels stellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
 
 ##### Artikel 14
 
-1. Onze Minister kan aan degene aan wie een aanwijzing is gegeven krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01), een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.
+1. Onze Minister kan aan degene aan wie een aanwijzing is gegeven krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01), een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.
 
 2. Bij algemene maatregel van bestuur kunnen op voordracht van Onze Minister regels worden gesteld ter zake van de toepassing van het eerste lid.
 
-3. Bij algemene maatregel van bestuur regelen Wij de uitkering alsmede de vergoeding wegens genees- en heelkundige behandeling in daarbij te bepalen gevallen terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid of overlijden als gevolg van het opvolgen of de medewerking aan het opvolgen van aanwijzingen krachtens [artikel 6 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01), indien en voor zover niet uit anderen hoofde aanspraak op een dergelijke uitkering of vergoeding bestaat.
+3. Bij algemene maatregel van bestuur regelen Wij de uitkering alsmede de vergoeding wegens genees- en heelkundige behandeling in daarbij te bepalen gevallen terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid of overlijden als gevolg van het opvolgen of de medewerking aan het opvolgen van aanwijzingen krachtens [artikel 6 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01), indien en voor zover niet uit anderen hoofde aanspraak op een dergelijke uitkering of vergoeding bestaat.
 
 4. Tegen een beslissing terzake van een vergoeding of een uitkering als bedoeld in het eerste of derde lid, kan de belanghebbende in beroep komen bij een door Ons te benoemen commissie; bij algemene maatregel van bestuur regelen Wij de samenstelling en de werkwijze der commissie.
 
@@ -147,13 +147,13 @@ Vervallen
 
 ##### Artikel 16
 
-1. Overtreding van het bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2009-07-01&g=2009-07-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=12&z=2009-07-01&g=2009-07-01) bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
+1. Overtreding van het bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2021-07-01&g=2021-07-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=12&z=2021-07-01&g=2021-07-01) bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Het feit is een overtreding.
 
 ##### Artikel 17
 
-1. Opzettelijke overtreding van het bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
+1. Opzettelijke overtreding van het bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
 2. Het feit is een misdrijf.
 
@@ -169,23 +169,23 @@ Vervallen
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-3. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+3. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) tot en met [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-1. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2009-07-01&g=2009-07-01) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+1. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2021-07-01&g=2021-07-01) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
-2. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2009-07-01&g=2009-07-01) bedoelde ambtenaren zijn bevoegd inzage te vorderen van gegevens en bescheiden. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is van overeenkomstige toepassing.
+2. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2021-07-01&g=2021-07-01) bedoelde ambtenaren zijn bevoegd inzage te vorderen van gegevens en bescheiden. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is van overeenkomstige toepassing.
 
 ##### Artikel 21
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2009-07-01&g=2009-07-01) bedoelde ambtenaren.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2021-07-01&g=2021-07-01) bedoelde ambtenaren.
 
 2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ##### Artikel 22
 
-1. Op voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie worden bij algemene maatregel van bestuur de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2009-07-01&g=2009-07-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=13&z=2009-07-01&g=2009-07-01) omschreven bevoegdheden uitoefenen namens Onze Ministers van Verkeer en Waterstaat en van Defensie.
+1. Op voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie worden bij algemene maatregel van bestuur de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=7&z=2021-07-01&g=2021-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2021-07-01&g=2021-07-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=13&z=2021-07-01&g=2021-07-01) omschreven bevoegdheden uitoefenen namens Onze Ministers van Verkeer en Waterstaat en van Defensie.
 
 2. Een algemeen mandaat als bedoeld in het eerste lid wordt niet voor onbepaalde tijd gegeven. Zij bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd en de periode waarin het mandaat geldt.
 
