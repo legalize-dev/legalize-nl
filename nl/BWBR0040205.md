@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -242,15 +242,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.1.3a
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot het registratieobject booronderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige boormonsteranalyse dat bij een veld- en laboratoriumonderzoek is opgemaakt over de waarnemingen inzake het grondmonster dat is genomen tijdens de bodemkundige boring.
 
 ##### Artikel 2.1.7
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot het registratieobject wandonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige wandmonsteranalyse dat bij een veld- of laboratoriumonderzoek is opgemaakt over de waarnemingen inzake het wandmonster dat genomen is tijdens het bodemkundig wandonderzoek.
 
 ##### Artikel 2.1.8
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot het registratieobject booronderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een geologische boormonsterbeschrijving met de resultaten van een onderzoek naar de geologische of geohydrologische opbouw op een locatie door middel van een boorgat waaruit grondmonsters zijn verkregen en aan de hand waarvan de structuur in verschillende lagen is beschreven.
 
 ##### Artikel 2.3.0
 
