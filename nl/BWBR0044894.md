@@ -177,35 +177,3 @@ Dit besluit wordt aangehaald als: Besluit loonkostensubsidie Participatiewet 202
 Dit besluit treedt in werking met ingang van 1 juli 2021, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. bedragen studietoeslag
-
-Het bedrag, bedoeld in [artikel 36b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b) bedraagt per maand minimaal voor:
-
-- a. 21-jarigen en ouder: € 300,00;
-
-- b. 20-jarigen: € 240,00;
-
-- c. 19-jarigen: € 180,00;
-
-- d. 18-jarigen: € 150,00;
-
-- e. 17-jarigen: € 118,50;
-
-- f. 16-jarigen: € 103,50;
-
-- g. 15-jarigen: € 90,00.
-
-##### Artikel 7b. Vrijlating stagevergoeding
-
-Het bedrag, bedoeld in [artikel 36b, vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b) bedraagt per maand € 180,00.
-
-##### Artikel 7c. Indexering
-
-1. Met ingang van de dag waarop het netto minimumloon, bedoeld in [artikel 37, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=37) wijzigt, worden de bedragen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7a&z=2022-04-01&g=2022-04-01) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7b&z=2022-04-01&g=2022-04-01), gewijzigd met het percentage van die wijziging.
-
-2. De gewijzigde bedragen en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister medegedeeld in de Staatscourant.
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
