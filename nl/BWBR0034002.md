@@ -4,7 +4,7 @@ identifier: "BWBR0034002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2013-11-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034002"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ De opleiding of educatieve activiteit voldoet in ieder geval aan de volgende eis
 
 De gedetineerde ontleent aan de tegemoetkoming in de kosten geen recht op:
 
-- a. het verlaten van de inrichting om de opleiding of de educatieve activiteit te volgen of deel te nemen aan examens. Daartoe dient tijdig een verzoek om verlof te worden gedaan.
+- a. het verlaten van de inrichting om de opleiding of de educatieve activiteit te volgen of deel te nemen aan examens. Daartoe dient tijdig een verzoek om re-integratieverlof te worden gedaan.
 
 - b. het gebruik van het internet. De directeur bepaalt bij de beoordeling van het verzoek of, en zo ja onder welke voorwaarden, de gedetineerde voor de opleiding of de educatieve activiteit gebruik kan maken van het internet.
 
