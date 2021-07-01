@@ -4,7 +4,7 @@ identifier: "BWBR0021605"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2012-05-09"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021605"
 soort: "AMvB"
@@ -72,13 +72,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=5&artikel=9&z=2012-05-09&g=2012-05-09).
+Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=5&artikel=9&z=2021-07-01&g=2021-07-01).
 
 #### § 3. Vergunning
 
 ##### Artikel 3
 
-1. Een ondernemer beschikt over een vergunning van Onze Minister voor het gebruik van tatoeage- of piercingmateriaal voor de ruimte waar het gebruik plaatsvindt of voor dat gebruik is ingericht.
+1. Een ondernemer beschikt over een vergunning van Onze Minister voor het gebruik van tatoeage- of piercingmateriaal in de ruimte waar de materialen gebruikt worden of zullen worden of die voor het gebruik van de materialen is ingericht.
 
 2. Het eerste lid is niet van toepassing:
 
@@ -88,7 +88,7 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij of kracht
 
 ##### Artikel 4
 
-1. De vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), wordt op aanvraag verleend.
+1. De vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), wordt op aanvraag verleend.
 
 2. De aanvrager van de vergunning is voor het in behandeling nemen van de aanvraag een retributie verschuldigd aan Onze Minister.
 
@@ -118,7 +118,7 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij of kracht
 
 ##### Artikel 5
 
-Onze Minister kan de vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel [artikel 24, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) is overtreden.
+Onze Minister kan de vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel [artikel 24, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) is overtreden.
 
 #### § 4. Veilig tatoeëren en piercen
 
@@ -142,19 +142,19 @@ Onze Minister kan de vergunning, bedoeld in [artikel 3, eerste lid](https://wett
 
 1. Een veiligheidscode kan slechts als zodanig worden gebruikt, indien die veiligheidscode door Onze Minister is aangewezen.
 
-2. Onze Minister kan een veiligheidscode aanwijzen indien die code als leidraad kan dienen voor de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09).
+2. Onze Minister kan een veiligheidscode aanwijzen indien die code als leidraad kan dienen voor de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 8
 
-1. Een ondernemer wordt bij controle, dan wel ter gelegenheid van het onderzoek dat plaatsvindt in het kader van de vergunningaanvraag door een met het toezicht op de naleving van dit besluit belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of voor die ruimte gewerkt wordt volgens een aangewezen veiligheidscode als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=7&z=2012-05-09&g=2012-05-09).
+1. Een ondernemer wordt bij controle, dan wel ter gelegenheid van het onderzoek dat plaatsvindt in het kader van de vergunningaanvraag door een met het toezicht op de naleving van dit besluit belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of voor die ruimte gewerkt wordt volgens een aangewezen veiligheidscode als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01).
 
 2. Een ondernemer die te kennen heeft gegeven te werken volgens een aangewezen veiligheidscode:
 
-- a. voldoet aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften indien hij heeft gehandeld volgens de voorschriften in die veiligheidscode die daarop betrekking hebben;
+- a. voldoet aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) gestelde voorschriften indien hij heeft gehandeld volgens de voorschriften in die veiligheidscode die daarop betrekking hebben;
 
-- b. dient, indien hij niet volgens de voorschriften in die veiligheidscode blijkt te hebben gehandeld, alsnog ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften.
+- b. dient, indien hij niet volgens de voorschriften in die veiligheidscode blijkt te hebben gehandeld, alsnog ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) gestelde voorschriften.
 
-3. Een ondernemer die te kennen heeft gegeven niet te werken volgens een aangewezen veiligheidscode, dient ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften.
+3. Een ondernemer die te kennen heeft gegeven niet te werken volgens een aangewezen veiligheidscode, dient ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) gestelde voorschriften.
 
 #### § 5. Overige bepalingen
 
