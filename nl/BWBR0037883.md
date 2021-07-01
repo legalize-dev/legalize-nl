@@ -4,7 +4,7 @@ identifier: "BWBR0037883"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2016-07-20"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037883"
 soort: "AMvB"
@@ -75,5 +75,11 @@ Dit besluit treedt in werking met ingang van 20 juli 2016.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Warenwetbesluit bijzondere voeding 2016.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a
+
+Onze Minister kan nadere regels stellen ter uitvoering van bindende onderdelen van [verordening (EU) 609/2013](32013R0609) en daarop gebaseerde bindende EU-rechtshandelingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
