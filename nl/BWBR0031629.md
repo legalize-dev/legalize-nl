@@ -4,7 +4,7 @@ identifier: "BWBR0031629"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2021-07-01"
-last_updated: "2017-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031629"
 soort: "AMvB-BES"
@@ -58,21 +58,63 @@ In dit besluit wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen
 
 ##### Artikel 2
 
-De hierna te noemen categorieën dienstverleners mogen het cliëntenonderzoek afstemmen op de risicogevoeligheid voor witwassen of financiering van terrorisme van het type cliënt, zakelijke relatie, product of transactie:
+1. Categorieën van natuurlijke personen die in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende zijn:
 
-- a. administrateurs van beleggingsinstellingen;
+- a. in het geval van een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap, niet zijnde een vennootschap die als uitgevende instelling is onderworpen aan openbaarmakingsvereisten, met inbegrip van een 100 procent dochtermaatschappij van een dergelijke vennootschap:
 
-- b. beleggingsmaatschappijen;
+- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de vennootschap, via:
 
-- c. bemiddelaars in levensverzekeringen;
+- –. het direct of indirect houden van meer dan 25 procent van de aandelen, van de stemrechten of van het eigendomsbelang in de vennootschap, met inbegrip van het houden van toonderaandelen; of
 
-- d. geldtransactiekantoren;
+- –. andere middelen waarmee feitelijke zeggenschap uitgeoefend kan worden over de rechtspersoon; of
 
-- e. kredietinstellingen;
+- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de vennootschap;
 
-- f. levensverzekeraars;
+- b. in het geval van een overige rechtspersoon:
 
-- g. trustkantoren.
+- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de rechtspersoon, via:
+
+- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de rechtspersoon;
+
+- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de statuten van de rechtspersoon; of
+
+- –. het kunnen uitoefenen van feitelijke zeggenschap over de rechtspersoon; of
+
+- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de rechtspersoon;
+
+- c. in het geval van een personenvennootschap:
+
+- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de personenvennootschap via:
+
+- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de personenvennootschap;
+
+- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de overeenkomst die ten grondslag ligt aan de personenvennootschap, of ter zake van de uitvoering van die overeenkomst anders dan door daden van beheer, voor zover in die overeenkomst besluitvorming bij meerderheid van stemmen is voorgeschreven; of
+
+- –. het kunnen uitoefenen van feitelijke zeggenschap over de personenvennootschap; of
+
+- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
+
+- d. in het geval van een trust:
+
+- 1°. de oprichter of oprichters;
+
+- 2°. de trustee of trustees;
+
+- 3°. voor zover van toepassing, de protector of protectors;
+
+- 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
+
+- 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
+
+2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op andere juridische entiteiten vergelijkbaar met een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap.
+
+3. Het eerste lid, onderdeel b, is van overeenkomstige toepassing op andere juridische entiteiten vergelijkbaar met een van deze rechtspersonen.
+
+4. Het eerste lid, onderdeel c, is van overeenkomstige toepassing op rederijen of andere juridische entiteiten vergelijkbaar met een personenvennootschap.
+
+5. Het eerste lid, onderdeel d, is van overeenkomstige toepassing op andere juridische constructies vergelijkbaar met een trust.
+
+6. Voor de toepassing van het eerste lid wordt onder hoger leidinggevend personeel uitsluitend verstaan: elke bestuurder in de zin van [artikel 14 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=14), of, in het geval van een personenvennootschap, elke vennoot, met uitzondering van een vennoot bij wijze van geldschieting als bedoeld in [artikel 15 van het Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&artikel=15).
 
 ##### Artikel 3
 
@@ -80,15 +122,59 @@ De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot 
 
 ##### Artikel 4
 
-[Artikel 2.8, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8) is van overeenkomstige toepassing op:
+1. [Artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8), is in ieder geval van toepassing op de volgende diensten:
 
-- a. het sluiten of bemiddelen bij het sluiten van een levensverzekering tegen een premie of het doen van een uitkering uit hoofde van een levensverzekering indien de eerste premiebetaling wordt gedaan ten laste van, dan wel de uitkering uit hoofde van de levensverzekering wordt betaald ten gunste van een rekening van de cliënt bij een kredietinstelling of een levensverzekeraar die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) of haar onderscheidenlijk zijn zetel heeft in een bij regeling van Onze Minister aan te wijzen land.
+- a. levensverzekeringen waarvan het bedrag van de jaarlijks te betalen premie USD 1.000 of minder bedraagt of waarvan het bedrag van de eenmalige premie USD 2.500 of minder bedraagt;
 
-- b. het verlenen van een dienst als bedoeld in [Bijlage A, deel I, onderdelen a, b of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), voor zover verband houdend met de handel in effecten, indien de eerste betaling die met de dienst verband houdt door de cliënt wordt gedaan, of indien een betaling aan de cliënt wordt gedaan ten laste of ten gunste van een rekening van die cliënt bij een kredietinstelling die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) of haar zetel heeft in een bij regeling van Onze Minister aan te wijzen land.
+- b. het sluiten of bemiddelen bij het sluiten van een levensverzekering tegen een premie of het doen van een uitkering uit hoofde van een levensverzekering indien de eerste premiebetaling wordt gedaan ten laste van, dan wel de uitkering uit hoofde van de levensverzekering wordt betaald ten gunste van een rekening van de cliënt bij een kredietinstelling of een levensverzekeraar die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) of haar onderscheidenlijk zijn zetel heeft in een bij regeling van Onze Minister aan te wijzen land;
+
+- c. producten met betrekking tot een pensioen als bedoeld in [artikel 1 van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1);
+
+- d. het verlenen van een dienst als bedoeld in [bijlage A, deel I, onderdelen a, b of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), voor zover verband houdend met de handel in effecten, indien de eerste betaling die met de dienst verband houdt door de cliënt wordt gedaan, of indien een betaling aan de cliënt wordt gedaan ten laste of ten gunste van een rekening van die cliënt bij een kredietinstelling die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) of haar zetel heeft in een bij regeling van Onze Minister aan te wijzen land.
+
+2. [Artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8) is in ieder geval van toepassing op de volgende cliënten:
+
+- a. beleggingsinstellingen, levensverzekeraars, bemiddelaars in levensverzekeringen, kredietinstellingen en geldtransactiekantoren die beschikken over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
+
+- b. ondernemingen en instellingen als bedoeld in onderdeel a zonder vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) die zijn gevestigd of hun zetel hebben in een bij regeling van Onze Minister aan te wijzen land;
+
+- c. overheidsinstanties van de openbare lichamen of het Europese deel van Nederland;
+
+- d. rechtspersonen die effecten hebben uitgegeven die zijn toegelaten tot de handel op een effectenbeurs die lid is van de World Federation of Exchanges en gevestigd in een bij regeling van Onze Minister aan te wijzen land en 100 procent dochtermaatschappijen van deze rechtspersonen.
 
 ##### Artikel 5
 
-[Artikel 2.9, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.9) is van overeenkomstige toepassing op 100 procent dochtermaatschappijen van de in artikel 2.9, eerste lid, onderdeel d, van de wet genoemde cliënten.
+1. Bij de aangifte van een geldtransport als bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) worden de volgende gegevens verstrekt:
+
+- a. de vervoerder, met inbegrip van volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit en identificatiedocumentnummer en persoonlijke identificatienummer;
+
+- b. de eigenaar van de liquide middelen, met inbegrip van de volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer, persoonlijke identificatienummer, indien de eigenaar een natuurlijke persoon is of de volledige naam, contactgegevens, inclusief adres, registratienummer en, indien van toepassing, fiscaal identificatienummer, indien de eigenaar een rechtspersoon is;
+
+- c. indien van toepassing, de beoogde ontvanger van de liquide middelen, met inbegrip van de volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer, persoonlijke identificatienummer, indien de beoogde ontvanger een natuurlijke persoon is, of de volledige naam, contactgegevens, inclusief adres, registratienummer en, indien van toepassing, fiscaal identificatienummer, indien de beoogde ontvanger een rechtspersoon is;
+
+- d. de aard en het bedrag of de waarde van de liquide middelen;
+
+- e. de economische herkomst van de liquide middelen;
+
+- f. het beoogde gebruik van de liquide middelen;
+
+- g. de transportroute en het vervoermiddel.
+
+2. Bij de kennisgeving, bedoeld in [artikel 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), worden de volgende gegevens verstrekt:
+
+- a. de kennisgever, met inbegrip van volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer en persoonlijke identificatienummer;
+
+- b. de eigenaar van de liquide middelen, met inbegrip van de volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer, persoonlijke identificatienummer indien de eigenaar een natuurlijke persoon is, of de volledige naam, contactgegevens, inclusief adres, registratienummer en, indien van toepassing, fiscaal identificatienummer, indien de eigenaar een rechtspersoon is;
+
+- c. de afzender van de liquide middelen, met inbegrip van de volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer en persoonlijke identificatienummer indien de afzender een natuurlijke persoon is, of de volledige naam, contactgegevens, inclusief adres, registratienummer en, indien van toepassing, fiscaal identificatienummer, indien de afzender een rechtspersoon is;
+
+- d. de ontvanger of beoogde ontvanger van de liquide middelen, met inbegrip van de volledige naam, contactgegevens, inclusief adres, geboorteplaats en geboortedatum, nationaliteit, identificatiedocumentnummer en persoonlijke identificatienummer indien de ontvanger of beoogde ontvanger een natuurlijke persoon is, of de volledige naam, contactgegevens, inclusief adres, registratienummer en, indien van toepassing, fiscaal identificatienummer, indien de ontvanger of beoogde ontvanger een rechtspersoon is;
+
+- e. de aard en het bedrag of de waarde van de liquide middelen;
+
+- f. de economische herkomst van de liquide middelen, en
+
+- g. het beoogde gebruik van de liquide middelen.
 
 #### § 3. Bestuurlijke boete
 
@@ -125,7 +211,7 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 
 ##### Artikel 9
 
-Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=8&z=2017-07-01&g=2017-07-01) vast te stellen boetebedrag wordt verdubbeld, indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01) vast te stellen boetebedrag wordt verdubbeld, indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 10
 
@@ -150,5 +236,21 @@ Dit besluit wordt aangehaald als: Besluit ter voorkoming van witwassen en financ
 ## Bijlage. Boetetabel
 
 ### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=7&z=2017-07-01&g=2017-07-01)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 3. Geldtransporten
+
+#### § 4. Bestuurlijke boete
+
+##### Artikel 10a
+
+In afwijking van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) bedraagt de op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3) op te leggen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+
+#### § 5. Overgangs- en slotbepalingen
+
+## Bijlage. Boetetabel
+
+### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
