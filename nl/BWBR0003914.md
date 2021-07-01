@@ -4,7 +4,7 @@ identifier: "BWBR0003914"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2020-01-21"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003914"
 soort: "AMvB"
@@ -110,7 +110,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit draagbaar klimmaterieel.
 
 ### Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel.
 
-### Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel.
+### Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel als bedoeld in [artikel 3, eerste lid, onderdeel c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003914&artikel=3&z=2021-07-01&g=2021-07-01)
 
 A. 1. Controleer draagbaar klimmaterieel na ontvangst en voor ieder gebruik.
 
@@ -208,7 +208,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Het is verboden draagbaar klimmaterieel te verhandelen, te vervaardigen of binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
-## Bijlage. bij Besluit draagbaar klimmaterieel (Warenwet)
+## Bijlage. bij Warenwetbesluit draagbaar klimmaterieel
 
 ### A. Inspectie en voorbereiding
 
