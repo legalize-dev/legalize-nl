@@ -4,7 +4,7 @@ identifier: "BWBR0025218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2019-10-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025218"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Treedt in werking op het tijdstip waarop artikel I van de Wet elektronische beke
 
 ##### Artikel 1
 
-Het Staatsblad en de Staatscourant worden uitgegeven op www.officielebekendmakingen.nl.
+In deze regeling wordt verstaan onder **minister**: Minister van Justitie en Veiligheid.
 
 ##### Artikel 2
 
-De Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het Staatsblad onderscheidenlijk de Staatscourant voldoen aan de volgende eisen:
+1. De minister draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het Staatsblad voldoen aan de volgende eisen:
 
-- a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1 (ISO 19005-1:2005).
+- a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A, conformiteitsniveau a.
 
 - b. Het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden, voldoet aan hoge continuïteitseisen.
 
@@ -60,19 +60,21 @@ De Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenl
 
 - e. Van elke publicatie wordt een elektronische kopie gemaakt, die wordt opgeslagen buiten het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden.
 
+2. In afwijking van het eerste lid, onderdeel a, kunnen onderdelen van publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat GML-XML voor zover het geometrische of geografische informatie betreft, waaronder begrepen de geometrische begrenzing van gebieden.
+
 ##### Artikel 3
 
-Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als bedoeld in [artikel 9 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=9), geschiedt:
+Vervangende uitgifte van het Staatsblad als bedoeld in [artikel 17, eerste lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=17), geschiedt:
 
-- a. door middel van publicatie op een door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,
+- a. door middel van publicatie op een door de minister aan te wijzen vervangend internetadres,
 
-- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2019-10-01&g=2019-10-01) genoemde uitgiftepunt, of
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2021-07-01&g=2021-07-01) genoemde uitgiftepunt, of
 
-- c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.
+- c. op een andere door de minister te bepalen wijze.
 
 ##### Artikel 4
 
-Het uitgiftepunt, bedoeld in [artikel 10, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=10), is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
+Het uitgiftepunt, bedoeld in [artikel 18, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18), is ondergebracht bij het Kennis- en Exploitatiecentrum Officiële Overheidspublicaties van de Uitvoeringsorganisatie Bedrijfsvoering Rijk, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
 
 ##### Artikel 5
 
@@ -86,12 +88,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) in de Staatscourant ter hoogte van € 5 per uittreksel.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=2&z=2019-10-01&g=2019-10-01) kunnen onderdelen van publicaties in de Staatscourant worden uitgegeven en beschikbaar gehouden in het bestandsformaat GML-XML, voor zover het de geometrische begrenzing van gebieden betreft.
+Met betrekking tot de plaatsing in het Staatsblad van wetten, algemene maatregelen van bestuur en andere koninklijke besluiten waarbij algemeen verbindende voorschriften worden vastgesteld, worden de regels of technische standaarden, bedoeld in [artikel 2.3, eerste onderscheidenlijk tweede lid, van de Regeling elektronische publicaties](onbekend) toegepast die met betrekking tot de plaatsing in de Staatscourant van anders dan bij wet, algemene maatregel van bestuur of ander koninklijk besluit vastgestelde algemeen verbindende voorschriften zijn gesteld onderscheidenlijk zijn aangewezen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Het Staatsblad wordt uitgegeven op https://www.officielebekendmakingen.nl.
+
+##### Artikel 4a
+
+Deze regeling berust mede op de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=17), en [18, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18) en [artikel 8 van het Bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&artikel=8).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
