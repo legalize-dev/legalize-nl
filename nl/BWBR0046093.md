@@ -4,7 +4,7 @@ identifier: "BWBR0046093"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046093"
 soort: "wet"
@@ -67,8 +67,6 @@ Wijzigt de Wet bronbelasting 2021.
 ##### Artikel V
 
 Wijzigt de Wet op de omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
