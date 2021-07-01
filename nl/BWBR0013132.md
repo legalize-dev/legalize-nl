@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2018-08-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -68,7 +68,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -118,7 +118,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2018-08-01&g=2018-08-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), ten behoeve van de betekening.
 
 2. Zo nodig geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -332,13 +332,13 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 26
 
-1. De in [artikel 72, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=72), genoemde rechterlijke ambtenaren met rechtspraak belast en de griffier vormen tezamen de gerechtsvergadering van de Hoge Raad.
+1. Met uitzondering van de raadsheren in buitengewone dienst, bedoeld in [artikel 5a, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5a), vormen de in [artikel 72, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=72) genoemde rechterlijke ambtenaren met rechtspraak belast en de griffier tezamen de gerechtsvergadering van de Hoge Raad.
 
 2. De president is voorzitter van de gerechtsvergadering.
 
 3. Het bijeenroepen geschiedt door een schriftelijke kennisgeving van de president. Hij doet dit ten minste zeven dagen voorafgaand aan de bijeenkomst.
 
-4. De bij de Hoge Raad werkzame gerechtsauditeurs, substituut-griffier en gerechtsambtenaren en de bij het parket van de Hoge Raad werkzame rechterlijke ambtenaren en gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
+4. De raadsheren in buitengewone dienst, bedoeld in [artikel 5a, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5a), de bij de Hoge Raad werkzame gerechtsauditeurs, substituut-griffier en gerechtsambtenaren en de bij het parket van de Hoge Raad werkzame rechterlijke ambtenaren en gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
 
 ##### Artikel 27
 
@@ -352,7 +352,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2018-08-01&g=2018-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2018-08-01&g=2018-08-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2021-07-01&g=2021-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2021-07-01&g=2021-07-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
@@ -452,7 +452,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
 
-2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
