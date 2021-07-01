@@ -4,7 +4,7 @@ identifier: "BWBR0009950"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2020-12-21"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009950"
 soort: "wet"
@@ -243,7 +243,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.2
 
-Met uitzondering van [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2020-12-21&g=2020-12-21) gelden de bepalingen vastgesteld bij of krachtens deze wet mede op en met betrekking tot installaties ter zee in de zin van de [Wet installaties Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0002467).
+Met uitzondering van [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2021-07-01&g=2021-07-01) gelden de bepalingen vastgesteld bij of krachtens deze wet mede op en met betrekking tot installaties ter zee in de zin van de [Wet installaties Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0002467).
 
 ### Hoofdstuk 2. Registratie
 
@@ -259,23 +259,23 @@ Met uitzondering van [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009
 
 ##### Artikel 2.2
 
-1. De Autoriteit Consument en Markt gaat niet over tot registratie als bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), indien:
+1. De Autoriteit Consument en Markt gaat niet over tot registratie als bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), indien:
 
 - a. de mededeling geen betrekking heeft op een openbaar elektronisch communicatienetwerk, een openbare elektronische communicatiedienst, of bijbehorende faciliteiten, of
 
-- b. de op grond van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
+- b. de op grond van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
 
 2. De Autoriteit Consument en Markt beëindigt of wijzigt de registratie indien de grond voor registratie is vervallen.
 
 ##### Artikel 2.3
 
-1. In het belang van de goede uitvoering van deze wet wordt door de Autoriteit Consument en Markt een register van de registraties, bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), bijgehouden. In het register worden in ieder geval de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats van de geregistreerde vermeld.
+1. In het belang van de goede uitvoering van deze wet wordt door de Autoriteit Consument en Markt een register van de registraties, bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), bijgehouden. In het register worden in ieder geval de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats van de geregistreerde vermeld.
 
 2. Het register ligt voor eenieder kosteloos ter inzage op een door de Autoriteit Consument en Markt te bepalen plaats. De gegevens uit het register zijn kosteloos op elektronische wijze te raadplegen.
 
 3. De geregistreerde geeft aan de Autoriteit Consument en Markt onverwijld alle wijzigingen door die van invloed zijn op de registratie.
 
-4. De Autoriteit Consument en Markt brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2020-12-21&g=2020-12-21), of met de wijzigingen die de Autoriteit Consument en Markt op grond van het derde lid heeft ontvangen.
+4. De Autoriteit Consument en Markt brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2021-07-01&g=2021-07-01), of met de wijzigingen die de Autoriteit Consument en Markt op grond van het derde lid heeft ontvangen.
 
 5. Onverminderd het vierde lid, kan de Autoriteit Consument en Markt de gegevens met betrekking tot de registratie wijzigen indien dit noodzakelijk is om feitelijke onjuistheden van eenvoudige aard weg te nemen.
 
@@ -293,11 +293,11 @@ Met uitzondering van [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009
 
 - b. de aanwijzing van frequentiebanden waarbinnen onder verantwoordelijkheid van Onze Minister wie het mede aangaat bij regeling van Onze Minister aan te wijzen publieke taken worden uitgevoerd,
 
-- c. de aanwijzing van frequentiebanden waarbinnen de vergunningen voor het gebruik van frequentieruimte ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), worden verleend zonder toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21),
+- c. de aanwijzing van frequentiebanden waarbinnen de vergunningen voor het gebruik van frequentieruimte ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), worden verleend zonder toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01),
 
-- d. de aanwijzing van frequentiebanden waarbinnen voor bepaalde bestemmingen frequentieruimte al dan niet tezamen met categorieën van radioapparaten als bedoeld in [artikel 3.9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2020-12-21&g=2020-12-21), en al dan niet met een meldingsplicht, zonder vergunning mag worden gebruikt,
+- d. de aanwijzing van frequentiebanden waarbinnen voor bepaalde bestemmingen frequentieruimte al dan niet tezamen met categorieën van radioapparaten als bedoeld in [artikel 3.9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2021-07-01&g=2021-07-01), en al dan niet met een meldingsplicht, zonder vergunning mag worden gebruikt,
 
-- e. de aanwijzing van frequentiebanden waarbinnen frequentieruimte voor bepaalde bestemmingen niet zonder vergunning mag worden gebruikt, alsmede de aanduiding of vergunningen worden verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a, onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), dan wel na een nader te maken keuze tussen een veiling of vergelijkende toets,
+- e. de aanwijzing van frequentiebanden waarbinnen frequentieruimte voor bepaalde bestemmingen niet zonder vergunning mag worden gebruikt, alsmede de aanduiding of vergunningen worden verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a, onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), dan wel na een nader te maken keuze tussen een veiling of vergelijkende toets,
 
 - f. de aanwijzing van frequentiebanden waarbinnen in bij besluit van Onze Minister nader aan te wijzen geografische gebieden frequentieruimte uitsluitend mag worden gebruikt voor het ontvangen van signalen, en
 
@@ -351,7 +351,7 @@ met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt 
 
 ##### Artikel 3.2
 
-1. Onze Minister wie het mede aangaat dient al dan niet op verzoek van Onze Minister bij deze een behoefte-onderbouwingsplan in, waarin gemotiveerd wordt onderbouwd welke frequentieruimte noodzakelijk is voor de in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21), bedoelde taken. Het behoefte-onderbouwingsplan wordt telkens na ten hoogste drie jaar opnieuw ingediend.
+1. Onze Minister wie het mede aangaat dient al dan niet op verzoek van Onze Minister bij deze een behoefte-onderbouwingsplan in, waarin gemotiveerd wordt onderbouwd welke frequentieruimte noodzakelijk is voor de in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01), bedoelde taken. Het behoefte-onderbouwingsplan wordt telkens na ten hoogste drie jaar opnieuw ingediend.
 
 2. Onze Minister kan bij ministeriële regeling nadere regels stellen ten aanzien van de inrichting van het behoefte-onderbouwingsplan.
 
@@ -361,7 +361,7 @@ met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt 
 
 1. Op de voorbereiding van het frequentieplan en wijzigingen daarvan is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat in aanvulling op [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15), ook een gebruiker en een consument zijn zienswijze over het ontwerp naar voren kan brengen.
 
-2. Onze Minister stelt geen frequentieplan of een wijziging daarvan vast met betrekking tot de in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21), bedoelde frequentiebanden zonder dat hij de beschikking heeft over een behoefte-onderbouwingsplan, dat niet langer dan een jaar tevoren bij hem is ingediend.
+2. Onze Minister stelt geen frequentieplan of een wijziging daarvan vast met betrekking tot de in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01), bedoelde frequentiebanden zonder dat hij de beschikking heeft over een behoefte-onderbouwingsplan, dat niet langer dan een jaar tevoren bij hem is ingediend.
 
 3. Het eerste en het tweede lid zijn niet van toepassing voor zover de vaststelling van het frequentieplan of de wijziging daarvan:
 
@@ -415,15 +415,15 @@ met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt 
 
 2. Het frequentieregister geeft aan hoeveel frequentieruimte nog beschikbaar is. Daartoe bevat het frequentieregister:
 
-- a. een opgave van de nog beschikbare frequentieruimte in de frequentiebanden waarbinnen reeds vergunningen zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21),
+- a. een opgave van de nog beschikbare frequentieruimte in de frequentiebanden waarbinnen reeds vergunningen zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01),
 
 - b. een opgave van:
 
-- 1°. de op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) toegewezen frequentieruimte voor publieke taken;
+- 1°. de op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) toegewezen frequentieruimte voor publieke taken;
 
-- 2°. de vergunningen voor het gebruik van de frequentieruimte, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2020-12-21&g=2020-12-21);
+- 2°. de vergunningen voor het gebruik van de frequentieruimte, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-07-01&g=2021-07-01);
 
-- 3°. de vergunningen voor het gebruik van de frequentieruimte die is verdeeld met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21).
+- 3°. de vergunningen voor het gebruik van de frequentieruimte die is verdeeld met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01).
 
 - c. gegevens met betrekking tot de periode gedurende welke de onder b bedoelde frequentieruimte in gebruik is, en
 
@@ -433,25 +433,25 @@ met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt 
 
 ##### Artikel 3.5
 
-Onze Minister wijst in overeenstemming met het frequentieplan uit de aangewezen frequentiebanden, bedoeld in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21), frequentieruimte voor publieke taken slechts toe aan Onze Minister wie het mede aangaat voor zover Onze Minister van oordeel is dat de frequentieruimte, waarop het behoefte-onderbouwingsplan, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2020-12-21&g=2020-12-21), betrekking heeft, noodzakelijk is voor de betrokken publieke taak. Onze Minister kan aan de toewijzing voorschriften en beperkingen verbinden.
+Onze Minister wijst in overeenstemming met het frequentieplan uit de aangewezen frequentiebanden, bedoeld in [artikel 3.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01), frequentieruimte voor publieke taken slechts toe aan Onze Minister wie het mede aangaat voor zover Onze Minister van oordeel is dat de frequentieruimte, waarop het behoefte-onderbouwingsplan, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-07-01&g=2021-07-01), betrekking heeft, noodzakelijk is voor de betrokken publieke taak. Onze Minister kan aan de toewijzing voorschriften en beperkingen verbinden.
 
 ##### Artikel 3.6
 
-1. Ten behoeve van de verzorging van de landelijke, regionale en lokale publieke mediadienst verleent Onze Minister, binnen de in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21), bedoelde frequentiebanden, op aanvraag de vergunningen, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2020-12-21&g=2020-12-21) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2020-12-21&g=2020-12-21), ten behoeve van het uitzenden van programmakanalen als bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1). De vergunning wordt verleend aan:
+1. Ten behoeve van de verzorging van de landelijke, regionale en lokale publieke mediadienst verleent Onze Minister, binnen de in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01), bedoelde frequentiebanden, op aanvraag de vergunningen, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-07-01&g=2021-07-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2021-07-01&g=2021-07-01), ten behoeve van het uitzenden van programmakanalen als bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1). De vergunning wordt verleend aan:
 
 - a. indien het de landelijke publieke mediadienst betreft, de Stichting Nederlandse Publieke Omroep, en
 
 - b. indien het de regionale of lokale publieke mediadienst betreft, aan de instelling die op grond van [hoofdstuk 2, titel 2.3, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van die regionale, onderscheidenlijk lokale publieke mediadienst.
 
-2. De vergunningen worden verleend zonder toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21).
+2. De vergunningen worden verleend zonder toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01).
 
-3. In het belang van een doelmatig gebruik van frequentieruimte, kan Onze Minister, in afwijking van het eerste lid, besluiten dat een krachtens de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2020-12-21&g=2020-12-21) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2020-12-21&g=2020-12-21) verleende vergunning mede wordt verleend ten behoeve van het uitzenden van programmakanalen van een andere publieke media-instelling.
+3. In het belang van een doelmatig gebruik van frequentieruimte, kan Onze Minister, in afwijking van het eerste lid, besluiten dat een krachtens de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-07-01&g=2021-07-01) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2021-07-01&g=2021-07-01) verleende vergunning mede wordt verleend ten behoeve van het uitzenden van programmakanalen van een andere publieke media-instelling.
 
 ##### Artikel 3.7
 
 1. Bij het verlenen van vergunningen voor het gebruik van frequentieruimte op het terrein van de publieke mediadienst, bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), wordt het navolgende in acht genomen:
 
-- a. voor de algemene programmakanalen van de landelijke publieke mediadienst, bedoeld in [artikel 2.50 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.50), wordt ten minste één vergunning verleend op zodanige wijze, dat, voor zover dat technisch mogelijk is, een landelijk bereik mogelijk is;
+- a. voor de algemene programmakanalen van de landelijke publieke mediadienst, bedoeld in [artikel 6.13, derde lid, onder a, en vierde lid, onder a, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.13), wordt ten minste één vergunning verleend op zodanige wijze, dat, voor zover dat technisch mogelijk is, een landelijk bereik mogelijk is;
 
 - b. voor iedere provincie wordt aan de media-instelling die voor de desbetreffende provincie op grond van [hoofdstuk 2, titel 2.3, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van de regionale publieke mediadienst voor ten minste één omroepnet voor radio, een vergunning verleend op zodanige wijze, dat, voor zover dat technisch mogelijk is, een provinciaal bereik mogelijk is;
 
@@ -459,11 +459,11 @@ Onze Minister wijst in overeenstemming met het frequentieplan uit de aangewezen 
 
 - d. aan iedere lokale publieke media-instelling die op grond van [hoofdstuk 2, titel 2.3, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen, zal, voor zover dat technisch mogelijk is, en een doelmatig gebruik van frequentieruimte zich daartegen niet verzet voor ten minste één omroepnet voor radio vergunning worden verleend voor een bereik dat ten minste gelijk is aan het verzorgingsgebied.
 
-2. Indien toepassing wordt gegeven aan [artikel 3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2020-12-21&g=2020-12-21), kan de vergunning, bedoeld in het eerste lid, aan een andere publieke media-instelling dan de in het eerste lid bedoelde publieke media instelling worden verleend.
+2. Indien toepassing wordt gegeven aan [artikel 3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-07-01&g=2021-07-01), kan de vergunning, bedoeld in het eerste lid, aan een andere publieke media-instelling dan de in het eerste lid bedoelde publieke media instelling worden verleend.
 
 ##### Artikel 3.8
 
-Voor zover een vergunning niet krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2020-12-21&g=2020-12-21) dient te worden verleend, kan Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap bij ministeriële regeling regels vaststellen met betrekking tot de verlening van extra vergunningen voor het gebruik van frequentieruimte in de frequentiebanden, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21), ten behoeve van het uitzenden van programmakanalen door een landelijke, regionale of lokale publieke media-instelling boven de aantallen, bedoeld in artikel 3.7.
+Voor zover een vergunning niet krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-07-01&g=2021-07-01) dient te worden verleend, kan Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap bij ministeriële regeling regels vaststellen met betrekking tot de verlening van extra vergunningen voor het gebruik van frequentieruimte in de frequentiebanden, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01), ten behoeve van het uitzenden van programmakanalen door een landelijke, regionale of lokale publieke media-instelling boven de aantallen, bedoeld in artikel 3.7.
 
 #### § 3.3. Bijzonder gebruik van frequentieruimte
 
@@ -483,7 +483,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 3.10
 
-1. De verlening van vergunningen door Onze Minister in andere gevallen dan bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2020-12-21&g=2020-12-21) en [3.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3a&artikel=3.8a&z=2020-12-21&g=2020-12-21) geschiedt met toepassing van een van de volgende procedures:
+1. De verlening van vergunningen door Onze Minister in andere gevallen dan bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-07-01&g=2021-07-01) en [3.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.3a&artikel=3.8a&z=2021-07-01&g=2021-07-01) geschiedt met toepassing van een van de volgende procedures:
 
 - a. op volgorde van binnenkomst van de aanvragen,
 
@@ -513,13 +513,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 7. Het zesde lid is niet van toepassing indien de naleving van een verdrag of een besluit van een volkenrechtelijke organisatie betreffende het gebruik van radiofrequenties of posities in de ruimte het nemen van een besluit binnen genoemde termijnen verhindert.
 
-8. [Artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2020-12-21&g=2020-12-21) is van overeenkomstige toepassing op een besluit als bedoeld in het zesde lid.
+8. [Artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing op een besluit als bedoeld in het zesde lid.
 
 #### § 3.4. Gebruik van frequentieruimte zonder vergunning
 
 ##### Artikel 3.11
 
-1. Bij ministeriële regeling kan, in het belang van een optimale verdeling dan wel een doelmatig gebruik van de frequentieruimte, de maximale hoeveelheid frequentieruimte worden vastgesteld die een natuurlijk persoon of een rechtspersoon ten hoogste mag gebruiken of in een verdeling als bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), kan verwerven. Daarbij kan een onderscheid worden gemaakt tussen verschillende categorieën van frequentieruimte en worden bepaald voor welke periode de maximale hoeveelheid frequentieruimte van toepassing is.
+1. Bij ministeriële regeling kan, in het belang van een optimale verdeling dan wel een doelmatig gebruik van de frequentieruimte, de maximale hoeveelheid frequentieruimte worden vastgesteld die een natuurlijk persoon of een rechtspersoon ten hoogste mag gebruiken of in een verdeling als bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), kan verwerven. Daarbij kan een onderscheid worden gemaakt tussen verschillende categorieën van frequentieruimte en worden bepaald voor welke periode de maximale hoeveelheid frequentieruimte van toepassing is.
 
 2. In het geval er een maximum is vastgesteld als bedoeld in het eerste lid, kan bij ministeriële regeling worden bepaald wanneer natuurlijke personen of rechtspersonen voor de toepassing van het eerste lid als één worden aangemerkt voor de vraag of de maximale hoeveelheid frequentieruimte wordt overschreden.
 
@@ -535,9 +535,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 2. Een vergunning als bedoeld in het eerste lid, wordt niet gebruikt voor het aanbieden van openbare elektronische communicatiediensten.
 
-3. Bij de vergunningverlening kan worden afgeweken van het bepaalde in de [artikelen 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.13&z=2020-12-21&g=2020-12-21), en [3.18, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2020-12-21&g=2020-12-21).
+3. Bij de vergunningverlening kan worden afgeweken van het bepaalde in de [artikelen 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.13&z=2021-07-01&g=2021-07-01), en [3.18, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2021-07-01&g=2021-07-01).
 
-4. Vergunningen als bedoeld in het eerste lid, worden verleend volgens de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21).
+4. Vergunningen als bedoeld in het eerste lid, worden verleend volgens de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 4. Nummerbeleid en nummerbeheer
 
@@ -587,9 +587,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 5. Een toekenning van nummers kan in het belang van een doelmatig gebruik van nummers onder beperkingen worden verleend. In dat belang kunnen aan een toekenning voorschriften worden verbonden.
 
-6. Gedurende de voorbereiding van een nummerplan kan de Autoriteit Consument en Markt, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van [artikel 4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.
+6. Gedurende de voorbereiding van een nummerplan kan de Autoriteit Consument en Markt, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van [artikel 4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.
 
-7. Indien meer aanvragen met een gelijke voorkeur om toekenning van een bepaald nummer, dan wel bepaalde nummers op dezelfde dag bij de Autoriteit Consument en Markt ter behandeling zijn ingediend, besluit de Autoriteit Consument en Markt op die aanvragen door middel van het lot. Van deze procedure zijn uitgesloten nummers als bedoeld in het achtste lid en nummers als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2020-12-21&g=2020-12-21).
+7. Indien meer aanvragen met een gelijke voorkeur om toekenning van een bepaald nummer, dan wel bepaalde nummers op dezelfde dag bij de Autoriteit Consument en Markt ter behandeling zijn ingediend, besluit de Autoriteit Consument en Markt op die aanvragen door middel van het lot. Van deze procedure zijn uitgesloten nummers als bedoeld in het achtste lid en nummers als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2021-07-01&g=2021-07-01).
 
 8. Nummers van uitzonderlijke economische waarde worden toegekend door middel van een procedure van veiling, indien dit met betrekking tot die nummers in een nummerplan is vastgelegd. De opbrengst van de veiling komt toe aan de Staat.
 
@@ -609,7 +609,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 1. Een toekenning wordt geweigerd, indien:
 
-- a. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van [artikel 4.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2020-12-21&g=2020-12-21), vastgestelde aanwijzing;
+- a. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van [artikel 4.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2021-07-01&g=2021-07-01), vastgestelde aanwijzing;
 
 - b. redelijkerwijs is te verwachten dat door de aanvrager niet zal of kan worden voldaan aan het bij of krachtens deze wet met betrekking tot nummers bepaalde;
 
@@ -621,7 +621,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 - b. het in de aanvraag omschreven voorgenomen gebruik de toekenning van de gevraagde hoeveelheid nummers niet rechtvaardigt;
 
-- c. de Autoriteit Consument en Markt eerder een aanvraag heeft geweigerd of een eerdere toekenning heeft opgeschort of ingetrokken op grond van [artikel 4.7, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2020-12-21&g=2020-12-21);
+- c. de Autoriteit Consument en Markt eerder een aanvraag heeft geweigerd of een eerdere toekenning heeft opgeschort of ingetrokken op grond van [artikel 4.7, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2021-07-01&g=2021-07-01);
 
 - d. uit de aanvraag blijkt dat deze wordt gedaan met de kennelijke bedoeling de bij de aanvraag gevraagde nummers te verhandelen;
 
@@ -641,9 +641,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 - a. de toekenning van een nummer te weigeren, op te schorten of in te trekken,
 
-- b. de aanbieder van een openbare elektronische communicatiedienst een aanwijzing te geven de betaling die gerelateerd is aan het betreffende nummer op te schorten overeenkomstig [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3a&z=2020-12-21&g=2020-12-21), of
+- b. de aanbieder van een openbare elektronische communicatiedienst een aanwijzing te geven de betaling die gerelateerd is aan het betreffende nummer op te schorten overeenkomstig [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3a&z=2021-07-01&g=2021-07-01), of
 
-- c. de aanbieder van een openbare elektronische communicatiedienst een aanwijzing te geven de aankiesbaarheid van het desbetreffende nummer op te schorten overeenkomstig [artikel 7.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3b&z=2020-12-21&g=2020-12-21).
+- c. de aanbieder van een openbare elektronische communicatiedienst een aanwijzing te geven de aankiesbaarheid van het desbetreffende nummer op te schorten overeenkomstig [artikel 7.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3b&z=2021-07-01&g=2021-07-01).
 
 2. De gedragingen hebben betrekking op het kennelijk misbruik maken van de tarifering van een nummer.
 
@@ -651,11 +651,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 1. De Autoriteit Consument en Markt kan op aanvraag van de nummerhouder een toekenning wijzigen of intrekken.
 
-2. Op een aanvraag tot wijziging is [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2020-12-21&g=2020-12-21) van overeenkomstige toepassing.
+2. Op een aanvraag tot wijziging is [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2021-07-01&g=2021-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 4.6
 
-De Autoriteit Consument en Markt kan op gezamenlijke aanvraag van de desbetreffende nummerhouder en een derde toestaan dat de toekenning overgaat op de derde. [Artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2020-12-21&g=2020-12-21), en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2020-12-21&g=2020-12-21) zijn van overeenkomstige toepassing.
+De Autoriteit Consument en Markt kan op gezamenlijke aanvraag van de desbetreffende nummerhouder en een derde toestaan dat de toekenning overgaat op de derde. [Artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2021-07-01&g=2021-07-01), en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4.7
 
@@ -677,7 +677,7 @@ De Autoriteit Consument en Markt kan op gezamenlijke aanvraag van de desbetreffe
 
 - c. de nummerhouder niet meer voldoet aan de voorwaarden om in aanmerking te komen voor toekenning van dat nummer.
 
-5. Met betrekking tot bij ministeriële regeling aangewezen categorieën van nummers kan een toekenning door de Autoriteit Consument en Markt worden opgeschort voor een door de Autoriteit Consument en Markt te bepalen termijn die niet langer duurt dan twee weken, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels niet nakomt of de aan het toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21) verricht. De Autoriteit Consument en Markt kan de in de vorige volzin genoemde periode eenmalig met maximaal twee weken verlengen.
+5. Met betrekking tot bij ministeriële regeling aangewezen categorieën van nummers kan een toekenning door de Autoriteit Consument en Markt worden opgeschort voor een door de Autoriteit Consument en Markt te bepalen termijn die niet langer duurt dan twee weken, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels niet nakomt of de aan het toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01) verricht. De Autoriteit Consument en Markt kan de in de vorige volzin genoemde periode eenmalig met maximaal twee weken verlengen.
 
 ##### Artikel 4.8
 
@@ -757,7 +757,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt onder een aanbieder va
 
 4. Voor zover het voor het aansluiten van gebruikers op een openbaar elektronisch communicatienetwerk nodig is, is bovendien de rechthebbende op een gebouw verplicht de aanleg, instandhouding of opruiming van netwerkaansluitpunten en kabels in en aan dit gebouw te gedogen.
 
-5. De rechthebbende op een toegangspunt of fysieke binnenhuisinfrastructuur is verplicht te gedogen dat daarvan gebruik wordt gemaakt ten dienste van de aanleg van een elektronisch communicatienetwerk met hoge snelheid als bedoeld in [artikel 5a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=1&artikel=5a.1&z=2020-12-21&g=2020-12-21) wanneer verdubbeling technisch onmogelijk of economisch inefficiënt is, en het medegebruik nodig is voor het aansluiten van gebruikers op dat netwerk.
+5. De rechthebbende op een toegangspunt of fysieke binnenhuisinfrastructuur is verplicht te gedogen dat daarvan gebruik wordt gemaakt ten dienste van de aanleg van een elektronisch communicatienetwerk met hoge snelheid als bedoeld in [artikel 5a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=1&artikel=5a.1&z=2021-07-01&g=2021-07-01) wanneer verdubbeling technisch onmogelijk of economisch inefficiënt is, en het medegebruik nodig is voor het aansluiten van gebruikers op dat netwerk.
 
 6. Indien ten behoeve van een andere toepassing dan elektronische communicatie bovengrondse ondersteuningswerken zijn of worden aangelegd waarmee ten behoeve van die toepassing bovengronds fysieke draden zijn of worden aangelegd, is de rechthebbende op of de beheerder van openbare of niet-openbare grond waarboven deze draden zijn of worden aangelegd, verplicht te gedogen dat met de uitsluitende gebruikmaking van deze bovengrondse ondersteuningswerken tevens kabels ten behoeve van een openbaar elektronisch communicatienetwerk boven de desbetreffende grond worden aangelegd, instandgehouden of opgeruimd. Voor de rechthebbende op of de beheerder van de genoemde bovengrondse ondersteuningswerken bestaat geen gedoogplicht voor het gebruik laten maken van deze werken.
 
@@ -767,7 +767,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt onder een aanbieder va
 
 - b. zo min mogelijk verandering in de uiterlijke gedaante en zo min mogelijk belemmering in het gebruik ervan teweeggebracht.
 
-8. Op verzoek van degene op wie de gedoogplicht rust, maakt de aanbieder van een openbaar elektronisch communicatienetwerk ter uitvoering van het zevende lid, onderdeel b, gebruik van ondergrondse voorzieningen, die door degene op wie de gedoogplicht rust of een derde tegen marktconforme prijs en objectieve, transparante, evenredige en niet-discriminerende voorwaarden ter beschikking wordt gesteld, tenzij de aanbieder aannemelijk kan maken dat medegebruik als bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21) niet haalbaar is. Bij algemene maatregel van bestuur kunnen aanvullende voorwaarden worden gesteld met betrekking tot de aanleg en vorm van aan te leggen netwerken ingeval van gebruik van voorzieningen als bedoeld in de eerste volzin.
+8. Op verzoek van degene op wie de gedoogplicht rust, maakt de aanbieder van een openbaar elektronisch communicatienetwerk ter uitvoering van het zevende lid, onderdeel b, gebruik van ondergrondse voorzieningen, die door degene op wie de gedoogplicht rust of een derde tegen marktconforme prijs en objectieve, transparante, evenredige en niet-discriminerende voorwaarden ter beschikking wordt gesteld, tenzij de aanbieder aannemelijk kan maken dat medegebruik als bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01) niet haalbaar is. Bij algemene maatregel van bestuur kunnen aanvullende voorwaarden worden gesteld met betrekking tot de aanleg en vorm van aan te leggen netwerken ingeval van gebruik van voorzieningen als bedoeld in de eerste volzin.
 
 9. De aanbieder van een openbaar elektronisch communicatienetwerk is verplicht om aangelegde kabels die gedurende een aaneengesloten periode van tien jaar geen deel uitmaken van een openbaar elektronisch communicatienetwerk op te ruimen wanneer degene op wie de gedoogplicht rust de aanbieder daartoe een redelijk verzoek doet. De gedoogplicht vervalt op het moment dat een verzoek als bedoeld in de eerste volzin is gedaan.
 
@@ -783,11 +783,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt onder een aanbieder va
 
 - b. het gebruiken van fysieke binnenhuisinfrastructuur of toegangspunten,
 
-stelt de rechthebbende of de beheerder, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2020-12-21&g=2020-12-21), schriftelijk in kennis van dit voornemen en streeft vervolgens naar overeenstemming over de plaats, het tijdstip en de wijze van uitvoering van de werkzaamheden.
+stelt de rechthebbende of de beheerder, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2021-07-01&g=2021-07-01), schriftelijk in kennis van dit voornemen en streeft vervolgens naar overeenstemming over de plaats, het tijdstip en de wijze van uitvoering van de werkzaamheden.
 
-2. Indien binnen 2 maanden na de datum van verzending van de schriftelijke kennisgeving geen overeenstemming is bereikt, kan de aanbieder alsmede de rechthebbende of de beheerder, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2020-12-21&g=2020-12-21), binnen 2 weken de Autoriteit Consument en Markt verzoeken een beschikking te geven over de toepasselijkheid van de gedoogplicht of de plaats, het tijdstip en de wijze van de uit te voeren werkzaamheden.
+2. Indien binnen 2 maanden na de datum van verzending van de schriftelijke kennisgeving geen overeenstemming is bereikt, kan de aanbieder alsmede de rechthebbende of de beheerder, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2021-07-01&g=2021-07-01), binnen 2 weken de Autoriteit Consument en Markt verzoeken een beschikking te geven over de toepasselijkheid van de gedoogplicht of de plaats, het tijdstip en de wijze van de uit te voeren werkzaamheden.
 
-3. De Autoriteit Consument en Markt geeft de beschikking zo spoedig mogelijk, doch uiterlijk binnen 2 maanden na ontvangst van het verzoek. [Artikel 12.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing.
+3. De Autoriteit Consument en Markt geeft de beschikking zo spoedig mogelijk, doch uiterlijk binnen 2 maanden na ontvangst van het verzoek. [Artikel 12.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de schriftelijke kennisgeving.
 
@@ -833,19 +833,19 @@ met ernstige belemmering of storing van de communicatie.
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de verordening.
 
-7. Indien een gemeente gedoogplichtig is, vindt [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2020-12-21&g=2020-12-21) geen toepassing voor zover de belangen van de gemeente kunnen worden behartigd in het door burgemeester en wethouders te verlenen instemmingsbesluit.
+7. Indien een gemeente gedoogplichtig is, vindt [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2021-07-01&g=2021-07-01) geen toepassing voor zover de belangen van de gemeente kunnen worden behartigd in het door burgemeester en wethouders te verlenen instemmingsbesluit.
 
 ##### Artikel 5.5
 
-1. Indien voor de aanleg, instandhouding of opruiming van kabels ten dienste van een openbaar elektronisch communicatienetwerk zowel een aanvraag voor een besluit als bedoeld in [artikel 5.4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), bij burgemeester en wethouders van de gemeente binnen wiens grondgebied de uit te voeren werkzaamheden plaats zullen vinden, als een aanvraag voor een vergunning al dan niet bij een ander bestuursorgaan op grond van een andere wet is ingediend, dan stelt de aanvrager burgemeester en wethouders hiervan op de hoogte.
+1. Indien voor de aanleg, instandhouding of opruiming van kabels ten dienste van een openbaar elektronisch communicatienetwerk zowel een aanvraag voor een besluit als bedoeld in [artikel 5.4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), bij burgemeester en wethouders van de gemeente binnen wiens grondgebied de uit te voeren werkzaamheden plaats zullen vinden, als een aanvraag voor een vergunning al dan niet bij een ander bestuursorgaan op grond van een andere wet is ingediend, dan stelt de aanvrager burgemeester en wethouders hiervan op de hoogte.
 
 2. Burgemeester en wethouders van de desbetreffende gemeente bevorderen op verzoek van de aanvrager een inhoudelijke afstemming bij de beoordeling van de aanvragen. De overige betrokken bestuursorganen verlenen de daarvoor benodigde medewerking.
 
-3. [Artikel 5.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing in het geval van vergunningverlening als bedoeld in het eerste lid.
+3. [Artikel 5.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing in het geval van vergunningverlening als bedoeld in het eerste lid.
 
 ##### Artikel 5.6
 
-1. In geval van spoedeisende werkzaamheden ten gevolge van een ernstige belemmering of storing van de communicatie is het bepaalde bij of krachtens de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2020-12-21&g=2020-12-21) en [5.4, eerste tot en met vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), niet van toepassing op de instandhouding van kabels ten dienste van een openbaar elektronisch communicatienetwerk en kan door de aanbieder van het openbaar elektronische communicatienetwerk worden volstaan met een melding voorafgaand aan de uit te voeren werkzaamheden aan degene op wie de gedoogplicht rust.
+1. In geval van spoedeisende werkzaamheden ten gevolge van een ernstige belemmering of storing van de communicatie is het bepaalde bij of krachtens de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2021-07-01&g=2021-07-01) en [5.4, eerste tot en met vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), niet van toepassing op de instandhouding van kabels ten dienste van een openbaar elektronisch communicatienetwerk en kan door de aanbieder van het openbaar elektronische communicatienetwerk worden volstaan met een melding voorafgaand aan de uit te voeren werkzaamheden aan degene op wie de gedoogplicht rust.
 
 2. Ingeval de werkzaamheden in verband met de instandhouding van kabels worden verricht in of op openbare gronden, wordt hiervan door de aanbieder tevens voorafgaand aan de uit te voeren werkzaamheden melding gedaan bij de burgemeester van de gemeente binnen wiens grondgebied de werkzaamheden zullen plaatsvinden, of bij een daartoe door hem gemachtigd ambtenaar. Ingeval de melding bij de gemachtigde heeft plaatsgevonden stelt de gemachtigde de burgemeester zo spoedig mogelijk daarvan in kennis.
 
@@ -853,7 +853,7 @@ met ernstige belemmering of storing van de communicatie.
 
 4. Het besluit wordt onverwijld na het tijdstip van ontvangst van de melding genomen.
 
-5. In de verordening, bedoeld in [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), kan de gemeenteraad om redenen van veiligheid delen van een grondgebied aanwijzen waarvoor dit artikel niet van toepassing is.
+5. In de verordening, bedoeld in [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), kan de gemeenteraad om redenen van veiligheid delen van een grondgebied aanwijzen waarvoor dit artikel niet van toepassing is.
 
 ##### Artikel 5.7
 
@@ -905,7 +905,7 @@ ongeacht dat de beheerder, genoemd in de onderdelen a tot en met c, op het momen
 
 2. In afwijking van het eerste lid, heeft de aanbieder recht op vergoeding van de door hem gemaakte kosten ter uitvoering van een verzoek als bedoeld in het eerste lid, indien na verloop van drie jaar nadat dat verzoek is gedaan, de beheerder geen rechthebbende is op de betrokken gronden, noch een huurrecht, of een recht van erfpacht of opstal, of een gebruiksrecht strekkende tot de oprichting van gebouwen of de uitvoering van werken heeft verkregen van degene die rechthebbende is op de betrokken gronden.
 
-3. [Artikel 5.8, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2020-12-21&g=2020-12-21), zijn van overeenkomstige toepassing.
+3. [Artikel 5.8, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 5.10
 
@@ -925,11 +925,11 @@ De aanleg, instandhouding en opruiming van kabels ten dienste van een openbaar e
 
 ##### Artikel 6.2
 
-1. Indien de onderhandelingen, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2020-12-21&g=2020-12-21), niet resulteren in een overeenkomst tussen de in dat artikel bedoelde aanbieders, kan de Autoriteit Consument en Markt op aanvraag van een van hen, voor zover naar het oordeel van de Autoriteit Consument en Markt verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot een overeenkomst, de andere betrokken aanbieder, voor zover deze daarbij de toegang tot eindgebruikers controleert, verplichten de door de aanvrager gewenste eind- tot eindverbindingen tot stand te brengen en te waarborgen onder door de Autoriteit Consument en Markt te bepalen voorwaarden, indien de Autoriteit Consument en Markt van oordeel is dat de belangen van de andere aanbieder die ertoe geleid hebben dat er geen overeenkomst tot stand is gekomen redelijkerwijs niet opwegen tegen de belangen van de indiener van het verzoek.
+1. Indien de onderhandelingen, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2021-07-01&g=2021-07-01), niet resulteren in een overeenkomst tussen de in dat artikel bedoelde aanbieders, kan de Autoriteit Consument en Markt op aanvraag van een van hen, voor zover naar het oordeel van de Autoriteit Consument en Markt verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot een overeenkomst, de andere betrokken aanbieder, voor zover deze daarbij de toegang tot eindgebruikers controleert, verplichten de door de aanvrager gewenste eind- tot eindverbindingen tot stand te brengen en te waarborgen onder door de Autoriteit Consument en Markt te bepalen voorwaarden, indien de Autoriteit Consument en Markt van oordeel is dat de belangen van de andere aanbieder die ertoe geleid hebben dat er geen overeenkomst tot stand is gekomen redelijkerwijs niet opwegen tegen de belangen van de indiener van het verzoek.
 
-2. De Autoriteit Consument en Markt kan voorts ambtshalve, al dan niet in het kader van een aanvraag als bedoeld in het eerste lid, aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, die daarbij de toegang tot eindgebruikers controleren, verplichtingen opleggen met betrekking tot het tot stand brengen en waarborgen van eind- tot eindverbindingen, indien dit in het voorliggende geval in het licht van de doelstellingen, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2020-12-21&g=2020-12-21) gerechtvaardigd is.
+2. De Autoriteit Consument en Markt kan voorts ambtshalve, al dan niet in het kader van een aanvraag als bedoeld in het eerste lid, aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, die daarbij de toegang tot eindgebruikers controleren, verplichtingen opleggen met betrekking tot het tot stand brengen en waarborgen van eind- tot eindverbindingen, indien dit in het voorliggende geval in het licht van de doelstellingen, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2021-07-01&g=2021-07-01) gerechtvaardigd is.
 
-3. Op een besluit van de Autoriteit Consument en Markt op een aanvraag als bedoeld in het eerste en tweede lid is [artikel 12.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2020-12-21&g=2020-12-21), van overeenkomstige toepassing.
+3. Op een besluit van de Autoriteit Consument en Markt op een aanvraag als bedoeld in het eerste en tweede lid is [artikel 12.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
 
 4. Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan in de Staatscourant.
 
@@ -947,7 +947,7 @@ indien naar haar oordeel replicatie van die kabels of bijbehorende faciliteiten 
 
 3. De Autoriteit Consument en Markt kan met het oog op de doelstellingen, bedoeld in het eerste lid, aan een aanbieder van een elektronisch communicatienetwerk onder billijke voorwaarden verplichtingen opleggen om toegang tot het netwerk te verlenen tot een punt van samenkomst dat enerzijds zo dicht mogelijk bij het netwerkaansluitpunt is gelegen en anderzijds, gelet op het aantal aangesloten eindgebruikers, het mogelijk maakt voor een efficiënte aanbieder op economisch haalbare wijze elektronische communicatiediensten aan te bieden.
 
-4. De Autoriteit Consument en Markt houdt bij de toepassing van het derde lid rekening met verplichtingen die zijn opgelegd op grond van [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2020-12-21&g=2020-12-21) en kan de in het derde lid bedoelde verplichtingen alleen opleggen indien zij van oordeel is:
+4. De Autoriteit Consument en Markt houdt bij de toepassing van het derde lid rekening met verplichtingen die zijn opgelegd op grond van [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2021-07-01&g=2021-07-01) en kan de in het derde lid bedoelde verplichtingen alleen opleggen indien zij van oordeel is:
 
 - a. dat sprake is van grote en niet-tijdelijke economische of fysieke belemmeringen voor replicatie van het netwerk of de bijbehorende faciliteiten die een marktsituatie hebben veroorzaakt of naar verwachting zullen veroorzaken die aanzienlijke gevolgen heeft voor eindgebruikers wat betreft keuze, prijs en kwaliteit; en
 
@@ -975,7 +975,7 @@ indien naar haar oordeel replicatie van die kabels of bijbehorende faciliteiten 
 
 ##### Artikel 6.4
 
-Voorschriften en verplichtingen als bedoeld in onderscheidenlijk [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2020-12-21&g=2020-12-21), [artikel 6.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2020-12-21&g=2020-12-21), en [artikel 6.3, eerste tot en met vijfde lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21) zijn objectief, transparant, proportioneel en niet-discriminerend.
+Voorschriften en verplichtingen als bedoeld in onderscheidenlijk [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2021-07-01&g=2021-07-01), [artikel 6.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2021-07-01&g=2021-07-01), en [artikel 6.3, eerste tot en met vijfde lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01) zijn objectief, transparant, proportioneel en niet-discriminerend.
 
 ##### Artikel 6.5
 
@@ -995,7 +995,7 @@ en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a
 
 ##### Artikel 6.6
 
-[Artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing op onderhandelingen tot het verkrijgen van toegang tot het netwerk van een aanbieder van elektronische communicatienetwerken.
+[Artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.1&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op onderhandelingen tot het verkrijgen van toegang tot het netwerk van een aanbieder van elektronische communicatienetwerken.
 
 ##### Artikel 6.7
 
@@ -1057,13 +1057,13 @@ en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a
 
 - e. de schadevergoedingsregeling of terugbetalingsregeling die geldt indien de overeenkomst, voor zover het het kwaliteitsniveau van de geleverde dienst betreft, niet wordt nagekomen, en
 
-- f. de wijze waarop gebruik kan worden gemaakt van de geschillencommissie, bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2020-12-21&g=2020-12-21) of van de procedure, bedoeld in [artikel 12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.2&artikel=12.9&z=2020-12-21&g=2020-12-21);
+- f. de wijze waarop gebruik kan worden gemaakt van de geschillencommissie, bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2021-07-01&g=2021-07-01) of van de procedure, bedoeld in [artikel 12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.2&artikel=12.9&z=2021-07-01&g=2021-07-01);
 
-- g. de in [artikel 11.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2020-12-21&g=2020-12-21), genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens al dan niet zullen worden opgenomen in een abonneelijst en in voor abonnee-informatiediensten gebruikte abonneebestanden, en de op te nemen gegevens;
+- g. de in [artikel 11.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2021-07-01&g=2021-07-01), genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens al dan niet zullen worden opgenomen in een abonneelijst en in voor abonnee-informatiediensten gebruikte abonneebestanden, en de op te nemen gegevens;
 
 - h. de maatregelen die de onderneming neemt of kan nemen in reactie op beveiligings- en integriteitsincidenten of bedreigingen en kwetsbaarheden;
 
-- i. de criteria voor verstrekking van de compensatie, bedoeld in [artikel 7.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.1a&z=2020-12-21&g=2020-12-21), waaronder in ieder geval de minimale duur van de onderbreking en de minimale vergoeding.
+- i. de criteria voor verstrekking van de compensatie, bedoeld in [artikel 7.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.1a&z=2021-07-01&g=2021-07-01), waaronder in ieder geval de minimale duur van de onderbreking en de minimale vergoeding.
 
 2. Een aanbieder van een openbare elektronische communicatiedienst zorgt ervoor dat de gegevens die hij voor of bij het sluiten van de overeenkomst verstrekt, opgenomen worden in de tussen hem en de desbetreffende consument te sluiten overeenkomst.
 
@@ -1105,13 +1105,13 @@ en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over het door de aanbieder van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aan de eindgebruiker en Onze Minister te verstrekken informatie met betrekking tot:
 
-- a. wijzigingen betreffende de toegang tot noodhulpdiensten of de nauwkeurigheid van de op grond van [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.10&z=2020-12-21&g=2020-12-21) te verstrekken gegevens;
+- a. wijzigingen betreffende de toegang tot noodhulpdiensten of de nauwkeurigheid van de op grond van [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.10&z=2021-07-01&g=2021-07-01) te verstrekken gegevens;
 
 - b. wijzigingen in de voorwaarden voor beperking van de toegang tot of het gebruik van diensten en toepassingen;
 
 - c. de door de aanbieder ingestelde maatregelen bij congestie en de gevolgen daarvan voor de kwaliteit van de dienstverlening;
 
-- d. de in [artikel 11.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2020-12-21&g=2020-12-21), genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens in een gids al dan niet zullen worden opgenomen, en de gegevens in kwestie; en
+- d. de in [artikel 11.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2021-07-01&g=2021-07-01), genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens in een gids al dan niet zullen worden opgenomen, en de gegevens in kwestie; en
 
 - e. producten en diensten voor eindgebruikers met een fysieke beperking.
 
@@ -1119,7 +1119,7 @@ en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a
 
 ##### Artikel 7.4
 
-1. Aanbieders van openbare telefoondiensten op een vaste locatie of van openbare betaaltelefoons die krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2020-12-21&g=2020-12-21) zijn aangewezen en aanbieders van vaste openbare telefoondiensten of van openbare betaaltelefoons die langer dan tweeënvijftig weken dergelijke diensten leveren, maken jaarlijks voor 1 april op genoegzame wijze een overzicht over het voorafgaande kalenderjaar bekend van de kwaliteit van de door hen aangeboden diensten op basis van de in bijlage III van [richtlijn nr. 2002/22/EG](32002L0022) gespecificeerde parameters, definities en meetmethoden. Het in de eerste volzin bedoelde overzicht bevat een beschrijving van de door de aanbieder genomen maatregelen om gelijkwaardige toegang voor eindgebruikers met een fysieke beperking te waarborgen. Het in de eerste volzin bedoelde overzicht wordt voor bekendmaking aan de Autoriteit Consument en Markt ter beschikking gesteld.
+1. Aanbieders van openbare telefoondiensten op een vaste locatie of van openbare betaaltelefoons die krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2021-07-01&g=2021-07-01) zijn aangewezen en aanbieders van vaste openbare telefoondiensten of van openbare betaaltelefoons die langer dan tweeënvijftig weken dergelijke diensten leveren, maken jaarlijks voor 1 april op genoegzame wijze een overzicht over het voorafgaande kalenderjaar bekend van de kwaliteit van de door hen aangeboden diensten op basis van de in bijlage III van [richtlijn nr. 2002/22/EG](32002L0022) gespecificeerde parameters, definities en meetmethoden. Het in de eerste volzin bedoelde overzicht bevat een beschrijving van de door de aanbieder genomen maatregelen om gelijkwaardige toegang voor eindgebruikers met een fysieke beperking te waarborgen. Het in de eerste volzin bedoelde overzicht wordt voor bekendmaking aan de Autoriteit Consument en Markt ter beschikking gesteld.
 
 2. Bij ministeriële regeling kunnen ten aanzien van de in het eerste lid genoemde verplichtingen nadere regels worden gesteld.
 
@@ -1137,7 +1137,7 @@ en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a
 
 ##### Artikel 7.5
 
-Bij algemene maatregel van bestuur worden regels gesteld inzake het, met inachtneming van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2020-12-21&g=2020-12-21), aan derden ter beschikking stellen van bij die regels aan te wijzen categorieën van nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen en van een abonnee-informatiedienst.
+Bij algemene maatregel van bestuur worden regels gesteld inzake het, met inachtneming van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2021-07-01&g=2021-07-01), aan derden ter beschikking stellen van bij die regels aan te wijzen categorieën van nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen en van een abonnee-informatiedienst.
 
 ##### Artikel 7.6
 
@@ -1151,7 +1151,7 @@ Bij algemene maatregel van bestuur worden regels gesteld inzake het, met inachtn
 
 1. Aanbieders van openbare elektronische communicatienetwerken die worden gebruikt om uitgaande gesprekken naar een nummer in het nummerplan aan te bieden, openbare betaaltelefoons en openbare telefoondiensten stellen het gebruik van alarmnummers kosteloos en zonder toegangsbelemmeringen ter beschikking aan alle gebruikers van hun dienst.
 
-2. Onder een alarmnummer als bedoeld in het eerste lid, wordt verstaan een nummer dat in een nummerplan als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2020-12-21&g=2020-12-21), bestemd is als alarmnummer.
+2. Onder een alarmnummer als bedoeld in het eerste lid, wordt verstaan een nummer dat in een nummerplan als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2021-07-01&g=2021-07-01), bestemd is als alarmnummer.
 
 3. Aanbieders van openbare elektronische communicatienetwerken die worden gebruikt om uitgaande gesprekken naar een nummer in het nummerplan aan te bieden, openbare betaaltelefoons en openbare telefoondiensten treffen de voorzieningen die noodzakelijk zijn om de ononderbroken toegang tot alarmnummers te waarborgen.
 
@@ -1239,7 +1239,7 @@ De aanbieder van een omroepnetwerk voert, indien hij zijn omroepnetwerk tevens a
 
 ##### Artikel 8.7
 
-Wanneer door de Autoriteit Consument en Markt de in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) bedoelde verplichting wordt opgelegd aan een onderneming die openbare elektronische communicatienetwerken aanbiedt die gebruikt worden voor het verspreiden van programma's, is deze onderneming tevens verplicht toegang te verlenen tot het door haar samengestelde programma-aanbod voor zover dat programma-aanbod niet versleuteld naar alle aangeslotenen op desbetreffende netwerken wordt verspreid, met dien verstande dat de gevraagde toegang alleen behoeft te worden verleend:
+Wanneer door de Autoriteit Consument en Markt de in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) bedoelde verplichting wordt opgelegd aan een onderneming die openbare elektronische communicatienetwerken aanbiedt die gebruikt worden voor het verspreiden van programma's, is deze onderneming tevens verplicht toegang te verlenen tot het door haar samengestelde programma-aanbod voor zover dat programma-aanbod niet versleuteld naar alle aangeslotenen op desbetreffende netwerken wordt verspreid, met dien verstande dat de gevraagde toegang alleen behoeft te worden verleend:
 
 - a. in het geval een aanbieder van een programma wenst dat degenen naar wie het programma wordt verspreid, bijdragen in de kosten van dat programma, de kosten van de verspreiding hieronder begrepen, en deze aanbieder door de wijze van verspreiding hiervoor feitelijk is aangewezen op de onderneming die de openbare elektronische communicatienetwerken aanbiedt, en
 
@@ -1271,23 +1271,23 @@ Wanneer door de Autoriteit Consument en Markt de in [artikel 6a.6](https://wette
 
 ##### Artikel 9.2
 
-1. Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de openbare elektronische communicatiediensten of voorzieningen, bedoeld in [artikel 9.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit overeenkomstig de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2020-12-21&g=2020-12-21) geregelde procedure een onderneming aanwijzen die de universele dienst in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste tien jaar verzorgt. Onze Minister kan verschillende ondernemingen aanwijzen die verschillende diensten of voorzieningen, bedoeld in [artikel 9.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), aanbieden of verschillende verzorgingsgebieden bestrijken.
+1. Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de openbare elektronische communicatiediensten of voorzieningen, bedoeld in [artikel 9.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit overeenkomstig de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2021-07-01&g=2021-07-01) geregelde procedure een onderneming aanwijzen die de universele dienst in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste tien jaar verzorgt. Onze Minister kan verschillende ondernemingen aanwijzen die verschillende diensten of voorzieningen, bedoeld in [artikel 9.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), aanbieden of verschillende verzorgingsgebieden bestrijken.
 
 2. Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG nadere regels gesteld die van toepassing zijn in het geval een aanwijzing tot verzorging van een of meer tot de universele dienst behorende diensten of voorzieningen is gegeven. Hierbij kunnen ter uitvoering van het in de eerste volzin genoemde hoofdstuk taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.
 
 ##### Artikel 9.3
 
-1. Indien Onze Minister voornemens is over te gaan tot een aanwijzing als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2020-12-21&g=2020-12-21), stelt Onze Minister vast of de aanwijzing een onredelijke last in de zin van artikel 12, eerste lid, van richtlijn nr. 2002/22/EG kan vormen voor degene die wordt aangewezen als universeledienstverlener. Onze Minister kan voorafgaand aan die vaststelling de Autoriteit Consument en Markt vragen om advies.
+1. Indien Onze Minister voornemens is over te gaan tot een aanwijzing als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2021-07-01&g=2021-07-01), stelt Onze Minister vast of de aanwijzing een onredelijke last in de zin van artikel 12, eerste lid, van richtlijn nr. 2002/22/EG kan vormen voor degene die wordt aangewezen als universeledienstverlener. Onze Minister kan voorafgaand aan die vaststelling de Autoriteit Consument en Markt vragen om advies.
 
-2. Indien Onze Minister vaststelt dat het aanwijzen van een universeledienstverlener geen onredelijke last kan vormen voor degene die wordt aangewezen, wordt de aanbieder, bedoeld in het vierde lid, aangewezen als universeledienstverlener. Het derde tot en met negende lid en de [artikelen 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2020-12-21&g=2020-12-21) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.5&z=2020-12-21&g=2020-12-21) zijn niet van toepassing.
+2. Indien Onze Minister vaststelt dat het aanwijzen van een universeledienstverlener geen onredelijke last kan vormen voor degene die wordt aangewezen, wordt de aanbieder, bedoeld in het vierde lid, aangewezen als universeledienstverlener. Het derde tot en met negende lid en de [artikelen 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2021-07-01&g=2021-07-01) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.5&z=2021-07-01&g=2021-07-01) zijn niet van toepassing.
 
 3. Indien Onze Minister vaststelt dat de aanwijzing een onredelijke last kan vormen voor degene die wordt aangewezen als universeledienstverlener maakt Onze Minister het voornemen over te gaan tot een aanwijzing bekend in de Staatscourant. In die bekendmaking worden de te verzorgen dienst of voorziening, het verzorgingsgebied en de periode waarvoor de aanwijzing zal gelden vermeld en wordt gewezen op de in het vijfde lid geregelde mogelijkheid een bod uit te brengen op de aanwijzing.
 
 4. Onze Minister maakt op de datum van de in het derde lid bedoelde bekendmaking het voornemen voorts bekend aan:
 
-- a. in het geval van een te verzorgen dienst, bedoeld in [artikel 9.1, eerste lid, onderdeel a:](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21) de aanbieder van het openbare elektronische communicatienetwerk waarop in het verzorgingsgebied de meeste eindgebruikers zijn aangesloten;
+- a. in het geval van een te verzorgen dienst, bedoeld in [artikel 9.1, eerste lid, onderdeel a:](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01) de aanbieder van het openbare elektronische communicatienetwerk waarop in het verzorgingsgebied de meeste eindgebruikers zijn aangesloten;
 
-- b. in het geval van een te verzorgen dienst, bedoeld in [artikel 9.1, eerste lid, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21): de aanbieder van de te verzorgen openbare elektronische communicatiedienst, of, bij het ontbreken daarvan, een daarmee samenhangende dienst, waarvan in het verzorgingsgebied de meeste eindgebruikers gebruik maken; of
+- b. in het geval van een te verzorgen dienst, bedoeld in [artikel 9.1, eerste lid, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01): de aanbieder van de te verzorgen openbare elektronische communicatiedienst, of, bij het ontbreken daarvan, een daarmee samenhangende dienst, waarvan in het verzorgingsgebied de meeste eindgebruikers gebruik maken; of
 
 - c. in het geval van een te verzorgen voorziening: de aanbieder van de met de te verzorgen voorziening samenhangende openbare elektronische communicatiedienst waarvan in het verzorgingsgebied de meeste eindgebruikers gebruik maken.
 
@@ -1311,15 +1311,15 @@ Bij ministeriële regeling kan worden bepaald dat aanvullend op het bod een van 
 
 ##### Artikel 9.4
 
-1. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2020-12-21&g=2020-12-21), bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen.
+1. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2021-07-01&g=2021-07-01), bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen.
 
-2. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2020-12-21&g=2020-12-21), bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener, vermenigvuldigd met het aantal daadwerkelijk gebruikte eenheden in het betreffende kalenderjaar, vermeerderd met het eventueel in de ministeriële regeling op grond van artikel 9.3, zesde lid, vastgestelde van het gebruik onafhankelijke bedrag.
+2. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2021-07-01&g=2021-07-01), bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener, vermenigvuldigd met het aantal daadwerkelijk gebruikte eenheden in het betreffende kalenderjaar, vermeerderd met het eventueel in de ministeriële regeling op grond van artikel 9.3, zesde lid, vastgestelde van het gebruik onafhankelijke bedrag.
 
-3. In afwijking van het bepaalde in het eerste en tweede lid, kan het in het bod genoemde bedrag door Onze Minister gematigd worden voor zover het bod bestaat uit onevenredig meer dan de door Onze Minister verwachte werkelijke kosten die de aanbieder maakt als gevolg van de aanwijzing en waartegenover als gevolg van de bij of krachtens [artikel 9.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), gestelde regels omtrent de betaalbaarheid geen vergoeding door eindgebruikers staat, met inbegrip van een redelijke winstopslag.
+3. In afwijking van het bepaalde in het eerste en tweede lid, kan het in het bod genoemde bedrag door Onze Minister gematigd worden voor zover het bod bestaat uit onevenredig meer dan de door Onze Minister verwachte werkelijke kosten die de aanbieder maakt als gevolg van de aanwijzing en waartegenover als gevolg van de bij of krachtens [artikel 9.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), gestelde regels omtrent de betaalbaarheid geen vergoeding door eindgebruikers staat, met inbegrip van een redelijke winstopslag.
 
 4. De hoogte van de vergoeding wordt bekendgemaakt in de Staatscourant.
 
-5. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2020-12-21&g=2020-12-21), bedoelde wijze werd uitgebracht verstrekt degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener het aantal daadwerkelijk in het betreffende kalenderjaar gebruikte eenheden binnen vier weken na het eind van het kalenderjaar aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de gegevens worden verstrekt. Onze Minister publiceert de vergoeding voor het betreffende kalenderjaar in de Staatscourant.
+5. Indien het bod op de in [artikel 9.3, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2021-07-01&g=2021-07-01), bedoelde wijze werd uitgebracht verstrekt degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener het aantal daadwerkelijk in het betreffende kalenderjaar gebruikte eenheden binnen vier weken na het eind van het kalenderjaar aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de gegevens worden verstrekt. Onze Minister publiceert de vergoeding voor het betreffende kalenderjaar in de Staatscourant.
 
 6. Onze Minister betaalt de vergoeding voor het betreffende kalenderjaar uit binnen drie maanden na afloop van het kalenderjaar. Deze termijn kan worden verlengd met het aantal dagen waarmee de in het vijfde lid bedoelde termijn wordt overschreden.
 
@@ -1331,13 +1331,13 @@ Bij ministeriële regeling kan worden bepaald dat aanvullend op het bod een van 
 
 ##### Artikel 10.1
 
-1. Het is verboden uitrusting en radioapparaten die niet voldoen aan de krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2020-12-21&g=2020-12-21) gestelde voorschriften, in de handel te brengen, op de markt aan te bieden of in gebruik te nemen.
+1. Het is verboden uitrusting en radioapparaten die niet voldoen aan de krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2021-07-01&g=2021-07-01) gestelde voorschriften, in de handel te brengen, op de markt aan te bieden of in gebruik te nemen.
 
-2. Het is verboden in strijd te handelen met de [artikelen 10.3 tot en met 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2020-12-21&g=2020-12-21).
+2. Het is verboden in strijd te handelen met de [artikelen 10.3 tot en met 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2021-07-01&g=2021-07-01).
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over uitzonderingen op de in het eerste en tweede lid bedoelde verboden.
 
-4. Bij ministeriele regeling kunnen nadere regels worden gesteld met betrekking tot de verplichtingen voor marktdeelnemers, bedoeld in de [artikelen 10.3 tot en met 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2020-12-21&g=2020-12-21).
+4. Bij ministeriele regeling kunnen nadere regels worden gesteld met betrekking tot de verplichtingen voor marktdeelnemers, bedoeld in de [artikelen 10.3 tot en met 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 10.1a
 
@@ -1433,7 +1433,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden ter
 
 ##### Artikel 10.12
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake het maken van reclame voor uitrusting of radioapparaten waarvan het in de handel brengen of het op de markt aanbieden op grond van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2020-12-21&g=2020-12-21) of [artikel 10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.11&z=2020-12-21&g=2020-12-21) is verboden.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake het maken van reclame voor uitrusting of radioapparaten waarvan het in de handel brengen of het op de markt aanbieden op grond van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2021-07-01&g=2021-07-01) of [artikel 10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.11&z=2021-07-01&g=2021-07-01) is verboden.
 
 ##### Artikel 10.13
 
@@ -1441,7 +1441,7 @@ Vervallen
 
 ##### Artikel 10.14
 
-Voor de toepassing van de [artikelen 10.15 tot en met 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2020-12-21&g=2020-12-21) worden met radioapparaten gelijk gesteld:
+Voor de toepassing van de [artikelen 10.15 tot en met 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2021-07-01&g=2021-07-01) worden met radioapparaten gelijk gesteld:
 
 - a. elke samenvoeging van onderdelen geschikt om een radioapparaat dan wel een ingevolge het bepaalde onder b daarmee gelijkgesteld apparaat te vormen;
 
@@ -1451,11 +1451,11 @@ Voor de toepassing van de [artikelen 10.15 tot en met 10.17](https://wetten.over
 
 ##### Artikel 10.15
 
-1. Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben, of het gebruik van radioapparaten is slechts toegestaan indien voor het gebruik ervan aan de houder van die radioapparaten op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2020-12-21&g=2020-12-21) een vergunning voor het gebruik van frequentieruimte is verleend.
+1. Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben, of het gebruik van radioapparaten is slechts toegestaan indien voor het gebruik ervan aan de houder van die radioapparaten op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2021-07-01&g=2021-07-01) een vergunning voor het gebruik van frequentieruimte is verleend.
 
 2. In afwijking van het eerste lid, is het aanleggen, het geheel of gedeeltelijk aanwezig hebben, of het gebruik van radioapparaten zonder dat aan de houder een vergunning is verleend voor het gebruik van frequentieruimte, toegestaan, indien:
 
-- a. krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2020-12-21&g=2020-12-21) geen vergunning is vereist voor het gebruik van frequentieruimte en, indien voor het gebruik melding en registratie verplicht zijn krachtens [artikel 3.9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2020-12-21&g=2020-12-21), indien melding en registratie heeft plaatsgevonden;
+- a. krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2021-07-01&g=2021-07-01) geen vergunning is vereist voor het gebruik van frequentieruimte en, indien voor het gebruik melding en registratie verplicht zijn krachtens [artikel 3.9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2021-07-01&g=2021-07-01), indien melding en registratie heeft plaatsgevonden;
 
 - b. de houder van het radioapparaat met de houder van een vergunning voor het gebruik van frequentieruimte een overeenkomst heeft gesloten voor de aanleg en het instandhouden van een radioapparaat ten behoeve van het verzorgen van diensten van de opdrachtgever waarbij gebruik wordt gemaakt van de aan de opdrachtgever toegewezen frequentieruimte;
 
@@ -1465,7 +1465,7 @@ Voor de toepassing van de [artikelen 10.15 tot en met 10.17](https://wetten.over
 
 ##### Artikel 10.16
 
-1. Onze Minister kan, in afwijking van [artikel 10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.2&artikel=10.15&z=2020-12-21&g=2020-12-21), een vergunning verlenen voor het aanleggen van radioapparaten zonder dat aan de houder een vergunning is verleend voor gebruik van frequentieruimte. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+1. Onze Minister kan, in afwijking van [artikel 10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.2&artikel=10.15&z=2021-07-01&g=2021-07-01), een vergunning verlenen voor het aanleggen van radioapparaten zonder dat aan de houder een vergunning is verleend voor gebruik van frequentieruimte. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
 
 2. De vergunning kan worden geweigerd, indien:
 
@@ -1581,7 +1581,7 @@ Onverminderd de Algemene verordening gegevensbescherming en het overigens bij of
 
 ##### Artikel 11.3
 
-1. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2020-12-21&g=2020-12-21) bedoelde aanbieders treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.
+1. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2021-07-01&g=2021-07-01) bedoelde aanbieders treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.
 
 2. De maatregelen als bedoeld in het eerste lid omvatten in elk geval:
 
@@ -1591,13 +1591,13 @@ Onverminderd de Algemene verordening gegevensbescherming en het overigens bij of
 
 - c. de invoering van een veiligheidsbeleid met betrekking tot de verwerking van persoonsgegevens.
 
-3. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2020-12-21&g=2020-12-21) bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over:
+3. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2021-07-01&g=2021-07-01) bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over:
 
 - a. bijzondere risico's voor de doorbreking van de veiligheid of de beveiliging van het aangeboden netwerk of de aangeboden dienst;
 
 - b. de eventuele middelen waarmee de onder a bedoelde risico's kunnen worden tegengegaan, voor zover het andere maatregelen betreft dan die welke de aanbieder op grond van het eerste lid gehouden is te treffen, alsmede een indicatie van de verwachte kosten.
 
-4. Bij of krachtens algemene maatregel van bestuur kunnen de in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2020-12-21&g=2020-12-21) bedoelde aanbieders in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers nadere verplichtingen en beperkingen worden opgelegd ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten.
+4. Bij of krachtens algemene maatregel van bestuur kunnen de in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2021-07-01&g=2021-07-01) bedoelde aanbieders in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers nadere verplichtingen en beperkingen worden opgelegd ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten.
 
 ##### Artikel 11.4
 
@@ -1629,7 +1629,7 @@ mits de abonnee of de gebruiker waarop de verkeersgegevens betrekking hebben daa
 
 5. De verwerking van verkeersgegevens in overeenstemming met het eerste tot en met vierde lid mag alleen geschieden door personen die werkzaam zijn onder het gezag van de aanbieder voor facturering, verkeersbeheer, behandeling van verzoeken om inlichtingen van klanten, opsporing van fraude alsmede marktonderzoek of verkoopactiviteiten met betrekking tot elektronische communicatiediensten of de levering van diensten met toegevoegde waarde en moet beperkt blijven tot hetgeen noodzakelijk is om die activiteiten te kunnen uitvoeren.
 
-6. De aanbieder mag de verkeersgegevens verstrekken aan personen en instanties die zijn belast met de berechting van enig geschil dan wel de beslissing van een geschil als bedoeld in de [artikelen 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2020-12-21&g=2020-12-21), [12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) voor zover van toepassing, of [12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.2&artikel=12.9&z=2020-12-21&g=2020-12-21).
+6. De aanbieder mag de verkeersgegevens verstrekken aan personen en instanties die zijn belast met de berechting van enig geschil dan wel de beslissing van een geschil als bedoeld in de [artikelen 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2021-07-01&g=2021-07-01), [12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) voor zover van toepassing, of [12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.2&artikel=12.9&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 11.6
 
@@ -1645,55 +1645,53 @@ mits de abonnee of de gebruiker waarop de verkeersgegevens betrekking hebben daa
 
 4. De abonnee heeft het recht om kosteloos hem betreffende persoonsgegevens in een algemeen beschikbare abonneelijst of in het voor een abonnee-informatiedienst gebruikte abonneebestand te verifiëren, te laten verbeteren of te laten verwijderen.
 
+5. Dit artikel is van toepassing op abonnees die natuurlijke personen zijn.
+
 ##### Artikel 11.7
 
-1. Het gebruik van automatische oproep- en communicatiesystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan abonnees of gebruikers is uitsluitend toegestaan, mits de verzender kan aantonen dat de desbetreffende abonnee of gebruiker daarvoor voorafgaand toestemming heeft verleend, onverminderd hetgeen is bepaald in het tweede en derde lid.
+1. Het gebruik van automatische oproep- en communicatiesystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden is verboden, tenzij de verzender kan aantonen dat de desbetreffende eindgebruiker daarvoor voorafgaand toestemming heeft verleend.
 
-2. Indien de gebruiker, bedoeld in het eerste lid, een rechtspersoon is dan wel een natuurlijke persoon die handelt in de uitoefening van zijn beroep of bedrijf, geldt met betrekking tot het door middel van elektronische berichten overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden dat geen voorafgaande toestemming is vereist:
+2. Het eerste lid is van overeenkomstige toepassing op het gebruik van andere dan de in het eerste lid bedoelde middelen voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan natuurlijke personen. Bij het gebruik van andere dan de in het eerste lid bedoelde middelen voor het met toestemming overbrengen van deze ongevraagde communicatie aan natuurlijke personen, geeft de verzender de desbetreffende natuurlijke persoon bij iedere boodschap duidelijk en expliciet de gelegenheid om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van zijn contactgegevens.
 
-- a. indien de verzender bij het overbrengen van de communicatie gebruik maakt van elektronische contactgegevens die door de gebruiker daarvoor zijn bestemd en bekendgemaakt, en deze zijn gebruikt in overeenstemming met de door de gebruiker aan die contactgegevens verbonden doeleinden, of
+3. In afwijking van het eerste en tweede lid, is geen voorafgaande toestemming vereist voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan een rechtspersoon of een natuurlijke persoon die handelt in de uitoefening van zijn beroep of bedrijf, indien:
 
-- b. indien de gebruiker is gevestigd buiten de Europese Economische Ruimte en voldaan is aan de in het desbetreffende land geldende voorschriften met betrekking tot het verzenden van ongevraagde communicatie.
+- a. de verzender gebruik maakt van elektronische contactgegevens die door de desbetreffende eindgebruiker voor het ontvangen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden zijn bestemd en bekendgemaakt en deze worden gebruikt in overeenstemming met de door de eindgebruiker aan de contactgegevens verbonden doeleinden, of
 
-3. Een ieder die elektronische contactgegevens voor elektronische berichten heeft verkregen in het kader van de verkoop van zijn product of dienst mag deze gegevens gebruiken voor het overbrengen van communicatie voor commerciële, ideële of charitatieve doeleinden met betrekking tot eigen gelijksoortige producten of diensten, mits bij de verkrijging van de contactgegevens aan de klant duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, indien de klant hiervan geen gebruik heeft gemaakt, hem bij elke overgebrachte communicatie de mogelijkheid wordt geboden om onder dezelfde voorwaarden verzet aan te tekenen tegen het verder gebruik van zijn elektronische contactgegevens. Artikel 12, derde lid, van de Algemene verordening gegevensbescherming is van overeenkomstige toepassing.
+- b. de desbetreffende eindgebruiker is gevestigd buiten de Europese Economische Ruimte en voldaan wordt aan de in het desbetreffende land geldende voorschriften met betrekking tot het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden.
 
-4. Op het gebruik van elektronische berichten voor de in het eerste lid genoemde doeleinden zijn de vereisten van [artikel 15e, eerste lid, onderdelen a tot en met c, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15e) van overeenkomstige toepassing en bedoeld gebruik bevat geen aanmoedigingen informatie op het internet te raadplegen die in strijd is met dat artikel. Bij dat gebruik dienen te allen tijde de volgende gegevens te worden vermeld:
+4. In afwijking van het eerste en tweede lid, kan een verzender die kan aantonen dat hij gebruik maakt van elektronische contactgegevens die hij heeft verkregen van zijn klanten in het kader van de verkoop van een product of dienst, die elektronische contactgegevens gebruiken voor het overbrengen van ongevraagde communicatie voor commerciële doeleinden ten behoeve van eigen gelijksoortige producten of diensten, mits de verzender de betreffende eindgebruiker duidelijk en expliciet de gelegenheid heeft geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens:
+
+- a. op het ogenblik dat zij worden verzameld, en
+
+- b. ingeval de abonnee of gebruiker zich bij de verzameling niet tegen het gebruik heeft verzet, bij elke verzonden boodschap.
+
+5. Het vierde lid is van overeenkomstige toepassing op:
+
+- a. contactgegevens die ideële of charitatieve organisaties hebben verkregen in het kader van een schenking aan die ideële of charitatieve organisatie; of
+
+- b. voor zover sprake is van gebruikmaking van andere dan de in het eerste lid bedoelde middelen, op contactgegevens die ideële of charitatieve organisaties van de eindgebruiker hebben verkregen in het kader van:
+
+- 1°. vrijwilligerswerk bij die organisatie;
+
+- 2°. het bijwonen van manifestaties van die organisatie.
+
+6. Op het gebruik van elektronische berichten voor de in het eerste lid bedoelde doeleinden zijn de vereisten van [artikel 15e, eerste lid, onderdelen a tot en met c, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15e) van overeenkomstige toepassing en bedoeld gebruik bevat geen aanmoedigingen informatie op het internet te raadplegen die in strijd is met dat artikel. Bij dat gebruik dienen te allen tijde de volgende gegevens te worden vermeld:
 
 - a. de werkelijke identiteit van degene namens wie de communicatie wordt overgebracht, en
 
 - b. een geldig postadres of nummer waaraan de ontvanger een verzoek tot beëindiging van dergelijke communicatie kan richten.
 
-5. Het gebruik van andere dan de in het eerste lid bedoelde middelen voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden is toegestaan met inachtneming van het bepaalde in het zesde tot en met twaalfde lid, tenzij de abonnee op de in het zesde lid bedoelde wijze dan wel anderszins te kennen heeft gegeven dat hij de ongevraagde communicatie niet wenst te ontvangen.
+7. Bij het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden met gebruik van een openbare telefoondienst, maakt de verzender geen gebruik van de mogelijkheden tot blokkering, bedoeld in [artikel 11.9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2021-07-01&g=2021-07-01).
 
-6. Er is een register waarin de contactgegevens van de abonnee worden opgenomen die daarmee te kennen geeft dat hij ongevraagde communicatie als bedoeld in het vijfde lid niet wenst te ontvangen. De inschrijving in het register is voor onbepaalde tijd totdat de abonnee te kennen geeft dat zijn contactgegevens uit het register verwijderd kunnen worden. Het register wordt gehouden door een door Onze Minister aan te wijzen beheerder. De beheerder is verwerkingsverantwoordelijke.
+8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het gebruik van contactgegevens en het bieden van de gelegenheid verzet aan te tekenen tegen dat gebruik, bedoeld in het tweede, vierde en vijfde lid.
 
-7. Het register heeft als doel de abonnee te vrijwaren van de ongevraagde communicatie waarvan hij heeft aangegeven dat hij die niet wenst te ontvangen. De contactgegevens van de abonnee die zijn opgenomen in dit register worden niet voor enig ander doel gebruikt.
+9. Bij algemene maatregel van bestuur kan een termijn worden gesteld gedurende welke de contactgegevens, bedoeld in het vierde en vijfde lid, ten hoogste kunnen worden gebruikt voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan natuurlijke personen met gebruik van andere dan de in het eerste lid bedoelde middelen. Hierbij kan onderscheid worden gemaakt tussen verschillende soorten ongevraagde communicatie en middelen voor het overbrengen van die ongevraagde communicatie.
 
-8. De beheerder blokkeert of verwijdert op verzoek van degene die communicatie als bedoeld in het vijfde lid wil overbrengen contactgegevens van abonnees die in het register zijn opgenomen uit aan hem aangeboden bestanden met contactgegevens van abonnees, of stelt op verzoek de contactgegevens van abonnees uit het register voor dat doel beschikbaar aan degene die ongevraagde communicatie als bedoeld in het vijfde lid wil overbrengen.
-
-9. Het is verboden om communicatie als bedoeld in het vijfde lid over te brengen aan een abonnee die door opname van zijn contactgegevens in het register te kennen heeft gegeven deze ongevraagde communicatie niet te willen ontvangen.
-
-10. Degene die communicatie als bedoeld in het vijfde lid overbrengt, gebruikt voor het overbrengen van ongevraagde communicatie uitsluitend bestanden waaruit de contactgegevens die in het register zijn opgenomen, zijn geblokkeerd of verwijderd.
-
-11. Het negende en tiende lid zijn niet van toepassing op het overbrengen van communicatie als bedoeld in het vijfde lid voor zover de contactgegevens zijn verkregen in het kader van de verkoop van een product of dienst of in het kader van schenking aan een ideële of charitatieve organisatie en deze worden gebruikt voor het overbrengen van communicatie als bedoeld in het vijfde lid met betrekking tot eigen gelijksoortige producten of diensten of schenkingen aan de ideële of charitatieve organisatie.
-
-12. Tijdens elke overgebrachte communicatie wordt tijdens het gesprek gewezen op het register en op de mogelijkheid voor de abonnee verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens en wordt de abonnee de mogelijkheid geboden tot onmiddellijke opname in het register, bedoeld in het zesde lid. Aan de abonnee worden in dat geval geen kosten in rekening gebracht van voorzieningen waarmee wordt voorkomen dat hem ongevraagde communicatie wordt overgebracht. Artikel 12, derde lid, van de Algemene verordening gegevensbescherming is van overeenkomstige toepassing.
-
-13. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van:
-
-- a. het blokkeren of verwijderen van contactgegevens van abonnees uit bestanden die gebruikt worden om communicatie over te brengen als bedoeld in het vijfde lid, het beschikbaar stellen van contactgegevens van abonnees uit het register en de periode gedurende welke de bestanden bewaard blijven en gebruikt kunnen worden;
-
-- b. de taken, inrichting en verantwoording van de beheerder van het register;
-
-- c. de toegang tot het register alsmede de inrichting en het gebruik van het register;
-
-- d. de mogelijkheid van verzet als bedoeld in het twaalfde lid;
-
-- e. de mogelijkheid van onmiddellijke opname in het register als bedoeld in het twaalfde lid.
+10. De voordracht voor een krachtens het negende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 11.8
 
-De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2020-12-21&g=2020-12-21) en [11.7, vijfde tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2020-12-21&g=2020-12-21), is beperkt tot abonnees die natuurlijke personen zijn.
+Vervallen
 
 #### § 6a.2. Met toegang verband houdende verplichtingen
 
@@ -1709,7 +1707,7 @@ De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - 2°. oproepen waarbij de verstrekking van het nummer van het oproepende netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd is geblokkeerd, te weigeren;
 
-- 3°. indien nummeridentificatie als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2020-12-21&g=2020-12-21), wordt aangeboden, kosteloos de verstrekking van het nummer van het opgeroepen netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd aan het oproepende netwerkaansluitpunt te blokkeren.
+- 3°. indien nummeridentificatie als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2021-07-01&g=2021-07-01), wordt aangeboden, kosteloos de verstrekking van het nummer van het opgeroepen netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd aan het oproepende netwerkaansluitpunt te blokkeren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot:
 
@@ -1725,11 +1723,11 @@ De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst die nummeridentificatie aanbiedt, is verplicht aan de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Minister, aangewezen beheerders van een alarmnummer voor publieke diensten, indien er elektronische communicatie met een alarmnummer wordt afgewikkeld, gelijktijdig:
 
-- a. het nummer van het oproepende netwerkaansluitpunt te verstrekken, ook indien bij dat netwerkaansluitpunt gebruik wordt gemaakt van een in [artikel 11.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2020-12-21&g=2020-12-21), bedoelde blokkeringsmogelijkheid;
+- a. het nummer van het oproepende netwerkaansluitpunt te verstrekken, ook indien bij dat netwerkaansluitpunt gebruik wordt gemaakt van een in [artikel 11.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2021-07-01&g=2021-07-01), bedoelde blokkeringsmogelijkheid;
 
 - b. de naam, en de beschikbare adres-, postcode- en woonplaatsgegevens van de abonnee, dan wel de locatie van de openbare betaaltelefoon, die onder het desbetreffende nummer is aangesloten, te verstrekken.
 
-2. De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst, die locatiegegevens kan verwerken omtrent abonnees of gebruikers, is verplicht aan de aangewezen beheerders van een alarmnummer voor publieke diensten, bedoeld in het eerste lid, indien er communicatie over een dergelijk alarmnummer wordt afgewikkeld, gelijktijdig de daarop betrekking hebbende locatiegegevens te verstrekken, ook indien de abonnee of gebruiker, voor zover het betreft de locatiegegevens als bedoeld in [artikel 11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2020-12-21&g=2020-12-21), op de voet van het vijfde lid van dat artikel, gebruik heeft gemaakt van de mogelijkheid om tijdelijk de verwerking van de hem betreffende locatiegegevens te beletten.
+2. De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst, die locatiegegevens kan verwerken omtrent abonnees of gebruikers, is verplicht aan de aangewezen beheerders van een alarmnummer voor publieke diensten, bedoeld in het eerste lid, indien er communicatie over een dergelijk alarmnummer wordt afgewikkeld, gelijktijdig de daarop betrekking hebbende locatiegegevens te verstrekken, ook indien de abonnee of gebruiker, voor zover het betreft de locatiegegevens als bedoeld in [artikel 11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2021-07-01&g=2021-07-01), op de voet van het vijfde lid van dat artikel, gebruik heeft gemaakt van de mogelijkheid om tijdelijk de verwerking van de hem betreffende locatiegegevens te beletten.
 
 3. De verstrekte nummers, alsmede de in het eerste lid, onder b, en de in het tweede lid, bedoelde gegevens worden door de beheerders, bedoeld in het eerste lid, vastgelegd met het oog op de hulpverlening in noodsituaties of de bestrijding van het misbruik van een alarmnummer voor publieke diensten. De beheerders zijn verwerkingsverantwoordelijke voor deze vastlegging.
 
@@ -1793,29 +1791,29 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 13.5
 
-1. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn verplicht gegevens met betrekking tot een bijzondere last dan wel toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2020-12-21&g=2020-12-21) dan wel een vordering of een verzoek als bedoeld in [artikel 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2b&z=2020-12-21&g=2020-12-21) of [artikel 13.4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21), te beveiligen tegen kennisneming door onbevoegden alsmede geheimhouding te betrachten met betrekking tot deze gegevens.
+1. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn verplicht gegevens met betrekking tot een bijzondere last dan wel toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2021-07-01&g=2021-07-01) dan wel een vordering of een verzoek als bedoeld in [artikel 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2b&z=2021-07-01&g=2021-07-01) of [artikel 13.4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01), te beveiligen tegen kennisneming door onbevoegden alsmede geheimhouding te betrachten met betrekking tot deze gegevens.
 
-2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten nemen met betrekking tot de gegevens die ingevolge [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), worden bewaard passende technische en organisatorische maatregelen teneinde:
+2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten nemen met betrekking tot de gegevens die ingevolge [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), worden bewaard passende technische en organisatorische maatregelen teneinde:
 
 - a. de gegevens te beveiligen tegen vernietiging, tegen verlies of wijziging en niet toegelaten opslag, verwerking, toegang of openbaarmaking;
 
 - b. te waarborgen dat toegang tot de gegevens, bedoeld in onderdeel a, slechts geschiedt door speciaal daartoe bevoegde personen;
 
-- c. de gegevens te kunnen vernietigen na afloop van de periode, bedoeld in [artikel 13.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21).
+- c. de gegevens te kunnen vernietigen na afloop van de periode, bedoeld in [artikel 13.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01).
 
-3. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten dragen er zorg voor dat de gegevens, die ingevolge [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), worden bewaard:
+3. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten dragen er zorg voor dat de gegevens, die ingevolge [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), worden bewaard:
 
 - a. dezelfde kwaliteit hebben en worden onderworpen aan dezelfde beveiligings- en beschermingsmaatregelen als de gegevens in het netwerk;
 
-- b. onverwijld worden vernietigd na afloop van de periode, bedoeld in [artikel 13.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21).
+- b. onverwijld worden vernietigd na afloop van de periode, bedoeld in [artikel 13.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01).
 
 4. Op voordracht van Onze Minister van Veiligheid en Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot de te nemen maatregelen in verband met de beveiliging en de waarborging bedoeld in het eerste, tweede en derde lid. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 13.6
 
-1. De investerings-, exploitatie- en onderhoudskosten voor de technische voorzieningen die door aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn of worden gemaakt teneinde te kunnen voldoen aan de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2020-12-21&g=2020-12-21), [13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21) en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2020-12-21&g=2020-12-21) komen te hunnen laste.
+1. De investerings-, exploitatie- en onderhoudskosten voor de technische voorzieningen die door aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn of worden gemaakt teneinde te kunnen voldoen aan de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2021-07-01&g=2021-07-01), [13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01) en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2021-07-01&g=2021-07-01) komen te hunnen laste.
 
-2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten hebben aanspraak op vergoeding uit 's Rijks kas van de door hen gemaakte administratiekosten en personeelskosten rechtstreeks voortvloeiend uit het voldoen aan een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2020-12-21&g=2020-12-21), of [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21) dan wel een vordering of een verzoek als bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), [artikel 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2b&z=2020-12-21&g=2020-12-21) of [artikel 13.4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21).
+2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten hebben aanspraak op vergoeding uit 's Rijks kas van de door hen gemaakte administratiekosten en personeelskosten rechtstreeks voortvloeiend uit het voldoen aan een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2021-07-01&g=2021-07-01), of [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01) dan wel een vordering of een verzoek als bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), [artikel 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2b&z=2021-07-01&g=2021-07-01) of [artikel 13.4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01).
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot de vaststelling en vergoeding van de kosten, bedoeld in het tweede lid.
 
@@ -1841,7 +1839,7 @@ Van de verplichtingen die voortvloeien uit dit hoofdstuk kan Onze Minister in ov
 
 ##### Artikel 14.2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 14.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2020-12-21&g=2020-12-21), in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 14.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2021-07-01&g=2021-07-01), in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -1855,7 +1853,7 @@ Van de verplichtingen die voortvloeien uit dit hoofdstuk kan Onze Minister in ov
 
 ##### Artikel 14.3
 
-Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, oefent Onze Minister de in [artikel 14.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2020-12-21&g=2020-12-21), bedoelde bevoegdheden uit in overeenstemming met Onze Minister van Defensie.
+Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, oefent Onze Minister de in [artikel 14.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2021-07-01&g=2021-07-01), bedoelde bevoegdheden uit in overeenstemming met Onze Minister van Defensie.
 
 ##### Artikel 14.4
 
@@ -1883,7 +1881,7 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 ##### Artikel 14.6
 
-1. Onze Minister kan na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie regels stellen ten aanzien van de te nemen organisatorische en personele maatregelen en de te treffen bijzondere voorzieningen met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2020-12-21&g=2020-12-21), alsmede omtrent de aan Onze Minister daaromtrent te verstrekken informatie.
+1. Onze Minister kan na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie regels stellen ten aanzien van de te nemen organisatorische en personele maatregelen en de te treffen bijzondere voorzieningen met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2021-07-01&g=2021-07-01), alsmede omtrent de aan Onze Minister daaromtrent te verstrekken informatie.
 
 2. De regels, bedoeld in het eerste lid, zijn uitsluitend van toepassing op door Onze Minister na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie aan te wijzen aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en gebruikers van de frequentieruimte.
 
@@ -1909,31 +1907,31 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 - a. het gebruik van frequentieruimte;
 
-- b. de verstrekking van gegevens ten behoeve van het antenneregister, genoemd in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.8&artikel=3.23&z=2020-12-21&g=2020-12-21);
+- b. de verstrekking van gegevens ten behoeve van het antenneregister, genoemd in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.8&artikel=3.23&z=2021-07-01&g=2021-07-01);
 
-- c. prioritering van alarmnummers als bedoeld in [artikel 7.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.7&z=2020-12-21&g=2020-12-21);
+- c. prioritering van alarmnummers als bedoeld in [artikel 7.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.7&z=2021-07-01&g=2021-07-01);
 
-- d. technische regelingen als bedoeld in [artikel 8.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.4a&z=2020-12-21&g=2020-12-21);
+- d. technische regelingen als bedoeld in [artikel 8.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.4a&z=2021-07-01&g=2021-07-01);
 
-- e. verplichtingen inzake uitzending van programma-aanbod, opgelegd op grond van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.3&z=2020-12-21&g=2020-12-21);
+- e. verplichtingen inzake uitzending van programma-aanbod, opgelegd op grond van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.3&z=2021-07-01&g=2021-07-01);
 
-- f. ter zake van uitrusting of radioapparaten gestelde voorschriften als geregeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2020-12-21&g=2020-12-21) en [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&z=2020-12-21&g=2020-12-21);
+- f. ter zake van uitrusting of radioapparaten gestelde voorschriften als geregeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2021-07-01&g=2021-07-01) en [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&z=2021-07-01&g=2021-07-01);
 
-- g. het gebruik van verkeersgegevens en locatiegegevens als geregeld in [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), [artikel 11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2020-12-21&g=2020-12-21) onderscheidenlijk [artikel 11.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.4&artikel=11.13&z=2020-12-21&g=2020-12-21);
+- g. het gebruik van verkeersgegevens en locatiegegevens als geregeld in [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), [artikel 11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2021-07-01&g=2021-07-01) onderscheidenlijk [artikel 11.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.4&artikel=11.13&z=2021-07-01&g=2021-07-01);
 
-- h. bevoegd aftappen en het bewaren van gegevens als geregeld in [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2020-12-21&g=2020-12-21);
+- h. bevoegd aftappen en het bewaren van gegevens als geregeld in [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2021-07-01&g=2021-07-01);
 
-- i. buitengewone omstandigheden als geregeld in [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&z=2020-12-21&g=2020-12-21);
+- i. buitengewone omstandigheden als geregeld in [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&z=2021-07-01&g=2021-07-01);
 
-- j. verdere onderwerpen als bedoeld in de [artikelen 11a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.1&z=2020-12-21&g=2020-12-21), [11a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.2&z=2020-12-21&g=2020-12-21), [11a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.3&z=2020-12-21&g=2020-12-21), [12.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.6&z=2020-12-21&g=2020-12-21), voor zover het bevoegdheden betreft van Onze Minister, [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.2&z=2020-12-21&g=2020-12-21), voor zover het bevoegdheden betreft van Onze Minister, [18.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.4&z=2020-12-21&g=2020-12-21), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2020-12-21&g=2020-12-21), voor zover het bevoegdheden betreft van Onze Minister, [18.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7a&z=2020-12-21&g=2020-12-21), [18.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.9&z=2020-12-21&g=2020-12-21), [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.12&z=2020-12-21&g=2020-12-21), voor zover het bevoegdheden betreft van Onze Minister, [18.16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.16&z=2020-12-21&g=2020-12-21), [18.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17&z=2020-12-21&g=2020-12-21), [18.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17a&z=2020-12-21&g=2020-12-21), [20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2020-12-21&g=2020-12-21), voor zover het bevoegdheden betreft van Onze Minister, en [20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.14&z=2020-12-21&g=2020-12-21);
+- j. verdere onderwerpen als bedoeld in de [artikelen 11a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.1&z=2021-07-01&g=2021-07-01), [11a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.2&z=2021-07-01&g=2021-07-01), [11a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.3&z=2021-07-01&g=2021-07-01), [12.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.6&z=2021-07-01&g=2021-07-01), voor zover het bevoegdheden betreft van Onze Minister, [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.2&z=2021-07-01&g=2021-07-01), voor zover het bevoegdheden betreft van Onze Minister, [18.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.4&z=2021-07-01&g=2021-07-01), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2021-07-01&g=2021-07-01), voor zover het bevoegdheden betreft van Onze Minister, [18.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7a&z=2021-07-01&g=2021-07-01), [18.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.9&z=2021-07-01&g=2021-07-01), [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.12&z=2021-07-01&g=2021-07-01), voor zover het bevoegdheden betreft van Onze Minister, [18.16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.16&z=2021-07-01&g=2021-07-01), [18.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17&z=2021-07-01&g=2021-07-01), [18.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17a&z=2021-07-01&g=2021-07-01), [20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2021-07-01&g=2021-07-01), voor zover het bevoegdheden betreft van Onze Minister, en [20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.14&z=2021-07-01&g=2021-07-01);
 
-- k. het verlenen van vertrouwensdiensten door in Nederland gevestigde verleners van vertrouwensdiensten als geregeld in hoofdstuk III van de eidas-verordening, met inbegrip van de bijlagen waarnaar in dat hoofdstuk wordt verwezen, en de [artikelen 18.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15a&z=2020-12-21&g=2020-12-21), voor zover het Onze Minister aangaat, [18.15b tot en met 18.15e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2020-12-21&g=2020-12-21), en [18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.18&z=2020-12-21&g=2020-12-21) van deze wet;
+- k. het verlenen van vertrouwensdiensten door in Nederland gevestigde verleners van vertrouwensdiensten als geregeld in hoofdstuk III van de eidas-verordening, met inbegrip van de bijlagen waarnaar in dat hoofdstuk wordt verwezen, en de [artikelen 18.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15a&z=2021-07-01&g=2021-07-01), voor zover het Onze Minister aangaat, [18.15b tot en met 18.15e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2021-07-01&g=2021-07-01), en [18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.18&z=2021-07-01&g=2021-07-01) van deze wet;
 
-- l. bescherming van het publiek belang bij infrastructuur en diensten als geregeld in [hoofdstuk 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&z=2020-12-21&g=2020-12-21).
+- l. bescherming van het publiek belang bij infrastructuur en diensten als geregeld in [hoofdstuk 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&z=2021-07-01&g=2021-07-01).
 
-2. De bij besluit van de Autoriteit persoonsgegevens aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 11.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.3a&z=2020-12-21&g=2020-12-21) en [11.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5b&z=2020-12-21&g=2020-12-21) en, voor zover het een inbreuk op de veiligheid of het verlies van integriteit betreft die of dat aanzienlijke gevolgen heeft voor persoonsgegevens, het bepaalde bij en krachtens [artikel 18.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15a&z=2020-12-21&g=2020-12-21) van deze wet en artikel 19, tweede lid van de eidas-verordening.
+2. De bij besluit van de Autoriteit persoonsgegevens aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 11.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.3a&z=2021-07-01&g=2021-07-01) en [11.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5b&z=2021-07-01&g=2021-07-01) en, voor zover het een inbreuk op de veiligheid of het verlies van integriteit betreft die of dat aanzienlijke gevolgen heeft voor persoonsgegevens, het bepaalde bij en krachtens [artikel 18.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15a&z=2021-07-01&g=2021-07-01) van deze wet en artikel 19, tweede lid van de eidas-verordening.
 
-3. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid en het bepaalde bij of krachtens de roamingverordening en de netneutraliteitsverordening. De vorige volzin is niet van toepassing op het bepaalde bij of krachtens de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.1&z=2020-12-21&g=2020-12-21), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.5&z=2020-12-21&g=2020-12-21), [5.6, tweede, derde lid, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.6&z=2020-12-21&g=2020-12-21), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2020-12-21&g=2020-12-21), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2020-12-21&g=2020-12-21), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2020-12-21&g=2020-12-21) en [5a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.6&z=2020-12-21&g=2020-12-21) van deze wet en voor zover Onze Minister de geadresseerde is.
+3. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid en het bepaalde bij of krachtens de roamingverordening en de netneutraliteitsverordening. De vorige volzin is niet van toepassing op het bepaalde bij of krachtens de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.1&z=2021-07-01&g=2021-07-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.5&z=2021-07-01&g=2021-07-01), [5.6, tweede, derde lid, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.6&z=2021-07-01&g=2021-07-01), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2021-07-01&g=2021-07-01), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2021-07-01&g=2021-07-01), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2021-07-01&g=2021-07-01) en [5a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.6&z=2021-07-01&g=2021-07-01) van deze wet en voor zover Onze Minister de geadresseerde is.
 
 4. Van een besluit als bedoeld in het eerste en tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -1941,13 +1939,13 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 1. Onze Minister is bevoegd tot:
 
-- a. oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), bedoelde bepalingen;
+- a. oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), bedoelde bepalingen;
 
 - b. oplegging van een onderzoek van radioapparaten waarvoor de technische documentatie als bedoeld in artikel 21 van richtlijn nr. 2014/53/EU niet overeenkomt met de in dat artikel genoemde eisen. Dit onderzoek wordt uitgevoerd op kosten van de fabrikant of de importeur, op een door Onze Minister voorgeschreven wijze en binnen de door Onze Minister bepaalde termijn.
 
-2. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), bedoelde bepalingen.
+2. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), bedoelde bepalingen.
 
-3. De Autoriteit persoonsgegevens is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), bedoelde bepalingen.
+3. De Autoriteit persoonsgegevens is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), bedoelde bepalingen.
 
 4. Voor de toepassing van het eerste lid, is van een spoedeisend geval als bedoeld in [artikel 5:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31) in elk geval sprake indien het niet naleven van de in het eerste lid bedoelde bepalingen een ernstige en directe bedreiging vormt voor de openbare orde, de openbare veiligheid of de volksgezondheid.
 
@@ -1961,17 +1959,17 @@ Indien niet wordt voldaan aan de bij of krachtens deze wet gestelde regels ten a
 
 ##### Artikel 15.4
 
-1. Onze Minister kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan hij ingevolge [artikel 15.1 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), is belast of ingeval van overtreding van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) een bestuurlijke boete opleggen van ten hoogste € 900.000.
+1. Onze Minister kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan hij ingevolge [artikel 15.1 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), is belast of ingeval van overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) een bestuurlijke boete opleggen van ten hoogste € 900.000.
 
-2. De Autoriteit Consument en Markt kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan zij het ingevolge [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), is belast een bestuurlijke boete opleggen van ten hoogste € 900.000, of, indien dat meer is, 1% van de omzet van de onderneming.
+2. De Autoriteit Consument en Markt kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan zij het ingevolge [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), is belast een bestuurlijke boete opleggen van ten hoogste € 900.000, of, indien dat meer is, 1% van de omzet van de onderneming.
 
 3. In afwijking van het tweede lid kan de Autoriteit Consument en Markt aan een onderneming een bestuurlijke boete opleggen van ten hoogste € 900.000, of, indien dat meer is, 10% van de omzet van de onderneming, ter zake van:
 
-- a. overtreding van de bij of krachtens [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21) of [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2020-12-21&g=2020-12-21) gestelde regels of van de bij de roamingverordening of de netneutraliteitsverordening gestelde regels;
+- a. overtreding van de bij of krachtens [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01) of [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2021-07-01&g=2021-07-01) gestelde regels of van de bij de roamingverordening of de netneutraliteitsverordening gestelde regels;
 
-- b. overtreding van een op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) genomen besluit, voor zover de overtreding geschiedt door een onderneming die beschikt over een aanmerkelijke marktmacht en een bij of krachtens [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2020-12-21&g=2020-12-21) gesteld voorschrift betreft.
+- b. overtreding van een op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) genomen besluit, voor zover de overtreding geschiedt door een onderneming die beschikt over een aanmerkelijke marktmacht en een bij of krachtens [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&z=2021-07-01&g=2021-07-01) gesteld voorschrift betreft.
 
-4. De Autoriteit persoonsgegevens kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan het ingevolge [artikel 15.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), is belast of ingeval van overtreding van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) een bestuurlijke boete opleggen van ten hoogste € 900.000.
+4. De Autoriteit persoonsgegevens kan ingeval van overtreding van een wettelijk voorschrift met het toezicht op de naleving waarvan het ingevolge [artikel 15.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), is belast of ingeval van overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) een bestuurlijke boete opleggen van ten hoogste € 900.000.
 
 5. De bestuurlijke boete die ingevolge het eerste, tweede, derde of vierde lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
@@ -1985,9 +1983,9 @@ Vervallen
 
 ##### Artikel 15.7
 
-1. De ambtenaren, bedoeld in [artikel 15.1, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
+1. De ambtenaren, bedoeld in [artikel 15.1, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
-2. De ambtenaren, bedoeld in [artikel 15.1, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+2. De ambtenaren, bedoeld in [artikel 15.1, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 
 ##### Artikel 15.8
 
@@ -2059,11 +2057,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld die noodzakelijk
 
 ##### Artikel 18.3
 
-1. Onze Minister stelt de Autoriteit Consument en Markt in de gelegenheid hem advies uit te brengen over een voornemen om krachtens [artikel 3.16, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.16&z=2020-12-21&g=2020-12-21), een of meer aanbieders van het verkrijgen van een vergunning uit te sluiten, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of over het ontwerp van een besluit tot weigering, intrekking of wijziging van een vergunning voor zover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in de [artikelen 3.18, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2020-12-21&g=2020-12-21), en [3.19, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21).
+1. Onze Minister stelt de Autoriteit Consument en Markt in de gelegenheid hem advies uit te brengen over een voornemen om krachtens [artikel 3.16, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.16&z=2021-07-01&g=2021-07-01), een of meer aanbieders van het verkrijgen van een vergunning uit te sluiten, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of over het ontwerp van een besluit tot weigering, intrekking of wijziging van een vergunning voor zover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in de [artikelen 3.18, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2021-07-01&g=2021-07-01), en [3.19, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01).
 
 2. De Autoriteit Consument en Markt en het Commissariaat voor de Media, bedoeld in [artikel 7.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.1), maken in het belang van een effectieve en efficiënte besluitvorming afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang.
 
-3. Onze Minister en de Autoriteit persoonsgegevens, onderscheidenlijk de Autoriteit Consument en Markt en de Autoriteit persoonsgegevens, maken in het belang van een effectief en efficiënt toezicht op het verwerken van persoonsgegevens overeenkomstig de [hoofdstukken 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2020-12-21&g=2020-12-21) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2020-12-21&g=2020-12-21) van deze wet afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol vast. Het samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.
+3. Onze Minister en de Autoriteit persoonsgegevens, onderscheidenlijk de Autoriteit Consument en Markt en de Autoriteit persoonsgegevens, maken in het belang van een effectief en efficiënt toezicht op het verwerken van persoonsgegevens overeenkomstig de [hoofdstukken 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2021-07-01&g=2021-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2021-07-01&g=2021-07-01) van deze wet afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol vast. Het samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.
 
 4. Onze Minister, Onze Minister van Veiligheid en Justitie en de Autoriteit persoonsgegevens maken in het belang van effectieve en efficiënte meldingen als bedoeld in artikel 19, tweede lid, van de eidas-verordening, afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang.
 
@@ -2075,7 +2073,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld die noodzakelijk
 
 1. De aanbieder van een openbaar elektronisch communicatienetwerk over wiens netwerk internationaal openbaar elektronisch communicatieverkeer wordt verzorgd leeft de verplichtingen na die voortvloeien uit het Internationaal Telecommunicatieverdrag en uit andere Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties terzake van de verzorging van dit verkeer.
 
-2. Degene die op grond van het bepaalde bij of krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2020-12-21&g=2020-12-21) gerechtigd is tot het gebruik van frequentieruimte of degene die overeenkomstig [artikel 3.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2020-12-21&g=2020-12-21), vergunningvrij gebruik maakt van frequentieruimte, leeft de verplichtingen na die voortvloeien uit het Internationaal Telecommunicatieverdrag en uit andere Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties terzake van dit gebruik.
+2. Degene die op grond van het bepaalde bij of krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2021-07-01&g=2021-07-01) gerechtigd is tot het gebruik van frequentieruimte of degene die overeenkomstig [artikel 3.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2021-07-01&g=2021-07-01), vergunningvrij gebruik maakt van frequentieruimte, leeft de verplichtingen na die voortvloeien uit het Internationaal Telecommunicatieverdrag en uit andere Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties terzake van dit gebruik.
 
 ##### Artikel 18.5
 
@@ -2095,7 +2093,7 @@ Onverminderd het overigens bij of krachtens het Internationaal Telecommunicatiev
 
 1. Onze Minister is bevoegd voor een juiste uitvoering van het bepaalde bij of krachtens deze wet of de eidas-verordening van een ieder te allen tijde inlichtingen te vorderen voor zover dit redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-2. De bevoegdheid, bedoeld in het eerste lid, strekt zich met betrekking tot verkeers- en locatiegegevens als bedoeld in [artikel 13.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), niet verder uit dan de gegevens die de aanbieder van openbare elektronische communicatienetwerken of de aanbieder van openbare elektronische communicatiediensten op grond van de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21) en [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2020-12-21&g=2020-12-21) is toegestaan te verwerken.
+2. De bevoegdheid, bedoeld in het eerste lid, strekt zich met betrekking tot verkeers- en locatiegegevens als bedoeld in [artikel 13.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), niet verder uit dan de gegevens die de aanbieder van openbare elektronische communicatienetwerken of de aanbieder van openbare elektronische communicatiediensten op grond van de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01) en [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2021-07-01&g=2021-07-01) is toegestaan te verwerken.
 
 3. Degene van wie krachtens het eerste lid inlichtingen zijn gevorderd, is verplicht deze onverwijld te geven, maar in elk geval binnen de daartoe door Onze Minister te stellen termijn.
 
@@ -2109,7 +2107,7 @@ Onverminderd het overigens bij of krachtens het Internationaal Telecommunicatiev
 
 ##### Artikel 18.8
 
-Met het oog op het bevorderen van een open en concurrerende markt in de elektronische communicatiesector maakt de Autoriteit Consument en Markt informatie met betrekking tot aanbieders van openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten op een door de Autoriteit Consument en Markt te bepalen wijze bekend voor zover die informatie verband houdt met bij of krachtens de [hoofdstukken 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2020-12-21&g=2020-12-21) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2020-12-21&g=2020-12-21) van deze wet opgelegde verplichtingen.
+Met het oog op het bevorderen van een open en concurrerende markt in de elektronische communicatiesector maakt de Autoriteit Consument en Markt informatie met betrekking tot aanbieders van openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten op een door de Autoriteit Consument en Markt te bepalen wijze bekend voor zover die informatie verband houdt met bij of krachtens de [hoofdstukken 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2021-07-01&g=2021-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2021-07-01&g=2021-07-01) van deze wet opgelegde verplichtingen.
 
 ##### Artikel 18.9
 
@@ -2155,7 +2153,7 @@ Degene die een telefoongids uitgeeft, neemt op verzoek van een natuurlijke perso
 
 ##### Artikel 18.14
 
-Een krachtens [artikel 9.1, tweede, derde, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
+Een krachtens [artikel 9.1, tweede, derde, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
 ### Hoofdstuk 13. Bevoegd aftappen
 
@@ -2165,21 +2163,21 @@ Vervallen
 
 ##### Artikel 19.2
 
-1. De mededeling, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), behoeft niet te worden gedaan door:
+1. De mededeling, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), behoeft niet te worden gedaan door:
 
 - a. degene die voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) door de Autoriteit Consument en Markt is geregistreerd;
 
-- b. de houder van een vergunning voor het gebruik van frequentieruimte waarvoor geen registratie was vereist op grond van [artikel 2.1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635).
+- b. de houder van een vergunning voor het gebruik van frequentieruimte waarvoor geen registratie was vereist op grond van [artikel 2.1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635).
 
-2. Een registratie die is gedaan op grond van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), wordt aangemerkt als een mededeling als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21).
+2. Een registratie die is gedaan op grond van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), wordt aangemerkt als een mededeling als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01).
 
-3. Een vergunning voor het gebruik van frequentieruimte die bestemd is voor het aanbieden van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst, wordt aangemerkt als een mededeling als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21). Onze Minister verstrekt de Autoriteit Consument en Markt de daarvoor benodigde gegevens.
+3. Een vergunning voor het gebruik van frequentieruimte die bestemd is voor het aanbieden van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst, wordt aangemerkt als een mededeling als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01). Onze Minister verstrekt de Autoriteit Consument en Markt de daarvoor benodigde gegevens.
 
-4. Een op grond van het tweede of derde lid geregistreerde rechtspersoon kan tot uiterlijk zes maanden na de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) de Autoriteit Consument en Markt verzoeken om een verklaring als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2020-12-21&g=2020-12-21).
+4. Een op grond van het tweede of derde lid geregistreerde rechtspersoon kan tot uiterlijk zes maanden na de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) de Autoriteit Consument en Markt verzoeken om een verklaring als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 19.3
 
-De in [artikel 6a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), bedoelde relevante markten die nodig zijn voor de in de artikelen 27 van [richtlijn nr. 2002/21/EG](32002L0021), 7, derde lid, van [richtlijn nr. 2002/19/EG](32002L0019) of 16, derde lid, van [richtlijn nr. 2002/22/EG](32002L0022), bedoelde marktanalyses, worden door de Autoriteit Consument en Markt zo spoedig mogelijk na inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) bepaald.
+De in [artikel 6a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), bedoelde relevante markten die nodig zijn voor de in de artikelen 27 van [richtlijn nr. 2002/21/EG](32002L0021), 7, derde lid, van [richtlijn nr. 2002/19/EG](32002L0019) of 16, derde lid, van [richtlijn nr. 2002/22/EG](32002L0022), bedoelde marktanalyses, worden door de Autoriteit Consument en Markt zo spoedig mogelijk na inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) bepaald.
 
 ##### Artikel 19.4
 
@@ -2195,21 +2193,21 @@ Vervallen
 
 ##### Artikel 19.7
 
-Een aanvraag als bedoeld in de [artikelen 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2020-12-21&g=2020-12-21), of [6.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21), zoals deze luidden voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), wordt vanaf dat tijdstip aangemerkt als een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21).
+Een aanvraag als bedoeld in de [artikelen 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2021-07-01&g=2021-07-01), of [6.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01), zoals deze luidden voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), wordt vanaf dat tijdstip aangemerkt als een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 19.8
 
-Op een aanvraag om een oordeel als bedoeld in [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.7&z=2020-12-21&g=2020-12-21), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), blijven de Telecommunicatiewet en de daarop berustende bepalingen van toepassing zoals die luidden voor dat tijdstip.
+Op een aanvraag om een oordeel als bedoeld in [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.7&z=2021-07-01&g=2021-07-01), zoals dat luidde voor de inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), blijven de Telecommunicatiewet en de daarop berustende bepalingen van toepassing zoals die luidden voor dat tijdstip.
 
 ##### Artikel 19.9
 
 Na inwerkingtreding van de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635), geldt:
 
-- a. ten aanzien van de verwerking van verkeersgegevens, bedoeld in [artikel 11.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), dat de aanbieder binnen zes maanden de abonnee de gegevens verstrekt, bedoeld in [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21);
+- a. ten aanzien van de verwerking van verkeersgegevens, bedoeld in [artikel 11.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), dat de aanbieder binnen zes maanden de abonnee de gegevens verstrekt, bedoeld in [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01);
 
-- b. dat de toestemming, bedoeld in [artikel 11.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), niet is vereist voor de verkeersgegevens die reeds in gebruik zijn voor het doel dat is genoemd in [artikel 11.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21);
+- b. dat de toestemming, bedoeld in [artikel 11.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), niet is vereist voor de verkeersgegevens die reeds in gebruik zijn voor het doel dat is genoemd in [artikel 11.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01);
 
-- c. ten aanzien van de verkeersgegevens, bedoeld in onderdeel b, dat de aanbieder binnen zes maanden aan de abonnee mededeling doet van de informatie, bedoeld in [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21). De abonnee wordt geacht met betrekking tot dit gebruik toestemming te hebben verleend, tenzij hij binnen een termijn van twee maanden na verzending van de mededeling schriftelijk aan de desbetreffende aanbieder te kennen heeft gegeven dat voor het desbetreffende gebruik geen toestemming wordt gegeven.
+- c. ten aanzien van de verkeersgegevens, bedoeld in onderdeel b, dat de aanbieder binnen zes maanden aan de abonnee mededeling doet van de informatie, bedoeld in [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01). De abonnee wordt geacht met betrekking tot dit gebruik toestemming te hebben verleend, tenzij hij binnen een termijn van twee maanden na verzending van de mededeling schriftelijk aan de desbetreffende aanbieder te kennen heeft gegeven dat voor het desbetreffende gebruik geen toestemming wordt gegeven.
 
 ##### Artikel 19.10
 
@@ -2255,9 +2253,9 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel 20.1
 
-1. In afwijking van de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2020-12-21&g=2020-12-21) vervatte procedure geldt, voor de toepassing van het bij of krachtens deze wet bepaalde voor elk van de in [artikel 9.1, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), bedoelde openbare elektronische communicatiediensten of voorzieningen KPN B.V. als een krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2020-12-21&g=2020-12-21) aangewezen aanbieder.
+1. In afwijking van de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2021-07-01&g=2021-07-01) vervatte procedure geldt, voor de toepassing van het bij of krachtens deze wet bepaalde voor elk van de in [artikel 9.1, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), bedoelde openbare elektronische communicatiediensten of voorzieningen KPN B.V. als een krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2021-07-01&g=2021-07-01) aangewezen aanbieder.
 
-2. Aan de uit het vorige lid voortvloeiende verplichting voor KPN B.V. om de in [artikel 9.1, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), bedoelde openbare elektronische communicatiediensten en voorzieningen te verzorgen komt een einde een jaar na het tijdstip waarop:
+2. Aan de uit het vorige lid voortvloeiende verplichting voor KPN B.V. om de in [artikel 9.1, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), bedoelde openbare elektronische communicatiediensten en voorzieningen te verzorgen komt een einde een jaar na het tijdstip waarop:
 
 - a. KPN B.V. Onze Minister schriftelijk heeft medegedeeld een verplichting tot verzorging van een bepaalde dienst of voorziening niet langer te willen nakomen, of
 
@@ -2265,41 +2263,41 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel 20.2
 
-1. Een vergunning die is verleend krachtens artikel 13a, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21).
+1. Een vergunning die is verleend krachtens artikel 13a, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01).
 
 2. Voor de houder van een vergunning als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 13c, 13g, met dien verstande dat in het eerste lid, onderdeel a, vervalt «waaronder technische aftapbaarheid», 13j, 13k, met uitzondering van het zevende lid, en met dien verstande dat de tweede volzin van het zesde lid komt te luiden: De in de eerste volzin bedoelde besluiten van Onze Minister zijn gelijk ten aanzien van alle vergunningen die voor hetzelfde technische systeem op hetzelfde tijdstip zijn verleend., 13l, 13n, 13t, voorzover het betreft de verwijzing naar artikel 11, eerste tot en met derde lid, en vijfde tot en met zevende lid, 13v, 13x en 13y van de Wet op de telecommunicatievoorzieningen van toepassing.
 
 ##### Artikel 20.3
 
-1. Een machtiging die is verleend krachtens artikel 17, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21).
+1. Een machtiging die is verleend krachtens artikel 17, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01).
 
-2. De toekenning van radio-frequenties krachtens artikel 3, tweede lid, van de Wet op de telecommunicatievoorzieningen aan de houder van de concessie wordt gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21).
+2. De toekenning van radio-frequenties krachtens artikel 3, tweede lid, van de Wet op de telecommunicatievoorzieningen aan de houder van de concessie wordt gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01).
 
-3. Voorzover bij een machtiging die is verleend krachtens artikel 21 van de Wet op de telecommunicatievoorzieningen radiofrequenties zijn toegekend, wordt deze toekenning van radiofrequenties gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21).
+3. Voorzover bij een machtiging die is verleend krachtens artikel 21 van de Wet op de telecommunicatievoorzieningen radiofrequenties zijn toegekend, wordt deze toekenning van radiofrequenties gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01).
 
 4. Een vergunning als bedoeld in het eerste, tweede en derde lid, geldt voor een bij algemene maatregel van bestuur vast te stellen termijn, waarbij een onderscheid kan worden gemaakt al naar gelang de toepassing waarvoor de vergunning is verleend.
 
-5. Het bepaalde in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21), alsmede het bepaalde in artikel 3.3a, achtste lid, is slechts van toepassing op de uitgifte van vergunningen volgende op de verlening van vergunningen die heeft plaatsgevonden na 27 juli 2001.
+5. Het bepaalde in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01), alsmede het bepaalde in artikel 3.3a, achtste lid, is slechts van toepassing op de uitgifte van vergunningen volgende op de verlening van vergunningen die heeft plaatsgevonden na 27 juli 2001.
 
 ##### Artikel 20.4
 
-Apparaten die op het tijdstip van inwerkingtreding van deze wet in gebruik zijn bij de houder van de concessie, bedoeld in artikel 3, eerste lid, van de Wet op de telecommunicatievoorzieningen, ten dienste van de uitoefening van de aan de houder van de concessie opgedragen taken, worden, voorzover deze niet voldoen aan het bepaalde bij of krachtens [hoofdstuk 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2020-12-21&g=2020-12-21), geacht te voldoen aan het bepaalde bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2020-12-21&g=2020-12-21).
+Apparaten die op het tijdstip van inwerkingtreding van deze wet in gebruik zijn bij de houder van de concessie, bedoeld in artikel 3, eerste lid, van de Wet op de telecommunicatievoorzieningen, ten dienste van de uitoefening van de aan de houder van de concessie opgedragen taken, worden, voorzover deze niet voldoen aan het bepaalde bij of krachtens [hoofdstuk 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2021-07-01&g=2021-07-01), geacht te voldoen aan het bepaalde bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 20.5
 
-1. Met betrekking tot de instandhouding, de verplaatsing en de opruiming van kabels en kabelwerken, voorzover de kabels en kabelwerken zijn aangelegd met toepassing van hoofdstuk VI van de Wet op de telecommunicatievoorzieningen is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2020-12-21&g=2020-12-21) van deze wet van toepassing met dien verstande, dat kabels en kabelwerken, aangelegd in en op openbare gronden als bedoeld in artikel 1, onderdeel g, onder 3°, van de Wet op de telecommunicatievoorzieningen worden gelijkgesteld met kabels, aangelegd in en op openbare gronden als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2020-12-21&g=2020-12-21), van deze wet.
+1. Met betrekking tot de instandhouding, de verplaatsing en de opruiming van kabels en kabelwerken, voorzover de kabels en kabelwerken zijn aangelegd met toepassing van hoofdstuk VI van de Wet op de telecommunicatievoorzieningen is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2021-07-01&g=2021-07-01) van deze wet van toepassing met dien verstande, dat kabels en kabelwerken, aangelegd in en op openbare gronden als bedoeld in artikel 1, onderdeel g, onder 3°, van de Wet op de telecommunicatievoorzieningen worden gelijkgesteld met kabels, aangelegd in en op openbare gronden als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2021-07-01&g=2021-07-01), van deze wet.
 
-2. In afwijking van de [artikelen 5.2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2020-12-21&g=2020-12-21), en [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2020-12-21&g=2020-12-21) geldt voor kabels, ondergrondse ondersteuningswerken of beschermingswerken in of op openbare gronden, waarin of waarop geen fysieke geleidingsdraden bestemd voor de rechtstreekse overdracht van signalen tussen punten zijn aangebracht, die zijn aangelegd met het oogmerk deel uit te maken van doch op het tijdstip van inwerkingtreding van de wet houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken (Stb. 2007, 16) niet in gebruik zijn ten dienste van een openbaar elektronisch communicatienetwerk, een gedoogplicht totdat een redelijk verzoek tot opruimen is gedaan, tenzij de instandhouding van deze voorzieningen de instandhouding van andere reeds in de grond aanwezige werken in gevaar brengt of ernstig hindert. De aanbieder meldt aan degene op wie de gedoogplicht rust schriftelijk op welke netwerkvoorziening de gedoogplicht betrekking heeft. Daarvan doet hij tevens mededeling aan burgemeester en wethouders van de gemeente binnen wier grondgebied de netwerkvoorziening is gelegen.
+2. In afwijking van de [artikelen 5.2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2021-07-01&g=2021-07-01), en [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-07-01&g=2021-07-01) geldt voor kabels, ondergrondse ondersteuningswerken of beschermingswerken in of op openbare gronden, waarin of waarop geen fysieke geleidingsdraden bestemd voor de rechtstreekse overdracht van signalen tussen punten zijn aangebracht, die zijn aangelegd met het oogmerk deel uit te maken van doch op het tijdstip van inwerkingtreding van de wet houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken (Stb. 2007, 16) niet in gebruik zijn ten dienste van een openbaar elektronisch communicatienetwerk, een gedoogplicht totdat een redelijk verzoek tot opruimen is gedaan, tenzij de instandhouding van deze voorzieningen de instandhouding van andere reeds in de grond aanwezige werken in gevaar brengt of ernstig hindert. De aanbieder meldt aan degene op wie de gedoogplicht rust schriftelijk op welke netwerkvoorziening de gedoogplicht betrekking heeft. Daarvan doet hij tevens mededeling aan burgemeester en wethouders van de gemeente binnen wier grondgebied de netwerkvoorziening is gelegen.
 
 ##### Artikel 20.6
 
 1. Een nummerplan vastgesteld krachtens artikel 40d van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een nummerplan als bedoeld in deze wet.
 
-2. De toekenning of reservering van nummers, bedoeld in artikel 17, elfde lid, van de Wet op de telecommunicatievoorzieningen, de toekenning of reservering van nummers alsmede de wijziging daarvan, bedoeld in artikel 40d van de Wet op de telecommunicatievoorzieningen, de toekenning van nummers als bedoeld in artikel 40e van de Wet op de telecommunicatievoorzieningen, alsmede de toekenning van nummers, bedoeld in [artikel 2, derde lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2), worden gelijkgesteld met een reservering, toekenning of wijziging als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2020-12-21&g=2020-12-21) van deze wet.
+2. De toekenning of reservering van nummers, bedoeld in artikel 17, elfde lid, van de Wet op de telecommunicatievoorzieningen, de toekenning of reservering van nummers alsmede de wijziging daarvan, bedoeld in artikel 40d van de Wet op de telecommunicatievoorzieningen, de toekenning van nummers als bedoeld in artikel 40e van de Wet op de telecommunicatievoorzieningen, alsmede de toekenning van nummers, bedoeld in [artikel 2, derde lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2), worden gelijkgesteld met een reservering, toekenning of wijziging als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2021-07-01&g=2021-07-01) van deze wet.
 
 ##### Artikel 20.7
 
-Vervallen
+[Artikel 11.7, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2021-07-01&g=2021-07-01), is niet van toepassing op contactgegevens die de verzender heeft verzameld vóór de inwerkingtreding van de wet van 10 februari 2021 tot wijziging van de Telecommunicatiewet in verband met het invoeren van een opt-in-systeem voor het overbrengen van communicatie voor commerciële, ideële of charitatieve doeleinden aan natuurlijke personen.
 
 ##### Artikel 20.8
 
@@ -2317,9 +2315,9 @@ Vervallen
 
 1. De rechthebbende op of de beheerder van gronden is verplicht te gedogen dat ten dienste van openbare elektronische communicatienetwerken kabels, die voor de inwerkingtreding van de wet, houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken (Stb. 2007, 16), boven deze gronden zijn aangelegd, worden instandgehouden of opgeruimd. De eerste volzin is tevens van toepassing op de bij de kabels behorende bovengrondse ondersteuningswerken.
 
-2. De [artikelen 5.3 tot en met 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2020-12-21&g=2020-12-21), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2020-12-21&g=2020-12-21), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2020-12-21&g=2020-12-21) en [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2020-12-21&g=2020-12-21) van deze wet zijn van overeenkomstige toepassing op de in het eerste lid bedoelde kabels en ondersteuningswerken.
+2. De [artikelen 5.3 tot en met 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.3&z=2021-07-01&g=2021-07-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2021-07-01&g=2021-07-01), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2021-07-01&g=2021-07-01) en [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2021-07-01&g=2021-07-01) van deze wet zijn van overeenkomstige toepassing op de in het eerste lid bedoelde kabels en ondersteuningswerken.
 
-3. [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2020-12-21&g=2020-12-21) van de Telecommunicatiewet, zoals dat luidde voor het tijdstip van inwerkingtreding van de wet, houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken, is van toepassing op de instandhouding van de in het eerste lid bedoelde kabels en ondersteuningswerken.
+3. [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2021-07-01&g=2021-07-01) van de Telecommunicatiewet, zoals dat luidde voor het tijdstip van inwerkingtreding van de wet, houdende wijziging van de Telecommunicatiewet in verband met een herziening van het nationale beleid ten aanzien van de aanleg van kabels ten dienste van openbare elektronische communicatienetwerken, is van toepassing op de instandhouding van de in het eerste lid bedoelde kabels en ondersteuningswerken.
 
 ##### Artikel 20.12
 
@@ -2381,7 +2379,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. of de gegevens aan een derde zullen worden verstrekt ten behoeve van de levering van de dienst met toegevoegde waarde.
 
-3. De verwerking van de gegevens ten behoeve van de levering van een dienst met toegevoegde waarde als bedoeld in het eerste lid, onderdeel b, is slechts toegestaan voor zover en voor zolang dat noodzakelijk is voor de levering van de desbetreffende dienst. In afwijking van de eerste volzin mag de aanbieder van de dienst met toegevoegde waarde die gegevens verwerken die noodzakelijk zijn voor het opstellen van een factuur. [Artikel 11.5, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing.
+3. De verwerking van de gegevens ten behoeve van de levering van een dienst met toegevoegde waarde als bedoeld in het eerste lid, onderdeel b, is slechts toegestaan voor zover en voor zolang dat noodzakelijk is voor de levering van de desbetreffende dienst. In afwijking van de eerste volzin mag de aanbieder van de dienst met toegevoegde waarde die gegevens verwerken die noodzakelijk zijn voor het opstellen van een factuur. [Artikel 11.5, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 4. Een abonnee of gebruiker kan de verleende toestemming voor de verwerking van de hem betreffende gegevens op elk moment intrekken.
 
@@ -2423,7 +2421,7 @@ Vervallen
 
 ##### Artikel 18.17
 
-Degene die een gekwalificeerd middel voor het aanmaken van elektronische handtekeningen of van elektronische zegels op de markt brengt, draagt ten bewijze dat is voldaan aan de daaraan in de eidas-verordening gestelde eisen zorg, dat het gekwalificeerd middel is voorzien van een verklaring van een door Onze Minister aangewezen instelling als bedoeld in [artikel 18.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17a&z=2020-12-21&g=2020-12-21) of van een verklaring van een instelling die is aangewezen door de bevoegde autoriteiten van een andere lidstaat van de Europese Unie dan wel van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, dat het middel voldoet aan de eisen.
+Degene die een gekwalificeerd middel voor het aanmaken van elektronische handtekeningen of van elektronische zegels op de markt brengt, draagt ten bewijze dat is voldaan aan de daaraan in de eidas-verordening gestelde eisen zorg, dat het gekwalificeerd middel is voorzien van een verklaring van een door Onze Minister aangewezen instelling als bedoeld in [artikel 18.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17a&z=2021-07-01&g=2021-07-01) of van een verklaring van een instelling die is aangewezen door de bevoegde autoriteiten van een andere lidstaat van de Europese Unie dan wel van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, dat het middel voldoet aan de eisen.
 
 ##### Artikel 18.18
 
@@ -2455,13 +2453,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.4
 
-1. De Autoriteit Consument en Markt verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), aan de desbetreffende geregistreerde een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21), aan de Autoriteit Consument en Markt is gedaan. Bij de verklaring worden tevens vermeld de geldende wettelijke bepalingen inzake het medegebruik van fysieke infrastructuur, fysieke binnenhuisinfrastructuur, toegangspunten, antenne-opstelpunten, antennesystemen of antennes, coördinatie van civiele werken, de gedoogplicht voor de aanleg, instandhouding en opruiming van kabels, eind- tot eindverbindingen, alsmede toegang met betrekking tot aanbieders met aanmerkelijke marktmacht.
+1. De Autoriteit Consument en Markt verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), aan de desbetreffende geregistreerde een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01), aan de Autoriteit Consument en Markt is gedaan. Bij de verklaring worden tevens vermeld de geldende wettelijke bepalingen inzake het medegebruik van fysieke infrastructuur, fysieke binnenhuisinfrastructuur, toegangspunten, antenne-opstelpunten, antennesystemen of antennes, coördinatie van civiele werken, de gedoogplicht voor de aanleg, instandhouding en opruiming van kabels, eind- tot eindverbindingen, alsmede toegang met betrekking tot aanbieders met aanmerkelijke marktmacht.
 
 2. De Autoriteit Consument en Markt verstrekt de verklaring, bedoeld in het eerste lid, in afwijking van dat lid, binnen een week na ontvangst van een daartoe strekkend schriftelijk verzoek van een geregistreerde als bedoeld in het eerste lid.
 
 ##### Artikel 2.5
 
-De Autoriteit Consument en Markt is verwerkingsverantwoordelijke, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2020-12-21&g=2020-12-21) en voor het register, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2020-12-21&g=2020-12-21).
+De Autoriteit Consument en Markt is verwerkingsverantwoordelijke, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2021-07-01&g=2021-07-01) en voor het register, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 3. Frequenties
 
@@ -2471,7 +2469,7 @@ De Autoriteit Consument en Markt is verwerkingsverantwoordelijke, bedoeld in [ar
 
 ##### Artikel 3.13
 
-1. Voor het gebruik van andere frequentieruimte dan die welke in het frequentieplan is aangewezen als frequentieruimte waarvan het gebruik zonder vergunning is toegestaan, dan wel die op grond van de [artikelen 3.5 tot en met 3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) is toegewezen, is een vergunning vereist van Onze Minister.
+1. Voor het gebruik van andere frequentieruimte dan die welke in het frequentieplan is aangewezen als frequentieruimte waarvan het gebruik zonder vergunning is toegestaan, dan wel die op grond van de [artikelen 3.5 tot en met 3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) is toegewezen, is een vergunning vereist van Onze Minister.
 
 2. Vergunningen worden slechts verleend in overeenstemming met het frequentieplan.
 
@@ -2497,7 +2495,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van overe
 
 1. De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht de relevante markten in de elektronische communicatiesector waarvan de product- of dienstenmarkt overeenkomt met een in een aanbeveling als bedoeld in artikel 15, eerste lid, van [richtlijn nr. 2002/21/EG](32002L0021) vermelde product- of dienstenmarkt. De Autoriteit Consument en Markt bepaalt in elk geval zo spoedig mogelijk nadat een aanbeveling als bedoeld in de eerste volzin in werking is getreden, de in die volzin bedoelde relevante markten.
 
-2. De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante markten in de elektronische communicatiesector indien hier naar haar oordeel aanleiding toe is, of indien dit voortvloeit uit [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4&z=2020-12-21&g=2020-12-21).
+2. De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante markten in de elektronische communicatiesector indien hier naar haar oordeel aanleiding toe is, of indien dit voortvloeit uit [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4&z=2021-07-01&g=2021-07-01).
 
 3. De Autoriteit Consument en Markt onderzoekt de overeenkomstig het eerste en tweede lid, bepaalde relevante markten zo spoedig mogelijk, doch voor markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen twee jaar, nadat een aanbeveling als bedoeld in artikel 15, eerste lid, van richtlijn nr. 2002/21/EG in werking is getreden. De termijn van twee jaar kan door de Autoriteit Consument en Markt worden verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten onderzoekt.
 
@@ -2507,21 +2505,21 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van overe
 
 - a. of de desbetreffende markt al dan niet daadwerkelijk concurrerend is en of hierop ondernemingen die openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden actief zijn die beschikken over een aanmerkelijke marktmacht, en
 
-- b. welke verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) en [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) passend zijn voor de onder a bedoelde ondernemingen die beschikken over een aanmerkelijke marktmacht.
+- b. welke verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) en [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) passend zijn voor de onder a bedoelde ondernemingen die beschikken over een aanmerkelijke marktmacht.
 
-6. Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft de Autoriteit Consument en Markt zo spoedig mogelijk uitvoering aan de [artikelen 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), doch voor relevante markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen de in het derde lid, bedoelde termijn van twee jaar. De termijn van twee jaar kan door de Autoriteit Consument en Markt worden verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten onderzoekt.
+6. Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft de Autoriteit Consument en Markt zo spoedig mogelijk uitvoering aan de [artikelen 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), doch voor relevante markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen de in het derde lid, bedoelde termijn van twee jaar. De termijn van twee jaar kan door de Autoriteit Consument en Markt worden verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten onderzoekt.
 
 7. De Autoriteit Consument en Markt houdt bij de uitoefening van haar taken en bevoegdheden op grond van dit hoofdstuk rekening met door de Europese Commissie krachtens artikel 15, tweede lid, van [richtlijn nr. 2002/21/EG](32002L0021) vastgestelde richtsnoeren.
 
-8. Bij het beoordelen of twee of meer ondernemingen tezamen beschikken over een economische kracht als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2020-12-21&g=2020-12-21), hanteert de Autoriteit Consument en Markt in elk geval de criteria bedoeld in bijlage II van [richtlijn nr. 2002/21/EG](32002L0021).
+8. Bij het beoordelen of twee of meer ondernemingen tezamen beschikken over een economische kracht als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2021-07-01&g=2021-07-01), hanteert de Autoriteit Consument en Markt in elk geval de criteria bedoeld in bijlage II van [richtlijn nr. 2002/21/EG](32002L0021).
 
 9. De Autoriteit Consument en Markt oefent bij transnationale markten haar taken en bevoegdheden op grond van dit hoofdstuk uit in samenspraak met de betrokken nationale regelgevende instanties.
 
 ##### Artikel 6a.2
 
-1. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), blijkt dat een relevante markt onderscheidenlijk een transnationale markt niet daadwerkelijk concurrerend is, stelt de Autoriteit Consument en Markt vast welke ondernemingen die openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden, beschikken over een aanmerkelijke marktmacht, en:
+1. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), blijkt dat een relevante markt onderscheidenlijk een transnationale markt niet daadwerkelijk concurrerend is, stelt de Autoriteit Consument en Markt vast welke ondernemingen die openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden, beschikken over een aanmerkelijke marktmacht, en:
 
-- a. legt zij ieder van hen, voor zover passend, verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) op;
+- a. legt zij ieder van hen, voor zover passend, verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) op;
 
 - b. houdt zij eerder opgelegde of in stand gehouden verplichtingen, voor zover zij betrekking hebben op deze markt, in stand indien zij nog steeds passend zijn, of
 
@@ -2529,39 +2527,39 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van overe
 
 2. De Autoriteit Consument en Markt legt op grond van het eerste lid, onderdeel a:
 
-- a. verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) alleen op aan ondernemingen die openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbieden;
+- a. verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) alleen op aan ondernemingen die openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbieden;
 
-- b. verplichtingen als bedoeld in [artikel 6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) alleen op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt is en de verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen.
+- b. verplichtingen als bedoeld in [artikel 6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) alleen op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt is en de verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen.
 
-3. Een verplichting als bedoeld in het eerste lid, is passend indien deze gebaseerd is op de aard van het op de desbetreffende markt geconstateerde probleem en in het licht van de doelstellingen van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2020-12-21&g=2020-12-21) proportioneel en gerechtvaardigd is.
+3. Een verplichting als bedoeld in het eerste lid, is passend indien deze gebaseerd is op de aard van het op de desbetreffende markt geconstateerde probleem en in het licht van de doelstellingen van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2021-07-01&g=2021-07-01) proportioneel en gerechtvaardigd is.
 
-4. Bij de beoordeling of het opleggen van een verplichting om te voldoen aan redelijke verzoeken tot toegang als bedoeld in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) passend is, houdt de Autoriteit Consument en Markt met name rekening met de factoren, bedoeld in artikel 12, tweede lid, van [richtlijn nr. 2002/19/EG](32002L0019).
+4. Bij de beoordeling of het opleggen van een verplichting om te voldoen aan redelijke verzoeken tot toegang als bedoeld in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) passend is, houdt de Autoriteit Consument en Markt met name rekening met de factoren, bedoeld in artikel 12, tweede lid, van [richtlijn nr. 2002/19/EG](32002L0019).
 
 ##### Artikel 6a.3
 
-1. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), blijkt dat een relevante markt onderscheidenlijk een transnationale markt daadwerkelijk concurrerend is, bepaalt de Autoriteit Consument en Markt dit en trekt zij eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), opgelegde of in stand gehouden verplichtingen, voor zover zij betrekking hebben op die markt, in.
+1. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), blijkt dat een relevante markt onderscheidenlijk een transnationale markt daadwerkelijk concurrerend is, bepaalt de Autoriteit Consument en Markt dit en trekt zij eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), opgelegde of in stand gehouden verplichtingen, voor zover zij betrekking hebben op die markt, in.
 
-2. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), blijkt dat een onderneming op een niet daadwerkelijk concurrerende relevante markt onderscheidenlijk transnationale markt moet voldoen aan eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), opgelegde of in stand gehouden verplichtingen, trekt de Autoriteit Consument en Markt deze verplichtingen, voor zover zij betrekking hebben op die markt, in, indien de onderneming op die relevante markt onderscheidenlijk transnationale markt niet beschikt over een aanmerkelijke marktmacht.
+2. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), blijkt dat een onderneming op een niet daadwerkelijk concurrerende relevante markt onderscheidenlijk transnationale markt moet voldoen aan eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), opgelegde of in stand gehouden verplichtingen, trekt de Autoriteit Consument en Markt deze verplichtingen, voor zover zij betrekking hebben op die markt, in, indien de onderneming op die relevante markt onderscheidenlijk transnationale markt niet beschikt over een aanmerkelijke marktmacht.
 
-3. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), blijkt dat een relevante markt onderscheidenlijk transnationale markt niet daadwerkelijk concurrerend is en de verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21), toereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen, trekt de Autoriteit Consument en Markt eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), opgelegde of in stand gehouden verplichtingen als bedoeld in de [artikelen 6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), voor zover zij betrekking hebben op die markt, in.
+3. Indien uit een onderzoek als bedoeld in [artikel 6a.1, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), blijkt dat een relevante markt onderscheidenlijk transnationale markt niet daadwerkelijk concurrerend is en de verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01), toereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen, trekt de Autoriteit Consument en Markt eerder krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), opgelegde of in stand gehouden verplichtingen als bedoeld in de [artikelen 6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), voor zover zij betrekking hebben op die markt, in.
 
 ##### Artikel 6a.4
 
-1. Uiterlijk binnen drie jaar nadat een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit de Autoriteit Consument en Markt op grond van:
+1. Uiterlijk binnen drie jaar nadat een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit de Autoriteit Consument en Markt op grond van:
 
-- a. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), om deze verplichtingen in stand te houden, of
+- a. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), om deze verplichtingen in stand te houden, of
 
-- b. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21) om deze verplichtingen in te trekken.
+- b. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01) om deze verplichtingen in te trekken.
 
 2. De termijn van drie jaar, bedoeld in het eerste lid, kan in uitzonderlijke gevallen door de Autoriteit Consument en Markt worden verlengd met ten hoogste drie jaar indien de Autoriteit Consument en Markt daartoe bij de Europese Commissie een gemotiveerd verzoek heeft ingediend en de Europese Commissie niet binnen een maand na ontvangst van dat verzoek bezwaar heeft gemaakt tegen de verlenging. Voorts wordt deze termijn verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten en de verplichtingen, bedoeld in het eerste lid, onderzoekt.
 
 ##### Artikel 6a.5
 
-Van een besluit als bedoeld in de [artikelen 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), [6a.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2020-12-21&g=2020-12-21) en [6a.4b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4b&z=2020-12-21&g=2020-12-21) wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant.
+Van een besluit als bedoeld in de [artikelen 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), [6a.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2021-07-01&g=2021-07-01) en [6a.4b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4b&z=2021-07-01&g=2021-07-01) wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 6a.6
 
-1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de verplichting opleggen om te voldoen aan redelijke verzoeken tot door de Autoriteit Consument en Markt te bepalen vormen van toegang, onder andere indien de Autoriteit Consument en Markt van oordeel is dat het weigeren van toegang of het stellen van onredelijke voorwaarden met eenzelfde effect, de ontwikkeling van een door duurzame concurrentie gekenmerkte eindgebruikersmarkt zou belemmeren of niet in het belang van de eindgebruiker zou zijn.
+1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de verplichting opleggen om te voldoen aan redelijke verzoeken tot door de Autoriteit Consument en Markt te bepalen vormen van toegang, onder andere indien de Autoriteit Consument en Markt van oordeel is dat het weigeren van toegang of het stellen van onredelijke voorwaarden met eenzelfde effect, de ontwikkeling van een door duurzame concurrentie gekenmerkte eindgebruikersmarkt zou belemmeren of niet in het belang van de eindgebruiker zou zijn.
 
 2. De verplichting, bedoeld in het eerste lid, kan onder meer inhouden dat de desbetreffende onderneming:
 
@@ -2593,7 +2591,7 @@ Van een besluit als bedoeld in de [artikelen 6a.2, eerste lid](https://wetten.ov
 
 - b. een onderneming die toegang heeft gekregen op basis van een verzoek als bedoeld in het eerste lid, in acht neemt.
 
-5. [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.4&z=2020-12-21&g=2020-12-21) is van overeenkomstige toepassing met betrekking tot voorschriften als bedoeld in het vierde lid.
+5. [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.4&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing met betrekking tot voorschriften als bedoeld in het vierde lid.
 
 6. Voor zover dat op grond van de notificatierichtlijn noodzakelijk is, stelt de Autoriteit Consument en Markt de voorschriften niet vast dan nadat de voorschriften aan de Europese Commissie in ontwerp zijn medegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.
 
@@ -2601,7 +2599,7 @@ Van een besluit als bedoeld in de [artikelen 6a.2, eerste lid](https://wetten.ov
 
 ##### Artikel 6a.7
 
-1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), voor door de Autoriteit Consument en Markt te bepalen vormen van toegang een verplichting opleggen betreffende het beheersen van de hiervoor te rekenen tarieven of kostentoerekening indien uit een marktanalyse blijkt dat de betrokken exploitant de prijzen door het ontbreken van werkelijke concurrentie op een buitensporig hoog peil kan handhaven of de marges kan uithollen, in beide gevallen ten nadele van de eindgebruikers. Aan de verplichting kunnen door de Autoriteit Consument en Markt voorschriften worden verbonden die nodig zijn voor een goede uitvoering van de verplichting.
+1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), voor door de Autoriteit Consument en Markt te bepalen vormen van toegang een verplichting opleggen betreffende het beheersen van de hiervoor te rekenen tarieven of kostentoerekening indien uit een marktanalyse blijkt dat de betrokken exploitant de prijzen door het ontbreken van werkelijke concurrentie op een buitensporig hoog peil kan handhaven of de marges kan uithollen, in beide gevallen ten nadele van de eindgebruikers. Aan de verplichting kunnen door de Autoriteit Consument en Markt voorschriften worden verbonden die nodig zijn voor een goede uitvoering van de verplichting.
 
 2. Een verplichting als bedoeld in het eerste lid kan inhouden dat voor toegang een kostengeoriënteerd tarief moet worden gerekend of dat een door de Autoriteit Consument en Markt te bepalen of goed te keuren kostentoerekeningssysteem moet worden gehanteerd.
 
@@ -2619,19 +2617,19 @@ Van een besluit als bedoeld in de [artikelen 6a.2, eerste lid](https://wetten.ov
 
 ##### Artikel 6a.8
 
-De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), voor door de Autoriteit Consument en Markt te bepalen vormen van toegang de verplichting opleggen om deze toegang onder gelijke omstandigheden onder gelijke voorwaarden te verlenen. Deze verplichting houdt tevens in dat de onderneming gelijke voorwaarden toepast als die welke onder gelijke omstandigheden gelden voor haarzelf, haar dochterondernemingen of haar partnerondernemingen.
+De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), voor door de Autoriteit Consument en Markt te bepalen vormen van toegang de verplichting opleggen om deze toegang onder gelijke omstandigheden onder gelijke voorwaarden te verlenen. Deze verplichting houdt tevens in dat de onderneming gelijke voorwaarden toepast als die welke onder gelijke omstandigheden gelden voor haarzelf, haar dochterondernemingen of haar partnerondernemingen.
 
 ##### Artikel 6a.9
 
-1. De Autoriteit Consument en Markt kan op grond [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de verplichting opleggen om door de Autoriteit Consument en Markt nader te bepalen informatie met betrekking tot door de Autoriteit Consument en Markt te bepalen vormen van toegang bekend te maken. Deze informatie kan onder meer betrekking hebben op:
+1. De Autoriteit Consument en Markt kan op grond [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de verplichting opleggen om door de Autoriteit Consument en Markt nader te bepalen informatie met betrekking tot door de Autoriteit Consument en Markt te bepalen vormen van toegang bekend te maken. Deze informatie kan onder meer betrekking hebben op:
 
 - a. tarieven en andere voorwaarden die bij het verlenen van toegang worden gehanteerd;
 
 - b. technische kenmerken en andere eigenschappen van het netwerk.
 
-2. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de verplichting opleggen om een referentieaanbod bekend te maken waarin een omschrijving is opgenomen van door de Autoriteit Consument en Markt te bepalen vormen van toegang. Het referentieaanbod is opgesplitst naar de onderscheiden vormen van toegang en de daarbij gehanteerde tarieven en andere voorwaarden.
+2. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de verplichting opleggen om een referentieaanbod bekend te maken waarin een omschrijving is opgenomen van door de Autoriteit Consument en Markt te bepalen vormen van toegang. Het referentieaanbod is opgesplitst naar de onderscheiden vormen van toegang en de daarbij gehanteerde tarieven en andere voorwaarden.
 
-3. Indien aan een onderneming waaraan een verplichting als bedoeld in het tweede lid is opgelegd tevens een verplichting is opgelegd als bedoeld in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) die betrekking heeft op ontbundelde toegang tot het aansluitnetwerk, voldoet het referentieaanbod van de onderneming in elk geval aan bijlage II van [richtlijn nr. 2002/19/EG](32002L0019).
+3. Indien aan een onderneming waaraan een verplichting als bedoeld in het tweede lid is opgelegd tevens een verplichting is opgelegd als bedoeld in [artikel 6a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) die betrekking heeft op ontbundelde toegang tot het aansluitnetwerk, voldoet het referentieaanbod van de onderneming in elk geval aan bijlage II van [richtlijn nr. 2002/19/EG](32002L0019).
 
 4. Indien de Autoriteit Consument en Markt van oordeel is dat het referentieaanbod niet in overeenstemming is met de op grond van dit hoofdstuk opgelegde verplichtingen, geeft het de onderneming aanwijzingen met betrekking tot de aan te brengen wijzigingen.
 
@@ -2639,13 +2637,13 @@ De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](htt
 
 ##### Artikel 6a.10
 
-1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de verplichting opleggen om een gescheiden boekhouding te voeren waarin de opbrengsten en de kosten van de door de Autoriteit Consument en Markt te bepalen vormen van toegang, aan de onderneming zelf of aan andere ondernemingen, gescheiden zijn van die van de door de ondernemingen verrichte overige activiteiten.
+1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de verplichting opleggen om een gescheiden boekhouding te voeren waarin de opbrengsten en de kosten van de door de Autoriteit Consument en Markt te bepalen vormen van toegang, aan de onderneming zelf of aan andere ondernemingen, gescheiden zijn van die van de door de ondernemingen verrichte overige activiteiten.
 
 2. Aan de verplichting tot het voeren van een gescheiden boekhouding kan de Autoriteit Consument en Markt voorschriften verbinden met betrekking tot de methode van inrichting van de boekhouding en het aan de Autoriteit Consument en Markt verstrekken van boekhoudkundige documenten met inbegrip van gegevens over van derden ontvangen inkomsten.
 
 ##### Artikel 6a.11
 
-1. In uitzonderlijke omstandigheden kan de Autoriteit Consument en Markt aan een onderneming waarvan door de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), is vastgesteld dat zij beschikt over een aanmerkelijke marktmacht bij de aanbieding van openbare elektronische communicatienetwerken of bijbehorende faciliteiten, andere bij ministeriële regeling aan te wijzen verplichtingen die verband houden met toegang opleggen, voor zover deze passend zijn.
+1. In uitzonderlijke omstandigheden kan de Autoriteit Consument en Markt aan een onderneming waarvan door de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), is vastgesteld dat zij beschikt over een aanmerkelijke marktmacht bij de aanbieding van openbare elektronische communicatienetwerken of bijbehorende faciliteiten, andere bij ministeriële regeling aan te wijzen verplichtingen die verband houden met toegang opleggen, voor zover deze passend zijn.
 
 2. Bij de ministeriële regeling, bedoeld in het eerste lid, kunnen regels worden gesteld met betrekking tot het opleggen door de Autoriteit Consument en Markt van bij die regeling aangewezen verplichtingen. Deze regels hebben in elk geval betrekking op:
 
@@ -2655,9 +2653,9 @@ De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](htt
 
 3. De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid in, indien:
 
-- a. het op grond van [artikel 6a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), heeft bepaald dat de desbetreffende relevante onderscheidenlijk transnationale markt daadwerkelijk concurrerend is;
+- a. het op grond van [artikel 6a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), heeft bepaald dat de desbetreffende relevante onderscheidenlijk transnationale markt daadwerkelijk concurrerend is;
 
-- b. op grond [artikel 6a.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), is gebleken dat de onderneming als bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.
+- b. op grond [artikel 6a.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), is gebleken dat de onderneming als bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.
 
 4. De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid tevens in, indien:
 
@@ -2671,13 +2669,13 @@ De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](htt
 
 - b. het vierde lid om het besluit in te trekken.
 
-6. [Artikel 6a.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing.
+6. [Artikel 6a.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 #### § 5.2. Schadevergoeding in verband met gedoogplicht
 
 ##### Artikel 6a.12
 
-De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de verplichting opleggen om:
+De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de verplichting opleggen om:
 
 - a. bij de levering van door de Autoriteit Consument en Markt te bepalen eindgebruikersdiensten, de eindgebruikers van die diensten in gelijke gevallen gelijk te behandelen;
 
@@ -2687,9 +2685,9 @@ De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](htt
 
 ##### Artikel 6a.13
 
-1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), verplichtingen met betrekking tot de hoogte van eindgebruikerstarieven opleggen.
+1. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), verplichtingen met betrekking tot de hoogte van eindgebruikerstarieven opleggen.
 
-2. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het eerste lid oplegt, legt de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), tevens de verplichting op om een door de Autoriteit Consument en Markt te bepalen of goed te keuren kostentoerekeningssysteem te hanteren. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), de in de vorige volzin bedoelde verplichting ook afzonderlijk van een verplichting als bedoeld in het eerste lid opleggen.
+2. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het eerste lid oplegt, legt de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), tevens de verplichting op om een door de Autoriteit Consument en Markt te bepalen of goed te keuren kostentoerekeningssysteem te hanteren. De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), de in de vorige volzin bedoelde verplichting ook afzonderlijk van een verplichting als bedoeld in het eerste lid opleggen.
 
 3. Een onderneming aan wie een verplichting als bedoeld in het tweede lid is opgelegd, legt vanaf een door de Autoriteit Consument en Markt te bepalen datum elk jaar in de maand mei, over het voorafgaande kalenderjaar het resultaat van de toepassing van het desbetreffende kostentoerekeningssysteem over aan de Autoriteit Consument en Markt.
 
@@ -2699,23 +2697,23 @@ De Autoriteit Consument en Markt kan op grond van [artikel 6a.2, eerste lid](htt
 
 ##### Artikel 6a.14
 
-1. Indien de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), een verplichting als bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), oplegt of in stand houdt, kan de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), tevens de verplichting opleggen om invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd.
+1. Indien de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), een verplichting als bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), oplegt of in stand houdt, kan de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), tevens de verplichting opleggen om invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd.
 
-2. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van een verzoek tot goedkeuring, of het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21). Indien gegevens als bedoeld in het zevende lid ontbreken wordt de onderneming die het verzoek heeft ingediend binnen drie dagen na ontvangst van het verzoek, hiervan op de hoogte gesteld.
+2. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van een verzoek tot goedkeuring, of het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01). Indien gegevens als bedoeld in het zevende lid ontbreken wordt de onderneming die het verzoek heeft ingediend binnen drie dagen na ontvangst van het verzoek, hiervan op de hoogte gesteld.
 
 3. De Autoriteit Consument en Markt kan de termijn, bedoeld in het tweede lid, eerste volzin, eenmaal met drie weken verlengen. De Autoriteit Consument en Markt doet hiervan schriftelijk mededeling aan de onderneming die het verzoek heeft ingediend.
 
-4. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), keurt de Autoriteit Consument en Markt de invoering hiervan goed.
+4. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), keurt de Autoriteit Consument en Markt de invoering hiervan goed.
 
-5. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief niet in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), doet de Autoriteit Consument en Markt hiervan mededeling aan de onderneming die het verzoek heeft ingediend. Binnen vier weken na deze mededeling, deelt de Autoriteit Consument en Markt aan de in de eerste volzin bedoelde onderneming schriftelijk mede op welke punten niet voldaan is aan de in de eerste volzin bedoelde verplichting.
+5. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief niet in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 6a.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), doet de Autoriteit Consument en Markt hiervan mededeling aan de onderneming die het verzoek heeft ingediend. Binnen vier weken na deze mededeling, deelt de Autoriteit Consument en Markt aan de in de eerste volzin bedoelde onderneming schriftelijk mede op welke punten niet voldaan is aan de in de eerste volzin bedoelde verplichting.
 
 6. De Autoriteit Consument en Markt beoordeelt een verzoek tot goedkeuring volgend op een schriftelijke mededeling als bedoeld in het vijfde lid, tweede volzin, binnen twee weken na ontvangst van dit verzoek.
 
-7. Uiterlijk op het tijdstip waarop een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), houdende de oplegging of instandhouding van de verplichting om de invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd, in werking treedt, stelt de Autoriteit Consument en Markt vast welke gegevens door de desbetreffende onderneming bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en in welke vorm deze gegevens worden ingediend. De Autoriteit Consument en Markt doet hiervan mededeling aan de desbetreffende onderneming.
+7. Uiterlijk op het tijdstip waarop een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), houdende de oplegging of instandhouding van de verplichting om de invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd, in werking treedt, stelt de Autoriteit Consument en Markt vast welke gegevens door de desbetreffende onderneming bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en in welke vorm deze gegevens worden ingediend. De Autoriteit Consument en Markt doet hiervan mededeling aan de desbetreffende onderneming.
 
 ##### Artikel 6a.15
 
-Ter uitvoering van artikel 17 van [richtlijn nr. 2002/22/EG](32002L0022) kunnen bij algemene maatregel van bestuur andere verplichtingen dan de verplichtingen, bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) worden aangewezen die de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben op een relevante eindgebruikersmarkt onderscheidenlijk een transnationale eindgebruikersmarkt.
+Ter uitvoering van artikel 17 van [richtlijn nr. 2002/22/EG](32002L0022) kunnen bij algemene maatregel van bestuur andere verplichtingen dan de verplichtingen, bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) worden aangewezen die de Autoriteit Consument en Markt op grond van [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben op een relevante eindgebruikersmarkt onderscheidenlijk een transnationale eindgebruikersmarkt.
 
 #### § 6a.1. Vaststellen van aanmerkelijke marktmacht
 
@@ -2751,13 +2749,13 @@ Vervallen
 
 3. Een verticaal geïntegreerde openbare onderneming die elektronische communicatienetwerken aanbiedt en daarbij beschikt over een economische machtspositie op de gemeenschappelijke markt of op een wezenlijk onderdeel daarvan als bedoeld in artikel 102 van het Verdrag betreffende de werking van de Europese Unie, verleent aan andere ondernemingen op hun verzoek onder gelijke voorwaarden toegang als die welke onder gelijke omstandigheden gelden voor haarzelf of haar dochterondernemingen.
 
-4. De verplichting, bedoeld in het derde lid, blijft voor een verticaal geïntegreerde openbare onderneming buiten toepassing voor zover deze verplichting reeds voortvloeit uit een krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), jo. [artikel 6a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.8&z=2020-12-21&g=2020-12-21) door de Autoriteit Consument en Markt opgelegde of instandgehouden verplichting.
+4. De verplichting, bedoeld in het derde lid, blijft voor een verticaal geïntegreerde openbare onderneming buiten toepassing voor zover deze verplichting reeds voortvloeit uit een krachtens [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), jo. [artikel 6a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.8&z=2021-07-01&g=2021-07-01) door de Autoriteit Consument en Markt opgelegde of instandgehouden verplichting.
 
 ### Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
 
 ##### Artikel 6b.1
 
-1. Op de voorbereiding van een besluit van de Autoriteit Consument en Markt als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2020-12-21&g=2020-12-21), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21), [6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), [6a.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2020-12-21&g=2020-12-21) en [6b.2, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2020-12-21&g=2020-12-21), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+1. Op de voorbereiding van een besluit van de Autoriteit Consument en Markt als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2021-07-01&g=2021-07-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01), [6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), [6a.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2021-07-01&g=2021-07-01) en [6b.2, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2021-07-01&g=2021-07-01), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 2. In afwijking van het eerste lid kan de Autoriteit Consument en Markt besluiten om de in het eerste lid bedoelde procedure niet toe te passen indien het besluit geen aanzienlijke gevolgen heeft voor de desbetreffende markt.
 
@@ -2765,7 +2763,7 @@ Vervallen
 
 ##### Artikel 6b.2
 
-1. Indien een besluit als bedoeld in [artikel 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21), van invloed is op de handel tussen de lidstaten, legt de Autoriteit Consument en Markt het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan:
+1. Indien een besluit als bedoeld in [artikel 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01), van invloed is op de handel tussen de lidstaten, legt de Autoriteit Consument en Markt het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan:
 
 - a. de Europese Commissie,
 
@@ -2779,7 +2777,7 @@ en stelt de Autoriteit Consument en Markt hen gedurende een maand in de gelegenh
 
 3. De Autoriteit Consument en Markt houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Europese Commissie, de nationale regelgevende instanties en BEREC met betrekking tot het ontwerp aan de Autoriteit Consument en Markt hebben medegedeeld.
 
-4. Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat de bepaling van een relevante markt op grond van [artikel 6a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), of de aanwijzing van een onderneming met aanmerkelijke marktmacht, bedoeld in [artikel 6a.2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Unierecht, wacht de Autoriteit Consument en Markt tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van het besluit.
+4. Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat de bepaling van een relevante markt op grond van [artikel 6a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), of de aanwijzing van een onderneming met aanmerkelijke marktmacht, bedoeld in [artikel 6a.2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Unierecht, wacht de Autoriteit Consument en Markt tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van het besluit.
 
 5. Uiterlijk zes maanden na de dag waarop de Europese Commissie overeenkomstig artikel 7, vijfde lid, onderdeel a, van richtlijn nr. 2002/21/EG een beschikking heeft gegeven omtrent een ontwerpbesluit als bedoeld in het vierde lid:
 
@@ -2789,9 +2787,9 @@ en stelt de Autoriteit Consument en Markt hen gedurende een maand in de gelegenh
 
 6. Van het besluit, bedoeld in het vijfde lid, onder b, doet de Autoriteit Consument en Markt mededeling in de Staatscourant.
 
-7. Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat een in het ontwerpbesluit voorgestelde verplichting als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2020-12-21&g=2020-12-21), [6.3, eerste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21), [6a.2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.4a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2020-12-21&g=2020-12-21), een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid daarvan met het Unierecht, neemt de Autoriteit Consument en Markt het besluit niet dan nadat de termijn van vier maanden vanaf de datum van die mededeling is verstreken. In afwijking van deze termijn kan de Autoriteit Consument en Markt het besluit nemen zodra de aanbeveling is gedaan of het voorbehoud is ingetrokken.
+7. Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat een in het ontwerpbesluit voorgestelde verplichting als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2021-07-01&g=2021-07-01), [6.3, eerste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01), [6a.2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.4a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4a&z=2021-07-01&g=2021-07-01), een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid daarvan met het Unierecht, neemt de Autoriteit Consument en Markt het besluit niet dan nadat de termijn van vier maanden vanaf de datum van die mededeling is verstreken. In afwijking van deze termijn kan de Autoriteit Consument en Markt het besluit nemen zodra de aanbeveling is gedaan of het voorbehoud is ingetrokken.
 
-8. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het zevende lid in overeenstemming brengt met een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, is [artikel 6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21) van overeenkomstige toepassing.
+8. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het zevende lid in overeenstemming brengt met een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, is [artikel 6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01) van overeenkomstige toepassing.
 
 9. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het zevende lid, niet in overeenstemming brengt met:
 
@@ -2799,13 +2797,13 @@ en stelt de Autoriteit Consument en Markt hen gedurende een maand in de gelegenh
 
 - b. een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, motiveert de Autoriteit Consument en Markt waarom zij de verplichting in het ontwerpbesluit niet wijzigt of intrekt.
 
-10. De Autoriteit Consument en Markt stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Europese Commissie en BEREC. In het geval van een aanbeveling of een voorbehoud als bedoeld in het zevende lid, verstuurt de Autoriteit Consument en Markt het afschrift binnen een maand nadat de aanbeveling is gedaan of het voorbehoud is ingetrokken. De termijn van een maand kan door de Autoriteit Consument en Markt worden verlengd indien de Autoriteit Consument en Markt de wijziging van het ontwerpbesluit voorbereidt overeenkomstig [artikel 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21).
+10. De Autoriteit Consument en Markt stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Europese Commissie en BEREC. In het geval van een aanbeveling of een voorbehoud als bedoeld in het zevende lid, verstuurt de Autoriteit Consument en Markt het afschrift binnen een maand nadat de aanbeveling is gedaan of het voorbehoud is ingetrokken. De termijn van een maand kan door de Autoriteit Consument en Markt worden verlengd indien de Autoriteit Consument en Markt de wijziging van het ontwerpbesluit voorbereidt overeenkomstig [artikel 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01).
 
-11. Het vierde, vijfde en zesde lid zijn van overeenkomstige toepassing indien de Europese Commissie overeenkomstig artikel 33, vijfde lid, onderdeel c, van richtlijn (EU) 2018/1972 een beschikking heeft gegeven omtrent een ontwerpbesluit op grond van [artikel 6.3, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21), met dien verstande dat de Autoriteit Consument en Markt ten minste vier maanden vanaf de datum van de mededeling van de Europese Commissiewacht met het vaststellen van het besluit.
+11. Het vierde, vijfde en zesde lid zijn van overeenkomstige toepassing indien de Europese Commissie overeenkomstig artikel 33, vijfde lid, onderdeel c, van richtlijn (EU) 2018/1972 een beschikking heeft gegeven omtrent een ontwerpbesluit op grond van [artikel 6.3, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01), met dien verstande dat de Autoriteit Consument en Markt ten minste vier maanden vanaf de datum van de mededeling van de Europese Commissiewacht met het vaststellen van het besluit.
 
 ##### Artikel 6b.3
 
-1. De Autoriteit Consument en Markt kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de [artikelen 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21), of [6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2020-12-21&g=2020-12-21), die procedure buiten toepassing laten bij het nemen van een besluit als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2020-12-21&g=2020-12-21), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2020-12-21&g=2020-12-21) en [6a.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.
+1. De Autoriteit Consument en Markt kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de [artikelen 6b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01), of [6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2021-07-01&g=2021-07-01), die procedure buiten toepassing laten bij het nemen van een besluit als bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.2&z=2021-07-01&g=2021-07-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01) en [6a.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.
 
 2. Een besluit als bedoeld in het eerste lid geldt voor een periode van maximaal 26 weken.
 
@@ -2813,11 +2811,11 @@ en stelt de Autoriteit Consument en Markt hen gedurende een maand in de gelegenh
 
 ##### Artikel 6b.4
 
-Indien een nationale regelgevende instantie, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2020-12-21&g=2020-12-21), ingevolge artikel 7, derde lid, van [richtlijn nr. 2002/21/EG](32002L0021) een ontwerp van een besluit aan de Autoriteit Consument en Markt voorlegt, doet de Autoriteit Consument en Markt haar opmerkingen aan die nationale regelgevende instantie binnen de door die instantie gestelde termijn toekomen.
+Indien een nationale regelgevende instantie, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.2&z=2021-07-01&g=2021-07-01), ingevolge artikel 7, derde lid, van [richtlijn nr. 2002/21/EG](32002L0021) een ontwerp van een besluit aan de Autoriteit Consument en Markt voorlegt, doet de Autoriteit Consument en Markt haar opmerkingen aan die nationale regelgevende instantie binnen de door die instantie gestelde termijn toekomen.
 
 ##### Artikel 6b.5
 
-1. Op de voorbereiding van een besluit van de Autoriteit Consument en Markt tot het opleggen, instandhouden of intrekken van een verplichting als bedoeld in een op basis van [artikel 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.11&z=2020-12-21&g=2020-12-21) tot stand gekomen ministeriële regeling is de procedure, bedoeld in [artikel 6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21) van toepassing.
+1. Op de voorbereiding van een besluit van de Autoriteit Consument en Markt tot het opleggen, instandhouden of intrekken van een verplichting als bedoeld in een op basis van [artikel 6a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.11&z=2021-07-01&g=2021-07-01) tot stand gekomen ministeriële regeling is de procedure, bedoeld in [artikel 6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01) van toepassing.
 
 2. De Autoriteit Consument en Markt legt een ontwerp van een besluit als bedoeld in het eerste lid voor aan de Europese Commissie en de nationale regelgevende instanties die overeenkomstig artikel 3, zesde lid, van [richtlijn nr. 2002/21/EG](32002L0021) zijn aangemeld.
 
@@ -2827,9 +2825,9 @@ Indien een nationale regelgevende instantie, bedoeld in [artikel 6b.2, eerste li
 
 Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) worden als één besluit aangemerkt:
 
-- a. een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in [artikel 6a.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), en het onderzoek van die markt, bedoeld in [artikel 6a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), respectievelijk het onderzoek van een transnationale markt, bedoeld in [artikel 6a.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21);
+- a. een besluit als bedoeld in [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in [artikel 6a.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), en het onderzoek van die markt, bedoeld in [artikel 6a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), respectievelijk het onderzoek van een transnationale markt, bedoeld in [artikel 6a.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01);
 
-- b. een besluit als bedoeld in [artikel 6a.3, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in [artikel 6a.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), en het onderzoek van die markt als bedoeld in [artikel 6a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), respectievelijk het onderzoek van een transnationale markt als bedoeld in [artikel 6a.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21).
+- b. een besluit als bedoeld in [artikel 6a.3, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in [artikel 6a.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), en het onderzoek van die markt als bedoeld in [artikel 6a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), respectievelijk het onderzoek van een transnationale markt als bedoeld in [artikel 6a.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 8. Regels met betrekking tot het verspreiden van programma's, systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces en elektronische programmagidsen
 
@@ -2861,7 +2859,7 @@ Bij algemene maatregel van bestuur worden regels gesteld inzake de door een aanb
 
 ##### Artikel 10.13
 
-1. Indien uitrusting of radioapparaten een ontoelaatbare storing of belemmering veroorzaken in uitrusting of radioapparaten die voldoen aan de krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2020-12-21&g=2020-12-21) gestelde voorschriften, kan de houder van de storing veroorzakende uitrusting of radioapparaat worden verplicht een door Onze Minister gegeven aanwijzing op te volgen.
+1. Indien uitrusting of radioapparaten een ontoelaatbare storing of belemmering veroorzaken in uitrusting of radioapparaten die voldoen aan de krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2021-07-01&g=2021-07-01) gestelde voorschriften, kan de houder van de storing veroorzakende uitrusting of radioapparaat worden verplicht een door Onze Minister gegeven aanwijzing op te volgen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake de behandeling van klachten over elektromagnetische storingen, ondervonden van het gebruik van uitrusting of radioapparaten, of over belemmeringen, welke bij het gebruik van apparaten of radioapparaten worden ondervonden.
 
@@ -2913,7 +2911,7 @@ Bij algemene maatregel van bestuur worden regels gesteld inzake de door een aanb
 
 ##### Artikel 11.12
 
-1. Aan een aanbieder van een openbaar elektronisch communicatienetwerk en een aanbieder van een openbare elektronische communicatiedienst kan door de Autoriteit Consument en Markt ontheffing worden verleend van de verplichtingen die voortvloeien uit de [artikelen 11.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.4&z=2020-12-21&g=2020-12-21), en [11.9 tot en met 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2020-12-21&g=2020-12-21).
+1. Aan een aanbieder van een openbaar elektronisch communicatienetwerk en een aanbieder van een openbare elektronische communicatiedienst kan door de Autoriteit Consument en Markt ontheffing worden verleend van de verplichtingen die voortvloeien uit de [artikelen 11.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.4&z=2021-07-01&g=2021-07-01), en [11.9 tot en met 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2021-07-01&g=2021-07-01).
 
 2. Een ontheffing als bedoeld in het eerste lid kan uitsluitend worden verleend, indien:
 
@@ -2927,15 +2925,15 @@ Bij algemene maatregel van bestuur worden regels gesteld inzake de door een aanb
 
 ##### Artikel 11.13
 
-1. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten kunnen de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2020-12-21&g=2020-12-21) en [11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2020-12-21&g=2020-12-21), buiten toepassing laten, indien dit noodzakelijk is in het belang van:
+1. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten kunnen de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2021-07-01&g=2021-07-01) en [11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2021-07-01&g=2021-07-01), buiten toepassing laten, indien dit noodzakelijk is in het belang van:
 
 - a. de nationale veiligheid;
 
 - b. de voorkoming, opsporing en vervolging van strafbare feiten.
 
-2. De verkeers- en locatiegegevens die de aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten bewaren op grond van [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), worden door de aanbieders niet voor andere doelen verwerkt, tenzij het gegevens betreft waarvan de verwerking op grond van de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21) en [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2020-12-21&g=2020-12-21) is toegestaan en de verwerking plaatsvindt met inachtneming van die artikelen.
+2. De verkeers- en locatiegegevens die de aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten bewaren op grond van [artikel 13.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), worden door de aanbieders niet voor andere doelen verwerkt, tenzij het gegevens betreft waarvan de verwerking op grond van de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01) en [11.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5a&z=2021-07-01&g=2021-07-01) is toegestaan en de verwerking plaatsvindt met inachtneming van die artikelen.
 
-3. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten mogen, in afwijking van [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2020-12-21&g=2020-12-21), verkeersgegevens verwerken, indien en voor zolang dat noodzakelijk is voor een onderzoek als bedoeld in [artikel 11.11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.11&z=2020-12-21&g=2020-12-21). De verkeersgegevens mogen voor een periode van ten hoogste drie maanden na beëindiging van een onderzoek als bedoeld in [artikel 11.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.11&z=2020-12-21&g=2020-12-21), door de desbetreffende aanbieders worden bewaard. Na afloop van deze periode worden de verkeersgegevens verwijderd.
+3. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten mogen, in afwijking van [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2021-07-01&g=2021-07-01), verkeersgegevens verwerken, indien en voor zolang dat noodzakelijk is voor een onderzoek als bedoeld in [artikel 11.11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.11&z=2021-07-01&g=2021-07-01). De verkeersgegevens mogen voor een periode van ten hoogste drie maanden na beëindiging van een onderzoek als bedoeld in [artikel 11.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.11&z=2021-07-01&g=2021-07-01), door de desbetreffende aanbieders worden bewaard. Na afloop van deze periode worden de verkeersgegevens verwijderd.
 
 ### Hoofdstuk 12. Geschillen
 
@@ -2953,55 +2951,55 @@ Bij algemene maatregel van bestuur worden regels gesteld inzake de door een aanb
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien een geschil is gerezen:
 
-- a. tussen netwerkexploitanten of met een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2020-12-21&g=2020-12-21);
+- a. tussen netwerkexploitanten of met een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2021-07-01&g=2021-07-01);
 
-- b. tussen degenen, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), of met een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2020-12-21&g=2020-12-21),
+- b. tussen degenen, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), of met een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2021-07-01&g=2021-07-01),
 
-inzake de nakoming van een bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2020-12-21&g=2020-12-21) op hen rustende verplichting.
+inzake de nakoming van een bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2021-07-01&g=2021-07-01) op hen rustende verplichting.
 
-4. Indien een geschil is gerezen over de redelijkheid van een vergoeding voor medegebruik als bedoeld in [artikel 5a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2020-12-21&g=2020-12-21), draagt de Autoriteit Consument en Markt er zorg voor dat de vergoeding voldoet aan de in dat lid gestelde vereisten. De Autoriteit Consument en Markt is daarbij gehouden om de bij het geschil betrokken partijen te raadplegen over de mate waarin met de vergoeding aan de vereisten wordt voldaan. Indien naar het oordeel van de Autoriteit Consument en Markt niet of onvoldoende aan de vereisten wordt voldaan, raadpleegt de Autoriteit Consument en Markt de geschilpartijen opnieuw en geeft het, met inachtneming van de door de geschilpartijen verschafte informatie, aanwijzingen voor het alsnog voldoen aan de vereisten. De Autoriteit Consument en Markt houdt nadien toezicht op de naleving van de gegeven aanwijzingen. Zij kan de aanbieder verplichten periodiek een rapportage over te leggen waarmee de blijvende efficiëntie van de tarieven kan worden gecontroleerd.
+4. Indien een geschil is gerezen over de redelijkheid van een vergoeding voor medegebruik als bedoeld in [artikel 5a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2021-07-01&g=2021-07-01), draagt de Autoriteit Consument en Markt er zorg voor dat de vergoeding voldoet aan de in dat lid gestelde vereisten. De Autoriteit Consument en Markt is daarbij gehouden om de bij het geschil betrokken partijen te raadplegen over de mate waarin met de vergoeding aan de vereisten wordt voldaan. Indien naar het oordeel van de Autoriteit Consument en Markt niet of onvoldoende aan de vereisten wordt voldaan, raadpleegt de Autoriteit Consument en Markt de geschilpartijen opnieuw en geeft het, met inachtneming van de door de geschilpartijen verschafte informatie, aanwijzingen voor het alsnog voldoen aan de vereisten. De Autoriteit Consument en Markt houdt nadien toezicht op de naleving van de gegeven aanwijzingen. Zij kan de aanbieder verplichten periodiek een rapportage over te leggen waarmee de blijvende efficiëntie van de tarieven kan worden gecontroleerd.
 
-5. Het eerste lid is niet van toepassing op geschillen voortvloeiend uit [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2020-12-21&g=2020-12-21) van deze wet of geschillen betreffende [artikel 5a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.6&z=2020-12-21&g=2020-12-21).
+5. Het eerste lid is niet van toepassing op geschillen voortvloeiend uit [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2021-07-01&g=2021-07-01) van deze wet of geschillen betreffende [artikel 5a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.6&z=2021-07-01&g=2021-07-01).
 
-6. Indien nummerhouders als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2020-12-21&g=2020-12-21) geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven nummers gezamenlijk in gebruik zullen worden genomen, kan de Autoriteit Consument en Markt op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2020-12-21&g=2020-12-21).
+6. Indien nummerhouders als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2021-07-01&g=2021-07-01) geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven nummers gezamenlijk in gebruik zullen worden genomen, kan de Autoriteit Consument en Markt op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in [artikel 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2b&z=2021-07-01&g=2021-07-01).
 
 7. Op aanvraag van de gezamenlijke nummerhouders kan de Autoriteit Consument en Markt een besluit als bedoeld in het vijfde lid intrekken.
 
 ##### Artikel 12.3
 
-De Autoriteit Consument en Markt is onbevoegd tot het beslechten van een op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) voorgelegd geschil, indien de bij dat geschil betrokken partijen de Autoriteit Consument en Markt verzoeken het geschil niet langer te behandelen.
+De Autoriteit Consument en Markt is onbevoegd tot het beslechten van een op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) voorgelegd geschil, indien de bij dat geschil betrokken partijen de Autoriteit Consument en Markt verzoeken het geschil niet langer te behandelen.
 
 ##### Artikel 12.4
 
-1. De Autoriteit Consument en Markt kan bij de beslechting van een geschil inzake de nakoming van een bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2020-12-21&g=2020-12-21) gestelde verplichting billijke en niet-discriminerende eisen en voorwaarden stellen aan de bij dat geschil betrokken partijen, het medegebruik of de coördinatie.
+1. De Autoriteit Consument en Markt kan bij de beslechting van een geschil inzake de nakoming van een bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2021-07-01&g=2021-07-01) gestelde verplichting billijke en niet-discriminerende eisen en voorwaarden stellen aan de bij dat geschil betrokken partijen, het medegebruik of de coördinatie.
 
 2. Indien de Autoriteit en Consument een vergoeding vaststelt voor het medegebruik van fysieke infrastructuur, wordt ervoor gezorgd dat de netwerkexploitant een eerlijke kans heeft om zijn kosten terug te verdienen. Daarbij houdt de Autoriteit consument en Markt rekening met de gevolgen van het medegebruik voor het bedrijfsplan en de investeringen van de netwerkexploitant.
 
 ##### Artikel 12.5
 
-1. De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) binnen vier maanden na ontvangst van die aanvraag. [Artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) is van overeenkomstige toepassing indien de Autoriteit Consument en Markt aan een andere partij dan de aanvrager om gegevens verzoekt met het oog op de te nemen beschikking.
+1. De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) binnen vier maanden na ontvangst van die aanvraag. [Artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) is van overeenkomstige toepassing indien de Autoriteit Consument en Markt aan een andere partij dan de aanvrager om gegevens verzoekt met het oog op de te nemen beschikking.
 
 2. Onverminderd het eerste lid, kan de Autoriteit Consument en Markt in spoedeisende gevallen een voorlopig besluit nemen dat tussen de betrokken aanbieders geldt tot het definitieve besluit van de Autoriteit Consument en Markt.
 
 3. In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het eerste lid, verlengen. De Autoriteit Consument en Markt stelt de desbetreffende aanbieders daarvan in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten, met dien verstande dat die termijn niet langer is dan twee maanden na afloop van de termijn, bedoeld in het eerste lid.
 
-4. In afwijking van het eerste lid, beslist de Autoriteit Consument en Markt zo spoedig mogelijk doch, behoudens buitengewone omstandigheden, uiterlijk binnen twee maanden na ontvangst van een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) die betrekking heeft op een geschil inzake de nakoming van een verplichting die is gesteld bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2020-12-21&g=2020-12-21).
+4. In afwijking van het eerste lid, beslist de Autoriteit Consument en Markt zo spoedig mogelijk doch, behoudens buitengewone omstandigheden, uiterlijk binnen twee maanden na ontvangst van een aanvraag als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) die betrekking heeft op een geschil inzake de nakoming van een verplichting die is gesteld bij of krachtens [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&z=2021-07-01&g=2021-07-01).
 
 5. Indien een aanvraag als bedoeld in het vierde lid, tevens betrekking heeft op de informatie-uitwisseling, bedoeld in de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken beslist de Autoriteit Consument en Markt in coördinatie met Onze Minister op de aanvraag.
 
 ##### Artikel 12.6
 
-Een bij een geschil betrokken partij volgt de door de Autoriteit Consument en Markt op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) genomen besluit op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.
+Een bij een geschil betrokken partij volgt de door de Autoriteit Consument en Markt op grond van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) genomen besluit op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.
 
 ##### Artikel 12.7
 
-Van een besluit als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2020-12-21&g=2020-12-21) wordt mededeling gedaan in de Staatscourant.
+Van een besluit als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.2&z=2021-07-01&g=2021-07-01) wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 12.8
 
 1. De Autoriteit Consument en Markt overlegt met de desbetreffende nationale regelgevende instantie aan wie de bevoegdheid tot het beslechten van geschillen is opgedragen, over de beslechting van een geschil dat landsgrensoverschrijdende aspecten heeft en dat overeenkomstig deze paragraaf aan de Autoriteit Consument en Markt is voorgelegd, dan wel aan de desbetreffende nationale regelgevende instantie is voorgelegd en door die instantie aan de Autoriteit Consument en Markt is voorgelegd.
 
-2. In afwijking van [artikel 12.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2020-12-21&g=2020-12-21), beslist de Autoriteit Consument en Markt op een aanvraag als bedoeld in het eerste lid, binnen 24 weken na ontvangst van die aanvraag.
+2. In afwijking van [artikel 12.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2021-07-01&g=2021-07-01), beslist de Autoriteit Consument en Markt op een aanvraag als bedoeld in het eerste lid, binnen 24 weken na ontvangst van die aanvraag.
 
 3. Indien de Autoriteit Consument en Markt of de desbetreffende nationale regelgevende instantie, bedoeld in het eerste lid, advies van BEREC heeft gevraagd over de beslechting van een geschil als bedoeld in het eerste lid, neemt de Autoriteit Consument en Markt het besluit niet dan nadat BEREC het advies heeft gegeven. In afwachting van het advies van BEREC schorst de Autoriteit Consument en Markt de termijn van 24 weken, bedoeld in het tweede lid, op.
 
@@ -3009,23 +3007,23 @@ Van een besluit als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 12.9
 
-1. Indien tussen een consument en een aanbieder of een onderneming die openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanbiedt een geschil is gerezen inzake de schending door die aanbieder of onderneming van bij of krachtens deze wet gestelde regels ter uitvoering van [richtlijn nr. 2002/22/EG](32002L0022), niet zijnde een geschil als bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2020-12-21&g=2020-12-21), of inzake de schending door die aanbieder of onderneming van de roamingverordening kan de Autoriteit Consument en Markt op aanvraag van de desbetreffende consument, het geschil beslechten.
+1. Indien tussen een consument en een aanbieder of een onderneming die openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanbiedt een geschil is gerezen inzake de schending door die aanbieder of onderneming van bij of krachtens deze wet gestelde regels ter uitvoering van [richtlijn nr. 2002/22/EG](32002L0022), niet zijnde een geschil als bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2021-07-01&g=2021-07-01), of inzake de schending door die aanbieder of onderneming van de roamingverordening kan de Autoriteit Consument en Markt op aanvraag van de desbetreffende consument, het geschil beslechten.
 
-2. Indien een consument door de Autoriteit Consument en Markt in het gelijk wordt gesteld en hij voor het beslechten van een geschil bij of krachtens [artikel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=16&artikel=16.1&z=2020-12-21&g=2020-12-21) een vergoeding aan de Autoriteit Consument en Markt verschuldigd is, kan de Autoriteit Consument en Markt bepalen dat die vergoeding door een aanbieder of onderneming als bedoeld in het eerste lid wordt vergoed.
+2. Indien een consument door de Autoriteit Consument en Markt in het gelijk wordt gesteld en hij voor het beslechten van een geschil bij of krachtens [artikel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=16&artikel=16.1&z=2021-07-01&g=2021-07-01) een vergoeding aan de Autoriteit Consument en Markt verschuldigd is, kan de Autoriteit Consument en Markt bepalen dat die vergoeding door een aanbieder of onderneming als bedoeld in het eerste lid wordt vergoed.
 
 3. Een bij een geschil betrokken aanbieder of onderneming volgt de door de Autoriteit Consument en Markt op grond van het eerste lid gegeven voorschriften op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.
 
-4. De [artikelen 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.3&z=2020-12-21&g=2020-12-21), [12.5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2020-12-21&g=2020-12-21), [12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.7&z=2020-12-21&g=2020-12-21) en [12.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.8&z=2020-12-21&g=2020-12-21) zijn van overeenkomstige toepassing.
+4. De [artikelen 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.3&z=2021-07-01&g=2021-07-01), [12.5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2021-07-01&g=2021-07-01), [12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.7&z=2021-07-01&g=2021-07-01) en [12.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.8&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 #### § 8.1. Verplichtingen in verband met het uitzenden van programma's
 
 ##### Artikel 12.10
 
-1. Indien gebruikers als bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.21&z=2020-12-21&g=2020-12-21) aan wie frequentieruimte is toegewezen als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21), dan wel aan wie vergunning is verleend voor het gebruik van frequentieruimte, geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen toegewezen frequentieruimte gezamenlijk in gebruik zal worden genomen, kan Onze Minister op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 3.21.
+1. Indien gebruikers als bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.21&z=2021-07-01&g=2021-07-01) aan wie frequentieruimte is toegewezen als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01), dan wel aan wie vergunning is verleend voor het gebruik van frequentieruimte, geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen toegewezen frequentieruimte gezamenlijk in gebruik zal worden genomen, kan Onze Minister op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 3.21.
 
 2. Op aanvraag van de gezamenlijke gebruikers kan Onze Minister een besluit als bedoeld in het eerste lid intrekken.
 
-3. De [artikelen 12.5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2020-12-21&g=2020-12-21), [12.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.6&z=2020-12-21&g=2020-12-21) en [12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.7&z=2020-12-21&g=2020-12-21) zijn van overeenkomstige toepassing.
+3. De [artikelen 12.5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.5&z=2021-07-01&g=2021-07-01), [12.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.6&z=2021-07-01&g=2021-07-01) en [12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&paragraaf=12.2&sub-paragraaf=12.2.1&artikel=12.7&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 13. Bevoegd aftappen
 
@@ -3033,7 +3031,7 @@ Van een besluit als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **gegevens:** de verkeers- en locatiegegevens, bedoeld in [artikel 11.1, onderdeel b respectievelijk onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.1&z=2020-12-21&g=2020-12-21), alsmede de daarmee verband houdende gegevens die nodig zijn om de abonnee of gebruiker te identificeren;
+- a. **gegevens:** de verkeers- en locatiegegevens, bedoeld in [artikel 11.1, onderdeel b respectievelijk onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.1&z=2021-07-01&g=2021-07-01), alsmede de daarmee verband houdende gegevens die nodig zijn om de abonnee of gebruiker te identificeren;
 
 - b. **oproeppoging zonder resultaat:** een communicatie waarbij een telefoonoproep wel tot een verbinding heeft geleid, maar onbeantwoord is gebleven of via het netwerkbeheer is beantwoord.
 
@@ -3055,13 +3053,13 @@ Van een besluit als bedoeld in [artikel 12.2](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 15.2a
 
-1. Onze Minister is bevoegd een aanbieder van openbare elektronische communicatienetwerken of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), bedoelde bepalingen, wanneer de krachtens [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2020-12-21&g=2020-12-21) of [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2020-12-21&g=2020-12-21) opgelegde maatregelen tot naleving van de bedoelde verplichtingen hebben gefaald, voor een door Onze Minister te bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken of -diensten aan te bieden.
+1. Onze Minister is bevoegd een aanbieder van openbare elektronische communicatienetwerken of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), bedoelde bepalingen, wanneer de krachtens [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2021-07-01&g=2021-07-01) of [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2021-07-01&g=2021-07-01) opgelegde maatregelen tot naleving van de bedoelde verplichtingen hebben gefaald, voor een door Onze Minister te bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken of -diensten aan te bieden.
 
-2. De Autoriteit Consument en Markt is bevoegd een aanbieder van openbare elektronische communicatienetwerken of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2020-12-21&g=2020-12-21), bedoelde bepalingen, wanneer de krachtens [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2020-12-21&g=2020-12-21) of [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2020-12-21&g=2020-12-21) opgelegde maatregelen tot naleving van de bedoelde verplichtingen hebben gefaald, voor een door de Autoriteit Consument en Markt te bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken of -diensten aan te bieden.
+2. De Autoriteit Consument en Markt is bevoegd een aanbieder van openbare elektronische communicatienetwerken of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2021-07-01&g=2021-07-01), bedoelde bepalingen, wanneer de krachtens [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2021-07-01&g=2021-07-01) of [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2021-07-01&g=2021-07-01) opgelegde maatregelen tot naleving van de bedoelde verplichtingen hebben gefaald, voor een door de Autoriteit Consument en Markt te bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken of -diensten aan te bieden.
 
 3. Een besluit als bedoeld in het eerste of tweede lid, inhoudende een verbod tot het aanbieden van elektronische communicatienetwerken of -diensten voldoet in elk geval aan de volgende eisen:
 
-- a. het verbod is niet in strijd met een of meer doelstellingen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2020-12-21&g=2020-12-21);
+- a. het verbod is niet in strijd met een of meer doelstellingen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.3&z=2021-07-01&g=2021-07-01);
 
 - b. het verbod leidt niet tot het niet na kunnen komen door de onderneming van een bij of krachtens de wet opgelegde leveringsplicht;
 
@@ -3241,7 +3239,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20.4a
 
-1. Uitrusting die voldoet aan de bij of krachtens de Telecommunicatiewet vastgestelde regels met betrekking tot de elektromagnetische compatibiliteit die van kracht waren op 19 juli 2007, mag in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2020-12-21&g=2020-12-21) van de Telecommunicatiewet, tot 20 juli 2009 in de handel worden gebracht of worden verhandeld.
+1. Uitrusting die voldoet aan de bij of krachtens de Telecommunicatiewet vastgestelde regels met betrekking tot de elektromagnetische compatibiliteit die van kracht waren op 19 juli 2007, mag in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2021-07-01&g=2021-07-01) van de Telecommunicatiewet, tot 20 juli 2009 in de handel worden gebracht of worden verhandeld.
 
 2. Het bepaalde in het eerste lid is slechts van toepassing voorzover de daar bedoelde uitrusting voldoet aan bij of krachtens de Telecommunicatiewet gestelde regels die niet zien op elektromagnetische compatibiliteit.
 
@@ -3379,21 +3377,21 @@ Vervallen
 
 ##### Artikel 5.13
 
-1. De kantonrechter van de rechtbank van het arrondissement, waarin de onroerende zaak waarin, waarop of waarboven de kabels ten dienste van een openbaar elektronisch communicatienetwerk worden aangelegd, instandgehouden of opgeruimd, zich geheel of grotendeels bevindt, is, ongeacht de hoogte van de vordering, bevoegd geschillen inzake een eis tot schadevergoeding op grond van dit hoofdstuk te beslissen, alsmede geschillen inzake de hoogte van de kosten van het nemen van maatregelen, bedoeld in de [artikelen 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2020-12-21&g=2020-12-21) en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2020-12-21&g=2020-12-21).
+1. De kantonrechter van de rechtbank van het arrondissement, waarin de onroerende zaak waarin, waarop of waarboven de kabels ten dienste van een openbaar elektronisch communicatienetwerk worden aangelegd, instandgehouden of opgeruimd, zich geheel of grotendeels bevindt, is, ongeacht de hoogte van de vordering, bevoegd geschillen inzake een eis tot schadevergoeding op grond van dit hoofdstuk te beslissen, alsmede geschillen inzake de hoogte van de kosten van het nemen van maatregelen, bedoeld in de [artikelen 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2021-07-01&g=2021-07-01) en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2021-07-01&g=2021-07-01).
 
 2. Van de uitspraak van de kantonrechter is hoger beroep toegelaten.
 
 3. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) zijn van toepassing op de geschillen, bedoeld in het eerste lid, voor zover daarvan in de voorgaande leden van dit artikel niet is afgeweken.
 
-4. Ook voordat omtrent de schadevergoeding of de hoogte van de kosten overeenstemming verkregen of uitspraak gedaan is, kan tot uitvoering van de werkzaamheden, bedoeld in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2020-12-21&g=2020-12-21), [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2020-12-21&g=2020-12-21), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2020-12-21&g=2020-12-21) en [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2020-12-21&g=2020-12-21), worden overgegaan.
+4. Ook voordat omtrent de schadevergoeding of de hoogte van de kosten overeenstemming verkregen of uitspraak gedaan is, kan tot uitvoering van de werkzaamheden, bedoeld in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.1&artikel=5.2&z=2021-07-01&g=2021-07-01), [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2021-07-01&g=2021-07-01), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2021-07-01&g=2021-07-01) en [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2021-07-01&g=2021-07-01), worden overgegaan.
 
 ##### Artikel 5.14
 
-1. Indien een gemeente openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanbiedt, of een belang of zeggenschap heeft in een onderneming die dit doet, zijn de personen die besluiten voorbereiden als bedoeld in [artikel 5.4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), daarbij niet betrokken.
+1. Indien een gemeente openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aanbiedt, of een belang of zeggenschap heeft in een onderneming die dit doet, zijn de personen die besluiten voorbereiden als bedoeld in [artikel 5.4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), daarbij niet betrokken.
 
 2. Het voornemen om direct of indirect betrokken te zijn bij het aanbieden van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten wordt bekend gemaakt. [Artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42) is van toepassing. Bij de bekendmaking van het voornemen wordt de redengeving ervan vermeld. Tevens wordt bekendgemaakt waar en wanneer nadere informatie over het voornemen van de te nemen beslissing kan worden verkregen.
 
-3. Bij de toepassing van [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2020-12-21&g=2020-12-21), bevoordelen burgemeester en wethouders geen ondernemingen die openbare elektronische communicatienetwerken aanbieden waarin de gemeente direct of indirect bij betrokken is.
+3. Bij de toepassing van [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.4&z=2021-07-01&g=2021-07-01), bevoordelen burgemeester en wethouders geen ondernemingen die openbare elektronische communicatienetwerken aanbieden waarin de gemeente direct of indirect bij betrokken is.
 
 4. Een gemeente die direct of indirect betrokken is bij het aanbieden van een openbaar elektronisch communicatienetwerk bevordert open en non-discriminatoire toegang tot dit netwerk.
 
@@ -3407,7 +3405,7 @@ Voor de toepassing van dit hoofdstuk wordt gelijkgesteld met een openbaar elektr
 
 ##### Artikel 5.17
 
-De [artikelen 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=17), [20, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20), [36, vierde lid, Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=36) en [78, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=78), en [155 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155) zijn van overeenkomstige toepassing op ondergrondse ondersteuningswerken en beschermingswerken als bedoeld in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2020-12-21&g=2020-12-21).
+De [artikelen 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=17), [20, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20), [36, vierde lid, Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=36) en [78, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=78), en [155 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155) zijn van overeenkomstige toepassing op ondergrondse ondersteuningswerken en beschermingswerken als bedoeld in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&paragraaf=5.3&artikel=5.15&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
 
@@ -3427,29 +3425,29 @@ De [artikelen 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](ht
 
 ##### Artikel 6a.21
 
-1. De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht relevante markten voor het aanbieden van programmadiensten waarvan de kenmerken zodanig zijn dat het opleggen van de in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2020-12-21&g=2020-12-21), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2020-12-21&g=2020-12-21) bedoelde verplichtingen passend kan zijn.
+1. De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht relevante markten voor het aanbieden van programmadiensten waarvan de kenmerken zodanig zijn dat het opleggen van de in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2021-07-01&g=2021-07-01), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2021-07-01&g=2021-07-01) bedoelde verplichtingen passend kan zijn.
 
 2. De Autoriteit Consument en Markt onderzoekt de overeenkomstig het eerste lid bedoelde markten zo spoedig mogelijk. Het onderzoek is er in ieder geval op gericht om vast te stellen:
 
 - a. of de desbetreffende markt al dan niet daadwerkelijk concurrerend is en of hierop ondernemingen die programmadiensten aanbieden actief zijn die beschikken over een aanmerkelijke marktmacht, en
 
-- b. welke verplichtingen als bedoeld in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2020-12-21&g=2020-12-21), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2020-12-21&g=2020-12-21) passend zijn voor de onder a bedoelde ondernemingen.
+- b. welke verplichtingen als bedoeld in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2021-07-01&g=2021-07-01), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2021-07-01&g=2021-07-01) passend zijn voor de onder a bedoelde ondernemingen.
 
 3. Indien uit een onderzoek, bedoeld in tweede lid, blijkt dat een relevante markt niet daadwerkelijk concurrerend is, stelt de Autoriteit Consument en Markt vast welke ondernemingen die programmadiensten aanbieden, beschikken over een aanmerkelijke marktmacht, en:
 
-- a. legt zij ieder van hen, voor zover passend, verplichtingen als bedoeld in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2020-12-21&g=2020-12-21), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2020-12-21&g=2020-12-21) op;
+- a. legt zij ieder van hen, voor zover passend, verplichtingen als bedoeld in de [artikelen 6a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), [6a.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), [6a.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2021-07-01&g=2021-07-01), en [6a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.22&z=2021-07-01&g=2021-07-01) op;
 
 - b. houdt zij eerder opgelegde verplichtingen, voor zover zij betrekking hebben op deze markt, in stand indien zij nog steeds passend zijn, of
 
 - c. trekt zij eerder opgelegde verplichtingen, voor zover zij betrekking hebben op deze markt, in, indien zij niet langer passend zijn.
 
-4. Voor de toepassing van dit artikel wordt onder «eindgebruiker», bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), verstaan: een natuurlijk persoon of rechtspersoon die gebruik maakt of verzoekt om een programmadienst.
+4. Voor de toepassing van dit artikel wordt onder «eindgebruiker», bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), verstaan: een natuurlijk persoon of rechtspersoon die gebruik maakt of verzoekt om een programmadienst.
 
-5. De [artikelen 6a.1, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2020-12-21&g=2020-12-21), [6a.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), [6a.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), [6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4&z=2020-12-21&g=2020-12-21), [6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.5&z=2020-12-21&g=2020-12-21), [6a.13, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2020-12-21&g=2020-12-21), [6a.14, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2020-12-21&g=2020-12-21), [6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2020-12-21&g=2020-12-21), [6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.3&z=2020-12-21&g=2020-12-21) en [6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.6&z=2020-12-21&g=2020-12-21) zijn van overeenkomstige toepassing.
+5. De [artikelen 6a.1, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.1&z=2021-07-01&g=2021-07-01), [6a.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), [6a.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), [6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.4&z=2021-07-01&g=2021-07-01), [6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.5&z=2021-07-01&g=2021-07-01), [6a.13, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.13&z=2021-07-01&g=2021-07-01), [6a.14, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.14&z=2021-07-01&g=2021-07-01), [6b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.1&z=2021-07-01&g=2021-07-01), [6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.3&z=2021-07-01&g=2021-07-01) en [6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6b&artikel=6b.6&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 6a.22
 
-Bij algemene maatregel van bestuur kunnen andere verplichtingen dan de verplichtingen, bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), worden aangewezen die de Autoriteit Consument en Markt op grond van [artikel 6a.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.21&z=2020-12-21&g=2020-12-21), kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij het aanbieden van programmadiensten.
+Bij algemene maatregel van bestuur kunnen andere verplichtingen dan de verplichtingen, bedoeld in de [artikelen 6a.12 tot en met 6a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), worden aangewezen die de Autoriteit Consument en Markt op grond van [artikel 6a.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.7&artikel=6a.21&z=2021-07-01&g=2021-07-01), kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij het aanbieden van programmadiensten.
 
 ### Hoofdstuk 6b. Consultatie
 
@@ -3591,7 +3589,7 @@ In de gevallen waarin samenwerking tussen nummerhouders noodzakelijk is voor het
 
 ##### Artikel 20.15a
 
-1. Dit artikel is van toepassing op aanvragen, samenwerkingsprotocollen, archiefbescheiden en registergegevens, die tot onderwerp hebben certificatiedienstverleners of gekwalificeerde certificaten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2020-12-21&g=2020-12-21) van de Telecommunicatiewet, zoals die wet luidde direct voorafgaand aan de inwerkingtreding van [artikel I van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht, alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I) (Stb. 2017, 13).
+1. Dit artikel is van toepassing op aanvragen, samenwerkingsprotocollen, archiefbescheiden en registergegevens, die tot onderwerp hebben certificatiedienstverleners of gekwalificeerde certificaten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2021-07-01&g=2021-07-01) van de Telecommunicatiewet, zoals die wet luidde direct voorafgaand aan de inwerkingtreding van [artikel I van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht, alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I) (Stb. 2017, 13).
 
 2. Aanvragen ingediend bij de Autoriteit Consument en Markt, waarop nog geen besluit is genomen op het tijdstip van inwerkingtreding van [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), aangehaald in het eerste lid, worden vanaf het tijdstip van inwerkingtreding aangemerkt als aanvragen, ingediend bij Onze Minister.
 
@@ -3599,7 +3597,7 @@ In de gevallen waarin samenwerking tussen nummerhouders noodzakelijk is voor het
 
 4. Archiefbescheiden van de Autoriteit Consument en Markt en aanvragen als bedoeld in het tweede lid, worden overgedragen aan Onze Minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-5. Gegevens in het register, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2020-12-21&g=2020-12-21), van de Telecommunicatiewet, zoals die luidde voorafgaand aan de inwerkingtreding van [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), aangehaald in het eerste lid, worden overgedragen aan Onze Minister.
+5. Gegevens in het register, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2021-07-01&g=2021-07-01), van de Telecommunicatiewet, zoals die luidde voorafgaand aan de inwerkingtreding van [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), aangehaald in het eerste lid, worden overgedragen aan Onze Minister.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -3639,7 +3637,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15.17
 
-In afwijking van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) worden voorafgaand aan de beslissing tot toepassing van bestuursdwang waarbij uitrusting uit de handel wordt genomen die niet voldoet aan de bij of krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2020-12-21&g=2020-12-21) gestelde eisen, belanghebbenden in de gelegenheid gesteld hun zienswijzen naar voren te brengen.
+In afwijking van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) worden voorafgaand aan de beslissing tot toepassing van bestuursdwang waarbij uitrusting uit de handel wordt genomen die niet voldoet aan de bij of krachtens [artikel 10.9, onderdeel a, b, c, e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.9&z=2021-07-01&g=2021-07-01) gestelde eisen, belanghebbenden in de gelegenheid gesteld hun zienswijzen naar voren te brengen.
 
 ### Hoofdstuk 16. Vergoedingen
 
@@ -3655,7 +3653,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7.3a
 
-1. De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten een aanwijzing geven de betaling die gerelateerd is aan het gebruik van bij ministeriële regeling aan te wijzen categorieën van nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet voldoet aan het gestelde bij of krachtens deze wet of een gedraging verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21).
+1. De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten een aanwijzing geven de betaling die gerelateerd is aan het gebruik van bij ministeriële regeling aan te wijzen categorieën van nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet voldoet aan het gestelde bij of krachtens deze wet of een gedraging verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01).
 
 2. De aanbieder van een openbare elektronische communicatiedienst die een aanwijzing, bedoeld in het eerste lid, van de Autoriteit Consument en Markt heeft ontvangen, schort de betaling onverwijld op.
 
@@ -3665,7 +3663,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7.3b
 
-1. De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten een aanwijzing geven de aankiesbaarheid van een nummer uit bij ministeriële regeling aan te wijzen categorieën van nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet voldoet aan het gestelde bij of krachtens deze wet of een gedraging verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21).
+1. De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten een aanwijzing geven de aankiesbaarheid van een nummer uit bij ministeriële regeling aan te wijzen categorieën van nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet voldoet aan het gestelde bij of krachtens deze wet of een gedraging verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01).
 
 2. De aanbieder van een openbare elektronische communicatiedienst die een aanwijzing, bedoeld in het eerste lid, van de Autoriteit Consument en Markt heeft ontvangen, schort de aankiesbaarheid onverwijld op.
 
@@ -3675,7 +3673,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7.3c
 
-1. Indien de Autoriteit Consument en Markt heeft vastgesteld dat de nummergebruiker met betrekking tot een nummer gedurende een bepaalde periode niet heeft voldaan aan het gestelde bij of krachtens deze wet of een gedraging heeft verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21), kan de Autoriteit Consument en Markt hiervan mededeling doen in de Staatscourant.
+1. Indien de Autoriteit Consument en Markt heeft vastgesteld dat de nummergebruiker met betrekking tot een nummer gedurende een bepaalde periode niet heeft voldaan aan het gestelde bij of krachtens deze wet of een gedraging heeft verricht als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01), kan de Autoriteit Consument en Markt hiervan mededeling doen in de Staatscourant.
 
 2. De aanbieder van een openbare elektronische communicatiedienst verlangt geen betaling van consumenten voor oproepen naar nummers indien:
 
@@ -3881,7 +3879,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13.9
 
-Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de wijziging van de [artikelen 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21) en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2020-12-21&g=2020-12-21) in de praktijk, voor zover die wijzigingen betrekking hebben op de implementatie van Richtlijn nr 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie.
+Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de wijziging van de [artikelen 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01) en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2021-07-01&g=2021-07-01) in de praktijk, voor zover die wijzigingen betrekking hebben op de implementatie van Richtlijn nr 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie.
 
 ##### Artikel 13.10
 
@@ -4003,7 +4001,7 @@ Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode a
 
 ##### Artikel 6a.4a
 
-1. Indien naar het oordeel van de Autoriteit Consument en Markt na het opleggen van een verplichting als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21), voor zover deze passend zijn, die verplichtingen ontoereikend zijn gebleken om daadwerkelijke en duurzame op infrastructuur gegronde concurrentie te verwezenlijken op een relevante markt onderscheidenlijk een transnationale markt, kan de Autoriteit Consument en Markt die onderneming de verplichting opleggen om de activiteiten die verband houden met het aanbieden van door de Autoriteit Consument en Markt te bepalen vormen van toegang in een zelfstandig opererende bedrijfseenheid te plaatsen en deze activiteiten te leveren aan alle ondernemingen onder dezelfde voorwaarden en prijzen en door middel van dezelfde systemen en processen.
+1. Indien naar het oordeel van de Autoriteit Consument en Markt na het opleggen van een verplichting als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01), voor zover deze passend zijn, die verplichtingen ontoereikend zijn gebleken om daadwerkelijke en duurzame op infrastructuur gegronde concurrentie te verwezenlijken op een relevante markt onderscheidenlijk een transnationale markt, kan de Autoriteit Consument en Markt die onderneming de verplichting opleggen om de activiteiten die verband houden met het aanbieden van door de Autoriteit Consument en Markt te bepalen vormen van toegang in een zelfstandig opererende bedrijfseenheid te plaatsen en deze activiteiten te leveren aan alle ondernemingen onder dezelfde voorwaarden en prijzen en door middel van dezelfde systemen en processen.
 
 2. De Autoriteit Consument en Markt gaat in het besluit, bedoeld in het eerste lid, in ieder geval in op de volgende elementen:
 
@@ -4033,25 +4031,25 @@ Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode a
 
 - d. een analyse van de redenen waarom deze verplichting het efficiëntste middel zou zijn om de geïdentificeerde mededingingsproblematiek of markttekortkomingen op te lossen.
 
-5. De Autoriteit Consument en Markt kan de verplichting tot functionele scheiding pas opleggen nadat de Europese Commissie ten aanzien van het ontwerpbesluit, bedoeld in het eerste lid, een besluit heeft genomen dat de Autoriteit Consument en Markt toestaat een verplichting tot functionele scheiding op te leggen. De Autoriteit Consument en Markt stelt in dit besluit tevens vast of ingevolge de in het eerste lid bedoelde verplichting op de betrokken relevante markt tevens verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21), op grond van:
+5. De Autoriteit Consument en Markt kan de verplichting tot functionele scheiding pas opleggen nadat de Europese Commissie ten aanzien van het ontwerpbesluit, bedoeld in het eerste lid, een besluit heeft genomen dat de Autoriteit Consument en Markt toestaat een verplichting tot functionele scheiding op te leggen. De Autoriteit Consument en Markt stelt in dit besluit tevens vast of ingevolge de in het eerste lid bedoelde verplichting op de betrokken relevante markt tevens verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01), op grond van:
 
-- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), worden opgelegd,
+- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), worden opgelegd,
 
-- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), in stand gehouden worden, of
+- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), in stand gehouden worden, of
 
-- c. [de artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), ingetrokken worden.
+- c. [de artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), ingetrokken worden.
 
-6. De Autoriteit Consument en Markt stelt voorts vast of ingevolge het in het eerste lid bedoelde besluit tevens op aan het toegangsnetwerk verbonden markten verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) en [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21), op grond van:
+6. De Autoriteit Consument en Markt stelt voorts vast of ingevolge het in het eerste lid bedoelde besluit tevens op aan het toegangsnetwerk verbonden markten verplichtingen, bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) en [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01), op grond van:
 
-- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), worden opgelegd,
+- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), worden opgelegd,
 
-- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), in stand gehouden worden, of
+- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), in stand gehouden worden, of
 
-- c. [de artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), ingetrokken worden.
+- c. [de artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), ingetrokken worden.
 
 ##### Artikel 6a.4b
 
-1. Een onderneming waarvan de Autoriteit Consument en Markt overeenkomstig [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht, informeert de Autoriteit Consument en Markt over de beslissing van het bestuur van de onderneming om de activiteiten die verband houden met het aanbieden van vormen van toegang op groothandelsniveau:
+1. Een onderneming waarvan de Autoriteit Consument en Markt overeenkomstig [artikel 6a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht, informeert de Autoriteit Consument en Markt over de beslissing van het bestuur van de onderneming om de activiteiten die verband houden met het aanbieden van vormen van toegang op groothandelsniveau:
 
 - a. geheel of grotendeels over te dragen aan een onafhankelijke juridische eenheid met een andere eigenaar, of
 
@@ -4059,23 +4057,23 @@ Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode a
 
 Hierbij overlegt de onderneming de beslissing van het bestuur, alsmede alle informatie die de Autoriteit Consument en Markt nodig heeft voor het besluit, bedoeld in het tweede lid.
 
-2. Zo spoedig mogelijk, doch uiterlijk binnen twee jaar na ontvangst van een beslissing van het bestuur als bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt in een ontwerpbesluit vast of de verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:
+2. Zo spoedig mogelijk, doch uiterlijk binnen twee jaar na ontvangst van een beslissing van het bestuur als bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt in een ontwerpbesluit vast of de verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:
 
-- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), worden opgelegd,
+- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), worden opgelegd,
 
-- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), in stand gehouden worden, of
+- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), in stand gehouden worden, of
 
-- c. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), ingetrokken worden.
+- c. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), ingetrokken worden.
 
 3. De onderneming die de Autoriteit Consument en Markt heeft geïnformeerd over een beslissing, bedoeld in het eerste lid, informeert de Autoriteit Consument en Markt tevens zo spoedig mogelijk over wijzigingen van die beslissing en over het tijdstip waarop de beslissing is uitgevoerd. Voorts verstrekt de onderneming desgevraagd alle informatie die de Autoriteit Consument en Markt nodig heeft voor het nemen van het besluit, bedoeld in het tweede lid.
 
-4. Zo spoedig mogelijk, doch uiterlijk binnen vier weken na vaststelling van het ontwerpbesluit als bedoeld in het tweede lid, beslist de Autoriteit Consument en Markt of de verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2020-12-21&g=2020-12-21) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2020-12-21&g=2020-12-21) op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:
+4. Zo spoedig mogelijk, doch uiterlijk binnen vier weken na vaststelling van het ontwerpbesluit als bedoeld in het tweede lid, beslist de Autoriteit Consument en Markt of de verplichtingen als bedoeld in de [artikelen 6a.6 tot en met 6a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.2&artikel=6a.6&z=2021-07-01&g=2021-07-01) of [6a.12 tot en met 6a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.3&artikel=6a.12&z=2021-07-01&g=2021-07-01) op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:
 
-- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), worden opgelegd
+- a. [artikel 6a.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), worden opgelegd
 
-- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), in stand gehouden worden, of
+- b. [artikel 6a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), in stand gehouden worden, of
 
-- c. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2020-12-21&g=2020-12-21), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2020-12-21&g=2020-12-21), ingetrokken worden.
+- c. de [artikelen 6a.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.2&z=2021-07-01&g=2021-07-01), of [6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a&paragraaf=6a.1&artikel=6a.3&z=2021-07-01&g=2021-07-01), ingetrokken worden.
 
 5. Indien de onderneming voor het einde van de in het vierde lid genoemde termijn geen uitvoering heeft gegeven aan de beslissing van het bestuur als bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt het besluit als bedoeld in het vierde lid eerst vast uiterlijk binnen vier weken nadat de onderneming uitvoering heeft gegeven aan die beslissing van het bestuur.
 
@@ -4091,7 +4089,7 @@ Vervallen
 
 ##### Artikel 7.3d
 
-1. In aanvulling op de [artikelen 7.3a tot en met 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3a&z=2020-12-21&g=2020-12-21) kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld voor aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten inzake het blokkeren van de toegang tot een nummer of dienst en het opschorten van de aan dat nummer of die dienst gerelateerde betaling indien niet voldaan is aan het gestelde bij of krachtens deze wet of een gedraging als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21) verricht is.
+1. In aanvulling op de [artikelen 7.3a tot en met 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.3a&z=2021-07-01&g=2021-07-01) kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld voor aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten inzake het blokkeren van de toegang tot een nummer of dienst en het opschorten van de aan dat nummer of die dienst gerelateerde betaling indien niet voldaan is aan het gestelde bij of krachtens deze wet of een gedraging als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01) verricht is.
 
 2. Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.
 
@@ -4135,7 +4133,7 @@ Vervallen
 
 ##### Artikel 7.7a
 
-1. Onverminderd [artikel 11.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2020-12-21&g=2020-12-21), kunnen bij ministeriële regeling regels worden gesteld ter uitvoering van bijlage VI van richtlijn (EU) 2018/1972/EU. Deze regels hebben betrekking op het door aanbieders van openbare elektronische communicatienetwerken of openbare telefoondiensten aan hun eindgebruikers beschikbaar stellen van faciliteiten als bedoeld in de in de eerste volzin bedoelde bijlage VI.
+1. Onverminderd [artikel 11.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2021-07-01&g=2021-07-01), kunnen bij ministeriële regeling regels worden gesteld ter uitvoering van bijlage VI van richtlijn (EU) 2018/1972/EU. Deze regels hebben betrekking op het door aanbieders van openbare elektronische communicatienetwerken of openbare telefoondiensten aan hun eindgebruikers beschikbaar stellen van faciliteiten als bedoeld in de in de eerste volzin bedoelde bijlage VI.
 
 2. Een krachtens het eerste lid opgelegde verplichting die strekt tot uitvoering van bijlage VI, deel B, van richtlijn (EU) 2018/1972, geldt niet indien deze technisch niet uitvoerbaar dan wel economisch niet haalbaar is.
 
@@ -4143,13 +4141,13 @@ Vervallen
 
 ##### Artikel 9.5
 
-1. Indien ingevolge [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2020-12-21&g=2020-12-21) aan degene die is aangewezen als universeledienstverlener, een vergoeding wordt toegekend, is eenieder die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt, en die in het kalenderjaar voorafgaande aan het kalenderjaar waarop de te betalen vergoeding betrekking heeft, daaruit in Nederland een hogere omzet realiseert dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag, aan de Autoriteit Consument en Markt een bijdrage verschuldigd.
+1. Indien ingevolge [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2021-07-01&g=2021-07-01) aan degene die is aangewezen als universeledienstverlener, een vergoeding wordt toegekend, is eenieder die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt, en die in het kalenderjaar voorafgaande aan het kalenderjaar waarop de te betalen vergoeding betrekking heeft, daaruit in Nederland een hogere omzet realiseert dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag, aan de Autoriteit Consument en Markt een bijdrage verschuldigd.
 
 2. Bij algemene maatregel van bestuur wordt bepaald hoe de bijdrage, bedoeld in het eerste lid, wordt berekend en wanneer deze verschuldigd is.
 
 ##### Artikel 9.6
 
-Degene die op grond van een aanwijzing als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2020-12-21&g=2020-12-21), openbare elektronische communicatiediensten of voorzieningen verzorgt, draagt gedurende de looptijd van de aanwijzing niet een belangrijk deel of het geheel van zijn aansluitnetwerk over aan een afzonderlijke rechtspersoon met een andere eigenaar dan nadat daartoe toestemming van Onze Minister is verkregen. Onze Minister verleent toestemming tenzij hij verwacht dat een dergelijke overdracht een nadelige invloed heeft op de levering van de in [artikel 9.1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2020-12-21&g=2020-12-21), genoemde diensten. Onze Minister kan voorwaarden opleggen overeenkomstig artikel 6, tweede lid, van de Machtigingsrichtlijn.
+Degene die op grond van een aanwijzing als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2021-07-01&g=2021-07-01), openbare elektronische communicatiediensten of voorzieningen verzorgt, draagt gedurende de looptijd van de aanwijzing niet een belangrijk deel of het geheel van zijn aansluitnetwerk over aan een afzonderlijke rechtspersoon met een andere eigenaar dan nadat daartoe toestemming van Onze Minister is verkregen. Onze Minister verleent toestemming tenzij hij verwacht dat een dergelijke overdracht een nadelige invloed heeft op de levering van de in [artikel 9.1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2021-07-01&g=2021-07-01), genoemde diensten. Onze Minister kan voorwaarden opleggen overeenkomstig artikel 6, tweede lid, van de Machtigingsrichtlijn.
 
 #### § 10.1.1. Conformiteiteisen en wederzijdse erkenning van conformiteit
 
@@ -4183,7 +4181,7 @@ Degene die op grond van een aanwijzing als bedoeld in [artikel 9.2, eerste lid](
 
 ##### Artikel 11.3a
 
-1. De aanbieder van een openbare elektronische communicatiedienst stelt de Autoriteit persoonsgegevens onverwijld in kennis van een inbreuk op de beveiliging, bedoeld in [artikel 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.3&z=2020-12-21&g=2020-12-21), die nadelige gevolgen heeft voor de bescherming van persoonsgegevens die zijn verwerkt in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.
+1. De aanbieder van een openbare elektronische communicatiedienst stelt de Autoriteit persoonsgegevens onverwijld in kennis van een inbreuk op de beveiliging, bedoeld in [artikel 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.3&z=2021-07-01&g=2021-07-01), die nadelige gevolgen heeft voor de bescherming van persoonsgegevens die zijn verwerkt in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.
 
 2. De aanbieder, bedoeld in het eerste lid, stelt degene wiens persoonsgegevens het betreft onverwijld in kennis van een inbreuk in verband met persoonsgegevens indien de inbreuk waarschijnlijk ongunstige gevolgen zal hebben voor diens persoonlijke levenssfeer.
 
@@ -4285,33 +4283,33 @@ Andere bestuursorganen dan de Autoriteit Consument en Markt zijn bevoegd uit eig
 
 ##### Artikel 20.2a
 
-1. Vergunningen voor het gebruik van frequentieruimte die zijn verleend op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21) van deze wet en de daarop berustende bepalingen zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) dan wel vergunningen of machtigingen die daarmee op grond van [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2020-12-21&g=2020-12-21), onderscheidenlijk [20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.3&z=2020-12-21&g=2020-12-21) zijn gelijkgesteld, blijven van kracht voor de periode waarvoor zij zijn verleend.
+1. Vergunningen voor het gebruik van frequentieruimte die zijn verleend op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01) van deze wet en de daarop berustende bepalingen zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) dan wel vergunningen of machtigingen die daarmee op grond van [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2021-07-01&g=2021-07-01), onderscheidenlijk [20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.3&z=2021-07-01&g=2021-07-01) zijn gelijkgesteld, blijven van kracht voor de periode waarvoor zij zijn verleend.
 
-2. Het gebruik van frequentieruimte dat voor de daarin bedoelde taken was toegestaan op grond van [artikel 3.4, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2020-12-21&g=2020-12-21), van deze wet en de daarop berustende bepalingen, zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), blijft, onder de op grond van bovenbedoelde bepalingen aan het gebruik verbonden voorschriften en beperkingen, toegestaan tot het tijdstip waarop op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) opnieuw door Onze Minister frequentieruimte wordt toegewezen.
+2. Het gebruik van frequentieruimte dat voor de daarin bedoelde taken was toegestaan op grond van [artikel 3.4, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2021-07-01&g=2021-07-01), van deze wet en de daarop berustende bepalingen, zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), blijft, onder de op grond van bovenbedoelde bepalingen aan het gebruik verbonden voorschriften en beperkingen, toegestaan tot het tijdstip waarop op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) opnieuw door Onze Minister frequentieruimte wordt toegewezen.
 
 3. Artikel 3.3a van deze wet, en de daarop berustende bepalingen zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) blijven van toepassing ten aanzien van vergunningen die zijn verleend voor het tijdstip van inwerkingtreding van die wet. De eerste volzin is niet langer van toepassing ten aanzien van de daarin genoemde vergunningen indien de looptijd van die vergunningen wordt verlengd na het tijdstip van inwerkingtreding van genoemde wet.
 
-4. Het frequentieplan zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) blijft van kracht tot het tijdstip waarop een nieuw frequentieplan is vastgesteld op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2020-12-21&g=2020-12-21) zoals dat luidt na inwerkingtreding van die wet.
+4. Het frequentieplan zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) blijft van kracht tot het tijdstip waarop een nieuw frequentieplan is vastgesteld op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2021-07-01&g=2021-07-01) zoals dat luidt na inwerkingtreding van die wet.
 
 5. Op aanvragen om vergunningen, die zijn ingediend vóór het tijdstip van inwerkingtreding van artikel I, onderdeel A, van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), wordt beslist met toepassing van deze wet en de daarop berustende bepalingen zoals die luidden vóór het tijdstip van inwerkingtreding van genoemd artikel.
 
-6. In afwijking van het bepaalde in het vijfde lid, wordt op aanvragen om vergunningen die zijn ingediend in het kader van een procedure die is gestart met een keuze als bedoeld in [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2020-12-21&g=2020-12-21), van deze wet zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van artikel I, onderdeel A, van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), die is bekend gemaakt vóór het tijdstip van inwerkingtreding van genoemd artikel, beslist met toepassing van deze wet en de daarop berustende bepalingen zoals die luidden vóór dat tijdstip, ongeacht of die aanvragen zijn ingediend vóór of na dat tijdstip.
+6. In afwijking van het bepaalde in het vijfde lid, wordt op aanvragen om vergunningen die zijn ingediend in het kader van een procedure die is gestart met een keuze als bedoeld in [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2021-07-01&g=2021-07-01), van deze wet zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van artikel I, onderdeel A, van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), die is bekend gemaakt vóór het tijdstip van inwerkingtreding van genoemd artikel, beslist met toepassing van deze wet en de daarop berustende bepalingen zoals die luidden vóór dat tijdstip, ongeacht of die aanvragen zijn ingediend vóór of na dat tijdstip.
 
 7. Op een bezwaar of een beroep dat is gemaakt, onderscheidenlijk is ingesteld, tegen een besluit dat is genomen op grond van deze wet en de daarop berustende bepalingen zoals die luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdeel A, van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), blijven, ongeacht of dat bezwaar of dat beroep is gemaakt, onderscheidenlijk is ingesteld, vóór of na het tijdstip van inwerkingtreding van genoemd artikel, deze wet en de daarop berustende bepalingen van toepassing zoals die luidden vóór dat tijdstip.
 
 8. Na de inwerkingtreding van artikel I, onderdeel A, van de wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48), berust:
 
-- a. het [Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213) op de [artikelen 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2020-12-21&g=2020-12-21), en [13.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21), van deze de wet;
+- a. het [Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213) op de [artikelen 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2021-07-01&g=2021-07-01), en [13.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01), van deze de wet;
 
-- b. het [Besluit medegebruik omroepzendernetwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0015153) op [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.8&artikel=3.25&z=2020-12-21&g=2020-12-21), van deze wet;
+- b. het [Besluit medegebruik omroepzendernetwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0015153) op [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.8&artikel=3.25&z=2021-07-01&g=2021-07-01), van deze wet;
 
-- c. het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) op de [artikelen 126m, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) en [126ee van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) en [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2020-12-21&g=2020-12-21) van deze wet;
+- c. het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) op de [artikelen 126m, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) en [126ee van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) en [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2021-07-01&g=2021-07-01) van deze wet;
 
-- d. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) mede op [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2020-12-21&g=2020-12-21) van deze wet en op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=3), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=4), [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=5), en [10, eerste en tweede lid, van het Frequentiebesluit 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=10);
+- d. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) mede op [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2021-07-01&g=2021-07-01) van deze wet en op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=3), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=4), [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=5), en [10, eerste en tweede lid, van het Frequentiebesluit 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=10);
 
-- e. de [Vrijstellingsregeling afwijkend gebruik frequentieruimte IVD](https://wetten.overheid.nl/jci1.3:c:BWBR0018355) alsmede de [Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0019509) op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2020-12-21&g=2020-12-21) van deze wet;
+- e. de [Vrijstellingsregeling afwijkend gebruik frequentieruimte IVD](https://wetten.overheid.nl/jci1.3:c:BWBR0018355) alsmede de [Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0019509) op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2021-07-01&g=2021-07-01) van deze wet;
 
-- f. de [Regeling aanvraagprocedure en veiling gebruiksrechten frequentieruimte voor digitale omroep alsmede vaststelling van een maximum aan te verwerven digitale omroepfrequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0024730) mede op [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2020-12-21&g=2020-12-21) van deze wet.
+- f. de [Regeling aanvraagprocedure en veiling gebruiksrechten frequentieruimte voor digitale omroep alsmede vaststelling van een maximum aan te verwerven digitale omroepfrequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0024730) mede op [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2021-07-01&g=2021-07-01) van deze wet.
 
 ## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2013-01-01&g=2013-01-01) van de Telecommunicatiewet
 
@@ -4395,21 +4393,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. de eisen die aan een aanvrager worden gesteld om in aanmerking te komen voor een vergunning,
 
-- b. het door Onze Minister uitsluiten van een of meer aanbieders van elektronische communicatienetwerken of elektronische communicatiediensten van deelname of verdere deelname aan een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of indien zij reeds over de maximale hoeveelheid frequentieruimte beschikken die met toepassing van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2020-12-21&g=2020-12-21) is vastgesteld,
+- b. het door Onze Minister uitsluiten van een of meer aanbieders van elektronische communicatienetwerken of elektronische communicatiediensten van deelname of verdere deelname aan een van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of indien zij reeds over de maximale hoeveelheid frequentieruimte beschikken die met toepassing van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2021-07-01&g=2021-07-01) is vastgesteld,
 
-- c. de toepassing en uitvoering van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21),
+- c. de toepassing en uitvoering van de procedures, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01),
 
-- d. de criteria die worden toegepast bij een vergelijkende toets als bedoeld in [artikel 3.10, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21),
+- d. de criteria die worden toegepast bij een vergelijkende toets als bedoeld in [artikel 3.10, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01),
 
 - e. de beperkingen waaronder een vergunning kan worden verleend en de voorschriften die aan een vergunning kunnen worden verbonden.
 
-3. Indien een vergunning wordt verleend met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), wordt een voornemen om een vergunning onder beperkingen te verlenen en een voornemen om aan een vergunning voorschriften te verbinden, op passende wijze bekendgemaakt. Belanghebbenden, gebruikers en consumenten kunnen tot vier weken na bekendmaking van een voornemen hun zienswijze over het voornemen naar voren brengen.
+3. Indien een vergunning wordt verleend met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), wordt een voornemen om een vergunning onder beperkingen te verlenen en een voornemen om aan een vergunning voorschriften te verbinden, op passende wijze bekendgemaakt. Belanghebbenden, gebruikers en consumenten kunnen tot vier weken na bekendmaking van een voornemen hun zienswijze over het voornemen naar voren brengen.
 
 ##### Artikel 3.17
 
 1. Vergunningen worden verleend voor een bij die vergunning te bepalen termijn die gerelateerd is aan de betrokken dienstverlening, het met de vergunningverlening nagestreefde doel en die rekening houdt met een passende periode die nodig is voor de afschrijving van investeringen.
 
-2. Een vergunning die is verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), wordt na afloop van de in het eerste lid bedoelde termijn van rechtswege telkens voor een bij of krachtens algemene maatregel van bestuur te bepalen periode verlengd, tenzij:
+2. Een vergunning die is verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), wordt na afloop van de in het eerste lid bedoelde termijn van rechtswege telkens voor een bij of krachtens algemene maatregel van bestuur te bepalen periode verlengd, tenzij:
 
 - a. Onze Minister uiterlijk twee jaar voor het tijdstip waarop de periode waarvoor de vergunning is verleend, onderscheidenlijk is verlengd, is verstreken, besluit dat de vergunning niet wordt verlengd, of
 
@@ -4417,7 +4415,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking van het bepaalde in het tweede lid, onder b, kan Onze Minister een daar bedoelde vergunning verlengen met een door hem te bepalen termijn.
 
-4. Andere vergunningen dan die, welke zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), worden door Onze Minister slechts verlengd voor zover daartoe bij of krachtens algemene maatregel van bestuur regels zijn gesteld.
+4. Andere vergunningen dan die, welke zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), worden door Onze Minister slechts verlengd voor zover daartoe bij of krachtens algemene maatregel van bestuur regels zijn gesteld.
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het verlengen van vergunningen.
 
@@ -4431,7 +4429,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. reeds een vergunning voor het gebruik van de in de aanvraag gevraagde frequentieruimte is verleend, tenzij gedeeld gebruik van frequentieruimte mogelijk is,
 
-- d. deze is gevraagd voor het verspreiden van programma-aanbod ter uitvoering van de publieke mediaopdracht, bedoeld in [artikel 2.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.1), en de vergunning zal worden verleend op één van de wijzen als bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21),
+- d. deze is gevraagd voor het verspreiden van programma-aanbod ter uitvoering van de publieke mediaopdracht, bedoeld in [artikel 2.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.1), en de vergunning zal worden verleend op één van de wijzen als bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01),
 
 - e. feiten of omstandigheden er naar het oordeel van Onze Minister op duiden dat de veiligheid van de staat of de openbare orde door het verlenen van de vergunning in gevaar kan worden gebracht, of
 
@@ -4469,7 +4467,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - f. de instandhouding van de vergunning de daadwerkelijke mededinging op de relevante markt in aanzienlijke mate zou beperken,
 
-- g. de houder van de vergunning gedurende de periode, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2020-12-21&g=2020-12-21) meer frequentieruimte verwerft dan de maximale hoeveelheid die met toepassing van artikel 3.11 voor die periode is vastgesteld, of
+- g. de houder van de vergunning gedurende de periode, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.11&z=2021-07-01&g=2021-07-01) meer frequentieruimte verwerft dan de maximale hoeveelheid die met toepassing van artikel 3.11 voor die periode is vastgesteld, of
 
 - h. de vrees is gewettigd dat door het gewenste signaal van de gebruikte radioapparaten ontoelaatbare belemmeringen worden veroorzaakt in andere radioapparaten, ontvanginrichtingen of elektrische of elektronische inrichtingen.
 
@@ -4477,25 +4475,25 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3.19a
 
-1. Indien een van de gronden, bedoeld in [artikel 3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21), van toepassing is, kan Onze Minister in plaats van intrekken of wijzigen van een vergunning, de houder van een vergunning verplichten om die vergunning overeenkomstig de in het zevende lid, onderdeel a, bedoelde procedure binnen een bij ministeriële regeling te bepalen termijn geheel of gedeeltelijk over te dragen aan een natuurlijke of rechtspersoon die een toestemming heeft verkregen van Onze Minister. De houder van de vergunning deelt Onze Minister binnen zeven dagen na afloop van de in de eerste volzin bedoelde periode mede aan wie de vergunning is overgedragen.
+1. Indien een van de gronden, bedoeld in [artikel 3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01), van toepassing is, kan Onze Minister in plaats van intrekken of wijzigen van een vergunning, de houder van een vergunning verplichten om die vergunning overeenkomstig de in het zevende lid, onderdeel a, bedoelde procedure binnen een bij ministeriële regeling te bepalen termijn geheel of gedeeltelijk over te dragen aan een natuurlijke of rechtspersoon die een toestemming heeft verkregen van Onze Minister. De houder van de vergunning deelt Onze Minister binnen zeven dagen na afloop van de in de eerste volzin bedoelde periode mede aan wie de vergunning is overgedragen.
 
 2. Indien na afloop van de in het eerste lid, bedoelde periode overdracht van de vergunning uitblijft, neemt Onze Minister de in het zevende lid, onderdeel a, bedoelde procedure tot overdracht ter hand en draagt Onze Minister die vergunning geheel of gedeeltelijk over aan de natuurlijke of rechtspersoon die overeenkomstig die bedoelde procedure, de hoogste prijs of de minimumprijs heeft geboden voor die vergunning. In het geval meerdere natuurlijke of rechtspersonen de hoogste of de minimumprijs hebben geboden, wordt door middel van loting bepaald aan wie van die personen de vergunning wordt overgedragen.
 
 3. Aan de in het zevende lid, onderdeel a, bedoelde procedure kunnen uitsluitend natuurlijke of rechtspersonen deelnemen die op grond van het bepaalde op grond van het zevende lid, onderdeel b, een toestemming als bedoeld in het eerste lid, hebben verkregen.
 
-4. [Artikel 3.20, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2020-12-21&g=2020-12-21), zijn van overeenkomstige toepassing.
+4. [Artikel 3.20, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing.
 
 5. De houder van een vergunning aan wie Onze minister kenbaar heeft gemaakt dat hij voornemens is om de in het eerste lid, bedoelde verplichting op te leggen, kan uiterlijk binnen een bij ministeriële regeling gestelde periode na de datum van kennisgeving van het ontwerpbesluit verzoeken om:
 
-- a. intrekking van de vergunning op grond van [artikel 3.19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21),
+- a. intrekking van de vergunning op grond van [artikel 3.19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01),
 
-- b. wijziging van de vergunning op grond van [artikel 3.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21), of
+- b. wijziging van de vergunning op grond van [artikel 3.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01), of
 
-- c. toestemming voor overdracht op grond van [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2020-12-21&g=2020-12-21).
+- c. toestemming voor overdracht op grond van [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2021-07-01&g=2021-07-01).
 
 Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode af.
 
-6. Gedurende de procedure, bedoeld in het zevende lid, onderdeel a, en gedurende acht weken na het tijdstip waarop de procedure is afgerond, zijn [artikel 3:19, eerste lid, aanhef en onderdeel a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21), en [artikel 3.20, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2020-12-21&g=2020-12-21), niet van toepassing op de vergunning waarop het ontwerpbesluit, bedoeld in het eerste lid, betrekking heeft.
+6. Gedurende de procedure, bedoeld in het zevende lid, onderdeel a, en gedurende acht weken na het tijdstip waarop de procedure is afgerond, zijn [artikel 3:19, eerste lid, aanhef en onderdeel a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01), en [artikel 3.20, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.20&z=2021-07-01&g=2021-07-01), niet van toepassing op de vergunning waarop het ontwerpbesluit, bedoeld in het eerste lid, betrekking heeft.
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van:
 
@@ -4511,11 +4509,11 @@ Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode a
 
 1. Een vergunning kan op aanvraag van de houder van die vergunning en een andere natuurlijke persoon of rechtspersoon geheel of gedeeltelijk aan die andere natuurlijke persoon of rechtspersoon worden overgedragen met toestemming van Onze Minister.
 
-2. De [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2020-12-21&g=2020-12-21), en [3.19, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2020-12-21&g=2020-12-21), zijn van overeenkomstige toepassing. Onze minister verleent voorts geen toestemming indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is.
+2. De [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2021-07-01&g=2021-07-01), en [3.19, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.19&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing. Onze minister verleent voorts geen toestemming indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is.
 
 3. Indien de aanvraag betrekking heeft op een geheel over te dragen vergunning kan Onze Minister bij het toestemmingsbesluit de voorschriften en beperkingen die aan de over te dragen vergunning zijn verbonden, wijzigen.
 
-4. Indien de aanvraag betrekking heeft op een gedeeltelijke overdracht van een vergunning kan Onze Minister bij het toestemmingsbesluit de voorschriften en beperkingen verbonden aan de oorspronkelijke vergunning wijzigen en aan de andere natuurlijke persoon of rechtspersoon een nieuwe vergunning verlenen. De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2020-12-21&g=2020-12-21), en [3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.13&z=2020-12-21&g=2020-12-21), zijn niet van toepassing op de verlening van de in de vorige volzin bedoelde vergunning.
+4. Indien de aanvraag betrekking heeft op een gedeeltelijke overdracht van een vergunning kan Onze Minister bij het toestemmingsbesluit de voorschriften en beperkingen verbonden aan de oorspronkelijke vergunning wijzigen en aan de andere natuurlijke persoon of rechtspersoon een nieuwe vergunning verlenen. De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.5&artikel=3.10&z=2021-07-01&g=2021-07-01), en [3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.13&z=2021-07-01&g=2021-07-01), zijn niet van toepassing op de verlening van de in de vorige volzin bedoelde vergunning.
 
 5. Alvorens een besluit te nemen als bedoeld in het eerste lid, stelt Onze Minister indien de overdracht van de vergunning de daadwerkelijke mededinging op de markt in aanzienlijke mate zou kunnen beperken, de Autoriteit Consument en Markt in de gelegenheid hem advies uit te brengen over de overdracht, bedoeld in het eerste lid.
 
@@ -4525,7 +4523,7 @@ Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode a
 
 ##### Artikel 3.21
 
-In de gevallen waarin samenwerking tussen gebruikers van frequentieruimte noodzakelijk is voor het kunnen gebruiken van de aan hen toegewezen frequentieruimte, sluiten de desbetreffende gebruikers binnen een door Onze Minister te bepalen periode na de toewijzing als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) of de verlening van de vergunning een overeenkomst betreffende de voorwaarden tot gezamenlijk gebruik van dat deel van de frequentieruimte. De periode kan voor de verschillende soorten gebruikers verschillend worden vastgesteld.
+In de gevallen waarin samenwerking tussen gebruikers van frequentieruimte noodzakelijk is voor het kunnen gebruiken van de aan hen toegewezen frequentieruimte, sluiten de desbetreffende gebruikers binnen een door Onze Minister te bepalen periode na de toewijzing als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) of de verlening van de vergunning een overeenkomst betreffende de voorwaarden tot gezamenlijk gebruik van dat deel van de frequentieruimte. De periode kan voor de verschillende soorten gebruikers verschillend worden vastgesteld.
 
 ##### Artikel 3.22
 
@@ -4533,7 +4531,7 @@ In de gevallen waarin samenwerking tussen gebruikers van frequentieruimte noodza
 
 - a. daartoe een last wordt verstrekt door een tot het onderzoek van telecommunicatie bevoegde autoriteit, en
 
-- b. dit plaats vindt met het doel de gegevens, bedoeld in [artikel 13.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2020-12-21&g=2020-12-21), onderscheidenlijk artikel 13.4, tweede lid, te achterhalen en het door de aanbieder voldoen aan de vordering van deze gegevens onvoldoende het belang van de strafvordering dient.
+- b. dit plaats vindt met het doel de gegevens, bedoeld in [artikel 13.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2021-07-01&g=2021-07-01), onderscheidenlijk artikel 13.4, tweede lid, te achterhalen en het door de aanbieder voldoen aan de vordering van deze gegevens onvoldoende het belang van de strafvordering dient.
 
 2. Onze Minister kan bij ministeriële regeling vrijstelling verlenen van bij of krachtens dit hoofdstuk geldende verplichtingen ter zake van het gebruik van frequentieruimte.
 
@@ -4825,15 +4823,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3.5a
 
-1. In afwijking van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) kan Onze Minister, op verzoek van Onze Minister wie het mede aangaat, voor korte duur frequentieruimte voor publieke taken toewijzen aan Onze Minister wie het mede aangaat, indien hij van oordeel is dat de toewijzing van de desbetreffende frequentieruimte onverwijld nodig en doelmatig is voor de uitoefening van de betrokken publieke taak.
+1. In afwijking van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) kan Onze Minister, op verzoek van Onze Minister wie het mede aangaat, voor korte duur frequentieruimte voor publieke taken toewijzen aan Onze Minister wie het mede aangaat, indien hij van oordeel is dat de toewijzing van de desbetreffende frequentieruimte onverwijld nodig en doelmatig is voor de uitoefening van de betrokken publieke taak.
 
-2. [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2020-12-21&g=2020-12-21) is niet van toepassing.
+2. [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-07-01&g=2021-07-01) is niet van toepassing.
 
 3. Onze Minister kan aan de toewijzing voorschriften en beperkingen verbinden.
 
 ##### Artikel 3.5b
 
-1. In afwijking van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2020-12-21&g=2020-12-21) kan Onze Minister, vooruitlopend op de ontvangst van een behoefte-onderbouwingsplan, op verzoek van Onze Minister wie het mede aangaat, frequentieruimte voor publieke taken voorlopig toewijzen aan Onze Minister wie het mede aangaat, indien hij van oordeel is dat de voorlopige toewijzing van de frequentieruimte onverwijld nodig is voor de uitoefening van de betrokken publieke taak.
+1. In afwijking van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2021-07-01&g=2021-07-01) kan Onze Minister, vooruitlopend op de ontvangst van een behoefte-onderbouwingsplan, op verzoek van Onze Minister wie het mede aangaat, frequentieruimte voor publieke taken voorlopig toewijzen aan Onze Minister wie het mede aangaat, indien hij van oordeel is dat de voorlopige toewijzing van de frequentieruimte onverwijld nodig is voor de uitoefening van de betrokken publieke taak.
 
 2. Onze Minister wie het mede aangaat dient binnen zes weken na ontvangst van het verzoek door Onze Minister een behoefte-onderbouwingsplan in voor de desbetreffende frequentieruimte.
 
@@ -4869,13 +4867,13 @@ Een faciliteit om het nummer van het netwerkaansluitpunt van waaruit een verbind
 
 ##### Artikel 11a.3
 
-1. Een aanbieder van een bij of krachtens algemene maatregel van bestuur aangewezen antenne-opstelpunt als bedoeld in [artikel 5a.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), draagt zorg voor de opstelling en de uitvoering van een continuïteitsplan dat een beschrijving bevat van de technische en organisatorische maatregelen die de aanbieder neemt om de risico’s voor de veiligheid in en op het opstelpunt te beheersen voor zover van belang voor de continuïteit van de verspreiding van programma's door middel van openbare elektronische communicatienetwerken die worden ondersteund door dat opstelpunt.
+1. Een aanbieder van een bij of krachtens algemene maatregel van bestuur aangewezen antenne-opstelpunt als bedoeld in [artikel 5a.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), draagt zorg voor de opstelling en de uitvoering van een continuïteitsplan dat een beschrijving bevat van de technische en organisatorische maatregelen die de aanbieder neemt om de risico’s voor de veiligheid in en op het opstelpunt te beheersen voor zover van belang voor de continuïteit van de verspreiding van programma's door middel van openbare elektronische communicatienetwerken die worden ondersteund door dat opstelpunt.
 
 2. Onze Minister kan een aanbieder als bedoeld in het eerste lid de verplichting opleggen om binnen een bepaalde termijn een veiligheidscontrole te laten uitvoeren door een onafhankelijke deskundige, waarvan de kosten worden gedragen door de aanbieder.
 
 3. Indien het continuïteitsplan naar het oordeel van Onze Minister onvoldoende bijdraagt aan de in het eerste lid bedoelde continuïteit, kan Onze Minister een aanbieder als bedoeld in het eerste lid de verplichting opleggen om binnen een bepaalde termijn een technische of organisatorische maatregel te treffen met het oog op de in het eerste lid bedoelde continuïteit.
 
-4. Voor een aangewezen antenne-opstelpunt dragen de in het eerste lid bedoelde aanbieder of aanbieders en de aanbieder of aanbieders van openbare elektronische communicatienetwerken die bestaan uit radioapparaten die geschikt zijn voor het verspreiden van programma's en die door het aangewezen opstelpunt worden ondersteund, zorg voor de opstelling en de uitvoering van een gezamenlijk continuïteitsplan dat voorziet in onderlinge afstemming van de maatregelen, bedoeld in het eerste lid, onderscheidenlijk de maatregelen bedoeld in [artikel 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.1&z=2020-12-21&g=2020-12-21).
+4. Voor een aangewezen antenne-opstelpunt dragen de in het eerste lid bedoelde aanbieder of aanbieders en de aanbieder of aanbieders van openbare elektronische communicatienetwerken die bestaan uit radioapparaten die geschikt zijn voor het verspreiden van programma's en die door het aangewezen opstelpunt worden ondersteund, zorg voor de opstelling en de uitvoering van een gezamenlijk continuïteitsplan dat voorziet in onderlinge afstemming van de maatregelen, bedoeld in het eerste lid, onderscheidenlijk de maatregelen bedoeld in [artikel 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&artikel=11a.1&z=2021-07-01&g=2021-07-01).
 
 5. Indien de in het vierde lid bedoelde aanbieders geen overeenstemming kunnen bereiken over het gezamenlijke continuïteitsplan, kan Onze Minister voorschriften geven inzake het tot stand brengen van het plan.
 
@@ -4899,9 +4897,9 @@ Een faciliteit om het nummer van het netwerkaansluitpunt van waaruit een verbind
 
 ##### Artikel 20.4b
 
-1. Uitrusting die voldoet aan de bij of krachtens deze wet vastgestelde regels die van kracht waren op 19 april 2016, mag in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2020-12-21&g=2020-12-21), op de markt worden aangeboden en in gebruik worden genomen indien die uitrusting vóór 20 april 2016 in de handel is gebracht.
+1. Uitrusting die voldoet aan de bij of krachtens deze wet vastgestelde regels die van kracht waren op 19 april 2016, mag in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2021-07-01&g=2021-07-01), op de markt worden aangeboden en in gebruik worden genomen indien die uitrusting vóór 20 april 2016 in de handel is gebracht.
 
-2. Radioapparaten, die voldoen aan de bij of krachtens deze wet vastgestelde regels met betrekking tot de essentiële eisen waaraan de radioapparaten moeten voldoen die van kracht waren op 12 juni 2016, mogen in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2020-12-21&g=2020-12-21) op de markt worden aangeboden en in gebruik worden genomen indien die radioapparaten vóór 13 juni 2017 in de handel zijn gebracht.
+2. Radioapparaten, die voldoen aan de bij of krachtens deze wet vastgestelde regels met betrekking tot de essentiële eisen waaraan de radioapparaten moeten voldoen die van kracht waren op 12 juni 2016, mogen in afwijking van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2021-07-01&g=2021-07-01) op de markt worden aangeboden en in gebruik worden genomen indien die radioapparaten vóór 13 juni 2017 in de handel zijn gebracht.
 
 ## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2016-11-03&g=2016-04-30) van de Telecommunicatiewet
 
@@ -4971,7 +4969,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Onze Minister kan aan de transitievergunning voorschriften en beperkingen verbinden, waaronder het voorschrift uitsluitend frequentieruimte te gebruiken in overeenstemming met de afspraken in de transitieovereenkomst bedoeld in het derde lid.
 
-5. [Artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.15&z=2020-12-21&g=2020-12-21) is niet van toepassing.
+5. [Artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.6&artikel=3.15&z=2021-07-01&g=2021-07-01) is niet van toepassing.
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste tot en met vijfde lid.
 
@@ -5097,9 +5095,9 @@ De Autoriteit persoonsgegevens is de gegevensbeschermingsautoriteit, bedoeld in 
 
 1. De ambtenaren die door Onze Minister zijn belast met het toezicht op het verlenen van vertrouwensdiensten, zijn tevens belast met het verlenen van bijstand als bedoeld in de eidas-verordening aan een toezichthoudend orgaan uit een andere lidstaat van de Europese Unie.
 
-2. De ambtenaren, bedoeld in het eerste lid, kunnen ten behoeve van het verlenen van bijstand hun toezichthoudende bevoegdheden toepassen, met uitzondering van de bevoegdheden, bedoeld in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19). [Artikel 15.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.7&z=2020-12-21&g=2020-12-21) van deze wet is van overeenkomstige toepassing.
+2. De ambtenaren, bedoeld in het eerste lid, kunnen ten behoeve van het verlenen van bijstand hun toezichthoudende bevoegdheden toepassen, met uitzondering van de bevoegdheden, bedoeld in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19). [Artikel 15.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.7&z=2021-07-01&g=2021-07-01) van deze wet is van overeenkomstige toepassing.
 
-3. Terzake van overtreding van [artikel 5:20, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zijn de [artikelen 15.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2020-12-21&g=2020-12-21), [15.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.12&z=2020-12-21&g=2020-12-21) en [15.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.14&z=2020-12-21&g=2020-12-21) van deze wet van overeenkomstige toepassing.
+3. Terzake van overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zijn de [artikelen 15.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.4&z=2021-07-01&g=2021-07-01), [15.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.12&z=2021-07-01&g=2021-07-01) en [15.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.14&z=2021-07-01&g=2021-07-01) van deze wet van overeenkomstige toepassing.
 
 ##### Artikel 15.3c
 
@@ -5113,9 +5111,9 @@ De Autoriteit persoonsgegevens is de gegevensbeschermingsautoriteit, bedoeld in 
 
 1. De ambtenaren die op grond van deze wet zijn belast met het verlenen van bijstand als bedoeld in de eidas-verordening zijn bevoegd samen met een toezichthoudend orgaan uit een andere lidstaat van de Europese Unie een onderzoek uit te voeren naar de naleving van de voorschriften van die verordening, indien over dat onderzoek tussen Onze Minister en een toezichthoudend orgaan uit een andere lidstaat van de Europese Unie overeenstemming bestaat.
 
-2. Onze Minister betrekt bij het streven naar overeenstemming in ieder geval het bepaalde in [artikel 15.3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.3c&z=2020-12-21&g=2020-12-21), omtrent geheimhouding.
+2. Onze Minister betrekt bij het streven naar overeenstemming in ieder geval het bepaalde in [artikel 15.3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.3c&z=2021-07-01&g=2021-07-01), omtrent geheimhouding.
 
-3. De ambtenaren, bedoeld in het eerste lid, beschikken voor de uitvoering van een gezamenlijk onderzoek over de bevoegdheden waarover zij ook voor het verlenen van bijstand beschikken. [Artikel 15.3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.3b&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing.
+3. De ambtenaren, bedoeld in het eerste lid, beschikken voor de uitvoering van een gezamenlijk onderzoek over de bevoegdheden waarover zij ook voor het verlenen van bijstand beschikken. [Artikel 15.3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.3b&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 4. Een persoon die voor een toezichthoudend orgaan uit een andere lidstaat aan een gezamenlijk onderzoek deelneemt, is bevoegd kennis te nemen van gegevens en inlichtingen die tijdens de uitvoering van dat onderzoek worden verkregen onder de voorwaarden van overeenstemming, bedoeld in het tweede lid.
 
@@ -5153,13 +5151,13 @@ De Autoriteit persoonsgegevens is de gegevensbeschermingsautoriteit, bedoeld in 
 
 ##### Artikel 18.15c
 
-1. De gekwalificeerde verlener van vertrouwensdiensten kan met toepassing van artikel 24, eerste lid, onderdeel b, van de eidas-verordening, tot afgifte van een op naam van een natuurlijke persoon of rechtspersoon gesteld gekwalificeerd certificaat overgaan, indien een elektronisch identificatiemiddel met het betrouwbaarheidsniveau substantieel of hoog als bedoeld in dat onderdeel is afgegeven overeenkomstig de aan identificatie of vertegenwoordiging gestelde eisen, bedoeld in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2020-12-21&g=2020-12-21).
+1. De gekwalificeerde verlener van vertrouwensdiensten kan met toepassing van artikel 24, eerste lid, onderdeel b, van de eidas-verordening, tot afgifte van een op naam van een natuurlijke persoon of rechtspersoon gesteld gekwalificeerd certificaat overgaan, indien een elektronisch identificatiemiddel met het betrouwbaarheidsniveau substantieel of hoog als bedoeld in dat onderdeel is afgegeven overeenkomstig de aan identificatie of vertegenwoordiging gestelde eisen, bedoeld in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2021-07-01&g=2021-07-01).
 
 2. De gekwalificeerde verlener van vertrouwensdiensten kan met toepassing van artikel 24, eerste lid, onderdeel c, van de eidas-verordening, tot afgifte van een op naam van een natuurlijk persoon of rechtspersoon gesteld gekwalificeerd certificaat overgaan, indien een eerder afgegeven certificaat voor een gekwalificeerde elektronische handtekening of een certificaat voor een gekwalificeerd elektronisch zegel als bedoeld in dat onderdeel is afgegeven:
 
-- a. met inachtneming van het in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2020-12-21&g=2020-12-21) bepaalde;
+- a. met inachtneming van het in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2021-07-01&g=2021-07-01) bepaalde;
 
-- b. op basis van een verificatie aan de hand van een elektronisch identificatiemiddel als bedoeld in het eerste lid, dat is uitgegeven overeenkomstig het in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2020-12-21&g=2020-12-21) bepaalde.
+- b. op basis van een verificatie aan de hand van een elektronisch identificatiemiddel als bedoeld in het eerste lid, dat is uitgegeven overeenkomstig het in [artikel 18.15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15b&z=2021-07-01&g=2021-07-01) bepaalde.
 
 ##### Artikel 18.15d
 
@@ -5251,7 +5249,7 @@ Deze wet is niet van toepassing op de verlening van vertrouwensdiensten of op he
 
 3. Een gekwalificeerde verlener van vertrouwensdiensten geeft aan Onze Minister onverwijld alle wijzigingen door die van invloed zijn op zijn status van gekwalificeerd, op het gekwalificeerd zijn van de door hem te verlenen vertrouwensdiensten of op de in de vertrouwenslijst over hem of zijn te verlenen diensten opgenomen gegevens.
 
-4. Onze Minister brengt de vertrouwenslijst in overeenstemming met de wijzigingen die voortvloeien uit [artikel 2.5d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5d&z=2020-12-21&g=2020-12-21) of met wijzigingen die Onze Minister op grond van het tweede of derde lid heeft ontvangen.
+4. Onze Minister brengt de vertrouwenslijst in overeenstemming met de wijzigingen die voortvloeien uit [artikel 2.5d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5d&z=2021-07-01&g=2021-07-01) of met wijzigingen die Onze Minister op grond van het tweede of derde lid heeft ontvangen.
 
 5. Een gekwalificeerde verlener van vertrouwensdiensten verstrekt op verzoek van Onze Minister alle gegevens die Onze Minister noodzakelijk acht voor de volledigheid van de inhoud van de vertrouwenslijst.
 
@@ -5269,13 +5267,13 @@ Deze wet is niet van toepassing op de verlening van vertrouwensdiensten of op he
 
 - a. indien een gekwalificeerde verlener van vertrouwensdiensten in strijd met het bepaalde bij of krachtens deze wet handelt ten aanzien van het verlenen van vertrouwensdiensten;
 
-- b. indien hij heeft vastgesteld dat de gekwalificeerde verlener van vertrouwensdiensten de gegevens, bedoeld in [artikel 2.5c, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5c&z=2020-12-21&g=2020-12-21), niet, onvolledig of niet juist heeft verstrekt en de verlener van vertrouwensdiensten niet binnen de door Onze Minister gestelde termijn de volledige of juiste gegevens alsnog verstrekt.
+- b. indien hij heeft vastgesteld dat de gekwalificeerde verlener van vertrouwensdiensten de gegevens, bedoeld in [artikel 2.5c, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5c&z=2021-07-01&g=2021-07-01), niet, onvolledig of niet juist heeft verstrekt en de verlener van vertrouwensdiensten niet binnen de door Onze Minister gestelde termijn de volledige of juiste gegevens alsnog verstrekt.
 
 2. Indien de gekwalificeerde verlener van vertrouwensdiensten aantoont redelijkerwijs niet binnen de gestelde termijn, bedoeld in het eerste lid, onder b, alsnog de juiste gegevens, bedoeld in dat onderdeel, te kunnen verstrekken, kan Onze Minister de termijn verlengen.
 
 ##### Artikel 2.5e
 
-Onze Minister is verwerkingsverantwoordelijke die het gevolg is van de toepassing van [artikel 2.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5b&z=2020-12-21&g=2020-12-21) en voor de vertrouwenslijst, bedoeld in [artikel 2.5c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5c&z=2020-12-21&g=2020-12-21).
+Onze Minister is verwerkingsverantwoordelijke die het gevolg is van de toepassing van [artikel 2.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5b&z=2021-07-01&g=2021-07-01) en voor de vertrouwenslijst, bedoeld in [artikel 2.5c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&paragraaf=2.2&artikel=2.5c&z=2021-07-01&g=2021-07-01).
 
 ### Hoofdstuk 3. Frequenties
 
@@ -5323,11 +5321,11 @@ Onze Minister is verwerkingsverantwoordelijke die het gevolg is van de toepassin
 
 ##### Artikel 20.16a
 
-1. Op nummers die op het tijdstip van inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband met het vaststellen van nadere bepalingen over het gebruik van nummers ter bescherming van de consument zijn gereserveerd blijven de [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2020-12-21&g=2020-12-21), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.5&z=2020-12-21&g=2020-12-21), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.6&z=2020-12-21&g=2020-12-21), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2020-12-21&g=2020-12-21) en [4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.8&z=2020-12-21&g=2020-12-21), van de Telecommunicatiewet, zoals deze luidden voor de inwerkingtreding van genoemde wet van toepassing tot het tijdstip dat de reservering is beëindigd.
+1. Op nummers die op het tijdstip van inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband met het vaststellen van nadere bepalingen over het gebruik van nummers ter bescherming van de consument zijn gereserveerd blijven de [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2021-07-01&g=2021-07-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.5&z=2021-07-01&g=2021-07-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.6&z=2021-07-01&g=2021-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2021-07-01&g=2021-07-01) en [4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.8&z=2021-07-01&g=2021-07-01), van de Telecommunicatiewet, zoals deze luidden voor de inwerkingtreding van genoemde wet van toepassing tot het tijdstip dat de reservering is beëindigd.
 
-2. Nummerhouders registreren binnen zes maanden na de inwerkingtreding van [artikel 4.9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.9&z=2020-12-21&g=2020-12-21), de nummergebruikers. De nummergebruiker krijgt het nummer op de dag van registratie door de nummerhouder van rechtswege in gebruik door de nummerhouder.
+2. Nummerhouders registreren binnen zes maanden na de inwerkingtreding van [artikel 4.9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.9&z=2021-07-01&g=2021-07-01), de nummergebruikers. De nummergebruiker krijgt het nummer op de dag van registratie door de nummerhouder van rechtswege in gebruik door de nummerhouder.
 
-3. Op klachten die voor het tijdstip van inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband met het vaststellen van nadere bepalingen over het gebruik van nummers ter bescherming van de consument zijn ingediend bij een erkende instelling, bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2020-12-21&g=2020-12-21) van de Telecommunicatiewet, blijven de regels van toepassing die golden ten tijde van de indiening van de klacht.
+3. Op klachten die voor het tijdstip van inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband met het vaststellen van nadere bepalingen over het gebruik van nummers ter bescherming van de consument zijn ingediend bij een erkende instelling, bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2021-07-01&g=2021-07-01) van de Telecommunicatiewet, blijven de regels van toepassing die golden ten tijde van de indiening van de klacht.
 
 ## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2017-03-10&g=2017-03-10) van de Telecommunicatiewet
 
@@ -5495,11 +5493,11 @@ Onverminderd de in dit hoofdstuk opgenomen verplichtingen omtrent medegebruik en
 
 3. Aanbieders van elektronische communicatienetwerken die bestaan uit radioapparaten die geschikt zijn voor het verspreiden van programma’s, alsmede aanbieders van antenne-opstelpunten die bestemd zijn om genoemde netwerken te ondersteunen, voldoen aan redelijke verzoeken tot medegebruik van antenne-opstelpunten, antennesystemen of antennes.
 
-4. Aanbieders van openbare elektronische communicatienetwerken zijn over en weer verplicht te voldoen aan redelijke verzoeken tot medegebruik van de fysieke infrastructuur waarop de gedoogplicht, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2020-12-21&g=2020-12-21), van toepassing is.
+4. Aanbieders van openbare elektronische communicatienetwerken zijn over en weer verplicht te voldoen aan redelijke verzoeken tot medegebruik van de fysieke infrastructuur waarop de gedoogplicht, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2021-07-01&g=2021-07-01), van toepassing is.
 
 ##### Artikel 5a.4
 
-1. Medegebruik als bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21) vindt plaats onder billijke en niet-discriminerende voorwaarden en tegen een billijke en niet-discriminerende vergoeding, en kan uitsluitend worden geweigerd op objectieve, transparante en evenredige gronden.
+1. Medegebruik als bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01) vindt plaats onder billijke en niet-discriminerende voorwaarden en tegen een billijke en niet-discriminerende vergoeding, en kan uitsluitend worden geweigerd op objectieve, transparante en evenredige gronden.
 
 2. Onder een grond als bedoeld in het eerste lid, kan in ieder geval worden verstaan:
 
@@ -5533,13 +5531,13 @@ Onverminderd de in dit hoofdstuk opgenomen verplichtingen omtrent medegebruik en
 
 - a. fysieke infrastructuur van een aanbieder van een openbaar elektronisch communicatienetwerk, of
 
-- b. een antenne-opstelpunt van een gebruiker respectievelijk een aanbieder als bedoeld in [artikel 5a.3, tweede, respectievelijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), kunnen partijen wat betreft veiligheid en continuïteit als bedoeld in het eerste lid, onderdeel c, volstaan met afspraken over hoe zij uitvoering geven aan de bij of krachtens [hoofdstuk 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&z=2020-12-21&g=2020-12-21) vastgestelde maatregelen en eisen.
+- b. een antenne-opstelpunt van een gebruiker respectievelijk een aanbieder als bedoeld in [artikel 5a.3, tweede, respectievelijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), kunnen partijen wat betreft veiligheid en continuïteit als bedoeld in het eerste lid, onderdeel c, volstaan met afspraken over hoe zij uitvoering geven aan de bij of krachtens [hoofdstuk 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11a&z=2021-07-01&g=2021-07-01) vastgestelde maatregelen en eisen.
 
 ##### Artikel 5a.6
 
 1. Indien een netwerkexploitant tevens degene is die beslist op een vergunning, ontheffing of andere toestemming betreffende de aanleg van elementen van een openbaar elektronisch communicatienetwerk met hoge snelheid waarop het verzoek tot medegebruik betrekking heeft, coördineert deze netwerkexploitant zijn beslissing op het verzoek tot medegebruik met het besluit op een aanvraag voor een vergunning, ontheffing of andere toestemming.
 
-2. In aanvulling op [artikel 5a.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.4&z=2020-12-21&g=2020-12-21), weigert een netwerkexploitant als bedoeld in het eerste lid, in ieder geval het medegebruik wanneer de in het eerste lid bedoelde vergunning, ontheffing of andere toestemming wordt geweigerd.
+2. In aanvulling op [artikel 5a.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.4&z=2021-07-01&g=2021-07-01), weigert een netwerkexploitant als bedoeld in het eerste lid, in ieder geval het medegebruik wanneer de in het eerste lid bedoelde vergunning, ontheffing of andere toestemming wordt geweigerd.
 
 3. Een aanbieder van een openbaar elektronisch communicatienetwerk die het voornemen heeft om de fysieke infrastructuur van een netwerkexploitant als bedoeld in het eerste lid, te gebruiken voor de aanleg van elementen van een openbaar elektronisch communicatienetwerk met hoge snelheid coördineert zijn verzoek tot medegebruik met de in het eerste lid, bedoelde aanvraag.
 
@@ -5551,19 +5549,19 @@ Onverminderd de in dit hoofdstuk opgenomen verplichtingen omtrent medegebruik en
 
 - b. deel uitmaakt van een groep als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waartoe een andere groepsmaatschappij als bedoeld in dat artikel behoort, die een direct of indirect relevant economisch belang heeft in degene tot wie het verzoek is gericht.
 
-2. De derde die op grond van het eerste lid gehouden is toestemming te verlenen, ontvangt voor het medegebruik een redelijke vergoeding als bedoeld in [artikel 5a.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2020-12-21&g=2020-12-21).
+2. De derde die op grond van het eerste lid gehouden is toestemming te verlenen, ontvangt voor het medegebruik een redelijke vergoeding als bedoeld in [artikel 5a.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 5a.8
 
-Indien een netwerkexploitant of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), weigert te voldoen aan een verzoek tot medegebruik informeert hij de verzoeker gemotiveerd en schriftelijk over de redenen voor zijn weigering.
+Indien een netwerkexploitant of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), weigert te voldoen aan een verzoek tot medegebruik informeert hij de verzoeker gemotiveerd en schriftelijk over de redenen voor zijn weigering.
 
 ##### Artikel 5a.9
 
-1. Een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), is verplicht in te gaan op redelijke verzoeken tot inspecties ter plaatse van de voorzieningen waarop het verzoek tot medegebruik ziet.
+1. Een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), is verplicht in te gaan op redelijke verzoeken tot inspecties ter plaatse van de voorzieningen waarop het verzoek tot medegebruik ziet.
 
 2. In een verzoek als bedoeld in het eerste lid, specificeert de verzoeker de elementen van het betrokken netwerk dat hij wil inspecteren met het oog op de aanleg van elementen van elektronische communicatienetwerken met hoge snelheid.
 
-3. Een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), stemt in met het verzoek tot inspectie op de voorgestelde datum of op een ander moment, doch uiterlijk binnen vier weken na ontvangst van het verzoek.
+3. Een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), stemt in met het verzoek tot inspectie op de voorgestelde datum of op een ander moment, doch uiterlijk binnen vier weken na ontvangst van het verzoek.
 
 ##### Artikel 5a.10
 
@@ -5607,11 +5605,11 @@ De bij medegebruik of coördinatie betrokken partijen gebruiken informatie die i
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure van een verzoek tot medegebruik of coördinatie. Daarbij kan onder meer worden bepaald op welke wijze en binnen welke termijn een verzoek wordt ingediend dan wel behandeld, alsmede welke gegevens bij een verzoek moeten worden overgelegd.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent omstandigheden, eisen en voorwaarden als bedoeld in de [artikelen 5a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.4&z=2020-12-21&g=2020-12-21), [5a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2020-12-21&g=2020-12-21) en [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=3&artikel=5a.11&z=2020-12-21&g=2020-12-21), alsmede over de procedure om tot overeenstemming te komen over die omstandigheden, eisen en voorwaarden.
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent omstandigheden, eisen en voorwaarden als bedoeld in de [artikelen 5a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.4&z=2021-07-01&g=2021-07-01), [5a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.5&z=2021-07-01&g=2021-07-01) en [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=3&artikel=5a.11&z=2021-07-01&g=2021-07-01), alsmede over de procedure om tot overeenstemming te komen over die omstandigheden, eisen en voorwaarden.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden aan de procedure van een verzoek om inspectie en aan de maatregelen die een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), tijdens of voorafgaand aan de inspectie stelt.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden aan de procedure van een verzoek om inspectie en aan de maatregelen die een netwerkexploitant, of een onderneming als bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), tijdens of voorafgaand aan de inspectie stelt.
 
-4. Bij of krachtens algemene maatregel van bestuur kunnen voorts nadere regels gesteld worden met betrekking tot de vergoeding aan een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2020-12-21&g=2020-12-21).
+4. Bij of krachtens algemene maatregel van bestuur kunnen voorts nadere regels gesteld worden met betrekking tot de vergoeding aan een derde als bedoeld in [artikel 5a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.7&z=2021-07-01&g=2021-07-01).
 
 5. In de in het eerste tot en met vierde lid bedoelde nadere regels kunnen aan de Autoriteit Consument en Markt taken worden opgedragen en bevoegdheden worden verleend.
 
@@ -5619,9 +5617,9 @@ De bij medegebruik of coördinatie betrokken partijen gebruiken informatie die i
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:
 
-- a. de door degene, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), te verstrekken informatie over de antenne-opstelpunten waarover zij beschikken,
+- a. de door degene, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), te verstrekken informatie over de antenne-opstelpunten waarover zij beschikken,
 
-- b. de door degene, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2020-12-21&g=2020-12-21), te reserveren ruimte op antenne-opstelpunten voor eigen gebruik of voor medegebruik.
+- b. de door degene, bedoeld in [artikel 5a.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a&paragraaf=2&artikel=5a.3&z=2021-07-01&g=2021-07-01), te reserveren ruimte op antenne-opstelpunten voor eigen gebruik of voor medegebruik.
 
 Hierbij kunnen aan de Autoriteit Consument en Markt taken worden opgedragen en bevoegdheden worden verleend.
 
@@ -5729,7 +5727,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18.7a
 
-1. Onze Minister is bevoegd om ten behoeve van het uitvoeren van een geografisch onderzoek naar het bereik van elektronische communicatienetwerken als bedoeld in artikel 22, eerste lid, van richtlijn (EU) 2018/1972, bij ministeriële regeling te bepalen inlichtingen te vorderen van aanbieders van elektronische communicatiediensten en -netwerken. De te vorderen inlichtingen kunnen een prognose betreffen die betrekking heeft op een periode van ten hoogste drie jaar. [Artikel 18.7, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2020-12-21&g=2020-12-21), is van overeenkomstige toepassing.
+1. Onze Minister is bevoegd om ten behoeve van het uitvoeren van een geografisch onderzoek naar het bereik van elektronische communicatienetwerken als bedoeld in artikel 22, eerste lid, van richtlijn (EU) 2018/1972, bij ministeriële regeling te bepalen inlichtingen te vorderen van aanbieders van elektronische communicatiediensten en -netwerken. De te vorderen inlichtingen kunnen een prognose betreffen die betrekking heeft op een periode van ten hoogste drie jaar. [Artikel 18.7, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
 2. Het is verboden Onze Minister bewust of ten gevolge van grove nalatigheid misleidende, onjuiste of onvolledige inlichtingen te verstrekken.
 
@@ -5763,11 +5761,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20.16b
 
-Indien dat later is dan het tijdstip bedoeld in [artikel 14a.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), wordt, in afwijking van die bepaling, een verbod als bedoeld in artikel 14a.4, eerste lid, opgelegd binnen acht maanden na inwerkingtreding van artikel 14a.4 van deze wet.
+Indien dat later is dan het tijdstip bedoeld in [artikel 14a.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), wordt, in afwijking van die bepaling, een verbod als bedoeld in artikel 14a.4, eerste lid, opgelegd binnen acht maanden na inwerkingtreding van artikel 14a.4 van deze wet.
 
 ##### Artikel 20.16c
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&z=2020-12-21&g=2020-12-21) van deze wet in de praktijk.
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&z=2021-07-01&g=2021-07-01) van deze wet in de praktijk.
 
 ## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-07-11&g=2020-07-11) van de Telecommunicatiewet
 
@@ -5837,7 +5835,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **beursgenoteerde betrokken partij:** betrokken partij waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt;
 
-- –. **betrokken partij:** telecommunicatiepartij waarop een verbod als bedoeld in [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), betrekking heeft;
+- –. **betrokken partij:** telecommunicatiepartij waarop een verbod als bedoeld in [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), betrekking heeft;
 
 - –. **bewaarder van een beleggingsinstelling:** bewaarder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of entiteit met als statutaire doelstelling het houden van de juridische eigendom al dan niet tezamen met het bewaren en administreren van aandelen of zeggenschap van een beleggingsfonds of een fonds voor collectieve beleggingen in effecten;
 
@@ -5867,7 +5865,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
 
-- –. **overwegende zeggenschap:** overwegende zeggenschap in de zin van [artikel 14a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.3&z=2020-12-21&g=2020-12-21);
+- –. **overwegende zeggenschap:** overwegende zeggenschap in de zin van [artikel 14a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.3&z=2021-07-01&g=2021-07-01);
 
 - –. **personen met wie in onderling overleg wordt gehandeld:** natuurlijke personen, rechtspersonen of vennootschappen met wie, onderscheidenlijk waarmee wordt samengewerkt op grond van een overeenkomst met als doel het verwerven van overwegende zeggenschap in een naamloze vennootschap als bedoeld in de definitie van personen met wie in onderling overleg wordt gehandeld, in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
@@ -5895,17 +5893,17 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 14a.2
 
-1. Degene die het voornemen heeft overwegende zeggenschap in een telecommunicatiepartij te verkrijgen meldt dit voornemen aan Onze Minister indien deze zeggenschap leidt tot relevante invloed in de telecommunicatiesector als bedoeld in [artikel 14a.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21). Een melding hoeft niet te worden gedaan door een van een beursgenoteerde telecommunicatiepartij onafhankelijke rechtspersoon die ten doel heeft het behartigen van de belangen van de telecommunicatiepartij en een met haar verbonden onderneming en die de overwegende zeggenschap na aankondiging van een openbaar bod voor de duur van maximaal twee jaar verkrijgt ter bescherming van de telecommunicatiepartij.
+1. Degene die het voornemen heeft overwegende zeggenschap in een telecommunicatiepartij te verkrijgen meldt dit voornemen aan Onze Minister indien deze zeggenschap leidt tot relevante invloed in de telecommunicatiesector als bedoeld in [artikel 14a.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01). Een melding hoeft niet te worden gedaan door een van een beursgenoteerde telecommunicatiepartij onafhankelijke rechtspersoon die ten doel heeft het behartigen van de belangen van de telecommunicatiepartij en een met haar verbonden onderneming en die de overwegende zeggenschap na aankondiging van een openbaar bod voor de duur van maximaal twee jaar verkrijgt ter bescherming van de telecommunicatiepartij.
 
 2. De melding in het eerste lid wordt gedaan uiterlijk acht weken voor de beoogde datum van uitvoering van dit voornemen. Indien het voornemen betrekking heeft op een openbaar bod op een beursgenoteerde telecommunicatiepartij wordt de melding gedaan uiterlijk gelijktijdig met de aankondiging van een openbaar bod als bedoeld in [artikel 5, eerste tot en met derde lid, van het Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=5).
 
-3. Onze Minister beslist binnen acht weken na ontvangst van de melding of een verbod op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), wordt opgelegd. Indien nader onderzoek nodig is, kan Onze Minister de termijn verlengen met zes maanden. De termijn wordt opgeschort met ingang van de dag:
+3. Onze Minister beslist binnen acht weken na ontvangst van de melding of een verbod op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), wordt opgelegd. Indien nader onderzoek nodig is, kan Onze Minister de termijn verlengen met zes maanden. De termijn wordt opgeschort met ingang van de dag:
 
 - a. waarop Onze Minister aanvullende informatie verzoekt tot de dag waarop de verzochte informatie is gegeven, en
 
 - b. waarop Onze Minister een voornemen om een verbod op te leggen voor een zienswijze heeft voorgelegd aan de telecommunicatiepartij tot de dag waarop hij de zienswijze ontvangt of, indien die korter is, de termijn voor het uitbrengen van een zienswijze is verstreken.
 
-4. De meldplicht op grond van het eerste lid geldt niet ten aanzien van degene die het voornemen heeft overwegende zeggenschap in een telecommunicatiepartij te verkrijgen, maar wegens een geheimhoudingsplicht voor de telecommunicatiepartij niet kan weten dat deze zeggenschap leidt tot relevante invloed in de telecommunicatiesector als bedoeld in [artikel 14a.4, derde lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21). De telecommunicatiepartij waarvoor deze geheimhoudingsplicht geldt meldt het ontstaan van overwegende zeggenschap of de voorbereidingen daartoe in dat geval aan Onze Minister zodra hij daar kennis van heeft.
+4. De meldplicht op grond van het eerste lid geldt niet ten aanzien van degene die het voornemen heeft overwegende zeggenschap in een telecommunicatiepartij te verkrijgen, maar wegens een geheimhoudingsplicht voor de telecommunicatiepartij niet kan weten dat deze zeggenschap leidt tot relevante invloed in de telecommunicatiesector als bedoeld in [artikel 14a.4, derde lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01). De telecommunicatiepartij waarvoor deze geheimhoudingsplicht geldt meldt het ontstaan van overwegende zeggenschap of de voorbereidingen daartoe in dat geval aan Onze Minister zodra hij daar kennis van heeft.
 
 5. Indien na een melding als bedoeld in het eerste lid blijkt dat er sprake is van een buitenlandse directe investering die valt binnen de reikwijdte van Verordening (EU) 2019/452 van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79), kan de termijn, bedoeld in het derde lid, tweede volzin, met nog ten hoogste drie maanden verlengd worden.
 
@@ -5957,11 +5955,11 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 4. De in het derde lid onder a tot en met c bedoelde gevolgen worden bij of krachtens algemene maatregel van bestuur nader uitgewerkt.
 
-5. Indien een verbod op het houden of verkrijgen van overwegende zeggenschap niet volgt op een melding op grond van [artikel 14a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2020-12-21&g=2020-12-21), wordt een verbod opgelegd binnen acht maanden nadat de feiten of omstandigheden op grond waarvan Onze Minister van oordeel is dat het publiek belang bedreigd kan worden, bekend zijn geworden bij Onze Minister.
+5. Indien een verbod op het houden of verkrijgen van overwegende zeggenschap niet volgt op een melding op grond van [artikel 14a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2021-07-01&g=2021-07-01), wordt een verbod opgelegd binnen acht maanden nadat de feiten of omstandigheden op grond waarvan Onze Minister van oordeel is dat het publiek belang bedreigd kan worden, bekend zijn geworden bij Onze Minister.
 
-6. Nadat een voorgenomen verkrijging van zeggenschap is gemeld op grond van [artikel 14a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2020-12-21&g=2020-12-21), en binnen de termijn bedoeld in artikel 14a.2, derde lid, geen verbod is opgelegd, dan wel door Onze Minister is medegedeeld dat geen verbod zal worden opgelegd, verbiedt Onze Minister het verkrijgen of houden van overwegende zeggenschap als bedoeld in het eerste lid uitsluitend indien:
+6. Nadat een voorgenomen verkrijging van zeggenschap is gemeld op grond van [artikel 14a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2021-07-01&g=2021-07-01), en binnen de termijn bedoeld in artikel 14a.2, derde lid, geen verbod is opgelegd, dan wel door Onze Minister is medegedeeld dat geen verbod zal worden opgelegd, verbiedt Onze Minister het verkrijgen of houden van overwegende zeggenschap als bedoeld in het eerste lid uitsluitend indien:
 
-- a. bij de melding, bedoeld in [artikel 14a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2020-12-21&g=2020-12-21), door de aanvrager onjuiste of onvolledige informatie is verstrekt, of
+- a. bij de melding, bedoeld in [artikel 14a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.2&z=2021-07-01&g=2021-07-01), door de aanvrager onjuiste of onvolledige informatie is verstrekt, of
 
 - b. de feiten of omstandigheden op grond waarvan Onze Minister van oordeel is dat het publiek belang bedreigd kan worden, eerst na de beslissing om geen verbod op te leggen bekend zijn geworden bij Onze Minister.
 
@@ -5991,43 +5989,43 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.6
 
-1. Indien de identiteit van de houder of houders van een aandelenbelang niet met zekerheid is vast te stellen, wordt voor de toepassing van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), [14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21), en [14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), geacht houder en eigenaar van het aandelenbelang en de daaraan verbonden zeggenschap in een beursgenoteerde betrokken partij te zijn, de persoon die op grond van het onderzoek, bedoeld in [artikel 14a.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.5&z=2020-12-21&g=2020-12-21), of op een andere wijze, als laatste is geïdentificeerd als deelgenoot in een depot. Het bepaalde in de eerste volzin betreft het volledige aandelenbelang dat de betreffende persoon houdt in de betrokken partij.
+1. Indien de identiteit van de houder of houders van een aandelenbelang niet met zekerheid is vast te stellen, wordt voor de toepassing van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), [14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01), en [14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), geacht houder en eigenaar van het aandelenbelang en de daaraan verbonden zeggenschap in een beursgenoteerde betrokken partij te zijn, de persoon die op grond van het onderzoek, bedoeld in [artikel 14a.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.5&z=2021-07-01&g=2021-07-01), of op een andere wijze, als laatste is geïdentificeerd als deelgenoot in een depot. Het bepaalde in de eerste volzin betreft het volledige aandelenbelang dat de betreffende persoon houdt in de betrokken partij.
 
-2. Indien het eerste lid wordt toegepast, wordt dit vermeld in het besluit op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21).
+2. Indien het eerste lid wordt toegepast, wordt dit vermeld in het besluit op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 14a.7
 
-1. In het geval Onze Minister een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21) heeft opgelegd worden totdat de overwegende zeggenschap overeenkomstig [artikel 14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21) is beëindigd:
+1. In het geval Onze Minister een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01) heeft opgelegd worden totdat de overwegende zeggenschap overeenkomstig [artikel 14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01) is beëindigd:
 
 - a. door degene tot wie het verbod zich richt, de zeggenschap en de overige rechten verbonden aan het aandeelhouderschap, lidmaatschap of de deelname in een vennootschap, met uitzondering van het recht op dividend en de ontvangst van uitkeringen uit de reserves, niet uitgeoefend. Het bepaalde in de eerste volzin betreft het volledige aandeelhouderschap, lidmaatschap of deelname van de betreffende persoon in de betrokken partij;
 
 - b. de rechten verbonden aan de eigendom van de eenmanszaak niet uitgeoefend met uitzondering van het recht op de opbrengsten van de onderneming.
 
-2. Een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland, bewaarder van een beleggingsinstelling en buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut onthouden zich van gedragingen waardoor degene die in strijd met [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), overwegende zeggenschap heeft in een beursgenoteerde betrokken partij, in strijd met het bepaalde in het eerste lid kan handelen.
+2. Een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland, bewaarder van een beleggingsinstelling en buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut onthouden zich van gedragingen waardoor degene die in strijd met [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), overwegende zeggenschap heeft in een beursgenoteerde betrokken partij, in strijd met het bepaalde in het eerste lid kan handelen.
 
 ##### Artikel 14a.8
 
-1. Een betrokken partij geeft gevolg aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21). Bij een beursgenoteerde betrokken partij zijn het tweede tot en met vijfde lid van toepassing.
+1. Een betrokken partij geeft gevolg aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01). Bij een beursgenoteerde betrokken partij zijn het tweede tot en met vijfde lid van toepassing.
 
-2. Een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland, bewaarder van een beleggingsinstelling of buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut verleent medewerking aan een beursgenoteerde betrokken partij bij het gevolg geven aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21).
+2. Een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland, bewaarder van een beleggingsinstelling of buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut verleent medewerking aan een beursgenoteerde betrokken partij bij het gevolg geven aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01).
 
 3. Indien de medewerking niet wordt verleend, meldt een beursgenoteerde betrokken partij dit aan Onze Minister.
 
 4. Onze Minister kan vaststellen wie als laatste de medewerking heeft verleend, en wie de niet-meewerkende persoon is die deelgenoot is in het depot van degene die als laatste in de keten medewerking heeft verleend.
 
-5. Indien het vierde lid is toegepast, heeft de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21), betrekking op het gehele aandelenbelang waarvoor de niet-meewerkende persoon deelgenoot is in het depot van degene die als laatste in de keten medewerking heeft verleend.
+5. Indien het vierde lid is toegepast, heeft de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01), betrekking op het gehele aandelenbelang waarvoor de niet-meewerkende persoon deelgenoot is in het depot van degene die als laatste in de keten medewerking heeft verleend.
 
-6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21), gevolg wordt gegeven.
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01), gevolg wordt gegeven.
 
 ##### Artikel 14a.9
 
-1. Indien dat naar het oordeel van Onze Minister nodig is om de effectiviteit van de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21), te verzekeren, kan Onze Minister een of meer personen aanwijzen die opdrachten kunnen verstrekken aan de betrokken partij. Onze Minister maakt een besluit tot benoeming van een aangewezen persoon bekend in de Staatscourant.
+1. Indien dat naar het oordeel van Onze Minister nodig is om de effectiviteit van de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01), te verzekeren, kan Onze Minister een of meer personen aanwijzen die opdrachten kunnen verstrekken aan de betrokken partij. Onze Minister maakt een besluit tot benoeming van een aangewezen persoon bekend in de Staatscourant.
 
 2. De betrokken partij, inclusief alle bestuurders, commissarissen, personen die de feitelijke leiding hebben en andere werknemers, verstrekt de aangewezen persoon alle informatie die benodigd is in verband met de doelen bedoeld in het derde lid, volgt de opdrachten verstrekt door de aangewezen persoon op en verleent de aangewezen persoon alle medewerking. Degene die op grond van de vorige volzin verplicht is tot medewerking of informatieverstrekking aan de aangewezen persoon of het opvolgen van een opdracht verstrekt door de aangewezen persoon, is niet aansprakelijk voor schade ten gevolge van het nakomen van die verplichting.
 
 3. De aangewezen persoon verstrekt uitsluitend opdrachten die tot doel hebben om:
 
-- a. de medewerking van de betrokken partij aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2020-12-21&g=2020-12-21), te verzekeren, of
+- a. de medewerking van de betrokken partij aan de schorsing, bedoeld in [artikel 14a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.7&z=2021-07-01&g=2021-07-01), te verzekeren, of
 
 - b. misbruik of uitval van het netwerk of de dienst van de betrokken partij te voorkomen.
 
@@ -6037,7 +6035,7 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 6. Onze Minister kan de aangewezen persoon vervangen door een andere persoon.
 
-7. Een aangewezen persoon als bedoeld in het eerste lid oefent zijn bevoegdheid uit tot het moment waarop de zeggenschap overeenkomstig de last, bedoeld in [artikel 14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), is teruggebracht of beëindigd.
+7. Een aangewezen persoon als bedoeld in het eerste lid oefent zijn bevoegdheid uit tot het moment waarop de zeggenschap overeenkomstig de last, bedoeld in [artikel 14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), is teruggebracht of beëindigd.
 
 8. Een aangewezen persoon is niet aansprakelijk voor schade ten gevolge van door hem verstrekte opdrachten.
 
@@ -6045,13 +6043,13 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.10
 
-1. Onze Minister gelast degene aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21) is opgelegd, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap in de betrokken partij terug te brengen of te beëindigen zodat niet langer sprake is van overwegende zeggenschap.
+1. Onze Minister gelast degene aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01) is opgelegd, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap in de betrokken partij terug te brengen of te beëindigen zodat niet langer sprake is van overwegende zeggenschap.
 
-2. Het is degene aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21) is opgelegd verboden de zeggenschap bedoeld in dat verbod, of een deel daarvan, over te dragen aan:
+2. Het is degene aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01) is opgelegd verboden de zeggenschap bedoeld in dat verbod, of een deel daarvan, over te dragen aan:
 
 - a. een ongewenst persoon,
 
-- b. een persoon aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21) is opgelegd,
+- b. een persoon aan wie een verbod op grond van [artikel 14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01) is opgelegd,
 
 - c. een persoon die nauwe banden heeft met of onder invloed staat van een persoon als bedoeld onder a of b.
 
@@ -6061,7 +6059,7 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.11
 
-1. Indien na verloop van de termijn, bedoeld in [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), de zeggenschap niet overeenkomstig de last is teruggebracht, is Onze Minister bij uitsluiting onherroepelijk gemachtigd om namens en voor rekening van de houder van de zeggenschap diens aandelen overeenkomstig de last te vervreemden of anderszins de zeggenschap overeenkomstig de last terug te brengen. In geval van een bijkantoor of eenmanszaak kan Onze Minister bepalen dat de aangewezen persoon, bedoeld in [artikel 14a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.9&z=2020-12-21&g=2020-12-21), bij uitsluiting onherroepelijk gemachtigd en verplicht is om namens en voor rekening van de houder van de zeggenschap de zeggenschap overeenkomstig de last terug te brengen, waaronder door middel van het vervreemden van de activa en passiva van het bijkantoor.
+1. Indien na verloop van de termijn, bedoeld in [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), de zeggenschap niet overeenkomstig de last is teruggebracht, is Onze Minister bij uitsluiting onherroepelijk gemachtigd om namens en voor rekening van de houder van de zeggenschap diens aandelen overeenkomstig de last te vervreemden of anderszins de zeggenschap overeenkomstig de last terug te brengen. In geval van een bijkantoor of eenmanszaak kan Onze Minister bepalen dat de aangewezen persoon, bedoeld in [artikel 14a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.9&z=2021-07-01&g=2021-07-01), bij uitsluiting onherroepelijk gemachtigd en verplicht is om namens en voor rekening van de houder van de zeggenschap de zeggenschap overeenkomstig de last terug te brengen, waaronder door middel van het vervreemden van de activa en passiva van het bijkantoor.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over:
 
@@ -6073,13 +6071,13 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.12
 
-1. Indien voor de uitoefening van de verplichting op grond van [artikel 14a.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.11&z=2020-12-21&g=2020-12-21), vervreemding van aandelen nodig is, is een beursgenoteerde betrokken partij onherroepelijk gemachtigd en, indien nodig voor de vervreemding van de aandelen, verplicht tot het doen van een verzoek aan het centraal instituut of een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut tot uitlevering van het aandelenbelang waarop de last op grond van [artikel 14a.10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), betrekking heeft, uit het girodepot respectievelijk het depot van de buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut.
+1. Indien voor de uitoefening van de verplichting op grond van [artikel 14a.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.11&z=2021-07-01&g=2021-07-01), vervreemding van aandelen nodig is, is een beursgenoteerde betrokken partij onherroepelijk gemachtigd en, indien nodig voor de vervreemding van de aandelen, verplicht tot het doen van een verzoek aan het centraal instituut of een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut tot uitlevering van het aandelenbelang waarop de last op grond van [artikel 14a.10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), betrekking heeft, uit het girodepot respectievelijk het depot van de buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut.
 
-2. Het centraal instituut of de buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut levert het aandelenbelang in een beursgenoteerde betrokken partij waarop de last op grond van [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), betrekking heeft uit naar aanleiding van een verzoek tot uitlevering.
+2. Het centraal instituut of de buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut levert het aandelenbelang in een beursgenoteerde betrokken partij waarop de last op grond van [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), betrekking heeft uit naar aanleiding van een verzoek tot uitlevering.
 
 3. Het centraal instituut respectievelijk de buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut vermindert het door hem beheerde relevante depot met de hoeveelheid aandelen die op grond van het tweede lid is uitgeleverd. De vermindering vindt alleen plaats ten laste van de aandeelhouder die de last opgelegd heeft gekregen of de partij die direct of indirect ten bate van de aandeelhouder die de last opgelegd heeft gekregen deelgenoot is in het depot. De eerste en tweede volzin zijn van overeenkomstige toepassing op de intermediair, aangesloten instelling en instelling in het buitenland die direct of indirect ten bate van de aandeelhouder die de last opgelegd heeft gekregen deelgenoot is in het depot.
 
-4. Een beursgenoteerde betrokken partij verwerkt de uitlevering, bedoeld in het tweede lid, door het aandelenbelang in te schrijven in het aandeelhoudersregister, bedoeld in [artikel 85, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), en stelt het aandelenbelang op naam van de persoon tot wie de last op grond van [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), is gericht.
+4. Een beursgenoteerde betrokken partij verwerkt de uitlevering, bedoeld in het tweede lid, door het aandelenbelang in te schrijven in het aandeelhoudersregister, bedoeld in [artikel 85, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), en stelt het aandelenbelang op naam van de persoon tot wie de last op grond van [artikel 14a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), is gericht.
 
 5. De inschrijving in het aandeelhoudersregister kan worden tegengeworpen aan een ieder die na de datum van het verzoek tot uitlevering, bedoeld in het eerste lid, deelgenoot is geworden in een depot.
 
@@ -6087,7 +6085,7 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.13
 
-1. Indien een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland of buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut geen uitvoering geeft of kan geven aan [artikel 14a.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.12&z=2020-12-21&g=2020-12-21), meldt een beursgenoteerde betrokken partij dit aan Onze Minister.
+1. Indien een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland of buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut geen uitvoering geeft of kan geven aan [artikel 14a.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.12&z=2021-07-01&g=2021-07-01), meldt een beursgenoteerde betrokken partij dit aan Onze Minister.
 
 2. Onze Minister kan vaststellen wie als laatste de medewerking heeft verleend.
 
@@ -6097,11 +6095,11 @@ Van overwegende zeggenschap is sprake indien de houder of verkrijger van die zeg
 
 ##### Artikel 14a.14
 
-Overdracht van zeggenschap in strijd met een verbod op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), en [14a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), is nietig, tenzij deze plaatsvindt via een effectenbeurs.
+Overdracht van zeggenschap in strijd met een verbod op grond van [artikel 14a.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), en [14a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), is nietig, tenzij deze plaatsvindt via een effectenbeurs.
 
 ##### Artikel 14a.15
 
-De voordracht voor een krachtens de [artikelen 14a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.1&z=2020-12-21&g=2020-12-21), [14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2020-12-21&g=2020-12-21), [14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2020-12-21&g=2020-12-21), [14a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.11&z=2020-12-21&g=2020-12-21) of [14a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.12&z=2020-12-21&g=2020-12-21) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd, tenzij binnen deze termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven het onderwerp van de algemene maatregel van bestuur bij wet te regelen.
+De voordracht voor een krachtens de [artikelen 14a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.1&z=2021-07-01&g=2021-07-01), [14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.4&z=2021-07-01&g=2021-07-01), [14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.10&z=2021-07-01&g=2021-07-01), [14a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.11&z=2021-07-01&g=2021-07-01) of [14a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a&artikel=14a.12&z=2021-07-01&g=2021-07-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd, tenzij binnen deze termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven het onderwerp van de algemene maatregel van bestuur bij wet te regelen.
 
 ### Hoofdstuk 15. Handhaving
 
@@ -6179,7 +6177,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. In dit artikel wordt onder overeenkomst op afstand verstaan: overeenkomst die tussen een aanbieder van een openbare elektronische communicatiedienst en een eindgebruiker wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige persoonlijke aanwezigheid van aanbieder en eindgebruiker en waarbij, tot en met het moment van het sluiten van de overeenkomst, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand.
 
-2. De aanbieder deelt bij het gebruik van de telefoon met als doel het sluiten van een overeenkomst op afstand met een eindgebruiker aan het begin van het gesprek zijn identiteit en, voor zover van toepassing, de identiteit van de persoon namens wie hij opbelt, alsmede het commerciële doel van het gesprek mede. Een overeenkomst als bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.2a&z=2020-12-21&g=2020-12-21), die het gevolg is van dit gesprek, wordt schriftelijk aangegaan.
+2. De aanbieder deelt bij het gebruik van de telefoon met als doel het sluiten van een overeenkomst op afstand met een eindgebruiker aan het begin van het gesprek zijn identiteit en, voor zover van toepassing, de identiteit van de persoon namens wie hij opbelt, alsmede het commerciële doel van het gesprek mede. Een overeenkomst als bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&artikel=7.2a&z=2021-07-01&g=2021-07-01), die het gevolg is van dit gesprek, wordt schriftelijk aangegaan.
 
 ##### Artikel 7.2c
 
@@ -6247,7 +6245,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 20. Algemene overgangs- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21) van de Telecommunicatiewet
+## Bijlage. behorende bij [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01) van de Telecommunicatiewet
 
 In deze bijlage wordt verstaan onder:
 
@@ -6257,7 +6255,7 @@ In deze bijlage wordt verstaan onder:
 
 - c. celidentiteit (Cell ID): de unieke code van een cel van waaruit een mobiele telefoonoproep werd begonnen of beëindigd.
 
-In deze bijlage worden als gegevens, bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2020-12-21&g=2020-12-21) van de wet, aangewezen de volgende gegevens:
+In deze bijlage worden als gegevens, bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2a&z=2021-07-01&g=2021-07-01) van de wet, aangewezen de volgende gegevens:
 
 - A. Bij telefonie over een mobiel of een vast netwerk:
 
