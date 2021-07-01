@@ -4,7 +4,7 @@ identifier: "BWBR0039677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2018-10-12"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039677"
 soort: "ministeriele-regeling"
@@ -114,10 +114,62 @@ Een wijziging van de technische specificaties in bijlage II gaat voor de toepass
 
 1. Deze regeling treedt in werking op het tijdstip waarop het [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567) in werking treedt.
 
-2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2018-10-12&g=2018-10-12) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2018-10-12&g=2018-10-12), in werking met ingang van 12 oktober 2018.
+2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2021-07-01&g=2021-07-01) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2021-07-01&g=2021-07-01), in werking met ingang van 12 oktober 2018.
 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling technische eisen en gebruikersinformatie over de infrastructuur van alternatieve brandstoffen.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. De houder van een publiek toegankelijk oplaadpunt voor elektrische voertuigen stelt op een open, niet-discriminerende en eenvoudige wijze, rechtstreeks of via een derde partij, aan alle gebruikers de volgende gegevens ter beschikking:
+
+- a. statische gegevens, zijnde:
+
+- 1⁰:. de locatie van een oplaadpunt;
+
+- 2⁰:. het stroomtype;
+
+- 3⁰:. de laadsnelheden;
+
+- 4⁰:. de typen stekkers en contactdozen;
+
+- 5⁰:. de stroomleverancier;
+
+- 6⁰:. het geleverde stroomproduct;
+
+- 7⁰:. het percentage van de bij het oplaadpunt en oplaadtarief geleverde stroom dat is opgewekt uit hernieuwbare en fossiele bronnen;
+
+- 8⁰:. de openingstijden;
+
+- 9⁰:. de betaalmethoden;
+
+- 10⁰:. de contactinformatie van de houder;
+
+- 11⁰:. de volledige ID-code van het oplaadpunt; en
+
+- b. dynamische gegevens, zijnde:
+
+- 1⁰:. de actuele toegankelijkheid en bezettingsstatus van een laadpunt;
+
+- 2⁰:. de actueel gehanteerde ad-hoc prijs of gegevens die nodig zijn om de ad-hoc prijs voor een oplaadsessie te berekenen.
+
+2. Onverminderd het eerste lid zorgt de houder van een oplaadpunt, rechtstreeks of via een derde partij, dat de online vindplaats van een directe koppeling naar de gegevens, bedoeld in het eerste lid, inclusief een beschrijving van de metagegevens en gestelde voorwaarden aan de toegang tot en het gebruik van de gegevens, voor professionele gebruikers kenbaar wordt gemaakt op het Nationaal Toegangspunt ITS.
+
+3. Onverminderd het eerste lid, worden de gegevens, bedoeld in het eerste lid, voor professionele gebruikers beschikbaar gesteld in open dataformats en via open data-uitwisselingsprotocollen.
+
+4. Wijzigingen van de gegevens, bedoeld in het eerste lid, sub a, worden binnen een dag bekendgemaakt aan gebruikers en wijzigingen van de gegevens, bedoeld in het eerste lid, sub b, binnen een minuut.
+
+5. Dit artikel is niet van toepassing op de houder van een publiek toegankelijk oplaadpunt op een privéterrein, indien:
+
+- a. de houder geen professionele exploitant is, met beschikking over systemen voor digitale gegevensuitwisseling over oplaadpunten;
+
+- b. de eigenaar van het laadpunt op het privéterrein niet instemt met het ter beschikking stellen van de gegevens over het oplaadpunt, bedoeld in het eerste lid, of
+
+- c. het oplaadpunt is gelegen op het privéterrein bij een woning.
+
+6. Het eerste lid, sub a, onderdelen 5, 6 en 7, is niet van toepassing op de houder van een publiek toegankelijk oplaadpunt op een privéterrein.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
