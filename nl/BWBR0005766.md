@@ -4,7 +4,7 @@ identifier: "BWBR0005766"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2020-02-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005766"
 soort: "wet"
@@ -76,7 +76,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2020-02-01&g=2020-02-01).
+1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2021-07-01&g=2021-07-01).
 
 2. Overigens kunnen de aan een Markham-winningsvergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan een zodanige vergunning worden verbonden, voor zover dat noodzakelijk is ter uitvoering van de artikelen 10, 11, 13, 14, 15, 16, 17, en 19 van de Markham-overeenkomst of EU-regelgeving.
 
@@ -99,8 +99,6 @@ Vervallen
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
-
-3. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het betreft het verlenen van medewerking aan een krachtens het eerste lid aangewezen ambtenaar.
 
 ##### Artikel 8
 
