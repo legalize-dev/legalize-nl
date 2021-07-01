@@ -4,7 +4,7 @@ identifier: "BWBR0006803"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-19"
-last_updated: "2018-10-16"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006803"
 soort: "wet"
@@ -106,7 +106,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **verordening (EG) nr. 765/2008:** Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/9 (PbEG 2008, L 218);
 
-- **vertegenwoordiger** in de Europese Unie gevestigde natuurlijk of rechtspersoon die bij schriftelijke overeenkomst door een fabrikant is aangesteld om namens hem specifieke taken als bedoeld in [artikel 2h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2h&z=2018-10-16&g=2018-10-16), te vervullen.
+- **vertegenwoordiger** in de Europese Unie gevestigde natuurlijk of rechtspersoon die bij schriftelijke overeenkomst door een fabrikant is aangesteld om namens hem specifieke taken als bedoeld in [artikel 2h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2h&z=2021-07-01&g=2021-07-01), te vervullen.
 
 ##### Artikel 2
 
@@ -118,7 +118,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. munitie als bedoeld in [artikel 1, eerste lid, onder 4°, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=1);
 
-2. De [artikelen 3, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=1&artikel=3&z=2018-10-16&g=2018-10-16), en [21, tweede lid, onderdeel a tot en met f, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2018-10-16&g=2018-10-16), zijn niet van toepassing op bijzondere explosieven.
+2. De [artikelen 3, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), en [21, tweede lid, onderdeel a tot en met f, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2021-07-01&g=2021-07-01), zijn niet van toepassing op bijzondere explosieven.
 
 3. Een wijziging van de in het eerste lid genoemde richtlijn met gevolgen voor de daarbij als zodanig aangewezen pyrotechnische artikelen gaat voor de toepassing van deze wet en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -134,7 +134,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. die niet zijn voorzien van de CE-markering;
 
-- c. die niet overeenkomstig de procedures, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-10-16&g=2018-10-16), op hun conformiteit zijn beoordeeld,en
+- c. die niet overeenkomstig de procedures, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01), op hun conformiteit zijn beoordeeld,en
 
 - d. die niet zijn gemarkeerd met een unieke identificatie als bedoeld in de bijlage van richtlijn 2008/43/EG van de Commissie van 4 april 2008 tot instelling van een systeem voor de identificatie en de traceerbaarheid van explosieven voor civiel gebruik overeenkomstig richtlijn 93/15/EEG van de Raad (PbEG L 94).
 
@@ -156,13 +156,13 @@ Explosieven die in overeenstemming zijn met geharmoniseerde normen of delen daar
 
 1. Onze Minister kan een of meer keuringsinstellingen aanwijzen die bevoegd zijn tot het verrichten van keuringsprocedures. Onze Minister meldt de aangewezen keuringsinstelling aan overeenkomstig artikel 24 van richtlijn 2014/28/EU.
 
-2. Alvorens te worden aangewezen voldoet een keuringsinstelling aan de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16).
+2. Alvorens te worden aangewezen voldoet een keuringsinstelling aan de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01).
 
-3. Aan een aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16).
+3. Aan een aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 6
 
-Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen, zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-10-16&g=2018-10-16), bedoelde procedures, worden mede aangemerkt instellingen die in het kader van richtlijn 2014/28/EU door andere lid-staten van de Europese Unie of andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte zijn aangemeld en waarvan de namen door de Commissie van de Europese Unie zijn bekendgemaakt.
+Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen, zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01), bedoelde procedures, worden mede aangemerkt instellingen die in het kader van richtlijn 2014/28/EU door andere lid-staten van de Europese Unie of andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte zijn aangemeld en waarvan de namen door de Commissie van de Europese Unie zijn bekendgemaakt.
 
 #### § 3. Typekeuring alsmede controle op explosieven en fabricageprocessen
 
@@ -186,7 +186,7 @@ De fabrikant kiest een van de navolgende keuringsprocedures uit bijlage III bij 
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=31&z=2018-10-16&g=2018-10-16), is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de voorschriften, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-10-16&g=2018-10-16) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7a&z=2018-10-16&g=2018-10-16), jegens de fabrikant, diens in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die verantwoordelijk is voor het in de handel brengen van de desbetreffende explosieven.
+1. Onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=31&z=2021-07-01&g=2021-07-01), is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de voorschriften, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7a&z=2021-07-01&g=2021-07-01), jegens de fabrikant, diens in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die verantwoordelijk is voor het in de handel brengen van de desbetreffende explosieven.
 
 2. Tot de bevoegdheid tot toepassing van bestuursdwang behoort:
 
@@ -198,7 +198,7 @@ De fabrikant kiest een van de navolgende keuringsprocedures uit bijlage III bij 
 
 ##### Artikel 9
 
-Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=4&artikel=8&z=2018-10-16&g=2018-10-16) met betrekking tot explosieven waarop de CE-markering is aangebracht en die overeenkomstig hun bestemming worden gebruikt, indien deze explosieven naar zijn oordeel de veiligheid in gevaar kunnen brengen.
+Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01) met betrekking tot explosieven waarop de CE-markering is aangebracht en die overeenkomstig hun bestemming worden gebruikt, indien deze explosieven naar zijn oordeel de veiligheid in gevaar kunnen brengen.
 
 ### Hoofdstuk III. Overbrenging van explosieven
 
@@ -216,13 +216,13 @@ Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wett
 
 ##### Artikel 11
 
-1. Een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2018-10-16&g=2018-10-16) dient te worden aangevraagd door de verkrijger van de over te brengen explosieven bij burgemeester en wethouders van de gemeente waarin de overbrenging eindigt. De aanvrager voegt bij zijn aanvrage de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens.
+1. Een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01) dient te worden aangevraagd door de verkrijger van de over te brengen explosieven bij burgemeester en wethouders van de gemeente waarin de overbrenging eindigt. De aanvrager voegt bij zijn aanvrage de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens.
 
 2. Burgemeester en wethouders gaan aan de hand van de in het eerste lid bedoelde gegevens na of:
 
 - a. voor overbrengingen waarvoor vergunning wordt aangevraagd specifieke beveiligingseisen gelden of nodig zijn en
 
-- b. degene voor wie de explosieven bestemd zijn houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2018-10-16&g=2018-10-16).
+- b. degene voor wie de explosieven bestemd zijn houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2021-07-01&g=2021-07-01).
 
 3. Indien naar het oordeel van burgemeester en wethouders geen specifieke beveiligingseisen gelden:
 
@@ -240,15 +240,15 @@ Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wett
 
 Indien naar het oordeel van burgemeester en wethouders met betrekking tot overbrenging bijzondere beveiligingseisen gelden of nodig zijn:
 
-- a. bevat een vergunning als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2018-10-16&g=2018-10-16), de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens; en
+- a. bevat een vergunning als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens; en
 
 - b. dient voordat wordt aangevangen met een overbrenging waarvoor vergunning is verleend, aan burgemeester en wethouders van die overbrenging kennisgeving te worden gedaan.
 
 ##### Artikel 13
 
-1. In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2018-10-16&g=2018-10-16), dient een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2018-10-16&g=2018-10-16), voor het overbrengen van explosieven ten behoeve van de mijnbouw waarop de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) van toepassing is, te worden aangevraagd bij Onze Minister van Economische Zaken, Landbouw en Innovatie. De aanvrager voegt bij zijn aanvrage de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens.
+1. In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), dient een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), voor het overbrengen van explosieven ten behoeve van de mijnbouw waarop de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) van toepassing is, te worden aangevraagd bij Onze Minister van Economische Zaken, Landbouw en Innovatie. De aanvrager voegt bij zijn aanvrage de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens.
 
-2. De [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2018-10-16&g=2018-10-16), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2018-10-16&g=2018-10-16) zijn van toepassing, met dien verstande dat Onze Minister van Economische Zaken in de plaats treedt van burgemeester en wethouders.
+2. De [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2021-07-01&g=2021-07-01) zijn van toepassing, met dien verstande dat Onze Minister van Economische Zaken in de plaats treedt van burgemeester en wethouders.
 
 ##### Artikel 14
 
@@ -256,7 +256,7 @@ De houder van een in Nederland afgegeven vergunning of van een in een andere lid
 
 ##### Artikel 15
 
-1. De toestemming, bedoeld in [artikel 10, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2018-10-16&g=2018-10-16), dient te worden aangevraagd door de voor de overbrenging verantwoordelijke persoon. Deze voegt bij zijn aanvraag de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens. De toestemming wordt verleend door Onze Minister.
+1. De toestemming, bedoeld in [artikel 10, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), dient te worden aangevraagd door de voor de overbrenging verantwoordelijke persoon. Deze voegt bij zijn aanvraag de in artikel 11, vijfde lid, eerste alinea, van richtlijn 2014/28/EU bedoelde gegevens. De toestemming wordt verleend door Onze Minister.
 
 2. De gegevens, genoemd in artikel 11, vijfde lid, onderdeel a, van richtlijn 2014/28/EU zijn voldoende gedetailleerd om het voor Onze Minister mogelijk te maken om:
 
@@ -268,15 +268,15 @@ De houder van een in Nederland afgegeven vergunning of van een in een andere lid
 
 4. Onze Minister kan regels stellen met betrekking tot het melden van de overbrenging van explosieven.
 
-5. De [artikelen 11, tweede lid, onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2018-10-16&g=2018-10-16), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2018-10-16&g=2018-10-16) zijn van overeenkomstige toepassing.
+5. De [artikelen 11, tweede lid, onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
-6. Op een wijziging van de in het tweede lid genoemde beschikking is [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2018-10-16&g=2018-10-16), van overeenkomstige toepassing.
+6. Op een wijziging van de in het tweede lid genoemde beschikking is [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
 
 #### § 2. Gegevensverstrekking
 
 ##### Artikel 16
 
-Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector explosieven zenden op verzoek van burgemeester en wethouders van gemeenten waarin overbrengingen van explosieven eindigen onderscheidenlijk, indien het een overbrenging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=13&z=2018-10-16&g=2018-10-16) betreft, op verzoek van Onze Minister van Economische Zaken, Landbouw en Innovatie, de bevoegde autoriteit van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte waar de overbrengingen aanvangen onderscheidenlijk de bevoegde autoriteit van de lid-staat over welk grondgebied de overbrenging plaatsvindt de te hunner beschikking staande relevante gegevens toe over de overbrengingen.
+Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector explosieven zenden op verzoek van burgemeester en wethouders van gemeenten waarin overbrengingen van explosieven eindigen onderscheidenlijk, indien het een overbrenging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01) betreft, op verzoek van Onze Minister van Economische Zaken, Landbouw en Innovatie, de bevoegde autoriteit van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte waar de overbrengingen aanvangen onderscheidenlijk de bevoegde autoriteit van de lid-staat over welk grondgebied de overbrenging plaatsvindt de te hunner beschikking staande relevante gegevens toe over de overbrengingen.
 
 #### § 3. Erkenning
 
@@ -290,7 +290,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 ##### Artikel 18
 
-1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2018-10-16&g=2018-10-16) dient te worden aangevraagd bij de korpschef.
+1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2021-07-01&g=2021-07-01) dient te worden aangevraagd bij de korpschef.
 
 2. De korpschef is bevoegd tot het verlenen en intrekken van een erkenning, alsmede tot het verlengen van de geldigheidsduur daarvan.
 
@@ -298,7 +298,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 ##### Artikel 19
 
-1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2018-10-16&g=2018-10-16) wordt verleend, indien:
+1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2021-07-01&g=2021-07-01) wordt verleend, indien:
 
 - a. de aanvrager de door Onze Minister vastgestelde gegevens heeft overgelegd;
 
@@ -314,7 +314,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 Een erkenning kan worden ingetrokken, indien:
 
-- a. niet wordt voldaan aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2018-10-16&g=2018-10-16);
+- a. niet wordt voldaan aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2021-07-01&g=2021-07-01);
 
 - b. blijkt dat aan de houder van een erkenning of, indien deze een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf, het onder zich hebben van explosieven niet langer kan worden toevertrouwd, of
 
@@ -326,7 +326,7 @@ Een erkenning kan worden ingetrokken, indien:
 
 1. Ondernemingen uit de sector explosieven houden een doorlopend register van hun transacties in explosieven bij, onverlet de bij of krachtens andere wettelijk regelingen gestelde voorschriften.
 
-2. De registratie dient zodanig te zijn opgezet dat ondernemingen uit de sector explosieven de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=22&z=2018-10-16&g=2018-10-16), bedoelde personen te allen tijde ten minste de volgende gegevens kunnen verstrekken:
+2. De registratie dient zodanig te zijn opgezet dat ondernemingen uit de sector explosieven de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=22&z=2021-07-01&g=2021-07-01), bedoelde personen te allen tijde ten minste de volgende gegevens kunnen verstrekken:
 
 - a. de unieke identificatie van de explosieven;
 
@@ -428,7 +428,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Met het toezicht op de uitvoering en de handhaving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
 3. Onze Minister kan bij ministeriële regeling bepalen dat bestuursorganen die met de uitvoering of de handhaving van het bij of krachtens deze wet bepaalde zijn belast, daarbij aan te geven gegevens verstrekken aan de krachtens het eerste lid aangewezen ambtenaren. Bij de regeling kunnen regels worden gesteld met betrekking tot het tijdstip waarop, de frequentie waarmee en de vorm waarin de gegevens worden verstrekt. Tevens kan bij de regeling worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven gevallen.
 
@@ -456,7 +456,7 @@ De fabrikant waarborgt dat explosieven ontworpen en vervaardigd worden overeenko
 
 ##### Artikel 2b
 
-1. De fabrikant stelt de technische documentatie, genoemd in bijlage III bij richtlijn 2014/28/EU op en laat de toepasselijke keuringsprocedure, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-10-16&g=2018-10-16), uitvoeren.
+1. De fabrikant stelt de technische documentatie, genoemd in bijlage III bij richtlijn 2014/28/EU op en laat de toepasselijke keuringsprocedure, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01), uitvoeren.
 
 2. Wanneer met de keuringsprocedure is aangetoond dat het explosief aan de toepasselijke essentiële veiligheidseisen voldoet, stelt de fabrikant een EU-conformiteitsverklaring op en brengt hij de CE-markering aan.
 
@@ -502,7 +502,7 @@ De fabrikant die van mening is of redenen heeft om aan te nemen dat een door hem
 
 1. De fabrikant kan bij schriftelijke overeenkomst een vertegenwoordiger aanstellen.
 
-2. De verplichting, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2a&z=2018-10-16&g=2018-10-16) en de verplichting betreffende het opstellen van technische documentatie, genoemd in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2b&z=2018-10-16&g=2018-10-16), maken geen deel uit van de overeenkomst, bedoeld in het eerste lid.
+2. De verplichting, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2a&z=2021-07-01&g=2021-07-01) en de verplichting betreffende het opstellen van technische documentatie, genoemd in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2b&z=2021-07-01&g=2021-07-01), maken geen deel uit van de overeenkomst, bedoeld in het eerste lid.
 
 3. De vertegenwoordiger voert de taken uit zoals die gespecificeerd zijn in de overeenkomst, bedoeld in het eerste lid.
 
@@ -516,7 +516,7 @@ De fabrikant die van mening is of redenen heeft om aan te nemen dat een door hem
 
 ##### Artikel 2i
 
-Indien een importeur of distributeur explosieven onder zijn eigen naam of merknaam in de handel brengt, of reeds in de handel gebrachte explosieven zodanig wijzigt dat de conformiteit met de essentiële veiligheidseisen in gedrang komt, wordt hij als fabrikant beschouwd en voldoet hij aan de [artikelen 2a tot en met 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2a&z=2018-10-16&g=2018-10-16).
+Indien een importeur of distributeur explosieven onder zijn eigen naam of merknaam in de handel brengt, of reeds in de handel gebrachte explosieven zodanig wijzigt dat de conformiteit met de essentiële veiligheidseisen in gedrang komt, wordt hij als fabrikant beschouwd en voldoet hij aan de [artikelen 2a tot en met 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2a&z=2021-07-01&g=2021-07-01).
 
 #### § 2. Verplichtingen van de importeur
 
@@ -534,7 +534,7 @@ Alvorens een explosief in de handel wordt gebracht:
 
 - c. zorgt de importeur ervoor dat het explosief voorzien is van een CE-markering en vergezeld gaat van de voorgeschreven documenten; en
 
-- d. zorgt de importeur ervoor dat de fabrikant aan de eisen, bedoeld in [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2d&z=2018-10-16&g=2018-10-16), heeft voldaan.
+- d. zorgt de importeur ervoor dat de fabrikant aan de eisen, bedoeld in [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2d&z=2021-07-01&g=2021-07-01), heeft voldaan.
 
 ##### Artikel 2l
 
@@ -592,7 +592,7 @@ Alvorens een explosief op de markt aan te bieden, controleert de distributeur:
 
 - b. of het explosief vergezeld gaat van de voorgeschreven documenten, alsmede van instructies en informatie aangaande de veiligheid, gesteld in de Nederlandse of Engelse taal; en
 
-- c. of de fabrikant en de importeur aan de verplichtingen ingevolge de [artikelen 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2d&z=2018-10-16&g=2018-10-16) en [2m](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=2&artikel=2m&z=2018-10-16&g=2018-10-16) hebben voldaan.
+- c. of de fabrikant en de importeur aan de verplichtingen ingevolge de [artikelen 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=1&artikel=2d&z=2021-07-01&g=2021-07-01) en [2m](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Ia&paragraaf=2&artikel=2m&z=2021-07-01&g=2021-07-01) hebben voldaan.
 
 ##### Artikel 2u
 
@@ -632,7 +632,7 @@ De distributeur die van mening is of redenen heeft om aan te nemen dat een door 
 
 ##### Artikel 5a
 
-1. Een keuringsinstelling die wenst te worden aangewezen in de zin van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-10-16&g=2018-10-16), dient een verzoek tot aanwijzing in bij Onze Minister.
+1. Een keuringsinstelling die wenst te worden aangewezen in de zin van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-07-01&g=2021-07-01), dient een verzoek tot aanwijzing in bij Onze Minister.
 
 2. Het verzoek tot aanwijzing gaat vergezeld van:
 
@@ -640,11 +640,11 @@ De distributeur die van mening is of redenen heeft om aan te nemen dat een door 
 
 - b. een beschrijving van de explosieven waarvoor de keuringsinstelling verklaart bekwaam te zijn; en
 
-- c. het accreditatiecertificaat dat is afgegeven door een nationale accreditatie-instantie als bedoeld in richtlijn 2014/28/EU, waarin wordt verklaard dat de keuringsinstelling voldoet aan de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16).
+- c. het accreditatiecertificaat dat is afgegeven door een nationale accreditatie-instantie als bedoeld in richtlijn 2014/28/EU, waarin wordt verklaard dat de keuringsinstelling voldoet aan de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 5b
 
-Een keuringsinstelling kan uitsluitend worden aangewezen in de zin van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-10-16&g=2018-10-16), indien zij beschikt over rechtspersoonlijkheid.
+Een keuringsinstelling kan uitsluitend worden aangewezen in de zin van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-07-01&g=2021-07-01), indien zij beschikt over rechtspersoonlijkheid.
 
 ##### Artikel 5c
 
@@ -718,19 +718,19 @@ De keuringsinstelling heeft een geldige aansprakelijkheidsverzekering.
 
 ##### Artikel 5k
 
-1. De keuringsinstelling neemt deel aan de werkzaamheden van de coördinatiegroep van aangemelde instanties, genoemd in [artikel 5j, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5j&z=2018-10-16&g=2018-10-16).
+1. De keuringsinstelling neemt deel aan de werkzaamheden van de coördinatiegroep van aangemelde instanties, genoemd in [artikel 5j, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5j&z=2021-07-01&g=2021-07-01).
 
 2. Indien de keuringsinstelling niet rechtstreeks deelneemt aan de werkzaamheden, bedoeld in het eerste lid, laat zij zich daarbij vertegenwoordigen door een door haar aangestelde partij.
 
 ##### Artikel 5l
 
-Een keuringsinstelling die aantoont dat zij voldoet aan de criteria in de ter zake doende geharmoniseerde normen of delen ervan en waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in [artikel 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16) te voldoen, voor zover deze daarmee corresponderen.
+Een keuringsinstelling die aantoont dat zij voldoet aan de criteria in de ter zake doende geharmoniseerde normen of delen ervan en waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in [artikel 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01) te voldoen, voor zover deze daarmee corresponderen.
 
 ##### Artikel 5m
 
 1. Indien de keuringsinstelling specifieke keuringstaken uitbesteedt of door een dochteronderneming laat uitvoeren:
 
-- a. waarborgt zij dat de onderaannemer of dochteronderneming voldoet aan de eisen, genoemd in de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16);
+- a. waarborgt zij dat de onderaannemer of dochteronderneming voldoet aan de eisen, genoemd in de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01);
 
 - b. brengt zij Onze Minister hiervan op de hoogte;
 
@@ -754,7 +754,7 @@ Een keuringsinstelling die aantoont dat zij voldoet aan de criteria in de ter za
 
 ##### Artikel 5o
 
-1. Indien is gebleken dat de keuringsinstelling niet langer voldoet aan de eisen, genoemd in de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2018-10-16&g=2018-10-16), of haar verplichtingen niet nakomt, kan Onze Minister, afhankelijk van de ernst van het niet-voldoen aan die eisen of het niet-nakomen van die verplichtingen, de aanwijzing beperken, schorsen of intrekken.
+1. Indien is gebleken dat de keuringsinstelling niet langer voldoet aan de eisen, genoemd in de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=2&artikel=5b&z=2021-07-01&g=2021-07-01), of haar verplichtingen niet nakomt, kan Onze Minister, afhankelijk van de ernst van het niet-voldoen aan die eisen of het niet-nakomen van die verplichtingen, de aanwijzing beperken, schorsen of intrekken.
 
 2. Onze Minister stelt de Europese Commissie en de andere lidstaten van de Europese Unie onmiddellijk op de hoogte van de genomen maatregelen, genoemd in het eerste lid.
 
@@ -860,7 +860,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 33c
 
-Bij veroordeling wegens een der misdrijven omschreven in [artikel 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Va&artikel=33b&z=2018-10-16&g=2018-10-16) kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in [artikel 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=Va&artikel=33b&z=2021-07-01&g=2021-07-01) kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
