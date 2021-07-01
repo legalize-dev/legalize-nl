@@ -4,7 +4,7 @@ identifier: "BWBR0034829"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2021-04-30"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034829"
 soort: "AMvB"
@@ -80,6 +80,8 @@ Hebben goedgevonden en verstaan:
 
 3. Bij ministeriële regeling wordt de vergoeding vastgesteld die verschuldigd is voor overzichten van ondernemingen of rechtspersonen. De vergoeding wordt vastgesteld onderscheiden naar het aantal en de soort gegevens.
 
+4. Bij ministeriële regeling worden de vergoeding voor de eenmalige uitgifte en een jaarlijkse vergoeding vastgesteld die verschuldigd zijn voor de door de Kamer uitgegeven identificatiecode voor juridische entiteiten (Legal Entity Identifier), bedoeld in de [artikelen 9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [12, onderdeel e, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=12).
+
 5. De vergoeding voor de inzage of de verstrekking van gegevens door middel van een abonnement, bedoeld in [artikel 50, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50), geldt voor een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), dat bij de vervulling van zijn taak informatie over een onderneming of rechtspersoon nodig heeft en bij de Kamer heeft aangegeven gebruik te willen maken van betaling door middel van een abonnement.
 
 6. Het abonnement geldt uitsluitend voor een bij ministeriële regeling te bepalen wijze van inzien of verstrekking van gegevens. Hieronder worden in ieder geval begrepen de wijze van inzien of verstrekking, bedoeld in het eerste lid, onderdelen b en d, en het tweede lid, onderdeel e, voor zover de ontwikkelkosten daarvan zijn terugverdiend en het inzien of de verstrekking niet leidt tot aanvullende kosten voor de Kamer.
@@ -96,11 +98,13 @@ Hebben goedgevonden en verstaan:
 
 2. Indien de opgave ter eerste inschrijving in het handelsregister wordt ingediend via een notaris, wordt de betalingstermijn, bedoeld in [artikel 49, vijfde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=49) vastgesteld op vier weken, gerekend vanaf de dag van de opgave tot eerste inschrijving.
 
-3. De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50), is gelijk aan de termijn voor de levering van de dienst, genoemd in [artikel 2, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-04-30&g=2021-04-30), en het tweede lid.
+3. De betalingstermijn, bedoeld in [artikel 50, vijfde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50), is gelijk aan de termijn voor de levering van de dienst, genoemd in [artikel 2, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-07-01&g=2021-07-01), en het tweede lid.
 
-4. De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50) wordt vastgesteld op vier weken voor de diensten en producten, genoemd in [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-04-30&g=2021-04-30), en het derde lid.
+4. De betalingstermijn, bedoeld in [artikel 50, vijfde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50) wordt vastgesteld op vier weken voor de diensten en producten, genoemd in [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-07-01&g=2021-07-01), en het derde lid.
 
-6. De vergoeding, bedoeld in [artikel 50, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50) wordt voldaan uiterlijk 1 november van het jaar voorafgaand aan het jaar van levering van de diensten en producten, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-04-30&g=2021-04-30), bij gebreke waarvan de vergoeding voor de levering plaatsvindt zoals vastgesteld op grond van artikel 2, eerste tot en met derde lid.
+5. De betalingstermijn, bedoeld in [artikel 50b, derde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50b) wordt vastgesteld op vier weken.
+
+6. De vergoeding, bedoeld in [artikel 50, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=50) wordt voldaan uiterlijk 1 november van het jaar voorafgaand aan het jaar van levering van de diensten en producten, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2&z=2021-07-01&g=2021-07-01), bij gebreke waarvan de vergoeding voor de levering plaatsvindt zoals vastgesteld op grond van artikel 2, eerste tot en met derde lid.
 
 ##### Artikel 4
 
