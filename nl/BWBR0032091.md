@@ -4,7 +4,7 @@ identifier: "BWBR0032091"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2012-10-16"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032091"
 soort: "wet"
@@ -72,11 +72,13 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Op de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032091&artikel=2&z=2012-10-16&g=2012-10-16), bedoelde functionarissen zijn de [artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) van overeenkomstige toepassing.
+1. Op de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032091&artikel=2&z=2021-07-01&g=2021-07-01), bedoelde functionarissen zijn de [artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) van overeenkomstige toepassing.
 
-2. De [artikelen 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+2. De [artikelen 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
-3. Een functionaris als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032091&artikel=2&z=2012-10-16&g=2012-10-16), toont desgevraagd een geldig identiteitsbewijs en een document waarin zijn hoedanigheid wordt vermeld.
+3. Een functionaris als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032091&artikel=2&z=2021-07-01&g=2021-07-01), toont desgevraagd een geldig identiteitsbewijs en een document waarin zijn hoedanigheid wordt vermeld.
+
+4. Onze Minister die het aangaat is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het eerste lid bedoelde functionarissen.
 
 ##### Artikel 4
 
