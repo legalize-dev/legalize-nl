@@ -4,7 +4,7 @@ identifier: "BWBR0028506"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-08-01"
-last_updated: "2015-08-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028506"
 soort: "wet-BES"
@@ -44,25 +44,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 **deelnemer:** de voortijdig schoolverlater die aan het voor hem vastgesteld sociaal kanstraject deelneemt;
 
-**deelnemersregister:** het register, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=6&z=2015-08-01&g=2015-08-01);
+**deelnemersregister:** het register, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=6&z=2021-07-01&g=2021-07-01);
 
 **Inspectie:** de Inspectie van het onderwijs, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
 
-**kanstrajecttoelage**: een toelage als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2015-08-01&g=2015-08-01);
+**kanstrajecttoelage**: een toelage als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2021-07-01&g=2021-07-01);
 
 **Onze Minister**: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
 **openbaar lichaam:**het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-**projectbureau**: het bureau, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2015-08-01&g=2015-08-01);
+**projectbureau**: het bureau, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2021-07-01&g=2021-07-01);
 
-**raamplan sociale kanstrajecten**: een plan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=8&z=2015-08-01&g=2015-08-01);
+**raamplan sociale kanstrajecten**: een plan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=8&z=2021-07-01&g=2021-07-01);
 
-**sociaal kanstraject:** een sociaal kanstraject als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=9&z=2015-08-01&g=2015-08-01);
+**sociaal kanstraject:** een sociaal kanstraject als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=9&z=2021-07-01&g=2021-07-01);
 
 **startkwalificatie:** startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1);
 
-**uitvoeringsinstantie:** een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die wordt bekostigd voor de uitvoering van de taak, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2015-08-01&g=2015-08-01);
+**uitvoeringsinstantie:** een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die wordt bekostigd voor de uitvoering van de taak, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2021-07-01&g=2021-07-01);
 
 **voortijdig schoolverlater:** ingezetene van een openbaar lichaam, die:
 
@@ -114,7 +114,7 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 - d. het beheren van het deelnemersregister,
 
-- e. het nemen van een beschikking op een aanvraag voor een kanstrajecttoelage als bedoeld in [artikel 11, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2015-08-01&g=2015-08-01), en
+- e. het nemen van een beschikking op een aanvraag voor een kanstrajecttoelage als bedoeld in [artikel 11, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2021-07-01&g=2021-07-01), en
 
 - f. het houden van toezicht op de uitvoeringsinstantie.
 
@@ -134,13 +134,13 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 2. In het deelnemersregister worden vermeld:
 
-- a. de persoonsgegevens van de deelnemer, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2015-08-01&g=2015-08-01);
+- a. de persoonsgegevens van de deelnemer, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2021-07-01&g=2021-07-01);
 
 - b. de inhoud van het sociaal kanstraject van de deelnemer, alsmede de eventuele aangebrachte wijzigingen;
 
-- c. de door de deelnemer met succes afgeronde modules, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=9&z=2015-08-01&g=2015-08-01);
+- c. de door de deelnemer met succes afgeronde modules, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=9&z=2021-07-01&g=2021-07-01);
 
-- d. het behaalde certificaat of diploma, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=10&z=2015-08-01&g=2015-08-01); en
+- d. het behaalde certificaat of diploma, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=10&z=2021-07-01&g=2021-07-01); en
 
 - e. de doorverwijzing naar onderwijs of arbeidsmarkt.
 
@@ -148,7 +148,7 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 ##### Artikel 7. Gebruik register
 
-De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor de uitvoering en handhaving van deze wet en zijn als zodanig uitsluitend toegankelijk voor de uitvoeringsinstantie en de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=20&z=2015-08-01&g=2015-08-01) bedoelde toezichthouders, voor zover deze gegevens redelijkerwijs noodzakelijk zijn voor de vervulling van hun taak.
+De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor de uitvoering en handhaving van deze wet en zijn als zodanig uitsluitend toegankelijk voor de uitvoeringsinstantie en de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=20&z=2021-07-01&g=2021-07-01) bedoelde toezichthouders, voor zover deze gegevens redelijkerwijs noodzakelijk zijn voor de vervulling van hun taak.
 
 ##### Artikel 8. Raamplan sociale kanstrajecten
 
@@ -182,7 +182,7 @@ De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor
 
 ##### Artikel 9. Sociaal kanstraject
 
-1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2015-08-01&g=2015-08-01), stelt de uitvoeringsinstantie een op de individuele situatie afgestemd sociaal kanstraject voor de deelnemer vast.
+1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2021-07-01&g=2021-07-01), stelt de uitvoeringsinstantie een op de individuele situatie afgestemd sociaal kanstraject voor de deelnemer vast.
 
 2. Het sociaal kanstraject bestaat uit een of meerdere modulen die samengesteld zijn met het oog op:
 
@@ -248,7 +248,7 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 ##### Artikel 19. Terugvordering of verrekening middelen
 
-1. Bij het geheel of gedeeltelijk intrekken van de bijzondere uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=18&z=2015-08-01&g=2015-08-01) besluit Onze Minister tot:
+1. Bij het geheel of gedeeltelijk intrekken van de bijzondere uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=18&z=2021-07-01&g=2021-07-01) besluit Onze Minister tot:
 
 - a. het onmiddellijk terugvorderen van de middelen bij het desbetreffende openbaar lichaam, of
 
@@ -262,7 +262,9 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 2. Met het toezicht op de kwaliteit van de aangeboden kanstrajecten is de inspectie belast.
 
-3. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van toepassing.
+3. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van toepassing.
+
+4. Onze Minister is bevoegd tot toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van het toezicht, bedoeld in het eerste en tweede lid.
 
 ### Hoofdstuk 10. Strafbepalingen
 
@@ -474,7 +476,7 @@ Het bestuurscollege kan de vastgestelde bijdrage binnen een periode van vijf jaa
 
 ##### Artikel 18. Intrekking of wijziging bijzondere uitkering door Onze Minister
 
-Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17&z=2015-08-01&g=2015-08-01) aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop de kosten zijn vergoed, intrekken of ten nadele van een openbaar lichaam wijzigen:
+Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17&z=2021-07-01&g=2021-07-01) aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop de kosten zijn vergoed, intrekken of ten nadele van een openbaar lichaam wijzigen:
 
 - a. op grond van feiten of omstandigheden waarvan Onze Minister bij de vaststelling van de vergoeding redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de vergoeding lager zou zijn vastgesteld;
 
