@@ -4,7 +4,7 @@ identifier: "BWBR0028218"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2021-07-01"
-last_updated: "2012-07-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028218"
 soort: "wet-BES"
@@ -59,7 +59,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 3
 
-Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=2&z=2012-07-01&g=2012-07-01) bedoelde rijksbeleid richt zich op de volgende algemene doelstellingen:
+Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=2&z=2021-07-01&g=2021-07-01) bedoelde rijksbeleid richt zich op de volgende algemene doelstellingen:
 
 - a. er dient een zo gunstig mogelijk evenwicht te worden bewaard tussen de beschikbare ruimte en de daarop te bevorderen ontwikkeling, mede in het licht van de bevolkingsgroei waartoe deze zal leiden;
 
@@ -95,7 +95,7 @@ Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&
 
 ##### Artikel 7
 
-1. Met inachtneming van bij eilandsverordening te stellen regelen stellen de eilandsraden voor hun openbaar lichaam een of meer ontwikkelingsplannen vast, waarin de op langere termijn na te streven ontwikkeling van het daarin begrepen gebied wordt aangegeven. Bij deze plannen houden zij rekening met de algemene doelstellingen, vermeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=3&z=2012-07-01&g=2012-07-01), en, indien een ontwikkelingsprogramma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=4&z=2012-07-01&g=2012-07-01) is vastgesteld, met het ontwikkelingsprogramma.
+1. Met inachtneming van bij eilandsverordening te stellen regelen stellen de eilandsraden voor hun openbaar lichaam een of meer ontwikkelingsplannen vast, waarin de op langere termijn na te streven ontwikkeling van het daarin begrepen gebied wordt aangegeven. Bij deze plannen houden zij rekening met de algemene doelstellingen, vermeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), en, indien een ontwikkelingsprogramma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&artikel=4&z=2021-07-01&g=2021-07-01) is vastgesteld, met het ontwikkelingsprogramma.
 
 2. Een ontwikkelingsplan wordt bij eilandsverordening vastgesteld en bestaat uit:
 
@@ -103,7 +103,7 @@ Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&
 
 - b. een of meer kaarten (tekeningen) waarop de ontwikkeling wordt uitgebeeld, of welke de doeleinden, beleidsaspecten of richtlijnen van het ontwikkelingsplan toont;
 
-- c. zo nodig, bestemmingsvoorschriften als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2012-07-01&g=2012-07-01);
+- c. zo nodig, bestemmingsvoorschriften als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01);
 
 - d. een toelichting, tevens inhoudend een verslag van het aan het plan ten grondslag liggende onderzoek.
 
@@ -129,11 +129,11 @@ Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=II&
 
 2. Deze voorschriften worden vervat in een of meer afzonderlijke bestemmingskaarten met bijbehorende bepalingen.
 
-3. Met inachtneming van de bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), bedoelde eilandsverordening te stellen regelen, kunnen de bestemmingsvoorschriften beperkingen inhouden ten aanzien van het bouwen, het uitvoeren van deze werken of werkzaamheden in, op of boven de daarin begrepen grond en van het gebruik van die grond en de zich daarop bevindende opstallen.
+3. Met inachtneming van de bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), bedoelde eilandsverordening te stellen regelen, kunnen de bestemmingsvoorschriften beperkingen inhouden ten aanzien van het bouwen, het uitvoeren van deze werken of werkzaamheden in, op of boven de daarin begrepen grond en van het gebruik van die grond en de zich daarop bevindende opstallen.
 
 ##### Artikel 10
 
-Ten aanzien van beschermde stads- en dorpsgezichten als bedoeld in [artikel 1 van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1) kunnen de bestemmingsvoorschriften volgens regelen bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), bedoelde eilandsverordening te stellen, beperkingen inhouden ten aanzien van het bouwen en slopen en het uitvoeren van andere wijzigingen in het uiterlijk aanzien van de daarin begrepen stads- en dorpsgedeelten.
+Ten aanzien van beschermde stads- en dorpsgezichten als bedoeld in [artikel 1 van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1) kunnen de bestemmingsvoorschriften volgens regelen bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), bedoelde eilandsverordening te stellen, beperkingen inhouden ten aanzien van het bouwen en slopen en het uitvoeren van andere wijzigingen in het uiterlijk aanzien van de daarin begrepen stads- en dorpsgedeelten.
 
 ##### Artikel 11
 
@@ -141,13 +141,13 @@ In het belang van een goede uitvoering van het ontwikkelingsplan kan de eilandsr
 
 ##### Artikel 12
 
-1. Met inachtneming van de bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), bedoelde eilandsverordening te stellen regelen, kan het bestuurscollege verklaren, dat een ontwikkelingsplan met bestemmingsvoorschriften in voorbereiding is. Een zodanig besluit van het bestuurscollege, hierna aan te duiden als voorbereidingsbesluit, wordt na de vaststelling onverwijld medegedeeld aan de eilandsraad.
+1. Met inachtneming van de bij de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), bedoelde eilandsverordening te stellen regelen, kan het bestuurscollege verklaren, dat een ontwikkelingsplan met bestemmingsvoorschriften in voorbereiding is. Een zodanig besluit van het bestuurscollege, hierna aan te duiden als voorbereidingsbesluit, wordt na de vaststelling onverwijld medegedeeld aan de eilandsraad.
 
-2. Het bepaalde in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2012-07-01&g=2012-07-01), en in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=10&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing op het voorbereidingsbesluit.
+2. Het bepaalde in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01), en in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=10&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op het voorbereidingsbesluit.
 
 ##### Artikel 13
 
-1. Onder de regelen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2012-07-01&g=2012-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=10&z=2012-07-01&g=2012-07-01), mogen niet ontbreken voorschriften met betrekking tot:
+1. Onder de regelen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=10&z=2021-07-01&g=2021-07-01), mogen niet ontbreken voorschriften met betrekking tot:
 
 - a. tijdige bekendmaking in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze en terinzagelegging van het ontwerp van het plan, tijdige kennisgeving van die bekendmaking en terinzagelegging aan de belanghebbenden in persoon en gelegenheid voor belanghebbenden tot het indienen van bezwaren bij de eilandsraad;
 
@@ -187,11 +187,11 @@ In het belang van een goede uitvoering van het ontwikkelingsplan kan de eilandsr
 
 1. Met het toezicht op de uitvoering en handhaving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-2. De aangewezen ambtenaren, bedoeld in het eerste lid, beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), met dien verstande dat in [artikel 5.16a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a) voor «identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1)» wordt gelezen: identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+2. De aangewezen ambtenaren, bedoeld in het eerste lid, beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), met dien verstande dat in [artikel 5.16a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a) voor «identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1)» wordt gelezen: identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
 ##### Artikel 17
 
-1. Indien de diensten van het Rijk, die betrokken zijn bij de zorg voor de ruimtelijke ordening, een bezwaar hebben ingediend met betrekking tot het ontwerp van het ontwikkelingsplan, dat met inachtneming van de eilandsverordening, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), ter inzage is gelegd, en dit bezwaar niet of niet volledig is overgenomen of indien het bestuurscollege bij de vaststelling van het ontwikkelingsplan daarin wijzigingen heeft aangebracht ten opzichte van het ontwerp, anders dan op grond van bezwaren van de diensten van het Rijk, kan Onze Minister, onverminderd andere aan hem toekomende bevoegdheden, binnen zes weken nadat het besluit tot vaststelling van het ontwikkelingsplan, dat met inachtneming van de eilandsverordening, bedoeld in artikel 7, ter inzage wordt gelegd en bekend wordt gemaakt, met betrekking tot het betreffende onderdeel of onderdelen van het vastgestelde ontwikkelingsplan een aanwijzing geven, ertoe strekkende dat dat onderdeel of die onderdelen geen deel uitmaakt of maken van het ontwikkelingsplan zoals dat is vastgesteld. Indien de aanwijzing het gehele plan betreft, strekt de aanwijzing ertoe dat het plan niet in werking treedt.
+1. Indien de diensten van het Rijk, die betrokken zijn bij de zorg voor de ruimtelijke ordening, een bezwaar hebben ingediend met betrekking tot het ontwerp van het ontwikkelingsplan, dat met inachtneming van de eilandsverordening, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), ter inzage is gelegd, en dit bezwaar niet of niet volledig is overgenomen of indien het bestuurscollege bij de vaststelling van het ontwikkelingsplan daarin wijzigingen heeft aangebracht ten opzichte van het ontwerp, anders dan op grond van bezwaren van de diensten van het Rijk, kan Onze Minister, onverminderd andere aan hem toekomende bevoegdheden, binnen zes weken nadat het besluit tot vaststelling van het ontwikkelingsplan, dat met inachtneming van de eilandsverordening, bedoeld in artikel 7, ter inzage wordt gelegd en bekend wordt gemaakt, met betrekking tot het betreffende onderdeel of onderdelen van het vastgestelde ontwikkelingsplan een aanwijzing geven, ertoe strekkende dat dat onderdeel of die onderdelen geen deel uitmaakt of maken van het ontwikkelingsplan zoals dat is vastgesteld. Indien de aanwijzing het gehele plan betreft, strekt de aanwijzing ertoe dat het plan niet in werking treedt.
 
 2. Indien de in het eerste lid bedoelde aanwijzing ziet op een onderdeel of onderdelen van een vastgesteld ontwikkelingsplan, wordt het besluit tot vaststelling van het ontwikkelingsplan met uitsluiting van dat onderdeel of die onderdelen, samen met het aanwijzingsbesluit en op gelijke wijze door de eilandsraad met het plan ter inzage gelegd en bekend gemaakt. De in het eerste lid genoemde termijn wordt hiertoe met een week verlengd.
 
@@ -203,7 +203,7 @@ In het belang van een goede uitvoering van het ontwikkelingsplan kan de eilandsr
 
 2. Er wordt niet overgegaan tot toepassing van het eerste lid, dan na overleg met de eilandsraad en niet eerder dan vier weken nadat de Tweede Kamer der Staten-Generaal in kennis is gesteld van het voornemen van het besluit.
 
-3. Bij de toepassing van het eerste lid kan Onze Minister tevens verklaren dat een ontwikkelingsplan als bedoeld in het eerste lid door de eilandsraad wordt voorbereid. Een door Onze Minister vastgesteld voorbereidingsbesluit wordt gelijkgesteld met een door het bestuurscollege vastgesteld voorbereidingsbesluit. Op het voorbereidingsbesluit is de procedure zoals voorgeschreven in de eilandsverordening, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing.
+3. Bij de toepassing van het eerste lid kan Onze Minister tevens verklaren dat een ontwikkelingsplan als bedoeld in het eerste lid door de eilandsraad wordt voorbereid. Een door Onze Minister vastgesteld voorbereidingsbesluit wordt gelijkgesteld met een door het bestuurscollege vastgesteld voorbereidingsbesluit. Op het voorbereidingsbesluit is de procedure zoals voorgeschreven in de eilandsverordening, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028218&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
 
 4. Tegen het aanwijzingsbesluit kunnen belanghebbenden binnen zes weken na de dag waarop dit besluit bekend is gemaakt beroep instellen bij het Gerecht in eerste aanleg van Bonaire, Sint-Eustatius en Saba.
 
