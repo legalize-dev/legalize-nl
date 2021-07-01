@@ -4,7 +4,7 @@ identifier: "BWBR0040482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040482"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-01-01&g=2021-01-01) bij deze regeling.
+De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
 ##### Artikel 3
 
@@ -90,7 +90,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 1. Bij de primaire controle vindt in ieder geval een beoordeling plaats van de adequate uitvoering van de volgende aspecten binnen de Organisatie:
 
-- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-01-01&g=2021-01-01), en
+- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01), en
 
 - b. de werking van de getroffen maatregelen en procedures.
 
@@ -98,7 +98,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - a. de inrichting en organisationele inbedding van en interne besluitvorming over de basisregistratie ondergrond,
 
-- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01),
+- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01),
 
 - c. de conformiteit en de continuïteit van de gebruikte in beheer en in ontwikkeling zijnde systemen,
 
@@ -106,7 +106,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - e. de verwerking van persoonsgegevens, en
 
-- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2021-01-01&g=2021-01-01).
+- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2021-07-01&g=2021-07-01).
 
 ##### Artikel 8
 
@@ -126,7 +126,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 4. De resultaten van de hercontrole worden in een hercontrolerapport vastgelegd.
 
-5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
+5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
 
 ### Hoofdstuk 4. Het bronhouderportaal
 
@@ -138,39 +138,35 @@ De Stichting ICTU wordt aangewezen als beheerder van het bronhouderportaal als b
 
 ##### Artikel 11
 
-De catalogus bestaat uit de onderdelen, opgenomen in:
+De catalogus bestaat uit de onderdelen:
 
-- a. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2021-01-01&g=2021-01-01) van deze regeling:
+- a. geotechnisch sondeeronderzoek, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 1°. geotechnisch sondeeronderzoek;
+- b. booronderzoek – bodemkundige boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 2°. booronderzoek bodemkundig boormonsterprofiel;
+- c. booronderzoek – geologische boormonsterbeschrijving, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 3°. booronderzoek geotechnische boormonsterbeschrijving;
+- d. booronderzoek – geotechnische boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=V&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 4°. booronderzoek geotechnische boormonsteranalyse;
+- e. wandonderzoek – bodemkundige wandbeschrijving en wandmonsteranalyse, opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 5°. wandonderzoek bodemkundige wandbeschrijving;
+- f. grondwatermonitoringput, opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VII&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 6°. grondwatermonitoringput;
+- g. grondwatermonitoringnet, opgenomen in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VIII&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 7°. bodemkaart;
+- h. grondwatersamenstellingsonderzoek, opgenomen in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IX&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 8°. geomorfologische kaart;
+- i. grondwaterstandsonderzoek, opgenomen in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=X&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 9°. hydrogeologisch model;
+- j. bodemkaart, opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XI&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 10°. GeoTop;
+- k. geomorfologische kaart, opgenomen in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XII&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 11°. digitaal geologisch model;
+- l. hydrogeologisch model, opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIII&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- b. [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2021-01-01&g=2021-01-01) bij deze regeling:
+- m. GeoTop, opgenomen in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIV&z=2021-07-01&g=2021-07-01) bij deze regeling;
 
-- 1°. grondwatermonitoringnet;
-
-- 2°. grondwatersamenstellingsonderzoek;
-
-- 3°. grondwaterstandsonderzoek.
+- n. digitaal geologisch model, opgenomen in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XV&z=2021-07-01&g=2021-07-01) bij deze regeling.
 
 ### Hoofdstuk 6. Inzage in en verstrekking van gegevens
 
@@ -210,7 +206,7 @@ De catalogus bestaat uit de onderdelen, opgenomen in:
 
 ##### Artikel 15
 
-Voor zover in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-01-01&g=2021-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2021-01-01&g=2021-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2021-01-01&g=2021-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
+Voor zover in de [bijlagen I tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2021-07-01&g=2021-07-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
 ##### Artikel 16
 
@@ -272,7 +268,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 2. De Minister komt met de Minister die het aangaat een updatefrequentie en schaalniveau van het model overeen. De maker van het model adviseert over de updatefrequentie en schaalniveau van het model. Hierbij kan onderscheid bestaan tussen landsdekkende en regionale modellen.
 
-3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2021-01-01&g=2021-01-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
+3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2021-07-01&g=2021-07-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
 
 4. De Minister verstrekt op verzoek het totstandkomingsrapport en het toetsrapport.
 
@@ -292,7 +288,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 - f. de opvolging van meldingen, gebruikersverzoeken en klachten.
 
-2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-01-01&g=2021-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11d
 
@@ -306,19 +302,19 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage I. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
+## Bijlage I. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) van de Regeling basisregistratie ondergrond
 
 Deze bijlage betreft de Globale Architectuurschets Basisregistratie Ondergrond en de Programma Start Architectuur Basisregistratie Ondergrond en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
-## Bijlage II. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
+## Bijlage II. behorend bij [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-Deze bijlage betreft de catalogus en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+Deze bijlage betreft de catalogus van het registratieobject geotechnisch sondeeronderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
-**Basisregistratie Ondergrond (BRO)**
+**Basisregistratie Ondergrond (BRO) catalogus geotechnisch sondeeronderzoek**
 
-**Catalogus**
+Datum 10 september 2019
 
-Geotechnisch Sondeeronderzoek
+Versie 1.01
 
 **Inhoudsopgave**
 
@@ -372,29 +368,29 @@ Geotechnisch Sondeeronderzoek
 
 ### 2. Kader Aanlevering
 
-### 3. KaderInwinning
+### 2.2. Codelijsten
 
-### 4. Kwaliteitsklasse
+### Toelichting
 
-### 5. LokaalVerticaalReferentiepunt
+### 1. Inleiding
 
 ### 6. MethodeLocatiebepaling
 
-### 7. MethodeVerticalePositiebepaling
+### 1.1. Geotechnisch sondeeronderzoek
 
 ### 8. Referentiestelsel
 
 ### 9. Registratiestatus
 
-### 10. Sondeermethode
+### 1.2. Sonderen
 
 ### 11. Sondeernorm
 
 ### 12. Stopcriterium
 
-### 13. VerticaalReferentievlak
+### 2. Belangrijkste entiteiten
 
-### Toelichting
+### 2.1. Geotechnisch sondeeronderzoek
 
 ### 1. Inleiding
 
@@ -404,19 +400,19 @@ De catalogus voor het geotechnisch sondeeronderzoek beschrijft de gegevens die i
 
 Geotechnisch sondeeronderzoek wordt uitgevoerd in het kader van projecten in de grond-, weg- en waterbouw en in de woning- en utiliteitsbouw. Het heeft tot doel de opbouw en de eigenschappen van de ondergrond te onderzoeken om de locatie, het ontwerp, de uitvoering of de toestand van bouwwerken te kunnen vaststellen. Geotechnisch sondeeronderzoek is de formele naam die in de basisregsitratie ondergrond gebruikt wordt en de term verwijst naar een onderzoekstechniek die gewoonlijk **sonderen** wordt genoemd.
 
-Geotechnisch sondeeronderzoek in de basisregsitratie ondergrond is het geheel van gegevens dat betrekking heeft op een specifiek sondeeronderzoek dat op een specifieke locatie in Nederland is uitgevoerd en dat door of onder de verantwoordelijkheid van een bepaalde bronhouder is aangeleverd aan de registerbeheerder van de BRO en vervolgens onder zijn verantwoordelijkheid in de registratie ondergrond is opgenomen. De activiteiten van sondeeronderzoek omvatten in ieder geval het op locatie doen van metingen met een sondeerapparaat en de uiteindelijke rapportage van de resultaten aan de opdrachtgever.
+Het **sondeonderzoek** vormt de kern van het **geotechnisch sondeeronderzoek**. Het is de typering van het geheel van activiteiten dat binnen het sondeeronderzoek is uitgevoerd om met het **sondeerapparaat** de waarde van **bepaalde parameters** te meten en die metingen voor de opdrachtgever tot een **resultaat** te **bewerken**. De nauwkeurigheid van de gemeten parameters wordt impliciet verantwoord doordat het geotechnisch sondeeronderzoek in zijn geheel aan een bepaalde norm voldoet.
 
 ### 1.2. Sonderen
 
-Sonderen is een manier van veldonderzoek die binnen het domein van de geotechniek ontwikkeld is. Bij dit type onderzoek wordt een sondeerconus met constante snelheid de grond ingedrukt en terwijl de conus naar beneden gaat, worden quasi-continu waarnemingen gedaan aan fysieke grootheden.
+De meetresultaten worden altijd bewerkt. De activiteiten die uitgevoerd zijn om de metingen te bewerken voor de uiteindelijke rapportage worden apart vastgelegd (de **bewerking**).
 
 De techniek is oorspronkelijk ontwikkeld om inzicht te krijgen in het dragend vermogen van de ondergrond om op basis daarvan funderingen te ontwerpen. De grootheid die daartoe gemeten werd en wordt, is de weerstand die de conus op de weg naar beneden ondervindt. In de afgelopen decennia heeft de sondeertechniek zich sterk ontwikkeld en inmiddels is het mogelijk routinematig een breed scala aan grootheden te meten. De techniek wordt in Nederland overigens nog steeds in hoofdzaak gebruikt voor het ontwerp van funderingen, maar de resultaten kunnen ook veel breder worden gebruikt omdat zij in meer algemene zin inzicht geven in de eigenschappen en de opbouw van de ondergrond.
 
 ### 2. Belangrijkste entiteiten
 
-### 2.1. Geotechnisch sondeeronderzoek
+### 2.5. Sondeerapparaat
 
-Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het sondeeronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
+Het **sondeerapparaat**is een typering van het apparaat dat bij het sondeeronderzoek is gebruikt. Het belangrijkste onderdeel van het apparaat wordt de sondeerconus genoemd en dat is het eigenlijke meetinstrument oftewel de sonde. De sondeerconus bestaat uit twee functionele onderdelen, de kleefmantel en de conuspunt. De conuspunt omvat niet alleen het kegelvormig uiteinde van de sondeerconus maar ook het cilindrisch deel daar direct boven. De kleefmantel zit daar weer boven.
 
 ### 2.2. Registratiegeschiedenis
 
@@ -428,25 +424,25 @@ Het **sondeonderzoek** vormt de kern van het **geotechnisch sondeeronderzoek**. 
 
 Het **sondeonderzoek** koppelt de resultaten die eruit voortkomen aan het door de sonde bemeten deel van de ondergrond (**traject**). Het **sondeonderzoek** bestaat altijd uit het uitvoeren van een **conuspenetratietest**. De **conuspenetratietest** kan één of meer keren onderbroken worden om een **dissipatietest** uit te voeren. Dat is een ander type test, met een eigen resultaat.
 
-De meetresultaten worden altijd bewerkt. De activiteiten die uitgevoerd zijn om de metingen te bewerken voor de uiteindelijke rapportage worden apart vastgelegd (de **bewerking**).
+Deze bijlage betreft de catalogus van de registratieobjecten booronderzoek – bodemkundige boormonsterbeschrijving en boormonsteranalyse en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
-### 2.4. Resultaat
+### Basisregistatie ondergrond (BRO) catalogus booronderzoek bodemkundige boormonsterbeschrijving en boormonsteranalyse
 
-Het resultaat geeft de waarden van de bepaalde parameters op bepaalde posities in het sondeertraject (**conuspenetratietest resultaat**), dan wel het verloop van de waarde van gemeten parameters op één bepaalde positie in de tijd (**dissipatietest resultaat)**. Sommige parameters hebben betrekking op de positie van de meting, maar de meeste parameters geven eigenschappen van de ondergrond weer.
+Datum 25 maart 2020
 
-### 2.5. Sondeerapparaat
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
 
 Het **sondeerapparaat**is een typering van het apparaat dat bij het sondeeronderzoek is gebruikt. Het belangrijkste onderdeel van het apparaat wordt de sondeerconus genoemd en dat is het eigenlijke meetinstrument oftewel de sonde. De sondeerconus bestaat uit twee functionele onderdelen, de kleefmantel en de conuspunt. De conuspunt omvat niet alleen het kegelvormig uiteinde van de sondeerconus maar ook het cilindrisch deel daar direct boven. De kleefmantel zit daar weer boven.
 
 Voor de meeste gemeten parameters kan vóór en na het uitvoeren van het sondeonderzoek de waarde worden afgelezen die het apparaat aangeeft zonder belasting (**nulmeting**). De nulmetingen worden gebruikt om vast te stellen of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid heeft ingeboet.
 
-### 2.6. Aanvullend onderzoek
+### 3. Entiteiten en attributen
 
 In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond tot een bepaalde diepte wordt weggegraven voordat met het sondeonderzoek wordt begonnen, wordt er een beschrijving van de weggehaalde lagen gemaakt (**verwijderde laag**).
 
-### 3. Het domeinmodel
+### 3.1.1. BRO-ID
 
-### Basisregistratie Ondergrond (BRO)
+### 3.1.2. bronhouder
 
 **Catalogus**
 
@@ -454,167 +450,167 @@ Bodemkundig booronderzoek
 
 **Inhoudsopgave**
 
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+### 3.1.6. kader aanlevering
 
-### 1.1. Registratieobject
+### 3.1.7. kader inwinning
 
-### 1.2. Entiteiten en attributen
+### 3.1.8. vakgebied
 
-### 1. Booronderzoek
+### 3.1.9. rapportagedatum onderzoek
 
-### 2. Registratiegeschiedenis
+### 3.1.10. terreintoestand bepaald
 
-### 3. Aangeleverde locatie
+### 3.1.11. strooisellaag onderzocht
 
-### 4. Aangeleverde verticale positie
+### 3.1.12. uitvoerder onderzoek
 
-### 5. Gestandaardiseerde locatie
+### 3.2. Registratiegeschiedenis
 
-### 6.0. Boring
+### 3.2.1. tijdstip registratie object
 
-### 6.1. Boorprocedure
+### 3.2.2. registratiestatus
 
-### 6.2. Verwijderd traject
+### 3.2.3. tijdstip laatste aanvulling
 
-### 6.3. Verwijderde laag
+### 3.2.4. tijdstip voltooiing registratie
 
-### 6.4. Geboord traject
+### 3.2.5. gecorrigeerd
 
-### 6.5. Boorapparaat
+### 3.2.6. tijdstip laatste correctie
 
-### 6.6. Geboord interval
+### 3.2.7. in onderzoek
 
-### 7. Terreintoestand
+### 3.2.8. in onderzoek sinds
 
-### 8.0. Boormonsterbeschrijving
+### 3.2.9. uit registratie genomen
 
-### 8.1. Boorprofiel
+### 3.2.10. tijdstip uit registratie genomen
 
-### 8.2. Strooisellaag
+### 3.2.11. weer in registratie genomen
 
-### 8.3. Bodemlaag
+### 3.2.12. tijdstip weer in registratie genomen
 
-### 8.4. Laagcomponent
+### 3.3. Rapportagegeschiedenis
 
-### 8.5. Grondsoort
+### 3.3.1. startdatum rapportage
 
-### 8.6. Fractieverdeling
+### 3.3.2. einddatum rapportage
 
-### 8.7. Verdeling fijne fractie
+### 3.4. Tussentijdse gebeurtenis
 
-### 8.8. Onvolledige fractiespecificatie
+### 3.4.1. naam gebeurtenis
 
-### 8.9. Vast gesteentelaag
+### 3.4.2. datum gebeurtenis
 
-### 8.10. Bodemclassificatie
+### 3.5. Aangeleverde locatie
 
-### 8.11. Bijzonderheid onderin
+### 3.5.1. coördinaten
 
-### Artikel 2. Beschrijving van de enumeraties en codelijsten
+### 3.5.2. referentiestelsel
 
-### 2.1. Enumeraties
+### 3.5.3. datum locatiebepaling
 
 **IndicatieJaNeeOnbekend**
 
-### 2.2. Codelijsten
+### 3.5.5. uitvoerder locatiebepaling
 
-### 1. AfwijkendGrondwaterRegime
+### 3.6. Aangeleverde verticale positie
 
-### 2. Afzettingskarakteristiek
+### 3.6.1. lokaal verticaal referentiepunt
 
-### 3. Beschrijflocatie
+### 3.6.2. verschuiving
 
-### 4. Beschrijfmethode
+### 3.6.3. waterdiepte
 
-### 5. Bijzonderheid
+### 3.6.4. verticaal referentievlak
 
-### 6. BijzonderheidBovenin
+### 3.6.5. datum verticale positiebepaling
 
-### 7. BijzonderheidLocatie
+### 3.6.6. methode verticale positiebepaling
 
-### 8. Bodemklasse
+### 3.6.7. uitvoerder verticale positiebepaling
 
-### 9. BodemkundigeGrondsoornaam
+### 3.7. Gestandaardiseerde locatie
 
-### 10. Boorspoeling
+### 3.7.1. coördinaten
 
-### 11. Boortype
+### 3.7.2. referentiestelsel
 
-### 12. Boornorm
+### 3.7.3. coördinaattransformatie
 
-### 13. Codegroep
+### 3.8. Boring
 
-### 14. CoördinaatTransformatie
+### 3.8.1. startdatum boring
 
 **Coördinaattransformatie**
 
-### 15. Gesteentesoort
+### 3.8.3. uitvoerder boring
 
-### 16. Grindgehalteklasse
+### 3.8.4. verbuizing gebruikt
 
-### 17. Grondwatertrap
+### 3.8.5. boorspoeling
 
-### 18. Horizontcode
+### 3.8.6. stopcriterium
 
-### 19. KaderAanlevering
+### 3.8.7. traject verwijderd
 
-### 20. KaderInwinning
+### 3.9. Boorprocedure
 
-### 21. Kalkklasse
+### 3.9.1. boornorm
 
-### 22. Kalkverloopklasse
+### 3.10. Verwijderd traject
 
-### 23. KlasseSchelpmateriegehalte
+### 3.10.1. begindiepte
 
-### 24. Landgebruik
+### 3.10.2. einddiepte
 
-### 25. LokaalVerticaalReferentiepunt
+### 3.11. Verwijderde laag
 
-### 26. MethodeLocatiebepaling
+### 3.11.1. bovengrens
 
-### 27. MethodeVerticalePositiebepaling
+### 3.11.2. ondergrens
 
-### 28. Monsterhoedanigheid
+### 3.11.3. verwijderd materiaal
 
-### 29. OndergrensZandfractie
+### 3.12. Geboord traject
 
-### 30. OndergrondDuinvaaggrond
+### 3.12.1. begindiepte
 
-### 31. OndergrondVeen
+### 3.12.2. einddiepte
 
-### 32. OrganischeStofklasse
+### 3.13. Boorapparaat
 
-### 33. Profielverloop
+### 3.13.1. boortype
 
-### 34. Referentiestelsel
+### 3.13.2. boordiameter
 
-### 35. Registratiestatus
+### 3.14. Geboord interval
 
-### 36. Rijpingsklasse
+### 3.14.1. begindiepte
 
-### 37. StandaardGrondsoortnaam
+### 3.14.2. einddiepte
 
-### 38. Stopcriterium
+### 3.15. Terreintoestand
 
-### 39. Strooiselsoort
+### 3.15.1. landgebruik
 
-### 40. Textuurklasse
+### 3.15.2. gedraineerd
 
-### 41. Vakgebied
+### 3.15.3. gemiddeld hoogste grondwaterspiegel
 
-### 42. Veenklasse
+### 3.15.4. gemiddeld laagste grondwaterspiegel
 
-### 43. Veensoort
+### 3.16. Boormonsterbeschrijving
 
-### 44. Vergravingsklasse
+### 3.16.1. datum voltooiing beschrijving
 
-### 45. VerticaalReferentievlak
+### 3.16.2. beschrijfmethode
 
-### 46. VerwijderdMateriaal
+### 3.16.3. beschrijflocatie
 
-### Toelichting
+### 3.16.4. uitvoerder beschrijving
 
-### 1. Inleiding
+### 3.16.5. fractieverdeling bepaald
 
 De catalogus voor het bodemkundig booronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het booronderzoek dat vanuit het vakgebied van de bodemkunde is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit booronderzoek samen met de gedetailleerde uitwerking van de gegevens van de boormonsterbeschrijving.
 
@@ -622,45 +618,45 @@ Een**booronderzoek** is het geheel van gegevens dat betrekking heeft op een spec
 
 Booronderzoek in de basisregistratie ondergrond omvat onderzoek uit vier verschillende vakgebieden. Naast bodemkunde zijn dat geotechniek, geologie en cultuurtechniek. De catalogus voor het registratieobject komt in delen tot stand. Eerst wordt voor ieder vakgebied een catalogus gemaakt. Wanneer de vier catalogi gereed zijn wordt een nieuwe catalogus gemaakt die alle vakgebieden omvat en waarin de ongewenste verschillen zijn weggenomen. Die catalogus geeft een samenhangende beschrijving van het registratieobject booronderzoek.
 
-### 1.1. Bodemkundig booronderzoek
+### 3.17.2. bewortelbare diepte bereikt
 
 Bodemkundig booronderzoek heeft tot doel de opbouw en de eigenschappen van het bovenste deel van de ondergrond te onderzoeken. Het perspectief van waaruit dat gebeurt is dat van de landbouw, de landinrichting, het natuurbeheer of de winning van oppervlaktedelfstoffen. Bij uitzondering is het doel er één van meer wetenschappelijke aard.
 
 Het onderzoek wordt uitgevoerd in het kader van projecten die zich richten op een bepaald gebied. Veel van het onderzoek wordt uitgevoerd in het kader van bodemkartering.
 
-### 1.2. Boren
+### 3.17.5. gemiddeld hoogste grondwaterstand
 
 Booronderzoek omvat vormen van onderzoek die ermee beginnen dat de ondergrond door boren wordt ontsloten. Wat onder boren moet worden verstaan is in de bodemkunde triviaal, het is het maken van een gat met behulp van een apparaat dat we een boor noemen. In bodemkundig onderzoek wordt de boor altijd met de hand de grond in gedreven
 
-### 1.3. Deelonderzoeken
+### 3.18. Strooisellaag
 
 Bodemkundig booronderzoek omvat ten hoogste drie van de vier deelonderzoeken die in booronderzoek kunnen worden onderscheiden en dat zijn de **boormonsterbeschrijving**, de **boormonsterfotografie** en de **boormonsteranalyse**. Het vierde deelonderzoek, de **boorgatlogging,** het onderzoek waarin het boorgat wordt bemeten, wordt nooit uitgevoerd. Van de drie deelonderzoeken is alleen de boormonsterbeschrijving in deze versie van de catalogus opgenomen (figuur 1). De beschrijving is gebaseerd op de **Handleiding bodemgeografisch onderzoek, richtlijnen en voorschriften** (1995), uitgegeven door DLO Staring Centrum, nu Wageningen Environmental Research.
 
-### 2. Belangrijkste entiteiten
+### 3.18.2. ondergrens
 
-### 2.1. Booronderzoek
+### 3.18.3. horizontcode
 
 Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het booronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
 
 Booronderzoek begint eigenlijk altijd met activiteiten in het veld en die worden in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer booronderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd1De eisen die voor de gegevens van deze vorm van booronderzoek moeten gelden zijn nog niet vastgesteld..
 
-### 2.2. Registratiegeschiedenis
+### 3.19. Zuurgraad strooisellaag
 
 De **registratiegeschiedenis** van een booronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
 
-### 2.3. Boring
+### 3.19.2. pH
 
 De activiteiten in het veld houden altijd in dat er op een bepaalde datum een **boring** wordt gezet. Het is van belang te weten hoe er geboord is en met welke apparatuur, welk deel van de ondergrond is doorboord, en welk deel is verwijderd voordat met boren is begonnen.
 
-### 2.3. Terreintoestand
+### 3.20.1. bovengrens
 
 Voor of tijdens het boren kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het booronderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein.
 
-### 2.4. Boormonsterbeschrijving
+### 3.20.3. antropogeen
 
 **Boormonsterbeschrijving** is het deelonderzoek dat betrekking heeft op beschrijven van de monsters met als doel een **boorprofiel** te maken en, omdat het om een bodemkundige beschrijving gaat, een **bodemclassificatie**.
 
-### 2.5. Boorprofiel
+### 3.21. Zuurgraad bodemlaag
 
 Het **boorprofiel** is het eerste resultaat van de boormonsterbeschrijving. Het beschrijft de laagopbouw van het doorboorde deel van de ondergrond en het eventueel daarop liggende strooisel.
 
@@ -668,13 +664,13 @@ In figuur 2 is geschetst hoe het boorprofiel tot stand komt.
 
 Van iedere bodemlaag wordt de grondsoort en de horizontcode en meestal ook de verdeling van de verschillende korrelgroottefracties beschreven. Voor de **grondsoort** worden in de bodemkunde soms andere namen gebruikt dan in andere vakgebieden.
 
-### 2.6. Bodemclassificatie
+### 3.22.1. volumepercentage
 
 De **bodemclassificatie** is het tweede resultaat van de boormonsterbeschrijving. Het is in essentie een samenvatting van de informatie die in het boorprofiel is vastgelegd. Het geeft specialisten direct inzicht in het type bodem ter plaatse.
 
-### 3. Het domeinmodel
+### 3.22.3. horizontcode
 
-### Basisregistratie Ondergrond (BRO)
+### 3.22.4. verzadigde doorlatendheid
 
 **Catalogus**
 
@@ -682,319 +678,319 @@ Booronderzoek – Geotechnische boormonsteranalyse & Geotechnische boormonsterbe
 
 **Inhoudsopgave**
 
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+### 3.23.3. bodemkundige grondsoortnaam
 
-### 1.1. Registratieobject
+### 3.23.4. organische stofklasse
 
-### 1.2. Entiteiten en attributen
+### 3.23.5. zandmediaan
 
-### 1. Booronderzoek
+### 3.23.6. veensoort
 
-### 2. Registratiegeschiedenis
+### 3.23.7. kalkklasse
 
-### 3.0. Rapportagegeschiedenis
+### 3.23.8. rijpingsklasse
 
-### 3.1. Tussentijdse gebeurtenis
+### 3.23.9. grindhoudend
 
-### 4. Aangeleverde locatie
+### 3.23.10. grindgehalteklasse
 
-### 5. Aangeleverde verticale positie
+### 3.23.11. schelpmateriaalhoudend
 
-### 6. Gestandaardiseerde locatie
+### 3.23.12. klasse schelpmateriaalgehalte
 
-### 7.0. Boring
+### 3.24. Fractieverdeling
 
-### 7.1. Weggegraven laag
+### 3.24.1. grindgehalte
 
-### 7.2. Geboord interval
+### 3.24.2. schelpmateriaalgehalte
 
-### 7.3. Boorsnelheid
+### 3.24.3. organische stofgehalte
 
-### 7.4. Bemonsterd interval
+### 3.24.4. gehalte fijne fractie
 
-### 7.5. Bemonsteringsapparaat
+### 3.25. Verdeling fijne fractie
 
-### 7.6. Kernopbrengst
+### 3.25.1. lutumgehalte
 
-### 7.7. Verontreinigd interval
+### 3.25.2. siltgehalte
 
-### 7.8. Afgewerkt interval
+### 3.25.3. zandgehalte
 
-### 8. Terreintoestand
+### 3.26. Onvolledige fractiespecificatie
 
-### 9. Sliblaag
+### 3.26.1. organische stofgehalte
 
-### 10.0. Boormonsterbeschrijving
+### 3.26.2. lutumgehalte
 
-### 10.1. Boorprofiel
+### 3.26.3. siltgehalte
 
-### 10.2. Laag
+### 3.26.4. zandgehalte
 
-### 10.3. Grond
+### 3.27. Vast gesteentelaag
 
-### 10.4. Korrelvorm
+### 3.27.1. bovengrens
 
-### 10.5. Gesteente
+### 3.27.2. ondergrens
 
-### 10.6. Verweringsgraad
+### 3.27.3. horizontcode
 
-### 10.7. Niet beschreven interval
+### 3.27.4. gesteentesoort
 
-### 10.8. Post-sedimentaire discontinuïteit
+### 3.28. Bodemclassificatie
 
-### 11.0. Boormonsteranalyse
+### 3.28.1. codegroep
 
-### 11.1. Onderzocht interval
+### 3.28.2. standaardpuntencode
 
-### 11.2. Onderzocht materiaal
+### 3.28.3. bijzonderheid bovenin
 
-### 11.3. Bepaling verticale vervorming
+### 3.28.4. bodemklasse
 
-### 11.4. Bepalingsstap
+### 3.28.5. textuurklasse
 
-### 11.5. Verticale vervorming
+### 3.28.6. veenklasse
 
-### 11.6. Bepaling maximale ongedraineerde schuifsterkte
+### 3.28.7. ondergrond veen
 
-### 11.7. Bepaling korrelgrootteverdeling
+### 3.28.8. veenondergrens
 
-### 11.8. Basis korrelgrootteverdeling
+### 3.28.9. ondergrond duinvaaggrond
 
-### 11.9. Standaardverdeling fractie kleiner63um
+### 3.28.10. profielverloop
 
 11.10 Uitgebreide verdeling fractie kleiner63um
 
-### 11.11. Standaardverdeling fractie groter63um
+### 3.28.12. vergravingsklasse
 
-### 11.12. Uitgebreide verdeling fractie groter63um
+### 3.28.13. grondwatertrap
 
-### 11.13. Bepaling watergehalte
+### 3.28.14. afwijkend grondwaterregime
 
-### 11.14. Resultaat bepaling
+### 3.28.15. bijzonderheid locatie
 
-### 11.15. Bepaling organischestofgehalte
+### 3.29. Bijzonderheid onderin
 
-### 11.16. Bepaling kalkgehalte
+### 3.29.1. bijzonderheid
 
-### 11.17. Bepaling volumieke massa
+### 3.29.2. begindiepte
 
-### 11.18. Bepaling volumieke massa vaste delen
+### 3.30. Boormonsteranalyse
 
-### Artikel 2. Beschrijving van de enumeraties en codelijsten
+### 3.30.1. rapportagedatum analyse
 
-### 2.1. Enumeraties
+### 3.30.2. soort analyse
 
-### 2.2. Codelijsten
+### 3.30.3. locatiespecifiek
 
-### 1. Aanvulmateriaal
+### 3.30.4. onderzocht oppervlak
 
-### 2. Analyseprocedure
+### 3.30.5. uitvoerder analyse
 
-### 3. Apparaattype
+### 3.31. Onderzocht interval
 
-### 4. Bemonsteringskwaliteit
+### 3.31.1. begindiepte
 
-### 5. Bemonsteringsmethode
+### 3.31.2. einddiepte
 
-### 6. Bemonsteringsprocedure
+### 3.31.3. locatiespecifiek
 
-### 7. Bepalingsdiameter
+### 3.31.4. horizontcode
 
-### 8. Bepalingsmethode
+### 3.31.5. karakteristiek gemodelleerd
 
-### 9. BepalingsmethodeEquivalenteMassa
+### 3.32. Bepaling zuurgraad
 
-### 10. Bepalingsprocedure
+### 3.32.1. bepalingsprocedure
 
-### 11. BeschrevenMateriaal
+### 3.32.2. bepalingsmethode
 
-### 12. Beschrijfkwaliteit
+### 3.32.3. pH
 
-### 13. Beschrijflocatie
+### 3.33. Bepaling korrelgrootteverdeling
 
-### 14. Beschrijfprocedure
+### 3.33.1. bepalingsprocedure
 
-### 15. BijzonderBestanddeel
+### 3.33.2. bepalingsmethode
 
-### 16. BijzonderGesteentebestanddeel
+### 3.33.3. korrelgrootteverdeling gestandaardiseerd
 
-### 17. BijzonderheidMateriaal
+### 3.33.4. fractieverdeling
 
-### 18. BijzonderheidResultaat
+### 3.33.5. dispersiemethode
 
-### 19. BijzonderheidUitvoering
+### 3.33.6. bijzonderheid uitvoering
 
-### 20. BijzonderMateriaal
+### 3.34. Basis korrelgrootteverdeling
 
-### 21. Bodemgebruik
+### 3.34.1. fractie kleiner50um
 
-### 22. Boorprocedure
+### 3.34.2. fractie 50tot63um
 
-### 23. Boortechniek
+### 3.34.3. fractie 63tot2000um
 
-### 24. Breedteklasse
+### 3.35. Minimale verdeling fractie kleiner50um
 
-### 25. Buismateriaal
+### 3.35.1. fractie 0tot2um
 
-### 26. Cementsoort
+### 3.35.2. fractie 2tot50um
 
-### 27. ConsistentieFijneGrond
+### 3.36. Standaard verdeling fractie kleiner50um
 
-### 28. ConsistentieOrganischeGrond
+### 3.36.1. fractie 0tot2um
 
-### 29. Coördinaattransformatie
+### 3.36.2. fractie 2tot16um
 
-### 30. Desintegratie
+### 3.36.3. fractie 16tot50um
 
-### 31. DisperseInhomogeniteit
+### 3.37. Uitgebreide verdeling fractie kleiner50um
 
-### 32. Dispersiemethode
+### 3.37.1. fractie 0tot2um
 
-### 33. Droogtemperatuur
+### 3.37.2. fractie 2tot4um
 
-### 34. Droogtijd
+### 3.37.3. fractie 4tot8um
 
-### 35. FijnGrindGehalteklasse
+### 3.37.4. fractie 8tot16um
 
-### 36. Fractieverdeling
+### 3.37.5. fractie 16tot25um
 
-### 37. GebruiktMedium
+### 3.37.6. fractie 25tot35um
 
-### 38. GelaagdeInhomogeniteit
+### 3.37.7. fractie 35tot50um
 
-### 39. Gelaagdheid
+### 3.38. Standaard verdeling fractie 63tot2000um
 
-### 40. GeotechnischeAfzettingskarakteristiek
+### 3.38.1. fractie 63tot105um
 
-### 41. GeotechnischeGrondsoort
+### 3.38.2. fractie 105ot210um
 
-### 42. Gesteentesoort
+### 3.38.3. fractie 210tot420um
 
-### 43. Grensbepaling
+### 3.38.4. fractie 420tot2000um
 
-### 44. GrindgehalteklasseNEN5104
+### 3.39. Uitgebreide verdeling fractie 63tot2000um
 
-### 45. Grindmediaanklasse
+### 3.39.1. fractie 63tot105um
 
-### 46. GrondsoortNEN5104
+### 3.39.2. fractie 105ot210um
 
-### 47. Groottefractie
+### 3.39.3. fractie 210tot300um
 
-### 48. Hoekigheid
+### 3.39.4. fractie 300tot420um
 
-### 49. Holteverdeling
+### 3.39.5. fractie 420tot600um
 
-### 50. InhoudMonsterhouder
+### 3.39.6. fractie 600tot850um
 
-### 51. KaderAanlevering
+### 3.39.7. fractie 850tot1200um
 
-### 52. KaderInwinning
+### 3.39.8. fractie 1200tot1700um
 
-### 53. KaderstellendeProcedure
+### 3.39.9. fractie 1700tot2000um
 
-### 54. Kalkgehalteklasse
+### 3.40. Niet gestandaardiseerde fractie
 
-### 55. Kleur
+### 3.40.1. ondergrens
 
-### 56. LiggingOpGrondlichaam
+### 3.40.2. bovengrens
 
-### 57. LokaalVerticaalReferentiepunt
+### 3.40.3. aandeel
 
-### 58. MatigGrofGrindGehalteklasse
+### 3.41. Bepaling organischestofgehalte
 
-### 59. MethodeLocatiebepaling
+### 3.41.1. bepalingsprocedure
 
-### 60. MethodePositiebepalingSliblaag
+### 3.41.2. Bepalingsmethode
 
-### 61. MethodeVerticalePositiebepaling
+### 3.41.3. rapportagegrens
 
-### 62. Monsterkwaliteit
+### 3.41.4. lutumcorrectie toegepast
 
-### 63. Monstervochtigheid
+### 3.41.5. vrij ijzercorrectie toegepast
 
-### 64. NaamGebeurtenis
+### 3.41.6. organischestofgehalte
 
-### 65. Omzetting
+### 3.42. Bepaling organisch koolstofgehalte
 
-### 66. Opvulmateriaal
+### 3.42.1. bepalingsprocedure
 
-### 67. Organischestofgehalteklasse
+### 3.42.2. bepalingsmethode
 
-### 68. OrganischestofgehalteklasseNEN5104
+### 3.42.3. rapportagegrens
 
-### 69. OuderdomAfzetting
+### 3.42.4. bijzonderheid uitvoering
 
-### 70. RedenNietBeschreven
+### 3.42.5. organisch koolstofgehalte
 
-### 71. Referentiestelsel
+### 3.43. Bepaling droge bulkdichtheid
 
-### 72. Registratiestatus
+### 3.43.1. bepalingsprocedure
 
-### 73. Ringdiameter
+### 3.43.2. bepalingsmethode
 
-### 74. Ruwheid
+### 3.43.3. ringdiameter
 
-### 75. Sfericiteit
+### 3.43.4. ringhoogte
 
-### 76. Spoelingtoeslag
+### 3.43.5. droogtemperatuur
 
-### 77. Stabiliteit
+### 3.43.6. volume waterverzadigd
 
-### 78. Sterkteklasse
+### 3.43.7. bijzonderheid materiaal
 
-### 79. Stopcriterium
+### 3.43.8. droge bulkdichtheid
 
-### 80. TextuurOrganischeGrond
+### 3.44. Bepaling krimpverloop
 
-### 81. TijdelijkeVerandering
+### 3.44.1. bepalingsprocedure
 
-### 82. ToegepastOptischModel
+### 3.44.2. bepalingsmethode
 
-### 83. TreksterkteVeen
+### 3.44.3. verstoord
 
-### 84. TypeAnalyse
+### 3.44.4. temperatuur
 
-### 85. TypeDiscontinuïteit
+### 3.44.5. bijzonderheid materiaal
 
-### 86. TypeIngreep
+### 3.45. Krimpverloop
 
-### 87. TypeVermenging
+### 3.46. Krimptoestand
 
-### 88. Vakgebied
+### 3.46.1. massa
 
-### 89. Veensoort
+### 3.46.2. volume
 
-### 90. Verkleuring
+### 3.46.3. hoogte
 
-### 91. VerticaalReferentievlak
+### 3.46.4. diameter
 
-### 92. VerwijderdMateriaal
+### 3.47. Bepaling waterdoorlatendheid
 
-### 93. Voorbehandeling
+### 3.47.1. bepalingsID
 
-### 94. Voorbereiding
+### 3.47.2. bepalingsprocedure
 
-### 95. Wandwrijvingcorrectiemethode
+### 3.47.3. bepalingsmethode
 
-### 96. WeggegravenMateriaal
+### 3.47.4. verticaal bemonsterd
 
-### 97. Zandmediaanklasse
+### 3.47.5. ringdiameter
 
-### 98. ZandspreidingNEN5104
+### 3.47.6. ringhoogte
 
-### 99. ZeerGrofGrindGehalteklasse
+### 3.47.7. stroming neerwaarts
 
-### 100. Zoutcorrectiemethode
+### 3.47.8. gebruikt medium
 
-### Toelichting
+### 3.47.9. water ontgast
 
-### 1. Inleiding
+### 3.47.10. temperatuur
 
 De catalogus voor het geotechnisch booronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het booronderzoek dat vanuit het vakgebied van de geotechniek is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit booronderzoek samen met de gedetailleerde uitwerking van de gegevens van de boormonsterbeschrijving, en van een deel van de gegevens die voortkomen uit het analyseren van boormonsters.
 
 Booronderzoek in de basisregistratie ondergrond omvat onderzoek uit vier verschillende vakgebieden. Naast geotechniek zijn dat bodemkunde, geologie en cultuurtechniek. De catalogus voor het registratieobject komt in delen tot stand. Eerst wordt voor ieder vakgebied een catalogus gemaakt. Wanneer de vier catalogi gereed zijn wordt een nieuwe catalogus gemaakt die alle vakgebieden omvat en waarin de ongewenste verschillen zijn weggenomen. Die catalogus geeft een samenhangende beschrijving van het registratieobject booronderzoek.
 
-### 1.1. Geotechnisch booronderzoek
+### 3.47.13. verzadigde waterdoorlatendheid
 
 Geotechnisch booronderzoek wordt uitgevoerd in het kader van projecten in de grond-, weg- en waterbouw en in de woning- en utiliteitsbouw. Het onderzoek heeft tot doel de opbouw en de eigenschappen van de ondergrond te onderzoeken om de locatie, het ontwerp, de uitvoering of de toestand van bouwwerken te kunnen vaststellen. Het kan een verkennend karakter hebben en dan is het veelal voldoende de opbouw van de ondergrond globaal te bepalen. Vaker wil men precies weten hoe de ondergrond is opgebouwd en uit welk soort materiaal die bestaat en laat men monsters onderzoeken om bepaalde eigenschappen te bepalen om die in allerlei berekeningen te kunnen gebruiken. Het uiteindelijke doel daarbij is bijvoorbeeld het draagvermogen, het zettingsgedrag of de stabiliteit van de ondergrond in algemenere zin te bepalen of aspecten als de erosiebestendigheid.
 
@@ -1008,11 +1004,11 @@ Geotechnisch booronderzoek is een van de vier soorten booronderzoek in de basisr
 
 Archeologisch en milieukundig booronderzoek vallen buiten het bereik van de basisregistratie ondergrond. Wanneer geotechnisch onderzoek wordt gecombineerd met archeologisch of milieukundig onderzoek wordt alleen het geotechnische onderzoek in de basisregistratie ondergrond opgenomen. In zo’n geval wordt wel gepreciseerd dat slechts een deel van de resultaten is geregistreerd.
 
-### 1.2. Boren
+### 3.50.1. bepalingsID
 
 Booronderzoek omvat vormen van onderzoek die ermee beginnen dat de ondergrond door boren wordt ontsloten. Wat onder boren moet worden verstaan is in verreweg de meeste gevallen triviaal, het is het maken van een gat met behulp van een apparaat dat we een boor noemen. In de definities wordt duidelijk dat er ook andere manieren zijn om een gat in de ondergrond te maken en die worden gemakshalve toch tot het boren gerekend. Er worden ook gaten in de ondergrond gemaakt met afwijkende methoden die buiten het bereik van deze catalogus vallen. Dat zijn allemaal methoden die op water worden gebruikt en die tot doel hebben een hap uit de waterbodem te nemen. Apparaten die daarvoor gebruikt worden zijn bijvoorbeeld de boxcorer en de Van Veen-bodemhapper. Onderzoek dat gebaseerd is op dergelijke technieken valt buiten het bereik van de basisregistratie ondergrond en de reden daarvoor is dat de resultaten een zeer geringe waarde voor hergebruik hebben, omdat de diepte van het bemonsterde interval niet goed bepaald is en de waterbodem binnen korte tijd kan veranderen.
 
-### 1.3. Kwaliteit van monsters
+### 3.50.3. bepalingsmethode
 
 De gegevens over de opbouw en de eigenschappen van de ondergrond die uit geotechnisch booronderzoek voortkomen, zijn gebaseerd op monsters die uit de ondergrond genomen zijn. Voor het hergebruik van de gegevens is het van belang te weten in welke mate de monsters waarop de waarnemingen en metingen zijn gebaseerd representatief geacht kunnen worden voor de situatie in-situ. Anders gezegd, voor hergebruik is het van belang de kwaliteit van de monsters vast te leggen.
 
@@ -1020,45 +1016,45 @@ De kwaliteit van de monsters is van een groot aantal factoren afhankelijk: hoe e
 
 De eisen die een gebruiker van de basisregistratie aan de gegevens over de kwaliteit van monsters stelt worden vooral bepaald door het detail dat hij zoekt. Wil de gebruiker een globaal inzicht in de opbouw van de ondergrond verkrijgen, dan zal het voldoende zijn te weten of de monsters geroerd of ongeroerd zijn. Wil een geotechnisch adviseur gegevens uit de boormonsteranalyse gebruiken in berekeningen, dan zal hij de details willen kennen om de waarde van een gegeven te kunnen bepalen.
 
-### 1.4. Deelonderzoeken
+### 3.50.7. temperatuur
 
 Geotechnisch booronderzoek omvat gewoonlijk drie van de vier deelonderzoeken die in booronderzoek kunnen worden onderscheiden en dat zijn de **boormonsterbeschrijving**, de **boormonsterfotografie** en, de **boormonsteranalyse**. Het vierde deelonderzoek, de **boorgatlogging,** het onderzoek waarin het boorgat wordt bemeten, wordt weinig uitgevoerd. Van de vier deelonderzoeken zijn er twee in deze versie van de catalogus opgenomen, de boormonsterbeschrijving en de boormonsteranalyse (figuur 1).
 
 In de boormonsterbeschrijving wordt het materiaal dat uit de ondergrond naar boven is gehaald, beschreven op een manier die inzicht geeft in de opbouw van de ondergrond en de globale eigenschappen ervan. In het laboratorium worden allerlei proeven uitgevoerd om de samenstelling en een grote verscheidenheid aan eigenschappen nauwkeurig te bepalen. De verscheidenheid aan bepalingen is groot en iedere bepaling vraagt een eigen definitie. Dat vergt tijd en om die reden wordt de standaardisatie van boormonsteranalyse in twee fasen gerealiseerd. Deze versie van de catalogus dekt alleen de bepalingen uit de eerste fase.
 
-### 1.5. Verandering in de beschrijfprocedure van grond
+### 3.50.10. droogtemperatuur
 
 Sinds 2017 is onder verantwoordelijkheid van NEN gewerkt aan een Nederlandse annex op NEN-EN-ISO 14688-1. Dat deel van de norm gaat over de identificatie van grond en vervangt binnen de wereld van de geotechniek NEN 5104. De verandering is groot omdat er op een manier naar grond wordt gekeken die wezenlijk anders is dan wat gebruikelijk was. In NEN-EN-ISO 14688-1 is de identificatie van grond geheel en al gebaseerd op visuele en tactiele waarneming, op zien en voelen. Bij het voelen staan de aspecten centraal die over het gedrag van grond gaan.
 
 De oude NEN 5104 was eerder een classificatiesysteem waarmee het mogelijk was een willekeurig mengsel precies te benoemen wanneer het gehalte aan grind, zand, silt, lutum en organische stof nauwkeurig was bepaald. Die benadering werkt prima wanneer de gehaltes werkelijk gemeten zijn door proeven uit te voeren. Om de benadering toe te passen bij het beschrijven van monsters gebaseerd op alleen zintuigelijke waarneming, moesten referentiemonsters waarvan de samenstelling door metingen was bepaald gebruikt worden. Dat bleef in de praktijk dikwijls achterwege. Bovendien kende de methode bezwaren van meer fundamentele aard, waardoor al lange tijd werd ervaren dat de norm niet meer goed aansloot op de eisen van het geotechnisch werkveld.
 
-### 1.6. Gevolgen van de verandering
+### 3.50.13. droge bulkdichtheid
 
 In de basisregistratie ondergrond kunnen niet alleen beschrijvingen die onder NEN-EN-ISO 14688-1 zijn gemaakt, maar ook beschrijvingen die onder NEN 5104 zijn gemaakt worden geregistreerd. De verandering in de methode van beschrijven maakt dat het verschil tussen een **boormonsterbeschrijving** die onder NEN 5104 tot stand is gekomen en een die onder NEN-EN-ISO 14688 is gemaakt groot is. Onder NEN 5104 worden minder gegevens vastgelegd, is de samenhang minder strikt geborgd en kan de betekenis van gegevens anders zijn. Sommige gegevens kunnen alleen bestaan onder NEN 5104, andere gegevens kunnen juist niet bestaan onder die norm. Een ander verschil is dat de nieuwe methode een strikt onderscheid maakt tussen gegevens die uit het beschrijven en de gegevens die uit het meten voortkomen. In het verleden was dat niet het geval met als gevolg dat niet altijd duidelijk is waarop de gegevens van een oude beschrijving berusten.
 
 Overigens valt een boormonsterbeschrijving die onder NEN 5104 tot stand is gekomen per definitie onder booronderzoek met kwaliteitsregime IMBRO/A.
 
-### 1.7. Beschrijving van gesteente
+### 3.51. Waterretentie
 
 Hoewel het meeste geotechnisch booronderzoek zich richt op grond, kan het ook betrekking hebben op gesteente of een combinatie van grond en gesteente. De procedures voor het beschrijven van grond en gesteente verschillen; in de beschrijfwijze van gesteente is de afgelopen jaren geen verandering gekomen. Voor gesteente geldt sinds 2004 NEN-EN-ISO 14689, en in februari 2018 is daarvan een nieuwe versie gepubliceerd. Voor deze norm bestaat geen Nederlandse annex. Wel is de totstandkoming van de Nederlandse annex op NEN-EN-ISO 14688-1 aangegrepen om binnen Nederland af te spreken welke gegevens van gesteente moeten worden vastgelegd. Het resultaat is in deze catalogus opgenomen.
 
-### 2. Belangrijkste entiteiten
+### 3.52.1. bodemvochtpotentiaal
 
-### 2.1. Booronderzoek
+### 3.52.2. volumetrisch watergehalte
 
 **Booronderzoek**is het geheel van gegevens dat betrekking heeft op een specifiek booronderzoek dat op een specifiek moment gekoppeld aan een specifieke locatie in Nederland onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
 
 Booronderzoek begint eigenlijk altijd met activiteiten in het veld en die worden in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer booronderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd3De eisen die voor de gegevens van deze vorm van booronderzoek moeten gelden zijn nog niet vastgesteld..
 
-### 2.2. Registratiegeschiedenis
+### 3.53.1. bepalingsID
 
 De **registratiegeschiedenis** van een booronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
 
-### 2.3. Rapportagegeschiedenis
+### 3.53.3. bepalingsmethode
 
 De resultaten van het booronderzoek worden niet in een keer maar per deelonderzoek gerapporteerd. Wanneer een deelrapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het object booronderzoek.
 
-### 2.4. Boring
+### 3.53.5. ringdiameter
 
 De kernactiviteit in het veld is het maken van het gat, de **boring**. Voor het onderzoek is het van het grootste belang de gegevens vast te leggen die van invloed zijn op de uiteindelijke resultaten van het onderzoek. Daarnaast betekent boren dat men de toestand van de ondergrond verandert. Om de gevolgen van die ingreep later te kunnen beoordelen is het van belang te weten hoe men de ondergrond heeft achtergelaten.
 
@@ -1076,25 +1072,25 @@ Tijdens het boren kan men constateren dat er in bepaalde intervallen sporen van 
 
 Wanneer men ten slotte klaar is met boren kan het ontstane gat op een bepaalde manier worden afgewerkt. Dat kan weer per diepte-interval verschillen (**Afgewerkt interval**).
 
-### 2.5. Bemonsteringsapparaat
+### 3.54.2. lengte
 
 In het geval men monsters gestoken of gekernd heeft worden ook specificaties vastgelegd van het apparaat dat daarvoor gebruikt is. In figuur 2 en figuur 3 wordt geïllustreerd wat de belangrijkste kenmerken zijn.
 
-### 2.6. Terreintoestand
+### 3.54.4. diepte 1
 
 Voor, tijdens of direct na het boren kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het booronderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein. Dat begrip wordt in nogal ruime zin opgevat en dekt alle gegevens die vastgelegd worden om een goed begrip te krijgen van de ruimtelijke context waarbinnen het onderzoek is uitgevoerd.
 
-### 2.7. Sliblaag
+### 3.54.6. diepte 3
 
 Bij boren op water kan er op de waterbodem een laag slib blijken te liggen. Wanneer dat voor het onderzoek relevant geacht is, worden enkele kenmerken daarvan vastgelegd.
 
-### 2.8. Boormonsterbeschrijving
+### 3.55. Waterretentie verdamping
 
 **Boormonsterbeschrijving** is het deelonderzoek dat betrekking heeft op het beschrijven van de monsters met als doel een of meer **boorprofielen** te maken. Er kunnen twee procedures gelden, omdat het beschrijven van grond en gesteente gecombineerd kan worden.
 
 Historische beschrijvingen van grond die onder NEN 5104 gemaakt zijn, verschillen fundamenteel van beschrijvingen van grond onder NEN-EN-ISO 14688-1. In het eerste geval is altijd sprake van één boorprofiel, in het tweede geval kunnen binnen een onderzoek drie verschillende boorprofielen gemaakt zijn.
 
-### 2.9. Boorprofiel
+### 3.56.2. bodemvochtpotentiaal diepte 1
 
 Een **boorprofiel** is een resultaat van de boormonsterbeschrijving en beschrijft de laagopbouw van het deel van de ondergrond dat bemonsterd is.
 
@@ -1108,7 +1104,7 @@ Een derde profiel is nodig wanneer bovendien een deel van de monsters, gewoonlij
 
 Het uitgangspunt is in alle gevallen dat het boorprofiel alle met een bepaalde kwaliteit bemonsterde intervallen dekt en het hele traject compleet in lagen is beschreven. Het kan echter zijn dat dit niet gelukt is, bijvoorbeeld omdat er per ongeluk een monster verdwenen is. De intervallen die niet beschreven konden worden, worden expliciet in het profiel opgenomen (**Niet-beschreven interval**) en de reden waarom het niet beschreven is wordt vastgelegd.
 
-### 2.10. Laag
+### 3.58.1. bodemvochtpotentiaal
 
 De belangrijkste entiteiten in een boorprofiel zijn de lagen. Iedereen die de ondergrond beschrijft beschouwt de ondergrond als opgebouwd uit lagen. De dikte daarvan varieert met de schaal waarop men de ondergrond wil beschrijven. In de beschrijving van boormonsters zou men de doorsnijding kunnen waarnemen van lagen met de dikte die varieert van een millimeter tot tientallen meters.
 
@@ -1120,25 +1116,25 @@ Lagen hebben een boven- en ondergrens, zijn van menselijke of natuurlijke oorspr
 
 Omdat een laag in veel gevallen een beschrijfeenheid is kan een laag weer uit laagjes zijn opgebouwd en die laagjes kunnen in samenstelling verschillen.
 
-### 2.11. Grond
+### 3.59.3. modelleringsmethode
 
 Onder NEN-EN-ISO 14688-1 worden van grond altijd de grondsoort, de kleur en het al dan niet voorkomen van sporen van beworteling vastgelegd. Welke kenmerken er verder worden vastgelegd hangt af van de beschrijfkwaliteit, de kwaliteit van de monsters en de grondsoort.
 
 Onder NEN 5104 wordt altijd de grondsoort vastgelegd en afhankelijk van de grondsoort ook het gehalte aan grind en organische stof, maar dat alles volgens een eigen systematiek. Wat er verder wordt vastgelegd is onder NEN 5104 niet voorbepaald.
 
-### 2.12. Gesteente
+### 3.60.2. residueel volumetrisch watergehalte
 
 Van gesteente worden altijd de gesteentesoort, de eventueel voorkomende bijzondere bestanddelen, het soort cement, de kleur, de kalkgehalteklasse en de sterkteklasse vastgelegd.
 
-### 2.13. Post-sedimentaire discontinuïteit
+### 3.61. Vorm retentiecurve
 
 De laagopbouw kan verstoord zijn doordat discontinuïteiten de lagen doorsnijden. Wanneer de laagopbouw ondanks de verstoring nog goed te beschrijven is, worden naast de lagen ook de kenmerken van de discontinuïteit vastgelegd. Als door verstoring de beschrijving van de laagopbouw praktisch onmogelijk is, wordt het verstoorde interval niet beschreven.
 
-### 2.14. Boormonsteranalyse
+### 3.61.2. vormfactor n
 
 **Boormonsteranalyse** is het deelonderzoek dat betrekking heeft op het doen van metingen aan boormonsters. Bijna zonder uitzondering worden de metingen in een laboratorium uitgevoerd. Deze versie van de catalogus dekt maar een deel van de veelheid aan bepalingen die in standaard geotechnisch booronderzoek uitgevoerd kunnen worden en bovendien zijn alleen bepalingen opgenomen die aan grond en bijzonder materiaal worden uitgevoerd. Analyse van gesteente is buiten beschouwing gelaten.
 
-### 2.15. Onderzocht interval
+### 3.61.4. wegingsfactor
 
 In de boormonsteranalyse worden aan een of meer intervallen bepalingen gedaan, de **onderzochte intervallen**. De kwaliteit van het monster en de beschikbare hoeveelheid materiaal bepalen in eerste instantie wat er allemaal van een interval kan worden bepaald. De beperking in hoeveelheid materiaal betekent dat bepaalde bepalingen elkaar in de praktijk uitsluiten en dat bepalingen die wel gecombineerd kunnen worden elkaar veelal in een strikte volgorde moeten opvolgen.
 
@@ -1148,11 +1144,11 @@ Welke bepalingen er zijn uitgevoerd, wordt voor ieder interval vastgelegd. Deze 
 
 Iedere bepaling die als onderdeel van de boormonsteranalyse wordt uitgevoerd, is aan een bepaalde procedure onderworpen en wordt volgens een bepaalde methode uitgevoerd. Wanneer er in de uitvoering keuzen worden gemaakt die voor de gebruiker van de gegevens relevant kan zijn, worden die vastgelegd. Datzelfde geldt voor de eventuele bijzonderheden die zich tijdens de uitvoering voordoen of die men na afloop constateert door het materiaal te bekijken.
 
-### 2.16. Onderzocht materiaal
+### 3.63.1. vormfactor alfa
 
 Het materiaal waaruit een proefstuk bestaat dat de volledige doorsnede van een niet verstoord monster omvat, wordt pas na afloop van de bepaling beschreven (zie figuur 5). Het resultaat wordt apart vastgelegd en alleen de aspecten die na afloop van de bepaling nog als representatief voor het oorspronkelijk monster kunnen worden beschouwd, worden beschreven. In het uitzonderlijke geval dat het interval uit bijzonder materiaal bestaat, wordt alleen de naam van het materiaal vastgelegd.
 
-### 2.17. Bepaling van de verticale vervorming
+### 3.63.3. vormfactor m
 
 Voor het bepalen van de mate van vervorming die een proefstuk bij belasting in verticale richting ondergaat worden twee methoden toegepast. Daarvan is er een, het stapsgewijs samendrukken van het materiaal in de zgn. **samendrukkingsproef**, in deze versie van de catalogus uitgewerkt. De bepaling van de verticale vervorming vereist een niet verstoord proefstuk en wordt alleen bepaald van cohesief materiaal en dat wil zeggen materiaal dat samenhang vertoont doordat het een zekere consistentie heeft. De mate waarin het proefstuk vervormt wordt bepaald door de belasting die het materiaal al in de ondergrond heeft ondergaan, door de opgelegde drukspanning en de eigenschappen van het materiaal, met name de weerstand van het korrelskelet4Onder korrelskelet wordt verstaan het vaste materiaal en het daaraan gebonden water. tegen drukspanning. De snelheid van de vervorming wordt voornamelijk bepaald door de snelheid waarmee het in het materiaal aanwezige water uitgeperst kan worden en daarmee de waterdoorlatendheid.
 
@@ -1160,7 +1156,7 @@ De bepaling verloopt stapsgewijs. In een **bepalingsstap** wordt het proefstuk e
 
 De registratie van de metingen vindt geautomatiseerd plaats en er worden gewoonlijk bepaalde correcties toegepast. Wanneer het proefstuk de volledige doorsnede van een monster beslaat, wordt het samengedrukte materiaal na afloop van de bepaling beschreven.
 
-### 2.18. Bepaling van de maximale ongedraineerde schuifsterkte
+### 1.1. Horizontcode
 
 De **maximale schuifsterkte** is de schuifspanning waarbij materiaal bezwijkt. **Ongedraineerd** wil zeggen dat het water dat in het materiaal aanwezig is, er tijdens de bepaling in blijft zitten. Het water neemt dan een deel van de opgelegde spanning op.
 
@@ -1168,7 +1164,7 @@ De **maximale ongedraineerde****schuifsterkte** wordt alleen bepaald van cohesie
 
 Bepalingen met deze apparaten leveren indicatieve waarden. Een enkelvoudige bepaling is altijd een puntmeting. Standaard wordt op twee verschillende punten in het monster een meting uitgevoerd en wordt het gemiddelde van de metingen vastgelegd.
 
-### 2.19. Bepaling van de korrelgrootteverdeling
+### 1.5. Bepalingsprocedure
 
 Voor de korrelgrootteverdeling wordt de samenstelling van het materiaal bepaald vanuit het perspectief dat grond een mengsel van minerale deeltjes van verschillende grootte is. De deeltjes worden korrels genoemd. Volgens een bepaalde methode, of combinatie van methoden, wordt het aandeel van de gekozen groottefracties in het totale mengsel bepaald. De fracties bij elkaar vormen een aaneensluitende reeks die het groottebereik volledig dekt.
 
@@ -1178,43 +1174,43 @@ De metingen worden altijd omgerekend naar een percentage van de totale massa en 
 
 De korrelgrootteverdeling wordt in eerste instantie gebruikt om het materiaal te classificeren.
 
-### 2.20. Bepaling van het watergehalte
+### 1.10. BijzonderheidUitvoering
 
 Het watergehalte wordt bepaald door het in het materiaal aanwezige water op een bepaalde manier te verwijderen, het massaverlies te meten en het resultaat uit te drukken in de verhouding tussen de hoeveelheid water en de hoeveelheid droge stof. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is. Temperatuur en droogtijd zijn van belang en voor de aanwezigheid van zouten in het poriënwater wordt een bepaalde correctie doorgevoerd. In sommige gevallen wordt het gegeven bij twee verschillende temperaturen bepaald.
 
 Het watergehalte is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
 
-### 2.21. Bepaling van het organischestofgehalte
+### 1.13. Boornorm
 
 Het gehalte aan organische stof wordt bepaald door het organisch materiaal op een bepaalde manier te verwijderen en het verlies aan massa te meten. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is. Bij de berekening van het gehalte kan het nodig zijn te corrigeren voor het verlies van water dat aan klei is gebonden (**lutumcorrectie**).
 
 Het organische stofgehalte is een basisparameter die primair gebruikt wordt om de grond te classificeren.
 
-### 2.22. Bepaling van het kalkgehalte
+### 1.16. Boorspoeling
 
 Het gehalte aan kalk wordt bepaald door het aanwezige calciumcarbonaat (koolzure kalk) op een bepaalde manier te verwijderen en het verlies aan massa te meten. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is.
 
 Het kalkgehalte is een basisparameter die primair gebruikt wordt om de grond te classificeren.
 
-### 2.23. Bepaling van de volumieke massa
+### 1.19. Coördinaattransformatie
 
 De **volumieke massa**, de massa per eenheid van volume, wordt bepaald door de massa en het volume op een bepaalde manier te meten.
 
 Het gegeven is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
 
-### 2.24. Bepaling van de volumieke massa vaste delen
+### 1.22. Droogtijd
 
 De volumieke massa van de vaste delen wordt bepaald door de massa en het volume van gedroogd materiaal te meten. Zo nodig wordt het materiaal vergruisd en worden de korrels van elkaar los gemaakt zodat het volume van de ruimte tussen de korrels nauwkeurig kan worden bepaald. Dat volume wordt bepaald door die ruimte met gas of vloeistof te vullen.
 
 Het gegeven is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
 
-### 2.25. Domeinmodel
+### 1.25. Gesteentesoort
 
 Het domeinmodel dat in de figuren 6, 7 en 8 wordt getoond geeft een samenhangend overzicht van de gegevens van het registratieobject. De nummering in het model is dezelfde als in de gegevensdefinitie.
 
-### 3. Het domeinmodel
+### 1.27. Grondwatertrap
 
-### Basisregistratie Ondergrond (BRO)
+### 1.28. KaderAanlevering
 
 **Catalogus**
 
@@ -1224,67 +1220,67 @@ Bodemkundige wandbeschrijving
 
 **Inhoudsopgave**
 
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+### 1.33. Landgebruik
 
-### 1.1. Registratieobject
+### 1.34. LokaalVerticaalReferentiepunt
 
-### 1.2. Entiteiten en attributen
+### 1.35. MethodeLocatiebepaling
 
-### 1. Wandonderzoek
+### 1.36. MethodeVerticalePositiebepaling
 
-### 2. Registratiegeschiedenis
+### 1.37. Modelleringsmethode
 
-### 3.0. Rapportagegeschiedenis
+### 1.38. Modelleringsprocedure
 
-### 3.1. Tussentijdse gebeurtenis
+### 1.39. Monsterhoedanigheid
 
-### 4. Aangeleverde locatie
+### 1.40. NaamGebeurtenis
 
-### 5. Aangeleverde verticale positie
+### 1.41. OndergrensZandfractie
 
-### 6. Gestandaardiseerde locatie
+### 1.42. OndergrondDuinvaaggrond
 
-### 7. Wandontsluiting
+### 1.43. OndergrondVeen
 
-### 8. Terreintoestand
+### 1.44. OnderzochtOppervlak
 
-### 9.0. **Wandbeschrijving**
+### 1.45. OrganischestofGehalteKlasse
 
-### 9.1. Wandprofiel
+### 1.46. Profielverloop
 
-### 9.2. Strooisellaag
+### 1.47. Referentiestelsel
 
-### 9.3. Bodemlaag
+### 1.48. Registratiestatus
 
-### 9.4. Homogeen materiaal
+### 1.49. Rijpingsklasse
 
-### 9.5. Grond
+### 1.50. StandaardGrondsoortnaam
 
-### 9.6. Fractieverdeling
+### 1.51. Stopcriterium
 
-### 9.7. Verdeling fijne fractie
+### 1.52. SoortAnalyse
 
-### 9.8. Onvolledige fractiespecificatie
+### 1.53. Strooiselsoort
 
-### 9.9. Munsellkleur
+### 1.54. Textuurklasse
 
-### 9.1. 0 Vlek
+### 1.55. Vakgebied
 
-### 9.1. 1 Bodemaggregaat
+### 1.56. Veenklasse
 
-### 9.1. 2 Laagcomponent
+### 1.57. Veensoort
 
-### 9.1. 3 Verstoord interval
+### 1.58. Vergravingsklasse
 
-### 9.1. 4 Verdicht interval
+### 1.59. VerwijderdMateriaal
 
-### 9.1. 5 Bodemclassificatie
+### 1.60. VerticaalReferentievlak
 
-### 9.1. 6 Bijzonderheid onderin
+### 1.61. Zoutcorrectiemethode
 
-### Artikel 2. Beschrijving van de enumeraties en codelijsten
+### Toelichting
 
-### 1.1. Enumeraties
+### 1. Inleiding
 
 ### 1.2. Codelijsten
 
@@ -1292,17 +1288,17 @@ Bodemkundige wandbeschrijving
 
 ### 2. AfwijkendGrondwaterRegime
 
-### 3. Aggregaatlengteklasse
+### 1.1. Bodemkundig booronderzoek
 
 ### 4. Aggregaatvorm
 
 ### 5. Bedekkingsgraad
 
-### 6. Beschrijfkwaliteit
+### 1.2. Boren
 
 ### 7. Beschrijfprocedure
 
-### 8. BijzonderBestanddeel
+### 1.3. Deelonderzoeken
 
 ### 9. Bijzonderheid
 
@@ -1310,55 +1306,55 @@ Bodemkundige wandbeschrijving
 
 ### 11. BijzonderheidLocatie
 
-### 12. BijzonderMateriaal
+### 1.4. Bemonsteren
 
 ### 13. Bodemgebruik
 
 ### 14. Bodemklasse
 
-### 15. BodemkundigeAfzettingskarakteristiek
+### 1.5. Inspire
 
 ### 16. BodemkundigeGrondsoort
 
-### 17. Bodemleven
+### 2. Belangrijkste entiteiten
 
-### 18. Brokje
+### 2.1. Booronderzoek
 
 ### 19. Codegroep
 
 ### 20. Coördinaattransformatie
 
-### 21. GelaagdeInhomogeniteit
+### 2.2. Registratiegeschiedenis
 
 ### 22. Gesteentesoort
 
-### 23. Grensbepaling
+### 2.3. Rapportagegeschiedenis
 
 ### 24. Grindgehalteklasse
 
-### 25. GrondsoortNEN5104
+### 2.4. Boring
 
 ### 26. Grondwatertrap
 
-### 27. Hoekigheid
+### 2.5. Terreintoestand
 
 ### 28. HoeveelheidsklassePorien
 
-### 29. HoeveelheidsklasseWortels
+### 2.6. Boormonsterbeschrijving
 
 ### 30. Horizontcode
 
-### 31. HydrologischeOmstandigheid
+### 2.7. Boorprofiel
 
 ### 32. KaderAanlevering
 
 ### 33. KaderInwinning
 
-### 34. Kalkgehalteklasse
+### 2.7. Bodemclassificatie
 
 ### 35. Kalkverloopklasse
 
-### 36. Kleur
+### 2.8. Boormonsteranalyse
 
 ### 37. KunstmatigeDrainage
 
@@ -1368,7 +1364,7 @@ Bodemkundige wandbeschrijving
 
 ### 40. LokaalVerticaalReferentiepunt
 
-### 41. MaaiveldVerlegd
+### 2.9. Onderzocht interval
 
 ### 42. MethodeLocatiebepaling
 
@@ -1376,17 +1372,17 @@ Bodemkundige wandbeschrijving
 
 ### 44. MunsellHoofdkleur
 
-### 45. MunsellWitheid
+### 2.1. Bepaling van de zuurgraad.
 
 ### 46. MunsellZuiverheid
 
-### 47. NaamGebeurtenis
+### 2.2. Bepaling van de korrelgrootteverdeling
 
 ### 48. OndergrensZandfractie
 
 ### 49. OndergrondDuinvaaggrond
 
-### 50. OndergrondVeen
+### 2.3. Bepaling van het organischestofgehalte.
 
 ### 51. OrganischeStofGehalteklasse
 
@@ -1394,21 +1390,21 @@ Bodemkundige wandbeschrijving
 
 ### 53. Profielverloop
 
-### 54. Referentiestelsel
+### 2.4. Bepaling van het organische koolstofgehalte.
 
 ### 55. Registratiestatus
 
 ### 56. Rijpingsklasse
 
-### 57. Ruwheid
+### 2.5. Bepaling van de droge bulkdichtheid
 
 ### 58. Schelpmateriaalgehalteklasse
 
-### 59. Stopcriterium
+### 2.6. Bepaling van het krimpverloop.
 
 ### 60. Strooiselsoort
 
-### 61. Structuurtype
+### 2.7. Bepaling van de waterdoorlatendheid
 
 ### 62. Textuurklasse
 
@@ -1416,7 +1412,7 @@ Bodemkundige wandbeschrijving
 
 ### 64. Vakgebied
 
-### 65. Veenklasse
+### 2.8. Bepaling van de waterretentie stapsgewijs.
 
 ### 66. Veensoort
 
@@ -1426,7 +1422,7 @@ Bodemkundige wandbeschrijving
 
 ### 69. Verstoring
 
-### 70. VerticaalReferentievlak
+### 2.9. Bepaling van watergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal.
 
 ### 71. Vlekkleur
 
@@ -1434,21 +1430,5039 @@ Bodemkundige wandbeschrijving
 
 ### 73. VormGrens
 
-### 74. Zandverkitting
+### 2.10. Modellering van hydrofysische karakteristieken
 
 ### Toelichting
 
 ### 1. Inleiding
 
-De catalogus voor de bodemkundige wandbeschrijving beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het wandonderzoek dat vanuit het vakgebied van de bodemkunde is uitgevoerd.
+Een tweede keuze betreft het aantal karakteristieken van een type. De uitvoerder kan er voor kiezen meer dan een karakteristiek van hetzelfde type te maken door een deel van de beschikbare bepalingen als input te nemen. Door meer modellen te maken wordt inzicht verkregen in de spreiding van de resultaten. Welke bepalingen de uitvoerder heeft gekozen wordt altijd vastgelegd (**bepalingsid**).
 
-De catalogus beschrijft de algemene gegevens van dit wandonderzoek samen met de gegevens van de wandmonsterbeschrijving.
+De modellering van alleen de waterretentiekarakteristiek berust in de huidige praktijk op de methode van Van Genuchten. Voor grond met een heterogene poriënverdeling wordt een variant gebruikt die door Durner (en later door Priesack en Durner) is uitgewerkt. De waterretentiekarakteristiek is een curve die het werkelijk verband tussen watergehalte en bodemvochtpotentiaal zo goed mogelijk beschrijft. De curve is enkelvoudig bij een homogene poriënverdeling en samengesteld bij een heterogene poriënverdeling. De curve wordt gedefinieerd door het bereik van het volumetrisch watergehalte en een of meer sets vormparameters. Het bereik van het volumetrisch watergehalte wordt gegeven door de waarde bij verzadiging (**verzadigd volumetrisch watergehalte**) en een asymptotische residuele waarde (**residueel volumetrisch watergehalte**). Voor de definitie van een enkelvoudige curve is daarnaast een set van drie vormparameters (**Vorm retentiecurve**) voldoende. Voor een curve die uit samenstellende curves is opgebouwd zijn er meer sets nodig. Ieder van die sets heeft als extra parameter een zogenaamde **wegingsfactor** en die is nodig om de bijdrage van de curve aan de samengestelde curve te definiëren. De som van die wegingsfactoren is gelijk aan 1.
 
-Wandonderzoek kan vanuit verschillende vakgebieden worden uitgevoerd, maar in de basisregistratie ondergrond omvat het alleen het vakgebied van de bodemkunde. De reden is dat wandonderzoek van oudsher een prominente plaats in de bodemkunde inneemt en dat de gegevens digitaal en systematisch worden vastgelegd. In andere vakgebieden, zoals de geologie en geotechniek, is dat niet het geval.
+De modellering van de waterretentiekarakteristiek en de doorlatendheidskarakteristiek is in de huidige praktijk gebaseerd op de methode van Mualem en Van Genuchten. Voor grond met een heterogene poriënverdeling wordt ook hier een variant gebruikt die door Durner (en later door Priesack en Durner) is uitgewerkt. De waterretentiekarakteristiek is hierboven al beschreven. De waterdoorlatendheidskarakteristiek is een vergelijkbare curve maar om de vorm ervan te beschrijven is een parameter meer nodig, de **vormfactor lambda**. De curve beschrijft het werkelijk verband tussen waterdoorlatendheid en bodemvochtpotentiaal zo goed mogelijk.
 
 ### 1.1. **Bodemkundig wandonderzoek**
 
 Bodemkundig wandonderzoek heeft tot doel de opbouw en de eigenschappen van het bovenste deel van de ondergrond te onderzoeken. Het perspectief van waaruit dat gebeurt is dat van de landbouw, de landinrichting, het natuurbeheer of de winning van oppervlaktedelfstoffen. Bij uitzondering is het doel er één van meer wetenschappelijke of educatieve aard.
+
+Deze bijlage betreft de catalogus van het registratieobject booronderzoek – geologische boormonsterbeschrijving en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+### 1.2. Ontsluiten
+
+Bodemkundig wandonderzoek vereist dat er op de plaats van het onderzoek een verticale wand is blootgelegd die het bovenste deel van de ondergrond, de bodem, met het eventueel daarop aanwezige strooisel ontsluit. Plaatsen waar de bodem van nature is ontsloten zijn in Nederland zeldzaam. Soms is er voor onderzoek een wand voorhanden die door de mens is gemaakt, bijvoorbeeld in een groeve, aan de rand van een weg- of leidingtracé of in een slootkant, maar in bijna alle gevallen moet er eerst worden gegraven.
+
+Wandonderzoek wordt gewoonlijk en ongeacht de aard van een project gecombineerd met booronderzoek. Boren is snel en goedkoop, maar levert eigenlijk slechts indirecte gegevens omdat men zich moet baseren op bodemmonsters die uit het geboorde gat zijn verkregen. In de bodemkundige praktijk zijn dat altijd geroerde monsters, monsters waarin de oorspronkelijke opbouw van de bodem niet meer te zien is. Onderzoek aan een wand vraagt meer tijd en is daardoor duurder. Een wand geeft echter direct zicht op de bodem en levert een betrouwbaarder en meer gedetailleerd beeld van de opbouw van de bodem, het verloop en de samenstelling van de lagen, en de structuur van de grond. Ook aspecten als beworteling en de invloed van de mens laten zich veel beter zien.
+
+### 2. Het domeinmodel
+
+Bodemkundig wandonderzoek omvat gewoonlijk twee deelonderzoeken, de wandbeschrijving en de wandmonsteranalyse. Soms wordt alleen de wandbeschrijvng uitgevoerd, soms alleen de wandmonsteranalyse. Daarnaast wordt het maken van foto’s meer en meer gebruikelijk.
+
+Deze versie van de catalogus dekt alleen de wandbeschrijving. In de wandbeschrijving staat het beschrijven van de opbouw van de bodem centraal.
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+**Wandonderzoek**is het geheel van gegevens dat betrekking heeft op een specifiek wandonderzoek dat op een specifiek moment gekoppeld aan een specifieke locatie in Nederland onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
+
+Wandonderzoek begint eigenlijk altijd met activiteiten in het veld, het veldwerk, en dat wordt in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer wandonderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd5De eisen die voor de gegevens van dat wandonderzoek moeten gelden zijn nog niet vastgesteld..
+
+### 3.1.5. kwaliteitsregime
+
+De **registratiegeschiedenis** van een wandonderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
+
+### 3.1.7. kader inwinning
+
+De resultaten van het wandonderzoek worden niet in een keer maar per deelonderzoek gerapporteerd. Wanneer een deelrapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het registratieobject wandonderzoek.
+
+### 3.1.9. rapportagedatum onderzoek
+
+Om een beschrijving van de bodemopbouw in een wand te kunnen maken of een wand te bemonsteren, is er een wand nodig waarin de bodem ontsloten is. In de meeste gevallen graaft men daartoe een kuil, een **profielkuil**. Vervolgens kiest men een van de wanden en prepareert die. Wanneer de bodem al ontsloten is, bijvoorbeeld doordat er een weg wordt aangelegd, dan wordt een deel van een bestaande wand geprepareerd. Prepareren houdt in dat de wand verticaal, vlak en schoon wordt gemaakt en daarvoor wordt een schop, en eventueel een troffel of een mes gebruikt. De wand is schoon wanneer al het rulle, droge materiaal verwijderd is en de details van de bodemopbouw zichtbaar zijn.
+
+De diepte tot waar de wand geprepareerd wordt, ligt normaliter tussen 1,20 en 1,50 meter, de breedte van de geprepareerde wand is typisch een meter. In al bestaande ontsluitingen kan de bodem over een veel grotere afstand zijn ontsloten. Voor de opdracht kan het wenselijk zijn de wand op verschillende plekken te prepareren en op iedere plek een beschrijving te maken. In de registratie telt iedere beschrijving als deel van een op zichzelf staand wandonderzoek.
+
+### 3.1.12. uitvoerder onderzoek
+
+Voor, tijdens of direct na het maken en prepareren van de wand kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het onderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein. Dat begrip wordt in nogal ruime zin opgevat en dekt alle gegevens die vastgelegd worden om een goed begrip te krijgen van de ruimtelijke context waarbinnen het onderzoek wordt uitgevoerd. En omdat bodemvorming een doorlopend proces is waarin de actuele omstandigheden een rol spelen, wordt ook vanuit dat perspectief goed naar het terrein gekeken. Dat geldt in het bijzonder voor onderzoek dat in het kader van natuurbeheer wordt uitgevoerd.
+
+### 3.2.1. tijdstip registratie object
+
+**Wandbeschrijving** is het deelonderzoek dat betrekking heeft op het beschrijven van de wand met als doel een **wandprofiel** te maken. De wand wordt beschreven over een bepaalde breedte (**beschreven breedte**) en tot de **einddiepte**. Op een bepaalde plaats wordt een meetlint naar beneden gehangen. Het meetlint markeert de positie van de **beschrijflijn** en dat is de lijn waarop de verticale posities van de lagen in het wandprofiel zijn bepaald. De plaats van de beschrijflijn wordt zo gekozen dat de wand voor het doel van het onderzoek zo goed mogelijk kan worden beschreven. Wanneer de wand snel uitdroogt, kan bevochtiging nodig zijn.
+
+De wandbeschrijving levert twee resultaten, het **wandprofiel** en de **bodemclassificatie**.
+
+### 3.2.4. tijdstip voltooiing registratie
+
+Het **wandprofiel** beschrijft de opbouw van de bodem in de wand.
+
+Een wandprofiel heeft een bepaalde **beschrijfkwaliteit** en die geeft aan tot in welk detail de wand is beschreven. De bovenkant van het profiel, de doorsnijding van het maaiveld of de bovenkant van het daarop liggende strooisel, is niet altijd vlak omdat de hoogte binnen de breedte waarover de wand wordt beschreven sterk kan variëren (**vorm bovengrens**).
+
+De opbouw van de bodem wordt beschreven als een opeenvolging van lagen en er wordt onderscheid gemaakt tussen strooisel- en bodemlagen. Op bepaalde plaatsen in de wand kan de laagopbouw verstoord zijn. Wanneer er lokaal buiten de beschrijflijn een verstoring optreedt wordt dat als **plaatselijk fenomeen** beschreven (figuur 3).
+
+Maar wanneer verstoringen over de hele breedte van de wand voorkomen, wordt het interval waarin ze optreden als een **Verstoord interval** beschreven (figuur 4).
+
+In het profiel worden verder een aantal algemene kenmerken van de wand vastgelegd, zoals het niveau van de gemiddelde grondwaterstand, de diepte tot waar beworteling mogelijk is (**bewortelbare diepte**), en de aanwezigheid van een interval dat door toedoen van de mens verdicht is.
+
+### 3.2.10. tijdstip uit registratie genomen
+
+Bovenop de eigenlijke bodem liggen lokaal, met name in bossen, laagjes die uit onverteerde plantenresten zoals afgevallen blad bestaan. Dit zgn. **strooisel** wordt, als de opdracht daarom vraagt, beschreven als deel van het profiel. De bovengrens en de ondergrens worden op dezelfde manier beschreven als de eigenlijke bodemlagen (zie 2.9).
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+De bodemlagen zijn de belangrijkste entiteiten van een wandprofiel. Iedereen die de ondergrond beschrijft, beschouwt de ondergrond als opgebouwd uit lagen. Een laag heeft een boven- en ondergrens en een bepaalde inhoud. Iedere grens wordt op een bepaalde manier bepaald (**bepaling bovengrens** en **bepaling ondergrens**). Meestal markeert een grens een diepte waarop een verandering in inhoud wordt waargenomen en dan is het van belang te weten hoe scherp de grens kan worden getrokken. In oorsprong zijn de grenzen in een verticale doorsnede van de ondergrond vrijwel recht, maar in de bodem is dat lang niet altijd het geval omdat de diepte tot waar bodemvormende processen reiken binnen de breedte waarover de wand wordt beschreven kan variëren. De vorm van de ondergrens van een laag wordt daarom vastgelegd (**vorm ondergrens**).
+
+Lagen liggen normaliter (sub)horizontaal en lopen over de hele wand door. Maar een laag kan scheefstaan (**scheefstaand**), bijvoorbeeld in het geval de wand gemaakt is in een stuwwal, en het komt voor dat een laag terzijde van de beschrijflijn op zekere plaatsen ontbreekt (**laag discontinu**).
+
+Het kenmerkende van een laag is haar inhoud. Om de inhoud goed te kunnen beschrijven is het van belang te weten of de laag helemaal natuurlijk is of dat mens de samenstelling heeft beïnvloed (**antropogeen**). Dat laatste betekent meestal dat de mens de bodem ter plaatse bewerkt heeft. Door bewerking worden lagen verbroken en als gevolg daarvan kan een nieuwe laag ontstaan die uit het materiaal van oudere lagen bestaat. Wanneer zo’n laag helemaal uit brokstukken bestaat waarin de oorspronkelijke eigenschappen nog te zien zijn, spreekt men van een **gekeerde** laag.
+
+Een gekeerde laag wordt beschreven als een samenstel van delen, ieder deel heet een **Laagcomponent**.
+
+Wanneer de bewerking zo intensief is geweest dat dat de herkomst van de bestanddelen van een antropogene laag niet meer herkenbaar is, is de laag **gemengd** en wordt zij, net als een laag van natuurlijke oorsprong, beschreven als een geheel (**Homogeen materiaal**).
+
+Wat de inhoud van een laag ook is, er kunnen altijd sporen van bodemorganismen (**bodemleven**) en wortels zichtbaar zijn (**beworteld**).
+
+### 3.5. Aangeleverde locatie
+
+Een bodemlaag die beschreven wordt als een geheel, bestaat soms uit bijzonder materiaal, soms uit gesteente en meestal uit grond. In het eerste geval is het voldoende alleen het materiaal te specificeren. Een laag die uit gesteente bestaat krijgt een **horizontcode** – die overigens een vaste waarde heeft- en verder wordt alleen het soort gesteente nader omschreven. Lagen die uit grond bestaan krijgen een horizontcode en de samenstelling van de grond wordt uitgebreid beschreven (**Grond**). Verder kan het bij grond wenselijk zijn iets vast te leggen over de omstandigheden waaronder de laag gevormd is (**bodemkundige afzettingskarakteristiek**) en de **verzadigde doorlatendheid** te schatten.
+
+### 3.5.2. referentiestelsel
+
+Van een bodemlaag die heterogeen is wordt iedere component apart beschreven. Het aandeel van een component in de laag wordt altijd geschat. Verder worden dezelfde gegevens vastgelegd als wanneer de inhoud van een laag als een geheel wordt geschreven, zij het dat de inhoud altijd uit grond bestaat.
+
+### 3.5.4. methode locatiebepaling
+
+Van grond kan een grote verscheidenheid aan gegevens worden beschreven. In alle gevallen worden de volgende gegevens vastgelegd: de **bodemkundige grondsoort**, of voor het bepalen van de grondsoortnaam de leemdriehoek is gebruikt, de bijzondere bestanddelen, de **kalkgehalteklasse** en de **kleur**.
+
+Veel van de andere gegevens worden alleen voor bepaalde grondsoorten vastgelegd. Zo wordt van klei- en leemhoudende grond de **rijpingsklasse** vastgelegd, van grond waarvan de naam aangeeft dat er veen in voorkomt, de **veensoort**, en van grond waarvan de naam aangeeft dat er zand in voorkomt, de **zandmediaanklasse**. Afhankelijk van de grondsoort wordt ook een schatting gegeven van het aandeel van de verschillende fracties waaruit de grond bestaat (**Fractieverdeling**). Voor historische gegevens (kwaliteitsregime IMBRO/A) is dat overigens niet altijd het geval en soms ook is de fractieverdeling niet volledig beschreven (**Onvolledige****fractiespecificatie**).
+
+Een aantal gegevens wordt alleen vastgelegd wanneer de opdracht een hoge kwaliteit van beschrijven vraagt. Voorbeelden daarvan zijn de structuur van de grond (**structuurtype**) en de **geschatte dichtheid**. Voor een bepaald type structuur worden de kenmerken van de structuurelementen in detail beschreven (**Bodem**a**ggregaat;**zie figuur 6).
+
+De kleur van de grond wordt bij een hoge kwaliteit altijd aan de hand van de Munsell Soil Colour Chart bepaald (**Munsellkleur**). Komen er vlekken voor, dan worden daarvan allerlei details beschreven (**Vlek**).
+
+### 3.6.3. waterdiepte
+
+De bodemclassificatie is het tweede resultaat van de wandbeschrijving. Het is in essentie een samenvatting van de informatie die in het wandprofiel is vastgelegd en is vooral bedoeld is als input voor bodemkundige modellen. Het geeft specialisten direct inzicht in het type bodem ter plaatse.
+
+### 3.6.5. datum verticale positiebepaling
+
+### 3.6.6. methode verticale positiebepaling
+
+**Catalogus**
+
+Grondwatermonitoringput
+
+**Inhoudsopgave**
+
+### 3.7.2. referentiestelsel
+
+### 3.7.3. coördinaattransformatie
+
+### 3.8. Terreintoestand
+
+### 3.8.1. bodemgebruik
+
+### 3.8.2. ligging op grondlichaam
+
+### 3.8.3. landschapselement
+
+### 3.8.4. hydrologische omstandigheid
+
+### 3.8.5. actueel proces
+
+### 3.8.6. tijdelijke verandering
+
+### 3.9. Boring
+
+### 3.9.1. startdatum boring
+
+### 3.9.2. einddatum boring
+
+### 3.9.3. voorbereiding
+
+### 3.9.4. einddiepte voorbereiding
+
+### 3.9.5. traject weggegraven
+
+### 3.9.6. einddiepte graven
+
+### 3.9.7. gesteente aangeboord
+
+### 3.9.8. boorprocedure
+
+### 3.9.9. einddiepte boren
+
+### 3.9.10. stopcriterium
+
+### 3.9.11. tijdelijke verbuizing aangebracht
+
+### 3.9.12. einddiepte tijdelijke verbuizing
+
+### 3.9.13. spoeling gebruikt
+
+### 3.9.14. spoelingtoeslag
+
+### 3.9.15. grondwaterstand
+
+**Buisstatus**
+
+**Buistype**
+
+**CoördinaatTransformatie**
+
+**Elektrodestatus**
+
+**InitiëleFunctie**
+
+**KaderAanlevering**
+
+**Kousmateriaal**
+
+**KwaliteitsnormInrichting**
+
+**Lijm**
+
+**LokaalVerticaalReferentiepunt**
+
+**MethodeLocatiebepaling**
+
+**MethodePositiebepalingBovenkantBuis**
+
+**MethodePositiebepalingMaaiveld**
+
+**NaamGebeurtenis**
+
+**Putstabiliteit**
+
+**Referentiestelsel**
+
+**Registratiestatus**
+
+**VerticaalReferentievlak**
+
+### 3.12.4. bemonsteringsmethode
+
+### 3.12.5. bemonsteringskwaliteit
+
+De catalogus voor de grondwatermonitoringsput beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van putten die in het publieke domein worden gebruikt voor het monitoren van de hoeveelheid grondwater en de kwaliteit ervan.
+
+### 3.13. Bemonsteringsapparaat
+
+Een grondwatermonitoringput is een constructie die op een specifieke locatie in Nederland is ingericht en die in een monitoringnet wordt gebruikt. De constructie wordt gewoonlijk gerealiseerd in een gat dat gemaakt is door in de ondergrond te boren. Veelal bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf (figuur 1). Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Een filter fungeert als meetpunt in een grondwatermonitoringnet. Aan een buis kunnen een of meer geo-ohmkabels zijn bevestigd. Dat zijn kabels die voorzien zijn van elektroden die gebruikt worden om bijvoorbeeld het zoutgehalte van het water te kunnen bepalen.
+
+De opbouw van een put varieert en de monitoringdiepte is daarbij een factor van belang. Wordt de put gebruikt voor de monitoring van het grondwater in het bovenste deel van de ondergrond, dan bestaat hij vaak uit niet meer dan een buis die aan de bovenzijde met een dop is afgesloten.
+
+Voor het ontsluiten van diep grondwater worden soms honderden meters diepe gaten geboord en dat is een relatief kostbare operatie. Dergelijke putten kunnen tientallen monitoringbuizen bevatten. Elk van die buizen ontsluit grondwater op een andere diepte. De ruimte tussen de buizen is met een bepaald materiaal opgevuld om het geheel te verstevigen en aan de bovenzijde wordt de put afgesloten met een beschermconstructie. Zoals de naam al aangeeft dient de beschermconstructie om de put te beschermen tegen beschadiging of andere ongewenste invloeden. De constructie is kan boven het maaiveld uitsteken, zoals in figuur 1, maar ook min of meer samenvallen met het maaiveld. Voor het laatste wordt in de gebouwde omgeving vaak gekozen.
+
+Een grondwatermonitoringput is in de basisregistratie ondergrond opgenomen wanneer ten minste een van de filters of elektroden een meetpunt is in een grondwatermonitoringnet dat onder de basisregistratie ondergrond valt.
+
+### 3.13.5. kous gebruikt
+
+De grondwatermonitoringput is een registratieobject met materiële geschiedenis. Voordat de put in de registratie ondergrond is opgenomen kan hij al een zekere geschiedenis achter de rug hebben. Een dergelijke grondwatermonitoringput wordt een put **met voorgeschiedenis** genoemd.
+
+Er gelden bijzondere regels voor een put met voorgeschiedenis.
+
+De bijzondere regels hebben betrekking op de opbouw van de materiële geschiedenis. De geschiedenis van een grondwater-monitoringput is een reeks van gebeurtenissen die elkaar netjes moeten opvolgen in de tijd. In principe geldt de eis dat de precieze datum van een gebeurtenis moet worden vastgelegd, maar die eis kan niet met terugwerkende kracht gelden voor putten die al voor de invoering van de BRO bestonden. Wanneer een gebeurtenis in het verleden ligt, moet de basisregistratie er rekening mee houden dat de datum niet precies is vastgelegd en bijvoorbeeld alleen het jaar bekend is. Het deel van de geschiedenis die dateert van voor de registratie, de voorgeschiedenis, mag daarom een zekere onvolledigheid kennen.
+
+### 3.13.9. steunvloeistof gebruikt
+
+### 3.13.10. voorzien van vanger
+
+Deze entiteit draagt de naam van het registratieobject zelf en bevat onder meer de gegevens die de grondwatermonitoringsput identificeren, allerlei administratieve gegevens, gegevens die de constructie globaal karakteriseren (**aantal buizen**, **beschermconstructie**) en gegevens die nodig zijn om de gevolgen van eventuele maaiveldveranderingen goed te kunnen vastleggen (**maaiveld stabiel, putstabiliteit**).
+
+### 3.14. Verontreinigd interval
+
+De registratiegeschiedenis van een grondwatermonitoringput geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. formele geschiedenis. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na de start van de registratie correcties zijn doorgevoerd.
+
+### 3.14.2. einddiepte
+
+De constructie van een put is in de basisregistratie ondergrond teruggebracht tot haar essentie, en dat geldt ook voor de monitoringbuis. In werkelijkheid kan een buis bestaan uit een heleboel delen die wat materiaal, diameter en functie betreft verschillen. Het model dat de basisregistratie hanteert is simpel en beschrijft de buis als opgebouwd uit maximaal drie functionele delen (figuur 2).
+
+In de meeste gevallen bestaat een buis uit een **filter** met daarboven een **stijgbuisdeel**; in sommige gevallen zit onder het filter nog een derde deel, de **zandvang**. Ieder deel van de buis heeft een bepaalde lengte.
+
+Het filter is het belangrijkste onderdeel van de buis en fungeert als meetpunt in een grondwatermonitoringnet. Via het filter kan het grondwater de buis in stromen. In het stijgbuisdeel kan het grondwater vrijelijk bewegen tenzij de buis is afgesloten met een **drukdop** (figuur 3). Een drukdop wordt gebruikt wanneer de buis zou kunnen overstromen doordat het water onder druk staat. Wanneer de grondwaterstand bepaald moet worden, wordt in die gevallen vaak een opzetstuk gebruikt.
+
+De zandvang dient om sediment op te vangen dat door het filter naar binnen komt.
+
+Voor de monitoring van ondiep grondwater zijn buizen met een afwijkende opbouw in gebruik, en in gebruik geweest.
+
+In het verleden zijn monitoringbuizen gebruikt die uit beton bestonden en geen filteropeningen hadden. Een dergelijke buis was eigenlijk alleen een stijgbuis en werd zo in het boorgat gehangen dat het water aan de onderzijde kon instromen. Zulke buizen zijn niet meer in gebruik. Ook waren er buizen in gebruik die over de gehele lengte uit filter bestaan. Dergelijke buizen worden nog steeds gebruikt.
+
+Om de twee afwijkende buizen in het model te passen wordt toegestaan dat het filter, resp. de stijgbuis de lengte nul heeft.
+
+De aard van het materiaal waaruit een buis bestaat en het materiaal dat gebruikt is om de buis in de put op zijn plaats te houden, het **toegepast materiaal**, worden vastgelegd omdat het van belang kan zijn bij het beoordelen van de bruikbaarheid van de meetpunten in de put voor de monitoring van de kwaliteit van het grondwater.
+
+### 3.15.8. aanvulmateriaal met certificaat
+
+In bepaalde delen van Nederland worden bij inrichting van de put soms geo-ohmkabels aan een buis bevestigd. Dat zijn kabels die voorzien zijn van elektroden en een meetkastje. De kabels worden traditioneel gebruikt om het zoutgehalte van het water te kunnen monitoren. Vroeger werden zij daarom wel **zoutwachters** genoemd. De elektroden vormen per paar een meetpunt.
+
+### 3.16.1. dikte
+
+Wanneer een stijgbuisdeel lekkage vertoont kan de eigenaar van de put ervoor kiezen een nieuw stijgbuisdeel in de bestaande buis te plaatsen; dat nieuwe deel wordt kortweg **ingeplaatst deel** genoemd.
+
+### 3.16.3. methode positiebepaling bovenkant
+
+De putgeschiedenis geeft aan wanneer de put is ingericht, wanneer die is opgeruimd en welke gebeurtenissen er tussentijds hebben plaatsgevonden. Er zijn elf gebeurtenissen geïdentificeerd die van belang zijn voor het registratieobject en dat zijn:
+
+### 3.17. Boormonsterbeschrijving
+
+### 3.17.1. rapportagedatum beschrijving
+
+**Catalogus**
+
+Bodemkaart
+
+Versie: 0.99
+
+Datum: 8 mei 2019
+
+**Inhoud**
+
+### 3.18.2. continu bemonsterd
+
+### 3.18.3. beschrijflocatie
+
+### 3.18.4. beschreven materiaal
+
+### 3.18.5. monstervochtigheid
+
+### 3.18.6. gemiddeld hoogste grondwaterstand
+
+### 3.18.7. gemiddeld laagste grondwaterstand
+
+### 3.19. Laag
+
+### 3.19.1. bovengrens
+
+### 3.19.2. bepaling bovengrens
+
+### 3.19.3. ondergrens
+
+### 3.19.4. bepaling ondergrens
+
+### 3.19.5. antropogeen
+
+### 3.19.6. type ingreep
+
+### 3.19.7. bijzonder materiaal
+
+### 3.19.8. post-sedimentair
+
+### 3.19.9. horizontcode
+
+### 3.19.10. beworteld
+
+### 3.19.11. menselijk spoor
+
+### 3.19.12. genetische typering
+
+### 3.19.13. interne structuur intact
+
+### 3.19.14. gebioturbeerd
+
+### 3.19.15. scheefstaand
+
+### 3.19.16. structuur
+
+### 3.19.17. verticale trend
+
+### 3.20. Archeologisch bestanddeel
+
+### 3.20.1. soort bestanddeel
+
+### 3.20.2. percentageklasse
+
+### 3.21. Laagdeel
+
+### 3.21.1. laagaandeel
+
+### 3.22. Laagje
+
+### 3.22.1. laagaandeel
+
+De Bodemkaart is een van de registratieobjecten in de BRO, en wordt aangeduid als een ‘model’. Voor de bodemkaart betekent dit dat de kaart zelf het ‘model’ is dat tot stand gekomen is via de bodemkundige kartering. De kaart is een resultaat van de interpretatie van data die in het veld zijn ingewonnen door experts, de ‘veldbodemkundigen’. Dit is Informatie die ook in de BRO is opgenomen, met name de registratieobjecten boor- en profielkuilonderzoek, grondwaterdynamiek zijn hiervoor van belang. In deze objecten is profielopbouw met fysische en chemische analyses geregistreerd.
+
+### 3.22.3. genetische typering
+
+De bodem is het buitenste deel van de aarde. Het materiaal waaruit de bodem bestaat (het moedermateriaal of uitgangsmateriaal) is in ons land grotendeels van elders aangevoerd, o.a. door de wind (löss, dekzand, stuifzand, duinzand), de rivieren (rivierklei en -zand), de zee (zeeklei en -zand) en door het landijs (smeltwaterafzettingen, keileem), soms is het ter plaatse ontstaan (veen).
+
+Door veranderingen in de sedimentatie vertoont het moedermateriaal vaak een zekere gelaagdheid. Onder invloed van uitwendige omstandigheden treedt bodemvorming op, waarbij veranderingen in het moedermateriaal ontstaan door omzetting, uitspoeling en ophoping van minerale en organische stoffen. Elke grond heeft dus als gevolg van de afzetting en van de bodemvorming een opeenvolging van min of meer horizontale lagen, die verschillen in samenstelling en eigenschappen. Deze lagen heten horizonten. Samenstelling, dikte en opeenvolging van horizonten -het bodemprofiel- verschillen per grond. Gronden met een ongeveer gelijk bodemprofiel beschouwt men als een eenheid [Simonson1968]. Bij de bodemkartering stelt men door boringen de bodemeenheden vast en bepaalt op basis van overeenkomsten en verschillen tussen (groepen van) bodemprofielen de grenzen van die eenheden. Verschillen in bodemgesteldheid en landschap gaan vaak samen, omdat beide zijn ontstaan onder invloed van dezelfde uitwendige omstandigheden (figuur 3). Dit is bij de bodemkartering van groot belang, omdat het daardoor mogelijk is met betrekkelijk weinig boringen de grenzen tussen de verschillende gronden op te sporen en in kaart te brengen [Schelling-etal1975].
+
+### 3.23.2. geotechnische grondsoort
+
+De bodemkundige informatie op de Bodemkaart van Nederland 1: 50 000, die de basis vormt voor het bodemkundig model in de Basisregistratie Ondergrond, heeft betrekking op de aard en samenstelling van de bovengrond (grondsoort) met een verdere onderverdeling naar bodemvorming, veensoort, afwijkende lagen in het profiel, aanwezigheid van kalk en verstoringen door vergraving en egalisatie. De kaart geeft bodemkundige informatie over de stedelijke gebieden op het moment van de kartering. De bodemkaart is bedoeld voor nationale, regionale en lokale studies op het gebied van hydrologie, bodemgeschiktheid, bodemkwetsbaarheid, natuurontwikkeling, landschapsplanning en ruimtelijke planvorming.
+
+Omdat informatie in het stedelijk gebied ontbreekt is de bodemkaart niet geschikt is voor het oplossen van stedelijke vraagstukken. Op locaties waar na de kartering stedelijk gebied is ontstaan kan de bodemopbouw op die locatie gewijzigd zijn. De beoordeling of het geleverde informatieniveau nog bruikbaar is voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+
+Het bodemkundig model is geschikt voor het afleiden van thematische kaarten. Deze thematische kaarten vallen echter niet binnen de verantwoordelijkheid van de Basisregistratie Ondergrond. In het gebruik voor nationale, regionale en lokale toepassingen geldt dat de informatiebehoefte per oppervlakte-eenheid toeneemt naarmate het probleem grootschaliger (‘lokaler’) wordt. De opnameschaal van de data is 1:50.000 en geeft op dat schaalniveau het bijbehorende detail (1 cm<sup>2<sup> op de kaart = 25 ha in het terrein). De beoordeling of het geleverde informatieniveau overeenkomt met de informatiebehoefte voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+
+### 3.23.6. organischestofgehalteklasse NEN5104
+
+In het model is het deel dat gerelateerd is aan het registratieobject Boormonsterprofiel in de catalogus nu niet meegenomen. In dit model volgen we internationale standaard van INSPIRE zoals beschreven in de ‘technical guideline’, omdat dat aansluit op het model ‘bodemkaart’ zoals deze in Nederland wordt gebruikt. Pas als de samenhang op basis van het Metamodel voor informatiemodellen, MIM (KKG metamodel) verder duidelijk is geworden kunnen we die relaties leggen en het model daarop laten aansluiten.
+
+### 3.23.8. zeer grove fractie gehalteklasse
+
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk via www.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+
+Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
+
+### 3.23.11. kleur
+
+De Bodemkaart van Nederland, schaal 1:50.000 vormt de basis voor het bodemkundig model in de Basisregistratie Ondergrond. De kaart geeft voor het landelijk gebied door middel van kaartvlakken informatie over de bodemopbouw en bodemkenmerken tot een diepte van ca. 1,2 m-mv. [Steur-Heijink1991]. Elk kaartvlak of object bevat een code voor de bodemeenheid. De bodemkaart is een 2-dimensionaal model dat de bodem als profile tot 1,2 m -mv beschrijft, waarmee het impliciet voor een deel 3D eigenschappen meekrijgt.
+
+### 3.23.13. consistentie fijne grond
+
+Een bodemeenheid verstrekt informatie over belangrijke kenmerken van het bodemprofiel tot een diepte van ca. 1,2 m-mv. De hoofdindeling van de bodemeenheden is in hoofdlijnen een indeling naar grondsoort. De verdere onderverdeling in hoofdklassen sluit nauw aan bij die van het Systeem van Bodemclassificatie voor Nederland [Bakker-Schelling1989] tot en met het niveau van de subgroep. Dit niveau is in de legenda naamgevend. De hoofdklassen worden op de bodemkaart gecodeerd met één of twee hoofdletters. De volgende hoofdklassen worden onderscheiden:
+
+De gronden worden in de legenda verder onderverdeeld naar o.a. aard en textuur van de bovengrond, de gelaagdheid in het bodemprofiel, veensoort bij veengronden, voorkomen van hydromorfe kenmerken en de aanwezigheid van kalk in het profiel. Deze onderverdeling wordt in de code aangegeven met letters en cijfers (bijvoorbeeld Hn21: veldpodzolgronden in leemarm en zwak lemig fijn zand, of Zn23: vlakvaaggronden in lemig fijn zand). Met lettertoevoegingen aan het begin en aan het eind van de code worden specifieke kenmerken van de bovengrond en ondergrond aangeduid (bijvoorbeeld kHn21: veldpodzolgronden met een kleidek (k...) of Hn21x: veldpodzolgronden met keileem in de ondergrond, beginnend tussen 40 en 120 cm (...x).
+
+### 3.23.16. textuur organische grond
+
+Rond 1960 is Stiboka in Zeeland gestart met de landelijke kartering van de bodem op schaal 1:50.000. De kaart is uitgegeven per kaartblad van de topografische kaart, schaal 1:50.000, met daarbij een toelichting in boekvorm. Door de aanpak per kaartblad verschilt de periode van opname van blad tot blad (fig. 2). Het veldwerk voor het laatste kaartblad is in 1995 afgerond. De bodemkaart is als GIS-bestand beschikbaar (versie 1). Hiervoor zijn de analoge kaarten gedigitaliseerd. Na de eerste opname zijn vanaf 2010 fragmenten van de kaart geactualiseerd. De inventarisatiemethode bij de actualisatie wijkt af van de methode die bij de eerste opname is gehanteerd.
+
+### 3.24.1. soort bestanddeel
+
+Voor de eerste opname van de bodemkaart (zie figuur 4) is een uitgebreide veldverkenning uitgevoerd. Afhankelijk van de ingewikkeldheid van het bodempatroon, zijn voor de kaartschaal 1:50.000 10 tot 25 grondboringen per 100 ha verricht. Bij elke boring is een zgn. boormonsterbeschrijving opgesteld. Daarbij beschrijft de karteerder kenmerken die ontstaan zijn door bodemvorming en schat hij van elke laag o.a. het gehalte aan organische stof en koolzure kalk, het lutumgehalte en leemgehalte en de grofheid van het zand. De schattingen worden geijkt en gevalideerd door grondmonsteronderzoek. Aan de hand van deze boormonsterbeschrijvingen en allerlei landschappelijke kenmerken (o.a. reliëf en verschillen in vegetatie) zijn de eenheden op kaart ingetekend. De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid van de kaart zijn de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1:50.000 gold bij de eerste uitgave ca. 10 ha aanvankelijk als kleinste afmeting (1 cm<sup>2<sup> op de kaart = 25 ha in het terrein). Later is de minimum oppervlakte verminderd naar ca. 5 ha. De beschrijving van de eenheden op de bodemkaart, schaal 1:50.000, is daarom ruim van inhoud.
+
+In de BRO is grondwater als een ander registratieobject opgenomen. In de veldeverkenning werden bij de eerste opname van de bodemeenheden ook gelijktijdig de grondwatertrappen in kaart gebracht.
+
+De basis waarop het kaartbeeld is vastgelegd werd gevormd door de topografische kaart, schaal 1:50 000, verstrekt door de Topografische Dienst. Voor de eerste uitgave is deze basiskaart vereenvoudigd. Rond 1980 is gestart met proeven voor het digitaliseren van de kaartbeelden. Er was toen nog geen GIS-bestand met de topografische kaart beschikbaar, zodat bij het digitaliseren niet gecontroleerd kon worden op de juiste afstemming met de topografie, zoals die later in GIS-bestanden beschikbaar kwam. Hierdoor kan de aansluiting van de begrenzing van oppervlaktewater in het bodemkundige model lokaal afwijken van de begrenzing in GIS-bestanden met de topografie.
+
+### 3.25.2. soort gesteente
+
+In 2010 is gestart met de actualisatie van de informatie op de bodemkaart. Deze activiteit richt zich vooral op bodemtypen en gegevens die door het landgebruik en de daarbij behorende ontwatering aan verandering onderhevig zijn. Bij veengronden bijvoorbeeld is sprake van geleidelijke oxidatie en afbraak van het organische materiaal, waardoor de veenlagen slinken of zelfs geheel verdwijnen. De actualisatie richt zich daarom op specifieke bodemtypen.
+
+In de periode 2010 – 2014 is de bodemkaart van de gebieden met veengronden geactualiseerd [Vries-etal2014] en in 2016 in Noord- en Zuid-Holland de bodemkaart van de gebieden met kleigronden die een slappe, ongerijpte ondergrond hebben (fig. 2). De actualisatie wordt steeds uitgevoerd met behulp van ‘Digitale Bodemkartering’ (DBK). Dit is een methode waarin met statistische modellen bodemkaarten worden gemaakt, gebruikmakend van veldwaarnemingen van de bodem op punten en gebied dekkende kaarten van hulpvariabelen, zoals reliëf, grondwaterstanddiepte en landgebruik. Vanwege de kosten en de doorlooptijd is voor deze methode gekozen in plaats van de karteringsmethode die gehanteerd is bij de eerste opname van de bodemkaart. Bij DBK is het benodigde aantal boringen per oppervlakte-eenheid geringer en worden de patronen via ruimtelijke interpolatie verkregen. Dit bespaart tijd en kosten.
+
+Op hoofdlijnen omvat de werkwijze bij DBK de volgende onderdelen:
+
+### 3.25.6. genetische typering
+
+**Catalogus**
+
+Geomorfologische kaart
+
+Versie: 0.99
+
+Datum: 10 mei 2019
+
+**Inhoud**
+
+### 3.27.1. grindmediaanklasse
+
+### 3.27.2. hoekigheid
+
+### 3.27.3. fijn grind gehalteklasse
+
+### 3.27.4. matig grof grind gehalteklasse
+
+### 3.27.5. zeer grof grind gehalteklasse
+
+### 3.27.6. windkanters aanwezig
+
+### 3.27.7. sfericiteit
+
+### 3.27.8. bontheid
+
+### 3.27.9. geschatte mediaan
+
+### 3.27.10. grindherkomst
+
+### 3.28. Grindbestanddeel
+
+### 3.28.1. soort grind
+
+### 3.28.2. fractieaandeel
+
+### 3.29. Zandfractie
+
+### 3.29.1. donkere mineralen gehalteklasse
+
+### 3.29.2. hoekigheid
+
+### 3.29.3. zandmediaanklasse
+
+### 3.29.4. zandspreiding
+
+### 3.29.5. bontheid
+
+### 3.29.6. gehalteklasse afwijkend grof
+
+### 3.29.7. geschatte mediaan
+
+### 3.30. Zandbestanddeel
+
+### 3.30.1. korrelkleur
+
+### 3.30.2. percentageklasse
+
+### 3.31. Schelpenfractie
+
+### 3.31.1. gehalteklasse fragmenten
+
+### 3.31.2. gehalteklasse gruis
+
+### 3.31.3. gehalteklasse heel
+
+### 3.31.4. doubletten
+
+### 3.31.5. gehalteklasse dikwandig
+
+### 3.31.6. gehalteklasse dunwandig
+
+### 3.31.7. in-situ
+
+### 3.31.8. mate van verwering
+
+### 3.32. Schelpenbestanddeel
+
+### 3.32.1. soort schelp
+
+### 3.32.2. associatieaandeel
+
+### 3.33. Veenfractie
+
+### 3.33.1. soort veen
+
+### 3.34. Veenbestanddeel
+
+### 3.34.1. soort plantenrest
+
+### 3.34.2. percentageklasse
+
+### 3.35. Munsellkleur
+
+### 3.35.1. munsell hoofdkleur
+
+### 3.35.2. munsell witheid
+
+### 3.35.3. munsell zuiverheid
+
+### 3.36. Vlek
+
+### 3.36.1. kleur
+
+### 3.36.2. bedekkingsgraad
+
+### 3.37. Insluitsel
+
+### 3.37.1. soort grond
+
+### 3.37.2. percentageklasse
+
+### 3.38. Sedimentlens
+
+### 3.38.1. soort grond
+
+### 3.38.2. percentageklasse
+
+### 3.39. Dierlijk fossiel
+
+### 3.39.1. soort dierfossiel
+
+### 3.39.2. percentageklasse
+
+### 3.40. Fractieverdeling
+
+### 3.40.1. geschat massa-aandeel organische stof
+
+### 3.40.2. geschat massa-aandeel schelpmateriaal
+
+### 3.40.3. geschat volumeaandeel schelpmateriaal
+
+### 3.40.4. geschat massa-aandeel grind
+
+### 3.40.5. geschat volumeaandeel grind
+
+### 3.41. Verdeling fijne fractie grindrijke minerale grond
+
+### 3.41.1. geschat massa-aandeel zand
+
+### 3.41.2. geschat massa-aandeel silt
+
+### 3.41.3. geschat massa-aandeel lutum
+
+### 3.42. Verdeling fijne fractie schelprijke grond
+
+### 3.42.1. geschat volumeaandeel zand
+
+### 3.42.2. geschat volumeaandeel silt
+
+**1.8.7.4 Referentie element details** **ReliefCodeNietDal** **code**
+
+### 3.43. Verdeling fijne fractie organische grond
+
+### 3.43.1. geschat massa-aandeel zand
+
+### 3.43.2. geschat massa-aandeel silt
+
+### 3.43.3. geschat massa-aandeel lutum
+
+### 3.44. Verdeling fijne fractie grindarme minerale grond
+
+### 3.44.1. geschat massa-aandeel zand
+
+### 3.44.2. geschat massa-aandeel silt
+
+### 3.44.3. geschat massa-aandeel lutum
+
+### 3.45. Niet beschreven interval
+
+### 3.45.1. begindiepte
+
+### 3.45.2. einddiepte
+
+### 3.45.3. reden niet beschreven
+
+### 3.46. Post-sedimentaire discontinuïteit
+
+### 3.46.1. begindiepte
+
+### 3.46.2. einddiepte
+
+### 3.46.3. type discontinuïteit
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. Aanvulmateriaal
+
+### 1.2. ActueelProces
+
+### 1.3. Apparaattype
+
+### 1.4. BedekkingsgraadVlek
+
+### 1.5. Bemonsteringskwaliteit
+
+### 1.6. Bemonsteringsmethode
+
+### 1.7. Bemonsteringsprocedure
+
+Het **Model geomorfologie** is een van de registratieobjecten in het domein van **bodem- en grondonderzoek**. Het is erop gericht om gegevens te produceren over de vorm van het aardoppervlak. Het is nodig de vormen en eigenschappen van het aardoppervlak te kennen voor ruimtelijke planvorming, voor realisatie en onderhoud van infrastructuur, voor onderwijs, onderzoek en advies m.b.t. natuur, landschap en archeologie.
+
+De Geomorfologische kaart is een van de registratieobjecten in de BRO, en wordt aangeduid als een ‘model’. Voor de Geomorfologische kaart betekent dit dat de kaart zelf het ‘model’ is dat tot stand gekomen is via een interpretatie van het Actuele Hoogtebestand Nederland (AHN) en de Bodemkaart 1: 50:000. Deze laatste is ook als registratieobject in de BRO is opgenomen.
+
+Geomorfologie is de wetenschap die zich bezig houdt met het bestuderen van de vormen van het aardoppervlak en de processen die bij het ontstaan daarvan een rol spelen of hebben gespeeld. De geomorfologische kaart (het ‘model’) is het product van een kartering van reliefpatronen op basis van hoogtegegevens van het aardoppervlak, gecombineerd met hulpinformatie over de opbouw en samenstelling van de bodem en de ondergrond en actuele- en historische landgebruiksdata. Daarnaast vindt in het veld een controle van de kartering plaats waarbij op basis van visuele waarnemingen waar nodig wijzigingen in de begrenzing landvorm worden aangebracht.
+
+### 1.11. Beschrijfprocedure
+
+Geomorfologisch onderzoek is gericht op het produceren van gegevens over de vormen en patronen van het aardoppervlak en de invloed daarvan op het landgebruik en de ruimtelijke inrichting. Vaak wordt het onderzoek uitgevoerd omdat men de opbouw van het landschap moet kennen voor:
+
+Onderzoek en educatie; de geomorfologische kaart en kennis van de geomorfologie is belangrijk bij environmental science studies en onderzoeken in dat vakgebied [Koomen-Maas2004].
+
+### 1.14. Bontheid
+
+De informatie op de Geomorfologische Kaart van Nederland 1:50.000, die de basis vormt voor het geomorfologisch model in de Basisregistratie Ondergrond, heeft betrekking op reliëf, genese en ouderdom van het landschap. Er wordt continu gewerkt aan actualisatie en verdere detaillering. De kaart geeft veelal nog geen informatie over de stedelijke gebieden. De geomorfologische kaart is geschikt voor het vaststellen van aardkundige waarden, monitoring van veranderingen in het landschap, het maken van Omdat informatie in het stedelijk gebied ontbreekt is de geomorfologische kaart niet geschikt is voor het oplossen van stedelijke vraagstukken. De beoordeling of het geleverde informatieniveau nog bruikbaar is voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+
+De geomorfologische kaart is geschikt voor het afleiden van thematische kaarten ten behoeve van bovengenoemde toepassingen. Deze thematische kaarten vallen echter niet binnen de verantwoordelijkheid van de Basisregistratie Ondergrond. In het gebruik voor nationale, regionale en lokale toepassingen geldt dat de informatiebehoefte per oppervlakte-eenheid toeneemt naarmate het probleem grootschaliger (lokaler) wordt. De opnameschaal van de data is 1:50.000 en geeft op dat schaalniveau het bijbehorende detail. De beoordeling of het geleverde informatieniveau overeenkomt met de informatiebehoefte voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+
+### 1.17. Buismateriaal
+
+Met ingang van 2017 heeft de Geomorfologische kaart van Nederland 1:50.000 een nieuwe opzet, is de terminologie aangepast en is de gebruikte classificatie herzien.
+
+De klassen die we op de geomorfologische kaart onderscheiden noemen we landvormen. Voor de classificatie van de landvormen worden drie niveaus gehanteerd. Op het hoogste niveau worden 11 landvormgroepen onderscheiden die in hun uiterlijke gedaante bepaalde kenmerken gemeenschappelijk hebben zoals bijvoorbeeld terrassen, dalen en vlakten. Landvormgroepen worden op basis van hun genese verder onderverdeeld in subgroepen voor de landvorm; de landvormgroep ‘vlakte’ wordt onderverdeeld in bijvoorbeeld dekzandvlakten, vlakten van getij-afzettingen en rivierkomvlakten. Het laagste indelingsniveau is dat van de ‘landvormeenheid’, waarbij de subgroepen worden onderverdeeld naar reliëf, de aanwezigheid van afwijkende geologische afzettingen in de bovengrond en of sprake is van een actief morfologisch proces.
+
+De klassen voor geomorfologische eenheden vormen de brug tussen waarneming en model. Het is een in klasse gevatte karakteristiek van de landvorm. Bestond de oude classificatie nog uit drie onderdelen, in de nieuwe opzet bestaat deze voor een geomorfologische eenheid uit 7 onderdelen:
+
+NOOT
+
+Een uitgebreide toelichting op de legenda van de Geomorfologische kaart van Nederland 1:50 000 is online beschikbaar [Maas2017].
+
+### 1.23. GeotechnischeGrondsoort
+
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk via www.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+
+Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
+
+### 1.26. Grindgehalteklasse
+
+Tot een vormgroep behoren landvormen die in hun uiterlijke gedaante bepaalde kenmerken gemeenschappelijk hebben. Binnen de landvormen worden 11 vormgroepen onderscheiden. De vormgroepen zijn individueel te onderscheiden landvormen en gerangschikt naar de sterkte van het reliëf. Van (sterk) boven hun omgeving uitstekend naar (sterk) beneden hun omgeving liggend. Niet alle landvormen Als zijn als gevolg van de kaartschaal 1:50.000 zijn niet overal alle landvormen overal individueel te karteren. In die gevallen zijn de Geomorfologische patronen die meerdere landvormen omvatten worden landvormen die er voorkomen samengevoegd in de zogenaamde worden tot de vormgroep complexe landvormen in één vormgroep gerekend. Voor elke landvormgroep gelden specifieke reliëfklassen. [Maas2017]
+
+### 1.28. Grindmediaanklasse
+
+Reliëf is de verticale dimensie van het landschap; het geheel van hoogtes en laagtes in het landschap. De reliëfcode die gebruikt wordt in de codering van de geomorfologische eenheden is een classificatie op basis van een aantal reliëfkenmerken. Voor de niet-dalvormige landvormgroepen geldt de indeling waarbij het reliëf uit twee onderscheidende kenmerken bestaat:
+
+Alleen voor de vormgroep dalvormige laagten (dalen) geldt een classificatie, waarbij vier reliëfkenmerken onderscheidend zijn:
+
+Relief in de geomorfologische kaart is een relatieve maat. De hoogteklassen geven de hoogte van de landvorm weer ten opzichte van de voor die specifieke landvorm relevante omgeving. De afstand tot het referentiepunt is afhankelijk van de grootte van de geomorfologische eenheid.
+
+De toevoeging reliëf geeft aanvullende informatie over het reliëf. Er zijn 5 verschillende reliëf-toevoegingen onderscheiden. In een aantal gevallen komen reliëfverschillen voor die niet onderscheidend zijn qua vormgroep en reliëfklasse, maar wel relevante informatie bevatten voor het kaartbeeld.[Maas2017]
+
+### 1.33. KaderAanlevering
+
+Het buitenste deel van het de aardkorst is onderhevig aan de inwerking van allerlei fysische, chemische en biologische processen. Door deze processen, waarvan sommige nauwelijks waarneembaar zijn, en andere zich catastrofaal snel voltrekken, verandert de vorm van het aardoppervlak en ontstaan de landvormen.
+
+De landschapsvormen in Nederland zijn vooral ontstaan onder invloed van landijs (stuwwallen en smeltwaterdalen), wind (dekzandruggen, dekzandvlaktes, zandduinen en lössvlaktes), rivieren (stroomruggen en kommen), de zee (op- en aanwasvlaktes en geulen) en veenvorming (veenvlaktes). In Zuid-Nederland is tektoniek van invloed geweest op het ontstaan van hoogtes en laagtes. En in de recente tijd is door allerlei ingrepen van de mens het reliëf vervlakt of juist versterkt. Er zijn 10 vormbepalende factoren onderscheiden. [Maas2017]
+
+### 1.36. Kalkgehalteklasse
+
+Vormen binnen de vormgroep en met dezelfde genese, maar met andere specifieke vormkenmerken. [Maas2017]
+
+### 1.38. Korrelkleur
+
+Met deze toevoeging wordt aanvullende informatie geven over afwijkende sedimentpakketten die van invloed zijn op de uiterlijke reliëfkenmerken van de landvorm. Alleen in die gevallen waar de landvorm qua reliëf afwijkt door een min of meer lokaal voorkomende bedekking met een afwijkend sediment (textuur) wordt deze toevoeging toegepast. Niet bij alle landvormen wordt informatie gegeven over afdekkende lagen, omdat die niet van invloed is op het reliëf. Daarvoor is de Bodemkaart van Nederland 1:50.000 beschikbaar.
+
+Omdat tijdens het karteren niet altijd duidelijk was of de toevoeging van toepassing was op het gehele kaartvlak is de indicatie 'al dan niet' (y) geïntroduceerd. Deze indicatie kan in combinatie met alle toevoegingen worden gebruikt. Bijvoorbeeld de toevoeging 'ya' betekent: al dan niet met oud-bouwlanddek. Oude-bouwlanddekken komen op bepaalde landvormsubgroepen veelvuldig voor, maar het is onzeker of dit fenomeen op alle onderscheiden kaarteenheden van deze landvormsubgroep in een bepaalde regio voorkomt. Is het zeker dat een oud-bouwlanddek op een bepaalde kaarteenheid voorkomt, dan wordt de toevoeging 'a' zonder 'y' weergegeven. Voor de codering van de toevoegingen wordt een kleine letter gebruikt. [Maas2017]
+
+### 1.41. LengteklasseBrokje
+
+Indien er geomorfologische processen actief op een landvorm inwerken krijgt de landvorm de aanduiding dynamiek. De aanduiding dynamiek is een aanvulling op het onderdeel genese van de vormeenheid en sluit aan bij de vormbepalende factor die van toepassing is. Er zijn 5 vormbepalende factoren die in combinatie met de aanduiding dynamiek kunnen voorkomen.
+
+Overige processen zoals glaciale-, en periglaciale processen komen in Nederland onder de huidige klimatologische omstandigheden niet voor. Tectonische en lacustriene processen doen zich wel actief voor in Nederland, maar deze leiden niet tot karteerbare 'nieuwe' vormeenheden op de kaart. Bij landvormen die door de mens gevormd zijn wordt niet aangegeven of het vormbepalend proces nog gaande is of niet. Actieve antropogene processen spelen zich af op een andere tijdschaal dan de Geomofologische kaart van Nederland omvat.
+
+### 1.44. MassaPercentageklasse
+
+Of een landvorm onderhevig is aan actieve fluviatiele of mariene processen is afhankelijk van het feit of de vormen binnen- of buitendijks liggen. Voor de karakterisering van de landvorm is dat essentieel. (Primaire) dijken vormen de scheiding tussen actieve en niet-actieve landvormen.
+
+### 1.46. MenselijkSpoor
+
+### 1.47. MethodeLocatiebepaling
+
+Het proces van opnemen en vervaardigen van de geomorfologische kaart bestond uit verschillende stappen. Eerst werd hulpinformatie aangemaakt. Dit gebeurde per deelgebied, een zogenaamd kaartblad. Op basis van de hoogtepunten kaart (schaal 1:10 000) werd een gedetailleerde hoogtelijnenkaart vervaardigd, met een minimaal hoogteverschil van 0,25 meter. Op basis van deze hoogtelijnenkaart en indien beschikbaar de bodemkaart en geologische informatie werd een eerste zogenaamde geomorfologische ‘schetskaart’ (schaal 1:25 000) vervaardigd. Met deze ‘schetskaart’ gingen karteerders het veld in. Deze ‘schetskaart’ werd in het veld gecontroleerd, aangepast en aangevuld. Indien nodig voerden karteerders aanvullend booronderzoek van het type bodemkundig boormonster beschrijving en bodemkundig boormonsteronderzoek uit.
+
+Deze verbeterde ‘schetskaarten’ werden op de topografische kaart (1:50 000) gelegd waaruit infrastructuur werd overgenomen en werden de vlakken voorzien van de codes voor reliëf en de geomorfologische subgroep en eventuele toevoegingen. Vervolgens vond op het resultaat (kaartblad) een eindcontrole plaats waarbij het gehele blad met verschillende inhoudelijk deskundigen werd bekeken, besproken en eventueel nog werd aangepast. Daarna werd het geomorfologische kaartblad (schaal 1:50 000) in kleur afgedrukt en de toelichting op het kaartblad uitgegeven. De kaartschaal bepaalt mede de mate van detail en minimale grote van landvormen die op de kaart kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid waren de afmetingen van kaartvlakken aan minimumgrenzen gebonden.Voor die delen van Nederland die volgens deze methode zijn gekarteerd geldt een kaartschaal van 1:50.000 en daarvoor geldt dat de afmeting van de kleinst weergegeven landvormen ca. 10 ha. is (1 cm<sup>2<sup> op de kaart = 25 ha. in het terrein).
+
+Tussen 1990 en 1998 vonden geen karteringen plaats.
+
+### 1.51. MunsellHoofdkleur
+
+Inmiddels is er meer c.q. gedetailleerdere (hulp)informatie beschikbaar, zoals het Actueel Hoogtebestand Nederland (AHN), luchtfoto’s, de bodemkaart van Nederland 1:50 000 en bodemkundige detailkarteringen. Het AHN vormt de basis van de digitale kartering van aardvormen en patronen. In combinatie met de (hulp)informatie worden landvormen geclassificeerd en definitief begrensd. Daarnaast vindt onderzoek in het veld plaats. Een veldonderzoek bestaat uit controle van de ‘digitale’ kartering, het inwinnen van aanvullende informatie en op basis daarvan en van waarnemingen in het veld het opnemen en/of wijzigen van landvormgrenzen.
+
+### 1.53. MunsellZuiverheid
+
+De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. In het verleden waren, om druktechnische redenen en vanwege de leesbaarheid van de analoge kaart, de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1:50 000 waren de kleinste vlakken die werden opgenomen, vlakken die ca. 10 ha. representeerden (1 cm<sup>2<sup> op de kaart = 25 ha. in het terrein). Tegenwoordig worden veel kleinere kaartvlakken gekarteerd. De mate van detail van de huidige geomorfologische kaart komt dichterbij de 1:25.000 en voor sommige gebieden zelfs 1:10.000.
+
+### 1.55. Organischestofgehalteklasse
+
+**Catalogus**
+
+REGIS II (Hydrogeologisch model)
+
+Versie: 0.99
+
+Datum: 07 mei 2019
+
+**Inhoud**
+
+### 1.61. Sfericiteit
+
+### 1.62. SoortArcheologischBestanddeel
+
+### 1.63. SoortBijzonderBestanddeel
+
+### 1.64. SoortDierfossiel
+
+### 1.65. SoortGesteente
+
+### 1.66. SoortGrind
+
+### 1.67. SoortGrond
+
+### 1.68. SoortPlantenrest
+
+### 1.69. SoortSchelp
+
+### 1.70. SoortVeen
+
+### 1.71. Spoelingtoeslag
+
+### 1.72. StopcriteriumVeld
+
+### 1.73. Structuur
+
+### 1.74. TextuurOrganischeGrond
+
+### 1.75. TijdelijkeVerandering
+
+### 1.76. TypeDiscontinuïteit
+
+### 1.77. TypeIngreep
+
+### 1.78. Vakgebied
+
+### 1.79. VerticaalReferentievlak
+
+### 1.80. VerticaleTrend
+
+### 1.81. Vlekkleur
+
+### 1.82. VolumePercentageklasse
+
+### 1.83. Voorbehandeling
+
+### 1.84. Voorbereiding
+
+### 1.85. WeggegravenMateriaal
+
+### 1.86. Zandmediaanklasse
+
+### 1.87. Zandspreiding
+
+### 1.88. ZeerGroveFractieGehalteklasse
+
+### Toelichting
+
+### 1. Inleiding
+
+### 1.6.1.1. Attribuutsoort details Model naam
+
+### 1.6.1.2. Attribuutsoort details Model versie
+
+### 1.1. Geologisch booronderzoek
+
+### 1.6.1.4. Attribuutsoort details Model datum einde
+
+### 1.6.1.5. Attribuutsoort details Model dekkingsgebied
+
+### 1.6.1.6. Relatiesoort details Model is samengesteld uit
+
+### 1.6.2. Objecttype Modelgebied
+
+### 1.2. Boren
+
+### 1.6.2.2. Attribuutsoort details Modelgebied versie
+
+### 1.3. Kwaliteit van monsters
+
+### 1.6.2.4. Attribuutsoort details Modelgebied datum einde
+
+### 1.6.2.5. Attribuutsoort details Modelgebied dekkingsgebied
+
+### 1.4. Deelonderzoeken
+
+### 1.6.2.7. Attribuutsoort details Modelgebied freatisch vlak
+
+### 1.6.3. Objecttype Geïnterpreteerde boormonsterbeschrijving
+
+### 1.5. Methode van beschrijven
+
+### 1.6.3.2. Attribuutsoort details Geïnterpreteerde boormonsterbeschrijving geometrie
+
+### 1.6.3.3. Attribuutsoort details Geïnterpreteerde boormonsterbeschrijving einddiepte
+
+### 1.6.3.4. Relatiesoort details Geïnterpreteerde boormonsterbeschrijving behoort tot
+
+### 2. Belangrijkste entiteiten
+
+### 2.1. Booronderzoek
+
+### 1.6.4.2. Attribuutsoort details Boorbeschrijvingsinterval lithologie
+
+### 1.6.4.3. Attribuutsoort details Boorbeschrijvingsinterval zandmediaanklasse
+
+### 2.2. Registratiegeschiedenis
+
+### 1.6.4.5. Attribuutsoort details Boorbeschrijvingsinterval bijmenging klei
+
+### 2.3. Rapportagegeschiedenis
+
+### 1.6.4.7. Attribuutsoort details Boorbeschrijvingsinterval bijmenging zand
+
+### 2.4. Boring
+
+### 1.6.4.9. Attribuutsoort details Boorbeschrijvingsinterval bijmenging humus
+
+### 1.6.4.10. Relatiesoort details **Boorbeschrijvingsinterval** maakt deel uit van
+
+### 1.6.5. Objecttype Geïnterpreteerd hydrogeologisch eenheid-interval
+
+### 1.6.5.1. Attribuutsoort details Geïnterpreteerd hydrogeologisch eenheid-interval hydrogeologische eenheid
+
+### 1.6.5.2. Attribuutsoort details Geïnterpreteerd hydrogeologisch eenheid-interval interval
+
+### 1.6.5.3. Attribuutsoort details Geïnterpreteerd hydrogeologisch eenheid-interval horizontale doorlatendheid
+
+### 2.5. Bemonsteringsapparaat
+
+### 1.6.5.5. Relatiesoort details Geïnterpreteerd hydrogeologisch eenheid-interval behoort tot
+
+### 2.6. Terreintoestand
+
+### 1.6.6.1. Attribuutsoort details Laag grensvlak top
+
+### 2.7. Sliblaag
+
+### 1.6.6.3. Attribuutsoort details Laag dikte
+
+### 2.8. Boormonsterbeschrijving
+
+### 1.6.6.5. Attribuutsoort details Laag breuk
+
+### 2.9. Boorprofiel
+
+### 1.6.6.7. Attribuutsoort details Laag horizontale doorlatendheid
+
+### 1.6.6.8. Attribuutsoort details Laag verticale doorlatendheid
+
+### 1.6.6.9. Attribuutsoort details Laag transmissiviteit
+
+### 1.6.6.10. Attribuutsoort details **Laag** verticale weerstand
+
+### 2.10. Laag
+
+### 1.6.7. Referentielijst Hydrogeologische eenheid
+
+### 1.6.7.1. Referentie element details Hydrogeologische eenheid code
+
+### 1.6.7.2. Referentie element details Hydrogeologische eenheid naam
+
+### 1.6.7.3. Referentie element details Hydrogeologische eenheid volgnummer
+
+### 1.6.7.4. Referentie element details Hydrogeologische eenheid kleur
+
+### 1.6.8. Gestructureerd datatype Interval
+
+### 1.6.8.1. Data element details Interval top
+
+### 1.6.8.2. Data element details Interval basis
+
+### 1.6.9. Gestructureerd datatype Grensvlak
+
+### 2.11. Grond
+
+### 1.6.9.2. Data element details Grensvlak standaardeviatie
+
+### 1.6.10. Gestructureerd datatype Dikte
+
+### 2.12. Grindfractie
+
+### 1.6.11. Gestructureerd datatype Doorlatendheid
+
+### 2.13. Zandfractie
+
+### 1.6.11.2. Data element details Doorlatendheid standaarddeviatie
+
+### 2.14. Schelpenfractie
+
+### 1.6.12.1. Data element details Kleur rood
+
+### 2.15. Veenfractie
+
+### 1.6.12.3. Data element details Kleur blauw
+
+### 2.16. Afwijkend laagje, insluitsel, sedimentlens en vlek
+
+### Toelichting
+
+### 2.1. Beschrijving
+
+REGIS II is een registratieobject in het domein **modellen.** Het gaat in dit domein om schattingen of voorspellingen van de opbouw en eigenschappen van de bodem of ondergrond in twee of drie dimensies. Deze schematische weergaven geven een schatting of voorspelling van de opbouw en eigenschappen van de bodem of ondergrond. Modellen zijn sterk afhankelijk van de hoeveelheid en kwaliteit van de beschikbare ondergrondgegevens zoals boormonsterbeschrijvingen. De kwaliteit van de modellen zal daarom toenemen naarmate er meer ondergrondgegevens in de BRO beschikbaar komen.
+
+Beschrijvers met een bijzondere expertise leggen de kleur van de grond volgens de systematiek van Munsell (**Munsellkleur**) vast en het voorkomen van de fossiele resten van bepaalde dierlijke organismen (**Dierlijk fossiel**).
+
+De termen hydrogeologische eenheid en lithostratigrafische eenheid worden hieronder toegelicht:
+
+Beschrijvers met een bijzondere expertise leggen de fractieverdeling vast van grondsoorten die in een van de volgende categorieën vallen: organische gronden, schelprijke gronden, grindrijke minerale gronden en grindarme minerale gronden. Zij beschouwen de grond als een mengsel van zes fracties: organische stof, schelpmateriaal, grind, zand, silt en lutum; de laatste vier fracties bij elkaar worden de minerale fractie genoemd. De manier waarop de aandelen van de fracties worden berekend volgt uit de stapsgewijze benadering die in de driehoeksystematiek van NEN 5104 opgesloten ligt. Het resultaat van de berekening vraagt enige toelichting, omdat het totaal van de fracties niet altijd optelt tot 100 procent en omdat er voor iedere categorie eigen regels gelden.
+
+Een voorbeeld en figuur 6 moeten een en ander verduidelijken. Voor organische gronden geldt het totaal van de massa’s van de fracties organische stof, zand, silt en lutum als 100 procent. Het aandeel schelpmateriaal en het aandeel grind worden anders berekend. Van schelpmateriaal wordt het aandeel in het volume van de grond zonder meenemen van de organische stof geschat. Van grind wordt het aandeel in de massa van de vier minerale fracties geschat. In figuur 6 is per categorie grond aangegeven of de fractieverdeling wordt bepaald en zo ja, hoe die wordt bepaald.
+
+### 2.19. Post-sedimentaire discontinuïteit
+
+De laagopbouw kan verstoord zijn doordat discontinuïteiten de lagen doorsnijden. Wanneer de laagopbouw ondanks de verstoring nog goed te beschrijven is, worden naast de lagen ook de kenmerken van de discontinuïteit vastgelegd. Als door verstoring de beschrijving van de laagopbouw praktisch onmogelijk is, wordt het verstoorde interval niet beschreven. In dat geval beveelt de procedure aan een foto van het verstoorde interval te maken.
+
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk viawww.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+
+Deze bijlage betreft de catalogus van de registratieobjecten booronderzoek – geotechnische boormonsterbeschrijving en boormonsteranalyse en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+### 2.3. Modelonzekerheden
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+De belangrijkste gegevensbron voor REGIS II zijn boormonsterbeschrijvingen. Elk van deze boormonsterbeschrijvingen geeft vaak gedetailleerde informatie over de opbouw van de ondergrond op één specifieke locatie. Voor het overgrote deel van de gridcellen geldt echter dat ze niet doorboord zijn. Dit betekent dat we een schatting moeten doen op basis van de in de omgeving van de gridcel aanwezige boormonsterbeschrijvingen. Hoe goed het model hiertoe in staat is, is onder andere afhankelijk van:
+
+Alle maatstaven van onzekerheid in REGIS II zijn gebaseerd op de in het model gebruikte (stochastische) interpolatietechnieken. Het is belangrijk om te beseffen dat deze technieken niet expliciet rekening houden met de onzekerheidsmarges in de gebruikte brongegevens (waaronder de boormonsterbeschrijvingen). In REGIS II spreken we daarom van **modelonzekerheid** in plaats van **onzekerheid**.
+
+### 3. Entiteiten en attributen
+
+Van de meeste hydrogeologische eenheden is van de doorlatendheid een standaarddeviatieraster berekend. Deze rasters geven voor elke rastercel de modelonzekerheid van de doorlatendheid weer, uitgedrukt in de standaarddeviatie (in m/d) van de door het model geschatte, meest waarschijnlijke doorlatendheid. Met de standaarddeviatie is het mogelijk om de kans te bepalen dat de doorlatendheid een bepaalde afwijking vertoont van de door het model geschatte, meest waarschijnlijke waarde. De manier waarop de standaarddeviatie berekend wordt kan per geologische eenheid verschillen. Welke manier van toepassing is wordt beschreven in het Totstandkomingsrapport dat met het model in de BRO is opgenomen.
+
+### 3.1.1. BRO-ID
+
+REGIS II is een regionaal ondergrondmodel met een gebruiksschaal die past bij toepassingen op landelijk en provinciaal niveau. Deze gebruiksschaal is vergelijkbaar met de schaal van 1:100.000. Bij ondergrondvraagstukken op een grotere schaal (subregionaal) kan REGIS II dienen als raamwerk waarbinnen meer detail kan worden aangebracht.
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+De kwaliteit van REGIS II is onder andere afhankelijk van de volgende factoren: de kwaliteit van het geologische model DGM, de hoeveelheid, diepte, ruimtelijke verdeling en kwaliteit van de boormonsterbeschrijvingen, de verbreiding van een geologische eenheid, de breukwerking in deze eenheid en het modelleren van de eenheden.
+
+Deze en andere kwaliteitsaspecten wordt in de navolgende paragrafen verder besproken.
+
+### 3.1.7. kader inwinning
+
+Een hydrogeologische eenheid maakt onderdeel uit van een lithostratigrafische eenheid of valt daar mee samen. Hierdoor bestaat er een zeer nauwe samenhang tussen het geologische model DGM, dat de opbouw van de ondergrond in geologische (lithostratigrafische) eenheden beschrijft, en REGIS II. Om de consistentie tussen geologische en hydrogeologische informatie te kunnen waarborgen, zijn de lithostratigrafische interpretaties van de boormonsterbeschrijvingen van de subset van DGM, en de geometrie van de geologische eenheden van dit model een randvoorwaarde voor REGIS II. Hydrogeologische interpretaties van de boormonsterbeschrijvingen en ruimtelijke interpretaties van de hydrogeologische eenheden dienen gebaseerd te zijn op de informatie van DGM. De kwaliteit van DGM is daardoor mede bepalend voor de kwaliteit van REGIS II.
+
+### 3.1.9. rapportagedatum onderzoek
+
+Voor REGIS II wordt een subset van alle beschikbare boormonsterbeschrijvingen gebruikt. Dit is dezelfde subset als voor DGM gebruikt wordt. Er wordt gestreefd naar een zo gelijkmatig mogelijke verdeling van boormonsterbeschrijvingen per geologische eenheid, maar dit kan niet altijd gerealiseerd worden. Er zijn gebieden met een hogere boordichtheid (in onderzoeksgebieden, drinkwateronttrekkingsgebieden) en gebieden met een veel lagere boordichtheid (Waddenzee, IJsselmeer). Daarnaast kan de boordichtheid per eenheid per regio variëren. Tot slot varieert de kwaliteit van de boorbeschrijvingen binnen deze subset. De gebruikte boormethode, de daaraan gekoppelde manier van monstername en de methode waarmee de monsters zijn beschreven beïnvloeden de kwaliteit van laagbeschrijvingen.
+
+### 3.1.11. terreintoestand bepaald
+
+Binnen REGIS II wordt een subset van alle beschikbare boormonsterbeschrijvingen gebruikt. Deze initiële subset is identiek aan de subset van de corresponderende versie van DGM. De boormonsterbeschrijvingen kunnen echter soms te weinig lithologische kenmerken bevatten of uit te grote diepte-intervallen bestaan om een hydrogeologische eenheid te kunnen interpreteren. Indien ook aanvullende informatie, bijvoorbeeld in de vorm van een geofysische boorgatmeting, die ondersteunend kan zijn bij de interpretatie, ontbreekt, kan besloten worden om dergelijke boormonsterbeschrijvingen niet bij de modellering van de top en/of basis van de betreffende hydrogeologische eenheid mee te nemen. De selectie welke boormonsterbeschrijvingen wel/niet worden meegenomen bij de modellering van een hydrogeologische eenheid wordt handmatig uitgevoerd.
+
+De lithologische informatie van de boormonsterbeschrijvingen wordt ook gebruikt bij het schatten van de doorlatendheid van een deel van de hydrogeologische eenheden. De mate van detail en representativiteit van de boormonsterbeschrijvingen zijn bepalend of de informatie van een boormonsterbeschrijving wel/niet wordt gebruikt bij het samenstellen van de rasters van de doorlatendheid. De selectie welke boormonsterbeschrijvingen wel/niet worden meegenomen bij de modellering van een hydrogeologische eenheid wordt deels automatisch, deels handmatig uitgevoerd.
+
+### 3.2.1. tijdstip registratie object
+
+Boormonsterbeschrijvingen zijn een momentopname van de beschreven ondergrond. De opbouw van de ondergrond ter plaatse van de boormonsterbeschrijving kan in de tijd die verstreken is tussen het maken van de beschrijving en het construeren van het model veranderd zijn. Denk aan veen in een boormonsterbeschrijving dat inmiddels is geoxideerd en vergravingen (havens, vaargeulen).
+
+### 3.2.3. tijdstip laatste aanvulling
+
+Bij het actualiseren van het model wordt op een zeker moment een momentopname (‘snapshot’) gemaakt van de boormonsterbeschrijvingen en de bijbehorende boorbeschrijvingen. De interpretaties van de boormonsterbeschrijvingen worden gebaseerd op deze momentopname. Alle wijzigingen die na de momentopname aan deze boormonsterbeschrijvingen worden aangebracht, zullen niet zichtbaar in de momentopname zijn en zullen daarom niet zichtbaar zijn in het betreffende model.
+
+### 3.2.5. gecorrigeerd
+
+Alle in de subset aanwezige boormonsterbeschrijvingen worden voorzien van een hydrogeologische indeling. Op automatische wijze wordt een voorzet voor deze interpretatie gedaan, waarna de uiteindelijke interpretatie handmatig geschiedt. Bij deze handmatige interpretatie kan additionele informatie worden gebruikt, zoals geofysische boorgatmetingen, zware mineralen diagrammen, pollenonderzoek en in de omgeving opgenomen sonderingen.
+
+Na het in hydrogeologische eenheden interpreteren van de boormonsterbeschrijvingen worden de interpretaties middels een aantal plausibiliteitscontroles gecontroleerd.
+
+### 3.2.8. in onderzoek sinds
+
+Voor elke kleiige, venige, bruinkool en complexe hydrogeologische eenheid wordt een verbreiding vastgesteld. Deze verbreiding bakent het gebied af waarbinnen de eenheid binnen het model gemodelleerd wordt. De verbreiding is de maximale of potentiële verbreiding van de eenheid binnen het lagenmodel: buiten de potentiële verbreiding komt de eenheid niet voor, binnen de verbreiding kan de eenheid voorkomen.
+
+Bij het construeren van verbreidingsgrenzen wordt een kaartschaal van circa 1:100.000 gehanteerd. Kleine voorkomens van de hydrogeologische eenheid die buiten de resolutie van deze kaartschaal vallen, worden niet in de verbreiding opgenomen.
+
+### 3.2.11. weer in registratie genomen
+
+Binnen de modellering van REGIS II wordt rekening gehouden met breuken. Per breuksegment is aangegeven in welke basis van kleiige, venige, bruinkool en complexe hydrogeologische eenheid dit breuksegment nog invloed heeft. Om modeltechnische redenen worden in de modellering van de hydrogeologische eenheden van REGIS II de breuken verondersteld verticaal te zijn.
+
+### 3.3. Rapportagegeschiedenis
+
+### 3.3.1. startdatum rapportage
+
+Het lagenmodel is consistent, dat wil zeggen dat de top van een eenheid ofwel samenvalt met de basis van een of meerdere hoger gelegen eenheden, ofwel aan maaiveld ligt. Omgekeerd valt de basis van een eenheid samen met een of meerdere toppen van dieper gelegen eenheden, of de basis ligt aan de onderkant van het model. Een logisch gevolg is dat elk willekeurig punt in de ruimte (binnen de begrenzingen van het modelgebied) zich altijd tussen de top en basis van één enkele hydrogeologische eenheid bevindt.
+
+### 3.4. Tussentijdse gebeurtenis
+
+REGIS II verschaft, afhankelijk van de hydrogeologische eenheid, schattingen van de hydraulische eigenschappen van de hydrogeologische eenheden. De kwaliteit van deze schattingen hangt samen met de hoeveelheid, diepte en ruimtelijke verdeling van geschikte boormonsterbeschrijvingen, de kwaliteit van deze boormonsterbeschrijvingen, de heterogeniteit van de hydrogeologische eenheid, de hoeveelheid, kwaliteit en ruimtelijke spreiding van bepalingen van deze hydraulische eigenschappen door middel van proeven en de bestaande kennis van de hydraulische eigenschappen van de eenheden en de gebruikte methodiek om deze schattingen te maken.
+
+Geostatistische procedures worden gebruikt om op basis van geïnterpreteerde boormonsterbeschrijvingen hydraulische parameters van een deel van de hydrogeologische eenheden te schatten. Daarbij wordt tevens de standaarddeviatie van de doorlatendheid als maat van modelonzekerheid uitgeleverd.
+
+Indien er onvoldoende geschikte boormonsterbeschrijvingen zijn, is het niet mogelijk om de ruimtelijke variatie in de hydraulische eigenschappen aan te geven. In dat geval is een constante waarde gegeven voor het hele verbreidingsgebied van de eenheid.
+
+### 3.5.1. coördinaten
+
+Een boormonsterbeschrijving geeft veelal een gedetailleerd beeld van de hoogteligging van geologische eenheden op één specifieke locatie. In het lagenmodel wordt middels geostatistische technieken een schatting gegeven van de hoogteligging van de geologische eenheden per rastercel. Deze is daarmee representatief voor een gebied van 100 bij 100 m (10.000 m2). De diepteligging van de geologische eenheden in een boormonsterbeschrijving kan daarom afwijken van de voorspelde diepte van geologische eenheden in het lagenmodel op dezelfde locatie. Ook geldt dat de opeenvolging van hydrogeologische eenheden in een boormonsterbeschrijving kan afwijken van de gemodelleerde opeenvolging van de eenheden, dunne eenheden kunnen weggeschaald zijn in het lagenmodel en een complexe afwisseling van eenheden moet voor de modellering vereenvoudigd worden.
+
+In de modellering van REGIS II worden de kleiige, venige, bruinkool en complexe hydrogeologische eenheden gemodelleerd, de geometrie van de zandige eenheden wordt hiervan afgeleid.
+
+De hoogte van het maaiveld op de locatie van het boormonsterbeschrijving kan eveneens afwijken van de maaiveldhoogte van het model. Dit kan verschillende oorzaken hebben zoals fouten in de opname van de maaiveldhoogte of een daadwerkelijke verandering in maaiveldhoogte door bijvoorbeeld afgraving of ophoging die in de tijd tussen het maken van het boormonsterbeschrijving en het construeren van het model heeft plaatsgevonden. Verder geldt dat de maaiveldhoogte in het model representatief is voor een gebied van 100 bij 100 m en de hoogte van een boormonsterbeschrijving geldt voor één specifieke puntlocatie.
+
+### 3.5.5. uitvoerder locatiebepaling
+
+### 3.6. Aangeleverde verticale positie
+
+Rastercellen in het lagenmodel hebben afmetingen van 100 bij 100 m.
+
+### 3.6.2. verschuiving
+
+In het ondiepe bereik van REGIS II is de gebruiksschaal circa 1:100.000. Door de afnemende datadichtheid met de diepte geldt op groterere dieptes een kleinere gebruiksschaal. Door verschillen in datadichtheid zijn er daarnaast regionale verschillen in de gebruiksschaal van het model. Zie ook de toelichting in 5.4.
+
+### 3.6.4. verticaal referentievlak
+
+De omgrenzende rechthoek, uitgedrukt in minimale en maximale coördinaten van het model, is vastgesteld in het Rijksdriehoekstelsel (RD). De waarden zijn in onderstaande tabel weergegeven, met daarbij de omgerekende waarden in WGS84.
+
+### 3.6.6. methode verticale positiebepaling
+
+De horizontale begrenzing van het model is vastgelegd in een polygoon.
+
+### 3.7. Gestandaardiseerde locatie
+
+Voor het lagenmodel geldt dat de verticale begrenzing aan de bovenkant bepaald wordt door de top van de ondiepst gelegen geologische eenheid van het DGM dat aan REGIS II ten grondslag ligt. De verticale begrenzing aan de onderkant wordt bepaald door de basis van de diepst gelegen geologische eenheid van dit DGM.
+
+### 3.7.2. referentiestelsel
+
+Alle coördinaten in REGIS II zijn gegeven in meter in het Rijksdriehoekstelsel (RD).
+
+Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Indien een boormonsterbeschrijving zich binnen een straal van 150 meter van een breukvlak bevindt, wordt deze locatie 150 meter loodrecht van het breukvlak verschoven. Hiermee wordt voorkomen dat boormonsterbeschrijvingen gelegen in rastercellen die door breukvlakken worden doorsneden, een foutieve invloed op het modelresultaat kunnen hebben.
+
+Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (‘lower left corner’).
+
+### 3.8.2. ligging op grondlichaam
+
+Alle hoogten in het lagenmodel van REGIS II zijn gegeven in meter ten opzichte van NAP.
+
+### 3.9. Boring
+
+**Catalogus**
+
+GeoTOP
+
+Versie: 0.99
+
+Datum: 21 juni 2019
+
+**Inhoud**
+
+### 3.9.6. einddiepte graven
+
+### 3.9.7. gesteente aangeboord
+
+### 3.9.8. boorprocedure
+
+### 3.9.9. einddiepte boren
+
+### 3.9.10. stopcriterium
+
+### 3.9.11. tijdelijke verbuizing aangebracht
+
+### 3.9.12. einddiepte tijdelijke verbuizing
+
+### 3.9.13. spoeling gebruikt
+
+### 3.9.14. spoelingtoeslag
+
+### 3.9.15. grondwaterstand
+
+### 3.9.16. bemonsteringsprocedure
+
+### 3.9.17. einddiepte bemonstering
+
+### 3.9.18. ondergrond verontreinigd
+
+### 3.9.19. gat afgewerkt
+
+### 3.9.20. uitvoerder boring
+
+### 3.10. Weggegraven laag
+
+### 3.10.1. bovengrens
+
+### 3.10.2. ondergrens
+
+### 3.10.3. weggegraven materiaal
+
+### 3.11. Geboord interval
+
+### 3.11.1. begindiepte
+
+**1.3.3.1 Overzicht data elementen**
+
+### 3.11.3. boortechniek
+
+### 3.11.4. geboorde diameter
+
+### 3.12. Boorsnelheid
+
+### 3.12.1. verlopen tijd
+
+### 3.12.2. diepte
+
+### 3.13. Bemonsterd interval
+
+### 3.13.1. begindiepte
+
+### 3.13.2. einddiepte
+
+### 3.13.3. voorbehandeling
+
+### 3.13.4. bemonsteringsmethode
+
+### 3.13.5. bemonsteringskwaliteit
+
+### 3.13.6. georienteerd gestoken
+
+### 3.14. Bemonsteringsapparaat
+
+### 3.14.1. apparaattype
+
+### 3.14.2. containerdiameter
+
+### 3.14.3. containerlengte
+
+### 3.14.4. doorgangsdiameter
+
+### 3.14.5. kous gebruikt
+
+### 3.14.6. haakse steekmond
+
+### 3.14.7. steekmondapex
+
+### 3.14.8. steekmonddiameter
+
+### 3.14.9. steunvloeistof gebruikt
+
+### 3.14.10. voorzien van vanger
+
+### 3.14.11. voorzien van zuiger
+
+### 3.15. Kernopbrengst
+
+### 3.15.1. totale opbrengst
+
+### 3.15.2. intacte opbrengst
+
+### 3.15.3. gesteentekwaliteitsindex
+
+### 3.15.4. in het veld vastgesteld
+
+### 3.16. Verontreinigd interval
+
+### 3.16.1. begindiepte
+
+### 3.16.2. einddiepte
+
+### 3.17. Afgewerkt interval
+
+### 3.17.1. begindiepte
+
+### 3.17.2. einddiepte
+
+### 3.17.3. permanente verbuizing aanwezig
+
+### 3.17.4. diameter permanente verbuizing
+
+### 3.17.5. materiaal permanente verbuizing
+
+### 3.17.6. aanvulmateriaal
+
+### 3.17.7. aanvulmateriaal gewassen
+
+### 3.17.8. aanvulmateriaal met certificaat
+
+### 3.18. Sliblaag
+
+### 3.18.1. dikte
+
+### 3.18.2. kleur
+
+### 3.18.3. methode positiebepaling bovenkant
+
+### 3.18.4. methode positiebepaling onderkant
+
+### 3.19. Boormonsterbeschrijving
+
+### 3.19.1. rapportagedatum beschrijving
+
+### 3.19.2. beschrijfprocedure
+
+### 3.19.3. uitvoerder beschrijving
+
+### 3.20. Boorprofiel
+
+### 3.20.1. beschrijfkwaliteit
+
+### 3.20.2. continu bemonsterd
+
+### 3.20.3. beschrijflocatie
+
+### 3.20.4. beschreven materiaal
+
+### 3.20.5. monstervochtigheid
+
+### 3.20.6. profiel gecontroleerd
+
+### 3.20.7. gemiddeld hoogste grondwaterstand
+
+### 3.20.8. gemiddeld laagste grondwaterstand
+
+### 3.21. Laag
+
+### 3.21.1. bovengrens
+
+### 3.21.2. bepaling bovengrens
+
+### 3.21.3. ondergrens
+
+### 3.21.4. bepaling ondergrens
+
+### 3.21.5. antropogeen
+
+### 3.21.6. type ingreep
+
+### 3.21.7. bijzonder materiaal
+
+### 3.21.8. interne structuur intact
+
+### 3.21.9. scheefstaand
+
+### 3.21.10. gelaagd
+
+### 3.21.11. samengestelde laag
+
+### 3.21.12. gelaagdheid
+
+### 3.22. Grond
+
+### 3.22.1. geotechnische grondsoort
+
+### 3.22.2. grondsoort NEN5104
+
+### 3.22.3. grindgehalteklasse
+
+### 3.22.4. organischestofgehalteklasse NEN5104
+
+### 3.22.5. bijzonder bestanddeel
+
+### 3.22.6. kleur
+
+### 3.22.7. gevlekt
+
+### 3.22.8. gelaagde inhomogeniteit
+
+### 3.22.9. disperse inhomogeniteit
+
+### 3.22.10. kalkgehalteklasse
+
+### 3.22.11. organischestofgehalteklasse
+
+### 3.22.12. scheve gradering
+
+### 3.22.13. verticale gradering
+
+### 3.22.14. vermengd
+
+### 3.22.15. type vermenging
+
+### 3.22.16. grindmediaanklasse
+
+### 3.22.17. fijn grind gehalteklasse
+
+### 3.22.18. matig grof grind gehalteklasse
+
+### 3.22.19. zeer grof grind gehalteklasse
+
+### 3.22.20. zandmediaanklasse
+
+### 3.22.21. zandspreiding
+
+### 3.22.22. soort veen
+
+### 3.22.23. textuur organische grond
+
+### 3.22.24. consistentie fijne grond
+
+### 3.22.25. consistentie organische grond
+
+### 3.22.26. treksterkte veen
+
+### 3.22.27. afzettingskarakteristiek
+
+### 3.22.28. ouderdom afzetting
+
+### 3.23. Korrelvorm
+
+### 3.23.1. hoekigheid
+
+### 3.23.2. sfericiteit
+
+### 3.23.3. ruwheid
+
+### 3.24. Gesteente
+
+### 3.24.1. soort gesteente
+
+### 3.24.2. soort cement
+
+### 3.24.3. bijzonder gesteentebestanddeel
+
+GeoTOP is een registratieobject in het domein **modellen**. Het gaat in dit domein om schattingen of voorspellingen van de opbouw en eigenschappen van de bodem of ondergrond in twee of drie dimensies. Modellen zijn sterk afhankelijk van de hoeveelheid en kwaliteit van de beschikbare ondergrondgegevens zoals boormonsterbeschrijvingen. De kwaliteit van de modellen zal daarom toenemen naarmate er meer ondergrondgegevens in de BRO beschikbaar komen.
+
+GeoTOP is een driedimensionaal geologisch model van de laagopbouw en grondsoort (bijvoorbeeld klei, zand, veen) van de ondiepe ondergrond van Nederland tot een diepte van maximaal 50 m onder NAP. In GeoTOP is de ondergrond onderverdeeld in een regelmatig driedimensionaal grid (raster) van aaneengesloten voxels (volumecellen) van 100 x 100 m in de horizontale richtingen en 0,5 m in de verticaal. Aan elke voxel zijn eigenschappen gekoppeld. Dit zijn de lithostratigrafische c.q. geologische eenheid (laag) waartoe een voxel behoort, de lithoklasse (grondsoort) die representatief is voor de voxel en een aantal attributen die tezamen een maat van modelonzekerheid vormen. Behalve voxels bevat GeoTOP ook een gedetailleerd lagenmodel en de geïnterpreteerde boormonsterbeschrijvingen die bij het maken van het model gebruikt zijn.
+
+De termen **lithostratigrafie**, **geologische eenheid** en **lithoklasse** worden hieronder toegelicht:
+
+GeoTOP bestaat uit de volgende in de BRO opgenomen producten die ontstaan uit een gestandaardiseerd werkproces:
+
+De onderlinge samenhang van de in de BRO opgenomen geïnterpreteerde boormonsterbeschrijvingen, lagenmodel en voxelmodel is geïllustreerd in Figuur 3.1 – 3.3.
+
+### 3.24.9. verticale gradering
+
+Een belangrijk aspect van GeoTOP is dat het is opgedeeld in **modelgebieden**. GeoTOP wordt niet in één keer landelijk samengesteld maar regio-gewijs ontwikkeld. De prioriteitstelling vindt plaats in samenspraak tussen de Geologische Dienst Nederland en de gebruikers, onder auspiciën van de bronhouder (het Ministerie van BZK). Historische modelgebieden, die nog niet gemodelleerd zijn onder het kwaliteitsregime van de BRO (zoals vastgelegd in het Totstandkomingsrapport) worden in de BRO opgenomen als zijnde ‘in onderzoek’.
+
+Op GeoTOP is **versiebeheer** van toepassing. Het versiebeheer geldt zowel voor individuele modelgebieden als voor GeoTOP als geheel. De in de BRO uitgeleverde actuele versie van GeoTOP omvat alle op dat moment actuele modelgebieden.
+
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk viawww.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+
+Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
+
+### 3.24.14. verweerd
+
+### 3.25. Verweringsgraad
+
+De belangrijkste gegevensbron voor GeoTOP zijn boormonsterbeschrijvingen. Elk van deze boormonsterbeschrijvingen geeft vaak gedetailleerde informatie over de opbouw van de ondergrond op één specifieke locatie. Voor het overgrote deel van de gridcellen en voxels geldt echter dat ze niet doorboord zijn. Dit betekent dat we een schatting moeten doen op basis van de in de omgeving van de gridcel of voxel aanwezige boormonsterbeschrijvingen. Hoe goed het model hiertoe in staat is, is onder andere afhankelijk van:
+
+Alle maatstaven van onzekerheid in GeoTOP zijn gebaseerd op de in het model gebruikte (stochastische) interpolatietechnieken. Het is belangrijk om te beseffen dat deze technieken niet expliciet rekening houden met de onzekerheidsmarges in de gebruikte brongegevens (waaronder de boormonsterbeschrijvingen). In GeoTOP spreken we daarom van **modelonzekerheid** in plaats van **onzekerheid**.
+
+### 3.25.3. omzetting
+
+Van elke gemodelleerde geologische eenheid in het lagenmodel is van zowel de top als de basis een standaarddeviatieraster berekend. Deze rasters geven voor elke rastercel de modelonzekerheid weer, uitgedrukt in de standaarddeviatie (in m) van de door het model geschatte, meest waarschijnlijke diepteligging van de gemodelleerde top en basis van de geologische eenheid. Met de standaarddeviatie is het mogelijk om de kans te bepalen dat de diepteligging van de top of basis een bepaalde afwijking vertoont van de door het model geschatte meest waarschijnlijke waarde. De manier waarop de standaarddeviatie berekend wordt kan per geologische eenheid en per modelgebied verschillen. Welke manier van toepassing is wordt beschreven in het Totstandkomingsrapport dat met het model in de BRO is opgenomen.
+
+### 3.26.1. begindiepte
+
+In het voxelmodel wordt de lithoklasse met behulp van stochastische interpolatietechnieken geschat. Deze technieken komen er in essentie op neer dat het model een groot aantal (bijvoorbeeld 100) keer wordt doorgerekend met telkens een andere, maar statistisch gezien even waarschijnlijke, uitkomst. Voor de lithoklasse van een voxel wordt dan bijvoorbeeld 80 keer klei geschat, 10 keer veen en 10 keer kleiig zand. Uit de verschillende schattingen wordt voor elke lithoklasse de kans op voorkomen berekend door het aantal keren dat de lithoklasse is geschat te delen door het aantal modelberekeningen (bijvoorbeeld 100). In het eerder beschreven voorbeeld is de kans op klei dan 0,8, de kans op veen 0,1 en de kans op kleiig zand eveneens 0,1.
+
+De verschillende uitkomsten van de modelberekeningen geven aan hoe goed het model in staat is om een eenduidige schatting te geven: in het beste geval leidt elke modelberekening tot dezelfde uitkomst, in het slechtste geval komen alle mogelijke uitkomsten even vaak voor.
+
+Voor individuele voxels kan de kansverdeling worden weergegeven in een histogram, waarmee een visualisatie van de modelonzekerheid in de betreffende voxel wordt verkregen (Figuur 3.5).
+
+**Figuur 3.5: Visualisatie van modelonzekerheid van een individuele voxel door het weergeven van de kans op lithoklasse in een histogram. In dit voorbeeld is de meest waarschijnlijke lithoklasse klei, met een kans van ruim 50%. Er is ook een vrij grote kans op kleiig zand (~30%), de kans dat de voxel zand of veen bevat is echter klein.**
+
+### 3.27.2. einddiepte
+
+Naast de kans op lithoklasse bevat het voxelmodel een maat van modelonzekerheid die in één getalswaarde wordt uitgedrukt in plaats van een reeks afzonderlijke kansen voor elke mogelijke lithoklasse of geologische eenheid. Deze maat is afgeleid van het concept van **informatie-entropie**. In plaats van de term informatie-entropie wordt in GeoTOP de term **modelonzekerheid** gebruikt.
+
+De modelonzekerheid van lithoklasse is de mate waarin het model in staat is om een eenduidige schatting te geven van de voor de voxel representatieve lithoklasse en heeft de volgende eigenschappen:
+
+**Voorbeelduitwerking**
+
+In onderstaande tabel is de modelonzekerheid (H) uitgewerkt voor een model met drie mogelijke lithoklassen (bijvoorbeeld zand, klei, veen, met kansen p1, p2, p3).
+
+In de eerste situatie is de kans op de eerste lithoklasse 1, en hebben de beide andere lithoklassen een kans 0. Hieruit volgt dat het model zeer goed in staat is om een schatting te geven en de modelonzekerheid is daarom 0.
+
+In de tweede situatie zijn de kansen op de drie lithoklassen aan elkaar gelijk. Het model is niet in staat om een eenduidige schatting te geven en de modelonzekerheid is daarom 1.
+
+In de derde situatie zijn er twee lithoklassen met gelijke kansen. Het model kan geen eenduidige schatting geven van de eerste twee lithoklassen, maar lithoklasse 3 komt zeker niet voor.
+
+In de laatste situatie wordt een kleine kans op lithoklasse 3 (p3 = 0.02 of 2%) geïntroduceerd waardoor de modelonzekerheid relatief sterk toeneemt.
+
+### 3.28.1. rapportagedatum analyse
+
+De modelonzekerheid van geologische eenheid is de mate waarin het model in staat is om een eenduidige schatting te geven van de geologische eenheid waartoe de voxel behoort. Net als de modelonzekerheid op lithoklasse is deze onzekerheid afgeleid van het concept van **informatie-entropie** en heeft vergelijkbare eigenschappen. Bij de berekening van de modelonzekerheid wordt gebruik gemaakt van de standaarddeviaties van de top en de basis van de verschillende geologische eenheden uit het lagenmodel.
+
+### 3.28.3. uitvoerder analyse
+
+GeoTOP is een subregionaal ondergrondmodel met een gebruiksschaal die past bij toepassingen op provinciaal, gemeentelijk of wijkniveau. Deze gebruiksschaal is vergelijkbaar met de schaal van 1:50.000 die bij Geologische Kaart van Nederland, een voorloper van GeoTOP, gehanteerd werd. Bij ondergrondvraagstukken op een grotere schaal (straatniveau of individuele gebouwen) kan GeoTOP dienen als raamwerk waarbinnen meer detail kan worden aangebracht.
+
+### 3.29.1. begindiepte
+
+### 3.29.2. einddiepte
+
+De kwaliteit van GeoTOP is sterk afhankelijk van de volgende factoren:
+
+De **hoeveelheid beschikbare boormonsterbeschrijvingen**. De gebruikte boormonsterbeschrijvingen zijn niet gelijkmatig over Nederland verdeeld. Er zijn gebieden met een zeer hoge boordichtheid, bijvoorbeeld Zuid-Holland en grote delen van Midden-Nederland. Andere delen van het land, zoals de Veluwe, hebben een veel lagere boordichtheid. Bovendien geldt dat de boordichtheid snel met de diepte afneemt. In het algemeen kan gesteld worden dat de afnemende datadichtheid dieper dan 30 m onder maaiveld leidt tot een sterk verminderde kwaliteit van de schatting van de lithoklasse.
+
+De **kwaliteit van de boormonsterbeschrijvingen**. De gebruikte boormonsterbeschrijvingen zijn niet specifiek voor GeoTOP verzameld en de kwaliteit loopt, afhankelijk van het doel en de methode waarmee ze gezet zijn, sterk uiteen.
+
+De **ouderdom van de brongegevens**. De te modelleren werkelijkheid zoals die in boormonsterbeschrijvingen en op geologisch en bodemkundig kaartmateriaal is weergegeven kan intussen zijn veranderd. Denk aan veen in een boormonsterbeschrijving dat inmiddels is geoxideerd, vergravingen (havens, vaargeulen), of zich verleggende geulsystemen in de Waddenzee.
+
+De **complexiteit van de geologie**. Een eenvoudige, homogene ondergrond is eenvoudiger en met minder boormonsterbeschrijvingen te modelleren dan een complexe, heterogene ondergrond. Complexiteit kan regionaal verschillen, daarnaast bestaan binnen een regio ook verschillen in de complexiteit van de geologische eenheden die in de regio worden onderscheiden.
+
+De **toepassing** waarin GeoTOP gebruikt wordt. Verschillende toepassingen stellen verschillende kwaliteitseisen.
+
+Deze en andere kwaliteitsaspecten wordt in de navolgende paragrafen verder besproken.
+
+### 3.29.10. beschreven
+
+Zowel bij het construeren van nieuwe modelgebieden als bij het plegen van onderhoud aan bestaande modelgebieden wordt gestreefd naar een zo goed mogelijke onderlinge aansluiting van de modelgebieden. Desondanks kunnen zich op de overgang van het ene modelgebied naar het andere aansluitingsproblemen voordoen. Dit heeft te maken met de tijd die verstrijkt tussen het opleveren van het ene en het andere modelgebied. In de verstreken tijd zijn meer boormonsterbeschrijvingen verzameld, kan er een nieuwe versie van een brongegeven beschikbaar zijn gekomen of zijn de geologische inzichten gewijzigd. Ook kan de te modelleren werkelijkheid zijn gewijzigd, bijvoorbeeld het effect van een zandwinning die in het ene modelgebied al zichtbaar is maar in het andere, oudere modelgebied nog niet.
+
+Aansluitingsproblemen zijn te herkennen aan onrealistische sprongen in de diepteligging van de top of basis van een geologische eenheid en abrupte overgangen in lithoklasse precies op de modelgebiedgrens. Het verdient daarom aanbeveling om in de nabijheid van een modelgebiedgrens niet alleen het model zelf, maar ook de geïnterpreteerde boormonsterbeschrijvingen aan weerszijden van de grens te raadplegen. De grenzen van de modelgebieden zijn opgenomen in de BRO.
+
+### 3.30.2. geotechnische grondsoort
+
+### 3.30.3. bijzonder bestanddeel
+
+De inhoudelijke kwaliteit van de boormonsterbeschrijvingen is zeer wisselend. De gebruikte boormethode en de daaraan gekoppelde manier van monstername oefent invloed uit op de inhoudelijke kwaliteit van laagbeschrijvingen. Booractiviteiten verstoren de aanwezige opbouw van de bodemlagen. Afhankelijk van de boormethode treedt in grote of kleine mate vermenging op van de verschillende grondsoorten. In een gestoken boring, waarbij een ongeroerd bodemmonster voor iedere meter wordt genomen, gebeurt dit alleen bij de overgang van de kernen. Maar tijdens een spoelboring vindt een sterke vermenging van de lagen plaats. Bovendien kan de aan het boorwater toegevoegde boorspoeling de kwaliteit van het monster nog verder doen dalen.
+
+Ook de manier waarop de monsters zijn beschreven en de vakkundigheid van de beschrijver spelen een belangrijke rol. Het besluit om de laagopbouw van een boring al dan niet uitgebreid te beschrijven, hangt o.a. af van het doel van de boring en de daarvoor beschikbare financiële middelen.
+
+### 3.30.6. organischestofgehalteklasse
+
+Uitgangspunt voor GeoTOP is dat alle beschikbare boormonsterbeschrijvingen worden meegenomen in de modellering. Voor een deel van de boormonsterbeschrijvingen geldt echter dat de kwaliteit zodanig laag is, dat GeoTOP er niet beter maar slechter door zou worden. Om deze boormonsterbeschrijvingen te traceren en uit te sluiten wordt een kwaliteitsfilter toegepast. Een eerste filter sluit boormonsterbeschrijvingen uit waarvan alleen kopgegevens bekend zijn of waarvan de kopgegevens maaiveldhoogte, einddiepte of locatie (x- en y-coördinaat) ontbreken.
+
+Vervolgens worden alle boormonsterbeschrijvingen onderworpen aan een geautomatiseerd uitgevoerde kwaliteitscontrole. Dit gebeurt door te kijken naar de dikte van de intervallen in de eerste 30 m van de boormonsterbeschrijving. (Een interval bevindt zich in de eerste 30 m als de top zich niet meer dan 30 m onder het maaiveld van het boormonsterbeschrijving bevindt.) Van deze intervallen wordt de maximale dikte en de gemiddelde dikte bepaald. Op basis van ervaringscijfers worden boormonsterbeschrijvingen met een te groot maximaal dikte-interval en/of een te groot gemiddeld dikte-interval uitgesloten. De waarden van de maximaal toelaatbare dikte kan per modelgebied of geologische regio verschillen.
+
+Boormonsterbeschrijvingen die worden uitgesloten worden vastgelegd in een lijst met uit te sluiten boornummers, met een (korte) omschrijving van de reden waarom ze uitgesloten zijn. Deze lijst wordt in latere modelleerstappen op basis van controles van het lagenmodel nog handmatig aangevuld. Afhankelijk van het modelgebied wordt in het algemeen maximaal 10% van de boormonsterbeschrijvingen op basis van het automatische kwaliteitsfilter uitgesloten.
+
+### 3.31.1. bepalingsprocedure
+
+Boormonsterbeschrijvingen zijn een momentopname van de beschreven ondergrond. De opbouw van de ondergrond ter plaatse van de boormonsterbeschrijving kan in de tijd die verstreken is tussen het maken van de beschrijving en het construeren van het model veranderd zijn. Denk aan veen in een boormonsterbeschrijving dat inmiddels is geoxideerd, vergravingen (havens, vaargeulen), of zich verleggende geulsystemen in de Waddenzee.
+
+### 3.31.3. monstervochtigheid
+
+Bij het construeren van een modelgebied wordt op een zeker moment een momentopname (‘snapshot’) gemaakt van de brondatabase met boormonsterbeschrijvingen en de bijbehorende boormonsterbeschrijvingsintervallen. De interpretaties van de boormonsterbeschrijvingen worden vervolgens gebaseerd op deze momentopname. Alle wijzigingen die in de brondatabase na de momentopname worden aangebracht, zullen daarom niet zichtbaar zijn in het betreffende modelgebied.
+
+### 3.31.5. filterpapier gebruikt
+
+Door de omvang van de dataset is het ondoenlijk alle boormonsterbeschrijvingen handmatig te voorzien van een indeling in geologische eenheden. Bovendien bestaat bij handmatige werkzaamheden het gevaar van inconsistentie waarbij vergelijkbare boormonsterbeschrijvingen verschillend worden geïnterpreteerd. GeoTOP voorziet daarom in geautomatiseerde procedures om de boormonsterbeschrijving in geologische eenheden te interpreteren.
+
+De interpretatie in geologische eenheden wordt door gebiedsdeskundige geologen getoetst aan de hand van geologische dwarsdoorsneden en eerder met de hand geïnterpreteerde boormonsterbeschrijvingen. Ook wordt een aantal plausibiliteitscontroles uitgevoerd om een stratigrafisch correcte opeenvolging van eenheden te waarborgen. Het is echter niet mogelijk om alle individuele interpretaties handmatig te controleren.
+
+### 3.31.8. apparaatrekcorrectie toegepast
+
+De lithoklasse-interpretatie van boormonsterbeschrijvingsintervallen is een geautomatiseerd proces met relatief eenvoudige en eenduidige rekenregels.
+
+### 3.31.10. bijzonderheid uitvoering
+
+Voorafgaand aan de stratigrafische interpretatie van de boormonsterbeschrijvingen wordt van elke geologische eenheid een verbreiding vastgesteld. Deze verbreiding bakent het gebied af waarbinnen in het constructieproces van GeoTOP de boormonsterbeschrijvingen onderzocht worden op het voorkomen van de geologische eenheid. Tevens fungeert de verbreiding als de maximale of potentiële verbreiding van het lagenmodel: buiten de potentiële verbreiding komt de eenheid niet voor, binnen de verbreiding kan de eenheid voorkomen.
+
+Bij het construeren van verbreidingsgrenzen wordt een kaartschaal van circa 1:50.000 gehanteerd. Kleine voorkomens van de geologische eenheid die buiten de resolutie van deze kaartschaal vallen, worden daardoor mogelijk niet in de verbreiding opgenomen.
+
+Ten behoeve van de lagenmodellering worden de verbreidingsgrenzen (polygonen) verrasterd naar rasters met rastercellen van 100 x 100 m.
+
+### 3.32.1. poreuze stenen nat
+
+Binnen de modellering van GeoTOP wordt rekening gehouden met breuken. Per breuksegment is aangegeven in welke basis van een geologische eenheid dit breuksegment nog invloed heeft. Om modeltechnische redenen worden in de modellering van de geologische eenheden van GeoTOP de breuken verondersteld verticaal te zijn.
+
+### 3.32.3. constante hoogte
+
+### 3.32.4. verzadigingsdruk
+
+De mate van detaillering van het lagenmodel in het ondiepe bereik is in het algemeen groter dan in de diepere delen. Dit heeft de maken met de datadichtheid, die in het ondiepe bereik hoger is dan in het diepe deel.
+
+### 3.32.6. verstoring opgetreden
+
+In het constructieproces van GeoTOP worden geostatistische procedures gebruikt om de diepteligging van de basis van elke geologische eenheid te schatten. Daarnaast wordt de standaarddeviatie van de basis als maat van modelonzekerheid uitgeleverd. Het geostatistische karakter van het lagenmodel is terug te zien in lokale variaties gesuperponeerd op een regionale trend.
+
+### 3.32.8. maximale rek
+
+Het lagenmodel is consistent, dat wil zeggen dat de top van een eenheid ofwel samenvalt met de basis van een of meerdere hoger gelegen eenheden, ofwel aan maaiveld ligt. Omgekeerd valt de basis van een eenheid samen met een of meerdere toppen van dieper gelegen eenheden, of de basis ligt aan de onderkant van het model. Een logisch gevolg is dat elk willekeurig punt in de ruimte (binnen de begrenzingen van het modelgebied) zich altijd tussen de top en basis van één enkele geologische eenheid bevindt. Deze gevolgtrekking gebruiken we om van (de middelpunten van) voxels te bepalen tot welke eenheid ze behoren.
+
+Voor de consistentie geldt een uitzondering voor eenheden die een onderdeel vormen van een andere, omhullende ‘moedereenheid’. Een punt in de ruimte ligt dan zowel tussen de top en basis van die eenheid als tussen de top en basis van de omhullende moedereenheid. In het voxelmodel geldt deze uitzondering niet: een voxel krijgt altijd 1 geologische eenheid toegekend.
+
+### 3.33.2. staptype
+
+Een geïnterpreteerde boormonsterbeschrijving geeft veelal een gedetailleerd beeld van de diepteligging en dikte van geologische eenheden op één specifieke puntlocatie. In het lagenmodel wordt een schatting gegeven van de diepteligging en dikte van geologische eenheden die representatief is voor een gebied van 100 x 100 m (10.000 m2) en die past bij een (sub)regionale schaal. De diepteligging en dikte van geologische eenheden in een boormonsterbeschrijving kan daarom afwijken van de diepteligging en dikte van geologische eenheden in het lagenmodel op dezelfde locatie. Ook geldt dat de stratigrafische opeenvolging van eenheden in een boormonsterprofiel kan afwijken van de gemodelleerde opeenvolging van de eenheden: dunne eenheden kunnen weggeschaald zijn in het lagenmodel en een complexe afwisseling van eenheden kan voor de modellering zijn vereenvoudigd.
+
+De hoogte van het maaiveld op de locatie van het boormonsterbeschrijving kan eveneens afwijken van de maaiveldhoogte van het model. Dit kan verschillende oorzaken hebben, zoals kleine hoogteverschillen ter plaatse van het boormonsterbeschrijving, fouten in de opname van de maaiveldhoogte of een daadwerkelijke verandering in maaiveldhoogte door bijvoorbeeld afgraving of ophoging die in de tijd tussen het maken van het boormonsterbeschrijving en het construeren van het model heeft plaatsgevonden. Verder geldt ook bij maaiveldhoogte dat de hoogte in het model representatief is voor een gebied van 100 x 100 m en de hoogte van een boormonsterbeschrijving geldt voor één specifieke puntlocatie.
+
+### 3.33.5. nat uitgevoerd
+
+### 3.33.6. zwel geconstateerd
+
+Bij het construeren van het voxelmodel wordt een stochastische interpolatietechniek gebruikt om de lithoklasse van de voxels te schatten. De procedure leidt tot een set van bijvoorbeeld 100 verschillende, maar statistisch gezien even waarschijnlijke schattingen. Via een speciaal daarvoor ontwikkelde methode worden de lithoklassen gemiddeld tot de ‘meest waarschijnlijke lithoklasse’. Daarnaast wordt voor elke lithoklasse de kans op voorkomen berekend door het aantal keer dat in een voxel de lithoklasse geschat is te delen door het aantal schattingen.
+
+### 3.34. Zettingsverloop
+
+Het voxelmodel heeft in de horizontale richtingen dezelfde dimensies als het lagenmodel. In de verticale richting heeft het voxelmodel echter een maximale resolutie van 0,5 m. Dit betekent dat waarden van top, basis en dikte van de geologische eenheden in het voxelmodel altijd veelvouden van 0,5 m zijn.
+
+Bij het vertalen van het lagenmodel naar het voxelmodel wordt voor het middelpunt van de voxel bepaald in welke geologische eenheid hij valt. Deze eenheid wordt vervolgens aan de voxel toegewezen. Op plaatsen waar een eenheid in het lagenmodel dunner is dan 0,5 m, en er geen voxel-middelpunt tussen top en basis ligt, zal de eenheid niet in het voxelmodel voorkomen. Als er juist wel een voxel-middelpunt tussen top en basis ligt, zal de eenheid een overdreven dikte krijgen van 0,5 m.
+
+In uitzonderingsgevallen wordt ervoor gekozen om een eenheid in het lagenmodel een minimale dikte van 0,5 m te geven. Daarmee wordt gewaarborgd dat de eenheid, daar waar die in het lagenmodel voorkomt, ook in het voxelmodel wordt gerepresenteerd.
+
+### 3.36. Spanningsverloop bij zetting
+
+Net als bij het lagenmodel kunnen er verschillen bestaan tussen de lithoklassen in het boormonsterbeschrijving en die in het voxelmodel. De lithoklassen in het voxelmodel zijn een schatting die representatief is voor een volume van 100 x 100 bij 0,5 m (5.000 m3) en die past bij een (sub)regionale schaal.
+
+### 3.37.1. verlopen tijd
+
+### 3.37.2. verticale rek
+
+Rastercellen in het lagenmodel hebben afmetingen van 100 x 100 m. Voxels in het voxelmodel meten 100 x 100 m in de horizontale richtingen en 0,5 m in de verticale richting.
+
+### 3.37.4. verticale korrelspanning
+
+Nabij het aardoppervlak heeft GeoTOP een gebruiksschaal van circa 1:50.000. Door de afnemende datadichtheid met de diepte geldt op grotere dieptes een kleinere gebruiksschaal. Door verschillen in datadichtheid zijn er daarnaast regionale verschillen in de gebruiksschaal van het model. Zie ook de toelichting in 5.4.
+
+### 3.38. Bepaling ongedraineerde schuifsterkte
+
+De omgrenzende rechthoek, uitgedrukt in minimale en maximale coördinaten van het model, is vastgesteld in het Rijksdriehoekstelsel (RD). De waarden zijn in onderstaande tabel weergegeven, met daarbij de omgerekende waarden in WGS84.
+
+### 3.38.2. bepalingsmethode
+
+De horizontale begrenzing is zowel voor het model als geheel als voor elk modelgebied afzonderlijk vastgelegd in een polygoon.
+
+### 3.38.4. bepalingsdiameter
+
+De verticale begrenzing aan de bovenkant wordt bepaald door het maaiveld- en waterbodemhoogtebestand. Dit bestand is een raster met cellen van 100 x 100 m en vormt een onderdeel van het modelgebied. Elke rastercel geeft de hoogteligging van het maaiveld resp. de waterbodem ten opzichte van NAP weer.
+
+Voor het lagenmodel geldt dat de verticale begrenzing aan de onderkant wordt bepaald door de basis van de diepst gelegen eenheden. Voor het voxelmodel geldt dat de onderkant van de diepst gelegen voxel nooit dieper ligt dan 50 m onder NAP.
+
+### 3.38.7. laagste ongedraineerde schuifsterkte
+
+Alle coördinaten in GeoTOP zijn gegeven in m in het Rijksdriehoekstelsel (RD).
+
+Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (‘lower left corner’). Voor het voxelmodel geldt de conventie dat de horizontale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (‘cell center’) van de voxel.
+
+### 3.39.1. bepalingsprocedure
+
+Alle hoogten in het lagenmodel en voxelmodel van GeoTOP zijn gegeven in m ten opzichte van NAP. Voor het voxelmodel geldt de conventie dat de verticale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (‘cell center’) van de voxel.
+
+### 3.39.3. proefstuk gemaakt
+
+**Catalogus**
+
+Digitaal Geologisch Model
+
+Versie: 0.99
+
+Datum: 07 mei 2019
+
+**Inhoud**
+
+### 3.39.9. filterpapier gebruikt
+
+### 3.39.10. drainagestroken gebruikt
+
+### 3.39.11. membraan vooraf verzadigd
+
+### 3.39.12. apparaatrekcorrectie toegepast
+
+### 3.39.13. celrekcorrectie toegepast
+
+### 3.39.14. stopcriterium
+
+### 3.39.15. bijzonderheid uitvoering
+
+### 3.39.16. bijzonderheid materiaal
+
+### 3.40. Membraancorrectie
+
+### 3.40.1. correctiemethode
+
+### 3.40.2. dikte
+
+### 3.40.3. stijfheidsklasse
+
+### 3.41. Drainagestrookcorrectie
+
+### 3.41.1. correctiemethode
+
+### 3.41.2. plaatsing
+
+### 3.41.3. bedekkingsgraad
+
+### 3.42. Gemaakt proefstuk voor belasten
+
+### 3.42.1. maakmethode
+
+### 3.42.2. watergehalte
+
+### 3.42.3. volumieke massa
+
+### 3.42.4. droge volumieke massa
+
+### 3.43. Verzadigingsfase bij belasten
+
+### 3.43.1. poreuze stenen nat
+
+### 3.43.2. poreuze stenen ruw
+
+### 3.43.3. gebruikt medium
+
+### 3.43.4. constante hoogte
+
+### 3.43.5. celdruk automatisch gestuurd
+
+### 3.43.6. verzadigingsdruk
+
+### 3.43.7. effectieve druk
+
+### 3.43.8. Skempton B coëfficient
+
+### 3.43.9. verstoring opgetreden
+
+### 3.43.10. verticale rek
+
+### 3.43.11. spanningsverschil
+
+### 3.44. Consolidatiefase bij belasten
+
+### 3.44.1. afstroming tweezijdig
+
+### 3.44.2. consolidatiemethode
+
+### 3.44.3. verticale consolidatiespanning
+
+### 3.44.4. horizontale consolidatiespanning
+
+### 3.44.5. verticale rek
+
+### 3.44.6. neutrale gronddrukcoëfficient
+
+### 3.45. Volumeverloop bij consolidatie
+
+### 3.46. Volume bij bepaalde consolidatie
+
+### 3.46.1. verlopen tijd
+
+### 3.46.2. volumeverandering
+
+### 3.46.3. verticale spanning
+
+### 3.46.4. horizontale spanning
+
+### 3.47. Belastingfase
+
+### 3.47.1. vervormingssnelheid
+
+### 3.47.2. vorm proefstuk
+
+### 3.48. Schuifspanningsverloop bij belasting
+
+### 3.49. Schuifspanning bij bepaalde belasting
+
+### 3.49.1. verlopen tijd
+
+### 3.49.2. verticale rek
+
+### 3.49.3. verticale spanning
+
+### 3.49.4. schuifspanning
+
+### 3.49.5. volumeverandering
+
+### 3.49.6. verschilwaterspanning
+
+### 3.50. Bepaling schuifspanningsverloop bij horizontale vervorming
+
+### 3.50.1. bepalingsprocedure
+
+### 3.50.2. bepalingsmethode
+
+### 3.50.3. proefstuk gemaakt
+
+### 3.50.4. monstervochtigheid
+
+### 3.50.5. proefstuk waterverzadigd
+
+### 3.50.6. poreuze stenen nat
+
+### 3.50.7. gedraineerd
+
+### 3.50.8. zijdelingse ondersteuning
+
+### 3.50.9. begindiameter
+
+### 3.50.10. beginhoogte
+
+### 3.50.11. stopcriterium
+
+### 3.50.12. bijzonderheid uitvoering
+
+### 3.50.13. bijzonderheid materiaal
+
+### 3.50.14. membraancorrectie toegepast
+
+### 3.50.15. apparaatrekcorrectie toegepast
+
+### 3.50.16. lagerwrijvingcorrectie toegepast
+
+### 3.51. Gemaakt proefstuk voor horizontaal vervormen
+
+### 3.51.1. maakmethode
+
+### 3.51.2. watergehalte
+
+### 3.51.3. volumieke massa
+
+### 3.52. Consolidatiefase bij horizontaal vervormen
+
+### 3.52.1. voetstuk vast
+
+### 3.53. Consolidatiestap
+
+### 3.53.1. stapnummer
+
+### 3.53.2. verticale spanning
+
+### 3.54. Hoogteverloop bij consolidatie
+
+### 3.55. Hoogte na bepaalde consolidatietijd
+
+### 3.55.1. verlopen tijd
+
+### 3.55.2. verticale rek
+
+### 3.56. Schuiffase
+
+### 3.56.1. vervormingssnelheid
+
+### 3.56.2. actieve hoogtesturing
+
+### 3.57. Schuifspanningsverloop bij horizontale vervorming
+
+### 3.58. Schuifspanning bij bepaalde horizontale vervorming
+
+### 3.58.1. verlopen tijd
+
+Digitaal Geologisch Model (DGM) is een registratieobject in het domein **modellen**. Het gaat in dit domein om schematische weergaven van de werkelijkheid in twee of drie dimensies. Deze schematische weergaven geven een schatting of voorspelling van de opbouw en eigenschappen van de bodem of ondergrond. Modellen zijn sterk afhankelijk van de hoeveelheid en kwaliteit van de beschikbare ondergrondgegevens zoals boormonsterbeschrijvingen. De kwaliteit van de modellen zal daarom toenemen naarmate er meer ondergrondgegevens in de BRO beschikbaar komen.
+
+DGM is een driedimensionaal geologisch model van de laagopbouw van de matig diepe ondergrond van Nederland tot een gemiddelde diepte van ongeveer 500 m onder NAP, met een maximum diepte van 1.200 m onder NAP. De basisbouwstenen van DGM zijn lithostratigrafische c.q. geologische eenheden. Deze termen worden hieronder toegelicht:
+
+DGM bestaat uit de volgende in de BRO opgenomen producten die ontstaan uit een gestandaardiseerd werkproces:
+
+De onderlinge samenhang van de in de BRO opgenomen geïnterpreteerde boormonsterbeschrijvingen en het lagenmodel is geïllustreerd in Figuur 3.1 – 3.2.
+
+### 3.59.1. bepalingsprocedure
+
+Op DGM is versiebeheer van toepassing. De in de BRO uitgeleverde versie van DGM bevat altijd het meest actuele model.
+
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk viawww.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+
+Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
+
+### 3.59.5. conustype
+
+### 3.59.6. bijzonderheid uitvoering
+
+De belangrijkste gegevensbron voor DGM zijn boormonsterbeschrijvingen. Elk van deze boormonsterbeschrijvingen geeft gedetailleerde informatie over de opbouw van de ondergrond op één specifieke locatie. Voor het overgrote deel van de gridcellen geldt echter dat ze niet doorboord zijn. Dit betekent dat we een schatting moeten doen op basis van de in de omgeving van de gridcel aanwezige boormonsterbeschrijvingen. Hoe goed het model hiertoe in staat is, is onder andere afhankelijk van:
+
+Alle maatstaven van onzekerheid in DGM zijn gebaseerd op de in het model gebruikte (stochastische) interpolatietechnieken. Het is belangrijk om te beseffen dat deze technieken niet expliciet rekening houden met de onzekerheidsmarges in de gebruikte brongegevens (waaronder de boormonsterbeschrijvingen). In DGM spreken we daarom van **modelonzekerheid** in plaats van **onzekerheid**.
+
+### 3.59.9. plasticiteitsindex
+
+Van elke gemodelleerde geologische eenheid van het lagenmodel is van zowel de top, basis als de dikte een standaarddeviatieraster berekend. Deze rasters geven voor elke rastercel de modelonzekerheid weer, uitgedrukt in de standaarddeviatie (in m) van de door het model geschatte, meest waarschijnlijke diepteligging van de gemodelleerde top en basis van de geologische eenheid en de daaruit afgeleide dikte. Met de standaarddeviatie is het mogelijk om de kans te bepalen dat de dikte of de diepteligging van de top of basis een bepaalde afwijking vertoont van de door het model geschatte, meest waarschijnlijke waarde. De manier waarop de standaarddeviatie berekend wordt kan per geologische eenheid verschillen. Welke manier van toepassing is wordt beschreven in het Totstandkomingsrapport dat met het model in de BRO is opgenomen.
+
+### 3.60.1. watergehalte
+
+Voor iedere rastercel per geologische eenheid is een kans op voorkomen van deze geologische eenheid berekend.
+
+### 3.60.3. aantal vallen
+
+DGM is een regionaal ondergrondmodel met een gebruiksschaal die past bij toepassingen op landelijk en provinciaal niveau. Deze gebruiksschaal is vergelijkbaar met de schaal van 1:100.000. Bij ondergrondvraagstukken op een grotere schaal (subregionaal) kan DGM als raamwerk dienen waarbinnen meer detail kan worden aangebracht.
+
+### 3.61.1. bepalingsprocedure
+
+### 3.61.2. bepalingsmethode
+
+De kwaliteit van DGM is onder andere afhankelijk van de volgende factoren, de hoeveelheid, diepte, ruimtelijke verdeling en kwaliteit van de boormonsterbeschrijvingen, de verbreiding van een geologische eenheid, de breukwerking in deze eenheid en het modelleren van de eenheden.
+
+Deze kwaliteitsaspecten wordt in de navolgende paragrafen nader besproken.
+
+### 3.61.5. dispersiemethode
+
+### 3.61.6. rekenwaarde bezinksnelheid
+
+Voor DGM wordt een subset van alle beschikbare boormonsterbeschrijvingen gebruikt. Er wordt gestreefd naar een zo gelijkmatig mogelijke verdeling van boormonsterbeschrijvingen per geologische eenheid, maar dit kan niet altijd gerealiseerd worden. Er zijn gebieden met een hogere boordichtheid (in onderzoeksgebieden, drinkwateronttrekkingsgebieden) en gebieden met een veel lagere boordichtheid (Waddenzee, IJsselmeer). Daarnaast kan de boordichtheid per eenheid per regio variëren. Tot slot varieert de kwaliteit van de boorbeschrijvingen binnen deze subset. De gebruikte boormethode, de daaraan gekoppelde manier van monstername en de methode waarmee de monsters zijn beschreven beïnvloeden de kwaliteit van laagbeschrijvingen.
+
+### 3.61.8. toegepast optisch model
+
+Binnen de subset van DGM kunnen de boormonsterbeschrijvingen soms te weinig lithologische kenmerken bevatten of uit te grote diepte-intervallen bestaan om een geologische eenheid te kunnen interpreteren. Indien ook aanvullende informatie, bijvoorbeeld in de vorm van een geofysische boorgatmeting, die ondersteunend kan zijn bij de interpretatie, ontbreekt, kan besloten worden om dergelijke boormonsterbeschrijvingen niet bij de modellering van de top en/of basis van de betreffende eenheid mee te nemen. De selectie welke boormonsterbeschrijvingen wel/niet worden meegenomen bij de modellering van een geologische eenheid wordt handmatig uitgevoerd.
+
+Daarnaast wordt de DGM subset onderworpen aan een geautomatiseerde kwaliteitscontrole. Hierbij worden plausibiliteitstesten uitgevoerd
+
+### 3.62. Basis korrelgrootteverdeling
+
+Bij het actualiseren van het model wordt op een zeker moment een momentopname (‘snapshot’) gemaakt van de boormonsterbeschrijvingen en de bijbehorende boorbeschrijvingen. De interpretaties van de boormonsterbeschrijvingen worden gebaseerd op deze momentopname. Alle wijzigingen die na de momentopname aan deze boormonsterbeschrijvingen worden aangebracht, zullen niet zichtbaar in de momentopname zijn en zullen daarom niet zichtbaar zijn in het betreffende model.
+
+### 3.62.2. fractie groter63um
+
+Alle in de subset geselecteerde boormonsterbeschrijvingen worden handmatig voorzien van een lithostratigrafische indeling. Bij deze handmatige interpretatie kan additionele informatie worden gebruikt, zoals geofysische boorgatmetingen, zware mineralen diagrammen, pollenonderzoek en in de omgeving opgenomen sonderingen.
+
+Na het in geologische eenheden interpreteren van de boormonsterbeschrijvingen worden de interpretaties middels een aantal plausibiliteitscontroles gecontroleerd.
+
+### 3.63.2. fractie 2tot32um
+
+Binnen de modellering van DGM wordt rekening gehouden met breuken. Per breuksegment is aangegeven in welke basis van een geologische eenheid dit breuksegment nog invloed heeft. Om modeltechnische redenen worden in de modellering van de geologische eenheden van DGM deze breuken verondersteld verticaal te zijn.
+
+### 3.63.4. fractie 50tot63um
+
+### 3.64. Uitgebreide verdeling fractie kleiner63um
+
+Het lagenmodel is consistent, dat wil zeggen dat de top van een eenheid ofwel samenvalt met de basis van een of meerdere hoger gelegen eenheden, ofwel aan maaiveld ligt. Omgekeerd valt de basis van een eenheid samen met een of meerdere toppen van dieper gelegen eenheden, of de basis ligt aan de onderkant van het model. Een logisch gevolg is dat elk willekeurig punt in de ruimte (binnen de begrenzingen van het modelgebied) zich altijd tussen de top en basis van één enkele geologische eenheid bevindt.
+
+### 3.64.2. fractie 2tot4um
+
+Een boormonsterbeschrijving geeft veelal een gedetailleerd beeld van de hoogteligging van geologische eenheden op één specifieke locatie. In het lagenmodel wordt middels geostatistische technieken een schatting gegeven van de hoogteligging van de geologische eenheden per rastercel. Deze is daarmee representatief voor een gebied van 100 bij 100 m (10.000 m2). De diepteligging van de geologische eenheden in een boormonsterbeschrijving kan daarom afwijken van de voorspelde diepte van geologische eenheden in het lagenmodel op dezelfde locatie. Ook geldt dat de stratigrafische opeenvolging van eenheden in een boormonsterbeschrijving kan afwijken van de gemodelleerde opeenvolging van de eenheden, dunne eenheden kunnen weggeschaald zijn in het lagenmodel en een complexe afwisseling van eenheden moet voor de modellering vereenvoudigd worden.
+
+De hoogte van het maaiveld op de locatie van het boormonsterbeschrijving kan eveneens afwijken van de maaiveldhoogte van het model. Dit kan verschillende oorzaken hebben, zoals fouten in de opname van de maaiveldhoogte of een daadwerkelijke verandering in maaiveldhoogte door bijvoorbeeld afgraving of ophoging die in de tijd tussen het maken van het boormonsterbeschrijving en het modelleren heeft plaatsgevonden. Verder geldt dat de maaiveldhoogte in het model representatief is voor een gebied van 100 bij 100 m en de hoogte van een boormonsterbeschrijving geldt voor één specifieke locatie.
+
+### 3.64.5. fractie 16tot32um
+
+### 3.64.6. fractie 32tot50um
+
+Rastercellen in het lagenmodel hebben afmetingen van 100 bij 100 m.
+
+### 3.65. Standaardverdeling fractie groter63um
+
+In het ondiepe bereik van DGM is de gebruiksschaal circa 1:100.000. Door de afnemende datadichtheid met de diepte geldt op groterere dieptes een kleinere gebruiksschaal. Door verschillen in datadichtheid zijn er daarnaast regionale verschillen in de gebruiksschaal van het model. Zie ook de toelichting in 5.4.
+
+### 3.65.2. fractie 90tot125um
+
+De omgrenzende rechthoek, uitgedrukt in minimale en maximale coördinaten van het model, is vastgesteld in het Rijksdriehoekstelsel (RD). De waarden zijn in onderstaande tabel weergegeven, met daarbij de omgerekende waarden in WGS84.
+
+### 3.65.4. fractie 180tot250um
+
+De horizontale begrenzing is voor het model vastgelegd in een polygoon.
+
+### 3.65.6. fractie 355tot500um
+
+De verticale begrenzing aan de bovenkant wordt bepaald door het maaiveld- en waterbodemhoogtebestand. Dit bestand is een raster met cellen van 100 x 100 m. Elke rastercel geeft de hoogteligging van het maaiveld resp. de waterbodem ten opzichte van NAP weer.
+
+Voor het lagenmodel geldt dat de verticale begrenzing aan de onderkant wordt bepaald door de basis van de diepst gelegen gemodelleerde geologische eenheden.
+
+### 3.65.9. fractie 1000tot1400um
+
+Alle coördinaten in DGM zijn gegeven in meter in het Rijksdriehoekstelsel (RD).
+
+Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (‘lower left corner’).
+
+### 3.65.12. fractie 4tot8mm
+
+Alle hoogten in het lagenmodel van DGM zijn gegeven in meter ten opzichte van NAP.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van de registratieobjecten grondwatermonitoringnet, grondwatersamenstellingsonderzoek en grondwaterstandsonderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+### 3.65.16. fractie groter63mm
+
+Datum: 31 december 2019
+
+### 3.66.1. fractie 63tot90um
+
+### 3.66.2. fractie 63tot75um
+
+**Domeinmodel**
+
+### 3.66.4. fractie 90tot125um
+
+### 3.66.5. fractie 90tot106um
+
+### 3.66.6. fractie 106tot125um
+
+**Grondwatermonitoringnet**
+
+### 3.66.8. fractie 125tot150um
+
+### 3.66.9. fractie 150tot180um
+
+### 3.66.10. fractie 180tot250um
+
+### 3.66.11. fractie 180tot212um
+
+### 3.66.12. fractie 212tot250um
+
+### 3.66.13. fractie 250tot355um
+
+### 3.66.14. fractie 355tot500um
+
+### 3.66.15. fractie 500tot710um
+
+### 3.66.16. fractie 710tot1000um
+
+### 3.66.17. fractie 1000tot1400um
+
+### 3.66.18. fractie 1400umtot2mm
+
+### 3.66.19. fractie 2tot4mm
+
+### 3.66.20. fractie 4tot8mm
+
+### 3.66.21. fractie 4tot5.6mm
+
+### 3.66.22. fractie 5.6tot8mm
+
+### 3.66.23. fractie 8tot16mm
+
+### 3.66.24. fractie 8tot11.2mm
+
+### 3.66.25. fractie 11.2tot16mm
+
+### 3.66.26. fractie 16tot31.5mm
+
+### 3.66.27. fractie 31.5tot63mm
+
+### 3.66.28. fractie groter63mm
+
+### 3.67. Bepaling verzadigde waterdoorlatendheid
+
+### 3.67.1. bepalingsprocedure
+
+**Monitoringnetgeschiedenis**
+
+### 3.67.3. proefstuk gemaakt
+
+### 3.67.4. maakmethode
+
+### 3.67.5. verzadigd met CO2
+
+**Tussentijdse gebeurtenis**
+
+### 3.67.7. poreuze stenen nat
+
+### 3.67.8. ring waterafstotend
+
+### 3.67.9. stroming neerwaarts
+
+**Meetpunt**
+
+### 3.67.11. water ontgast
+
+### 3.67.12. temperatuur
+
+**GMW-monitoringbuis**
+
+### 3.67.14. bijzonderheid materiaal
+
+### 3.67.15. bijzonderheid uitvoering
+
+### 3.67.16. maximale gradient
+
+### 3.67.17. watergehalte na afloop
+
+### 3.68. Verzadigde waterdoorlatendheid bij bepaalde droge volumieke massa
+
+### 3.68.1. droge volumieke massa
+
+### 3.68.2. verzadigde waterdoorlatendheid
+
+### 3.69. Verzadigde waterdoorlatendheid bij bepaalde belasting
+
+### 3.69.1. belasting
+
+### 3.69.2. verzadigde waterdoorlatendheid
+
+### 3.70. Bepaling watergehalte
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond, namelijk dat die gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatermonitoringnet.
+
+De monitoring van de kwaliteit van de ondiepe bodem met het daarin aanwezige grondwater (bodemvocht), zoals dat gedaan wordt om de gevolgen van met name landbouwactiviteiten te kunnen volgen, valt buiten de scope van het registratieobject Grondwatermonitoringnet. De volledige scopeafbakening is beschreven in het Scopedocument grondwatermonitoringnet GMN.
+
+### 3.71. Resultaat bepaling
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatermonitoringnet.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als **meetpunt** in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringsput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellings- of grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellings- of grondwaterstandonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwatersamenstellings- en grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het onderzoek. Deze bronhouder levert het onderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het onderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan.
+
+Op de website basisregistratie ondergrond is meer informatie te vinden over grondwatersamenstellingsonderzoek en grondwaterstandonderzoek.
+
+### 3.72.5. lutumcorrectie toegepast
+
+Met het registratieobject Grondwatermonitoringnet wordt de groepering van samenhangende onderzoeksgegevens, namelijk van onderzoeken die vanuit hetzelfde bepaalde doel zijn uitgevoerd, tot een gegevensset gefaciliteerd. Naast de (her)gebruikswaarde van de afzonderlijke onderzoeksgegevens, ontstaat hiermee toegevoegde (her)gebruikswaarde door groepering in een gegevensset. Bestuursorganen en andere gebruikers worden met deze gegevenssets in staat gesteld om huidige en toekomstige geohydrologische vraagstukken beter en efficiënter te beantwoorden.
+
+Een grondwateronderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden: een onderzoek kan in het kader van meerdere grondwatermonitoringnetten tegelijk zijn uitgevoerd, en dus deel uitmaken van meerdere gegevenssets. In het registratieobject Grondwatermonitoringnet worden daartoe het doel van de monitoring (**monitoringdoel**) vastgelegd en het wettelijk kader waar dit doel uit volgt (**kader aanlevering**). In de bijlage is een overzicht opgenomen van de wettelijke kaders en de daarbij behorende monitoringdoelen.
+
+Bij de registratieobjecten Grondwatersamenstellingsonderzoek en Grondwaterstandonderzoek wordt vastgelegd ten behoeve van welk(e) monitoringnet(ten) het onderzoek is uitgevoerd. Het **kader aanlevering** van een grondwatermonitoringnet geldt daarmee ook voor de aan het monitoringnet gekoppelde onderzoeken.
+
+De wettelijke kaders waarbinnen grondwatermonitoring plaatsvindt, staan in de codelijst KaderAanlevering. In deze codelijst zijn alleen wetten opgenomen die op dit moment in werking zijn. Er wordt op dit moment gewerkt aan de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885). Het is de ambitie om verschillende wetten die in de codelijst KaderAanlevering staan, waaronder de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en de [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505), te laten opgaan in de Omgevingswet. De Omgevingswet is nog niet in werking getreden, en is daarom niet opgenomen in de codelijst KaderAanlevering.
+
+In de basisregistratie ondergrond ligt alleen de huidige rechtsgrond vast op basis waarvan de monitoring plaatsvindt. Aangezien de wetgeving kan veranderen gedurende de periode van monitoren, terwijl het monitoringdoel gelijk kan blijven, geldt dat de rechtsgrond gedurende de levensduur van het grondwatermonitoringnet kan veranderen. In dat geval geeft de bronhouder de nieuwe waarde voor **kader aanlevering** door, en vervangt dit de waarde die op dat moment vastligt. In de basisregistratie ondergrond ligt van **kader aanlevering** alleen de huidige waarde vast, er wordt van dit gegeven geen materiële geschiedenis bijgehouden.
+
+### 3.73.4. bijzonderheid uitvoering
+
+Om aan te geven op welke locaties er onderzoek wordt gedaan ten behoeve van het monitoringdoel, ligt bij een grondwatermonitoringnet vast welke meetpunten onderdeel zijn van het net. Een meetpunt wordt gevormd door een filter dat zich in een monitoringbuis van een grondwatermonitoringput bevindt. In de basisregistratie ondergrond wordt de verwijzing naar deze monitoringbuis vastgelegd door middel van **het BRO-ID** van de grondwatermonitoringput en het **buisnummer**. Het grondwatermonitoringnet en de grondwatermonitoringputten kunnen overigens verschillende bronhouders hebben.
+
+Het meetpunt wordt binnen de basisregistratie ondergrond geïdentificeerd door de **meetpuntcode**. Deze code is uniek binnen het grondwatermonitoringnet en wordt door de bronhouder bepaald en aangeleverd.
+
+De verzameling meetpunten geeft de samenstelling van het grondwatermonitoringnet weer, en geeft inzicht in het gebied waarin wordt gemonitord. De verzameling meetpunten waaruit het monitoringnet bestaat, kan veranderen in de tijd: de verzameling meetpunten kan worden uitgebreid en/of ingekrompen. In de tijd kunnen ook meetpunten zelf veranderen: een meetpunt kan opeenvolgend gevormd worden door verschillende, in buizen aanwezige filters. Deze filters kunnen onderdeel zijn van verschillende grondwatermonitoringputten. Bijvoorbeeld wanneer een filter verstopt raakt of de put kapot gaat en vervangen wordt door een nieuwe put. Als de bronhouder van een grondwatermonitoringnet de vervangende put en de daarin aanwezige buis met filter met het oog op het monitoringdoel van het monitoringnet beschouwt als voldoende vergelijkbaar met het oude filter (in de voorgaande put), dan kan hij ervoor kiezen om het meetpunt voort te zetten met het vervangende filter in de buis van de (vervangende) put.
+
+Om de geohydrologische context te kunnen begrijpen, moet de gebruiker van de basisregistratie ondergrond de volledige, door de bronhouder gedefinieerde, gegevensset van een grondwatermonitoringnet kunnen raadplegen. Voor optimale herbruikbaarheid is het daarom nodig dat deze verzameling van meetpunten volledig en juist in de basisregistratie ondergrond wordt vastgelegd. Om het aanleveren van gegevens van de verschillende registratieobjecten in het grondwaterdomein gemakkelijker te maken is het is niet verplicht om deze gegevens meteen bij registratie volledig aan te leveren. Bij een grondwatermonitoringnet moet wel altijd minstens één koppeling zijn met een monitoringbuis van een grondwatermonitoringput als meetpunt, zodat het grondwatermonitoringnet op elk moment in de tijd via een gekoppelde grondwatermonitoringput gerelateerd kan worden aan een locatie. De verzameling van meetpunten kan eventueel na registratie van het grondwatermonitoringnet op een later moment compleet gemaakt worden.
+
+### 3.74.3. monstervochtigheid
+
+In het registratieobject Grondwatermonitoringput ligt voor elke buis in de put vast of het filter in die buis in gebruik is (attribuut **buis in gebruik**). Deze aanduiding geeft aan of het filter van de monitoringbuis een actueel meetpunt vormt in een grondwatermonitoringnet. Een filter vormt een actueel meetpunt als er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het al dan niet gekoppeld zijn van grondwatersamenstellingsonderzoeken of grondwaterstandonderzoeken aan de betreffende buis van de put is niet van invloed op de waarde van **buis in gebruik**.
+
+De waarde van het attribuut **buis in gebruik** wordt door de basisregistratie ondergrond afgeleid. Dit wordt niet door een bronhouder aangeleverd. Wanneer de gegevens van de buis worden aangeleverd aan de basisregistratie ondergrond in het registratieobject Grondwatermonitoringput, krijgt **buis in gebruik** initieel de waarde 'onbekend'. Wanneer een bronhouder een verandering doorgeeft in een meetpunt van een monitoringnet, dan past de basisregistratie ondergrond, als dat nodig is, ook de waarde van **buis in gebruik** aan voor de betreffende buis in de grondwatermonitoringput. Dit zorgt ervoor dat **buis in gebruik** op 'ja' staat wanneer er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het staat op 'nee' wanneer dit niet het geval is.
+
+### 3.75. Bepaling volumieke massa vaste delen
+
+Het grondwatermonitoringnet is een object met een levensloop. Een grondwatermonitoringnet bestaat voor langere tijd, en tijdens zijn bestaan kunnen veranderingen optreden die geregistreerd moeten worden in de basisregistratie ondergrond. Registratie van gegevens van een grondwatermonitoringnet is dus geen eenmalige gebeurtenis, maar een proces dat zo lang duurt als het grondwatermonitoringnet bestaat. De levensloop van een grondwatermonitoringnet heeft een begin en een eind, en loopt gelijk met de periode waarin wordt gemonitord.
+
+De **monitoringnetgeschiedenis** bevat het geheel van gebeurtenissen dat de geschiedenis van het monitoringnet in de werkelijkheid beschrijft: de monitoringgeschiedenis geeft aan wat de begindatum van monitoring is, wat de einddatum van monitoring is en welke gebeurtenissen er tussentijds hebben plaatsgevonden.
+
+Bij het registreren van het grondwatermonitoringnet geeft de bronhouder de **begindatum monitoring** op. Wanneer de reeds bestaande monitoringnetten voor het eerst in de basisregistratie ondergrond geregistreerd worden, zal de begindatum voor deze monitoringnetten in het verleden liggen.
+
+Tot het moment van beëindigen blijft een grondwatermonitoringnet vanuit het oogpunt van de basisregistratie ondergrond actief. Ook als er gedurende enige of langere tijd geen grondwatersamenstellingsonderzoeken aan gekoppeld worden, of lopende grondwaterstandonderzoeken aan gekoppeld zijn. Bij het eindigen van het monitoren binnen een bepaald grondwatermonitoringnet geeft de bronhouder de **einddatum monitoring** op. De gegevens van het grondwatermonitoringnet en de onderzoeken die eraan gekoppeld zijn blijven na die einddatum opvraagbaar voor gebruikers.
+
+Wanneer zich gedurende de levensloop van een grondwatermonitoringnet een relevante verandering voordoet, worden de nieuwe gegevens aangeboden aan de basisregistratie ondergrond. Deze veranderingen worden vastgelegd als **Tussentijdse gebeurtenis**. Van elke tussentijdse gebeurtenis wordt de **naam gebeurtenis** en de **datum gebeurtenis** vastgelegd. Tussentijds kan de verzameling meetpunten veranderen; er kunnen meetpunten bijkomen (**meetpuntToevoegen**) en afvallen (**meetpuntBeëindigen**). Dit betekent dat van elk meetpunt de begin- en de einddatum wordt vastgelegd. Deze informatie is ook opvraagbaar voor gebruikers.
+
+Bij een meetpunt kan tevens de verwijzing naar de monitoringbuis in de grondwatermonitoringput wijzigen (**monitoringbuisVervangen**) zie paragraaf 1.4, Meetpunten. De vervangingsdatum van de, aan het meetpunt gekoppelde monitoringbuis in een put, wordt vastgelegd en is daarmee door gebruikers opvraagbaar. Een meetpunt moet altijd een verwijzing naar een monitoringbuis in een put bevatten. De registratie van de tussentijdse gebeurtenis monitoringbuisVervangen kan daarom pas plaatsvinden nadat de grondwatermonitoringput en de monitoringbuis zijn geregistreerd in de basisregistratie ondergrond.
+
+In de registratiegeschiedenis van elk registratieobject ligt vast sinds wanneer het is geregistreerd in de basisregistratie ondergrond (**tijdstip registratie object**) en wanneer de registratie is voltooid (**tijdstip voltooiing registratie**). Dit is onderdeel van de formele geschiedenis van het registratieobject. De **begindatum** en **einddatum monitoring** van het monitoringnet kunnen andere datums zijn dan de datums in de formele geschiedenis. De begin- en einddatum monitoring zijn onderdeel van de **Monitoringnetgeschiedenis.** De monitoringnetgeschiedenis vormt de materiële geschiedenis van het registratieobject. Voor uitleg over materiële en formele geschiedenis van objecten: zie de inleidende tekst in het begeleidende document.
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+In het kader van een grondwatermonitoringnet wordt onderzoek gedaan naar de kwaliteit of kwantiteit van het grondwater. Het komt ook voor dat er onderzoeken worden uitgevoerd naar beide grondwateraspecten: zowel de kwaliteit als de kwantiteit. In dat geval is wel altijd één van beide grondwateraspecten primair, en vinden er ondersteunend ook onderzoeken aan het andere aspect plaats. Bijvoorbeeld: in sommige monitoringnetten voor kwantiteit worden ook chloridegehaltes gemeten ten behoeve van eventuele correcties (‘zoutcorrecties’).
+
+Voor de aspecten kwaliteit en kwantiteit zijn er afzonderlijke monitoringdoelen. In het geval dat er in het kader van het grondwatermonitoringnet metingen aan zowel de kwaliteit als de kwantiteit worden gedaan, wordt het monitoringdoel bij het primaire, meest belangrijke aspect vastgelegd in de basisregistratie ondergrond. Naast onderzoeken aan het primaire grondwateraspect, kunnen er ook onderzoeken aan het andere aspect gekoppeld zijn aan het grondwatermonitoringnet. Bijvoorbeeld: aan een grondwatermonitoringnet waarin primair het aspect kwantiteit wordt gemonitord, kunnen naast grondwaterstandonderzoeken ook grondwatersamenstellingsonderzoeken gekoppeld worden.
+
+In de basisregistratie ondergrond wordt, naast het **monitoringdoel**, het **grondwateraspect** ook in een eigen attribuut vastgelegd. De gebruiker kan hierdoor grondwatermonitoringnetten selecteren op basis van het aspect dat gemonitord wordt: kwaliteit of kwantiteit.
+
+### 1.4. Apparaattype
+
+Een belangrijk aandachtspunt in het domein grondwatermonitoring is het in de basisregistratie ondergrond registreren van historische onderzoeksgegevens van grondwaterkwaliteit en grondwaterstanden. Deze zijn mogelijk niet onder te brengen in een scherp gedefinieerd monitoringnet met bijbehorend wettelijk kader conform de eisen van kwaliteitsregime IMBRO.
+
+Voor historische onderzoeksgegevens zijn het wettelijk kader en het monitoringdoel niet altijd bekend. Deze historische gegevens kunnen aan een grondwatermonitoringnet gekoppeld worden met kwaliteitsregime IMBRO/A. Grondwatermonitoringnetten onder kwaliteitsregime IMBRO/A zijn bedoeld als administratieve oplossing om in de basisregistratie ondergrond historische onderzoeksgegevens, bijvoorbeeld uit archiefoverdracht, te kunnen registreren waarvan niet (meer) bekend is binnen welk(e) monitoringnet(ten) deze tot stand zijn gekomen. Onder kwaliteitsregime IMBRO/A is het daarom mogelijk om grondwatermonitoringnetten te definiëren zonder specifiek wettelijk kader (kader aanlevering 'archiefoverdracht') en zonder specifiek monitoringdoel (monitoringdoel 'onbekend'). Wanneer het monitoringdoel 'onbekend' opgegeven is, kan de bronhouder er daarnaast voor kiezen om het grondwateraspect 'onbekend' vast te leggen, in plaats van specifiek 'kwaliteit' of 'kwantiteit'.
+
+Grondwatermonitoringnetten onder IMBRO/A moeten altijd betrekking hebben op een periode in het verleden: bij registratie geeft de bronhouder een **einddatum monitoring** in het verleden op, of anders een **einddatum monitoring** met de waarde 'onbekend'.
+
+### 1.8. Bemonsteringsprocedure
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’, en de beschrijving over het gegeven buis in gebruik in paragraaf ‘Aanduiding buis in gebruik in Grondwatermonitoringput’.
+
+Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af, behalve op het gebied van verwijzingen zoals hieronder beschreven.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’):
+
+Daarnaast wordt op de volgende punten consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.14. Beschrijfkwaliteit
+
+Binnen het geheel van grondwatersamenstellingsonderzoeken die gekoppeld zijn aan een grondwatermonitoringnet, wordt soms nog een verdere groepering onderkend in meetrondes. In een meetronde wordt samenhang aangebracht tussen grondwatersamenstellingsonderzoeken die in dezelfde periode zijn uitgevoerd in verschillende meetpunten. Deze zijn door de bronhouder bedoeld om een samenhangende gegevensset te vormen. Het concept meetronde is niet opgenomen in de basisregistratie ondergrond, en maakt dus geen deel uit van het registratieobject Grondwatermonitoringnet.
+
+### 1.16. Beschrijfprocedure
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatermonitoringnet valt onder het INSPIRE-thema Environmental monitoring facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatermonitoringnet op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+### 1.18. BijzonderheidMateriaal
+
+In onderstaande overzicht is aangegeven:
+
+1 Dit **monitoringdoel** komt voor binnen meerdere **kaders aanlevering**.
+
+### 1.21. Bodemgebruik
+
+Datum 15 november 2019
+
+### 1.23. Boortechniek
+
+### 1.24. BreedteklasseDiscontinuiteit
+
+**Domeinmodel**
+
+### 1.26. ConsistentieFijneGrond
+
+### 1.27. ConsistentieOrganischeGrond
+
+### 1.28. Consolidatiemethode
+
+**Grondwatersamenstellingsonderzoek**
+
+### 1.30. Coördinaattransformatie
+
+### 1.31. Correctiemethode
+
+### 1.32. Desintegratie
+
+### 1.33. DisperseInhomogeniteit
+
+### 1.34. Dispersiemethode
+
+### 1.35. Droogtemperatuur
+
+### 1.36. Droogtijd
+
+### 1.37. Fractieverdeling
+
+### 1.38. GebruiktMedium
+
+### 1.39. GelaagdeInhomogeniteit
+
+### 1.40. Gelaagdheid
+
+### 1.41. GeotechnischeGrondsoort
+
+### 1.42. Grensbepaling
+
+### 1.43. Grindgehalteklasse
+
+### 1.44. Grindmediaanklasse
+
+### 1.45. GrondsoortNEN5104
+
+### 1.46. HerkomstRekenwaarde
+
+### 1.47. Hoekigheid
+
+### 1.48. Holteverdeling
+
+**Grondwatermonitoringnet**
+
+### 1.50. KaderAanlevering
+
+### 1.51. KaderInwinning
+
+**GMW-monitoringbuis**
+
+### 1.53. Kalkgehalteklasse
+
+### 1.54. Kleur
+
+### 1.55. LiggingOpGrondlichaam
+
+**Veldonderzoek**
+
+### 1.57. Maakmethode
+
+### 1.58. MassaPercentageklasse
+
+### 1.59. MethodeLocatiebepaling
+
+### 1.60. MethodePositiebepalingSliblaag
+
+**Bemonsteringsapparaat**
+
+### 1.62. Monsterkwaliteit
+
+### 1.63. Monstervochtigheid
+
+**Veldwaarneming**
+
+### 1.65. Omzetting
+
+### 1.66. Opvulmateriaal
+
+### 1.67. Organischestofgehalteklasse
+
+### 1.68. OrganischestofgehalteklasseNEN5104
+
+### 1.69. OuderdomAfzetting
+
+### 1.70. PlaatsingDrainagestrook
+
+### 1.71. RedenNietBeschreven
+
+### 1.72. Referentiestelsel
+
+### 1.73. Registratiestatus
+
+### 1.74. Ruwheid
+
+### 1.75. Sfericiteit
+
+### 1.76. SoortBijzonderBestanddeel
+
+### 1.77. SoortCement
+
+**Veldmeting**
+
+### 1.79. SoortVeen
+
+### 1.80. Spoelingtoeslag
+
+### 1.81. Stabiliteit
+
+### 1.82. Staptype
+
+**Laboratoriumonderzoek**
+
+### 1.84. StijfheidsklasseMembraan
+
+### 1.85. StopcriteriumBepaling
+
+**Analyseproces**
+
+### 1.87. TextuurOrganischeGrond
+
+### 1.88. TijdelijkeVerandering
+
+### 1.89. ToegepastOptischModel
+
+### 1.90. TreksterkteVeen
+
+**Analyse**
+
+### 1.92. TypeIngreep
+
+### 1.93. TypeVermenging
+
+### 1.94. Vakgebied
+
+### 1.95. Verkleuring
+
+### 1.96. VerticaalReferentievlak
+
+### 1.97. VerwijderdMateriaal
+
+### 1.98. Voorbehandeling
+
+### 1.99. Voorbereiding
+
+### 1.100. VormProefstuk
+
+### 1.101. Wandwrijvingcorrectiemethode
+
+### 1.102. WeggegravenMateriaal
+
+### 1.103. Zandmediaanklasse
+
+### 1.104. Zandspreiding
+
+### 1.105. ZijdelingseOndersteuning
+
+### 1.106. Zoutcorrectiemethode
+
+### Toelichting
+
+### 1. Inleiding
+
+### Toelichting
+
+### 1. Grondwatersamenstellingsonderzoek
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+Geotechnisch booronderzoek wordt uitgevoerd in het kader van projecten in de grond-, weg- en waterbouw en in de woning- en utiliteitsbouw. Het onderzoek heeft tot doel de opbouw en de eigenschappen van de ondergrond te onderzoeken om de locatie, het ontwerp, de uitvoering of de toestand van bouwwerken te kunnen vaststellen. Het kan een verkennend karakter hebben en dan is het veelal voldoende de opbouw van de ondergrond globaal te bepalen. Vaker wil men precies weten hoe de ondergrond is opgebouwd en uit welk soort materiaal die bestaat en laat men monsters onderzoeken om bepaalde eigenschappen te bepalen om die in allerlei berekeningen te kunnen gebruiken. Het uiteindelijke doel daarbij is bijvoorbeeld het draagvermogen, het zettingsgedrag of de stabiliteit van de ondergrond in algemenere zin te bepalen of aspecten als de erosiebestendigheid.
+
+De verscheidenheid in geotechnisch booronderzoek is groot. Het wordt zowel op land als op zee uitgevoerd en kan tot wel 150 meter diepte onder maaiveld of waterbodem reiken. In het grootste deel van Nederland bestaat de ondergrond op die diepte uit grond, maar in het zuiden en oosten wordt op bepaalde plaatsen het gesteente bereikt.
+
+Voorts beperkt geotechnisch onderzoek zich niet tot de natuurlijke ondergrond, maar richt het zich ook op grondlichamen die door de mens zijn neergelegd.
+
+Om de informatie die voortkomt uit geotechnisch booronderzoek te kunnen standaardiseren zijn grenzen gesteld aan de verscheidenheid en worden niet alle resultaten of alle vormen van onderzoek in de basisregistratie ondergrond opgenomen. Het accent ligt op standaard geotechnisch booronderzoek. Wat dat inhoudt is in de gegevensdefinitie vastgelegd. Uitgangspunt daarbij is dat de informatie in de basisregistratie ondergrond alleen betrekking heeft op boringen die verticaal bedoeld zijn. Gegevens die niet onder het standaard onderzoek vallen zijn niet opgenomen. Wanneer de grenzen verlegd worden, en dat zal in de toekomst zeker gebeuren, zal de gegevensdefinitie moeten worden aangepast.
+
+Geotechnisch booronderzoek is een van de vijf soorten booronderzoek in de basisregistratie ondergrond en het komt voor dat booronderzoek vanuit een combinatie van vakgebieden is uitgevoerd. De bijzondere eisen die voor een dergelijke combinatie gelden, worden in de catalogus die voor het booronderzoek in zijn geheel gaat gelden vastgelegd.
+
+Archeologisch en milieukundig booronderzoek vallen buiten het bereik van de basisregistratie ondergrond. Wanneer geotechnisch onderzoek wordt gecombineerd met archeologisch of milieukundig onderzoek wordt alleen het geotechnische onderzoek in de basisregistratie ondergrond opgenomen. In zo’n geval wordt wel gepreciseerd dat slechts een deel van de resultaten is geregistreerd.
+
+### 1.2. Boren
+
+Booronderzoek omvat vormen van onderzoek die ermee beginnen dat de ondergrond door boren wordt ontsloten. Wat onder boren moet worden verstaan is in verreweg de meeste gevallen triviaal, het is het maken van een gat met behulp van een apparaat dat we een boor noemen. In de definities wordt duidelijk dat er ook andere manieren zijn om een gat in de ondergrond te maken en die worden gemakshalve toch tot het boren gerekend. Er worden ook gaten in de ondergrond gemaakt met afwijkende methoden die buiten het bereik van deze catalogus vallen. Dat zijn allemaal methoden die op water worden gebruikt en die tot doel hebben een hap uit de waterbodem te nemen. Apparaten die daarvoor gebruikt worden zijn bijvoorbeeld de boxcorer en de Van Veen-bodemhapper. Onderzoek dat gebaseerd is op dergelijke technieken valt buiten het bereik van de basisregistratie ondergrond en de reden daarvoor is dat de resultaten een zeer geringe waarde voor hergebruik hebben, omdat de diepte van het bemonsterde interval niet goed bepaald is en de waterbodem binnen korte tijd kan veranderen.
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatersamenstellingsonderzoek.
+
+De gegevens over de opbouw en de eigenschappen van de ondergrond die uit geotechnisch booronderzoek voortkomen, zijn gebaseerd op monsters die uit de ondergrond genomen zijn. Voor het hergebruik van de gegevens is het van belang te weten in welke mate de monsters waarop de waarnemingen en metingen zijn gebaseerd representatief geacht kunnen worden voor de situatie in-situ. Anders gezegd, voor hergebruik is het van belang de kwaliteit van de monsters vast te leggen.
+
+De kwaliteit van de monsters is van een groot aantal factoren afhankelijk: hoe er geboord is, hoe de monsters genomen zijn, met wat voor apparaat, hoe de monsters boven de grond zijn behandeld, getransporteerd en opgeslagen. De gegevens over het boren, bemonsteren en de relevante specificaties van het apparaat zijn in deze catalogus opgenomen. Die gegevens bepalen het maximaal te bereiken kwaliteitsniveau. Om die kwaliteit in het verdere proces te kunnen behouden, zijn binnen het werkveld procedures opgesteld. Monsters worden ingedeeld in categorieën en voor iedere categorie is vastgelegd hoe de monsters behandeld moeten worden vanaf het moment dat ze boven de grond zijn gekomen. In de catalogus wordt verwezen naar die procedures. In hoeverre de kwaliteit op het moment dat de monsters worden beschreven of geanalyseerd afwijkt van de initiële kwaliteit, wordt vastgelegd als onderdeel van het onderzoek.
+
+De eisen die een gebruiker van de basisregistratie aan de gegevens over de kwaliteit van monsters stelt worden vooral bepaald door het detail dat hij zoekt. Wil de gebruiker een globaal inzicht in de opbouw van de ondergrond verkrijgen, dan zal het voldoende zijn te weten of de monsters geroerd of ongeroerd zijn. Wil een geotechnisch adviseur gegevens uit de boormonsteranalyse gebruiken in berekeningen, dan zal hij de details willen kennen om de waarde van een gegeven te kunnen bepalen.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Geotechnisch booronderzoek omvat gewoonlijk drie van de vier deelonderzoeken die in booronderzoek kunnen worden onderscheiden en dat zijn de **boormonsterbeschrijving**, de **boormonsteranalyse** en de **boormonsterfotografie**. Het vierde deelonderzoek, de **boorgatlogging,** het onderzoek waarin het boorgat wordt bemeten, wordt weinig uitgevoerd. Van de vier deelonderzoeken zijn er twee in deze versie van de catalogus opgenomen, de boormonsterbeschrijving en de boormonsteranalyse (figuur 1).
+
+In de boormonsterbeschrijving wordt het materiaal dat uit de ondergrond naar boven is gehaald, beschreven op een manier die inzicht geeft in de opbouw van de ondergrond en de globale eigenschappen ervan. In het laboratorium worden allerlei proeven uitgevoerd om de samenstelling en een grote verscheidenheid aan eigenschappen nauwkeurig te bepalen. De verscheidenheid aan bepalingen is groot en iedere bepaling vraagt een eigen definitie. Dat vergt tijd en om die reden wordt de standaardisatie van boormonsteranalyse in twee fasen gerealiseerd.
+
+Een grondwatersamenstellingsonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwatersamenstellingsonderzoek. Deze bronhouder levert het grondwatersamenstellingsonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwatersamenstellingsonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 1.3. Het grondwatersamenstellingsonderzoek
+
+### 1.3.1. Inleiding
+
+Een **grondwatersamenstellingsonderzoek** is een monitoringactiviteit gericht op het onderzoeken van de samenstelling van een grondwatermonster uit een bepaald meetpunt in de ondergrond. In plaats van samenstelling van het grondwater wordt ook wel gesproken over kwaliteit van het grondwater. In deze catalogus doelen we met beide op hetzelfde. Een meetpunt wordt gevormd door een **filter** van een monitoringbuis in een **grondwatermonitoringput** (zie paragraaf 1.2 van deze toelichting). Een grondwatersamenstellingsonderzoek wordt uitgevoerd door of in opdracht van een bronhouder en wordt gedaan in het kader van een of meerdere monitoringdoelen.
+
+In de basisregistratie ondergrond kunnen niet alleen beschrijvingen die onder NEN-EN-ISO 14688-1 zijn gemaakt, maar ook beschrijvingen die onder NEN 5104 zijn gemaakt worden geregistreerd. De verandering in de methode van beschrijven maakt dat het verschil tussen een **boormonsterbeschrijving** die onder NEN 5104 tot stand is gekomen en een die onder NEN-EN-ISO 14688 is gemaakt groot is. Onder NEN 5104 worden minder gegevens vastgelegd, is de samenhang minder strikt geborgd en kan de betekenis van gegevens anders zijn. Sommige gegevens kunnen alleen bestaan onder NEN 5104, andere gegevens kunnen juist niet bestaan onder die norm. Een ander verschil is dat de nieuwe methode een strikt onderscheid maakt tussen gegevens die uit het beschrijven en de gegevens die uit het meten voortkomen. In het verleden was dat niet het geval met als gevolg dat niet altijd duidelijk is waarop de gegevens van een oude beschrijving berusten.
+
+Overigens valt een boormonsterbeschrijving die onder NEN 5104 tot stand is gekomen per definitie onder booronderzoek met kwaliteitsregime IMBRO/A.
+
+### 1.7. Beschrijving van gesteente
+
+Hoewel het meeste geotechnisch booronderzoek zich richt op grond, kan het ook betrekking hebben op gesteente of een combinatie van grond en gesteente. De procedures voor het beschrijven van grond en gesteente verschillen; in de beschrijfwijze van gesteente is de afgelopen jaren geen verandering gekomen. Voor gesteente geldt sinds 2004 NEN-EN-ISO 14689, en in februari 2018 is daarvan een nieuwe versie gepubliceerd. Voor deze norm bestaat geen Nederlandse annex. Wel is de totstandkoming van de Nederlandse annex op NEN-EN-ISO 14688-1 aangegrepen om binnen Nederland af te spreken welke gegevens van gesteente moeten worden vastgelegd. Het resultaat is in deze catalogus opgenomen.
+
+Het verloop van het proces is schematisch weergegeven in de onderstaande figuur en daaronder beschreven. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. De eerste drie stappen van het proces zijn kort beschreven in paragraaf 1.1 en 1.2 van deze toelichting en uitgebreider in het Scopedocument grondwatersamenstellingsonderzoek GAR. Een handboek voor inname beschrijft het proces dat bij het leveren van gegevens aan de basisregistratie ondergrond wordt doorlopen. In deze catalogus beschrijven we alleen de onderdelen veldonderzoek, labonderzoek en controleren en beoordelen.
+
+### 2.1. Booronderzoek
+
+Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het booronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft de entiteit informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
+
+### 1.4.1. Grondwatersamenstellingsonderzoek
+
+Informatie uit de periodieke grondwatersamenstellingsonderzoeken wordt in de basisregistratie ondergrond geregistreerd als het registratieobject Grondwatersamenstellingsonderzoek. Dit registratieobject omvat de, van een beoordelingsresultaat voorziene, definitieve meetwaarden van een op grondwatersamenstelling gericht onderzoek dat aan een grondwatermonster uit een bepaald meetpunt is verricht. Daarbij is een uitgangspunt dat een grondwatersamenstellingsonderzoek één bronhouder heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn. Daarnaast is een uitgangspunt dat alle gegevens van het grondwatersamenstellingsonderzoek tegelijk worden aangeleverd aan de basisregistratie ondergrond. De resultaten van het veldonderzoekdeel en het laboratoriumonderzoekdeel binnen één grondwatersamenstellingsonderzoek worden dus samen aangeleverd.
+
+De **registratiegeschiedenis** van een booronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
+
+Bij een grondwatersamenstellingsonderzoek ligt de verwijzing vast naar de monitoringbuis van de grondwatermonitoringput waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 van deze toelichting). De verwijzing wordt gemaakt op basis van het BRO-ID van de grondwatermonitoringput in combinatie met het buisnummer van de buis waarin de bemonstering heeft plaatsgehad. Met deze buisverwijzing is via de filterdiepte ook de diepte geregistreerd waarop de grondwatermonsters zijn genomen.
+
+De bronhouder beslist of hij de resultaten van een booronderzoek in delen of in hun geheel gerapporteerd wil krijgen. Wanneer een rapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het object booronderzoek.
+
+Elk grondwatersamenstellingsonderzoek wordt uitgevoerd volgens afspraak tussen opdrachtgever (de **bronhouder** die in de basisregistratie ondergrond voor elk registratieobject wordt geregistreerd) en opdrachtnemer(s). Bij elk grondwatersamenstellingsonderzoek wordt een hoeveelheid parameters, ofwel eigenschappen van het grondwatermonster, gemeten. Het resultaat van deze metingen wordt geregistreerd in de basisregistratie ondergrond.
+
+### 1.4.2. Identificatie van parameters
+
+Aan het maken van een boorgat kunnen voorbereidende werkzaamheden zijn voorafgegaan. Het weggraven van materiaal is een bijzondere vorm van voorbereiding omdat daaruit ook gegevens over de opbouw van de ondergrond kunnen voortkomen. Wanneer het weggegraven materiaal globaal is beschreven wordt dat apart vastgelegd (**Weggegraven laag**) en niet als onderdeel van het deelonderzoek **Boormonsterbeschrijving**.
+
+Bij het boren gebruikt men een bepaalde techniek om het apparaat dat men gekozen heeft de grond in te drijven. Bij verkennend onderzoek dat zich tot geringe diepte beperkt boort men vaak met de hand, voor ander onderzoek gebeurt dat veelal mechanisch. Tijdens het boren kan men herhaaldelijk van techniek wisselen, en voor een goed begrip van de onderzoeksresultaten is het van belang te weten welk deel van de ondergrond met welke techniek is doorboord (**Geboord interval**).
+
+Wanneer men tevoren weet dat men in gesteente gaat boren wordt ook de **Boorsnelheid** vastgelegd. Die geeft namelijk informatie over de opbouw van de ondergrond.
+
+Het doel van het boren is dat er monsters uit de ondergrond worden gehaald. Dat kan op allerlei manieren gebeuren en tijdens het boren kan men herhaaldelijk van manier wisselen (**Bemonsterd interval**).
+
+Heeft men kernen genomen in gesteente dan wordt ook de opbrengst van het gekernde traject vastgelegd (**Kernopbrengst**).
+
+Tijdens het boren kan men constateren dat er in bepaalde intervallen sporen van verontreiniging voorkomen (**Verontreinigd interval**) en dat wordt dan vastgelegd om latere gebruikers te kunnen informeren.
+
+Wanneer men ten slotte klaar is met boren kan het ontstane gat op een bepaalde manier worden afgewerkt. Dat kan weer per diepte-interval verschillen (**Afgewerkt interval**).
+
+De hoedanigheid bevat géén waarden die een nadere aanduiding zijn van methodes, technieken voor behandeling, ontsluiting of analyse van monsters.
+
+In het geval men monsters gestoken of gekernd heeft worden ook specificaties vastgelegd van het apparaat dat daarvoor gebruikt is. In figuur 2 en figuur 3 wordt geïllustreerd wat de belangrijkste kenmerken zijn.
+
+### 2.6. Terreintoestand
+
+Voor, tijdens of direct na het boren kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het booronderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein. Dat begrip wordt in nogal ruime zin opgevat en dekt alle gegevens die vastgelegd worden om een goed begrip te krijgen van de ruimtelijke context waarbinnen het onderzoek is uitgevoerd.
+
+Het veldonderzoek gebeurt op een bepaald tijdstip, op een bepaalde datum, het **tijdstip veldonderzoek**. Dit is het tijdstip van monstername. Bij historische gegevens kan het voorkomen dat het tijdstip van monstername niet bekend is, dat alleen de datum van het veldonderzoek bekend is. In deze gevallen kan een fictief tijdstip, 12:00:00, gekozen worden. Bij het veldonderzoek wordt **een** bepaalde **bemonsteringsprocedure** gebruikt. Hierin zijn de eisen en de voorgeschreven werkwijze ten aanzien van bemonstering vastgelegd.
+
+Bij boren op water kan er op de waterbodem een laag slib blijken te liggen. Wanneer dat voor het onderzoek relevant geacht is, worden enkele kenmerken daarvan vastgelegd.
+
+Een aantal van de metingen die in het veld worden gedaan, wordt in de basisregistratie ondergrond geregistreerd bij **Veldmeting.** Deze gegevens hebben hergebruikswaarde: ze geven een algemene indruk over het bemonsterde grondwater, de meetwaarden worden gebruikt in bepaalde controles, of de bepaling in het veld levert een betrouwbaarder resultaat op dan een bepaling in het laboratorium. Voor het meten van parameters in het veld zijn meerdere redenen:
+
+**Boormonsterbeschrijving** is het deelonderzoek dat betrekking heeft op het beschrijven van de monsters met als doel een of meer **boorprofielen** te maken. Er kunnen twee procedures gelden, omdat het beschrijven van grond en gesteente gecombineerd kan worden.
+
+Historische beschrijvingen van grond die onder NEN 5104 gemaakt zijn, verschillen fundamenteel van beschrijvingen van grond onder NEN-EN-ISO 14688-1. In het eerste geval is altijd sprake van één boorprofiel, in het tweede geval kunnen binnen een onderzoek drie verschillende boorprofielen gemaakt zijn.
+
+Bij elke individuele meting van een parameter in het grondwatersamenstellingsonderzoek geeft de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**. Het is een oordeel over de kwaliteit van de meting van de parameter, geen oordeel over het grondwatermonster als geheel.
+
+Een **boorprofiel** is een resultaat van de boormonsterbeschrijving en beschrijft de laagopbouw van het deel van de ondergrond dat bemonsterd is.
+
+Een boorprofiel heeft een bepaalde beschrijfkwaliteit. Onder NEN 5104 heeft dat begrip eigenlijk geen onderscheidende waarde, omdat er altijd maar een profiel is. De kwaliteit daarvan wordt niet gespecificeerd omdat gewoonlijk niet meer te achterhalen is waarop de gegevens precies zijn gebaseerd.
+
+### 1.4.4. Laboratoriumonderzoek
+
+Een geval waarin een boormonsterbeschrijving NEN-EN-ISO 14688-1 twee boorprofielen oplevert is wanneer op een bepaalde plaats een boring is gezet die op twee manieren bemonsterd is. Over het hele boortraject zijn monsters met een relatief lage kwaliteit, **geroerde** monsters, genomen. Daarnaast zijn van bepaalde dieptes monsters met een hoge kwaliteit, **ongeroerd**e monsters, verkregen. Het verschil in kwaliteit is zo groot dat de monsters apart beschreven moeten worden. In het eerste geval ontstaat een continu profiel, in het tweede een discontinu profiel.
+
+Een derde profiel is nodig wanneer bovendien een deel van de monsters, gewoonlijk uit het bovenste deel van de ondergrond, beschreven is onder de eisen die aan verkennend onderzoek zijn gesteld. Die eisen zijn laag en dekken maar een deel van kenmerken.
+
+Het uitgangspunt is in alle gevallen dat het boorprofiel alle met een bepaalde kwaliteit bemonsterde intervallen dekt en het hele traject compleet in lagen is beschreven. Het kan echter zijn dat dit niet gelukt is, bijvoorbeeld omdat er per ongeluk een monster verdwenen is. De intervallen die niet beschreven konden worden, worden expliciet in het profiel opgenomen (**Niet-beschreven interval**) en de reden waarom het niet beschreven is wordt vastgelegd.
+
+De datum waarop een bepalingstechniek wordt uitgevoerd, wordt geregistreerd met de analysedatum. Wanneer de bepalingstechniek zich uitstrekt over meer dagen, wordt de datum geregistreerd waarop de bepalingstechniek is afgerond.
+
+De belangrijkste entiteiten in een boorprofiel zijn de lagen. Iedereen die de ondergrond beschrijft beschouwt de ondergrond als opgebouwd uit lagen. De dikte daarvan varieert met de schaal waarop men de ondergrond wil beschrijven. In de beschrijving van boormonsters zou men de doorsnijding kunnen waarnemen van lagen met de dikte die varieert van een millimeter tot tientallen meters.
+
+De praktijk is anders. De lagen in het boorprofiel zijn niet altijd waargenomen lagen of de doorsnijding daarvan. Vaak zijn het beschrijfeenheden en dat zijn in zekere zin artefacten omdat ze het resultaat zijn van de procedurele afspraken die in NEN-EN-ISO 14688 zijn vastgelegd. Daarin is de minimale dikte van een laag in de beschrijving op 2 cm gesteld en de maximale op 100 cm.
+
+Onder NEN 5104 is niet vastgelegd op welke wijze de grenzen van lagen zijn bepaald. Ook zijn er geen beperkingen gesteld aan de laagdikte. Veiligheidshalve zou men de lagen die onder NEN 5104 beschreven zijn, altijd moeten beschouwen als beschrijfeenheden.
+
+Lagen hebben een boven- en ondergrens, zijn van menselijke of natuurlijke oorsprong en bestaan uit een bepaald materiaal. In de geotechniek wordt onderscheid gemaakt tussen **grond** en **gesteente** enerzijds en **bijzonder** (lees: ander) **materiaal** anderzijds. Van bijzonder materiaal worden geen details vastgelegd, van grond en gesteente wel. Het onderscheid tussen grond en gesteente speelt alleen in bepaalde delen van Nederland. Grond bestaat uit los materiaal of uit materiaal dat met de hand vervormd kan worden. Gesteente bestaat uit vast materiaal dat niet met de hand vervormd kan worden. Dat onderscheid is in de meeste gevallen voldoende, maar uiteindelijk is er vaak sprake van een geleidelijke overgang van grond naar gesteente en kunnen aspecten als uitdroging en verwering het onderscheid verder bemoeilijken. In de praktijk moet men, wanneer een monster zo hard is dat bekrassen met een duimnagel er alleen een kerf in achterlaat, beslissen of men het als gesteente of grond wil beschrijven.
+
+Omdat een laag in veel gevallen een beschrijfeenheid is kan een laag weer uit laagjes zijn opgebouwd en die laagjes kunnen in samenstelling verschillen.
+
+De **rapportagegrens** is de, door het uitvoerende laboratorium met de opdrachtgever afgesproken, kleinste waarde van een concentratie van een component die door een laboratorium standaard wordt gerapporteerd aan de opdrachtgever. In sommige gevallen hebben de opdrachtnemer en de opdrachtgever de afspraak gemaakt dat de rapportagegrens gelijk is aan de detectiegrens, ofwel aantoonbaarheidsgrens. Dit is de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is. In andere gevallen is de detectiegrens lager dan de rapportagegrens. De rapportagegrens is voor hergebruik een belangrijk gegeven en wordt geregistreerd indien hij bekend is bij de bronhouder. Deze grens is mede afhankelijk van de bepalingstechniek en de eventuele bewerking van het grondwatermonster.
+
+Onder NEN-EN-ISO 14688-1 worden van grond altijd de grondsoort, de kleur en het al dan niet voorkomen van sporen van beworteling vastgelegd. Welke kenmerken er verder worden vastgelegd hangt af van de beschrijfkwaliteit, de kwaliteit van de monsters en de grondsoort.
+
+Onder NEN 5104 wordt altijd de grondsoort vastgelegd en afhankelijk van de grondsoort ook het gehalte aan grind en organische stof, maar dat alles volgens een eigen systematiek. Wat er verder wordt vastgelegd is onder NEN 5104 niet voorbepaald.
+
+De **analysemeetwaarde** en de **rapportagegrens** hebben het formaat Meetwaarde. Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Net als bij de veldmeetwaarde kan er bij de analysemeetwaarde en de rapportagegrens van de in het laboratorium gemeten parameters geen vaste opbouw worden gegeven. Net als bij de resultaten van de veldmetingen heeft de bronhouder de verantwoordelijkheid het getal in de juiste nauwkeurigheid (het aantal significante cijfers) aan te leveren. In de door laboratoria gebruikte bepalingsprocedure is vaak vastgelegd hoe er afgerond moet worden. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
+
+Van gesteente worden altijd de gesteentesoort, de eventueel voorkomende bijzondere bestanddelen, het soort cement, de kleur, de kalkgehalteklasse en de sterkteklasse vastgelegd.
+
+### 2.13. Post-sedimentaire discontinuïteit
+
+De laagopbouw kan verstoord zijn doordat discontinuïteiten de lagen doorsnijden. Wanneer de laagopbouw ondanks de verstoring nog goed te beschrijven is, worden naast de lagen ook de kenmerken van de discontinuïteit vastgelegd. Als door verstoring de beschrijving van de laagopbouw praktisch onmogelijk is, wordt het verstoorde interval niet beschreven.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond):
+
+**Boormonsteranalyse** is het deelonderzoek dat betrekking heeft op het doen van metingen aan boormonsters. Bijna zonder uitzondering worden de metingen in een laboratorium uitgevoerd. De catalogus dekt de bepalingen die in standaard geotechnisch booronderzoek uitgevoerd worden en dat zijn altijd bepalingen aan grond en bijzonder materiaal. Analyse van gesteente is buiten beschouwing gelaten.
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.6. INSPIRE
+
+In sommige gevallen vereist een bepaling een niet verstoord boormonster. Het deel dat moet worden geanalyseerd, het **proefstuk**, wordt uit het monster genomen en de rest wordt beschreven. Wanneer de volledige doorsnede van het monster wordt gebruikt, blijft er een gat in het monster achter dat niet beschreven kan worden (zie figuur 5). Het proefstuk gaat onbeschreven de bepaling in en het materiaal wordt na uitvoering van de bepaling beschreven door degene die de bepaling heeft uitgevoerd. De kwaliteit van het materiaal is dan ingrijpend veranderd en niet langer vergelijkbaar met dat van de niet onderzochte intervallen. Daarom wordt de beschrijving van het materiaal waaruit het proefstuk bestaat, als onderdeel van de boormonsteranalyse vastgelegd en niet opgenomen in de boormonsterbeschrijving.
+
+### Basisregistratie ondergrond (BRO) catalogus grondwaterstandonderzoek
+
+Iedere bepaling die als onderdeel van de boormonsteranalyse wordt uitgevoerd, is aan een bepaalde procedure onderworpen en wordt volgens een bepaalde methode uitgevoerd. Wanneer er in de uitvoering keuzen worden gemaakt die voor de gebruiker van de gegevens relevant kan zijn, worden die vastgelegd. Datzelfde geldt voor de eventuele bijzonderheden die zich tijdens de uitvoering voordoen of die men na afloop constateert door het materiaal te bekijken.
+
+### 2.16. Onderzocht materiaal
+
+### 1. Registratieobject
+
+### 2.17. Bepaling van de zettingseigenschappen
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwaterstandonderzoek
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 2.18. Bepaling van de ongedraineerde schuifsterkte
+
+### 3.1.6. datum eerste meting
+
+### 3.1.7. datum recentste meting
+
+### 3.2. Registratiegeschiedenis
+
+### 2.19. Bepaling van het schuifspanningsverloop bij belasting
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 2.20. Bepaling van het schuifspanningsverloop bij horizontale vervorming
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3. Grondwatermonitoringnet
+
+### 3.3.1. BRO-ID
+
+### 3.4. GMW-monitoringbuis
+
+### 2.21. Bepaling van de consistentiegrenzen
+
+### 3.4.2. buisnummer
+
+### 2.22. Bepaling van de korrelgrootteverdeling
+
+### 3.5.1. observatie ID
+
+### 3.5.2. observatieperiode
+
+### 3.5.3. tijdstip resultaat
+
+### 3.6. Metadata observatie
+
+### 2.23. Bepaling van de verzadigde waterdoorlatendheid
+
+### 3.6.2. observatietype
+
+### 3.6.3. mate beoordeling
+
+### 3.7. Organisatiegegevens
+
+### 2.24. Bepaling van het watergehalte
+
+### 3.7.2. organisatienaam
+
+### 3.8. Observatieproces
+
+### 2.25. Bepaling van het organischestofgehalte
+
+### 3.8.2. meetprocedure
+
+### 3.8.3. type meetinstrument
+
+### 2.26. Bepaling van het kalkgehalte
+
+### 3.8.5. procestype
+
+### 3.8.6. beoordelingsprocedure
+
+### 2.27. Bepaling van de volumieke massa
+
+### 3.9.1. tijdmeetwaardereeks ID
+
+### 3.10. Tijdmeetwaardepaar
+
+### 2.28. Bepaling van de volumieke massa vaste delen
+
+### 3.10.2. waterstand
+
+### 3.11. Metadata tijdmeetwaardepaar
+
+### 3. Inspire
+
+### 3.11.2. censuurreden
+
+### 3.11.3. censuurlimietwaarde
+
+### 3.11.4. interpolatietype
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Registratieobject
+
+### 2. Het domeinmodel
+
+### 3. Entiteiten en attributen
+
+### 3.1. Wandonderzoek
+
+### 3.1.1. Bro-id
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. kader aanlevering
+
+### 3.1.7. kader inwinning
+
+### 3.1.8. vakgebied
+
+### 3.1.9. rapportagedatum onderzoek
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden periodiek grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd. Door het verzamelen van deze meetgegevens over ons grondwatersysteem kunnen trends worden gesignaleerd en kan getoetst en gerapporteerd worden of we voldoen aan (inter)nationale normen en streefbeelden.
+
+In het domein grondwatermonitoring staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het monitoringdoel, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld, afgezien van het feit dat voor de gehele basisregistratie ondergrond geldt dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de BRO ‘voorlopig’ respectievelijk ‘vooralsnog’ geen milieukwaliteitsinformatie bevat. Voor het grondwatermonitoringdomein zijn grondwatersamenstellingsonderzoeksgegevens uit monitoringnetten rondom milieu-hygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’ (Kamerstuk Motie 34864-19). Momenteel is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van grondwaterstandonderzoek.
+
+De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
+
+De volledige scopeafbakening is beschreven in het Scopedocument Grondwaterstandonderzoek (GLD).
+
+### 3.2.4. tijdstip voltooiing registratie
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond (BRO) omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject grondwaterstandonderzoek.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen de Engelstalige afkortingen en verder de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald monitoringdoel met een bepaald wettelijk kader, periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet weerspiegelt de groepering van onderzoeksgegevens door de bronhouder op basis van het doel van de monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om een grondwaterstandonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat grondwaterstand- en grondwatersamenstellingsonderzoek kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwaterstandonderzoek. Deze bronhouder levert het grondwaterstandonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwaterstandonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 3.3. Rapportagegeschiedenis
+
+### 3.3.1. startdatum rapportage
+
+Een **Grondwaterstandonderzoek** (GLD) is een monitoringactiviteit, waarbij herhaaldelijk de waterstand in een monitoringbuis van een grondwatermonitoringput wordt gemeten. Een filter van een monitoringbuis in een grondwatermonitoringput vormt een meetpunt in registratieobject grondwatermonitoringnet (zie paragraaf 1.2, Domein grondwatermonitoring in de BRO). Het grondwaterstandonderzoek wordt verricht door een bronhouder of door derden, op basis van een opdracht van of afspraak met die bronhouder, en komt voort uit een of meerdere monitoringdoelen. Het resultaat van het grondwaterstandonderzoek omvat de beoordeelde metingen in de tijd-meetwaardereeks die hieruit volgt. De resultaten van het onderzoek worden geregistreerd in de basisregistratie ondergrond.
+
+In tegenstelling tot de relatief langzame verandering van de samenstelling van het grondwater, kunnen de fluctuaties van de grondwaterstand en/of stijghoogte snel optreden. Dit wordt bijvoorbeeld veroorzaakt door neerslag, invloed van getij, seizoenen en/of menselijk handelen. Van oudsher worden handpeilingen veelal met een frequentie van eens per 14 dagen uitgevoerd. Sinds de intrede van (druk)sensoren kan de waterstand in de monitoringbuis met een aanzienlijk hogere frequentie worden gemeten.
+
+De snelheid waarmee gegevens van grondwaterstanden beschikbaar komen hangt af van de toegepaste systemen. Voor een handpeiling is het duidelijk dat een veldbezoek noodzakelijk is, maar ook voor veel meetsystemen met een (druk)sensor is een veldbezoek noodzakelijk om de aan de (druk)sensor gekoppelde datalogger uit te lezen. Pas na het uitgevoerde veldbezoek komen dan de gegevens beschikbaar voor verdere verwerking.
+
+Steeds vaker worden systemen toegepast waarbij de datalogger gekoppeld is aan een modem, waarbij de gegevens direct aan de dataleverancier of bronhouder worden verstuurd. Dit gebeurt via een draadloos netwerk zoals het GSM- of het LoRa-netwerk. LoRa is een Long Range, Low Power verbinding speciaal ontwikkeld om kleine hoeveelheden informatie uit te wisselen tussen objecten en systemen. Deze wijze van beschikbaar komen van data wordt hieronder als telemetrie beschreven.
+
+### 3.5. Aangeleverde locatie
+
+Het proces waarin grondwaterstandonderzoeksgegevens in de praktijk ontstaan is schematisch weergegeven in de onderstaande figuur en wordt daaronder beschreven. Daarbij wordt benadrukt dat de precieze invulling van de processtappen in de praktijk vaak afhankelijk is van het gebruiksdoel en het toepassingsgebied van de monitoring. Het komt ook voor dat niet alle beschreven stappen worden doorlopen. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. In deze catalogus beschrijven we alleen de onderdelen meten, omrekenen, controleren, corrigeren en keuren. Het samenhangend geheel van de processtappen controleren, corrigeren en keuren wordt in dit document ook ‘beoordelen’ genoemd.
+
+### 3.5.2. referentiestelsel
+
+De gegevensdefinitie van het grondwaterstandonderzoek, GLD, is gebaseerd op WaterML 2.0, een door het Open Geospatial Consortium (OGC) gepubliceerde internationale, open standaard over waterobservatiegegevens, met als doel de uitwisseling van dergelijke gegevens tussen informatiesystemen mogelijk te maken. De overheid hecht veel waarde aan en stimuleert het gebruik van open standaarden. WaterML maakt weer gebruik van andere, reeds bestaande OGC-standaarden waardoor het een interoperabel uitwisselingsformaat is. Er is voor WaterML 2.0 gekozen boven andere standaarden omdat in WaterML 2.0 reeksen van tijd-meetwaarde paren zijn gemodelleerd. In andere standaarden zijn dergelijke tijdreeksen niet gemodelleerd.
+
+In deze catalogus zijn de Engelse namen van entiteiten en attributen van WaterML vertaald naar het Nederlands waarbij in sommige gevallen de namen en de inhoud meer in detail zijn geformuleerd, gedefinieerd of afgebakend zonder dat dit strijdig is met WaterML. In de uitwisselingsberichten worden (noodzakelijkerwijs) de Engelstalige WaterML namen gebruikt.
+
+De in WaterML verplichte entiteiten en attributen zijn in de gegevensdefinitie van GLD opgenomen. Van de attributen die in WaterML optioneel zijn, zijn alleen diegene opgenomen die een hergebruikswaarde hebben voor de basisregistratie ondergrond. In sommige gevallen is in WaterML geen attribuut gedefinieerd voor een bepaald grondwaterstandgegeven dat in de basisregistratie ondergrond wel opgenomen moet worden. In die gevallen is gebruik gemaakt van een zogenoemde ‘parameter’ uit WaterML die het mogelijk maakt om extra gegevens op te nemen. In de gegevensdefinitie is het verschil tussen verplichte gegevens, optionele gegevens en parameters uit WaterML niet zichtbaar.
+
+De WaterML standaard bevat een aantal verplichte attributen die in de basisregistratie ondergrond een vaste waarde hebben of afleidbaar zijn. Ook deze attributen dienen door de bronhouder of dataleverancier aangeleverd te worden. Deze attributen worden niet afgeleid door de basisregistratie ondergrond. Dit garandeert namelijk dat op WaterML gebaseerde software van dataleveranciers, waarmee grondwaterstandonderzoeken worden aangeleverd, direct gebruikt kan worden, zonder dat deze aangepast moet worden.
+
+### 3.6.1. lokaal verticaal referentiepunt
+
+In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud van de belangrijkste entiteiten. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie in artikel 1. Als eerste wordt de hoofdentiteit beschreven, daarna de overige entiteiten.
+
+### 3.6.3. verticaal referentievlak
+
+Het registratieobject **Grondwaterstandonderzoek** bevat de, van een beoordelingsresultaat voorziene, tijd-meetwaardereeks(en) van de berekende waterstand in meter ten opzichte van NAP, in een bepaald filter van een grondwatermonitoringput. Uitgangspunt is dat een grondwaterstandonderzoek één **bronhouder** heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn.
+
+De gegevens van een grondwaterstandonderzoek ontstaan gedurende de ‘levensduur’ van het onderzoek, dat wil zeggen: gedurende de monitoringsperiode. Een belangrijk uitgangspunt voor dit registratieobject is dat er op min of meer vastomlijnde momenten (deel)gegevens geregistreerd worden als er daartoe ‘aanleidingen’ zijn. Voorbeelden van aanleidingen zijn: het starten van het grondwaterstandonderzoek, het beschikbaar komen van een uitgelezen tijd-meetwaardereeks die voorlopig of volledig is beoordeeld, het wijzigen van het type meetinstrument of de meetprocedure en het beëindigen van het grondwaterstandonderzoek. Het resultaat van een grondwaterstandonderzoek wordt dus niet in één keer geregistreerd, na beëindiging van het monitoren. De complete set van aanleidingen die zich voordoen gedurende de levensduur van het grondwaterstandonderzoek, en de daaruit af te leiden inhoud van berichten, zullen worden beschreven in de berichtencatalogus. In deze berichtencatalogus worden ook de mogelijke correctieberichten beschreven.
+
+Door het werkveld is de wens uitgesproken om (sets van) meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Afgesproken is daarnaast dat meetgegevens die via telemetrie beschikbaar komen niet frequenter dan dagelijks worden aangeleverd.
+
+De meetgegevens van een bepaalde periode zijn samen gebundeld in een observatie (zie de volgende paragraaf). Een grondwaterstandonderzoek wordt gedurende de levensduur steeds aangevuld met nieuwe observaties.
+
+Een grondwaterstandonderzoek kan ten behoeve van meer dan één monitoringdoel worden uitgevoerd. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) en het wettelijk kader waar dit doel uit volgt (kader aanlevering) geregistreerd. In het registratieobject grondwaterstandonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwaterstandonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO) is het doel en het wettelijk kader van het grondwaterstandonderzoek indirect geregistreerd. De verwijzing naar het **grondwatermonitoringnet** wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
+
+Bij een grondwaterstandonderzoek ligt de verwijzing vast naar de monitoringbuis waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO). De verwijzing wordt gemaakt op basis van het **BRO-ID** van de **grondwatermonitoringput** in combinatie met het **buisnummer** van de monitoringbuis waarin het grondwaterstandonderzoek is uitgevoerd. De diepte van het filter van de monitoringsbuis is geregistreerd via de verwijzing naar de monitoringbuis.
+
+Van elk grondwaterstandonderzoek wordt vastgelegd wat de datum is van de eerste meting (**datum eerste meting)** en wat de datum is van de meest recente meting (**datum recentste meting**) van het gehele onderzoek. Beide data worden door de basisregistratie ondergrond afgeleid uit de aangeleverde gegevens. Bij elke aanvullende levering van grondwaterstanden wordt door de basisregistratie ondergrond gecheckt of de **begindatum** van de **observatieperiode** van de aanvullende levering vόόr de geregistreerde datum eerste metingligt.Wanneer dat het geval is, wordt de **datum eerste meting** vervangen door de begindatum van de observatieperiode van de aanvullende levering. Wanneer dat niet het geval is, blijft de **datum eerste meting** ongewijzigd. Ook wordt bij elke aanvullende levering van grondwaterstanden door de basisregistratie ondergrond gecheckt of de **einddatum** van de **observatieperiode** van de aanvullende levering na de geregistreerde **datum recentste meting** ligt. Wanneer dat het geval is, wordt de **datum recentste meting** vervangen door de einddatum van de observatieperiode van de aanvullende levering.
+
+### 3.8. Wandontsluiting
+
+De entiteit observatie omvat het geheel van gegevens en kenmerken van de activiteiten die geleid hebben tot het bepalen van waterstanden in een bepaalde periode. De inhoud van de entiteit observatie wordt hieronder toegelicht. De observatie heeft als resultaat een reeks tijd-meetwaardeparen (**Tijdmeetwaardereeks**) van de waterstand. Het grondwaterstandonderzoek wordt in de loop der tijd aangevuld met observaties die elk een meetperiode, een **observatieperiode**, omvatten. Van elke observatie wordt een ID vastgelegd, het **observatie ID**. Dit is een door de bronhouder te bepalen ID dat de observatie uniek identificeert. Dit unieke ID kan bijvoorbeeld gebruikt worden om in een later stadium een correctie in de observatiegegevens te registreren. Met behulp van het observatie ID kan in dat geval geïdentificeerd worden welke observatie gecorrigeerd moet worden.
+
+Een bronhouder laat bijvoorbeeld eens per kwartaal de datalogger uitlezen. Omdat met het werkveld is afgesproken dat gegevens zo snel mogelijk, na een eventuele eerste beoordeling, in de basisregistratie ondergrond geregistreerd worden, zal de bronhouder de uitgelezen gegevens van één kwartaal als één observatie aanleveren aan de basisregistratie ondergrond. De bronhouder kan er ook voor kiezen de uitgelezen gegevens van een kwartaal op te knippen in bijvoorbeeld drie observaties van elk één maand. In het eerste geval overspant de observatie een periode en een reeks van tijd-meetwaardeparen van drie maanden. In het tweede geval overspant de observatie één maand aan gegevens. Een observatie kan later niet aangevuld worden met additionele tijd-meetwaardeparen. Een aanvullende levering van bijvoorbeeld het volgende kwartaal zal een nieuwe observatie zijn die de nieuwe meetgegevens bevat.
+
+Het observatie ID heeft een domein van het type tekst en mag maximaal 40 tekens bevatten. Dit geeft de bronhouder de mogelijkheid zelf een code of naam aan het ID te geven die herkenbaar is en/of past in de werkwijze van de bronhouder.
+
+Conform WaterML wordt het tijdsvenster waarin de meetwaarden zijn gedaan vastgelegd. Dit is de periode tussen de eerste en de laatste meting van de tijd-meetwaardereeks die het resultaat is van de observatie. Deze **observatieperiode** wordt gevormd door de begindatum en de einddatum van de tijd-meetwaardereeks. De bronhouder of dataleverancier kan deze data afleiden van het tijdstip van de eerste en de laatste meting uit de reeks.
+
+### 3.8.5. kuil dichtgemaakt
+
+Elke observatie heeft een aantal metadata gegevens, de **Metadata observatie**. Deze metadata bevat, conform WaterML, de datum waarop de metadata tot stand zijn gekomen: **datum metadata**. Deze datum wordt door de bronhouder of dataleverancier afgeleid van het gegeven **tijdstip resultaat** van de entiteit **Observatie**.
+
+Het **observatietype** beschrijft de reden van het plaatsvinden van de observatie. Hier worden twee typen onderscheiden namelijk de **reguliere meting** en de **controlemeting**. De **controlemeting** wordt uitgevoerd ter controle van een reeks van reguliere metingen met een hoge(re) frequentie. De controlemeting is veelal een handpeiling. Alle andere metingen betreffen reguliere metingen. De **reguliere meting** kan door zowel een sensor als handmatig worden gedaan. De reden van meten ligt bij reguliere metingen vast in het monitoringdoel, een attribuut van het grondwatermonitoringnet waarnaar wordt verwezen.
+
+Onderdeel van de metadata is verder de **mate beoordeling** waarbij de mate wordt vastgelegd waarin de reeks van tijd-meetwaarden, die het resultaat zijn van de observatie, zijn beoordeeld. Hier zijn twee beoordelingsniveaus gedefinieerd. Naast volledig beoordeelde tijd-meetwaardereeksen bestaat de mogelijkheid om nog niet volledig, of niet beoordeelde tijd-meetwaardereeksen te registreren in de basisregistratie ondergrond. Zowel bij niet beoordeelde reeksen als bij niet volledig beoordeelde reeksen wordt een mate beoordeling: **voorlopig** geregistreerd. Of al een voorlopige beoordeling heeft plaatsgevonden hangt af van de gebruikte **beoordelingsprocedure**. De belangrijkste reden voor het toevoegen van deze voorlopige tijd-meetwaardereeksen is de wens om meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Onder voorlopige tijd-meetwaardereeksen vallen bijvoorbeeld gegevens die (vrijwel) automatisch, uit telemetriesystemen aan het bronhouderportaal worden doorgezet, bijvoorbeeld binnen één of enkele dagen. Maar ook tijd-meetwaardereeksen waarbij, afhankelijk van de gevolgde beoordelingsprocedure, bijvoorbeeld na een jaar een volledige beoordeling plaats vindt, kunnen als voorlopige tijd-meetwaardereeksen al eerder in de basisregistratie ondergrond worden opgenomen, eventueel na een eerste, voorlopige beoordeling.
+
+Als een tijdreeks van een grondwaterstandonderzoek zowel voorlopig als volledig wordt beoordeeld dan worden zowel de voorlopig beoordeelde tijd-meetwaardereeks als ook volledig beoordeelde tijd-meetwaardereeks ‘naast elkaar’ in de basisregistratie ondergrond geregistreerd. Beide gegevenssets zijn daarmee beschikbaar voor de gebruiker.
+
+**C**ontrolemetingen dienen ter controle van de reguliere metingen. Het onderscheid in de mate van beoordeling is voor controlemetingen daarom niet, of minder van belang en wordt niet in de basisregistratie ondergrond opgenomen. Voor beide observatietypen dient het attribuut **status kwaliteitscontrole**(zie paragraaf Metadata tijdmeetwaardepaar) en het attribuut **beoordelingsprocedure** (zie paragraaf Observatieproces) wel aanwezig te zijn.
+
+De observatieperiode van een reguliere meting met een mate van beoordeling, volledig beoordeeld, mag niet overlappen met de observatieperiode van een andere observatie met hetzelfde observatietype en dezelfde mate van beoordeling. De observatieperiode van een reguliere, voorlopige tijd-meetwaardereeks mag eventueel wel overlappen met de observatieperiode van een andere reguliere, voorlopige tijd-meetwaardereeks. Bij een voorlopige tijd-meetwaardereeks kan het namelijk voorkomen dat de tijdsverschuiving van een niet, of niet goed functionerende klok nog niet is hersteld waardoor er overlap met de observatieperiode van een andere observatie kan voorkomen. Bij controlemetingen mag de observatieperiode van verschillende observaties eventueel ook overlappen.
+
+Het **tijdstip resultaat** van de entiteit **Observatie** is, conform WaterML, het tijdstip waarop het laatste proces is afgerond. Het betreft hier het laatste proces dat gebruikt is bij de totstandkoming van de waterstand in meter ten opzichte van NAP. In de praktijk wordt dit tijdstip veelal niet genoteerd. In de basisregistratie ondergrond wordt daarom bij het in WaterML verplichte attribuut **tijdstip resultaat** het volgende geregistreerd:
+
+De **uitvoerder** is de partij die voor de bronhouder geldt als verantwoordelijk voor de uitvoering van de waterstandmeting. In WaterML is het verplicht hier gegevens van een organisatie vast te leggen die bestaan uit een aantal verplichte attributen: de **organisatienaam** en de rol van deze organisatie in het grondwaterstandonderzoek. De rol ligt opgesloten in de naam van dit attribuut: uitvoerder. In GLD voegen we hier, ten opzicht van WaterML, de **identificatie** van de uitvoerder aan toe. De identificatie wordt, zoals bij andere registratieobjecten in de basisregistratie ondergrond, vastgelegd middels het KvK-nummer van de onderneming of de maatschappelijke activiteit, of het equivalent van het KvK-nummer in een handelsregister van een andere lidstaat van de Europese Unie dan Nederland.
+
+### 3.9.8. hydrologische omstandigheid
+
+Een observatie die resulteert in een volledig beoordeelde tijd-meetwaardereeks is (vaak) gebaseerd op één of meer eerder geregistreerde observaties, namelijk de observatie(s) met een voorlopige tijd-meetwaardereeks waarop de observatie is gebaseerd en/of één of meer observaties met een controlemeting die gebruikt zijn tijdens de beoordeling. Bij een observatie met een volledig beoordeelde tijd-meetwaardereeks moet in dat geval geregistreerd worden dat de observatie **gerelateerd is aan** één of meer andere observaties indien deze gerelateerde observaties aanwezig zijn.
+
+Het kan echter in de praktijk ook voorkomen dat de voorlopig beoordeelde observatie(s) ontbreken. Ook controlemetingen die normaal gesproken gebruikt worden bij de beoordeling kunnen ontbreken. In deze gevallen kunnen **gerelateerde observaties** ontbreken.
+
+Ook bij een observatie die resulteert in een voorlopige tijd-meetwaardereeks kan gebruik gemaakt zijn van één of meer observaties met een controlemeting. Dit kan bijvoorbeeld het geval zijn bij gegevens die zijn uitgelezen uit een datalogger en die een voorlopige beoordeling hebben ondergaan. In dat geval wordt de observaties met een voorlopige tijd-meetwaardereeks gerelateerd aan één of meer observaties met een controlemeting. Indien de controlemetingen ontbreken, worden geen gerelateerde observaties geregistreerd bij een voorlopig beoordeelde observatie.
+
+Observaties die resulteren in een controlemeting zijn zelfstandige waarnemingen en worden niet gerelateerd aan andere observaties.
+
+Bij het registreren van gerelateerde observaties wordt gebruik gemaakt van het observatie ID van deze gerelateerde observaties. Bij de aanlevering zal een check uitgevoerd worden of de aangeleverde observatie ID(s) bij het betreffende grondwaterstandonderzoek in de LV-BRO bekend zijn als observatie ID(s).
+
+### 3.10.2. beschrijfprocedure
+
+In het **observatieproces** worden de kenmerken van de processen die resulteren in de uiteindelijke meetwaarden vastgelegd. Onderdeel van het observatieproces is het **observatieproces ID**. Dit is een door de bronhouder of dataleverancier te bepalen tekst van maximaal 40 karakters die de kenmerken van een observatieproces uniek identificeren. Binnen het registratieobject moet dit ID uniek zijn. Het observatieproces ID kan bijvoorbeeld gebruikt worden bij aanvullende leveringen van een Grondwaterstandonderzoek: Wanneer een observatie wordt aangeleverd die dezelfde observatieproceskenmerken heeft als een observatie die al geregistreerd is, kan de bronhouder/ dataleverancier ervoor kiezen om niet alle observatieproceskenmerken opnieuw aan te leveren maar in plaats daarvan te verwijzen naar het reeds geregistreerde observatieproces door alleen het observatieproces ID van het reeds geregistreerde observatieproces aan te leveren. De overige observatieproceskenmerken hoeven in dit geval niet opnieuw aangeleverd te worden.
+
+De **meetprocedure** is onderdeel van het observatieproces. Het betreft de procedure of het werkvoorschrift dat gehanteerd is bij de observatie voor de grondwatermonitoring. In deze procedure staan de afspraken waaronder de observatie is uitgevoerd. De procedures zijn opgesomd in een waardelijst.
+
+Het type meetinstrument beschrijft het meetinstrument waarmee de metingen in de monitoringbuis zijn uitgevoerd. In het geval van sensoren betreft het hier het type sensor. Wanneer een apparaat uit meerdere sensoren bestaat, wordt het type sensor bedoeld, niet het apparaat.
+
+Bij het **type meetinstrument**: druksensor, zijn er globaal twee typen te onderscheiden, de relatieve druksensor en de absolute druksensor. Een relatieve druksensor meet de waterdruk met één enkele sensor. De invloed van de luchtdruk wordt door middel van een capillair in de kabel genivelleerd. Bij dit type druksensor wordt bij **type luchtdrukcompensatie** geregistreerd: **capillair**.
+
+Bij een absolute druksensor zijn voor het bepalen van uitsluitend de waterdruk twee sensoren noodzakelijk. De absolute druksensor meet de som van de waterdruk en de luchtdruk. Voor luchtdruk moet rekenkundig gecompenseerd worden. Dit betekent dat naast de absolute druksensor een sensor noodzakelijk is die de luchtdruk meet. Er zijn verschillende manieren waarop de rekenkundige gecompenseerd wordt. Dit wordt vastgelegd bij het attribuut **type luchtdrukcompensatie**. In sommige gevallen zijn de sensor die de absolute druk meet en de sensor die de luchtdruk meet geïntegreerd in één apparaat. In dit geval wordt de rekenkundige compensatie soms al in het apparaat gedaan. Het **type luchtdrukcompensatie** betreft dan: **putlocatiemeting**.
+
+Het **procestype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het procestype geeft aan wat het laatste type proces is dat is uitgevoerd voor de bepaling van het eindresultaat. WaterML heeft een vaste waardelijst voor het procestype: simulatie, handmatige methode, sensor, algoritme en onbekend. Op dit moment wordt in het grondwaterstandonderzoek alleen de waterstand in meter ten opzichte van NAP vastgelegd en geen ruwe meetwaarden. De bepaling van de waterstand ten opzichte van NAP is altijd een berekening. Daarom wordt hier een vaste waarde ingevuld: algoritme. Indien in de toekomst ook ruwe metingen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+De individuele tijd-meetwaardeparen van de reguliere metingen worden onder andere beoordeeld aan de hand van de controlemetingen. Hoe dit proces van beoordelen van de kwaliteit van de tijd-meetwaardeparen verloopt, is beschreven in een werkvoorschrift of procedure, de **beoordelingsprocedure**. Bij het moment van vaststellen van versie 1.0 van de catalogus is er een aantal procedures beschreven en beschikbaar. Voor de partijen die deze procedures niet gebruiken maar op een andere, niet beschreven wijze beoordelen, is er de mogelijkheid om aan te geven dat beoordeeld is op basis van het oordeel van een deskundige. Omdat het voor een gebruiker waardevol is om te weten op welke wijze er is beoordeeld, is het is de bedoeling dat de waardelijst van beoordelingsprocedures wordt aangevuld ten behoeve van volgende versies van de catalogus.
+
+### 3.11.2. bewortelbare diepte bereikt
+
+Tijd-meetwaardeparen worden gegroepeerd in een **Tijdmeetwaardereeks**. Eén observatie leidt tot één tijd-meetwaardereeks, waarbij alle tijd-meetwaardeparen in de reeks dezelfde observatie-eigenschappen hebben. Het is ook mogelijk dat de tijd-meetwaardereeks uit één tijd-meetwaardepaar bestaat. Het is waarschijnlijk dat dit bijvoorbeeld bij controlemetingen het geval zal zijn.
+
+Van elke tijd-meetwaardereeks wordt een ID vastgelegd, het **tijdmeetwaardereeks ID**. Dit is een door de bronhouder te bepalen ID dat de tijd-meetwaardereeks uniek identificeert. Binnen het registratieobject moet dit ID uniek zijn.
+
+De tijd-meetwaardeparen in de reeks moeten in oplopende chronologische volgorde in de reeks worden geplaatst.
+
+### 3.11.6. gemiddeld laagste grondwaterstand
+
+Het **Tijdmeetwaardepaar** bevat het tijdstip waarop is gemeten: het **tijdstip meting**, in combinatie met de waterstand in meter ten opzichte van NAP zoals berekend uit een meting in een monitoringbuis van een grondwatermonitoringput: de **waterstand**.
+
+### 3.11.8. plaatselijk fenomeen
+
+Elk tijd-meetwaardepaar heeft een aantal metadata gegevens, **Metadata tijdmeetwaardepaar**. Deze metadata bevat onder andere het eindresultaat van de beoordeling zoals uitgevoerd conform de beoordelingsprocedure. Deze **statuskwaliteitscontrole** geeft het eindoordeel van de bronhouder over de kwaliteit van een individuele meting. Niet alleen bij een volledig beoordeelde observatie maar ook bij observaties van het observatietype controlemeting en observaties met een mate van beoordeling voorlopig, is de statuskwaliteitscontrole aanwezig. In de beoordelingsprocedure is opgenomen welke controles en beoordeling er voor elk observatietype en voor elke mate van beoordeling wordt uitgevoerd. Alleen in het geval de observatie het observatietype reguliere meting heeft en een mate beoordeling: voorlopig, is het mogelijk om bij de status kwaliteitscontrole **nogNietBeoordeeld** te registreren. Dit kan bijvoorbeeld het geval zijn bij gegevens die via telemetrie zijn verkregen en die zonder beoordeeld te zijn, worden geregistreerd in de basisregistratie ondergrond.
+
+In WaterML is een attribuut (quality) met een waardelijst (DataQualityCode) gedefinieerd voor de kwaliteit van de resultaten. Voor het grondwaterstandonderzoek is er echter voor gekozen om dit attribuut met waardelijst niet te gebruiken. In plaats daarvan is een eigen parameter met een eigen codelijst opgesteld, de **statuskwaliteitscontrole**. De reden hiervan is dat er voor het grondwaterstandonderzoek en het grondwaterkwaliteitsonderzoek een uitgebreide analyse is gedaan naar de mogelijke kwaliteit van de resultaten. Dit heeft geresulteerd in een waardelijst voor de status kwaliteitscontrole die geldt voor zowel het grondwaterkwaliteitsonderzoek als het grondwaterstandonderzoek. De waarden en de definities van de waarden op deze waardelijst komen niet geheel overeen en zijn in sommige gevallen niet één-op-één te vertalen in de waarden op de waardelijst van WaterML.
+
+Een waarde (van de waterstand) die buiten het meetbereik van de meetopstelling valt, betreft een gecensureerde waarde. De term gecensureerde waarde heeft in de statistiek een specifieke betekenis. Het geeft aan dat de waarde van een variabele niet exact bekend is of niet exact bepaald kon worden, maar dat wel duidelijk is dat deze zich boven of juist beneden een bepaalde limiet bevindt. Bij een grondwaterstandonderzoek is dit bijvoorbeeld het geval bij een drooggevallen sensor: de waarde van de waterstand kan niet exact worden gegeven maar wel is duidelijk dat de waterstand zich onder het niveau van de inhangdiepte van de sensor bevindt.
+
+Het attribuut **waterstand** heeft in het geval van een gecensureerde meting geen waarde. Metingen die buiten het meetbereik vallen geven desondanks een waardevol inzicht in de situatie van het grondwater ter plaatse van de monitoringbuis. Daarom zijn in de metadata van het tijd-meetwaardepaar de attributen **censuurreden** en **censuurlimietwaarde** opgenomen. Wanneer de waterstand geen waarde heeft, moeten deze attributen gevuld zijn. De **censuurreden** blijft beperkt tot **kleiner dan limietwaarde** of **groter dan limietwaarde**. Het niveau van de limietwaarde die over- of onderschreden wordt, wordt als **censuurlimietwaarde** opgenomen. Hieronder zijn een aantal voorbeelden gepresenteerd, waarin sprake is van gecensureerde waarden. Daarnaast zijn in figuur 5 een tweetal situaties weergegeven van gecensureerde metingen.
+
+In het linkerdeel van bovenstaande figuur is het verloop in de tijd van de grondwaterstand/stijghoogte aangegeven zoals in de ondergrond op kan treden. De grondwaterstand/stijghoogte in de ondergrond zal zich niet laten reguleren door de meetopstelling, waarbij de meetopstelling in dit geval de combinatie van de monitoringbuis en de druksensor betreft. Het rechter deel van de figuur geeft de tijd-meetwaardereeks weer van de waterstand in de monitoringbuis. Waterstanden in de monitoringbuis onder het niveau van de druksensor kunnen niet worden gemeten. In dat geval is de censuurreden: **kleiner dan limietwaarde** en de censuurlimietwaarde is het niveau van de sensor in meter ten opzichte van NAP.
+
+Bij waterstanden in de monitoringbuis hoger dan de bovenkant van de buis zal de monitoringbuis overlopen. Ervan uitgaande dat geen drukdop of kweldop is toegepast, kunnen hogere waterstanden dan bovenkantbuis niet worden gemeten. In dat geval is de censuurreden **groter dan limietwaarde** en de censuurlimietwaarde is het niveau van bovenkantbuis van de monitoringbuis in meter ten opzichte van NAP.
+
+In het geval dat de waterstand in de monitoringbuis wordt gemeten door middel van handpeilingen (met een meetlint of ander handapparaat), worden gecensureerde metingen veroorzaakt door monitoringbuis gerelateerde aspecten. Dit betreffen bovenkant monitoringsbuis (zie ook figuur 5) en droogval van het filter van de monitoringsbuis: als het grondwaterniveau lager is dan de onderkant van het geperforeerde deel van de monitoringbuis. In dat geval is de censuurreden: **kleiner dan limietwaarde** en het niveau van de onderkant van het filter is de censuurlimietwaarde.
+
+Bij druksensormetingen gelden aanvullende censuurredenen die samenhangen met het meetbereik van de druksensor. Het sensormaximum kan bijvoorbeeld worden overschreden. Dit doet zich voor wanneer het sensormaximum kleiner is dan bovenkantbuis óf de monitoringbuis aan de bovenkant afgesloten is door een drukdop of kweldop. De censuurreden is: **groter dan limietwaarde** en het niveau van het sensormaximum is de censuurlimietwaarde. Zoals hierboven reeds genoemd, kan het ook voorkomen dat een druksensor is drooggevallen.
+
+Er is een aantal complicerende factoren waar de dataleverancier of bronhouder alert op dient te zijn. Hieronder worden er een aantal genoemd.
+
+In de praktijk kan er sprake zijn van een combinatie van oorzaken van gecensureerde metingen, namelijk monitoringbuis gerelateerde en sensor gerelateerde oorzaken. Bijvoorbeeld kan zowel het filter als de sensor zijn drooggevallen.
+
+Bij een drooggevallen filter bestaat het risico dat wel een waterstand in de monitoringbuis wordt gemeten, dit kan stagnerend water in een zandvang zijn. Om dit aspect te onderkennen, moeten de metingen en de filterstelling beide worden beschouwd.
+
+Zoals eerder genoemd, bestaan er twee typen druksensoren, namelijk relatieve druksensoren en absolute druksensoren. Ten aanzien van gecensureerde metingen is er een duidelijk verschil tussen beide type sensoren. Het maximale drukbereik van relatieve druksensoren komt overeen met een vaste maximale waterdruk en daarmee een vaste maximale waterstand. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten een constant niveau is. Dit niveau hangt alleen nog af van het niveau (nulpunt) van de druksensor. De absolute druksensor meet de som van lucht- en waterdruk. Hierdoor is de maximale meting van de waterdruk afhankelijk is van de heersende luchtdruk op dat moment. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten geen constant niveau is.
+
+De uiterste grenzen (de censuurlimietwaarden) zijn afhankelijk van de specificaties van de gebruikte sensor. Benadrukt wordt dat deze grenzen niet alleen van toepassing zijn voor druksensoren, maar voor type sensoren zoals de akoestische- en de radarsensor. Van belang is dat gebruiker van sensoren zich hiervan bewust is.
+
+Het **interpolatietype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het interpolatietype geeft aan wat de aard is van de relatie tussen het tijdstip en de meetwaarde. Deze relatie en de wijze van interpoleren kan bijvoorbeeld voor visualisatie en/of aggregatie van belang zijn. WaterML heeft een vaste waardelijst voor het interpolatietype. Het kan bijvoorbeeld het maximum of het minimum of het gemiddelde zijn over het gemeten interval. We leggen in de basisregistratie ondergrond de feitelijke waarnemingen vast en daarom wordt hier de vaste waarde: **discontinu** ingevuld. Het is aan de gebruiker te beoordelen of en hoe hij de meetwaarden eventueel wil interpoleren of aggregeren. Indien in de toekomst ook andere metingen met andere interpolatietypen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+### 3.13.1. diepte
+
+In het verleden waren de werkprocessen en middelen rond het grondwaterwaterstandonderzoek anders dan ze nu zijn. Bij de aanlevering van historische gegevens wordt geaccepteerd dat een aantal formeel verplichte gegevens geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd en dat kent minder strikte regels. Het betreft authentieke gegevens waarvan de betrouwbaarheid en herkomst eenduidig moet zijn. Daarom is de samenhang tussen de attributen **mate beoordeling**, de **beoordelingsprocedure** en de **status kwaliteitscontrole** bij IMBRO/A gegevens hetzelfde als bij IMBRO gegevens.
+
+Wanneer bij historische gegevens onduidelijk is of de tijd-meetwaardereeks is beoordeeld, krijgen deze gegevens een mate beoordeling waarde ‘onbekend’. In dit geval is het tevens onbekend welke beoordelingsprocedure er is gebruikt. De status kwaliteitscontrole zal in dit geval ook ‘onbekend’ moeten zijn.
+
+Het is mogelijk dat een bronhouder weet dat zijn historische gegevens destijds beoordeeld zijn en hoewel er niet per tijd-meetwaardepaar een uitkomst van de beoordeling is opgeslagen, weet de bronhouder dat de gegevens destijds zijn goedgekeurd, bijvoorbeeld omdat ze anders niet in het gegevensbeheersysteem waren opgeslagen. De bronhouder geeft in dit geval aan dat de mate beoordeling ’volledig beoordeeld’ is. Afhankelijk van wat de bronhouder nog weet van de beoordelingsprocedure kan hij aangeven dat de beoordelingsprocedure ‘oordeel deskundige’ is, maar ook ‘onbekend’ is mogelijk. Daarnaast geeft de bronhouder in dit geval aan dat de tijd-meetwaardeparen een status kwaliteit controle ‘goedgekeurd’ hebben. Wanneer de bronhouder onzeker is over de uitkomst van de beoordeling van destijds, kan hij ook aangeven dat de status kwaliteitscontrole ‘onbekend’ is. Het **tijdstip resultaat** wordt bij een volledig beoordeelde meetreeks gedefinieerd als het tijdstip waarop de beoordeling is afgerond. In dit geval gaat het om de beoordeling van destijds en kan, afhankelijk van de beschikbaarheid van dit gegeven, een voor IMBRO/A geldende **OnvolledigeDatum** worden ingevuld.
+
+Het kan ook voorkomen dat historische gegevens voorafgaand aan registratie in de basisregistratie ondergrond nog in retroperspectief worden beoordeeld met het doel de tijd-meetwaardeparen een status kwaliteitscontrole te geven. In dit geval heeft dat ook consequenties voor de mate beoordeling, die wordt daarmee volledig beoordeeld. Het is mogelijk dat geen ‘huidige’ beoordelingsprocedure gevolgd kan worden maar dat er een alternatieve beoordeling van deze historische gegevens zal plaats vinden. Er dient in dat geval te worden gekozen voor ‘oordeel deskundige’. Het **tijdstip resultaat** is in dit geval het tijdstip waarop de beoordeling die achteraf wordt gedaan, is afgerond.
+
+### 3.14.3. ondergrens
+
+Er worden in het grondwaterstandonderzoek verschillende stadia van de gegevens over de waterstand vastgelegd. Op dit moment zijn dat volledig beoordeelde gegevens en voorlopige gegevens. Dit betekent dat er van een meting op een bepaalde datum, op een bepaald tijdstip verschillende meetwaarden geregistreerd kunnen zijn in de basisregistratie ondergrond, een voorlopige meetwaarde en een volledig beoordeelde meetwaarde. De volledig beoordeelde meetwaarde heeft alle in het beoordelingsprocedure vermelde controles ondergaan en is daardoor, in samenhang met het attribuut status kwaliteitscontrole, betrouwbaarder dan de voorlopige meetwaarde die geen of niet alle controles heeft ondergaan. De hiërarchie van de juridische gebruiksplicht is daarom als volgt:
+
+### 3.14.5. vorm ondergrens
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2,Domein grondwatermonitoring in de BRO. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2,Domein grondwatermonitoring in de BRO):
+
+Daarnaast wordt op het volgende punt consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 3.14.10. bodemleven
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject grondwaterstandonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject grondwaterstandonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+**IndicatieJaNee**
+
+**IndicatieJaNeeOnbekend**
+
+**Kwaliteitsregime**
+
+De catalogus voor het geotechnisch sondeeronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van sondeeronderzoek dat vanuit het vakgebied van de geotechniek is uitgevoerd. In de geotechniek wordt sondeeronderzoek routinematig en op gestandaardiseerde wijze uitgevoerd. Sondeeronderzoek wordt sporadisch binnen andere vakgebieden uitgevoerd, bijvoorbeeld in de bodemkunde, en dat onderzoek valt buiten het bereik van de basisregistratie ondergrond.
+
+Geotechnisch sondeeronderzoek wordt uitgevoerd in het kader van projecten in de grond-, weg- en waterbouw en in de woning- en utiliteitsbouw. Het heeft tot doel de opbouw en de eigenschappen van de ondergrond te onderzoeken om de locatie, het ontwerp, de uitvoering of de toestand van bouwwerken te kunnen vaststellen. Geotechnisch sondeeronderzoek is de formele naam die in de basisregsitratie ondergrond gebruikt wordt en de term verwijst naar een onderzoekstechniek die gewoonlijk **sonderen** wordt genoemd.
+
+Geotechnisch sondeeronderzoek in de basisregsitratie ondergrond is het geheel van gegevens dat betrekking heeft op een specifiek sondeeronderzoek dat op een specifieke locatie in Nederland is uitgevoerd en dat door of onder de verantwoordelijkheid van een bepaalde bronhouder is aangeleverd aan de registerbeheerder van de BRO en vervolgens onder zijn verantwoordelijkheid in de registratie ondergrond is opgenomen. De activiteiten van sondeeronderzoek omvatten in ieder geval het op locatie doen van metingen met een sondeerapparaat en de uiteindelijke rapportage van de resultaten aan de opdrachtgever.
+
+Sonderen is een manier van veldonderzoek die binnen het domein van de geotechniek ontwikkeld is. Bij dit type onderzoek wordt een sondeerconus met constante snelheid de grond ingedrukt en terwijl de conus naar beneden gaat, worden quasi-continu waarnemingen gedaan aan fysieke grootheden.
+
+De techniek is oorspronkelijk ontwikkeld om inzicht te krijgen in het dragend vermogen van de ondergrond om op basis daarvan funderingen te ontwerpen. De grootheid die daartoe gemeten werd en wordt, is de weerstand die de conus op de weg naar beneden ondervindt. In de afgelopen decennia heeft de sondeertechniek zich sterk ontwikkeld en inmiddels is het mogelijk routinematig een breed scala aan grootheden te meten. De techniek wordt in Nederland overigens nog steeds in hoofdzaak gebruikt voor het ontwerp van funderingen, maar de resultaten kunnen ook veel breder worden gebruikt omdat zij in meer algemene zin inzicht geven in de eigenschappen en de opbouw van de ondergrond.
+
+Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het sondeeronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
+
+### 2.2. Registratiegeschiedenis
+
+De registratiegeschiedenis van een geotechnisch sondeeronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. formele geschiedenis. De registratiegeschiedenis vertelt bijvoorbeeld wanneer een object is geregistreerd en of er na registratie correcties zijn doorgevoerd.
+
+### 2.3. Sondeonderzoek
+
+Het **sondeonderzoek** koppelt de resultaten die eruit voortkomen aan het door de sonde bemeten deel van de ondergrond (**traject**). Het **sondeonderzoek** bestaat altijd uit het uitvoeren van een **conuspenetratietest**. De **conuspenetratietest** kan één of meer keren onderbroken worden om een **dissipatietest** uit te voeren. Dat is een ander type test, met een eigen resultaat.
+
+### 2.4. Resultaat
+
+Het resultaat geeft de waarden van de bepaalde parameters op bepaalde posities in het sondeertraject (**conuspenetratietest resultaat**), dan wel het verloop van de waarde van gemeten parameters op één bepaalde positie in de tijd (**dissipatietest resultaat)**. Sommige parameters hebben betrekking op de positie van de meting, maar de meeste parameters geven eigenschappen van de ondergrond weer.
+
+Voor de meeste gemeten parameters kan vóór en na het uitvoeren van het sondeonderzoek de waarde worden afgelezen die het apparaat aangeeft zonder belasting (**nulmeting**). De nulmetingen worden gebruikt om vast te stellen of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid heeft ingeboet.
+
+### 2.6. Aanvullend onderzoek
+
+In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond tot een bepaalde diepte wordt weggegraven voordat met het sondeonderzoek wordt begonnen, wordt er een beschrijving van de weggehaalde lagen gemaakt (**verwijderde laag**).
+
+### 3. Het domeinmodel
+
+## Bijlage III. behorend bij [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+### 1. Registratieobject
+
+### 2. Het domeinmodel
+
+### 3.1. Booronderzoek
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.5.4. methode locatiebepaling
+
+### 3.8.2. einddatum boring
+
+### 3.16.6. ondergrens zandfractie
+
+### 3.17. Boorprofiel
+
+### 3.17.1. monsterhoedanigheid
+
+### 3.17.3. bewortelbare diepte
+
+### 3.17.4. gemiddeld hoogste grondwaterstand bereikt
+
+### 3.17.6. gemiddeld laagste grondwaterstand
+
+### 3.18.1. bovengrens
+
+### 3.18.4. strooiselsoort
+
+### 3.18.5. organische stofgehalte
+
+### 3.19.1. diepte
+
+### 3.20. Bodemlaag
+
+### 3.20.2. ondergrens
+
+### 3.20.4. aantal laagcomponenten
+
+### 3.21.1. diepte
+
+### 3.21.2. pH
+
+### 3.22. Laagcomponent
+
+### 3.22.2. afzettingskarakteristiek
+
+### 3.23. Grondsoort
+
+### 3.23.1. standaard grondsoortnaam
+
+### 3.23.2. grondsoort volgens leemdriehoek
+
+### 3.28.11. kalkverloopklasse
+
+### 3.47.11. bijzonderheid materiaal
+
+### 3.47.12. bijzonderheid uitvoering
+
+### 3.48. Waterdoorlatendheidsverloop
+
+### 3.49. Waterdoorlatendheidstoestand
+
+### 3.49.1. bodemvochtpotentiaal
+
+### 3.49.2. waterdoorlatendheid
+
+### 3.49.3. volumetrisch watergehalte
+
+### 3.50. Bepaling waterretentie stapsgewijs
+
+### 3.50.2. bepalingsprocedure
+
+### 3.50.4. ringmonster gebruikt
+
+### 3.50.5. ringdiameter
+
+### 3.50.6. ringhoogte
+
+### 3.50.8. relatieve luchtvochtigheid
+
+### 3.50.9. vernattend
+
+### 3.50.11. droogtijd
+
+### 3.50.12. volumetrisch watergehalte bepaald
+
+### 3.50.14. zoutcorrectiemethode
+
+### 3.50.15. bijzonderheid materiaal
+
+### 3.52. Waterretentiewaarde
+
+### 3.52.3. massa watergehalte
+
+### 3.53. Bepaling watergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal
+
+### 3.53.2. bepalingsprocedure
+
+### 3.53.4. verticaal bemonsterd
+
+### 3.53.6. ringhoogte
+
+### 3.53.7. folie gebruikt
+
+### 3.53.8. temperatuur
+
+### 3.53.9. relatieve luchtvochtigheid
+
+### 3.53.10. droge bulkdichtheid
+
+### 3.53.11. bijzonderheid materiaal
+
+### 3.54. Overzicht tensiometergegevens
+
+### 3.54.1. aantal
+
+### 3.54.3. diameter
+
+### 3.54.5. diepte 2
+
+### 3.54.7. diepte 4
+
+### 3.56. Waterretentiewaarde verdamping
+
+### 3.56.1. verlopen tijd
+
+### 3.56.3. bodemvochtpotentiaal diepte 2
+
+### 3.56.4. bodemvochtpotentiaal diepte 3
+
+### 3.56.5. bodemvochtpotentiaal diepte 4
+
+### 3.56.6. volumetrisch watergehalte
+
+### 3.57. Watergehalte en doorlatendheid bij een veranderende bodemvochtpotentiaal
+
+### 3.58. Watergehalte en doorlatendheid bij bepaalde bodemvochtpotentiaal
+
+### 3.58.2. volumetrisch watergehalte
+
+### 3.58.3. waterdoorlatendheid
+
+### 3.59. Modellering van hydrofysische karakteristieken
+
+### 3.59.1. bepalingsID
+
+### 3.59.2. modelleringsprocedure
+
+### 3.60. Waterretentiekarakteristiek
+
+### 3.60.1. verzadigd volumetrisch watergehalte
+
+### 3.60.3. curve enkelvoudig
+
+### 3.61.1. vormfactor alfa
+
+### 3.61.3. vormfactor m
+
+### 3.62. Waterdoorlatendheidskarakteristiek
+
+### 3.62.1. gemodelleerde verzadigde waterdoorlatendheid
+
+### 3.62.2. curve enkelvoudig
+
+### 3.63. Vorm doorlatendheidscurve
+
+### 3.63.2. vormfactor n
+
+### 3.63.4. vormfactor lambda
+
+### 3.63.5. wegingsfactor
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.2. AfwijkendGrondwaterRegime
+
+### 1.3. Afzettingskarakteristiek
+
+### 1.4. Bepalingsmethode
+
+### 1.6. Beschrijflocatie
+
+### 1.7. Beschrijfmethode
+
+### 1.8. BijzonderheidMateriaal
+
+### 1.9. Bijzonderheid
+
+### 1.11. BijzonderheidBovenin
+
+### 1.12. BijzonderheidLocatie
+
+### 1.14. Bodemklasse
+
+### 1.15. BodemkundigeGrondsoortnaam
+
+### 1.17. Boortype
+
+### 1.18. Codegroep
+
+### 1.20. Dispersiemethode
+
+### 1.21. Droogtemperatuur
+
+### 1.23. FractieverdelingLab
+
+### 1.24. GebruiktMedium
+
+### 1.26. Grindgehalteklasse
+
+### 1.29. KaderInwinning
+
+### 1.30. Kalkklasse
+
+### 1.31. Kalkverloopklasse
+
+### 1.32. KlasseSchelpmateriaalgehalte
+
+De catalogus voor het bodemkundig booronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het booronderzoek dat vanuit het vakgebied van de bodemkunde is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit booronderzoek samen met de gedetailleerde uitwerking van de gegevens van de boormonsterbeschrijving en de boormonsteranalyse.
+
+Een**booronderzoek** is het geheel van gegevens dat betrekking heeft op een specifiek booronderzoek dat op een specifiek moment en op een specifieke locatie in Nederland is uitgevoerd en onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
+
+Booronderzoek in de basisregistratie ondergrond omvat onderzoek uit vijf verschillende vakgebieden. Naast bodemkunde zijn dat geotechniek, geologie, toegepaste geologie en cultuurtechniek. De catalogus voor het registratieobject komt in delen tot stand. Eerst wordt voor ieder vakgebied een catalogus gemaakt. Wanneer de vijf catalogi gereed zijn wordt een nieuwe catalogus gemaakt die alle vakgebieden omvat en waarin de ongewenste verschillen zijn weggenomen. Die catalogus geeft een samenhangende beschrijving van het registratieobject booronderzoek.
+
+Bodemkundig booronderzoek heeft tot doel de opbouw en de eigenschappen van het bovenste deel van de ondergrond te onderzoeken. Het perspectief van waaruit dat gebeurt is traditioneel dat van de landbouw, de landinrichting, het natuurbeheer of de winning van oppervlaktedelfstoffen. In de laatste jaren groeit de rol in studies over klimaatverandering en in onderzoek met een geotechnische invalshoek.
+
+Het onderzoek wordt uitgevoerd in het kader van projecten die zich richten op een bepaald gebied. Veel van het onderzoek wordt uitgevoerd in het kader van bodemkartering.
+
+Booronderzoek omvat vormen van onderzoek die ermee beginnen dat de ondergrond door boren wordt ontsloten. Wat onder boren moet worden verstaan is in de bodemkunde triviaal, het is het maken van een gat met behulp van een apparaat dat we een boor noemen. In bodemkundig onderzoek wordt de boor altijd met de hand de grond in gedreven.
+
+Bodemkundig booronderzoek omvat ten hoogste drie van de vier deelonderzoeken die in booronderzoek kunnen worden onderscheiden en dat zijn de **boormonsterbeschrijving**, de **boormonsterfotografie** en de **boormonsteranalyse**. Het vierde deelonderzoek, de **boorgatlogging,** het onderzoek waarin het boorgat wordt bemeten, wordt nooit uitgevoerd. Van de drie deelonderzoeken zijn de boormonsterbeschrijving en de boormonsteranalyse in deze versie van de catalogus opgenomen (figuur 6).
+
+Monsters kunnen in de bodemkunde vanuit een veelheid aan disciplines worden onderzocht, maar in de basisregistratie ondergrond beperkt het bereik zich tot het bodemhydrofysische en bodemchemische bepalingen.
+
+Deze versie van de catalogus dekt alleen de bodemhydrofysische bepalingen en enkele bepalingen van algemene aard. Chemische analyse wordt in een volgende versie van de catalogus meegenomen.
+
+In het bodemkundig booronderzoek heeft men de keuze uit drie bemonsteringsstrategieën. De standaard strategie is dat men monsters neemt uit het geboorde gat. Een boormonsterbeschrijving is zelfs altijd op die monsters gebaseerd. De monsters uit het geboorde gat zijn beperkt in omvang en in veel gevallen **geroerd** en dat wil zeggen dat de oorspronkelijke samenhang van de grond door het boren verloren is gegaan in de monsters. Wanneer er voor boormonsteranalyse meer monsters, grotere monsters of betere, dus ongeroerde, monsters nodig zijn, wordt er naast het geboorde gat een monsterkuil gegraven. Aan de hand van het boorprofiel dat het resultaat is van de boormonsterbeschrijving wordt bepaald tot hoe diep men graaft en welke intervallen in de kuil moeten worden bemonsterd.
+
+De derde bemonsteringsstrategie wordt met name in bodemchemisch onderzoek gevolgd. Die strategie wordt gekozen wanneer het onderzoek erom vraagt dat lokale verschillen in de samenstelling van de bodem worden weggefilterd. Daartoe plaatst men eerst de boring die het boorprofiel levert. Aan de hand van het boorprofiel bepaalt men welke intervallen in het gebied rond de boring moeten worden bemonsterd. De monsters worden genomen uit boringen die volgens een bepaald patroon rond de centrale boring worden gezet; van die boringen wordt geen boorprofiel gemaakt. De individuele monsters van een bepaald interval worden gemengd om een monster te verkrijgen dat voor gebied rond de centrale boring geldt.
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject booronderzoek valt wat het bodemkundig onderzoek betreft onder het INSPIRE-thema Soil, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt geïmplementeerd middels een mapping van het gegevensmodel van het Bodemkundig booronderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het booronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
+
+Booronderzoek begint eigenlijk altijd met activiteiten in het veld en die worden in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer booronderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd1De eisen die voor de gegevens van deze vorm van booronderzoek moeten gelden zijn nog niet vastgesteld..
+
+De **registratiegeschiedenis** van een booronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
+
+De bronhouder beslist of hij de resultaten van een booronderzoek in delen of in hun geheel gerapporteerd wil krijgen. Wanneer een rapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De rapportagegeschiedenis geeft de essentie van het verloop van de rapportage en vormt de zgn. materiële geschiedenis van het object booronderzoek
+
+De activiteiten in het veld houden altijd in dat er op een bepaalde datum een **boring** wordt gezet. Het is van belang te weten hoe er geboord is en met welke apparatuur, welk deel van de ondergrond is doorboord, en welk deel is verwijderd voordat met boren is begonnen.
+
+Voor of tijdens het boren kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het booronderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein.
+
+**Boormonsterbeschrijving** is het deelonderzoek dat betrekking heeft op beschrijven van de monsters met als doel een **boorprofiel** te maken en, omdat het om een bodemkundige beschrijving gaat, een **bodemclassificatie**. De beschrijving is gebaseerd op de **Handleiding bodemgeografisch onderzoek, richtlijnen en voorschriften** (1995), uitgegeven door DLO Staring Centrum, nu Wageningen Environmental Research.
+
+Het **boorprofiel** is het eerste resultaat van de boormonsterbeschrijving. Het beschrijft de laagopbouw van het doorboorde deel van de ondergrond en het eventueel daarop liggende strooisel. In figuur 7 is geschetst hoe het boorprofiel tot stand komt.
+
+Van iedere bodemlaag wordt de grondsoort en de horizontcode en meestal ook de verdeling van de verschillende korrelgroottefracties beschreven. Voor de **grondsoort** worden in de bodemkunde soms andere namen gebruikt dan in andere vakgebieden.
+
+De **bodemclassificatie** is het tweede resultaat van de boormonsterbeschrijving. Het is in essentie een samenvatting van de informatie die in het boorprofiel is vastgelegd. Het geeft specialisten direct inzicht in het type bodem ter plaatse.
+
+**Boormonsteranalyse** is het deelonderzoek dat betrekking heeft op het in een laboratorium analyseren van monsters. Het **soort analyse** geeft globaal aan welke bepalingen er zijn uitgevoerd. In (bodem)hydrofysisch onderzoek wordt ernaar gestreefd de reeks van bepalingen volledig uit te voeren om de resultaten in samenhang te verwerken en de focus ligt daarbij op het onderzoek van de fysische relatie tussen het water en de vaste bestanddelen van de bodem. Standaard omvat dit onderzoek de bepaling van basiseigenschappen (met name korrelgrootteverdeling en organischestofgehalte) en van de droge bulkdichtheid, de waterdoorlatendheid en de waterretentie.
+
+Bodemchemisch onderzoek kent een grote variatie doordat het volledig van de opdracht afhangt welke bepalingen er worden uitgevoerd. In deze versie van de catalogus zijn alleen de bepalingen van basiseigenschappen opgenomen en dat zijn, naast de korrelgrootteverdeling en het organische stofgehalte, de zuurgraad en het organische koolstofgehalte.
+
+De monsters die voor hydrofysisch onderzoek en onderzoek voor de Bodemkaart van Nederland worden geanalyseerd zijn altijd afkomstig uit het geboorde gat en de monsterkuil die vlak naast het boorgat is gegraven. Onderzoek dat op dergelijke monsters is gebaseerd, wordt **locatiespecifiek** onderzoek genoemd.
+
+Veel bodemchemisch onderzoek is niet-locatiespecifiek en dan worden monsters genomen uit boringen die volgens een bepaald patroon uit een bepaald gebied rond een centrale boring worden genomen. De individuele monsters worden gemengd om een representatief monster te verkrijgen dat voor een bepaald interval en het hele bemonsterde oppervlak (**onderzocht oppervlak**) geldt.
+
+De monsters die geanalyseerd zijn vertegenwoordigen een bepaald interval dat in het boorprofiel is gedefinieerd. In hydrofysisch onderzoek is het gebruikelijk in het veld een groot aantal monsters te nemen en die afzonderlijk te onderzoeken; voor de verschillende bepalingen gelden daarbij veelal specifieke eisen. Voor bodemchemisch onderzoek is het daarentegen gebruikelijk een groot monster te nemen; na voorbehandeling worden daaruit in het laboratorium kleinere monsters genomen.
+
+Wanneer het doel van de analyse het onderzoeken van een bepaalde horizont is, wordt de code van de horizont (**horizontcode**) vermeld. In bijzondere gevallen worden er binnen een deelonderzoek dat als geheel niet-locatiespecifiek is, toch bepaalde bepalingen gedaan die strikt zijn gebonden aan de locatie van de boring en de bijbehorende monsterkuil (**locatiespecifiek**).
+
+Aan een onderzocht interval worden altijd een of meer bepalingen gedaan. In de context van de basisregistratie ondergrond worden dat basisgegevens genoemd en dat zijn waarnemingen of metingen die door iedere vakbekwame persoon gedaan kunnen worden. Een bijzonderheid van het hydrofysisch onderzoek is dat er ook ruimte is het resultaat van modelleren vast te leggen (**karakteristiek gemodelleerd**). Het proces van modelleren is in hoge mate gestandaardiseerd.
+
+De zuurgraad (pH) wordt potentiometrisch bepaald van een mengsel van grond of strooisel met water waaraan een bepaalde reagent is toegevoegd. De zuurgraad is een basisgegeven dat altijd wordt bepaald in bodemchemisch onderzoek. Het is een van de kenmerken van het chemisch bodemmilieu en stelt bijvoorbeeld grenzen aan de beschikbaarheid van voor plantengroei essentiële voedingsstoffen.
+
+Voor de korrelgrootteverdeling wordt de samenstelling van het materiaal bepaald vanuit het perspectief dat grond een mengsel van minerale deeltjes van verschillende grootte is. De deeltjes worden korrels genoemd. Volgens een bepaalde methode, of combinatie van methoden, wordt het aandeel van de gekozen groottefracties in het totale mengsel van alle deeltjes kleiner dan 2 millimeter bepaald. Materiaal groter dan 2 millimeter wordt vooraf uitgezeefd en verder buiten beschouwing gelaten. Koolzure kalk en organische stof worden voorafgaand aan de bepaling verwijderd. Als voorbehandeling kan het nodig zijn samengeklonterde korreltjes van elkaar los te maken (dispersie). De opdracht en de aard van het materiaal bepalen welke methode is gebruikt en welke fracties zijn onderscheiden. De metingen worden altijd omgerekend naar een percentage van de totale massa tot 2 millimeter.
+
+In het verleden is een grote verscheidenheid aan fracties onderscheiden. Sinds het begin van de jaren 2010 bestaat de tendens de keuze te beperken, en vanaf 2020 is de keuze beperkt tot acht varianten. Het resultaat van een historische bepaling die zich niet voegt in de systematiek van de acht varianten wordt als **niet gestandaardiseerde korrelgrootteverdeling** vastgelegd. Bij een gestandaardiseerde korrelgrootteverdeling wordt altijd onderscheid gemaakt tussen de fractie 63 tot 2.000 µm, de fractie 50 tot 63 µm en de fractie kleiner dan 50 µm. De indelingen van de fractie 63 tot 2.000 µm en de fractie kleiner dan 50 µm kennen varianten en de meest toegepaste onderverdeling van een fractie wordt de standaard genoemd.
+
+Organisch materiaal speelt een hoofdrol in de goede werking en de vruchtbaarheid van de bodem. Het verbetert de structuur, bevordert de bewerkbaarheid en verhoogt het vermogen van de bodem om water vast te houden.
+
+Het gehalte aan organische stof wordt bepaald door het organisch materiaal op een bepaalde manier te verwijderen en het verlies aan massa te meten. Bij de berekening van het gehalte kan het nodig zijn te corrigeren voor het verlies van water dat aan klei is gebonden (**lutumcorrectie**) of aan ijzeroxiden (**vrij ijzercorrectie**).
+
+Het organischestofgehalte is een basisgegeven in het hydrofysisch onderzoek en bepaalde vormen van bodemchemisch onderzoek.
+
+Het gehalte aan organische koolstof wordt bepaald door het organisch materiaal volgens een bepaalde methode te oxideren. Het gehalte aan organische koolstof kan worden berekend door de hoeveelheid CO2 die vrijkomt te bepalen, door de vrijgekomen hoeveelheid van een ander reactieproduct te bepalen of door te bepalen hoeveel oxidant er verbruikt is.
+
+Het organische koolstofgehalte is een basisgegeven in de meeste vormen van bodemchemisch onderzoek.
+
+De droge bulkdichtheid is gedefinieerd als de droge massa in een bekend volume. In de huidige praktijk wordt uitgegaan van een waterverzadigd volume en daartoe wordt een monster eerst met water verzadigd voordat het volume wordt bepaald. De reden daarvoor is dat het volume van zwellende en krimpende grond afhangt van de vochttoestand tijdens bemonsteren.
+
+Het verloop van de krimp van grond wordt bepaald door een waterverzadigd monster in stappen droger te laten worden en de massa en het volume bij iedere stap te bepalen tot het helemaal droog is. De massa wordt altijd met een balans bepaald en voor het berekenen van het volume bestaan verschillende methoden.
+
+De waterdoorlatendheid van grond is de snelheid waarmee water erdoorheen stroomt. De waarde wordt in de bodemkunde bepaald door de hoeveelheid water te meten die per eenheid van tijd door een bepaalde oppervlakte stroomt bij een bekende gradiënt van de bodemvochtpotentiaal. De meting wordt uitgevoerd onder de conditie dat de doorstroomsnelheid niet of nauwelijks verandert.
+
+De waterdoorlatendheid is het grootst wanneer de grond verzadigd is met water (**verzadigde waterdoorlatendheid**) en neemt af wanneer de grond droger wordt (**onverzadigde****waterdoorlatendheid**). De waterdoorlatendheid wordt bepaald bij een bepaalde waarde van de bodemvochtpotentiaal. De bodemvochtpotentiaal is gelijk aan 0 wanneer de grond met water verzadigd is, en is negatief in onverzadigde grond. Aansluitend bij de praktijk van het laboratorium en de wijze waarop de meetopstelling is ingericht, wordt de bodemvochtpotentiaal uitgedrukt in centimeters waterkolom (drukhoogte). Het verloop van de doorlatendheid wordt in de huidige praktijk bepaald voor het bereik van 0 tot minus 1.000 cm waterkolom. De bepaling van een enkele waarde van de waterdoorlatendheid kan enige dagen tot enige weken in beslag nemen. In de meeste gevallen wordt de doorlatendheid bepaald aan verticaal gestoken monsters (**verticaal bemonsterd**). In sommige gevallen gebeurt dit ook aan horizontaal gestoken monsters en dan kan worden vastgesteld of er sprake is van anisotropie in de doorlatendheid.
+
+De resultaten van de bepaling worden tegenwoordig eigenlijk altijd gebruikt om bepaalde verbanden te modelleren. Het modelleren is een aparte activiteit in de monsteranalyse en de resultaten daarvan worden ook vastgelegd in de basisregistratie ondergrond. Omdat de uitvoerder op basis van de eigen expertise beoordeelt welke gegevens hij gebruikt als input voor het modelleren, wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**) zodat de resultaten van het modelleren teruggevoerd kunnen voeren op de metingen.
+
+Hoeveel water de grond kan vasthouden wordt bepaald door de aard en de structuur van het materiaal. De hoeveelheid water die de grond werkelijk vasthoudt varieert met de bodemvochtpotentiaal. Door de bodemvochtpotentiaal van een grondmonster in het laboratorium te veranderen, en de hoeveelheid water die het bevat bij iedere toestand te meten, bepaalt men de **waterretentie**. De bodemvochtpotentiaal wordt uitgedrukt als drukhoogte in de eenheid centimeters waterkolom.
+
+De bodemvochtpotentiaal kan in stappen worden veranderd, maar ook geleidelijk door verdamping van water uit het monster. De bepaling die op verdamping is gebaseerd staat op zichzelf en is de basis van wat de **bepaling van watergehalte en doorlatendheid bij veranderde bodemvochtpotentiaal** wordt genoemd.
+
+Bij een stapsgewijze bepaling weegt men het monster na het bereiken van een evenwichtssituatie met de ingestelde bodemvochtpotentiaal. Het watergehalte wordt berekend uit het massaverlies en wordt uitgedrukt in volumeprocenten (volumetrisch watergehalte) of in massaprocenten (massa watergehalte). Voor het laatste wordt alleen gekozen bij monsters waarvan de **droge bulkdichtheid** niet bekend is. Men heeft de keuze uit verschillende methoden. Bepaalde methoden leveren een kleine reeks van metingen, andere leveren een enkele meting per monster. De monsters die uit een interval onderzocht worden, zijn bijna altijd monsters die met een ring zijn uitgestoken(**ringmonster gebruikt**). De dimensies van de monsterring (**ringdiameter**, **ringhoogte**) worden dan vastgelegd omdat die bepalen hoe groot het volume grond is waaraan de bepaling is uitgevoerd.
+
+De resultaten van dit soort bepalingen worden ook altijd gebruikt om bepaalde verbanden te modelleren en daarom wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**).
+
+De **bepaling van het watergehalte en de doorlatendheid bij een veranderende bodemvochtpotentiaal** is een bepaling die een aantal stappen kent. Als eerste stap wordt de waterretentie bepaald bij een bodemvochtpotentiaal die door verdamping geleidelijk verandert. Bij deze verdampingsmethode laat de uitvoerder het water in een bij aanvang verzadigd monster geleidelijk verdampen en wordt het massaverlies frequent gemeten. De bodemvochtpotentiaal wordt tegelijkertijd op verschillende posities in het monster gemeten (drukhoogte h in centimeters waterkolom). Het massa watergehalte wordt aan het einde bepaald en dat wordt met de **droge bulkdichtheid** omgerekend naar het volumetrisch watergehalte. Op basis van de geregistreerde gewichtsafnamen kan vervolgens het watergehalte voor alle meettijdstippen worden berekend. De bepaling levert een te groot aantal metingen voor verdere verwerking en de uitvoerder selecteert volgens een vast protocol een deelverzameling van metingen die als eerste resultaat worden vastgelegd (**Waterretentie verdamping**). De gegevens over de gebruikte tensiometers (aantal, lengte, diameter, meetpositie in het monster) worden daarbij ook vastgelegd (**Overzicht tensiometergegevens**).
+
+In de resultaat van de verdampingsmethode wordt voor ieder tijdstip het volumetrisch watergehalte van het hele monster gegeven bij de bodemvochtpotentiaal op de meetpunten in het monster. In een volgende stap wordt het volumetrisch watergehalte op de meetpunten zelf bepaald. Die stap wordt de prefit genoemd en daarin maakt met gebruik van het model van Van Genuchten om de curve te definiëren die het verband tussen de bodemvochtpotentiaal en het volumetrisch watergehalte op de meetpunten het best beschrijft. Het resultaat van deze stap wordt niet als zodanig vastgelegd, het wordt gebruikt om de doorlatendheden te berekenen op de grensvlakken die precies tussen ieder paar opeenvolgende meetpunten inliggen. Voor de berekening wordt in de huidige praktijk de zgn. IPM-methode (Instantaneous Profile-methode) gevolgd. Daarmee wordt volgens de wet van Darcy het verband tussen de bodemvochtpotentiaal en de waterdoorlatendheid berekend voor elk paar opeenvolgende tensiometers. Het eindresultaat van de bepaling is een tabel met voor iedere gemeten bodemvochtpotentiaal de berekende waarden voor het watergehalte en de waterdoorlatendheid en die wordt vastgelegd (**W****atergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal**).
+
+De resultaten van dit soort bepalingen worden ook altijd gebruikt om bepaalde verbanden te modelleren en daarom wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**).
+
+De gegevens uit de bepalingen van de waterretentie stapsgewijs, van het watergehalte en de doorlatendheid bij veranderende bodemvochtpotentiaal, en van de waterdoorlatendheid worden gebruikt om hydrofysische karakteristieken te modelleren. Daarvan bestaan twee typen: de waterretentiekarakteristiek en de waterdoorlatendheidskarakteristiek.
+
+De uitvoerder heeft de keuze of alleen de waterretentiekarakteristiek te modelleren of de waterretentiekarakteristiek samen met de waterdoorlatendheidskarakteristiek. Die tweede mogelijkheid bestaat overigens alleen wanneer het watergehalte en de doorlatendheid bij veranderende bodemvochtpotentiaal bepaald zijn.
+
+De twee karakteristieken worden onder meer gebruikt als input voor modellen waarmee de waterbeweging in de bodem wordt gesimuleerd.
+
+## Bijlage IV. behorend bij [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+Datum 25 maart 2020
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Registratieobject
+
+### 3. Entiteiten en attributen
+
+### 3.1. Booronderzoek
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.6. kader aanlevering
+
+### 3.1.8. vakgebied
+
+### 3.1.10. kaderstellende procedure
+
+### 3.1.11. terreintoestand bepaald
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.3. Rapportagegeschiedenis
+
+### 3.3.1. startdatum rapportage
+
+### 3.3.2. einddatum rapportage
+
+### 3.4. Tussentijdse gebeurtenis
+
+### 3.4.1. naam gebeurtenis
+
+### 3.4.2. datum gebeurtenis
+
+### 3.5.1. coördinaten
+
+### 3.5.3. datum locatiebepaling
+
+### 3.5.5. uitvoerder locatiebepaling
+
+### 3.6. Aangeleverde verticale positie
+
+### 3.6.1. lokaal verticaal referentiepunt
+
+### 3.6.2. verschuiving
+
+### 3.6.4. verticaal referentievlak
+
+### 3.6.7. uitvoerder verticale positiebepaling
+
+### 3.7. Gestandaardiseerde locatie
+
+### 3.7.1. coördinaten
+
+### 3.9.16. bemonsteringsprocedure
+
+### 3.9.17. einddiepte bemonstering
+
+### 3.9.18. ondergrond verontreinigd
+
+### 3.9.19. gat afgewerkt
+
+### 3.9.20. uitvoerder boring
+
+### 3.10. Weggegraven laag
+
+### 3.10.1. bovengrens
+
+### 3.10.2. ondergrens
+
+### 3.10.3. weggegraven materiaal
+
+### 3.11. Geboord interval
+
+### 3.11.1. begindiepte
+
+### 3.11.2. einddiepte
+
+### 3.11.3. boortechniek
+
+### 3.11.4. geboorde diameter
+
+### 3.12. Bemonsterd interval
+
+### 3.12.1. begindiepte
+
+### 3.12.2. einddiepte
+
+### 3.12.3. voorbehandeling
+
+### 3.12.6. georienteerd gestoken
+
+### 3.13.1. apparaattype
+
+### 3.13.2. containerdiameter
+
+### 3.13.3. containerlengte
+
+### 3.13.4. doorgangsdiameter
+
+### 3.13.6. haakse steekmond
+
+### 3.13.7. steekmondapex
+
+### 3.13.8. steekmonddiameter
+
+### 3.13.11. voorzien van zuiger
+
+### 3.14.1. begindiepte
+
+### 3.15. Afgewerkt interval
+
+### 3.15.1. begindiepte
+
+### 3.15.2. einddiepte
+
+### 3.15.3. permanente verbuizing aanwezig
+
+### 3.15.4. diameter permanente verbuizing
+
+### 3.15.5. materiaal permanente verbuizing
+
+### 3.15.6. aanvulmateriaal
+
+### 3.15.7. aanvulmateriaal gewassen
+
+### 3.16. Sliblaag
+
+### 3.16.2. kleur
+
+### 3.16.4. methode positiebepaling onderkant
+
+### 3.17.2. beschrijfprocedure
+
+### 3.17.3. hulpmiddel
+
+### 3.17.4. uitvoerder beschrijving
+
+### 3.18. Boorprofiel
+
+### 3.18.1. beschrijfkwaliteit
+
+### 3.22.2. laagdikteklasse
+
+### 3.23. Grond
+
+### 3.23.1. geologische grondsoort
+
+### 3.23.3. grindgehalteklasse
+
+### 3.23.4. glimmergehalteklasse
+
+### 3.23.5. organischestofgehalteklasse
+
+### 3.23.7. schelpmateriaalgehalteklasse
+
+### 3.23.9. glauconietgehalteklasse
+
+### 3.23.10. kalkgehalteklasse
+
+### 3.23.12. gevlekt
+
+### 3.23.14. consistentie organische grond
+
+### 3.23.15. sedimentair fenomeen
+
+### 3.24. Bijzonder bestanddeel
+
+### 3.24.2. percentageklasse
+
+### 3.25. Afwijkend laagje
+
+### 3.25.1. soort grond
+
+### 3.25.3. laagaandeel
+
+### 3.25.4. laagdikteklasse
+
+### 3.25.5. kleur
+
+### 3.26. Brokje
+
+### 3.26.1. soort grond
+
+### 3.26.2. lengteklasse
+
+### 3.26.3. percentageklasse
+
+### 3.27. Grindfractie
+
+### 3.42.3. geschat volumeaandeel lutum
+
+### 1.8. BeschrevenMateriaal
+
+### 1.9. Beschrijfkwaliteit
+
+### 1.10. Beschrijflocatie
+
+### 1.12. BijzonderMateriaal
+
+### 1.13. Bodemgebruik
+
+### 1.15. Boorprocedure
+
+### 1.16. Boortechniek
+
+### 1.18. ConsistentieFijneGrond
+
+### 1.19. ConsistentieOrganischeGrond
+
+### 1.20. Coördinaattransformatie
+
+### 1.21. GenetischeTypering
+
+### 1.22. GeologischeGrondsoort
+
+### 1.24. Glimmergehalteklasse
+
+### 1.25. Grensbepaling
+
+### 1.27. Grindherkomst
+
+### 1.29. Hoekigheid
+
+### 1.30. Horizontcode
+
+### 1.31. Hulpmiddel
+
+### 1.32. HydrologischeOmstandigheid
+
+### 1.34. KaderInwinning
+
+### 1.35. KaderstellendeProcedure
+
+### 1.37. Kleur
+
+### 1.39. Laagdikteklasse
+
+### 1.40. Landschapselement
+
+### 1.42. LiggingOpGrondlichaam
+
+### 1.43. LokaalVerticaalReferentiepunt
+
+### 1.45. MateVerwering
+
+### 1.48. MethodePositiebepalingSliblaag
+
+### 1.49. MethodeVerticalePositiebepaling
+
+### 1.50. Monstervochtigheid
+
+### 1.52. MunsellWitheid
+
+### 1.54. NaamGebeurtenis
+
+### 1.56. OrganischestofgehalteklasseNEN5104
+
+### 1.57. RedenNietBeschreven
+
+### 1.58. Referentiestelsel
+
+### 1.59. Registratiestatus
+
+### 1.60. SedimentairFenomeen
+
+De catalogus voor het geologisch booronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het booronderzoek dat vanuit het vakgebied van de geologie is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit booronderzoek samen met de gedetailleerde uitwerking van de gegevens van de boormonsterbeschrijving en kent een aantal beperkingen. De boormonsterbeschrijving omvat alleen de gegevens die onder de standaard boorbeschrijvingsmethode die binnen de Geologische Dienst Nederland wordt gebruikt worden vastgelegd en de beschrijving van gesteente is nog niet opgenomen. Verder beperkt deze versie zich tot onderzoek dat onder kwaliteitsregime IMBRO valt. De eisen voor IMBRO/A, het kwaliteitsregime dat met name bedoeld is voor historische gegevens, worden in een volgende versie opgenomen.
+
+Een booronderzoek is in de basisregistratie ondergrond het geheel van gegevens dat betrekking heeft op een specifiek booronderzoek dat op een specifiek moment en op een specifieke locatie in Nederland en onder een bepaalde opdracht is uitgevoerd. Booronderzoek levert een grote verscheidenheid aan gegevens en dat vraagt om ordening van de informatie. Het belangrijkste gegeven om het onderzoek in te delen is het vakgebied. Voor de gegevens die onder de basisregistratie ondergrond vallen, wordt een indeling in vijf vakgebieden gehanteerd. Naast geologie zijn dat toegepaste geologie, bodemkunde, cultuurtechniek en geotechniek. De catalogus voor het registratieobject komt in delen tot stand. Eerst wordt voor ieder vakgebied een catalogus gemaakt. Wanneer de vijf catalogi gereed zijn wordt een nieuwe catalogus gemaakt die alle vakgebieden omvat en waarin de ongewenste verschillen zijn weggenomen. Die catalogus geeft een samenhangende beschrijving van het registratieobject booronderzoek.
+
+De indeling van het booronderzoek naar vakgebied is bedoeld om categorieën van gegevens te onderscheiden zodat per categorie een catalogus kan worden gemaakt. Het ene vakgebied is breder dan het andere. De categorie die met geologisch booronderzoek wordt aangeduid is betrekkelijk smal. Het onderzoek heeft een specialistisch karakter en dekt met name de gegevens die ingewonnen worden met als doel ze te gebruiken voor het maken en verbeteren van modellen die de opbouw van de ondergrond in termen van hydrogeologische en geologische eenheden beschrijven. Dat is het typisch geologisch booronderzoek. In de praktijk wordt onderzoek dat voor andere doelen wordt uitgevoerd ook tot het geologisch booronderzoek gerekend als het qua methodiek en gegevensinhoud met dit type overeenkomt.
+
+Het specialistische karakter van het onderzoek komt onder meer naar voren in de eigen manier van het beschrijven van boormonsters. Die beschrijving is erop gericht gegevens vast te leggen die het mogelijk maken natuurlijke eenheden te identificeren. Daartoe wordt de samenstelling van het materiaal in detail vastgelegd en er wordt bijvoorbeeld gelet op allerlei aspecten die informatie in zich dragen over de omstandigheden waaronder het materiaal is gevormd en over de herkomst en de ouderdom ervan. Dat soort gegevens is nodig voor het maken van interpretaties die weer gebruikt worden voor het maken van de modellen. De interpretaties en de modellen vallen in de systematiek van de basisregistratie niet onder het booronderzoek. Modellen vormen een apart registratiedomein en alleen bepaalde landelijke modellen worden in de basisregistratie opgenomen. De modellen waarvoor de gegevens worden ingewonnen hebben een definiërend karakter en leveren de kaders voor praktisch alle vormen van onderzoek aan de ondergrond, waaronder booronderzoek vanuit andere vakgebieden.
+
+Geologisch booronderzoek wordt zowel op land als op zee uitgevoerd en kan tot duizenden meters diepte onder maaiveld of waterbodem reiken. Op grote diepte bestaat de ondergrond niet langer uit grond maar uit gesteente. Geologisch onderzoek richt zich vooral op de natuurlijke ondergrond, maar ook de grondlichamen die door de mens zijn neergelegd worden in het onderzoek meegenomen.
+
+De indeling naar vakgebied heeft haar beperkingen. In de werkelijkheid komt het voor dat booronderzoek een multidisciplinair karakter heeft en vanuit een combinatie van vakgebieden wordt uitgevoerd. Wanneer het om multidisciplinair onderzoek gaat dat een combinatie is van vakgebieden die onder de reikwijdte van de basisregistratie vallen, zullen de bijzondere eisen die ervoor gelden worden vastgelegd in de catalogus die voor het booronderzoek in zijn geheel gaat gelden. Archeologisch en milieukundig booronderzoek vallen echter buiten het bereik van de basisregistratie ondergrond. Wanneer geologisch onderzoek wordt gecombineerd met archeologisch of milieukundig onderzoek wordt alleen het geologische deel van het onderzoek in de basisregistratie ondergrond opgenomen. In zo’n geval wordt wel gepreciseerd dat slechts een deel van de resultaten is geregistreerd.
+
+Booronderzoek omvat vormen van onderzoek die ermee beginnen dat de ondergrond door boren wordt ontsloten. Wat onder boren moet worden verstaan is in verreweg de meeste gevallen triviaal, het is het maken van een gat met behulp van een apparaat dat we een boor noemen. In de definities wordt duidelijk dat er ook andere manieren zijn om een gat in de ondergrond te maken en die worden gemakshalve toch tot het boren gerekend. Er worden echter ook gaten in de ondergrond gemaakt met afwijkende methoden die buiten het bereik van deze catalogus vallen. Dat zijn allemaal methoden die op water worden gebruikt en die tot doel hebben een hap uit de waterbodem te nemen. Apparaten die daarvoor gebruikt worden zijn bijvoorbeeld de boxcorer en de Van Veen-bodemhapper. Onderzoek dat gebaseerd is op dergelijke technieken valt helemaal buiten het bereik van de basisregistratie ondergrond en de reden daarvoor is dat de resultaten een zeer geringe waarde voor hergebruik hebben, omdat de diepte van het bemonsterde interval niet goed bepaald is en de waterbodem binnen korte tijd kan veranderen.
+
+De gegevens over de opbouw en de eigenschappen van de ondergrond die uit booronderzoek voortkomen, zijn gebaseerd op monsters die uit de ondergrond genomen zijn. Voor het hergebruik van de gegevens is het van belang te weten in welke mate de monsters waarop de waarnemingen en metingen zijn gebaseerd representatief geacht kunnen worden voor de situatie in-situ. Anders gezegd, voor hergebruik is het van belang de kwaliteit van de monsters vast te leggen.
+
+De kwaliteit van de monsters is van een groot aantal factoren afhankelijk: hoe er geboord is, hoe de monsters genomen zijn, met wat voor apparaat, hoe de monsters boven de grond zijn behandeld, getransporteerd en opgeslagen. De gegevens over het boren, bemonsteren en de relevante specificaties van het apparaat zijn in deze catalogus opgenomen. Die gegevens bepalen het maximaal te bereiken kwaliteitsniveau. Om die kwaliteit in het verdere proces te kunnen behouden, zijn binnen het werkveld van de geotechniek procedures opgesteld en die worden ook in het geologisch werkveld gevolgd. Monsters worden ingedeeld in 5 klassen op basis van de NEN-EN-ISO 22475 en voor iedere klasse is vastgelegd hoe de monsters behandeld moeten worden vanaf het moment dat ze boven de grond zijn gekomen. De classificatie geeft aan in welke mate de oorspronkelijke toestand van de grond bewaard is gebleven. **Geroerde** monsters, dat wil zeggen monsters waarin de oorspronkelijke samenhang van de grond al door het boren verloren is gegaan, vormen één klasse. De andere klassen hebben betrekking op **ongeroerde** monsters, monsters waarin de oorspronkelijke samenhang van de grond in enige mate bewaard is gebleven. In hoeverre de kwaliteit op het moment dat de monsters worden beschreven of geanalyseerd afwijkt van de initiële kwaliteit, wordt vastgelegd als onderdeel van het onderzoek.
+
+Geologisch booronderzoek omvat gewoonlijk drie van de vier deelonderzoeken die in booronderzoek kunnen worden onderscheiden en dat zijn de **boormonsterbeschrijving**, de **boormonsterfotografie** en, de **boormonsteranalyse**. Het vierde deelonderzoek, de **boorgatlogging,** het onderzoek waarin het boorgat wordt bemeten, wordt niet zo vaak uitgevoerd. Van de vier deelonderzoeken is er een in deze versie van de catalogus opgenomen, de boormonsterbeschrijving (figuur 1).
+
+In de boormonsterbeschrijving wordt het materiaal dat uit de ondergrond naar boven is gehaald, beschreven op een manier die inzicht geeft in de opbouw van de ondergrond en de globale eigenschappen ervan. De boormonsterbeschrijving is het deelonderzoek dat traditioneel de grondslag levert voor (hydro)geologische modellen.
+
+Voor 2017 hadden boormonsterbeschrijvingen in de geologie, de toegepaste geologie en de geotechniek een gemeenschappelijke grondslag en dat was de NEN 5104. Voor de geotechniek is internationaal inmiddels een nieuwe norm van kracht geworden en in 2019 is daarvan een Nederlandse invulling gemaakt (NEN-EN-ISO 14688). De nieuwe norm is op een andere leest geschoeid dan de oude. In de beschrijving van grond onder NEN 5104 staat de samenstelling van grond centraal en in de beschrijving onder NEN-EN-ISO 14688 het gedrag van grond. Dit verschil in benadering maakt de beschrijvingen minder geschikt voor de geologen die de landelijke (hydro)geologische modellen maken. Voor dat doel moet juist de samenstelling van de grond centraal staan in de beschrijving. De Geologische Dienst Nederland die de landelijke modellen maakt, blijft zich daarom baseren op een eigen, op de NEN 5104 gebaseerde, methode: de Standaard Boor Beschrijvingsmethode (SBB).
+
+Met het van kracht worden van de nieuwe norm zijn de al bestaande verschillen tussen geologisch en geotechnisch booronderzoek groter geworden. Dat kan ook gaan gelden voor het verschil tussen geologisch en toegepast geologisch onderzoek. Hoewel nog niet vaststaat welke methode in het toegepast geologisch booronderzoek gevolgd gaat worden, is de verwachting dat die eerder zal aansluiten op de NEN-EN-ISO 14688 dan op de SBB.
+
+De SBB kent verschillende kwaliteitsniveaus en die staan voor verschillen in expertiseniveau en monsterkwaliteit. Het expertiseniveau van de beschrijver bepaalt tot in welk detail de grond wordt beschreven en de kwaliteit van de monsters bepaalt welke aspecten worden beschreven. Van geroerde monsters worden met name de samenstelling en de kleur van de grond beschreven. De beschrijving van ongeroerde monsters is gericht op het herkennen van de lagen waaruit de ondergrond is opgebouwd. Van een laag worden allerlei aspecten vastgelegd die inzicht geven in de omstandigheden waaronder de laag is gevormd.
+
+Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het booronderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft de entiteit informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
+
+Booronderzoek begint eigenlijk altijd met activiteiten in het veld en die worden in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer booronderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd2De eisen die voor de gegevens van deze vorm van booronderzoek moeten gelden zijn nog niet vastgesteld..
+
+De **registratiegeschiedenis** van een booronderzoek geeft de essentie van de geschiedenis van het object in de registratie ondergrond, de zgn. **formele geschiedenis**. De registratiegeschiedenis vertelt bijvoorbeeld wanneer voor het eerst gegevens van het object zijn geregistreerd en of er na registratie correcties zijn doorgevoerd.
+
+De bronhouder beslist of hij de resultaten van een booronderzoek in delen of in hun geheel gerapporteerd wil krijgen. Wanneer een rapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het object booronderzoek.
+
+De kernactiviteit in het veld is het maken van het gat, de **boring**. Voor het onderzoek is het van het grootste belang de gegevens vast te leggen die van invloed zijn op de uiteindelijke resultaten van het onderzoek. Daarnaast betekent boren dat men de toestand van de ondergrond verandert. Om de gevolgen van die ingreep later te kunnen beoordelen is het van belang te weten hoe men de ondergrond heeft achtergelaten.
+
+Aan het maken van een boorgat kunnen voorbereidende werkzaamheden zijn voorafgegaan. Het weggraven van materiaal is een bijzondere vorm van voorbereiding omdat daaruit ook gegevens over de opbouw van de ondergrond kunnen voortkomen. Wanneer het weggegraven materiaal globaal is beschreven wordt dat apart vastgelegd (**Weggegraven laag**) en niet als onderdeel van het deelonderzoek **Boormonsterbeschrijving**.
+
+Bij het boren gebruikt men een bepaalde techniek om het apparaat dat men gekozen heeft de grond in te drijven. Bij onderzoek dat zich tot geringe diepte beperkt boort men vaak met de hand, voor ander onderzoek gebeurt dat veelal mechanisch. Tijdens het boren kan men herhaaldelijk van techniek wisselen, en voor een goed begrip van de onderzoeksresultaten is het van belang te weten welk deel van de ondergrond met welke techniek is doorboord (**Geboord interval**).
+
+Het doel van het boren is dat er monsters uit de ondergrond worden gehaald. Dat kan op allerlei manieren gebeuren en tijdens het boren kan men herhaaldelijk van manier wisselen (**Bemonsterd interval**).
+
+Tijdens het boren kan men constateren dat er in bepaalde intervallen sporen van verontreiniging voorkomen (**Verontreinigd interval**) en dat wordt dan vastgelegd om latere gebruikers te kunnen informeren.
+
+Wanneer men ten slotte klaar is met boren kan het ontstane gat op een bepaalde manier worden afgewerkt. Dat kan weer per diepte-interval verschillen (**Afgewerkt interval**).
+
+In het geval men monsters gestoken of gekernd heeft worden ook specificaties vastgelegd van het apparaat dat daarvoor gebruikt is. In figuur 2 en figuur 3 wordt geïllustreerd wat de belangrijkste kenmerken zijn.
+
+Voor, tijdens of direct na het boren kunnen in het veld waarnemingen worden gedaan die deel uitmaken van het booronderzoek. Die waarnemingen hebben betrekking op de toestand van het terrein. Dat begrip wordt in nogal ruime zin opgevat en dekt alle gegevens die vastgelegd worden om een goed begrip te krijgen van de ruimtelijke context waarbinnen het onderzoek is uitgevoerd.
+
+Bij boren op water kan er op de waterbodem een laag slib blijken te liggen. Wanneer dat voor het onderzoek relevant geacht is, worden enkele kenmerken daarvan vastgelegd.
+
+**Boormonsterbeschrijving** is het deelonderzoek dat betrekking heeft op het beschrijven van de monsters met als doel een of meer **boorprofielen** te maken. Een boormonsterbeschrijving onder SBB 2020 resulteert in maximaal twee boorprofielen.
+
+Een **boorprofiel** is het resultaat van de boormonsterbeschrijving en beschrijft de laagopbouw van het deel van de ondergrond dat bemonsterd is.
+
+Een boorprofiel heeft een bepaalde beschrijfkwaliteit en dat wil zeggen dat de kwaliteit van de monsters waarop de beschrijving gebaseerd is en de mate van detail in de beschrijving over het hele profiel vergelijkbaar zijn. Een geval waarin een boormonsterbeschrijving twee boorprofielen oplevert is wanneer op een bepaalde plaats een boring is gezet die op twee manieren bemonsterd is (figuur 4).
+
+Over het hele boortraject zijn monsters met een relatief lage kwaliteit, **geroerde** monsters, genomen. Daarnaast zijn van bepaalde dieptes monsters met een hoge kwaliteit, **ongeroerd**e monsters, verkregen. Het verschil in kwaliteit is zo groot dat de monsters apart beschreven moeten worden. In het eerste geval ontstaat een continu profiel, in het tweede een discontinu profiel.
+
+Het uitgangspunt is dat het boorprofiel alle met een bepaalde kwaliteit bemonsterde intervallen dekt en dat de bemonsterde intervallen compleet zijn beschreven. Het kan echter zijn dat dit niet gelukt is, bijvoorbeeld omdat er per ongeluk een monster verdwenen is. De intervallen die niet beschreven konden worden, worden expliciet in het profiel opgenomen (**Niet-beschreven interval**) en de reden waarom het niet beschreven is wordt vastgelegd.
+
+De belangrijkste entiteiten in een boorprofiel zijn de lagen. Een laag bestaat uit grond of uit bijzonder materiaal (of uit gesteente, maar dat valt nog buiten het bereik van de catalogus). Een laag die uit bijzonder materiaal bestaat wordt summier beschreven, een laag die uit grond bestaat wordt uitvoerig beschreven. Een laag heeft een boven- en ondergrens en is van natuurlijke of menselijke (**antropogeen**) oorsprong.
+
+Wat een laag in een geologisch boorprofiel voorstelt, hangt echter af van de kwaliteit van de monsters.
+
+In een boorprofiel dat betrekking heeft op geroerde monsters, is de laag een bemonsteringseenheid en vertegenwoordigt iedere laag een monster. Zo’n laag wordt beschreven als een lithologisch homogeen geheel en heeft een soort grond (**Grond**).
+
+In een boorprofiel dat betrekking heeft op ongeroerde monsters, is de laag idealiter een geheel dat onder bepaalde omstandigheden is gevormd, een genetische eenheid. De ideale situatie doet zich alleen voor wanneer er sprake is van een continu profiel waarin alle grenzen zichtbaar zijn. Wanneer dat niet het geval is, zoals verbeeld in figuur 4, is een deel van de grenzen door de bemonstering bepaald.
+
+Lagen die genetische eenheden zijn, bestaan op allerlei schalen, maar in de beschrijfpraktijk ligt de dikte vaak in het bereik van een decimeter tot een meter. De minimale dikte is voor de beschrijving vastgesteld op 2 millimeter; een maximale dikte is niet vastgelegd.
+
+Een laag die een genetische eenheid is, kan in andere aspecten dan de samenstelling van de grond van aangrenzende lagen verschillen en hoeft in lithologisch opzicht geen homogeen geheel te zijn. Er zijn verschillende mogelijkheden om een dergelijke laag te beschrijven.
+
+In het meest voorkomende geval (figuur 5a) is de laag een lithologisch homogeen geheel of kan de laag als zodanig worden beschreven. Zo’n laag kan structuurloos zijn of een bepaalde structuur hebben en bestaat uit een soort grond die in detail wordt beschreven. In een dergelijke laag kunnen een of enkele laagjes voorkomen die uit een afwijkende grondsoort bestaan, maar die worden alleen globaal beschreven.
+
+In het tweede geval (figuur 5b), dat overigens niet zo vaak voorkomt, is de laag een regelmatige afwisseling van dunne laagjes die uit verschillende soorten grond bestaan. Een dergelijke laag heet **inhomogeen gelaagd** en de grond wordt per type laagje (**Laagje**) in detail beschreven.
+
+In het derde, zeer sporadisch voorkomende geval (figuur 5c) bestaat de laag uit verschillende soorten grond die grillige lichamen vormen. De structuur van een dergelijke laag wordt omschreven als **onregelmatig vervormd**en de grond wordt per deel (**Laagdeel**) in detail beschreven.
+
+Onder SBB 2020 wordt van grond altijd de grondsoort, de kleur, de hoeveelheid glauconiet en het al dan niet voorkomen van sporen van beworteling vastgelegd. Om de gegevens beter bruikbaar te maken voor de geotechniek wordt naast de geologische naam van de grondsoort, ook de geotechnische naam volgens NEN-EN-ISO 14688 vastgelegd.
+
+Wanneer de grond bestanddelen bevat die niet als een normaal onderdeel van grond gelden, wordt het voorkomen ervan beschreven (**Bijzonder bestanddeel**) en hetzelfde geldt voor brokjes van een andere grondsoort (**Brokje**). Welke kenmerken er verder worden vastgelegd hangt af van de grondsoort en de beschrijfkwaliteit.
+
+Het deel van de grond dat uit grind (minerale korrels die in grootte variëren van 2 tot 63 mm) bestaat wordt apart beschreven. Het gaat daarbij onder meer om de vorm (**hoekigheid**, **sfericiteit**), de kleur (**bontheid**) en de grootte van de korrels (bijv. **grindmediaanklasse**). Specialisten benoemen ook nog de herkomst van het grind en het soort minerale korrels (**Grindbestanddeel**).
+
+Het deel van de grond dat uit zand (minerale korrels die in grootte variëren van 0,063 tot 2 mm) bestaat wordt apart beschreven. Het gaat daarbij onder meer om de vorm (**hoekigheid**), de kleur (**bontheid**) en de grootte van de korrels (bijv. **zandmediaanklasse**). Specialisten benoemen ook nog de verdeling van de korrels naar kleur (**Zandbestanddeel**).
+
+Het deel van de grond dat uit schelpmateriaal bestaat wordt apart beschreven. In alle gevallen worden de relatieve hoeveelheden gruis, fragmenten en hele schelpen bepaald en wordt het voorkomen van een aantal kenmerkende schelpensoorten vastgelegd (**Schelpenbestanddeel**). Van ongeroerde monsters wordt ook het voorkomen van schelpdoubletten beschreven. Andere kenmerken worden alleen door beschrijvers met bijzondere expertise beschreven
+
+Het deel van de grond dat uit veen bestaat wordt wanneer het om ongeroerde monsters gaat, apart beschreven. Standaard wordt alleen het soort veen benoemd (**soort veen**), maar specialisten benoemen ook het voorkomen van verschillende soorten plantenresten (**Veenbestanddeel**).
+
+Bij de beschrijving van grond van ongeroerde monsters wordt niet alleen op het voorkomen van brokjes van andere grondsoorten gelet. Andere grondsoorten kunnen ook voorkomen in de vorm van laagjes (**Afwijkend laagje**), als lenzen die sedimentair van oorsprong zijn (**Sedimentlens**) of als grillig verlopende lichamen die door de verstoring van dunne laagjes zijn ontstaan (**Insluitsel**).
+
+Wanneer de grond gevlekt is wordt het voorkomen van de vlekken beschreven (**Vlek**).
+
+### 2.17. Munsellkleur en dierlijk fossiel
+
+### 2.18. Fractieverdeling
+
+## Bijlage V. behorend bij [artikel 11, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+25 maart 2020
+
+### 1. Registratieobject
+
+### 2. Het domeinmodel
+
+### 3.1. Booronderzoek
+
+### 3.1.2. bronhouder
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. kader aanlevering
+
+### 3.1.8. vakgebied
+
+### 3.1.10. kaderstellende procedure
+
+### 3.1.12. uitvoerder onderzoek
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.2. registratiestatus
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3.2. einddatum rapportage
+
+### 3.4.1. naam gebeurtenis
+
+### 3.4.2. datum gebeurtenis
+
+### 3.5. Aangeleverde locatie
+
+### 3.5.2. referentiestelsel
+
+### 3.5.3. datum locatiebepaling
+
+### 3.5.4. methode locatiebepaling
+
+### 3.6.1. lokaal verticaal referentiepunt
+
+### 3.6.3. waterdiepte
+
+### 3.6.5. datum verticale positiebepaling
+
+### 3.6.7. uitvoerder verticale positiebepaling
+
+### 3.7.1. coördinaten
+
+### 3.7.3. coördinaattransformatie
+
+### 3.8. Terreintoestand
+
+### 3.8.1. bodemgebruik
+
+### 3.8.3. tijdelijke verandering
+
+### 3.9.1. startdatum boring
+
+### 3.9.2. einddatum boring
+
+### 3.9.3. voorbereiding
+
+### 3.9.4. einddiepte voorbereiding
+
+### 3.9.5. traject weggegraven
+
+### 3.11.2. einddiepte
+
+### 3.24.4. kleur
+
+### 3.24.5. gelaagde inhomogeniteit
+
+### 3.24.6. disperse inhomogeniteit
+
+### 3.24.7. kalkgehalteklasse
+
+### 3.24.8. scheve gradering
+
+### 3.24.10. holtes aanwezig
+
+### 3.24.11. holteverdeling
+
+### 3.24.12. stabiliteit
+
+### 3.24.13. sterkteklasse
+
+### 3.25.1. verkleuring
+
+### 3.25.2. desintegratie
+
+### 3.26. Niet beschreven interval
+
+### 3.26.2. einddiepte
+
+### 3.26.3. reden niet beschreven
+
+### 3.27. Post-sedimentaire discontinuïteit
+
+### 3.27.1. begindiepte
+
+### 3.27.3. in gesteente
+
+### 3.27.4. type discontinuïteit
+
+### 3.27.5. samengestelde discontinuïteit
+
+### 3.27.6. onderlinge afstand
+
+### 3.27.7. glad
+
+### 3.27.8. breedteklasse
+
+### 3.27.9. opvulmateriaal
+
+### 3.28. Boormonsteranalyse
+
+### 3.28.2. analyseprocedure
+
+### 3.29. Onderzocht interval
+
+### 3.29.3. monsterkwaliteit
+
+### 3.29.4. bepaalde eigenschappen
+
+### 3.29.5. watergehalte bepaald
+
+### 3.29.6. organischestofgehalte bepaald
+
+### 3.29.7. kalkgehalte bepaald
+
+### 3.29.8. volumieke massa bepaald
+
+### 3.29.9. volumieke massa vaste delen bepaald
+
+### 3.30. Onderzocht materiaal
+
+### 3.30.1. bijzonder materiaal
+
+### 3.30.4. kleur
+
+### 3.30.5. kalkgehalteklasse
+
+### 3.30.7. grindmediaanklasse
+
+### 3.30.8. zandmediaanklasse
+
+### 3.31. Bepaling zettingseigenschappen
+
+### 3.31.2. bepalingsmethode
+
+### 3.31.4. ringdiameter
+
+### 3.31.6. temperatuur
+
+### 3.31.7. wandwrijvingcorrectiemethode
+
+### 3.31.9. lagerwrijvingcorrectie toegepast
+
+### 3.31.11. bijzonder resultaat
+
+### 3.31.12. bijzonderheid materiaal
+
+### 3.32. Verzadigingsfase bij samendrukken
+
+### 3.32.2. gebruikt medium
+
+### 3.32.5. proefstukhoogte na afloop
+
+### 3.32.7. maximaal spanningsverschil
+
+### 3.33. Bepalingsstap
+
+### 3.33.1. stapnummer
+
+### 3.33.3. verticale spanning
+
+### 3.33.4. vervormingssnelheid
+
+### 3.33.7. 24uursrekpunt
+
+### 3.35. Zettingstoestand
+
+### 3.35.1. verlopen tijd
+
+### 3.35.2. verticale rek
+
+### 3.37. Spanning bij bepaalde zetting
+
+### 3.37.3. verschilwaterspanning
+
+### 3.37.5. horizontale korrelspanning
+
+### 3.38.1. bepalingsprocedure
+
+### 3.38.3. monstervochtigheid
+
+### 3.38.5. verticaal bepaald
+
+### 3.38.6. ongedraineerde schuifsterkte
+
+### 3.38.8. hoogste ongedraineerde schuifsterkte
+
+### 3.39. Bepaling schuifspanningsverloop bij belasting
+
+### 3.39.2. bepalingsmethode
+
+### 3.39.4. proefstuk getrimd
+
+### 3.39.5. monstervochtigheid
+
+### 3.39.6. begindiameter
+
+### 3.39.7. beginhoogte
+
+### 3.39.8. drukplaat kantelbaar
+
+### 3.58.2. schuifrek
+
+### 3.58.3. schuifspanning
+
+### 3.58.4. verticale spanning
+
+### 3.59. Bepaling consistentiegrenzen
+
+### 3.59.2. bepalingsmethode
+
+### 3.59.3. fractie groter500um
+
+### 3.59.4. gebruikt medium
+
+### 3.59.7. vloeigrens
+
+### 3.59.8. uitrolgrens
+
+### 3.60. Plasiticiteit bij bepaald watergehalte
+
+### 3.60.2. indringingsdiepte
+
+### 3.61. Bepaling korrelgrootteverdeling
+
+### 3.61.3. fractieverdeling
+
+### 3.61.4. verwijderd materiaal
+
+### 3.61.7. herkomst rekenwaarde
+
+### 3.61.9. bijzonderheid uitvoering
+
+### 3.61.10. bijzonderheid materiaal
+
+### 3.62.1. fractie kleiner63um
+
+### 3.63. Standaardverdeling fractie kleiner63um
+
+### 3.63.1. fractie 0tot2um
+
+### 3.63.3. fractie 32tot50um
+
+### 3.64.1. fractie 0tot2um
+
+### 3.64.3. fractie 4tot8um
+
+### 3.64.4. fractie 8tot16um
+
+### 3.64.7. fractie 50tot63um
+
+### 3.65.1. fractie 63tot90um
+
+### 3.65.3. fractie 125tot180um
+
+### 3.65.5. fractie 250tot355um
+
+### 3.65.7. fractie 500tot710um
+
+### 3.65.8. fractie 710tot1000um
+
+### 3.65.10. fractie 1400umtot2mm
+
+### 3.65.11. fractie 2tot4mm
+
+### 3.65.13. fractie 8tot16mm
+
+### 3.65.14. fractie 16tot31.5mm
+
+### 3.65.15. fractie 31.5tot63mm
+
+### 3.66. Uitgebreide verdeling fractie groter63um
+
+### 3.66.3. fractie 75tot90um
+
+### 3.66.7. fractie 125tot180um
+
+### 3.67.2. bepalingsmethode
+
+### 3.67.6. verticaal bepaald
+
+### 3.67.10. gebruikt medium
+
+### 3.67.13. zwel geconstateerd
+
+### 3.70.1. bepalingsprocedure
+
+### 3.70.2. bepalingsmethode
+
+### 3.70.3. monstervochtigheid
+
+### 3.70.4. verwijderd materiaal
+
+### 3.70.5. bijzonderheid uitvoering
+
+### 3.70.6. bijzonderheid materiaal
+
+### 3.71.1. watergehalte
+
+### 3.71.2. droogtemperatuur
+
+### 3.71.3. droogtijd
+
+### 3.71.4. zoutcorrectiemethode
+
+### 3.72. Bepaling organischestofgehalte
+
+### 3.72.1. bepalingsprocedure
+
+### 3.72.2. bepalingsmethode
+
+### 3.72.3. verwijderd materiaal
+
+### 3.72.4. bijzonderheid uitvoering
+
+### 3.72.6. organischestofgehalte
+
+### 3.73. Bepaling kalkgehalte
+
+### 3.73.1. bepalingsprocedure
+
+### 3.73.2. bepalingsmethode
+
+### 3.73.3. verwijderd materiaal
+
+### 3.73.5. kalkgehalte
+
+### 3.74. Bepaling volumieke massa
+
+### 3.74.1. bepalingsprocedure
+
+### 3.74.2. bepalingsmethode
+
+### 3.74.4. bijzonderheid uitvoering
+
+### 3.74.5. volumieke massa
+
+### 3.75.1. bepalingsprocedure
+
+### 3.75.2. bepalingsmethode
+
+### 3.75.3. verwijderd materiaal
+
+### 3.75.4. gebruikt medium
+
+### 3.75.5. inhoud monsterhouder
+
+### 3.75.6. bijzonderheid uitvoering
+
+### 3.75.7. volumieke massa vaste delen
+
+### 1.1. Aanvulmateriaal
+
+### 1.2. Afzettingskarakteristiek
+
+### 1.3. Analyseprocedure
+
+### 1.5. BedekkingsgraadDrainagestrook
+
+### 1.6. Bemonsteringskwaliteit
+
+### 1.7. Bemonsteringsmethode
+
+### 1.9. BepaaldeEigenschappen
+
+### 1.10. Bepalingsdiameter
+
+### 1.11. Bepalingsmethode
+
+### 1.12. Bepalingsprocedure
+
+### 1.13. BeschrevenMateriaal
+
+### 1.15. Beschrijflocatie
+
+### 1.17. BijzonderGesteentebestanddeel
+
+### 1.19. BijzonderheidUitvoering
+
+### 1.20. BijzonderMateriaal
+
+### 1.22. Boorprocedure
+
+### 1.25. Buismateriaal
+
+### 1.29. Conustype
+
+### 1.49. InhoudMonsterhouder
+
+### 1.52. KaderstellendeProcedure
+
+### 1.56. LokaalVerticaalReferentiepunt
+
+### 1.61. MethodeVerticalePositiebepaling
+
+### 1.64. NaamGebeurtenis
+
+### 1.78. SoortGesteente
+
+### 1.83. Sterkteklasse
+
+### 1.86. StopcriteriumVeld
+
+### 1.91. TypeDiscontinuïteit
+
+De catalogus voor het geotechnisch booronderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het booronderzoek dat vanuit het vakgebied van de geotechniek is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit booronderzoek samen met de gedetailleerde uitwerking van de gegevens van de boormonsterbeschrijving, en van de gegevens die voortkomen uit het analyseren van boormonsters.
+
+Een **booronderzoek** is het geheel van gegevens dat betrekking heeft op een specifiek booronderzoek dat op een specifiek moment en op een specifieke locatie in Nederland is uitgevoerd en onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
+
+Booronderzoek in de basisregistratie ondergrond omvat onderzoek uit vijf verschillende vakgebieden. Naast geotechniek zijn dat bodemkunde, geologie, toegepaste geologie en cultuurtechniek. De catalogus voor het registratieobject komt in delen tot stand. Eerst wordt voor ieder vakgebied een catalogus gemaakt. Wanneer de vijf catalogi gereed zijn wordt een nieuwe catalogus gemaakt die alle vakgebieden omvat en waarin de ongewenste verschillen zijn weggenomen. Die catalogus geeft een samenhangende beschrijving van het registratieobject booronderzoek.
+
+### 1.1. Geotechnisch booronderzoek
+
+### 1.3. Kwaliteit van monsters
+
+### 1.4. Deelonderzoeken
+
+### 1.5. Verandering in de beschrijfprocedure van grond
+
+Sinds 2017 is onder verantwoordelijkheid van NEN gewerkt aan een Nederlandse annex op NEN-EN-ISO 14688-1. Dat deel van de norm gaat over de identificatie van grond en vervangt binnen de wereld van de geotechniek NEN 5104. De verandering is groot omdat er op een manier naar grond wordt gekeken die wezenlijk anders is dan wat gebruikelijk was. In NEN-EN-ISO 14688-1 is de identificatie van grond geheel en al gebaseerd op visuele en tactiele waarneming, op zien en voelen. Bij het voelen staan de aspecten centraal die over het gedrag van grond gaan.
+
+De oude NEN 5104 was eerder een classificatiesysteem waarmee het mogelijk was een willekeurig mengsel precies te benoemen wanneer het gehalte aan grind, zand, silt, lutum en organische stof nauwkeurig was bepaald. Die benadering werkt prima wanneer de gehaltes werkelijk gemeten zijn door proeven uit te voeren. Om de benadering toe te passen bij het beschrijven van monsters gebaseerd op alleen zintuigelijke waarneming, moesten referentiemonsters waarvan de samenstelling door metingen was bepaald gebruikt worden. Dat bleef in de praktijk dikwijls achterwege. Bovendien kende de methode bezwaren van meer fundamentele aard, waardoor al lange tijd werd ervaren dat de norm niet meer goed aansloot op de eisen van het geotechnisch werkveld.
+
+### 1.6. Gevolgen van de verandering
+
+### 2. Belangrijkste entiteiten
+
+Booronderzoek begint eigenlijk altijd met activiteiten in het veld en die worden in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer booronderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd3De eisen die voor de gegevens van deze vorm van booronderzoek moeten gelden zijn nog niet vastgesteld..
+
+### 2.2. Registratiegeschiedenis
+
+### 2.3. Rapportagegeschiedenis
+
+### 2.4. Boring
+
+De kernactiviteit in het veld is het maken van het gat, de **boring**. Voor het onderzoek is het van het grootste belang de gegevens vast te leggen die van invloed zijn op de uiteindelijke resultaten van het onderzoek. Daarnaast betekent boren dat men de toestand van de ondergrond verandert. Om de gevolgen van die ingreep later te kunnen beoordelen is het van belang te weten hoe men de ondergrond heeft achtergelaten.
+
+### 2.5. Bemonsteringsapparaat
+
+### 2.7. Sliblaag
+
+### 2.8. Boormonsterbeschrijving
+
+### 2.9. Boorprofiel
+
+Onder NEN-EN-ISO 14688-1 heeft het begrip beschrijfkwaliteit wel onderscheidende waarde. Het betekent dat de kwaliteit van de monsters waarop de beschrijving gebaseerd is en de mate van detail in de beschrijving over het hele profiel vergelijkbaar zijn. Figuur 4 illustreert het geval waarin een booronderzoek twee boorprofielen oplevert.
+
+### 2.10. Laag
+
+### 2.11. Grond
+
+### 2.12. Gesteente
+
+### 2.14. Boormonsteranalyse
+
+### 2.15. Onderzocht interval
+
+In de boormonsteranalyse worden aan een of meer intervallen bepalingen gedaan, de **onderzochte intervallen**. De kwaliteit van het monster en de beschikbare hoeveelheid materiaal bepalen in eerste instantie wat er allemaal van een interval kan worden bepaald. De beperking in hoeveelheid materiaal betekent dat bepaalde bepalingen elkaar in de praktijk uitsluiten en dat bepalingen die wel gecombineerd kunnen worden elkaar veelal in een strikte volgorde moeten opvolgen.
+
+Welke bepalingen er zijn uitgevoerd, wordt voor ieder interval vastgelegd. Het gaat om een aantal basisparameters die op de toestand of de samenstelling van het materiaal betrekking hebben, en om de zettingseigenschappen, ongedraineerde schuifsterkte, schuifspanningsverloop bij belasting en schuifspanningsverloop bij horizontale vervorming, consistentiegrenzen en korrelgrootteverdeling en verzadigde waterdoorlatendheid.
+
+Het materiaal waaruit een proefstuk bestaat dat de volledige doorsnede van een niet verstoord boormonster omvat, wordt pas na afloop van de bepaling beschreven (zie figuur 5). Het resultaat wordt apart vastgelegd en alleen de aspecten die na afloop van de bepaling nog als representatief voor het oorspronkelijk monster kunnen worden beschouwd, worden beschreven. In het uitzonderlijke geval dat het interval uit bijzonder materiaal bestaat, wordt alleen de naam van het materiaal vastgelegd.
+
+Grond vervormt bij belasting en wanneer de vervorming alleen in verticale richting plaatsvindt, spreekt men van zetting. Bij zetting wordt de ruimte tussen de korrels (de poriën) kleiner en verliest de grond water. Het zettingsproces bestaat uit twee fasen, de consolidatiefase en de kruipfase. Tijdens de consolidatiefase verliest de grond water. Wanneer de belasting volledig door het korrelskelet wordt gedragen is de grond in een toestand van evenwicht gekomen, en zegt men dat de grond volledig is geconsolideerd. De eerste fase in het zettingsproces, de consolidatiefase, is dan afgesloten. Tijdens de kruipfase blijft het water in de grond en wordt het volume van de grond heel langzaam kleiner.
+
+Door een proefstuk samen te drukken en het zettingsverloop of het spanningsverloop bij zetting te bepalen, verwerft men inzicht in het zettingsgedrag van de grond. Het zettingsgedrag is afhankelijk van de belasting die de grond al in de ondergrond heeft ondergaan en van de materiaaleigenschappen, met name van de waterdoorlatendheid en de weerstand van het korrelskelet4Onder korrelskelet wordt verstaan het vaste materiaal en het daaraan gebonden water. tegen druk. De waterdoorlatendheid is van belang omdat de snelheid van vervorming voornamelijk afhangt van de snelheid waarmee het aanwezige water kan wegstromen.
+
+Zettingseigenschappen worden alleen bepaald van cohesief materiaal en dat wil zeggen materiaal dat samenhang vertoont. De bepaling vereist een proefstuk uit een niet verstoord boormonster en dat wordt op maat gemaakt zodat het past in de metalen ring die in een apparaat wordt ingebouwd. Het **zettingsverloop** wordt op een andere manier bepaald dan het **spanningsverloop****bij****zetting** en met een ander apparaat.
+
+Voor het bepalen van het zettingsverloop wordt de ring met het proefstuk in een samendrukkingsapparaat geplaatst (figuur 6) dat met water gevuld wordt. De ring wordt aan de boven- en onderzijde afgedekt met poreuze stenen die het water doorlaten. Op de bovenste poreuze steen ligt de drukplaat die dient om de belasting over te brengen op het proefstuk. De proef kent een aantal stappen en in iedere bepalingsstap wordt het proefstuk een bepaalde belasting opgelegd en gemeten hoe snel de hoogte van het proefstuk verandert. De verandering in hoogte wordt **verticale rek** genoemd.
+
+Het spanningsverloop tijdens zetting wordt bepaald met een CRS-apparaat en die afkorting staat voor constant rate of strain (figuur 7). Het grootste verschil met het samendrukkingsapparaat is dat de ring hier in een drukcel wordt geplaatst waarvan de druk geregeld kan worden door water toe- en af te voeren. Het proefstuk wordt eerst met water verzadigd (**Verzadigingsfase**). Ook deze proef kent een aantal stappen, maar hier wordt het proefstuk in iedere bepalingsstap een bepaalde snelheid van vervormen opgelegd en worden de spanningen in het proefstuk gemeten. De snelheid van vervormen wordt ter controle altijd precies gemeten (**verlopen tijd** en **verticale rek**).
+
+De registratie van de metingen vindt geautomatiseerd plaats en er worden gewoonlijk bepaalde correcties toegepast. Wanneer het proefstuk de volledige doorsnede van een monster beslaat, wordt het samengedrukte materiaal na afloop van de bepaling beschreven.
+
+De **schuifsterkte** is de schuifspanning waarbij materiaal bezwijkt. **Ongedraineerd** wil zeggen dat het water dat in het materiaal aanwezig is, er tijdens de bepaling in blijft zitten. Het water neemt dan een deel van de opgelegde druk op.
+
+De **ongedraineerde schuifsterkte** wordt alleen bepaald van cohesief materiaal. Er wordt een handvin (**torvane**) of een zakpenetrometer gebruikt. Dat zijn eenvoudige apparaten en de proeven kunnen snel en goedkoop uitgevoerd worden.
+
+Bepalingen met deze apparaten leveren indicatieve waarden. Een enkelvoudige bepaling is altijd een puntmeting. Standaard wordt op twee verschillende punten in het monster een meting uitgevoerd en wordt het gemiddelde van de metingen vastgelegd.
+
+Grond vervormt bij belasting en wanneer de vervorming zich als gevolg van horizontale drukverschillen niet tot de verticale richting beperkt, kan de grond instabiel worden en gaan schuiven. Dat risico bestaat bijvoorbeeld bij zware constructies of grondlichamen die op het maaiveld liggen, bij afgravingen (bouwputten en gegraven watergangen), en bij constructies in de ondergrond (tunnels en parkeergarages). Om inzicht te krijgen in dat proces wordt het **schuifspanningsverloop bij belasting** bepaald. De **schuifspanning** is het directe gevolg van een verschil in verticale en horizontale spanning in de grond. Als gevolg van schuifspanning gaat de grond bij een horizontaal drukverschil in horizontale richting vervormen. De schuifspanning kan oplopen tot het moment waarop de grond bezwijkt. De waarde van de schuifspanning op het moment van bezwijken is de **schuifsterkte**.
+
+Het schuifspanningsverloop wordt bepaald van grond. Het precieze doel van het onderzoek en de soort grond bepalen of er een proefstuk uit een niet verstoord boormonster wordt gestoken of dat er in het laboratorium een proefstuk wordt gemaakt (**Gemaakt proefstuk**). Dat laatste gebeurt door het materiaal op een bepaalde manier voor te behandelen (**maakmethode**) zodat het de gewenste eigenschappen krijgt.
+
+Het proefstuk wordt altijd heel precies tot een cilinder gevormd, tussen twee poreuze stenen in een waterdicht membraan verpakt en in de drukcel van een triaxiaalapparaat geplaatst (figuur 8). De drukcel is gevuld met vloeistof. Op de bovenste poreuze steen ligt de drukplaat die dient om de belasting over te brengen op het ingepakte proefstuk. De druk van de vloeistof in de cel kan geregeld worden en via de poreuze stenen kan ook de waterdruk in het proefstuk geregeld worden. Door het proefstuk te belasten gaat het vervormen en de proefopstelling is zo ontworpen dat vervorming in alle richtingen kan optreden.
+
+De bepaling kent meestal drie fasen en dan wordt het proefstuk eerst verzadigd met water (**Verzadigingsfase**), vervolgens laat men het proefstuk onder druk consolideren (**Consolidatiefase**) en tenslotte gaat men het proefstuk belasten (**Belastingfase**). De eerste twee fasen kunnen worden overgeslagen en dan spreekt men van ongeconsolideerde uitvoering. De belastingfase wordt altijd uitgevoerd, want dat is de fase waarin het schuifspanningsverloop wordt bepaald.
+
+Tijdens ieder van de fasen worden metingen uitgevoerd. Van de verzadigingsfase worden alleen enkele kengetallen vastgelegd (**verzadigingsdruk**, **verticale rek** en **spanningsverschil**).
+
+Tijdens de consolidatiefase wordt het proefstuk op een bepaalde manier onder druk gezet (**consolidatiemethode**). De veranderingen worden geregistreerd door gedurende een bepaalde tijd de volumeverandering van het proefstuk te meten. De druk in de cel en, afhankelijk van de consolidatiemethode, ook de belasting worden omgerekend naar de spanning in het proefstuk (**consolidatiespanning**). Het uiteindelijke resultaat wordt vastgelegd in het **Volumeverloop bij consolidatie.** Ook worden enkele kengetallen van de consolidatiefase gegeven (**verticale rek, neutrale gronddrukcoëfficiënt**).
+
+Tijdens de belastingfase laat men het proefstuk onder verticale druk vervormen door het te belasten en daarbij de belasting zo te regelen dat de snelheid van verticaal vervormen constant blijft. In de bepalingsmethode ligt vast of er tijdens deze fase water in en uit het proefstuk kan stromen. De veranderingen in het proefstuk worden geregistreerd door gedurende een bepaalde tijd de belasting te meten en, afhankelijk van de bepalingsmethode, de waterspanning of het volume van het proefstuk. De meetwaarden worden omgerekend naar **verticale spanning, schuifspanning** en **volumeverandering** of **verschilwaterspanning**. Het uiteindelijke resultaat wordt vastgelegd als het **Schuifspanningsverloop bij belasting**. De snelheid van vervormen wordt ter controle altijd precies gemeten (**verlopen tijd** en **verticale rek**). Aan het einde van de bepaling wordt de vorm van het proefstuk vastgelegd (**vorm proefstuk**).
+
+Het schuifspanningsverloop kan ook bepaald worden door een proefstuk onder horizontale druk te vervormen. Het schuifspanningsverloop wordt bepaald van cohesieve grond en stelt dezelfde eisen aan een proefstuk als bij de bepaling bij belasting.
+
+Het proefstuk wordt altijd heel precies tot een cilinder gevormd, tussen twee poreuze stenen in een waterdicht membraan verpakt en dan in metalen ringen in een DSS-apparaat geplaatst (figuur 9). De afkorting staat voor **direct simple shear**. De metalen ringen zorgen er voor dat het proefstuk tijdens de bepaling niet lateraal kan vervormen. In plaats van ringen kan ook een met ijzerdraad verstevigd membraan worden gebruikt.
+
+Men kan het proefstuk de gelegenheid gegeven om tijdens de bepaling water op te nemen of water uit het proefstuk te laten stromen (**gedraineerd**). Dat kan via een slangetje of het deel van het apparaat waar het proefstuk in wordt geplaatst wordt met water gevuld. In enkele gevallen krijgt het proefstuk de gelegenheid om voorafgaand aan de bepaling water op te nemen (**waterverzadigd**).
+
+De bepaling kent twee fasen en dan laat men eerst het proefstuk onder belasting consolideren (**Consolidatiefase**) en vervolgens gaat men het proefstuk vervormen (**Schuiffase**).
+
+Tijdens ieder van de fasen worden metingen uitgevoerd. Tijdens de consolidatiefase wordt het proefstuk in één of meerdere stappen belast. Tijdens deze fase kan het voetstuk vast worden gezet. De veranderingen worden geregistreerd door gedurende een bepaalde tijd de verandering in hoogte van het proefstuk te meten. Het resultaat wordt vastgelegd in **Hoogteverloop bij consolidatie**.
+
+Tijdens de schuiffase laat men het proefstuk onder horizontale druk vervormen door de bovenkant of onderkant van het proefstuk met een constante snelheid in horizontale richting te verplaatsen. Gedurende de fase wordt het proefstuk op gelijke hoogte gehouden. De veranderingen in het proefstuk worden geregistreerd door gedurende een bepaalde tijd de horizontale verplaatsing en de horizontale en verticale druk te meten. De meetwaarden worden omgerekend naar **schuifrek, schuifspanning** en **verticale spanning** en het uiteindelijke resultaat wordt vastgelegd als het **Schuifspanningsverloop bij horizontale vervorming**.
+
+Cohesieve grond heeft een zekere samenhang. De mate van samenhang, de consistentie, wordt bepaald door de verhouding tussen de hoeveelheid water en de hoeveelheid vaste materie en door de samenstelling van de vaste materie. Door bij verschillende watergehalten metingen uit te voeren bepaalt men de zgn. Atterbergse grenzen: de vloeigrens, de uitrolgrens en de krimpgrens. In standaard geotechnisch onderzoek worden alleen de vloeigrens en de uitrolgrens bepaald. Tussen die twee grenzen gedraagt de grond zich plastisch. Bij een watergehalte boven de vloeigrens gedraagt grond zich als een vloeistof, bij een watergehalte onder de uitrolgrens is de grond niet makkelijk vervormbaar en noemt men de grond semi-vast. De uitrolgrens wordt altijd op dezelfde manier bepaald, voor de vloeigrens heeft men de keuze uit de Casagrande-methode en de valconus-methode. De laatste methode krijgt in de uitvoeringspraktijk meer en meer de voorkeur.
+
+Voor de korrelgrootteverdeling wordt de samenstelling van het materiaal bepaald vanuit het perspectief dat grond een mengsel van minerale deeltjes van verschillende grootte is. De deeltjes worden korrels genoemd. Volgens een bepaalde methode, of combinatie van methoden, wordt het aandeel van de gekozen groottefracties in het totale mengsel bepaald. De fracties bij elkaar vormen een aaneensluitende reeks die het groottebereik volledig dekt.
+
+De opdracht en de aard van het materiaal bepalen welke methode is gebruikt en welke fracties zijn onderscheiden. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is. Als voorbehandeling kan het nodig zijn samengeklonterde korreltjes van elkaar los te maken (**dispersie**).
+
+De metingen worden altijd omgerekend naar een percentage van de totale massa en wanneer de lasermethode gekozen is, wordt een zekere correctie doorgevoerd. In alle gevallen wordt in het resultaat onderscheid gemaakt tussen de fractie groter en de fractie kleiner dan 63µm; bij die grootte ligt de grens tussen wat fijn en wat grof wordt genoemd. Ieder van de fracties kent een standaardonderverdeling en die wordt in de meeste onderzoeken toegepast. De opdracht kan een meer gedetailleerde onderverdeling vragen en met name voor de grove fractie bestaan verscheidene opties.
+
+De korrelgrootteverdeling wordt in eerste instantie gebruikt om het materiaal te classificeren.
+
+De waterdoorlatendheid van met waterverzadigde grond is de snelheid waarmee water erdoorheen stroomt. In de geotechniek wordt de verzadigde waterdoorlatendheid bepaald volgens de constant head methode of de falling head methode. Bij beide methoden laat men water van een bepaalde soort (**gebruikt medium**) door de grond stromen, en daarvan wordt vastgelegd of de daarin aanwezige gassen eruit verwijderd zijn (**water ontgast**). Men laat het water meestal van onder naar boven door het proefstuk stromen. De variabelen die van invloed zijn op het resultaat worden vastgelegd (**temperatuur**, **maximale gradiënt**).
+
+De constant head methode wordt gebruikt voor niet-cohesieve grond en daarvan wordt volgens een bepaalde methode een proefstuk gemaakt **(maakmethode)** die een bepaalde dichtheid krijgt (**droge volumieke massa**). Het proefstuk kan tevoren met CO2 worden verzadigd. De verzadigde waterdoorlatendheid wordt een aantal malen bepaald steeds bij een andere droge volumieke massa.
+
+De falling head methode wordt gebruikt voor cohesieve grond en wordt bijna altijd bepaald aan een proefstuk dat met een ring uit een niet verstoord boormonster is gestoken. Bij een dergelijk proefstuk leg je vast of de doorlatendheid verticaal is gemeten (**verticaal bepaald)**. In het laboratorium kiest men of de poreuze stenen in de proefstelling nat of droog moeten zijn en of in de steekring een waterafstotende laag moet krijgen en legt men het proefstuk een bepaalde belasting op. Aan het einde van de proef wordt het watergehalte bepaald. Het resultaat van de proef is de verzadigde waterdoorlatendheid bij de opgelegde druk.
+
+Het watergehalte wordt bepaald door het in het materiaal aanwezige water op een bepaalde manier te verwijderen, het massaverlies te meten en het resultaat uit te drukken in de verhouding tussen de hoeveelheid water en de hoeveelheid droge stof. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is. Temperatuur en droogtijd zijn van belang en voor de aanwezigheid van zouten in het poriënwater wordt een bepaalde correctie doorgevoerd. In sommige gevallen wordt het gegeven bij twee verschillende temperaturen bepaald.
+
+Het watergehalte is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
+
+Het gehalte aan organische stof wordt bepaald door het organisch materiaal op een bepaalde manier te verwijderen en het verlies aan massa te meten. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is. Bij de berekening van het gehalte kan het nodig zijn te corrigeren voor het verlies van water dat aan klei is gebonden (**lutumcorrectie**).
+
+Het organische stofgehalte is een basisparameter die primair gebruikt wordt om de grond te classificeren.
+
+Het gehalte aan kalk wordt bepaald door het aanwezige calciumcarbonaat (koolzure kalk) op een bepaalde manier te verwijderen en het verlies aan massa te meten. Het is van belang te weten of er voorafgaand aan de bepaling materiaal verwijderd is.
+
+Het kalkgehalte is een basisparameter die primair gebruikt wordt om de grond te classificeren.
+
+De **volumieke massa**, de massa per eenheid van volume, wordt bepaald door de massa en het volume op een bepaalde manier te meten.
+
+Het gegeven is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
+
+De volumieke massa van de vaste delen wordt bepaald door de massa en het volume van gedroogd materiaal te meten. Zo nodig wordt het materiaal vergruisd en worden de korrels van elkaar los gemaakt zodat het volume van de ruimte tussen de korrels nauwkeurig kan worden bepaald. Dat volume wordt bepaald door die ruimte met gas of vloeistof te vullen.
+
+Het gegeven is een basisparameter die altijd samen met andere gegevens gebruikt wordt in berekeningen.
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject booronderzoek valt wat het geotechnisch onderzoek betreft onder het INSPIRE-thema Geology, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt geïmplementeerd middels een mapping van het gegevensmodel van het Geotechnisch booronderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+## Bijlage VI. behorend bij [artikel 11, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van de registratieobjecten wandonderzoek – bodemkundige wandbeschrijving en wandmonsteranalyse en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+Datum 25 maart 2020
+
+### 3.1.10. veldwerkdatum
+
+### 3.1.11. strooisellaag onderzocht
+
+### 3.1.12. uitvoerder onderzoek
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3.2. einddatum rapportage
+
+### 3.4. Tussentijdse gebeurtenis
+
+### 3.4.1. naam gebeurtenis
+
+### 3.4.2. datum gebeurtenis
+
+### 3.5.1. coördinaten
+
+### 3.5.3. datum locatiebepaling
+
+### 3.5.4. methode locatiebepaling
+
+### 3.5.5. uitvoerder locatiebepaling
+
+### 3.6. Aangeleverde verticale positie
+
+### 3.6.2. verschuiving
+
+### 3.6.4. datum verticale positiebepaling
+
+### 3.6.5. methode verticale positiebepaling
+
+### 3.6.6. uitvoerder verticale positiebepaling
+
+### 3.7. Gestandaardiseerde locatie
+
+### 3.7.1. coördinaten
+
+### 3.7.2. referentiestelsel
+
+### 3.7.3. coördinaattransformatie
+
+### 3.8.1. einddiepte wand
+
+### 3.8.2. wandorientatie
+
+### 3.8.3. type ontsluiting
+
+### 3.8.4. stopcriterium
+
+### 3.9. Terreintoestand
+
+### 3.9.1. bodemgebruik
+
+### 3.9.2. kunstmatige drainage
+
+### 3.9.3. ligging op grondlichaam
+
+### 3.9.4. maaiveld verlegd
+
+### 3.9.5. wroetsporen aanwezig
+
+### 3.9.6. gemiddeld hoogste grondwaterspiegel
+
+### 3.9.7. gemiddeld laagste grondwaterspiegel
+
+### 3.9.9. landschapselement
+
+### 3.9.10. actueel proces
+
+### 3.9.11. soort vegetatie
+
+### 3.10. Wandbeschrijving
+
+### 3.10.1. rapportagedatum beschrijving
+
+### 3.10.3. beschreven breedte
+
+### 3.10.4. kunstmatig bevochtigd
+
+### 3.10.5. uitvoerder beschrijving
+
+### 3.10.6. fractieverdeling bepaald
+
+### 3.10.7. ondergrens zandfractie
+
+### 3.11. Wandprofiel
+
+### 3.11.1. beschrijfkwaliteit
+
+### 3.11.3. bewortelbare diepte
+
+### 3.11.4. gemiddeld hoogste grondwaterstand bereikt
+
+### 3.11.5. gemiddeld hoogste grondwaterstand
+
+### 3.11.7. repeterende horizonten
+
+### 3.11.9. vorm bovengrens
+
+### 3.11.10. opbouw verstoord
+
+### 3.11.11. verdichting aanwezig
+
+### 3.12. Strooisellaag
+
+### 3.12.1. bovengrens
+
+### 3.12.2. bepaling bovengrens
+
+### 3.12.3. ondergrens
+
+### 3.12.4. bepaling ondergrens
+
+### 3.12.5. vorm ondergrens
+
+### 3.12.6. laag discontinu
+
+### 3.12.7. horizontcode
+
+### 3.12.8. geschat organischestofgehalte
+
+### 3.12.9. strooiselsoort
+
+### 3.13. Zuurgraad strooisellaag
+
+### 3.13.2. pH
+
+### 3.14. Bodemlaag
+
+### 3.14.1. bovengrens
+
+### 3.14.2. bepaling bovengrens
+
+### 3.14.4. bepaling ondergrens
+
+### 3.14.6. laag discontinu
+
+### 3.14.7. antropogeen
+
+### 3.14.8. gemengd
+
+### 3.14.9. gekeerd
+
+### 3.14.11. beworteld
+
+### 3.14.12. wortels gelijkmatig verdeeld
+
+### 3.14.13. hoeveelheidsklasse wortels
+
+### 3.14.14. scheefstaand
+
+### 3.15. Homogeen materiaal
+
+### 3.15.1. bijzonder materiaal
+
+### 3.15.2. horizontcode
+
+### 3.15.3. soort gesteente
+
+### 3.15.4. afzettingskarakteristiek
+
+### 3.15.5. geschatte verzadigde doorlatendheid
+
+### 3.16. Grond
+
+### 3.16.1. classificatie volgens leemdriehoek
+
+### 3.16.2. bodemkundige grondsoort
+
+### 3.16.3. grondsoort NEN5104
+
+### 3.16.4. bijzonder bestanddeel
+
+### 3.16.5. kleur
+
+### 3.16.6. gevlekt
+
+### 3.16.7. structuurtype
+
+### 3.16.8. geschatte dichtheid
+
+### 3.16.9. soort veen
+
+### 3.16.10. zandverkitting
+
+### 3.16.11. geschatte zandmediaan
+
+### 3.16.12. kalkgehalteklasse
+
+### 3.16.13. organischestofgehalteklasse NEN5104
+
+### 3.16.14. rijpingsklasse
+
+### 3.16.15. knip
+
+### 3.16.16. schelpmateriaalhoudend
+
+### 3.16.17. schelpmateriaalgehalteklasse
+
+### 3.16.18. grindhoudend
+
+### 3.16.19. grindgehalteklasse
+
+### 3.16.20. gelaagde inhomogeniteit
+
+### 3.16.21. brokje
+
+### 3.16.22. vochtigheidstoestand
+
+### 3.17. Fractieverdeling
+
+### 3.17.1. geschat grindgehalte
+
+### 3.17.2. geschat schelpmateriaalgehalte
+
+### 3.17.3. geschat organischestofgehalte
+
+### 3.17.4. geschat gehalte fijne fractie
+
+### 3.18. Verdeling fijne fractie
+
+### 3.18.1. geschat lutumgehalte
+
+### 3.18.2. geschat siltgehalte
+
+### 3.18.3. geschat zandgehalte
+
+### 3.19. Onvolledige fractiespecificatie
+
+### 3.19.1. geschat organischestofgehalte
+
+### 3.19.2. geschat lutumgehalte
+
+### 3.19.3. geschat siltgehalte
+
+### 3.19.4. geschat zandgehalte
+
+### 3.20. Munsellkleur
+
+### 3.20.1. hoofdkleur
+
+### 3.20.2. witheid
+
+### 3.20.3. zuiverheid
+
+### 3.21. Vlek
+
+### 3.21.1. kleur
+
+### 3.21.2. bedekkingsgraad
+
+### 3.21.3. gelijkmatig verdeeld
+
+### 3.22. Bodemaggregaat
+
+### 3.22.1. vorm aggregaat
+
+### 3.22.2. hoekigheid
+
+### 3.22.3. ruwheid
+
+### 3.22.4. lengteklasseAggregaat
+
+### 3.22.5. hoeveelheidsklasse porien
+
+### 3.22.6. horizontaal gerangschikt
+
+### 3.22.7. uiteenvallend
+
+### 3.23. Laagcomponent
+
+### 3.23.1. horizontcode
+
+### 3.23.2. laagaandeel
+
+### 3.23.3. afzettingskarakteristiek
+
+### 3.23.4. geschatte verzadigde doorlatendheid
+
+### 3.24. Zuurgraad bodemlaag
+
+### 3.24.1. diepte
+
+### 3.24.2. pH
+
+### 3.25. Verstoord interval
+
+### 3.25.1. begindiepte
+
+### 3.25.2. einddiepte bereikt
+
+### 3.25.3. einddiepte
+
+### 3.25.4. verstoring
+
+### 3.26. Verdicht interval
+
+### 3.26.1. begindiepte
+
+### 3.26.2. einddiepte
+
+### 3.27. Bodemclassificatie
+
+### 3.27.1. codegroep
+
+### 3.27.2. standaardpuntencode
+
+### 3.27.3. bijzonderheid bovenin
+
+### 3.27.4. bodemklasse
+
+### 3.27.5. textuurklasse
+
+### 3.27.6. veenklasse
+
+### 3.27.7. ondergrond veen
+
+### 3.27.8. veenondergrens
+
+### 3.27.9. ondergrond duinvaaggrond
+
+### 3.27.10. profielverloop
+
+### 3.27.11. kalkverloopklasse
+
+### 3.27.12. vergravingsklasse
+
+### 3.27.13. grondwatertrap
+
+### 3.27.14. afwijkend grondwaterregime
+
+### 3.27.15. bijzonderheid locatie
+
+### 3.28. Bijzonderheid onderin
+
+### 3.28.1. bijzonderheid
+
+### 3.28.2. begindiepte
+
+### 3.29. Wandmonsteranalyse
+
+### 3.29.1. rapportagedatum analyse
+
+### 3.29.2. soort analyse
+
+### 3.29.3. uitvoerder analyse
+
+### 3.30. Onderzocht interval
+
+### 3.30.1. begindiepte
+
+### 3.30.2. einddiepte
+
+### 3.30.3. horizontcode
+
+### 3.30.4. karakteristiek gemodelleerd
+
+### 3.31. Bepaling zuurgraad
+
+### 3.31.1. bepalingsprocedure
+
+### 3.31.2. bepalingsmethode
+
+### 3.31.3. pH
+
+### 3.32. Bepaling korrelgrootteverdeling
+
+### 3.32.1. bepalingsprocedure
+
+### 3.32.2. bepalingsmethode
+
+### 3.32.3. korrelgrootteverdeling gestandaardiseerd
+
+### 3.32.4. fractieverdeling
+
+### 3.32.5. dispersiemethode
+
+### 3.32.6. bijzonderheid uitvoering
+
+### 3.33. Basis korrelgrootteverdeling
+
+### 3.33.1. fractie kleiner50um
+
+### 3.33.2. fractie 50tot63um
+
+### 3.33.3. fractie 63tot2000um
+
+### 3.34. Minimale verdeling fractie kleiner50um
+
+### 3.34.1. fractie 0tot2um
+
+### 3.34.2. fractie 2tot50um
+
+### 3.35. Standaard verdeling fractie kleiner50um
+
+### 3.35.1. fractie 0tot2um
+
+### 3.35.2. fractie 2tot16um
+
+### 3.35.3. fractie 16tot50um
+
+### 3.36. Uitgebreide verdeling fractie kleiner50um
+
+### 3.36.1. fractie 0tot2um
+
+### 3.36.2. fractie 2tot4um
+
+### 3.36.3. fractie 4tot8um
+
+### 3.36.4. fractie 8tot16um
+
+### 3.36.5. fractie 16tot25um
+
+### 3.36.6. fractie 25tot35um
+
+### 3.36.7. fractie 35tot50um
+
+### 3.37. Standaard verdeling fractie 63tot2000um
+
+### 3.37.1. fractie 63tot105um
+
+### 3.37.2. fractie 105ot210um
+
+### 3.37.3. fractie 210tot420um
+
+### 3.37.4. fractie 420tot2000um
+
+### 3.38. Uitgebreide verdeling fractie 63tot2000um
+
+### 3.38.1. fractie 63tot105um
+
+### 3.38.2. fractie 105ot210um
+
+### 3.38.3. fractie 210tot300um
+
+### 3.38.4. fractie 300tot420um
+
+### 3.38.5. fractie 420tot600um
+
+### 3.38.6. fractie 600tot850um
+
+### 3.38.7. fractie 850tot1200um
+
+### 3.38.8. fractie 1200tot1700um
+
+### 3.38.9. fractie 1700tot2000um
+
+### 3.39. Niet gestandaardiseerde fractie
+
+### 3.39.1. ondergrens
+
+### 3.39.2. bovengrens
+
+### 3.39.3. aandeel
+
+### 3.40. Bepaling organischestofgehalte
+
+### 3.40.1. bepalingsprocedure
+
+### 3.40.2. bepalingsmethode
+
+### 3.40.3. rapportagegrens
+
+### 3.40.4. lutumcorrectie toegepast
+
+### 3.40.5. vrij ijzercorrectie toegepast
+
+### 3.40.6. organischestofgehalte
+
+### 3.41. Bepaling organisch koolstofgehalte
+
+### 3.41.1. bepalingsprocedure
+
+### 3.41.2. bepalingsmethode
+
+### 3.41.3. rapportagegrens
+
+### 3.41.4. bijzonderheid uitvoering
+
+### 3.41.5. organisch koolstofgehalte
+
+### 3.42. Bepaling droge bulkdichtheid
+
+### 3.42.1. bepalingsprocedure
+
+### 3.42.2. bepalingsmethode
+
+### 3.42.3. ringdiameter
+
+### 3.42.4. ringhoogte
+
+### 3.42.5. droogtemperatuur
+
+### 3.42.6. volume waterverzadigd
+
+### 3.42.7. bijzonderheid materiaal
+
+### 3.42.8. droge bulkdichtheid
+
+### 3.43. Bepaling krimpverloop
+
+### 3.43.1. bepalingsprocedure
+
+### 3.43.2. bepalingsmethode
+
+### 3.43.3. verstoord
+
+### 3.43.4. temperatuur
+
+### 3.43.5. bijzonderheid materiaal
+
+### 3.44. Krimpverloop
+
+### 3.45. Krimptoestand
+
+### 3.45.1. massa
+
+### 3.45.2. volume
+
+### 3.45.3. hoogte
+
+### 3.45.4. diameter
+
+### 3.46. Bepaling waterdoorlatendheid
+
+### 3.46.1. bepalingsID
+
+### 3.46.2. bepalingsprocedure
+
+### 3.46.3. bepalingsmethode
+
+### 3.46.4. verticaal bemonsterd
+
+### 3.46.5. ringdiameter
+
+### 3.46.6. ringhoogte
+
+### 3.46.7. stroming neerwaarts
+
+### 3.46.8. gebruikt medium
+
+### 3.46.9. water ontgast
+
+### 3.46.10. temperatuur
+
+### 3.46.11. bijzonderheid materiaal
+
+### 3.46.12. bijzonderheid uitvoering
+
+### 3.46.13. verzadigde waterdoorlatendheid
+
+### 3.47. Waterdoorlatendheidsverloop
+
+### 3.48. Waterdoorlatendheidstoestand
+
+### 3.48.1. bodemvochtpotentiaal
+
+### 3.48.2. waterdoorlatendheid
+
+### 3.48.3. volumetrisch watergehalte
+
+### 3.49. Bepaling waterretentie stapsgewijs
+
+### 3.49.1. bepalingsID
+
+### 3.49.2. bepalingsprocedure
+
+### 3.49.3. bepalingsmethode
+
+### 3.49.4. ringmonster gebruikt
+
+### 3.49.5. ringdiameter
+
+### 3.49.6. ringhoogte
+
+### 3.49.7. temperatuur
+
+### 3.49.8. relatieve luchtvochtigheid
+
+### 3.49.9. vernattend
+
+### 3.49.10. droogtemperatuur
+
+### 3.49.11. droogtijd
+
+### 3.49.12. volumetrisch watergehalte bepaald
+
+### 3.49.13. droge bulkdichtheid
+
+### 3.49.14. zoutcorrectiemethode
+
+### 3.49.15. bijzonderheid materiaal
+
+### 3.50. Waterretentie
+
+### 3.51. Waterretentiewaarde
+
+### 3.51.1. bodemvochtpotentiaal
+
+### 3.51.2. volumetrisch watergehalte
+
+### 3.51.3. massa watergehalte
+
+### 3.52. Bepaling watergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal
+
+### 3.52.1. bepalingsID
+
+### 3.52.2. bepalingsprocedure
+
+### 3.52.3. bepalingsmethode
+
+### 3.52.4. verticaal bemonsterd
+
+### 3.52.5. ringdiameter
+
+### 3.52.6. ringhoogte
+
+### 3.52.7. folie gebruikt
+
+### 3.52.8. temperatuur
+
+### 3.52.9. relatieve luchtvochtigheid
+
+### 3.52.10. droge bulkdichtheid
+
+### 3.52.11. bijzonderheid materiaal
+
+### 3.53. Overzicht tensiometergegevens
+
+### 3.53.1. aantal
+
+### 3.53.2. lengte
+
+### 3.53.3. diameter
+
+### 3.53.4. diepte 1
+
+### 3.53.5. diepte 2
+
+### 3.53.6. diepte 3
+
+### 3.53.7. diepte 4
+
+### 3.54. Waterretentie verdamping
+
+### 3.55. Waterretentiewaarde verdamping
+
+### 3.55.1. verlopen tijd
+
+### 3.55.2. bodemvochtpotentiaal diepte 1
+
+### 3.55.3. bodemvochtpotentiaal diepte 2
+
+### 3.55.4. bodemvochtpotentiaal diepte 3
+
+### 3.55.5. bodemvochtpotentiaal diepte 4
+
+### 3.55.6. volumetrisch watergehalte
+
+### 3.56. Watergehalte en doorlatendheid bij een veranderende bodemvochtpotentiaal
+
+### 3.57. Watergehalte en doorlatendheid bij bepaalde bodemvochtpotentiaal
+
+### 3.57.1. bodemvochtpotentiaal
+
+### 3.57.2. volumetrisch watergehalte
+
+### 3.57.3. waterdoorlatendheid
+
+### 3.58. Modellering van hydrofysische karakteristieken
+
+### 3.58.1. bepalingsID
+
+### 3.58.2. modelleringsprocedure
+
+### 3.58.3. modelleringsmethode
+
+### 3.59. Waterretentiekarakteristiek
+
+### 3.59.1. verzadigd volumetrisch watergehalte
+
+### 3.59.2. residueel volumetrisch watergehalte
+
+### 3.59.3. curve enkelvoudig
+
+### 3.60. Vorm retentiecurve
+
+### 3.60.1. vormfactor alfa
+
+### 3.60.2. vormfactor n
+
+### 3.60.3. vormfactor m
+
+### 3.60.4. wegingsfactor
+
+### 3.61. Waterdoorlatendheidskarakteristiek
+
+### 3.61.1. curve enkelvoudig
+
+### 3.61.2. gemodelleerde verzadigde waterdoorlatendheid
+
+### 3.62. Vorm doorlatendheidscurve
+
+### 3.62.1. vormfactor alfa
+
+### 3.62.2. vormfactor n
+
+### 3.62.3. vormfactor m
+
+### 3.62.4. vormfactor lambda
+
+### 3.62.5. wegingsfactor
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. ActueelProces
+
+### 1.2. AfwijkendGrondwaterRegime
+
+### 1.3. Afzettingskarakteristiek
+
+### 1.4. Bepalingsmethode
+
+### 1.5. Bepalingsprocedure
+
+### 1.6. Beschrijfkwaliteit
+
+### 1.7. Beschrijfprocedure
+
+### 1.8. BedekkingsgraadVlek
+
+### 1.9. Bijzonderheid
+
+### 1.10. BijzonderheidBovenin
+
+### 1.11. BijzonderheidLocatie
+
+### 1.12. BijzonderheidMateriaal
+
+### 1.13. BijzonderheidUitvoering
+
+### 1.14. BijzonderMateriaal
+
+### 1.15. Bodemgebruik
+
+### 1.16. Bodemklasse
+
+### 1.17. BodemkundigeGrondsoort
+
+### 1.18. Bodemleven
+
+### 1.19. Brokje
+
+### 1.20. Codegroep
+
+### 1.21. Coördinaattransformatie
+
+### 1.22. Dispersiemethode
+
+### 1.23. Droogtemperatuur
+
+### 1.24. Droogtijd
+
+### 1.25. FractieverdelingLab
+
+### 1.26. GebruiktMedium
+
+### 1.27. GelaagdeInhomogeniteit
+
+### 1.28. Grensbepaling
+
+### 1.29. Grindgehalteklasse
+
+### 1.30. GrondsoortNEN5104
+
+### 1.31. Grondwatertrap
+
+### 1.32. HoekigheidAggregaat
+
+### 1.33. HoeveelheidsklassePorien
+
+### 1.34. HoeveelheidsklasseWortels
+
+### 1.35. Horizontcode
+
+### 1.36. HydrologischeOmstandigheid
+
+### 1.37. KaderAanlevering
+
+### 1.38. KaderInwinning
+
+### 1.39. Kalkgehalteklasse
+
+### 1.40. Kalkverloopklasse
+
+### 1.41. Kleur
+
+### 1.42. KunstmatigeDrainage
+
+### 1.43. Landschapselement
+
+### 1.44. LengteklasseAggregaat
+
+### 1.45. LiggingOpGrondlichaam
+
+### 1.46. LokaalVerticaalReferentiepunt
+
+### 1.47. MaaiveldVerlegd
+
+### 1.48. MethodeLocatiebepaling
+
+### 1.49. MethodeVerticalePositiebepaling
+
+### 1.50. Modelleringsmethode
+
+### 1.51. Modelleringsprocedure
+
+### 1.52. MunsellHoofdkleur
+
+### 1.53. MunsellWitheid
+
+### 1.54. MunsellZuiverheid
+
+### 1.55. NaamGebeurtenis
+
+### 1.56. OndergrensZandfractie
+
+### 1.57. OndergrondDuinvaaggrond
+
+### 1.58. OndergrondVeen
+
+### 1.59. OrganischestofgehalteklasseNEN5104
+
+### 1.60. PlaatselijkFenomeen
+
+### 1.61. Profielverloop
+
+### 1.62. Referentiestelsel
+
+### 1.63. Registratiestatus
+
+### 1.64. Rijpingsklasse
+
+### 1.65. Ruwheid
+
+### 1.66. Schelpmateriaalgehalteklasse
+
+### 1.67. SoortAnalyse
+
+### 1.68. SoortBijzonderBestanddeel
+
+### 1.69. SoortGesteente
+
+### 1.70. SoortStrooisel
+
+### 1.71. SoortVeen
+
+### 1.72. SoortVegetatie
+
+### 1.73. StopcriteriumVeld
+
+### 1.74. Structuurtype
+
+### 1.75. Textuurklasse
+
+### 1.76. TypeOntsluiting
+
+### 1.77. Vakgebied
+
+### 1.78. Veenklasse
+
+### 1.79. Vergravingsklasse
+
+### 1.80. Verstoring
+
+### 1.81. VerticaalReferentievlak
+
+### 1.82. Vlekkleur
+
+### 1.83. Vochtigheidstoestand
+
+### 1.84. VormAggregaat
+
+### 1.85. VormGrens
+
+### 1.86. Zandverkitting
+
+### 1.87. Zoutcorrectiemethode
+
+### Toelichting
+
+### 1. Inleiding
+
+De catalogus voor het bodemkundig wandonderzoek beschrijft de gegevens die in de registratie ondergrond zijn opgenomen van het wandonderzoek dat vanuit het vakgebied van de bodemkunde is uitgevoerd. De catalogus beschrijft de algemene gegevens van dit wandonderzoek samen met de gegevens van de wandmonsterbeschrijving en de wandmonsteranalyse.
+
+**Wandonderzoek** is het geheel van gegevens dat betrekking heeft op een specifiek wandonderzoek dat op een specifiek moment gekoppeld aan een specifieke locatie in Nederland onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
+
+Wandonderzoek kan vanuit verschillende vakgebieden worden uitgevoerd, maar in de basisregistratie ondergrond omvat het alleen het vakgebied van de bodemkunde. De reden is dat wandonderzoek van oudsher een prominente plaats in de bodemkunde inneemt en dat de gegevens digitaal en systematisch worden vastgelegd. In andere vakgebieden, zoals de geologie en geotechniek, is dat niet het geval.
+
+### 1.1. Bodemkundig wandonderzoek
+
+Bodemkundig wandonderzoek heeft tot doel de opbouw en de eigenschappen van het bovenste deel van de ondergrond te onderzoeken. Het perspectief van waaruit dat gebeurt is dat van de landbouw, de landinrichting, het natuurbeheer of de winning van oppervlaktedelfstoffen. Bij uitzondering is het doel er een van meer wetenschappelijke of educatieve aard.
 
 Het onderzoek wordt uitgevoerd in het kader van projecten die zich richten op een bepaalde locatie of een bepaald gebied. Het overgrote deel van het onderzoek wordt uitgevoerd in het kader van de landelijke bodemkartering 1:50.000. Voor die kartering levert het wandonderzoek de referentie voor de te onderscheiden bodemeenheden.
 
@@ -1460,15 +6474,23 @@ Wandonderzoek wordt gewoonlijk en ongeacht de aard van een project gecombineerd 
 
 ### 1.3. Deelonderzoeken
 
-Bodemkundig wandonderzoek omvat gewoonlijk twee deelonderzoeken, de wandbeschrijving en de wandmonsteranalyse. Soms wordt alleen de wandbeschrijvng uitgevoerd, soms alleen de wandmonsteranalyse. Daarnaast wordt het maken van foto’s meer en meer gebruikelijk.
+Bodemkundig wandonderzoek omvat gewoonlijk twee deelonderzoeken, de wandbeschrijving en de wandmonsteranalyse. Soms wordt alleen de wandbeschrijving uitgevoerd, soms alleen de wandmonsteranalyse. Daarnaast wordt het maken van foto’s meer en meer gebruikelijk.
 
-Deze versie van de catalogus dekt alleen de wandbeschrijving. In de wandbeschrijving staat het beschrijven van de opbouw van de bodem centraal.
+Van de drie deelonderzoeken zijn de wandbeschrijving en de wandmonsteranalyse in deze versie van de catalogus opgenomen.
+
+Monsters kunnen in de bodemkunde vanuit een veelheid aan disciplines worden onderzocht, maar in de basisregistratie ondergrond beperkt het bereik zich tot het bodemhydrofysische en bodemchemische bepalingen.
+
+Deze versie van de catalogus dekt alleen de bodemhydrofysische bepalingen en enkele bepalingen van algemene aard. Chemische analyse wordt in een volgende versie van de catalogus meegenomen.
+
+### 1.4. Inspire
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Bodemkundig wandonderzoek valt onder het INSPIRE-thema Soil, en om die reden moeten de gegevens van het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt geïmplementeerd middels een mapping van het gegevensmodel van het Bodemkundig wandonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
 
 ### 2. Belangrijkste entiteiten
 
 ### 2.1. Wandonderzoek
 
-**Wandonderzoek**is het geheel van gegevens dat betrekking heeft op een specifiek wandonderzoek dat op een specifiek moment gekoppeld aan een specifieke locatie in Nederland onder een bepaalde opdracht is uitgevoerd. De belangrijkste gegevens om het onderzoek te preciseren zijn het vakgebied en de uitgevoerde deelonderzoeken.
+Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens die het wandonderzoek identificeren en allerlei administratieve gegevens die betrekking hebben op onder meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd (**kader inwinning**), en de grondslag voor de verplichting tot aanlevering (**kader aanlevering**).
 
 Wandonderzoek begint eigenlijk altijd met activiteiten in het veld, het veldwerk, en dat wordt in bepaalde gevallen gevolgd door activiteiten binnenshuis, veelal in een laboratorium. Er is maar een geval waarin er geen werkzaamheden in het veld worden uitgevoerd en dat is wanneer wandonderzoek gebruik maakt van de resultaten uit eerder veldwerk of uit veldwerk dat voor een andere opdrachtgever is uitgevoerd5De eisen die voor de gegevens van dat wandonderzoek moeten gelden zijn nog niet vastgesteld..
 
@@ -1478,7 +6500,7 @@ De **registratiegeschiedenis** van een wandonderzoek geeft de essentie van de ge
 
 ### 2.3. Rapportagegeschiedenis
 
-De resultaten van het wandonderzoek worden niet in een keer maar per deelonderzoek gerapporteerd. Wanneer een deelrapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het registratieobject wandonderzoek.
+De bronhouder beslist of hij de resultaten van een wandonderzoek in delen of in hun geheel gerapporteerd wil krijgen. Wanneer een rapport dat onder de wettelijke verplichtingen valt door de bronhouder is geaccepteerd, wordt het ter registratie aan de landelijke voorziening aangeboden. De **rapportagegeschiedenis** geeft de essentie van het verloop van de rapportage en vormt de zgn. **materiële geschiedenis** van het object wandonderzoek.
 
 ### 2.4. Wandontsluiting
 
@@ -1502,9 +6524,9 @@ Het **wandprofiel** beschrijft de opbouw van de bodem in de wand.
 
 Een wandprofiel heeft een bepaalde **beschrijfkwaliteit** en die geeft aan tot in welk detail de wand is beschreven. De bovenkant van het profiel, de doorsnijding van het maaiveld of de bovenkant van het daarop liggende strooisel, is niet altijd vlak omdat de hoogte binnen de breedte waarover de wand wordt beschreven sterk kan variëren (**vorm bovengrens**).
 
-De opbouw van de bodem wordt beschreven als een opeenvolging van lagen en er wordt onderscheid gemaakt tussen strooisel- en bodemlagen. Op bepaalde plaatsen in de wand kan de laagopbouw verstoord zijn. Wanneer er lokaal buiten de beschrijflijn een verstoring optreedt wordt dat als **plaatselijk fenomeen** beschreven (figuur 3).
+De opbouw van de bodem wordt beschreven als een opeenvolging van lagen en er wordt onderscheid gemaakt tussen strooisel- en bodemlagen. Op bepaalde plaatsen in de wand kan de laagopbouw verstoord zijn. Wanneer er lokaal buiten de beschrijflijn een verstoring optreedt wordt dat als **plaatselijk fenomeen** beschreven (figuur 7).
 
-Maar wanneer verstoringen over de hele breedte van de wand voorkomen, wordt het interval waarin ze optreden als een **Verstoord interval** beschreven (figuur 4).
+Maar wanneer verstoringen over de hele breedte van de wand voorkomen, wordt het interval waarin ze optreden als een **Verstoord interval** beschreven (figuur 8).
 
 In het profiel worden verder een aantal algemene kenmerken van de wand vastgelegd, zoals het niveau van de gemiddelde grondwaterstand, de diepte tot waar beworteling mogelijk is (**bewortelbare diepte**), en de aanwezigheid van een interval dat door toedoen van de mens verdicht is.
 
@@ -1526,35 +6548,129 @@ Wanneer de bewerking zo intensief is geweest dat dat de herkomst van de bestandd
 
 Wat de inhoud van een laag ook is, er kunnen altijd sporen van bodemorganismen (**bodemleven**) en wortels zichtbaar zijn (**beworteld**).
 
-### 2.1. 0 Homogeen materiaal
+### 2.10. Homogeen materiaal
 
-Een bodemlaag die beschreven wordt als een geheel, bestaat soms uit bijzonder materiaal, soms uit gesteente en meestal uit grond. In het eerste geval is het voldoende alleen het materiaal te specificeren. Een laag die uit gesteente bestaat krijgt een **horizontcode** – die overigens een vaste waarde heeft- en verder wordt alleen het soort gesteente nader omschreven. Lagen die uit grond bestaan krijgen een horizontcode en de samenstelling van de grond wordt uitgebreid beschreven (**Grond**). Verder kan het bij grond wenselijk zijn iets vast te leggen over de omstandigheden waaronder de laag gevormd is (**bodemkundige afzettingskarakteristiek**) en de **verzadigde doorlatendheid** te schatten.
+Een bodemlaag die beschreven wordt als een geheel, bestaat soms uit bijzonder materiaal, soms uit gesteente en meestal uit grond. In het eerste geval is het voldoende alleen het materiaal te specificeren. Een laag die uit gesteente bestaat krijgt een **horizontcode** – die overigens een vaste waarde heeft- en verder wordt alleen het soort gesteente nader omschreven. Lagen die uit grond bestaan krijgen een horizontcode en de samenstelling van de grond wordt uitgebreid beschreven (**Grond**). Verder kan het bij grond wenselijk zijn iets vast te leggen over de omstandigheden waaronder de laag gevormd is (**afzettingskarakteristiek**) en de **verzadigde doorlatendheid** te schatten.
 
-### 2.1. 1 Laagcomponent
+### 2.11. Laagcomponent
 
 Van een bodemlaag die heterogeen is wordt iedere component apart beschreven. Het aandeel van een component in de laag wordt altijd geschat. Verder worden dezelfde gegevens vastgelegd als wanneer de inhoud van een laag als een geheel wordt geschreven, zij het dat de inhoud altijd uit grond bestaat.
 
-### 2.1. 2 Grond
+### 2.12. Grond
 
 Van grond kan een grote verscheidenheid aan gegevens worden beschreven. In alle gevallen worden de volgende gegevens vastgelegd: de **bodemkundige grondsoort**, of voor het bepalen van de grondsoortnaam de leemdriehoek is gebruikt, de bijzondere bestanddelen, de **kalkgehalteklasse** en de **kleur**.
 
-Veel van de andere gegevens worden alleen voor bepaalde grondsoorten vastgelegd. Zo wordt van klei- en leemhoudende grond de **rijpingsklasse** vastgelegd, van grond waarvan de naam aangeeft dat er veen in voorkomt, de **veensoort**, en van grond waarvan de naam aangeeft dat er zand in voorkomt, de **zandmediaanklasse**. Afhankelijk van de grondsoort wordt ook een schatting gegeven van het aandeel van de verschillende fracties waaruit de grond bestaat (**Fractieverdeling**). Voor historische gegevens (kwaliteitsregime IMBRO/A) is dat overigens niet altijd het geval en soms ook is de fractieverdeling niet volledig beschreven (**Onvolledige****fractiespecificatie**).
+Veel van de andere gegevens worden alleen voor bepaalde grondsoorten vastgelegd. Zo wordt van klei- en leemhoudende grond de **rijpingsklasse** vastgelegd, van grond waarvan de naam aangeeft dat er veen in voorkomt, de **veensoort**, en van grond waarvan de naam aangeeft dat er zand in voorkomt, de **zandmediaanklasse**. Afhankelijk van de grondsoort wordt ook een schatting gegeven van het aandeel van de verschillende fracties waaruit de grond bestaat (**Fractieverdeling**). Voor historische gegevens (kwaliteitsregime IMBRO/A) is dat overigens niet altijd het geval en soms ook is de fractieverdeling niet volledig beschreven (**Onvolledige fractiespecificatie**).
 
-Een aantal gegevens wordt alleen vastgelegd wanneer de opdracht een hoge kwaliteit van beschrijven vraagt. Voorbeelden daarvan zijn de structuur van de grond (**structuurtype**) en de **geschatte dichtheid**. Voor een bepaald type structuur worden de kenmerken van de structuurelementen in detail beschreven (**Bodem**a**ggregaat;**zie figuur 6).
+Een aantal gegevens wordt alleen vastgelegd wanneer de opdracht een hoge kwaliteit van beschrijven vraagt. Voorbeelden daarvan zijn de structuur van de grond (**structuurtype**) en de **geschatte dichtheid**. Voor een bepaald type structuur worden de kenmerken van de structuurelementen in detail beschreven (**Bodem**a**ggregaat;** zie figuur 10).
 
 De kleur van de grond wordt bij een hoge kwaliteit altijd aan de hand van de Munsell Soil Colour Chart bepaald (**Munsellkleur**). Komen er vlekken voor, dan worden daarvan allerlei details beschreven (**Vlek**).
 
-### 2.1. 3 Bodemclassificatie
+### 2.13. Bodemclassificatie
 
 De bodemclassificatie is het tweede resultaat van de wandbeschrijving. Het is in essentie een samenvatting van de informatie die in het wandprofiel is vastgelegd en is vooral bedoeld is als input voor bodemkundige modellen. Het geeft specialisten direct inzicht in het type bodem ter plaatse.
 
-### 3. Het domeinmodel
+### 2.14. Wandmonsteranalyse
 
-### Basisregistratie Ondergrond (BRO)
+**Wandmonsteranalyse** is het deelonderzoek dat betrekking heeft op het in een laboratorium analyseren van monsters die uit een wand zijn genomen. Het **soort analyse** geeft globaal aan welke bepalingen er zijn uitgevoerd. In (bodem)hydrofysisch onderzoek wordt ernaar gestreefd de reeks van bepalingen volledig uit te voeren om de resultaten in samenhang te verwerken en de focus ligt daarbij op het onderzoek van de fysische relatie tussen het water en de vaste bestanddelen van de bodem. Standaard omvat dit onderzoek de bepaling van basiseigenschappen (met name korrelgrootteverdelingen en organischestofgehalte), van de droge bulkdichtheid, waterdoorlatendheid en waterretentie.
 
-**Catalogus**
+Bodemchemisch onderzoek kent een grote variatie doordat het volledig van de opdracht afhangt welke bepalingen er worden uitgevoerd. In deze versie van de catalogus zijn alleen de bepalingen van basiseigenschappen opgenomen en dat zijn, naast de korrelgrootteverdeling en het organische stofgehalte, de zuurgraad en het organische koolstofgehalte.
 
-Grondwatermonitoringput
+### 2.15. Onderzocht interval
+
+De monsters die geanalyseerd zijn afkomstig uit een bepaald interval dat in het wandprofiel is gedefinieerd. In hydrofysisch onderzoek is het gebruikelijk in het veld een groot aantal monsters te nemen en die afzonderlijk te onderzoeken; voor de verschillende bepalingen gelden daarbij veelal specifieke eisen. Voor bodemchemisch onderzoek is het daarentegen gebruikelijk een groot monster te nemen; na voorbehandeling worden daaruit in het laboratorium kleinere monsters genomen.
+
+Wanneer het doel van de analyse het onderzoeken van een bepaalde horizont is, wordt de code van de horizont (**horizontcode**) vermeld. Aan een onderzocht interval worden altijd een of meer bepalingen gedaan. In de context van de basisregistratie ondergrond worden dat basisgegevens genoemd en dat zijn waarnemingen of metingen die door iedere vakbekwame persoon gedaan kunnen worden. Een bijzonderheid van het hydrofysisch onderzoek is dat er ook ruimte is het resultaat van modelleren vast te leggen (**karakteristiek gemodelleerd**). Het proces van modelleren is in hoge mate gestandaardiseerd. Het modelleren van karakteristieken is een vast onderdeel van standaard hydrofysisch onderzoek.
+
+### 2.16. Bepaling van de zuurgraad.
+
+De zuurgraad (pH) wordt potentiometrisch bepaald van een mengsel van grond of strooisel met water waaraan een bepaalde reagent is toegevoegd. De zuurgraad is een basisgegeven dat altijd wordt bepaald in bodemchemisch onderzoek. Het is een van de kenmerken van het chemisch bodemmilieu en stelt bijvoorbeeld grenzen aan de beschikbaarheid van voor plantengroei essentiële voedingsstoffen.
+
+### 2.17. Bepaling van de korrelgrootteverdeling
+
+Voor de korrelgrootteverdeling wordt de samenstelling van het materiaal bepaald vanuit het perspectief dat grond een mengsel van minerale deeltjes van verschillende grootte is. De deeltjes worden korrels genoemd. Volgens een bepaalde methode, of combinatie van methoden, wordt het aandeel van de gekozen groottefracties in het totale mengsel van alle deeltjes kleiner dan 2 millimeter bepaald. Materiaal groter dan 2 millimeter wordt vooraf uitgezeefd en verder buiten beschouwing gelaten. Koolzure kalk en organische stof worden voorafgaand aan de bepaling verwijderd. Als voorbehandeling kan het nodig zijn samengeklonterde korreltjes van elkaar los te maken (dispersie). De opdracht en de aard van het materiaal bepalen welke methode is gebruikt en welke fracties zijn onderscheiden. De metingen worden altijd omgerekend naar een percentage van de totale massa tot 2 millimeter.
+
+In het verleden is een grote verscheidenheid aan fracties onderscheiden. Sinds het begin van de jaren 2010 bestaat de tendens de keuze te beperken, en vanaf 2020 is de keuze beperkt tot acht varianten. Het resultaat van een historische bepaling die zich niet voegt in de systematiek van de acht varianten wordt als **niet gestandaardiseerde korrelgrootteverdeling** vastgelegd. Bij een gestandaardiseerde korrelgrootteverdeling wordt altijd onderscheid gemaakt tussen de fractie 63 tot 2.000 µm, de fractie 50 tot 63 µm en de fractie kleiner dan 50 µm. De indelingen van de fractie 63 tot 2.000 µm en de fractie kleiner dan 50 µm kennen varianten en de meest toegepaste onderverdeling van een fractie wordt de standaard genoemd.
+
+### 2.18. Bepaling van het organischestofgehalte.
+
+Organisch materiaal speelt een hoofdrol in de goede werking en de vruchtbaarheid van de bodem. Het verbetert de structuur, bevordert de bewerkbaarheid en verhoogt het vermogen van de bodem om water vast te houden.
+
+Het gehalte aan organische stof wordt bepaald door het organisch materiaal op een bepaalde manier te verwijderen en het verlies aan massa te meten. Bij de berekening van het gehalte kan het nodig zijn te corrigeren voor het verlies van water dat aan klei is gebonden (**lutumcorrectie**) of aan ijzeroxiden (**vrij ijzercorrectie**).
+
+Het organischestofgehalte is een basisgegeven in het hydrofysisch onderzoek en bepaalde vormen van bodemchemisch onderzoek.
+
+### 2.19. Bepaling van het organische koolstofgehalte.
+
+Het gehalte aan organische koolstof wordt bepaald door het organisch materiaal volgens een bepaalde methode te oxideren. Het gehalte aan organische koolstof kan worden berekend door de hoeveelheid CO2 die vrijkomt te bepalen, door de vrijgekomen hoeveelheid van een ander reactieproduct te bepalen of door te bepalen hoeveel oxidant er verbruikt is.
+
+Het organische koolstofgehalte is een basisgegeven in de meeste vormen van bodemchemisch onderzoek.
+
+### 2.20. Bepaling van de droge bulkdichtheid
+
+De droge bulkdichtheid is gedefinieerd als de droge massa in een bekend volume. In de huidige praktijk wordt uitgegaan van een waterverzadigd volume en daartoe wordt een monster eerst met water verzadigd voordat het volume wordt bepaald. De reden daarvoor is dat het volume van zwellende en krimpende grond afhangt van de vochttoestand tijdens bemonsteren.
+
+### 2.21. Bepaling van het krimpverloop.
+
+Het verloop van de krimp van grond wordt bepaald door een waterverzadigd monster in stappen droger te laten worden en de massa en het volume bij iedere stap te bepalen tot het helemaal droog is. De massa wordt altijd met een balans bepaald en voor het berekenen van het volume bestaan verschillende methoden.
+
+### 2.22. Bepaling van de waterdoorlatendheid
+
+De waterdoorlatendheid van grond is de snelheid waarmee water erdoorheen stroomt. De waarde wordt in de bodemkunde bepaald door de hoeveelheid water te meten die per eenheid van tijd door een bepaalde oppervlakte stroomt bij een bekende gradiënt van de bodemvochtpotentiaal. De meting wordt uitgevoerd onder de conditie dat de doorstroomsnelheid niet of nauwelijks verandert.
+
+De waterdoorlatendheid is het grootst wanneer de grond verzadigd is met water (**verzadigde waterdoorlatendheid**) en neemt af wanneer de grond droger wordt (**onverzadigde waterdoorlatendheid**). De waterdoorlatendheid wordt bepaald bij een bepaalde waarde van de bodemvochtpotentiaal. De bodemvochtpotentiaal is gelijk aan 0 wanneer de grond met water verzadigd is, en is negatief in onverzadigde grond. Aansluitend bij de praktijk van het laboratorium en de wijze waarop de meetopstelling is ingericht, wordt de bodemvochtpotentiaal uitgedrukt in centimeters waterkolom (drukhoogte). Het verloop van de doorlatendheid wordt in de huidige praktijk bepaald voor het bereik van 0 tot minus 1.000 cm waterkolom. De bepaling van een enkele waarde van de waterdoorlatendheid kan enige dagen tot enige weken in beslag nemen. In de meeste gevallen wordt de doorlatendheid bepaald aan verticaal gestoken monsters (**verticaal bemonsterd**). In sommige gevallen gebeurt dit ook aan horizontaal gestoken monsters en dan kan worden vastgesteld of er sprake is van anisotropie in de doorlatendheid.
+
+De resultaten van de bepaling worden tegenwoordig eigenlijk altijd gebruikt om bepaalde verbanden te modelleren. Het modelleren is een aparte activiteit in de monsteranalyse en de resultaten daarvan worden ook vastgelegd in de basisregistratie ondergrond. Omdat de uitvoerder op basis van de eigen expertise beoordeelt welke gegevens hij gebruikt als input voor het modelleren, wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**) zodat de resultaten van het modelleren teruggevoerd kunnen voeren op de metingen.
+
+### 2.23. Bepaling van de waterretentie stapsgewijs.
+
+Hoeveel water de grond kan vasthouden wordt bepaald door de aard en de structuur van het materiaal. De hoeveelheid water die de grond werkelijk vasthoudt varieert met de bodemvochtpotentiaal. Door de bodemvochtpotentiaal van een grondmonster in het laboratorium te veranderen, en de hoeveelheid water die het bevat bij iedere toestand te meten, bepaalt men de **waterretentie**. De bodemvochtpotentiaal wordt uitgedrukt als drukhoogte in de eenheid centimeters waterkolom.
+
+De bodemvochtpotentiaal kan in stappen worden veranderd, maar ook geleidelijk door verdamping van water uit het monster. De bepaling die op verdamping is gebaseerd staat op zichzelf en is de basis van wat de **bepaling van watergehalte en doorlatendheid bij veranderde bodemvochtpotentiaal** wordt genoemd.
+
+Bij een stapsgewijze bepaling weegt men het monster na het bereiken van een evenwichtssituatie met de ingestelde bodemvochtpotentiaal. Het watergehalte wordt berekend uit het massaverlies en wordt uitgedrukt in volumeprocenten (volumetrisch watergehalte) of in massaprocenten (massa watergehalte). Voor het laatste wordt alleen gekozen bij monsters waarvan de **droge bulkdichtheid** niet bekend is. Men heeft de keuze uit verschillende methoden. Bepaalde methoden leveren een kleine reeks van metingen, andere leveren een enkele meting per monster. De monsters die uit een interval onderzocht worden, zijn bijna altijd monsters die met een ring zijn uitgestoken(**ringmonster gebruikt**). De dimensies van de monsterring (**ringdiameter**, **ringhoogte**) worden dan vastgelegd omdat die bepalen hoe groot het volume grond is waaraan de bepaling is uitgevoerd.
+
+De resultaten van dit soort bepalingen worden ook altijd gebruikt om bepaalde verbanden te modelleren en daarom wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**).
+
+### 2.24. Bepaling van watergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal.
+
+De **bepaling van het watergehalte en de doorlatendheid bij een veranderende bodemvochtpotentiaal** is een bepaling die een aantal stappen kent. Als eerste stap wordt de waterretentie bepaald bij een bodemvochtpotentiaal die door verdamping geleidelijk verandert. Bij deze verdampingsmethode laat de uitvoerder het water in een bij aanvang verzadigd monster geleidelijk verdampen en wordt het massaverlies frequent gemeten. De bodemvochtpotentiaal wordt tegelijkertijd op verschillende posities in het monster gemeten (drukhoogte **h** in centimeters waterkolom). Het massa watergehalte wordt aan het einde bepaald en dat wordt met de **droge bulkdichtheid** omgerekend naar het volumetrisch watergehalte. Op basis van de geregistreerde gewichtsafnamen kan vervolgens het watergehalte voor alle meettijdstippen worden berekend. De bepaling levert een te groot aantal metingen voor verdere verwerking en de uitvoerder selecteert volgens een vast protocol een deelverzameling van metingen die als eerste resultaat worden vastgelegd (**Waterretentie verdamping**). De gegevens over de gebruikte tensiometers (aantal, lengte, diameter, meetpositie in het monster) worden daarbij ook vastgelegd (**Overzicht tensiometergegevens**).
+
+In de resultaat van de verdampingsmethode wordt voor ieder tijdstip het volumetrisch watergehalte van het hele monster gegeven bij de bodemvochtpotentiaal op de meetpunten in het monster. In een volgende stap wordt het volumetrisch watergehalte op de meetpunten zelf bepaald. Die stap wordt de prefit genoemd en daarin maakt met gebruik van het model van Van Genuchten om de curve te definiëren die het verband tussen de bodemvochtpotentiaal en het volumetrisch watergehalte op de meetpunten het best beschrijft. Het resultaat van deze stap wordt niet als zodanig vastgelegd, het wordt gebruikt om de doorlatendheden te berekenen op de grensvlakken die precies tussen ieder paar opeenvolgende meetpunten inliggen. Voor de berekening wordt in de huidige praktijk de zgn. IPM-methode (Instantaneous Profile-methode) gevolgd. Daarmee wordt volgens de wet van Darcy het verband tussen de bodemvochtpotentiaal en de waterdoorlatendheid berekend voor elk paar opeenvolgende tensiometers. Het eindresultaat van de bepaling is een tabel met voor iedere gemeten bodemvochtpotentiaal de berekende waarden voor het watergehalte en de waterdoorlatendheid en die wordt vastgelegd (**Watergehalte en doorlatendheid bij veranderende bodemvochtpotentiaal**).
+
+De resultaten van dit soort bepalingen worden ook altijd gebruikt om bepaalde verbanden te modelleren en daarom wordt van iedere bepaling de identificatie vastgelegd (**bepalingsid**).
+
+### 2.25. Modellering van hydrofysische karakteristieken
+
+De gegevens uit de bepalingen van de waterretentie stapsgewijs, van het watergehalte en de doorlatendheid bij veranderende bodemvochtpotentiaal, en van de waterdoorlatendheid worden gebruikt om hydrofysische karakteristieken te modelleren. Daarvan bestaan twee typen: de waterretentiekarakteristiek en de waterdoorlatendheidskarakteristiek.
+
+De uitvoerder heeft de keuze of alleen de waterretentiekarakteristiek te modelleren of de waterretentiekarakteristiek samen met de waterdoorlatendheidskarakteristiek. Die tweede mogelijkheid bestaat overigens alleen wanneer het watergehalte en de doorlatendheid bij veranderende bodemvochtpotentiaal bepaald zijn.
+
+Een tweede keuze betreft het aantal karakteristieken van een type. De uitvoerder kan er voor kiezen meer dan een karakteristiek van hetzelfde type te maken door een deel van de beschikbare bepalingen als input te nemen. Door meer modellen te maken wordt inzicht verkregen in de spreiding van de resultaten. Welke bepalingen de uitvoerder heeft gekozen wordt altijd vastgelegd (**bepalingsid**).
+
+De modellering van alleen de waterretentiekarakteristiek berust in de huidige praktijk op de methode van Van Genuchten. Voor grond met een heterogene poriënverdeling wordt een variant gebruikt die door Durner (en later door Priesack en Durner) is uitgewerkt. De waterretentiekarakteristiek is een curve die het werkelijk verband tussen watergehalte en bodemvochtpotentiaal zo goed mogelijk beschrijft. De curve is enkelvoudig bij een homogene poriënverdeling en samengesteld bij een heterogene poriënverdeling. De curve wordt gedefinieerd door het bereik van het volumetrisch watergehalte en een of meer sets vormparameters. Het bereik van het volumetrisch watergehalte wordt gegeven door de waarde bij verzadiging (**verzadigd volumetrisch watergehalte**) en een asymptotische residuele waarde (**residueel volumetrisch watergehalte**). Voor de definitie van een enkelvoudige curve is daarnaast een set van drie vormparameters (**Vorm retentiecurve**) voldoende. Voor een curve die uit samenstellende curves is opgebouwd zijn er meer sets nodig. Ieder van die sets heeft als extra parameter een zogenaamde **wegingsfactor** en die is nodig om de bijdrage van de curve aan de samengestelde curve te definiëren. De som van die wegingsfactoren is gelijk aan 1.
+
+De modellering van de waterretentiekarakteristiek en de doorlatendheidskarakteristiek is in de huidige praktijk gebaseerd op de methode van Mualem en Van Genuchten. Voor grond met een heterogene poriënverdeling wordt ook hier een variant gebruikt die door Durner (en later door Priesack en Durner) is uitgewerkt. De waterretentiekarakteristiek is hierboven al beschreven. De waterdoorlatendheidskarakteristiek is een vergelijkbare curve maar om de vorm ervan te beschrijven is een parameter meer nodig, de **vormfactor lambda**. De curve beschrijft het werkelijk verband tussen waterdoorlatendheid en bodemvochtpotentiaal zo goed mogelijk.
+
+De twee karakteristieken worden onder meer gebruikt als input voor modellen waarmee de waterbeweging in de bodem wordt gesimuleerd.
+
+Aanpak: (1) open het document met de naam [afkorting]-cat.msword.html in MsWord. (2) Selecteer alles. (3) Kopieer naar clipboard. (4) Ga naar dit document. (5) Paste vanaf clipboard (6) Verwijder wat boven de horizontale streep staat.
+
+Hierna dit document gereed maken: (1) Verwijder eventuele de onderdelen die je niet wilt opnemen in je documentatie. (2) Trek de tabel kolommen die de maten 4.2x12.3 moeten hebben recht met macro **AutoFitWindowForSelectedTables**. (3) maak de figuren in de laatste sectie op maat (met de hand) (4) Pas de pagina header aan. (5) Ververs de table of contents.
+
+Speciaal voor de BRO (1) hyperlinks verwijderen: Ctrl+a om alle tekst te selecteren en dan op Ctrl+shift+F9 (2) Herhaalde tabelkoppen zijn alleen zichtbaar in de Afdrukweergave, of als u het document afdrukt. Selecteer de rij of rijen met koppen. De eerste rij van de tabel moet in deze selectie worden opgenomen. Klik onder **Hulpmiddelen voor tabellen** op het tabblad **Indeling**, in de groep **Gegevens**, op **Koptekstrijen herhalen**
+
+Toevoegingen op bovenstaande instructie
+
+Handmatig de bijschriften bij figuren toevoegen en daarbij gebruik maken van Verdana 8 cursief voor de gehele tekst.
+
+## Bijlage VII. behorend bij [artikel 11, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01) van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatermonitoringput en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+Datum: 10 september 2019
+
+Versie: 1.01
 
 **Inhoudsopgave**
 
@@ -1566,37 +6682,193 @@ Grondwatermonitoringput
 
 ### 1. Grondwatermonitoringput
 
+### 1.1. BRO-ID
+
+### 1.2. bronhouder
+
+### 1.3. object-ID bronhouder
+
+### 1.4. dataleverancier
+
+### 1.5. kwaliteitsregime
+
+### 1.6. met voorgeschiedenis
+
+### 1.7. kader aanlevering
+
+### 1.8. kwaliteitsnorm inrichting
+
+### 1.9. initiële functie
+
+### 1.10. opgeruimd
+
+### 1.11. aantal monitoringbuizen
+
+### 1.12. maaiveld stabiel
+
+### 1.13. putstabiliteit
+
+### 1.14. Nitg-code
+
+### 1.15. putcode
+
+### 1.16. eigenaar
+
+### 1.17. onderhoudende instantie
+
+### 1.18. beschermconstructie
+
 ### 2. Registratiegeschiedenis
+
+### 2.1. tijdstip registratie object
+
+### 2.2. registratiestatus
+
+### 2.3. tijdstip laatste aanvulling
+
+### 2.4. tijdstip voltooiing registratie
+
+### 2.5. gecorrigeerd
+
+### 2.6. tijdstip laatste correctie
+
+### 2.7. in onderzoek
+
+### 2.8. in onderzoek sinds
+
+### 2.9. uit registratie genomen
+
+### 2.10. tijdstip uit registratie genomen
+
+### **2.11** **weer in registratie genomen**
+
+### **2.12** **tijdstip weer in registratie genomen**
 
 ### 3.0. Putgeschiedenis
 
+### 3.0.1. inrichtingsdatum put
+
+### 3.0.2. opruimingsdatum put
+
 ### 3.1. Tussentijdse gebeurtenis
+
+### 3.1.1. naam gebeurtenis
+
+### 3.1.2. datum gebeurtenis
 
 ### 4. Aangeleverde locatie
 
+### 4.1. coördinaten
+
+### 4.2. referentiestelsel
+
+### 4.3. methode locatiebepaling
+
 ### 5. Aangeleverde verticale positie
+
+### 5.1. lokaal verticaal referentiepunt
+
+### 5.2. verschuiving
+
+### 5.3. verticaal referentievlak
+
+### 5.4. maaiveldpositie
+
+### 5.5. methode positiebepaling maaiveld
 
 ### 6. Gestandaardiseerde locatie
 
+### 6.1. coördinaten
+
+### 6.2. referentiestelsel
+
+### 6.3. coördinaattransformatie
+
 ### 7.0. Monitoringbuis
+
+### 7.0.1. buisnummer
+
+### 7.0.2. buistype
+
+### 7.0.3. voorzien van drukdop
+
+### 7.0.4. voorzien van zandvang
+
+### 7.0.5. aantal geo-ohmkabels
+
+### 7.0.6. buisdeel ingeplaatst
+
+### 7.0.7. diameter bovenkant buis
+
+### 7.0.8. variabele diameter
+
+### 7.0.9. buisstatus
+
+### 7.0.10. positie bovenkant buis
+
+### 7.0.11. methode positiebepaling bovenkant buis
+
+### 7.0.12. buis in gebruik
 
 ### 7.1. Toegepast materiaal
 
+### 7.1.1. aanvulmateriaal buis
+
+### 7.1.2. buismateriaal
+
+### 7.1.3. lijm
+
 ### 7.2. Filter
+
+### 7.2.1. filterlengte
+
+### 7.2.2. kousmateriaal
+
+### 7.2.3. positie bovenkant filter
+
+### 7.2.4. positie onderkant filter
 
 ### 7.3. Stijgbuisdeel
 
+### 7.3.1. lengte stijgbuisdeel
+
 ### 7.4. Zandvang
+
+### 7.4.1. zandvanglengte
 
 ### 7.5. Geo-ohmkabel
 
+### 7.5.1. kabelnummer
+
+### 7.5.2. kabel in gebruik
+
 ### 7.6. Elektrode
 
+### 7.6.1. elektrodenummer
+
+### 7.6.2. aanvulmateriaal elektrode
+
+### 7.6.3. elektrodestatus
+
+### 7.6.4. elektrodepositie
+
 ### 7.7. Ingeplaatst deel
+
+### 7.7.1. lengte ingeplaatst deel
+
+### 7.7.2. diameter bovenkant ingeplaatst deel
+
+### 7.7.3. materiaal ingeplaatst deel
 
 ### Artikel 2. Beschrijving van de enumeraties en codelijsten
 
 ### 2.1. Enumeraties
+
+**IndicatieJaNee**
+
+**IndicatieJaNeeOnbekend**
+
+**Kwaliteitsregime**
 
 ### 2.2. Codelijsten
 
@@ -1606,7 +6878,7 @@ Grondwatermonitoringput
 
 ### 3. Beschermconstructie
 
-### Buismateriaal
+**Buismateriaal**
 
 **Buisstatus**
 
@@ -1710,17 +6982,937 @@ De putgeschiedenis geeft aan wanneer de put is ingericht, wanneer die is opgerui
 
 ### 3. Het domeinmodel
 
-### Basisregistratie Ondergrond (BRO)
+## Bijlage VIII. behorend bij [artikel 11, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-**Catalogus**
+Deze bijlage betreft de catalogus van het registratieobject grondwatermonitoringnet en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
-Bodemkaart
+Datum: 31 december 2019
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Het domeinmodel
+
+**Domeinmodel**
+
+### 2. Registratieobject
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwatermonitoringnet
+
+**Grondwatermonitoringnet**
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. naam
+
+### 3.1.7. kader aanlevering
+
+### 3.1.8. monitoringdoel
+
+### 3.1.9. grondwateraspect
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3. Monitoringnetgeschiedenis
+
+**Monitoringnetgeschiedenis**
+
+### 3.3.1. begindatum monitoring
+
+### 3.3.2. einddatum monitoring
+
+### 3.4. Tussentijdse gebeurtenis
+
+**Tussentijdse gebeurtenis**
+
+### 3.4.1. naam gebeurtenis
+
+### 3.4.2. datum gebeurtenis
+
+### 3.5. Meetpunt
+
+**Meetpunt**
+
+### 3.5.1. meetpuntcode
+
+### 3.6. Gmw-monitoringbuis
+
+**GMW-monitoringbuis**
+
+### 3.6.1. BRO-ID
+
+### 3.6.2. buisnummer
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. GrondwaterAspect
+
+### 1.2. KaderAanlevering
+
+### 1.3. Monitoringdoel
+
+### 1.4. Registratiestatus
+
+### 1.5. NaamGebeurtenis
+
+### Toelichting
+
+### 1. Grondwatermonitoringnet
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het Besluit basisregistratie ondergrond is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond, namelijk dat die gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het Besluit basisregistratie ondergrond staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatermonitoringnet.
+
+De monitoring van de kwaliteit van de ondiepe bodem met het daarin aanwezige grondwater (bodemvocht), zoals dat gedaan wordt om de gevolgen van met name landbouwactiviteiten te kunnen volgen, valt buiten de scope van het registratieobject Grondwatermonitoringnet. De volledige scopeafbakening is beschreven in het Scopedocument grondwatermonitoringnet GMN.
+
+### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatermonitoringnet.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als **meetpunt** in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringsput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellings- of grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellings- of grondwaterstandonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwatersamenstellings- en grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het onderzoek. Deze bronhouder levert het onderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het onderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan.
+
+Op de website basisregistratie ondergrond is meer informatie te vinden over grondwatersamenstellingsonderzoek en grondwaterstandonderzoek.
+
+### 1.3. Wettelijk kader en monitoringdoel
+
+Met het registratieobject Grondwatermonitoringnet wordt de groepering van samenhangende onderzoeksgegevens, namelijk van onderzoeken die vanuit hetzelfde bepaalde doel zijn uitgevoerd, tot een gegevensset gefaciliteerd. Naast de (her)gebruikswaarde van de afzonderlijke onderzoeksgegevens, ontstaat hiermee toegevoegde (her)gebruikswaarde door groepering in een gegevensset. Bestuursorganen en andere gebruikers worden met deze gegevenssets in staat gesteld om huidige en toekomstige geohydrologische vraagstukken beter en efficiënter te beantwoorden.
+
+Een grondwateronderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden: een onderzoek kan in het kader van meerdere grondwatermonitoringnetten tegelijk zijn uitgevoerd, en dus deel uitmaken van meerdere gegevenssets. In het registratieobject Grondwatermonitoringnet worden daartoe het doel van de monitoring (**monitoringdoel**) vastgelegd en het wettelijk kader waar dit doel uit volgt (**kader aanlevering**). In de bijlage is een overzicht opgenomen van de wettelijke kaders en de daarbij behorende monitoringdoelen.
+
+Bij de registratieobjecten Grondwatersamenstellingsonderzoek en Grondwaterstandonderzoek wordt vastgelegd ten behoeve van welk(e) monitoringnet(ten) het onderzoek is uitgevoerd. Het **kader aanlevering** van een grondwatermonitoringnet geldt daarmee ook voor de aan het monitoringnet gekoppelde onderzoeken.
+
+De wettelijke kaders waarbinnen grondwatermonitoring plaatsvindt, staan in de codelijst KaderAanlevering. In deze codelijst zijn alleen wetten opgenomen die op dit moment in werking zijn. Er wordt op dit moment gewerkt aan de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885). Het is de ambitie om verschillende wetten die in de codelijst KaderAanlevering staan, waaronder de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en de [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505), te laten opgaan in de Omgevingswet. De Omgevingswet is nog niet in werking getreden, en is daarom niet opgenomen in de codelijst KaderAanlevering.
+
+In de basisregistratie ondergrond ligt alleen de huidige rechtsgrond vast op basis waarvan de monitoring plaatsvindt. Aangezien de wetgeving kan veranderen gedurende de periode van monitoren, terwijl het monitoringdoel gelijk kan blijven, geldt dat de rechtsgrond gedurende de levensduur van het grondwatermonitoringnet kan veranderen. In dat geval geeft de bronhouder de nieuwe waarde voor **kader aanlevering** door, en vervangt dit de waarde die op dat moment vastligt. In de basisregistratie ondergrond ligt van **kader aanlevering** alleen de huidige waarde vast, er wordt van dit gegeven geen materiële geschiedenis bijgehouden.
+
+### 1.4. Meetpunten
+
+Om aan te geven op welke locaties er onderzoek wordt gedaan ten behoeve van het monitoringdoel, ligt bij een grondwatermonitoringnet vast welke meetpunten onderdeel zijn van het net. Een meetpunt wordt gevormd door een filter dat zich in een monitoringbuis van een grondwatermonitoringput bevindt. In de basisregistratie ondergrond wordt de verwijzing naar deze monitoringbuis vastgelegd door middel van **het BRO-ID** van de grondwatermonitoringput en het **buisnummer**. Het grondwatermonitoringnet en de grondwatermonitoringputten kunnen overigens verschillende bronhouders hebben.
+
+Het meetpunt wordt binnen de basisregistratie ondergrond geïdentificeerd door de **meetpuntcode**. Deze code is uniek binnen het grondwatermonitoringnet en wordt door de bronhouder bepaald en aangeleverd.
+
+De verzameling meetpunten geeft de samenstelling van het grondwatermonitoringnet weer, en geeft inzicht in het gebied waarin wordt gemonitord. De verzameling meetpunten waaruit het monitoringnet bestaat, kan veranderen in de tijd: de verzameling meetpunten kan worden uitgebreid en/of ingekrompen. In de tijd kunnen ook meetpunten zelf veranderen: een meetpunt kan opeenvolgend gevormd worden door verschillende, in buizen aanwezige filters. Deze filters kunnen onderdeel zijn van verschillende grondwatermonitoringputten. Bijvoorbeeld wanneer een filter verstopt raakt of de put kapot gaat en vervangen wordt door een nieuwe put. Als de bronhouder van een grondwatermonitoringnet de vervangende put en de daarin aanwezige buis met filter met het oog op het monitoringdoel van het monitoringnet beschouwt als voldoende vergelijkbaar met het oude filter (in de voorgaande put), dan kan hij ervoor kiezen om het meetpunt voort te zetten met het vervangende filter in de buis van de (vervangende) put.
+
+Om de geohydrologische context te kunnen begrijpen, moet de gebruiker van de basisregistratie ondergrond de volledige, door de bronhouder gedefinieerde, gegevensset van een grondwatermonitoringnet kunnen raadplegen. Voor optimale herbruikbaarheid is het daarom nodig dat deze verzameling van meetpunten volledig en juist in de basisregistratie ondergrond wordt vastgelegd. Om het aanleveren van gegevens van de verschillende registratieobjecten in het grondwaterdomein gemakkelijker te maken is het is niet verplicht om deze gegevens meteen bij registratie volledig aan te leveren. Bij een grondwatermonitoringnet moet wel altijd minstens één koppeling zijn met een monitoringbuis van een grondwatermonitoringput als meetpunt, zodat het grondwatermonitoringnet op elk moment in de tijd via een gekoppelde grondwatermonitoringput gerelateerd kan worden aan een locatie. De verzameling van meetpunten kan eventueel na registratie van het grondwatermonitoringnet op een later moment compleet gemaakt worden.
+
+### 1.4.1. Aanduiding buis in gebruik in Grondwatermonitoringput
+
+In het registratieobject Grondwatermonitoringput ligt voor elke buis in de put vast of het filter in die buis in gebruik is (attribuut **buis in gebruik**). Deze aanduiding geeft aan of het filter van de monitoringbuis een actueel meetpunt vormt in een grondwatermonitoringnet. Een filter vormt een actueel meetpunt als er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het al dan niet gekoppeld zijn van grondwatersamenstellingsonderzoeken of grondwaterstandonderzoeken aan de betreffende buis van de put is niet van invloed op de waarde van **buis in gebruik**.
+
+De waarde van het attribuut **buis in gebruik** wordt door de basisregistratie ondergrond afgeleid. Dit wordt niet door een bronhouder aangeleverd. Wanneer de gegevens van de buis worden aangeleverd aan de basisregistratie ondergrond in het registratieobject Grondwatermonitoringput, krijgt **buis in gebruik** initieel de waarde 'onbekend'. Wanneer een bronhouder een verandering doorgeeft in een meetpunt van een monitoringnet, dan past de basisregistratie ondergrond, als dat nodig is, ook de waarde van **buis in gebruik** aan voor de betreffende buis in de grondwatermonitoringput. Dit zorgt ervoor dat **buis in gebruik** op 'ja' staat wanneer er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het staat op 'nee' wanneer dit niet het geval is.
+
+### 1.5. Object met een levensloop
+
+Het grondwatermonitoringnet is een object met een levensloop. Een grondwatermonitoringnet bestaat voor langere tijd, en tijdens zijn bestaan kunnen veranderingen optreden die geregistreerd moeten worden in de basisregistratie ondergrond. Registratie van gegevens van een grondwatermonitoringnet is dus geen eenmalige gebeurtenis, maar een proces dat zo lang duurt als het grondwatermonitoringnet bestaat. De levensloop van een grondwatermonitoringnet heeft een begin en een eind, en loopt gelijk met de periode waarin wordt gemonitord.
+
+De **monitoringnetgeschiedenis** bevat het geheel van gebeurtenissen dat de geschiedenis van het monitoringnet in de werkelijkheid beschrijft: de monitoringgeschiedenis geeft aan wat de begindatum van monitoring is, wat de einddatum van monitoring is en welke gebeurtenissen er tussentijds hebben plaatsgevonden.
+
+Bij het registreren van het grondwatermonitoringnet geeft de bronhouder de **begindatum monitoring** op. Wanneer de reeds bestaande monitoringnetten voor het eerst in de basisregistratie ondergrond geregistreerd worden, zal de begindatum voor deze monitoringnetten in het verleden liggen.
+
+Tot het moment van beëindigen blijft een grondwatermonitoringnet vanuit het oogpunt van de basisregistratie ondergrond actief. Ook als er gedurende enige of langere tijd geen grondwatersamenstellingsonderzoeken aan gekoppeld worden, of lopende grondwaterstandonderzoeken aan gekoppeld zijn. Bij het eindigen van het monitoren binnen een bepaald grondwatermonitoringnet geeft de bronhouder de **einddatum monitoring** op. De gegevens van het grondwatermonitoringnet en de onderzoeken die eraan gekoppeld zijn blijven na die einddatum opvraagbaar voor gebruikers.
+
+Wanneer zich gedurende de levensloop van een grondwatermonitoringnet een relevante verandering voordoet, worden de nieuwe gegevens aangeboden aan de basisregistratie ondergrond. Deze veranderingen worden vastgelegd als **Tussentijdse gebeurtenis**. Van elke tussentijdse gebeurtenis wordt de **naam gebeurtenis** en de **datum gebeurtenis** vastgelegd. Tussentijds kan de verzameling meetpunten veranderen; er kunnen meetpunten bijkomen (**meetpuntToevoegen**) en afvallen (**meetpuntBeëindigen**). Dit betekent dat van elk meetpunt de begin- en de einddatum wordt vastgelegd. Deze informatie is ook opvraagbaar voor gebruikers.
+
+Bij een meetpunt kan tevens de verwijzing naar de monitoringbuis in de grondwatermonitoringput wijzigen (**monitoringbuisVervangen**) zie paragraaf 1.4, Meetpunten. De vervangingsdatum van de, aan het meetpunt gekoppelde monitoringbuis in een put, wordt vastgelegd en is daarmee door gebruikers opvraagbaar. Een meetpunt moet altijd een verwijzing naar een monitoringbuis in een put bevatten. De registratie van de tussentijdse gebeurtenis monitoringbuisVervangen kan daarom pas plaatsvinden nadat de grondwatermonitoringput en de monitoringbuis zijn geregistreerd in de basisregistratie ondergrond.
+
+In de registratiegeschiedenis van elk registratieobject ligt vast sinds wanneer het is geregistreerd in de basisregistratie ondergrond (**tijdstip registratie object**) en wanneer de registratie is voltooid (**tijdstip voltooiing registratie**). Dit is onderdeel van de formele geschiedenis van het registratieobject. De **begindatum** en **einddatum monitoring** van het monitoringnet kunnen andere datums zijn dan de datums in de formele geschiedenis. De begin- en einddatum monitoring zijn onderdeel van de **Monitoringnetgeschiedenis.** De monitoringnetgeschiedenis vormt de materiële geschiedenis van het registratieobject. Voor uitleg over materiële en formele geschiedenis van objecten: zie de inleidende tekst in het begeleidende document.
+
+### 1.6. Kwaliteit en kwantiteit
+
+In het kader van een grondwatermonitoringnet wordt onderzoek gedaan naar de kwaliteit of kwantiteit van het grondwater. Het komt ook voor dat er onderzoeken worden uitgevoerd naar beide grondwateraspecten: zowel de kwaliteit als de kwantiteit. In dat geval is wel altijd één van beide grondwateraspecten primair, en vinden er ondersteunend ook onderzoeken aan het andere aspect plaats. Bijvoorbeeld: in sommige monitoringnetten voor kwantiteit worden ook chloridegehaltes gemeten ten behoeve van eventuele correcties (‘zoutcorrecties’).
+
+Voor de aspecten kwaliteit en kwantiteit zijn er afzonderlijke monitoringdoelen. In het geval dat er in het kader van het grondwatermonitoringnet metingen aan zowel de kwaliteit als de kwantiteit worden gedaan, wordt het monitoringdoel bij het primaire, meest belangrijke aspect vastgelegd in de basisregistratie ondergrond. Naast onderzoeken aan het primaire grondwateraspect, kunnen er ook onderzoeken aan het andere aspect gekoppeld zijn aan het grondwatermonitoringnet. Bijvoorbeeld: aan een grondwatermonitoringnet waarin primair het aspect kwantiteit wordt gemonitord, kunnen naast grondwaterstandonderzoeken ook grondwatersamenstellingsonderzoeken gekoppeld worden.
+
+In de basisregistratie ondergrond wordt, naast het **monitoringdoel**, het **grondwateraspect** ook in een eigen attribuut vastgelegd. De gebruiker kan hierdoor grondwatermonitoringnetten selecteren op basis van het aspect dat gemonitord wordt: kwaliteit of kwantiteit.
+
+### 1.7. Kwaliteitsregime IMBRO/A
+
+Een belangrijk aandachtspunt in het domein grondwatermonitoring is het in de basisregistratie ondergrond registreren van historische onderzoeksgegevens van grondwaterkwaliteit en grondwaterstanden. Deze zijn mogelijk niet onder te brengen in een scherp gedefinieerd monitoringnet met bijbehorend wettelijk kader conform de eisen van kwaliteitsregime IMBRO.
+
+Voor historische onderzoeksgegevens zijn het wettelijk kader en het monitoringdoel niet altijd bekend. Deze historische gegevens kunnen aan een grondwatermonitoringnet gekoppeld worden met kwaliteitsregime IMBRO/A. Grondwatermonitoringnetten onder kwaliteitsregime IMBRO/A zijn bedoeld als administratieve oplossing om in de basisregistratie ondergrond historische onderzoeksgegevens, bijvoorbeeld uit archiefoverdracht, te kunnen registreren waarvan niet (meer) bekend is binnen welk(e) monitoringnet(ten) deze tot stand zijn gekomen. Onder kwaliteitsregime IMBRO/A is het daarom mogelijk om grondwatermonitoringnetten te definiëren zonder specifiek wettelijk kader (kader aanlevering 'archiefoverdracht') en zonder specifiek monitoringdoel (monitoringdoel 'onbekend'). Wanneer het monitoringdoel 'onbekend' opgegeven is, kan de bronhouder er daarnaast voor kiezen om het grondwateraspect 'onbekend' vast te leggen, in plaats van specifiek 'kwaliteit' of 'kwantiteit'.
+
+Grondwatermonitoringnetten onder IMBRO/A moeten altijd betrekking hebben op een periode in het verleden: bij registratie geeft de bronhouder een **einddatum monitoring** in het verleden op, of anders een **einddatum monitoring** met de waarde 'onbekend'.
+
+### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’, en de beschrijving over het gegeven buis in gebruik in paragraaf ‘Aanduiding buis in gebruik in Grondwatermonitoringput’.
+
+Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af, behalve op het gebied van verwijzingen zoals hieronder beschreven.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’):
+
+Daarnaast wordt op de volgende punten consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.8.1. Buiten scope
+
+Binnen het geheel van grondwatersamenstellingsonderzoeken die gekoppeld zijn aan een grondwatermonitoringnet, wordt soms nog een verdere groepering onderkend in meetrondes. In een meetronde wordt samenhang aangebracht tussen grondwatersamenstellingsonderzoeken die in dezelfde periode zijn uitgevoerd in verschillende meetpunten. Deze zijn door de bronhouder bedoeld om een samenhangende gegevensset te vormen. Het concept meetronde is niet opgenomen in de basisregistratie ondergrond, en maakt dus geen deel uit van het registratieobject Grondwatermonitoringnet.
+
+### 1.9. Inspire
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatermonitoringnet valt onder het INSPIRE-thema Environmental monitoring facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatermonitoringnet op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+### 1.10. Bijlage: Wettelijk kader en monitoringdoel
+
+In onderstaande overzicht is aangegeven:
+
+1 Dit **monitoringdoel** komt voor binnen meerdere **kaders aanlevering**.
+
+## Bijlage IX. behorend bij [artikel 11, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatersamenstellingsonderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+Datum 15 november 2019
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Het domeinmodel
+
+### 2. Registratieobject
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwatersamenstellingsonderzoek
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. beoordelingsprocedure
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip voltooiing registratie
+
+### 3.2.4. gecorrigeerd
+
+### 3.2.5. tijdstip laatste correctie
+
+### 3.2.6. in onderzoek
+
+### 3.2.7. in onderzoek sinds
+
+### 3.2.8. uit registratie genomen
+
+### 3.2.9. tijdstip uit registratie genomen
+
+### 3.2.10. weer in registratie genomen
+
+### 3.2.11. tijdstip weer in registratie genomen
+
+### 3.3. Grondwatermonitoringnet
+
+### 3.3.1. BRO-ID
+
+### 3.4. Gmw-monitoringbuis
+
+### 3.4.1. BRO-ID
+
+### 3.4.2. buisnummer
+
+### 3.5. Veldonderzoek
+
+### 3.5.1. tijdstip veldonderzoek
+
+### 3.5.2. uitvoerder veldonderzoek
+
+### 3.5.3. bemonsteringsprocedure
+
+### 3.6. Bemonsteringsapparaat
+
+### 3.6.1. pomptype
+
+### 3.7. Veldwaarneming
+
+### 3.7.1. hoofdkleur
+
+### 3.7.2. bijkleur
+
+### 3.7.3. kleursterkte
+
+### 3.7.4. afwijkend gekoeld
+
+### 3.7.5. afwijking in meetapparatuur
+
+### 3.7.6. contaminatie door verbrandingsmotor
+
+### 3.7.7. filter belucht
+
+### 3.7.8. grondwaterstand teveel gedaald
+
+### 3.7.9. inline filter afwijkend
+
+### 3.7.10. monster belucht
+
+### 3.7.11. slang hergebruikt
+
+### 3.7.12. temperatuur moeilijk te bepalen
+
+### 3.8. Veldmeting
+
+### 3.8.1. parameter
+
+### 3.8.2. veldmeetwaarde
+
+### 3.8.3. status kwaliteitscontrole
+
+### 3.9. Laboratoriumonderzoek
+
+### 3.9.1. uitvoerder laboratoriumonderzoek
+
+### 3.10. Analyseproces
+
+### 3.10.1. analysedatum
+
+### 3.10.2. bepalingstechniek
+
+### 3.10.3. bepalingsprocedure
+
+### 3.11. Analyse
+
+### 3.11.1. parameter
+
+### 3.11.2. analysemeetwaarde
+
+### 3.11.3. limietsymbool
+
+### 3.11.4. rapportagegrens
+
+### 3.11.5. status kwaliteitscontrole
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. Parameterlijst
+
+### 1.2. Bemonsteringsprocedure
+
+### 1.3. Beoordelingsprocedure
+
+### 1.4. Kleur
+
+### 1.5. Kleursterkte
+
+### 1.6. LimietSymbool
+
+### 1.7. Pomptype
+
+### 1.8. Registratiestatus
+
+### 1.9. StatusKwaliteitscontrole
+
+### 1.10. Waardebepalingsprocedure
+
+### 1.11. Waardebepalingstechniek
+
+### Toelichting
+
+### 1. Grondwatersamenstellingsonderzoek
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
+
+In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het Besluit basisregistratie ondergrond is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond namelijk dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het Besluit basisregistratie ondergrond staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatersamenstellingsonderzoek.
+
+De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwatersamenstelling, omdat zij daarin een wettelijke taak hebben zijn RIVM, Rijkswaterstaat, provincies, waterschappen, gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwatersamenstelling, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe)bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen) en natuurterreinbeheerorganisaties. Deze organisaties doen periodiek grondwatersamenstellingsonderzoek en hebben daarvoor grondwatermonitoringnetten. Het bestuursorgaan dat optreedt als bevoegd gezag **kan** het registreren van deze gegevens als voorwaarde opnemen in de beschikking van de betreffende vergunningsaanvragen.
+
+De volledige scopeafbakening is beschreven in het Scopedocument grondwatersamenstellings-onderzoek GAR.
+
+### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject Grondwatersamenstellingsonderzoek.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond.
+
+Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput. Naast putten kunnen ook bronnen gebruikt worden in grondwatersamenstellingsmonitoring. Een bron is een locatie waar het grondwater uittreedt aan het maaiveld. Op dit moment voorziet de basisregistratie het registreren van bronnen niet. Voorzien wordt dat de gegevensdefinitie van de grondwatermonitoringput aangepast wordt, zodat het mogelijk wordt om bronnen te registreren.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellingsonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellingsonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwatersamenstellingsonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwatersamenstellingsonderzoek. Deze bronhouder levert het grondwatersamenstellingsonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwatersamenstellingsonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 1.3. Het grondwatersamenstellingsonderzoek
+
+### 1.3.1. Inleiding
+
+Een **grondwatersamenstellingsonderzoek** is een monitoringactiviteit gericht op het onderzoeken van de samenstelling van een grondwatermonster uit een bepaald meetpunt in de ondergrond. In plaats van samenstelling van het grondwater wordt ook wel gesproken over kwaliteit van het grondwater. In deze catalogus doelen we met beide op hetzelfde. Een meetpunt wordt gevormd door een **filter** van een monitoringbuis in een **grondwatermonitoringput** (zie paragraaf 1.2 van deze toelichting). Een grondwatersamenstellingsonderzoek wordt uitgevoerd door of in opdracht van een bronhouder en wordt gedaan in het kader van een of meerdere monitoringdoelen.
+
+Een grondwatersamenstellingsonderzoek wordt uitgevoerd in meerdere delen. Het eerste deel van het onderzoek wordt in het veld verricht. Het tweede deel vindt plaats in het laboratorium. In enkele gevallen vindt er geen laboratoriumonderzoek plaats en bestaat het grondwatersamenstellingsonderzoek uit uitsluitend veldmetingen. Het kan ook voorkomen dat het laboratoriumonderzoek wordt uitgevoerd in meer dan één laboratorium. De resultaten van de verschillende delen van het onderzoek worden, na beoordeling door de bronhouder, samen geregistreerd in de basisregistratie ondergrond.
+
+In tegenstelling tot de relatief snel variërende stand van het grondwater (grondwaterstanden veranderen binnen een dag), verandert de samenstelling van het grondwater relatief langzaam. Dit komt doordat grondwater zich langzaam verplaatst door de ondergrond. Grondwatersamenstellingsonderzoeken worden daarom doorgaans maar één keer of hooguit een paar keer per jaar uitgevoerd op een locatie. In de meetpunten in het landelijke monitoringnet en in de meetpunten in de provinciale monitoringnetten wordt er bijvoorbeeld jaarlijks één grondwatersamenstellingsonderzoek uitgevoerd. Als er lokaal reden is om de grondwatersamenstelling beter in de gaten te houden, omdat daar bijvoorbeeld drinkwater onttrokken wordt of er activiteiten plaatsvinden die invloed kunnen hebben op de grondwatersamenstelling, kan er besloten worden om de onderzoeksfrequentie te verhogen.
+
+### 1.3.2. Het proces
+
+Een grondwatersamenstellingsonderzoek wordt uitgevoerd aan de hand van verschillende protocollen. Zowel bij het veldonderzoekdeel als bij het laboratoriumdeel als bij de beoordeling wordt gewerkt volgens vastgestelde voorschriften, normen en richtlijnen.
+
+Het verloop van het proces is schematisch weergegeven in de onderstaande figuur en daaronder beschreven. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. De eerste drie stappen van het proces zijn kort beschreven in paragraaf 1.1 en 1.2 van deze toelichting en uitgebreider in het Scopedocument grondwatersamenstellingsonderzoek GAR. Een handboek voor inname beschrijft het proces dat bij het leveren van gegevens aan de basisregistratie ondergrond wordt doorlopen. In deze catalogus beschrijven we alleen de onderdelen veldonderzoek, labonderzoek en controleren en beoordelen.
+
+### 1.4. Belangrijkste entiteiten
+
+In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie. Als eerst wordt de hoofdentiteit beschreven, daarna de entiteiten van het veldonderzoek en de entiteiten van het laboratoriumonderzoek. Het resultaat van de beoordeling, de kwaliteitsstatus van de gegevens, is onderdeel van zowel het veldonderzoek als het laboratoriumonderzoek.
+
+### 1.4.1. Grondwatersamenstellingsonderzoek
+
+Informatie uit de periodieke grondwatersamenstellingsonderzoeken wordt in de basisregistratie ondergrond geregistreerd als het registratieobject Grondwatersamenstellingsonderzoek. Dit registratieobject omvat de, van een beoordelingsresultaat voorziene, definitieve meetwaarden van een op grondwatersamenstelling gericht onderzoek dat aan een grondwatermonster uit een bepaald meetpunt is verricht. Daarbij is een uitgangspunt dat een grondwatersamenstellingsonderzoek één bronhouder heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn. Daarnaast is een uitgangspunt dat alle gegevens van het grondwatersamenstellingsonderzoek tegelijk worden aangeleverd aan de basisregistratie ondergrond. De resultaten van het veldonderzoekdeel en het laboratoriumonderzoekdeel binnen één grondwatersamenstellingsonderzoek worden dus samen aangeleverd.
+
+Een grondwatersamenstellingsonderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject Grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) geregistreerd en het wettelijk kader waar dit doel uit volgt (kader aanlevering). In het registratieobject grondwatersamenstellingsonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwatersamenstellingsonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 van deze toelichting) is het doel en het wettelijk kader van het grondwatersamenstellingsonderzoek indirect geregistreerd. De verwijzing naar het grondwatermonitoringnet wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
+
+Bij een grondwatersamenstellingsonderzoek ligt de verwijzing vast naar de monitoringbuis van de grondwatermonitoringput waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 van deze toelichting). De verwijzing wordt gemaakt op basis van het BRO-ID van de grondwatermonitoringput in combinatie met het buisnummer van de buis waarin de bemonstering heeft plaatsgehad. Met deze buisverwijzing is via de filterdiepte ook de diepte geregistreerd waarop de grondwatermonsters zijn genomen.
+
+De veld- en laboratoriumanalyseresultaten van een grondwatersamenstellingsonderzoek worden door de bronhouder en/of een derde partij in opdracht van een bronhouder gecontroleerd en beoordeeld. Bij het beoordelen van gegevens wordt gekeken naar de resultaten van het grondwatersamenstellingsonderzoek als geheel. Bijvoorbeeld wordt de consistentie beoordeeld tussen de chemische veld- en laboratoriumresultaten met behulp van verschillende chemische relaties. Daarnaast worden meetresultaten beoordeeld binnen de tijdreeks, indien aanwezig, van het betreffende filter. De beoordeling vindt plaats aan de hand van een **beoordelingsprocedure**. Dit is een protocol of werkvoorschrift dat is toegepast bij het beoordelen van de kwaliteit van de meetwaarden die in het veld en/of in het laboratorium gemeten zijn. De procedure beschrijft hoe de beoordeling wordt gedaan en op welke manier de beoordeling leidt tot het eindoordeel over de kwaliteit van een individuele meting.
+
+Elk grondwatersamenstellingsonderzoek wordt uitgevoerd volgens afspraak tussen opdrachtgever (de **bronhouder** die in de basisregistratie ondergrond voor elk registratieobject wordt geregistreerd) en opdrachtnemer(s). Bij elk grondwatersamenstellingsonderzoek wordt een hoeveelheid parameters, ofwel eigenschappen van het grondwatermonster, gemeten. Het resultaat van deze metingen wordt geregistreerd in de basisregistratie ondergrond.
+
+### 1.4.2. Identificatie van parameters
+
+Zowel in het veldonderzoek als in het laboratoriumonderzoek worden parameters, eigenschappen, van het grondwater bepaald. Bij de registratie van de meetresultaten van het veldonderzoek en het laboratoriumonderzoek wordt gebruik gemaakt van de **Parameterlijst** (zie Artikel 1, 1.1 Parameterlijst, voor de inhoud van de lijst). Elke **parameter** in deze lijst wordt geïdentificeerd door het **ID** van de parameter. Het ID wordt gebruikt om de parameter aan te duiden, dit is een persistent, identificerend volgnummer binnen de referentielijst zoals dat uitgegeven wordt door het SIKB. Het ID van een parameter zal in de loop der tijd dus niet veranderen. Voor nieuwe stoffen kan een nieuw ID met een nieuwe Aquocode aangevraagd worden.
+
+In de Parameterlijst is voor elke parameter naast het ID ook vastgelegd: de **Aquocode**, het **CASnummer** (indien van toepassing), een **omschrijving**, de **eenheid** en de **hoedanigheid** waarin de parameter wordt geregistreerd.
+
+De **Aquocode** is een codering voor een stof die afgeleid is van de naam van de stof. De Aquocode maakt onderdeel uit van de Aquo-standaard. Dit is een open standaard en uniforme taal voor de uitwisseling van gegevens binnen de watersector.
+
+Het **CASnummer** is het Chemical Abstracts Service nummer van de laboratoriumparameter. Dit is een internationaal gebruikte, unieke, numerieke code voor chemische elementen, componenten en polymeren. Er zijn alleen CASnummers voor chemische verbindingen, niet voor parameters die de toestand van het grondwater beschrijven zoals zuurgraad, troebelheid, elektrisch geleidingsvermogen of temperatuur. Ook zijn er geen CASnummers voor som-parameters zoals stikstof-totaal of de som van trichloorfenol-isomeren.
+
+De Aquocode, het **CASnummer** (indien van toepassing) en de omschrijving vormen de toelichting op de parameter, deze gegevens zorgen ervoor dat alle gebruikers er zeker van zijn om welke eigenschap of stof het gaat.
+
+Om verschillende grondwatersamenstellingsonderzoeken met elkaar te kunnen vergelijken is de **eenheid** door de basisregistratie ondergrond voorgeschreven. Alleen een veelvoud of een deel van de voorgeschreven eenheid kan voorkomen. Wanneer bijvoorbeeld µg/l in de parameterlijst staat is mg/l ook toegestaan als dit beter aansluit bij de hoogte van de gemeten waarde. De prefix, het voorvoegsel van de eenheid mag dus worden aangepast ten opzichte van wat is gedefinieerd in de parameterlijst.
+
+Naast de eenheid is ook de **hoedanigheid** voorgeschreven. De hoedanigheid is de vorm waarin de eenheid behorend bij een meetwaarde wordt uitgedrukt of de fractie van de parameter waarop de meetwaarde betrekking heeft. De verschillende waarden van de hoedanigheid kenmerken zich door de volgende criteria:
+
+De hoedanigheid bevat géén waarden die een nadere aanduiding zijn van methodes, technieken voor behandeling, ontsluiting of analyse van monsters.
+
+De parameterlijst is gebaseerd op de Aquo parameterlijst Grondwaterkwaliteit van het IHW, aangevuld met parameters van de Aquo parameterlijst Bodemkwaliteit – compartiment Grondwater van het SIKB en verder aangevuld met door stakeholders kenbaar gemaakte parameters waar grondwater op bemonsterd wordt.
+
+### 1.4.3. Veldonderzoek en monstername
+
+Tijdens het **veldonderzoek** wordt in het veld een aantal waarnemingen gedaan en een aantal metingen uitgevoerd die belangrijk zijn om in het veld uit te voeren en het resultaat ervan te registreren. Tevens worden monsters genomen voor analyse in het laboratorium. De **uitvoerder veldonderzoek** is de partij die voor de bronhouder verantwoordelijk is voor het uitvoeren van het veldonderzoek.
+
+Het veldonderzoek gebeurt op een bepaald tijdstip, op een bepaalde datum, het **tijdstip veldonderzoek**. Dit is het tijdstip van monstername. Bij historische gegevens kan het voorkomen dat het tijdstip van monstername niet bekend is, dat alleen de datum van het veldonderzoek bekend is. In deze gevallen kan een fictief tijdstip, 12:00:00, gekozen worden. Bij het veldonderzoek wordt **een** bepaalde **bemonsteringsprocedure** gebruikt. Hierin zijn de eisen en de voorgeschreven werkwijze ten aanzien van bemonstering vastgelegd.
+
+Gegevens over het **Bemonsteringsapparaat** zijn relevant voor de beoordeling van de kwaliteit van het monster. Het **pomptype** is kenmerkend voor het bemonsteringsapparaat en wordt daarom vastgelegd in de basisregistratie ondergrond.
+
+Een aantal van de metingen die in het veld worden gedaan, wordt in de basisregistratie ondergrond geregistreerd bij **Veldmeting.** Deze gegevens hebben hergebruikswaarde: ze geven een algemene indruk over het bemonsterde grondwater, de meetwaarden worden gebruikt in bepaalde controles, of de bepaling in het veld levert een betrouwbaarder resultaat op dan een bepaling in het laboratorium. Voor het meten van parameters in het veld zijn meerdere redenen:
+
+Het resultaat van de metingen in het veld wordt geregistreerd bij **Veldmeting**. Zoals in paragraaf 1.4.2 toegelicht, wordt elke **parameter** geïdentificeerd door het ID van de parameter. De gemeten **waarde** van een veldmeting wordt geregistreerd in de basisregistratie ondergrond bij **veldmeetwaarde**. De **veldmeet**waarde heeft het formaat Meetwaarde. Bij de meetwaarde hoort een meeteenheid. De meeteenheid is afhankelijk van de parameter. De aan te leveren meeteenheid is vastgelegd in de Parameterlijst waarbij de prefix, het voorvoegsel van de eenheid aangepast mag worden(zie paragraaf 1.4.2).
+
+Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Samen met de meeteenheid geeft de opbouw de nauwkeurigheid van de meetwaarde weer. Bij de veldmeetwaarde en de analysemeetwaarde (de in het laboratorium gemeten waarde) kan er geen vaste opbouw worden gegeven omdat het waarden van verschillende parameters kan betreffen die elk een andere opbouw en eventueel een andere meeteenheid hebben. Dit betekent dat bij de resultaten van het veldonderzoek en het laboratoriumonderzoek de nauwkeurigheid (het aantal significante cijfers) niet gedefinieerd wordt door de basisregistratie ondergrond. Bij aanlevering aan de basisregistratie ondergrond vindt geen controle plaats op de opbouw. De bronhouder heeft de verantwoordelijkheid het getal in de juiste nauwkeurigheid aan te leveren. Dat wil zeggen met het juiste aantal significante cijfers, het aantal cijfers dat betekenis heeft voor de nauwkeurigheid van de meting. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
+
+Bij elke individuele meting van een parameter in het grondwatersamenstellingsonderzoek geeft de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**. Het is een oordeel over de kwaliteit van de meting van de parameter, geen oordeel over het grondwatermonster als geheel.
+
+Het resultaat van de waarnemingen in het veld wordt geregistreerd bij **Veldwaarneming**. Hier worden verschillende waarnemingen vastgelegd die belangrijk kunnen zijn voor hergebruik. De kleur van het grondwater wordt gedefinieerd in drie attributen te weten de **hoofdkleur**, de **bijkleur** en de **kleursterkte.**De uitbreidbare waardelijsten die gebruikt worden om de kleur van het grondwater vast te leggen, Kleur en Kleursterkte, zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de gelijknamige Aquo domeintabellen.
+
+Naast de kleur wordt aan de hand van de onderstaande attributen vastgelegd of er bepaalde bijzonderheden zijn geconstateerd die relevant zijn voor het beoordelen of hergebruiken van de resultaten van het onderzoek. Deze attributen worden met ja of met nee gevuld indien dit bekend is. Het attribuut ontbreekt als niet bekend is of het ja of nee is.
+
+### 1.4.4. Laboratoriumonderzoek
+
+Een **laboratoriumonderzoek** van een grondwatersamenstellingsonderzoek wordt door een of meerdere laboratoria verricht. Alle laboratoria die onderzoeken uitvoeren die binnen de scope van de basisregistratie ondergrond vallen, zijn geaccrediteerd door de Raad voor Accreditatie. Vereist voor de accreditatie is onder andere het volgen van (inter)nationale standaarden (NEN- en/of ISO-normen). Laboratoria werken volgens strikte interne kwaliteitssystemen vastgelegd in handboeken, conform de richtlijnen van de Raad voor Accreditatie. Geaccrediteerde laboratoria zijn daarnaast verplicht om deel te nemen aan ringonderzoeken: onderzoeken waarbij de testresultaten van verschillende laboratoria worden vergeleken. De accreditatie legt op parameter(groep)niveau vast welke bepalingstechnieken en bijbehorende procedures gehanteerd worden door het geaccrediteerde laboratorium. Laboratoria zijn vaak niet voor alle parameters of parametergroepen geaccrediteerd. Met name parameters die zij niet regelmatig meten kunnen accreditaties missen. Wanneer de bronhouder ervoor kiest om alle parameters volgens een geaccrediteerde procedure te laten meten, kan het in enkele gevallen voorkomen dat het laboratoriumonderzoek door meer dan één laboratorium uitgevoerd wordt. Op de website van de Raad van Accreditatie (www.rva.nl) is per laboratorium informatie te vinden over hun huidige accreditatie.
+
+Het laboratoriumonderzoek omvat de resultaten van het onderzoek van één of meer deelmonsters, waarbij doorgaans veel verschillende parameters worden bepaald. Elk laboratoriumonderzoek wordt onder de verantwoordelijkheid van één laboratorium, de **uitvoerder laboratoriumonderzoek**, uitgevoerd.
+
+In het laboratorium worden een of meer analyseprocessen uitgevoerd. Een **analyseproces** bevat de kenmerken van de in het laboratorium uitgevoerde activiteiten ten behoeve van de bepaling van de waarde van parameters in het grondwatermonster. Van het analyseproces worden de **analysedatum**, de **bepalingstechniek en** de **bepalingsprocedure** geregistreerd in de Basisregistratie Ondergrond.
+
+De datum waarop een bepalingstechniek wordt uitgevoerd, wordt geregistreerd met de analysedatum. Wanneer de bepalingstechniek zich uitstrekt over meer dagen, wordt de datum geregistreerd waarop de bepalingstechniek is afgerond.
+
+Een parameter kan vaak met verschillende bepalingstechnieken gemeten worden. De **bepalingstechniek** is van invloed op de gemeten waarde en de nauwkeurigheid van de gemeten waarde. Met één bepalingstechniek worden meestal meerdere parameters gemeten. Verschillende laboratoria kunnen voor dezelfde bepalingstechniek een verschillende norm of voorschrift hanteren. Daarom wordt de door het laboratorium gebruikte norm of het voorschrift geregistreerd, de **bepalingsprocedure**. In sommige gevallen wordt een procedure gebruikt die niet is gecertificeerd of geaccrediteerd. Dit doet zich bijvoorbeeld voor bij de analyse van stoffen waarop recentelijk voor het eerst analyses plaatsvinden. In deze gevallen wordt een eigen methode gebruikt. Dit wordt als **niet genormaliseerde automatische waardebepaling** aangeduid.
+
+De uitbreidbare waardelijsten **Waardebepalingstechniek** en **Waardebepalingsprocedure** zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de Aquo-domeintabellen Waardebepalingstechniek respectievelijk Waardebepalingsmethode.
+
+Het analyseproces leidt tot meetresultaten van een of meer parameters. Deze worden geregistreerd in **Analyse**. Middels het **ID** wordt de **parameter** geïdentificeerd (zie paragraaf 1.4.2).
+
+Het gemeten gehalte van de parameter wordt geregistreerd in het attribuut **analysemeet**waarde. In sommige gevallen wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de rapportagegrens: De door het uitvoerende laboratorium met de opdrachtgever afgesproken grensconcentratie waarboven het gemeten gehalte of de waargenomen waarde van de parameter in een monster wordt gerapporteerd aan de opdrachtgever. Een gemeten waarde kan ook hoger zijn dan de hoogste grenswaarde die nog wordt gerapporteerd aan de opdrachtgever. In dit geval zal het laboratorium het monster verdunnen. Het kan voorkomen dat dit niet meer mogelijk is. In dat geval wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de hoogste nog gerapporteerde grenswaarde.
+
+Wanneer het attribuut analysemeetwaarde een grenswaarde bevat is er een **limietsymbool** aanwezig. Het limietsymbool geeft aan dat het, in het grondwater aanwezige gehalte kleiner of groter is dan de grensconcentratie die geregistreerd is bij analysemeetwaarde.
+
+De **rapportagegrens** is de, door het uitvoerende laboratorium met de opdrachtgever afgesproken, kleinste waarde van een concentratie van een component die door een laboratorium standaard wordt gerapporteerd aan de opdrachtgever. In sommige gevallen hebben de opdrachtnemer en de opdrachtgever de afspraak gemaakt dat de rapportagegrens gelijk is aan de detectiegrens, ofwel aantoonbaarheidsgrens. Dit is de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is. In andere gevallen is de detectiegrens lager dan de rapportagegrens. De rapportagegrens is voor hergebruik een belangrijk gegeven en wordt geregistreerd indien hij bekend is bij de bronhouder. Deze grens is mede afhankelijk van de bepalingstechniek en de eventuele bewerking van het grondwatermonster.
+
+Wanneer het gemeten gehalte lager is dan de rapportagegrens, mag de bronhouder de rapportagegrens in het attribuut analysemeetwaarde registreren. In dit geval wordt eveneens het limietsymbool geregistreerd. De bronhouder mag bij een, door een laboratorium toch gerapporteerd gemeten gehalte dat lager is dan de rapportagegrens, besluiten of hij deze gemeten waarde registreert bij het attribuut analysemeetwaarde in de basisregistratie ondergrond of niet. Is bijvoorbeeld de rapportagegrens 1,0 mg/l en het laboratorium rapporteert 0,95 mg/l, dan mag de bronhouder kiezen. Hij kan 0,95 mg/l opnemen of hij kan 1,0 mg/l opnemen in het veld analysemeetwaarde. Neemt de bronhouder 1,0 mg/l op, dan wordt ook het attribuut limietsymbool gevuld met: <.
+
+Andere soorten grenzen, zoals de detectiegrens: de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is, of de bepaalbaarheidsgrens, die iets zegt over wanneer het gehalte van een parameter betrouwbaar kan worden vastgesteld, worden niet geregistreerd in de basisregistratie ondergrond.
+
+De **analysemeet**waarde en de **rapportagegrens** hebben het formaat Meetwaarde. Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Net als bij de veldmeetwaarde kan er bij de analysemeetwaarde en de rapportagegrens van de in het laboratorium gemeten parameters geen vaste opbouw worden gegeven. Net als bij de resultaten van de veldmetingen heeft de bronhouder de verantwoordelijkheid het getal in de juiste nauwkeurigheid (het aantal significante cijfers) aan te leveren. In de door laboratoria gebruikte bepalingsprocedure is vaak vastgelegd hoe er afgerond moet worden. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
+
+Net als bij Veldmeting, wordt bij Analyse bij elke individuele meting door de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting aangegeven. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**.
+
+### 1.5. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond):
+
+Daarnaast wordt op de volgende punten consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.6. Inspire
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatersamenstellingsonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatersamenstellingsonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+## Bijlage X. behorend bij [artikel 11, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwaterstandsonderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+
+Datum 27 maart 2020
+
+### Artikel 1. Definitie van registratieobject, entiteiten en attributen
+
+### 1. Registratieobject
+
+### 2. Het domeinmodel
+
+### 3. Entiteiten en attributen
+
+### 3.1. Grondwaterstandonderzoek
+
+### 3.1.1. BRO-ID
+
+### 3.1.2. bronhouder
+
+### 3.1.3. object-ID bronhouder
+
+### 3.1.4. dataleverancier
+
+### 3.1.5. kwaliteitsregime
+
+### 3.1.6. datum eerste meting
+
+### 3.1.7. datum recentste meting
+
+### 3.2. Registratiegeschiedenis
+
+### 3.2.1. tijdstip registratie object
+
+### 3.2.2. registratiestatus
+
+### 3.2.3. tijdstip laatste aanvulling
+
+### 3.2.4. tijdstip voltooiing registratie
+
+### 3.2.5. gecorrigeerd
+
+### 3.2.6. tijdstip laatste correctie
+
+### 3.2.7. in onderzoek
+
+### 3.2.8. in onderzoek sinds
+
+### 3.2.9. uit registratie genomen
+
+### 3.2.10. tijdstip uit registratie genomen
+
+### 3.2.11. weer in registratie genomen
+
+### 3.2.12. tijdstip weer in registratie genomen
+
+### 3.3. Grondwatermonitoringnet
+
+### 3.3.1. BRO-ID
+
+### 3.4. Gmw-monitoringbuis
+
+### 3.4.1. BRO-ID
+
+### 3.4.2. buisnummer
+
+### 3.5. Observatie
+
+### 3.5.1. observatie ID
+
+### 3.5.2. observatieperiode
+
+### 3.5.3. tijdstip resultaat
+
+### 3.6. Metadata observatie
+
+### 3.6.1. datum metadata
+
+### 3.6.2. observatietype
+
+### 3.6.3. mate beoordeling
+
+### 3.7. Organisatiegegevens
+
+### 3.7.1. identificatie
+
+### 3.7.2. organisatienaam
+
+### 3.8. Observatieproces
+
+### 3.8.1. observatieproces ID
+
+### 3.8.2. meetprocedure
+
+### 3.8.3. type meetinstrument
+
+### 3.8.4. type luchtdrukcompensatie
+
+### 3.8.5. procestype
+
+### 3.8.6. beoordelingsprocedure
+
+### 3.9. Tijdmeetwaardereeks
+
+### 3.9.1. tijdmeetwaardereeks ID
+
+### 3.10. Tijdmeetwaardepaar
+
+### 3.10.1. tijdstip meting
+
+### 3.10.2. waterstand
+
+### 3.11. Metadata tijdmeetwaardepaar
+
+### 3.11.1. status kwaliteitscontrole
+
+### 3.11.2. censuurreden
+
+### 3.11.3. censuurlimietwaarde
+
+### 3.11.4. interpolatietype
+
+### Artikel 2. Beschrijving van uitbreidbare waardelijsten
+
+### 1.1. Registratiestatus
+
+### 1.2. Meetprocedure
+
+### 1.3. TypeMeetinstrument
+
+### 1.4. TypeLuchtdrukcompensatie
+
+### 1.5. Procestype
+
+### 1.6. Beoordelingsprocedure
+
+### 1.7. MateBeoordeling
+
+### 1.8. Observatietype
+
+### 1.9. StatusKwaliteitscontrole
+
+### 1.10. Censuurreden
+
+### 1.11. Interpolatietype
+
+### Toelichting
+
+### 1. Grondwaterstandonderzoek
+
+### 1.1. Grondwatermonitoring
+
+Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden periodiek grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd. Door het verzamelen van deze meetgegevens over ons grondwatersysteem kunnen trends worden gesignaleerd en kan getoetst en gerapporteerd worden of we voldoen aan (inter)nationale normen en streefbeelden.
+
+In het domein grondwatermonitoring staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het monitoringdoel, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
+
+Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
+
+In het Besluit basisregistratie ondergrond is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld, afgezien van het feit dat voor de gehele basisregistratie ondergrond geldt dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
+
+In de Regels omtrent de basisregistratie ondergrond en het Besluit basisregistratie ondergrond staat dat de BRO ‘voorlopig’ respectievelijk ‘vooralsnog’ geen milieukwaliteitsinformatie bevat. Voor het grondwatermonitoringdomein zijn grondwatersamenstellingsonderzoeksgegevens uit monitoringnetten rondom milieu-hygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede kamer een motie aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’ (Kamerstuk Motie 34864-19). Momenteel is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van grondwaterstandonderzoek.
+
+De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
+
+De volledige scopeafbakening is beschreven in het Scopedocument Grondwaterstandonderzoek (GLD).
+
+### 1.2. Domein grondwatermonitoring in de BRO
+
+Het domein grondwatermonitoring in de basisregistratie ondergrond (BRO) omvat de volgende vier registratieobjecten:
+
+In de voorliggende catalogus gaat het over het registratieobject grondwaterstandonderzoek.
+
+In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen de Engelstalige afkortingen en verder de Nederlandstalige termen gebruiken.
+
+Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
+
+Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald monitoringdoel met een bepaald wettelijk kader, periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet weerspiegelt de groepering van onderzoeksgegevens door de bronhouder op basis van het doel van de monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om een grondwaterstandonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat grondwaterstand- en grondwatersamenstellingsonderzoek kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
+
+Een grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwaterstandonderzoek. Deze bronhouder levert het grondwaterstandonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwaterstandonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
+
+### 1.3. Het grondwaterstandonderzoek
+
+### 1.3.1. Inleiding
+
+Een **Grondwaterstandonderzoek** (GLD) is een monitoringactiviteit, waarbij herhaaldelijk de waterstand in een monitoringbuis van een grondwatermonitoringput wordt gemeten. Een filter van een monitoringbuis in een grondwatermonitoringput vormt een meetpunt in registratieobject grondwatermonitoringnet (zie paragraaf 1.2, Domein grondwatermonitoring in de BRO). Het grondwaterstandonderzoek wordt verricht door een bronhouder of door derden, op basis van een opdracht van of afspraak met die bronhouder, en komt voort uit een of meerdere monitoringdoelen. Het resultaat van het grondwaterstandonderzoek omvat de beoordeelde metingen in de tijd-meetwaardereeks die hieruit volgt. De resultaten van het onderzoek worden geregistreerd in de basisregistratie ondergrond.
+
+In tegenstelling tot de relatief langzame verandering van de samenstelling van het grondwater, kunnen de fluctuaties van de grondwaterstand en/of stijghoogte snel optreden. Dit wordt bijvoorbeeld veroorzaakt door neerslag, invloed van getij, seizoenen en/of menselijk handelen. Van oudsher worden handpeilingen veelal met een frequentie van eens per 14 dagen uitgevoerd. Sinds de intrede van (druk)sensoren kan de waterstand in de monitoringbuis met een aanzienlijk hogere frequentie worden gemeten.
+
+De snelheid waarmee gegevens van grondwaterstanden beschikbaar komen hangt af van de toegepaste systemen. Voor een handpeiling is het duidelijk dat een veldbezoek noodzakelijk is, maar ook voor veel meetsystemen met een (druk)sensor is een veldbezoek noodzakelijk om de aan de (druk)sensor gekoppelde datalogger uit te lezen. Pas na het uitgevoerde veldbezoek komen dan de gegevens beschikbaar voor verdere verwerking.
+
+Steeds vaker worden systemen toegepast waarbij de datalogger gekoppeld is aan een modem, waarbij de gegevens direct aan de dataleverancier of bronhouder worden verstuurd. Dit gebeurt via een draadloos netwerk zoals het GSM- of het LoRa-netwerk. LoRa is een Long Range, Low Power verbinding speciaal ontwikkeld om kleine hoeveelheden informatie uit te wisselen tussen objecten en systemen. Deze wijze van beschikbaar komen van data wordt hieronder als telemetrie beschreven.
+
+### 1.3.2. Het proces
+
+Het proces waarin grondwaterstandonderzoeksgegevens in de praktijk ontstaan is schematisch weergegeven in de onderstaande figuur en wordt daaronder beschreven. Daarbij wordt benadrukt dat de precieze invulling van de processtappen in de praktijk vaak afhankelijk is van het gebruiksdoel en het toepassingsgebied van de monitoring. Het komt ook voor dat niet alle beschreven stappen worden doorlopen. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. In deze catalogus beschrijven we alleen de onderdelen meten, omrekenen, controleren, corrigeren en keuren. Het samenhangend geheel van de processtappen controleren, corrigeren en keuren wordt in dit document ook ‘beoordelen’ genoemd.
+
+Het meten van de waterstand in de monitoringbuis betreft de wijze waarop de fysieke meting in de grondwatermonitoringput wordt uitgevoerd. De meting kan worden uitgevoerd met bijvoorbeeld een meetlint of een sensor. Er zijn drie mogelijke stromen van grondwaterstandgegevens naar de bronhouder (zie figuur 4). Het onderscheid daartussen wordt gevormd door de meetfrequentie en/of periodiciteit van het beschikbaar komen van de meting. Binnen een grondwaterstandonderzoek kunnen de verschillende gegevensstromen naast elkaar voorkomen.
+
+De drie gegevensstromen die worden onderscheiden zijn afkomstig van (zie onderstaande figuur):
+
+De handpeiling betreft een meting van de grondwaterstand die tijdens het veldbezoek wordt uitgevoerd. De meting wordt bijvoorbeeld uitgevoerd met een meetlint met analoog of elektronisch peilklokje of met een akoestische sensor. In het laatste geval wordt de reistijd tot de waterspiegel in de monitoringbuis gemeten, die omgerekend dient te worden naar de waterstand in de monitoringbuis (zie stap 2). Per veldbezoek komt hierbij slechts een enkele meetwaarde per monitoringbuis beschikbaar. De handpeiling kan fungeren als controlemeting van sensormetingen, zoals hieronder beschreven.
+
+De grootheid die met sensoren wordt gemeten, is afhankelijk van het type: bij druksensoren wordt de druk van de water- en/of luchtkolom boven de sensor gemeten; bij reflectiesensoren de reistijd tot de waterspiegel. Het meetresultaat wordt door de, in de monitoringbuis aanwezige datalogger opgeslagen. Gedurende een veldbezoek wordt de datalogger uitgelezen met bijvoorbeeld een laptop. Soms wordt daarbij het omrekenen van de meetgegevens naar een waterstand in de monitoringbuis ten opzichte van het referentieniveau (zie stap 2 van het proces) ook uitgevoerd. De (al dan niet omgerekende) meetgegevens komen hierbij beschikbaar vanaf het moment van de voorgaande uitlezing tot aan het moment van uitlezen.
+
+Bij de metingen die via telemetrie vanuit het veld worden verzonden, worden de meetgegevens door middel van een modem draadloos (via bijvoorbeeld het GSM- of LoRa-netwerk) aan de dataleverancier of bronhouder verstuurd. Het omrekenen van de meetgegevens naar een waterstand in de monitoringbuis ten opzichte van het referentieniveau (zie stap 2 van het proces) gebeurt hierbij bijvoorbeeld op het dataportaal waarop de gegevens binnenkomen.
+
+De methodiek van omrekenen van de meetwaarde naar een waterstand in de monitoringbuis ten opzichte van het referentieniveau, NAP, hangt samen met de wijze waarop is gemeten. Bij een meting met een peillint wordt de afstand van een vast punt, waarvan de hoogte ten opzichte van NAP bekend is, tot de grondwaterstand gemeten. Bij een meting met een reflectiesensor wordt de reistijd van een akoestisch of radarsignaal vanaf het nulpunt van de sensor tot aan de waterspiegel gemeten, en vervolgens omgerekend naar een hoogte ten opzichte van NAP. Bij druksensoren wordt de waterdruk boven de sensor gemeten, en omgerekend naar een waterkolom. Hieruit wordt, samen met het niveau van de druksensor ten opzichte van het referentieniveau, de waterstand in de monitoringbuis bepaald. De omrekening gebeurt in sommige gevallen in de software die bij de sensor hoort. In andere gevallen vindt omrekening in een latere fase plaats, bijvoorbeeld in de database bij de dataleverancier of bronhouder.
+
+De tijdreeks van handmatig dan wel via sensormetingen verkregen waterstanden in de peilbuis wordt, door de bronhouder en/of een derde partij, gecontroleerd op fouten en afwijkingen. Daarbij kunnen controles op integriteit, representativiteit, consistentie en/of plausibiliteit doorlopen worden. Bij metingen uitgevoerd met een sensor wordt in het bijzonder het functioneren van de sensor gecontroleerd, onder andere op nulpunt en drift. Hiervoor wordt doorgaans gebruik gemaakt van specifiek daarvoor uitgevoerde handmatige controlemetingen. Daarnaast kan de samenhang (in tijd en ruimte) met andere reeksen beoordeeld worden, en/of gebruik gemaakt worden van (statistische) modellen of technieken zoals tijdreeksanalyse.
+
+Voor metingen die uit telemetriesystemen beschikbaar komen, kan een belangrijk deel van de controles pas uitgevoerd worden nadat een (periodieke) controlemeting beschikbaar is. Over de periode waarin er nog geen nieuwe of onvoldoende aantal controlemetingen beschikbaar zijn, kunnen de metingen slechts gedeeltelijk worden gecontroleerd.
+
+De bronhouder of derde partij corrigeert indien noodzakelijk de omgerekende meetwaarden op basis van de in stap 3 uitgevoerde controles. Er wordt gecorrigeerd op systematische afwijkingen van bijvoorbeeld de druksensor en/of de klok, of naar aanleiding van fouten zoals filterverwisselingen of een verkeerde inhangdiepte van de sensor. Nadat eventuele correcties zijn doorgevoerd wordt de vorige stap, controleren, veelal opnieuw doorlopen. De controles en correcties zijn beschreven in een procedure of werkvoorschrift, de beoordelingsprocedure. Deze correcties vinden plaats voorafgaand aan de registratie in de basisregistratie ondergrond. De gegevens worden als ‘voorlopig’ of direct als ‘volledig beoordeeld’ geregistreerd (zie stap 5 van het proces). Deze correcties kunnen ook plaatsvinden naar aanleiding van het uitvoeren van de volledige beoordeling. De gegevens worden dan als ‘volledig beoordeeld’ geregistreerd. De voorlopige gegevens blijven ongewijzigd in de basisregistratie ondergrond aanwezig.
+
+Binnen de basisregistratie ondergrond vindt ook een andere vorm van correctie plaats. Dit zijn correcties waarbij middels een correctiebericht, een gegeven dat al in de registratie ondergrond geregistreerd is, wordt overschreven. De oude waarde van het gegeven is in dat geval niet meer direct beschikbaar voor de afnemers. Deze correcties worden in de formele geschiedenis van de basisregistratie ondergrond vastgelegd.
+
+De controles en correcties leiden tot een keuring of oordeel over de kwaliteit en bruikbaarheid van de gegevens. De uitkomsten van het proces worden vastgelegd en leiden tot een status kwaliteitscontrole die een eindoordeel geeft over de bruikbaarheid van de meting.
+
+De drie verschillende gegevensstromen (handpeilingen, sensormetingen die in het veld uitgelezen worden en telemetrische sensormetingen) zorgen voor een verschillende dynamiek in aanvoer van gegevens. Voor zowel handpeilingen als sensormetingen die in het veld uitgelezen worden, geldt dat ook de metingen daarna nog aanvullende informatie kunnen geven over de interpretatie en kwaliteit ervan. Afhankelijk van de gevolgde procedure wordt het proces van beoordelen pas volledig doorlopen op het moment dat er ook latere metingen beschikbaar zijn, wat kan leiden tot een verschil in de mate van beoordeling.
+
+Bij het snel en automatisch beschikbaar komen van sensormetingen via telemetrie ontbreekt vaak de tijd voor een handmatige beoordeling. Daarnaast ontbreekt (een voldoende aantal) controlemetingen voor het volledig kunnen beoordelen van het functioneren van de sensor. Ook hierdoor kan het proces van beoordelen in eerste instantie slechts gedeeltelijk doorlopen worden, wat kan leiden tot een voorlopige tijd-meetwaarde en voorlopige status kwaliteitscontrole. Pas na enige tijd, bijvoorbeeld nadat (voldoende) handmatige controlemetingen zijn uitgevoerd, wordt het gehele beoordelingsproces doorlopen hetgeen resulteert in de definitieve tijd-meetwaarde en definitieve status kwaliteitscontrole.
+
+### 1.4. WaterML
+
+De gegevensdefinitie van het grondwaterstandonderzoek, GLD, is gebaseerd op WaterML 2.0, een door het Open Geospatial Consortium (OGC) gepubliceerde internationale, open standaard over waterobservatiegegevens, met als doel de uitwisseling van dergelijke gegevens tussen informatiesystemen mogelijk te maken. De overheid hecht veel waarde aan en stimuleert het gebruik van open standaarden. WaterML maakt weer gebruik van andere, reeds bestaande OGC-standaarden waardoor het een interoperabel uitwisselingsformaat is. Er is voor WaterML 2.0 gekozen boven andere standaarden omdat in WaterML 2.0 reeksen van tijd-meetwaarde paren zijn gemodelleerd. In andere standaarden zijn dergelijke tijdreeksen niet gemodelleerd.
+
+In deze catalogus zijn de Engelse namen van entiteiten en attributen van WaterML vertaald naar het Nederlands waarbij in sommige gevallen de namen en de inhoud meer in detail zijn geformuleerd, gedefinieerd of afgebakend zonder dat dit strijdig is met WaterML. In de uitwisselingsberichten worden (noodzakelijkerwijs) de Engelstalige WaterML namen gebruikt.
+
+De in WaterML verplichte entiteiten en attributen zijn in de gegevensdefinitie van GLD opgenomen. Van de attributen die in WaterML optioneel zijn, zijn alleen diegene opgenomen die een hergebruikswaarde hebben voor de basisregistratie ondergrond. In sommige gevallen is in WaterML geen attribuut gedefinieerd voor een bepaald grondwaterstandgegeven dat in de basisregistratie ondergrond wel opgenomen moet worden. In die gevallen is gebruik gemaakt van een zogenoemde ‘parameter’ uit WaterML die het mogelijk maakt om extra gegevens op te nemen. In de gegevensdefinitie is het verschil tussen verplichte gegevens, optionele gegevens en parameters uit WaterML niet zichtbaar.
+
+De WaterML standaard bevat een aantal verplichte attributen die in de basisregistratie ondergrond een vaste waarde hebben of afleidbaar zijn. Ook deze attributen dienen door de bronhouder of dataleverancier aangeleverd te worden. Deze attributen worden niet afgeleid door de basisregistratie ondergrond. Dit garandeert namelijk dat op WaterML gebaseerde software van dataleveranciers, waarmee grondwaterstandonderzoeken worden aangeleverd, direct gebruikt kan worden, zonder dat deze aangepast moet worden.
+
+### 1.5. Belangrijkste entiteiten
+
+In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud van de belangrijkste entiteiten. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie in artikel 1. Als eerste wordt de hoofdentiteit beschreven, daarna de overige entiteiten.
+
+### 1.5.1. Grondwaterstandonderzoek
+
+Het registratieobject **Grondwaterstandonderzoek** bevat de, van een beoordelingsresultaat voorziene, tijd-meetwaardereeks(en) van de berekende waterstand in meter ten opzichte van NAP, in een bepaald filter van een grondwatermonitoringput. Uitgangspunt is dat een grondwaterstandonderzoek één **bronhouder** heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn.
+
+De gegevens van een grondwaterstandonderzoek ontstaan gedurende de ‘levensduur’ van het onderzoek, dat wil zeggen: gedurende de monitoringsperiode. Een belangrijk uitgangspunt voor dit registratieobject is dat er op min of meer vastomlijnde momenten (deel)gegevens geregistreerd worden als er daartoe ‘aanleidingen’ zijn. Voorbeelden van aanleidingen zijn: het starten van het grondwaterstandonderzoek, het beschikbaar komen van een uitgelezen tijd-meetwaardereeks die voorlopig of volledig is beoordeeld, het wijzigen van het type meetinstrument of de meetprocedure en het beëindigen van het grondwaterstandonderzoek. Het resultaat van een grondwaterstandonderzoek wordt dus niet in één keer geregistreerd, na beëindiging van het monitoren. De complete set van aanleidingen die zich voordoen gedurende de levensduur van het grondwaterstandonderzoek, en de daaruit af te leiden inhoud van berichten, zullen worden beschreven in de berichtencatalogus. In deze berichtencatalogus worden ook de mogelijke correctieberichten beschreven.
+
+Door het werkveld is de wens uitgesproken om (sets van) meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Afgesproken is daarnaast dat meetgegevens die via telemetrie beschikbaar komen niet frequenter dan dagelijks worden aangeleverd.
+
+De meetgegevens van een bepaalde periode zijn samen gebundeld in een observatie (zie de volgende paragraaf). Een grondwaterstandonderzoek wordt gedurende de levensduur steeds aangevuld met nieuwe observaties.
+
+Een grondwaterstandonderzoek kan ten behoeve van meer dan één monitoringdoel worden uitgevoerd. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) en het wettelijk kader waar dit doel uit volgt (kader aanlevering) geregistreerd. In het registratieobject grondwaterstandonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwaterstandonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO) is het doel en het wettelijk kader van het grondwaterstandonderzoek indirect geregistreerd. De verwijzing naar het **grondwatermonitoringnet** wordt gemaakt op basis van het BRO-ID van het grondwatermonitoringnet.
+
+Bij een grondwaterstandonderzoek ligt de verwijzing vast naar de monitoringbuis waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO). De verwijzing wordt gemaakt op basis van het **BRO-ID** van de **grondwatermonitoringput** in combinatie met het **buisnummer** van de monitoringbuis waarin het grondwaterstandonderzoek is uitgevoerd. De diepte van het filter van de monitoringsbuis is geregistreerd via de verwijzing naar de monitoringbuis.
+
+Van elk grondwaterstandonderzoek wordt vastgelegd wat de datum is van de eerste meting (**datum eerste meting)**en wat de datum is van de meest recente meting (**datum recentste meting**) van het gehele onderzoek. Beide data worden door de basisregistratie ondergrond afgeleid uit de aangeleverde gegevens. Bij elke aanvullende levering van grondwaterstanden wordt door de basisregistratie ondergrond gecheckt of de **begindatum** van de **observatieperiode** van de aanvullende levering vόόr de geregistreerde datum eerste meting ligt. Wanneer dat het geval is, wordt de **datum eerste meting** vervangen door de begindatum van de observatieperiode van de aanvullende levering. Wanneer dat niet het geval is, blijft de **datum eerste meting** ongewijzigd. Ook wordt bij elke aanvullende levering van grondwaterstanden door de basisregistratie ondergrond gecheckt of de **einddatum** van de **observatieperiode** van de aanvullende levering na de geregistreerde **datum recentste meting** ligt. Wanneer dat het geval is, wordt de **datum recentste meting** vervangen door de einddatum van de observatieperiode van de aanvullende levering.
+
+### 1.5.2. Observatie
+
+De entiteit observatie omvat het geheel van gegevens en kenmerken van de activiteiten die geleid hebben tot het bepalen van waterstanden in een bepaalde periode. De inhoud van de entiteit observatie wordt hieronder toegelicht. De observatie heeft als resultaat een reeks tijd-meetwaardeparen (**Tijdmeetwaardereeks**) van de waterstand. Het grondwaterstandonderzoek wordt in de loop der tijd aangevuld met observaties die elk een meetperiode, een **observatieperiode**, omvatten. Van elke observatie wordt een ID vastgelegd, het **observatie ID**. Dit is een door de bronhouder te bepalen ID dat de observatie uniek identificeert. Dit unieke ID kan bijvoorbeeld gebruikt worden om in een later stadium een correctie in de observatiegegevens te registreren. Met behulp van het observatie ID kan in dat geval geïdentificeerd worden welke observatie gecorrigeerd moet worden.
+
+Een bronhouder laat bijvoorbeeld eens per kwartaal de datalogger uitlezen. Omdat met het werkveld is afgesproken dat gegevens zo snel mogelijk, na een eventuele eerste beoordeling, in de basisregistratie ondergrond geregistreerd worden, zal de bronhouder de uitgelezen gegevens van één kwartaal als één observatie aanleveren aan de basisregistratie ondergrond. De bronhouder kan er ook voor kiezen de uitgelezen gegevens van een kwartaal op te knippen in bijvoorbeeld drie observaties van elk één maand. In het eerste geval overspant de observatie een periode en een reeks van tijd-meetwaardeparen van drie maanden. In het tweede geval overspant de observatie één maand aan gegevens. Een observatie kan later niet aangevuld worden met additionele tijd-meetwaardeparen. Een aanvullende levering van bijvoorbeeld het volgende kwartaal zal een nieuwe observatie zijn die de nieuwe meetgegevens bevat.
+
+Het observatie ID heeft een domein van het type tekst en mag maximaal 40 tekens bevatten. Dit geeft de bronhouder de mogelijkheid zelf een code of naam aan het ID te geven die herkenbaar is en/of past in de werkwijze van de bronhouder.
+
+Conform WaterML wordt het tijdsvenster waarin de meetwaarden zijn gedaan vastgelegd. Dit is de periode tussen de eerste en de laatste meting van de tijd-meetwaardereeks die het resultaat is van de observatie. Deze **observatieperiode** wordt gevormd door de begindatum en de einddatum van de tijd-meetwaardereeks. De bronhouder of dataleverancier kan deze data afleiden van het tijdstip van de eerste en de laatste meting uit de reeks.
+
+### 1.5.2.1. Metadata observatie
+
+Elke observatie heeft een aantal metadata gegevens, de **Metadata observatie**. Deze metadata bevat, conform WaterML, de datum waarop de metadata tot stand zijn gekomen: **datum metadata**. Deze datum wordt door de bronhouder of dataleverancier afgeleid van het gegeven **tijdstip resultaat** van de entiteit **Observatie**.
+
+Het **observatietype** beschrijft de reden van het plaatsvinden van de observatie. Hier worden twee typen onderscheiden namelijk de **reguliere meting** en de **controlemeting**. De **controlemeting** wordt uitgevoerd ter controle van een reeks van reguliere metingen met een hoge(re) frequentie. De controlemeting is veelal een handpeiling. Alle andere metingen betreffen reguliere metingen. De **reguliere meting** kan door zowel een sensor als handmatig worden gedaan. De reden van meten ligt bij reguliere metingen vast in het monitoringdoel, een attribuut van het grondwatermonitoringnet waarnaar wordt verwezen.
+
+Onderdeel van de metadata is verder de **mate beoordeling** waarbij de mate wordt vastgelegd waarin de reeks van tijd-meetwaarden, die het resultaat zijn van de observatie, zijn beoordeeld. Hier zijn twee beoordelingsniveaus gedefinieerd. Naast volledig beoordeelde tijd-meetwaardereeksen bestaat de mogelijkheid om nog niet volledig, of niet beoordeelde tijd-meetwaardereeksen te registreren in de basisregistratie ondergrond. Zowel bij niet beoordeelde reeksen als bij niet volledig beoordeelde reeksen wordt een mate beoordeling: **voorlopig** geregistreerd. Of al een voorlopige beoordeling heeft plaatsgevonden hangt af van de gebruikte **beoordelingsprocedure**. De belangrijkste reden voor het toevoegen van deze voorlopige tijd-meetwaardereeksen is de wens om meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Onder voorlopige tijd-meetwaardereeksen vallen bijvoorbeeld gegevens die (vrijwel) automatisch, uit telemetriesystemen aan het bronhouderportaal worden doorgezet, bijvoorbeeld binnen één of enkele dagen. Maar ook tijd-meetwaardereeksen waarbij, afhankelijk van de gevolgde beoordelingsprocedure, bijvoorbeeld na een jaar een volledige beoordeling plaats vindt, kunnen als voorlopige tijd-meetwaardereeksen al eerder in de basisregistratie ondergrond worden opgenomen, eventueel na een eerste, voorlopige beoordeling.
+
+Als een tijdreeks van een grondwaterstandonderzoek zowel voorlopig als volledig wordt beoordeeld dan worden zowel de voorlopig beoordeelde tijd-meetwaardereeks als ook volledig beoordeelde tijd-meetwaardereeks ‘naast elkaar’ in de basisregistratie ondergrond geregistreerd. Beide gegevenssets zijn daarmee beschikbaar voor de gebruiker.
+
+Controlemetingen dienen ter controle van de reguliere metingen. Het onderscheid in de mate van beoordeling is voor controlemetingen daarom niet, of minder van belang en wordt niet in de basisregistratie ondergrond opgenomen. Voor beide observatietypen dient het attribuut **status kwaliteitscontrole**(zie paragraaf Metadata tijdmeetwaardepaar) en het attribuut **beoordelingsprocedure** (zie paragraaf Observatieproces) wel aanwezig te zijn.
+
+De observatieperiode van een reguliere meting met een mate van beoordeling, volledig beoordeeld, mag niet overlappen met de observatieperiode van een andere observatie met hetzelfde observatietype en dezelfde mate van beoordeling. De observatieperiode van een reguliere, voorlopige tijd-meetwaardereeks mag eventueel wel overlappen met de observatieperiode van een andere reguliere, voorlopige tijd-meetwaardereeks. Bij een voorlopige tijd-meetwaardereeks kan het namelijk voorkomen dat de tijdsverschuiving van een niet, of niet goed functionerende klok nog niet is hersteld waardoor er overlap met de observatieperiode van een andere observatie kan voorkomen. Bij controlemetingen mag de observatieperiode van verschillende observaties eventueel ook overlappen.
+
+Het **tijdstip resultaat** van de entiteit **Observatie** is, conform WaterML, het tijdstip waarop het laatste proces is afgerond. Het betreft hier het laatste proces dat gebruikt is bij de totstandkoming van de waterstand in meter ten opzichte van NAP. In de praktijk wordt dit tijdstip veelal niet genoteerd. In de basisregistratie ondergrond wordt daarom bij het in WaterML verplichte attribuut **tijdstip resultaat** het volgende geregistreerd:
+
+De **uitvoerder** is de partij die voor de bronhouder geldt als verantwoordelijk voor de uitvoering van de waterstandmeting. In WaterML is het verplicht hier gegevens van een organisatie vast te leggen die bestaan uit een aantal verplichte attributen: de **organisatienaam** en de rol van deze organisatie in het grondwaterstandonderzoek. De rol ligt opgesloten in de naam van dit attribuut: uitvoerder. In GLD voegen we hier, ten opzicht van WaterML, de **identificatie** van de uitvoerder aan toe. De identificatie wordt, zoals bij andere registratieobjecten in de basisregistratie ondergrond, vastgelegd middels het KvK-nummer van de onderneming of de maatschappelijke activiteit, of het equivalent van het KvK-nummer in een handelsregister van een andere lidstaat van de Europese Unie dan Nederland.
+
+### 1.5.2.2. Gerelateerde observaties
+
+Een observatie die resulteert in een volledig beoordeelde tijd-meetwaardereeks is (vaak) gebaseerd op één of meer eerder geregistreerde observaties, namelijk de observatie(s) met een voorlopige tijd-meetwaardereeks waarop de observatie is gebaseerd en/of één of meer observaties met een controlemeting die gebruikt zijn tijdens de beoordeling. Bij een observatie met een volledig beoordeelde tijd-meetwaardereeks moet in dat geval geregistreerd worden dat de observatie **gerelateerd is aan** één of meer andere observaties indien deze gerelateerde observaties aanwezig zijn.
+
+Het kan echter in de praktijk ook voorkomen dat de voorlopig beoordeelde observatie(s) ontbreken. Ook controlemetingen die normaal gesproken gebruikt worden bij de beoordeling kunnen ontbreken. In deze gevallen kunnen **gerelateerde observaties** ontbreken.
+
+Ook bij een observatie die resulteert in een voorlopige tijd-meetwaardereeks kan gebruik gemaakt zijn van één of meer observaties met een controlemeting. Dit kan bijvoorbeeld het geval zijn bij gegevens die zijn uitgelezen uit een datalogger en die een voorlopige beoordeling hebben ondergaan. In dat geval wordt de observaties met een voorlopige tijd-meetwaardereeks gerelateerd aan één of meer observaties met een controlemeting. Indien de controlemetingen ontbreken, worden geen gerelateerde observaties geregistreerd bij een voorlopig beoordeelde observatie.
+
+Observaties die resulteren in een controlemeting zijn zelfstandige waarnemingen en worden niet gerelateerd aan andere observaties.
+
+Bij het registreren van gerelateerde observaties wordt gebruik gemaakt van het observatie ID van deze gerelateerde observaties. Bij de aanlevering zal een check uitgevoerd worden of de aangeleverde observatie ID(s) bij het betreffende grondwaterstandonderzoek in de LV-BRO bekend zijn als observatie ID(s).
+
+### 1.5.3. Observatieproces
+
+In het **observatieproces** worden de kenmerken van de processen die resulteren in de uiteindelijke meetwaarden vastgelegd. Onderdeel van het observatieproces is het **observatieproces ID**. Dit is een door de bronhouder of dataleverancier te bepalen tekst van maximaal 40 karakters die de kenmerken van een observatieproces uniek identificeren. Binnen het registratieobject moet dit ID uniek zijn. Het observatieproces ID kan bijvoorbeeld gebruikt worden bij aanvullende leveringen van een Grondwaterstandonderzoek: Wanneer een observatie wordt aangeleverd die dezelfde observatieproceskenmerken heeft als een observatie die al geregistreerd is, kan de bronhouder/ dataleverancier ervoor kiezen om niet alle observatieproceskenmerken opnieuw aan te leveren maar in plaats daarvan te verwijzen naar het reeds geregistreerde observatieproces door alleen het observatieproces ID van het reeds geregistreerde observatieproces aan te leveren. De overige observatieproceskenmerken hoeven in dit geval niet opnieuw aangeleverd te worden.
+
+De **meetprocedure** is onderdeel van het observatieproces. Het betreft de procedure of het werkvoorschrift dat gehanteerd is bij de observatie voor de grondwatermonitoring. In deze procedure staan de afspraken waaronder de observatie is uitgevoerd. De procedures zijn opgesomd in een waardelijst.
+
+Het **type meetinstrument** beschrijft het meetinstrument waarmee de metingen in de monitoringbuis zijn uitgevoerd. In het geval van sensoren betreft het hier het type sensor. Wanneer een apparaat uit meerdere sensoren bestaat, wordt het type sensor bedoeld, niet het apparaat.
+
+Bij het type meetinstrument: druksensor, zijn er globaal twee typen te onderscheiden, de relatieve druksensor en de absolute druksensor. Een relatieve druksensor meet de waterdruk met één enkele sensor. De invloed van de luchtdruk wordt door middel van een capillair in de kabel genivelleerd. Bij dit type druksensor wordt bij **type luchtdrukcompensatie** geregistreerd: **capillair**.
+
+Bij een absolute druksensor zijn voor het bepalen van uitsluitend de waterdruk twee sensoren noodzakelijk. De absolute druksensor meet de som van de waterdruk en de luchtdruk. Voor luchtdruk moet rekenkundig gecompenseerd worden. Dit betekent dat naast de absolute druksensor een sensor noodzakelijk is die de luchtdruk meet. Er zijn verschillende manieren waarop de rekenkundige gecompenseerd wordt. Dit wordt vastgelegd bij het attribuut **type luchtdrukcompensatie**. In sommige gevallen zijn de sensor die de absolute druk meet en de sensor die de luchtdruk meet geïntegreerd in één apparaat. In dit geval wordt de rekenkundige compensatie soms al in het apparaat gedaan. Het **type luchtdrukcompensatie** betreft dan: **putlocatiemeting**.
+
+Het **procestype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het procestype geeft aan wat het laatste type proces is dat is uitgevoerd voor de bepaling van het eindresultaat. WaterML heeft een vaste waardelijst voor het procestype: simulatie, handmatige methode, sensor, algoritme en onbekend. Op dit moment wordt in het grondwaterstandonderzoek alleen de waterstand in meter ten opzichte van NAP vastgelegd en geen ruwe meetwaarden. De bepaling van de waterstand ten opzichte van NAP is altijd een berekening. Daarom wordt hier een vaste waarde ingevuld: algoritme. Indien in de toekomst ook ruwe metingen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+De individuele tijd-meetwaardeparen van de reguliere metingen worden onder andere beoordeeld aan de hand van de controlemetingen. Hoe dit proces van beoordelen van de kwaliteit van de tijd-meetwaardeparen verloopt, is beschreven in een werkvoorschrift of procedure, de **beoordelingsprocedure**. Bij het moment van vaststellen van versie 1.0 van de catalogus is er een aantal procedures beschreven en beschikbaar. Voor de partijen die deze procedures niet gebruiken maar op een andere, niet beschreven wijze beoordelen, is er de mogelijkheid om aan te geven dat beoordeeld is op basis van het oordeel van een deskundige. Omdat het voor een gebruiker waardevol is om te weten op welke wijze er is beoordeeld, is het is de bedoeling dat de waardelijst van beoordelingsprocedures wordt aangevuld ten behoeve van volgende versies van de catalogus.
+
+### 1.5.4. Tijdmeetwaardereeks
+
+Tijd-meetwaardeparen worden gegroepeerd in een **Tijdmeetwaardereeks**. Eén observatie leidt tot één tijd-meetwaardereeks, waarbij alle tijd-meetwaardeparen in de reeks dezelfde observatie-eigenschappen hebben. Het is ook mogelijk dat de tijd-meetwaardereeks uit één tijd-meetwaardepaar bestaat. Het is waarschijnlijk dat dit bijvoorbeeld bij controlemetingen het geval zal zijn.
+
+Van elke tijd-meetwaardereeks wordt een ID vastgelegd, het **tijdmeetwaardereeks ID**. Dit is een door de bronhouder te bepalen ID dat de tijd-meetwaardereeks uniek identificeert. Binnen het registratieobject moet dit ID uniek zijn.
+
+De tijd-meetwaardeparen in de reeks moeten in oplopende chronologische volgorde in de reeks worden geplaatst.
+
+### 1.5.5. Tijdmeetwaardepaar
+
+Het **Tijdmeetwaardepaar** bevat het tijdstip waarop is gemeten: het **tijdstip meting**, in combinatie met de waterstand in meter ten opzichte van NAP zoals berekend uit een meting in een monitoringbuis van een grondwatermonitoringput: de **waterstand**.
+
+### 1.5.5.1. Metadata tijdmeetwaardepaar
+
+Elk tijd-meetwaardepaar heeft een aantal metadata gegevens, **Metadata tijdmeetwaardepaar**. Deze metadata bevat onder andere het eindresultaat van de beoordeling zoals uitgevoerd conform de beoordelingsprocedure. Deze **statuskwaliteitscontrole** geeft het eindoordeel van de bronhouder over de kwaliteit van een individuele meting. Niet alleen bij een volledig beoordeelde observatie maar ook bij observaties van het observatietype controlemeting en observaties met een mate van beoordeling voorlopig, is de statuskwaliteitscontrole aanwezig. In de beoordelingsprocedure is opgenomen welke controles en beoordeling er voor elk observatietype en voor elke mate van beoordeling wordt uitgevoerd. Alleen in het geval de observatie het observatietype reguliere meting heeft en een mate beoordeling: voorlopig, is het mogelijk om bij de status kwaliteitscontrole **nogNietBeoordeeld** te registreren. Dit kan bijvoorbeeld het geval zijn bij gegevens die via telemetrie zijn verkregen en die zonder beoordeeld te zijn, worden geregistreerd in de basisregistratie ondergrond.
+
+In WaterML is een attribuut (quality) met een waardelijst (DataQualityCode) gedefinieerd voor de kwaliteit van de resultaten. Voor het grondwaterstandonderzoek is er echter voor gekozen om dit attribuut met waardelijst niet te gebruiken. In plaats daarvan is een eigen parameter met een eigen codelijst opgesteld, de **statuskwaliteitscontrole**. De reden hiervan is dat er voor het grondwaterstandonderzoek en het grondwaterkwaliteitsonderzoek een uitgebreide analyse is gedaan naar de mogelijke kwaliteit van de resultaten. Dit heeft geresulteerd in een waardelijst voor de status kwaliteitscontrole die geldt voor zowel het grondwaterkwaliteitsonderzoek als het grondwaterstandonderzoek. De waarden en de definities van de waarden op deze waardelijst komen niet geheel overeen en zijn in sommige gevallen niet één-op-één te vertalen in de waarden op de waardelijst van WaterML.
+
+Een waarde (van de waterstand) die buiten het meetbereik van de meetopstelling valt, betreft een gecensureerde waarde. De term gecensureerde waarde heeft in de statistiek een specifieke betekenis. Het geeft aan dat de waarde van een variabele niet exact bekend is of niet exact bepaald kon worden, maar dat wel duidelijk is dat deze zich boven of juist beneden een bepaalde limiet bevindt. Bij een grondwaterstandonderzoek is dit bijvoorbeeld het geval bij een drooggevallen sensor: de waarde van de waterstand kan niet exact worden gegeven maar wel is duidelijk dat de waterstand zich onder het niveau van de inhangdiepte van de sensor bevindt.
+
+Het attribuut **waterstand** heeft in het geval van een gecensureerde meting geen waarde. Metingen die buiten het meetbereik vallen geven desondanks een waardevol inzicht in de situatie van het grondwater ter plaatse van de monitoringbuis. Daarom zijn in de metadata van het tijd-meetwaardepaar de attributen **censuurreden** en **censuurlimietwaarde** opgenomen. Wanneer de waterstand geen waarde heeft, moeten deze attributen gevuld zijn. De **censuurreden** blijft beperkt tot **kleiner dan limietwaarde** of **groter dan limietwaarde**. Het niveau van de limietwaarde die over- of onderschreden wordt, wordt als **censuurlimietwaarde** opgenomen. Hieronder zijn een aantal voorbeelden gepresenteerd, waarin sprake is van gecensureerde waarden. Daarnaast zijn in figuur 5 een tweetal situaties weergegeven van gecensureerde metingen.
+
+In het linkerdeel van bovenstaande figuur is het verloop in de tijd van de grondwaterstand/stijghoogte aangegeven zoals in de ondergrond op kan treden. De grondwaterstand/stijghoogte in de ondergrond zal zich niet laten reguleren door de meetopstelling, waarbij de meetopstelling in dit geval de combinatie van de monitoringbuis en de druksensor betreft. Het rechter deel van de figuur geeft de tijd-meetwaardereeks weer van de waterstand in de monitoringbuis. Waterstanden in de monitoringbuis onder het niveau van de druksensor kunnen niet worden gemeten. In dat geval is de censuurreden: **kleiner dan limietwaarde** en de censuurlimietwaarde is het niveau van de sensor in meter ten opzichte van NAP.
+
+Bij waterstanden in de monitoringbuis hoger dan de bovenkant van de buis zal de monitoringbuis overlopen. Ervan uitgaande dat geen drukdop of kweldop is toegepast, kunnen hogere waterstanden dan bovenkantbuis niet worden gemeten. In dat geval is de censuurreden **groter dan limietwaarde** en de censuurlimietwaarde is het niveau van bovenkantbuis van de monitoringbuis in meter ten opzichte van NAP.
+
+In het geval dat de waterstand in de monitoringbuis wordt gemeten door middel van handpeilingen (met een meetlint of ander handapparaat), worden gecensureerde metingen veroorzaakt door monitoringbuis gerelateerde aspecten. Dit betreffen bovenkant monitoringsbuis (zie ook figuur 5) en droogval van het filter van de monitoringsbuis: als het grondwaterniveau lager is dan de onderkant van het geperforeerde deel van de monitoringbuis. In dat geval is de censuurreden: **kleiner dan limietwaarde** en het niveau van de onderkant van het filter is de censuurlimietwaarde.
+
+Bij druksensormetingen gelden aanvullende censuurredenen die samenhangen met het meetbereik van de druksensor. Het sensormaximum kan bijvoorbeeld worden overschreden. Dit doet zich voor wanneer het sensormaximum kleiner is dan bovenkantbuis óf de monitoringbuis aan de bovenkant afgesloten is door een drukdop of kweldop. De censuurreden is: **groter dan limietwaarde** en het niveau van het sensormaximum is de censuurlimietwaarde. Zoals hierboven reeds genoemd, kan het ook voorkomen dat een druksensor is drooggevallen.
+
+Er is een aantal complicerende factoren waar de dataleverancier of bronhouder alert op dient te zijn. Hieronder worden er een aantal genoemd.
+
+In de praktijk kan er sprake zijn van een combinatie van oorzaken van gecensureerde metingen, namelijk monitoringbuis gerelateerde en sensor gerelateerde oorzaken. Bijvoorbeeld kan zowel het filter als de sensor zijn drooggevallen.
+
+Bij een drooggevallen filter bestaat het risico dat wel een waterstand in de monitoringbuis wordt gemeten, dit kan stagnerend water in een zandvang zijn. Om dit aspect te onderkennen, moeten de metingen en de filterstelling beide worden beschouwd.
+
+Zoals eerder genoemd, bestaan er twee typen druksensoren, namelijk relatieve druksensoren en absolute druksensoren. Ten aanzien van gecensureerde metingen is er een duidelijk verschil tussen beide type sensoren. Het maximale drukbereik van relatieve druksensoren komt overeen met een vaste maximale waterdruk en daarmee een vaste maximale waterstand. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten een constant niveau is. Dit niveau hangt alleen nog af van het niveau (nulpunt) van de druksensor. De absolute druksensor meet de som van lucht- en waterdruk. Hierdoor is de maximale meting van de waterdruk afhankelijk is van de heersende luchtdruk op dat moment. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten geen constant niveau is.
+
+De uiterste grenzen (de censuurlimietwaarden) zijn afhankelijk van de specificaties van de gebruikte sensor. Benadrukt wordt dat deze grenzen niet alleen van toepassing zijn voor druksensoren, maar voor type sensoren zoals de akoestische- en de radarsensor. Van belang is dat gebruiker van sensoren zich hiervan bewust is.
+
+Het **interpolatietype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het interpolatietype geeft aan wat de aard is van de relatie tussen het tijdstip en de meetwaarde. Deze relatie en de wijze van interpoleren kan bijvoorbeeld voor visualisatie en/of aggregatie van belang zijn. WaterML heeft een vaste waardelijst voor het interpolatietype. Het kan bijvoorbeeld het maximum of het minimum of het gemiddelde zijn over het gemeten interval. We leggen in de basisregistratie ondergrond de feitelijke waarnemingen vast en daarom wordt hier de vaste waarde: **discontinu** ingevuld. Het is aan de gebruiker te beoordelen of en hoe hij de meetwaarden eventueel wil interpoleren of aggregeren. Indien in de toekomst ook andere metingen met andere interpolatietypen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
+
+### 1.6. Impact kwaliteitsregime IMBRO/A
+
+In het verleden waren de werkprocessen en middelen rond het grondwaterwaterstandonderzoek anders dan ze nu zijn. Bij de aanlevering van historische gegevens wordt geaccepteerd dat een aantal formeel verplichte gegevens geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd en dat kent minder strikte regels. Het betreft authentieke gegevens waarvan de betrouwbaarheid en herkomst eenduidig moet zijn. Daarom is de samenhang tussen de attributen **mate beoordeling**, de **beoordelingsprocedure** en de **status kwaliteitscontrole** bij IMBRO/A gegevens hetzelfde als bij IMBRO gegevens.
+
+Wanneer bij historische gegevens onduidelijk is of de tijd-meetwaardereeks is beoordeeld, krijgen deze gegevens een mate beoordeling waarde ‘onbekend’. In dit geval is het tevens onbekend welke beoordelingsprocedure er is gebruikt. De status kwaliteitscontrole zal in dit geval ook ‘onbekend’ moeten zijn.
+
+Het is mogelijk dat een bronhouder weet dat zijn historische gegevens destijds beoordeeld zijn en hoewel er niet per tijd-meetwaardepaar een uitkomst van de beoordeling is opgeslagen, weet de bronhouder dat de gegevens destijds zijn goedgekeurd, bijvoorbeeld omdat ze anders niet in het gegevensbeheersysteem waren opgeslagen. De bronhouder geeft in dit geval aan dat de mate beoordeling ’volledig beoordeeld’ is. Afhankelijk van wat de bronhouder nog weet van de beoordelingsprocedure kan hij aangeven dat de beoordelingsprocedure ‘oordeel deskundige’ is, maar ook ‘onbekend’ is mogelijk. Daarnaast geeft de bronhouder in dit geval aan dat de tijd-meetwaardeparen een status kwaliteit controle ‘goedgekeurd’ hebben. Wanneer de bronhouder onzeker is over de uitkomst van de beoordeling van destijds, kan hij ook aangeven dat de status kwaliteitscontrole ‘onbekend’ is. Het **tijdstip resultaat** wordt bij een volledig beoordeelde meetreeks gedefinieerd als het tijdstip waarop de beoordeling is afgerond. In dit geval gaat het om de beoordeling van destijds en kan, afhankelijk van de beschikbaarheid van dit gegeven, een voor IMBRO/A geldende **OnvolledigeDatum** worden ingevuld.
+
+Het kan ook voorkomen dat historische gegevens voorafgaand aan registratie in de basisregistratie ondergrond nog in retroperspectief worden beoordeeld met het doel de tijd-meetwaardeparen een status kwaliteitscontrole te geven. In dit geval heeft dat ook consequenties voor de mate beoordeling, die wordt daarmee volledig beoordeeld. Het is mogelijk dat geen ‘huidige’ beoordelingsprocedure gevolgd kan worden maar dat er een alternatieve beoordeling van deze historische gegevens zal plaats vinden. Er dient in dat geval te worden gekozen voor ‘oordeel deskundige’. Het **tijdstip resultaat** is in dit geval het tijdstip waarop de beoordeling die achteraf wordt gedaan, is afgerond.
+
+### 1.7. Hiërarchie in gebruiksplicht
+
+Er worden in het grondwaterstandonderzoek verschillende stadia van de gegevens over de waterstand vastgelegd. Op dit moment zijn dat volledig beoordeelde gegevens en voorlopige gegevens. Dit betekent dat er van een meting op een bepaalde datum, op een bepaald tijdstip verschillende meetwaarden geregistreerd kunnen zijn in de basisregistratie ondergrond, een voorlopige meetwaarde en een volledig beoordeelde meetwaarde. De volledig beoordeelde meetwaarde heeft alle in het beoordelingsprocedure vermelde controles ondergaan en is daardoor, in samenhang met het attribuut status kwaliteitscontrole, betrouwbaarder dan de voorlopige meetwaarde die geen of niet alle controles heeft ondergaan. De hiërarchie van de juridische gebruiksplicht is daarom als volgt:
+
+### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
+
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2,Domein grondwatermonitoring in de BRO. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2,Domein grondwatermonitoring in de BRO):
+
+Daarnaast wordt op het volgende punt consistentie verwacht:
+
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
+
+### 1.9. Inspire
+
+Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject grondwaterstandonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject grondwaterstandonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+## Bijlage XI. behorend bij [artikel 11, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject bodemkaart en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
 Versie: 0.99
 
 Datum: 8 mei 2019
-
-**Inhoud**
 
 ### Artikel 1. Definities
 
@@ -1798,7 +7990,7 @@ De bodemkundige informatie op de Bodemkaart van Nederland 1: 50 000, die de basi
 
 Omdat informatie in het stedelijk gebied ontbreekt is de bodemkaart niet geschikt is voor het oplossen van stedelijke vraagstukken. Op locaties waar na de kartering stedelijk gebied is ontstaan kan de bodemopbouw op die locatie gewijzigd zijn. De beoordeling of het geleverde informatieniveau nog bruikbaar is voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
 
-Het bodemkundig model is geschikt voor het afleiden van thematische kaarten. Deze thematische kaarten vallen echter niet binnen de verantwoordelijkheid van de Basisregistratie Ondergrond. In het gebruik voor nationale, regionale en lokale toepassingen geldt dat de informatiebehoefte per oppervlakte-eenheid toeneemt naarmate het probleem grootschaliger (‘lokaler’) wordt. De opnameschaal van de data is 1:50.000 en geeft op dat schaalniveau het bijbehorende detail (1 cm<sup>2<sup> op de kaart = 25 ha in het terrein). De beoordeling of het geleverde informatieniveau overeenkomt met de informatiebehoefte voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+Het bodemkundig model is geschikt voor het afleiden van thematische kaarten. Deze thematische kaarten vallen echter niet binnen de verantwoordelijkheid van de Basisregistratie Ondergrond. In het gebruik voor nationale, regionale en lokale toepassingen geldt dat de informatiebehoefte per oppervlakte-eenheid toeneemt naarmate het probleem grootschaliger (‘lokaler’) wordt. De opnameschaal van de data is 1:50.000 en geeft op dat schaalniveau het bijbehorende detail (1 cm2 op de kaart = 25 ha in het terrein). De beoordeling of het geleverde informatieniveau overeenkomt met de informatiebehoefte voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
 
 ### 2.3. Domeinmodel Bodemkaart
 
@@ -1812,7 +8004,7 @@ Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vó�
 
 ### 2.3.2. De bodemkaart als bodemkundig model
 
-De Bodemkaart van Nederland, schaal 1:50.000 vormt de basis voor het bodemkundig model in de Basisregistratie Ondergrond. De kaart geeft voor het landelijk gebied door middel van kaartvlakken informatie over de bodemopbouw en bodemkenmerken tot een diepte van ca. 1,2 m-mv. [Steur-Heijink1991]. Elk kaartvlak of object bevat een code voor de bodemeenheid. De bodemkaart is een 2-dimensionaal model dat de bodem als profile tot 1,2 m -mv beschrijft, waarmee het impliciet voor een deel 3D eigenschappen meekrijgt.
+De Bodemkaart van Nederland, schaal 1 : 50 000 vormt de basis voor het bodemkundig model in de Basisregistratie Ondergrond. De kaart geeft voor het landelijk gebied door middel van kaartvlakken informatie over de bodemopbouw en bodemkenmerken tot een diepte van ca. 1,2 m-mv. [Steur-Heijink1991]. Elk kaartvlak of object bevat een code voor de bodemeenheid. De bodemkaart is een 2-dimensionaal model dat de bodem als profile tot 1,2 m -mv beschrijft, waarmee het impliciet voor een deel 3D eigenschappen meekrijgt.
 
 ### 2.3.3. Indeling bodemeenheden
 
@@ -1822,15 +8014,15 @@ De gronden worden in de legenda verder onderverdeeld naar o.a. aard en textuur v
 
 ### 2.3.4. Inventarisatiemethoden
 
-Rond 1960 is Stiboka in Zeeland gestart met de landelijke kartering van de bodem op schaal 1:50.000. De kaart is uitgegeven per kaartblad van de topografische kaart, schaal 1:50.000, met daarbij een toelichting in boekvorm. Door de aanpak per kaartblad verschilt de periode van opname van blad tot blad (fig. 2). Het veldwerk voor het laatste kaartblad is in 1995 afgerond. De bodemkaart is als GIS-bestand beschikbaar (versie 1). Hiervoor zijn de analoge kaarten gedigitaliseerd. Na de eerste opname zijn vanaf 2010 fragmenten van de kaart geactualiseerd. De inventarisatiemethode bij de actualisatie wijkt af van de methode die bij de eerste opname is gehanteerd.
+Rond 1960 is Stiboka in Zeeland gestart met de landelijke kartering van de bodem op schaal 1 : 50 000. De kaart is uitgegeven per kaartblad van de topografische kaart, schaal 1 : 50 000, met daarbij een toelichting in boekvorm. Door de aanpak per kaartblad verschilt de periode van opname van blad tot blad (fig. 2). Het veldwerk voor het laatste kaartblad is in 1995 afgerond. De bodemkaart is als GIS-bestand beschikbaar (versie 1). Hiervoor zijn de analoge kaarten gedigitaliseerd. Na de eerste opname zijn vanaf 2010 fragmenten van de kaart geactualiseerd. De inventarisatiemethode bij de actualisatie wijkt af van de methode die bij de eerste opname is gehanteerd.
 
 ### 2.3.4.1. Uitgebreide veldverkenning voor de eerste opname van de bodemkaart
 
-Voor de eerste opname van de bodemkaart (zie figuur 4) is een uitgebreide veldverkenning uitgevoerd. Afhankelijk van de ingewikkeldheid van het bodempatroon, zijn voor de kaartschaal 1:50.000 10 tot 25 grondboringen per 100 ha verricht. Bij elke boring is een zgn. boormonsterbeschrijving opgesteld. Daarbij beschrijft de karteerder kenmerken die ontstaan zijn door bodemvorming en schat hij van elke laag o.a. het gehalte aan organische stof en koolzure kalk, het lutumgehalte en leemgehalte en de grofheid van het zand. De schattingen worden geijkt en gevalideerd door grondmonsteronderzoek. Aan de hand van deze boormonsterbeschrijvingen en allerlei landschappelijke kenmerken (o.a. reliëf en verschillen in vegetatie) zijn de eenheden op kaart ingetekend. De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid van de kaart zijn de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1:50.000 gold bij de eerste uitgave ca. 10 ha aanvankelijk als kleinste afmeting (1 cm<sup>2<sup> op de kaart = 25 ha in het terrein). Later is de minimum oppervlakte verminderd naar ca. 5 ha. De beschrijving van de eenheden op de bodemkaart, schaal 1:50.000, is daarom ruim van inhoud.
+Voor de eerste opname van de bodemkaart (zie figuur 4) is een uitgebreide veldverkenning uitgevoerd. Afhankelijk van de ingewikkeldheid van het bodempatroon, zijn voor de kaartschaal 1 : 50 000 10 tot 25 grondboringen per 100 ha verricht. Bij elke boring is een zgn. boormonsterbeschrijving opgesteld. Daarbij beschrijft de karteerder kenmerken die ontstaan zijn door bodemvorming en schat hij van elke laag o.a. het gehalte aan organische stof en koolzure kalk, het lutumgehalte en leemgehalte en de grofheid van het zand. De schattingen worden geijkt en gevalideerd door grondmonsteronderzoek. Aan de hand van deze boormonsterbeschrijvingen en allerlei landschappelijke kenmerken (o.a. reliëf en verschillen in vegetatie) zijn de eenheden op kaart ingetekend. De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid van de kaart zijn de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1 : 50 000 gold bij de eerste uitgave ca. 10 ha aanvankelijk als kleinste afmeting (1 cm2 op de kaart = 25 ha in het terrein). Later is de minimum oppervlakte verminderd naar ca. 5 ha. De beschrijving van de eenheden op de bodemkaart, schaal 1 : 50 000, is daarom ruim van inhoud.
 
 In de BRO is grondwater als een ander registratieobject opgenomen. In de veldeverkenning werden bij de eerste opname van de bodemeenheden ook gelijktijdig de grondwatertrappen in kaart gebracht.
 
-De basis waarop het kaartbeeld is vastgelegd werd gevormd door de topografische kaart, schaal 1:50 000, verstrekt door de Topografische Dienst. Voor de eerste uitgave is deze basiskaart vereenvoudigd. Rond 1980 is gestart met proeven voor het digitaliseren van de kaartbeelden. Er was toen nog geen GIS-bestand met de topografische kaart beschikbaar, zodat bij het digitaliseren niet gecontroleerd kon worden op de juiste afstemming met de topografie, zoals die later in GIS-bestanden beschikbaar kwam. Hierdoor kan de aansluiting van de begrenzing van oppervlaktewater in het bodemkundige model lokaal afwijken van de begrenzing in GIS-bestanden met de topografie.
+De basis waarop het kaartbeeld is vastgelegd werd gevormd door de topografische kaart, schaal 1 : 50 000, verstrekt door de Topografische Dienst. Voor de eerste uitgave is deze basiskaart vereenvoudigd. Rond 1980 is gestart met proeven voor het digitaliseren van de kaartbeelden. Er was toen nog geen GIS-bestand met de topografische kaart beschikbaar, zodat bij het digitaliseren niet gecontroleerd kon worden op de juiste afstemming met de topografie, zoals die later in GIS-bestanden beschikbaar kwam. Hierdoor kan de aansluiting van de begrenzing van oppervlaktewater in het bodemkundige model lokaal afwijken van de begrenzing in GIS-bestanden met de topografie.
 
 ### 2.3.4.2. Digitale bodemkartering voor de actualisatie van de bodemeenheden
 
@@ -1840,19 +8032,17 @@ In de periode 2010 – 2014 is de bodemkaart van de gebieden met veengronden gea
 
 Op hoofdlijnen omvat de werkwijze bij DBK de volgende onderdelen:
 
-### Basisregistratie Ondergrond (BRO)
+## Bijlage XII. behorend bij [artikel 11, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-**Catalogus**
-
-Geomorfologische kaart
+Deze bijlage betreft de catalogus van het registratieobject geomorfologische kaart en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
 Versie: 0.99
 
 Datum: 10 mei 2019
 
-**Inhoud**
-
 ### Artikel 1. Definities
+
+**Geomorfologische Kaart 1:50.000 – overzicht** – Ontwerp conceptueel model voor de Geomorfologische kaart, ten behoeve van de Basisregistratie Ondergrond (BRO).
 
 ### 1.1. Objecttypen
 
@@ -1970,7 +8160,7 @@ Datum: 10 mei 2019
 
 ### 1.8.5.1. Referentie element details Genese code
 
-### 1.8.5.2. Referentie element details Genese Vormbepalende factoren
+### 1.8.5.2. Referentie element details Genese vormbepalende factoren
 
 ### 1.8.6. Referentielijst ReliefCodeDal
 
@@ -1992,7 +8182,7 @@ Datum: 10 mei 2019
 
 ### 1.8.7.3. Referentie element details ReliefCodeNietDal lokaal maximaal hoogteverschil
 
-**1.8.7.4 Referentie element details** **ReliefCodeNietDal** **code**
+### 1.8.7.4. Referentie element details ReliefCodeNietDal code
 
 ### 1.8.8. Keuze Reliefcode
 
@@ -2056,7 +8246,7 @@ Onderzoek en educatie; de geomorfologische kaart en kennis van de geomorfologie 
 
 ### 2.2. Gebruikersperspectief
 
-De informatie op de Geomorfologische Kaart van Nederland 1:50.000, die de basis vormt voor het geomorfologisch model in de Basisregistratie Ondergrond, heeft betrekking op reliëf, genese en ouderdom van het landschap. Er wordt continu gewerkt aan actualisatie en verdere detaillering. De kaart geeft veelal nog geen informatie over de stedelijke gebieden. De geomorfologische kaart is geschikt voor het vaststellen van aardkundige waarden, monitoring van veranderingen in het landschap, het maken van Omdat informatie in het stedelijk gebied ontbreekt is de geomorfologische kaart niet geschikt is voor het oplossen van stedelijke vraagstukken. De beoordeling of het geleverde informatieniveau nog bruikbaar is voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
+De informatie op de Geomorfologische Kaart van Nederland 1 : 50.000, die de basis vormt voor het geomorfologisch model in de Basisregistratie Ondergrond, heeft betrekking op reliëf, genese en ouderdom van het landschap. Er wordt continu gewerkt aan actualisatie en verdere detaillering. De kaart geeft veelal nog geen informatie over de stedelijke gebieden. De geomorfologische kaart is geschikt voor het vaststellen van aardkundige waarden, monitoring van veranderingen in het landschap, het maken van Omdat informatie in het stedelijk gebied ontbreekt is de geomorfologische kaart niet geschikt is voor het oplossen van stedelijke vraagstukken. De beoordeling of het geleverde informatieniveau nog bruikbaar is voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
 
 De geomorfologische kaart is geschikt voor het afleiden van thematische kaarten ten behoeve van bovengenoemde toepassingen. Deze thematische kaarten vallen echter niet binnen de verantwoordelijkheid van de Basisregistratie Ondergrond. In het gebruik voor nationale, regionale en lokale toepassingen geldt dat de informatiebehoefte per oppervlakte-eenheid toeneemt naarmate het probleem grootschaliger (lokaler) wordt. De opnameschaal van de data is 1:50.000 en geeft op dat schaalniveau het bijbehorende detail. De beoordeling of het geleverde informatieniveau overeenkomt met de informatiebehoefte voor de specifieke vraagstelling is ter beoordeling aan de gebruiker.
 
@@ -2068,9 +8258,7 @@ De klassen die we op de geomorfologische kaart onderscheiden noemen we landvorme
 
 De klassen voor geomorfologische eenheden vormen de brug tussen waarneming en model. Het is een in klasse gevatte karakteristiek van de landvorm. Bestond de oude classificatie nog uit drie onderdelen, in de nieuwe opzet bestaat deze voor een geomorfologische eenheid uit 7 onderdelen:
 
-NOOT
-
-Een uitgebreide toelichting op de legenda van de Geomorfologische kaart van Nederland 1:50 000 is online beschikbaar [Maas2017].
+Een uitgebreide toelichting op de legenda van de Geomorfologische kaart van Nederland 1:50.000 is online beschikbaar [Maas2017].
 
 ### 2.3.1. Versiebeheer
 
@@ -2090,7 +8278,7 @@ Alleen voor de vormgroep dalvormige laagten (dalen) geldt een classificatie, waa
 
 Relief in de geomorfologische kaart is een relatieve maat. De hoogteklassen geven de hoogte van de landvorm weer ten opzichte van de voor die specifieke landvorm relevante omgeving. De afstand tot het referentiepunt is afhankelijk van de grootte van de geomorfologische eenheid.
 
-De toevoeging reliëf geeft aanvullende informatie over het reliëf. Er zijn 5 verschillende reliëf-toevoegingen onderscheiden. In een aantal gevallen komen reliëfverschillen voor die niet onderscheidend zijn qua vormgroep en reliëfklasse, maar wel relevante informatie bevatten voor het kaartbeeld.[Maas2017]
+De toevoeging reliëf geeft aanvullende informatie over het reliëf. Er zijn 5 verschillende reliëf-toevoegingen onderscheiden. In een aantal gevallen komen reliëfverschillen voor die niet onderscheidend zijn qua vormgroep en reliëfklasse, maar wel relevante informatie bevatten voor het kaartbeeld. [Maas2017]
 
 ### 2.3.4. Genese: de ontstaanswijze van landvormen
 
@@ -2120,35 +8308,33 @@ Of een landvorm onderhevig is aan actieve fluviatiele of mariene processen is af
 
 ### 2.5. Inventarisatiemethoden
 
-### 2.5.1. Kartering ‘oude stijl’ (1960-1990)
+### 2.5.1. Kartering ‘oude stijl’ (1960–1990)
 
-Het proces van opnemen en vervaardigen van de geomorfologische kaart bestond uit verschillende stappen. Eerst werd hulpinformatie aangemaakt. Dit gebeurde per deelgebied, een zogenaamd kaartblad. Op basis van de hoogtepunten kaart (schaal 1:10 000) werd een gedetailleerde hoogtelijnenkaart vervaardigd, met een minimaal hoogteverschil van 0,25 meter. Op basis van deze hoogtelijnenkaart en indien beschikbaar de bodemkaart en geologische informatie werd een eerste zogenaamde geomorfologische ‘schetskaart’ (schaal 1:25 000) vervaardigd. Met deze ‘schetskaart’ gingen karteerders het veld in. Deze ‘schetskaart’ werd in het veld gecontroleerd, aangepast en aangevuld. Indien nodig voerden karteerders aanvullend booronderzoek van het type bodemkundig boormonster beschrijving en bodemkundig boormonsteronderzoek uit.
+Het proces van opnemen en vervaardigen van de geomorfologische kaart bestond uit verschillende stappen. Eerst werd hulpinformatie aangemaakt. Dit gebeurde per deelgebied, een zogenaamd kaartblad. Op basis van de hoogtepunten kaart (schaal 1:10.000) werd een gedetailleerde hoogtelijnenkaart vervaardigd, met een minimaal hoogteverschil van 0,25 meter. Op basis van deze hoogtelijnenkaart en indien beschikbaar de bodemkaart en geologische informatie werd een eerste zogenaamde geomorfologische ‘schetskaart’ (schaal 1:25.000) vervaardigd. Met deze ‘schetskaart’ gingen karteerders het veld in. Deze ‘schetskaart’ werd in het veld gecontroleerd, aangepast en aangevuld. Indien nodig voerden karteerders aanvullend booronderzoek van het type bodemkundig boormonster beschrijving en bodemkundig boormonsteronderzoek uit.
 
-Deze verbeterde ‘schetskaarten’ werden op de topografische kaart (1:50 000) gelegd waaruit infrastructuur werd overgenomen en werden de vlakken voorzien van de codes voor reliëf en de geomorfologische subgroep en eventuele toevoegingen. Vervolgens vond op het resultaat (kaartblad) een eindcontrole plaats waarbij het gehele blad met verschillende inhoudelijk deskundigen werd bekeken, besproken en eventueel nog werd aangepast. Daarna werd het geomorfologische kaartblad (schaal 1:50 000) in kleur afgedrukt en de toelichting op het kaartblad uitgegeven. De kaartschaal bepaalt mede de mate van detail en minimale grote van landvormen die op de kaart kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid waren de afmetingen van kaartvlakken aan minimumgrenzen gebonden.Voor die delen van Nederland die volgens deze methode zijn gekarteerd geldt een kaartschaal van 1:50.000 en daarvoor geldt dat de afmeting van de kleinst weergegeven landvormen ca. 10 ha. is (1 cm<sup>2<sup> op de kaart = 25 ha. in het terrein).
+Deze verbeterde ‘schetskaarten’ werden op de topografische kaart (1:50.000) gelegd waaruit infrastructuur werd overgenomen en werden de vlakken voorzien van de codes voor reliëf en de geomorfologische subgroep en eventuele toevoegingen. Vervolgens vond op het resultaat (kaartblad) een eindcontrole plaats waarbij het gehele blad met verschillende inhoudelijk deskundigen werd bekeken, besproken en eventueel nog werd aangepast. Daarna werd het geomorfologische kaartblad (schaal 1:50.000) in kleur afgedrukt en de toelichting op het kaartblad uitgegeven. De kaartschaal bepaalt mede de mate van detail en minimale grote van landvormen die op de kaart kan worden weergegeven. Om druktechnische redenen en vanwege de leesbaarheid waren de afmetingen van kaartvlakken aan minimumgrenzen gebonden.Voor die delen van Nederland die volgens deze methode zijn gekarteerd geldt een kaartschaal van 1 : 50.000 en daarvoor geldt dat de afmeting van de kleinst weergegeven landvormen ca. 10 ha. is (1 cm2 op de kaart = 25 ha. in het terrein).
 
 Tussen 1990 en 1998 vonden geen karteringen plaats.
 
-### 2.5.2. Kartering ‘nieuwe stijl’ (1998–heden)
+### 2.5.2. Kartering ‘nieuwe stijl’ (1998 – heden)
 
-Inmiddels is er meer c.q. gedetailleerdere (hulp)informatie beschikbaar, zoals het Actueel Hoogtebestand Nederland (AHN), luchtfoto’s, de bodemkaart van Nederland 1:50 000 en bodemkundige detailkarteringen. Het AHN vormt de basis van de digitale kartering van aardvormen en patronen. In combinatie met de (hulp)informatie worden landvormen geclassificeerd en definitief begrensd. Daarnaast vindt onderzoek in het veld plaats. Een veldonderzoek bestaat uit controle van de ‘digitale’ kartering, het inwinnen van aanvullende informatie en op basis daarvan en van waarnemingen in het veld het opnemen en/of wijzigen van landvormgrenzen.
+Inmiddels is er meer c.q. gedetailleerdere (hulp)informatie beschikbaar, zoals het Actueel Hoogtebestand Nederland (AHN), luchtfoto’s, de bodemkaart van Nederland 1:50.000 en bodemkundige detailkarteringen. Het AHN vormt de basis van de digitale kartering van aardvormen en patronen. In combinatie met de (hulp)informatie worden landvormen geclassificeerd en definitief begrensd. Daarnaast vindt onderzoek in het veld plaats. Een veldonderzoek bestaat uit controle van de ‘digitale’ kartering, het inwinnen van aanvullende informatie en op basis daarvan en van waarnemingen in het veld het opnemen en/of wijzigen van landvormgrenzen.
 
 ### 2.5.3. De kaartschaal
 
-De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. In het verleden waren, om druktechnische redenen en vanwege de leesbaarheid van de analoge kaart, de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1:50 000 waren de kleinste vlakken die werden opgenomen, vlakken die ca. 10 ha. representeerden (1 cm<sup>2<sup> op de kaart = 25 ha. in het terrein). Tegenwoordig worden veel kleinere kaartvlakken gekarteerd. De mate van detail van de huidige geomorfologische kaart komt dichterbij de 1:25.000 en voor sommige gebieden zelfs 1:10.000.
+De kaartschaal bepaalt mede de mate van detail waarmee de bodemgesteldheid kan worden weergegeven. In het verleden waren, om druktechnische redenen en vanwege de leesbaarheid van de analoge kaart, de afmetingen van kaartvlakken aan minimumgrenzen gebonden. Voor de kaartschaal 1:50.000 waren de kleinste vlakken die werden opgenomen, vlakken die ca. 10 ha. representeerden (1 cm2 op de kaart = 25 ha. in het terrein). Tegenwoordig worden veel kleinere kaartvlakken gekarteerd. De mate van detail van de huidige geomorfologische kaart komt dichterbij de 1 : 25.000 en voor sommige gebieden zelfs 1 : 10.000.
 
-### Basisregistratie Ondergrond (BRO)
+## Bijlage XIII. behorend bij [artikel 11, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-**Catalogus**
-
-REGIS II (Hydrogeologisch model)
+Deze bijlage betreft de catalogus van het registratieobject hydrogeologisch model en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
 Versie: 0.99
 
 Datum: 07 mei 2019
 
-**Inhoud**
-
 ### Artikel 1. Definities
+
+### Regis II. (hydrogeologisch model) – overzicht
 
 ### 1.1. Objecttypen
 
@@ -2266,7 +8452,7 @@ Datum: 07 mei 2019
 
 ### 1.6.4.9. Attribuutsoort details Boorbeschrijvingsinterval bijmenging humus
 
-### 1.6.4.10. Relatiesoort details **Boorbeschrijvingsinterval** maakt deel uit van
+### 1.6.4.10. Relatiesoort details Boorbeschrijvingsinterval maakt deel uit van
 
 ### 1.6.5. Objecttype Geïnterpreteerd hydrogeologisch eenheid-interval
 
@@ -2300,9 +8486,9 @@ Datum: 07 mei 2019
 
 ### 1.6.6.9. Attribuutsoort details Laag transmissiviteit
 
-### 1.6.6.10. Attribuutsoort details **Laag** verticale weerstand
+### 1.6.6.10. Attribuutsoort details Laag verticale weerstand
 
-### 1.6.6.11. Relatiesoort details **Laag** maakt deel uit van
+### 1.6.6.11. Relatiesoort details Laag maakt deel uit van
 
 ### 1.6.7. Referentielijst Hydrogeologische eenheid
 
@@ -2350,21 +8536,17 @@ Datum: 07 mei 2019
 
 ### 2.1. Beschrijving
 
-REGIS II is een registratieobject in het domein **modellen.** Het gaat in dit domein om schattingen of voorspellingen van de opbouw en eigenschappen van de bodem of ondergrond in twee of drie dimensies. Deze schematische weergaven geven een schatting of voorspelling van de opbouw en eigenschappen van de bodem of ondergrond. Modellen zijn sterk afhankelijk van de hoeveelheid en kwaliteit van de beschikbare ondergrondgegevens zoals boormonsterbeschrijvingen. De kwaliteit van de modellen zal daarom toenemen naarmate er meer ondergrondgegevens in de BRO beschikbaar komen.
+REGIS II is een registratieobject in het domein **modellen** Het gaat in dit domein om schattingen of voorspellingen van de opbouw en eigenschappen van de bodem of ondergrond in twee of drie dimensies.. Deze schematische weergaven geven een schatting of voorspelling van de opbouw en eigenschappen van de bodem of ondergrond. Modellen zijn sterk afhankelijk van de hoeveelheid en kwaliteit van de beschikbare ondergrondgegevens zoals boormonsterbeschrijvingen. De kwaliteit van de modellen zal daarom toenemen naarmate er meer ondergrondgegevens in de BRO beschikbaar komen.
 
 REGIS II is een driedimensionaal hydrogeologisch model van de laagopbouw en hydraulische eigenschappen van de matig diepe ondergrond van Nederland tot een gemiddelde diepte van ongeveer 500 meter onder NAP, met een maximum diepte van 1.200 m onder NAP. REGIS II is gebaseerd op de interpretaties van de boormonsterbeschrijvingen en het lagenmodel van DGM. In REGIS II zijn de lithostratigrafische eenheden van DGM verder onderverdeeld in hydrogeologische eenheden.
 
 De termen hydrogeologische eenheid en lithostratigrafische eenheid worden hieronder toegelicht:
 
-Een hydrogeologische eenheid maakt onderdeel uit van een lithostratigrafische eenheid of valt daar mee samen. Een hydrogeologische eenheid kan derhalve niet uit meerdere lithostratigrafische eenheden zijn opgebouwd. Door het hanteren van dit criterium wordt de consistentie tussen het geologische model DGM en het hydrogeologische model REGIS II gewaarborgd.
-
-REGIS II bestaat uit de volgende in de BRO opgenomen producten die ontstaan uit een gestandaardiseerd werkproces:
-
 ### 2.2. Versiebeheer
 
 Op REGIS II is versiebeheer van toepassing. De in de BRO uitgeleverde versie van REGIS II bevat altijd het meest actuele model.
 
-De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk viawww.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk via www.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
 
 Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
 
@@ -2486,17 +8668,13 @@ Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt be
 
 Alle hoogten in het lagenmodel van REGIS II zijn gegeven in meter ten opzichte van NAP.
 
-### Basisregistratie Ondergrond (BRO)
+## Bijlage XIV. behorend bij [artikel 11, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-**Catalogus**
-
-GeoTOP
+Deze bijlage betreft de catalogus van het registratieobject GeoTop en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
 Versie: 0.99
 
 Datum: 21 juni 2019
-
-**Inhoud**
 
 ### Artikel 1. Definities
 
@@ -2540,7 +8718,7 @@ Datum: 21 juni 2019
 
 ### 1.3.3. Gestructureerd datatype Kleur
 
-**1.3.3.1 Overzicht data elementen**
+### 1.3.3.1. Overzicht data elementen
 
 ### 1.4. Primitieve datatypen
 
@@ -2766,8 +8944,6 @@ GeoTOP is een driedimensionaal geologisch model van de laagopbouw en grondsoort 
 
 De termen **lithostratigrafie**, **geologische eenheid** en **lithoklasse** worden hieronder toegelicht:
 
-GeoTOP bestaat uit de volgende in de BRO opgenomen producten die ontstaan uit een gestandaardiseerd werkproces:
-
 De onderlinge samenhang van de in de BRO opgenomen geïnterpreteerde boormonsterbeschrijvingen, lagenmodel en voxelmodel is geïllustreerd in Figuur 3.1 – 3.3.
 
 ### 2.2. Dekkingsgebied en modelgebieden
@@ -2800,15 +8976,11 @@ De verschillende uitkomsten van de modelberekeningen geven aan hoe goed het mode
 
 Voor individuele voxels kan de kansverdeling worden weergegeven in een histogram, waarmee een visualisatie van de modelonzekerheid in de betreffende voxel wordt verkregen (Figuur 3.5).
 
-**Figuur 3.5: Visualisatie van modelonzekerheid van een individuele voxel door het weergeven van de kans op lithoklasse in een histogram. In dit voorbeeld is de meest waarschijnlijke lithoklasse klei, met een kans van ruim 50%. Er is ook een vrij grote kans op kleiig zand (~30%), de kans dat de voxel zand of veen bevat is echter klein.**
-
 ### 2.3.4. Modelonzekerheid van lithoklasse
 
 Naast de kans op lithoklasse bevat het voxelmodel een maat van modelonzekerheid die in één getalswaarde wordt uitgedrukt in plaats van een reeks afzonderlijke kansen voor elke mogelijke lithoklasse of geologische eenheid. Deze maat is afgeleid van het concept van **informatie-entropie**. In plaats van de term informatie-entropie wordt in GeoTOP de term **modelonzekerheid** gebruikt.
 
 De modelonzekerheid van lithoklasse is de mate waarin het model in staat is om een eenduidige schatting te geven van de voor de voxel representatieve lithoklasse en heeft de volgende eigenschappen:
-
-**Voorbeelduitwerking**
 
 In onderstaande tabel is de modelonzekerheid (H) uitgewerkt voor een model met drie mogelijke lithoklassen (bijvoorbeeld zand, klei, veen, met kansen p1, p2, p3).
 
@@ -2966,23 +9138,19 @@ Voor het lagenmodel geldt dat de verticale begrenzing aan de onderkant wordt bep
 
 Alle coördinaten in GeoTOP zijn gegeven in m in het Rijksdriehoekstelsel (RD).
 
-Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (‘lower left corner’). Voor het voxelmodel geldt de conventie dat de horizontale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (‘cell center’) van de voxel.
+Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (“lower left corner”). Voor het voxelmodel geldt de conventie dat de horizontale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (“cell center”) van de voxel.
 
 ### 2.6.7. Verticaal referentiesysteem
 
-Alle hoogten in het lagenmodel en voxelmodel van GeoTOP zijn gegeven in m ten opzichte van NAP. Voor het voxelmodel geldt de conventie dat de verticale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (‘cell center’) van de voxel.
+Alle hoogten in het lagenmodel en voxelmodel van GeoTOP zijn gegeven in m ten opzichte van NAP. Voor het voxelmodel geldt de conventie dat de verticale ligging van een voxel wordt beschreven door de coördinaten van het middelpunt (“cell center”) van de voxel.
 
-### Basisregistratie Ondergrond (BRO)
+## Bijlage XV. behorend bij [artikel 11, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-07-01&g=2021-07-01), van de Regeling basisregistratie ondergrond
 
-**Catalogus**
-
-Digitaal Geologisch Model
+Deze bijlage betreft de catalogus van het registratieobject digitaal geologisch model en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
 Versie: 0.99
 
 Datum: 07 mei 2019
-
-**Inhoud**
 
 ### Artikel 1. Definities
 
@@ -3182,7 +9350,7 @@ De onderlinge samenhang van de in de BRO opgenomen geïnterpreteerde boormonster
 
 Op DGM is versiebeheer van toepassing. De in de BRO uitgeleverde versie van DGM bevat altijd het meest actuele model.
 
-De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk viawww.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
+De beheerder van een model maakt zijn waardenlijsten (codelijsten en/of referentielijsten) bekend op een algemeen bekend formaat (PDF en als downloadable bestand) en maakt deze toegankelijk via www.basisregistratieondergrond.nl. De waardenlijsten worden meegeleverd bij de modellevering.
 
 Als er wijzigingen zijn in een waardelijst, wordt er uiterlijk twee maanden vóór inwerkingtreding een notificatie op die website gezet, zodat gebruikers nog tijd hebben om hun eigen omgeving op de wijzigingen aan te passen.
 
@@ -3280,930 +9448,10 @@ Voor het lagenmodel geldt dat de verticale begrenzing aan de onderkant wordt bep
 
 Alle coördinaten in DGM zijn gegeven in meter in het Rijksdriehoekstelsel (RD).
 
-Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (‘lower left corner’).
+Voor de geïnterpreteerde boormonsterbeschrijvingen geven de coördinaten de ligging van de boorlocatie aan maaiveld aan. Voor het lagenmodel geldt de conventie dat de ligging van een rastercel wordt beschreven door de coördinaten van de linkeronderhoek (“lower left corner”).
 
 ### 2.6.7. Verticaal referentiesysteem
 
 Alle hoogten in het lagenmodel van DGM zijn gegeven in meter ten opzichte van NAP.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage III. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2021-01-01&g=2021-01-01) van de Regeling basisregistratie ondergrond
-
-Deze bijlage betreft de catalogus van de registratieobjecten grondwatermonitoringnet, grondwatersamenstellingsonderzoek en grondwaterstandsonderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
-
-### Basisregistratie ondergrond (BRO) catalogus grondwatermonitoringnet
-
-Datum: 31 december 2019
-
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
-
-### 1. Het domeinmodel
-
-**Domeinmodel**
-
-### 2. Registratieobject
-
-### 3. Entiteiten en attributen
-
-### 3.1. Grondwatermonitoringnet
-
-**Grondwatermonitoringnet**
-
-### 3.1.1. BRO-ID
-
-### 3.1.2. bronhouder
-
-### 3.1.3. object-ID bronhouder
-
-### 3.1.4. dataleverancier
-
-### 3.1.5. kwaliteitsregime
-
-### 3.1.6. naam
-
-### 3.1.7. kader aanlevering
-
-### 3.1.8. monitoringdoel
-
-### 3.1.9. grondwateraspect
-
-### 3.2. Registratiegeschiedenis
-
-### 3.2.1. tijdstip registratie object
-
-### 3.2.2. registratiestatus
-
-### 3.2.3. tijdstip laatste aanvulling
-
-### 3.2.4. tijdstip voltooiing registratie
-
-### 3.2.5. gecorrigeerd
-
-### 3.2.6. tijdstip laatste correctie
-
-### 3.2.7. in onderzoek
-
-### 3.2.8. in onderzoek sinds
-
-### 3.2.9. uit registratie genomen
-
-### 3.2.10. tijdstip uit registratie genomen
-
-### 3.2.11. weer in registratie genomen
-
-### 3.2.12. tijdstip weer in registratie genomen
-
-### 3.3. Monitoringnetgeschiedenis
-
-**Monitoringnetgeschiedenis**
-
-### 3.3.1. begindatum monitoring
-
-### 3.3.2. einddatum monitoring
-
-### 3.4. Tussentijdse gebeurtenis
-
-**Tussentijdse gebeurtenis**
-
-### 3.4.1. naam gebeurtenis
-
-### 3.4.2. datum gebeurtenis
-
-### 3.5. Meetpunt
-
-**Meetpunt**
-
-### 3.5.1. meetpuntcode
-
-### 3.6. GMW-monitoringbuis
-
-**GMW-monitoringbuis**
-
-### 3.6.1. BRO-ID
-
-### 3.6.2. buisnummer
-
-### Artikel 2. Beschrijving van uitbreidbare waardelijsten
-
-### 1.1. GrondwaterAspect
-
-### 1.2. KaderAanlevering
-
-### 1.3. Monitoringdoel
-
-### 1.4. Registratiestatus
-
-### 1.5. NaamGebeurtenis
-
-### Toelichting
-
-### 1. Grondwatermonitoringnet
-
-### 1.1. Grondwatermonitoring
-
-Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
-
-In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
-
-Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
-
-In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond, namelijk dat die gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
-
-In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatermonitoringnet.
-
-De monitoring van de kwaliteit van de ondiepe bodem met het daarin aanwezige grondwater (bodemvocht), zoals dat gedaan wordt om de gevolgen van met name landbouwactiviteiten te kunnen volgen, valt buiten de scope van het registratieobject Grondwatermonitoringnet. De volledige scopeafbakening is beschreven in het Scopedocument grondwatermonitoringnet GMN.
-
-### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
-
-Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
-
-In de voorliggende catalogus gaat het over het registratieobject Grondwatermonitoringnet.
-
-In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
-
-Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als **meetpunt** in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
-
-Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringsput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
-
-Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond.
-
-Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellings- of grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellings- of grondwaterstandonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
-
-Een grondwatersamenstellings- en grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het onderzoek. Deze bronhouder levert het onderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het onderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan.
-
-Op de website basisregistratie ondergrond is meer informatie te vinden over grondwatersamenstellingsonderzoek en grondwaterstandonderzoek.
-
-### 1.3. Wettelijk kader en monitoringdoel
-
-Met het registratieobject Grondwatermonitoringnet wordt de groepering van samenhangende onderzoeksgegevens, namelijk van onderzoeken die vanuit hetzelfde bepaalde doel zijn uitgevoerd, tot een gegevensset gefaciliteerd. Naast de (her)gebruikswaarde van de afzonderlijke onderzoeksgegevens, ontstaat hiermee toegevoegde (her)gebruikswaarde door groepering in een gegevensset. Bestuursorganen en andere gebruikers worden met deze gegevenssets in staat gesteld om huidige en toekomstige geohydrologische vraagstukken beter en efficiënter te beantwoorden.
-
-Een grondwateronderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden: een onderzoek kan in het kader van meerdere grondwatermonitoringnetten tegelijk zijn uitgevoerd, en dus deel uitmaken van meerdere gegevenssets. In het registratieobject Grondwatermonitoringnet worden daartoe het doel van de monitoring (**monitoringdoel**) vastgelegd en het wettelijk kader waar dit doel uit volgt (**kader aanlevering**). In de bijlage is een overzicht opgenomen van de wettelijke kaders en de daarbij behorende monitoringdoelen.
-
-Bij de registratieobjecten Grondwatersamenstellingsonderzoek en Grondwaterstandonderzoek wordt vastgelegd ten behoeve van welk(e) monitoringnet(ten) het onderzoek is uitgevoerd. Het **kader aanlevering** van een grondwatermonitoringnet geldt daarmee ook voor de aan het monitoringnet gekoppelde onderzoeken.
-
-De wettelijke kaders waarbinnen grondwatermonitoring plaatsvindt, staan in de codelijst KaderAanlevering. In deze codelijst zijn alleen wetten opgenomen die op dit moment in werking zijn. Er wordt op dit moment gewerkt aan de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885). Het is de ambitie om verschillende wetten die in de codelijst KaderAanlevering staan, waaronder de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en de [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505), te laten opgaan in de Omgevingswet. De Omgevingswet is nog niet in werking getreden, en is daarom niet opgenomen in de codelijst KaderAanlevering.
-
-In de basisregistratie ondergrond ligt alleen de huidige rechtsgrond vast op basis waarvan de monitoring plaatsvindt. Aangezien de wetgeving kan veranderen gedurende de periode van monitoren, terwijl het monitoringdoel gelijk kan blijven, geldt dat de rechtsgrond gedurende de levensduur van het grondwatermonitoringnet kan veranderen. In dat geval geeft de bronhouder de nieuwe waarde voor **kader aanlevering** door, en vervangt dit de waarde die op dat moment vastligt. In de basisregistratie ondergrond ligt van **kader aanlevering** alleen de huidige waarde vast, er wordt van dit gegeven geen materiële geschiedenis bijgehouden.
-
-### 1.4. Meetpunten
-
-Om aan te geven op welke locaties er onderzoek wordt gedaan ten behoeve van het monitoringdoel, ligt bij een grondwatermonitoringnet vast welke meetpunten onderdeel zijn van het net. Een meetpunt wordt gevormd door een filter dat zich in een monitoringbuis van een grondwatermonitoringput bevindt. In de basisregistratie ondergrond wordt de verwijzing naar deze monitoringbuis vastgelegd door middel van **het BRO-ID** van de grondwatermonitoringput en het **buisnummer**. Het grondwatermonitoringnet en de grondwatermonitoringputten kunnen overigens verschillende bronhouders hebben.
-
-Het meetpunt wordt binnen de basisregistratie ondergrond geïdentificeerd door de **meetpuntcode**. Deze code is uniek binnen het grondwatermonitoringnet en wordt door de bronhouder bepaald en aangeleverd.
-
-De verzameling meetpunten geeft de samenstelling van het grondwatermonitoringnet weer, en geeft inzicht in het gebied waarin wordt gemonitord. De verzameling meetpunten waaruit het monitoringnet bestaat, kan veranderen in de tijd: de verzameling meetpunten kan worden uitgebreid en/of ingekrompen. In de tijd kunnen ook meetpunten zelf veranderen: een meetpunt kan opeenvolgend gevormd worden door verschillende, in buizen aanwezige filters. Deze filters kunnen onderdeel zijn van verschillende grondwatermonitoringputten. Bijvoorbeeld wanneer een filter verstopt raakt of de put kapot gaat en vervangen wordt door een nieuwe put. Als de bronhouder van een grondwatermonitoringnet de vervangende put en de daarin aanwezige buis met filter met het oog op het monitoringdoel van het monitoringnet beschouwt als voldoende vergelijkbaar met het oude filter (in de voorgaande put), dan kan hij ervoor kiezen om het meetpunt voort te zetten met het vervangende filter in de buis van de (vervangende) put.
-
-Om de geohydrologische context te kunnen begrijpen, moet de gebruiker van de basisregistratie ondergrond de volledige, door de bronhouder gedefinieerde, gegevensset van een grondwatermonitoringnet kunnen raadplegen. Voor optimale herbruikbaarheid is het daarom nodig dat deze verzameling van meetpunten volledig en juist in de basisregistratie ondergrond wordt vastgelegd. Om het aanleveren van gegevens van de verschillende registratieobjecten in het grondwaterdomein gemakkelijker te maken is het is niet verplicht om deze gegevens meteen bij registratie volledig aan te leveren. Bij een grondwatermonitoringnet moet wel altijd minstens één koppeling zijn met een monitoringbuis van een grondwatermonitoringput als meetpunt, zodat het grondwatermonitoringnet op elk moment in de tijd via een gekoppelde grondwatermonitoringput gerelateerd kan worden aan een locatie. De verzameling van meetpunten kan eventueel na registratie van het grondwatermonitoringnet op een later moment compleet gemaakt worden.
-
-### 1.4.1. Aanduiding buis in gebruik in Grondwatermonitoringput
-
-In het registratieobject Grondwatermonitoringput ligt voor elke buis in de put vast of het filter in die buis in gebruik is (attribuut **buis in gebruik**). Deze aanduiding geeft aan of het filter van de monitoringbuis een actueel meetpunt vormt in een grondwatermonitoringnet. Een filter vormt een actueel meetpunt als er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het al dan niet gekoppeld zijn van grondwatersamenstellingsonderzoeken of grondwaterstandonderzoeken aan de betreffende buis van de put is niet van invloed op de waarde van **buis in gebruik**.
-
-De waarde van het attribuut **buis in gebruik** wordt door de basisregistratie ondergrond afgeleid. Dit wordt niet door een bronhouder aangeleverd. Wanneer de gegevens van de buis worden aangeleverd aan de basisregistratie ondergrond in het registratieobject Grondwatermonitoringput, krijgt **buis in gebruik** initieel de waarde 'onbekend'. Wanneer een bronhouder een verandering doorgeeft in een meetpunt van een monitoringnet, dan past de basisregistratie ondergrond, als dat nodig is, ook de waarde van **buis in gebruik** aan voor de betreffende buis in de grondwatermonitoringput. Dit zorgt ervoor dat **buis in gebruik** op 'ja' staat wanneer er binnen één of meerdere grondwatermonitoringnetten op de huidige datum een meetpunt is dat naar de betreffende buis in de put verwijst. Het staat op 'nee' wanneer dit niet het geval is.
-
-### 1.5. Object met een levensloop
-
-Het grondwatermonitoringnet is een object met een levensloop. Een grondwatermonitoringnet bestaat voor langere tijd, en tijdens zijn bestaan kunnen veranderingen optreden die geregistreerd moeten worden in de basisregistratie ondergrond. Registratie van gegevens van een grondwatermonitoringnet is dus geen eenmalige gebeurtenis, maar een proces dat zo lang duurt als het grondwatermonitoringnet bestaat. De levensloop van een grondwatermonitoringnet heeft een begin en een eind, en loopt gelijk met de periode waarin wordt gemonitord.
-
-De **monitoringnetgeschiedenis** bevat het geheel van gebeurtenissen dat de geschiedenis van het monitoringnet in de werkelijkheid beschrijft: de monitoringgeschiedenis geeft aan wat de begindatum van monitoring is, wat de einddatum van monitoring is en welke gebeurtenissen er tussentijds hebben plaatsgevonden.
-
-Bij het registreren van het grondwatermonitoringnet geeft de bronhouder de **begindatum monitoring** op. Wanneer de reeds bestaande monitoringnetten voor het eerst in de basisregistratie ondergrond geregistreerd worden, zal de begindatum voor deze monitoringnetten in het verleden liggen.
-
-Tot het moment van beëindigen blijft een grondwatermonitoringnet vanuit het oogpunt van de basisregistratie ondergrond actief. Ook als er gedurende enige of langere tijd geen grondwatersamenstellingsonderzoeken aan gekoppeld worden, of lopende grondwaterstandonderzoeken aan gekoppeld zijn. Bij het eindigen van het monitoren binnen een bepaald grondwatermonitoringnet geeft de bronhouder de **einddatum monitoring** op. De gegevens van het grondwatermonitoringnet en de onderzoeken die eraan gekoppeld zijn blijven na die einddatum opvraagbaar voor gebruikers.
-
-Wanneer zich gedurende de levensloop van een grondwatermonitoringnet een relevante verandering voordoet, worden de nieuwe gegevens aangeboden aan de basisregistratie ondergrond. Deze veranderingen worden vastgelegd als **Tussentijdse gebeurtenis**. Van elke tussentijdse gebeurtenis wordt de **naam gebeurtenis** en de **datum gebeurtenis** vastgelegd. Tussentijds kan de verzameling meetpunten veranderen; er kunnen meetpunten bijkomen (**meetpuntToevoegen**) en afvallen (**meetpuntBeëindigen**). Dit betekent dat van elk meetpunt de begin- en de einddatum wordt vastgelegd. Deze informatie is ook opvraagbaar voor gebruikers.
-
-Bij een meetpunt kan tevens de verwijzing naar de monitoringbuis in de grondwatermonitoringput wijzigen (**monitoringbuisVervangen**) zie paragraaf 1.4, Meetpunten. De vervangingsdatum van de, aan het meetpunt gekoppelde monitoringbuis in een put, wordt vastgelegd en is daarmee door gebruikers opvraagbaar. Een meetpunt moet altijd een verwijzing naar een monitoringbuis in een put bevatten. De registratie van de tussentijdse gebeurtenis monitoringbuisVervangen kan daarom pas plaatsvinden nadat de grondwatermonitoringput en de monitoringbuis zijn geregistreerd in de basisregistratie ondergrond.
-
-In de registratiegeschiedenis van elk registratieobject ligt vast sinds wanneer het is geregistreerd in de basisregistratie ondergrond (**tijdstip registratie object**) en wanneer de registratie is voltooid (**tijdstip voltooiing registratie**). Dit is onderdeel van de formele geschiedenis van het registratieobject. De **begindatum** en **einddatum monitoring** van het monitoringnet kunnen andere datums zijn dan de datums in de formele geschiedenis. De begin- en einddatum monitoring zijn onderdeel van de **Monitoringnetgeschiedenis.** De monitoringnetgeschiedenis vormt de materiële geschiedenis van het registratieobject. Voor uitleg over materiële en formele geschiedenis van objecten: zie de inleidende tekst in het begeleidende document.
-
-### 1.6. Kwaliteit en kwantiteit
-
-In het kader van een grondwatermonitoringnet wordt onderzoek gedaan naar de kwaliteit of kwantiteit van het grondwater. Het komt ook voor dat er onderzoeken worden uitgevoerd naar beide grondwateraspecten: zowel de kwaliteit als de kwantiteit. In dat geval is wel altijd één van beide grondwateraspecten primair, en vinden er ondersteunend ook onderzoeken aan het andere aspect plaats. Bijvoorbeeld: in sommige monitoringnetten voor kwantiteit worden ook chloridegehaltes gemeten ten behoeve van eventuele correcties (‘zoutcorrecties’).
-
-Voor de aspecten kwaliteit en kwantiteit zijn er afzonderlijke monitoringdoelen. In het geval dat er in het kader van het grondwatermonitoringnet metingen aan zowel de kwaliteit als de kwantiteit worden gedaan, wordt het monitoringdoel bij het primaire, meest belangrijke aspect vastgelegd in de basisregistratie ondergrond. Naast onderzoeken aan het primaire grondwateraspect, kunnen er ook onderzoeken aan het andere aspect gekoppeld zijn aan het grondwatermonitoringnet. Bijvoorbeeld: aan een grondwatermonitoringnet waarin primair het aspect kwantiteit wordt gemonitord, kunnen naast grondwaterstandonderzoeken ook grondwatersamenstellingsonderzoeken gekoppeld worden.
-
-In de basisregistratie ondergrond wordt, naast het **monitoringdoel**, het **grondwateraspect** ook in een eigen attribuut vastgelegd. De gebruiker kan hierdoor grondwatermonitoringnetten selecteren op basis van het aspect dat gemonitord wordt: kwaliteit of kwantiteit.
-
-### 1.7. Kwaliteitsregime IMBRO/A
-
-Een belangrijk aandachtspunt in het domein grondwatermonitoring is het in de basisregistratie ondergrond registreren van historische onderzoeksgegevens van grondwaterkwaliteit en grondwaterstanden. Deze zijn mogelijk niet onder te brengen in een scherp gedefinieerd monitoringnet met bijbehorend wettelijk kader conform de eisen van kwaliteitsregime IMBRO.
-
-Voor historische onderzoeksgegevens zijn het wettelijk kader en het monitoringdoel niet altijd bekend. Deze historische gegevens kunnen aan een grondwatermonitoringnet gekoppeld worden met kwaliteitsregime IMBRO/A. Grondwatermonitoringnetten onder kwaliteitsregime IMBRO/A zijn bedoeld als administratieve oplossing om in de basisregistratie ondergrond historische onderzoeksgegevens, bijvoorbeeld uit archiefoverdracht, te kunnen registreren waarvan niet (meer) bekend is binnen welk(e) monitoringnet(ten) deze tot stand zijn gekomen. Onder kwaliteitsregime IMBRO/A is het daarom mogelijk om grondwatermonitoringnetten te definiëren zonder specifiek wettelijk kader (kader aanlevering 'archiefoverdracht') en zonder specifiek monitoringdoel (monitoringdoel 'onbekend'). Wanneer het monitoringdoel 'onbekend' opgegeven is, kan de bronhouder er daarnaast voor kiezen om het grondwateraspect 'onbekend' vast te leggen, in plaats van specifiek 'kwaliteit' of 'kwantiteit'.
-
-Grondwatermonitoringnetten onder IMBRO/A moeten altijd betrekking hebben op een periode in het verleden: bij registratie geeft de bronhouder een **einddatum monitoring** in het verleden op, of anders een **einddatum monitoring** met de waarde 'onbekend'.
-
-### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het grondwaterdomein
-
-De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’, en de beschrijving over het gegeven buis in gebruik in paragraaf ‘Aanduiding buis in gebruik in Grondwatermonitoringput’.
-
-Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af, behalve op het gebied van verwijzingen zoals hieronder beschreven.
-
-De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf ‘Domein grondwatermonitoring in de basisregistratie ondergrond’):
-
-Daarnaast wordt op de volgende punten consistentie verwacht:
-
-Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
-
-### 1.8.1. Buiten scope
-
-Binnen het geheel van grondwatersamenstellingsonderzoeken die gekoppeld zijn aan een grondwatermonitoringnet, wordt soms nog een verdere groepering onderkend in meetrondes. In een meetronde wordt samenhang aangebracht tussen grondwatersamenstellingsonderzoeken die in dezelfde periode zijn uitgevoerd in verschillende meetpunten. Deze zijn door de bronhouder bedoeld om een samenhangende gegevensset te vormen. Het concept meetronde is niet opgenomen in de basisregistratie ondergrond, en maakt dus geen deel uit van het registratieobject Grondwatermonitoringnet.
-
-### 1.9. INSPIRE
-
-Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatermonitoringnet valt onder het INSPIRE-thema Environmental monitoring facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatermonitoringnet op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
-
-### 1.10. Bijlage: Wettelijk kader en monitoringdoel
-
-In onderstaande overzicht is aangegeven:
-
-1 Dit **monitoringdoel** komt voor binnen meerdere **kaders aanlevering**.
-
-### Basisregistratie ondergrond (BRO) catalogus grondwatersamenstellingsonderzoek
-
-Datum 15 november 2019
-
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
-
-### 1. Het domeinmodel
-
-**Domeinmodel**
-
-### 2. Registratieobject
-
-### 3. Entiteiten en attributen
-
-### 3.1. Grondwatersamenstellingsonderzoek
-
-**Grondwatersamenstellingsonderzoek**
-
-### 3.1.1. BRO-ID
-
-### 3.1.2. bronhouder
-
-### 3.1.3. object-ID bronhouder
-
-### 3.1.4. dataleverancier
-
-### 3.1.5. kwaliteitsregime
-
-### 3.1.6. beoordelingsprocedure
-
-### 3.2. Registratiegeschiedenis
-
-### 3.2.1. tijdstip registratie object
-
-### 3.2.2. registratiestatus
-
-### 3.2.3. tijdstip voltooiing registratie
-
-### 3.2.4. gecorrigeerd
-
-### 3.2.5. tijdstip laatste correctie
-
-### 3.2.6. in onderzoek
-
-### 3.2.7. in onderzoek sinds
-
-### 3.2.8. uit registratie genomen
-
-### 3.2.9. tijdstip uit registratie genomen
-
-### 3.2.10. weer in registratie genomen
-
-### 3.2.11. tijdstip weer in registratie genomen
-
-### 3.3. Grondwatermonitoringnet
-
-**Grondwatermonitoringnet**
-
-### 3.3.1. BRO-ID
-
-### 3.4. GMW-monitoringbuis
-
-**GMW-monitoringbuis**
-
-### 3.4.1. BRO-ID
-
-### 3.4.2. buisnummer
-
-### 3.5. Veldonderzoek
-
-**Veldonderzoek**
-
-### 3.5.1. tijdstip veldonderzoek
-
-### 3.5.2. uitvoerder veldonderzoek
-
-### 3.5.3. bemonsteringsprocedure
-
-### 3.6. Bemonsteringsapparaat
-
-**Bemonsteringsapparaat**
-
-### 3.6.1. pomptype
-
-### 3.7. Veldwaarneming
-
-**Veldwaarneming**
-
-### 3.7.1. hoofdkleur
-
-### 3.7.2. bijkleur
-
-### 3.7.3. kleursterkte
-
-### 3.7.4. afwijkend gekoeld
-
-### 3.7.5. afwijking in meetapparatuur
-
-### 3.7.6. contaminatie door verbrandingsmotor
-
-### 3.7.7. filter belucht
-
-### 3.7.8. grondwaterstand teveel gedaald
-
-### 3.7.9. inline filter afwijkend
-
-### 3.7.10. monster belucht
-
-### 3.7.11. slang hergebruikt
-
-### 3.7.12. temperatuur moeilijk te bepalen
-
-### 3.8. Veldmeting
-
-**Veldmeting**
-
-### 3.8.1. parameter
-
-### 3.8.2. veldmeetwaarde
-
-### 3.8.3. status kwaliteitscontrole
-
-### 3.9. Laboratoriumonderzoek
-
-**Laboratoriumonderzoek**
-
-### 3.9.1. uitvoerder laboratoriumonderzoek
-
-### 3.10. Analyseproces
-
-**Analyseproces**
-
-### 3.10.1. analysedatum
-
-### 3.10.2. bepalingstechniek
-
-### 3.10.3. bepalingsprocedure
-
-### 3.11. Analyse
-
-**Analyse**
-
-### 3.11.1. parameter
-
-### 3.11.2. analysemeetwaarde
-
-### 3.11.3. limietsymbool
-
-### 3.11.4. rapportagegrens
-
-### 3.11.5. status kwaliteitscontrole
-
-### Artikel 2. Beschrijving van uitbreidbare waardelijsten
-
-### 1.1. Parameterlijst
-
-### 1.2. Bemonsteringsprocedure
-
-### 1.3. Beoordelingsprocedure
-
-### 1.4. Kleur
-
-### 1.5. Kleursterkte
-
-### 1.6. LimietSymbool
-
-### 1.7. Pomptype
-
-### 1.8. Registratiestatus
-
-### 1.9. StatusKwaliteitscontrole
-
-### 1.10. Waardebepalingsprocedure
-
-### 1.11. Waardebepalingstechniek
-
-### Toelichting
-
-### 1. Grondwatersamenstellingsonderzoek
-
-### 1.1. Grondwatermonitoring
-
-Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid bruikbaar grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd.
-
-In het domein grondwatermonitoring van de basisregistratie ondergrond staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het **monitoringdoel**, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
-
-Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
-
-In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld anders dan geldt voor de gehele basisregistratie ondergrond namelijk dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
-
-In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de basisregistratie ondergrond vooralsnog geen milieukwaliteitinformatie bevat. Voor het grondwatermonitoringdomein zijn monitoringnetten rondom milieuhygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie (Kamerstuk 34864-19) aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’. Op het moment van publiceren van deze catalogus is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van het registratieobject Grondwatersamenstellingsonderzoek.
-
-De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwatersamenstelling, omdat zij daarin een wettelijke taak hebben zijn RIVM, Rijkswaterstaat, provincies, waterschappen, gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwatersamenstelling, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe)bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen) en natuurterreinbeheerorganisaties. Deze organisaties doen periodiek grondwatersamenstellingsonderzoek en hebben daarvoor grondwatermonitoringnetten. Het bestuursorgaan dat optreedt als bevoegd gezag kan het registreren van deze gegevens als voorwaarde opnemen in de beschikking van de betreffende vergunningsaanvragen.
-
-De volledige scopeafbakening is beschreven in het Scopedocument grondwatersamenstellings-onderzoek GAR.
-
-### 1.2. Domein grondwatermonitoring in de basisregistratie ondergrond
-
-Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vier registratieobjecten:
-
-In de voorliggende catalogus gaat het over het registratieobject Grondwatersamenstellingsonderzoek.
-
-In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen Engelstalige afkortingen en de Nederlandstalige termen gebruiken.
-
-Een grondwatermonitoringput betreft de putconstructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond.
-
-Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput. Naast putten kunnen ook bronnen gebruikt worden in grondwatersamenstellingsmonitoring. Een bron is een locatie waar het grondwater uittreedt aan het maaiveld. Op dit moment voorziet de basisregistratie het registreren van bronnen niet. Voorzien wordt dat de gegevensdefinitie van de grondwatermonitoringput aangepast wordt, zodat het mogelijk wordt om bronnen te registreren.
-
-Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
-
-Een grondwatermonitoringnet is een verzameling locaties waar periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater vanuit een perspectief te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet faciliteert daardoor de groepering van onderzoeksgegevens door bronhouder op basis van het doel van monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
-
-Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwatersamenstellingsonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om één grondwatersamenstellingsonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen provinciaal monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat een grondwatersamenstellingsonderzoek kan toebehoren aan één of meerdere grondwatermonitoringnetten.
-
-Een grondwatersamenstellingsonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwatersamenstellingsonderzoek. Deze bronhouder levert het grondwatersamenstellingsonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwatersamenstellingsonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
-
-### 1.3. Het grondwatersamenstellingsonderzoek
-
-### 1.3.1. Inleiding
-
-Een **grondwatersamenstellingsonderzoek** is een monitoringactiviteit gericht op het onderzoeken van de samenstelling van een grondwatermonster uit een bepaald meetpunt in de ondergrond. In plaats van samenstelling van het grondwater wordt ook wel gesproken over kwaliteit van het grondwater. In deze catalogus doelen we met beide op hetzelfde. Een meetpunt wordt gevormd door een **filter** van een monitoringbuis in een **grondwatermonitoringput** (zie paragraaf 1.2 van deze toelichting). Een grondwatersamenstellingsonderzoek wordt uitgevoerd door of in opdracht van een bronhouder en wordt gedaan in het kader van een of meerdere monitoringdoelen.
-
-Een grondwatersamenstellingsonderzoek wordt uitgevoerd in meerdere delen. Het eerste deel van het onderzoek wordt in het veld verricht. Het tweede deel vindt plaats in het laboratorium. In enkele gevallen vindt er geen laboratoriumonderzoek plaats en bestaat het grondwatersamenstellingsonderzoek uit uitsluitend veldmetingen. Het kan ook voorkomen dat het laboratoriumonderzoek wordt uitgevoerd in meer dan één laboratorium. De resultaten van de verschillende delen van het onderzoek worden, na beoordeling door de bronhouder, samen geregistreerd in de basisregistratie ondergrond.
-
-In tegenstelling tot de relatief snel variërende stand van het grondwater (grondwaterstanden veranderen binnen een dag), verandert de samenstelling van het grondwater relatief langzaam. Dit komt doordat grondwater zich langzaam verplaatst door de ondergrond. Grondwatersamenstellingsonderzoeken worden daarom doorgaans maar één keer of hooguit een paar keer per jaar uitgevoerd op een locatie. In de meetpunten in het landelijke monitoringnet en in de meetpunten in de provinciale monitoringnetten wordt er bijvoorbeeld jaarlijks één grondwatersamenstellingsonderzoek uitgevoerd. Als er lokaal reden is om de grondwatersamenstelling beter in de gaten te houden, omdat daar bijvoorbeeld drinkwater onttrokken wordt of er activiteiten plaatsvinden die invloed kunnen hebben op de grondwatersamenstelling, kan er besloten worden om de onderzoeksfrequentie te verhogen.
-
-### 1.3.2. Het proces
-
-Een grondwatersamenstellingsonderzoek wordt uitgevoerd aan de hand van verschillende protocollen. Zowel bij het veldonderzoekdeel als bij het laboratoriumdeel als bij de beoordeling wordt gewerkt volgens vastgestelde voorschriften, normen en richtlijnen.
-
-Het verloop van het proces is schematisch weergegeven in de onderstaande figuur en daaronder beschreven. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. De eerste drie stappen van het proces zijn kort beschreven in paragraaf 1.1 en 1.2 van deze toelichting en uitgebreider in het Scopedocument grondwatersamenstellingsonderzoek GAR. Een handboek voor inname beschrijft het proces dat bij het leveren van gegevens aan de basisregistratie ondergrond wordt doorlopen. In deze catalogus beschrijven we alleen de onderdelen veldonderzoek, labonderzoek en controleren en beoordelen.
-
-### 1.4. Belangrijkste entiteiten
-
-In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie. Als eerst wordt de hoofdentiteit beschreven, daarna de entiteiten van het veldonderzoek en de entiteiten van het laboratoriumonderzoek. Het resultaat van de beoordeling, de kwaliteitsstatus van de gegevens, is onderdeel van zowel het veldonderzoek als het laboratoriumonderzoek.
-
-### 1.4.1. Grondwatersamenstellingsonderzoek
-
-Informatie uit de periodieke grondwatersamenstellingsonderzoeken wordt in de basisregistratie ondergrond geregistreerd als het registratieobject Grondwatersamenstellingsonderzoek. Dit registratieobject omvat de, van een beoordelingsresultaat voorziene, definitieve meetwaarden van een op grondwatersamenstelling gericht onderzoek dat aan een grondwatermonster uit een bepaald meetpunt is verricht. Daarbij is een uitgangspunt dat een grondwatersamenstellingsonderzoek één bronhouder heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn. Daarnaast is een uitgangspunt dat alle gegevens van het grondwatersamenstellingsonderzoek tegelijk worden aangeleverd aan de basisregistratie ondergrond. De resultaten van het veldonderzoekdeel en het laboratoriumonderzoekdeel binnen één grondwatersamenstellingsonderzoek worden dus samen aangeleverd.
-
-Een grondwatersamenstellingsonderzoek kan ten behoeve van meer dan één monitoringdoel uitgevoerd worden. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject Grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) geregistreerd en het wettelijk kader waar dit doel uit volgt (kader aanlevering). In het registratieobject grondwatersamenstellingsonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwatersamenstellingsonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 van deze toelichting) is het doel en het wettelijk kader van het grondwatersamenstellingsonderzoek indirect geregistreerd. De verwijzing naar het grondwatermonitoringnet wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
-
-Bij een grondwatersamenstellingsonderzoek ligt de verwijzing vast naar de monitoringbuis van de grondwatermonitoringput waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 van deze toelichting). De verwijzing wordt gemaakt op basis van het BRO-ID van de grondwatermonitoringput in combinatie met het buisnummer van de buis waarin de bemonstering heeft plaatsgehad. Met deze buisverwijzing is via de filterdiepte ook de diepte geregistreerd waarop de grondwatermonsters zijn genomen.
-
-De veld- en laboratoriumanalyseresultaten van een grondwatersamenstellingsonderzoek worden door de bronhouder en/of een derde partij in opdracht van een bronhouder gecontroleerd en beoordeeld. Bij het beoordelen van gegevens wordt gekeken naar de resultaten van het grondwatersamenstellingsonderzoek als geheel. Bijvoorbeeld wordt de consistentie beoordeeld tussen de chemische veld- en laboratoriumresultaten met behulp van verschillende chemische relaties. Daarnaast worden meetresultaten beoordeeld binnen de tijdreeks, indien aanwezig, van het betreffende filter. De beoordeling vindt plaats aan de hand van een **beoordelingsprocedure**. Dit is een protocol of werkvoorschrift dat is toegepast bij het beoordelen van de kwaliteit van de meetwaarden die in het veld en/of in het laboratorium gemeten zijn. De procedure beschrijft hoe de beoordeling wordt gedaan en op welke manier de beoordeling leidt tot het eindoordeel over de kwaliteit van een individuele meting.
-
-Elk grondwatersamenstellingsonderzoek wordt uitgevoerd volgens afspraak tussen opdrachtgever (de **bronhouder** die in de basisregistratie ondergrond voor elk registratieobject wordt geregistreerd) en opdrachtnemer(s). Bij elk grondwatersamenstellingsonderzoek wordt een hoeveelheid parameters, ofwel eigenschappen van het grondwatermonster, gemeten. Het resultaat van deze metingen wordt geregistreerd in de basisregistratie ondergrond.
-
-### 1.4.2. Identificatie van parameters
-
-Zowel in het veldonderzoek als in het laboratoriumonderzoek worden parameters, eigenschappen, van het grondwater bepaald. Bij de registratie van de meetresultaten van het veldonderzoek en het laboratoriumonderzoek wordt gebruik gemaakt van de **Parameterlijst** (zie Artikel 1, 1.1 Parameterlijst, voor de inhoud van de lijst). Elke **parameter** in deze lijst wordt geïdentificeerd door het **ID** van de parameter. Het ID wordt gebruikt om de parameter aan te duiden, dit is een persistent, identificerend volgnummer binnen de referentielijst zoals dat uitgegeven wordt door het SIKB. Het ID van een parameter zal in de loop der tijd dus niet veranderen. Voor nieuwe stoffen kan een nieuw ID met een nieuwe Aquocode aangevraagd worden.
-
-In de Parameterlijst is voor elke parameter naast het ID ook vastgelegd: de **Aquocode**, het **CASnummer** (indien van toepassing), een **omschrijving**, de **eenheid** en de **hoedanigheid** waarin de parameter wordt geregistreerd.
-
-De **Aquocode** is een codering voor een stof die afgeleid is van de naam van de stof. De Aquocode maakt onderdeel uit van de Aquo-standaard. Dit is een open standaard en uniforme taal voor de uitwisseling van gegevens binnen de watersector.
-
-Het **CASnummer** is het Chemical Abstracts Service nummer van de laboratoriumparameter. Dit is een internationaal gebruikte, unieke, numerieke code voor chemische elementen, componenten en polymeren. Er zijn alleen CASnummers voor chemische verbindingen, niet voor parameters die de toestand van het grondwater beschrijven zoals zuurgraad, troebelheid, elektrisch geleidingsvermogen of temperatuur. Ook zijn er geen CASnummers voor som-parameters zoals stikstof-totaal of de som van trichloorfenol-isomeren.
-
-De Aquocode, het CASnummer (indien van toepassing) en de **omschrijving** vormen de toelichting op de parameter, deze gegevens zorgen ervoor dat alle gebruikers er zeker van zijn om welke eigenschap of stof het gaat.
-
-Om verschillende grondwatersamenstellingsonderzoeken met elkaar te kunnen vergelijken is de **eenheid** door de basisregistratie ondergrond voorgeschreven. Alleen een veelvoud of een deel van de voorgeschreven eenheid kan voorkomen. Wanneer bijvoorbeeld µg/l in de parameterlijst staat is mg/l ook toegestaan als dit beter aansluit bij de hoogte van de gemeten waarde. De prefix, het voorvoegsel van de eenheid mag dus worden aangepast ten opzichte van wat is gedefinieerd in de parameterlijst.
-
-Naast de eenheid is ook de **hoedanigheid** voorgeschreven. De hoedanigheid is de vorm waarin de eenheid behorend bij een meetwaarde wordt uitgedrukt of de fractie van de parameter waarop de meetwaarde betrekking heeft. De verschillende waarden van de hoedanigheid kenmerken zich door de volgende criteria:
-
-De hoedanigheid bevat géén waarden die een nadere aanduiding zijn van methodes, technieken voor behandeling, ontsluiting of analyse van monsters.
-
-De parameterlijst is gebaseerd op de Aquo parameterlijst Grondwaterkwaliteit van het IHW, aangevuld met parameters van de Aquo parameterlijst Bodemkwaliteit – compartiment Grondwater van het SIKB en verder aangevuld met door stakeholders kenbaar gemaakte parameters waar grondwater op bemonsterd wordt.
-
-### 1.4.3. Veldonderzoek en monstername
-
-Tijdens het **veldonderzoek** wordt in het veld een aantal waarnemingen gedaan en een aantal metingen uitgevoerd die belangrijk zijn om in het veld uit te voeren en het resultaat ervan te registreren. Tevens worden monsters genomen voor analyse in het laboratorium. De **uitvoerder veldonderzoek** is de partij die voor de bronhouder verantwoordelijk is voor het uitvoeren van het veldonderzoek.
-
-Het veldonderzoek gebeurt op een bepaald tijdstip, op een bepaalde datum, het **tijdstip veldonderzoek**. Dit is het tijdstip van monstername. Bij historische gegevens kan het voorkomen dat het tijdstip van monstername niet bekend is, dat alleen de datum van het veldonderzoek bekend is. In deze gevallen kan een fictief tijdstip, 12:00:00, gekozen worden. Bij het veldonderzoek wordt **een** bepaalde **bemonsteringsprocedure** gebruikt. Hierin zijn de eisen en de voorgeschreven werkwijze ten aanzien van bemonstering vastgelegd.
-
-Gegevens over het **Bemonsteringsapparaat** zijn relevant voor de beoordeling van de kwaliteit van het monster. Het **pomptype** is kenmerkend voor het bemonsteringsapparaat en wordt daarom vastgelegd in de basisregistratie ondergrond.
-
-Een aantal van de metingen die in het veld worden gedaan, wordt in de basisregistratie ondergrond geregistreerd bij **Veldmeting.** Deze gegevens hebben hergebruikswaarde: ze geven een algemene indruk over het bemonsterde grondwater, de meetwaarden worden gebruikt in bepaalde controles, of de bepaling in het veld levert een betrouwbaarder resultaat op dan een bepaling in het laboratorium. Voor het meten van parameters in het veld zijn meerdere redenen:
-
-Het resultaat van de metingen in het veld wordt geregistreerd bij **Veldmeting**. Zoals in paragraaf 1.4.2 toegelicht, wordt elke **parameter** geïdentificeerd door het ID van de parameter. De gemeten **waarde** van een veldmeting wordt geregistreerd in de basisregistratie ondergrond bij **veldmeetwaarde**. De **veldmeetwaarde** heeft het formaat Meetwaarde. Bij de meetwaarde hoort een meeteenheid. De meeteenheid is afhankelijk van de parameter. De aan te leveren meeteenheid is vastgelegd in de Parameterlijst waarbij de prefix, het voorvoegsel van de eenheid aangepast mag worden(zie paragraaf 1.4.2).
-
-Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Samen met de meeteenheid geeft de opbouw de nauwkeurigheid van de meetwaarde weer. Bij de veldmeetwaarde en de analysemeetwaarde (de in het laboratorium gemeten waarde) kan er geen vaste opbouw worden gegeven omdat het waarden van verschillende parameters kan betreffen die elk een andere opbouw en eventueel een andere meeteenheid hebben. Dit betekent dat bij de resultaten van het veldonderzoek en het laboratoriumonderzoek de nauwkeurigheid (het aantal significante cijfers) niet gedefinieerd wordt door de basisregistratie ondergrond. Bij aanlevering aan de basisregistratie ondergrond vindt geen controle plaats op de opbouw. De bronhouder heeft de verantwoordelijkheid het getal in de juiste nauwkeurigheid aan te leveren. Dat wil zeggen met het juiste aantal significante cijfers, het aantal cijfers dat betekenis heeft voor de nauwkeurigheid van de meting. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
-
-Bij elke individuele meting van een parameter in het grondwatersamenstellingsonderzoek geeft de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**. Het is een oordeel over de kwaliteit van de meting van de parameter, geen oordeel over het grondwatermonster als geheel.
-
-Het resultaat van de waarnemingen in het veld wordt geregistreerd bij **Veldwaarneming**. Hier worden verschillende waarnemingen vastgelegd die belangrijk kunnen zijn voor hergebruik. De kleur van het grondwater wordt gedefinieerd in drie attributen te weten de **hoofdkleur**, de **bijkleur** en de **kleursterkte.** De uitbreidbare waardelijsten die gebruikt worden om de kleur van het grondwater vast te leggen, Kleur en Kleursterkte, zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de gelijknamige Aquo domeintabellen.
-
-Naast de kleur wordt aan de hand van de onderstaande attributen vastgelegd of er bepaalde bijzonderheden zijn geconstateerd die relevant zijn voor het beoordelen of hergebruiken van de resultaten van het onderzoek. Deze attributen worden met ja of met nee gevuld indien dit bekend is. Het attribuut ontbreekt als niet bekend is of het ja of nee is.
-
-### 1.4.4. Laboratoriumonderzoek
-
-Een **laboratoriumonderzoek** van een grondwatersamenstellingsonderzoek wordt door een of meerdere laboratoria verricht. Alle laboratoria die onderzoeken uitvoeren die binnen de scope van de basisregistratie ondergrond vallen, zijn geaccrediteerd door de Raad voor Accreditatie. Vereist voor de accreditatie is onder andere het volgen van (inter)nationale standaarden (NEN- en/of ISO-normen). Laboratoria werken volgens strikte interne kwaliteitssystemen vastgelegd in handboeken, conform de richtlijnen van de Raad voor Accreditatie. Geaccrediteerde laboratoria zijn daarnaast verplicht om deel te nemen aan ringonderzoeken: onderzoeken waarbij de testresultaten van verschillende laboratoria worden vergeleken. De accreditatie legt op parameter(groep)niveau vast welke bepalingstechnieken en bijbehorende procedures gehanteerd worden door het geaccrediteerde laboratorium. Laboratoria zijn vaak niet voor alle parameters of parametergroepen geaccrediteerd. Met name parameters die zij niet regelmatig meten kunnen accreditaties missen. Wanneer de bronhouder ervoor kiest om alle parameters volgens een geaccrediteerde procedure te laten meten, kan het in enkele gevallen voorkomen dat het laboratoriumonderzoek door meer dan één laboratorium uitgevoerd wordt. Op de website van de Raad van Accreditatie (www.rva.nl) is per laboratorium informatie te vinden over hun huidige accreditatie.
-
-Het laboratoriumonderzoek omvat de resultaten van het onderzoek van één of meer deelmonsters, waarbij doorgaans veel verschillende parameters worden bepaald. Elk laboratoriumonderzoek wordt onder de verantwoordelijkheid van één laboratorium, de **uitvoerder laboratoriumonderzoek**, uitgevoerd.
-
-In het laboratorium worden een of meer analyseprocessen uitgevoerd. Een **analyseproces** bevat de kenmerken van de in het laboratorium uitgevoerde activiteiten ten behoeve van de bepaling van de waarde van parameters in het grondwatermonster. Van het analyseproces worden de **analysedatum**, de **bepalingstechniek** en de **bepalingsprocedure** geregistreerd in de Basisregistratie Ondergrond.
-
-De datum waarop een bepalingstechniek wordt uitgevoerd, wordt geregistreerd met de analysedatum. Wanneer de bepalingstechniek zich uitstrekt over meer dagen, wordt de datum geregistreerd waarop de bepalingstechniek is afgerond.
-
-Een parameter kan vaak met verschillende bepalingstechnieken gemeten worden. De **bepalingstechniek** is van invloed op de gemeten waarde en de nauwkeurigheid van de gemeten waarde. Met één bepalingstechniek worden meestal meerdere parameters gemeten. Verschillende laboratoria kunnen voor dezelfde bepalingstechniek een verschillende norm of voorschrift hanteren. Daarom wordt de door het laboratorium gebruikte norm of het voorschrift geregistreerd, de **bepalingsprocedure**. In sommige gevallen wordt een procedure gebruikt die niet is gecertificeerd of geaccrediteerd. Dit doet zich bijvoorbeeld voor bij de analyse van stoffen waarop recentelijk voor het eerst analyses plaatsvinden. In deze gevallen wordt een eigen methode gebruikt. Dit wordt als **niet genormaliseerde automatische waardebepaling** aangeduid.
-
-De uitbreidbare waardelijsten **Waardebepalingstechniek** en **Waardebepalingsprocedure** zijn extern. De inhoud is uit de Aquo-standaard overgenomen, uit de Aquo-domeintabellen Waardebepalingstechniek respectievelijk Waardebepalingsmethode.
-
-Het analyseproces leidt tot meetresultaten van een of meer parameters. Deze worden geregistreerd in **Analyse**. Middels het **ID** wordt de **parameter** geïdentificeerd (zie paragraaf 1.4.2).
-
-Het gemeten gehalte van de parameter wordt geregistreerd in het attribuut **analysemeetwaarde**. In sommige gevallen wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de rapportagegrens: De door het uitvoerende laboratorium met de opdrachtgever afgesproken grensconcentratie waarboven het gemeten gehalte of de waargenomen waarde van de parameter in een monster wordt gerapporteerd aan de opdrachtgever. Een gemeten waarde kan ook hoger zijn dan de hoogste grenswaarde die nog wordt gerapporteerd aan de opdrachtgever. In dit geval zal het laboratorium het monster verdunnen. Het kan voorkomen dat dit niet meer mogelijk is. In dat geval wordt in het attribuut analysemeetwaarde niet de gemeten waarde geregistreerd maar de hoogste nog gerapporteerde grenswaarde.
-
-Wanneer het attribuut analysemeetwaarde een grenswaarde bevat is er een **limietsymbool** aanwezig. Het limietsymbool geeft aan dat het, in het grondwater aanwezige gehalte kleiner of groter is dan de grensconcentratie die geregistreerd is bij analysemeetwaarde.
-
-De **rapportagegrens** is de, door het uitvoerende laboratorium met de opdrachtgever afgesproken, kleinste waarde van een concentratie van een component die door een laboratorium standaard wordt gerapporteerd aan de opdrachtgever. In sommige gevallen hebben de opdrachtnemer en de opdrachtgever de afspraak gemaakt dat de rapportagegrens gelijk is aan de detectiegrens, ofwel aantoonbaarheidsgrens. Dit is de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is. In andere gevallen is de detectiegrens lager dan de rapportagegrens. De rapportagegrens is voor hergebruik een belangrijk gegeven en wordt geregistreerd indien hij bekend is bij de bronhouder. Deze grens is mede afhankelijk van de bepalingstechniek en de eventuele bewerking van het grondwatermonster.
-
-Wanneer het gemeten gehalte lager is dan de rapportagegrens, mag de bronhouder de rapportagegrens in het attribuut analysemeetwaarde registreren. In dit geval wordt eveneens het limietsymbool geregistreerd. De bronhouder mag bij een, door een laboratorium toch gerapporteerd gemeten gehalte dat lager is dan de rapportagegrens, besluiten of hij deze gemeten waarde registreert bij het attribuut analysemeetwaarde in de basisregistratie ondergrond of niet. Is bijvoorbeeld de rapportagegrens 1,0 mg/l en het laboratorium rapporteert 0,95 mg/l, dan mag de bronhouder kiezen. Hij kan 0,95 mg/l opnemen of hij kan 1,0 mg/l opnemen in het veld analysemeetwaarde. Neemt de bronhouder 1,0 mg/l op, dan wordt ook het attribuut limietsymbool gevuld met: <.
-
-Andere soorten grenzen, zoals de detectiegrens: de grens waarboven kan worden vastgesteld of de parameter wel of niet aanwezig is, of de bepaalbaarheidsgrens, die iets zegt over wanneer het gehalte van een parameter betrouwbaar kan worden vastgesteld, worden niet geregistreerd in de basisregistratie ondergrond.
-
-De **analysemeetwaarde** en de **rapportagegrens** hebben het formaat Meetwaarde. Gewoonlijk wordt bij Meetwaarde de opbouw van het getal voorgeschreven: het aantal cijfers voor en achter het decimaal scheidingsteken ligt vast. Net als bij de veldmeetwaarde kan er bij de analysemeetwaarde en de rapportagegrens van de in het laboratorium gemeten parameters geen vaste opbouw worden gegeven. Net als bij de resultaten van de veldmetingen heeft de bronhouder de verantwoordelijkheid het getal in de juiste nauwkeurigheid (het aantal significante cijfers) aan te leveren. In de door laboratoria gebruikte bepalingsprocedure is vaak vastgelegd hoe er afgerond moet worden. De bronhouder kan hierbij gebruik maken van de mogelijkheid de prefix van de eenheid aan te passen aan de hoogte van de gemeten waarde.
-
-Net als bij Veldmeting, wordt bij Analyse bij elke individuele meting door de bronhouder (of een derde partij in opdracht van een bronhouder) een eindoordeel over de kwaliteit van de meting aangegeven. Dit eindoordeel wordt gevormd aan de hand van een, voor het hele grondwatersamenstellingsonderzoek gebruikte beoordelingsprocedure. Het eindoordeel wordt geregistreerd in de **status kwaliteitscontrole**.
-
-### 1.5. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
-
-De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
-
-De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2, Domein grondwatermonitoring in de basisregistratie ondergrond):
-
-Daarnaast wordt op de volgende punten consistentie verwacht:
-
-Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
-
-### 1.6. INSPIRE
-
-Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject Grondwatersamenstellingsonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject Grondwatersamenstellingsonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
-
-### Basisregistratie ondergrond (BRO) catalogus grondwaterstandonderzoek
-
-Datum 27 maart 2020
-
-### Artikel 1. Definitie van registratieobject, entiteiten en attributen
-
-### 1. Registratieobject
-
-### 2. Het domeinmodel
-
-### 3. Entiteiten en attributen
-
-### 3.1. Grondwaterstandonderzoek
-
-### 3.1.1. BRO-ID
-
-### 3.1.2. bronhouder
-
-### 3.1.3. object-ID bronhouder
-
-### 3.1.4. dataleverancier
-
-### 3.1.5. kwaliteitsregime
-
-### 3.1.6. datum eerste meting
-
-### 3.1.7. datum recentste meting
-
-### 3.2. Registratiegeschiedenis
-
-### 3.2.1. tijdstip registratie object
-
-### 3.2.2. registratiestatus
-
-### 3.2.3. tijdstip laatste aanvulling
-
-### 3.2.4. tijdstip voltooiing registratie
-
-### 3.2.5. gecorrigeerd
-
-### 3.2.6. tijdstip laatste correctie
-
-### 3.2.7. in onderzoek
-
-### 3.2.8. in onderzoek sinds
-
-### 3.2.9. uit registratie genomen
-
-### 3.2.10. tijdstip uit registratie genomen
-
-### 3.2.11. weer in registratie genomen
-
-### 3.2.12. tijdstip weer in registratie genomen
-
-### 3.3. Grondwatermonitoringnet
-
-### 3.3.1. BRO-ID
-
-### 3.4. GMW-monitoringbuis
-
-### 3.4.1. BRO-ID
-
-### 3.4.2. buisnummer
-
-### 3.5. Observatie
-
-### 3.5.1. observatie ID
-
-### 3.5.2. observatieperiode
-
-### 3.5.3. tijdstip resultaat
-
-### 3.6. Metadata observatie
-
-### 3.6.1. datum metadata
-
-### 3.6.2. observatietype
-
-### 3.6.3. mate beoordeling
-
-### 3.7. Organisatiegegevens
-
-### 3.7.1. identificatie
-
-### 3.7.2. organisatienaam
-
-### 3.8. Observatieproces
-
-### 3.8.1. observatieproces ID
-
-### 3.8.2. meetprocedure
-
-### 3.8.3. type meetinstrument
-
-### 3.8.4. type luchtdrukcompensatie
-
-### 3.8.5. procestype
-
-### 3.8.6. beoordelingsprocedure
-
-### 3.9. Tijdmeetwaardereeks
-
-### 3.9.1. tijdmeetwaardereeks ID
-
-### 3.10. Tijdmeetwaardepaar
-
-### 3.10.1. tijdstip meting
-
-### 3.10.2. waterstand
-
-### 3.11. Metadata tijdmeetwaardepaar
-
-### 3.11.1. status kwaliteitscontrole
-
-### 3.11.2. censuurreden
-
-### 3.11.3. censuurlimietwaarde
-
-### 3.11.4. interpolatietype
-
-### Artikel 2. Beschrijving van uitbreidbare waardelijsten
-
-### 1.1. Registratiestatus
-
-### 1.2. Meetprocedure
-
-### 1.3. TypeMeetinstrument
-
-### 1.4. TypeLuchtdrukcompensatie
-
-### 1.5. Procestype
-
-### 1.6. Beoordelingsprocedure
-
-### 1.7. MateBeoordeling
-
-### 1.8. Observatietype
-
-### 1.9. StatusKwaliteitscontrole
-
-### 1.10. Censuurreden
-
-### 1.11. Interpolatietype
-
-### Toelichting
-
-### 1. Grondwaterstandonderzoek
-
-### 1.1. Grondwatermonitoring
-
-Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland in de gaten gehouden en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit). Hiervoor worden periodiek grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken uitgevoerd. Door het verzamelen van deze meetgegevens over ons grondwatersysteem kunnen trends worden gesignaleerd en kan getoetst en gerapporteerd worden of we voldoen aan (inter)nationale normen en streefbeelden.
-
-In het domein grondwatermonitoring staan de grondwatermonitoringnetten centraal die zijn ingesteld om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het monitoringdoel, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
-
-Grondwatermonitoring houdt in dat de toestand van het grondwater in een bepaald gebied, of eigenlijk in een bepaald deel van de ondergrond, over langere tijd gevolgd wordt. De grootte van het gebied en de diepte van monitoring verschillen per grondwatermonitoringnet. Ook de duur van monitoring wisselt sterk.
-
-In het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) is omschreven welke vormen van monitoring onder deze basisregistratie vallen. Het belangrijkste criterium is het type organisatie dat verantwoordelijk is voor het beheer van het grondwater: de grondwatermonitoring moet door of in opdracht van een bestuursorgaan, de bronhouder, worden uitgevoerd. Verder is er een beperking aan de tijdschaal gesteld. Wanneer een monitoringnet is ingesteld om de toestand van het grondwater over een periode van ten minste één jaar te volgen, dan valt het altijd onder de basisregistratie ondergrond. Voor monitoringnetten met een kortere duur maakt het bestuursorgaan zelf de afweging of de gegevens in de basisregistratie moeten worden opgenomen. De periode van een jaar is lang genoeg voor het uitfilteren van de effecten van kleinschalige en kortdurende invloeden, zodat de informatie die in de basisregistratie wordt vastgelegd blijvende gebruikswaarde heeft. Aan de ruimtelijke schaal van monitoring zijn voor de basisregistratie ondergrond geen grenzen gesteld, afgezien van het feit dat voor de gehele basisregistratie ondergrond geldt dat het gegevens bevat over de ondergrond van Nederland en zijn Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft.
-
-In de Regels omtrent de basisregistratie ondergrond en het [Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205) staat dat de BRO ‘voorlopig’ respectievelijk ‘vooralsnog’ geen milieukwaliteitsinformatie bevat. Voor het grondwatermonitoringdomein zijn grondwatersamenstellingsonderzoeksgegevens uit monitoringnetten rondom milieu-hygiënische projecten, waarin het met name gaat om het monitoren van de verontreiniging van de bodem en het grondwater, daarmee voorlopig buiten scope geplaatst. Op 18 december 2018 is in de Tweede Kamer een motie aangenomen waarin de regering wordt verzocht ‘om informatie over bodemverontreiniging in de basisregistratie ondergrond op te nemen’ (Kamerstuk Motie 34864-19). Momenteel is nog niet bekend wat de gevolgen van deze motie zullen zijn voor de scope van grondwaterstandonderzoek.
-
-De bestuursorganen die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwateronttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
-
-De volledige scopeafbakening is beschreven in het Scopedocument Grondwaterstandonderzoek (GLD).
-
-### 1.2. Domein grondwatermonitoring in de BRO
-
-Het domein grondwatermonitoring in de basisregistratie ondergrond (BRO) omvat de volgende vier registratieobjecten:
-
-In de voorliggende catalogus gaat het over het registratieobject grondwaterstandonderzoek.
-
-In de technische landelijke voorziening van de basisregistratie ondergrond worden Engelstalige benamingen gehanteerd voor de registratieobjecten. Omwille van de aansluiting hiermee worden voor de registratieobjecten Engelstalige afkortingen gebruikt. In deze catalogus worden alleen de Engelstalige afkortingen en verder de Nederlandstalige termen gebruiken.
-
-Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de Catalogus Grondwatermonitoringput.
-
-Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De drie andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast ligt bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd.
-
-Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald monitoringdoel met een bepaald wettelijk kader, periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet weerspiegelt de groepering van onderzoeksgegevens door de bronhouder op basis van het doel van de monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de Catalogus Grondwatermonitoringnet.
-
-Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk komt het voor dat een grondwaterstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Een bronhouder kan bijvoorbeeld omwille van de efficiëntie besluiten om een grondwaterstandonderzoek te laten doen, en de resultaten ervan zowel voor de Kaderrichtlijn Waterverplichtingen als voor een eigen monitoringdoel te gebruiken. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat grondwaterstand- en grondwatersamenstellingsonderzoek kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
-
-Een grondwaterstandonderzoek kan ook worden uitgevoerd ten behoeve van meerdere doelen van verschillende bestuursorganen. In dat geval is één van deze bestuursorganen de bronhouder van het grondwaterstandonderzoek. Deze bronhouder levert het grondwaterstandonderzoek aan de basisregistratie ondergrond aan, inclusief de koppeling aan alle grondwatermonitoringnetten waarvoor het onderzoek is uitgevoerd. De bronhouder is daarmee dus ook verantwoordelijk voor de koppeling van het grondwaterstandonderzoek aan een grondwatermonitoringnet van een ander bestuursorgaan. Hierover dienen beide partijen onderlinge afspraken te maken.
-
-### 1.3. Het grondwaterstandonderzoek
-
-### 1.3.1. Inleiding
-
-Een **Grondwaterstandonderzoek** (GLD) is een monitoringactiviteit, waarbij herhaaldelijk de waterstand in een monitoringbuis van een grondwatermonitoringput wordt gemeten. Een filter van een monitoringbuis in een grondwatermonitoringput vormt een meetpunt in registratieobject grondwatermonitoringnet (zie paragraaf 1.2, Domein grondwatermonitoring in de BRO). Het grondwaterstandonderzoek wordt verricht door een bronhouder of door derden, op basis van een opdracht van of afspraak met die bronhouder, en komt voort uit een of meerdere monitoringdoelen. Het resultaat van het grondwaterstandonderzoek omvat de beoordeelde metingen in de tijd-meetwaardereeks die hieruit volgt. De resultaten van het onderzoek worden geregistreerd in de basisregistratie ondergrond.
-
-In tegenstelling tot de relatief langzame verandering van de samenstelling van het grondwater, kunnen de fluctuaties van de grondwaterstand en/of stijghoogte snel optreden. Dit wordt bijvoorbeeld veroorzaakt door neerslag, invloed van getij, seizoenen en/of menselijk handelen. Van oudsher worden handpeilingen veelal met een frequentie van eens per 14 dagen uitgevoerd. Sinds de intrede van (druk)sensoren kan de waterstand in de monitoringbuis met een aanzienlijk hogere frequentie worden gemeten.
-
-De snelheid waarmee gegevens van grondwaterstanden beschikbaar komen hangt af van de toegepaste systemen. Voor een handpeiling is het duidelijk dat een veldbezoek noodzakelijk is, maar ook voor veel meetsystemen met een (druk)sensor is een veldbezoek noodzakelijk om de aan de (druk)sensor gekoppelde datalogger uit te lezen. Pas na het uitgevoerde veldbezoek komen dan de gegevens beschikbaar voor verdere verwerking.
-
-Steeds vaker worden systemen toegepast waarbij de datalogger gekoppeld is aan een modem, waarbij de gegevens direct aan de dataleverancier of bronhouder worden verstuurd. Dit gebeurt via een draadloos netwerk zoals het GSM- of het LoRa-netwerk. LoRa is een Long Range, Low Power verbinding speciaal ontwikkeld om kleine hoeveelheden informatie uit te wisselen tussen objecten en systemen. Deze wijze van beschikbaar komen van data wordt hieronder als telemetrie beschreven.
-
-### 1.3.2. Het proces
-
-Het proces waarin grondwaterstandonderzoeksgegevens in de praktijk ontstaan is schematisch weergegeven in de onderstaande figuur en wordt daaronder beschreven. Daarbij wordt benadrukt dat de precieze invulling van de processtappen in de praktijk vaak afhankelijk is van het gebruiksdoel en het toepassingsgebied van de monitoring. Het komt ook voor dat niet alle beschreven stappen worden doorlopen. De figuur geeft het volledige proces, van vaststellen van de doelstelling tot en met registratie in de basisregistratie ondergrond. In deze catalogus beschrijven we alleen de onderdelen meten, omrekenen, controleren, corrigeren en keuren. Het samenhangend geheel van de processtappen controleren, corrigeren en keuren wordt in dit document ook ‘beoordelen’ genoemd.
-
-### 1.4. WaterML
-
-De gegevensdefinitie van het grondwaterstandonderzoek, GLD, is gebaseerd op WaterML 2.0, een door het Open Geospatial Consortium (OGC) gepubliceerde internationale, open standaard over waterobservatiegegevens, met als doel de uitwisseling van dergelijke gegevens tussen informatiesystemen mogelijk te maken. De overheid hecht veel waarde aan en stimuleert het gebruik van open standaarden. WaterML maakt weer gebruik van andere, reeds bestaande OGC-standaarden waardoor het een interoperabel uitwisselingsformaat is. Er is voor WaterML 2.0 gekozen boven andere standaarden omdat in WaterML 2.0 reeksen van tijd-meetwaarde paren zijn gemodelleerd. In andere standaarden zijn dergelijke tijdreeksen niet gemodelleerd.
-
-In deze catalogus zijn de Engelse namen van entiteiten en attributen van WaterML vertaald naar het Nederlands waarbij in sommige gevallen de namen en de inhoud meer in detail zijn geformuleerd, gedefinieerd of afgebakend zonder dat dit strijdig is met WaterML. In de uitwisselingsberichten worden (noodzakelijkerwijs) de Engelstalige WaterML namen gebruikt.
-
-De in WaterML verplichte entiteiten en attributen zijn in de gegevensdefinitie van GLD opgenomen. Van de attributen die in WaterML optioneel zijn, zijn alleen diegene opgenomen die een hergebruikswaarde hebben voor de basisregistratie ondergrond. In sommige gevallen is in WaterML geen attribuut gedefinieerd voor een bepaald grondwaterstandgegeven dat in de basisregistratie ondergrond wel opgenomen moet worden. In die gevallen is gebruik gemaakt van een zogenoemde ‘parameter’ uit WaterML die het mogelijk maakt om extra gegevens op te nemen. In de gegevensdefinitie is het verschil tussen verplichte gegevens, optionele gegevens en parameters uit WaterML niet zichtbaar.
-
-De WaterML standaard bevat een aantal verplichte attributen die in de basisregistratie ondergrond een vaste waarde hebben of afleidbaar zijn. Ook deze attributen dienen door de bronhouder of dataleverancier aangeleverd te worden. Deze attributen worden niet afgeleid door de basisregistratie ondergrond. Dit garandeert namelijk dat op WaterML gebaseerde software van dataleveranciers, waarmee grondwaterstandonderzoeken worden aangeleverd, direct gebruikt kan worden, zonder dat deze aangepast moet worden.
-
-### 1.5. Belangrijkste entiteiten
-
-In deze paragraaf wordt een beschrijvende toelichting geven op de gegevensinhoud van de belangrijkste entiteiten. De expliciete definities zijn te vinden in de tabellen van de gegevensdefinitie in artikel 1. Als eerste wordt de hoofdentiteit beschreven, daarna de overige entiteiten.
-
-### 1.5.1. Grondwaterstandonderzoek
-
-Het registratieobject **Grondwaterstandonderzoek** bevat de, van een beoordelingsresultaat voorziene, tijd-meetwaardereeks(en) van de berekende waterstand in meter ten opzichte van NAP, in een bepaald filter van een grondwatermonitoringput. Uitgangspunt is dat een grondwaterstandonderzoek één **bronhouder** heeft, maar wel uitgevoerd kan zijn ten behoeve van meerdere grondwatermonitoringnetten die van één of meerdere bronhouders kunnen zijn.
-
-De gegevens van een grondwaterstandonderzoek ontstaan gedurende de ‘levensduur’ van het onderzoek, dat wil zeggen: gedurende de monitoringsperiode. Een belangrijk uitgangspunt voor dit registratieobject is dat er op min of meer vastomlijnde momenten (deel)gegevens geregistreerd worden als er daartoe ‘aanleidingen’ zijn. Voorbeelden van aanleidingen zijn: het starten van het grondwaterstandonderzoek, het beschikbaar komen van een uitgelezen tijd-meetwaardereeks die voorlopig of volledig is beoordeeld, het wijzigen van het type meetinstrument of de meetprocedure en het beëindigen van het grondwaterstandonderzoek. Het resultaat van een grondwaterstandonderzoek wordt dus niet in één keer geregistreerd, na beëindiging van het monitoren. De complete set van aanleidingen die zich voordoen gedurende de levensduur van het grondwaterstandonderzoek, en de daaruit af te leiden inhoud van berichten, zullen worden beschreven in de berichtencatalogus. In deze berichtencatalogus worden ook de mogelijke correctieberichten beschreven.
-
-Door het werkveld is de wens uitgesproken om (sets van) meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Afgesproken is daarnaast dat meetgegevens die via telemetrie beschikbaar komen niet frequenter dan dagelijks worden aangeleverd.
-
-De meetgegevens van een bepaalde periode zijn samen gebundeld in een observatie (zie de volgende paragraaf). Een grondwaterstandonderzoek wordt gedurende de levensduur steeds aangevuld met nieuwe observaties.
-
-Een grondwaterstandonderzoek kan ten behoeve van meer dan één monitoringdoel worden uitgevoerd. Dit betekent dat een onderzoek in het kader van meerdere grondwatermonitoringnetten tegelijk uitgevoerd kan zijn. In het registratieobject grondwatermonitoringnet worden het doel van de monitoring (monitoringdoel) en het wettelijk kader waar dit doel uit volgt (kader aanlevering) geregistreerd. In het registratieobject grondwaterstandonderzoek wordt het monitoringdoel en het wettelijk kader waar dit doel uit volgt niet geregistreerd. Met de verwijzing van het grondwaterstandonderzoek naar één of meer grondwatermonitoringnetten (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO) is het doel en het wettelijk kader van het grondwaterstandonderzoek indirect geregistreerd. De verwijzing naar het **grondwatermonitoringnet** wordt gemaakt op basis van het **BRO-ID** van het grondwatermonitoringnet.
-
-Bij een grondwaterstandonderzoek ligt de verwijzing vast naar de monitoringbuis waarin het onderzoek is uitgevoerd (zie paragraaf 1.2 Domein grondwatermonitoring in de BRO). De verwijzing wordt gemaakt op basis van het **BRO-ID** van de **grondwatermonitoringput** in combinatie met het **buisnummer** van de monitoringbuis waarin het grondwaterstandonderzoek is uitgevoerd. De diepte van het filter van de monitoringsbuis is geregistreerd via de verwijzing naar de monitoringbuis.
-
-Van elk grondwaterstandonderzoek wordt vastgelegd wat de datum is van de eerste meting (**datum eerste meting)** en wat de datum is van de meest recente meting (**datum recentste meting**) van het gehele onderzoek. Beide data worden door de basisregistratie ondergrond afgeleid uit de aangeleverde gegevens. Bij elke aanvullende levering van grondwaterstanden wordt door de basisregistratie ondergrond gecheckt of de **begindatum** van de **observatieperiode** van de aanvullende levering vόόr de geregistreerde datum eerste metingligt.Wanneer dat het geval is, wordt de **datum eerste meting** vervangen door de begindatum van de observatieperiode van de aanvullende levering. Wanneer dat niet het geval is, blijft de **datum eerste meting** ongewijzigd. Ook wordt bij elke aanvullende levering van grondwaterstanden door de basisregistratie ondergrond gecheckt of de **einddatum** van de **observatieperiode** van de aanvullende levering na de geregistreerde **datum recentste meting** ligt. Wanneer dat het geval is, wordt de **datum recentste meting** vervangen door de einddatum van de observatieperiode van de aanvullende levering.
-
-### 1.5.2. Observatie
-
-De entiteit observatie omvat het geheel van gegevens en kenmerken van de activiteiten die geleid hebben tot het bepalen van waterstanden in een bepaalde periode. De inhoud van de entiteit observatie wordt hieronder toegelicht. De observatie heeft als resultaat een reeks tijd-meetwaardeparen (**Tijdmeetwaardereeks**) van de waterstand. Het grondwaterstandonderzoek wordt in de loop der tijd aangevuld met observaties die elk een meetperiode, een **observatieperiode**, omvatten. Van elke observatie wordt een ID vastgelegd, het **observatie ID**. Dit is een door de bronhouder te bepalen ID dat de observatie uniek identificeert. Dit unieke ID kan bijvoorbeeld gebruikt worden om in een later stadium een correctie in de observatiegegevens te registreren. Met behulp van het observatie ID kan in dat geval geïdentificeerd worden welke observatie gecorrigeerd moet worden.
-
-Een bronhouder laat bijvoorbeeld eens per kwartaal de datalogger uitlezen. Omdat met het werkveld is afgesproken dat gegevens zo snel mogelijk, na een eventuele eerste beoordeling, in de basisregistratie ondergrond geregistreerd worden, zal de bronhouder de uitgelezen gegevens van één kwartaal als één observatie aanleveren aan de basisregistratie ondergrond. De bronhouder kan er ook voor kiezen de uitgelezen gegevens van een kwartaal op te knippen in bijvoorbeeld drie observaties van elk één maand. In het eerste geval overspant de observatie een periode en een reeks van tijd-meetwaardeparen van drie maanden. In het tweede geval overspant de observatie één maand aan gegevens. Een observatie kan later niet aangevuld worden met additionele tijd-meetwaardeparen. Een aanvullende levering van bijvoorbeeld het volgende kwartaal zal een nieuwe observatie zijn die de nieuwe meetgegevens bevat.
-
-Het observatie ID heeft een domein van het type tekst en mag maximaal 40 tekens bevatten. Dit geeft de bronhouder de mogelijkheid zelf een code of naam aan het ID te geven die herkenbaar is en/of past in de werkwijze van de bronhouder.
-
-Conform WaterML wordt het tijdsvenster waarin de meetwaarden zijn gedaan vastgelegd. Dit is de periode tussen de eerste en de laatste meting van de tijd-meetwaardereeks die het resultaat is van de observatie. Deze **observatieperiode** wordt gevormd door de begindatum en de einddatum van de tijd-meetwaardereeks. De bronhouder of dataleverancier kan deze data afleiden van het tijdstip van de eerste en de laatste meting uit de reeks.
-
-### .1.5.2.1 Metadata observatie
-
-Elke observatie heeft een aantal metadata gegevens, de **Metadata observatie**. Deze metadata bevat, conform WaterML, de datum waarop de metadata tot stand zijn gekomen: **datum metadata**. Deze datum wordt door de bronhouder of dataleverancier afgeleid van het gegeven **tijdstip resultaat** van de entiteit **Observatie**.
-
-Het **observatietype** beschrijft de reden van het plaatsvinden van de observatie. Hier worden twee typen onderscheiden namelijk de **reguliere meting** en de **controlemeting**. De **controlemeting** wordt uitgevoerd ter controle van een reeks van reguliere metingen met een hoge(re) frequentie. De controlemeting is veelal een handpeiling. Alle andere metingen betreffen reguliere metingen. De **reguliere meting** kan door zowel een sensor als handmatig worden gedaan. De reden van meten ligt bij reguliere metingen vast in het monitoringdoel, een attribuut van het grondwatermonitoringnet waarnaar wordt verwezen.
-
-Onderdeel van de metadata is verder de **mate beoordeling** waarbij de mate wordt vastgelegd waarin de reeks van tijd-meetwaarden, die het resultaat zijn van de observatie, zijn beoordeeld. Hier zijn twee beoordelingsniveaus gedefinieerd. Naast volledig beoordeelde tijd-meetwaardereeksen bestaat de mogelijkheid om nog niet volledig, of niet beoordeelde tijd-meetwaardereeksen te registreren in de basisregistratie ondergrond. Zowel bij niet beoordeelde reeksen als bij niet volledig beoordeelde reeksen wordt een mate beoordeling: **voorlopig** geregistreerd. Of al een voorlopige beoordeling heeft plaatsgevonden hangt af van de gebruikte **beoordelingsprocedure**. De belangrijkste reden voor het toevoegen van deze voorlopige tijd-meetwaardereeksen is de wens om meetgegevens zo snel mogelijk voor gebruikers beschikbaar te hebben. Onder voorlopige tijd-meetwaardereeksen vallen bijvoorbeeld gegevens die (vrijwel) automatisch, uit telemetriesystemen aan het bronhouderportaal worden doorgezet, bijvoorbeeld binnen één of enkele dagen. Maar ook tijd-meetwaardereeksen waarbij, afhankelijk van de gevolgde beoordelingsprocedure, bijvoorbeeld na een jaar een volledige beoordeling plaats vindt, kunnen als voorlopige tijd-meetwaardereeksen al eerder in de basisregistratie ondergrond worden opgenomen, eventueel na een eerste, voorlopige beoordeling.
-
-Als een tijdreeks van een grondwaterstandonderzoek zowel voorlopig als volledig wordt beoordeeld dan worden zowel de voorlopig beoordeelde tijd-meetwaardereeks als ook volledig beoordeelde tijd-meetwaardereeks ‘naast elkaar’ in de basisregistratie ondergrond geregistreerd. Beide gegevenssets zijn daarmee beschikbaar voor de gebruiker.
-
-**C**ontrolemetingen dienen ter controle van de reguliere metingen. Het onderscheid in de mate van beoordeling is voor controlemetingen daarom niet, of minder van belang en wordt niet in de basisregistratie ondergrond opgenomen. Voor beide observatietypen dient het attribuut **status kwaliteitscontrole**(zie paragraaf Metadata tijdmeetwaardepaar) en het attribuut **beoordelingsprocedure** (zie paragraaf Observatieproces) wel aanwezig te zijn.
-
-De observatieperiode van een reguliere meting met een mate van beoordeling, volledig beoordeeld, mag niet overlappen met de observatieperiode van een andere observatie met hetzelfde observatietype en dezelfde mate van beoordeling. De observatieperiode van een reguliere, voorlopige tijd-meetwaardereeks mag eventueel wel overlappen met de observatieperiode van een andere reguliere, voorlopige tijd-meetwaardereeks. Bij een voorlopige tijd-meetwaardereeks kan het namelijk voorkomen dat de tijdsverschuiving van een niet, of niet goed functionerende klok nog niet is hersteld waardoor er overlap met de observatieperiode van een andere observatie kan voorkomen. Bij controlemetingen mag de observatieperiode van verschillende observaties eventueel ook overlappen.
-
-Het **tijdstip resultaat** van de entiteit **Observatie** is, conform WaterML, het tijdstip waarop het laatste proces is afgerond. Het betreft hier het laatste proces dat gebruikt is bij de totstandkoming van de waterstand in meter ten opzichte van NAP. In de praktijk wordt dit tijdstip veelal niet genoteerd. In de basisregistratie ondergrond wordt daarom bij het in WaterML verplichte attribuut **tijdstip resultaat** het volgende geregistreerd:
-
-De **uitvoerder** is de partij die voor de bronhouder geldt als verantwoordelijk voor de uitvoering van de waterstandmeting. In WaterML is het verplicht hier gegevens van een organisatie vast te leggen die bestaan uit een aantal verplichte attributen: de **organisatienaam** en de rol van deze organisatie in het grondwaterstandonderzoek. De rol ligt opgesloten in de naam van dit attribuut: uitvoerder. In GLD voegen we hier, ten opzicht van WaterML, de **identificatie** van de uitvoerder aan toe. De identificatie wordt, zoals bij andere registratieobjecten in de basisregistratie ondergrond, vastgelegd middels het KvK-nummer van de onderneming of de maatschappelijke activiteit, of het equivalent van het KvK-nummer in een handelsregister van een andere lidstaat van de Europese Unie dan Nederland.
-
-### .1.5.2.2 Gerelateerde observaties
-
-Een observatie die resulteert in een volledig beoordeelde tijd-meetwaardereeks is (vaak) gebaseerd op één of meer eerder geregistreerde observaties, namelijk de observatie(s) met een voorlopige tijd-meetwaardereeks waarop de observatie is gebaseerd en/of één of meer observaties met een controlemeting die gebruikt zijn tijdens de beoordeling. Bij een observatie met een volledig beoordeelde tijd-meetwaardereeks moet in dat geval geregistreerd worden dat de observatie **gerelateerd is aan** één of meer andere observaties indien deze gerelateerde observaties aanwezig zijn.
-
-Het kan echter in de praktijk ook voorkomen dat de voorlopig beoordeelde observatie(s) ontbreken. Ook controlemetingen die normaal gesproken gebruikt worden bij de beoordeling kunnen ontbreken. In deze gevallen kunnen **gerelateerde observaties** ontbreken.
-
-Ook bij een observatie die resulteert in een voorlopige tijd-meetwaardereeks kan gebruik gemaakt zijn van één of meer observaties met een controlemeting. Dit kan bijvoorbeeld het geval zijn bij gegevens die zijn uitgelezen uit een datalogger en die een voorlopige beoordeling hebben ondergaan. In dat geval wordt de observaties met een voorlopige tijd-meetwaardereeks gerelateerd aan één of meer observaties met een controlemeting. Indien de controlemetingen ontbreken, worden geen gerelateerde observaties geregistreerd bij een voorlopig beoordeelde observatie.
-
-Observaties die resulteren in een controlemeting zijn zelfstandige waarnemingen en worden niet gerelateerd aan andere observaties.
-
-Bij het registreren van gerelateerde observaties wordt gebruik gemaakt van het observatie ID van deze gerelateerde observaties. Bij de aanlevering zal een check uitgevoerd worden of de aangeleverde observatie ID(s) bij het betreffende grondwaterstandonderzoek in de LV-BRO bekend zijn als observatie ID(s).
-
-### 1.5.3. Observatieproces
-
-In het **observatieproces** worden de kenmerken van de processen die resulteren in de uiteindelijke meetwaarden vastgelegd. Onderdeel van het observatieproces is het **observatieproces ID**. Dit is een door de bronhouder of dataleverancier te bepalen tekst van maximaal 40 karakters die de kenmerken van een observatieproces uniek identificeren. Binnen het registratieobject moet dit ID uniek zijn. Het observatieproces ID kan bijvoorbeeld gebruikt worden bij aanvullende leveringen van een Grondwaterstandonderzoek: Wanneer een observatie wordt aangeleverd die dezelfde observatieproceskenmerken heeft als een observatie die al geregistreerd is, kan de bronhouder/ dataleverancier ervoor kiezen om niet alle observatieproceskenmerken opnieuw aan te leveren maar in plaats daarvan te verwijzen naar het reeds geregistreerde observatieproces door alleen het observatieproces ID van het reeds geregistreerde observatieproces aan te leveren. De overige observatieproceskenmerken hoeven in dit geval niet opnieuw aangeleverd te worden.
-
-De **meetprocedure** is onderdeel van het observatieproces. Het betreft de procedure of het werkvoorschrift dat gehanteerd is bij de observatie voor de grondwatermonitoring. In deze procedure staan de afspraken waaronder de observatie is uitgevoerd. De procedures zijn opgesomd in een waardelijst.
-
-Het type meetinstrument beschrijft het meetinstrument waarmee de metingen in de monitoringbuis zijn uitgevoerd. In het geval van sensoren betreft het hier het type sensor. Wanneer een apparaat uit meerdere sensoren bestaat, wordt het type sensor bedoeld, niet het apparaat.
-
-Bij het **type meetinstrument**: druksensor, zijn er globaal twee typen te onderscheiden, de relatieve druksensor en de absolute druksensor. Een relatieve druksensor meet de waterdruk met één enkele sensor. De invloed van de luchtdruk wordt door middel van een capillair in de kabel genivelleerd. Bij dit type druksensor wordt bij **type luchtdrukcompensatie** geregistreerd: **capillair**.
-
-Bij een absolute druksensor zijn voor het bepalen van uitsluitend de waterdruk twee sensoren noodzakelijk. De absolute druksensor meet de som van de waterdruk en de luchtdruk. Voor luchtdruk moet rekenkundig gecompenseerd worden. Dit betekent dat naast de absolute druksensor een sensor noodzakelijk is die de luchtdruk meet. Er zijn verschillende manieren waarop de rekenkundige gecompenseerd wordt. Dit wordt vastgelegd bij het attribuut **type luchtdrukcompensatie**. In sommige gevallen zijn de sensor die de absolute druk meet en de sensor die de luchtdruk meet geïntegreerd in één apparaat. In dit geval wordt de rekenkundige compensatie soms al in het apparaat gedaan. Het **type luchtdrukcompensatie** betreft dan: **putlocatiemeting**.
-
-Het **procestype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het procestype geeft aan wat het laatste type proces is dat is uitgevoerd voor de bepaling van het eindresultaat. WaterML heeft een vaste waardelijst voor het procestype: simulatie, handmatige methode, sensor, algoritme en onbekend. Op dit moment wordt in het grondwaterstandonderzoek alleen de waterstand in meter ten opzichte van NAP vastgelegd en geen ruwe meetwaarden. De bepaling van de waterstand ten opzichte van NAP is altijd een berekening. Daarom wordt hier een vaste waarde ingevuld: algoritme. Indien in de toekomst ook ruwe metingen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
-
-De individuele tijd-meetwaardeparen van de reguliere metingen worden onder andere beoordeeld aan de hand van de controlemetingen. Hoe dit proces van beoordelen van de kwaliteit van de tijd-meetwaardeparen verloopt, is beschreven in een werkvoorschrift of procedure, de **beoordelingsprocedure**. Bij het moment van vaststellen van versie 1.0 van de catalogus is er een aantal procedures beschreven en beschikbaar. Voor de partijen die deze procedures niet gebruiken maar op een andere, niet beschreven wijze beoordelen, is er de mogelijkheid om aan te geven dat beoordeeld is op basis van het oordeel van een deskundige. Omdat het voor een gebruiker waardevol is om te weten op welke wijze er is beoordeeld, is het is de bedoeling dat de waardelijst van beoordelingsprocedures wordt aangevuld ten behoeve van volgende versies van de catalogus.
-
-### 1.5.4. Tijdmeetwaardereeks
-
-Tijd-meetwaardeparen worden gegroepeerd in een **Tijdmeetwaardereeks**. Eén observatie leidt tot één tijd-meetwaardereeks, waarbij alle tijd-meetwaardeparen in de reeks dezelfde observatie-eigenschappen hebben. Het is ook mogelijk dat de tijd-meetwaardereeks uit één tijd-meetwaardepaar bestaat. Het is waarschijnlijk dat dit bijvoorbeeld bij controlemetingen het geval zal zijn.
-
-Van elke tijd-meetwaardereeks wordt een ID vastgelegd, het **tijdmeetwaardereeks ID**. Dit is een door de bronhouder te bepalen ID dat de tijd-meetwaardereeks uniek identificeert. Binnen het registratieobject moet dit ID uniek zijn.
-
-De tijd-meetwaardeparen in de reeks moeten in oplopende chronologische volgorde in de reeks worden geplaatst.
-
-### 1.5.5. Tijdmeetwaardepaar
-
-Het **Tijdmeetwaardepaar** bevat het tijdstip waarop is gemeten: het **tijdstip meting**, in combinatie met de waterstand in meter ten opzichte van NAP zoals berekend uit een meting in een monitoringbuis van een grondwatermonitoringput: de **waterstand**.
-
-### .1.5.5.1 Metadata tijdmeetwaardepaar
-
-Elk tijd-meetwaardepaar heeft een aantal metadata gegevens, **Metadata tijdmeetwaardepaar**. Deze metadata bevat onder andere het eindresultaat van de beoordeling zoals uitgevoerd conform de beoordelingsprocedure. Deze **statuskwaliteitscontrole** geeft het eindoordeel van de bronhouder over de kwaliteit van een individuele meting. Niet alleen bij een volledig beoordeelde observatie maar ook bij observaties van het observatietype controlemeting en observaties met een mate van beoordeling voorlopig, is de statuskwaliteitscontrole aanwezig. In de beoordelingsprocedure is opgenomen welke controles en beoordeling er voor elk observatietype en voor elke mate van beoordeling wordt uitgevoerd. Alleen in het geval de observatie het observatietype reguliere meting heeft en een mate beoordeling: voorlopig, is het mogelijk om bij de status kwaliteitscontrole **nogNietBeoordeeld** te registreren. Dit kan bijvoorbeeld het geval zijn bij gegevens die via telemetrie zijn verkregen en die zonder beoordeeld te zijn, worden geregistreerd in de basisregistratie ondergrond.
-
-In WaterML is een attribuut (quality) met een waardelijst (DataQualityCode) gedefinieerd voor de kwaliteit van de resultaten. Voor het grondwaterstandonderzoek is er echter voor gekozen om dit attribuut met waardelijst niet te gebruiken. In plaats daarvan is een eigen parameter met een eigen codelijst opgesteld, de **statuskwaliteitscontrole**. De reden hiervan is dat er voor het grondwaterstandonderzoek en het grondwaterkwaliteitsonderzoek een uitgebreide analyse is gedaan naar de mogelijke kwaliteit van de resultaten. Dit heeft geresulteerd in een waardelijst voor de status kwaliteitscontrole die geldt voor zowel het grondwaterkwaliteitsonderzoek als het grondwaterstandonderzoek. De waarden en de definities van de waarden op deze waardelijst komen niet geheel overeen en zijn in sommige gevallen niet één-op-één te vertalen in de waarden op de waardelijst van WaterML.
-
-Een waarde (van de waterstand) die buiten het meetbereik van de meetopstelling valt, betreft een gecensureerde waarde. De term gecensureerde waarde heeft in de statistiek een specifieke betekenis. Het geeft aan dat de waarde van een variabele niet exact bekend is of niet exact bepaald kon worden, maar dat wel duidelijk is dat deze zich boven of juist beneden een bepaalde limiet bevindt. Bij een grondwaterstandonderzoek is dit bijvoorbeeld het geval bij een drooggevallen sensor: de waarde van de waterstand kan niet exact worden gegeven maar wel is duidelijk dat de waterstand zich onder het niveau van de inhangdiepte van de sensor bevindt.
-
-Het attribuut **waterstand** heeft in het geval van een gecensureerde meting geen waarde. Metingen die buiten het meetbereik vallen geven desondanks een waardevol inzicht in de situatie van het grondwater ter plaatse van de monitoringbuis. Daarom zijn in de metadata van het tijd-meetwaardepaar de attributen **censuurreden** en **censuurlimietwaarde** opgenomen. Wanneer de waterstand geen waarde heeft, moeten deze attributen gevuld zijn. De **censuurreden** blijft beperkt tot **kleiner dan limietwaarde** of **groter dan limietwaarde**. Het niveau van de limietwaarde die over- of onderschreden wordt, wordt als **censuurlimietwaarde** opgenomen. Hieronder zijn een aantal voorbeelden gepresenteerd, waarin sprake is van gecensureerde waarden. Daarnaast zijn in figuur 5 een tweetal situaties weergegeven van gecensureerde metingen.
-
-In het linkerdeel van bovenstaande figuur is het verloop in de tijd van de grondwaterstand/stijghoogte aangegeven zoals in de ondergrond op kan treden. De grondwaterstand/stijghoogte in de ondergrond zal zich niet laten reguleren door de meetopstelling, waarbij de meetopstelling in dit geval de combinatie van de monitoringbuis en de druksensor betreft. Het rechter deel van de figuur geeft de tijd-meetwaardereeks weer van de waterstand in de monitoringbuis. Waterstanden in de monitoringbuis onder het niveau van de druksensor kunnen niet worden gemeten. In dat geval is de censuurreden: **kleiner dan limietwaarde** en de censuurlimietwaarde is het niveau van de sensor in meter ten opzichte van NAP.
-
-Bij waterstanden in de monitoringbuis hoger dan de bovenkant van de buis zal de monitoringbuis overlopen. Ervan uitgaande dat geen drukdop of kweldop is toegepast, kunnen hogere waterstanden dan bovenkantbuis niet worden gemeten. In dat geval is de censuurreden **groter dan limietwaarde** en de censuurlimietwaarde is het niveau van bovenkantbuis van de monitoringbuis in meter ten opzichte van NAP.
-
-In het geval dat de waterstand in de monitoringbuis wordt gemeten door middel van handpeilingen (met een meetlint of ander handapparaat), worden gecensureerde metingen veroorzaakt door monitoringbuis gerelateerde aspecten. Dit betreffen bovenkant monitoringsbuis (zie ook figuur 5) en droogval van het filter van de monitoringsbuis: als het grondwaterniveau lager is dan de onderkant van het geperforeerde deel van de monitoringbuis. In dat geval is de censuurreden: **kleiner dan limietwaarde** en het niveau van de onderkant van het filter is de censuurlimietwaarde.
-
-Bij druksensormetingen gelden aanvullende censuurredenen die samenhangen met het meetbereik van de druksensor. Het sensormaximum kan bijvoorbeeld worden overschreden. Dit doet zich voor wanneer het sensormaximum kleiner is dan bovenkantbuis óf de monitoringbuis aan de bovenkant afgesloten is door een drukdop of kweldop. De censuurreden is: **groter dan limietwaarde** en het niveau van het sensormaximum is de censuurlimietwaarde. Zoals hierboven reeds genoemd, kan het ook voorkomen dat een druksensor is drooggevallen.
-
-Er is een aantal complicerende factoren waar de dataleverancier of bronhouder alert op dient te zijn. Hieronder worden er een aantal genoemd.
-
-In de praktijk kan er sprake zijn van een combinatie van oorzaken van gecensureerde metingen, namelijk monitoringbuis gerelateerde en sensor gerelateerde oorzaken. Bijvoorbeeld kan zowel het filter als de sensor zijn drooggevallen.
-
-Bij een drooggevallen filter bestaat het risico dat wel een waterstand in de monitoringbuis wordt gemeten, dit kan stagnerend water in een zandvang zijn. Om dit aspect te onderkennen, moeten de metingen en de filterstelling beide worden beschouwd.
-
-Zoals eerder genoemd, bestaan er twee typen druksensoren, namelijk relatieve druksensoren en absolute druksensoren. Ten aanzien van gecensureerde metingen is er een duidelijk verschil tussen beide type sensoren. Het maximale drukbereik van relatieve druksensoren komt overeen met een vaste maximale waterdruk en daarmee een vaste maximale waterstand. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten een constant niveau is. Dit niveau hangt alleen nog af van het niveau (nulpunt) van de druksensor. De absolute druksensor meet de som van lucht- en waterdruk. Hierdoor is de maximale meting van de waterdruk afhankelijk is van de heersende luchtdruk op dat moment. Dit betekent dat de hoogste grondwaterstand die kan worden gemeten geen constant niveau is.
-
-De uiterste grenzen (de censuurlimietwaarden) zijn afhankelijk van de specificaties van de gebruikte sensor. Benadrukt wordt dat deze grenzen niet alleen van toepassing zijn voor druksensoren, maar voor type sensoren zoals de akoestische- en de radarsensor. Van belang is dat gebruiker van sensoren zich hiervan bewust is.
-
-Het **interpolatietype** is in WaterML een attribuut dat verplicht wordt opgenomen. Om die reden is dit attribuut ook in het grondwaterstandonderzoek opgenomen. Het interpolatietype geeft aan wat de aard is van de relatie tussen het tijdstip en de meetwaarde. Deze relatie en de wijze van interpoleren kan bijvoorbeeld voor visualisatie en/of aggregatie van belang zijn. WaterML heeft een vaste waardelijst voor het interpolatietype. Het kan bijvoorbeeld het maximum of het minimum of het gemiddelde zijn over het gemeten interval. We leggen in de basisregistratie ondergrond de feitelijke waarnemingen vast en daarom wordt hier de vaste waarde: **discontinu** ingevuld. Het is aan de gebruiker te beoordelen of en hoe hij de meetwaarden eventueel wil interpoleren of aggregeren. Indien in de toekomst ook andere metingen met andere interpolatietypen worden vastgelegd, kan hier ruimte worden gemaakt voor een waardelijst.
-
-### 1.6. Impact kwaliteitsregime IMBRO/A
-
-In het verleden waren de werkprocessen en middelen rond het grondwaterwaterstandonderzoek anders dan ze nu zijn. Bij de aanlevering van historische gegevens wordt geaccepteerd dat een aantal formeel verplichte gegevens geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd en dat kent minder strikte regels. Het betreft authentieke gegevens waarvan de betrouwbaarheid en herkomst eenduidig moet zijn. Daarom is de samenhang tussen de attributen **mate beoordeling**, de **beoordelingsprocedure** en de **status kwaliteitscontrole** bij IMBRO/A gegevens hetzelfde als bij IMBRO gegevens.
-
-Wanneer bij historische gegevens onduidelijk is of de tijd-meetwaardereeks is beoordeeld, krijgen deze gegevens een mate beoordeling waarde ‘onbekend’. In dit geval is het tevens onbekend welke beoordelingsprocedure er is gebruikt. De status kwaliteitscontrole zal in dit geval ook ‘onbekend’ moeten zijn.
-
-Het is mogelijk dat een bronhouder weet dat zijn historische gegevens destijds beoordeeld zijn en hoewel er niet per tijd-meetwaardepaar een uitkomst van de beoordeling is opgeslagen, weet de bronhouder dat de gegevens destijds zijn goedgekeurd, bijvoorbeeld omdat ze anders niet in het gegevensbeheersysteem waren opgeslagen. De bronhouder geeft in dit geval aan dat de mate beoordeling ’volledig beoordeeld’ is. Afhankelijk van wat de bronhouder nog weet van de beoordelingsprocedure kan hij aangeven dat de beoordelingsprocedure ‘oordeel deskundige’ is, maar ook ‘onbekend’ is mogelijk. Daarnaast geeft de bronhouder in dit geval aan dat de tijd-meetwaardeparen een status kwaliteit controle ‘goedgekeurd’ hebben. Wanneer de bronhouder onzeker is over de uitkomst van de beoordeling van destijds, kan hij ook aangeven dat de status kwaliteitscontrole ‘onbekend’ is. Het **tijdstip resultaat** wordt bij een volledig beoordeelde meetreeks gedefinieerd als het tijdstip waarop de beoordeling is afgerond. In dit geval gaat het om de beoordeling van destijds en kan, afhankelijk van de beschikbaarheid van dit gegeven, een voor IMBRO/A geldende **OnvolledigeDatum** worden ingevuld.
-
-Het kan ook voorkomen dat historische gegevens voorafgaand aan registratie in de basisregistratie ondergrond nog in retroperspectief worden beoordeeld met het doel de tijd-meetwaardeparen een status kwaliteitscontrole te geven. In dit geval heeft dat ook consequenties voor de mate beoordeling, die wordt daarmee volledig beoordeeld. Het is mogelijk dat geen ‘huidige’ beoordelingsprocedure gevolgd kan worden maar dat er een alternatieve beoordeling van deze historische gegevens zal plaats vinden. Er dient in dat geval te worden gekozen voor ‘oordeel deskundige’. Het **tijdstip resultaat** is in dit geval het tijdstip waarop de beoordeling die achteraf wordt gedaan, is afgerond.
-
-### 1.7. Hiërarchie in gebruiksplicht
-
-Er worden in het grondwaterstandonderzoek verschillende stadia van de gegevens over de waterstand vastgelegd. Op dit moment zijn dat volledig beoordeelde gegevens en voorlopige gegevens. Dit betekent dat er van een meting op een bepaalde datum, op een bepaald tijdstip verschillende meetwaarden geregistreerd kunnen zijn in de basisregistratie ondergrond, een voorlopige meetwaarde en een volledig beoordeelde meetwaarde. De volledig beoordeelde meetwaarde heeft alle in het beoordelingsprocedure vermelde controles ondergaan en is daardoor, in samenhang met het attribuut status kwaliteitscontrole, betrouwbaarder dan de voorlopige meetwaarde die geen of niet alle controles heeft ondergaan. De hiërarchie van de juridische gebruiksplicht is daarom als volgt:
-
-### 1.8. Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
-
-De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in paragraaf 1.2,Domein grondwatermonitoring in de BRO. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
-
-De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in paragraaf 1.2,Domein grondwatermonitoring in de BRO):
-
-Daarnaast wordt op het volgende punt consistentie verwacht:
-
-Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
-
-### 1.9. INSPIRE
-
-Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject grondwaterstandonderzoek valt onder het INSPIRE-thema Environmental Monitoring Facilities, en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt voor dit registratieobject geïmplementeerd middels een mapping van het gegevensmodel van het registratieobject grondwaterstandonderzoek op het gegevensmodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
