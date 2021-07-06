@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-07-01"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-07-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-07-06).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-07-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-07-06).
 
 ##### Artikel 4. De bestuursraad
 
@@ -244,9 +244,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-07-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-07-06) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-07-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-07-06) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -400,7 +400,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-10-15&g=2021-07-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-07-06&g=2021-07-06). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -862,13 +862,13 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - a. adviseert met betrekking tot de beheersing van de collectieve uitgaven van het Rijk;
 
-- b. bewaakt namens de minister als toezichthouder de doelmatigheid, doeltreffendheid en rechtmatigheid van de collectieve uitgaven;
+- b. bevordert namens de minister, in haar rol als systeemverantwoordelijke voor het financieel beheer van het Rijk, de doelmatigheid, doeltreffendheid en rechtmatigheid van de collectieve uitgaven;
 
 - c. doet voorstellen voor effectieve begrotingsregels en infrastructuur van de begroting;
 
 - d. voorziet in transparantie over de budgettaire besluitvorming;
 
-- e. heeft een strategie- en onderzoeksfunctie op zijn beleidsterrein.
+- e. heeft een strategie- en onderzoeksfunctie op haar beleidsterrein.
 
 ##### Artikel 33. Directie Begrotingszaken
 
@@ -894,21 +894,23 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - a. de afdeling Begrotingsbeheer (BBH) met als taken:
 
-- i. Adviseert over de beleidsontwikkeling van de financiële functie (beleidsvoering, begrotingsbeheer en financiële bedrijfsvoering) en de auditfunctie;
+- i. Adviseert over de beleidsontwikkeling van de financiële functie (beleidsvoering, begrotingsbeheer en financiële bedrijfsvoering);
 
-- ii. Adviseert over de informatievoorziening (inhoud en presentatie) van de Tweede Kamer met betrekking tot de beleidsvoering en de bedrijfsvoering bij de rijksoverheid;
+- ii. Adviseert over de informatievoorziening (inhoud en presentatie) van het Parlement en andere betrokkenen met betrekking tot de beleidsvoering en de bedrijfsvoering bij de rijksoverheid;
 
 - iii. Adviseert over de beleidsontwikkeling van het schatkistbankieren;
 
-- iv. Coördineert de totstandkoming van de regelgeving voor de financiële functie en de auditfunctie, inclusief de juridische toetsing;
+- iv. Coördineert de totstandkoming van de regelgeving voor de financiële functie alsook het bevorderen van de kwaliteit van de financiële functie en verzorgt de juridische toetsing van de regelgeving van DGRB;
 
 - v. Coördineert en houdt toezicht op het begrotings- en verantwoordingsproces;
 
-- vi. Coördineert de totstandkoming van de Miljoenennota en het FJR.
+- vi. Coördineert de totstandkoming van de Miljoenennota en het FJR;
+
+- vii. Coördineert de rijksbrede Financial traineeships.
 
 - b. de afdeling Begrotingsbeleid (BBL) met als taken:
 
-- i. Adviseert over het begrotingsbeleid, waaronder de budgettaire normering van de collectieve sector;
+- i. Adviseert over het begrotingsbeleid, waaronder de budgettaire normering van de collectieve sector en risicoregelingen;
 
 - ii. Adviseert over de uitvoering van de begroting;
 
@@ -918,21 +920,27 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - v. Adviseert over de normering van het Gemeente- en het Provinciefonds;
 
-- vi. Is belast met het begrotingsbeheer van het BTW-compensatiefonds.
+- vi. Is belast met het begrotingsbeheer van het BTW-compensatiefonds;
 
-- c. de afdeling Besturing, Bekostiging en beheer Europese Middelen (BBE) met als taken:
+- vii. Adviseert over de beleidsontwikkeling van het schatkistbankieren.
 
-- i. Adviseert over de beleidsontwikkeling (financieel) van baten-lastendiensten en ZBO’s/RWT’s, inclusief schatkistbankieren;
+- c. de afdeling Besturing, Bekostiging en Externe verslaggeving (BBE) met als taken:
 
-- ii. Adviseert over en begeleidt de instellingtrajecten van baten-lastendiensten (en fusies) en van ZBO’s/RWT’s;
+- i. Adviseert over het beleid voor de aansturing, bekostiging en verantwoording van verzelfstandigde organisaties zoals agentschappen, ZBO’s, RWT’s en stichtingen;
 
-- iii. Adviseert over de beleidsontwikkeling inzake het financiële beheer van en de verantwoording over Europese middelen;
+- ii. Adviseert over en begeleidt de instellings- en opheffingstrajecten (en fusies) van agentschappen, ZBO’s, RWT’s en stichtingen;
 
-- iv. Coördineert de totstandkoming van de jaarlijkse Nationale Verklaring inzake Europese middelen;
+- iii. Adviseert over en begeleidt de doorlichtingen (evaluaties) van verzelfstandigde organisaties;
 
-- v. Adviseert over de beleidsontwikkeling met betrekking tot bepaalde bedrijfsvoeringsvraagstukken (o.a. risicomanagement, good governance, overheidstarieven);
+- iv. Adviseert over het auditbeleid en het toezicht binnen het rijk;
 
-- vi. Adviseert over (vereenvoudiging van) uitvoerings-, toezichts- en verantwoordingsprocessen.
+- v. Adviseert over de beleidsontwikkeling inzake het financiële beheer van en de verantwoording over Europese middelen;
+
+- vi. Coördineert jaarlijks de totstandkoming van het Nederlandse standpunt inzake de decharge EU begroting en de nationale verantwoording (Nationale Verklaring) inzake Europese middelen;
+
+- vii. Adviseert over het Rijkssubsidiebeleid;
+
+- viii. Coördineert de totstandkoming van de regelgeving voor de auditfunctie.
 
 - d. de afdeling Rijkshoofdboekhouding (RHB) met als taken:
 
@@ -944,47 +952,57 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - iv. Verzorgt rapportages over o.a. het EMU-saldo en over financiële activa en passiva op de Rijkssaldibalans en de Staatsbalans;
 
-- v. Is belast met de zorg voor de financiële informatiesystemen van het DG Rijksbegroting.
+- v. Initieert de daadwerkelijke overboekingen van gelden die aan de EC toekomen (op basis van een signaal van EC zelf);
+
+- vi. Is belast met de zorg voor de financiële informatiesystemen van het DG Rijksbegroting;
+
+- vii. Vervult de functie van informatiemanagement (directie breed) en is eerste aanspreekpunt voor IT-gerelateerde zaken.
 
 - e. de Rijksacademie voor Financiën, Economie en Bedrijfsvoering (RAFEB) met als taken:
 
 - i. Verzorgt opleidingen over financieel management, audit en economie en bedrijfsvoering;
 
-- ii. Verzorgt ondersteuning van buitenlandse centrale overheidsinstanties op gebied van financieel management en audit;
-
-- iii. Verzorgt de rijksbrede Financial traineeships.
+- ii. Verzorgt ondersteuning van buitenlandse centrale overheidsinstanties op gebied van financieel management en audit.
 
 ##### Artikel 34. De Inspectie der Rijksfinanciën
 
 1. De Inspectie der Rijksfinanciën (IRF) heeft de volgende hoofdtaken:
 
-- a. Is belast met het toezicht op de rijksbegroting;
+- a. Houdt toezicht op de rijksbegroting;
 
-- b. Beoordeelt en adviseert over alle voorstellen van vakdepartementen, in het bijzonder in het kader van de begrotingsvoorbereiding en begrotingsuitvoering;
+- b. Adviseert de minister en de vakdepartementen, in het bijzonder in het kader van de begrotingsvoorbereiding en begrotingsuitvoering;
 
-- c. Adviseert over het algemene begrotingsbeleid;
+- c. Beoordeelt alle voorstellen in het kader van de begrotingsvoorbereiding en begrotingsuitvoering van vakdepartementen;
 
-- d. Levert bijdragen aan het algemene begrotingsproces;
+- d. Adviseert over het algemene begrotingsbeleid;
 
-- e. Verricht onderzoek naar de doelmatigheid van de Rijksoverheid;
+- e. Levert bijdragen aan het algemene begrotingsproces;
 
-- f. Adviseert over de doelmatigheid van de Rijksoverheid.
+- f. Verricht onderzoek naar de doelmatigheid van de Rijksoverheid;
+
+- g. Adviseert over de doelmatigheid van de Rijksoverheid.
 
 2. De Inspectie der Rijksfinanciën is onderverdeeld in de volgende organisatieonderdelen:
 
 - a. Secties die de werkzaamheden als bedoeld in het eerste lid uitvoeren, onderverdeeld in:
 
-- i. Sectie Onderwijs, Defensie en Economische Zaken;
+- i. Sectie Economische Zaken en Klimaat en Onderwijs, Cultuur en Wetenschappen;
 
-- ii. Sectie Sociale Zaken Werkgelegenheid en Rechtspositionele Aangelegenheden Overheidspersoneel;
+- ii. Sectie Sociale Zaken en Werkgelegenheid;
 
 - iii. Sectie Volksgezondheid, Welzijn en Sport;
 
-- iv. Sectie Infrastructuur en Milieu, Buitenlandse Zaken;
+- iv. Sectie Infrastructuur en Waterstaat;
 
 - v. Sectie Binnenlandse Zaken en Koninkrijksrelaties;
 
-- vi. Sectie Veiligheid en Justitie, Financiën, Algemene Zaken.
+- vi. Sectie Justitie en Veiligheid, Algemene Zaken, Rechtspositie Sector Overheid;
+
+- vii. Sectie Landbouw, Natuur en Voedselkwaliteit;
+
+- viii. Sectie Financiën en Coördinatie Decentrale Overheden;
+
+- ix. Sectie Defensie, Buitenlandse Zaken en Handel en Ontwikkelingssamenwerking.
 
 - b. Bureau Begrotingsvoorbereiding (BBV), met als taak de coördinatie van de (interdepartementale) begrotingswerkzaamheden van de IRF;
 
@@ -1316,9 +1334,9 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-07-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-07-06&g=2021-07-06) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-07-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-07-06&g=2021-07-06), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
