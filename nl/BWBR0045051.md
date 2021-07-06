@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-06-30"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-06-30&g=2021-06-30);
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-07-06&g=2021-07-06);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-06-30&g=2021-06-30);
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-07-06&g=2021-07-06);
 
 - c. Noord-Brabant; en
 
@@ -110,21 +110,17 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-06-30&g=2021-06-30), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-06-30&g=2021-06-30), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-30&g=2021-06-30), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-06-30&g=2021-06-30) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-06-30&g=2021-06-30) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-07-06&g=2021-07-06), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-07-06&g=2021-07-06), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-07-06&g=2021-07-06), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-07-06&g=2021-07-06) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-07-06&g=2021-07-06) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
 ##### Artikel 3.4. Ophokplicht vogels
 
-1. Een exploitant van commercieel gehouden vogels of een exploitant van risicovogels neemt passende maatregelen om zo veel mogelijk te voorkomen dat de vogels in contact komt met in het wild levende dieren of hun uitwerpselen.
-
-2. Een passende maatregel als bedoeld in het eerste lid is voor een exploitant van commercieel gehouden vogels, met uitzondering van vogels, behorende tot de fazanten (Phasianidae) of de loopvogels, ten minste het binnen een gebouw brengen en daar houden van de vogels.
-
-3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van vogels die zich bevinden in een van de compartimenten, beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=2&z=2021-06-30&g=2021-06-30).
+Vervallen
 
 ##### Artikel 3.5. Verbod wedstrijden en tentoonstellingen met vogels
 
-Jaarbeurzen, markten, wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen zijn verboden, wanneer daar risicovogels op een plaats worden verzameld.
+Vervallen
 
 #### § 3.3. Maatregelen strooisel eenden
 
@@ -142,43 +138,15 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.8. Bezoekverbod vogelverblijfplaatsen
 
-1. Het is bezoekers verboden een vogelverblijfplaats of een niet deugdelijk fysiek van die verblijfplaats afgescheiden woonruimte of een ander deel van een inrichting te betreden.
-
-2. In afwijking van het eerste lid is het toegestaan een vogelverblijfplaats te betreden, indien:
-
-- a. het bezoek noodzakelijk is voor de volksgezondheid, de diergezondheid, het dierenwelzijn of de gezondheid van in de stal aanwezige personen;
-
-- b. wanneer de vogelverblijfplaats onderdeel is van een inrichting met commercieel gehouden vogels, het bezoek plaatsvindt overeenkomstig een hygiëneprotocol; en
-
-- c. de bezoeker het bezoek registreert.
-
-3. In afwijking van het tweede lid zijn de onderdelen b en c van dat lid niet van toepassing, indien een acute noodsituatie zich tegen toepassing van die onderdelen verzet.
-
-4. In afwijking van het eerste lid is het toegestaan een vogelverblijfplaats te betreden, indien:
-
-- a. de bezoeker onderdeel uitmaakt van het personeel van de inrichting waarvan de vogelverblijfplaats onderdeel uitmaakt;
-
-- b. wanneer de vogelverblijfplaats onderdeel is van een inrichting met commercieel gehouden gevogelte, het bezoek plaatsvindt overeenkomstig een hygiëneprotocol; en
-
-- c. de bezoeker in de 72 uren voorafgaand aan het bezoek geen andere inrichting met commercieel gehouden vogels heeft bezocht.
-
-5. Het is een exploitant van vogels verboden om een bezoeker toe te laten tot de in het eerste lid bedoelde ruimtes.
-
-6. Het vijfde lid is niet van toepassing indien het bezoek op grond van het tweede, derde of vierde lid is toegestaan.
-
-7. Het eerste tot en met zesde lid zijn van overeenkomstige toepassing op het vervoermiddel van een bezoeker.
+Vervallen
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-30&g=2021-06-30) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
-
-- a. risicovogels aanwezig zijn of gewoonlijk worden gehouden in een overkapte doorloopvolière; en
-
-- b. de dierentuin is erkend als geconsigneerde inrichting op grond van artikel 95 van verordening (EU) nr. 2016/429.
+Vervallen
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-06-30&g=2021-06-30) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Het is bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -206,61 +174,15 @@ Een exploitant van vogels houdt een register bij van bezoeken aan een vogelverbl
 
 ##### Artikel 3.12. Vervoer van commercieel gehouden hoenderachtigen, ganzen of eenden
 
-1. Het is verboden hoenderachtigen, ganzen of eenden, met uitzondering van eendagskuikens, te vervoeren tussen inrichtingen waar deze vogels commercieel worden gehouden.
-
-2. In afwijking van het eerste lid is het vervoer toegestaan indien:
-
-- a. het vervoer rechtstreeks plaatsvindt;
-
-- b. het vervoer plaatsvindt overeenkomstig een hygiëneprotocol; en
-
-- c. de vogels vergezeld gaan van een verklaring die minder dan 24 uur oud is, van een dierenarts dat de vogels die worden gehouden in de inrichting waarvandaan het vervoer plaatsvindt, op basis van een klinische inspectie geen ziekteverschijnselen vertonen.
-
-3. De verklaring, bedoeld in het tweede lid, onderdeel c, bevat in elk geval:
-
-- a. de datum en het tijdstip van de klinische inspectie;
-
-- b. de contactgegevens en het subregistratienummer, bedoeld in [artikel 5a.1, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5a.1), van de inrichting waarvandaan het vervoer plaatsvindt;
-
-- c. de bevindingen van de klinische inspectie; en
-
-- d. de naam en de handtekening van de dierenarts.
-
-4. De exploitant van de inrichting waar de vogels, bedoeld in het eerste lid, onder toepassing van het tweede lid worden afgeleverd, bewaart de in het tweede lid, onderdeel c, bedoelde verklaring gedurende zes maanden.
+Vervallen
 
 ##### Artikel 3.13. Vervoer van eenden en kalkoenen naar een slachterij
 
-1. Het is verboden eenden of kalkoenen te vervoeren tussen een inrichting waar eenden of kalkoenen commercieel worden gehouden en een slachterij.
-
-2. In afwijking van het eerste lid is het vervoer toegestaan indien:
-
-- a. het vervoer rechtstreeks plaatsvindt;
-
-- b. het vervoer plaatsvindt overeenkomstig een hygiëneprotocol; en
-
-- c. de eenden of kalkoenen vergezeld gaan van een verklaring die minder dan 24 uur oud is, van een dierenarts dat de eenden of kalkoenen die worden gehouden in de inrichting waarvandaan het vervoer plaatsvindt, op basis van een klinische inspectie geen ziekteverschijnselen vertonen.
-
-3. De verklaring, bedoeld in het tweede lid, onderdeel c, bevat in elk geval:
-
-- a. de datum en het tijdstip van de klinische inspectie;
-
-- b. de contactgegevens en het subregistratienummer, bedoeld in [artikel 5a.1, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5a.1) van de inrichting waarvandaan het vervoer plaatsvindt;
-
-- c. de bevindingen van de klinische inspectie; en
-
-- d. de naam en de handtekening van de dierenarts.
-
-4. De exploitant van de slachterij waar de eenden of kalkoenen onder toepassing van het tweede lid worden afgeleverd, bewaart de in het tweede lid, onderdeel c, bedoelde verklaring gedurende zes maanden.
+Vervallen
 
 ##### Artikel 3.14. Vervoeren naar inrichting eenden of kalkoenen
 
-1. Het is verboden herkauwers, eenhoevigen of varkens, eendagskuikens, mest, eieren, diervoeders, melk of strooisel van of naar een inrichting met commercieel gehouden eenden of kalkoenen te vervoeren.
-
-2. In afwijking van het eerste lid is het vervoer toegestaan indien:
-
-- a. per door de vervoerder af te leggen route maximaal één inrichting met commercieel gehouden vogels wordt bezocht;
-
-- b. het vervoer plaatsvindt overeenkomstig een hygiëneprotocol.
+Vervallen
 
 #### § 3.6. Maatregelen meldingsplicht
 
@@ -366,9 +288,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-06-30&g=2021-06-30)
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-07-06&g=2021-07-06)
 
-Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-06-30&g=2021-06-30)
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-07-06&g=2021-07-06)
 
 ### 1. Leefgebied Wild zwijn Veluwe
 
@@ -378,7 +300,7 @@ Het leefgebied is in donkergroen aangeduid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-06-30&g=2021-06-30)
+## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-07-06&g=2021-07-06)
 
 Gebieden waar de ophok- en afschermplicht niet geldt
 
