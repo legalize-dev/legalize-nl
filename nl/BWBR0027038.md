@@ -4,7 +4,7 @@ identifier: "BWBR0027038"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-07-06"
-last_updated: "2020-09-01"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027038"
 soort: "beleidsregel"
@@ -42,67 +42,57 @@ Heeft besloten onderstaand beleid te laten uitvoeren door de Dienst Uitvoering O
 
 In deze beleidsregel wordt verstaan onder:
 
-- **dagschool:** school of instelling als bedoeld in [artikel 1, onderdeel e, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1)
+- **lesgeld:** het lesgeld, bedoeld in [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
 
-- **GBA:** Gemeentelijke Basisadministratie persoonsgegevens
+- **lesgeldplichtige vreemdeling:** vreemdeling die op grond van [artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) rechtmatig in Nederland verblijft, en die lesgeldplichtig is op grond van [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
 
-- **Dienst Uitvoering Onderwijs:** de Dienst Uitvoering Onderwijs, genoemd in de [Wet van 15 oktober 2009 tot intrekking van de Wet verzelfstandiging Informatiseringsbank en wijziging van diverse wetten in verband met de oprichting van de Dienst Uitvoering Onderwijs (DUO)](https://wetten.overheid.nl/jci1.3:c:BWBR0026723)
+- **schooljaar:** tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daarop volgend;
 
-- **Koppelingswet:** Wet van 26 maart 1998 betreffende wijziging Vreemdelingenwet en enige andere wetten in verband met koppelen aanspraak op voorzieningen aan rechtmatig verblijf
-
-- **LCW:** [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188)
-
-- **Lesgeld:** lesgeld als bedoeld in [artikel 2 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=2)
-
-- **lesgeldplichtige:** lesgeldplichtige als bedoeld in [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3)
-
-- **schooljaar:** tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daarop volgend
-
-- **WSF 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+- **WSF 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
 
 - **WTOS:** [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
 
-##### Artikel 2. Doelgroep
+##### Artikel 2. Voorwaarden
 
-Deze beleidsregel is van toepassing op lesgeldplichtige vreemdelingen die:
+1. Voor gehele of gedeeltelijke kwijtschelding van het verschuldigde lesgeld komt een lesgeldplichtige vreemdeling in aanmerking die voldoet aan de volgende voorwaarden:
 
-- a. op grond van [artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) rechtmatig in Nederland verblijven, en
+- a. de lesgeldplichtige vreemdeling komt niet in aanmerking voor een tegemoetkoming in het lesgeld op grond van de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) of de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453); en
 
-- b. niet in aanmerking komen voor een tegemoetkoming in het lesgeld op grond van de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) of de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+- b. de lesgeldplichtige vreemdeling is niet in staat het verschuldigde lesgeld geheel dan wel gedeeltelijk te voldoen.
 
-##### Artikel 3. Het verzoek buiteninvorderingstelling van het lesgeld
+2. Van een situatie bedoeld in het eerste lid onder b is sprake indien is voldaan aan de volgende voorwaarden:
 
-- a. Het verzoek tot buiteninvorderingstelling van lesgeld wordt schriftelijk aangevraagd met een standaardformulier, voorzien van geldige bewijsstukken omtrent de verblijfsstatus van de lesgeldplichtige op de inschrijfdatum bij de dagschool.
+- a. de lesgeldplichtige vreemdeling verklaart niet in staat te zijn het verschuldigde lesgeld geheel dan wel gedeeltelijk te voldoen; en
 
-- b. Het verzoek wordt ingevuld door een uitkerende instantie, dan wel een door de lokale overheid erkende instantie, niet zijnde een dagschool, die zorg draagt voor de opvang of begeleiding van de lesgeldplichtige.
+- b. de uitkerende instantie, dan wel een door de lokale overheid erkende instantie, niet zijnde een dagschool, die zorg draagt voor de opvang of begeleiding van de lesgeldplichtige vreemdeling, verklaart niet in staat te zijn het verschuldigde lesgeld geheel dan wel gedeeltelijk te voldoen.
 
-- c. De instantie, bedoeld in het vorige lid, verklaart niet in staat te zijn het verschuldigde lesgeld voor de lesgeldplichtige geheel dan wel gedeeltelijk te voldoen.
+##### Artikel 3. Het verzoek kwijtschelding van het lesgeld
 
-- d. De lesgeldplichtige zelf verklaart ook niet in staat te zijn het verschuldigde lesgeld geheel of gedeeltelijk te voldoen.
+1. Het verzoek tot kwijtschelding van lesgeld wordt schriftelijk aangevraagd met een standaardformulier, voorzien van geldige bewijsstukken omtrent de verblijfsstatus van de lesgeldplichtige op de inschrijfdatum bij de dagschool.
 
-- e. Met uitzondering van het nationaliteitsvereiste moet aan de voorwaarden voor studiefinanciering of een tegemoetkoming op grond van respectievelijk de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) worden voldaan.
+2. Het verzoek wordt ingevuld door een uitkerende instantie, dan wel een door de lokale overheid erkende instantie, niet zijnde een dagschool, die zorg draagt voor de opvang of begeleiding van de lesgeldplichtige.
 
-- f. Het verzoek wordt bij voorkeur direct bij inschrijving met de onderwijskaart bij de dagschool ingeleverd. Verzoeken, ingediend na afloop van het desbetreffende schooljaar, worden niet gehonoreerd.
+3. De instantie, bedoeld in het vorige lid, verklaart niet in staat te zijn het verschuldigde lesgeld voor de lesgeldplichtige geheel dan wel gedeeltelijk te voldoen.
 
-##### Artikel 4. Reikwijdte van de buiteninvorderingstelling
+4. De lesgeldplichtige zelf verklaart ook niet in staat te zijn het verschuldigde lesgeld geheel of gedeeltelijk te voldoen.
 
-1. De buiteninvorderingstelling betreft het gehele schooljaar, ook wanneer de betreffende leerling tussentijds zijn opleiding onderbreekt en zich later in het schooljaar bij dezelfde dan wel een andere school inschrijft.
+5. Met uitzondering van het nationaliteitsvereiste moet aan de voorwaarden voor studiefinanciering of een tegemoetkoming op grond van respectievelijk de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) worden voldaan.
 
-2. De buiteninvorderingstelling leidt niet tot een kwijtschelding van het verschuldigde lesgeld.
+6. Het verzoek wordt bij voorkeur direct bij inschrijving met de onderwijskaart bij de dagschool ingeleverd. Verzoeken, ingediend na afloop van het desbetreffende schooljaar, worden niet gehonoreerd.
 
-3. Indien het lesgeld reeds geheel of ten dele is betaald, kan achteraf op grond van een buiteninvorderingstelling geen restitutie plaatsvinden.
+##### Artikel 4. Reikwijdte van de kwijtschelding
+
+1. De kwijtschelding betreft het gehele schooljaar, ook wanneer de betreffende leerling tussentijds zijn opleiding onderbreekt en zich later in het schooljaar bij dezelfde dan wel een andere school inschrijft.
+
+2. Indien het lesgeld reeds geheel of ten dele is betaald, ziet de kwijtschelding op het nog resterende verschuldigde lesgeld in het betreffende schooljaar.
 
 ##### Artikel 5. Wijzigingen in de verblijfsstatus
 
-1. Een wijziging in de verblijfsstatus kan leiden tot aanspraak op een tegemoetkoming in het lesgeld en wordt direct aan de Dienst Uitvoering Onderwijs doorgegeven.
-
-2. Indien, na de toepassing van een buiteninvorderingstelling, later in het schooljaar door een wijziging in de verblijfsstatus aanspraak op tegemoetkoming of studiefinanciering op grond van de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) of de [WSF2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) ontstaat, volgt alsnog verrekening met het verschuldigde lesgeld voor het betreffende schooljaar.
-
-3. Indien een wijziging in de verblijfsstatus niet binnen één maand wordt doorgegeven komen de eventuele financiële consequenties daarvan voor rekening van de lesgeldplichtige. Het niet (tijdig) doorgeven van de wijziging in de verblijfsstatus kan leiden tot intrekking van de buiteninvorderingstelling.
+Vervallen
 
 ##### Artikel 6. Overgangsrecht
 
-Op een lesgeldplichtige, die de leeftijdsgrens van 30 jaar als bedoeld in [artikel 2.3, derde lid WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.3), of [artikel 2.3, tweede lid WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) is gepasseerd en die in het schooljaar 2002–2003 reeds een opleiding volgde, is [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027038&artikel=3&z=2021-07-06&g=2020-09-01) van deze beleidsregel niet van toepassing gedurende de periode dat hij dezelfde opleiding zonder onderbreken blijft volgen.
+Vervallen
 
 ##### Artikel 7. Bekendmaking
 
