@@ -4,7 +4,7 @@ identifier: "BWBR0045339"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-07"
-last_updated: "2021-05-10"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045339"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045339&artikel=2&z=2021-07-07&g=2021-05-10);
+- b. **commissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045339&artikel=2&z=2021-07-07&g=2021-07-07);
 
 - c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
 
