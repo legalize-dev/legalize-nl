@@ -4,7 +4,7 @@ identifier: "BWBR0036076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-07"
-last_updated: "2015-01-01"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036076"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verlenen van een ontheffing van de verplichting bedoeld in [artikel 2.40 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.40).
+Aan de directeur van de Stichting Controle Orgaan Kwaliteits Zaken wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verlenen van een ontheffing van de verplichting bedoeld in [artikel 2.40 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.40).
 
 ##### Artikel 2
 
-Aan de directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=1&z=2015-01-01&g=2015-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de directeur van de Stichting Controle Orgaan Kwaliteits Zaken wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=1&z=2021-07-07&g=2021-07-07), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en voeren van (hoger) beroep.
 
 ##### Artikel 3
 
-1. De directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=2&z=2015-01-01&g=2015-01-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De directeur van de Stichting Controle Orgaan Kwaliteits Zaken kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=1&z=2021-07-07&g=2021-07-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036076&artikel=2&z=2021-07-07&g=2021-07-07) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
 
