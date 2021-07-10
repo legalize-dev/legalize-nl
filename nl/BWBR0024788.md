@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2021-07-01"
+last_updated: "2021-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -67,19 +67,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van hetgeen daaromtrent voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen een vakantie-uitkering, een eenmalige uitkering en een eindejaarsuitkering.
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen een eindejaarsuitkering van 8,3 procent van de bezoldiging en een vakantie-uitkering van 8 procent van de bezoldiging.
 
-2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
+2. Indien voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een eenmalige uitkering is overeengekomen, ontvangen de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen deze op gelijke voet.
+
+3. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
 - a. de voorzieningen die aan de in het eerste lid genoemde functionarissen ter beschikking worden gesteld en noodzakelijk zijn voor de vervulling van hun ambt;
 
 - b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening van de in het eerste lid genoemde functionarissen komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.
 
-3. In de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.
+4. In de in het derde lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.
 
-4. Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.
+5. Onder de in het derde lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen, vervoer en, voor zover het de Nationale ombudsman en de substituut-ombudsmannen betreft, een voorziening voor bedrijfsgeneeskundige zorg.
 
-5. De vice-president van de Raad van State, de president van de algemene Rekenkamer, de leden van de Raad van State en de staatsraden en de overige leden in gewone dienst van de Algemene Rekenkamer ontvangen een ambtsjubileumgratificatie op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de Sector Rijk.
+6. De vice-president van de Raad van State, de president van de algemene Rekenkamer, de leden van de Raad van State en de staatsraden en de overige leden in gewone dienst van de Algemene Rekenkamer ontvangen een ambtsjubileumgratificatie op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de Sector Rijk.
 
 ##### Artikel 4
 
@@ -97,25 +99,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-1. Op de bezoldiging, bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-01-01&g=2021-07-01), de uitkering, bedoeld in artikel 1, zesde lid, en de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-01-01&g=2021-07-01), alsmede op de ambtsjubileumgratificatie, de vakantie-uitkering en de eindejaarsuitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-01-01&g=2021-07-01), is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
+1. Op de bezoldiging, bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-07-10&g=2021-07-10), de uitkering, bedoeld in artikel 1, zesde lid, en de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-07-10&g=2021-07-10), alsmede op de ambtsjubileumgratificatie, de vakantie-uitkering en de eindejaarsuitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-07-10&g=2021-07-10), is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
-2. Kostenvergoedingen krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-01-01&g=2021-07-01), zijn niet vatbaar voor beslag.
+2. Kostenvergoedingen krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-07-10&g=2021-07-10), zijn niet vatbaar voor beslag.
 
 ##### Artikel 7
 
-Onverschuldigd betaalde bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-01-01&g=2021-07-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-01-01&g=2021-07-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-01-01&g=2021-07-01), kunnen worden teruggevorderd.
+Onverschuldigd betaalde bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-07-10&g=2021-07-10), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-07-10&g=2021-07-10), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-07-10&g=2021-07-10), kunnen worden teruggevorderd.
 
 ##### Artikel 8
 
-1. Met bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-01-01&g=2021-07-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-01-01&g=2021-07-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-01-01&g=2021-07-01), kan worden verrekend hetgeen de betrokken functionaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
+1. Met bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-07-10&g=2021-07-10), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-07-10&g=2021-07-10), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-07-10&g=2021-07-10), kan worden verrekend hetgeen de betrokken functionaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
 
-2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2021-01-01&g=2021-07-01).
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2021-07-10&g=2021-07-10).
 
 3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging, ambtsjubileumgratificaties, vakantie-uitkeringen of eindejaarsuitkeringen geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
 ##### Artikel 9
 
-1. Op bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-01-01&g=2021-07-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-01-01&g=2021-07-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-01-01&g=2021-07-01), kan ten behoeve van een schuldeiser van de betrokken functionaris of zijn nagelaten betrekkingen een korting worden toegepast, mits deze functionaris onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+1. Op bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2021-07-10&g=2021-07-10), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2021-07-10&g=2021-07-10), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2021-07-10&g=2021-07-10), kan ten behoeve van een schuldeiser van de betrokken functionaris of zijn nagelaten betrekkingen een korting worden toegepast, mits deze functionaris onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
 
 2. Korting is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn.
 
@@ -123,7 +125,7 @@ Onverschuldigd betaalde bezoldiging als bedoeld in [artikel 1, eerste tot en met
 
 ##### Artikel 10
 
-Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=8&z=2021-01-01&g=2021-07-01), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2021-01-01&g=2021-07-01), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=8&z=2021-07-10&g=2021-07-10), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2021-07-10&g=2021-07-10), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 11
 
@@ -143,7 +145,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3a
 
-1. Een Nationale ombudsman of een substituut-ombudsman die naar het oordeel van een arts een structurele functionele beperking heeft, kan aanspraak maken op een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
+1. Een Nationale ombudsman of een substituut-ombudsman die naar het oordeel van een arts een structurele functionele beperking heeft, kan aanspraak maken op een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) dan wel een financiële vergoeding daarvoor.
 
 2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing.
 
