@@ -4,7 +4,7 @@ identifier: "BWBR0004939"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2021-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004939"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- -. schadeloosstelling: de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-01-01&g=2021-07-01) van deze wet;
+- -. schadeloosstelling: de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-07-10&g=2021-07-10) van deze wet;
 
 - -. kamerlid: lid van de Tweede Kamer der Staten-Generaal;
 
@@ -60,25 +60,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Deze wet is niet van toepassing op kamerleden die het ambt van minister of staatssecretaris bekleden.
 
-3. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-01-01&g=2021-07-01) van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte.
+3. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-07-10&g=2021-07-10) van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte.
 
 #### § 2:. Schadeloosstelling
 
 ##### Artikel 2
 
-1. De kamerleden genieten een schadeloosstelling van € 8.431,26 per maand, vermeerderd met een percentage dat gelijk is aan het percentage van de vakantie-uitkering dat in een collectieve arbeidsovereenkomst is overeengekomen voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. De kamerleden genieten een schadeloosstelling van € 8.431,26 per maand, vermeerderd met een vakantie-uitkering van 8 procent.
 
 2. Indien voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen en daarbij is bepaald dat die wijziging een algemeen karakter draagt, wordt bij ministeriële regeling met ingang van de datum, waarop die wijziging ingaat, de schadeloosstelling van kamerleden dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van het in het eerste lid genoemde bedrag.
 
 ##### Artikel 2a
 
-1. Indien voor de ambtenaren, bedoeld in het tweede lid, in een collectieve arbeidsovereenkomst is overeengekomen dat zij een eenmalige uitkering ontvangen en daarbij is bepaald dat dat deze uitkering een algemeen karakter draagt, ontvangen de kamerleden een uitkering op gelijke voet.
+1. Indien voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen dat zij een eenmalige uitkering ontvangen en daarbij is bepaald dat dat deze uitkering een algemeen karakter draagt, ontvangen de kamerleden een uitkering op gelijke voet.
 
-2. Indien de hoogte van de uitkering, bedoeld in het eerste lid, afhankelijk is van de hoogte van de schadeloosstelling, wordt bij de vaststelling hiervan rekening gehouden met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-01-01&g=2021-07-01), met een eventuele toelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2021-01-01&g=2021-07-01), alsmede met een verhoging van de schadeloosstelling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2021-01-01&g=2021-07-01).
+2. Indien de hoogte van de uitkering, bedoeld in het eerste lid, afhankelijk is van de hoogte van de schadeloosstelling, wordt bij de vaststelling hiervan rekening gehouden met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-07-10&g=2021-07-10), met een eventuele toelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2021-07-10&g=2021-07-10), alsmede met een verhoging van de schadeloosstelling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2021-07-10&g=2021-07-10).
 
 ##### Artikel 2b
 
-De kamerleden ontvangen een eindejaarsuitkering op de voet van hetgeen daaromtrent voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen. Grondslag voor de eindejaarsuitkering is de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-01-01&g=2021-07-01), verminderd met het in dat artikel bedoelde percentage en rekening houdend met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-01-01&g=2021-07-01), alsmede de toelagen, bedoeld in de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2021-01-01&g=2021-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2021-01-01&g=2021-07-01).
+De kamerleden ontvangen een eindejaarsuitkering van 8,3 procent van de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-07-10&g=2021-07-10), verminderd met de vakantie-uitkering en indien van toepassing rekening houdend met de toelagen, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2021-07-10&g=2021-07-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2021-07-10&g=2021-07-10), en met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-07-10&g=2021-07-10).
 
 ##### Artikel 3
 
@@ -140,7 +140,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. De kamerleden ontvangen naar keuze een Openbaar Vervoer-jaarkaart, die mede geldig is voor treinreizen in de eerste klas en die aan hen ter beschikking wordt gesteld voor de duur van het kamerlidmaatschap, of een compensatie voor de reiskosten volgens de onderstaande tabel.
+1. De kamerleden met uitzondering van de voorzitter ontvangen naar keuze een Openbaar Vervoer-jaarkaart, die mede geldig is voor treinreizen in de eerste klas en die aan hen ter beschikking wordt gesteld voor de duur van het kamerlidmaatschap, of een compensatie voor de reiskosten volgens de onderstaande tabel.
 
 | Enkele reisafstand |   |   |
 | --- | --- | --- |
@@ -150,7 +150,7 @@ Vervallen
 | 15 km | 20 km | € 91 |
 | 20 km | – | € 130 |
 
-2. Voorts ontvangen de kamerleden ter vergoeding van reiskosten buiten het woon-werkverkeer een bedrag van € 4900 per jaar.
+2. Voorts ontvangen de kamerleden met uitzondering van de voorzitter ter vergoeding van reiskosten buiten het woon-werkverkeer een bedrag van € 4900 per jaar.
 
 3. Het in het tweede lid genoemde bedrag wordt aangepast bij ministeriële regeling overeenkomstig de wijziging in de vergoeding die in een collectieve arbeidsovereenkomst is overeengekomen voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor dienstreizen voor het gebruik van een eigen motorvoertuig indien openbaar vervoer niet mogelijk of niet doelmatig is.
 
@@ -180,11 +180,11 @@ waarbij bedrag A gelijk is aan de som van de voor dienstreizen van ambtenaren di
 
 2. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag.
 
-3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
+3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande jaar.
 
 ##### Artikel 10
 
-1. De griffier kent een kamerlid dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de Tweede Kamer op aanvraag een voorziening toe als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
+1. De griffier kent een kamerlid dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de Tweede Kamer op aanvraag een voorziening toe als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) dan wel een financiële vergoeding daarvoor.
 
 2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing.
 
@@ -210,13 +210,15 @@ waarbij bedrag A gelijk is aan de som van de voor dienstreizen van ambtenaren di
 
 ##### Artikel 12a
 
-1. Ten behoeve van het woon-werkverkeer en dienstreizen van de voorzitter kan in plaats van de voorzieningen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-01-01&g=2021-07-01), een dienstauto ter beschikking worden gesteld.
+1. Ten behoeve van het woon-werkverkeer en dienstreizen van de voorzitter kan in plaats van de voorziening, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-07-10&g=2021-07-10), een dienstauto ter beschikking worden gesteld.
 
-2. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,65 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.
+2. Op een daartoe strekkend advies van de Nationaal Coördinator Terrorismebestrijding en Veiligheid kan aan de voorzitter in plaats van de voorziening, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-07-10&g=2021-07-10), voor de duur van het voorzitterschap een dienstauto met chauffeur ter beschikking worden gesteld voor zowel zakelijk als privégebruik.
 
-3. Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
+3. De prijs per kilometer van de dienstauto, bedoeld in het eerste of tweede lid, bedraagt niet meer dan € 0,65 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.
 
-4. De prijs per kilometer wordt berekend aan de hand van de formule
+4. Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
+
+5. De prijs per kilometer wordt berekend aan de hand van de formule
 
 (((n / (l/12)) + o + f + g + h + p) / m) + i,
 
@@ -262,7 +264,7 @@ l = looptijd in maanden;
 
 m = jaarkilometrage.
 
-5. De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.
+6. De dienstauto, bedoeld in het eerste of tweede lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.
 
 #### § 4:. Toelagen voorzitter, ondervoorzitters en fractievoorzitters
 
@@ -270,15 +272,19 @@ m = jaarkilometrage.
 
 Ten aanzien van een kamerlid waarvan de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) aangewezen:
 
-- a. de bedragen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-01-01&g=2021-07-01), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdeel a, onder 2˚ en 3˚, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
+- a. de bedragen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-07-10&g=2021-07-10), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdeel a, onder 2˚ en 3˚, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
 
-- b. de bedragen, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-01-01&g=2021-07-01);
+- b. de bedragen, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2021-07-10&g=2021-07-10);
 
-- c. het bedrag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=8&z=2021-01-01&g=2021-07-01);
+- c. het bedrag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=8&z=2021-07-10&g=2021-07-10);
 
-- d. de vergoeding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=9&z=2021-01-01&g=2021-07-01);
+- d. de vergoeding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=9&z=2021-07-10&g=2021-07-10);
 
-- e. de verstrekkingen, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=10a&z=2021-01-01&g=2021-07-01).
+- e. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=10&z=2021-07-10&g=2021-07-10);
+
+- f. de verstrekkingen, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=10a&z=2021-07-10&g=2021-07-10);
+
+- g. de vergoeding, bedoeld in [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=10b&z=2021-07-10&g=2021-07-10).
 
 ##### Artikel 14
 
@@ -310,11 +316,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 19
 
-De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van de Tweede Kamer der Staten-Generaal en belanghebbenden in de zin van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) in verband met de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting (**Stb.** 1989, 591) wordt ingetrokken.
+De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van de Tweede Kamer der Staten-Generaal en belanghebbenden in de zin van de [Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) in verband met de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting (**Stb.** 1989, 591) wordt ingetrokken.
 
 ##### Artikel 19a
 
-Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-01-01&g=2021-07-01), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder Wet inkomstenbelasting 2001](onbekend) verstaan Wet op de inkomstenbelasting 1964.
+Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2021-07-10&g=2021-07-10), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder Wet inkomstenbelasting 2001](onbekend) verstaan Wet op de inkomstenbelasting 1964.
 
 ##### Artikel 20
 
@@ -334,9 +340,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het kamerlid dat ingevolge artikel X 12 van de Kieswet is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid wegens zwangerschap en bevalling of ziekte, ontvangt een bedrag van € 731,23 per maand waarmee voorzieningen kunnen worden getroffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
-2. Het bedrag, genoemd in het eerste lid, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-01-01&g=2021-07-01), ondergaat.
+2. Het bedrag, genoemd in het eerste lid, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2021-07-10&g=2021-07-10), ondergaat.
 
-#### § 3. Onkostenvergoedingen
+#### § 3. Kostenvergoedingen en voorzieningen
 
 #### § 4:. Toelagen voorzitter, ondervoorzitters en fractievoorzitters
 
@@ -364,17 +370,39 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 10b
 
-Dit onderdeel is nog niet inwerking getreden
+De kosten die een kamerlid maakt omdat hij zich tijdens het vervullen van het ambt oriënteert op zijn verdere loopbaan of mobiliteit bevorderende activiteiten ontplooit, komen ten laste van de Staat, op voorwaarde dat de voorzitter van oordeel is dat:
+
+- a. de prijs/kwaliteitverhouding van de desbetreffende loopbaan oriëntatie of mobiliteit bevorderende activiteit redelijk is;
+
+- b. die loopbaan oriëntatie of mobiliteit bevorderende activiteit niet kan worden aangemerkt als een sollicitatieactiviteit; en
+
+- c. de kosten ervan niet reeds uit anderen hoofde voor vergoeding in aanmerking komen.
 
 ##### Artikel 10c
 
-Dit onderdeel is nog niet inwerking getreden
+De voorzitter treft voor de kamerleden een voorziening voor bedrijfsgeneeskundige zorg.
 
 ##### Artikel 12b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien aan de voorzitter op grond van [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12a&z=2021-07-10&g=2021-07-10), een dienstauto ter beschikking is gesteld, ontvangt hij een maandelijkse vergoeding voor de door hem verschuldigde loonbelasting over het privégebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
 
-#### § 7:. Wijziging [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
+waarin:
+
+M = het bedrag van de vergoeding;
+
+CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM, verminderd met het deel van de catalogusprijs, met inbegrip van BTW en BPM, dat toerekenbaar is aan buitengewone beveiligingsmaatregelen;
+
+P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis);
+
+T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) opgenomen percentages.
+
+2. Aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) wordt:
+
+- a. de maandelijkse vergoeding, bedoeld in het eerste lid;
+
+- b. het tot het belastbare loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de voorzitter behorend voordeel ter zake van de dienstauto toerekenbaar aan buitengewone beveiligingsmaatregelen.
+
+#### § 7:. Wijziging [Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
 
 #### § 8:. Overgangs- en slotbepalingen
 
