@@ -4,7 +4,7 @@ identifier: "BWBR0045388"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-12"
-last_updated: "2020-01-01"
+last_updated: "2021-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045388"
 soort: "wet"
@@ -60,8 +60,6 @@ Wijzigt de Wet rechtspositie ministers en staatssecretarissen.
 
 Wijzigt de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.
@@ -70,13 +68,9 @@ Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlemen
 
 Wijzigt de Gemeentewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Provinciewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -86,24 +80,38 @@ Wijzigt de Wet Privatisering ABP.
 
 Wijzigt de Algemene wet bestuursrecht, de Wet Nationale ombudsman, de Wet financiële voorzieningen privatisering ABP, de Wet normering topinkomens, de Wet schadeloosstelling leden Tweede Kamer, de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement, de Wet verevening pensioenrechten bij scheiding en de Wet vergoedingen leden Eerste Kamer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
 Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2021-07-10&g=2021-07-10), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+2. [Artikel I, met uitzondering van de onderdelen Ra en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2021-07-10&g=2021-07-10), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld.
+
+3. Indien het bij koninklijke boodschap van 2 september 2020 ingediende voorstel van wet houdende wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling, de Wet op het Financieel toezicht, de Wet inkomstenbelasting 2001 en de Wet op de Loonbelasting 1964 in verband met de introductie van de mogelijkheid om een deel van de waarde van de aanspraken op ouderdomspensioen of op periodieke uitkeringen van oudedagsvoorzieningen in de derde pijler op de ingangsdatum daarvan te laten afkopen, de tijdelijke versoepeling van de pseudo-eindheffing bij regelingen voor vervroegde uittreding en de uitbreiding van de fiscale ruimte voor het sparen van bovenwettelijk verlof ([Wet bedrag ineens, RVU en verlofsparen](https://wetten.overheid.nl/jci1.3:c:BWBR0044727)) (Kamerstukken 35 555) tot wet is of wordt verheven en [artikel I, onderdeel C, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044727&artikel=I) in werking treedt, treedt [artikel I, onderdeel Ra](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2021-07-10&g=2021-07-10), van deze wet op hetzelfde tijdstip in werking.
+
+4. [Artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2021-07-10&g=2021-07-10), treedt in werking drie maanden na het tijdstip, bedoeld in onderdeel 2.
+
+5. [Artikel I, onderdelen R en II, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2021-07-10&g=2021-07-10), werkt terug tot en met 1 januari 2019.
+
+6. De [artikelen II, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=II&z=2021-07-10&g=2021-07-10), [III, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=III&z=2021-07-10&g=2021-07-10), [IV, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IV&z=2021-07-10&g=2021-07-10), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=VI&z=2021-07-10&g=2021-07-10) werken terug tot en met 1 januari 2020.
+
+7. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IX&z=2021-07-10&g=2021-07-10) werkt terug tot en met 1 januari 2019.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als Wet aanpassing Appa en enkele andere wetten 2021.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het partner- en wezenpensioen voor de nabestaanden van politieke ambtsdragers te harmoniseren met het partnerpensioen en het wezenpensioen voor nabestaanden van het overheidspersoneel en daartoe de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) te wijzigen, alsmede mede naar aanleiding van de evaluatie van de wetgeving in vervolg op de adviezen van de commissie Rechtspositie politieke ambtsdragers en de inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) de Algemene pensioenwet politieke ambtsdragers, de [Wet Schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939), de [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402), de [Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286), de [Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788) en de [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0003251) te wijzigen, en de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) en de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) aan te passen in verband met de harmonisatie van de rechtspositie van decentrale politieke ambtsdragers;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
