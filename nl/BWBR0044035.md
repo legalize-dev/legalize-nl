@@ -4,7 +4,7 @@ identifier: "BWBR0044035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-22"
-last_updated: "2021-01-01"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3. Staatssteun
 
-1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2021-01-01&g=2021-01-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2021-07-14&g=2021-07-14), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
@@ -88,21 +88,21 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - g. 1,0 fte manager bedrijfsvoering gestationeerd bij één universitair medisch centrum.
 
-3. In afwijking van het eerste lid, kan subsidie voor het uitvoeren van de structurele functies, bedoeld in het tweede lid, onder a, b, c, d en g, uitsluitend door een universitair medisch centrum worden aangevraagd.
+3. In afwijking van het eerste lid, kan subsidie voor het uitvoeren van de structurele functies, bedoeld in het tweede lid, onder a, b, c en g, uitsluitend door een universitair medisch centrum worden aangevraagd.
 
 ##### Artikel 5. Hoogte van de subsidie
 
 1. De subsidie voor het uitoefenen van een structurele functie of daarmee samenhangende activiteiten als hieronder vermeld, bedraagt maximaal:
 
-- a. € 102.615 voor de functie van regionaal teamleider;
+- a. € 104.678 voor de functie van regionaal teamleider;
 
-- b. € 68.873 voor de functie van donatiecoördinator;
+- b. € 70.257 voor de functie van donatiecoördinator;
 
-- c. € 228.522 voor de functie van (coördinerend) donatie-intensivist;
+- c. € 233.115 voor de functie van (coördinerend) donatie-intensivist;
 
-- d. € 228.522 voor de functie van supervisor;
+- d. € 233.115 voor de functie van supervisor;
 
-- e. € 130.000 voor de functie van manager bedrijfsvoering;
+- e. € 132.613 voor de functie van manager bedrijfsvoering;
 
 - f. € 3.100 voor het trainen van professionals per kernziekenhuis;
 
@@ -111,6 +111,8 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 - h. € 20.000 voor ondersteunende taken of uitgaven per universitair medisch centrum.
 
 2. De hoogte van de subsidie voor de onderdelen a tot en met e is gebaseerd op één volledige fte.
+
+3. De Minister kan het maximale bedrag voor het uitvoeren van de activiteit, bedoeld in het eerste lid, onder f, in 2021 en 2022 op verzoek van een kernziekenhuis verhogen met maximaal € 10.000 per kernziekenhuis.
 
 ##### Artikel 6. Periode van de subsidie
 
@@ -122,7 +124,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2021-01-01&g=2021-01-01).
+2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2021-07-14&g=2021-07-14).
 
 3. In aanvulling op het tweede lid gaat de aanvraag tot verlening van de subsidie van een universitair medisch centrum vergezeld van een schriftelijke verklaring over de geldigheidsduur van bestaande convenanten met het betrokken kernziekenhuis en dienstverleningsovereenkomsten met de NTS.
 
