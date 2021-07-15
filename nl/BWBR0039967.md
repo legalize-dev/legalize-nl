@@ -4,7 +4,7 @@ identifier: "BWBR0039967"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-19"
-last_updated: "2019-04-01"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039967"
 soort: "ministeriele-regeling"
@@ -54,23 +54,39 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - **programmamanager:** de functionaris die in zijn rol opdrachtnemer is en verantwoordelijk is voor de ontwikkeling van één of meer programmaplannen en de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld, capaciteit, in het vastgestelde programmaplan;
 
-- **projectleider:** de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde resultaten;
+- **projectleider:** de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde doelstellingen;
 
-- **vakgroep:** een vakgroep die valt onder de directie Mensen & Middelen van de inspectie.
+- **vakgroep:** een vakgroep die valt onder de directie Mensen & Middelen van de inspectie;
+
+- **vakgroep P&P:** de vakgroep Programma- & Projectmanagement;
+
+- **vakteam:** eenheid van de vakgroep P&P waarin medewerkers zijn ondergebracht.
 
 #### § 2. Organisatie
 
 ##### Artikel 2. Organisatie directie
 
-1. De directie bestaat uit een aantal programmamanagers op tactisch niveau.
+1. De directie bestaat uit:
+
+- a. een aantal programmanagers op tactisch niveau;
+
+- b. de vakgroep P&P, waarbinnen vakteams zijn ingericht.
 
 2. De programmamanagers op tactisch niveau ressorteren rechtstreeks onder de directeuren Toezicht.
 
-#### § 3. Verantwoordelijkheden
+3. De vakgroep P&P ressorteert rechtstreeks onder de directeur Toezicht, die niet tevens de directeur Opsporing is.
 
-##### Artikel 3. Verantwoordelijkheden programmamanagers
+4. De vakgroep P&P wordt als volgt geleid:
 
-De programmamanagers zijn verantwoordelijk voor de volgende algemene taken:
+- a. aan het hoofd van de vakgroep P&P staat een vakgroephoofd;
+
+- b. aan het hoofd van ieder vakteam staat een teammanager.
+
+#### § 3. Taken en verantwoordelijkheden
+
+##### Artikel 3. Verantwoordelijkheden programmamanagers op tactisch niveau
+
+De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende algemene taken:
 
 - a. de functionele aansturing van de medewerkers die ondergebracht zijn in één of meer aan hem opgedragen programma’s of projecten, supervisie op en coördinatie van de programmawerkzaamheden en het rechtstreeks verantwoording afleggen hierover aan de directeur Toezicht die opdrachtgever is;
 
@@ -110,7 +126,7 @@ De programmamanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 ##### Artikel 4. Algemeen
 
-De programmamanagers zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
+De programmamanagers en de projectleiders zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
 ##### Artikel 5. Machtiging stillegging in verband met recidive
 
@@ -120,15 +136,23 @@ De onder de directeur Mensen & Middelen ressorterende ambtenaren, belast met toe
 
 De onder de directeur Mensen & Middelen ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
 
-##### Artikel 7. Volmacht
+##### Artikel 7. Volmacht programmamanagers en vakgroephoofd P&P
 
-De onder de directeur Toezicht ressorterende programmamanagers en de onder de directeur Mensen & Middelen ressorterende programmamanagers van de toezichtprogramma’s en de vakgroephoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
+1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau en het vakgroephoofd P&P zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
+
+2. Het vakgroephoofd P&P is binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
+
+- a. het opleiden van medewerkers van de eigen vakgroep binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
+
+- b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen vakgroep.
 
 ##### Artikel 8. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
-2. Bij afwezigheid of verhindering van een programmanager worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+2. Bij afwezigheid of verhindering van een programmamanager worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
+3. Bij afwezigheid of verhindering van het vakgroephoofd P&P worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
 #### § 5. Slotbepalingen
 
