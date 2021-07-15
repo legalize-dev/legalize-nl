@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2020-01-01"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -64,19 +64,21 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de afdeling Communicatie;
 
-- d. de afdeling Handhaving;
+- d. de afdeling Handhaving, waarbinnen het team Juridisch Advies Primair Proces is ingericht;
 
-- e. de afdeling Boete, Dwangsom en Inning.
+- e. de afdeling Boete, Dwangsom en Inning, waarbinnen de volgende teams zijn ingericht:
 
-2. Aan het hoofd van iedere afdeling staat een afdelingshoofd.
+- 1°. twee teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider; en
 
-3. Binnen de afdeling Boete, Dwangsom en Inning zijn de volgende teams ingericht:
+- 2°. een team voor inning en beheer.
 
-- a. twee teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider; en
+2. De afdelingen worden als volgt geleid:
 
-- b. een team voor inning en beheer.
+- a. aan het hoofd van iedere afdeling staat een afdelingshoofd;
 
-4. Het afdelingshoofd Boete, Dwangsom en Inning wordt bijgestaan door de onder hem ressorterende teamleiders, bedoeld in het derde lid, onderdeel a.
+- b. het afdelingshoofd van de afdeling Handhaving wordt bijgestaan door de onder het afdelingshoofd ressorterende teamleider van het team Juridisch Advies Primair Proces;
+
+- c. het afdelingshoofd van de afdeling Boete, Dwangsom en Inning wordt bijgestaan door de onder het afdelingshoofd ressorterende teamleiders van de teams voor de voorbereiding van bestuurlijke sancties.
 
 #### § 3. Verantwoordelijkheden
 
@@ -88,17 +90,25 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling aan de uitvoering van het jaarplan van de inspectie;
 
-- c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;
+- c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel j van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
-- e. het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- e. het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen;
+
+- f. het managen van vakinhoudelijke processen en het actief zoeken van samenwerking en afstemming met overige betrokkenen;
+
+- g. het zorg dragen voor de borging van afdelingsbrede vakkennis en van kwaliteit en innovatie van werkprocessen;
+
+- h. het bijdragen aan de ontwikkeling van de strategische personeelsplanning en zorg dragen voor de uitvoering daarvan binnen de afdeling;
+
+- i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
 ##### Artikel 4. Verantwoordelijkheden afdeling Programmering, Signalering en Onderzoek
 
 De afdeling Programmering, Signalering en Onderzoek is verantwoordelijk voor de volgende taken:
 
-- a. het verrichten van de inspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de inspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties alsmede het verwerken van gegevens in de risicoanalyseomgeving;
+- a. het verrichten van de inspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de inspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
 
 - b. het analyseren van de gemeten effecten betreffende de inspectie en haar activiteiten;
 
@@ -194,7 +204,7 @@ Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoe
 
 ##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
-1. Aan de afdelingshoofden van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
