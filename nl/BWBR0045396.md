@@ -4,7 +4,7 @@ identifier: "BWBR0045396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2020-07-07"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045396"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 2. Deze regeling vervalt met ingang van 1 juli 2024.
 
-3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien de werkzaamheden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2021-07-15&g=2020-07-07), voltooid zijn.
+3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien de werkzaamheden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2021-07-15&g=2021-07-15), voltooid zijn.
 
 ##### Artikel 10. Citeertitel
 
