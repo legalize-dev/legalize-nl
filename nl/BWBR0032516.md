@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2021-04-21"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -70,7 +70,11 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), [2.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), en het bepaalde krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5) of [artikel 6.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) en het bij of krachtens het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) bepaalde, het krachtens [artikel 3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6) bepaalde, het krachtens [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9) bepaalde, of [artikel 2.3, tweede en derde lid, van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3);
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de vrijwillige ambtenaren van de politie, bedoeld in artikel 2, onderdeel c, van de Politiewet 2012, voor zover deze vrijwillige ambtenaren zijn aangesteld voor de uitvoering van de politietaak, met uitzondering van de vrijwilliger-aspirant gedurende het theoretische opleidingsdeel en de vrijwillige ambtenaar in opleiding gedurende het theoretisch opleidingsdeel, bedoeld in het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), voor zover het betreft het bepaalde bij of krachtens:
+
+- 1°. de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.23), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.5), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.5), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.6), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.11), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.12), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.13), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.15) en [8.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4); en
+
+- 2°. de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2) en [7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) in samenhang met de onderwerpen waarop de artikelen, genoemd in onderdeel 1°, betrekking hebben;
 
 - g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
 
@@ -134,8 +138,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde ambtenaren.
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-07-16&g=2021-07-16), bedoelde ambtenaren.
 
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde personen.
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-07-16&g=2021-07-16), bedoelde personen.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
