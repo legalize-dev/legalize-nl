@@ -4,7 +4,7 @@ identifier: "BWBR0035288"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-16"
-last_updated: "2014-07-01"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035288"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaar, bedoeld in de [artikelen 8.15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.15), en [8.31, negende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.31) wordt aangewezen de Chief Veterinary Officer van het Ministerie van Economische Zaken.
+Als ambtenaar, bedoeld in de [artikelen 8.15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.15), en [8.31, negende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.31) wordt aangewezen de Chief Veterinary Officer van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
