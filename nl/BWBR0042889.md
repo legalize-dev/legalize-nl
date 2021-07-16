@@ -4,7 +4,7 @@ identifier: "BWBR0042889"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-16"
-last_updated: "2019-12-14"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042889"
 soort: "ministeriele-regeling"
@@ -52,11 +52,9 @@ In dit besluit wordt verstaan onder:
 
 1. Iedere dierenarts die is geregistreerd overeenkomstig [artikel 4.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3), wordt aangewezen als natuurlijk persoon als bedoeld in de artikel 30 en 31, tweede lid, van verordening (EU) nr. 2017/625 voor het verrichten van de volgende taken:
 
-- a. de keuring, bedoeld in artikel 4 van gedelegeerde verordening (EU) nr. 2019/624;
+- a. de keuring, bedoeld in artikel 4 van gedelegeerde [verordening (EU) nr. 2019/624](32524R2019); en
 
-- b. het volgen van de gezondheidssituatie van een inrichting, bedoeld in [artikel 6.8, eerste lid, onderdeel b, onder 3 en 4 van de Regeling handel levende dieren; levende producten](https://wetten.overheid.nl/jci1.3:c:BWBR0007049&artikel=6.8); en
-
-- c. werkzaamheden die onder verantwoordelijkheid en in opdracht van de Nederlandse Voedsel- en Warenautoriteit worden uitgevoerd in het kader van opsporing, preventie en bestrijding van besmettelijke dierziekten als bedoeld in de [artikelen 2 tot en met 8 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekte en zoönosen en TSE’s](https://wetten.overheid.nl/jci1.3:c:BWBR0018397&artikel=2).
+- b. werkzaamheden die onder verantwoordelijkheid en in opdracht van de Nederlandse Voedsel- en Warenautoriteit worden uitgevoerd in het kader van opsporing, preventie en bestrijding van besmettelijke dierziekten als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.1) en [2.2 van de Regeling diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.2) en [artikel 3a.1 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3a.1).
 
 2. Indien een dierenarts als bedoeld in het eerste lid niet voldoet aan artikel 30, 31, tweede lid, of 32 van verordening (EU) nr. 2017/625, besluit de minister om een dierenarts van het verrichten van een of meer taken als bedoeld in het eerste lid uit te sluiten.
 
