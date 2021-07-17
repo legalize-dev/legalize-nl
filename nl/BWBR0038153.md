@@ -4,7 +4,7 @@ identifier: "BWBR0038153"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-17"
-last_updated: "2016-09-01"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038153"
 soort: "ministeriele-regeling"
@@ -44,4 +44,4 @@ Besluit:
 
 ##### artikel Enig
 
-Met ingang van 1 juli 2016 publiceren de Minister van Onderwijs, Cultuur en Wetenschap, gedeputeerde staten en het college van burgemeester en wethouders een voorgenomen besluit tot vervreemding van een cultuurgoed of een verzameling als bedoeld in [artikel 4.17 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=4.17) in de Afstotingsdatabase van het Museum Register of in de Staatscourant.
+Met ingang van 1 juli 2016 publiceren de Minister van Onderwijs, Cultuur en Wetenschap, gedeputeerde staten en het college van burgemeester en wethouders een voorgenomen besluit tot vervreemding van een cultuurgoed of een verzameling als bedoeld in [artikel 4.17 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=4.17) in de Afstotingsdatabase van het Museum Register of in de Staatscourant, het provinciaal blad, onderscheidenlijk het gemeenteblad.
