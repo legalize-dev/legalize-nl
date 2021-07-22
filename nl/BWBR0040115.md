@@ -4,7 +4,7 @@ identifier: "BWBR0040115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-16"
-last_updated: "2019-07-10"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040115"
 soort: "ministeriele-regeling"
@@ -44,33 +44,35 @@ Besluiten:
 
 1. Er is een Multi-stakeholder groep EITI Nederland.
 
-2. De multi-stakeholdergroep is samengesteld uit vertegenwoordigers van overheid, bedrijven en maatschappelijke organisaties en is belast met de controle en beoordeling van de implementatie van The Extractive Industries Transparency Initiative Standard.
+2. De multi-stakeholdergroep is samengesteld uit vertegenwoordigers van overheid, bedrijven en maatschappelijke organisaties en is belast met de controle en beoordeling van de implementatie van The Extractive Industries Transparency Initiative Standard. Daarnaast wordt een onafhankelijke voorzitter benoemd.
 
 ##### Artikel 2
 
-1. Met ingang van 1 juni 2019 wordt, voor een periode van twee jaar, drs. J. Haenen, te ’s-Gravenhage, benoemd tot voorzitter van Multi-stakeholder groep EITI Nederland.
+- a. Te rekenen vanaf 1 juni 2021 tot en met 31 december 2022 wordt, de heer drs. J. Haenen, wonende te ’s-Gravenhage, herbenoemd tot voorzitter van de Multi-stakeholder groep EITI Nederland.
 
-2. Tot de werkzaamheden van de voorzitter behoren het faciliteren van de multi-stakeholder groep en het uitvoeren en verder vormgeven van het werkplan. Dit dient onder andere te resulteren in een succesvolle eerste nationale Nederlandse rapportage onder het Extractive Industries Transparency Initiative voor het einde van 2019.
+- b. Aan de voorzitter, genoemd onder a, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,15.
 
-3. In de multi-stakeholdergroep hebben voor een periode van drie jaar zitting:
+2. Tot de werkzaamheden van de voorzitter behoren het faciliteren van de multi-stakeholder groep en het uitvoeren en verder vormgeven van het werkplan.
 
-- a. Met ingang van 1 oktober 2018, de heer R. Cino, wonende te Leidschendam-Voorburg, als vertegenwoordiger van het Ministerie van Economische Zaken en Klimaat. De plaatsvervanger is de heer J.H.C.M. van Gemert;
+3. In de multi-stakeholdergroep worden vertegenwoordigers voor een periode van maximaal drie jaar benoemd. Deze leden, hun plaatsvervangers en de onafhankelijke voorzitter kunnen voor maximaal twee termijnen worden benoemd.
 
-- b. Met ingang van 11 oktober 2017, mevrouw C.B. Hagenaars, wonende te Den Haag, als vertegenwoordiger van het Ministerie van Buitenlandse Zaken. De plaatsvervanger is de heer M.H.L. Reubzaet;
+- a. Met ingang van 1 oktober 2021 wordt, de heer R. Cino, wonende te Leidschendam-Voorburg, als vertegenwoordiger van het Ministerie van Economische Zaken en Klimaat herbenoemd. De plaatsvervanger is de heer M.G. Hendrickx;
 
-- c. Met ingang van 11 oktober 2017, mevrouw T.W.A.M. Raijmann, wonende te Rotterdam, als vertegenwoordiger van de Belastingdienst. De plaatsvervanger is de heer M.C. van Driel;
+- b. Te rekenen vanaf 11 oktober 2020 wordt, mevrouw C.B. Hagenaars, wonende te Den Haag, als vertegenwoordiger van het Ministerie van Buitenlandse Zaken herbenoemd. De plaatsvervanger is de heer T.E. Westerhuis;
 
-- d. Met ingang van 11 oktober 2017, de heer W.M. van der Deijl, wonende te Rotterdam, als vertegenwoordiger van de NAM B.V. De plaatsvervanger is de heer J. M. Kutsch Lojenga, als vertegenwoordiger van Shell International B.V.;
+- c. Te rekenen vanaf 1 maart 2021 wordt, mevrouw I.M.J. van Rijswijk, wonende te Barendrecht, als vertegenwoordiger van de Belastingdienst benoemd. De plaatsvervanger is de heer M.C. van Driel;
 
-- e. Met ingang van 1 januari 2019, de heer T. Zaal, wonende te Rijnsburg, als vertegenwoordiger van TAQA Energy B.V. De plaatsvervanger is de heer J. Hengeveld, als vertegenwoordiger van Vermilion Energy Netherlands B.V.;
+- d. Te rekenen vanaf 11 oktober 2020 wordt, de heer W.M. van der Deijl, wonende te Rotterdam, als vertegenwoordiger van de NAM B.V. herbenoemd. De plaatsvervanger is de heer J. M. Kutsch Lojenga, als vertegenwoordiger van Shell International B.V.;
 
-- f. Met ingang van 11 oktober 2017, de heer J. Peters, wonende te Bilthoven, als vertegenwoordiger van NOGEPA. De plaatsvervanger is mevrouw M. van den Akker;
+- e. Te rekenen vanaf 1 januari 2019 wordt, de heer T. Zaal, wonende te Rijnsburg, als vertegenwoordiger van TAQA Energy B.V. benoemd;
 
-- g. Met ingang van 11 oktober 2017, de heer G. Kwaks, wonende te Utrecht, als vertegenwoordiger van de Open State Foundation. De plaatsvervanger is de heer T.M.J. Kunzler;
+- f. Te rekenen vanaf 11 oktober 2020 wordt, mevrouw M. van den Akker, wonende te Noordwijk, als vertegenwoordiger van NOGEPA herbenoemd;
 
-- h. Met ingang van 1 april 2019, mevrouw L.A.P. Rooijendijk, wonende te Amsterdam, als vertegenwoordiger van Transparency International. De plaatsvervanger is de heer P. Vlaanderen;
+- g. Te rekenen vanaf 11 oktober 2020 wordt, de heer G. Kwaks, wonende te Utrecht, als vertegenwoordiger van de Open State Foundation herbenoemd. De plaatsvervanger is de heer S.M. Wiemers;
 
-- i. Met ingang van 11 oktober 2017, mevrouw J. de Lang, wonende te Groningen, als vertegenwoordiger van de FNV. De plaatsvervanger is de heer H. Korthof.
+- h. Te rekenen vanaf 1 april 2019 wordt, mevrouw L.A.P. Rooijendijk, wonende te Amsterdam, als vertegenwoordiger van Transparency International benoemd. De plaatsvervanger is de heer P. Vlaanderen;
+
+- i. Te rekenen vanaf 11 oktober 2020 wordt, mevrouw J. de Lang, wonende te Groningen, als vertegenwoordiger van de FNV herbenoemd. De plaatsvervanger is de heer H. Korthof.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
