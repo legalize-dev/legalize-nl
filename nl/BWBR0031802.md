@@ -4,7 +4,7 @@ identifier: "BWBR0031802"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2019-01-01"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031802"
 soort: "ministeriele-regeling"
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Vaststelling conversietabel
 
-1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2019-01-01&g=2019-01-01).
+1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2021-07-22&g=2021-07-22).
 
-2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2019-01-01&g=2019-01-01).
+2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2021-07-22&g=2021-07-22).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -270,7 +270,7 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. horende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (leraren in het vo) en in de bovenbouw van havo en vwo (leraren in het vho)
+## Bijlage 1. horende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2021-07-22&g=2021-07-22). Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (leraren in het vo) en in de bovenbouw van havo en vwo (leraren in het vho)
 
 | I | II | III | IV | V |
 | --- | --- | --- | --- | --- |
@@ -357,7 +357,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Textiele vormgeving | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |   | Alleen voor de theorie. |
 | Textiele vormgeving | vho | Master Educatieve master Geesteswetenschappen |   | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
 | Textiele vormgeving | vho | Master Kunstonderwijs en Communicatie |   | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
-| Kunstvakken 1 | vo | Culturele en Kunstzinnige Vorming12) | vho |   |
+| kunstvakken inclusief ckv | vo | Culturele en Kunstzinnige Vorming12) | vho |   |
 | Beeldende vorming | vo | Kunst (beeldende vormgeving)13) | vho |   |
 | Dans | vo | Kunst (dans)14) | vho |   |
 | Drama | vo | Kunst (drama)15) | vho |   |
@@ -400,7 +400,7 @@ Op grond van [artikel 7.1 van de Regeling bewijzen van bekwaamheid O.W.V.O.](htt
 
 4) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (beeldende vormgeving) op hetzelfde niveau.
 
-De naam van het vak ckv3 (beeldende vormgeving) is inmiddels gewijzigd in kunst (beeldende vorming) (zie **Stb.**2006, 251).
+De naam van het vak ckv3 (beeldende vormgeving) is inmiddels gewijzigd in kunst (beeldende vormgeving) (zie **Stb.**2006, 251).
 
 In [artikel 1, eerste lid, van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=1), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv3 (beeldende vormgeving) mag geven. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
 
@@ -466,9 +466,9 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 
 1. Leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat is voldaan aan de bekwaamheidseisen voor een vmbo-profiel, zijn bevoegd om les te geven in de beroepsgerichte keuzevakken die op grond van de [Regeling beroepsgerichte keuzevakken vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038193) tot het betreffende vmbo-profiel behoren.
 
-2. Er is een conversietabel getuigschriften ten aanzien van de beroepsgerichte keuzevakken in het vmbo. Deze conversietabel is opgenomen als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=3&z=2019-01-01&g=2019-01-01).
+2. Er is een conversietabel getuigschriften ten aanzien van de beroepsgerichte keuzevakken in het vmbo. Deze conversietabel is opgenomen als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=3&z=2021-07-22&g=2021-07-22).
 
-## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de profielvakken in het vmbo (leraren in het vo)
+## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2021-07-22&g=2021-07-22). Conversietabel getuigschriften voor de profielvakken in het vmbo (leraren in het vo)
 
 | I | II | III | IV | V |
 | --- | --- | --- | --- | --- |
@@ -530,6 +530,13 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 | Dienstverlening en Producten | vo | Werktuigbouwkunde I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
 | Economie en ondernemen | vo | Algemene economie | vo |   |
 | Economie en ondernemen | vo | Bedrijfseconomie | vo |   |
+| Economie en ondernemen | vo | **Dan wel in het bezit zijn van onderstaande akte of diploma:** | **Dan wel in het bezit zijn van onderstaande akte of diploma:** |   |
+| Economie en ondernemen | vo | tweedegraads akte Textiele werkvormen | vo |   |
+| Economie en ondernemen | vo | tweedegraads akte Textielvormgeving | vo |   |
+| Economie en ondernemen | vo | tweedegraads akte (brede versie) Secretariaatsvakken en kantoorpraktijk | vo |   |
+| Economie en ondernemen | vo | lo-akte Handelskennis (akte P) | vo |   |
+| Economie en ondernemen | vo | diploma derdegraads applicatiecursus Verkooppraktijk | vo |   |
+| Economie en ondernemen | vo | diploma derdegraads applicatiecursus Kantoorpraktijk | vo |   |
 | Groen | vo | Educatie en Kennismanagement Groene sector | vo | Uitsluitend voor het bekwaamheidsgebied Landbouw en natuurlijke omgeving. |
 | Groen | vo | **Dan wel in het bezit zijn van onderstaande akte of diploma:** |   |   |
 | Groen | vo | mo-akte landbouwkunde: – agrarisch breed | vo |   |
@@ -559,7 +566,7 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 | Zorg en welzijn | vo | Huishoudkunde | vo |   |
 | Zorg en welzijn | vo | Gezondheidskunde | vo |   |
 
-## Bijlage 3. horende bij [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2a&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de beroepsgerichte keuzevakken in het vmbo
+## Bijlage 3. horende bij [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2a&z=2021-07-22&g=2021-07-22). Conversietabel getuigschriften voor de beroepsgerichte keuzevakken in het vmbo
 
 | Beroepsgerichte keuzevakken vmbo waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor |
 | --- | --- |
