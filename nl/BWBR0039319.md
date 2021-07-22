@@ -4,7 +4,7 @@ identifier: "BWBR0039319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2021-06-02"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039319"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2021-06-02&g=2021-06-02);
+- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2021-07-22&g=2021-07-22);
 
-- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2021-06-02&g=2021-06-02);
+- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2021-07-22&g=2021-07-22);
 
 - –. **zorgcoördinator:** degene met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs.
 
@@ -226,7 +226,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2021-06-02&g=2021-06-02).
+De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2021-07-22&g=2021-07-22).
 
 ##### Artikel 12. Betaling
 
@@ -280,7 +280,7 @@ De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
 
 ##### Artikel 16. Terugvordering collegegeld
 
-Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2021-06-02&g=2021-06-02).
+Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2021-07-22&g=2021-07-22).
 
 ##### Artikel 17. Subsidieverplichting
 
@@ -380,7 +380,7 @@ De [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/j
 
 ##### Artikel 29. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2021-06-02&g=2021-06-02), dat in werking treedt met ingang van 1 juli 2017.
+1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2021-07-22&g=2021-07-22), dat in werking treedt met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 april 2022.
 
@@ -399,5 +399,25 @@ Aanvragen tot wijziging van het aangevraagde subsidiebedrag en de aangevraagde s
 ### Hoofdstuk 3. Subsidie voor studieverlof
 
 ### Hoofdstuk 4. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 26a. Aanvullend subsidiebedrag studiejaar 2021–2022
+
+1. In aanvulling op [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=4&z=2021-07-22&g=2021-07-22), is voor het studiejaar 2021–2022 een aanvullend bedrag van € 16.000.000 beschikbaar voor het verstrekken van subsidie aan aanvragers wiens aanvragen in 2021 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde subsidieplafond.
+
+2. Van dit bedrag is:
+
+- a. € 3.886.209 is beschikbaar voor opleidingen van leraren werkzaam in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs;
+
+- b. € 6.997.046 is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs;
+
+- c. € 455.631 is beschikbaar voor opleidingen van leraren werkzaam in het beroepsonderwijs en educatie; en
+
+- d. € 4.661.115 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
+
+3. De minister verstrekt de subsidie, bedoeld in het eerste lid, ambtshalve.
+
+4. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=11&z=2021-07-22&g=2021-07-22) verstrekt de minister de subsidie uiterlijk op 31 augustus 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
