@@ -4,7 +4,7 @@ identifier: "BWBR0040614"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2019-01-01"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040614"
 soort: "AMvB"
@@ -48,13 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
-
-- –. **energiegerelateerd product:** energiegerelateerd product als bedoeld in artikel 2, onder 1, van Verordening (EU) nr. 2017/1369;
-
-- –. **model:** model als bedoeld in artikel 2, onder 4, van Verordening (EU) nr. 2017/1369;
-
-- –. **Verordening (EU) nr. 2017/1369:** Verordening (EU) nr. 2017/1369 van het Europees Parlement en de Raad tot vaststelling van een kader voor energie-etikettering en tot intrekking van [Richtlijn 2010/30](32010L0030)/EU (PbEU 2017, L198).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder model: model als bedoeld in artikel 2, onder 4, van Verordening (EU) nr. 2017/1369.
 
 ##### Artikel 2
 
@@ -80,7 +74,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter implementatie van [R
 
 ##### Artikel 4
 
-1. De op basis van [artikel 31, eerste lid, van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=31) aangewezen ambtenaren bepalen op basis van steekproeven of een model van een energiegerelateerd product voldoet aan het bij of krachtens dit besluit bepaalde.
+1. De op basis van [artikel 31, eerste lid, van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=31) aangewezen ambtenaren bepalen op basis van steekproeven of een model van een energiegerelateerd product voldoet aan het bij of krachtens dit besluit bepaalde.
 
 2. Onze Minister is bevoegd in vervolg op het onderzoek, bedoeld in het eerste lid, maatregelen te nemen als bedoeld in artikel 9, tweede, vijfde en negende lid, en 10, derde en vijfde lid, van Verordening (EU) nr. 2017/1369, waarbij hij handelt in overeenstemming met het bepaalde in artikel 8, eerste lid, van Verordening (EU) nr. 2017/1369.
 
@@ -96,11 +90,11 @@ Wijzigt het Warenbesluit bestuurlijke boeten.
 
 - b. [Regeling etikettering energiegebruik ovens](https://wetten.overheid.nl/jci1.3:c:BWBR0014209).
 
-2. Na inwerkingtreding van dit besluit berust de [Regeling etikettering energiegebruik was-droogcombinaties](https://wetten.overheid.nl/jci1.3:c:BWBR0008393) op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=3&z=2019-01-01&g=2019-01-01) van dit besluit.
+2. Na inwerkingtreding van dit besluit berust de [Regeling etikettering energiegebruik was-droogcombinaties](https://wetten.overheid.nl/jci1.3:c:BWBR0008393) op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=3&z=2021-07-23&g=2021-07-23) van dit besluit.
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=2&z=2019-01-01&g=2019-01-01), dat in werking treedt op 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=2&z=2021-07-23&g=2021-07-23), dat in werking treedt op 1 januari 2019.
 
 ##### Artikel 8
 
