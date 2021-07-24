@@ -4,7 +4,7 @@ identifier: "BWBR0045468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-24"
-last_updated: "2021-07-01"
+last_updated: "2021-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045468"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **SG:** secretaris-generaal van het ministerie;
 
-- h. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=2&z=2021-07-24&g=2021-07-01);
+- h. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=2&z=2021-07-24&g=2021-07-24);
 
 - i. **medezeggenschap:** de departementale ondernemingsraad van het ministerie;
 
@@ -146,7 +146,7 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 1. De leden van de Commissie ontvangen uitsluitend niet tot personen herleidbare informatie.
 
-2. De leden van de Commissie behandelen de informatie waarover zij de beschikking krijgen in het kader van de uitvoering van de taak van de Commissie, strikt vertrouwelijk. Dit geldt in ieder geval voor de gevallen zoals beschreven in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=3&z=2021-07-24&g=2021-07-01) en [artikel 7, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=7&z=2021-07-24&g=2021-07-01) van dit Besluit.
+2. De leden van de Commissie behandelen de informatie waarover zij de beschikking krijgen in het kader van de uitvoering van de taak van de Commissie, strikt vertrouwelijk. Dit geldt in ieder geval voor de gevallen zoals beschreven in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=3&z=2021-07-24&g=2021-07-24) en [artikel 7, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=7&z=2021-07-24&g=2021-07-24) van dit Besluit.
 
 ##### Artikel 9. Dossier Commissie
 
