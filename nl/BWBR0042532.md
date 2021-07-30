@@ -4,7 +4,7 @@ identifier: "BWBR0042532"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-30"
-last_updated: "2021-01-01"
+last_updated: "2021-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042532"
 soort: "ministeriele-regeling"
@@ -42,9 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
-
-- a. **de inspecteur:** de algemeen directeur Douane als bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4).
+In dit besluit wordt verstaan onder **de inspecteur**: de directeur-generaal Douane, als bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4).
 
 ##### Artikel 2
 
@@ -74,7 +72,7 @@ namens deze:
 
 ##### Artikel 5
 
-Ondermandaatbesluiten en machtigingen die zijn vastgesteld op grond van een van de besluiten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042532&artikel=4&z=2019-09-11&g=2021-01-01), gelden als besluiten inzake mandaat en machtiging op grond van dit besluit.
+Ondermandaatbesluiten en machtigingen die zijn vastgesteld op grond van een van de besluiten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042532&artikel=4&z=2021-07-30&g=2021-07-30), gelden als besluiten inzake mandaat en machtiging op grond van dit besluit.
 
 ##### Artikel 6
 
