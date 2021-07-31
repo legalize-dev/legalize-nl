@@ -4,7 +4,7 @@ identifier: "BWBR0038437"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-20"
-last_updated: "2016-10-01"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038437"
 soort: "ministeriele-regeling"
@@ -58,21 +58,23 @@ In deze regeling wordt verstaan onder:
 
 - –. **de Minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- –. **overeenkomst:** een rechtsgeldige Technical Assistance Agreement (TAA), Manufacturing License Agreement (MLA) of Warehouse Distribution Agreement (WDA) die is goedgekeurd door het Directorate of Defense Trade Controls (DDTC) van het Departement of State van de Verenigde Staten van Amerika.
+- –. **overeenkomst:** een rechtsgeldige Technical Assistance Agreement (TAA), Manufacturing License Agreement (MLA) of Warehouse Distribution Agreement (WDA) die is goedgekeurd door het Directorate of Defense Trade Controls (DDTC) van het Departement of State van de Verenigde Staten van Amerika;
+
+- –. **uitzonderingen:** International Traffic in Arms Regulations (ITAR) uitzonderingen, zoals gebruikt door de beschikkingsbevoegde, die voldoen aan alle in de ITAR vermelde bijbehorende voorwaarden.
 
 #### § 2. Algemene Vergunning NL009
 
 ##### Artikel 2
 
-1. Binnen de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=3&z=2016-10-01&g=2016-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=4&z=2016-10-01&g=2016-10-01) genoemde reikwijdte geldt de Algemene Vergunning NL009.
+1. Binnen de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=3&z=2021-07-31&g=2021-07-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) genoemde reikwijdte geldt de Algemene Vergunning NL009.
 
-2. Aan de Algemene Vergunning NL009 zijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=4&artikel=5&z=2016-10-01&g=2016-10-01) genoemde voorschriften verbonden.
+2. Aan de Algemene Vergunning NL009 zijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=4&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorschriften verbonden.
 
 #### § 3. Reikwijdte
 
 ##### Artikel 3
 
-De Algemene Vergunning NL009 is uitsluitend van toepassing op doorvoer, uitvoer of overdracht waarop een overeenkomst tussen een beschikkingsbevoegde en een ontvanger betrekking heeft.
+De Algemene Vergunning NL009 is uitsluitend van toepassing op doorvoer, uitvoer of overdracht waarop een overeenkomst in het kader van het F-35 Lightning II programma tussen een beschikkingsbevoegde en een ontvanger betrekking heeft, dan wel op doorvoer, uitvoer of overdracht in het kader van het F-35 Lightning II programma waarvoor de beschikkingsbevoegde gerechtigd is de uitzonderingen van de ITAR te gebruiken.
 
 ##### Artikel 4
 
@@ -112,7 +114,7 @@ De geregistreerde gebruiker of beschikkingsbevoegde rapporteert aan de inspecteu
 
 - a. een omschrijving van de onder de Algemene Vergunning NL009 doorgevoerde, uitgevoerde of overgedragen militaire goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen en de waarde die deze vertegenwoordigen;
 
-- b. het identificatienummer van de TAA, MLA of WDA waarin de transactie is overeengekomen;
+- b. het identificatienummer van de TAA, MLA of WDA waarin de transactie is overeengekomen of de aanduiding van de gebruikte uitzondering van de ITAR;
 
 - c. de datum van de levering;
 
