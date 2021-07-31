@@ -4,7 +4,7 @@ identifier: "BWBR0030609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-31"
-last_updated: "2016-05-01"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030609"
 soort: "ministeriele-regeling"
@@ -52,41 +52,45 @@ In deze regeling wordt verstaan onder:
 
 - –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
 
-- –. **inspecteur:** de Algemeen Directeur Belastingdienst/Douane.
+- –. **inspecteur:** de directeur-generaal Douane.
 
 #### § 2. Algemene overdrachtsvergunning
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=2&artikel=3&z=2016-05-01&g=2016-05-01) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=4&z=2016-05-01&g=2016-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=5&z=2016-05-01&g=2016-05-01) genoemde voorwaarden is voldaan.
+1. De Minister van Buitenlandse Zaken verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=2&artikel=3&z=2021-07-31&g=2021-07-31) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=4&artikel=6&z=2016-05-01&g=2016-05-01) genoemde voorschriften verbonden.
+2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=4&artikel=6&z=2021-07-31&g=2021-07-31) genoemde voorschriften verbonden.
+
+3. Deze regeling is van overeenkomstige toepassing op uitvoer naar Noorwegen, IJsland en het Verenigd Koninkrijk.
 
 ##### Artikel 3
 
 De algemene overdrachtsvergunning geldt voor de volgende categorieën militaire goederen, waarbij de nummers verwijzen naar de nummers, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen:
 
-- a. ML4, onderdeel b, met uitzondering van uitrusting ten behoeve van complete draagbare luchtafweersystemen en raketten voor draagbare luchtafweersystemen;
+- a. ML3, met uitzondering van submunitie die valt onder het Verdrag inzake clustermunitie, tot aan het doel geleide projectielen en munitie, projectielen en stuwstoffen, speciaal ontworpen voor militair gebruik;
 
-- b. ML5;
+- b. ML4, onderdeel b, met uitzondering van uitrusting ten behoeve van complete draagbare luchtafweersystemen en raketten voor draagbare luchtafweersystemen;
 
-- c. ML6, met uitzondering van complete voertuigen;
+- c. ML5;
 
-- d. ML7, onderdelen d, f, g, h en i;
+- d. ML6, met uitzondering van complete voertuigen;
 
-- e. ML9, met uitzondering van complete vaartuigen;
+- e. ML7, onderdelen d, f, g, h en i;
 
-- f. ML10, met uitzondering van complete vliegtuigen of onbemande luchtvaartuigen;
+- f. ML9, met uitzondering van complete vaartuigen;
 
-- g. ML11;
+- g. ML10, met uitzondering van complete vliegtuigen of onbemande luchtvaartuigen;
 
-- h. ML13 tot en met 18;
+- h. ML11;
 
-- i. ML20;
+- i. ML13 tot en met 18;
 
-- j. ML 21, voor zover het gaat om programmatuur voor de categorieën militaire goederen, genoemd in de onderdelen a tot en met i;
+- j. ML20;
 
-- k. ML 22, voor zover het gaat om technologie voor de categorieën militaire goederen, genoemd in de onderdelen a tot en met i.
+- k. ML21, voor zover het gaat om programmatuur voor de categorieën militaire goederen, genoemd in de onderdelen a tot en met j;
+
+- l. ML22, voor zover het gaat om technologie voor de categorieën militaire goederen, genoemd in de onderdelen a tot en met j.
 
 #### § 3. Voorwaarden
 
