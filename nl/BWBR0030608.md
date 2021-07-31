@@ -4,7 +4,7 @@ identifier: "BWBR0030608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-31"
-last_updated: "2016-05-01"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030608"
 soort: "ministeriele-regeling"
@@ -52,15 +52,17 @@ In deze regeling wordt verstaan onder:
 
 - –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is
 
-- –. **inspecteur:** de Algemeen Directeur Belastingdienst/Douane.
+- –. **inspecteur:** de directeur-generaal Douane.
 
 #### § 2. Algemene overdrachtsvergunning
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=2&artikel=3&z=2016-05-01&g=2016-05-01) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=3&artikel=4&z=2016-05-01&g=2016-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=3&artikel=5&z=2016-05-01&g=2016-05-01) genoemde voorwaarden is voldaan.
+1. De Minister van Buitenlandse Zaken verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=2&artikel=3&z=2021-07-31&g=2021-07-31) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=3&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=4&artikel=6&z=2016-05-01&g=2016-05-01) genoemde voorschriften verbonden.
+2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030608&paragraaf=4&artikel=6&z=2021-07-31&g=2021-07-31) genoemde voorschriften verbonden.
+
+3. Deze regeling is van overeenkomstige toepassing op uitvoer naar Noorwegen, IJsland en het Verenigd Koninkrijk.
 
 ##### Artikel 3
 
