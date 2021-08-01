@@ -4,7 +4,7 @@ identifier: "BWBR0031616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2020-11-25"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031616"
 soort: "ministeriele-regeling"
@@ -50,19 +50,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Modeldiploma
 
-1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling.
+1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2020-11-25&g=2020-11-25) bij deze regeling.
+2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2021-08-01&g=2021-08-01) bij deze regeling.
+
+3. Regels voor het invullen van het diploma zoals in deze regeling genoemd, zijn vastgelegd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
 ##### Artikel 3. Modelresultatenlijsten
 
-1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2020-11-25&g=2020-11-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling.
+1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2021-08-01&g=2021-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2020-11-25&g=2020-11-25) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2020-11-25&g=2020-11-25) bij deze regeling.
+2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2021-08-01&g=2021-08-01) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-##### Artikel 4. Regels voor het invullen van diploma’s en resultatenlijsten
+3. Regels voor het invullen van de resultatenlijsten zijn vastgelegd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2020-11-25&g=2020-11-25) bij deze regeling.
+##### Artikel 4. Model mbo-verklaring
+
+1. Het model voor mbo-verklaringen van beroepsopleidingen wordt vastgesteld volgens [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=9&z=2021-08-01&g=2021-08-01) bij deze regeling.
+
+2. Regels voor het invullen van de mbo-verklaring zijn vastgelegd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=10&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
 ##### Artikel 5. Veiligheidseisen papier waardedocumenten
 
@@ -90,7 +96,7 @@ Deze regeling treedt in werking op 1 augustus 2013 en is voor het eerst van toep
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling modeldiploma mbo.
+Deze regeling wordt aangehaald als: Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring.
 
 ## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2013-08-01&g=2012-08-01) van de Regeling modeldiploma mbo
 
@@ -104,7 +110,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 1. behorende bij ‘[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25)’
+## Bijlage 1. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
@@ -118,7 +124,7 @@ Inwerkingtreding voorheen door Stcrt. 2012/10761 gesteld op 1 augustus 2012.
 
 ### Modeldiploma voor beroepsopleidingen waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
-## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25)
+## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ### Modelresultatenlijst voor de mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
@@ -194,7 +200,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het diploma te plaats
 
 ### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
 
-De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25).
+De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01).
 
 De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2018-08-01&g=2018-08-01).
 
@@ -248,19 +254,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Reikwijdte
 
-Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroepsonderwij](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6)s.
+Deze regeling berust op de [artikelen 7.4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6), en [7.4.6a, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6a).
 
 ##### Artikel 3a. Modelcertificaat
 
-1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2020-11-25&g=2020-11-25) bij deze regeling.
+1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2020-11-25&g=2020-11-25) bij deze regeling.
+2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2020-11-25&g=2020-11-25) bij deze regeling.
+3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
 ##### Artikel 6a. Vervallen van artikelen
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling vervallen met ingang van 1 augustus 2022.
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2021-08-01&g=2021-08-01), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2021-08-01&g=2021-08-01) bij deze regeling vervallen met ingang van 1 augustus 2022.
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
@@ -268,11 +274,11 @@ Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroep
 
 ## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
-## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25)
+## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2018-08-01&g=2018-08-01)
 
-## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25)
+## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01)
 
@@ -356,7 +362,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het certificaat te pl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
+## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 **Modelresultatenlijst voor mbo-niveau 4, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016**
 
@@ -394,17 +400,17 @@ De tabel ‘Examen van overige onderdelen’ ziet er als volgt uit:
 
 De tekstpassage over de behaalde wettelijke beroepsvereisten wordt op het diploma vermeld direct voor de regel met de plaats en datum. Op de resultatenlijst worden deze vermeld direct na de tabel ‘Examenonderdelen behorend bij kwalificatie’ en (indien van toepassing) voor de tabel ‘Examen van extra onderdelen’. Tenzij anders is bepaald in een andere (wettelijke) regeling dan de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) luidt de te vermelden tekstpassage als volgt: ‘De kandidaat heeft voldaan aan de wettelijke beroepsvereisten vermeld in…’. Achter ‘vermeld in’ moet worden vermeld de (wettelijke) regeling waarin de wettelijke beroepsvereisten is bepaald.
 
-## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
+## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
-## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
+## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ### Modelcertificaat verbonden aan een keuzedeel
 
-## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
+## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ### Regels bij het invullen van de modelcertificaten
 
-De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25).
+De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01).
 
 ### Onderdeel
 
@@ -420,9 +426,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Modelresultatenlijst voor mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016
 
-## Bijlage 3a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
+## Bijlage 3a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
-## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2020-11-25&g=2020-11-25) van de regeling modeldiploma mbo
+## Bijlage 4. behorende bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ### Regels voor het invullen van het modeldiploma
 
@@ -450,6 +456,146 @@ Op het diploma wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ d
 
 De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten.
 
-## Bijlage 5. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2020-11-25&g=2020-11-25) de Regeling modeldiploma mbo
+## Bijlage 5. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 
 ### Examenresultaat keuzedeel
+
+## Bijlage 9. behorende bij [artikel 4, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
+
+### Totaaloverzicht examenresultaten behorende bij de mbo-verklaring
+
+Totaaloverzicht met alle examenresultaten van de student:
+
+## Bijlage 10. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2021-08-01&g=2021-08-01), van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
+
+### Algemene instructie bij het invullen van de mbo-verklaring
+
+De instelling is vrij in de vormgeving van de mbo-verklaring binnen de kaders van het model. De instelling dient er bij de vormgeving wel voor te zorgen dat de uitstraling van een mbo-verklaring zodanig is dat er geen verwarring ontstaat met een mbo-diploma of mbo-certificaat.
+
+De instelling beslist zelf of de mbo-verklaring wordt verstrekt op waardepapier of gewoon papier. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=5&z=2021-08-01&g=2021-08-01) van deze Regeling over veiligheidseisen papier waardedocumenten is niet van toepassing op de mbo-verklaring.
+
+Het model voor de mbo-verklaring bestaat, naast het voorblad, uit vier onderdelen: ‘Examenresultaten’, ‘Resultaten beroepspraktijkvorming’, ‘Overige resultaten’ en ‘Totaaloverzicht examenresultaten behorende bij de mbo-verklaring’. Een aan de student verstrekte mbo-verklaring bevat, naast het voorblad, enkel het onderdeel of de onderdelen waarvoor de student een resultaat heeft behaald. Onderdelen waarvoor de student geen resultaten heeft behaald, worden niet opgenomen in de aan de student verstrekte mbo-verklaring.
+
+### Voorblad
+
+Op het voorblad worden achtereenvolgens de naam van de student, de geboortedatum en -plaats opgenomen. Daaronder volgen de naam van de beroepsopleiding (naam en de crebocode van de kwalificatie), de leerweg en het niveau van de opleiding. Daaronder volgt, tenslotte, de naam van de instelling die de mbo-verklaring uitgeeft. De gegevens worden ingevuld conform de regels voor het invullen van het modeldiploma mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01). Bij de ondertekening door de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld.
+
+De handtekening van de student op het voorblad is optioneel. Het zal niet in alle omstandigheden lukken de student de mbo-verklaring op school te laten ondertekenen. Ook als de student de mbo-verklaring per post krijgt thuisgestuurd, kan de student de mbo-verklaring ondertekenen. De onderwijsinstelling hoeft in dat geval (dus als niet persoonlijk uitgereikt maar per post verzonden) niet te bewaken dat de student inderdaad zijn handtekening heeft gezet.
+
+Instellingen hebben de mogelijkheid om extra informatie op te nemen op het voorblad van de mbo-verklaring. Hierbij kan worden gedacht aan de vermelding van bijvoorbeeld het logo van de mbo-instelling op het voorblad of een QR-code. Omwille van de herkenbaarheid van mbo-verklaringen is het van belang terughoudend te zijn bij het opnemen van extra informatie.
+
+### Examenresultaten
+
+Het onderdeel ‘Examenresultaten’ wordt in de mbo-verklaring opgenomen als de student ten minste voor één examenonderdeel dan wel een deel van een examenonderdeel, ten minste het cijfer 5,5 of ten minste ‘voldoende’ heeft behaald.
+
+De behaalde examenresultaten worden ingevuld conform de regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4, zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2021-08-01&g=2021-08-01). Wel met in achtneming van de aanvullende instructies zoals hierna beschreven. Indien de student geen resultaat heeft behaald voor (delen van) specifieke of generieke examenonderdelen of voor examenonderdelen die een keuzedeel betreffen, wordt de desbetreffende tabel niet vermeld op de verklaring.
+
+### Keuzedelen
+
+Indien de student niet het gehele keuzedeel heeft behaald maar een deel daarvan, komt de benaming van het deelexamen overeen met de naam van het deelexamen zoals dit is opgenomen in de onderwijs- en examenregeling van de opleiding. Tevens wordt toegevoegd dat het gaat om een deel van een keuzedeel. De instelling bepaalt zelf hoe dit wordt vermeld. Dit kan bijvoorbeeld door aan de naam van het deelexamen toe te voegen ‘(deelexamen)’.
+
+### Aanvullende instructie bij de tabel ‘specifieke examenonderdelen’
+
+Indien de student niet het gehele specifieke examenonderdeel heeft behaald maar een deel daarvan, komt de benaming van het deelexamen overeen met de naam van het deelexamen zoals dit is opgenomen in de onderwijs- en examenregeling (OER) van de beroepsopleiding. Tevens wordt in de tabel toegevoegd dat het gaat om een deel van een specifiek examenonderdeel. De instelling bepaalt zelf hoe dit wordt vermeld, mits transparant is dat het niet het volledige examenonderdeel is behaald. Dit kan bijvoorbeeld door aan de naam van het deelexamen toe te voegen ‘(deelexamen)’. Ook kan de instelling bij deze tabel verwijzen naar een openbaar beschikbare OER. De waarderingen voor delen van specifiek examenonderdelen worden uitgedrukt in cijfers uit de reeks 1 tot en met 10 met nul, één of twee decimalen, of met een waardering uit een reeks, conform[artikel 15 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15) en afhankelijk van de keuze die de instelling heeft gemaakt over de registratiewijze.
+
+### Aanvullende instructie bij de tabel ‘generieke examenonderdelen’ Nederlandse taal en Engels
+
+Bij de tabel Examenresultaten is aangesloten bij de voorschriften voor vermelding van de Examenresultaten bij het model voor de resultatenlijst van het diploma van voorliggende regeling.
+
+Indien de student niet het gehele instellingsexamen heeft behaald maar een deel daarvan, wordt in de benaming van het deel van de instellingsexamen vermeld om welke taalvaardigheden het gaat (spreken, gesprekken voeren en/of schrijven). Tevens wordt toegevoegd dat het gaat om een deel van het instellingsexamen. De instelling bepaalt zelf hoe dit wordt vermeld. Dit kan bijvoorbeeld door aan de naam van het deelexamen toe te voegen ‘(deelexamen)’.
+
+### Rekenen
+
+De resultaten voor rekenen worden ingevuld conform de regels voor het invullen van de modelresultatenlijst zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2021-08-01&g=2021-08-01). Ook het referentieniveau waarin het examen is afgelegd wordt in de tabel opgenomen.
+
+### Loopbaan en burgerschap
+
+Indien de student alleen heeft voldaan aan de inspanningsverplichting voor Loopbaan dan wel alleen voor Burgerschap wordt dit in de mbo-verklaring vermeld.
+
+### Resultaten beroepspraktijkvorming
+
+Het onderdeel ‘Resultaten beroepspraktijkvorming’ wordt in de mbo-verklaring opgenomen als de student een resultaat heeft behaald voor de beroepspraktijkvorming (bpv).
+
+Er zijn drie opties waaruit een verplichte keuze gemaakt moet worden.
+
+Optie 1 is van toepassing indien de student de beroepspraktijkvorming met een positieve beoordeling heeft voltooid.
+
+Optie 2 is van toepassing indien de student een deel van de beroepspraktijkvorming met een positieve beoordeling heeft voltooid en waarbij dit resultaat niet in de vorm van een praktijkverklaring is beschreven.
+
+Optie 3 is van toepassing indien de student een deel van de beroepspraktijkvorming met een positieve beoordeling heeft voltooid en waarbij dit resultaat in de vorm van een praktijkverklaring is beschreven.
+
+### Invulinstructie gegevens optie 1 en optie 2
+
+De naam van de student wordt ingevuld conform de regels voor het invullen van het modeldiploma mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01).
+
+### Gegevens leerbedrijf
+
+De naam en vestigingsplaats van het leerbedrijf worden ingevuld zoals deze zijn geregistreerd door de SBB.
+
+Als het resultaat voor de beroepspraktijkvorming in meerdere leerbedrijven is behaald, worden de gegevens van deze leerbedrijven vermeld.
+
+### Aantal uren bpv
+
+Instellingen hebben de mogelijkheid om het aantal uren te vermelden waarin de student de beroepspraktijkvorming heeft uitgevoerd. Dit is niet verplicht. Het gaat om de gerealiseerde bpv-uren. Indien het aantal gerealiseerde bpv-uren niet exact bekend is, mag de instelling hiervoor een schatting maken.
+
+### Beschrijving van de beroepspraktijkvorming
+
+Instellingen hebben de mogelijkheid om een beknopte beschrijving te geven van de inhoud van de beroepspraktijkvorming. Dit is niet verplicht.
+
+### Invulinstructie gegevens optie 3
+
+De instelling gebruikt het format voor de praktijkverklaring van het Praktijkloket van de SBB.
+
+In de praktijkverklaring worden de naam van de student, de geboortedatum en -plaats, de naam van de kwalificatie, de crebocode en het niveau ingevuld conform de regels voor het invullen van het modeldiploma mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2021-08-01&g=2021-08-01).
+
+### Aantal uren in het leerbedrijf
+
+Het aantal uren beroepspraktijkvorming dat de student heeft uitgevoerd in het leerbedrijf wordt hier vermeld. Het gaat om de gerealiseerde bpv-uren. Indien het aantal gerealiseerde bpv-uren niet exact bekend is, mag de instelling hiervoor een schatting maken.
+
+### Tabel met werkprocessen
+
+In deze tabel worden de werkprocessen vermeld waarvan de praktijkopleider, bij afronding van zijn begeleiding van de beroepspraktijkvorming, heeft geconstateerd dat de student deze in de praktijk van het leerbedrijf kan uitvoeren. In deze tabel worden de nummers en de titels van werkprocessen en kerntaken vermeld zoals dit is beschreven in het betreffende kwalificatiedossier.
+
+### Extra
+
+Indien de student in het leerbedrijf een werkproces heeft leren uitvoeren dat behoort tot een andere kwalificatie dan de kwalificatie waarvoor de student staat ingeschreven, kan dat werkproces in deze tabel worden weergegeven.
+
+### Afgegeven door
+
+De voor- en achternaam van de praktijkopleider worden opgenomen.
+
+### Praktijkopleider bij
+
+De naam en vestigingsplaats van het leerbedrijf, zoals dit is geregistreerd door de SBB, worden hier vermeld.
+
+### Erkend leerbedrijf
+
+Het registratienummer van het leerbedrijf wordt vermeld.
+
+### Handtekeningen
+
+De praktijkopleider en de student ondertekenen de verklaring. De datum waarop en de plaats waar zij de verklaring ondertekenen worden vermeld.
+
+### Logo
+
+Instellingen hebben de mogelijkheid om een logo van het leerbedrijf en/of van de brancheorganisatie in de praktijkverklaring op te nemen. Dit is niet verplicht.
+
+De mogelijkheid om een logo van de brancheorganisatie toe te voegen wordt ondersteund door het Praktijkloket van de SBB. Als de instelling het logo toevoegt, wordt tevens de volgende tekst toegevoegd: ‘De branche steunt praktijkverklaringen voor inzetbaarheid in de branche en leven lang ontwikkelen.’
+
+### Overige resultaten
+
+Het onderdeel ‘Overige resultaten’ wordt in de mbo-verklaring opgenomen als de instelling van mening is dat student andere resultaten heeft behaald die betekenisvol kunnen zijn voor werkgevers dan wel voor een andere onderwijsinstelling.
+
+Als de instelling er voor kiest om één of meer resultaten van (formatieve) voortgangstoetsen op te nemen, dient de instelling de tabel ‘Voortgangstoetsen’ te hanteren. In de tabel wordt dan de titel van de voortgangstoets vermeld, de inhoud van de toets kort toegelicht en het behaalde resultaat vermeld. Het resultaat wordt uitgedrukt in cijfers uit de reeks 1 tot en met 10 met nul, één of twee decimalen of met een waardering uit een reeks conform [artikel 15, tweede lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15), afhankelijk van registratie door de instelling.
+
+In het invulveld kunnen de overige resultaten worden toegelicht. Ook kan in het invulveld een verwijzing worden opgenomen naar een afzonderlijk document dat als bewijsstuk aan de mbo-verklaring wordt bijgevoegd, zoals een behaald branchecertificaat.
+
+### Totaaloverzicht examenresultaten behorende bij de mbo-verklaring
+
+Dit overzicht wordt opgenomen als de student een resultaat heeft behaald voor ten minste een examenonderdeel of een deel van een examenonderdeel. Zowel examenresultaten met een voldoende of het cijfer 5,5 of hoger, als examenresultaten lager dan een voldoende of het cijfer 5,5 worden vermeld. Bij terugkeer naar het mbo kunnen namelijk ook onvoldoende resultaten betekenisvol zijn, in verband met eventuele vrijstellingen of andere vormen van maatwerk. Het overzicht wordt ingevuld conform regels zoals vastgelegd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2021-08-01&g=2021-08-01) van deze regeling.
+
+Het totaaloverzicht dient de instelling als een afzonderlijk document aan de mbo-verklaring toe te voegen. De student kan dan zelf beslissen of hij de mbo-verklaring met of zonder totaaloverzicht aan werkgever of vervolgonderwijs toont.
+
+Indien alle examenresultaten van de student een voldoende of het cijfer 5,5 of hoger zijn, is het niet nodig om dit totaaloverzicht in de mbo-verklaring op te nemen. Deze resultaten zijn dan immers al vermeld bij ‘Examenresultaten’.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
