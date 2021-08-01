@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2021-05-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-05-01&g=2021-05-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-05-01&g=2021-05-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-08-01&g=2021-08-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-05-01&g=2021-05-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-08-01&g=2021-08-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -340,10 +340,31 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1184 | Datacenter Facility Engineering |
 | K1172 | Douaneaangifte basis |
 | K1173 | Douaneaangifte verdieping |
+|   |   |
+| **Certificaten voor keuzedelen vanaf augustus 2021** | **Certificaten voor keuzedelen vanaf augustus 2021** |
+| K0279 | 2D-tekenen |
+| K1220 | Assortimentskennis brood en banket |
+| K1219 | Assortimentskennis aardappelen, groente en fruit |
+| K1221 | Assortimentskennis kaas, borrelhapjes en verse noten |
+| K1222 | Assortimentskennis vlees, gevogelte, vis en vleesvervangers |
+| K1223 | Assortimentskennis vleeswaren en salades |
+| K1226 | Begeleider praktijkleren |
+| K1227 | Beheren van vastgoed van VVE’s en woningcorporaties |
+| K0757 | Bereidt brood- en banketproducten |
+| K1091 | Betonstaal hechtlassen in de fabriekshal |
+| K1229 | Bezorgmedewerker |
+| K1092 | De mediawijze zorg- en welzijnsprofessional |
+| K1145 | Omgaan met onbegrepen gedrag bij mensen met dementie |
+| K1236 | Ondersteuning bieden aan psychogeriatrische zorgvrager |
+| K1193 | Papiaments A1/A2 in het beroepsonderwijs |
+| K1194 | Papiaments A2/B1 in het beroepsonderwijs |
+| K1195 | Papiaments B1/B2 in het beroepsonderwijs |
+| K1257 | Pedicurebehandelingen uitvoeren |
+| K1270 | Werken met baby's |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-05-01&g=2021-05-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-08-01&g=2021-08-01)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -398,6 +419,11 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor beroepsgerichte onderdelen vanaf april 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2021** |   |   |
 | C0054 | Basis voor deskundige zorg - Versie 2 | 25656 | Verzorgende-IG |
 | C0055 | Regievoering en vakontwikkeling in de zorg - Versie 2 | 25656 | Verzorgende-IG |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2021** |
+| C0056 | Assortimentsbeheer optiek en assisteren bij refractie | 25631 | Opticien |
+| C0059 | Individuele ondersteuning in de maatschappelijke zorg | 25476 | Begeleider specifieke doelgroepen |
+| C0060 | Uitvoeren van schilderwerk | 25589 | Schilder |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
