@@ -4,7 +4,7 @@ identifier: "BWBV0006319"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-08-01"
-last_updated: "2013-12-05"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006319"
 soort: "verdrag"
@@ -58,11 +58,11 @@ De Partijen wisselen uiterlijk dertig dagen na het sluiten van dit Uitvoeringspr
 
 De ingediende documenten dienen voor een goede verificatie zo duidelijk en nauwkeurig mogelijk te zijn.
 
-3. Het antwoord op een terug- of overnameverzoek wordt binnen de in artikel 10, tweede en derde lid, van de Overeenkomst genoemde termijnen door de aangezochte Partij per e-mail of telefax verzonden aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=1&z=2013-12-05&g=2013-12-05) aan dit Uitvoeringsprotocol is gehecht. Het verzendingsrapport van het e-mail- of telefaxbericht geldt als bewijs van verzending.
+3. Het antwoord op een terug- of overnameverzoek wordt binnen de in artikel 10, tweede en derde lid, van de Overeenkomst genoemde termijnen door de aangezochte Partij per e-mail of telefax verzonden aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=1&z=2021-08-01&g=2021-08-01) aan dit Uitvoeringsprotocol is gehecht. Het verzendingsrapport van het e-mail- of telefaxbericht geldt als bewijs van verzending.
 
 ##### Artikel 4. Wijze van overdracht
 
-1. Nadat de verzoekende Partij van de aangezochte Partij een kennisgeving tot instemming met de terug- of overname heeft ontvangen, stelt zij de aangezochte Partij in kennis van de beoogde overdracht en maakt zij daartoe gebruik van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=2&z=2013-12-05&g=2013-12-05) aan dit Uitvoeringsprotocol is gehecht. Het overdrachtsformulier wordt uiterlijk drie dagen vóór de datum van overdracht per e-mail of telefax toegezonden aan de bevoegde autoriteit van de aangezochte Partij.
+1. Nadat de verzoekende Partij van de aangezochte Partij een kennisgeving tot instemming met de terug- of overname heeft ontvangen, stelt zij de aangezochte Partij in kennis van de beoogde overdracht en maakt zij daartoe gebruik van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=2&z=2021-08-01&g=2021-08-01) aan dit Uitvoeringsprotocol is gehecht. Het overdrachtsformulier wordt uiterlijk drie dagen vóór de datum van overdracht per e-mail of telefax toegezonden aan de bevoegde autoriteit van de aangezochte Partij.
 
 2. De aangezochte Partij stelt de verzoekende Partij onverwijld in kennis van praktische belemmeringen die overdracht op de voorgestelde datum van overdracht in de weg kunnen staan.
 
@@ -82,9 +82,9 @@ De ingediende documenten dienen voor een goede verificatie zo duidelijk en nauwk
 
 3. De Partijen zijn ingevolge de artikelen 13 en 14 van de Overeenkomst het volgende overeengekomen:
 
-- a). Een doorgeleidingsverzoek wordt uiterlijk zeven dagen vóór de geplande doorgeleiding per e-mail of telefax ingediend bij de bevoegde autoriteit van de aangezochte Partij als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=1&z=2013-12-05&g=2013-12-05) van dit Uitvoeringsprotocol.
+- a). Een doorgeleidingsverzoek wordt uiterlijk zeven dagen vóór de geplande doorgeleiding per e-mail of telefax ingediend bij de bevoegde autoriteit van de aangezochte Partij als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=1&z=2021-08-01&g=2021-08-01) van dit Uitvoeringsprotocol.
 
-- b). Het antwoord op een doorgeleidingsverzoek wordt binnen vijf dagen na de datum van ontvangst van het verzoek door de bevoegde autoriteit van de aangezochte Partij per e-mail of telefax verzonden door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=3&z=2013-12-05&g=2013-12-05) aan dit Uitvoeringsprotocol is gehecht. In het antwoord op het doorgeleidingsverzoek wordt door de bevoegde autoriteit van de aangezochte Partij aangegeven of zij instemt met de doorgeleiding, de datum, de aangewezen grensovergang en de wijze van vervoer. Voorts wordt meegedeeld of in de gevraagde ondersteuning kan worden voorzien.
+- b). Het antwoord op een doorgeleidingsverzoek wordt binnen vijf dagen na de datum van ontvangst van het verzoek door de bevoegde autoriteit van de aangezochte Partij per e-mail of telefax verzonden door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=3&z=2021-08-01&g=2021-08-01) aan dit Uitvoeringsprotocol is gehecht. In het antwoord op het doorgeleidingsverzoek wordt door de bevoegde autoriteit van de aangezochte Partij aangegeven of zij instemt met de doorgeleiding, de datum, de aangewezen grensovergang en de wijze van vervoer. Voorts wordt meegedeeld of in de gevraagde ondersteuning kan worden voorzien.
 
 - c). Indien de doorgeleiding onder begeleiding door de lucht plaatsvindt, zorgt de bevoegde autoriteit van de aangezochte Partij voor bewaking en ondersteuning bij het aan boord brengen van de betrokkene.
 
@@ -136,11 +136,11 @@ Bij de procedures die ingevolge de Overeenkomst en het Uitvoeringsprotocol worde
 
 ##### Artikel 10. Bijlagen
 
-De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=1&z=2013-12-05&g=2013-12-05), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=2&z=2013-12-05&g=2013-12-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=3&z=2013-12-05&g=2013-12-05) maken een integrerend deel uit van dit Uitvoeringsprotocol.
+De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=1&z=2021-08-01&g=2021-08-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=2&z=2021-08-01&g=2021-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&bijlage=3&z=2021-08-01&g=2021-08-01) maken een integrerend deel uit van dit Uitvoeringsprotocol.
 
 ##### Artikel 11. Wijzigingen
 
-Dit Uitvoeringsprotocol en de bijlagen kunnen in onderlinge overeenstemming tussen de Partijen worden gewijzigd. Deze wijzigingen worden schriftelijk langs diplomatieke weg geïnitieerd en worden van kracht overeenkomstig de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=15&z=2013-12-05&g=2013-12-05) van dit Uitvoeringsprotocol omschreven procedures.
+Dit Uitvoeringsprotocol en de bijlagen kunnen in onderlinge overeenstemming tussen de Partijen worden gewijzigd. Deze wijzigingen worden schriftelijk langs diplomatieke weg geïnitieerd en worden van kracht overeenkomstig de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=15&z=2021-08-01&g=2021-08-01) van dit Uitvoeringsprotocol omschreven procedures.
 
 ##### Artikel 12. Verhouding tot andere verdragen
 
@@ -148,7 +148,7 @@ Dit Uitvoeringsprotocol doet geen afbreuk aan de rechten, verplichtingen en vera
 
 ##### Artikel 13. Geschillenbeslechting
 
-Geschillen ten aanzien van de uitlegging en/of uitvoering van dit Uitvoeringsprotocol die niet zijn afgehandeld door het commissie van deskundigen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=8&z=2013-12-05&g=2013-12-05), worden door middel van overleg langs diplomatieke weg afgehandeld.
+Geschillen ten aanzien van de uitlegging en/of uitvoering van dit Uitvoeringsprotocol die niet zijn afgehandeld door het commissie van deskundigen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006319&artikel=8&z=2021-08-01&g=2021-08-01), worden door middel van overleg langs diplomatieke weg afgehandeld.
 
 ##### Artikel 14. Territoriale toepassing
 
