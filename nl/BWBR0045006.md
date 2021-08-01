@@ -87,9 +87,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2021 en vervalt met in
 Deze regeling wordt aangehaald als: Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Omhangbepaling
-
-Deze regeling is gebaseerd op [artikel 119, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119) en [artikel 117, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
