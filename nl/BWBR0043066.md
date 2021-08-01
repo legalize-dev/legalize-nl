@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2020-12-05"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht de inspectie een aanvullend onderzoek op de wijze als beschreven in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2020-12-05&g=2020-12-05).
+Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht de inspectie een aanvullend onderzoek op de wijze als beschreven in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2020-12-05&g=2021-08-01).
 
 ##### Artikel 3. Intrekking
 
