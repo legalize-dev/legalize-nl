@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2018-06-14"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -85,15 +85,7 @@ Model 6H: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2
 
 Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014);
 
-Model 7A: Nederlands Omwisselingscertificaat basiskwalificatie vakbekwaamheid voor rijbewijscategorie D (afgegeven m.i.v. 10-09-2008);
-
-Model 7B: Nederlands Omwisselingscertificaat basiskwalificatie vakbekwaamheid voor rijbewijscategorie C (afgegeven m.i.v. 10-09-2009);
-
-Model 7C: Nationaal certificaat (afgegeven m.i.v 10-09-2008);
-
-Model 7D: Deelcertificaat (afgegeven m.i.v. 10-09-2008);
-
-Model 7E: Nederlands Omwisselingscertificaat nascholing vakbekwaamheid (afgegeven m.i.v. 10-09-2008);
+Model 7A: Kwalificatiekaart bestuurder volgens model van de Europese Unie (afgegeven m.i.v. 01-07-2021);
 
 Model 8a: Begeleiderspas;
 
@@ -101,7 +93,7 @@ Model 10: Begeleidingspas model 2018.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2018-06-14&g=2018-06-14) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2021-08-01&g=2021-08-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -367,9 +359,9 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014).
 
-### Model 7A: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie D
+### Model 7A: Kwalificatiekaart bestuurder
 
-### Model 7B: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie C
+### Model 8a:
 
 ### Model 7C: Nationaal Certificaat
 
@@ -417,9 +409,9 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
-### Model 7D: Deelcertificaat
+### Model 9a: Begeleiderspas nieuw model
 
-### Model 7E:
+### Model 10: Begeleiderspas 2018
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
@@ -435,7 +427,7 @@ Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 
 
 ##### Artikel 2e
 
-[Artikel 2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=2c&z=2018-06-14&g=2018-06-14), is niet van toepassing indien de aanvrager bij de aanvraag te kennen heeft gegeven een rijbewijs zonder functionaliteit voor een publiek identificatiemiddel te willen ontvangen.
+[Artikel 2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=2c&z=2021-08-01&g=2021-08-01), is niet van toepassing indien de aanvrager bij de aanvraag te kennen heeft gegeven een rijbewijs zonder functionaliteit voor een publiek identificatiemiddel te willen ontvangen.
 
 ##### Artikel 2f
 
@@ -476,3 +468,5 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 Vervallen.
 
 ### Model 9a: Begeleiderspas nieuw model
+
+Vervallen.
