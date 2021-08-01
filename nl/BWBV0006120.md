@@ -4,7 +4,7 @@ identifier: "BWBV0006120"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-08-01"
-last_updated: "2013-01-25"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006120"
 soort: "verdrag"
@@ -52,17 +52,17 @@ Voor de toepassing van het Protocol wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing van de bevoegde autoriteiten (Artikel 19 van de Overeenkomst)
 
-1. De bevoegde autoriteiten voor de uitvoering van de Overeenkomst zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=1&z=2013-01-25&g=2013-01-25) bij dit Protocol.
+1. De bevoegde autoriteiten voor de uitvoering van de Overeenkomst zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=1&z=2021-08-01&g=2021-08-01) bij dit Protocol.
 
 2. De Partijen stellen elkaar onverwijld in kennis van iedere wijziging van deze lijst.
 
 ##### Artikel 3. Aanwijzing van de grensdoorlaatposten (Artikel 19 van de Overeenkomst)
 
-1. De voor de toepassing van de Overeenkomst te gebruiken grensdoorlaatposten zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=2&z=2013-01-25&g=2013-01-25) bij dit Protocol.
+1. De voor de toepassing van de Overeenkomst te gebruiken grensdoorlaatposten zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=2&z=2021-08-01&g=2021-08-01) bij dit Protocol.
 
 2. De Partijen stellen elkaar onverwijld in kennis van iedere wijziging van deze lijst.
 
-3. De bevoegde autoriteiten kunnen per geval overeenkomen gebruik te maken van andere grensdoorlaatposten dan die welke in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=2&z=2013-01-25&g=2013-01-25) bij dit Protocol zijn vermeld.
+3. De bevoegde autoriteiten kunnen per geval overeenkomen gebruik te maken van andere grensdoorlaatposten dan die welke in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=2&z=2021-08-01&g=2021-08-01) bij dit Protocol zijn vermeld.
 
 ##### Artikel 4. Terug- en overnameprocedure (Artikelen 6 en 7 van de Overeenkomst)
 
@@ -72,9 +72,9 @@ Voor de toepassing van het Protocol wordt verstaan onder:
 
 3. De verzoekende Partij kan in het terugnameverzoek aangeven dat om een ondervraging wordt verzocht. Overeenkomstig artikel 8, lid 3, van de Overeenkomst, wordt de ondervraging onverwijld doch uiterlijk binnen drie werkdagen verricht door de diplomatieke vertegenwoordiging van de aangezochte Partij. De aangezochte Partij informeert de verzoekende Partij onverwijld doch uiterlijk binnen drie werkdagen over de resultaten van de ondervraging.
 
-4. Indien is voldaan aan de voorwaarden genoemd in artikel 6, lid 2, van de Overeenkomst volstaat een schriftelijke mededeling door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=3&z=2013-01-25&g=2013-01-25) aan het Protocol is gehecht.
+4. Indien is voldaan aan de voorwaarden genoemd in artikel 6, lid 2, van de Overeenkomst volstaat een schriftelijke mededeling door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=3&z=2021-08-01&g=2021-08-01) aan het Protocol is gehecht.
 
-5. Het antwoord op een terug- of overnameverzoek wordt via e-mail, per telefax of andere technische middelen aan de bevoegde autoriteit van de verzoekende Partij verzonden door middel van het formulier dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=4&z=2013-01-25&g=2013-01-25) aan het Protocol is gehecht. Een afschrift van een positief antwoord wordt ten behoeve van de afgifte van een reisdocument eveneens aan de diplomatieke vertegenwoordiging van de aangezochte Partij verstrekt.
+5. Het antwoord op een terug- of overnameverzoek wordt via e-mail, per telefax of andere technische middelen aan de bevoegde autoriteit van de verzoekende Partij verzonden door middel van het formulier dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=4&z=2021-08-01&g=2021-08-01) aan het Protocol is gehecht. Een afschrift van een positief antwoord wordt ten behoeve van de afgifte van een reisdocument eveneens aan de diplomatieke vertegenwoordiging van de aangezochte Partij verstrekt.
 
 6. Overeenkomstig artikel 10, lid 4, van de Overeenkomst wordt de afwijzing van een terug- of overnameverzoek met redenen omkleed.
 
@@ -90,7 +90,7 @@ Voor de toepassing van het Protocol wordt verstaan onder:
 
 ##### Artikel 6. Overdracht (Artikelen 10 en 11 van de Overeenkomst)
 
-1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij via e-mail, per telefax of andere technische middelen, minimaal drie werkdagen vóór de geplande overdracht in kennis van haar voornemen hiertoe over te gaan. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=3&z=2013-01-25&g=2013-01-25) aan dit Protocol is gehecht.
+1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij via e-mail, per telefax of andere technische middelen, minimaal drie werkdagen vóór de geplande overdracht in kennis van haar voornemen hiertoe over te gaan. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=3&z=2021-08-01&g=2021-08-01) aan dit Protocol is gehecht.
 
 2. Indien de terug of over te nemen persoon niet binnen de in artikel 10, lid 5, van de Overeenkomst genoemde termijn van drie maanden kan worden overgedragen, verzoekt de bevoegde autoriteit van de verzoekende Partij de bevoegde autoriteit van de aangezochte Partij onverwijld om verlenging van deze termijn.
 
@@ -100,7 +100,7 @@ Voor de toepassing van het Protocol wordt verstaan onder:
 
 1. Een doorgeleidingsverzoek wordt minimaal zes werkdagen vóór de geplande doorgeleiding via e-mail, per telefax of andere technische middelen ingediend bij de bevoegde autoriteit van de aangezochte Partij. Voor de indiening van het verzoek wordt gebruikgemaakt van het formulier dat als bijlage 6 aan de Overeenkomst is gehecht.
 
-2. De bevoegde autoriteit van de aangezochte Partij antwoordt onverwijld doch uiterlijk binnen vier werkdagen via e-mail, per telefax of andere technische middelen. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=5&z=2013-01-25&g=2013-01-25) aan het Protocol is gehecht.
+2. De bevoegde autoriteit van de aangezochte Partij antwoordt onverwijld doch uiterlijk binnen vier werkdagen via e-mail, per telefax of andere technische middelen. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=5&z=2021-08-01&g=2021-08-01) aan het Protocol is gehecht.
 
 3. Doorgeleiding geschiedt in beginsel door de lucht.
 
@@ -108,7 +108,7 @@ Voor de toepassing van het Protocol wordt verstaan onder:
 
 1. Indien de verzoekende Partij ondersteuning bij een specifieke doorgeleiding door de autoriteiten van de aangezochte Partij noodzakelijk acht, verzoekt zij daarom in het formulier dat als Bijlage 6 aan de Overeenkomst is gehecht.
 
-2. In het antwoord op het doorgeleidingsverzoek door middel van het formulier dat als [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=5&z=2013-01-25&g=2013-01-25) aan dit Protocol is gehecht, vermeldt de aangezochte Partij of zij kan voorzien in de gevraagde ondersteuning.
+2. In het antwoord op het doorgeleidingsverzoek door middel van het formulier dat als [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&bijlage=5&z=2021-08-01&g=2021-08-01) aan dit Protocol is gehecht, vermeldt de aangezochte Partij of zij kan voorzien in de gevraagde ondersteuning.
 
 3. Op het grondgebied van de aangezochte Partij verrichten de begeleiders die de door te geleiden persoon bewaken en ondersteunen, hun werkzaamheden onder het gezag van de aangezochte Partij.
 
@@ -144,7 +144,7 @@ De bijlagen 1 tot en met 5 vormen een integrerend deel van het Protocol.
 
 1. Dit Protocol en de bijlagen kunnen in onderlinge overeenstemming tussen de Partijen worden gewijzigd.
 
-2. Elke wijziging van het Protocol wordt van kracht overeenkomstig de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&artikel=16&z=2013-01-25&g=2013-01-25) van dit Protocol omschreven procedure.
+2. Elke wijziging van het Protocol wordt van kracht overeenkomstig de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006120&artikel=16&z=2021-08-01&g=2021-08-01) van dit Protocol omschreven procedure.
 
 3. Elke wijziging van de bijlagen wordt van kracht op een door de Partijen te bepalen datum.
 
