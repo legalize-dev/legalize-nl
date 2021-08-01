@@ -4,7 +4,7 @@ identifier: "BWBR0043965"
 country: "nl"
 rank: "wet"
 publication_date: "2021-08-01"
-last_updated: "2020-08-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043965"
 soort: "wet"
@@ -107,13 +107,9 @@ Wijzigt de Algemene nabestaandenwet.
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI. Wijziging [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281)
 
 Wijzigt de Wet inkomstenbelasting BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. Wijziging «deelnemer» in «student»
 
@@ -233,7 +229,7 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel XLVI. Overgangsrecht
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van de afwikkeling van de aanvragen voor een voorziening en beroep tegen een beslissing die op grond van de [Tijdelijke regeling voorziening leermiddelen voor deelnemers uit minimagezinnen](https://wetten.overheid.nl/jci1.3:c:BWBR0038600) is genomen voor het tijdstip van inwerkingtreding van deze wet, is het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing.
 
 ##### Artikel XLVIa. Procedure aanpassingsbesluit wet versterken positie mbo-studenten
 
