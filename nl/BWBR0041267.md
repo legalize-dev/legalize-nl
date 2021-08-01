@@ -4,7 +4,7 @@ identifier: "BWBR0041267"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-01"
-last_updated: "2018-08-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041267"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Als getuigschrift, bedoeld in [artikel 4.2.2, eerste lid, onderdeel b, van de WE
 
 - b. een getuigschrift als bedoeld in [artikel 4.2.1, tweede lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1);
 
-- c. een getuigschrift als [bedoeld in artikel 7a.4 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7a.4); en
+- c. een getuigschrift als [bedoeld in artikel 7a.4 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7a.4);
 
 - d. een getuigschrift als bedoeld in [artikel 7.11, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11) van een met goed gevolg afgelegd afsluitend examen van een van de volgende opleidingen, die aan een hogeschool is verbonden, en behaald voor het eerstvolgende besluit tot het verlenen van accreditatie, bedoeld in [artikel 5a.9 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.9), van die opleiding dat de Nederlands-Vlaamse Accreditatie Organisatie heeft genomen na 1 augustus 2018:
 
@@ -89,6 +89,10 @@ Als getuigschrift, bedoeld in [artikel 4.2.2, eerste lid, onderdeel b, van de WE
 - xiii. 80064 onderwijsondersteuner educatie en kennismanagement groene sector
 
 - xiv. 80098 onderwijsondersteuner Technisch beroepsonderwijs
+
+- xv. 80166 Ad Didactisch Educatief Professional
+
+- xvi. 80167 Ad Educatief Professional Beroepsonderwijs
 
 ##### Artikel 3. Inwerkingtreding
 
