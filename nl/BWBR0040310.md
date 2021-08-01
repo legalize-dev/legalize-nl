@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2020-11-25"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -100,12 +100,10 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2020-11-25&g=2020-11-25), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2021-08-01&g=2021-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
-| 25054 | Allround Medewerker Optiek niveau 3 | Fijne oog-handcoördinatie |
-| 25055 | Opticien niveau 4 | Fijne oog-handcoördinatie |
 | 25069 | Basis Goudsmid niveau 3 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
 | 25070 | Goudsmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
 | 25071 | Zilversmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
@@ -113,44 +111,43 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25077 | Uurwerktechnicus niveau 4 | Fijne oog-handcoördinatie |
 | 25194 | AV-specialist niveau 4 | Creatieve en artistieke aanleg |
 | 25195 | Fotograaf niveau 4 | Creatieve en artistieke aanleg |
-| 25201 | Mediavormgever niveau 4 | Creatieve en artistieke aanleg |
 | 25212 | Ruimtelijk vormgever niveau 4 | Creatieve en artistieke aanleg en ruimtelijk inzicht |
-| 25363 | Luchtvaartdienstverlener niveau 4 | Fysieke geschiktheid |
-| 25402 | Allround Grimeur niveau 4 | Creatieve en artistieke aanleg |
 | 25411 | Coördinator buurt, onderwijs en sport niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25412 | Coördinator sport- en bewegingsagogie niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25413 | Coördinator sport, bewegen en gezondheid niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25414 | Coördinator sportinstructie, training en coaching niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25415 | Sport- en bewegingsleider niveau 3 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25416 | Aankomend medewerker grondoptreden niveau 2 | Fysieke en psychische geschiktheid |
-| 25417 | Aankomend medewerker maritiem niveau 2 | Fysieke en psychische geschiktheid |
-| 25418 | Aankomend onderofficier grondoptreden niveau 3 | Fysieke en psychische geschiktheid |
-| 25419 | Aankomend onderofficier maritiem niveau 3 | Fysieke en psychische geschiktheid |
-| 25469 | Instructeur Paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25472 | Acteur niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
-| 25495 | Danser niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
-| 25496 | Musicalperformer niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
-| 25497 | Muzikant niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
-| 25509 | Matroos Binnenvaart niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25510 | Schipper binnenvaart niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25511 | Kapitein binnenvaart niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25513 | Stuurman-werktuigkundige kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25514 | Stuurman kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25515 | Scheepswerktuigkundige kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25516 | Maritiem officier alle schepen niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25517 | Stuurman alle schepen niveau 4 | Fysieke geschiktheid (medische keuring) |
 | 25519 | Schipper-machinist beperkt werkgebied niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25520 | Stuurman waterbouw niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25521 | Scheepswerktuigkundige waterbouw niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25522 | Stuurman- scheepswerktuigkundige vissersschepen SW5 niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25523 | Stuurman alle vissersschepen S4 niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25524 | Werktuigkundige alle vissersschepen W4 niveau 4 | Fysieke geschiktheid (medische keuring) |
-| 25525 | Stuurman-werktuigkundige zeevisvaart sw6 niveau 2 | Fysieke geschiktheid (medische keuring) |
 | 25548 | Creatief vakman niveau 4 | Creatieve en artistieke aanleg |
-| 25549 | Chauffeur wegvervoer niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25550 | Chauffeur openbaar vervoer niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25551 | Touringcarchauffeur/reisleider niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25553 | Touringcarchauffeur niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25554 | Machinist railvervoer niveau 3 | Fysieke en psychische geschiktheid |
+| 25599 | Aankomend medewerker grondoptreden niveau 2 | Fysieke en psychische geschiktheid |
+| 25600 | Aankomend onderofficier grondoptreden niveau 3 | Fysieke en psychische geschiktheid |
+| 25601 | Aankomend medewerker maritiem niveau 2 | Fysieke en psychische geschiktheid |
+| 25602 | Aankomend onderofficier maritiem niveau 3 | Fysieke en psychische geschiktheid |
+| 25610 | Matroos Binnenvaart niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25611 | Schipper binnenvaart niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25612 | Kapitein binnenvaart niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25613 | Machinist railvervoer niveau 3 | Fysieke en psychische geschiktheid |
+| 25630 | Allround Medewerker Optiek niveau 3 | Fijne oog-handcoördinatie |
+| 25631 | Opticien niveau 4 | Fijne oog-handcoördinatie |
+| 25633 | Mediavormgever niveau 4 | Creatieve en artistieke aanleg |
+| 25636 | Luchtvaartdienstverlener niveau 4 | Fysieke geschiktheid |
+| 25640 | Stuurman-werktuigkundige zeevisvaart sw6 niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25651 | Acteur niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25652 | Danser niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25653 | Musicalperformer niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25654 | Muzikant niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25671 | Chauffeur wegvervoer | Fysieke geschiktheid (medische keuring) |
+| 25672 | Chauffeur openbaar vervoer | Fysieke geschiktheid (medische keuring) |
+| 25673 | Touringcarchauffeur/reisleider | Fysieke geschiktheid (medische keuring) |
+| 25675 | Touringcarchauffeur | Fysieke geschiktheid (medische keuring) |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | Fysieke geschiktheid (medische keuring) |
+| 25678 | Maritiem officier kleine schepen nautisch, visserij | Fysieke geschiktheid (medische keuring) |
+| 25679 | Maritiem officier kleine schepen technisch | Fysieke geschiktheid (medische keuring) |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | Fysieke geschiktheid (medische keuring) |
+| 25681 | Maritiem officier alle schepen nautisch, waterbouw | Fysieke geschiktheid (medische keuring) |
+| 25682 | Maritiem officier alle schepen nautisch, visserij | Fysieke geschiktheid (medische keuring) |
+| 25683 | Maritiem officier alle schepen technisch | Fysieke geschiktheid (medische keuring) |
+| 25692 | Allround make-up and hair artist | Creatieve en artistieke aanleg |
+| 25710 | Instructeur paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
