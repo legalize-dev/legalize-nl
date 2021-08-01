@@ -4,7 +4,7 @@ identifier: "BWBR0039788"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-01"
-last_updated: "2020-08-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039788"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Besluit:
 
 De volgende beleidsregels worden vastgesteld:
 
-- a. Onderzoekskader 2017 voor het toezicht op de voorschoolse educatie en het primair onderwijs ([bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=I&z=2020-08-01&g=2020-08-01));
+- a. Onderzoekskader 2017 voor het toezicht op de voorschoolse educatie en het primair onderwijs ([bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=I&z=2021-08-01&g=2021-08-01));
 
-- b. Onderzoekskader 2017 voor het toezicht op het voortgezet onderwijs ([bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=II&z=2020-08-01&g=2020-08-01));
+- b. Onderzoekskader 2017 voor het toezicht op het voortgezet onderwijs ([bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=II&z=2021-08-01&g=2021-08-01));
 
-- c. Onderzoekskader 2017 voor het toezicht op het (voortgezet) speciaal onderwijs ([bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=III&z=2020-08-01&g=2020-08-01)); en
+- c. Onderzoekskader 2017 voor het toezicht op het (voortgezet) speciaal onderwijs ([bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=III&z=2021-08-01&g=2021-08-01)); en
 
-- d. Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=IV&z=2020-08-01&g=2020-08-01)).
+- d. Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=IV&z=2021-08-01&g=2021-08-01)).
 
 ##### Artikel 2
 
@@ -71,6 +71,8 @@ De volgende beleidsregels worden ingetrokken:
 Dit besluit treedt in werking met ingang van 1 augustus 2017.
 
 ## Bijlage I. Onderzoekskader 2017 voor het toezicht op de voorschoolse educatie en het primair onderwijs
+
+Vervallen
 
 Geldig per 1 augustus 2020
 
@@ -11077,5 +11079,19 @@ Bij dit besluit worden de nieuwe onderzoekskaders van de Onderwijsinspectie vast
 De wijzigingen in de onderzoekskaders houden verband met nieuwe of gewijzigde wet- en regelgeving van na de met ingang van 1 augustus 2019 gewijzigde onderzoekskaders. Deze wetgeving is in de waarderingskaders primair onderwijs, voortgezet onderwijs, (voortgezet) speciaal onderwijs en middelbaar beroepsonderwijs verwerkt voor zover dat gelet op de invulling van de standaarden wenselijk was. Daarnaast is een aantal technische verbeteringen aangebracht.
 
 De wijzigingen ten opzichte van de Onderzoekskaders 2017 (versie 1 augustus 2019) zijn niet toegelicht in dit besluit in verband met het grote aantal wijzigingen, die bovendien grotendeels technisch van aard zijn. Een overzicht van (alle) wijzigingen evenals de integrale onderzoekskaders in de versie per 1 augustus 2020 zijn te vinden op www.onderwijsinspectie.nl.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage II. Onderzoekskader 2017 voor het toezicht op (voortgezet) speciaal onderwijs
+
+Vervallen
+
+## Bijlage III. Onderzoekskader 2017 voor het toezicht op het voortgezet onderwijs
+
+Vervallen
+
+## Bijlage IV. Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs
+
+Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
