@@ -269,9 +269,3 @@ Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
 Deze beleidsregel wordt aangehaald als: Beleidsregel IGVO 2021.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 16a. Omhang
-
-Deze regeling is mede gebaseerd op [artikel 4.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
