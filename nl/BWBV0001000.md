@@ -4,7 +4,7 @@ identifier: "BWBV0001000"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-08-01"
-last_updated: "2010-06-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001000"
 soort: "verdrag"
@@ -46,6 +46,8 @@ Overwegende, dat het doel van de Raad van Europa is het bereiken van een grotere
 Opnieuw haar diep geloof bevestigende in deze fundamentele vrijheden die de grondslag vormen voor gerechtigheid en vrede in de wereld en welker handhaving vooral steunt, enerzijds op een waarlijk democratische regeringsvorm, anderzijds op het gemeenschappelijk begrip en de gemeenschappelijke eerbiediging van de rechten van de mens waarvan die vrijheden afhankelijk zijn;
 
 Vastbesloten om, als Regeringen van gelijkgestemde Europese staten, die een gemeenschappelijk erfdeel bezitten van politieke tradities, idealen, vrijheid en heerschappij van het recht, de eerste stappen te doen voor de collectieve handhaving van sommige der in de [Universele Verklaring](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) vermelde rechten;
+
+Bevestigend dat de Hoge Verdragsluitende Partijen, in overeenstemming met het beginsel van subsidiariteit, de primaire verantwoordelijkheid hebben de rechten en vrijheden die in dit Verdrag en de Protocollen daarbij zijn omschreven te waarborgen en dat zij daarbij over een beoordelingsmarge beschikken, die onderworpen is aan het toezicht door het Europees Hof voor de Rechten van de Mens zoals opgericht in dit Verdrag,
 
 Zijn het volgende overeengekomen:
 
@@ -205,9 +207,11 @@ Het Hof bestaat uit een aantal rechters dat gelijk is aan het aantal Hoge Verdra
 
 1. De rechters moeten het hoogst mogelijk zedelijk aanzien genieten en in zich verenigen de voorwaarden die worden vereist voor het uitoefenen van een hoge functie bij de rechterlijke macht, ofwel rechtsgeleerden zijn van erkende bekwaamheid.
 
-2. De rechters hebben zitting in het Hof op persoonlijke titel.
+2. Kandidaten dienen jonger te zijn dan 65 jaar op de datum waarop de Parlementaire Vergadering om de ontvangst van de lijst van drie kandidaten heeft verzocht, in aansluiting op artikel 22.
 
-3. Gedurende hun ambtstermijn mogen de rechters geen activiteiten verrichten die onverenigbaar zijn met hun onafhankelijkheid, onpartijdigheid of met de eisen van een volledige dagtaak; het Hof beslist over alle vragen met betrekking tot de toepassing van dit lid.
+3. De rechters hebben zitting in het Hof op persoonlijke titel.
+
+4. Gedurende hun ambtstermijn mogen de rechters geen activiteiten verrichten die onverenigbaar zijn met hun onafhankelijkheid, onpartijdigheid of met de eisen van een volledige dagtaak; het Hof beslist over alle vragen met betrekking tot de toepassing van dit lid.
 
 ##### Artikel 22. Verkiezing van rechters
 
@@ -217,11 +221,9 @@ Voor elke Hoge Verdragsluitende Partij worden de rechters gekozen door de Parlem
 
 1. De rechters worden gekozen voor een periode van negen jaar. Zij zijn niet herkiesbaar.
 
-2. De ambtstermijn van rechters eindigt wanneer zij de leeftijd van 70 jaar bereiken.
+2. De rechters blijven in functie tot hun vervanging. Zij handelen evenwel de zaken af die zij reeds in behandeling hebben.
 
-3. De rechters blijven in functie tot hun vervanging. Zij handelen evenwel de zaken af die zij reeds in behandeling hebben.
-
-4. Een rechter kan slechts van zijn functie worden ontheven indien de overige rechters bij een meerderheid van tweederde besluiten dat die rechter niet meer aan de vereiste voorwaarden voldoet.
+3. Een rechter kan slechts van zijn functie worden ontheven indien de overige rechters bij een meerderheid van tweederde besluiten dat die rechter niet meer aan de vereiste voorwaarden voldoet.
 
 ##### Artikel 24. – Griffie en rapporteurs
 
@@ -285,7 +287,7 @@ Het Hof in voltallige vergadering bijeen:
 
 ##### Artikel 30. Afstand van rechtsmacht ten gunste van de Grote Kamer
 
-Indien de bij een Kamer aanhangige zaak aanleiding geeft tot een ernstige vraag betreffende de interpretatie van het Verdrag of de Protocollen daarbij of wanneer de oplossing van een vraag aanhangig voor een Kamer een resultaat kan hebben dat strijdig is met een eerdere uitspraak van het Hof, kan de Kamer, te allen tijde voordat zij uitspraak doet, afstand doen van rechtsmacht ten gunste van de Grote Kamer, tenzij één van de betrokken partijen daartegen bezwaar maakt.
+Indien de bij een Kamer aanhangige zaak aanleiding geeft tot een ernstige vraag betreffende de interpretatie van het Verdrag of de Protocollen daarbij of wanneer de oplossing van een vraag aanhangig voor een Kamer een resultaat kan hebben dat strijdig is met een eerdere uitspraak van het Hof, kan de Kamer, te allen tijde voordat zij uitspraak doet, afstand doen van rechtsmacht ten gunste van de Grote Kamer.
 
 ##### Artikel 31. Bevoegdheden van de Grote Kamer
 
@@ -313,7 +315,7 @@ Het Hof kan verzoekschriften ontvangen van ieder natuurlijk persoon, iedere niet
 
 ##### Artikel 35. Voorwaarden voor ontvankelijkheid
 
-1. Het Hof kan een zaak pas in behandeling nemen nadat alle nationale rechtsmiddelen zijn uitgeput, overeenkomstig de algemeen erkende regels van internationaal recht, en binnen een termijn van zes maanden na de datum van de definitieve nationale beslissing.
+1. Het Hof kan een zaak pas in behandeling nemen nadat alle nationale rechtsmiddelen zijn uitgeput, overeenkomstig de algemeen erkende regels van internationaal recht, en binnen een termijn van vier maanden na de datum van de definitieve nationale beslissing.
 
 2. Het Hof behandelt geen enkel individueel verzoekschrift, ingediend op grond van artikel 34, dat
 
@@ -325,7 +327,7 @@ Het Hof kan verzoekschriften ontvangen van ieder natuurlijk persoon, iedere niet
 
 - a. het verzoekschrift niet verenigbaar is met de bepalingen van het Verdrag of de Protocollen daarbij, kennelijk ongegrond is of een misbruik betekent van het recht tot het indienen van een verzoekschrift; of
 
-- b. de verzoeker geen wezenlijk nadeel heeft geleden, tenzij de eerbiediging van de in het Verdrag en de Protocollen daarbij omschreven rechten van de mens noopt tot onderzoek van het verzoekschrift naar de gegrondheid ervan en mits op deze grond geen zaken worden afgewezen die niet naar behoren zijn behandeld door een nationaal gerecht.
+- b. de verzoeker geen wezenlijk nadeel heeft geleden, tenzij de eerbiediging van de in het Verdrag en de Protocollen daarbij omschreven rechten van de mens noopt tot onderzoek van het verzoekschrift naar de gegrondheid ervan.
 
 4. Het Hof verwerpt elk verzoekschrift dat het ingevolge dit artikel als niet ontvankelijk beschouwt. Dit kan het in elk stadium van de procedure doen.
 
