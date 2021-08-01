@@ -4,7 +4,7 @@ identifier: "BWBR0038374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2020-07-01"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038374"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2020-07-01&g=2020-07-01).
+De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2021-08-01&g=2021-08-01).
 
 ##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-07-01&g=2020-07-01).
+Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2021-08-01&g=2021-08-01).
 
 ##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-07-01&g=2020-07-01).
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2021-08-01&g=2021-08-01).
 
 ##### Artikel 4. Intrekking
 
@@ -166,7 +166,11 @@ De waarde voor de correctiefactoren staan in onderstaande tabel in examenpunten 
 
 ## Bijlage B. Totstandkoming oordeel leerresultaten
 
-### Oordeel over de leerresultaten
+### Geen oordeel schooljaar 2021–2022 in verband met coronacrisis
+
+In verband met de uitbraak van COVID-19 zijn de leerresultaten van het schooljaar 2020–2021 geen betrouwbare graadmeter voor de onderwijskwaliteit van scholen en leerwegen. Daarom worden de leerresultaten van scholen en leerwegen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen en leerwegen krijgen ‘geen oordeel’. Er wordt geen aanvullend onderzoek, als bedoeld in deze bijlage, verricht.
+
+Het oordeel over de leerresultaten is gebaseerd op de kwalificaties van de indicatoren, die worden afgegeven aan de hand van gewogen driejaargemiddelden. Als er slechts één of geen jaarscore berekend kan worden, dan kan het driejaargemiddelde niet bepaald worden. Een driejaargemiddelde en dus de kwalificatie kan bij twee jaarscores alleen bepaald worden als het laatste jaar aanwezig is.
 
 Het oordeel over de leerresultaten bestaat uit de varianten ‘voldoende’ en ‘onvoldoende’. Het oordeel wordt gegeven per schoolsoort dan wel leerweg per vestiging en komt tot stand door toepassing van een beslisregel.
 
@@ -192,11 +196,15 @@ Bij twee indicatoren met de kwalificatie ‘onder de norm’ en de andere indica
 
 In alle andere gevallen (één of twee met de kwalificatie ‘boven de norm’) geldt ‘geen berekening te maken’. Het oordeel ‘voldoende’ komt hier niet voor.
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
 Als op basis van de indicatoren ‘geen berekening te maken’ is, vindt aanvullend onderzoek plaats. In deze bijzondere situaties zijn er onvoldoende gegevens om de leerresultaten volgens de verschillende indicatoren te beoordelen. Aanvullend onderzoek zal in ieder geval bestaan uit:
 
-Voor een voldoende beoordeling van de leerresultaten moet de school aantonen dat de leerresultaten van deze groep leerlingen voldoende zijn. Dat kan door te verwijzen naar referentiegegevens voor vergelijkbare leerlinggroepen, het gebruik van genormeerde toetsen of door expertoordelen. Als de school dit niet kan aantonen, leidt dit tot het oordeel ‘onvoldoende’ over de leerresultaten. In de voorkomende gevallen dat de school over onvoldoende gegevens beschikt om een uitspraak te kunnen doen over het niveau van de leerresultaten, wordt geen oordeel gegeven.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Oordeel over de leerresultaten
+
+Voor een voldoende beoordeling van de leerresultaten moet de school aantonen dat de leerresultaten van deze groep leerlingen voldoende zijn. Dat kan door te verwijzen naar referentiegegevens voor vergelijkbare leerlinggroepen, het gebruik van genormeerde toetsen of door expertoordelen. Als de school dit niet kan aantonen, leidt dit tot het oordeel ‘onvoldoende’ over de leerresultaten. In de voorkomende gevallen dat de school over onvoldoende gegevens beschikt om een uitspraak te kunnen doen over het niveau van de leerresultaten, wordt geen oordeel gegeven.
 
 De procedure voor het aanvullend onderzoek is van overeenkomstige toepassing indien de inspecteur een school vraagt om aan te tonen dat, ondanks het feit dat niet kan worden voldaan aan de leerresultatennorm, met de leerlingen van de betreffende schoolsoort of leerweg het maximale leerresultaat wordt behaald. De inspecteur beoordeelt vervolgens of de school dit voldoende heeft aangetoond.
 
