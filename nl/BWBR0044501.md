@@ -4,7 +4,7 @@ identifier: "BWBR0044501"
 country: "nl"
 rank: "wet"
 publication_date: "2021-08-01"
-last_updated: "2020-12-17"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044501"
 soort: "wet"
@@ -144,7 +144,7 @@ De termijn genoemd in onderdeel a kan ten hoogste tweemaal op verzoek van de sch
 
 ##### Artikel 3.1. Inwerkingtreding en verval
 
-1. [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=1&artikel=1.1&z=2020-12-17&g=2020-12-17) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, waarbij:
+1. [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=1&artikel=1.1&z=2021-08-01&g=2021-08-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, waarbij:
 
 - a. onderdeel A voor zover dat betrekking heeft op artikel 78fa (nieuw) terugwerkt tot en met 1 maart 2020;
 
@@ -156,14 +156,18 @@ De termijn genoemd in onderdeel a kan ten hoogste tweemaal op verzoek van de sch
 
 - e. onderdeel C, voor zover dat betrekking heeft op artikel 41a (nieuw), terugwerkt tot en met 1 november 2020.
 
-2. [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=1&artikel=1.2&z=2020-12-17&g=2020-12-17) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 16 maart 2020.
+2. [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=1&artikel=1.2&z=2021-08-01&g=2021-08-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 16 maart 2020.
 
-3. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=2&z=2020-12-17&g=2020-12-17) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en vervalt op 1 februari 2021. Het tijdstip waarop hoofdstuk 2 van deze wet vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop de wet zou vervallen.
+3. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=2&z=2021-08-01&g=2021-08-01) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en vervalt op 1 februari 2021. Het tijdstip waarop hoofdstuk 2 van deze wet vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop de wet zou vervallen.
 
 4. De voordracht voor een krachtens het derde lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
 ##### Artikel 3.2. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet COVID-19 SZW en JenV.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 3. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
