@@ -4,7 +4,7 @@ identifier: "BWBR0031801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2015-06-23"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031801"
 soort: "ministeriele-regeling-BES"
@@ -74,7 +74,7 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 7. Ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, blijft het model van de bijlage, onder A, beperkt tot die posten waarvoor die toerekening wel mogelijk is.
 
-8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2015-06-23&g=2015-06-23) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
+8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2021-08-01&g=2021-08-01) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
 
 ##### Artikel 4. Bestuursverslag
 
@@ -138,7 +138,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 2. behorende bij de Regeling jaarverslaggeving onderwijs BES
 
-### Bijlage bij [artikel 4, 8e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2015-06-23&g=2015-06-23)
+### Bijlage bij [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2021-08-01&g=2021-08-01)
 
 Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
 
