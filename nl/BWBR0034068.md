@@ -4,7 +4,7 @@ identifier: "BWBR0034068"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-03-01"
-last_updated: "2013-10-26"
+last_updated: "2021-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034068"
 soort: "ministeriele-regeling-BES"
@@ -40,11 +40,9 @@ Gelet op de [artikelen 7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&ar
 
 Besluit:
 
-##### Artikel 1. Vaststelling kwalificaties en op eindtermen gerichte beroepsopleidingen
+##### Artikel 1. Vaststelling kwalificaties
 
-1. De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.4), die zijn opgenomen in de bijlage, worden bij deze regeling vastgesteld.
-
-2. De op eindtermen gerichte beroepsopleidingen, bedoeld in [artikel 11.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=11.6b) juncto [artikel 7.2.4 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.4), die zijn opgenomen in de bijlage, worden bij deze regeling vastgesteld.
+De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2021-08-01&g=2021-08-01), worden bij deze regeling vastgesteld.
 
 ##### Artikel 2. Vaststelling opleidingsdomeinen BES
 
@@ -64,7 +62,11 @@ De volgende opleidingsdomeinen BES, bedoeld in [artikel 7.2.4, tweede lid van de
 
 - g. Horeca en bakkerij;
 
-- h. Zorg en welzijn.
+- h. Zorg en welzijn;
+
+- i. Toerisme en recreatie;
+
+- j. Veiligheid en sport.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -74,47 +76,62 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en opleidingsdomeinen BES.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&artikel=1&z=2013-10-26&g=2013-10-26)
+## Bijlage I. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&artikel=1&z=2021-08-01&g=2021-08-01) van de Regeling vaststelling kwalificaties en opleidingsdomeinen BES
 
-| Naam opleiding/ kwalificatie | Niveau | Crebocode | Opleidingsdomein |
+| Kwalificatie | Niveau | Crebocode | Opleidingsdomein |
 | --- | --- | --- | --- |
-| Arbeidsmarktgekwalificeerd assistent | 1 | 90440 | geen |
-| Assistent bouw en infra | 1 | 92090 | Bouw en infra |
-| Horeca-assistent | 1 | 90660 | Horeca en bakkerij |
-| Bedrijfsadministratief medewerker | 2 | 10045 | Niet van toepassing |
-| Bedrijfsadministratief medewerker | 2 | 90471 | Economie en administratie |
-| Secretarieel medewerker | 2 | 10050 | Niet van toepassing |
-| Secretarieel medewerker | 2 | 90472 | Economie en administratie |
-| Gastheer/ gastvrouw | 2 | 10399 | Horeca en bakkerij |
-| Gastheer/ gastvrouw | 2 | 94140 | Horeca en bakkerij |
-| Kok | 2 | 10400 | Niet van toepassing |
+| Allround vakkracht onderhoud- en klussenbedrijf | 3 | 25023 | Afbouw, hout en onderhoud |
+| Servicemedewerker gebouwen | 2 | 25024 | Afbouw, hout en onderhoud |
+| Medewerker human resource management | 4 | 25146 | Economie en administratie |
+| Medewerker financiële administratie | 2 | 25149 | Economie en administratie |
+| Kok | 2 | 25180 | Horeca en bakkerij |
+| Zelfstandig werkend kok | 3 | 25182 | Horeca en bakkerij |
+| Assistent Bouwen, wonen en onderhoud | 1 | 25250 | Niet van toepassing |
+| Assistent Dienstverlening en Zorg | 1 | 25251 | Niet van toepassing |
+| Assistent Horeca, Voeding of Voedingsindustrie | 1 | 25252 | Niet van toepassing |
+| Assistent Verkoop/Retail | 1 | 25257 | Niet van toepassing |
+| Assistent Plant of (Groene) Leefomgeving | 1 | 25258 | Niet van toepassing |
+| Technicus elektrotechnische installaties woning en utiliteit | 4 | 25263 | Techniek en procesindustrie |
+| Eerste monteur elektrotechnische installaties woning en utiliteit | 3 | 25332 | Techniek en procesindustrie |
+| Monteur elektrotechnische installaties | 2 | 25333 | Techniek en procesindustrie |
+| Coördinator sport, bewegen en gezondheid | 4 | 25413 | Veiligheid en sport |
+| Sport- en bewegingsleider | 3 | 25415 | Veiligheid en sport |
+| Begeleider specifieke doelgroepen | 3 | 25476 | Zorg en welzijn |
+| Persoonlijk begeleider specifieke doelgroepen | 4 | 25478 | Zorg en welzijn |
+| Gespecialiseerd pedagogisch medewerker | 4 | 25484 | Zorg en welzijn |
+| Pedagogisch medewerker kinderopvang | 3 | 25486 | Zorg en welzijn |
+| Helpende zorg en welzijn | 2 | 25498 | Zorg en welzijn |
+| Medewerker sport en recreatie | 2 | 25500 | Zorg en welzijn |
+| Allround medewerker IT-systems and devices | 3 | 25605 | Informatie en communicatietechnologie |
+| Expert IT-systems and devices | 4 | 25606 | Informatie en communicatietechnologie |
+| Leidinggevende travel & hospitality | 4 | 25647 | Toerisme en recreatie |
+| Zelfstandig medewerker travel & hospitality | 3 | 25649 | Toerisme en recreatie |
+| Mbo-Verpleegkundige | 4 | 25655 | Zorg en welzijn |
+| Verzorgende IG | 3 | 25656 | Zorg en welzijn |
+| Beveiliger | 2 | 25690 | Veiligheid en Sport |
+| Contactcenter medewerker | 3 | 90114 | Economie en administratie |
 | Kok | 2 | 90760 | Horeca en bakkerij |
-| Service medewerker gebouwen |   |   |   |
-| (Onderhoud- en verbouwbedrijf 2) | 2 | 92180 | Afbouw, hout en onderhoud |
-| Monteur sterkstroominstallaties | 2 | 10261 | Niet van toepassing |
-| Monteur Elektrotechnische installaties | 2 | 94271 | Techniek en procesindustrie |
-| Helpende welzijn | 2 | 10745 | Niet van toepassing |
-| Helpende zorg en welzijn | 2 | 92640 | Zorg en welzijn |
-| Boekhoudkundig medewerker | 3 | 10049 | Niet van toepassing |
-| Financieel administratief medewerker | 3 | 93200 | Economie en administratie |
-| Secretaresse | 3 | 10046 | Niet van toepassing |
-| Secretaresse | 3 | 95380 | Economie en administratief |
-| Zelfstandig werkend gastheer/ gastvrouw | 3 | 94153 | Horeca en bakkerij |
-| Zelfstandig werkend kok | 3 | 95420 | Horeca en bakkerij |
-| Eerste monteur sterkstroominstallatie | 3 | 10249 | Niet van toepassing |
-| Eerste monteur elektrotechnische installaties | 3 | 94281 | Techniek en procesindustrie |
-| Onderhoud- en verbouwbedrijf (Allround ondernemer klusbedrijf) | 3 | 95272 | Afbouw, hout en onderhoud |
-| Sociaal pedagogisch werker 3 (SPW3) | 3 | 10742 | Niet van toepassing |
-| Medewerker maatschappelijke zorg | 3 | 92650 | Zorg en welzijn |
-| Pedagogisch medewerker 3 kinderopvang | 3 | 92620 | Zorg en welzijn |
-| ICT-beheerder | 4 | 95321 | Informatie en communicatietechnologie |
-| Eerste monteur | 4 | 95762 | Techniek en procesindustrie |
-| Administrateur | 4 | 10039 | Niet van toepassing |
-| AV-specialist | 4 | 95702 | Media en vormgeving |
-| Bedrijfsadministrateur | 4 | 93212 | Economie en administratie |
-| Directiesecretaresse/ Management assistent | 4 | 95391 | Economie en administratie |
+| Pedagogisch medewerker 3 kinderopvang | 3 | 92620 | Zorg en Welzijn |
+| Gespecialiseerd pedagogisch medewerker, kinderopvang | 4 | 92632 | Zorg en welzijn |
+| Maatschappelijke Zorg, Persoonlijk begeleider | 4 | 92662 | Zorg en welzijn |
 | Persoonlijk begeleider specifieke doelgroepen | 4 | 92662 | Zorg en welzijn |
-| Onderwijsassistent | 4 | 10710 | Niet van toepassing |
 | Onderwijsassistent | 4 | 93500 | Zorg en welzijn |
+| Leisure & hospitality host | 3 | 94120 | Toerisme en recreatie |
+| Gastheer/-vrouw | 2 | 94140 | Horeca en bakkerij |
+| Monteur elektrotechnische installaties | 2 | 94271 | Techniek en procesindustrie |
+| Eerste monteur elektrotechnische installaties | 3 | 94281 | Techniek en procesindustrie |
+| Timmerman | 2 | 94920 | Bouw en infra |
+| Allround timmerman bouw- en werkplaats | 3 | 94931 | Bouw en infra |
+| Medewerker beheer ICT | 3 | 95070 | Informatie en communicatietechnologie |
+| Sport & bewegingsleider | 3 | 95280 | Veiligheid en sport |
+| Sport & bewegingscoördinator/BOS-medewerker | 4 | 95292 | Veiligheid en sport |
+| Sport & bewegingsbegeleider | 2 | 95300 | Veiligheid en sport |
+| ICT beheerder | 4 | 95321 | Informatie en communicatietechnologie |
+| Secretaresse | 3 | 95380 | Economie en administratie |
+| Vliegtuigonderhoud Part-66 | 4 | 95671 | Techniek en procesindustrie |
+| AV-specialist | 4 | 95702 | Media en vormgeving |
+| Eerste monteur | 3 | 95762 | Techniek en procesindustrie |
+| Technicus avionica | 4 | 95763 | Techniek en procesindustrie |
+| Technicus mechanica | 4 | 95764 | Techniek en procesindustrie |
 
-Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2021-08-01&g=2021-08-01) en de toelichting in de Staatscourant worden geplaatst.
