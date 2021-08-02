@@ -4,7 +4,7 @@ identifier: "BWBR0044308"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2023-09-01"
-last_updated: "2021-01-01"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044308"
 soort: "rijksKB"
@@ -78,7 +78,7 @@ Reisdocumenten van het Koninkrijk der Nederlanden als bedoeld in [artikel 2, eer
 
 ##### Artikel 1.3. Vermelding woonplaats en adres
 
-De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2021-01-01&g=2021-01-01) van dit besluit.
+De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2021-08-02&g=2021-08-02) van dit besluit.
 
 ##### Artikel 1.4. Reisdocumenten zonder vingerafdrukken, gezichtsopname of handtekening
 
@@ -234,7 +234,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 1. Aan een staatloze persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld, wordt op zijn verzoek een faciliteitenpaspoort verstrekt.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-08-02&g=2021-08-02) is van overeenkomstige toepassing.
 
 ##### Artikel 2.13. Geldigheid faciliteitenpaspoort
 
@@ -277,6 +277,8 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 1. De Nederlandse identiteitskaart is geldig voor tien jaren. Indien de aanvrager bij de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt, is de Nederlandse identiteitskaart geldig voor vijf jaren.
 
 2. De vervangende Nederlandse identiteitskaart is geldig voor vijf jaren.
+
+3. Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken op de nationale identiteitskaart worden opgenomen, bedraagt de geldigheidsduur van de nationale identiteitskaart één jaar.
 
 ### Hoofdstuk 3. Aanvraag van reisdocumenten
 
@@ -390,11 +392,11 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 - 1°. de gezaghebber in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd; of
 
-- 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-01-01&g=2021-01-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
+- 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
 
-2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-01-01&g=2021-01-01).
+2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02).
 
-3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-01-01&g=2021-01-01), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
+3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
 
 4. Bij ministeriële regeling worden nadere regels gesteld over de wijze van onttrekking aan het verkeer.
 
@@ -472,7 +474,7 @@ Bij ministeriële regeling kunnen:
 
 - b. aanvullende regels worden gesteld ter uitvoering van de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [4d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), en [59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59); en
 
-- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-01-01&g=2021-01-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2021-01-01&g=2021-01-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2021-01-01&g=2021-01-01), [2.10 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2021-01-01&g=2021-01-01), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2021-01-01&g=2021-01-01), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2021-01-01&g=2021-01-01).
+- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-08-02&g=2021-08-02), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2021-08-02&g=2021-08-02), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2021-08-02&g=2021-08-02), [2.10 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2021-08-02&g=2021-08-02), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2021-08-02&g=2021-08-02), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2021-08-02&g=2021-08-02).
 
 ##### Artikel 10.2. Citeertitel
 
