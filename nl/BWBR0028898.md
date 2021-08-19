@@ -4,7 +4,7 @@ identifier: "BWBR0028898"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-21"
-last_updated: "2017-03-01"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028898"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **besluit:** [Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142);
 
-- c. **STANAG 4441:** ingevolge een in de Staatscourant gepubliceerde mededeling van de Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AMovP-6, Allied Multi-Modal Transportation of Dangerous Goods Directive, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- c. **STANAG 4441:** ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AMovP-6, Allied Multi-Modal Transportation of Dangerous Goods Directive en Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
 - d. **munitie:** ontplofbare stoffen en voorwerpen als bedoeld in [artikel 1, onderdeel b, van het Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=1);
 
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Stanag 4441
 
-1. Indien door de krijgsmacht munitie wordt vervoerd over de weg, het spoor of het binnenwater dienen de daarop betrekking hebbende gedeelten van de hoofdstukken 1 tot en met 4 van de AMovP-6, behorende tot de STANAG 4441 in acht te worden genomen.
+1. Indien door de krijgsmacht munitie wordt vervoerd over de weg, het spoor of het binnenwater dienen de daarop betrekking hebbende gedeelten van de Standards-related documents van de AMovP-6, behorende tot de STANAG 4441 in acht te worden genomen.
 
 2. Voor de toepassing van STANAG 4441 wordt onder standard military vehicle in deze regeling begrepen een logistiek voertuig als bedoeld in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142).
 
@@ -73,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het vervoer geschiedt in het kader van een schietserie, een operatie of een eindoefening of afsluitende training direct voorafgaande aan een operatie; en
 
-- d. wordt voldaan aan de bij of krachtens het besluit gestelde regels met betrekking tot logistieke voertuigen met uitzondering van het gestelde in [artikel 4 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=4&z=2017-03-01&g=2017-03-01) en [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
+- d. wordt voldaan aan de bij of krachtens het besluit gestelde regels met betrekking tot logistieke voertuigen met uitzondering van het gestelde in [artikel 4 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=4&z=2021-08-19&g=2021-08-19) en [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
 
 ##### Artikel 4. Logistiek voertuig
 
@@ -151,7 +151,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 ##### Artikel 6. Militair keuringsdocument
 
-1. Voor het militair keuringsdocument wordt het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&bijlage=A&z=2017-03-01&g=2017-03-01) van deze regeling opgenomen model vastgesteld.
+1. Voor het militair keuringsdocument wordt het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&bijlage=A&z=2021-08-19&g=2021-08-19) van deze regeling opgenomen model vastgesteld.
 
 2. De datum einde geldigheidsduur van het keuringsdocument moet op het document zijn ingevuld.
 
@@ -203,6 +203,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011.
 
-## Bijlage A. Model voor het militair keuringsbewijs, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=6&z=2017-03-01&g=2017-03-01)
+## Bijlage A. Model voor het militair keuringsbewijs, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=6&z=2021-08-19&g=2021-08-19)
 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
