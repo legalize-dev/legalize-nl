@@ -4,7 +4,7 @@ identifier: "BWBR0014746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-19"
-last_updated: "2003-03-16"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014746"
 soort: "ministeriele-regeling"
@@ -42,13 +42,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. STANAG 3854: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 3854 inzake policies and procedures governing the air transportation of dangerous cargo, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- a. STANAG 2999: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 2999 USE OF HELICOPTERS IN LAND OPERATIONS DOCTRINE, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- b. STANAG 2487: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 2487 inzake transport of cargo by helicopters, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- b. STANAG 4441: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AMovP-6, Allied Multi-Modal Transportation of Dangerous Goods Directive en de Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- c. Technische Voorschriften: Technische Voorschriften als bedoeld in [artikel 1, onderdeel c, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1);
+- c. STANAG 7213: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 7213 TACTICS, TECHNIQUES AND PROCEDURES FOR NATO AIR MOVEMENTS zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- d. militair luchtvaartuig: een luchtvaartuig gehouden door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid.
+- d. Technische Voorschriften: Technische Voorschriften als bedoeld in [artikel 1, onderdeel c, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1);
+
+- e. militair luchtvaartuig: een luchtvaartuig gehouden door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid.
 
 ##### Artikel 2
 
@@ -64,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-In plaats van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014746&artikel=2&z=2003-03-16&g=2003-03-16) genoemde gedeelten van de Technische voorschriften worden door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid de op de beschreven uitzonderingen betrekking hebbende gedeelten van de STANAG 3854 en STANAG 2487 in acht genomen.
+In plaats van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014746&artikel=2&z=2021-08-19&g=2021-08-19) genoemde gedeelten van de Technische voorschriften worden door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid de op de beschreven uitzonderingen betrekking hebbende gedeelten van de STANAG 2999, STANAG 4441 en STANAG 7213 in acht genomen.
 
 ##### Artikel 4
 
@@ -74,7 +76,7 @@ Indien de dienst zulks vereist en de veiligheid van het luchtverkeer niet in gev
 
 - b. voor zover die stoffen behoren tot zijn uitrusting, en
 
-- c. de Technische Voorschriften in acht worden genomen met uitzondering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014746&artikel=2&z=2003-03-16&g=2003-03-16), van deze regeling aangewezen gedeelten en met uitzondering van hoofdstuk 8.
+- c. de Technische Voorschriften in acht worden genomen met uitzondering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014746&artikel=2&z=2021-08-19&g=2021-08-19), van deze regeling aangewezen gedeelten en met uitzondering van hoofdstuk 8.
 
 ##### Artikel 5
 
