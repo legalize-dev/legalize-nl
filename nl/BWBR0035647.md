@@ -4,7 +4,7 @@ identifier: "BWBR0035647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-26"
-last_updated: "2020-09-11"
+last_updated: "2021-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035647"
 soort: "ministeriele-regeling"
@@ -56,7 +56,21 @@ In dit besluit wordt verstaan onder:
 
 - b. de afdelingshoofden van de afdeling Vergunningverlening ondersteuning en afhandeling, van de afdeling Vergunningverlening leefomgeving en scheepvaart en van de afdeling Toezicht veilige mobiliteit, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend);
 
-- c. de teamleiders en de inspecteurs ILT van het team OA Scheepvaart van de afdeling Vergunningverlening ondersteuning en afhandeling, van het team Scheepvaart binnendienst en van het team Visserij en scheepsmetingen van de afdeling Vergunningverlening leefomgeving en scheepvaart en van het team Maritiem internationaal van de afdeling Toezicht veilige mobiliteit, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend), en
+- c. De teamleiders en inspecteurs van de ILT behorende tot de hierna te noemen teams zoals bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend): , en
+
+- 1˚. OA Scheepvaart van de afdeling Vergunningverlening ondersteuning en afhandeling;
+
+- 2˚. Scheepvaart binnendienst van de afdeling Vergunningverlening leefomgeving en scheepvaart;
+
+- 3˚. Visserij en scheepsmetingen van de afdeling Vergunningverlening leefomgeving en scheepvaart;
+
+- 4˚. Maritiem nationaal van de afdeling Toezicht veilige mobiliteit;
+
+- 5˚. Maritiem internationaal van de afdeling Toezicht veilige mobiliteit;
+
+- 6˚. Ongevallenonderzoek en administratiecontroles van de afdeling Toezicht veilige mobiliteit;
+
+- 7˚. Toezicht certificerende en erkende instellingen van de afdeling Toezicht publieke instellingen,
 
 - d. de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in de openbare lichamen Bonaire, Sint- Eustatius en Saba.
 
@@ -64,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Omvang mandaat
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2020-09-11&g=2020-09-11) is niet van toepassing op het vaststellen, wijzigen of intrekken van beleidsregels en het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet openbaarheid van bestuur.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2021-08-26&g=2021-08-26) is niet van toepassing op het vaststellen, wijzigen of intrekken van beleidsregels en het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet openbaarheid van bestuur.
 
 ##### Artikel 4. Volmacht en machtiging
 
@@ -84,7 +98,7 @@ Voor toepassing van dit besluit en de daarop rustende bepalingen wordt met de ve
 
 ##### Artikel 6. Wijze van ondertekening
 
-In geval van mandaat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2020-09-11&g=2020-09-11) luidt de ondertekening als volgt:
+In geval van mandaat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2021-08-26&g=2021-08-26) luidt de ondertekening als volgt:
 
 HET HOOFD VAN DE SCHEEPVAARTINSPECTIE,
 
