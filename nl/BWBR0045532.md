@@ -4,7 +4,7 @@ identifier: "BWBR0045532"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-27"
-last_updated: "2021-07-01"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045532"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 3. Ondermandaat
 
-De manager van KOOP en bij afwezigheid van de manager aan de plaatsvervangend manager van KOOP is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van de bevoegdheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045532&artikel=2&z=2021-08-27&g=2021-07-01), respectievelijk tot het beperken of intrekken daarvan.
+De manager van KOOP en bij afwezigheid van de manager aan de plaatsvervangend manager van KOOP is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van de bevoegdheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045532&artikel=2&z=2021-08-27&g=2021-08-27), respectievelijk tot het beperken of intrekken daarvan.
 
 ##### Artikel 4. Inwerkingtreding
 
