@@ -4,7 +4,7 @@ identifier: "BWBR0043289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-31"
-last_updated: "2020-10-01"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043289"
 soort: "ministeriele-regeling"
@@ -116,9 +116,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 Het op grond van dit besluit aan de inspecteurs ILT verleende mandaat omvat niet mede de bevoegdheid tot het beslissen op bezwaar.
 
-##### Artikel 7. Mandaat personele aangelegenheden
+##### Artikel 7. Volmacht personele aangelegenheden
 
-In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2021-08-27&g=2020-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2020-10-01) wordt mandaat van personele aangelegenheden uitsluitend verleend aan de directeuren, afdelingshoofden en teamleiders.
+Voor personele aangelegenheden wordt volmacht verleend aan uitsluitend de directeuren, afdelingshoofden en teamleiders.
 
 ##### Artikel 8. Volmacht en machtiging
 
@@ -126,13 +126,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - a. volmacht tot het verrichten van privaatrechtelijke rechtshandelingen, en
 
-- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2020-10-01), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2021-08-27), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 9. Mandaat en volmacht financiële verplichtingen
 
 1. Mandaat en volmacht tot het aangaan van financiële verplichtingen wordt, voor zover het behoort bij hun taken, verleend aan de directeur Publieke instituties en control, de afdelingshoofden, de programmamanagers, de teamleider Servicedesk en de teamleider Personeel en processen.
 
-2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2020-10-01) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
+2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2021-08-27) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
 
 ##### Artikel 10. Instructies
 
@@ -150,7 +150,7 @@ INSPECTIE LEEFOMGEVING EN TRANSPORT
 
 MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT.
 
-2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2021-08-27&g=2020-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2020-10-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2021-08-27&g=2020-10-01), luidt de ondertekening:
+2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2021-08-27&g=2021-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2021-08-27) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2021-08-27&g=2021-08-27), luidt de ondertekening:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
@@ -158,7 +158,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2020-10-01) luidt de ondertekening als volgt:
+3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2021-08-27) luidt de ondertekening als volgt:
 
 DE INSPECTEUR-GENERAAL LEEFOMGEVING EN TRANSPORT,
 
@@ -166,7 +166,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2021-08-27&g=2020-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2020-10-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2021-08-27&g=2020-10-01), luidt de ondertekening:
+4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2021-08-27&g=2021-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2021-08-27&g=2021-08-27) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2021-08-27&g=2021-08-27), luidt de ondertekening:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -176,7 +176,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gevolmachtigde functionaris.
 
-5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2020-10-01) luidt de ondertekening als volgt:
+5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2021-08-27&g=2021-08-27) luidt de ondertekening als volgt:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -208,7 +208,11 @@ Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Inspectie Leefo
 
 ## Bijlage
 
-Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2021-08-27&g=2020-10-01), van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
+Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2021-08-27&g=2021-08-27), van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
+
+**Inspecteur-generaal**
+
+- –. Afdeling Bureau IG-team
 
 **Informatiepositie en programmamanagement**
 
@@ -256,9 +260,9 @@ Afdeling Databronnen
 
 - –. Afdeling Vergunningverlening rail en luchtvaart
 
-- •. Team Luchtvaart infra en luchtruim
+- •. Team Luchtruim, infra en drone operaties
 
-- •. Team Luchtvaart techniek, operaties en vliegopleidingen
+- •. Team Luchtvaart techniek en operaties
 
 - •. Team Luchtvaart rail bedrijven, infra en spoorvoertuigen
 
@@ -270,7 +274,7 @@ Afdeling Databronnen
 
 - •. Team Leefomgeving bedrijven, infra en stoffen
 
-- •. Team Scheepvaart binnendienst
+- •. Team certificering binnenvaart en koopvaardij
 
 - •. Team Visserij en scheepsmetingen
 
@@ -316,6 +320,8 @@ Afdeling Databronnen
 
 - •. Team Producttoezicht 2
 
+- •. Team Producttoezicht 3
+
 - •. Team Specialistische handhaving
 
 - –. Afdeling Toezicht milieu
@@ -332,7 +338,9 @@ Afdeling Databronnen
 
 - •. Team Luchtvaart infrastructuur
 
-- •. Team Luchtvaart operaties en SAFA
+- •. Team Vliegtuigbemanningen en vluchtuitvoering
+
+- •. Team Luchtvaart specifiek
 
 - •. Team Luchtvaart techniek en MAR
 
@@ -370,9 +378,11 @@ Afdeling Databronnen
 
 - •. Team Bestuurlijke boete
 
+- •. Team Wob
+
 - –. Afdeling Control en advies
 
-- •. Team Bedrijfsvoeringsadvies en kaderstelling
+- •. Team Processen en ketens
 
 - •. Team Managmentcyclus en control
 
@@ -380,15 +390,15 @@ Afdeling Databronnen
 
 - •. Team Servicedesk
 
-- •. Team Personeel en processen
-
-- •. Team Bureau IG-team
+- •. Team Human Resources Management
 
 - •. Team Ondersteuning toezicht
 
 - •. Team Planning
 
 - –. Afdeling Flexpool
+
+- –. Afdeling Compliance en Quality
 
 **Autoriteit woningcorporaties**
 
