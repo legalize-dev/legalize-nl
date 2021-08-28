@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2020-05-12"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -206,13 +206,17 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 18°. de EU missie ‘EUCAP SAHEL’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 2015;
 
-- 19°. de EU missie ‘EUCAP Somalië’ voor zover deze deelname heeft plaatsgehad in Somalië vanaf 1 juni 2016;
+- 19°. de EU missie ‘EULPC’, voor zover deze deelname heeft plaatsgehad in Tunesië en Libië, vanaf 1 november 2015;
 
-- 20°. de EU missie ‘EUPAT’ voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf 1 februari 2017;
+- 20°. de EU missie ‘EUCAP Somalië’ voor zover deze deelname heeft plaatsgehad in Somalië vanaf 1 juni 2016;
 
-- 21°. de EU missie ‘EUSTAMS’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 augustus 2017;
+- 21°. de EU missie ‘EUPAT’ voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf 1 februari 2017;
 
-- 22°. de EU missie ‘EUCAP SAHEL NIGER’ voor zover deze deelname heeft plaatsgehad in Niger vanaf 1 september 2018: EU-OPERATIES;
+- 22°. de EU missie ‘EUSTAMS’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 augustus 2017;
+
+- 23°. de EU missie ‘EUCAP SAHEL NIGER’ voor zover deze deelname heeft plaatsgehad in Niger vanaf 1 september 2018;
+
+- 24°. de EU missie ‘EUAM Irak’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 18 december 2018: EU-OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
@@ -238,7 +242,19 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 7°. de operatie Forward Support Element (FSE) Mirage vanaf 1 januari 2015 voor zover deze deelname heeft plaatsgevonden in de Verenigde Arabische Emiraten;
 
-- 8°. de missie European-Led Maritime Awareness in the Strait of Hormuz ‘EMASOH’, voor zover deze deelname heeft plaatsgehad in het westelijk deel van de Golf van Oman, het oostelijk deel van de Arabisch Golf en de Straat van Hormuz, vanaf 28 januari 2020: MULTINATIONALE OPERATIES;
+- 8°. de missie Operation Gallant Phoenix ‘OGP’, voor zover deze deelname heeft plaatsgehad in het Midden-Oosten, vanaf 27 juni 2018;
+
+- 9°. het Global Peace Operations Initiative ‘GPOI’, voor zover deze deelname heeft plaatsgehad in Afrika, vanaf 1 oktober 2019;
+
+- 10°. de missie The Partnership for Actions in Western Africa ‘PAWA’, voor zover deze deelname heeft plaatsgehad in de Afrikaanse Sahel, vanaf 1 oktober 2019;
+
+- 11°. de missie European-Led Maritime Awareness in the Strait of Hormuz ‘EMASOH’, voor zover deze deelname heeft plaatsgehad in het westelijk deel van de Golf van Oman, het oostelijk deel van de Arabisch Golf en de Straat van Hormuz, vanaf 28 januari 2020;
+
+- 12°. de missie Combined Joint Special Operations Task Force ‘CJSOTF TAKUBA’, voor zover deze deelname heeft plaatsgehad in de Afrikaanse Sahel, vanaf 31 oktober 2020;
+
+- 13°. de missie Combined Air Operations Center ‘CAOC’, voor zover deze deelname heeft plaatsgehad in Qatar, vanaf 1 december 2020;
+
+- 14°. het Joint Operations Command Advisory Team ‘(J)OCAT’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 1 januari 2021: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
@@ -252,7 +268,11 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME;
 
-- mm. voor deelname aan Enhanced Forward Presence Baltics ‘EFP’ voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017; FORWARD PRESENCE BALTICS.
+- ll. voor deelname aan Forward Presence Baltics:
+
+- 1°. Baltic Air Policing ‘BAP’, voor zover deze deelname heeft plaatsgehad vanaf de luchthaven Siauliai in Litouwen boven de Baltische staten, vanaf 4 januari 2017;
+
+- 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017: FORWARD PRESENCE BALTICS.
 
 ##### Artikel 2
 
