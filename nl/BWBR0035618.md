@@ -4,7 +4,7 @@ identifier: "BWBR0035618"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2020-01-30"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035618"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1. Vaststelling regio’s
 
-De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2020-01-30&g=2020-01-30) bij deze regeling.
+De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2021-08-28&g=2021-08-28) bij deze regeling.
 
 ##### Artikel 2. Aanwijzing contactgemeenten
 
-De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2020-01-30&g=2020-01-30) bij deze regeling.
+De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2021-08-28&g=2021-08-28) bij deze regeling.
 
 ##### Artikel 3. [Uitvoeringsregeling WEB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0024795)
 
@@ -64,22 +64,22 @@ Deze regeling wordt aangehaald als: Regeling regio’s en contactgemeenten educa
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2020-01-30&g=2020-01-30) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2021-08-28&g=2021-08-28) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio educatie | omvat de volgende gemeenten: |
 | --- | --- | --- |
-| **1** | **Groningen** | Aa en Hunze, Appingedam, Assen, Delfzijl, Groningen, Het Hogeland, Loppersum, Midden-Groningen, Noordenveld, Oldambt, Pekela, Stadskanaal, Tynaarlo, Veendam, Westerkwartier, Westerwolde |
+| **1** | **Groningen** | Aa en Hunze, Assen, Eemsdelta, Groningen, Het Hogeland, Midden-Groningen, Noordenveld, Oldambt, Pekela, Stadskanaal, Tynaarlo, Veendam, Westerkwartier, Westerwolde |
 | **2** | **Friesland** | Achtkarspelen, Ameland, Dantumadiel, De Fryske Marren, Harlingen, Heerenveen, Leeuwarden, Noardeast-Fryslân, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest-Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Waadhoeke, Weststellingwerf |
 | **3** | **Noord-Holland Noord** | Alkmaar, Bergen NH, Castricum, Den Helder, Drechterland, Enkhuizen, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Stede Broec, Texel, Uitgeest |
 | **4** | **Drenthe** | Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Midden-Drenthe |
-| **5** | **IJsselvechtstreek** | Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Meppel, Oldebroek, Ommen, Raalte, Staphorst, Steenwijkerland, Westerveld, Zwartewaterland, Zwolle |
+| **5** | **IJsselvechtstreek** | Dalfsen, Hardenberg, Hattem, Kampen, Meppel, Oldebroek, Ommen, Raalte, Staphorst, Steenwijkerland, Westerveld, Zwartewaterland, Zwolle |
 | **6** | **Flevoland** | Almere, Dronten, Lelystad, Noordoostpolder, Urk |
 | **7** | **Zaanstreek/Waterland** | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad |
 | **8** | **Zuid-Kennemerland** | Beverwijk, Bloemendaal, Haarlem, Heemskerk, Heemstede, Velsen, Zandvoort |
 | **9** | **Twente** | Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden |
-| **10** | **Groot Amsterdam** | Aalsmeer, Amstelveen, Amsterdam, De Ronde Venen, Diemen, Haarlemmermeer, Ouder-Amstel, Uithoorn |
-| **11** | **Stedendriehoek en Noordwest Veluwe** | Apeldoorn, Brummen, Deventer, Elburg, Epe, Ermelo, Harderwijk, Lochem, Nunspeet, Olst-Wijhe, Putten, Voorst, Zeewolde, Zutphen |
-| **12** | **Gooi- en Vechtstreek** | Blaricum, Eemnes, Gooise Meren, Hilversum, Huizen, Laren, Weesp, Wijdemeren |
+| **10** | **Groot Amsterdam** | Aalsmeer, Amstelveen, Amsterdam, De Ronde Venen, Diemen, Haarlemmermeer, Ouder-Amstel, Uithoorn, Weesp |
+| **11** | **Stedendriehoek en Noordwest Veluwe** | Apeldoorn, Brummen, Deventer, Elburg, Epe, Ermelo, Harderwijk, Heerde, Lochem, Nunspeet, Olst-Wijhe, Putten, Voorst, Zeewolde, Zutphen |
+| **12** | **Gooi- en Vechtstreek** | Blaricum, Eemnes, Gooise Meren, Hilversum, Huizen, Laren, Wijdemeren |
 | **13** | **Holland Rijnland** | Alphen aan den Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Zoeterwoude |
 | **14** | **Midden-Utrecht** | Bunnik, De Bilt, Houten, IJsselstein, Lopik, Montfoort, Nieuwegein, Oudewater, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Wijk bij Duurstede, Woerden, Zeist |
 | **15** | **Amersfoort** | Amersfoort, Baarn, Bunschoten, Leusden, Nijkerk, Soest, Woudenberg |
@@ -91,10 +91,10 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 | **21** | **Midden-Gelderland** | Arnhem, Doesburg, Duiven, Lingewaard, Overbetuwe, Renkum, Rheden, Rozendaal, Westervoort, Zevenaar |
 | **22** | **Rijnmond** | Albrandswaard, Barendrecht, Brielle, Capelle aan den IJssel, Goeree-Overflakkee, Hellevoetsluis, Hoeksche Waard, Krimpen aan den IJssel, Maassluis, Nissewaard, Ridderkerk, Rotterdam, Schiedam, Vlaardingen, Westvoorne |
 | **23** | **Rivierenland** | Buren, Culemborg, Maasdriel, Neder-Betuwe, Tiel, West Betuwe, West Maas en Waal, Zaltbommel |
-| **24** | **Gorinchem** | Gorinchem, Hardinxveld-Giessendam, Molenlanden, Vijfheerenlanden |
+| **24** | **Gorinchem** | Gorinchem, Molenlanden, Vijfheerenlanden |
 | **25** | **Rijk van Nijmegen** | Berg en Dal, Beuningen, Druten, Heumen, Mook en Middelaar, Nijmegen, Wijchen |
-| **26** | **Drechtsteden** | Alblasserdam, Dordrecht, Hendrik-Ido-Ambacht, Papendrecht, Sliedrecht, Zwijndrecht |
-| **27** | **Noordoost-Brabant** | Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Landerd, Meierijstad, Mill en Sint Hubert, Oss, Sint Anthonis, Sint-Michielsgestel, Uden, Vught |
+| **26** | **Drechtsteden** | Alblasserdam, Dordrecht, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Papendrecht, Sliedrecht, Zwijndrecht |
+| **27** | **Noordoost-Brabant** | Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, ’s-Hertogenbosch, Landerd, Meierijstad, Mill en Sint Hubert, Oss, Sint Anthonis, Sint-Michielsgestel, Uden, Vught |
 | **28** | **West-Brabant** | Altena, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Woensdrecht, Zundert |
 | **29** | **Zeeland** | Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen |
 | **30** | **Midden-Brabant** | Alphen-Chaam, Baarle-Nassau, Dongen, Gilze en Rijen, Goirle, Heusden, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk |
@@ -104,7 +104,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 | **34** | **Midden-Limburg** | Echt-Susteren, Leudal, Maasgouw, Nederweert, Roerdalen, Roermond, Weert |
 | **35** | **Zuid-Limburg** | Beek, Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal |
 
-## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2020-01-30&g=2020-01-30) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2021-08-28&g=2021-08-28) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio | heeft de volgende contactgemeente |
 | --- | --- | --- |
