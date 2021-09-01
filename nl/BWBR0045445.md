@@ -161,9 +161,3 @@ Deze regeling treedt in werking met ingang van 1 september 2021 en vervalt met i
 Deze regeling wordt aangehaald als: Subsidieregeling innovatie bewegingsonderwijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Extra middelen ten behoeve van toewijzen afgewezen aanvragen
-
-In aanvulling op de bedragen, bedoeld in [artikel 4, lid la](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=4&z=2022-11-05&g=2022-11-05), is een bedrag beschikbaar van € 674.942,70 voor subsidieverstrekking ten behoeve van de aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-11-05&g=2022-11-05), die zijn ingediend in het aanvraagtijdvak, bedoeld in [artikel 7, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2022-11-05&g=2022-11-05).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
