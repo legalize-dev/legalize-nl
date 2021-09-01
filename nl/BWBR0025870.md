@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-01-24"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -76,13 +76,13 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 1. De subsidie bestaat uit:
 
-- a. de gederfde belastbare inkomsten van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie tot maximaal € 2.600 per week, berekend op basis van:
+- a. de gederfde inkomsten van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie tot maximaal € 2.600 per week, berekend op basis van:
 
 - 1°. het belastbaar loon per week overeenkomstig de wettelijke bepalingen van de loonbelasting;
 
-- 2°. de gemiddelde belastbare winst uit onderneming per week in het peiljaar, bepaald volgens de regels van [afdeling 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2), met dien verstande dat de subsidie niet minder bedraagt dan 80% van het bedrag van de uitkering die bij overeenkomstige toepassing van [artikel 3:23, derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:23) wordt berekend;
+- 2°. de gemiddelde winst uit onderneming per week in het peiljaar, bepaald volgens de regels van [paragraaf 3.2.2. van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.2), met dien verstande dat de subsidie niet minder bedraagt dan 80% van het bedrag van de uitkering die bij overeenkomstige toepassing van [artikel 3:23, derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:23) wordt berekend;
 
-- 3°. het gemiddelde belastbaar resultaat uit overige werkzaamheden per week in het peiljaar, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), met uitzondering van de in de [artikelen 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) bedoelde werkzaamheden;
+- 3°. het gemiddelde resultaat uit overige werkzaamheden per week in het peiljaar, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), met uitzondering van de in de [artikelen 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) bedoelde werkzaamheden;
 
 - 4°. in geval de donor niet een binnenlandse belastingplichtige is als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.1), de inkomsten die vergelijkbaar zijn met de hiervoor genoemde inkomensbestanddelen, waarbij acht wordt geslagen op [Hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7);
 
@@ -114,15 +114,15 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - e. de hotelkosten voor maximaal vijf dagen:
 
-- 1°. die de uit het buitenland afkomstige donor maakt na ontslag uit het ziekenhuis vooreen bedrag van € 50 per dag;
+- 1°. die de uit het buitenland afkomstige donor maakt na ontslag uit het ziekenhuis vooreen bedrag van ten hoogste € 99 per overnachting inclusief ontbijt;
 
-- 2°. die de door de donor aangewezen persoon maakt voor een bedrag van € 56,50 per dag met dien verstande dat bij verblijf in een hotel het bedrag ten behoeve van de binnenlandse reiskosten, bedoeld in onderdeel d, onder 3° op één dag wordt bepaald;
+- 2°. die de door de donor aangewezen persoon maakt voor een bedrag van ten hoogste € 99 per overnachting inclusief ontbijt met dien verstande dat bij verblijf in een hotel het bedrag ten behoeve van de binnenlandse reiskosten, bedoeld in onderdeel d, onder 3° op één dag wordt bepaald;
 
 - f. de kosten van de donor voor het opvangen en verzorgen van personen of huisdieren waarvoor de donor de zorg draagt gedurende de uitvoering van en het herstel na een donatie voor zover die kosten de gebruikelijke kosten van de donor voor die opvang en verzorging te boven gaan;
 
-- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 100 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7);
+- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 9 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 100 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7);
 
-- h. ten behoeve van overige kosten een eenmalig bedrag van € 345 in geval van nierdonatie, € 385 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
+- h. ten behoeve van overige kosten een eenmalig bedrag van € 381 in geval van nierdonatie, € 425 in geval van leverdonatie of € 110 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
 
 2. De kosten, bedoeld in het eerste lid, onderdelen a, b, c, d, e en f, komen uitsluitend voor subsidie in aanmerking voor zover:
 
@@ -142,7 +142,7 @@ In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie be
 
 2. De aanvraag van de subsidie wordt ingediend uiterlijk een jaar na ontslag uit het ziekenhuis waar de donatie is uitgevoerd, dan wel, in geval de donatie niet is uitgevoerd, uiterlijk een jaar nadat de eerste kosten zijn gemaakt waarvoor de subsidie wordt aangevraagd.
 
-3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), en ontvangen bijdragen in de kosten.
+3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), en ontvangen bijdragen in de kosten.
 
 4. De subsidiedeclaratie geeft de nodige informatie om de subsidie vast te stellen, onder meer ten aanzien van de bijdragen in de kosten die de donor heeft kunnen ontvangen of kan ontvangen.
 
@@ -174,7 +174,7 @@ Deze regeling wordt uitgevoerd door de Nederlandse Transplantatie Stichting.
 
 ##### Artikel 10
 
-Deze regeling vervalt met ingang van 1 september 2021.
+Deze regeling vervalt met ingang van 1 september 2026.
 
 ##### Artikel 11
 
@@ -184,23 +184,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), kan de minister de subsidie verhogen indien:
+1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
-- a. de donor na 31 december 2010 is ontslagen uit het ziekenhuis waar de donatie is uitgevoerd dan wel, in geval de donatie niet is uitgevoerd, na 31 december 2010 de eerste kosten heeft gemaakt waarvoor subsidie wordt aangevraagd, en
+2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
 
-- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+3. Bij de berekening van de gederfde inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
 
-2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
-
-3. Bij de berekening van de gederfde belastbare inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
-
-4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2020-01-24&g=2020-01-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2020-01-24&g=2020-01-24) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2020-01-24&g=2020-01-24) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2021-09-01&g=2021-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2021-09-01&g=2021-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2021-09-01&g=2021-09-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-Op een aanvraag die betrekking heeft op kosten die gemaakt zijn vóór 1 januari 2016, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), zoals dat luidde vóór 1 januari 2016 van toepassing.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
