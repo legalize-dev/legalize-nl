@@ -4,7 +4,7 @@ identifier: "BWBR0045591"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-01"
-last_updated: "2021-07-02"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045591"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Staatssecretaris:** Staatssecretaris van Defensie;
 
-- b. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=2&z=2021-09-01&g=2021-07-02).
+- b. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=2&z=2021-09-01&g=2021-09-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -83,7 +83,7 @@ De commissie wordt ingesteld met ingang van 1 juli 2021 en wordt opgeheven acht 
 
 ##### Artikel 6. Secretariaat
 
-De commissie wordt ondersteund door een secretariaat. Het secretariaat is voor de inhoudelijke uitoefening van haar taak uitsluitend verantwoording verschuldigd aan de voorzitter van de commissie. Het secretariaat draagt zorg voor het meldpunt als bedoeld in [artikel 5 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=5&z=2021-09-01&g=2021-07-02).
+De commissie wordt ondersteund door een secretariaat. Het secretariaat is voor de inhoudelijke uitoefening van haar taak uitsluitend verantwoording verschuldigd aan de voorzitter van de commissie. Het secretariaat draagt zorg voor het meldpunt als bedoeld in [artikel 5 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=5&z=2021-09-01&g=2021-09-01).
 
 ##### Artikel 7. Inwinnen van inlichtingen
 
