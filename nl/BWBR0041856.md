@@ -4,7 +4,7 @@ identifier: "BWBR0041856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-31"
-last_updated: "2019-02-01"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041856"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 ##### Artikel 3
 
-De Minister kan aan een transvrouw eenmalig een subsidie verstrekken ten behoeve van het operatief plaatsen van borstprothesen en de medisch noodzakelijke kosten die samenhangen met deze operatie.
+De Minister kan aan een transvrouw eenmalig een subsidie verstrekken ten behoeve van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk en de medisch noodzakelijke kosten die samenhangen met deze operatie.
 
 ##### Artikel 4
 
@@ -74,13 +74,17 @@ Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
 - ○. om medische redenen binnen de tijdspanne van een jaar zijn gestopt met de hormoontherapie;
 
-- –. De operatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2019-02-01&g=2019-02-01), nog niet ondergaan hebben;
+- –. De operatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2021-09-01&g=2021-09-01), nog niet ondergaan hebben;
 
-- –. Geen aanspraak kunnen maken op vergoeding van het operatief plaatsen van borstprothesen op grond van [artikel 2.1, onderdeel c, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.1).
+- –. Geen aanspraak kunnen maken op vergoeding van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie op grond van [artikel 2.1, onderdeel c, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.1).
 
 ##### Artikel 5
 
-De subsidie bedraagt € 3.830.
+De subsidie bedraagt:
+
+- a. € 3.830, indien de behandeling, bedoeld in artikel 3, geschiedt door middel van het operatief plaatsen van borstprothesen.
+
+- b. € 13.720, indien de behandeling, bedoeld in artikel 3, geschiedt op een andere wijze dan door middel van het operatief plaatsen van borstprothesen.
 
 ##### Artikel 6
 
@@ -102,7 +106,9 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 - 2). op medische gronden geen genderbevestigende hormoonbehandelingen mogelijk zijn, of
 
-- 3). om medische redenen binnen de tijdspanne van een jaar is gestopt met de hormoontherapie.
+- 3). om medische redenen binnen de tijdspanne van een jaar is gestopt met de hormoontherapie;
+
+- –. een verklaring van een BIG-geregistreerde arts, waarin is aangegeven welk type behandeling bij de transvrouw zal worden uitgevoerd: het operatief plaatsen van borstprothesen, of een andere behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk.
 
 ##### Artikel 8
 
@@ -110,7 +116,7 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 2. De Minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% van het subsidiebedrag.
 
-3. Het operatief plaatsen van de borstprothesen dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
+3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2021-09-01&g=2021-09-01), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
 
 4. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
@@ -133,5 +139,11 @@ Deze regeling treedt in werking met ingang van 1 februari 2019 en vervalt met in
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Subsidieregeling borstprothesen transvrouwen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
