@@ -154,21 +154,3 @@ De specialisatie ‘Vertaler in strafzaken’ kan bij een volgende periode van i
 ### Artikel 4
 
 De Raad kan in de door haar te bepalen gevallen een verzoek tot vermelding van de specialisatie ‘vertaler in strafzaken’ bij een inschrijving in het Rbtv ter advisering voorleggen aan de Commissie beëdigde tolken en vertalers.
-
-## Bijlage 4. Vertaler in strafzaken
-
-### Artikel 1
-
-Als specialisatie wordt aangewezen de bekwaamheid ‘Vertaler in strafzaken’
-
-### Artikel 2
-
-De specialisatie ‘Vertaler in strafzaken’ kan in het Rbtv bij een inschrijving worden vermeld indien, in aanvulling op de voor inschrijving in het Rbtv vereiste competenties, de vertaler in de zin van [artikel 1 van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1) objectief aantoont dat hij over de volgende competenties beschikt:
-
-### Artikel 3
-
-De specialisatie ‘Vertaler in strafzaken’ kan bij een volgende periode van inschrijving in het Rbtv worden vermeld, indien wordt aangetoond dat:
-
-### Artikel 4
-
-De Raad kan in de door haar te bepalen gevallen een verzoek tot vermelding van de specialisatie ‘vertaler in strafzaken’ bij een inschrijving in het Rbtv ter advisering voorleggen aan de Commissie beëdigde tolken en vertalers.
