@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2020-01-01"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -37576,11 +37576,13 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - a. de Overijsselse gemeenten Almelo, Borne, Dinkelland, Hof van Twente, Oldenzaal, Tubbergen, Twenterand en Wierden;
 
-- b. de Overijsselse gemeente Hardenberg met uitzondering van de voormalige gemeente Avereest;
+- b. de Overijsselse gemeente Hardenberg met uitzondering van de kernen Balkbrug en Dedemsvaart;
 
 - c. de Overijsselse gemeente Hengelo, uitsluitend in het gebied ten noorden van rijksweg A1;
 
-- d. de Gelderse gemeente Lochem, uitsluitend in het gebied Larense broek.
+- d. de Overijsselse gemeente Enschede, uitsluitend in het gebied van de voormalige vliegbasis Twente, ten noorden van de voormalige start- en landingsbaan;
+
+- e. de Gelderse gemeente Lochem, uitsluitend in het gebied Larense broek.
 
 2. Enduris B.V. beheert het regionale gastransportnet in de provincie Zeeland.
 
@@ -37590,7 +37592,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - b. de provincie Drenthe, met uitzondering van de gebieden genoemd in het vijfde lid, onderdelen a, b en c.;
 
-- c. de provincie Overijsel met uitzondering van de gebieden genoemd in het eerste lid, onderdelen a, b en c, het vierde lid, onderdeel c, en het vijfde lid onderdelen d tot en met g;
+- c. de provincie Overijssel met uitzondering van de gebieden genoemd in het eerste lid, onderdelen a tot en met d, het vierde lid, onderdelen c en d en het vijfde lid, onderdelen d tot en met g;
 
 - d. de Gelderse gemeente Berkelland, uitsluitend in de kern Rietmolen;
 
@@ -37604,17 +37606,19 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de Overijsselse gemeente Deventer, uitsluitend het gebied ten zuiden van de rijksweg A1, ten westen van de spoorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21 -12-1999 van toepassing was;
 
-- d. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdeel d, het derde lid, onderdelen d en e, en het zesde lid, onderdeel b;
+- d. de Overijsselse gemeente Olst-Wijhe, uitsluitend de buurtgemeenschap Marle;
 
-- e. de Utrechtse gemeente Amersfoort, uitsluitend in de wijken Vinkenhoef en Palestina;
+- e. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdeel d, het derde lid, onderdelen d en e, en het zesde lid, onderdeel b;
 
-- f. de Utrechtse gemeente Veenendaal, uitsluitend in de wijken Veenendaal-Oost en De Batterijen;
+- f. de Utrechtse gemeente Amersfoort, uitsluitend in de wijken Vinkenhoef en Palestina;
 
-- g. de provincie Noord-Holland, met uitzondering van het gebied genoemd in het zesde lid, onderdeel d;
+- g. de Utrechtse gemeente Veenendaal, uitsluitend in de wijken Veenendaal-Oost en De Batterijen;
 
-- h. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten, Wassenaar, Zoeterwoude;
+- h. de provincie Noord-Holland, met uitzondering van het gebied genoemd in het zesde lid, onderdeel d;
 
-- i. de voormalige Zuid-Hollandse gemeente Zevenhuizen-Moerkapelle.
+- i. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten, Wassenaar, Zoeterwoude;
+
+- j. de voormalige Zuid-Hollandse gemeente Zevenhuizen-Moerkapelle.
 
 5. N.V. RENDO beheert het regionale gastransportnet in:
 
@@ -37660,7 +37664,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 ##### Artikel 5. Het recht op aansluiting op een regionaal gastransportnet
 
-1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2020-01-01&g=2020-01-01) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
+1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2021-09-03&g=2021-09-03) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
 
 2. In afwijking van het eerste lid heeft een kleinverbruiker geen recht op een aansluiting indien de aan te sluiten gasinstallatie zich bevindt in een gebied buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom' wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de Wegenverkeerswet.
 
