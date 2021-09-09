@@ -4,7 +4,7 @@ identifier: "BWBR0030610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2021-06-23"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030610"
 soort: "ministeriele-regeling"
@@ -74,9 +74,9 @@ Als militaire goederen worden aangewezen de goederen, opgenomen in de gemeenscha
 
 1. Een vergunning voor militaire goederen wordt aangevraagd door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.
 
-2. Een vergunning als bedoeld in artikel 3 van [verordening 428/2009](32009R0428) of een vergunning voor militaire goederen wordt aangevraagd bij de inspecteur.
+2. Een vergunning als bedoeld in artikel 3 van de Verordening producten voor tweeërlei gebruik of een vergunning voor militaire goederen wordt aangevraagd bij de inspecteur.
 
-3. In Nederland gevestigde exporteurs als bedoeld in artikel 2, derde lid, van [verordening 428/2009](32009R0428) dienen aanvragen ter verkrijging van een vergunning als bedoeld in artikel 3 van [verordening 428/2009](32009R0428), schriftelijk in bij de inspecteur, ook al bevinden de goederen zich op het grondgebied van een andere lidstaat van de Europese Unie.
+3. In Nederland gevestigde exporteurs als bedoeld in artikel 2, derde lid, van de Verordening producten voor tweeërlei gebruik dienen aanvragen ter verkrijging van een vergunning als bedoeld in artikel 3 van de Verordening producten voor tweeërlei gebruik, schriftelijk in bij de inspecteur, ook al bevinden de goederen zich op het grondgebied van een andere lidstaat van de Europese Unie.
 
 4. De beschikkingsbevoegde verklaart bij het aanvragen van een uitvoervergunning voor militaire goederen, indien de militaire goederen die uit een andere lidstaat zijn ontvangen aan uitvoerbeperkingen zijn verbonden, dat zij aan de voorwaarden van deze beperkingen hebben voldaan.
 
@@ -138,15 +138,15 @@ Geen melding is vereist voor:
 
 - a. de doorvoer van militaire goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van Nederland;
 
-- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2021-06-23&g=2021-06-23);
+- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2021-09-09&g=2021-09-09);
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
-#### § 5. Voorschriften
+#### § 4. Melding
 
 ##### Artikel 8
 
-Aan een vergunning als bedoeld in artikel 3 van [verordening 428/2009](32009R0428) of een vergunning voor militaire goederen kunnen ten minste de volgende voorschriften worden verbonden:
+Aan een vergunning als bedoeld in artikel 3 van de Verordening producten voor tweeërlei gebruik of een vergunning voor militaire goederen kunnen ten minste de volgende voorschriften worden verbonden:
 
 - a. de goederen, waarop de vergunning betrekking heeft, worden binnen een bij de vergunning te bepalen termijn wederingevoerd, welke wederinvoer wordt aangetoond binnen een maand na de wederinvoer;
 
@@ -156,7 +156,7 @@ Aan een vergunning als bedoeld in artikel 3 van [verordening 428/2009](32009R042
 
 - 2°. de naam en het adres van de ontvanger;
 
-- 3°. een omschrijving van de door te voeren, uit te voeren of over te dragen goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen of in bijlage I bij [Verordening 428/2009](32009R0428);
+- 3°. een omschrijving van de door te voeren, uit te voeren of over te dragen goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen of in bijlage I bij de Verordening producten voor tweeërlei gebruik;
 
 - 4°. de hoeveelheid en de waarde van de door te voeren, uit te voeren of over te dragen goederen;
 
@@ -228,11 +228,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 9, eerste lid, van verordening 428/2009, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
+Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 12, eerste lid, onder d, van de Verordening producten voor tweeërlei gebruik, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
 
 #### § 4. Melding
 
 #### § 5. Voorschriften
+
+#### § 7. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
+
+#### § 2. Aanvraag vergunning
+
+#### § 3. Vrijstelling vergunningplicht
+
+#### § 3a. Voorwaarden
+
+#### § 5. Voorschriften
+
+#### § 6. Erkenning
 
 #### § 7. Slotbepalingen
 
