@@ -4,7 +4,7 @@ identifier: "BWBR0030629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2021-06-23"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030629"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.o
 
 - c. de aard van de dienstverlening;
 
-- d. de beschrijving van de goederen voor tweeërlei gebruik waarop de tussenhandeldiensten betrekking hebben, met vermelding van de omschrijving en het postnummer daarvan overeenkomstig bijlage I bij [verordening 428/2009](32009R0428), en de hoeveelheid van deze goederen;
+- d. de beschrijving van de goederen voor tweeërlei gebruik waarop de tussenhandeldiensten betrekking hebben, met vermelding van de omschrijving en het postnummer daarvan overeenkomstig bijlage I bij de Verordening producten voor tweeërlei gebruik, en de hoeveelheid van deze goederen;
 
 - e. het land of de landen van herkomst en het land of de landen van bestemming, met inbegrip van de eindbestemming, van de goederen waarop de tussenhandeldiensten betrekking hebben;
 
@@ -110,7 +110,7 @@ Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.o
 
 - b. de aard van de dienstverlening;
 
-- c. de beschrijving van de militaire goederen, programmatuur of technologie of de goederen voor tweeërlei gebruik waarop de diensten betrekking hebben, in voorkomend geval met vermelding van de omschrijving en het postnummer daarvan overeenkomstig de gemeenschappelijke EU-lijst van militaire goederen onderscheidenlijk bijlage I bij [verordening 428/2009](32009R0428), en de hoeveelheid en de waarde van deze goederen;
+- c. de beschrijving van de militaire goederen, programmatuur of technologie of de goederen voor tweeërlei gebruik waarop de diensten betrekking hebben, in voorkomend geval met vermelding van de omschrijving en het postnummer daarvan overeenkomstig de gemeenschappelijke EU-lijst van militaire goederen onderscheidenlijk bijlage I bij de Verordening producten voor tweeërlei gebruik, en de hoeveelheid en de waarde van deze goederen;
 
 - d. het land of de landen van herkomst van de goederen waarop de diensten betrekking hebben, de plaats in het land of de landen waar deze goederen zich ten tijde van de aanvraag bevinden, en het land of de landen van bestemming, met inbegrip van de eindbestemming, van deze goederen;
 
@@ -133,5 +133,11 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische diensten.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
