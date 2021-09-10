@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2021-08-01"
+last_updated: "2021-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2021-08-01).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht de inspectie een aanvullend onderzoek op de wijze als beschreven in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2020-12-05&g=2021-08-01).
+[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2021-09-10&g=2021-09-10) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 34.6, eerste lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht.
 
 ##### Artikel 3. Intrekking
 
@@ -80,7 +80,7 @@ De gegevens, die de inspectie gebruikt bij de beoordeling van de leerresultaten,
 
 De behaalde leerresultaten leveren de scholen aan DUO. DUO verwerkt de gegevens in het Basis Register Onderwijs (BRON). De inspectie ontvangt de geanonimiseerde gegevens van de individuele leerlingen uit BRON.
 
-Tevens ontvangt de inspectie jaarlijks de geanonimiseerde schoolweging van het CBS. CBS berekent voor elke leerling, die op 1 oktober op e school zit, de verwachte onderwijsscore op basis van het opleidingsniveau van de ouders, het land van herkomst, de verblijfsduur in Nederland en gegevens over het al dan niet in de schuldsanering zitten. De schoolweging is het gemiddelde van de verwachte onderwijsscores van alle leerlingen op de school, waarbij is gekozen voor een schaal die in de praktijk loopt van ongeveer 20 tot 40: hoe hoger de schoolweging, des te meer leerlingen met een lage verwachte onderwijsscore.
+Tevens ontvangt de inspectie jaarlijks de geanonimiseerde schoolweging van het CBS. CBS berekent voor elke leerling op school de verwachte onderwijsscore op basis van het opleidingsniveau van de ouders, het land van herkomst, de verblijfsduur in Nederland en gegevens over het al dan niet in de schuldsanering zitten. De schoolweging is het gemiddelde van de verwachte onderwijsscores van alle leerlingen op de school, waarbij is gekozen voor een schaal die in de praktijk loopt van ongeveer 20 tot 40: hoe hoger de schoolweging, des te meer leerlingen met een lage verwachte onderwijsscore.
 
 Voor een beperkt aantal scholen is het noodzakelijk dat de inspectie een extra berekening uitvoert op de door CBS geleverde schoolweging. Dit geldt voor scholen met twee of meer vestigingen die door de inspectie als afzonderlijke objecten van toezicht worden gezien. De inspectie publiceert jaarlijks de lijst met de schoolweging van alle scholen, die zij bij haar beoordeling hanteert, op de inspectiewebsite.
 
@@ -108,11 +108,11 @@ In [artikel 10a, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Er kan sprake zijn van een onbetrouwbare schoolweging, bijvoorbeeld in de volgende gevallen:
 
-Er sprake is van een kleine school. Het CBS kan de schoolweging minder betrouwbaar bepalen bij minder dan 40 leerlingen op de hele school;
+Dit betekent niet automatisch dat de schoolweging geen goede afspiegeling van de leerlingenpopulatie is. Vaak zal dat wel het geval zijn. Tijdens het onderzoek op de school kan de inspecteur tot de conclusie komen dat er sprake is van een onbetrouwbare schoolweging, die het onmogelijk maakt om een oordeel over de leerresultaten te geven.
 
 Een school heeft meerdere vestigingen die door de inspectie als afzonderlijke objecten van toezicht worden gezien, maar er is in BRON niet duidelijk aangegeven op welke locatie de leerlingen zijn ingeschreven.
 
-Dit betekent niet automatisch dat de schoolweging geen goede afspiegeling van de leerlingenpopulatie is. Vaak zal dat wel het geval zijn. Tijdens het onderzoek op de school kan de inspecteur tot de conclusie komen dat er sprake is van een onbetrouwbare schoolweging, die het onmogelijk maakt om een oordeel over de leerresultaten te geven.
+In verband met de uitbraak van COVID-19 zijn er in het schooljaar 2021–2022 onvoldoende gegevens voor een betrouwbaar oordeel over de meting van de leerresultaten. Daarom worden de leerresultaten van scholen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen krijgen in die periode ‘geen oordeel’. Er wordt geen aanvullend onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2021-09-10&g=2021-09-10) verricht, overeenkomstig [artikel 34.6, tweede lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6).
 
 ### Deel 2. Kleine scholen
 
@@ -130,10 +130,14 @@ Het oordeel over de leerresultaten komt aan de hand van de twee indicatoren als 
 
 Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten, zal de inspectie een aanvullend onderzoek naar de leerresultaten (laten) verrichten. Het onderzoek kan onder meer bestaan uit:
 
-het verkrijgen van nadere gegevens van de school over de leerresultaten voor zover ze wel beschikbaar zijn;
+- •. het verkrijgen van nadere gegevens van de school over de leerresultaten voor zover ze wel beschikbaar zijn;
 
-analyse van de beschikbare leerresultaten en beoordeling door de inspecteur ter plekke.
+- •. analyse van de beschikbare leerresultaten en beoordeling door de inspecteur ter plekke.
 
 Als uit het onderzoek niet geconcludeerd kan worden dat de leerresultaten voldoende zijn, wordt geen oordeel gegeven.
 
+In het schooljaar 2021–2022 blijft het aanvullend onderzoek achterwege, overeenkomstig [artikel 34.6, tweede lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6).
+
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Geen oordeel wegens COVID-19
