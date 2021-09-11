@@ -4,7 +4,7 @@ identifier: "BWBR0036191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2020-02-22"
+last_updated: "2021-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036191"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een regionale publieke media-instelling is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de provincie waar de instelling media-aanbod verzorgt.
 
-2. De in het eerste lid bedoelde capaciteit vormt een achttiende deel van de capaciteit van het desbetreffende allotment en is in elk geval bestemd voor het gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunningen, bedoeld in [3.7, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
+2. De in het eerste lid bedoelde capaciteit vormt een twaalfde deel van de capaciteit van het desbetreffende allotment en is in elk geval bestemd voor het gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunningen, bedoeld in [3.7, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
 
 ##### Artikel 4
 
