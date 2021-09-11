@@ -4,7 +4,7 @@ identifier: "BWBR0043210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-05"
-last_updated: "2020-10-01"
+last_updated: "2021-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043210"
 soort: "ministeriele-regeling"
@@ -62,33 +62,45 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-1. De minister kan subsidie verstrekken aan een aanvrager die instellingscollegegeld moet betalen in verband met het volgen van een tweede lerarenopleiding.
+1. De minister kan subsidie verstrekken aan een aanvrager die instellingscollegegeld moet betalen in verband met het volgen van een eerste of tweede studiejaar waarin dezelfde tweede lerarenopleiding wordt gevolgd.
 
 2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister subsidieverlening aan een aanvrager, indien deze van de minister al een tegemoetkoming in het collegegeld ontvangt of heeft ontvangen voor het volgen van de tweede lerarenopleiding.
 
 ##### Artikel 4. Subsidieaanvraag
 
-1. Een subsidieaanvraag wordt gedaan met gebruikmaking van het daarvoor bestemde aanvraagformulier dat wordt bekendgemaakt op de website van DUO.
+1. Voor het eerste en het tweede studiejaar kan afzonderlijk subsidie worden aangevraagd met gebruikmaking van het daarvoor bestemde aanvraagformulier dat wordt bekendgemaakt op de website van DUO.
 
 2. De minister kan een aanvrager vragen bewijsstukken van eerder behaalde getuigschriften aan te leveren.
 
 ##### Artikel 5. Termijn indiening aanvraag
 
-Subsidieaanvragen kunnen worden ingediend van 1 oktober tot en met 31 december in het eerste studiejaar van de lerarenopleiding waarvoor subsidie wordt aangevraagd. Aanvragen na 31 december worden ontvangen, worden afgewezen.
+Subsidieaanvragen kunnen worden ingediend van 1 oktober tot en met 31 december in het studiejaar van de lerarenopleiding waarvoor subsidie wordt aangevraagd. Aanvragen die na 31 december worden ontvangen, worden afgewezen.
 
 ##### Artikel 6. Hoogte subsidie en subsidieplafond
 
-1. De subsidie bedraagt € 3.500,– per aanvrager, of bij lager instellingscollegegeld ten hoogste dat bedrag.
+1. De subsidie bedraagt € 6.000,– per aanvrager per studiejaar, of bij lager instellingscollegegeld ten hoogste dat bedrag.
 
 2. Voor subsidieverstrekking op grond van deze regeling is jaarlijks € 2.500.000,– beschikbaar.
 
 ##### Artikel 7. Verdeling van de subsidie
 
-De minister verdeelt het beschikbare subsidiebedrag op volgorde van binnenkomst van de aanvragen.
+1. De minister verdeelt het beschikbare subsidiebedrag op volgorde van binnenkomst van de aanvragen.
 
-##### Artikel 8. Vaststelling
+2. Bij de verdeling wordt voorrang verleend aan aanvragen voor een tweede studiejaar, indien aan de desbetreffende aanvragers eerder op grond van deze regeling voor een eerste studiejaar subsidie is verstrekt.
 
-De subsidie wordt direct vastgesteld binnen 13 weken na indiening van de aanvraag.
+##### Artikel 8. Verlening, vaststelling en betaling subsidie
+
+1. De subsidie wordt verleend uiterlijk in januari van het desbetreffende studiejaar. De minister verstrekt een voorschot van 50% dat bij de subsidieverlening wordt uitbetaald.
+
+2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister de subsidieverlening, indien de subsidieontvanger niet op of vóór 1 december van het desbetreffende studiejaar is ingeschreven voor de lerarenopleiding waarop de subsidieaanvraag betrekking heeft.
+
+3. De subsidie wordt ambtshalve vastgesteld uiterlijk in juni van het desbetreffende studiejaar.
+
+4. Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) wordt de subsidie, indien de subsidieontvanger na 1 december, doch vóór 1 mei van het desbetreffende studiejaar is uitgeschreven voor de lerarenopleiding waarop de subsidieaanvraag betrekking heeft, lager vastgesteld op 50% van het verleende subsidiebedrag.
+
+5. In afwijking van het derde lid worden subsidies die zijn verstrekt voor een opleiding die in februari aanvangt, ambtshalve vastgesteld uiterlijk in juni na het einde van het desbetreffende studiejaar. Het vierde lid is ten aanzien van deze subsidies niet van toepassing.
+
+6. Het tweede en vierde lid zijn niet van toepassing, indien de uitschrijving voor de lerarenopleiding volgt op de succesvolle afronding van die opleiding.
 
 ##### Artikel 9. Hardheidsclausule
 
@@ -103,5 +115,13 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling tweede lerarenopleiding.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a. Overgangsbepalingen
+
+1. Subsidies die vóór 1 oktober 2021 of eerder op grond van deze subsidieregeling zijn verstrekt voor het volgen van een tweede lerarenopleiding, worden geacht te zijn verstrekt voor het volgen van het eerste studiejaar van de lerarenopleiding.
+
+2. Deze regeling, zoals die luidde vóór 1 oktober 2021, blijft van toepassing op de subsidies die voor die datum zijn verstrekt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
