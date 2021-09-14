@@ -4,7 +4,7 @@ identifier: "BWBR0037893"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-14"
-last_updated: "2019-05-15"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037893"
 soort: "ministeriele-regeling"
@@ -44,25 +44,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **commissie:** de Commissie bijzondere situaties;
+- **commissie:** Commissie bijzondere situaties;
 
-- –. **de minister:** de Minister van Economische Zaken;
+- **Instituut:** Instituut Mijnbouwschade Groningen, bedoeld in artikel 2 van de Tijdelijke wet Groningen;
 
-- –. **de Onafhankelijke Raadsman:** de in opdracht van de minister werkzame Onafhankelijke Raadsman.
+- **minister:** Minister van Economische Zaken en Klimaat;
+
+- **Onafhankelijke Raadsman:** in opdracht van de minister werkzame Onafhankelijke Raadsman;
+
+- **Nationale ombudsman:** Nationale ombudsman, bedoeld in artikel 2 van de Wet Nationale ombudsman.
 
 ##### Artikel 2
 
 1. Er is een Commissie bijzondere situaties.
 
-2. De commissie heeft tot taak het geven van adviezen over hulp aan benadeelden in schrijnende situaties:
-
-- a. naar aanleiding van schade als gevolg van aardbevingen door gaswinning in de provincie Groningen;
-
-- b. als gevolg van versterkingsmaatregelen.
+2. De commissie heeft tot taak het geven van adviezen aan het Instituut over hulp in bijzondere situaties als bedoeld in [artikel 1 van het Tijdelijk besluit mandaat, volmacht en machtiging IMG voor hulp in bijzondere situaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045609&artikel=1).
 
 ##### Artikel 3
 
-De commissie meldt de benadeelde binnen 8 weken nadat een aanvraag is gedaan of de aanvraag in behandeling wordt genomen.
+Vervallen
 
 ##### Artikel 4
 
@@ -72,17 +72,17 @@ De commissie meldt de benadeelde binnen 8 weken nadat een aanvraag is gedaan of 
 
 3. De voorzitter en de andere leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
-4. De Onafhankelijke Raadsman kan de vergaderingen van de commissie bijwonen teneinde de commissie te adviseren.
+4. De Nationale ombudsman en de Onafhankelijke Raadsman kunnen de vergaderingen van de commissie bijwonen teneinde de commissie te adviseren.
 
 ##### Artikel 5
 
-1. De commissie stelt haar eigen werkwijze schriftelijk vast.
+1. De commissie stelt haar werkwijze schriftelijk vast in afstemming met het Instituut.
 
-2. De minister voorziet in het secretariaat van de commissie.
+2. Het Instituut voorziet in het secretariaat van de commissie.
 
-3. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
+3. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken en Klimaat. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
 
-4. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+4. De commissie verstrekt desgevraagd aan het Instituut de voor de uitoefening van zijn taak benodigde inlichtingen. Het Instituut kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
 ##### Artikel 6
 
