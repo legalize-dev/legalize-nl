@@ -4,7 +4,7 @@ identifier: "BWBR0025968"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-15"
-last_updated: "2009-07-01"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025968"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders wordt aangewezen als 
 
 ##### Artikel 2
 
-Het Uitvoeringsinstituut Werknemersverzekeringen wordt aangewezen als het bestuursorgaan, bedoeld in [artikel 475g, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g).
+Vervallen
 
 ##### Artikel 3
 
