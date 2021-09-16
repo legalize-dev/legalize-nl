@@ -4,7 +4,7 @@ identifier: "BWBR0042449"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-13"
-last_updated: "2021-03-16"
+last_updated: "2021-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042449"
 soort: "ministeriele-regeling"
@@ -46,95 +46,59 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie Gezond en Veilig Werken van het ministerie van Sociale Zaken en Werkgelegenheid;
+- a. **directie:** de directie Gezond en Veilig Werken (G&VW) van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **directeur:** de directeur Gezond en Veilig Werken.
+- b. **directeur:** de directeur Gezond en Veilig Werken;
+
+- c. **MT:** het managementteam van de directie Gezond en Veilig Werken.
 
 #### § 2. Organisatie en taken
 
 ##### Artikel 2
 
-De directie bestaat uit de volgende afdelingen:
+1. De directie bestaat uit de volgende teams:
 
-- a. de afdeling Veilig Werken;
+- a. team A;
 
-- b. de afdeling Gezond Werken.
+- b. team B;
+
+- c. team C.
+
+2. Het MT wordt gevormd door de directeur en drie MT-leden. Het MT wordt ondersteund door de directiesecretaris.
 
 ##### Artikel 3
 
-Het hoofd van de afdeling Veilig Werken is verantwoordelijk voor:
+De directie G&VW is stelselverantwoordelijk voor arbeidsomstandigheden. De directie G&VW stelt kaders en stimuleert werknemers en werkgevers om gezonde en veilige arbeidsomstandigheden te creëren. Het MT is verantwoordelijk voor onder meer de volgende hoofdtaken:
 
-- a. het bevorderen van de preventie van arbeidsrisico’s op het taakgebied van de chemische veiligheid, de productveiligheid, de bouwveiligheid, arbeidsplaatsen en arbeidsmiddelen en stralingsbescherming;
+- a. de ontwikkeling van en advisering over het beleid op het gebied van gezond en veilig werken;
 
-- b. het ontwikkelen en implementeren van beleid gericht op het versterken van het veiligheidsbewustzijn en de veiligheidscultuur in bedrijven;
+- b. het stimuleren en faciliteren van werkgevers en werknemers om arbeidsrisico’s te voorkomen en/of te beheersen;
 
-- c. het bevorderen van de preventie van arbeidsongevallen en van zware ongevallen als gevolg van toxische wolk, brand en explosie;
+- c. het stimuleren en faciliteren van werkgevers en werknemers om een preventie- en verzuimbeleid te voeren gericht op inzetbaarheid van werkenden;
 
-- d. het ontwikkelen en implementeren van productveiligheidsbeleid op de werkplek in het kader van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
+- d. het uitvoeren van interventies die ingrijpen op gedrag en cultuur;
 
-- e. het met betrekking tot bovengenoemde terreinen:
+- e. het bijdragen aan modernisering van EU-regelgeving op het gebied van gezond en veilig werken (zoals de machinerichtlijn);
 
-- 1°. bevorderen van de naleving van wettelijke voorschriften;
+- f. kennisontwikkeling en -borging, signalering en monitoring op het gebied van arbeidsomstandigheden en verzuim;
 
-- 2°. ontwikkelen en onderhouden van normering in de regelgeving;
-
-- 3°. bevorderen van kennisontwikkeling bij werkgevers en werknemers;
-
-- 4°. leveren van bijdragen aan de ontwikkeling van (Europese) richtlijnen en de beïnvloeding van internationale agendasetting;
-
-- 5°. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet;
-
-- f. het verzamelen en interpreteren van informatie over blootstelling aan onveilige situaties, gevaarlijke producten en van ongevalsinformatie, via monitoring;
-
-- g. het algemeen beheer, coördineren en implementeren van wet- en regelgeving op het gebied van arbeidsomstandigheden;
-
-- h. het coördineren van het certificatie- en accreditatiebeleid binnen de directie;
-
-- i. het coördineren van de bijdragen aan de ontwikkeling van het programmatisch handhaven en van de daartoe te onderhouden in- en externe contacten vanuit de directie, in het bijzonder met de Inspectie SZW;
-
-- j. het coördineren van internationale aangelegenheden die de directie betreffen;
-
-- k. het coördineren van het administratieve lastendossier binnen de directie.
+- g. het bevorderen van de naleving van de wetgeving op het beleidsgebied.
 
 ##### Artikel 4
 
-Het hoofd van de afdeling Gezond Werken is verantwoordelijk voor:
-
-- a. het bevorderen van de preventie van arbeidsrisico’s op het taakgebied van stoffen, met name hoog-risico stoffen zoals opgenomen in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), van biologische agentia, van fysische agentia waaronder geluid, trillingen en straling, en van arbeidsrisico’s op het taakgebied van psychosociale arbeidsbelasting en fysieke belasting;
-
-- b. het monitoren van blootstelling aan gevaarlijke stoffen en van maatregelen om de risico’s te beheersen;
-
-- c. het bevorderen van de naleving van wettelijke voorschriften met betrekking tot de preventie van risico’s, genoemd in dit artikel;
-
-- d. het ontwikkelen en onderhouden van normeringaspecten in de regelgeving van de onderwerpen, bedoeld in onderdeel a;
-
-- e. het bevorderen van kennisontwikkeling bij werkgevers en werknemers op de onderwerpen, bedoeld in onderdeel a van dit artikel;
-
-- f. het leveren van bijdragen aan de ontwikkeling van (Europese) richtlijnen en de beïnvloeding van internationale agendasetting met betrekking tot de risico’s, genoemd in onderdeel a;
-
-- g. het coördineren van het certificatie- en accreditatiebeleid binnen de directie;
-
-- h. het borgen van voldoende deskundigheid ten behoeve van de beleidsinzet op de onderwerpen, bedoeld in de onderdelen a en f;
-
-- i. het algemeen beheer, coördineren en implementeren van wet- en regelgeving op het gebied van arbeidsomstandigheden en het ontwikkelen van beleid op het gebied van arbeids- en rusttijden;
-
-- j. het ontwikkelen van beleid voor groepen die bijzondere aandacht behoeven;
-
-- k. het stimuleren en bevorderen van de aansluiting tussen sociale zekerheid en zorg;
-
-- l. het bevorderen van preventie, verzuimbeleid en vroegtijdige re-integratie van werknemers, en van beleid gericht op vitaliteit en inzetbaarheid van werkenden.
+Vervallen
 
 #### § 3. Bevoegdheden
 
 ##### Artikel 5
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het MT-lid dat is aangewezen als plaatsvervangend directeur.
 
 ##### Artikel 6
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042449&paragraaf=2&artikel=2&z=2020-01-01&g=2021-03-16), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
+Aan de MT-leden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042449&paragraaf=2&artikel=2&z=2021-09-16&g=2021-09-16), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
-- a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatie-eenheid, voor zover het betreft:
+- a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van het eigen team, voor zover het betreft:
 
 - 1°. het opmaken en vaststellen van een beoordeling van medewerkers;
 
@@ -150,11 +114,11 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 ##### Artikel 7
 
-Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 15.000,– te tekenen. Dit geldt voor:
+Bij financiële uitgaven krijgen MT-leden de bevoegdheid om tot een bedrag van € 50.000,– (incl. BTW) te tekenen. Dit geldt voor:
 
-- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld voorafgaand zijn deze activiteiten door de directeur of plaatsvervanger geaccordeerd;
+- a. het organiseren en accorderen van activiteiten binnen hun eigen team voorafgaand zijn deze activiteiten door de directeur of plaatsvervanger geaccordeerd;
 
-- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde Bestedingsplan van de betreffende directie;
+- b. het accorderen van door de eigen team ingediende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het vastgestelde Bestedingsplan van de betreffende directie;
 
 - c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
