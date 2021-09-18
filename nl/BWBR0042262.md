@@ -4,7 +4,7 @@ identifier: "BWBR0042262"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-09-18"
-last_updated: "2020-01-01"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042262"
 soort: "AMvB"
@@ -114,7 +114,7 @@ Ambulante verplichte zorg omvat het:
 
 ##### Artikel 2.3
 
-In geval van ambulante verplichte zorg op grond van een crisismaatregel of een machtiging tot voortzetting van een crisismaatregel zijn [artikel 2.2, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&hoofdstuk=2&artikel=2.2&z=2020-01-01&g=2020-01-01), niet van toepassing.
+In geval van ambulante verplichte zorg op grond van een crisismaatregel of een machtiging tot voortzetting van een crisismaatregel zijn [artikel 2.2, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&hoofdstuk=2&artikel=2.2&z=2021-09-18&g=2021-09-18), niet van toepassing.
 
 ### Hoofdstuk 3. Gegevensverwerking
 
@@ -245,5 +245,21 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 8.2
 
 Dit besluit wordt aangehaald als: Besluit verplichte geestelijke gezondheidszorg.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3.2
+
+De gegevens, genoemd in [artikel 2, onderdelen a tot en met h, van het Besluit vorderen gegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017081&artikel=2), worden aangewezen als gegevens in de zin van [artikel 13:3a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=13:3a).
+
+### Hoofdstuk 4. Middelen en maatregelen waar het zorgplan niet in voorziet, ten aanzien van personen met een strafrechtelijke titel
+
+### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
+
+### Hoofdstuk 6. Patiëntenvertrouwenspersoon
+
+### Hoofdstuk 7. Aanpassing van andere besluiten
+
+### Hoofdstuk 8. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
