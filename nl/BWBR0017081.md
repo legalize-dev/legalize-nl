@@ -4,7 +4,7 @@ identifier: "BWBR0017081"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-09-18"
-last_updated: "2017-01-01"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017081"
 soort: "AMvB"
@@ -51,7 +51,7 @@ Treedt in werking op het tijdstip waarop de wet van 18 maart 2004 tot wijziging 
 
 In dit besluit wordt verstaan onder:
 
-- a. gebruiker: een gebruiker als bedoeld in [artikel 126n, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n);
+- a. gebruiker: een gebruiker als bedoeld in [artikel 138h van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138h);
 
 - b. nummer: een nummer als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1).
 
