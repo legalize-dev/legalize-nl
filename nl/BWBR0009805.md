@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-07-01"
+last_updated: "2021-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -309,7 +309,7 @@ U hoeft geen arbeid te verrichten op de algemeen erkende feestdagen zoals benoem
 
 (U heeft, binnen door de directeur te stellen grenzen, recht op aankoop van artikelen die niet in het assortiment van de penitentiaire inrichting te verkrijgen zijn / buitenwinkel)
 
-(aankoop gebruiksartikelen tot maximaal € 100,– in een week, inclusief telefoonkaarten mits voldoende saldo op rekening-courant)
+(aankoop van gebruiksartikelen tot maximaal € 100,– per week, en de aankoop van beltegoed tot maximaal € 25,– per week, waarbij voor alle aankopen geldt dat deze alleen mogelijk zijn mits voldoende saldo op de rekening-courant staat.)
 
 (het bedrag dat u in een week kunt uitgeven voor de aankoop van gebruiksartikelen is afhankelijk van de hoogte van het arbeidsloon of de loonvervangende financiële tegemoetkoming die u in die week ontvangt)
 
@@ -351,11 +351,19 @@ U kunt ten hoogste één keer per maand bezoek zonder toezicht ontvangen indien 
 
 - b. het bezoek draagt, naar het oordeel van de directeur, redelijkerwijs bij tot het behoud of het versterken van de banden tussen u en het beoogde bezoek, en is van belang voor de terugkeer van u in de samenleving;
 
-- c. de band tussen u en het beoogde bezoek is naar het oordeel van de directeur hecht en duurzaam;
+- c. de band tussen u en het beoogde bezoek is naar het oordeel van de directeur hecht en duurzaam, waarbij een band in beginsel als hecht en duurzaam heeft te gelden als een van de volgende documenten kan worden overlegd:
 
-- d. de belangen van de opsporing en vervolging van strafbare feiten verzetten zich niet tegen het beoogde bezoek.
+- –. een huwelijksakte;
 
-Zowel u als degene van wie het bezoek wordt beoogd moet een verzoek om bezoek zonder toezicht indienen bij de directeur. De directeur bepaalt of het bezoek zonder toezicht wordt toegestaan en de duur van het bezoek zonder toezicht. Het bezoek vindt plaats in een vertrek of een andere daartoe geschikt bevonden en ingerichte ruimte in de inrichting. Het bezoek zonder toezicht komt in de plaats van het gebruikelijke bezoek dat u in de desbetreffende week zou hebben ontvangen.
+- –. een notarieel samenlevingscontract;
+
+- –. een uittreksel uit het bevolkingsregister waaruit blijkt dat u en het beoogde bezoek voor aanvang van uw detentie op hetzelfde adres ingeschreven stond;
+
+- d. de belangen van de opsporing en vervolging van strafbare feiten verzetten zich niet tegen het beoogde bezoek;
+
+- e. u bent gepromoveerd.
+
+Zowel u als degene van wie het bezoek wordt beoogd moet een verzoek om bezoek zonder toezicht indienen bij de directeur. De directeur bepaalt of het bezoek zonder toezicht wordt toegestaan en de duur van het bezoek zonder toezicht. Het bezoek vindt plaats in een vertrek of een andere daartoe geschikt bevonden en ingerichte ruimte in de inrichting. Het bezoek zonder toezicht komt in de plaats van het gebruikelijke bezoek dat u in de desbetreffende week zou hebben ontvangen. Na het bezoek vindt in beginsel onderzoek aan het lichaam en kleding plaats. Onderzoek aan het lichaam omvat tevens het uitwendig schouwen van openingen en holten van het lichaam van de gedetineerde.
 
 **Nadere regelgeving**
 
@@ -817,6 +825,42 @@ Het is u niet toegestaan geld over te maken naar een andere gedetineerde.
 **Nadere regelgeving**
 
 - •. [Penitentiaire beginselenwet; art. 46](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46)
+
+Het is niet toegestaan contant geld in uw bezit te hebben. Uw contante geld wordt op een rekening-courant gezet.
+
+Op uw rekening-courant mag maximaal een bedrag van € 500,– staan. Indien het maximumbedrag op uw rekening-courant wordt overschreden wordt het bedrag boven de limiet naar het geblokkeerde gedeelte van uw rekening-courant overgeschreven. Het is niet toegestaan een negatief saldo te hebben op uw rekening-courant.
+
+Indien bij u of in een voor u bestemde brief vreemde valuta worden aangetroffen, worden deze voor u in de kas bewaard tot uw vertrek.
+
+Indien bij u of in een voor u bestemde brief euro’s worden aangetroffen, dan worden deze geboekt op uw rekening-courant, voor zover daarbij het maximaal toegestane saldo van € 500,– niet wordt overschreden. Het bedrag boven de limiet wordt naar het geblokkeerde gedeelte van uw rekening-courant overgeschreven.
+
+Het is alleen mogelijk voor een vaste contactpersoon, die tevens een ontheffing heeft van het Ministerie van Financiën, om als derde geld naar u over te schrijven. Wanneer een derde geld wil overschrijven naar uw rekening-courant, dient dit geld te worden gestort op de rekening van de PI waar u verblijft. Vervolgens zal de desbetreffende PI het geld beschikbaar stellen voor uw rekening. De afzender dient bij de overboeking het registratienummer en uw achternaam, voorletters en geboortedatum te vermelden. Zonder aanwezigheid van die gegevens wordt de storting niet verwerkt en wordt het geld teruggestort naar de afzender. Het maximale bedrag dat kan worden overgemaakt door de vaste contactpersoon met ontheffing is € 200,– per maand. Indien dit maximumbedrag wordt overschreden, wordt de betaling volledig teruggestort. Wanneer een derde, niet zijnde uw aangegeven contactpersoon, geld naar u overmaakt zal dit geld worden teruggestort en niet aan u ter beschikking worden gesteld.
+
+Financiële transacties kunnen aanleiding geven tot nader onderzoek.
+
+Indien u arbeidsloon ontvangt wordt deze wekelijks op uw rekening-courant gestort. Mocht u zak- en kleedgeld ontvangen zal de bestaande regeling en werkwijze met betrekking tot zak- en kleedgeld die door DJI wordt gehanteerd van toepassing zijn. Ook hier geldt dat het maximumbedrag op uw rekening-courant € 500,– is.
+
+Het saldo op uw rekening-courant kan uitsluitend worden gebruikt voor primaire levensbehoeften. Dit betreft onder meer het aanschaffen van boodschappen in de inrichtingswinkel (levensmiddelen, rookwaren et cetera), het huren van een televisie en het bekostigen van telefoneren via het telefoniesysteem in de inrichting. U kunt maximaal € 100,– per week besteden in de inrichtingswinkel.
+
+Als er sprake is van openstaande schulden, boeten of gerechtelijke bevelen jegens de Staat, mag DJI met uw toestemming deze betaalopdrachten namens u uitvoeren.
+
+Indien u geld uit het buitenland ontvangt is dit een financiële transactie.
+
+Het is niet toegestaan geld over te maken naar een andere gedetineerde.
+
+Op het moment van uw ontslag wordt, indien de [Sanctieregeling terrorisme 2007-II](https://wetten.overheid.nl/jci1.3:c:BWBR0023131) nog van toepassing op u is, uw positief saldo overgeboekt naar de bevroren rekening die u aanhoudt bij een in Nederland opererende bank. Het geld dat zich op het moment van uw ontslag in de kas bevindt wordt tevens overgeboekt naar deze bevroren rekening. Hiervan wordt melding gemaakt bij het Ministerie van Financiën.
+
+Op het moment van uw ontslag, en indien u niet langer onder de [Sanctieregeling terrorisme 2007-II](https://wetten.overheid.nl/jci1.3:c:BWBR0023131) valt, wordt het geld dat zich in de kas bevindt tot een bedrag van maximaal € 500,– contant meegegeven. Als het maximaal toegestane bedrag is bereikt wordt het overige geld gestort op:
+
+(een door u opgegeven bankrekeningnummer)
+
+**Nadere regelgeving**
+
+- •. [Penitentiaire beginselenwet; art 46](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46)
+
+- •. [Sanctieregeling terrorisme 2007-II; art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2)
+
+- •. [Sanctieregeling terrorisme 2007-II; art 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=3)
 
 **(Op de navolgende bepalingen en onderwerpen na, aan de directeur)**
 
@@ -1286,7 +1330,7 @@ De Commissie van Toezicht stelt zich door persoonlijk contact met de gedetineerd
 
 **(Op de navolgende bepalingen na, aan de directeur)**
 
-De beklagcommissie bestaat uit drie leden van de Commissie van Toezicht en een secretaris.
+De beklagcommissie bestaat uit drie leden van de Commissie van Toezicht en een secretaris. U kunt bij de beklagcommissie een grief indienen over de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens u heeft gedragen of een bij of krachtens de Penitentiaire beginselenwet gestelde zorgplicht heeft betracht, zie paragraaf 12.
 
 U kunt bij de beklagcommissie beklag doen over een u betreffende door of namens de directeur genomen beslissing, zie hoofdstuk 12.
 
@@ -1296,7 +1340,7 @@ De beklagcommissie kan, indien zij uw klacht gegrond acht, onder meer de besliss
 
 **Nadere regelgeving**
 
-- •. [Penitentiaire beginselenwet; art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=7), [art. 60 tot en met art. 68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60)
+- •. [Penitentiaire beginselenwet; art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=7), [art. 59a tot en met art. 68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60)
 
 - •. [Penitentiaire maatregel; art. 12 tot en met art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=12)
 
@@ -1361,6 +1405,26 @@ Indien u voorafgaande aan de beslissing van de selectiefunctionaris in de gelege
 **Nadere regelgeving**
 
 - •. [Penitentiaire beginselenwet; art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=17)
+
+U kunt een verzoek tot bemiddeling indienen bij de commissie van toezicht indien:
+
+- –. u het niet eens bent met de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens u heeft gedragen;
+
+- –. u meent dat de directeur een zorgplicht jegens u niet heeft betracht;
+
+- –. u het niet eens bent met een door of namens de directeur genomen beslissing die u betreft.
+
+Als de grief een beslissing betreft waartegen beklag openstaat, dient dit verzoek tot bemiddeling uiterlijk op de zevende dag nadat u kennis heeft gekregen van die beslissing te worden ingediend.
+
+De commissie van toezicht streeft ernaar binnen vier weken een voor u en de directeur aanvaardbare oplossing te bereiken. De commissie van toezicht stelt u en de directeur in de gelegenheid, al dan niet in elkaars tegenwoordigheid, de standpunten mondeling toe te lichten. Indien u de Nederlandse taal niet voldoende beheerst, draagt de commissie van toezicht zorg voor de bijstand van een tolk.
+
+De commissie van toezicht legt de resultaten van de bemiddeling neer in een schriftelijke mededeling en zendt dan wel reikt deze uit aan u en de directeur. Indien u de Nederlandse taal niet voldoende begrijpt, draagt de commissie van toezicht zorg voor een vertaling van de mededeling.
+
+Indien u bemiddeling heeft gevraagd van een beklagwaardige beslissing van de directeur, dient u uiterlijk op de zevende dag nadat u kennis heeft gekregen van resultaten van de commissie van toezicht beklag in te dienen.
+
+**Nadere regelgeving**
+
+- •. [Penitentiaire beginselenwet; art. 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=59a)
 
 **(Op de navolgende bepalingen en onderwerpen na, aan de directeur)**
 
@@ -1440,27 +1504,27 @@ U kunt de voorzitter van de beroepscommissie van de Raad voor strafrechtstoepass
 
 U kunt een met redenen omkleed beroepschrift indienen tegen het medisch handelen van de inrichtingsarts, de verpleegkundige dan wel andere hulpverleners die door de inrichtingsarts bij de zorg aan u waren betrokken, de tandarts en de psychiater.
 
-Voordat u een beroepschrift kunt indienen dient u eerst een schriftelijk verzoek aan de Medisch Adviseur bij het ministerie van Veiligheid en Justitie te richten om te bemiddelen ter zake van de klacht. Dit verzoek dient u uiterlijk op de veertiende dag na die waarop het beklaagde medisch handelen heeft plaatsgevonden in te dienen.
+Voordat u een beroepschrift kunt indienen bij de Raad voor de Strafrechtstoepassing en Jeugdbescherming dient u uiterlijk op de veertiende dag nadat het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden uw klacht in bij het hoofd zorg. Het hoofd zorg of het plaatsvervangend hoofd zorg nodigt u binnen 3 weken uit voor een bemiddelingsgesprek. Dit gesprek kan verschillende uitkomsten voor uw klacht hebben, namelijk:
 
-U dient uw verzoek om bemiddeling aan de Medisch Adviseur zo snel mogelijk na het plaatsvinden van de gebeurtenis in te dienen bij het Hoofd Medische Dienst (HMD).
+- –. u trekt uw klacht in omdat u tevreden bent over de afhandeling van uw klacht door het (plv.) hoofd zorg;
 
-Het HMD zal met u in overleg treden over uw klacht. Als dit gesprek niet tot een oplossing leidt, zal het HMD uw klacht:
+- –. uw klacht gaat rechtstreeks naar de commissie van toezicht indien deze van organisatorische aard is;
 
-- –. doorsturen naar de Commissie van Toezicht als uw klacht betrekking heeft op de organisatie van de medische zorg;
+- –. u wilt geen gebruik maken van voorbemiddeling door het (plv.) hoofd zorg. U kunt dit duidelijk maken tijdens uw gesprek. De klacht wordt daarna verzonden aan de medisch adviseur of tandheelkundig adviseur bij het Ministerie van Justitie en Veiligheid;
 
-- –. doorsturen naar de Medisch Adviseur als uw klacht betrekking heeft op medisch handelen.
+- –. u wilt de klacht doorzetten naar de medisch adviseur of tandheelkundig adviseur bij het Ministerie van Justitie en Veiligheid.
 
-De Medisch Adviseur streeft ernaar binnen vier weken een voor beide partijen aanvaardbare oplossing te bereiken. De Medisch Adviseur sluit de bemiddeling af met een mededeling van zijn bevindingen aan u, de arts of de verpleegkundige of de andere hulpverlener die bij de zorg aan u was betrokken en de directeur.
+Indien u geen gebruik wilt maken van voorbemiddeling door het (plv.) hoofd zorg of uw klacht wilt doorzetten wordt uw klacht door de medisch adviseur of tandheelkundig adviseur bij het Ministerie van Justitie en Veiligheid behandeld.
 
-Pas indien u het niet eens bent met de mededeling van de Medisch Adviseur kunt u een met redenen omkleed beroepschrift indienen.
+De medisch adviseur of tandheelkundig adviseur streeft er naar binnen 4 weken na ontvangst van uw klacht een bemiddelingsadvies uitbrengen. De medisch adviseur of tandheelkundig adviseur overlegt dit advies aan u, de arts of de verpleegkundige of de andere hulpverlener die bij de zorg aan u was betrokken en de directeur. De directeur ontvangt slechts een conclusie van het advies waarbij uw medische informatie niet wordt overlegd.
 
-Het beroepschrift dient uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de mededeling van de Medisch Adviseur te worden ingediend.
+Pas indien u het niet eens bent met het advies van de medisch adviseur of tandheelkundig adviseur kunt u een met redenen omkleed beroepschrift indienen bij de RSJ. Het beroepschrift dient uiterlijk binnen 7 dagen na de ontvangst van het advies van de medisch adviseur of tandheelkundig adviseur te worden ingediend.
 
 (hoe en bij wie indienen beroepschrift; kan door tussenkomst directeur)
 
 **Nadere regelgeving**
 
-- •. [Penitentiaire maatregel; art. 28 tot en met art. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=28)
+- •. [Penitentiaire beginselenwet; art. 71c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71c)
 
 **(Op de navolgende onderwerpen en bepalingen na, aan de directeur)**
 
