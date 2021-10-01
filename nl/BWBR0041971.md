@@ -4,7 +4,7 @@ identifier: "BWBR0041971"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2019-03-09"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041971"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **politiegegevens over toezicht:** politiegegevens die betrekking hebben op het toezicht op de naleving van wetgeving of de uitvoering van wettelijke voorschriften;
 
-- h. **domein:** het in de akte vermelde maatschappelijke deelterrein waarop de buitengewoon opsporingsambtenaar werkzaam is, als aangewezen in de domeinlijsten I tot en met VI van de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
+- h. **domein:** het in de akte vermelde maatschappelijke deelterrein waarop de buitengewoon opsporingsambtenaar werkzaam is, als aangewezen in de domeinlijsten zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
 ##### Artikel 2. Van overeenkomstige toepassing verklaring
 
