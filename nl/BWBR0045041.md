@@ -4,7 +4,7 @@ identifier: "BWBR0045041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-08-28"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045041"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) of [artikel 1.1.1, onderdeel w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **leerling:** leerling als bedoeld in [artikel 7 van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7) of [artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2) die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven;
+- **leerling:** leerling als bedoeld in [artikel 8 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8) of [artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2) die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven;
 
 - **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
@@ -68,9 +68,9 @@ De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2
 
 In 2021 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 795,06 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-08-28&g=2021-08-28); en
+- a. € 795,06 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-10-01&g=2021-10-01); en
 
-- b. € 21,00 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-08-28&g=2021-08-28).
+- b. € 21,00 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -94,9 +94,9 @@ In 2021 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-08-28&g=2021-08-28), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-10-01&g=2021-10-01), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-08-28&g=2021-08-28) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2021-10-01&g=2021-10-01) bedoelde doelen.
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -112,6 +112,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Omhangbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust op [artikel 82 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
