@@ -4,7 +4,7 @@ identifier: "BWBR0028393"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028393"
 soort: "wet-BES"
@@ -324,7 +324,7 @@ Een overeenkomst met betrekking tot een studielening gesloten tussen een student
 
 **aanvraag:** schriftelijk verzoek tot het nemen van een besluit,
 
-**achterstallige schuld**: achterstallige schuld als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.8&z=2021-01-01&g=2021-01-01),
+**achterstallige schuld**: achterstallige schuld als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.8&z=2021-10-01&g=2021-10-01),
 
 **afsluitend examen**:
 
@@ -332,7 +332,7 @@ Een overeenkomst met betrekking tot een studielening gesloten tussen een student
 
 - b. het examen, bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a), en
 
-- c. het met onderdeel a of b vergelijkbare examen van een opleiding waarvoor criteria zijn vastgesteld bij ministeriële regeling,
+- c. het met onderdeel a of b vergelijkbare examen van een vergelijkbare opleiding beroepsonderwijs of hoger onderwijs,
 
 **ander openbaar lichaam:** het openbaar lichaam waar de student een opleiding volgt, niet zijnde het openbaar lichaam waar de ouders van de student wonen of een van diens ouders woont,
 
@@ -344,15 +344,15 @@ Een overeenkomst met betrekking tot een studielening gesloten tussen een student
 
 - a. beroepsonderwijs in de zin van [artikel 7.2.6, derde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.6), en
 
-- b. onderwijs waarvoor criteria zijn vastgesteld bij ministeriële regeling,
+- b. vergelijkbaar beroepsonderwijs,
 
 **beroepsopleiding:**
 
 - a. op grond van [artikel 1.4.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.4.1) erkende beroepsopleiding, en
 
-- b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a, waarvoor criteria zijn vastgesteld bij ministeriële regeling,
+- b. vergelijkbaar beroepsonderwijs,
 
-**debiteur**: degene die zich krachtens [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.2&z=2021-01-01&g=2021-01-01) heeft verplicht tot terugbetaling,
+**debiteur**: degene die zich krachtens [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.2&z=2021-10-01&g=2021-10-01) heeft verplicht tot terugbetaling,
 
 **diplomatermijn beroepsonderwijs**: periode van tien jaren die aanvangt op de eerste dag van de maand waarover voor het eerst prestatiebeurs is toegekend voor het volgen van beroepsonderwijs,
 
@@ -364,7 +364,7 @@ Een overeenkomst met betrekking tot een studielening gesloten tussen een student
 
 - a. wetenschappelijk onderwijs en hoger beroepsonderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), en
 
-- b. wetenschappelijk onderwijs en hoger beroepsonderwijs waarvoor criteria zijn vastgesteld bij ministeriële regeling,
+- b. vergelijkbaar hoger onderwijs,
 
 **ho-student**: degene die hoger onderwijs volgt, niet zijnde een extraneus,
 
@@ -398,23 +398,27 @@ Een overeenkomst met betrekking tot een studielening gesloten tussen een student
 
 **studiejaar**:
 
-- 1°. in het beroepsonderwijs: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,
+- a. in het beroepsonderwijs: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,
 
-- 2°. in het hoger onderwijs: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,
+- b. in het hoger onderwijs: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,
 
-- 3°. voor opleidingen waarvoor criteria zijn vastgesteld bij ministeriële regeling: tijdvak zoals gehanteerd door de instellingen die deze opleidingen verzorgen,
+- c. voor vergelijkbaar beroepsonderwijs of hoger onderwijs: tijdvak zoals gehanteerd door de instellingen die de betreffende opleidingen verzorgen,
 
-**termijnbetaling**: bedrag als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-01-01&g=2021-01-01),
+**termijnbetaling**: bedrag als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-10-01&g=2021-10-01),
+
+**vergelijkbaar beroepsonderwijs**: vergelijkbaar beroepsonderwijs in de zin van [artikel 2.9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2021-10-01&g=2021-10-01),
+
+**vergelijkbaar hoger onderwijs**: vergelijkbaar hoger onderwijs in de zin van [artikel 2.9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2021-10-01&g=2021-10-01),
 
 **voltijdse opleiding**:
 
-- 1°. opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met uitzondering van deeltijds onderwijs,
+- a. opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met uitzondering van deeltijds onderwijs,
 
-- 2°. opleiding die vergelijkbaar is met een opleiding als bedoeld onder 1° waarvoor criteria zijn vastgesteld bij ministeriële regeling,
+- b. vergelijkbaar hoger onderwijs,
 
 **WSF 2000**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. Onder voltijdse opleiding wordt mede verstaan een duale opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of een daarmee vergelijkbare opleiding waarvoor criteria zijn vastgesteld bij ministeriële regeling.
+2. Onder voltijdse opleiding wordt mede verstaan een duale opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of vergelijkbaar hoger onderwijs.
 
 ##### Artikel 1.2. Peildatum
 
@@ -424,11 +428,11 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet is bepalend de toe
 
 Deze wet regelt de studiefinanciering BES en de opstarttoelage en is van toepassing op studenten die voldoen aan de voorwaarden inzake:
 
-- a. nationaliteit of woonplaats als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.4&z=2021-01-01&g=2021-01-01),
+- a. nationaliteit of woonplaats als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.4&z=2021-10-01&g=2021-10-01),
 
-- b. leeftijd als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.5&z=2021-01-01&g=2021-01-01), en
+- b. leeftijd als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.5&z=2021-10-01&g=2021-10-01), en
 
-- c. onderwijssoort als bedoeld in [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&z=2021-01-01&g=2021-01-01).
+- c. onderwijssoort als bedoeld in [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 1.4. Nationaliteit en woonplaats
 
@@ -470,7 +474,7 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 2. De bedragen inzake de studiefinanciering BES zijn afhankelijk van het onderwijstype en de plaats van de opleiding.
 
-3. De bedragen zijn opgenomen in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+3. De bedragen zijn opgenomen in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
 #### Paragraaf 2.2. Bedragen
 
@@ -554,29 +558,29 @@ Met ingang van 1 januari 2021:
 
 1. Studiefinanciering BES wordt aan mbo-studenten aan opleidingen niveau 1 of 2 gedurende maximaal 4 jaren verstrekt in de vorm van een gift.
 
-2. Als onderdeel van de studiefinanciering BES kan aan deze mbo-studenten tevens een lening worden verstrekt. Het bedrag dat per maand kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+2. Als onderdeel van de studiefinanciering BES kan aan deze mbo-studenten tevens een lening worden verstrekt. Het bedrag dat per maand kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
-3. Studiefinanciering BES wordt aan deze mbo-studenten gedurende maximaal 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend is opgenomen in kolom V van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+3. Studiefinanciering BES wordt aan deze mbo-studenten gedurende maximaal 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend is opgenomen in kolom V van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 2.7. Vorm en duur studiefinanciering BES beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs; vorm opstarttoelage
 
 1. Studiefinanciering BES wordt aan studenten aan een opleiding niveau 3 of 4 en hoger onderwijs gedurende maximaal 4 jaren verstrekt in de vorm van een prestatiebeurs.
 
-2. Als onderdeel van de studiefinanciering BES aan deze studenten kan tevens gedurende de periode, bedoeld in het eerste lid, een lening worden verstrekt. Het bedrag dat per maand kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+2. Als onderdeel van de studiefinanciering BES aan deze studenten kan tevens gedurende de periode, bedoeld in het eerste lid, een lening worden verstrekt. Het bedrag dat per maand kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
-3. Studiefinanciering BES aan deze studenten wordt gedurende maximaal 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend is opgenomen in kolom V van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+3. Studiefinanciering BES aan deze studenten wordt gedurende maximaal 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend is opgenomen in kolom V van het overzicht in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
 4. De opstarttoelage aan studenten in de zin van de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) die een opleiding niveau 3 of 4 of hoger onderwijs in het Europese deel van Nederland volgen, wordt eenmalig verstrekt in de vorm van een prestatiebeurs.
 
-5. Als onderdeel van de opstarttoelage kan een lening worden verstrekt. Het bedrag dat kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01).
+5. Als onderdeel van de opstarttoelage kan een lening worden verstrekt. Het bedrag dat kan worden geleend is opgenomen in kolom IV van het overzicht in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 2.8. Studiefinanciering BES in geval van bijzondere omstandigheden
 
 Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke bijzondere omstandigheden, onder welke voorwaarden en voor welke periode:
 
-- a. in afwijking van [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.4&artikel=2.7&z=2021-01-01&g=2021-01-01), de duur van de prestatiebeurs kan worden verlengd,
+- a. in afwijking van [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.4&artikel=2.7&z=2021-10-01&g=2021-10-01), de duur van de prestatiebeurs kan worden verlengd,
 
-- b. in afwijking van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&z=2021-01-01&g=2021-01-01), de prestatiebeurs kan worden omgezet in een gift,
+- b. in afwijking van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&z=2021-10-01&g=2021-10-01), de prestatiebeurs kan worden omgezet in een gift,
 
 - c. de diplomatermijn beroepsonderwijs of de diplomatermijn hoger onderwijs kan worden verlengd, of
 
@@ -588,9 +592,11 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke bijz
 
 1. Voor studiefinanciering BES kan in aanmerking komen degene die is ingeschreven
 
-- a. als mbo-student aan een instelling die een beroepsopleiding verzorgt, of
+- a. als mbo-student aan een instelling die een beroepsopleiding verzorgt,
 
-- b. als ho-student aan een instelling die een associate degree-opleiding, bacheloropleiding of masteropleiding verzorgt.
+- b. als ho-student aan een instelling die een associate degree-opleiding, bacheloropleiding of masteropleiding verzorgt, of
+
+- c. als mbo- of ho-student voor beroepsonderwijs of hoger onderwijs anders dan het onderwijs in de zin van de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) waarvoor criteria zijn vastgesteld bij ministeriële regeling.
 
 2. Voor een opstarttoelage kan in aanmerking komen degene die aannemelijk kan maken dat hij in het Europese deel van Nederland een opleiding niveau 3 of 4 als bedoeld in [artikel 1.1, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1) of hoger onderwijs gaat volgen.
 
@@ -606,9 +612,9 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke bijz
 
 - d. indien hij in het betreffende studiefinancieringstijdvak aanspraak maakt op een tegemoetkoming in de kosten van levensonderhoud, studie, overtocht en huisvesting die door de daarvoor verantwoordelijke autoriteit van een ander land wordt verstrekt.
 
-2. De aanspraak op de opstarttoelage vervalt indien de student niet binnen een termijn van 2 maanden na aanvang van de betreffende opleiding is ingeschreven voor het volgen van het onderwijs, bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2021-01-01&g=2021-01-01).
+2. De aanspraak op de opstarttoelage vervalt indien de student niet binnen een termijn van 2 maanden na aanvang van de betreffende opleiding is ingeschreven voor het volgen van het onderwijs, bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2021-10-01&g=2021-10-01).
 
-3. De aanspraak van een student die een opleiding volgt als vastgesteld bij ministeriële regeling, vervalt over het tijdvak waarover hij de inlichtingen, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-01-01&g=2021-01-01), niet verstrekt. Zolang hij die inlichtingen over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering BES voor de daarop volgende studiejaren. Indien hij die inlichtingen alsnog verstrekt, herleeft de aanspraak over de periode waarop de inlichtingen betrekking hebben.
+3. De aanspraak van een student die vergelijkbaar beroepsonderwijs of hoger onderwijs volgt, vervalt over het tijdvak waarover hij de inlichtingen, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-10-01&g=2021-10-01), niet verstrekt. Zolang hij die inlichtingen over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering BES voor de daarop volgende studiejaren. Indien hij die inlichtingen alsnog verstrekt, herleeft de aanspraak over de periode waarop de inlichtingen betrekking hebben.
 
 ##### Artikel 2.11. Geen aanspraak meer op studiefinanciering BES beroepsonderwijs
 
@@ -624,7 +630,7 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke bijz
 
 2. Indien de mbo-student aansluitend aan het afrondende studiejaar, opnieuw begint aan dat afrondende studiejaar zonder dat dat studiejaar met goed gevolg was afgesloten, ontstaat aanspraak op studiefinanciering BES voor het resterende gedeelte van het kalenderjaar.
 
-3. Indien de mbo-student na zijn uitschrijving in juli per 1 september daaropvolgend hoger onderwijs in de zin van deze wet gaat volgen, blijft op zijn aanvraag de aanspraak op studiefinanciering in de maand augustus bestaan. Hij wordt in die periode aangemerkt als mbo-student aan de eerste opleiding. In afwijking van [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2021-01-01&g=2021-01-01), kan de aanvraag in het daarop volgende studiejaar worden ingediend.
+3. Indien de mbo-student na zijn uitschrijving in juli per 1 september daaropvolgend hoger onderwijs in de zin van deze wet gaat volgen, blijft op zijn aanvraag de aanspraak op studiefinanciering in de maand augustus bestaan. Hij wordt in die periode aangemerkt als mbo-student aan de eerste opleiding. In afwijking van [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2021-10-01&g=2021-10-01), kan de aanvraag in het daarop volgende studiejaar worden ingediend.
 
 ##### Artikel 2.13. Geen aanspraak bij samenloop beroepsonderwijs en hoger onderwijs
 
@@ -670,17 +676,19 @@ Bij omzetting van een prestatiebeurs of een deel daarvan in een gift gaat de ove
 
 1. Indien een student met goed gevolg het afsluitend examen heeft behaald van een opleiding waarvan de studielast is gebaseerd op een periode van minder dan 4 jaren, wordt het aantal om te zetten maanden van zijn prestatiebeurs met dit verschil verminderd.
 
-2. Indien een ho-student een aanvraag als bedoeld in [artikel 3.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-01-01&g=2021-01-01), heeft ingediend, wordt het aantal maanden, bedoeld in het eerste lid, van de aan hem toegekende prestatiebeurs omgezet in een gift.
+2. Indien een ho-student een aanvraag als bedoeld in [artikel 3.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-10-01&g=2021-10-01), heeft ingediend, wordt het aantal maanden, bedoeld in het eerste lid, van de aan hem toegekende prestatiebeurs omgezet in een gift.
 
 ##### Artikel 3.5. Berichtenstroom tussen student buiten een openbaar lichaam en Onze Minister
 
-1. Een student aan een opleiding buiten een openbaar lichaam zendt uiterlijk 3 maanden na het verstrijken van de diplomatermijn beroepsonderwijs of de diplomatermijn hoger onderwijs, een gewaarmerkt bewijs van het met goed gevolg afleggen van het afsluitend examen van de opleiding in het beroepsonderwijs of het hoger onderwijs buiten een openbaar lichaam aan Onze Minister en dient daarbij een aanvraag in tot omzetting van de prestatiebeurs. Op het gewaarmerkt bewijs vermeldt de instelling de datum waarop het examen met goed gevolg is afgesloten.
+1. Een student aan een opleiding buiten Nederland zendt uiterlijk 3 maanden na het verstrijken van de diplomatermijn beroepsonderwijs of de diplomatermijn hoger onderwijs, een gewaarmerkt bewijs van het met goed gevolg afleggen van het afsluitend examen van diens opleiding buiten Nederland aan Onze Minister en dient daarbij een aanvraag in tot omzetting van de prestatiebeurs. Op het gewaarmerkt bewijs vermeldt de instelling de datum waarop het examen met goed gevolg is afgesloten.
 
 2. De omzetting, bedoeld in het eerste lid vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag. Zo spoedig mogelijk na de omzetting stelt Onze Minister de student daarvan in kennis.
 
+3. Tot een bij koninklijk besluit te bepalen tijdstip wordt in het eerste lid voor «buiten Nederland» gelezen «buiten het Europese deel van Nederland».
+
 ##### Artikel 3.6. Inschrijving bij opleidingen buiten een openbaar lichaam
 
-1. Een student aan een opleiding waarvoor Onze Minister criteria heeft vastgesteld als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.1&z=2021-01-01&g=2021-01-01), verstrekt jaarlijks binnen een door Onze Minister te bepalen termijn aan Onze Minister een gewaarmerkt afschrift van het bewijs waaruit blijkt voor welke maanden van het desbetreffende studiejaar hij is ingeschreven voor de opleiding waarvoor hij studiefinanciering BES heeft aangevraagd of geniet.
+1. Een student aan vergelijkbaar beroepsonderwijs of hoger onderwijs verstrekt jaarlijks binnen een door Onze Minister te bepalen termijn aan Onze Minister een gewaarmerkt afschrift van het bewijs waaruit blijkt voor welke maanden van het desbetreffende studiejaar hij is ingeschreven voor de opleiding waarvoor hij studiefinanciering BES heeft aangevraagd of geniet.
 
 2. Indien de opleiding geen bewijs van inschrijving verstrekt, maakt de student op een ander wijze aannemelijk dat hij staat ingeschreven voor de desbetreffende opleiding.
 
@@ -704,7 +712,7 @@ Indien noodzakelijk kunnen in afwijking van het in dit hoofdstuk bepaalde bij mi
 
 ##### Artikel 4.2. Verplichting debiteur terugbetaling studieschuld
 
-Ontvangst van een lening of omzetting in een lening, of omzetting als bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.13&z=2021-01-01&g=2021-01-01), verplicht degene die studiefinanciering BES of een opstarttoelage heeft ontvangen tot terugbetaling van de lening vermeerderd met de volgens dit hoofdstuk berekende rente.
+Ontvangst van een lening of omzetting in een lening, of omzetting als bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.13&z=2021-10-01&g=2021-10-01), verplicht degene die studiefinanciering BES of een opstarttoelage heeft ontvangen tot terugbetaling van de lening vermeerderd met de volgens dit hoofdstuk berekende rente.
 
 ##### Artikel 4.3. Vaststelling rentepercentage
 
@@ -712,11 +720,11 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 ##### Artikel 4.4. Renteberekening
 
-1. Over de aangegane leningen is, voor zover het niet betreft achterstallige schuld als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.8&z=2021-01-01&g=2021-01-01), rente verschuldigd overeenkomstig het tweede en derde lid. De renteberekening gaat in op de eerste dag van de maand die volgt op de dag waarop het bedrag aan lening bij de verstrekker van die lening is afgeschreven.
+1. Over de aangegane leningen is, voor zover het niet betreft achterstallige schuld als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.8&z=2021-10-01&g=2021-10-01), rente verschuldigd overeenkomstig het tweede en derde lid. De renteberekening gaat in op de eerste dag van de maand die volgt op de dag waarop het bedrag aan lening bij de verstrekker van die lening is afgeschreven.
 
 2. De rente over de leningen wordt berekend per dag op basis van samengestelde interest en wordt bijgeschreven bij de hoofdsom.
 
-3. Bij de berekening van de rente, bedoeld in het eerste en tweede lid, wordt voor elk kalenderjaar het rentepercentage gehanteerd dat in het voorafgaande jaar op grond van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.3&z=2021-01-01&g=2021-01-01) is vastgesteld.
+3. Bij de berekening van de rente, bedoeld in het eerste en tweede lid, wordt voor elk kalenderjaar het rentepercentage gehanteerd dat in het voorafgaande jaar op grond van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.3&z=2021-10-01&g=2021-10-01) is vastgesteld.
 
 4. Voor de berekening van de rente op de voet van het tweede lid wordt een maand gesteld op 30 dagen en een jaar gesteld op 360 dagen.
 
@@ -738,7 +746,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 ##### Artikel 4.7. Aflosfase
 
-1. De aflosfase beslaat behoudens toepassing van [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-01-01&g=2021-01-01), 15 kalenderjaren volgend op de aanloopfase. Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de aflosvrije periode op grond van het tweede lid.
+1. De aflosfase beslaat behoudens toepassing van [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-10-01&g=2021-10-01), 15 kalenderjaren volgend op de aanloopfase. Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de aflosvrije periode op grond van het tweede lid.
 
 2. Op aanvraag van de debiteur wordt de terugbetaling voor ten hoogste 5 kalenderjaren opgeschort.
 
@@ -750,9 +758,9 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 2. Over de achterstallige schuld is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengesteld interest, waarbij een maand wordt gesteld op 30 dagen en een jaar wordt gesteld op 360 dagen.
 
-3. Indien de debiteur achterstallig is bij de betaling wordt met deze achterstallige schuld bij de duur van de aflosfase, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.7&z=2021-01-01&g=2021-01-01), bij de vaststelling van de termijnbetaling, alsmede bij het tenietgaan van de schuld, bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.12&z=2021-01-01&g=2021-01-01), geen rekening gehouden.
+3. Indien de debiteur achterstallig is bij de betaling wordt met deze achterstallige schuld bij de duur van de aflosfase, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.7&z=2021-10-01&g=2021-10-01), bij de vaststelling van de termijnbetaling, alsmede bij het tenietgaan van de schuld, bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.12&z=2021-10-01&g=2021-10-01), geen rekening gehouden.
 
-4. [Artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.4&z=2021-01-01&g=2021-01-01) is niet van toepassing.
+4. [Artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.4&z=2021-10-01&g=2021-10-01) is niet van toepassing.
 
 ##### Artikel 4.9. Vaststelling en aflossing termijnbetalingen
 
@@ -760,7 +768,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 2. De hoogte van de maandelijkse termijnbetalingen wordt op basis van het aantal maanden van de aflosfase onderscheidenlijk het nog resterende aantal maanden van de aflosfase tot gelijke bedragen vastgesteld bij de aanvang van ieder jaar van de aflosfase.
 
-3. Onverminderd toepassing van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.10&z=2021-01-01&g=2021-01-01) bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen ten minste USD 545.
+3. Onverminderd toepassing van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.10&z=2021-10-01&g=2021-10-01) bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen ten minste USD 545.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de vaststelling en betaling van de termijnbetalingen. Hierbij kan tevens worden bepaald dat betaling geschiedt door middel van een daartoe verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bankrekening.
 
@@ -796,7 +804,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 1. Op het ogenblik van beëindiging van het recht op studiefinanciering BES van een student wordt zijn schuld, ontstaan in het kader van de toepassing van deze wet, van rechtswege omgezet in een lening. Op het ogenblik van beëindiging van het recht op studiefinanciering op grond van de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) wordt de schuld van een student met betrekking tot de opstarttoelage van rechtswege omgezet in een lening.
 
-2. Indien na beëindiging van het recht op studiefinanciering BES of studiefinanciering op grond van de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) door een beschikking op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-01-01&g=2021-01-01) een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de student is opgehouden studiefinanciering BES of studiefinanciering op grond van de WSF 2000 te genieten. Indien de omzetting plaatsvindt in het kalenderjaar waarin de student ophoudt student te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. [Artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.4&z=2021-01-01&g=2021-01-01), is bij de berekening van rente van overeenkomstige toepassing.
+2. Indien na beëindiging van het recht op studiefinanciering BES of studiefinanciering op grond van de [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) door een beschikking op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-10-01&g=2021-10-01) een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de student is opgehouden studiefinanciering BES of studiefinanciering op grond van de WSF 2000 te genieten. Indien de omzetting plaatsvindt in het kalenderjaar waarin de student ophoudt student te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. [Artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.4&z=2021-10-01&g=2021-10-01), is bij de berekening van rente van overeenkomstige toepassing.
 
 3. De in het eerste of tweede lid bedoelde lening wordt rentedragend met ingang van het tijdstip van de daar bedoelde omzetting.
 
@@ -818,7 +826,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 - f. de hoogte van de lening wordt vastgesteld of gewijzigd, of
 
-- g. studiefinanciering BES of opstarttoelage ingevolge [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) is geweigerd of stopgezet.
+- g. studiefinanciering BES of opstarttoelage ingevolge [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) is geweigerd of stopgezet.
 
 2. Herziening vindt plaats op grond van het feit dat:
 
@@ -828,7 +836,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 - c. betrokkene heeft gehandeld in strijd met het bepaalde bij of krachtens deze wet,
 
-- d. achteraf is gebleken van feiten of omstandigheden, die, waren zij eerder bekend geweest, niet tot toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) zouden hebben geleid, of
+- d. achteraf is gebleken van feiten of omstandigheden, die, waren zij eerder bekend geweest, niet tot toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) zouden hebben geleid, of
 
 - e. andere, nader gebleken feiten of omstandigheden, die, waren zij eerder bekend geweest, tot een andere beschikking zouden hebben geleid.
 
@@ -852,11 +860,11 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 ##### Artikel 5.2. Verrekening teveel toegekende en uitbetaalde studiefinanciering BES of opstarttoelage
 
-1. Indien een herzieningsbeschikking als bedoeld in [artikel 5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-01-01&g=2021-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de beurs dat teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend.
+1. Indien een herzieningsbeschikking als bedoeld in [artikel 5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-10-01&g=2021-10-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de beurs dat teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend.
 
-2. Indien een herzieningsbeschikking als bedoeld in [artikel 5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-01-01&g=2021-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voor zover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
+2. Indien een herzieningsbeschikking als bedoeld in [artikel 5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=5&artikel=5.1&z=2021-10-01&g=2021-10-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voor zover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
 
-3. De in het eerste en tweede lid bedoelde terugbetaling, voor zover [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.13&z=2021-01-01&g=2021-01-01) niet van toepassing is, en verrekening geschieden overeenkomstig bij ministeriële regeling vast te stellen redelijke terugbetalingsregels.
+3. De in het eerste en tweede lid bedoelde terugbetaling, voor zover [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.13&z=2021-10-01&g=2021-10-01) niet van toepassing is, en verrekening geschieden overeenkomstig bij ministeriële regeling vast te stellen redelijke terugbetalingsregels.
 
 ### Hoofdstuk 6. Uitbetaling en invordering
 
@@ -916,7 +924,7 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 2. De in het eerste lid bedoelde verantwoordelijke autoriteit toont voor de verstrekking van gegevens aan dat de student ten laste van die autoriteit een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud heeft aangevraagd dan wel reeds ontvangt.
 
-3. Onze Minister kan, voor de uitvoering van de wet, inlichtingen over een student die studiefinanciering BES of opstarttoelage aanvraagt dan wel reeds ontvangt, opvragen bij het bevoegd gezag van Aruba, Curaçao, Sint Maarten of een staat buiten het Koninkrijk waar de student een opleiding wil gaan volgen of volgt aan een opleiding zoals vastgesteld bij ministeriële regeling.
+3. Onze Minister kan, voor de uitvoering van de wet, inlichtingen over een student die studiefinanciering BES of opstarttoelage aanvraagt dan wel reeds ontvangt, opvragen bij het bevoegd gezag van Aruba, Curaçao, Sint Maarten of een staat buiten het Koninkrijk waar de student vergelijkbaar beroepsonderwijs of hoger onderwijs volgt of wil gaan volgen.
 
 4. Voor gegevensuitwisseling als bedoeld in dit artikel met een staat die geen passend beschermingsniveau kan waarborgen, kan Onze Minister een vergunning als bedoeld in [artikel 43 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=43) aanvragen bij Onze Minister van Justitie.
 
@@ -924,7 +932,7 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 ##### Artikel 7.5. Niet verstrekken van inlichtingen
 
-Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2021-01-01&g=2021-01-01), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de vierde categorie.
+Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2021-10-01&g=2021-10-01), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de vierde categorie.
 
 ##### Artikel 7.6. Overtreding van een bepaling krachtens deze wet
 
@@ -932,17 +940,17 @@ Overtreding van bepalingen van een krachtens deze wet uitgevaardigde algemene ma
 
 ##### Artikel 7.7. Overtreding
 
-De in de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2021-01-01&g=2021-01-01) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2021-01-01&g=2021-01-01) strafbaar gestelde feiten zijn overtredingen.
+De in de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2021-10-01&g=2021-10-01) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2021-10-01&g=2021-10-01) strafbaar gestelde feiten zijn overtredingen.
 
 ### Hoofdstuk 8. Overige bepalingen
 
 ##### Artikel 8.1. Wijziging van bedragen
 
-1. Per 1 januari van ieder kalenderjaar vervangt Onze Minister de bedragen, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-01-01&g=2021-01-01), bij ministeriële regeling door andere bedragen. Deze bedragen worden berekend aan de hand van de consumentenprijsindex in het tweede daaraan voorafgaande kalenderjaar.
+1. Per 1 januari van ieder kalenderjaar vervangt Onze Minister de bedragen, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2021-10-01&g=2021-10-01), bij ministeriële regeling door andere bedragen. Deze bedragen worden berekend aan de hand van de consumentenprijsindex in het tweede daaraan voorafgaande kalenderjaar.
 
 2. Hetgeen onder consumentenprijsindex als bedoeld in het eerste lid wordt verstaan, wordt nader vastgesteld bij ministeriële regeling.
 
-3. Op een bij of krachtens algemene maatregel van bestuur te bepalen wijze kan bij ministeriële regeling het bedrag, genoemd in [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-01-01&g=2021-01-01), gelet op de loonontwikkeling worden gewijzigd.
+3. Op een bij of krachtens algemene maatregel van bestuur te bepalen wijze kan bij ministeriële regeling het bedrag, genoemd in [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=4&artikel=4.9&z=2021-10-01&g=2021-10-01), gelet op de loonontwikkeling worden gewijzigd.
 
 ##### Artikel 8.2. Vervreemding, verpanding, belening en beslag
 
@@ -952,17 +960,17 @@ De in de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdst
 
 ##### Artikel 8.3. Hardheidsclausule
 
-Onze Minister kan voor bepaalde gevallen de wet buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+Onze Minister kan voor bepaalde gevallen de wet en de daarop berustende bepalingen buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 8.4. Bezwaar en beroep
 
 1. De [artikelen 64 tot en met 67 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=64) zijn niet van toepassing.
 
-2. Bij een beroep tegen een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) is artikel [23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
+2. Bij een beroep tegen een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) is artikel [23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
 
-3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
+3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
 
-4. Met betrekking tot een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
+4. Met betrekking tot een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
 ### Hoofdstuk 9. Overgangsrecht
 
@@ -996,7 +1004,7 @@ Deze wet wordt aangehaald als: Wet studiefinanciering BES.
 
 ##### Artikel 5.1a. Herziening van rechtswege
 
-Indien een student op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) geen aanspraak meer heeft op studiefinanciering BES of opstarttoelage wordt de beschikking waarbij studiefinanciering BES is toegekend van rechtswege herzien.
+Indien een student op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) geen aanspraak meer heeft op studiefinanciering BES of opstarttoelage wordt de beschikking waarbij studiefinanciering BES is toegekend van rechtswege herzien.
 
 ### Hoofdstuk 6. Uitbetaling en invordering
 
@@ -1004,15 +1012,15 @@ Indien een student op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.
 
 #### Paragraaf 7.1. Verstrekken van inlichtingen
 
-##### Artikel 7.4a. Verwerking van gegevens voor de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01)
+##### Artikel 7.4a. Verwerking van gegevens voor de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01)
 
-1. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit ten behoeve van de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01).
+1. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit ten behoeve van de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01).
 
-2. Bij de verwerking van gegevens op grond van het eerste lid kunnen bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) worden verwerkt, voor zover deze gegevens noodzakelijk zijn voor de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01).
+2. Bij de verwerking van gegevens op grond van het eerste lid kunnen bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) worden verwerkt, voor zover deze gegevens noodzakelijk zijn voor de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01).
 
-3. Ten behoeve van de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01) verstrekt Onze Minister uitsluitend het gegeven of een persoon studiefinanciering heeft aangevraagd dan wel reeds ontvangt.
+3. Ten behoeve van de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01) verstrekt Onze Minister uitsluitend het gegeven of een persoon studiefinanciering heeft aangevraagd dan wel reeds ontvangt.
 
-4. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.7&z=2021-01-01&g=2021-01-01) is voor de gegevensverwerking, bedoeld in dit artikel, van overeenkomstige toepassing voor een persoon die studiefinanciering heeft aangevraagd.
+4. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.7&z=2021-10-01&g=2021-10-01) is voor de gegevensverwerking, bedoeld in dit artikel, van overeenkomstige toepassing voor een persoon die studiefinanciering heeft aangevraagd.
 
 5. Bij ministeriële regeling worden regels gesteld ter waarborging van de persoonlijke levenssfeer. Daarbij worden in ieder geval regels gesteld over:
 
@@ -1028,7 +1036,7 @@ Indien een student op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 9.3. Persoonsgebonden nummer BES buiten toepassing
 
-Tot een bij koninklijk besluit te bepalen tijdstip blijven de begripsomschrijving van «persoonsgebonden nummer BES» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.1&z=2021-01-01&g=2021-01-01), en de [artikelen, 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.7&z=2021-01-01&g=2021-01-01) en [2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.3&artikel=2.3&z=2021-01-01&g=2021-01-01), buiten toepassing.
+Tot een bij koninklijk besluit te bepalen tijdstip blijven de begripsomschrijving van «persoonsgebonden nummer BES» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.1&z=2021-10-01&g=2021-10-01), en de [artikelen, 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=1&artikel=1.7&z=2021-10-01&g=2021-10-01) en [2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.3&artikel=2.3&z=2021-10-01&g=2021-10-01), buiten toepassing.
 
 ### Hoofdstuk 10. Slotbepaling
 
@@ -1038,7 +1046,7 @@ Tot een bij koninklijk besluit te bepalen tijdstip blijven de begripsomschrijvin
 
 ##### Artikel 9.4. Omzetting prestatiebeurs in gift op aanvraag
 
-Tot een bij [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042258) te bepalen tijdstip wordt de prestatiebeurs hoger onderwijs voor een ho-student die met goed gevolg een associate degree-opleiding heeft afgerond, in afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-01-01&g=2021-01-01), uitsluitend omgezet in een gift voor zover de ho-student een aanvraag heeft ingediend tot gelijkstelling, overeenkomstig artikel 3.2, vierde lid, zoals dat luidde voor het tijdstip voor inwerkingtreding van de [Wet invoering associate degree-opleiding](https://wetten.overheid.nl/jci1.3:c:BWBR0040090).
+Tot een bij [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042258) te bepalen tijdstip wordt de prestatiebeurs hoger onderwijs voor een ho-student die met goed gevolg een associate degree-opleiding heeft afgerond, in afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2021-10-01&g=2021-10-01), uitsluitend omgezet in een gift voor zover de ho-student een aanvraag heeft ingediend tot gelijkstelling, overeenkomstig artikel 3.2, vierde lid, zoals dat luidde voor het tijdstip voor inwerkingtreding van de [Wet invoering associate degree-opleiding](https://wetten.overheid.nl/jci1.3:c:BWBR0040090).
 
 ### Hoofdstuk 10. Slotbepaling
 
@@ -1052,7 +1060,7 @@ Tot een bij [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042258
 
 ##### Artikel 8.4a. Advisering
 
-[Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing op een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-01-01&g=2021-01-01), met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
+[Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing op een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2021-10-01&g=2021-10-01), met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
 
 ### Hoofdstuk 9. Overgangsrecht
 
