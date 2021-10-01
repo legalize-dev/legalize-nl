@@ -4,7 +4,7 @@ identifier: "BWBR0023086"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-28"
-last_updated: "2021-07-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023086"
 soort: "AMvB"
@@ -62,9 +62,9 @@ Voor het in combinatie met elkaar verwerken van politiegegevens, bedoeld in [art
 
 ##### Artikel 2:2. Geautomatiseerd vergelijken en in combinatie zoeken o.g.v. [artikel 11, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11) ([artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6))
 
-1. Voor het geautomatiseerd vergelijken van politiegegevens, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), kunnen worden geautoriseerd de ambtenaren van politie die zijn belast met de taken of werkzaamheden, bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-07-01&g=2021-07-01). In voorkomende gevallen kunnen daarvoor tevens worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
+1. Voor het geautomatiseerd vergelijken van politiegegevens, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), kunnen worden geautoriseerd de ambtenaren van politie die zijn belast met de taken of werkzaamheden, bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-10-01&g=2021-10-01). In voorkomende gevallen kunnen daarvoor tevens worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-2. Voor het geautomatiseerd vergelijken alsmede het in combinatie met elkaar verwerken van politiegegevens, bedoeld in [artikel 11, tweede onderscheidenlijk vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). In voorkomende gevallen kunnen daarvoor tevens worden geautoriseerd de ambtenaren van politie die zijn belast met de taken of werkzaamheden als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-07-01&g=2021-07-01).
+2. Voor het geautomatiseerd vergelijken alsmede het in combinatie met elkaar verwerken van politiegegevens, bedoeld in [artikel 11, tweede onderscheidenlijk vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). In voorkomende gevallen kunnen daarvoor tevens worden geautoriseerd de ambtenaren van politie die zijn belast met de taken of werkzaamheden als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-10-01&g=2021-10-01).
 
 3. De ambtenaren van politie, bedoeld in de laatste zin van het tweede lid, worden slechts geautoriseerd voor de verwerking van politiegegevens, voor zover dat dringend noodzakelijk is voor een goede uitvoering van de politietaak en in overeenstemming met het hoofd van het in het tweede lid bedoelde team.
 
@@ -72,21 +72,21 @@ Voor het in combinatie met elkaar verwerken van politiegegevens, bedoeld in [art
 
 1. Voor het verwerken van politiegegevens met het oog op de controle en het beheer van een informant alsmede de beoordeling en verantwoording van het gebruik van informantgegevens, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-2. Voor het verwerken van politiegegevens als bedoeld in [artikel 6:1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-07-01&g=2021-07-01), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met infiltratie, pseudo-koop of -dienstverlening en stelselmatige inwinning van informatie.
+2. Voor het verwerken van politiegegevens als bedoeld in [artikel 6:1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-10-01&g=2021-10-01), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met infiltratie, pseudo-koop of -dienstverlening en stelselmatige inwinning van informatie.
 
-3. Voor het verwerken van politiegegevens als bedoeld in [artikel 6:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-07-01&g=2021-07-01), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een dienst van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) die is belast met werkzaamheden op het terrein van getuigenbescherming.
+3. Voor het verwerken van politiegegevens als bedoeld in [artikel 6:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-10-01&g=2021-10-01), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een dienst van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) die is belast met werkzaamheden op het terrein van getuigenbescherming.
 
 4. Voor het geautomatiseerd vergelijken van politiegegevens, bedoeld in [artikel 12, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
 5. De ambtenaren van politie, bedoeld in de vorige leden van dit artikel, worden slechts geautoriseerd voor de verwerking van politiegegevens, voor zover dat dringend noodzakelijk is voor een goede uitvoering van hun taak.
 
-6. Voor het verwerken van identificerende gegevens van een informant kunnen uitsluitend worden geautoriseerd het hoofd van het team, bedoeld in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-07-01&g=2021-07-01), of diens plaatsvervanger.
+6. Voor het verwerken van identificerende gegevens van een informant kunnen uitsluitend worden geautoriseerd het hoofd van het team, bedoeld in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-10-01&g=2021-10-01), of diens plaatsvervanger.
 
 ##### Artikel 2:4. Themaverwerking ernstige misdrijven ([artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6))
 
 1. Voor het verwerken van gegevens met het oog op het verkrijgen van inzicht in de betrokkenheid van personen bij handelingen die kunnen wijzen op het beramen of plegen van de misdrijven bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een daartoe ingericht team dat specifiek is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-2. Indien bij de toepassing van het eerste lid de te verwerken gegevens betrekking hebben op de categorie misdrijven van ambtelijke omkoping, bedoeld in [artikel 3:2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:2&z=2021-07-01&g=2021-07-01), kunnen uitsluitend worden geautoriseerd de bij een daartoe ingericht team werkzame ambtenaren van de rijksrecherche, bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), dat specifiek is belast met de verwerking van die gegevens.
+2. Indien bij de toepassing van het eerste lid de te verwerken gegevens betrekking hebben op de categorie misdrijven van ambtelijke omkoping, bedoeld in [artikel 3:2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:2&z=2021-10-01&g=2021-10-01), kunnen uitsluitend worden geautoriseerd de bij een daartoe ingericht team werkzame ambtenaren van de rijksrecherche, bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), dat specifiek is belast met de verwerking van die gegevens.
 
 3. In bijzondere gevallen kan de verwerkingsverantwoordelijke andere ambtenaren van politie autoriseren voor de verwerking, bedoeld in het eerste en tweede lid.
 
@@ -100,13 +100,13 @@ Voor het in combinatie met elkaar verwerken van politiegegevens, bedoeld in [art
 
 ##### Artikel 2:6. Instemming officier van justitie
 
-De categorieën van ambtenaren die in aanmerking kunnen komen voor de autorisaties, bedoeld in de [artikelen 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:3&z=2021-07-01&g=2021-07-01), [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-07-01&g=2021-07-01) en [2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-07-01&g=2021-07-01), worden aangewezen in overeenstemming met de officier van justitie.
+De categorieën van ambtenaren die in aanmerking kunnen komen voor de autorisaties, bedoeld in de [artikelen 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:3&z=2021-10-01&g=2021-10-01), [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-10-01&g=2021-10-01) en [2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-10-01&g=2021-10-01), worden aangewezen in overeenstemming met de officier van justitie.
 
-##### Artikel 2:7. Gegevensverwerking door het MOT
+##### Artikel 2:7. Gegevensverwerking door de Financiële inlichtingen eenheid
 
 1. Voor het verwerken van gegevens met het oog op het doel, bedoeld in [artikel 14, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=14), kunnen worden geautoriseerd de personen die betrokken zijn bij het bewerken en analyseren van gegevens over ongebruikelijke transacties.
 
-2. De autorisaties kunnen, namens de verwerkingsverantwoordelijke, worden verstrekt door het hoofd van het Meldpunt Ongebruikelijke Transacties.
+2. De autorisaties kunnen, namens de verwerkingsverantwoordelijke, worden verstrekt door het hoofd van de Financiële inlichtingen eenheid.
 
 ##### Artikel 2:8. Ondersteunende taken ([artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6))
 
@@ -122,7 +122,7 @@ kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een 
 
 ##### Artikel 2:9. Opleidingen ([artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6))
 
-De verwerkingsverantwoordelijke draagt er zorg voor dat de ambtenaren van politie, bedoeld in de [artikelen 2:1 tot en met 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-07-01&g=2021-07-01), beschikken over voldoende kennis en vaardigheden op het gebied van:
+De verwerkingsverantwoordelijke draagt er zorg voor dat de ambtenaren van politie, bedoeld in de [artikelen 2:1 tot en met 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:1&z=2021-10-01&g=2021-10-01), beschikken over voldoende kennis en vaardigheden op het gebied van:
 
 - a. het informatieproces binnen de politie, meer in het bijzonder de verschillende vormen van verwerking van politiegegevens,
 
@@ -142,23 +142,23 @@ De eisen inzake kennis en vaardigheden verschillen naar gelang van de aard van d
 
 Indien bij de gegevensvergelijking, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), gegevens overeenkomen, worden de verbanden op de volgende wijze zichtbaar gemaakt:
 
-- a. bij gegevens, voorzien van een codering als bedoeld in [artikel 2:12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-07-01&g=2021-07-01), en bij gegevens als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), zijn de gerelateerde gegevens zichtbaar;
+- a. bij gegevens, voorzien van een codering als bedoeld in [artikel 2:12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-10-01&g=2021-10-01), en bij gegevens als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), zijn de gerelateerde gegevens zichtbaar;
 
 - b. bij gegevens, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), zijn de overeenkomende gegevens zichtbaar en zijn de andere gerelateerde gegevens na instemming van de daartoe bevoegde functionaris zichtbaar;
 
-- c. bij gegevens, voorzien van een code als bedoeld in het [artikel 2:12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-07-01&g=2021-07-01), zijn de overeenkomende gegevens gedeeltelijk zichtbaar en de andere gerelateerde gegevens na instemming van de daartoe bevoegde functionaris zichtbaar;
+- c. bij gegevens, voorzien van een code als bedoeld in het [artikel 2:12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-10-01&g=2021-10-01), zijn de overeenkomende gegevens gedeeltelijk zichtbaar en de andere gerelateerde gegevens na instemming van de daartoe bevoegde functionaris zichtbaar;
 
-- d. bij gegevens, voorzien van een code als bedoeld in het [artikel 2:12, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-07-01&g=2021-07-01), en bij gegevens als bedoeld in [artikel 10, eerste lid, onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), zijn de overeenkomende gegevens niet zichtbaar.
+- d. bij gegevens, voorzien van een code als bedoeld in het [artikel 2:12, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:12&z=2021-10-01&g=2021-10-01), en bij gegevens als bedoeld in [artikel 10, eerste lid, onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), zijn de overeenkomende gegevens niet zichtbaar.
 
 ##### Artikel 2:12. Codering ([artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11))
 
-De functionaris, bedoeld in [artikel 2:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-07-01&g=2021-07-01), kan, indien noodzakelijk voor de goede uitvoering van de gegevensvergelijking, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), politiegegevens voorzien van één van de navolgende codes:
+De functionaris, bedoeld in [artikel 2:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-10-01&g=2021-10-01), kan, indien noodzakelijk voor de goede uitvoering van de gegevensvergelijking, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), politiegegevens voorzien van één van de navolgende codes:
 
 - a. instemming met verdere verwerking van politiegegevens;
 
-- b. vertrouwelijke verwerking als bedoeld in [artikel 2:13, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01);
+- b. vertrouwelijke verwerking als bedoeld in [artikel 2:13, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01);
 
-- c. vertrouwelijke verwerking als bedoeld in [artikel 2:13, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01).
+- c. vertrouwelijke verwerking als bedoeld in [artikel 2:13, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 2:13. Weigeringsgronden ([artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15))
 
@@ -182,7 +182,7 @@ De functionaris, bedoeld in [artikel 2:10](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. uit de gegevens zelf een redelijk vermoeden voortvloeit dat een bepaalde persoon een misdrijf heeft begaan;
 
-- c. de terbeschikkingstelling van de gegevens plaatsvindt op grond van [artikel 16, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en deze gegevens redelijkerwijs van belang kunnen zijn ter voorkoming of opsporing van misdrijven als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-07-01&g=2021-07-01).
+- c. de terbeschikkingstelling van de gegevens plaatsvindt op grond van [artikel 16, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en deze gegevens redelijkerwijs van belang kunnen zijn ter voorkoming of opsporing van misdrijven als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-10-01&g=2021-10-01).
 
 #### Paragraaf 3. Gegevensverwerking ernstige misdrijven
 
@@ -296,11 +296,11 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - r. de Nederlandse Voedsel- en Warenautoriteit van Onze Minister van Economische Zaken en Klimaat, ten behoeve van het uitvoeren van de taak, bedoeld in [artikel 3.1, tweede lid, van de Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925&artikel=3.1);
 
-- s. een verzekeringsmaatschappij of de Minister van Defensie, ten behoeve van de beoordeling van de wettelijke aansprakelijkheid van de politie of van de Minister van Defensie en de vaststelling van een verplichting tot schadeloosstelling van derden;
+- s. een verzekeringsmaatschappij, de korpschef of de Minister van Defensie, ten behoeve van de beoordeling van de wettelijke aansprakelijkheid van de politie of van de Minister van Defensie en de vaststelling van een verplichting tot schadeloosstelling van derden;
 
 - t. het Nederlands Instituut voor Forensische Psychiatrie en Psychologie, ten behoeve van het opstellen van de rapportages pro justitia en de indicatieadvisering;
 
-- u. de leden van een commissie als bedoeld in [artikel 68, tweede lid, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68), ten behoeve van de behandeling van, en advisering over, klachten over gedragingen van ambtenaren van politie, de leden van een commissie van toezicht op de arrestantenzorg als bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50), ten behoeve van het toezicht op de arrestantenzorg, alsmede de personen die zijn belast met de ondersteuning van de leden van die commissies;
+- u. de leden van een commissie ingesteld op grond van [artikel 68, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68), of [69 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=69), ten behoeve van de behandeling van en advisering over klachten over gedragingen van ambtenaren van politie of militairen van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht, de leden van een commissie van toezicht op de arrestantenzorg als bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50), ten behoeve van het toezicht op de arrestantenzorg, alsmede de personen die zijn belast met de ondersteuning van de leden van die commissies;
 
 - v. het Centraal Orgaan opvang asielzoekers, ten behoeve van de huisvesting van een vreemdeling en de handhaving van de orde en veiligheid in het aanmeldcentrum;
 
@@ -312,7 +312,9 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - z. het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met het oog op de weigering of vervallenverklaring van reisdocumenten zoals bedoeld in [artikel 24, onder b, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=24);
 
-- aa. de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), voor zover hij deze gegevens behoeft voor een goede uitvoering van de in die wet aan hem opgedragen taken.
+- aa. de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), voor zover hij deze gegevens behoeft voor een goede uitvoering van de in die wet aan hem opgedragen taken;
+
+- ab. de burgemeester ten behoeve van de uitoefening van de bevoegdheid, bedoeld in [artikel 151d, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=151d), en de bestuursrechtelijke handhaving van die bevoegdheid, voor zover het gegevens betreft met betrekking tot gedragingen die in of vanuit de woning of het erf behorend bij die woning of in de onmiddellijke nabijheid van die woning of dat erf ernstige hinder voor omwonenden veroorzaken.
 
 2. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen, voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan ambtenaren die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) zijn belast met het houden van toezicht op de naleving van de bij ministeriële regeling aangewezen wetgeving, voor zover het betreft gegevens over de naleving van die wetgeving, en er tussen de verwerkingsverantwoordelijke en de betreffende ambtenaren afspraken zijn gemaakt over welke gegevens verstrekt worden, in welke gevallen en onder welke voorwaarden. De verwerkingsverantwoordelijke legt deze afspraken vast.
 
@@ -340,7 +342,9 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - 7°. de inspectie, bedoeld in [artikel 57, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=57), met het oog op de uitvoering van de taken, bedoeld in [artikel 65, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=65) en op de uitvoering van een bevel, als bedoeld in de [artikelen 126nba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba) en [126zpa, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa), door de ambtenaren, bedoeld in [artikel 141, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), en de personen, bedoeld in [artikel 142, eerste lid, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- 8°. de Passagiersinformatie-eenheid, bedoeld in [artikel 5, eerste lid, van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5), met het oog op de uitvoering van haar taken, bedoeld in de [artikelen 6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=6), en [14, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=14).
+- 8°. de Passagiersinformatie-eenheid, bedoeld in [artikel 5, eerste lid, van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5), met het oog op de uitvoering van haar taken, bedoeld in de [artikelen 6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=6), en [14, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=14);
+
+- 9°. het doen en uitvoeren van verzoeken om internationale rechtshulp in stafzaken.
 
 - b. de burgemeester ten behoeve van:
 
@@ -366,11 +370,11 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - 2°. de benoeming en de herbenoeming van de leden van de commissies van toezicht op de arrestantenzorg, bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50);
 
-- f. het bevoegde gezag, bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), ten behoeve van het verrichten van een onderzoek als bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8a), en [artikel 8b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8b), of voor het verrichten van een onderzoek naar de betrouwbaarheid en geschiktheid ten aanzien van personen die anderszins werkzaamheden verrichten voor de politie, het Landelijk selectie- en opleidingsinstituut politie, het Politie onderwijs- en kenniscentrum of de rijksrecherche en waarvoor de gezagdragende instanties justitiële gegevens als bedoeld in het [Besluit justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544) vragen;
+- f. het bevoegde gezag, bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), ten behoeve van het verrichten van een onderzoek als bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8a), en [artikel 8b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8b), of voor het verrichten van een onderzoek naar de betrouwbaarheid en geschiktheid ten aanzien van personen die anderszins werkzaamheden verrichten voor de politie, de Politieacademie of de rijksrecherche en waarvoor de gezagdragende instanties justitiële gegevens als bedoeld in het [Besluit justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544) vragen;
 
 - g. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), ten behoeve van de uitoefening van de in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) aan het bureau opgedragen taak;
 
-- h. de Immigratie- en Naturalisatiedienst, ten behoeve van de taken, bedoeld in [artikel 4:1, eerste lid, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-07-01&g=2021-07-01);
+- h. de Immigratie- en Naturalisatiedienst, ten behoeve van de taken, bedoeld in [artikel 4:1, eerste lid, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-10-01&g=2021-10-01);
 
 - i. de burgemeester en de commissaris van de Koning, ten behoeve van hun adviserende taak, bedoeld in het [Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau](https://wetten.overheid.nl/jci1.3:c:BWBR0007391) en Onze Minister van Defensie met het oog op de toekenning van bij koninklijk besluit te verlenen onderscheidingen;
 
@@ -388,13 +392,31 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - n. bestuursorganen, ten behoeve van het nemen van een beslissing omtrent de toepassing van [artikel 6 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=6), uitsluitend voor zover het betreft gegevens omtrent de aanvrager, subsidieontvanger of houder van een vergunning, ontheffing of erkenning als bedoeld in artikel 6, onderdeel a, van die wet. Indien deze aanvrager, subsidieontvanger of houder een rechtspersoon is, betreffen de gegevens zowel de rechtspersoon als de bestuurders, alsmede de gegevens met betrekking tot strafbare feiten waaraan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) ten grondslag heeft gelegen. Indien een bestuurder een rechtspersoon is betreffen de gegevens eveneens deze rechtspersoon, alsmede de bestuurders daarvan. Indien de aanvrager, subsidieontvanger of houder een maatschap of vennootschap onder firma is betreffen de gegevens de maten, dan wel de vennoten, uitgezonderd de gegevens betreffende de vennoot en commandite, alsmede de gegevens met betrekking tot strafbare feiten waaraan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht ten grondslag heeft gelegen. Indien de vennoten of maten rechtspersoonlijkheid bezitten betreffen de gegevens deze rechtspersonen, alsmede de bestuurders daarvan;
 
-- o. de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a) ten behoeve van het betrouwbaarheidsonderzoek, bedoeld in [artikel 31i van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31i). De te verstrekken gegevens betreffen uitsluitend de in [artikel 3.4, eerste lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) genoemde personen. Indien het daarbij gaat om een rechtspersoon, betreffen de gegevens zowel de rechtspersoon zelf als de bestuurders, alsmede de gegevens met betrekking tot strafbare feiten waaraan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) ten grondslag heeft gelegen. Indien een bestuurder een rechtspersoon is betreffen de gegevens eveneens deze rechtspersoon, alsmede de bestuurders daarvan. Indien de betrokkene een maatschap of vennootschap onder firma is betreffen de gegevens de maten, dan wel de vennoten, uitgezonderd de gegevens betreffende de vennoot en commandite, alsmede de gegevens met betrekking tot strafbare feiten waaraan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht ten grondslag heeft gelegen. Indien de vennoten of maten rechtspersoonlijkheid bezitten betreffen de gegevens deze rechtspersonen, alsmede de bestuurders daarvan;
-
 - o. de hulpofficier van justitie, de functionarissen, bedoeld in de [artikelen 17, vierde lid, van de Ambtsinstructie van de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=17), het hoofd van de bijzondere opsporingsdienst en de direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1), ten behoeve van:
 
 - 1°. de geweldsregistratie, bedoeld in [artikel 1, vierde lid, onder m, van de Ambtsinstructie van de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1);
 
-- 2°. de behandeling en beoordeling van de geweldsregistratie, bedoeld in [artikel 18a van de Ambtsinstructie van de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=18a).
+- 2°. de behandeling en beoordeling van de geweldsregistratie, bedoeld in [artikel 18a van de Ambtsinstructie van de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=18a);
+
+- p. de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a) ten behoeve van het betrouwbaarheidsonderzoek, bedoeld in [artikel 31i van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31i). De te verstrekken gegevens betreffen uitsluitend de in [artikel 3.4, eerste lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) genoemde personen. Indien het daarbij gaat om een rechtspersoon, betreffen de gegevens zowel de rechtspersoon zelf als de bestuurders, alsmede de gegevens met betrekking tot strafbare feiten waaraan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) ten grondslag heeft gelegen. Indien een bestuurder een rechtspersoon is betreffen de gegevens eveneens deze rechtspersoon, alsmede de bestuurders daarvan. Indien de betrokkene een maatschap of vennootschap onder firma is betreffen de gegevens de maten, dan wel de vennoten, uitgezonderd de gegevens betreffende de vennoot en commandite, alsmede de gegevens met betrekking tot strafbare feiten waaraan artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht ten grondslag heeft gelegen. Indien de vennoten of maten rechtspersoonlijkheid bezitten betreffen de gegevens deze rechtspersonen, alsmede de bestuurders daarvan;
+
+- q. deskundigen als bedoeld in [artikel 51i van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51i) ten behoeve van de uitvoering van hen opgedragen onderzoeken in strafzaken;
+
+- r. het Nederlands Forensisch Instituut ten behoeve van de uitvoering van zijn taken met het oog op de waarheidsvinding in strafzaken, het leveren van een bijdrage aan de handhaving van de internationale en nationale rechtsorde of veiligheid, de ondersteuning bij de hulpverleningstaak van de politie en het leveren van een dienst of product, na goedkeuring van de Minister van Justitie en Veiligheid, indien sprake is van een zaak van groot maatschappelijk belang;
+
+- s. de Autoriteit Consument en Markt ten behoeve van haar toezichthoudende taak op de naleving van:
+
+- 1°. de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) en [24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24), gelet op [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2);
+
+- 2°. [artikel 43 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=43) en [Verordening 1227/2011](32011R1227), bedoeld in [artikel 1, eerste lid, onderdeel au, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), gelet op [artikel 5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=5);
+
+- 3°. [artikel 32 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=32) en [Verordening 1227/2011](32011R1227), bedoeld in [artikel 1, eerste lid, onderdeel ap, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1), gelet op [artikel 1a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1a);
+
+- 4°. onderdeel a van de [bijlage bij de Wet handhaving consumentenbescherming](onbekend), gelet op [artikel 2.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2); of
+
+- 5°. De [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.3) en [4.7 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.7), gelet op [artikel 15.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1);
+
+- t. de Regionale Ambulancevoorzieningen, bedoeld in [artikel 4, tweede lid, van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4), en de besturen van de veiligheidsregio’s, bedoeld in [artikel 35, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35), ten behoeve van de uitoefening van de meldkamerfunctie, bedoeld in [artikel 25b, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25b).
 
 2. Politiegegevens, als bedoeld in het eerste lid kunnen, door tussenkomst van het openbaar ministerie, worden verstrekt aan de hierna te noemen personen of instanties:
 
@@ -448,7 +470,9 @@ De categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b,
 
 - d. het nemen van een beslissing omtrent de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804);
 
-- e. de hem bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) opgedragen taken.
+- e. de hem bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) opgedragen taken;
+
+- f. het vaststellen en behandelen van bedrijfsziekten, bedrijfsongevallen of PTSS als uitvoering van de aan hem, als werkgever, opgelegde taak in de zin van [hoofdstuk 2 Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2).
 
 - –. de burgemeester, ten behoeve van het nemen van een beslissing omtrent:
 
@@ -510,23 +534,23 @@ Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wett
 
 1. In de gevallen waarin de verwerkingsverantwoordelijke beslist tot verstrekking van politiegegevens op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=19) of [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20), worden geen politiegegevens verstrekt die worden verwerkt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-2. In afwijking van het eerste lid kan de verwerkingsverantwoordelijke beslissen tot verstrekking van politiegegevens die worden verwerkt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [10, eerste lid, onderdelen a en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), indien dit strikt noodzakelijk is voor het doel van de verstrekking, na overleg met een functionaris die is aangewezen op grond van [artikel 2:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-07-01&g=2021-07-01).
+2. In afwijking van het eerste lid kan de verwerkingsverantwoordelijke beslissen tot verstrekking van politiegegevens die worden verwerkt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [10, eerste lid, onderdelen a en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), indien dit strikt noodzakelijk is voor het doel van de verstrekking, na overleg met een functionaris die is aangewezen op grond van [artikel 2:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 4:6. Rechtstreekse verstrekking politiegegevens ([artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23))
 
 1. Aan de volgende daartoe bepaald aangewezen personen kunnen op grond van [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23), rechtstreeks politiegegevens, die worden verwerkt op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) worden verstrekt, voor zover zij deze behoeven voor de volgende doeleinden:
 
-- a. de ambtenaren van de Immigratie- en Naturalisatiedienst, ten behoeve van het doel, bedoeld in [artikel 4:1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-07-01&g=2021-07-01);
+- a. de ambtenaren van de Immigratie- en Naturalisatiedienst, ten behoeve van het doel, bedoeld in [artikel 4:1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-10-01&g=2021-10-01);
 
-- b. de ambtenaren van Onze Minister van Buitenlandse Zaken, ten behoeve van het doel, bedoeld in [artikel 4:1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-07-01&g=2021-07-01);
+- b. de ambtenaren van Onze Minister van Buitenlandse Zaken, ten behoeve van het doel, bedoeld in [artikel 4:1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-10-01&g=2021-10-01);
 
 - c. de personen, werkzaam bij de Financiële inlichtingen eenheid, ten behoeve van de taak van het meldpunt, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13) en [artikel 3.2 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.2);
 
-- d. de ambtenaren die werkzaam zijn bij de nationale politiële contactpunten, bedoeld in [artikel 5:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:3&z=2021-07-01&g=2021-07-01);
+- d. de ambtenaren die werkzaam zijn bij de nationale politiële contactpunten, bedoeld in [artikel 5:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:3&z=2021-10-01&g=2021-10-01);
 
 - e. de ambtenaren, werkzaam bij de Passagiersinformatie-eenheid, bedoeld in [artikel 5, eerste lid, van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5), ten behoeve van de in dat artikel bedoelde taken.
 
-2. De op grond van [artikel 4:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), te verstrekken politiegegevens aan de korpschef kunnen op grond van [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23) rechtstreeks worden verstrekt.
+2. De op grond van [artikel 4:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), te verstrekken politiegegevens aan de korpschef of Onze Minister van Defensie kunnen op grond van [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23) rechtstreeks worden verstrekt.
 
 ##### Artikel 4:7. Verstrekking politiegegevens ten behoeve van beleidsinformatie, wetenschappelijk onderzoek en statistiek ([artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=22))
 
@@ -574,9 +598,7 @@ Bij de verstrekking van politiegegevens aan derden, op grond van de [artikelen 1
 
 6. Politiegegevens die worden verwerkt door de Financiële inlichtingen eenheid kunnen worden doorgegeven aan van overheidswege aangewezen administratieve of politiële meldpunten in derde landen die een vergelijkbare taak hebben als het meldpunt. Het bepaalde in het tweede lid vindt geen toepassing.
 
-7. Door vernummering vervallen.
-
-8. Als blijkt dat onjuiste gegevens zijn verstrekt deelt de verstrekkende autoriteit dit onverwijld mee aan de personen of instanties van de lidstaat aan wie de gegevens zijn verstrekt, met het verzoek de gegevens onmiddellijk te corrigeren, te wissen of af te schermen.
+7. Als blijkt dat onjuiste gegevens zijn verstrekt deelt de verstrekkende autoriteit dit onverwijld mee aan de personen of instanties van de lidstaat aan wie de gegevens zijn verstrekt, met het verzoek de gegevens onmiddellijk te corrigeren, te wissen of af te schermen.
 
 ##### Artikel 5:2. Ontvangst politiegegevens derde landen
 
@@ -592,7 +614,7 @@ Bij de verstrekking van politiegegevens aan derden, op grond van de [artikelen 1
 
 2. De doorzending kan worden geweigerd of aan beperkende voorwaarden worden onderworpen indien dit:
 
-- a. een geval betreft als bedoeld in [artikel 2:13](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01);
+- a. een geval betreft als bedoeld in [artikel 2:13](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01);
 
 - b. essentiële nationale veiligheidsbelangen zou schaden;
 
@@ -616,7 +638,7 @@ Bij de verstrekking van politiegegevens aan derden, op grond van de [artikelen 1
 
 7. In afwijking van het vierde lid kunnen in specifieke omstandigheden door de doorzendende autoriteit specifieke beperkingen worden gesteld aan de verdere verwerking van de doorgezonden politiegegevens, voor zover deze beperkingen ook van toepassing zijn op de beschikbaarstelling van de gegevens aan andere politieambtenaren in Nederland.
 
-8. [Artikel 5:1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01) en [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:2&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
+8. [Artikel 5:1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01) en [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:2&z=2021-10-01&g=2021-10-01) zijn van overeenkomstige toepassing.
 
 9. In de grensgebieden kan de doorzending in verband met de strafrechtelijke handhaving van de rechtsorde of de handhaving van de openbare orde zonder tussenkomst van de landelijke eenheid, bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), plaatsvinden voor zover dit voortvloeit uit een verdrag waarbij ook België of Duitsland als verdragsluitende partij betrokken zijn of uit een besluit, bedoeld in artikel 34, tweede lid, van het Verdrag betreffende de werking van de Europese Unie. Op doorzending in de grensgebieden waarvoor geen tussenkomst van de landelijke eenheid, bedoeld in de vorige volzin, vereist is, is het tweede lid niet van toepassing.
 
@@ -630,7 +652,7 @@ Indien politiegegevens worden ontvangen van een andere lidstaat van de Europese 
 
 2. De vergelijking van gegevens, bedoeld in het eerste lid, vindt plaats in afzonderlijke gevallen en betreft dactyloscopische gegevens.
 
-3. Indien bij de gegevensvergelijking wordt vastgesteld dat gegevens overeenkomen dan worden uitsluitend de overeenkomende gegevens doorgezonden. Voor doorzending van nadere, met betrekking tot de overeenkomende gegevens beschikbare persoon- of zaaksgegevens is een verzoek, als bedoeld in [artikel 552h van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552h), vereist. De verdere verwerking van de doorgezonden politiegegevens is uitsluitend toegestaan met het oog op:
+3. Indien bij de gegevensvergelijking wordt vastgesteld dat gegevens overeenkomen dan worden uitsluitend de overeenkomende gegevens doorgezonden. Voor doorzending van nadere, met betrekking tot de overeenkomende gegevens beschikbare persoon- of zaaksgegevens is een verzoek, als bedoeld in [artikel 5.1.1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.1), vereist. De verdere verwerking van de doorgezonden politiegegevens is uitsluitend toegestaan met het oog op:
 
 - a. de vaststelling of de vergeleken profielen overeenstemmen;
 
@@ -684,7 +706,7 @@ Na afloop van de gegevensvergelijking worden de doorgezonden gegevens onverwijld
 
 ##### Artikel 6:2. Ondersteunende taken ([artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13))
 
-1. Over de verwerkingen bedoeld in [artikel 13, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13), wordt tevoren schriftelijk vastgelegd:
+Over de verwerkingen bedoeld in [artikel 13, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13), wordt tevoren schriftelijk vastgelegd:
 
 - a. ten behoeve van welk specifiek doel ter ondersteuning van de politietaak de gegevens verder worden verwerkt;
 
@@ -698,8 +720,6 @@ Na afloop van de gegevensvergelijking worden de doorgezonden gegevens onverwijld
 
 - f. indien sprake is van een bewerker, degene die als bewerker optreedt.
 
-2. De op grond van het eerste lid schriftelijk vastgelegde gegevens worden ter inzage gelegd gedurende de tijd dat de gegevens ingevolge [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=32) beschikbaar zijn.
-
 ##### Artikel 6:3. Vergoeding van kosten ([artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=31))
 
 Vervallen
@@ -708,17 +728,7 @@ Vervallen
 
 1. De schriftelijke vastlegging van het doel van het onderzoek, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), omvat een omschrijving van het onderwerp waar het onderzoek op is gericht en op welk deel van de uitoefening van de politietaak het onderzoek betrekking heeft.
 
-2. Indien politiegegevens geautomatiseerd worden vergeleken met andere gegevens of in combinatie met elkaar worden verwerkt, als bedoeld in [artikel 11, eerste, tweede, vierde en vijfde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), worden van die verwerking de volgende gegevens vastgelegd:
-
-- a. de gegevens die voor de rechtstreekse raadpleging zijn gebruikt;
-
-- b. de identiteit of het kenmerk van de politieambtenaar die de rechtstreekse raadpleging heeft uitgevoerd;
-
-- c. de gegevens op grond waarvan kan worden nagegaan welke gegevens ter beschikking zijn gesteld voor verdere verwerking voor een doel, als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
-
-3. Het bepaalde in het tweede lid is van overeenkomstige toepassing indien politiegegevens ter beschikking worden gesteld voor hernieuwde verwerking op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) of [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), bedoeld in [artikel 14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=14).
-
-4. Indien politiegegevens op grond van [paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3) worden verstrekt, worden van die verstrekking de volgende gegevens vastgelegd:
+2. Indien politiegegevens op grond van [paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3) worden verstrekt, worden van die verstrekking de volgende gegevens vastgelegd:
 
 - a. de identiteit van de verzoeker;
 
@@ -728,7 +738,7 @@ Vervallen
 
 - d. het doel van de verstrekking.
 
-5. Indien politiegegevens op grond van [paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3) rechtstreeks langs geautomatiseerde weg, als bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23) worden verstrekt, worden van die verstrekking de volgende gegevens vastgelegd:
+3. Indien politiegegevens op grond van [paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3) rechtstreeks langs geautomatiseerde weg, als bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23) worden verstrekt, worden van die verstrekking de volgende gegevens vastgelegd:
 
 - a. een uniek kenmerk van de verzoeker;
 
@@ -738,7 +748,7 @@ Vervallen
 
 - d. de datum en het tijdstip van de verstrekking.
 
-6. De verplichtingen van het vierde en vijfde lid zijn niet van toepassing op de verstrekking van gegevens op grond van [artikel 16, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16).
+4. De verplichtingen van het vierde en vijfde lid zijn niet van toepassing op de verstrekking van gegevens op grond van [artikel 16, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16).
 
 ##### Artikel 6:5. Audits ([artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=33))
 
@@ -786,13 +796,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4:3a. (verstrekking aan BES)
 
-1. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen worden verstrekt aan leden van het openbaar ministerie met het oog op het verder verstrekken aan het openbaar ministerie in de openbare lichamen Bonaire, Sint Eustatius en Saba ten behoeve van de adviserende taak van laatstbedoeld openbaar ministerie in het kader van de uitvoering van de wetten, genoemd in [artikel 6a:6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-07-01&g=2021-07-01), en, door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
+1. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen worden verstrekt aan leden van het openbaar ministerie met het oog op het verder verstrekken aan het openbaar ministerie in de openbare lichamen Bonaire, Sint Eustatius en Saba ten behoeve van de adviserende taak van laatstbedoeld openbaar ministerie in het kader van de uitvoering van de wetten, genoemd in [artikel 6a:6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-10-01&g=2021-10-01), en, door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
 
-- a. de Nederlandsche Bank ten behoeve van de uitoefening van de taken, genoemd in [artikel 6a:6, tweede lid, onderdeel a.](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-07-01&g=2021-07-01)
+- a. de Nederlandsche Bank ten behoeve van de uitoefening van de taken, genoemd in [artikel 6a:6, tweede lid, onderdeel a.](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-10-01&g=2021-10-01)
 
-- b. de Autoriteit Financiële Markten ten behoeve van de uitoefening van de taken, genoemd in [artikel 6a:6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-07-01&g=2021-07-01).
+- b. de Autoriteit Financiële Markten ten behoeve van de uitoefening van de taken, genoemd in [artikel 6a:6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-10-01&g=2021-10-01).
 
-2. [Artikel 4:3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), is van toepassing.
+2. [Artikel 4:3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), is van toepassing.
 
 #### Paragraaf 5. Ter beschikking stelling binnen Europese Unie en doorgiften aan derde landen ([artikelen 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15a) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17a))
 
@@ -808,51 +818,51 @@ Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustati
 
 1. Voor de toepassing van:
 
-- a. [artikel 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-07-01&g=2021-07-01), wordt in plaats van «de ambtenaren van politie die werkzaam zijn bij een daartoe ingericht team dat specifiek is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
+- a. [artikel 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-10-01&g=2021-10-01), wordt in plaats van «de ambtenaren van politie die werkzaam zijn bij een daartoe ingericht team dat specifiek is belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
 
-- b. [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-07-01&g=2021-07-01), wordt in plaats van «de ambtenaren van politie die zijn belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
+- b. [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-10-01&g=2021-10-01), wordt in plaats van «de ambtenaren van politie die zijn belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
 
-- c. [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-07-01&g=2021-07-01), wordt in plaats van «de ambtenaren van politie die zijn belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
+- c. [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:5&z=2021-10-01&g=2021-10-01), wordt in plaats van «de ambtenaren van politie die zijn belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)» gelezen: de daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie;
 
-- d. [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:7&z=2021-07-01&g=2021-07-01), wordt in plaats van «[artikel 14, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=14)» gelezen: [artikel 3:3, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3);
+- d. [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:7&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 14, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=14)» gelezen: [artikel 3:3, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3);
 
-- e. [artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:8&z=2021-07-01&g=2021-07-01) wordt in plaats van «kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat met de uitvoering van deze taak is belast» gelezen: kunnen daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie worden belast;
+- e. [artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:8&z=2021-10-01&g=2021-10-01) wordt in plaats van «kunnen worden geautoriseerd de ambtenaren van politie die werkzaam zijn bij een team dat met de uitvoering van deze taak is belast» gelezen: kunnen daartoe door de verwerkingsverantwoordelijke aangewezen ambtenaren van politie worden belast;
 
-- f. [artikel 2:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-07-01&g=2021-07-01), wordt in plaats van «het hoofd van het betreffende team dat is belast met de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdelen a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), dan wel het hoofd van een team met een vergelijkbare taak of hun plaatsvervanger» gelezen: de ambtenaren van politie die daartoe door de verwerkingsverantwoordelijke zijn aangewezen;
+- f. [artikel 2:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:10&z=2021-10-01&g=2021-10-01), wordt in plaats van «het hoofd van het betreffende team dat is belast met de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdelen a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), dan wel het hoofd van een team met een vergelijkbare taak of hun plaatsvervanger» gelezen: de ambtenaren van politie die daartoe door de verwerkingsverantwoordelijke zijn aangewezen;
 
-- g. [artikel 2:13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01), wordt in plaats van «de korpschef» gelezen: de korpsbeheerder;
+- g. [artikel 2:13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01), wordt in plaats van «de korpschef» gelezen: de korpsbeheerder;
 
-- h. [artikel 2:13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01), wordt in plaats van «rijksrecherche» gelezen «recherche» en in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal;
+- h. [artikel 2:13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01), wordt in plaats van «rijksrecherche» gelezen «recherche» en in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal;
 
-- i. [artikel 2:13, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal;
+- i. [artikel 2:13, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal;
 
 - j. vervallen;
 
-- k. [artikel 2:13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-07-01&g=2021-07-01), wordt in plaats van «[artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16)» gelezen «[artikel 36d, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d)» en in plaats van «[artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-07-01&g=2021-07-01)» gelezen: [artikel 6a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:3&z=2021-07-01&g=2021-07-01);
+- k. [artikel 2:13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:13&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16)» gelezen «[artikel 36d, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d)» en in plaats van «[artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-10-01&g=2021-10-01)» gelezen: [artikel 6a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:3&z=2021-10-01&g=2021-10-01);
 
-- l. [artikel 4:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-07-01&g=2021-07-01), wordt in plaats van «[artikel 1, onderdeel h, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1)» gelezen «[artikel 1, eerste lid, onderdeel i van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=1)» en wordt in plaats van «[Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)» gelezen: [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
+- l. [artikel 4:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:1&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 1, onderdeel h, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1)» gelezen «[artikel 1, eerste lid, onderdeel i van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=1)» en wordt in plaats van «[Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)» gelezen: [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
 
-- m. [artikel 4:2, eerste lid, onderdeel aa](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-07-01&g=2021-07-01), wordt in plaats van «bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3)» gelezen: bedoeld in [artikel 1.1, onderdeel h, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1);
+- m. [artikel 4:2, eerste lid, onderdeel aa](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-10-01&g=2021-10-01), wordt in plaats van «bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3)» gelezen: bedoeld in [artikel 1.1, onderdeel h, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1);
 
-- n. [artikel 4:7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:7&z=2021-07-01&g=2021-07-01), wordt in plaats van «de burgemeester» telkens gelezen: de gezaghebber;
+- n. [artikel 4:7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:7&z=2021-10-01&g=2021-10-01), wordt in plaats van «de burgemeester» telkens gelezen: de gezaghebber;
 
-- o. [artikel 5:1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01), wordt in plaats van «[artikel 1, eerste lid, onderdeel i, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1)» gelezen: [artikel 1, eerste lid, onderdeel n, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=1);
+- o. [artikel 5:1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 1, eerste lid, onderdeel i, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1)» gelezen: [artikel 1, eerste lid, onderdeel n, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=1);
 
-- p. [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01), wordt in plaats van «een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25)» gelezen «de officier van justitie» en vervalt de tweede zin;
+- p. [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01), wordt in plaats van «een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25)» gelezen «de officier van justitie» en vervalt de tweede zin;
 
-- q. [artikel 5:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01), wordt in plaats van «burgemeester» gelezen: gezaghebber;
+- q. [artikel 5:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01), wordt in plaats van «burgemeester» gelezen: gezaghebber;
 
-- r. [artikel 6:4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:4&z=2021-07-01&g=2021-07-01), wordt telkens na «[paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3)» ingevoegd: en [artikel 36d](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d);
+- r. [artikel 6:4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:4&z=2021-10-01&g=2021-10-01), wordt telkens na «[paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3)» ingevoegd: en [artikel 36d](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d);
 
-- s. [artikel 6:4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:4&z=2021-07-01&g=2021-07-01), wordt in plaats van «[artikel 16, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16),» gelezen: [artikel 36d, eerste lid, onderdeel a,](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d);
+- s. [artikel 6:4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:4&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 16, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16),» gelezen: [artikel 36d, eerste lid, onderdeel a,](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36d);
 
-- t. [artikel 6:6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:6&z=2021-07-01&g=2021-07-01), wordt in plaats van «op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824)» gelezen: op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
+- t. [artikel 6:6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:6&z=2021-10-01&g=2021-10-01), wordt in plaats van «op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824)» gelezen: op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
-2. De [artikelen 2:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:3&z=2021-07-01&g=2021-07-01), [2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-07-01&g=2021-07-01), [4:2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-07-01&g=2021-07-01), [4:3, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), [4:3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3a&z=2021-07-01&g=2021-07-01), [4:4, tweede gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:4&z=2021-07-01&g=2021-07-01), [4:6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:6&z=2021-07-01&g=2021-07-01), [4:7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:7&z=2021-07-01&g=2021-07-01), [5:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01), [5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:2&z=2021-07-01&g=2021-07-01), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:3&z=2021-07-01&g=2021-07-01), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:4&z=2021-07-01&g=2021-07-01), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:5&z=2021-07-01&g=2021-07-01) en [6:1, eerste lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-07-01&g=2021-07-01) zijn niet van toepassing
+2. De [artikelen 2:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:3&z=2021-10-01&g=2021-10-01), [2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=2&artikel=2:4&z=2021-10-01&g=2021-10-01), [4:2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-10-01&g=2021-10-01), [4:3, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), [4:3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3a&z=2021-10-01&g=2021-10-01), [4:4, tweede gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:4&z=2021-10-01&g=2021-10-01), [4:6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:6&z=2021-10-01&g=2021-10-01), [4:7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:7&z=2021-10-01&g=2021-10-01), [5:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01), [5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:2&z=2021-10-01&g=2021-10-01), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:3&z=2021-10-01&g=2021-10-01), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:4&z=2021-10-01&g=2021-10-01), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5a&artikel=5:5&z=2021-10-01&g=2021-10-01) en [6:1, eerste lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6&artikel=6:1&z=2021-10-01&g=2021-10-01) zijn niet van toepassing
 
 ##### Artikel 6a:3. Ernstige inbreuk rechtsorde misdrijven ([artikel 10, eerste lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10))
 
-In afwijking van [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-07-01&g=2021-07-01) zijn de misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c) die gezien hun aard of samenhang met andere door de betrokkene begane misdrijven een ernstige inbreuk op de rechtsorde opleveren:
+In afwijking van [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:1&z=2021-10-01&g=2021-10-01) zijn de misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c) die gezien hun aard of samenhang met andere door de betrokkene begane misdrijven een ernstige inbreuk op de rechtsorde opleveren:
 
 - a. de misdrijven bedoeld in de artikelen [324, onderdelen 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=324), en [artikel 431 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=431), voor zover de feiten een schade van ten minste USD 14 000 veroorzaakt hebben en betrokkene tevens een misdrijf als bedoeld in [artikel 10, eerste lid, onderdeel a, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), juncto [artikel 36c, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c) heeft begaan;
 
@@ -870,7 +880,7 @@ In afwijking van [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 ##### Artikel 6a:4. Ernstig gevaar rechtsorde misdrijven ([artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10))
 
-In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:2&z=2021-07-01&g=2021-07-01) zijn de categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), die door hun omvang of ernst of hun samenhang met andere misdrijven een ernstig gevaar voor de rechtsorde opleveren:
+In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=3&artikel=3:2&z=2021-10-01&g=2021-10-01) zijn de categorieën van misdrijven, bedoeld in [artikel 10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), die door hun omvang of ernst of hun samenhang met andere misdrijven een ernstig gevaar voor de rechtsorde opleveren:
 
 - a. terroristische misdrijven als bedoeld in [artikel 84a van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=84a);
 
@@ -880,7 +890,7 @@ In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 ##### Artikel 6a:5. Verstrekking politiegegevens [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) ([artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18))
 
-1. In afwijking van [artikel 4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-07-01&g=2021-07-01), kunnen politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) en voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan:
+1. In afwijking van [artikel 4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-10-01&g=2021-10-01), kunnen politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) en voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan:
 
 - a. het Waarborgfonds Motorverkeer, als bedoeld in [artikel 15, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=15), voor zover het betreft gegevens omtrent de personalia en de verblijfplaats van benadeelden en zij deze gegevens behoeven voor de hulp aan benadeelden ten behoeve van het geldend maken van een recht op schadevergoeding, als bedoeld in [artikel 17 van de Wet aansprakelijkheidsverzekering motorrijtuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=17);
 
@@ -898,7 +908,7 @@ In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 - h. de Dienst Terugkeer en Vertrek, voor zover het betreft gegevens over vreemdelingen die zijn verkregen in het kader van de uitoefening van het toezicht, bedoeld in [artikel 22a van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22a), of de opsporing van strafbare feiten, ten behoeve van de begeleiding van de terugkeer of het vertrek uit de openbare lichamen Bonaire, Sint Eustatius en Saba van vreemdelingen die geen toelating tot verblijf hebben;
 
-2. [Artikel 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-07-01&g=2021-07-01), is van toepassing.
+2. [Artikel 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:2&z=2021-10-01&g=2021-10-01), is van toepassing.
 
 3. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen, voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan de door Onze Minister van Sociale Zaken en Werkgelegenheid respectievelijk Onze Minister van Financiën aangewezen ambtenaren, die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437) respectievelijk de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I) en [VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) ten behoeve van de inschatting van de veiligheidsrisico’s met betrekking tot de uitoefening van vorenbedoeld toezicht.
 
@@ -906,7 +916,7 @@ In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 ##### Artikel 6a:6. Verstrekking politiegegevens [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) ([artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18))
 
-1. In afwijking van [artikel 4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), kunnen politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c), en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) en voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan:
+1. In afwijking van [artikel 4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), kunnen politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c), en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) en voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan:
 
 - a. Onze Minister van Justitie en Veiligheid, ten behoeve van:
 
@@ -954,7 +964,7 @@ In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 - –. [artikel 7, onderdeel i, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7).
 
-2. In afwijking van [artikel 4:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), kunnen politiegegevens als bedoeld in het eerste lid worden verstrekt aan leden van het openbaar ministerie ten behoeve van de adviserende taak in het kader van de uitvoering van de hierna te noemen wetten en door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
+2. In afwijking van [artikel 4:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), kunnen politiegegevens als bedoeld in het eerste lid worden verstrekt aan leden van het openbaar ministerie ten behoeve van de adviserende taak in het kader van de uitvoering van de hierna te noemen wetten en door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
 
 - a. de Nederlandsche Bank, ten behoeve van:
 
@@ -972,15 +982,15 @@ In afwijking van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&p
 
 ##### Artikel 6a:7. (verstrekking aan Europese deel van Nederland)
 
-1. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c), en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen worden verstrekt aan leden van het openbaar ministerie met het oog op het verder verstrekken aan het openbaar ministerie in het Europese deel van Nederland ten behoeve van de adviserende taak van laatstbedoeld openbaar ministerie in het kader van de uitvoering van de wetten, genoemd in [artikel 4:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01), en, door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
+1. Politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) juncto [artikel 36c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36c), en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen worden verstrekt aan leden van het openbaar ministerie met het oog op het verder verstrekken aan het openbaar ministerie in het Europese deel van Nederland ten behoeve van de adviserende taak van laatstbedoeld openbaar ministerie in het kader van de uitvoering van de wetten, genoemd in [artikel 4:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01), en, door tussenkomst van dat openbaar ministerie in het kader van vorenbedoelde taak, verder worden verstrekt aan:
 
-- a. de Nederlandsche Bank, ten behoeve van de uitoefening van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01);
+- a. de Nederlandsche Bank, ten behoeve van de uitoefening van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01);
 
-- b. Onze Minister van Financiën ten behoeve van de uitoefening van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01);
+- b. Onze Minister van Financiën ten behoeve van de uitoefening van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01);
 
-- c. de Autoriteit Financiële Markten, ten behoeve van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-07-01&g=2021-07-01).
+- c. de Autoriteit Financiële Markten, ten behoeve van de taken, genoemd in [artikel 4:3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=4&artikel=4:3&z=2021-10-01&g=2021-10-01).
 
-2. [Artikel 6a:6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-07-01&g=2021-07-01), is van toepassing.
+2. [Artikel 6a:6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=6a&artikel=6a:6&z=2021-10-01&g=2021-10-01), is van toepassing.
 
 #### Paragraaf 6a. Bonaire, Sint Eustatius en Saba
 
@@ -988,13 +998,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5:6. Doorzending politiegegevens aan gemeenschappelijke teams binnen de EU ([artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15a))
 
-1. Aan de politieambtenaar uit een andere lidstaat van de Europese Unie, die is toegevoegd aan een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 552qa van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552qa) dat is gevestigd in Nederland, kunnen politiegegevens worden doorgezonden op gelijke voet als aan Nederlandse politieambtenaren, voor zover zij deze behoeven voor de doeleinden waarvoor het gemeenschappelijke onderzoeksteam is ingesteld.
+1. Aan de politieambtenaar uit een andere lidstaat van de Europese Unie, die is toegevoegd aan een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 5.2.1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.2.1) dat is gevestigd in Nederland, kunnen politiegegevens worden doorgezonden op gelijke voet als aan Nederlandse politieambtenaren, voor zover zij deze behoeven voor de doeleinden waarvoor het gemeenschappelijke onderzoeksteam is ingesteld.
 
-2. Aan de Nederlandse politieambtenaar die is toegevoegd aan een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 552qa van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552qa) dat is gevestigd in een andere lidstaat van de Europese Unie, kunnen politiegegevens worden doorgezonden met het oog op de gebruikmaking daarvan voor de doeleinden waarvoor het gemeenschappelijke onderzoeksteam is ingesteld.
+2. Aan de Nederlandse politieambtenaar die is toegevoegd aan een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 5.2.1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.2.1) dat is gevestigd in een andere lidstaat van de Europese Unie, kunnen politiegegevens worden doorgezonden met het oog op de gebruikmaking daarvan voor de doeleinden waarvoor het gemeenschappelijke onderzoeksteam is ingesteld.
 
 ##### Artikel 5:7. Doorzending politiegegevens aan Europol
 
-1. De doorzending van politiegegevens aan Europol vindt plaats door tussenkomst van de landelijke eenheid, bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-07-01&g=2021-07-01).
+1. De doorzending van politiegegevens aan Europol vindt plaats door tussenkomst van de landelijke eenheid, bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&paragraaf=5&artikel=5:1&z=2021-10-01&g=2021-10-01).
 
 2. De doorzending van politiegegevens aan Europol kan worden geweigerd indien:
 
