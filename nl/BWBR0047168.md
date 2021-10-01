@@ -4,7 +4,7 @@ identifier: "BWBR0047168"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-01-01"
-last_updated: "2020-07-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047168"
 soort: "beleidsregel"
@@ -217,59 +217,59 @@ In het [besluit van 24 september 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in [artikel 3.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6), worden ondernemers in de periode van 1 maart 2020 tot en met 30 september 2020 geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
 
-Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 maart tot en met 30 september een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2020 als het aantal uren dat is besteed in de periode van 1 maart 2019 tot en met 30 september 2019. De ondernemer kan in dat geval met behulp van zijn administratie bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 maart 2019 tot en met 30 september 2019.
+Dit onderdeel is met ingang van 1 april 2022 vervallen
 
-Gelet op de bijzondere omstandigheden van de coronacrisis, heb ik eerder goedgekeurd om naast de reguliere betalingsregeling voor ondernemers (in [artikel 25.6 LI](onbekend) e.v.), een meer ruimhartige betalingsregeling toe te staan voor de in dit onderdeel bedoelde belastingen van ondernemers. De uitgangspunten en voorwaarden van deze betalingsregeling zijn opgenomen in goedkeuring 1 en 2. Vanwege de hoge financiële nood bij sommige ondernemers met een belastingschuld als gevolg van de coronacrisis en daartoe opgeroepen door de Tweede Kamer1Zie onder meer de aangenomen motie van het lid Aartsen c.s. van 5 juli 2022 bij het tweeminutendebat coronasteunpakket (Kamerstukken II, 2021/22, 35 420, nr. 505). heb ik besloten om enkele aanvullende versoepelingen van de ruimhartige betalingsregeling toe te staan. Deze aanvullende versoepelingen zijn opgenomen in onderdeel a tot en met d van goedkeuring 3. De mogelijkheid om per kwartaal af te lossen en een betaalpauze aan te vragen, komen in de plaats van de mogelijkheid om later aan te vangen met aflossen.
+**Ondernemers kunnen vanwege nieuwe beperkende maatregelen van het kabinet opnieuw of nog steeds te maken krijgen met betalingsproblemen. Daarnaast kan het voorkomen dat ondernemers in verband daarmee voor het eerst betalingsproblemen krijgen. Om deze ondernemers tegemoet te komen, geef ik de volgende goedkeuringen.**
 
-De ontvanger verleent tot 1 oktober 2027 uitstel van betaling voor belastingen van ondernemers die uiterlijk 30 september 2021 betaald hadden moeten zijn, mits aan de ondernemer ingevolge goedkeuring 1 van onderdeel 3.1 van dit besluit is toegezegd dat geen invorderingsmaatregelen zouden worden genomen.
+**Goedkeuring 1 ziet op ondernemers die al uitstel van betaling op grond van dit besluit genieten en goedkeuring 2 ziet op ondernemers die voor het eerst of opnieuw te maken hebben met betalingsproblemen die hoofdzakelijk het gevolg van de coronacrisis zijn.**
 
 ### 8.2.1. Verlaagd urencriterium voor startersaftrek bij arbeidsongeschiktheid
 
-De ondernemer lost de hiervoor onder goedkeuring 1 en 2 bedoelde belastingen af voor 1 oktober 2027 met een betalingsregeling.
+**De ontvanger verleent geen uitstel van betaling en trekt verleend uitstel van betaling in als de belangen van de Staat zich tegen (verder) uitstel verzetten. Dit is onder meer het geval als de ontvanger vreest voor misbruik van de situatie waardoor verhaalsmogelijkheden in gevaar komen.**
 
-Voor de onder goedkeuring 1 en 2 verleende betalingsregeling gelden de volgende uitgangspunten en voorwaarden:
+**Ik keur goed dat de ontvanger tot en met 31 maart 2022 uitstel van betaling verleent aan ondernemers die voor het eerst of opnieuw om uitstel verzoeken op grond van dit beleidsbesluit. Ondernemers kunnen tot en met 31 maart 2022 hier schriftelijk om verzoeken, voor een of meer van de in goedkeuring 1 van onderdeel 3.1 genoemde belastingen die uiterlijk op 31 maart 2022 betaald moeten zijn.**
 
 ### 8.3. Fiscale reserve 2019 voor coronagerelateerd verlies 2020 (fiscale coronareserve)
 
-Daarnaast keur ik het volgende goed:
+**De ontvanger verleent geen uitstel van betaling en trekt eerder verleend uitstel van betaling in als de belangen van de Staat zich tegen (verder) uitstel verzetten. Voor de volledigheid merk ik op dat de goedkeuringen van onderdeel 3.3 ook gelden als de ontvanger op grond van onderdeel 3.4a uitstel verleent.**
 
 ### 8.4. Voorlopige aanslag
 
 De ontvanger beslist in beginsel binnen acht weken na ontvangst van een verzoek als bedoeld onder goedkeuring 3 (zie [artikel 1.1.5 LI 2008](onbekend)).
 
-Ondernemers die in 2020, 2021 of 2022 een lagere winst verwachten dan waarmee rekening is gehouden bij het opleggen van de voorlopige aanslag(en), kunnen een verzoek om vermindering indienen bij de inspecteur. De inspecteur zal dit verzoek inwilligen.
+Gelet op de bijzondere omstandigheden van de coronacrisis, heb ik eerder goedgekeurd om naast de reguliere betalingsregeling voor ondernemers (in [artikel 25.6 LI](onbekend) e.v.), een meer ruimhartige betalingsregeling toe te staan voor de in dit onderdeel bedoelde belastingen van ondernemers. De uitgangspunten en voorwaarden van deze betalingsregeling zijn opgenomen in goedkeuring 1 en 2. Vanwege de hoge financiële nood bij sommige ondernemers met een belastingschuld als gevolg van de coronacrisis en daartoe opgeroepen door de Tweede Kamer1Zie onder meer de aangenomen motie van het lid Aartsen c.s. van 5 juli 2022 bij het tweeminutendebat coronasteunpakket (Kamerstukken II, 2021/22, 35 420, nr. 505). heb ik besloten om enkele aanvullende versoepelingen van de ruimhartige betalingsregeling toe te staan. Deze aanvullende versoepelingen zijn opgenomen in onderdeel a tot en met d van goedkeuring 3. De mogelijkheid om per kwartaal af te lossen en een betaalpauze aan te vragen, komen in de plaats van de mogelijkheid om later aan te vangen met aflossen.
+
+De ontvanger verleent tot 1 oktober 2027 uitstel van betaling voor belastingen van ondernemers die uiterlijk 30 september 2021 betaald hadden moeten zijn, mits aan de ondernemer ingevolge goedkeuring 1 van onderdeel 3.1 van dit besluit is toegezegd dat geen invorderingsmaatregelen zouden worden genomen.
+
+### 8.5. Tegemoetkoming ondernemers getroffen sectoren & subsidie financiering vaste lasten
+
+De ondernemer lost de hiervoor onder goedkeuring 1 en 2 bedoelde belastingen af voor 1 oktober 2027 met een betalingsregeling.
+
+### 5. Douane
+
+De voorwaarden b, c en d gelden ook als gebruik wordt gemaakt van een of meer van de mogelijkheden bedoeld onder goedkeuring 3.
+
+### 8.6.1. Continuïteitsbijdragen zorglichamen
+
+Voor kwartaalaflossing en betaalpauze geldt dat de ondernemer zijn gehele belastingschuld voor 1 oktober 2027 moet hebben betaald. Dit tijdstip is later, maar uiterlijk 30 september 2029, indien en voor zover de ontvanger heeft ingestemd met een verlenging van de betalingsregeling (zie onder a). Dit betekent ook dat als de ontvanger het verzoek om betaling per kwartaal of betaalpauze inwilligt, de ontvanger voor de nog te betalen belastingschuld de termijnen opnieuw zal berekenen.
+
+De ontvanger beslist in beginsel binnen acht weken na ontvangst van een verzoek als bedoeld onder goedkeuring 3 (zie [artikel 1.1.5 LI 2008](onbekend)).
+
+### 4. Betalingsverzuimboeten
 
 Ik acht het onwenselijk dat ondernemers waaraan uitstel van betaling vanwege betalingsproblemen als gevolg van de coronacrisis is, wordt of kan worden verleend, worden beboet omdat zij niet of niet tijdig aan hun betalingsverplichtingen hebben voldaan. Daarom keur ik het volgende goed.
 
-### 8.5. Tegemoetkoming ondernemers getroffen sectoren & subsidie financiering vaste lasten
+Ik keur goed dat verzuimboeten voor betalingsverzuimen in een periode waarvoor op grond van dit besluit bijzonder uitstel van betaling is of wordt verleend, worden geacht niet te zijn opgelegd. Als een verzuimboete wordt opgelegd, zorgt de ontvanger ervoor dat deze ambtshalve wordt vernietigd.
 
 Ik keur goed dat verzuimboeten voor betalingsverzuimen in een periode waarvoor op grond van dit besluit bijzonder uitstel van betaling kan worden verleend, worden geacht niet te zijn opgelegd als de naheffingsaanslag binnen de betalingstermijn volledig wordt voldaan. De ontvanger zorgt er dan voor dat de verzuimboete ambtshalve wordt vernietigd.
 
 ### 5. Douane
 
-Zorglichamen zijn onder bepaalde voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting ([artikel 5, eerste lid, onderdeel c, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), hierna ook aan te duiden als de zorgvrijstelling).2Zie uitgebreid het besluit van 25 november 2019, nr. 2019-187751 (Stcrt. 2019, 66223), laatstelijk gewijzigd bij besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020-62958).
-
-### 8.6.1. Continuïteitsbijdragen zorglichamen
-
-De in onderdeel 3.1 van dit verzamelbesluit opgenomen goedkeuring 5 inzake schorsing van de verrekening van belastingen is niet van toepassing bij de verrekening van rechten bij invoer.
-
-De in onderdeel 4 van dit besluit opgenomen goedkeuring met betrekking tot de verzuimboeten voor betalingsverzuimen begaan in de periode van 12 maart 2020 tot aan de datum waarop het uitstel van betaling op grond van dit besluit eindigt, is in voorkomend geval ook van toepassing op de binnenlandse accijnzen en verbruiksbelasting van alcoholvrije dranken.
-
-### 5.2. Termijn verkoop voorraad tabaksproducten aan wederverkopers
-
-Dit onderdeel is vervallen met ingang van 1 juni 2021
-
-In [onderdeel 4.2.1. van het besluit van 25 november 2019](onbekend), nr. 2019 – 187751 (Stcrt. 2019, 66223) zijn de kaders van het begrip ‘genezen, verplegen en verzorgen’ (zorg) zoals gehanteerd binnen de zorgvrijstelling aangegeven. Aangezien de werkzaamheden op grond van het Rijksvaccinatieprogramma zoals vastgesteld op grond van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) (Wpg) al in [onderdeel 4.4.2](onbekend) van het hiervoor genoemde besluit als kwalificerende werkzaamheden voor toepassing van de zorgvrijstelling zijn aangemerkt, geldt dat ook voor de werkzaamheden in het kader van het COVID-19 Rijksvaccinatieprogramma.
-
-Overigens ben ik van mening dat de diagnostische werkzaamheden die medische laboratoria of diagnostische centra verrichten als gevolg van het afnemen van COVID-19 testen op grond van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) ook voor de werkzaamhedeneis in de zorgvrijstelling kwalificeren.
-
-### 8.7. Verlenging overgangsregelingen zorg- en sociale werkbedrijf-lichamen
-
 Zorglichamen en sociale werkbedrijven zijn onder voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting.3Artikel 5, eerste lid, onderdeel c, onder 1° en 2°, Wet Vpb 1969 juncto artikel 4 Uitvoeringsbesluit vennootschapsbelasting 1971. Om voor deze vrijstelling – die ook wel wordt aangeduid als de zorgvrijstelling – in aanmerking te komen, moet zijn voldaan aan een werkzaamheden- en winstbestemmingseis. In het [besluit van 25 november 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042886), nr. 2019-187751 (Stcrt. 2019, 66223), is over deze voorwaarden beleid opgenomen. [Onderdeel 7](onbekend) van dat besluit bevat overgangsregelingen voor bepaalde groepen zorglichamen en sociale werkbedrijven. De termijn van deze overgangsregelingen eindigt op 31 december 2020.
 
-Dit onderdeel is vervallen met ingang van 1 januari 2022.
+De in onderdeel 3.1 en onderdeel 3.4a van dit besluit opgenomen goedkeuringen met betrekking tot uitstel van betaling van belastingschulden zijn niet van toepassing op de omzetbelasting, de accijnzen, de verbruiksbelasting van alcoholvrije dranken en de kolenbelasting voor zover deze belastingen worden geheven met toepassing van de douanewetgeving ter zake van de invoer. Voor die gevallen voorziet de douanewetgeving in een eigen regeling. Zie met name de artikelen 110, 112 en 114 van het Douanewetboek van de Unie.
 
-Ik keur goed dat de termijn van de overgangsregelingen die gelden voor zorglichamen en sociale werkbedrijven en die zijn opgenomen in [onderdeel 7 van het besluit van 25 november 2019](onbekend), nr. 2019-187751 (Stcrt. 2019, 66223), wordt verlengd tot en met 31 december 2021.4Zie ook het besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020, 62958).
+De in onderdeel 3.1 van dit verzamelbesluit opgenomen goedkeuring 5 inzake schorsing van de verrekening van belastingen is niet van toepassing bij de verrekening van rechten bij invoer.
 
 ### 8.8. Herinvesteringsreserve
 
@@ -279,15 +279,15 @@ De bij een vervreemding van bedrijfsmiddelen behaalde boekwinst kan onder voorwa
 
 Wanneer de herinvestering nog niet heeft plaatsgevonden, wordt de herinvesteringsreserve uiterlijk in het derde jaar na het jaar waarin de reserve is ontstaan, in de winst opgenomen ([artikel 3.54, vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Op grond van onderdeel b van het vijfde lid geldt dit niet voor zover de aanschaffing of voortbrenging, mits daaraan een begin van uitvoering is gegeven, door bijzondere omstandigheden is vertraagd. Daarbij mag ervan worden uitgegaan dat de coronacrisis als bijzondere omstandigheid kwalificeert. Daarbij merk ik op dat nog wel aan de overige voorwaarden, waaronder dat aan de aanschaffing of voortbrenging een begin van uitvoering is gegeven, moet worden voldaan.
 
-### 8.8.2. Ruiming pelsdieren en overheidsingrijpen
+### 6.1. Administratieve verplichtingen
 
-Voor de herinvesteringsreserve en voor de doorschuiving van te conserveren inkomen bij staking ([artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) is van belang of sprake is van vervreemding die een gevolg is van overheidsingrijpen. Als sprake is van overheidsingrijpen dan zijn er ruimere mogelijkheden om een herinvesteringsreserve te vormen en af te boeken. De vraag is voorgelegd of de ruiming van pelsdieren wegens COVID-19 in combinatie met de vervroegde inwerkingtreding van de Wet verbod pelsdierhouderij wordt aangemerkt als overheidsingrijpen.
+Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
 Ik keur goed dat de ruiming van pelsdieren wegens COVID-19 mede in het zicht van de vervroegde inwerkingtreding van de [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739) voor de toepassing van [artikel 3.54 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) (en daarmee ook voor de toepassing van [artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) kwalificeert als overheidsingrijpen.
 
-Vervallen.
+Dit onderdeel is vervallen met ingang van 1 januari 2022.
 
-### 8.2. Urencriterium
+### 6.3. Gebruikelijk loon 2020 en 2021 AB-houders
 
 ### 9a. Zorgpersoneel en hulpgoederen
 
@@ -297,7 +297,25 @@ Het is denkbaar dat ondernemers door de coronacrisis minder of geen werkzaamhede
 
 Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 maart tot en met 30 september een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2020 als het aantal uren dat is besteed in de periode van 1 maart 2019 tot en met 30 september 2019. De ondernemer kan in dat geval met behulp van zijn administratie bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 maart 2019 tot en met 30 september 2019.
 
-Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in [artikel 3.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6), worden ondernemers in de periode van 1 januari 2021 tot en met 30 juni 2021 geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
+Vervallen.
+
+Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 januari tot en met 30 juni een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2021 als het aantal uren dat is besteed in de periode van 1 januari 2019 tot en met 30 juni 2019. De ondernemer kan in dat geval met behulp van zijn administratie bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 januari 2019 tot en met 30 juni 2019.
+
+### 8.1. Termijn bij gebruikmaking terugwerkende kracht bij geruisloze omzetting, bedrijfsfusie, juridische fusie, splitsing en geruisloze terugkeer
+
+Vervallen.
+
+### 8.2. Urencriterium
+
+Ondernemers die belastingplichtig zijn voor de inkomstenbelasting (als bedoeld in [artikel 3.4 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4)) kunnen onder voorwaarden aanspraak maken op verschillende ondernemersfaciliteiten. Op sommige van deze ondernemersfaciliteiten, zoals de zelfstandigenaftrek, de meewerkaftrek en de oudedagsreserve, kan uitsluitend aanspraak worden gemaakt als aan het zogenoemde urencriterium wordt voldaan. Aan dit urencriterium wordt in het algemeen voldaan wanneer de ondernemer ten minste 1.225 uren per kalenderjaar besteedt aan werkzaamheden voor zijn onderneming.
+
+### 10. Heffing over Duitse netto-uitkeringen
+
+Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in [artikel 3.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6), worden ondernemers in de periode van 1 maart 2020 tot en met 30 september 2020 geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
+
+### 11. Inkomstenbelasting
+
+### 11.1. Eigenwoningrente
 
 Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 januari tot en met 30 juni een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2021 als het aantal uren dat is besteed in de periode van 1 januari 2019 tot en met 30 juni 2019. De ondernemer kan in dat geval met behulp van zijn administratie bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 januari 2019 tot en met 30 juni 2019.
 
@@ -305,37 +323,19 @@ Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de
 
 Ook startende ondernemers die arbeidsongeschikt zijn kunnen mogelijk door de coronacrisis minder of geen werkzaamheden voor hun onderneming verrichten. Hiervoor acht ik het passend om in lijn met de systematiek van de hiervoor aangegeven versoepeling van het urencriterium ook het verlaagde urencriterium van 800 uren per kalenderjaar in de startersaftrek bij arbeidsongeschiktheid te versoepelen. Daarom keur ik het volgende goed.
 
-### 9d. Levering van COVID-19-vaccins en COVID-19-testkits
-
-Dit onderdeel is vervallen met ingang van 1 oktober 2021.
-
-### 10. Heffing over Duitse netto-uitkeringen
-
-Dit onderdeel is vervallen met ingang van 1 januari 2022.
-
-### 11. Inkomstenbelasting
-
-### 11.1. Eigenwoningrente
-
-Heeft de ondernemer meer belasting betaald dan het bedrag dat is verschuldigd na inwilliging van het verzoek, dan krijgt hij het verschil terugbetaald.
-
-### 8.5. Tegemoetkoming ondernemers getroffen sectoren & subsidie financiering vaste lasten
-
-Dit onderdeel is vervallen met ingang van 1 januari 2022. Vooruitlopend op wetswijzigingen bevatte dit onderdeel twee goedkeuringen. Deze wetswijzigingen zijn opgenomen in de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=III) en [XXIII van het Belastingplan 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XXIII).
-
 ### 8.6. Zorglichamen
 
-### 12. Uitstel publicatieplicht financiële gegevens ANBI’s
+### 8.3. Fiscale reserve 2019 voor coronagerelateerd verlies 2020 (fiscale coronareserve)
 
 Vervallen.
 
-### 13. [Wet implementatie EU-richtlijn grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+### 8.4. Voorlopige aanslag
 
 ### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
 
-Met de [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034) is [Richtlijn (EU) 2018/822](32018L0822)6[Richtlijn (EU) 2018/822](32018L0822) van de Raad van 25 mei 2018 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU wat betreftverplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtigegrensoverschrijdende constructies (PbEU 2018, L 139). in de Nederlandse wetgeving geïmplementeerd. Op basis hiervan geldt vanaf 1 juli 2020 een meldingsplicht voor zulke constructies. Vanwege de belemmeringen die door de COVID-19-pandemie worden veroorzaakt en de genomen maatregelen om het virus te helpen indammen is op Europees niveau geoordeeld dat tijdige naleving van deze verplichting niet goed mogelijk is. Daarom wordt in [Richtlijn (EU) 2020/876](32020L0876)7[Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU om te voorzien in de dringende behoefte aan uitstel van bepaalde termijnen voor de verstrekking en uitwisseling van inlichtingen op belastinggebied vanwege de COVID-19-pandemie (PbEU 2020, L 204). van de Raad van 24 juni 2020 lidstaten de mogelijkheid geboden over te gaan tot uitstel voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies. Met het oog hierop en om een meer uniforme uitvoering tussen de lidstaten te waarborgen, keur ik het volgende goed.
+Ondernemers die in 2020, 2021 of 2022 een lagere winst verwachten dan waarmee rekening is gehouden bij het opleggen van de voorlopige aanslag(en), kunnen een verzoek om vermindering indienen bij de inspecteur. De inspecteur zal dit verzoek inwilligen.
 
-Als gevolg van de coronapandemie verrichten (een aantal) medische laboratoria en diagnostische centra de laboratoriumwerkzaamheden naar aanleiding van de afname van coronatesten. Tevens verrichten verschillende zorglichamen werkzaamheden in het kader van het COVID-19 Rijksvaccinatieprogramma. In de praktijk is de vraag opgekomen of deze werkzaamheden van invloed zijn op de toepassing van de zorgvrijstelling. Ik vind het niet wenselijk dat hierover bij deze zorglichamen onzekerheid bestaat.
+Heeft de ondernemer meer belasting betaald dan het bedrag dat is verschuldigd na inwilliging van het verzoek, dan krijgt hij het verschil terugbetaald.
 
 In [onderdeel 4.2.1. van het besluit van 25 november 2019](onbekend), nr. 2019 – 187751 (Stcrt. 2019, 66223) zijn de kaders van het begrip ‘genezen, verplegen en verzorgen’ (zorg) zoals gehanteerd binnen de zorgvrijstelling aangegeven. Aangezien de werkzaamheden op grond van het Rijksvaccinatieprogramma zoals vastgesteld op grond van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) (Wpg) al in [onderdeel 4.4.2](onbekend) van het hiervoor genoemde besluit als kwalificerende werkzaamheden voor toepassing van de zorgvrijstelling zijn aangemerkt, geldt dat ook voor de werkzaamheden in het kader van het COVID-19 Rijksvaccinatieprogramma.
 
@@ -343,11 +343,11 @@ In [onderdeel 4.2.1. van het besluit van 25 november 2019](onbekend), nr. 2019 �
 
 Sommige lidstaten hebben geen gebruik gemaakt van de mogelijkheid die in [Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 wordt geboden om de termijnen voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies te verschuiven. Door de verschillende deadlines die lidstaten hanteren kunnen situaties ontstaan die niet eerder voorzien waren door de richtlijn en de wetgever.
 
-Zorglichamen en sociale werkbedrijven zijn onder voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting.3Artikel 5, eerste lid, onderdeel c, onder 1° en 2°, Wet Vpb 1969 juncto artikel 4 Uitvoeringsbesluit vennootschapsbelasting 1971. Om voor deze vrijstelling – die ook wel wordt aangeduid als de zorgvrijstelling – in aanmerking te komen, moet zijn voldaan aan een werkzaamheden- en winstbestemmingseis. In het [besluit van 25 november 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042886), nr. 2019-187751 (Stcrt. 2019, 66223), is over deze voorwaarden beleid opgenomen. [Onderdeel 7](onbekend) van dat besluit bevat overgangsregelingen voor bepaalde groepen zorglichamen en sociale werkbedrijven. De termijn van deze overgangsregelingen eindigt op 31 december 2020.
+Zorglichamen zijn onder bepaalde voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting ([artikel 5, eerste lid, onderdeel c, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), hierna ook aan te duiden als de zorgvrijstelling).2Zie uitgebreid het besluit van 25 november 2019, nr. 2019-187751 (Stcrt. 2019, 66223), laatstelijk gewijzigd bij besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020-62958).
 
 De huidige bijzondere omstandigheden kunnen meebrengen dat zorglichamen en/of sociale werkbedrijven niet op tijd aan de voorwaarden van de overgangsregelingen kunnen voldoen. Ik vind dit onwenselijk en keur daarom het volgende goed.
 
-Ik keur goed dat de termijn van de overgangsregelingen die gelden voor zorglichamen en sociale werkbedrijven en die zijn opgenomen in [onderdeel 7 van het besluit van 25 november 2019](onbekend), nr. 2019-187751 (Stcrt. 2019, 66223), wordt verlengd tot en met 31 december 2021.4Zie ook het besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020, 62958).
+Zorglichamen ontvangen continuïteitsbijdragen ter compensatie van omzetdaling en extra gemaakte kosten als gevolg van de coronapandemie. Met deze continuïteitsbijdragen wordt beoogd de financiële continuïteit van de zorgaanbieders te garanderen en ervoor te zorgen dat de zorginfrastructuur ook na de coronacrisis beschikbaar blijft. In de praktijk is de vraag opgekomen of de continuïteitsbijdragen die zorglichamen ontvangen van invloed zijn op de toepassing van de zorgvrijstelling. Ik vind het niet wenselijk dat bij zorglichamen louter door de ontvangst van continuïteitsbijdragen de zorgvrijstelling over de boekjaren 2020 of 2021 ter discussie komt te staan en mogelijk niet zou kunnen worden toegepast. Daarom keur ik het volgende goed.
 
 ### 8.8. Herinvesteringsreserve
 
@@ -355,17 +355,17 @@ De bij een vervreemding van bedrijfsmiddelen behaalde boekwinst kan onder voorwa
 
 ### 8.8.1. Bijzondere omstandigheid
 
-Wanneer de herinvestering nog niet heeft plaatsgevonden, wordt de herinvesteringsreserve uiterlijk in het derde jaar na het jaar waarin de reserve is ontstaan, in de winst opgenomen ([artikel 3.54, vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Op grond van onderdeel b van het vijfde lid geldt dit niet voor zover de aanschaffing of voortbrenging, mits daaraan een begin van uitvoering is gegeven, door bijzondere omstandigheden is vertraagd. Daarbij mag ervan worden uitgegaan dat de coronacrisis als bijzondere omstandigheid kwalificeert. Daarbij merk ik op dat nog wel aan de overige voorwaarden, waaronder dat aan de aanschaffing of voortbrenging een begin van uitvoering is gegeven, moet worden voldaan.
+In [onderdeel 4.2.1. van het besluit van 25 november 2019](onbekend), nr. 2019 – 187751 (Stcrt. 2019, 66223) zijn de kaders van het begrip ‘genezen, verplegen en verzorgen’ (zorg) zoals gehanteerd binnen de zorgvrijstelling aangegeven. Aangezien de werkzaamheden op grond van het Rijksvaccinatieprogramma zoals vastgesteld op grond van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) (Wpg) al in [onderdeel 4.4.2](onbekend) van het hiervoor genoemde besluit als kwalificerende werkzaamheden voor toepassing van de zorgvrijstelling zijn aangemerkt, geldt dat ook voor de werkzaamheden in het kader van het COVID-19 Rijksvaccinatieprogramma.
 
-De onderdelen 3.3.1 en 3.4a zijn vervallen met ingang van 1 april 2022.
+Overigens ben ik van mening dat de diagnostische werkzaamheden die medische laboratoria of diagnostische centra verrichten als gevolg van het afnemen van COVID-19 testen op grond van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) ook voor de werkzaamhedeneis in de zorgvrijstelling kwalificeren.
 
 Voor de herinvesteringsreserve en voor de doorschuiving van te conserveren inkomen bij staking ([artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) is van belang of sprake is van vervreemding die een gevolg is van overheidsingrijpen. Als sprake is van overheidsingrijpen dan zijn er ruimere mogelijkheden om een herinvesteringsreserve te vormen en af te boeken. De vraag is voorgelegd of de ruiming van pelsdieren wegens COVID-19 in combinatie met de vervroegde inwerkingtreding van de Wet verbod pelsdierhouderij wordt aangemerkt als overheidsingrijpen.
 
-Ik keur goed dat de ruiming van pelsdieren wegens COVID-19 mede in het zicht van de vervroegde inwerkingtreding van de [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739) voor de toepassing van [artikel 3.54 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) (en daarmee ook voor de toepassing van [artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) kwalificeert als overheidsingrijpen.
+Zorglichamen en sociale werkbedrijven zijn onder voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting.3Artikel 5, eerste lid, onderdeel c, onder 1° en 2°, Wet Vpb 1969 juncto artikel 4 Uitvoeringsbesluit vennootschapsbelasting 1971. Om voor deze vrijstelling – die ook wel wordt aangeduid als de zorgvrijstelling – in aanmerking te komen, moet zijn voldaan aan een werkzaamheden- en winstbestemmingseis. In het [besluit van 25 november 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042886), nr. 2019-187751 (Stcrt. 2019, 66223), is over deze voorwaarden beleid opgenomen. [Onderdeel 7](onbekend) van dat besluit bevat overgangsregelingen voor bepaalde groepen zorglichamen en sociale werkbedrijven. De termijn van deze overgangsregelingen eindigt op 31 december 2020.
 
 ### 16. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit noodmaatregelen coronacrisis.
+Ik keur goed dat de termijn van de overgangsregelingen die gelden voor zorglichamen en sociale werkbedrijven en die zijn opgenomen in [onderdeel 7 van het besluit van 25 november 2019](onbekend), nr. 2019-187751 (Stcrt. 2019, 66223), wordt verlengd tot en met 31 december 2021.4Zie ook het besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020, 62958).
 
 ## Bijlage. Gepubliceerde lijst van de Wereld Douaneorganisatie; indelingen van medische voorzieningen in verband met uitbraak COVID-19
 
@@ -482,19 +482,19 @@ Ik keur goed dat uitwinning van de g-rekening achterwege blijft zolang ingevolge
 
 ### 3.5. Betalingsregeling voor opgebouwde belastingschuld
 
-De ontvanger verleent tot 1 oktober 2027 uitstel van betaling voor belastingen van ondernemers die uiterlijk 31 maart 2022 betaald hadden moeten zijn en waarvoor ingevolge onderdeel 3.4a van dit besluit uitstel van betaling is verleend, tenzij de betalingsproblemen niet hoofdzakelijk door de coronacrisis zijn ontstaan.
+**Ik keur goed dat de ontvanger tot en met 31 maart 2022 uitstel van betaling verleent aan ondernemers die in aanmerking komen voor de betalingsregeling van goedkeuring 1 van onderdeel 3.5 en aan ondernemers aan wie na 1 oktober 2021 uitstel van betaling is verleend op grond van goedkeuring 2 van onderdeel 3.4a zoals die luidde in het Besluit noodmaatregelen coronacrisis van 16 december 2021, nr. 2021-258581 (** **Stcrt. 2021, 50389** **). Het uitstel wordt verleend voor een of meer van de in goedkeuring 1 van onderdeel 3.1 genoemde belastingen die uiterlijk op 31 maart 2022 betaald moeten zijn. Ondernemers hoeven niet nogmaals te verzoeken om uitstel op grond van deze goedkeuring.**
 
-De voorwaarden b, c en d gelden ook als gebruik wordt gemaakt van een of meer van de mogelijkheden bedoeld onder goedkeuring 3.
+**De ontvanger stelt de ondernemer in de gelegenheid om de op grond van deze goedkeuring uitgestelde belastingschuld af te lossen met een betalingsregeling (zie hiervoor onderdeel 3.5), tenzij de betalingsproblemen niet hoofdzakelijk door de coronacrisis zijn ontstaan. Alvorens de ontvanger het uitstel intrekt of weigert, stelt hij de ondernemer in de gelegenheid om aan te tonen dat de betalingsproblemen hoofdzakelijk door de coronacrisis zijn ontstaan.**
 
-Voor kwartaalaflossing en betaalpauze geldt dat de ondernemer zijn gehele belastingschuld voor 1 oktober 2027 moet hebben betaald. Dit tijdstip is later, maar uiterlijk 30 september 2029, indien en voor zover de ontvanger heeft ingestemd met een verlenging van de betalingsregeling (zie onder a). Dit betekent ook dat als de ontvanger het verzoek om betaling per kwartaal of betaalpauze inwilligt, de ontvanger voor de nog te betalen belastingschuld de termijnen opnieuw zal berekenen.
+**Ik keur goed dat noch het feit dat aan de ondernemer eerder uitstel op grond van het bestaande beleid is verleend, noch het feit dat de ondernemer verzoekt om een andere vorm van uitstel, een belemmering vormt voor het toekennen van uitstel van betaling op grond van dit onderdeel.**
 
 ### 4. Betalingsverzuimboeten
 
-Ik keur goed dat verzuimboeten voor betalingsverzuimen in een periode waarvoor op grond van dit besluit bijzonder uitstel van betaling is of wordt verleend, worden geacht niet te zijn opgelegd. Als een verzuimboete wordt opgelegd, zorgt de ontvanger ervoor dat deze ambtshalve wordt vernietigd.
+De ontvanger verleent tot 1 oktober 2027 uitstel van betaling voor belastingen van ondernemers die uiterlijk 31 maart 2022 betaald hadden moeten zijn en waarvoor ingevolge onderdeel 3.4a van dit besluit uitstel van betaling is verleend, tenzij de betalingsproblemen niet hoofdzakelijk door de coronacrisis zijn ontstaan.
 
 ### 5.1. Uitstel van betaling
 
-De in onderdeel 3.1 en onderdeel 3.4a van dit besluit opgenomen goedkeuringen met betrekking tot uitstel van betaling van belastingschulden zijn niet van toepassing op de omzetbelasting, de accijnzen, de verbruiksbelasting van alcoholvrije dranken en de kolenbelasting voor zover deze belastingen worden geheven met toepassing van de douanewetgeving ter zake van de invoer. Voor die gevallen voorziet de douanewetgeving in een eigen regeling. Zie met name de artikelen 110, 112 en 114 van het Douanewetboek van de Unie.
+Daarnaast keur ik het volgende goed:
 
 ### 6. Loonheffingen
 
@@ -502,39 +502,39 @@ De in onderdeel 3.1 en onderdeel 3.4a van dit besluit opgenomen goedkeuringen me
 
 Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
-### 6.2. Ongewijzigd doorlopen vaste reiskostenvergoedingen en andere vaste vergoedingen
+### 5.1. Uitstel van betaling
 
 ### 6.3. Gebruikelijk loon 2020 en 2021 AB-houders
 
-Dit onderdeel is vervallen met ingang van 1 januari 2022.
+De in onderdeel 4 van dit besluit opgenomen goedkeuring met betrekking tot de verzuimboeten voor betalingsverzuimen begaan in de periode van 12 maart 2020 tot aan de datum waarop het uitstel van betaling op grond van dit besluit eindigt, is in voorkomend geval ook van toepassing op de binnenlandse accijnzen en verbruiksbelasting van alcoholvrije dranken.
 
-### 6.4. Werkkostenregeling
+### 5.2. Termijn verkoop voorraad tabaksproducten aan wederverkopers
 
-Dit onderdeel is vervallen met ingang van 1 januari 2022. Vooruitlopend op wijziging van [artikel 31a, derde lid, van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) heb ik in dit onderdeel goedgekeurd dat voor het jaar 2021 in artikel 31a, derde lid, onderdeel a, van de Wet LB ‘1,7%’ en ‘€ 6.800’ gelezen worden als ‘3%’ en ‘€ 12.000’. Deze wetswijziging is opgenomen in het per 1 januari 2022 in werking getreden [artikel VII van het Belastingplan 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VII).
+Dit onderdeel is vervallen met ingang van 1 juni 2021
 
-### 7. Belasting van personenauto’s en motorrijwielen
+### 6. Loonheffingen
 
 Vervallen.
 
 ### 8. Vennootschapsbelasting en inkomstenbelasting (winst)
 
-### 8.1. Termijn bij gebruikmaking terugwerkende kracht bij geruisloze omzetting, bedrijfsfusie, juridische fusie, splitsing en geruisloze terugkeer
+### 6.2. Ongewijzigd doorlopen vaste reiskostenvergoedingen en andere vaste vergoedingen
 
-Ondernemers die belastingplichtig zijn voor de inkomstenbelasting (als bedoeld in [artikel 3.4 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4)) kunnen onder voorwaarden aanspraak maken op verschillende ondernemersfaciliteiten. Op sommige van deze ondernemersfaciliteiten, zoals de zelfstandigenaftrek, de meewerkaftrek en de oudedagsreserve, kan uitsluitend aanspraak worden gemaakt als aan het zogenoemde urencriterium wordt voldaan. Aan dit urencriterium wordt in het algemeen voldaan wanneer de ondernemer ten minste 1.225 uren per kalenderjaar besteedt aan werkzaamheden voor zijn onderneming.
+Dit onderdeel is vervallen met ingang van 1 januari 2022.
 
-Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in [artikel 3.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6), worden ondernemers in de periode van 1 maart 2020 tot en met 30 september 2020 geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
+Dit onderdeel is vervallen met ingang van 1 januari 2022. Vooruitlopend op wijziging van [artikel 31a, derde lid, van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) heb ik in dit onderdeel goedgekeurd dat voor het jaar 2021 in artikel 31a, derde lid, onderdeel a, van de Wet LB ‘1,7%’ en ‘€ 6.800’ gelezen worden als ‘3%’ en ‘€ 12.000’. Deze wetswijziging is opgenomen in het per 1 januari 2022 in werking getreden [artikel VII van het Belastingplan 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VII).
 
 Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van de startersaftrek bij arbeidsongeschiktheid zoals bepaald in [artikel 3.78a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78a), worden de betreffende ondernemers, voor de periode van 1 maart 2020 tot en met 30 september 2020 en voor de periode van 1 januari 2021 tot en met 30 juni 2021, geacht ten minste 16 uren per week aan hun onderneming(en) te hebben besteed. De hiervoor genoemde goedkeuring voor ondernemers die seizoengebonden werkzaamheden verrichten is van overeenkomstige toepassing.
 
 ### 8.3. Fiscale reserve 2019 voor coronagerelateerd verlies 2020 (fiscale coronareserve)
 
-Vervallen.
+Het is denkbaar dat ondernemers door de coronacrisis minder of geen werkzaamheden voor hun onderneming(en) kunnen verrichten. Hierdoor kan het voor ondernemers lastig zijn om aannemelijk te maken dat aan het urencriterium is voldaan. Het feit dat ondernemers puur als gevolg van de coronacrisis bepaalde ondernemersfaciliteiten verliezen, vind ik onwenselijk en onrechtvaardig. Daarom keur ik het volgende goed.
 
 ### 8.4. Voorlopige aanslag
 
-De [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bieden de mogelijkheid om een voorlopige aanslag vennootschapsbelasting en inkomstenbelasting te verminderen.
+Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 maart tot en met 30 september een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2020 als het aantal uren dat is besteed in de periode van 1 maart 2019 tot en met 30 september 2019. De ondernemer kan in dat geval met behulp van zijn administratie bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 maart 2019 tot en met 30 september 2019.
 
-Ondernemers die in 2020, 2021 of 2022 een lagere winst verwachten dan waarmee rekening is gehouden bij het opleggen van de voorlopige aanslag(en), kunnen een verzoek om vermindering indienen bij de inspecteur. De inspecteur zal dit verzoek inwilligen.
+Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in [artikel 3.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6), worden ondernemers in de periode van 1 januari 2021 tot en met 30 juni 2021 geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
 
 Zorglichamen zijn onder bepaalde voorwaarden subjectief vrijgesteld van de heffing van vennootschapsbelasting ([artikel 5, eerste lid, onderdeel c, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), hierna ook aan te duiden als de zorgvrijstelling).2Zie uitgebreid het besluit van 25 november 2019, nr. 2019-187751 (Stcrt. 2019, 66223), laatstelijk gewijzigd bij besluit van 17 december 2020, nr. 2020-27575 (Stcrt. 2020-62958).
 
@@ -542,37 +542,37 @@ Zorglichamen zijn onder bepaalde voorwaarden subjectief vrijgesteld van de heffi
 
 Zorglichamen ontvangen continuïteitsbijdragen ter compensatie van omzetdaling en extra gemaakte kosten als gevolg van de coronapandemie. Met deze continuïteitsbijdragen wordt beoogd de financiële continuïteit van de zorgaanbieders te garanderen en ervoor te zorgen dat de zorginfrastructuur ook na de coronacrisis beschikbaar blijft. In de praktijk is de vraag opgekomen of de continuïteitsbijdragen die zorglichamen ontvangen van invloed zijn op de toepassing van de zorgvrijstelling. Ik vind het niet wenselijk dat bij zorglichamen louter door de ontvangst van continuïteitsbijdragen de zorgvrijstelling over de boekjaren 2020 of 2021 ter discussie komt te staan en mogelijk niet zou kunnen worden toegepast. Daarom keur ik het volgende goed.
 
-Ik keur goed dat een continuïteitsbijdrage voor zorglichamen, de vrijgestelde status van deze zorglichamen voor de boekjaren 2020 of 2021 niet ontneemt als de zorgvrijstelling in het boekjaar 2019 ook van toepassing was op deze zorglichamen. Als voorwaarde geldt hierbij dat er zich buiten de ontvangst van de continuïteitsbijdrage(n) in het boekjaar 2020 respectievelijk in het boekjaar 2021, ten opzichte van het boekjaar 2019, geen wijziging in de feiten en omstandigheden heeft voorgedaan respectievelijk voordoet, die tot gevolg heeft dat de zorgvrijstelling niet meer van toepassing is.
+De [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bieden de mogelijkheid om een voorlopige aanslag vennootschapsbelasting en inkomstenbelasting te verminderen.
 
 ### 8.6.2. Werkzaamheden COVID-19 testen en COVID-19 Rijksvaccinatieprogramma
 
-Overigens ben ik van mening dat de diagnostische werkzaamheden die medische laboratoria of diagnostische centra verrichten als gevolg van het afnemen van COVID-19 testen op grond van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) ook voor de werkzaamhedeneis in de zorgvrijstelling kwalificeren.
+Dit onderdeel is vervallen met ingang van 1 januari 2022. Vooruitlopend op wetswijzigingen bevatte dit onderdeel twee goedkeuringen. Deze wetswijzigingen zijn opgenomen in de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=III) en [XXIII van het Belastingplan 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XXIII).
 
-### 8.7. Verlenging overgangsregelingen zorg- en sociale werkbedrijf-lichamen
+### 8.6. Zorglichamen
 
 ### 8.8.2. Ruiming pelsdieren en overheidsingrijpen
+
+De huidige bijzondere omstandigheden kunnen meebrengen dat zorglichamen en/of sociale werkbedrijven niet op tijd aan de voorwaarden van de overgangsregelingen kunnen voldoen. Ik vind dit onwenselijk en keur daarom het volgende goed.
+
+### 9. Omzetbelasting
+
+### 8.8. Herinvesteringsreserve
+
+De bij een vervreemding van bedrijfsmiddelen behaalde boekwinst kan onder voorwaarden worden opgenomen in een herinvesteringsreserve ([artikel 3.54 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Een belangrijke voorwaarde is dat een voornemen bestaat om te herinvesteren in een bedrijfsmiddel. Bij herinvestering wordt de herinvesteringsreserve afgeboekt op de aanschaffings- of voortbrengingskosten van het bedrijfsmiddel waarin wordt geherinvesteerd.
+
+### 8.8.1. Bijzondere omstandigheid
+
+Wanneer de herinvestering nog niet heeft plaatsgevonden, wordt de herinvesteringsreserve uiterlijk in het derde jaar na het jaar waarin de reserve is ontstaan, in de winst opgenomen ([artikel 3.54, vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Op grond van onderdeel b van het vijfde lid geldt dit niet voor zover de aanschaffing of voortbrenging, mits daaraan een begin van uitvoering is gegeven, door bijzondere omstandigheden is vertraagd. Daarbij mag ervan worden uitgegaan dat de coronacrisis als bijzondere omstandigheid kwalificeert. Daarbij merk ik op dat nog wel aan de overige voorwaarden, waaronder dat aan de aanschaffing of voortbrenging een begin van uitvoering is gegeven, moet worden voldaan.
+
+Gelet op de bijzondere situatie en het tijdelijke karakter van de sluiting keur ik het volgende goed.
+
+Voor de herinvesteringsreserve en voor de doorschuiving van te conserveren inkomen bij staking ([artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) is van belang of sprake is van vervreemding die een gevolg is van overheidsingrijpen. Als sprake is van overheidsingrijpen dan zijn er ruimere mogelijkheden om een herinvesteringsreserve te vormen en af te boeken. De vraag is voorgelegd of de ruiming van pelsdieren wegens COVID-19 in combinatie met de vervroegde inwerkingtreding van de Wet verbod pelsdierhouderij wordt aangemerkt als overheidsingrijpen.
+
+### 9c. Levering van mondkapjes
 
 Immers, wanneer de pelsdieren niet geruimd zouden worden vanwege COVID-19, dan zouden de pelsdieren uiterlijk 8 januari 2021 vervreemd worden als gevolg van de vervroegde inwerkingtreding van het verbod om pelsdieren te houden op grond van de [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739). Die vervreemding zou het gevolg zijn van overheidsingrijpen ([artikel 3.54, twaalfde lid, onderdeel c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) juncto [artikel 12a, onderdeel a, Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=12a)). Ik acht het, gezien deze specifieke omstandigheden, onwenselijk dat de gevolgen ten aanzien van de herinvesteringsreserve verschillen bij de vervreemding als gevolg van de ruiming wegens COVID-19 en de vervreemding als gevolg van de vervroegde inwerkingtreding van het verbod om pelsdieren te houden. Met deze goedkeuring worden de gevolgen gelijkgetrokken.
 
 ### 9. Omzetbelasting
-
-### 9a. Zorgpersoneel en hulpgoederen
-
-Dit onderdeel is vervallen met ingang van 1 oktober 2021.
-
-### 9b. Verlaagd btw-tarief voor online sportlessen door sportscholen
-
-In verband met de bestrijding van de coronacrisis waren sportscholen vanaf 28 november 2021 beperkt geopend en vanaf 19 december 2021 tot en met 14 januari 2022 verplicht gesloten. Sportscholen werken veelal met abonnementen, waarbij hun afnemers voor langere tijd of meerdere keren de gelegenheid wordt geboden tot het volgen van groepslessen. Om hun afnemers tijdens de verplichte sluiting toch nog van dienst te kunnen zijn, boden sportscholen sportlessen in een aangepaste vorm online aan. De toepassing van het verlaagde btw-tarief is echter gekoppeld aan het door de sportschool ter beschikking stellen van een sportaccommodatie aan afnemers. Dit was sinds 28 november 2021 maar beperkt mogelijk en tijdens de sluiting vanaf 19 december 2021 tot en met 14 januari 2022 niet meer mogelijk.
-
-Gelet op de bijzondere situatie en het tijdelijke karakter van de sluiting keur ik het volgende goed.
-
-Ik keur goed dat het verlaagde btw-tarief vanaf 28 november 2021 tot en met 14 januari 2022 van toepassing is op de sportlessen die sportscholen en dergelijke ondernemers online aanbieden.
-
-### 9c. Levering van mondkapjes
-
-Dit onderdeel is vervallen met ingang van 1 oktober 2021.
-
-### 9d. Levering van COVID-19-vaccins en COVID-19-testkits
 
 Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
@@ -584,13 +584,13 @@ Dit onderdeel is vervallen met ingang van 1 januari 2022.
 
 ### 11.1. Eigenwoningrente
 
-In het besluit ‘[Inkomstenbelasting. Eigenwoningrente; betaalpauze voor rente en aflossing eigenwoningschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0045648)’ van 23 september 2021, nr. 2021-20581 zijn goedkeuringen opgenomen waardoor een eigenwoningschuld die onder de fiscale aflossingseis valt, blijft behoren tot de eigenwoningschuld als met de geldverstrekker een betaalpauze voor rente en aflossing wordt overeengekomen vanwege (dreigende) betalingsproblemen als gevolg van de uitbraak van het coronavirus en de daardoor ontstane aflossingsachterstand op een andere wijze dan waarin wettelijk is voorzien, wordt ingehaald. Daarnaast wordt in dit besluit toegelicht op welk moment de tijdens de betaalpauze verschuldigde rente aftrekbaar is. Dit besluit geldt onder voorwaarden ook voor al vóór 8 mei 20205Dit betreft de publicatiedatum van het oorspronkelijke besluit van 6 mei 2020, nr. 2020-85139 (Stcrt. 2020, 26069). overeengekomen betaalpauzes in verband met de uitbraak van het coronavirus. Tijdens een betaalpauze hoeft een belastingplichtige gedurende een bepaalde periode (gedeeltelijk) geen rente en aflossing te betalen.
+Ik keur goed dat het verlaagde btw-tarief vanaf 28 november 2021 tot en met 14 januari 2022 van toepassing is op de sportlessen die sportscholen en dergelijke ondernemers online aanbieden.
 
-### 11.2. Reisaftrek
+### 9c. Levering van mondkapjes
 
-Dit onderdeel is vervallen met ingang van 1 januari 2021.
+Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
-### 11.3. Belastingrente en ‘hulp bij aangifte’ (aangifte 2019 en 2020)
+### 9d. Levering van COVID-19-vaccins en COVID-19-testkits
 
 ### 12. Uitstel publicatieplicht financiële gegevens ANBI’s
 
@@ -598,11 +598,11 @@ Vervallen.
 
 ### 13. [Wet implementatie EU-richtlijn grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
 
-### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+### 11. Inkomstenbelasting
 
 De Belastingdienst vindt het belangrijk dat belastingplichtigen die de aangifte met hulp willen indienen, deze hulp ook krijgen. Daarom is op initiatief van de Belastingdienst aan de betreffende belastingplichtigen toestemming verleend om de aangifte 2019 en 2020 later in te dienen en heeft de Belastingdienst de inlevertermijn voor deze aangiften eenzijdig verlengd. De betreffende belastingplichtigen zijn hierover schriftelijk geïnformeerd.
 
-Ik keur goed dat:
+In het besluit ‘[Inkomstenbelasting. Eigenwoningrente; betaalpauze voor rente en aflossing eigenwoningschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0045648)’ van 23 september 2021, nr. 2021-20581 zijn goedkeuringen opgenomen waardoor een eigenwoningschuld die onder de fiscale aflossingseis valt, blijft behoren tot de eigenwoningschuld als met de geldverstrekker een betaalpauze voor rente en aflossing wordt overeengekomen vanwege (dreigende) betalingsproblemen als gevolg van de uitbraak van het coronavirus en de daardoor ontstane aflossingsachterstand op een andere wijze dan waarin wettelijk is voorzien, wordt ingehaald. Daarnaast wordt in dit besluit toegelicht op welk moment de tijdens de betaalpauze verschuldigde rente aftrekbaar is. Dit besluit geldt onder voorwaarden ook voor al vóór 8 mei 20205Dit betreft de publicatiedatum van het oorspronkelijke besluit van 6 mei 2020, nr. 2020-85139 (Stcrt. 2020, 26069). overeengekomen betaalpauzes in verband met de uitbraak van het coronavirus. Tijdens een betaalpauze hoeft een belastingplichtige gedurende een bepaalde periode (gedeeltelijk) geen rente en aflossing te betalen.
 
 Uit de wet volgt dat als een belastingaanslag met een te betalen bedrag wordt vastgesteld daarbij in beginsel belastingrente in rekening wordt gebracht (zie [artikel 30f e.v. AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f)). Belastingrente blijft achterwege als de aangifte vóór 1 mei is ingediend en de (voorlopige) aanslag wordt opgelegd overeenkomstig de ingediende aangifte. Als de aangifte later wordt ingediend, wordt belastingrente in rekening gebracht, ook als de inlevertermijn op verzoek is verlengd.
 
@@ -610,29 +610,29 @@ Uit de wet volgt dat als een belastingaanslag met een te betalen bedrag wordt va
 
 Ik keur onder de volgende voorwaarden goed dat de belastingrente die in rekening is gebracht aan de hiervoor bedoelde belastingplichtigen bij de (voorlopige) aanslag inkomstenbelasting/premie volksverzekeringen 2019 of 2020 ambtshalve wordt verminderd tot nihil.
 
-Voor deze goedkeuring gelden de volgende drie voorwaarden:
+Dit onderdeel bevat een tegemoetkoming voor belastingplichtigen die met belastingrente worden geconfronteerd door de opgetreden vertraging bij de zogenoemde ‘hulp bij aangifte’ (HUBA). Vanwege de coronamaatregelen was de hulp bij de aangifte inkomstenbelasting/premie volksverzekeringen (hierna: de aangifte) 2019 en 2020 gedurende langere tijd niet of beperkt beschikbaar. Daarom is voor belastingplichtigen die gebruikmaken van deze hulp de inlevertermijn voor de aangifte 2019 en 2020 eenzijdig door de Belastingdienst verlengd. Belastingplichtigen die de aangifte binnen de verlengde inlevertermijn (met hulp) indienen, kunnen met belastingrente worden geconfronteerd. In dit onderdeel keur ik onder voorwaarden goed dat voor deze belastingplichtigen de belastingrente verminderd wordt.
 
 De goedkeuring geldt ook als de belastingrente vóór de inwerkingtreding van dit besluit in rekening is gebracht. De goedkeuring is van overeenkomstige toepassing als de belastingrente in rekening is gebracht bij een (voorlopige) aanslag inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-De Belastingdienst heeft te maken met massale processen. Het is complex en kostbaar om af te wijken van de reguliere geautomatiseerde werkwijze. Uit oogpunt van uitvoerbaarheid is er daarom voor gekozen om de betreffende (voorlopige) aanslagen regulier op te leggen en de daarbij bij beschikking in rekening gebrachte belastingrente op een later moment in een aantal herstelacties ambtshalve te verminderen tot nihil, waarbij eventueel betaalde belastingrente wordt terugbetaald. De Belastingdienst zal de belastingplichtige hierover schriftelijk informeren.
+Hulp bij het doen van de aangifte wordt aangeboden door de Belastingdienst, maar ook, met ondersteuning van de Belastingdienst, door verschillende maatschappelijke organisaties, zoals vak- en ouderenbonden, wijkcentra, belastingwinkels, sociaal werkers en formulieren-brigades. Deze organisaties houden door heel Nederland spreekuren in bijvoorbeeld bibliotheken.
 
 ### 12. Uitstel publicatieplicht financiële gegevens ANBI’s
 
-Vervallen.
+De Belastingdienst vindt het belangrijk dat belastingplichtigen die de aangifte met hulp willen indienen, deze hulp ook krijgen. Daarom is op initiatief van de Belastingdienst aan de betreffende belastingplichtigen toestemming verleend om de aangifte 2019 en 2020 later in te dienen en heeft de Belastingdienst de inlevertermijn voor deze aangiften eenzijdig verlengd. De betreffende belastingplichtigen zijn hierover schriftelijk geïnformeerd.
 
-### 13. [Wet implementatie EU-richtlijn grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+### Belastingrente
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 12 maart 2020 met dien verstande dat
+Uit de wet volgt dat als een belastingaanslag met een te betalen bedrag wordt vastgesteld daarbij in beginsel belastingrente in rekening wordt gebracht (zie [artikel 30f e.v. AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f)). Belastingrente blijft achterwege als de aangifte vóór 1 mei is ingediend en de (voorlopige) aanslag wordt opgelegd overeenkomstig de ingediende aangifte. Als de aangifte later wordt ingediend, wordt belastingrente in rekening gebracht, ook als de inlevertermijn op verzoek is verlengd.
 
-Met de [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034) is [Richtlijn (EU) 2018/822](32018L0822)6[Richtlijn (EU) 2018/822](32018L0822) van de Raad van 25 mei 2018 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU wat betreftverplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtigegrensoverschrijdende constructies (PbEU 2018, L 139). in de Nederlandse wetgeving geïmplementeerd. Op basis hiervan geldt vanaf 1 juli 2020 een meldingsplicht voor zulke constructies. Vanwege de belemmeringen die door de COVID-19-pandemie worden veroorzaakt en de genomen maatregelen om het virus te helpen indammen is op Europees niveau geoordeeld dat tijdige naleving van deze verplichting niet goed mogelijk is. Daarom wordt in [Richtlijn (EU) 2020/876](32020L0876)7[Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU om te voorzien in de dringende behoefte aan uitstel van bepaalde termijnen voor de verstrekking en uitwisseling van inlichtingen op belastinggebied vanwege de COVID-19-pandemie (PbEU 2020, L 204). van de Raad van 24 juni 2020 lidstaten de mogelijkheid geboden over te gaan tot uitstel voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies. Met het oog hierop en om een meer uniforme uitvoering tussen de lidstaten te waarborgen, keur ik het volgende goed.
+Belastingplichtigen die gebruikmaken van hulp bij aangifte en voor wie de inlevertermijn voor de aangifte 2019 of 2020 op initiatief van de Belastingdienst (dus niet op verzoek) is verlengd, kunnen met belastingrente worden geconfronteerd. Dit acht ik ongewenst. Daarom keur ik het volgende goed met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule).
 
-Ik keur goed dat:
+Ik keur onder de volgende voorwaarden goed dat de belastingrente die in rekening is gebracht aan de hiervoor bedoelde belastingplichtigen bij de (voorlopige) aanslag inkomstenbelasting/premie volksverzekeringen 2019 of 2020 ambtshalve wordt verminderd tot nihil.
 
-Vanwege bovenstaande goedkeuring zal het vanaf 1 januari 2021 mogelijk zijn om meldingsplichtige grensoverschrijdende constructies te melden aan de Belastingdienst.
+Voor deze goedkeuring gelden de volgende drie voorwaarden:
 
 ### 13.2. Voorkomen van dubbele meldingen vanwege het feit dat niet alle lidstaten gebruikmaken van de mogelijkheid de termijnen voor het melden van constructies te verschuiven
 
-Sommige lidstaten hebben geen gebruik gemaakt van de mogelijkheid die in [Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 wordt geboden om de termijnen voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies te verschuiven. Door de verschillende deadlines die lidstaten hanteren kunnen situaties ontstaan die niet eerder voorzien waren door de richtlijn en de wetgever.
+De Belastingdienst heeft te maken met massale processen. Het is complex en kostbaar om af te wijken van de reguliere geautomatiseerde werkwijze. Uit oogpunt van uitvoerbaarheid is er daarom voor gekozen om de betreffende (voorlopige) aanslagen regulier op te leggen en de daarbij bij beschikking in rekening gebrachte belastingrente op een later moment in een aantal herstelacties ambtshalve te verminderen tot nihil, waarbij eventueel betaalde belastingrente wordt terugbetaald. De Belastingdienst zal de belastingplichtige hierover schriftelijk informeren.
 
 ## Bijlage. Gepubliceerde lijst van de Wereld Douaneorganisatie; indelingen van medische voorzieningen in verband met uitbraak COVID-19
 
@@ -683,25 +683,152 @@ Sommige lidstaten hebben geen gebruik gemaakt van de mogelijkheid die in [Richtl
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-Dit onderdeel bevat een tegemoetkoming voor belastingplichtigen die met belastingrente worden geconfronteerd door de opgetreden vertraging bij de zogenoemde ‘hulp bij aangifte’ (HUBA). Vanwege de coronamaatregelen was de hulp bij de aangifte inkomstenbelasting/premie volksverzekeringen (hierna: de aangifte) 2019 en 2020 gedurende langere tijd niet of beperkt beschikbaar. Daarom is voor belastingplichtigen die gebruikmaken van deze hulp de inlevertermijn voor de aangifte 2019 en 2020 eenzijdig door de Belastingdienst verlengd. Belastingplichtigen die de aangifte binnen de verlengde inlevertermijn (met hulp) indienen, kunnen met belastingrente worden geconfronteerd. In dit onderdeel keur ik onder voorwaarden goed dat voor deze belastingplichtigen de belastingrente verminderd wordt.
+Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
-### ‘Hulp bij aangifte’
+### 10. Heffing over Duitse netto-uitkeringen
 
-Hulp bij het doen van de aangifte wordt aangeboden door de Belastingdienst, maar ook, met ondersteuning van de Belastingdienst, door verschillende maatschappelijke organisaties, zoals vak- en ouderenbonden, wijkcentra, belastingwinkels, sociaal werkers en formulieren-brigades. Deze organisaties houden door heel Nederland spreekuren in bijvoorbeeld bibliotheken.
+Dit onderdeel is vervallen met ingang van 1 januari 2022.
 
 Door de uitzonderlijke omstandigheden van de coronacrisis is het bieden van hulp bij de aangifte 2019 en 2020 gedurende langere tijd niet of beperkt mogelijk geweest. Zo waren de kantoren van de Belastingdienst en de bibliotheken vanwege de zogenoemde lockdown enige tijd gesloten. Veel belastingplichtigen konden hierdoor pas (veel) later hulp krijgen en waren daardoor niet in staat om de aangifte vóór 1 mei met hulp in te dienen.
 
 ### Belastingrente
 
-Belastingplichtigen die gebruikmaken van hulp bij aangifte en voor wie de inlevertermijn voor de aangifte 2019 of 2020 op initiatief van de Belastingdienst (dus niet op verzoek) is verlengd, kunnen met belastingrente worden geconfronteerd. Dit acht ik ongewenst. Daarom keur ik het volgende goed met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule).
+Dit onderdeel is vervallen met ingang van 1 januari 2021.
 
 ### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
 
 Het kan voor komen dat een lidstaat zonder uitstel verwacht dat een relevante belastingplichtige, gevestigd in die lidstaat, een melding doet binnen de aldaar geldende termijnen wanneer het een grensoverschrijdende constructie betreft waarbij (alleen) een intermediair is betrokken uit een lidstaat waar wél uitstel van de termijnen bestaat, bijvoorbeeld Nederland.
 
-Om te voorkomen dat een Nederlandse intermediair, op het moment dat de meldplicht in Nederland ingaat, alsnog is gehouden over te gaan tot melding van een constructie die al in een andere lidstaat is gemeld door een relevante belastingplichtige aldaar, waardoor dubbele meldingen komen te bestaan, keur ik het volgende goed.
+Vervallen.
 
 Ik keur goed dat de intermediair, bedoeld in [artikel 10h, eerste lid, WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10h), is ontheven van de verplichting tot het verstrekken van de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, WIB, indien hij door middel van een referentienummer aannemelijk kan maken dat die gegevens en inlichtingen op grond van een met artikel 8 bis ter, zesde lid, van [Richtlijn 2011/16](32011L0016)/EU overeenkomende wettelijke bepaling gedurende de periode tot 1 januari 2021 reeds door een relevante belastingplichtige, bedoeld in [artikel 2d, eerste lid, onderdeel e, WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2d), in een andere lidstaat zijn verstrekt.
+
+### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+
+Met de [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034) is [Richtlijn (EU) 2018/822](32018L0822)6[Richtlijn (EU) 2018/822](32018L0822) van de Raad van 25 mei 2018 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU wat betreftverplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtigegrensoverschrijdende constructies (PbEU 2018, L 139). in de Nederlandse wetgeving geïmplementeerd. Op basis hiervan geldt vanaf 1 juli 2020 een meldingsplicht voor zulke constructies. Vanwege de belemmeringen die door de COVID-19-pandemie worden veroorzaakt en de genomen maatregelen om het virus te helpen indammen is op Europees niveau geoordeeld dat tijdige naleving van deze verplichting niet goed mogelijk is. Daarom wordt in [Richtlijn (EU) 2020/876](32020L0876)7[Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU om te voorzien in de dringende behoefte aan uitstel van bepaalde termijnen voor de verstrekking en uitwisseling van inlichtingen op belastinggebied vanwege de COVID-19-pandemie (PbEU 2020, L 204). van de Raad van 24 juni 2020 lidstaten de mogelijkheid geboden over te gaan tot uitstel voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies. Met het oog hierop en om een meer uniforme uitvoering tussen de lidstaten te waarborgen, keur ik het volgende goed.
+
+### 15. Inwerkingtreding en vervaldatum
+
+Vanwege bovenstaande goedkeuring zal het vanaf 1 januari 2021 mogelijk zijn om meldingsplichtige grensoverschrijdende constructies te melden aan de Belastingdienst.
+
+De onderdelen 3.3.1 en 3.4a zijn vervallen met ingang van 1 april 2022.
+
+Sommige lidstaten hebben geen gebruik gemaakt van de mogelijkheid die in [Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 wordt geboden om de termijnen voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies te verschuiven. Door de verschillende deadlines die lidstaten hanteren kunnen situaties ontstaan die niet eerder voorzien waren door de richtlijn en de wetgever.
+
+Het kan voor komen dat een lidstaat zonder uitstel verwacht dat een relevante belastingplichtige, gevestigd in die lidstaat, een melding doet binnen de aldaar geldende termijnen wanneer het een grensoverschrijdende constructie betreft waarbij (alleen) een intermediair is betrokken uit een lidstaat waar wél uitstel van de termijnen bestaat, bijvoorbeeld Nederland.
+
+### 16. Citeertitel
+
+Ik keur goed dat de intermediair, bedoeld in [artikel 10h, eerste lid, WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10h), is ontheven van de verplichting tot het verstrekken van de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, WIB, indien hij door middel van een referentienummer aannemelijk kan maken dat die gegevens en inlichtingen op grond van een met artikel 8 bis ter, zesde lid, van [Richtlijn 2011/16](32011L0016)/EU overeenkomende wettelijke bepaling gedurende de periode tot 1 januari 2021 reeds door een relevante belastingplichtige, bedoeld in [artikel 2d, eerste lid, onderdeel e, WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2d), in een andere lidstaat zijn verstrekt.
+
+## Bijlage. Gepubliceerde lijst van de Wereld Douaneorganisatie; indelingen van medische voorzieningen in verband met uitbraak COVID-19
+
+| Categorie | Product namen | Korte informatie | GS indeling |
+| --- | --- | --- | --- |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Test kits | Diagnostische reagentia op basis van polymerasekettingreactie (PCR) nucleïnezuurtest. | 3822.00 |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Test kits | Diagnostische reagentia op basis van immunologische reacties | 3002.15 |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Diagnostische Test instrumenten en apparaten | Instrumenten gebruikt in klinische laboratoria voor in vitro diagnose | 9027.80 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Gezichts- en oogbescherming** | **Gezichts- en oogbescherming** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Textielmaskers, zonder vervangbare filters of mechanische delen, inclusief chirurgische maskers en wegwerpmaskers van niet-geweven textiel | □ Textielmaskers, zonder vervangbare filters of mechanische delen, inclusief chirurgische maskers en wegwerpmaskers van niet-geweven textiel | 6307.90 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Gasmaskers met mechanische delen of vervangbare filters ter bescherming tegen biologische agentia. Omvat eveneens dergelijke maskers met oogbescherming of gelaatsschermen. | □ Gasmaskers met mechanische delen of vervangbare filters ter bescherming tegen biologische agentia. Omvat eveneens dergelijke maskers met oogbescherming of gelaatsschermen. | 9020.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Beschermende brillen | □ Beschermende brillen | 9004.90 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Gelaatsschermen van kunststof (bedekken meer dan de ogen) | □ Gelaatsschermen van kunststof (bedekken meer dan de ogen) | 3926.20 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Handschoenen** | **Handschoenen** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen van kunststof | □ Handschoenen van kunststof | 3926.20 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Chirurgische handschoenen van rubber | □ Chirurgische handschoenen van rubber | 4015.11 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Andere handschoenen van rubber | □ Andere handschoenen van rubber | 4015.19 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen van brei- of haakwerk die geïmpregneerd zijn of bedekt zijn met kunststof of rubber | □ Handschoenen van brei- of haakwerk die geïmpregneerd zijn of bedekt zijn met kunststof of rubber | 6116.10 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen, andere dan van brei- of haakwerk | □ Handschoenen, andere dan van brei- of haakwerk | 6216.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Andere** | **Andere** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Wegwerp haarnetjes | □ Wegwerp haarnetjes | 6505.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Beschermende kleding voor chirurgisch / medisch gebruik van vilt of gebonden textielvlies, ook indien geïmpregneerd, bekleed, bedekt of gelamineerd (textiel bedoeld bij post 56.02 of 56.03). Hieronder vallen ook gesponnen kledingstukken. | Beschermende kleding voor chirurgisch / medisch gebruik van vilt of gebonden textielvlies, ook indien geïmpregneerd, bekleed, bedekt of gelamineerd (textiel bedoeld bij post 56.02 of 56.03). Hieronder vallen ook gesponnen kledingstukken. | 6210.10 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Andere beschermende kleding van textiel, geïmpregneerd, bekleed, bedekt of gelamineerd met rubber (textiel van de posten 59.03, 59.06 of 59.07). De daadwerkelijke indeling hangt af van het type kledingstuk en of het kleding voor mannen of vrouwen betreft. Voorbeeld: een unisex geweven pak, geïmpregneerd met kunststof, wordt ingedeeld onder 6210.50 – andere kleding, voor dames of voor meisjes. | Andere beschermende kleding van textiel, geïmpregneerd, bekleed, bedekt of gelamineerd met rubber (textiel van de posten 59.03, 59.06 of 59.07). De daadwerkelijke indeling hangt af van het type kledingstuk en of het kleding voor mannen of vrouwen betreft. Voorbeeld: een unisex geweven pak, geïmpregneerd met kunststof, wordt ingedeeld onder 6210.50 – andere kleding, voor dames of voor meisjes. | 6210.20 6210.30 6210.40 6210.50 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Beschermende kledingstukken gemaakt van kunststof in vellen | Beschermende kledingstukken gemaakt van kunststof in vellen | 3926.20 |
+| **III. Thermometers** | Gevuld met vloeistof, met rechtstreekse aflezing | Omvat eveneens standaard ‘Mercury-in-glass’ klinische thermometer | 9025.11 |
+| **III. Thermometers** | Andere thermometers | Bijvoorbeeld digitale thermometers of infraroodthermometers voor op het voorhoofd. | 9025.19 |
+| **IV. Desinfecteermiddelen / Sterilisatieproducten** | Alcohol oplossing | Niet gedenatureerd, met een alcoholvolumegehalte van 80% vol of meer | 2207.10 |
+| **IV. Desinfecteermiddelen / Sterilisatieproducten** | Alcohol oplossing | Niet gedenatureerd, met een alcoholvolumegehalte van 75% vol | 2208.90 |
+|   | Desinfecterend middel voor de handen | Vloeibaar of in de vorm van een gel die over het algemeen wordt gebruikt om infectieuze stoffen op de handen, op alcoholbasis, te verminderen. | 3808.94 |
+|   | Andere desinfecterende bereidingen | Opgemaakt in vormen of verpakkingen voor de verkoop in het klein, zoals doekjes geïmpregneerd met alcohol of andere ontsmettingsmiddelen. | 3808.94 |
+|   | Medische, chirurgische of laboratoriumsterilisatoren | Werkend met stoom of kokend water | 8419.20 |
+|   | Waterstofperoxide **in bulk** | H2O2, ook indien gestold met ureum. | 2847.00 |
+|   | Waterstofperoxide gepresenteerd als medicijn | H2O2 opgemaakt voor intern of extern gebruik als geneesmiddel, ook als antisepticum voor de huid. Alleen hier bedoeld indien in afgemeten doses of in vormen of verpakkingen voor de detailhandel | 3004.90 |
+|   | Waterstofperoxide verwerkt in desinfecterende bereidingen voor oppervlakken reinigen | H2O2 opgemaakt als reinigingsoplossing voor oppervlakken of apparaten. | 3808.94 |
+|   | Andere chemische desinfecteermiddelen | Opgemaakt in verpakkingen voor kleinhandel in ontsmettingsmiddelen of als ontsmettingsmiddelen, die alcohol, benzalkoniumchlorideoplossing of peroxyzuren of andere ontsmettingsmiddelen bevatten. | 3808.94 |
+| **V. Andere medische apparaten** | Tomografen die werken met behulp van een machine voor het automatisch verwerken van gegevens (CT) -scanners | Gebruikt een roterende röntgenmachine om dunne plakjes van het lichaam af te beelden om ziekten zoals longontsteking te diagnosticeren. | 9022.12 |
+| **V. Andere medische apparaten** | Extracorporale membraanoxygenatie (ECMO) | Biedt langdurige cardiale en ademhalings-ondersteuning door bloed uit het lichaam van de persoon te verwijderen en de kooldioxide en zuurstofrijke rode bloedcellen kunstmatig te verwijderen. | 9018.90 |
+| **V. Andere medische apparaten** | Medische beademingsapparaten (beademingsapparatuur) | Zorgt voor mechanische ventilatie door ademlucht in en uit de longen te verplaatsen | 9019.20 |
+| **V. Andere medische apparaten** | Andere apparaten voor zuurstoftherapie, waaronder zuurstoftenten | Naast volledige zuurstoftherapieapparatuur omvat deze onderverdeling ook herkenbare delen van dergelijke systemen. | 9019.20 |
+| **V. Andere medische apparaten** | Patiëntbewakingsapparatuur – elektro-diagnostische apparatuur | Elektrische of elektronische apparatuur voor het waarnemen van een ziekte, aandoening of een of meer medische parameters in de tijd. Dit omvat apparaten zoals pulsoximeters of | 9018.19 |
+|   |   | controlestations aan het bed die worden gebruikt voor het continu bewaken van verschillende vitale functies. (Opmerking: dit omvat geen apparaten die specifieker elders worden omvat, bijv. elektrocardiografen (9018.11) of elektronische thermometers (9025.19).) |   |
+| **VI. Medische verbruiksartikelen** | Watten, gaas, verband en dergelijke artikelen (bijvoorbeeld zwachtels, pleisters, mosterdpleisters) | Geïmpregneerd of bedekt met farmaceutische stoffen of opgemaakt in vormen of verpakkingen voor de verkoop in het klein voor medisch gebruik | 3005.90 |
+| **VI. Medische verbruiksartikelen** | Spuiten, met of zonder naalden | Spuiten, met of zonder naalden | 9018.31 |
+| **VI. Medische verbruiksartikelen** | Buisvormige metalen naalden en hechtnaalden | Buisvormige metalen naalden en hechtnaalden | 9018.32 |
+| **VI. Medische verbruiksartikelen** | Naalden, katheters, canules en dergelijke | Naalden, katheters, canules en dergelijke | 9018.39 |
+| **VI. Medische verbruiksartikelen** | Intubatiekits | Intubatiekits | 9018.90 |
+| **VI. Medische verbruiksartikelen** | Papieren lakens | Papieren lakens | 4818.90 |
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+### 3.5. Betalingsregeling voor opgebouwde belastingschuld
+
+Voor de onder goedkeuring 1 en 2 verleende betalingsregeling gelden de volgende uitgangspunten en voorwaarden:
+
+### 6.4. Werkkostenregeling
+
+### 7. Belasting van personenauto’s en motorrijwielen
+
+### 8. Vennootschapsbelasting en inkomstenbelasting (winst)
+
+Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van de startersaftrek bij arbeidsongeschiktheid zoals bepaald in [artikel 3.78a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78a), worden de betreffende ondernemers, voor de periode van 1 maart 2020 tot en met 30 september 2020 en voor de periode van 1 januari 2021 tot en met 30 juni 2021, geacht ten minste 16 uren per week aan hun onderneming(en) te hebben besteed. De hiervoor genoemde goedkeuring voor ondernemers die seizoengebonden werkzaamheden verrichten is van overeenkomstige toepassing.
+
+### 8.5. Tegemoetkoming ondernemers getroffen sectoren & subsidie financiering vaste lasten
+
+### 8.6.1. Continuïteitsbijdragen zorglichamen
+
+Ik keur goed dat een continuïteitsbijdrage voor zorglichamen, de vrijgestelde status van deze zorglichamen voor de boekjaren 2020 of 2021 niet ontneemt als de zorgvrijstelling in het boekjaar 2019 ook van toepassing was op deze zorglichamen. Als voorwaarde geldt hierbij dat er zich buiten de ontvangst van de continuïteitsbijdrage(n) in het boekjaar 2020 respectievelijk in het boekjaar 2021, ten opzichte van het boekjaar 2019, geen wijziging in de feiten en omstandigheden heeft voorgedaan respectievelijk voordoet, die tot gevolg heeft dat de zorgvrijstelling niet meer van toepassing is.
+
+### 8.6.2. Werkzaamheden COVID-19 testen en COVID-19 Rijksvaccinatieprogramma
+
+Als gevolg van de coronapandemie verrichten (een aantal) medische laboratoria en diagnostische centra de laboratoriumwerkzaamheden naar aanleiding van de afname van coronatesten. Tevens verrichten verschillende zorglichamen werkzaamheden in het kader van het COVID-19 Rijksvaccinatieprogramma. In de praktijk is de vraag opgekomen of deze werkzaamheden van invloed zijn op de toepassing van de zorgvrijstelling. Ik vind het niet wenselijk dat hierover bij deze zorglichamen onzekerheid bestaat.
+
+### 8.7. Verlenging overgangsregelingen zorg- en sociale werkbedrijf-lichamen
+
+### 8.8.2. Ruiming pelsdieren en overheidsingrijpen
+
+Ik keur goed dat de ruiming van pelsdieren wegens COVID-19 mede in het zicht van de vervroegde inwerkingtreding van de [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739) voor de toepassing van [artikel 3.54 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) (en daarmee ook voor de toepassing van [artikel 3.64 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64)) kwalificeert als overheidsingrijpen.
+
+### 9a. Zorgpersoneel en hulpgoederen
+
+Dit onderdeel is vervallen met ingang van 1 oktober 2021.
+
+### 9b. Verlaagd btw-tarief voor online sportlessen door sportscholen
+
+In verband met de bestrijding van de coronacrisis waren sportscholen vanaf 28 november 2021 beperkt geopend en vanaf 19 december 2021 tot en met 14 januari 2022 verplicht gesloten. Sportscholen werken veelal met abonnementen, waarbij hun afnemers voor langere tijd of meerdere keren de gelegenheid wordt geboden tot het volgen van groepslessen. Om hun afnemers tijdens de verplichte sluiting toch nog van dienst te kunnen zijn, boden sportscholen sportlessen in een aangepaste vorm online aan. De toepassing van het verlaagde btw-tarief is echter gekoppeld aan het door de sportschool ter beschikking stellen van een sportaccommodatie aan afnemers. Dit was sinds 28 november 2021 maar beperkt mogelijk en tijdens de sluiting vanaf 19 december 2021 tot en met 14 januari 2022 niet meer mogelijk.
+
+Gelet op de bijzondere situatie en het tijdelijke karakter van de sluiting keur ik het volgende goed.
+
+### 11.1. Eigenwoningrente
+
+### 11.2. Reisaftrek
+
+### 11.3. Belastingrente en ‘hulp bij aangifte’ (aangifte 2019 en 2020)
+
+### ‘Hulp bij aangifte’
+
+Door de uitzonderlijke omstandigheden van de coronacrisis is het bieden van hulp bij de aangifte 2019 en 2020 gedurende langere tijd niet of beperkt mogelijk geweest. Zo waren de kantoren van de Belastingdienst en de bibliotheken vanwege de zogenoemde lockdown enige tijd gesloten. Veel belastingplichtigen konden hierdoor pas (veel) later hulp krijgen en waren daardoor niet in staat om de aangifte vóór 1 mei met hulp in te dienen.
+
+De goedkeuring geldt ook als de belastingrente vóór de inwerkingtreding van dit besluit in rekening is gebracht. De goedkeuring is van overeenkomstige toepassing als de belastingrente in rekening is gebracht bij een (voorlopige) aanslag inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+
+### 12. Uitstel publicatieplicht financiële gegevens ANBI’s
+
+### 13. [Wet implementatie EU-richtlijn grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+
+Ik keur goed dat:
+
+### 13.2. Voorkomen van dubbele meldingen vanwege het feit dat niet alle lidstaten gebruikmaken van de mogelijkheid de termijnen voor het melden van constructies te verschuiven
+
+Om te voorkomen dat een Nederlandse intermediair, op het moment dat de meldplicht in Nederland ingaat, alsnog is gehouden over te gaan tot melding van een constructie die al in een andere lidstaat is gemeld door een relevante belastingplichtige aldaar, waardoor dubbele meldingen komen te bestaan, keur ik het volgende goed.
 
 ### 14. Ingetrokken regeling
 
