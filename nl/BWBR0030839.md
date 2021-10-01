@@ -4,7 +4,7 @@ identifier: "BWBR0030839"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2016-10-13"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030839"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De in [artikel 7, eerste lid, onderdeel b, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
+De in [artikel 8, eerste lid, onderdeel b, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
 
 - a. de [Regeling regionaal zorgbudget en regionale verwijzingscommissie voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035215);
 
@@ -57,5 +57,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling bekostiging leerlingen die tijdelijk buiten de school worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a. Omhangbepaling
+
+Deze regeling berust op [artikel 8, eerste lid, onderdeel b, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
