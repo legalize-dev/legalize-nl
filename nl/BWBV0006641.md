@@ -4,7 +4,7 @@ identifier: "BWBV0006641"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-10-01"
-last_updated: "2015-10-22"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006641"
 soort: "verdrag"
@@ -142,7 +142,7 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Protocol in overeenstemming met de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=10&z=2015-10-22&g=2015-10-22) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=11&z=2015-10-22&g=2015-10-22);
+- c. elke datum van inwerkingtreding van dit Protocol in overeenstemming met de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=10&z=2021-10-01&g=2021-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=11&z=2021-10-01&g=2021-10-01);
 
 - d. elke andere akte, verklaring, kennisgeving of mededeling met betrekking tot dit Protocol.
 
