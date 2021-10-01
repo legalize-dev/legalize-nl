@@ -4,7 +4,7 @@ identifier: "BWBR0032083"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-11-29"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032083"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **criminele-inlichtingen:** gegevens die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- g. **verantwoordelijke:** de verantwoordelijke, bedoeld in [artikel 1, onderdeel f, onder 1° en 2°, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1).
+- g. **verwerkingsverantwoordelijke:** de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel f, onder 1° en 2°, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1).
 
 ##### Artikel 2
 
@@ -134,11 +134,11 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 ##### Artikel 7
 
-1. Criminele-inlichtingeneenheden wisselen onderling, gevraagd en ongevraagd, criminele-inlichtingen uit voor zover zij deze behoeven voor de uitvoering van hun taak. Daartoe wordt gebruikgemaakt van het modelformulier, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=1&z=2017-11-29&g=2017-11-29) van dit besluit.
+1. Criminele-inlichtingeneenheden wisselen onderling, gevraagd en ongevraagd, criminele-inlichtingen uit voor zover zij deze behoeven voor de uitvoering van hun taak. Daartoe wordt gebruikgemaakt van het modelformulier, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=1&z=2021-10-01&g=2021-10-01) van dit besluit.
 
 2. Twee ambtenaren van de criminele-inlichtingeneenheid worden aangewezen met het oog op de autorisatie als bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) ten aanzien van het bestand met criminele-inlichtingen bij de overige criminele-inlichtingeneenheden.
 
-3. De verantwoordelijke draagt ervoor zorg dat aan de ingevolge het tweede lid aangewezen en hem bekendgemaakte ambtenaren van andere criminele-inlichtingeneenheden autorisatie wordt verleend.
+3. De verwerkingsverantwoordelijke draagt ervoor zorg dat aan de ingevolge het tweede lid aangewezen en hem bekendgemaakte ambtenaren van andere criminele-inlichtingeneenheden autorisatie wordt verleend.
 
 ##### Artikel 8
 
@@ -148,11 +148,11 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 - b. personalia of bedrijfsgegevens van overeenkomstig [artikel 10, tweede lid, onderdelen a en b, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) geregistreerde personen in de door Onze Minister aangewezen geautomatiseerde verwijzingsindex;
 
-- c. codes als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=6&z=2017-11-29&g=2017-11-29);
+- c. codes als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=6&z=2021-10-01&g=2021-10-01);
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door de nationale criminele-inlichtingeneenheid.
 
-2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=2&z=2017-11-29&g=2017-11-29) van dit besluit maken de criminele-inlichtingeneenheden gebruik van de centrale verwijzingsindex.
+2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=2&z=2021-10-01&g=2021-10-01) van dit besluit maken de criminele-inlichtingeneenheden gebruik van de centrale verwijzingsindex.
 
 ##### Artikel 9
 
@@ -162,7 +162,7 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 - b. personalia of bedrijfsgegevens van overeenkomstig [artikel 10, tweede lid, onderdelen a en b, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) geregistreerde personen in de centrale verwijzingsindex;
 
-- c. codes die zijn toegewezen in het kader van de verwerking, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=6&z=2017-11-29&g=2017-11-29).
+- c. codes die zijn toegewezen in het kader van de verwerking, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=6&z=2021-10-01&g=2021-10-01).
 
 2. De nationale criminele-inlichtingeneenheid analyseert de gegevens, bedoeld in het eerste lid, onderdeel a, en verstrekt mede aan de hand daarvan de gegevens, bedoeld in het eerste lid, onderdelen a en b, aan hen die daarop bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) aanspraak kunnen maken.
 
@@ -170,11 +170,11 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 1. De ambtenaar die deel uitmaakt van een criminele-inlichtingeneenheid voldoet aan de kwalificatie van een door Onze Minister aan te wijzen politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1).
 
-2. De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van hem ondergeschikte ambtenaren die deel uitmaken van een criminele-inlichtingeneenheid, worden onderhouden op minimaal het niveau van de aan de in het eerste lid bedoelde kwalificaties.
+2. De verwerkingsverantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van hem ondergeschikte ambtenaren die deel uitmaken van een criminele-inlichtingeneenheid, worden onderhouden op minimaal het niveau van de aan de in het eerste lid bedoelde kwalificaties.
 
 ##### Artikel 11
 
-1. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die is belast met de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=5&z=2017-11-29&g=2017-11-29), ononderbroken deel uitmaakt van een criminele-inlichtingeneenheid.
+1. De verwerkingsverantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die is belast met de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=5&z=2021-10-01&g=2021-10-01), ononderbroken deel uitmaakt van een criminele-inlichtingeneenheid.
 
 2. De termijn, bedoeld in het eerste lid, is ten hoogste vier jaar en kan tweemaal met twee jaar worden verlengd.
 
@@ -196,13 +196,13 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 
 Dit besluit wordt aangehaald als: Besluit verplichte politiegegevens.
 
-## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7&z=2017-11-29&g=2017-11-29), van het Besluit verplichte politiegegevens
+## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7&z=2021-10-01&g=2021-10-01), van het Besluit verplichte politiegegevens
 
 ### Criminele inlichtingenrapport
 
 Het criminele inlichtingenrapport dient de volgende verplichte rubrieken te bevatten:
 
-## Bijlage 2. als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=8&z=2017-11-29&g=2017-11-29), van het Besluit verplichte politiegegevens
+## Bijlage 2. als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=8&z=2021-10-01&g=2021-10-01), van het Besluit verplichte politiegegevens
 
 ### Verwijsindex-gegevens
 
