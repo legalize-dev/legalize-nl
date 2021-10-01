@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2020-05-20"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -182,7 +182,7 @@ In het kader van de OESO richtlijnen wordt vereist dat bedrijven hun ketenverant
 
 ### 4.1. Commerciële haalbaarheid
 
-In het kader van de OESO richtlijnen wordt vereist dat bedrijven hun ketenverantwoordelijkheid serieus nemen. Hiertoe zullen zij, waar nodig ondersteund door RVO.nl, een risicoanalyse volgens de OESO-richtlijnen uitvoeren met betrekking tot de belangrijkste toeleveringsketens van de te financieren activiteit. Het betreft een analyse van de ketens van de meest elementaire grondstoffen en halffabricaten benodigd voor de fabricage van het eindproduct.
+In het kader van de OESO richtlijnen wordt vereist dat bedrijven hun ketenverantwoordelijkheid serieus nemen. Hiertoe zullen zij, waar nodig ondersteund door Invest International Public Programmes B.V., een risicoanalyse volgens de OESO-richtlijnen uitvoeren met betrekking tot de belangrijkste toeleveringsketens van de te financieren activiteit. Het betreft een analyse van de ketens van de meest elementaire grondstoffen en halffabricaten benodigd voor de fabricage van het eindproduct.
 
 Voor de MVO-beoordeling wordt de aangeleverde informatie beoordeeld aan de in het desbetreffende DGGF-land geldende wet- en regelgeving. De hierbij gehanteerde internationale richtlijnen zijn de IFC Performance Standards12http://www.ifc.org/performancestandards.13In aanvulling hierop kunnen ook richtlijnen van multilaterale ontwikkelingsbanken, de Europese Unie of internationaal erkende sectorspecifieke standaarden worden gebruikt.
 
@@ -210,7 +210,7 @@ Om in aanmerking te kunnen komen voor een subsidie moet de penvoerder aantonen d
 
 Onder andere van belang bij de beoordeling zal zijn dat de financiering in evenredige verhouding staat tot aard, omvang en beoogde resultaten van de activiteiten,
 
-RVO bepaalt of de aanvraag zelfstandig of in combinatie met andere financiers verder wordt behandeld. RVO heeft het mandaat om op basis van eigen beoordeling zowel indirect als direct financiële overeenkomsten aan te gaan met een onderneming.
+Invest International Public Programmes B.V. bepaalt of de aanvraag zelfstandig of in combinatie met andere financiers verder wordt behandeld. Invest International Public Programmes B.V. heeft het mandaat om op basis van eigen beoordeling zowel indirect als direct financiële overeenkomsten aan te gaan met een onderneming.
 
 Onder andere van belang bij de beoordeling zal zijn dat de financiering in evenredige verhouding staat tot aard, omvang en beoogde resultaten van de activiteiten,
 
@@ -226,11 +226,11 @@ De minister kan een aanvraag voorts afwijzen indien een van de criteria, vermeld
 
 ### 5.6. Klachtprocedure
 
-De volgende informatie wordt op de website van RVO geplaatst:
+De volgende informatie wordt op de website van Invest International Public Programmes B.V. geplaatst:
 
 ### 5.6. Klachtprocedure
 
-Onverminderd de ingevolge de Algemene wet bestuursrecht openstaande mogelijkheden van bezwaar en beroep beschikt RVO over een klachtenprocedure, die waarborgen biedt voor een behoorlijke, zorgvuldige, vlotte en onafhankelijke afhandeling van klachten over de wijze waarop RVO zich gedraagt in het kader van het beheer van het fonds.
+Onverminderd de ingevolge de Algemene wet bestuursrecht openstaande mogelijkheden van bezwaar en beroep beschikt Invest International Public Programmes B.V. over een klachtenprocedure, die waarborgen biedt voor een behoorlijke, zorgvuldige, vlotte en onafhankelijke afhandeling van klachten over de wijze waarop Invest International Public Programmes B.V. zich gedraagt in het kader van het beheer van het fonds.
 
 In aanvulling op [artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=25) dient er bij toepassing van het bepaalde in 3.5 van deze beleidsregels een ingevulde en ondertekende de-minimisverklaring bijgevoegd te worden.
 
@@ -410,7 +410,7 @@ De MVO-beoordeling is een integraal onderdeel van de financieringsaanvraag. Aanv
 
 Op basis van de risicoanalyse zal voor projecten met een hoog risico een plan moeten worden opgesteld om eventuele negatieve effecten te voorkomen dan wel te mitigeren. Afgesproken IMVO maatregelen zijn onderdeel van de financieringsovereenkomst. De aanvrager zal de in dit plan voorgestelde maatregelen uitvoeren en hierover communiceren.
 
-De mate waarin de wederpartij van RVO zelf in staat moet zijn om de vereiste due diligence onderzoeken en de monitoring en rapportages met betrekking tot de voor de ontwikkelingsdoelstellingen en de IMVO relevante aspecten uit te voeren, hangt mede af van de betrokkenheid van meerdere partijen en de wijze waarop de financiering wordt vormgegeven: indien een lening wordt verstrekt aan een financier met het oog op de financiering van een derde partij, kunnen due diligence en monitoring worden uitgevoerd door de RVO indien deze als cofinancier optreedt van dezelfde onderneming. Indien RVO niet als cofinancier optreedt, kan de financier due diligence, monitoring en rapportages voor zijn rekening moeten nemen. Case by case zal beoordeeld worden welke partij hiermee zal worden belast.
+De mate waarin de wederpartij van Invest International Public Programmes B.V. zelf in staat moet zijn om de vereiste due diligence onderzoeken en de monitoring en rapportages met betrekking tot de voor de ontwikkelingsdoelstellingen en de IMVO relevante aspecten uit te voeren, hangt mede af van de betrokkenheid van meerdere partijen en de wijze waarop de financiering wordt vormgegeven: indien een lening wordt verstrekt aan een financier met het oog op de financiering van een derde partij, kunnen due diligence en monitoring worden uitgevoerd door de Invest International Public Programmes B.V. indien deze als cofinancier optreedt van dezelfde onderneming. Indien Invest International Public Programmes B.V. niet als cofinancier optreedt, kan de financier due diligence, monitoring en rapportages voor zijn rekening moeten nemen. Case by case zal beoordeeld worden welke partij hiermee zal worden belast.
 
 Het DGGF zal geen activiteiten financieren die op de FMO uitsluitingslijst, te vinden op http://www.fmo.nl/exclusion-list, worden genoemd. Tevens zal van aanvragers worden geëist dat zij geen gebruik maken van kunstmatige constructies om hun winsten of te betalen bronheffingen te verlagen in DGGF landen. ‘Onder kunstmatige constructies’ vallen alle (juridisch legale) constructies, die enkel gericht zijn op het geheel of gedeeltelijk ontlopen van belastingen in DGGF landen dan wel het kunstmatig verlagen van de belastingaanslag in die landen.
 
@@ -498,15 +498,15 @@ Naast bovenstaande algemene criteria zullen in ieder geval de volgende instrumen
 
 Aanvragers dienen een goede reputatie te hebben op het gebied van IMVO. Dit blijkt uit een vastgelegd IMVO-beleid voor de eigen onderneming. Het IMVO-beleid moet gebaseerd zijn op de uitgangspunten van OESO, en eventueel gecertificeerd volgens ISO 26.000. Het plan geeft aan hoe het IMVO-beleid in de praktijk wordt gebracht en wie daarvoor verantwoordelijk is.
 
-Aan de financiering zal de bijzondere meldingsplicht, bedoeld in de Wet bestuurlijke boete meldingsplichten subsidies, worden verbonden: De ontvanger van de financiering dient er zorg voor te dragen dat de projectpartners en de eerste wezenlijke toeleverancier geen gebruik maken van kinderarbeid en/of dwangarbeid, noch voor het project waar de aanvraag betrekking op heeft, noch voor andere activiteiten. De ontvanger dient eventuele feiten of omstandigheden die wijzen op kinder- of dwangarbeid bij deze bedrijven onverwijld te melden bij RVO.
+Aan de financiering zal de bijzondere meldingsplicht, bedoeld in de Wet bestuurlijke boete meldingsplichten subsidies, worden verbonden: De ontvanger van de financiering dient er zorg voor te dragen dat de projectpartners en de eerste wezenlijke toeleverancier geen gebruik maken van kinderarbeid en/of dwangarbeid, noch voor het project waar de aanvraag betrekking op heeft, noch voor andere activiteiten. De ontvanger dient eventuele feiten of omstandigheden die wijzen op kinder- of dwangarbeid bij deze bedrijven onverwijld te melden bij Invest International Public Programmes B.V.
 
 De minister heeft de uitvoering van deze beleidsregels opgedragen aan de Rijksdienst voor Ondernemend Nederland (RVO) en heeft RVO daartoe een passend mandaat en volmacht verstrekt. RVO is onderdeel van het ministerie van Economische Zaken en werkt bij de toepassing van deze beleidsregels onder verantwoordelijkheid van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-Afhankelijk van het gewenste instrument kan de onderneming of de financier een aanvraag indienen bij RVO. RVO behandelt de aanvragen in volgorde van binnenkomst. RVO zal een aanvraagformulier beschikbaar stellen waarbij de toe te voegen bijlagen op zijn vermeld. De aanvraag kan in de Nederlandse of Engelse taal worden ingediend en dient te voldoen aan het bepaalde in artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken.
+Afhankelijk van het gewenste instrument kan de onderneming of de financier een aanvraag indienen bij Invest International Public Programmes B.V. Invest International Public Programmes B.V. behandelt de aanvragen in volgorde van binnenkomst. Invest International Public Programmes B.V. zal een aanvraagformulier beschikbaar stellen waarbij de toe te voegen bijlagen op zijn vermeld. De aanvraag kan in de Nederlandse of Engelse taal worden ingediend en dient te voldoen aan het bepaalde in artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken.
 
 ### 5.4. Afwijzingsgronden
 
-Ten behoeve van het monitoren en evalueren van de werking van de beleidsregels en de bereikte resultaten en doelstellingen zal RVO de daartoe benodigde gegevens bij de betrokken aanvragers op kunnen vragen. Een daartoe strekkende verplichting zal aan de beschikking of de uitvoeringsovereenkomst verbonden kunnen worden.
+Ten behoeve van het monitoren en evalueren van de werking van de beleidsregels en de bereikte resultaten en doelstellingen zal Invest International Public Programmes B.V. de daartoe benodigde gegevens bij de betrokken aanvragers op kunnen vragen. Een daartoe strekkende verplichting zal aan de beschikking of de uitvoeringsovereenkomst verbonden kunnen worden.
 
 ### Annex 1. Landenlijst
 
@@ -524,7 +524,7 @@ Er is geen sprake van staatssteun als de minister bij de toekenning van financie
 
 ### 3.1. Algemeen
 
-RVO zal beoordelen of de investering gezond is en dus of zij deze op verantwoorde wijze kan steunen. Afhankelijk van het risicoprofiel van de investering (op basis van het risico op de onderneming, het land en de activiteiten) en afhankelijk van de bereidheid van andere financiers om (gedeeltelijk) mee te investeren wordt een financiering, garantie of een combinatie van financieringen en/of garanties verstrekt. Per instrument zal uiteindelijk een zelfstandige risicoafweging plaatsvinden, waarbij indien mogelijk RVO een coördinerende rol zal spelen met betrekking tot de benodigde informatievoorziening.
+Invest International Public Programmes B.V. zal beoordelen of de investering gezond is en dus of zij deze op verantwoorde wijze kan steunen. Afhankelijk van het risicoprofiel van de investering (op basis van het risico op de onderneming, het land en de activiteiten) en afhankelijk van de bereidheid van andere financiers om (gedeeltelijk) mee te investeren wordt een financiering, garantie of een combinatie van financieringen en/of garanties verstrekt. Per instrument zal uiteindelijk een zelfstandige risicoafweging plaatsvinden, waarbij indien mogelijk Invest International Public Programmes B.V. een coördinerende rol zal spelen met betrekking tot de benodigde informatievoorziening.
 
 Financiering in het kader van DGGF onderdeel 1 kan in verschillende vormen worden verstrekt. Het kan daarbij gaan om leningen en garanties, zowel afzonderlijk als in combinatie. De beleidsregels bieden ten behoeve van de onderneming de volgende mogelijkheden om financiering beter toegankelijk te maken:
 
@@ -546,7 +546,7 @@ Naast bovenstaande algemene criteria zullen in ieder geval de volgende instrumen
 
 ### 4.1.1. Lening aan een onderneming
 
-De minister heeft de uitvoering van deze beleidsregels opgedragen aan de Rijksdienst voor Ondernemend Nederland (RVO) en heeft RVO daartoe een passend mandaat en volmacht verstrekt. RVO is onderdeel van het ministerie van Economische Zaken en werkt bij de toepassing van deze beleidsregels onder verantwoordelijkheid van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+Invest International Public Programmes B.V., een dochter van Invest International B.V., voert deze beleidsregels uit namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking. Daartoe is een passend mandaat, volmacht en machtiging verstrekt.
 
 ### 5.4. Afwijzingsgronden
 
