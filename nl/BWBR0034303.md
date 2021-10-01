@@ -4,7 +4,7 @@ identifier: "BWBR0034303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-01"
-last_updated: "2017-08-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034303"
 soort: "ministeriele-regeling"
@@ -68,9 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2:1
 
-1. De minister is de bevoegde nationale autoriteit, bedoeld in artikel 151 van Verordening 1308/2013.
-
-2. De eerste koper, bedoeld in artikel 151, tweede alinea en onderdelen a en b, van Verordening 1308/2013 verricht de melding van de hoeveelheid geleverde rauwe melk, bedoeld in dat artikel, uitgedrukt in kilogrammen en op basis van het reële vetgehalte van de melk, met gebruikmaking van een middel dat door de minister ter beschikking wordt gesteld, uiterlijk op de tiende dag na de maand waarop de melding betrekking heeft.
+De minister is de bevoegde nationale autoriteit, bedoeld in artikel 151 van Verordening 1308/2013.
 
 ##### Artikel 2:2
 
