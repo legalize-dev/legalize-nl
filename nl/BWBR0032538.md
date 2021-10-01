@@ -4,7 +4,7 @@ identifier: "BWBR0032538"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-08-01"
-last_updated: "2013-01-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032538"
 soort: "beleidsregel"
@@ -46,13 +46,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- b. **leerling:** een leerling die op basis van [artikel 8, tweede lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=8) voor bekostiging in aanmerking is genomen;
+- b. **leerling:** leerling als bedoeld in [artikel 8 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8);
 
 - c. **minister:** de minister van Onderwijs, Cultuur en Wetenschap;
 
 - d. **school:** een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), met uitzondering van een school voor praktijkonderwijs;
 
-- e. **teldatum:** datum van 1 oktober, bedoeld in [artikel 8, tweede lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=8);
+- e. **teldatum:** teldatum als bedoeld in [artikel 1 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=1);
 
 - f. **uitzonderingsschool:** een school met een leerlingaantal onder de opheffingsnorm die instandgehouden dan wel bekostigd wordt in verband met een uitzonderlijke situatie;
 
@@ -78,11 +78,11 @@ Er is sprake van uitzonderlijke omstandigheden van structurele aard indien:
 
 ##### Artikel 5. Voorwaarden uitzonderingsscholen voor onbepaalde tijd
 
-Een school waar sprake is van uitzonderlijke omstandigheden van structurele aard zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=4&z=2013-01-01&g=2013-01-01) wordt voor onbepaalde tijd bekostigd dan wel instandgehouden indien:
+Een school waar sprake is van uitzonderlijke omstandigheden van structurele aard zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=4&z=2021-10-01&g=2021-10-01) wordt voor onbepaalde tijd bekostigd dan wel instandgehouden indien:
 
 - a. het aantal leerlingen van de school gedurende drie of meer achtereenvolgende schooljaren op de teldatum lager is dan de voor de school geldende opheffingsnorm als bedoeld in [artikel 107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=107),
 
-- b. op drie achtereenvolgende teldata voorafgaand aan het schooljaar waarvoor het verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=2&z=2013-01-01&g=2013-01-01) wordt ingediend, gemiddeld
+- b. op drie achtereenvolgende teldata voorafgaand aan het schooljaar waarvoor het verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=2&z=2021-10-01&g=2021-10-01) wordt ingediend, gemiddeld
 
 - 1. tenminste 30 leerlingen zijn ingeschreven op de school, waarbij de uitkomst van het gemiddelde naar boven wordt afgerond op een heel getal, of
 
