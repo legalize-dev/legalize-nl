@@ -183,9 +183,3 @@ De minister evalueert de subsidieregeling uiterlijk vanaf 2024.
 Deze regeling wordt aangehaald als: Subsidieregeling heterogene brugklassen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Omhang
-
-Deze regeling is mede gebaseerd op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
