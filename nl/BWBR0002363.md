@@ -4,7 +4,7 @@ identifier: "BWBR0002363"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-01"
-last_updated: "2018-01-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002363"
 soort: "ministeriele-regeling"
@@ -45,49 +45,11 @@ Voor de toepassing van het bij deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het register als bedoeld is in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&artikel=7) dient te worden gehouden ter plaatse waar de administratie van het kansspel wordt gevoerd.
-
-2. Elk kansspel dient als één post in het register te worden geboekt. Voor elke post wordt tenminste één blad gebruikt.
-
-3. Elke post dient in te houden:
-
-- a. een omschrijving van het kansspel;
-
-- b. de dag of dagen waarop het kansspel plaatsvindt;
-
-- c. een specificatie van de prijzen met, voor zover de prijzen niet in geld bestaan, vermelding van de waarde als bedoeld is in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&artikel=3);
-
-- d. het totale bedrag van de ter beschikking gestelde en niet van de belasting vrijgestelde prijzen in geld;
-
-- e. het totale bedrag van de ter beschikking gestelde en niet van de belasting vrijgestelde prijzen, welke niet in geld bestaan;
-
-- f. het totale bedrag waarover de belasting wordt berekend;
-
-- g. het tijdstip of de tijdstippen, waarop de prijzen ter beschikking zijn gesteld;
-
-- h. het bedrag van de belasting;
-
-- i. de dag waarop de belasting is afgedragen.
+Vervallen
 
 ##### Artikel 3
 
-1. De nota als bedoeld is in artikel 7, tweede lid, van de wet dient in te houden:
-
-- a. een omschrijving van het kansspel alsmede een aanduiding van het lot of onderdeel van het lot, waarop de prijs is gevallen;
-
-- b. de naam en het adres van de gerechtigde tot de prijs;
-
-- c. een omschrijving van de prijs met, voor zover de prijs niet in geld bestaat, vermelding van de waarde als bedoeld is in artikel 3, derde lid, van de wet;
-
-- d. het bedrag waarover de belasting is berekend;
-
-- e. het tijdstip, waarop de prijs ter beschikking is gesteld;
-
-- f. het bedrag van de ingehouden belasting.
-
-2. De nota's dienen naar volgorde van afgifte van een per kansspel doorlopend nummer te worden voorzien. De nummering kan ook geschieden in series, voorzien van een aanduiding per serie.
-
-3. Van elke nota dient een dubbel te worden aangehouden, voorzien van hetzelfde volgnummer als het eerste exemplaar.
+Vervallen
 
 ##### Artikel 4
 
@@ -105,7 +67,7 @@ Het tijdstip waarop de belasting, bedoeld in [artikel 6 van de wet](https://wett
 
 - a. de laatste dag van de kalendermaand waarin de prijs ter beschikking is gesteld, indien:
 
-- 1°. de inhoudingsplichtige meerdere keren per kwartaal binnenlandse kansspelen organiseert waarop [artikel 1, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&artikel=1) van toepassing is; en
+- 1°. de inhoudingsplichtige meerdere keren per kwartaal binnenlandse kansspelen organiseert waarop [artikel 1, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&artikel=1) van toepassing is; en
 
 - b. de laatste dag van het kalenderkwartaal waarin de prijs ter beschikking is gesteld, indien:
 
