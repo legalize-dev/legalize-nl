@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2021-08-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -78,7 +78,21 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 
 ##### Artikel 4
 
-Vervallen
+1. In dit artikel wordt verstaan onder:
+
+- **gevoelige planten:** vruchten van Capsicum L., Momordica L., Solanum aethiopicum L., Solanum macrocarpon L. en Solanum melongena L., en planten, met uitzondering van levende pollen, plantenweefselcultures, zaden en granen, van Zea mays L. van oorsprong uit derde landen met uitzondering van Zwitserland;
+
+- **schadelijk organisme:** Spodoptera frugiperda (Smith);
+
+- **uitvoeringsbesluit 2018/638:** Uitvoeringsbesluit (EU) 2018/638 van de Commissie van 23 april 2018 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Europese Unie van het schadelijke organisme Spodoptera frugiperda (Smith) te voorkomen (PbEU 2018, L 105).
+
+2. Gevoelige planten mogen slechts in de Europese Unie worden binnengebracht indien:
+
+- a. ze vergezeld gaan van een fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/2031](32031R2016);
+
+- b. de oorsprong voldoet aan het bepaalde in artikel 4 van uitvoeringsbesluit 2018/638; en
+
+- c. zij bij binnenkomst in de Europese Unie overeenkomstig artikel 5 van uitvoeringsbesluit 2018/638 worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.
 
 ##### Artikel 5
 
@@ -312,7 +326,25 @@ Vervallen
 
 ##### Artikel 14
 
-Vervallen
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- **gevoelige planten:** planten, met uitzondering van zaden, van Rosa ssp. van oorsprong uit Canada, India of de VS;
+
+- **schadelijk organisme:** Rose Rosettevirus;
+
+- **uitvoeringsbesluit 2019/1739:** Uitvoeringsbesluit (EU) 2019/1739 van de Commissie van 16 oktober 2019 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van het Rose Rosettevirus te voorkomen (PbEU 2019, L 265);
+
+- **vector:** Phyllocoptes fructiphilus.
+
+2. Het binnenbrengen en de verspreiding van het schadelijke organisme in de Europese Unie is verboden.
+
+3. Gevoelige planten mogen slechts in de Europese Unie worden binnengebracht indien:
+
+- a. ze vergezeld gaan van een fytosanitair certificaat dat voldoet aan artikel 5, eerste lid, van uitvoeringsbesluit 2019/1739;
+
+- b. ze voldoen aan de voorwaarden van artikel 5, tweede tot en met vierde lid, van uitvoeringsbesluit 2019/1739; en
+
+- c. ze zodanig zijn verwerkt, verpakt en vervoerd dat besmetting door de vector wordt voorkomen.
 
 ##### Artikel 15
 
@@ -340,15 +372,15 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2021-08-01&g=2021-08-01) vervalt met ingang van 1 juli 2021.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2021-08-01&g=2021-08-01) vervalt met ingang van 1 augustus 2021.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2021-08-01&g=2021-08-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2021-08-01&g=2021-08-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2021-08-01&g=2021-08-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2021-10-01&g=2021-10-01), vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 17
 
