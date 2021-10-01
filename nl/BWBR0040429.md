@@ -4,7 +4,7 @@ identifier: "BWBR0040429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2020-07-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040429"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **accountantsverklaring:** verklaring als bedoeld in [artikel 14a, tweede lid, onderdeel c, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a);
+- **accountantsverklaring:** verklaring als bedoeld in [artikel 18, tweede lid, onderdeel c, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=18);
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) en wat betreft het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3) het bevoegd gezag, bedoeld in [artikel 1.1.1, onderdeel w, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **school:** school die is aangewezen op grond [van artikel 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56) alsmede een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3), of een school als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a);
 
-- **schooljaar:** schooljaar als bedoeld in [artikel 1 van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=1);
+- **schooljaar:** schooljaar als bedoeld in [artikel 1 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=1);
 
 - **vakken:** vakken als bedoeld in [artikel 1 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=1), alsmede de onderdelen waarvoor het eindcijfer medebepalend is voor het combinatiecijfer;
 
@@ -128,11 +128,11 @@ Deze paragraaf berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 16. Gegevens
 
-De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=2) en [4e van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4e) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01).
+De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=2) en [4e van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4e) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01).
 
 ##### Artikel 17. Wijze van beschikbaarstelling van de gegevens
 
-Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2020-07-01&g=2020-07-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2020-07-01&g=2020-07-01).
+Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2021-10-01&g=2021-10-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2021-10-01&g=2021-10-01).
 
 #### § 5. Slotbepalingen
 
@@ -152,13 +152,13 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening WVO.
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01) van de Regeling informatievoorziening WVO
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2021-10-01&g=2021-10-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
 ### Specificatie inschrijvingsgegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2020-07-01&g=2020-07-01) van de Regeling informatievoorziening WVO
+## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2021-10-01&g=2021-10-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
@@ -344,7 +344,7 @@ In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zak
 
 ### Toelichting
 
-Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
+Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
 
 ### Toelichting
 
@@ -368,17 +368,17 @@ Achtereenvolgens zal in worden gegaan op de termijn voor aanlevering van de pers
 
 ### 2.1. Termijn voor aanlevering van gegevens
 
-De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01):
+De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01):
 
 ### 2.1. Termijn voor aanlevering van gegevens
 
 In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt.
 
-Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01)
+Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01)
 
 dienen één keer per jaar geleverd te worden en wel uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
 
-De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
+De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
 
 dienen één keer per jaar geleverd te worden en wel uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
 
@@ -406,11 +406,11 @@ Een toename van administratieve lasten zal worden meegenomen in de overweging om
 
 Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen voor gaan komen in de gegevensvraag of de wijze van aanlevering.
 
-Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
+Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
 
 ### 2.4. Lerarenregister en registervoorportaal
 
-Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2020-07-01&g=2020-07-01) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
+Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
 
 Gegevens die een leraar op grond van [artikel 41g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41g) verstrekt, worden door de betreffende leraar aan de Minister verstrekt, waarbij hij het bewijsstuk als bedoeld in de [artikelen 33, eerste lid, onderdeel b, onderdelen 1 en 2, lid 1a, lid 1b, tweede of zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33a) of [33b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33b) digitaal aanlevert in de vorm van een gewaarmerkte kopie.
 
@@ -420,11 +420,11 @@ Gegevens die een leraar op grond van [artikel 41g, derde lid, van de wet](https:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2020-07-01&g=2020-07-01) van de Regeling informatievoorziening WVO
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2021-10-01&g=2021-10-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
-## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2020-07-01&g=2020-07-01) van de Regeling informatievoorziening WVO
+## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2021-10-01&g=2021-10-01) van de Regeling informatievoorziening WVO
 
 ### Ordening van de gegevens
 
@@ -466,7 +466,7 @@ Leidinggevenden die integraal (eind) verantwoordelijk zijn over de (algehele) on
 
 ### Soort loon, toelage of korting
 
-## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2020-07-01&g=2020-07-01) van de Regeling informatievoorziening WVO
+## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01) van de Regeling informatievoorziening WVO
 
 ### Wijze van beschikbaarstelling van gegevens
 
