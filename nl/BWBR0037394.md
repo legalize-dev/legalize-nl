@@ -4,7 +4,7 @@ identifier: "BWBR0037394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037394"
 soort: "ministeriele-regeling"
@@ -50,21 +50,23 @@ Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologi
 
 1. In deze regeling wordt verstaan onder:
 
-- **wet:** [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074);
+- **Calamiteit:** een zwaar ongeval of een andere gebeurtenis waarbij het leven en de gezondheid van personen, het milieu of grote materiële belangen in ernstige mate zijn geschaad of dreigen te worden geschaad;
 
 - **KNMI:** Koninklijk Nederlands Meteorologisch Instituut;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- **minister:** Minister van Infrastructuur en Waterstaat;
 
 - **raad van toezicht:** raad van toezicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6);
 
-- **ramp:** ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1).
+- **weeralarm:** waarschuwing voor maatschappij-ontwrichtend weer van een zodanige intensiteit dat een grote impact op de veiligheid in de samenleving wordt verwacht;
+
+- **wet:** [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074).
 
 2. Aan de zorgplichten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), wordt namens de minister uitvoering gegeven door het agentschap KNMI.
 
 ##### Artikel 2
 
-De [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=3&z=2016-01-01&g=2016-01-01) zijn niet van toepassing in de openbare lichamen.
+De [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=3&z=2021-10-01&g=2021-10-01) zijn niet van toepassing in de openbare lichamen.
 
 ### Hoofdstuk 2. Internationale samenwerking
 
@@ -112,7 +114,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 4. Algemene weerberichten worden openbaar gemaakt via publiek toegankelijke communicatiemiddelen en kunnen bestaan uit:
 
-- a. een toelichting op de weerberichten, bestaande uit een beschrijving in maximaal 150 woorden van de meteorologische verschijnselen die aanleiding zijn voor die berichten; en
+- a. een toelichting op de weerberichten, bestaande uit een beknopte beschrijving van de meteorologische verschijnselen die aanleiding zijn voor die berichten; en
 
 - b. al dan niet geanimeerde weerkaarten, tabellen of grafieken.
 
@@ -124,11 +126,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 1. Weerwaarschuwingen worden via publiek toegankelijke communicatiemiddelen verspreid.
 
-2. Weerwaarschuwingen voor verwacht gevaarlijk weer of verwacht maatschappij-ontwrichtend weer worden niet eerder dan 48 uur respectievelijk 24 uur voor het verwachte weer uitgevaardigd.
+2. Weerwaarschuwingen voor verwacht gevaarlijk weer of verwacht maatschappij-ontwrichtend weer worden niet eerder dan 48 uur respectievelijk 24 uur voor het verwachte weer uitgevaardigd. Een weeralarm wordt niet eerder dan 24 uur voor het verwachte weer uitgevaardigd.
 
 3. Een weerwaarschuwing bevat een nadere grafische of woordelijke specificatie van het weer waarbij het gebied waarvoor de waarschuwing geldt, het tijdstip of tijdsperiode en een kwantitatieve waarde van het weersverschijnsel kenbaar worden gemaakt.
 
-4. Een weerwaarschuwing voor maatschappij-ontwrichtend weer wordt ingetrokken door middel van een afmeldbericht, wanneer:
+4. Een weerwaarschuwing voor maatschappij-ontwrichtend weer of weeralarm wordt ingetrokken door middel van een afmeldbericht, wanneer:
 
 - a. een einde is gekomen aan het betreffende weersverschijnsel; of
 
@@ -190,9 +192,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - i. een door weersverschijnselen veroorzaakte zichtwaarde van 10 meter of minder.
 
-3. Een weerwaarschuwing voor maatschappij-ontwrichtend weer boven land wordt uitgegeven indien het gebied waarvoor de waarschuwing geldt, minimaal 2500 km2 bedraagt of een coherente band met een lengte van tenminste 50 km omvat.
+3. In afwijking van het tweede lid vaardigt het KNMI een weeralarm uit voor de gevallen, bedoeld in het tweede lid, met een grote impact op de veiligheid in de samenleving.
 
-4. Voordat het KNMI een weerwaarschuwing afgeeft als bedoeld in het eerste lid, onderdeel g, of het tweede lid, onderdeel g, raadpleegt het KNMI het Rijksinstituut voor volksgezondheid en milieu.
+4. Een weerwaarschuwing voor maatschappij-ontwrichtend weer boven land wordt uitgegeven indien het verwachte weerverschijnsel zich voordoet op regionaal of landelijk niveau.
+
+5. Voordat het KNMI een weerwaarschuwing afgeeft als bedoeld in het eerste lid, onderdeel g, of het tweede lid, onderdeel g, raadpleegt het KNMI het Rijksinstituut voor volksgezondheid en milieu.
 
 ##### Artikel 7
 
@@ -214,11 +218,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ##### Artikel 8
 
-1. Bestuursorganen nemen de ondersteuning bij het KNMI af in geval van een ramp of ernstige vrees voor het ontstaan daarvan, indien daarbij het weer een belangrijke rol speelt, en indien:
-
-- a. de burgemeester ten behoeve van de rampenbestrijding het bevoegd gezag is in de situatie, bedoeld in [artikel 5 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=5), en het regionaal operationeel team, bedoeld in [artikel 2.1.4 van het Besluit veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&artikel=2.1.4), bijeengeroepen wordt; of
-
-- b. de voorzitter van de veiligheidsregio ten behoeve van de rampenbestrijding het bevoegd gezag is in de situatie, bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39).
+1. Bestuursorganen nemen de ondersteuning bij het KNMI af in geval van een calamiteit of ernstige vrees voor het ontstaan daarvan, indien daarbij het weer een belangrijke rol speelt.
 
 2. Het KNMI waarschuwt desgevraagd de in het eerste lid bedoelde bestuursorganen over het weer in de gevallen, bedoeld in dat lid.
 
@@ -230,7 +230,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - a. zodra te verwachten is dat een alarmeringspeil wordt overschreden of deze daadwerkelijk wordt overschreden als bedoeld in [artikel 3.3, eerste lid, onderdeel b, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.3);
 
-- b. indien sprake is van een watertekort of een dreigend watertekort, waarbij de rangorde, bedoeld in [artikel 2.1 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.1), in acht wordt genomen;
+- b. indien sprake is van waterschaarste of dreigende waterschaarste;
 
 - c. indien sprake is van gevaar als bedoeld in [artikel 5.28, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.28), en het weer daarbij een belangrijke rol speelt.
 
@@ -278,11 +278,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - 4°. kennis en middelen nodig zijn voor het leveren van een specifiek product of het verrichten van een specifieke dienst waarover het KNMI als enige beschikt.
 
-2. Ondersteuning als bedoeld in het eerste lid, onderdeel e, onder 4°, wordt alleen verleend nadat het Overlegorgaan infrastructuur en milieu, genoemd in [artikel 4 van de Wet overleg infrastructuur en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4), is geraadpleegd.
+2. Ondersteuning als bedoeld in het eerste lid, onderdeel e, onder 4º, wordt alleen verleend na raadpleging van belanghebbende privaatrechtelijke rechtspersonen en brancheorganisaties.
 
 3. Voor de dienstverlening, bedoeld in het eerste lid, worden de kosten ten minste integraal doorberekend, met uitzondering van:
 
-- a. kosten voor diensten aan bestuursorganen, bedoeld in het eerste lid, onderdeel e, onder 1°, indien er sprake is van één of meer situaties als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=6&z=2016-01-01&g=2016-01-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=7&z=2016-01-01&g=2016-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=8&z=2016-01-01&g=2016-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=9&z=2016-01-01&g=2016-01-01);
+- a. kosten voor diensten aan bestuursorganen, bedoeld in het eerste lid, onderdeel e, onder 1°, indien er sprake is van één of meer situaties als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=6&z=2021-10-01&g=2021-10-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=7&z=2021-10-01&g=2021-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=8&z=2021-10-01&g=2021-10-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=9&z=2021-10-01&g=2021-10-01);
 
 - b. kosten voor diensten die worden verleend aan een openbaar lichaam.
 
@@ -296,7 +296,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 2. Het KNMI publiceert het resultaat van het project uiterlijk één jaar na de afronding van de ontwikkeling of het onderzoek.
 
-3. Het KNMI raadpleegt de leden van het Overlegorgaan infrastructuur en milieu, bedoeld in [artikel 4 van de Wet overleg infrastructuur en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4), over onderzoek dat met privaat geld wordt gefinancierd.
+3. Het KNMI raadpleegt de belanghebbende privaatrechtelijke rechtspersonen en brancheorganisaties over onderzoek dat met privaat geld wordt gefinancierd.
 
 4. Ten aanzien van de middelen die worden gebruikt voor de totstandkoming en de uitvoering van de projecten, bedoeld in het eerste lid, wordt een afzonderlijke administratie bijgehouden.
 
@@ -306,13 +306,13 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 1. In het activiteitenprogramma, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=4), worden in ieder geval de volgende onderdelen opgenomen:
 
-- a. het overzicht van voorgenomen producten en diensten, onderscheiden naar activiteiten ten laste van de begroting van het Ministerie van Infrastructuur en Milieu, activiteiten voor overheidsorganen en activiteiten voor overheidsbedrijven en marktactiviteiten; en
+- a. het overzicht van voorgenomen producten en diensten, onderscheiden naar activiteiten ten laste van de begroting van het Ministerie van Infrastructuur en Milieu, activiteiten voor bestuursorganen en activiteiten voor overheidsbedrijven en marktactiviteiten; en
 
-- b. het overzicht van het uit te voeren toegepast onderzoek, onderscheiden naar activiteiten ten laste van de begroting van het Ministerie van Infrastructuur en Milieu, activiteiten voor overheidsorganen en activiteiten voor overheidsbedrijven en marktactiviteiten.
+- b. het overzicht van het uit te voeren toegepast onderzoek, onderscheiden naar activiteiten ten laste van de begroting van het Ministerie van Infrastructuur en Milieu, activiteiten voor bestuursorganen en activiteiten voor overheidsbedrijven en marktactiviteiten.
 
-2. Als bijlage bij het activiteitenprogramma wordt een strategisch onderzoeksprogramma opgenomen waarin op hoofdlijnen de visie op en de doelstellingen van het onderzoek, verricht door het KNMI, zijn opgenomen en ingegaan wordt op de potentiële meerwaarde van dat onderzoek voor de publieke kennisinfrastructuur voor de meteorologie of andere geofysische terreinen.
+2. Het KNMI stelt tevens een strategisch onderzoeksprogramma op waarin op hoofdlijnen de visie op en de doelstellingen van het onderzoek, verricht door het KNMI, zijn opgenomen en ingegaan wordt op de potentiële meerwaarde van dat onderzoek voor de publieke kennisinfrastructuur voor de meteorologie of andere geofysische terreinen.
 
-3. Het vastgestelde activiteitenprogramma en wijzigingen daarvan worden gepubliceerd op www.rijksoverheid.nl.
+3. Het vastgestelde activiteitenprogramma, het strategische onderzoeksprogramma en wijzigingen van deze documenten worden gepubliceerd op de website van het KNMI.
 
 ### Hoofdstuk 9. Raad van toezicht
 
