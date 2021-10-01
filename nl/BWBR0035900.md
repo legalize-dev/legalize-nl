@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2020-10-01"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -59,6 +59,8 @@ In deze regeling wordt verstaan onder:
 - **MLA:** MLA als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
 
 - **MLH:** MLH als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
+
+- **Mode S/ELS-transponder:** transponder voor secundaire surveillanceradar die beschikt over de in deel A van bijlage II bij Uitvoeringsverordening (EU) Nr. 1207/2011 van de Commissie van 22 november 2011 tot vaststelling van de eisen voor de prestaties en interoperabiliteit van surveillance voor het gemeenschappelijk Europese luchtruim vastgestelde functies;
 
 - **oefennadering:** met een vliegtuig uitvoeren van naderingsprocedures en procedures ter voorbereiding van een landing zonder dat deze procedures worden gevolgd door een landing waarbij de wielen het aardoppervlak raken, zulks in het kader van een vliegopleiding of het onderhoud van vliegvaardigheid;
 
@@ -122,7 +124,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2020-10-01&g=2020-10-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2020-10-01&g=2020-10-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2021-10-01&g=2021-10-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2021-10-01&g=2021-10-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -174,7 +176,7 @@ Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is t
 
 ##### Artikel 3.2. Vluchtuitvoeringen buiten de daglichtperiode
 
-1. Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of TMG buiten de daglichtperiode is toegestaan onder de voorwaarden, bedoeld in paragraaf SERA.5005, onderdeel c, van de bijlage bij uitvoeringsverordening (EU) nr. 923/2012.
+1. Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of TMG buiten de daglichtperiode is toegestaan onder de voorwaarden, bedoeld in paragraaf SERA.5005, onderdeel c, van de bijlage bij uitvoeringsverordening (EU) nr. 923/2012 en er daarnaast voldaan wordt aan het voorschrift dat een SSR-transponder met de Mode S/ELS wordt gebruikt.
 
 2. Onverminderd het eerste lid mogen met amateurbouwluchtvaartuigen, lichte gyrokopters, MLA’s, MLH’s en schermvliegtuigen slechts vluchten worden uitgevoerd gedurende de daglichtperiode.
 
