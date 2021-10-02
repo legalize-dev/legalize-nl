@@ -4,7 +4,7 @@ identifier: "BWBR0015064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-02"
-last_updated: "2020-02-14"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015064"
 soort: "ministeriele-regeling"
@@ -45,7 +45,9 @@ De vergoeding per vergadering als bedoeld in [artikel 2 van de Wet vergoedingen 
 
 - –. voor de voorzitter: € 130,
 
-- –. voor de overige leden: € 100.
+- –. voor de overige leden: € 100,
+
+- –. voor de secretaris en adjunct-secretaris: € 100.
 
 ##### Artikel 2
 
