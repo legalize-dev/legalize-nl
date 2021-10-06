@@ -4,7 +4,7 @@ identifier: "BWBR0025958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-08"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025958"
 soort: "ministeriele-regeling"
@@ -41,9 +41,9 @@ alsmede gelet op de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:
 
 alsmede gelet op de [artikelen 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=5), [7, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=7), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=11), [12, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=12), [17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=19), [20, eerste en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=20), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=24), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=25), [26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=26), [29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=32) en [33, eerste lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=33);
 
-In overeenstemming met de colleges van gedeputeerde staten van Fryslân, Groningen en Overijssel voor [artikel 10.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2020-07-08&g=2020-07-08);
+In overeenstemming met de colleges van gedeputeerde staten van Fryslân, Groningen en Overijssel voor [artikel 10.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2021-10-06&g=2021-10-06);
 
-alsmede in overeenstemming met de colleges van burgemeester en wethouders van Aalsmeer en Amsterdam voor [artikel 10.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2020-07-08&g=2020-07-08);
+alsmede in overeenstemming met de colleges van burgemeester en wethouders van Aalsmeer en Amsterdam voor [artikel 10.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2021-10-06&g=2021-10-06);
 
 Besluit:
 
@@ -57,7 +57,7 @@ Treedt in werking op het tijdstip waarop de Binnenvaartwet in werking treedt.
 
 1. In deze regeling wordt verstaan onder:
 
-- **bevoegde autoriteit:** autoriteit als bedoeld in artikel 6, derde lid, van richtlijn (EU) 2016/1629 of bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.18&z=2020-07-08&g=2020-07-08);
+- **bevoegde autoriteit:** autoriteit als bedoeld in artikel 6, derde lid, van richtlijn (EU) 2016/1629 of bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.18&z=2021-10-06&g=2021-10-06);
 
 - **besluit:** [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631);
 
@@ -71,7 +71,7 @@ Treedt in werking op het tijdstip waarop de Binnenvaartwet in werking treedt.
 
 - **duwstel:** hecht samenstel van schepen, waarvan ten minste één is geplaatst voor het schip met motoraandrijving dat dient voor het voortbewegen van het samenstel, dan wel voor de beide schepen met motoraandrijving die dienen voor het voortbewegen van het samenstel. Hieronder wordt ook verstaan een duwstel dat is samengesteld uit een duwend en een geduwd schip waarvan de koppelingen een beheerst knikken mogelijk maken;
 
-- **ES-TRIN**: [Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), editie 2017/1;
+- **ES-TRIN**: [Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), editie 2019/1;
 
 - **gekoppeld samenstel:** samenstelling van langszijde van elkaar vastgemaakte schepen, waarvan er geen is geplaatst vóór het schip met motoraandrijving dat dient voor het voortbewegen van het samenstel;
 
@@ -111,7 +111,9 @@ Treedt in werking op het tijdstip waarop de Binnenvaartwet in werking treedt.
 
 - **Rsp:** bij resolutie van 2 juni 2010 (protocol 2010-I-8) van de Centrale Commissie voor de Rijnvaart vastgesteld [Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215);
 
-- **verordening (EEG) 2919/85:** [verordening (EEG) nr. 2919/85](31985R2919) van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280).
+- **verordening (EEG) 2919/85:** [verordening (EEG) nr. 2919/85](31985R2919) van de Raad van de Europese Gemeenschappen van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (PbEG L 280);
+
+- **verordening (EU) 2016/1628:** [verordening (EU) 2016/1628](33528R2016) van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van [Verordeningen (EU) nr. 1024/2012](32012R1024) en [(EU) nr. 167/2013](32013R0167), en tot wijziging en intrekking van [Richtlijn 97/68/EG](31997L0068) (PbEU 2016, L 252).
 
 2. Waar in deze regeling de aanduiding ‘jaar’ wordt gebruikt in relatie tot vaartijd, wordt hieronder verstaan 180 effectieve vaardagen in de binnenvaart. Binnen een periode 365 opeenvolgende dagen worden maximaal 180 dagen als vaartijd worden meegerekend. 250 Vaardagen in de zee- of kustvaart dan wel de visserij gelden als één jaar vaartijd.
 
@@ -205,9 +207,9 @@ De zones, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 1.6
 
-1. Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973) met de daarbij behorende bijlagen, dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1&z=2020-07-08&g=2020-07-08) bij deze regeling en wordt aangehaald als: Reglement onderzoek schepen op de Rijn.
+1. Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973) met de daarbij behorende bijlagen, dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1&z=2021-10-06&g=2021-10-06) bij deze regeling en wordt aangehaald als: Reglement onderzoek schepen op de Rijn.
 
-2. Bij de toepassing van het bepaalde in het eerste lid handelt de commissie van deskundigen, bedoeld in [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=5&artikel=1.19&z=2020-07-08&g=2020-07-08), overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van het [RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973).
+2. Bij de toepassing van het bepaalde in het eerste lid handelt de commissie van deskundigen, bedoeld in [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=5&artikel=1.19&z=2021-10-06&g=2021-10-06), overeenkomstig de dienstinstructies van de Centrale Commissie voor de Rijnvaart betreffende de toepassing van het [RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973).
 
 3. De minister maakt de dienstinstructies, bedoeld in het tweede lid, bekend in de Staatscourant.
 
@@ -225,23 +227,23 @@ De zones, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 1.8
 
-Op de goedkeuring en installatie van een tachograaf als bedoeld in artikel 3.10, derde lid, van [bijlage 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.9&z=2020-07-08&g=2020-07-08) is [bijlage A3 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3) van toepassing, alsmede [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.4&z=2020-07-08&g=2020-07-08).
+Op de goedkeuring en installatie van een tachograaf als bedoeld in artikel 3.10, derde lid, van [bijlage 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.9&z=2021-10-06&g=2021-10-06) is [bijlage A3 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3) van toepassing, alsmede [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.4&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 1.9
 
-1. Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215), met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in [bijlage 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.9&z=2020-07-08&g=2020-07-08).
+1. Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het [Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215), met inbegrip van de daarbij behorende bijlagen, dat is opgenomen in [bijlage 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.9&z=2021-10-06&g=2021-10-06).
 
 2. Onverminderd het eerste lid is op de Rijn in Nederland, met inbegrip van de Waal en de Lek, van toepassing:
 
-- a. [hoofdstuk 7, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&z=2020-07-08&g=2020-07-08) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&z=2020-07-08&g=2020-07-08);
+- a. [hoofdstuk 7, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&z=2021-10-06&g=2021-10-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&z=2021-10-06&g=2021-10-06);
 
 - b. mits tijdens de vaart de Duits-Nederlandse grens in de ene of de andere richting niet wordt overschreden:
 
-- 1°. de bekwaamheidseisen, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-07-08&g=2020-07-08);
+- 1°. de bekwaamheidseisen, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06);
 
-- 2°. de omschrijving van zeeschepen in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.10&z=2020-07-08&g=2020-07-08);
+- 2°. de omschrijving van zeeschepen in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.10&z=2021-10-06&g=2021-10-06);
 
-- 3°. de vrijstellingen, bedoeld in [hoofdstuk 5, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&z=2020-07-08&g=2020-07-08);
+- 3°. de vrijstellingen, bedoeld in [hoofdstuk 5, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&z=2021-10-06&g=2021-10-06);
 
 - 4°. de rusttijden bedoeld in het [Arbeidstijdenbesluit vervoer, hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5) Binnenvaart.
 
@@ -251,7 +253,7 @@ In plaats van een patent als bedoeld in [artikel 6.02, derde lid, onderdeel b, v
 
 - a. een klein vaarbewijs;
 
-- b. een ingevolge [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2020-07-08&g=2020-07-08) erkend bewijs van vaarbekwaamheid; of
+- b. een ingevolge [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2021-10-06) erkend bewijs van vaarbekwaamheid; of
 
 - c. een Militair vaarbewijs, geldig voor het besturen van een klein legervaartuig op rivieren, kanalen en meren, afgegeven door het Genie opleidingscentrum.
 
@@ -317,13 +319,13 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 
 ##### Artikel 1.18
 
-1. De bevoegde autoriteit in de zin van de in de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.6&z=2020-07-08&g=2020-07-08) en [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2020-07-08&g=2020-07-08) bedoelde reglementen is de minister.
+1. De bevoegde autoriteit in de zin van de in de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.6&z=2021-10-06&g=2021-10-06) en [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2021-10-06&g=2021-10-06) bedoelde reglementen is de minister.
 
 2. In afwijking van het eerste lid is de bevoegde autoriteit:
 
 - a. de directeur-generaal Luchtvaart en Maritieme Zaken in [artikel 2.18 van het RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.18);
 
-- b. de voorzitter van de commissie van deskundigen in de [artikelen 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.11), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.12), 2.20, eerste, tweede en derde lid, en [2.21, eerste, tweede, derde en vierde lid van het RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.21) en de artikelen, [8a.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.01), [8a.02, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.02), [8a.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.03), [8a.04, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.04), [8a.05, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.05), [8a.06, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.06), [8a.08, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.08), [8a.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.09), [8a.10, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.10), [8a.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.11), [8a.12, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=8a.12), en [25.01, tweede lid, onderdeel h, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=25.01);
+- b. de voorzitter van de commissie van deskundigen in de [artikelen 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.11), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.12), [2.20, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.20), en [2.21, eerste, tweede, derde en vierde lid van het RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.21) en de [artikelen 9.00, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.00), [9.01, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.01), [9.05](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.05), [9.06](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.06), [9.07](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.07), [9.08](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.08) en [artikel 9.09, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=9.09), en [25.01, tweede lid, onderdeel h, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=25.01);
 
 - c. de hoofdingenieurs-directeuren van het directoraat-generaal Rijkswaterstaat Oost-Nederland en Zuid-Holland, ieder voor zover het zijn ambtsgebied betreft, in de [artikel 2.11, eerste lid, van het RosR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.11) en de [artikelen 5.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=5.03) en [23.01 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=23.01);
 
@@ -331,9 +333,9 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 
 3. In afwijking van het eerste lid is de bevoegde autoriteit in het [Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215):
 
-- a. De inspecteur-generaal van de Inspectie Leefomgeving en Transport in de [artikelen 3.03, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03), [3.06, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.06), [3.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13), [5.02, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.02), [5.03, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.03), [5.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.04), [5.08, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.08) en [3.03, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03), [3.06, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.06) en [3.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13);
+- a. De inspecteur-generaal van de Inspectie Leefomgeving en Transport in de [artikelen 3.03, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03), [3.06, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.06), [3.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13), [5.02, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.02), [5.03, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.03), [5.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.04), en [5.08, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=5.08);
 
-- b. de in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.2&z=2020-07-08&g=2020-07-08) aangewezen ambtenaren alsmede de ambtenaren van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) in de [artikelen 7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.24) en [7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.25);
+- b. de in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.2&z=2021-10-06&g=2021-10-06) aangewezen ambtenaren alsmede de ambtenaren van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) in de [artikelen 7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.24) en [7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.25);
 
 - c. de voorzitter van de commissie van deskundigen in [artikel 3.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13);
 
@@ -383,7 +385,7 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 
 ##### Artikel 1.21
 
-Bij bedrijfsmatig vervoer van goederen en personen tussen twee punten gelegen aan de binnenwateren, bedoeld in artikel 4, eerste lid, van de Herziene Rijnvaartakte, bevindt de Rijnvaartverklaring, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=2) of een gewaarmerkt afschrift daarvan, als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2020-07-08&g=2020-07-08), zich aan boord van het schip waarvoor het is afgegeven.
+Bij bedrijfsmatig vervoer van goederen en personen tussen twee punten gelegen aan de binnenwateren, bedoeld in artikel 4, eerste lid, van de Herziene Rijnvaartakte, bevindt de Rijnvaartverklaring, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=2) of een gewaarmerkt afschrift daarvan, als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2021-10-06&g=2021-10-06), zich aan boord van het schip waarvoor het is afgegeven.
 
 #### § 7. Doorwerking toekomstige wijzigingen van Europese richtlijnen
 
@@ -423,17 +425,17 @@ De vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten
 
 - b. een op grond van [artikel 11, eerste lid, van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=11) afgegeven vergunning voor het beroepsvervoer van goederen; of
 
-- c. het bewijsstuk, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2020-07-08&g=2020-07-08).
+- c. het bewijsstuk, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 2.3
 
-Voor de examens ter verkrijging van een diploma als bedoeld in [artikel 2.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2020-07-08&g=2020-07-08), is een door de minister goedgekeurd examenreglement van toepassing.
+Voor de examens ter verkrijging van een diploma als bedoeld in [artikel 2.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2021-10-06&g=2021-10-06), is een door de minister goedgekeurd examenreglement van toepassing.
 
 ##### Artikel 2.4
 
 1. Natuurlijke personen die bewijzen dat zij voor het tijdstip, bedoeld in artikel 5 van [Richtlijn 87/540/EEG](31987L0540), in een lidstaat of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte het beroep van ondernemer van nationaal of internationaal goederenvervoer over de binnenwateren wettelijk hebben uitgeoefend, voldoen aan de eis van vakbekwaamheid en ontvangen van de minister op aanvraag een desbetreffend bewijsstuk.
 
-2. Als bewijsstuk van vakbekwaamheid, bedoeld in het eerste lid, wordt vastgesteld het document overeenkomstig het model opgenomen in [bijlage 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=2.1&z=2020-07-08&g=2020-07-08) bij deze regeling.
+2. Als bewijsstuk van vakbekwaamheid, bedoeld in het eerste lid, wordt vastgesteld het document overeenkomstig het model opgenomen in [bijlage 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=2.1&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
 ##### Artikel 2.5
 
@@ -459,13 +461,13 @@ De houder van een bewijs van vakbekwaamheid draagt er zorg voor dat dit bewijs o
 
 ##### Artikel 2.8
 
-Een wijziging van [richtlijn 87/540/EEG](31987L0540) gaat voor de toepassing van de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2020-07-08&g=2020-07-08) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2020-07-08&g=2020-07-08) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van [richtlijn 87/540/EEG](31987L0540) gaat voor de toepassing van de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2021-10-06&g=2021-10-06) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2021-10-06&g=2021-10-06) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 #### § 2. Bekwaamheidseisen voor bemanningsleden
 
 ##### Artikel 2.9
 
-1. Dit artikel is van toepassing op de bemanningsleden van schepen als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=12), niet zijnde veerboten, varend op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2020-07-08&g=2020-07-08) bedoelde binnenwateren, mits tijdens de vaart de Duits-Nederlandse grens op de Rijn bij het Spijksche Veer niet in de ene of de andere richting wordt overschreden.
+1. Dit artikel is van toepassing op de bemanningsleden van schepen als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=12), niet zijnde veerboten, varend op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2021-10-06&g=2021-10-06) bedoelde binnenwateren, mits tijdens de vaart de Duits-Nederlandse grens op de Rijn bij het Spijksche Veer niet in de ene of de andere richting wordt overschreden.
 
 2. Een schipper is:
 
@@ -485,9 +487,11 @@ Een wijziging van [richtlijn 87/540/EEG](31987L0540) gaat voor de toepassing van
 
 4. Een machinist is:
 
-- a. ten minste 18 jaar en in het bezit van een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel in het bezit van een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066); of
+- a. ten minste 18 jaar en in het bezit van een maritiem diploma zoals opgenomen in het Centraal Register Beroepsopleidingen onder de nummers 91943, 91941, 91931 of 91932, dan wel in het bezit van een erkenning van beroepskwalificaties als bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- b. ten minste 19 jaar en heeft een beroepservaring van ten minste 2 jaar als volmatroos op een schip met mechanische voortstuwingsmiddelen.
+- b. ten minste 18 jaar en in het bezit van de verklaring praktijkexamen machinist, ten bewijze dat het praktijkexamen machinist binnenvaart met goed gevolg is afgelegd bij een daartoe door het CBR erkend opleidingsinstituut; of
+
+- c. ten minste 19 jaar en heeft een beroepservaring van ten minste 2 jaar als volmatroos op een schip met mechanische voortstuwingsmiddelen.
 
 5. Een volmatroos voldoet aan de vereisten van matroos en heeft een beroepservaring van ten minste één jaar vaartijd als matroos in de binnenvaart.
 
@@ -543,7 +547,7 @@ Een wijziging van [richtlijn 87/540/EEG](31987L0540) gaat voor de toepassing van
 
 - a. is ten minste 21 jaar,
 
-- b. voldoet aan de vereisten die op grond van [artikel 2.9, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-07-08&g=2020-07-08), worden gesteld aan een schipper, en
+- b. voldoet aan de vereisten die op grond van [artikel 2.9, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06), worden gesteld aan een schipper, en
 
 - c. is in het bezit van:
 
@@ -557,7 +561,7 @@ Een wijziging van [richtlijn 87/540/EEG](31987L0540) gaat voor de toepassing van
 
 - a. is ten minste 21 jaar,
 
-- b. voldoet aan de vereisten die op grond van [artikel 2.9, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-07-08&g=2020-07-08), worden gesteld aan een schipper, en
+- b. voldoet aan de vereisten die op grond van [artikel 2.9, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06), worden gesteld aan een schipper, en
 
 - c. is in het bezit van een door de minister erkend:
 
@@ -605,11 +609,11 @@ De bekwaamheid voor een functie aan boord kan te allen tijde worden aangetoond:
 
 - a. door de schipper door middel van het vaarbewijs; of
 
-- b. door de overige leden van de bemanning door middel van het dienstboekje bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08).
+- b. door de overige leden van de bemanning door middel van het dienstboekje bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 2.12
 
-1. Als document ter beoordeling van een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties van een migrerende beroepsbeoefenaar voor de beroepen stuurman binnenvaart, machinist binnenvaart, matroos, volmatroos en matroos-motordrijver wordt vastgesteld het dienstboekje, bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08).
+1. Als document ter beoordeling van een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties van een migrerende beroepsbeoefenaar voor de beroepen stuurman binnenvaart, machinist binnenvaart, matroos, volmatroos en matroos-motordrijver wordt vastgesteld het dienstboekje, bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06).
 
 2. Op een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) die het beroep matroos, matroos-motordrijver, volmatroos of stuurman binnenvaart wenst uit te oefenen in Nederland, is het eerste lid van toepassing.
 
@@ -649,45 +653,45 @@ In dit hoofdstuk en de daarbij behorende bijlagen wordt verstaan onder:
 
 ##### Artikel 3.3
 
-Onverminderd [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2020-07-08&g=2020-07-08), voldoen passagiersschepen op de zone 2 aan de technische voorschriften, genoemd in [bijlage 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.1&z=2020-07-08&g=2020-07-08).
+Onverminderd [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2021-10-06&g=2021-10-06), voldoen passagiersschepen op de zone 2 aan de technische voorschriften, genoemd in [bijlage 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.1&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 3.4
 
-1. In afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2020-07-08&g=2020-07-08), bedraagt voor duwstellen met een lengte van ten hoogste 86 meter de minimaal te behalen snelheid ten opzichte van het water ten minste:
+1. In afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2021-10-06&g=2021-10-06), bedraagt voor duwstellen met een lengte van ten hoogste 86 meter de minimaal te behalen snelheid ten opzichte van het water ten minste:
 
 - a. 11 km/h op zone 3-wateren;
 
 - b. 10 km/h op zone 4-wateren, tenzij daar een maximumsnelheid van minder dan 10 km/h geldt. In dat geval stelt de minister voor het betreffende duwstel een andere minimaal te behalen snelheid vast.
 
-2. In afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2020-07-08&g=2020-07-08), is het toegestaan om een duwstel, met een lengte van ten hoogste 86 meter en van een duwsteven voorzien, op de zones drie en vier zonder hekankers te gebruiken en te volstaan met de in [artikel 13.01, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.01), bedoelde boegankers.
+2. In afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2021-10-06&g=2021-10-06), is het toegestaan om een duwstel, met een lengte van ten hoogste 86 meter en van een duwsteven voorzien, op de zones drie en vier zonder hekankers te gebruiken en te volstaan met de in [artikel 13.01, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.01), bedoelde boegankers.
 
-3. [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2020-07-08&g=2020-07-08) is niet van toepassing op:
+3. [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2021-10-06&g=2021-10-06) is niet van toepassing op:
 
-- a. Amsterdamse dekschuiten, mits zij voldoen aan de technische voorschriften van [bijlage 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.2&z=2020-07-08&g=2020-07-08);
+- a. Amsterdamse dekschuiten, mits zij voldoen aan de technische voorschriften van [bijlage 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.2&z=2021-10-06&g=2021-10-06);
 
-- b. rondvaartboten van het Amsterdamse grachtentype, mits zij voldoen aan de technische voorschriften van [bijlage 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.3&z=2020-07-08&g=2020-07-08);
+- b. rondvaartboten van het Amsterdamse grachtentype, mits zij voldoen aan de technische voorschriften van [bijlage 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.3&z=2021-10-06&g=2021-10-06);
 
-- c. open rondvaartboten, mits zij voldoen aan de technische voorschriften van [bijlage 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.4&z=2020-07-08&g=2020-07-08);
+- c. open rondvaartboten, mits zij voldoen aan de technische voorschriften van [bijlage 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.4&z=2021-10-06&g=2021-10-06);
 
-- d. skûtsjes, mits zij voldoen aan de technische voorschriften van [bijlage 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.5&z=2020-07-08&g=2020-07-08);
+- d. skûtsjes, mits zij voldoen aan de technische voorschriften van [bijlage 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.5&z=2021-10-06&g=2021-10-06);
 
-- e. veerponten, mits zij voldoen aan de technische voorschriften van [bijlage 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.6&z=2020-07-08&g=2020-07-08);
+- e. veerponten, mits zij voldoen aan de technische voorschriften van [bijlage 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.6&z=2021-10-06&g=2021-10-06);
 
-- f. veerboten, mits zij voldoen aan de technische voorschriften van [bijlage 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.7&z=2020-07-08&g=2020-07-08);
+- f. veerboten en passagiersschepen die een openbaar vervoersdienst onderhouden tussen plaatsen gelegen aan de Dollard, de Eems, de Waddenzee met inbegrip van de verbindingen met de Noordzee, of de Westerschelde en de zeemonding daarvan, mits zij voldoen aan de technische voorschriften van [bijlage 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.7&z=2021-10-06&g=2021-10-06);
 
-- g. bunkerstations, mits zij voldoen aan de technische voorschriften van [bijlage 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.8&z=2020-07-08&g=2020-07-08);
+- g. bunkerstations, mits zij voldoen aan de technische voorschriften van [bijlage 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.8&z=2021-10-06&g=2021-10-06);
 
-- h. patrouillevaartuigen, mits zij voldoen aan de technische voorschriften van [bijlage 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.9&z=2020-07-08&g=2020-07-08);
+- h. patrouillevaartuigen, mits zij voldoen aan de technische voorschriften van [bijlage 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.9&z=2021-10-06&g=2021-10-06);
 
-- i. kleine drijvende werktuigen, mits zij voldoen aan de technische voorschriften van [bijlage 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.12&z=2020-07-08&g=2020-07-08).
+- i. kleine drijvende werktuigen, mits zij voldoen aan de technische voorschriften van [bijlage 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.12&z=2021-10-06&g=2021-10-06).
 
 #### § 3. Technische eisen voor schepen op de zone R
 
 ##### Artikel 3.5
 
-1. Onverminderd [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.6&z=2020-07-08&g=2020-07-08), kunnen binnenschepen op de zone R eveneens voldoen aan de technische voorschriften, bedoeld in [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), voor zover zij over een Uniebinnenvaartcertificaat beschikken, ten bewijze van de volledige conformiteit van het binnenschip met de in bijlage 1.1a en de in bijlage V bij richtlijn (EU) 2016/1629 bedoelde technische voorschriften, waarvan de gelijkwaardigheid met de bij of krachtens de Herziene Rijnvaartakte bepaalde technische voorschriften is vastgesteld overeenkomstig de toepasselijke voorschriften en procedures.
+1. Onverminderd [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.6&z=2021-10-06&g=2021-10-06), kunnen binnenschepen op de zone R eveneens voldoen aan de technische voorschriften, bedoeld in [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), voor zover zij over een Uniebinnenvaartcertificaat beschikken, ten bewijze van de volledige conformiteit van het binnenschip met de in bijlage 1.1a en de in bijlage V bij richtlijn (EU) 2016/1629 bedoelde technische voorschriften, waarvan de gelijkwaardigheid met de bij of krachtens de Herziene Rijnvaartakte bepaalde technische voorschriften is vastgesteld overeenkomstig de toepasselijke voorschriften en procedures.
 
-2. Bij de toepassing van het eerste lid is [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing.
+2. Bij de toepassing van het eerste lid is [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing.
 
 #### § 4. Certificaten en uniek Europees scheepsidentificatienummer
 
@@ -697,7 +701,7 @@ Onverminderd [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 2. Voor binnenschepen waarvan de kiel voor 30 december 2008 is gelegd, wordt het certificaat van onderzoek door de minister afgegeven als het voldoet aan de voorschriften van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), met inachtneming van de voor het binnenschip geldende overgangsbepalingen.
 
-3. Bij het in het eerste en tweede lid bedoelde technisch onderzoek of bij een in opdracht van de eigenaar uitgevoerd technisch onderzoek wordt in voorkomend geval nagegaan of het binnenschip voldoet aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2020-07-08&g=2020-07-08).
+3. Bij het in het eerste en tweede lid bedoelde technisch onderzoek of bij een in opdracht van de eigenaar uitgevoerd technisch onderzoek wordt in voorkomend geval nagegaan of het binnenschip voldoet aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06).
 
 4. Indien uit een door een erkend classificatiebureau afgegeven verklaring blijkt, dat een binnenschip geheel of ten dele voldoet aan de voorschriften, opgenomen in [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) of in de overige bij deze regeling behorende bijlagen, kan de minister van een onderzoek geheel of gedeeltelijk afzien.
 
@@ -713,7 +717,7 @@ Voor de binnenschepen, bedoeld in [artikel 6, onderdelen a tot en met d, g en j,
 
 3. Indien het binnenschip is onderzocht door of is gebouwd onder toezicht van een op basis van [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=14) aangewezen classificatiebureau, wordt ook de verklaring van dat bureau inzake het onderzoek of de bouw overgelegd.
 
-4. Indien ingevolge de [artikelen 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2020-07-08&g=2020-07-08) of [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.15&z=2020-07-08&g=2020-07-08) een hellingproef is vereist, worden de uitkomsten van die proef overgelegd alsmede de gegevens over de stabiliteit van het binnenschip bij verschillende beladingstoestanden.
+4. Indien ingevolge de [artikelen 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2021-10-06&g=2021-10-06) of [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.15&z=2021-10-06&g=2021-10-06) een hellingproef is vereist, worden de uitkomsten van die proef overgelegd alsmede de gegevens over de stabiliteit van het binnenschip bij verschillende beladingstoestanden.
 
 ##### Artikel 3.9
 
@@ -725,9 +729,9 @@ Voor de binnenschepen, bedoeld in [artikel 6, onderdelen a tot en met d, g en j,
 
 4. Het voorlopig certificaat van onderzoek, bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=10), wordt door de minister afgegeven volgens het model van [deel I, bijlage 3, onderdeel II, van bijlage 1.1a](onbekend).
 
-5. Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), wordt, voor de schepen bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2020-07-08&g=2020-07-08), door de minister afgegeven volgens het model van [deel I, bijlage 3, onderdeel I, van bijlage 1.1a](onbekend).
+5. Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), wordt, voor de schepen bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06), door de minister afgegeven volgens het model van [deel I, bijlage 3, onderdeel I, van bijlage 1.1a](onbekend).
 
-6. Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), wordt voor bunkerstations door de minister afgegeven volgens het model, opgenomen in de bij deze regeling behorende [bijlage 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.10&z=2020-07-08&g=2020-07-08).
+6. Het certificaat van onderzoek, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), wordt voor bunkerstations door de minister afgegeven volgens het model, opgenomen in de bij deze regeling behorende [bijlage 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.10&z=2021-10-06&g=2021-10-06).
 
 7. Het certificaat van onderzoek als bedoeld in de Herziene Rijnvaartakte, wordt door de minister afgegeven volgens het model van [bijlage B bij het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B).
 
@@ -767,7 +771,7 @@ De minister houdt overeenkomstig [deel I, bijlage 3, onderdeel VI, van bijlage 1
 
 1. Een te onderzoeken binnenschip wordt onbeladen, gereinigd en voorzien van de voorgeschreven uitrusting aangeboden.
 
-2. De commissie van deskundigen bezichtigt het binnenschip bij een eerste onderzoek op het droge. Dit kan achterwege blijven indien een verklaring van een erkend classificatiebureau, volgens welke de bouw voldoet aan de daardoor gehanteerde voorschriften, wordt overgelegd, of indien een certificaat wordt overgelegd waaruit blijkt dat de minister al voor andere doeleinden een bezichtiging op het droge heeft verricht. Bij periodieke onderzoeken of onderzoeken overeenkomstig [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.16&z=2020-07-08&g=2020-07-08) kan de commissie van deskundigen een bezichtiging op het droge verlangen.
+2. De commissie van deskundigen bezichtigt het binnenschip bij een eerste onderzoek op het droge. Dit kan achterwege blijven indien een verklaring van een erkend classificatiebureau, volgens welke de bouw voldoet aan de daardoor gehanteerde voorschriften, wordt overgelegd, of indien een certificaat wordt overgelegd waaruit blijkt dat de minister al voor andere doeleinden een bezichtiging op het droge heeft verricht. Bij periodieke onderzoeken of onderzoeken overeenkomstig [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.16&z=2021-10-06&g=2021-10-06) kan de commissie van deskundigen een bezichtiging op het droge verlangen.
 
 3. Bij het eerste onderzoek van motorschepen en samenstellen alsmede bij essentiële veranderingen in de voortstuwingsinstallatie of de stuurinrichting, doet de commissie van deskundigen een proefvaart plaatsvinden.
 
@@ -797,7 +801,7 @@ De minister houdt overeenkomstig [deel I, bijlage 3, onderdeel VI, van bijlage 1
 
 2. Indien het een onderzoek van een passagiersschip, een veerboot of een zeilend passagiersschip betreft kan de minister bepalen dat een hellingproef wordt gehouden.
 
-3. Indien het onderzoek andere schepen dan de in het tweede lid genoemde betreft is [artikel 3.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.15&z=2020-07-08&g=2020-07-08), van overeenkomstige toepassing.
+3. Indien het onderzoek andere schepen dan de in het tweede lid genoemde betreft is [artikel 3.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.15&z=2021-10-06&g=2021-10-06), van overeenkomstige toepassing.
 
 4. Indien na een onderzoek als bedoeld in het eerste lid, het binnenschip aan de bij of krachtens [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=8) gestelde voorschriften voldoet, geeft de minister een nieuw certificaat van onderzoek af of verlengt de geldigheidsduur van het certificaat.
 
@@ -837,7 +841,7 @@ Indien een certificaat van onderzoek door de minister is afgegeven, deelt de eig
 
 1. Voor passagiersschepen en zeilende passagiersschepen voor de in Nederland gelegen zone 2, erkent de minister voor de toepassing van [artikel 7, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=7), scheepsattesten afgegeven op grond van [richtlijn 2009/100/EG](32009L0100) van het Europees Parlement en de Raad van 16 september 2009 inzake de wederzijdse erkenning van scheepsattesten voor binnenschepen (Pb L 259), indien het schip tevens voldoet aan de desbetreffende regels voor zone 2.
 
-2. Het eerste lid is van overeenkomstige toepassing op veerboten, met dien verstande dat de erkenning voor zone 2 slechts geldt indien de veerboot tevens voldoet aan de voorschriften van [bijlage 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.7&z=2020-07-08&g=2020-07-08).
+2. Het eerste lid is van overeenkomstige toepassing op veerboten, met dien verstande dat de erkenning voor zone 2 slechts geldt indien de veerboot tevens voldoet aan de voorschriften van [bijlage 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.7&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 3.22
 
@@ -889,7 +893,7 @@ De meting van binnenschepen heeft tot doel:
 
 2. De minister houdt van de afgifte, de verlenging en de intrekking van de meetbrief en van de hermeting aantekening in de ligger.
 
-3. De minister maakt van de aantekeningen als bedoeld in [artikelen 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.19&z=2020-07-08&g=2020-07-08), en [4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2020-07-08&g=2020-07-08), melding in de ligger.
+3. De minister maakt van de aantekeningen als bedoeld in [artikelen 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.19&z=2021-10-06&g=2021-10-06), en [4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2021-10-06&g=2021-10-06), melding in de ligger.
 
 #### § 2. Aanvraag van de meting en de voorwaarden waaronder de meting plaatsheeft
 
@@ -907,7 +911,7 @@ De meting van binnenschepen heeft tot doel:
 
 3. Het water in stoomketels van schepen zonder voortstuwingswerktuig behoort tot de uitrusting van het vaartuig.
 
-4. Zaken die niet behoren tot die, welke volgens het derde lid en volgens [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2020-07-08&g=2020-07-08) aanwezig zijn, bevinden zich niet aan boord.
+4. Zaken die niet behoren tot die, welke volgens het derde lid en volgens [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2021-10-06&g=2021-10-06) aanwezig zijn, bevinden zich niet aan boord.
 
 5. Is de uitrusting niet volledig, dan wordt zij voor de meting aangevuld.
 
@@ -957,7 +961,7 @@ De meting van binnenschepen heeft tot doel:
 
 ##### Artikel 4.9
 
-Op de meting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=4.1&z=2020-07-08&g=2020-07-08) van toepassing.
+Op de meting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=4.1&z=2021-10-06&g=2021-10-06) van toepassing.
 
 #### § 4. Hermeting
 
@@ -987,7 +991,7 @@ Het verschil wordt bepaald over een zelfde laadhoogte.
 
 ##### Artikel 4.12
 
-Op de hermeting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=4.1&z=2020-07-08&g=2020-07-08) van toepassing.
+Op de hermeting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=4.1&z=2021-10-06&g=2021-10-06) van toepassing.
 
 #### § 5. Meetbrief
 
@@ -997,7 +1001,7 @@ Op de hermeting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958
 
 2. De meetbrief wordt vastgesteld overeenkomstig het model in de Overeenkomst.
 
-3. Op de meetbrief worden de zones als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2020-07-08&g=2020-07-08), waarin het binnenschip bestemd is te varen, vermeld.
+3. Op de meetbrief worden de zones als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2021-10-06&g=2021-10-06), waarin het binnenschip bestemd is te varen, vermeld.
 
 ##### Artikel 4.14
 
@@ -1047,9 +1051,9 @@ Op de hermeting is [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958
 
 ##### Artikel 4.17
 
-1. Indien de minister constateert, dat zich ten aanzien van een in Nederland geregistreerd binnenschip één der gevallen, genoemd in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2020-07-08&g=2020-07-08), voordoet trekt hij de meetbrief in.
+1. Indien de minister constateert, dat zich ten aanzien van een in Nederland geregistreerd binnenschip één der gevallen, genoemd in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2021-10-06&g=2021-10-06), voordoet trekt hij de meetbrief in.
 
-2. Indien één der gevallen, genoemd in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2020-07-08&g=2020-07-08), zich voordoet ten aanzien van een in het buitenland geregistreerd binnenschip, informeert de minister de bevoegde autoriteit in het land waar het binnenschip is geregistreerd. In de meetbrief van het desbetreffende binnenschip wordt een verklaring gehecht als vastgesteld door de minister.
+2. Indien één der gevallen, genoemd in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2021-10-06&g=2021-10-06), zich voordoet ten aanzien van een in het buitenland geregistreerd binnenschip, informeert de minister de bevoegde autoriteit in het land waar het binnenschip is geregistreerd. In de meetbrief van het desbetreffende binnenschip wordt een verklaring gehecht als vastgesteld door de minister.
 
 ##### Artikel 4.18
 
@@ -1067,7 +1071,7 @@ Een meetbrief, afgegeven door een bureau van meting van een andere staat, aanges
 
 ##### Artikel 4.20
 
-1. Onverminderd het in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2020-07-08&g=2020-07-08), bepaalde, kunnen veranderingen ten aanzien van het vaartuig anders dan bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.17&z=2020-07-08&g=2020-07-08), op de meetbrief worden aangetekend. De aantekening geschiedt op aanvraag van de belanghebbende door de minister.
+1. Onverminderd het in [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.16&z=2021-10-06&g=2021-10-06), bepaalde, kunnen veranderingen ten aanzien van het vaartuig anders dan bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=5&artikel=4.17&z=2021-10-06&g=2021-10-06), op de meetbrief worden aangetekend. De aantekening geschiedt op aanvraag van de belanghebbende door de minister.
 
 2. Indien het een binnenschip betreft dat in het buitenland is gemeten, is een schriftelijke machtiging van de bevoegde autoriteit die de meetbrief heeft afgegeven nodig voor het aanbrengen van een zodanige aantekening.
 
@@ -1107,7 +1111,7 @@ Binnenschepen, bestemd of gebruikt voor het vervoer van goederen, kunnen bij met
 
 ##### Artikel 5.1
 
-Behoudens [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&z=2020-07-08&g=2020-07-08) is dit hoofdstuk van toepassing op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2020-07-08&g=2020-07-08) bedoelde binnenwateren uitgezonderd de Rijn, met inbegrip van de Waal en de Lek.
+Behoudens [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&z=2021-10-06&g=2021-10-06) is dit hoofdstuk van toepassing op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2021-10-06&g=2021-10-06) bedoelde binnenwateren uitgezonderd de Rijn, met inbegrip van de Waal en de Lek.
 
 ##### Artikel 5.2
 
@@ -1117,11 +1121,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **bunkerschip:** schip dat langszij andere schepen gaat in havens of gedurende de vaart, met als doel deze schepen te bevoorraden;
 
-- **exploitatiewijze A1:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2020-07-08&g=2020-07-08), ten hoogste 14 uur dan wel overeenkomstig [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2020-07-08&g=2020-07-08), 16 uur bedraagt;
+- **exploitatiewijze A1:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-10-06&g=2021-10-06), ten hoogste 14 uur dan wel overeenkomstig [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-10-06&g=2021-10-06), 16 uur bedraagt;
 
-- **exploitatiewijze A2:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2020-07-08&g=2020-07-08), ten hoogste 18 uur bedraagt;
+- **exploitatiewijze A2:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-10-06&g=2021-10-06), ten hoogste 18 uur bedraagt;
 
-- **exploitatiewijze B:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2020-07-08&g=2020-07-08), meer dan 18 uur bedraagt;
+- **exploitatiewijze B:** exploitatiewijze waarbij de vaartijd van een schip per 24 uur, blijkens de op die periode betrekking hebbende aantekening in het vaartijdenboek, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-10-06&g=2021-10-06), meer dan 18 uur bedraagt;
 
 - **hotelschip:** passagiersschip waarop zich hutten bevinden voor overnachting van passagiers;
 
@@ -1145,9 +1149,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 5.3
 
-1. Voor de toepassing van dit hoofdstuk wordt rekening gehouden met de rust- en vaartijden, vervuld gedurende een tijdvak van 48 uur, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2020-07-08&g=2020-07-08) is binnengevaren.
+1. Voor de toepassing van dit hoofdstuk wordt rekening gehouden met de rust- en vaartijden, vervuld gedurende een tijdvak van 48 uur, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2021-10-06&g=2021-10-06) is binnengevaren.
 
-2. Een schip dat de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2020-07-08&g=2020-07-08) bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in [artikel 3.13 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13) of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.
+2. Een schip dat de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2021-10-06&g=2021-10-06) bedoelde binnenwateren binnenvaart is voorzien van een vaartijdenboek als bedoeld in [artikel 3.13 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13) of een ander document, waaruit blijkt op welke wijze de rusttijden van elk der bemanningsleden alsmede de vaartijden van het schip gedurende de in het eerste lid bedoelde periode zijn vervuld.
 
 ##### Artikel 5.4
 
@@ -1163,7 +1167,7 @@ Bij wisseling en herhaling van exploitatiewijzen is [artikel 3.12 van het Rsp](h
 
 ##### Artikel 5.6
 
-1. De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig [artikel 3.15 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.15), met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-07-08&g=2020-07-08):
+1. De minimumbemanning van de navolgende categorieën van schepen wordt vastgesteld overeenkomstig [artikel 3.15 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.15), met dien verstande dat de stuurman in voetnoot 2 de bekwaamheid van schipper bezit bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06):
 
 - a. motorschepen;
 
@@ -1205,11 +1209,11 @@ Bij wisseling en herhaling van exploitatiewijzen is [artikel 3.12 van het Rsp](h
 
 - b. hetzij een schipper en een lichtmatroos mits de voorschriften, bedoeld in onderdeel a, onder ten derde, in acht worden genomen.
 
-4. De minimumbemanning van hechte samenstellen, schepen voor dagtochten, stoomschepen voor dagtochten, hotelschepen, veerboten en sleepschepen wordt onderscheidenlijk vastgesteld overeenkomstig de bij deze regeling behorende [bijlagen 5.1 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.1&z=2020-07-08&g=2020-07-08).
+4. De minimumbemanning van hechte samenstellen, schepen voor dagtochten, stoomschepen voor dagtochten, hotelschepen, veerboten en sleepschepen wordt onderscheidenlijk vastgesteld overeenkomstig de bij deze regeling behorende [bijlagen 5.1 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.1&z=2021-10-06&g=2021-10-06).
 
-5. De minimumbemanning van sleepboten en sleepboten die havendiensten verrichten wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.7&z=2020-07-08&g=2020-07-08).
+5. De minimumbemanning van sleepboten en sleepboten die havendiensten verrichten wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.7&z=2021-10-06&g=2021-10-06).
 
-6. De minimumbemanning van snelle veerponten wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.8&z=2020-07-08&g=2020-07-08). De schipper is in het bezit van een radarpatent.
+6. De minimumbemanning van snelle veerponten wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.8&z=2021-10-06&g=2021-10-06). De schipper is in het bezit van een radarpatent.
 
 ##### Artikel 5.7
 
@@ -1229,7 +1233,7 @@ Een vrouw, die krachtens arbeidsovereenkomst dan wel publiekrechtelijke aanstell
 
 ##### Artikel 5.10
 
-Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (21) van de Internationale Maritieme Organisatie van 25 november 1999 en het op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen van zeevarenden inzake opleiding, diplomering en wachtdienst, met bijlage, (Trb. 1981, 144 en 1992, 109) is [artikel 3.20 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.20) van overeenkomstige toepassing, met dien verstande dat onder een persoon die houder is van het Rijnschipperspatent een persoon wordt verstaan die in het bezit is van een document als bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-07-08&g=2020-07-08).
+Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (21) van de Internationale Maritieme Organisatie van 25 november 1999 en het op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen van zeevarenden inzake opleiding, diplomering en wachtdienst, met bijlage, (Trb. 1981, 144 en 1992, 109) is [artikel 3.20 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.20) van overeenkomstige toepassing, met dien verstande dat onder een persoon die houder is van het Rijnschipperspatent een persoon wordt verstaan die in het bezit is van een document als bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06).
 
 #### § 2. Vaartijden en rusttijden
 
@@ -1247,7 +1251,7 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 ##### Artikel 5.12
 
-1. Ten aanzien van het vaartijdenboek is [artikel 5.11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08), alsmede [artikel 3.13 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13) van overeenkomstige toepassing, met dien verstande dat:
+1. Ten aanzien van het vaartijdenboek is [artikel 5.11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06), alsmede [artikel 3.13 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.13) van overeenkomstige toepassing, met dien verstande dat:
 
 - a. als autoriteit de voorzitter van de commissie van deskundigen wordt aangewezen;
 
@@ -1275,7 +1279,7 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 ##### Artikel 5.14
 
-1. Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf is [bijlage A3 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3) van toepassing, alsmede [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.4&z=2020-07-08&g=2020-07-08).
+1. Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf is [bijlage A3 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3) van toepassing, alsmede [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.4&z=2021-10-06&g=2021-10-06).
 
 2. Indien gebruik wordt gemaakt van een tachograaf bewaart de gezagvoerder de registraties van de tachograaf gedurende ten minste zes maanden na de laatste aantekening daarop in chronologische volgorde aan boord.
 
@@ -1283,7 +1287,7 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 ##### Artikel 5.15
 
-1. Motorschepen met een lengte van minder dan 55 meter zijn vrijgesteld van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+1. Motorschepen en zelfvarende drijvende werktuigen met een lengte van minder dan 55 meter zijn vrijgesteld van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. hetzij:
 
@@ -1303,7 +1307,7 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 - 8°. er wordt niet gevaren op de Westerschelde;
 
-- 9°. het schip voldoet aan [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2020-07-08&g=2020-07-08), en
+- 9°. het schip voldoet aan [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2021-10-06&g=2021-10-06), en
 
 - 10°. voor zover het motorschip een lengte heeft van meer dan 33 meter, is actieve boegbesturing bedienbaar vanuit het stuurhuis aanwezig;
 
@@ -1327,13 +1331,15 @@ Ten aanzien van zeeschepen die voldoen aan de bepalingen van Resolutie A. 890 (2
 
 5. Het aantonen van de rusttijd, bedoeld in het eerste lid, onderdeel a, onder 3°, derde en vierde lid, geschiedt door middel van het vaartijdenboek van het schip.
 
+6. Zelfvarende drijvende werktuigen met een lengte van minder dan 20 meter zijn vrijgesteld van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, indien wordt voldaan aan de voorschriften, bedoeld in het eerste lid, onder a, onderdelen 1° tot en met 4° en 7° tot en met 10°.
+
 ##### Artikel 5.16
 
-Patrouillevaartuigen zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2020-07-08&g=2020-07-08) en [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&z=2020-07-08&g=2020-07-08).
+Patrouillevaartuigen zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-10-06&g=2021-10-06) en [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 5.17
 
-1. Passagiersschepen die in de exploitatiewijze A1 varen, zijn vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+1. Passagiersschepen die in de exploitatiewijze A1 varen, zijn vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit:
 
@@ -1345,7 +1351,7 @@ Patrouillevaartuigen zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.
 
 - b. voor het begin van de vaart en telkens na elke onderbreking van de vaart wanneer passagiers embarkeren of debarkeren legt de schipper het aantal passagiers dat aan boord is schriftelijk vast.
 
-2. Passagiersschepen uit groep 1, met een lengte van maximaal 45 meter, die ten hoogste 40 personen aan boord hebben en in de exploitatiewijze A1 varen, zijn vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+2. Passagiersschepen uit groep 1, met een lengte van maximaal 45 meter, die ten hoogste 40 personen aan boord hebben en in de exploitatiewijze A1 varen, zijn vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een lichtmatroos of een deksman van ten minste 18 jaar;
 
@@ -1353,17 +1359,17 @@ Patrouillevaartuigen zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.
 
 - c. voor het begin van de vaart en telkens na elke onderbreking van de vaart wanneer passagiers embarkeren of debarkeren legt de schipper het aantal passagiers dat aan boord is schriftelijk vast.
 
-3. Ten aanzien van de in het tweede lid bedoelde passagierschepen is in geval van vaart zonder passagiers [artikel 5.15, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&artikel=5.15&z=2020-07-08&g=2020-07-08), van overeenkomstige toepassing, onder voorwaarde dat het schip beschikt over vrij toegankelijke gangboorden die voldoen aan de in [artikel 14.02, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=14.02) gestelde eisen.
+3. Ten aanzien van de in het tweede lid bedoelde passagierschepen is in geval van vaart zonder passagiers [artikel 5.15, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&artikel=5.15&z=2021-10-06&g=2021-10-06), van overeenkomstige toepassing, onder voorwaarde dat het schip beschikt over vrij toegankelijke gangboorden die voldoen aan de in [artikel 14.02, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=14.02) gestelde eisen.
 
 ##### Artikel 5.18
 
-1. Rondvaartboten van het Amsterdamse grachtentype zijn, voor zover zij in de exploitatiewijze A1 varen, vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voorgeschreven minimumbemanning, mits de minimumbemanning bestaat uit een schipper.
+1. Rondvaartboten van het Amsterdamse grachtentype zijn, voor zover zij in de exploitatiewijze A1 varen, vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits de minimumbemanning bestaat uit een schipper.
 
-2. Open rondvaartboten zijn, voor zover zij in de exploitatiewijze A1 varen, vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voorgeschreven minimumbemanning, mits de minimumbemanning bestaat uit een schipper.
+2. Open rondvaartboten zijn, voor zover zij in de exploitatiewijze A1 varen, vrijgesteld van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits de minimumbemanning bestaat uit een schipper.
 
 ##### Artikel 5.19
 
-Schepen, bestemd of gebruikt voor het bedrijfsmatig vervoer van meer dan 12 personen buiten de bemanning en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, voor zover zij in exploitatiewijze A1 varen, zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2020-07-08&g=2020-07-08) en van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), in [bijlage 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.2&z=2020-07-08&g=2020-07-08) onderscheidenlijk [bijlage 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.4&z=2020-07-08&g=2020-07-08) voorgeschreven minimumbemanning, mits de bemanning bestaat uit:
+Schepen, bestemd of gebruikt voor het bedrijfsmatig vervoer van meer dan 12 personen buiten de bemanning en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, voor zover zij in exploitatiewijze A1 varen, zijn vrijgesteld van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-10-06&g=2021-10-06) en van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), in [bijlage 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.2&z=2021-10-06&g=2021-10-06) onderscheidenlijk [bijlage 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=5.4&z=2021-10-06&g=2021-10-06) voorgeschreven minimumbemanning, mits de bemanning bestaat uit:
 
 - a. een schipper, en
 
@@ -1371,7 +1377,7 @@ Schepen, bestemd of gebruikt voor het bedrijfsmatig vervoer van meer dan 12 pers
 
 ##### Artikel 5.20
 
-Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), en [5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2020-07-08&g=2020-07-08), zijn vrijgesteld schepen die:
+Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), en [5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2021-10-06&g=2021-10-06), zijn vrijgesteld schepen die:
 
 - a. een minimumbemanning hebben van één schipper;
 
@@ -1381,7 +1387,7 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 ##### Artikel 5.21
 
-1. Onverminderd [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&artikel=5.15&z=2020-07-08&g=2020-07-08) wordt ten aanzien van motorschepen die in exploitatiewijze A2 varen, vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+1. Onverminderd [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=5&artikel=5.15&z=2021-10-06&g=2021-10-06) wordt ten aanzien van motorschepen die in exploitatiewijze A2 varen, vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een stuurman;
 
@@ -1391,7 +1397,7 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-2. Ten aanzien van motorschepen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+2. Ten aanzien van motorschepen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een matroos;
 
@@ -1401,13 +1407,13 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-3. Ten aanzien van motorschepen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+3. Ten aanzien van motorschepen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper, een stuurman en een lichtmatroos; en
 
 - b. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-4. Ten aanzien van motorschepen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+4. Ten aanzien van motorschepen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een stuurman;
 
@@ -1421,13 +1427,13 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - f. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-5. Ten aanzien van motorschepen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+5. Ten aanzien van motorschepen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit twee schippers en één matroos; en
 
 - b. de voorschriften, bedoeld in het vierde lid onder e en f.
 
-6. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+6. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 1 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een stuurman;
 
@@ -1437,7 +1443,7 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-7. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+7. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een matroos;
 
@@ -1447,13 +1453,13 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-8. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+8. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 2 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper, een stuurman en een lichtmatroos; en
 
 - b. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-9. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+9. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper en een stuurman;
 
@@ -1461,19 +1467,19 @@ Van de [artikelen 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00259
 
 - c. het schip voldoet blijkens een verklaring van de minister aan de eisen van de Standaard S2.
 
-10. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+10. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 3 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit twee schippers en een matroos; en
 
 - b. de voorschriften, bedoeld in het vierde lid, onder e en f.
 
-11. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 4 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
+11. Ten aanzien van hechte samenstellen die in exploitatiewijze A1 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 4 voorgeschreven minimumbemanning, mits voldaan wordt aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit een schipper, een stuurman en een matroos; en
 
 - b. de voorschriften, bedoeld in het het vierde lid, onder e en f.
 
-12. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08), voor groep 4 voorgeschreven minimumbemanning, mits wordt voldaan aan de volgende voorschriften:
+12. Ten aanzien van hechte samenstellen die in exploitatiewijze A2 varen, wordt vrijstelling verleend van de ingevolge [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voor groep 4 voorgeschreven minimumbemanning, mits wordt voldaan aan de volgende voorschriften:
 
 - a. de minimumbemanning bestaat uit twee schippers en twee matrozen; en
 
@@ -1489,11 +1495,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04),
 
-- b. een dienstboekje als bedoeld in respectievelijk [artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08), of de [artikelen 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03) en [3.04 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.04);
+- b. een dienstboekje als bedoeld in respectievelijk [artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06), of de [artikelen 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03) en [3.04 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.04);
 
-- c. een vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2020-07-08&g=2020-07-08); of
+- c. een vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2021-10-06&g=2021-10-06); of
 
-- d. een zeilbewijs als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2020-07-08&g=2020-07-08);
+- d. een zeilbewijs als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2021-10-06&g=2021-10-06);
 
 - **arts:** deskundige, bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=28) en de [artikelen 7.01, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.01), [7.02, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.02), [7.03, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.03), en [7.04, eerste lid, onderdeel c, van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.04);
 
@@ -1501,11 +1507,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **medisch adviseur scheepvaart:** medisch adviseur scheepvaart van de Minister, of diens plaatsvervanger;
 
-- **geneeskundig onderzoek:** onderzoek, bedoeld in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2020-07-08&g=2020-07-08), ter verkrijging van:
+- **geneeskundig onderzoek:** onderzoek, bedoeld in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2021-10-06&g=2021-10-06), ter verkrijging van:
 
 - a. een vaarbewijs als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) of een Rijnpatent als bedoeld in [artikel 6.04, eerste lid, van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04),
 
-- b. een dienstboekje als bedoeld in respectievelijk[artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08), alsmede de [artikelen 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03) en [3.04 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.04);
+- b. een dienstboekje als bedoeld in respectievelijk[artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06), alsmede de [artikelen 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.03) en [3.04 van het Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.04);
 
 - **eigen verklaring:** verklaring, bedoeld in [artikel 26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=26).
 
@@ -1523,9 +1529,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 6.4
 
-1. De arts verricht het geneeskundig onderzoek op basis van de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08).
+1. De arts verricht het geneeskundig onderzoek op basis van de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06).
 
-2. Indien ingevolge [bijlage 6.I](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08) een medisch rapport is voorgeschreven, dan wel bij twijfel of de aanvrager voldoet aan de keuringseisen, vraagt de arts de benodigde geneeskundige informatie op bij de behandelend arts. Bij het ontbreken van voldoende informatie verwijst de arts de aanvrager voor een deelonderzoek door naar een specialist.
+2. Indien ingevolge [bijlage 6.I](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06) een medisch rapport is voorgeschreven, dan wel bij twijfel of de aanvrager voldoet aan de keuringseisen, vraagt de arts de benodigde geneeskundige informatie op bij de behandelend arts. Bij het ontbreken van voldoende informatie verwijst de arts de aanvrager voor een deelonderzoek door naar een specialist.
 
 3. Het geneeskundig onderzoek wordt door de arts afgerond na ontvangst van de informatie van de behandelend arts of de uitslag van het specialistisch deelonderzoek.
 
@@ -1535,7 +1541,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 6.5
 
-1. De aanvrager is geschikt als hij voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08). De arts vermeldt bij geschiktheid van de aanvrager de uitslag van het geneeskundig onderzoek op de geneeskundige verklaring, die is vastgesteld volgens het model, opgenomen in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2020-07-08&g=2020-07-08) en verstrekt de geneeskundige verklaring aan de aanvrager.
+1. De aanvrager is geschikt als hij voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06). De arts vermeldt bij geschiktheid van de aanvrager de uitslag van het geneeskundig onderzoek op de geneeskundige verklaring, die is vastgesteld volgens het model, opgenomen in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2021-10-06&g=2021-10-06) en verstrekt de geneeskundige verklaring aan de aanvrager.
 
 2. Bij tijdelijke geschiktheid van de aanvrager verstrekt de arts de aanvrager een geneeskundige verklaring van tijdelijke geschiktheid.
 
@@ -1543,19 +1549,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 6.6
 
-1. De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08). De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een verklaring van medische ongeschiktheid, dat is vastgesteld volgens het model, opgenomen in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.3&z=2020-07-08&g=2020-07-08). De arts deelt de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij een scheidsrechter.
+1. De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06). De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een verklaring van medische ongeschiktheid, dat is vastgesteld volgens het model, opgenomen in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.3&z=2021-10-06&g=2021-10-06). De arts deelt de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij een scheidsrechter.
 
 2. In het geval, bedoeld in het eerste lid, verzendt de arts nog dezelfde dag de verklaring van medische ongeschiktheid, waarin de reden of redenen tot afkeuring zijn vermeld, aan de medisch adviseur scheepvaart. De medisch adviseur scheepvaart doet mededeling van de afkeuring aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, zeilbewijzen, vrijstellingsbewijzen of dienstboekjes.
 
 3. De aanvrager die een heronderzoek wenst, richt zich daarvoor tot een scheidsrechter onder toezending van de verklaring van medische ongeschiktheid.
 
-4. Ten aanzien van het heronderzoek zijn de [artikelen 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.3&z=2020-07-08&g=2020-07-08), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing, met dien verstande dat reeds door de arts in orde bevonden onderdelen van de keuring niet behoeven te worden herhaald, tenzij over de uitslag twijfel bestaat bij de scheidsrechter. Het heronderzoek kan bestaan uit het uitsluitend beoordelen van de reeds ter beschikking staande gegevens.
+4. Ten aanzien van het heronderzoek zijn de [artikelen 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.3&z=2021-10-06&g=2021-10-06), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing, met dien verstande dat reeds door de arts in orde bevonden onderdelen van de keuring niet behoeven te worden herhaald, tenzij over de uitslag twijfel bestaat bij de scheidsrechter. Het heronderzoek kan bestaan uit het uitsluitend beoordelen van de reeds ter beschikking staande gegevens.
 
 5. Indien de scheidsrechter na het heronderzoek van oordeel is dat de aanvrager medisch ongeschikt is, doet de medisch adviseur scheepvaart na ontvangst van de verklaring van medische ongeschiktheid hiervan mededeling aan de instanties die belast zijn met onderscheidenlijk de afgifte van vaarbewijzen, Rijnpatenten, vrijstellingsbewijzen of dienstboekjes.
 
 ##### Artikel 6.7
 
-De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager tijdelijk ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een verklaring van tijdelijke ongeschiktheid. In afwijking van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.6&z=2020-07-08&g=2020-07-08), eerste lid, deelt de arts de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij dezelfde arts die de aanvrager tijdelijk geschikt heeft bevonden, dan wel diens opvolger of waarnemer, tenzij de medisch adviseur scheepvaart instemt met keuring door een andere arts.
+De arts die na het volledige geneeskundig onderzoek van oordeel is dat de aanvrager tijdelijk ongeschikt is, deelt dit de aanvrager mee. De arts overhandigt de aanvrager een verklaring van tijdelijke ongeschiktheid. In afwijking van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.6&z=2021-10-06&g=2021-10-06), eerste lid, deelt de arts de aanvrager tevens mee dat een heronderzoek kan worden aangevraagd bij dezelfde arts die de aanvrager tijdelijk geschikt heeft bevonden, dan wel diens opvolger of waarnemer, tenzij de medisch adviseur scheepvaart instemt met keuring door een andere arts.
 
 ##### Artikel 6.8
 
@@ -1579,15 +1585,15 @@ De aanvrager die met toepassing van [artikel 26, eerste lid, van het besluit](ht
 
 ##### Artikel 6.11
 
-1. In het geval, bedoeld in [artikel 6.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.10&z=2020-07-08&g=2020-07-08), verklaart de beoordelaar de aanvrager geschikt of ongeschikt op basis van de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08). In geval van twijfel kan de beoordelaar de aanvrager oproepen voor een nader onderzoek. Indien nodig kan de beoordelaar de aanvrager doorverwijzen voor een deelonderzoek naar een specialist.
+1. In het geval, bedoeld in [artikel 6.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.10&z=2021-10-06&g=2021-10-06), verklaart de beoordelaar de aanvrager geschikt of ongeschikt op basis van de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06). In geval van twijfel kan de beoordelaar de aanvrager oproepen voor een nader onderzoek. Indien nodig kan de beoordelaar de aanvrager doorverwijzen voor een deelonderzoek naar een specialist.
 
-2. De aanvrager is geschikt als hij naar het oordeel van de beoordelaar voldoet aan de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08). In dat geval verstrekt de beoordelaar de aanvrager een geneeskundige verklaring, die is vastgesteld volgens het model, opgenomen in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2020-07-08&g=2020-07-08).
+2. De aanvrager is geschikt als hij naar het oordeel van de beoordelaar voldoet aan de keuringseisen en keuringsaanwijzingen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06). In dat geval verstrekt de beoordelaar de aanvrager een geneeskundige verklaring, die is vastgesteld volgens het model, opgenomen in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2021-10-06&g=2021-10-06).
 
-3. De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2020-07-08&g=2020-07-08). In het geval, dat de beoordelaar de aanvrager ongeschikt verklaart, zendt de beoordelaar de aanvrager een verklaring van medische ongeschiktheid, onder mededeling van de mogelijkheid van heronderzoek.
+3. De aanvrager is ongeschikt als hij niet voldoet aan de keuringseisen, opgenomen in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.1&z=2021-10-06&g=2021-10-06). In het geval, dat de beoordelaar de aanvrager ongeschikt verklaart, zendt de beoordelaar de aanvrager een verklaring van medische ongeschiktheid, onder mededeling van de mogelijkheid van heronderzoek.
 
 4. In het geval, bedoeld in het derde lid, zendt de beoordelaar de medisch adviseur scheepvaart nog dezelfde dag de verklaring van medische ongeschiktheid, waarin de reden of redenen tot afkeuring zijn vermeld.
 
-5. De aanvrager die ongeschikt is verklaard en een heronderzoek wenst, wendt zich tot een scheidsrechter die niet reeds bij de beoordeling van de eigen verklaring was betrokken. Ten aanzien van het heronderzoek zijn de [artikelen 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.3&z=2020-07-08&g=2020-07-08), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing, met dien verstande, dat het heronderzoek kan bestaan uit het uitsluitend beoordelen van de ter beschikking staande gegevens.
+5. De aanvrager die ongeschikt is verklaard en een heronderzoek wenst, wendt zich tot een scheidsrechter die niet reeds bij de beoordeling van de eigen verklaring was betrokken. Ten aanzien van het heronderzoek zijn de [artikelen 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.3&z=2021-10-06&g=2021-10-06), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing, met dien verstande, dat het heronderzoek kan bestaan uit het uitsluitend beoordelen van de ter beschikking staande gegevens.
 
 6. De medisch adviseur scheepvaart doet mededeling van de afkeuring aan de instanties die belast zijn met de afgifte van onderscheidenlijk vaarbewijzen, Rijnpatenten, zeilbewijzen, vrijstellingsbewijzen of dienstboekjes.
 
@@ -1621,15 +1627,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **groot pleziervaartbewijs II:** groot pleziervaartbewijs voor de vaart op alle binnenwateren;
 
-- **ICC:** internationaal certificaat van competentie als bedoeld in resolutie 40, nr. TRANS/SC.3/147, van de Working Party on Inland Transport van de Economische Commissie voor Europa van de Verenigde Naties, van 16 oktober 1998, overeenkomstig [bijlage 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.5&z=2020-07-08&g=2020-07-08) bij deze regeling.
+- **ICC:** internationaal certificaat van competentie als bedoeld in resolutie 40, nr. TRANS/SC.3/147, van de Working Party on Inland Transport van de Economische Commissie voor Europa van de Verenigde Naties, van 16 oktober 1998, overeenkomstig [bijlage 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.5&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
 ##### Artikel 7.2
 
-Behoudens de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&z=2020-07-08&g=2020-07-08) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&z=2020-07-08&g=2020-07-08) is dit hoofdstuk van toepassing op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2020-07-08&g=2020-07-08) bedoelde binnenwateren uitgezonderd de Rijn, met inbegrip van de Waal en de Lek.
+Behoudens de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&z=2021-10-06&g=2021-10-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&z=2021-10-06&g=2021-10-06) is dit hoofdstuk van toepassing op de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=2&artikel=1.2&z=2021-10-06&g=2021-10-06) bedoelde binnenwateren uitgezonderd de Rijn, met inbegrip van de Waal en de Lek.
 
 ##### Artikel 7.3
 
-Het klein, beperkt groot en groot vaarbewijs worden vastgesteld volgens de modellen opgenomen in [bijlage 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.3&z=2020-07-08&g=2020-07-08).
+Het klein, beperkt groot en groot vaarbewijs worden vastgesteld volgens de modellen opgenomen in [bijlage 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.3&z=2021-10-06&g=2021-10-06).
 
 ##### Artikel 7.4
 
@@ -1641,13 +1647,13 @@ Het klein, beperkt groot en groot vaarbewijs worden vastgesteld volgens de model
 
 ##### Artikel 7.5
 
-Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in [artikel 16, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), voor open rondvaartboten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2020-07-08&g=2020-07-08), bestemd of gebezigd voor het bedrijfsmatig vervoer van meer dan twaalf personen buiten de bemanning, met een lengte gemeten op het vlak van de grootste inzinking van minder dan 20 meter, voor zover de schipper in het bezit is van een klein vaarbewijs of een vrijstellingsbewijs als bedoeld in [artikel 7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2020-07-08&g=2020-07-08) en indien het schip vaart op de binnenwateren van zone 4, dan wel op de Beulakerwiede of de Belterwiede;
+Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bedoeld in [artikel 16, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), voor open rondvaartboten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2021-10-06&g=2021-10-06), bestemd of gebezigd voor het bedrijfsmatig vervoer van meer dan twaalf personen buiten de bemanning, met een lengte gemeten op het vlak van de grootste inzinking van minder dan 20 meter, voor zover de schipper in het bezit is van een klein vaarbewijs of een vrijstellingsbewijs als bedoeld in [artikel 7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2021-10-06&g=2021-10-06) en indien het schip vaart op de binnenwateren van zone 4, dan wel op de Beulakerwiede of de Belterwiede;
 
 ##### Artikel 7.6
 
-1. [Artikel 14, eerste lid, aanhef en onderdeel b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), is niet van toepassing voor rondvaartboten van het Amsterdams grachtentype, als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2020-07-08&g=2020-07-08) voor zover varend op de binnenwateren van zone 3 of zone 4, en voor zover de schipper in het bezit is van:
+1. [Artikel 14, eerste lid, aanhef en onderdeel b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), is niet van toepassing voor rondvaartboten van het Amsterdams grachtentype, als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2021-10-06&g=2021-10-06) voor zover varend op de binnenwateren van zone 3 of zone 4, en voor zover de schipper in het bezit is van:
 
-- a. het vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2020-07-08&g=2020-07-08); en
+- a. het vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2021-10-06&g=2021-10-06); en
 
 - b. een verklaring van de vaarwegbeheerder houdende de vermelding voor welke wateren, behorende tot zone 3, het vrijstellingsbewijs geldt alsmede de voorwaarden waaronder op deze wateren mag worden gevaren.
 
@@ -1655,13 +1661,13 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 - a. het diploma Schipper rondvaartboot beperkt vaargebied, zoals opgenomen in het Centraal Register Beroepsopleidingen met de codes 95050 of 25385, en een dienstboekje als bedoeld in artikel 5.4.1, waaruit blijkt dat de aanvrager een vaartijd van ten minste 180 vaardagen als lichtmatroos heeft behaald; of
 
-- b. de Verklaring praktijkexamen schipper rondvaartboot beperkt vaargebied, ten bewijze dat het Praktijkexamen schipper rondvaartboot van het Amsterdamse grachtentype, beperkt vaargebied van het CBR, met goed gevolg is afgelegd, een dienstboekje als bedoeld in artikel 5.4.1, waaruit blijkt dat de aanvrager een vaartijd van tenminste 180 vaardagen heeft behaald, ten minste een klein vaarbewijs I en een marifoon certificaat; en
+- b. de Verklaring praktijkexamen schipper rondvaartboot beperkt vaargebied, ten bewijze dat het Praktijkexamen schipper rondvaartboot van het Amsterdamse grachtentype, beperkt vaargebied van het CBR, met goed gevolg is afgelegd, en een vaartijdverklaring afgegeven door de Stichting Afvalstoffen en vaardocumenten Binnenvaart, waaruit blijkt dat de aanvrager ten minste 180 vaardagen heeft behaald, waarvan tenminste 90 vaardagen zijn behaald tijdens het praktijkexamentraject, hetgeen kan worden aangetoond door middel van een dienstboekje of een werkgeversverklaring, vergezeld van op de desbetreffende periode van toepassing zijnde salarisstroken; en
 
 - c. een geneeskundige verklaring als bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=28), niet ouder dan dertien weken
 
 3. Het praktijkexamen ter verkrijging van de Verklaring praktijkexamen schipper rondvaartboot beperkt vaargebied, als bedoeld in het tweede lid, onder b, wordt afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.
 
-4. Op de aanvraag van het in het eerste lid, onderdeel a, bedoelde vrijstellingsbewijs is [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing.
+4. Op de aanvraag van het in het eerste lid, onderdeel a, bedoelde vrijstellingsbewijs is [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing.
 
 5. Op het in het eerste lid, onderdeel a, bedoelde vrijstellingsbewijs zijn [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=27), en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=30) van overeenkomstige toepassing.
 
@@ -1689,15 +1695,15 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 1. [Artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=15) is niet van toepassing op pleziervaartuigen met een lengte van 25 tot 40 meter, indien de schipper in het bezit is van:
 
-- a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2020-07-08&g=2020-07-08); of
+- a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2021-10-06&g=2021-10-06); of
 
-- b. een vaarbewijs als bedoeld in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2020-07-08&g=2020-07-08), onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.
+- b. een vaarbewijs als bedoeld in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2021-10-06&g=2021-10-06), onderdelen 1.3 of 1.4, mits behaald vóór 1 juli 2011.
 
 2. [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=15), en [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14) zijn niet van toepassing voor pleziervaartuigen met een lengte van ten minste 25 meter, indien de schipper in het bezit is van:
 
-- a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2020-07-08&g=2020-07-08), voorzien van de aantekening ‘40 meter plus’; of
+- a. een groot pleziervaartbewijs I of II, overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2021-10-06&g=2021-10-06), voorzien van de aantekening ‘40 meter plus’; of
 
-- b. een vaarbewijs als bedoeld in [bijlage 7.1, onderdelen 1.3 of 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2020-07-08&g=2020-07-08), mits behaald vóór 1 juli 2011.
+- b. een vaarbewijs als bedoeld in [bijlage 7.1, onderdelen 1.3 of 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2021-10-06&g=2021-10-06), mits behaald vóór 1 juli 2011.
 
 3. Het in het eerste lid bedoelde groot pleziervaartbewijs wordt, na overlegging van een geldig klein vaarbewijs, door de minister afgegeven aan:
 
@@ -1783,7 +1789,7 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 11. De in het derde lid, onderdelen c en d, of de in het vierde lid bedoelde personen kunnen tot 1 juli 2011 een aanvraag ter verkrijging van een groot pleziervaartbewijs indienen.
 
-12. Op het groot pleziervaartbewijs zijn [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=30) alsmede [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing.
+12. Op het groot pleziervaartbewijs zijn [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=30) alsmede [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing.
 
 13. Met betrekking tot het aantonen van zijn lichamelijke en geestelijke geschiktheid is op de houder van het groot pleziervaartbewijs [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=26) van overeenkomstige toepassing.
 
@@ -1791,7 +1797,7 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 ##### Artikel 7.9
 
-1. De [artikelen 14, eerste lid, onderdelen a, b en c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=15), alsmede [16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), zijn niet van toepassing op schepen, bestemd of gebruikt voor bedrijfsmatig vervoer van personen en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, indien de schipper in het bezit is van een zeilbewijs overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2020-07-08&g=2020-07-08).
+1. De [artikelen 14, eerste lid, onderdelen a, b en c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=15), alsmede [16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), zijn niet van toepassing op schepen, bestemd of gebruikt voor bedrijfsmatig vervoer van personen en ingericht om hoofdzakelijk door middel van zeilen te worden voortbewogen, indien de schipper in het bezit is van een zeilbewijs overeenkomstig het model opgenomen in [bijlage 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.4&z=2021-10-06&g=2021-10-06).
 
 2. Van [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16) zijn vrijgesteld de gezagvoerders van schepen, voor zover zij zijn voorzien van het in het eerste lid bedoelde zeilbewijs.
 
@@ -1801,11 +1807,11 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 - b. een geneeskundige verklaring als bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=28), niet ouder dan dertien weken; en
 
-- c. een dienstboekje als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2020-07-08&g=2020-07-08), waaruit blijkt dat de aanvrager een vaartijd van twee jaar als lid van de dekbemanning aan boord van zeilschepen heeft doorlopen.
+- c. een dienstboekje als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-10-06&g=2021-10-06), waaruit blijkt dat de aanvrager een vaartijd van twee jaar als lid van de dekbemanning aan boord van zeilschepen heeft doorlopen.
 
 4. Het in het derde lid, onderdeel a, bedoelde diploma wordt verkregen na het behalen van een door de minister goedgekeurd examen.
 
-5. Op de aanvraag van het zeilbewijs is [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing.
+5. Op de aanvraag van het zeilbewijs is [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=3&artikel=1.4&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing.
 
 6. Op het zeilbewijs zijn [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=27), en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=30) van overeenkomstige toepassing.
 
@@ -1817,7 +1823,7 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 ##### Artikel 7.9a
 
-1. De in [artikel 22, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=22) bedoelde geneeskundige verklaring die naast het vaarbewijs wordt getoond, is een verklaring afgegeven overeenkomstig het model in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2020-07-08&g=2020-07-08) en gewaarmerkt door de instantie die het vaarbewijs afgeeft.
+1. De in [artikel 22, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=22) bedoelde geneeskundige verklaring die naast het vaarbewijs wordt getoond, is een verklaring afgegeven overeenkomstig het model in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.2&z=2021-10-06&g=2021-10-06) en gewaarmerkt door de instantie die het vaarbewijs afgeeft.
 
 2. Onverminderd het bepaalde in [artikel 22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=22) kan ook worden volstaan met een op 50-jarige, 55-jarige en 60-jarige leeftijd verkregen vaarbewijs. De geneeskundige verklaring hoeft in dat geval niet naast het vaarbewijs te worden getoond.
 
@@ -1839,17 +1845,17 @@ Een vaarbewijs is niet vereist, behoudens voor zover het betreft schepen als bed
 
 ##### Artikel 7.11
 
-De in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2020-07-08&g=2020-07-08) genoemde buitenlandse bewijzen van vaarbekwaamheid worden erkend als bedoeld in [artikel 17, vierde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17).
+De in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2021-10-06&g=2021-10-06) genoemde buitenlandse bewijzen van vaarbekwaamheid worden erkend als bedoeld in [artikel 17, vierde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17).
 
 ##### Artikel 7.12
 
-De in [bijlage 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.2&z=2020-07-08&g=2020-07-08) genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuigschriften worden erkend voor gehele respectievelijk gedeeltelijke vrijstelling van het onderzoek naar de kennis en bekwaamheid om een schip te voeren, bedoeld in [artikel 20, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=20).
+De in [bijlage 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.2&z=2021-10-06&g=2021-10-06) genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuigschriften worden erkend voor gehele respectievelijk gedeeltelijke vrijstelling van het onderzoek naar de kennis en bekwaamheid om een schip te voeren, bedoeld in [artikel 20, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=20).
 
 #### § 3. Radarpatenten
 
 ##### Artikel 7.13
 
-Onverminderd het gestelde in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2020-07-08&g=2020-07-08) zijn de bepalingen met betrekking tot de radarpatenten van het [Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215) en de [artikelen 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.11&z=2020-07-08&g=2020-07-08) en [1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.11&z=2020-07-08&g=2020-07-08) van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.
+Onverminderd het gestelde in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2021-10-06&g=2021-10-06) zijn de bepalingen met betrekking tot de radarpatenten van het [Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215) en de [artikelen 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.11&z=2021-10-06&g=2021-10-06) en [1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.11&z=2021-10-06&g=2021-10-06) van overeenkomstige toepassing op de andere binnenwateren dan de Rijn, met inbegrip van de Waal en de Lek.
 
 #### § 4. Examens
 
@@ -1897,7 +1903,7 @@ In deze paragraaf wordt onder examinator verstaan de instellingen of personen be
 
 ##### Artikel 7.18
 
-1. Om voor de afgifte van een beperkt groot vaarbewijs dan wel een groot vaarbewijs in aanmerking te komen beschikt de aanvrager over de verklaring, bedoeld in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.17&z=2020-07-08&g=2020-07-08), en toont hij daarnaast aan, dat hij een vaartijd heeft doorlopen van ten minste drie onderscheidenlijk vier jaren.
+1. Om voor de afgifte van een beperkt groot vaarbewijs dan wel een groot vaarbewijs in aanmerking te komen beschikt de aanvrager over de verklaring, bedoeld in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.17&z=2021-10-06&g=2021-10-06), en toont hij daarnaast aan, dat hij een vaartijd heeft doorlopen van ten minste drie onderscheidenlijk vier jaren.
 
 2. Als vaartijd, bedoeld in het eerste lid, komt in aanmerking de ervaring die de aanvrager na het bereiken van de 16-jarige leeftijd heeft opgedaan als lid van:
 
@@ -1911,11 +1917,11 @@ In deze paragraaf wordt onder examinator verstaan de instellingen of personen be
 
 ##### Artikel 7.19
 
-1. Indien de aanvrager aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, of van een schip met een lengte van 15 meter of meer, bestemd voor de niet-bedrijfsmatige vaart ter zee, wordt voor elk jaar van deze ervaring de periode, bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2020-07-08&g=2020-07-08), verminderd met een jaar, doch met ten hoogste een vaartijd van twee jaren, waarbij 250 zeedagen als een jaar vaartijd als bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2020-07-08&g=2020-07-08), gelden.
+1. Indien de aanvrager aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, of van een schip met een lengte van 15 meter of meer, bestemd voor de niet-bedrijfsmatige vaart ter zee, wordt voor elk jaar van deze ervaring de periode, bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2021-10-06&g=2021-10-06), verminderd met een jaar, doch met ten hoogste een vaartijd van twee jaren, waarbij 250 zeedagen als een jaar vaartijd als bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2021-10-06&g=2021-10-06), gelden.
 
-2. Indien de aanvrager houder is van een diploma van een opleiding voor de binnenvaart, waarvan praktijkstages deel uitmaken, wordt de periode, bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2020-07-08&g=2020-07-08), verminderd met de duur van deze opleiding, doch met ten hoogste een vaartijd van drie jaren.
+2. Indien de aanvrager houder is van een diploma van een opleiding voor de binnenvaart, waarvan praktijkstages deel uitmaken, wordt de periode, bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2021-10-06&g=2021-10-06), verminderd met de duur van deze opleiding, doch met ten hoogste een vaartijd van drie jaren.
 
-3. Indien de aanvrager die dienst doet of heeft gedaan als registerloods aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, wordt voor elk geheel jaar van deze ervaring de periode, bedoeld in [artikel 7.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2020-07-08&g=2020-07-08), verminderd met negen maanden en wordt het vereiste aantal dagreizen waarop een binnenschip, bestemd voor de bedrijfsmatige vaart, bestuurd wordt, verminderd met twaalf dagreizen, doch tot niet minder dan een vaartijd van twaalf maanden waarin tenminste gedurende zestien dagreizen een binnenschip, bestemd voor de bedrijfsmatige vaart, is bestuurd.
+3. Indien de aanvrager die dienst doet of heeft gedaan als registerloods aantoont ervaring te hebben opgedaan als lid van de dekbemanning van een schip, bestemd voor de bedrijfsmatige vaart ter zee, wordt voor elk geheel jaar van deze ervaring de periode, bedoeld in [artikel 7.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2021-10-06&g=2021-10-06), verminderd met negen maanden en wordt het vereiste aantal dagreizen waarop een binnenschip, bestemd voor de bedrijfsmatige vaart, bestuurd wordt, verminderd met twaalf dagreizen, doch tot niet minder dan een vaartijd van twaalf maanden waarin tenminste gedurende zestien dagreizen een binnenschip, bestemd voor de bedrijfsmatige vaart, is bestuurd.
 
 ##### Artikel 7.20
 
@@ -1929,7 +1935,7 @@ In deze paragraaf wordt onder examinator verstaan de instellingen of personen be
 
 ##### Artikel 7.21
 
-1. De examens ter verkrijging van een klein vaarbewijs, een beperkt groot vaarbewijs, een groot vaarbewijs, een verklaring praktijkexamen vaartijd en een verklaring praktijkexamen matroos worden afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.
+1. De examens ter verkrijging van een klein vaarbewijs, een beperkt groot vaarbewijs, een groot vaarbewijs, een verklaring praktijkexamen vaartijd, verklaring praktijkexamen matroos en een verklaring praktijkexamen machinist worden afgenomen met inachtneming van een examenreglement en een examenprogramma die zijn goedgekeurd door de minister.
 
 2. De minister keurt het examenreglement en het examenprogramma slechts goed indien deze naar zijn oordeel voldoende waarborgen bevatten dat de vereiste kennis en bekwaamheid van de kandidaat naar behoren worden onderzocht.
 
@@ -1953,7 +1959,7 @@ In deze paragraaf wordt onder examinator verstaan de instellingen of personen be
 
 3. Bij de aanvraag wordt het te vervangen vaarbewijs ingeleverd.
 
-#### § 6. Gegevensverstrekking
+#### § 3. Radarpatenten
 
 ##### Artikel 7.24
 
@@ -1961,11 +1967,11 @@ In deze paragraaf wordt onder examinator verstaan de instellingen of personen be
 
 - a. de ongeldigverklaring voor de gehele of gedeeltelijke geldigheidsduur van een vaarbewijs;
 
-- b. de ongeldigverklaring van een groot pleziervaartbewijs als bedoeld in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2020-07-08&g=2020-07-08);
+- b. de ongeldigverklaring van een groot pleziervaartbewijs als bedoeld in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2021-10-06&g=2021-10-06);
 
-- c. de ongeldigverklaring van een zeilbewijs als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2020-07-08&g=2020-07-08);
+- c. de ongeldigverklaring van een zeilbewijs als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2021-10-06&g=2021-10-06);
 
-- d. de ongeldigverklaring van een vrijstellingsbewijs als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2020-07-08&g=2020-07-08).
+- d. de ongeldigverklaring van een vrijstellingsbewijs als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2021-10-06&g=2021-10-06).
 
 2. Van de in het eerste lid bedoelde in kennis stelling wordt gelijktijdig mededeling gedaan aan de houder van het vaarbewijs.
 
@@ -1977,15 +1983,15 @@ De Minister verstrekt een Rijnvaartverklaring, bedoeld in [artikel 2, tweede lid
 
 ##### Artikel 8.2
 
-1. De Rijnvaartverklaring wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.1&z=2020-07-08&g=2020-07-08) bij deze regeling.
+1. De Rijnvaartverklaring wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.1&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
-2. De verklaring bedoeld in artikel 5, tweede lid, van de bijlage bij [verordening (EEG) 2919/85](31985R2919) wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.2&z=2020-07-08&g=2020-07-08) bij deze regeling.
+2. De verklaring bedoeld in artikel 5, tweede lid, van de bijlage bij [verordening (EEG) 2919/85](31985R2919) wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.2&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
 ##### Artikel 8.3
 
 1. De Minister verstrekt een bewijs van toelating, bedoeld in [artikel 2, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=2), indien wordt voldaan aan het bepaalde in artikel 4, tweede lid, van de herziene Rijnvaartakte.
 
-2. Het bewijs van toelating wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.3&z=2020-07-08&g=2020-07-08) bij deze regeling.
+2. Het bewijs van toelating wordt vastgesteld overeenkomstig het model opgenomen in [bijlage 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=8.3&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
 ##### Artikel 8.4
 
@@ -2007,7 +2013,7 @@ Het registratienummer, bedoeld in [artikel 30 van het besluit](https://wetten.ov
 
 ##### Artikel 9.2
 
-Degene die daadwerkelijk en bij voortduring leiding geeft aan de vervoersactiviteit van een onderneming bestaande uit het bedrijfsmatig vervoer van goederen, anders dan bestemd voor of afkomstig van de eigen onderneming, met vaartuigen met een laadvermogen van 50 ton of meer, alsmede de personen bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2020-07-08&g=2020-07-08), zijn verstrekken periodiek over één of meer door het Centraal Bureau voor de Statistiek nader vast te stellen tijdvakken en uiterlijk binnen veertien dagen na afloop daarvan aan het Centraal Bureau voor de Statistiek een opgave van:
+Degene die daadwerkelijk en bij voortduring leiding geeft aan de vervoersactiviteit van een onderneming bestaande uit het bedrijfsmatig vervoer van goederen, anders dan bestemd voor of afkomstig van de eigen onderneming, met vaartuigen met een laadvermogen van 50 ton of meer, alsmede de personen bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2021-10-06&g=2021-10-06), zijn verstrekken periodiek over één of meer door het Centraal Bureau voor de Statistiek nader vast te stellen tijdvakken en uiterlijk binnen veertien dagen na afloop daarvan aan het Centraal Bureau voor de Statistiek een opgave van:
 
 - a. de datum van het vervoer;
 
@@ -2047,17 +2053,17 @@ Als ambtenaren in de zin van [artikel 40, tweede lid, van de wet](https://wetten
 
 ##### Artikel 10.3
 
-1. Als ambtenaren in de zin van [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=40) worden aangewezen de ambtenaren van de in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2020-07-08&g=2020-07-08) genoemde provincies, gemeenten onderscheidenlijk waterschappen die daartoe door het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur als zodanig zijn aangesteld.
+1. Als ambtenaren in de zin van [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=40) worden aangewezen de ambtenaren van de in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.4&z=2021-10-06&g=2021-10-06) genoemde provincies, gemeenten onderscheidenlijk waterschappen die daartoe door het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur als zodanig zijn aangesteld.
 
 2. Het college van gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur stelt slechts ambtenaren aan die naar zijn oordeel voldoende bekwaam zijn ter zake van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) en van toezicht of opsporing.
 
 ##### Artikel 10.4
 
-1. De in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2020-07-08&g=2020-07-08), bedoelde provincies zijn: Fryslân, Groningen en Overijssel.
+1. De in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2021-10-06&g=2021-10-06), bedoelde provincies zijn: Fryslân, Groningen en Overijssel.
 
-2. De in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2020-07-08&g=2020-07-08), bedoelde gemeenten zijn: Aalsmeer en Amsterdam.
+2. De in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2021-10-06&g=2021-10-06), bedoelde gemeenten zijn: Aalsmeer en Amsterdam.
 
-3. Het in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2020-07-08&g=2020-07-08), bedoelde waterschap is: Rivierenland.
+3. Het in [artikel 10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&artikel=10.3&z=2021-10-06&g=2021-10-06), bedoelde waterschap is: Rivierenland.
 
 ### Hoofdstuk 8. Overige documenten
 
@@ -2083,11 +2089,11 @@ Ten aanzien van een binnenschip waarvan het vlak van de grootste toegelaten diep
 
 ##### Artikel 12.4
 
-Ambtenaren die op het moment voor inwerkingtreding van de wet krachtens aanwijzing door de Minister bevoegd waren tot toezicht op de naleving of tot opsporing van het bepaalde bij of krachtens de [Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443), de [Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029), de [Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319) of de Herziene Rijnvaartakte, behouden die bevoegdheid tot 31 december 2009 of zoveel eerder als zij ingevolge [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&z=2020-07-08&g=2020-07-08) worden aangewezen onderscheidenlijk van hun bevoegdheid tot toezicht of opsporing worden ontheven.
+Ambtenaren die op het moment voor inwerkingtreding van de wet krachtens aanwijzing door de Minister bevoegd waren tot toezicht op de naleving of tot opsporing van het bepaalde bij of krachtens de [Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443), de [Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029), de [Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319) of de Herziene Rijnvaartakte, behouden die bevoegdheid tot 31 december 2009 of zoveel eerder als zij ingevolge [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=10&z=2021-10-06&g=2021-10-06) worden aangewezen onderscheidenlijk van hun bevoegdheid tot toezicht of opsporing worden ontheven.
 
 ##### Artikel 12.5
 
-De tot 1 juli 2009 door de Stichting Commissie Watersport Opleidingen te Nieuwegein afgegeven diploma’s CWO groot motorschip alsook het door Scouting Nederland afgegeven diploma Machtiging voor bootleiding (MBL) M3 en het tot 1 januari 2020 door de Stichting VAMEX afgegeven diploma CWO groot motorschip gelden als het in [artikel 7.8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2020-07-08&g=2020-07-08), bedoelde door het CBR afgegeven diploma.
+De tot 1 juli 2009 door de Stichting Commissie Watersport Opleidingen te Nieuwegein afgegeven diploma’s CWO groot motorschip alsook het door Scouting Nederland afgegeven diploma Machtiging voor bootleiding (MBL) M3 en het tot 1 januari 2020 door de Stichting VAMEX afgegeven diploma CWO groot motorschip gelden als het in [artikel 7.8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2021-10-06&g=2021-10-06), bedoelde door het CBR afgegeven diploma.
 
 #### § 2. Wijzigingen in andere regelingen
 
@@ -2175,7 +2181,7 @@ De fabrikant of importeur van tachografen die in het bezit is van een erkenning 
 
 De typegoedkeuring kan worden verleend indien de tachograaf voldoet aan de voorschriften van de [bijlage H, onderdeel A, van het Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=H).
 
-## Bijlage 1.3. : Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen (RVP) als bedoeld in artikel 1.13
+## Bijlage 1.2. : Patentreglement Rijn als bedoeld in artikel 1.9
 
 Vervallen
 
@@ -2225,43 +2231,47 @@ Minimumeisen:
 
 ### 2. Minimumeisen aan en aanbevelingen voor het apparaat voor het visualiseren van elektronische binnenvaartkaarten
 
-Minimumeisen:
+de meest recente officiële elektronische navigatiekaarten gebruiken.
 
-### Artikel 7
+### 2. Minimumeisen aan en aanbevelingen voor het apparaat voor het visualiseren van elektronische binnenvaartkaarten
+
+Minimumeisen:
 
 Aanbevelingen:
 
-Minimumeisen:
-
-### Artikel 2
+### 3. Minimumeisen aan en aanbevelingen voor de software waarmee elektronische binnenvaartkaarten gevisualiseerd kunnen worden
 
 ### Artikel 4
 
-Naast de in bijlage II van [richtlijn nr. 2006/87/EG](32006L0087) voorgeschreven uitrusting hebben schepen in zone 2 de volgende uitrusting aan boord:
+Aanbevelingen:
 
 ### Artikel 1
 
 ### Artikel 1
 
-### Artikel 2
+### Artikel 1
 
-De veiligheidsafstand bedraagt ten minste:
+Het vrijboord bedraagt ten minste 0,40 m.
 
 De veiligheidsafstand bedraagt ten minste:
 
 ### Artikel 3
 
-### Artikel 8
+### Artikel 3
 
 ### Artikel 2. Toepassing van de richtlijn
 
 ### Artikel 3. Berekening van het ten hoogste toegestane aantal passagiers
 
-k: de coëfficiënt als bedoeld in bijlage II van richtlijn 2006/87/EG, artikel 10.01 tweede lid;
+In deze formule betekent:
 
 ### Artikel 4
 
-Naast de in bijlage II van [richtlijn nr. 2006/87/EG](32006L0087) voorgeschreven uitrusting hebben schepen in zone 2 de volgende uitrusting aan boord:
+Af: het frontale windvangend oppervlak in m2.
+
+### Artikel 4
+
+Naast de in [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) voorgeschreven uitrusting hebben schepen in zone 2 de volgende uitrusting aan boord:
 
 ### Artikel 5
 
@@ -2269,7 +2279,7 @@ Er is een radiotelefonie-installatie aanwezig waardoor gesprekken in het openbar
 
 ### Artikel 6
 
-Op geen enkele plaats van de scheepshuid is de volgens artikel 15.02, eerste lid, onderdelen a of b, van bijlage II van [richtlijn 2006/87/EG](32006L0087) berekende waarde minder dan 4 mm.
+Op geen enkele plaats van de scheepshuid is de volgens [artikel 19.02, eerste lid, onderdelen a of b, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.02) berekende waarde minder dan 4 mm.
 
 ### Artikel 7
 
@@ -2279,10 +2289,6 @@ Passagiersschepen die op de zone 2 varen zijn voorzien van een aantekening in he
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Artikel 2. Toepassing van de richtlijn
-
-Onverminderd het in deze bijlage bepaalde, voldoen rondvaartboten van het Amsterdamse grachtentype aan bijlage II van [richtlijn 2006/87/EG](32006L0087) met uitzondering van de artikelen 3.03, eerste lid, 7.02, 8.01, derde lid, voor zover van toepassing op de hoofdmotor, 10.01, 10.02, eerste lid, onder d, en tweede lid, onder, c, d, e, g en h, 10.03, eerste lid, 10.05, eerste lid, 11.04, 11.02, tweede lid en vierde lid, betreffende hekwerk of verschansing, 15.05, 15.06, vierde lid, zesde lid onder f, elfde lid en zeventiende lid, 15.09, 15.11, zeventiende lid, 15.12, tweede tot en met negende lid, 15.12, eerste lid, 15.10, derde en zesde lid, en 15.13.
-
 ### Artikel 1
 
 Deze bijlage is van toepassing in het havengebied van Amsterdam, Zaanstad, Beverwijk en Velsen, met inbegrip van het Noordzeekanaal, de Zaan, de Knollendammervaart en het Noordhollandsch Kanaal vanaf het IJ tot de kruising met de Knollendammervaart, met dien verstande dat de grenzen van dit gebied aan oostelijke zijde gevormd worden door de Oranjesluizen, aan de westelijke zijde door de sluizen van IJmuiden en op het Amsterdam-Rijnkanaal door de monding van het Lozingskanaal.
@@ -2291,13 +2297,15 @@ Deze bijlage is van toepassing in het havengebied van Amsterdam, Zaanstad, Bever
 
 Onverminderd het in deze bijlage bepaalde, voldoen Amsterdamse dekschuiten aan [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) met uitzondering van de [artikelen 8.08](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=8.08), [13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.01), [13.02](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.02), [13.07](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.07), [13.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.08), en [14.02, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=14.02).
 
+Onverminderd het in deze bijlage bepaalde, voldoen Amsterdamse dekschuiten aan [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) met uitzondering van de [artikelen 8.08](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=8.08), [13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.01), [13.02](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.02), [13.07](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.07), [13.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.08), en [14.02, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=14.02).
+
+### Artikel 3
+
 De buitenzijde van het dek van een Amsterdamse dekschuit is voorzien van een voetlijst van tenminste 0,03 m hoogte en een reling van ten minste 0,90 m hoogte. De reling mag wegneembaar zijn.
 
 ### Artikel 4
 
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
-
-### Artikel 17. Constructie
+### Artikel 1
 
 ### Artikel 1
 
@@ -2311,31 +2319,29 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 ### Artikel 4. Beveiliging van passagiers
 
-### Artikel 12. Voortstuwingsinstallaties
-
 ### Artikel 5. Toegangen, uitgangen en verbindingswegen
 
 De vulaansluiting van een CNG-tank:
 
-### Artikel 15. Drukbestendigheid
+### Artikel 6. Ramen
+
+### Artikel 7. Reddingsboeien
 
 ### Artikel 7. Reddingsboeien
 
 ### Artikel 8. Brandbestrijdingsmiddelen
 
-### Artikel 8. Brandbestrijdingsmiddelen
+### Artikel 9. Ankergerei
 
 ### Artikel 9. Ankergerei
 
-### Artikel 19. Cng-tanks
+### Artikel 10. Schotten
 
 ### Artikel 10. Schotten
 
 ### Artikel 11. Buitenboordaansluitingen
 
-### Artikel 22. Automatische afsluitklep
-
-Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
+Buitenboordaansluitingen zijn direct op de huid voorzien van een afsluiter. Dit geldt niet voor toiletten die zijn voorzien van een metalen pot, gemonteerd op een dikwandige stalen pijp, zodanig dat de bovenrand van de pot een veiligheidsafstand van ten minste 0,40 m heeft.
 
 Artikel 19, derde tot en met zevende lid, is van overeenkomstige toepassing op de ruimte waarin de voortstuwingsmotor van een rondvaartboot van het Amsterdamse grachtentype, voorzien van een CNG-installatie, is geplaatst.
 
@@ -2347,55 +2353,55 @@ De onderdelen van de CNG-installatie zijn bestand tegen de hoogste druk die onde
 
 ### Artikel 16. Combinaties van onderdelen
 
+### Artikel 16. Combinaties van onderdelen
+
 ### Artikel 17. Constructie
 
 ### Artikel 18. Bijzondere constructie-eisen
-
-### Artikel 19. Cng-tanks
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 Voor open rondvaartboten kan ontheffing van artikel 15.04, eerste lid, van bijlage II van [richtlijn 2006/87/EG](32006L0087) worden verleend.
 
-### Artikel 22. Automatische afsluitklep
+### Artikel 21. Automatische tankafsluiter
 
-### Artikel 23. Cng-motorkamer
+### Artikel 22. Automatische afsluitklep
 
 Artikel 19, derde tot en met zevende lid, is van overeenkomstige toepassing op de ruimte waarin de voortstuwingsmotor van een rondvaartboot van het Amsterdamse grachtentype, voorzien van een CNG-installatie, is geplaatst.
 
-Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
+Artikel 19, derde tot en met zevende lid, is van overeenkomstige toepassing op de ruimte waarin de voortstuwingsmotor van een rondvaartboot van het Amsterdamse grachtentype, voorzien van een CNG-installatie, is geplaatst.
+
+### Artikel 24. Gasdetectie
 
 ### Artikel 25. Gastoevoerleiding
-
-### Artikel 26. Manometer
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 De vulaansluiting van een CNG-tank:
 
-Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anker met ankertros van voldoende lengte voor het betrokken vaarwater voorzien. Het gewicht van dit anker bedraagt ten minste 25 kg.
+De vulaansluiting van een CNG-tank:
 
 Onverminderd het in deze bijlage bepaalde, voldoen open rondvaartboten aan bijlage II van [richtlijn 2006/87/EG](32006L0087) met uitzondering van de artikelen 3.03, eerste tot en met vijfde lid, 3.04, tweede tot en met zevende lid, 8.04, voor zover het open rondvaartboten met buitenboordmotoren betreft, 8.05, eerste en dertiende lid, 8.08, 10.01, 10.02, 10.03, eerste lid, 10.05, eerste en tweede lid, 11.08, 11.04, 11.02, tweede en vierde lid, 15.05 richtlijn, 15.06, eerste lid, onder b, vierde lid, zesde lid, onder f, elfde lid en zeventiende lid, 15.09, 15.10, tweede tot en met zevende lid richtlijn, 15.11, zeventiende lid, en 15.12.
 
-### Artikel 30. Gasvoerende verbindingen
+### Artikel 29. Bevestiging gasleidingen en gasslangen voor CNG
 
-### Artikel 31. Handafsluiters
+### Artikel 30. Gasvoerende verbindingen
 
 Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
 
 Voor open rondvaartboten kan ontheffing van artikel 15.04, eerste lid, van bijlage II van [richtlijn 2006/87/EG](32006L0087) worden verleend.
 
+### Artikel 33. Vrij uitzicht vanuit de stuurstand
+
 ### Artikel 34. Lensinrichting
 
-### Artikel 6. Beveiliging tegen vallen
-
-Op open rondvaartboten wordt bij gebruik op binnenwateren van de zone 4 de voor passagiers bestemde, niet afgesloten gedeelten van dekken, welke geheel bezet zijn met dwarsscheeps geplaatste vast opgestelde zitbanken, voorzien van vaste verschansingen of relingen met een hoogte van tenminste 0,30 m, gemeten boven de zitting van de bank.
+Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
 
 Structurele effecten betreffen het gedrag van mechanische onderdelen, vooral resonantietrillingen en materiaalmoeheid, zonder dat daarmee directe invloeden op het functioneren en wijzigingen in de functiegegevens behoeven samen te gaan.
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-Deze bijlage is van toepassing op de binnen de provincies Friesland, Groningen en Drenthe gelegen wateren van de zones 3 en 4.
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 Bij gebruik van buitenboordmotoren zijn brandstoftanks van deze motoren zodanig op of buiten het schip geplaatst, dat ze niet kunnen verschuiven en brandstof zich niet in het schip kan verzamelen.
 
@@ -2405,13 +2411,13 @@ Bij gebruik van buitenboordmotoren zijn brandstoftanks van deze motoren zodanig 
 
 Open rondvaartboten moeten bij gebruik op de binnenwateren van zone 3 na vollopen voldoende reservedrijfvermogen bezitten. Dit reservedrijfvermogen wordt voldoende geacht indien het schip in volgelopen toestand nog een vrijboord van ten minste 0,05 m heeft.
 
-In de nabijheid van de motorinstallatie is een draagbaar blustoestel met een voor vloeistofbranden geschikt blusmiddel en een vulgewicht van ten minste 4 kg aanwezig.
+Open rondvaartboten moeten bij gebruik op de binnenwateren van zone 3 na vollopen voldoende reservedrijfvermogen bezitten. Dit reservedrijfvermogen wordt voldoende geacht indien het schip in volgelopen toestand nog een vrijboord van ten minste 0,05 m heeft.
 
 Voor open rondvaartboten kan ontheffing van [artikel 19.04, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.04) worden verleend.
 
 ### Artikel 5. Ten hoogste toegestane aantal passagiers
 
-### Artikel 6. Beveiliging tegen vallen
+### Artikel 5. Ten hoogste toegestane aantal passagiers
 
 Op open rondvaartboten wordt bij gebruik op binnenwateren van de zone 4 de voor passagiers bestemde, niet afgesloten gedeelten van dekken, welke geheel bezet zijn met dwarsscheeps geplaatste vast opgestelde zitbanken, voorzien van vaste verschansingen of relingen met een hoogte van tenminste 0,30 m, gemeten boven de zitting van de bank.
 
@@ -2431,7 +2437,7 @@ In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle 
 
 Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
 
-In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle delen van de sprong binnen de in artikel 2.2, vierde lid, bedoelde veilige zone zijn gelegen.
+Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
 
 Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
 
@@ -2441,31 +2447,31 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Artikel 1.1. Definities
-
-De begripsbepalingen van artikel 1.01 van bijlage II van richtlijn 2006/87/EG zijn van overeenkomstige toepassing op deze bijlage.
+### Artikel 1
 
 Deze bijlage is van toepassing op de binnen de provincies Friesland, Groningen en Drenthe gelegen wateren van de zones 3 en 4.
 
-### Artikel 4
+Deze bijlage is van toepassing op de binnen de provincies Friesland, Groningen en Drenthe gelegen wateren van de zones 3 en 4.
+
+### Artikel 3
 
 Bij gebruik van buitenboordmotoren zijn brandstoftanks van deze motoren zodanig op of buiten het schip geplaatst, dat ze niet kunnen verschuiven en brandstof zich niet in het schip kan verzamelen.
 
-Het ten hoogste toegestane aantal passagiers wordt zodanig vastgesteld, dat aan de voorschriften van de artikelen 4 tot en met 10 alsmede aan de van toepassing zijnde voorschriften van de artikelen 15.02 en 15.04 van bijlage II van [richtlijn 2006/87/EG](32006L0087) wordt voldaan.
+Bij gebruik van buitenboordmotoren zijn brandstoftanks van deze motoren zodanig op of buiten het schip geplaatst, dat ze niet kunnen verschuiven en brandstof zich niet in het schip kan verzamelen.
 
-### Artikel 6
-
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
-
-Bij toepassing van luchtgekoelde xenonbooglampen mag de ozonhoudende afvoerlucht niet in de testkamer komen; deze moet afzonderlijk worden afgevoerd.
+### Artikel 5
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Artikel 1.1. Definities
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+
+### Hoofdstuk 1. Algemene bepalingen
 
 De begripsbepalingen van [artikel 1.01 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=1.01) zijn van overeenkomstige toepassing op deze bijlage.
 
-‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
+De begripsbepalingen van [artikel 1.01 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=1.01) zijn van overeenkomstige toepassing op deze bijlage.
 
 Onverminderd het in deze bijlage bepaalde voldoen veerponten aan [hoofdstuk 3 tot en met hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=3) alsmede hoofdstuk 24a van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), met uitzondering van de volgende artikelen:
 
@@ -2479,23 +2485,23 @@ Veerponten die zijn gebouwd en ingericht voor het vervoer van voertuigen op meer
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Artikel 2.3. Doorvoeringen van pijpleidingen
+### Artikel 2.4. Sprongen en nissen in schotten
 
-Veerponten die zijn gebouwd en ingericht voor het vervoer van voertuigen op meer dan twee wielen zijn, op of in de onmiddellijke nabijheid van het rijdek, voorzien van ten minste twee draagbare blustoestellen. De in artikel 10.03 en 15.12, eerste lid, van bijlage II van richtlijn 2006/87/EG bedoelde draagbare blustoestellen worden daartoe meegerekend.
+In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle delen van de sprong binnen de in artikel 2.2, vierde lid, bedoelde veilige zone zijn gelegen.
 
 Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
 
 ### Artikel 2.5. Aantekening in het certificaat
 
-Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
+‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
 
-### Hoofdstuk 3. Waterdichte indeling
-
-Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 75m3 dient er een bijboot aanwezig te zijn.
+### Artikel 2.6. scheepsromp
 
 Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 75m3 dient er een bijboot aanwezig te zijn.
 
-### Artikel 4.1. Stabiliteit algemeen
+Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 75m3 dient er een bijboot aanwezig te zijn.
+
+### Hoofdstuk 4. Stabiliteit
 
 Het schip moet over voldoende vaar- en manoeuvreereigenschappen beschikken.
 
@@ -2509,33 +2515,33 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 Veerponten die zijn gebouwd en ingericht voor het vervoer van voertuigen op meer dan twee wielen zijn, op of in de onmiddellijke nabijheid van het rijdek, voorzien van ten minste twee draagbare blustoestellen. De in artikel 10.03 en 15.12, eerste lid, van bijlage II van richtlijn 2006/87/EG bedoelde draagbare blustoestellen worden daartoe meegerekend.
 
-### Artikel 5.2. Vrijboord en veiligheidsafstand
+### Artikel 5.1. Resterend vrijboord en resterende veiligheidsafstand
 
-### Artikel 5.3. Vlak van de grootste inzinking en laadvermogen
+### Artikel 5.2. Vrijboord en veiligheidsafstand
 
 De begripsbepalingen in artikel 1.01 van bijlage II van richtlijn 2006/87/EG zijn van overeenkomstige toepassing op deze bijlage.
 
 Het verdient aanbeveling de test op de bestandheid tegen weersinvloeden uit te voeren met een en hetzelfde proefmodel (bij niet-destructieve beproeving voor de te onderzoeken verandering in eigenschappen, zoals bijv. van de kleurechtheid bij blootstelling aan de weersinvloeden) of met meerdere proefmodellen (bij destructieve beproeving, zoals bijv. van de schokvastheid) in overeen te komen bestralingsgradaties. Daarmee kan de ontwikkeling van een verandering in eigenschappen van een uit kunststof vervaardigd produkt gedurende de totale duur van de blootstelling aan weersinvloeden worden bepaald.
 
-### Hoofdstuk 7. Constructie
+### Artikel 6.1. Berekening van het ten hoogste toegestane aantal passagiers
 
 Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 75m3 dient er een bijboot aanwezig te zijn.
 
 Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan hoofdstuk 3 tot en met hoofdstuk 15 alsmede hoofdstuk 24a van bijlage II van richtlijn 2006/87/EG met uitzondering van de artikelen:
 
-### Artikel 8.1. Reddingsmiddelen
+### Hoofdstuk 8. Uitrusting
 
-### Artikel 8.2. Brandbestrijding
+### Artikel 8.1. Reddingsmiddelen
 
 Veerponten die zijn gebouwd en ingericht voor het vervoer van voertuigen op meer dan twee wielen zijn, op of in de onmiddellijke nabijheid van het rijdek, voorzien van ten minste twee draagbare blustoestellen. De in de [artikelen 13.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.03) en [19.12, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12) bedoelde draagbare blustoestellen worden daartoe meegerekend.
 
-Op niet-vrijvarende veerponten is de opstelling van de voertuigen zodanig dat het uitzicht tijdens de vaart in alle richtingen voldoende is.
+Veerponten die zijn gebouwd en ingericht voor het vervoer van voertuigen op meer dan twee wielen zijn, op of in de onmiddellijke nabijheid van het rijdek, voorzien van ten minste twee draagbare blustoestellen. De in de [artikelen 13.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=13.03) en [19.12, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12) bedoelde draagbare blustoestellen worden daartoe meegerekend.
 
 Op veerponten met een lengtewaterlijn van 35 m of meer, zijn luidsprekers aanwezig waarmee alle passagiers kunnen worden bereikt.
 
 ### Artikel 8.4. Instructies voor passagiers
 
-### Artikel 8.5. Ankergerei
+### Artikel 8.4. Instructies voor passagiers
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
@@ -2543,53 +2549,61 @@ Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 7
 
 ## Bijlage 1.6. : Voorschriften omtrent de minimum eisen en de keuringsvoorwaarden voor radarinstallaties voor de Rijnvaart, als bedoeld in [artikel 1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.15&z=2010-05-07&g=2009-10-01)
 
-### Artikel 9.1. Manoeuvreereigenschappen
-
 ### Hoofdstuk 9. Bijzondere bepalingen
 
-Naast de in [richtlijn nr. 2006/87/EG](32006L0087) voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
+### Artikel 9.1. Manoeuvreereigenschappen
 
-### Hoofdstuk 4. Stabiliteit
+Het schip moet over voldoende vaar- en manoeuvreereigenschappen beschikken.
 
-4.01 tot en met 4.03, 15.02, tweede tot en met dertiende lid, 15.03, 15.04, 15.05, tweede lid, 15.07, 15.09, eerste lid, tweede alinea.
+### Artikel 9.2. Vrij uitzicht
 
-### Artikel 10.1. Overgangsbepalingen
+Op niet-vrijvarende veerponten is de opstelling van de voertuigen zodanig dat het uitzicht tijdens de vaart in alle richtingen voldoende is.
+
+### Hoofdstuk 10. Overgangsbepalingen
 
 Inbouw van een radarinstallatie aan boord van een schip is slechts toegestaan, wanneer aan de hand van een typekeuring werd aangetoond dat de installatie aan de minimum eisen van deze voorschriften voldoet.
 
-### Artikel 10.1. Overgangsbepalingen
+### Artikel 10.2
 
 ### Artikel 10.2
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Artikel 1.1. Definities
+### Hoofdstuk 1. Algemene bepalingen
 
 De begripsbepalingen in [artikel 1.01 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=1.01) zijn van overeenkomstige toepassing op deze bijlage.
 
 ### Artikel 1.2. Toepassing van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2020-07-08&g=2020-07-08)
 
-### Hoofdstuk 6. Ten hoogste toegestane aantal passagiers
+### Artikel 1.2. Toepassing van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) op veerboten
 
-[4.01 tot en met 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=4.01), [19.02, tweede tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.02), [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.03), [19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.04), [19.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.05), [19.07](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.07), [19.09, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.09).
+Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan [hoofdstuk 3 tot en met hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=3) alsmede [hoofdstuk 33 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=33) met uitzondering van de artikelen:
+
+### Hoofdstuk 2. Schotten
+
+### Artikel 1.3. Toepassing van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) op passagiersschepen als bedoeld in [artikel 3.4, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+### Artikel 1.4. Toepasselijkheid van deze bijlage op veerboten
+
+### Artikel 2.3. Doorvoeringen van pijpleidingen
 
 ### Hoofdstuk 2. Schotten
 
 ### Artikel 2.1. Schotten algemeen
 
-### Artikel 2.2. Openingen en deuren in schotten
+Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
 
 ### Artikel 2.3. Doorvoeringen van pijpleidingen
 
 ### Artikel 2.4. Sprongen en nissen in schotten
 
-### Artikel 2.3. Doorvoeringen van pijpleidingen
-
-Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
-
-### Hoofdstuk 5. Veiligheidsafstand en vrijboord
+### Hoofdstuk 3. Waterdichte indeling
 
 ### Artikel 2.5. Aantekening in het certificaat
+
+### Hoofdstuk 4. Stabiliteit
+
+### Artikel 4.1. Stabiliteit algemeen
 
 ### Hoofdstuk 3. Waterdichte indeling
 
@@ -2603,21 +2617,13 @@ Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van te
 
 ### Artikel 4.3. Kenterende momenten
 
-### Artikel 4.4. Kenterend moment ten gevolge van verplaatsen van personen
+Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
 
 ### Artikel 4.5. Belading met voertuigen
 
-### Hoofdstuk 5. Veiligheidsafstand en vrijboord
-
-### Artikel 5.1. Resterend vrijboord en resterende veiligheidsafstand
-
-Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
-
-### Artikel 5.3. Vlak van de grootste inzinking en laadvermogen
-
 Onverminderd het in deze bijlage bepaalde voldoen bunkerstations aan de hoofdstukken 3, 4, 8 met uitzondering van de artikelen 8.03 en 8.10, eerste en tweede lid, 9 met uitzondering van de artikelen 9.02 en 9.17, 10 met uitzondering van de artikelen 10.01, 10.02 en 10.03a tot en met 10.04, 11 en 12 van bijlage II van richtlijn 2006/87/EG.
 
-### Artikel 6.1. Berekening van het ten hoogste toegestane aantal passagiers
+### Artikel 5.1. Resterend vrijboord en resterende veiligheidsafstand
 
 Naast de in de richtlijn voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
 
@@ -2625,45 +2631,53 @@ De wijzerschaal moet ten minste 30 mm lang zijn. De indicatie moet op alle afsta
 
 De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie, dieselolie of benzine.
 
-### Hoofdstuk 8. Uitrusting
+### Artikel 6.1. Berekening van het ten hoogste toegestane aantal passagiers
 
-### Artikel 8.1. Reddingmiddelen en noodontschepingsvoorzieningen
+### Hoofdstuk 7. Constructie
 
 Op veerboten die tussen 1 juli 2009 en 1 januari 2011 zijn voorzien van een certificaat van onderzoek zijn van toepassing:
 
 Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
 
-### Artikel 8.3. Veiligheidsrol, veiligheidsplan en instructies voor passagiers
+### Hoofdstuk 8. Uitrusting
 
 Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
 
 De lengte van het spoor mag eventueel worden aangepast aan de operationele eisen, doch mag niet langer dan twee omwentelingen duren.
 
+Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
+
+### Artikel 8.3. Veiligheidsrol, veiligheidsplan en instructies voor passagiers
+
 Naast de in de richtlijn voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
 
-### Hoofdstuk 9. Bijzondere bepalingen
-
-Naast de in de richtlijn voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
-
-### Hoofdstuk 10. Overgangsbepalingen
+### Artikel 8.5. Nautische apparatuur
 
 ### Artikel 10.1
 
+### Hoofdstuk 9. Bijzondere bepalingen
+
+### Artikel 9.1. Machinekamers
+
 ### Hoofdstuk 10. Overgangsbepalingen
-
-### Artikel 10.2
-
-### Artikel 5. Ladingtankruimten en ladingtanks
 
 Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bunkerstation en het te bunkeren schip zijn zodanig, dat zij geen ontstekingsbron vormen.
 
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+Op veerboten die tussen 1 juli 2009 en 1 januari 2011 zijn voorzien van een certificaat van onderzoek zijn van toepassing:
+
+### Artikel 10.2
+
+### Artikel 2. Toepassing
+
+### Artikel 1. Begripsbepalingen
+
+### Hoofdstuk 1. Algemene bepalingen
 
 ### Artikel 1. Begripsbepalingen
 
 ### Artikel 2. Toepassing
 
-### Artikel 1. Begripsbepalingen
+Onverminderd het in deze bijlage bepaalde voldoen bunkerstations aan de hoofdstukken 3, 4, 8 met uitzondering van de artikelen 8.03 en 8.10, eerste en tweede lid, 9 met uitzondering van de artikelen 9.02 en 9.17, 10 met uitzondering van de artikelen 10.01, 10.02 en 10.03a tot en met 10.04, 11 en 12 van bijlage II van richtlijn 2006/87/EG.
 
 ### Hoofdstuk 2. Constructie-eisen
 
@@ -2673,7 +2687,7 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie, dieselolie of benzine.
 
-### Artikel 5. Ladingtankruimten en ladingtanks
+## Bijlage 1.7. : Voorschriften omtrent de minimum eisen en de keuringsvoorwaarden voor bochtaanwijzers voor de Rijnvaart, als bedoeld in [artikel 1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.16&z=2010-05-07&g=2009-10-01)
 
 ### Artikel 6. Indeling
 
@@ -2681,59 +2695,51 @@ De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie
 
 Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een eigen stroombron en zijn explosieveilig uitgevoerd.
 
-## Bijlage 1.7. : Voorschriften omtrent de minimum eisen en de keuringsvoorwaarden voor bochtaanwijzers voor de Rijnvaart, als bedoeld in [artikel 1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.16&z=2010-05-07&g=2009-10-01)
+### Artikel 9. Druk in de laad- en losleidingen
 
-### Artikel 10. Inrichting kofferdammen
+Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
 
 ### Artikel 11. Doorvoeringen
 
-Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een eigen stroombron en zijn explosieveilig uitgevoerd.
+Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
 
 ### Artikel 13. Uitlaatgassenleidingen
 
-Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
+### Artikel 14. Brandstoftanks
 
 ### Artikel 15. Lens- en ballastinrichting
 
-Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
-
-### Artikel 17. Machines
-
-### Artikel 18. Gevaar voor vonkvorming
-
-### Artikel 17. Machines
-
-### Artikel 19. Inspectie, ventilatie en reiniging
+### Artikel 16. Machinekamers
 
 Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bunkerstation en het te bunkeren schip zijn zodanig, dat zij geen ontstekingsbron vormen.
 
-### Artikel 21. Veiligheids- en controle-inrichtingen ten behoeve van het bunkeren
+### Artikel 18. Gevaar voor vonkvorming
 
 ### Hoofdstuk 3. Inrichting en uitrusting
 
 Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderdeel f, wordt tevens aangebracht op de toestellen.
 
-### Artikel 23. Inrichting met betrekking tot het toegangsverbod en het rookverbod
+### Artikel 20. Veiligheids- en controle-inrichtingen ten behoeve van het beladen van bunkerstations
+
+### Artikel 21. Veiligheids- en controle-inrichtingen ten behoeve van het bunkeren
+
+### Hoofdstuk 3. Inrichting en uitrusting
 
 ### Artikel 22. Speciale uitrusting
+
+### Artikel 23. Inrichting met betrekking tot het toegangsverbod en het rookverbod
+
+Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
 
 ### Hoofdstuk 4. Elektrische installaties
 
 ### Artikel 24. Elektrische inrichtingen
 
-### Hoofdstuk 4. Elektrische installaties
-
-De meetapparatuur wordt voor ieder gebruik conform de gebruiksaanwijzing door de gebruiker beproefd. Artikel 39 is niet van toepassing.
-
-### Artikel 26. Typen en plaatsen van de elektrische inrichtingen
-
-### Artikel 27. Aarding
-
 ### Artikel 28. Elektrische kabels
 
-### Artikel 29. Sein-, navigatie- en loopplankverlichting
+### Artikel 25. Verdeelsystemen
 
-### Artikel 30. Draagbare lampen
+### Artikel 26. Typen en plaatsen van de elektrische inrichtingen
 
 Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een eigen stroombron en zijn explosieveilig uitgevoerd.
 
@@ -2743,25 +2749,25 @@ Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een ei
 
 Te bunkeren en te lossen schepen worden zodanig gemeerd, dat de elektrische kabels en de buigzame leidingen niet onder trek- of buigspanning komen te staan. In geval van gevaar kan snel worden ontmeerd.
 
-Gasolie, dieselolie of benzine wordt opgeslagen in de ladingtanks.
+Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een eigen stroombron en zijn explosieveilig uitgevoerd.
 
 300°/min.
 
-### Hoofdstuk 6. Bescheiden Aan Boord
+### Hoofdstuk 5. Brandveiligheid
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 De volgende documenten bevinden zich aan boord:
 
-### Artikel 36. Schriftelijke instructies
+### Artikel 34. Brandmeldinstallatie
 
 De volgende documenten bevinden zich aan boord:
 
-### Artikel 36. Schriftelijke instructies
+### Artikel 35. Documenten
 
 ### Artikel 38. Bescheiden betreffende elektrische installaties
 
-### Hoofdstuk 7. Keuringen
+### Artikel 36. Schriftelijke instructies
 
 Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een vlampunt lager dan 55 °C.
 
@@ -2769,11 +2775,11 @@ Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een
 
 In het derde jaar van geldigheid van het certificaat worden door een erkend installateur gekeurd:
 
-### Artikel 41. Uitrusting
+### Hoofdstuk 7. Keuringen
 
-### Artikel 42. Beproeving van de druk
+### Artikel 39. Tot keuren bevoegde personen
 
-### Artikel 43. Beproeving door de bemanning
+### Artikel 40. Elektrische inrichtingen
 
 ### Artikel 42. Beproeving van de druk
 
@@ -2783,28 +2789,28 @@ De minister kan voor de verlenging van het certificaat afzien van een droogstaan
 
 Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeistoffen met een vlampunt beneden 55 °C zijn verboden.
 
-De minister kan voor de verlenging van het certificaat afzien van een droogstaande keuring als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2017-12-01&g=2017-12-01), indien de toestand van de romp een controle van binnenuit redelijkerwijs toelaat.
+De meetapparatuur wordt voor ieder gebruik conform de gebruiksaanwijzing door de gebruiker beproefd. Artikel 39 is niet van toepassing.
 
 Met uitzondering van afmeerwerkzaamheden zijn werkzaamheden in de ladingzone waarbij de mogelijkheid van vonkvorming bestaat verboden.
+
+De minister kan voor de verlenging van het certificaat afzien van een droogstaande keuring als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2021-10-06&g=2021-10-06), indien de toestand van de romp een controle van binnenuit redelijkerwijs toelaat.
+
+Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
+
+### Artikel 45. Bunkercontrolelijst
+
+### Artikel 46. Meren
 
 Te bunkeren en te lossen schepen worden zodanig gemeerd, dat de elektrische kabels en de buigzame leidingen niet onder trek- of buigspanning komen te staan. In geval van gevaar kan snel worden ontmeerd.
 
-Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
+### Artikel 47. Maatregelen tijdens het bunkeren
 
 ### Artikel 48. Maatregelen tijdens het laden
 
-### Artikel 49. Maatregelen tijdens het ontgassen
-
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
-
-### Artikel 50. Ladingtanks
+## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2012-11-14&g=2012-07-01)
 
 ### Hoofdstuk 9. Overige voorschriften
 
-## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2012-11-14&g=2012-07-01)
-
-### Artikel 65
-
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ### Artikel 59. Schoonmaakwerkzaamheden
@@ -2813,21 +2819,21 @@ Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeis
 
 ### Artikel 60. Werkzaamheden in de ladingzone
 
+### Artikel 52. Laad- en losleidingen
+
+Behalve tijdens laden, bunkeren of ontgassen zijn afsluitinrichtingen van de laad- en losleidingen gesloten.
+
+### Artikel 53. Motoren
+
+### Artikel 57. Toegang
+
 ### Artikel 54. Controle, lekkage en reinheid
 
-Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een vlampunt lager dan 55 °C.
-
-### Artikel 56. Bekendheid veiligheidszaken
-
-### Artikel 57. Toegang
-
-### Artikel 58. Gebruik van open vuur
-
-### Artikel 57. Toegang
+### Artikel 55. Opslag
 
 Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
-### Artikel 59. Schoonmaakwerkzaamheden
+### Artikel 57. Toegang
 
 Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeistoffen met een vlampunt beneden 55 °C zijn verboden.
 
@@ -2835,21 +2841,21 @@ Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeis
 
 Met uitzondering van afmeerwerkzaamheden zijn werkzaamheden in de ladingzone waarbij de mogelijkheid van vonkvorming bestaat verboden.
 
-### Artikel 61. Reparatie- en onderhoudswerkzaamheden
+### Artikel 59. Schoonmaakwerkzaamheden
 
-Met uitzondering van afmeerwerkzaamheden zijn werkzaamheden in de ladingzone waarbij de mogelijkheid van vonkvorming bestaat verboden.
+Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeistoffen met een vlampunt beneden 55 °C zijn verboden.
 
-### Artikel 63. Gebruik speciale uitrusting
+### Artikel 60. Werkzaamheden in de ladingzone
 
 ## Bijlage 3.10. : Model van het certificaat van onderzoek voor bunkerstations als bedoeld in [artikel 3.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=4&artikel=3.10&z=2011-07-01&g=2010-05-07).
 
 ## Bijlage 3.1. : Aanvullende voorschriften voor passagierschepen op zone 2 als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2010-05-07&g=2009-10-01)
 
-### Hoofdstuk 11. Overgangsbepalingen
+### Artikel 62. Toegang
 
 Patrouillevaartuigen met een lengte korter dan 20 meter die zich ter onderzoek aanbieden voldoen aan deze bijlage met uitzondering van het bepaalde in dit hoofdstuk.
 
-### Artikel 65
+### Hoofdstuk 11. Overgangsbepalingen
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
@@ -2859,7 +2865,7 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 Patrouillevaartuigen zijn uitgerust met één of twee boegankers waarvan het totale gewicht P in kg wordt berekend met de formule:
 
-P = C × B × T
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 In deze formule betekent:
 
@@ -2869,7 +2875,7 @@ Onverminderd het in deze bijlage bepaalde voldoen patrouillevaartuigen aan de vo
 
 C: een coëfficiënt, te bepalen aan de hand van de formule:
 
-### Artikel 10
+### Artikel 2
 
 In deze formule betekent:
 
@@ -2885,7 +2891,7 @@ Patrouillevaartuigen met een lengte van meer dan 15 meter zijn voorzien van een 
 
 Onverminderd het in deze bijlage bepaalde voldoen patrouillevaartuigen aan de voorschriften van dit hoofdstuk indien zij gebouwd of bestemd zijn om ligplaats te nemen langszijde van:
 
-### Artikel 8
+### Artikel 6
 
 Onverminderd het in deze bijlage bepaalde voldoen patrouillevaartuigen aan de voorschriften van dit hoofdstuk indien zij gebouwd of bestemd zijn om ligplaats te nemen langszijde van:
 
@@ -2919,11 +2925,11 @@ De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, 
 
 C: een coëfficiënt, te bepalen aan de hand van de formule:
 
-### Hoofdstuk 5. Vrijwillig onderzoek
+### Artikel 9
 
 In deze formule betekent:
 
-### Certificaat van onderzoek bunkerstations
+### Hoofdstuk 5. Vrijwillig onderzoek
 
 Voor de waarde van C mag niet minder dan 15 worden genomen.
 
@@ -2933,25 +2939,25 @@ P = C × B × T
 
 ## Bijlage 3.3. : Technische eisen voor rondvaartboten van het Amsterdams grachtentype als bedoeld in [artikel 3.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2010-05-07&g=2009-10-01)
 
-### Artikel 15
+### Artikel 13
 
-T: de grootst toegelaten diepgang van het schip in m.
+Patrouillevaartuigen zijn uitgerust met één of twee boegankers waarvan het totale gewicht P in kg wordt berekend met de formule:
 
 ### Artikel 17
 
-C = 15 + (L – 15) × 1,5
+In deze formule betekent:
 
 ### Hoofdstuk 7. Wederzijdse erkenning
 
 ### Artikel 18
 
-Voor de waarde van C mag niet minder dan 15 worden genomen.
+C: een coëfficiënt, te bepalen aan de hand van de formule:
 
 ### Artikel 14
 
 ### Certificaat van onderzoek bunkerstations
 
-Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk- en metingsmerken, dan wel het plaatsen van de ijkplaten door een bekwaam vakman onder toezicht en volgens aanwijzing van de minister gedaan.
+L: de grootste lengte van het schip in m, het roer en de boegspriet niet inbegrepen.
 
 ### Artikel 15
 
@@ -2959,19 +2965,19 @@ Per elk toegestaan aantal van 25 passagiers, alsmede voor het aantal dat daarbov
 
 ### Artikel 17
 
-### Artikel 16
+### Hoofdstuk 6. Overgangsbepalingen
 
 Bij gebruik op de binnenwateren van zone 3 zijn de schepen voorzien van een anker met een gewicht van ten minste 50 kg en een ankerketting of ankerdraad met een lengte van ten minste 30 m. Het ankergewicht mag worden verminderd bij toepassing van bijzondere ankertypen met verhoogde houdkracht.
 
-### Artikel 18
+### Artikel 16
+
+### Artikel 17
+
+Voor de toepassing van hoofdstuk 4 zijn op de voorschriften genoemd in de voorschriften van Bijlage 1 van de VBG, waarnaar wordt verwezen, de overgangsvoorschriften van Bijlage 1 van de VBG van toepassing, die zijn opgenomen in 1.6.7.1 en 1.6.7.2, met dien verstande dat:
 
 ### Hoofdstuk 7. Wederzijdse erkenning
 
-Niet goed met insuline of orale antidiabetica instelbare Diabetes Mellitus of het optreden van hypoglykemieën, is een reden voor ongeschiktheid. Bij Insuline afhankelijke Diabetes Mellitus is de geschiktheid in het algemeen beperkt tot een periode van vijf jaar.
-
-### Certificaat van onderzoek bunkerstations
-
-### Artikel 8. Algemene bepalingen voor werkzaamheden na afloop van de meting
+### Artikel 18
 
 ### Certificaat van onderzoek bunkerstations
 
@@ -2983,47 +2989,47 @@ Deze bijlage is van toepassing op drijvende werktuigen die werkzaamheden uitvoer
 
 ### Artikel 3
 
-### Artikel 3. Algemene bepalingen de lastlijn betreffende
+### Artikel 1
 
 ### Artikel 4
 
-### Artikel 5. Algemene bepalingen bij de uitvoering van de meting
+### Artikel 2
+
+### Artikel 3
+
+### Artikel 6
+
+### Artikel 4
+
+De veiligheidsafstand van het drijvend werktuig bedraagt minimaal 150 mm.
 
 ### Artikel 5
 
 ### Artikel 6
 
-### Artikel 5. Geneesmiddelengebruik
-
-Bij gebruik van geneesmiddelen laat de arts zich leiden door de navolgende richtlijnen:
-
-### Artikel 9. Metingsmerk op het achterschip
-
-### Artikel 8
-
 ### Artikel 10. Inbeiteling van ijk- en metingsmerken
 
-### Artikel 9
+### Artikel 7
 
-In afwijking van artikel 8.01, derde lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2020-07-08&g=2020-07-08) bij deze regeling mag op drijvende werktuigen voor buitenboordmotoren brandstof met een vlampunt van 55 °C of lager worden gebruikt, mits de brandstoftank geen grotere inhoud heeft dan 25 liter.
+Indien niet naar alle zijden van het drijvend werktuig voldoende vrij zicht kan worden gegarandeerd, is het drijvend werktuig voorzien van adequate hulpmiddelen om het gebrek aan vrij zicht te compenseren.
 
-### Artikel 10
+### Artikel 8
 
 ### § 2. Het gehoorvermogen
 
-### Artikel 11
+### Artikel 9
 
 ### Artikel 8
 
-### Artikel 12
+### Artikel 10
 
 ### Artikel 9. Aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen
 
-### Artikel 13
+### Artikel 11
 
-Ten behoeve van het meren zijn tenminste twee trossen aanwezig van voldoende sterkte met een lengte van minimaal anderhalf keer de lengte van het drijvend werktuig.
+De lenspomp bedoeld in artikel 22.02, derde lid, onderdeel a, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) bij deze regeling, mag worden vervangen door een handmatig aangedreven pomp met een minimale capaciteit van 40 liter per minuut.
 
-### Artikel 14
+### Artikel 12
 
 ### Hoofdstuk 1. Algemene keuringsaanwijzingen
 
@@ -3031,11 +3037,11 @@ medisch ongeschikt voor de binnenvaart is de persoon, die lijdt aan een ziekte, 
 
 ## Bijlage 3.4. : Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2010-05-07&g=2009-10-01)
 
-### Artikel 2. Overleg met de medisch adviseur
+### Artikel 14
 
-Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover overleg plaats met de medisch adviseur scheepvaart. De verantwoordelijkheid voor de beslissing blijft echter bij de keurend arts.
+Een drijvend werktuig is voorzien van tenminste één draagbaar blustoestel dat voldoet aan de Europese normen EN 3-7:2007 en EN 3-8:2007.
 
-### Artikel 2. Te meten inhoud
+### Artikel 15
 
 ### Artikel 3. Algemene bepalingen de lastlijn betreffende
 
@@ -3043,23 +3049,23 @@ Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover ov
 
 Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn waarbij langdurige concentratie is vereist:
 
-### Artikel 6. Meting van binnenschepen, bestemd of gebruikt voor het vervoer van goederen (regel I)
+### Artikel 2. Te meten inhoud
 
-### Artikel 7. Meting van binnenschepen, niet bestemd of gebruikt zijn voor het vervoer van goederen (regel II)
+### Artikel 3. Algemene bepalingen de lastlijn betreffende
 
 Voor binnenschepen die niet bestemd zijn of gebruikt worden voor het vervoer van goederen en beschikken over een normale scheepsvorm, worden de metingen van de verlangde waterverplaatsingen als volgt aan boord, zo nodig met behulp van betrouwbare tekeningen, uitgevoerd:
 
-### Artikel 8. Algemene bepalingen voor werkzaamheden na afloop van de meting
+### Artikel 5. Algemene bepalingen bij de uitvoering van de meting
 
-### Artikel 9. Metingsmerk op het achterschip
+### Artikel 6. Meting van binnenschepen, bestemd of gebruikt voor het vervoer van goederen (regel I)
 
-### Hoofdstuk 2. Keuringseisen
+### Artikel 7. Meting van binnenschepen, niet bestemd of gebruikt zijn voor het vervoer van goederen (regel II)
 
 ### Artikel 10. Inbeiteling van ijk- en metingsmerken
 
 Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk- en metingsmerken, dan wel het plaatsen van de ijkplaten door een bekwaam vakman onder toezicht en volgens aanwijzing van de minister gedaan.
 
-### Artikel 11. Aanvullende bepalingen voor hermeting, of controlemeting
+### Artikel 9. Metingsmerk op het achterschip
 
 ### § 2. Het gehoorvermogen
 
@@ -3075,29 +3081,25 @@ Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
 
 Als één of meer vragen met JA zijn beantwoord moet u een arts een toelichting laten schrijven waarmee de aard en de ernst van de aandoening worden verduidelijkt, zodat de medisch adviseur vaarbewijzen kan beoordelen of u voldoet aan de keuringseisen.
 
-## Bijlage 5.8. Minimumbemanning snelle veerponten als bedoeld in [artikel 5.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08)
+## Bijlage 5.4. Minimumbemanning voor hotelschepen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
 
-De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, maar niet meer dan 40 km per uur, kunnen bereiken bestaat uit:
+| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Groep | Bemanningsleden | A1 | A1 | A1 | A2 | A2 | B | B |
+| Groep | Bemanningsleden | S1 | S1 | S2 | S1 | S2 | S1 | S2 |
+| 1. Toegestaan aantal bedden: tot en met 50 | schipper stuurman volmatroos matroos lichtmatroos machinist | 1 – 1 – – 1** | 1 – 1 – – 1** | 1 – – – 2* 1*** | 2 – – 1 – 1*** | 2 – – – 1 1*** | 3 – – 1 – 1*** | 3 – – – 1 1*** |
+| 2. Toegestaan aantal bedden: van 51 tot en met 100 | schipper stuurman volmatroos matroos lichtmatroos machinist of volmatroos | 1 1 – 1 – 1 | 1 1 – 1 – 1 | 1 1 – – 1 1 | 2 – – 1 – 1 | 2 – – – 1 1 | 3 – – 1 – 1 | 3 – – – 1 1 |
+| 3. Toegestaan aantal bedden: meer dan 100 | schipper stuurman volmatroos matroos lichtmatroos machinist of volmatroos | 1 of 1 – 2 – 1 | 1 1 – 1 2* 1 | 1 1 – 1 1 1 | 2 – – 3 – 1 | 2 – – 2 1 1 | 3 – – 3 – 1 | 3 – – 2 1 1 |
 
-| Groepen toegestane aantal passagiers | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
-| --- | --- | --- | --- | --- |
-| Groepen toegestane aantal passagiers | Bemanningsleden | A1 | A2 | B |
-| 1. tot en met 75 personen | Schipper Matroos | 1 1 | 2 1 | 2 2 |
-| 2. van 76 tot en met 250 personen | Schipper volmatroos Lichtmatroos | 1 1* – | 2 1* 1** | 2 2* 1** |
-| 3. van 251 tot en met 600 personen | Schipper Volmatroos | 1 2 | 2 2 | 3 2- |
+* De minimumbemanning
 
-* Op wateren van de zone 3 en 4 mag één volmatroos worden vervangen door een matroos.
+a) in groep 1, exploitatiewijze A1, Standaard S2 en
 
-** De lichtmatroos is ten minste 18 jaar oud.
+b) in groep 3, exploitatiewijze A1, Standaard S1, kan voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een verminderde bemanning moeten door een periode van minimaal een maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord bevindt, waarin de tijden van het schoolbezoek zijn aangegeven.
 
-| Groepen toegestane aantal passagiers | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
-| --- | --- | --- | --- | --- | --- |
-| Groepen toegestane aantal passagiers | Bemanningsleden | A1 | A1 | A2 | B |
-| 1. tot en met 75 personen | Schipper Matroos | 2 – | 2 – | 3 – | 4 – |
-| 2. van 76 tot en met 250 personen | Schipper Matroos Lichtmatroos | 2 – – | 2 – – | 3 – 1** | 4 – 1** |
-| 3. van 251 tot en met 600 personen | Schipper Volmatroos | 2 1 – | 2 1 – | 3 1 | 4 1 |
+** De machinist mag worden vervangen door een matroos.
 
-** De lichtmatroos is ten minste 18 jaar oud.
+*** De machinist mag worden vervangen door een volmatroos.
 
 ### Artikel 13. Manifeste endocriene stoornissen
 
@@ -3111,7 +3113,7 @@ Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt d
 
 Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover overleg plaats met de medisch adviseur scheepvaart. De verantwoordelijkheid voor de beslissing blijft echter bij de keurend arts.
 
-### Artikel 3. Specifieke werkzaamheden aan boord
+### Artikel 1. Inleiding
 
 ### Artikel 17. Aandoeningen die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de functie in een der ledematen die voor de uit te voeren handelingen van belang zijn
 
@@ -3119,15 +3121,23 @@ Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover ov
 
 ## Bijlage 6.2. geneeskundige verklaring binnenvaart als bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.5&z=2017-12-01&g=2017-12-01)
 
+### Artikel 3. Specifieke werkzaamheden aan boord
+
+Bij de keuring is men zich terdege bewust van de specifieke werkomstandigheden aan boord, die afhankelijk van het soort schip en vaargebied sterk kunnen variëren:
+
+### Artikel 4. Waakzaamheid en concentratievermogen
+
+Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn waarbij langdurige concentratie is vereist:
+
 ### Artikel 5. Geneesmiddelengebruik
 
-Bij gebruik van geneesmiddelen laat de arts zich leiden door de navolgende richtlijnen:
+### Hoofdstuk 2. Keuringseisen
 
 ### Artikel 6. Uitgangspunten voor afkeuring
 
-De medische maatstaven die zijn beschreven in § 2 tot en met § 5 dienen te worden gehanteerd bij de keuring voor een geneeskundige verklaring. Medisch ongeschikt voor de binnenvaart is de persoon die niet voldoet aan deze maatstaven. De arts laat zich bij een beslissing tot afkeuring verder leiden door de navolgende algemene richtlijnen:
+### Artikel 7
 
-### § 1. Erkende bewijzen van vaarbekwaamheid en diploma’s die gehele dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren
+### Model-groot vaarbewijs A en B voor de binnenvaart
 
 ### Hoofdstuk 2. Keuringseisen
 
@@ -3135,11 +3145,11 @@ De medische maatstaven die zijn beschreven in § 2 tot en met § 5 dienen te wor
 
 ### Artikel 7
 
-### Model-groot vaarbewijs A en B voor de binnenvaart
+### Artikel 9. Aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen
 
 ### § 2. Het gehoorvermogen
 
-### Artikel 8
+Het ten hoogste toegestane aantal passagiers wordt zodanig vastgesteld, dat aan de voorschriften van de artikelen 4 tot en met 10 alsmede aan de van toepassing zijnde voorschriften van de artikelen 15.02 en 15.04 van bijlage II van [richtlijn 2006/87/EG](32006L0087) wordt voldaan.
 
 ### § 3. Ziekten of lichamelijke gebreken
 
@@ -3147,29 +3157,21 @@ De medische maatstaven die zijn beschreven in § 2 tot en met § 5 dienen te wor
 
 ### Artikel 10. Aandoeningen of laesies van het centrale of perifere zenuwstelsel, gepaard gaande met duidelijke functionele stoornissen; in het bijzonder organische aandoeningen van de hersenen of het ruggenmerg en de daarbij optredende restverschijnselen, functionele stoornissen na schedel- of hersenletsel, en cerebrale doorbloedingsstoornissen.
 
-Het ten hoogste toegestane aantal passagiers wordt zodanig vastgesteld, dat aan de voorschriften van de artikelen 4 tot en met 10 alsmede aan de van toepassing zijnde voorschriften van de artikelen 15.02 en 15.04 van bijlage II van [richtlijn 2006/87/EG](32006L0087) wordt voldaan.
+Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
 
 ### Artikel 12. Suikerziekte met niet goed instelbare, aanzienlijke schommelingen van de bloedglucose-waarden
 
-### § 1. Erkende bewijzen van vaarbekwaamheid en diploma’s die gehele dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren
+Niet goed met insuline of orale antidiabetica instelbare Diabetes Mellitus of het optreden van hypoglykemieën, is een reden voor ongeschiktheid. Bij Insuline afhankelijke Diabetes Mellitus is de geschiktheid in het algemeen beperkt tot een periode van vijf jaar.
 
 ### Artikel 13. Manifeste endocriene stoornissen
 
-Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
+### Model-groot vaarbewijs A en B voor de binnenvaart
 
 ### Artikel 14. Ernstige aandoeningen van de bloedvormende orgaansystemen
 
 Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
 
 ### Artikel 15. Chronische longaandoeningen met aanvallen
-
-### Model-groot vaarbewijs A en B voor de binnenvaart
-
-### Artikel 16. Aandoeningen of veranderingen in het hart of de bloedsomloop resulterend in een verminderde belastbaarheid
-
-(achterzijde)
-
-### Artikel 18. Chronisch alcoholisme, verslaving aan verdovende middelen of andere vormen van verslaving
 
 ### Model-klein vaarbewijs/ICC voor de binnenvaart
 
@@ -3179,7 +3181,7 @@ Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt d
 
 Vervallen
 
-### Instructie voor de aanvrager
+### Artikel 18. Chronisch alcoholisme, verslaving aan verdovende middelen of andere vormen van verslaving
 
 ### 1.1. Voor het groot vaarbewijs en beperkt groot vaarbewijs op alle binnenwateren
 
@@ -3189,55 +3191,55 @@ U kunt hiervoor terecht bij een arts naar keuze. De kosten van het doktersbezoek
 
 (achterzijde)
 
-### Model-groot pleziervaartbewijs/ICC
+### 1.1. Voor het groot vaarbewijs en beperkt groot vaarbewijs op alle binnenwateren
+
+### 1.2. Voor het groot vaarbewijs en beperkt groot vaarbewijs op rivieren, kanalen en meren
+
+### 1.3. Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op alle binnenwateren.
+
+### 1.4. Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op rivieren, kanalen en meren.
+
+### 1.1. Voor het groot vaarbewijs en beperkt groot vaarbewijs op alle binnenwateren
 
 ### § 1. Erkende bewijzen van vaarbekwaamheid en diploma’s die gehele dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren
 
 ### § 2. Erkende diploma’s die vrijstelling geven van onderdelen van het examen voor het groot vaarbewijs en beperkt groot vaarbewijs
 
-### Hoofdstuk 3. Stabiliteit
-
-### 1.1. Voor het groot vaarbewijs en beperkt groot vaarbewijs op alle binnenwateren
-
-### § 3. Erkende diploma’s en opleidingen die vrijstelling geven van onderdelen van het examen voor het klein vaarbewijs
-
-### 1.3. Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op alle binnenwateren.
-
 ### Model-groot vaarbewijs A en B voor de binnenvaart
 
 ### Toepassing tarievenlijst
 
-### § 1. Erkende bewijzen van vaarbekwaamheid en diploma’s die gehele dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren
+### § 3. Erkende diploma’s en opleidingen die vrijstelling geven van onderdelen van het examen voor het klein vaarbewijs
 
 ### Model-Beperkt groot vaarbewijs A en B voor de binnenvaart
 
-### Artikel 11. Vrijboord en veiligheidsafstand
+### Model-groot vaarbewijs A en B voor de binnenvaart
 
 ### Artikel 12. Vlak van de grootste inzinking en laadvermogen
 
 ### Model-klein vaarbewijs/ICC voor de binnenvaart
 
-### Artikel 13. Berekening van het ten hoogste toegestane aantal passagiers
+### Model-Beperkt groot vaarbewijs A en B voor de binnenvaart
 
 ### Model-groot vaarbewijs A en B voor de binnenvaart
 
-(85 mm × 54 mm – achtergrond blauw)
+(achterzijde)
 
-### Model-groot pleziervaartbewijs/ICC
+### Model-klein vaarbewijs/ICC voor de binnenvaart
 
 ### Model-Beperkt groot vaarbewijs A en B voor de binnenvaart
 
 ### Model-zeilbewijs
 
-### Artikel 17. Machinekamers
+### Model vrijstellingsbewijs
 
-### Model-klein vaarbewijs/ICC voor de binnenvaart
+### Model-groot pleziervaartbewijs/ICC
 
 ### Artikel 18. Reddingmiddelen en noodontschepingsvoorzieningen
 
-### Artikel 19. Persoonlijke beschermingsmiddelen
+### Model-zeilbewijs
 
-Veerboten zijn uitgerust met draagbare vluchtmaskers die ten minste een werkingsduur van 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
+(85 mm × 54 mm – achtergrond blauw)
 
 ### Model-groot pleziervaartbewijs/ICC
 
@@ -4033,11 +4035,11 @@ Instructies voor de arts voor het opstellen van een verklaring over de aan de om
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-#### § 7. ICC’s
+#### § 4. Examens
 
 ##### Artikel 7.25
 
-De instantie die het klein vaarbewijs afgeeft verstrekt op aanvraag, namens de minister, aan de houder van onderscheidenlijk een geldig klein vaarbewijs I of II, een geldig groot pleziervaartbewijs I of II, een certificaat Theoretische Kustnavigatie van het Koninklijk Nederlands Watersportverbond of een diploma als bedoeld in [bijlage 7.2, § 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.2&z=2020-07-08&g=2020-07-08), onderscheidenlijk het:
+De instantie die het klein vaarbewijs afgeeft verstrekt op aanvraag, namens de minister, aan de houder van onderscheidenlijk een geldig klein vaarbewijs I of II, een geldig groot pleziervaartbewijs I of II, een certificaat Theoretische Kustnavigatie van het Koninklijk Nederlands Watersportverbond of een diploma als bedoeld in [bijlage 7.2, § 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.2&z=2021-10-06&g=2021-10-06), onderscheidenlijk het:
 
 - a. gecombineerde klein vaarbewijs I / ICC inland;
 
@@ -4059,9 +4061,9 @@ De instantie die het klein vaarbewijs afgeeft verstrekt op aanvraag, namens de m
 
 ##### Artikel 11.1
 
-1. De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=5), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=12), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=13), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=21), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=22), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=23), [25, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25)[28, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=28), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=31), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=33), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=36), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=37), [38, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=38), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=43), en [46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=46) zijn opgenomen in tabel 1 in [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=11.1&z=2020-07-08&g=2020-07-08) bij deze regeling.
+1. De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=5), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=7), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=12), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=13), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=21), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=22), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=23), [25, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25)[28, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=28), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=31), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=33), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=36), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=37), [38, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=38), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=43), en [46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=46) zijn opgenomen in tabel 1 in [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=11.1&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
-2. De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39c), en [39e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39e) zijn opgenomen in tabel 2 in [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=11.1&z=2020-07-08&g=2020-07-08) bij deze regeling.
+2. De bedragen van de bestuurlijke boete op overtredingen als bedoeld in de [artikelen 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39c), en [39e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39e) zijn opgenomen in tabel 2 in [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=11.1&z=2021-10-06&g=2021-10-06) bij deze regeling.
 
 ### Hoofdstuk 9. Registratie en statistiek
 
@@ -4069,7 +4071,7 @@ De instantie die het klein vaarbewijs afgeeft verstrekt op aanvraag, namens de m
 
 #### § 2. Wijzigingen in andere regelingen
 
-### Hoofdstuk 13. Slotbepalingen
+### Hoofdstuk 11. Bestuurlijke boete
 
 ## Bijlage 1.2. : Patentreglement Rijn als bedoeld in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2011-07-01&g=2011-01-01)
 
@@ -4129,15 +4131,15 @@ Aanbevelingen:
 
 Naast de in bijlage II van [richtlijn nr. 2006/87/EG](32006L0087) voorgeschreven uitrusting hebben schepen in zone 2 de volgende uitrusting aan boord:
 
-### Artikel 2
+### 1. Minimumeisen aan en aanbevelingen voor de elektronische binnenvaartkaarten
 
-Aanbeveling:
+Minimumeisen:
 
 ### 3. Minimumeisen aan en aanbevelingen voor de software waarmee elektronische binnenvaartkaarten gevisualiseerd kunnen worden
 
 Minimumeisen:
 
-## Bijlage 3.1. Aanvullende voorschriften voor passagierschepen op zone 2 als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2020-07-08&g=2020-07-08)
+## Bijlage 2.1. Model bewijsstuk historische vakbekwaamheid als bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2021-10-06&g=2021-10-06)
 
 Het vrijboord bedraagt ten minste 0,40 m.
 
@@ -4145,7 +4147,7 @@ Het vrijboord bedraagt ten minste 0,40 m.
 
 Voor passagiersschepen wordt de totale massa P van het boeganker berekend volgens de formule:
 
-In deze formule betekent:
+P = k.B.T + 4.Af [kg]
 
 ## Bijlage 3.3. : Technische eisen voor rondvaartboten van het Amsterdams grachtentype als bedoeld in [artikel 3.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
@@ -4155,11 +4157,11 @@ Op geen enkele plaats van de scheepshuid is de volgens [artikel 19.02, eerste li
 
 ### Artikel 7
 
+### Artikel 1
+
+Deze bijlage is van toepassing in het havengebied van Amsterdam, Zaanstad, Beverwijk en Velsen, met inbegrip van het Noordzeekanaal, de Zaan, de Knollendammervaart en het Noordhollandsch Kanaal vanaf het IJ tot de kruising met de Knollendammervaart, met dien verstande dat de grenzen van dit gebied aan oostelijke zijde gevormd worden door de Oranjesluizen, aan de westelijke zijde door de sluizen van IJmuiden en op het Amsterdam-Rijnkanaal door de monding van het Lozingskanaal.
+
 ### Artikel 2
-
-Onverminderd het in deze bijlage bepaalde, voldoen Amsterdamse dekschuiten aan bijlage II van [richtlijn 2006/87/EG](32006L0087) met uitzondering van de artikelen 8.08, 10.01,10.02,10.04,10.05, eerste lid en 11.02, tweede en vierde lid.
-
-### Artikel 3
 
 ### Artikel 3
 
@@ -4169,11 +4171,13 @@ De buitenzijde van het dek van een Amsterdamse dekschuit is voorzien van een voe
 
 In deze bijlage wordt verstaan onder:
 
-### Artikel 6. Ramen
+### Artikel 5. Toegangen, uitgangen en verbindingswegen
 
 Per elk toegestaan aantal van 25 passagiers, alsmede voor het aantal dat daarboven resteert, is ten minste een reddingboei aanwezig. Het aantal reddingboeien behoeft echter niet meer dan vier te bedragen.
 
 Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
+
+### Artikel 12. Voortstuwingsinstallaties
 
 ### Artikel 12. Voortstuwingsinstallaties
 
@@ -4183,29 +4187,27 @@ Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
 
 ### Artikel 15. Drukbestendigheid
 
-### Artikel 26. Manometer
-
 De vulaansluiting van een CNG-tank:
 
 ## Bijlage 3.4. : Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
 Onverminderd het in deze bijlage bepaalde, voldoen open rondvaartboten aan bijlage II van [richtlijn 2006/87/EG](32006L0087) met uitzondering van de artikelen 3.03, eerste tot en met vijfde lid, 3.04, tweede tot en met zevende lid, 8.04, voor zover het open rondvaartboten met buitenboordmotoren betreft, 8.05, eerste en dertiende lid, 8.08, 10.01, 10.02, 10.03, eerste lid, 10.05, eerste en tweede lid, 11.08, 11.04, 11.02, tweede en vierde lid, 15.05 richtlijn, 15.06, eerste lid, onder b, vierde lid, zesde lid, onder f, elfde lid en zeventiende lid, 15.09, 15.10, tweede tot en met zevende lid richtlijn, 15.11, zeventiende lid, en 15.12.
 
-### Artikel 34. Lensinrichting
+### Artikel 23. Cng-motorkamer
 
 ### Artikel 24. Gasdetectie
 
 Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anker met ankertros van voldoende lengte voor het betrokken vaarwater voorzien. Het gewicht van dit anker bedraagt ten minste 25 kg.
 
+### Artikel 26. Manometer
+
 ### Artikel 27. Vulaansluiting
 
-### Artikel 10. Ankergerei
+### Artikel 28. Gasleidingen- en slangen
 
-### Artikel 29. Bevestiging gasleidingen en gasslangen voor CNG
+### Artikel 31. Handafsluiters
 
-### Artikel 32. Onderhoud
-
-### Artikel 36. Wederzijdse erkenning
+### Artikel 35. Overgangsbepalingen
 
 ### Artikel 9. Lensinrichting
 
@@ -4215,57 +4217,59 @@ Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anke
 
 ### Artikel 3. Stabiliteit
 
-### Artikel 13. Overige uitrusting
+### Artikel 4. Veiligheidsafstand
+
+### Artikel 7. Uitgangen
 
 ### Artikel 8. Motorinstallatie
 
-### Artikel 9. Lensinrichting
-
 ## Bijlage 3.6. : Technische eisen voor veerponten als bedoeld in [artikel 3.4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
-### Artikel 13. Overige uitrusting
+### Artikel 12. Draagbare blustoestellen
+
+### Artikel 14. Overgangsbepalingen
 
 ### Artikel 14. Overgangsbepalingen
 
 ### Artikel 15
 
-### Artikel 14. Overgangsbepalingen
-
 ### Artikel 1
 
 ### Artikel 2
 
-### Artikel 3
+### Artikel 2
 
-### Artikel 3
+### Artikel 4
 
-### Artikel 5
+### Artikel 6
 
 ### Artikel 6
 
 ### Artikel 1.2. Toepassing van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395)
 
-### Artikel 2.6. scheepsromp
+### Artikel 1.2. Toepassing van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395)
+
+### Artikel 2.1. Schotten algemeen
 
 ### Artikel 2.2. Openingen en deuren in schotten
-
-### Artikel 2.3. Doorvoeringen van pijpleidingen
 
 ## Bijlage 3.7. : Technische eisen voor veerboten als bedoeld in [artikel 3.4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
 ### Artikel 2.5. Aantekening in het certificaat
 
-### Artikel 4.5. Moment tengevolge van belading met voertuigen
+### Artikel 2.5. Aantekening in het certificaat
 
-‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
+Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
 
 ### Artikel 2.6. scheepsromp
 
 ‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
 
+### Hoofdstuk 3. Waterdichte indeling
+
 ### Artikel 3.1. Waterdichte indeling
 
-### Hoofdstuk 4. Stabiliteit
+### Artikel 4.1. Stabiliteit algemeen
 
 ### Artikel 4.2. Beladingstoestanden
 
@@ -4277,25 +4281,23 @@ Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anke
 
 ### Hoofdstuk 5. Veiligheidsafstand en vrijboord
 
-### Artikel 5.1. Resterend vrijboord en resterende veiligheidsafstand
+### Artikel 5.3. Vlak van de grootste inzinking en laadvermogen
 
 ### Hoofdstuk 6. Ten hoogste toegestane aantal passagiers
 
-### Artikel 6.1. Berekening van het ten hoogste toegestane aantal passagiers
+### Hoofdstuk 7. Constructie
 
 ### Artikel 7.1. Constructie
 
-### Hoofdstuk 8. Uitrusting
-
 Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan hoofdstuk 3 tot en met hoofdstuk 15 alsmede hoofdstuk 24a van bijlage II van richtlijn 2006/87/EG met uitzondering van de artikelen:
 
-### Artikel 8.1. Reddingsmiddelen
+### Artikel 8.2. Brandbestrijding
 
 ### Artikel 8.3. Luidsprekers
 
-### Hoofdstuk 10. Overgangsbepalingen
+### Artikel 8.3. Luidsprekers
 
-### Artikel 8.6. Bijboot
+### Artikel 8.5. Ankergerei
 
 ### Hoofdstuk 9. Bijzondere bepalingen
 
@@ -4305,19 +4307,23 @@ Op niet-vrijvarende veerponten is de opstelling van de voertuigen zodanig dat he
 
 ## Bijlage 3.8. : Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
-### Hoofdstuk 1. Algemene bepalingen
+### Artikel 1.1. Definities
 
 Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan [hoofdstuk 3 tot en met hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=3) alsmede [hoofdstuk 33 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=33) met uitzondering van de artikelen:
 
 ### Artikel 1.2. Toepassing van richtlijn 2006/87/EG
 
-### Artikel 2.5. Aantekening in het certificaat
+### Artikel 2.2. Openingen en deuren in schotten
 
 Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bunkerstation en het te bunkeren schip zijn zodanig, dat zij geen ontstekingsbron vormen.
 
-### Artikel 5.2. Vrijboord en veiligheidsafstand
+### Artikel 4.4. Kenterend moment ten gevolge van verplaatsen van personen
 
 Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en het rookverbod. De borden zijn aan beide zijden van het bunkerstation zowel overdag als ’s nachts duidelijk zichtbaar. Zo nodig wordt aan boord aangegeven waar en onder welke omstandigheden een verbod niet van kracht is.
+
+### Hoofdstuk 5. Veiligheidsafstand en vrijboord
+
+### Artikel 5.3. Vlak van de grootste inzinking en laadvermogen
 
 ### Hoofdstuk 6. Ten hoogste toegestane aantal passagiers
 
@@ -4325,19 +4331,15 @@ Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en he
 
 ### Artikel 7.2. Relingen, ramen en poorten
 
-### Artikel 8.2. Persoonlijke beschermingsmiddelen
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ### Artikel 8.1. Reddingmiddelen en noodontschepingsvoorzieningen
 
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+### Artikel 8.2. Persoonlijke beschermingsmiddelen
 
 ### Artikel 8.4. Ankergerei
 
-### Artikel 8.5. Nautische apparatuur
-
 ### Artikel 8.4. Ankergerei
-
-### Artikel 9.1. Machinekamers
 
 Op veerboten die tussen 1 juli 2009 en 1 januari 2011 zijn voorzien van een certificaat van onderzoek zijn van toepassing:
 
@@ -4353,23 +4355,23 @@ Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bun
 
 ### Artikel 8. Laad- en losleidingen
 
-### Artikel 9. Druk in de laad- en losleidingen
+### Artikel 5. Ladingtankruimten en ladingtanks
 
 Te bunkeren en te lossen schepen worden zodanig gemeerd, dat de elektrische kabels en de buigzame leidingen niet onder trek- of buigspanning komen te staan. In geval van gevaar kan snel worden ontmeerd.
 
+### Artikel 8. Laad- en losleidingen
+
+### Artikel 10. Inrichting kofferdammen
+
 ### Artikel 12. Toegangen
-
-### Artikel 14. Brandstoftanks
-
-### Artikel 16. Machinekamers
 
 Elektrische inrichtingen verkeren in onberispelijke staat.
 
 Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bunkerstation en het te bunkeren schip zijn zodanig, dat zij geen ontstekingsbron vormen.
 
-Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderdeel f, wordt tevens aangebracht op de toestellen.
+Elektrisch geleidende verbindingen tussen het bunkerstation en de wal en het bunkerstation en het te bunkeren schip zijn zodanig, dat zij geen ontstekingsbron vormen.
 
-### Artikel 22. Speciale uitrusting
+### Artikel 19. Inspectie, ventilatie en reiniging
 
 Elektrische inrichtingen verkeren in onberispelijke staat.
 
@@ -4379,33 +4381,33 @@ De meetapparatuur wordt voor ieder gebruik conform de gebruiksaanwijzing door de
 
 De volgende documenten bevinden zich aan boord:
 
+### Artikel 27. Aarding
+
+### Artikel 28. Elektrische kabels
+
 ### Artikel 29. Sein-, navigatie- en loopplankverlichting
+
+### Artikel 30. Draagbare lampen
 
 ### Artikel 31. Verlichting
 
-### Hoofdstuk 5. Brandveiligheid
-
-### Artikel 32. Vuur en onbeschermd licht
-
-### Artikel 34. Brandmeldinstallatie
-
 ## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2010-05-07)
 
-### Artikel 37. Verklaring bij brandblustoestellen
+### Hoofdstuk 6. Bescheiden Aan Boord
 
 In het derde jaar van geldigheid van het certificaat worden door een erkend installateur gekeurd:
 
+### Artikel 41. Uitrusting
+
+### Artikel 42. Beproeving van de druk
+
+### Artikel 45. Bunkercontrolelijst
+
 ### Artikel 44. Droogstaande keuring
 
-### Hoofdstuk 10. Voorschriften met betrekking tot de arbeid aan boord
-
 ### Artikel 45. Bunkercontrolelijst
 
-### Artikel 46. Meren
-
-### Artikel 45. Bunkercontrolelijst
-
-### Artikel 47. Maatregelen tijdens het bunkeren
+### Hoofdstuk 8. Voorschriften voor laden, bunkeren en ontgassen
 
 Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
@@ -4417,43 +4419,43 @@ Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
 Behalve tijdens controle of reiniging van geloste ladingtanks en peiling of monstername zijn ladingtankdeksels gesloten.
 
-Behalve tijdens laden, bunkeren of ontgassen zijn afsluitinrichtingen van de laad- en losleidingen gesloten.
+Gasolie, dieselolie of benzine wordt opgeslagen in de ladingtanks.
 
-Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een vlampunt lager dan 55 °C.
+Behalve tijdens controle of reiniging van geloste ladingtanks en peiling of monstername zijn ladingtankdeksels gesloten.
 
 Met uitzondering van afmeerwerkzaamheden zijn werkzaamheden in de ladingzone waarbij de mogelijkheid van vonkvorming bestaat verboden.
 
 Artikel 4.05 van bijlage II van richtlijn 2006/87/EG is niet van toepassing.
 
-Artikel 4.05 van bijlage II van richtlijn 2006/87/EG is niet van toepassing.
+Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een vlampunt lager dan 55 °C.
 
 In de ladingzone en in ruimten die niet behoren tot de woning, de winkel of een kantoor geldt een rookverbod en is gebruik van open vuur verboden.
 
-### Hoofdstuk 10. Voorschriften met betrekking tot de arbeid aan boord
+### Artikel 56. Bekendheid veiligheidszaken
 
-### Hoofdstuk 10. Voorschriften met betrekking tot de arbeid aan boord
+### Artikel 58. Gebruik van open vuur
 
 ### Artikel 62. Toegang
 
 Patrouillevaartuigen met een lengte korter dan 20 meter die zich ter onderzoek aanbieden voldoen aan deze bijlage met uitzondering van het bepaalde in dit hoofdstuk.
 
-### Artikel 64. Overgangsbepalingen voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren
+### Artikel 61. Reparatie- en onderhoudswerkzaamheden
 
 ## Bijlage 4.1. Metingsvoorschriften als bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2011-07-01&g=2010-05-07) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2011-07-01&g=2010-05-07)
 
-### Hoofdstuk 12. Wederzijdse erkenning
+### Artikel 63. Gebruik speciale uitrusting
+
+### Artikel 64. Overgangsbepalingen voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren
 
 ### Hoofdstuk 12. Wederzijdse erkenning
+
+### Artikel 65
+
+### Hoofdstuk 2
 
 ### Hoofdstuk 1
 
 ### Artikel 1
-
-### Hoofdstuk 2
-
-### Artikel 3
-
-### Artikel 2
 
 ## Bijlage 5.1. : Minimumbemanning van hechte samenstellen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2011-07-01&g=2010-05-07)
 
@@ -4580,7 +4582,7 @@ kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar 
 
 ## Bijlage 3.10. Model van het certificaat van onderzoek voor bunkerstations als bedoeld in [3.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2012-11-14&g=2012-07-01)
 
-### Artikel 11
+### Artikel 8
 
 ### Hoofdstuk 6. Overgangsbepalingen
 
@@ -4588,25 +4590,25 @@ B: de grootste breedte van het schip in m;
 
 ### Artikel 16
 
-C: een coëfficiënt, te bepalen aan de hand van de formule:
+P = C × B × T
 
 ### Artikel 6. Meting van binnenschepen, bestemd of gebruikt voor het vervoer van goederen (regel I)
 
-In deze formule betekent:
+B: de grootste breedte van het schip in m;
 
-L: de grootste lengte van het schip in m, het roer en de boegspriet niet inbegrepen.
+T: de grootst toegelaten diepgang van het schip in m.
 
 ### Artikel 8. Algemene bepalingen voor werkzaamheden na afloop van de meting
 
-### Artikel 16
+### Artikel 14
 
-### Hoofdstuk 7. Wederzijdse erkenning
-
-Het metingsmerk wordt ingebeiteld op het achterschip in de nabijheid van de roerkoning. In de regel is de achterwand van de roef hiertoe het meest geschikt. Het merk wordt aangebracht op een van buiten in het oog vallende plaats. Een aantekening omtrent de plaats van het merk op het achterschip wordt in de meetbrief vermeld.
+### Artikel 15
 
 Het metingsmerk wordt ingebeiteld op het achterschip in de nabijheid van de roerkoning. In de regel is de achterwand van de roef hiertoe het meest geschikt. Het merk wordt aangebracht op een van buiten in het oog vallende plaats. Een aantekening omtrent de plaats van het merk op het achterschip wordt in de meetbrief vermeld.
 
-### Artikel 10. Inbeiteling van ijk- en metingsmerken
+Het metingsmerk wordt ingebeiteld op het achterschip in de nabijheid van de roerkoning. In de regel is de achterwand van de roef hiertoe het meest geschikt. Het merk wordt aangebracht op een van buiten in het oog vallende plaats. Een aantekening omtrent de plaats van het merk op het achterschip wordt in de meetbrief vermeld.
+
+### Certificaat van onderzoek bunkerstations
 
 ## Bijlage 5.2. : Minimumbemanning voor schepen voor dagtochten als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2014-12-01&g=2014-12-01)
 
@@ -4675,7 +4677,7 @@ Wanneer de geluidsdruk tijdens het normale bedrijf van het drijvend werktuig 70 
 
 Indien niet naar alle zijden van het drijvend werktuig voldoende vrij zicht kan worden gegarandeerd, is het drijvend werktuig voorzien van adequate hulpmiddelen om het gebrek aan vrij zicht te compenseren.
 
-Stuurhuizen en verblijven zijn voorzien van doeltreffende verwarming en ventilatie.
+Wanneer de geluidsdruk tijdens het normale bedrijf van het drijvend werktuig 70 dB(A) of meer kan bedragen, zijn passende persoonlijke beschermingsmiddelen tegen gehoorschade aanwezig.
 
 Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk- en metingsmerken, dan wel het plaatsen van de ijkplaten door een bekwaam vakman onder toezicht en volgens aanwijzing van de minister gedaan.
 
@@ -4736,9 +4738,9 @@ Wanneer een duwbak breder is dan 15 meter is, op basis van de lengte van het sam
 
 ## Bijlage 7.3. : Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2011-07-01&g=2010-05-07)
 
-### Artikel 15
+### Artikel 13
 
-Aan boord van een drijvend werktuig bevindt zich voor ieder zich regelmatig aan boord bevindend persoon een persoonlijk geschikt, automatisch opblaasbaar, zwemvest onder handbereik, dat voldoet aan artikel 13.08, tweede lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2020-07-08&g=2020-07-08) bij deze regeling of een vergelijkbaar reddingsvest.
+Ten behoeve van het meren zijn tenminste twee trossen aanwezig van voldoende sterkte met een lengte van minimaal anderhalf keer de lengte van het drijvend werktuig.
 
 Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
 
@@ -4746,7 +4748,7 @@ Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt d
 
 Bij een progressieve of chronische oogaandoening is een specialistisch rapport vereist, waaruit blijkt dat het gezichtsvermogen niet dusdanig wordt bedreigd dat binnen afzienbare tijd niet meer kan worden voldaan aan de criteria:
 
-Bij de keuring is men zich terdege bewust van de specifieke werkomstandigheden aan boord, die afhankelijk van het soort schip en vaargebied sterk kunnen variëren:
+Aan boord van een drijvend werktuig bevindt zich voor ieder zich regelmatig aan boord bevindend persoon een persoonlijk geschikt, automatisch opblaasbaar, zwemvest onder handbereik, dat voldoet aan artikel 13.08, tweede lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) bij deze regeling of een vergelijkbaar reddingsvest.
 
 ## Bijlage 6.2. : geneeskundige verklaring binnenvaart als bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.5&z=2013-04-01&g=2013-04-01)
 
@@ -4876,18 +4878,47 @@ b) in groep 3, exploitatiewijze A1, Standaard S1, kan voor de ononderbroken duur
 
 *** De machinist mag worden vervangen door een volmatroos.
 
-## Bijlage 5.5. Minimumbemanning voor veerboten1Indien zonder passagiers gevaren wordt, kan volstaan worden met een schipper, een stuurman, een 1e machinist en een 2e machinist. als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08)
+## Bijlage 5.1. Minimumbemanning van hechte samenstellen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
 
-| Groep naar toegestaan aantal passagiers | Bemanningsleden | Aantal bemanningsleden |
-| --- | --- | --- |
-| 1. max. 300 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 – |
-| 2. max. 600 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 1 |
-| 3. max. 900 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 2 |
-| 4. max. 1200 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 3 |
-| 5. max. 1500 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 4 |
-| 6. max. 1750 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 5 |
+(Externe link) http://wetten.overheid.nl/id/BWBR0025958/2017-07-01/0/Bijlage5.1
 
-2De 2e machinist kan vervallen indien er sprake is van een eenmansbediening met betrekking tot de voortstuwingsmiddelen en de stuurinrichting.
+| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Groep | Bemanningsleden | A1 | A1 | A1 | A2 | A2 | B | B | B | B |
+| Groep | Bemanningsleden | S1 | S1 | S2 | S1 | S2 | S1 | S1 | S2 | S2 |
+| 1. Afmeting van het samenstel L ≤ 37 m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist of volmatroos | 1 – – 1 – – | 1 – – 1 – – |   | 2 – – – – – |   | 2 – – 1 1* – | 2 – – 1 1* – | 2 – – – 2**** – | 2 – – – 2**** – |
+| 2. Afmeting van het samenstel 37 m < L ≤ 86m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist | 1 of – 1 – – –****** | 1 – – 1 1 –******* | 1 – – 1 1 –******* | 2 – – – 1* –******* |   | 2 – – 2 – –******* | 2 – – 2 – –******* | 2 – – 1 1 –******* | 2 – – 1 1 –******* |
+| 3. Duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤ 116,5 m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist of volmatroos | 1 of 1 – 1 – – | 1 1 – – 2*** – | 1 1 – 1 | 2 – – 1 1* – | 2 – – – 2* – | 2 of 1 – 2 – – | 2 1** – 1 – – | 2 1 – 1 1 – | 2 1 – 1 1 – |
+| 4. Duwboot + 2 duwbakken* motorschip + 1 duwbak* | schipper stuurman volmatroos matroos **** lichtmatroos machinist of volmatroos | 1 1 – 1 1* – | 1 1 – 1 1* – | 1 1 – – 2* – | 2 – – 2 1* – | 2 – – 1 2* – | 2 of 1 – 2 – 1 | 2 1** – 2 – – | 2 of 1 – 1 1 1 | 2 1** – 1 1 – |
+| 5. Duwboot + 3 of meer duwbakken* motorschip + 2 of meer duwbakken* | schipper stuurman volmatroos matroos**** lichtmatroos Machinist | 1 of 1 – 2 – 1******* | 1 1 – 1 2 1******* | 1 1 – 1 1 1******* | 2 – – 2 1* 1******* | 2 – 1 – 2* 1****** | 2 of 1 – 2 1* 1******* | 2 1** – 2 – 1******* | 2 of 1 1 – 2 1****** | 2 1** 1 – 1 1****** |
+
+* De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.
+
+** De stuurman bezit de bekwaamheid van schipper als bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2021-10-06&g=2021-10-06).
+
+*** Een van de lichtmatrozen is ouder dan 18 jaar.
+
+**** De matrozen mogen worden vervangen door lichtmatrozen die de leeftijd van 17 jaar hebben bereikt, zich ten minste in het laatste leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
+
+***** De voorgeschreven minimumbemanning overeenkomstig de tabel, kan
+
+a) in de groep 1, exploitatiewijze B, Standaard S2,
+
+b) in de groep 2, exploitatiewijze Al, Standaard S2,
+
+c) in de groep 3, exploitatiewijze Al, Standaard S1 en exploitatiewijze A2, Standaard S2,
+
+d) in de groep 4, exploitatiewijze Al, Standaard S2 en exploitatiewijze A2, Standaard S2, en
+
+e) in de groep 5, exploitatiewijze Al, Standaard S1, exploitatiewijze A2, Standaard S2, en exploitatiewijze B, Standaard S2, voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. De eerste zin, onderdeel a en het tweede alternatief van onderdeel c, d en het tweede alternatief van onderdeel e zijn slechts van toepassing wanneer gedurende de tijd dat de ene lichtmatroos een schippersschool bezoekt, de tweede lichtmatroos aan boord is. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in noot ****.
+
+****** de machinist mag worden vervangen door een matroos;
+
+******* de machinist mag worden vervangen door een volmatroos;
+
+Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere duwbakken met een totale lengte tot en met 76,50 m en een totale breedte tot en met 15 m.
+
+Wanneer een duwbak breder is dan 15 meter is, op basis van de lengte van het samenstel, de naast hogere groep van toepassing.
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
@@ -4909,7 +4940,7 @@ Er is een radiotelefonie-installatie aanwezig waardoor gesprekken in het openbar
 
 Deze bijlage is van toepassing in het havengebied van Amsterdam, Zaanstad, Beverwijk en Velsen, met inbegrip van het Noordzeekanaal, de Zaan, de Knollendammervaart en het Noordhollandsch Kanaal vanaf het IJ tot de kruising met de Knollendammervaart, met dien verstande dat de grenzen van dit gebied aan oostelijke zijde gevormd worden door de Oranjesluizen, aan de westelijke zijde door de sluizen van IJmuiden en op het Amsterdam-Rijnkanaal door de monding van het Lozingskanaal.
 
-De onderdelen van de CNG-installatie zijn bestand tegen de hoogste druk die onder normale bedrijfsomstandigheden kan optreden in het gedeelte van de CNG-installatie waar een onderdeel is aangebracht.
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 De constructie van de ramen is van voldoende sterkte, afhankelijk van de hoogte boven de geladen lastlijn en van de zone van het vaarwater.
 
@@ -4919,47 +4950,47 @@ Onverminderd het in deze bijlage bepaalde, voldoen open rondvaartboten aan bijla
 
 ## Bijlage 3.4. : Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2011-01-01)
 
-### Artikel 20. Overdrukbeveiliging CNG-tank
+### Artikel 19. Cng-tanks
 
 ### Artikel 28. Gasleidingen- en slangen
 
 In de nabijheid van de motorinstallatie is een draagbaar blustoestel met een voor vloeistofbranden geschikt blusmiddel en een vulgewicht van ten minste 4 kg aanwezig.
 
-### Artikel 33. Vrij uitzicht vanuit de stuurstand
+### Artikel 32. Onderhoud
 
 In de nabijheid van de motorinstallatie is een draagbaar blustoestel met een voor vloeistofbranden geschikt blusmiddel en een vulgewicht van ten minste 4 kg aanwezig.
 
-### Artikel 8. Motorinstallatie
+### Artikel 36. Wederzijdse erkenning
 
-## Bijlage 3.5. : Technische eisen voor skûtsjes als bedoeld in [artikel 3.4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2011-01-01)
+## Bijlage 3.4. Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
 
-### Artikel 2. Schotten
+### Artikel 1
 
 ### Artikel 4. Veiligheidsafstand
 
-Aan boord is ten minste de volgende uitrusting in bruikbare staat aanwezig:
+Voor open rondvaartboten kan ontheffing van [artikel 19.04, eerste lid, van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.04) worden verleend.
 
-### Artikel 7. Uitgangen
+### Artikel 6. Beveiliging tegen vallen
 
 ## Bijlage 3.5. : Technische eisen voor skûtsjes als bedoeld in [artikel 3.4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-12-01&g=2014-12-01)
 
-### Artikel 10. Ankergerei
+### Artikel 9. Lensinrichting
 
 Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anker met ankertros van voldoende lengte voor het betrokken vaarwater voorzien. Het gewicht van dit anker bedraagt ten minste 25 kg.
 
-### Artikel 12. Draagbare blustoestellen
+### Artikel 11. Reddingmiddelen
 
-### Artikel 2.3. Doorvoeringen van pijpleidingen
+### Artikel 13. Overige uitrusting
 
 ### Artikel 5
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Hoofdstuk 1. Algemene bepalingen
+### Artikel 1.1. Definities
 
-### Artikel 2.1. Schotten algemeen
+### Hoofdstuk 2. Schotten
 
-### Artikel 2.4. Sprongen en nissen in schotten
+### Artikel 2.3. Doorvoeringen van pijpleidingen
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
@@ -4975,11 +5006,11 @@ Het schip moet over voldoende vaar- en manoeuvreereigenschappen beschikken.
 
 ### Artikel 9.2. Vrij uitzicht
 
-### Artikel 10.2
+### Artikel 10.1. Overgangsbepalingen
 
 Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
 
-Naast de in de richtlijn voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
+Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
@@ -4989,23 +5020,23 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie, dieselolie of benzine.
 
-### Artikel 10.2
+### Artikel 10.1
 
-### Artikel 20. Veiligheids- en controle-inrichtingen ten behoeve van het beladen van bunkerstations
+### Artikel 17. Machines
 
 De volgende documenten bevinden zich aan boord:
 
 Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderdeel f, wordt tevens aangebracht op de toestellen.
 
-### Artikel 35. Documenten
+### Artikel 32. Vuur en onbeschermd licht
 
-### Hoofdstuk 6. Bescheiden Aan Boord
+### Artikel 33. Brandblusvoorzieningen
 
-De minister kan voor de verlenging van het certificaat afzien van een droogstaande keuring als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2014-12-01&g=2014-12-01), indien de toestand van de romp een controle van binnenuit redelijkerwijs toelaat.
+De volgende documenten bevinden zich aan boord:
 
-### Hoofdstuk 8. Voorschriften voor laden, bunkeren en ontgassen
+### Artikel 43. Beproeving door de bemanning
 
-### Artikel 52. Laad- en losleidingen
+### Artikel 50. Ladingtanks
 
 ## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-07-01&g=2011-01-01)
 
@@ -5013,27 +5044,27 @@ De minister kan voor de verlenging van het certificaat afzien van een droogstaan
 
 Bij open patrouillevaartuigen waarvan de voortstuwingsmotor in een open kuip staat opgesteld, behoeft het verblijf niet gasdicht van deze ruimte gescheiden te zijn. De motor is geheel omsloten door een brandvertragende omkasting.
 
-### Hoofdstuk 4. Technische voorschriften voor patrouillevaartuigen die geschikt zijn om ligplaats te nemen langszijde van schepen die gevaarlijke stoffen vervoeren
+### Hoofdstuk 10. Voorschriften met betrekking tot de arbeid aan boord
 
 ### Hoofdstuk 11. Overgangsbepalingen
 
 Bij open patrouillevaartuigen waarvan de voortstuwingsmotor in een open kuip staat opgesteld, behoeft het verblijf niet gasdicht van deze ruimte gescheiden te zijn. De motor is geheel omsloten door een brandvertragende omkasting.
 
-Patrouillevaartuigen behoeven geen hekanker te hebben.
+[Artikel 4.05 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=4.05) is niet van toepassing.
+
+Bij open patrouillevaartuigen waarvan de voortstuwingsmotor in een open kuip staat opgesteld, behoeft het verblijf niet gasdicht van deze ruimte gescheiden te zijn. De motor is geheel omsloten door een brandvertragende omkasting.
+
+### Artikel 5
 
 Patrouillevaartuigen behoeven geen hekanker te hebben.
 
-### Hoofdstuk 4. Technische voorschriften voor patrouillevaartuigen die geschikt zijn om ligplaats te nemen langszijde van schepen die gevaarlijke stoffen vervoeren
-
-P = C × B × T
+### Hoofdstuk 3. Aanvullende eisen aan de uitrusting voor patrouillevaartuigen op zone 2
 
 ### Hoofdstuk 4. Technische voorschriften voor patrouillevaartuigen die geschikt zijn om ligplaats te nemen langszijde van schepen die gevaarlijke stoffen vervoeren
 
-### Artikel 9
+### Artikel 7
 
-### Artikel 10
-
-T: de grootst toegelaten diepgang van het schip in m.
+Onverminderd het in deze bijlage bepaalde voldoen patrouillevaartuigen aan de voorschriften van dit hoofdstuk indien zij gebouwd of bestemd zijn om ligplaats te nemen langszijde van:
 
 ## Bijlage 3.11. bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.26&z=2013-04-01&g=2013-04-01)
 
@@ -5110,17 +5141,17 @@ T: de grootst toegelaten diepgang van het schip in m.
 | Auto |
 | Fiets/voet |
 
-### Artikel 13
+### Artikel 11
 
 ## Bijlage 4.1. Metingsvoorschriften als bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2014-07-01&g=2014-07-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2014-07-01&g=2014-07-01)
 
-### Artikel 13
+### Artikel 12
 
-De veiligheidsafstand van patrouillevaartuigen bedraagt niet minder dan:
+In deze formule betekent:
 
 ### Hoofdstuk 6. Overgangsbepalingen
 
-De veiligheidsafstand van patrouillevaartuigen bedraagt niet minder dan:
+Voor de waarde van C mag niet minder dan 15 worden genomen.
 
 ## Bijlage 5.1. : Minimumbemanning van hechte samenstellen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2014-07-01&g=2014-07-01)
 
@@ -5374,17 +5405,17 @@ Door passende voorzieningen wordt voorkomen dat machinekamers worden betreden wa
 
 De veiligheidsafstand van het drijvend werktuig bedraagt minimaal 150 mm.
 
-Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn waarbij langdurige concentratie is vereist:
+Door passende voorzieningen wordt voorkomen dat machinekamers worden betreden wanneer de motor in bedrijf is.
 
 Het metingsmerk wordt ingebeiteld op het achterschip in de nabijheid van de roerkoning. In de regel is de achterwand van de roef hiertoe het meest geschikt. Het merk wordt aangebracht op een van buiten in het oog vallende plaats. Een aantekening omtrent de plaats van het merk op het achterschip wordt in de meetbrief vermeld.
 
 ### Artikel 11. Aanvullende bepalingen voor hermeting, of controlemeting
 
-Het tijdens het bedrijf van een drijvend werktuig vrijkomende oliehoudende water wordt aan boord verzameld in de machinekamer-bilge.
+Stuurhuizen en verblijven zijn voorzien van doeltreffende verwarming en ventilatie.
 
-Een drijvend werktuig is voorzien van tenminste één draagbaar blustoestel dat voldoet aan de Europese normen EN 3-7:2007 en EN 3-8:2007.
+De bescheiden bedoeld in artikel 10.01, tweede lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) bij deze regeling, zijn te allen tijde beschikbaar bij de exploitant van het drijvend werktuig.
 
-### Artikel 5. Algemene bepalingen bij de uitvoering van de meting
+### Artikel 1. Begripsbepalingen
 
 ## Bijlage 6.2. : geneeskundige verklaring binnenvaart als bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.5&z=2014-07-01&g=2014-07-01)
 
@@ -5392,23 +5423,45 @@ Een drijvend werktuig is voorzien van tenminste één draagbaar blustoestel dat 
 
 medisch ongeschikt voor de binnenvaart is de persoon, die lijdt aan een ziekte, afwijking of verwonding:
 
-Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
+Voor binnenschepen die niet bestemd zijn of gebruikt worden voor het vervoer van goederen en beschikken over een normale scheepsvorm, worden de metingen van de verlangde waterverplaatsingen als volgt aan boord, zo nodig met behulp van betrouwbare tekeningen, uitgevoerd:
 
-### Artikel 7
+### Artikel 8. Algemene bepalingen voor werkzaamheden na afloop van de meting
 
-Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de binnenvaart. Zij hoeven niet te worden gekeurd, maar mogen volstaan met het invullen van een eigen verklaring. Als één of meer vragen met JA zijn beantwoord moet de medisch adviseur vaarbewijzen beoordelen of de aanvrager voldoet aan de keuringseisen, mede aan de hand van de toelichting van een arts. Om de beoordeling zonder vertraging te laten verlopen stelt u de verklaring op aan de hand van de onderstaande instructies.
+Het metingsmerk wordt ingebeiteld op het achterschip in de nabijheid van de roerkoning. In de regel is de achterwand van de roef hiertoe het meest geschikt. Het merk wordt aangebracht op een van buiten in het oog vallende plaats. Een aantekening omtrent de plaats van het merk op het achterschip wordt in de meetbrief vermeld.
 
-### Artikel 9. Aandoeningen die gepaard gaan met bewustzijns- of evenwichtsstoornissen
+### Artikel 11. Aanvullende bepalingen voor hermeting, of controlemeting
 
 ### Artikel 12. Suikerziekte met niet goed instelbare, aanzienlijke schommelingen van de bloedglucose-waarden
 
 ### Hoofdstuk 1. Algemene keuringsaanwijzingen
 
-## Bijlage 7.3. : Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2013-04-01&g=2013-04-01)
+## Bijlage 5.8. Minimumbemanning snelle veerponten als bedoeld in [artikel 5.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
+
+De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, maar niet meer dan 40 km per uur, kunnen bereiken bestaat uit:
+
+| Groepen toegestane aantal passagiers | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
+| --- | --- | --- | --- | --- |
+| Groepen toegestane aantal passagiers | Bemanningsleden | A1 | A2 | B |
+| 1. tot en met 75 personen | Schipper Matroos | 1 1 | 2 1 | 2 2 |
+| 2. van 76 tot en met 250 personen | Schipper volmatroos Lichtmatroos | 1 1* – | 2 1* 1** | 2 2* 1** |
+| 3. van 251 tot en met 600 personen | Schipper Volmatroos | 1 2 | 2 2 | 3 2- |
+
+* Op wateren van de zone 3 en 4 mag één volmatroos worden vervangen door een matroos.
+
+** De lichtmatroos is ten minste 18 jaar oud.
+
+| Groepen toegestane aantal passagiers | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
+| --- | --- | --- | --- | --- | --- |
+| Groepen toegestane aantal passagiers | Bemanningsleden | A1 | A1 | A2 | B |
+| 1. tot en met 75 personen | Schipper Matroos | 2 – | 2 – | 3 – | 4 – |
+| 2. van 76 tot en met 250 personen | Schipper Matroos Lichtmatroos | 2 – – | 2 – – | 3 – 1** | 4 – 1** |
+| 3. van 251 tot en met 600 personen | Schipper Volmatroos | 2 1 – | 2 1 – | 3 1 | 4 1 |
+
+** De lichtmatroos is ten minste 18 jaar oud.
 
 U dient alleen informatie te verstrekken m.b.t. de vraag waar de aanvrager JA op heeft geantwoord.
 
-Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn waarbij langdurige concentratie is vereist:
+Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover overleg plaats met de medisch adviseur scheepvaart. De verantwoordelijkheid voor de beslissing blijft echter bij de keurend arts.
 
 ## Bijlage 7.4. : Modellen vrijstellingsbewijzen als bedoeld in de [artikelen 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2013-04-01&g=2013-04-01), [7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2013-04-01&g=2013-04-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2013-04-01&g=2013-04-01)
 
@@ -5416,9 +5469,9 @@ Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn wa
 
 medisch ongeschikt voor de binnenvaart is de persoon, die lijdt aan een ziekte, afwijking of verwonding:
 
-Als u ook zelf nog aanvullende informatie hebt die van belang kan zijn bij de beoordeling kunt u dit apart bijvoegen.
+Bij gebruik van geneesmiddelen laat de arts zich leiden door de navolgende richtlijnen:
 
-Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de binnenvaart. Zij hoeven niet te worden gekeurd, maar mogen volstaan met het invullen van een eigen verklaring. Als één of meer vragen met JA zijn beantwoord moet de medisch adviseur vaarbewijzen beoordelen of de aanvrager voldoet aan de keuringseisen, mede aan de hand van de toelichting van een arts. Om de beoordeling zonder vertraging te laten verlopen stelt u de verklaring op aan de hand van de onderstaande instructies.
+De medische maatstaven die zijn beschreven in § 2 tot en met § 5 dienen te worden gehanteerd bij de keuring voor een geneeskundige verklaring. Medisch ongeschikt voor de binnenvaart is de persoon die niet voldoet aan deze maatstaven. De arts laat zich bij een beslissing tot afkeuring verder leiden door de navolgende algemene richtlijnen:
 
 Instructies voor de arts voor het opstellen van een verklaring over de aan de ommezijde met JA beantwoorde vragen:
 
@@ -5532,13 +5585,13 @@ In deze paragraaf wordt verstaan onder:
 
 - c. beschikken over een vestiging of vertegenwoordiging in Nederland; en
 
-- d. beschikken over een accreditatieverklaring, afgegeven door de Raad voor Accreditatie of een andere accreditatie-instelling die erkend is in een lidstaat van de Europese Unie, waaruit blijkt dat de werkzaamheden bedoeld in [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.27&z=2020-07-08&g=2020-07-08), conform NEN-EN-ISO/IEC 17020 (2004) worden uitgevoerd.
+- d. beschikken over een accreditatieverklaring, afgegeven door de Raad voor Accreditatie of een andere accreditatie-instelling die erkend is in een lidstaat van de Europese Unie, waaruit blijkt dat de werkzaamheden bedoeld in [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.27&z=2021-10-06&g=2021-10-06), conform NEN-EN-ISO/IEC 17020 (2004) worden uitgevoerd.
 
 2. Rechtspersonen die nog niet aan het eerste lid, onderdeel d, voldoen, kunnen voorlopig worden aangewezen, indien zij de aanvraag voor accreditatie hebben ingediend bij de Raad voor Accreditatie en blijkens een verklaring van de Raad redelijkerwijs kan worden aangenomen dat de desbetreffende rechtspersoon zal voldoen aan de voorwaarden, bedoeld in het eerste lid, onderdeel d. Een voorlopige aanwijzing is ten hoogste een jaar geldig.
 
 ##### Artikel 3.26
 
-Een keuringsinstantie wordt aangewezen voor het onderzoek van een of meer in de [bijlage 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.11&z=2020-07-08&g=2020-07-08) opgenomen pakketten van scheepstypen.
+Een keuringsinstantie wordt aangewezen voor het onderzoek van een of meer in de [bijlage 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.11&z=2021-10-06&g=2021-10-06) opgenomen pakketten van scheepstypen.
 
 ##### Artikel 3.27
 
@@ -5554,7 +5607,7 @@ De aangewezen keuringsinstantie meldt ernstige mankementen die aan een schip wor
 
 ##### Artikel 3.30
 
-1. De aangewezen keuringsinstantie neemt deel in de commissie, bedoeld in [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2020-07-08&g=2020-07-08).
+1. De aangewezen keuringsinstantie neemt deel in de commissie, bedoeld in [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2021-10-06&g=2021-10-06).
 
 2. De keuringsinstantie verstrekt de minister onvoorwaardelijk en kosteloos informatie, benodigd voor het uitoefenen van toezicht. Deze omvat in ieder geval de door de accrediterende instelling opgestelde auditrapporten.
 
@@ -5576,7 +5629,7 @@ De aangewezen keuringsinstantie meldt ernstige mankementen die aan een schip wor
 
 De minister kan de aanwijzing van een keuringsinstantie intrekken, indien:
 
-- a. de betrokken keuringsinstantie niet meer voldoet aan de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.25&z=2020-07-08&g=2020-07-08) of [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.30&z=2020-07-08&g=2020-07-08);
+- a. de betrokken keuringsinstantie niet meer voldoet aan de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.25&z=2021-10-06&g=2021-10-06) of [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.30&z=2021-10-06&g=2021-10-06);
 
 - b. de betrokken keuringsinstantie in strijd handelt met deze regeling; of
 
@@ -5622,7 +5675,7 @@ De minister kan de aanwijzing van een keuringsinstantie intrekken, indien:
 
 #### § 6. Gegevensverstrekking
 
-#### § 6. Gegevensverstrekking
+#### § 5. Vervanging en afgifte van duplicaten van vaarbewijzen
 
 ### Hoofdstuk 8. Overige documenten
 
@@ -5634,7 +5687,7 @@ De minister kan de aanwijzing van een keuringsinstantie intrekken, indien:
 
 #### § 1. Overgangsbepalingen
 
-#### § 2. Wijzigingen in andere regelingen
+#### § 1. Overgangsbepalingen
 
 ### Hoofdstuk 13. Slotbepalingen
 
@@ -5658,13 +5711,17 @@ Vervallen
 
 De tachograaf wordt zodanig op het schip geïnstalleerd, dat alle met de tachograaf verband houdende bestanddelen deugdelijk tegen beschadiging zijn beschermd.
 
-### Artikel 1
+### § 1. Typegoedkeuring
 
 ### Artikel 6
 
 De Dienst Wegverkeer kan een erkenning als installateur of reparateur intrekken als aan de voorschriften in deze regeling of in het [Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973) niet wordt voldaan.
 
 ### 1. Minimumeisen aan en aanbevelingen voor de elektronische binnenvaartkaarten
+
+## Bijlage 1.5. : Voorschriften omtrent de kleur en de sterkte der lichten, alsmede omtrent de goedkeuring der navigatielantaarns voor de Rijnvaart, als bedoeld in artikel 1.14, eerste lid
+
+Vervallen
 
 ## Bijlage 1.5. : Voorschriften omtrent de kleur en de sterkte der lichten, alsmede omtrent de goedkeuring der navigatielantaarns voor de Rijnvaart, als bedoeld in artikel 1.14, eerste lid
 
@@ -5686,25 +5743,21 @@ Vervallen
 
 Vervallen
 
-## Bijlage 1.9. als bedoeld in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2020-07-08&g=2020-07-08)
-
-[Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215) (Rsp)
-
 Minimumeisen:
 
 Het vrijboord bedraagt ten minste 0,40 m.
 
-### Artikel 3
+### Artikel 2
+
+De veiligheidsafstand bedraagt ten minste:
 
 Voor passagiersschepen wordt de totale massa P van het boeganker berekend volgens de formule:
-
-P = k.B.T + 4.Af [kg]
 
 ## Bijlage 3.2. : Technische eisen voor Amsterdamse dekschuiten als bedoeld in [artikel 3.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-12-01&g=2014-12-01)
 
 ### Artikel 1
 
-Af: het frontale windvangend oppervlak in m2.
+k: de coëfficiënt als bedoeld in bijlage II van richtlijn 2006/87/EG, artikel 10.01 tweede lid;
 
 ### Artikel 4
 
@@ -5716,13 +5769,13 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 Buitenboordaansluitingen zijn direct op de huid voorzien van een afsluiter. Dit geldt niet voor toiletten die zijn voorzien van een metalen pot, gemonteerd op een dikwandige stalen pijp, zodanig dat de bovenrand van de pot een veiligheidsafstand van ten minste 0,40 m heeft.
 
-De onderdelen van de CNG-installatie zijn bestand tegen de hoogste druk die onder normale bedrijfsomstandigheden kan optreden in het gedeelte van de CNG-installatie waar een onderdeel is aangebracht.
+De constructie van de ramen is van voldoende sterkte, afhankelijk van de hoogte boven de geladen lastlijn en van de zone van het vaarwater.
 
-### Artikel 21. Automatische tankafsluiter
+### Artikel 20. Overdrukbeveiliging CNG-tank
 
 ## Bijlage 3.4. : Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-12-01&g=2014-12-01)
 
-### Artikel 3. Stabiliteit
+### Artikel 2. Schotten
 
 Open rondvaartboten zijn bij gebruik op de binnenwateren van zone 3 van een anker met ankertros van voldoende lengte voor het betrokken vaarwater voorzien. Het gewicht van dit anker bedraagt ten minste 25 kg.
 
@@ -5734,35 +5787,35 @@ Op veerponten met een lengtewaterlijn van 35 m of meer, zijn luidsprekers aanwez
 
 ## Bijlage 3.7. Technische eisen voor veerboten als bedoeld in [artikel 3.4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-12-01&g=2014-12-01)
 
-In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle delen van de sprong binnen de in artikel 2.2, vierde lid, bedoelde veilige zone zijn gelegen.
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle delen van de sprong binnen de in artikel 2.2, vierde lid, bedoelde veilige zone zijn gelegen.
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Hoofdstuk 7. Constructie
+### Artikel 5.2. Vrijboord en veiligheidsafstand
 
 De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie, dieselolie of benzine.
 
 ## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-10-01&g=2011-04-01)
 
-De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie, dieselolie of benzine.
+Naast de in de richtlijn voorgeschreven uitrusting hebben veerboten de volgende uitrusting aan boord:
 
 De minister kan voor de verlenging van het certificaat afzien van een droogstaande keuring als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=5&artikel=3.14&z=2014-07-01&g=2014-07-01), indien de toestand van de romp een controle van binnenuit redelijkerwijs toelaat.
 
-### Artikel 39. Tot keuren bevoegde personen
+### Artikel 38. Bescheiden betreffende elektrische installaties
 
-De meetapparatuur wordt voor ieder gebruik conform de gebruiksaanwijzing door de gebruiker beproefd. Artikel 39 is niet van toepassing.
+In het derde jaar van geldigheid van het certificaat worden door een erkend installateur gekeurd:
 
 Gasolie, dieselolie of benzine wordt opgeslagen in de ladingtanks.
 
-### Artikel 51. Ladingtankdeksels
+### Artikel 49. Maatregelen tijdens het ontgassen
 
 In de ladingzone en in ruimten die niet behoren tot de woning, de winkel of een kantoor geldt een rookverbod en is gebruik van open vuur verboden.
 
 ## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-10-01&g=2011-04-01)
 
-Artikel 4.05 van bijlage II van richtlijn 2006/87/EG is niet van toepassing.
+Met uitzondering van afmeerwerkzaamheden zijn werkzaamheden in de ladingzone waarbij de mogelijkheid van vonkvorming bestaat verboden.
 
 Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
@@ -5770,7 +5823,7 @@ Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
 ### Artikel 2
 
-### Artikel 4
+### Hoofdstuk 2
 
 P = C × B × T
 
@@ -5811,63 +5864,82 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 ### Artikel 18
 
-## Bijlage 5.1. : Minimumbemanning van hechte samenstellen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2011-10-01&g=2011-04-01)
+## Bijlage 3.11. bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.26&z=2021-10-06&g=2021-10-06)
 
-| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groep | Bemanningsleden | A1 | A1 | A1 | A2 | A2 | B | B | B | B |
-| Groep | Bemanningsleden | S1 | S1 | S2 | S1 | S2 | S1 | S1 | S2 | S2 |
-| 1. Afmeting van het samenstel L ≤ 37 m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist of matroos-motordrijver | 1 – – 1 – – | 1 – – 1 – – |   | 2 – – – – – |   | 2 – – 1 1* – | 2 – – 1 1* – | 2 – – – 2* *** – | 2 – – – 2* *** – |
-| 2. Afmeting van het samenstel 37 m < L ≤ 86m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist of matroos-motordrijver | 1 of – 1 – – – | 1 – – 1 1 – | 1 – – 1 1 – ***** | 2 – – – 1* – |   | 2 – – 2 – – | 2 – – 2 – – | 2 – – 1 1 – | 2 – – 1 1 – |
-| 3. Duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤ 116,5 m B ≤ 15 m | schipper stuurman volmatroos matroos**** lichtmatroos machinist of matroos-motordrijver | 1 of 1 – 1 – – ***** | 1 1 – – 2 – | 1 1 – 1 – | 2 – – 1 1* – | 2 – – – 2* – | 2 of 1 – 2 – – | 2 1** – 1 – – | 2 1 – 1 1 – | 2 1 – 1 1 – |
-| 4. Duwboot + 2 duwbakken*) motorschip + 1 duwbak*) | schipper stuurman volmatroos matroos **** lichtmatroos machinist of matroos-motordrijver | 1 1 – 1 1* – | 1 1 – 1 1* – | 1 1 – – 2* – | 2 – – 2 1* – | 2 – – 1 2* – | 2 of 1 – 2 – 1 | 2 1** – 2 – – | 2 of 1 – 1 1 1 | 2 1** – 1 1 – |
-| 5. Duwboot + 3 of 4 duwbakken*) motorschip + 2 of 3 duwbakken*) | schipper stuurman volmatroos matroos**** lichtmatroos Machinist of motordrijver | 1 of 1 – 2 – 1 | 1 1 – 2 2 1 | 1 1 – 1 1 1 | 2 – – 2 1* 1 | 2 – – 1 2* 1 | 2 of 1 – 2 1* 1 | 2 1** – 2 – 1 | 2 of 1 – 1 2 1 | 2 1** – 1 1 1 |
-| 6. Duwboot + meer dan 4 duwbakken*) | schipper stuurman volmatroos matroos**** lichtmatroos machinist of matroos-motordrijver | 1 of 1 – 3 – 1 ***** | 1 1 – 2 2 1 | 1 1 1 1 1 1 | 2 – – 3 1* 1 | 2 – – 2 2* 1 | 2 of 1 – 3 1* 1 | 2 1** – 3 – 1 | 2 of 1 – 2 2* 1 | 2 1** – 2 1 1 |
+| **Pakket 1a. Tankschepen gevaarlijke stoffen onder klasse** |
+| --- |
+| Dit pakket is bij wet voorbehouden aan klassenbureaus |
+|   |
+| **Pakket 1b. Tankschepen gevaarlijke stoffen geen klasse** |
+| **Motortankschip** |
+| type N-gesloten |
+| type N-open met vlamkering |
+| type N-open |
+| **Tankduwbak** |
+| type N-gesloten |
+| type N-open met vlamkering |
+| type N-open |
+| **Sleeptankschip** |
+| type N-gesloten |
+| type N-open met vlamkering |
+| type N-open |
+| **Bunkerboot** |
+| **Bilgeboot** |
+| Schoonmaak-bewaarschip |
+| **Bunkerstation** |
+| Bunkerponton |
+|   |
+| **Pakket 2. Vervoer van droge lading** |
+| **Zeeschip (vervoer droge lading)** |
+| **Motorvrachtschip** |
+| **Vrachtduwbak** |
+| Ponton |
+| Kopbak |
+| Dekschuit |
+| **Zeeschipbak** |
+| **Motortankschip (zonder vervoer ADN)** |
+| **Sleepvrachtschip** |
+| **Sleeptankschip (zonder vervoer ADN)** |
+| **Amsterdamse dekschuit** |
+|   |
+| **Pakket 3. Overige schepen en passagiersschepen tot een lengte van 45m.** |
+| **Sleepboot** |
+| **Sleepboot met duwsteven** |
+| **Sleep-Duwboot** |
+| **Duwboot** |
+| **Passagiersschepen** |
+| Hotelschip |
+| Rondvaartdagboot (dagtochten) |
+| Zeilend passagiersschip |
+| Amsterdams grachtentype |
+| Open rondvaartboot |
+| Skûtsje |
+| **Veerpont** |
+| Auto |
+| Fiets/voet |
+| **Patrouillevaartuig** |
+| Patrouillevaartuig |
+| Oliebestrijdingsvaartuig |
+| Brandblusboot |
+| Reddingsboot |
+| **Pleziervaartuig** |
+| **Snel schip (verplicht klasse na 2023) >40km/h** |
+| **Drijvend werktuig** |
+| Werkvaartuig |
+| Pompoverslagboot |
+| **Drijvend voorwerp** |
+|   |
+| **Pakket 4. Passagiersschepen vanaf 45 m** |
+| **Passagiersschip** |
+| Hotelschip |
+| Rondvaartdagboot (dagtochten) |
+| Zeilend passagiersschip |
+| **Veerboten** |
+| **Veerpont** |
+| Auto |
+| Fiets/voet |
 
-* De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.
-
-** De stuurman bezit de bekwaamheid van schipper als bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2011-10-01&g=2011-04-01).
-
-*** Een van de lichtmatrozen is ouder dan 18 jaar.
-
-**** De matrozen mogen worden vervangen door lichtmatrozen die de leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
-
-***** De minimumbemanning:
-
-a) in de groep 2, exploitatiewijze A 1, Standaard S2; en
-
-b) in de groep 3, 5 en 6 exploitatiewijze A1, Standaard S1
-
-kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning worden met een periode van minimaal één maand onderbroken. Het bezoek aan de schippersschool wordt aangetoond met een verklaring van de schippersschool die zich aan boord bevindt, waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in noot ****.
-
-*) In de groepen 4, 5 en 6 van deze tabel wordt als duwbak aangemerkt al datgene wat tijdens transport geduwd of langszij meegevoerd wordt.
-
-Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere duwbakken met een totale lengte tot en met 76,50 m en een totale breedte tot en met 15 m.
-
-## Bijlage 5.2. : Minimumbemanning voor schepen voor dagtochten als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2011-10-01&g=2011-04-01)
-
-| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groep | Bemanningsleden | A1 | A1 | A1 | A2 | A2 | B | B |
-| Groep | Bemanningsleden | S1 | S1 | S2 | S1 | S2 | S1 | S2 |
-| 1. Toegestaan aantal passagiers: tot en met 75 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 1 – – 1 – – | 1 – – 1 – – |   | 2 – – 1 – – |   | 2 – – 2 – – | 2 – – 1 1 – |
-| 2. Toegestaan aantal passagiers: van 76 tot en met 250 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 1 of – – 1 1 – | 1 – – – – 1 | 1 – – 1 1 – | 2 – – – 1* 1 |   | 2 – – 1 1* 1 |   |
-| 3. Toegestaan aantal passagiers: van 251 tot en met 600 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 1 of – 1 – – 1 | 1 – 1 – 2 – | 1 – 1 – 1 – | 2 – – 1 – 1 | 2 – – – 1 1 | 3 – – 1 – 1 | 3 – – – 1 1 |
-| 4. Toegestaan aantal passagiers: van 601 tot en met 1000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 1 1 – 1 1* 1 | 1 1 – 1 1* 1 | 1 1 – – 2* 1 | 2 – – 2 – 1 | 2 – – 1 1 1 | 3 – – 2 – 1 | 3 – – 1 1 1 |
-| 5. Toegestaan aantal passagiers: van 1001 tot en met 2000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 2 of – – 3 – 1 | 2 – – 2 2 1 | 2 – – 2 1 1 | 2 – – 3 1* 1 | 2 – – 2 2* 1 | 3 – – 3 1* 1 | 3 – – 2 2* 1 |
-| 6. Toegestaan aantal passagiers: meer dan 2000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of matroos-motordrijver | 2 – – 3 1* 1 | 2 – – 3 1* 1 | 2 – – 2 2* 1 | 2 – – 4 – 1 | 2 – – 3 1 1 | 3 – – 4 1* 1 | 3 – – 3 2* 1 |
-
-* De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.
-
-** De matrozen mogen worden vervangen door lichtmatrozen, die de leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
-
-***De minimumbemanning:
-
-a) in groep 2, exploitatiewijze A 1, Standaard S2; en
-
-b) in de groepen 3 en 5, exploitatiewijze A1, Standaard S1
-
-kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning worden met een periode van minimaal één maand onderbroken. Het bezoek aan de schippersschool wordt aangetoond met een verklaring van de schippersschool die zich aan boord bevindt, waarin de tijden van het schoolbezoek zijn aangegeven.
+## Bijlage 3.12. Technische eisen voor kleine drijvende werktuigen als bedoeld in [artikel 3.4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
 
 ## Bijlage 5.1. : Minimumbemanning van hechte samenstellen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2014-12-01&g=2014-12-01)
 
@@ -5986,15 +6058,15 @@ De minimumbemanning van sleepboten gedurende de tijd dat havensleepdiensten word
 
 *** Paaltrek: de maximale trekkracht die het schip via een sleepdraad kan uitoefenen op een te slepen object als aangegeven op een certificaat, afgegeven door een binnen de sfeer van de sleepvaart algemeen daartoe erkende organisatie. Indien geen certificaat betreffende de paaltrek wordt overgelegd, wordt voor de paaltrek een trekkracht aangenomen van 20 kg/kW van het geïnstalleerde voortstuwingsvermogen.
 
-De lenspomp bedoeld in artikel 22.02, derde lid, onderdeel a, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2020-07-08&g=2020-07-08) bij deze regeling, mag worden vervangen door een handmatig aangedreven pomp met een minimale capaciteit van 40 liter per minuut.
+In afwijking van artikel 8.01, derde lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2021-10-06&g=2021-10-06) bij deze regeling mag op drijvende werktuigen voor buitenboordmotoren brandstof met een vlampunt van 55 °C of lager worden gebruikt, mits de brandstoftank geen grotere inhoud heeft dan 25 liter.
 
-De bescheiden bedoeld in artikel 10.01, tweede lid, van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a&z=2020-07-08&g=2020-07-08) bij deze regeling, zijn te allen tijde beschikbaar bij de exploitant van het drijvend werktuig.
+Het tijdens het bedrijf van een drijvend werktuig vrijkomende oliehoudende water wordt aan boord verzameld in de machinekamer-bilge.
 
 Niet goed met insuline of orale antidiabetica instelbare Diabetes Mellitus of het optreden van hypoglykemieën, is een reden voor ongeschiktheid. Bij Insuline afhankelijke Diabetes Mellitus is de geschiktheid in het algemeen beperkt tot een periode van vijf jaar.
 
 ### Hoofdstuk 2. Keuringseisen
 
-### Artikel 8
+### Artikel 10. Inbeiteling van ijk- en metingsmerken
 
 Niet goed met insuline of orale antidiabetica instelbare Diabetes Mellitus of het optreden van hypoglykemieën, is een reden voor ongeschiktheid. Bij Insuline afhankelijke Diabetes Mellitus is de geschiktheid in het algemeen beperkt tot een periode van vijf jaar.
 
@@ -6008,7 +6080,7 @@ Van groot belang is vooral het tijdig herkennen en (laten) behandelen van die aa
 
 ## Bijlage 7.1. : Erkende vaarbewijzen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2011-10-01&g=2011-04-01)
 
-### Artikel 4. Waakzaamheid en concentratievermogen
+### Artikel 2. Overleg met de medisch adviseur
 
 ### 1.1. Voor het groot vaarbewijs en beperkt groot vaarbewijs op alle binnenwateren
 
@@ -6020,9 +6092,9 @@ Van groot belang is vooral het tijdig herkennen en (laten) behandelen van die aa
 
 (achterzijde)
 
-(85 mm × 54 mm – achtergrond blauw)
+Bij een progressieve of chronische oogaandoening is een specialistisch rapport vereist, waaruit blijkt dat het gezichtsvermogen niet dusdanig wordt bedreigd dat binnen afzienbare tijd niet meer kan worden voldaan aan de criteria:
 
-### Artikel 11. Geestesziekten
+### Artikel 8
 
 (85 mm x 54 mm – achtergrond blauw)
 
@@ -6124,19 +6196,19 @@ Vervallen
 
 [Reglement onderzoek schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0025973)
 
+## Bijlage 1.1. Reglement onderzoek schepen op de Rijn
+
+[Reglement onderzoek schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0025973)
+
 ## Bijlage 1.1a. Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen
 
 [Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0041395)
 
-## Bijlage 1.2. : Patentreglement Rijn als bedoeld in artikel 1.9
+## Bijlage 1.3. : Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen (RVP) als bedoeld in artikel 1.13
 
 Vervallen
 
-## Bijlage 1.4. Voorschriften met betrekking tot typegoedkeuring en installatie tachografen Rijnvaart als bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.8&z=2020-07-08&g=2020-07-08)
-
-## Bijlage 1.6. : Voorschriften omtrent de minimum eisen en de keuringsvoorwaarden voor radarinstallaties voor de Rijnvaart, als bedoeld in artikel 1.15, eerste lid
-
-Vervallen
+## Bijlage 1.4. Voorschriften met betrekking tot typegoedkeuring en installatie tachografen Rijnvaart als bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.8&z=2021-10-06&g=2021-10-06)
 
 Het vrijboord bedraagt ten minste 0,40 m.
 
@@ -6152,11 +6224,11 @@ Voor passagiersschepen wordt de totale massa P van het boeganker berekend volgen
 
 ### 3. Minimumeisen aan en aanbevelingen voor de software waarmee elektronische binnenvaartkaarten gevisualiseerd kunnen worden
 
-Aanbevelingen:
+Minimumeisen:
 
-## Bijlage 3.3. : Technische eisen voor rondvaartboten van het Amsterdams grachtentype als bedoeld in [artikel 3.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-12-10&g=2011-12-10)
+## Bijlage 3.1. Aanvullende voorschriften voor passagierschepen op zone 2 als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2021-10-06&g=2021-10-06)
 
-Onverminderd het in deze bijlage bepaalde, voldoen rondvaartboten van het Amsterdamse grachtentype aan bijlage II van [richtlijn 2006/87/EG](32006L0087) met uitzondering van de artikelen 3.03, eerste lid, 7.02, 8.01, derde lid, voor zover van toepassing op de hoofdmotor, 10.01, 10.02, eerste lid, onder d, en tweede lid, onder, c, d, e, g en h, 10.03, eerste lid, 10.05, eerste lid, 11.04, 11.02, tweede lid en vierde lid, betreffende hekwerk of verschansing, 15.05, 15.06, vierde lid, zesde lid onder f, elfde lid en zeventiende lid, 15.09, 15.11, zeventiende lid, 15.12, tweede tot en met negende lid, 15.12, eerste lid, 15.10, derde en zesde lid, en 15.13.
+In deze bijlage wordt verstaan onder:
 
 ## Bijlage 3.4. : Technische eisen voor open rondvaartboten als bedoeld in [artikel 3.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-12-10&g=2011-12-10)
 
@@ -6176,9 +6248,9 @@ In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle 
 
 ## Bijlage 3.7. Technische eisen voor veerboten als bedoeld in [artikel 3.4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-12-10&g=2011-12-10)
 
-‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
+Op veerponten met een lengtewaterlijn van 35 m of meer, zijn luidsprekers aanwezig waarmee alle passagiers kunnen worden bereikt.
 
-### Artikel 8.5. Ankergerei
+### Artikel 8.6. Bijboot
 
 4.01 tot en met 4.03, 15.02, tweede tot en met dertiende lid, 15.03, 15.04, 15.05, tweede lid, 15.07, 15.09, eerste lid, tweede alinea.
 
@@ -6186,7 +6258,7 @@ In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle 
 
 ‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
 
-Op veerboten die tussen 1 juli 2009 en 1 januari 2011 zijn voorzien van een certificaat van onderzoek zijn van toepassing:
+‘Door een daartoe strekkende opdracht aan het personeel wordt verzekerd, dat alle openingen en deuren in waterdichte schotten in geval van gevaar onverwijld waterdicht worden gesloten’.
 
 ## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2011-12-10&g=2011-12-10)
 
@@ -6198,7 +6270,7 @@ Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en he
 
 In het derde jaar van geldigheid van het certificaat worden door een erkend installateur gekeurd:
 
-### Artikel 39. Tot keuren bevoegde personen
+### Artikel 37. Verklaring bij brandblustoestellen
 
 Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeistoffen met een vlampunt beneden 55 °C zijn verboden.
 
@@ -6206,15 +6278,15 @@ Schoonmaakwerkzaamheden in de onderdeks gelegen ladingzone met behulp van vloeis
 
 Patrouillevaartuigen met een lengte korter dan 20 meter die zich ter onderzoek aanbieden voldoen aan deze bijlage met uitzondering van het bepaalde in dit hoofdstuk.
 
-Patrouillevaartuigen behoeven geen hekanker te hebben.
+Voor bunkerstations die op 1 februari 2002 reeds in bedrijf waren geldt dat:
 
-### Artikel 5
+### Artikel 3
 
-### Hoofdstuk 3. Aanvullende eisen aan de uitrusting voor patrouillevaartuigen op zone 2
+### Artikel 4
 
 ## Bijlage 4.1. Metingsvoorschriften als bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2011-12-10&g=2011-12-10) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2011-12-10&g=2011-12-10)
 
-### Artikel 12
+### Artikel 10
 
 ## Bijlage 3.11. bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.26&z=2014-12-01&g=2014-12-01)
 
@@ -6328,11 +6400,11 @@ Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere d
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-Van groot belang is vooral het tijdig herkennen en (laten) behandelen van die aandoeningen die een duidelijk risicoverhogende factor betekenen. In het algemeen dient de betrokkene om in aanmerking te komen voor een geneeskundige verklaring vrij te zijn van enige afwijking, ziekte of verwonding die een veilige uitoefening van de werkzaamheden belemmert. Daarnaast mag de aanwezigheid van de betrokkene aan boord geen gevaar opleveren voor de gezondheid van de overige opvarenden.
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 Indien bij de beoordeling van de geschiktheid twijfels rijzen, vindt daarover overleg plaats met de medisch adviseur scheepvaart. De verantwoordelijkheid voor de beslissing blijft echter bij de keurend arts.
 
-Bij de keuring is men zich terdege bewust van de specifieke werkomstandigheden aan boord, die afhankelijk van het soort schip en vaargebied sterk kunnen variëren:
+Deze bijlage is van toepassing op drijvende werktuigen die werkzaamheden uitvoeren op wateren van zone 4 en waarvan:
 
 Rekening wordt gehouden met het feit dat er aan boord vele werkzaamheden zijn waarbij langdurige concentratie is vereist:
 
@@ -6346,7 +6418,7 @@ Niet goed met insuline of orale antidiabetica instelbare Diabetes Mellitus of he
 
 ## Bijlage 6.3. : Model verklaring van medische ongeschiktheid als bedoeld in [artikel 6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.6&z=2011-12-10&g=2011-12-10)
 
-## Bijlage 6.2. : Model geneeskundige verklaring binnenvaart als bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.5&z=2012-11-14&g=2012-07-01)
+## Bijlage 4.1. Metingsvoorschriften als bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2021-10-06&g=2021-10-06) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2021-10-06&g=2021-10-06)
 
 Als één of meer vragen met JA zijn beantwoord moet u een arts een toelichting laten schrijven waarmee de aard en de ernst van de aandoening worden verduidelijkt, zodat de medisch adviseur vaarbewijzen kan beoordelen of u voldoet aan de keuringseisen.
 
@@ -6354,7 +6426,7 @@ Bij gebruik van geneesmiddelen laat de arts zich leiden door de navolgende richt
 
 ## Bijlage 7.1. Erkende vaarbewijzen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2011-12-10&g=2011-12-10) en met het groot pleziervaartbewijs gelijkgestelde vaarbewijzen als bedoeld in [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2011-12-10&g=2011-12-10)
 
-Bij de keuring is men zich terdege bewust van de specifieke werkomstandigheden aan boord, die afhankelijk van het soort schip en vaargebied sterk kunnen variëren:
+Van groot belang is vooral het tijdig herkennen en (laten) behandelen van die aandoeningen die een duidelijk risicoverhogende factor betekenen. In het algemeen dient de betrokkene om in aanmerking te komen voor een geneeskundige verklaring vrij te zijn van enige afwijking, ziekte of verwonding die een veilige uitoefening van de werkzaamheden belemmert. Daarnaast mag de aanwezigheid van de betrokkene aan boord geen gevaar opleveren voor de gezondheid van de overige opvarenden.
 
 ## Bijlage 7.1. Erkende vaarbewijzen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2014-12-01&g=2014-12-01) en met het groot pleziervaartbewijs gelijkgestelde vaarbewijzen als bedoeld in [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2014-12-01&g=2014-12-01)
 
@@ -6409,9 +6481,9 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ##### Artikel 7.9b
 
-1. Als vaarbewijs als bedoeld in [artikel 35b, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b), worden aangewezen het groot vaarbewijs A, het groot vaarbewijs B, het beperkt groot vaarbewijs A, het beperkt groot vaarbewijs B, het klein vaarbewijs I, het klein vaarbewijs II, het vrijstellingsbewijs, bedoeld in [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2020-07-08&g=2020-07-08), het zeilbewijs, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2020-07-08&g=2020-07-08), alsmede een erkend buitenlands bewijs van vaarbekwaamheid als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2020-07-08&g=2020-07-08).
+1. Als vaarbewijs als bedoeld in [artikel 35b, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b), worden aangewezen het groot vaarbewijs A, het groot vaarbewijs B, het beperkt groot vaarbewijs A, het beperkt groot vaarbewijs B, het klein vaarbewijs I, het klein vaarbewijs II, het vrijstellingsbewijs, bedoeld in [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2021-10-06&g=2021-10-06), het zeilbewijs, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2021-10-06&g=2021-10-06), alsmede een erkend buitenlands bewijs van vaarbekwaamheid als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2021-10-06).
 
-2. Als categorieën vaarbewijzen, bedoeld in de [artikelen 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=48), en [49, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=49), worden aangewezen het klein vaarbewijs I, het klein vaarbewijs II, alsmede erkende buitenlandse bewijzen van vaarbekwaamheid als bedoeld in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2020-07-08&g=2020-07-08), onderdelen 1.3 en 1.4.
+2. Als categorieën vaarbewijzen, bedoeld in de [artikelen 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=48), en [49, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=49), worden aangewezen het klein vaarbewijs I, het klein vaarbewijs II, alsmede erkende buitenlandse bewijzen van vaarbekwaamheid als bedoeld in [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=7.1&z=2021-10-06&g=2021-10-06), onderdelen 1.3 en 1.4.
 
 #### § 2. Erkenningen
 
@@ -6419,7 +6491,7 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ##### Artikel 7.19a
 
-De vaartijd bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2020-07-08&g=2020-07-08), wordt verminderd met drie jaar voor de aanvrager die:
+De vaartijd bedoeld in [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=4&artikel=7.18&z=2021-10-06&g=2021-10-06), wordt verminderd met drie jaar voor de aanvrager die:
 
 - a. houder is van de verklaring praktijkexamen vaartijd, ten bewijze dat hij met goed gevolg het praktijkexamen schipper binnenvaart van het CBR heeft afgelegd; of
 
@@ -6459,13 +6531,13 @@ Voor de dompelpomp is een capaciteit van 3000 l/uur voldoende.
 
 ## Bijlage 3.6. Technische eisen voor veerponten als bedoeld in [artikel 3.4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2013-04-01&g=2013-04-01)
 
-Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ## Bijlage 3.7. Technische eisen voor veerboten als bedoeld in [artikel 3.4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2013-04-01&g=2013-04-01)
 
 Op veerponten met een lengtewaterlijn van 35 m of meer, zijn luidsprekers aanwezig waarmee alle passagiers kunnen worden bereikt.
 
-Veerboten zijn uitgerust met draagbare vluchtmaskers die een werkingsduur van ten minste 15 minuten hebben. Het aantal daarvan bedraagt ten minste vier vermeerderd met twee voor elk dek dat is bestemd voor voertuigen op meer dan twee wielen. De vluchtmaskers worden op een geschikte plaats aangebracht. Zij zijn voorzien van duidelijke aanwijzingen met betrekking tot het gebruik.
+De bepalingen van de hoofdstukken 2 tot en met 10 van deze bijlage zijn van toepassing op veerboten, tenzij uitdrukkelijk anders bepaald.
 
 Op veerboten die tussen 1 juli 2009 en 1 januari 2011 zijn voorzien van een certificaat van onderzoek zijn van toepassing:
 
@@ -6483,19 +6555,56 @@ Het bunkerstation is voorzien van duidelijke borden met het toegangsverbod en he
 
 ### Artikel 33. Brandblusvoorzieningen
 
-### Artikel 53. Motoren
+### Artikel 51. Ladingtankdeksels
 
-Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+In de ladingzone en in ruimten die niet behoren tot de woning, de winkel of een kantoor geldt een rookverbod en is gebruik van open vuur verboden.
 
 ## Bijlage 3.10. Model van het certificaat van onderzoek voor bunkerstations als bedoeld in [3.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2013-04-01&g=2013-04-01)
 
 ## Bijlage 3.10. Model van het certificaat van onderzoek voor bunkerstations als bedoeld in [3.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2014-07-01&g=2014-07-01)
 
-L: de grootste lengte van het schip in m, het roer en de boegspriet niet inbegrepen.
+C = 15 + (L – 15) × 1,5
 
 ## Bijlage 6.3. : Model verklaring van medische ongeschiktheid als bedoeld in [artikel 6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.6&z=2012-11-14&g=2012-07-01)
 
-## Bijlage 5.6. Minimumbemanning voor sleepschepen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08)
+## Bijlage 5.2. Minimumbemanning voor schepen voor dagtochten als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
+
+| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Groep | Bemanningsleden | A1 | A1 | A1 | A2 | A2 | B | B |
+| Groep | Bemanningsleden | S1 | S1 | S2 | S1 | S2 | S1 | S2 |
+| 1. Toegestaan aantal passagiers: tot en met 75 | schipper stuurman volmatroos matroos** lichtmatroos machinist of volmatroos | 1 – – 1 – – | 1 – – 1 – – |   | 2 – – 1 – – |   | 2 – – 2 – – | 2 – – 1 1 – |
+| 2. Toegestaan aantal passagiers: van 76 tot en met 250 | schipper stuurman volmatroos matroos** lichtmatroos machinist of volmatroos | 1 of – – 1 1 – | 1 – – – – 1 | 1 – – 1 1 – | 2 – – – 1* 1 |   | 2 – – 1 1* 1 |   |
+| 3. Toegestaan aantal passagiers: van 251 tot en met 600 | schipper stuurman volmatroos matroos** lichtmatroos machinist | 1 of – 1 – – 1*** | 1 – 1 – 2 –*** | 1 – 1 – 1 –*** | 2 – – 1 – 1**** | 2 – – – 1 1**** | 3 – – 1 – 1**** | 3 – – – 1 1**** |
+| 4. Toegestaan aantal passagiers: van 601 tot en met 1.000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of volmatroos | 1 1 – 1 1* 1 | 1 1 – 1 1* 1 | 1 1 – – 2* 1 | 2 – – 2 – 1 | 2 – – 1 1 1 | 3 – – 2 – 1 | 3 – – 1 1 1 |
+| 5. Toegestaan aantal passagiers: van 1.001 tot en met 2.000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of volmatroos | 2 of – – 3 – 1 | 2 – – 2 2 1 | 2 – – 2 1 1 | 2 – – 3 1* 1 | 2 – – 2 2* 1 | 3 – – 3 1* 1 | 3 – – 2 2* 1 |
+| 6. Toegestaan aantal passagiers: meer dan 2000 | schipper stuurman volmatroos matroos** lichtmatroos machinist of volmatroos | 2 – – 3 1* 1 | 2 – – 3 1* 1 | 2 – – 2 2* 1 | 2 – – 4 – 1 | 2 – – 3 1 1 | 3 – – 4 1* 1 | 3 – – 3 2* 1 |
+
+* De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.
+
+** De matrozen mogen worden vervangen door lichtmatrozen, die de leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
+
+*** De machinist mag worden vervangen door een matroos.
+
+**** De machinist mag worden vervangen door een volmatroos.
+
+***** De minimumbemanning:
+
+a) in de groep 2, exploitatiewijze A1, Standaard S2;
+
+b) in de groep 3, exploitatiewijze A1, Standaard S1;
+
+c) in de groep 4, exploitatiewijze A1, Standaard S2;
+
+d) in de groep 5, exploitatiewijze A1, Standaard S1, exploitatiewijze A2, Standaard S2, en exploitatiewijze B, Standaard S2; en
+
+e) in de groep 6, exploitatiewijze A1, Standaard S2, en exploitatiewijze B, Standaard S2.
+
+kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning worden met een periode van minimaal één maand onderbroken. Het bezoek aan de schippersschool wordt aangetoond met een verklaring van de schippersschool die zich aan boord bevindt, waarin de tijden van het schoolbezoek zijn aangegeven.
+
+### 1.4. Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op rivieren, kanalen en meren.
+
+## Bijlage 5.6. Minimumbemanning voor sleepschepen als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
 
 | Groepen naar lengte (L) van het schip | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
 | --- | --- | --- | --- | --- |
@@ -6508,21 +6617,17 @@ L: de grootste lengte van het schip in m, het roer en de boegspriet niet inbegre
 | L > 86 m | volmatroos | 0 | 0 | 1 |
 | L > 86 m | matroos | 1 | 0 | 0 |
 
-### 1.4. Voor het klein vaarbewijs alsmede, mits behaald vóór 1 juli 2011, voor het groot pleziervaartbewijs op rivieren, kanalen en meren.
-
-## Bijlage 7.3. : Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2012-11-14&g=2012-07-01)
-
-### Model-groot vaarbewijs A en B voor de binnenvaart
+### Hoofdstuk 1. Algemene keuringsaanwijzingen
 
 (85 mm x 54 mm – achtergrond blauw)
 
-Bij een progressieve of chronische oogaandoening is een specialistisch rapport vereist, waaruit blijkt dat het gezichtsvermogen niet dusdanig wordt bedreigd dat binnen afzienbare tijd niet meer kan worden voldaan aan de criteria:
+medisch ongeschikt voor de binnenvaart is de persoon, die lijdt aan een ziekte, afwijking of verwonding:
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
+Indien de veerpont in ledige toestand een waterverplaatsing heeft van meer dan 75m3 dient er een bijboot aanwezig te zijn.
 
-Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
+In een dwarsschot is het toegestaan een sprong of nis aan te brengen, mits alle delen van de sprong binnen de in artikel 2.2, vierde lid, bedoelde veilige zone zijn gelegen.
 
 ## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2013-04-01&g=2013-04-01)
 
@@ -6617,7 +6722,7 @@ Bij een progressieve of chronische oogaandoening is een specialistisch rapport v
 
 Van de verplichting bedoeld in [artikel 2, tweede lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=2), zijn vrijgesteld veerponten die de stroom dwars oversteken.
 
-### Hoofdstuk 10. Toezicht en handhaving
+### Hoofdstuk 9. Registratie en statistiek
 
 ### Hoofdstuk 11. Bestuurlijke boete
 
@@ -6631,7 +6736,7 @@ Van de verplichting bedoeld in [artikel 2, tweede lid, van het Binnenvaartbeslui
 
 ### 1. Minimumeisen aan en aanbevelingen voor de elektronische binnenvaartkaarten
 
-de meest recente officiële elektronische navigatiekaarten gebruiken.
+Aanbeveling:
 
 ## Bijlage 3.2. : Technische eisen voor Amsterdamse dekschuiten als bedoeld in [artikel 3.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-07-01&g=2014-07-01)
 
@@ -6657,7 +6762,7 @@ De ladingtanks zijn gebouwd voor of aangepast aan opslag en levering van gasolie
 
 Draagbare lampen in gebruik in de ladingzone en aan dek zijn voorzien van een eigen stroombron en zijn explosieveilig uitgevoerd.
 
-De meetapparatuur wordt voor ieder gebruik conform de gebruiksaanwijzing door de gebruiker beproefd. Artikel 39 is niet van toepassing.
+Elektrische inrichtingen verkeren in onberispelijke staat.
 
 Gasolie, dieselolie of benzine wordt opgeslagen in de ladingtanks.
 
@@ -6665,17 +6770,28 @@ Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderd
 
 Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderdeel f, wordt tevens aangebracht op de toestellen.
 
-Het is verboden motoren te gebruiken die gebruik maken van een brandstof met een vlampunt lager dan 55 °C.
+Het bewijs van beproeving van brandblustoestellen, bedoeld in artikel 35, onderdeel f, wordt tevens aangebracht op de toestellen.
 
 ## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-07-01&g=2014-07-01)
 
 ## Bijlage 6.4. Model eigen verklaring als bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.9&z=2014-07-01&g=2014-07-01)
 
-Instructies voor de arts voor het opstellen van een verklaring over de aan de ommezijde met JA beantwoorde vragen:
+Behoudens het bepaalde in artikel 8, tweede lid, wordt het inbeitelen van de ijk- en metingsmerken, dan wel het plaatsen van de ijkplaten door een bekwaam vakman onder toezicht en volgens aanwijzing van de minister gedaan.
 
-## Bijlage 6.1. Keuringsaanwijzingen en keuringseisen als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2020-07-08&g=2020-07-08)
+## Bijlage 5.5. Minimumbemanning voor veerboten1Indien zonder passagiers gevaren wordt, kan volstaan worden met een schipper, een stuurman, een 1e machinist en een 2e machinist. als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
 
-## Bijlage 7.3. : Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2014-07-01&g=2014-07-01)
+| Groep naar toegestaan aantal passagiers | Bemanningsleden | Aantal bemanningsleden |
+| --- | --- | --- |
+| 1. max. 300 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 – |
+| 2. max. 600 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 1 |
+| 3. max. 900 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 2 |
+| 4. max. 1200 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 3 |
+| 5. max. 1500 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 4 |
+| 6. max. 1750 passagiers | schipper stuurman 1e machinist 2e machinist 2 matroos lichtmatroos | 1 1 1 1 1 5 |
+
+2De 2e machinist kan vervallen indien er sprake is van een eenmansbediening met betrekking tot de voortstuwingsmiddelen en de stuurinrichting.
+
+## Bijlage 6.1. Keuringsaanwijzingen en keuringseisen als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2021-10-06&g=2021-10-06)
 
 ## Bijlage 7.2. : Erkende bewijzen van vaarbekwaamheid, onderscheidenlijk diploma’s en opleidingen, die geheel respectievelijk gedeeltelijk dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren als bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2014-12-01&g=2014-12-01)
 
@@ -6687,7 +6803,7 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ##### Artikel 1.17a
 
-Het Inland ECDIS-apparaat in de informatiemodus, het daarmee vergelijkbare visualiseringssysteem en de elektronische binnenvaartkaarten moeten aan de in [bijlage 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.10&z=2020-07-08&g=2020-07-08) opgenomen minimumeisen voldoen.
+Het Inland ECDIS-apparaat in de informatiemodus, het daarmee vergelijkbare visualiseringssysteem en de elektronische binnenvaartkaarten moeten aan de in [bijlage 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.10&z=2021-10-06&g=2021-10-06) opgenomen minimumeisen voldoen.
 
 #### § 5. De commissie van deskundigen en de technische commissie
 
@@ -6763,7 +6879,7 @@ De geneeskundige verklaringen van artsen behorend tot of aangesteld door de in b
 
 Op niet-vrijvarende veerponten is de opstelling van de voertuigen zodanig dat het uitzicht tijdens de vaart in alle richtingen voldoende is.
 
-Indien de in artikel 2.2 bedoelde openingen en deuren zijn toegestaan, wordt in het certificaat het volgende bedrijfsvoorschrift opgenomen:
+De begripsbepalingen in [artikel 1.01 van bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=1.01) zijn van overeenkomstige toepassing op deze bijlage.
 
 ## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2014-12-01&g=2014-12-01)
 
@@ -6805,65 +6921,32 @@ De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, 
 
 ## Bijlage 6.1. Keuringsaanwijzingen en keuringseisen als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.4&z=2014-12-01&g=2014-12-01)
 
-### Artikel 6. Uitgangspunten voor afkeuring
+### Artikel 4. Algemene bepalingen voor de lastlijn van vaartuigen, die niet bestemd of gebruikt zijn voor het vervoer van goederen
 
-## Bijlage 5.7. Minimumbemanning van sleepboten en sleepboten die havendiensten verrichten als bedoeld in [artikel 5.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2020-07-08&g=2020-07-08)
+## Bijlage 5.3. Minimumbemanning voor stoomschepen voor dagtochten als bedoeld in [artikel 5.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
 
-De minimumbemanning van sleepboten bestaat uit:
+| Groep | Bemanningsleden | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Groep | Bemanningsleden | A1 | A1 | A1 | A1 | A2 | A2 | A2 | B | B | B |
+| Groep | Bemanningsleden | S1 | S1 | S1 | S2 | S1 | S2 | S2 | S1 | S1 | S2 |
+| 1. Toegestaan aantal passagiers: van 501 tot en met 1.000 | schipper stuurman volmatroos matroos*** lichtmatroos machinist of volmatroos** | 1 1 – 2 – 2 | 1 1 – 2 – 2 | 1 1 – 2 – 2 | 1 1 – 1 1 2 | 2 – – 2 – 2 | 2 – – 1 1 2 | 2 – – 1 1 2 | 3 – – 2 – 3 | 3 – – 2 – 3 | 3 – – 1 1 3 |
+| 2. Toegestaan aantal passagiers: van 1.001 tot en met 2.000 | schipper stuurman volmatroos matroos*** lichtmatroos**** Machinist of volmatroos | 2 of – – 3 – 3 | 2 of – – 3 – 3 | 2 – – 2 2 3 | 2 – – 2 1 3 | 2 – – 3 1* 3 | 2 – – 2 2* 3 | 2 – – 2 2* 3 | 3 – – 3 1* 3 | 3 – – 3 1* 3 | 3 – – 2 2* 3 |
 
-| Groepen naar het vermogen P van de voortstuwingsmotoren in kW | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
-| --- | --- | --- | --- | --- |
-| Groepen naar het vermogen P van de voortstuwingsmotoren in kW | Bemanningsleden | A1 | A2 | B |
-| 1. P < 500 | schipper | 1 | 1 | 2 |
-| 1. P < 500 | matroos | 1 * | 1 | – |
-| 2. 500 > P < 1250 ** | schipper | 1 | 2 | 2 |
-| 2. 500 > P < 1250 ** | matroos | 1 | – | 1 |
-| 3. 1250 > P < 3750 ** | schipper | 1 | 2 | 2 |
-| 3. 1250 > P < 3750 ** | volmatroos | 1 | 1 | 1 |
-| 3. 1250 > P < 3750 ** | matroos | 1 | 1 | 2 |
-| 4. P > 3750 | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. |
+* De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.
 
-* Voor de vaart op de Rijn buiten Nederland bestaat de minimumbemanning uit een schipper en een matroos. De matroos is binnenlands niet nodig.
+** De minister bepaalt of machinisten of volmatrozen vereist zijn en vult dat in het Certificaat van Onderzoek in onder nummer 52.
 
-** Indien een schip, ingedeeld in groep 2 dan wel in groep 3, voldoet aan de volgende bepalingen betreffende de bouw en de inrichting wordt de minimumbemanning verminderd met één matroos:
+*** De matrozen mogen worden vervangen door lichtmatrozen, die de leeftijd van 17 jaar hebben bereikt, zich ten minste in het laatste leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
 
-a. alle belangrijke bedieningsapparatuur en signalerings- en controle instrumenten voor de hoofdaandrijfinstallaties, de stroomvoorziening en overige voor het bedrijf belangrijke installaties, zijn in het stuurhuis aangebracht;
+**** De minimumbemanning kan
 
-b. een schip dat is ingedeeld in groep 2 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een kaapstander of een draadberglier;
+a) in de groep 2, exploitatiewijze A1, Standaard S1,
 
-c. een schip dat is ingedeeld in groep 3 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een draadberglier;
+b) in de groep 2, exploitatiewijze A2, Standaard S2, en
 
-d. sleeplieren en draadberglieren kunnen zowel vanaf het dek als vanaf de brug worden bediend;
+c) in de groep 2, exploitatiewijze B, Standaard S2,
 
-e. er is een noodbediening waarmee de sleeplier dan wel de sleephaak kan worden gevierd c.q. geslipt, welke ook in geval van stroomuitval vanaf het dek is verzekerd;
-
-f. stuurstellingen op de brug zijn zodanig geplaatst en uitgevoerd dat bij alle voorkomende manoeuvreeromstandigheden een volledig overzicht door degene die het vaartuig voert, is gegarandeerd;
-
-g. bedieningsapparatuur is aangebracht binnen het bereik van degene die het vaartuig voert. Zowel bij de bedieningsplaats voor de sleeplier dan wel de draadberglier als op de plaats waar signalerings- en controle instrumenten kunnen worden waargenomen, is voldoende ruimte aanwezig zodat de bediening van de sleeplier dan wel de draadberglier door degene die het vaartuig voert niet bemoeilijkt wordt bij het uitvoeren van zijn werkzaamheden;
-
-h. het schip is voorzien van een radarinstallatie, waarvan het radarbeeld zonder kap of scherm, ongeacht de buiten het stuurhuis heersende lichtomstandigheden, duidelijk zichtbaar is;
-
-i. door adequate middelen is gewaarborgd dat onder alle weersomstandigheden door de ruiten die in de belangrijkste blikrichtingen zijn gelegen, helder zicht mogelijk is;
-
-j. gemeenschappelijke reddingmiddelen zijn zodanig opgesteld dat zij door slechts één bemanningslid te water kunnen worden gelaten;
-
-k. regelbare dekverlichting voor het belichten van de sleeplijn, die vanuit het stuurhuis kan worden bediend, is geïnstalleerd. De lampen voor het werkdek zijn zo geplaatst en zodanig uitgevoerd dat een ongestoorde verlichting van het werkdek is verzekerd en voorts geen gevaar bestaat voor verblinding van degene die het vaartuig voert. Hierbij is met name rekening gehouden met het geval van mist; en
-
-l. De Minister van Infrastructuur en Milieu geeft een verklaring af waaruit blijkt dat wordt voldaan aan deze bepalingen.
-
-De minimumbemanning van sleepboten gedurende de tijd dat havensleepdiensten worden verricht bestaat uit:
-
-| Paaltrek*** F < 15 ton | 1 schipper |
-| --- | --- |
-| Paaltrek*** F < 15 ton | 1 matroos |
-| 15 > F ≤ 25 ton | 1 schipper |
-| 15 > F ≤ 25 ton | 2 matrozen |
-| 25 > F ≤ 75 ton | 1 schipper |
-| 25 > F ≤ 75 ton | 1 volmatroos |
-| 25 > F ≤ 75 ton | 2 matrozen |
-| F > 75 ton | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. |
-
-*** Paaltrek: de maximale trekkracht die het schip via een sleepdraad kan uitoefenen op een te slepen object als aangegeven op een certificaat, afgegeven door een binnen de sfeer van de sleepvaart algemeen daartoe erkende organisatie. Indien geen certificaat betreffende de paaltrek wordt overgelegd, wordt voor de paaltrek een trekkracht aangenomen van 20 kg/kW van het geïnstalleerde voortstuwingsvermogen.
+voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. De eerste zin, onderdeel b en c zijn slechts van toepassing wanneer gedurende de tijd dat de ene lichtmatroos een schippersschool bezoekt, de tweede lichtmatroos aan boord is. Deze bepalingen gelden niet voor de lichtmatroos zoals bedoeld in noot ***.
 
 (achterzijde)
 
@@ -6985,7 +7068,7 @@ Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraa
 
 ## Bijlage 3.7. Technische eisen voor veerboten als bedoeld in [artikel 3.4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2017-12-01&g=2017-12-01)
 
-Onverminderd het in deze bijlage bepaalde, voldoen veerboten aan hoofdstuk 3 tot en met hoofdstuk 15 alsmede hoofdstuk 24a van bijlage II van richtlijn 2006/87/EG met uitzondering van de artikelen:
+[4.01 tot en met 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=4.01), [19.02, tweede tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.02), [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.03), [19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.04), [19.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.05), [19.07](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.07), [19.09, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.09).
 
 ## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2017-12-01&g=2017-12-01)
 
@@ -6993,86 +7076,13 @@ Elektrische inrichtingen verkeren in onberispelijke staat.
 
 ## Bijlage 3.9. : Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2017-12-01&g=2017-12-01)
 
-Patrouillevaartuigen zijn uitgerust met één of twee boegankers waarvan het totale gewicht P in kg wordt berekend met de formule:
+Patrouillevaartuigen met een lengte korter dan 20 meter die zich ter onderzoek aanbieden voldoen aan deze bijlage met uitzondering van het bepaalde in dit hoofdstuk.
 
-In deze formule betekent:
+Patrouillevaartuigen met een lengte van meer dan 15 meter zijn voorzien van een loopplank die ten minste 3,0 m lang en 0,4 m breed is en is voorzien van lichtgeschilderde banden langs de zijkanten en een handreling.
 
 Voor de toepassing van hoofdstuk 4 zijn op de voorschriften genoemd in de voorschriften van Bijlage 1 van de VBG, waarnaar wordt verwezen, de overgangsvoorschriften van Bijlage 1 van de VBG van toepassing, die zijn opgenomen in 1.6.7.1 en 1.6.7.2, met dien verstande dat:
 
-## Bijlage 3.11. bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=7&artikel=3.26&z=2017-12-01&g=2017-12-01)
-
-| **Pakket 1a. Tankschepen gevaarlijke stoffen onder klasse** |
-| --- |
-| Dit pakket is bij wet voorbehouden aan klassenbureaus |
-|   |
-| **Pakket 1b. Tankschepen gevaarlijke stoffen geen klasse** |
-| **Motortankschip** |
-| type N-gesloten |
-| type N-open met vlamkering |
-| type N-open |
-| **Tankduwbak** |
-| type N-gesloten |
-| type N-open met vlamkering |
-| type N-open |
-| **Sleeptankschip** |
-| type N-gesloten |
-| type N-open met vlamkering |
-| type N-open |
-| **Bunkerboot** |
-| **Bilgeboot** |
-| Schoonmaak-bewaarschip |
-| **Bunkerstation** |
-| Bunkerponton |
-|   |
-| **Pakket 2. Vervoer van droge lading** |
-| **Zeeschip (vervoer droge lading)** |
-| **Motorvrachtschip** |
-| **Vrachtduwbak** |
-| Ponton |
-| Kopbak |
-| Dekschuit |
-| **Zeeschipbak** |
-| **Motortankschip (zonder vervoer ADN)** |
-| **Sleepvrachtschip** |
-| **Sleeptankschip (zonder vervoer ADN)** |
-| **Amsterdamse dekschuit** |
-|   |
-| **Pakket 3. Overige schepen en passagiersschepen tot een lengte van 45m.** |
-| **Sleepboot** |
-| **Sleepboot met duwsteven** |
-| **Sleep-Duwboot** |
-| **Duwboot** |
-| **Passagiersschepen** |
-| Hotelschip |
-| Rondvaartdagboot (dagtochten) |
-| Zeilend passagiersschip |
-| Amsterdams grachtentype |
-| Open rondvaartboot |
-| Skûtsje |
-| **Veerpont** |
-| Auto |
-| Fiets/voet |
-| **Patrouillevaartuig** |
-| Patrouillevaartuig |
-| Oliebestrijdingsvaartuig |
-| Brandblusboot |
-| Reddingsboot |
-| **Pleziervaartuig** |
-| **Snel schip (verplicht klasse na 2023) >40km/h** |
-| **Drijvend werktuig** |
-| Werkvaartuig |
-| Pompoverslagboot |
-| **Drijvend voorwerp** |
-|   |
-| **Pakket 4. Passagiersschepen vanaf 45 m** |
-| **Passagiersschip** |
-| Hotelschip |
-| Rondvaartdagboot (dagtochten) |
-| Zeilend passagiersschip |
-| **Veerboten** |
-| **Veerpont** |
-| Auto |
-| Fiets/voet |
+## Bijlage 3.10. Model van het certificaat van onderzoek voor bunkerstations als bedoeld in [3.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2021-10-06&g=2021-10-06)
 
 ## Bijlage 4.1. Metingsvoorschriften als bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2017-12-01&g=2017-12-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2017-12-01&g=2017-12-01)
 
@@ -7255,11 +7265,11 @@ De minimumbemanning van veerponten die een snelheid van meer dan 30 km per uur, 
 
 ## Bijlage 6.4. Model eigen verklaring als bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.9&z=2017-12-01&g=2017-12-01)
 
-### § 3. Erkende diploma’s en opleidingen die vrijstelling geven van onderdelen van het examen voor het klein vaarbewijs
+### Artikel 11. Geestesziekten
 
 ## Bijlage 7.3. : Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2016-01-23&g=2016-01-23)
 
-Alle chronische longaandoeningen met de mogelijkheid van acute verslechtering van de longfunctie die de lichamelijke gesteldheid dusdanig aantasten dat niet meer kan worden voldaan aan de in de algemene keuringsaanwijzingen onder artikel drie tot en met vijf gestelde criteria zijn een reden voor ongeschiktheid.
+Voor goedkeuring is een gunstig specialistisch rapport vereist, waaruit blijkt dat redelijkerwijs geen acute problemen zijn te verwachten.
 
 (achterzijde)
 
@@ -7271,7 +7281,7 @@ Instructies voor de arts voor het opstellen van een verklaring over de aan de om
 
 ## Bijlage 7.1. Erkende vaarbewijzen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2019-07-01) en met het groot pleziervaartbewijs gelijkgestelde vaarbewijzen als bedoeld in [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2021-10-06&g=2019-07-01)
 
-## Bijlage 8.1. : Model rijnvaartverklaring als bedoeld in [artikel 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.2&z=2016-01-23&g=2016-01-23)
+## Bijlage 7.2. Erkende bewijzen van vaarbekwaamheid, onderscheidenlijk diploma’s en opleidingen, die geheel respectievelijk gedeeltelijk dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren als bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2021-10-06&g=2021-10-06)
 
 ## Bijlage 7.5. Model-ICC, als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2017-12-01&g=2017-12-01)
 
@@ -7320,13 +7330,13 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ## Bijlage 7.3. Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2017-12-01&g=2017-12-01)
 
-(85 mm × 54 mm – achtergrond blauw)
+Alle chronische longaandoeningen met de mogelijkheid van acute verslechtering van de longfunctie die de lichamelijke gesteldheid dusdanig aantasten dat niet meer kan worden voldaan aan de in de algemene keuringsaanwijzingen onder artikel drie tot en met vijf gestelde criteria zijn een reden voor ongeschiktheid.
 
-### Model-klein vaarbewijs/ICC voor de binnenvaart
+### Artikel 17. Aandoeningen die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de functie in een der ledematen die voor de uit te voeren handelingen van belang zijn
 
 (85 mm x 54 mm – achtergrond blauw)
 
-## Bijlage 7.4. Modellen vrijstellingsbewijzen als bedoeld in de [artikelen 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2017-12-01&g=2017-12-01), [7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2017-12-01&g=2017-12-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2017-12-01&g=2017-12-01)
+## Bijlage 6.2
 
 ### 1.2. Voor het groot vaarbewijs en beperkt groot vaarbewijs op rivieren, kanalen en meren
 
@@ -7342,7 +7352,9 @@ V = volledige vrijstelling
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-## Bijlage 1.10. Minimumeisen aan Inland ECDIS-apparatuur in de informatiemodus en daarmee vergelijkbare visualiseringssystemen bij het gebruik van Inland AIS-gegevens aan boord van schepen
+## Bijlage 1.9. als bedoeld in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=1&paragraaf=4&artikel=1.9&z=2021-10-06&g=2021-10-06)
+
+[Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215) (Rsp)
 
 Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
@@ -7378,7 +7390,7 @@ Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de 
 
 (85 mm × 54 mm – achtergrond blauw)
 
-(achterzijde)
+(85 mm × 54 mm – achtergrond blauw)
 
 ## Bijlage 7.3. Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2021-10-06&g=2019-07-01)
 
@@ -7388,13 +7400,13 @@ Aanvragers van het klein vaarbewijs moeten voldoen aan de keuringseisen voor de 
 
 (85 mm × 54 mm – achtergrond blauw)
 
-(85 mm x 54 mm – achtergrond blauw)
+(85 mm x 54 mm)
 
 ## Bijlage 8.1. Model rijnvaartverklaring als bedoeld in [artikel 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.2&z=2020-07-08&g=2020-07-08)
 
 ### Model vrijstellingsbewijs
 
-(85 mm × 54 mm – achtergrond blauw)
+(achterzijde)
 
 (85 mm x 54 mm – achtergrond blauw)
 
@@ -7412,44 +7424,7 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 (achterzijde)
 
-## Bijlage 7.5. Model-ICC, als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2021-10-06&g=2019-07-01)
-
-(85 mm x 54 mm – achtergrond blauw)
-
-| NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT | NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT | NL INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT |
-| --- | --- | --- |
-| Pasfoto 6 | 1. |   |
-|   | 2. | 5. |
-|   | 3. |   |
-|   | 4. | 8. |
-|   | 9. |   |
-| Handtekening 7 | 10. | 11. |
-|   | 12. | 13. |
-|   | 14. |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-| INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT (resolution 40 of the UN/ECE Working Party On Inland Water Transport) | CERTIFICATE INTERNATIONAL DE CONDUCTEUR DE BATEAU DE PLA’SANCE (Résolution No. 40 de groupe de travail CEE-ONU des transports par voie navigable) | CERTIFICATE INTERNATIONAL DE CONDUCTEUR DE BATEAU DE PLA’SANCE (Résolution No. 40 de groupe de travail CEE-ONU des transports par voie navigable) |
-| --- | --- | --- |
-|   |   |   |
-| 1. ACHTERNAAM | SURNAME | NOM |
-| 2. VOORNAMEN | FIRST NAMES | PRÉNOMS |
-| 3. GEBOORTEDATUM EN- PLAATS | DATE AND PLACE OF BIRTH | DATE ET LIEU DE NAISSANCE |
-| 4. NATIONALITEIT | NATIONALITY | NATIONALITÉ |
-| 5. BURGER SERVICE NUMMER | CITIZEN SERVICE NUMBER | NUMÉRO DE SERVICE CITOYEN |
-| 6. PASFOTO VAN DE HOUDER | PHOTOGRAPH OF HOLDER | PHOTO DE DÉTENTEUR |
-| 7. HANDTEKENING VAN DE HOUDER | SIGNATURE OF HOLDER | SIGNATURE DU TITULAIRE |
-| 8. VAARBEWIJSNUMMER | CERTIFICATE NUMBER | NUMÉRO DU CERTIFICAT |
-| 9. GELDIG VOOR | VALID FOR | VALABLE POUR |
-| 10. AFGIFTEDATUM | DATE OF ISSUE | DATE D’ÉMISSION |
-| 11. VERVALDATUM | DATE OF EXPIRY | DATE D’EXPIRATION |
-| 12. AFGEGEVEN DOOR | ISSUED BY | DÉLIVRÉ PAR |
-| 13. AANGEWEZEN DOOR | AUTHORISED BY | AUTORISÉ PAR |
-| 14. BEPERKINGEN/VERMELDINGEN | RESTRICTIONS/MENTIONS | RESTRICTIONS/MENTIONS |
-|   |   |   |
-| STICHTING VAMEX + 31 (88) 4564567 WWW.VAMEX.NL info@vamex.nl | STICHTING VAMEX + 31 (88) 4564567 WWW.VAMEX.NL info@vamex.nl | STICHTING VAMEX + 31 (88) 4564567 WWW.VAMEX.NL info@vamex.nl |
-|   |   |   |
+## Bijlage 11.1. als bedoeld in [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=11&artikel=11.1&z=2021-10-06&g=2021-10-06)
 
 ## Bijlage 8.1. Model rijnvaartverklaring als bedoeld in [artikel 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.2&z=2021-10-06&g=2019-07-01)
 
@@ -7457,7 +7432,7 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ## Bijlage 7.2. Erkende bewijzen van vaarbekwaamheid, onderscheidenlijk diploma’s en opleidingen, die geheel respectievelijk gedeeltelijk dispensatie geven van het onderzoek naar de kennis en bekwaamheid om een schip te voeren als bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2020-07-08&g=2020-07-08)
 
-(85 mm × 54 mm – achtergrond blauw)
+# = nummer van de eindterm betreft gedeeltelijke vrijstelling
 
 (achterzijde)
 
@@ -7479,6 +7454,152 @@ Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze
 
 ## Bijlage 8.3. Model bewijs van toelating als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.3&z=2020-07-08&g=2020-07-08)
 
-## Bijlage 11.1. als bedoeld in [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=11&artikel=11.1&z=2020-07-08&g=2020-07-08)
+## Bijlage 7.5. Model-ICC, als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2021-10-06&g=2021-10-06)
+
+(85 mm x 54 mm)
+
+Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 5.17a
+
+Snelle veerponten waar zich maximaal 12 passagiers aan boord kunnen bevinden zijn, voor zover zij in de exploitatiewijze A1 varen, vrijgesteld van de ingevolge [artikel 5.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06), voorgeschreven minimumbemanning, mits de minimumbemanning bestaat uit een schipper.
+
+### Hoofdstuk 6. Geneeskundig onderzoek
+
+### Hoofdstuk 7. Vaarbewijzen, radarpatenten en ICC’s
+
+#### § 1. Vaarbewijzen en vrijstellingen
+
+#### § 2. Erkenningen
+
+#### § 6. Gegevensverstrekking
+
+#### § 7. ICC’s
+
+### Hoofdstuk 8. Overige documenten
+
+### Hoofdstuk 10. Toezicht en handhaving
+
+### Hoofdstuk 12. Overgangsbepalingen en wijzigingen in andere regelingen
+
+#### § 2. Wijzigingen in andere regelingen
+
+### Hoofdstuk 13. Slotbepalingen
+
+## Bijlage 1.10. Minimumeisen aan Inland ECDIS-apparatuur in de informatiemodus en daarmee vergelijkbare visualiseringssystemen bij het gebruik van Inland AIS-gegevens aan boord van schepen
+
+## Bijlage 3.2. Technische eisen voor Amsterdamse dekschuiten als bedoeld in [artikel 3.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 3.3. Technische eisen voor rondvaartboten van het Amsterdams grachtentype als bedoeld in [artikel 3.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+Indien passagiers plaats kunnen nemen in een open kuip of op een open dek, worden de vaste verschansingen of relingen ten minste 0,20 m binnen de buitenzijde van het schip, berghouten daarbij inbegrepen, geplaatst.
+
+Indien de rondvaartboot is voorzien van een CNG-installatie is de ruimte waarin de voortstuwingsmotor is geplaatst voorzien van een vast opgestelde brandblusinstallatie.
+
+Bij gebruik op de binnenwateren van zone 3 zijn de schepen voorzien van een anker met een gewicht van ten minste 50 kg en een ankerketting of ankerdraad met een lengte van ten minste 30 m. Het ankergewicht mag worden verminderd bij toepassing van bijzondere ankertypen met verhoogde houdkracht.
+
+De onderdelen van de CNG-installatie zijn bestand tegen de hoogste druk die onder normale bedrijfsomstandigheden kan optreden in het gedeelte van de CNG-installatie waar een onderdeel is aangebracht.
+
+## Bijlage 3.5. Technische eisen voor skûtsjes als bedoeld in [artikel 3.4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 3.6. Technische eisen voor veerponten als bedoeld in [artikel 3.4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+Onverminderd het in deze bijlage bepaalde voldoen veerponten aan [hoofdstuk 3 tot en met hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=3) alsmede hoofdstuk 24a van [bijlage 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), met uitzondering van de volgende artikelen:
+
+## Bijlage 3.7. Technische voorschriften voor veerboten en passagiersschepen als bedoeld in [artikel 3.4, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+Met de in deze bijlage vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+
+## Bijlage 3.8. Technische eisen voor bunkerstations als bedoeld in [artikel 3.4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 3.9. Technische eisen voor patrouillevaartuigen als bedoeld in [artikel 3.4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2021-10-06&g=2021-10-06)
+
+De veiligheidsafstand van patrouillevaartuigen bedraagt niet minder dan:
+
+## Bijlage 5.7. Minimumbemanning van sleepboten en sleepboten die havendiensten verrichten als bedoeld in [artikel 5.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2021-10-06&g=2021-10-06)
+
+De minimumbemanning van sleepboten bestaat uit:
+
+| Groepen naar het vermogen P van de voortstuwingsmotoren in kW | Bemanningsleden | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze | Aantal bemanningsleden bij exploitatiewijze |
+| --- | --- | --- | --- | --- |
+| Groepen naar het vermogen P van de voortstuwingsmotoren in kW | Bemanningsleden | A1 | A2 | B |
+| 1. P < 500 | schipper | 1 | 1 | 2 |
+| 1. P < 500 | matroos | 1 * | 1 | – |
+| 2. 500 > P < 1250 ** | schipper | 1 | 2 | 2 |
+| 2. 500 > P < 1250 ** | matroos | 1 | – | 1 |
+| 3. 1250 > P < 3750 ** | schipper | 1 | 2 | 2 |
+| 3. 1250 > P < 3750 ** | volmatroos | 1 | 1 | 1 |
+| 3. 1250 > P < 3750 ** | matroos | 1 | 1 | 2 |
+| 4. P > 3750 | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. |
+
+* Voor de vaart op de Rijn buiten Nederland bestaat de minimumbemanning uit een schipper en een matroos. De matroos is binnenlands niet nodig.
+
+** Indien een schip, ingedeeld in groep 2 dan wel in groep 3, voldoet aan de volgende bepalingen betreffende de bouw en de inrichting wordt de minimumbemanning verminderd met één matroos:
+
+a. alle belangrijke bedieningsapparatuur en signalerings- en controle instrumenten voor de hoofdaandrijfinstallaties, de stroomvoorziening en overige voor het bedrijf belangrijke installaties, zijn in het stuurhuis aangebracht;
+
+b. een schip dat is ingedeeld in groep 2 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een kaapstander of een draadberglier;
+
+c. een schip dat is ingedeeld in groep 3 is voorzien van een sleeplier, dan wel van een sleephaak gecombineerd met een draadberglier;
+
+d. sleeplieren en draadberglieren kunnen zowel vanaf het dek als vanaf de brug worden bediend;
+
+e. er is een noodbediening waarmee de sleeplier dan wel de sleephaak kan worden gevierd c.q. geslipt, welke ook in geval van stroomuitval vanaf het dek is verzekerd;
+
+f. stuurstellingen op de brug zijn zodanig geplaatst en uitgevoerd dat bij alle voorkomende manoeuvreeromstandigheden een volledig overzicht door degene die het vaartuig voert, is gegarandeerd;
+
+g. bedieningsapparatuur is aangebracht binnen het bereik van degene die het vaartuig voert. Zowel bij de bedieningsplaats voor de sleeplier dan wel de draadberglier als op de plaats waar signalerings- en controle instrumenten kunnen worden waargenomen, is voldoende ruimte aanwezig zodat de bediening van de sleeplier dan wel de draadberglier door degene die het vaartuig voert niet bemoeilijkt wordt bij het uitvoeren van zijn werkzaamheden;
+
+h. het schip is voorzien van een radarinstallatie, waarvan het radarbeeld zonder kap of scherm, ongeacht de buiten het stuurhuis heersende lichtomstandigheden, duidelijk zichtbaar is;
+
+i. door adequate middelen is gewaarborgd dat onder alle weersomstandigheden door de ruiten die in de belangrijkste blikrichtingen zijn gelegen, helder zicht mogelijk is;
+
+j. gemeenschappelijke reddingmiddelen zijn zodanig opgesteld dat zij door slechts één bemanningslid te water kunnen worden gelaten;
+
+k. regelbare dekverlichting voor het belichten van de sleeplijn, die vanuit het stuurhuis kan worden bediend, is geïnstalleerd. De lampen voor het werkdek zijn zo geplaatst en zodanig uitgevoerd dat een ongestoorde verlichting van het werkdek is verzekerd en voorts geen gevaar bestaat voor verblinding van degene die het vaartuig voert. Hierbij is met name rekening gehouden met het geval van mist; en
+
+l. De Minister van Infrastructuur en Milieu geeft een verklaring af waaruit blijkt dat wordt voldaan aan deze bepalingen.
+
+De minimumbemanning van sleepboten gedurende de tijd dat havensleepdiensten worden verricht bestaat uit:
+
+| Paaltrek*** F < 15 ton | 1 schipper |
+| --- | --- |
+| Paaltrek*** F < 15 ton | 1 matroos |
+| 15 > F ≤ 25 ton | 1 schipper |
+| 15 > F ≤ 25 ton | 2 matrozen |
+| 25 > F ≤ 75 ton | 1 schipper |
+| 25 > F ≤ 75 ton | 1 volmatroos |
+| 25 > F ≤ 75 ton | 2 matrozen |
+| F > 75 ton | Wordt individueel door de Minister van Infrastructuur en Milieu vastgesteld. |
+
+*** Paaltrek: de maximale trekkracht die het schip via een sleepdraad kan uitoefenen op een te slepen object als aangegeven op een certificaat, afgegeven door een binnen de sfeer van de sleepvaart algemeen daartoe erkende organisatie. Indien geen certificaat betreffende de paaltrek wordt overgelegd, wordt voor de paaltrek een trekkracht aangenomen van 20 kg/kW van het geïnstalleerde voortstuwingsvermogen.
+
+### Artikel 16. Aandoeningen of veranderingen in het hart of de bloedsomloop resulterend in een verminderde belastbaarheid
+
+## Bijlage 6.3
+
+## Bijlage 6.4. Model eigen verklaring als bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=6&artikel=6.9&z=2021-10-06&g=2021-10-06)
+
+Vervallen
+
+## Bijlage 7.1. Erkende vaarbewijzen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2021-10-06) en met het groot pleziervaartbewijs gelijkgestelde vaarbewijzen als bedoeld in [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2021-10-06&g=2021-10-06)
+
+V = volledige vrijstelling
+
+## Bijlage 7.3. Modellen vaarbewijzen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.3&z=2021-10-06&g=2021-10-06)
+
+(achterzijde)
+
+(85 mm × 54 mm – achtergrond blauw)
+
+## Bijlage 7.4. Modellen vrijstellingsbewijzen als bedoeld in de [artikelen 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.6&z=2021-10-06&g=2021-10-06), [7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.8&z=2021-10-06&g=2021-10-06), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=7&paragraaf=1&artikel=7.9&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 8.1. Model rijnvaartverklaring als bedoeld in [artikel 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.2&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 8.2. Model verklaring als bedoeld in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.2&z=2021-10-06&g=2021-10-06)
+
+## Bijlage 8.3. Model bewijs van toelating als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&hoofdstuk=8&artikel=8.3&z=2021-10-06&g=2021-10-06)
+
+### Toepassing tarievenlijst
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
