@@ -4,7 +4,7 @@ identifier: "BWBR0025973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-01"
-last_updated: "2018-10-07"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025973"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ In dit reglement wordt verstaan onder:
 
 - 24. **‘erkend classificatiebureau’:** een classificatiebureau dat is erkend door alle Rijnoeverstaten en België, te weten: DNV GL, Bureau Veritas (BV) en Lloyd’s Register (LR);
 
-- 25. **‘ES-TRIN’:** [Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), in de editie 2017/1. Voor de toepassing van ESTRIN moet het begrip ‘lidstaat’ worden opgevat als een van de Rijnoeverstaten of België.
+- 25. **‘ES-TRIN’:** [Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), in de editie 2019/1. Voor de toepassing van ESTRIN moet het begrip ‘lidstaat’ worden opgevat als een van de Rijnoeverstaten of België.
 
 ##### Artikel 1.02. Toepasselijkheid van het reglement
 
@@ -120,7 +120,7 @@ Vaartuigen, drijvende inrichtingen of drijvend voorwerpen, waarvoor een certific
 
 ##### Artikel 1.04. Certificaat van onderzoek
 
-Op de in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2018-10-07&g=2018-10-07), bedoelde vaartuigen moeten
+Op de in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2021-10-06&g=2021-10-06), bedoelde vaartuigen moeten
 
 - a). een certificaat van onderzoek, dat door een Commissie van deskundigen, die door één der Rijnoeverstaten of België overeenkomstig de bepalingen van dit reglement is afgegeven, of
 
@@ -138,15 +138,13 @@ Op de in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:
 
 5. Op zeeschepen en drijvende werktuigen die zijn toegelaten om te worden gebruikt aan de kust of op zee moet het geldige certificaat als bedoeld in [bijlage 3, onderdeel IV, van ES-TRIN](onbekend) aan boord aanwezig zijn, indien het geldige certificaat van onderzoek als bedoeld in bijlage 3, onderdeel I, van ES-TRIN niet aan boord aanwezig is. Daarbij dient bij drijvende werktuigen aan [hoofdstuk 25 van ESTRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=25) ook met inachtneming van [hoofdstuk 22 van ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=22) te zijn voldaan.
 
-##### Artikel 1.06. Voorschriften van tijdelijke aard
+##### Artikel 1.06. Voorschriften van tijdelijke aard van de Centrale Commissie voor de Rijnvaart
 
-1. De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard met een geldigheidsduur van ten hoogste drie jaren vaststellen, wanneer het voor een aanpassing aan de technische ontwikkeling van de binnenscheepvaart noodzakelijk wordt geacht
+De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard vaststellen met een geldigheidsduur van ten hoogste drie jaren, wanneer het noodzakelijk wordt geacht om:
 
-- a). in dringende gevallen afwijkingen van dit reglement toe te laten, of
+- a). in dringende gevallen afwijkingen van dit reglement toe te laten, dan wel
 
-- b). proefnemingen waardoor de veiligheid en de vlotte afwikkeling van het scheepvaartverkeer niet worden benadeeld mogelijk te maken.
-
-2. Deze tijdelijke voorschriften worden in alle Rijnoeverstaten en België op hetzelfde tijdstip in werking gesteld en worden onder dezelfde voorwaarden buiten werking gesteld.
+- b). proefnemingen mogelijk te maken, waardoor de veiligheid en de vlotte afwikkeling van het scheepvaartverkeer niet worden aangetast.
 
 ##### Artikel 1.07. Dienstinstructies voor de Commissies van deskundigen en de bevoegde autoriteiten
 
@@ -184,7 +182,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 ##### Artikel 2.02. Aanvraag van het onderzoek
 
-1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2018-10-07&g=2018-10-07). De Commissie van deskundigen stelt vast welke bescheiden moeten worden overgelegd.
+1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2021-10-06&g=2021-10-06). De Commissie van deskundigen stelt vast welke bescheiden moeten worden overgelegd.
 
 2. De eigenaar van een vaartuig, waarop dit reglement niet van toepassing is, of zijn vertegenwoordiger, kan een certificaat van onderzoek aanvragen. Aan deze aanvraag dient gevolg te worden gegeven wanneer het vaartuig voldoet aan de bepalingen van dit reglement.
 
@@ -202,7 +200,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 1. Wanneer de Commissie van deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de bepalingen van dit reglement en de bepalingen van [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van [bijlage 3, onderdeel I, van ES-TRIN](onbekend) af.
 
-2. De Commissie van deskundigen controleert bij afgifte van een certificaat van onderzoek of aan het desbetreffende vaartuig niet reeds een geldig certificaat is afgegeven, zoals bedoeld in [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2018-10-07&g=2018-10-07).
+2. De Commissie van deskundigen controleert bij afgifte van een certificaat van onderzoek of aan het desbetreffende vaartuig niet reeds een geldig certificaat is afgegeven, zoals bedoeld in [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2021-10-06&g=2021-10-06).
 
 3. Ingeval de Commissie van deskundigen weigert een certificaat van onderzoek af te geven, moet zij dit aan de aanvrager gemotiveerd schriftelijk mededelen.
 
@@ -212,7 +210,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 - a). vaartuigen die met toestemming van de Commissie van deskundigen naar een bepaalde plaats willen varen om een certificaat van onderzoek te verkrijgen;
 
-- b). vaartuigen waarvan het certificaat van onderzoek verloren, beschadigd of tijdelijk ingetrokken is, zoals bedoeld in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2018-10-07&g=2018-10-07) of [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2018-10-07&g=2018-10-07);
+- b). vaartuigen waarvan het certificaat van onderzoek verloren, beschadigd of tijdelijk ingetrokken is, zoals bedoeld in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2021-10-06&g=2021-10-06) of [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2021-10-06&g=2021-10-06);
 
 - c). vaartuigen waarvan het certificaat van onderzoek na een inspectie met positief resultaat wordt voorbereid;
 
@@ -222,7 +220,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 - f). drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van [artikel 1.21, eerste lid, van het Rijnvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=1.21) bevoegde autoriteiten de vergunning voor een bijzonder transport afhankelijk stelt van het verkrijgen van een voorlopig certificaat van onderzoek;
 
-- g). vaartuigen waarvoor de Commissie van deskundigen een gelijkwaardigheid als bedoeld in [artikel 2.20, eerste tot derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.20&z=2018-10-07&g=2018-10-07), toestaat, voor de gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
+- g). vaartuigen waarvoor de Commissie van deskundigen een gelijkwaardigheid als bedoeld in [artikel 2.20, eerste tot derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.20&z=2021-10-06&g=2021-10-06), toestaat, voor de gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
 
 2. Het voorlopige certificaat van onderzoek wordt volgens het model van [bijlage 3, onderdeel II, van ES-TRIN](onbekend) afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.
 
@@ -270,7 +268,7 @@ De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient t
 
 2. Bij wijze van uitzondering kan de Commissie van deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van het certificaat van onderzoek zonder periodiek onderzoek met ten hoogste één jaar verlengen. Deze verlenging wordt schriftelijk gegeven en moet zich aan boord van het vaartuig bevinden.
 
-3. De Commissie van deskundigen die het periodiek onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat van onderzoek vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2018-10-07&g=2018-10-07) in acht genomen. De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient ter kennis te worden gebracht van de Commissie van deskundigen die het certificaat heeft afgegeven.
+3. De Commissie van deskundigen die het periodiek onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat van onderzoek vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2021-10-06&g=2021-10-06) in acht genomen. De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient ter kennis te worden gebracht van de Commissie van deskundigen die het certificaat heeft afgegeven.
 
 4. Indien in plaats van verlenging van de geldigheidsduur het certificaat van onderzoek door een nieuw certificaat wordt vervangen, dient het oude certificaat van onderzoek te worden teruggezonden aan de Commissie van deskundigen die het heeft afgegeven.
 
@@ -286,7 +284,7 @@ De eigenaar van een vaartuig of zijn vertegenwoordiger kan op elk moment om een 
 
 ##### Artikel 2.12. Verklaring van en controle door een erkend classificatiebureau of van een technische dienst
 
-1. De Commissie van deskundigen kan er geheel of gedeeltelijk van afzien te onderzoeken of een vaartuig voldoet aan de in [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) en in [hoofdstuk 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&z=2018-10-07&g=2018-10-07) van dit reglement voorgeschreven bepalingen, voor zover uit een geldige verklaring, afgegeven door een erkend classificatiebureau, blijkt dat het vaartuig geheel of gedeeltelijk aan die bepalingen voldoet.
+1. De Commissie van deskundigen kan er geheel of gedeeltelijk van afzien te onderzoeken of een vaartuig voldoet aan de in [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) voorgeschreven bepalingen, voor zover uit een geldige verklaring, afgegeven door een erkend classificatiebureau, blijkt dat het vaartuig geheel of gedeeltelijk aan die bepalingen voldoet.
 
 2. Een verklaring van een erkend classificatiebureau, dan wel – voor zover dit volgens dit reglement voor bepaalde onderdelen van de uitrusting is toegelaten – van een technische dienst, mag door de bevoegde autoriteit slechts dan worden erkend, indien dat erkend classificatiebureau of die andere instantie verklaart dat het de bepalingen van de instructies van [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) in acht heeft genomen.
 
@@ -312,7 +310,7 @@ Wanneer de Commissie van deskundigen die het certificaat heeft ingehouden, vermo
 
 ##### Artikel 2.15. Kosten
 
-1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2018-10-07&g=2018-10-07), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Rijnoeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
+1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2021-10-06&g=2021-10-06), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Rijnoeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
 
 2. De Commissie van deskundigen kan vóór het onderzoek een voorschot verlangen dat niet hoger mag zijn dan het vermoedelijke bedrag van de kosten.
 
@@ -326,7 +324,7 @@ De Commissie van deskundigen kan personen, die kunnen aantonen daar om gegronde 
 
 2. De Commissies van deskundigen bewaren de minuut of een afschrift van elk certificaat dat zij hebben afgegeven. Daarop tekenen zij alle aantekeningen en wijzigingen, alsmede ongeldigheidsverklaringen en vervangingen van de certificaten aan en actualiseren zij volgens het eerste lid de registratie dienovereenkomstig.
 
-3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart en ter toepassing van de [artikelen 2.02 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2018-10-07&g=2018-10-07) wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voor zover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie zoals bedoeld in het eerste lid verleend.
+3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart en ter toepassing van de [artikelen 2.02 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2021-10-06&g=2021-10-06) wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voor zover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie zoals bedoeld in het eerste lid verleend.
 
 ##### Artikel 2.18. Uniek Europees scheepsidentificatienummer
 
@@ -598,204 +596,51 @@ Vervallen
 
 ##### Artikel 8a.01. Definities
 
-In dit hoofdstuk wordt verstaan onder:
-
-- 1. **‘motor’:** een motor die werkt volgens het principe van de compressieontsteking (dieselmotor);
-
-- 2. **‘typegoedkeuring’:** de beslissing waardoor de bevoegde autoriteit verklaart dat een motortype, een motorfamilie of een motorgroep aan de technische voorschriften van dit hoofdstuk voldoet wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes uit de motor(en);
-
-- 3. **‘inbouwkeuring’:** de procedure waarbij door de bevoegde autoriteit wordt gewaarborgd dat de in een vaartuig ingebouwde motor, met inbegrip van eventuele na de typegoedkeuring aangebrachte wijzigingen en/of afstellingen, voldoet aan de technische voorschriften van dit hoofdstuk wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes;
-
-- 4. **‘tussentijdse keuring’:** de procedure waarbij door de bevoegde autoriteit wordt gewaarborgd dat de in een vaartuig in gebruik zijnde motor, met inbegrip van eventuele na de inbouwkeuring aangebrachte wijzigingen en/of afstellingen, voldoet aan de technische voorschriften van dit hoofdstuk wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes;
-
-- 5. **‘bijzondere keuring’:** de procedure waarbij door de bevoegde autoriteit wordt gewaarborgd dat de in een vaartuig in gebruik zijnde motor na iedere belangrijke wijziging nog aan de technische voorschriften van dit hoofdstuk voldoet wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes;
-
-- 6. **‘motortype’:** een groepering van motoren die met betrekking tot de essentiële motorkenmerken vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel II, aanhangsel 1, niet verschillend zijn; er dient ten minste één eenheid van een motortype te zijn gebouwd;
-
-- 7. **‘motorfamilie’:** een door de fabrikant vastgestelde en door de bevoegde autoriteit type goedgekeurde groepering van motoren, die vanwege hun ontwerp naar verwachting vergelijkbare eigenschappen hebben wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes, en die aan de voorschriften van dit hoofdstuk voldoen;
-
-- 8. **‘motorgroep’:** een door de fabrikant vastgestelde en door de bevoegde autoriteit goedgekeurde groepering van motoren, die vanwege hun ontwerp naar verwachting vergelijkbare eigenschappen hebben wat betreft het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes, en die aan de voorschriften van dit hoofdstuk voldoen, waarbij een afstelling of een wijziging van afzonderlijke motoren na de typegoedkeuring toegelaten is binnen vastgelegde grenzen;
-
-- 9. **‘basismotor’:** een uit een motorfamilie of motorgroep geselecteerde motor die voldoet aan de voorschriften van [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel I, onderdeel 5;
-
-- 10. **‘nominaal vermogen’:** het netto vermogen van de motor bij nominaal toerental en volle belasting;
-
-- 11. **‘fabrikant’:** de persoon of organisatie die tegenover de bevoegde autoriteit verantwoordelijk is voor alle aspecten van de typegoedkeuringsprocedure en voor de conformiteit van de productie. Het is niet noodzakelijk dat deze persoon of organisatie rechtstreeks betrokken is bij alle fasen van de bouw van de motor. Indien de motor pas na zijn oorspronkelijke fabricage door veranderingen en aanvullingen wordt aangepast voor gebruik op een vaartuig in de zin van dit hoofdstuk, is de fabrikant normalerwijs de persoon of de organisatie die deze veranderingen of aanvullingen heeft uitgevoerd;
-
-- 12. **‘inlichtingenformulier’:** het formulier, bedoeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel II, waarin staat vermeld welke gegevens door de aanvrager moeten worden verstrekt;
-
-- 13. **‘informatiedossier’:** het geheel van gegevens, tekeningen, foto’s en andere bescheiden die de aanvrager overeenkomstig de eisen van het inlichtingenformulier aan de technische dienst of de bevoegde autoriteit moet verstrekken;
-
-- 14. **‘informatiepakket’:** het informatiedossier plus alle testrapporten en andere documenten die de technische dienst of de bevoegde autoriteit tijdens de uitvoering van hun taken aan het informatiedossier hebben toegevoegd;
-
-- 15. **‘certificaat van typegoedkeuring’:** het document, bedoeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel III, waarin de bevoegde autoriteit de typegoedkeuring vaststelt;
-
-- 16. **‘proces-verbaal van de motorkenmerken’:** het document, bedoeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel VIII, waarin alle kenmerken van de motor, met inbegrip van de onderdelen (componenten) en afstellingen die een weerslag hebben op het niveau van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes evenals alle veranderingen daarvan, vastgelegd zijn.
-
-- 17. **‘Inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken’:** het document, bedoeld in [artikel 8a.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.11&z=2018-10-07&g=2018-10-07), ten behoeve van inbouwkeuringen, tussentijdse keuringen dan wel bijzonder keuringen.
+Vervallen
 
 ##### Artikel 8a.02. Basisprincipes
 
-1. Dit hoofdstuk is van toepassing op alle motoren met een nominaal vermogen (PN) gelijk aan of groter dan 19 kW, die geïnstalleerd zijn aan boord van vaartuigen of die ingebouwd zijn in zich aan boord bevindende werktuigen, voor zover ze niet vallen onder de desbetreffende reglementen of richtlijnen van de Europese Unie met betrekking tot de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes.
-
-Indien de motoren voldoen aan de eisen van verordening (EU) 2016/1628, is dit hoofdstuk niet van toepassing.
-
-Indien de motoren voldoen aan de eisen van dit hoofdstuk, is [hoofdstuk 9 van ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=9) niet van toepassing.
-
-2. De uitstoot van deze motoren van koolmonoxide (CO), koolwaterstoffen (HC), stikstofoxide (NOx) en van deeltjes (PT) mag, met betrekking tot het nominale toerental n, de volgende waarden niet overschrijden:
-
-| PN [kW] | CO [g/kWh] | HC [g/kWh] | NOx [g/kWh] | PT [g/kWh] |
-| --- | --- | --- | --- | --- |
-| 19 ≤ PN < 37 | 5,5 | 1,5 | 8,0 | 0,8 |
-| 37 ≤ PN < 75 | 5,0 | 1,3 | 7,0 | 0,4 |
-| 75 ≤ PN < 130 | 5,0 | 1,0 | 6,0 | 0,3 |
-| 130 ≤ PN < 560 | 3,5 | 1,0 | 6,0 | 0,2 |
-| PN ≥ 560 | 3,5 | 1,0 | n ≥ 3.150 min-1 = 6,0 n < 3.150 min-1 = 45 • n(-0,2) - 3 n < 343 min-1 = 11,0 | 0,2 |
-
-3. Het voldoen aan de voorschriften, bedoeld in het tweede lid, wordt voor een motortype, een motorfamilie of een motorgroep vastgesteld door middel van een typegoedkeuring.
-
-De typegoedkeuring wordt vastgelegd in een certificaat van typegoedkeuring. De eigenaar of zijn gevolmachtigde moet een kopie van het certificaat van typegoedkeuring voegen bij de aanvraag van het onderzoek, bedoeld in [artikel 2.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2018-10-07&g=2018-10-07). Een kopie van het certificaat van typegoedkeuring en een kopie van het proces-verbaal van de motorkenmerken moeten zich aan boord bevinden.
-
-- a). Na de inbouw van de motor aan boord, maar voor zijn ingebruikstelling, moet een inbouwkeuring worden uitgevoerd. Deze keuring, die deel uitmaakt van het eerste onderzoek van het vaartuig of van een bijzonder onderzoek naar aanleiding van de inbouw van de betreffende motor, leidt ofwel tot het inschrijven van de motor in het eerste af te geven certificaat van onderzoek ofwel tot een wijziging van het bestaande certificaat van onderzoek.
-
-- b). De Commissie van deskundigen kan van een inbouwkeuring, bedoeld in onderdeel a), afzien indien een motor waarvan het nominale vermogen PN minder dan 130 kW bedraagt, wordt vervangen door een motor met eenzelfde typegoedkeuring.
-
-4. Voorwaarde hiervoor is dat de scheepseigenaar of zijn gevolmachtigde het vervangen van de motor meedeelt aan de Commissie van deskundigen, waarbij een kopie van het certificaat van typegoedkeuring moet worden gevoegd en het identificatienummer van de nieuw ingebouwde motor moet worden vermeld. Ten gevolge hiervan wordt nummer 52 van het certificaat van onderzoek gewijzigd.
-
-5. Periodieke keuringen van de motor moeten worden uitgevoerd in het kader van het aanvullend onderzoek, bedoeld in [artikel 2.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.09&z=2018-10-07&g=2018-10-07).
-
-6. Na elke belangrijke wijziging van een motor, die een invloed heeft op de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes, moet altijd een bijzondere keuring plaatsvinden.
-
-7. De nummers van de typegoedkeuringen en de identificatienummers van alle aan boord van een vaartuig geïnstalleerde motoren, die onder de bepalingen van dit hoofdstuk vallen, moeten door de Commissie van deskundigen worden ingeschreven onder punt 52 van het certificaat van onderzoek.
-
-8. De bevoegde autoriteit kan zich voor de vervulling van taken, bedoeld in dit hoofdstuk, doen bijstaan door een technische dienst.
+Vervallen
 
 ##### Artikel 8a.03. Aanvraag van een typegoedkeuring
 
-1. Een aanvraag van een typegoedkeuring van een motortype, een motorfamilie of een motorgroep moet door de fabrikant bij de bevoegde autoriteit worden ingediend. Bij de aanvraag moeten een informatiedossier, het ontwerp van een proces-verbaal van de motorkenmerken en het ontwerp van een inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken worden gevoegd. De fabrikant moet voor de typekeuringen een motor, die voldoet aan de essentiële kenmerken vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel II, aanhangsel 1, demonstreren.
-
-2. Indien de bevoegde autoriteit, in het geval van een aanvraag van een typegoedkeuring van een motorfamilie of van een motorgroep, vaststelt dat de ingediende aanvraag met betrekking tot de geselecteerde basismotor voor de in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel II, aanhangsel 2, beschreven motorfamilie of motorgroep niet representatief is, moet een andere, en eventueel een extra, basismotor, die door de bevoegde autoriteit wordt aangewezen, ten behoeve van de goedkeuring, bedoeld in het eerste lid, ter beschikking worden gesteld.
-
-3. Een aanvraag van een typegoedkeuring voor een motortype, een motorfamilie of een motorgroep mag bij niet meer dan één bevoegde autoriteit worden ingediend. Voor ieder goed te keuren motortype, motorfamilie of motorgroep moet een afzonderlijke aanvraag worden ingediend.
+Vervallen
 
 ##### Artikel 8a.04. Typegoedkeuringsprocedure
 
-1. De bevoegde autoriteit, waarbij de aanvraag wordt ingediend, verleent de typegoedkeuring voor alle motortypes, motorfamilies of motorgroepen die overeenstemmen met de gegevens van de informatiedossiers en aan de voorschriften van dit hoofdstuk voldoen.
-
-2. De bevoegde autoriteit vult voor ieder motortype en iedere motorfamilie of motorgroep waarvoor zij goedkeuring verleent alle desbetreffende onderdelen van het certificaat van typegoedkeuring in, waarvan het model is opgenomen in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel III; zij stelt de inhoudsopgave van het informatiepakket op of verifieert deze. De certificaten van typegoedkeuring moeten worden genummerd volgens het systeem aangegeven in bijlage J, deel IV. Het ingevulde certificaat van typegoedkeuring en de daarbij behorende bijlagen worden aan de aanvrager toegezonden.
-
-3. Indien de goed te keuren motor zijn functie slechts vervult of bijzondere kenmerken slechts vertoont in combinatie met andere onderdelen van het vaartuig waarin hij zal worden ingebouwd, en om die reden de naleving van één of meer eisen slechts kan worden geverifieerd wanneer de goed te keuren motor in combinatie met andere echte of gesimuleerde onderdelen van het vaartuig functioneert, moet de geldigheid van de typegoedkeuring van deze motor (motoren) dienovereenkomstig worden beperkt. In dergelijke gevallen moeten in het certificaat van typegoedkeuring van een motortype, van een motorfamilie of van een motorgroep de eventuele beperkingen in het gebruik alsmede eventuele voorwaarden waaraan bij montage moet worden voldaan, worden vermeld.
-
-4. Elke bevoegde autoriteit zendt:
-
-- a). bij iedere wijziging aan de andere bevoegde autoriteiten een lijst, die de in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel V, vermelde gegevens bevat, van de goedkeuringen van de motortypes, de motorfamilies en de motorgroepen die zij in de betrokken periode heeft verleend, geweigerd of ingetrokken;
-
-- b). op verzoek van een andere bevoegde autoriteit
-
-- aa). een kopie van het certificaat van typegoedkeuring van het motortype, de motorfamilie of de motorgroep al dan niet met het informatiepakket van ieder motortype en iedere motorfamilie of motorgroep waarvoor zij goedkeuring heeft verleend, geweigerd of ingetrokken, en zo nodig
-
-- bb). de lijst van de motoren die zijn geproduceerd in overeenstemming met de verleende typegoedkeuringen, omschreven in artikel 8a.06, derde lid, met de gegevens, bedoeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel VI.
-
-5. Elke bevoegde autoriteit zendt jaarlijks en bovendien bij ontvangst van een daartoe strekkend verzoek aan het secretariaat van de Centrale Commissie voor de Rijnvaart een kopie van het in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel VII, bedoelde technische gegevensformulier betreffende de motortypes, motorfamilies en motorgroepen die sinds de laatste kennisgeving zijn goedgekeurd.
+Vervallen
 
 ##### Artikel 8a.05. Wijziging van goedkeuringen
 
-1. De bevoegde autoriteit, die de typegoedkeuring heeft verleend, moet de nodige maatregelen nemen om ervoor te zorgen dat zij in kennis wordt gesteld van iedere wijziging van de gegevens in het informatiepakket.
-
-2. De aanvraag om wijziging of uitbreiding van een typegoedkeuring wordt uitsluitend ingediend bij de bevoegde autoriteit die de oorspronkelijke typegoedkeuring heeft verleend.
-
-3. Indien in het informatiepakket vermelde gegevens worden gewijzigd, verstrekt de bevoegde autoriteit:
-
-- a). indien nodig, de herziene bladzijden van het informatiepakket; op iedere herziene bladzijde moeten duidelijk de aard van de wijziging en de datum van de herziene versie zijn vermeld; bij iedere heruitgave van bladzijden moet ook de inhoudsopgave van het informatiepakket (dat bij het certificaat van typegoedkeuring is gevoegd) worden gewijzigd om deze in overeenstemming te brengen met de laatste stand van zaken;
-
-- b). een herzien certificaat van typegoedkeuring (met een uitbreidingsnummer) indien de daarin voorkomende gegevens (met uitzondering van de bijlagen) zijn gewijzigd of indien de minimumeisen van dit hoofdstuk sinds de oorspronkelijke datum van de goedkeuring zijn veranderd; in dit herziene certificaat moeten duidelijk de reden voor de herziening en de datum van afgifte van de herziene versie worden vermeld.
-
-Indien de bevoegde autoriteit die de typegoedkeuring heeft verleend vastgesteld heeft, dat een voorgenomen wijziging van het informatiepakket aanleiding is voor nieuwe proeven of tests, stelt zij de fabrikant daarvan in kennis en geeft zij de bovengenoemde documenten pas af nadat de nieuwe proeven of tests met goed gevolg zijn verricht.
+Vervallen
 
 ##### Artikel 8a.06. Conformiteit
 
-1. De fabrikant brengt op iedere eenheid die conform de typegoedkeuring is geproduceerd de in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel I, onderdeel 1, vastgestelde merktekens aan met inbegrip van het typegoedkeuringsnummer.
-
-2. Indien de typegoedkeuring overeenkomstig [artikel 8a.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2018-10-07&g=2018-10-07), beperkingen aan het gebruik bevat, moeten door de fabrikant bij iedere gefabriceerde eenheid gedetailleerde gegevens over deze beperkingen alsmede de volledige inbouwvoorschriften worden bijgeleverd.
-
-3. De fabrikant zendt op verzoek van de autoriteit die de typegoedkeuring heeft verleend binnen 45 dagen na het einde van ieder kalenderjaar, en onmiddellijk na ieder verder tijdstip dat door de autoriteit is vastgesteld, een lijst met de identificatienummers (serienummers) van alle motoren die conform de eisen van dit hoofdstuk zijn geproduceerd sinds de laatste lijst werd ingediend of sinds de datum waarop deze voorschriften voor het eerst van kracht werden. Indien het codesysteem van de motor daarover geen uitsluitsel geeft, moet deze lijst het verband aangeven tussen de identificatienummers en de daarbij behorende motortypes, de motorfamilies of de motorgroepen en de typegoedkeuringsnummers. Bovendien moet de lijst bijzondere gegevens bevatten indien de fabrikant niet langer een goedgekeurd motortype, een goedgekeurde motorfamilie of motorgroep produceert. Indien de bevoegde autoriteit niet verlangt dat deze lijst haar regelmatig wordt toegezonden, moet de fabrikant de geregistreerde gegevens gedurende ten minste 40 jaren bewaren.
+Vervallen
 
 ##### Artikel 8a.07. Erkenning van andere gelijkwaardige normen
 
-1. Met gebruikmaking van de navolgende tabel gelden typegoedkeuringen overeenkomstig de Richtlijnen van de Europese Gemeenschap als gelijkwaardig aan de typegoedkeuringen overeenkomstig de voorwaarden en de bepalingen van dit hoofdstuk:
-
-| Doel van de motor | Richtlijn | Motorcategorie |
-| --- | --- | --- |
-| Hoofdaandrijving van het schip | 2004/26/EG | V |
-| Hulpmotor met constant toerental | 2004/26/EG | V |
-| Hulpmotor met constant toerental | 2004/26/EG | H, I, J, K |
-| Hulpmotor met constant toerental | 97/68/EG | D, E, F, G |
-| Hulpmotor met variabel toerental en variabele belasting | 2004/26/EG | V |
-| Hulpmotor met variabel toerental en variabele belasting | 2004/26/EG | H, I, J, K L, M, N, P Q, R |
-
-2. De Centrale Commissie voor de Rijnvaart kan de gelijkwaardigheid erkennen van andere overeenstemmende normen vastgelegd in internationale regelingen, dan wel in voorschriften van de Rijnoeverstaten of België of van een derde land met de voorwaarden en de bepalingen van dit hoofdstuk inzake de typegoedkeuringen van motoren.
+Vervallen
 
 ##### Artikel 8a.08. Controle van de identificatienummers
 
-1. De bevoegde autoriteit die een typegoedkeuring verleent, zorgt ervoor dat de identificatienummers van de motoren die overeenkomstig de voorschriften van dit hoofdstuk zijn geproduceerd, zo nodig in samenwerking met de andere bevoegde autoriteiten, worden geregistreerd en gecontroleerd.
-
-2. Een bijkomende controle van de identificatienummers kan plaats vinden bij gelegenheid van de controle van de conformiteit van de productie, bedoeld in [artikel 8a.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.09&z=2018-10-07&g=2018-10-07).
-
-3. Met betrekking tot de controle van de identificatienummers verstrekken de fabrikant of zijn in de Rijnoeverstaten en België gevestigde agenten op verzoek van de bevoegde autoriteit onverwijld alle benodigde gegevens betreffende de cliënten alsook de identificatienummers van de motoren, waarvan is medegedeeld dat zij conform [artikel 8a.06, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.06&z=2018-10-07&g=2018-10-07), zijn geproduceerd.
-
-4. Indien een fabrikant, na een verzoek daartoe van de bevoegde autoriteit, niet in staat is de in artikel 8a.06 bedoelde voorschriften na te komen, kan de goedkeuring voor het betreffende motortype of de betreffende motorfamilie of motorgroep worden ingetrokken.
-
-Daarvan wordt kennisgegeven volgens de procedure overeenkomstig [artikel 8a.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.10&z=2018-10-07&g=2018-10-07).
+Vervallen
 
 ##### Artikel 8a.09. Conformiteit van de productie
 
-1. De bevoegde autoriteit, die een typegoedkeuring verleent, vergewist er zich van tevoren van, zo nodig in samenwerking met de andere bevoegde autoriteiten, dat de met betrekking tot [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel I, onderdeel 4, passende voorzorgsmaatregelen zijn getroffen om een doeltreffende controle van de conformiteit van de productie te waarborgen.
-
-2. De bevoegde autoriteit, die een typegoedkeuring heeft verleend, vergewist er zich van, zo nodig in samenwerking met de andere bevoegde autoriteiten, dat de [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=J&z=2018-10-07&g=2018-10-07), deel I, onderdeel 4 in het eerste lid bedoelde voorzorgsmaatregelen nog steeds afdoende zijn en elke geproduceerde motor die krachtens dit hoofdstuk van een typegoedkeuringsnummer is voorzien nog steeds beantwoordt aan de beschrijving die in het certificaat van typegoedkeuring, en de daarbij behorende bijlagen inzake het goedgekeurde motortype, de goedgekeurde motorfamilie of motorgroep is gegeven.
+Vervallen
 
 ##### Artikel 8a.10. Non-conformiteit met het goedgekeurde motortype, de goedgekeurde motorfamilie of de goedgekeurde motorgroep
 
-1. Er is sprake van non-conformiteit met het goedgekeurde motortype, de goedgekeurde motorfamilie of de goedgekeurde motorgroep, indien er afwijkingen worden vastgesteld van de kenmerken in het certificaat van typegoedkeuring of eventueel in het informatiepakket, indien deze afwijkingen niet door de bevoegde autoriteit die de typegoedkeuring heeft verleend zijn toegestaan op grond van [artikel 8a.05, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.05&z=2018-10-07&g=2018-10-07).
-
-2. Indien de bevoegde autoriteit, die een typegoedkeuring heeft verleend, vaststelt dat motoren, die van een certificaat van conformiteit of van een goedkeuringsmerk zijn voorzien, niet conform zijn met het motortype, de motorfamilie of de motorgroep waaraan zij de goedkeuring heeft verleend, neemt zij de nodige maatregelen om ervoor te zorgen dat de in productie zijnde motoren opnieuw in overeenstemming worden gebracht met het goedgekeurde motortype, de goedgekeurde motorfamilie of motorgroep. De bevoegde autoriteit, die de non-conformiteit heeft vastgesteld, stelt de andere bevoegde autoriteiten en het secretariaat van de Centrale Commissie voor de Rijnvaart in kennis van de genomen maatregelen, die kunnen leiden tot de intrekking van de typegoedkeuring.
-
-3. Indien een bevoegde autoriteit kan aantonen dat motoren die van een typegoedkeuringsnummer zijn voorzien niet conform zijn met het goedgekeurde motortype, de goedgekeurde motorfamilie of motorgroep, kan zij de bevoegde autoriteit die de typegoedkeuring heeft verleend verzoeken te controleren of de in productie zijnde motoren conform zijn met het goedgekeurde motortype, de goedgekeurde motorfamilie of motorgroep. De hiertoe vereiste maatregelen moeten binnen zes maanden na de datum van het verzoek worden genomen.
-
-4. De bevoegde autoriteiten stellen elkaar in kennis van en informeren het secretariaat van de Centrale Commissie voor de Rijnvaart binnen één maand over de intrekking van een typegoedkeuring en van de redenen daarvoor.
+Vervallen
 
 ##### Artikel 8a.11. Inbouwkeuring, tussentijdse keuring en bijzondere keuring
 
-1. Bij gelegenheid van de inbouwkeuring, bedoeld in [artikel 8a.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.02&z=2018-10-07&g=2018-10-07), van de tussentijdse keuring, bedoeld in artikel 8a.02, vijfde lid, en van de bijzondere keuring, bedoeld in artikel 8a.02, zesde lid, verifieert de bevoegde autoriteit de feitelijke toestand van de motor met betrekking tot de onderdelen, de ijking en de afstellingen van de parameters zoals die in het proces-verbaal van de motorkenmerken zijn gespecificeerd.
-
-Indien een bevoegde autoriteit vaststelt dat een motor niet conform is met het goedgekeurde motortype, de goedgekeurde motorfamilie of motorgroep, kan zij eisen dat de conformiteit van de motor wordt hersteld, dat de typegoedkeuring, bedoeld in [artikel 8a.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.05&z=2018-10-07&g=2018-10-07), dienovereenkomstig wordt gewijzigd of dat metingen van de werkelijke uitstoot worden uitgevoerd.
-
-Indien de conformiteit van de motor niet wordt hersteld of indien de typegoedkeuring niet dienovereenkomstig wordt aangepast of indien de uitgevoerde metingen aantonen dat de uitstoot niet in overeenstemming is met de toegelaten grenswaarden, bedoeld in artikel 8a.02, tweede lid, weigert de bevoegde autoriteit de afgifte van een certificaat van onderzoek of trekt zij een eerder afgegeven certificaat van onderzoek in.
-
-2. Bij motoren die uitgerust zijn met een systeem voor nabehandeling van de uitlaatgassen moet de werking van het bedoelde systeem ter gelegenheid van de inbouwkeuring, de tussentijdse keuring of de bijzondere keuring worden getest.
-
-3. Die keuringen als bedoeld in het eerste lid geschieden aan de hand van het inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken. In dit formulier, dat door de fabrikant wordt opgesteld en dat door een bevoegde autoriteit moet worden goedgekeurd, worden de onderdelen die betrekking hebben op de uitlaatgassen alsmede de instellingen en kenmerken gespecificeerd, bij toepassing waarvan kan worden uitgegaan van een onafgebroken inachtneming van de grenswaarden van het uitlaatgas.
-
-Daarin wordt ten minste vermeld:
-
-- a). vermelding van het motortype van de motorfamilie of van de motorgroep daarbij het nominale vermogen en het nominale toerental specificerend;
-
-- b). een lijst van componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken;
-
-- c). niet te verwarren merktekens om de toegelaten componenten betrekking hebbend op de uitlaatgassen te identificeren (bijv. nummers van onderdelen die zich op de componenten bevinden);
-
-- d). vermelding van de motorkenmerken die betrekking hebben op de uitlaatgassen zoals instellingsmogelijkheden van het injectiemoment, van de toegelaten temperatuur van het koelwater en van de maximale tegendruk van het uitlaatgas.
-
-Bij motoren die uitgerust zijn met een systeem voor nabehandeling van de uitlaatgassen moet dit formulier ook een procedure voor de controle van de goede werking van het bedoelde systeem bevatten.
+Vervallen
 
 ##### Artikel 8a.12. Bevoegde autoriteiten en technische diensten
 
-1. De Rijnoeverstaten en België delen aan de Centrale Commissie voor de Rijnvaart de namen en de adressen van de bevoegde autoriteiten en technische diensten mede, die verantwoordelijk zijn voor de uitvoering van dit hoofdstuk. De technische diensten moeten aan de Europese norm (EN ISO/IEC 1702: 2005) voldoen, met inachtneming van de volgende voorwaarden:
-
-- a). de fabrikanten van motoren kunnen niet als technische dienst worden erkend;
-
-- b). voor de toepassing van dit hoofdstuk mag een technische dienst met toestemming van de bevoegde autoriteit gebruik maken van inrichtingen buiten zijn eigen testinstelling.
-
-2. Technische diensten niet gelegen in de Rijnoeverstaten, België of de lidstaten van de Europese Unie kunnen slechts op aanbeveling van de Centrale Commissie voor de Rijnvaart worden erkend.
+Vervallen
 
 ### Hoofdstuk 8b. Bijzondere bepalingen voor vaartuigen uitgerust met voortstuwings- of hulpsystemen die brandstoffen gebruiken met een vlampunt van 55 ˚C of minder
 
@@ -1237,7 +1082,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2018-10-07&g=2018-10-07)
+##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -1259,7 +1104,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2018-10-07&g=2018-10-07)
+##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -1269,7 +1114,7 @@ Vervallen
 
 ### Hoofdstuk 17. Bijzondere bepalingen voor drijvende werktuigen
 
-##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2018-10-07&g=2018-10-07)
+##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -1287,7 +1132,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2018-10-07&g=2018-10-07)
+##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -1437,7 +1282,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2018-10-07&g=2018-10-07) voorgeschreven minimum uitrusting
+##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2021-10-06&g=2021-10-06) voorgeschreven minimum uitrusting
 
 Vervallen
 
@@ -1473,7 +1318,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2018-10-07&g=2018-10-07) vallen
+##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2021-10-06&g=2021-10-06) vallen
 
 Vervallen
 
@@ -1481,7 +1326,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2018-10-07&g=2018-10-07)
+##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -3833,7 +3678,7 @@ Soort/naam v.h. schip;
 
 ### Hoofdstuk 22a. Bijzondere bepalingen voor vaartuigen met een lenge van meer dan 110 m
 
-##### Artikel 22a.06. Toepasselijkheid van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&z=2018-10-07&g=2018-10-07) in geval van ombouw
+##### Artikel 22a.06. Toepasselijkheid van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&z=2021-10-06&g=2021-10-06) in geval van ombouw
 
 Vervallen
 
@@ -4839,7 +4684,11 @@ Vervallen
 
 ## Bijlage J. Uitstoot van schadelijke gassen en luchtverontreinigende deeltjes door dieselmotoren – Aanvullende voorschriften en modellen van certificaten2De onderhavige bijlage blijft tot 1 januari 2020 van kracht. Vanaf die datum zullen met betrekking tot de binnenschepen de voorschriften van Verordening (EU) 2016/1628 in werking treden.
 
-## Bijlage J. Uitstoot van schadelijke gassen en luchtverontreinigende deeltjes door dieselmotoren
+Vervallen
+
+## Bijlage K
+
+Vervallen
 
 ### **Bijlagen**
 
@@ -5657,153 +5506,31 @@ De daartoe benodigde monsternemingapparatuur zijn op de markt beschikbaar.
 
 ##### Artikel 8b.01. Algemeen
 
-1. In dit hoofdstuk wordt verstaan onder ‘voortstuwings- en hulpsystemen’ elk systeem dat brandstof gebruikt, met inbegrip van:
-
-- a). brandstoftanks en tankaansluitingen;
-
-- b). gasverwerkingssystemen;
-
-- c). leidingen en afsluiters;
-
-- d). motoren en turbines;
-
-- e). besturings-, bewakings- en veiligheidssystemen.
-
-2. In afwijking van de [artikelen 8.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2018-10-07&g=2018-10-07), en [artikel 8.05 eerste, zesde, negende, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2018-10-07&g=2018-10-07) en de bepalingen van [hoofdstuk 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&z=2018-10-07&g=2018-10-07) mogen voortstuwings- en hulpsystemen die brandstoffen gebruiken met een vlampunt van 55 °C of minder op een vaartuig worden geïnstalleerd, mits aan de in dit hoofdstuk en [bijlage T](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=T&z=2018-10-07&g=2018-10-07) vermelde eisen is voldaan.
-
-3. Voortstuwings- en hulpsystemen als bedoeld in het tweede lid moeten onder toezicht van de Commissie van deskundigen worden gebouwd en geïnstalleerd.
-
-4. Voor het verrichten van taken uit hoofde van dit hoofdstuk kan de Commissie van deskundigen een beroep doen op een technische dienst als bedoeld in [artikel 8b.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.07&z=2018-10-07&g=2018-10-07).
-
-5. Vóór de eerste ingebruikstelling van een voortstuwings- of hulpsysteem als bedoeld in het tweede lid moeten de volgende bescheiden aan de Commissie van deskundigen worden voorgelegd:
-
-- a). een risicobeoordeling overeenkomstig [bijlage T](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=T&z=2018-10-07&g=2018-10-07);
-
-- b). een beschrijving van het voortstuwings- of hulpsysteem;
-
-- c). bouwtekeningen van het voortstuwings- of hulpsysteem;
-
-- d). een diagram van de druk en temperatuur in het systeem;
-
-- e). een gebruiksaanwijzing met alle procedures voor het gebruik van het systeem in de praktijk;
-
-- f). een veiligheidsrol overeenkomstig [artikel 8b.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.03&z=2018-10-07&g=2018-10-07);
-
-- g). een kopie van de verklaring van keuring als bedoeld in [artikel 8b.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.02&z=2018-10-07&g=2018-10-07).
-
-6. Er moet een kopie van de in het vijfde lid genoemde bescheiden aan boord voorhanden zijn.
+Vervallen
 
 ##### Artikel 8b.02. Keuring
 
-1. Voortstuwings- en hulpsystemen die brandstoffen gebruiken met een vlampunt van55 °C of minder moeten:
-
-- a). vóór de eerste ingebruikstelling;
-
-- b). na een verandering of reparatie;
-
-- c). met regelmaat en ten minste eenmaal per jaar;
-
-door een Commissie van deskundigen worden gekeurd.
-
-Daarbij moeten de relevante instructies van de fabrikanten in acht worden genomen.
-
-2. De keuringen als bedoeld in het eerste lid, onderdeel a en c, moeten ten minste bestaan uit:
-
-- a). controle op het overeenstemmen van het voortstuwings- en hulpsysteem met de goedgekeurde bouwtekeningen, en bij een hernieuwde test, of er veranderingen in het voortstuwings- of hulpsysteem hebben plaatsgevonden;
-
-- b). indien noodzakelijk, controle op de goede werking van het voortstuwings- en hulpsysteem met alle bedrijfsmogelijkheden;
-
-- c). visuele controle en controle op de dichtheid van alle onderdelen van het systeem, in het bijzonder kleppen, pijpleidingen, slangen, cilinders, pompen en filters;
-
-- d). visuele controle van de elektrische en elektronische delen van de installatie;
-
-- e). controle van de besturings-, bewakings- en veiligheidssystemen.
-
-3. De keuringen als bedoeld in het eerste lid, onderdeel b, moeten de desbetreffende aspecten van het tweede lid bevatten.
-
-4. Bij elke keuring als bedoeld in het eerste lid, moet een verklaring worden opgesteld waaruit de datum van de keuring blijkt.
+Vervallen
 
 ##### Artikel 8b.03. Veiligheidsorganisatie
 
-1. Op vaartuigen uitgerust met voortstuwings- of hulpsystemen die worden aangedreven met brandstoffen met een vlampunt van 55 °C of minder moet een veiligheidsrol aanwezig zijn. De veiligheidsrol moet instructies als bedoeld in het tweede lid en een veiligheidsplan als bedoeld in het derde lid van het vaartuig bevatten.
-
-2. Deze veiligheidsinstructies moeten ten minste de volgende gegevens bevatten:
-
-- a). de noodstop van het systeem;
-
-- b). maatregelen in geval van onopzettelijk vrijkomen van vloeibare of gasvormige brandstof, bij voorbeeld bij het bunkeren;
-
-- c). maatregelen in geval van brand of andere incidenten aan boord;
-
-- d). maatregelen in geval van aanvaring;
-
-- e). gebruik van de veiligheidsuitrusting;
-
-- f). activering van de alarminstallatie;
-
-- g). evacuatieprocedures.
-
-3. Het veiligheidsplan moet ten minste de volgende gegevens bevatten:
-
-- a). gevaarlijke zones;
-
-- b). vluchtwegen, nooduitgangen en gasdichte ruimten;
-
-- c). reddingsmiddelen en bijboten;
-
-- d). blustoestellen, brandblusinstallaties en sprinklerinstallaties;
-
-- e). alarmsystemen;
-
-- f). bedieningsapparatuur van noodstopschakelaars;
-
-- g). brandkleppen;
-
-- h). noodstroominstallatie;
-
-- i). schakelaars van ventilatiesystemen;
-
-- j). bedieningsapparatuur voor brandstoftoevoerleidingen;
-
-- k). veiligheidsuitrusting.
-
-4. De veiligheidsrol moet:
-
-- a). door de Commissie van deskundigen zijn gewaarmerkt, en;
-
-- b). duidelijk zichtbaar op één of meer daarvoor geëigende plaatsen aan boord zijn aangebracht.
+Vervallen
 
 ##### Artikel 8b.04. Milieuvereisten
 
-1. De emissies van motoren of turbines mogen de in [artikel 8a.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.02&z=2018-10-07&g=2018-10-07) genoemde toepasselijke grenswaarden niet overschrijden.
-
-2. Indien voor voortstuwings- en hulpsystemen aardgas als brandstof wordt gebruikt, gelden de waarden voor de koolwaterstoffen, niet voor methaan (CH4).
-
-3. Om aan te tonen dat aan het eerste lid wordt voldaan, moet bij de Commissie van deskundigen een rapport worden ingediend over de overeenkomstig de internationale ISO-standaard 8178-1: 2006 uitgevoerde proefbankmetingen van gas- en deeltjesemissies.
-
-4. Er moeten geëigende maatregelen worden getroffen om de emissies van broeikasgassen tot een minimum te beperken. De maatregelen moeten in de documenten als bedoeld in [artikel 8b.01, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.01&z=2018-10-07&g=2018-10-07), worden vermeld.
+Vervallen
 
 ##### Artikel 8b.05. Markeringen
 
-Bedrijfsruimten en systeemonderdelen moeten dusdanig gekenmerkt zijn dat duidelijk is voor welke brandstoffen zij worden gebruikt.
+Vervallen
 
 ##### Artikel 8b.06. Autonome voortstuwing
 
-In geval van een automatische uitschakeling van het voortstuwingssysteem of delen daarvan, moet het vaartuig op eigen kracht kunnen blijven voortbewegen.
+Vervallen
 
 ##### Artikel 8b.07. Technische diensten
 
-1. De technische diensten moeten voldoen aan de Europese norm EN ISO 17020: 2012.
-
-2. De fabrikanten en leveranciers van voortstuwings- en hulpsystemen of van delen van een dergelijke installatie kunnen niet als technische dienst worden erkend.
-
-3. De technische dienst moet beschikken over de kennis van zaken die nodig is op grond van de in [bijlage T](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=T&z=2018-10-07&g=2018-10-07) genoemde vereisten.
-
-4. De controles en tests als bedoeld in [artikel 8b.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.01&z=2018-10-07&g=2018-10-07) en [8b.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8b&artikel=8b.02&z=2018-10-07&g=2018-10-07) mogen door verschillende technische diensten worden verricht, op voorwaarde dat de in het derde lid bedoelde kennis hierbij voorhanden is.
-
-5. Buiten de Rijnoeverstaten en België gevestigde technische diensten kunnen slechts op aanbeveling van de Centrale Commissie voor de Rijnvaart worden erkend.
-
-6. De Rijnoeverstaten en België delen het secretariaat van de Centrale Commissie voor de Rijnvaart de namen en adressen van de Commissies van deskundigen en technische diensten mee die verantwoordelijk zijn voor het verrichten van de in dit hoofdstuk beschreven taken. Het secretariaat publiceert deze gegevens op de website van de Centrale Commissie voor de Rijnvaart.
+Vervallen
 
 ### Hoofdstuk 9. Elektrische installaties
 
@@ -5845,44 +5572,17 @@ Vervallen
 
 Vervallen
 
-## Bijlage H. Eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord in toepassing van artikel 3.10 van het onderhavige reglement
+## Bijlage N
 
-## Bijlage I. Veiligheidstekens
+Vervallen
 
-Schets 1
+## Bijlage R
 
-Verboden voor onbevoegden Kleur: rood/wit/zwart
+Vervallen
 
-Schets 2
+## Bijlage S
 
-Vuur, open licht en roken verboden Kleur: rood/wit/zwart
-
-Schets 4
-
-Waarschuwing voor algemeen gevaar Kleur: zwart/geel
-
-Schets 5
-
-Brandslang Kleur: rood/wit
-
-Schets 6
-
-Brandblusinstallatie Kleur: rood/wit
-
-Schets 7
-
-Gehoorbescherming verplicht Kleur: blauw/wit
-
-Schets 10
-
-Zwemvest gebruiken Kleuren: Blauw / Wit
-
-| Schets 11 Waarschuwing voor LNG |   | Kleur: zwart/geel |
-| --- | --- | --- |
-
-De gebruikte pictogrammen mogen enigszins variëren of meer gedetailleerd zijn dan de illustraties in deze bijlage, mits de betekenis ervan niet wordt veranderd en verschillen en aanpassingen de betekenis niet onbegrijpelijk maken.
-
-## Bijlage J. Uitstoot van schadelijke gassen en luchtverontreinigende deeltjes door dieselmotoren
+Vervallen
 
 ### Bijlage J, Deel VIII (Model)
 
@@ -6744,8 +6444,6 @@ Deze onderdelen en uitrustingen, de vereisten alsmede de procedures voor de afgi
 
 7. Het tweede tot en met zesde lid gelden niet voor vast ingebouwde brandblusinstallaties
 
-8.1. In afwijking van het eerste tot en met zesde lid is voor verbrandingsmotoren [hoofdstuk 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&z=2018-10-07&g=2018-10-07) van toepassing.
-
 ##### Artikel 2.22. Kennisgevingen inzake het toelaten van boordzuiveringsinstallaties
 
 1. De bevoegde autoriteit voor het toelaten van boorzuiveringsinstallaties bedoeld wordt: boordzuiveringsinstallaties stuurt
@@ -6782,19 +6480,7 @@ Deze onderdelen en uitrustingen, de vereisten alsmede de procedures voor de afgi
 
 ##### Artikel 8a.13. Overgangsbepalingen van hoofdstuk 8a
 
-1. De voorschriften van hoofdstuk 8a gelden niet
-
-- a). voor motoren die vóór 1.1.2003 aan boord ingebouwd waren, en
-
-- b). voor vervangingsmotoren*, die tot en met 31.12.2011 aan boord van schepen, die op 1.1.2002 in bedrijf waren, geïnstalleerd worden.
-
-2. In afwijking van [8a.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.02&z=2018-10-07&g=2018-10-07), voor motoren die vóór 1.7.2007 aan boord ingebouwd waren, gelden de grenswaarden van de volgende tabel:
-
-| PN [kW] | CO [g/kWh] | HC [g/kWh] | NOx [g/kWh] | PT [g/kWh] |
-| --- | --- | --- | --- | --- |
-| 19 ≤ PN < 37 | 6,5 | 1,3 | 9,2 | 0,85 |
-| 75 ≤ PN < 130 | 5,0 | 1,3 | 9,2 | 0,70 |
-| PN ≥ 130 | 5,0 | 1,3 | n ≥ 2.800 min-1 = 9,2 500 ≤ n < 2.800 min-1 = 45 • n(-0,2) | 0,54 |
+Vervallen
 
 ### Hoofdstuk 8b. Bijzondere bepalingen voor vaartuigen uitgerust met voortstuwings- of hulpsystemen die brandstoffen gebruiken met een vlampunt van 55 ˚C of minder
 
@@ -6826,7 +6512,7 @@ Deze onderdelen en uitrustingen, de vereisten alsmede de procedures voor de afgi
 
 ### Hoofdstuk 24. Overgangs- en slotbepalingen
 
-## Bijlage D. als bedoeld in [artikel 2.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2018-10-07&g=2018-10-07)
+## Bijlage D. als bedoeld in [artikel 2.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2021-10-06&g=2021-10-06)
 
 Vervallen
 
@@ -6872,5 +6558,34 @@ Vervallen
 Vervallen
 
 ## Bijlage S
+
+Vervallen
+
+## Bijlage L
+
+Vervallen
+
+## Bijlage M
+
+Vervallen
+
+## Bijlage O
+
+Lijst van de aan het certificaat van onderzoek volgens [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2021-10-06&g=2021-10-06) als gelijkwaardig erkende bevoegdheidsbewijzen en modaliteiten voor de erkenning van die bevoegdheidsbewijzen
+
+| Nr. | Aan het certificaat van onderzoek volgens artikel 1.04 als gelijkwaardig erkende bevoegdheidsbewijzen | Modaliteiten van de erkenning | Datum van de erkenning |
+| --- | --- | --- | --- |
+| 1 | Na 30 december 2008 afgegeven of hernieuwde communautaire certificaten voor binnenschepen, die bevestigen dat de desbetreffende schepen, onverminderd de overgangsvoorschriften volgens hoofdstuk 24, bijlage II, volledig voldoen aan de technische voorschriften van bijlage II van de laatst geldende versie van [Richtlijn 2006/87/EG](32006L0087) inzake vaststelling van de technische voorschriften voor binnenvaartschepen en tot intrekking van [Richtlijn 82/714/EEG](31982L0714). | Schepen op de Rijn, waaraan na 30 december 2008 een communautair certificaat is afgegeven, moeten van motoren zijn voorzien, die voldoen aan ofwel de grenswaarden van de door Centrale Commissie voor de Rijnvaart, zoals is vastgelegd in het Reglement Onderzoek schepen op de Rijn, ofwel aan vergelijkbare grenswaarden krachtens [Richtlijn 97/68/EG](31997L0068) in zijn laatst geldende versie. | 27 november 2008 |
+| 2 | Na 6 oktober 2018 afgegeven of hernieuwde binnenschipcertificaten van de Unie, die bevestigen dat de desbetreffende schepen, onverminderd de overgangsvoorschriften volgens [hoofdstuk 32 van ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&hoofdstuk=32), volledig voldoen aan de voorschriften van de laatst geldende versie van Richtlijn (EU) 2016/1629. | Schepen op de Rijn, waaraan na 6 oktober 2018 een binnenschipcertificaat van de Unie is afgegeven, moeten van motoren zijn voorzien, die voldoen aan ofwel de grenswaarden van de door Centrale Commissie voor de Rijnvaart, zoals is vastgelegd in het Reglement Onderzoek schepen op de Rijn, ofwel aan vergelijkbare grenswaarden krachtens [Richtlijn 97/68/EG](31997L0068) in zijn laatst geldende versie. | XX.XX.20XX |
+
+## Bijlage P. Vereiste gegevens voor de identificatie van een schip
+
+Vervallen
+
+## Bijlage Q
+
+Vervallen
+
+## Bijlage T. Aanvullende bepalingen voor vaartuigen die worden aangedreven met brandstoffen met een vlampunt van 55 ˚C of minder
 
 Vervallen
