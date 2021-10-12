@@ -4,7 +4,7 @@ identifier: "BWBR0045681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-07-01"
+last_updated: "2021-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045681"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ De gemeente:
 
 - a. verleent medewerking aan de Minister bij het verzamelen van informatie ten behoeve van monitoring en evaluatie van deze regeling.
 
-- b. doet onverwijld een schriftelijke melding aan de Minister indien aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045681&artikel=3&z=2021-10-12&g=2021-07-01), niet tijdig of niet geheel zullen worden verricht of dat niet tijdig of niet geheel aan de verplichtingen in dit artikel zal worden voldaan.
+- b. doet onverwijld een schriftelijke melding aan de Minister indien aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045681&artikel=3&z=2021-10-12&g=2021-10-12), niet tijdig of niet geheel zullen worden verricht of dat niet tijdig of niet geheel aan de verplichtingen in dit artikel zal worden voldaan.
 
 ##### Artikel 6. Betaling
 
