@@ -4,7 +4,7 @@ identifier: "BWBR0039820"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2019-02-06"
+last_updated: "2021-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039820"
 soort: "zbo"
@@ -50,8 +50,6 @@ In deze beleidsregel wordt verstaan onder:
 
 - 1. **DNB:** De Nederlandsche Bank N.V.;
 
-- 1. **Tijdelijk hoog deposito:** een deposito als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02);
-
 - 2. **Besluit:** [Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414);
 
 - 3. **De Wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (Wft);
@@ -68,7 +66,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. een curator als bedoeld in [artikel 68 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68).
 
-- 5. **Datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel (DGS):** datum van het oordeel van De Nederlandsche Bank of van de gerechtelijke uitspraak ten aanzien van de betreffende bank als bedoeld in [artikel 3:260, eerste lid, onderdeel a, onderscheidenlijk onderdeel b van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260).
+- 5. **Datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel (DGS):** datum van het oordeel van De Nederlandsche Bank of van de gerechtelijke uitspraak ten aanzien van de betreffende bank als bedoeld in [artikel 3:260, eerste lid, onderdeel a, onderscheidenlijk onderdeel b van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260);
+
+- 6. **Tijdelijk hoog deposito:** een deposito als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02).
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -106,7 +106,7 @@ DNB kent vergoedingen uit hoofde van het DGS aan een derde toe indien aangetoond
 
 - c. Termijndeposito’s
 
-- d. Bijzondere rekeningen
+- d. Rekeningen die geen betaalrekening, spaarrekening of termijndeposito zijn en waarvan DNB op grond van de door de betreffende bank aangeleverde gegevens het in aanmerking komende bedrag kan vaststellen
 
 - e. Rekeningen waarvan DNB niet op grond van door de betreffende bank aangeleverde gegevens het in aanmerking komende bedrag kan vaststellen.
 
@@ -169,6 +169,44 @@ De berekening van aangegroeide rente, zoals vastgelegd in [artikel 29.06, tweede
 - a. voor zover de hoogte van nog niet gecrediteerde rente op de datum, bedoeld in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), niet meer afhankelijk is van externe (markt)factoren, kwalificeert deze als te zijn aangegroeid als bedoeld in 29.06, tweede lid, van het Besluit;
 
 - b. voor zover de hoogte van nog niet gecrediteerde rente of premie op de datum, bedoeld in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), nog onderhevig is aan externe (markt)factoren, kwalificeert deze niet als te zijn aangegroeid als bedoeld in 29.06, tweede lid, van het Besluit.
+
+### Hoofdstuk 4. Slotbepalingen
+
+De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Afdeling 2.2. Uitsluitingen
+
+##### Artikel 2.3
+
+1. Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), beschouwt DNB de volgende overheden als overheden op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid, aanhef en onderdeel a, sub 8 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01):
+
+- a. de Staat;
+
+- b. provincies;
+
+- c. gemeenten;
+
+- d. waterschappen;
+
+- e. de Openbare lichamen BES;
+
+- f. Buitenlandse en supranationale overheden die vergelijkbaar zijn met de overheden in onderdeel a tot en met e.
+
+2. Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), beschouwt DNB het depositogarantiestelsel wel van toepassing op entiteiten met een publiekrechtelijke grondslag die geen direct en integraal onderdeel zijn van de overheden bedoeld in het eerste lid.
+
+##### Artikel 2.4
+
+Wanneer een depositohouder een niet-natuurlijk persoon zonder rechtspersoonlijkheid is die classificeert als een onderneming op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01), kent DNB voor dit deposito geen vergoeding toe aan de personen die als leden van de vennootschap of soortgelijke groepering aanspraak maken op het deposito.
+
+### Hoofdstuk 3. Uitvoering
+
+##### Artikel 3.7
+
+1. In het geval van deposito’s die conform [artikel 6, eerste lid, onderdeel j van de Beleidsregel Individueel Klantbeeld Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&artikel=6) zijn gemarkeerd als lijfrenterekeningen als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekeningen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), stelt DNB de bijbehorende toegekende vergoeding uit hoofde van het depositogarantiestelsel niet automatisch beschikbaar voor uitkering via de website als bedoeld in [artikel 29.07, eerste lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07).
+
+2. Alvorens de vergoeding bedoeld in het eerste lid beschikbaar te stellen, wijst DNB de depositohouder op de mogelijke fiscale consequenties van het direct ontvangen van de vergoeding.
+
+3. Waar dit mogelijk is, ondersteunt DNB een constructie voor depositohouders om dat deel van de toegekende vergoeding uit hoofde van het depositogarantiestelsel dat samenhangt met een lijfrenterekening als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekening als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), uit te laten keren op een andere rekening waarmee de toepasselijke fiscale behandeling kan worden voortgezet.
 
 ### Hoofdstuk 4. Slotbepalingen
 
