@@ -4,7 +4,7 @@ identifier: "BWBR0045687"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-10-13"
-last_updated: "2021-07-01"
+last_updated: "2021-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045687"
 soort: "AMvB"
@@ -44,15 +44,15 @@ Wijzigt het Reglement rijbewijzen.
 
 Wijzigt het Reglement rijbewijzen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2. [Artikel I, onderdelen A en C tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0045687&artikel=I&z=2021-10-13&g=2021-10-13), werkt terug tot en met 1 juli 2021.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Tweede tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19.
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 20 september 2021, nr. IENW/BSK-2021/235541, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
