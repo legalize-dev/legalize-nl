@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2021-10-01"
+last_updated: "2021-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2021-10-14&g=2021-10-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2021-10-14&g=2021-10-14).
 
 ##### Artikel 2. Instelling en taak
 
@@ -92,9 +92,13 @@ In dit besluit wordt verstaan onder:
 
 - c. Meredith Overman MSc te Amsterdam
 
-- d. dr. Corrie Tijsseling te Utrecht
+- d. dr. Corrie Tijsseling te Utrecht (eervol ontslag verleend vanaf 1 oktober 2021)
 
-3. Te rekenen vanaf 1 oktober 2020 wordt Mohamed Badaou te Amsterdam, voor de periode van 1 jaar tot studentlid van de commissie benoemd.
+3. Te rekenen vanaf 1 oktober 2021 wordt prof. dr. Susan Legêne te Utrecht voor een periode van 3 jaar tot lid van de commissie benoemd.
+
+4. Te rekenen vanaf 1 oktober 2020 wordt Mohamed Badaou te Amsterdam voor een periode van 1 jaar tot studentlid van de commissie benoemd.
+
+5. Te rekenen vanaf 1 oktober 2021 wordt Khaled Tamimy te Amsterdam voor een periode van 1 jaar tot studentlid van de commissie benoemd.
 
 ##### Artikel 5. Instellingsduur
 
