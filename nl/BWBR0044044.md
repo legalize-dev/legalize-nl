@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2021-06-01"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-04-01&g=2021-06-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-04-01&g=2021-10-15), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -216,9 +216,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. is [artikel 3, eerste en tweede lid, met uitzondering van de onderdelen f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2021-04-01&g=2021-06-01) van overeenkomstige toepassing;
+- a. is [artikel 3, eerste en tweede lid, met uitzondering van de onderdelen f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2021-04-01&g=2021-10-15) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van de onderdelen j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-04-01&g=2021-06-01), van overeenkomstige toepassing; en
+- b. is [artikel 4, eerste lid, met uitzondering van de onderdelen j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-04-01&g=2021-10-15), van overeenkomstige toepassing; en
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid.
 
