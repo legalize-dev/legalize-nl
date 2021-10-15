@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2021-10-01"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2021-10-01&g=2021-10-01).
+Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2021-10-21&g=2021-10-15).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
@@ -196,7 +196,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 124, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2021-10-01&g=2021-10-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2021-10-21&g=2021-10-15), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
