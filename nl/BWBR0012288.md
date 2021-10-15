@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2021-10-01"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1891,7 +1891,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 2.7. Vertrekmoratorium
 
-Geen bijzonderheden.
+Ten aanzien van Afghaanse vreemdelingen is sinds 26 augustus 2021 voor de duur van zes maanden een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) van toepassing.
 
 ### 2.8. Bijzonderheden
 
@@ -3483,11 +3483,11 @@ De Nederlandse ambassade:
 
 Een algemeen ambtsbericht van het Ministerie van Buitenlandse Zaken over de situatie in een land wordt betrokken bij het asielbeleid ten aanzien van dat land.
 
-Geen bijzonderheden.
+Ten aanzien van Afghaanse vreemdelingen is sinds 26 augustus 2021 voor de duur van zes maanden een besluitmoratorium in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing.
 
 ### 2.2. Artikel 1F Vluchtelingenverdrag
 
-Groepsvervolging wordt aangenomen voor tolken die hebben gewerkt voor internationale militaire missies in Afghanistan.
+Groepsvervolging wordt aangenomen voor tolken die hebben gewerkt voor internationale militaire- of politiemissies in Afghanistan.
 
 ### 2.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
