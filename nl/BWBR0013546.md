@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -55,9 +55,9 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 3
 
-1. Bij de beoordeling van gevaarlijke eigenschappen van afvalstoffen wordt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1&z=2019-01-01&g=2019-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+1. Bij de beoordeling van gevaarlijke eigenschappen van afvalstoffen wordt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1&z=2021-10-16&g=2021-10-16) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
 
-2. Bij de indeling als gevaarlijke afvalstof wordt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=2&z=2019-01-01&g=2019-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+2. Bij de indeling als gevaarlijke afvalstof wordt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=2&z=2021-10-16&g=2021-10-16) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
 
 3. Bij de indeling van afvalstoffen wordt de aanhef van het onderdeel ‘Lijst van afvalstoffen’ van de afvalstoffenlijst in acht genomen.
 
@@ -71,9 +71,11 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2021-10-16&g=2021-10-16) bedoelde eigenschappen bezit, wordt het tweede tot en met vijfde lid in acht genomen.
 
-2. Afvalstoffen worden als volgt bemonsterd:
+2. Bij de vaststelling, bedoeld in het eerste lid, worden in ieder geval asfaltproducten als een gevaarlijke afvalstof gezien als deze meer dan 75 mg/kg bevatten van een totale som aan PAK’s, genoemd in [bijlage A, tabel 2, van de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=A).
+
+3. Afvalstoffen worden als volgt bemonsterd:
 
 - a. afgewerkte olie volgens NEN-EN-ISO 3170 – Vloeibare aardolieproducten – handmatige monsterneming, februari 2004,
 
@@ -85,13 +87,13 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 - e. de overige afvalstoffen volgens NVN 5860 – Afvalstoffen – Bemonstering van afval, november 1999.
 
-3. De voorbehandeling van monsters geschiedt als volgt:
+4. De voorbehandeling van monsters geschiedt als volgt:
 
 - a. monsters die worden ontsloten voor de bepaling van elementen worden behandeld volgens ontwerp NEN-EN 13657 – Karakterisering van afval – Ontsluiting voor de bepaling van in koningswater oplosbare elementen, november 2002,
 
 - b. monsters ter bepaling van overige organische en anorganische stoffen worden behandeld volgens NVN 5870 -0 Afvalstoffen – Analyse van afvalstoffen – Monstervoorbehandeling voor de bepaling van het gehalte aan organische en anorganische parameters, februari 1998.
 
-4. De analyse van:
+5. De analyse van:
 
 - a. asbest in afval en recyclinggranulaat geschiedt volgens ontwerp NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017,
 
@@ -101,11 +103,11 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 - d. overige stoffen geschiedt volgens NEN 5878 – Milieu – Onderzoek van fysische en chemische parameter in onbekende vaste en vloeibare monstermatrices, september 2006.
 
-5. Met de methoden, bedoeld in het eerste tot en met vierde lid, worden gelijkgesteld de methoden die volgens een wettelijk voorschrift zijn voorgeschreven in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die ten minste gelijkwaardig zijn.
+6. Met de methoden, bedoeld in het eerste en derde tot en met vijfde lid, worden gelijkgesteld de methoden die volgens een wettelijk voorschrift zijn voorgeschreven in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die ten minste gelijkwaardig zijn.
 
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2019-01-01&g=2019-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2021-10-16&g=2021-10-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2021-10-16&g=2021-10-16) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
@@ -142,5 +144,11 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel A, 
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling Europese afvalstoffenlijst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
