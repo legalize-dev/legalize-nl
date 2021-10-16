@@ -4,7 +4,7 @@ identifier: "BWBR0045697"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-16"
-last_updated: "2021-05-01"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045697"
 soort: "ministeriele-regeling"
@@ -49,11 +49,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanspraak eenmalige uitkering
 
-De Dutchbat-III-veteraan ontvangt ambtshalve een eenmalige uitkering ter hoogte van het bedrag genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=5&z=2021-10-16&g=2021-05-01) van deze regeling.
+De Dutchbat-III-veteraan ontvangt ambtshalve een eenmalige uitkering ter hoogte van het bedrag genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=5&z=2021-10-16&g=2021-10-16) van deze regeling.
 
 ##### Artikel 3. Recht op uitkering nabestaande
 
-Indien de Dutchbat-III veteraan ten tijde van inwerkingtreden van deze regeling is overleden ontvangt de nabestaande de eenmalige uitkering bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=2&z=2021-10-16&g=2021-05-01). Indien de nabestaande reeds is overleden, wordt voor de toepassing van deze regeling het bedrag zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=5&z=2021-10-16&g=2021-05-01) toegekend aan het kind van de Dutchbat-III-veteraan, of bij meerdere kinderen aan hen gezamenlijk, op voorwaarde dat een verklaring van erfrecht wordt overgelegd. Indien de overleden Dutchbat-III-veteraan noch kinderen noch een nabestaande heeft in de zin van deze regeling, zijn diens ouders gezamenlijk gerechtigd tot het ontvangen van deze eenmalige uitkering. Voor het geval dat de Dutchbat-III-veteraan geen kinderen heeft nagelaten, en zowel de nabestaande als ook de ouders van de Dutchbat-III-veteraan zijn overleden, bestaat geen aanspraak op het in artikel 5 genoemde geldbedrag.
+Indien de Dutchbat-III veteraan ten tijde van inwerkingtreden van deze regeling is overleden ontvangt de nabestaande de eenmalige uitkering bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=2&z=2021-10-16&g=2021-10-16). Indien de nabestaande reeds is overleden, wordt voor de toepassing van deze regeling het bedrag zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045697&artikel=5&z=2021-10-16&g=2021-10-16) toegekend aan het kind van de Dutchbat-III-veteraan, of bij meerdere kinderen aan hen gezamenlijk, op voorwaarde dat een verklaring van erfrecht wordt overgelegd. Indien de overleden Dutchbat-III-veteraan noch kinderen noch een nabestaande heeft in de zin van deze regeling, zijn diens ouders gezamenlijk gerechtigd tot het ontvangen van deze eenmalige uitkering. Voor het geval dat de Dutchbat-III-veteraan geen kinderen heeft nagelaten, en zowel de nabestaande als ook de ouders van de Dutchbat-III-veteraan zijn overleden, bestaat geen aanspraak op het in artikel 5 genoemde geldbedrag.
 
 ##### Artikel 4. Volmacht
 
