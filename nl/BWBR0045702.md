@@ -141,33 +141,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Nederlandse Emissieautoriteit 2021.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor het opvragen en verwerken van alle nodige gegevens voor de toepassing, waaronder de voorbereiding van de toepassing, van artikel 6 van [Verordening (EU) 2022/1854](32022R1854) van de Raad van 6 oktober 2022, betreffende een noodinterventie in verband met de hoge energieprijzen, Pb. EU L 261 I/1, overeenkomstig artikel 7, zesde lid, van deze verordening.
-
-#### § 3. Ondermandaat
-
-#### § 4. Instructies
-
-#### § 5. Overgangs- en slotbepalingen
-
-##### Artikel 8*
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2b
-
-Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor de bevoegdheden vervat in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=15) en [16 van de Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=16).
-
-#### § 3. Ondermandaat
-
-#### § 5. Overgangs- en slotbepalingen
-
-##### Artikel 8*
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
