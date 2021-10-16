@@ -4,7 +4,7 @@ identifier: "BWBR0013527"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-16"
-last_updated: "2002-03-29"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013527"
 soort: "ministeriele-regeling"
@@ -60,15 +60,15 @@ Voor het verrichten van handelingen met of ten aanzien van tactische voertuigen 
 
 ##### Artikel 6
 
-Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen die vóór 1 augustus 1997 in gebruik zijn genomen, wordt tot 1 januari 2016 vrijstelling verleend van randnummer 9.2.5 van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
+Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen wordt voor wat betreft gevaarsetiketten, vrijstelling verleend van randnummer 5.2.2.2 van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), voor zover de gehanteerde modellen de klaarblijkelijke betekenis van het etiket niet beïnvloeden.
 
 ##### Artikel 7
 
-Voor het verrichten van handelingen met of ten aanzien van militaire transporteenheden waarvan het motorvoertuig vóór 1 augustus 1997 in gebruik is genomen, wordt tot 1 januari 2016 vrijstelling verleend van randnummer 9.2.3 van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
+Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen wordt voor wat betreft drukhouders gevuld met UN 1002 lucht, samengeperst (perslucht) of UN 1006 argon, samengeperst of UN 1066 stikstof, samengeperst of UN 1072 zuurstof, samengeperst of UN 1956 samengeperst gas, N.E.G. of UN 3156 samengeperst gas, oxiderend, N.E.G., vrijstelling verleend van de randnummers 6.2.3 en 6.2.4 van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), voor zover deze drukhouders zijn ontworpen en gebouwd in overeenstemming met een norm of specificatie die wordt erkend door de bevoegde autoriteit van het land van goedkeuring.
 
 ##### Artikel 8
 
-De Regeling vrijstelling vervoer gevaarlijke stoffen militaire voertuigen wordt ingetrokken.
+Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen wordt voor wat betreft lithiumbatterijen die zijn aangeschaft vóór 1 januari 2018, tot 1 januari 2033 vrijstelling verleend van randnummer 2.2.9.1.7, onderdeel a, van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
 
 ##### Artikel 9
 
