@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-04-30"
+last_updated: "2021-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -50,8 +50,6 @@ In dit besluit wordt verstaan onder:
 - **derden:** personen en organisaties binnen en buiten de Rijksoverheid;
 
 - **richtlijn 2014/47/EU:** [richtlijn 2014/47](32014L0047)/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Unie aan het verkeer deelnemen en tot intrekking van [richtlijn 2000/30/EG](32000L0030) (PbEU 2014, L 127);
-
-- **richtlijn 2004/52/EG:** [Richtlijn 2004/52/EG](32004L0052) van het Europees Parlement en de Raad van 29 april 2004 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer in de Gemeenschap (PbEU 2004, L 166);
 
 - **beschikking 2009/750/EG:** Beschikking 2009/750/EG van de Commissie van 6 oktober 2009 tot definiëring van de Europese elektronische tolheffingsdienst en de bijbehorende technische onderdelen (PbEU 2009, L 268);
 
@@ -149,7 +147,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - w. het beoordelen van een voertuig en de daarbij aangeleverde documentatie in het kader van de procedure tot aanwijzing voor toelating tot het verkeer op de weg van een motorrijtuig als bedoeld in [artikel 20b, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) en het houden van toezicht op de conformiteit van de productie van die motorrijtuigen;
 
-- x. het ter uitvoering van richtlijn 2004/52/EG beoordelen van aanvragen voor registratie als aanbieder van een elektronisch heffingssysteem, het registreren daarvan conform het bepaalde in artikel 3 van de beschikking 2009/750/EG, het bijhouden en publiceren van een elektronisch register met de in Nederland geregistreerde aanbieders, het uitvoeren van artikel 19, eerste lid, onderdeel b, van de beschikking 2009/750/EG en indien die uitvoering hiertoe aanleiding geeft, het intrekken van de registratie;
+- x. vervallen;
 
 - y. het vastleggen in het rijbewijzenregister van verklaringen in verband met de afgifte van rijbewijzen;
 
@@ -173,9 +171,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2021-04-30&g=2021-04-30), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2021-10-19&g=2021-10-19), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2021-04-30&g=2021-04-30) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2021-10-19&g=2021-10-19) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
