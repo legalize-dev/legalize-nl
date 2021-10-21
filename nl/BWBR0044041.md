@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2021-10-15"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2021-10-21&g=2021-10-15).
+Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2021-10-21&g=2021-10-21).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
@@ -196,7 +196,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 124, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2021-10-21&g=2021-10-15), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2021-10-21&g=2021-10-21), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
@@ -248,11 +248,11 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 10. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 124a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 124a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -260,7 +260,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 124a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
 
-7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 29 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 ##### Artikel 11. Uitzonderingssituaties toepassing marktonderzoek
 
