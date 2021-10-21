@@ -4,7 +4,7 @@ identifier: "BWBR0037088"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-18"
-last_updated: "2015-12-01"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037088"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **F-gassenverordening:** Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 (PbEU L 150);
 
-- c. **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+- c. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
 - d. **Verordening ozonlaagafbrekende stoffen:** Verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaagafbrekende stoffen (herschikking) (PbEU L 286).
 
@@ -114,23 +114,31 @@ Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op hande
 
 19. Het is verboden te handelen in strijd met artikel 15, derde lid, in verbinding met artikel 15, eerste lid, tweede alinea, en de artikelen 16, vijfde lid, en 18 van de F-gassenverordening. Het verbod, bedoeld in de eerste volzin, is niet van toepassing in de gevallen en onder de voorwaarden, genoemd in artikel 15, tweede of vierde lid, van de F-gassenverordening.
 
+20. Het is verboden te handelen in strijd met artikel 17, eerste lid, van de F-gassenverordening.
+
+21. Het is verboden te handelen in strijd met artikel 19, eerste tot en met zesde lid, van de F-gassenverordening.
+
 ##### Artikel 5
 
-1. Het is verboden te handelen in strijd met de artikelen 2, eerste tot en met derde lid, 3 en 4, tweede lid, van verordening (EG) nr. 1494/2007 van de Europese Commissie van 17 december 2007 (PbEU L 332).
+1. Het is verboden te handelen in strijd met artikel 2 van [Uitvoeringsverordening (EU) 2015/2068](32015R2068) van de Commissie van 17 november 2015 (PbEU L 301).
 
 2. Het is verboden te handelen in strijd met de artikelen 2 tot en met 7 van verordening (EG) nr. 1497/2007 van de Europese Commissie van 18 december 2007 (PbEU L 333).
 
 3. Het is verboden te handelen in strijd met de artikelen 2 tot en met 4, 5, eerste en derde lid, 6, 7, eerste en tweede lid, in verbinding met artikel 7, derde lid, en 8 tot en met 10 van verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 (PbEU L 335).
 
-4. Het is verboden te handelen in strijd met de artikelen 4, eerste lid, en 7, eerste lid, van verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+4. Het is verboden te handelen in strijd met de artikelen 3, eerste lid, en 5 van [Uitvoeringsverordening (EU) 2015/2067](32015R2067) van de Europese Commissie van 17 november 2015 (PbEU L 301).
 
 5. Het is verboden te handelen in strijd met de artikelen 4, eerste lid, en 7, eerste lid, van verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
 
-6. Het is verboden te handelen in strijd met artikel 3, eerste lid, van verordening (EG) nr. 305/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+6. Het is verboden te handelen in strijd met artikel 2, eerste lid, van [Uitvoeringsverordening (EU) 2015/2066](32015R2066) van de Europese Commissie van 17 november 2015 (PbEU L 301).
 
 7. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
 
 8. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+
+9. Het is verboden te handelen in strijd met artikel 1 van [uitvoeringsverordening (EU) 1191/2014](32014R1191) (PbEU L 318).
+
+10. Het is verboden te handelen in strijd met de artikelen 1 tot en met 4 van [Uitvoeringsverordening (EU) 2016/879](32016R0879) (PbEU L 146).
 
 ##### Artikel 6
 
@@ -198,9 +206,9 @@ Onze Minister is de bevoegde instantie, bedoeld in de artikelen 10 tot en met 15
 
 ##### Artikel 10
 
-1. Onze Minister kan op aanvraag een erkenning verlenen aan een instelling voor het verstrekken van certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01) aan natuurlijke personen of ondernemingen.
+1. Onze Minister kan op aanvraag een erkenning verlenen aan een instelling voor het verstrekken van certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21) aan natuurlijke personen of ondernemingen.
 
-2. De erkenning vermeldt ten minste de naam en het adres van de instelling en de werkzaamheden en taken als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01), waarvoor de instelling certificaten kan afgeven.
+2. De erkenning vermeldt ten minste de naam en het adres van de instelling en de werkzaamheden en taken als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21), waarvoor de instelling certificaten kan afgeven.
 
 3. De erkenning wordt voor onbepaalde tijd verleend en is niet overdraagbaar.
 
@@ -210,7 +218,7 @@ Onze Minister is de bevoegde instantie, bedoeld in de artikelen 10 tot en met 15
 
 - a. de naam en het adres van de aanvrager;
 
-- b. aanduiding van de werkzaamheden en taken als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01), waarvoor de aanvrager voornemens is certificaten te verstrekken.
+- b. aanduiding van de werkzaamheden en taken als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21), waarvoor de aanvrager voornemens is certificaten te verstrekken.
 
 2. Onze Minister kan nadere regels stellen met betrekking tot de wijze van indiening van de aanvraag en de bij de aanvraag te verstrekken gegevens.
 
@@ -218,7 +226,7 @@ Onze Minister is de bevoegde instantie, bedoeld in de artikelen 10 tot en met 15
 
 1. Onze Minister verleent de erkenning geheel of gedeeltelijk, indien de desbetreffende instelling:
 
-- a. heeft voldaan aan de bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=11&z=2015-12-01&g=2015-12-01) gestelde vereisten;
+- a. heeft voldaan aan de bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=11&z=2021-10-21&g=2021-10-21) gestelde vereisten;
 
 - b. niet in staat van faillissement verkeert of geen surseance van betaling heeft verkregen;
 
@@ -238,13 +246,13 @@ Onze Minister is de bevoegde instantie, bedoeld in de artikelen 10 tot en met 15
 
 1. Op verzoek van de erkende instelling kan de erkenning worden gewijzigd.
 
-2. Op het verzoek zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=11&z=2015-12-01&g=2015-12-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=12&z=2015-12-01&g=2015-12-01) van overeenkomstige toepassing.
+2. Op het verzoek zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=11&z=2021-10-21&g=2021-10-21) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=12&z=2021-10-21&g=2021-10-21) van overeenkomstige toepassing.
 
 ##### Artikel 14
 
-1. Een instelling verstrekt geen certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01) aan natuurlijke personen of ondernemingen zonder daartoe verleende erkenning.
+1. Een instelling verstrekt geen certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21) aan natuurlijke personen of ondernemingen zonder daartoe verleende erkenning.
 
-2. Een erkende instelling voldoet aan de bij of krachtens [artikel 12, eerste lid, onder c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=12&z=2015-12-01&g=2015-12-01), gestelde vereisten.
+2. Een erkende instelling voldoet aan de bij of krachtens [artikel 12, eerste lid, onder c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=12&z=2021-10-21&g=2021-10-21), gestelde vereisten.
 
 3. Een erkende instelling certificeert geen natuurlijke personen of ondernemingen, waarmee de instelling organisatorisch, financieel of juridisch verbonden is, tenzij deze verbondenheid alleen voortvloeit uit een tussen partijen ten behoeve van de certificering gesloten overeenkomst van opdracht.
 
@@ -270,7 +278,7 @@ Onze Minister is de bevoegde instantie, bedoeld in de artikelen 10 tot en met 15
 
 - b. de instelling naar het oordeel van Onze Minister ernstig tekort is geschoten bij de naleving van een bij of krachtens dit besluit gestelde verplichting;
 
-- c. de erkenning ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=15&z=2015-12-01&g=2015-12-01), is geschorst en de tekortkoming niet binnen de in artikel 15, tweede lid, bedoelde termijn is opgeheven, of
+- c. de erkenning ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=15&z=2021-10-21&g=2021-10-21), is geschorst en de tekortkoming niet binnen de in artikel 15, tweede lid, bedoelde termijn is opgeheven, of
 
 - d. aan de instelling surseance van betaling is verleend of de instelling in staat van faillissement verkeert.
 
@@ -288,11 +296,11 @@ Met een erkenning wordt gelijkgesteld een erkenning, afgegeven door een daartoe 
 
 ##### Artikel 18
 
-1. In aanvulling op de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01), blijft het bepaalde bij en krachtens [artikel 4, eerste tot en met het vierde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, gedurende zes maanden na inwerkingtreding van dit besluit van kracht.
+1. In aanvulling op de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21), blijft het bepaalde bij en krachtens [artikel 4, eerste tot en met het vierde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, gedurende zes maanden na inwerkingtreding van dit besluit van kracht.
 
-2. Een krachtens [artikel 4, eerste lid, van het Besluit gefluoreerde broeikasgassen](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5, eerste lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, verleend diploma wordt gelijkgesteld met een certificaat voor een natuurlijk persoon als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01).
+2. Een krachtens [artikel 4, eerste lid, van het Besluit gefluoreerde broeikasgassen](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5, eerste lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, verleend diploma wordt gelijkgesteld met een certificaat voor een natuurlijk persoon als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21).
 
-3. Een krachtens [artikel 4, tweede lid, van het Besluit gefluoreerde broeikasgassen](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5, tweede lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, verleend bedrijfscertificaat wordt gedurende ten hoogste twee jaren na inwerkingtreding van dit besluit gelijk gesteld met een certificaat voor een onderneming als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2015-12-01&g=2015-12-01).
+3. Een krachtens [artikel 4, tweede lid, van het Besluit gefluoreerde broeikasgassen](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5, tweede lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, verleend bedrijfscertificaat wordt gedurende ten hoogste twee jaren na inwerkingtreding van dit besluit gelijk gesteld met een certificaat voor een onderneming als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2021-10-21&g=2021-10-21), en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2021-10-21&g=2021-10-21).
 
 4. Een aanwijzing die is verleend krachtens [artikel 4, derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) dan wel [artikel 5, derde lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals die artikelleden luidden onmiddellijk voorafgaande aan de inwerkingtreding van het onderhavige besluit, wordt gedurende twee jaren na inwerkingtreding van dit besluit gelijk gesteld met een erkenning.
 
