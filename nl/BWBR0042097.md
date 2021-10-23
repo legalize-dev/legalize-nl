@@ -4,7 +4,7 @@ identifier: "BWBR0042097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-23"
-last_updated: "2020-04-04"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042097"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) met het oog op resultaatgerichte financiering van activiteiten op het gebied van de verbetering van toegang tot hernieuwbare energie in ontwikkelingslanden gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2024 de als bijlage bij dit besluit gevoegde beleidsregels.
+Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) met het oog op resultaatgerichte financiering van activiteiten op het gebied van de verbetering van toegang tot hernieuwbare energie in ontwikkelingslanden gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 de als bijlage bij dit besluit gevoegde beleidsregels.
 
 ##### Artikel 2
 
@@ -56,9 +56,9 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma SDG Results: Access to renewable energy geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2024 voor aanvragen bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), een subsidieplafond van € 14.181.889, en voor aanvragen bedoeld in artikel 2, tweede lid, een subsidieplafond van € 8.318.111.
+1. Voor subsidieverlening in het kader van het Subsidieprogramma SDG Results: Access to renewable energy geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2026 voor aanvragen bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2021-10-23&g=2021-10-23), een subsidieplafond van € 14.181.889, en voor aanvragen bedoeld in artikel 2, tweede lid, een subsidieplafond van € 8.318.111.
 
-2. De middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), zijn als volgt verdeeld over de volgende thema’s:
+2. De middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2021-10-23&g=2021-10-23), zijn als volgt verdeeld over de volgende thema’s:
 
 - a. Toegang tot schoon koken met hernieuwbare energie: € 10.305.259;
 
@@ -66,15 +66,15 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 Daarbij geldt dat indien middelen resteren van de middelen die beschikbaar zijn voor aanvragen gericht op één van beide thema’s, deze middelen beschikbaar komen voor aanvragen met betrekking tot het andere thema, voor zover deze aanvragen voldoen aan de maatstaven die in dit besluit zijn neergelegd.
 
-3. De verdeling van de middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), volgt bij de nader bekend te maken openstellingsperiode, bedoeld in artikel 2, tweede lid.
+3. De verdeling van de middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2021-10-23&g=2021-10-23), volgt bij de nader bekend te maken openstellingsperiode, bedoeld in artikel 2, tweede lid.
 
 ##### Artikel 4
 
-De verdeling van de subsidieplafonds bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=3&z=2020-04-04&g=2020-04-04), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8). Indien één van deze plafonds dreigt te worden overschreden door twee of meer aanvragen die in dezelfde mate voldoen aan de maatstaven, bepaalt de minister door middel van loting de definitieve plaats in de rangschikking.
+De verdeling van de subsidieplafonds bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=3&z=2021-10-23&g=2021-10-23), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8). Indien één van deze plafonds dreigt te worden overschreden door twee of meer aanvragen die in dezelfde mate voldoen aan de maatstaven, bepaalt de minister door middel van loting de definitieve plaats in de rangschikking.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2025, met dien verstande dat het van toepassing blijft op subsidies die voor die tijd zijn verleend.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat het van toepassing blijft op subsidies die voor die tijd zijn verleend.
 
 ## Bijlage
 
@@ -86,7 +86,7 @@ Met het Subsidieprogramma SDG Results: Access to renewable energy (hierna te noe
 
 Om de klimaatdoelen van Parijs te halen moet de wereld versneld over van fossiele brandstoffen naar hernieuwbare energie. Tegelijkertijd wordt gestreefd naar universele toegang tot moderne energie in 2030 en naar een verdubbeling van de snelheid van energiebesparing.
 
-Eén miljard mensen hebben nog geen toegang tot elektriciteit. Drie miljard mensen koken nog met sterk vervuilende combinaties van inefficiënte technologieën en brandstoffen zoals mest, brandhout en houtskool. Het Nederlandse kabinet heeft zich daarom tot doel gesteld om 50 miljoen mensen te bereiken met toegang tot hernieuwbare energie in 2030.
+Meer dan 750 miljoen mensen hebben nog geen toegang tot elektriciteit. 2,6 miljard mensen koken nog met sterk vervuilende combinaties van inefficiënte technologieën en brandstoffen zoals mest, brandhout en houtskool. Het Nederlandse kabinet heeft zich daarom tot doel gesteld om 50 miljoen mensen te bereiken met toegang tot hernieuwbare energie in 2030.
 
 Toegang tot moderne energiediensten biedt huishoudens, met name arme huishoudens, alternatieven voor onbetrouwbare, ongezonde, tijdrovende en relatief dure traditionele energievoorziening voor koken, verwarming, verlichting en communicatie. Arme huishoudens geven tot 20% van hun inkomen uit aan energiediensten van lage kwaliteit. Een gebrek aan elektriciteit beperkt de economische ontwikkeling in arme regio's. Het inademen van rook uit traditionele kookvuren en toestellen resulteert in ongeveer 4 miljoen sterfgevallen per jaar. De last van het verzamelen van brandhout en koken in door rook aangetaste omgevingen valt voornamelijk op vrouwen en meisjes, veelal geestdodend werk met een risico op gender-gerelateerd geweld en waarbij hun gezondheid in gevaar wordt gebracht. Daarnaast draagt traditioneel koken bij aan ontbossing, bodemdegradatie, lokale milieuvervuiling en klimaatverandering. Aangezien de meerderheid van de energie-armen in landelijke en peri-urbane gebieden woont, en hun koopkracht laag is, zijn oplossingen zoals een uitbreiding van het nationale netwerk financieel niet haalbaar noch een politieke prioriteit in de meeste landen. Als het huidige beleid en de bevolkingsontwikkeling zich voortzetten, zullen in 2030 nog steeds minstens 674 miljoen mensen geen toegang hebben tot elektriciteit en zullen bijna 2,3 miljard mensen nog steeds afhankelijk zijn van traditionele kookmethodes.32018 SDG7 Tracking: The Energy Progress Report, Custodian agencies
 
@@ -96,7 +96,7 @@ Het Nederlandse kabinet wil daarom de toegang tot decentrale hernieuwbare energi
 
 Met het subsidieprogramma presenteert het Ministerie van Buitenlandse Zaken een innovatieve aanpak om private actoren te stimuleren hun activiteiten uit te breiden naar armere klantsegmenten en andere arme gebieden in de markten waarin ze nu al actief zijn.
 
-De stimulering vindt plaats via een resultaatgerichte financiering in de vorm van subsidie waarmee de bijbehorende opstartrisico’s worden gedempt en de bijbehorende meerkosten worden verlaagd.
+De stimulering vindt plaats via een resultaatgerichte financiering in de vorm van subsidie waarmee de bijbehorende opstartrisico’s worden gedempt en de bijbehorende projectkosten worden verlaagd.
 
 Voorschotverlening vindt pas plaats na onafhankelijke verificatie van de in de aanvraag opgenomen (deel)resultaten, te weten het aantal gerealiseerde aansluitingen op hernieuwbare energiediensten.
 
@@ -114,7 +114,7 @@ In dit subsidieprogramma wordt verstaan onder:
 
 ### 4.1. Doel
 
-Het subsidieprogramma heeft tot doel om in totaal 2 miljoen arme mensen te voorzien van aansluiting op moderne energiediensten via samenwerking met de private sector. Het gaat hierbij om het behalen van resultaten op het gebied van toegang tot schoon koken met hernieuwbare energie en tot decentrale hernieuwbare elektriciteit in huishoudens. Het subsidieprogramma wil dit doen door beperkingen van de commerciële markt te verminderen door een financiële stimulans te geven aan de private sector om tijdelijke risico's voor marktontwikkeling op het gebied van hernieuwbare energie in ontwikkelingslanden te mitigeren en de bijbehorende innovatiekosten, zijnde meerkosten, te verlagen.
+Het subsidieprogramma heeft tot doel om in totaal 2 miljoen arme mensen te voorzien van aansluiting op moderne energiediensten via samenwerking met de private sector. Het gaat hierbij om het behalen van resultaten op het gebied van toegang tot schoon koken met hernieuwbare energie en tot decentrale hernieuwbare elektriciteit in huishoudens. Het subsidieprogramma wil dit doen door beperkingen van de commerciële markt te verminderen door een financiële stimulans te geven aan de private sector om tijdelijke risico's voor marktontwikkeling op het gebied van hernieuwbare energie in ontwikkelingslanden te mitigeren en de bijbehorende projectkosten, te verlagen.
 
 Het subsidieprogramma beoogt daarnaast bij te dragen aan de volgende nevendoelstellingen:
 
@@ -166,15 +166,15 @@ Om in aanmerking te kunnen komen voor een subsidie in het kader van dit subsidie
 
 ### 4.7. Omvang van de subsidie
 
-De subsidie bedraagt per aanvraag maximaal € 2.500.000. De omvang van de aangevraagde subsidie is niet lager dan € 250.000. De subsidie is gemaximeerd op de totale begrote meerkosten omgeslagen over het geprognosticeerd aantal aansluitingen als gevolg van de activiteit.
+De subsidie per aanvraag bedraagt maximaal € 2.500.000. De aangevraagde subsidie mag niet lager zijn dan € 250.000. Het gevraagde subsidiebedrag is het bod maal het aantal aansluitingen, met een maximum van 35% van de begrote subsidiabele projectkosten. Overigens geldt daarbij dat per serviceniveau slechts één bod mag worden uitgebracht. Voor aansluitingen op verschillende serviceniveaus hoeven de biedingen niet gelijk te zijn. De aanvrager dient in zijn aanvraag te onderbouwen wat de projectkosten in de beoogde doelmarkt zijn.
 
 ### 5. Subsidiabele kosten
 
 ### 5.1. Uitgangspunt
 
-De subsidiabele kosten betreffen de redelijkerwijs noodzakelijke meerkosten van de activiteiten en worden omgeslagen naar en afgerekend op basis van het aantal gerealiseerde aansluitingen (zie 4.5).
+De subsidiabele kosten betreffen de redelijkerwijs noodzakelijke projectkosten van de activiteiten en worden omgeslagen naar en afgerekend op basis van het aantal gerealiseerde aansluitingen (zie 4.5).
 
-De aanvrager dient in zijn aanvraag te onderbouwen wat de meerkosten in de beoogde doelmarkt zijn ten opzichte van de soortgelijke aansluitkosten in zijn huidige markten.
+De aanvrager dient in zijn aanvraag te onderbouwen wat de projectkosten in de beoogde doelmarkt zijn ten opzichte van de soortgelijke aansluitkosten in zijn huidige markten.
 
 ### 5.2. Subsidiabele kosten
 
@@ -202,19 +202,19 @@ De uiterste termijn voor het indienen van aanvragen in de eerste openstelling va
 
 In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de Minister vragen om een aanvulling. Als datum van ontvangst van de aanvraag zal vervolgens gelden de datum waarop de aanvraag is aangevuld. Indien een aanvraag pas in de laatste twee weken voor het verstrijken van de deadline wordt ingediend, loopt de aanvrager het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om een aanvulling te vragen in verband met de tijd die is gemoeid met het controleren van alle aanvragen op volledigheid. In dat geval zal de aanvraag derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals zij primair is ingediend.
 
-Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de aanvrager het risico op afwijzing van de aanvraag.
+In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de Minister vragen om een aanvulling. Als datum van ontvangst van de aanvraag zal vervolgens gelden de datum waarop de aanvraag is aangevuld. Indien een aanvraag pas in de laatste twee weken voor het verstrijken van de deadline wordt ingediend, loopt de aanvrager het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om een aanvulling te vragen in verband met de tijd die is gemoeid met het controleren van alle aanvragen op volledigheid. In dat geval zal de aanvraag derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals zij primair is ingediend.
 
 ### 7. Beoordeling en verdeling beschikbare middelen
 
-### 7.1. Beoordeling
+### 7. Beoordeling en verdeling beschikbare middelen
+
+Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan alle hiervoor, in het bijzonder in paragraaf 4 tot en met 6, opgenomen vereisten. Slechts de aanvragen die daaraan voldoen worden inhoudelijk beoordeeld op kwaliteit aan de hand van de in paragraaf 7.2 opgenomen criteria.
 
 Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan alle hiervoor, in het bijzonder in paragraaf 4 tot en met 6, opgenomen vereisten. Slechts de aanvragen die daaraan voldoen worden inhoudelijk beoordeeld op kwaliteit aan de hand van de in paragraaf 7.2 opgenomen criteria.
 
 Ter ondersteuning van de beoordeling kan RVO activiteiten uitvoeren ter controle van de in de aanvraag gedane aannames en stellingnames. Tevens kan hierdoor informatie die nodig is voor een goede beoordeling van de kwaliteit van de aanvraag verzameld worden. Hiervoor kan RVO contact zoeken met de aanvrager en relevante stakeholders.
 
 RVO kan tijdens de inhoudelijke beoordeling ook advies inwinnen bij externe experts. De Ambassades van het Koninkrijk der Nederlanden wordt altijd gevraagd om input voor de beoordeling van de aanvragen.
-
-Verder zijn de bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in dit subsidieprogramma zijn neergelegd.
 
 ### 7.2. Inhoudelijke criteria
 
@@ -224,7 +224,7 @@ Aanvragen moeten in voldoende mate aan de inhoudelijke criteria voldoen om in aa
 
 Er zijn twee openstellingen voor subsidieaanvragen in het kader van dit Subsidieprogramma. Voor de eerste ronde is € 14.181.889 beschikbaar, waarvan € 10.305.259 beschikbaar is voor het thema toegang tot schoon koken met hernieuwbare energie en € 3.876.630 voor het thema toegang tot decentrale hernieuwbare elektriciteit. Voor de tweede ronde is € 8.318.111 beschikbaar. De verdeling van het budget over de beide thema’s wordt bij de bekendmaking van de openstellingsperiode voor de tweede ronde vastgesteld en bekend gemaakt.
 
-De beoordeling van de aanvragen en de toekenning en verdeling van de beschikbare middelen vindt plaats via een tender: van alle aanvragen die voldoen aan de maatstaven van deze beleidsregels, wordt de kwaliteit beoordeeld volgens de criteria opgenomen in paragraaf 7.2. Om in aanmerking te kunnen komen voor een subsidie, dient de kwaliteit van de aanvraag ten minste voldoende te zijn. De aanvragen worden vervolgens gerangschikt op basis van de uitkomsten van deze beoordeling. De aanvragen die het beste voldoen aan de criteria komen als eerste voor subsidie in aanmerking. De verdeling van de beschikbare middelen vindt derhalve plaats op grond van de kwaliteit van de ingediende aanvragen, waarbij de minister rekening houdt met een evenwichtige spreiding van de middelen over de landen op de landenlijst behorende bij dit subsidieprogramma (annex 1). Van de middelen die in totaal voor één van beide openstellingen beschikbaar zijn, wordt niet meer dan 40% ingezet voor subsidieverstrekking voor activiteiten in eenzelfde land van de landen op de landenlijst en wordt ten minste 25% ingezet voor subsidieverstrekking voor activiteiten in de focusregio’s.
+Er zijn twee openstellingen voor subsidieaanvragen in het kader van dit subsidieprogramma. Voor de eerste ronde was € 14.181.889 beschikbaar. Voor de tweede ronde is € 8.000.000 beschikbaar. Voor beide rondes geldt dat het voor de betreffende ronde beschikbare bedrag is verdeeld over twee thema’s. Voor subsidieverstrekking voor activiteiten gericht op toegang tot schoon koken met hernieuwbare energie was in de eerste ronde € 10.305.259 beschikbaar, en is in de tweede ronde € 4.000.000 beschikbaar. Voor subsidieverstrekking voor activiteiten gericht op toegang tot decentrale hernieuwbare elektriciteit was in de eerste ronde € 3.876.630 beschikbaar, en is in de tweede ronde € 4.000.000 beschikbaar.
 
 ### 7.4. Puntenverdeling
 
@@ -232,15 +232,17 @@ In de onderstaande tabel staat per criterium de minimaal vereiste score om in aa
 
 ### 8. Verificatie van aansluitingen, voorschotverlening en subsidievaststelling
 
-### 8.1. Uitgangspunten
+### 8. Verificatie van aansluitingen, voorschotverlening en subsidievaststelling
+
+Het subsidieprogramma hanteert de volgende uitgangspunten:
 
 Het subsidieprogramma hanteert de volgende uitgangspunten:
 
 Het risico van het niet bereiken van de resultaten ligt hiermee aan de kant van de subsidieontvanger. Dit wijkt af van traditionele subsidieprogramma’s waarbij de subsidieverstrekker en de subsidieontvanger de risico's gewoonlijk delen, zowel doordat daarbij een deel van de subsidie wordt betaald door middel van voorschotten vóórdat activiteiten zijn uitgevoerd, alsook doordat daarbij de subsidie meest gerelateerd is aan het uitgevoerd hebben van de activiteit (output) en niet zozeer aan het profijt voor de eindgebruiker (outcome). In het kader van dit subsidieprogramma is de verantwoordelijkheid voor de voorfinanciering van de activiteiten die nodig zijn om toegang tot energie te bieden, die van de subsidieontvanger. Daar staat tegenover dat de subsidieontvanger ruimte heeft om wijzigingen aan te brengen in zijn aanpak met inachtneming van het bepaalde in de subsidieverleningsbeschikking, indien en voor zover het gaat om wijzigingen die niet tot een ander oordeel over de aanvraag zouden hebben geleid indien zij deel hadden uitgemaakt van de aanvraag die is gehonoreerd.
 
-Voor activiteiten met ‘mini-grids’ geldt als uitzondering op het eerste uitgangspunt dat al een voorschotverzoek gedaan kan worden na de oplevering van de installatie, en dus niet pas na de realisatie van de aansluiting. Voor dit subsidieprogramma geldt als mini-grid een decentraal distributienetwerk voor elektriciteit met een eigen kleinschalige hernieuwbare-elektriciteitsopwekking.
-
 ### 8.2. Verificatie van aansluitingen en voorschotverlening
+
+In de subsidieverleningsbeschikkingen zullen verplichtingen worden opgenomen over de verificatie van aansluitingen in verband met de voorschotverlening. Hiervan zal een verificatieprotocol onderdeel uitmaken. Nadat de subsidie is verleend, zal de door RVO benoemde onafhankelijke verificateur in samenwerking met de subsidieontvanger het verificatieprotocol nader afstemmen.
 
 In de subsidieverleningsbeschikkingen zullen verplichtingen worden opgenomen over de verificatie van aansluitingen in verband met de voorschotverlening. Hiervan zal een verificatieprotocol onderdeel uitmaken. Nadat de subsidie is verleend, zal de door RVO benoemde onafhankelijke verificateur in samenwerking met de subsidieontvanger het verificatieprotocol nader afstemmen.
 
@@ -248,17 +250,19 @@ Ten behoeve van een eenduidige dataverzameling worden subsidieontvangers verplic
 
 Subsidieontvangers kunnen voorschotten aanvragen gedurende de looptijd van de activiteiten. Alvorens tot voorschotverlening wordt overgegaan, zal de verificateur verifiëren dat de aansluitingen die door de subsidieontvanger worden gerapporteerd en waarvoor een voorschotverzoek aan RVO wordt gedaan, daadwerkelijk zijn gerealiseerd en voldoen aan het bepaalde in de beschikking, zoals serviceniveau (tier), doelgroep.
 
-Figuur 1 illustreert de verificatiecyclus.
-
 ### 8.3. Jaarlijkse evaluatie
 
 In de subsidieverleningsbeschikking wordt tevens als verplichting opgenomen dat de subsidieontvanger jaarlijks informatie verstrekt over de voortgang van de activiteiten ten opzichte van de in de aanvraag beoogde resultaten. Deze rapportages worden benut voor de jaarlijkse evaluatie die RVO uitvoert van de voortgang van de activiteiten en de behaalde resultaten.
 
-Aan de hand van de evaluatie wordt jaarlijks per subsidie bezien of er sprake is van een afwijking van meer dan 25% ten aanzien van de in de subsidieverleningsbeschikking opgenomen jaarlijkse mijlpalen voor de te behalen resultaten. In de gevallen waarin daarvan sprake is, wordt beoordeeld of het kennelijk te verwachten is dat er sprake zal zijn van een afwijking van meer dan 25% ten opzichte van de met de gesubsidieerde activiteiten te behalen doelstelling (het totaal aantal te realiseren aansluitingen) aan het einde van het subsidietijdvak. Als gevolg van deze jaarlijkse evaluatie kan het in de subsidieverleningsbeschikking vermelde maximale subsidiebedrag worden:
+In de subsidieverleningsbeschikking wordt tevens als verplichting opgenomen dat de subsidieontvanger jaarlijks informatie verstrekt over de voortgang van de activiteiten ten opzichte van de in de aanvraag beoogde resultaten. Deze rapportages worden benut voor de jaarlijkse evaluatie die RVO uitvoert van de voortgang van de activiteiten en de behaalde resultaten.
 
 ### 8.4. Subsidievaststelling
 
 De subsidieontvanger dient na afloop van de subsidieperiode een aanvraag tot vaststelling van de subsidie in met daarbij een controleverklaring van een onafhankelijke accountant die de daadwerkelijk gemaakte kosten en meerkosten van de activiteiten heeft gecontroleerd.
+
+### 9. Afwijzingsgronden
+
+De vast te stellen subsidie is gelijk aan het bod maal het aantal aansluitingen, met een maximum van 35% van de gerealiseerde subsidiabele projectkosten.
 
 ### 9. Afwijzingsgronden
 
@@ -278,10 +282,6 @@ Ter verantwoording van de administratieve lasten waarmee de subsidieaanvrager te
 
 ### Annex 1. Landenlijst
 
-* De overwegingen uit de Kamerbrief van 14 december 201813BZDOC-1235421577-13, https://www.rijksoverheid.nl/documenten/kamerstukken/2018/12/14/kamerbrief-over-theories-of-change-en-geografische-focus-ontwikkelingssamenwerking hebben geleid tot deze focuslanden voor internationale samenwerking. Aanvragen voor subsidie op deze landen komen bij de beoordeling in aanmerking voor extra punten.
-
-### Annex 2. Multi-Tier Framework for Measuring Energy Access of ESMAP
-
 ### a. Multi-Tier Framework for Electricity
 
 Table 1.
@@ -290,7 +290,63 @@ N.B. ‘light’: a narrative reasonably explaining the criterion is respected.
 
 ### b. Multi Trier Framework for clean and efficient cooking
 
+N.B. ‘light’: a narrative reasonably explaining the criterion is respected.
+
+The attributes convenience, affordability and fuel availability, are considered ‘soft’ attributes. The applicant will be asked to specify the proposed product according to the MTF standards in a narrative manner. At the full proposal the applicant will be asked to provide a test certificate for each stove type to be sold under the SDG 7 RESULTS for the attributes measured through the ISO lab testing standard and voluntary performance targets. If the applicant wishes to add products during the execution of the SDG 7 RESULTS, this can be accepted after RVO received and approved the test certificate for the product as well as the explanation on the ‘soft’ attributes.
+
 Each stove type that is distributed under the SDG 7 RESULTS needs to comply with the standards set under Tier 2 for each MTF attribute. For the attributes: cooking exposure, cookstove efficiency and safety, SDG 7 Results refers to the ISO lab testing standard and voluntary performance targets. In the first tender compliance with the ISO-IWA 11-2012 standards is **requested**, organizations are **encouraged** to test their stoves according to the new **ISO/TC 285**. For the second tender compliance with the new **ISO/TC 285** standards can become mandatory depending on the adequate availability of testing facilities compliant with the new standards. For charcoal stoves, an exception is made regarding the attribute exposure: the emissions on CO will be acceptable at tier 1 level.
+
+### Annex 3. Corporate rates
+
+Dit besluit zal met de bijlage en de bij de bijlage behorende annexen in de Staatscourant worden geplaatst.
+
+De uiterste termijn voor het indienen van aanvragen in de tweede openstelling van dit subsidieprogramma is 14 februari 2022, 12.00 uur Nederlandse tijd. Aanvragen, inclusief alle verplichte bijlagen, dienen op dit tijdstip door RVO te zijn ontvangen.
+
+### 6.2. Herstelperiode
+
+Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de aanvrager het risico op afwijzing van de aanvraag.
+
+### 7.1. Beoordeling
+
+Verder zijn de bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in dit subsidieprogramma zijn neergelegd.
+
+### 7.2. Inhoudelijke criteria
+
+Aanvragen moeten in voldoende mate aan de inhoudelijke criteria voldoen om in aanmerking te kunnen komen voor subsidie. Aanvragen zullen aan de hand van de beoordeling op onderstaande criteria en na toekenning van eventuele bonuspunten voor aanvragen in de focuslanden zoals aangegeven op de landenlijst, gerangschikt worden ten einde te kunnen bepalen welke aanvragen in aanmerking kunnen komen voor subsidie.
+
+### 7.3. Verdeling beschikbare middelen
+
+De beoordeling van de aanvragen en de toekenning en verdeling van de beschikbare middelen vindt plaats via een tender: van alle aanvragen die voldoen aan de maatstaven van deze beleidsregels, wordt de kwaliteit beoordeeld volgens de criteria opgenomen in paragraaf 7.2. Om in aanmerking te kunnen komen voor een subsidie, dient de kwaliteit van de aanvraag ten minste voldoende te zijn. De aanvragen worden vervolgens gerangschikt op basis van de uitkomsten van deze beoordeling. De aanvragen die het beste voldoen aan de criteria komen als eerste voor subsidie in aanmerking. De verdeling van de beschikbare middelen vindt derhalve plaats op grond van de kwaliteit van de ingediende aanvragen, waarbij de minister rekening houdt met een evenwichtige spreiding van de middelen over de landen op de landenlijst behorende bij dit subsidieprogramma (annex 1). Van de middelen die in totaal voor één van beide openstellingen beschikbaar zijn, wordt niet meer dan 40% ingezet voor subsidieverstrekking voor activiteiten in eenzelfde land van de landen op de landenlijst en wordt ten minste 25% ingezet voor subsidieverstrekking voor activiteiten in de focusregio’s.
+
+### 7.4. Puntenverdeling
+
+In de onderstaande tabel staat per criterium de minimaal vereiste score om in aanmerking te kunnen komen voor subsidie, het maximum aantal punten, de weegfactor en het aantal bonuspunten dat behaald kan worden. Exclusief de eventuele bonuspunten dient in elk geval een score van 60 punten te worden behaald om in aanmerking te kunnen komen voor subsidie.
+
+### 8.1. Uitgangspunten
+
+Voor activiteiten met ‘mini-grids’ geldt als uitzondering op het eerste uitgangspunt dat al een voorschotverzoek gedaan kan worden na de oplevering van de installatie, en dus niet pas na de realisatie van de aansluiting. Voor dit subsidieprogramma geldt als mini-grid een decentraal distributienetwerk voor elektriciteit met een eigen kleinschalige hernieuwbare-elektriciteitsopwekking.
+
+### 8.2. Verificatie van aansluitingen en voorschotverlening
+
+Figuur 1 illustreert de verificatiecyclus.
+
+### 8.3. Jaarlijkse evaluatie
+
+Aan de hand van de evaluatie wordt jaarlijks per subsidie bezien of er sprake is van een afwijking van meer dan 25% ten aanzien van de in de subsidieverleningsbeschikking opgenomen jaarlijkse mijlpalen voor de te behalen resultaten. In de gevallen waarin daarvan sprake is, wordt beoordeeld of het kennelijk te verwachten is dat er sprake zal zijn van een afwijking van meer dan 25% ten opzichte van de met de gesubsidieerde activiteiten te behalen doelstelling (het totaal aantal te realiseren aansluitingen) aan het einde van het subsidietijdvak. Als gevolg van deze jaarlijkse evaluatie kan het in de subsidieverleningsbeschikking vermelde maximale subsidiebedrag worden:
+
+### 8.4. Subsidievaststelling
+
+De subsidieontvanger dient na afloop van de subsidieperiode een aanvraag tot vaststelling van de subsidie in met daarbij een controleverklaring van een onafhankelijke accountant die de daadwerkelijk gemaakte projectkosten van de activiteiten heeft gecontroleerd.
+
+* De overwegingen uit de Kamerbrief van 14 december 201813BZDOC-1235421577-13, https://www.rijksoverheid.nl/documenten/kamerstukken/2018/12/14/kamerbrief-over-theories-of-change-en-geografische-focus-ontwikkelingssamenwerking hebben geleid tot deze focuslanden voor internationale samenwerking. Aanvragen voor subsidie op deze landen komen bij de beoordeling in aanmerking voor extra punten.
+
+### Annex 2. Multi-Tier Framework for Measuring Energy Access of ESMAP
+
+### a. Multi-Tier Framework for Electricity
+
+Table 1.
+
+### b. Multi Trier Framework for clean and efficient cooking
 
 The attributes convenience, affordability and fuel availability, are considered ‘soft’ attributes. The applicant will be asked to specify the proposed product according to the MTF standards in a narrative manner. At the full proposal the applicant will be asked to provide a test certificate for each stove type to be sold under the SDG 7 RESULTS for the attributes measured through the ISO lab testing standard and voluntary performance targets. If the applicant wishes to add products during the execution of the SDG 7 RESULTS, this can be accepted after RVO received and approved the test certificate for the product as well as the explanation on the ‘soft’ attributes.
 
