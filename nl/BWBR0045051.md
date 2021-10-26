@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-10-12"
+last_updated: "2021-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-10-12&g=2021-10-12);
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-10-26&g=2021-10-26);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-10-12&g=2021-10-12);
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-10-26&g=2021-10-26);
 
 - c. Noord-Brabant; en
 
@@ -110,17 +110,19 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-10-12&g=2021-10-12), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-10-12&g=2021-10-12), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-10-12&g=2021-10-12), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-10-12&g=2021-10-12) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-10-12&g=2021-10-12) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-10-26&g=2021-10-26), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-10-26&g=2021-10-26), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-10-26&g=2021-10-26), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-10-26&g=2021-10-26) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-10-26&g=2021-10-26) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
 ##### Artikel 3.4. Ophokplicht vogels
 
-Vervallen
+1. Een exploitant van commercieel gehouden vogels of een exploitant van risicovogels neemt passende maatregelen om zo veel mogelijk te voorkomen dat de vogels in contact komen met in het wild levende dieren of hun uitwerpselen.
+
+2. Een passende maatregel als bedoeld in het eerste lid is voor een exploitant van commercieel gehouden vogels, met uitzondering van vogels, behorende tot de fazanten (Phasianidae) of de loopvogels, ten minste het binnen een gebouw brengen en daar houden van de vogels.
 
 ##### Artikel 3.5. Verbod wedstrijden en tentoonstellingen met vogels
 
-Vervallen
+Jaarbeurzen, markten, wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen zijn verboden, wanneer daar risicovogels op een plaats worden verzameld.
 
 #### § 3.3. Maatregelen strooisel eenden
 
@@ -286,9 +288,9 @@ Vervallen
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-10-12&g=2021-10-12)
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-10-26&g=2021-10-26)
 
-Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-10-12&g=2021-10-12)
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-10-26&g=2021-10-26)
 
 ### 1. Leefgebied Wild zwijn Veluwe
 
@@ -298,7 +300,7 @@ Het leefgebied is in donkergroen aangeduid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-10-12&g=2021-10-12)
+## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-10-26&g=2021-10-26)
 
 Gebieden waar de ophok- en afschermplicht niet geldt
 
