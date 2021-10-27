@@ -4,7 +4,7 @@ identifier: "BWBV0006612"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-10-27"
-last_updated: "2016-06-29"
+last_updated: "2021-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006612"
 soort: "verdrag"
@@ -172,15 +172,15 @@ Het Gerecht is gerechtigd onder de voorwaarden die kunnen worden overeengekomen 
 
 ##### Artikel 12. Samenwerking met de autoriteiten van de staten die partij zijn
 
-1. Onverminderd hun voorrechten en immuniteiten is het de taak van alle personen die uit hoofde van de [artikelen 6,](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2016-06-29&g=2016-06-29)[9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2016-06-29&g=2016-06-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2016-06-29&g=2016-06-29) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de staat die partij is op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
+1. Onverminderd hun voorrechten en immuniteiten is het de taak van alle personen die uit hoofde van de [artikelen 6,](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27)[9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de staat die partij is op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
 
 2. Het Gerecht werkt te allen tijde samen met de desbetreffende autoriteiten van de staten die partij zijn teneinde de handhaving van hun wetgeving te vereenvoudigen en misbruik in verband met de voorrechten, immuniteiten en faciliteiten bedoeld in dit Protocol te voorkomen.
 
-##### Artikel 13. Doel en opheffing van de voorrechten en immuniteiten voorzien in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2016-06-29&g=2016-06-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2016-06-29&g=2016-06-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2016-06-29&g=2016-06-29)
+##### Artikel 13. Doel en opheffing van de voorrechten en immuniteiten voorzien in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27)
 
 1. De voorrechten en immuniteiten voorzien in dit Protocol worden niet vastgesteld ten behoeve van het persoonlijk voordeel van de personen aan wie zij worden verleend. Zij zijn uitsluitend bedoeld in het belang van het Gerecht en in het bijzonder teneinde de handelingsvrijheid van het Gerecht en de volledige onafhankelijkheid van de betrokken personen onder alle omstandigheden te waarborgen.
 
-2. Het presidium van het Gerecht is niet alleen gerechtigd maar ook verplicht de immuniteit van rechters, de griffier en het personeel ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2016-06-29&g=2016-06-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2016-06-29&g=2016-06-29) op te heffen, indien het van oordeel is dat deze de normale loop van het recht zou belemmeren en zulks mogelijk is zonder de belangen van het Gerecht te schaden. Staten die partij zijn hebben hetzelfde recht ten aanzien van hun vertegenwoordigers in het Bestuurscomité en het Begrotingscomité ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2016-06-29&g=2016-06-29)). Het Bestuurscomité heeft hetzelfde recht en dezelfde verplichting ten aanzien van de leden van het Raadgevend Comité.
+2. Het presidium van het Gerecht is niet alleen gerechtigd maar ook verplicht de immuniteit van rechters, de griffier en het personeel ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27) op te heffen, indien het van oordeel is dat deze de normale loop van het recht zou belemmeren en zulks mogelijk is zonder de belangen van het Gerecht te schaden. Staten die partij zijn hebben hetzelfde recht ten aanzien van hun vertegenwoordigers in het Bestuurscomité en het Begrotingscomité ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27)). Het Bestuurscomité heeft hetzelfde recht en dezelfde verplichting ten aanzien van de leden van het Raadgevend Comité.
 
 ##### Artikel 14. Toegang, verblijf en vertrek
 
@@ -196,7 +196,7 @@ De griffier doet binnen een maand na de inwerkingtreding van dit Protocol alle s
 
 ##### Artikel 16. Beslechting van geschillen
 
-1. Het Gerecht treft voorzieningen voor passende regelingen voor de beslechting van geschillen waarbij personen bedoeld in dit Protocol betrokken zijn die uit hoofde van hun officiële functie immuniteit genieten alsmede voor zaken waarbij het Gerecht betrokken is en ten aanzien waarvan het uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=5&z=2016-06-29&g=2016-06-29) immuniteit geniet, indien deze immuniteit niet is opgeheven.
+1. Het Gerecht treft voorzieningen voor passende regelingen voor de beslechting van geschillen waarbij personen bedoeld in dit Protocol betrokken zijn die uit hoofde van hun officiële functie immuniteit genieten alsmede voor zaken waarbij het Gerecht betrokken is en ten aanzien waarvan het uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=5&z=2021-10-27&g=2021-10-27) immuniteit geniet, indien deze immuniteit niet is opgeheven.
 
 2. Alle geschillen die voortvloeien uit de uitlegging of toepassing van dit Protocol worden verwezen naar een scheidsgerecht, tenzij de partijen een andere wijze van geschillenbeslechting zijn overeengekomen. Indien een geschil ontstaat tussen het Gerecht en een staat die partij is dat niet binnen drie maanden na een verzoek daartoe door een van de partijen bij het geschil kan worden beslecht door overleg, onderhandeling of een andere overeengekomen wijze van geschillenbeslechting, wordt het op verzoek van een van de partijen voor een definitieve uitspraak voorgelegd aan een panel van drie scheidsrechters: een te kiezen door het Gerecht, een door de staat die partij is en de derde die zal optreden als voorzitter van het panel te kiezen door de eerste twee scheidsrechters. Indien een van de partijen nalaat een lid van het scheidsgerecht te benoemen binnen twee maanden na de benoeming van een lid door de andere partij, verricht de president van het Europees Hof van Justitie deze benoeming. Indien de eerste twee scheidsrechters er binnen drie maanden na hun benoeming niet in slagen overeenstemming te bereiken over de benoeming van de derde scheidsrechter, wordt de derde scheidsrechter op verzoek van het Gerecht of de staat die partij is gekozen door de president van het Europees Hof van Justitie.
 
