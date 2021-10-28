@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2021-08-01"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-08-01&g=2021-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-10-28&g=2021-10-28) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-08-01&g=2021-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-10-28&g=2021-10-28).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-08-01&g=2021-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-10-28&g=2021-10-28)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -361,10 +361,21 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1195 | Papiaments B1/B2 in het beroepsonderwijs |
 | K1257 | Pedicurebehandelingen uitvoeren |
 | K1270 | Werken met baby's |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2021** | **Certificaten voor keuzedelen vanaf oktober 2021** |
+| K1246 | Basis smart infra installatie, service en onderhoud |
+| K1143 | Funderingstechnieken |
+| K0434 | Opslag gevaarlijke stoffen |
+| K1258 | Poedercoaten |
+| K1260 | Retailtransformatie in bedrijf |
+| K1263 | Specialisatie aanbrengen van wandbekleding |
+| K1264 | Specialisatie plaatsen van beglazingssystemen |
+| K1265 | Specialisatie smart infra installatie, service en onderhoud |
+| K1049 | Waterstoftechnologie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-08-01&g=2021-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-10-28&g=2021-10-28)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -424,6 +435,17 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0056 | Assortimentsbeheer optiek en assisteren bij refractie | 25631 | Opticien |
 | C0059 | Individuele ondersteuning in de maatschappelijke zorg | 25476 | Begeleider specifieke doelgroepen |
 | C0060 | Uitvoeren van schilderwerk | 25589 | Schilder |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2021** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2021** |
+| C0061 | Aansturen en coachen van begeleiders praktijkleren | 25487 | Praktijkopleider |
+| C0062 | Coördinatie en organisatie in de GHZ | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+| C0063 | Coördineren van leertrajecten van (nieuwe) medewerkers en stagiairs | 25487 | Praktijkopleider |
+| C0064 | Examinering van (nieuwe) medewerkers en stagiairs | 25487 | Praktijkopleider |
+| C0065 | Kwaliteitsborging van de beroepspraktijkvorming | 25487 | Praktijkopleider |
+| C0066 | Kwaliteitszorg en werkbegeleiding in de GHZ | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+| C0067 | Ondersteunende audicienswerkzaamheden | 25047 | Audicien |
+| C0068 | Opsluiten en voormonteren van standaard houten kozijnen en ramen | 25583 | Montagemedewerker houttechniek |
+| C0069 | Plannen van ondersteunende begeleiding en zorg | 25477 | Persoonlijk begeleider gehandicaptenzorg |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
