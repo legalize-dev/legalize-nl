@@ -4,7 +4,7 @@ identifier: "BWBR0033571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-29"
-last_updated: "2016-12-02"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033571"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Op de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033571&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), zijn de bepalingen van het [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530) inzake een subsidie lager dan € 25.000 van toepassing.
+Op de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033571&paragraaf=1&artikel=2&z=2021-10-29&g=2021-10-29), zijn de bepalingen van het [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530) inzake een subsidie lager dan € 25.000 van toepassing.
 
 ##### Artikel 4
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033571&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033571&paragraaf=1&artikel=2&z=2021-10-29&g=2021-10-29), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
 
 #### § 2. De subsidieverlening
 
@@ -84,7 +84,7 @@ Een subsidie die aan de stichting is verleend op grond van de begroting van het 
 
 ##### Artikel 8
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2022.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 9
 
