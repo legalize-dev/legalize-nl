@@ -4,7 +4,7 @@ identifier: "BWBR0040115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-16"
-last_updated: "2021-07-22"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040115"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluiten:
 
 - a. Te rekenen vanaf 1 juni 2021 tot en met 31 december 2022 wordt, de heer drs. J. Haenen, wonende te ’s-Gravenhage, herbenoemd tot voorzitter van de Multi-stakeholder groep EITI Nederland.
 
-- b. Aan de voorzitter, genoemd onder a, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,15.
+- b. Aan de voorzitter, genoemd onder a, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
 
 2. Tot de werkzaamheden van de voorzitter behoren het faciliteren van de multi-stakeholder groep en het uitvoeren en verder vormgeven van het werkplan.
 
