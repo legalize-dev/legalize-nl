@@ -4,7 +4,7 @@ identifier: "BWBR0045050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-04-21"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045050"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Voor de behandeling van een aanvraag om afgifte van een identificatiedocument al
 
 Voor de registratie, bedoeld in [artikel 2.76l, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76l) is de houder, bedoeld in dat lid, jaarlijks een retributie verschuldigd van € 19,00.
 
-#### § 7. Gezelschapsdieren, tentoonstellingen, beurzen
+#### § 6a. Honden
 
 ##### Artikel 11. Aanmelding
 
@@ -158,11 +158,11 @@ Voor de verlening van goedkeuring van een model van een oormerk voor runderen, s
 
 Voor de verlening van een erkenning van een leverancier van een identificatiemiddel, slachtmerk of gebruiksmerk als bedoeld in [artikel 5b.8, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5b.8) voor runderen, schapen, geiten of varkens is degene aan wie de erkenning wordt verleend een retributie verschuldigd van € 220,00.
 
-#### § 9. Overig
+#### § 8. Goedkeuring identificatiemiddelen en erkenning leveranciers
 
 ##### Artikel 14. Samenloop retributie registratie
 
-Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2021-04-21&g=2021-04-21), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2021-04-21&g=2021-04-21), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2021-04-21&g=2021-04-21).
+Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2021-11-01&g=2021-11-01), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2021-11-01&g=2021-11-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2021-11-01&g=2021-11-01).
 
 ##### Artikel 15. Vaststelling en verrekening
 
@@ -178,7 +178,7 @@ Een exploitant van een inrichting waar dieren van verschillende soorten worden g
 
 Wijzigt de Regeling NVWA-tarieven.
 
-#### § 11. Slotbepalingen
+#### § 8a. Aangewezen elektronische portalen
 
 ##### Artikel 17. Inwerkingtreding
 
@@ -187,5 +187,39 @@ Deze regeling treedt in werking met ingang van 21 april 2021.
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tarieven identificatie en registratie Wet dieren.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a. Registratie houder
+
+Voor het verwerken van de registratie, bedoeld in [artikel 3.29, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.29), is de houder een eenmalige retributie verschuldigd van € 19,00.
+
+##### Artikel 10b. Erkenning uitgever identificatiedocumenten
+
+Een uitgever van identificatiedocumenten aan wie een erkenning is verleend als bedoeld in [artikel 8b.3, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=8b.3) is jaarlijks een retributie verschuldigd van € 2.000,00 voor de instandhouding van die erkenning.
+
+#### § 7. Gezelschapsdieren, tentoonstellingen, beurzen
+
+##### Artikel 13a. Erkenning leverancier van injecteerbare transponders
+
+Een leverancier van injecteerbare transponders aan wie een erkenning is verleend als bedoeld in [artikel 1.58c, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.58c) is jaarlijks een retributie verschuldigd van € 2.000,00 voor de instandhouding van die erkenning.
+
+##### Artikel 13b. Verwerken van registraties van de levering van injecteerbare transponders
+
+Voor het verwerken van de registratie, bedoeld in [artikel 1.58c, vijfde lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.58c), is de leverancier van injecteerbare transponders een retributie verschuldigd van € 0,40 per geleverde injecteerbare transponder.
+
+##### Artikel 13c. Aanwijzing van een elektronisch portaal
+
+De beheerder van een aangewezen elektronisch portaal als bedoeld [artikel 3.32 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.32) is jaarlijks een retributie verschuldigd van € 2.000,00 voor de instandhouding van die aanwijzing.
+
+##### Artikel 13d. Verwerken van registraties
+
+Voor het verwerken van registraties als bedoeld in [artikel 3.30, tweede lid, onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.30) en [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) is de beheerder van een aangewezen elektronisch portaal als bedoeld in [artikel 3.32 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.32) een retributie verschuldigd van € 1,00 per registratie.
+
+#### § 9. Overig
+
+#### § 10. Wijziging andere regelgeving
+
+#### § 11. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
