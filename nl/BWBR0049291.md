@@ -4,7 +4,7 @@ identifier: "BWBR0049291"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2019-06-25"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049291"
 soort: "AMvB"
@@ -60,7 +60,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. In de jaren 2022, 2023 en 2024 wordt telkens een eenmalige uitkering uitbetaald aan ambtenaren die:
+
+- a. feitelijk en bij besluit vastgesteld, werkzaamheden verrichten behorende bij een LFNP-functie in het domein uitvoering, bedoeld in [artikel 3, eerste lid, van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3), waaraan ten hoogste salarisschaal 9 is verbonden; of
+
+- b. zijn aangesteld in de functie medewerker Huisvesting, Services en Middelen B of medewerker Huisvesting, Services en Middelen D, als bedoeld in [bijlage 1 bij de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1), die takelwerkzaamheden uitvoeren die overeenkomen met de takelwerkzaamheden uit hoofde van een functie als bedoeld in onderdeel a.
+
+2. De in het eerste lid bedoelde uitkering bedraagt de som van de brutobedragen aan toelagen en vergoedingen, genoemd in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14), [27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27) en [27b, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27b), die zijn genoten in de periode van november van het voorgaande jaar tot en met oktober van het jaar van de uitbetaling, tot ten hoogste een totaalbedrag van € 2.500 bruto per uitkering.
+
+3. [Artikel 29a van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=29a) is niet van toepassing op de in het eerste lid bedoelde uitkering.
+
+4. De uitkering wordt in de maand december uitbetaald.
 
 ##### Artikel VI
 
@@ -77,15 +87,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 3 oktober 2023, nr. 4943864;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), de [Richtlijn (EU) 2019/1937](32019L1937) van het Europees Parlement en de Raad van 23 oktober 2019 inzake de bescherming van personen die inbreuken op het Unierecht melden (PbEU 2019, L 305) en de Wet van 25 januari tot wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van [Richtlijn (EU) 2019/1937](32019L1937) van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen (Stb. 2023, 29);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 november 2023, nr. W16.23.00303/II;
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 10 januari 2024, nr. 5094223;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
