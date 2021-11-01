@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2021-07-16"
+last_updated: "2021-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -106,11 +106,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 10.°. [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13) en [2.14 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14);
 
-- 11.°. de regels over identificatie en registratie:
-
-- –. in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) en de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) ten aanzien van runderen, varkens, schapen, geiten of paarden;
-
-- –. in [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009019&hoofdstuk=2) en [paragraaf 7a van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&paragraaf=7a) ten aanzien van honden.
+- 11.°. de regels over identificatie en registratie in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217), het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091), de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) en de Regeling diergeneeskundigen ten aanzien van runderen, varkens, schapen, geiten, paarden of honden.
 
 - h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6);
 
@@ -138,8 +134,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-07-16&g=2021-07-16), bedoelde ambtenaren.
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-11-01&g=2021-11-01), bedoelde ambtenaren.
 
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-07-16&g=2021-07-16), bedoelde personen.
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-11-01&g=2021-11-01), bedoelde personen.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
