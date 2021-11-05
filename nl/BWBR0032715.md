@@ -4,7 +4,7 @@ identifier: "BWBR0032715"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-05"
-last_updated: "2013-01-03"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032715"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- −. **begeleidingscommissie:** begeleidingscommissie voor het Sociaal en Cultureel Planbureau, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032715&artikel=2&z=2013-01-03&g=2013-01-03);
+- −. **begeleidingscommissie:** begeleidingscommissie voor het Sociaal en Cultureel Planbureau, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032715&artikel=2&z=2021-11-05&g=2021-11-05);
 
 - −. **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
@@ -68,7 +68,7 @@ De begeleidingscommissie heeft tot taak:
 
 2. De begeleidingscommissie bestaat uit ten hoogste 10 leden die niet werkzaam zijn onder verantwoordelijkheid van de Minister of een andere belanghebbende minister.
 
-3. De voorzitter en de andere leden worden benoemd voor een tijdvak van vier jaar.
+3. De voorzitter en de andere leden worden benoemd voor een periode van vier jaren. Zij zijn eenmaal aansluitend herbenoembaar, voor een periode van maximaal drie jaren.
 
 4. Een lid dat is benoemd ter vervulling van een tussentijds opengevallen plaats treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd had moeten aftreden.
 
