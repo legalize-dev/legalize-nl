@@ -279,9 +279,3 @@ Deze regeling treedt in werking met ingang van 15 november 2021.
 Deze regeling wordt aangehaald als: Regeling bekostiging vo-scholen en samenwerkingsverbanden vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 11a. Omhang
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
