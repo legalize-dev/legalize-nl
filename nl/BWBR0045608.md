@@ -173,33 +173,3 @@ De onderwijsinhoudcodes van de schoolsoort vbo hebben betrekking op de beroepsge
 De onderwijsinhoudcodes van de schoolsoort mavo hebben betrekking op de theoretische leerweg.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Nevenvestiging met spreidingsnoodzaak
-
-Ten aanzien van een nevenvestiging met spreidingsnoodzaak als bedoeld in [artikel 2 van de Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=2), zoals die luidde op 31 december 2021, blijft [hoofdstuk I van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&hoofdstuk=I), zoals dat luidde op die datum van toepassing met dien verstande dat:
-
-- a. de landelijke gemiddelde personeelslast onderwijsondersteunend personeel, bedoeld in [artikel 3, onderdeel a, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) wordt vastgesteld op het bedrag, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=2&artikel=2&z=2021-11-17&g=2021-11-17);
-
-- b. de landelijke gemiddelde personeelslast voor directiepersoneel van de schoolsoortgroep waartoe de school behoort, bedoeld in [artikel 3, onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) wordt vastgesteld op het voor die schoolsoortgroep in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=2&artikel=2&z=2021-11-17&g=2021-11-17), genoemde bedrag;
-
-- c. de aanvullende exploitatiekosten, bedoeld in [artikel 3, onderdeel c, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) worden vastgesteld op een bedrag van € 18.269,48.
-
-## Bijlage 1. behorend bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=6&z=2021-11-17&g=2021-11-17). Onderwijsinhoudcodes 2022
-
-### Onderwijsinhoudcodes
-
-De onderwijsinhoudcodes van de schoolsoort mavo hebben betrekking op de theoretische leerweg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8b. Omhang
-
-Deze regeling berust op [artikel 12.47 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=12.47).
-
-## Bijlage 1. behorend bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01). Onderwijsinhoudcodes 2022
-
-### Onderwijsinhoudcodes
-
-De onderwijsinhoudcodes van de schoolsoort mavo hebben betrekking op de theoretische leerweg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
