@@ -4,7 +4,7 @@ identifier: "BWBR0046051"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2021-01-01"
+last_updated: "2021-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046051"
 soort: "wet"
@@ -47,19 +47,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
@@ -75,19 +69,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
@@ -99,13 +87,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xa. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
 
@@ -165,19 +149,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIIb. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
@@ -198,8 +176,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
 
@@ -253,13 +229,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV. Samenloop met wetsvoorstel tot wijziging van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) in verband met het uitsluiten van fraudevorderingen bij de vermogenstoets en het beperken van het verbod tot medewerking aan een schuldregeling bij een fraudevordering tot gevallen van opzet of grove schuld
 
@@ -275,8 +247,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Ia&z=2021-12-21&g=2021-11-15), [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=II&z=2021-12-21&g=2021-11-15), [III, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=III&z=2021-12-21&g=2021-11-15), [VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VI&z=2021-12-21&g=2021-11-15), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VII&z=2021-12-21&g=2021-11-15), [VIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VIII&z=2021-12-21&g=2021-11-15), [X, onderdelen Ea en G](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=X&z=2021-12-21&g=2021-11-15), [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Xa&z=2021-12-21&g=2021-11-15), [XVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIa&z=2021-12-21&g=2021-11-15), [XVIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIb&z=2021-12-21&g=2021-11-15), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XIX&z=2021-12-21&g=2021-11-15), [XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XX&z=2021-12-21&g=2021-11-15), [XXIII, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXIII&z=2021-12-21&g=2021-11-15), [XXXII, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXII&z=2021-12-21&g=2021-11-15), [XXXIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII&z=2021-12-21&g=2021-11-15), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2022.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
