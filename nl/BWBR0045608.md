@@ -4,7 +4,7 @@ identifier: "BWBR0045608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2021-11-15"
+last_updated: "2021-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045608"
 soort: "ministeriele-regeling"
@@ -112,17 +112,17 @@ Het bedrag per school, bedoeld in [artikel 86, derde lid, onderdeel a, van de we
 
 ##### Artikel 4. Bedrag afhankelijk van de normatieve ruimtebehoefte
 
-Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86), zoals die luidde op 30 september 2021, bestaat uit een vast bedrag per school en een bedrag per leerling. Het vaste bedrag per school wordt per 1 januari 2022 vastgesteld op € 18.269,48 en het bedrag per leerling is opgenomen in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2021-11-15&g=2021-11-15).
+Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86), zoals die luidde op 30 september 2021, bestaat uit een vast bedrag per school en een bedrag per leerling. Het vaste bedrag per school wordt per 1 januari 2022 vastgesteld op € 18.269,48 en het bedrag per leerling is opgenomen in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2021-11-17&g=2021-11-17).
 
 ##### Artikel 5. Bedragen per leerling
 
-1. Het bedrag per leerling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=4&z=2021-11-15&g=2021-11-15), is per 1 januari 2022 het bedrag van de desbetreffende schoolsoort, leerjaren of profiel zoals aangegeven in kolom II van tabel 1.
+1. Het bedrag per leerling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=4&z=2021-11-17&g=2021-11-17), is per 1 januari 2022 het bedrag van de desbetreffende schoolsoort, leerjaren of profiel zoals aangegeven in kolom II van tabel 1.
 
 2. Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86), zoals die luidde op 30 september 2021, is de som van de bedragen per leerling van de desbetreffende schoolsoort, leerjaren of profiel zoals aangegeven in de kolommen I en III van tabel 1.
 
 3. De bedragen in de kolommen I, II en III van tabel 1 betreffen de bekostiging in verband met respectievelijk schoonmaken, onderhoud van het gebouw en terrein en overige exploitatiekosten.
 
-4. De onderwijsinhoudcodes, behorende bij de schoolsoorten, leerjaren en profielen, zoals opgenomen in tabel 1, staan vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&bijlage=1&z=2021-11-15&g=2021-11-15).
+4. De onderwijsinhoudcodes, behorende bij de schoolsoorten, leerjaren en profielen, zoals opgenomen in tabel 1, staan vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&bijlage=1&z=2021-11-17&g=2021-11-17).
 
 | Groep | Schoolsoort | Leerjaren en profiel | I | II | III | I+II+III |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel b, van de wet](https://
 
 ##### Artikel 6. Bekostiging categoriale vbo-school voor landbouw
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2021-11-15&g=2021-11-15) zijn de bedragen per 1 januari 2022 voor de bekostiging van de exploitatiekosten per leerling van een categoriale vbo-school voor landbouw genoemd in tabel 2.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2021-11-17&g=2021-11-17) zijn de bedragen per 1 januari 2022 voor de bekostiging van de exploitatiekosten per leerling van een categoriale vbo-school voor landbouw genoemd in tabel 2.
 
 | Schoolsoort | Leerjaren en profiel | I | II | III | I+II+III |
 | --- | --- | --- | --- | --- | --- |
@@ -169,6 +169,24 @@ Deze regeling wordt aangehaald als: Regeling overgangsbekostiging vereenvoudigin
 ### Onderwijsinhoudcodes
 
 De onderwijsinhoudcodes van de schoolsoort vbo hebben betrekking op de beroepsgerichte leerwegen (de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg), inclusief de leer-werktrajecten en entreeopleidingen.
+
+De onderwijsinhoudcodes van de schoolsoort vbo hebben betrekking op de beroepsgerichte leerwegen (de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg), inclusief de leer-werktrajecten en entreeopleidingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Nevenvestiging met spreidingsnoodzaak
+
+Ten aanzien van een nevenvestiging met spreidingsnoodzaak als bedoeld in [artikel 2 van de Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=2), zoals die luidde op 31 december 2021, blijft [hoofdstuk I van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&hoofdstuk=I), zoals dat luidde op die datum van toepassing met dien verstande dat:
+
+- a. de landelijke gemiddelde personeelslast onderwijsondersteunend personeel, bedoeld in [artikel 3, onderdeel a, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) wordt vastgesteld op het bedrag, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=2&artikel=2&z=2021-11-17&g=2021-11-17);
+
+- b. de landelijke gemiddelde personeelslast voor directiepersoneel van de schoolsoortgroep waartoe de school behoort, bedoeld in [artikel 3, onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) wordt vastgesteld op het voor die schoolsoortgroep in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=2&artikel=2&z=2021-11-17&g=2021-11-17), genoemde bedrag;
+
+- c. de aanvullende exploitatiekosten, bedoeld in [artikel 3, onderdeel c, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=3) worden vastgesteld op een bedrag van € 18.269,48.
+
+## Bijlage 1. behorend bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=6&z=2021-11-17&g=2021-11-17). Onderwijsinhoudcodes 2022
+
+### Onderwijsinhoudcodes
 
 De onderwijsinhoudcodes van de schoolsoort mavo hebben betrekking op de theoretische leerweg.
 
