@@ -4,7 +4,7 @@ identifier: "BWBR0045301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-20"
-last_updated: "2021-09-01"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045301"
 soort: "ministeriele-regeling"
@@ -128,11 +128,13 @@ Het subsidiebedrag per subsidieaanvraag is een vast bedrag van € 15.000.
 
 ##### Artikel 6. Subsidieplafond
 
-1. Voor subsidieverstrekking is voor de aanvraagperiode, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045301&artikel=5&z=2021-09-01&g=2021-09-01), ten hoogste € 1.050.000 beschikbaar.
+1. Voor subsidieverstrekking zijn de volgende bedragen beschikbaar:
 
-2. De subsidieplafonds voor de andere aanvraagperiodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045301&artikel=5&z=2021-09-01&g=2021-09-01), zullen door wijziging van deze regeling aan de regeling worden toegevoegd.
+- a. voor de aanvraagperioden, bedoeld in [artikel 5, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045301&artikel=5&z=2021-11-20&g=2021-11-20), per aanvraagperiode ten hoogste € 1.050.000;
 
-3. Indien het bedrag voor subsidieverstrekking voor de eerste periode van een kalenderjaar door subsidietoewijzingen niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het subsidieplafond voor de tweede aanvraagperiode van het desbetreffende kalenderjaar.
+- b. voor de aanvraagperioden, bedoeld in [artikel 5, eerste lid, onderdelen d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045301&artikel=5&z=2021-11-20&g=2021-11-20), per aanvraagperiode ten hoogste € 1.650.000.
+
+2. Indien het bedrag voor subsidieverstrekking voor de eerste periode van een kalenderjaar door subsidietoewijzingen niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het subsidieplafond voor de tweede aanvraagperiode van het desbetreffende kalenderjaar.
 
 ##### Artikel 7. Weigeringsgronden
 
