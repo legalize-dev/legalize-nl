@@ -4,7 +4,7 @@ identifier: "BWBR0045867"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-20"
-last_updated: "2021-10-25"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045867"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **staatssecretaris:** Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045867&artikel=2&z=2021-11-20&g=2021-10-25).
+- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045867&artikel=2&z=2021-11-20&g=2021-11-20).
 
 ##### Artikel 2. Instelling en taak
 
