@@ -4,7 +4,7 @@ identifier: "BWBR0045861"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2021-07-01"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045861"
 soort: "ministeriele-regeling"
@@ -54,19 +54,39 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Verstrekking van een specifieke uitkering
 
-Dit onderdeel is nog niet inwerking getreden
+De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van:
+
+- a. de door de colleges kwijtgescholden of gerestitueerde schulden binnen het SZW-domein van gedupeerden en toeslagpartners; en
+
+- b. de kosten die samenhangen met de uitvoering van deze kwijtschelding en restitutie door het college.
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-Dit onderdeel is nog niet inwerking getreden
+1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2021-11-20&g=2021-11-20), bedraagt per gemeente honderd procent van de gederfde inkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden of restitueren van de verschuldigde schulden van gedupeerden en toeslagpartners.
+
+2. Gemeenten ontvangen ter compensatie van de kosten, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2021-11-20&g=2021-11-20), een forfaitaire vergoeding van € 275,00 per gedupeerde die woonachtig is in de betreffende gemeente. Per gedupeerde wordt het forfaitaire bedrag, bedoeld in de eerste zin, eenmalig uitgekeerd.
 
 ##### Artikel 4. Verantwoording
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+
+2. Indien de uitvoering van een wet als genoemd in paragraaf 2 van de bijlage bij deze regeling volledig aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) is opgedragen kan voor de vaststelling van de gederfde inkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2021-11-20&g=2021-11-20), de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar waarop de vaststelling betrekking heeft. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
 
 ##### Artikel 5. Procedure tot vaststelling van de uitkering
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2021-11-20&g=2021-11-20), bij elkaar op te tellen.
+
+2. De specifieke uitkering wordt voor de eerste maal over het verantwoordingsjaar 2021 vastgesteld en vervolgens in ieder kalenderjaar op basis van de verantwoordingsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=4&z=2021-11-20&g=2021-11-20).
+
+3. De Minister stelt de specifieke uitkering vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+
+4. De gederfde inkomsten of kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2021-11-20&g=2021-11-20), worden bij de vaststelling niet in aanmerking genomen indien deze gederfde inkomsten of kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
+
+5. Indien de verantwoordingsinformatie, bedoeld in het derde lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen, stelt de Minister de specifieke uitkering ambtshalve vast.
+
+6. Indien de toepassing van het vierde lid naar het oordeel van de Minister leidt tot een onbillijkheid van overwegende aard kan de Minister de gederfde inkomsten of kosten die als fout of onzeker worden aangemerkt, in afwijking van het tweede lid, geheel of gedeeltelijk bij de vaststelling in aanmerking nemen.
+
+7. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan de Minister kennis heeft op 30 september van het jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die de gemeente op verzoek van de Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
 ##### Artikel 5a
 
@@ -74,15 +94,17 @@ Deze regeling berust op [artikel 7.3 van de Wet hersteloperatie toeslagen](https
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 7. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2022-11-05&g=2021-07-01) in verband met enige begripsbepalingen
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2021-11-20&g=2021-11-20) in verband met enige begripsbepalingen
 
 ### § 1. Schulden binnen het SZW-domein
+
+De met kwijtschelding van schulden gemoeid gaande kosten komen op grond van deze regeling voor bekostiging in aanmerking indien aan twee voorwaarden is voldaan:
 
 De met kwijtschelding van schulden gemoeid gaande kosten komen op grond van deze regeling voor bekostiging in aanmerking indien aan twee voorwaarden is voldaan:
 
@@ -90,8 +112,24 @@ Naast de hoofdsom komt de kwijtschelding van eventuele verhogingen, zoals rente 
 
 Er gelden drie uitzonderingen op het bovenstaande:
 
+### § 2. Restitutie
+
+Restitutie van een schuld die voor kwijtschelding in aanmerking zou komen, als omschreven in paragraaf 2, komt op grond van deze regeling in aanmerking indien de schuld na 31 december 2020 is verminderd door aflossing of verrekening.
+
+Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
+
+Besluit:
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2022-11-05&g=2021-11-20) in verband met enige begripsbepalingen
+
+### § 1. Schulden binnen het SZW-domein
+
 In afwijking van het bovenstaande, inclusief de genoemde uitzonderingen, worden gederfde inkomsten eveneens bekostigd op grond van deze regeling indien het uitblijven van de kwijtschelding of restitutie naar het oordeel van het college tot een onbillijkheid van overwegende aard zou leiden in een individueel geval.
 
 ### § 2. Restitutie
 
 Restitutie van een schuld die voor kwijtschelding in aanmerking zou komen, als omschreven in paragraaf 2, komt op grond van deze regeling in aanmerking indien de schuld na 31 december 2020 is verminderd door aflossing of verrekening.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
