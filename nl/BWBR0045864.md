@@ -4,7 +4,7 @@ identifier: "BWBR0045864"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-15"
-last_updated: "2021-01-01"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045864"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ De Minister verstrekt aan gemeenten een specifieke uitkering met het oog op onde
 
 ##### Artikel 4. Uitkering en besteding van de uitkering
 
-1. De specifieke uitkering wordt, behoudens een eenmalig voorschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2021-11-23&g=2021-01-01), voor de eerste maal in het verantwoordingsjaar 2021 en voorts gedurende de looptijd van deze regeling in ieder kalenderjaar op basis van de gemeentelijke verantwoordingsgegevens, aan gemeenten verstrekt.
+1. De specifieke uitkering wordt, behoudens een eenmalig voorschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2021-11-23&g=2021-11-23), voor de eerste maal in het verantwoordingsjaar 2021 en voorts gedurende de looptijd van deze regeling in ieder kalenderjaar op basis van de gemeentelijke verantwoordingsgegevens, aan gemeenten verstrekt.
 
 2. Gemeenten kunnen de uitkering in de kalenderjaren 2021 tot en met 2025 besteden.
 
@@ -106,7 +106,7 @@ De Minister verstrekt aan gemeenten een specifieke uitkering met het oog op onde
 
 1. Het college legt aan de Minister verantwoording af over de besteding van de specifieke uitkering op de wijze zoals is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-01-01), hebben gemeenten de keuze om hetzij de daadwerkelijke kosten dan wel de daarvoor gestelde normbedragen te verantwoorden. Normbedragen worden eenmalig per gedupeerde opgegeven voor de gehele looptijd van deze regeling. De eenmaal gemaakte keuze is onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd:
+2. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-11-23), hebben gemeenten de keuze om hetzij de daadwerkelijke kosten dan wel de daarvoor gestelde normbedragen te verantwoorden. Normbedragen worden eenmalig per gedupeerde opgegeven voor de gehele looptijd van deze regeling. De eenmaal gemaakte keuze is onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd:
 
 - a. voor de registratie van de (potentieel) gedupeerde, het eerste contact en de inventarisatie van de hulpvragen: € 380;
 
@@ -114,9 +114,9 @@ De Minister verstrekt aan gemeenten een specifieke uitkering met het oog op onde
 
 - c. voor de verrichting van nazorgactiviteiten aan (potentieel) gedupeerden: € 2.244.
 
-3. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-01-01), voeren de gemeenten de daadwerkelijk gemaakte kosten op voor de financiële verantwoording.
+3. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-11-23), voeren de gemeenten de daadwerkelijk gemaakte kosten op voor de financiële verantwoording.
 
-4. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-01-01), hebben gemeenten de keuze om hetzij de daadwerkelijke kosten dan wel het daarvoor gestelde normbedrag te verantwoorden. Het normbedrag wordt eenmalig voor de duur van deze regeling opgegeven. De eenmaal gemaakte keuze is onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd, afhankelijk van het aantal gedupeerden dat een gemeente heeft en bij de Uitvoeringsorganisatie Herstel Toeslagen bekend is voor het jaar waarin de gemeente het normbedrag opvoert:
+4. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2021-11-23&g=2021-11-23), hebben gemeenten de keuze om hetzij de daadwerkelijke kosten dan wel het daarvoor gestelde normbedrag te verantwoorden. Het normbedrag wordt eenmalig voor de duur van deze regeling opgegeven. De eenmaal gemaakte keuze is onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd, afhankelijk van het aantal gedupeerden dat een gemeente heeft en bij de Uitvoeringsorganisatie Herstel Toeslagen bekend is voor het jaar waarin de gemeente het normbedrag opvoert:
 
 tot 50 gedupeerden: € 12.000;
 
@@ -132,13 +132,13 @@ vanaf 1.000 gedupeerden: € 250.000.
 
 ##### Artikel 7. Vaststelling en terugvordering
 
-1. De Minister stelt de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2021-11-23&g=2021-01-01), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De Minister stelt de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2021-11-23&g=2021-11-23), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. De kosten, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=6&z=2021-11-23&g=2021-01-01), worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uitmaakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
+2. De kosten, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=6&z=2021-11-23&g=2021-11-23), worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uitmaakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
 
 3. Indien de toepassing van het tweede lid naar het oordeel van de Minister leidt tot een onbillijkheid van overwegende aard kan de Minister de kosten die als fout of onzeker worden aangemerkt, in afwijking van het tweede lid, geheel of gedeeltelijk bij de vaststelling buiten aanmerking laten.
 
-4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister is ontvangen, stelt de Minister de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2021-11-23&g=2021-01-01), ambtshalve vast.
+4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister is ontvangen, stelt de Minister de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2021-11-23&g=2021-11-23), ambtshalve vast.
 
 5. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan de Minister kennis heeft op 30 september van het jaar, volgend op het verantwoordingsjaar, met dien verstande dat gegevens die de gemeente op verzoek van de Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
@@ -164,7 +164,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021.
 
-## Bijlage. Aan gemeenten te verstrekken voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2021-11-23&g=2021-01-01)
+## Bijlage. Aan gemeenten te verstrekken voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2021-11-23&g=2021-11-23)
 
 | Gemeente | Aantal gedupeerden | Bedrag totaal (in euro) | Waarvan door het BTW-compensatiefonds (in euro) | Waarvan op grond van de Regeling (in euro) |
 | --- | --- | --- | --- | --- |
