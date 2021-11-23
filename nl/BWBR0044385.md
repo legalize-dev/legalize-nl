@@ -4,7 +4,7 @@ identifier: "BWBR0044385"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-23"
-last_updated: "2021-01-01"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044385"
 soort: "ministeriele-regeling"
@@ -42,15 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-In deze regeling wordt verstaan onder:
-
-- –. **Onze Minister:** Onze Minister van Financiën
-
-- –. **Gedupeerden:** personen, inclusief hun gezin, die zich bij de Belastingdienst/Toeslagen hebben gemeld als gedupeerden van de toeslagenproblematiek en zich voor hulp tot de gemeente van hun woonplaats wenden
-
-- –. **Gezin:** gezin, zoals bedoeld in [artikel 4, eerste lid, aanhef en onder c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=4)
-
-- –. **Belastingdienst/Toeslagen:** de Belastingdienst/Toeslagen van het ministerie van Financiën
+Vervallen
 
 ##### Artikel 2. Eenmalige specifieke uitkering
 
@@ -60,17 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Activiteiten
 
-1. Onze Minister verstrekt een eenmalige specifieke uitkering aan gemeenten uitsluitend ter bekostiging van de uitvoering van één of meer van de volgende activiteiten gericht op besteding aan hulpverlening aan gedupeerden:
-
-- a. registratie van gedupeerden, eerste contact en inventarisatie van de hulpvragen;
-
-- b. opstellen van een door gemeente en gedupeerde(n) ondertekend plan van aanpak en begeleiding van de gedupeerde(n);
-
-- c. inkoop en uitvoering van trajectzorg op de vijf leefgebieden: financiën, wonen, zorg, gezin en werk;
-
-- d. verrichten van nazorg.
-
-2. Onder de in het eerste lid, aanhef, bedoelde activiteiten worden mede verstaan activiteiten genoemd onder het eerste lid, aanhef en onder a tot en met d, voor zover deze ná 1 januari 2020 worden uitgevoerd maar waartoe reeds voorafgaand aan 1 januari 2020 is besloten.
+Vervallen
 
 ##### Artikel 4. Hoogte van de eenmalige specifieke uitkering
 
@@ -82,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 1. De specifieke uitkering wordt in 2020 aan gemeenten uitgekeerd.
 
-2. Gemeenten kunnen de uitkering in de kalenderjaren 2020 tot en met 2023 besteden.
+2. Gemeenten kunnen de uitkering in de kalenderjaren 2020 tot en met 2025 besteden.
 
 ##### Artikel 6. Voorschot
 
@@ -90,29 +72,15 @@ Onze Minister verstrekt en betaalt de gemeenten een voorschot van 100% van de ee
 
 ##### Artikel 7. Verantwoording
 
-1. De gemeente legt aan Onze Minister verantwoording af over de besteding van de specifieke uitkering op de wijze zoals is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
-
-2. Voor de activiteiten genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01), voert de gemeente de daadwerkelijk gemaakte kosten op voor de financiële verantwoording.
-
-3. Voor de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01), worden normbedragen gehanteerd die de gemeente opvoert voor de financiële verantwoording. Voor de activiteit genoemd in artikel 3, eerste lid, onder d, geldt voorts dat indien nazorg onderdeel is van de activiteiten genoemd onder artikel 3, eerste lid, onder c, de daadwerkelijke gemaakte kosten worden opgenomen in de financiële verantwoording. De volgende normbedragen worden gehanteerd:
-
-- a. registratie van gedupeerde, eerste contact en inventarisatie van de hulpvragen: 380 euro;
-
-- b. opstellen van een plan van aanpak en begeleiding van de gedupeerde: 3.468 euro;
-
-- d. verrichten van nazorg: 2.244 euro.
-
-4. Indien de verantwoording, zoals bedoeld in het eerste lid, naar het oordeel van Onze Minister onvoldoende informatie bevat over de ondernomen activiteiten en de gedane uitgaven, stelt Onze Minister binnen acht weken na de ontvangst van die verantwoording de gemeente binnen een door hem gestelde termijn in de gelegenheid die verantwoording aan te vullen.
+Vervallen
 
 ##### Artikel 8. Vaststelling en terugvordering
 
-1. Onze Minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=7&z=2021-11-23&g=2021-01-01), genoemde verantwoording, respectievelijk van de in het vierde lid van dat artikel genoemde aanvulling.
-
-2. Onze Minister kan de uitkering op een lager bedrag vaststellen dan op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2021-11-23&g=2021-01-01), is verstrekt en het verschil terugvorderen indien uit de verantwoording blijkt dat de uitkering niet of niet volledig is besteed aan de activiteiten zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=3&z=2021-11-23&g=2021-01-01).
+Vervallen
 
 ##### Artikel 9. Monitoring en evaluatie
 
-Onze Minister kan gemeenten verzoeken medewerking te verlenen aan monitoring en evaluatie van de regeling.
+Vervallen
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -122,7 +90,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 De regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek.
 
-## Bijlage. Aan gemeenten te verstrekken bijdragen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2021-11-23&g=2021-01-01)
+## Bijlage. Aan gemeenten te verstrekken bijdragen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044385&artikel=4&z=2021-11-23&g=2021-11-23)
 
 | Gemeente | Aantal gedupeerden | Bedrag totaal (in euro) | Waarvan door het BTW-compensatiefonds (in euro) | Waarvan op grond van de Regeling (in euro) |
 | --- | --- | --- | --- | --- |
