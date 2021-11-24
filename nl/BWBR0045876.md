@@ -4,7 +4,7 @@ identifier: "BWBR0045876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-07"
+last_updated: "2021-11-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045876"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ De adviescommissie stelt uiterlijk 31 maart 2022, en vervolgens telkens na twee 
 
 2. Deze regeling vervalt met ingang van 31 december 2026.
 
-3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien bezwaarschriften als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3&z=2021-11-24&g=2020-07-07), niet meer aanhangig zijn en niet meer te verwachten zijn.
+3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien bezwaarschriften als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3&z=2021-11-24&g=2021-11-24), niet meer aanhangig zijn en niet meer te verwachten zijn.
 
 ##### Artikel 11. Citeertitel
 
