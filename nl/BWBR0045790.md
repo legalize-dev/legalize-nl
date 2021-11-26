@@ -125,33 +125,3 @@ Deze regeling treedt inwerking op het tijdstip dat [artikel I, onderdeel N, van 
 Deze regeling wordt aangehaald als: Regeling specifieke bepalingen IFR en IFD.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3:1. – ICLAAP verplichting voor kleine en niet-verweven beleggingsondernemingen
-
-1. Een beleggingsonderneming die kwalificeert als kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de IFR en een beheerder die aan de in artikel 12, eerste lid, IFR bepaalde voorwaarden voldoet, voldoen aan [artikel 24a1, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a1).
-
-2. Het eerste lid is niet van toepassing op een beleggingsonderneming die kwalificeert als kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de IFR of een beheerder die aan de in artikel 12, eerste lid, IFR bepaalde voorwaarden voldoet, indien zij uitsluitend beleggingsdiensten als bedoeld in onderdelen a of d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) verlenen.
-
-##### Artikel 3:2. – Aanmerking deltaformule uit de CRR als passend model voor de berekening van de delta van opties en swaptions
-
-1. De selectie van deltaformules en bijbehorende parameters gegeven in artikel 279 bis CRR is in elk geval goedgekeurd als een passend model dat door beleggingsondernemingen mag worden toegepast voor de berekening van de delta voor toezichtdoeleinden van opties en swaptions als bedoeld in artikel 29, zesde lid, van de IFR en voor de berekening van de delta in artikel 329(1) CRR.
-
-2. Wanneer een beleggingsonderneming gebruik maakt van deltaformules en bijbehorende parameters gegeven in artikel 279 bis CRR past zij, voor zover relevant, de Gedelegeerde [Verordening (EU) 2021/931](32831R2021) van de Europese Commissie toe.
-
-3. De deltaformule en de bijbehorende parameters in artikel 279 bis CRR mogen niet gebruikt worden indien deze niet tot een uitkomst leiden of leiden tot een berekende delta die geen correcte benadering is van de verandering van de prijs van de optie door de prijs van de onderliggende waarde.
-
-##### Artikel 3:3. – Notionele eigenvermogensvereisten bij toepassing van artikel 8, vierde lid, IFR
-
-Voor de toepassing van artikel 8, vierde lid, IFR is in elk geval goedgekeurd dat de notionele eigenvermogensvereisten voor dochterondernemingen die in derde landen gevestigd zijn, als bedoeld in de tweede alinea van artikel 8, vierde lid, IFR, de eigenvermogensvereisten zijn die op individuele basis ingevolge de IFR op deze dochters van toepassing zouden zijn geweest indien zij hun zetel zouden hebben in een lidstaat.
-
-### Hoofdstuk 4. – Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3:4. - Gebruik zakelijke prognoses bij gebrek aan historische gegevens
-
-Een beleggingsonderneming vervangt ontbrekende historische gegevens als bedoeld in artikelen 17, tweede lid, 18, tweede lid, 19, derde lid, 20, derde lid, en 33, vierde lid, van de IFR door gegevens die gebaseerd zijn op de overeenkomstig artikel 7 van [Richtlijn 2014/65/EU](32014L0065) ingediende zakelijke prognoses van de beleggingsonderneming.
-
-### Hoofdstuk 4. – Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
