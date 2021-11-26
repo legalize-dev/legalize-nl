@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-10-15"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-10-15).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-10-15).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26).
 
 ##### Artikel 4. De bestuursraad
 
@@ -246,9 +246,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-10-15) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-10-15) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -404,7 +404,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-10-15&g=2021-10-15). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-11-26&g=2021-11-26). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -644,27 +644,29 @@ Vervallen
 
 ##### Artikel 25. Structuur DGFZ
 
-Het directoraat-generaal voor Fiscale Zaken bestaat uit de volgende organisatieonderdelen:
+Het directoraat-generaal voor Fiscale Zaken (DGFZ) bestaat uit de volgende organisatieonderdelen:
 
-- a. de directie Algemene Fiscale Politiek;
+- a. de directie Algemene Fiscale Politiek (AFP);
 
-- b. de directie Internationale Zaken en Verbruiksbelastingen;
+- b. de directie Verbruiksbelastingen, Douane & Internationale aangelegenheden (VD&I);
 
-- c. de directie Directe Belastingen.
+- c. de directie Directe Belastingen & Toeslagen (DB&T).
 
 ##### Artikel 26. Taken DGFZ
 
 Het directoraat-generaal voor Fiscale Zaken:
 
-- a. adviseert over het te voeren fiscaal beleid en bereidt de belastingwetgeving voor;
+- a. adviseert over het te voeren fiscaal beleid en bereidt de belasting- en douanewetgeving voor;
 
-- b. adviseert over het internationale beleid op het gebied van fiscaliteit en douane;
+- b. adviseert over het (inter)nationale beleid op het gebied van fiscaliteit en douane;
 
 - c. bereidt wetgeving en internationale regelingen voor op het gebied van de directe belastingen, de verbruiksbelastingen en wat daarmee verband houdt en adviseert over het hiermee samenhangende beleid;
 
-- d. adviseert over het beleid en bereidt wetgeving voor op het gebied van de uitvoering van toeslagen door het DGTSL;
+- d. adviseert over het beleid en bereidt wetgeving voor op het gebied van toeslagen;
 
-- e. heeft een strategie- en onderzoeksfunctie op zijn beleidsterrein.
+- e. heeft een strategie- en onderzoeksfunctie op zijn beleidsterrein;
+
+- f. treedt op als coördinerend opdrachtgever voor het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen.
 
 ##### Artikel 27. De directie Algemene Fiscale Politiek
 
@@ -672,17 +674,15 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - a. Coördinatie van en adviseren over het belastingbeleid, zowel voor de rijksbelastingen als het decentrale belastinggebied;
 
-- b. Voorbereiden en afstemmen van Europese fiscale dossiers en aangelegenheden;
+- b. Voorbereiden en afstemmen van Europese en internationale fiscale dossiers en zaken;
 
 - c. Verrichten van kwantitatieve en kwalitatieve studies en opstellen van (rekenkundige) modellen met betrekking tot het toekomstige algemene fiscale beleid;
 
 - d. Evalueren van belastinguitgaven;
 
-- e. Ondersteunen van de directies van het directoraat-generaal bij het wetgevingsproces en verdragen;
+- e. Ondersteunen van de directies van het directoraat-generaal;
 
-- f. Voorbereiden van de beleidsbeslissingen op het gebied van douane, internationale regelingen en het formele douanerecht;
-
-- g. Het ontwerpen en toelichten, al dan niet in participatie met andere departementen en internationale organisaties, van wetgeving op het gebied van douane, internationale regelingen ter zake, het formele douanerecht en de veiligheid.
+- f. Het optreden als coördinerend opdrachtgever voor het directoraat-generaal Belastingdienst.
 
 2. De directie AFP is onderverdeeld in de volgende organisatieonderdelen:
 
@@ -692,123 +692,159 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - ii. In internationaal verband participeren in strategische fiscale verkenningen en vergelijkende beleidsonderzoeken (bijv. OESO);
 
-- iii. Evalueren van alle belastinguitgaven op effectiviteit en doelmatigheid, zoals vermeld in bijlage 5 van de Miljoenennota.
+- iii. Onderzoeks- en evaluatieagenda, met als onderdeel daarvan (coördinatie van) evaluaties van fiscale regelingen op effectiviteit en doelmatigheid;
 
-- b. de afdeling Beleid met als taken:
+- iv. Inzicht verschaffen in budgettaire ontwikkeling en omvang fiscale regelingen.
+
+- b. de afdeling Strategie en Parlementaire aangelegenheden met als taken:
 
 - i. Adviseren over de vormgeving van het nationale fiscale beleid, hieronder valt onder meer het proactief zicht houden op, het betrokken zijn bij en het coördineren van fiscaal beleid en regelgeving;
 
-- ii. Beoordelen van ministerraadstukken, met inbegrip van die van andere directoraten-generaal en departementen;
+- ii. Voorbereiden van beleid en adviseren over de vormgeving van het fiscale stelsel als geheel;
 
-- iii. In internationaal verband meewerken aan nota’s en wetgeving over het fiscale beleid;
+- iii. Assisteren van de bewindspersonen bij de parlementaire behandeling van fiscale voorstellen;
 
-- iv. Assisteren van de bewindslieden bij de parlementaire verdediging van voorstellen bij het beantwoorden van Kamervragen;
+- iv. Een bijdrage leveren aan een doelmatig en beheerst decentraal belastinggebied.
 
-- v. Een bijdrage leveren aan een doelmatig en beheerst decentraal belastinggebied;
+- c. de afdeling Europese en Internationale Zaken (EIZ) met als taken:
 
-- vi. Coördineren van directoraat-generaal brede organisatietaken.
+- i. Deelnemen aan internationaal en (inter)departementaal overleg over Europese (EU) en internationale fiscale onderwerpen (o.a. in OESO-verband);
 
-- c. de afdeling Europese en Douane Aangelegenheden (EDA) met als taken:
+- ii. Signaleren en beoordelen van en onderhandelen over wijzigingen in de Europese en internationale beleidsvorming en belastingwetgeving;
 
-- i. Deelnemen aan internationaal en interdepartementaal overleg over Europees fiscale en douane onderwerpen;
+- iii. Adviseren over in internationaal verband in te nemen standpunten inzake directe en indirecte belastingen;
 
-- ii. Signaleren en beoordelen van wijzigingen in de Europese belastingwetgeving;
-
-- iii. Adviseren over, in internationaal verband te nemen, nationale standpunten inzake belastingharmonisatie;
-
-- iv. Coördineren van de behandeling van alle Europese belastingdossiers.
+- iv. Coördineren van de behandeling van alle Europese (EU) en internationale belastingdossiers (o.a. in OESO-verband);
 
 - v. Ontwikkelen van nationaal fiscaal beleid voor zover dit door de belastingdiscussies in Europees verband wordt beïnvloed;
 
-- vi. Het voorbereiden van fiscale procedures voor het Europese Hof van Justitie;
+- vi. Het coördineren en voorbereiden van fiscale staatssteunprocedures bij de Europese Commissie;
 
-- vii. Het algemene douanebeleid;
+- vi. Het voorbereiden van fiscale procedures voor het Europese Hof van Justitie.
 
-- viii. Het formele en materiële douanerecht en het formaliteitenstelsel;
+- d. de afdeling Opdrachtgeverschap:
 
-- ix. Internationale verdragen op douanegebied;
+- i. Is verantwoordelijk voor het (coördinerend) opdrachtgeverschap van het directoraat-generaal Belastingdienst en de ondersteuning van het (coördinerend) opdrachtgeverschap richting het directoraat-generaal Douane en het directoraat-generaal Toeslagen;
 
-- x. Het niet fiscale douanebeleid en wetgeving;
+- ii. Is verantwoordelijk voor de overlegcyclus tussen de opdrachtgevers van het v Belastingdienst en het directoraat-generaal Belastingdienst;
 
-- xi. Internationale samenwerking op douanegebied en externe betrekkingen.
+- iii. Levert een bijdrage aan de overlegcycli van de opdrachtgevers van het directoraat-generaal Douane respectievelijk het directoraat-generaal Toeslagen met deze uitvoerende directoraten-generaal;
 
-- d. de afdeling Beleidsondersteuning met als taken:
+- iv. Is verantwoordelijk binnen het directoraat-generaal Fiscale Zaken voor de inhoudelijke en procesmatige voorbereiding van de driehoeken Belastingdienst, Douane en Toeslagen;
 
-- i. Het ondersteunen van het traject van wetgeving en verdragen voor alle directies van het directoraat-generaal voor Fiscale Zaken;
+- v. Is binnen het directoraat-generaal Fiscale Zaken verantwoordelijk voor de advisering over de IV portfolio’s van het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen;
+
+- vi. Is verantwoordelijk voor het opbouwen van kennis en bestuurlijke advisering op het gebied van toezicht, dienstverlening, uitvoeringskosten informatievoorziening en governance.
+
+- e. de afdeling Bestuursondersteuning met als taken:
+
+- i. Het ondersteunen van het traject van wetgeving en verdragen voor alle directies van het directoraat-generaal Fiscale Zaken;
 
 - ii. Het uitzetten en afhandelen van prejudiciële vragen van het Hof van Justitie van de EG en het bijhouden van diverse overzichten, zoals die van lopende wet- en regelgeving, moties en toezeggingen en van te implementeren Europese fiscale regelgeving;
 
-- iii. Het beheer van de Kennisbank DGFZ;
+- iii. Het beheren van overzichten van Kamervragen, Commissieverzoeken, moties en toezeggingen;
 
-- iv. Toegankelijk maken voor medewerkers van relevante informatie zowel digitaal als op papier.
+- iv. Het fungeren als aanspreekpunt voor Wob-zaken;
 
-##### Artikel 28. De directie Internationale Zaken en Verbruiksbelastingen
+- v. De coördinatie van planning & controlproducten.
 
-1. De directie Internationale Zaken en Verbruiksbelastingen (IZV) heeft de volgende hoofdtaken:
+##### Artikel 28. De directie Verbruiksbelastingen, Douane en Internationale aangelegenheden
+
+1. De directie Verbruiksbelastingen, Douane en Internationale aangelegenheden (VDI) heeft de volgende hoofdtaken:
 
 - a. Het voorbereiden en het ontwikkelen van en het adviseren over bilaterale en multilaterale regelingen ter voorkoming van internationale dubbele belastingheffing alsmede zetelovereenkomsten van internationale organisaties in Nederland;
 
 - b. Het voorbereiden en ontwikkelen van en het adviseren over unilaterale regelingen ter voorkoming van internationale dubbele belastingheffing;
 
-- c. Het uitvoeren van de taak van de bevoegde autoriteit in het kader van tot stand gekomen bilaterale of multilaterale regelingen ter voorkoming van dubbele premie- of belastingheffing;
+- c. In multilateraal verband (OESO, VN, e.d.) bijdragen aan internationale fiscale beleidsontwikkeling inzake de directe belastingen;
 
-- d. Het beleid en de regelgeving op het terrein van fiscale vrijstelling voor functionarissen bij in Nederland gevestigde ambassades en bij internationale en militaire organisaties;
+- d. Het uitvoeren van de taak van de bevoegde autoriteit in het kader van tot stand gekomen bilaterale of multilaterale regelingen ter voorkoming van dubbele belastingheffing;
 
-- e. Voorbereiden van de door bewindspersonen of de algemene leiding van het directoraat-generaal voor Fiscale Zaken te nemen beleidsbeslissingen op het gebied van verbruiksbelastingen;
+- e. Het beleid en de regelgeving op het terrein van fiscale vrijstelling voor functionarissen bij in Nederland gevestigde ambassades en bij internationale en militaire organisaties;
 
-- f. Het ontwerpen en toelichten, al dan niet in participatie met andere departementen en internationale organisaties, van wetgeving op het gebied van verbruiksbelastingen.
+- f. Voorbereiden van de door bewindspersonen of de algemene leiding van het directoraat-generaal Fiscale Zaken te nemen beleidsbeslissingen op het gebied van verbruiksbelastingen;
 
-2. De directie IZV is onderverdeeld in de volgende organisatieonderdelen:
+- g. Het ontwerpen en toelichten, al dan niet in participatie met andere departementen en internationale organisaties, van wetgeving op het gebied van verbruiksbelastingen;
 
-- a. de afdeling Internationale Zaken (IZ) met als taken:
+- h. Voorbereiden van de beleidsbeslissingen op het gebied van douane, internationale regelingen en het formele douanerecht;
+
+- i. Het ontwerpen en toelichten, al dan niet in participatie met andere departementen, de EU en internationale organisaties (waaronder de WDO), van wetgeving en internationale regelingen op het gebied van douane;
+
+- j. Het optreden als coördinerend opdrachtgever van het directoraat-generaal Douane.
+
+2. De directie VDI is onderverdeeld in de volgende organisatieonderdelen:
+
+- a. de afdeling Internationale aangelegenheden (IA) met als taken:
 
 - i. Tot stand brengen van bilaterale verdragen ter voorkoming van dubbele belasting en ontgaan van enkelvoudige belasting in internationaal verband;
 
-- ii. Het tot stand brengen van internationale regelgeving inzake de premieheffing volksverzekering;
+- ii. In multilateraal verband (OESO, VN, e.d.) bijdragen aan internationale fiscale beleidsontwikkeling inzake de directe belastingen en het tot stand brengen van multilaterale verdragen op dit terrein;
 
-- iii. Het voeren van overlegprocedures met bevoegde autoriteiten bij interpretatieverschillen of onduidelijkheden in verdragen, inclusief verrekenprijsgeschillen;
+- iii. Beheren c.q. verzorgen van wijzigingen en vaststellen van de uitvoeringsregelingen en voorschriften van het [Besluit Voorkoming Dubbele Belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095), de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de [Belastingregeling voor het land Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0029675), de [Belastingregeling Nederland Curaçao](https://wetten.overheid.nl/jci1.3:c:BWBR0037077) en de [Belastingregeling Nederland Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0037547);
 
-- iv. In multilateraal verband (OESO, EU, VN, e.d.) bijdragen aan internationale fiscale beleidsontwikkeling inzake de directe belastingen;
+- iv. Adviseren over zetelovereenkomsten van internationale organisaties in Nederland, alsmede over het beleid en de regelgeving op het terrein van fiscale vrijstelling voor functionarissen bij in Nederland gevestigde ambassades en bij internationale en militaire organisaties.
 
-- v. Beheren c.q. verzorgen van wijzigingen en vaststellen van de uitvoeringsregelingen en voorschriften van het Besluit Voorkoming Dubbele Belasting 2001 en de Belastingregeling voor het Koninkrijk.
+- b. de afdeling Milieubelastingen en Accijnzen (M&A) met als taken:
 
-- b. De afdeling Verbruiksbelastingen met als taken:
-
-- i. Het adviseren over beleid en het voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+- i. Het adviseren over beleid en het voorbereiden, opstellen en toelichten van wetgeving op het gebied
 
 - 1. de accijnzen (accijns op alcoholhoudende dranken, tabak, minerale olie) en de verbruiksbelasting op alcoholvrije dranken);
 
 - 2. de autobelastingen (BPM, motorrijtuigenbelasting en BZM -eurovignet-);
 
-- 3. de belastingen op basis van de Wet belastingen op milieugrondslag (energiebelasting, belasting op kolen, belasting op leidingwater, afvalstoffenbelasting);
+- 3. de belastingen op basis van de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) (energiebelastingen, belasting op kolen, belasting op leidingwater, afvalstoffenbelasting, vliegbelasting, co2 heffing industrie, co2 minimumprijs elektriciteit);
 
-- 4. de omzetbelasting;
+- 4. fiscale vergroening in den brede.
 
-- 5. de overdrachtsbelasting;
+- ii. Het formuleren en het inbrengen in onderhandelingen van Nederlands standpunten ten aanzien van Europese voorstellen op bovengenoemde terreinen
 
-- 6. de assurantiebelasting.
+- c. de afdeling Btw en Overdrachtsbelasting (BTW&OVB) met als taken:
 
-- ii. Het formuleren en het inbrengen van Nederlands standpunten ten aanzien van Europese voorstellen op bovengenoemde terreinen.
+- i. Het adviseren over beleid en het voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+
+- 1. de omzetbelasting;
+
+- 2. de overdrachtsbelasting;
+
+- 3. de assurantiebelasting.
+
+- ii. Het formuleren en het inbrengen in onderhandelingen van Nederlands standpunten ten aanzien van Europese voorstellen op bovengenoemde terreinen.
+
+- d. de afdeling Douane met als taken:
+
+- i. Het algemene douanebeleid (inclusief BES);
+
+- ii. Het formele en materiële nationale (inclusief BES) en Europese douanerecht en het formaliteitenstelsel;
+
+- iii. Internationale verdragen op douanegebied;
+
+- iv. Internationale samenwerking en externe betrekkingen op douanegebied alsmede in multilateraal verband (bij de WDO, VN, IMO e.d.) bijdragen aan internationale beleidsontwikkeling op het gebied van douane.
+
+- v. Het niet-fiscale douanebeleid en wetgeving;
+
+- vi. Het optreden als coördinerend opdrachtgever van het directoraat-generaal Douane.
 
 ##### Artikel 29. De Directie Directe Belastingen
 
-1. De Directie Directe Belastingen (DB) heeft de volgende hoofdtaken:
+1. De Directie Directe Belastingen & Toeslagen (DB&T) heeft de volgende hoofdtaken:
 
 - a. Voorbereiden van de door bewindspersonen of de algemene leiding van het directoraat-generaal voor Fiscale Zaken te nemen beleidsbeslissingen op het gebied van directe belastingen, het formele belastingrecht, het invorderingsrecht, de algemene wet inkomensafhankelijke regelingen en wat daarmee verband houdt;
 
-- b. Het ontwerpen en toelichten van wetgeving op het gebied van de directe belastingen het formele belastingrecht, het invorderingsrecht, de algemene wet inkomensafhankelijke regelingen en wat daarmee verband houdt.
+- b. Het ontwerpen en toelichten van wetgeving op het gebied van de directe belastingen het formele belastingrecht, het invorderingsrecht, de algemene wet inkomensafhankelijke regelingen en wat daarmee verband houdt;
 
-2. De directie DB is onderverdeeld in de volgende organisatieonderdelen:
+- c. Het optreden als coördinerend opdrachtgever voor het directoraat-generaal Toeslagen.
 
-- a. de afdeling Arbeid en Vermogen met als taken het adviseren over, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+2. De directie DB&T is onderverdeeld in de volgende organisatieonderdelen:
+
+- a. de afdeling Arbeid en Vermogen (AV) met als taken het adviseren over beleid en het, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
 
 - i. de inkomstenbelasting anders dan met betrekking tot winst uit onderneming, loon uit dienstbetrekking en het tarief van de inkomstenbelasting;
 
-- ii. het recht van successie, schenking en overgang, alsmede de Natuurschoonwet;
+- ii. het recht van successie, schenking en overgang, alsmede de [Natuurschoonwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939);
 
 - iii. de kansspelbelasting;
 
-- iv. de registratiewet;
+- iv. de [registratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739);
 
 - v. de loonbelasting;
 
@@ -818,15 +854,21 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - viii. het tarief van de inkomstenbelasting en de sociale verzekeringswetten voor zover de uitvoering daarvan is opgedragen aan de Belastingdienst.
 
-- b. de afdeling Winst met als taken het adviseren over, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+- b. de afdeling Winst met als taken het adviseren over beleid en het, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
 
 - i. de inkomstenbelasting wat betreft ondernemingen;
 
 - ii. de vennootschapsbelasting;
 
-- iii. de dividendbelasting.
+- iii. de dividendbelasting;
 
-- c. de afdeling Formeel Recht en Invordering met als taken het adviseren over, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+- iv. de bronbelasting op rente, royalty’s en dividenden;
+
+- v. de bankenbelasting;
+
+- vi. de belastingen op de BES-eilanden.
+
+- c. de afdeling Fiscale Rechtsbeginselen en Invordering (FRI) met als taken het adviseren over beleid en het, voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
 
 - i. het formele recht betreffende de heffing van belastingen met uitzondering van invoerrechten en accijnzen;
 
@@ -834,13 +876,19 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - iii. de internationale bijstandsverlening bij de heffing en inning van belastingen;
 
-- iv. de Wet waardering onroerende zaken;
+- iv. de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119);
 
 - v. belastingen, premies, heffingen of inkomensafhankelijke regelingen die primair andere ministeries aangaan, doch waarbij wordt aangesloten bij het formele belastingrecht of het invorderingsrecht of bij directe belastingen;
 
-- vi. de algemene wet inkomensafhankelijke regelingen;
+- vi. de heffingskortingen;
 
-- vii. de heffingskortingen.
+- vii. de verwerkingen van gegevens door de Belastingdienst, Toeslagen en Douane.
+
+- d. de afdeling Toeslagen met als taken het adviseren over beleid en het voorbereiden, opstellen en toelichten van wetgeving op het gebied van:
+
+- i. het toeslagenstelsel;
+
+- ii. het opdrachtgeverschap ten aanzien van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) voor het directoraat-generaal Toeslagen.
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
@@ -1338,9 +1386,9 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-10-15&g=2021-10-15) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-10-15&g=2021-10-15), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
@@ -1422,7 +1470,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5B. Directoraat-generaal douane
 
-### Hoofdstuk 6. Directoraat-generaal fiscale zaken
+### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
