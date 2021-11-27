@@ -4,7 +4,7 @@ identifier: "BWBR0042023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-27"
-last_updated: "2016-09-01"
+last_updated: "2021-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042023"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 - a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Bernheze, Boekel, Boxmeer, Cuijk, Grave, Haaren, Landerd, Mill en Sint Hubert, Oss, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel en Vught,
+- b. **de gemeenten:** de gemeenten Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Landerd, Meierijstad, Mill en Sint Hubert, Oss, Sint Anthonis, Sint-Michielsgestel, Uden, en Vught;
 
 - c. **de waterschappen:** de waterschappen Aa en Maas en De Dommel;
 
@@ -68,7 +68,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 2. Het openbaar lichaam ‘Brabants Historisch Informatie Centrum’ voert bij de behartiging van de belangen, bedoeld in het eerste lid, het archiefbeleid van de Minister, de gemeenten en de waterschappen mede uit.
 
-3. De Minister, de gemeenten en de waterschappen kunnen met het Brabants Historisch Informatie Centrum afspraken maken over de wijze waarop invulling wordt gegeven aan de in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2b&z=2016-09-01&g=2016-09-01) genoemde taken en bevoegdheden.
+3. De Minister, de gemeenten en de waterschappen kunnen met het Brabants Historisch Informatie Centrum afspraken maken over de wijze waarop invulling wordt gegeven aan de in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2b&z=2021-11-27&g=2021-11-27) genoemde taken en bevoegdheden.
 
 4. De Minister, de waterschappen en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Brabants Historisch Informatie Centrum de belangen, bedoeld in het eerste lid, behartigt.
 
@@ -82,7 +82,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 Aan het bestuur van het Brabants Historisch Informatie Centrum zijn de navolgende werkzaamheden, taken en bevoegdheden van de colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister overgedragen:
 
-- a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01), genoemde archiefbewaarplaatsen;
+- a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), genoemde archiefbewaarplaatsen;
 
 - b. de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=20), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=31) en [32, eerste en derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32);
 
@@ -90,7 +90,7 @@ Aan het bestuur van het Brabants Historisch Informatie Centrum zijn de navolgend
 
 - d. het adviseren en het doen van voorstellen aan de Minister, de colleges en de algemene en dagelijkse besturen van de waterschappen over de taken en bevoegdheden, die door de Minister, de colleges of de algemene en dagelijkse besturen van de waterschappen worden uitgevoerd ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=30) en [32, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en
 
-- e. het verrichten van door de Minister, de colleges of de algemene en dagelijkse besturen van de waterschappen opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01).
+- e. het verrichten van door de Minister, de colleges of de algemene en dagelijkse besturen van de waterschappen opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27).
 
 ##### Artikel 3
 
@@ -140,9 +140,9 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Brabants Historisch Informatie Centrum toegekende taak alle bevoegdheden toe die niet aan een ander orgaan zijn opgedragen.
 
-2. Het algemeen bestuur kan de directeur, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=29&z=2016-09-01&g=2016-09-01), tot rijksarchivaris in de provincie, tot gemeentearchivaris van de gemeenten en tot waterschap archivaris van de waterschappen benoemen.
+2. Het algemeen bestuur kan de directeur, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=29&z=2021-11-27&g=2021-11-27), tot rijksarchivaris in de provincie, tot gemeentearchivaris van de gemeenten en tot waterschap archivaris van de waterschappen benoemen.
 
-3. Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=31), mits het totaal van de aangegane verplichtingen binnen de vastgestelde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting geldt de procedure van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2016-09-01&g=2016-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=19&z=2016-09-01&g=2016-09-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=20&z=2016-09-01&g=2016-09-01).
+3. Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=31), mits het totaal van de aangegane verplichtingen binnen de vastgestelde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting geldt de procedure van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2021-11-27&g=2021-11-27), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=19&z=2021-11-27&g=2021-11-27) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=20&z=2021-11-27&g=2021-11-27).
 
 4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat de raden van de gemeenten en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen.
 
@@ -170,7 +170,7 @@ De Minister, de colleges van de gemeenten en de algemene en dagelijkse besturen 
 
 3. Het lidmaatschap van het dagelijks bestuur eindigt van rechtswege, zodra men ophoudt lid te zijn van het algemeen bestuur of de termijn van aanwijzing van het lid van buiten de kring van het algemeen bestuur eindigt.
 
-4. [Artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=4&z=2016-09-01&g=2016-09-01) is van overeenkomstige toepassing.
+4. [Artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=4&z=2021-11-27&g=2021-11-27) is van overeenkomstige toepassing.
 
 5. Elk lid van het dagelijks bestuur heeft één stem. Besluitvorming vindt plaats bij volstrekte meerderheid van stemmen, voor zover niet anders bepaald in de regeling.
 
@@ -198,7 +198,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 - d. ambtenaren benoemen, schorsen en ontslaan;
 
-- e. besluiten tot privaatrechtelijke rechtshandelingen van het Brabants Historisch Informatie Centrum, met uitzondering van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=6&z=2016-09-01&g=2016-09-01);
+- e. besluiten tot privaatrechtelijke rechtshandelingen van het Brabants Historisch Informatie Centrum, met uitzondering van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=6&z=2021-11-27&g=2021-11-27);
 
 - f. besluiten namens het Brabants Historisch Informatie Centrum, het dagelijks bestuur of het algemeen bestuur rechtsgedingen, bezwaarprocedures of administratief beroepsprocedures te voeren of handelingen ter voorbereiding daarop te verrichten, tenzij het algemeen bestuur, voor zover het het algemeen bestuur aangaat, in voorkomende gevallen anders beslist;
 
@@ -210,7 +210,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 1. De voorzitter wordt door en uit het algemeen bestuur aangewezen.
 
-2. Uit de overige leden van het dagelijks bestuur, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=10&z=2016-09-01&g=2016-09-01), worden een of meerdere plaatsvervangend voorzitters aangewezen.
+2. Uit de overige leden van het dagelijks bestuur, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=10&z=2021-11-27&g=2021-11-27), worden een of meerdere plaatsvervangend voorzitters aangewezen.
 
 3. De voorzitter is belast met de leiding van de vergaderingen van het algemeen bestuur en van het dagelijks bestuur.
 
@@ -240,7 +240,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. Indien het toetreden tot deze regeling van andere bestuursorganen of het sluiten van samenwerkingsovereenkomsten met derden, er toe leidt dat een deel van de lasten voortvloeiende uit de investeringen als bedoeld in de in het tweede lid aangegeven investerings- en exploitatiebegroting, door deze bestuursorganen en/of derden worden gedragen, worden de financiële voordelen die daardoor ontstaan op de door de Minister, de waterschappen en de gemeenten verschuldigde jaarlijkse bijdrage naar rato in mindering gebracht.
 
-7. Indien de Minister, de gemeenten of de waterschappen een bijzondere taak opdragen als bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister, de gemeenten of de waterschappen in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
+7. Indien de Minister, de gemeenten of de waterschappen een bijzondere taak opdragen als bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister, de gemeenten of de waterschappen in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
 ##### Artikel 17
 
@@ -256,9 +256,9 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
-2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=19&z=2016-09-01&g=2016-09-01), bedoelde vaststelling, de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen een ontwerp aan voor de begroting met toelichting van het Historisch Informatie Centrum Brabant en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
+2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=19&z=2021-11-27&g=2021-11-27), bedoelde vaststelling, de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen een ontwerp aan voor de begroting met toelichting van het Historisch Informatie Centrum Brabant en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
-3. Bij het opstellen van het ontwerp voor de begroting, bedoeld in het eerste lid, neemt het algemeen bestuur het archiefbeleid, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01), de algemene aanwijzingen, bedoeld in artikel 2, derde lid in acht en daarnaast de afspraken, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=17&z=2016-09-01&g=2016-09-01).
+3. Bij het opstellen van het ontwerp voor de begroting, bedoeld in het eerste lid, neemt het algemeen bestuur het archiefbeleid, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), de algemene aanwijzingen, bedoeld in artikel 2, derde lid in acht en daarnaast de afspraken, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=17&z=2021-11-27&g=2021-11-27).
 
 4. In de toelichting op de ontwerpbegroting worden de aard en de omvang van de voorgenomen activiteiten beschreven. Daarbij wordt aangegeven welke belangen en resultaten het Brabants Historisch Informatie Centrum met de activiteiten nastreeft, op welke wijze de activiteiten zullen worden uitgevoerd en voor welke doelgroepen zij zijn bestemd.
 
@@ -276,7 +276,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
-2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2016-09-01&g=2016-09-01) en [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2016-09-01&g=2016-09-01), zijn van overeenkomstige toepassing. Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
+2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2021-11-27&g=2021-11-27) en [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2021-11-27&g=2021-11-27), zijn van overeenkomstige toepassing. Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
 ##### Artikel 20
 
@@ -334,7 +334,7 @@ De Minister, de gemeenten en de waterschappen kunnen gezamenlijk nadere regels s
 
 ##### Artikel 28
 
-1. De colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01), voor het Brabants Historisch Informatie Centrum van belang zijn.
+1. De colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), voor het Brabants Historisch Informatie Centrum van belang zijn.
 
 2. De colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeentes, de waterschappen of Minister kenbaar maken.
 
@@ -344,7 +344,7 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 ##### Artikel 30
 
-1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van het Brabants Historisch Informatie Centrum die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2016-09-01&g=2016-09-01) voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, dagelijks bestuur of de voorzitter.
+1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van het Brabants Historisch Informatie Centrum die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27) voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, dagelijks bestuur of de voorzitter.
 
 2. Het dagelijks bestuur stelt voor de directeur een instructie vast.
 
@@ -354,7 +354,7 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
-2. Met inachtneming van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=14&z=2016-09-01&g=2016-09-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
+2. Met inachtneming van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=14&z=2021-11-27&g=2021-11-27), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
 ##### Artikel 32
 
@@ -406,7 +406,7 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke Regeling Brabants Hi
 
 ### Algemeen
 
-In deze bijlage zijn de afspraken rond de structurele en incidentele bijdragen van partners aan het Brabants Historisch Centrum nader gespecificeerd ([art. 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2016-09-01&g=2016-09-01)):
+In deze bijlage zijn de afspraken rond de structurele en incidentele bijdragen van partners aan het Brabants Historisch Centrum nader gespecificeerd ([art. 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2021-11-27&g=2021-11-27)):
 
 Er is afgesproken dat de beschikbare exploitatiebudgetten van de afzonderlijke instellingen waaruit het Brabants Historisch Centrum ontstaat, zullen worden samengevoegd. Uit deze exploitatiebudgetten zullen de exploitatiekosten worden bestreden van het Brabants Historisch Centrum, waarbij de behaalde efficiencyvoordelen zullen worden aangewend voor nieuw beleid ten behoeve van de publieksfunctie.
 
@@ -414,7 +414,7 @@ Er is afgesproken dat de beschikbare exploitatiebudgetten van de afzonderlijke i
 
 De jaarlijkse structurele bijdragen van de partners zijn, inclusief huurlasten als volgt:
 
-1 De bijdrage van het Rijk (RAD) wordt in 2003 nog verhoogd, conform de methodiek beschreven in [art. 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2016-09-01&g=2016-09-01).
+1 De bijdrage van het Rijk (RAD) wordt in 2003 nog verhoogd, conform de methodiek beschreven in [art. 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2021-11-27&g=2021-11-27).
 
 2 Dit tarief betreft het basispakket en het pluspakket.
 
@@ -443,3 +443,5 @@ De partijen brengen in totaal € 184.079 aan vermogensbestanddelen in. Dit bedr
 ### BTW aspecten
 
 Het Brabants Historisch Centrum neemt contact op met de belastinginspecteur ter verkrijging van een nieuwe BTW beschikking voor het hele instituut. Over de inhoud van die beschikking en de mogelijke consequenties voor de begroting is nog geen 100% zekerheid.
+
+Vervallen
