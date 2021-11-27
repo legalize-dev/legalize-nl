@@ -4,7 +4,7 @@ identifier: "BWBR0045904"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-27"
-last_updated: "2020-06-03"
+last_updated: "2021-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045904"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - **Inspectie JenV:** Inspectie Justitie en Veiligheid als bedoeld in [artikel 60 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=60).
 
-- **Raad van Advies:** Raad van Advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045904&artikel=2&z=2021-11-27&g=2020-06-03).
+- **Raad van Advies:** Raad van Advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045904&artikel=2&z=2021-11-27&g=2021-11-27).
 
 ##### Artikel 2. Instelling en taak
 
