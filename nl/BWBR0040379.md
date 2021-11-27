@@ -4,7 +4,7 @@ identifier: "BWBR0040379"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-27"
-last_updated: "2021-05-10"
+last_updated: "2021-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040379"
 soort: "ministeriele-regeling"
@@ -72,9 +72,11 @@ In dit besluit wordt verstaan onder:
 
 - b. de plaatsvervangend secretaris-generaal;
 
-- c. de directeuren-generaal en de Nationaal Coördinator Terrorismebestrijding en Veiligheid;
+- c. de Hoofddirecteur Bedrijfsvoering;
 
-- d. ten minste twee door de Minister benoemde onafhankelijke externe leden.
+- d. de directeuren-generaal, met uitzondering van de programmadirecteur-generaal Samenleving en COVID-19, en de Nationaal Coördinator Terrorismebestrijding en Veiligheid;
+
+- e. ten minste twee door de Minister benoemde onafhankelijke externe leden.
 
 2. De directeur Financieel-Economische Zaken en een directeur van de Auditdienst Rijk ondersteunen het Audit Committee bij de uitoefening van zijn taak en nemen als adviseur aan de vergaderingen van het Audit Committee deel.
 
@@ -82,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-De externe leden, bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=4&z=2018-01-01&g=2021-05-10), ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+De externe leden, bedoeld in [artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=4&z=2021-11-27&g=2021-11-27), ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 6
 
@@ -100,9 +102,9 @@ Het [Instellingsbesluit Audit Committee Ministerie van Veiligheid en Justitie](h
 
 ##### Artikel 9
 
-1. Dit besluit treedt, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2021-05-10), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+1. Dit besluit treedt, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2021-11-27&g=2021-11-27), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2021-05-10) treedt in werking met ingang van 1 januari 2018.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2021-11-27&g=2021-11-27) treedt in werking met ingang van 1 januari 2018.
 
 ##### Artikel 10
 
