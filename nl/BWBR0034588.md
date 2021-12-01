@@ -4,7 +4,7 @@ identifier: "BWBR0034588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-02"
-last_updated: "2020-01-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034588"
 soort: "ministeriele-regeling"
@@ -140,7 +140,37 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 ##### Artikel 5
 
-Vervallen
+Het hoofd van de afdeling Supportteam Innovatie is verantwoordelijk voor de volgende algemene taken:
+
+- a. het organiseren van activiteiten om medewerkers van SZW te inspireren en kennis aan te reiken over innovatieve methoden en oplossingen;
+
+- b. het coachen van medewerkers van SZW op de toepassing van innovatie methodieken;
+
+- c. het coördineren van het Start Up in Residence programma;
+
+- d. het vertegenwoordigen van SZW in de programmaraad van de Rijksinnovatie Community (RIC)
+
+- e. het adviseren van teams en medewerkers die in een specifieke opgave innovaties willen toepassen;
+
+- f. het structureel ondersteunen van enkele teams bij het toepassen van een innovatieve werkwijze of oplossing binnen een grote maatschappelijke opgave die prioriteit heeft voor SZW, gedurende een langere periode (bijv. één jaar);
+
+- g. het adviseren en ondersteunen van medewerkers van SZW bij het toepassen van kennis uit de gedragswetenschappen en praktijkgericht werken;
+
+- h. het versterken van de aandacht voor gedragsinzichten en praktijkgericht werken binnen SZW door te informeren en agenderen;
+
+- i. het faciliteren van bijeenkomsten waarin een gedragsanalyse wordt opgesteld, of het inschakelen van externe partijen daarvoor;
+
+- j. het versterken van bestaande netwerken rond gedragsinzichten en praktijkgericht werken binnen en buiten SZW;
+
+- k. coördinatie van het SZW-kernteam Gedrag en het SZW-kernteam Praktijkgericht werken;
+
+- l. advisering van de ambtelijke top en bewindspersonen op het gebeid van gedragsinzichten en praktijkgericht werken;
+
+- m. coördinatie van SZW bijdragen aan rijksbrede acties rond gedrag en praktijkgericht werken;
+
+- n. het uitwerken van een aanpak voor de versterking van kennis en vaardigheden rond gedragsinzichten en praktijkgericht werken bij SZW medewerkers, samen met het Leer- en Ontwikkelplein;
+
+- o. ondersteuning op het gebied van praktijkgericht werken (Programma SZW werkt, spoor 1 en 2) aan de directies en de Bestuursraad.
 
 ##### Artikel 6
 
@@ -166,7 +196,7 @@ Aan het afdelingshoofd, alsmede aan de programmamanagers ressorterend onder de d
 
 ##### Artikel 8
 
-Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2020-01-01&g=2021-12-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 9
 
@@ -174,7 +204,7 @@ Vervallen
 
 ##### Artikel 10
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01), tot een bedrag van € 5.000,– per overeenkomst.
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2020-01-01&g=2021-12-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 11
 
@@ -202,7 +232,7 @@ Besluit:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01) terugwerken tot en met 1 oktober 2012
+2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2020-01-01&g=2021-12-01) terugwerken tot en met 1 oktober 2012
 
 3. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.
 
@@ -211,6 +241,16 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 ##### Artikel 11a
 
 Aan de teamleider wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen.
+
+#### § 5. Slotbepaling
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 5
+
+Vervallen
+
+#### § 4. Bevoegdheden
 
 #### § 5. Slotbepaling
 
