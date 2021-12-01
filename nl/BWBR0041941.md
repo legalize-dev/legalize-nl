@@ -4,7 +4,7 @@ identifier: "BWBR0041941"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2021-09-04"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041941"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **sectorbeeld:** het door de minister vastgestelde concept-sectorbeeld, zoals bedoeld onder c, d en e. In geval van e ook wel domeinbeeld SSH genoemd;
 
-- g. **tweedegeldstroommiddelen:** middelen die aanvankelijk via de tweede geldstroom zouden zijn uitgekeerd, maar die per 2020 worden overgeheveld naar de eerste geldstroom en direct aan de universiteiten worden uitgekeerd, hierbij uitgezonderd de SSH call Digitale SSH die in 2019 reeds van start is gegaan. Zie ook verwijzing in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2021-09-04&g=2021-09-04), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2021-09-04&g=2021-09-04), [artikel 4c en 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=4&z=2021-09-04&g=2021-09-04) en de toelichting. Ook wel genoemd tweede geldstroom competitie of tweede geldstroom calls. Daar waar wordt gesproken van aansluiting van de tweedegeldstroommiddelen op de eerste geldstroommiddelen moet worden uitgegaan van de doelen die bereikt dienen te worden met de tweedegeldstroommiddelen.
+- g. **tweedegeldstroommiddelen:** middelen die aanvankelijk via de tweede geldstroom zouden zijn uitgekeerd, maar die per 2020 worden overgeheveld naar de eerste geldstroom en direct aan de universiteiten worden uitgekeerd, hierbij uitgezonderd de SSH call Digitale SSH die in 2019 reeds van start is gegaan. Zie ook verwijzing in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2022-02-19&g=2021-12-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2022-02-19&g=2021-12-01), [artikel 4c en 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=4&z=2022-02-19&g=2021-12-01) en de toelichting. Ook wel genoemd tweede geldstroom competitie of tweede geldstroom calls. Daar waar wordt gesproken van aansluiting van de tweedegeldstroommiddelen op de eerste geldstroommiddelen moet worden uitgegaan van de doelen die bereikt dienen te worden met de tweedegeldstroommiddelen.
 
 ##### Artikel 2. Commissie sectorplan Bèta en Techniek
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Commissie sectorplan Bèta en Techniek heeft tot taak:
 
-- a. het beoordelen van de concept-sectorbeelden bèta en techniek op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2021-09-04&g=2021-09-04), nader omschreven in de toelichting. De Kamer Bèta beoordeelt het concept-sectorbeeld bèta en de Kamer Techniek beoordeelt het concept-sectorbeeld techniek. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
+- a. het beoordelen van de concept-sectorbeelden bèta en techniek op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2022-02-19&g=2021-12-01), nader omschreven in de toelichting. De Kamer Bèta beoordeelt het concept-sectorbeeld bèta en de Kamer Techniek beoordeelt het concept-sectorbeeld techniek. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
 
 - b. na de vaststelling van de concept-sectorbeelden bèta en techniek door de minister, de minister adviseren op basis van plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals genoemd in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
 
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie sectorplan SSH heeft tot taak:
 
-- a. het beoordelen van het concept-sectorbeeld SSH op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2021-09-04&g=2021-09-04), nader omschreven in de toelichting. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
+- a. het beoordelen van het concept-sectorbeeld SSH op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2022-02-19&g=2021-12-01), nader omschreven in de toelichting. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
 
 - b. na de vaststelling van het concept-sectorbeeld SSH door de minister, de minister adviseren op basis van de plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals genoemd in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 De commissies hebben voorts tot taak:
 
-- a. bij de advisering zoals bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2021-09-04&g=2021-09-04), en [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2021-09-04&g=2021-09-04), de plannen van de in de sectorbeelden genoemde faculteiten te toetsen op kwaliteit. De commissies kunnen gebruik maken van een verdeelsleutel uitgaande van een basisfinanciering per deelnemende faculteit met een bandbreedte afhankelijk van de kwaliteit van de plannen. Hierbij wordt uitgegaan van het budget zoals bedoeld in de tabel in de toelichting. De plannen van faculteiten worden getoetst aan de doelstellingen zoals geformuleerd in de sectorbeelden. Aangezien de sectorbeelden opgesteld zijn aan de hand randvoorwaarden zoals genoemd in de toelichting, zullen een aantal van deze randvoorwaarden ook terugkomen in de plannen van faculteiten.
+- a. bij de advisering zoals bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2022-02-19&g=2021-12-01), en [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2022-02-19&g=2021-12-01), de plannen van de in de sectorbeelden genoemde faculteiten te toetsen op kwaliteit. De commissies kunnen gebruik maken van een verdeelsleutel uitgaande van een basisfinanciering per deelnemende faculteit met een bandbreedte afhankelijk van de kwaliteit van de plannen. Hierbij wordt uitgegaan van het budget zoals bedoeld in de tabel in de toelichting. De plannen van faculteiten worden getoetst aan de doelstellingen zoals geformuleerd in de sectorbeelden. Aangezien de sectorbeelden opgesteld zijn aan de hand randvoorwaarden zoals genoemd in de toelichting, zullen een aantal van deze randvoorwaarden ook terugkomen in de plannen van faculteiten.
 
 - b. Gedurende de looptijd van het sectorplan te bevorderen dat de doelen die de faculteiten zich hebben gesteld tijdig en volledig behaald worden, waarbij de commissies zelf vaststellen hoe zij dit willen bevorderen. Deze doelen zijn beschreven in de sectorbeelden en de faculteitsplannen en omvatten onder meer het bevorderen van samenwerking en profilering, (gender)diversiteit en het aantrekken en behoud van (nieuw) wetenschappelijk talent middels vaste contracten. Hierbij de observaties mee te nemen in de adviezen van de commissies aan de minister ten tijde van de tussentijdse evaluatie en de eindevaluatie, zoals genoemd in artikel 4 resp. lid c en d.
 
@@ -198,7 +198,7 @@ De commissies brengen vóór 1 juni 2022 hun advies uit aan de minister op basis
 
 De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
-- a. vergoedingen aan de leden van de commissies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=13&z=2021-09-04&g=2021-09-04)
+- a. vergoedingen aan de leden van de commissies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=13&z=2022-02-19&g=2021-12-01)
 
 - b. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en
 
