@@ -4,7 +4,7 @@ identifier: "BWBR0010496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-01"
-last_updated: "2021-07-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010496"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ b. een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole progr
 
 1. Indien gebruik van gedragsbeïnvloedende middelen is vastgesteld, de gedetineerde weigert aan de urinecontrole mee te werken dan wel is gebleken dat de gedetineerde met het urinemonster heeft gefraudeerd, kan de gedetineerde een disciplinaire straf worden opgelegd.
 
-2. Indien de gedetineerde na het verstrijken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010496&artikel=3&z=2021-07-01&g=2021-07-01), gestelde termijn van vier uur nog geen urine heeft afgestaan, wordt dit gelijk gesteld met een weigering medewerking te verlenen aan de urinecontrole.
+2. Indien de gedetineerde na het verstrijken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010496&artikel=3&z=2021-12-01&g=2021-12-01), gestelde termijn van vier uur nog geen urine heeft afgestaan, wordt dit gelijk gesteld met een weigering medewerking te verlenen aan de urinecontrole.
 
 3. In afwachting van de uitslag van het herhalingsonderzoek dan wel een bevestigingsonderzoek;
 
@@ -124,13 +124,13 @@ b. een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole progr
 
 - c. wordt de effectuering van het re-integratieverlof opgeschort;
 
-- d. kan de effectuering van een incidenteel verlof of strafonderbreking worden opgeschort.
+- d. kan de effectuering van een re-integratieverlof, een incidenteel verlof voor humanitaire doeleinden of een strafonderbreking worden opgeschort.
 
 ##### Artikel 9. Overeenkomstige toepassing van regeling
 
 1. Bovengenoemde regeling is van toepassing op vrijwillig ondergane urinecontroles die gedurende een verblijf in een verslavingsbegeleidingsafdeling worden uitgevoerd.
 
-2. Bovengenoemde regeling is van overeenkomstige toepassing op urinecontroles die gedurende de deelname aan een penitentiair programma worden uitgevoerd. Het in [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010496&artikel=8&z=2021-07-01&g=2021-07-01), gestelde is niet van toepassing indien het vermoeden van gebruik van gedragsbeïnvloedende middelen een deelnemer aan een penitentiair programma betreft. De taken van de ambtenaar of de medewerker worden verricht door een personeelslid van de uitvoeringsverantwoordelijke instantie dan wel de inrichting waar de deelnemer administratief staat ingeschreven.
+2. Bovengenoemde regeling is van overeenkomstige toepassing op urinecontroles die gedurende de deelname aan een penitentiair programma worden uitgevoerd. Het in [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010496&artikel=8&z=2021-12-01&g=2021-12-01), gestelde is niet van toepassing indien het vermoeden van gebruik van gedragsbeïnvloedende middelen een deelnemer aan een penitentiair programma betreft. De taken van de ambtenaar of de medewerker worden verricht door een personeelslid van de uitvoeringsverantwoordelijke instantie dan wel de inrichting waar de deelnemer administratief staat ingeschreven.
 
 ##### Artikel 10. Overgangsbepaling
 
