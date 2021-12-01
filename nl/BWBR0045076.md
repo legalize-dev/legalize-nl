@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-01-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -190,13 +190,29 @@ Het Directoraat-Generaal Toeslagen staat onder leiding van de directeur-generaal
 
 1. Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen:
 
-- a. de directie Toeslagen; en
+- a. de directie Toeslagen;
 
-- b. de tijdelijke directie Uitvoeringsorganisatie Herstel Toeslagen (UHT).
+- b. de tijdelijke directie Uitvoeringsorganisatie Herstel Toeslagen;
 
-2. De directie Toeslagen heeft een algemeen directeur Toeslagen.
+- c. de directie Strategie, Recht & Beleid;
 
-3. De tijdelijke directie UHT heeft een directeur UHT.
+- d. de directie Bedrijfsvoering;
+
+- e. de directie Ketenregie;
+
+- f. de directie Control & Risk;
+
+- g. de directie Business Ontwikkeling;
+
+- h. het Bureau DG.
+
+2. De directie Toeslagen staat onder leiding van een algemeen directeur.
+
+3. De directies genoemd in het eerste lid, onderdelen b tot en met f, staan ieder onder leiding van een directeur.
+
+4. De directie Business Ontwikkeling staat onder leiding van een programmadirecteur.
+
+5. Het Bureau DG staat onder leiding van een afdelingshoofd.
 
 ### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
 
