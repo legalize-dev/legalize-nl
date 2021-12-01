@@ -4,7 +4,7 @@ identifier: "BWBR0010172"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-07-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010172"
 soort: "ministeriele-regeling"
@@ -47,6 +47,22 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **wet:** de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
+
+- b. **zaalarbeid:** het verrichten van werkzaamheden op een werkzaal of andere tot gezamenlijke arbeid aangewezen plaats;
+
+- c. **taakarbeid:** het verrichten van werkzaamheden die leiden tot het uitvoeren van een door de directeur nader omschreven taak;
+
+- d. **stukarbeid:** het vervaardigen van producten op een werkzaal of een andere tot gezamenlijke arbeid aangewezen plaats;
+
+- e. **basisuurloon:** de basisbeloning voor het verrichten van arbeid gedurende een uur;
+
+- f. **extramurale arbeid:** arbeid, verricht buiten de inrichting ten behoeve van een derde, alsmede het volgen van een dagopleiding buiten de inrichting;
+
+- g. **taakloon:** de beloning voor het uitvoeren van een taak conform de daaraan door de directeur gestelde eisen;
+
+- h. **arbeidsloon:** het samenstel van basisuurloon, toeslagen en taakloon.
+
 #### § 2. Beloning van arbeid in de inrichting
 
 ##### Artikel 2
@@ -65,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 - c. stukarbeid gelijk aan het door de directeur te bepalen bedrag per product vermenigvuldigd met het aantal gedurende de week door de gedetineerde gefabriceerde producten.
 
-5. Het loon, bedoeld in het derde lid, daaronder begrepen de loonvervangende financiële tegemoetkomingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), is niet lager dan 80% van het basisuurloon vermenigvuldigd met twintig.
+5. Het loon, bedoeld in het derde lid, daaronder begrepen de loonvervangende financiële tegemoetkomingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2021-12-01&g=2021-12-01), is niet lager dan 80% van het basisuurloon vermenigvuldigd met twintig.
 
 6. Uitbetaling vindt wekelijks achteraf plaats.
 
@@ -105,11 +121,11 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 - a. zijn deelname, met toestemming van de directeur, aan activiteiten, vastgelegd in het detentie- en re-integratieplan; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon, vermeerderd met de gemiddeld voor de voor hem aangewezen arbeid geldende toeslag;
 
-- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
+- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2021-12-01&g=2021-12-01); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
 - c. de situatie dat de directeur niet kan voorzien in een aanbod van arbeid; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
-- d. onvermijdbaar verzuim; de hoogte van de tegemoetkoming bedraagt 80% van het basisuurloon.
+- d. onvermijdbaar verzuim; de hoogte van de tegemoetkoming bedraagt 80% van het basisuurloon. In geval van extramurale arbeid bedraagt de hoogte van tegemoetkoming bij onvermijdbaar verzuim 80% van het basisuurloon dat voor extramurale arbeid geldt.
 
 ##### Artikel 6
 
