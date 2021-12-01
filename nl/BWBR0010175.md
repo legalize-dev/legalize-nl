@@ -4,7 +4,7 @@ identifier: "BWBR0010175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2005-01-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010175"
 soort: "ministeriele-regeling"
@@ -149,7 +149,7 @@ Ten minste eenmaal per week stelt de inrichtingsarts of een aan de inrichting ve
 
 ##### Artikel 11. Uitzonderingen
 
-Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10a&z=2005-01-01&g=2005-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10b&z=2005-01-01&g=2005-01-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10c&z=2005-01-01&g=2005-01-01) niet van toepassing op verblijfsruimten waarin een gedetineerde tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van gedetineerden.
+Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10a&z=2021-12-01&g=2021-12-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10b&z=2021-12-01&g=2021-12-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10c&z=2021-12-01&g=2021-12-01) niet van toepassing op verblijfsruimten waarin een gedetineerde tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van gedetineerden.
 
 ##### Artikel 11a. Experiment Amerswiel
 
@@ -157,11 +157,11 @@ Vervallen
 
 #### § 4. Bijzondere bepalingen voor verblijfsruimten
 
-##### Artikel 12. Verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen
+##### Artikel 12. Verblijfsruimten in beperkt beveiligde afdelingen
 
-1. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), niet van toepassing, terwijl op verblijfsruimten in beperkt beveiligde inrichtingen ook het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01) en op verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) niet van toepassing is.
+1. Op verblijfruimtes in beperkt beveiligde afdelingen is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2021-12-01&g=2021-12-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2021-12-01&g=2021-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2021-12-01&g=2021-12-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2021-12-01&g=2021-12-01) niet van toepassing.
 
-2. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen, bestemd voor de onderbrenging van meer dan één gedetineerde, is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), niet van toepassing, terwijl op dergelijke verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01) niet van toepassing is.
+2. Op verblijfruimtes in beperkt beveiligde afdelingen, bestemd voor de onderbrenging van meer dan één gedetineerde, is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2021-12-01&g=2021-12-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2021-12-01&g=2021-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2021-12-01&g=2021-12-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2021-12-01&g=2021-12-01) niet van toepassing.
 
 3. De in het eerste en tweede lid genoemde verblijfsruimten zijn zodanig uitgevoerd en ingericht dat zij de individuele gedetineerde voldoende ruimte, daglicht, verwarming en ventilatie bieden.
 
@@ -171,7 +171,7 @@ Vervallen
 
 ##### Artikel 13. Overgangsbepaling
 
-Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2005-01-01&g=2005-01-01), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2005-01-01&g=2005-01-01), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01).
+Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2021-12-01&g=2021-12-01), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2021-12-01&g=2021-12-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2021-12-01&g=2021-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2021-12-01&g=2021-12-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2021-12-01&g=2021-12-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2021-12-01&g=2021-12-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2021-12-01&g=2021-12-01), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2021-12-01&g=2021-12-01).
 
 #### § 6. Slotbepalingen
 
@@ -185,7 +185,7 @@ Deze regeling wordt aangehaald als: Regeling eisen verblijfsruimte penitentiaire
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 12a. Verblijfsruimten in andere dan beperkt beveiligde en zeer beperkt beveiligde inrichtingen bestemd voor meer dan twee gedetineerden
+##### Artikel 12a. Verblijfsruimten in andere dan beperkt beveiligde afdelingen bestemd voor meer dan twee gedetineerden
 
 1. De verblijfsruimten in normaal beveiligde inrichtingen bestemd voor de onderbrenging van meer dan twee gedetineerden, zijn zodanig uitgevoerd en ingericht dat zij de individuele gedetineerde voldoende ruimte en daglicht bieden.
 
