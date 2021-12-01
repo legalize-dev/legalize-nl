@@ -4,7 +4,7 @@ identifier: "BWBR0009398"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2021-07-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009398"
 soort: "AMvB"
@@ -108,9 +108,13 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 
 - a. gedetineerden ten aanzien van wie de tenuitvoerlegging van een tevens opgelegde maatregel van terbeschikkingstelling met verpleging van overheidswege nog moet aanvangen;
 
-- b. gedetineerden die na de tenuitvoerlegging van de vrijheidsstraf gevolg dienen te geven aan de op hen rustende vertrekplicht of die uitgeleverd zullen worden;
+- b. gedetineerden die na de tenuitvoerlegging van de vrijheidsstraf gevolg dienen te geven aan de op hen rustende vertrekplicht of die zullen worden uitgeleverd;
 
-- c. gedetineerden die in een extra beveiligde inrichting verblijven.
+- c. gedetineerden die in een extra beveiligde inrichting zijn geplaatst;
+
+- d. gedetineerden die in een beperkt beveiligde afdeling zijn geplaatst;
+
+- e. gedetineerden aan wie de maatregel tot plaatsing in een inrichting voor stelselmatige daders is opgelegd.
 
 ##### Artikel 7
 
@@ -118,23 +122,15 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 
 2. De directeur voegt bij zijn voordracht het advies van de reclassering, en het advies van het openbaar ministerie indien dit op grond van [artikel 6:1:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) is uitgebracht.
 
-3. Bij zijn beslissing om een gedetineerde in de gelegenheid te stellen deel te nemen aan een penitentiair programma betrekt de selectiefunctionaris in ieder geval de volgende aspecten:
+3. De selectiefunctionaris betrekt in zijn beslissing de gedetineerde aan een penitentiair programma te laten deelnemen in ieder geval:
 
 - a. de aard, zwaarte en achtergronden van het gepleegde delict;
 
-- b. het huidige detentieverloop, waaronder het gedrag van de gedetineerde, het nakomen van afspraken door de gedetineerde en diens gemotiveerdheid;
+- b. de mate van onzekerheid over de datum van invrijheidstelling;
 
-- c. het gevaar voor recidive;
+- c. de beschikbaarheid van een aanvaardbaar verblijfadres.
 
-- d. de mate waarin de gedetineerde in staat zal zijn de met de grotere vrijheden gepaard gaande verantwoordelijkheid te kunnen dragen;
-
-- e. een aanvaardbaar verblijfadres;
-
-- f. de geschiktheid van de gedetineerde voor een penitentiair programma;
-
-- g. de mate van onzekerheid over de datum van invrijheidstelling.
-
-4. De selectiefunctionaris neemt zijn beslissing over deelname aan een penitentiair programma slechts indien de gedetineerde zich bereid heeft verklaard tot deelname aan het programma en de daaraan verbonden voorwaarden.
+4. De selectiefunctionaris neemt zijn beslissing tot deelname aan een penitentiair programma slechts indien de gedetineerde zich bereid heeft verklaard tot deelname aan het programma en de in verband daarmee gestelde algemene en bijzondere voorwaarden.
 
 ##### Artikel 8
 
@@ -144,31 +140,47 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 
 ##### Artikel 9
 
-1. Aan een beslissing om een gedetineerde in de gelegenheid te stellen deel te nemen aan een penitentiair programma worden, behoudens nader door de directeur te stellen bijzondere voorwaarden, de volgende algemene voorwaarden verbonden:
+1. Deelname aan een penitentiair programma geschiedt onder de algemene voorwaarden dat de gedetineerde:
 
-- a. de deelnemer aan het penitentiair programma gedraagt zich overeenkomstig de aanwijzingen van degene die is belast met zijn begeleiding en toezicht en zal aan deze alle verlangde inlichtingen verschaffen;
+- a. zich gedraagt overeenkomstig de aanwijzingen van degene die is belast met zijn begeleiding en toezicht en aan deze alle verlangde inlichtingen verschaft;
 
-- b. hij doet tevoren melding aan de directeur van een verandering van betrekking of woonplaats;
+- b. tevoren melding doet aan de directeur van een verandering van betrekking of verblijfadres;
 
-- c. hij maakt zich niet schuldig aan een strafbaar feit.
+- c. zich niet schuldig maakt aan een strafbaar feit.
 
-2. Bij overtreding van de voorwaarden kan de directeur, afhankelijk van de ernst van de overtreding, beslissen tot:
+2. Aan de deelname aan het penitentiair programma kunnen daarnaast door de directeur bijzondere voorwaarden betreffende het gedrag van de gedetineerde worden verbonden.
 
-- a. het geven van een waarschuwing aan de deelnemer aan het penitentiair programma;
+3. De bijzondere voorwaarden kunnen inhouden:
 
-- b. wijziging of aanvulling van de bijzondere voorwaarden gesteld aan deelname aan een penitentiair programma;
+- a. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
 
-- c. het adviseren van de selectiefunctionaris de deelname aan het penitentiair programma te beëindigen.
+- b. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden of te vestigen;
 
-Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen bij degene die belast is met het toezicht op de tenuitvoerlegging van het penitentiair programma. Deze kan ook ongevraagd aan de directeur advies geven tot het nemen van een van de in dit lid genoemde beslissingen.
+- c. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;
 
-3. De directeur geeft de deelnemer aan een penitentiair programma van een beslissing als bedoeld in het tweede lid onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+- d. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;
 
-4. Van het stellen van bijzondere voorwaarden, de overtreding van de voorwaarden en een beslissing als bedoeld in het tweede lid doet de directeur mededeling aan de selectiefunctionaris.
+- e. een verbod verdovende middelen of alcohol te gebruiken en ten behoeve van de naleving van dat verbod het verlenen van medewerking aan bloedonderzoek of urineonderzoek;
+
+- f. een verbod vrijwilligerswerk van een bepaalde aard te verrichten;
+
+- g. een beperking van het recht om Nederland te verlaten;
+
+- h. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen;
+
+- i. de plicht te verhuizen uit een bepaald gebied;
+
+- j. deelname aan een gedragsinterventie;
+
+- k. een verplichting zich onder ambulante behandeling te stellen van een deskundige of zorginstelling gedurende een termijn van ten hoogste de duur van het penitentiaire programma;
+
+- l. andere voorwaarden, het gedrag van de veroordeelde betreffend, waaraan deze gedurende de deelname aan het penitentiair programma heeft te voldoen.
+
+4. Van het stellen van bijzondere voorwaarden doet de directeur mededeling aan de selectiefunctionaris.
 
 ##### Artikel 10
 
-1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2021-07-01&g=2021-07-01).
+1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9a, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9a&z=2021-12-01&g=2021-12-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=70) en [71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71) zijn van overeenkomstige toepassing.
 
@@ -312,7 +324,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 23
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-07-01&g=2021-07-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-12-01&g=2021-12-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
@@ -330,11 +342,11 @@ Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of 
 
 ##### Artikel 26
 
-De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2021-07-01&g=2021-07-01).
+De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2021-12-01&g=2021-12-01).
 
 ##### Artikel 27
 
-Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2021-07-01&g=2021-07-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
+Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2021-12-01&g=2021-12-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### Hoofdstuk 7. Beroep tegen medisch handelen
 
@@ -382,7 +394,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - c. registratiekaarten;
 
-- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-07-01&g=2021-07-01) genoemde bescheiden, gerangschikt per inrichting.
+- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-12-01&g=2021-12-01) genoemde bescheiden, gerangschikt per inrichting.
 
 2. Het dossier wordt in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -438,7 +450,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien een gedetineerde wordt overgebracht naar een instelling voor de verlening van forensische zorg, als bedoeld in [artikel 1.1, eerste lid, onder f, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), zendt de directeur de voor een goede en veilige verlening van de forensische zorg noodzakelijk geachte bescheiden daaruit aan het hoofd of de geneesheer-directeur van die instelling.
 
-4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01).
+4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2021-12-01&g=2021-12-01).
 
 5. Bij invrijheidstelling, ontvluchting of overlijden van een gedetineerde zendt de directeur het penitentiair dossier naar Onze Minister.
 
@@ -450,7 +462,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien de gedetineerde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw wordt gedetineerd vervalt de bewaartermijn.
 
-4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-07-01&g=2021-07-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
+4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2021-12-01&g=2021-12-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
 
 ##### Artikel 40
 
@@ -510,7 +522,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 44c
 
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2021-07-01&g=2021-07-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
+[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2021-12-01&g=2021-12-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
 
 ##### Artikel 44d
 
@@ -542,7 +554,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het verblijfsplan bestrijkt de wijze van tenuitvoerlegging van de maatregel. Het plan wordt in zijn geheel of in gedeelten vastgesteld door de directeur. Het verblijfsplan voor de laatste fase van de maatregel buiten de inrichting wordt vastgesteld door de directeur en het college van burgemeester en wethouders.
 
-2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2021-07-01&g=2021-07-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
+2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2021-12-01&g=2021-12-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
 
 ##### Artikel 44h
 
@@ -550,7 +562,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 
-3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
+3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2021-12-01&g=2021-12-01) is van overeenkomstige toepassing.
 
 ##### Artikel 44i
 
@@ -566,7 +578,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. de voorwaarden die zijn verbonden aan deelneming aan het programma, de afspraken met betrokkene over deelneming daaraan en de gevolgen van het niet nakomen van die afspraken;
 
-- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2021-07-01&g=2021-07-01).
+- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2021-12-01&g=2021-12-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde afspraken houden in ieder geval in dat betrokkene zich schriftelijk bereid verklaart deel te nemen aan het programma en te voldoen aan de daaraan verbonden voorwaarden.
 
@@ -644,7 +656,7 @@ De trajectcoördinator heeft tot taak:
 
 ##### Artikel 44n
 
-1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2021-07-01&g=2021-07-01), bedoelde voorwaarden kan de directeur beslissen tot:
+1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2021-12-01&g=2021-12-01), bedoelde voorwaarden kan de directeur beslissen tot:
 
 - a. het geven van een waarschuwing aan betrokkene;
 
@@ -658,11 +670,11 @@ Van de overtreding van de voorwaarden en een beslissing als bedoeld in het eerst
 
 ##### Artikel 44o
 
-De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2021-07-01&g=2021-07-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
+De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2021-12-01&g=2021-12-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2021-12-01&g=2021-12-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
 
 ##### Artikel 44p
 
-1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2021-07-01&g=2021-07-01).
+1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2021-12-01&g=2021-12-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), en [68 tot en met 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68) zijn van overeenkomstige toepassing.
 
@@ -770,17 +782,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-1. De deelnemer aan een penitentiair programma staat gedurende het eerste derde deel van de totale duur van het programma onder elektronisch toezicht. Voor het einde van deze periode wordt bezien of het elektronisch toezicht kan vervallen. Op grond van het gedrag van de deelnemer kan worden besloten dat het elektronisch toezicht wordt voortgezet gedurende het tweede derde deel van het penitentiair programma. In dat geval wordt voor het einde van het tweede deel bezien of het elektronisch toezicht kan vervallen. Op grond van het gedrag van de deelnemer kan worden besloten dat het elektronisch toezicht wordt voortgezet gedurende het laatste deel van het penitentiair programma. Indien het elektronisch toezicht is vervallen kan de deelnemer wederom onder elektronisch toezicht worden gesteld, indien het gedrag van de deelnemer daartoe aanleiding geeft.
+1. De deelnemer aan een penitentiair programma wordt onder elektronisch toezicht gesteld, indien:
 
-2. De selectiefunctionaris is belast met de beslissingen, bedoeld in het eerste lid. Hij kan bepalen dat geen elektronisch toezicht wordt toegepast indien:
+- a. het gedrag van de deelnemer daartoe aanleiding geeft;
+
+- b. aan de deelname aan een penitentiair programma bijzondere risico’s zijn verbonden, of;
+
+- c. dit voor de bescherming van de belangen van slachtoffers noodzakelijk is.
+
+2. Elektronisch toezicht kan vervallen indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid niet langer tot het toezicht aanleiding geven. De deelnemer kan wederom onder elektronisch toezicht worden gesteld indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid daartoe aanleiding geven.
+
+3. De selectiefunctionaris is belast met de beslissingen, bedoeld in het eerste en tweede lid. Hij kan bepalen dat geen elektronisch toezicht wordt toegepast indien:
 
 - a. een andere vorm van vierentwintiguurstoezicht aanwezig is,
 
-- b. de duur van het penitentiair programma korter is dan negen weken,
+- b. het elektronisch toezicht afbreuk doet aan de resocialisatie van de deelnemer, of
 
-- c. het elektronisch toezicht afbreuk doet aan de resocialisatie van de deelnemer, of
-
-- d. bijzondere omstandigheden daartoe aanleiding geven.
+- c. bijzondere omstandigheden daartoe aanleiding geven.
 
 ### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
 
@@ -866,7 +884,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. of er overeenstemming over het geneeskundig behandelingsplan is.
 
-2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), betrokken.
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-12-01&g=2021-12-01), betrokken.
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
@@ -890,7 +908,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-12-01&g=2021-12-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 22d
 
@@ -924,7 +942,7 @@ De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de
 
 ##### Artikel 22f
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-07-01&g=2021-07-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-07-01&g=2021-07-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2021-07-01&g=2021-07-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2021-12-01&g=2021-12-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2021-12-01&g=2021-12-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2021-12-01&g=2021-12-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
 
 ##### Artikel 22g
 
@@ -956,9 +974,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 18e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18e), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
 
-2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2021-07-01&g=2021-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2021-07-01&g=2021-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2021-07-01&g=2021-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2021-07-01&g=2021-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2021-07-01&g=2021-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2021-12-01&g=2021-12-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2021-12-01&g=2021-12-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2021-12-01&g=2021-12-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2021-12-01&g=2021-12-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2021-12-01&g=2021-12-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2021-12-01&g=2021-12-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2021-12-01&g=2021-12-01) zijn van overeenkomstige toepassing.
 
-3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2021-12-01&g=2021-12-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
 
 ##### Artikel 20b
 
@@ -986,7 +1004,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij overtreding van de algemene of bijzondere voorwaarden of verzuim van deelname aan het programma kan de directeur, afhankelijk van de ernst van de gedraging, beslissen tot:
+
+- a. het geven van een waarschuwing aan de deelnemer aan het penitentiair programma;
+
+- b. wijziging of aanvulling van de bijzondere voorwaarden gesteld aan deelname aan een penitentiair programma;
+
+- c. het adviseren van de selectiefunctionaris om de deelname aan het penitentiair programma te beëindigen;
+
+- d. het onmiddellijk zelfstandig beëindigen van deelname aan het penitentiair programma indien dit dringend noodzakelijk is.
+
+2. De directeur wint advies in bij degene die is belast is met het toezicht op de tenuitvoerlegging van het penitentiair programma, tenzij spoed dit verhindert. Diegene kan ook ongevraagd aan de directeur adviseren.
+
+3. De directeur geeft de deelnemer aan een penitentiair programma van een beslissing als bedoeld in het eerste lid onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+
+4. Van het wijzigen of aanvullen van bijzondere voorwaarden, de overtreding van de voorwaarden of verzuim van deelname aan het programma en een beslissing als bedoeld in het eerste lid doet de directeur mededeling aan de selectiefunctionaris.
 
 ### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
 
