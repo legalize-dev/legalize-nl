@@ -4,7 +4,7 @@ identifier: "BWBR0011522"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-09-01"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011522"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ Vervallen
 
 1. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling van het lesgeld in een of meer termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt de eerste termijn afgeschreven in de maand volgend op de maand van inschrijving.
 
-2. Een vervolgtermijn is opeisbaar drie maanden na het moment waarop de voorafgaande betalingstermijn is vervallen, met dien verstande dat de laatste betalingstermijn niet later wordt afgeschreven dan in de maand september volgend op het schooljaar waarop die termijn betrekking heeft.
+2. Vervallen.
 
 ##### Artikel 5. Bijzondere vorm van dagonderwijs
 
