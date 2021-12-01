@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-09-28"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -158,10 +158,11 @@ Deze regeling wordt aangehaald als: Regeling model huisregels penitentiaire inri
 | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** |
 | **Bijlage** | **Bijlage** | **Bijlage** |
 | I. | Begripsbepalingen | 24 |
+| II. | Huisregels voor de Beperkt beveiligde afdeling (BBA) | 25 |
 
 **(Op de navolgende bepalingen na, aan de directeur)**
 
-Voor u liggen de huisregels van de (naam en de plaats van de inrichting).
+Voor u liggen de huisregels van de (naam en de plaats van de inrichting). Indien de inrichting een Beperkt beveiligde afdeling (BBA) heeft, gelden op de BBA tevens de specifieke huisregels voor de BBA (zie bijlage II).
 
 In de huisregels zijn uw rechten en plichten gegroepeerd per onderwerp opgenomen. Voor een aantal van deze onderwerpen geldt, dat niet alle van belang zijnde regelgeving is opgenomen maar alleen de voor u belangrijkste bepalingen. Zoveel mogelijk is per onderwerp aangegeven waar u desgewenst meer regelgeving over het onderwerp kunt vinden.
 
@@ -173,7 +174,7 @@ Tijdens uw detentie geldt nadrukkelijk dat u uw verantwoordelijkheid kunt nemen 
 
 .. De directeur is bevoegd om voor zover zulks noodzakelijk is in het belang van de handhaving van de orde of veiligheid in de inrichting of een ongestoorde tenuitvoerlegging van de vrijheidsbeneming aan u bevelen te geven. U bent verplicht deze bevelen op te volgen.
 
-.. Ambtenaren en medewerkers zijn veelal door de directeur gemachtigd tot de uitoefening van de bij of krachtens de wet gegeven bevoegdheden en de naleving van zijn zorgplichten.
+.. Ambtenaren en medewerkers zijn veelal door de directeur gemachtigd tot de uitoefening van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) gegeven bevoegdheden en de naleving van zijn zorgplichten.
 
 .. Het is verboden te roken in: .....
 
@@ -223,17 +224,17 @@ Ongeschiktheid kan samenhangen met:
 
 - •. Ministeriële regeling: [Regeling selectie, plaatsing en overplaatsing van gedetineerden; art. 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=11a)
 
-**(Op de navolgende onderwerpen na, aan de directeur)**
+(Op de navolgende onderwerpen na, aan de directeur)
 
-**(Alleen verplicht voor de inrichting of afdeling die door de minister is aangewezen als een inrichting of afdeling waarin kinderen tot een in die aanwijzing aangegeven leeftijd kunnen worden ondergebracht. De inrichting is verplicht in de huisregels nadere regels te stellen omtrent het verblijf van kinderen in de inrichting. In ieder geval dient in dit geval te worden opgenomen:)**
+(Alleen verplicht voor de inrichting of afdeling die door de Minister is aangewezen als een inrichting of afdeling waarin kinderen kunnen worden ondergebracht tot een – in de aanwijzing – aangegeven leeftijd. De inrichting is verplicht in de huisregels nadere regels te stellen omtrent het verblijf van kinderen in de inrichting. In ieder geval dient in dit geval te worden opgenomen:)
 
-**(De kinderen verblijven gedurende het dagprogramma zoveel mogelijk in professionele kinderopvang.)**
+(De kinderen verblijven gedurende het dagprogramma zoveel mogelijk in professionele kinderopvang.)
 
 (Verblijftijd in verblijfsruimte)
 
-Nadere regelgeving**(indien van toepassing)**
+Nadere regelgeving (indien van toepassing)
 
-- •. [Penitentiaire beginselenwet; art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=12), [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=20), [art. 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=21) en [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=22)
+- •. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709); [art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=12), [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=20), [art. 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=21) en [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=22)
 
 **(Aan de directeur; bewegingspas ed.)**
 
@@ -241,15 +242,19 @@ Nadere regelgeving**(indien van toepassing)**
 
 - •. [Penitentiaire beginselenwet; art. 28](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=28)
 
-**(Op de navolgende onderwerpen en de bepalingen na, aan de directeur, met uitzondering van het Justitieel Centrum voor Somatische Zorg. Daarvoor geldt: op het eerste en een na laatste onderwerp na, aan de directeur)**
+(Op de navolgende onderwerpen en de bepalingen na, aan de directeur, met uitzondering van het Justitieel Centrum voor Somatische Zorg. Daarvoor geldt: op het eerste en één na laatste onderwerp na, aan de directeur)
 
-U wordt in de gelegenheid gesteld om deel te nemen aan de in de inrichting beschikbare arbeid.
+De directeur draagt zorg voor de beschikbaarheid van gedetineerdenarbeid, voor zover de aard en de duur van de detentie zich daar niet tegen verzet.
 
-(recht op deelname aan de in de inrichting beschikbare arbeid voor zover de aard van de detentie zich daar niet tegen verzet)
+U bent niet verplicht om de aangeboden arbeid te verrichten, maar indien u niet naar de arbeid wenst te gaan, wordt u gedurende het arbeidsblok ingesloten. Ook geldt dat het niet willen meewerken aan arbeid ongewenst gedrag is, wat gevolgen kan hebben voor het programma waaraan u deelneemt en mogelijk ook voor eventuele vrijheden aan het eind van uw detentie.
 
-**(Alleen verplicht voor de inrichting of afdeling waar gedetineerden verblijven die tot een al dan niet onherroepelijke vrijheidsstraf zijn veroordeeld)**
+Indien de medische dienst vaststelt dat u vanwege een medische beperking voor een langere periode niet in staat bent arbeid te verrichten, wordt u tijdens het arbeidsblok niet ingesloten zolang deze periode duurt. Zodra u volgens de medische dienst weer in staat bent arbeid uit te voeren en u weigert dit, wordt u wel ingesloten.
 
-U hoeft geen arbeid te verrichten op de algemeen erkende feestdagen zoals benoemd in de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en de zondagen. Indien u een religie belijdt op grond waarvan u op een andere dag dan voornoemd geen arbeid wilt verrichten kan de directeur bepalen dat u op die dag niet tot arbeid bent verplicht. U ontvangt in dit geval geen loon over de arbeidsuren die voor u in het dagprogramma zijn opgenomen.
+(mogelijkheid op deelname aan de in de inrichting beschikbare arbeid voor zover de aard of de duur van de detentie zich daar niet tegen verzet)
+
+(mogelijkheid tot verrichten van arbeid al dan niet onherroepelijk veroordeelden tot een vrijheidsstraf)
+
+U hoeft geen arbeid te verrichten op de algemeen erkende feestdagen zoals benoemd in de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en op zondagen. Indien u een religie belijdt op grond waarvan u op een andere dag dan voornoemd geen arbeid wilt verrichten kan de directeur bepalen dat u op die dag niet naar de arbeid hoeft. U ontvangt in dit geval geen loon over de arbeidsuren die voor u in het dagprogramma zijn opgenomen.
 
 (aangeven wens tot deelname aan arbeid)
 
@@ -261,13 +266,13 @@ U hoeft geen arbeid te verrichten op de algemeen erkende feestdagen zoals benoem
 
 (geen of onvoldoende arbeid beschikbaar / beloning)
 
-**Nadere regelgeving**
+Nadere regelgeving
 
-- •. [Penitentiaire beginselenwet; art. 47](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=47)
+- •. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709); [art. 47](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=47)
 
-- •. [Algemene Termijnenwet; art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3)
+- •. [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448); [art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3)
 
-- •. Ministeriële regeling; [Regeling arbeidsloon gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0010172)
+- •. Ministeriële regeling; [Regeling arbeid gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0010172)
 
 - •. Arbeidsreglement, zie bijlage II
 
@@ -619,7 +624,7 @@ Binnen tien werkdagen na binnenkomst in de inrichting heeft u een gesprek met ee
 
 (verwijzen naar hoofdstuk 11 van het model huisregels; verzoek- en bezwaarschriftprocedures)
 
-(deelname aan penitentiair programma)
+(deelname aan penitentiair programma. Voor zover in de huisregels vermeld staat, dient de toelichting te worden aangepast, zodat duidelijk is dat PP enkel bestaande uit zorg niet meer aan de orde kan zijn. Voorbeeld voor de toelichting: Bij de invulling van het Penitentiair Programma (PP) kan gedacht worden aan opleidings-/arbeidstraject eventueel aangevuld met ambulante behandeling of begeleiding bijv. ten behoeve van middelenproblematiek)
 
 **Nadere regelgeving**
 
@@ -631,19 +636,71 @@ Binnen tien werkdagen na binnenkomst in de inrichting heeft u een gesprek met ee
 
 (Op de navolgende onderwerpen na, aan de directeur)
 
-(re-integratieverlof; wanneer, hoe aanvragen, verwijzen naar de ministeriële regeling [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
+(incidenteel verlof; wanneer, hoe aanvragen, verwijzen naar de ministeriële [regeling Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
 
-(strafonderbreking; wanneer, hoe aanvragen, verwijzen naar de ministeriële regeling [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
+(strafonderbreking; wanneer, hoe aanvragen, verwijzen naar de ministeriële [regeling Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
 
-(re-integratieverlof; wanneer, hoe aanvragen, verwijzen naar regeling)
+(Re-integratieverlof; wanneer, hoe aanvragen, verwijzen naar [regeling Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171))
 
-Nadere regelgeving:
+Nadere regelgeving
 
-- −. [Penitentiaire beginselenwet; art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26)
+- •. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709); [art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26)
 
-- −. [Wetboek van Strafvordering; art. 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20)
+- •. [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903); [art. 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4)
 
-- −. Ministeriële regeling; [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171)
+- •. Ministeriële regeling; [Tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171)
+
+U kunt incidenteel verlof aanvragen voor humanitaire doeleinden (bijv. een geboorte of sterfgeval, intakegesprek, medische, psychiatrische, psychotherapeutische of tandheelkundige behandelingen). Het gaat om een gebeurtenis in uw persoonlijke levenssfeer die u wilt bijwonen en die het noodzakelijk maakt dat u de inrichting tijdelijk verlaat. U kunt uw aanvraag indienen bij uw casemanager.
+
+Incidenteel verlof kan worden verleend ongeacht of u wel of niet onherroepelijk bent veroordeeld tot een vrijheidsstraf. In beginsel eindigt het incidentele verlof steeds op de dag waarop het is ingegaan.
+
+In zeer bijzondere gevallen kan door de Minister van Justitie en Veiligheid aan u een strafonderbreking worden verleend.
+
+Hierbij dient u nadrukkelijk aan te tonen of aannemelijk te maken dat er sprake is van een persoonlijke gebeurtenis met een zodanig ingrijpend karakter dat niet kan worden volstaan met een andere vorm van verlof.
+
+Een strafonderbreking kan slechts worden verleend indien u onherroepelijk bent veroordeeld tot een vrijheidsstraf. De duur van de strafonderbreking is beperkt tot de tijd die voor de ingrijpende persoonlijke gebeurtenis noodzakelijk wordt geacht, maar kan niet langer dan 3 maanden duren.
+
+De tenuitvoerlegging van uw vrijheidsstraf kan voor dezelfde omstandigheden minimaal twee etmalen tot ten hoogste drie maanden worden opgeschort.
+
+U kunt re-integratieverlof aanvragen. Re-integratieverlof wordt alleen verleend als deze bijdraagt aan uw re-integratiedoelen en voor acties, die zijn vastgesteld in uw D&R-plan. Uw re-integratiedoelen moeten bijdragen aan uw veilige terugkeer in de samenleving.
+
+De volgende criteria bepalen of het verlof ook daadwerkelijk wordt verleend:
+
+- –. De mate waarin en de wijze waarop u tijdens detentie door uw gedrag heeft laten zien dat u geschikt bent om terug te keren in de samenleving; U moet aantoonbaar actief aan uw re-integratie werken en u moet ook op de overige gebieden (bijvoorbeeld geen drugs gebruiken, u aan de huisregels houden etc.) gewenst gedrag vertonen.
+
+- –. De mogelijkheden om aan het verlof verbonden risico’s te beperken en te beheersen; Verlof moet verantwoord zijn met het oog op de veiligheid van de samenleving.
+
+- –. De belangen van slachtoffers, nabestaanden en andere relevante personen. Bezien wordt of er gevoeligheden bestaan en of hun veiligheid in het geding is. Ook worden de door u geleverde inspanningen om de schade te vergoeden die is veroorzaakt door uw strafbare feit betrokken.
+
+Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, wordt voor het bepalen van het moment waarop vrijheden op grond van deze regeling kunnen worden toegekend, uitgegaan van de veroordeling waartegen het rechtsmiddel is aangewend.
+
+De directeur zal hieromtrent informatie inwinnen bij het AICE van het CJIB. Eventueel nog te ondergane vervangende hechtenis zal bij het strafrestant worden opgeteld.
+
+Er zijn drie soorten re-integratieverlof:
+
+**Kortdurend re-integratieverlof**
+
+Deze verlofvorm begint en eindigt op dezelfde dag. Het aantal keren dat u met kortdurend re-integratieverlof kunt, is niet gemaximeerd.
+
+Als u niet voldoet aan de verlofcriteria bestaat alleen in zeer zwaarwegende gevallen gedurende ten hoogste de laatste drie maanden van uw detentie de mogelijkheid om kortdurend re-integratieverlof toegekend te krijgen voor het regelen van noodzakelijke praktische zaken (b.v. het regelen van een paspoort of het ondertekenen van een huurcontract).
+
+**Langdurend re-integratieverlof**
+
+Bij deze verlofvorm is minimaal één overnachting inbegrepen. U kunt ongebruikte verlofdagen meenemen naar een volgende maand maar niet naar een volgend kalenderjaar. U mag maximaal acht aaneengesloten nachten per maand met langdurend re-integratieverlof.
+
+**Extramurale arbeid in de Beperkt Beveiligde Afdeling (BBA)**
+
+Extramurale arbeid in de Beperkt Beveiligde Afdeling (BBA) duurt ten hoogste 1/6 deel van de straf, met een minimum van 4 weken en een maximum van 12 maanden. Extramurale arbeid betekent werken buiten de inrichting dan wel het volgen van een dagopleiding buiten de inrichting. U kunt in aanmerking komen voor extramurale arbeid bij een gevangenisstraf van meer dan 6 maanden.
+
+Over het algemeen komt u eerst in aanmerking voor kortdurend re-integratieverlof, vervolgens voor langdurend re-integratieverlof en dan voor extramurale arbeid met overplaatsing naar een BBA. Voor meer informatie betreffende het aanvragen van re-integratieverlof kunt u contact opnemen met uw casemanager door middel van een verzoekbriefje. Uw casemanager kan voor u uitrekenen of u in aanmerking komt voor verlof en welke termijnen voor u gelden.
+
+**Nadere regelgeving**
+
+[Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709); [art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26)
+
+[Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903); [art. 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4)
+
+Ministeriële regeling; [Regeling tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171)
 
 **(Aan de directeur)**
 
@@ -761,7 +818,7 @@ Het is verboden om de volgende voorwerpen in de inrichting in bezit te hebben:
 | **voorwerpen waarvoor toestemming van de directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder:** | – medicatie | – medicatie |
 | **voorwerpen waarvoor toestemming van de directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder:** | – huisdieren | – huisdieren |
 | **overige voorwerpen:** | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) |
-|   | – messen en andere steekwapens die niet strafbaar zijn op grond van de Wet wapens en munitie, met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen | – messen en andere steekwapens die niet strafbaar zijn op grond van de Wet wapens en munitie, met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen |
+|   | – messen en andere steekwapens die niet strafbaar zijn op grond van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804), met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen | – messen en andere steekwapens die niet strafbaar zijn op grond van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804), met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen |
 |   | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of op zijn afdeling verboden zijn | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of op zijn afdeling verboden zijn |
 
 De directeur is bevoegd ontheffing te verlenen voor een gedetineerde dan wel voor een groep van gedetineerden.
@@ -1330,7 +1387,7 @@ De Commissie van Toezicht stelt zich door persoonlijk contact met de gedetineerd
 
 **(Op de navolgende bepalingen na, aan de directeur)**
 
-De beklagcommissie bestaat uit drie leden van de Commissie van Toezicht en een secretaris. U kunt bij de beklagcommissie een grief indienen over de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens u heeft gedragen of een bij of krachtens de Penitentiaire beginselenwet gestelde zorgplicht heeft betracht, zie paragraaf 12.
+De beklagcommissie bestaat uit drie leden van de Commissie van Toezicht en een secretaris. U kunt bij de beklagcommissie een grief indienen over de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens u heeft gedragen of een bij of krachtens de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) gestelde zorgplicht heeft betracht, zie paragraaf 12.
 
 U kunt bij de beklagcommissie beklag doen over een u betreffende door of namens de directeur genomen beslissing, zie hoofdstuk 12.
 
@@ -1644,7 +1701,57 @@ Om u enige informatie te geven over de vraag wanneer u in aanmerking kunt komen 
 
 - •. [Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814)
 
-**(Op de navolgende bepalingen na, aan de directeur)**
+In bepaalde gevallen kunt u in aanmerking komen voor voorwaardelijke invrijheidstelling. De periode van voorwaardelijke invrijheidstelling is maximaal twee jaar. U komt voor voorwaardelijke invrijheidstelling in aanmerking indien u een onvoorwaardelijke gevangenisstraf opgelegd heeft gekregen van meer dan één jaar, en u al een bepaald gedeelte van de straf heeft ondergaan.
+
+Indien u een onvoorwaardelijke gevangenisstraf opgelegd heeft gekregen van meer dan één jaar en korter dan twee jaar, dan komt u in aanmerking voor voorwaardelijke invrijheidstelling wanneer:
+
+- –. uw vrijheidsbeneming ten minste een jaar heeft geduurd en
+
+- –. er al een derde deel van de straf die u nog uit moet zitten is ondergaan.
+
+Indien u een tijdelijke onvoorwaardelijke gevangenisstraf opgelegd heeft gekregen van meer dan twee jaar, dan komt u in aanmerking voor een voorwaardelijke invrijheidstelling wanneer u twee derde van uw straf heeft ondergaan. Met dien verstande dat de periode waarover voorwaardelijke invrijheidstelling wordt verleend niet langer kan zijn dan twee jaar.
+
+Het openbaar ministerie beslist over het toekennen van voorwaardelijke invrijheidstelling. Bij de afweging of u in aanmerking komt voor voorwaardelijke invrijheidstelling worden de volgende aspecten betrokken:
+
+- −. de mate waarin en de wijze waarop u tijdens detentie door uw gedrag heeft laten zien dat u geschikt bent om terug te keren in de samenleving;
+
+- −. de mogelijkheden om de risico’s die verbonden zijn aan een invrijheidstelling te beperken en te beheersen;
+
+- −. de belangen van slachtoffers, nabestaanden en andere relevante personen en de door uw geleverde inspanning om de schade te vergoeden die is veroorzaakt door uw strafbare feit.
+
+De directeur van de inrichting en de reclassering adviseren over de beslissing om aan u voorwaardelijke invrijheidstelling te verlenen.
+
+Het openbaar ministerie kan ook besluiten de beslissing over het verlenen van een voorwaardelijke invrijheidstelling uit te stellen.
+
+Indien er geen voorwaardelijke invrijheidstelling aan u wordt verleend, dan kunt u (nog) twee keer verzoeken om alsnog voorwaardelijk in vrijheid te worden gesteld. Dit kan ten minste zes maanden na een afwijzing.
+
+De verleende voorwaardelijke invrijheidstelling kan geheel of gedeeltelijk worden herroepen als er – ernstige – redenen zijn dat u een algemene voorwaarde of (bepaalde) bijzondere voorwaarden niet heeft nageleefd. Tegen een dergelijk besluit kunt u bezwaar indienen.
+
+U kunt dus een bezwaarschrift indienen tegen:
+
+- –. de beslissing om geen voorwaardelijke invrijheidstelling te verlenen;
+
+- –. de beslissing tot uitstel van een voorwaardelijke invrijheidstelling;
+
+- –. de beslissing tot herroeping van een voorwaardelijke invrijheidstelling.
+
+Het bezwaarschrift moet zijn ingediend binnen twee weken nadat u kennis heeft genomen van bovenstaande beslissingen. Dit kunt u doen bij de rechtbank die u in eerste aanleg de vrijheidsstraf heeft opgelegd. Indien u meerdere vrijheidsstraffen achter elkaar ondergaat, moet u bij de rechtbank zijn die u de hoogste vrijheidsstraf heeft opgelegd.
+
+**Nadere regelgeving**
+
+[Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903); [artikel 6:2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6) e.v.
+
+Indien u in aanmerking komt voor voorwaardelijke invrijheidstelling krijgt u een of meerdere voorwaarden en een proeftijd opgelegd. Zo mag u tijdens uw proeftijd niet opnieuw een strafbaar feit plegen. Doet u dat wel, dan kan de voorwaardelijke vrijlating worden herroepen.
+
+Naast de algemene voorwaarde zijn er bijzondere voorwaarden betreffende het gedrag van de veroordeelde die door het openbaar ministerie kunnen worden opgelegd. Deze worden afgestemd op uw persoon, het gepleegde strafbare feit en de kans dat u zich niet aan deze voorwaarden zult aanhouden (recidivekans).
+
+De volgende bijzondere voorwaarden zijn mogelijk:
+
+- •. Vrijheidsbeperkende voorwaarden, zoals een meldingsplicht, contactverbod, locatieverbod, drugs- of alcoholverbod of een verbod vrijwilligerswerk van een bepaalde aard te verrichten, een beperking van het recht om Nederland te verlaten, vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen dan wel de plicht te verhuizen uit een bepaald gebied;
+
+- •. Gedragsbeïnvloedende voorwaarden, zoals deelname aan een training.
+
+- •. Voorwaarden gericht op zorg, zoals een behandeling bij een instelling van geestelijke gezondheidszorg of verslavingszorg.
 
 Indien u een (onvoorwaardelijke) gevangenisstraf van meer dan één jaar opgelegd heeft gekregen kunt u alleen onder voorwaarden vervroegd worden vrijgelaten. De algemene voorwaarde daarbij is dat u tijdens uw proeftijd niet opnieuw een strafbaar feit mag plegen. Er kan u ook een bijzondere voorwaarde worden opgelegd, bijvoorbeeld een alcoholverbod of het volgen van een gedragsinterventie of behandeling. Indien u de voorwaarden niet naleeft, kan de voorwaardelijke invrijheidstelling worden herroepen. U moet dan alsnog de rest van uw straf of een deel daarvan uitzitten.
 
@@ -1725,5 +1832,217 @@ Voor de toepassing van deze huisregels wordt verstaan onder:
 - t. **geprivilegieerd contact:** contacten met; a. leden van het Koninklijk Huis; b. de Eerste of Tweede Kamer der Staten-Generaal, leden daarvan, de Nederlandse leden van het Europees Parlement of een commissie uit een van beide parlementen; c. Onze Minister; d. justitiële autoriteiten; e. de Nationale Ombudsman; f. de geneeskundig inspecteurs van de volksgezondheid; g. de Raad voor strafrechtstoepassing en jeugdbescherming of leden daarvan; h. de commissie van toezicht of een beklagcommissie, of leden daarvan; i. uw rechtsbijstandverlener; j. uw reclasseringswerker; k. andere door de Minister of de directeur aan te wijzen personen of instanties;
 
 - u. **consulair ambtenaar:** de consulair ambtenaar als bedoeld in artikel 1 onder d van het verdrag van Wenen van 24 april 1963.
+
+Voor u liggen de aanvullende huisregels van [PI naam], voor de Beperkt beveiligde afdeling [BBA].
+
+In de BBA huisregels zijn uw rechten en plichten gegroepeerd per onderwerp opgenomen. Het gaat hierbij alleen om de regels die specifiek gelden voor de BBA. De algemene huisregels van de inrichting zijn ook van toepassing ten aanzien van de BBA voor zover hiervan in deze regeling niet wordt afgeweken. Voor een aantal van deze onderwerpen geldt dat niet alle van belang zijnde regelgeving is opgenomen maar alleen de voor u belangrijkste bepalingen. Zoveel mogelijk is per onderwerp aangegeven waar u desgewenst meer regelgeving over het onderwerp kunt vinden.
+
+De directeur is bevoegd om, als dit noodzakelijk is in het belang van de handhaving van de orde of veiligheid in de inrichting of een ongestoorde tenuitvoerlegging van de vrijheidsbeneming, aan u opdrachten te geven. U bent verplicht deze opdrachten op te volgen.
+
+Ambtenaren en medewerkers zijn door de directeur gemachtigd tot de uitoefening van de hem bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) gegeven bevoegdheden en de naleving van zijn zorgplichten.
+
+Indien u in vrijheid wordt gesteld zal een door de directeur getekend bewijs van ontslag aan u worden uitgereikt.
+
+Aan het hoofd van deze inrichting staat de vestigingsdirecteur. Deze heeft de algehele leiding over PI [naam].
+
+Nadere regelgeving:
+
+Daar waar deze huisregels voor de BBA niet voorzien wordt u verwezen naar de algemene huisregels van de PI [naam].
+
+Daar waar de huisregels niet voorzien wordt u verwezen naar de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
+
+Daar waar onduidelijkheden zijn zal de directeur een beslissing nemen.
+
+Adres:
+
+Telefoon:
+
+Telefoon:
+
+Email:
+
+De Beperkt Beveiligde Afdeling (BBA) heeft als doel om u via een persoonsgerichte en trajectmatige aanpak re-integratieverlof in de vorm van werk buiten de inrichting, eventueel in combinatie met opleiding/zorg, te faciliteren in de regio. Daarmee krijgt u een betere uitgangspositie op een betaalde baan na detentie.
+
+U dient de vrijheden die gekoppeld zijn aan het toekennen van re-integratieverlof voor extramurale arbeid aan te kunnen om in aanmerking te komen voor plaatsing in een BBA. Het afwegingskader hiervoor is uw gedrag tijdens detentie, de risicobeoordeling en de slachtofferbelangen. Voor een nadere toelichting zie de algemene huisregels en het Informatieblad Beperkt beveiligde afdeling voor gedetineerden.
+
+Bij binnenkomst op de BBA wordt u op een tweepersoonskamer geplaatst. De inventaris van uw kamer mag niet worden verplaatst. Er wordt verwacht dat uw kamer voldoet aan de hygiënevoorschriften zoals deze gesteld worden door het personeel. Voor het ophangen van papieren, kaarten, enz. dient u het daarvoor bestemde prikbord te gebruiken en niet de muren.
+
+U dient gekleed van en naar de doucheruimte te gaan.
+
+U bent zelf verantwoordelijk voor uw eigendommen, de inrichting is niet aansprakelijk bij verlies, diefstal of schade.
+
+Bij ontslag of overplaatsing dient u de kamer schoon achter te laten en wordt de kamerinventaris gecontroleerd.
+
+Alle bewoners van BBA zijn verantwoordelijk voor de hygiëne van de algemene ruimtes. Middels een corveelijst is inzichtelijk wie welke taken moet uitvoeren.
+
+Maaltijden worden indien mogelijk gezamenlijk genuttigd in de daarvoor bestemde huiskamer.
+
+Na gebruik dient u de douches, toiletten, keuken en het kookgerei weer schoon achter te laten.
+
+U krijgt een mentor en een senior casemanager toegewezen. Zij begeleiden u met uw re-integratiedoelen. Tijdens uw verblijf dient u alle relevante kwesties te bespreken met uw mentor en/of uw senior casemanager.
+
+Tijdens de avond- en nachturen (22.00 u. t/m 07.00 u.) bent u verplicht om op uw kamer te verblijven, m.u.v. toiletbezoek. Met afwijkende werktijden wordt rekening gehouden. U dient tijdens deze nachtelijke uren geen overlast (geluid) te veroorzaken.
+
+(nader in te vullen door de inrichtingen)
+
+Bij uw binnenkomst op de BBA, wordt u als nieuwe inkomst aangemeld. Dit gaat door middel van een overplaatsing vanuit een andere inrichting.
+
+Ook tijdens uw re-integratieverlof, welke in uw D&R-plan aangegeven is, wordt u door middel van de biometrie uit- en ingeschreven.
+
+U bent gerechtigd één (1) mobiele telefoon in uw bezit te hebben. Wordt dit aantal overschreden dan zal de inrichting hiervan aangifte doen bij de politie en wordt u overgeplaatst naar een normaal beveiligde inrichting. Uitzondering hierop is een door de werkgever verstrekte werktelefoon. Wanneer hier sprake van is, dient u dit kenbaar te maken bij het personeel. Tijdens gemeenschappelijke activiteiten is het gebruik van uw mobiele telefoon ****niet**** toegestaan.
+
+Op 1 november 2019 is de Wet strafbaarstelling binnenbrengen verboden voorwerpen in justitiële inrichtingen (contrabande) in werking getreden. Daarmee is het binnenbrengen van digitale informatiedragers en gereedschappen verboden. Het gaat hier om voorwerpen die buiten de inrichting zijn togestaan maar binnen de inrichting niet vanwege de orde en veiligheid. Ook is het verboden om wapens en drugs binnen te brengen in de inrichting.
+
+U dient bij het personeel de gegevens van deze apparaten door te geven. Pas als alle gegevens zijn verwerkt kunnen deze worden ingevoerd.
+
+Het is niet toegestaan in en rond de BBA te fotograferen en/of te filmen. Wanneer het personeel dit waarneemt, wordt er te allen tijde rapport opgemaakt. Beeldbellen is alleen toegestaan in uw verblijfsruimte.
+
+Als u de BBA verlaat volgens de gemaakte afspraken, dan geeft u dit minimaal 5 minuten van tevoren aan en levert u uw sleutel in bij de personeelswacht.
+
+Wanneer u tijdens uw verblijf in de BBA ziek bent en niet in staat bent om te werken, uw opleiding te volgen of anderszins niet aan de dagbesteding deel kunt nemen, dient u de gehele dag, inclusief de avonduren in de BBA te verblijven, met uitzondering van een bezoek aan een arts. Uitzonderingen hierop worden bepaald i.o.m. het dienstdoende personeel.
+
+U dient zich ruim, in ieder geval voor 07:30 uur, voor aanvang werktijd ziek te melden bij uw mentor, senior casemanager en uw werkgever.
+
+Frequent verzuim kan gevolgen hebben voor uw verblijf op de BBA.
+
+- •. Indien u zich voor de 2e maal ziek meldt zal de mentor met u in gesprek gaan.
+
+- •. Een 3e ziekmelding heeft tot gevolg dat het afdelingshoofd met u in gesprek gaat, welke gevolg kan hebben voor uw verdere verblijf binnen de BBA.
+
+Wanneer u tijdens uw BBA-periode langdurig ziek bent (2 weken of langer), wordt u overplaatst naar een normaal beveiligde inrichting. Bij herstel kunt een (spoed) aanvraag doen voor overplaatsing naar de BBA, u wordt dan op de wachtlijst geplaatst voor terugkeer naar de BBA.
+
+Voorafgaand aan plaatsing in de BBA zijn er met u afspraken gemaakt over de invulling van de rechtenactiviteiten (deels buiten de BBA) en dagbesteding (minimaal 32 uur maximaal 40 uur conform de [arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)). Deze afspraken zijn vastgelegd in een deelnameverklaring en worden opgenomen in uw D&R-plan. Dit D&R-plan voert u uit wanneer u in de BBA verblijft. Dit is ook het uitgangspunt voor uw detentie en re-integratietraject binnen de BBA.
+
+Tijdens uw BBA-periode werkt u, volgt u een opleiding of vervult u een voor u passende dag invulling. Dit is voorafgaand aan uw plaatsing vastgelegd in uw D&R-plan. Tussen uw werkgever en DJI wordt, in afstemming met uw senior casemanager, een 'Overeenkomst Organisatie-DJI' opgemaakt, waarin zaken vermeld staan als personalia, vergoeding, arbeidstijden, enz. Het is niet toegestaan dat u buiten dat contract om met de werkgever onderhandelt of afspraken maakt over beloning of andere arbeidsvoorwaarden. Alle contacten met uw werkgever betreffende overwerk, ziekte, ander verzuim en dergelijke lopen via de senior casemanager van de BBA.
+
+Tijdens een verblijf op de BBA is het de bedoeling dat u minimaal 32 uur en maximaal 40 uur (conform de [arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)) per week werkt. Omdat het een leer-/werkomgeving is, is overwerken alleen toegestaan als dit bijdraagt aan uw re-integratiedoelen en na afstemming en akkoord van uw senior casemanager. Daarnaast mogen uw overige re-integratiedoelen of corveetaken niet in het gedrang komen.
+
+Uw wekelijkse vergoeding in de BBA bedraagt 300% van het basisuurloon en wordt gestort op uw privébankrekening. De hoogte van uw zakgeld is afhankelijk van het aantal uren dat u werkt. Een vergoeding in de reiskosten wordt opgenomen in de overeenkomst met de werkgever en wordt ook op uw privébankrekening gestort.
+
+Verdient u meer dan de 300% van het basisuurloon bij uw werkgever, dan wordt het meerdere op uw (spaar)rekeningcourant gestort. Dit geld wordt ingezet ten behoeve van re-integratiedoelen op de vijf basisvoorwaarden en het sociaal netwerk. Zo dient u een betalingsregeling te hebben getroffen als u openstaande boetes en/of openstaande schulden heeft. De hoogte van de betalingsregeling kan worden aangepast als u meer vergoeding ontvangt ten tijde de betalingsregeling in eerste instantie is vastgesteld.
+
+Indien u tijdens uw BBA-periode uw baan kwijtraakt door ongewenst gedrag op de werkplek, wordt u direct uit de BBA geplaatst. Indien u uw baan kwijtraakt door overmacht, heeft u maximaal 2 weken om een nieuwe werkgever te vinden. Als dit niet lukt wordt u overgeplaatst naar een normaal beveiligde inrichting. Wanneer er de mogelijkheid is om in de tussentijd vrijwilligerswerk te kunnen doen, dient u hieraan mee te werken.
+
+Het personeel van de BBA zal controleren op uw aanwezigheid op de werkplek bij de werkgever. Het is niet toegestaan om binnen de werktijden uw werkplek te verlaten zonder toestemming van het BBA personeel. Indien u zonder toestemming niet aanwezig bent op de werkplek zal er te allen tijde rapport worden opgemaakt.
+
+Nadere regelgeving
+
+- •. [Regeling arbeid gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0010172); [art. 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&artikel=4a)
+
+Om uw plaats van tewerkstelling te bereiken, kunt u;
+
+- −. gebruik maken van een dienstfiets of eigen fiets;
+
+- −. gebruik maken van het openbaar vervoer (bus en trein);
+
+- −. gebruik maken van uw eigen auto.
+
+- −. U reist via de kortste weg van de inrichting naar de plaats van bestemming. Dit geheel op eigen kosten en risico.
+
+- −. De reiskosten die uw werkgever vergoedt, zijn opgenomen in de overeenkomst Organisatie-DJI, en worden door DJI aan u uitbetaald.
+
+- −. U dient te allen tijde, bij gebruik van eigen vervoer, in het bezit te zijn van (een te tonen) geldig rijbewijs en keuringsbewijs. Ook dient uw voertuig verzekerd te zijn. Een kopie rijbewijs, kentekenbewijs en groene kaart verstrekt u aan het personeel van de BBA. Indien u gebruik maakt van een geleende auto, dient uit de verzekering te blijken of gebruik door derden toegestaan is.
+
+In de BBA heeft u de mogelijkheid om ‘s avonds, of op uw niet-werkdagen, deel te nemen aan activiteiten die vooraf zijn vastgelegd in het D&R-plan. Bij het wijzigen van activiteiten zal dit in overleg met uw mentor of senior casemanager verwerkt worden in uw D&R-plan. In principe zijn de activiteiten individueel. U kunt echter met medebewoners afspreken om samen naar een activiteit te gaan. U dient de kortste route naar een activiteit aan te houden. U dient te allen tijde vóór 21.00 uur binnen te zijn in de BBA. Het is niet toegestaan om derden uit te nodigen om een activiteit bij te wonen.
+
+**Bibliotheek [naam stad]:**
+
+U kunt gaan naar de bibliotheek in [adres], hier staat 1 uur per week voor inclusief reistijd.
+
+**Sporten:**
+
+U kunt maximaal 3.5 uur per week inclusief reistijd sporten.
+
+U kunt volgens een vaste route wandelen of hardlopen.
+
+U kunt trainen bij [naam adres sportschool].
+
+U kunt gaan zwemmen bij [naam, adres zwembad]. Zwemmen wordt gedaan in het wedstrijdbad. Er wordt van u verwacht dat u een bewijs van betaling kunt laten zien bij terugkomst.
+
+U maakt hierover afspraken met uw senior casemanager.
+
+**Religieuze dienst:**
+
+Aan de BBA zijn geen geestelijke verzorgers verbonden.
+
+Wanneer u een bezoek wilt brengen aan een religieuze dienst buiten de BBA, maakt u daarvoor afspraken met uw mentor of senior casemanager en laat u dit opnemen in uw D&R-plan, hier staat 1,5 uur per week voor inclusief reistijd.
+
+Andere activiteiten:
+
+Indien u tijdens het programma naar een andere activiteit wilt gaan, dan kunt u hiervoor toestemming vragen aan het personeel. Uren t.b.v. (recht)activiteiten vervallen indien u hiervan geen gebruik gemaakt heeft en zijn niet overdraagbaar naar een andere (recht)activiteit.
+
+Bij activiteiten kan er controle plaatsvinden. Als bij controle blijkt dat u niet op de plaats van de activiteit aanwezig bent, zal er een rapport worden opgemaakt. Dit kan leiden tot overplaatsing. U dient linea recta naar de plaats van bestemming te gaan zonder omwegen en tussenstops. De kosten voor de activiteiten zijn voor uw eigen rekening.
+
+In overleg met uw mentor kunt u in winkelcentrum [naam adres winkelcentrum] boodschappen doen met uitzondering van de zondag, wekelijks krijgt u hier 1 uur de tijd voor.
+
+U hebt recht op 2,5 uur per week bezoek, inclusief reistijd. Uw bezoek zal buiten de BBA plaatsvinden en vast worden gelegd in uw D&R-plan.
+
+U vult het formulier ‘opgaveformulier bezoekers’ voorafgaand aan uw bezoek in en geeft dit af bij het BBA personeel. Tijdens uw bezoek kunt u gecontroleerd worden hierbij zal ook gekeken worden of uw bezoek op de formulieren staat.
+
+Verder is het niet mogelijk om bezoekmomenten te "sparen" of te splitsen. Wanneer u verhinderd bent tijdens een gepland bezoekmoment, bent u zelf verantwoordelijk om uw bezoek tijdig in te lichten. Uw bezoekmoment voor die week komt dan te vervallen. Indien u disciplinair gestraft wordt kan de directeur bepalen dat uw bezoek, gedurende de tijd dat u gesanctioneerd bent, in een aparte ruimte plaatsvindt.
+
+Nadere regelgeving
+
+- •. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709); [art. 29](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=29), [art. 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=38), [art. 41](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=41), [art. 49](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=49), [art. 58](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=58)
+
+- •. [Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019741);
+
+U valt onder de zorg van DJI, u hoeft daarom geen eigen zorgverzekering te hebben. Wanneer u bent overgeplaatst naar de BBA zal er binnen 24 uur een intakegesprek met de medische dienst plaats vinden. Indien u een huisarts wil spreken kunt u van [maandag tot en met vrijdag] van [tijden] een afspraak maken via [telefoonnummer].
+
+Een bezoek aan de huisarts voor bijvoorbeeld uw medicatie vindt [buiten de inrichting plaats bij een aan de inrichting verbonden arts of diens vervanger of op afspraak plaats binnen de PI waar u verblijft]. Bij het niet nakomen van de afspraak of als u de afspraak te laat afzegt worden de consultkosten (€ 15,–) bij u in rekening gebracht.
+
+**Ziek tijdens verlof BBA**
+
+Bij levensbedreigende situaties belt u 112, bij niet levensbedreigende situaties kunt u contact opnemen met de huisartsenpost. Vermeld aan de arts dat u in BBA verblijft en vraag of de arts die u behandelt melding wil maken van uw behandeling. Op die manier zal de rekening van het consult en/of behandeling door DJI worden betaald. Bij terugkomst op de BBA dient u aan het personeel te melden dat u gebruik heeft gemaakt van medische zorg.
+
+**Niet terug kunnen keren naar de BBA van uw verlof**
+
+Indien u door gezondheidsklachten niet terug kunt keren van uw verlof of niet in staat bent om te reizen, bent u verantwoordelijk om zo spoedig mogelijk contact op te nemen met de BBA zodat vastgesteld kan worden waarom dat u niet in staat bent om te reizen.
+
+De eigen kleding kunt u, indien gewenst, op de BBA wassen. Hiervoor is een wasmachine en een droger beschikbaar. Linnen- en beddengoed kunt u wekelijks op woensdag voor 09:00 uur vuil inleveren in de daarvoor bestemde container. Dezelfde dag ontvangt u schoon linnen- en beddengoed.
+
+U kunt zelfstandig, op eigen kosten, naar de kapper, dit in overleg met uw mentor.
+
+DJI biedt u een maaltijd aan. Indien u deze niet wenst, dient u dit aan te geven.
+
+De maaltijd wordt gezamenlijk om 17:30 uur in de huiskamer genuttigd. Kunt u op dit tijdstip niet de maaltijd gebruiken door uw afwijkende werktijden, dan kunt u de maaltijd zelf opwarmen.
+
+Het gebruik van datadragers is tijdens de gezamenlijke avondmaaltijd in de woonkamer verboden.
+
+In aanvullingen op het overzicht met de toegestane voorwerpen uit de algemene huisregels, is het op de BBA toegestaan de volgende voorwerpen in te voeren:
+
+| Mobiele telefoon | 1 |
+| --- | --- |
+| Werk telefoon | 1 |
+| Laptop | 1 |
+| iPad of tablet | 1 |
+
+Het regelen van transacties vanaf de geblokkeerde spaarrekening courant dient samen met de senior casemanager te worden gedaan. U kunt hier alleen aanspraak op maken als dit een re-integratiedoel dient.
+
+U kan worden overgeplaatst:
+
+- −. wanneer u de regels overtreedt of ongewenst gedrag vertoont.
+
+Ook wordt u bijvoorbeeld overgeplaatst:
+
+- −. als u uw baan kwijtraakt door ongewenst gedrag op de werkplek;
+
+- −. als u langer dan 2 weken door overmacht zonder baan zit;
+
+- −. als u langdurig ziek bent (langer dan 2 weken).
+
+N.B.
+
+Bij een overplaatsing door ongewenst gedrag of ontoelaatbaar gedrag is het op zijn vroegst na drie maanden pas mogelijk om een nieuwe aanvraag voor plaatsing in de BBA te honoreren. Het D&R-plan wordt opnieuw bekeken.
+
+Bij een overplaatsing door het verliezen van een baan door overmacht of bij ziekte kan z.s.m. na het vinden van werk of na herstel een nieuwe (spoed)aanvraag worden gedaan voor plaatsing in de BBA.
+
+Nadere regelgeving:
+
+- −. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5)
+
+- −. [Regeling selectie plaatsing en overplaatsing gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558), [hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=Ia)
+
+- −. [Regeling tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171), art. 20ab
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt ter inzage gelegd.
