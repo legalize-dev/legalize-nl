@@ -329,9 +329,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling stimulering deelname Europees Defensiefonds.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 15a
-
-Deze regeling vervalt met ingang van 29 november 2026, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
