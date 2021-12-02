@@ -4,7 +4,7 @@ identifier: "BWBR0045961"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-02"
-last_updated: "2021-09-01"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045961"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045961&artikel=2&z=2021-12-02&g=2021-09-01).
+- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045961&artikel=2&z=2021-12-02&g=2021-12-02).
 
 ##### Artikel 2. Instelling en taak
 
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 1. De werkgroep wordt ingesteld per 1 september 2021.
 
-2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045961&artikel=2&z=2021-12-02&g=2021-09-01) door de minister van Financiën aan de minister van Sociale Zaken en Werkgelegenheid is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
+2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045961&artikel=2&z=2021-12-02&g=2021-12-02) door de minister van Financiën aan de minister van Sociale Zaken en Werkgelegenheid is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
 ##### Artikel 5. Secretariaat
 
