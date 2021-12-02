@@ -113,37 +113,3 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering MIT 2021.
 ### Maximale Rijksbijdrage per provincie
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 2. Regionale MIT-regeling voor uitvoeringsperiode 2022–2026
-
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-10-14&g=2022-10-14)
-
-### 1. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2021–2025
-
-### 2. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2022–2026
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2023-03-18&g=2023-03-18)
-
-### 2. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2022–2026
-
-### 3. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2023–2027
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2024-03-16&g=2024-03-16)
-
-### 3. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
-
-### 3. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2023–2027
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2025-04-08&g=2025-04-08)
-
-### 4. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
-
-### 5. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
