@@ -4,7 +4,7 @@ identifier: "BWBR0045980"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-03"
-last_updated: "2010-10-10"
+last_updated: "2021-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045980"
 soort: "ministeriele-regeling"
@@ -105,7 +105,7 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 ##### Artikel 3. Verdeling en verdeelsleutel
 
-1. De opbrengsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=2&z=2021-12-03&g=2010-10-10), worden te rekenen vanaf 10 oktober 2010 verdeeld tussen Nederland, Curaçao en Sint Maarten.
+1. De opbrengsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=2&z=2021-12-03&g=2021-12-03), worden te rekenen vanaf 10 oktober 2010 verdeeld tussen Nederland, Curaçao en Sint Maarten.
 
 2. De huidige verdeelsleutel van de opbrengsten bedraagt 98,8% voor Nederland en 0,96% voor Curaçao en 0,24% voor Sint Maarten geldt tot uiterlijk 31 december 2020. De nieuwe verdeelsleutel die vanaf 1 januari 2021 zal gelden tussen Nederland en Curaçao, dient zo spoedig mogelijk te zijn overeengekomen. In het geval er op 1 januari 2021 geen nieuwe verdeelsleutel is overeengekomen dan zal de verdeling en betaling worden voortgezet op basis van de tot 31 december 2020 geldende verdeelsleutel tot dat een nieuwe verdeelsleutel is overeengekomen.
 
@@ -113,13 +113,13 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 ##### Artikel 4. Financiële afwikkeling
 
-1. Octrooicentrum Nederland is belast met de verdeling van de opbrengsten en met de betaling aan BIP Curaçao van het aan Curaçao toekomende aandeel, overeenkomstig de verdeelsleutel die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=3&z=2021-12-03&g=2010-10-10) is vastgesteld.
+1. Octrooicentrum Nederland is belast met de verdeling van de opbrengsten en met de betaling aan BIP Curaçao van het aan Curaçao toekomende aandeel, overeenkomstig de verdeelsleutel die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=3&z=2021-12-03&g=2021-12-03) is vastgesteld.
 
-2. De verdeling vindt plaats op basis van de opbrengsten, zoals die, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=2&z=2021-12-03&g=2010-10-10), zijn opgenomen in de verantwoording die Octrooicentrum Nederland maandelijks aan de Minister van Economische Zaken aflegt over de uitoefening van zijn taken en bevoegdheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en het [Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246).
+2. De verdeling vindt plaats op basis van de opbrengsten, zoals die, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=2&z=2021-12-03&g=2021-12-03), zijn opgenomen in de verantwoording die Octrooicentrum Nederland maandelijks aan de Minister van Economische Zaken aflegt over de uitoefening van zijn taken en bevoegdheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en het [Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246).
 
-3. Octrooicentrum Nederland stelt de hoogte van de aandelen vast door de opbrengsten telkens na afloop van elke maand te vermenigvuldigen met de verdeelsleutel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=3&z=2021-12-03&g=2010-10-10).
+3. Octrooicentrum Nederland stelt de hoogte van de aandelen vast door de opbrengsten telkens na afloop van elke maand te vermenigvuldigen met de verdeelsleutel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=3&z=2021-12-03&g=2021-12-03).
 
-4. De vaststelling van de aandelen is definitief, tenzij een controle ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=5&z=2021-12-03&g=2010-10-10) aanleiding geeft tot herziening.
+4. De vaststelling van de aandelen is definitief, tenzij een controle ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=5&z=2021-12-03&g=2021-12-03) aanleiding geeft tot herziening.
 
 5. De betaling aan BIP Curaçao geschiedt telkens binnen 30 dagen na afloop van de desbetreffende maand door bijschrijving op rekeningnummer 130211701 bij de Maduro & Curiel’s Bank N.V. te Curaçao ten name van Bureau Intellectual Property, onder vermelding van de maand waarop de betaling betrekking heeft.
 
