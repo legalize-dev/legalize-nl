@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2021-02-26"
+last_updated: "2021-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - b. in totaal € 11.000.000 voor de kalenderjaren 2020;
 
-- c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2022.
+- c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 8.000.000 voor subsidieverstrekking in het kalenderjaar 2022.
 
 2. De subsidie bedraagt € 5.000 per onderwijsassistent of leraarondersteuner per jaar gedurende maximaal vier jaren.
 
@@ -134,7 +134,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2021-02-26&g=2021-02-26):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2021-12-03&g=2021-12-03):
 
 - a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019;
 
