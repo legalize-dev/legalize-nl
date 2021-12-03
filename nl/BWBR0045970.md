@@ -4,7 +4,7 @@ identifier: "BWBR0045970"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-03"
-last_updated: "2021-11-10"
+last_updated: "2021-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045970"
 soort: "ministeriele-regeling"
@@ -44,8 +44,6 @@ Wijzigt de Vrijstellingsregeling Wft.
 
 Wijzigt de Regeling bekostiging financieel toezicht eenmalige handelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 1. Van [artikel 3:5, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) zijn tot en met 10 november 2022 vrijgesteld personen die opvorderbare gelden aantrekken of ter beschikking verkrijgen door middel van een publiekslening als bedoeld in [artikel 2a, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2a), alsmede personen die als gevolg van een zodanige aantrekking of verkrijging opvorderbare gelden ter beschikking hebben, mits:
@@ -64,11 +62,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt ten aanzien van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0045970&artikel=I&z=2021-12-03&g=2021-12-03) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0045970&artikel=III&z=2021-12-03&g=2021-12-03) terug tot en met 10 november 2021.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Implementatieregeling Europese crowdfundingdienstverleners voor bedrijven.
 
 Gelet op [Richtlijn (EU) 2020/1504](32020L1504) van het Europees Parlement en de Raad van 7 oktober 2020 tot wijziging van [Richtlijn 2014/65](32014L0065)/EU betreffende markten voor financiële instrumenten (PbEU 2020, L 347) en [Verordening (EU) 2020/1503](33403R2020) van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van [Verordening (EU) 2017/1129](33029R2017) en [Richtlijn (EU) 2019/1937](32019L1937) (PbEU 2020, L 347) , alsmede de [artikelen 2:104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104), [3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) en [4:7, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7) en [artikel 14, tweede lid, van de Wet bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&artikel=14);
 
