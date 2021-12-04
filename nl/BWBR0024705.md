@@ -4,7 +4,7 @@ identifier: "BWBR0024705"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-12-01"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024705"
 soort: "wet"
@@ -65,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **groep B2:** buiktyfus (typhoid fever), cholera, hepatitis A, B en C, kinkhoest, mazelen, paratyfus, rubella, shigellose, shiga toxine producerende escherichia (STEC)/enterohemorragische escherichia coli-infectie, invasieve groep A streptokokkeninfectie, voedselinfectie, voor zover vastgesteld bij twee of meer patiënten met een onderlinge relatie wijzend op voedsel als een bron;
 
-- h. **groep C:** de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=1&artikel=19&z=2021-12-01&g=2021-12-01) aangewezen infectieziekten;
+- h. **groep C:** de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=1&artikel=19&z=2021-12-04&g=2021-12-04) aangewezen infectieziekten;
 
 - i. **epidemie van een infectieziekte:** een in korte tijd sterke toename van het aantal nieuwe patiënten lijdend aan een infectieziekte behorend tot groep A, B1, B2 of C;
 
@@ -129,7 +129,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het verwerven van, op epidemiologische analyse gebaseerd, inzicht in de gezondheidssituatie van de bevolking,
 
-- b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=III&artikel=13&z=2021-12-01&g=2021-12-01), op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie,
+- b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=III&artikel=13&z=2021-12-04&g=2021-12-04), op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie,
 
 - c. het bewaken van gezondheidsaspecten in bestuurlijke beslissingen,
 
@@ -211,23 +211,23 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 - b. het bestrijden van tuberculose en seksueel overdraagbare aandoeningen, inclusief bron- en contactopsporing,
 
-- c. bron- en contactopsporing bij meldingen als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-01&g=2021-12-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-01&g=2021-12-01).
+- c. bron- en contactopsporing bij meldingen als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-04&g=2021-12-04) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-04&g=2021-12-04).
 
 2. Het bestuur van de veiligheidsregio draagt zorg voor de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede op de bestrijding van een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volksgezondheid bestaat.
 
-3. De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, behorend tot groep B1, B2 of C, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-01&g=2021-12-01).
+3. De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, behorend tot groep B1, B2 of C, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-04&g=2021-12-04).
 
-4. De voorzitter van de veiligheidsregio draagt zorg voor de bestrijding van een epidemie van een infectieziekte behorend tot groep A, of een directe dreiging daarvan, en is dan ten behoeve van deze bestrijding bij uitsluiting bevoegd om toepassing te geven aan de [artikelen 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2021-12-01&g=2021-12-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-01&g=2021-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=56&z=2021-12-01&g=2021-12-01).
+4. De voorzitter van de veiligheidsregio draagt zorg voor de bestrijding van een epidemie van een infectieziekte behorend tot groep A, of een directe dreiging daarvan, en is dan ten behoeve van deze bestrijding bij uitsluiting bevoegd om toepassing te geven aan de [artikelen 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2021-12-04&g=2021-12-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-04&g=2021-12-04), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=56&z=2021-12-04&g=2021-12-04).
 
 5. Bij algemene maatregel van bestuur kunnen de taken, bedoeld in het eerste, tweede, derde en vierde lid, nader worden uitgewerkt.
 
 ##### Artikel 7
 
-1. In de situatie, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-01&g=2021-12-01).
+1. In de situatie, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-04&g=2021-12-04).
 
-2. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-01&g=2021-12-01).
+2. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-04&g=2021-12-04).
 
-3. Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-01&g=2021-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01), alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=22a), toe te passen.
+3. Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-04&g=2021-12-04), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04), alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=22a), toe te passen.
 
 4. Voordat toepassing wordt gegeven aan het eerste, tweede of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Infrastructuur en Milieu en de veiligheidsregio’s of gemeenten die het aangaat, worden betrokken.
 
@@ -237,7 +237,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 8
 
-1. Ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), past het bestuur van de veiligheidsregio de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van:
+1. Ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), past het bestuur van de veiligheidsregio de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van:
 
 - a. infectieziekten behorende tot groep A, of
 
@@ -249,11 +249,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 9
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), dient te vervullen.
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), dient te vervullen.
 
 ##### Artikel 10
 
-Onverminderd [artikel 7, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), kunnen bij regeling van Onze Minister regels worden gesteld betreffende de door de burgemeester te treffen maatregelen ter bestrijding van een epidemie van een infectieziekte behorend tot groep B1, B2 of C.
+Onverminderd [artikel 7, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), kunnen bij regeling van Onze Minister regels worden gesteld betreffende de door de burgemeester te treffen maatregelen ter bestrijding van een epidemie van een infectieziekte behorend tot groep B1, B2 of C.
 
 ##### Artikel 11
 
@@ -273,13 +273,13 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 2. De gemeenteraad stelt binnen twee jaar na openbaarmaking van de nota, bedoeld in het eerste lid, een nota gemeentelijk gezondheidsbeleid vast, waarin de raad in ieder geval aangeeft:
 
-- a. wat de gemeentelijke doelstellingen zijn ter uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2021-12-01&g=2021-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=5a&z=2021-12-01&g=2021-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01) genoemde taken,
+- a. wat de gemeentelijke doelstellingen zijn ter uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2021-12-04&g=2021-12-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-04&g=2021-12-04), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=5a&z=2021-12-04&g=2021-12-04) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04) genoemde taken,
 
 - b. welke acties in de bestreken periode worden ondernomen ter realisering van deze doelstellingen,
 
 - c. welke resultaten de gemeente in die periode wenst te behalen,
 
-- d. hoe het college van burgemeester en wethouders uitvoering geeft aan de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=16&z=2021-12-01&g=2021-12-01) genoemde verplichting.
+- d. hoe het college van burgemeester en wethouders uitvoering geeft aan de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=16&z=2021-12-04&g=2021-12-04) genoemde verplichting.
 
 3. De gemeenteraad neemt bij het vaststellen van de nota gemeentelijk gezondheidsbeleid in ieder geval de landelijke prioriteiten in acht, zoals opgenomen in de landelijke nota gezondheidsbeleid.
 
@@ -293,7 +293,7 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 3. De gemeentelijke gezondheidsdienst staat onder leiding van een directeur publieke gezondheid, die wordt benoemd door het algemeen bestuur van de gemeentelijke gezondheidsdienst in overeenstemming met het bestuur van de veiligheidsregio.
 
-4. Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in de [artikelen 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2021-12-01&g=2021-12-01), [5, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), en [artikel 6b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6b&z=2021-12-01&g=2021-12-01), over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.
+4. Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in de [artikelen 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2021-12-04&g=2021-12-04), [5, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-04&g=2021-12-04), en [artikel 6b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6b&z=2021-12-04&g=2021-12-04), over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.
 
 5. In afwijking van het eerste lid kan een regionale gezondheidsdienst worden ingesteld en in stand gehouden door de colleges van burgemeester en wethouders van de gemeenten in twee of meer regio’s als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466). In dat geval geschiedt de benoeming, bedoeld in het derde lid, in overeenstemming met de besturen van de betrokken veiligheidsregio’s, en draagt het algemeen bestuur van de gemeentelijke gezondheidsdienst ervoor zorg dat in elk der regio’s adequaat wordt voorzien in de operationele leiding van de geneeskundige hulpverlening, bedoeld in [artikel 32, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=32).
 
@@ -327,7 +327,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder gemeentelijke gezondhe
 
 ##### Artikel 18
 
-Voordat de burgemeester dan wel de voorzitter van de veiligheidsregio een maatregel als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-01&g=2021-12-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-01&g=2021-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) neemt of intrekt, vraagt deze om advies aan de gemeentelijke gezondheidsdienst.
+Voordat de burgemeester dan wel de voorzitter van de veiligheidsregio een maatregel als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-04&g=2021-12-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-04&g=2021-12-04), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) neemt of intrekt, vraagt deze om advies aan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 19
 
@@ -367,13 +367,13 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 ##### Artikel 23
 
-1. De arts doet de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01) bedoelde meldingen aan de gemeentelijke gezondheidsdienst van de gemeente waarin deze zijn praktijk heeft.
+1. De arts doet de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04) bedoelde meldingen aan de gemeentelijke gezondheidsdienst van de gemeente waarin deze zijn praktijk heeft.
 
-2. Indien de meldingen, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), betrekking hebben op een persoon die zijn verblijfplaats heeft in een andere gemeente, geeft de gemeentelijke gezondheidsdienst deze melding onverwijld door aan de gemeentelijke gezondheidsdienst van de verblijfplaats van de betrokkene.
+2. Indien de meldingen, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), betrekking hebben op een persoon die zijn verblijfplaats heeft in een andere gemeente, geeft de gemeentelijke gezondheidsdienst deze melding onverwijld door aan de gemeentelijke gezondheidsdienst van de verblijfplaats van de betrokkene.
 
 ##### Artikel 24
 
-1. De melding, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), bevat de volgende gegevens:
+1. De melding, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), bevat de volgende gegevens:
 
 - a. de naam, het adres, het geslacht, de geboortedatum, het burgerservicenummer en de verblijfplaats van de betrokken persoon,
 
@@ -381,23 +381,23 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 - c. indien nodig, of de betrokken persoon dan wel een persoon in zijn directe omgeving beroeps- of bedrijfsmatig betrokken is bij de behandeling van eet- of drinkwaren of bij de behandeling, verpleging of verzorging van andere personen.
 
-2. De melding, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), bevat de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
+2. De melding, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), bevat de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
 
-3. De melding, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), bevat de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen.
+3. De melding, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), bevat de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen.
 
 4. De arts verstrekt aan de gemeentelijke gezondheidsdienst uitsluitend andere medische gegevens over de betrokken persoon indien:
 
-- a. de burgemeester hierom verzoekt krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-01&g=2021-12-01), of
+- a. de burgemeester hierom verzoekt krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-04&g=2021-12-04), of
 
 - b. de betrokken persoon daarvoor toestemming geeft.
 
-5. Voor de beveiliging van de gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), worden bij regeling van Onze Minister regels gesteld.
+5. Voor de beveiliging van de gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), worden bij regeling van Onze Minister regels gesteld.
 
 ##### Artikel 25
 
 1. De arts die een onderzoek bij een laboratorium aanvraagt, stuurt de volgende gegevens mee: de naam, de geboortedatum en het burgerservicenummer van de betrokken persoon.
 
-2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01) meldt het hoofd van het laboratorium de vaststelling van een verwekker van een infectieziekte behorend tot groep A, B1, B2 of C aan de gemeentelijke gezondheidsdienst van de gemeente waarin de arts die het onderzoek bij het laboratorium heeft aangevraagd zijn praktijk heeft.
+2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04) meldt het hoofd van het laboratorium de vaststelling van een verwekker van een infectieziekte behorend tot groep A, B1, B2 of C aan de gemeentelijke gezondheidsdienst van de gemeente waarin de arts die het onderzoek bij het laboratorium heeft aangevraagd zijn praktijk heeft.
 
 3. De melding bevat de volgende gegevens: de naam van de arts, de naam, de geboortedatum en het burgerservicenummer van de betrokken persoon.
 
@@ -417,41 +417,41 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 ##### Artikel 27
 
-1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), onverwijld door aan de voorzitter van de veiligheidsregio en de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
+1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), onverwijld door aan de voorzitter van de veiligheidsregio en de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
 
-2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), onverwijld door aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
+2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), onverwijld door aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
 
-3. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), onverwijld door aan de burgemeester van de gemeente waarin het lijk zich bevindt.
+3. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), onverwijld door aan de burgemeester van de gemeente waarin het lijk zich bevindt.
 
-4. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de arts zijn praktijk heeft.
+4. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de arts zijn praktijk heeft.
 
-5. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
+5. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
 
-6. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-01&g=2021-12-01) binnen een redelijke termijn mee aan de burgemeester van de gemeente waarin de instelling is gelegen.
+6. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-04&g=2021-12-04) binnen een redelijke termijn mee aan de burgemeester van de gemeente waarin de instelling is gelegen.
 
-7. De gemeentelijke gezondheidsdienst verstrekt de burgemeester dan wel de voorzitter van de veiligheidsregio de gegevens, bedoeld in [artikel 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-01&g=2021-12-01), die deze nodig heeft voor de uitoefening van de hem bij deze wet toegekende bevoegdheden.
+7. De gemeentelijke gezondheidsdienst verstrekt de burgemeester dan wel de voorzitter van de veiligheidsregio de gegevens, bedoeld in [artikel 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-04&g=2021-12-04), die deze nodig heeft voor de uitoefening van de hem bij deze wet toegekende bevoegdheden.
 
 ##### Artikel 28
 
-1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), onverwijld door aan het RIVM.
+1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), onverwijld door aan het RIVM.
 
-2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), binnen 24 uur door aan het RIVM.
+2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), binnen 24 uur door aan het RIVM.
 
-3. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01) de volgende gegevens:
+3. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04) de volgende gegevens:
 
 - a. de infectieziekte dan wel een beschrijving van het ziektebeeld, de eerste ziektedag, de vaccinatietoestand, het gebruik van chemoprofylaxe, eventuele ziekenhuisopname, de vermoedelijke infectiebron, zonodig met inbegrip van de daaruit voortkomende gevallen, de datum van vermoeden of vaststelling van infectie,
 
 - b. het geslacht, de geboortemaand en het geboortejaar van de betrokken persoon, alsmede de eerste drie cijfers van de postcode van diens adres, en
 
-- c. de uitslag van het nader onderzoek, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-01&g=2021-12-01).
+- c. de uitslag van het nader onderzoek, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-04&g=2021-12-04).
 
-4. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
+4. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
 
-5. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen, alsmede de woonplaats van de arts die de melding heeft gedaan.
+5. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen, alsmede de woonplaats van de arts die de melding heeft gedaan.
 
 ##### Artikel 29
 
-1. De gemeentelijke gezondheidsdienst neemt de persoonsgegevens, die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-01&g=2021-12-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-01&g=2021-12-01), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-01&g=2021-12-01) zijn verkregen, op in een door hem gehouden registratie.
+1. De gemeentelijke gezondheidsdienst neemt de persoonsgegevens, die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-04&g=2021-12-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-04&g=2021-12-04), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-04&g=2021-12-04) zijn verkregen, op in een door hem gehouden registratie.
 
 2. De gemeentelijke gezondheidsdienst bewaart deze gegevens ten hoogste vijf jaar.
 
@@ -475,7 +475,7 @@ Op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio ver
 
 2. De burgemeester kan een persoon onverwijld ter isolatie in een ziekenhuis doen opnemen, indien:
 
-- a. ten aanzien van de betrokkene de melding ingevolge [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), heeft plaatsgevonden, of de betrokkene lijdt aan een infectieziekte behorend tot groep B1,
+- a. ten aanzien van de betrokkene de melding ingevolge [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), heeft plaatsgevonden, of de betrokkene lijdt aan een infectieziekte behorend tot groep B1,
 
 - b. ernstig gevaar voor de volksgezondheid bestaat door verspreiding van die infectieziekte,
 
@@ -501,15 +501,15 @@ Op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio ver
 
 1. De burgemeester dan wel de voorzitter van de veiligheidsregio doet de beschikking tot opneming ter isolatie aan de betrokkene uitreiken.
 
-2. In de beschikking geeft de burgemeester dan wel de voorzitter van de veiligheidsregio aan in welk ziekenhuis, aangewezen op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2021-12-01&g=2021-12-01), de opneming ter isolatie ten uitvoer wordt gelegd.
+2. In de beschikking geeft de burgemeester dan wel de voorzitter van de veiligheidsregio aan in welk ziekenhuis, aangewezen op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2021-12-04&g=2021-12-04), de opneming ter isolatie ten uitvoer wordt gelegd.
 
 3. Na uitreiking van de beschikking voorziet de burgemeester dan wel de voorzitter van de veiligheidsregio in bijstand van de betrokkene door een raadsman, tenzij de betrokkene daartegen bedenkingen heeft.
 
-4. Wanneer redelijkerwijs kan worden aangenomen dat het gevaar, bedoeld in [artikel 31, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), is geweken of op minder ingrijpende wijze kan worden afgewend, heft de burgemeester dan wel de voorzitter van de veiligheidsregio de opneming ter isolatie onverwijld op.
+4. Wanneer redelijkerwijs kan worden aangenomen dat het gevaar, bedoeld in [artikel 31, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), is geweken of op minder ingrijpende wijze kan worden afgewend, heft de burgemeester dan wel de voorzitter van de veiligheidsregio de opneming ter isolatie onverwijld op.
 
 ##### Artikel 33
 
-1. De voorzitter van de veiligheidsregio dan wel de burgemeester doet de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), aan de betrokkene uitreiken.
+1. De voorzitter van de veiligheidsregio dan wel de burgemeester doet de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), aan de betrokkene uitreiken.
 
 2. In zijn beschikking geeft de voorzitter van de veiligheidsregio dan wel de burgemeester aan waaruit het onderzoek bestaat, welke arts het onderzoek verricht en binnen welke termijn het onderzoek plaatsvindt.
 
@@ -539,7 +539,7 @@ Op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio ver
 
 4. De quarantaine en het medisch toezicht vinden plaats onder zodanige voorwaarden en omstandigheden en gedurende een zodanige periode als noodzakelijk is om het gevaar, bedoeld in het eerste lid, onder b, af te wenden. Zodra redelijkerwijs kan worden aangenomen dat dit gevaar is geweken of op minder ingrijpende wijze kan worden afgewend, heft de voorzitter van de veiligheidsregio de maatregel onverwijld op.
 
-5. [Artikel 31, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), zijn van overeenkomstige toepassing.
+5. [Artikel 31, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), zijn van overeenkomstige toepassing.
 
 ##### Artikel 36
 
@@ -557,7 +557,7 @@ Op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio ver
 
 ##### Artikel 37
 
-De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01) op aan de gemeentelijke gezondheidsdienst.
+De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04) op aan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 38
 
@@ -573,21 +573,21 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvo
 
 ##### Artikel 39
 
-1. De burgemeester dan wel de voorzitter van de veiligheidsregio stelt de officier van justitie terstond op de hoogte van de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) van de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), en van de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01).
+1. De burgemeester dan wel de voorzitter van de veiligheidsregio stelt de officier van justitie terstond op de hoogte van de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) van de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), en van de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04).
 
 2. Zo spoedig mogelijk nadat de beschikking is gegeven, maar in elk geval niet later dan de volgende dag, zendt de burgemeester dan wel de voorzitter van de veiligheidsregio de officier van justitie een afschrift van de beschikking.
 
-3. Ingeval van een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) en van een beschikking tot het onderzoek als bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), is de rechtbank van de plaats waar het aangewezen ziekenhuis is gelegen bevoegd. Ingeval van een beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), is de rechtbank van de verblijfplaats van betrokkene bevoegd.
+3. Ingeval van een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) en van een beschikking tot het onderzoek als bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), is de rechtbank van de plaats waar het aangewezen ziekenhuis is gelegen bevoegd. Ingeval van een beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), is de rechtbank van de verblijfplaats van betrokkene bevoegd.
 
 ##### Artikel 40
 
-1. Indien de officier van justitie van oordeel is dat aan de voorwaarden voor de opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), of de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), is voldaan, doet hij uiterlijk op de dag na de datum van ontvangst van de beschikking een verzoek tot een machtiging tot voortzetting van de isolatie, de quarantaine of tot het onderzoek.
+1. Indien de officier van justitie van oordeel is dat aan de voorwaarden voor de opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), of de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), is voldaan, doet hij uiterlijk op de dag na de datum van ontvangst van de beschikking een verzoek tot een machtiging tot voortzetting van de isolatie, de quarantaine of tot het onderzoek.
 
 2. De officier van justitie deelt aan de betrokkene, de burgemeester dan wel de voorzitter van de veiligheidsregio en in voorkomend geval het ziekenhuis, schriftelijk mede dat hij het verzoek heeft gedaan of dat hij heeft besloten om geen verzoek te doen.
 
 3. Het besluit geen verzoek te doen neemt de officier van justitie niet dan nadat hij het advies van de inspecteur-generaal van de inspectie heeft ingewonnen.
 
-4. Met het besluit geen verzoek te doen, vervalt de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), of de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), van rechtswege.
+4. Met het besluit geen verzoek te doen, vervalt de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) de beschikking tot het onderzoek, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), of de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), van rechtswege.
 
 ##### Artikel 41
 
@@ -607,19 +607,19 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvo
 
 1. De ter isolatie opgenomen persoon of de in quarantaine geplaatste persoon kan de rechter verzoeken de maatregel op te heffen.
 
-2. [Artikel 41, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-01&g=2021-12-01), is van overeenkomstige toepassing.
+2. [Artikel 41, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-04&g=2021-12-04), is van overeenkomstige toepassing.
 
-3. De rechter kan het verzoek zonder toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-01&g=2021-12-01) afwijzen, indien geen nieuwe feiten of omstandigheden worden aangevoerd.
+3. De rechter kan het verzoek zonder toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-04&g=2021-12-04) afwijzen, indien geen nieuwe feiten of omstandigheden worden aangevoerd.
 
 ##### Artikel 43
 
-1. Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) tot onderzoek als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01) is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2021-12-01&g=2021-12-01), doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester dan wel de voorzitter van de veiligheidsregio onrechtmatig was.
+1. Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) tot onderzoek als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04) is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2021-12-04&g=2021-12-04), doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester dan wel de voorzitter van de veiligheidsregio onrechtmatig was.
 
 2. Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282) van overeenkomstige toepassing.
 
 ##### Artikel 44
 
-1. Indien degene ten aanzien van wie een beschikking is genomen tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) tot onderzoek als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), nadeel heeft geleden doordat de rechter of de officier van justitie een van de bepalingen uit deze paragraaf niet in acht heeft genomen, kent de rechter deze op diens verzoek een naar billijkheid vast te stellen schadevergoeding toe ten laste van de Staat.
+1. Indien degene ten aanzien van wie een beschikking is genomen tot opneming ter isolatie als bedoeld in [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) tot onderzoek als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), nadeel heeft geleden doordat de rechter of de officier van justitie een van de bepalingen uit deze paragraaf niet in acht heeft genomen, kent de rechter deze op diens verzoek een naar billijkheid vast te stellen schadevergoeding toe ten laste van de Staat.
 
 2. Het verzoek kan worden ingediend als een zelfstandig verzoek bij het verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van betrokkene, dan wel bij een afzonderlijk verzoekschrift, binnen drie maanden te rekenen vanaf de dag waarop betrokkene redelijkerwijs bekend kon zijn met de schending van het voorschrift waarop zijn verzoek betrekking heeft.
 
@@ -627,11 +627,11 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvo
 
 ##### Artikel 45
 
-De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van toepassing op de termijnen gesteld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=39&z=2021-12-01&g=2021-12-01), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2021-12-01&g=2021-12-01), en [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-01&g=2021-12-01).
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van toepassing op de termijnen gesteld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=39&z=2021-12-04&g=2021-12-04), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2021-12-04&g=2021-12-04), en [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 46
 
-Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=42&z=2021-12-01&g=2021-12-01), of [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=43&z=2021-12-01&g=2021-12-01), wordt ingediend, dan wel een van de daartoe bevoegde personen beroep instelt, behoeft de indiening van het verzoekschrift niet bij procureur te geschieden.
+Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=42&z=2021-12-04&g=2021-12-04), of [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=43&z=2021-12-04&g=2021-12-04), wordt ingediend, dan wel een van de daartoe bevoegde personen beroep instelt, behoeft de indiening van het verzoekschrift niet bij procureur te geschieden.
 
 #### § 4. Rechterlijke toetsing maatregelen tot isolatie, medisch onderzoek en quarantaine
 
@@ -661,7 +661,7 @@ Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wette
 
 ##### Artikel 48
 
-1. Bij regeling van Onze Minister worden de havens en luchthavens aangewezen waarop de eisen van deze paragraaf van toepassing zijn. De havens of luchthavens kunnen per categorie worden aangewezen voor toepassing van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-01&g=2021-12-01).
+1. Bij regeling van Onze Minister worden de havens en luchthavens aangewezen waarop de eisen van deze paragraaf van toepassing zijn. De havens of luchthavens kunnen per categorie worden aangewezen voor toepassing van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-04&g=2021-12-04).
 
 2. Een burgerhaven of burgerluchthaven wordt aangewezen in overeenstemming met Onze Minister van Infrastructuur en Milieu.
 
@@ -689,19 +689,19 @@ Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wette
 
 ##### Artikel 51
 
-1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01) verstrekt de gezagvoerder van een schip dat een internationale reis maakt op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio bij aankomst in de burgerhaven de maritieme gezondheidsverklaring, bedoeld in artikel 37 van de Internationale Gezondheidsregeling.
+1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04) verstrekt de gezagvoerder van een schip dat een internationale reis maakt op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio bij aankomst in de burgerhaven de maritieme gezondheidsverklaring, bedoeld in artikel 37 van de Internationale Gezondheidsregeling.
 
-2. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01) verstrekt de gezagvoerder van een luchtvaartuig dat een internationale reis maakt op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio bij aankomst in de burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, het gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen, bedoeld in artikel 38 van de Internationale Gezondheidsregeling.
+2. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04) verstrekt de gezagvoerder van een luchtvaartuig dat een internationale reis maakt op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio bij aankomst in de burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, het gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen, bedoeld in artikel 38 van de Internationale Gezondheidsregeling.
 
 3. Indien de gezondheidsverklaring, bedoeld in het eerste of tweede lid, daartoe naar het oordeel van de burgemeester dan wel de voorzitter van de veiligheidsregio aanleiding geeft, verstrekt de gezagvoerder op verzoek van de burgemeester dan wel de voorzitter van de veiligheidsregio aanvullende gegevens over de gezondheidstoestand aan boord.
 
 ##### Artikel 52
 
-In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Infrastructuur en Milieu, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.
+In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Infrastructuur en Milieu, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.
 
 ##### Artikel 53
 
-1. In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, bepaalt de burgemeester welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
+1. In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, bepaalt de burgemeester welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
 
 2. In geval van een directe dreiging van een epidemie van een infectieziekte behorend tot groep A, kan de voorzitter van de veiligheidsregio ten aanzien van een schip of luchtvaartuig dat een internationale reis maakt, bepalen welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
 
@@ -739,7 +739,7 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio kan de vervoersexp
 
 ##### Artikel 56
 
-De burgemeester dan wel de voorzitter van de veiligheidsregio is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van hetgeen op grond van de [artikelen 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-01&g=2021-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) is opgedragen, indien de omstandigheden onmiddellijk ingrijpen noodzakelijk maken.
+De burgemeester dan wel de voorzitter van de veiligheidsregio is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van hetgeen op grond van de [artikelen 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-04&g=2021-12-04), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) is opgedragen, indien de omstandigheden onmiddellijk ingrijpen noodzakelijk maken.
 
 ##### Artikel 57
 
@@ -767,45 +767,45 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio is bevoegd tot het
 
 1. Indien de gemeenteraad een bijdrage heft voor het verrichten van werkzaamheden in het kader van de publieke gezondheidszorg, draagt het college van burgemeester en wethouders ervoor zorg dat dit niet ten koste gaat van het bereik van deze werkzaamheden.
 
-2. Geen bijdrage wordt geheven voor de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6b&z=2021-12-01&g=2021-12-01) opgedragen taken, behoudens in gevallen bij algemene maatregel van bestuur aangewezen.
+2. Geen bijdrage wordt geheven voor de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-04&g=2021-12-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6b&z=2021-12-04&g=2021-12-04) opgedragen taken, behoudens in gevallen bij algemene maatregel van bestuur aangewezen.
 
 ##### Artikel 60
 
-1. De gemeente draagt de kosten van de maatregelen die krachtens [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-01&g=2021-12-01) van deze wet worden genomen. Ook draagt de gemeente de kosten van door haar toegekende tegemoetkomingen aan hen, die inkomsten derven door de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-01&g=2021-12-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01).
+1. De gemeente draagt de kosten van de maatregelen die krachtens [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2021-12-04&g=2021-12-04) van deze wet worden genomen. Ook draagt de gemeente de kosten van door haar toegekende tegemoetkomingen aan hen, die inkomsten derven door de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-04&g=2021-12-04) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04).
 
-2. In afwijking van de eerste volzin van het eerste lid draagt het Rijk de kosten van de maatregel, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), indien deze wordt toegepast bij een persoon lijdend aan tuberculose.
+2. In afwijking van de eerste volzin van het eerste lid draagt het Rijk de kosten van de maatregel, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), indien deze wordt toegepast bij een persoon lijdend aan tuberculose.
 
 3. In afwijking van het eerste lid draagt:
 
-- a. de exploitant van een burgerhaven of burgerluchthaven en de burgerexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) zijn opgedragen,
+- a. de exploitant van een burgerhaven of burgerluchthaven en de burgerexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) zijn opgedragen,
 
-- b. de vervoersexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) zijn opgedragen.
+- b. de vervoersexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) zijn opgedragen.
 
-4. De in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), bedoelde waren worden voor vernietiging door de burgemeester gewaardeerd. Het college van burgemeester en wethouders keert aan de eigenaar als schadeloosstelling het bedrag uit waarop de goederen zijn gewaardeerd.
+4. De in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), bedoelde waren worden voor vernietiging door de burgemeester gewaardeerd. Het college van burgemeester en wethouders keert aan de eigenaar als schadeloosstelling het bedrag uit waarop de goederen zijn gewaardeerd.
 
-5. Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-01&g=2021-12-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), te verhalen op de natuurlijke- of rechtspersoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5.26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) zijn van overeenkomstige toepassing.
+5. Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-04&g=2021-12-04) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), te verhalen op de natuurlijke- of rechtspersoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5.26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) zijn van overeenkomstige toepassing.
 
-6. Onze Minister is bevoegd de kosten verbonden aan de maatregelen, bedoeld in [artikel 47a, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-01&g=2021-12-01), te verhalen op de natuurlijke- of rechtspersoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. [Artikel 5.25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) is van overeenkomstige toepassing.
+6. Onze Minister is bevoegd de kosten verbonden aan de maatregelen, bedoeld in [artikel 47a, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-04&g=2021-12-04), te verhalen op de natuurlijke- of rechtspersoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. [Artikel 5.25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) is van overeenkomstige toepassing.
 
-7. Onze Minister kan aan de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant een naar billijkheid te bepalen vergoeding toekennen terzake van buitengewone kosten die door de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant worden gemaakt vanwege de naleving van de maatregelen die krachtens de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) in samenhang met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), zijn opgedragen.
+7. Onze Minister kan aan de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant een naar billijkheid te bepalen vergoeding toekennen terzake van buitengewone kosten die door de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant worden gemaakt vanwege de naleving van de maatregelen die krachtens de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) in samenhang met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), zijn opgedragen.
 
 ##### Artikel 61
 
-De kosten verband houdende met het voorzieningenniveau, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-01&g=2021-12-01), komen, voor zover het een burgerhaven of burgerluchthaven betreft, ten laste van de exploitant.
+De kosten verband houdende met het voorzieningenniveau, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-04&g=2021-12-04), komen, voor zover het een burgerhaven of burgerluchthaven betreft, ten laste van de exploitant.
 
 ##### Artikel 62
 
-1. Indien Onze Minister op grond van [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), de voorzitter van de veiligheidsregio dan wel de burgemeester opdraagt maatregelen te treffen, kan ten behoeve van de bekostiging daarvan een beroep worden gedaan op het Rijk.
+1. Indien Onze Minister op grond van [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), de voorzitter van de veiligheidsregio dan wel de burgemeester opdraagt maatregelen te treffen, kan ten behoeve van de bekostiging daarvan een beroep worden gedaan op het Rijk.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld over het bepaalde in het eerste lid.
 
 ##### Artikel 63
 
-1. De kosten ter verkrijging van een certificaat als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2021-12-01&g=2021-12-01), komen ten laste van de gezagvoerder van het desbetreffende schip.
+1. De kosten ter verkrijging van een certificaat als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2021-12-04&g=2021-12-04), komen ten laste van de gezagvoerder van het desbetreffende schip.
 
-2. Behoudens in bij regeling van Onze Minister te bepalen gevallen komen de kosten van inenting van personen of de toediening van profylaxe aan personen ter verkrijging van een certificaat als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-01&g=2021-12-01), ten laste van de belanghebbende.
+2. Behoudens in bij regeling van Onze Minister te bepalen gevallen komen de kosten van inenting van personen of de toediening van profylaxe aan personen ter verkrijging van een certificaat als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-04&g=2021-12-04), ten laste van de belanghebbende.
 
-3. Bij regeling van Onze Minister worden de tarieven vastgesteld voor het verkrijgen van de certificaten, bedoeld in de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2021-12-01&g=2021-12-01), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-01&g=2021-12-01).
+3. Bij regeling van Onze Minister worden de tarieven vastgesteld voor het verkrijgen van de certificaten, bedoeld in de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2021-12-04&g=2021-12-04), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-04&g=2021-12-04).
 
 ### Hoofdstuk VII. Handhaving
 
@@ -819,47 +819,47 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 1. In het geval van een besmetting of infectie of bij een gegrond vermoeden daarvan, zijn binnen hun ambtsgebied de burgemeester dan wel de voorzitter van de veiligheidsregio, de daartoe door de burgemeester dan wel de voorzitter van de veiligheidsregio aangewezen ambtenaren van de gemeentelijke gezondheidsdienst en de daartoe aangewezen ambtenaren van de inspectie bevoegd, desgevraagd na het tonen van een legitimatiebewijs, elke plaats te betreden of te verlaten, voor zover dat redelijkerwijs voor de vervulling van hun taak op grond van deze wet nodig is. Zonodig verschaffen zij zich toegang met behulp van de sterke arm.
 
-2. Ten behoeve van de uitvoering van [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-01&g=2021-12-01) zijn de daartoe aangewezen ambtenaren van de Nederlandse Voedsel- en Warenautoriteit bevoegd, desgevraagd na het tonen van een legitimatiebewijs, elke plaats te betreden of te verlaten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
+2. Ten behoeve van de uitvoering van [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-04&g=2021-12-04) zijn de daartoe aangewezen ambtenaren van de Nederlandse Voedsel- en Warenautoriteit bevoegd, desgevraagd na het tonen van een legitimatiebewijs, elke plaats te betreden of te verlaten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
 
 #### § 1. Toezicht
 
 ##### Artikel 66
 
-1. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de arts die handelt in strijd met de [artikelen 21, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-01&g=2021-12-01), [22, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-01&g=2021-12-01), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-01&g=2021-12-01), of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-01&g=2021-12-01).
+1. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de arts die handelt in strijd met de [artikelen 21, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2021-12-04&g=2021-12-04), [22, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2021-12-04&g=2021-12-04), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2021-12-04&g=2021-12-04), of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2021-12-04&g=2021-12-04).
 
-2. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een laboratorium dat handelt in strijd met [artikel 25, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-01&g=2021-12-01).
+2. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een laboratorium dat handelt in strijd met [artikel 25, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2021-12-04&g=2021-12-04).
 
-3. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een instelling die handelt in strijd met [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-01&g=2021-12-01).
+3. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een instelling die handelt in strijd met [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2021-12-04&g=2021-12-04).
 
-4. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 50, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01), of die weigert te voldoen aan een verzoek als bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-01&g=2021-12-01) en [53, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-01&g=2021-12-01).
+4. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 50, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04), of die weigert te voldoen aan een verzoek als bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2021-12-04&g=2021-12-04) en [53, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-04&g=2021-12-04).
 
-5. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-01&g=2021-12-01).
+5. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2021-12-04&g=2021-12-04).
 
-6. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-01&g=2021-12-01).
+6. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2021-12-04&g=2021-12-04).
 
 7. De in het eerste tot en met zesde lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 67
 
-1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die zich onttrekt aan de krachtens de in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-01&g=2021-12-01), of [47, tweede of derde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), ten aanzien van hem genomen maatregelen, dan wel de in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-01&g=2021-12-01), bedoelde waren onttrekt aan een krachtens dat lid genomen maatregel.
+1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die zich onttrekt aan de krachtens de in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2021-12-04&g=2021-12-04), of [47, tweede of derde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), ten aanzien van hem genomen maatregelen, dan wel de in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2021-12-04&g=2021-12-04), bedoelde waren onttrekt aan een krachtens dat lid genomen maatregel.
 
 2. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft het onbevoegd betreden van een voor isolatie of quarantaine aangewezen locatie.
 
-3. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-01&g=2021-12-01), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) gegeven opdracht.
+3. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-04&g=2021-12-04), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) gegeven opdracht.
 
-4. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de burgerexploitant die handelt in strijd met [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-01&g=2021-12-01), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-01&g=2021-12-01) gegeven opdracht.
+4. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de burgerexploitant die handelt in strijd met [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2021-12-04&g=2021-12-04), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2021-12-04&g=2021-12-04) gegeven opdracht.
 
-5. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de vervoersexploitant die handelt in strijd met een krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-01&g=2021-12-01) gegeven opdracht.
+5. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de vervoersexploitant die handelt in strijd met een krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2021-12-04&g=2021-12-04) gegeven opdracht.
 
 6. De in het eerste tot en met vijfde lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 68
 
-1. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met opdrachten die krachtens [artikel 53, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-01&g=2021-12-01), zijn gegeven.
+1. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met opdrachten die krachtens [artikel 53, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-04&g=2021-12-04), zijn gegeven.
 
-2. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 53, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-01&g=2021-12-01).
+2. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 53, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2021-12-04&g=2021-12-04).
 
-3. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die zich onttrekt aan een op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-01&g=2021-12-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01) ten aanzien van hem genomen maatregel.
+3. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die zich onttrekt aan een op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2021-12-04&g=2021-12-04) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04) ten aanzien van hem genomen maatregel.
 
 4. De in het eerste, tweede en derde lid strafbaar gestelde feiten zijn misdrijven.
 
@@ -947,7 +947,7 @@ Tenzij in dit hoofdstuk anders is bepaald, is het bepaalde bij of krachtens deze
 
 - d. **«burgemeester» en «voorzitter van de veiligheidsregio»:** gezaghebber;
 
-- e. **«gemeentelijke gezondheidsdienst»:** de in [artikel 68c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68c&z=2021-12-01&g=2021-12-01), bedoelde geneeskundige;
+- e. **«gemeentelijke gezondheidsdienst»:** de in [artikel 68c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68c&z=2021-12-04&g=2021-12-04), bedoelde geneeskundige;
 
 - f. **«nota gemeentelijk gezondheidsbeleid»:** nota gezondheidsbeleid;
 
@@ -959,7 +959,7 @@ Tenzij in dit hoofdstuk anders is bepaald, is het bepaalde bij of krachtens deze
 
 - j. **«waar»:** waar alsmede eet- en drinkwaar als bedoeld in [artikel 1, onderdelen b en c, van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=1);
 
-- k. **«last onder bestuursdwang»:** bestuursdwang als bedoeld in [artikel 68j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-01&g=2021-12-01);
+- k. **«last onder bestuursdwang»:** bestuursdwang als bedoeld in [artikel 68j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-04&g=2021-12-04);
 
 - l. **«burgerservicenummer»:** het nummer van een geldig identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2);
 
@@ -971,7 +971,7 @@ Tenzij in dit hoofdstuk anders is bepaald, is het bepaalde bij of krachtens deze
 
 ##### Artikel 68b
 
-De [artikelen 5, derde lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6a&z=2021-12-01&g=2021-12-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=8&z=2021-12-01&g=2021-12-01), [14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=14&z=2021-12-01&g=2021-12-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-01&g=2021-12-01), [58r, derde lid, tweede en derde zin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58r&z=2021-12-01&g=2021-12-01), alsmede [64](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=1&artikel=64&z=2021-12-01&g=2021-12-01) zijn niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=1&artikel=65&z=2021-12-01&g=2021-12-01) is wat betreft de ambtenaren van de inspectie niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+De [artikelen 5, derde lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-04&g=2021-12-04), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6a&z=2021-12-04&g=2021-12-04), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=8&z=2021-12-04&g=2021-12-04), [14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=14&z=2021-12-04&g=2021-12-04), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-04&g=2021-12-04), [58r, derde lid, tweede en derde zin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58r&z=2021-12-04&g=2021-12-04), alsmede [64](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=1&artikel=64&z=2021-12-04&g=2021-12-04) zijn niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=1&artikel=65&z=2021-12-04&g=2021-12-04) is wat betreft de ambtenaren van de inspectie niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 68c
 
@@ -993,7 +993,7 @@ Vervallen
 
 1. Onze Minister kan, in overeenstemming met Onze Minister van Veiligheid en Justitie, een laboratorium aanwijzen voor het verrichten van onderzoek ten behoeve van de publieke gezondheid en justitie in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. De volgende instanties kunnen een beroep doen op de organisatie, bedoeld in het eerste lid: de geneeskundige, bedoeld in [artikel 68c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68c&z=2021-12-01&g=2021-12-01), de inspectie, het RIVM en het openbaar ministerie van Bonaire, Sint Eustatius en Saba.
+2. De volgende instanties kunnen een beroep doen op de organisatie, bedoeld in het eerste lid: de geneeskundige, bedoeld in [artikel 68c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68c&z=2021-12-04&g=2021-12-04), de inspectie, het RIVM en het openbaar ministerie van Bonaire, Sint Eustatius en Saba.
 
 3. De aanwijzing wordt ingetrokken, indien de organisatie naar het gezamenlijk oordeel van Onze Minister en de Minister van Veiligheid en Justitie niet meer in staat blijkt te zijn het laboratoriumonderzoek naar behoren te vervullen dan wel een publiek belang dit vereist.
 
@@ -1019,7 +1019,7 @@ Bij regeling van Onze Minister kan aan de openbare lichamen Bonaire, Sint Eustat
 
 ##### Artikel 68i
 
-Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eustatius en Saba op grond van deze wet zijn de [artikelen 68j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-01&g=2021-12-01) en [68k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68k&z=2021-12-01&g=2021-12-01) van toepassing.
+Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eustatius en Saba op grond van deze wet zijn de [artikelen 68j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-04&g=2021-12-04) en [68k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68k&z=2021-12-04&g=2021-12-04) van toepassing.
 
 ##### Artikel 68j
 
@@ -1041,7 +1041,7 @@ Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eusta
 
 3. Indien de kosten echter geheel of gedeeltelijk niet ten laste van de overtreder zullen worden gebracht, wordt dat in de beschikking vermeld.
 
-4. Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in [artikel 68j, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-01&g=2021-12-01), is verstreken.
+4. Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in [artikel 68j, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68j&z=2021-12-04&g=2021-12-04), is verstreken.
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.
 
@@ -1057,13 +1057,13 @@ Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eusta
 
 ##### Artikel 68l
 
-1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die in strijd handelt met [artikel 68e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68e&z=2021-12-01&g=2021-12-01), of die het in artikel 68e, tweede lid, bedoelde lijk onttrekt aan een krachtens dat artikel genomen maatregel.
+1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die in strijd handelt met [artikel 68e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68e&z=2021-12-04&g=2021-12-04), of die het in artikel 68e, tweede lid, bedoelde lijk onttrekt aan een krachtens dat artikel genomen maatregel.
 
-2. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die verwijtbaar de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-01&g=2021-12-01), schendt.
+2. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die verwijtbaar de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-04&g=2021-12-04), schendt.
 
-3. Met een gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-01&g=2021-12-01), schendt.
+3. Met een gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-04&g=2021-12-04), schendt.
 
-4. Geen vervolging wordt ingesteld anders dan op verzoek van degene te wiens aanzien de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-01&g=2021-12-01), is geschonden.
+4. Geen vervolging wordt ingesteld anders dan op verzoek van degene te wiens aanzien de geheimhoudingsplicht, bedoeld in [artikel 68f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68f&z=2021-12-04&g=2021-12-04), is geschonden.
 
 5. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen. Het in het derde lid strafbaar gestelde feit is een misdrijf.
 
@@ -1141,9 +1141,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6a
 
-1. Voor bij algemene maatregel van bestuur aangewezen vectoren draagt Onze Minister, in afwijking van [artikel 6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), zorg voor maatregelen ter preventie van vestiging van dergelijke vectoren, waaronder het nemen van bestrijdingsmaatregelen.
+1. Voor bij algemene maatregel van bestuur aangewezen vectoren draagt Onze Minister, in afwijking van [artikel 6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), zorg voor maatregelen ter preventie van vestiging van dergelijke vectoren, waaronder het nemen van bestrijdingsmaatregelen.
 
-2. In gevallen waarin een spoedige voorziening krachtens [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-01&g=2021-12-01) in het belang van de volksgezondheid zo dringend geboden is dat de totstandkoming van een algemene maatregel van bestuur als bedoeld in het eerste lid niet kan worden afgewacht, kan bij regeling van Onze Minister een vector als bedoeld in het eerste lid worden aangewezen.
+2. In gevallen waarin een spoedige voorziening krachtens [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47a&z=2021-12-04&g=2021-12-04) in het belang van de volksgezondheid zo dringend geboden is dat de totstandkoming van een algemene maatregel van bestuur als bedoeld in het eerste lid niet kan worden afgewacht, kan bij regeling van Onze Minister een vector als bedoeld in het eerste lid worden aangewezen.
 
 3. De regeling, bedoeld in het tweede lid, vervalt zes maanden nadat zij in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop de maatregel in werking treedt.
 
@@ -1153,7 +1153,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onze Minister draagt via het RIVM zorg voor de regie op en de coördinatie van de uitvoering, alsmede de registratie, bewaking en evaluatie van het vaccinatieprogramma.
 
-3. Het college van burgemeester en wethouders draagt mede zorg voor het deel van het vaccinatieprogramma dat daartoe bij algemene maatregel van bestuur is aangewezen. Het college draagt ervoor zorg dat deze wordt uitgevoerd door de organisatie, of onder verantwoordelijkheid van die organisatie, die voor het college de jeugdgezondheidszorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-01&g=2021-12-01), uitvoert.
+3. Het college van burgemeester en wethouders draagt mede zorg voor het deel van het vaccinatieprogramma dat daartoe bij algemene maatregel van bestuur is aangewezen. Het college draagt ervoor zorg dat deze wordt uitgevoerd door de organisatie, of onder verantwoordelijkheid van die organisatie, die voor het college de jeugdgezondheidszorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2021-12-04&g=2021-12-04), uitvoert.
 
 4. Het college van burgemeester en wethouders past bij de uitvoering van het vaccinatieprogramma de vaccins toe die door of vanwege het RIVM worden verstrekt. De vaccins blijven eigendom van het RIVM tot het moment van toediening.
 
@@ -1185,7 +1185,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 47a
 
-1. Ter uitvoering van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6a&z=2021-12-01&g=2021-12-01) is Onze Minister bij uitsluiting van de burgemeester bevoegd de volgende maatregelen te nemen:
+1. Ter uitvoering van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6a&z=2021-12-04&g=2021-12-04) is Onze Minister bij uitsluiting van de burgemeester bevoegd de volgende maatregelen te nemen:
 
 - a. het controleren van terreinen, gebouwen, vervoermiddelen of goederen op de aanwezigheid van een vector, zo nodig door het nemen van monsters, indien er een aannemelijk risico is op de aanwezigheid van een dergelijke vector,
 
@@ -1247,7 +1247,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6d
 
-1. In het kader van de taak van Onze Minister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=3&z=2021-12-01&g=2021-12-01) en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), en voorts ter ondersteuning van de bron- en contactopsporing, bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-01&g=2021-12-01), ter bestrijding van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2 kan een notificatieapplicatie worden ingezet waarmee vroegtijdig zicht kan worden verkregen op een mogelijke infectie met dat virus door bij te houden welke gebruikers in elkaars nabijheid zijn geweest en hen in voorkomende gevallen te waarschuwen over een mogelijke infectie met het virus. Voor zover noodzakelijk kunnen Onze Minister en de gemeentelijke gezondheidsdiensten bij het beheer en de toepassing van deze notificatieapplicatie persoonsgegevens verwerken, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming.
+1. In het kader van de taak van Onze Minister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=3&z=2021-12-04&g=2021-12-04) en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), en voorts ter ondersteuning van de bron- en contactopsporing, bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6&z=2021-12-04&g=2021-12-04), ter bestrijding van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2 kan een notificatieapplicatie worden ingezet waarmee vroegtijdig zicht kan worden verkregen op een mogelijke infectie met dat virus door bij te houden welke gebruikers in elkaars nabijheid zijn geweest en hen in voorkomende gevallen te waarschuwen over een mogelijke infectie met het virus. Voor zover noodzakelijk kunnen Onze Minister en de gemeentelijke gezondheidsdiensten bij het beheer en de toepassing van deze notificatieapplicatie persoonsgegevens verwerken, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming.
 
 2. In het kader van de notificatieapplicatie worden uitsluitend de volgende gegevens verwerkt:
 
@@ -1321,11 +1321,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 64bis
 
-1. Met het toezicht op de naleving van [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-01&g=2021-12-01), zijn voorts belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+1. Met het toezicht op de naleving van [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-04&g=2021-12-04), zijn voorts belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
 
-2. De ambtenaren belast met het toezicht op de naleving van [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-01&g=2021-12-01), verstrekken elkaar uit eigen beweging en desgevraagd de gegevens, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming, die van belang zijn voor de uitoefening van hun toezichthoudende taak.
+2. De ambtenaren belast met het toezicht op de naleving van [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-04&g=2021-12-04), verstrekken elkaar uit eigen beweging en desgevraagd de gegevens, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming, die van belang zijn voor de uitoefening van hun toezichthoudende taak.
 
-3. Met de opsporing van het in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=2&artikel=67a&z=2021-12-01&g=2021-12-01) strafbaar gestelde feit zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister of van Onze Minister van Justitie en Veiligheid, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+3. Met de opsporing van het in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=2&artikel=67a&z=2021-12-04&g=2021-12-04) strafbaar gestelde feit zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister of van Onze Minister van Justitie en Veiligheid, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
 
 4. De ambtenaren bedoeld in het tweede lid zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) dan wel de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -1335,7 +1335,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 67a
 
-1. Met een hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie wordt gestraft degene die handelt in strijd met [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-01&g=2021-12-01).
+1. Met een hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie wordt gestraft degene die handelt in strijd met [artikel 6d, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6d&z=2021-12-04&g=2021-12-04).
 
 2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 
@@ -1369,6 +1369,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - **mantelzorger:** een natuurlijke persoon die rechtstreeks voortvloeiend uit een tussen personen bestaande sociale relatie zorg of hulp verleent zonder dat dit beroeps- of bedrijfsmatig geschiedt;
 
+- **niet-essentiële detailhandel:** het hoofdzakelijk verstrekken aan afnemers van producten die niet zijn gericht op de eerste levensbehoeften;
+
+- **niet-essentiële dienstverlening:** het hoofdzakelijk verstrekken aan afnemers van diensten die niet zijn gericht op de eerste levensbehoeften;
+
 - **onderwijsinstelling:** een school, instelling of exameninstelling in de zin van een onderwijswet als bedoeld in [artikel 1, onder d, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1), daaronder begrepen een niet bekostigde instelling;
 
 - **Onze Ministers:** Onze Minister, Onze Minister van Justitie en Veiligheid en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gezamenlijk;
@@ -1389,9 +1393,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - **testuitslag:** testuitslag waaruit blijkt of de geteste persoon op het moment van afname van de test was geïnfecteerd met het virus SARS-CoV-2;
 
-- **thuisquarantaine:** de krachtens [artikel 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01) of [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-01&g=2021-12-01) geldende verplichting voor een reiziger om op een bepaalde locatie te verblijven in verband met de bestrijding van de epidemie;
+- **thuisquarantaine:** de krachtens [artikel 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04) of [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-04&g=2021-12-04) geldende verplichting voor een reiziger om op een bepaalde locatie te verblijven in verband met de bestrijding van de epidemie;
 
-- **veilige afstand:** de afstand, bedoeld in [artikel 58f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01);
+- **veilige afstand:** de afstand, bedoeld in [artikel 58f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04);
 
 - **zorgaanbieder:** een zorgaanbieder als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), of als bedoeld in [artikel 1, onder j, van de Wet zorginstellingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&artikel=1), jeugdhulpaanbieder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), aanbieder van jeugdzorg als bedoeld in [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a) of aanbieder als bedoeld in [artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
@@ -1431,11 +1435,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. [Artikel 1 van de Tijdelijke wet COVID-19 Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043413&artikel=1) is niet van toepassing.
 
-6. Indien naar het oordeel van Onze Ministers en Onze Minister die het mede aangaat een krachtens dit hoofdstuk vastgestelde ministeriële regeling of een onderdeel daarvan niet langer noodzakelijk is voor het in [artikel 58b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-01&g=2021-12-01), genoemde doel, wordt die regeling daartoe zo spoedig mogelijk gewijzigd of ingetrokken.
+6. Indien naar het oordeel van Onze Ministers en Onze Minister die het mede aangaat een krachtens dit hoofdstuk vastgestelde ministeriële regeling of een onderdeel daarvan niet langer noodzakelijk is voor het in [artikel 58b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-04&g=2021-12-04), genoemde doel, wordt die regeling daartoe zo spoedig mogelijk gewijzigd of ingetrokken.
 
 ##### Artikel 58ca. Vangnet BES
 
-Indien zich in het openbare lichaam Bonaire, Sint Eustatius of Saba een omstandigheid voordoet waarin een krachtens dit hoofdstuk vast te stellen ministeriële regeling niet zodanig tijdig tot stand kan komen als ter bestrijding van de epidemie noodzakelijk is, kan Onze Minister ter uitvoering van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), de gezaghebber opdragen toepassing te geven aan de hem in [artikel 179 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=179) toegekende bevoegdheid om algemeen verbindende voorschriften vast te stellen ter bestrijding van de epidemie. Binnen twee weken na de vaststelling van die opdracht wordt een ministeriële regeling vastgesteld tot regeling van de in die voorschriften genoemde onderwerpen. Onze Minister zendt de regeling binnen twee dagen na vaststelling aan beide Kamers van de Staten-Generaal.
+Indien zich in het openbare lichaam Bonaire, Sint Eustatius of Saba een omstandigheid voordoet waarin een krachtens dit hoofdstuk vast te stellen ministeriële regeling niet zodanig tijdig tot stand kan komen als ter bestrijding van de epidemie noodzakelijk is, kan Onze Minister ter uitvoering van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), de gezaghebber opdragen toepassing te geven aan de hem in [artikel 179 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=179) toegekende bevoegdheid om algemeen verbindende voorschriften vast te stellen ter bestrijding van de epidemie. Binnen twee weken na de vaststelling van die opdracht wordt een ministeriële regeling vastgesteld tot regeling van de in die voorschriften genoemde onderwerpen. Onze Minister zendt de regeling binnen twee dagen na vaststelling aan beide Kamers van de Staten-Generaal.
 
 ##### Artikel 58d. Bevoegdheid voorzitter van de veiligheidsregio
 
@@ -1455,7 +1459,7 @@ Indien zich in het openbare lichaam Bonaire, Sint Eustatius of Saba een omstandi
 
 - a. binnen en tussen gemeenten en met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. tussen personen, op basis van leeftijd of, indien het een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-01&g=2021-12-01) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01) vast te stellen ministeriële regeling betreft, op basis van een resultaat;
+- b. tussen personen, op basis van leeftijd of, indien het een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-04&g=2021-12-04) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04) vast te stellen ministeriële regeling betreft, op basis van een resultaat;
 
 - c. tussen activiteiten;
 
@@ -1463,9 +1467,9 @@ Indien zich in het openbare lichaam Bonaire, Sint Eustatius of Saba een omstandi
 
 2. De burgemeester kan met het oog op bijzondere omstandigheden ontheffing verlenen van:
 
-- a. het bepaalde bij of krachtens [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-01&g=2021-12-01), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-01&g=2021-12-01), of [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-01&g=2021-12-01);
+- a. het bepaalde bij of krachtens [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-04&g=2021-12-04), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-04&g=2021-12-04), of [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-04&g=2021-12-04);
 
-- b. de krachtens [artikel 58j, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-01&g=2021-12-01), gestelde regels, indien dat in die regels is bepaald.
+- b. de krachtens [artikel 58j, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-04&g=2021-12-04), gestelde regels, indien dat in die regels is bepaald.
 
 Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
@@ -1475,7 +1479,7 @@ Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
 - a. de aard van de plaats, de aard van de activiteit en het aantal personen waarop de te verlenen ontheffing betrekking heeft;
 
-- b. de gevolgen die verlening van de ontheffing zou hebben voor de naleving van het bepaalde in [artikel 58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), of van de krachtens artikel 58f, vierde of vijfde lid, vastgestelde regels, in en buiten de plaats waarop de te verlenen ontheffing betrekking heeft.
+- b. de gevolgen die verlening van de ontheffing zou hebben voor de naleving van het bepaalde in [artikel 58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), of van de krachtens artikel 58f, vierde of vijfde lid, vastgestelde regels, in en buiten de plaats waarop de te verlenen ontheffing betrekking heeft.
 
 5. In een krachtens dit hoofdstuk vast te stellen ministeriële regeling kan aan de burgemeester de bevoegdheid worden toegekend om de plaatsen aan te wijzen waar de in die regeling gestelde regels van toepassing zijn. Aan de uitoefening van de bevoegdheid kunnen in die ministeriële regeling voorwaarden en beperkingen worden verbonden.
 
@@ -1499,7 +1503,7 @@ Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
 5. Bij ministeriële regeling kan vrijstelling worden verleend van het eerste lid. Aan een vrijstelling kunnen voorschriften en beperkingen worden verbonden.
 
-6. Indien naar het oordeel van Onze Ministers gelet op het in [artikel 58b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-01&g=2021-12-01), genoemde doel de veilige afstand kan worden verkleind of op nihil kan worden gesteld, wordt zo spoedig mogelijk een voordracht gedaan voor een daartoe vast te stellen algemene maatregel van bestuur.
+6. Indien naar het oordeel van Onze Ministers gelet op het in [artikel 58b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-04&g=2021-12-04), genoemde doel de veilige afstand kan worden verkleind of op nihil kan worden gesteld, wordt zo spoedig mogelijk een voordracht gedaan voor een daartoe vast te stellen algemene maatregel van bestuur.
 
 ##### Artikel 58g. Groepsvorming
 
@@ -1507,9 +1511,9 @@ Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. de personen, bedoeld in [artikel 58f, derde lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), voor zover zij zich onderling ophouden;
+- a. de personen, bedoeld in [artikel 58f, derde lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), voor zover zij zich onderling ophouden;
 
-- b. een persoon als bedoeld in [artikel 58f, derde lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01);
+- b. een persoon als bedoeld in [artikel 58f, derde lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04);
 
 - c. een persoon die in gemeenschap met anderen zijn godsdienst of levensovertuiging belijdt;
 
@@ -1561,21 +1565,21 @@ Bij ministeriële regeling kunnen evenementen worden aangewezen die niet of slec
 
 ##### Artikel 58k. Zorgplicht publieke plaatsen
 
-1. Degene die bevoegd is tot het aan een publieke plaats treffen van voorzieningen of tot het openstellen van een publieke plaats voor publiek, draagt ten aanzien van die publieke plaats zorg voor zodanige voorzieningen of openstelling dat de daar aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) gestelde regels in acht kunnen nemen.
+1. Degene die bevoegd is tot het aan een publieke plaats treffen van voorzieningen of tot het openstellen van een publieke plaats voor publiek, draagt ten aanzien van die publieke plaats zorg voor zodanige voorzieningen of openstelling dat de daar aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) gestelde regels in acht kunnen nemen.
 
-2. Indien de burgemeester van oordeel is dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) niet in acht kunnen nemen, kan hij een schriftelijke aanwijzing geven aan degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het openstellen van die plaats voor publiek.
+2. Indien de burgemeester van oordeel is dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) niet in acht kunnen nemen, kan hij een schriftelijke aanwijzing geven aan degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het openstellen van die plaats voor publiek.
 
-3. In de aanwijzing geeft de burgemeester met redenen omkleed aan op welke punten de aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) gestelde regels niet in acht kunnen nemen, alsmede de in verband daarmee te nemen maatregelen. Een aanwijzing bevat de termijn waarbinnen degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het openstellen van die plaats voor publiek, de maatregelen treft.
+3. In de aanwijzing geeft de burgemeester met redenen omkleed aan op welke punten de aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) gestelde regels niet in acht kunnen nemen, alsmede de in verband daarmee te nemen maatregelen. Een aanwijzing bevat de termijn waarbinnen degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het openstellen van die plaats voor publiek, de maatregelen treft.
 
 4. In een spoedeisende situatie kan de burgemeester een bevel geven. Indien het bevel mondeling wordt gegeven, wordt het zo spoedig mogelijk op schrift gesteld en bekendgemaakt.
 
 ##### Artikel 58l. Zorgplicht besloten plaatsen
 
-1. Degene die bevoegd is tot het aan een besloten plaats, niet zijnde een woning, treffen van voorzieningen of tot het toelaten tot een besloten plaats van personen, draagt ten aanzien van die besloten plaats zorg voor zodanige voorzieningen of toelating dat de daar aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) gestelde regels in acht kunnen nemen.
+1. Degene die bevoegd is tot het aan een besloten plaats, niet zijnde een woning, treffen van voorzieningen of tot het toelaten tot een besloten plaats van personen, draagt ten aanzien van die besloten plaats zorg voor zodanige voorzieningen of toelating dat de daar aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) gestelde regels in acht kunnen nemen.
 
-2. Indien de besloten plaats een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend en Onze Minister van oordeel is dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) niet in acht kunnen nemen, kan hij een schriftelijke aanwijzing geven aan degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het toelaten tot die plaats van personen. Indien de besloten plaats een ruimte betreft waar geen beroep of bedrijf wordt uitgeoefend, is de burgemeester bevoegd deze aanwijzing te geven.
+2. Indien de besloten plaats een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend en Onze Minister van oordeel is dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) niet in acht kunnen nemen, kan hij een schriftelijke aanwijzing geven aan degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het toelaten tot die plaats van personen. Indien de besloten plaats een ruimte betreft waar geen beroep of bedrijf wordt uitgeoefend, is de burgemeester bevoegd deze aanwijzing te geven.
 
-3. In de aanwijzing geeft Onze Minister onderscheidenlijk de burgemeester met redenen omkleed aan op welke punten de aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) gestelde regels niet in acht kunnen nemen, alsmede de in verband daarmee te nemen maatregelen. Een aanwijzing bevat de termijn waarbinnen degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het toelaten tot die plaats van personen, de maatregelen treft.
+3. In de aanwijzing geeft Onze Minister onderscheidenlijk de burgemeester met redenen omkleed aan op welke punten de aanwezige personen de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) gestelde regels niet in acht kunnen nemen, alsmede de in verband daarmee te nemen maatregelen. Een aanwijzing bevat de termijn waarbinnen degene die bevoegd is tot het aan die plaats treffen van voorzieningen of tot het toelaten tot die plaats van personen, de maatregelen treft.
 
 4. In een spoedeisende situatie kan Onze Minister onderscheidenlijk de burgemeester een bevel geven. Indien het bevel mondeling wordt gegeven, wordt het zo spoedig mogelijk op schrift gesteld en bekendgemaakt.
 
@@ -1583,7 +1587,7 @@ Bij ministeriële regeling kunnen evenementen worden aangewezen die niet of slec
 
 ##### Artikel 58m. Maatregelen voor openbare plaatsen
 
-Indien de burgemeester van oordeel is dat de omstandigheden op een openbare plaats zodanig zijn dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) niet in acht kunnen nemen, of bij ernstige vrees voor het ontstaan daarvan, kan hij de bevelen geven die nodig zijn om de naleving van deze artikelen op een openbare plaats te verzekeren.
+Indien de burgemeester van oordeel is dat de omstandigheden op een openbare plaats zodanig zijn dat de daar aanwezige personen het bepaalde bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) niet in acht kunnen nemen, of bij ernstige vrees voor het ontstaan daarvan, kan hij de bevelen geven die nodig zijn om de naleving van deze artikelen op een openbare plaats te verzekeren.
 
 ##### Artikel 58n. Maatregelen voor besloten plaatsen
 
@@ -1593,7 +1597,7 @@ Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet z
 
 ##### Artikel 58o. Zorgaanbieders en zorglocaties
 
-1. Een zorgaanbieder draagt zorg voor een zodanige openstelling, inrichting en zorg, jeugdhulp of maatschappelijke ondersteuning dat de aanwezige personen die niet bij de zorg, jeugdhulp of maatschappelijke ondersteuning betrokken zijn of die geen mantelzorger zijn, de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01) gestelde regels redelijkerwijs in acht kunnen nemen.
+1. Een zorgaanbieder draagt zorg voor een zodanige openstelling, inrichting en zorg, jeugdhulp of maatschappelijke ondersteuning dat de aanwezige personen die niet bij de zorg, jeugdhulp of maatschappelijke ondersteuning betrokken zijn of die geen mantelzorger zijn, de bij of krachtens de [artikelen 58f tot en met 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04) gestelde regels redelijkerwijs in acht kunnen nemen.
 
 2. Een zorgaanbieder kan, indien dit noodzakelijk is om verspreiding van het virus SARS-CoV-2 naar dan wel vanuit een zorglocatie te voorkomen en de maatregelen die de zorgaanbieder treft op grond van het eerste lid onvoldoende zijn om die verspreiding te voorkomen, beperkingen of andere voorwaarden stellen aan de toegang van personen tot een zorglocatie door iemand die niet bij de zorg, jeugdhulp of maatschappelijke ondersteuning betrokken is of die geen mantelzorger is.
 
@@ -1611,17 +1615,17 @@ Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet z
 
 - d. toegang van advocaten en cliëntenvertrouwenspersonen als bedoeld in de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), en advocaten en patiëntenvertrouwenspersonen als bedoeld in de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635).
 
-6. De [artikelen 58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01) en [58n](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58n&z=2021-12-01&g=2021-12-01) zijn niet van toepassing.
+6. De [artikelen 58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04) en [58n](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58n&z=2021-12-04&g=2021-12-04) zijn niet van toepassing.
 
 ##### Artikel 58p. Bedrijfsmatig personenvervoer
 
 1. Bij ministeriële regeling kan worden bepaald dat het aanbieden van bepaalde categorieën van bedrijfsmatig personenvervoer geheel of gedeeltelijk verboden is.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld over het aanbieden van, de toegang tot en het gebruik van voorzieningen voor bedrijfsmatig personenvervoer binnen Nederland of met een bestemming in Nederland. Hierbij kan onderscheid worden gemaakt tussen categorieën van bedrijfsmatig personenvervoer, gebieden van waaruit de reiziger vertrekt en categorieën van personen voor wie de regels gelden en kan worden afgeweken van [artikel 58f, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01).
+2. Bij ministeriële regeling kunnen regels worden gesteld over het aanbieden van, de toegang tot en het gebruik van voorzieningen voor bedrijfsmatig personenvervoer binnen Nederland of met een bestemming in Nederland. Hierbij kan onderscheid worden gemaakt tussen categorieën van bedrijfsmatig personenvervoer, gebieden van waaruit de reiziger vertrekt en categorieën van personen voor wie de regels gelden en kan worden afgeweken van [artikel 58f, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04).
 
 3. Tot de in het tweede lid bedoelde regels kunnen behoren:
 
-- a. een verplichting voor de aanbieder van bedrijfsmatig personenvervoer ervoor zorg te dragen dat aan een reiziger die vertrekt vanuit een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba, uitsluitend vervoer wordt aangeboden, toegang daartoe wordt verschaft en gebruik daarvan wordt toegestaan, indien de reiziger een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2 of een verklaring als bedoeld in [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01), eventueel vergezeld van het voorgeschreven document als bedoeld in dat artikel, kan tonen aan de aanbieder van bedrijfsmatig personenvervoer en een toezichthouder;
+- a. een verplichting voor de aanbieder van bedrijfsmatig personenvervoer ervoor zorg te dragen dat aan een reiziger die vertrekt vanuit een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba, uitsluitend vervoer wordt aangeboden, toegang daartoe wordt verschaft en gebruik daarvan wordt toegestaan, indien de reiziger een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2 of een verklaring als bedoeld in [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04), eventueel vergezeld van het voorgeschreven document als bedoeld in dat artikel, kan tonen aan de aanbieder van bedrijfsmatig personenvervoer en een toezichthouder;
 
 - b. een verplichting voor de reiziger die vertrekt vanuit een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba om bij de toegang tot het vervoermiddel en tijdens het vervoer te beschikken over een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2, een verplichting voor de reiziger deze op verzoek te tonen aan de aanbieder van bedrijfsmatig personenvervoer en een toezichthouder en om de testuitslag te bewaren tot een bij ministeriële regeling te bepalen tijdstip;
 
@@ -1663,9 +1667,9 @@ Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet z
 
 3. In de ministeriële regeling kan de burgemeester worden opgedragen om locaties aan te wijzen, onderwijsinstellingen daaronder begrepen, die tot vierentwintig uur per dag en zeven dagen per week opvang bieden aan kinderen als bedoeld in het tweede lid. Op deze locaties zijn de eisen, genoemd in [hoofdstuk 1, afdeling 3, paragraaf 2, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2), van overeenkomstige toepassing. In de ministeriële regeling kunnen daarvan eisen worden uitgezonderd.
 
-4. In afwijking van [artikel 58j, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-01&g=2021-12-01), kunnen bij ministeriële regeling regels worden gesteld over hygiënemaatregelen en persoonlijke beschermingsmiddelen, met inbegrip van de verplichting tot toepassing of gebruik hiervan, voor zover een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang in een woning is gevestigd. Dit geldt tevens voor opvang in een woning die wordt geboden op grond van het derde lid.
+4. In afwijking van [artikel 58j, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-04&g=2021-12-04), kunnen bij ministeriële regeling regels worden gesteld over hygiënemaatregelen en persoonlijke beschermingsmiddelen, met inbegrip van de verplichting tot toepassing of gebruik hiervan, voor zover een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang in een woning is gevestigd. Dit geldt tevens voor opvang in een woning die wordt geboden op grond van het derde lid.
 
-5. De [artikelen 1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61), [1.62, vierde en vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62)[1.63 tot en met 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.63), [1.67a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.67a), [1.72](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.72) en [1.80 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.80) zijn van overeenkomstige toepassing ten aanzien van de handhaving van de bij of krachtens dit hoofdstuk gestelde regels in de kinderopvang. [Artikel 1.81 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.81) is van overeenkomstige toepassing, voor zover de houder reeds is geregistreerd in het landelijk register kinderopvang. Het tweede, derde en vierde lid van [artikel 58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01) zijn niet van toepassing.
+5. De [artikelen 1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61), [1.62, vierde en vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62)[1.63 tot en met 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.63), [1.67a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.67a), [1.72](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.72) en [1.80 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.80) zijn van overeenkomstige toepassing ten aanzien van de handhaving van de bij of krachtens dit hoofdstuk gestelde regels in de kinderopvang. [Artikel 1.81 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.81) is van overeenkomstige toepassing, voor zover de houder reeds is geregistreerd in het landelijk register kinderopvang. Het tweede, derde en vierde lid van [artikel 58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04) zijn niet van toepassing.
 
 #### § 4. Overige bepalingen
 
@@ -1679,7 +1683,7 @@ Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet z
 
 4. De burgemeester is aan de gemeenteraad verantwoording schuldig over het door hem krachtens dit hoofdstuk gevoerde bestuur en waarborgt de betrokkenheid van de gemeenteraad en het college van burgemeester en wethouders bij dat bestuur. De burgemeester verstrekt de wethouders de informatie over de uitoefening van zijn bevoegdheden bij of krachtens dit hoofdstuk die zij nodig hebben voor de uitoefening van de taken van het college. Het tweede en derde lid van [artikel 180 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=180) zijn van toepassing.
 
-5. Indien de voorzitter van de veiligheidsregio na een besluit als bedoeld in [artikel 58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58d&z=2021-12-01&g=2021-12-01), toepassing heeft gegeven aan een bevoegdheid als bedoeld in dat lid, is hij daarover verantwoording schuldig aan de betrokken gemeenteraden. Hij brengt daartoe een verslag uit en beantwoordt de vragen van die raden.
+5. Indien de voorzitter van de veiligheidsregio na een besluit als bedoeld in [artikel 58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58d&z=2021-12-04&g=2021-12-04), toepassing heeft gegeven aan een bevoegdheid als bedoeld in dat lid, is hij daarover verantwoording schuldig aan de betrokken gemeenteraden. Hij brengt daartoe een verslag uit en beantwoordt de vragen van die raden.
 
 ##### Artikel 58t
 
@@ -1689,19 +1693,19 @@ De Afdeling advisering van de Raad van State wordt gehoord over de krachtens dit
 
 1. Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van:
 
-- a. het bepaalde krachtens [artikel 58j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-01&g=2021-12-01), indien de overtreding wordt begaan op een besloten plaats indien deze een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend;
+- a. het bepaalde krachtens [artikel 58j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-04&g=2021-12-04), indien de overtreding wordt begaan op een besloten plaats indien deze een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend;
 
-- b. het bepaalde krachtens de [artikelen 58l, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01), en – indien het een bevel van Onze Minister betreft – vierde lid, [58o, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58o&z=2021-12-01&g=2021-12-01), [58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01) en [58q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01).
+- b. het bepaalde krachtens de [artikelen 58l, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04), en – indien het een bevel van Onze Minister betreft – vierde lid, [58o, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58o&z=2021-12-04&g=2021-12-04), [58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04) en [58q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04).
 
-2. Onze Minister is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 58f, eerste en vierde lid, en vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), en [58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-01&g=2021-12-01), indien de overtreding wordt begaan op een besloten plaats indien deze een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend.
+2. Onze Minister is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 58f, eerste en vierde lid, en vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), en [58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-04&g=2021-12-04), indien de overtreding wordt begaan op een besloten plaats indien deze een ruimte betreft waar een beroep of bedrijf wordt uitgeoefend.
 
 3. De burgemeester is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van:
 
-- a. het bepaalde bij of krachtens de [artikelen 58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-01&g=2021-12-01), en [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-01&g=2021-12-01);
+- a. het bepaalde bij of krachtens de [artikelen 58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-04&g=2021-12-04), en [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-04&g=2021-12-04);
 
-- b. het bepaalde krachtens [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-01&g=2021-12-01), eerste lid, indien de overtreding wordt begaan op een openbare of publieke plaats of een besloten plaats indien deze geen ruimte betreft waar een beroep of bedrijf wordt uitgeoefend.
+- b. het bepaalde krachtens [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-04&g=2021-12-04), eerste lid, indien de overtreding wordt begaan op een openbare of publieke plaats of een besloten plaats indien deze geen ruimte betreft waar een beroep of bedrijf wordt uitgeoefend.
 
-4. De burgemeester is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 58f, eerste en vierde lid, en vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), en [58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-01&g=2021-12-01), indien de overtreding wordt begaan op een openbare of publieke plaats of een besloten plaats indien deze geen ruimte betreft waar een beroep of bedrijf wordt uitgeoefend, of ter handhaving van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01).
+4. De burgemeester is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 58f, eerste en vierde lid, en vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), en [58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-04&g=2021-12-04), indien de overtreding wordt begaan op een openbare of publieke plaats of een besloten plaats indien deze geen ruimte betreft waar een beroep of bedrijf wordt uitgeoefend, of ter handhaving van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04).
 
 ### Hoofdstuk VI. Financiële bepalingen
 
@@ -1711,7 +1715,7 @@ De Afdeling advisering van de Raad van State wordt gehoord over de krachtens dit
 
 ##### Artikel 64a. Grondslag voor aanwijzing andere toezichthouders dan IGJ en NVWA
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk Va of onderdelen daarvan, met uitzondering van de [artikelen 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01) en [58r](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58r&z=2021-12-01&g=2021-12-01), zijn voorts belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk Va of onderdelen daarvan, met uitzondering van de [artikelen 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04) en [58r](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58r&z=2021-12-04&g=2021-12-04), zijn voorts belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -1719,7 +1723,7 @@ De Afdeling advisering van de Raad van State wordt gehoord over de krachtens dit
 
 ##### Artikel 65a. Grondslag voor aanwijzing buitengewone opsporingsambtenaren
 
-1. Met de opsporing van de in [artikel 68bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=2&artikel=68bis&z=2021-12-01&g=2021-12-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister of van Onze Minister van Justitie en Veiligheid, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+1. Met de opsporing van de in [artikel 68bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VII&paragraaf=2&artikel=68bis&z=2021-12-04&g=2021-12-04) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister of van Onze Minister van Justitie en Veiligheid, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
 
 2. De aangewezen ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) dan wel de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -1727,21 +1731,21 @@ De Afdeling advisering van de Raad van State wordt gehoord over de krachtens dit
 
 #### § 4. Overige bepalingen
 
-##### Artikel 68bis. Strafbaarstellingen en strafsancties regels [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&z=2021-12-01&g=2021-12-01)
+##### Artikel 68bis. Strafbaarstellingen en strafsancties regels [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&z=2021-12-04&g=2021-12-04)
 
 1. Met een hechtenis van ten hoogste zeven dagen of geldboete van de eerste categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens:
 
-- a. [artikel 58e, tweede lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-01&g=2021-12-01), voor zover het een ontheffing betreft van het bepaalde bij of krachtens [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-01&g=2021-12-01), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-01&g=2021-12-01), [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-01&g=2021-12-01) of van de in [artikel 58e, tweede lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-01&g=2021-12-01), bedoelde regels; of
+- a. [artikel 58e, tweede lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-04&g=2021-12-04), voor zover het een ontheffing betreft van het bepaalde bij of krachtens [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-04&g=2021-12-04), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-04&g=2021-12-04), [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-04&g=2021-12-04) of van de in [artikel 58e, tweede lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-04&g=2021-12-04), bedoelde regels; of
 
-- b. [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-01&g=2021-12-01), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-01&g=2021-12-01), [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-01&g=2021-12-01), [58j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-01&g=2021-12-01), [58k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-01&g=2021-12-01), [58l, tweede lid, eerste of tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01)[58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01), [58o, derde lid, eerste zin of vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58o&z=2021-12-01&g=2021-12-01), [58p, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01), [58pa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-01&g=2021-12-01), [58q, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01), [artikel 58re, derde of achtste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), of [artikel 58rf, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-01&g=2021-12-01).
+- b. [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58g&z=2021-12-04&g=2021-12-04), [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58h&z=2021-12-04&g=2021-12-04), [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58i&z=2021-12-04&g=2021-12-04), [58j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58j&z=2021-12-04&g=2021-12-04), [58k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-04&g=2021-12-04), [58l, tweede lid, eerste of tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04)[58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04), [58o, derde lid, eerste zin of vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58o&z=2021-12-04&g=2021-12-04), [58p, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04), [58pa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-04&g=2021-12-04), [58q, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04), [artikel 58re, derde of achtste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), of [artikel 58rf, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-04&g=2021-12-04).
 
-2. Met een geldboete van ten hoogste vijfennegentig euro wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58f, eerste, vierde of vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), [artikel 58re, eerste of achtste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), of [artikel 58rf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-01&g=2021-12-01).
+2. Met een geldboete van ten hoogste vijfennegentig euro wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58f, eerste, vierde of vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), [artikel 58re, eerste of achtste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), of [artikel 58rf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-04&g=2021-12-04).
 
-3. Met een hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie wordt gestraft degene die handelt in strijd met [artikel 58ra, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01).
+3. Met een hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie wordt gestraft degene die handelt in strijd met [artikel 58ra, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04).
 
 4. De in dit artikel strafbaar gestelde feiten zijn overtredingen.
 
-5. In afwijking van het bij en krachtens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) bepaalde worden de gegevens met betrekking tot geldboetes, opgelegd voor overtreding van [artikel 58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-01&g=2021-12-01), [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01), [artikel 58re, eerste of achtste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), of [artikel 58rf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-01&g=2021-12-01) niet aangemerkt als justitiële gegevens.
+5. In afwijking van het bij en krachtens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) bepaalde worden de gegevens met betrekking tot geldboetes, opgelegd voor overtreding van [artikel 58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), [artikel 58g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04), [artikel 58re, eerste of achtste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), of [artikel 58rf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rf&z=2021-12-04&g=2021-12-04) niet aangemerkt als justitiële gegevens.
 
 6. In afwijking van [artikel 35 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) worden de in dit artikel strafbaar gestelde feiten niet betrokken bij het onderzoek naar het gedrag van een natuurlijke persoon of rechtspersoon als bedoeld in [artikel 28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28).
 
@@ -1749,9 +1753,9 @@ De Afdeling advisering van de Raad van State wordt gehoord over de krachtens dit
 
 ##### Artikel 68ka. Last onder dwangsom BES
 
-1. Op de bevoegdheid tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de in [artikel 58u](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58u&z=2021-12-01&g=2021-12-01) genoemde bepalingen zijn de [artikelen 5:5 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10), [5:31d tot en met 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d), [5:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:37) en [5:38 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:38) van toepassing.
+1. Op de bevoegdheid tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de in [artikel 58u](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58u&z=2021-12-04&g=2021-12-04) genoemde bepalingen zijn de [artikelen 5:5 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10), [5:31d tot en met 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d), [5:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:37) en [5:38 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:38) van toepassing.
 
-2. De bevoegdheid tot invordering van een verbeurde dwangsom verjaart door verloop van een jaar na de dag waarop zij is verbeurd. Op de invordering is [artikel 68k, zesde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68k&z=2021-12-01&g=2021-12-01), van overeenkomstige toepassing.
+2. De bevoegdheid tot invordering van een verbeurde dwangsom verjaart door verloop van een jaar na de dag waarop zij is verbeurd. Op de invordering is [artikel 68k, zesde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=VIIa&artikel=68k&z=2021-12-04&g=2021-12-04), van overeenkomstige toepassing.
 
 ### Hoofdstuk VIII. Overige bepalingen
 
@@ -1781,11 +1785,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 58ea
 
-1. Bij ministeriële regeling worden regels gesteld ter zake van de aanwijzing van gebieden door Onze Minister, bedoeld in de [artikelen 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-01&g=2021-12-01), [58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01) en [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-01&g=2021-12-01), waarbij onderscheid kan worden gemaakt tussen:
+1. Bij ministeriële regeling worden regels gesteld ter zake van de aanwijzing van gebieden door Onze Minister, bedoeld in de [artikelen 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-04&g=2021-12-04), [58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04) en [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-04&g=2021-12-04), waarbij onderscheid kan worden gemaakt tussen:
 
-- a. hoogrisicogebieden, zijnde gebieden ter zake waarvan uitsluitend de verplichting van [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01) of [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-01&g=2021-12-01) geldt;
+- a. hoogrisicogebieden, zijnde gebieden ter zake waarvan uitsluitend de verplichting van [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04) of [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-04&g=2021-12-04) geldt;
 
-- b. zeer hoogrisicogebieden en uitzonderlijk hoogrisicogebieden, zijnde gebieden ter zake waarvan zowel de verplichting van [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01) of [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-01&g=2021-12-01) als de verplichting van [artikel 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01) of [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-01&g=2021-12-01) geldt, maar ten aanzien waarvan onderscheid kan worden gemaakt bij de categorieën van personen die van deze verplichtingen kunnen worden uitgezonderd.
+- b. zeer hoogrisicogebieden en uitzonderlijk hoogrisicogebieden, zijnde gebieden ter zake waarvan zowel de verplichting van [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04) of [58pa](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58pa&z=2021-12-04&g=2021-12-04) als de verplichting van [artikel 58nb](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04) of [58nh](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nh&z=2021-12-04&g=2021-12-04) geldt, maar ten aanzien waarvan onderscheid kan worden gemaakt bij de categorieën van personen die van deze verplichtingen kunnen worden uitgezonderd.
 
 2. De regels, bedoeld in het eerste lid, behelzen in ieder geval de volgende indicatoren:
 
@@ -1799,7 +1803,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 58nb. Quarantaineplicht Europees Nederland
 
-1. Degene die het Europese deel van Nederland inreist en voor inreis heeft verbleven in een door Onze Minister aangewezen gebied in het buitenland of, indien door Onze Minister aangewezen, in Bonaire, Sint Eustatius of Saba, gaat onverwijld na inreis gedurende een ononderbroken periode van een bij ministeriële regeling te bepalen aantal dagen in thuisquarantaine op zijn woonadres of het krachtens [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01) opgegeven adres van een verblijfplaats.
+1. Degene die het Europese deel van Nederland inreist en voor inreis heeft verbleven in een door Onze Minister aangewezen gebied in het buitenland of, indien door Onze Minister aangewezen, in Bonaire, Sint Eustatius of Saba, gaat onverwijld na inreis gedurende een ononderbroken periode van een bij ministeriële regeling te bepalen aantal dagen in thuisquarantaine op zijn woonadres of het krachtens [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04) opgegeven adres van een verblijfplaats.
 
 2. Het bij ministeriële regeling te bepalen aantal dagen van de thuisquarantaine bedraagt ten hoogste 14 dagen.
 
@@ -1821,17 +1825,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste en derde lid.
 
-9. Dit artikel laat de toepassing van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-01&g=2021-12-01) onverlet.
+9. Dit artikel laat de toepassing van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2021-12-04&g=2021-12-04) onverlet.
 
 ##### Artikel 58nc. Uitzonderingen quarantaineplicht
 
-1. De verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), is niet van toepassing op:
+1. De verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), is niet van toepassing op:
 
 - a. personen die na inreis korter dan een bij ministeriële regeling te bepalen aantal uren in Nederland zullen verblijven;
 
-- b. personen die korter dan een bij ministeriële regeling te bepalen aantal uren in een krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), aangewezen gebied hebben verbleven of ingeval van een overschrijding van dat aantal uren uitsluitend op doorreis waren en in dat verband noodzakelijke tussenstops hebben gemaakt waarbij het vervoermiddel slechts kort is verlaten of een overstap hebben gemaakt waarbij de overstapplaats niet is verlaten;
+- b. personen die korter dan een bij ministeriële regeling te bepalen aantal uren in een krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), aangewezen gebied hebben verbleven of ingeval van een overschrijding van dat aantal uren uitsluitend op doorreis waren en in dat verband noodzakelijke tussenstops hebben gemaakt waarbij het vervoermiddel slechts kort is verlaten of een overstap hebben gemaakt waarbij de overstapplaats niet is verlaten;
 
-- c. personen komend vanuit een krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), aangewezen gebied die voorafgaand aan de inreis ten minste een bij ministeriële regeling te bepalen aantal dagen aaneengesloten in een niet krachtens artikel 58nb, eerste lid, aangewezen gebied hebben verbleven;
+- c. personen komend vanuit een krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), aangewezen gebied die voorafgaand aan de inreis ten minste een bij ministeriële regeling te bepalen aantal dagen aaneengesloten in een niet krachtens artikel 58nb, eerste lid, aangewezen gebied hebben verbleven;
 
 - d. personen tot en met 12 jaar;
 
@@ -1879,31 +1883,31 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - z. functionarissen die reizen in verband met het uitvoeren van taken in opdracht van Onze Minister van Justitie en Veiligheid alsmede de personen die door deze functionarissen worden begeleid.
 
-2. Bij ministeriële regeling kan worden bepaald dat de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), voorts niet van toepassing is op personen die voor inreis hebben verbleven in een door Onze Minister aangewezen zeer hoogrisicogebied als bedoeld in [artikel 58ea, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58ea&z=2021-12-01&g=2021-12-01), indien zij middels een bewijs van vaccinatie tegen covid-19 dat voldoet aan bij ministeriële regeling te stellen voorwaarden kunnen aantonen dat zij op het moment van inreizen gevaccineerd waren volgens bij die regeling te bepalen minimumeisen.
+2. Bij ministeriële regeling kan worden bepaald dat de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), voorts niet van toepassing is op personen die voor inreis hebben verbleven in een door Onze Minister aangewezen zeer hoogrisicogebied als bedoeld in [artikel 58ea, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58ea&z=2021-12-04&g=2021-12-04), indien zij middels een bewijs van vaccinatie tegen covid-19 dat voldoet aan bij ministeriële regeling te stellen voorwaarden kunnen aantonen dat zij op het moment van inreizen gevaccineerd waren volgens bij die regeling te bepalen minimumeisen.
 
-3. Bij ministeriële regeling kunnen categorieën van personen worden aangewezen op wie de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), eveneens niet van toepassing is.
+3. Bij ministeriële regeling kunnen categorieën van personen worden aangewezen op wie de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), eveneens niet van toepassing is.
 
-4. Bij ministeriële regeling kan voorts worden bepaald dat de burgemeester met het oog op bijzondere omstandigheden in een individueel geval ontheffing kan verlenen van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), en [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01). Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden. [Artikel 58e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-01&g=2021-12-01), is van overeenkomstige toepassing.
+4. Bij ministeriële regeling kan voorts worden bepaald dat de burgemeester met het oog op bijzondere omstandigheden in een individueel geval ontheffing kan verlenen van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), en [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04). Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden. [Artikel 58e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-04&g=2021-12-04), is van overeenkomstige toepassing.
 
 ##### Artikel 58nd. Verzoekschriftenprocedure
 
-1. De in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon kan de burgerlijke rechter schriftelijk verzoeken om opheffing van de ten aanzien van hem geldende verplichting om in thuisquarantaine te gaan op de grond dat deze verplichting niet op hem van toepassing is.
+1. De in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon kan de burgerlijke rechter schriftelijk verzoeken om opheffing van de ten aanzien van hem geldende verplichting om in thuisquarantaine te gaan op de grond dat deze verplichting niet op hem van toepassing is.
 
-2. Het verzoekschrift wordt ingediend bij de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de woon- of verblijfplaats, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), van de indiener van het verzoekschrift is gelegen. Voor de behandeling van het verzoekschrift wordt geen griffierecht geheven. [Artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=46&z=2021-12-01&g=2021-12-01) is van overeenkomstige toepassing.
+2. Het verzoekschrift wordt ingediend bij de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de woon- of verblijfplaats, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), van de indiener van het verzoekschrift is gelegen. Voor de behandeling van het verzoekschrift wordt geen griffierecht geheven. [Artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=46&z=2021-12-04&g=2021-12-04) is van overeenkomstige toepassing.
 
 3. In aanvulling op [artikel 278, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=278) bevat het verzoekschrift het e-mailadres en telefoonnummer waarop de verzoeker bereikbaar is en eventuele bewijsstukken die het verzoek ondersteunen.
 
-4. Voordat op het verzoekschrift wordt beslist, hoort de rechter de indiener van het verzoekschrift door middel van een tweezijdig elektronisch communicatiemiddel, tenzij de indiener niet beschikbaar was op het door de rechter vastgestelde tijdstip waarop het horen plaatsvindt. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-01&g=2021-12-01), is van toepassing.
+4. Voordat op het verzoekschrift wordt beslist, hoort de rechter de indiener van het verzoekschrift door middel van een tweezijdig elektronisch communicatiemiddel, tenzij de indiener niet beschikbaar was op het door de rechter vastgestelde tijdstip waarop het horen plaatsvindt. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2021-12-04&g=2021-12-04), is van toepassing.
 
 5. De rechter beslist zo spoedig mogelijk op het verzoek, doch uiterlijk binnen drie dagen te rekenen vanaf de dag na die van het indienen van het verzoekschrift. Tegen de beslissing van de rechter staat geen voorziening open.
 
 ##### Artikel 58ne. Quarantaineverklaring
 
-Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon een verplichting rust om:
+Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon een verplichting rust om:
 
-- a. een papieren of digitale verklaring naar waarheid in te vullen, waarin hij verklaart dat hij na inreis onverwijld in thuisquarantaine zal gaan op zijn woonadres of het opgegeven adres van een verblijfplaats, dan wel behoort tot een van de categorieën van personen, bedoeld in [artikel 58nc](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nc&z=2021-12-01&g=2021-12-01), en om daarbij de in die regeling te bepalen gegevens aan Onze Minister te verstrekken;
+- a. een papieren of digitale verklaring naar waarheid in te vullen, waarin hij verklaart dat hij na inreis onverwijld in thuisquarantaine zal gaan op zijn woonadres of het opgegeven adres van een verblijfplaats, dan wel behoort tot een van de categorieën van personen, bedoeld in [artikel 58nc](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nc&z=2021-12-04&g=2021-12-04), en om daarbij de in die regeling te bepalen gegevens aan Onze Minister te verstrekken;
 
-- b. bij inreis te beschikken over een papieren verklaring of een bevestiging van een digitaal ingevulde verklaring als bedoeld in onderdeel a, zo nodig vergezeld van het in die regeling voorgeschreven document indien het gaat om een persoon die verklaart dat hij behoort tot een van de categorieën van personen, bedoeld in [artikel 58nc](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nc&z=2021-12-01&g=2021-12-01);
+- b. bij inreis te beschikken over een papieren verklaring of een bevestiging van een digitaal ingevulde verklaring als bedoeld in onderdeel a, zo nodig vergezeld van het in die regeling voorgeschreven document indien het gaat om een persoon die verklaart dat hij behoort tot een van de categorieën van personen, bedoeld in [artikel 58nc](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nc&z=2021-12-04&g=2021-12-04);
 
 - c. de verklaring of bevestiging en het eventuele voorgeschreven document op verzoek te tonen aan een toezichthouder;
 
@@ -1911,19 +1915,19 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 ##### Artikel 58nf. Gegevensverwerking
 
-1. In het kader van de taak van Onze Minister, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-01&g=2021-12-01), en ter monitoring van de naleving van de verplichting van [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), is Onze Minister bevoegd tot verwerking van de krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-01&g=2021-12-01) verstrekte gegevens van een in artikel 58nb, eerste lid, bedoelde persoon.
+1. In het kader van de taak van Onze Minister, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=7&z=2021-12-04&g=2021-12-04), en ter monitoring van de naleving van de verplichting van [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), is Onze Minister bevoegd tot verwerking van de krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-04&g=2021-12-04) verstrekte gegevens van een in artikel 58nb, eerste lid, bedoelde persoon.
 
-2. Indien Onze Minister op grond van bevindingen in het kader van de monitoring nader onderzoek door een toezichthouder naar de naleving van de verplichting tot thuisquarantaine door een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon wenselijk acht, of een in artikel 58nb, eerste lid, bedoelde persoon telefonisch niet heeft kunnen bereiken, kan Onze Minister een melding doen aan de burgemeester van de gemeente waar de woon- of verblijfplaats van die persoon is gelegen.
+2. Indien Onze Minister op grond van bevindingen in het kader van de monitoring nader onderzoek door een toezichthouder naar de naleving van de verplichting tot thuisquarantaine door een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon wenselijk acht, of een in artikel 58nb, eerste lid, bedoelde persoon telefonisch niet heeft kunnen bereiken, kan Onze Minister een melding doen aan de burgemeester van de gemeente waar de woon- of verblijfplaats van die persoon is gelegen.
 
-3. Onze Minister, de burgemeester en de bij of krachtens deze wet aangewezen toezichthouders zijn bevoegd tot het verwerken en onderling uitwisselen van een melding als bedoeld in het tweede lid, en de krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-01&g=2021-12-01) verstrekte gegevens van een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon, voor zover dit noodzakelijk is voor het toezicht op en de handhaving van de naleving van artikel 58nb, eerste lid.
+3. Onze Minister, de burgemeester en de bij of krachtens deze wet aangewezen toezichthouders zijn bevoegd tot het verwerken en onderling uitwisselen van een melding als bedoeld in het tweede lid, en de krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-04&g=2021-12-04) verstrekte gegevens van een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon, voor zover dit noodzakelijk is voor het toezicht op en de handhaving van de naleving van artikel 58nb, eerste lid.
 
-4. De krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-01&g=2021-12-01) verstrekte gegevens worden door Onze Minister niet langer bewaard dan de krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bij ministeriële regeling bepaalde duur van de thuisquarantaine.
+4. De krachtens de [artikelen 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04) of [58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ng&z=2021-12-04&g=2021-12-04) verstrekte gegevens worden door Onze Minister niet langer bewaard dan de krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bij ministeriële regeling bepaalde duur van de thuisquarantaine.
 
 ##### Artikel 58ng. Aanvullende gegevensverstrekking en -verwerking papieren quarantaineverklaring
 
-1. Met het oog op het toezicht op en de handhaving van de naleving van [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), kan bij ministeriële regeling worden bepaald dat:
+1. Met het oog op het toezicht op en de handhaving van de naleving van [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), kan bij ministeriële regeling worden bepaald dat:
 
-- a. op de in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon die bij inreis in Nederland gebruik maakt van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01), een verplichting rust om een in [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-01&g=2021-12-01) bedoelde papieren verklaring op verzoek te verstrekken aan de aanbieder van personenvervoer of een toezichthouder;
+- a. op de in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon die bij inreis in Nederland gebruik maakt van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04), een verplichting rust om een in [artikel 58ne](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58ne&z=2021-12-04&g=2021-12-04) bedoelde papieren verklaring op verzoek te verstrekken aan de aanbieder van personenvervoer of een toezichthouder;
 
 - b. op de in onderdeel a bedoelde aanbieder van bedrijfsmatig personenvervoer een verplichting rust om een aan hem krachtens onderdeel a verstrekte verklaring in te nemen en deze verklaring te verstrekken aan de voorzitter van de veiligheidsregio of een toezichthouder;
 
@@ -1931,23 +1935,23 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 - d. op een toezichthouder een verplichting rust om een aan hem krachtens onderdeel a of b verstrekte verklaring op diens verzoek aan Onze Minister te verstrekken of de verklaring te vernietigen;
 
-- e. op de aanbieder van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01) waarvan een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), bedoelde persoon bij inreis in Nederland gebruik maakt, een verplichting rust om de bij de aanbieder beschikbare persoonsidentificerende gegevens en het telefoonnummer van die persoon op diens verzoek te verstrekken aan Onze Minister.
+- e. op de aanbieder van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04) waarvan een in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), bedoelde persoon bij inreis in Nederland gebruik maakt, een verplichting rust om de bij de aanbieder beschikbare persoonsidentificerende gegevens en het telefoonnummer van die persoon op diens verzoek te verstrekken aan Onze Minister.
 
 2. De aanbieder van personenvervoer, de voorzitter van de veiligheidsregio en de toezichthouder zijn bevoegd tot het verwerken van de krachtens het eerste lid aan hen verstrekte verklaringen, voor zover dit noodzakelijk is om te voldoen aan de op hen krachtens dat lid rustende verplichtingen.
 
 ##### Artikel 58nh. Quarantaineplicht Caribisch Nederland
 
-1. Bij ministeriële regeling kan, na overleg met de gezaghebber, worden bepaald dat op degene die reist tussen Bonaire, Sint Eustatius of Saba of die een van deze eilanden inreist en voor inreis heeft verbleven in het Europese deel van Nederland of in een door Onze Minister, na overleg met de gezaghebber, aangewezen gebied in het buitenland, de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01), rust.
+1. Bij ministeriële regeling kan, na overleg met de gezaghebber, worden bepaald dat op degene die reist tussen Bonaire, Sint Eustatius of Saba of die een van deze eilanden inreist en voor inreis heeft verbleven in het Europese deel van Nederland of in een door Onze Minister, na overleg met de gezaghebber, aangewezen gebied in het buitenland, de verplichting, bedoeld in [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04), rust.
 
-2. Indien toepassing wordt gegeven aan het eerste lid, zijn de [artikelen 58nb tot en met 58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01) van overeenkomstige toepassing, tenzij bij ministeriële regeling anders is bepaald.
+2. Indien toepassing wordt gegeven aan het eerste lid, zijn de [artikelen 58nb tot en met 58ng](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04) van overeenkomstige toepassing, tenzij bij ministeriële regeling anders is bepaald.
 
-3. In de regeling, bedoeld in het eerste lid, kan worden bepaald dat de gezaghebber met het oog op bijzondere omstandigheden in een individueel geval ontheffing kan verlenen van het bepaalde bij of krachtens het eerste lid. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden. [Artikel 58e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-01&g=2021-12-01), is van overeenkomstige toepassing.
+3. In de regeling, bedoeld in het eerste lid, kan worden bepaald dat de gezaghebber met het oog op bijzondere omstandigheden in een individueel geval ontheffing kan verlenen van het bepaalde bij of krachtens het eerste lid. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden. [Artikel 58e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58e&z=2021-12-04&g=2021-12-04), is van overeenkomstige toepassing.
 
 #### § 3. Sectorspecifieke bepalingen
 
 ##### Artikel 58pa. Niet-bedrijfsmatig personenvervoer
 
-1. Bij ministeriële regeling kan worden bepaald dat op de reiziger die heeft verbleven in een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba, anders dan met gebruikmaking van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-01&g=2021-12-01), een verplichting rust om bij inreis in Nederland te beschikken over een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2, om die testuitslag op verzoek te tonen aan een toezichthouder en om die testuitslag te bewaren tot een bij ministeriële regeling te bepalen tijdstip.
+1. Bij ministeriële regeling kan worden bepaald dat op de reiziger die heeft verbleven in een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba, anders dan met gebruikmaking van bedrijfsmatig personenvervoer als bedoeld in [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58p&z=2021-12-04&g=2021-12-04), een verplichting rust om bij inreis in Nederland te beschikken over een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2, om die testuitslag op verzoek te tonen aan een toezichthouder en om die testuitslag te bewaren tot een bij ministeriële regeling te bepalen tijdstip.
 
 2. In een regeling als bedoeld in het eerste lid worden eisen gesteld met betrekking tot de test, die in elk geval betrekking hebben op:
 
@@ -1969,7 +1973,7 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 ##### Artikel 58ra. Reikwijdte
 
-1. In een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-01&g=2021-12-01) van dit hoofdstuk vast te stellen ministeriële regeling kunnen regels worden gesteld met betrekking tot het beschikken over een daarbij te bepalen resultaat voor deelname aan of toegang tot daarbij te bepalen activiteiten of voorzieningen op uitsluitend de volgende terreinen:
+1. In een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-04&g=2021-12-04) van dit hoofdstuk vast te stellen ministeriële regeling kunnen regels worden gesteld met betrekking tot het beschikken over een daarbij te bepalen resultaat voor deelname aan of toegang tot daarbij te bepalen activiteiten of voorzieningen op uitsluitend de volgende terreinen:
 
 - a. cultuur;
 
@@ -1977,9 +1981,13 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 - c. georganiseerde jeugdactiviteiten;
 
-- d. horeca; of
+- d. horeca;
 
-- e. sport.
+- e. sport;
+
+- f. niet-essentiële detailhandel; en
+
+- g. niet-essentiële dienstverlening op publieke plaatsen.
 
 2. Regels met betrekking tot het beschikken over vaccinatie tegen het virus SARS-CoV-2 of herstel van een infectie met het virus SARS-CoV-2 worden slechts gesteld indien:
 
@@ -1987,7 +1995,7 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 - b. de mogelijkheid wordt geboden in plaats van een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 gebruik te maken van een bewijs van een testuitslag.
 
-3. Slechts voor zover dat bij of krachtens algemene maatregel van bestuur is bepaald, kunnen voorts in een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-01&g=2021-12-01) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01) vast te stellen ministeriële regeling regels als bedoeld in het eerste lid worden gesteld op het terrein van beroepsonderwijs als bedoeld in [artikel 1.1.1, onder h, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), of hoger onderwijs als bedoeld in [artikel 1.1, onder b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
+3. Slechts voor zover dat bij of krachtens algemene maatregel van bestuur is bepaald, kunnen voorts in een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-04&g=2021-12-04) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04) vast te stellen ministeriële regeling regels als bedoeld in het eerste lid worden gesteld op het terrein van beroepsonderwijs als bedoeld in [artikel 1.1.1, onder h, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), of hoger onderwijs als bedoeld in [artikel 1.1, onder b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
 
 4. Met betrekking tot een besluit tot vaststelling of wijziging van het beleid bij de toepassing van regels als bedoeld in het eerste lid, behoeft, voor zover deze regels betrekking hebben op:
 
@@ -2009,7 +2017,7 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 6. De voordracht voor een algemene maatregel van bestuur als bedoeld in het derde lid wordt gedaan door Onze Ministers in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap. De voordracht wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-7. In een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-01&g=2021-12-01) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01) vast te stellen ministeriële regeling kunnen experimenten worden aangewezen die tot doel hebben het vergaren van en aan Onze Minister rapporteren over praktijkkennis over de uitvoerbaarheid en effecten van regels als bedoeld in het eerste of derde lid.
+7. In een krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&z=2021-12-04&g=2021-12-04) van dit hoofdstuk of [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04) vast te stellen ministeriële regeling kunnen experimenten worden aangewezen die tot doel hebben het vergaren van en aan Onze Minister rapporteren over praktijkkennis over de uitvoerbaarheid en effecten van regels als bedoeld in het eerste of derde lid.
 
 8. Ten aanzien van personen die beroeps- of bedrijfsmatig werkzaamheden verrichten worden geen regels als bedoeld in het eerste lid gesteld.
 
@@ -2017,9 +2025,11 @@ Bij ministeriële regeling kan worden bepaald dat op de in [artikel 58nb, eerste
 
 10. Het is verboden om voor deelname aan of toegang tot activiteiten of voorzieningen in openbare plaatsen of publieke plaatsen eisen te stellen met betrekking tot het beschikken over een resultaat, tenzij daarvoor regels als bedoeld in het eerste of derde lid zijn gesteld.
 
+11. Indien op het terrein bedoeld in het eerste lid, onderdeel f, regels worden gesteld als bedoeld in dat lid, kan, indien naar het oordeel van Onze Ministers gelet op het in [artikel 58b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-04&g=2021-12-04), genoemde doel de krachtens [artikel 58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58f&z=2021-12-04&g=2021-12-04), te bepalen veilige afstand een evenrediger maatregel is dan de regels bedoeld in het eerste lid, bij die regels worden bepaald dat voor het verkrijgen van toegang niet hoeft te worden beschikt over een resultaat, indien degene die bevoegd is tot het openstellen van die plaats voor publiek er zorg voor draagt dat de daar aanwezige personen een veilige afstand tot elkaar in acht kunnen nemen.
+
 ##### Artikel 58rb. Voorwaarden
 
-Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-01&g=2021-12-01), kunnen slechts regels als bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01), worden gesteld, indien deze, rekening houdend met de aard van de activiteiten of voorzieningen:
+Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=1&artikel=58b&z=2021-12-04&g=2021-12-04), kunnen slechts regels als bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04), worden gesteld, indien deze, rekening houdend met de aard van de activiteiten of voorzieningen:
 
 - a. in het maatschappelijk belang zijn aangewezen;
 
@@ -2029,7 +2039,7 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 58rc. Verstrekking testen
 
-1. Voor het beschikken over een testuitslag ten behoeve van deelname aan of toegang tot activiteiten of voorzieningen als bedoeld in [artikel 58ra, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01), of het onderwijs, bedoeld in artikel 58ra, derde lid, biedt Onze Minister aan ieder de mogelijkheid om zichzelf te testen of zich te laten testen op infectie met het virus SARS-CoV-2, waarbij de kosten van respectievelijk de test of de uitvoering van het testen voor rekening komen van Onze Minister.
+1. Voor het beschikken over een testuitslag ten behoeve van deelname aan of toegang tot activiteiten of voorzieningen als bedoeld in [artikel 58ra, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04), of het onderwijs, bedoeld in artikel 58ra, derde lid, biedt Onze Minister aan ieder de mogelijkheid om zichzelf te testen of zich te laten testen op infectie met het virus SARS-CoV-2, waarbij de kosten van respectievelijk de test of de uitvoering van het testen voor rekening komen van Onze Minister.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld, die in elk geval betrekking kunnen hebben op:
 
@@ -2043,7 +2053,7 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 58rd. Resultaat
 
-1. In een ministeriële regeling als bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01), worden eisen gesteld met betrekking tot de test, de vaccinatie of het herstel om voor een resultaat te worden gebruikt, die voor een test in elk geval betrekking hebben op:
+1. In een ministeriële regeling als bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04), worden eisen gesteld met betrekking tot de test, de vaccinatie of het herstel om voor een resultaat te worden gebruikt, die voor een test in elk geval betrekking hebben op:
 
 - a. de vaststelling van de identiteit van de geteste persoon;
 
@@ -2053,11 +2063,11 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - d. de termijn sinds het uitvoeren van de test.
 
-2. Tot de regels, bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01), kunnen behoren:
+2. Tot de regels, bedoeld in [artikel 58ra, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04), kunnen behoren:
 
-- a. een verplichting voor personen om het resultaat en een geldig identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) op verzoek te tonen aan degene die bevoegd is, bedoeld in de [artikelen 58k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-01&g=2021-12-01) en [58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01), of de onderwijsinstelling, bedoeld in [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01) en aan een toezichthouder;
+- a. een verplichting voor personen om het resultaat en een geldig identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) op verzoek te tonen aan degene die bevoegd is, bedoeld in de [artikelen 58k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-04&g=2021-12-04) en [58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04), of de onderwijsinstelling, bedoeld in [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04) en aan een toezichthouder;
 
-- b. een verplichting voor degene die bevoegd is, bedoeld in de [artikelen 58k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-01&g=2021-12-01) en [58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-01&g=2021-12-01), of de onderwijsinstelling, bedoeld in [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-01&g=2021-12-01), de persoon die geen resultaat of geldig identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) kan tonen, de toegang tot of het gebruik van een publieke onderscheidenlijk besloten plaats te ontzeggen.
+- b. een verplichting voor degene die bevoegd is, bedoeld in de [artikelen 58k](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58k&z=2021-12-04&g=2021-12-04) en [58l](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58l&z=2021-12-04&g=2021-12-04), of de onderwijsinstelling, bedoeld in [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3&artikel=58q&z=2021-12-04&g=2021-12-04), de persoon die geen resultaat of geldig identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) kan tonen, de toegang tot of het gebruik van een publieke onderscheidenlijk besloten plaats te ontzeggen.
 
 ##### Artikel 58re. Coronatoegangsbewijs
 
@@ -2079,7 +2089,7 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. Onze Minister is verwerkingsverantwoordelijke in de zin van artikel 4 van de Algemene verordening gegevensbescherming en [artikel 1, tweede lid, onder d, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=1) voor de verwerking van persoonsgegevens bij het gebruik van de aangewezen drager en de applicaties.
 
-6. Onze Minister, het RIVM, de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel, de geteste persoon, de gevaccineerde persoon, de herstelde persoon, de persoon, bedoeld in [artikel 58ra, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-01&g=2021-12-01), de personen of organisaties die de in artikel 6ba bedoelde EU-rechtshandelingen uitvoeren en de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01), verwerken voor het gebruik van de applicatie, de aangewezen drager of het schriftelijk coronatoegangsbewijs bij ministeriële regeling te bepalen persoonsgegevens, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming of [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16), die noodzakelijk zijn om te voldoen aan de eisen en waarborgen, bedoeld in het tweede en vierde lid, en [artikel 58rd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01).
+6. Onze Minister, het RIVM, de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel, de geteste persoon, de gevaccineerde persoon, de herstelde persoon, de persoon, bedoeld in [artikel 58ra, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58ra&z=2021-12-04&g=2021-12-04), de personen of organisaties die de in artikel 6ba bedoelde EU-rechtshandelingen uitvoeren en de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04), verwerken voor het gebruik van de applicatie, de aangewezen drager of het schriftelijk coronatoegangsbewijs bij ministeriële regeling te bepalen persoonsgegevens, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming of [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16), die noodzakelijk zijn om te voldoen aan de eisen en waarborgen, bedoeld in het tweede en vierde lid, en [artikel 58rd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04).
 
 7. De applicatie voor het lezen van het elektronisch of schriftelijk coronatoegangsbewijs maakt de persoonsgegevens uitsluitend gedurende een bij ministeriële regeling te bepalen aantal seconden zichtbaar en vernietigt de persoonsgegevens onmiddellijk daarna.
 
@@ -2087,17 +2097,17 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - a. de aansluiting van de uitvoerder van de test, de toediener van het vaccin of de verklaarder van het herstel op de applicatie voor het tonen van het coronatoegangsbewijs;
 
-- b. het gebruik van de applicatie voor het lezen van het coronatoegangsbewijs door de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01);
+- b. het gebruik van de applicatie voor het lezen van het coronatoegangsbewijs door de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04);
 
-- c. het gebruik van de aangewezen drager door de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel, of de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01); of
+- c. het gebruik van de aangewezen drager door de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel, of de bevoegde of onderwijsinstelling, bedoeld in [artikel 58rd, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04); of
 
-- d. het gebruik van de applicatie voor het tonen van het coronatoegangsbewijs of de aangewezen drager door een persoon waarop een verplichting als bedoeld in [artikel 58rd, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01), rust;
+- d. het gebruik van de applicatie voor het tonen van het coronatoegangsbewijs of de aangewezen drager door een persoon waarop een verplichting als bedoeld in [artikel 58rd, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04), rust;
 
 - e. de beveiliging tegen verlies en onrechtmatige verwerking van persoonsgegevens.
 
 9. Onze Minister maakt door middel van de applicatie voor het tonen van het coronatoegangsbewijs ten minste de volgende informatie toegankelijk:
 
-- a. de wijze waarop bij Onze Minister, het RIVM, de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel of de personen of organisaties die de in [artikel 6ba](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6ba&z=2021-12-01&g=2021-12-01) bedoelde EU-rechtshandelingen uitvoeren een beroep kan worden gedaan op de rechten, bedoeld in de artikelen 12 tot en met 23 en 33 van de Algemene verordening gegevensbescherming en de [artikelen 25 tot en met 34 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=25);
+- a. de wijze waarop bij Onze Minister, het RIVM, de uitvoerder van de test, de toediener van het vaccin, de verklaarder van het herstel of de personen of organisaties die de in [artikel 6ba](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=4&artikel=6ba&z=2021-12-04&g=2021-12-04) bedoelde EU-rechtshandelingen uitvoeren een beroep kan worden gedaan op de rechten, bedoeld in de artikelen 12 tot en met 23 en 33 van de Algemene verordening gegevensbescherming en de [artikelen 25 tot en met 34 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=25);
 
 - b. de wijze waarop een klacht kan worden ingediend bij de Autoriteit Persoonsgegevens of een verzoek tot het instellen van een onderzoek als bedoeld in [artikel 50 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=50) kan worden gedaan bij de Commissie toezicht bescherming persoonsgegevens BES;
 
@@ -2105,23 +2115,23 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 58rf. Ontheffing en vrijstelling
 
-1. Onze Minister kan ontheffing verlenen van het gebruik van de applicatie, bedoeld in [artikel 58re, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), indien het lezen van een coronatoegangsbewijs plaatsvindt als onderdeel van een meeromvattend geautomatiseerd systeem voor het controleren van grote aantallen personen voor deelname aan activiteiten of toegang tot voorzieningen.
+1. Onze Minister kan ontheffing verlenen van het gebruik van de applicatie, bedoeld in [artikel 58re, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), indien het lezen van een coronatoegangsbewijs plaatsvindt als onderdeel van een meeromvattend geautomatiseerd systeem voor het controleren van grote aantallen personen voor deelname aan activiteiten of toegang tot voorzieningen.
 
 2. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden, in ieder geval met betrekking tot de inrichting, het beheer en het gebruik van het systeem en de beveiliging tegen verlies en onrechtmatige verwerking van persoonsgegevens.
 
-3. Indien ontheffing wordt verleend, kan Onze Minister tevens bij ministeriële regeling vrijstelling verlenen van het bepaalde bij of krachtens [artikel 58re, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), indien noodzakelijk om een coronatoegangsbewijs te kunnen lezen met het systeem.
+3. Indien ontheffing wordt verleend, kan Onze Minister tevens bij ministeriële regeling vrijstelling verlenen van het bepaalde bij of krachtens [artikel 58re, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), indien noodzakelijk om een coronatoegangsbewijs te kunnen lezen met het systeem.
 
 4. Aan de vrijstelling kunnen voorschriften en beperkingen worden verbonden, in ieder geval met betrekking tot de eisen aan het coronatoegangsbewijs en de aansluiting van de uitvoerder van de test, de toediener van het vaccin of de verklaarder van het herstel op het systeem en de beveiliging tegen verlies en onrechtmatige verwerking van persoonsgegevens. De voorschriften en beperkingen kunnen voor de verschillende categorieën van het coronatoegangsbewijs verschillen.
 
-5. [Artikel 58re, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-01&g=2021-12-01), is van overeenkomstige toepassing op de verwerking van persoonsgegevens voor de toepassing van het systeem.
+5. [Artikel 58re, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58re&z=2021-12-04&g=2021-12-04), is van overeenkomstige toepassing op de verwerking van persoonsgegevens voor de toepassing van het systeem.
 
 ##### Artikel 58rg. Geneeskundige behandelingsovereenkomst bij uitvoering test
 
-[Artikel 446, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=446) en [artikel 446, vijfde lid, van Boek 7 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&artikel=446) zijn niet van toepassing op het laten uitvoeren van een test met het oogmerk te voldoen aan de verplichting, bedoeld in [artikel 58rd, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-01&g=2021-12-01).
+[Artikel 446, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=446) en [artikel 446, vijfde lid, van Boek 7 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&artikel=446) zijn niet van toepassing op het laten uitvoeren van een test met het oogmerk te voldoen aan de verplichting, bedoeld in [artikel 58rd, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=3a&artikel=58rd&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 58v. Bestuurlijke boete
 
-1. De burgemeester is bevoegd een bestuurlijke boete op te leggen ter handhaving van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-01&g=2021-12-01).
+1. De burgemeester is bevoegd een bestuurlijke boete op te leggen ter handhaving van het bepaalde bij of krachtens [artikel 58nb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=2&artikel=58nb&z=2021-12-04&g=2021-12-04).
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt € 339.
 
@@ -2139,9 +2149,9 @@ Onverminderd [artikel 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 68kb. Bestuurlijke boete BES
 
-1. Op de bevoegdheid tot het opleggen van een bestuurlijke boete ter handhaving van het bepaalde bij of krachtens de in [artikel 58v](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58v&z=2021-12-01&g=2021-12-01) genoemde bepaling zijn de [artikelen 5:5 tot en met 5:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) en [5:40 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40) van toepassing.
+1. Op de bevoegdheid tot het opleggen van een bestuurlijke boete ter handhaving van het bepaalde bij of krachtens de in [artikel 58v](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58v&z=2021-12-04&g=2021-12-04) genoemde bepaling zijn de [artikelen 5:5 tot en met 5:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) en [5:40 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40) van toepassing.
 
-2. De op grond van [artikel 58v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58v&z=2021-12-01&g=2021-12-01), op te leggen bestuurlijke boete bedraagt USD 218.
+2. De op grond van [artikel 58v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va&paragraaf=4&artikel=58v&z=2021-12-04&g=2021-12-04), op te leggen bestuurlijke boete bedraagt USD 218.
 
 ### Hoofdstuk VIII. Overige bepalingen
 
