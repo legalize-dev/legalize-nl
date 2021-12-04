@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2021-11-26"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -58,19 +58,19 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag.
 
-2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-11-26&g=2021-11-26), een dergelijke verlaging of verhoging rechtvaardigen.
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-12-04&g=2021-12-04), een dergelijke verlaging of verhoging rechtvaardigen.
 
-3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-11-26&g=2021-11-26), een dergelijke verlaging of verhoging rechtvaardigen.
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-12-04&g=2021-12-04), een dergelijke verlaging of verhoging rechtvaardigen.
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-11-26&g=2021-11-26) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-12-04&g=2021-12-04) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-11-26&g=2021-11-26), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
+2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2021-12-04&g=2021-12-04), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
 #### § 2. Indeling van overtredingen in categorieën
 
@@ -125,8 +125,8 @@ Vervallen
 | [1:59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:59) | 3 |   |
 | [1:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:67) | 3 |   |
 | [1:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:74) | 2 |   |
-| 1:74, eerste lid, voor zover het inlichtingen betreft voor het opstellen en uitvoeren van een afwikkelingsplan | 3 |   |
-| 1:74, eerste lid, voor overige inlichtingen | 2 |   |
+| [1:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:74), voor zover het inlichtingen betreft voor het opstellen en uitvoeren van een afwikkelingsplan | 3 |   |
+| [1:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:74), voor overige inlichtingen | 2 |   |
 | [1:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), voor zover het betreft de niet-naleving van een met betrekking tot [artikel 4:24a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24a), gegeven aanwijzing | 3 |   |
 | [1:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75a) | 2 |   |
 | [1:76, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76) | 2 |   |
@@ -150,42 +150,42 @@ Vervallen
 |   |   |   |
 | [Deel Markttoegang financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2) |   |   |
 | [2:3.0a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0a) | 2 |   |
-| 2:3.0a, vierde lid | 1 |   |
+| [2:3.0a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0a) | 1 |   |
 | [2:3.0b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0b) | 3 |   |
 | [2:3.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0c) | 2 |   |
 | [2:3.0e](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0e) | 2 | P |
 | [2:3.0f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0f) | 2 |   |
-| [2:3.0f, tweede en vierde lid](onbekend) | 1 |   |
+| [2:3.0f, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0f) | 1 |   |
 | [2:3.0g](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0g) | 3 |   |
 | [2:3.0h](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0h) | 2 |   |
 | [2:3.0j](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0j) | 2 | P |
 | [2:3.0k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0k) | 2 |   |
-| 2:3.0k, tweede en vierde lid | 1 |   |
+| [2:3.0k, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0k) | 1 |   |
 | [2:3.0l](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0l) | 3 |   |
 | [2:3.0m](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0m) | 2 |   |
 | [2:3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) | 3 |   |
 | [2:3e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3e) | 3 |   |
-| 2:3e, tweede lid | 2 |   |
-| 2:3e, derde lid | 2 |   |
+| [2:3e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3e) | 2 |   |
+| [2:3e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3e) | 2 |   |
 | [2:3g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3g) | 3 |   |
 | [2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:4) | 3 |   |
 | [2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6) | 3 |   |
 | [2:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:8) | 3 |   |
 | [2:9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:9) | 1 |   |
 | [2:10, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10) | 1 |   |
-| 2:10, vierde lid | 2 | P |
+| [2:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10) | 2 | P |
 | [2:10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) | 3 |   |
 | [2:10e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e) | 3 |   |
 | [2:10f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10f) | 3 |   |
 | [2:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) | 3 |   |
 | [2:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:15) | 1 |   |
-| 2:15, tweede lid | 2 | P |
+| [2:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:15) | 2 | P |
 | [2:16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:16) | 3 |   |
 | [2:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:18) | 1 |   |
-| 2:18, tweede lid | 2 | P |
+| [2:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:18) | 2 | P |
 | [2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:20) | 3 |   |
 | [2:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:25) | 1 |   |
-| 2:25, tweede lid | 2 | P |
+| [2:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:25) | 2 | P |
 | [2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26) | 2 | P |
 | [2:26a. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26a) | 3 |   |
 | [2:26c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26c) | 3 |   |
@@ -194,21 +194,21 @@ Vervallen
 | [2:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27) | 3 |   |
 | [2:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:35) | 1 |   |
 | [2:36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36) | 3 |   |
-| 2:36, derde en vierde lid | 1 |   |
-| 2:36, vijfde lid | 2 | P |
+| [2:36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36) | 1 |   |
+| [2:36, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36) | 2 | P |
 | [2:38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:38) | 1 |   |
-| 2:38, tweede lid | 2 |   |
+| [2:38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:38) | 2 |   |
 | [2:39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:39) | 1 |   |
 | [2:40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) | 3 |   |
 | [2:45, eerste lid tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45) | 1 |   |
-| 2:45, vijfde lid | 2 | P |
+| [2:45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45) | 2 | P |
 | [2:46, eerste lid tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46) | 1 |   |
 | [2:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) | 3 |   |
 | [2:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) | 3 |   |
 | [2:52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:52) | 1 |   |
 | [2:53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:53) | 1 |   |
 | [2:54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54) | 1 |   |
-| 2:54, vierde lid | 2 | P |
+| [2:54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54) | 2 | P |
 | [2:54a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) | 3 |   |
 | [2:54c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54c) | 3 |   |
 | [2:54d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54d) | 3 |   |
@@ -217,15 +217,18 @@ Vervallen
 | [2:54i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) | 3 |   |
 | [2:54l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) | 3 |   |
 | [2:54n, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54n) | 3 |   |
-| 2:54n, vierde lid | 2 |   |
+| [2:54n, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54n) | 2 |   |
 | [2:540](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o) | 3 |   |
 | [2:54q](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54q) | 3 |   |
 | [2:55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) | 3 |   |
 | [2:60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) | 3 |   |
 | [2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) | 3 |   |
 | [2:66a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a) | 3 |   |
-| 2:66a, zesde lid | 2 |   |
+| [2:66a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a) | 2 |   |
 | [2:67b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67b) | 1 |   |
+| [2:69, eerste, tweede, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) | 3 |   |
+| [2:69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) | 2 |   |
+| [2:69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) | 1 |   |
 | [2:69b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b) | 3 |   |
 | [2:69c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c) | 3 |   |
 | [2:70](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:70) | 3 |   |
@@ -251,7 +254,7 @@ Vervallen
 | [2:103c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:103c) | 3 |   |
 | [2:106.0a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:106.0a) | 1 |   |
 | [2:106a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:106a) | 2 |   |
-| 2:106a, vierde lid | 1 |   |
+| [2:106a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:106a) | 1 |   |
 | [2:107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107) | 1 |   |
 | [2:107a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107a) | 1 |   |
 | [2:108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:108) | 1 |   |
@@ -266,6 +269,7 @@ Vervallen
 | [2:121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121) | 1 |   |
 | [2:121a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121a) | 1 |   |
 | [2:121c, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121c) | 2 |   |
+| [2:121ca, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121ca) | 2 |   |
 | [2:121d, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121d) | 2 |   |
 | [2:121e](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121e) | 3 |   |
 | [2:121f](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121f) | 2 |   |
@@ -274,6 +278,9 @@ Vervallen
 | [2:122, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122) | 1 |   |
 | [2:122a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122a) | 1 |   |
 | [2:123, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:123) | 1 |   |
+| [2:124, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124) | 1 |   |
+| [2:124a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124a) | 1 |   |
+| [2:124.0a, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124.0a) | 2 |   |
 | [2:124b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124b) | 1 |   |
 | [2:125, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125) | 1 |   |
 | [2:125a, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125a) | 1 |   |
@@ -285,20 +292,20 @@ Vervallen
 |   |   |   |
 | [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) |   |   |
 | [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) | 3 |   |
-| 3:5, vierde lid | 2 | P |
+| [3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) | 2 | P |
 | [3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) | 3 |   |
-| 3:6, vierde lid | 2 |   |
+| [3:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) | 2 |   |
 | [3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) | 3 |   |
-| 3:7, vierde lid | 2 |   |
+| [3:7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) | 2 |   |
 | [3:8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) | 3 |   |
-| 3:8, tweede, vierde en vijfde lid | 2 |   |
+| [3:8, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) | 2 |   |
 | [3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) | 3 |   |
 | [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) | 3 |   |
-| 3:10, derde lid | 1 |   |
+| [3:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) | 1 |   |
 | [3:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:15) | 2 |   |
 | [3:16, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16) | 2 |   |
 | [3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) | 3 |   |
-| 3:17, zesde lid | 1 |   |
+| [3:17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) | 1 |   |
 | [3:17a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17a) | 2 |   |
 | [3:17b, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17b) | 2 |   |
 | [3:17c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17c) | 2 |   |
@@ -312,7 +319,7 @@ Vervallen
 | [3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:24) | 2 |   |
 | [3:24.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:24.0b) | 2 |   |
 | [3:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29) | 2 |   |
-| 3:29, tweede lid | 1 |   |
+| [3:29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29) | 1 |   |
 | [3:29b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29b) | 2 |   |
 | [3:29c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29c) | 2 |   |
 | [3:30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:30) | 2 |   |
@@ -322,25 +329,25 @@ Vervallen
 | [3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:35) | 2 | P |
 | [3:35a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:35a) | 2 |   |
 | [3:36, eerste, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:36) | 3 |   |
-| 3:36, derde en zesde lid | 2 |   |
+| [3:36, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:36) | 2 |   |
 | [3:37, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:37) | 2 |   |
 | [3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38) | 2 | P |
 | [3:38a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38a) | 3 |   |
 | [3:39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:39) | 2 | P |
-| 3:39, tweede lid | 2 |   |
+| [3:39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:39) | 2 |   |
 | [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40) | 2 |   |
 | [3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:41) | 1 |   |
 | [3:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:42) | 1 |   |
 | [3:43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:43) | 1 |   |
 | [3:44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:44) | 2 |   |
 | [3:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) | 2 | P |
-| 3:47, tweede, derde, vijfde en zesde lid | 2 |   |
+| [3:47, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) | 2 |   |
 | [3:48](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:48) | 1 |   |
 | [3:51](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:51) | 3 |   |
 | [3:52](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:52) | 1 |   |
 | [3:53, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) | 3 |   |
-| 3:53, tweede lid | 1 |   |
-| 3:53, zesde lid | 3 |   |
+| [3:53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) | 1 |   |
+| [3:53, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) | 3 |   |
 | [3:54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) | 3 |   |
 | [3:55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) | 3 |   |
 | [3:57, eerste, tweede, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) | 3 |   |
@@ -348,31 +355,31 @@ Vervallen
 | [3:59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:59) | 3 |   |
 | [3:62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62) | 3 |   |
 | [3:62a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a) | 2 |   |
-| 3:62a, vijfde lid | 3 |   |
+| [3:62a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a) | 3 |   |
 | [3:62b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62b) | 3 |   |
 | [3:63, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63) | 3 |   |
-| 3:63, derde lid | 3 |   |
+| [3:63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63) | 3 |   |
 | [3:67, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67) | 3 |   |
-| 3:67, derde en vierde lid | 2 | P |
+| [3:67, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67) | 2 | P |
 | [3:68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) | 3 |   |
-| 3:68, derde lid | 2 | P |
+| [3:68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) | 2 | P |
 | [3:68a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68a) | 2 |   |
 | [3:69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69) | 3 |   |
-| 3:69, tweede lid | 2 |   |
+| [3:69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69) | 2 |   |
 | [3:69a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69a) | 2 |   |
 | [3:70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70) | 1 |   |
 | [3:71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71) | 1 |   |
-| 3:71, tweede lid | 2 |   |
+| [3:71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71) | 2 |   |
 | [3:72, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72) | 2 |   |
-| 3:72, derde lid | 2 | P |
-| 3:72, vierde en zesde lid | 1 |   |
+| [3:72, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72) | 2 | P |
+| [3:72, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72) | 1 |   |
 | [3:73](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73) | 1 |   |
 | [3:73a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73a) | 3 |   |
 | [3:73b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73b) | 2 |   |
 | [3:73c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73c) | 2 |   |
 | [3:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74) | 1 |   |
 | [3:74a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74a) | 2 |   |
-| 3:74a, eerste, tweede, derde en vijfde lid | 2 |   |
+| [3:74a, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74a) | 2 |   |
 | [3:74b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74b) | 2 |   |
 | [3:74c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74c) | 2 |   |
 | [3:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:75) | 2 |   |
@@ -387,7 +394,7 @@ Vervallen
 | [3:88, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:88) | 2 |   |
 | [3:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) | 3 |   |
 | [3:96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) | 3 |   |
-| 3:96, vierde lid | 2 |   |
+| [3:96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) | 2 |   |
 | [3:97](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97) | 3 |   |
 | [3:99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) | 2 | P |
 | [3:103](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:103) | 3 |   |
@@ -398,8 +405,8 @@ Vervallen
 | [3:110, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) | 1 |   |
 | [3:111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111) | 2 |   |
 | [3:111a. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111a) | 3 |   |
-| 3:111a, tweede lid | 2 |   |
-| 3:111a, zesde lid | 2 |   |
+| [3:111a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111a) | 2 |   |
+| [3:111a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111a) | 2 |   |
 | [3:111a.0, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111a.0) | 3 |   |
 | [3:111c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111c) | 2 |   |
 | [3:112, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:112) | 2 |   |
@@ -415,8 +422,8 @@ Vervallen
 | [3:131a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:131a) | 2 |   |
 | [3:132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:132) | 2 |   |
 | [3:135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:135) | 2 | P |
-| 3:135, tweede en zesde lid | 2 |   |
-| 3:135, derde lid | 3 |   |
+| [3:135, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:135) | 2 |   |
+| [3:135, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:135) | 3 |   |
 | [3:136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136) | 2 |   |
 | [3:137, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:137) | 3 |   |
 | [3:141, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:141) | 2 | P |
@@ -460,13 +467,13 @@ Vervallen
 | [3:288h, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288h) | 2 |   |
 | [3:288i, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288i) | 2 |   |
 | [3:296, eerste, tweede, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) | 3 |   |
-| 3:296, vierde lid | 2 |   |
+| [3:296, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) | 2 |   |
 | [3:297, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297) | 2 |   |
-| 3:297, vijfde lid | 3 |   |
+| [3:297, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297) | 3 |   |
 | [3:298, eerste, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298) | 2 |   |
-| 3:298, vijfde lid | 3 |   |
+| [3:298, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298) | 3 |   |
 | [3:299, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:299) | 3 |   |
-| 3:299, eerste en tweede lid | 2 |   |
+| [3:299, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:299) | 2 |   |
 | [3:301, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:301) | 2 |   |
 | [3:302, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:302) | 2 |   |
 | [3:303, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:303) | 1 |   |
@@ -490,18 +497,18 @@ Vervallen
 |   |   |   |
 | [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) |   |   |
 | [4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) | 3 |   |
-| 4:3, vierde lid | 2 |   |
+| [4:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) | 2 |   |
 | [4:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:4) | 3 |   |
 | [4:4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:4a) | 3 |   |
 | [4:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:5) | 1 |   |
 | [4:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:6) | 2 |   |
 | [4:6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:6a) | 1 |   |
 | [4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) | 3 |   |
-| 4:9, tweede en derde lid | 2 |   |
+| [4:9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) | 2 |   |
 | [4:9.0a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9.0a) | 3 |   |
 | [4:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10) | 3 |   |
 | [4:11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11) | 3 |   |
-| 4:11, vierde lid | 1 |   |
+| [4:11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11) | 1 |   |
 | [4:13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:13) | 2 |   |
 | [4:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) | 3 |   |
 | [4:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) | 2 | P |
@@ -520,12 +527,12 @@ Vervallen
 | [4:22a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22a) | 2 |   |
 | [4:23, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) | 2 | P |
 | [4:24, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24) | 2 | P |
-| 4:24, tweede lid | 3 |   |
+| [4:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24) | 3 |   |
 | [4:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25) | 2 |   |
 | [4:25b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25b) | 2 |   |
 | [4:25d](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25d) | 2 |   |
-| [4:26, eerste en derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:26) | 2 |   |
-| 4:26, tweede lid | 1 |   |
+| [4:26, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:26) | 2 |   |
+| [4:26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:26) | 1 |   |
 | [4:27, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:27) | 2 |   |
 | [4:29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:29) | 2 |   |
 | [4:30a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:30a) | 2 |   |
@@ -555,15 +562,15 @@ Vervallen
 | [4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:42) | 2 | P |
 | [4:44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:44) | 2 |   |
 | [4:46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:46) | 2 |   |
-| 4:46, tweede tot en met vierde lid | 1 |   |
+| [4:46, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:46) | 1 |   |
 | [4:46a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:46a) | 1 |   |
 | [4:47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:47) | 1 |   |
-| 4:47, derde en vierde lid | 2 |   |
+| [4:47, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:47) | 2 |   |
 | [4:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48) | 1 |   |
 | [4:49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49) | 2 | P |
-| 4:49, tweede tot en met vierde lid | 2 |   |
+| [4:49, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49) | 2 |   |
 | [4:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:50) | 1 |   |
-| 4:50, tweede lid | 2 |   |
+| [4:50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:50) | 2 |   |
 | [4:51, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:51) | 1 |   |
 | [4:52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:52) | 2 |   |
 | [4:52a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:52a) | 1 |   |
@@ -579,10 +586,10 @@ Vervallen
 | [4:59d, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:59d) | 2 |   |
 | [4:59e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:59e) | 2 |   |
 | [4:60, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:60) | 2 |   |
-| 4:60, derde lid | 2 | P |
+| [4:60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:60) | 2 | P |
 | [4:61a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61a) | 2 |   |
 | [4:61b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61b) | 2 |   |
-| [4:62, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62) | 2 |   |
+| [4:62, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62) | 2 |   |
 | [4:62b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62b) | 2 |   |
 | [4:62e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62e) | 2 |   |
 | [4:62f, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62f) | 2 |   |
@@ -616,9 +623,9 @@ Vervallen
 | [4:71f](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71f) | 2 |   |
 | [4:71g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71g) | 2 |   |
 | [4:71h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71h) | 2 |   |
-| 4:71h, derde lid | 1 |   |
+| [4:71h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71h) | 1 |   |
 | [4:71i, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71i) | 2 |   |
-| 4:71i, vierde lid | 1 |   |
+| [4:71i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71i) | 1 |   |
 | [4:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74) | 2 | P |
 | [4:74a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74a) | 3 |   |
 | [4:74b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74b) | 2 |   |
@@ -631,14 +638,14 @@ Vervallen
 | [4:76c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76c) | 2 |   |
 | [4:76d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76d) | 2 |   |
 | [4:77, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:77) | 2 |   |
-| 4:77, derde lid | 1 |   |
+| [4:77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:77) | 1 |   |
 | [4:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79) | 1 |   |
 | [4:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:83) | 2 |   |
 | [4:84, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:84) | 2 |   |
 | [4:85, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:85) | 1 |   |
-| 4:85, vijfde lid | 2 |   |
+| [4:85, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:85) | 2 |   |
 | [4:87, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) | 2 | P |
-| 4:87, vierde lid | 2 |   |
+| [4:87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) | 2 |   |
 | [4:87a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87a) | 2 |   |
 | [4:88, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88) | 1 |   |
 | [4:89, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89) | 2 |   |
@@ -666,15 +673,15 @@ Vervallen
 | [4:91p](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:91p) | 2 |   |
 | [4:93, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:93) | 2 |   |
 | [4:94, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:94) | 2 | P |
-| 4:94, tweede lid | 1 |   |
+| [4:94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:94) | 1 |   |
 | [4:95, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:95) | 2 | P |
-| 4:95, tweede lid | 1 |   |
+| [4:95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:95) | 1 |   |
 | [4:96, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:96) | 2 | P |
 | [4:97, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:97) | 2 |   |
 | [4:99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99) | 1 |   |
 | [4:100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100) | 2 |   |
-| 4:100, tweede lid | 1 |   |
-| 4:100, derde lid | 2 | P |
+| [4:100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100) | 1 |   |
+| [4:100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100) | 2 | P |
 | [4:100a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100a) | 2 |   |
 | [4:100b, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100b) | 2 |   |
 | [4:100c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100c) | 2 | P |
@@ -688,7 +695,7 @@ Vervallen
 | [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4) | 3 |   |
 | [5:25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25a) | 2 |   |
 | [5:25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) | 3 (€ 10.000.000) |   |
-| 5:25c, zesde tot en met negende lid | 3 |   |
+| [5:25c, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) | 3 |   |
 | [5:25d, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) | 3 (€ 10.000.000) |   |
 | [5:25e](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e) | 3 (€ 10.000.000) |   |
 | [5:25h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25h) | 3 (€ 10.000.000) |   |
@@ -703,7 +710,7 @@ Vervallen
 | [5:29, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29) | 2 |   |
 | [5:29a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29a) | 3 |   |
 | [5:30](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30) | 2 |   |
-| 5:30, derde lid | 3 |   |
+| [5:30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30) | 3 |   |
 | [5:30a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a) | 2 |   |
 | [5:30b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30b) | 2 |   |
 | [5:30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30c) | 2 |   |
@@ -711,7 +718,7 @@ Vervallen
 | [5:30e](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30e) | 2 |   |
 | [5:31, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:31) | 2 |   |
 | [5:32, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32) | 3 |   |
-| 5:32, vierde lid | 2 |   |
+| [5:32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32) | 2 |   |
 | [5:32a, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32a) | 2 |   |
 | [5:32b, eerste tot en met het derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32b) | 2 |   |
 | [5:32c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32c) | 2 |   |
@@ -727,9 +734,9 @@ Vervallen
 | [5:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35) | 2 | P |
 | [5:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36) | 3 |   |
 | [5:38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38) | 3 (€ 10.000.000) | P |
-| 5:38, derde lid | 3 (€ 10.000.000) |   |
+| [5:38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38) | 3 (€ 10.000.000) |   |
 | [5:39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) | 3 (€ 10.000.000) | P |
-| 5:39, tweede lid | 3 (€ 10.000.000) |   |
+| [5:39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) | 3 (€ 10.000.000) |   |
 | [5:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:40) | 2 | P |
 | [5:41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:41) | 3 (€ 10.000.000) |   |
 | [5:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:42) | 2 | P |
@@ -747,23 +754,23 @@ Vervallen
 | [5:62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:62) | 2 | P |
 | [5:63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:63) | 2 |   |
 | [5:64, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:64) | 2 | P |
-| 5:64, derde lid | 1 |   |
+| [5:64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:64) | 1 |   |
 | [5:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:65) | 1 |   |
 | [5:68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) | 2 |   |
 | [5:70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) | 2 |   |
 | [5:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74) | 3 |   |
-| 5:74, derde en vierde lid | 2 |   |
+| [5:74, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74) | 2 |   |
 | [5:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:78) | 1 |   |
 | [5:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:79) | 3 |   |
 | [5:80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80) | 2 |   |
 | [5:80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80a) | 2 |   |
-| 5:80a, vierde lid | 1 |   |
+| [5:80a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80a) | 1 |   |
 | [5:81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81) | 2 |   |
 | [5:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:86) | 2 |   |
-| 5:86, tweede lid | 1 |   |
+| [5:86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:86) | 1 |   |
 | [artikel 5:88, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:88) | 3 |   |
 | [5:88a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:88a) | 3 |   |
-| 5:88a, tweede lid | 1 |   |
+| [5:88a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:88a) | 1 |   |
 |   |   |   |
 | [Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414) |   |   |
 | [2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=2a) | 2 |   |
@@ -797,7 +804,7 @@ Vervallen
 | [13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=13) | 2 |   |
 | [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=13a) | 2 |   |
 | [14, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=14) | 2 |   |
-| 14, vijfde lid | 3 |   |
+| [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=14) | 3 |   |
 | [15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=15) | 2 |   |
 | [16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=16) | 2 |   |
 | [17, eerste tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17) | 2 |   |
@@ -816,15 +823,15 @@ Vervallen
 | [23d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23d) | 3 |   |
 | [23e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23e) | 3 |   |
 | [23f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23f) | 3 |   |
-| 23f, tweede lid | 2 |   |
+| [23f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23f) | 2 |   |
 | [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23g) | 3 |   |
 | [23h](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23h) | 3 |   |
 | [23i](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23i) | 2 |   |
 | [23j, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23j) | 2 |   |
 | [24, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24) | 2 |   |
 | [24a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a) | 2 |   |
-| [24a1](onbekend) | 3 |   |
-| [24a2](onbekend) | 3 |   |
+| [24a1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a1) | 3 |   |
+| [24a2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a2) | 3 |   |
 | [24b, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24b) | 2 |   |
 | [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=25) | 2 |   |
 | [25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=25a) | 2 |   |
@@ -845,7 +852,7 @@ Vervallen
 | [26d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26d) | 2 |   |
 | [26e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26e) | 2 |   |
 | [26f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26f) | 2 |   |
-| 26f, derde lid | 1 |   |
+| [26f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26f) | 1 |   |
 | [26g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26g) | 1 |   |
 | [26h, eerste, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26h) | 2 |   |
 | [26i, tweede tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26i) | 2 |   |
@@ -859,18 +866,18 @@ Vervallen
 | [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=29), | 2 |   |
 | [30](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=30), | 2 |   |
 | [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=31) | 1 |   |
-| 31, tweede lid | 2 |   |
+| [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=31) | 2 |   |
 | [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=32b) | 1 |   |
 | [33, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=33) | 1 |   |
 | [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=34) | 2 |   |
-| 34, tweede lid | 1 |   |
+| [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=34) | 1 |   |
 | [35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=35) | 1 |   |
 | [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=36) | 1 |   |
 | [37, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=37) | 1 |   |
 | [38, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=38) | 1 |   |
 | [39, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=39) | 2 |   |
 | [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40) | 2 |   |
-| 40, tweede lid | 1 |   |
+| [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40) | 1 |   |
 | [40a, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40a) | 2 |   |
 | [40b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40b) | 3 |   |
 | [40d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d) | 2 |   |
@@ -884,7 +891,7 @@ Vervallen
 | [44, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=44) | 1 |   |
 | [45, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=45) | 1 |   |
 | [47, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=47) | 1 |   |
-| 47, vierde lid | 2 |   |
+| [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=47) | 2 |   |
 | [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=48) | 3 |   |
 | [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=49) | 2 |   |
 | [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=49a) | 2 |   |
@@ -935,7 +942,7 @@ Vervallen
 | [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2a) | 2 |   |
 | [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2b) | 2 |   |
 | [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=3) | 2 |   |
-| 3. vierde lid | 1 |   |
+| [3. vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=3) | 1 |   |
 | 3a | 2 |   |
 | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=4) | 1 |   |
 | [17, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=17) | 2 |   |
@@ -961,17 +968,17 @@ Vervallen
 | [31d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31d) | 2 |   |
 | [31e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31e) | 2 |   |
 | [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31g) | 1 |   |
-| [31ga](onbekend) | 3 |   |
+| [31ga](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31ga) | 3 |   |
 | [31h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31h) | 2 |   |
 | [31i](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31i) | 2 |   |
 | [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32) | 2 |   |
-| 32, derde lid | 1 |   |
-| 32, vierde lid | 3 |   |
+| [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32) | 1 |   |
+| [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32) | 3 |   |
 | [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32a) | 2 |   |
-| 32a, eerste tot en met derde en vijfde lid | 1 |   |
+| [32a, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32a) | 1 |   |
 | [32b, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32b) | 2 |   |
-| 32b, zevende en achtste lid | 1 |   |
-| 32b, negende lid | 2 |   |
+| [32b, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32b) | 1 |   |
+| [32b, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32b) | 2 |   |
 | [32c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32c) | 2 |   |
 | [32d, eerste tot en met derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32d) | 1 |   |
 | [32e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=32e) | 2 |   |
@@ -987,7 +994,7 @@ Vervallen
 |   |   |   |
 | [34g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=34g) | 1 |   |
 | [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35) | 3 |   |
-| 35, derde lid | 2 |   |
+| [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35) | 2 |   |
 | [35.0a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35.0a) | 2 |   |
 | [35a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35a) | 2 |   |
 | [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35b) | 2 |   |
@@ -998,7 +1005,7 @@ Vervallen
 | [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=37) | 3 |   |
 | [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=37a) | 2 |   |
 | [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38) | 2 |   |
-| 38, derde lid | 1 |   |
+| [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38) | 1 |   |
 | [38a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38a) | 3 |   |
 | [38g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38g) | 2 |   |
 | [38h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38h) | 3 |   |
@@ -1006,7 +1013,7 @@ Vervallen
 | [38j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=38j) | 2 |   |
 | [40](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=40) | 1 |   |
 | [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=41) | 2 |   |
-| 41, tweede lid | 1 |   |
+| [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=41) | 1 |   |
 | [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=42) | 2 |   |
 | [43, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=43) | 2 |   |
 | [43a, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=43a) | 2 |   |
@@ -1086,18 +1093,18 @@ Vervallen
 | [85](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=85) | 2 |   |
 | [86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86) | 2 |   |
 | [86c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86c) | 3 |   |
-| 86c, derde lid | 2 |   |
+| [86c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86c) | 2 |   |
 | [86d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86d) | 3 |   |
 | [86e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86e) | 3 |   |
 | [86ea, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86ea) | 2 |   |
 | [86f, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) | 2 |   |
-| 86f, vijfde lid | 1 |   |
+| [86f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) | 1 |   |
 | [86g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86g) | 2 |   |
 | [86h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86h) | 2 |   |
 | [86i, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86i) | 2 |   |
 | [86ia](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86ia) | 2 |   |
 | [86k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86k) | 3 |   |
-| 86k, vierde lid | 2 |   |
+| [86k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86k) | 2 |   |
 | [86l, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86l) | 2 |   |
 | [86m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86m) | 2 |   |
 | [88, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=88) | 2 |   |
@@ -1109,7 +1116,7 @@ Vervallen
 | [92, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=92) | 1 |   |
 | [92a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=92a) | 1 |   |
 | [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=94) | 2 |   |
-| 94, tweede lid | 1 |   |
+| [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=94) | 1 |   |
 | [95, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=95) | 1 |   |
 | [96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=96) | 1 |   |
 | [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=97) | 1 |   |
@@ -1117,7 +1124,7 @@ Vervallen
 | [99, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=99) | 1 |   |
 | [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=100) | 1 |   |
 | [102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=102) | 2 |   |
-| 102, tweede lid | 1 |   |
+| [102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=102) | 1 |   |
 | [103, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=103) | 1 |   |
 | [104](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=104) | 1 |   |
 | [105](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=105) | 1 |   |
@@ -1154,7 +1161,8 @@ Vervallen
 | [115bb](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115bb) | 1 |   |
 | [115cc](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115cc) | 2 |   |
 | [115dd](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115dd) | 2 |   |
-| 115ee | 2 |   |
+| [115ee](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115ee) | 2 |   |
+| [artikel 115ee, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115ee) | 2 |   |
 | 115ff | 2 |   |
 | [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=117) | 2 |   |
 | [118, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=118) | 1 |   |
@@ -1165,15 +1173,15 @@ Vervallen
 | [123, eerste en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=123) | 2 |   |
 | [124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=124) | 2 |   |
 | [125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=125) | 2 |   |
-| 125, derde lid | 1 |   |
+| [125, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=125) | 1 |   |
 | [126a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126a) | 2 |   |
 | [126b, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126b) | 2 |   |
 | [126c, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126c) | 2 |   |
 | [126d, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126d) | 2 |   |
 | [126e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126e) | 2 |   |
-| 126e, derde lid | 3 |   |
+| [126e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126e) | 3 |   |
 | [126f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126f) | 3 |   |
-| 126f, tweede lid | 2 |   |
+| [126f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126f) | 2 |   |
 | [126g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126g) | 2 |   |
 | [126h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126h) | 2 |   |
 | [126i, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=126i) | 2 |   |
@@ -1206,7 +1214,7 @@ Vervallen
 | [147g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147g) | 2 |   |
 | [147h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147h) | 1 |   |
 | [147i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147i) | 2 |   |
-| 147i, tweede lid | 1 |   |
+| [147i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147i) | 1 |   |
 | [147j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147j) | 2 |   |
 | [147k](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147k) | 2 |   |
 | [147l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147l) | 2 |   |
@@ -1220,7 +1228,7 @@ Vervallen
 | [147u](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147u) | 2 |   |
 | [147v](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147v) | 2 |   |
 | [147w, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147w) | 2 |   |
-| 147w, derde lid | 1 |   |
+| [147w, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147w) | 1 |   |
 | [147x, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147x) | 2 |   |
 | [147y, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147y) | 2 |   |
 | [147z, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=147z) | 2 |   |
@@ -1249,9 +1257,9 @@ Vervallen
 | [165, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165) | 2 |   |
 | [165a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165a) | 2 |   |
 | [165b, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165b) | 2 |   |
-| 165b, zesde lid | 1 |   |
+| [165b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165b) | 1 |   |
 | [165c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165c) | 3 |   |
-| 165c, derde tot en met vijfde lid | 2 |   |
+| [165c, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165c) | 2 |   |
 | [165d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165d) | 2 |   |
 | [165e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165e) | 2 |   |
 | [165f, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165f) | 2 |   |
@@ -1261,10 +1269,10 @@ Vervallen
 | [167a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=167a) | 2 |   |
 | [168, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168) | 2 |   |
 | [168a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168a) | 3 |   |
-| 168a, vierde lid | 1 |   |
+| [168a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168a) | 1 |   |
 | [168aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168aa) | 3 |   |
-| 168aa, tweede en derde lid | 2 |   |
-| 168aa, vierde en achtste lid | 1 |   |
+| [168aa, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168aa) | 2 |   |
+| [168aa, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=168aa) | 1 |   |
 | [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=174) | 2 |   |
 |   |   |   |
 | [Besluit gereglementeerde markten Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022748) |   |   |
@@ -1306,7 +1314,7 @@ Vervallen
 | [VII, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020750&artikel=VII) | 3 |   |
 | [X, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020750&artikel=X) | 2 |   |
 | [XI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020750&artikel=XI) | 3 |   |
-| XI, derde lid | 2 |   |
+| [XI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020750&artikel=XI) | 2 |   |
 |   |   |   |
 | [Besluit marktmisbruik Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020417) |   |   |
 | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&artikel=2) | 2 (€ 2.500.000; 5%) |   |
@@ -1336,12 +1344,12 @@ Vervallen
 | [5b, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=5b) | 2 |   |
 | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=6), | 2 |   |
 | [7, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=7) | 2 |   |
-| 7, zevende tot en met tiende lid | 3 |   |
+| [7, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=7) | 3 |   |
 | [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=9a), | 3 |   |
 | [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=10), | 2 |   |
 | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=11), | 2 |   |
 | [12, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=12) | 2 |   |
-| 12, vierde lid | 3 |   |
+| [12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=12) | 3 |   |
 | [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=13), | 2 |   |
 | [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=14), | 2 |   |
 | [15, eerste tot en met vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=15) | 2 |   |
@@ -1733,7 +1741,7 @@ Dit besluit berust mede op de [artikelen 1:81, derde lid](https://wetten.overhei
 
 ##### Artikel 3a
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-11-26&g=2021-11-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2021-11-26&g=2021-11-26) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2021-12-04&g=2021-12-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2021-12-04&g=2021-12-04) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
 
 #### § 2. Indeling van overtredingen in categorieën, bijzondere boetemaxima en bijzondere termijnen openbaarmaking
 
