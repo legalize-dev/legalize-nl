@@ -4,7 +4,7 @@ identifier: "BWBV0001489"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-06-13"
-last_updated: "2021-04-21"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001489"
 soort: "verdrag"
@@ -228,11 +228,11 @@ Voor de toepassing van dit Statuut wordt verstaan onder genocide elk van de volg
 
 - xix. gebruik van kogels die in het menselijk lichaam gemakkelijk in omvang toenemen of platter en breder worden, zoals kogels met een harde mantel die de kern gedeeltelijk onbedekt laat of voorzien is van inkepingen;
 
-- xx. gebruik van wapens, projectielen en materieel en methoden van oorlogvoering die de eigenschap hebben overbodig letsel of nodeloos lijden te veroorzaken of die van zichzelf geen onderscheid maken waardoor zij in strijd zijn met het internationale recht inzake gewapende conflicten, mits dergelijke wapens, projectielen en materieel en methoden van oorlogvoering vallen onder een algeheel verbod en zijn opgenomen in een bijlage bij dit Statuut, krachtens een amendement overeenkomstig de desbetreffende bepalingen in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-04-21&g=2021-04-21) en [123](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2021-04-21&g=2021-04-21);
+- xx. gebruik van wapens, projectielen en materieel en methoden van oorlogvoering die de eigenschap hebben overbodig letsel of nodeloos lijden te veroorzaken of die van zichzelf geen onderscheid maken waardoor zij in strijd zijn met het internationale recht inzake gewapende conflicten, mits dergelijke wapens, projectielen en materieel en methoden van oorlogvoering vallen onder een algeheel verbod en zijn opgenomen in een bijlage bij dit Statuut, krachtens een amendement overeenkomstig de desbetreffende bepalingen in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-12-04&g=2021-12-04) en [123](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2021-12-04&g=2021-12-04);
 
 - xxi. wandaden begaan tegen de persoonlijke waardigheid, in het bijzonder vernederende en onterende behandeling;
 
-- xxii. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige inbreuk op de Verdragen van Genève oplevert;
+- xxii. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige inbreuk op de Verdragen van Genève oplevert;
 
 - xxiii. gebruikmaken van de aanwezigheid van een burger of een andere beschermde persoon teneinde bepaalde punten, gebieden of strijdkrachten te vrijwaren van militaire operaties;
 
@@ -272,7 +272,7 @@ Voor de toepassing van dit Statuut wordt verstaan onder genocide elk van de volg
 
 - v. een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen;
 
-- vi. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige schending zijn van gemeenschappelijk artikel 3 van de vier Verdragen van Genève;
+- vi. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige schending zijn van gemeenschappelijk artikel 3 van de vier Verdragen van Genève;
 
 - vii. kinderen beneden de leeftijd van vijftien jaar bij strijdkrachten of groepen onder de wapenen roepen of in militaire dienst nemen dan wel hen gebruiken voor actieve deelname aan vijandelijkheden;
 
@@ -296,7 +296,9 @@ Voor de toepassing van dit Statuut wordt verstaan onder genocide elk van de volg
 
 - xvii. gebruik van wapens met als voornaamste gevolg het veroorzaken van verwondingen door fragmenten die in het menselijk lichaam niet met röntgenstralen kunnen worden ontdekt;
 
-- xviii. gebruik van laserwapens die speciaal zodanig zijn ontworpen dat hun enige gevechtsfunctie of een van hun gevechtsfuncties is het veroorzaken van blijvende blindheid bij onversterkt gezichtsvermogen, dat wil zeggen aan het blote oog of het oog met een corrigerende bril of lens.
+- xviii. gebruik van laserwapens die speciaal zodanig zijn ontworpen dat hun enige gevechtsfunctie of een van hun gevechtsfuncties is het veroorzaken van blijvende blindheid bij onversterkt gezichtsvermogen, dat wil zeggen aan het blote oog of het oog met een corrigerende bril of lens;
+
+- xix. opzettelijk gebruikmaken van uithongering van burgers als methode van oorlogsvoering door hun voorwerpen te onthouden die onontbeerlijk zijn voor hun overleving, waaronder het opzettelijk belemmeren van de aanvoer van hulpgoederen.
 
 - f. Het tweede lid, onder e, geldt voor gewapende conflicten die niet internationaal van aard zijn en geldt derhalve niet voor gevallen van interne onlusten en spanningen zoals oproer, geïsoleerde en sporadische gewelddadigheden of andere handelingen van vergelijkbare aard. Het geldt voor gewapende conflicten die plaatsvinden op het grondgebied van een Staat in het geval van een langdurig gewapend conflict tussen overheidsautoriteiten en georganiseerde gewapende groepen of tussen deze groepen onderling.
 
@@ -304,7 +306,7 @@ Voor de toepassing van dit Statuut wordt verstaan onder genocide elk van de volg
 
 ##### Artikel 9. Elementen van Misdrijven
 
-1. Elementen van misdrijven helpen het Hof bij de interpretatie en toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-04-21&g=2021-04-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-04-21&g=2021-04-21) en [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2021-04-21&g=2021-04-21). Zij worden aangenomen met een tweederde meerderheid van de leden van de Vergadering van de Staten die Partij zijn.
+1. Elementen van misdrijven helpen het Hof bij de interpretatie en toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-12-04&g=2021-12-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-12-04&g=2021-12-04) en [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2021-12-04&g=2021-12-04). Zij worden aangenomen met een tweederde meerderheid van de leden van de Vergadering van de Staten die Partij zijn.
 
 2. Wijzigingen in de elementen van misdrijven kunnen worden voorgesteld door:
 
@@ -326,29 +328,29 @@ Niets in dit deel wordt zodanig uitgelegd dat daarmee, op welke wijze dan ook, e
 
 1. Het Hof bezit alleen rechtsmacht met betrekking tot misdrijven die zijn begaan na inwerkingtreding van dit Statuut.
 
-2. Indien een Staat Partij wordt bij dit Statuut na de inwerkingtreding daarvan, is het Hof slechts bevoegd zijn rechtsmacht uit te oefenen met betrekking tot misdrijven die zijn begaan na de inwerkingtreding van dit Statuut voor die Staat, tenzij die Staat een verklaring ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-04-21&g=2021-04-21), heeft afgelegd.
+2. Indien een Staat Partij wordt bij dit Statuut na de inwerkingtreding daarvan, is het Hof slechts bevoegd zijn rechtsmacht uit te oefenen met betrekking tot misdrijven die zijn begaan na de inwerkingtreding van dit Statuut voor die Staat, tenzij die Staat een verklaring ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-12-04&g=2021-12-04), heeft afgelegd.
 
 ##### Artikel 12. Voorwaarden voor de uitoefening van rechtsmacht
 
-1. Een Staat die Partij wordt bij dit Statuut aanvaardt daardoor de rechtsmacht van het Hof met betrekking tot de misdrijven bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21).
+1. Een Staat die Partij wordt bij dit Statuut aanvaardt daardoor de rechtsmacht van het Hof met betrekking tot de misdrijven bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04).
 
-2. In het geval bedoeld in [artikel 13, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), is het Hof bevoegd zijn rechtsmacht uit te oefenen indien een of meer van de volgende Staten partij zijn bij dit Statuut of de rechtsmacht van het Hof hebben aanvaard overeenkomstig het derde lid:
+2. In het geval bedoeld in [artikel 13, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), is het Hof bevoegd zijn rechtsmacht uit te oefenen indien een of meer van de volgende Staten partij zijn bij dit Statuut of de rechtsmacht van het Hof hebben aanvaard overeenkomstig het derde lid:
 
 - a. de Staat op wiens grondgebied de desbetreffende gedragingen plaatsvonden of, indien het misdrijf werd begaan aan boord van een schip of luchtvaartuig, de Staat van registratie van dat schip of luchtvaartuig;
 
 - b. de Staat waarvan de persoon die van het misdrijf wordt beschuldigd onderdaan is.
 
-3. Indien de aanvaarding door een Staat die geen partij is bij dit Statuut is vereist ingevolge het tweede lid, kan die Staat, door middel van een verklaring die bij de Griffier wordt neergelegd, de uitoefening van rechtsmacht door het Hof aanvaarden met betrekking tot het desbetreffende misdrijf. De Staat die de uitoefening van rechtsmacht aanvaardt werkt zonder vertraging of uitzondering samen met het Hof overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21).
+3. Indien de aanvaarding door een Staat die geen partij is bij dit Statuut is vereist ingevolge het tweede lid, kan die Staat, door middel van een verklaring die bij de Griffier wordt neergelegd, de uitoefening van rechtsmacht door het Hof aanvaarden met betrekking tot het desbetreffende misdrijf. De Staat die de uitoefening van rechtsmacht aanvaardt werkt zonder vertraging of uitzondering samen met het Hof overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 13. Uitoefening van rechtsmacht
 
-Het Hof is bevoegd zijn rechtsmacht uit te oefenen met betrekking tot een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21) overeenkomstig de bepalingen van dit Statuut, indien:
+Het Hof is bevoegd zijn rechtsmacht uit te oefenen met betrekking tot een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04) overeenkomstig de bepalingen van dit Statuut, indien:
 
-- a. een situatie waarin een of meer van deze misdrijven lijken te zijn begaan, overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-04-21&g=2021-04-21) bij de Aanklager wordt aangegeven door een Staat die Partij is;
+- a. een situatie waarin een of meer van deze misdrijven lijken te zijn begaan, overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-12-04&g=2021-12-04) bij de Aanklager wordt aangegeven door een Staat die Partij is;
 
 - b. een situatie waarin een of meer van deze misdrijven lijken te zijn begaan, bij de Aanklager wordt aangegeven door de Veiligheidsraad, handelend krachtens [Hoofdstuk VII van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII); of
 
-- c. de Aanklager een onderzoek heeft geopend met betrekking tot dit misdrijf overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-04-21&g=2021-04-21).
+- c. de Aanklager een onderzoek heeft geopend met betrekking tot dit misdrijf overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 14. Aangiften van een situatie door een Staat die Partij is
 
@@ -376,19 +378,19 @@ Geen onderzoek of vervolging kan worden aangevangen of voortgezet krachtens dit 
 
 ##### Artikel 17. Vragen met betrekking tot ontvankelijkheid
 
-1. Gelet op het tiende lid van de Preambule en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=1&z=2021-04-21&g=2021-04-21) besluit het Hof tot niet-ontvankelijkheid van een zaak indien:
+1. Gelet op het tiende lid van de Preambule en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=1&z=2021-12-04&g=2021-12-04) besluit het Hof tot niet-ontvankelijkheid van een zaak indien:
 
 - a. in de zaak onderzoek of vervolging plaatsvindt door een Staat die ter zake rechtsmacht heeft, tenzij de Staat niet bereid of niet bij machte is het onderzoek of de vervolging daadwerkelijk uit te voeren;
 
 - b. in de zaak een onderzoek is verricht door een Staat die ter zake rechtsmacht heeft en de Staat besloten heeft de betrokken persoon niet te vervolgen, tenzij het besluit het gevolg was van het niet bereid of niet bij machte zijn van de Staat de vervolging daadwerkelijk uit te voeren;
 
-- c. de betrokken persoon reeds terecht heeft gestaan voor gedragingen waarop de klacht betrekking heeft, en terechtstaan voor het Hof niet is toegestaan ingevolge [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2021-04-21&g=2021-04-21);
+- c. de betrokken persoon reeds terecht heeft gestaan voor gedragingen waarop de klacht betrekking heeft, en terechtstaan voor het Hof niet is toegestaan ingevolge [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2021-12-04&g=2021-12-04);
 
 - d. de zaak niet voldoende ernstig is om verdere stappen van het Hof te rechtvaardigen.
 
 2. Bij de vaststelling of sprake is van het ontbreken van bereidheid in een bepaalde zaak beoordeelt het Hof, met inachtneming van de in het internationale recht erkende beginselen van een behoorlijke rechtsgang, of een of meer van de volgende omstandigheden zich voordoen:
 
-- a. tot de procedure werd of wordt overgegaan of het nationale besluit werd genomen teneinde de betrokken persoon af te schermen tegen strafrechtelijke aansprakelijkheid voor misdrijven waarover het Hof rechtsmacht bezit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21);
+- a. tot de procedure werd of wordt overgegaan of het nationale besluit werd genomen teneinde de betrokken persoon af te schermen tegen strafrechtelijke aansprakelijkheid voor misdrijven waarover het Hof rechtsmacht bezit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04);
 
 - b. er is sprake van ongerechtvaardigde vertraging in de procedure die, onder de omstandigheden, niet verenigbaar is met het voornemen de betrokken persoon terecht te doen staan;
 
@@ -398,63 +400,63 @@ Geen onderzoek of vervolging kan worden aangevangen of voortgezet krachtens dit 
 
 ##### Artikel 18. Voorafgaande beslissingen met betrekking tot ontvankelijkheid
 
-1. Wanneer aangifte is gedaan van een situatie bij het Hof ingevolge [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), en de Aanklager heeft bepaald dat er een redelijke basis is om een onderzoek te openen, of de Aanklager opent een onderzoek ingevolge artikel 13, onder c, en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-04-21&g=2021-04-21), stelt de Aanklager alle Staten die Partij zijn hiervan in kennis, alsmede die Staten die, de beschikbare informatie in aanmerking nemende, normaliter rechtsmacht zouden uitoefenen ter zake van de betrokken misdrijven. De Aanklager is bevoegd de kennisgeving op vertrouwelijke basis aan deze Staten te verstrekken en de omvang van de aan Staten te verstrekken informatie te beperken als de Aanklager dit noodzakelijk acht ter bescherming van personen, of teneinde vernietiging van bewijsmateriaal te voorkomen of personen het vluchten te beletten.
+1. Wanneer aangifte is gedaan van een situatie bij het Hof ingevolge [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), en de Aanklager heeft bepaald dat er een redelijke basis is om een onderzoek te openen, of de Aanklager opent een onderzoek ingevolge artikel 13, onder c, en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-12-04&g=2021-12-04), stelt de Aanklager alle Staten die Partij zijn hiervan in kennis, alsmede die Staten die, de beschikbare informatie in aanmerking nemende, normaliter rechtsmacht zouden uitoefenen ter zake van de betrokken misdrijven. De Aanklager is bevoegd de kennisgeving op vertrouwelijke basis aan deze Staten te verstrekken en de omvang van de aan Staten te verstrekken informatie te beperken als de Aanklager dit noodzakelijk acht ter bescherming van personen, of teneinde vernietiging van bewijsmateriaal te voorkomen of personen het vluchten te beletten.
 
-2. Binnen een maand na ontvangst van die kennisgeving kan een Staat het Hof meedelen dat hij een onderzoek instelt of heeft ingesteld met betrekking tot zijn onderdanen of anderen waarover hij rechtsmacht bezit inzake strafbare handelingen die misdrijven kunnen opleveren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21) en betrekking hebben op de informatie die is verstrekt in de aan Staten gerichte kennisgeving. Op verzoek van die Staat besluit de Aanklager tot opschorting ten gunste van het onderzoek van de Staat naar die personen, tenzij de Kamer van vooronderzoek op verzoek van de Aanklager besluit tot machtiging voor het onderzoek.
+2. Binnen een maand na ontvangst van die kennisgeving kan een Staat het Hof meedelen dat hij een onderzoek instelt of heeft ingesteld met betrekking tot zijn onderdanen of anderen waarover hij rechtsmacht bezit inzake strafbare handelingen die misdrijven kunnen opleveren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04) en betrekking hebben op de informatie die is verstrekt in de aan Staten gerichte kennisgeving. Op verzoek van die Staat besluit de Aanklager tot opschorting ten gunste van het onderzoek van de Staat naar die personen, tenzij de Kamer van vooronderzoek op verzoek van de Aanklager besluit tot machtiging voor het onderzoek.
 
 3. De opschorting door de Aanklager ten behoeve van het onderzoek van een Staat staat open voor herziening zes maanden na de datum van de opschorting of telkens wanneer er sprake is van een belangrijke verandering in de omstandigheden gegrond op het niet bereid of bij machte zijn van de Staat om het onderzoek daadwerkelijk uit te voeren.
 
-4. De betrokken Staat of de Aanklager is bevoegd tegen een beslissing van de Kamer van vooronderzoek in beroep te gaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2021-04-21&g=2021-04-21). Het beroep kan in een verkorte procedure worden behandeld.
+4. De betrokken Staat of de Aanklager is bevoegd tegen een beslissing van de Kamer van vooronderzoek in beroep te gaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2021-12-04&g=2021-12-04). Het beroep kan in een verkorte procedure worden behandeld.
 
 5. Wanneer de Aanklager tot opschorting heeft besloten ten behoeve van een onderzoek overeenkomstig het tweede lid, is de Aanklager bevoegd de betrokken Staat te verzoeken hem periodiek te informeren over de vooruitgang van zijn onderzoek en de daaropvolgende vervolging. Staten die Partij zijn dienen onverwijld aan deze verzoeken te voldoen.
 
 6. Hangende een beslissing van de Kamer van vooronderzoek of telkens wanneer de Aanklager ingevolge dit artikel tot opschorting heeft besloten ten behoeve van een onderzoek, is de Aanklager bevoegd, bij wijze van uitzondering, de Kamer van vooronderzoek om machtiging te verzoeken tot het verrichten van noodzakelijke onderzoekshandelingen teneinde bewijsmateriaal veilig te stellen, wanneer zich een eenmalige gelegenheid voordoet om belangrijk bewijsmateriaal te verkrijgen of wanneer een aanzienlijk risico bestaat dat dergelijk bewijs nadien niet meer beschikbaar is.
 
-7. Een Staat die een beslissing van de Kamer van vooronderzoek ingevolge dit artikel heeft aangevochten, is bevoegd de ontvankelijkheid van een zaak ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-04-21&g=2021-04-21) te betwisten op grond van aanvullende relevante feiten of een wezenlijke wijziging in de omstandigheden.
+7. Een Staat die een beslissing van de Kamer van vooronderzoek ingevolge dit artikel heeft aangevochten, is bevoegd de ontvankelijkheid van een zaak ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-12-04&g=2021-12-04) te betwisten op grond van aanvullende relevante feiten of een wezenlijke wijziging in de omstandigheden.
 
 ##### Artikel 19. Betwisting van de rechtsmacht van het Hof of de ontvankelijkheid van een zaak
 
-1. Het Hof overtuigt zich ervan dat het rechtsmacht bezit over elke zaak die bij hem is aangebracht. Het Hof is ambtshalve bevoegd de ontvankelijkheid van een zaak overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21) vast te stellen.
+1. Het Hof overtuigt zich ervan dat het rechtsmacht bezit over elke zaak die bij hem is aangebracht. Het Hof is ambtshalve bevoegd de ontvankelijkheid van een zaak overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04) vast te stellen.
 
-2. De ontvankelijkheid van een zaak op de gronden bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21) of de rechtsmacht van het Hof kunnen worden betwist door:
+2. De ontvankelijkheid van een zaak op de gronden bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04) of de rechtsmacht van het Hof kunnen worden betwist door:
 
-- a. een verdachte of een persoon tegen wie een bevel tot aanhouding of een oproep tot verschijnen is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21);
+- a. een verdachte of een persoon tegen wie een bevel tot aanhouding of een oproep tot verschijnen is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04);
 
 - b. een Staat die rechtsmacht bezit over een zaak op grond van het feit dat hij in de zaak een onderzoek verricht of heeft verricht of vervolging instelt of heeft ingesteld; of
 
-- c. een Staat wiens aanvaarding van rechtsmacht is vereist ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-04-21&g=2021-04-21).
+- c. een Staat wiens aanvaarding van rechtsmacht is vereist ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-12-04&g=2021-12-04).
 
-3. De Aanklager is bevoegd het Hof te verzoeken om een beslissing met betrekking tot een vraag over rechtsmacht of ontvankelijkheid. In procedures die betrekking hebben op rechtsmacht of ontvankelijkheid kunnen zowel zij die aangifte hebben gedaan van de situatie ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), als slachtoffers hun opvattingen aan het Hof kenbaar maken.
+3. De Aanklager is bevoegd het Hof te verzoeken om een beslissing met betrekking tot een vraag over rechtsmacht of ontvankelijkheid. In procedures die betrekking hebben op rechtsmacht of ontvankelijkheid kunnen zowel zij die aangifte hebben gedaan van de situatie ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), als slachtoffers hun opvattingen aan het Hof kenbaar maken.
 
-4. De ontvankelijkheid van een zaak of de rechtsmacht van het Hof kan slechts eenmaal worden betwist door een persoon of Staat als bedoeld in het tweede lid. De betwisting dient te geschieden voor of bij de aanvang van de terechtzitting. In uitzonderlijke omstandigheden is het Hof bevoegd toestemming te verlenen tot het meerdere malen naar voren brengen van de betwisting of betwisting toestaan op een later tijdstip dan bij de aanvang van de terechtzitting. Betwisting van de ontvankelijkheid van een zaak bij de aanvang van een terechtzitting of op een later tijdstip met toestemming van het Hof mag alleen worden gebaseerd op [artikel 17, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21).
+4. De ontvankelijkheid van een zaak of de rechtsmacht van het Hof kan slechts eenmaal worden betwist door een persoon of Staat als bedoeld in het tweede lid. De betwisting dient te geschieden voor of bij de aanvang van de terechtzitting. In uitzonderlijke omstandigheden is het Hof bevoegd toestemming te verlenen tot het meerdere malen naar voren brengen van de betwisting of betwisting toestaan op een later tijdstip dan bij de aanvang van de terechtzitting. Betwisting van de ontvankelijkheid van een zaak bij de aanvang van een terechtzitting of op een later tijdstip met toestemming van het Hof mag alleen worden gebaseerd op [artikel 17, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04).
 
 5. Een Staat als bedoeld in het tweede lid, onder b en c, maakt zijn bezwaren in een zo vroeg mogelijk stadium kenbaar.
 
-6. Voorafgaand aan de bevestiging van de tenlastelegging dient elke betwisting van de ontvankelijkheid van een zaak of van de rechtsmacht van het Hof te worden verwezen naar de Kamer van vooronderzoek. Na bevestiging van de tenlastelegging wordt de betwisting verwezen naar de Kamer van berechting. Tegen besluiten met betrekking tot rechtsmacht of ontvankelijkheid kan in beroep worden gegaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2021-04-21&g=2021-04-21).
+6. Voorafgaand aan de bevestiging van de tenlastelegging dient elke betwisting van de ontvankelijkheid van een zaak of van de rechtsmacht van het Hof te worden verwezen naar de Kamer van vooronderzoek. Na bevestiging van de tenlastelegging wordt de betwisting verwezen naar de Kamer van berechting. Tegen besluiten met betrekking tot rechtsmacht of ontvankelijkheid kan in beroep worden gegaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2021-12-04&g=2021-12-04).
 
-7. Indien een betwisting plaatsvindt door een Staat bedoeld in het tweede lid, onder b of c, schort de Aanklager het onderzoek op totdat het Hof een beslissing neemt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21).
+7. Indien een betwisting plaatsvindt door een Staat bedoeld in het tweede lid, onder b of c, schort de Aanklager het onderzoek op totdat het Hof een beslissing neemt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04).
 
 8. Hangende een beslissing van het Hof is de Aanklager bevoegd het Hof te verzoeken hem machtiging te verlenen:
 
-- a. de noodzakelijke onderzoekshandelingen te verrichten van het soort bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-04-21&g=2021-04-21);
+- a. de noodzakelijke onderzoekshandelingen te verrichten van het soort bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-12-04&g=2021-12-04);
 
 - b. een verklaring of getuigenis van een getuige op te nemen of het vergaren en onderzoeken van bewijs te voltooien dat was aangevangen voordat een betwisting plaatsvond; en
 
-- c. in samenwerking met de betrokken Staten, personen ten aanzien van wie de Aanklager reeds om een bevel tot aanhouding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21) heeft verzocht, het vluchten te beletten.
+- c. in samenwerking met de betrokken Staten, personen ten aanzien van wie de Aanklager reeds om een bevel tot aanhouding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04) heeft verzocht, het vluchten te beletten.
 
 9. De betwisting doet geen afbreuk aan de geldigheid van een handeling verricht door de Aanklager of aan een opdracht of bevel gegeven door het Hof voordat de betwisting plaatsvond.
 
-10. Indien het Hof heeft besloten dat een zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21), is de Aanklager bevoegd een verzoek in te dienen tot herziening van het besluit wanneer hij volledig overtuigd is van het feit dat nieuwe feiten aan het licht zijn gekomen die de grondslag ontkrachten waarop voordien de zaak niet ontvankelijk was bevonden ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21).
+10. Indien het Hof heeft besloten dat een zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04), is de Aanklager bevoegd een verzoek in te dienen tot herziening van het besluit wanneer hij volledig overtuigd is van het feit dat nieuwe feiten aan het licht zijn gekomen die de grondslag ontkrachten waarop voordien de zaak niet ontvankelijk was bevonden ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04).
 
-11. Indien de Aanklager, gelet op het bedoelde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21), een onderzoek opschort, heeft de Aanklager het recht de betrokken Staat te verzoeken informatie over de procedure te verschaffen aan de Aanklager. Die informatie wordt op verzoek van de betrokken Staat vertrouwelijk behandeld. Indien de Aanklager daarna besluit een onderzoek voort te zetten, stelt hij de Staat daarvan in kennis ten gunste van wiens procedure hij zijn onderzoek heeft opgeschort.
+11. Indien de Aanklager, gelet op het bedoelde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04), een onderzoek opschort, heeft de Aanklager het recht de betrokken Staat te verzoeken informatie over de procedure te verschaffen aan de Aanklager. Die informatie wordt op verzoek van de betrokken Staat vertrouwelijk behandeld. Indien de Aanklager daarna besluit een onderzoek voort te zetten, stelt hij de Staat daarvan in kennis ten gunste van wiens procedure hij zijn onderzoek heeft opgeschort.
 
 ##### Artikel 20. Ne bis in idem
 
 1. Behoudens hetgeen in dit Statuut is bepaald, staat niemand voor het Hof terecht ter zake van gedragingen die de grondslag vormden van misdrijven waarvoor de betrokkene door het Hof is veroordeeld of vrijgesproken.
 
-2. Niemand staat terecht voor een ander gerecht ter zake van een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21) waarvoor de betrokkene reeds door het Hof is veroordeeld of vrijgesproken.
+2. Niemand staat terecht voor een ander gerecht ter zake van een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04) waarvoor de betrokkene reeds door het Hof is veroordeeld of vrijgesproken.
 
-3. Niemand die voor een ander gerecht heeft terechtgestaan ter zake van gedragingen die ook ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-04-21&g=2021-04-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-04-21&g=2021-04-21) of [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2021-04-21&g=2021-04-21) verboden zijn, staat voor het Hof terecht voor dezelfde gedragingen, tenzij de procedure bij het andere gerecht:
+3. Niemand die voor een ander gerecht heeft terechtgestaan ter zake van gedragingen die ook ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-12-04&g=2021-12-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-12-04&g=2021-12-04) of [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2021-12-04&g=2021-12-04) verboden zijn, staat voor het Hof terecht voor dezelfde gedragingen, tenzij de procedure bij het andere gerecht:
 
 - a. diende ter afscherming van de betrokkene tegen strafrechtelijke aansprakelijkheid ter zake van misdrijven waarover het Hof rechtsmacht bezit; of
 
@@ -472,7 +474,7 @@ Geen onderzoek of vervolging kan worden aangevangen of voortgezet krachtens dit 
 
 2. Het Hof is bevoegd beginselen en rechtsregels toe te passen overeenkomstig de interpretatie die het in zijn voorgaande beslissingen daaraan gaf.
 
-3. De toepassing en interpretatie van het recht ingevolge dit artikel dient verenigbaar te zijn met internationaal erkende mensenrechten, waarbij geen nadelig onderscheid mag worden gemaakt op zulke gronden als geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), leeftijd, ras, huidskleur, taal, godsdienst of geloof, politieke of andere opvatting, nationale, etnische of maatschappelijke oorsprong, bezit, geboorte of andere status.
+3. De toepassing en interpretatie van het recht ingevolge dit artikel dient verenigbaar te zijn met internationaal erkende mensenrechten, waarbij geen nadelig onderscheid mag worden gemaakt op zulke gronden als geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), leeftijd, ras, huidskleur, taal, godsdienst of geloof, politieke of andere opvatting, nationale, etnische of maatschappelijke oorsprong, bezit, geboorte of andere status.
 
 ## DEEL 3. ALGEMENE BEGINSELEN VAN STRAFRECHT
 
@@ -584,13 +586,13 @@ Misdrijven waarover het Hof rechtsmacht bezit verjaren niet.
 
 2. Het Hof stelt de toepasselijkheid vast van de in dit Statuut bepaalde strafuitsluitingsgronden in de voorliggende zaak.
 
-3. Ter terechtzitting is het Hof bevoegd een andere strafuitsluitingsgrond te overwegen dan de in het eerste lid vermelde gronden, wanneer deze grond is ontleend aan het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=21&z=2021-04-21&g=2021-04-21) beschreven toepasselijke recht. De procedure voor de overweging of een dergelijke grond bestaat wordt geregeld in het Reglement voor de proces- en bewijsvoering.
+3. Ter terechtzitting is het Hof bevoegd een andere strafuitsluitingsgrond te overwegen dan de in het eerste lid vermelde gronden, wanneer deze grond is ontleend aan het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=21&z=2021-12-04&g=2021-12-04) beschreven toepasselijke recht. De procedure voor de overweging of een dergelijke grond bestaat wordt geregeld in het Reglement voor de proces- en bewijsvoering.
 
 ##### Artikel 32. Dwaling ten aanzien van de feiten of dwaling ten aanzien van het recht
 
 1. Dwaling ten aanzien van de feiten is slechts een strafuitsluitingsgrond, indien daardoor het bestanddeel van de geestesgesteldheid wordt tenietgedaan dat voor het misdrijf is vereist.
 
-2. Dwaling ten aanzien van het recht bij de vraag of een bepaalde vorm van gedragingen een misdrijf is waarover het Hof rechtsmacht bezit, is geen strafuitsluitingsgrond. Dwaling ten aanzien van het recht kan echter een strafuitsluitingsgrond zijn, indien daardoor het bestanddeel van de geestesgesteldheid wordt tenietgedaan dat voor dit misdrijf is vereist, of als bepaald in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=3&artikel=33&z=2021-04-21&g=2021-04-21).
+2. Dwaling ten aanzien van het recht bij de vraag of een bepaalde vorm van gedragingen een misdrijf is waarover het Hof rechtsmacht bezit, is geen strafuitsluitingsgrond. Dwaling ten aanzien van het recht kan echter een strafuitsluitingsgrond zijn, indien daardoor het bestanddeel van de geestesgesteldheid wordt tenietgedaan dat voor dit misdrijf is vereist, of als bepaald in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=3&artikel=33&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 33. Bevelen van meerderen en wettelijk voorschrift
 
@@ -624,9 +626,9 @@ Het Hof bestaat uit de volgende organen:
 
 2. De rechters die deel uitmaken van het Presidium zijn op full-time-basis werkzaam zodra zij zijn gekozen.
 
-3. Het Presidium is bevoegd, afhankelijk van de werklast van het Hof en in overleg met zijn leden, periodiek te beslissen in hoeverre nodig is dat de overige rechters op full-time-basis werkzaam zijn. Een dergelijke regeling doet geen afbreuk aan het in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=40&z=2021-04-21&g=2021-04-21) bepaalde.
+3. Het Presidium is bevoegd, afhankelijk van de werklast van het Hof en in overleg met zijn leden, periodiek te beslissen in hoeverre nodig is dat de overige rechters op full-time-basis werkzaam zijn. Een dergelijke regeling doet geen afbreuk aan het in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=40&z=2021-12-04&g=2021-12-04) bepaalde.
 
-4. De financiële regelingen voor niet op full-time-basis werkzame rechters worden overeenkomstig [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2021-04-21&g=2021-04-21) getroffen.
+4. De financiële regelingen voor niet op full-time-basis werkzame rechters worden overeenkomstig [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2021-12-04&g=2021-12-04) getroffen.
 
 ##### Artikel 36. Kwalificaties, voordracht en verkiezing van rechters
 
@@ -634,11 +636,11 @@ Het Hof bestaat uit de volgende organen:
 
 - a. Het Presidium, optredend namens het Hof, is bevoegd voor te stellen het in het eerste lid vermelde aantal rechters te verhogen onder opgave van redenen waarom dit noodzakelijk en passend wordt geacht. De Griffier doet alle Staten die Partij zijn een dergelijk voorstel onverwijld toekomen.
 
-- b. Beraad over een dergelijk voorstel vindt plaats in een overeenkomstig [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2021-04-21&g=2021-04-21) bijeen te roepen bijeenkomst van de Vergadering van Staten die Partij zijn. Het voorstel wordt geacht te zijn aanvaard indien het wordt goedgekeurd in de vergadering bij een tweederde meerderheid van de leden van de Vergadering van Staten die Partij zijn; het wordt van kracht op de door de Vergadering van Staten die Partij zijn vastgestelde datum.
+- b. Beraad over een dergelijk voorstel vindt plaats in een overeenkomstig [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2021-12-04&g=2021-12-04) bijeen te roepen bijeenkomst van de Vergadering van Staten die Partij zijn. Het voorstel wordt geacht te zijn aanvaard indien het wordt goedgekeurd in de vergadering bij een tweederde meerderheid van de leden van de Vergadering van Staten die Partij zijn; het wordt van kracht op de door de Vergadering van Staten die Partij zijn vastgestelde datum.
 
 - c.
 
-- i. Wanneer een voorstel tot verhoging van het aantal rechters eenmaal is aanvaard ingevolge het onder b bepaalde, vindt verkiezing van de nader toe te voegen rechters plaats in de eerstvolgende bijeenkomst van de Vergadering van Staten die Partij zijn overeenkomstig het derde tot en met het achtste lid, en [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-04-21&g=2021-04-21);
+- i. Wanneer een voorstel tot verhoging van het aantal rechters eenmaal is aanvaard ingevolge het onder b bepaalde, vindt verkiezing van de nader toe te voegen rechters plaats in de eerstvolgende bijeenkomst van de Vergadering van Staten die Partij zijn overeenkomstig het derde tot en met het achtste lid, en [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-12-04&g=2021-12-04);
 
 - ii. Wanneer een voorstel tot verhoging van het aantal rechters eenmaal is aanvaard en wordt uitgevoerd ingevolge het onder b en c, onderdeel ii., bepaalde, staat het het Presidium daarna te allen tijde vrij, indien de werklast van het Hof dit rechtvaardigt, een vermindering van het aantal rechters voor te stellen, mits het aantal rechters niet minder wordt dan het in het eerste lid vermelde aantal. Het voorstel wordt behandeld overeenkomstig de procedure vermeld onder a en b. Indien het voorstel wordt aanvaard, wordt het aantal rechters geleidelijk verminderd naar gelang de ambtstermijn van de zittende rechters afloopt, totdat het vereiste aantal is bereikt.
 
@@ -670,7 +672,7 @@ Het Hof bestaat uit de volgende organen:
 
 Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft de keuze op welke lijst hij wenst te worden opgenomen. Bij de eerste verkiezing voor het Hof worden ten minste negen rechters gekozen van lijst A en ten minste vijf rechters van lijst B. Volgende verkiezingen worden zodanig ingericht dat dezelfde verhouding tussen rechters van de ene en de andere lijst wordt geëerbiedigd.
 
-- a. De rechters worden gekozen door middel van een geheime stemming in een bijeenkomst van de Vergadering van Staten die Partij zijn, daartoe bijeengeroepen ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2021-04-21&g=2021-04-21). Onverminderd het zevende lid zijn de personen die in het Hof worden gekozen de 18 kandidaten die het grootste aantal stemmen en een tweederde meerderheid krijgen van de aanwezige Staten die Partij zijn en hun stem uitbrengen.
+- a. De rechters worden gekozen door middel van een geheime stemming in een bijeenkomst van de Vergadering van Staten die Partij zijn, daartoe bijeengeroepen ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2021-12-04&g=2021-12-04). Onverminderd het zevende lid zijn de personen die in het Hof worden gekozen de 18 kandidaten die het grootste aantal stemmen en een tweederde meerderheid krijgen van de aanwezige Staten die Partij zijn en hun stem uitbrengen.
 
 - b. Indien bij de eerste stemming geen voldoende aantal rechters is gekozen, vinden opeenvolgende stemmingen plaats overeenkomstig de procedures bedoeld in het onder a bepaalde totdat de resterende plaatsen zijn vervuld.
 
@@ -686,19 +688,19 @@ Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft
 
 - b. De Staten die Partij zijn dienen ook rekening te houden met de wenselijkheid rechters op te nemen, die beschikken over juridische deskundigheid ten aanzien van bepaalde onderwerpen, waaronder in ieder geval geweld tegen vrouwen of kinderen.
 
-- a. Onverminderd het onder b bepaalde is de ambtstermijn van rechters negen jaar, en onverminderd het onder c en in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-04-21&g=2021-04-21), bepaalde zijn zij niet herkiesbaar.
+- a. Onverminderd het onder b bepaalde is de ambtstermijn van rechters negen jaar, en onverminderd het onder c en in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-12-04&g=2021-12-04), bepaalde zijn zij niet herkiesbaar.
 
 - b. Bij de eerste verkiezing wordt een derde van de gekozen rechters door loting aangewezen voor een ambtstermijn van drie jaar; een derde van de gekozen rechters wordt door loting aangewezen voor een ambtstermijn van zes jaar, terwijl de ambtstermijn van de overige rechters negen jaar zal zijn.
 
 - c. Een rechter die ingevolge het onder b bepaalde is aangewezen voor een ambtstermijn van drie jaar komt in aanmerking voor herverkiezing voor een volledige ambtstermijn.
 
-10. Niettegenstaande het negende lid blijft een rechter die overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2021-04-21&g=2021-04-21) is aangewezen om zitting te hebben in een Kamer van berechting of Kamer van beroep, in functie teneinde het onderzoek in eerste aanleg of in beroep te voltooien, waarvan de behandeling bij die kamer reeds is aangevangen.
+10. Niettegenstaande het negende lid blijft een rechter die overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2021-12-04&g=2021-12-04) is aangewezen om zitting te hebben in een Kamer van berechting of Kamer van beroep, in functie teneinde het onderzoek in eerste aanleg of in beroep te voltooien, waarvan de behandeling bij die kamer reeds is aangevangen.
 
 ##### Artikel 37. Rechterlijke vacatures
 
-1. Teneinde in de vacature te voorzien vindt een verkiezing plaats overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-04-21&g=2021-04-21).
+1. Teneinde in de vacature te voorzien vindt een verkiezing plaats overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-12-04&g=2021-12-04).
 
-2. Een rechter die gekozen is teneinde in een vacature te voorzien blijft in functie voor het resterende deel van de ambtstermijn van zijn voorganger en komt, indien die periode drie jaar of minder bedraagt, in aanmerking voor herverkiezing voor een volledige ambtstermijn ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-04-21&g=2021-04-21).
+2. Een rechter die gekozen is teneinde in een vacature te voorzien blijft in functie voor het resterende deel van de ambtstermijn van zijn voorganger en komt, indien die periode drie jaar of minder bedraagt, in aanmerking voor herverkiezing voor een volledige ambtstermijn ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 38. Het Presidium
 
@@ -716,7 +718,7 @@ Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft
 
 ##### Artikel 39. Kamers
 
-1. Zo spoedig mogelijk na de verkiezing van de rechters vormt het Hof de afdelingen vermeld in [artikel 34, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=34&z=2021-04-21&g=2021-04-21). De Afdeling Beroep bestaat uit de President en vier andere rechters, de Afdeling Berechting bestaat uit ten minste zes rechters en de Afdeling Vooronderzoek uit ten minste zes rechters. De indeling van rechters bij de afdelingen vindt plaats op basis van de aard van de taken die door elke afdeling dienen te worden vervuld en de kwalificaties en ervaring van de voor het Hof gekozen rechters, opdat elke afdeling beschikt over een passende combinatie van deskundigheid op het gebied van het straf- en strafprocesrecht en het internationaal recht. De Afdelingen van Berechting en Vooronderzoek zijn overwegend samengesteld uit rechters met ervaring op het gebied van strafprocedures.
+1. Zo spoedig mogelijk na de verkiezing van de rechters vormt het Hof de afdelingen vermeld in [artikel 34, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=34&z=2021-12-04&g=2021-12-04). De Afdeling Beroep bestaat uit de President en vier andere rechters, de Afdeling Berechting bestaat uit ten minste zes rechters en de Afdeling Vooronderzoek uit ten minste zes rechters. De indeling van rechters bij de afdelingen vindt plaats op basis van de aard van de taken die door elke afdeling dienen te worden vervuld en de kwalificaties en ervaring van de voor het Hof gekozen rechters, opdat elke afdeling beschikt over een passende combinatie van deskundigheid op het gebied van het straf- en strafprocesrecht en het internationaal recht. De Afdelingen van Berechting en Vooronderzoek zijn overwegend samengesteld uit rechters met ervaring op het gebied van strafprocedures.
 
 - a. De rechterlijke taken van het Hof worden in elke afdeling uitgeoefend door kamers.
 
@@ -782,7 +784,7 @@ Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft
 
 ##### Artikel 43. De Griffie
 
-1. De Griffie is belast met de niet-gerechtelijke aspecten van het dagelijks bestuur en de bediening van het Hof, onverminderd de taken en bevoegdheden van de Aanklager overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2021-04-21&g=2021-04-21).
+1. De Griffie is belast met de niet-gerechtelijke aspecten van het dagelijks bestuur en de bediening van het Hof, onverminderd de taken en bevoegdheden van de Aanklager overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2021-12-04&g=2021-12-04).
 
 2. Aan het hoofd van de Griffie staat de Griffier, de hoogste bestuurlijke functionaris van het Hof. De Griffier oefent zijn taken uit onder gezag van de President van het Hof.
 
@@ -798,7 +800,7 @@ Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft
 
 1. De Aanklager en de Griffier dragen zorg voor de benoeming van voor hun respectieve afdelingen vereist gekwalificeerd personeel. In het geval van de Aanklager omvat dit mede de benoeming van personen die met onderzoek worden belast.
 
-2. Bij de aanstelling van personeel waarborgen de Aanklager en de Griffier de hoogste normen van doelmatigheid, bekwaamheid en integriteit, en houden daarbij voorzover mogelijk rekening met de criteria vermeld in [artikel 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-04-21&g=2021-04-21).
+2. Bij de aanstelling van personeel waarborgen de Aanklager en de Griffier de hoogste normen van doelmatigheid, bekwaamheid en integriteit, en houden daarbij voorzover mogelijk rekening met de criteria vermeld in [artikel 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-12-04&g=2021-12-04).
 
 3. De Griffier stelt met instemming van het Presidium en de Aanklager een Personeelsreglement voor, waarin mede de voorwaarden zijn vervat voor benoeming, honorering en ontslag van het personeel van het Hof. Het Reglement wordt goedgekeurd door de Vergadering van Staten die Partij zijn.
 
@@ -830,7 +832,7 @@ Voordat zij hun respectieve taken krachtens dit Statuut aanvaarden, leggen recht
 
 ##### Artikel 47. Disciplinaire maatregelen
 
-Een rechter, Aanklager, Substituut-Aanklager, Griffier of Substituut-Griffier die zich schuldig heeft gemaakt aan wangedrag van minder ernstige aard dan dat bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-04-21&g=2021-04-21), wordt onderworpen aan disciplinaire maatregelen overeenkomstig het Reglement van proces- en bewijsvoering.
+Een rechter, Aanklager, Substituut-Aanklager, Griffier of Substituut-Griffier die zich schuldig heeft gemaakt aan wangedrag van minder ernstige aard dan dat bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-12-04&g=2021-12-04), wordt onderworpen aan disciplinaire maatregelen overeenkomstig het Reglement van proces- en bewijsvoering.
 
 ##### Artikel 48. Voorrechten en immuniteiten
 
@@ -900,7 +902,7 @@ Wijzigingen treden in werking na te zijn aangenomen bij tweederde meerderheid va
 
 - a. de informatie waarover de Aanklager beschikt een redelijke basis vormt om aan te nemen dat een misdrijf waarover het Hof rechtsmacht bezit is of wordt gepleegd;
 
-- b. de zaak ontvankelijk is of zou zijn ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21); en
+- b. de zaak ontvankelijk is of zou zijn ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04); en
 
 - c. de ernst van het misdrijf en de belangen van de slachtoffers in aanmerking genomen, er niettemin gegronde redenen zijn om aan te nemen dat een onderzoek niet in het belang van een goede rechtsbedeling zou zijn.
 
@@ -908,15 +910,15 @@ Indien de Aanklager besluit dat geen redelijke basis aanwezig is om tot vervolgi
 
 2. Indien de Aanklager na onderzoek tot de slotsom komt dat niet voldoende grondslag bestaat voor een vervolging omdat:
 
-- a. niet voldoende juridische of feitelijke grondslag aanwezig is om een bevel tot aanhouding of dagvaarding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21) te vragen;
+- a. niet voldoende juridische of feitelijke grondslag aanwezig is om een bevel tot aanhouding of dagvaarding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04) te vragen;
 
-- b. de zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-04-21&g=2021-04-21); of
+- b. de zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2021-12-04&g=2021-12-04); of
 
 - c. vervolging niet in het belang van de goede rechtsbedeling is, alle omstandigheden in aanmerking genomen, met inbegrip van de ernst van het misdrijf, de belangen van slachtoffers en de leeftijd of zwakke gezondheid van de beschuldigde, en diens rol in het misdrijf waarop de beschuldiging betrekking heeft;
 
-stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-04-21&g=2021-04-21) aangifte heeft gedaan of de Veiligheidsraad in een zaak krachtens [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), in kennis van zijn conclusie en de redenen voor de conclusie.
+stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-12-04&g=2021-12-04) aangifte heeft gedaan of de Veiligheidsraad in een zaak krachtens [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), in kennis van zijn conclusie en de redenen voor de conclusie.
 
-- a. Op verzoek van de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-04-21&g=2021-04-21) aangifte heeft gedaan of de Veiligheidsraad ingevolge [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), kan de Kamer van vooronderzoek een beslissing van de Aanklager ingevolge het eerste of tweede lid om geen vervolging in te stellen herzien en de Aanklager verzoeken die beslissing te heroverwegen.
+- a. Op verzoek van de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2021-12-04&g=2021-12-04) aangifte heeft gedaan of de Veiligheidsraad ingevolge [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), kan de Kamer van vooronderzoek een beslissing van de Aanklager ingevolge het eerste of tweede lid om geen vervolging in te stellen herzien en de Aanklager verzoeken die beslissing te heroverwegen.
 
 - b. De Kamer van vooronderzoek is bovendien ambtshalve bevoegd een beslissing van de Aanklager om geen vervolging in te stellen te herzien, indien deze louter gebaseerd is op het eerste lid, onder c, of het tweede lid, onder c. In een dergelijk geval wordt de beslissing van de Aanklager eerst na bevestiging van kracht door de Kamer van vooronderzoek.
 
@@ -928,15 +930,15 @@ stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel
 
 - a. teneinde de waarheid vast te stellen, alle feiten en bewijsmiddelen bij het opsporingsonderzoek te betrekken, voorzover relevant voor de beoordeling van de vraag of sprake is van strafrechtelijke aansprakelijkheid ingevolge dit Statuut, en daarbij bezwarende en ontlastende omstandigheden gelijkelijk te onderzoeken;
 
-- b. passende maatregelen te treffen teneinde te waarborgen dat misdrijven waarover het Hof rechtsmacht bezit doelmatig worden onderzocht en vervolgd en daarbij de belangen en persoonlijke omstandigheden van slachtoffers en getuigen te respecteren, met inbegrip van leeftijd, geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), en gezondheid, en daarbij in aanmerking te nemen de aard van het misdrijf, in het bijzonder wanneer het seksueel geweld, seksistisch geweld of geweld tegen kinderen betreft; en
+- b. passende maatregelen te treffen teneinde te waarborgen dat misdrijven waarover het Hof rechtsmacht bezit doelmatig worden onderzocht en vervolgd en daarbij de belangen en persoonlijke omstandigheden van slachtoffers en getuigen te respecteren, met inbegrip van leeftijd, geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), en gezondheid, en daarbij in aanmerking te nemen de aard van het misdrijf, in het bijzonder wanneer het seksueel geweld, seksistisch geweld of geweld tegen kinderen betreft; en
 
 - c. volledig de rechten van personen ingevolge dit Statuut te eerbiedigen.
 
 2. De Aanklager is bevoegd een onderzoek uit te voeren op het grondgebied van een Staat:
 
-- a. overeenkomstig de bepalingen van [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21); of
+- a. overeenkomstig de bepalingen van [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04); of
 
-- b. daartoe gemachtigd door de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2021-04-21&g=2021-04-21).
+- b. daartoe gemachtigd door de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2021-12-04&g=2021-12-04).
 
 3. De Aanklager is bevoegd:
 
@@ -964,7 +966,7 @@ stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel
 
 - d. niet onderworpen aan willekeurige aanhouding, vasthouding of vrijheidsbeneming, behoudens op de gronden en overeenkomstig de procedures, vastgesteld in het Statuut.
 
-2. Wanneer er gronden zijn om aan te nemen dat een persoon een misdrijf heeft begaan waarover het Hof rechtsmacht bezit en die persoon zal worden ondervraagd door de Aanklager of door nationale autoriteiten op grond van een verzoek gedaan ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) van dit Statuut, wordt die persoon, alvorens te worden ondervraagd, geïnformeerd dat hij tevens de volgende rechten heeft:
+2. Wanneer er gronden zijn om aan te nemen dat een persoon een misdrijf heeft begaan waarover het Hof rechtsmacht bezit en die persoon zal worden ondervraagd door de Aanklager of door nationale autoriteiten op grond van een verzoek gedaan ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) van dit Statuut, wordt die persoon, alvorens te worden ondervraagd, geïnformeerd dat hij tevens de volgende rechten heeft:
 
 - a. het recht in kennis te worden gesteld, alvorens te worden ondervraagd, van het bestaan van gronden om aan te nemen dat hij een misdrijf heeft gepleegd waarover het Hof rechtsmacht bezit;
 
@@ -1000,13 +1002,13 @@ stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel
 
 - b. De Aanklager heeft het recht van beroep tegen een ambtshalve beslissing van de Kamer van vooronderzoek ingevolge deze paragraaf. Het beroep wordt versneld behandeld.
 
-4. De toelaatbaarheid van bewijsmiddelen die ingevolge dit artikel zijn veiliggesteld of vergaard ten behoeve van het onderzoek ter terechtzitting, of van het proces-verbaal daarvan, wordt op de terechtzitting beheerst door [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2021-04-21&g=2021-04-21)en krijgt het daaraan door de Kamer van berechting toegekende gewicht.
+4. De toelaatbaarheid van bewijsmiddelen die ingevolge dit artikel zijn veiliggesteld of vergaard ten behoeve van het onderzoek ter terechtzitting, of van het proces-verbaal daarvan, wordt op de terechtzitting beheerst door [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2021-12-04&g=2021-12-04)en krijgt het daaraan door de Kamer van berechting toegekende gewicht.
 
 ##### Artikel 57. Taken en bevoegdheden van de Kamer van vooronderzoek
 
 1. Tenzij dit Statuut anders bepaalt, vervult de Kamer van vooronderzoek zijn taken overeenkomstig het in dit artikel bepaalde.
 
-- a. Beslissingen van de Kamer van vooronderzoek ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-04-21&g=2021-04-21), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-04-21&g=2021-04-21), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-04-21&g=2021-04-21), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2021-04-21&g=2021-04-21), [61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-04-21&g=2021-04-21), en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-04-21&g=2021-04-21) worden genomen door een meerderheid van zijn rechters.
+- a. Beslissingen van de Kamer van vooronderzoek ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-12-04&g=2021-12-04), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-12-04&g=2021-12-04), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-12-04&g=2021-12-04), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2021-12-04&g=2021-12-04), [61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-12-04&g=2021-12-04), en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-12-04&g=2021-12-04) worden genomen door een meerderheid van zijn rechters.
 
 - b. In alle overige gevallen vervult een alleenzittende rechter van de Kamer van vooronderzoek de in dit Statuut voorziene taken, tenzij dit anders is geregeld in het Reglement van proces- en bewijsvoering of door een meerderheid van de Kamer van vooronderzoek.
 
@@ -1014,13 +1016,13 @@ stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel
 
 - a. op verzoek van de Aanklager de voor een onderzoek vereiste bevelen uit te vaardigen;
 
-- b. op verzoek van een persoon die is aangehouden of verschenen ingevolge op een bevel overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21), de bevelen uit te vaardigen, met inbegrip van maatregelen als vermeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-04-21&g=2021-04-21), of de samenwerking te verlangen ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) vereist om de persoon terzijde te staan bij de voorbereiding van zijn verdediging;
+- b. op verzoek van een persoon die is aangehouden of verschenen ingevolge op een bevel overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04), de bevelen uit te vaardigen, met inbegrip van maatregelen als vermeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-12-04&g=2021-12-04), of de samenwerking te verlangen ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) vereist om de persoon terzijde te staan bij de voorbereiding van zijn verdediging;
 
 - c. waar dit noodzakelijk is, zorg te dragen voor de bescherming en de eerbiediging van de persoonlijke levenssfeer van slachtoffers en getuigen, de veiligstelling van bewijsmiddelen, de bescherming van personen die aangehouden of verschenen zijn op een bevel, en de bescherming van informatie die de nationale veiligheid betreft;
 
-- d. de Aanklager te machtigen om bepaalde onderzoeksmaatregelen te treffen binnen het grondgebied van een Staat die Partij is zonder de samenwerking van die Staat te hebben verzekerd ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21), indien, telkens wanneer dit mogelijk is rekening houdend met de zienswijze van de betrokken Staat, de Kamer van vooronderzoek in dat geval heeft bepaald dat de Staat kennelijk niet bij machte is uitvoering te geven aan een rechtshulpverzoek ten gevolge van niet-beschikbaarheid van een autoriteit of een onderdeel in zijn rechtsstelsel bevoegd tot het uitvoering geven aan een verzoek tot samenwerking ingevolge Deel 9;
+- d. de Aanklager te machtigen om bepaalde onderzoeksmaatregelen te treffen binnen het grondgebied van een Staat die Partij is zonder de samenwerking van die Staat te hebben verzekerd ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04), indien, telkens wanneer dit mogelijk is rekening houdend met de zienswijze van de betrokken Staat, de Kamer van vooronderzoek in dat geval heeft bepaald dat de Staat kennelijk niet bij machte is uitvoering te geven aan een rechtshulpverzoek ten gevolge van niet-beschikbaarheid van een autoriteit of een onderdeel in zijn rechtsstelsel bevoegd tot het uitvoering geven aan een verzoek tot samenwerking ingevolge Deel 9;
 
-- e. wanneer een bevel tot aanhouding of tot verschijning is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21), en met inachtneming van de zwaarte van het bewijs en de rechten van de betrokken partijen zoals voorzien in dit Statuut en het Reglement van proces- en bewijsvoering, rechtshulp te vragen aan Staten ingevolge [artikel 93, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21), om beschermende maatregelen te treffen ter fine van verbeurdverklaring die uiteindelijk vooral slachtoffers ten goede zullen komen.
+- e. wanneer een bevel tot aanhouding of tot verschijning is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04), en met inachtneming van de zwaarte van het bewijs en de rechten van de betrokken partijen zoals voorzien in dit Statuut en het Reglement van proces- en bewijsvoering, rechtshulp te vragen aan Staten ingevolge [artikel 93, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04), om beschermende maatregelen te treffen ter fine van verbeurdverklaring die uiteindelijk vooral slachtoffers ten goede zullen komen.
 
 ##### Artikel 58. Uitvaardiging door de Kamer van vooronderzoek van een bevel tot aanhouding of een oproep tot verschijning
 
@@ -1058,7 +1060,7 @@ stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel
 
 4. Het bevel tot aanhouding blijft van kracht totdat door het Hof anders wordt beslist.
 
-5. Op basis van het bevel tot aanhouding is het Hof ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) bevoegd de voorlopige aanhouding of de aanhouding en overdracht van de persoon te verzoeken.
+5. Op basis van het bevel tot aanhouding is het Hof ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) bevoegd de voorlopige aanhouding of de aanhouding en overdracht van de persoon te verzoeken.
 
 6. De Aanklager is bevoegd de Kamer van vooronderzoek te verzoeken het bevel tot aanhouding te wijzigen door een wijziging in of een toevoeging aan de daarin vermelde misdrijven. De Kamer van vooronderzoek wijzigt het bevel dienovereenkomstig, indien hij ervan overtuigd is dat redelijke gronden aanwezig zijn om aan te nemen dat de persoon de gewijzigde of toegevoegde misdrijven heeft begaan.
 
@@ -1076,7 +1078,7 @@ Het bevel wordt aan de persoon betekend.
 
 ##### Artikel 59. Aanhoudingsprocedure in de Staat van bewaring
 
-1. Een Staat die Partij is en een verzoek heeft ontvangen voor de voorlopige aanhouding of voor aanhouding en overdracht onderneemt onmiddellijk stappen voor de aanhouding van de betrokken persoon overeenkomstig zijn wetgeving en het in [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) bepaalde.
+1. Een Staat die Partij is en een verzoek heeft ontvangen voor de voorlopige aanhouding of voor aanhouding en overdracht onderneemt onmiddellijk stappen voor de aanhouding van de betrokken persoon overeenkomstig zijn wetgeving en het in [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) bepaalde.
 
 2. Een aangehouden persoon wordt onverwijld geleid voor de bevoegde gerechtelijke autoriteit in de Staat van bewaring, die overeenkomstig het recht van die Staat vaststelt of:
 
@@ -1088,7 +1090,7 @@ Het bevel wordt aan de persoon betekend.
 
 3. In afwachting van de overdracht heeft de aangehouden persoon het recht een verzoek tot voorlopige invrijheidsstelling in te dienen bij de bevoegde autoriteit in de Staat van bewaring.
 
-4. Bij een beslissing op een dergelijk verzoek overweegt de bevoegde autoriteit in de Staat van bewaring of, gezien de ernst van de beweerde misdrijven, dringende en uitzonderlijke omstandigheden aanwezig zijn die een voorlopige invrijheidstelling rechtvaardigen, en of noodzakelijke waarborgen bestaan om te verzekeren dat de Staat van bewaring zijn verplichting tot overdracht van die persoon aan het Hof kan nakomen. Het staat de bevoegde autoriteit van de Staat van bewaring niet vrij te overwegen of het bevel tot aanhouding op de juiste wijze is uitgevaardigd overeenkomstig [artikel 58, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21).
+4. Bij een beslissing op een dergelijk verzoek overweegt de bevoegde autoriteit in de Staat van bewaring of, gezien de ernst van de beweerde misdrijven, dringende en uitzonderlijke omstandigheden aanwezig zijn die een voorlopige invrijheidstelling rechtvaardigen, en of noodzakelijke waarborgen bestaan om te verzekeren dat de Staat van bewaring zijn verplichting tot overdracht van die persoon aan het Hof kan nakomen. Het staat de bevoegde autoriteit van de Staat van bewaring niet vrij te overwegen of het bevel tot aanhouding op de juiste wijze is uitgevaardigd overeenkomstig [artikel 58, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04).
 
 5. De Kamer van vooronderzoek wordt in kennis gesteld van elk verzoek tot voorlopige invrijheidstelling en doet aanbevelingen aan de bevoegde autoriteit in de Staat van bewaring. De bevoegde autoriteit in de Staat van bewaring betrekt deze aanbevelingen volledig in haar overwegingen, met inbegrip van alle aanbevelingen met betrekking tot maatregelen ter voorkoming van ontvluchting van de persoon, alvorens haar beslissing te nemen.
 
@@ -1100,7 +1102,7 @@ Het bevel wordt aan de persoon betekend.
 
 1. Na overdracht van de persoon aan het Hof of na diens verschijning voor het Hof uit vrije wil of ingevolge een bevel overtuigt de Kamer van vooronderzoek zich ervan dat de persoon op de hoogte is gesteld van de misdrijven die hij beweerdelijk heeft begaan en van zijn rechten ingevolge dit Statuut, met inbegrip van het recht om een verzoek tot voorlopige invrijheidstelling in te dienen in afwachting van de terechtzitting.
 
-2. Een persoon voor wie een bevel tot aanhouding geldt is bevoegd een verzoek in te dienen tot voorlopige invrijheidstelling in afwachting van de terechtzitting. Indien de Kamer van vooronderzoek ervan overtuigd is dat aan de voorwaarden vermeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21), is voldaan, blijft de persoon in hechtenis. Indien de Kamer van vooronderzoek daar niet van overtuigd is, stelt de Kamer van vooronderzoek de persoon met of zonder voorwaarden in vrijheid.
+2. Een persoon voor wie een bevel tot aanhouding geldt is bevoegd een verzoek in te dienen tot voorlopige invrijheidstelling in afwachting van de terechtzitting. Indien de Kamer van vooronderzoek ervan overtuigd is dat aan de voorwaarden vermeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04), is voldaan, blijft de persoon in hechtenis. Indien de Kamer van vooronderzoek daar niet van overtuigd is, stelt de Kamer van vooronderzoek de persoon met of zonder voorwaarden in vrijheid.
 
 3. De Kamer van vooronderzoek neemt regelmatig haar beslissing inzake de invrijheidstelling of hechtenis van de persoon in heroverweging en kan dit op elk tijdstip doen waarop de Aanklager of de persoon hierom verzoekt. Bij deze heroverweging is de Kamer bevoegd zijn beslissing met betrekking tot hechtenis, invrijheidstelling of voorwaarden van invrijheidstelling te wijzigen, indien hij ervan overtuigd is dat gewijzigde omstandigheden dit vereisen.
 
@@ -1158,7 +1160,7 @@ De Kamer van vooronderzoek is bevoegd bevelen uit te vaardigen met betrekking to
 
 10. Een bevel tot aanhouding dat voordien is uitgevaardigd, houdt op van kracht te zijn voorzover het tenlastegelegde feiten betreft die niet door de Kamer van vooronderzoek zijn bevestigd of die door de Aanklager zijn ingetrokken.
 
-11. Wanneer de tenlastegelegde feiten eenmaal zijn bevestigd overeenkomstig dit artikel, stelt het Presidium een Kamer van berechting samen die ingevolge het achtste lid en [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-04-21&g=2021-04-21), verantwoordelijk is voor de daaropvolgende procesvoering en die bevoegd is alle taken van de Kamer van vooronderzoek te vervullen voorzover die in die fase relevant en toepasselijk zijn.
+11. Wanneer de tenlastegelegde feiten eenmaal zijn bevestigd overeenkomstig dit artikel, stelt het Presidium een Kamer van berechting samen die ingevolge het achtste lid en [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-12-04&g=2021-12-04), verantwoordelijk is voor de daaropvolgende procesvoering en die bevoegd is alle taken van de Kamer van vooronderzoek te vervullen voorzover die in die fase relevant en toepasselijk zijn.
 
 ## DEEL 6. DE TERECHTZITTING
 
@@ -1192,7 +1194,7 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 6. Bij de uitoefening van zijn taken voorafgaand aan of in de loop van een terechtzitting is de Kamer van berechting bevoegd, zonodig:
 
-- a. alle in [artikel 61, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-04-21&g=2021-04-21), vermelde taken van de Kamer van vooronderzoek uit te oefenen;
+- a. alle in [artikel 61, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-12-04&g=2021-12-04), vermelde taken van de Kamer van vooronderzoek uit te oefenen;
 
 - b. de aanwezigheid van getuigen alsook hun verklaringen te verlangen evenals de productie van documenten en ander bewijs door zonodig de bijstand in te roepen van Staten zoals voorzien in dit Statuut;
 
@@ -1204,9 +1206,9 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 - f. te beslissen over alle overige relevante zaken.
 
-7. De terechtzitting is openbaar. De Kamer van berechting is echter bevoegd te bepalen dat bijzondere omstandigheden vereisen dat bepaalde onderdelen van de procedure achter gesloten deuren moeten plaatsvinden vanwege het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-04-21&g=2021-04-21) bepaalde of ter bescherming van vertrouwelijke of gevoelige informatie die als bewijsmiddel zal dienen.
+7. De terechtzitting is openbaar. De Kamer van berechting is echter bevoegd te bepalen dat bijzondere omstandigheden vereisen dat bepaalde onderdelen van de procedure achter gesloten deuren moeten plaatsvinden vanwege het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-12-04&g=2021-12-04) bepaalde of ter bescherming van vertrouwelijke of gevoelige informatie die als bewijsmiddel zal dienen.
 
-- a. Bij de aanvang van de terechtzitting laat de Kamer van berechting aan de beschuldigde de tenlastegelegde feiten voorlezen, die voordien door de Kamer van vooronderzoek zijn bevestigd. De Kamer van berechting overtuigt zich ervan dat de beschuldigde de aard van de tenlastegelegde feiten begrijpt. Hij geeft hem de gelegenheid om schuld te bekennen overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=65&z=2021-04-21&g=2021-04-21) of zich onschuldig te verklaren.
+- a. Bij de aanvang van de terechtzitting laat de Kamer van berechting aan de beschuldigde de tenlastegelegde feiten voorlezen, die voordien door de Kamer van vooronderzoek zijn bevestigd. De Kamer van berechting overtuigt zich ervan dat de beschuldigde de aard van de tenlastegelegde feiten begrijpt. Hij geeft hem de gelegenheid om schuld te bekennen overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=65&z=2021-12-04&g=2021-12-04) of zich onschuldig te verklaren.
 
 - b. Ter terechtzitting is de rechter die als voorzitter optreedt bevoegd aanwijzingen te geven ten aanzien van de procedure, mede ter verzekering dat deze op eerlijke en onpartijdige wijze verloopt. Onverminderd aanwijzingen van de rechter die als voorzitter optreedt, kunnen de partijen bewijs overleggen overeenkomstig het in dit Statuut bepaalde.
 
@@ -1220,7 +1222,7 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 ##### Artikel 65. Procedure in geval van bekentenis
 
-1. Wanneer de beschuldigde schuld bekent overeenkomstig [artikel 64, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-04-21&g=2021-04-21), beslist de Kamer van berechting of:
+1. Wanneer de beschuldigde schuld bekent overeenkomstig [artikel 64, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-12-04&g=2021-12-04), beslist de Kamer van berechting of:
 
 - a. de beschuldigde de aard en de gevolgen van zijn bekentenis begrijpt;
 
@@ -1264,7 +1266,7 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 - c. terecht te staan zonder buitensporige vertraging;
 
-- d. onverminderd het bepaalde in [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=63&z=2021-04-21&g=2021-04-21), aanwezig te zijn ter terechtzitting, verweer te voeren in persoon of door middel van door hem gekozen rechtsbijstand, op de hoogte te worden gesteld van dit recht wanneer hij geen rechtsbijstand heeft en rechtsbijstand toegewezen te krijgen door het Hof in alle gevallen waarin het belang van de rechtspleging dit vereist, en zonder betaling indien de beschuldigde niet over voldoende middelen beschikt;
+- d. onverminderd het bepaalde in [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=63&z=2021-12-04&g=2021-12-04), aanwezig te zijn ter terechtzitting, verweer te voeren in persoon of door middel van door hem gekozen rechtsbijstand, op de hoogte te worden gesteld van dit recht wanneer hij geen rechtsbijstand heeft en rechtsbijstand toegewezen te krijgen door het Hof in alle gevallen waarin het belang van de rechtspleging dit vereist, en zonder betaling indien de beschuldigde niet over voldoende middelen beschikt;
 
 - e. getuigen à charge te ondervragen of te doen ondervragen en de verschijning en ondervraging te bewerkstelligen van getuigen à decharge op dezelfde voorwaarden als gelden voor getuigen à charge; de beschuldigde is tevens gerechtigd verweermiddelen aan te voeren en ander krachtens dit Statuut toelaatbaar bewijs naar voren te brengen;
 
@@ -1280,13 +1282,13 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 ##### Artikel 68. Bescherming van slachtoffers en getuigen en hun deelname aan de procedure
 
-1. Het Hof treft passende maatregelen ter bescherming van de veiligheid, het lichamelijk en geestelijk welzijn, de waardigheid en de persoonlijke levenssfeer van slachtoffers en getuigen. Daarbij neemt het Hof alle relevante factoren in aanmerking, met inbegrip van leeftijd, geslacht zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21), en gezondheid, en de aard van het misdrijf, in het bijzonder doch daartoe niet beperkt, wanneer het misdrijf seksueel geweld of seksistisch geweld of geweld tegen kinderen betreft. De Aanklager treft dergelijke maatregelen in het bijzonder tijdens het onderzoek en de vervolging van dergelijke misdrijven. De maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde en een eerlijke en onpartijdige terechtzitting.
+1. Het Hof treft passende maatregelen ter bescherming van de veiligheid, het lichamelijk en geestelijk welzijn, de waardigheid en de persoonlijke levenssfeer van slachtoffers en getuigen. Daarbij neemt het Hof alle relevante factoren in aanmerking, met inbegrip van leeftijd, geslacht zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04), en gezondheid, en de aard van het misdrijf, in het bijzonder doch daartoe niet beperkt, wanneer het misdrijf seksueel geweld of seksistisch geweld of geweld tegen kinderen betreft. De Aanklager treft dergelijke maatregelen in het bijzonder tijdens het onderzoek en de vervolging van dergelijke misdrijven. De maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde en een eerlijke en onpartijdige terechtzitting.
 
-2. Als uitzondering op het in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2021-04-21&g=2021-04-21) vastgelegde beginsel dat hoorzittingen openbaar zijn, kunnen de Kamers van het Hof, ter bescherming van slachtoffers en getuigen of een beschuldigde, een deel van het proces in een besloten zitting doen plaatsvinden of toestaan dat bewijs wordt geleverd met behulp van elektronische of andere bijzondere middelen. In het bijzonder wordt dit soort maatregelen getroffen in geval van slachtoffers van seksueel geweld of een kind dat slachtoffer of getuige is, tenzij het Hof, alle omstandigheden in aanmerking genomen, in het bijzonder de zienswijze van het slachtoffer of de getuige, anders heeft bepaald.
+2. Als uitzondering op het in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2021-12-04&g=2021-12-04) vastgelegde beginsel dat hoorzittingen openbaar zijn, kunnen de Kamers van het Hof, ter bescherming van slachtoffers en getuigen of een beschuldigde, een deel van het proces in een besloten zitting doen plaatsvinden of toestaan dat bewijs wordt geleverd met behulp van elektronische of andere bijzondere middelen. In het bijzonder wordt dit soort maatregelen getroffen in geval van slachtoffers van seksueel geweld of een kind dat slachtoffer of getuige is, tenzij het Hof, alle omstandigheden in aanmerking genomen, in het bijzonder de zienswijze van het slachtoffer of de getuige, anders heeft bepaald.
 
 3. Waar de persoonlijke belangen van de slachtoffers in het geding zijn, staat het Hof toe dat hun zienswijze en belangen naar voren worden gebracht en in overweging worden genomen in daartoe door het Hof als passend bepaalde stadia van het proces en op een wijze die geen afbreuk doet aan of onverenigbaar is met de rechten van de beschuldigde en een eerlijk en onpartijdig proces. Dergelijke zienswijze en belangen kunnen naar voren worden gebracht door de wettelijke vertegenwoordigers van de slachtoffers indien het Hof dit passend acht, overeenkomstig het Reglement van proces- en bewijsvoering.
 
-4. De Afdeling voor Slachtoffers en Getuigen is bevoegd advies uit te brengen aan de Aanklager en aan het Hof ten aanzien van passende beschermende maatregelen, beveiligingsregelingen, advies en bijstand als bedoeld in [artikel 43, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2021-04-21&g=2021-04-21).
+4. De Afdeling voor Slachtoffers en Getuigen is bevoegd advies uit te brengen aan de Aanklager en aan het Hof ten aanzien van passende beschermende maatregelen, beveiligingsregelingen, advies en bijstand als bedoeld in [artikel 43, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2021-12-04&g=2021-12-04).
 
 5. Wanneer openbaarmaking van bewijs of informatie krachtens dit Statuut de veiligheid van een getuige of van zijn gezins- en familieleden ernstig in gevaar kan brengen, is de Aanklager bevoegd ten behoeve van de onderdelen van het proces die voor de aanvang van de terechtzitting plaatsvinden, na te laten dat bewijs of die informatie te geven en in plaats daarvan een samenvatting te verstrekken. Dit soort maatregelen wordt getroffen op een wijze die geen afbreuk doet aan of onverenigbaar is met de rechten van de beschuldigde en een eerlijk en onpartijdig proces.
 
@@ -1296,9 +1298,9 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 1. Alvorens een getuigenverklaring af te leggen, dient elke getuige overeenkomstig het Reglement van proces- en bewijsvoering een gelofte af te leggen ten aanzien van de waarheidsgetrouwheid van het door hem te leveren bewijs.
 
-2. De getuigenverklaring wordt ter terechtzitting in persoon afgelegd behoudens voorzover de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-04-21&g=2021-04-21) of in het Reglement van proces- en bewijsvoering vermelde maatregelen zijn getroffen. Het Hof is ook bevoegd toe te staan dat een getuige een verklaring aflegt door middel van het direct gesproken woord of een bandopname, door gebruikmaking van video- of audiotechnologie, alsmede door de overlegging van documenten of schriftelijke transcripties overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering. Deze maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde.
+2. De getuigenverklaring wordt ter terechtzitting in persoon afgelegd behoudens voorzover de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-12-04&g=2021-12-04) of in het Reglement van proces- en bewijsvoering vermelde maatregelen zijn getroffen. Het Hof is ook bevoegd toe te staan dat een getuige een verklaring aflegt door middel van het direct gesproken woord of een bandopname, door gebruikmaking van video- of audiotechnologie, alsmede door de overlegging van documenten of schriftelijke transcripties overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering. Deze maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde.
 
-3. De partijen kunnen overeenkomstig [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-04-21&g=2021-04-21) bewijsmiddelen overleggen die voor de zaak relevant zijn. Ten behoeve van de waarheidsvinding is het Hof bevoegd overlegging te verzoeken van ieder bewijsmiddel.
+3. De partijen kunnen overeenkomstig [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-12-04&g=2021-12-04) bewijsmiddelen overleggen die voor de zaak relevant zijn. Ten behoeve van de waarheidsvinding is het Hof bevoegd overlegging te verzoeken van ieder bewijsmiddel.
 
 4. Het Hof is bevoegd te beslissen of een bewijsmiddel relevant of toelaatbaar is, waarbij het onder meer in aanmerking neemt de bewijskracht van het bewijsmiddel en de afbreuk die dit bewijsmiddel kan doen aan een eerlijk proces of een eerlijke beoordeling van de getuigenverklaring, overeenkomstig het Reglement van proces- en bewijsvoering.
 
@@ -1318,7 +1320,7 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 1. Het Hof heeft rechtsmacht ter zake van de volgende misdrijven tegen de rechtspleging van het Hof wanneer deze opzettelijk worden begaan:
 
-- a. het afleggen van een valse getuigenverklaring wanneer ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2021-04-21&g=2021-04-21), de verplichting bestaat de waarheid te spreken;
+- a. het afleggen van een valse getuigenverklaring wanneer ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2021-12-04&g=2021-12-04), de verplichting bestaat de waarheid te spreken;
 
 - b. het leveren van bewijs waarvan de partij weet dat het vals of vervalst is;
 
@@ -1346,11 +1348,11 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 ##### Artikel 72. Bescherming van informatie met betrekking tot de nationale veiligheid
 
-1. Dit artikel geldt voor elk geval waarin de openbaarmaking van de informatie of documenten van een Staat, naar de mening van die Staat zijn nationale veiligheidsbelangen zou schaden. Deze gevallen omvatten mede die zaken die vallen binnen de reikwijdte van [artikel 56, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-04-21&g=2021-04-21), [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-04-21&g=2021-04-21), [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-04-21&g=2021-04-21), [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2021-04-21&g=2021-04-21), [artikel 68, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-04-21&g=2021-04-21), [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21) en [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21), alsmede gevallen die zich voordoen in enig ander stadium van de procedure wanneer een dergelijke openbaarmaking aan de orde kan zijn.
+1. Dit artikel geldt voor elk geval waarin de openbaarmaking van de informatie of documenten van een Staat, naar de mening van die Staat zijn nationale veiligheidsbelangen zou schaden. Deze gevallen omvatten mede die zaken die vallen binnen de reikwijdte van [artikel 56, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-12-04&g=2021-12-04), [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2021-12-04&g=2021-12-04), [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2021-12-04&g=2021-12-04), [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2021-12-04&g=2021-12-04), [artikel 68, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-12-04&g=2021-12-04), [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04) en [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04), alsmede gevallen die zich voordoen in enig ander stadium van de procedure wanneer een dergelijke openbaarmaking aan de orde kan zijn.
 
 2. Dit artikel geldt tevens wanneer een persoon aan wie is verzocht informatie of bewijs te verschaffen heeft geweigerd dit te doen of de zaak naar de Staat heeft verwezen op grond van het feit dat openbaarmaking de nationale veiligheidsbelangen van een Staat zou schaden en de betrokken Staat bevestigt dat openbaarmaking zijn nationale veiligheidsbelangen zou schaden.
 
-3. Niets in dit artikel doet afbreuk aan de vereisten van vertrouwelijkheid ingevolge [artikel 54, derde lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2021-04-21&g=2021-04-21), of aan de toepassing van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=73&z=2021-04-21&g=2021-04-21).
+3. Niets in dit artikel doet afbreuk aan de vereisten van vertrouwelijkheid ingevolge [artikel 54, derde lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2021-12-04&g=2021-12-04), of aan de toepassing van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=73&z=2021-12-04&g=2021-12-04).
 
 4. Indien een Staat ter kennis komt dat informatie of documenten van de Staat in enig stadium van de procedure waarschijnlijk of zeker worden openbaargemaakt en hij is van oordeel dat openbaarmaking zijn nationale veiligheidsbelangen zou schaden, heeft die Staat het recht tussenbeide te komen teneinde overeenkomstig dit artikel een oplossing voor het geschilpunt te verkrijgen.
 
@@ -1368,11 +1370,11 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 7. Daarna, indien het Hof het bewijs relevant en noodzakelijk acht ter vaststelling van de schuld of onschuld van de beschuldigde, is het Hof bevoegd de volgende stappen te ondernemen.
 
-- a. Wanneer openbaarmaking van de informatie of het document wordt verzocht krachtens een verzoek om samenwerking overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) of de in het tweede lid vermelde omstandigheden, en de Staat een beroep heeft gedaan op de grond tot weigering als bedoeld in [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21):
+- a. Wanneer openbaarmaking van de informatie of het document wordt verzocht krachtens een verzoek om samenwerking overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) of de in het tweede lid vermelde omstandigheden, en de Staat een beroep heeft gedaan op de grond tot weigering als bedoeld in [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04):
 
 - i. is het Hof bevoegd, alvorens tot de slotsom te komen als bedoeld in het zevende lid, onder a, onderdeel ii., te verzoeken om aanvullend overleg teneinde de opmerkingen van de Staat in overweging te nemen, waaronder hoorzittingen met gesloten deuren en bij afwezigheid van de andere partij;
 
-- ii. indien het Hof tot de slotsom komt dat de aangezochte Staat, door zich te beroepen op de grond tot weigering ingevolge [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21), in de omstandigheden van het geval, niet handelt overeenkomstig zijn verplichtingen ingevolge dit Statuut, is het Hof bevoegd de zaak te verwijzen overeenkomstig [artikel 87, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21), onder opgave van de redenen voor zijn besluit;
+- ii. indien het Hof tot de slotsom komt dat de aangezochte Staat, door zich te beroepen op de grond tot weigering ingevolge [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04), in de omstandigheden van het geval, niet handelt overeenkomstig zijn verplichtingen ingevolge dit Statuut, is het Hof bevoegd de zaak te verwijzen overeenkomstig [artikel 87, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04), onder opgave van de redenen voor zijn besluit;
 
 - iii. is het Hof bevoegd tijdens de terechtzitting van de beschuldigde ten aanzien van het al dan niet bestaan van een feit de onder de omstandigheden passende conclusie te trekken.
 
@@ -1384,7 +1386,7 @@ Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van he
 
 ##### Artikel 73. Informatie of documenten van derden
 
-Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of informatie te verstrekken die hij in bewaring, in bezit of onder zijn toezicht heeft, die hem zijn toevertrouwd door een Staat, een inter-gouvernementele organisatie of een internationale organisatie, verzoekt hij degene van wie die documenten of informatie afkomstig zijn om toestemming tot openbaarmaking daarvan. Indien het afkomstig is van een Staat die Partij is, verleent deze toestemming tot openbaarmaking van de informatie of documenten of verplicht hij zich de kwestie van openbaarmaking met het Hof op te lossen overeenkomstig het bepaalde in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-04-21&g=2021-04-21). Indien de documenten of informatie afkomstig zijn van een derde, niet-zijnde een Staat die Partij is, en deze weigert toestemming tot openbaarmaking te verlenen, stelt de aangezochte Staat het Hof ervan in kennis dat hij niet in staat is de documenten of de informatie te verschaffen ten gevolge van een reeds daarvoor bestaande verplichting tot vertrouwelijkheid tegenover degene van wie het afkomstig is.
+Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of informatie te verstrekken die hij in bewaring, in bezit of onder zijn toezicht heeft, die hem zijn toevertrouwd door een Staat, een inter-gouvernementele organisatie of een internationale organisatie, verzoekt hij degene van wie die documenten of informatie afkomstig zijn om toestemming tot openbaarmaking daarvan. Indien het afkomstig is van een Staat die Partij is, verleent deze toestemming tot openbaarmaking van de informatie of documenten of verplicht hij zich de kwestie van openbaarmaking met het Hof op te lossen overeenkomstig het bepaalde in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-12-04&g=2021-12-04). Indien de documenten of informatie afkomstig zijn van een derde, niet-zijnde een Staat die Partij is, en deze weigert toestemming tot openbaarmaking te verlenen, stelt de aangezochte Staat het Hof ervan in kennis dat hij niet in staat is de documenten of de informatie te verschaffen ten gevolge van een reeds daarvoor bestaande verplichting tot vertrouwelijkheid tegenover degene van wie het afkomstig is.
 
 ##### Artikel 74. Eisen te stellen aan de beslissing
 
@@ -1402,13 +1404,13 @@ Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of inform
 
 1. Het Hof stelt beginselen vast met betrekking tot herstelbetalingen aan of ten aanzien van slachtoffers, met inbegrip van restitutie, schadeloosstelling en rehabilitatie. Op basis daarvan is het Hof bevoegd in zijn beslissing, op verzoek of ambtshalve in uitzonderlijke omstandigheden, de reikwijdte en omvang te bepalen van schade, verlies en letsel veroorzaakt aan of ten aanzien van slachtoffers en vermeldt het Hof de beginselen waarop zijn handelen is gegrond.
 
-2. Het Hof is bevoegd een rechtstreeks bevel te richten tot een veroordeelde persoon, waarin passende herstelbetalingen zijn omschreven aan of ten aanzien van slachtoffers, met inbegrip van restitutie, schadeloosstelling en rehabilitatie. Waar het Hof dit gepast acht, is het bevoegd te gelasten dat de toekenning van herstelbetalingen geschiedt via het in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=79&z=2021-04-21&g=2021-04-21) bedoelde Trustfonds.
+2. Het Hof is bevoegd een rechtstreeks bevel te richten tot een veroordeelde persoon, waarin passende herstelbetalingen zijn omschreven aan of ten aanzien van slachtoffers, met inbegrip van restitutie, schadeloosstelling en rehabilitatie. Waar het Hof dit gepast acht, is het bevoegd te gelasten dat de toekenning van herstelbetalingen geschiedt via het in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=79&z=2021-12-04&g=2021-12-04) bedoelde Trustfonds.
 
 3. Alvorens een bevel uit te vaardigen ingevolge dit artikel, is het Hof bevoegd gelegenheid te geven tot het kenbaar maken van opvattingen door of uit naam van de veroordeelde persoon, de slachtoffers, andere belanghebbenden of belanghebbende Staten, waarmee het rekening zal houden.
 
-4. Bij de uitoefening van de ingevolge dit artikel verleende bevoegdheid is het Hof bevoegd, nadat een persoon is veroordeeld voor een misdrijf waarover het Hof rechtsmacht bezit, te bepalen of het, om uitvoering te geven aan een bevel dat het ingevolge dit artikel bevoegd is te geven, noodzakelijk is te verzoeken om maatregelen ingevolge [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21).
+4. Bij de uitoefening van de ingevolge dit artikel verleende bevoegdheid is het Hof bevoegd, nadat een persoon is veroordeeld voor een misdrijf waarover het Hof rechtsmacht bezit, te bepalen of het, om uitvoering te geven aan een bevel dat het ingevolge dit artikel bevoegd is te geven, noodzakelijk is te verzoeken om maatregelen ingevolge [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04).
 
-5. Een Staat die Partij is geeft uitvoering aan een beslissing ingevolge dit artikel overeenkomstig het bepaalde in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=109&z=2021-04-21&g=2021-04-21).
+5. Een Staat die Partij is geeft uitvoering aan een beslissing ingevolge dit artikel overeenkomstig het bepaalde in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=109&z=2021-12-04&g=2021-12-04).
 
 6. Niets in dit artikel doet afbreuk aan de rechten van slachtoffers krachtens nationaal of internationaal recht.
 
@@ -1418,7 +1420,7 @@ Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of inform
 
 2. Behoudens wanneer artikel 65 van toepassing is en voor het einde van de terechtzitting is de Kamer van berechting ambtshalve bevoegd een nadere zitting te houden, en dient hij, wanneer de Aanklager of de beschuldigde dit verzoekt, deze te houden, teneinde kennis te nemen van aanvullend bewijs of aanvullende conclusies die relevant zijn voor de einduitspraak, overeenkomstig het Reglement van proces- en bewijsvoering.
 
-3. Indien het tweede lid van toepassing is neemt het Hof kennis van de opvattingen ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2021-04-21&g=2021-04-21) tijdens de in het tweede lid vermelde nadere zitting en, indien noodzakelijk, in de loop van aanvullende zittingen.
+3. Indien het tweede lid van toepassing is neemt het Hof kennis van de opvattingen ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2021-12-04&g=2021-12-04) tijdens de in het tweede lid vermelde nadere zitting en, indien noodzakelijk, in de loop van aanvullende zittingen.
 
 4. De einduitspraak wordt in het openbaar uitgesproken en, waar mogelijk, in aanwezigheid van de beschuldigde.
 
@@ -1426,7 +1428,7 @@ Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of inform
 
 ##### Artikel 77. Toepasselijke straffen
 
-1. Onverminderd [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2021-04-21&g=2021-04-21) is het Hof bevoegd een van de volgende straffen op te leggen aan een persoon die veroordeeld is wegens een in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21) van dit Statuut bedoeld misdrijf:
+1. Onverminderd [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2021-12-04&g=2021-12-04) is het Hof bevoegd een van de volgende straffen op te leggen aan een persoon die veroordeeld is wegens een in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04) van dit Statuut bedoeld misdrijf:
 
 - a. gevangenisstraf voor een bepaald aantal jaren, van ten hoogste 30 jaar; of
 
@@ -1444,7 +1446,7 @@ Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of inform
 
 2. Bij de oplegging van een einduitspraak tot gevangenisstraf brengt het Hof de tijd in mindering die overeenkomstig een bevel van het Hof in hechtenis is doorgebracht. Het Hof kan de tijd in mindering brengen die anderszins in hechtenis is doorgebracht in verband met gedragingen die ten grondslag liggen aan het misdrijf.
 
-3. Wanneer een persoon voor meer dan een misdrijf is veroordeeld wijst het Hof een einduitspraak voor elk misdrijf en bepaalt het in een gevoegde einduitspraak waarin de totale duur van de gevangenisstraf wordt vermeld. Deze duur is niet korter dan de hoogste afzonderlijk opgelegde straf en niet langer dan 30 jaar gevangenisstraf of levenslange gevangenisstraf overeenkomstig [artikel 77, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=77&z=2021-04-21&g=2021-04-21).
+3. Wanneer een persoon voor meer dan een misdrijf is veroordeeld wijst het Hof een einduitspraak voor elk misdrijf en bepaalt het in een gevoegde einduitspraak waarin de totale duur van de gevangenisstraf wordt vermeld. Deze duur is niet korter dan de hoogste afzonderlijk opgelegde straf en niet langer dan 30 jaar gevangenisstraf of levenslange gevangenisstraf overeenkomstig [artikel 77, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=77&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 79. Trustfonds
 
@@ -1462,7 +1464,7 @@ Het in dit Deel van het Statuut bepaalde doet geen afbreuk aan de toepasselijkhe
 
 ##### Artikel 81. Beroep tegen een einduitspraak
 
-1. Tegen een beslissing ingevolge [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=74&z=2021-04-21&g=2021-04-21) kan beroep worden ingesteld overeenkomstig het Reglement van proces- en bewijsvoering.
+1. Tegen een beslissing ingevolge [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=74&z=2021-12-04&g=2021-12-04) kan beroep worden ingesteld overeenkomstig het Reglement van proces- en bewijsvoering.
 
 - a. De Aanklager is bevoegd beroep in te stellen op een van de volgende gronden:
 
@@ -1484,7 +1486,7 @@ Het in dit Deel van het Statuut bepaalde doet geen afbreuk aan de toepasselijkhe
 
 - a. Overeenkomstig het Reglement van proces- en bewijsvoering zijn de Aanklager en de veroordeelde bevoegd om beroep in te stellen tegen een einduitspraak, op grond van onevenredigheid tussen het misdrijf en de einduitspraak;
 
-- b. Indien het Hof op een beroep tegen een einduitspraak gronden aanneemt om de veroordeling geheel of gedeeltelijk te vernietigen, is het Hof bevoegd de Aanklager en de veroordeelde uit te nodigen gronden te ontwikkelen ingevolge [artikel 81, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2021-04-21&g=2021-04-21), en een beslissing te nemen over veroordeling overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=83&z=2021-04-21&g=2021-04-21);
+- b. Indien het Hof op een beroep tegen een einduitspraak gronden aanneemt om de veroordeling geheel of gedeeltelijk te vernietigen, is het Hof bevoegd de Aanklager en de veroordeelde uit te nodigen gronden te ontwikkelen ingevolge [artikel 81, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2021-12-04&g=2021-12-04), en een beslissing te nemen over veroordeling overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=83&z=2021-12-04&g=2021-12-04);
 
 - c. Dezelfde procedure geldt, indien het Hof op een beroep dat alleen de veroordeling betreft gronden aanneemt tot vermindering van de straf ingevolge het tweede lid, onder a.
 
@@ -1508,19 +1510,19 @@ Het in dit Deel van het Statuut bepaalde doet geen afbreuk aan de toepasselijkhe
 
 - b. een beslissing tot invrijheidstelling van de verdachte of beschuldigde of weigering daarvan;
 
-- c. een ambtshalve beslissing van de Kamer van vooronderzoek ingevolge [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-04-21&g=2021-04-21);
+- c. een ambtshalve beslissing van de Kamer van vooronderzoek ingevolge [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2021-12-04&g=2021-12-04);
 
 - d. een beslissing die waagt van een punt dat van aanmerkelijke invloed kan zijn op een eerlijk en vlot verloop van de procedure of op de uitkomst van de terechtzitting, en waarvoor naar het oordeel van de Kamer van vooronderzoek of de Kamer van berechting een onmiddellijke uitspraak van de Kamer van beroep de voortgang van de procedure in belangrijke mate kan bevorderen.
 
-2. De betrokken Staat of de Aanklager, met instemming van de Kamer van vooronderzoek is bevoegd beroep in te stellen tegen een beslissing van de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2021-04-21&g=2021-04-21). Het beroep wordt behandeld volgens een verkorte procedure.
+2. De betrokken Staat of de Aanklager, met instemming van de Kamer van vooronderzoek is bevoegd beroep in te stellen tegen een beslissing van de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2021-12-04&g=2021-12-04). Het beroep wordt behandeld volgens een verkorte procedure.
 
 3. Aanwending van beroep heeft geen schorsende werking tenzij de Kamer van beroep, overeenkomstig het Reglement van proces- en bewijsvoering anders bepaalt.
 
-4. Een wettelijk vertegenwoordiger van de slachtoffers, de veroordeelde of een eigenaar te goeder trouw op wiens recht nadelig inbreuk wordt gemaakt door een bevel ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2021-04-21&g=2021-04-21) is bevoegd beroep in te stellen tegen het bevel tot herstelbetalingen, overeenkomstig het Reglement van proces- en bewijsvoering.
+4. Een wettelijk vertegenwoordiger van de slachtoffers, de veroordeelde of een eigenaar te goeder trouw op wiens recht nadelig inbreuk wordt gemaakt door een bevel ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2021-12-04&g=2021-12-04) is bevoegd beroep in te stellen tegen het bevel tot herstelbetalingen, overeenkomstig het Reglement van proces- en bewijsvoering.
 
 ##### Artikel 83. Beroepsprocedure
 
-1. De Kamer van beroep oefent alle bevoegdheden uit van de Kamer van berechting ter zake van procesvoering ingevolge [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2021-04-21&g=2021-04-21) en dit artikel.
+1. De Kamer van beroep oefent alle bevoegdheden uit van de Kamer van berechting ter zake van procesvoering ingevolge [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2021-12-04&g=2021-12-04) en dit artikel.
 
 2. Indien de Kamer van beroep vaststelt dat de procedure waartegen beroep is ingesteld, oneerlijk is verlopen waardoor de betrouwbaarheid van de uitspraak is aangetast of dat de uitspraak waartegen beroep is ingesteld inhoudelijk is aangetast door feitelijke of rechtsdwaling of door een procedurefout, is hij bevoegd:
 
@@ -1530,7 +1532,7 @@ Het in dit Deel van het Statuut bepaalde doet geen afbreuk aan de toepasselijkhe
 
 Hiertoe is de Kamer van beroep bevoegd een vraagpunt van feitelijke aard terug te verwijzen naar de oorspronkelijke Kamer van berechting teneinde dit af te doen, of zelf bewijsvoering te doen plaatsvinden teneinde op dat punt te beslissen. Indien tegen de uitspraak alleen door de veroordeelde beroep is ingesteld of namens hem door de Aanklager, kan de uitspraak niet in zijn nadeel worden herzien.
 
-3. Indien de Kamer van beroep op een beroep tegen een uitspraak vaststelt dat de uitspraak niet in evenredige verhouding staat tot het misdrijf, is de Kamer van beroep bevoegd de uitspraak overeenkomstig [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2021-04-21&g=2021-04-21) te wijzigen.
+3. Indien de Kamer van beroep op een beroep tegen een uitspraak vaststelt dat de uitspraak niet in evenredige verhouding staat tot het misdrijf, is de Kamer van beroep bevoegd de uitspraak overeenkomstig [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2021-12-04&g=2021-12-04) te wijzigen.
 
 4. De uitspraak van de Kamer van beroep wordt bij meerderheid van de rechters en in openbare zitting gewezen. De uitspraak is met redenen omkleed. Bij het ontbreken van eenstemmigheid vermeldt de uitspraak van de Kamer van beroep de zienswijzen van de meerderheid en van de minderheid, met dien verstande dat elke rechter bevoegd is een uiteenzetting van zijn individuele of afwijkende oordeel over een rechtsvraag toe te voegen.
 
@@ -1548,7 +1550,7 @@ Hiertoe is de Kamer van beroep bevoegd een vraagpunt van feitelijke aard terug t
 
 - b. thans pas is ontdekt dat beslissend bewijs dat op de terechtzitting in aanmerking is genomen en waarop de veroordeling is gebaseerd, onwaar, vals of vervalst was;
 
-- c. een of meer rechters die deelnamen aan de veroordeling of bevestiging van de tenlastegelegde feiten zich in die zaak schuldig heeft of hebben gemaakt aan ernstig wangedrag of ernstig plichtsverzuim van voldoende gewicht om de ontzetting van die rechter of rechters uit hun ambt ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-04-21&g=2021-04-21) te rechtvaardigen.
+- c. een of meer rechters die deelnamen aan de veroordeling of bevestiging van de tenlastegelegde feiten zich in die zaak schuldig heeft of hebben gemaakt aan ernstig wangedrag of ernstig plichtsverzuim van voldoende gewicht om de ontzetting van die rechter of rechters uit hun ambt ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-12-04&g=2021-12-04) te rechtvaardigen.
 
 2. De Kamer van beroep wijst het verzoek af indien hij dit ongegrond acht. Indien hij vaststelt dat het verzoek een nadere beoordeling verdient, is hij, waar dit in aanmerking komt bevoegd:
 
@@ -1586,7 +1588,7 @@ Deze keuze kan overeenkomstig het Reglement van proces- en bewijsvoering later w
 
 3. De aangezochte Staat behandelt een verzoek om samenwerking en de documenten ter ondersteuning van het verzoek vertrouwelijk behoudens voorzover openbaarmaking daarvan onontkoombaar is ter inwilliging van het verzoek.
 
-4. Met betrekking tot een verzoek om rechtshulp ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) is het Hof bevoegd alle maatregelen te treffen, met inbegrip van maatregelen ter bescherming van informatie, die noodzakelijk zijn om de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden te waarborgen. Het Hof is bevoegd te verzoeken dat alle ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-04-21&g=2021-04-21) ter beschikking gestelde informatie wordt verstrekt en behandeld op een wijze die de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden beschermt.
+4. Met betrekking tot een verzoek om rechtshulp ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) is het Hof bevoegd alle maatregelen te treffen, met inbegrip van maatregelen ter bescherming van informatie, die noodzakelijk zijn om de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden te waarborgen. Het Hof is bevoegd te verzoeken dat alle ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2021-12-04&g=2021-12-04) ter beschikking gestelde informatie wordt verstrekt en behandeld op een wijze die de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden beschermt.
 
 - a. Het Hof is bevoegd een Staat die geen partij is bij dit Statuut uit te nodigen rechtshulp ingevolge dit Deel te verlenen op basis van een ad hoc-regeling, van een overeenkomst met die Staat of op andere toereikende gronden.
 
@@ -1602,13 +1604,13 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 ##### Artikel 89. Overdracht van personen aan het Hof
 
-1. Het Hof is bevoegd een verzoek tot aanhouding en overdracht van een persoon, tezamen met het in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-04-21&g=2021-04-21) vermelde materiaal ter ondersteuning van het verzoek, tot elke Staat te richten op het grondgebied waarvan die persoon kan worden aangetroffen en verzoekt die Staat om samenwerking bij de aanhouding en overdracht van die persoon. Staten die Partij zijn voldoen overeenkomstig het in dit Deel bepaalde en de procedure ingevolge hun nationaal recht, aan verzoeken tot aanhouding en overdracht.
+1. Het Hof is bevoegd een verzoek tot aanhouding en overdracht van een persoon, tezamen met het in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-12-04&g=2021-12-04) vermelde materiaal ter ondersteuning van het verzoek, tot elke Staat te richten op het grondgebied waarvan die persoon kan worden aangetroffen en verzoekt die Staat om samenwerking bij de aanhouding en overdracht van die persoon. Staten die Partij zijn voldoen overeenkomstig het in dit Deel bepaalde en de procedure ingevolge hun nationaal recht, aan verzoeken tot aanhouding en overdracht.
 
-2. Indien de persoon om wiens overdracht wordt verzocht dit voor een nationale rechtbank aanvecht op grond van het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2021-04-21&g=2021-04-21) omschreven beginsel, raadpleegt de aangezochte Staat onverwijld het Hof teneinde vast te stellen of met betrekking tot de ontvankelijkheid een relevante uitspraak bestaat. Indien de zaak ontvankelijk is, willigt de aangezochte Staat het verzoek in. Indien een uitspraak over de ontvankelijkheid hangende is, is de aangezochte Staat bevoegd de inwilliging van het verzoek tot overdracht van de persoon aan te houden totdat het Hof heeft beslist over de ontvankelijkheid.
+2. Indien de persoon om wiens overdracht wordt verzocht dit voor een nationale rechtbank aanvecht op grond van het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2021-12-04&g=2021-12-04) omschreven beginsel, raadpleegt de aangezochte Staat onverwijld het Hof teneinde vast te stellen of met betrekking tot de ontvankelijkheid een relevante uitspraak bestaat. Indien de zaak ontvankelijk is, willigt de aangezochte Staat het verzoek in. Indien een uitspraak over de ontvankelijkheid hangende is, is de aangezochte Staat bevoegd de inwilliging van het verzoek tot overdracht van de persoon aan te houden totdat het Hof heeft beslist over de ontvankelijkheid.
 
 - a. Een Staat die Partij is verleent overeenkomstig zijn nationaal procesrecht toestemming tot vervoer over zijn grondgebied van een persoon die door een andere Staat aan het Hof wordt overgedragen, behoudens wanneer doorvoer door die Staat de overdracht zou belemmeren of vertragen;
 
-- b. Een verzoek tot doorvoer van het Hof wordt overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21) overgebracht. Het verzoek tot doorvoer bevat:
+- b. Een verzoek tot doorvoer van het Hof wordt overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04) overgebracht. Het verzoek tot doorvoer bevat:
 
 - i. een signalement van de persoon die wordt vervoerd;
 
@@ -1626,11 +1628,11 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 ##### Artikel 90. Concurrerende verzoeken
 
-1. Een Staat die Partij is en een verzoek van het Hof ontvangt tot overdracht van een persoon ingevolge [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=89&z=2021-04-21&g=2021-04-21), stelt, indien hij ook van een andere Staat een verzoek ontvangt tot uitlevering van dezelfde persoon voor dezelfde gedragingen die de grondslag vormen voor het misdrijf waarvoor het Hof de overdracht van de persoon verlangt, het Hof en de verzoekende Staat van dat feit in kennis.
+1. Een Staat die Partij is en een verzoek van het Hof ontvangt tot overdracht van een persoon ingevolge [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=89&z=2021-12-04&g=2021-12-04), stelt, indien hij ook van een andere Staat een verzoek ontvangt tot uitlevering van dezelfde persoon voor dezelfde gedragingen die de grondslag vormen voor het misdrijf waarvoor het Hof de overdracht van de persoon verlangt, het Hof en de verzoekende Staat van dat feit in kennis.
 
 2. Wanneer de verzoekende Staat een Staat is die Partij is, verleent de aangezochte Staat voorrang aan het verzoek van het Hof indien:
 
-- a. het Hof ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-04-21&g=2021-04-21) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-04-21&g=2021-04-21) de beslissing heeft genomen dat de zaak waarvoor overdracht wordt verlangd ontvankelijk is en bij die beslissing rekening is gehouden met het gevoerde onderzoek of de vervolging die door de verzoekende Staat is verricht met betrekking tot zijn verzoek tot uitlevering; of
+- a. het Hof ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-12-04&g=2021-12-04) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-12-04&g=2021-12-04) de beslissing heeft genomen dat de zaak waarvoor overdracht wordt verlangd ontvankelijk is en bij die beslissing rekening is gehouden met het gevoerde onderzoek of de vervolging die door de verzoekende Staat is verricht met betrekking tot zijn verzoek tot uitlevering; of
 
 - b. het Hof de onder a vermelde beslissing neemt overeenkomstig de kennisgeving aan de aangezochte Staat ingevolge het eerste lid.
 
@@ -1658,9 +1660,9 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 ##### Artikel 91. Inhoud van het verzoek tot aanhouding en overdracht
 
-1. Een verzoek tot aanhouding en overdracht wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren mits het verzoek wordt bevestigd langs de in [artikel 87, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21), vermelde weg.
+1. Een verzoek tot aanhouding en overdracht wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren mits het verzoek wordt bevestigd langs de in [artikel 87, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04), vermelde weg.
 
-2. In het geval van een verzoek tot aanhouding en overdracht van een persoon tegen wie een bevel tot aanhouding is uitgevaardigd door de Kamer van vooronderzoek ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-04-21&g=2021-04-21), bevat het verzoek of wordt het ondersteund door:
+2. In het geval van een verzoek tot aanhouding en overdracht van een persoon tegen wie een bevel tot aanhouding is uitgevaardigd door de Kamer van vooronderzoek ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2021-12-04&g=2021-12-04), bevat het verzoek of wordt het ondersteund door:
 
 - a. het signalement van de opgeëiste persoon, dat toereikend is voor diens identificatie en informatie met betrekking tot de plaats waar die persoon zich waarschijnlijk bevindt;
 
@@ -1682,7 +1684,7 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 ##### Artikel 92. Voorlopige aanhouding
 
-1. In dringende gevallen is het Hof bevoegd de voorlopige aanhouding van de opgeëiste persoon te verzoeken, hangende de indiening van het verzoek tot overdracht en de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-04-21&g=2021-04-21) vermelde documenten die het verzoek dienen te ondersteunen.
+1. In dringende gevallen is het Hof bevoegd de voorlopige aanhouding van de opgeëiste persoon te verzoeken, hangende de indiening van het verzoek tot overdracht en de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-12-04&g=2021-12-04) vermelde documenten die het verzoek dienen te ondersteunen.
 
 2. Het verzoek tot voorlopige aanhouding wordt gedaan via een communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren en bevat:
 
@@ -1694,7 +1696,7 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 - d. een verklaring dat een verzoek tot overdracht van de opgeëiste persoon zal volgen.
 
-3. Een persoon die voorlopig is aangehouden kan uit hechtenis worden vrijgelaten indien de aangezochte Staat geen verzoek tot overdracht noch de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-04-21&g=2021-04-21) vermelde documenten ter ondersteuning van het verzoek heeft ontvangen binnen de in het Reglement van proces- en bewijsvoering vastgelegde termijnen. De persoon kan echter instemmen met overdracht voor afloop van deze termijn indien dit mogelijk is ingevolge het recht van de aangezochte Staat. In dit geval gaat de aangezochte Staat zo spoedig mogelijk over tot overdracht van de persoon aan het Hof.
+3. Een persoon die voorlopig is aangehouden kan uit hechtenis worden vrijgelaten indien de aangezochte Staat geen verzoek tot overdracht noch de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-12-04&g=2021-12-04) vermelde documenten ter ondersteuning van het verzoek heeft ontvangen binnen de in het Reglement van proces- en bewijsvoering vastgelegde termijnen. De persoon kan echter instemmen met overdracht voor afloop van deze termijn indien dit mogelijk is ingevolge het recht van de aangezochte Staat. In dit geval gaat de aangezochte Staat zo spoedig mogelijk over tot overdracht van de persoon aan het Hof.
 
 4. Het feit dat de opgeëiste persoon overeenkomstig het derde lid uit hechtenis is vrijgelaten doet geen afbreuk aan de latere aanhouding en overdracht van die persoon indien het verzoek tot overdracht en de documenten ter ondersteuning van het verzoek op een later tijdstip worden aangeboden.
 
@@ -1730,7 +1732,7 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 3. Indien de uitvoering van een bijzondere maatregel terzake van rechtshulp omschreven in een verzoek dat ingevolge het eerste lid is ingediend in de aangezochte Staat verboden is op grond van een bestaand, fundamenteel, algemeen geldend rechtsbeginsel, pleegt de aangezochte Staat onverwijld overleg met het Hof teneinde te trachten de zaak op te lossen. Bij dit overleg dient te worden overwogen of de rechtshulp op een andere wijze of onder voorwaarden kan worden verleend. Indien dit overleg niet leidt tot oplossing van de zaak, wijzigt het Hof het verzoek voorzover dit noodzakelijk is.
 
-4. Overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-04-21&g=2021-04-21) kan een Staat die Partij is een verzoek om rechtshulp slechts geheel of gedeeltelijk weigeren, indien het verzoek het overleggen van documenten of de openbaarmaking van bewijs betreft waarbij zijn nationale veiligheid in het geding is.
+4. Overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-12-04&g=2021-12-04) kan een Staat die Partij is een verzoek om rechtshulp slechts geheel of gedeeltelijk weigeren, indien het verzoek het overleggen van documenten of de openbaarmaking van bewijs betreft waarbij zijn nationale veiligheid in het geding is.
 
 5. Alvorens een verzoek om rechtshulp ingevolge het eerste lid, onder l, te weigeren, overweegt de aangezochte Staat of de rechtshulp onder bepaalde voorwaarden kan worden verleend of dat de rechtshulp op een later tijdstip of op andere wijze kan worden verleend, met dien verstande dat indien het Hof of de Aanklager de rechtshulp onder voorwaarden aanvaardt, het Hof of de Aanklager zich daaraan dient te houden.
 
@@ -1748,13 +1750,13 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 - b. De aangezochte Staat kan, wanneer dit noodzakelijk is, documenten of informatie aan de Aanklager verstrekken op basis van vertrouwelijkheid. De Aanklager is bevoegd deze in dat geval slechts te gebruiken om nieuw bewijs te verkrijgen.
 
-- c. De aangezochte Staat kan, uit eigen beweging of op verzoek van de Aanklager, in een later stadium toestemming geven tot openbaarmaking van die documenten of informatie. Deze kunnen in dat geval worden aangewend als bewijs ingevolge het bepaalde in de [Delen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&z=2021-04-21&g=2021-04-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&z=2021-04-21&g=2021-04-21) en overeenkomstig het Reglement van proces- en bewijsvoering.
+- c. De aangezochte Staat kan, uit eigen beweging of op verzoek van de Aanklager, in een later stadium toestemming geven tot openbaarmaking van die documenten of informatie. Deze kunnen in dat geval worden aangewend als bewijs ingevolge het bepaalde in de [Delen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&z=2021-12-04&g=2021-12-04) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&z=2021-12-04&g=2021-12-04) en overeenkomstig het Reglement van proces- en bewijsvoering.
 
 - a.
 
 - i. In het geval dat een Staat die Partij is concurrerende verzoeken, anders dan tot overdracht of uitlevering, ontvangt van het Hof en van een andere Staat ingevolge een internationale verplichting, tracht de Staat die Partij is in overleg met het Hof en de andere Staat, aan beide verzoeken te voldoen, waarbij zo nodig het ene of het andere verzoek wordt uitgesteld of aan de inwilliging daarvan voorwaarden worden verbonden.
 
-- ii. Indien zulks onmogelijk blijkt, wordt de concurrentie van verzoeken opgelost overeenkomstig de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=90&z=2021-04-21&g=2021-04-21) vastgelegde beginselen.
+- ii. Indien zulks onmogelijk blijkt, wordt de concurrentie van verzoeken opgelost overeenkomstig de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=90&z=2021-12-04&g=2021-12-04) vastgelegde beginselen.
 
 - b. Indien echter het verzoek van het Hof informatie, goederen of personen betreft die zich bevinden in de feitelijke macht van een derde Staat of een internationale organisatie ingevolge een internationale overeenkomst, stellen de aangezochte Staten het Hof daarvan in kennis en richt het Hof zijn verzoek tot de derde Staat of de internationale organisatie.
 
@@ -1772,7 +1774,7 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 - 1. indien de documenten of andere vormen van bewijs zijn verkregen met rechtshulp van een Staat, is voor een dergelijke overdracht de toestemming van die Staat vereist;
 
-- 2. indien de verklaringen, documenten of andere vormen van bewijs zijn verstrekt door een getuige of een deskundige, geldt voor een dergelijke overdracht het bepaalde in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-04-21&g=2021-04-21).
+- 2. indien de verklaringen, documenten of andere vormen van bewijs zijn verstrekt door een getuige of een deskundige, geldt voor een dergelijke overdracht het bepaalde in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2021-12-04&g=2021-12-04).
 
 - c. Het Hof is bevoegd onder de in dit lid vermelde voorwaarden te voldoen aan een rechtshulpverzoek ingevolge dit lid van een Staat die geen partij is bij dit Statuut.
 
@@ -1780,15 +1782,15 @@ Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht pro
 
 1. Indien de onmiddellijke inwilliging van een verzoek een lopend onderzoek of vervolging in een andere zaak dan die waarop het verzoek betrekking heeft zou belemmeren, kan de aangezochte Staat de inwilliging van het verzoek opschorten gedurende een bepaalde met het Hof overeengekomen tijd. Het uitstel dient echter niet langer te zijn dan noodzakelijk ter voltooiing van het desbetreffende onderzoek of de vervolging in de aangezochte Staat. Alvorens een beslissing tot opschorting te nemen overweegt de aangezochte Staat of de rechtshulp onmiddellijk onder bepaalde voorwaarden kan worden verleend.
 
-2. Indien een beslissing tot opschorting wordt genomen ingevolge het eerste lid, is de Aanklager echter bevoegd te verzoeken om maatregelen tot de instandhouding van bewijs ingevolge [artikel 93, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21).
+2. Indien een beslissing tot opschorting wordt genomen ingevolge het eerste lid, is de Aanklager echter bevoegd te verzoeken om maatregelen tot de instandhouding van bewijs ingevolge [artikel 93, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 95. Uitstel van inwilliging van een verzoek bij betwisting van ontvankelijkheid
 
-Onverminderd het bepaalde in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=53&z=2021-04-21&g=2021-04-21), kan in het geval waarin het Hof een betwisting van ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-04-21&g=2021-04-21) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-04-21&g=2021-04-21) onderzoekt, de aangezochte Staat de inwilliging van een verzoek ingevolge dit Deel uitstellen, hangende een beslissing door het Hof, tenzij het Hof uitdrukkelijk heeft bepaald dat de Aanklager kan voortgaan met het vergaren van dat bewijs ingevolge de artikelen 18 of 19.
+Onverminderd het bepaalde in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=53&z=2021-12-04&g=2021-12-04), kan in het geval waarin het Hof een betwisting van ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-12-04&g=2021-12-04) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-12-04&g=2021-12-04) onderzoekt, de aangezochte Staat de inwilliging van een verzoek ingevolge dit Deel uitstellen, hangende een beslissing door het Hof, tenzij het Hof uitdrukkelijk heeft bepaald dat de Aanklager kan voortgaan met het vergaren van dat bewijs ingevolge de artikelen 18 of 19.
 
-##### Artikel 96. Inhoud van een verzoek om andere vormen van rechtshulp ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21)
+##### Artikel 96. Inhoud van een verzoek om andere vormen van rechtshulp ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04)
 
-1. Een verzoek om andere vormen van rechtshulp als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21) wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren, mits het verzoek bevestigd wordt langs de in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21), onder a, vermelde weg.
+1. Een verzoek om andere vormen van rechtshulp als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04) wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren, mits het verzoek bevestigd wordt langs de in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04), onder a, vermelde weg.
 
 2. Het verzoek bevat, waar toepasselijk, of wordt ondersteund door het volgende:
 
@@ -1824,7 +1826,7 @@ Wanneer een Staat die Partij is een verzoek ingevolge dit Deel ontvangt in verba
 
 2. Het Hof is niet bevoegd een verzoek tot overdracht te handhaven wanneer dit van de aangezochte Staat zou meebrengen dat deze handelt op een wijze die onverenigbaar is met zijn verplichtingen ingevolge internationale overeenkomsten ten gevolge waarvan de toestemming van een zendstaat is vereist van overdracht aan het Hof van een persoon van die Staat, tenzij het Hof eerst de samenwerking van de zendstaat kan verkrijgen voor het verlenen van toestemming van overdracht.
 
-##### Artikel 99. Inwilliging van verzoeken ingevolge de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21) en [96](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=96&z=2021-04-21&g=2021-04-21)
+##### Artikel 99. Inwilliging van verzoeken ingevolge de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04) en [96](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=96&z=2021-12-04&g=2021-12-04)
 
 1. Een verzoek om rechtshulp wordt ingewilligd overeenkomstig de toepasselijke procedure ingevolge het recht van de aangezochte Staat en, tenzij het krachtens dat recht is verboden, op de wijze die in het verzoek is aangegeven, met inbegrip van het volgen van de daarin uiteengezette procedures of het toestaan aan in het verzoek vermelde personen aanwezig te zijn en te helpen bij de uitvoering.
 
@@ -1834,17 +1836,17 @@ Wanneer een Staat die Partij is een verzoek ingevolge dit Deel ontvangt in verba
 
 4. Onverminderd de overige artikelen in dit Deel, is de Aanklager, wanneer dit noodzakelijk is voor een succesvolle uitvoering van een verzoek dat kan worden ingewilligd zonder dwangmaatregelen, met inbegrip van met name ondervraging van of het afnemen van getuigenverklaringen van een persoon op vrijwillige basis, met inbegrip van de inwilliging daarvan buiten aanwezigheid van de autoriteiten van de aangezochte Staat indien dit essentieel is voor inwilliging van het verzoek, en het onderzoek van een openbare locatie of andere openbare plaats zonder dat er iets in wordt gewijzigd, bevoegd aan een dergelijk verzoek direct op het grondgebied van een Staat als volgt uitvoering te geven:
 
-- a. wanneer de aangezochte Staat die Partij is een Staat is op wiens grondgebied het misdrijf beweerdelijk is gepleegd en de ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-04-21&g=2021-04-21) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-04-21&g=2021-04-21) is vastgesteld, is de Aanklager bevoegd aan een dergelijk verzoek direct uitvoering te geven na overleg, in alle gevallen waarin dit mogelijk is, met de aangezochte Staat die Partij is;
+- a. wanneer de aangezochte Staat die Partij is een Staat is op wiens grondgebied het misdrijf beweerdelijk is gepleegd en de ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2021-12-04&g=2021-12-04) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2021-12-04&g=2021-12-04) is vastgesteld, is de Aanklager bevoegd aan een dergelijk verzoek direct uitvoering te geven na overleg, in alle gevallen waarin dit mogelijk is, met de aangezochte Staat die Partij is;
 
 - b. in andere gevallen, is de Aanklager bevoegd aan een dergelijk verzoek uitvoering te geven na overleg met de aangezochte Staat die Partij is en met inachtneming van redelijke voorwaarden of zorgen die door die Staat die Partij is naar voren zijn gebracht. Wanneer de aangezochte Staat die Partij is problemen signaleert bij de inwilliging van een verzoek ingevolge dit onderdeel pleegt deze onverwijld overleg met het Hof teneinde de zaak op te lossen.
 
-5. Bepalingen die een persoon die door het Hof wordt gehoord of ondervraagd het recht geven ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-04-21&g=2021-04-21) een beroep te doen op beperkingen die zijn bedoeld om te verhinderen dat vertrouwelijke informatie met betrekking tot de nationale verdediging of veiligheid wordt openbaargemaakt, gelden ook voor de inwilliging van verzoeken tot rechtshulp ingevolge dit artikel.
+5. Bepalingen die een persoon die door het Hof wordt gehoord of ondervraagd het recht geven ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2021-12-04&g=2021-12-04) een beroep te doen op beperkingen die zijn bedoeld om te verhinderen dat vertrouwelijke informatie met betrekking tot de nationale verdediging of veiligheid wordt openbaargemaakt, gelden ook voor de inwilliging van verzoeken tot rechtshulp ingevolge dit artikel.
 
 ##### Artikel 100. Kosten
 
 1. De gewone kosten voor inwilliging van een verzoek op het grondgebied van de aangezochte Staat worden gedragen door die Staat, behoudens de volgende kosten, die worden gedragen door het Hof:
 
-- a. kosten verbonden aan de reizen en de veiligheid van getuigen en deskundigen of de overdracht ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-04-21&g=2021-04-21) van personen in hechtenis;
+- a. kosten verbonden aan de reizen en de veiligheid van getuigen en deskundigen of de overdracht ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2021-12-04&g=2021-12-04) van personen in hechtenis;
 
 - b. kosten van vertaling, vertolking en transcriptie:
 
@@ -1862,7 +1864,7 @@ Wanneer een Staat die Partij is een verzoek ingevolge dit Deel ontvangt in verba
 
 1. Een persoon die ingevolge dit Statuut aan het Hof is overgedragen wordt niet vervolgd, gestraft of in hechtenis gehouden voor gedragingen begaan voorafgaand aan de overdracht, anders dan de gedragingen of de gedragslijn die de grondslag vormen respectievelijk vormt van de misdrijven waarvoor die persoon is overgedragen.
 
-2. Het Hof is bevoegd de Staat die de persoon aan het Hof heeft overgedragen, te verzoeken afstand te doen van het in het eerste lid bepaalde, en verstrekt zo nodig aanvullende informatie overeenkomstig [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-04-21&g=2021-04-21). Staten die Partij zijn hebben de bevoegdheid aan het Hof te verklaren afstand te doen en dienen te streven naar het doen van afstand.
+2. Het Hof is bevoegd de Staat die de persoon aan het Hof heeft overgedragen, te verzoeken afstand te doen van het in het eerste lid bepaalde, en verstrekt zo nodig aanvullende informatie overeenkomstig [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2021-12-04&g=2021-12-04). Staten die Partij zijn hebben de bevoegdheid aan het Hof te verklaren afstand te doen en dienen te streven naar het doen van afstand.
 
 ##### Artikel 102. Gebruik van termen
 
@@ -1882,9 +1884,9 @@ Van toepassing van dit Statuut:
 
 - c. Een in een bepaalde zaak aangewezen Staat deelt het Hof onverwijld mee of hij de aanwijzing van het Hof aanvaardt.
 
-- a. De Staat van tenuitvoerlegging stelt het Hof in kennis van alle omstandigheden, met inbegrip van de toepassing van ingevolge het eerste lid overeengekomen voorwaarden, die de voorwaarden of de duur van de gevangenisstraf concreet zouden kunnen beïnvloeden. Het Hof wordt ten minste 45 dagen tevoren in kennis gesteld van dergelijke bekende of voorzienbare omstandigheden. Gedurende deze periode onderneemt de Staat van tenuitvoerlegging geen stappen die afbreuk zouden kunnen doen aan zijn verplichtingen ingevolge [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2021-04-21&g=2021-04-21).
+- a. De Staat van tenuitvoerlegging stelt het Hof in kennis van alle omstandigheden, met inbegrip van de toepassing van ingevolge het eerste lid overeengekomen voorwaarden, die de voorwaarden of de duur van de gevangenisstraf concreet zouden kunnen beïnvloeden. Het Hof wordt ten minste 45 dagen tevoren in kennis gesteld van dergelijke bekende of voorzienbare omstandigheden. Gedurende deze periode onderneemt de Staat van tenuitvoerlegging geen stappen die afbreuk zouden kunnen doen aan zijn verplichtingen ingevolge [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2021-12-04&g=2021-12-04).
 
-- b. Indien het Hof de onder a vermelde omstandigheden niet kan aanvaarden, stelt het de Staat van tenuitvoerlegging daarvan in kennis en handelt het vervolgens overeenkomstig [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=104&z=2021-04-21&g=2021-04-21).
+- b. Indien het Hof de onder a vermelde omstandigheden niet kan aanvaarden, stelt het de Staat van tenuitvoerlegging daarvan in kennis en handelt het vervolgens overeenkomstig [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=104&z=2021-12-04&g=2021-12-04).
 
 3. Bij de uitoefening van zijn recht een aanwijzing te doen ingevolge het eerste lid neemt het Hof het volgende in aanmerking:
 
@@ -1898,7 +1900,7 @@ Van toepassing van dit Statuut:
 
 - e. alle overige factoren met betrekking tot de omstandigheden van het misdrijf of de veroordeelde, of de doelmatige tenuitvoerlegging van de uitspraak die relevant kunnen zijn bij de aanwijzing van de Staat van tenuitvoerlegging.
 
-4. Indien geen Staat wordt aangewezen ingevolge het eerste lid, wordt de opgelegde gevangenisstraf ondergaan in een gevangenisinstelling die door het Gastland ter beschikking is gesteld overeenkomstig de voorwaarden vermeld in de zetelovereenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=3&z=2021-04-21&g=2021-04-21). In dat geval worden de kosten voortvloeiend uit de tenuitvoerlegging van de uitspraak waarbij gevangenisstraf is opgelegd gedragen door het Hof.
+4. Indien geen Staat wordt aangewezen ingevolge het eerste lid, wordt de opgelegde gevangenisstraf ondergaan in een gevangenisinstelling die door het Gastland ter beschikking is gesteld overeenkomstig de voorwaarden vermeld in de zetelovereenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=3&z=2021-12-04&g=2021-12-04). In dat geval worden de kosten voortvloeiend uit de tenuitvoerlegging van de uitspraak waarbij gevangenisstraf is opgelegd gedragen door het Hof.
 
 ##### Artikel 104. Wijziging in de aanwijzing van de Staat van tenuitvoerlegging
 
@@ -1908,7 +1910,7 @@ Van toepassing van dit Statuut:
 
 ##### Artikel 105. Tenuitvoerlegging van de uitspraak
 
-1. Onverminderd de voorwaarden die een Staat overeenkomstig [artikel 103, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=103&z=2021-04-21&g=2021-04-21), kan hebben gesteld, is de uitspraak waarbij gevangenisstraf is opgelegd bindend voor de Staten die Partij zijn, en mogen zij deze in geen geval wijzigen.
+1. Onverminderd de voorwaarden die een Staat overeenkomstig [artikel 103, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=103&z=2021-12-04&g=2021-12-04), kan hebben gesteld, is de uitspraak waarbij gevangenisstraf is opgelegd bindend voor de Staten die Partij zijn, en mogen zij deze in geen geval wijzigen.
 
 2. Alleen het Hof heeft het recht te beslissen over een verzoek tot beroep of herziening. De Staat van tenuitvoerlegging belet een veroordeelde niet een verzoek daartoe te doen.
 
@@ -1926,7 +1928,7 @@ Van toepassing van dit Statuut:
 
 2. Indien geen Staat de kosten draagt die voortvloeien uit de overbrenging van de persoon naar een andere Staat ingevolge het eerste lid, worden die kosten gedragen door het Hof.
 
-3. Onverminderd het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=108&z=2021-04-21&g=2021-04-21) kan de Staat van tenuitvoerlegging de persoon ook overeenkomstig zijn nationale recht uitleveren of op andere wijze overleveren aan de Staat die om de uitlevering of overdracht van de persoon heeft verzocht ten behoeve van een terechtzitting of de tenuitvoerlegging van een uitspraak.
+3. Onverminderd het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=108&z=2021-12-04&g=2021-12-04) kan de Staat van tenuitvoerlegging de persoon ook overeenkomstig zijn nationale recht uitleveren of op andere wijze overleveren aan de Staat die om de uitlevering of overdracht van de persoon heeft verzocht ten behoeve van een terechtzitting of de tenuitvoerlegging van een uitspraak.
 
 ##### Artikel 108. Beperking van de vervolging of de bestraffing van andere misdrijven
 
@@ -1938,7 +1940,7 @@ Van toepassing van dit Statuut:
 
 ##### Artikel 109. Tenuitvoerlegging van boetes en maatregelen ter verbeurdverklaring
 
-1. Staten die Partij zijn geven uitvoering aan door het Hof krachtens [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2021-04-21&g=2021-04-21) bevolen boetes of verbeurdverklaringen, onverminderd de rechten van derden te goeder trouw, een en ander overeenkomstig de ingevolge hun nationale recht geldende procedure.
+1. Staten die Partij zijn geven uitvoering aan door het Hof krachtens [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2021-12-04&g=2021-12-04) bevolen boetes of verbeurdverklaringen, onverminderd de rechten van derden te goeder trouw, een en ander overeenkomstig de ingevolge hun nationale recht geldende procedure.
 
 2. Indien een Staat die Partij is niet in staat is uitvoering te geven aan een bevel tot verbeurdverklaring, treft hij maatregelen tot verhaal van de waarde van de opbrengsten, goederen of vermogensbestanddelen waarvan het Hof de verbeurdverklaring heeft bevolen, onverminderd de rechten van derden te goeder trouw.
 
@@ -1982,9 +1984,9 @@ Indien een veroordeelde uit hechtenis ontsnapt en vlucht uit de Staat van tenuit
 
 - d. de begroting voor het Hof te behandelen en daarover te beslissen;
 
-- e. te beslissen over een eventuele wijziging overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-04-21&g=2021-04-21) van het aantal rechters;
+- e. te beslissen over een eventuele wijziging overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-12-04&g=2021-12-04) van het aantal rechters;
 
-- f. vragen te behandelen inzake niet-samenwerking, ingevolge [artikel 87, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-04-21&g=2021-04-21);
+- f. vragen te behandelen inzake niet-samenwerking, ingevolge [artikel 87, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2021-12-04&g=2021-12-04);
 
 - g. alle overige taken uit te oefenen die in overeenstemming zijn met dit Statuut of het Reglement van proces en bewijsvoering.
 
@@ -2032,7 +2034,7 @@ De kosten van het Hof en de Vergadering van Staten die Partij zijn, met inbegrip
 
 ##### Artikel 116. Vrijwillige bijdragen
 
-Onverminderd [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=12&artikel=115&z=2021-04-21&g=2021-04-21) is het Hof bevoegd vrijwillige bijdragen van Regeringen, internationale organisaties, particulieren, ondernemingen en andere lichamen, te ontvangen en aan te wenden als aanvullende fondsen, overeenkomstig de desbetreffende maatstaven die zijn aangenomen door de Vergadering van Staten die Partij zijn.
+Onverminderd [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=12&artikel=115&z=2021-12-04&g=2021-12-04) is het Hof bevoegd vrijwillige bijdragen van Regeringen, internationale organisaties, particulieren, ondernemingen en andere lichamen, te ontvangen en aan te wenden als aanvullende fondsen, overeenkomstig de desbetreffende maatstaven die zijn aangenomen door de Vergadering van Staten die Partij zijn.
 
 ##### Artikel 117. Vaststelling van bijdragen
 
@@ -2064,29 +2066,29 @@ Geen voorbehouden kunnen worden gemaakt ter zake van dit Statuut.
 
 4. Behoudens het vijfde lid, wordt een wijziging voor alle Staten die Partij zijn van kracht een jaar nadat zevenachtste van hen hun akten van bekrachtiging of aanvaarding bij de Secretaris-Generaal van de Verenigde Naties heeft neergelegd.
 
-5. Een wijziging in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-04-21&g=2021-04-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-04-21&g=2021-04-21) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-04-21&g=2021-04-21) van dit Statuut wordt voor die Staten die Partij zijn en de wijziging hebben aanvaard van kracht een jaar na de nederlegging van hun akten van bekrachtiging of aanvaarding. Ten aanzien van een Staat die Partij is en de wijziging niet heeft aanvaard, oefent het Hof zijn rechtsmacht niet uit met betrekking tot een misdrijf waarop de wijziging betrekking heeft indien dit is gepleegd door onderdanen van die Staat die Partij is of op het grondgebied daarvan.
+5. Een wijziging in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2021-12-04&g=2021-12-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2021-12-04&g=2021-12-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-12-04&g=2021-12-04) van dit Statuut wordt voor die Staten die Partij zijn en de wijziging hebben aanvaard van kracht een jaar na de nederlegging van hun akten van bekrachtiging of aanvaarding. Ten aanzien van een Staat die Partij is en de wijziging niet heeft aanvaard, oefent het Hof zijn rechtsmacht niet uit met betrekking tot een misdrijf waarop de wijziging betrekking heeft indien dit is gepleegd door onderdanen van die Staat die Partij is of op het grondgebied daarvan.
 
-6. Indien een wijziging door zevenachtste van de Staten die Partij zijn is aanvaard overeenkomstig het vierde lid, kan een Staat die Partij is en de wijziging niet heeft aanvaard dit Statuut met onmiddellijke ingang opzeggen, onverminderd [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=127&z=2021-04-21&g=2021-04-21), doch onder toepassing van artikel 127, tweede lid, door een kennisgeving binnen een jaar nadat die wijziging van kracht werd.
+6. Indien een wijziging door zevenachtste van de Staten die Partij zijn is aanvaard overeenkomstig het vierde lid, kan een Staat die Partij is en de wijziging niet heeft aanvaard dit Statuut met onmiddellijke ingang opzeggen, onverminderd [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=127&z=2021-12-04&g=2021-12-04), doch onder toepassing van artikel 127, tweede lid, door een kennisgeving binnen een jaar nadat die wijziging van kracht werd.
 
 7. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die Partij zijn in kennis van een wijziging die in een bijeenkomst van de Vergadering van Staten die Partij zijn of in een Herzieningsconferentie is aangenomen.
 
 ##### Artikel 122. Wijzigingen in bepalingen van institutionele aard
 
-1. Wijzigingen in bepalingen van het Statuut die van louter institutionele aard zijn, te weten [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=35&z=2021-04-21&g=2021-04-21), [artikel 36, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-04-21&g=2021-04-21), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-04-21&g=2021-04-21), [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=38&z=2021-04-21&g=2021-04-21), [artikel 39, eerste lid (eerste twee volzinnen), tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2021-04-21&g=2021-04-21), [artikel 42, vierde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2021-04-21&g=2021-04-21), [artikel 43, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2021-04-21&g=2021-04-21), en de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=44&z=2021-04-21&g=2021-04-21), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-04-21&g=2021-04-21), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=47&z=2021-04-21&g=2021-04-21) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2021-04-21&g=2021-04-21) kunnen te allen tijde door iedere Staat die Partij is worden voorgesteld, onverminderd [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-04-21&g=2021-04-21). De tekst van een voorgestelde wijziging wordt voorgelegd aan de Secretaris-Generaal van de Verenigde Naties of aan degene die daartoe door de Vergadering van Staten die Partij zijn is aangewezen, die deze onverwijld toezendt aan alle Staten die Partij zijn en aan anderen die deelnemen aan de Vergadering.
+1. Wijzigingen in bepalingen van het Statuut die van louter institutionele aard zijn, te weten [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=35&z=2021-12-04&g=2021-12-04), [artikel 36, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2021-12-04&g=2021-12-04), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2021-12-04&g=2021-12-04), [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=38&z=2021-12-04&g=2021-12-04), [artikel 39, eerste lid (eerste twee volzinnen), tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2021-12-04&g=2021-12-04), [artikel 42, vierde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2021-12-04&g=2021-12-04), [artikel 43, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2021-12-04&g=2021-12-04), en de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=44&z=2021-12-04&g=2021-12-04), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2021-12-04&g=2021-12-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=47&z=2021-12-04&g=2021-12-04) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2021-12-04&g=2021-12-04) kunnen te allen tijde door iedere Staat die Partij is worden voorgesteld, onverminderd [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-12-04&g=2021-12-04). De tekst van een voorgestelde wijziging wordt voorgelegd aan de Secretaris-Generaal van de Verenigde Naties of aan degene die daartoe door de Vergadering van Staten die Partij zijn is aangewezen, die deze onverwijld toezendt aan alle Staten die Partij zijn en aan anderen die deelnemen aan de Vergadering.
 
 2. Wijzigingen ingevolge dit artikel waarover geen consensus kan worden bereikt worden aangenomen door de Vergadering van Staten die Partij zijn of door een Herzieningsconferentie bij een tweederde meerderheid van Staten die Partij zijn. Dergelijke wijzigingen treden voor alle Staten die Partij zijn in werking zes maanden nadat deze door de Vergadering of, door de Conferentie zijn aangenomen.
 
 ##### Artikel 123. Herziening van het Statuut
 
-1. Zeven jaar na de inwerkingtreding van dit Statuut roept de Secretaris-Generaal van de Verenigde Naties een Herzieningsconferentie bijeen teneinde wijzigingen in dit Statuut te behandelen. Een dergelijke herziening kan de lijst van misdrijven vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21) omvatten, maar is niet tot deze lijst beperkt. De Conferentie staat open voor degenen die deelnemen aan de Vergadering van Staten die Partij zijn en op dezelfde voorwaarden.
+1. Zeven jaar na de inwerkingtreding van dit Statuut roept de Secretaris-Generaal van de Verenigde Naties een Herzieningsconferentie bijeen teneinde wijzigingen in dit Statuut te behandelen. Een dergelijke herziening kan de lijst van misdrijven vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04) omvatten, maar is niet tot deze lijst beperkt. De Conferentie staat open voor degenen die deelnemen aan de Vergadering van Staten die Partij zijn en op dezelfde voorwaarden.
 
 2. Daarna roept, op verzoek van een Staat die Partij is en ten behoeve van de in het eerste lid vermelde doeleinden, de Secretaris-Generaal van de Verenigde Naties, na goedkeuring door een meerderheid van Staten die Partij zijn, een Herzieningsconferentie bijeen.
 
-3. Het in [artikel 121, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-04-21&g=2021-04-21), bepaalde geldt voor de aanvaarding en de inwerkingtreding van alle wijzigingen in het Statuut die in een Herzieningsconferentie worden behandeld.
+3. Het in [artikel 121, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2021-12-04&g=2021-12-04), bepaalde geldt voor de aanvaarding en de inwerkingtreding van alle wijzigingen in het Statuut die in een Herzieningsconferentie worden behandeld.
 
 ##### Artikel 124. Overgangsbepaling
 
-Niettegenstaande het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-04-21&g=2021-04-21), kan een Staat, wanneer deze partij wordt bij het Statuut, verklaren dat hij gedurende een periode van zeven jaar na de inwerkingtreding van dit Statuut van betrokken Staat, de rechtsmacht van het Hof niet aanvaardt met betrekking tot de categorie misdrijven vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-04-21&g=2021-04-21), wanneer een misdrijf beweerdelijk is gepleegd door zijn onderdanen of op zijn grondgebied. Een verklaring ingevolge dit artikel kan te allen tijde worden ingetrokken. Het in dit artikel bepaalde wordt herzien op de Herzieningsconferentie die bijeengeroepen wordt overeenkomstig [artikel 123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2021-04-21&g=2021-04-21).
+Niettegenstaande het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-12-04&g=2021-12-04), kan een Staat, wanneer deze partij wordt bij het Statuut, verklaren dat hij gedurende een periode van zeven jaar na de inwerkingtreding van dit Statuut van betrokken Staat, de rechtsmacht van het Hof niet aanvaardt met betrekking tot de categorie misdrijven vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2021-12-04&g=2021-12-04), wanneer een misdrijf beweerdelijk is gepleegd door zijn onderdanen of op zijn grondgebied. Een verklaring ingevolge dit artikel kan te allen tijde worden ingetrokken. Het in dit artikel bepaalde wordt herzien op de Herzieningsconferentie die bijeengeroepen wordt overeenkomstig [artikel 123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2021-12-04&g=2021-12-04).
 
 ##### Artikel 125. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
@@ -2138,13 +2140,13 @@ DONE at Rome, this 17th day of July 1998.
 
 ##### Artikel 15 bis. Uitoefening van rechtsmacht ter zake van het misdrijf agressie (Aangifte door een Staat, eigener beweging)
 
-1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), met inachtneming van de bepalingen van dit artikel.
+1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), met inachtneming van de bepalingen van dit artikel.
 
 2. Het Hof is uitsluitend bevoegd rechtsmacht uit te oefenen ter zake van misdrijven van agressie die zijn gepleegd een jaar na de bekrachtiging of aanvaarding van de wijzigingen door dertig Staten die Partij zijn.
 
 3. Het Hof oefent rechtsmacht ter zake van het misdrijf agressie uit in overeenstemming met dit artikel, met inachtneming van een besluit dat na 1 januari 2017 wordt genomen door dezelfde meerderheid van Staten die Partij zijn als nodig is voor het aannemen van een wijziging van het Statuut.
 
-4. Het Hof is in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-04-21&g=2021-04-21) bevoegd rechtsmacht ter zake van een misdrijf van agressie uit te oefenen dat voortvloeit uit een daad van agressie gepleegd door een Staat die Partij is, tenzij deze Staat die Partij is vooraf heeft verklaard dat hij een dergelijke rechtsmacht niet aanvaardt door het neerleggen van een verklaring bij de Griffier. Deze verklaring kan te allen tijde worden ingetrokken en wordt door de Staat die Partij is binnen drie jaar overwogen.
+4. Het Hof is in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2021-12-04&g=2021-12-04) bevoegd rechtsmacht ter zake van een misdrijf van agressie uit te oefenen dat voortvloeit uit een daad van agressie gepleegd door een Staat die Partij is, tenzij deze Staat die Partij is vooraf heeft verklaard dat hij een dergelijke rechtsmacht niet aanvaardt door het neerleggen van een verklaring bij de Griffier. Deze verklaring kan te allen tijde worden ingetrokken en wordt door de Staat die Partij is binnen drie jaar overwogen.
 
 5. Ten aanzien van een Staat die geen Partij is bij dit Statuut, oefent het Hof zijn rechtsmacht niet uit ter zake van het misdrijf agressie wanneer dit misdrijf door onderdanen van die Staat of op zijn grondgebied wordt gepleegd.
 
@@ -2152,15 +2154,15 @@ DONE at Rome, this 17th day of July 1998.
 
 7. Indien de Veiligheidsraad een daad van agressie heeft vastgesteld, kan de Aanklager overgaan tot het onderzoek met betrekking tot een misdrijf van agressie.
 
-8. Indien een dergelijke vaststelling niet binnen zes maanden na de datum van kennisgeving is geschied, kan de Aanklager overgaan tot het onderzoek naar een misdrijf van agressie op voorwaarde dat de Afdeling Vooronderzoek toestemming heeft gegeven voor het aanvangen van het onderzoek naar een misdrijf van agressie in overeenstemming met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-04-21&g=2021-04-21) vervatte procedure en de Veiligheidsraad niet anderszins heeft besloten in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=16&z=2021-04-21&g=2021-04-21).
+8. Indien een dergelijke vaststelling niet binnen zes maanden na de datum van kennisgeving is geschied, kan de Aanklager overgaan tot het onderzoek naar een misdrijf van agressie op voorwaarde dat de Afdeling Vooronderzoek toestemming heeft gegeven voor het aanvangen van het onderzoek naar een misdrijf van agressie in overeenstemming met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2021-12-04&g=2021-12-04) vervatte procedure en de Veiligheidsraad niet anderszins heeft besloten in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=16&z=2021-12-04&g=2021-12-04).
 
 9. Het vaststellen van een daad van agressie door een orgaan buiten het Hof laat de eigen bevindingen van het Hof uit hoofde van dit Statuut onverlet.
 
-10. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21), genoemde misdrijven onverlet.
+10. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04), genoemde misdrijven onverlet.
 
 ##### Artikel 15 ter. Uitoefening van rechtsmacht ter zake van het misdrijf agressie (Aangifte door de Veiligheidsraad)
 
-1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-04-21&g=2021-04-21), met inachtneming van de bepalingen van dit artikel.
+1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2021-12-04&g=2021-12-04), met inachtneming van de bepalingen van dit artikel.
 
 2. Het Hof is uitsluitend bevoegd rechtsmacht uit te oefenen ter zake van misdrijven van agressie die zijn gepleegd een jaar na de bekrachtiging of aanvaarding van de wijzigingen door dertig Staten die Partij zijn.
 
@@ -2168,7 +2170,7 @@ DONE at Rome, this 17th day of July 1998.
 
 4. Het vaststellen van een daad van agressie door een orgaan buiten het Hof laat de eigen bevindingen van het Hof uit hoofde van dit Statuut onverlet.
 
-5. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-04-21&g=2021-04-21), genoemde misdrijven onverlet.
+5. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2021-12-04&g=2021-12-04), genoemde misdrijven onverlet.
 
 ## DEEL 3. ALGEMENE BEGINSELEN VAN STRAFRECHT
 
