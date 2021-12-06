@@ -4,7 +4,7 @@ identifier: "BWBR0045982"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-10-01"
-last_updated: "2021-09-01"
+last_updated: "2021-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045982"
 soort: "zbo"
@@ -55,7 +55,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
-De specialisaties die op verzoek in het Register beëdigde tolken en vertalers (hierna: het Rbtv) bij een inschrijving op C1-niveau van het ERK kunnen worden vermeld, worden aangewezen en neergelegd in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045982&bijlage=1&z=2021-12-06&g=2021-09-01) bij dit besluit.
+De specialisaties die op verzoek in het Register beëdigde tolken en vertalers (hierna: het Rbtv) bij een inschrijving op C1-niveau van het ERK kunnen worden vermeld, worden aangewezen en neergelegd in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045982&bijlage=1&z=2021-12-06&g=2021-12-06) bij dit besluit.
 
 ##### Artikel 2
 
