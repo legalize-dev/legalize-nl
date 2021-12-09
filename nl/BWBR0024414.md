@@ -4,7 +4,7 @@ identifier: "BWBR0024414"
 country: "nl"
 rank: "reglement"
 publication_date: "2023-07-06"
-last_updated: "2018-11-27"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024414"
 soort: "reglement"
@@ -46,9 +46,9 @@ entry_into_force: "2023-07-06"
 
 - c. extern onderzoek: onderzoek voor de Kamer,
 
-- d. enquêtecommissie: een commissie als bedoeld in [artikel 2 van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2) en [artikel 141 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=141),
+- d. enquêtecommissie: een commissie als bedoeld in [artikel 2 van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2) en [artikel 12.9 van het Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=12.9),
 
-- e. tijdelijke commissie: een commissie als bedoeld in [artikel 142 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=142).
+- e. tijdelijke commissie: een commissie als bedoeld in [artikel 12.10 van het Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=12.10).
 
 2. Er zijn vier vormen van onderzoek:
 
@@ -92,21 +92,21 @@ Bij parlementair onderzoek draagt de Kamer verantwoordelijkheid voor de uitvoeri
 
 - f. een onderbouwde keuze voor het in te zetten onderzoeksinstrument:
 
-- 1º. een in te stellen enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27),
+- 1º. een in te stellen enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09),
 
-- 2º. een in te stellen tijdelijke commissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27),
+- 2º. een in te stellen tijdelijke commissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09),
 
-- 3º. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27),
+- 3º. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09),
 
-- 4º. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27).
+- 4º. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09).
 
 3. Het Presidium kan een aangenomen motie tot het doen van onderzoek aan de meest betrokken commissie voorleggen voor een nadere invulling van een of meer van de in het tweede lid genoemde onderwerpen.
 
-4. Het Presidium kan tevens aan de Kamer voorstellen een tijdelijke commissie als bedoeld in [artikel 18 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=18) in te stellen die naar aanleiding van een aangenomen motie tot het doen van een enquêteonderzoek een onderzoeksvoorstel opstelt.
+4. Het Presidium kan tevens aan de Kamer voorstellen een tijdelijke commissie als bedoeld in [artikel 7.2, eerste lid, van het Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.2) in te stellen die naar aanleiding van een aangenomen motie tot het doen van een enquêteonderzoek een onderzoeksvoorstel opstelt.
 
 ##### Artikel 5
 
-Een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek uit te voeren geldt als een voorstel voor onderzoek, bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27).
+Een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek uit te voeren geldt als een voorstel voor onderzoek, bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09).
 
 ##### Artikel 6
 
@@ -120,11 +120,11 @@ De Kamer besluit over het voorstel.
 
 ##### Artikel 8
 
-Nadat de Kamer tot het instellen van een parlementair onderzoek als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2018-11-27&g=2018-11-27), heeft besloten, draagt zij de uitvoering op aan een in te stellen tijdelijke commissie.
+Nadat de Kamer tot het instellen van een parlementair onderzoek als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=1&artikel=1&z=2021-12-09&g=2021-12-09), heeft besloten, draagt zij de uitvoering op aan een in te stellen tijdelijke commissie.
 
 ##### Artikel 9
 
-De bevoegdheden van een tijdelijke commissie zijn genoemd in [artikel 27 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=27).
+De bevoegdheden van een tijdelijke commissie zijn genoemd in [artikel 7.25 van het Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.25).
 
 ##### Artikel 10
 
@@ -166,7 +166,7 @@ Indien tijdens het onderzoek van de tijdelijke commissie tevens een strafrechtel
 
 1. Alle rapporten van tijdelijke commissies en enquêtecommissies worden aangeboden aan de Voorzitter van de Kamer.
 
-2. Het rapport wordt conform [artikel 119 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=119) in handen gesteld van de meest betrokken commissie.
+2. Het rapport wordt doorgeleid naar de meest betrokken commissie.
 
 3. Extern onderzoek voor de Kamer door derden wordt direct aangeboden aan de meest betrokken commissie.
 
@@ -192,13 +192,13 @@ Nadat een tijdelijke commissie aan de Kamer verantwoording over haar werkzaamhed
 
 1. Er wordt tot de dag waarop de tijdelijke commissie haar rapport aanbiedt aan de Kamer geen inzage gegeven in documenten die onder de commissie berusten tenzij de tijdelijke commissie anders besluit.
 
-2. De tijdelijke commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2018-11-27&g=2018-11-27), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
+2. De tijdelijke commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2021-12-09&g=2021-12-09), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
 
 3. De Kamer kan besluiten een op grond van het tweede lid aan de openbaarheid gestelde beperking op te heffen, dan wel deze ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
 
 ##### Artikel 19
 
-Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2018-11-27&g=2018-11-27).
+Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2021-12-09&g=2021-12-09).
 
 ### Hoofdstuk 6. Slotbepaling
 
@@ -224,7 +224,7 @@ Deze regeling wordt aangehaald als: Regeling parlementair en extern onderzoek.
 
 ##### Artikel 13c
 
-De tijdelijke commissie kan, zo nodig in afwijking van de [artikelen 13 tot en met 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3&artikel=13&z=2018-11-27&g=2018-11-27), nadere afspraken maken over de wijze waarop uitvoering wordt gegeven aan verzoeken om documenten en schriftelijke inlichtingen.
+De tijdelijke commissie kan, zo nodig in afwijking van de [artikelen 13 tot en met 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3&artikel=13&z=2021-12-09&g=2021-12-09), nadere afspraken maken over de wijze waarop uitvoering wordt gegeven aan verzoeken om documenten en schriftelijke inlichtingen.
 
 ##### Artikel 14a
 
@@ -262,7 +262,7 @@ De tijdelijke commissie kan, zo nodig in afwijking van de [artikelen 13 tot en m
 
 ##### Artikel 14e
 
-De enquêtecommissie kan, zo nodig in afwijking van de [artikelen 14b tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&artikel=14b&z=2018-11-27&g=2018-11-27), nadere afspraken maken met de betrokken minister of met derden over de wijze waarop uitvoering wordt gegeven aan een vordering tot het verstrekken van afschrift van, inzage in of kennisneming van documenten.
+De enquêtecommissie kan, zo nodig in afwijking van de [artikelen 14b tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&artikel=14b&z=2021-12-09&g=2021-12-09), nadere afspraken maken met de betrokken minister of met derden over de wijze waarop uitvoering wordt gegeven aan een vordering tot het verstrekken van afschrift van, inzage in of kennisneming van documenten.
 
 ### Hoofdstuk 4. Aanbieding en beëindiging
 
