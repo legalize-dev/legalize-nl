@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2021-07-27"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid, artikel 1 septies, eerste en tweede lid, artikel 1 octies, eerste lid, artikel 1 nonies, eerste lid, artikel 1 decies, eerste lid, artikel 1 undecies, artikel 1 duodecies, eerste lid, artikel 1 terdecies, artikel 1 quaterdecies, artikel 2, eerste, tweede en derde lid, artikel 5 en artikel 8 ter, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
+1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid, artikel 1 septies, eerste en tweede lid, artikel 1 octies, eerste lid, artikel 1 nonies, eerste lid, artikel 1 decies, eerste lid, artikel 1 undecies, artikel 1 duodecies, eerste lid, artikel 1 terdecies, eerste lid, artikel 1 quaterdecies, artikel 2, eerste, tweede en derde lid, artikel 5 en artikel 8 ter, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 sexies, tweede lid, tweede volzin, artikel 1 septies, derde of vierde lid, artikel 1 octies, derde lid, artikel 1 nonies, tweede of derde lid, artikel 1 decies, tweede lid, artikel 1 duodecies, tweede, derde of vierde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 sexies, tweede lid, tweede volzin, artikel 1 septies, derde of vierde lid, artikel 1 octies, derde lid, artikel 1 nonies, tweede of derde lid, artikel 1 decies, tweede lid, artikel 1 duodecies, tweede, derde of vierde lid, artikel 1 terdecies, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
