@@ -4,7 +4,7 @@ identifier: "BWBR0031383"
 country: "nl"
 rank: "reglement"
 publication_date: "2021-12-09"
-last_updated: "2021-10-07"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031383"
 soort: "reglement"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - c. embargo: door de afzender aangegeven vertrouwelijkheid met een beperkte tijdsduur;
 
-- d. commissie: een commissie als bedoeld in [hoofdstuk VII van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&hoofdstuk=VII).
+- d. commissie: een commissie als bedoeld in [hoofdstuk 7 van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7).
 
 #### Paragraaf 2. Vertrouwelijke stukken
 
@@ -66,9 +66,9 @@ In deze regeling wordt verstaan onder:
 
 3. Indien door de afzender is aangegeven dat op het stuk een embargo rust, wordt het einde van het embargo door de Griffie plenair aangegeven op het stuk. Na afloop van het embargo doet de Voorzitter mededeling van de ontvangst van het stuk. De Griffie plenair draagt vervolgens zorg voor de openbaarmaking van het stuk.
 
-##### Artikel 3. Drukken, ter inzage legging en bewaring van vertrouwelijke stukken
+##### Artikel 3. Openbaarmaking registratie, ter inzage legging en bewaring van vertrouwelijke stukken
 
-1. Na registratie in Parlis worden in ieder geval de geregistreerde gegevens van een vertrouwelijk stuk gedrukt.
+1. Na de registratie in Parlis worden in ieder geval de geregistreerde gegevens van een vertrouwelijk stuk openbaar gemaakt.
 
 2. Het vertrouwelijke stuk wordt vervolgens ter inzage gelegd bij het Centraal Informatie Punt van de Tweede Kamer der Staten-Generaal.
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien de afzender kopieën van het vertrouwelijke stuk voegt bij het vertrouwelijke stuk, draagt de Griffie plenair zorg voor het verspreiden van deze kopieën onder de fracties en de groepen. Het vijfde lid is tevens op de kopieën van toepassing, tenzij de afzender van het vertrouwelijke stuk toestemming heeft gegeven voor de vermenigvuldiging.
 
-8. Na overleg tussen de plaatsvervangend griffier en de Griffie plenair kan op verzoek van de afzender worden afgeweken van het eerste lid. Hiervan wordt mededeling gedaan bij het drukken van het vertrouwelijke stuk, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2021-10-07&g=2021-10-07).
+8. Na overleg tussen de plaatsvervangend griffier en de Griffie plenair kan op verzoek van de afzender worden afgeweken van het eerste lid. Hiervan wordt mededeling gedaan bij het openbaar maken van de geregistreerde gegevens van het vertrouwelijk stuk, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=3&z=2021-12-09&g=2021-12-09).
 
 9. Het Centraal Informatie Punt registreert de naam van degene die inzage in een vertrouwelijk stuk is gegeven. De registratie is in te zien door de plaatsvervangend griffier. De registratie is verder slechts in uitzonderlijke gevallen in te zien indien daarvoor toestemming is verkregen van de Griffier.
 
@@ -114,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Positie niet-beëdigde personen
 
-Personen die niet op basis van een aanstelling werkzaam zijn bij de ambtelijke diensten van de Tweede Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
+Personen die niet op grond van een dienstverband als ambtenaar werkzaam zijn bij de ambtelijke diensten van de Tweede Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -136,7 +136,7 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 3. Indien de commissie na een besluit als bedoeld in het tweede lid een ander oordeel dan de afzender heeft over de vertrouwelijkheid van het stuk of over de voorwaarden waaronder het stuk is aangeboden, kan zij de Kamer verzoeken hierover een uitspraak te doen.
 
-4. De personen die op grond van het [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=4&z=2021-10-07&g=2021-10-07), om inzage in een vertrouwelijk stuk kunnen verzoeken, kunnen de inhoud van het vertrouwelijke stuk onderling bespreken, ongeacht of zij inzage in het betreffende stuk hebben gehad.
+4. De personen die op grond van het [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=4&z=2021-12-09&g=2021-12-09), om inzage in een vertrouwelijk stuk kunnen verzoeken, kunnen de inhoud van het vertrouwelijke stuk onderling bespreken, ongeacht of zij inzage in het betreffende stuk hebben gehad.
 
 #### Paragraaf 2a. Tijdelijke terinzagelegging
 
@@ -146,7 +146,7 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 2. De Kamer kan na afloop van de termijn, bedoeld in het eerste lid, de afzender verzoeken het betreffende stuk opnieuw aan de Kamer aan te bieden.
 
-3. De [artikelen 2 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2021-10-07&g=2021-10-07) zijn van overeenkomstige toepassing.
+3. De [artikelen 2 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2021-12-09&g=2021-12-09) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 2c. Staatsgeheime stukken
 
@@ -154,11 +154,11 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 1. In zeer uitzonderlijke gevallen kan een staatsgeheim stuk ter inzage worden gelegd. Bij de brief ter aanbieding van het stuk wordt nadrukkelijk het staatsgeheime karakter van het stuk gemotiveerd.
 
-2. [Artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2021-10-07&g=2021-10-07), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=3&z=2021-10-07&g=2021-10-07), zijn van toepassing, met dien verstande dat uitsluitend de brief ter aanbieding van het staatsgeheime stuk aan de Griffie plenair wordt verstrekt en het staatsgeheime stuk uitsluitend wordt verstrekt aan de plaatsvervangend griffier die de behandelende commissie bijstaat.
+2. [Artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2021-12-09&g=2021-12-09), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=3&z=2021-12-09&g=2021-12-09), zijn van toepassing, met dien verstande dat uitsluitend de brief ter aanbieding van het staatsgeheime stuk aan de Griffie plenair wordt verstrekt en het staatsgeheime stuk uitsluitend wordt verstrekt aan de plaatsvervangend griffier die de behandelende commissie bijstaat.
 
 3. Het staatsgeheime stuk wordt ter inzage gelegd bij de plaatsvervangend griffier die de behandelende commissie bijstaat. Deze bewaart het stuk op een daartoe geschikte plaats.
 
-4. Slechts leden van de Tweede Kamer der Staten-Generaal, de Griffier en de plaatsvervangend griffier die de behandelende commissie bijstaat hebben inzage in het staatsgeheime stuk. De inzage door leden vindt niet eerder plaats dan nadat zij schriftelijk zijn gewezen op het juridisch kader omtrent de behandeling van staatsgeheime stukken en zij dit kader gezien verklaren. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=4&z=2021-10-07&g=2021-10-07), is van overeenkomstige toepassing, met dien verstande dat aantekeningen slechts ten behoeve van een besloten overleg kunnen worden opgehaald.
+4. Slechts leden van de Tweede Kamer der Staten-Generaal, de Griffier en de plaatsvervangend griffier die de behandelende commissie bijstaat hebben inzage in het staatsgeheime stuk. De inzage door leden vindt niet eerder plaats dan nadat zij schriftelijk zijn gewezen op het juridisch kader omtrent de behandeling van staatsgeheime stukken en zij dit kader gezien verklaren. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=4&z=2021-12-09&g=2021-12-09), is van overeenkomstige toepassing, met dien verstande dat aantekeningen slechts ten behoeve van een besloten overleg kunnen worden opgehaald.
 
 5. De plaatsvervangend griffier die de behandelende commissie bijstaat registreert de naam van degene die inzage in een staatsgeheim stuk is gegeven. De registratie is slechts in uitzonderlijke gevallen in te zien indien daarvoor toestemming is verkregen door de Griffier.
 
