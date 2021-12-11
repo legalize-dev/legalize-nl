@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2021-02-20"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -86,13 +86,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Voor subsidieverstrekking op grond van deze regeling is voor 2021 een bedrag van € 15.130.000,– beschikbaar.
 
-5. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
+5. Voor subsidieverstrekking op grond van deze regeling is voor 2022 een bedrag van € 14.300.000 beschikbaar.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. Na afloop van de aanvraagperiode wordt jaarlijks door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd.
 
-2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2021-02-20&g=2021-02-20), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
+2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2021-12-11&g=2021-12-11), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, wordt vervolgens voorrang verleend aan de aanvragen die zijn gericht op in ieder geval één basisschool als bedoeld [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) met een positieve achterstandsscore als bedoeld in [artikel 27 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=27), blijkend uit de in het jaar van de aanvraag door het Centraal Bureau voor de Statistiek aan de minister verstrekte gegevens. Indien niet genoeg middelen resteren om al deze aanvragen te honoreren, dan wordt er geloot.
 
@@ -132,7 +132,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - 2°. het versterken van metacognitieve vaardigheden, bijvoorbeeld gericht op het versterken van zelfstandig leren, effectieve werkhouding en plannen ten behoeve van de overgang naar het vo,
 
-- 3°. het inzetten op omgevingsfactoren buiten de klas en de thuissituatie, bijvoorbeeld gericht op het vergroten van ouderbetrokkenheid, het vergroten of benutten van netwerken of hulpbronnen uit de omgeving, het versterken van sociale vaardigheden, het begeleiden bij de schoolkeuze en brede loopbaanoriëntatie, allemaal ten behoeve van de overgang naar het vo.
+- 3°. het inzetten op omgevingsfactoren buiten de klas en de thuissituatie, bijvoorbeeld gericht op het vergroten van ouderbetrokkenheid, het vergroten of benutten van netwerken of hulpbronnen uit de omgeving, het versterken van sociale vaardigheden, het begeleiden bij de schoolkeuze en brede loopbaanoriëntatie, allemaal ten behoeve van de overgang naar het vo,
+
+- g. het wordt aangeboden aan één cohort leerlingen die in groep 8 van het primair onderwijs en het eerste leerjaar van het voortgezet onderwijs het doorstroomprogramma volgen.
 
 2. Indien de omvang van een doorstroomprogramma ten gevolge van de uitbraak van het coronavirus of de maatregelen ter bestrijding van het virus in het gedrang komt, kan de minister toestaan dat de periode voor de uitvoering van het doorstroomprogramma, wordt verlengd, uiterlijk tot en met de maand januari van het tweede leerjaar van het voortgezet onderwijs.
 
@@ -148,7 +150,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een verklaring van alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2021-02-20&g=2021-02-20).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2021-12-11&g=2021-12-11).
 
 ##### Artikel 8. Subsidieaanvraag
 
@@ -217,5 +219,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 13a. Omhang
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
