@@ -4,7 +4,7 @@ identifier: "BWBR0041411"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-12-11"
-last_updated: "2018-10-02"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041411"
 soort: "zbo"
@@ -99,9 +99,9 @@ In de [leden 1, 2 en 3 van artikel 63c van de Wp2000](https://wetten.overheid.nl
 
 In [artikel 63c, leden 1, 2 en 3 van de Wp2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=63c) is voorgeschreven dat de betreffende vervoerder een ‘gescheiden’ boekhouding moet hebben; lid 4 (onder a) van die bepaling spreekt van ‘gescheiden’ administratie. Dit roept de vraag op welke activiteiten boekhoudkundig van elkaar moeten worden gescheiden en hoe. In dit verband wordt in artikel 63c, negende en tiende lid, van de Wp2000 verwezen naar onderdeel 5 van de Bijlage bij Verordening (EG) nr. 1370/2007.6[Verordening (EG) nr. 1370/2007](32007R1370) van het Europees Parlement en de Raad van 23 oktober 2007, betreffende het openbaar personenvervoer per spoor en over de weg en tot intrekking van Verordening (EEG) nr. 1191/69 van de Raad en Verordening (EEG) nr. 1107/70 van de Raad. De vervoerders bedoeld in [artikel 63a van de Wp2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=63a) moeten – onder meer – voldoen aan de vereisten uit dat onderdeel van die Bijlage.
 
-Uit onderdeel 5 van die Bijlage wordt duidelijk dat de boekhoudkundige scheiding moet worden aangebracht tussen enerzijds de kosten en baten van activiteiten uit hoofde van ‘openbare dienstcontracten’7Voor de Nederlandse situatie geldt, voor zover hier relevant, dat een openbaar dienstcontract een concessie is voor openbaar vervoer, inbesteed conform artikel 63a van de Wp2000., en anderzijds de kosten en baten van ‘andere activiteiten’. Dit brengt met zich dat de boekhoudkundige scheiding in ieder geval moet worden aangebracht:
+Uit onderdeel 5 van die Bijlage wordt duidelijk dat de boekhoudkundige scheiding moet worden aangebracht tussen enerzijds de kosten en baten van activiteiten uit hoofde van ‘openbare dienstcontracten’7Voor de Nederlandse situatie geldt, voor zover hier relevant, dat een openbaar dienstcontract een concessie is voor openbaar vervoer, inbesteed conform artikel 63a van de Wp2000., en anderzijds de kosten en baten van ‘andere activiteiten’. Dit brengt met zich dat de boekhoudkundige scheiding in ieder geval moet worden aangebracht tussen, enerzijds, de kosten en baten van inbestede concessies voor openbaar vervoer, en, anderzijds, de kosten en baten van (concessies voor) openbaar aanbesteed openbaar vervoer en van andere (commerciële) activiteiten die de betrokken vervoerder verricht.
 
-Voorts is in artikel 6, eerste lid, van Verordening (EG) nr. 1370/2007 en in onderdeel 1 van de Bijlage van die Verordening voorgeschreven dat in principe de **compensatie** (subsidie) dient te voldoen aan de eisen die zijn gesteld in de Bijlage bij die Verordening. Als een vervoerder een ongedeelde compensatie ontvangt voor het uitvoeren van een (inbestede) concessie voor meerdere vormen van openbaar vervoer, dan kan de scheiding worden aangebracht:
+Voorts is in artikel 6, eerste lid, van [Verordening (EG) nr. 1370/2007](32007R1370) en in onderdeel 1 van de Bijlage van die Verordening voorgeschreven dat in principe de compensatie (subsidie) dient te voldoen aan de eisen die zijn gesteld in de Bijlage bij die Verordening. Als een vervoerder een ongedeelde compensatie ontvangt voor het uitvoeren van een (inbestede) concessie voor meerdere vormen van openbaar vervoer, dan kan de scheiding worden aangebracht tussen, enerzijds, de totale kosten en baten van de inbestede concessies voor al het openbaar vervoer dat in die concessies is beschreven, en, anderzijds, de kosten en baten van (concessies voor) openbaar aanbesteed openbaar vervoer en van andere commerciële activiteiten.
 
 ### 3. Wat is bedoeld met ‘objectief te rechtvaardigen beginselen inzake de kostprijsadministratie’?
 
