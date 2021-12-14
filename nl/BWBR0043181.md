@@ -4,7 +4,7 @@ identifier: "BWBR0043181"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043181"
 soort: "beleidsregel-BES"
@@ -98,11 +98,11 @@ Indien de belanghebbende een herzieningsverzoek indient, behandelt de RCN-unit S
 
 **[Artikel 12, eerste en tweede lid Wet algemene ouderdomsverzekering BES]**
 
-##### Artikel 5. Toepassing ‘geheel te laste komende kind’ in de [AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+##### Artikel 5. Toepassing ten laste komende kind in de [AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
-Voor de toepassing van [artikel 11, derde lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11) wordt een kind in beginsel verondersteld ‘geheel ter harer laste’ te komen. Slechts indien uit bij de RCN-unit SZW bekende informatie blijkt dat dit niet het geval is, kan de RCN-unit SZW anders concluderen. Het moet dan gaan om een kind waarvan gebleken is dat het tenminste 70% van het wettelijk minimumloon als bedoeld in de [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170) verdient. Eventueel recht op studiefinanciering wordt buiten beschouwing gelaten.
+Voor de toepassing van [artikel 11, derde lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11) wordt een kind in beginsel verondersteld ten laste van de belanghebbende weduwe of weduwnaar te komen. Slechts indien uit bij de RCN-unit SZW bekende informatie blijkt dat dit niet het geval is, kan de RCN-unit SZW anders concluderen. Dit is in elk geval aan de orde indien is gebleken dat het kind ten minste 70% van het leeftijdsgerelateerde wettelijk minimumloon, vastgesteld op grond van [artikel 8, tweede lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=8) verdient. Eventueel recht op studiefinanciering wordt buiten beschouwing gelaten. Vertrekpunt is dat een bijdrage van derden niet zondermeer een ontzegging van de aanspraak op het hogere uitkeringsbedrag tot gevolg zal hebben.
 
-**[Artikel 11, derde lid Wet algemene weduwen- wezenverzekering BES]**
+[[Artikel 11, derde lid, Wet algemene weduwen- wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11)]
 
 ##### Artikel 6. AOV-recht studerenden in europees nederland vanaf 1 juli 2015
 
