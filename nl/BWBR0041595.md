@@ -4,7 +4,7 @@ identifier: "BWBR0041595"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2021-12-14"
-last_updated: "2018-11-30"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041595"
 soort: "beleidsregel-BES"
@@ -59,7 +59,7 @@ Indien het openbaar lichaam bij de vacaturemelding echter constateert dat er toc
 
 Voor de volgende categorieën functies geldt op grond van deze beleidsregel dat de aanvraag voor een TWV onmiddellijk volgend op de vacaturemelding bij het openbaar lichaam Saba kan plaatsvinden:
 
-- 1. Onderwijzers en leerkrachten
+- 1. [vervallen]
 
 - 2. Duikinstructeurs en dive masters
 
