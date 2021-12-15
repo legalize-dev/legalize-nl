@@ -4,7 +4,7 @@ identifier: "BWBR0046013"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-15"
-last_updated: "2021-12-01"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046013"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046013&artikel=2&z=2021-12-15&g=2021-12-01).
+- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046013&artikel=2&z=2021-12-15&g=2021-12-15).
 
 ##### Artikel 2. Instelling en taak
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 1. De werkgroep wordt ingesteld per 1 december 2021.
 
-2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046013&artikel=2&z=2021-12-15&g=2021-12-01) door de Minister van Financiën aan de Minister van Volksgezondheid, Welzijn en Sport is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
+2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046013&artikel=2&z=2021-12-15&g=2021-12-15) door de Minister van Financiën aan de Minister van Volksgezondheid, Welzijn en Sport is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
 ##### Artikel 5. Secretariaat
 
