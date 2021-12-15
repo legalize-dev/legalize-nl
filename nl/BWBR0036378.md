@@ -4,7 +4,7 @@ identifier: "BWBR0036378"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-12-28"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036378"
 soort: "ministeriele-regeling"
@@ -164,7 +164,7 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ## Bijlagen
 
-### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
@@ -172,61 +172,61 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 2. : radioapparaten bestemd voor DECT
 
-### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### Mobiel elektronisch communicatienetwerk met laag vermogen
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor CB
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor PMR446
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor satellietgrondstations, zijnde LEST, HEST of VSAT
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor een mobiel elektronisch communicatienetwerk aan boord van luchtvaartuigen (basisstations)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor vaste verbindingen over korte afstand
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### radioapparaten bestemd voor Maritiem mobiel gebruik
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 ### Korteafstandapparatuur
 
@@ -260,7 +260,7 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 14. : radioapparaten bestemd voor meteruitlezing
 
-### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
