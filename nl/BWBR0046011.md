@@ -4,7 +4,7 @@ identifier: "BWBR0046011"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-12-15"
-last_updated: "2018-01-01"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046011"
 soort: "AMvB"
@@ -40,17 +40,17 @@ entry_into_force: "2021-12-15"
 
 ##### Artikel 1
 
-In het jaar 2018 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=1&z=2021-12-15&g=2018-01-01) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2018 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=1&z=2021-12-15&g=2021-12-15) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
 ##### Artikel 2
 
-In het jaar 2018 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=2&z=2021-12-15&g=2018-01-01) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2018 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=2&z=2021-12-15&g=2021-12-15) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
 ##### Artikel 3
 
-In het jaar 2018 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=3&z=2021-12-15&g=2018-01-01) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
+In het jaar 2018 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=3&z=2021-12-15&g=2021-12-15) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
 #### § 3. Slotbepalingen
 
