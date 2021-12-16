@@ -4,7 +4,7 @@ identifier: "BWBR0046027"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-12-16"
-last_updated: "2021-09-01"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046027"
 soort: "zbo"
@@ -159,7 +159,7 @@ Alle dbc’s bevatten de deelprestatie behandeling.
 
 **Daarnaast kan een dbc ook bestaan uit**:
 
-Een overzicht van de dbc’s is bij deze beleidsregel gevoegd als [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=1&z=2021-12-16&g=2021-09-01)**Prestaties en prestatiebeschrijvingen dbc’s**.
+Een overzicht van de dbc’s is bij deze beleidsregel gevoegd als [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=1&z=2021-12-16&g=2021-12-16)**Prestaties en prestatiebeschrijvingen dbc’s**.
 
 ### 4.3. Prestatiebeschrijvingen zzp’s
 
@@ -171,7 +171,7 @@ De tarieven voor de zzp-verblijfsprestaties bestaan uit de volgende componenten:
 
 Naast de zzp’s ggz heeft de NZa toeslagen vastgesteld:
 
-Deze toeslagen kunnen in combinatie met een zzp-ggz worden geleverd. Een overzicht van de zzp’s ggz en toeslagen is bij deze beleidsregel gevoegd in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=2&z=2021-12-16&g=2021-09-01) Prestaties en prestatiebeschrijvingen zzp’s ggz. Deze toeslagen zijn alleen van toepassing als is voldaan aan de voorwaarden die voor alle toeslagen gelden en aan de specifieke voorwaarden per afzonderlijke toeslag zoals genoemd in
+Deze toeslagen kunnen in combinatie met een zzp-ggz worden geleverd. Een overzicht van de zzp’s ggz en toeslagen is bij deze beleidsregel gevoegd in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=2&z=2021-12-16&g=2021-12-16) Prestaties en prestatiebeschrijvingen zzp’s ggz. Deze toeslagen zijn alleen van toepassing als is voldaan aan de voorwaarden die voor alle toeslagen gelden en aan de specifieke voorwaarden per afzonderlijke toeslag zoals genoemd in
 
 ### 4.4. Prestatiebeschrijving overige zorgproducten4In bijlage 4 van de Regeling medisch specialistische zorg: ‘overige zorgproducten per segment’ kan de NZa andere ozp’s aanmerken als “door ggz te declareren”, waardoor die ozp’s door zorgaanbieders van ggz te declareren zijn.
 
@@ -179,13 +179,13 @@ Prestaties binnen de gespecialiseerde ggz, niet zijnde dbc- en/of zzp’s ggz, w
 
 Voor de gespecialiseerde ggz gelden onder andere de volgende ozp’s:
 
-In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=3&z=2021-12-16&g=2021-09-01)**Overige zorgproducten** zijn de prestatiebeschrijvingen van de bovengenoemde overige zorgproducten opgenomen.
+In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=3&z=2021-12-16&g=2021-12-16)**Overige zorgproducten** zijn de prestatiebeschrijvingen van de bovengenoemde overige zorgproducten opgenomen.
 
 ### 4.5. Onderlinge dienstverlening
 
 Een (deel)prestatie die een zorgaanbieder levert als onderdeel van door een andere zorgaanbieder te verlenen zorg als bedoeld in [artikel 1, eerste lid, onder b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) op het gebied van gespecialiseerde ggz. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’.
 
-Voor onderlinge dienstverlening geldt de prestatiebeschrijving ‘onderlinge dienstverlening’ zoals opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=4&z=2021-12-16&g=2021-09-01)**Onderlinge dienstverlening**.
+Voor onderlinge dienstverlening geldt de prestatiebeschrijving ‘onderlinge dienstverlening’ zoals opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=4&z=2021-12-16&g=2021-12-16)**Onderlinge dienstverlening**.
 
 ### 5. Regiebehandelaar
 
