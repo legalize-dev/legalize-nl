@@ -4,7 +4,7 @@ identifier: "BWBR0045633"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-17"
-last_updated: "2021-09-23"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045633"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Uitkeringsplafond
 
-1. Het plafond voor het totaal van de aanvragen voor specifieke uitkeringen bedraagt € 31.000.000, met dien verstande dat per gemeente in totaal maximaal een bedrag van € 1.000.000 wordt verstrekt.
+1. Het plafond voor het totaal van de aanvragen voor specifieke uitkeringen bedraagt € 35.432.319, met dien verstande dat per gemeente in totaal maximaal een bedrag van € 1.000.000 wordt verstrekt.
 
 2. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor activiteiten voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 2. Een aanvraag bevat:
 
-- a. een beschrijving van het project waarvoor de specifieke uitkering wordt aangevraagd, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=2&z=2021-09-23&g=2021-09-23), en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in artikel 2;
+- a. een beschrijving van het project waarvoor de specifieke uitkering wordt aangevraagd, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=2&z=2021-12-17&g=2021-12-17), en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in artikel 2;
 
 - b. een beschrijving van de wijze waarop het project wordt uitgevoerd en welke partijen daarbij betrokken zijn;
 
@@ -98,15 +98,15 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister ter beschikking is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-4. Indien een aanvraag onvolledig is en niet al bij voorbaat duidelijk is dat deze na herstel zou moeten worden afgewezen omdat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-09-23&g=2021-09-23), anders wordt overschreden, biedt de minister de mogelijkheid om dit verzuim binnen een redelijke termijn te herstellen.
+4. Indien een aanvraag onvolledig is en niet al bij voorbaat duidelijk is dat deze na herstel zou moeten worden afgewezen omdat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-12-17&g=2021-12-17), anders wordt overschreden, biedt de minister de mogelijkheid om dit verzuim binnen een redelijke termijn te herstellen.
 
 ##### Artikel 5. De rangschikking van de aanvragen
 
 1. De minister behandelt de binnengekomen aanvragen op volgorde van binnenkomst. Een aanvraag geldt als binnengekomen op het moment dat de aanvraag volledig is binnengekomen.
 
-2. Indien de minister op de dag dat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-09-23&g=2021-09-23), wordt bereikt meer dan één aanvraag ontvangt, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
+2. Indien de minister op de dag dat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-12-17&g=2021-12-17), wordt bereikt meer dan één aanvraag ontvangt, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
-3. Indien het plafond niet is bereikt na toewijzing aan de binnengekomen aanvragen in de periode bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=4&z=2021-09-23&g=2021-09-23), kan de minister een andere periode vaststellen waarbinnen aanvragen kunnen worden gedaan. Die periode wordt uiterlijk zes weken voor aanvang ervan bekendgemaakt door middel van publicatie in de Staatscourant.
+3. Indien het plafond niet is bereikt na toewijzing aan de binnengekomen aanvragen in de periode bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=4&z=2021-12-17&g=2021-12-17), kan de minister een andere periode vaststellen waarbinnen aanvragen kunnen worden gedaan. Die periode wordt uiterlijk zes weken voor aanvang ervan bekendgemaakt door middel van publicatie in de Staatscourant.
 
 ##### Artikel 6. Verplichtingen
 
@@ -126,13 +126,13 @@ In deze regeling wordt verstaan onder:
 
 - c. de aanvraag ziet op projecten genoemd in de [bijlage bij artikel 2 van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020 houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen](onbekend) (Stcrt. 2020, 58877);
 
-- d. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-09-23&g=2021-09-23);
+- d. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-12-17&g=2021-12-17);
 
-- e. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=2&z=2021-09-23&g=2021-09-23); of
+- e. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=2&z=2021-12-17&g=2021-12-17); of
 
 - f. toewijzing van de aanvragen volgens de rangschikking zou leiden tot een bovenmatige concentratie van de toewijzingen in een of enkele regio’s.
 
-2. De minister kan een aanvraag voor een specifieke uitkering gedeeltelijk afwijzen, voor zover de volledige toekenning zou leiden tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-09-23&g=2021-09-23).
+2. De minister kan een aanvraag voor een specifieke uitkering gedeeltelijk afwijzen, voor zover de volledige toekenning zou leiden tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=3&z=2021-12-17&g=2021-12-17).
 
 ##### Artikel 8. De verlening
 
@@ -150,7 +150,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Bevoorschotting en uitbetaling
 
-De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=8&z=2021-09-23&g=2021-09-23), een voorschot van 100% en betaalt dat voorschot in één keer uit.
+De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045633&artikel=8&z=2021-12-17&g=2021-12-17), een voorschot van 100% en betaalt dat voorschot in één keer uit.
 
 ##### Artikel 10. Verantwoording, vaststelling en terugvordering
 
