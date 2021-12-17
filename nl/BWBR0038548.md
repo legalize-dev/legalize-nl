@@ -4,7 +4,7 @@ identifier: "BWBR0038548"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-12-17"
-last_updated: "2016-09-27"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038548"
 soort: "beleidsregel"
@@ -64,7 +64,7 @@ Bij de vaststelling van de hoogte van de bestuurlijke boete ter zake van overtre
 
 ##### Artikel 4
 
-Het op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=2&z=2016-09-27&g=2016-09-27) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=3&z=2016-09-27&g=2016-09-27) vastgestelde boetebedrag wordt verhoogd met 50% als bedoeld in [artikel 80, derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), indien de omstandigheden van het geval of de ernst van de overtreding daartoe aanleiding geven in het licht van de spoorwegveiligheid.
+Het op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=2&z=2021-12-17&g=2021-12-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=3&z=2021-12-17&g=2021-12-17) vastgestelde boetebedrag wordt verhoogd met 50% als bedoeld in [artikel 80, derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), indien de omstandigheden van het geval of de ernst van de overtreding daartoe aanleiding geven in het licht van de spoorwegveiligheid.
 
 ##### Artikel 5
 
@@ -78,7 +78,7 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boetes Spoorwe
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
-## Bijlage. behorende bij [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=2&z=2016-09-27&g=2016-09-27) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=3&z=2016-09-27&g=2016-09-27) van de Beleidsregel bestuurlijke boetes Spoorwegwet 2016
+## Bijlage. behorende bij [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=2&z=2021-12-17&g=2021-12-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=3&z=2021-12-17&g=2021-12-17) van de Beleidsregel bestuurlijke boetes Spoorwegwet 2016
 
 | Kolom 1 Overtredingen van onderstaand artikel van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007) | Kolom 2 Boetebedrag voor natuurlijke personen | Kolom 3 Normbedrag voor ondernemingen |
 | --- | --- | --- |
@@ -93,48 +93,47 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 | [Artikel 74a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=74a) | € 500 | € 10.000 |
 | [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=96) | Nvt | € 50.000 |
 
-| Kolom 1 Overtredingen van onderstaand artikel van het [Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624) | Kolom 1 Overtredingen van onderstaand artikel van het [Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624) | Kolom 2 Boetebedrag voor natuurlijke personen | Kolom 3 Normbedrag voor ondernemingen |
-| --- | --- | --- | --- |
-| [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=3) | eerste lid | Nvt | € 50.000 |
-| [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=3) | tweede lid | € 250 | Nvt |
-| [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) | [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) | € 500 | Nvt |
-| Artikel 4, derde lid | Artikel 4, derde lid | € 500 | Nvt |
-| [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=5) | [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=5) | € 500 | Nvt |
-| Artikel 5, derde lid | Artikel 5, derde lid | € 500 | Nvt |
-| [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=6) | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=6) | € 500 | Nvt |
-| Artikel 6, derde lid | Artikel 6, derde lid | € 500 | Nvt |
-| [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=7) | [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=7) | Nvt | € 50.000 |
-| Artikel 7, derde lid | Artikel 7, derde lid | Nvt | € 50.000 |
-| Artikel 7, vierde lid | Artikel 7, vierde lid | Nvt | € 50.000 |
-| [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=8) | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=8) | € 500 | Nvt |
-| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=10) | [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=10) | Nvt | € 10.000 |
-| Artikel 10, tweede lid | Artikel 10, tweede lid | € 500 | € 10.000 |
-| Artikel 10, vierde lid | Artikel 10, vierde lid | € 500 | Nvt |
-| Artikel 10, vijfde lid | Artikel 10, vijfde lid | € 500 | € 10.000 |
-| [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=11) | [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=11) | € 1.000 | € 10.000 |
-| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12) | [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12) | Nvt | € 50.000 |
-| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=13) | [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=13) | Nvt | € 10.000 |
-| [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=14) | [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=14) | € 500 | Nvt |
-| [Artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=15) | [Artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=15) | Nvt | € 10.000 |
-| [Artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=16) | [Artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=16) | Nvt | € 10.000 |
-| [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=17) | [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=17) | € 1.000 | € 50.000 |
-| [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=18) | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=18) | <10 km te hard: € 250 ≥10 km te hard: € 500 | <10 km te hard: € 10.000 ≥10 km te hard: € 50.000 |
-| [Artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=19) | [Artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=19) | <10 km te hard: € 250 ≥10 km te hard: € 500 | Nvt |
-| [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=20) | [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=20) | € 500 | Nvt |
-| Artikel 20, tweede lid | Artikel 20, tweede lid | € 500 | Nvt |
-| [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=21) | [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=21) | € 500 | Nvt |
-| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=24) | eerste lid | € 250 | € 10.000 |
-| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=24) | tweede lid | Nvt | € 10.000 |
-| [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=25) | [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=25) | Nvt | € 50.000 |
-| [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=26) | [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=26) | Nvt | € 10.000 |
-| Artikel 26, derde lid | Artikel 26, derde lid | € 500 | Nvt |
-| Artikel 26, vierde lid | Artikel 26, vierde lid | Nvt | € 10.000 |
-| Artikel 26, vijfde lid | Artikel 26, vijfde lid | Nvt | € 50.000 |
-| [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=28) | [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=28) | € 500 | Nvt |
-| [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=32) | [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=32) | <10 km te hard: € 250 ≥10 km te hard: € 500 | Nvt |
-| [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=33) | [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=33) | Nvt | € 10.000 |
-| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=37) | [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=37) | Nvt | € 10.000 |
-| [Artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=38) | [Artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=38) | € 500 | € 10.000 |
+| Kolom 1 Overtredingen van onderstaand artikel van het [Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624) | Kolom 2 Boetebedrag voor natuurlijke personen | Kolom 3 Normbedrag voor ondernemingen |
+| --- | --- | --- |
+| [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=3) | Nvt | € 50.000 |
+| Artikel 3, tweede lid | € 250 | Nvt |
+| [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) | € 500 | Nvt |
+| Artikel 4, derde lid | € 500 | Nvt |
+| [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=5) | € 500 | Nvt |
+| Artikel 5, derde lid | € 500 | Nvt |
+| [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=6) | € 500 | Nvt |
+| Artikel 6, derde lid | € 500 | Nvt |
+| [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=8) | € 500 | Nvt |
+| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=10) | € 500 | € 10.000 |
+| Artikel 10, derde lid | € 500 | Nvt |
+| Artikel 10, vierde lid | € 500 | € 10.000 |
+| [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12) | Nvt | € 50.000 |
+| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=13) | Nvt | € 10.000 |
+| [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=15) | Nvt | € 10.000 |
+| [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=17) | € 1.000 | € 50.000 |
+| [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=18) | <10 km te hard: € 250 ≥10 km te hard: € 500 | <10 km te hard: € 10.000 ≥10 km te hard: € 50.000 |
+| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=19) | <10 km te hard: € 250 ≥10 km te hard: € 500 | Nvt |
+| [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=20) | € 500 | Nvt |
+| [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=21) | € 500 | Nvt |
+| [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=26) | € 500 | Nvt |
+| Artikel 26, tweede lid | Nvt | € 10.000 |
+| Artikel 26, derde lid | Nvt | € 50.000 |
+| [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=28) | € 500 | Nvt |
+| [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=32) | <10 km te hard: € 250 ≥10 km te hard: € 500 | Nvt |
+| [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=33) | Nvt | € 10.000 |
+| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=37) | Nvt | € 10.000 |
+| [Artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=38) | € 500 | € 10.000 |
+
+| Kolom 1 Overtredingen van onderstaand onderdeel van de Uitvoerings[verordening 2019/773](32673R2019) van de Commissie van 16 mei 2019 | Kolom 2 Boetebedrag voor natuurlijke personen | Kolom 3 Normbedrag voor ondernemingen |
+| --- | --- | --- |
+| 4.2.1.2. en 4.2.3.4.3. | Nvt | € 10.000 |
+| 4.2.1.4. | Nvt | € 10.000 |
+| 4.2.1.5. | € 250 | € 10.000 |
+| 4.2.2.1. | Nvt | € 10.000 |
+| 4.2.2.2.2. | Nvt | € 10.000 |
+| 4.2.2.7.2. | Nvt | € 50.000 |
+| 4.2.3.6.1. | Nvt | € 10.000 |
+| Aanhangsel B, onderdeel 4 | € 500 | Nvt |
 
 | Kolom 1 Overtreding van onderstaand artikel van het [Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778) | Kolom 2 Boetebedrag voor natuurlijke personen | Kolom 3 Normbedrag voor ondernemingen |
 | --- | --- | --- |
