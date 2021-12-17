@@ -4,7 +4,7 @@ identifier: "BWBR0036768"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-12-17"
-last_updated: "2015-07-01"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036768"
 soort: "beleidsregel"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Bij de beoordeling of er voldaan is aan de verplichtingen in [artikel 13, tweede, derde en vierde lid, van het Besluit spoorwegpersoneel 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=13), tot het vermelden van de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking heeft, hanteert de Inspectie Leefomgeving en Transport de voorwaarden die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&bijlage=1&z=2015-07-01&g=2015-07-01) bij deze beleidsregel.
+1. Bij de beoordeling of er voldaan is aan de verplichtingen in [artikel 13, tweede, derde en vierde lid, van het Besluit spoorwegpersoneel 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=13), tot het vermelden van de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking heeft, hanteert de Inspectie Leefomgeving en Transport de voorwaarden die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&bijlage=1&z=2021-12-17&g=2021-12-17) bij deze beleidsregel.
 
 2. Indien de Inspectie Leefomgeving en Transport besluit een last onder bestuursdwang of last onder dwangsom op te leggen vanwege overtreding van [artikel 13, tweede, derde en vierde lid, van het Besluit spoorwegpersoneel 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=13), richt het besluit tot oplegging van die last zich tot degene onder wiens gezag de machinist zijn functie uitoefent.
 
@@ -54,19 +54,11 @@ Indien gebruik wordt gemaakt van de mogelijkheid van [artikel 13, vijfde lid, va
 
 ##### Artikel 3
 
-Bij de beoordeling of is voldaan aan [artikel 50, derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50) is het toegestaan om de kennis van de infrastructuur in te laten brengen door een tweede machinist in de cabine, mits is voldaan aan [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&bijlage=2&z=2015-07-01&g=2015-07-01) bij deze beleidsregel.
+Bij de beoordeling of is voldaan aan [artikel 50, derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50) is het toegestaan om de kennis van de infrastructuur in te laten brengen door een tweede machinist in de cabine, mits is voldaan aan [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&bijlage=2&z=2021-12-17&g=2021-12-17) bij deze beleidsregel.
 
 ##### Artikel 4
 
-1. Een machinist is in beginsel niet bevoegd om werkzaamheden als rangeerder uit te oefenen.
-
-2. Een machinist die bevoegd is als machinist met volledige bevoegdheid of als machinist met beperkte bevoegdheid op 15 november 20111Dit is de datum van inwerkingtreding van het ‘personeelsdeel’ van het Besluit spoorwegpersoneel 2011, zie Stb. 2011, 240 en Stb. 2011, 518., mag werkzaamheden als rangeerder uitoefenen, mits:
-
-- a. degene onder wiens gezag die functie wordt uitgeoefend ervoor zorg heeft gedragen dat de machinist periodiek een herinstructie heeft gevolgd ten aanzien van de juiste uitvoering van werkzaamheden als rangeerder en
-
-- b. blijvend voldaan is aan de medische en psychologische eisen van rangeerder.
-
-3. Het splitsen en samenstellen van reizigerstreinen met een automatische koppeling, waarbij vanuit de cabine wordt ge- of ontkoppeld, is een activiteit die behoort tot de bevoegdheid van een machinist, voor zover opgeleid, geëxamineerd en geherinstrueerd als machinist Reizigers.
+Vervallen
 
 ##### Artikel 5
 
@@ -76,9 +68,9 @@ Een ontheffing als bedoeld in [artikel 54a van de Spoorwegwet](https://wetten.ov
 
 1. Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.
 
-2. Deze beleidsregel, uitgezonderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&artikel=5&z=2015-07-01&g=2015-07-01), treedt in werking met ingang van 1 juli 2015.
+2. Deze beleidsregel, uitgezonderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&artikel=5&z=2021-12-17&g=2021-12-17), treedt in werking met ingang van 1 juli 2015.
 
-3. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&artikel=5&z=2015-07-01&g=2015-07-01) treedt in werking met ingang van de dag van inwerkingtreding van [artikel 54a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=54a).
+3. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036768&artikel=5&z=2021-12-17&g=2021-12-17) treedt in werking met ingang van de dag van inwerkingtreding van [artikel 54a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=54a).
 
 ##### Artikel 7
 
