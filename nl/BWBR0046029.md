@@ -4,7 +4,7 @@ identifier: "BWBR0046029"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2021-07-01"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046029"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling energie-audit.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046029&artikel=I&z=2021-12-17&g=2021-07-01) van de Regeling energie-audit
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046029&artikel=I&z=2021-12-17&g=2021-12-17) van de Regeling energie-audit
 
 ### Keurmerken
 
