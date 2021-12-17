@@ -4,7 +4,7 @@ identifier: "BWBR0042287"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2019-06-16"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042287"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een door de fabrikant of zijn gemachtigde aangebrachte datering en ondertekening.
 
-3. In een geval als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=1&artikel=2&z=2019-06-16&g=2019-06-16), worden bij de EG-verklaring van conformiteit of geschiktheid voor gebruik een of meerdere certificaten gevoegd van een aangemelde instantie waaruit de conformiteit of geschiktheid voor gebruik blijkt.
+3. In een geval als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-12-17&g=2021-12-17), worden bij de EG-verklaring van conformiteit of geschiktheid voor gebruik een of meerdere certificaten gevoegd van een aangemelde instantie waaruit de conformiteit of geschiktheid voor gebruik blijkt.
 
 ##### Artikel 4. Vrijstelling voor reserveonderdelen
 
@@ -190,9 +190,9 @@ In deze regeling wordt verstaan onder:
 
 - a. een beschrijving van de conformiteitsbeoordelingsactiviteiten, de conformiteitsbeoordelingsmodules en de producten waarvoor de instantie verklaart bekwaam te zijn; en
 
-- b. indien van toepassing, een accreditatiecertificaat dat is afgegeven door de Raad voor Accreditatie, waarin wordt verklaard dat de instantie voldoet aan de eisen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=9&z=2019-06-16&g=2019-06-16).
+- b. indien van toepassing, een accreditatiecertificaat dat is afgegeven door de Raad voor Accreditatie, waarin wordt verklaard dat de instantie voldoet aan de eisen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=9&z=2021-12-17&g=2021-12-17).
 
-2. De minister meldt een instantie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=9&z=2019-06-16&g=2019-06-16), aan overeenkomstig artikel 37, tweede lid, van de interoperabiliteitsrichtlijn.
+2. De minister meldt een instantie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=9&z=2021-12-17&g=2021-12-17), aan overeenkomstig artikel 37, tweede lid, van de interoperabiliteitsrichtlijn.
 
 ##### Artikel 11. Eisen aan te wijzen instantie
 
@@ -216,7 +216,7 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 - a. een beschrijving van de conformiteitsbeoordelingsactiviteiten, de conformiteitsbeoordelingsmodules en de producten waarvoor de instantie verklaart bekwaam te zijn; en
 
-- b. indien van toepassing, een accreditatiecertificaat dat is afgegeven door de Raad voor Accreditatie, waarin wordt verklaard dat de instantie voldoet aan de eisen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=11&z=2019-06-16&g=2019-06-16).
+- b. indien van toepassing, een accreditatiecertificaat dat is afgegeven door de Raad voor Accreditatie, waarin wordt verklaard dat de instantie voldoet aan de eisen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=11&z=2021-12-17&g=2021-12-17).
 
 ##### Artikel 13. Uitbesteden van werkzaamheden
 
@@ -288,7 +288,7 @@ Onverminderd bijlage II bij gedelegeerde verordening (EU) 2018/762, voldoet het 
 
 ##### Artikel 19. Aanvraag veiligheidsvergunning
 
-Bij een aanvraag tot verlening van een veiligheidsvergunning als bedoeld in [artikel 16f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16f) wordt een beschrijving van het veiligheidsbeheersysteem dan wel worden andere documenten gevoegd teneinde de overeenstemming met de eisen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=18&z=2019-06-16&g=2019-06-16) aan te tonen.
+Bij een aanvraag tot verlening van een veiligheidsvergunning als bedoeld in [artikel 16f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16f) wordt een beschrijving van het veiligheidsbeheersysteem dan wel worden andere documenten gevoegd teneinde de overeenstemming met de eisen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=18&z=2021-12-17&g=2021-12-17) aan te tonen.
 
 ##### Artikel 20. Geldigheidsduur veiligheidsvergunning
 
@@ -304,7 +304,7 @@ De houder van een veiligheidsvergunning informeert de minister onverwijld over e
 
 ##### Artikel 22. Wijziging veiligheidsvergunning
 
-De minister kan besluiten dat een wijziging van een bestaande veiligheidsvergunning is vereist, indien de informatie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=21&z=2019-06-16&g=2019-06-16), daartoe aanleiding geeft.
+De minister kan besluiten dat een wijziging van een bestaande veiligheidsvergunning is vereist, indien de informatie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=21&z=2021-12-17&g=2021-12-17), daartoe aanleiding geeft.
 
 #### § 2. Spoorwegondernemingen
 
@@ -364,7 +364,7 @@ Een door de minister verleend veiligheidscertificaat als bedoeld in [artikel 32,
 
 ##### Artikel 28. Wijziging veiligheidscertificaat
 
-De minister kan besluiten dat een wijziging van het bestaande veiligheidscertificaat is vereist, indien de informatie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=2&artikel=27&z=2019-06-16&g=2019-06-16), daartoe aanleiding geeft.
+De minister kan besluiten dat een wijziging van het bestaande veiligheidscertificaat is vereist, indien de informatie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=2&artikel=27&z=2021-12-17&g=2021-12-17), daartoe aanleiding geeft.
 
 #### § 3. Jaarlijks verslag over spoorwegveiligheid
 
@@ -408,7 +408,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 ##### Artikel 31. Maatregelen
 
-1. Op basis van de inventarisatie, bedoeld in [artikel 30, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=4&artikel=30&z=2019-06-16&g=2019-06-16), beoordeelt de spoorwegonderneming of maatregelen noodzakelijk zijn.
+1. Op basis van de inventarisatie, bedoeld in [artikel 30, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=4&artikel=30&z=2021-12-17&g=2021-12-17), beoordeelt de spoorwegonderneming of maatregelen noodzakelijk zijn.
 
 2. De uit het eerste lid voortvloeiende maatregelen worden door de spoorwegonderneming uitgevoerd, zo nodig in samenwerking met andere partijen.
 
@@ -422,7 +422,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 ##### Artikel 33. Aanmelding beoordelingsinstanties
 
-De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=5&artikel=32&z=2019-06-16&g=2019-06-16), aan overeenkomstig artikel 13 van uitvoeringsverordening (EU) 402/2013.
+De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=5&artikel=32&z=2021-12-17&g=2021-12-17), aan overeenkomstig artikel 13 van uitvoeringsverordening (EU) 402/2013.
 
 #### § 6. Veiligheid en risicobeheersing van, op en rond spoorwegen
 
@@ -443,6 +443,26 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 1. Met het toezicht op de naleving van de gedelegeerde handelingen die overeenkomstig artikel 27 van de spoorwegveiligheidsrichtlijn of artikel 50 van de interoperabiliteitsrichtlijn zijn vastgesteld en de uitvoeringshandelingen die overeenkomstig artikel 28, derde lid van de spoorwegveiligheidsrichtlijn of artikel 51 van de interoperabiliteitsrichtlijn zijn vastgesteld, zijn belast de bij besluit van de minister daartoe aangewezen personen.
 
 2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen die voortvloeien uit de in het eerste lid bedoelde handelingen.
+
+3. Het tweede lid geldt niet ten aanzien van overtreding van de volgende punten van de bijlage van Uitvoerings[verordening 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I):
+
+- a. 4.2.1.2. en 4.2.3.4.3.;
+
+- b. 4.2.1.4.;
+
+- c. 4.2.1.5.;
+
+- d. 4.2.2.1.;
+
+- e. 4.2.2.2.2.;
+
+- f. 4.2.2.7.2.;
+
+- g. 4.2.3.6.1.;
+
+- h. aanhangsel B, onderdeel 4.
+
+4. De punten, genoemd in het derde lid, vormen een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
 
 ### Hoofdstuk 5. Wijziging van andere ministeriële regelingen
 
