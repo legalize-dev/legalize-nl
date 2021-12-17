@@ -4,7 +4,7 @@ identifier: "BWBR0030006"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-12-17"
-last_updated: "2019-04-01"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030006"
 soort: "AMvB"
@@ -58,7 +58,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **categorie B:** vervoer van reizigers, vervoer van goederen;
 
-- **TSI Exploitatie en verkeersleiding:** Besluit 2012/757 van de Commissie van 14 november 2012 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot wijziging van Beschikking 2007/756/EG (PbEU 2012, L 345);
+- **locomotief:** spoorvoertuig met eigen voortbewegingsinrichting, hoofdzakelijk bestemd en ingericht om andere spoorvoertuigen voort te bewegen;
+
+- **treinstel:** treinstel als bedoeld in [artikel 1 van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=1);
+
+- **TSI Exploitatie en verkeersleiding:** Uitvoerings[verordening (EU) 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
 
 - **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
@@ -84,17 +88,19 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 2. De machinist met beperkte bevoegdheid is bevoegd tot het op hoofdspoorwegen besturen en begeleiden van een of meerdere typen spoorvoertuigen van categorie A.
 
-3. De rangeerder is bevoegd tot het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen met een maximumsnelheid van 40 km per uur.
+3. De machinist met volledige bevoegdheid of de machinist met beperkte bevoegdheid is tevens bevoegd tot het koppelen en ontkoppelen van locomotieven en treinstellen voor zover hij voor die handelingen is opgeleid.
 
-4. De wagencontroleur is bevoegd tot het controleren op kenbare gebreken van goederenwagens en de belading daarvan.
+4. De rangeerder is bevoegd tot het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen met een maximumsnelheid van 40 km per uur.
 
-5. De treindienstleider met volledige bevoegdheid is bevoegd tot:
+5. De wagencontroleur is bevoegd tot het controleren op kenbare gebreken van goederenwagens en de belading daarvan.
+
+6. De treindienstleider met volledige bevoegdheid is bevoegd tot:
 
 - a. het ter beschikking stellen van veilige rijwegen; en
 
 - b. het treffen van veiligheidsmaatregelen bij storingen en werkzaamheden aan hoofdspoorwegen of in de nabijheid daarvan.
 
-6. De treindienstleider met minimale bevoegdheid is bevoegd tot:
+7. De treindienstleider met minimale bevoegdheid is bevoegd tot:
 
 - a. het ter beschikking stellen van veilige rijwegen op emplacementen of gedeelten daarvan, die niet zijn voorzien van een technische beveiliging;
 
@@ -102,9 +108,9 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 4
 
-1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2019-04-01&g=2019-04-01).
+1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2021-12-17&g=2021-12-17).
 
-2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2019-04-01&g=2019-04-01).
+2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2021-12-17&g=2021-12-17).
 
 ##### Artikel 5
 
@@ -124,9 +130,9 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 7
 
-1. Onze Minister geeft een beoordeling als bedoeld in [artikel 50, eerste lid, onder a, en tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2019-04-01&g=2019-04-01), in het examenprogramma vastgestelde eisen.
+1. Onze Minister geeft een beoordeling als bedoeld in [artikel 50, eerste lid, onder a, en tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2021-12-17&g=2021-12-17), in het examenprogramma vastgestelde eisen.
 
-2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend geeft een beoordeling als bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door hem afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2019-04-01&g=2019-04-01), in het examenprogramma vastgestelde eisen.
+2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend geeft een beoordeling als bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door hem afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2021-12-17&g=2021-12-17), in het examenprogramma vastgestelde eisen.
 
 3. Een persoon wordt ten aanzien van de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid toegelaten tot de onderzoeken, bedoeld in het eerste en tweede lid, indien hij een opleiding voor de betrokken veiligheidsfunctie heeft gevolgd bij een krachtens [artikel 51b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b), door Onze Minister erkend opleidingsinstituut.
 
@@ -178,7 +184,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - d. kennis van de schriftelijke, digitale en mondelinge communicatie als bedoeld in de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding.
 
-5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2019-04-01&g=2019-04-01).
+5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2021-12-17&g=2021-12-17).
 
 ##### Artikel 9
 
@@ -198,7 +204,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - a. heeft plaatsgevonden volgens een door Onze Minister goedgekeurd keuringsreglement, en
 
-- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2019-04-01&g=2019-04-01) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
+- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2021-12-17&g=2021-12-17) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
 
 2. Het keuringsreglement, bedoeld in het eerste lid, onderdeel a, voorziet in de mogelijkheid van een herkeuring indien de aanvrager bezwaar heeft tegen de uitslag van de keuring in eerste instantie.
 
@@ -226,13 +232,13 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. onbepaalde tijd indien die is afgegeven aan een rangeerder, een treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid.
 
-4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2019-04-01&g=2019-04-01) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
+4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2021-12-17&g=2021-12-17) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
 5. Een tussentijdse keuring als bedoeld in het vierde lid vindt plaats indien bij degene onder wiens gezag de veiligheidsfunctie wordt uitgeoefend of bij de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), het vermoeden bestaat dat de betrokkene niet langer voldoet aan de voor de uitoefening van die veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
 ##### Artikel 12
 
-1. Een aanvraag tot verlening of wijziging van een machinistenvergunning wordt ingediend bij Onze Minister en gaat vergezeld van de bij regeling van onze Minister vast te stellen documenten.
+1. Een aanvraag tot verlening, wijziging of verlenging van een machinistenvergunning wordt ingediend bij Onze Minister en gaat vergezeld van de bij regeling van Onze Minister vast te stellen documenten.
 
 2. Onze Minister besluit op een aanvraag binnen één maand nadat voldaan is aan het bepaalde in het eerste lid en de vergoeding voor het in behandeling nemen van de aanvraag is voldaan.
 
@@ -240,9 +246,11 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 4. De machinistenvergunning is geldig voor de duur van tien jaar gerekend vanaf de datum van afgifte.
 
-5. Een machinistenvergunning door Onze Minister verleend aan een persoon met de leeftijd van 18 of 19 jaar is slechts geldig voor het besturen en begeleiden van spoorvoertuigen op hoofdspoorwegen in Nederland.
+5. Onze Minister verlengt een machinistenvergunning slechts indien de aanvrager beschikt over een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=11&z=2021-12-17&g=2021-12-17).
 
-6. Onze Minister kan op aanvraag van de houder een duplicaat afgeven van de machinistenvergunning.
+6. Een machinistenvergunning door Onze Minister verleend aan een persoon met de leeftijd van 18 of 19 jaar is slechts geldig voor het besturen en begeleiden van spoorvoertuigen op hoofdspoorwegen in Nederland.
+
+7. Onze Minister kan op aanvraag van de houder een duplicaat afgeven van de machinistenvergunning.
 
 ##### Artikel 13
 
@@ -256,7 +264,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 5. De bevoegdheid als rangeerder of wagencontroleur kan bij machinisten met volledige of beperkte bevoegdheid worden aangetekend op het bevoegdheidsbewijs.
 
-6. Indien een vrijstelling als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=5&z=2019-04-01&g=2019-04-01), is verleend, wordt dit vermeld op het bevoegdheidsbewijs.
+6. Indien een vrijstelling als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=5&z=2021-12-17&g=2021-12-17), is verleend, wordt dit vermeld op het bevoegdheidsbewijs.
 
 7. Het bevoegdheidsbewijs is voor onbepaalde tijd geldig.
 
@@ -356,7 +364,7 @@ Vervallen
 
 ##### Artikel 22
 
-Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2019-04-01&g=2019-04-01) van dit besluit.
+Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2021-12-17&g=2021-12-17) van dit besluit.
 
 ##### Artikel 23
 
