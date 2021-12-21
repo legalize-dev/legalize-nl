@@ -4,7 +4,7 @@ identifier: "BWBR0046050"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046050"
 soort: "AMvB"
@@ -174,11 +174,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 januari 2022, met uitzondering van de in de volgende leden genoemde onderdelen.
+
+2. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=V&z=2021-12-21&g=2021-12-21) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2021.
+
+3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=VI&z=2021-12-21&g=2021-12-21) treedt in werking met ingang van 1 januari 2022, met dien verstande dat artikel VI in werking treedt voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555).
+
+4. [Artikel XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XVII&z=2021-12-21&g=2021-12-21), treedt in werking met ingang van 1 juli 2022.
+
+5. [Artikel XIX, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XIX&z=2021-12-21&g=2021-12-21), treedt in werking met ingang van 1 januari 2023.
 
 ##### Artikel XXV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit SZW 2022.
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 oktober 2021, nr. 2021-0000162344;
 
