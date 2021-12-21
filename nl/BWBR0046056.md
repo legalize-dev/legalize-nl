@@ -4,7 +4,7 @@ identifier: "BWBR0046056"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-12-21"
-last_updated: "2021-09-01"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046056"
 soort: "zbo"
@@ -101,7 +101,7 @@ Een dbbc bestaat altijd uit:
 
 Een dbbc kan naast behandeling ook bestaan uit:
 
-Een overzicht van alle dbbc’s, inclusief de deelprestaties (behandeling, verblijf en overige prestaties) staat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=1&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijvingen dbbc’s**.
+Een overzicht van alle dbbc’s, inclusief de deelprestaties (behandeling, verblijf en overige prestaties) staat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=1&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijvingen dbbc’s**.
 
 ### 4.3. Prestatiebeschrijvingen zzp’s
 
@@ -111,7 +111,7 @@ Er zijn twee soorten zzp’s:
 
 De tarieven voor de zzp-verblijfsprestaties bestaan uit de volgende componenten:
 
-De zzp’s staan beschreven in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=2&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijvingen zzp’s**.
+De zzp’s staan beschreven in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=2&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijvingen zzp’s**.
 
 ### 4.4. Prestatiebeschrijvingen extramurale parameters
 
@@ -123,7 +123,7 @@ Voor enkele extramurale parameters kunnen zorgaanbieder en zorgverzekeraar afspr
 
 Het betreft de volgende modules:
 
-In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=3&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijvingen extramurale parameters** zijn de prestatiebeschrijvingen van de extramurale parameters opgenomen.
+In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=3&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijvingen extramurale parameters** zijn de prestatiebeschrijvingen van de extramurale parameters opgenomen.
 
 Ook staat aangegeven welke module bij de verschillende extramurale parameters mogelijk is.
 
@@ -139,7 +139,7 @@ De zorgaanbieder mag na afspraak met de verzekeraar de ozp alleen in combinatie 
 
 De zorgaanbieder kan de ozp dus nooit in rekening brengen in combinatie met een zzp of extramurale parameter.
 
-In [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=4&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijving** is de prestatiebeschrijving ozp opgenomen.
+In [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=4&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijving** is de prestatiebeschrijving ozp opgenomen.
 
 Vanaf 1 januari 2020 zijn de ozp’s eerstelijnsdiagnostiek opgenomen in de tarieven en niet meer apart declareerbaar voor de forensische zorg.
 
@@ -147,7 +147,7 @@ Vanaf 1 januari 2020 zijn de ozp’s eerstelijnsdiagnostiek opgenomen in de tari
 
 Onderlinge dienstverlening is fz zoals bedoeld in deze beleidsregel, die een zorgaanbieder verleent als onderdeel van een door een andere zorgaanbieder uit te voeren prestatie. De eerstgenoemde zorgaanbieder duidt de NZa als ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder duidt de NZa als de ‘opdrachtgevende zorgaanbieder’.
 
-In [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=5&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijving onderlinge dienstverlening** is de prestatiebeschrijving onderlinge dienstverlening opgenomen.
+In [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=5&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijving onderlinge dienstverlening** is de prestatiebeschrijving onderlinge dienstverlening opgenomen.
 
 In enkele gevallen kan het voorkomen dat er een zzp of extramurale parameter is geopend en er in het kader van onderlinge dienstverlening gebruik wordt gemaakt van dbbc-zorg. Als onderlinge dienstverlening echter plaats vindt in het kader van een zzp, heeft dit enkel betrekking op zzp-zorg. Hetzelfde geldt voor dbbc’s en extramurale parameters.
 
@@ -179,7 +179,7 @@ Voor de sglvg+ geldt een specifieke nhc. Het bedrag kan als opslag worden afgesp
 
 Declaratie van de opslag nhc sglvg+ op beveiligingsniveau 2 is uitsluitend mogelijk op basis van een overeenkomst tussen zorgaanbieder en zorgverzekeraar.
 
-Een overzicht van de verschillende beveiligingsniveaus vindt u in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=1&z=2021-12-21&g=2021-09-01). **Prestatiebeschrijvingen dbbc’s**.
+Een overzicht van de verschillende beveiligingsniveaus vindt u in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046056&bijlage=1&z=2021-12-21&g=2021-12-21). **Prestatiebeschrijvingen dbbc’s**.
 
 Voor de overige deelprestaties geldt een maximumtarief.
 
