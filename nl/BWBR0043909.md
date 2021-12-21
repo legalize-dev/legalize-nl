@@ -4,7 +4,7 @@ identifier: "BWBR0043909"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043909"
 soort: "AMvB"
@@ -62,6 +62,8 @@ In dit besluit wordt verstaan onder Wajong: [Wet arbeidsongeschiktheidsvoorzieni
 
 3. In afwijking van het eerste en tweede lid, is de periode, bedoeld in [artikel 8:8, tweede lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=8:8), voor de jonggehandicapte die in het jaar 2020 inkomen heeft in de vorm van belastbare winst uit onderneming, het jaar 2021.
 
+4. Voor de jonggehandicapte die op grond van [artikel 8:8, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=8:8) recht heeft op een inkomensvoorziening of arbeidsongeschiktheidsuitkering ter hoogte van het garantiebedrag is de periode, bedoeld in artikel 8:8, tweede lid, van de Wajong, in afwijking van het eerste en tweede lid, december 2020, indien toepassing van het eerste en tweede lid leidt tot een garantiebedrag dat lager is dan de inkomensondersteuning of arbeidsongeschiktheidsuitkering waarop de jonggehandicapte recht had in december 2020.
+
 ##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2021.
@@ -69,5 +71,11 @@ Dit besluit treedt in werking met ingang van 1 januari 2021.
 ##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit garantiebedrag Wajong.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a. Verlenging periode
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
