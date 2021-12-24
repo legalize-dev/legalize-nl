@@ -1,0 +1,41 @@
+---
+title: "Besluit van de raad van bestuur van de Kansspelautoriteit van 23 november 2021, 300008/01.251.938, tot het verlenen van een vergunning, als bedoeld in artikel 14a, eerste lid, van de Wet op de kansspelen, aan Lotto B.V., ingeschreven in het handelsregister van Nederland onder KvK-nummer 41151075"
+identifier: "BWBR0046123"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-24"
+last_updated: "2021-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046123"
+soort: "zbo"
+stam_id: "16207993"
+version_id: "28290122"
+internal_id: "C39887051"
+label_id: "16135944"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046123/2021-12-24/0"
+intitule_bron: "Stcrt.2021-49859"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-23"
+intitule_published: "2021-12-24"
+intitule_in_force: "2021-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49859"
+original_signed_date: "2021-11-23"
+original_published_date: "2021-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49859"
+entry_into_force_date: "2021-12-24"
+jci_1_3: "jci1.3:c:BWBR0046123&z=2021-12-24&g=2021-12-24"
+jci_1_0: "1.0:c:BWBR0046123&g=2021-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Vergunning Lotto 2022-2026"
+signed_date: "2021-11-23"
+entry_into_force: "2021-12-24"
+---
+# Besluit van de raad van bestuur van de Kansspelautoriteit van 23 november 2021, 300008/01.251.938, tot het verlenen van een vergunning, als bedoeld in artikel 14a, eerste lid, van de Wet op de kansspelen, aan Lotto B.V., ingeschreven in het handelsregister van Nederland onder KvK-nummer 41151075
+
+De raad van bestuur van de Kansspelautoriteit heeft besloten aan Lotto B.V. een vergunning te verlenen tot het organiseren van instantloterijen als bedoeld in [artikel 14a, tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a) en in overeenstemming met de toepasselijke wettelijke voorschriften voor de periode van 1 januari 2022 tot en met 31 december 2026.
+
+Aan deze vergunning zijn op grond van [artikel 14c, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c) de volgende vergunningvoorschriften verbonden:
