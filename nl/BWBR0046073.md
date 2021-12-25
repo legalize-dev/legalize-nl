@@ -4,7 +4,7 @@ identifier: "BWBR0046073"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-25"
-last_updated: "2021-11-01"
+last_updated: "2021-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046073"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https:
 
 Besluit:
 
-De terugwerkende kracht betreft herplaatsing van de regeling.
-
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
@@ -50,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Onderzoek:** het Evaluatieonderzoek [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), uitvoering en dienstverlening toeslagen, waarvoor de DG Fiscale Zaken en DG Toeslagen opdracht hebben gegeven;
 
-- c. **De begeleidingscommissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046073&artikel=2&z=2021-12-25&g=2021-11-01);
+- c. **De begeleidingscommissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046073&artikel=2&z=2021-12-25&g=2021-12-25);
 
 - d. **Ambtelijke werkgroep:** ondersteunende werkgroep waarin ambtenaren van het Ministerie van Financien, het Ministerie van Sociale Zaken en het DG Toeslagen plaatsnemen;
 
