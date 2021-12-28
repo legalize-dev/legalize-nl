@@ -4,7 +4,7 @@ identifier: "BWBR0007746"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007746"
 soort: "wet"
@@ -122,7 +122,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - r. S&O-referentiejaar: het tweede kalenderjaar voorafgaande aan het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft;
 
-- s. S&O-verklaring: de door Onze Minister van Economische Zaken en Klimaat op de voet van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01) aan een S&O-inhoudingsplichtige of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-01-01&g=2021-01-01) aan een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk;
+- s. S&O-verklaring: de door Onze Minister van Economische Zaken en Klimaat op de voet van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28) aan een S&O-inhoudingsplichtige of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-12-28&g=2021-12-28) aan een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk;
 
 - t. kosten: al hetgeen voor de realisatie van speur- en ontwikkelingswerk van de S&O-inhoudingsplichtige is betaald door de S&O-inhoudingsplichtige of door een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige voor zover deze betalingen:
 
@@ -174,7 +174,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. door Onze Minister van Economische Zaken en Klimaat bij ministeriële regeling aangewezen andere werkzaamheden.
 
-5. De ministeriële regelingen, bedoeld in deze wet, worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2021-01-01&g=2021-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2021-01-01&g=2021-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=20&z=2021-01-01&g=2021-01-01), in overeenstemming met Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Sociale Zaken en Werkgelegenheid.
+5. De ministeriële regelingen, bedoeld in deze wet, worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2021-12-28&g=2021-12-28), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2021-12-28&g=2021-12-28) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=20&z=2021-12-28&g=2021-12-28), in overeenstemming met Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2
 
@@ -204,9 +204,9 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 ##### Artikel 5
 
-1. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2021-01-01&g=2021-01-01).
+1. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2021-12-28&g=2021-12-28).
 
-2. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2021-01-01&g=2021-01-01).
+2. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2021-12-28&g=2021-12-28).
 
 ##### Artikel 6
 
@@ -302,7 +302,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2021-01-01&g=2021-01-01), bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.
+1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2021-12-28&g=2021-12-28), bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.
 
 2. De inhoudingsplichtige bewaart en registreert met betrekking tot het schip of de schepen waarop een of meer zeevarenden werkzaam zijn met betrekking tot wie de afdrachtvermindering zeevaart wordt toegepast:
 
@@ -320,7 +320,7 @@ Vervallen
 
 ##### Artikel 19
 
-Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2021-01-01&g=2021-01-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
+Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2021-12-28&g=2021-12-28) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
 
 ##### Artikel 20
 
@@ -340,7 +340,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 1. De S&O-inhoudingsplichtige kan voor een aaneengesloten periode van ten minste drie kalendermaanden en ten hoogste twaalf kalendermaanden vallende binnen één kalenderjaar een S&O-verklaring aanvragen. Een kalendermaand waarop een aanvraag betrekking heeft kan niet meer worden betrokken in een latere aanvraag.
 
-2. Een aanvraag als bedoeld in het eerste lid, een opgave als bedoeld in het vierde lid en een mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), geschieden uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken en Klimaat beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen.
+2. Een aanvraag als bedoeld in het eerste lid, een opgave als bedoeld in het vierde lid en een mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), geschieden uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken en Klimaat beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen.
 
 3. De aanvraag wordt uiterlijk ingediend op de laatste dag van de kalendermaand voorafgaande aan de periode waarop de aanvraag betrekking heeft. Indien de aanvraag betrekking heeft op een periode die ingaat op 1 januari van een kalenderjaar, wordt de aanvraag uiterlijk ingediend op 20 december van het daaraan voorafgaande kalenderjaar. De beslissing op de aanvraag wordt gegeven binnen drie kalendermaanden na de aanvang van de periode waarop de aanvraag betrekking heeft. Onze Minister van Economische Zaken en Klimaat kan bij ministeriële regeling in het algemeen of voor groepen van gevallen, een latere datum vaststellen waarop de beslissing op de aanvraag uiterlijk moet zijn gegeven.
 
@@ -348,7 +348,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 23
 
-1. Onze Minister van Economische Zaken en Klimaat verstrekt aan een S&O-inhoudingsplichtige die voornemens is in een periode van een kalenderjaar speur- en ontwikkelingswerk te verrichten, op zijn aanvraag op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-01-01&g=2021-01-01) een S&O-verklaring.
+1. Onze Minister van Economische Zaken en Klimaat verstrekt aan een S&O-inhoudingsplichtige die voornemens is in een periode van een kalenderjaar speur- en ontwikkelingswerk te verrichten, op zijn aanvraag op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-12-28&g=2021-12-28) een S&O-verklaring.
 
 2. De S&O-verklaring bevat:
 
@@ -384,15 +384,15 @@ vermeerderd met 16 per 1 januari 2021 tot en met 31 december 2021: 24 percent va
 
 7. Het in het derde en vierde lid laatstvermelde percentage wordt vervangen door 24 per 1 januari 2021 tot en met 31 december 2021: 34 indien de S&O-inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van [artikel 10a, zevende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a), dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de Wet op de inkomstenbelasting 2001 heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
 
-8. In afwijking van [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01), is het loon, bedoeld in het vijfde lid, het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), met uitzondering van eindheffingsbestanddelen als bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+8. In afwijking van [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-12-28&g=2021-12-28), is het loon, bedoeld in het vijfde lid, het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), met uitzondering van eindheffingsbestanddelen als bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
 9. Kosten en uitgaven kunnen slechts bij één S&O-inhoudingsplichtige tot het bedrag, bedoeld in het derde lid, onderdeel b, gerekend worden.
 
 ##### Artikel 24
 
-1. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, houdt een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de aard, de inhoud, de omvang en de voortgang van het werk dat in de verklaring is aangemerkt als speur- en ontwikkelingswerk. Ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), bevat, houdt de S&O-inhoudingsplichtige ook een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de kosten en uitgaven die zijn gemaakt voor het speur- en ontwikkelingswerk waarvoor hij de verklaring heeft ontvangen.
+1. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, houdt een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de aard, de inhoud, de omvang en de voortgang van het werk dat in de verklaring is aangemerkt als speur- en ontwikkelingswerk. Ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), bevat, houdt de S&O-inhoudingsplichtige ook een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de kosten en uitgaven die zijn gemaakt voor het speur- en ontwikkelingswerk waarvoor hij de verklaring heeft ontvangen.
 
-2. De S&O-inhoudingsplichtige doet mededeling aan Onze Minister van Economische Zaken en Klimaat over de in dat kalenderjaar aan speur- en ontwikkelingswerk bestede uren waarvoor een S&O-verklaring is afgegeven en, ingeval een S&O-verklaring ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), bevat, van de in dat kalenderjaar gerealiseerde kosten en uitgaven waarvoor een S&O-verklaring is afgegeven.
+2. De S&O-inhoudingsplichtige doet mededeling aan Onze Minister van Economische Zaken en Klimaat over de in dat kalenderjaar aan speur- en ontwikkelingswerk bestede uren waarvoor een S&O-verklaring is afgegeven en, ingeval een S&O-verklaring ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), bevat, van de in dat kalenderjaar gerealiseerde kosten en uitgaven waarvoor een S&O-verklaring is afgegeven.
 
 3. De S&O-inhoudingsplichtige doet de mededeling, bedoeld in het tweede lid, binnen drie kalendermaanden na afloop van het kalenderjaar waarop de in dat lid bedoelde S&O-verklaringen betrekking hebben of, indien dat later is, binnen drie kalendermaanden na de afgifte van de laatste S&O-verklaring die betrekking heeft op dat kalenderjaar.
 
@@ -400,25 +400,25 @@ vermeerderd met 16 per 1 januari 2021 tot en met 31 december 2021: 24 percent va
 
 ##### Artikel 25
 
-1. Onze Minister van Economische Zaken en Klimaat geeft aan de S&O-inhoudingsplichtige die de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), heeft gedaan, zo nodig een correctie-S&O-verklaring af voor alle op het kalenderjaar betrekking hebbende S&O-verklaringen gezamenlijk, waarbij hij het bedrag van de correctie-S&O-verklaring vaststelt op basis van de voor dat kalenderjaar toegekende uren, kosten en uitgaven, maar volgens die mededeling niet-bestede uren en niet-gerealiseerde kosten en uitgaven.
+1. Onze Minister van Economische Zaken en Klimaat geeft aan de S&O-inhoudingsplichtige die de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), heeft gedaan, zo nodig een correctie-S&O-verklaring af voor alle op het kalenderjaar betrekking hebbende S&O-verklaringen gezamenlijk, waarbij hij het bedrag van de correctie-S&O-verklaring vaststelt op basis van de voor dat kalenderjaar toegekende uren, kosten en uitgaven, maar volgens die mededeling niet-bestede uren en niet-gerealiseerde kosten en uitgaven.
 
 2. Onze Minister van Economische Zaken en Klimaat geeft aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring af met het bedrag dat op de S&O-verklaring ten onrechte is vermeld als bedrag aan S&O-afdrachtvermindering, indien:
 
 - a. aannemelijk is dat ter verkrijging van de S&O-verklaring of bij het doen van de mededeling, bedoeld in artikel 24, tweede lid, gegevens of bescheiden zijn verstrekt die zodanig onjuist of onvolledig zijn dat een andere beslissing zou zijn genomen indien de juiste en volledige gegevens zouden zijn verstrekt;
 
-- b. aannemelijk is geworden, dat de S&O-inhoudingsplichtige de verplichtingen, bedoeld in [artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), niet is nagekomen, met dien verstande dat het bedrag van de correctie-S&O-verklaring wordt vastgesteld op 100% van het bedrag aan S&O-afdrachtvermindering waarvoor de mededeling, bedoeld in artikel 24, tweede lid, niet is gedaan.
+- b. aannemelijk is geworden, dat de S&O-inhoudingsplichtige de verplichtingen, bedoeld in [artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), niet is nagekomen, met dien verstande dat het bedrag van de correctie-S&O-verklaring wordt vastgesteld op 100% van het bedrag aan S&O-afdrachtvermindering waarvoor de mededeling, bedoeld in artikel 24, tweede lid, niet is gedaan.
 
-3. Onze Minister van Economische Zaken en Klimaat kan, indien blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring afgeven tot een omvang waarvan onvoldoende aannemelijk is dat speur- en ontwikkelingswerk zoals opgenomen in de S&O-verklaring is verricht of kosten en uitgaven zoals opgenomen in de S&O-verklaring zijn gerealiseerd.
+3. Onze Minister van Economische Zaken en Klimaat kan, indien blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring afgeven tot een omvang waarvan onvoldoende aannemelijk is dat speur- en ontwikkelingswerk zoals opgenomen in de S&O-verklaring is verricht of kosten en uitgaven zoals opgenomen in de S&O-verklaring zijn gerealiseerd.
 
 4. Een bedrag vastgesteld bij een correctie-S&O-verklaring komt zoveel mogelijk in mindering op het bij één of meer S&O-verklaringen waarop de correctie-S&O-verklaring betrekking heeft, vastgestelde bedrag aan S&O-afdrachtvermindering dat nog niet in mindering is gebracht op de af te dragen belasting en premie. Voorzover dat niet mogelijk is, is sprake van een negatieve S&O-afdrachtvermindering welke er toe leidt dat de over het aangiftetijdvak waarin de correctie-S&O-verklaring is gedagtekend of het daaropvolgende aangiftetijdvak af te dragen loonbelasting, dan wel af te dragen loonbelasting en premie voor de volksverzekeringen, wordt vermeerderd met dat bedrag aan negatieve S&O-afdrachtvermindering.
 
 ##### Artikel 26
 
-1. Bij overtreding van het bij of krachtens [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), bepaalde of indien sprake is van het geval, bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2021-01-01&g=2021-01-01), kan Onze Minister van Economische Zaken en Klimaat aan de S&O-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100 000, of, wanneer dat meer is, 20% van het in de S&O-verklaring als afdrachtvermindering vastgestelde bedrag.
+1. Bij overtreding van het bij of krachtens [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), bepaalde of indien sprake is van het geval, bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2021-12-28&g=2021-12-28), kan Onze Minister van Economische Zaken en Klimaat aan de S&O-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100 000, of, wanneer dat meer is, 20% van het in de S&O-verklaring als afdrachtvermindering vastgestelde bedrag.
 
-2. Bij overtreding van het bij of [krachtens artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), bepaalde, legt Onze Minister van Economische Zaken en Klimaat aan de S&O-inhoudingsplichtige een bestuurlijke boete op ter hoogte van maximaal € 2500.
+2. Bij overtreding van het bij of [krachtens artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), bepaalde, legt Onze Minister van Economische Zaken en Klimaat aan de S&O-inhoudingsplichtige een bestuurlijke boete op ter hoogte van maximaal € 2500.
 
-3. Onze Minister van Economische Zaken en Klimaat brengt opgelegde boeten tot uitdrukking door deze op te nemen in een correctie-S&O-verklaring. [Artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+3. Onze Minister van Economische Zaken en Klimaat brengt opgelegde boeten tot uitdrukking door deze op te nemen in een correctie-S&O-verklaring. [Artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2021-12-28&g=2021-12-28), is van overeenkomstige toepassing.
 
 4. Bij het opleggen van een bestuurlijke boete als bedoeld in het tweede lid vindt [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) geen toepassing.
 
@@ -446,11 +446,11 @@ Vervallen
 
 5. [Artikel 3.6, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6) is van overeenkomstige toepassing.
 
-6. [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing met betrekking tot de S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven.
+6. [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), is van overeenkomstige toepassing met betrekking tot de S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven.
 
 7. Onze Minister van Economische Zaken en Klimaat trekt de S&O-verklaring in indien:
 
-- a. blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde;
+- a. blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde;
 
 - b. de S&O-belastingplichtige de mededeling, bedoeld in het vierde lid, deed, of aannemelijk is dat hij dat had behoren te doen;
 
@@ -468,11 +468,11 @@ Vervallen
 
 Teneinde zo veel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kan bij regeling van Onze Minister van Economische Zaken en Klimaat, onder overeenkomstige aanpassing van dit artikel, met ingang van 1 januari van enig jaar:
 
-- a. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), eerstvermelde percentage worden verhoogd tot ten hoogste 25, worden verlaagd, dan wel op nihil worden gesteld;
+- a. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), eerstvermelde percentage worden verhoogd tot ten hoogste 25, worden verlaagd, dan wel op nihil worden gesteld;
 
-- b. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), laatstvermelde percentage worden verhoogd tot ten hoogste 33,5, worden verlaagd, dan wel op nihil worden gesteld;
+- b. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), laatstvermelde percentage worden verhoogd tot ten hoogste 33,5, worden verlaagd, dan wel op nihil worden gesteld;
 
-- c. het in [artikel 23, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), vermelde percentage worden verhoogd tot ten hoogste 46, worden verlaagd, dan wel op nihil worden gesteld.
+- c. het in [artikel 23, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), vermelde percentage worden verhoogd tot ten hoogste 46, worden verlaagd, dan wel op nihil worden gesteld.
 
 De nieuwe percentages gelden met betrekking tot S&O-verklaringen die betrekking hebben op een periode die aanvangt op of na de dag waarop de wijziging in werking treedt.
 
@@ -484,7 +484,7 @@ De nieuwe percentages gelden met betrekking tot S&O-verklaringen die betrekking 
 
 2. Voor de toepassing van de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) en [67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) betreffende de uitvoering van deze wet door Onze Minister van Economische Zaken en Klimaat of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken en Klimaat in de plaats van Onze Minister.
 
-3. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2021-01-01&g=2021-01-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'aangiftetijdvak', 'loon', 'onderneming', 'fiscale eenheid', 'werknemer' en 'bedrijfsmiddel'.
+3. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-12-28&g=2021-12-28) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2021-12-28&g=2021-12-28) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'aangiftetijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer'.
 
 4. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
@@ -564,9 +564,9 @@ De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
 ##### Artikel 47
 
-1. Voor de toepassing van [artikel 1, eerste lid, onderdeel t, onder 1°, en onderdeel u, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01), worden onder kosten en uitgaven die eerder in aanmerking zijn genomen voor een S&O-verklaring mede verstaan: kosten en uitgaven die eerder in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015.
+1. Voor de toepassing van [artikel 1, eerste lid, onderdeel t, onder 1°, en onderdeel u, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-12-28&g=2021-12-28), worden onder kosten en uitgaven die eerder in aanmerking zijn genomen voor een S&O-verklaring mede verstaan: kosten en uitgaven die eerder in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015.
 
-2. In afwijking van het eerste lid en [artikel 1, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01), wordt onder uitgaven mede verstaan 20% van de uitgaven van € 1.000.000 of meer per bedrijfsmiddel die in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015, voor zover deze uitgaven:
+2. In afwijking van het eerste lid en [artikel 1, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2021-12-28&g=2021-12-28), wordt onder uitgaven mede verstaan 20% van de uitgaven van € 1.000.000 of meer per bedrijfsmiddel die in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015, voor zover deze uitgaven:
 
 - a. zijn betaald door de S&O-inhoudingsplichtige of door een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige;
 
@@ -574,7 +574,7 @@ De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
 - c. niet in meer dan vier voorgaande kalenderjaren in een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015 of in een S&O-verklaring zijn opgenomen.
 
-3. Met betrekking tot de toepassing van deze wet ter zake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2016, blijven de bepalingen bij of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&z=2021-01-01&g=2021-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2021-01-01&g=2021-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&z=2021-01-01&g=2021-01-01) zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0036644) van toepassing.
+3. Met betrekking tot de toepassing van deze wet ter zake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2016, blijven de bepalingen bij of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&z=2021-12-28&g=2021-12-28), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2021-12-28&g=2021-12-28) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&z=2021-12-28&g=2021-12-28) zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0036644) van toepassing.
 
 ##### Artikel 48
 
@@ -654,11 +654,11 @@ Vervallen
 
 ##### Artikel 23a
 
-1. Uitgaven die gedeeltelijk direct toerekenbaar zijn aan door de S&O-inhoudingsplichtige verricht speur- en ontwikkelingswerk, komen slechts voor dat deel als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), in aanmerking.
+1. Uitgaven die gedeeltelijk direct toerekenbaar zijn aan door de S&O-inhoudingsplichtige verricht speur- en ontwikkelingswerk, komen slechts voor dat deel als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), in aanmerking.
 
 2. Een uitgave kan slechts in één S&O-verklaring worden opgenomen.
 
-3. Uitgaven van € 1.000.000 of meer per bedrijfsmiddel komen in enig kalenderjaar voor 20 percent als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-01-01&g=2021-01-01), in aanmerking.
+3. Uitgaven van € 1.000.000 of meer per bedrijfsmiddel komen in enig kalenderjaar voor 20 percent als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2021-12-28&g=2021-12-28), in aanmerking.
 
 4. In afwijking van het tweede lid kunnen uitgaven als bedoeld in het derde lid gedurende 5 jaar maximaal eenmaal per kalenderjaar in een S&O-verklaring worden opgenomen.
 
@@ -692,7 +692,7 @@ Indien tussen twee lichamen waarvan een van de lichamen onmiddellijk of middelli
 
 ##### Artikel 23d
 
-1. Kosten die in enig kalenderjaar in een S&O-verklaring zijn opgenomen worden betaald voordat de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), voor deze S&O-verklaring wordt gedaan.
+1. Kosten die in enig kalenderjaar in een S&O-verklaring zijn opgenomen worden betaald voordat de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), voor deze S&O-verklaring wordt gedaan.
 
 2. Uitgaven worden niet eerder in aanmerking genomen dan in het kalenderjaar waarin het bedrijfsmiddel waarop zij betrekking hebben in gebruik is genomen.
 
@@ -704,13 +704,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 27a
 
-Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen regels worden gesteld op grond waarvan wordt vastgesteld in hoeverre bij een verstoring van de voorziening, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-01-01&g=2021-01-01), of [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-01-01&g=2021-01-01), sprake is van verschoonbaarheid van een termijnoverschrijding ter zake van:
+Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen regels worden gesteld op grond waarvan wordt vastgesteld in hoeverre bij een verstoring van de voorziening, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-12-28&g=2021-12-28), of [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-12-28&g=2021-12-28), sprake is van verschoonbaarheid van een termijnoverschrijding ter zake van:
 
-- a. een aanvraag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-01-01&g=2021-01-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-01-01&g=2021-01-01);
+- a. een aanvraag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-12-28&g=2021-12-28), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-12-28&g=2021-12-28);
 
-- b. een opgave als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-01-01&g=2021-01-01); of
+- b. een opgave als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2021-12-28&g=2021-12-28); of
 
-- c. een mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-01-01&g=2021-01-01), of [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-01-01&g=2021-01-01).
+- c. een mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2021-12-28&g=2021-12-28), of [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2021-12-28&g=2021-12-28).
 
 ### Hoofdstuk XII. Overgangs- en slotbepalingen
 
@@ -718,119 +718,51 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 29a
 
-1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
-
-- a. **BIK-afdrachtvermindering:** de afdrachtvermindering voor de baangerelateerde investering;
-
-- b. **BIK-inhoudingsplichtige:** een natuurlijk persoon die of een lichaam dat inhoudingsplichtige is en die of dat een of meer baangerelateerde investeringen doet, voor zover die persoon of dat lichaam voor die investeringen, afgezien van de omvang daarvan, in aanmerking komt voor de kleinschaligheidsinvesteringsaftrek, bedoeld in [artikel 3.41 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41);
-
-- c. **BIK-verklaring:** de door Onze Minister van Economische Zaken en Klimaat op de voet van [artikel 29f](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29f&z=2021-01-01&g=2021-01-01) aan een inhoudingsplichtige afgegeven verklaring betreffende de BIK-afdrachtvermindering;
-
-- d. **baangerelateerde investering:** het aangaan van verplichtingen ter zake van de aanschaffing van een niet eerder gebruikt bedrijfsmiddel als bedoeld in [artikel 3.30, eerste lid, van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30), voor zover die verplichtingen drukken op de BIK-inhoudingsplichtige, met uitzondering van:
-
-- 1°. bedrijfsmiddelen als bedoeld in [artikel 3.45, eerste en tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.45), waarbij in plaats van het in onderdeel b van dat tweede lid genoemde bedrag, een bedrag van € 1.500 geldt;
-
-- 2°. bedrijfsmiddelen waarbij verplichtingen zijn aangegaan als bedoeld in [artikel 3.46 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) of [artikel 8, achtste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8).
-
-2. Bij een samenwerkingsverband dat inhoudingsplichtige is, worden voor de toepassing van dit hoofdstuk de door de vennoten in het kader van dat samenwerkingsverband gedane investeringen aangemerkt als investeringen van het samenwerkingsverband en wordt het voor die investeringen, afgezien van de omvang daarvan, door de vennoten in aanmerking komen voor de kleinschaligheidsinvesteringsaftrek, bedoeld in [artikel 3.41 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), toegerekend aan het samenwerkingsverband.
-
-3. Indien een lichaam dat inhoudingsplichtige is deel uitmaakt van een fiscale eenheid wordt dat lichaam als BIK-inhoudingsplichtige aangemerkt ingeval het een of meer baangerelateerde investeringen doet, voor zover dat lichaam als ware er geen fiscale eenheid voor die investeringen, afgezien van de omvang daarvan, in aanmerking zou komen voor de kleinschaligheidsinvesteringsaftrek, bedoeld in [artikel 3.41 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41).
-
-4. Een investering wordt alleen als een baangerelateerde investering als bedoeld in het eerste lid, onderdeel d, aangemerkt indien de verplichtingen ter zake van de aanschaffing van het bedrijfsmiddel op of na 1 oktober 2020 zijn aangegaan, het bedrijfsmiddel met een laatste betaling in 2021 of 2022 volledig is betaald en het bedrijfsmiddel binnen zes maanden na die volledige betaling in gebruik wordt genomen.
-
-5. Verplichtingen ter zake van de verbetering van een bedrijfsmiddel en voortbrengingskosten ter zake van een bedrijfsmiddel worden niet als een baangerelateerde investering aangemerkt.
+Vervallen
 
 ##### Artikel 29b
 
-De inhoudingsplichtige kan de over een tijdvak af te dragen loonbelasting en premie voor de volksverzekeringen verminderen, doch niet verder dan tot nihil, met de BIK-afdrachtvermindering.
+Vervallen
 
 ##### Artikel 29c
 
-Het bedrag aan BIK-afdrachtvermindering voor baangerelateerde investeringen bedraagt per kalenderjaar:
-
-- a. 3,9% van het investeringsbedrag tot en met € 5.000.000, vermeerderd met;
-
-- b. 1,8% van het investeringsbedrag voor zover dat meer dan € 5.000.000 bedraagt.
+Vervallen
 
 ##### Artikel 29d
 
-1. De BIK-afdrachtvermindering is met betrekking tot een aangiftetijdvak van toepassing indien de inhoudingsplichtige beschikt over een ten name van hem afgegeven BIK-verklaring die in dat kalenderjaar is gedagtekend. Het totaal van de in aanmerking te nemen BIK-afdrachtvermindering in een kalenderjaar beloopt niet meer dan het totaal van de bij de in dat kalenderjaar gedagtekende BIK-verklaring of BIK-verklaringen vastgestelde verminderingen.
-
-2. Met ingang van het aangiftetijdvak waarin de BIK-verklaring is gedagtekend, wordt per aangiftetijdvak gedurende het kalenderjaar waarin de BIK-verklaring is afgegeven het geheel of een deel van de bij de BIK-verklaring of BIK-verklaringen vastgestelde BIK-afdrachtvermindering in aanmerking genomen.
-
-3. Ingeval na het doen van de laatste aangifte over het kalenderjaar waarin de BIK-verklaring is gedagtekend een nog niet verrekend bedrag aan BIK-afdrachtvermindering resteert, wordt dit bedrag verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een aangiftetijdvak dat eerder is geëindigd in het kalenderjaar waarin de BIK-verklaring is gedagtekend. Voor zover toepassing van de eerste volzin tot gevolg heeft dat een nog niet verrekend bedrag wordt verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een reeds verstreken aangiftetijdvak, wordt de aangifte over dat reeds verstreken tijdvak voor de toepassing van [artikel 28a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a) aangemerkt als een onjuiste of onvolledige aangifte.
+Vervallen
 
 ##### Artikel 29e
 
-1. De BIK-inhoudingsplichtige kan over één kalenderjaar maximaal vier BIK-verklaringen aanvragen, maar niet meer dan één per kwartaal van een kalenderjaar.
-
-2. Een aanvraag als bedoeld in het eerste lid geschiedt uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken en Klimaat beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen. Tot deze voorziening beschikbaar is, kunnen BIK-inhoudingsplichtigen geen aanvraag indienen en ontstaat geen recht op BIK-afdrachtvermindering.
-
-3. Een aanvraag wordt uiterlijk ingediend binnen drie kalendermaanden na afloop van het kalenderjaar waarin de laatste betaling voor de baangerelateerde investering heeft plaatsgevonden.
-
-4. Het totaalbedrag aan baangerelateerde investeringen in een aanvraag bedraagt ten minste € 20.000.
-
-5. De beslissing op de aanvraag wordt gegeven binnen twaalf weken na ontvangst van de aanvraag. Onze Minister van Economische Zaken en Klimaat kan bij ministeriële regeling in het algemeen of voor groepen van gevallen een latere datum vaststellen waarop de beslissing op de aanvraag uiterlijk moet zijn gegeven.
+Vervallen
 
 ##### Artikel 29f
 
-1. Onze Minister van Economische Zaken en Klimaat verstrekt aan een BIK-inhoudingsplichtige die een baangerelateerde investering is aangegaan, op zijn aanvraag op de voet van [artikel 29e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29e&z=2021-01-01&g=2021-01-01), een BIK-verklaring.
-
-2. De BIK-verklaring bevat:
-
-- a. de omvang van de baangerelateerde investering of investeringen;
-
-- b. het kalenderjaar waarop de BIK-verklaring betrekking heeft;
-
-- c. het bedrag aan BIK-afdrachtvermindering met een berekening van dat bedrag.
+Vervallen
 
 ##### Artikel 29g
 
-De BIK-inhoudingsplichtige die een BIK-verklaring heeft aangevraagd, houdt een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de baangerelateerde investeringen die zijn aangegaan.
+Vervallen
 
 ##### Artikel 29h
 
-1. Onze Minister van Economische Zaken en Klimaat geeft aan de BIK-inhoudingsplichtige een correctie-BIK-verklaring af met het bedrag dat op de BIK-verklaring ten onrechte is vermeld als bedrag aan BIK-afdrachtvermindering, indien:
-
-- a. aannemelijk is dat bij de aanvraag van de BIK-verklaring, bedoeld in [artikel 29e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29e&z=2021-01-01&g=2021-01-01), gegevens of bescheiden zijn verstrekt die zodanig onjuist of onvolledig zijn dat een andere beslissing zou zijn genomen indien de juiste en volledige gegevens zouden zijn verstrekt;
-
-- b. aannemelijk is geworden dat een bedrijfsmiddel waarvoor een BIK-verklaring is afgegeven niet binnen zes maanden na volledige betaling in gebruik is genomen, als bedoeld in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29a&z=2021-01-01&g=2021-01-01), met dien verstande dat het bedrag van de correctie-BIK-verklaring wordt vastgesteld op het bedrag aan BIK-afdrachtvermindering voor de investering in dat bedrijfsmiddel.
-
-2. Indien de BIK-inhoudingsplichtige weet of redelijkerwijs moet vermoeden dat bij de aanvraag onjuiste informatie is verstrekt of indien een bedrijfsmiddel waarvoor een BIK-verklaring is afgegeven niet binnen zes maanden na volledige betaling in gebruik is genomen is de BIK-inhoudingsplichtige gehouden een mededeling te doen aan Onze Minister van Economische Zaken en Klimaat. De BIK-inhoudingsplichtige is gehouden deze mededeling te doen binnen drie kalendermaanden nadat hij dit te weten is gekomen of redelijkerwijs had kunnen vermoeden.
-
-3. Bij het eindigen van de inhoudingsplicht van een inhoudingsplichtige die de BIK-afdrachtvermindering heeft toegepast, vóór het tijdstip, bedoeld in het tweede lid, wordt in afwijking van dat lid de mededeling gedaan binnen één kalendermaand nadat de inhoudingsplicht is geëindigd.
-
-4. Onze Minister van Economische Zaken en Klimaat kan, indien blijkt dat de in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29g&z=2021-01-01&g=2021-01-01) bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde, aan de BIK-inhoudingsplichtige een correctie-BIK-verklaring afgeven tot een omvang van de BIK-afdrachtvermindering voor een investering waarvan onvoldoende aannemelijk is dat sprake is van een baangerelateerde investering.
-
-5. Een bedrag vastgesteld bij een correctie-BIK-verklaring komt zoveel mogelijk in mindering op het bij één of meer BIK-verklaringen waarop de correctie-BIK-verklaring betrekking heeft, vastgestelde bedrag aan BIK-afdrachtvermindering dat nog niet in mindering is gebracht op de af te dragen loonbelasting en premie voor de volksverzekeringen. Voor zover dat niet mogelijk is, is sprake van een negatieve BIK-afdrachtvermindering die ertoe leidt dat de over het aangiftetijdvak waarin de correctie-BIK-verklaring is gedagtekend of het daaropvolgende aangiftetijdvak af te dragen loonbelasting en premie voor de volksverzekeringen, wordt vermeerderd met dat bedrag aan negatieve BIK-afdrachtvermindering.
+Vervallen
 
 ##### Artikel 29i
 
-1. Bij overtreding van het bij of krachtens [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29g&z=2021-01-01&g=2021-01-01) bepaalde of indien sprake is van het geval, bedoeld in [artikel 29h, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29h&z=2021-01-01&g=2021-01-01), kan Onze Minister van Economische Zaken en Klimaat aan de BIK-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100.000, of, wanneer dat meer is, 20% van het in de BIK-verklaring als afdrachtvermindering vastgestelde bedrag.
-
-2. Bij overtreding van het bij of krachtens [artikel 29h, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29h&z=2021-01-01&g=2021-01-01), bepaalde, legt Onze Minister van Economische Zaken en Klimaat aan de BIK-inhoudingsplichtige een bestuurlijke boete op ter hoogte van maximaal € 2.500.
-
-3. Onze Minister van Economische Zaken en Klimaat brengt opgelegde boeten tot uitdrukking door deze op te nemen in een correctie-BIK-verklaring. [Artikel 29h, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29h&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
-
-4. Bij het opleggen van een bestuurlijke boete als bedoeld in het tweede lid vindt [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) geen toepassing.
+Vervallen
 
 ##### Artikel 29j
 
-Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen regels worden gesteld op grond waarvan wordt vastgesteld in hoeverre bij een verstoring van de voorziening, bedoeld in [artikel 29e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29e&z=2021-01-01&g=2021-01-01), sprake is van verschoonbaarheid van een termijnoverschrijding ter zake van:
-
-- a. een aanvraag als bedoeld in [artikel 29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29e&z=2021-01-01&g=2021-01-01);
-
-- b. een mededeling als bedoeld in [artikel 29h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29h&z=2021-01-01&g=2021-01-01).
+Vervallen
 
 ##### Artikel 29k
 
-1. De in de [artikelen 47 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [53, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [53a tot en met 56 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister van Economische Zaken en Klimaat met betrekking tot de toepassing van in dit hoofdstuk aangewezen ambtenaren.
-
-2. De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) en [72 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=72) zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 29l
 
-Teneinde zo veel mogelijk evenwicht te bereiken tussen de BIK-afdrachtvermindering en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij regeling van Onze Minister van Economische Zaken en Klimaat, met ingang van 1 januari van enig jaar de in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=29c&z=2021-01-01&g=2021-01-01) vermelde percentages worden verhoogd, verlaagd, dan wel op nihil gesteld. De nieuwe percentages gelden met betrekking tot BIK-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
+Vervallen
 
 ### Hoofdstuk X. Bijzondere bepalingen inzake beroep en bevoegdheden
 
