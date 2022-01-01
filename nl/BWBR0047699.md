@@ -4,7 +4,7 @@ identifier: "BWBR0047699"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-19"
-last_updated: "2017-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047699"
 soort: "wet"
@@ -70,7 +70,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 2. Voordeel uit sparen en beleggen
 
-1. Het voordeel uit sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt vastgesteld op het bedrag dat volgt uit de berekening, opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2022-12-28&g=2017-01-01).
+1. Het voordeel uit sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt vastgesteld op het bedrag dat volgt uit de berekening, opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2022-01-01).
 
 2. Het voordeel uit sparen en beleggen wordt gesteld op ten minste nihil.
 
@@ -101,9 +101,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 4. Forfaitaire percentages 2022
 
-1. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2022-12-28&g=2017-01-01), derde lid, kolom I, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentepercentages op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
+1. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2022-01-01), derde lid, kolom I, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentepercentages op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
-2. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2022-12-28&g=2017-01-01), derde lid, kolom III, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentes over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
+2. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2022-01-01), derde lid, kolom III, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentes over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
 ##### Artikel 5. Persoonsgebonden aftrek
 
@@ -119,7 +119,7 @@ In afwijking van artikel [2.17, derde lid, van de Wet inkomstenbelasting 2001](h
 
 - b. **het noemerinkomen:** het belastbare inkomen uit sparen en beleggen zoals dat na toepassing van deze wet is vastgesteld.
 
-3. Voor de toepassing van het tweede lid, onderdeel a, wordt het rendement van de bezittingen in het buitenland en het rendement van de schulden in verband met die bezittingen bepaald met inachtneming van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2022-12-28&g=2017-01-01).
+3. Voor de toepassing van het tweede lid, onderdeel a, wordt het rendement van de bezittingen in het buitenland en het rendement van de schulden in verband met die bezittingen bepaald met inachtneming van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2022-01-01).
 
 ##### Artikel 7. Inwerkingtreding
 
