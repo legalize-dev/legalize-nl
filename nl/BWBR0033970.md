@@ -4,7 +4,7 @@ identifier: "BWBR0033970"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033970"
 soort: "pbo"
@@ -43,13 +43,13 @@ Stelt de volgende nadere voorschriften vast:
 
 In deze nadere voorschriften wordt verstaan onder:
 
-- –. **leden:** de leden van de ledengroep;
+- –. **leden:** leden van een ledengroep als bedoeld in [artikel 16 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
 
-- –. **ledengroep:** de ledengroep accountants in business;
+- –. **ledengroep:** ledengroep als bedoeld in [artikel 2, derde lid, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=2);
 
-- –. **ledengroepbestuur:** het bestuur van de ledengroep;
+- –. **ledengroepbestuur:** bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
-- –. **ledengroepvergadering:** de vergadering van leden van de ledengroep;
+- –. **ledengroepvergadering:** ledengroepvergadering als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
 - –. **verordening:** de [Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813);
 
@@ -81,7 +81,7 @@ In deze nadere voorschriften wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033970&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), door de ledengroep moeten geschieden, meldt het ledengroepbestuur dit ten minste zes weken voor de datum van de desbetreffende ledengroepvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033970&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), door de ledengroep moeten geschieden, meldt het ledengroepbestuur dit ten minste zes weken voor de datum van de desbetreffende ledengroepvergadering aan de leden.
 
 ##### Artikel 5
 
