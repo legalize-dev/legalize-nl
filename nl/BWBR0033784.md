@@ -4,7 +4,7 @@ identifier: "BWBR0033784"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033784"
 soort: "pbo"
@@ -42,13 +42,9 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **bestuur:** het bestuur van de NBA;
+- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
 
-- –. **NBA:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
-
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
-
-- –. **voorzitter:** de voorzitter, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4).
+- –. **voorzitter:** voorzitter als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4).
 
 ### Hoofdstuk 2. Bijeenroepen van de vergadering en agenda
 
@@ -82,7 +78,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
 
 ##### Artikel 5
 
