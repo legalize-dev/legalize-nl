@@ -4,7 +4,7 @@ identifier: "BWBR0045404"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-14"
-last_updated: "2021-07-16"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045404"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Gezondheidsdienst voor Dieren B.V. wordt voor de periode 21 april 2021 tot en me
 
 ##### Artikel 3. aanwijzing gemachtigde instantie
 
-Gezondheidsdienst voor Dieren B.V. wordt als gemachtigde instantie als bedoeld in artikel 31, eerste lid, verordening (EU) nr. 2017/625 aangewezen voor zover andere officiële activiteiten deel uitmaken van de monitoringsprogramma’s, bedoeld in [artikel 2, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16).
+Gezondheidsdienst voor Dieren B.V. wordt als gemachtigde instantie als bedoeld in artikel 31, eerste lid, verordening (EU) nr. 2017/625 aangewezen voor zover andere officiële activiteiten deel uitmaken van de monitoringsprogramma’s, bedoeld in [artikel 2, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01).
 
 ##### Artikel 4. meldplicht statuten
 
@@ -104,7 +104,7 @@ Gezondheidsdienst voor Dieren B.V. meldt, schriftelijk en onverwijld, aan de min
 
 - a. zodra dit haar bekend is, het voornemen van haar aandeelhouder tot overdracht van alle of een deel van de aandelen in Gezondheidsdienst voor Dieren B.V. of in GD Group B.V.;
 
-- b. het aangaan, ingrijpend wijzigen of beëindigen van een duurzame samenwerking tussen Gezondheidsdienst voor Dieren B.V. of GD Group B.V. en een derde, indien deze samenwerking, of de wijziging of beëindiging ervan, van invloed is op de onafhankelijke en onpartijdige uitvoering van de taken waarvoor Gezondheidsdienst voor Dieren B.V. in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2021-07-16) is aangewezen;
+- b. het aangaan, ingrijpend wijzigen of beëindigen van een duurzame samenwerking tussen Gezondheidsdienst voor Dieren B.V. of GD Group B.V. en een derde, indien deze samenwerking, of de wijziging of beëindiging ervan, van invloed is op de onafhankelijke en onpartijdige uitvoering van de taken waarvoor Gezondheidsdienst voor Dieren B.V. in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2022-01-01) is aangewezen;
 
 - c. indien GD Group B.V. niet meer voldoetaan de wettelijke eisen van het structuurregime als bedoeld in [artikel 2:263, lid 2, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=263), of het vermoeden bestaat dat binnen afzienbare tijd niet meer aan deze wettelijke eisen van het structuurregime zal worden voldaan;
 
@@ -112,19 +112,19 @@ Gezondheidsdienst voor Dieren B.V. meldt, schriftelijk en onverwijld, aan de min
 
 ##### Artikel 6. inlichtingen
 
-De minister is bevoegd om alle inlichtingen te vorderen die betrekking hebben op de uitvoering van de activiteiten waarvoor Gezondheidsdienst voor Dieren B.V. is aangewezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2021-07-16) voor zover de inlichtingen noodzakelijk zijn om de uitvoering van deze taken te beoordelen.
+De minister is bevoegd om alle inlichtingen te vorderen die betrekking hebben op de uitvoering van de activiteiten waarvoor Gezondheidsdienst voor Dieren B.V. is aangewezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2022-01-01) voor zover de inlichtingen noodzakelijk zijn om de uitvoering van deze taken te beoordelen.
 
 ##### Artikel 7. bekostiging en administratie
 
-1. De uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16) genoemde taken worden door de minister uit het Diergezondheidsfonds bekostigd.
+1. De uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01) genoemde taken worden door de minister uit het Diergezondheidsfonds bekostigd.
 
-2. Gezondheidsdienst voor Dieren B.V. richt haar administratie zodanig in dat daaruit te allen tijde de gemaakte kosten ter uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16), op eenvoudige en duidelijke wijze is af te lezen.
+2. Gezondheidsdienst voor Dieren B.V. richt haar administratie zodanig in dat daaruit te allen tijde de gemaakte kosten ter uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01), op eenvoudige en duidelijke wijze is af te lezen.
 
 3. De gemaakte kosten worden berekend op basis van het bepaalde in het protocol van werkafspraken.
 
 ##### Artikel 8. intrekken aanwijzing
 
-In aanvulling op artikel 33, onder b, verordening (EU) nr. 2017/625 trekt de minister de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2021-07-16) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2021-07-16), geheel of gedeeltelijk in indien er sprake is van een niet-naleving van de in dit besluit gestelde voorwaarden.
+In aanvulling op artikel 33, onder b, verordening (EU) nr. 2017/625 trekt de minister de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2021-07-16&g=2022-01-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2021-07-16&g=2022-01-01), geheel of gedeeltelijk in indien er sprake is van een niet-naleving van de in dit besluit gestelde voorwaarden.
 
 ##### Artikel 9. intrekken oud besluit
 
@@ -133,5 +133,11 @@ Het [besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 dec
 ##### Artikel 10. inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 21 april 2021.
+
+Dit besluit wordt bekend gemaakt door toezending aan Gezondheidsdienst voor Dieren B.V. en door plaatsing in de Staatscourant.
+
+##### Artikel 9a. citeertitel
+
+Dit besluit wordt aangehaald als Besluit aanwijzing Gezondheidsdienst voor Dieren B.V. voor uitvoering diergezondheidsmonitoring.
 
 Dit besluit wordt bekend gemaakt door toezending aan Gezondheidsdienst voor Dieren B.V. en door plaatsing in de Staatscourant.
