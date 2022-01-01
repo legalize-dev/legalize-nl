@@ -4,7 +4,7 @@ identifier: "BWBR0044042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-15"
-last_updated: "2021-10-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044042"
 soort: "ministeriele-regeling"
@@ -168,7 +168,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 67a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2021-10-21&g=2021-10-21), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 7. Verblijfsjaren
 
@@ -220,11 +220,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 ##### Artikel 9. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=68), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=68), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -236,7 +236,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - b. onherroepelijk is afgewezen.
 
-7. Vanaf 29 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 ##### Artikel 10. Uitzonderingssituaties toepassing marktonderzoek
 
@@ -288,9 +288,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Bij een aanvraag tot bekostiging voor een school of scholengemeenschap die ontstaat na splitsing als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64):
 
-- a. is [artikel 4, eerste lid en tweede lid, met uitzondering van onderdeel g, h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2021-10-21&g=2021-10-21), van overeenkomstige toepassing;
+- a. is [artikel 4, eerste lid en tweede lid, met uitzondering van onderdeel g, h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing;
 
-- b. is [artikel 5, eerste lid, met uitzondering van onderdeel j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2021-10-21&g=2021-10-21), van overeenkomstige toepassing; en
+- b. is [artikel 5, eerste lid, met uitzondering van onderdeel j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing; en
 
 - c. is een splitsingsplan gevoegd.
 
@@ -356,9 +356,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien het bevoegd gezag dat reeds bekostigd wordt voor het verzorgen van leerwegondersteunend onderwijs, bij de minister een aanvraag indient om dit onderwijs in meer leerwegen of op meer vestigingen te verzorgen, neemt de minister hierover een besluit.
 
-2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2021-10-21&g=2021-10-21).
+2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-01&g=2022-01-01).
 
-3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2021-10-21&g=2021-10-21).
+3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-01&g=2022-01-01).
 
 4. De aanvraag tot uitbreiding leerwegondersteunend onderwijs wordt ingediend in het digitale portaal via de website www.duo.nl.
 
@@ -463,3 +463,7 @@ Deze regeling treedt in werking met ingang van 1 november 2020.
 ##### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning vo 2020. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 26a. Omhang
+
+Dit onderdeel is nog niet inwerking getreden
