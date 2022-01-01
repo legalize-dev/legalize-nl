@@ -4,7 +4,7 @@ identifier: "BWBR0020632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020632"
 soort: "ministeriele-regeling"
@@ -56,11 +56,11 @@ die op 1 januari van een kalenderjaar de leeftijd van 18, 19 of 20 jaar heeft be
 
 2. De tegemoetkoming bedraagt:
 
-- a. voor een 18-jarige: € 18,01
+- a. voor een 18-jarige: € 18,26
 
-- b. voor een 19-jarige: € 17,30
+- b. voor een 19-jarige: € 17,54
 
-- c. voor een 20-jarige: € 10,37
+- c. voor een 20-jarige: € 10,52
 
 3. In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) of [3:3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.
 
