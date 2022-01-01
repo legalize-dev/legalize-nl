@@ -4,7 +4,7 @@ identifier: "BWBR0046050"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-12-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046050"
 soort: "AMvB"
@@ -40,25 +40,17 @@ entry_into_force: "2021-12-21"
 
 Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516)
 
 Wijzigt het Besluit algemene rechtspositie politie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Besluit allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0036578)
 
 Wijzigt het Besluit allocatie arbeidskrachten door intermediairs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895)
 
 Wijzigt het Besluit beslagvrije voet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Besluit garantiebedrag Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0043909)
 
@@ -68,121 +60,85 @@ Wijzigt het Besluit garantiebedrag Wajong.
 
 Wijzigt het Besluit inburgering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555)
 
 Wijzigt het Besluit inburgering 2021.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Besluit inlichtingenverplichtingen werknemersverzekeringen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028535)
 
 Wijzigt het Besluit inlichtingenverplichtingen werknemersverzekeringen BES
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. [Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892)
 
 Wijzigt het Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Besluit minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008222)
 
 Wijzigt het Besluit minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI. [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
 
 Wijzigt het Besluit omgevingsrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. [Besluit ontheffing verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0020483)
 
 Wijzigt het Besluit ontheffing verplichtingen sociale zekerheidswetten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII. [Besluit passende arbeid WW en ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0036081)
 
 Wijzigt het Besluit passende arbeid WW en ZW.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Besluit politiegegevens bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0026117)
 
 Wijzigt het Besluit politiegegevens bijzondere opsporingsdiensten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530)
 
 Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
 Wijzigt het Besluit SUWI.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. Besluit uitvoering Wet arbeid vreemdelingen 2022
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen 2022.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. [Besluit verwijzingsportaal bankgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0043903)
 
 Wijzigt het Besluit verwijzingsportaal bankgegevens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Besluit wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040)
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. [Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471)
 
 Wijzigt het Dagloonbesluit werknemersverzekeringen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445)
 
 Wijzigt het Maatregelenbesluit socialezekerheidswetten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII. [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2022, met uitzondering van de in de volgende leden genoemde onderdelen.
 
-2. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=V&z=2021-12-21&g=2021-12-21) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2021.
+2. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=V&z=2022-01-01&g=2022-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=VI&z=2021-12-21&g=2021-12-21) treedt in werking met ingang van 1 januari 2022, met dien verstande dat artikel VI in werking treedt voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555).
+3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=VI&z=2022-01-01&g=2022-01-01) treedt in werking met ingang van 1 januari 2022, met dien verstande dat artikel VI in werking treedt voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555).
 
-4. [Artikel XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XVII&z=2021-12-21&g=2021-12-21), treedt in werking met ingang van 1 juli 2022.
+4. [Artikel XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XVII&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 juli 2022.
 
-5. [Artikel XIX, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XIX&z=2021-12-21&g=2021-12-21), treedt in werking met ingang van 1 januari 2023.
+5. [Artikel XIX, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XIX&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 januari 2023.
 
 ##### Artikel XXV. Citeertitel
 
