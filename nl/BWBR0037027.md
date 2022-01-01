@@ -4,7 +4,7 @@ identifier: "BWBR0037027"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037027"
 soort: "pbo"
@@ -40,13 +40,11 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
-- −. **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
-
 - −. **CPB:** Centraal Planbureau, bedoeld in [artikel 2, eerste lid van de Wet voorbereiding van de vaststelling van een Centraal Economisch Plan](https://wetten.overheid.nl/jci1.3:c:BWBR0002029&artikel=2);
 
-- −. **kennistoets:** een onderzoek waarbij het bestuur in het kader van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, zijn kennis over een bepaald kennisgebied of onderwerp toetst;
+- −. **kennistoets:** onderzoek waarbij het bestuur in het kader van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, zijn kennis over een bepaald kennisgebied of onderwerp toetst;
 
-- −. **organisatie:** een onderneming of een instelling, een accountantspraktijk en een accountantsafdeling daaronder begrepen.
+- −. **organisatie:** onderneming of een instelling, een accountantspraktijk en een accountantsafdeling daaronder begrepen.
 
 ##### Artikel 2
 
@@ -64,9 +62,9 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Het bestuur kan een klacht indienen bij de accountantskamer indien de accountant niet aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=2&z=2020-01-01&g=2020-01-01) voldoet.
+1. Het bestuur kan een klacht indienen bij de accountantskamer indien de accountant niet aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=2&z=2022-01-01&g=2022-01-01) voldoet.
 
-2. Alvorens een klacht wordt ingediend, stelt het bestuur de accountant een termijn om alsnog aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=2&z=2020-01-01&g=2020-01-01) te voldoen.
+2. Alvorens een klacht wordt ingediend, stelt het bestuur de accountant een termijn om alsnog aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=2&z=2022-01-01&g=2022-01-01) te voldoen.
 
 ##### Artikel 5
 
@@ -84,7 +82,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 5a
 
-1. De bedragen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=5&z=2020-01-01&g=2020-01-01), worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
+1. De bedragen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037027&artikel=5&z=2022-01-01&g=2022-01-01), worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
 
 2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het CPB laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
 
