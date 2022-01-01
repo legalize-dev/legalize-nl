@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -180,7 +180,7 @@ waarin:
 
 ##### Artikel 5. Openbaarmaking gegevens topfunctionarissen
 
-1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging meer bedraagt dan € 1.700:
+1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging meer bedraagt dan € 1.800:
 
 - a. de naam;
 
@@ -226,9 +226,9 @@ waarin:
 
 2. In aanvulling op het eerste lid vermeldt de verantwoordelijke in het financieel verslaggevingsdocument tevens de in het eerste lid genoemde gegevens over het jaar voorafgaand aan het boekjaar waarop de verplichting in het eerste lid betrekking heeft.
 
-3. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging € 1.700 of minder bedraagt, de naam en de functie of functies, alsmede in voorkomend geval de naam van de rechtspersoon of instelling bij wie de leidinggevende topfunctionaris gelijktijdig een functie als leidinggevende topfunctionaris in dienstbetrekking vervult als bedoeld in het eerste lid, onderdeel n.
+3. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging € 1.800 of minder bedraagt, de naam en de functie of functies, alsmede in voorkomend geval de naam van de rechtspersoon of instelling bij wie de leidinggevende topfunctionaris gelijktijdig een functie als leidinggevende topfunctionaris in dienstbetrekking vervult als bedoeld in het eerste lid, onderdeel n.
 
-4. Indien een topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, van wie de totale bezoldiging meer bedraagt dan € 1.700 een functie vervult anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid voor de periode van functievervulling tot en met twaalf maanden:
+4. Indien een topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, van wie de totale bezoldiging meer bedraagt dan € 1.800 een functie vervult anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid voor de periode van functievervulling tot en met twaalf maanden:
 
 - a. de naam;
 
@@ -286,19 +286,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor de bureaukosten;
 
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2021-01-01&g=2021-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2022-01-01&g=2022-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
 
 2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
 - a. de omzetbelasting;
 
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2021-01-01&g=2021-01-01).
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2022-01-01&g=2022-01-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
 
-1. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), te boven is gegaan, de volgende gegevens:
+1. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), te boven is gegaan, de volgende gegevens:
 
 - a. de functie of functies;
 
@@ -316,11 +316,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. In de gevallen bedoeld in het eerste lid motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3).
 
-5. In afwijking van het eerste lid, aanhef en onderdeel e, kan het totale bedrag worden vermeld van de premies of bijdragen van de werkgever, bedoeld in [artikel 2, eerste lid, onderdelen q en r](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2021-01-01&g=2021-01-01), die bij wijze van uitgestelde financiering voldaan worden in de vorm van inkoop van pensioenafspraken als bedoeld in [artikel 4 van het Uitvoeringsbesluit pensioenaspecten sociaal akkoord 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&artikel=4), alsmede het aantal niet-topfunctionarissen dat het betreft.
+5. In afwijking van het eerste lid, aanhef en onderdeel e, kan het totale bedrag worden vermeld van de premies of bijdragen van de werkgever, bedoeld in [artikel 2, eerste lid, onderdelen q en r](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2022-01-01&g=2022-01-01), die bij wijze van uitgestelde financiering voldaan worden in de vorm van inkoop van pensioenafspraken als bedoeld in [artikel 4 van het Uitvoeringsbesluit pensioenaspecten sociaal akkoord 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&artikel=4), alsmede het aantal niet-topfunctionarissen dat het betreft.
 
 ##### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
 
-De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2021-01-01&g=2021-01-01) zijn niet van toepassing op rechtspersonen, niet zijnde rechtspersonen als bedoeld in [artikel 1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), en instellingen waarbij:
+De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op rechtspersonen, niet zijnde rechtspersonen als bedoeld in [artikel 1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), en instellingen waarbij:
 
 - a. de som van de lonen waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven niet meer dan € 160.000 euro bedraagt;
 
@@ -332,11 +332,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5c. Wijze van openbaarmaking
 
-1. Indien het boekjaar van de verantwoordelijke niet overeenkomt met een kalenderjaar heeft de vermelding, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2021-01-01&g=2021-01-01), betrekking op de gegevens van het kalenderjaar voorafgaande aan het boekjaar.
+1. Indien het boekjaar van de verantwoordelijke niet overeenkomt met een kalenderjaar heeft de vermelding, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2022-01-01&g=2022-01-01), betrekking op de gegevens van het kalenderjaar voorafgaande aan het boekjaar.
 
-2. Uiterlijk 1 juli van het jaar volgend op het boekjaar waar het financieel verslaggevingsdocument betrekking op heeft maakt de verantwoordelijke de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2021-01-01&g=2021-01-01) openbaar via internet op een algemeen toegankelijke wijze gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking.
+2. Uiterlijk 1 juli van het jaar volgend op het boekjaar waar het financieel verslaggevingsdocument betrekking op heeft maakt de verantwoordelijke de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2022-01-01&g=2022-01-01) openbaar via internet op een algemeen toegankelijke wijze gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking.
 
-3. Bij een groep van rechtspersonen zijn de verantwoordelijken van de rechtspersonen binnen de groep vrij om te kiezen of de gegevens, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2021-01-01&g=2021-01-01), worden opgenomen in de geconsolideerde jaarrekening, in de enkelvoudige jaarrekening van de betreffende rechtspersoon of in de enkelvoudige jaarrekening van een van de andere rechtspersonen in de groep, voor zover dit op grond van andere op de rechtspersonen van toepassing zijnde regelgeving is toegestaan. Uitsluitende vermelding in de geconsolideerde jaarrekening of de enkelvoudige jaarrekening van een van de andere rechtspersonen binnen de groep is voldoende indien:
+3. Bij een groep van rechtspersonen zijn de verantwoordelijken van de rechtspersonen binnen de groep vrij om te kiezen of de gegevens, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2022-01-01&g=2022-01-01), worden opgenomen in de geconsolideerde jaarrekening, in de enkelvoudige jaarrekening van de betreffende rechtspersoon of in de enkelvoudige jaarrekening van een van de andere rechtspersonen in de groep, voor zover dit op grond van andere op de rechtspersonen van toepassing zijnde regelgeving is toegestaan. Uitsluitende vermelding in de geconsolideerde jaarrekening of de enkelvoudige jaarrekening van een van de andere rechtspersonen binnen de groep is voldoende indien:
 
 - a. in de geconsolideerde jaarrekening of de enkelvoudige jaarrekening van een van de andere rechtspersonen binnen de groep waarin de WNT-verantwoording is opgenomen per verantwoorde functionaris wordt aangegeven op welke rechtspersoon of rechtspersonen de verantwoorde WNT-gegevens betrekking hebben, en
 
@@ -344,7 +344,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5d. Herstel van fouten die na vaststelling van het financieel verslaggevingsdocument worden geconstateerd
 
-1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2021-01-01&g=2021-01-01) openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
+1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2022-01-01&g=2022-01-01) openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
 
 - a. in een verantwoorde bezoldiging of uitkering wegens beëindiging van het dienstverband over het voorafgaande boekjaar, groter dan € 5.000;
 
@@ -360,6 +360,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
 
-Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
+Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
