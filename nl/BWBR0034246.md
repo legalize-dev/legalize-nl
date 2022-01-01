@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -52,15 +52,15 @@ In deze regeling wordt verstaan onder:
 
 - **zorgverzekeraars:** de zorgverzekeraars en Wlz-uitvoerders, bedoeld in de [bijlage 3 bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3).
 
-##### Artikel 2. Sectorale bezoldigingsnorm 2021
+##### Artikel 2. Sectorale bezoldigingsnorm 2022
 
-1. Voor het kalenderjaar 2021 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
+1. Voor het kalenderjaar 2022 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
 
-- a. € 297.000, indien zij op 1 januari 2020 meer dan 1.000.000 verzekerden hadden;
+- a. € 306.000, indien zij op 1 januari 2021 meer dan 1.000.000 verzekerden hadden;
 
-- b. € 257.000, indien zij op 1 januari 2020 minimaal 300.000 en maximaal 1.000.000 verzekerden hadden;
+- b. € 265.000, indien zij op 1 januari 2021 minimaal 300.000 en maximaal 1.000.000 verzekerden hadden;
 
-- c. € 218.000, indien zij op 1 januari 2020 minder dan 300.000 verzekerden hadden.
+- c. € 225.000, indien zij op 1 januari 2021 minder dan 300.000 verzekerden hadden.
 
 2. Indien een zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarbinnen zich ook andere zorgverzekeraars bevinden, mogen voor de toepassing van het eerste lid de verzekerden van alle zorgverzekeraars binnen die groep worden meegeteld.
 
