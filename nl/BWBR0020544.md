@@ -4,7 +4,7 @@ identifier: "BWBR0020544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2021-10-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020544"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Het percentage van het collectieve deel wordt vastgesteld op 75.
 
 ##### Artikel 3. Voorlopige inhouding en definitieve vaststelling voor het collectieve deel
 
-1. De voorlopige inhouding van de vermindering van de personele bekostiging per kalenderjaar, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5) volgt hetzelfde ritme als de betaling van de personele bekostiging.
+1. De voorlopige inhouding van de vermindering van de de bekostiging als bedoeld in [artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=6) per kalenderjaar, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5) volgt hetzelfde ritme als de betaling van de de bekostiging als bedoeld in artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden.
 
 2. De definitieve vaststelling van de vermindering vindt jaarlijks plaats in december van het lopende kalenderjaar en is gebaseerd op de werkelijke uitgaven in het lopende kalenderjaar met betrekking tot de uitkeringskosten, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5).
 
