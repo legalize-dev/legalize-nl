@@ -4,7 +4,7 @@ identifier: "BWBR0044571"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2021-12-28"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044571"
 soort: "wet"
@@ -108,7 +108,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 - a. een tegemoetkoming voor ondernemers van getroffen sectoren die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat in verband met een in de periode van 16 maart 2020 tot en met 15 juni 2020 verwacht omzetverlies als gevolg van de maatregelen ter bestrijding van de verdere verspreiding van COVID-19;
 
-- b. een subsidie aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen onderneming die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze onderneming in staat te stellen in de periode van 1 juni 2020 tot en met 30 september 2020 de vaste lasten te betalen.
+- b. een subsidie aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen onderneming die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze onderneming in staat te stellen in een bepaalde periode de vaste lasten te betalen, mits voor de toepassing van deze bepaling voor die periode goedkeuring van de Europese Commissie is verkregen.
 
 2. De winst, bedoeld in [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), wordt mede opgevat en bepaald op de voet van het eerste lid.
 
@@ -188,8 +188,6 @@ Vervallen
 
 Wijzigt de Mijnbouwwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII
 
 Wijzigt de Wet bankenbelasting.
@@ -248,7 +246,7 @@ Wijzigt de Wet bedrijfsleven 2019.
 
 ##### Artikel XXXVIII
 
-De [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van [artikel XXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIX&z=2021-12-28&g=2021-12-28), met uitzondering van onderdeel G van dat artikel, blijft van toepassing op een motorrijtuig dat op die dag reeds is ingeschreven in het kentekenregister, maar niet te naam is gesteld. Echter, het voor dat motorrijtuig van toepassing zijnde tarief en de grondslagen voor de heffing van de belasting van personenauto’s en motorrijwielen worden vastgesteld op de dag dat artikel XXIX in werking treedt.
+De [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van [artikel XXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIX&z=2022-01-01&g=2022-01-01), met uitzondering van onderdeel G van dat artikel, blijft van toepassing op een motorrijtuig dat op die dag reeds is ingeschreven in het kentekenregister, maar niet te naam is gesteld. Echter, indien dat motorrijtuig een gebruikt motorrijtuig is, worden het voor dat motorrijtuig van toepassing zijnde tarief en de grondslagen voor de heffing van de belasting van personenauto’s en motorrijwielen vastgesteld op de dag dat artikel XXIX in werking treedt. Indien dat motorrijtuig een nieuw motorrijtuig is, worden het voor dat motorrijtuig van toepassing zijnde tarief en de grondslagen voor de heffing van de belasting van personenauto’s en motorrijwielen vastgesteld op de dag van eerste tenaamstelling in het kentekenregister, onverminderd de toepassing van [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel XXIX.
 
 ##### Artikel XXXIX
 
@@ -266,35 +264,35 @@ Ingeval de samenloop van wetten die in 2020 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2021, met dien verstande dat:
 
-- a. [artikel I, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=I&z=2021-12-28&g=2021-12-28), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2021 is toegepast;
+- a. [artikel I, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=I&z=2022-01-01&g=2022-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2021 is toegepast;
 
-- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2022 wordt toegepast: [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=II&z=2021-12-28&g=2021-12-28), eerst toepassing vindt nadat genoemd artikel 10.1 bij het begin van genoemd kalenderjaar is toegepast;
+- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2022 wordt toegepast: [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=II&z=2022-01-01&g=2022-01-01), eerst toepassing vindt nadat genoemd artikel 10.1 bij het begin van genoemd kalenderjaar is toegepast;
 
-- c. [artikel XXV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXV&z=2021-12-28&g=2021-12-28), terugwerkt tot en met het begin van het laatste boekjaar van de belastingplichtige dat eindigt in de periode van 1 januari 2019 tot en met 31 maart 2020;
+- c. [artikel XXV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXV&z=2022-01-01&g=2022-01-01), terugwerkt tot en met het begin van het laatste boekjaar van de belastingplichtige dat eindigt in de periode van 1 januari 2019 tot en met 31 maart 2020;
 
-- d. [artikel XXV, onderdelen A, C, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXV&z=2021-12-28&g=2021-12-28) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2021;
+- d. [artikel XXV, onderdelen A, C, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXV&z=2022-01-01&g=2022-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2021;
 
-- e. de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XVII&z=2021-12-28&g=2021-12-28), [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXII&z=2021-12-28&g=2021-12-28), [XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIII&z=2021-12-28&g=2021-12-28), [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIV&z=2021-12-28&g=2021-12-28) en [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIII&z=2021-12-28&g=2021-12-28) terugwerken tot en met 1 januari 2020;
+- e. de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XVII&z=2022-01-01&g=2022-01-01), [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXII&z=2022-01-01&g=2022-01-01), [XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIII&z=2022-01-01&g=2022-01-01), [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIV&z=2022-01-01&g=2022-01-01) en [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIII&z=2022-01-01&g=2022-01-01) terugwerken tot en met 1 januari 2020;
 
-- f. [artikel XVIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XVIII&z=2021-12-28&g=2021-12-28), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2021 is toegepast;
+- f. [artikel XVIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XVIII&z=2022-01-01&g=2022-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2021 is toegepast;
 
-- g. [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXV&z=2021-12-28&g=2021-12-28) toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=II) en [IV van de Wet tijdelijk verlaagd tarief laadpalen](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=IV) worden toegepast;
+- g. [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXV&z=2022-01-01&g=2022-01-01) toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=II) en [IV van de Wet tijdelijk verlaagd tarief laadpalen](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=IV) worden toegepast;
 
-- h. [artikel XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVII&z=2021-12-28&g=2021-12-28) toepassing vindt voordat [artikel 7.5 van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.5) wordt toegepast;
+- h. [artikel XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVII&z=2022-01-01&g=2022-01-01) toepassing vindt voordat [artikel 7.5 van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.5) wordt toegepast;
 
-- i. [artikel XXXIX, onderdelen A, C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIX&z=2021-12-28&g=2021-12-28), toepassing vindt voordat de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=III) en [XVI van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XVI) worden toegepast;
+- i. [artikel XXXIX, onderdelen A, C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIX&z=2022-01-01&g=2022-01-01), toepassing vindt voordat de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=III) en [XVI van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XVI) worden toegepast;
 
-- j. [artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XL&z=2021-12-28&g=2021-12-28) toepassing vindt voordat [artikel II van het Belastingplan 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=II) wordt toegepast;
+- j. [artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XL&z=2022-01-01&g=2022-01-01) toepassing vindt voordat [artikel II van het Belastingplan 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=II) wordt toegepast;
 
-- k. [artikel XXVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVIIIA&z=2021-12-28&g=2021-12-28) eerst toepassing vindt nadat [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) bij het begin van het kalenderjaar 2021 is toegepast.
+- k. [artikel XXVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVIIIA&z=2022-01-01&g=2022-01-01) eerst toepassing vindt nadat [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) bij het begin van het kalenderjaar 2021 is toegepast.
 
-2. In afwijking van het eerste lid treden [artikel XXVI, onderdelen Aa, Ab en Ba tot en met Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVI&z=2021-12-28&g=2021-12-28), [artikel XXVID](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVID&z=2021-12-28&g=2021-12-28) en [artikel XXXVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVII&z=2021-12-28&g=2021-12-28), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat daarbij tevens kan worden bepaald dat de wijzigingen met betrekking tot de voorwaartse verliesverrekening, in afwijking van de tot en met 31 december 2021 geldende tekst van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672), toepassing vinden met betrekking tot verliezen die zijn geleden in boekjaren die zijn aangevangen op of na 1 januari 2013, voor zover deze verliezen worden verrekend met belastbare winsten of Nederlandse inkomens genoten in boekjaren die aanvangen op of na 1 januari 2022.
+2. In afwijking van het eerste lid treden [artikel XXVI, onderdelen Aa, Ab en Ba tot en met Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVI&z=2022-01-01&g=2022-01-01), [artikel XXVID](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXVID&z=2022-01-01&g=2022-01-01) en [artikel XXXVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVII&z=2022-01-01&g=2022-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat daarbij tevens kan worden bepaald dat de wijzigingen met betrekking tot de voorwaartse verliesverrekening, in afwijking van de tot en met 31 december 2021 geldende tekst van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672), toepassing vinden met betrekking tot verliezen die zijn geleden in boekjaren die zijn aangevangen op of na 1 januari 2013, voor zover deze verliezen worden verrekend met belastbare winsten of Nederlandse inkomens genoten in boekjaren die aanvangen op of na 1 januari 2022.
 
-3. In afwijking van het eerste lid treden [artikel XXXI, onderdelen A, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXI&z=2021-12-28&g=2021-12-28), en [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXII&z=2021-12-28&g=2021-12-28) in werking op 1 april 2021.
+3. In afwijking van het eerste lid treden [artikel XXXI, onderdelen A, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXI&z=2022-01-01&g=2022-01-01), en [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXII&z=2022-01-01&g=2022-01-01) in werking op 1 april 2021.
 
-4. In afwijking van het eerste lid treden [artikel XXXI, onderdelen B en F](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXI&z=2021-12-28&g=2021-12-28), [artikel XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIV&z=2021-12-28&g=2021-12-28) en [artikel XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVI&z=2021-12-28&g=2021-12-28) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij in [artikel 47, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) de letteraanduidingen en de aansluiting tussen de onderdelen kunnen worden aangepast.
+4. In afwijking van het eerste lid treden [artikel XXXI, onderdelen B en F](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXI&z=2022-01-01&g=2022-01-01), [artikel XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXIV&z=2022-01-01&g=2022-01-01) en [artikel XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXXVI&z=2022-01-01&g=2022-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij in [artikel 47, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) de letteraanduidingen en de aansluiting tussen de onderdelen kunnen worden aangepast.
 
-5. In afwijking van het eerste lid treedt [artikel XXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIX&z=2021-12-28&g=2021-12-28), met uitzondering van onderdeel G van dat artikel, in werking met ingang van 1 januari 2022.
+5. In afwijking van het eerste lid treedt [artikel XXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0044571&artikel=XXIX&z=2022-01-01&g=2022-01-01), met uitzondering van onderdeel G van dat artikel, in werking met ingang van 1 januari 2022.
 
 ##### Artikel XLIII
 
