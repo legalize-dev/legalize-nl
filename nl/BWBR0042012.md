@@ -4,7 +4,7 @@ identifier: "BWBR0042012"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042012"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- **basisgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01);
+- **basisgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - **basisregistratie personen:** de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
 
@@ -83,7 +83,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - **derde:** derde als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming;
 
-- **diplomagegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor het doel, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01);
+- **diplomagegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor het doel, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - **gegevensset:** basisgegevens, vrijstellingsgegevens, verzuimgegevens of diplomagegevens;
 
@@ -93,7 +93,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - b. van een niet door het Rijk bekostigde school of instelling als bedoeld in [artikel 56 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56) of [artikel 1.4.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1);
 
-- **identificerende gegevens:** gegevens als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01);
+- **identificerende gegevens:** gegevens als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01);
 
 - **inspectie:** de Inspectie van het onderwijs, bedoeld in [artikel 1 van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
@@ -109,7 +109,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - 1°. leerling, vavo-student, deelnemer, mbo-student, ho-student of extraneus van een school, instelling of rechtspersoon voor hoger onderwijs als bedoeld in onderdeel c van de begripsomschrijving van bestuur in dit artikel; of
 
-- 2°. degene die een staatsexamen als bedoeld in [artikel 60, eerste of tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) of een inburgeringsexamen als bedoeld in [artikel 7 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) heeft afgelegd;
+- 2°. degene die een staatsexamen als bedoeld in [artikel 60, eerste of tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) of een inburgeringsexamen als bedoeld in [artikel 7 van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=7) heeft afgelegd;
 
 - d. voor zover het betreft vrijstellingsgegevens: jongere als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5a) en [15 van de LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=15);
 
@@ -127,7 +127,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - **persoonsgebonden nummer:** burgerservicenummer als bedoeld in [artikel 1 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1) of, bij ontbreken daarvan, door Onze Minister uitgegeven onderwijsnummer;
 
-- **register onderwijsdeelnemers:** het register onderwijsdeelnemers, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2021-10-01&g=2021-10-01);
+- **register onderwijsdeelnemers:** het register onderwijsdeelnemers, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2022-01-01&g=2022-01-01);
 
 - **vervangende leerplicht:** vervangende leerplicht als bedoeld in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3a) of [3b van de LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3b);
 
@@ -137,11 +137,11 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - b. het zonder geldige reden niet meer volgen van het onderwijs, bedoeld in [artikel 47b van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=47b) of [artikel 28a van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=28a), of van het onderwijs of het voortgezet algemeen volwassenenonderwijs, bedoeld in [artikel 8.1.8a van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8a);
 
-- **verzuimgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01);
+- **verzuimgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - **vrijstelling:** vrijstelling als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5a) of [15 van de LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=15);
 
-- **vrijstellingsgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01);
+- **vrijstellingsgegevens:** gegevens over onderwijsdeelnemers die noodzakelijk zijn voor de doelen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - **waardedocument:** diploma, getuigschrift, cijferlijst of certificaat;
 
@@ -245,7 +245,7 @@ Bij ministeriële regeling worden regels gesteld over de autorisatie van degenen
 
 3. Basisgegevens kunnen tevens deel uitmaken van een andere gegevensset over de desbetreffende onderwijsdeelnemer.
 
-4. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2021-10-01&g=2021-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2021-10-01&g=2021-10-01) worden bij algemene maatregel van bestuur de gegevens, bedoeld in het eerste lid, onderdeel b, per gegevensset vastgesteld en kan bij ministeriële regeling nadere specificatie van de gegevens plaatsvinden.
+4. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2022-01-01&g=2022-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2022-01-01&g=2022-01-01) worden bij algemene maatregel van bestuur de gegevens, bedoeld in het eerste lid, onderdeel b, per gegevensset vastgesteld en kan bij ministeriële regeling nadere specificatie van de gegevens plaatsvinden.
 
 ##### Artikel 9. Identificerende gegevens
 
@@ -281,29 +281,29 @@ Bij ministeriële regeling worden regels gesteld over de autorisatie van degenen
 
 3. De identificerende gegevens worden verkregen uit de basisregistratie personen.
 
-4. Indien identificerende gegevens niet voorkomen in de basisregistratie personen, worden zij in het register onderwijsdeelnemers opgenomen voor zover zij deel uitmaken van de levering op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-10-01&g=2021-10-01).
+4. Indien identificerende gegevens niet voorkomen in de basisregistratie personen, worden zij in het register onderwijsdeelnemers opgenomen voor zover zij deel uitmaken van de levering op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 10. Basisgegevens, vrijstellingsgegevens, verzuimgegevens en diplomagegevens
 
-1. De basisgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01), in elk geval gegevens met betrekking tot:
+1. De basisgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01), in elk geval gegevens met betrekking tot:
 
 - a. de onderwijsinstelling waar de onderwijsdeelnemer is of was ingeschreven;
 
 - b. de datum van in- en uitschrijving bij de desbetreffende onderwijsinstelling.
 
-2. De vrijstellingsgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01), in elk geval gegevens met betrekking tot:
+2. De vrijstellingsgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01), in elk geval gegevens met betrekking tot:
 
 - a. het feit dat het een vrijstelling van de leerplicht dan wel een vervangende leerplicht betreft;
 
 - b. de begin- en einddatum van de vrijstelling of vervangende leerplicht.
 
-3. De verzuimgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01), in elk geval gegevens met betrekking tot:
+3. De verzuimgegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01), in elk geval gegevens met betrekking tot:
 
 - a. het soort verzuim;
 
 - b. de begin- en einddatum van het verzuim.
 
-4. De diplomagegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2021-10-01&g=2021-10-01), in elk geval gegevens met betrekking tot:
+4. De diplomagegevens omvatten, naast de identificerende gegevens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2022-01-01&g=2022-01-01), in elk geval gegevens met betrekking tot:
 
 - a. het soort waardedocument;
 
@@ -315,21 +315,21 @@ Bij ministeriële regeling worden regels gesteld over de autorisatie van degenen
 
 - a. de betrokkene;
 
-- b. Onze Minister ten behoeve van de bekostiging van onderwijsinstellingen of de begrotings- en beleidsvoorbereiding, onverminderd [artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2021-10-01&g=2021-10-01);
+- b. Onze Minister ten behoeve van de bekostiging van onderwijsinstellingen of de begrotings- en beleidsvoorbereiding, onverminderd [artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2022-01-01&g=2022-01-01);
 
-- c. de inspectie ten behoeve van het toezicht op het onderwijs, onverminderd [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2021-10-01&g=2021-10-01);
+- c. de inspectie ten behoeve van het toezicht op het onderwijs, onverminderd [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2022-01-01&g=2022-01-01);
 
 - d. het college van burgemeester en wethouders ten behoeve van de uitvoering van de taak, bedoeld in [artikel 5 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5);
 
-- e. het CBS ten behoeve van de gegevensverstrekking, bedoeld in [artikel 5, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01);
+- e. het CBS ten behoeve van de gegevensverstrekking, bedoeld in [artikel 5, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01);
 
-- f. het bestuur, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2021-10-01&g=2021-10-01).
+- f. het bestuur, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2022-01-01&g=2022-01-01).
 
 2. Persoonsgegevens waaruit religieuze of levensbeschouwelijke overtuigingen blijken, gegevens over gezondheid en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) kunnen deel uitmaken van de verzuimgegevens. Deze gegevens worden uitsluitend verstrekt aan:
 
 - a. de betrokkene;
 
-- b. Onze Minister ten behoeve van de beleidsvoorbereiding over verzuim, onverminderd [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2021-10-01&g=2021-10-01);
+- b. Onze Minister ten behoeve van de beleidsvoorbereiding over verzuim, onverminderd [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2022-01-01&g=2022-01-01);
 
 - c. het hoofd, het bestuur en het college van burgemeester en wethouders ten behoeve van de uitvoering van wettelijke taken inzake verzuim.
 
@@ -351,11 +351,11 @@ Bij ministeriële regeling worden regels gesteld over de autorisatie van degenen
 
 7. Bij algemene maatregel van bestuur wordt bepaald onder welke voorwaarden en in welke gevallen de levering, bedoeld in het tweede tot en met vijfde lid, gebeurt en wordt bepaald hoe de levering van verzuimgegevens en diplomagegevens is verdeeld tussen de leverende instanties, bedoeld in het derde en vierde lid.
 
-8. Bij ministeriële regeling kunnen regels worden gesteld over de termijnen voor de levering, de tijdstippen en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2021-10-01&g=2021-10-01), de wijze van de levering, bedoeld in het eerste tot en met vijfde lid.
+8. Bij ministeriële regeling kunnen regels worden gesteld over de termijnen voor de levering, de tijdstippen en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2022-01-01&g=2022-01-01), de wijze van de levering, bedoeld in het eerste tot en met vijfde lid.
 
 ##### Artikel 13. Opneming
 
-Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn geleverd op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-10-01&g=2021-10-01) op in het register onderwijsdeelnemers, met dien verstande dat hij de identificerende gegevens die zijn geleverd op grond van dat artikel slechts opneemt voor zover deze niet kunnen worden verkregen uit de basisregistratie personen.
+Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn geleverd op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2022-01-01&g=2022-01-01) op in het register onderwijsdeelnemers, met dien verstande dat hij de identificerende gegevens die zijn geleverd op grond van dat artikel slechts opneemt voor zover deze niet kunnen worden verkregen uit de basisregistratie personen.
 
 ##### Artikel 14. Opneming basisgegevens
 
@@ -391,7 +391,7 @@ Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn g
 
 - g. de toepassing van [artikel 51 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51) en [artikel 49 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=49).
 
-6. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste tot en met vijfde lid, waarbij in ieder geval de te verstrekken gegevens worden vastgesteld. Bij ministeriële regeling worden nadere regels gesteld over de inhoud en samenstelling van de gegevens en worden regels gesteld over de tijdstippen van de verstrekking en de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2021-10-01&g=2021-10-01), de wijze van de verstrekking.
+6. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste tot en met vijfde lid, waarbij in ieder geval de te verstrekken gegevens worden vastgesteld. Bij ministeriële regeling worden nadere regels gesteld over de inhoud en samenstelling van de gegevens en worden regels gesteld over de tijdstippen van de verstrekking en de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2022-01-01&g=2022-01-01), de wijze van de verstrekking.
 
 ##### Artikel 16. Verstrekking aan minister van vrijstellingsgegevens
 
@@ -439,7 +439,7 @@ Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn g
 
 2. Bij de verstrekking, bedoeld in het eerste lid, kunnen persoonsgegevens worden verwerkt, indien dat noodzakelijk is voor het in het eerste lid genoemde doel, onverminderd de verplichting voor de verwerkingsverantwoordelijke om passende technische en organisatorische maatregelen te treffen als bedoeld in artikel 25 van de Algemene verordening gegevensbescherming. Gegevens over de geslachtsnaam, de voornamen, het adres en de geboortedatum van onderwijsdeelnemers worden niet verstrekt.
 
-3. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste en tweede lid, waarbij in ieder geval de te verstrekken gegevens worden vastgesteld. Bij ministeriële regeling worden nadere regels gesteld over de inhoud en samenstelling van de gegevens en worden regels gesteld over de tijdstippen van de verstrekking en de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2021-10-01&g=2021-10-01), de wijze van de verstrekking.
+3. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste en tweede lid, waarbij in ieder geval de te verstrekken gegevens worden vastgesteld. Bij ministeriële regeling worden nadere regels gesteld over de inhoud en samenstelling van de gegevens en worden regels gesteld over de tijdstippen van de verstrekking en de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2022-01-01&g=2022-01-01), de wijze van de verstrekking.
 
 4. Desgevraagd worden de diplomagegevens met het persoonsgebonden nummer verstrekt aan de inspectie voor zover dit noodzakelijk is voor het toezicht op het onderwijs door de inspectie.
 
@@ -459,7 +459,7 @@ Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn g
 
 - c. het bestuur van de onderwijsinstelling, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), waar de betrokkene als onderwijsdeelnemer was ingeschreven, voor zover de gegevens betrekking hebben op de periode waarin hij is of was ingeschreven in een van de eerste drie leerjaren aan een onderwijsinstelling voor voortgezet onderwijs als bedoeld in de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) of voor voortgezet speciaal onderwijs als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549); of
 
-- d. het bestuur van onderwijsinstellingen, voor zover de gegevens noodzakelijk zijn voor de uitvoering van aanmeldings-, toelatings-, inschrijvings- en uitschrijvingsprocedures, bedoeld in [artikel 5, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-10-01&g=2021-10-01).
+- d. het bestuur van onderwijsinstellingen, voor zover de gegevens noodzakelijk zijn voor de uitvoering van aanmeldings-, toelatings-, inschrijvings- en uitschrijvingsprocedures, bedoeld in [artikel 5, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01).
 
 5. De verstrekking, bedoeld in het tweede lid, gebeurt uitsluitend aan het hoofd of het bestuur van de onderwijsinstelling waar de betrokken onderwijsdeelnemer is ingeschreven.
 
@@ -497,23 +497,23 @@ Onze Minister neemt het persoonsgebonden nummer en de andere gegevens die zijn g
 
 ##### Artikel 24. Verstrekking aan overige derden
 
-1. Onverminderd het bepaalde bij of krachtens andere wetten, worden het persoonsgebonden nummer en de gegevens, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-10-01&g=2021-10-01), verstrekt aan een bestuursorgaan dat niet is genoemd in de [artikelen 15 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2021-10-01&g=2021-10-01), voor zover dit noodzakelijk is voor de uitvoering van een wettelijke taak door dat bestuursorgaan.
+1. Onverminderd het bepaalde bij of krachtens andere wetten, worden het persoonsgebonden nummer en de gegevens, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), verstrekt aan een bestuursorgaan dat niet is genoemd in de [artikelen 15 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2022-01-01&g=2022-01-01), voor zover dit noodzakelijk is voor de uitvoering van een wettelijke taak door dat bestuursorgaan.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van het eerste lid, wordt bepaald welke bestuursorganen voor verstrekking in aanmerking komen en voor welke wettelijke taken als bedoeld in het eerste lid die verstrekking gebeurt, en worden de te verstrekken gegevens vastgesteld.
 
 ##### Artikel 25. Voorhangprocedure
 
-De voordracht voor een krachtens de [artikelen 15 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2021-10-01&g=2021-10-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens de [artikelen 15 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2022-01-01&g=2022-01-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 26. Nadere specificatie te verstrekken gegevens
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud en samenstelling van de op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2021-10-01&g=2021-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2021-10-01&g=2021-10-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2021-10-01&g=2021-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2021-10-01&g=2021-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=21&z=2021-10-01&g=2021-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=22&z=2021-10-01&g=2021-10-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=24&z=2021-10-01&g=2021-10-01) te verstrekken gegevens, de tijdstippen van de verstrekking, de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2021-10-01&g=2021-10-01), de wijze van de verstrekking.
+Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud en samenstelling van de op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2022-01-01&g=2022-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2022-01-01&g=2022-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2022-01-01&g=2022-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=21&z=2022-01-01&g=2022-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=22&z=2022-01-01&g=2022-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=24&z=2022-01-01&g=2022-01-01) te verstrekken gegevens, de tijdstippen van de verstrekking, de perioden waarop de gegevens betrekking hebben en, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=28&z=2022-01-01&g=2022-01-01), de wijze van de verstrekking.
 
 ##### Artikel 27. Vreemdelingenwet 2000
 
 1. Onze Minister verstrekt uit het register onderwijsdeelnemers niet het persoonsgebonden nummer van onderwijsdeelnemers ter uitvoering van [artikel 107, zevende lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), tenzij verstrekking noodzakelijk is voor de nakoming van een verplichting als referent als bedoeld in die wet of voor het toezicht op de naleving van de wettelijke voorschriften over een dergelijke referent.
 
-2. Onze Minister en de inspectie verstrekken ter uitvoering van [artikel 107, zevende lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107) geen gegevens die zij hebben ontvangen op grond van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2021-10-01&g=2021-10-01), tenzij deze gegevens noodzakelijk zijn voor de nakoming van een verplichting als referent als bedoeld in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of voor het toezicht op de naleving van de wettelijke voorschriften over een dergelijke referent.
+2. Onze Minister en de inspectie verstrekken ter uitvoering van [artikel 107, zevende lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107) geen gegevens die zij hebben ontvangen op grond van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2022-01-01&g=2022-01-01), tenzij deze gegevens noodzakelijk zijn voor de nakoming van een verplichting als referent als bedoeld in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of voor het toezicht op de naleving van de wettelijke voorschriften over een dergelijke referent.
 
 ##### Artikel 28. Elektronisch gegevensverkeer
 
@@ -565,7 +565,7 @@ Uit het register onderwijsdeelnemers wordt desgevraagd aan de betrokkene een ele
 
 1. De betrokkene kan Onze Minister elektronisch verzoeken de diplomagegevens over hem te verbeteren voor zover deze afwijken van de gegevens in het desbetreffende waardedocument.
 
-2. Onze Minister verzoekt de instantie die de diplomagegevens heeft geleverd, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-10-01&g=2021-10-01), om hem elektronisch de juiste gegevens te verstrekken.
+2. Onze Minister verzoekt de instantie die de diplomagegevens heeft geleverd, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2022-01-01&g=2022-01-01), om hem elektronisch de juiste gegevens te verstrekken.
 
 3. Voor zover die instantie constateert dat:
 
@@ -581,7 +581,7 @@ Uit het register onderwijsdeelnemers wordt desgevraagd aan de betrokkene een ele
 
 1. Onze Minister houdt gedurende twintig jaar na de verstrekking van diplomagegevens uit het register onderwijsdeelnemers aantekening van de verstrekking, tenzij de verstrekking in die periode op een andere manier is te herleiden uit het register onderwijsdeelnemers.
 
-2. Het eerste lid geldt niet voor de verstrekking op grond van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2021-10-01&g=2021-10-01), van deze wet of artikel 15 van de Algemene verordening gegevensbescherming.
+2. Het eerste lid geldt niet voor de verstrekking op grond van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2022-01-01&g=2022-01-01), van deze wet of artikel 15 van de Algemene verordening gegevensbescherming.
 
 3. Onze Minister deelt aan de betrokkene desgevraagd mee of diplomagegevens over hem gedurende ten hoogste twintig jaar voorafgaand aan het verzoek begrepen zijn geweest in een verstrekking waarop het eerste lid van toepassing is. Onze Minister kan volstaan met een in algemene termen gestelde mededeling over de verstrekkingen.
 
