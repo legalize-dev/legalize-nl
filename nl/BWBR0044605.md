@@ -4,7 +4,7 @@ identifier: "BWBR0044605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044605"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan [artikel 2.1, vijfde lid, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1).
+Deze regeling geeft uitvoering aan [artikel 2.1, zesde lid, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1).
 
 ##### Artikel 2. Voorwaarden inzake substance-eisen
 
-Voor de toepassing van [artikel 2.1, eerste lid, onderdeel c, en vijfde lid, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1) wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de voordeelgerechtigde, bedoeld in artikel 2.1, eerste lid, onderdeel c, van de Wet bronbelasting 2021, geacht niet gerechtigd te zijn tot de voordelen met als hoofddoel of een van de hoofddoelen om de heffing van belasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
+Voor de toepassing van [artikel 2.1, eerste lid, onderdeel c, en zesde lid, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1) wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de voordeelgerechtigde, bedoeld in artikel 2.1, eerste lid, onderdeel c, van de Wet bronbelasting 2021, geacht niet gerechtigd te zijn tot de voordelen met als hoofddoel of een van de hoofddoelen om de heffing van belasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
 
 - a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de voordeelgerechtigde woont of feitelijk is gevestigd in de staat waarin de voordeelgerechtigde is gevestigd;
 
@@ -74,7 +74,7 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling bronbelasting 2021.
 
 ## Bijlage. Behorende bij de Uitvoeringsregeling bronbelasting 2021
 
-De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044605&artikel=2&z=2021-01-01&g=2021-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044605&artikel=2&z=2022-01-01&g=2022-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -104,7 +104,7 @@ De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.n
 | Roemenië | 50% |
 | Slovenië | 80% |
 | Slowakije | 70% |
-| Spanje | 90% |
+| Spanje | 80% |
 | Tsjechië | 70% |
 | Zweden | 100% |
 | Zwitserland | 100% |
