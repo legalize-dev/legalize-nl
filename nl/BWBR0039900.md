@@ -4,7 +4,7 @@ identifier: "BWBR0039900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2021-03-04"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039900"
 soort: "ministeriele-regeling"
@@ -97,7 +97,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 1. Deze regeling is van toepassing op de militair die aanspraak heeft op salaris als bedoeld in [artikel 5 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5)
 
-2. Deze regeling is van toepassing op de militair die is tewerkgesteld bij een bondgenootschappelijk orgaan of bij bondgenootschappelijke strijdkrachten, met dien verstande dat [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04) uitsluitend van toepassing is voorzover krachtens de voor hem geldende regeling met betrekking tot werk- en rusttijden de maximale arbeidsduur als bedoeld in [artikel 54b, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54b) in de meetperiode wordt overschreden.
+2. Deze regeling is van toepassing op de militair die is tewerkgesteld bij een bondgenootschappelijk orgaan of bij bondgenootschappelijke strijdkrachten, met dien verstande dat [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01) uitsluitend van toepassing is voorzover krachtens de voor hem geldende regeling met betrekking tot werk- en rusttijden de maximale arbeidsduur als bedoeld in [artikel 54b, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54b) in de meetperiode wordt overschreden.
 
 ##### Artikel 3
 
@@ -113,7 +113,7 @@ worden, voor zover die samenvallen met het voor hem geldende rooster, op dezelfd
 
 ##### Artikel 4. Uitzonderingsbepalingen
 
-1. De militair komt niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2021-03-04&g=2021-03-04), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2021-03-04&g=2021-03-04), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2021-03-04&g=2021-03-04), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2021-03-04&g=2021-03-04) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&z=2021-03-04&g=2021-03-04) van deze regeling gedurende de tijd dat hij:
+1. De militair komt niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2025-02-07&g=2022-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2025-02-07&g=2022-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2025-02-07&g=2022-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2025-02-07&g=2022-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&z=2025-02-07&g=2022-01-01) van deze regeling gedurende de tijd dat hij:
 
 - a. beperkt wordt in zijn bewegingsvrijheid dan wel werkzaamheden verricht, uitsluitend ten gevolge van het ondergaan van een krijgstuchtelijke straf of van arrest;
 
@@ -125,15 +125,15 @@ worden, voor zover die samenvallen met het voor hem geldende rooster, op dezelfd
 
 - e. buiten de normale voor hem geldende werktijd, reizende is, met uitzondering van de militair wiens functie is aangewezen als een functie waarbij het reizen een wezenlijk bestanddeel uitmaakt van de functie, bedoeld in [artikel 54b, vijfde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54b);
 
-- f. aanwezig dient te zijn op een plaats als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04), uitsluitend ten gevolge van het feit, dat hij van rijkswege wordt gehuisvest en/of gevoed.
+- f. aanwezig dient te zijn op een plaats als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01), uitsluitend ten gevolge van het feit, dat hij van rijkswege wordt gehuisvest en/of gevoed.
 
-2. Niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2021-03-04&g=2021-03-04), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2021-03-04&g=2021-03-04), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2021-03-04&g=2021-03-04), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2021-03-04&g=2021-03-04) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&z=2021-03-04&g=2021-03-04) van deze regeling komt de militair die en gedurende de tijd dat hij aanspraak heeft op:
+2. Niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2025-02-07&g=2022-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2025-02-07&g=2022-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2025-02-07&g=2022-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2025-02-07&g=2022-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&z=2025-02-07&g=2022-01-01) van deze regeling komt de militair die en gedurende de tijd dat hij aanspraak heeft op:
 
 - a. de voorzieningen op grond van [hoofdstuk 3 van het Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3);
 
 - b. de voorzieningen op grond van de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789).
 
-3. Niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2021-03-04&g=2021-03-04), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2021-03-04&g=2021-03-04), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2021-03-04&g=2021-03-04) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2021-03-04&g=2021-03-04) van deze regeling komt de militair die en gedurende de tijd dat hij aanspraak heeft op de toelage militaire bijstand, bedoeld in artikel 8 van de Inkomstenregeling militairen.
+3. Niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2025-02-07&g=2022-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2025-02-07&g=2022-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2025-02-07&g=2022-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2025-02-07&g=2022-01-01) van deze regeling komt de militair die en gedurende de tijd dat hij aanspraak heeft op de toelage militaire bijstand, bedoeld in artikel 8 van de Inkomstenregeling militairen.
 
 ##### Artikel 4a. Vaste vergoeding extra beslaglegging
 
@@ -155,7 +155,7 @@ Vervallen.
 
 6. Ten behoeve van het vaststellen van de hoogte van de toelage, bedoeld in het eerste en tweede lid, wordt de volgende puntenwaardering van ongebruikelijke uren gehanteerd:
 
-- a. In geval de werkzaamheden worden verricht op een plaats als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04):
+- a. In geval de werkzaamheden worden verricht op een plaats als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01):
 
 - •. 20 punten voor ieder uur op maandag tot en met vrijdag tussen 18.00 en 24.00 uur;
 
@@ -163,7 +163,7 @@ Vervallen.
 
 - •. 50 punten voor ieder uur op zondag, alsmede voor ieder uur op een dag als bedoeld in [artikel 57a, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=57a).
 
-- b. In geval de werkzaamheden worden verricht op een plaats als bedoeld in [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04): 10 punten voor ieder ongebruikelijk uur.
+- b. In geval de werkzaamheden worden verricht op een plaats als bedoeld in [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01): 10 punten voor ieder ongebruikelijk uur.
 
 7. De toelage, bedoeld in het eerste en tweede lid, bedraagt bij een aantal punten per maand van:
 
@@ -197,11 +197,11 @@ Vervallen.
 
 8. Voor de toepassing van dit artikel wordt onder uur/uren verstaan; klokuur/klokuren.
 
-9. De militair die aanspraak heeft op een toelage onregelmatige dienst heeft geen aanspraak op een ZZF-vergoeding in geld als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&artikel=9&z=2021-03-04&g=2021-03-04), tenzij hij buiten het voor hem geldende rooster in opdracht van de commandant op een ZZF-dag een activiteit, genoemd in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&artikel=9&z=2021-03-04&g=2021-03-04), verricht.
+9. De militair die aanspraak heeft op een toelage onregelmatige dienst heeft geen aanspraak op een ZZF-vergoeding in geld als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&artikel=9&z=2025-02-07&g=2022-01-01), tenzij hij buiten het voor hem geldende rooster in opdracht van de commandant op een ZZF-dag een activiteit, genoemd in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&artikel=9&z=2025-02-07&g=2022-01-01), verricht.
 
 ##### Artikel 5a. Afbouwtoelage onregelmatige dienst
 
-1. Aan de militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang wordt met toepassing van het achtste lid een maandelijkse afbouwtoelage toegekend, indien de aanspraak op de toelage onregelmatige dienst, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), een verlaging ondergaat als gevolg van een in het achtste lid bedoelde beëindiging of vermindering en hij voor een duur van ten minste zesendertig maanden voorafgaande aan die beëindiging of vermindering onafgebroken een toelage onregelmatige dienst heeft genoten.
+1. Aan de militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang wordt met toepassing van het achtste lid een maandelijkse afbouwtoelage toegekend, indien de aanspraak op de toelage onregelmatige dienst, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), een verlaging ondergaat als gevolg van een in het achtste lid bedoelde beëindiging of vermindering en hij voor een duur van ten minste zesendertig maanden voorafgaande aan die beëindiging of vermindering onafgebroken een toelage onregelmatige dienst heeft genoten.
 
 2. Onderbreking van de aanspraak op toelage onregelmatige dienst tijdens de in het eerste lid genoemde duur van zesendertig maanden, wordt buiten beschouwing gelaten voor zover de onderbreking verband houdt met:
 
@@ -224,18 +224,18 @@ Vervallen.
 | A. | Bij beëindiging: | Bij beëindiging: |
 | --- | --- | --- |
 |   | van een toelage onregelmatige dienst overeenkomstig | bedraagt de afbouwtoelage het bedrag van de toelage onregelmatige dienst overeenkomstig |
-| 1. | [Art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) | [art. 5.7 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), gedurende twaalf maanden |
-| 2. | [Art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) | [art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), gedurende zes maanden en vervolgens, art. 5.7 onderdeel a, gedurende zes maanden |
-| 3. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) | [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), gedurende vijf maanden, vervolgens art. 5.7 onderdeel b, gedurende vier maanden, vervolgens art. 5.7 onderdeel a, gedurende drie maanden. |
+| 1. | [Art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) | [art. 5.7 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), gedurende twaalf maanden |
+| 2. | [Art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) | [art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), gedurende zes maanden en vervolgens, art. 5.7 onderdeel a, gedurende zes maanden |
+| 3. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) | [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), gedurende vijf maanden, vervolgens art. 5.7 onderdeel b, gedurende vier maanden, vervolgens art. 5.7 onderdeel a, gedurende drie maanden. |
 | B. | Bij vermindering: | Bij vermindering: |
 |   | van een toelage onregelmatige dienst overeenkomstig | bedraagt de afbouwtoelage naar een toelage onregelmatige dienst overeenkomstig |
-| 1. | [Art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04)/Art. 5.7 onderdeel a | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) en 5.7 onderdeel a, gedurende twaalf maanden. |
-| 2. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04)/ Art. 5.7 onderdeel b | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) en 5.7 onderdeel b, gedurende twaalf maanden. |
-| 3. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04)/ Art. 5.7 onderdeel a | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04) en 5.7 onderdeel a, gedurende zes maanden, vervolgens het verschil van de toelagen onregelmatige dienst overeenkomstig art. 5.7 onderdeel b en 5.7 onderdeel a, gedurende zes maanden. |
+| 1. | [Art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01)/Art. 5.7 onderdeel a | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) en 5.7 onderdeel a, gedurende twaalf maanden. |
+| 2. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01)/ Art. 5.7 onderdeel b | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) en 5.7 onderdeel b, gedurende twaalf maanden. |
+| 3. | [Art. 5.7 onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01)/ Art. 5.7 onderdeel a | het verschil van de toelagen onregelmatige dienst overeenkomstig [art. 5.7 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01) en 5.7 onderdeel a, gedurende zes maanden, vervolgens het verschil van de toelagen onregelmatige dienst overeenkomstig art. 5.7 onderdeel b en 5.7 onderdeel a, gedurende zes maanden. |
 
 ##### Artikel 5b. Verschuivingstoelage
 
-De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), komt in aanmerking voor een verschuivingstoelage van € 51,57 per verschoven dienst als gevolg van een roosterwijziging, indien:
+De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), komt in aanmerking voor een verschuivingstoelage van € 51,57 per verschoven dienst als gevolg van een roosterwijziging, indien:
 
 - a. de roosterwijziging plaatsvindt in opdracht van de commandant, en
 
@@ -243,7 +243,7 @@ De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld 
 
 ##### Artikel 5c. Toelage onregelmatige onregelmatigheid
 
-Aan de militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2021-03-04&g=2021-03-04), wordt een vergoeding toegekend van 25% van de vastgestelde toelage onregelmatige dienst.
+Aan de militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-02-07&g=2022-01-01), wordt een vergoeding toegekend van 25% van de vastgestelde toelage onregelmatige dienst.
 
 #### Paragraaf III. Vergoeding voor meerdaagse activiteiten
 
@@ -271,7 +271,7 @@ Aan de militair die aanspraak heeft op een toelage onregelmatige dienst als bedo
 
 6. De militair die verblijft aan boord van een schip, dat voor onderhoudswerkzaamheden van langere duur in een Nederlandse haven ligt, heeft geen aanspraak op een vergoeding ingevolge het tweede lid.
 
-7. De militair die aanspraak heeft op een vergoeding ingevolge dit artikel heeft geen aanspraak op een vergoeding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2021-03-04&g=2021-03-04), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04) van deze regeling.
+7. De militair die aanspraak heeft op een vergoeding ingevolge dit artikel heeft geen aanspraak op een vergoeding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2025-02-07&g=2022-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01) van deze regeling.
 
 8. Voor de toepassing van het tweede en het derde lid wordt een gedeelte van een etmaal berekend per half etmaal, waarbij een tijdvak van minder dan 12 uren telt voor een half etmaal.
 
@@ -309,7 +309,7 @@ zonder dat hij wordt beperkt in zijn bewegingsvrijheid naar plaats en tijd of wo
 
 6. De in het eerste lid genoemde vergoeding in vrije uren dient voor de militair binnen de meetperiode te worden verroosterd. Het door de militair meenemen van de niet verroosterde uren naar een volgende meetperiode is niet toegestaan. Vooruitlopend op het daadwerkelijk ontstaan van een aanspraak op de vergoeding in vrije uren kan de commandant toestaan dat deze uren voor afloop van de meetperiode worden verroosterd. Verroostering vindt niet plaats indien het dienstbelang dat niet toestaat.
 
-7. Indien na afloop van de meetperiode blijkt dat de in het eerste lid verleende vergoeding in vrije uren niet is verroosterd, dan wordt deze vervangen door een vergoeding in geld overeenkomstig [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04), van deze regeling.
+7. Indien na afloop van de meetperiode blijkt dat de in het eerste lid verleende vergoeding in vrije uren niet is verroosterd, dan wordt deze vervangen door een vergoeding in geld overeenkomstig [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01), van deze regeling.
 
 ##### Artikel 7a. Vergoeding voor beperking van bewegingsvrijheid
 
@@ -347,7 +347,7 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 6. Bij de vaststelling van de overschrijding van de maximale arbeidsduur als bedoeld in het eerste en vierde lid blijven buiten beschouwing:
 
-- a. meerdaagse activiteiten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&artikel=6&z=2021-03-04&g=2021-03-04);
+- a. meerdaagse activiteiten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&artikel=6&z=2025-02-07&g=2022-01-01);
 
 - b. functionele werkzaamheden die worden verricht buiten de in het rooster vastgestelde dagelijkse werktijden, zonder dat daarvoor door de commandant uitdrukkelijk opdracht is gegeven.
 
@@ -359,7 +359,7 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 1. De commandant kent aan de militair met de rang van kapitein-luitenant ter zee dan wel luitenant-kolonel een compensatie voor overwerk toe, indien de militair in opdracht van de commandant een of meerdere uren overwerk verricht.
 
-2. De compensatie voor overwerk bestaat uit roostervrije uren, gelijk aan het aantal uren overschrijding van het per dag vastgestelde aantal arbeidsuren. Voor het bepalen van de omvang van het overwerk worden [artikel 8, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04), overeenkomstig toegepast.
+2. De compensatie voor overwerk bestaat uit roostervrije uren, gelijk aan het aantal uren overschrijding van het per dag vastgestelde aantal arbeidsuren. Voor het bepalen van de omvang van het overwerk worden [artikel 8, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01), overeenkomstig toegepast.
 
 3. De commandant stelt de militair in de gelegenheid de compensatie op te nemen.
 
@@ -367,7 +367,7 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 ##### Artikel 9
 
-1. De militair die op een ZZF-dag meerdaagse activiteiten verricht, wordt, naast een vergoeding op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&artikel=6&z=2021-03-04&g=2021-03-04) van deze regeling, tevens een ZZF-vergoeding toegekend, bestaande uit per etmaal 8 uur vrije tijd.
+1. De militair die op een ZZF-dag meerdaagse activiteiten verricht, wordt, naast een vergoeding op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&artikel=6&z=2025-02-07&g=2022-01-01) van deze regeling, tevens een ZZF-vergoeding toegekend, bestaande uit per etmaal 8 uur vrije tijd.
 
 2. De militair heeft de keuze om binnen de meetperiode de in het eerste lid bedoelde ZZF-vergoeding op te nemen in uren als bedoeld in het derde lid, dan wel in geld vergoed te krijgen. De vergoeding in geld per uur bedraagt 1/165 deel van het voor de militair geldende maandsalaris, bedoeld in de [bijlage A van het inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A).
 
@@ -375,15 +375,15 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 4. De militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder, die op een ZZF-dag:
 
-- a. diensten verricht als bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2021-03-04&g=2021-03-04);
+- a. diensten verricht als bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2025-02-07&g=2022-01-01);
 
-- b. het verrichten van functionele werkzaamheden: 1° die worden verricht op een plaats als bedoeld in [artikel 7a, tweede lid; 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04) die worden verricht op een plaats als bedoeld in artikel 7a, derde lid, doch uitsluitend voorzover het betreft werkzaamheden die naar het oordeel van de commandant geen uitstel gedogen en niet op een plaats als bedoeld in artikel 7a, tweede lid, kunnen worden verricht;
+- b. het verrichten van functionele werkzaamheden: 1° die worden verricht op een plaats als bedoeld in [artikel 7a, tweede lid; 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01) die worden verricht op een plaats als bedoeld in artikel 7a, derde lid, doch uitsluitend voorzover het betreft werkzaamheden die naar het oordeel van de commandant geen uitstel gedogen en niet op een plaats als bedoeld in artikel 7a, tweede lid, kunnen worden verricht;
 
-- c. beschikbaarheid en bereikbaarheid is opgelegd als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04);
+- c. beschikbaarheid en bereikbaarheid is opgelegd als bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01);
 
 - d. militaire bijstand verleent op grond van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57) en [58 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58).
 
-wordt, naast een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2021-03-04&g=2021-03-04), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04) van deze regeling en [artikel 8 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=8), tevens per etmaal een ZZF-vergoeding in tijd ter hoogte van 8 uren toegekend. Indien deze vergoeding in tijd, naar het oordeel van de commandant, vanwege operationele noodzaak niet binnen de meetperiode kunnen worden opgenomen, wordt de vergoeding omgezet in een vergoeding in geld conform het vijfde lid.
+wordt, naast een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2025-02-07&g=2022-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01) van deze regeling en [artikel 8 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=8), tevens per etmaal een ZZF-vergoeding in tijd ter hoogte van 8 uren toegekend. Indien deze vergoeding in tijd, naar het oordeel van de commandant, vanwege operationele noodzaak niet binnen de meetperiode kunnen worden opgenomen, wordt de vergoeding omgezet in een vergoeding in geld conform het vijfde lid.
 
 5. De ZZF-vergoeding bedoeld in het vierde lid bedraagt:
 
@@ -394,7 +394,7 @@ wordt, naast een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/
 
 6. Voor de toepassing van het eerste en vierde lid telt een periode van 8 uren of langer voor een etmaal, en geeft een periode korter dan 8 uren geen aanspraak op een vergoeding in vrije tijd dan wel op een ZZF-vergoeding.
 
-7. De in het vierde lid bedoelde ZZF-vergoeding in tijd geldt ook voor militairen in de rang van kapitein-luitenant ter zee en luitenant-kolonel, met dien verstande dat er geen aanspraak bestaat op een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2021-03-04&g=2021-03-04), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2021-03-04&g=2021-03-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2021-03-04&g=2021-03-04) van deze regeling.
+7. De in het vierde lid bedoelde ZZF-vergoeding in tijd geldt ook voor militairen in de rang van kapitein-luitenant ter zee en luitenant-kolonel, met dien verstande dat er geen aanspraak bestaat op een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2025-02-07&g=2022-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-02-07&g=2022-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-02-07&g=2022-01-01) van deze regeling.
 
 ##### Artikel 10
 
