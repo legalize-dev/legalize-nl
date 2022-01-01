@@ -4,7 +4,7 @@ identifier: "BWBR0037315"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2018-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037315"
 soort: "AMvB"
@@ -88,7 +88,7 @@ In dit besluit en de daarop rustende bepalingen, wordt verstaan onder:
 
 ##### Artikel 4. Toerekening van kosten
 
-In de methode voor toerekening worden kosten als volgt toegerekend aan de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-01&g=2018-07-01):
+In de methode voor toerekening worden kosten als volgt toegerekend aan de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01):
 
 - a. kosten die in hun geheel rechtstreeks voortvloeien uit de exploitatie van de treindienst, worden volledig toegerekend aan de kostenbasis;
 
@@ -104,7 +104,7 @@ In de methode voor toerekening worden kosten als volgt toegerekend aan de kosten
 
 - b. de opinies van experts, indien de beheerder niet de beschikking heeft en in redelijkheid ook niet kan hebben over empirische gegevens,
 
-welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=4&z=2018-07-01&g=2018-07-01), worden toegerekend aan de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-01&g=2018-07-01).
+welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-01-01&g=2022-01-01), worden toegerekend aan de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01).
 
 2. De methode voor toerekening bevat een beschrijving van de wijze waarop kosten aan de kostenbasis worden toegerekend.
 
@@ -120,13 +120,13 @@ welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/
 
 ##### Artikel 7. Bepalen van de vergoeding
 
-1. De beheerder bepaalt de vergoedingen voor het minimumtoegangspakket door de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-01&g=2018-07-01), te delen door de corresponderende begrote gebruiksomvang van het minimumtoegangspakket.
+1. De beheerder bepaalt de vergoedingen voor het minimumtoegangspakket door de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), te delen door de corresponderende begrote gebruiksomvang van het minimumtoegangspakket.
 
 2. Indien de beheerder kan aantonen dat de waarden, bedoeld in artikel 5, tweede lid, van uitvoeringsverordening (EU) 2015/909 voor verschillende delen van de hoofdspoorweginfrastructuur sterk uiteenlopen, kan de beheerder de vergoeding voor het minimumtoegangspakket ook voor delen van de hoofdspoorweginfrastructuur apart bepalen door, na opdeling van de hoofdspoorweginfrastructuur, voor elk deel de kostenbasis te delen door de begrote gebruiksomvang van het minimumtoegangspakket van dat deel van de hoofdspoorweginfrastructuur.
 
-3. Voor zover toepassing is gegeven aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=6&z=2018-07-01&g=2018-07-01), bepaalt de beheerder de vergoedingen voor de onderscheiden diensten door de kostenbasis van deze diensten te delen door de begrote gebruiksomvang van de desbetreffende dienst.
+3. Voor zover toepassing is gegeven aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01), bepaalt de beheerder de vergoedingen voor de onderscheiden diensten door de kostenbasis van deze diensten te delen door de begrote gebruiksomvang van de desbetreffende dienst.
 
-4. Voor zover toepassing is gegeven aan [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=6&z=2018-07-01&g=2018-07-01), bepaalt de beheerder de vergoedingen voor de onderscheiden gebruiksklassen door de kostenbasis van deze gebruiksklassen te delen door de begrote gebruiksomvang van de desbetreffende gebruiksklasse.
+4. Voor zover toepassing is gegeven aan [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01), bepaalt de beheerder de vergoedingen voor de onderscheiden gebruiksklassen door de kostenbasis van deze gebruiksklassen te delen door de begrote gebruiksomvang van de desbetreffende gebruiksklasse.
 
 5. De beheerder kan in de methode voor toerekening een correctiemechanisme opnemen waarbij een correctie wordt toegepast voor zover er een verschil bestaat tussen de begrote gebruiksomvang voor toerekening en de gerealiseerde gebruiksomvang die is weergegeven in het jaarverslag of de jaarverslagen van de periode waar de begrote gebruiksomvang voor toerekening betrekking op heeft.
 
@@ -150,7 +150,7 @@ voor zover de vergoeding die in rekening is gebracht afwijkt van de vergoeding d
 
 ##### Artikel 10. Goedkeuring van de methode voor toerekening
 
-1. De Autoriteit Consument en Markt keurt de methode voor toerekening goed indien voldaan is aan de eisen gesteld op grond van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=2&z=2018-07-01&g=2018-07-01), de eisen gesteld in de uitvoeringshandelingen, bedoeld in artikel 31, derde lid, van [richtlijn 2012/34](32012L0034)/EU en de eisen gesteld krachtens [artikel 20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=4&artikel=20&z=2018-07-01&g=2018-07-01).
+1. De Autoriteit Consument en Markt keurt de methode voor toerekening goed indien voldaan is aan de eisen gesteld op grond van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), de eisen gesteld in de uitvoeringshandelingen, bedoeld in artikel 31, derde lid, van [richtlijn 2012/34](32012L0034)/EU en de eisen gesteld krachtens [artikel 20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=4&artikel=20&z=2022-01-01&g=2022-01-01).
 
 2. In afwijking van het eerste lid, kan de Autoriteit Consument en Markt goedkeuring verlenen na een vereenvoudigde toets als bedoeld in artikel 7 van uitvoeringsverordening (EU) 2015/909, indien de kosten voor het minimumtoegangspakket minder bedragen dan de in artikel 7 van die uitvoeringsverordening genoemde waarden.
 
@@ -196,7 +196,7 @@ Een exploitant van een dienstvoorziening verleent aan een spoorwegonderneming op
 
 2. Het verzoek wordt slechts afgewezen indien er een levensvatbaar alternatief is dat de spoorwegonderneming in staat stelt de betrokken goederen- of passagiersvervoerdienst op hetzelfde traject of op een alternatief traject onder economisch aanvaardbare voorwaarden te exploiteren.
 
-3. Onverminderd het tweede lid motiveert een exploitant als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=14&z=2018-07-01&g=2018-07-01), een afwijzing van een verzoek schriftelijk, waarbij tevens wordt aangegeven welke levensvatbare alternatieven er zijn in andere dienstvoorzieningen.
+3. Onverminderd het tweede lid motiveert een exploitant als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=14&z=2022-01-01&g=2022-01-01), een afwijzing van een verzoek schriftelijk, waarbij tevens wordt aangegeven welke levensvatbare alternatieven er zijn in andere dienstvoorzieningen.
 
 4. Onverminderd het tweede lid is een exploitant van een dienstvoorziening niet verplicht om te investeren in middelen of voorzieningen teneinde aan alle verzoeken van spoorwegondernemingen tegemoet te kunnen komen.
 
@@ -240,9 +240,9 @@ Een vergoeding bedraagt niet meer dan de kosten die nodig zijn om een dienst te 
 
 - a. het omschrijven van dienstvoorzieningen als bedoeld in bijlage II, punt 2, van [richtlijn 2012/34](32012L0034)/EU;
 
-- b. het vaststellen van voorwaarden en de wijze van jaarlijks kenbaar maken, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=18&z=2018-07-01&g=2018-07-01);
+- b. het vaststellen van voorwaarden en de wijze van jaarlijks kenbaar maken, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=18&z=2022-01-01&g=2022-01-01);
 
-- c. de wijze waarop kosten kunnen worden vastgesteld en toegerekend, benodigd om een dienst te verrichten, vermeerderd met een redelijke winst als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=3&artikel=19&z=2018-07-01&g=2018-07-01);
+- c. de wijze waarop kosten kunnen worden vastgesteld en toegerekend, benodigd om een dienst te verrichten, vermeerderd met een redelijke winst als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=3&artikel=19&z=2022-01-01&g=2022-01-01);
 
 - d. [artikel 68a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=68a).
 
@@ -256,17 +256,17 @@ Een vergoeding bedraagt niet meer dan de kosten die nodig zijn om een dienst te 
 
 3. In het belang van een goede uitvoering van dit besluit kunnen bij ministeriële regeling nadere regels worden gesteld met betrekking tot:
 
-- a. de schaarsteheffing, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11a&z=2018-07-01&g=2018-07-01);
+- a. de schaarsteheffing, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11a&z=2022-01-01&g=2022-01-01);
 
-- b. de bonus en malus voor luchtkwaliteit, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11b&z=2018-07-01&g=2018-07-01);
+- b. de bonus en malus voor luchtkwaliteit, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11b&z=2022-01-01&g=2022-01-01);
 
-- c. de bonus en malus voor geluidsreductie, bedoeld in [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11c&z=2018-07-01&g=2018-07-01);
+- c. de bonus en malus voor geluidsreductie, bedoeld in [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=3&artikel=11c&z=2022-01-01&g=2022-01-01);
 
-- d. de extra heffing, bedoeld in [artikel 11d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11d&z=2018-07-01&g=2018-07-01);
+- d. de extra heffing, bedoeld in [artikel 11d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11d&z=2022-01-01&g=2022-01-01);
 
-- e. de prestatieregeling, bedoeld in [artikel 11i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11i&z=2018-07-01&g=2018-07-01);
+- e. de prestatieregeling, bedoeld in [artikel 11i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11i&z=2022-01-01&g=2022-01-01);
 
-- f. de heffing, bedoeld in [artikel 11j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11j&z=2018-07-01&g=2018-07-01).
+- f. de heffing, bedoeld in [artikel 11j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11j&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk 5. Wijziging van andere algemene maatregelen van bestuur
 
@@ -286,7 +286,7 @@ Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
 
 ##### Artikel 23. Overgangsbepaling
 
-Tot de datum waarop de Autoriteit Consument en Markt voor het eerst goedkeuring heeft gegeven aan de methode voor toerekening, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=2&artikel=10&z=2018-07-01&g=2018-07-01), hanteert de beheerder voor het berekenen van de vergoeding voor het minimumtoegangspakket de methode van toerekening die wordt toegepast voor het dienstregelingsjaar 2016 en die is opgenomen in de netverklaring voor het dienstregelingsjaar 2016, alsmede in de daarop volgende jaren.
+Tot de datum waarop de Autoriteit Consument en Markt voor het eerst goedkeuring heeft gegeven aan de methode voor toerekening, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01), hanteert de beheerder voor het berekenen van de vergoeding voor het minimumtoegangspakket de methode van toerekening die wordt toegepast voor het dienstregelingsjaar 2016 en die is opgenomen in de netverklaring voor het dienstregelingsjaar 2016, alsmede in de daarop volgende jaren.
 
 ##### Artikel 24. Omhangbepaling
 
@@ -316,9 +316,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11c. Bonus en malus voor geluidsreductie
 
-1. De beheerder stelt een bonus en een malus in als bedoeld in de artikelen 5 en 7 van uitvoeringsverordening (EU) 2015/429.
-
-2. De bonus, bedoeld in het eerste lid, wordt berekend op basis van het aantal assen van een treinwagon en het aantal kilometers dat deze in een door de beheerder in de netverklaring vastgestelde periode heeft afgelegd.
+Vervallen
 
 ### Hoofdstuk 2a. Aanvullende heffingen
 
@@ -326,19 +324,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De beheerder legt aan een spoorwegonderneming een extra heffing op als bedoeld in [artikel 62, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) voor het gebruik van de hoofdspoorweginfrastructuur ter aanvullende dekking van de door de beheerder gemaakte kosten als bedoeld in artikel 32, eerste lid, van [richtlijn 2012/34](32012L0034)/EU.
 
-2. De door de beheerder gemaakte kosten voor het beheer van de hoofdspoorweginfrastructuur die door de extra heffing bij spoorvervoerders in rekening worden gebracht, bedragen ten hoogste de som van de totale begrote kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-01&g=2018-07-01), verminderd met:
+2. De door de beheerder gemaakte kosten voor het beheer van de hoofdspoorweginfrastructuur die door de extra heffing bij spoorvervoerders in rekening worden gebracht, bedragen ten hoogste de som van de totale begrote kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), verminderd met:
 
-- a. de totale begrote kosten die worden toegerekend aan de diensten voor het minimumtoegangspakket overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=7&z=2018-07-01&g=2018-07-01);
+- a. de totale begrote kosten die worden toegerekend aan de diensten voor het minimumtoegangspakket overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-01-01&g=2022-01-01);
 
-- b. de totale opbrengsten van de beheerder in verband met het verlenen van toegang tot dienstvoorzieningen en diensten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=13&z=2018-07-01&g=2018-07-01), en
+- b. de totale opbrengsten van de beheerder in verband met het verlenen van toegang tot dienstvoorzieningen en diensten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=3&paragraaf=2&artikel=13&z=2022-01-01&g=2022-01-01), en
 
 - c. de overige inkomsten met betrekking tot het beheer van de hoofdspoorweginfrastructuur.
 
-3. Onverminderd het tweede lid bedraagt de heffing niet meer dan de kosten die het betreffende marktsegment kan dragen als bepaald bij de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2018-07-01&g=2018-07-01).
+3. Onverminderd het tweede lid bedraagt de heffing niet meer dan de kosten die het betreffende marktsegment kan dragen als bepaald bij de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 11e. Totale hoogte extra heffing
 
-Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf jaar welk deel van het restant van de som, bedoeld in [artikel 11d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11d&z=2018-07-01&g=2018-07-01), jaarlijks wordt toegerekend aan de extra heffing.
+Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf jaar welk deel van het restant van de som, bedoeld in [artikel 11d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11d&z=2022-01-01&g=2022-01-01), jaarlijks wordt toegerekend aan de extra heffing.
 
 ##### Artikel 11f. Hoogte extra heffing per marktsegment en tarief extra heffing
 
@@ -350,7 +348,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 - c. overige passagiersvervoersdiensten.
 
-2. De beheerder stelt de marktsegmenten vast en op basis van het door Onze Minister bepaalde deel van het restant van de som dat jaarlijks aan de extra heffing toegerekend wordt, bedoeld in [artikel 11e](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11e&z=2018-07-01&g=2018-07-01), de hoogte van de extra heffing die het betreffende marktsegment kan dragen.
+2. De beheerder stelt de marktsegmenten vast en op basis van het door Onze Minister bepaalde deel van het restant van de som dat jaarlijks aan de extra heffing toegerekend wordt, bedoeld in [artikel 11e](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11e&z=2022-01-01&g=2022-01-01), de hoogte van de extra heffing die het betreffende marktsegment kan dragen.
 
 3. De beheerder kan de marktsegmenten, genoemd in het eerste lid, nader onderverdelen overeenkomstig artikel 32, eerste lid, en bijlage VI van [richtlijn 2012/34](32012L0034)/EU.
 
@@ -360,11 +358,11 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 ##### Artikel 11g. Goedkeuring evaluatie relevantie extra heffingen
 
-1. De lijst van marktsegmenten, de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2018-07-01&g=2018-07-01), en de methode van toerekening, bedoeld in artikel 11f, vijfde lid, behoeven de goedkeuring van de Autoriteit Consument en Markt. Op de voorbereiding van een goedkeuringsbesluit is [afdeling 3:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+1. De lijst van marktsegmenten, de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01), en de methode van toerekening, bedoeld in artikel 11f, vijfde lid, behoeven de goedkeuring van de Autoriteit Consument en Markt. Op de voorbereiding van een goedkeuringsbesluit is [afdeling 3:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 2. Alvorens de beheerder het tarief voor de extra heffing per marktsegment bekend maakt in de netverklaring, zendt deze een aanvraag ter goedkeuring aan de Autoriteit Consument en Markt. De aanvraag gaat vergezeld van een lijst van marktsegmenten, de evaluatie, de methode van toerekening en de documenten die daarop betrekking hebben.
 
-3. De Autoriteit Consument en Markt keurt de lijst van marktsegmenten, de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2018-07-01&g=2018-07-01), en de methode van toerekening, bedoeld in artikel 11f, vijfde lid, goed, indien is voldaan aan de vereisten, gesteld in de artikelen 29, tweede en derde lid, 32, eerste lid, en bijlage VI, punt 1, van [richtlijn 2012/34](32012L0034)/EU.
+3. De Autoriteit Consument en Markt keurt de lijst van marktsegmenten, de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01), en de methode van toerekening, bedoeld in artikel 11f, vijfde lid, goed, indien is voldaan aan de vereisten, gesteld in de artikelen 29, tweede en derde lid, 32, eerste lid, en bijlage VI, punt 1, van [richtlijn 2012/34](32012L0034)/EU.
 
 4. De Autoriteit Consument en Markt kan voorwaarden verbinden aan de goedkeuring.
 
@@ -376,7 +374,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 ##### Artikel 11h. Correcties vanwege wijziging marktsegmenten of hoogte extra heffing
 
-1. De beheerder brengt ten aanzien van de vastgestelde marktsegmenten, of ten aanzien van de hoogte van de extra heffing die het betreffende marktsegment kan dragen, bedoeld in [artikel 11f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2018-07-01&g=2018-07-01), of ten aanzien van de methode van toerekening, bedoeld in artikel 11f, vijfde lid, correcties aan indien de verdeling of het relatieve deel in enig dienstregelingsjaar is gewijzigd op basis van een:
+1. De beheerder brengt ten aanzien van de vastgestelde marktsegmenten, of ten aanzien van de hoogte van de extra heffing die het betreffende marktsegment kan dragen, bedoeld in [artikel 11f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01), of ten aanzien van de methode van toerekening, bedoeld in artikel 11f, vijfde lid, correcties aan indien de verdeling of het relatieve deel in enig dienstregelingsjaar is gewijzigd op basis van een:
 
 - a. rechterlijke uitspraak, of
 
