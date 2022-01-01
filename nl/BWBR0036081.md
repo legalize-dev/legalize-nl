@@ -4,7 +4,7 @@ identifier: "BWBR0036081"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2015-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036081"
 soort: "AMvB"
@@ -52,11 +52,9 @@ In dit besluit wordt verstaan onder:
 
 - **inkomen:** hetgeen onder loon wordt verstaan op grond van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer, bedoeld in [artikel 1, onderdeel o, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), met dien verstande dat niet tot het inkomen worden gerekend:
 
-- 1°. uitkeringen op grond van een werknemersverzekering of wachtgeld als bedoeld in [artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+- 1°. uitkeringen op grond van een werknemersverzekering of wachtgeld als bedoeld in [artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat; en
 
-- 2°. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat; en
-
-- 3°. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in [artikel 39d, tweede lid of derde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d), zonder dat er sprake is van onbetaald extra verlof;
+- 2°. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
 
 - **passende arbeid:** passende arbeid zoals bedoeld in de [artikelen 24, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [30, vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30);
 
@@ -86,7 +84,7 @@ Dit besluit is van toepassing op de werknemer die op grond van de [Ziektewet](ht
 
 1. In de periode voordat zes maanden waarin een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) bestaat, zijn verstreken, is arbeid passend wanneer:
 
-- a. de arbeid aansluit bij het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036081&artikel=3&z=2015-07-01&g=2015-07-01);
+- a. de arbeid aansluit bij het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036081&artikel=3&z=2022-01-01&g=2022-01-01);
 
 - b. met de arbeid een bedrag verdiend wordt ten minste ter hoogte van 70% van het inkomen, genoten in de dienstbetrekking waaruit de werknemer werkloos of ziek is geworden; en
 
@@ -100,7 +98,7 @@ Dit besluit is van toepassing op de werknemer die op grond van de [Ziektewet](ht
 
 ##### Artikel 5. Uitzonderingen
 
-Indien er sprake is van een bestaand recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036081&artikel=4&z=2015-07-01&g=2015-07-01) van toepassing met dien verstande dat bij opvolgende of meerdere rechten geen nieuwe termijn van zes maanden start.
+Indien er sprake is van een bestaand recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036081&artikel=4&z=2022-01-01&g=2022-01-01) van toepassing met dien verstande dat bij opvolgende of meerdere rechten geen nieuwe termijn van zes maanden start.
 
 ##### Artikel 6. Intrekken Besluit passende arbeid schoolverlaters en academici WW en ZW
 
