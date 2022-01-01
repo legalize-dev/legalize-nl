@@ -4,7 +4,7 @@ identifier: "BWBR0041844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041844"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als aanvraagformulieren voor exploitatie van een kinderdagverblijf of buitenschoolse opvang, voor exploitatie van een gastouderbureau en voor exploitatie van een gastouderopvang, worden vastgesteld de bij deze regeling gevoegde [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&bijlage=1&z=2021-07-01&g=2021-07-01).
+Als aanvraagformulieren voor exploitatie van een kinderdagverblijf of buitenschoolse opvang, voor exploitatie van een gastouderbureau en voor exploitatie van een gastouderopvang, worden vastgesteld de bij deze regeling gevoegde [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&bijlage=1&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2
 
-Als formulieren voor het doorgeven van wijzigingen aan de gemeente door een houder van een geregistreerd kinderdagverblijf of buitenschoolse opvang, voor het doorgeven van wijzigingen aan de gemeente door een houder van een geregistreerd gastouderbureau en voor het doorgeven van wijzigingen aan de gemeente door een houder van het geregistreerde gastouderbureau waarbij de voorziening van gastouderopvang is ingeschreven, worden vastgesteld de bij deze regeling gevoegde [bijlagen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&bijlage=4&z=2021-07-01&g=2021-07-01).
+Als formulieren voor het doorgeven van wijzigingen aan de gemeente door een houder van een geregistreerd kinderdagverblijf of buitenschoolse opvang, voor het doorgeven van wijzigingen aan de gemeente door een houder van een geregistreerd gastouderbureau en voor het doorgeven van wijzigingen aan de gemeente door een houder van het geregistreerde gastouderbureau waarbij de voorziening van gastouderopvang is ingeschreven, worden vastgesteld de bij deze regeling gevoegde [bijlagen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&bijlage=4&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3
 
@@ -56,15 +56,21 @@ De [regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20
 
 Deze regeling treedt in werking met ingang van 1 februari 2019.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+
+Aanvraag exploitatie kinderdagverblijf of buitenschoolse opvang
 
 ### Aanvraag Exploitatie kinderdagverblijf of buitenschoolse opvang
 
-## Bijlage 3. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2021-07-01&g=2021-07-01) van de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019
+## Bijlage 3. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+
+Aanvraag exploitatie gastouderopvang
 
 ### Aanvraag Exploitatie gastouderopvang
 
-## Bijlage 4. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+## Bijlage 5. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+
+Wijziging gastouderbureau
 
 ### Aanvraag Exploitatie gastouderopvang
 
@@ -82,8 +88,18 @@ Deze regeling treedt in werking met ingang van 1 februari 2019.
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
 
-## Bijlage 5. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+Aanvraag exploitatie gastouderbureau
+
+## Bijlage 6. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+
+Wijziging gastouderopvang
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+## Bijlage 4. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
+
+Wijziging kinderdagverblijf of buitenschoolse opvang
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
