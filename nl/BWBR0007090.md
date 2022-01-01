@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-05"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -354,31 +354,7 @@ De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraa
 
 ##### Artikel 8a
 
-1. De gegevens, bedoeld in [artikel 58z, vierde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58z) zijn:
-
-- a. het voertuigidentificatienummer;
-
-- b. het merk;
-
-- c. het type;
-
-- d. de handelsbenaming;
-
-- e. de voertuigcategorie;
-
-- f. het bouwjaar;
-
-- g. de maximumconstructiesnelheid;
-
-- h. de brandstof(fen);
-
-- i. de vermelding of het voertuig is voorzien van een kenteken met de lettergroep GV.
-
-2. Het type, bedoeld in het eerste lid, onderdeel c, wordt alleen geregistreerd als het beschikbaar is.
-
-3. Indien het voertuig een motorrijtuig met beperkte snelheid is, wordt in aanvulling op het eerste lid tevens de voertuigomschrijving geregistreerd.
-
-4. Dit artikel vervalt met ingang van 1 januari 2022.
+Vervallen
 
 ## Bijlage
 
