@@ -4,7 +4,7 @@ identifier: "BWBR0045640"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045640"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling worden verstaan onder:
 
 ##### Artikel 2. (Algemene bepalingen)
 
-1. De producent of importeur maakt bij het indienen van het verslag over de uitvoering van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=5a) en [6 van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6) gebruik van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=1&z=2021-10-01&g=2021-10-01) opgenomen tabellen en vult deze in met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=3&z=2021-10-01&g=2021-10-01).
+1. De producent of importeur maakt bij het indienen van het verslag over de uitvoering van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=5a), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6) en [6a van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6a) gebruik van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=1&z=2022-01-01&g=2022-01-01) opgenomen tabellen en vult deze in met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=3&z=2022-01-01&g=2022-01-01).
 
 2. Het verslag gaat vergezeld van:
 
-- a. een monitoringsprotocol waaruit blijkt hoe de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=1&z=2021-10-01&g=2021-10-01) ingevulde gegevens tot stand zijn gekomen met in achtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=3&z=2021-10-01&g=2021-10-01) en hoe de juistheid van deze gegevens is geverifieerd; en
+- a. een monitoringsprotocol waaruit blijkt hoe de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=1&z=2022-01-01&g=2022-01-01) ingevulde gegevens tot stand zijn gekomen met in achtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=3&z=2022-01-01&g=2022-01-01) en hoe de juistheid van deze gegevens is geverifieerd; en
 
 - b. een onafhankelijk accountantsrapport waaruit blijkt dat het monitoringsprotocol is gevolgd.
 
@@ -94,13 +94,13 @@ In deze regeling worden verstaan onder:
 
 - a. is de hoeveelheid verpakkingsafval gelijk aan het totaal van de in het desbetreffende kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen, verminderd met de hoeveelheid verpakkingen die zijn hergebruikt;
 
-- b. is de hoeveelheid gerecycled verpakkingsafval de hoeveelheid verpakkingsafval bij het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2021-10-01&g=2021-10-01) opgenomen rekenpunt;
+- b. is de hoeveelheid gerecycled verpakkingsafval de hoeveelheid verpakkingsafval bij het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2022-01-01&g=2022-01-01) opgenomen rekenpunt;
 
-- c. kan in afwijking van onderdeel b de hoeveelheid gerecycled verpakkingsafval op het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2021-10-01&g=2021-10-01) opgenomen meetpunt worden bepaald, mits er wordt gecorrigeerd voor verliezen van de hoeveelheid verpakkingsafval die optreden tussen het meetpunt en het rekenpunt;
+- c. kan in afwijking van onderdeel b de hoeveelheid gerecycled verpakkingsafval op het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2022-01-01&g=2022-01-01) opgenomen meetpunt worden bepaald, mits er wordt gecorrigeerd voor verliezen van de hoeveelheid verpakkingsafval die optreden tussen het meetpunt en het rekenpunt;
 
 - d. kunnen, indien gegevens over de verliezen, als bedoeld in het eerste lid, onderdeel c, redelijkerwijs niet verkrijgbaar zijn, geaggregeerde gegevens over verliezen van een vergelijkbaar type recyclingactiviteit worden gebruikt;
 
-- e. wordt ten aanzien van verpakkingsafval dat wordt onderworpen aan chemische recycling die resulteert in output met een aandeel aan gerecyclede materialen of brandstoffen, de hoeveelheid gerecycled verpakkingsafval bij het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2021-10-01&g=2021-10-01) opgenomen rekenpunt bepaald door een massabalansmethode;
+- e. wordt ten aanzien van verpakkingsafval dat wordt onderworpen aan chemische recycling die resulteert in output met een aandeel aan gerecyclede materialen of brandstoffen, de hoeveelheid gerecycled verpakkingsafval bij het desbetreffende in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=2&z=2022-01-01&g=2022-01-01) opgenomen rekenpunt bepaald door een massabalansmethode;
 
 - f. wordt verpakkingsafval dat buiten de Europese Unie wordt gerecycled, alleen als gerecycled verpakkingsafval meegeteld indien de recycling heeft plaatsgevonden onder omstandigheden die in grote lijnen gelijkwaardig zijn aan die welke in de toepasselijke milieuwetgeving van de Europese Unie zijn voorgeschreven;
 
@@ -126,7 +126,7 @@ In deze regeling worden verstaan onder:
 
 - d. de wijze waarop de hoeveelheid verpakkingsafval op het meetpunt dan wel het rekenpunt is gecorrigeerd met de natuurlijke vochtigheidsgraad van de gebruikte verpakkingen; en
 
-- e. de wijze waarop is vastgesteld dat de recycling van verpakkingsafval buiten de Europese Unie heeft plaatsgevonden conform de voorwaarde bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=1&z=2021-10-01&g=2021-10-01).
+- e. de wijze waarop is vastgesteld dat de recycling van verpakkingsafval buiten de Europese Unie heeft plaatsgevonden conform de voorwaarde bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=1&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6
 
@@ -138,13 +138,13 @@ De [Regeling formulier verslaglegging verpakkingen](https://wetten.overheid.nl/j
 
 ##### Artikel 8
 
-Deze regeling treedt in werking met ingang van 1 oktober 2021 met uitzondering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2021-10-01&g=2021-10-01), dat in werking treedt met ingang van 1 januari 2022 en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2021-10-01&g=2021-10-01), dat in werking treedt met ingang van 1 januari 2024.
+Deze regeling treedt in werking met ingang van 1 oktober 2021 met uitzondering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2022-01-01&g=2022-01-01), dat in werking treedt met ingang van 1 januari 2022 en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2022-01-01&g=2022-01-01), dat in werking treedt met ingang van 1 januari 2024.
 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling verslaglegging verpakkingen.
 
-## Bijlage 1. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=2&z=2021-10-01&g=2021-10-01), van de Regeling verslaglegging verpakkingen
+## Bijlage 1. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=2&z=2022-01-01&g=2022-01-01), van de Regeling verslaglegging verpakkingen
 
 ### Tabel 1. Gegevens bedrijf of producentenorganisatie
 
@@ -162,7 +162,7 @@ De met een *) aangeduide rij behoeft niet te worden ingevuld, tenzij op grond va
 
 ### Tabel 2.3. Gegevens over de uitvoering van [artikel 6b Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6b)
 
-## Bijlage 2. als bedoeld in [artikel 5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=5&z=2021-10-01&g=2021-10-01), van de Regeling verslaglegging verpakkingen
+## Bijlage 2. als bedoeld in [artikel 5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=5&z=2022-01-01&g=2022-01-01), van de Regeling verslaglegging verpakkingen
 
 | Materiaal | Meetpunt | Rekenpunt |
 | --- | --- | --- |
