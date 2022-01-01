@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -42,7 +42,7 @@ Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene w
 
 - a. is voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt;
 
-- b. bedraagt voor de vennootschapsbelasting en de bronbelasting 4.
+- b. is voor de vennootschapsbelasting en de bronbelasting gelijk aan het percentage van de ingevolge [artikel 120, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in de [artikelen 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119a) en [119b van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119b), met dien verstande dat een wijziging van de wettelijke rente eerst twee maanden na die wijziging leidt tot een aanpassing van de belastingrente en het eerstgenoemde percentage ten minste 8 bedraagt.
 
 ##### Artikel 2
 
@@ -56,7 +56,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2021-01-01&g=2021-01-01) terugwerkt tot en met 1 juni 2020.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2022-01-01&g=2022-01-01) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
