@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2021-07-15"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - **directeur:** de directeur van de directie Analyse, Programmering en Strategie;
 
-- **directie:** de directie Analyse, Programmering en Strategie van de inspectie;
+- **directie:** de directie Analyse, Programmering en Strategie van de Nederlandse Arbeidsinspectie;
 
-- **uitvoerende directies:** de directies Toezicht, Mensen & Middelen en Opsporing van de inspectie.
+- **uitvoerende directies:** de directies Toezicht, Mensen & Middelen en Opsporing van de Nederlandse Arbeidsinspectie.
 
 #### § 2. Organisatie
 
@@ -88,13 +88,13 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - a. het leiding geven aan de eigen afdeling, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen afdeling;
 
-- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling aan de uitvoering van het jaarplan van de inspectie;
+- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van Nederlandse Arbeidsinspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
-- e. het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen;
+- e. het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen;
 
 - f. het managen van vakinhoudelijke processen en het actief zoeken van samenwerking en afstemming met overige betrokkenen;
 
@@ -108,39 +108,39 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 De afdeling Programmering, Signalering en Onderzoek is verantwoordelijk voor de volgende taken:
 
-- a. het verrichten van de inspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de inspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
+- a. het verrichten van de Nederlandse Arbeidsinspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de Nederlandse Arbeidsinspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
 
-- b. het analyseren van de gemeten effecten betreffende de inspectie en haar activiteiten;
+- b. het analyseren van de gemeten effecten betreffende de Nederlandse Arbeidsinspectie en haar activiteiten;
 
-- c. het verrichten van thematisch onderzoek naar inspectiebrede onderwerpen, fenomenen en signalen;
+- c. het verrichten van thematisch onderzoek naar Nederlandse Arbeidsinspectiebrede onderwerpen, fenomenen en signalen;
 
 - d. het verrichten van monitoronderzoek en nalevingsonderzoek;
 
-- e. het in samenwerking met de overige directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de inspectie, waaronder het meerjarenplan, de programmering en de landelijke strategieën op het gebied van de overige directies;
+- e. het in samenwerking met de overige directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de Nederlandse Arbeidsinspectie, waaronder het meerjarenplan, de programmering en de landelijke strategieën op het gebied van de overige directies;
 
-- f. het in samenwerking met de overige directies initiëren en ontwikkelen van de strategische noties en uitgangspunten in het toezicht- en handhavingsbeleid van de inspectie, die de kaders vormen voor het uitvoeren van de werkzaamheden van de inspectie;
+- f. het in samenwerking met de overige directies initiëren en ontwikkelen van de strategische noties en uitgangspunten in het toezicht- en handhavingsbeleid van de Nederlandse Arbeidsinspectie, die de kaders vormen voor het uitvoeren van de werkzaamheden van de Nederlandse Arbeidsinspectie;
 
 - g. het op grond van al dan niet door overige directies aangeleverde toezichtbevindingen geven van beleidsmatige signalen aan de bewindspersonen, de overige onderdelen van het ministerie en externe instanties;
 
-- h. het faciliteren van het signaleringsproces binnen de gehele inspectie;
+- h. het faciliteren van het signaleringsproces binnen de gehele Nederlandse Arbeidsinspectie;
 
-- i. het leveren van inhoudelijke bijdragen voor het jaarverslag en het jaarplan van de inspectie aan de directie Mensen & Middelen;
+- i. het leveren van inhoudelijke bijdragen voor het jaarverslag en het jaarplan van de Nederlandse Arbeidsinspectie aan de directie Mensen & Middelen;
 
 - j. het in samenwerking met de overige directies bijdragen aan de Integrale Rapportage Handhaving van het ministerie over de realisatie van de afspraken uit het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11);
 
-- k. het op aanvraag van het IG-team verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de inspectie.
+- k. het op aanvraag van het IG-team verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de Nederlandse Arbeidsinspectie.
 
 ##### Artikel 5. Verantwoordelijkheden afdeling Beleidsondersteuning
 
 De afdeling Beleidsondersteuning is verantwoordelijk voor de volgende taken:
 
-- a. het coördineren van de beleidsontwikkeling en -uitvoering van de inspectie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
+- a. het coördineren van de beleidsontwikkeling en -uitvoering van de Nederlandse Arbeidsinspectie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
 
-- b. het faciliteren van het signaleringsproces binnen de gehele inspectie;
+- b. het faciliteren van het signaleringsproces binnen de gehele Nederlandse Arbeidsinspectie;
 
 - c. het verzorgen van de inhoudelijke ondersteuning met betrekking tot voorbereiding van overleg met interne en externe stakeholders ten behoeve van de inspecteur-generaal en de directeuren indien zij de inspecteur-generaal vervangen, het beantwoorden van vragen van het parlement, het voeren van het secretariaat van het besluitvormend overleg van het IG-team en het verzorgen van de inhoudelijke ondersteuning ten behoeve van de bewindspersonen;
 
-- d. het in samenwerking met de overige directies fungeren als verbinding tussen de inspectie en de overige onderdelen van het ministerie, andere inspectiediensten, uitvoeringsorganisaties, gemeenten en andere voor de inspectie relevante organisaties, tenzij een andere afdeling van de inspectie op een specifiek terrein fungeert als verbinding als bedoeld in de eerste volzin;
+- d. het in samenwerking met de overige directies fungeren als verbinding tussen de Nederlandse Arbeidsinspectie en de overige onderdelen van het ministerie, andere inspectiediensten, uitvoeringsorganisaties, gemeenten en andere voor de Nederlandse Arbeidsinspectie relevante organisaties, tenzij een andere afdeling van de Nederlandse Arbeidsinspectie op een specifiek terrein fungeert als verbinding als bedoeld in de eerste volzin;
 
 - e. het in samenwerking met de desbetreffende overige directies coördineren en uitvoeren van uitvoerbaarheids-, handhaafbaarheids- en toezichtbaarheidstoetsen;
 
@@ -150,11 +150,11 @@ De afdeling Beleidsondersteuning is verantwoordelijk voor de volgende taken:
 
 ##### Artikel 6. Verantwoordelijkheden afdeling Communicatie
 
-De afdeling Communicatie is verantwoordelijk voor het, in afstemming met de overige directies, verzorgen van de communicatie in brede zin van de inspectie, met name door:
+De afdeling Communicatie is verantwoordelijk voor het, in afstemming met de overige directies, verzorgen van de communicatie in brede zin van de Nederlandse Arbeidsinspectie, met name door:
 
-- a. het ontwikkelen en onderhouden van een meerjarige communicatiestrategie van de inspectie;
+- a. het ontwikkelen en onderhouden van een meerjarige communicatiestrategie van de Nederlandse Arbeidsinspectie;
 
-- b. het zorg dragen voor een basisinfrastructuur op het gebied van communicatie voor de inspectie;
+- b. het zorg dragen voor een basisinfrastructuur op het gebied van communicatie voor de Nederlandse Arbeidsinspectie;
 
 - c. het ondersteunen en uitvoeren van nalevingscommunicatie door onder meer instrumentontwikkeling.
 
@@ -168,19 +168,19 @@ De afdeling Handhaving is verantwoordelijk voor:
 
 - 2°. juridische adviesfunctie voor primair proces;
 
-- 3°. de ondersteuning en opleiding op handhavingterrein en aanpak van inspecteurs bij andere inspectiediensten, die als toezichthouders zijn aangewezen op terreinen van de inspectie;
+- 3°. de ondersteuning en opleiding op handhavingterrein en aanpak van inspecteurs bij andere inspectiediensten, die als toezichthouders zijn aangewezen op terreinen van de Nederlandse Arbeidsinspectie;
 
-- b. het formuleren van een inspectiebreed handhavingsbeleid;
+- b. het formuleren van een Nederlandse Arbeidsinspectiebreed handhavingsbeleid;
 
-- c. het voeren van overleg met de directie WBJA en de afdeling Boete, Dwangsom en Inning over concrete juridische vraagstukken en zaken betreffende openbaarheid van bestuur en handhavingsbeleid van de inspectie;
+- c. het voeren van overleg met de directie WBJA en de afdeling Boete, Dwangsom en Inning over concrete juridische vraagstukken en zaken betreffende openbaarheid van bestuur en handhavingsbeleid van de Nederlandse Arbeidsinspectie;
 
-- d. de implementatie, vooral gericht op handhavingsbeleid en werkinstructies, van inspectiebrede wetgevingstrajecten, zoals de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) en de [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706);
+- d. de implementatie, vooral gericht op handhavingsbeleid en werkinstructies, van Nederlandse Arbeidsinspectiebrede wetgevingstrajecten, zoals de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) en de [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706);
 
 - e. het bijdragen aan adviezen aan beleidsdirecties van het kerndepartement van knelpunten in de vigerende wetgeving;
 
 - f. het beheren van de informatie, in het bijzonder betreffende handhaving, in de kennisbanken in het systeem DIWI (Digitaal Werken bij de Inspectie) en in de Recherchewerkwijzer in de zogenaamde “rode omgeving”;
 
-- g. het op instigatie van een dienstonderdeel van de inspectie actualiseren van organisatie-, mandaat- en volmachtbesluiten van de inspectie;
+- g. het op instigatie van een dienstonderdeel van de Nederlandse Arbeidsinspectie actualiseren van organisatie-, mandaat- en volmachtbesluiten van de Nederlandse Arbeidsinspectie;
 
 - h. het tot stand brengen en onderhouden van convenanten.
 
@@ -228,7 +228,7 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 ##### Artikel 12. Volmacht afdelingshoofd Communicatie
 
-Het hoofd van de afdeling Communicatie is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de inspectie met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+Het hoofd van de afdeling Communicatie is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
 
 ##### Artikel 13. Plaatsvervanging
 
@@ -288,7 +288,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
-- l. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- l. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 #### § 4. Bevoegdheden
 
