@@ -4,7 +4,7 @@ identifier: "BWBR0034271"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034271"
 soort: "AMvB"
@@ -68,93 +68,93 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld in [artikel 15, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het vervoer van splijtstoffen, genoemd in [bijlage I van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0029067&bijlage=I) bedraagt € 3.680 van 1 januari 2021 tot 1 januari 2022: € 3.840.
+Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld in [artikel 15, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het vervoer van splijtstoffen, genoemd in [bijlage I van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0029067&bijlage=I) bedraagt € 3.680 van 1 januari 2022 tot 1 januari 2023: € 4.040,–.
 
 ##### Artikel 3
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag van een houder van een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor de verlening van een vergunning voor het voorhanden hebben of zich ontdoen van splijtstoffen als bedoeld in artikel 15, onderdeel a, van de wet, bedraagt:
 
-- a. € 6.624 van 1 januari 2021 tot 1 januari 2022: € 6.912 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 6.624 van 1 januari 2022 tot 1 januari 2023: € 7.272,– indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 3.680 van 1 januari 2021 tot 1 januari 2022: € 3.840 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
+- b. € 3.680 van 1 januari 2022 tot 1 januari 2023: € 4.040,– indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning aan een houder van een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het voorhanden hebben of zich ontdoen van splijtstoffen als bedoeld in artikel 15, onderdeel a, van de wet bedraagt:
 
-- a. € 16.928 van 1 januari 2021 tot 1 januari 2022: € 17.664 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 16.928 van 1 januari 2022 tot 1 januari 2023: € 18.584,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 8.648 van 1 januari 2021 tot 1 januari 2022: € 9.024 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
+- b. € 8.648 van 1 januari 2022 tot 1 januari 2023: € 9.494,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
 
 ##### Artikel 4
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor de oprichting van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 755.280 van 1 januari 2021 tot 1 januari 2022: € 811.800 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 755.280 van 1 januari 2022 tot 1 januari 2023: € 849.600,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 377.640 van 1 januari 2021 tot 1 januari 2022: € 405.900 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 377.640 van 1 januari 2022 tot 1 januari 2023: € 424.800,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 251.760 van 1 januari 2021 tot 1 januari 2022: € 270.600 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 251.760 van 1 januari 2022 tot 1 januari 2023: € 283.200,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor de oprichting van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 3.776.400 van 1 januari 2021 tot 1 januari 2022: € 4.059.000 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 3.776.400 van 1 januari 2022 tot 1 januari 2023: € 4.248.000,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 1.888.200 van 1 januari 2021 tot 1 januari 2022: € 2.029.500 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 1.888.200 van 1 januari 2022 tot 1 januari 2023: € 2.214.000,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 1.007.040 van 1 januari 2021 tot 1 januari 2022: € 1.082.400 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 1.007.040 van 1 januari 2022 tot 1 januari 2023: € 1.132.800,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 5
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 251.760 van 1 januari 2021 tot 1 januari 2022: € 270.600 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 251.760 van 1 januari 2022 tot 1 januari 2023: € 283.200,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 251.760 van 1 januari 2021 tot 1 januari 2022: € 270.600 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 251.760 van 1 januari 2022 tot 1 januari 2023: € 283.200,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 125.880 van 1 januari 2021 tot 1 januari 2022: € 135.300 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 125.880 van 1 januari 2022 tot 1 januari 2023: € 141.600,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 1.258.800 van 1 januari 2021 tot 1 januari 2022: € 1.353.000 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 1.258.800 van 1 januari 2022 tot 1 januari 2023: € 1.416.000,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 755.280 van 1 januari 2021 tot 1 januari 2022: € 811.800 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 755.280 van 1 januari 2022 tot 1 januari 2023: € 849.600,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 377.640 van 1 januari 2021 tot 1 januari 2022: € 405.900 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 377.640 van 1 januari 2022 tot 1 januari 2023: € 424.800,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 6
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het buiten gebruik stellen of het ontmantelen van een inrichting als bedoeld in [artikel 15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet bedraagt:
 
-- a. € 125.880 van 1 januari 2021 tot 1 januari 2022: € 135.300 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 125.880 van 1 januari 2022 tot 1 januari 2023: € 141.600,– indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 62.940 van 1 januari 2021 tot 1 januari 2022: € 67.650 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 62.940 van 1 januari 2022 tot 1 januari 2023: € 70.800,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 31.470 van 1 januari 2021 tot 1 januari 2022: € 33.825 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 31.470 van 1 januari 2022 tot 1 januari 2023: € 35.400,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor het buiten gebruik stellen of ontmantelen van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 62.940 van 1 januari 2021 tot 1 januari 2022: € 67.650 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 62.940 van 1 januari 2022 tot 1 januari 2023: € 70.800,– indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 31.470 van 1 januari 2021 tot 1 januari 2022: € 33.825 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 31.470 van 1 januari 2022 tot 1 januari 2023: € 35.400,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 31.470 van 1 januari 2021 tot 1 januari 2022: € 33.825 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 31.470 van 1 januari 2022 tot 1 januari 2023: € 35.400,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 7
 
-1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), bedraagt:
+1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), bedraagt:
 
-- a. € 13.984 van 1 januari 2021 tot 1 januari 2022: € 14.592 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- a. € 13.984 van 1 januari 2022 tot 1 januari 2023: € 15.352,– indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- b. € 6.624 van 1 januari 2021 tot 1 januari 2022: € 6.912 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- b. € 6.624 van 1 januari 2022 tot 1 januari 2023: € 7.272,– indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- c. € 53.728 van 1 januari 2021 tot 1 januari 2022: € 56.064 indien het een gecompliceerd besluit betreft.
+- c. € 53.728 van 1 januari 2022 tot 1 januari 2023: € 58.984,– indien het een gecompliceerd besluit betreft.
 
-2. Het bedrag dat verschuldigd is voor de verlening van een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), bedraagt:
+2. Het bedrag dat verschuldigd is voor de verlening van een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), bedraagt:
 
-- a. € 27.232 van 1 januari 2021 tot 1 januari 2022: € 28.416 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- a. € 27.232 van 1 januari 2022 tot 1 januari 2023: € 29.896,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- b. € 14.352 van 1 januari 2021 tot 1 januari 2022: € 14.976 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- b. € 14.352 van 1 januari 2022 tot 1 januari 2023: € 15.756,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- c. € 90.528 van 1 januari 2021 tot 1 januari 2022: € 94.464 indien het een gecompliceerd besluit betreft.
+- c. € 90.528 van 1 januari 2022 tot 1 januari 2023: € 99.384,– indien het een gecompliceerd besluit betreft.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een vergunning als bedoeld in [artikel 2.6, vierde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.6) gelezen in samenhang met [artikel 15aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15aa), met dien verstande dat er enkel sprake is van een gecompliceerd besluit indien ten opzichte van de vergunning waarvoor deze vergunning in de plaats komt wijzigingen zijn aangebracht die betrekking hebben op:
 
@@ -166,51 +166,51 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 1. Het bedrag dat jaarlijks verschuldigd is voor de periode vanaf het moment waarop een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) in bedrijf is gegaan tot het moment waarop de vergunningen op grond van artikel 15, onderdeel b, zijn ingetrokken bedraagt:
 
-- a. € 668.932 van 1 januari 2021 tot 1 januari 2022: € 717.090 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 668.932 van 1 januari 2022 tot 1 januari 2023: € 750.480,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 36.708 van 1 januari 2021 tot 1 januari 2022: € 40.590 indien het een inrichting betreft waarin kernenergie kon worden vrijgemaakt om elektriciteit op te wekken;
+- b. € 36.708 van 1 januari 2022 tot 1 januari 2023: € 42.480,– indien het een inrichting betreft waarin kernenergie kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- c. € 236.348 van 1 januari 2021 tot 1 januari 2022: € 257.070 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- c. € 236.348 van 1 januari 2022 tot 1 januari 2023: € 269.040,– indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- d. € 178.204 van 1 januari 2021 tot 1 januari 2022: € 189.420 indien het een andere inrichting betreft dan in onderdelen a, b en c genoemd.
+- d. € 178.204 van 1 januari 2022 tot 1 januari 2023: € 198.240,– indien het een andere inrichting betreft dan in onderdelen a, b en c genoemd.
 
 2. Het bedrag dat verschuldigd is voor de beoordeling van het document waarin de houder van een vergunning op grond van [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ten minste eens in de tien jaar aan de Autoriteit verslag doet inzake de nucleaire veiligheid van de onder zijn beheer zijnde kerninstallatie bedraagt:
 
-- a. € 600.944 van 1 januari 2021 tot 1 januari 2022: € 649.440 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 600.944 van 1 januari 2022 tot 1 januari 2023: € 679.680,– indien het een beoordeling betreft van een verslag ten behoeve van een inrichting waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 320.344 van 1 januari 2021 tot 1 januari 2022: € 338.250 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting met een capaciteit van ten minste 10 megawatt waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 320.344 van 1 januari 2022 tot 1 januari 2023: € 354.000,– indien het een beoordeling betreft van een verslag ten behoeve van een inrichting met een capaciteit van ten minste 10 megawatt waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 185.472 van 1 januari 2021 tot 1 januari 2022: € 202.950 indien het een beoordeling betreft van een verslag betreft ten behoeve van een andere inrichting dan in onderdelen a en b genoemd.
+- c. € 185.472 van 1 januari 2022 tot 1 januari 2023: € 212.400,– indien het een beoordeling betreft van een verslag betreft ten behoeve van een andere inrichting dan in onderdelen a en b genoemd.
 
 ##### Artikel 9
 
-1. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01), worden met € 13.248 van 1 januari 2021 tot 1 januari 2022: € 13.824 verhoogd indien een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) moet worden gemaakt.
+1. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01), worden met € 13.248 van 1 januari 2022 tot 1 januari 2023: € 14.544,– verhoogd indien een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) moet worden gemaakt.
 
-2. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en[7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01), worden met € 14.784 van 1 januari 2021 tot 1 januari 2022: € 16.283 verhoogd indien daarbij de Commissie voor de milieueffectrapportage, bedoeld in [artikel 2.17, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.17), een advies moet gegeven.
+2. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en[7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01), worden met € 14.784 van 1 januari 2022 tot 1 januari 2023: € 16.637,– verhoogd indien daarbij de Commissie voor de milieueffectrapportage, bedoeld in [artikel 2.17, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.17), een advies moet gegeven.
 
-3. Indien een extern advies wordt gevraagd worden de bedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), [7, eerste lid, onderdeel c, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2021-01-01&g=2021-01-01), met de kosten van het externe advies verhoogd.
+3. Indien een extern advies wordt gevraagd worden de bedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), [7, eerste lid, onderdeel c, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2022-01-01&g=2022-01-01), met de kosten van het externe advies verhoogd.
 
-4. De bedragen, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01), worden verhoogd met:
+4. De bedragen, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01), worden verhoogd met:
 
-- a. € 250 van 1 januari 2021 tot 1 januari 2022: € 274 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 250 van 1 januari 2022 tot 1 januari 2023: € 280,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 20.000 van 1 januari 2021 tot 1 januari 2022: € 22.028 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- b. € 20.000 van 1 januari 2022 tot 1 januari 2023: € 22.506,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- c. € 10.000 van 1 januari 2021 tot 1 januari 2022: € 11.014 indien van het ontwerp van het te nemen en van het genomen besluit op basis van een wettelijk voorschrift kennis is gegeven in het buitenland;
+- c. € 10.000 van 1 januari 2022 tot 1 januari 2023: € 11.253,– indien van het ontwerp van het te nemen en van het genomen besluit op basis van een wettelijk voorschrift kennis is gegeven in het buitenland;
 
-- d. € 10.000 van 1 januari 2021 tot 1 januari 2022: € 11.014 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in Nederland is geplaatst;
+- d. € 10.000 van 1 januari 2022 tot 1 januari 2023: € 11.253,– indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in Nederland is geplaatst;
 
-- e. € 5.000 van 1 januari 2021 tot 1 januari 2022: € 5.506 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in het buitenland is geplaatst.
+- e. € 5.000 van 1 januari 2022 tot 1 januari 2023: € 5.626,– indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in het buitenland is geplaatst.
 
 ##### Artikel 10
 
-1. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register voor stralingsartsen als bedoeld in [artikel 7.22, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.22) bedraagt € 500 van 1 januari 2021 tot 1 januari 2022: € 540.
+1. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register voor stralingsartsen als bedoeld in [artikel 7.22, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.22) bedraagt € 500 van 1 januari 2022 tot 1 januari 2023: € 552,–.
 
-2. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register als bedoeld in [artikel 5.5, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.5) bedraagt € 500 van 1 januari 2021 tot 1 januari 2022: € 540.
+2. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register als bedoeld in [artikel 5.5, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.5) bedraagt € 500 van 1 januari 2022 tot 1 januari 2023: € 552,–.
 
-3. Het bedrag dat verschuldigd is voor de verlening van een erkenning van een instelling voor een opleiding op het gebied van stralingsbescherming als bedoeld in [artikel 5.11, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) bedraagt € 1.500 van 1 januari 2021 tot 1 januari 2022: € 1.651.
+3. Het bedrag dat verschuldigd is voor de verlening van een erkenning van een instelling voor een opleiding op het gebied van stralingsbescherming als bedoeld in [artikel 5.11, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) bedraagt € 1.500 van 1 januari 2022 tot 1 januari 2023: € 1.687,–.
 
-4. Het bedrag dat verschuldigd is voor de verlening van een erkenning als bedoeld in [artikel 7.15, tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15) bedraagt € 5.000 van 1 januari 2021 tot 1 januari 2022: € 5.506.
+4. Het bedrag dat verschuldigd is voor de verlening van een erkenning als bedoeld in [artikel 7.15, tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15) bedraagt € 5.000 van 1 januari 2022 tot 1 januari 2023: € 5.626,–.
 
 ##### Artikel 11
 
@@ -224,23 +224,23 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 1. De Autoriteit brengt de bedragen in rekening en verzendt een besluit daartoe:
 
-- a. tegelijk met het in behandeling nemen van een aanvraag als bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01);
+- a. tegelijk met het in behandeling nemen van een aanvraag als bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01);
 
-- b. tegelijk met de bekendmaking van de vergunning als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01);
+- b. tegelijk met de bekendmaking van de vergunning als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01);
 
-- c. telkens voor 31 januari van het jaar waarop het verschuldigde bedrag betrekking heeft indien het een bedrag betreft verschuldigd op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2021-01-01&g=2021-01-01);
+- c. telkens voor 31 januari van het jaar waarop het verschuldigde bedrag betrekking heeft indien het een bedrag betreft verschuldigd op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2022-01-01&g=2022-01-01);
 
 - d. tegelijk met de toezending van de beoordeling van het document waarin de houder van een vergunning op grond van [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ten minste eens in de tien jaar aan de Autoriteit verslag doet inzake de nucleaire veiligheid van de onder zijn beheer zijnde kerninstallatie;
 
-- e. tegelijk met de bekendmaking van de inschrijving, de verlenging van de inschrijving en de erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2021-01-01&g=2021-01-01).
+- e. tegelijk met de bekendmaking van de inschrijving, de verlenging van de inschrijving en de erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2022-01-01&g=2022-01-01).
 
-2. Op de inning van de bedragen, bedoeld in de [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01), is [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) van toepassing.
+2. Op de inning van de bedragen, bedoeld in de [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01), is [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) van toepassing.
 
 ##### Artikel 13
 
 1. De in dit besluit genoemde bedragen worden jaarlijks met ingang van 1 januari aangepast met het verschil tussen de in dit besluit gegeven bedragen en het bedrag van het in de bijlage bij dit besluit aantal uren of fulltime equivalents maal het in dat jaar geldende tarief schaal 13 opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
-2. In afwijking van het eerste lid worden de in de [artikelen 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2021-01-01&g=2021-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2021-01-01&g=2021-01-01) genoemde bedragen jaarlijks met ingang van 1 januari aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
+2. In afwijking van het eerste lid worden de in de [artikelen 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2022-01-01&g=2022-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2022-01-01&g=2022-01-01) genoemde bedragen jaarlijks met ingang van 1 januari aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
 3. Van de bedragen, bedoeld in het eerste en tweede lid, doet de Autoriteit jaarlijks voor 1 januari mededeling in de Staatscourant.
 
@@ -262,46 +262,46 @@ Het [Bijdragenbesluit Kernenergiewet 1981](https://wetten.overheid.nl/jci1.3:c:B
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Kernenergiewet.
 
-## Bijlage. als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=13&z=2021-01-01&g=2021-01-01), van het Besluit, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
+## Bijlage. als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=13&z=2022-01-01&g=2022-01-01), van het Besluit, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
 
 | In behandeling nemen aanvraag als bedoeld in of vergunning als bedoeld in: | Aantal uren: | Aantal fulltime equivalents: |
 | --- | --- | --- |
-| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=2&z=2021-01-01&g=2021-01-01) | 40 |   |
-| [Artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2021-01-01&g=2021-01-01) | 72 |   |
+| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=2&z=2022-01-01&g=2022-01-01) | 40 |   |
+| [Artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2022-01-01&g=2022-01-01) | 72 |   |
 | Artikel 3, eerste lid, onderdeel b | 40 |   |
 | Artikel 3, tweede lid, onderdeel a | 184 |   |
 | Artikel 3, tweede lid, onderdeel b | 94 |   |
-| [Artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2021-01-01&g=2021-01-01) |   | 6 |
+| [Artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2022-01-01&g=2022-01-01) |   | 6 |
 | Artikel 4, eerste lid, onderdeel b |   | 3 |
 | Artikel 4, eerste lid, onderdeel c |   | 2 |
 | Artikel 4, tweede lid, onderdeel a |   | 30 |
 | Artikel 4, tweede lid, onderdeel b |   | 15 |
 | Artikel 4, tweede lid, onderdeel c |   | 8 |
-| [Artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2021-01-01&g=2021-01-01) |   | 2 |
+| [Artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2022-01-01&g=2022-01-01) |   | 2 |
 | Artikel 5, eerste lid, onderdeel b |   | 2 |
 | Artikel 5, eerste lid, onderdeel c |   | 1 |
 | Artikel 5, tweede lid, onderdeel a |   | 10 |
 | Artikel 5, tweede lid, onderdeel b |   | 6 |
 | Artikel 5, tweede lid, onderdeel c |   | 3 |
-| [Artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2021-01-01&g=2021-01-01) |   | 1 |
+| [Artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2022-01-01&g=2022-01-01) |   | 1 |
 | Artikel 6, eerste lid, onderdeel b |   | 0,5 |
 | Artikel 6, eerste lid, onderdeel c |   | 0,25 |
 | Artikel 6, tweede lid, onderdeel a |   | 0,5 |
 | Artikel 6, tweede lid, onderdeel b |   | 0,25 |
 | Artikel 6, tweede lid, onderdeel c |   | 0,25 |
-| [Artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2021-01-01&g=2021-01-01) | 152 |   |
+| [Artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2022-01-01&g=2022-01-01) | 152 |   |
 | Artikel 7, eerste lid, onderdeel b | 72 |   |
 | Artikel 7, eerste lid, onderdeel c | 584 |   |
 | Artikel 7, tweede lid, onderdeel a | 296 |   |
 | Artikel 7, tweede lid, onderdeel b | 156 |   |
 | Artikel 7, tweede lid, onderdeel c | 984 |   |
-| [Artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2021-01-01&g=2021-01-01) |   | 5,3 |
+| [Artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2022-01-01&g=2022-01-01) |   | 5,3 |
 | Artikel 8, eerste lid, onderdeel b |   | 0,3 |
 | Artikel 8, eerste lid, onderdeel c |   | 1,9 |
 | Artikel 8, eerste lid, onderdeel d |   | 1,4 |
 | Artikel 8, tweede lid, onderdeel a |   | 4,8 |
 | Artikel 8, tweede lid, onderdeel b |   | 2,5 |
 | Artikel 8, tweede lid, onderdeel c |   | 1,5 |
-| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2021-01-01&g=2021-01-01) | 144 |   |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2022-01-01&g=2022-01-01) | 144 |   |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
