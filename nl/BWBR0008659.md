@@ -4,7 +4,7 @@ identifier: "BWBR0008659"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008659"
 soort: "wet"
@@ -70,7 +70,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - g. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- h. rekenhuur: de rekenhuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01);
+- h. rekenhuur: de rekenhuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - i. rekeninkomen: de gezamenlijke toetsingsinkomens, bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), die in aanmerking worden genomen voor het bepalen van de draagkracht, bedoeld in [artikel 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7);
 
@@ -174,7 +174,7 @@ Vervallen
 
 - b. een onzelfstandige woonruimte is, welke deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van en aan de huurder verhuurd door een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is.
 
-2. Het eerste lid onder b vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door de Belastingdienst/Toeslagen is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01) voortvloeit.
+2. Het eerste lid onder b vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door de Belastingdienst/Toeslagen is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01) voortvloeit.
 
 3. Voor de huur van een woonwagen zonder eigen aandrijving wordt slechts een huurtoeslag toegekend, indien deze:
 
@@ -190,7 +190,7 @@ Vervallen
 
 1. Geen huurtoeslag wordt toegekend als de rekenhuur:
 
-- a. hoger is dan € 752,33 per maand als:
+- a. hoger is dan € 763,47 per maand als:
 
 - 1º. de huurder, diens partner of een van de medebewoners 23 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder, diens partner of een medebewoner of
 
@@ -204,11 +204,11 @@ Vervallen
 
 - b. als de woning geschikt en bestemd is voor de huisvesting van een huishouden van ten minste acht personen, en het huishouden van de huurder uit ten minste acht personen bestaat;
 
-- c. na overschrijding van de bedragen, genoemd in het eerste lid, als over de maand die onmiddellijk voorafging aan die overschrijding een huurtoeslag is toegekend en die overschrijding niet het gevolg is van een verhuizing naar een andere woning.
+- c. na overschrijding van de bedragen, genoemd in het eerste lid, als de huurder eerder een huurtoeslag ten aanzien van de desbetreffende woning is toegekend.
 
 3. Als een huurtoeslag wordt toegekend met toepassing van het tweede lid, ontvangt de huurder geen huurtoeslag voor het deel van de rekenhuur dat ligt boven het maximum dat in het eerste lid is genoemd.
 
-4. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01).
+4. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01).
 
 #### § 4. Eisen aan de financiële positie
 
@@ -216,17 +216,17 @@ Vervallen
 
 1. Het norminkomen bedraagt:
 
-- a. € 23.725 bij een eenpersoonshuishouden;
+- a. € 24.075 bij een eenpersoonshuishouden;
 
-- b. € 32.200 bij een meerpersoonshuishouden;
+- b. € 32.675 bij een meerpersoonshuishouden;
 
-- c. € 22.652,68 bij een eenpersoonsouderenhuishouden;
+- c. € 22.987,94 bij een eenpersoonsouderenhuishouden;
 
-- d. € 29.986,60 bij een meerpersoonsouderenhuishouden.
+- d. € 30.430,41 bij een meerpersoonsouderenhuishouden.
 
 2. Het norminkomen, genoemd in het eerste lid, onderdelen c en d, wordt vermeerderd met het bedrag van de inkomensondersteuning, bedoeld in [artikel 33a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33a), per kalenderjaar, zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, onderscheidenlijk twee maal dat bedrag, en verder vermeerderd met € 665 onderscheidenlijk € 1 462.
 
-3. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01).
+3. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 15
 
@@ -238,7 +238,7 @@ Vervallen
 
 ##### Artikel 16
 
-De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2021-01-01&g=2021-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2021-01-01&g=2021-01-01) berekende bedrag van de normhuur verhoogd met € 12 per 1 januari 2017: € 16,94.
+De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-01-01&g=2022-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2022-01-01&g=2022-01-01) berekende bedrag van de normhuur verhoogd met € 12 per 1 januari 2017: € 16,94.
 
 ##### Artikel 17
 
@@ -260,21 +260,21 @@ De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder b
 
 - b. € 3,63 als sprake is van een meerpersoonsouderenhuishouden.
 
-4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01).
+4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 18
 
 1. Het referentie-inkomensijkpunt bedraagt:
 
-- a. voor een eenpersoonshuishouden: € 24.875;
+- a. voor een eenpersoonshuishouden: € 25.450;
 
-- b. voor een meerpersoonshuishouden: € 32.325;
+- b. voor een meerpersoonshuishouden: € 33.100;
 
-- c. voor een eenpersoonsouderenhuishouden: € 25.625;
+- c. voor een eenpersoonsouderenhuishouden: € 26.100;
 
-- d. voor een meerpersoonsouderenhuishouden: € 33.700.
+- d. voor een meerpersoonsouderenhuishouden: € 34.300.
 
-2. Voor de toepassing van het derde lid en van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2021-01-01&g=2021-01-01), worden de bedragen, genoemd in het eerste lid, onderdelen c en d, vermeerderd met € 665 onderscheidenlijk € 1 462.
+2. Voor de toepassing van het derde lid en van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2022-01-01&g=2022-01-01), worden de bedragen, genoemd in het eerste lid, onderdelen c en d, vermeerderd met € 665 onderscheidenlijk € 1 462.
 
 3. Bij het referentie-inkomensijkpunt behoort een normhuur van € 448,57.
 
@@ -288,13 +288,13 @@ De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder b
 
 - d. € 4,54 als sprake is van een meerpersoonsouderenhuishouden.
 
-5. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01).
+5. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 19
 
-1. Voor elk rekeninkomen onder of gelijk aan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01), geldt de normhuur, bedoeld in artikel 17, tweede en derde lid.
+1. Voor elk rekeninkomen onder of gelijk aan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01), geldt de normhuur, bedoeld in artikel 17, tweede en derde lid.
 
-2. Voor elk rekeninkomen boven het minimum-inkomensijkpunt is, per type huishouden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), de hoogte van de normhuur de uitkomst van de formule:
+2. Voor elk rekeninkomen boven het minimum-inkomensijkpunt is, per type huishouden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), de hoogte van de normhuur de uitkomst van de formule:
 
 (a x Y2) + (b x Y)
 
@@ -320,7 +320,7 @@ Y: het rekeninkomen.
 
 - b. € 678,66 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
 
-3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01).
+3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01).
 
 #### § 3. Berekening van de huursubsidie
 
@@ -356,7 +356,7 @@ Vervallen
 
 ##### Artikel 23
 
-Bij verhuizing van de huurder blijft het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2021-01-01&g=2021-01-01), bedoelde recht op huurtoeslag in stand, mits hij de woning naar welke hij verhuist huurt en vervolgens bewoont en ook overigens aan de voorwaarden voor verkrijging van huurtoeslag wordt voldaan. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
+Bij verhuizing van de huurder blijft het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-01-01&g=2022-01-01), bedoelde recht op huurtoeslag in stand, mits hij de woning naar welke hij verhuist huurt en vervolgens bewoont en ook overigens aan de voorwaarden voor verkrijging van huurtoeslag wordt voldaan. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -404,21 +404,21 @@ Vervallen
 
 ##### Artikel 27
 
-1. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01) (maximale huurgrens), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2021-01-01&g=2021-01-01) (norminkomen), gewijzigd met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel voor «Consumentenprijsindex Alle Huishoudens afgeleid» wordt gelezen «Consumentenprijsindex Alle Huishoudens».
+1. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01) (maximale huurgrens), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01) (norminkomen), gewijzigd met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel voor «Consumentenprijsindex Alle Huishoudens afgeleid» wordt gelezen «Consumentenprijsindex Alle Huishoudens».
 
-2. Naast de wijziging op grond van het eerste lid kan het bedrag, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2021-01-01&g=2021-01-01) (norminkomen), bij ministeriële regeling worden gewijzigd ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+2. Naast de wijziging op grond van het eerste lid kan het bedrag, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01) (norminkomen), bij ministeriële regeling worden gewijzigd ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-3. Bij ministeriële regeling worden, met ingang van 1 januari van elk jaar, de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01) (maximale huurgrens), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01) (bij minimum-inkomensijkpunt behorende normhuur), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2021-01-01&g=2021-01-01) (bij referentie-inkomensijkpunt behorende normhuur), en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2021-01-01&g=2021-01-01) (kwaliteitskortingsgrens en aftoppingsgrenzen), gewijzigd met het percentage van de huurprijsontwikkeling, zoals die naar redelijke verwachting in het tijdvak dat loopt van 1 juli van het aan het berekeningsjaar voorafgaande jaar tot 1 juli van het berekeningsjaar zal plaatsvinden.
+3. Bij ministeriële regeling worden, met ingang van 1 januari van elk jaar, de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01) (maximale huurgrens), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01) (bij minimum-inkomensijkpunt behorende normhuur), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-01-01&g=2022-01-01) (bij referentie-inkomensijkpunt behorende normhuur), en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2022-01-01&g=2022-01-01) (kwaliteitskortingsgrens en aftoppingsgrenzen), gewijzigd met het percentage van de huurprijsontwikkeling, zoals die naar redelijke verwachting in het tijdvak dat loopt van 1 juli van het aan het berekeningsjaar voorafgaande jaar tot 1 juli van het berekeningsjaar zal plaatsvinden.
 
-4. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01), als minimum-inkomensijkpunten gelden.
+4. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01), als minimum-inkomensijkpunten gelden.
 
-5. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2021-01-01&g=2021-01-01) (referentie-inkomensijkpunten), gewijzigd met het percentage, waarmee de in het berekeningsjaar verwachte corresponderende bedragen krachtens [artikel 17, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01), en de in het berekeningsjaar verwachte corresponderende bedragen en tegemoetkomingen krachtens de onderdelen c en d van dat artikellid (minimum-inkomensijkpunten), afwijken van de corresponderende bedragen en tegemoetkomingen die in het daaraan voorafgaande berekeningsjaar gelden krachtens de in dat artikellid genoemde wetten. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in artikel 17, eerste lid, bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+5. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-01-01&g=2022-01-01) (referentie-inkomensijkpunten), gewijzigd met het percentage, waarmee de in het berekeningsjaar verwachte corresponderende bedragen krachtens [artikel 17, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01), en de in het berekeningsjaar verwachte corresponderende bedragen en tegemoetkomingen krachtens de onderdelen c en d van dat artikellid (minimum-inkomensijkpunten), afwijken van de corresponderende bedragen en tegemoetkomingen die in het daaraan voorafgaande berekeningsjaar gelden krachtens de in dat artikellid genoemde wetten. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in artikel 17, eerste lid, bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-6. De bedragen, bedoeld in het eerste, tweede en derde lid, worden naar boven afgerond op hele eurocenten, met uitzondering van de norminkomens, bedoeld in [artikel 14, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2021-01-01&g=2021-01-01) (maximum inkomen bij een- en meerpersoonshuishoudens), die naar boven worden afgerond op een veelvoud van € 25. De bedragen, bedoeld in het vierde en vijfde lid, en de som van de bedragen, genoemd in artikel 14, eerste lid, onderdelen c of d, en bedoeld in artikel 14, tweede lid (maximum inkomen bij een- en meerpersoonsouderenhuishoudens), worden naar boven afgerond op een veelvoud van € 25. Bij een volgende wijziging van de norminkomens en de bedragen, bedoeld in het vijfde lid, wordt uitgegaan van de bedragen zoals die waren, voordat zij werden afgerond.
+6. De bedragen, bedoeld in het eerste, tweede en derde lid, worden naar boven afgerond op hele eurocenten, met uitzondering van de norminkomens, bedoeld in [artikel 14, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01) (maximum inkomen bij een- en meerpersoonshuishoudens), die naar boven worden afgerond op een veelvoud van € 25. De bedragen, bedoeld in het vierde en vijfde lid, en de som van de bedragen, genoemd in artikel 14, eerste lid, onderdelen c of d, en bedoeld in artikel 14, tweede lid (maximum inkomen bij een- en meerpersoonsouderenhuishoudens), worden naar boven afgerond op een veelvoud van € 25. Bij een volgende wijziging van de norminkomens en de bedragen, bedoeld in het vijfde lid, wordt uitgegaan van de bedragen zoals die waren, voordat zij werden afgerond.
 
-7. De overeenkomstig het eerste tot en met zesde lid vastgestelde, vanaf 1 januari geldende minimum-inkomensijkpunten, referentie-inkomensijkpunten, maximale inkomensgrenzen, normhuren, de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2021-01-01&g=2021-01-01), maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, worden elk jaar uiterlijk op 1 november daaraan voorafgaand in de Staatscourant bekendgemaakt.
+7. De overeenkomstig het eerste tot en met zesde lid vastgestelde, vanaf 1 januari geldende minimum-inkomensijkpunten, referentie-inkomensijkpunten, maximale inkomensgrenzen, normhuren, de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2022-01-01&g=2022-01-01), maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, worden elk jaar uiterlijk op 1 november daaraan voorafgaand in de Staatscourant bekendgemaakt.
 
-8. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de [artikelen 5, derde lid, onderdelen a, b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01) (maximum service-kosten), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=16&z=2021-01-01&g=2021-01-01) (verhoging van de normhuur), [17, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2021-01-01&g=2021-01-01) (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid, onderdelen a en b (verlaging van de normhuur bij minimum-inkomensijkpunt), en [18, vierde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2021-01-01&g=2021-01-01) (verlaging van de normhuur bij referentie-inkomensijkpunt), hoger of lager worden gesteld.
+8. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de [artikelen 5, derde lid, onderdelen a, b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01) (maximum service-kosten), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=16&z=2022-01-01&g=2022-01-01) (verhoging van de normhuur), [17, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01) (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid, onderdelen a en b (verlaging van de normhuur bij minimum-inkomensijkpunt), en [18, vierde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-01-01&g=2022-01-01) (verlaging van de normhuur bij referentie-inkomensijkpunt), hoger of lager worden gesteld.
 
 ### Hoofdstuk 6. Aanvraag, huursubsidiebericht, beperkt huursubsidiebericht, afhandeling en betaling
 
@@ -552,13 +552,13 @@ Vervallen
 
 ##### Artikel 49
 
-1. De Belastingdienst/Toeslagen kan voor de huur van nader door Onze Minister aangewezen woningen of categorieën van woningen een huurtoeslag toekennen in afwijking van de [artikelen 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2021-01-01&g=2021-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01), ten behoeve van experimenten die naar het oordeel van Onze Minister in het belang van de volkshuisvesting zijn. Onze Minister bepaalt hierbij vooraf de duur van het experiment.
+1. De Belastingdienst/Toeslagen kan voor de huur van nader door Onze Minister aangewezen woningen of categorieën van woningen een huurtoeslag toekennen in afwijking van de [artikelen 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2022-01-01&g=2022-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), ten behoeve van experimenten die naar het oordeel van Onze Minister in het belang van de volkshuisvesting zijn. Onze Minister bepaalt hierbij vooraf de duur van het experiment.
 
 2. De Belastingdienst/Toeslagen kan op verzoek van Onze Minister na afsluiting van het experiment af blijven wijken van de in het eerste lid genoemde artikelen, voor zover het de bewoners betreft die tijdens de duur van het experiment een huurtoeslag ontvingen met toepassing van het eerste lid en zolang een door Onze Minister op basis van het experiment noodzakelijk geoordeelde wijziging van deze wet nog niet van kracht is geworden en in werking is getreden.
 
 ##### Artikel 50
 
-De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2021-01-01&g=2021-01-01), en [27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2021-01-01&g=2021-01-01), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
+De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2022-01-01&g=2022-01-01), en [27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2022-01-01&g=2022-01-01), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -580,21 +580,21 @@ De Wet individuele huursubsidie wordt ingetrokken.
 
 ##### Artikel 55
 
-1. Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven de daarop vóór de inwerkingtreding van de Huursubsidiewet geldende bepalingen van toepassing. Gedurende de eerste vijf subsidiejaren na de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=44&z=2021-01-01&g=2021-01-01), wordt de huursubsidie-uitgavennorm zodanig lager vastgesteld dan uit [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2021-01-01&g=2021-01-01) voortvloeit, dat een eventuele overschrijding van de huursubsidie-uitgavennorm die is ontstaan gedurende het eerste subsidiejaar na inwerkingtreding van deze wet, wordt tenietgedaan.
+1. Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven de daarop vóór de inwerkingtreding van de Huursubsidiewet geldende bepalingen van toepassing. Gedurende de eerste vijf subsidiejaren na de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=44&z=2022-01-01&g=2022-01-01), wordt de huursubsidie-uitgavennorm zodanig lager vastgesteld dan uit [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2022-01-01&g=2022-01-01) voortvloeit, dat een eventuele overschrijding van de huursubsidie-uitgavennorm die is ontstaan gedurende het eerste subsidiejaar na inwerkingtreding van deze wet, wordt tenietgedaan.
 
-2. In het eerste subsidiejaar na inwerkingtreding van deze wet wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), verstaan onder rekenvermogen: het gezamenlijk vermogen van de huurder en de medebewoners op 0.00 uur op de datum van inwerkingtreding van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01).
+2. In het eerste subsidiejaar na inwerkingtreding van deze wet wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), verstaan onder rekenvermogen: het gezamenlijk vermogen van de huurder en de medebewoners op 0.00 uur op de datum van inwerkingtreding van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01).
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2021-01-01&g=2021-01-01) blijft buiten toepassing ten aanzien van een huurder van onzelfstandige woonruimte, anders dan bedoeld in dat artikel, indien die woonruimte onmiddellijk voorafgaand aan het moment dat de Wet individuele huursubsidie werd ingetrokken, was aangewezen als woonruimte aan de huurder waarvan een bijdrage op voet van die wet kon worden verstrekt.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2022-01-01&g=2022-01-01) blijft buiten toepassing ten aanzien van een huurder van onzelfstandige woonruimte, anders dan bedoeld in dat artikel, indien die woonruimte onmiddellijk voorafgaand aan het moment dat de Wet individuele huursubsidie werd ingetrokken, was aangewezen als woonruimte aan de huurder waarvan een bijdrage op voet van die wet kon worden verstrekt.
 
-4. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01), is niet van toepassing op een huurder op wie artikel 41 van de Wet individuele huursubsidie of [artikel II van de wet van 9 juni 1994 houdende wijziging van de Wet individuele huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0006720&artikel=II) (Stb. 439) van toepassing was over de aan de dag van inwerkingtreding van deze wet voorafgaande kalendermaand, zolang deze huurder het genot van de desbetreffende woning behoudt. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2021-01-01&g=2021-01-01), is in deze gevallen van overeenkomstige toepassing.
+4. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), is niet van toepassing op een huurder op wie artikel 41 van de Wet individuele huursubsidie of [artikel II van de wet van 9 juni 1994 houdende wijziging van de Wet individuele huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0006720&artikel=II) (Stb. 439) van toepassing was over de aan de dag van inwerkingtreding van deze wet voorafgaande kalendermaand, zolang deze huurder het genot van de desbetreffende woning behoudt. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), is in deze gevallen van overeenkomstige toepassing.
 
-5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Belastingdienst/Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2021-01-01&g=2021-01-01) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2021-01-01&g=2021-01-01), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
+5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Belastingdienst/Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2022-01-01&g=2022-01-01), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
 
 6. Het vijfde lid geldt uitsluitend in bij of krachtens algemene maatregel van bestuur vast te stellen gevallen.
 
-7. Een verrekening als bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2021-01-01&g=2021-01-01), kan mede betrekking hebben op te veel betaalde bedragen en de daarop betrekking hebbende verhogingen op voet van de Wet individuele huursubsidie.
+7. Een verrekening als bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2022-01-01&g=2022-01-01), kan mede betrekking hebben op te veel betaalde bedragen en de daarop betrekking hebbende verhogingen op voet van de Wet individuele huursubsidie.
 
-8. Voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2021-01-01&g=2021-01-01) voor het eerste subsidiejaar na inwerkingtreding van deze wet, gelden de bijdragen op voet van de Wet individuele huursubsidie over het daaraan voorafgaande jaar als uitgaven aan huursubsidie.
+8. Voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2022-01-01&g=2022-01-01) voor het eerste subsidiejaar na inwerkingtreding van deze wet, gelden de bijdragen op voet van de Wet individuele huursubsidie over het daaraan voorafgaande jaar als uitgaven aan huursubsidie.
 
 ##### Artikel 56
 
