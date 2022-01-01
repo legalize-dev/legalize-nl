@@ -4,7 +4,7 @@ identifier: "BWBR0038054"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038054"
 soort: "wet"
@@ -74,7 +74,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 - 3. het door de dienstverrichter tegen vergoeding ter beschikking stellen van een werknemer aan de dienstontvanger om onder toezicht en leiding van de dienstontvanger arbeid te verrichten op het grondgebied van een andere lidstaat;
 
-- –. **zelfstandige:** degene die in de uitoefening van beroep of bedrijf tijdelijk arbeid verricht in Nederland, maar niet in Nederland zijn woonplaats of gewone verblijfplaats heeft of niet gewoonlijk in of vanuit Nederland arbeid verricht.
+- –. **zelfstandige:** degene die in de uitoefening van beroep of bedrijf vanuit een andere lidstaat tijdelijk arbeid verricht in Nederland, maar niet in Nederland zijn woonplaats of gewone verblijfplaats heeft of niet gewoonlijk in of vanuit Nederland arbeid verricht.
 
 2. Deze wet is niet van toepassing op zeevarend personeel van koopvaardijondernemingen.
 
@@ -110,7 +110,7 @@ Een werknemer die tijdelijk buiten Nederland arbeid verricht of heeft verricht i
 
 1. Bij Onze Minister berust het verbindingsbureau, bedoeld in artikel 4 van de detacheringsrichtlijn, voor de administratieve samenwerking, bedoeld in artikel 5, onderdeel b, van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEG 2014, L159/11), tussen de lidstaten in verband met het toezicht op de naleving van de arbeidsvoorwaarden en de arbeidsomstandigheden, bedoeld in artikel 3 van de detacheringsrichtlijn. Door Onze Minister aangewezen ambtenaren zijn belast met de verwerking van gegevens over gedetacheerde werknemers en dienstverrichters ten behoeve van deze administratieve samenwerking.
 
-2. De door Onze Minister aangewezen ambtenaren verwerken gegevens, die zij verkrijgen ten behoeve van het toezicht op de naleving van de Wet arbeid vreemdelingen, de Wet allocatie arbeidskrachten door intermediairs, de Wet minimumloon en minimumvakantiebijslag, de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987) en deze wet verder ten behoeve van de administratieve samenwerking, bedoeld in het eerste lid, en de wederzijdse bijstand bij de handhaving, bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&z=2021-01-01&g=2021-01-01), en verstrekken daarbij uit eigen beweging gegevens aan de bevoegde instanties in andere lidstaten.
+2. De door Onze Minister aangewezen ambtenaren verwerken gegevens, die zij verkrijgen ten behoeve van het toezicht op de naleving van de Wet arbeid vreemdelingen, de Wet allocatie arbeidskrachten door intermediairs, de Wet minimumloon en minimumvakantiebijslag, de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987) en deze wet verder ten behoeve van de administratieve samenwerking, bedoeld in het eerste lid, en de wederzijdse bijstand bij de handhaving, bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&z=2022-01-01&g=2022-01-01), en verstrekken daarbij uit eigen beweging gegevens aan de bevoegde instanties in andere lidstaten.
 
 3. Gegevens die de door Onze Minister aangewezen ambtenaren in verband met de in het eerste lid bedoelde samenwerking verkrijgen van bevoegde instanties in andere lidstaten kunnen door Onze Minister verder worden verwerkt voor het toezicht op de naleving door dienstverrichters van de wetten, genoemd in het tweede lid.
 
@@ -118,7 +118,7 @@ Een werknemer die tijdelijk buiten Nederland arbeid verricht of heeft verricht i
 
 5. Onze Minister verstrekt de gegevens, die hij verwerkt op grond van het tweede en derde lid, aan bestuursorganen en toezichthouders, die noodzakelijk zijn voor de uitoefening van hun taken in verband met transnationale dienstverrichting.
 
-6. Met het oog op de in het eerste lid genoemde samenwerking en de wederzijdse bijstand bij de handhaving, bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&z=2021-01-01&g=2021-01-01), geeft Onze Minister gehoor aan met gerechtvaardigde redenen omklede verzoeken van bevoegde instanties uit andere lidstaten om informatie en om uitvoering van controles, inspecties en onderzoeken met betrekking tot de transnationale dienstverrichting.
+6. Met het oog op de in het eerste lid genoemde samenwerking en de wederzijdse bijstand bij de handhaving, bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&z=2022-01-01&g=2022-01-01), geeft Onze Minister gehoor aan met gerechtvaardigde redenen omklede verzoeken van bevoegde instanties uit andere lidstaten om informatie en om uitvoering van controles, inspecties en onderzoeken met betrekking tot de transnationale dienstverrichting.
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die verwerkt worden op grond van dit artikel, de wijze waarop die gegevens worden verwerkt alsmede de bij de gegevensverstrekkingen in acht te nemen termijnen.
 
@@ -130,11 +130,11 @@ Een werknemer die tijdelijk buiten Nederland arbeid verricht of heeft verricht i
 
 ##### Artikel 6
 
-1. De dienstverrichter verstrekt desgevraagd aan Onze Minister en de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2021-01-01&g=2021-01-01), alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitvoering van deze wet.
+1. De dienstverrichter verstrekt desgevraagd aan Onze Minister en de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2022-01-01&g=2022-01-01), alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitvoering van deze wet.
 
-2. Het eerste lid is van overeenkomstige toepassing op zelfstandigen voor wie de verplichting geldt, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01).
+2. Het eerste lid is van overeenkomstige toepassing op zelfstandigen voor wie de verplichting geldt, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01).
 
-3. Indien dit in het kader van de handhaving noodzakelijk is, beoordelen de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2021-01-01&g=2021-01-01), aan de hand van de bij algemene maatregel van bestuur vastgestelde elementen:
+3. Indien dit in het kader van de handhaving noodzakelijk is, beoordelen de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2022-01-01&g=2022-01-01), aan de hand van de bij algemene maatregel van bestuur vastgestelde elementen:
 
 - a. of een onderneming als bedoeld in artikel 1, eerste lid, van de detacheringsrichtlijn, daadwerkelijk substantiële activiteiten verricht om werknemers ter beschikking te stellen in het kader van transnationale dienstverrichting;
 
@@ -152,7 +152,7 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 - b. de identiteit van de dienstontvanger en van de gedetacheerde werknemer;
 
-- c. de contactpersoon, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2021-01-01&g=2021-01-01);
+- c. de contactpersoon, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2022-01-01&g=2022-01-01);
 
 - d. de identiteit van de voor de uitbetaling van het loon verantwoordelijke natuurlijke persoon of rechtspersoon;
 
@@ -178,7 +178,7 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 ##### Artikel 9
 
-1. Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in [artikel 8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), schriftelijk of elektronisch beschikbaar zijn:
+1. Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in [artikel 8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01), schriftelijk of elektronisch beschikbaar zijn:
 
 - a. de arbeidsovereenkomst met de gedetacheerde werknemer;
 
@@ -192,9 +192,9 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 - f. een bewijs, waaruit blijkt welk loon aan de gedetacheerde werknemer is voldaan.
 
-2. De zelfstandige voor wie de verplichting, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), geldt draagt er zorg voor dat tijdens de periode, waarin hij werkzaamheden verricht, op de werkplek, bedoeld in artikel 8, eerste lid, onderdeel f, bewijsstukken aanwezig zijn waaruit zijn identiteit, de identiteit van de dienstontvanger en de identiteit van de verantwoordelijke voor de uitbetaling van het loon blijken.
+2. De zelfstandige voor wie de verplichting, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01), geldt draagt er zorg voor dat tijdens de periode, waarin hij werkzaamheden verricht, op de werkplek, bedoeld in artikel 8, eerste lid, onderdeel f, bewijsstukken aanwezig zijn waaruit zijn identiteit, de identiteit van de dienstontvanger en de identiteit van de verantwoordelijke voor de uitbetaling van het loon blijken.
 
-3. De dienstverrichter en de zelfstandige dragen er zorg voor dat de bescheiden, bedoeld in het eerste en tweede lid, na de periode van detachering of de periode waarin de werkzaamheden worden verricht binnen redelijke termijn op verzoek aan de aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2021-01-01&g=2021-01-01), worden verstrekt.
+3. De dienstverrichter en de zelfstandige dragen er zorg voor dat de bescheiden, bedoeld in het eerste en tweede lid, na de periode van detachering of de periode waarin de werkzaamheden worden verricht binnen redelijke termijn op verzoek aan de aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2022-01-01&g=2022-01-01), worden verstrekt.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de bescheiden, bedoeld in het eerste en tweede lid, voldoen, de plaats waar deze bescheiden beschikbaar worden gesteld en met betrekking tot het derde lid.
 
@@ -220,7 +220,7 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 ##### Artikel 11
 
-De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=10&z=2021-01-01&g=2021-01-01), komen toe aan het Rijk.
+De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=10&z=2022-01-01&g=2022-01-01), komen toe aan het Rijk.
 
 ##### Artikel 12
 
@@ -228,11 +228,11 @@ De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [
 
 2. Als overtreding wordt aangemerkt:
 
-- a. het door een dienstverrichter of een zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), niet of onvoldoende nakomen van de informatieverplichting, bedoeld in [artikel 6, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2021-01-01&g=2021-01-01);
+- a. het door een dienstverrichter of een zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01), niet of onvoldoende nakomen van de informatieverplichting, bedoeld in [artikel 6, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2022-01-01&g=2022-01-01);
 
-- b. het door de dienstverrichter, de dienstontvanger of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in artikel 8, eerste, derde of zesde lid;
+- b. het door de dienstverrichter, de dienstontvanger of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01), niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in artikel 8, eerste, derde of zesde lid;
 
-- c. het door de dienstverrichter of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01), niet of onvoldoende nakomen van de administratieve eisen, bedoeld in [artikel 9, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2021-01-01&g=2021-01-01).
+- c. het door de dienstverrichter of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01), niet of onvoldoende nakomen van de administratieve eisen, bedoeld in [artikel 9, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 13
 
@@ -250,11 +250,11 @@ De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Onverminderd het eerste lid verhoogt de op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2021-01-01&g=2021-01-01) aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
+2. Onverminderd het eerste lid verhoogt de op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2022-01-01&g=2022-01-01) aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
 
 3. De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.
 
-4. Onverminderd het eerste lid verhoogt de op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2021-01-01&g=2021-01-01) aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden op grond van deze wet of andere wetten, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
+4. Onverminderd het eerste lid verhoogt de op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2022-01-01&g=2022-01-01) aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden op grond van deze wet of andere wetten, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
 
 5. In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.
 
@@ -284,7 +284,7 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel 19
 
-Onze Minister zendt binnen twee jaar na inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2021-01-01&g=2021-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.
+Onze Minister zendt binnen twee jaar na inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.
 
 ##### Artikel 20
 
@@ -302,11 +302,25 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3a
 
-1. De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2021-01-01&g=2021-01-01), en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.
+1. De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2022-01-01&g=2022-01-01), en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.
 
 2. De dienstontvanger informeert de dienstverrichter tijdig en voor aanvang van de terbeschikkingstelling, bedoeld in het eerste lid.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot de arbeidskracht die ter beschikking is gesteld, bedoeld in [artikel 1 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=1), met dien verstande dat onder dienstontvanger wordt verstaan de inlener als bedoeld in [artikel 7a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a), en onder dienstverrichter degene die de arbeidskracht ter beschikking stelt.
+
+### Hoofdstuk III. Informatie, administratieve samenwerking en melding
+
+### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+### Hoofdstuk VI. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3b
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer een gerechtelijke of administratieve procedure start om de in deze wet of de in [artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) aan hem toegekende rechten geldend te maken.
 
 ### Hoofdstuk III. Informatie, administratieve samenwerking en melding
 
