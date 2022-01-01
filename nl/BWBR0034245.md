@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -58,14 +58,14 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 | Bezoldigingsklasse | Maximale bezoldiging |
 | --- | --- |
-| A | 98.000 |
-| B | 111.000 |
-| C | 123.000 |
-| D | 132.000 |
-| E | 153.000 |
-| F | 175.000 |
-| G | 197.000 |
-| H | De maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
+| A | 101.000 |
+| B | 115.000 |
+| C | 127.000 |
+| D | 136.000 |
+| E | 158.000 |
+| F | 181.000 |
+| G | 203.000 |
+| H | De maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
 
@@ -105,10 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2021-01-01&g=2021-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld. De klasse wordt op de fusiedatum opnieuw vastgesteld.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2022-01-01&g=2022-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld. De klasse wordt op de fusiedatum opnieuw vastgesteld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2021-01-01&g=2021-01-01), van toepassing zijn.
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2022-01-01&g=2022-01-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
