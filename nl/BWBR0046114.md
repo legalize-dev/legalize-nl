@@ -4,7 +4,7 @@ identifier: "BWBR0046114"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046114"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ entry_into_force: "2022-01-01"
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
@@ -54,31 +52,21 @@ Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -88,13 +76,9 @@ Wijzigt de Uitvoeringsregeling bronbelasting 2021.
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
@@ -104,25 +88,17 @@ Wijzigt de Algemene douaneregeling.
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -132,8 +108,6 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
@@ -142,12 +116,34 @@ Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+**Artikel 4**, eerste lid, van de [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017), zoals dat luidde op 31 december 2021, blijft tot en met 31 maart 2022 van toepassing op notarissen die niet kunnen voldoen aan [artikel 4, eerste lid, van de Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&artikel=4), zoals dat luidt met ingang van 1 januari 2022.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 januari 2022, met dien verstande dat:
+
+- a. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 juli 2015;
+
+- b. [artikel II, onderdeel C, subonderdeel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 januari 2020;
+
+- c. de [artikelen III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=III&z=2022-01-01&g=2022-01-01), en [XIX, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2022-01-01&g=2022-01-01), terugwerken tot en met 25 mei 2018;
+
+- d. de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VI&z=2022-01-01&g=2022-01-01) en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VII&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
+
+- e. de [artikelen IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=IX&z=2022-01-01&g=2022-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2022-01-01&g=2022-01-01), onderdeel F, en [XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XVII&z=2022-01-01&g=2022-01-01), terugwerken tot en met 1 januari 2021;
+
+- d. [artikel XIX, onderdelen 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vindt met betrekking tot tijdvakken die aanvangen op of na 1 januari 2022.
+
+2. In afwijking van het eerste lid treedt [artikel XII, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2023.
+
+Handelende wat [artikel 3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Infrastructuur en Waterstaat;
+
+Handelende wat [artikel 47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) betreft, in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Volksgezondheid, Welzijn en Sport;
+
+Gelet op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5) en [3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) en [47a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47a), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32a) en [38p van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38p), de [artikelen 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2e) en [12 van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=12), de [artikelen 13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) en [17 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [artikel 4 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2) en [2.1 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1), [artikel 18 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=18), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3) en [7b van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b), de [artikelen 6k](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6k) en [21 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1) en [6:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:3), de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64) en [64a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64a), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10a), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10c), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17) en [20 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20), de [artikelen b18a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18a) en [21d van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21d), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) en [47b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47b) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c) en [26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26);
+
+Besluit:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
