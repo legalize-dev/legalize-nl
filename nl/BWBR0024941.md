@@ -4,7 +4,7 @@ identifier: "BWBR0024941"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024941"
 soort: "AMvB"
@@ -136,7 +136,7 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete 
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2021-01-01&g=2021-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2022-01-01&g=2022-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
 
 | **A. Voorschrift uit de plaatselijke verordening** | **Boete in euro’s** |
 | --- | --- |
@@ -288,10 +288,18 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Een recreatiegebied gebruiken in strijd met de bepalingen geldend voor dat gebied door zich als eigenaar of houder van een hond zich met die hond in een vastgestelde periode te bevinden buiten een aangewezen gebied, waar het verblijf van de hond is toegestaan | 100 |
 |   |   |
 | A.40 |   |
-| Op een openbare plaats, al dan niet binnen een door het college of de burgemeester aangewezen gebied, softdrugs gebruiken | 100 |
+| Op of aan de weg, op een andere openbare plaats of in een voor publiek toegankelijk gebouw, al dan niet binnen een door het college of de burgemeester aangewezen gebied, softdrugs gebruiken | 100 |
 |   |   |
 | A.41 |   |
-| Door handelingen, houding, woord, gebaar of op andere wijze passanten bewegen, uitnodigen of aanlokken tot het gebruik maken van diensten van een prostituee buiten de door het college of de burgemeester aangewezen wegen of gebieden | 250 |
+| Op een openbare plaats |   |
+| a. of op of aan de weg of in een voor publiek toegankelijk gebouw, al dan niet binnen een door het college of de burgemeester aangewezen gebied, lachgas gebruiken | 100 |
+| b. lachgas recreatief als roesmiddel gebruiken, terwijl dit gepaard gaat met overlast of andere gedragingen die de openbare orde verstoren, het woon- of leefklimaat nadelig beïnvloeden of anderszins hinder veroorzaken | 150 |
+| c. voorbereidingen verrichten ten behoeve van het recreatief als roesmiddel gebruiken van lachgas, terwijl dit gepaard gaat met overlast of andere gedragingen die de openbare orde verstoren, het woon- of leefklimaat nadelig beïnvloeden of anderszins hinder veroorzaken | 150 |
+| d. voorwerpen of stoffen bij zich hebben ten behoeve van het recreatief als roesmiddel gebruiken van lachgas, terwijl dit gepaard gaat met overlast of andere gedragingen die de openbare orde verstoren, het woon- of leefklimaat nadelig beïnvloeden of anderszins hinder veroorzaken | 150 |
+| e. die deel uitmaakt van een door het college ter bescherming van de openbare orde of het woon- en leefklimaat aangewezen gebied: |   |
+| 1°. lachgas recreatief als roesmiddel gebruiken | 100 |
+| 2°. voorbereidingen verrichten ten behoeve van het recreatief als roesmiddel gebruiken van lachgas | 100 |
+| 3°. voorwerpen of stoffen bij zich hebben ten behoeve van het recreatief als roesmiddel gebruiken van lachgas | 100 |
 |   |   |
 | A.41a |   |
 | Zich ophouden op of aan de weg of op, aan of in een andere vanaf de weg zichtbare plaats, niet zijnde een seksinrichting waarvoor een vergunning is verleend, met het kennelijke doel prostitutie of het verrichten van seksuele handelingen in het kader van prostitutie | 250 |
@@ -309,7 +317,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Zonder vergunning/ontheffing van het college of de burgemeester op of aan de weg of openbaar water dan wel op een andere voor het publiek toegankelijke en in de open lucht gelegen plaats een standplaats innemen of hebben teneinde in de uitoefening van de handel goederen te koop aan te bieden, te verkopen of af te leveren, dan wel diensten aan te bieden | 150 |
 |   |   |
 | A.46 |   |
-| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 400 |
+| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 410 |
 
 | **B. Voorschrift uit de plaatselijke verordening (milieu)** | **Boete in euro’s** |
 | --- | --- |
@@ -336,7 +344,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het ter inzameling aanbieden van bedrijfsafvalstoffen | 100 |
 |   |   |
 | C.4 |   |
-| Buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 400 |
+| Buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 410 |
 |   |   |
 | C.5 |   |
 | Het achterlaten van straatafval in de openbare ruimte | 150 |
