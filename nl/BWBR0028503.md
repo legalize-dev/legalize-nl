@@ -4,7 +4,7 @@ identifier: "BWBR0028503"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-03-02"
-last_updated: "2010-10-10"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028503"
 soort: "wet-BES"
@@ -69,7 +69,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Behoort de onderneming toe aan een natuurlijke persoon, of is een vennootschap onder firma of een commanditaire vennootschap aangegaan, dan worden tevens de gegevens daarvan ingeschreven.
 
-3. Aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=4&z=2010-10-10&g=2010-10-10), genoemde rechtspersonen, met uitzondering van stichtingen, stichtingen particulier fonds en verenigingen, wordt steeds geacht een onderneming toe te behoren.
+3. Aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=4&z=2022-01-01&g=2022-01-01), genoemde rechtspersonen, met uitzondering van stichtingen, stichtingen particulier fonds en verenigingen, wordt steeds geacht een onderneming toe te behoren.
 
 4. Het bepaalde in het derde lid is van overeenkomstige toepassing op in het openbaar lichaam gevestigde buitenlandse rechtspersonen.
 
@@ -113,25 +113,27 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 8
 
-1. De opgave voor de eerste inschrijving van een onderneming wordt gedaan binnen één week na aanvang van de uitoefening van de ondernemingsactiviteiten.
+1. De opgave voor de eerste inschrijving van een onderneming wordt gedaan binnen één week na aanvang van de uitoefening van de ondernemingsactiviteiten, met vermelding van de dag van ingang daarvan.
 
 2. De andere voorgeschreven opgaven worden gedaan uiterlijk één week na het plaatsvinden van het feit ten gevolge waarvan de verplichting tot de opgave ontstaat, voor zover bij of krachtens algemene maatregel van bestuur niet anders is bepaald.
 
-3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover het een wijziging betreft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2010-10-10&g=2010-10-10) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=10&z=2010-10-10&g=2010-10-10), zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
+3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover het een wijziging betreft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-01-01&g=2022-01-01) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=10&z=2022-01-01&g=2022-01-01), zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
 
 ##### Artikel 9
 
 1. De Kamer is ambtshalve bevoegd tot het inschrijven van een wijziging van een gegeven betreffende een onderneming of rechtspersoon, indien die wijziging reeds elders in het door haarzelf gehouden register is ingeschreven.
 
-2. Bij een inschrijving als bedoeld in het eerste lid vermeldt de Kamer zo mogelijk de dag waarop de wijziging is ingegaan.
+2. Bij algemene maatregel van bestuur kan worden bepaald dat de Kamer ambtshalve bevoegd is tot het inschrijven van wijzigingen van daarbij aangewezen gegevens waarvan de Kamer op andere wijze kennis heeft gekregen.
 
-3. De Kamer doet van een inschrijving als bedoeld in het eerste lid onverwijld schriftelijk mededeling aan degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is.
+3. Bij een inschrijving als bedoeld in het eerste en tweede lid vermeldt de Kamer zo mogelijk de dag waarop de wijziging is ingegaan.
+
+4. De Kamer doet van een inschrijving als bedoeld in het eerste en tweede lid onverwijld schriftelijk mededeling aan degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is.
 
 ##### Artikel 10
 
 1. Indien uit het bevolkingsregister blijkt dat degene aan wie een onderneming toebehoort of een andere in verband met de onderneming of rechtspersoon in het register ingeschreven persoon is overleden, is de Kamer ambtshalve bevoegd dit feit in het register in te schrijven.
 
-2. [Artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2010-10-10&g=2010-10-10), is op de inschrijving, bedoeld in het eerste lid, van overeenkomstige toepassing.
+2. [Artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-01-01&g=2022-01-01), is op de inschrijving, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 ## Openbaarheid en externe werking handelsregisterinzage, afschrift of uittreksel
 
@@ -153,73 +155,37 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 13
 
-Ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen gegevens of bescheiden beperkingen worden vastgesteld ten aanzien van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2010-10-10&g=2010-10-10).
+Ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen gegevens of bescheiden beperkingen worden vastgesteld ten aanzien van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 14
 
-1. Bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging en vervolgens jaarlijks na het jaar van inschrijving, zijn voor elke ingeschreven onderneming, rechtspersoon of nevenvestiging aan de Kamer verschuldigd, op grondslag van het in de onderneming, rechtspersoon of nevenvestiging aanwezige eigen vermogen, de door de Kamer vast te stellen bedragen, die nimmer minder dan de in de navolgende schalen genoemde minima, noch meer dan de in deze schalen genoemde maxima bedragen.
+1. Bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging en vervolgens jaarlijks na het jaar van inschrijving is voor elke ingeschreven onderneming, rechtspersoon of nevenvestiging een bijdrage verschuldigd, die niet voor elke Kamer hetzelfde hoeft te zijn.
 
-2. De in het eerste lid bedoelde minimum en maximum bedragen zijn bij een in de onderneming, rechtspersoon,of nevenvestiging per 1 januari aanwezige eigen vermogen van:
+2. De bijdrage, bedoeld in het eerste lid, wordt bij of krachtens algemene maatregel van bestuur vastgesteld. Hierbij kunnen regels worden gesteld over de verhouding naar rechtsvorm en grootte, niet zijnde het maatschappelijk kapitaal, in relatie tot de hoogte van de bijdrage tussen de verschillende ondernemingen en rechtspersonen.
 
-| Schaal | Meer dan | Doch niet meer dan | Voor de 1ste inschrijving minimaal | Voor de 1ste inschrijving maximaal | Jaarlijks minimaal | Jaarlijks maximaal |
-| --- | --- | --- | --- | --- | --- | --- |
-| Schaal 1 | USD 0,— | USD 8.379,89 | USD 41,90 | USD 83,80 | USD 41,90 | USD 83,80 |
-| Schaal 2 | USD 8.379,89 | USD 27.932,96 | USD 41,90 | USD 139,66 | USD 41,90 | USD 139,66 |
-| Schaal 3 | USD 27.932,96 | USD 41.899,44 | USD 41,90 | USD 195,53 | USD 41,90 | USD 195,53 |
-| Schaal 4 | USD 41.899,44 | USD 55.865,92 | USD 55,87 | USD 251,40 | USD 55,87 | USD 251,40 |
-| Schaal 5 | USD 55.865,92 | USD 83.798,88 | USD 69,83 | USD 279,33 | USD 69,83 | USD 279,33 |
-| Schaal 6 | USD 83.798,88 | USD 111.731,84 | USD 83,80 | USD 307,26 | USD 97,77 | USD 307,26 |
-| Schaal 7 | USD 111.731,84 | USD 279.329,61 | USD 139,66 | USD 418,99 | USD 111,73 | USD 418,99 |
-| Schaal 8 | USD 279.329,61 | USD 558.659,22 | USD 588,66 | USD 698,32 | USD 223,46 | USD 588,66 |
-| Schaal 9 | USD 558.659,22 | USD 1.117.318,44 | USD 588,66 | USD 698,32 | USD 279,33 | USD 588,66 |
-| Schaal 10 | USD 1.117.318,44 | USD 1.675.977,65 | USD 588,66 | USD 698,32 | USD 335,20 | USD 588,66 |
-| Schaal 11 | USD 1.675.977,65 | USD 2.234.636,87 | USD 588,66 | USD 837,99 | USD 418,99 | USD 698,32 |
-| Schaal 12 | USD 2.234.636,87 | USD 2.793.296,09 | USD 588,66 | USD 837,99 | USD 474,86 | USD 698,32 |
-| Schaal 13 | USD 2.793.296,09 |   | USD 588,66 | USD 837,99 | USD 588,66 | USD 698,32 |
+3. De bedragen voor de inschrijving zijn verschuldigd door degene aan wie de onderneming of nevenvestiging behoort. Behoort de onderneming of nevenvestiging aan meer dan een persoon, dan zijn deze ieder voor het geheel voor de voldoening aansprakelijk. Behoort de onderneming aan een rechtspersoon, dan zijn de bedragen voor de inschrijving door de rechtspersoon verschuldigd. De bedragen voor de inschrijving van een stichting, een stichting particulier fonds en een vereniging aan wie niet een onderneming toebehoort zijn verschuldigd door de stichting, de stichting particulier fonds en de vereniging. Bij ontbinding of omzetting in een buitenlandse rechtspersoon zijn respectievelijk de met vereffening belaste personen en de bestuurders hoofdelijk daarvoor aansprakelijk.
 
-3. Ter bepaling van de grondslag voor de toepassing van de schaal van het tweede lid, is degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is, gehouden aangifte te doen van het eigen vermogen van de onderneming, de rechtspersoon of nevenvestiging met uitzondering van de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=15&z=2010-10-10&g=2010-10-10) bedoelde ondernemingen, rechtspersonen, stichtingen, stichtingen particulier fonds en verenigingen.
+4. De Kamer kan degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is, ten hoogste eenmaal per jaar schriftelijk verzoeken aangifte te doen ten behoeve van de rangschikking van de onderneming. Een dergelijk verzoek wordt niet gedaan voordat een jaar is verstreken sinds de aangifte bij de inschrijving of, bij gebreke daarvan, sinds de inschrijving heeft plaatsgevonden.
 
-4. De bedragen voor de inschrijving zijn verschuldigd door degene aan wie de onderneming of nevenvestiging behoort. Behoort de onderneming of nevenvestiging aan meer dan een persoon, dan zijn deze ieder voor het geheel voor de voldoening aansprakelijk. Behoort de onderneming aan een rechtspersoon, dan zijn de bedragen voor de inschrijving door de rechtspersoon verschuldigd. De bedragen voor de inschrijving van een stichting, een stichting particulier fonds en een vereniging aan wie niet een onderneming toebehoort zijn verschuldigd door de stichting, de stichting particulier fonds en de vereniging. Bij ontbinding of omzetting in een buitenlandse rechtspersoon zijn respectievelijk de met vereffening belaste personen en de bestuurders hoofdelijk daarvoor aansprakelijk.
+5. De Kamer kan degene die een aangifte ten behoeve van de rangschikking heeft gedaan, schriftelijk verzoeken een nadere toelichting op die aangifte te verstrekken.
 
-5. De Kamer kan degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is, ten hoogste eenmaal per jaar schriftelijk verzoeken aangifte te doen ten behoeve van de rangschikking van de onderneming. Een dergelijk verzoek wordt niet gedaan voordat een jaar is verstreken sinds de aangifte bij de inschrijving of, bij gebreke daarvan, sinds de inschrijving heeft plaatsgevonden.
-
-6. De Kamer kan degene die een aangifte ten behoeve van de rangschikking heeft gedaan, schriftelijk verzoeken een nadere toelichting op die aangifte te verstrekken.
-
-7. Bij gebrek aan aangifte van het eigen vermogen bij de opgave tot inschrijving wordt het in de onderneming, rechtspersoon of nevenvestiging aanwezige eigen vermogen door de Kamer geschat; het geschatte bedrag geldt als grondslag voor de toepassing van de schaal in het tweede lid. Voor de later verschuldigde bedragen blijven degenen, die tot het doen van aangiften voor de inschrijving in het handelsregister zijn gehouden, bevoegd aangifte te doen van het in de onderneming, rechtspersoon of nevenvestiging aanwezige eigen vermogen.
-
-8. De Kamer geeft, in haar gebied, kennis aan belanghebbende van de bedragen verschuldigd ingevolge de voorgaande bepalingen, welke bedragen dan binnen een maand na dagtekening van de mededeling moeten zijn voldaan. Bij gebreke van betaling zijn van overeenkomstige toepassing de bepalingen die bij wanbetaling van de kohierbelastingen gelden.
+6. De Kamer geeft, in haar gebied, kennis aan belanghebbende van de bedragen verschuldigd ingevolge de voorgaande bepalingen, welke bedragen dan binnen een maand na dagtekening van de mededeling moeten zijn voldaan.
 
 ##### Artikel 15
 
-Stichtingen, stichtingen particulier fonds en verenigingen, aan wie niet een onderneming toebehoort als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=3&z=2010-10-10&g=2010-10-10), worden ingedeeld in schaal 4, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=14&z=2010-10-10&g=2010-10-10).
+Vervallen
 
 ##### Artikel 16
 
-Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd, zijn aan de Kamer maximaal verschuldigd de volgende door de Kamer vast te stellen bedragen:
-
-- a. voor het door middel van een internet verbinding inzien van het elektronische bestand: USD 139,66 per kalenderjaar voor abonnementskosten, vermeerderd met USD 0,08 per inschrijving en USD 0,06 per tijdseenheid van 1 minuut of gedeelte daarvan;
-
-- b. voor het telefonisch vragen van inlichtingen over hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd: USD 0,56 per tijdseenheid van 1 minuut of gedeelte daarvan;
-
-- c. voor het door middel van internet raadplegen van uittreksels uit het elektronisch bestand: USD 1,40 per uittreksel.
+Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd, zijn aan de Kamer de bij ministeriële regeling vast te stellen bedragen verschuldigd.
 
 ##### Artikel 17
 
-Voor het verstrekken van een afschrift van of uittreksel uit hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, zijn aan de Kamer verschuldigd de volgende door de Kamer maximaal vast te stellen bedragen:
-
-- a. voor fotokopieën: USD 0,56 voor de eerste bladzijde en USD 1,12 voor elke volgende bladzijde per inschrijving;
-
-- b. voor uittreksels: USD 11,17 voor ieder uittreksel;
-
-- c. voor een schriftelijke mededeling met betrekking tot hetgeen in het handelsregister is ingeschreven of daarbij is gedeponeerd: USD 8,38 per inschrijving;
-
-- d. voor het verstrekken van een overzicht van categorieën van in het handelsregister ingeschreven ondernemingen, rechtspersonen of nevenvestigingen, USD 0,56 per onderneming, rechtspersoon of nevenvestiging, met een minimum van USD 8,38 per overzicht;
-
-- e. voor het per brief, telefax, e-mail of andere wijze verstrekken van producten genoemd onder a, b, c en d: het tarief voor het desbetreffende product, vermeerderd met de kosten van verzending en betalingsverkeer.
+Voor het verstrekken van een afschrift van of een uittreksel uit hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, zijn aan de Kamer de bij ministeriële regeling vast te stellen bedragen verschuldigd.
 
 ##### Artikel 17a
 
-De bedragen genoemd in de [artikelen 11 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2010-10-10&g=2010-10-10) kunnen bij of krachtens algemene maatregel van bestuur worden bijgesteld telkens wanneer de prijsontwikkeling daartoe aanleiding geeft.
+Vervallen
 
 ##### Artikel 18
 
@@ -259,15 +225,7 @@ Alles wat betreft de inrichting van en het toezicht op het handelsregister, de o
 
 ##### Artikel 23
 
-1. Binnen drie maanden na de inwerkingtreding van deze wet schrijft de Kamer – voorzover deze niet reeds zijn ingeschreven – in het handelsregister in alle in het Stichtingenregister voorkomende gegevens als ware opgave gedaan overeenkomstig het handelsregisterbesluit.
-
-2. Overige opgaven ter inschrijving in het handelsregister en deponering van bescheiden ten kantore van het handelsregister, waartoe de verplichting ontstaat als gevolg van de inwerkingtreding van deze wet worden, voor zover betrekking hebbend op ondernemingen, rechtspersonen, waaronder verenigingen zonder volledige rechtsbevoegdheid, nevenvestigingen of persoonlijke gegevens, gedaan binnen een jaar na inwerkingtreding van deze wet, voor zover niet bij de Invoeringswet Boek 2 van het Burgerlijk Wetboek BES in een andere overgangstermijn is voorzien.
-
-3. Het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=19&z=2010-10-10&g=2010-10-10) geldt voor rechtspersonen die reeds bestaan bij het in werking treden van [Boek 2 BW BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744) eerst nadat twee jaren na inwerkingtreding van deze wet zijn verstreken. Tot dat tijdstip blijft voor deze rechtspersonen het voordien geldend recht van toepassing.
-
-4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=15&z=2010-10-10&g=2010-10-10) is voor wat betreft naamloze en besloten vennootschappen slechts van toepassing op die vennootschappen die opgericht zijn na 1 maart 2004, dan wel die na 1 maart 2004 hun statuten hebben gewijzigd.
-
-5. Alle opgaven gedaan door stichtingen en stichtingen particulier fonds bij de door de Kamer gehouden registers na 1 maart 2004 en de dag van inwerkingtreding van deze wet, en de inschrijvingen daarvan door de Kamer, worden geacht te zijn gedaan overeenkomstig de bepalingen van deze wet en de daarop rustende algemene maatregel van bestuur.
+Vervallen
 
 ##### Artikel 24
 
