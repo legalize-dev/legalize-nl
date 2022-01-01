@@ -4,7 +4,7 @@ identifier: "BWBR0036702"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-11-27"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036702"
 soort: "AMvB"
@@ -48,7 +48,7 @@ entry_into_force: "2022-01-01"
 
 ### Hoofdstuk II. Wooncoöperaties
 
-### Hoofdstuk VII. Toezicht op toegelaten instellingen en dochtermaatschappijen
+### Hoofdstuk II. Wooncoöperaties
 
 ### Hoofdstuk VIII. Verdere bepalingen inzake toegelaten instellingen
 
@@ -168,7 +168,11 @@ Hebben goedgevonden en verstaan:
 
 - –. **beleggingen:** door toegelaten instellingen of dochtermaatschappijen uitgezette middelen die tijdelijk niet benodigd zijn om aan hun lopende financiële verplichtingen te voldoen, met uitzondering van collegiale leningen en financiële derivaten;
 
-- –. **bewonersorganisaties:** in het belang van huurders van woongelegenheden van toegelaten instellingen werkzame huurdersorganisaties en bewonerscommissies als bedoeld in [artikel 1, eerste lid, onderdeel f respectievelijk g, van de Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&artikel=1);
+- –. **bewonersorganisaties:** in het belang van huurders van woongelegenheden van toegelaten instellingen werkzame huurdersorganisaties en bewonerscommissies;
+
+- –. **blijvend gereguleerd daeb-complex:** complex waarvan ten minste 10% van de woongelegenheden blijvend gereguleerde daeb-woongelegenheden zijn;
+
+- –. **blijvend gereguleerde daeb-woongelegenheid:** daeb-woongelegenheid die een blijvend gereguleerde woongelegenheid is;
 
 - –. **blijvend gereguleerde woongelegenheid:** woongelegenheid met een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=5) genoemde bedrag, waarvan de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), niet kan leiden tot een huurprijs die hoger is dan dat bedrag;
 
@@ -177,6 +181,8 @@ Hebben goedgevonden en verstaan:
 - –. **complex:** een verzameling van meer dan één in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, bouwkundig of anderszins een eenheid vormen;
 
 - –. **daeb-tak:** administratief afzonderlijk ingericht deel van de toegelaten instelling, dat werkzaamheden verricht die behoren tot de diensten van algemeen economisch belang;
+
+- –. **daeb-woongelegenheid:** woongelegenheid als bedoeld in [artikel 47, eerste lid, aanhef en onderdeel b, c of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47);
 
 - –. **financiële derivaten:**
 
@@ -195,8 +201,6 @@ Hebben goedgevonden en verstaan:
 - –. **gemengd complex:** complex waarvan zowel woongelegenheden deel uitmaken met betrekking tot welke de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), kan leiden tot een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, als woongelegenheden deel uitmaken met betrekking tot welke die waardering kan leiden tot een huurprijs die hoger is dan dat bedrag;
 
 - –. **gemengd geliberaliseerd complex:** gemengd complex waarin met betrekking tot minder dan 10% van de daarvan deel uitmakende woongelegenheden de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), kan leiden tot een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag;
-
-- –. **gemengd gereguleerd complex:** gemengd complex waarin met betrekking tot 10% of meer van de daarvan deel uitmakende woongelegenheden de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), kan leiden tot een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag;
 
 - –. **getaxeerd:** na een taxatie overeenkomstig bij ministeriële regeling te geven voorschriften opgenomen in een taxatierapport dat is opgesteld door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen, dan wel opgenomen in een document dat als ten minste even betrouwbaar kan worden beschouwd als een zodanig taxatierapport;
 
@@ -224,11 +228,19 @@ Hebben goedgevonden en verstaan:
 
 - –. **marktwaarde vrij van huur en gebruik:** prijs, die bij onderhandse verkoop bij aanbieding vrij van huur en gebruik en op de voor de onroerende zaak meest geschikte wijze, na de beste voorbereiding, door de meest biedende gegadigde zou zijn besteed;
 
-- –. **modelmatige marktwaarde:** waarde van een onroerende zaak in verhuurde staat, bepaald overeenkomstig het bepaalde bij en krachtens [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=6&artikel=31&z=2021-11-27&g=2021-11-27);
+- –. **modelmatige marktwaarde:** waarde van een onroerende zaak in verhuurde staat, bepaald overeenkomstig het bepaalde bij en krachtens [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=6&artikel=31&z=2022-01-01&g=2022-01-01);
+
+- –. **niet-daeb-complex:** complex waarvan minder dan 10% van de woongelegenheden daeb-woongelegenheden zijn;
 
 - –. **niet-daeb-tak:** administratief afzonderlijk ingericht deel van de toegelaten instelling, dat werkzaamheden verricht die niet behoren tot de diensten van algemeen economisch belang;
 
+- –. **niet-daeb-woongelegenheid:** woongelegenheid die niet een daeb-woongelegenheid is;
+
 - –. **payer swap:** renteswap van de partij die een vaste rente betaalt en een variabele rente ontvangt;
+
+- –. **potentieel te liberaliseren daeb-complex:** complex waarvan minder dan 10% van de woongelegenheden blijvend gereguleerde daeb-woongelegenheden zijn en ten minste 10% van de woongelegenheden daeb-woongelegenheden zijn;
+
+- –. **potentieel te liberaliseren daeb-woongelegenheid:** daeb-woongelegenheid die een potentieel te liberaliseren woongelegenheid is;
 
 - –. **potentieel te liberaliseren woongelegenheid:** woongelegenheid met een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, waarvan de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), kan leiden tot een huurprijs die hoger is dan dat bedrag;
 
@@ -258,7 +270,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Op het tijdstip van de oprichting van een wooncoöperatie bestaat de meerderheid van haar leden uit personen met een huishoudinkomen dat niet hoger is dan de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27).
+1. Op het tijdstip van de oprichting van een wooncoöperatie bestaat de meerderheid van haar leden uit personen met een huishoudinkomen dat niet hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01).
 
 2. De wooncoöperatie heeft bij haar oprichting een coöperatieplan, waarover met toegelaten instellingen overleg is gevoerd. Het coöperatieplan bevat in elk geval een regeling omtrent de wijze waarop de wooncoöperatie bijdraagt aan het onderhoud en het beheer van de woongelegenheden die door haar leden worden bewoond, en, indien de wooncoöperatie zich ten doel stelt aan dat onderhoud en beheer bij te dragen nadat haar leden de door hen bewoonde woongelegenheden in eigendom hebben verworven, een regeling omtrent het na haar oprichting door toegelaten instellingen aan hen vervreemden van die woongelegenheden.
 
@@ -272,7 +284,7 @@ De toegelaten instelling die een woongelegenheid aan een lid van de wooncoöpera
 
 ##### Artikel 4
 
-Een toegelaten instelling vervreemdt of sloopt geen woongelegenheden als bedoeld in [artikel 2, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=2&z=2021-11-27&g=2021-11-27), gedurende de eenmalige periode die aanvangt op het tijdstip van indiening van het verzoek, bedoeld in die volzin, en eindigt hetzij op het tijdstip van oprichting van de wooncoöperatie, hetzij zes maanden na die indiening ingeval de wooncoöperatie niet binnen die zes maanden is opgericht.
+Een toegelaten instelling vervreemdt of sloopt geen woongelegenheden als bedoeld in [artikel 2, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), gedurende de eenmalige periode die aanvangt op het tijdstip van indiening van het verzoek, bedoeld in die volzin, en eindigt hetzij op het tijdstip van oprichting van de wooncoöperatie, hetzij zes maanden na die indiening ingeval de wooncoöperatie niet binnen die zes maanden is opgericht.
 
 #### § 1. Toelating
 
@@ -304,83 +316,71 @@ Onze Minister beslist op het verzoek, bedoeld in [artikel 19, eerste lid, tweede
 
 2. Teneinde te voldoen aan [artikel 20, vijfde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=20) besteedt Onze Minister de netto-opbrengst van de verkoop aan subsidies als bedoeld in [artikel 57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57).
 
-#### § 3. Het aangaan van verbindingen
+#### § 2. Vereffening
 
 ##### Artikel 8
 
-1. Het verzoek om een goedkeuring als bedoeld in [artikel 21, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) gaat in elk geval vergezeld van:
-
-- a. een uiteenzetting waarin de toegelaten instelling aannemelijk maakt dat het voornemen om zich in de zin van [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) te verbinden met een andere rechtspersoon of vennootschap in het belang van de volkshuisvesting is;
-
-- b. de zienswijzen van de gemeenten waar de toegelaten instelling of die rechtspersoon of vennootschap feitelijk werkzaam is;
-
-- c. de statuten en reglementen of ontwerpstatuten en -reglementen van die rechtspersoon of vennootschap;
-
-- d. een overzicht van het door de toegelaten instelling verschafte eigen of vreemd vermogen aan elk van de op het tijdstip van indiening van dat verzoek met haar verbonden ondernemingen, en van de door haar aan of ten behoeve van elk van die ondernemingen op dat tijdstip verleende garanties;
-
-- e. het ondernemingsplan of voorgenomen ondernemingsplan van de betrokken rechtspersoon of vennootschap, waarin in elk geval haar werkzaamheden of voorgenomen werkzaamheden zijn opgenomen en waaruit blijkt welk aandeel haar werkzaamheden of voorgenomen werkzaamheden op het gebied van de volkshuisvesting hebben in het geheel van haar werkzaamheden of voorgenomen werkzaamheden;
-
-- f. het financieringsplan of voorgenomen financieringsplan met betrekking tot die rechtspersoon of vennootschap, waarin in elk geval is opgenomen welke partijen voor welk aandeel eigen of vreemd vermogen aan die rechtspersoon of vennootschap zullen verschaffen;
-
-- g. een overzicht en een analyse van de financiële situatie van de toegelaten instelling en die van de betrokken rechtspersoon of vennootschap op het tijdstip van indiening van dat verzoek, waaronder in elk geval de meest recente balans van de toegelaten instelling, hun liquiditeits- en solvabiliteitspositie, een aan die posities gerelateerde en naar baten en lasten gespecificeerde meerjarenanalyse van de door hen verwachte kasstromen, hun mogelijkheden tot het aangaan van financiële transacties ten behoeve van het kunnen verrichten van hun werkzaamheden en een analyse van hun leningportefeuille;
-
-- h. een overzicht van de potentieel te liberaliseren woongelegenheden van de toegelaten instelling, die zij voornemens is in de rechtspersoon of vennootschap onder te brengen;
-
-- i. indien van toepassing: de meest recente balans, winst- en verliesrekening en begroting van die rechtspersoon of vennootschap;
-
-- j. de mededeling, bedoeld in [artikel 21, tweede lid, tweede volzin, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) en
-
-- k. andere bescheiden die bijdragen aan een juist en volledig inzicht in de bedrijfsvoering of voorgenomen bedrijfsvoering en de financiering of voorgenomen financiering van die rechtspersoon of vennootschap.
-
-2. De toegelaten instelling doet het verzoek en de stukken, bedoeld in het eerste lid, aan Onze Minister toekomen.
-
-3. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
+Vervallen
 
 ##### Artikel 9
 
-1. Onze Minister keurt het zich verbinden, bedoeld in [artikel 21, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), niet goed, indien:
+1. Onze Minister keurt het zich verbinden, bedoeld in [artikel 21, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), niet goed, indien:
 
-- a. naar zijn oordeel sprake is van een uit dat zich verbinden voortvloeiend niet aanvaardbaar risico dat door de toegelaten instelling in de betrokken rechtspersoon of vennootschap in te brengen vermogen niet voor de volkshuisvesting bestemd blijft;
+- a. het aantal potentieel te liberaliseren woongelegenheden van de toegelaten instelling, die zij voornemens is in de rechtspersoon of vennootschap onder te brengen, waaronder mede worden begrepen zodanige woongelegenheden in gemengde geliberaliseerde complexen en waaronder niet worden begrepen andere woongelegenheden in zodanige complexen, hoger is dan 10% van het aantal zodanige woongelegenheden dat de toegelaten instelling op 31 december 2014 in eigendom had;
 
-- b. het aantal woongelegenheden, bedoeld in [artikel 8, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=8&z=2021-11-27&g=2021-11-27), waaronder mede worden begrepen zodanige woongelegenheden in gemengde geliberaliseerde complexen en waaronder niet worden begrepen andere woongelegenheden in zodanige complexen, hoger is dan 10% van het aantal zodanige woongelegenheden dat de toegelaten instelling op 31 december 2014 in eigendom had;
+- b. door dat zich verbinden strijdigheid zou ontstaan met [artikel 81, derde lid, eerste volzin, onverminderd de tweede, derde en vierde volzin van dat lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2022-01-01&g=2022-01-01);
 
-- c. door dat zich verbinden strijdigheid zou ontstaan met [artikel 81, derde lid, eerste volzin, onverminderd de tweede, derde en vierde volzin van dat lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2021-11-27&g=2021-11-27);
+- c. de verrekening tussen de betrokken rechtspersoon of vennootschap en de toegelaten instelling voor meer dan 60% geschiedt in de vorm van het inbrengen van kapitaal;
 
-- d. de verrekening tussen de betrokken rechtspersoon of vennootschap en de toegelaten instelling voor meer dan 60% geschiedt in de vorm van aandelen;
-
-- e. indien de toegelaten instelling in verband met dat onderbrengen een lening aan die rechtspersoon of vennootschap verstrekt: die lening:
+- d. indien de toegelaten instelling in verband met dat onderbrengen een lening aan die rechtspersoon of vennootschap verstrekt: die lening:
 
 - 1°. geen hypothecaire geldlening is of
 
-- 2°. niet voldoet aan het bepaalde bij en krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27) en in verband daarmee vierde lid, onverminderd het bepaalde bij en krachtens artikel 10, derde lid en in verband daarmee vierde lid.
+- 2°. niet voldoet aan het bepaalde bij en krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01) en in verband daarmee vierde lid, onverminderd het bepaalde bij en krachtens artikel 10, derde lid en in verband daarmee vierde lid;
 
-- f. indien het zich verbinden niet inhoudt dat toepassing wordt gegeven aan [artikel 50a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50a): de betrokken in het belang van de huurders van de woongelegenheden van de betrokken toegelaten instelling werkzame bewonersorganisaties niet met dat zich verbinden instemmen.
+- e. indien het voornemen bestaat zich te verbinden met een naamloze vennootschap als bedoeld in [artikel 64 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=64) of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in [artikel 175 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=175), de statuten van die naamloze of besloten vennootschap:
 
-2. Onze Minister betrekt bij zijn oordeel, bedoeld in het eerste lid, onderdeel a, in elk geval:
+- 1°. niet uitsluitend aandelen op naam kennen, geen blokkeringsregeling bevatten of toelaten dat met medewerking van de vennootschap certificaten aan toonder worden uitgegeven in het geval van een naamloze vennootschap en geen blokkeringsregeling bevatten in het geval van een besloten vennootschap;
+
+- 2°. bepalingen bevatten die afwijken van [artikel 89 lid 1 tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=89), [92 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=92), [105 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=105), [135 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=135), [198 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=198), [201 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=201) of [245 lid 1 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=245);
+
+- 3°. bepalingen bevatten als bedoeld in de [artikelen 192 lid 1 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=192) en [242 lid 1 eerste volzin van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=242);
+
+- 4°. niet bepalen dat de voorafgaande goedkeuring van de algemene vergadering van die naamloze of besloten vennootschap is vereist voor besluiten van haar bestuur over:
+
+- i. dienovereenkomstige aangelegenheden als die, bedoeld in [artikel 26, eerste lid, onderdelen c en i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=26);
+
+- ii. het oprichten van een dochtermaatschappij of het deelnemen in een rechtspersoon of vennootschap in de zin van [artikel 24c van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24c); of
+
+- iii. het verstrekken van een lening aan of het zich in enigerlei opzicht garant stellen voor een dochtermaatschappij of een rechtspersoon of vennootschap als bedoeld onder ii; of
+
+- 5°. niet bepalen, indien en zolang die naamloze of besloten vennootschap een dochtermaatschappij van de toegelaten instelling is, dat haar bestuur zich gedraagt naar de aanwijzingen van de algemene vergadering, welke bepaling in de statuten van die naamloze vennootschap kan worden beperkt tot aanwijzingen van die vergadering die de algemene lijnen van het te voeren beleid op nader in die statuten aangegeven terreinen betreffen.
+
+2. Onze Minister betrekt bij zijn oordeel, bedoeld in [artikel 21, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), in elk geval:
 
 - a. de geraamde solvabiliteit van de toegelaten instelling na een zich verbinden als bedoeld in dat lid;
 
 - b. de verhouding tussen het saldo van de operationele kasstromen en de rentelasten van de toegelaten instelling gedurende de eerste vijf jaren na een zich zodanig verbinden en
 
-- c. de meest recente beoordeling door de borgingsvoorziening van de kredietwaardigheid van de toegelaten instelling, indien zij leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), heeft aangetrokken.
+- c. de meest recente beoordeling door de borgingsvoorziening van de kredietwaardigheid van de toegelaten instelling, indien zij leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), heeft aangetrokken.
 
-3. Onze Minister kan op verzoek van de toegelaten instelling een hoger percentage dan dat, genoemd in het eerste lid, onderdeel b, vaststellen, indien:
+3. Onze Minister kan op verzoek van de toegelaten instelling een hoger percentage dan dat, genoemd in het eerste lid, onderdeel a, vaststellen, indien:
 
 - a. de toegelaten instelling bij dat verzoek aannemelijk heeft gemaakt dat toepassing van dat hogere percentage noodzakelijk is om haar financiële continuïteit of die van de betrokken rechtspersoon of vennootschap voldoende te waarborgen, of
 
 - b. aantoont dat toereikend toepassing gegeven kan worden aan [artikel 42, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=42) wat betreft haar werkzaamheden die diensten van algemeen economisch belang zijn.
 
-Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27) en in verband daarmee vierde lid, is van overeenkomstige toepassing.
+Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01) en in verband daarmee vierde lid, is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 10
 
-1. De financiële continuïteit, bedoeld in [artikel 21, tweede lid, tweede volzin, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), is niet voldoende gewaarborgd, indien Onze Minister van oordeel is dat de financiële middelen van de betrokken toegelaten instelling of rechtspersoon of vennootschap onvoldoende zullen blijken te zijn om hun voorgenomen werkzaamheden te kunnen verrichten.
+1. De financiële continuïteit, bedoeld in [artikel 21, eerste lid, tweede volzin, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), is niet voldoende gewaarborgd, indien Onze Minister van oordeel is dat de financiële middelen van de betrokken toegelaten instelling of rechtspersoon of vennootschap onvoldoende zullen blijken te zijn om hun voorgenomen werkzaamheden te kunnen verrichten.
 
-2. Een lening als bedoeld in [artikel 21, tweede lid, tweede volzin, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21):
+2. Een lening als bedoeld in [artikel 21, eerste lid, tweede volzin, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21):
 
-- a. heeft een rentepercentage dat gelijk is aan de op het tijdstip van indiening van het verzoek om een goedkeuring als bedoeld in [artikel 21, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) geldende rente op tienjarige staatsleningen, vermeerderd met een bij ministeriële regeling te bepalen percentage, en
+- a. heeft een rentepercentage dat gelijk is aan de op het tijdstip van indiening van het verzoek om een goedkeuring als bedoeld in [artikel 21, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) geldende rente op tienjarige staatsleningen, vermeerderd met een bij ministeriële regeling te bepalen percentage, en
 
 - b. wordt binnen vijftien jaar afgelost in liquide middelen en zodanig, dat na vijf en tien jaar ten minste een derde respectievelijk twee derde deel is afgelost.
 
@@ -410,13 +410,13 @@ Onze Minister willigt een verzoek als bedoeld in [artikel 21, vijfde lid, van de
 
 - 4°. de verbonden onderneming na kwijtschelding van de schulden wordt ontbonden;
 
-- b. het verstrekken van vermogen plaatsvindt bij het bewerkstelligen van een administratieve scheiding of juridische scheiding als bedoeld in [Hoofdstuk IV, Afdeling 3, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&paragraaf=4), onderscheidenlijk [paragraaf 5, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&paragraaf=5) aan een dochtermaatschappij en het verschaffen van vermogen voor maximaal 60% geschiedt in de vorm van aandelen.
+- b. het verstrekken van vermogen plaatsvindt bij het bewerkstelligen van een administratieve scheiding of juridische scheiding als bedoeld in [Hoofdstuk IV, Afdeling 3, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&paragraaf=4), onderscheidenlijk [paragraaf 5, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&paragraaf=5) aan een dochtermaatschappij en het verschaffen van vermogen voor maximaal 60% geschiedt in de vorm van het inbrengen van kapitaal.
 
 2. Naast de gevallen, bedoeld in het eerste lid, kan Onze Minister uitsluitend een ontheffing als bedoeld in [artikel 21a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a) verlenen, indien dat naar zijn oordeel noodzakelijk is:
 
 - a. om te voorkomen dat de toegelaten instelling gehouden is om schulden van de betrokken verbonden onderneming te voldoen;
 
-- b. ten behoeve van de herfinanciering van leningen die bestonden op het tijdstip waarop [artikel I van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=I) in werking is getreden, of
+- b. ten behoeve van de herfinanciering van leningen die bestonden op 1 juli 2015, of
 
 - c. ten behoeve van de herfinanciering van leningen die bestaan op het tijdstip waarop een juridische scheiding wordt bewerkstelligd.
 
@@ -440,9 +440,9 @@ Onze Minister willigt een verzoek als bedoeld in [artikel 21, vijfde lid, van de
 
 3. Bij ministeriële regeling kunnen andere daarbij te bepalen categorieën van instellingen worden aangewezen, indien zonder die aanwijzing het aangaan van financiële transacties door toegelaten instellingen op een wijze zou worden belemmerd die strijdig is met het belang van de volkshuisvesting.
 
-4. Het percentage, bedoeld in [artikel 21c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21c), is 50.
+4. Het percentage, bedoeld in [artikel 21c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21c), is 70.
 
-5. De eisen ten aanzien van de rating, bedoeld in het eerste lid, onderdelen b en c, en het tweede lid, onderdelen a en b, zijn niet van toepassing voor een bank die een volledige dochtermaatschappij is van een bank die aan die eisen voldoet en ten aanzien waarvan die bank een schriftelijk verklaring als bedoeld in [artikel 403 lid 1 onder f van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) heeft afgegeven.
+5. De eisen ten aanzien van de rating, bedoeld in het eerste lid, onderdelen b en c, en het tweede lid, onderdelen a en b, zijn niet van toepassing voor een bank die een volledige dochtermaatschappij is van een bank die aan die eisen voldoet en ten aanzien waarvan die bank een schriftelijke verklaring als bedoeld in [artikel 403 lid 1 onder f van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) heeft afgegeven.
 
 #### § 4. Verdere algemene bepalingen inzake toegelaten instellingen
 
@@ -458,41 +458,41 @@ Onze Minister willigt een verzoek als bedoeld in [artikel 21, vijfde lid, van de
 
 ##### Artikel 15
 
-Onze Minister betrekt bij een besluit tot het nemen waarvan hij ingevolge de wet of dit besluit bevoegd is, behalve de op grond van de bij de wet of in het bepaalde bij of krachtens dit besluit gegeven daarop betrekking hebbende voorschriften, de daarover uitgebrachte zienswijzen en adviezen en de uitkomsten van daarover gevoerd overleg. Hij kan daarnaast bij die besluiten het belang van de volkshuisvesting betrekken, indien dat naar zijn oordeel naast die voorschriften, zienswijzen, adviezen of uitkomsten in het geding is.
+Vervallen
 
 ##### Artikel 16
 
-1. De inkomensgrens in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) is:
-
-- a. € 40.024 ten aanzien van ten minste 80% van haar woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), en
-
-- b. tot 1 januari 2022: € 44.655 ten aanzien van een zodanig percentage van haar zodanige woongelegenheden, dat wordt voldaan aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), waarbij, indien van toepassing, het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2021-11-27&g=2021-11-27) vastgestelde percentage in aanmerking wordt genomen.
+1. De inkomensgrens, bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), is € 40.765. In afwijking van de eerste volzin is de inkomensgrens, bedoeld in artikel 1, eerste lid, van de wet tot 1 januari 2025 voor een meerpersoonshuishouden als bedoeld in [artikel 2, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2) € 45.014.
 
 2. De bedragen, genoemd in het eerste lid, worden met ingang van elk kalenderjaar bij ministeriële regeling gewijzigd met het percentage waarmee per gelijke datum het in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=18) genoemde bedrag wordt gewijzigd. De bedragen, genoemd in de in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a) bedoelde ministeriële regeling, worden met ingang van elk kalenderjaar, voor het eerst op 1 januari 2017, bij ministeriële regeling vervangen door de bedragen zoals die op 1 januari van het daaraan voorafgaande jaar overeenkomstig de eerste volzin zijn gewijzigd.
 
 ##### Artikel 17
 
-Bij ministeriële regeling kunnen regels worden gesteld met het oog op de toepassing van de [artikelen 21a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a), en [47, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), [artikel II, tiende lid, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), en de [artikelen 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=63&z=2021-11-27&g=2021-11-27), en [69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2021-11-27&g=2021-11-27), en kunnen stukken worden aangewezen uit welke blijkt dat de toegelaten instelling beoogt een aanvang met bepaalde werkzaamheden te maken.
+Bij ministeriële regeling kunnen regels worden gesteld met het oog op de toepassing van de [artikelen 21a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a), en [47, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), en de [artikelen 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=63&z=2022-01-01&g=2022-01-01), en [69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2022-01-01&g=2022-01-01), en kunnen stukken worden aangewezen uit welke blijkt dat de toegelaten instelling beoogt een aanvang met bepaalde werkzaamheden te maken.
 
 #### § 5. Bepalingen inzake de borgingsvoorziening
 
 ##### Artikel 18
 
-1. Op verzoek van Onze Minister verstrekt het bestuur van de borgingsvoorziening hem inlichtingen over haar werkzaamheden ten aanzien van het door toegelaten instellingen aantrekken van leningen, voor zover dat naar zijn oordeel in verband met het door de Staat der Nederlanden faciliteren van de borgingsvoorziening noodzakelijk is.
+1. De zienswijze, bedoeld in [artikel 59b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59b), heeft in elk geval betrekking op:
 
-2. Het bestuur van de borgingsvoorziening doet onverwijld aan Onze Minister mededeling van alle feiten en omstandigheden waarvan het voor het bestuur redelijkerwijs duidelijk zou moeten zijn dat zij van belang zijn in verband met het door de Staat der Nederlanden faciliteren van de borgingsvoorziening.
+- a. de geschiktheid van de beoogde bestuurder of commissaris, blijkend uit diens opleiding, diens werkervaring en vakinhoudelijke kennis en diens competenties; en
+
+- b. de betrouwbaarheid van de beoogde bestuurder of commissaris, blijkend uit diens handelen of nalaten of voornemens daartoe, een door de beoogde bestuurder of commissaris verkregen verklaring omtrent zijn gedrag, als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), en uit de antecedenten, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=1&z=2022-01-01&g=2022-01-01) bij dit besluit.
+
+2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent het uitbrengen van de zienswijze en voorschriften worden gegeven omtrent de door de toegelaten instelling aan Onze Minister te verstrekken inlichtingen ten behoeve van het opstellen van die zienswijze.
 
 ### Hoofdstuk IV. Rechtsvorm en organisatie van toegelaten instellingen
 
-#### § 1. Voorschriften omtrent de geschiktheid van personen voor het lidmaatschap van het bestuur en de raad van toezicht, en de betrouwbaarheid van die personen
+#### § 5. Bepalingen inzake de borgingsvoorziening
 
 ##### Artikel 19
 
 1. De zienswijze, bedoeld in de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=25), en [30, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=30), heeft in elk geval betrekking op:
 
-- a. de geschiktheid van de beoogde bestuurder of commissaris, blijkend uit diens opleiding, diens werkervaring vakinhoudelijke kennis en de competenties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=1&z=2021-11-27&g=2021-11-27) bij dit besluit, en
+- a. de geschiktheid van de beoogde bestuurder of commissaris, blijkend uit diens opleiding, diens werkervaring en vakinhoudelijke kennis en diens competenties, en
 
-- b. de betrouwbaarheid van de beoogde bestuurder of commissaris, blijkend uit diens handelen of nalaten of voornemens daartoe en uit de antecedenten, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2021-11-27&g=2021-11-27) bij dit besluit.
+- b. de betrouwbaarheid van de beoogde bestuurder of commissaris, blijkend uit diens handelen of nalaten of voornemens daartoe, een door de beoogde bestuurder of commissaris verkregen verklaring omtrent zijn gedrag, als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), en uit de antecedenten, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=1&z=2022-01-01&g=2022-01-01) bij dit besluit.
 
 2. Onze Minister betrekt bij zijn zienswijze de aard en zwaarte van de functie waarvoor de beoogde bestuurder of commissaris in aanmerking wordt gebracht, en de aard en de omvang van de werkzaamheden van de toegelaten instelling.
 
@@ -518,119 +518,117 @@ Vervallen
 
 ##### Artikel 22
 
-Voor de toepassing van deze paragraaf wordt ten aanzien van een onroerende zaak, vanaf het tijdstip dat die zaak voorwerp wordt van een besluit tot vervreemding daarvan als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27) tot het tijdstip dat daaropvolgende vervreemdingen van die zaak geen gevolgen voor de bij dat besluit of die vervreemdingen betrokkenen meer kunnen hebben, door die betrokkenen steeds uitgegaan van hetzij de getaxeerde marktwaarde van die zaak, hetzij de WOZ-waarde van die zaak, in de gevallen dat die keuze blijkens deze paragraaf mogelijk wordt gemaakt.
+1. De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), is niet vereist voor:
+
+- a. de vervreemding van woongelegenheden of complexen met woongelegenheden, indien het een vervreemding betreft:
+
+- 1°. aan een toegelaten instelling;
+
+- 2°. aan een natuurlijk persoon voor eigen gebruik:
+
+- i. tegen een prijs van ten minste 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde; of
+
+- ii. tegen een prijs tussen de 50% en 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde en de bij ministeriële regeling bepaalde voorwaarden;
+
+- b. de vervreemding van onroerende zaken, anders dan woongelegenheden en complexen met woongelegenheden, indien:
+
+- 1°. het een verhuurd gebouw met een maatschappelijke gebruiksbestemming als bedoeld in artikel 45, tweede lid, onderdeel d, van de wet, betreft of een verhuurd gebouw met een zorgfunctie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2022-01-01&g=2022-01-01) bij dit besluit, dat functioneel een eenheid vormt met woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), dat wordt vervreemd aan:
+
+- i. een toegelaten instelling; of
+
+- ii. degene die het direct voorafgaand aan die vervreemding huurde;
+
+- 2°. het een onroerende zaak, anders dan een verhuurd gebouw, bedoeld onder 1°, betreft;
+
+- c. de vestiging van een recht van erfpacht, opstal of vruchtgebruik op een andere gebouwde onroerende zaak dan een woongelegenheid, een gebouw dat een maatschappelijke gebruiksbestemming als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), heeft of op onbebouwde grond, of overdracht van de economische eigendom van een zodanige onroerende zaak;
+
+- d. de vestiging van een recht van opstal of vruchtgebruik op een woongelegenheid of op een zaak die zich in of nabij een woongelegenheid bevindt, in bij ministeriële regeling bepaalde gevallen.
+
+2. In de ministeriële regeling als bedoeld in het eerste lid, onderdeel a, onder 2°, onder ii, kunnen voorwaarden worden verbonden aan de deling van de waardeontwikkeling tussen de toegelaten instelling en de verkrijger, waarbij onderscheid kan worden gemaakt tussen personen met een huishoudinkomen van ten hoogste € 45.482,– en personen met een huishoudinkomen hoger dan dat bedrag. Dit bedrag wordt met ingang van elk kalenderjaar bij ministeriële regeling gewijzigd met het percentage waarmee per gelijke datum het in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=18) genoemde bedrag wordt gewijzigd.
+
+3. Vervreemdingen waarvoor geen goedkeuring is vereist op grond van het eerste lid, onderdelen a, onder 1°, b, onder 1°, subonderdeel i of 2°, vinden, indien aan een toegelaten instelling wordt vervreemd, plaats tegen een bij ministeriële regeling bepaalde waarde, tenzij de toegelaten instelling het noodzakelijk acht een andere prijs te hanteren, in welk geval zij dit verantwoordt in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36).
+
+4. De toegelaten instelling verantwoordt in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), een vervreemding waarvoor geen goedkeuring is vereist op grond van het eerste lid, onderdeel b, onder 1°, subonderdeel ii, of onder 2°, indien die vervreemding plaatsvindt tegen een prijs die lager is dan de getaxeerde marktwaarde.
 
 ##### Artikel 23
 
-1. Voor de toepassing van deze paragraaf wordt onder vervreemding onder voorwaarden verstaan de vervreemding van een woongelegenheid voor eigen gebruik tegen een prijs van minder dan 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde:
+1. Het verzoek, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), betreffende de vervreemding van blijvend gereguleerde daeb-woongelegenheden of blijvend gereguleerde daeb-complexen, aan natuurlijke personen niet voor eigen gebruik of aan rechtspersonen, niet zijnde andere toegelaten instellingen, gaat vergezeld van:
 
-- a. tegen een prijs van ten minste 50% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde en
+- a. een uiteenzetting van het belang van de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
 
-- b. onder een van de bij ministeriële regeling bepaalde bedingen of combinaties van bedingen inzake de opvolgende vervreemding van de woongelegenheid, de wijze van bepaling van de financiële gevolgen van die vervreemding en de toerekening daarvan aan de toegelaten instelling of haar rechtsopvolger en de verkrijgende natuurlijke persoon of diens erfopvolger.
+- b. de ontwerpkoopovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten, met daarin het beding dat die woongelegenheid of de van dat complex deel uitmakende woongelegenheden ten minste zeven jaar na de eigendomsoverdracht als gevolg van de vervreemding voor verhuur bestemd blijven;
 
-2. Voor de toepassing van deze paragraaf wordt onder vervreemding onder voorwaarden tevens verstaan een vervreemding van een woongelegenheid voor eigen gebruik:
+- c. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger, tenzij deze een dochtermaatschappij van de vervreemdende toegelaten instelling is;
 
-- a. tegen een prijs van ten minste 75% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde;
+- d. de zienswijze van de gemeente waar die woongelegenheid of dat complex is gelegen en van de betrokken bewonersorganisatie;
 
-- b. indien die persoon een huishoudinkomen heeft van ten hoogste € 44.655, vastgesteld aan de hand van aan de toegelaten instelling te verstrekken gegevens overeenkomstig bij ministeriële regeling te geven voorschriften en
+- e. een verklaring van de beoogde verkrijger dat hij zich als een sociale verhuurder zal gedragen; en
 
-- c. onder een beding als bedoeld in het bepaalde bij en krachtens het eerste lid, onderdeel b.
+- f. de getaxeerde marktwaarde van die woongelegenheid of dat complex.
 
-3. Het bedrag, genoemd in het tweede lid, onderdeel b, wordt met ingang van elk kalenderjaar bij ministeriële regeling gewijzigd met het percentage waarmee per gelijke datum het in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=18) genoemde bedrag wordt gewijzigd.
+2. Het verzoek gaat, tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is, tevens vergezeld van bescheiden waaruit blijkt dat:
+
+- a. bij een verhuurde woongelegenheid die een zelfstandige woning, bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234), is: dat deze gedurende ten minste vier weken te koop is aangeboden aan de huurder tegen een prijs van ten hoogste de marktwaarde vrij van huur en gebruik;
+
+- b. bij een woongelegenheid of complex: dat deze gedurende ten minste vier weken te koop is aangeboden aan andere toegelaten instellingen; en
+
+- c. bij een woongelegenheid of complex: dat deze gedurende ten minste vier weken in het openbaar te koop is aangeboden aan elke gegadigde, tenzij de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt.
+
+3. Uit de bescheiden, bedoeld in het tweede lid, volgen, voor zover van toepassing, de afwegingen die ertoe hebben geleid dat niet achtereenvolgens aan de huurder of andere toegelaten instellingen is vervreemd.
 
 ##### Artikel 24
 
-De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), is niet vereist, voor zover het betrokken besluit van het bestuur betreft:
+1. Onze Minister kan besluiten om een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), niet goed te keuren, indien:
 
-- a. de vervreemding van een woongelegenheid aan een toegelaten instelling;
+- a. indien van toepassing: de verklaring omtrent het gedrag, bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger of begunstigde, of de verklaring, bedoeld in [artikel 23, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23&z=2022-01-01&g=2022-01-01), niet is overgelegd, en, in geval van een vervreemding, indien en zolang [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=4&z=2022-01-01&g=2022-01-01) van toepassing is.
 
-- b. de vervreemding van een woongelegenheid voor eigen gebruik tegen ten minste 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde;
+- b. het belang van de volkshuisvesting naar zijn oordeel beter is gediend met het niet nemen van een zodanig besluit ten aanzien van de betrokken onroerende zaak of het nemen van een zodanig besluit ten aanzien van die zaak, waarbij de verkrijger of de begunstigde een ander is dan de blijkens het ter goedkeuring voorgelegde besluit beoogde verkrijger of begunstigde;
 
-- c. een vervreemding onder voorwaarden als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23&z=2021-11-27&g=2021-11-27);
+- c. dat besluit er naar zijn oordeel toe zou leiden dat de financiële continuïteit van de toegelaten instelling niet voldoende is gewaarborgd; of
 
-- d. de vervreemding van een gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), indien die vervreemding plaatsvindt:
+- d. de betrokken over te leggen bescheiden niet zijn overgelegd of onjuist zijn, of indien een overgelegde andere verklaring of een overgelegde zienswijze daartoe naar zijn oordeel aanleiding geeft.
 
-- 1°. aan een toegelaten instelling, of
+2. Onze Minister kan besluiten om een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27) niet goed te keuren, bij vervreemding van:
 
-- 2°. aan degene die het direct voorafgaand aan die vervreemding huurde indien de vervreemding plaatsvindt tegen een prijs van ten minste de getaxeerde leegwaarde of de WOZ-waarde;
+- a. een blijvend gereguleerde daeb-woongelegenheid of een blijvend gereguleerd daeb-complex, indien:
 
-- e. de vervreemding van een andere onroerende zaak dan een woongelegenheid of een gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) of
+- 1°. deze wordt vervreemd tegen een prijs die lager is dan de getaxeerde marktwaarde; of
 
-- f. de vestiging van een recht van erfpacht, opstal of vruchtgebruik op een andere gebouwde onroerende zaak dan een woongelegenheid, een gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), of op onbebouwde grond, of overdracht van de economische eigendom van een zodanige onroerende zaak;
+- 2°. deze wordt vervreemd zonder het beding dat die woongelegenheid of de van dat complex deel uitmakende woongelegenheden ten minste zeven jaar na de eigendomsoverdracht als gevolg van die vervreemding voor verhuur bestemd blijven.
 
-- g. de vestiging van een recht van opstal of vruchtgebruik op een woongelegenheid of op een zaak die zich in of nabij een woongelegenheid bevindt, in bij ministeriële regeling bepaalde gevallen.
+- b. een potentieel te liberaliseren daeb-woongelegenheid of potentieel te liberaliseren daeb-complex, indien deze wordt vervreemd tegen een prijs die lager is dan de getaxeerde marktwaarde.
+
+- c. een niet-daeb-woongelegenheid of niet-daeb-complex, indien deze wordt vervreemd tegen een prijs die lager is dan de getaxeerde marktwaarde.
+
+- d. een verhuurd gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), of een verhuurd gebouw met een zorgfunctie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2022-01-01&g=2022-01-01) bij dit besluit dat functioneel een eenheid vormt met woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), indien deze wordt vervreemd tegen een prijs die lager is dan de getaxeerde marktwaarde.
+
+3. In afwijking van het eerste en tweede lid keurt Onze Minister een verzoek om een goedkeuring omtrent de vervreemding van een gebouw dat de status heeft van rijksmonument als bedoeld in [artikel 1.1. van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1), of de status heeft van monument op grond van een provinciale of gemeentelijke verordening, goed, indien het wordt vervreemd:
+
+- a. aan een rechtspersoon met de status van professionele organisatie voor monumentenbehoud;
+
+- b. tegen een prijs van ten minste de getaxeerde waarde die zij met behoud van haar huidige bestemming vertegenwoordigt; en
+
+- c. onder het beding dat zij gedurende ten minste zeven jaar na de eigendomsoverdracht als gevolg van die vervreemding voor verhuur bestemd blijft.
+
+4. Onze Minister kan het bepaalde bij of krachtens het eerste en tweede lid buiten toepassing laten, of bepalen dat het door de toegelaten instelling overleggen van bescheiden waaruit blijkt dat een aanbieding aan de huurder als bedoeld in het [tweede lid, onderdeel a, van de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23&z=2022-01-01&g=2022-01-01) of [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23c&z=2022-01-01&g=2022-01-01) heeft plaatsgevonden niet vereist is, indien ten aanzien van de betrokken toegelaten instelling een situatie als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29), of [57, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), van toepassing is.
+
+5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het tweede en vierde lid.
 
 ##### Artikel 25
-
-1. Het verzoek om een goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27) gaat vergezeld van:
-
-- a. een uiteenzetting van het belang voor de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
-
-- b. in geval van een vervreemding: de ontwerpkoopovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten en
-
-- c. een verklaring als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) omtrent het gedrag van de beoogde verkrijger of begunstigde.
-
-2. In geval van vervreemding van een woongelegenheid voor eigen gebruik gaat het verzoek tevens vergezeld van de marktwaarde vrij van huur en gebruik of de WOZ-waarde van de woongelegenheid.
-
-3. In geval van vervreemding van een woongelegenheid niet voor eigen gebruik, of aan een andere rechtspersoon dan een toegelaten instelling, of in geval van vervreemding van een gemengd complex, gaat het verzoek tevens vergezeld van:
-
-- a. de zienswijze van de gemeente waar die woongelegenheid of dat complex is gelegen en van de betrokken bewonersorganisatie;
-
-- b. een verklaring van de beoogde verkrijger dat hij zich als een sociale verhuurder zal gedragen;
-
-- c. de getaxeerde marktwaarde of de WOZ-waarde van die woongelegenheid of dat complex, en
-
-- d. tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is:
-
-- 1°. bescheiden waaruit blijkt dat die woongelegenheid, indien zij verhuurd is, allereerst gedurende ten minste vier weken te koop is aangeboden aan de huurder tegen een prijs van ten hoogste de marktwaarde vrij van huur en gebruik of de WOZ-waarde en
-
-- 2°. bescheiden waaruit blijkt dat die woongelegenheid of dat complex vervolgens gedurende ten minste vier weken te koop is aangeboden aan toegelaten instellingen en, behoudens in het geval dat de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt, in het openbaar, aan elke andere gegadigde in Nederland, waarbij bij interesse voorrang is gegeven aan andere toegelaten instellingen.
-
-4. In geval van vervreemding van een gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), gaat het verzoek tevens vergezeld van:
-
-- a. de zienswijze van de gemeente waar dat gebouw is gelegen en, indien dat gebouw verhuurd is, van de huurder;
-
-- b. de getaxeerde marktwaarde of de WOZ-waarde van dat gebouw, en
-
-- c. tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is:
-
-- 1°. bescheiden waaruit blijkt dat het gebouw, indien het verhuurd is, gedurende ten minste vier weken te koop is aangeboden aan de huurder en
-
-- 2°. tenzij de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt, bescheiden waaruit blijkt dat dat gebouw gedurende ten minste vier weken, in het openbaar, te koop is aangeboden aan elke gegadigde in Nederland.
-
-5. In geval van vervreemding van een andere onroerende zaak dan die, genoemd in het tweede tot en met vierde lid, van vestiging van een recht van erfpacht, opstal of vruchtgebruik op een onroerende zaak of van overdracht van de economische eigendom van een onroerende zaak gaat het verzoek tevens vergezeld van de zienswijze van de gemeente waar die onroerende zaak is gelegen en de bij ministeriële regeling bepaalde andere zienswijzen.
-
-6. Het verzoek, bedoeld in het eerste lid, wordt ingediend met gebruikmaking van een door Onze Minister beschikbaar te stellen formulier. Onze Minister bevestigt binnen twee weken de ontvangst van een zodanig verzoek.
-
-7. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de bij een verzoek om een goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27) over te leggen gegevens.
-
-##### Artikel 26
-
-1. Onze Minister keurt een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), uitsluitend goed, indien:
-
-- a. in geval van vervreemding van een blijvend gereguleerde woongelegenheid niet voor eigen gebruik of van een gemengd gereguleerd complex: die woongelegenheid of dat complex wordt vervreemd tegen een prijs van ten minste de getaxeerde marktwaarde of de WOZ-waarde en onder het beding dat die woongelegenheid of de van dat complex deel uitmakende woongelegenheden ten minste zeven jaar na de eigendomsoverdracht als gevolg van die vervreemding voor verhuur bestemd blijven;
-
-- b. in geval van vervreemding van een geliberaliseerde of potentieel te liberaliseren woongelegenheid niet voor eigen gebruik, van een gemengd geliberaliseerd complex, of van een gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45): die woongelegenheid, dat complex of dat gebouw wordt vervreemd tegen een prijs van ten minste de getaxeerde marktwaarde of de WOZ-waarde.
-
-2. Onze Minister keurt een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27) niet goed, indien de verklaring, bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) omtrent het gedrag van de beoogde verkrijger of begunstigde, of de verklaring, bedoeld in [artikel 25, derde lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), niet is overgelegd, en, in geval van een vervreemding, indien en zolang [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=4&z=2021-11-27&g=2021-11-27) van toepassing is. Hij kan voorts besluiten een besluit als bedoeld in artikel 27, eerste lid, aanhef en onderdeel a, van de wet niet goed te keuren, indien:
-
-- a. het belang van de volkshuisvesting naar zijn oordeel beter is gediend met het niet nemen van een zodanig besluit ten aanzien van de betrokken onroerende zaak of het nemen van een zodanig besluit ten aanzien van die zaak, waarbij de verkrijger of de begunstigde een ander is dan de blijkens het ter goedkeuring voorgelegde besluit beoogde verkrijger of begunstigde;
-
-- b. dat besluit er naar zijn oordeel toe zou leiden dat de financiële continuïteit van de toegelaten instelling niet voldoende is gewaarborgd of
-
-- c. de betrokken over te leggen bescheiden niet zijn overgelegd of onjuist zijn, of indien een overgelegde andere verklaring, of een overgelegde zienswijze daartoe naar zijn oordeel aanleiding geeft.
-
-3. Onze Minister kan het bepaalde bij of krachtens het eerste en tweede lid buiten toepassing laten, of bepalen dat het door de toegelaten instelling overleggen van bescheiden waaruit blijkt dat een aanbieding aan de huurder als bedoeld in [artikel 25, derde lid, onderdeel d, onder 1° of onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), heeft plaatsgevonden niet vereist is, indien ten aanzien van de betrokken toegelaten instelling een situatie als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29) of [57, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) van toepassing is.
-
-4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het tweede en derde lid.
-
-##### Artikel 27
 
 1. Onze Minister beslist binnen twaalf weken na ontvangst daarvan op een verzoek om goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), welke termijn hij, door schriftelijke kennisgeving daarvan aan de toegelaten instelling binnen die termijn, eenmalig kan verlengen met een door hem daarbij te bepalen termijn van ten hoogste twee weken.
 
 2. Onze Minister kan, indien hij toepassing geeft aan [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), de in het eerste lid genoemde termijn of ingevolge dat lid verlengde termijn schorsen totdat het advies, bedoeld in artikel 27, derde lid, van de wet, is uitgebracht. Hij geeft binnen die termijn schriftelijk kennis van een zodanige schorsing aan de betrokken toegelaten instelling.
 
-#### § 3. Goedkeuring door Onze Minister van besluiten van het bestuur als bedoeld in [artikel 27, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27)
+##### Artikel 26
+
+Vervallen
+
+##### Artikel 27
+
+Vervallen
+
+#### § 2. Goedkeuring door de raad van commissarissen van besluiten van het bestuur
 
 ##### Artikel 28
 
@@ -648,11 +646,11 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 3. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid, onderdelen a en b.
 
-#### § 5. Bepalingen in verband met de taakvervulling door de raad van toezicht
+#### § 3. Goedkeuring door Onze Minister van besluiten van het bestuur als bedoeld in [artikel 27, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27)
 
 ##### Artikel 29
 
-1. Voor zover het bestuur van de toegelaten instelling Onze minister niet reeds schriftelijk mededeling heeft gedaan omtrent de aan deze werkzaamheden ten grondslag liggende omstandigheden, stelt de raad van commissarissen Onze Minister schriftelijk op de hoogte van zijn werkzaamheden ter uitoefening van zijn taak:
+1. Voor zover het bestuur van de toegelaten instelling Onze Minister niet reeds schriftelijk mededeling heeft gedaan omtrent de aan deze werkzaamheden ten grondslag liggende omstandigheden, stelt de raad van commissarissen Onze Minister schriftelijk op de hoogte van zijn werkzaamheden ter uitoefening van zijn taak:
 
 - a. indien naar zijn oordeel of dat van Onze Minister sprake is van door de betrokken toegelaten instelling berokkende schade of mogelijke schade aan het belang van de volkshuisvesting die zij niet binnen een afzienbare termijn kan herstellen respectievelijk voorkomen;
 
@@ -712,17 +710,11 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 2. Voor de toepassing van de [afdelingen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=13) en [16 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=16) op de jaarrekening, bedoeld in [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), en het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), wordt in die afdelingen:
 
-- a. in [artikel 362 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) voor «artikel 393» gelezen «[artikel 37 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37)»;
+- a. in [artikel 379 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=379) voor «leden 1 tot en met 7» gelezen «leden 1, 2, 3, 6 en 7»;
 
-- b. in [artikel 379 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=379) voor «leden 1 tot en met 7» gelezen «leden 1, 2, 3, 6 en 7»;
+- b. in [artikel 397 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) voor «onderdelen e en f» gelezen «onderdeel f»;
 
-- c. in [artikel 395 lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395) voor «artikel 393 lid 5» gelezen «[artikel 37 lid 3 onder a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37)»;
-
-- d. in [artikel 397 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) voor «onderdelen e en f» gelezen «onderdeel f»;
-
-- e. in [artikel 398 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=398) voor «leden 3 tot en met 8» gelezen «leden 3, 4 en 5»;
-
-- f. in [artikel 447 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447) voor «artikel 393 lid 5» gelezen: [artikel 37 lid 3 onder a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37).
+- c. in [artikel 398 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=398) voor «leden 3 tot en met 8» gelezen «leden 3, 4 en 5».
 
 ##### Artikel 31
 
@@ -746,11 +738,11 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 1. Het volkshuisvestingsverslag, bedoeld in [artikel 36a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), omvat in elk geval een uiteenzetting inzake het verslagjaar over:
 
-- a. de uitvoering van het in de gemeenten waar de toegelaten instelling feitelijk werkzaam is geldende volkshuisvestingsbeleid, en van in het in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) bedoelde overleg gemaakte afspraken daarover;
+- a. de uitvoering van de in de gemeenten waar de toegelaten instelling feitelijk werkzaam is geldende woonvisie, en van in het in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) bedoelde overleg gemaakte afspraken daarover;
 
 - b. het inzetten van haar middelen, bedoeld in [artikel 42, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=42);
 
-- c. het gevoerde overleg als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) met de gemeenten waar zij feitelijk werkzaam is;
+- c. het gevoerde overleg als bedoeld in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) met de gemeenten waar zij feitelijk werkzaam is;
 
 - d. het gevoerde overleg met de betrokken bewonersorganisaties;
 
@@ -764,17 +756,17 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 - i. de uitvoering van haar andere reglementen.
 
-2. Het volkshuisvestingsverslag omvat voorts een overzicht van de met de toegelaten instelling verbonden ondernemingen, met uitzondering van de ondernemingen van welke de toegelaten instelling minder dan 2% van de aandelen houdt, en een uiteenzetting over hun werkzaamheden.
+2. Het volkshuisvestingsverslag omvat voorts een overzicht van de met de toegelaten instelling verbonden ondernemingen, met uitzondering van de ondernemingen van welke de toegelaten instelling minder dan 2% van het kapitaal inbrengt, en een uiteenzetting over hun werkzaamheden.
 
 ##### Artikel 33
 
-1. Onze Minister beoordeelt bij de toepassing van de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=38), en [44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a) in elk geval:
+1. Onze Minister beoordeelt bij de toepassing van de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=38), en [44a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a) in elk geval:
 
 - a. de liquiditeit van de toegelaten instelling, waaronder in elk geval de risico’s daarvoor vanwege het bezit van financiële derivaten;
 
 - b. haar solvabiliteit;
 
-- c. haar ruimte voor het doen van investeringen in de eerstvolgende vijf kalenderjaren na het verslagjaar;
+- c. haar ruimte voor het doen van investeringen in de eerstvolgende vijf kalenderjaren na het verslagjaar waarop het oordeel betrekking heeft;
 
 - d. haar beschikbare financiële middelen in verhouding tot de werkzaamheden die zijn opgenomen in het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a);
 
@@ -782,7 +774,7 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 - f. de kwaliteit van haar organisatiestructuur.
 
-2. Bij ministeriële regeling kan worden bepaald welke onderwerpen voorts in elk geval worden beoordeeld bij de toepassing van de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=38), en [44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a).
+2. Bij ministeriële regeling kan worden bepaald welke onderwerpen voorts in elk geval worden beoordeeld bij de toepassing van de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=38), en [artikel 44a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a).
 
 ### Hoofdstuk V. Werkzaamheden van toegelaten instellingen
 
@@ -798,7 +790,7 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 - b. die toegelaten instelling in de gemeenten in Nederland waar zij feitelijk werkzaam is niet alle personen kan huisvesten die aldaar door hun inkomen of door andere omstandigheden moeilijkheden ondervinden bij het vinden van hun passende huisvesting, of
 
-- c. zienswijzen op dat voornemen van de gemeente waarop het betrekking heeft of de direct aan die gemeente grenzende gemeenten in Nederland hem daartoe naar zijn oordeel aanleiding geven.
+- c. zienswijzen op dat voornemen van de gemeente waarop het betrekking heeft, van de direct aan die gemeente grenzende gemeenten in Nederland of van de betrokken bewonersorganisaties hem daartoe naar zijn oordeel aanleiding geven.
 
 2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid, onderdelen b en c.
 
@@ -810,9 +802,9 @@ De goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van d
 
 - b. het aantal in die gemeenten gezamenlijk woonachtige huishoudens en
 
-- c. de zienswijzen op dat verzoek van die toegelaten instellingen of van andere gemeenten waar die toegelaten instellingen feitelijk werkzaam zijn.
+- c. de zienswijzen op dat verzoek van die toegelaten instellingen, van andere gemeenten waar die toegelaten instellingen feitelijk werkzaam zijn of van de betrokken bewonersorganisaties.
 
-2. Het verzoek kan mede inhouden dat de goedkeuring, bedoeld in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b), uitsluitend betrekking heeft op die, in dat verzoek te noemen, toegelaten instellingen zonder de bijdrage van welke een of meer van de betrokken gemeenten geen uitvoering kan geven aan haar volkshuisvestingsbeleid, of die in een of meer van die gemeenten een zodanig groot deel van hun werkzaamheden verrichten dat die goedkeuring naar het oordeel van die gemeenten om die reden noodzakelijk is.
+2. Het verzoek kan mede inhouden dat de goedkeuring, bedoeld in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b), uitsluitend betrekking heeft op die, in dat verzoek te noemen, toegelaten instellingen zonder de bijdrage van welke een of meer van de betrokken gemeenten geen uitvoering kan geven aan haar woonvisie, of die in een of meer van die gemeenten een zodanig groot deel van hun werkzaamheden verrichten dat die goedkeuring naar het oordeel van die gemeenten om die reden noodzakelijk is.
 
 3. Onze Minister kan besluiten om een verzoek als bedoeld in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) niet in te willigen, indien:
 
@@ -840,15 +832,19 @@ De categorieën van personen, bedoeld in [artikel 41c, tweede lid, eerste volzin
 
 - a. de gemeenten waar die ontheffing van toepassing zou moeten zijn;
 
-- b. een uiteenzetting over de gevolgen van het niet verlenen van die ontheffing voor de uitvoering door toegelaten instellingen van het volkshuisvestingsbeleid dat in die gemeenten geldt;
+- b. een uiteenzetting over de gevolgen van het niet verlenen van die ontheffing voor de uitvoering door toegelaten instellingen van de woonvisies die in die gemeenten gelden;
 
 - c. een uiteenzetting over het aandeel van de werkzaamheden van de toegelaten instelling in die gemeenten in het totaal van haar werkzaamheden en
 
-- d. indien de toegelaten instelling zienswijzen op dat verzoek heeft ontvangen van de gemeenten, bedoeld in onderdeel a, van de gemeenten waar zij feitelijk werkzaam mag zijn uit hoofde van het inwilligen van het in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) bedoelde verzoek, dat tot het in dit lid bedoelde verzoek heeft geleid, of van de in een van die gemeenten feitelijk werkzame toegelaten instellingen: die zienswijzen.
+- d. indien de toegelaten instelling zienswijzen op dat verzoek heeft ontvangen van de gemeenten, bedoeld in onderdeel a, van de gemeenten waar zij feitelijk werkzaam mag zijn uit hoofde van het inwilligen van het in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) bedoelde verzoek, dat tot het in dit lid bedoelde verzoek heeft geleid, van de in een van die gemeenten feitelijk werkzame toegelaten instellingen, of van de betrokken bewonersorganisaties: die zienswijzen.
 
-2. Onze Minister kan besluiten om geen ontheffing als bedoeld in het eerste lid te verlenen, indien de uitvoering door toegelaten instellingen van het volkshuisvestingsbeleid dat geldt in de gemeenten waar de betrokken ontheffing van toepassing zou zijn naar zijn oordeel door dat besluit niet nadelig wordt beïnvloed.
+2. Onze Minister kan besluiten om geen ontheffing als bedoeld in het eerste lid te verlenen, indien de uitvoering door toegelaten instellingen van de woonvisies die gelden in de gemeenten waar de betrokken ontheffing van toepassing zou zijn naar zijn oordeel door dat besluit niet nadelig wordt beïnvloed. In afwijking van de eerste zin kan Onze Minister besluiten om een ontheffing te verlenen indien:
 
-3. Onze Minister kan aan het verlenen van een ontheffing als bedoeld in het eerste lid het gevolg, bedoeld in [artikel 41c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c), verbinden ten aanzien van de gemeenten waar de toegelaten instelling feitelijk werkzaam mag zijn uit hoofde van het inwilligen van het in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) bedoelde verzoek, dat tot het in dit lid bedoelde verzoek heeft geleid, indien de uitvoering door toegelaten instellingen van het volkshuisvestingsbeleid dat in die gemeenten geldt naar zijn oordeel daardoor niet nadelig wordt beïnvloed.
+- a. de gemeenten waar die ontheffing van toepassing zou moeten zijn direct grenzen aan een gebied als bedoeld in [artikel 41b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) waarin de toegelaten instelling feitelijk werkzaam is, in welke gemeenten de toegelaten instelling reeds woongelegenheden in bezit heeft; en
+
+- b. de zienswijzen, bedoeld in het eerste lid, onderdeel d, daartoe aanleiding geven.
+
+3. Onze Minister kan aan het verlenen van een ontheffing als bedoeld in het eerste lid het gevolg, bedoeld in [artikel 41c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c), verbinden ten aanzien van de gemeenten waar de toegelaten instelling feitelijk werkzaam mag zijn uit hoofde van het inwilligen van het in [artikel 41b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b) bedoelde verzoek, dat tot het in dit lid bedoelde verzoek heeft geleid, indien de uitvoering door toegelaten instellingen van de woonvisies die in die gemeenten gelden naar zijn oordeel daardoor niet nadelig wordt beïnvloed.
 
 4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent hetgeen een verzoek om een ontheffing als bedoeld in [artikel 41c, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c) dient te omvatten, en omtrent de toepassing van het tweede of derde lid.
 
@@ -862,25 +858,25 @@ De categorieën van personen, bedoeld in [artikel 41c, tweede lid, eerste volzin
 
 ##### Artikel 39
 
-1. De toegelaten instelling neemt in het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), in elk geval op:
+1. De toegelaten instelling betrekt bij het vaststellen van het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), de door Onze Minister vast te stellen rijksprioriteiten met betrekking tot het terrein van de volkshuisvesting. Onze Minister stelt die prioriteiten ten minste een maal per vier jaar vast voor een tijdvak van de vier op dat jaar volgende kalenderjaren en doet deze voor de aanvang van dat tijdvak toekomen aan beide kamers der Staten-Generaal. In het kalenderjaar dat direct voorafgaat aan een zodanig tijdvak voert hij overleg over de voor dat tijdvak voorgenomen prioriteiten met in elk geval personen of instanties uit de kring van de toegelaten instellingen, de gemeenten en de bewonersorganisaties.
+
+2. Indien de colleges van burgemeester en wethouders van de gemeenten waar de toegelaten instelling feitelijk werkzaam is geen woonvisie aan de toegelaten instelling hebben verstrekt, neemt de toegelaten instelling in het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), in elk geval op:
 
 - a. haar voornemens voor het doen bouwen of verwerven van woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47);
 
 - b. haar voornemens met betrekking tot het toepassing geven aan [artikel 45, tweede lid, onderdelen d en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45);
 
-- c. haar voornemens met betrekking tot de samenstelling van haar woningvoorraad, waaronder in elk geval haar voornemens met betrekking tot vervreemding van haar woongelegenheden en haar voornemens tot het zodanig verhogen van huurprijzen van haar woongelegenheden, dat zij komen te liggen boven het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, een en ander gespecificeerd naar wijken of buurten aan de hand van de cijfers van de postcodes;
+- c. haar voornemens met betrekking tot de samenstelling van haar woningvoorraad, waaronder in elk geval haar voornemens met betrekking tot vervreemding van haar woongelegenheden en haar voornemens tot het bij het aangaan van nieuwe overeenkomsten van huur en verhuur zodanig verhogen van huurprijzen van haar woongelegenheden, dat zij komen te liggen boven het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag;
 
 - d. haar voornemens met betrekking tot de kwaliteit en de duurzaamheid van haar woningvoorraad en de direct daaraan grenzende omgeving;
 
-- e. haar voornemens met betrekking tot de betaalbaarheid en de bereikbaarheid van haar woongelegenheden voor degenen, bedoeld in [artikel 46, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), en
+- e. haar voornemens met betrekking tot de betaalbaarheid en de bereikbaarheid van haar woongelegenheden voor degenen, bedoeld in [artikel 46, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46); en
 
-- f. haar voornemens met betrekking tot de huisvesting van de categorieën van personen, genoemd in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=36&z=2021-11-27&g=2021-11-27).
+- f. haar voornemens met betrekking tot de huisvesting van de categorieën van personen, genoemd in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=36&z=2022-01-01&g=2022-01-01).
 
-2. De toegelaten instelling betrekt bij het vaststellen van het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), de door Onze Minister vast te stellen rijksprioriteiten met betrekking tot het terrein van de volkshuisvesting. Onze Minister stelt die prioriteiten ten minste een maal per vier jaar vast voor een tijdvak van de vier op dat jaar volgende kalenderjaren, doet deze voor de aanvang van dat tijdvak toekomen aan beide kamers der Staten-Generaal en maakt deze bekend in de Staatscourant. In het kalenderjaar dat direct voorafgaat aan een zodanig tijdvak voert hij overleg over de voor dat tijdvak voorgenomen prioriteiten met in elk geval personen of instanties uit de kring van de toegelaten instellingen, de gemeenten en de bewonersorganisaties.
+3. Het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), heeft geen betrekking op de met de toegelaten instelling verbonden ondernemingen van welke zij minder dan 2% van het kapitaal inbrengt.
 
-3. Het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), heeft geen betrekking op de met de toegelaten instelling verbonden ondernemingen van welke zij minder dan 2% van de aandelen houdt.
-
-#### § 1. Woningmarktregio’s
+#### § 5. Bepalingen in verband met de taakvervulling door de raad van commissarissen
 
 #### § 6. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
@@ -908,43 +904,13 @@ Vervallen
 
 ##### Artikel 46
 
-Een verbonden onderneming voldoet in een kalenderjaar aan [artikel 45, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), indien zij over dat jaar een percentage van haar omzet genereert uit werkzaamheden op het gebied van de volkshuisvesting, dat ten minste gelijk is aan het percentage van haar aandelen dat een toegelaten instelling in haar houdt.
+Een verbonden onderneming voldoet in een kalenderjaar aan [artikel 45, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), indien zij over dat jaar een percentage van haar omzet genereert uit werkzaamheden op het gebied van de volkshuisvesting, dat ten minste gelijk is aan het percentage van het kapitaal dat een toegelaten instelling in haar inbrengt.
 
 ##### Artikel 47
 
-1. Tot diensten als bedoeld in [artikel 45, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) behoren niet:
+1. Tot de diensten, bedoeld in [artikel 45, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), behoren mede de in de [bijlage bij het Besluit servicekosten](onbekend) genoemde zaken en diensten.
 
-- a. het bijdragen aan de leefbaarheid, bedoeld in [artikel 45, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), en [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=51&z=2021-11-27&g=2021-11-27);
-
-- b. diensten die door nutsbedrijven kunnen worden geleverd, voor zover die levering niet geschiedt met gebruikmaking van een in of nabij de woongelegenheid aanwezige voorziening;
-
-- c. zorgdiensten, maaltijddiensten en medische diensten;
-
-- d. het exploiteren van een radio- of televisiezender;
-
-- e. het verzorgen van opleidingen, behoudens die aan personen in dienst van de toegelaten instelling of die met betrekking tot het terrein van de volkshuisvesting;
-
-- f. het schoonmaken van het woonruimtegedeelte van woongelegenheden, behoudens in geval van het daarin huisvesten van nieuwe bewoners of van het voorkomen van overlast voor of aantasting van het woongenot van bewoners van naburige woongelegenheden;
-
-- g. woninginrichting, behoudens die in het kader van de verhuur van gestoffeerde of gemeubileerde woongelegenheden door de toegelaten instelling;
-
-- h. hypotheekadvisering en makelaarsdiensten in verband met andere woongelegenheden dan die in eigendom van of tot stand gebracht door de toegelaten instelling;
-
-- i. het ter beschikking stellen van financiële middelen, anders dan overeenkomstig [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=48&z=2021-11-27&g=2021-11-27);
-
-- j. notariële diensten;
-
-- k. het aanbieden van verzekeringen;
-
-- l. het bemiddelen bij verzekeringen in verband met andere woongelegenheden dan die in eigendom van of tot stand gebracht door de toegelaten instelling;
-
-- m. het aanbieden van voor-, tussen- en naschoolse opvang;
-
-- n. het aanbieden van hulp bij het voorkomen van schooluitval;
-
-- o. het aanbieden van ondersteuning bij de opvoeding van kinderen.
-
-2. Diensten als bedoeld in [artikel 45, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) mogen uitsluitend worden geleverd aan:
+2. Diensten als bedoeld in [artikel 45, tweede lid, onderdeel c, onder 1° en 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) mogen uitsluitend worden geleverd aan:
 
 - a. bewoners van eigen woongelegenheden;
 
@@ -958,27 +924,31 @@ Een verbonden onderneming voldoet in een kalenderjaar aan [artikel 45, eerste li
 
 - f. bewoners van woongelegenheden als bedoeld in [artikel 45, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45);
 
-- g. leden van wooncoöperaties waaraan de toegelaten instelling woongelegenheden heeft vervreemd voor zover het werkzaamheden, bedoeld in [artikel 48, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=48&z=2021-11-27&g=2021-11-27), betreft.
+- g. leden van wooncoöperaties waaraan de toegelaten instelling woongelegenheden heeft vervreemd voor zover het werkzaamheden, bedoeld in [artikel 48, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=48&z=2022-01-01&g=2022-01-01), betreft.
 
 ##### Artikel 48
 
 1. De toegelaten instelling stelt uitsluitend financiële middelen ter beschikking in de vorm van:
 
-- a. tegemoetkomingen in de kosten van activiteiten die door de bewoners van haar woongelegenheden worden georganiseerd in het belang van het behoud of de verbetering van die woongelegenheden of de direct daaraan grenzende omgeving;
+- a. tegemoetkomingen in de kosten van activiteiten die door de bewoners van haar woongelegenheden worden georganiseerd:
 
-- b. reserveringen voor leden van wooncoöperaties met een huishoudinkomen dat niet hoger is dan de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27), in verband met het onderhoud aan hun woongelegenheden;
+- 1°. in het belang van het behoud of de verbetering van die woongelegenheden of de direct daaraan grenzende omgeving, en
+
+- 2°. gericht op ontmoeting van bewoners van die woongelegenheden;
+
+- b. reserveringen voor leden van wooncoöperaties met een huishoudinkomen dat niet hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), in verband met het onderhoud aan hun woongelegenheden;
 
 - c. tegemoetkomingen in het blijkens een geldleningsovereenkomst te betalen bedrag aan rente over een hypothecaire geldlening, overeenkomstig het tweede lid, of
 
-- d. tegemoetkomingen ter voldoening aan het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=2&z=2021-11-27&g=2021-11-27).
+- d. tegemoetkomingen ter voldoening aan het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01).
 
 2. Tegemoetkomingen als bedoeld in het eerste lid, onderdeel c, worden uitsluitend verstrekt:
 
-- a. over ten hoogste 20% van de verwervingskosten overeenkomstig de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, welke kosten worden gefinancierd door een instelling die behoort tot een categorie als bedoeld in het bepaalde bij en krachtens [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-11-27&g=2021-11-27), of aan welke een vergunning als bedoeld in [artikel 2:60 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) is verleend;
+- a. over ten hoogste 20% van de verwervingskosten overeenkomstig de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, welke kosten worden gefinancierd door een instelling die behoort tot een categorie als bedoeld in het bepaalde bij en krachtens [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), of aan welke een vergunning als bedoeld in [artikel 2:60 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) is verleend;
 
 - b. in geval van het verstrekt zijn van de hypothecaire geldlening onder de voorwaarden en normen van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie;
 
-- c. aan instellingen als bedoeld in onderdeel a ten behoeve van personen die voor de eerste maal als eigenaar een woning bewonen, zolang het huishoudinkomen van die personen niet hoger is dan de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27);
+- c. aan instellingen als bedoeld in onderdeel a ten behoeve van personen die voor de eerste maal als eigenaar een woning bewonen, zolang het huishoudinkomen van die personen niet hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01);
 
 - d. indien niet tevens een tegemoetkoming wordt verstrekt:
 
@@ -992,71 +962,45 @@ Een verbonden onderneming voldoet in een kalenderjaar aan [artikel 45, eerste li
 
 ##### Artikel 49
 
-1. De gebouwen, bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), zijn uitsluitend:
+1. De gebouwen, bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), zijn:
 
-- a. de gebouwen en categorieën van gebouwen, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3&z=2021-11-27&g=2021-11-27) bij dit besluit en
+- a. de gebouwen en categorieën van gebouwen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2022-01-01&g=2022-01-01) bij dit besluit en
 
-- b. de gebouwen en categorieën van gebouwen, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4&z=2021-11-27&g=2021-11-27) bij dit besluit, welke ten aanzien van een toegelaten instelling uitsluitend tot het gebied van de volkshuisvesting behoren, indien zij deze op het tijdstip waarop dit besluit in werking is getreden in eigendom had.
+- b. de gebouwen en categorieën van gebouwen, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3&z=2022-01-01&g=2022-01-01) bij dit besluit, welke ten aanzien van een toegelaten instelling uitsluitend tot het gebied van de volkshuisvesting behoren, indien zij deze op het tijdstip waarop dit besluit in werking is getreden in eigendom had.
 
-2. Onze Minister kan op verzoek van een toegelaten instelling bepalen dat het doen bouwen of verwerven van andere gebouwen met een maatschappelijke gebruiksbestemming dan die, bedoeld in het eerste lid, ten aanzien van die toegelaten instelling tot het gebied van de volkshuisvesting behoort, indien:
+2. Onze Minister kan op verzoek van een toegelaten instelling bepalen dat het doen bouwen of verwerven van andere gebouwen met een maatschappelijke gebruiksbestemming dan die, bedoeld in het eerste lid, ten aanzien van die toegelaten instelling tot het gebied van de volkshuisvesting behoort, indien die gebouwen naar zijn oordeel behoren tot een aan een categorie als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2022-01-01&g=2022-01-01) bij dit besluit nauw verwante categorie.
 
-- a. in geval van basisscholen en centra voor jeugd en gezin: naar zijn oordeel aannemelijk wordt gemaakt dat het tot stand brengen, in stand houden en verhuren daarvan ingevolge bij ministeriële regeling te geven voorschriften voldoende renderend is, en
-
-- b. in geval van andere zodanige gebouwen: die gebouwen naar zijn oordeel behoren tot een aan een categorie als genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3&z=2021-11-27&g=2021-11-27) bij dit besluit nauw verwante categorie, en bouwkundig een geheel vormen met een voor bewoning bestemd gebouw in eigendom van die toegelaten instelling.
-
-3. Onze Minister kan op verzoek van een toegelaten instelling bepalen dat het verwerven van andere gebouwen met een maatschappelijke gebruiksbestemming dan die, bedoeld in het eerste lid, alsmede het verhuren van zodanige gebouwen of gedeelten daarvan aan personen die daar op het tijdstip van indiening van dat verzoek huurder van zijn, ten aanzien van die toegelaten instelling tot het gebied van de volkshuisvesting behoort, indien die toegelaten instelling ten overstaan van hem aannemelijk maakt dat zij binnen vijf jaar na dat tijdstip die gebouwen:
-
-- a. zal slopen en ter plaatse gebouwen zal doen bouwen die verband houden met werkzaamheden op het gebied van de volkshuisvesting, of
-
-- b. zal verbouwen tot onroerende zaken die verband houden met werkzaamheden op het gebied van de volkshuisvesting.
-
-4. De werkzaamheden, bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), en de werkzaamheden ten aanzien van welke Onze Minister toepassing heeft gegeven aan het tweede lid, behoren alle tot de diensten van algemeen economisch belang.
+3. De werkzaamheden ten aanzien van welke Onze Minister toepassing heeft gegeven aan het tweede lid, behoren tot de diensten van algemeen economisch belang.
 
 ##### Artikel 50
 
-De toegelaten instelling kan met betrekking tot ten hoogste 10% van het bruto-vloeroppervlak van haar gebouwen, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2021-11-27&g=2021-11-27), overeenkomsten van huur en verhuur aangaan met anderen dan die, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48). Tot het bruto-vloeroppervlak, bedoeld in de eerste volzin, behoort mede het vloeroppervlak van de bij die gebouwen behorende overdekte parkeervoorzieningen en de oppervlakte van de bij die gebouwen behorende overige parkeervoorzieningen.
+1. De toegelaten instelling kan met betrekking tot ten hoogste 10% van het bruto-vloeroppervlak van haar gebouwen, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01), overeenkomsten van huur en verhuur aangaan met anderen dan die, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48). Tot het bruto-vloeroppervlak, bedoeld in de eerste volzin, behoort mede het vloeroppervlak van de bij die gebouwen behorende overdekte parkeervoorzieningen en de oppervlakte van de bij die gebouwen behorende overige parkeervoorzieningen.
+
+2. De toegelaten instelling kan met betrekking tot ruimten van gebouwen die kantoorruimten van de toegelaten instelling zijn en waarvan meer dan 50% van het bruto-vloeroppervlak als zodanig door de toegelaten instelling wordt gebruikt, indien de toegelaten instelling dat gebouw op 1 juli 2015 in bezit had, overeenkomsten van huur en verhuur aangaan met anderen dan die, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48).
+
+3. [Artikel 45, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is niet van toepassing op de ruimten, bedoeld in het vorige lid.
 
 ##### Artikel 51
 
-1. Het bijdragen aan de leefbaarheid houdt uitsluitend in:
+Het bijdragen aan de leefbaarheid houdt uitsluitend in:
 
 - a. woonmaatschappelijk werk, met inbegrip van het leveren van een bijdrage aan uitvoering van achter-de-voordeur-programma’s onder verantwoordelijkheid van maatschappelijke organisaties en uitsluitend ten behoeve van de huurders van de woongelegenheden van de toegelaten instelling;
 
-- b. aanleg en onderhoud van kleinschalige infrastructuur in de directe nabijheid van woongelegenheden of andere onroerende zaken van de toegelaten instelling en
+- b. aanleg en onderhoud van kleinschalige infrastructuur in de directe nabijheid van woongelegenheden of andere onroerende zaken van de toegelaten instelling;
 
 - c. bijdragen aan de uitvoering van plannen:
 
 - 1°. ter bevordering van een schone woonomgeving,
 
-- 2°. ter voorkoming van overlast, en
+- 2°. ter voorkoming van overlast,
 
-- 3°. ter bevordering van de veiligheid.
+- 3°. ter bevordering van de veiligheid, en
 
-2. Het bedrag, bedoeld in [artikel 45, tweede lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is € 134,79, tenzij in de afspraken, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) een ander bedrag is overeengekomen, in welk geval het bedrag, bedoeld in artikel 45, tweede lid, onderdeel f, onder 2°., het aldus afgesproken bedrag bedraagt. Het in de eerste volzin genoemde bedrag wordt met ingang van elk kalenderjaar bij ministeriële regeling gewijzigd met het in januari van het daaraan voorafgaande kalenderjaar in de Staatscourant bekendgemaakte percentage waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.
-
-3. De werkzaamheden, bedoeld in [artikel 45, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), behoren alle tot de diensten van algemeen economisch belang.
+- d. bijdragen aan activiteiten gericht op ontmoeting van huurders van woongelegenheden van de toegelaten instelling.
 
 ##### Artikel 52
 
-1. Het bezwaren, doen bouwen, verhuren en verwerven van gebouwen als bedoeld in [artikel 45, tweede lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), en de werkzaamheden, bedoeld in artikel 45, tweede lid, onderdeel h, van de wet, behoren uitsluitend tot het gebied van de volkshuisvesting:
-
-- a. indien het bruto-vloeroppervlak van die gebouwen niet meer bedraagt dan 25% van het bruto-vloeroppervlak van alle van die gebouwen deel uitmakende onroerende zaken, tot welk oppervlak mede behoort het vloeroppervlak van de bij die gebouwen of zaken behorende overdekte parkeervoorzieningen en de oppervlakte van de bij die gebouwen of zaken behorende overige parkeervoorzieningen, en,
-
-- b. voor zover het het doen bouwen betreft, per investering de kosten van de in de aanhef bedoelde werkzaamheden niet hoger zijn dan € 10.000.000.
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. het verhuren van gebouwen als bedoeld in het eerste lid die de toegelaten instelling op 1 juli 2015 in bezit had met dien verstande dat, indien de toegelaten instelling die gebouwen op dat moment verhuurde, het eerste lid uitsluitend niet van toepassing is indien dat verhuren op dat tijdstip was toegestaan ingevolge het bepaalde bij en krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) zoals die op dat tijdstip luidde, of
-
-- b. het verhuren van onroerende zaken die deel uitmaken van gebouwen die kantoorruimten van de toegelaten instelling zijn en waarvan meer dan 50% van het bruto-vloeroppervlak als zodanig door de toegelaten instelling wordt gebruikt en die de toegelaten instelling op 1 juli 2015 in bezit had.
-
-3. [Artikel 45, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) is niet van toepassing op de onroerende zaken, bedoeld in het tweede lid, onderdeel b.
-
-4. Onze Minister kan op verzoek van een toegelaten instelling bepalen dat het verwerven van andere gebouwen met een bedrijfsmatige gebruiksbestemming dan die, bedoeld in het eerste lid, alsmede het verhuren van zodanige gebouwen of gedeelten daarvan aan personen die daar op het tijdstip van indiening van dat verzoek huurder van zijn, ten aanzien van die toegelaten instelling tot het gebied van de volkshuisvesting behoort, indien die toegelaten instelling ten overstaan van hem aannemelijk maakt dat zij binnen vijf jaar na dat tijdstip die gebouwen:
-
-- a. zal slopen en ter plaatse gebouwen zal doen bouwen die verband houden met werkzaamheden op het gebied van de volkshuisvesting, of
-
-- b. zal verbouwen tot onroerende zaken die verband houden met werkzaamheden op het gebied van de volkshuisvesting.
+Vervallen
 
 ##### Artikel 53
 
@@ -1066,7 +1010,7 @@ Door vernummering vervallen.
 
 ##### Artikel 54
 
-1. Het percentage, bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), is 95.
+1. Het percentage, bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), is, gerekend over twee opeenvolgende kalenderjaren, 95.
 
 2. Tot de huishoudens, bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), worden mede gerekend:
 
@@ -1074,31 +1018,35 @@ Door vernummering vervallen.
 
 - 1°. ingeschreven staan bij een universiteit of hogeschool als bedoeld in [artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2) of bij een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en daar voltijds studeren of
 
-- 2°. zich voltijds voorbereiden op een promotie als bedoeld in [artikel 7.18 van eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.18) en
+- 2°. zich voltijds voorbereiden op een promotie als bedoeld in [artikel 7.18 van eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.18) of
+
+- 3°. recht hebben op een tegemoetkoming als bedoeld in [artikel 1.1, eerste lid, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=1.1) en
 
 - b. vreemdelingen die in Nederland een verblijfsvergunning asiel voor bepaalde tijd hebben aangevraagd en als gevolg daarvan een verblijfsvergunning hebben ontvangen als bedoeld in [artikel 8, onderdeel a, b, c of d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-3. Indien de toegelaten instelling woongelegenheden waarop het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) van toepassing is verhuurt aan of heeft ondergebracht in een rechtspersoon of vennootschap welke overeenkomsten van huur en verhuur ten aanzien van zodanige woongelegenheden aangaat met natuurlijke personen, of een rechtspersoon of vennootschap welke zodanige woongelegenheden verhuurt aan een rechtspersoon of vennootschap welke zodanige overeenkomsten aangaat, draagt zij er zorg voor dat die rechtspersoon of vennootschap met betrekking tot die woongelegenheden dat bepaalde naleeft, en is [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2021-11-27&g=2021-11-27) van toepassing op de aan die rechtspersoon of vennootschap te verstrekken gegevens.
+3. Indien de toegelaten instelling woongelegenheden waarop het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) van toepassing is verhuurt aan of heeft ondergebracht in een rechtspersoon of vennootschap welke overeenkomsten van huur en verhuur ten aanzien van zodanige woongelegenheden aangaat met natuurlijke personen, of een rechtspersoon of vennootschap welke zodanige woongelegenheden verhuurt aan een rechtspersoon of vennootschap welke zodanige overeenkomsten aangaat, draagt zij er zorg voor dat die rechtspersoon of vennootschap met betrekking tot die woongelegenheden dat bepaalde naleeft, en is [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01) van toepassing op de aan die rechtspersoon of vennootschap te verstrekken gegevens.
 
 4. De toegelaten instelling voert overleg met de rechtspersoon of vennootschap, eerstbedoeld in het derde lid, met het oogmerk te bewerkstelligen dat die rechtspersoon of vennootschap alle handelingen verricht en aan de toegelaten instelling alle inlichtingen verstrekt die voor haar noodzakelijk zijn om aan [artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), en [artikel 55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en het eerste tot en met derde lid van dit artikel te voldoen.
 
 5. Het is de toegelaten instelling verboden een overeenkomst met een rechtspersoon of vennootschap ter zake van de huur en verhuur van woongelegenheden waarop het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) van toepassing is aan te gaan, die in de weg staat aan de juiste toepassing van [artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), en [artikel 55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en het eerste tot en met derde lid van dit artikel. Indien een voor het tijdstip waarop dit besluit in werking is getreden aangegane zodanige overeenkomst ertoe leidt dat die toegelaten instelling niet over alle gegevens beschikt die noodzakelijk zijn voor een beoordeling als bedoeld in het zesde lid, wordt dat die toegelaten instelling bij die beoordeling niet aangerekend.
 
-6. Onze Minister beoordeelt jaarlijks voor 1 december of de toegelaten instelling in het aan die datum voorafgaande jaar dit artikel en [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2021-11-27&g=2021-11-27) heeft nageleefd of doen naleven, en verstrekt dat oordeel aan de toegelaten instelling.
+6. Onze Minister beoordeelt jaarlijks voor 1 december of de toegelaten instelling in het aan die datum voorafgaande jaar dit artikel en [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01) heeft nageleefd of doen naleven, en verstrekt dat oordeel aan de toegelaten instelling.
 
 ##### Artikel 55
 
-1. De administratie van de toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), is zodanig, dat een juiste, volledige en tijdige vastlegging daarin is gewaarborgd van de gegevens met betrekking tot het huishoudinkomen. Die gegevens worden voor de toepassing van het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) voor een kalenderjaar niet langer daarin bewaard dan tot het tijdstip dat de compensatie over dat kalenderjaar voor werkzaamheden van de toegelaten instelling die behoren tot de diensten van algemeen economisch belang onherroepelijk is komen vast te staan.
+1. De administratie van de toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), is zodanig, dat een juiste, volledige en tijdige vastlegging daarin is gewaarborgd van de gegevens met betrekking tot het huishoudinkomen. Die gegevens worden voor de toepassing van het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) voor een kalenderjaar niet langer daarin bewaard dan tot het tijdstip dat de compensatie over dat kalenderjaar voor werkzaamheden van de toegelaten instelling die behoren tot de diensten van algemeen economisch belang onherroepelijk is komen vast te staan.
 
 2. De toegelaten instelling is verplicht tot geheimhouding van de gegevens met betrekking tot het huishoudinkomen, behoudens voor zover enig wettelijk voorschrift haar tot mededeling verplicht of uit haar taak de noodzaak tot mededeling voortvloeit.
 
 ##### Artikel 56
 
-1. De toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), geeft toepassing aan het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=5&z=2021-11-27&g=2021-11-27) bij dit besluit. Zij geeft hieraan slechts toepassing nadat degene die als huurder een woongelegenheid waarop dat bepaalde van toepassing is wenst te betrekken, ten behoeve van de vaststelling of hij in de zin van dat bepaalde in aanmerking komt voor een huurtoeslag in de zin van de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659), aan haar heeft overgelegd:
+1. De toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), geeft toepassing aan het bepaalde bij en krachtens [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4&z=2022-01-01&g=2022-01-01) bij dit besluit. Zij geeft hieraan slechts toepassing nadat degene die als huurder een woongelegenheid waarop dat bepaalde van toepassing is wenst te betrekken, ten behoeve van de vaststelling of hij in de zin van dat bepaalde in aanmerking komt voor een huurtoeslag in de zin van de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659), aan haar heeft overgelegd:
 
-- a. een door hem opgestelde en ondertekende verklaring over de samenstelling van zijn huishouden, en
+- a. een door hem opgestelde en ondertekende verklaring over de samenstelling van zijn huishouden;
 
-- b. gegevens waaruit het huishoudinkomen blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
+- b. gegevens waaruit het huishoudinkomen blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat; en
+
+- c. indien de verhuurder heeft verzocht om toepassing van [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54a&z=2022-01-01&g=2022-01-01), gegevens waaruit de in dat artikel bedoelde grondslag sparen en beleggen van zijn huishouden blijkt.
 
 2. De toegelaten instelling voegt in haar administratie, onverwijld na de toepassing, bedoeld in het eerste lid, bij de in verband daarmee afgegeven verklaring, bedoeld in het eerste lid, onderdeel a, een door haar ondertekende verklaring dat zij geen redenen heeft om aan de juistheid van de eerstbedoelde verklaring te twijfelen.
 
@@ -1106,9 +1054,9 @@ Door vernummering vervallen.
 
 4. Het eerste lid, aanhef en onderdeel b, is niet van toepassing:
 
-- a. indien degenen die de woongelegenheid wensen te betrekken uitsluitend, en ten hoogste twee, personen zijn die studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) ontvangen, en degene die als huurder de woongelegenheid wenst te betrekken bewijzen daarvan aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), heeft overgelegd, en
+- a. indien degenen die de woongelegenheid wensen te betrekken uitsluitend, en ten hoogste twee, personen zijn die studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) ontvangen of een tegemoetkoming als bedoeld in [artikel 1.1, eerste lid, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=1.1), en degene die als huurder de woongelegenheid wenst te betrekken bewijzen daarvan aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), heeft overgelegd, en
 
-- b. indien degenen die de woongelegenheid wensen te betrekken van buiten Nederland afkomstige personen zijn, die zich hebben ingeschreven bij een instelling voor hoger onderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), en bewijzen daarvan of verklaringen ter zake aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), zijn overgelegd.
+- b. indien degenen die de woongelegenheid wensen te betrekken van buiten Nederland afkomstige personen zijn, die zich hebben ingeschreven bij een instelling voor hoger onderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), en bewijzen daarvan of verklaringen ter zake aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), zijn overgelegd.
 
 5. De gegevens, bedoeld in het eerste lid, onderdeel b, zijn, behoudens het zesde en zevende lid:
 
@@ -1128,17 +1076,17 @@ Door vernummering vervallen.
 
 - 2°. hetzij een jaaropgave van de werkgever of werkgevers van degenen, bedoeld in de aanhef, over het kalenderjaar dat direct voorafgaat aan het kalenderjaar waarin de overeenkomst ter zake van een verhuur als bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) zou moeten ingaan, dan wel een jaaropgave over eerstbedoeld kalenderjaar van de instantie of instanties die aan diegenen een uitkering verstrekken, hetzij loonstroken of uitkeringsspecificaties van die werkgever of werkgevers respectievelijk die instantie of instanties met betrekking tot één kalendermaand, welke maand geen eerdere is dan de zesde kalendermaand voorafgaand aan de dagtekening van de verklaring, bedoeld onder 1°.
 
-7. De huurder kan de toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), verzoeken om andere gegevens dan de gegevens, bedoeld in het vijfde lid, te gebruiken voor de vaststelling van het huishoudinkomen indien uit de gegevens, bedoeld in het vijfde lid, een huishoudinkomen blijkt dat:
+7. De huurder kan de toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), verzoeken om andere gegevens dan de gegevens, bedoeld in het vijfde lid, te gebruiken voor de vaststelling van het huishoudinkomen indien uit de gegevens, bedoeld in het vijfde lid, een huishoudinkomen blijkt dat:
 
 - a. hoger is dan het voor het betrokken huishouden toepasselijke bedrag, bedoeld in [artikel 14 van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=14), terwijl naar het oordeel van degene die als huurder de betrokken woongelegenheid wenst te betrekken het huishoudinkomen niet hoger is dan dat bedrag, of
 
 - b. lager of gelijk is aan het voor het betrokken huishouden toepasselijke bedrag, bedoeld in [artikel 14 van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=14), terwijl naar het oordeel van degene die als huurder de betrokken woongelegenheid wenst te betrekken het huishoudinkomen hoger is dan dat bedrag.
 
-In deze gevallen overlegt de huurder dat oordeel met een onderbouwing daarvan aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), in welk geval de gegevens, bedoeld in het eerste lid, aanhef en onderdeel b, voorts zijn de gegevens overeenkomstig het zesde lid, onderdeel b, onder 1° en 2°.
+In deze gevallen overlegt de huurder dat oordeel met een onderbouwing daarvan aan de toegelaten instelling of aan een rechtspersoon of vennootschap als bedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), in welk geval de gegevens, bedoeld in het eerste lid, aanhef en onderdeel b, voorts zijn de gegevens overeenkomstig het zesde lid, onderdeel b, onder 1° en 2°.
 
-8. In afwijking van het eerste lid kan een rechtspersoon of vennootschap als eerstbedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), overeenkomsten ter zake van verhuur als bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) aangaan zonder dat daaraan voorafgaand een verklaring en gegevens als bedoeld in het eerste lid, onderdelen a en b, zijn overgelegd, indien degene die als huurder een woongelegenheid waarop het bepaalde bij en krachtens [artikel46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) van toepassing is, wenst te betrekken een onderdaan is van een lidstaat en voor het verrichten van arbeid in Nederland verblijft. Aan de eerste volzin kan slechts toepassing worden gegeven door een rechtspersoon of vennootschap die beschikt over een keurmerk van de Stichting keurmerk internationale arbeidsbemiddeling of van de Stichting normering flexwonen en bij het aangaan van de betrokken overeenkomst van huur en verhuur een bewijs van de toekenning van dat keurmerk aan de toegelaten instelling overlegt.
+8. In afwijking van het eerste lid kan een rechtspersoon of vennootschap als eerstbedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), overeenkomsten ter zake van verhuur als bedoeld in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) aangaan zonder dat daaraan voorafgaand een verklaring en gegevens als bedoeld in het eerste lid, onderdelen a en b, zijn overgelegd, indien degene die als huurder een woongelegenheid waarop het bepaalde bij en krachtens [artikel46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) van toepassing is, wenst te betrekken een onderdaan is van een lidstaat en voor het verrichten van arbeid in Nederland verblijft. Aan de eerste volzin kan slechts toepassing worden gegeven door een rechtspersoon of vennootschap die beschikt over een keurmerk van de Stichting keurmerk internationale arbeidsbemiddeling of van de Stichting normering flexwonen en bij het aangaan van de betrokken overeenkomst van huur en verhuur een bewijs van de toekenning van dat keurmerk aan de toegelaten instelling overlegt.
 
-9. De rechtspersoon of vennootschap, eerstbedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27), legt op de laatste dag van elk kalenderkwartaal ten aanzien van de huurders, bedoeld in het achtste lid, met wie in dat kwartaal een overeenkomst van huur en verhuur is aangegaan aan de toegelaten instelling over:
+9. De rechtspersoon of vennootschap, eerstbedoeld in [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01), legt op de laatste dag van elk kalenderkwartaal ten aanzien van de huurders, bedoeld in het achtste lid, met wie in dat kwartaal een overeenkomst van huur en verhuur is aangegaan aan de toegelaten instelling over:
 
 - a. het adres van de woongelegenheid die de huurder, bedoeld in het achtste lid, heeft betrokken;
 
@@ -1146,9 +1094,9 @@ In deze gevallen overlegt de huurder dat oordeel met een onderbouwing daarvan aa
 
 - c. een verklaring over de samenstelling van het huishouden van de huurder, en
 
-- d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
+- d. gegevens waaruit het huishoudinkomen van de huurder en in voorkomend geval de grondslag sparen en beleggen blijkt, of op grond waarvan dat inkomen en in voorkomend geval die grondslag zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
 
-10. De in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=5&z=2021-11-27&g=2021-11-27) genoemde index I1 en index I2 worden bij ministeriële regeling vastgesteld en jaarlijks bij ministeriële regeling gewijzigd met het percentage waarmee per gelijke datum het in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=18) genoemde bedrag wordt gewijzigd.
+10. De in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4&z=2022-01-01&g=2022-01-01) genoemde index I1 en index I2 worden bij ministeriële regeling vastgesteld en jaarlijks bij ministeriële regeling gewijzigd met het percentage waarmee per gelijke datum het in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=18) genoemde bedrag wordt gewijzigd.
 
 ### Afdeling 4. Diensten van algemeen economisch belang
 
@@ -1156,9 +1104,9 @@ In deze gevallen overlegt de huurder dat oordeel met een onderbouwing daarvan aa
 
 ##### Artikel 57
 
-De categorieën van personen, bedoeld in [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), zijn:
+De categorieën van personen, bedoeld in [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), zijn:
 
-- a. de categorieën van personen, genoemd in [artikel 54, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2021-11-27&g=2021-11-27);
+- a. de categorieën van personen, genoemd in [artikel 54, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=54&z=2022-01-01&g=2022-01-01);
 
 - b. personen die zijn of worden gehuisvest op grond van een indicatiebesluit als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) voor:
 
@@ -1178,11 +1126,11 @@ De categorieën van personen, bedoeld in [artikel 48, eerste lid, derde volzin, 
 
 1. De toegelaten instelling voert overleg met de rechtspersoon of vennootschap, eerstbedoeld in [artikel 48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), met het oogmerk te bewerkstelligen dat die rechtspersoon of vennootschap alle handelingen verricht en aan de toegelaten instelling alle inlichtingen verstrekt die voor haar noodzakelijk zijn om aan de [artikelen 48, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), en [55, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) te voldoen.
 
-2. Het is de toegelaten instelling verboden een overeenkomst met een rechtspersoon of vennootschap ter zake van de huur en verhuur van woongelegenheden waarop [artikel 48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) van toepassing is aan te gaan, die in de weg staat aan de juiste toepassing van artikel 48, eerste, tweede of vierde lid, van de wet, [55, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) of het eerste lid van dit artikel. Indien een voor 18 mei 2013 aangegane zodanige overeenkomst ertoe leidt dat die toegelaten instelling niet over alle gegevens beschikt die noodzakelijk zijn voor een beoordeling als bedoeld in artikel 48, zevende lid, van de wet, wordt dat die toegelaten instelling bij die beoordeling niet aangerekend.
+2. Het is de toegelaten instelling verboden een overeenkomst met een rechtspersoon of vennootschap ter zake van de huur en verhuur van woongelegenheden waarop [artikel 48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) van toepassing is aan te gaan, die in de weg staat aan de juiste toepassing van artikel 48, eerste, tweede of vierde lid, van de wet, [55, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) of het eerste lid van dit artikel. Indien een voor 18 mei 2013 aangegane zodanige overeenkomst ertoe leidt dat die toegelaten instelling niet over alle gegevens beschikt die noodzakelijk zijn voor een beoordeling als bedoeld in artikel 48, achtste lid, van de wet, wordt dat die toegelaten instelling bij die beoordeling niet aangerekend.
 
 ##### Artikel 59
 
-1. De toegelaten instelling geeft bij het aangaan van overeenkomsten van huur en verhuur met betrekking tot haar woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), in de gevallen dat het huishoudinkomen hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27), voorrang aan huishoudens overeenkomstig een huisvestingsverordening als bedoeld in [artikel 4 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=4), indien een zodanige verordening van toepassing is, en vervolgens aan:
+1. De toegelaten instelling geeft bij het aangaan van overeenkomsten van huur en verhuur met betrekking tot haar woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), in de gevallen dat het huishoudinkomen hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), voorrang aan huishoudens overeenkomstig een huisvestingsverordening als bedoeld in [artikel 4 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=4), indien een zodanige verordening van toepassing is, en vervolgens aan:
 
 - a. huishoudens voor welke de voorziening in de behoefte aan huisvesting dringend noodzakelijk is uit het oogpunt van gezondheid, veiligheid, sociale factoren, overmacht of calamiteiten;
 
@@ -1190,19 +1138,19 @@ De categorieën van personen, bedoeld in [artikel 48, eerste lid, derde volzin, 
 
 - c. degenen die ingevolge [artikel 266 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=266) of [267 lid 1 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=267) medehuurder van de betrokken woongelegenheid waren en de overeenkomst van huur en verhuur voortzetten overeenkomstig artikel 266 lid 3, 267 lid 6 of [268 lid 1 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=268).
 
-2. Na het geven van voorrang overeenkomstig het eerste lid houdt de toegelaten instelling bij het aangaan van overeenkomsten van huur en verhuur met betrekking tot haar woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), in de gevallen dat het huishoudinkomen hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27), de volgorde aan die voortvloeit uit het daarover door haar vast te stellen beleid.
+2. Na het geven van voorrang overeenkomstig het eerste lid houdt de toegelaten instelling bij het aangaan van overeenkomsten van huur en verhuur met betrekking tot haar woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), in de gevallen dat het huishoudinkomen hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), de volgorde aan die voortvloeit uit het daarover door haar vast te stellen beleid.
 
 ##### Artikel 60
 
 1. Het verzoek, bedoeld in [artikel 48, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), omvat in elk geval:
 
-- a. het gebied waarin de verzoekende toegelaten instelling of instellingen een lager percentage dan 90 van toepassing willen laten zijn, en welk percentage dat zou moeten zijn;
+- a. het gebied waarin de verzoekende toegelaten instelling of instellingen een lager percentage dan het op grond van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) geldende percentage van toepassing willen laten zijn, en welk percentage dat zou moeten zijn;
 
-- b. het gebied waarin de in het verzoek te noemen andere toegelaten instelling of instellingen een hoger percentage dan 90 van toepassing willen laten zijn, en welk percentage dat zou moeten zijn;
+- b. het gebied waarin de in het verzoek te noemen andere toegelaten instelling of instellingen een hoger percentage dan het op grond van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) geldende percentage van toepassing willen laten zijn, en welk percentage dat zou moeten zijn;
 
 - c. voor hoeveel jaren dat lagere en hogere percentage van toepassing zouden moeten zijn, welk aantal jaren ten hoogste 4 is, en
 
-- d. de wijze waarop gedurende die jaren wordt bewerkstelligd dat na die jaren zal worden voldaan aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48).
+- d. de wijze waarop gedurende die jaren wordt bewerkstelligd dat na die jaren zal worden voldaan aan [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48).
 
 2. Voordat Onze Minister op het verzoek beslist, stelt hij de gemeenten die gelegen zijn in de gebieden, bedoeld in het eerste lid, onderdelen a en b, en waar een of meer van de bij het verzoek betrokken toegelaten instellingen feitelijk werkzaam zijn, in de gelegenheid hun zienswijzen daarop aan hem kenbaar te maken. Die gemeenten kunnen die zienswijzen binnen vier weken aan hem doen toekomen.
 
@@ -1218,7 +1166,7 @@ in welke formule voorstelt:
 
 - –. **wgl/tot (woongelegenheden totaal):** het totale aantal woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), van de betrokken toegelaten instelling volgens de gegevens, opgenomen in het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a).
 
-#### § 2. Compensatie
+#### § 5. Erfpacht
 
 ##### Artikel 61
 
@@ -1254,7 +1202,7 @@ in welke formule voorstelt:
 
 4. in afwijking van het derde lid bedraagt de rendementsnorm:
 
-- a. 0,062 voor toegelaten instellingen als bedoeld in [artikel 41c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c), die zich bij hun werkzaamheden in het bijzonder richten op de huisvesting van categorieën van personen, bedoeld in [artikel 36, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=36&z=2021-11-27&g=2021-11-27);
+- a. 0,062 voor toegelaten instellingen als bedoeld in [artikel 41c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c), die zich bij hun werkzaamheden in het bijzonder richten op de huisvesting van categorieën van personen, bedoeld in [artikel 36, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=36&z=2022-01-01&g=2022-01-01);
 
 - b. 0,057 voor toegelaten instellingen waarvan minimaal 50% van hun woongelegenheden is gelegen in regio’s die volgens de regionale bevolkings- en huishoudensprognose van het Centraal Bureau voor de Statistiek en het Planbureau voor de Leefomgeving nu of in de nabije toekomst kampen met bevolkingsdaling.
 
@@ -1278,21 +1226,21 @@ in welke formule voorstelt:
 
 1. Indien:
 
-- a. het percentage woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), met betrekking tot welke de toegelaten instelling overeenkomsten van huur en verhuur heeft aangegaan in gevallen dat het huishoudinkomen niet hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27), in een boekjaar lager is dan 85, dan wel meer dan 5 procentpunt lager is dan het overeenkomstig artikel 60 vastgestelde percentage;
+- a. het percentage woongelegenheden, bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), met betrekking tot welke de toegelaten instelling overeenkomsten van huur en verhuur heeft aangegaan in gevallen dat het huishoudinkomen niet hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), in een boekjaar meer dan 5 procentpunt lager is dan het op grond van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) geldende dan wel het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2022-01-01&g=2022-01-01) vastgestelde percentage;
 
-- b. de toegelaten instelling gedurende twee achtereenvolgende boekjaren niet voldoet aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), waarbij, indien van toepassing, het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2021-11-27&g=2021-11-27) vastgestelde percentage in aanmerking wordt genomen of
+- b. de toegelaten instelling gedurende twee achtereenvolgende boekjaren niet voldoet aan [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), waarbij, indien van toepassing, het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2022-01-01&g=2022-01-01) vastgestelde percentage in aanmerking wordt genomen of
 
-- c. het percentage woongelegenheden, bedoeld in onderdeel a, in een boekjaar 85 of hoger is en lager is dan 90, dan wel minder dan 5 procentpunt lager is dan het overeenkomstig artikel 60 vastgestelde percentage, en in het daaropvolgende boekjaar niet zodanig hoger is dan 90 dan wel het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2021-11-27&g=2021-11-27) vastgestelde percentage, dat over de twee betrokken boekjaren gezamenlijk bezien voldaan is aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48),
+- c. het percentage woongelegenheden, bedoeld in onderdeel a, in een boekjaar minder dan 5 procentpunt lager is dan het op grond van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) geldende dan wel het overeenkomstig artikel 60 vastgestelde percentage, en in het daaropvolgende boekjaar niet zodanig hoger is dan het op grond van artikel 48, eerste lid, eerste volzin, van de wet geldende percentage dan wel het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2022-01-01&g=2022-01-01) vastgestelde percentage, dat over de twee betrokken boekjaren gezamenlijk bezien voldaan is aan artikel 48, eerste lid, eerste volzin, van de wet,
 
-kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgesteld dat een geval als bedoeld in onderdeel a, b of c zich heeft voorgedaan, terugvorderen, voor zover deze te hoog is gebleken.
+vordert Onze Minister, tenzij hij toepassing geeft aan [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=63&z=2022-01-01&g=2022-01-01), de compensatie, uitsluitend terstond nadat hij heeft vastgesteld dat een geval als bedoeld in onderdeel a, b of c zich heeft voorgedaan, terug, voor zover deze te hoog is gebleken.
 
 2. Indien het, door een toegelaten instelling of een rechtspersoon of vennootschap ten aanzien van welke zij toepassing heeft gegeven aan [artikel 48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), in een boekjaar aangaan van één overeenkomst van huur van verhuur met betrekking tot een andere woongelegenheid van die toegelaten instelling dan die, bedoeld in [artikel 47, eerste lid, onderdeel b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), aanleiding zou geven tot een terugvordering als bedoeld in het eerste lid, wordt geen toepassing aan dat lid gegeven.
 
 ##### Artikel 63
 
-1. Onze Minister kan in een geval als bedoeld in [artikel 62, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=62&z=2021-11-27&g=2021-11-27), uitsluitend terstond nadat hij heeft vastgesteld dat een zodanig geval zich heeft voorgedaan, bepalen dat een toegelaten instelling, zolang zij niet voldoet aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), geen compensatie toekomt in de vorm, bedoeld in [artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), voor werkzaamheden met betrekking tot welke na zijn besluit uit schriftelijke, uitsluitend op die werkzaamheden betrekking hebbende, stukken komt te blijken dat wordt beoogd daarmee een aanvang te maken. Bij de toepassing van de eerste volzin wordt, indien van toepassing, het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2021-11-27&g=2021-11-27) vastgestelde percentage in aanmerking genomen. [Artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=62&z=2021-11-27&g=2021-11-27), is van overeenkomstige toepassing.
+1. Onze Minister kan in een geval als bedoeld in [artikel 62, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=62&z=2022-01-01&g=2022-01-01), uitsluitend terstond nadat hij heeft vastgesteld dat een zodanig geval zich heeft voorgedaan, bepalen dat een toegelaten instelling, zolang zij niet voldoet aan [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), geen compensatie toekomt in de vorm, bedoeld in [artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), voor werkzaamheden met betrekking tot welke na zijn besluit uit schriftelijke, uitsluitend op die werkzaamheden betrekking hebbende, stukken komt te blijken dat wordt beoogd daarmee een aanvang te maken. Bij de toepassing van de eerste volzin wordt, indien van toepassing, het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=60&z=2022-01-01&g=2022-01-01) vastgestelde percentage in aanmerking genomen. [Artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=2&artikel=62&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
-2. Onze Minister kan, indien de toegelaten instelling compensatie heeft verkregen in strijd met een besluit als bedoeld in het eerste lid, die compensatie terugvorderen.
+2. Onze Minister vordert, indien de toegelaten instelling compensatie heeft verkregen in strijd met een besluit als bedoeld in het eerste lid, die compensatie terug.
 
 ### Afdeling 5. Administratieve scheiding en vermogensscheiding
 
@@ -1302,21 +1250,21 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 1. De toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49) ingevolge de tweede volzin van dat lid niet van toepassing is, delen door middel van het opstellen van een kostenverdeelstaat jaarlijks hun baten en lasten toe aan werkzaamheden die behoren respectievelijk niet behoren tot de diensten van algemeen economisch belang. Daarbij maken zij inzichtelijk dat de compensatie uitsluitend ten goede is gekomen aan werkzaamheden die behoren tot de diensten van algemeen economisch belang.
 
-2. Op toegelaten instellingen als bedoeld in het eerste lid zijn de [artikelen 13a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2021-11-27&g=2021-11-27), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=67&z=2021-11-27&g=2021-11-27), [69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2021-11-27&g=2021-11-27), [70 tot en met 78](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2021-11-27&g=2021-11-27), [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2021-11-27&g=2021-11-27), en [80, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=80&z=2021-11-27&g=2021-11-27), niet van toepassing.
+2. Op toegelaten instellingen als bedoeld in het eerste lid zijn de [artikelen 13a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2022-01-01&g=2022-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=67&z=2022-01-01&g=2022-01-01), [69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2022-01-01&g=2022-01-01), [70 tot en met 78](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2022-01-01&g=2022-01-01), [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2022-01-01&g=2022-01-01), en [80, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=80&z=2022-01-01&g=2022-01-01), niet van toepassing.
 
-3. Op toegelaten instellingen als bedoeld in het eerste lid is [artikel 69, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing, met dien verstande dat:
+3. Op toegelaten instellingen als bedoeld in het eerste lid is [artikel 69, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in de aanhef van het eerste lid voor «ten laste van de daeb-tak brengen» wordt gelezen «in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2021-11-27&g=2021-11-27), onder de werkzaamheden die behoren tot de diensten van algemeen economisch belang rangschikken»;
+- a. in de aanhef van het eerste lid voor «ten laste van de daeb-tak brengen» wordt gelezen «in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2022-01-01&g=2022-01-01), onder de werkzaamheden die behoren tot de diensten van algemeen economisch belang rangschikken»;
 
 - b. in het tweede lid:
 
-- 1°. voor «ten laste van de daeb-tak worden gebracht» wordt gelezen «in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2021-11-27&g=2021-11-27), onder de werkzaamheden die behoren tot de diensten van algemeen economisch belang worden gerangschikt» en
+- 1°. voor «ten laste van de daeb-tak worden gebracht» wordt gelezen «in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2022-01-01&g=2022-01-01), onder de werkzaamheden die behoren tot de diensten van algemeen economisch belang worden gerangschikt» en
 
 - 2°. voor «ten laste van die tak worden gebracht» wordt gelezen «zodanig worden gerangschikt» en
 
 - c. in het vijfde lid voor «tweede, derde en vierde lid» wordt gelezen: tweede en derde lid.
 
-4. Op toegelaten instellingen als bedoeld in het eerste lid is [artikel 80, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=80&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing, met dien verstande dat in het tweede lid, onderdeel a, voor «administratief naar de niet-daeb-tak over te brengen» wordt gelezen: in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2021-11-27&g=2021-11-27), te rangschikken onder de werkzaamheden die niet behoren tot de diensten van algemeen economisch belang.
+4. Op toegelaten instellingen als bedoeld in het eerste lid is [artikel 80, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=80&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat in het tweede lid, onderdeel a, voor «administratief naar de niet-daeb-tak over te brengen» wordt gelezen: in de kostenverdeelstaat, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2022-01-01&g=2022-01-01), te rangschikken onder de werkzaamheden die niet behoren tot de diensten van algemeen economisch belang.
 
 5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid.
 
@@ -1324,21 +1272,23 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 ##### Artikel 65
 
-1. De toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49) van toepassing is, nemen in het voorstel, bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), voor elke wijk of buurt waar onroerende zaken zijn gelegen welke zij voornemens is in haar daeb-tak onder te brengen, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2015.
+1. De toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49) van toepassing is, nemen in het voorstel, bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken, voor elke wijk of buurt waar onroerende zaken zijn gelegen welke zij voornemens is in haar daeb-tak onder te brengen, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2015.
 
-2. De toegelaten instellingen, bedoeld in artikel 64, eerste lid, nemen in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), over het jaar 2015, voor elke wijk of buurt waar onroerende zaken zijn gelegen welke ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27) in de daeb-tak zouden kunnen zijn ondergebracht, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2015.
+2. De toegelaten instellingen, bedoeld in artikel 64, eerste lid, nemen in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), over het jaar 2015, voor elke wijk of buurt waar onroerende zaken zijn gelegen welke ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01) in de daeb-tak zouden kunnen zijn ondergebracht, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2015.
 
-3. Indien het in de betrokken gemeente geldende volkshuisvestingsbeleid mede de aanwijzing van een gebied inhoudt waar herstructurering wordt beoogd en dat gebied meer dan een wijk of buurt beslaat, kan de toegelaten instelling voor de toepassing van het eerste of tweede lid uitgaan van de WOZ-waarde van haar onroerende zaken die gelegen zijn in dat gebied.
+3. De toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), van toepassing is, nemen in het voorstel, bedoeld in [artikel 49a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), voor elke wijk of buurt waar onroerende zaken zijn gelegen welke zij voornemens is in haar daeb-tak onder te brengen, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van die zaken.
 
-4. Bij ministeriële regeling wordt bepaald welke delen van een gemeente voor de toepassing van het eerste, tweede en derde lid als wijk of buurt worden beschouwd.
+4. Indien de in de betrokken gemeente geldende woonvisie mede de aanwijzing van een gebied inhoudt waar herstructurering wordt beoogd en dat gebied meer dan een wijk of buurt beslaat, kan de toegelaten instelling voor de toepassing van het eerste, tweede of derde lid uitgaan van de WOZ-waarde van haar onroerende zaken die gelegen zijn in dat gebied.
 
-5. Dit artikel is niet van toepassing, indien de betrokken gemeente een gemeente is als genoemd in [artikel 1.11, tweede lid, onderdeel b, van de Wet maatregelen woningmarkt II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=1.11), of een deelgemeente van de gemeente Rotterdam is als genoemd in artikel 1.11, tweede lid, onderdeel a, van die wet.
+5. Bij ministeriële regeling wordt bepaald welke delen van een gemeente voor de toepassing van het eerste tot en met vierde lid als wijk of buurt worden beschouwd.
+
+6. Dit artikel is niet van toepassing, indien de betrokken gemeente een gemeente is als genoemd in [artikel 1.11, tweede lid, onderdeel b, van de Wet maatregelen woningmarkt II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=1.11), of een deelgemeente van de gemeente Rotterdam is als genoemd in artikel 1.11, tweede lid, onderdeel a, van die wet.
 
 #### § 3. Inrichting van en geldstromen tussen de daeb-tak en de niet-daeb-tak
 
 ##### Artikel 66
 
-1. De toegelaten instelling brengt, onverminderd de [artikelen 50, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50) en [II, derde lid, vierde volzin, onderdeel e, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), in de daeb-tak onder:
+1. De toegelaten instelling brengt, onverminderd [artikel 50, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50), in de daeb-tak onder:
 
 - a. haar verhuurde woongelegenheden met een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, alsmede haar geprojecteerde woongelegenheden die zij voornemens is tegen een zodanige huurprijs te verhuren;
 
@@ -1348,11 +1298,11 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 - d. haar bestaande en geprojecteerde gebouwen, bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) alsmede haar niet verhuurde gebouwen die laatstelijk waren verhuurd overeenkomstig dat artikel;
 
-- e. haar onbebouwde grond, voor zover daarop ingevolge een bestemmingsplan woningbouw zal moeten plaatsvinden, en zij, blijkens het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), voornemens is daarop binnen vijf jaar na het ingangstijdstip, bedoeld in [artikel II, vierde lid, tweede of derde volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), indien zij die grond op dat tijdstip in eigendom had, of binnen vijf jaar na het verwerven van die grond woongelegenheden te doen bouwen, van welke ten minste 90% zal behoren tot de woongelegenheden, bedoeld in onderdeel a;
+- e. haar onbebouwde grond, voor zover daarop ingevolge een bestemmingsplan woningbouw zal moeten plaatsvinden, en zij, blijkens het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), voornemens is daarop binnen vijf jaar na het ingangstijdstip, bedoeld in [artikel II, vierde lid, tweede of derde volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken, indien zij die grond op dat tijdstip in eigendom had, of binnen vijf jaar na het verwerven van die grond woongelegenheden te doen bouwen, van welke ten minste 90% zal behoren tot de woongelegenheden, bedoeld in onderdeel a;
 
 - f. de door haar aangetrokken leningen met gebruikmaking van de borgingsvoorziening, of van borgstelling daarvan door overheden;
 
-- g. de voorziening, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2021-11-27&g=2021-11-27);
+- g. de voorziening, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2022-01-01&g=2022-01-01);
 
 - h. haar financieel waardeerbare rechten en verplichtingen uit hoofde van bedingen die betrekking hebben op een opvolgende vervreemding door de verkrijger van een woongelegenheid van de toegelaten instelling, indien die woongelegenheid op het tijdstip dat deze laatstelijk door de toegelaten instelling werd verhuurd, was aan te merken als een woongelegenheid als bedoeld in onderdeel a of c, en is vervreemd aan een natuurlijke persoon, en
 
@@ -1362,11 +1312,11 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 ##### Artikel 67
 
-1. De toegelaten instelling brengt, onverminderd de [artikelen 50, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50), en [II, derde lid, vierde volzin, onderdeel e, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), in de niet-daeb-tak onder:
+1. De toegelaten instelling brengt, onverminderd [artikel 50, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50), in de niet-daeb-tak onder:
 
-- a. haar bestaande en geprojecteerde onroerende zaken die zij niet ingevolge [artikel 66, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), of het bepaalde krachtens artikel 66, tweede lid, in de daeb-tak onderbrengt;
+- a. haar bestaande en geprojecteerde onroerende zaken die zij niet ingevolge [artikel 66, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), of het bepaalde krachtens artikel 66, tweede lid, in de daeb-tak onderbrengt;
 
-- b. de andere door haar aangetrokken leningen dan die, bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), niet zijnde vlottende schuld;
+- b. de andere door haar aangetrokken leningen dan die, bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), niet zijnde vlottende schuld;
 
 - c. haar financieel waardeerbare rechten en verplichtingen uit hoofde van bedingen die betrekking hebben op een opvolgende vervreemding door de verkrijger van een woongelegenheid van de toegelaten instelling, indien die woongelegenheid op het tijdstip dat deze laatstelijk door de toegelaten instelling werd verhuurd, niet was aan te merken als een woongelegenheid als bedoeld in onderdeel a of c, en is vervreemd aan een natuurlijke persoon;
 
@@ -1378,11 +1328,11 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 ##### Artikel 68
 
-1. Ten behoeve van de toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2021-11-27&g=2021-11-27) tot en met 31 december 2025 hanteren de toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49) van toepassing is, het bedrag, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2021-11-27&g=2021-11-27), dat deel uitmaakt van een goedgekeurd voorstel als bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II). Ten behoeve van die toepassing na die datum stellen die toegelaten instellingen, voor elke wijk of buurt waar onroerende zaken zijn gelegen welke zij in de daeb-tak hebben ondergebracht, een bedrag vast dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2025.
+1. Ten behoeve van de toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2022-01-01&g=2022-01-01) tot en met 31 december 2025 hanteren de toegelaten instellingen op welke [artikel 49, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49) van toepassing is, het bedrag, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2022-01-01&g=2022-01-01), dat deel uitmaakt van een goedgekeurd voorstel als bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken, of dat deel uitmaakt van een goedgekeurd voorstel als bedoeld in [artikel 49a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a). Ten behoeve van die toepassing na die datum stellen die toegelaten instellingen, voor elke wijk of buurt waar onroerende zaken zijn gelegen welke zij in de daeb-tak hebben ondergebracht, een bedrag vast dat gelijk is aan 5% van de WOZ-waarde van die zaken op 31 december 2025.
 
-2. Ten behoeve van de toepassing van [artikel 69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2021-11-27&g=2021-11-27), tot en met 31 december 2025 hanteren de toegelaten instellingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2021-11-27&g=2021-11-27), het bedrag, bedoeld in [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2021-11-27&g=2021-11-27). Ten behoeve van die toepassing na die datum nemen zij in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), over het jaar 2025, op de wijze, bedoeld in artikel 65, tweede lid, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van de betrokken onroerende zaken op 31 december 2025.
+2. Ten behoeve van de toepassing van [artikel 69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=69&z=2022-01-01&g=2022-01-01), tot en met 31 december 2025 hanteren de toegelaten instellingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=1&artikel=64&z=2022-01-01&g=2022-01-01), het bedrag, bedoeld in [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2022-01-01&g=2022-01-01). Ten behoeve van die toepassing na die datum nemen zij in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36), over het jaar 2025, op de wijze, bedoeld in artikel 65, tweede lid, een bedrag op dat gelijk is aan 5% van de WOZ-waarde van de betrokken onroerende zaken op 31 december 2025.
 
-3. [Artikel 65, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2021-11-27&g=2021-11-27), is van overeenkomstige toepassing.
+3. [Artikel 65, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 4. Dit artikel is niet van toepassing, indien de betrokken gemeente een gemeente is als genoemd in [artikel 1.11, tweede lid, onderdeel b, van de Wet maatregelen woningmarkt II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=1.11), of een deelgemeente van de gemeente Rotterdam is als genoemd in artikel 1.11, tweede lid, onderdeel a, van die wet.
 
@@ -1390,11 +1340,11 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 1. De toegelaten instelling kan in geval van herstructurering ten laste van de daeb-tak brengen:
 
-- a. voor zover die herstructurering bestaat uit werkzaamheden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), begripsomschrijving van herstructurering, aanhef en onderdeel a: de kosten die zijn gemoeid met het verwerven van de betrokken onroerende zaken die verband houden met werkzaamheden die behoren tot de diensten van algemeen economisch belang, dan wel met de afboeking van die onroerende zaken, vermeerderd met de kosten van de sloop van die onroerende zaken en het bouwrijp maken van de grond ter plaatse van die sloop, en verminderd met de op residuele wijze, uitgaande van de voorgenomen bouw van onroerende zaken die verband houden met werkzaamheden die niet behoren tot de diensten van algemeen economisch belang, bepaalde marktwaarde van die grond na het bouwrijp maken daarvan;
+- a. voor zover die herstructurering bestaat uit werkzaamheden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), begripsomschrijving van herstructurering, aanhef en onderdeel a: de kosten die zijn gemoeid met het verwerven van de betrokken onroerende zaken die verband houden met werkzaamheden die behoren tot de diensten van algemeen economisch belang, dan wel met de afboeking van die onroerende zaken, vermeerderd met de kosten van de sloop van die onroerende zaken en het bouwrijp maken van de grond ter plaatse van die sloop, en verminderd met de op residuele wijze, uitgaande van de voorgenomen bouw van onroerende zaken die verband houden met werkzaamheden die niet behoren tot de diensten van algemeen economisch belang, bepaalde marktwaarde van die grond na het bouwrijp maken daarvan;
 
-- b. voor zover die herstructurering bestaat uit werkzaamheden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), begripsomschrijving van herstructurering, aanhef en onderdeel b: de kosten die zijn gemoeid met het verwerven van de betrokken onroerende zaken die verband houden met werkzaamheden die behoren tot de diensten van algemeen economisch belang, dan wel met de afboeking van die onroerende zaken, verminderd met de op residuele wijze, uitgaande van het voorgenomen treffen van ingrijpende voorzieningen of de voorgenomen samenvoeging, bepaalde marktwaarde van die onroerende zaken.
+- b. voor zover die herstructurering bestaat uit werkzaamheden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), begripsomschrijving van herstructurering, aanhef en onderdeel b: de kosten die zijn gemoeid met het verwerven van de betrokken onroerende zaken die verband houden met werkzaamheden die behoren tot de diensten van algemeen economisch belang, dan wel met de afboeking van die onroerende zaken, verminderd met de op residuele wijze, uitgaande van het voorgenomen treffen van ingrijpende voorzieningen of de voorgenomen samenvoeging, bepaalde marktwaarde van die onroerende zaken.
 
-2. Bij toepassing van het eerste lid kan in het tijdvak dat aanvangt op het ingangstijdstip, bedoeld in [artikel II, vierde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), en eindigt op 31 december 2025, ten hoogste het bedrag, bedoeld in [artikel 65, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2021-11-27&g=2021-11-27), ten laste van de daeb-tak worden gebracht. Bij toepassing van dat lid kan per daaropvolgend tijdvak van tien jaar, waarvan het eerste aanvangt op 1 januari 2026 en de volgende telkens tien jaar nadien, ten hoogste het bedrag, bedoeld in [artikel 68, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), ten laste van die tak worden gebracht.
+2. Bij toepassing van het eerste lid kan in het tijdvak dat aanvangt op het ingangstijdstip, bedoeld in [artikel II, vierde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken, of het ingangstijdstip, bedoeld in [artikel 49a, derde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), en dat eindigt op 31 december 2025, ten hoogste het bedrag, bedoeld in [artikel 65, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=2&artikel=65&z=2022-01-01&g=2022-01-01), ten laste van de daeb-tak worden gebracht. Bij toepassing van dat lid kan per daaropvolgend tijdvak van tien jaar, waarvan het eerste aanvangt op 1 januari 2026 en de volgende telkens tien jaar nadien, ten hoogste het bedrag, bedoeld in [artikel 68, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), ten laste van die tak worden gebracht.
 
 3. Het ten laste brengen in enig tijdvak, bedoeld in het eerste en tweede lid, is uitsluitend van toepassing op herstructurering, met welke in dat tijdvak een aanvang is gemaakt, of met betrekking tot welke uit schriftelijke, uitsluitend op die herstructurering betrekking hebbende, stukken blijkt dat het maken van die aanvang wordt beoogd. Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de toepassing van dit lid.
 
@@ -1404,9 +1354,9 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 ##### Artikel 70
 
-1. Indien de toepassing van het bepaalde bij en krachtens de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=67&z=2021-11-27&g=2021-11-27) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van de daeb-tak niet in dezelfde mate is gewaarborgd als die van de niet-daeb-tak, voert de toegelaten instelling bij die toepassing onder de naam «interne startlening» een vordering van de daeb-tak op de niet-daeb-tak op. Op het rentepercentage van die vordering is het bepaalde bij en krachtens [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing, met dien verstande dat het rentepercentage, bedoeld in dat artikel, geldt als minimumpercentage.
+1. Indien de toepassing van het bepaalde bij en krachtens de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=67&z=2022-01-01&g=2022-01-01) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van de daeb-tak niet in dezelfde mate is gewaarborgd als die van de niet-daeb-tak, voert de toegelaten instelling bij die toepassing onder de naam «interne startlening» een vordering van de daeb-tak op de niet-daeb-tak op. Op het rentepercentage van die vordering is het bepaalde bij en krachtens [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat het rentepercentage, bedoeld in dat artikel, geldt als minimumpercentage.
 
-2. Van de vordering, bedoeld in het eerste lid, wordt ten minste een maal per vijf jaar een bedrag ingelost, dat verhoudingsgewijs gelijk is aan het periodiek af te lossen bedrag op de leningen die zijn aangetrokken met gebruikmaking van de borgingsvoorziening. Bij de toepassing van de eerste volzin wordt uitgegaan van die vordering en die leningen als opgenomen in het voorstel, bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), dat Onze Minister ingevolge artikel II, vierde lid, eerste volzin, van die wet heeft goedgekeurd.
+2. Van de vordering, bedoeld in het eerste lid, wordt ten minste een maal per vijf jaar een bedrag ingelost, dat verhoudingsgewijs gelijk is aan het periodiek af te lossen bedrag op de leningen die zijn aangetrokken met gebruikmaking van de borgingsvoorziening. Bij de toepassing van de eerste volzin wordt uitgegaan van die vordering en die leningen als opgenomen in het door Onze Minister goedgekeurde voorstel, bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken, of het door Onze Minister goedgekeurde voorstel, bedoeld in [artikel 49a, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a).
 
 3. De toegelaten instelling kan Onze Minister verzoeken om de inlossing, bedoeld in het tweede lid, op een later tijdstip te stellen of het in te lossen bedrag lager vast te stellen. Onze Minister willigt het verzoek uitsluitend in, indien naar zijn oordeel daardoor wordt voorkomen dat de financiële continuïteit van de niet-daeb-tak niet meer is gewaarborgd en de financiële continuïteit van de daeb-tak gewaarborgd blijft. Hij kan aan dat inwilligen nadere voorwaarden verbinden.
 
@@ -1414,19 +1364,19 @@ kan Onze Minister de compensatie, uitsluitend terstond nadat hij heeft vastgeste
 
 ##### Artikel 71
 
-1. Overdrachten door de toegelaten instelling tussen haar daeb-tak en haar niet-daeb-tak van garanties of rechten van pand of hypotheek op zaken en daarmee verbonden rechten na het tijdstip waarop artikel I van de Herzieningswet toegelaten instellingen volkshuisvesting in werking is getreden leiden op generlei wijze tot een wijziging voor derden in het kunnen inroepen van hun rechten jegens de toegelaten instelling.
+1. Overdrachten door de toegelaten instelling tussen haar daeb-tak en haar niet-daeb-tak van garanties of rechten van pand of hypotheek op zaken en daarmee verbonden rechten na 1 juli 2015 leiden op generlei wijze tot een wijziging voor derden in het kunnen inroepen van hun rechten jegens de toegelaten instelling.
 
-2. De toegelaten instelling verschaft vanuit haar daeb-tak niet anderszins financiële middelen aan haar niet-daeb-tak dan door middel van een voorziening als bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2021-11-27&g=2021-11-27), een interne startlening als bedoeld in artikel 70, eerste lid, of een interne lening als bedoeld in [artikel 79, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2021-11-27&g=2021-11-27). Zij verschaft vanuit haar daeb-tak geen garanties aan haar niet-daeb-tak.
+2. De toegelaten instelling verschaft vanuit haar daeb-tak niet anderszins financiële middelen aan haar niet-daeb-tak dan door middel van een voorziening als bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2022-01-01&g=2022-01-01), een interne startlening als bedoeld in artikel 70, eerste lid, of een interne lening als bedoeld in [artikel 79, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2022-01-01&g=2022-01-01). Zij verschaft vanuit haar daeb-tak geen garanties aan haar niet-daeb-tak.
 
 3. De toegelaten instelling kan Onze Minister verzoeken om een ontheffing van het verbod, bedoeld in het tweede lid. Onze Minister willigt het verzoek uitsluitend in, indien dat naar zijn oordeel noodzakelijk is:
 
 - a. om te voorkomen dat de toegelaten instelling gehouden is om schulden van de niet-daeb-tak uit haar daeb-tak te voldoen of
 
-- b. ten behoeve van de herfinanciering van leningen die bestonden op het tijdstip waarop [artikel I van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=I) in werking is getreden en nadien in de niet-daeb-tak zijn ondergebracht.
+- b. ten behoeve van de herfinanciering van leningen die bestonden op 1 juli 2015 en nadien in de niet-daeb-tak zijn ondergebracht.
 
 ##### Artikel 72
 
-De administratie van de toegelaten instelling wordt met inachtneming van het bepaalde bij en krachtens de [artikelen 66 tot en met 71](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27) ingericht. In die administratie wordt elke overdracht van financiële middelen vanuit de niet-daeb-tak van de toegelaten instelling aan haar daeb-tak afzonderlijk verantwoord.
+De administratie van de toegelaten instelling wordt met inachtneming van het bepaalde bij en krachtens de [artikelen 66 tot en met 71](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01) ingericht. In die administratie wordt elke overdracht van financiële middelen vanuit de niet-daeb-tak van de toegelaten instelling aan haar daeb-tak afzonderlijk verantwoord.
 
 #### § 2. Compensatie
 
@@ -1448,11 +1398,11 @@ De administratie van de toegelaten instelling wordt met inachtneming van het bep
 
 1. Het verzoek om goedkeuring van de voorgenomen administratieve scheiding gaat in elk geval vergezeld van:
 
-- a. het voorstel, bedoeld in [artikel II, derde lid, tweede volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), en een schriftelijke toelichting daarop;
+- a. het voorstel, bedoeld in [artikel 49a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), en een schriftelijke toelichting daarop;
 
-- b. de gegevens over de beoogde toepassing van het bepaalde bij en krachtens de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2021-11-27&g=2021-11-27), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2021-11-27&g=2021-11-27) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=71&z=2021-11-27&g=2021-11-27);
+- b. de gegevens over de beoogde toepassing van het bepaalde bij en krachtens de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2022-01-01&g=2022-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2022-01-01&g=2022-01-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=71&z=2022-01-01&g=2022-01-01);
 
-- c. de zienswijzen daarop van de personen en instanties, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=4&artikel=73&z=2021-11-27&g=2021-11-27), en, in geval van een negatieve zodanige zienswijze, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een zienswijze, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd;
+- c. de zienswijzen daarop van de personen en instanties, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=4&artikel=73&z=2022-01-01&g=2022-01-01), en, in geval van een negatieve zodanige zienswijze, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een zienswijze, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd;
 
 - d. de adviezen, bedoeld in [artikel 5, eerste lid, van de Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&artikel=5), en, in geval van een negatief zodanig advies, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een advies, bescheiden waaruit blijkt dat zij om dat advies heeft gevraagd en
 
@@ -1460,9 +1410,9 @@ De administratie van de toegelaten instelling wordt met inachtneming van het bep
 
 2. In de toelichting op het voorstel voor de voorgenomen administratieve scheiding wordt in elk geval opgenomen:
 
-- a. de motieven voor het bij die scheiding toepassing geven aan [artikel II, derde lid, derde volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), waarbij in elk geval wordt ingegaan op het door de toegelaten instelling na die toepassing kunnen naleven van [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48);
+- a. de motieven voor het bij die scheiding toepassing geven aan [artikel 49a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), waarbij in elk geval wordt ingegaan op het door de toegelaten instelling na die toepassing kunnen naleven van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48);
 
-- b. een overzicht van haar werkzaamheden, baten, lasten, activa en passiva, bedoeld in [artikel II, derde lid, derde volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), die zij voornemens is in de niet-daeb-tak onder te brengen, welk overzicht wat betreft haar woongelegenheden en gebouwen is uitgesplitst per gemeente waar zij gelegen zijn, en waarin zijn opgenomen de modelmatige marktwaarde van die woongelegenheden en gebouwen, alsmede de huurprijs en de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), van die woongelegenheden;
+- b. een overzicht van haar werkzaamheden, baten, lasten, activa en passiva, bedoeld in [artikel 49a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), in samenhang met [artikel 50, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50), die zij voornemens is in de niet-daeb-tak onder te brengen, welk overzicht wat betreft haar woongelegenheden en gebouwen is uitgesplitst per gemeente waar zij gelegen zijn, en waarin zijn opgenomen de modelmatige marktwaarde van die woongelegenheden en gebouwen, alsmede de huurprijs en de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), van die woongelegenheden;
 
 - c. een uiteenzetting over de financiële relaties die als gevolg van die scheiding tussen de daeb-tak en de niet-daeb-tak zullen bestaan;
 
@@ -1486,7 +1436,7 @@ Op verzoek van Onze Minister verstrekt de toegelaten instelling hem nadere inlic
 
 - b. de verhouding tussen het saldo van zijn operationele kasstromen en zijn rentelasten gedurende de eerste vijf jaren na die scheiding en
 
-- c. de meest recente beoordeling van zijn kredietwaardigheid door de borgingsvoorziening, indien de toegelaten instelling leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), heeft aangetrokken.
+- c. de meest recente beoordeling van zijn kredietwaardigheid door de borgingsvoorziening, indien de toegelaten instelling leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), heeft aangetrokken.
 
 2. Onze Minister betrekt bij zijn beoordeling van de financiële continuïteit van de niet-daeb-tak na goedkeuring van de voorgenomen administratieve scheiding in elk geval zijn geraamde solvabiliteit na die scheiding.
 
@@ -1496,9 +1446,9 @@ Op verzoek van Onze Minister verstrekt de toegelaten instelling hem nadere inlic
 
 Onze Minister keurt een voorgenomen administratieve scheiding niet goed, indien:
 
-- a. de uitvoering van de daarin vervatte voornemens ertoe zou leiden dat de toegelaten instelling niet voldoet aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) of
+- a. de uitvoering van de daarin vervatte voornemens ertoe zou leiden dat de toegelaten instelling niet voldoet aan [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) of
 
-- b. de zienswijze van een college als bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=4&artikel=73&z=2021-11-27&g=2021-11-27), daartoe naar zijn oordeel aanleiding geeft.
+- b. de zienswijze van een college of bewonersorganisatie als bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=4&artikel=73&z=2022-01-01&g=2022-01-01), daartoe naar zijn oordeel aanleiding geeft.
 
 #### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
@@ -1508,9 +1458,9 @@ Onze Minister keurt een voorgenomen administratieve scheiding niet goed, indien:
 
 2. In een geval als bedoeld in het eerste lid brengt de toegelaten instelling in haar niet-daeb-tak onder:
 
-- a. de betrokken woongelegenheden, tegen hun modelmatige marktwaarde, onder een gelijktijdige verrekening tussen haar niet-daeb-tak en haar daeb-tak waarmee een geldbedrag gemoeid is dat hetzij gelijk is aan die modelmatige marktwaarde, hetzij lager is dan die modelmatige marktwaarde, in welk geval zij voorts tegelijkertijd ten laste van de voorziening, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2021-11-27&g=2021-11-27), een interne lening verstrekt welke aan de niet-daeb-tak ten goede komt, ter hoogte van het verschil tussen het verrekende bedrag en die modelmatige marktwaarde, welke lening een rentepercentage heeft dat gelijk is aan de op het tijdstip van verstrekking daarvan geldende rente op tienjarige staatsleningen, vermeerderd met een bij ministeriële regeling te bepalen percentage, en wordt afgelost onder overeenkomstige toepassing van [artikel 10, tweede lid, onderdeel b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27), en
+- a. de betrokken woongelegenheden, tegen hun modelmatige marktwaarde, onder een gelijktijdige verrekening tussen haar niet-daeb-tak en haar daeb-tak waarmee een geldbedrag gemoeid is dat hetzij gelijk is aan die modelmatige marktwaarde, hetzij lager is dan die modelmatige marktwaarde, in welk geval zij voorts tegelijkertijd ten laste van de voorziening, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13a&z=2022-01-01&g=2022-01-01), een interne lening verstrekt welke aan de niet-daeb-tak ten goede komt, ter hoogte van het verschil tussen het verrekende bedrag en die modelmatige marktwaarde, welke lening een rentepercentage heeft dat gelijk is aan de op het tijdstip van verstrekking daarvan geldende rente op tienjarige staatsleningen, vermeerderd met een bij ministeriële regeling te bepalen percentage, en wordt afgelost onder overeenkomstige toepassing van [artikel 10, tweede lid, onderdeel b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), en
 
-- b. de aan die woongelegenheden toe te rekenen gedeelten van de verplichtingen, baten en lasten, bedoeld in [artikel 66, eerste lid, onderdelen f, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27).
+- b. de aan die woongelegenheden toe te rekenen gedeelten van de verplichtingen, baten en lasten, bedoeld in [artikel 66, eerste lid, onderdelen f, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 80
 
@@ -1524,7 +1474,7 @@ Onze Minister keurt een voorgenomen administratieve scheiding niet goed, indien:
 
 - d. gebouwen als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), of
 
-- e. gebouwen ten aanzien van welke Onze Minister toepassing heeft gegeven aan [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2021-11-27&g=2021-11-27),
+- e. gebouwen ten aanzien van welke Onze Minister toepassing heeft gegeven aan [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01),
 
 en de werkzaamheden die noodzakelijkerwijs uit het verrichten van die werkzaamheden voortvloeien.
 
@@ -1532,15 +1482,15 @@ en de werkzaamheden die noodzakelijkerwijs uit het verrichten van die werkzaamhe
 
 - a. een overzicht van haar woongelegenheden of gebouwen als bedoeld in het eerste lid, onderdeel a, b, c, d of e, die zij voornemens is administratief naar de niet-daeb-tak over te brengen, dat is uitgesplitst per gemeente waar die woongelegenheden of gebouwen gelegen zijn, en waarin zijn opgenomen de modelmatige marktwaarde van die woongelegenheden of gebouwen, alsmede de huurprijs en de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), van die woongelegenheden, en
 
-- b. de zienswijze van de betrokken gemeenten op het verzoek.
+- b. de zienswijze van de betrokken gemeenten en bewonersorganisaties op het verzoek, tenzij de toegelaten instelling met die gemeenten en bewonersorganisaties op grond van [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), afspraken heeft gemaakt over de omvang van de voorraad van woongelegenheden of gebouwen als bedoeld in het eerste lid, onderdeel a, b, c, d of e, en de vervreemding van een deel van die voorraad.
 
 3. Onze Minister willigt het verzoek niet in, indien:
 
 - a. de uitvoering van de daarin vervatte voornemens er naar zijn oordeel toe zou leiden dat de toegelaten instelling niet voldoet aan [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) of
 
-- b. een zienswijze als bedoeld in het tweede lid, onderdeel b, daartoe naar zijn oordeel aanleiding geeft.
+- b. een zienswijze als bedoeld in het tweede lid, onderdeel b, daartoe naar zijn oordeel aanleiding geeft of, na mogelijkheid tot herstel, onterecht niet is meegezonden.
 
-4. [Artikel 79, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2021-11-27&g=2021-11-27), is van overeenkomstige toepassing.
+4. [Artikel 79, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=5&artikel=79&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing op de woongelegenheden en gebouwen, bedoeld in het eerste lid.
 
 5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent hetgeen waarvan een verzoek als bedoeld in [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50) vergezeld gaat, en de gronden waarop Onze Minister het verzoek niet inwilligt.
 
@@ -1552,11 +1502,11 @@ en de werkzaamheden die noodzakelijkerwijs uit het verrichten van die werkzaamhe
 
 1. De toegelaten instelling brengt in een woningvennootschap onder:
 
-- a. haar bestaande en geprojecteerde onroerende zaken die zij bij een administratieve scheiding niet ingevolge [artikel 66, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), of het bepaalde krachtens artikel 66, tweede lid, in de daeb-tak zou onderbrengen;
+- a. haar bestaande en geprojecteerde onroerende zaken die zij bij een administratieve scheiding niet ingevolge [artikel 66, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), of het bepaalde krachtens artikel 66, tweede lid, in de daeb-tak zou onderbrengen;
 
-- b. de andere door haar aangetrokken leningen dan die, bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), niet zijnde vlottende schuld;
+- b. de andere door haar aangetrokken leningen dan die, bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), niet zijnde vlottende schuld;
 
-- c. haar financieel waardeerbare rechten en verplichtingen uit hoofde van bedingen, inhoudende dat bij vervreemding door de koper van een door haar aan hem vervreemde woongelegenheid die laatstelijk voordien niet een woongelegenheid als bedoeld in [artikel 66, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), of [artikel 47, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47) was, die koper aan haar of zij aan die koper een bedrag verschuldigd is, en
+- c. haar financieel waardeerbare rechten en verplichtingen uit hoofde van bedingen, inhoudende dat bij vervreemding door de koper van een door haar aan hem vervreemde woongelegenheid die laatstelijk voordien niet een woongelegenheid als bedoeld in [artikel 66, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), of [artikel 47, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47) was, die koper aan haar of zij aan die koper een bedrag verschuldigd is, en
 
 - d. de met haar verbonden ondernemingen, alsmede haar financieel waardeerbare rechten en verplichtingen jegens die ondernemingen, en
 
@@ -1570,23 +1520,23 @@ en de werkzaamheden die noodzakelijkerwijs uit het verrichten van die werkzaamhe
 
 - b. aantoont dat toereikend toepassing gegeven kan worden aan [artikel 42, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=42).
 
-Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27) en in verband daarmee vierde lid, is van overeenkomstige toepassing.
+Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01) en in verband daarmee vierde lid, is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent hetgeen de toegelaten instelling in een woningvennootschap onderbrengt of kan onderbrengen.
 
 ##### Artikel 82
 
-1. Indien de toepassing van het bepaalde bij en krachtens [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2021-11-27&g=2021-11-27) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van een woningvennootschap niet in dezelfde mate is gewaarborgd als die van de toegelaten instelling, verstrekt de toegelaten instelling bij die toepassing een startlening aan de woningvennootschap. De startlening kan een hypothecaire lening zijn. Op het rentepercentage en de aflossing van die lening is het bepaalde bij en krachtens [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing, met dien verstande dat het rentepercentage, bedoeld in dat artikel, geldt als minimumpercentage.
+1. Indien de toepassing van het bepaalde bij en krachtens [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2022-01-01&g=2022-01-01) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van een woningvennootschap niet in dezelfde mate is gewaarborgd als die van de toegelaten instelling, verstrekt de toegelaten instelling bij die toepassing een startlening aan de woningvennootschap. De startlening kan een hypothecaire lening zijn. Op het rentepercentage en de aflossing van die lening is het bepaalde bij en krachtens [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat het rentepercentage, bedoeld in dat artikel, geldt als minimumpercentage.
 
 2. De woningvennootschap zet voor de aflossing van de startlening het gedeelte van de netto-opbrengst in van de vervreemding van haar onroerende zaken, niet zijnde woongelegenheden waarin natuurlijke personen als eigenaar hun hoofdverblijf zullen hebben, dat verhoudingsgewijs gelijk is aan het aandeel van de modelmatige marktwaarde van die zaken in de totale modelmatige marktwaarde van haar onroerende zaken op het tijdstip van die vervreemding. De eerste volzin is niet van toepassing, indien zij de in die volzin bedoelde netto-opbrengst besteedt aan het bouwen of verwerven van, of het treffen van ingrijpende voorzieningen aan, woongelegenheden of gebouwen, of zij ten overstaan van Onze Minister aannemelijk maakt dat aanhouding daarvan noodzakelijk is voor haar voortbestaan in financieel opzicht.
 
-3. Indien de toepassing van het bepaalde bij en krachtens [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2021-11-27&g=2021-11-27) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van de woningvennootschap in onvoldoende mate is gewaarborgd, kan de toegelaten instelling bij die toepassing, in afwijking van artikel 81, eerste lid, onderdeel b, besluiten andere leningen dan die, genoemd in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), niet in die woningvennootschap onder te brengen.
+3. Indien de toepassing van het bepaalde bij en krachtens [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=81&z=2022-01-01&g=2022-01-01) er zonder nadere maatregelen toe zou leiden, dat de financiële continuïteit van de woningvennootschap in onvoldoende mate is gewaarborgd, kan de toegelaten instelling bij die toepassing, in afwijking van artikel 81, eerste lid, onderdeel b, besluiten andere leningen dan die, genoemd in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), niet in die woningvennootschap onder te brengen.
 
 4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 83
 
-1. De toegelaten instelling verschaft bij de bewerkstelliging van een juridische scheiding niet anderszins financiële middelen aan een woningvennootschap dan door middel van een startlening als bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=82&z=2021-11-27&g=2021-11-27), of in de vorm van aandelenkapitaal. Er zijn geen preferente aandelen, indien die ertoe zouden leiden dat de toegelaten instelling die een meerderheid van de aandelen houdt niet in staat is een dienovereenkomstige invloed op de gang van zaken in de woningvennootschap uit te oefenen.
+1. De toegelaten instelling verschaft bij de bewerkstelliging van een juridische scheiding niet anderszins financiële middelen aan een woningvennootschap dan door middel van een startlening als bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=82&z=2022-01-01&g=2022-01-01), of in de vorm van aandelenkapitaal. Er zijn geen preferente aandelen, indien die ertoe zouden leiden dat de toegelaten instelling die een meerderheid van de aandelen houdt niet in staat is een dienovereenkomstige invloed op de gang van zaken in de woningvennootschap uit te oefenen.
 
 2. De toegelaten instelling stelt zich in generlei opzicht garant voor een woningvennootschap.
 
@@ -1612,11 +1562,11 @@ Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.n
 
 - a. een voorstel voor die scheiding en een schriftelijke toelichting daarop;
 
-- b. de gegevens over de beoogde toepassing van het bepaalde bij en krachtens de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=82&z=2021-11-27&g=2021-11-27) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=83&z=2021-11-27&g=2021-11-27);
+- b. de gegevens over de beoogde toepassing van het bepaalde bij en krachtens de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=82&z=2022-01-01&g=2022-01-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=1&artikel=83&z=2022-01-01&g=2022-01-01);
 
 - c. een overzicht van de woongelegenheden van de toegelaten instelling met een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, waarvan de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), kan leiden tot een huurprijs die hoger is dan dat bedrag, die zij voornemens is in een woningvennootschap onder te brengen;
 
-- d. de zienswijzen daarop van de personen en instanties, bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=2&artikel=84&z=2021-11-27&g=2021-11-27), en, in geval van een negatieve zodanige zienswijze, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een zienswijze, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd;
+- d. de zienswijzen daarop van de personen en instanties, bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=6&paragraaf=2&artikel=84&z=2022-01-01&g=2022-01-01), en, in geval van een negatieve zodanige zienswijze, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een zienswijze, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd;
 
 - e. de adviezen, bedoeld in [artikel 5, eerste lid, van de Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&artikel=5), en, in geval van een negatief zodanig advies, een onderbouwde reactie daarop van de toegelaten instelling, dan wel, bij het uitgebleven zijn van een advies, bescheiden waaruit blijkt dat zij om dat advies heeft gevraagd en
 
@@ -1628,9 +1578,9 @@ Het bepaalde bij en krachtens [artikel 10, eerste lid](https://wetten.overheid.n
 
 - b. de motieven voor het bij die scheiding toepassing geven aan [artikel 50a, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50), waarbij in elk geval wordt ingegaan op:
 
-- 1°. het door de toegelaten instelling na die toepassing kunnen naleven van [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) en
+- 1°. het door de toegelaten instelling na die toepassing kunnen naleven van [artikel 48, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) en
 
-- 2°. het door die toepassing bijdragen aan het beschikbaar komen van geliberaliseerde woongelegenheden voor huishoudens met een huishoudinkomen dat hoger is dan de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27);
+- 2°. het door die toepassing bijdragen aan het beschikbaar komen van geliberaliseerde woongelegenheden voor huishoudens met een huishoudinkomen dat hoger is dan de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01);
 
 - c. een overzicht van haar werkzaamheden, baten, lasten, activa en passiva, bedoeld in [artikel 50a, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50a), die zij voornemens is in de woningvennootschap onder te brengen, waarin zijn opgenomen de huurprijs en de waardering van de kwaliteit, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5), van de betrokken woongelegenheden;
 
@@ -1658,7 +1608,7 @@ Op verzoek van Onze Minister verstrekt de toegelaten instelling hem nadere inlic
 
 - b. de verhouding tussen het saldo van haar operationele kasstromen en haar rentelasten gedurende de eerste vijf jaren na die scheiding en
 
-- c. de meest recente beoordeling van haar kredietwaardigheid door de borgingsvoorziening, indien zij leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), heeft aangetrokken.
+- c. de meest recente beoordeling van haar kredietwaardigheid door de borgingsvoorziening, indien zij leningen als bedoeld in [artikel 66, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), heeft aangetrokken.
 
 2. Onze Minister betrekt bij zijn beoordeling van de financiële continuïteit van een woningvennootschap na goedkeuring van de voorgenomen juridische scheiding in elk geval haar geraamde solvabiliteit na die scheiding.
 
@@ -1666,9 +1616,9 @@ Op verzoek van Onze Minister verstrekt de toegelaten instelling hem nadere inlic
 
 ##### Artikel 89
 
-Op de goedkeuring van de juridische scheiding is [artikel 9, eerste lid, aanhef en onderdelen b, c, d en e, en derde,lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=9&z=2021-11-27&g=2021-11-27) van overeenkomstige toepassing, met dien verstande dat Onze Minister op verzoek van de toegelaten instelling een hoger percentage dan dat, genoemd in artikel 9, eerste lid, onderdeel d, kan vaststellen, indien de toegelaten instelling bij dat verzoek aantoont dat zonder toepassing van dat hogere percentage de financiële continuïteit van de toegelaten instelling respectievelijk de woningvennootschap onvoldoende gewaarborgd is.
+Op de goedkeuring van de juridische scheiding is [artikel 9, eerste lid, aanhef en onderdelen a, b, c en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=9&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister op verzoek van de toegelaten instelling een hoger percentage dan dat, genoemd in artikel 9, eerste lid, onderdeel c, kan vaststellen, indien de toegelaten instelling bij dat verzoek aantoont dat zonder toepassing van dat hogere percentage de financiële continuïteit van de toegelaten instelling respectievelijk de woningvennootschap onvoldoende gewaarborgd is.
 
-#### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling
+#### § 2. Compensatie
 
 ##### Artikel 90
 
@@ -1686,21 +1636,25 @@ Indien toegelaten instellingen beogen met elkaar te fuseren, dienen zij gezamenl
 
 ##### Artikel 92
 
-De fuserende toegelaten instelling informeert zo spoedig mogelijk de colleges van burgemeester en wethouders van de gemeenten waar zij haar woonplaats heeft, van die waar zij feitelijk werkzaam is, van die waar de fuserende toegelaten instelling na de voorgenomen fusie haar woonplaats zal hebben en van die waar zij na die fusie feitelijk werkzaam zal zijn over haar fusievoornemens, haar motieven daarvoor en de verwachte gevolgen van die fusie voor de huurders van haar woongelegenheden en gebouwen, voor de bijdragen van toegelaten instellingen aan het gemeentelijke volkshuisvestingsbeleid en voor de overige belanghebbenden. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van de eerste volzin.
+1. De fuserende toegelaten instelling informeert zo spoedig mogelijk de colleges van burgemeester en wethouders van de gemeenten waar zij haar woonplaats heeft, waar zij feitelijk werkzaam is, waar de fuserende toegelaten instelling na de voorgenomen fusie haar woonplaats zal hebben en waar zij na die fusie feitelijk werkzaam zal zijn over:
+
+- a. haar fusievoornemens en haar motieven daarvoor; en
+
+- b. de verwachte gevolgen van die fusie voor de huurders van haar woongelegenheden en gebouwen, voor de bijdragen van toegelaten instellingen aan de gemeentelijke woonvisie en voor de overige belanghebbenden.
+
+2. De fuserende toegelaten instelling verstrekt de instanties, bedoeld in [artikel 53, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), alle inlichtingen die redelijkerwijs kunnen bijdragen aan het zich vormen van hun zienswijze en haar oordeel.
+
+3. De fuserende toegelaten instelling voert, naast het overleg, bedoeld in [artikel 53, tweede lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), overleg over het verzoek om goedkeuring van de voorgenomen fusie met de colleges van burgemeester en wethouders van de gemeenten als bedoeld in het eerste lid.
+
+4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste en tweede lid.
 
 ##### Artikel 93
 
-1. De fuserende toegelaten instelling stelt, voordat zij een verzoek om goedkeuring van de voorgenomen fusie indient, naast de instanties, bedoeld in [artikel 53, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), de huurders van haar andere gebouwen dan woongelegenheden in de gelegenheid om hun zienswijze op die fusie te geven. Die huurders kunnen binnen zes weken hun zienswijze aan de fuserende toegelaten instelling doen toekomen.
-
-2. De fuserende toegelaten instelling verstrekt de instanties, bedoeld in [artikel 53, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), en de huurders, bedoeld in het eerste lid, alle inlichtingen die redelijkerwijs kunnen bijdragen aan het zich vormen van hun zienswijze en haar oordeel.
-
-3. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van het tweede lid.
+Vervallen
 
 ##### Artikel 94
 
-1. De fuserende toegelaten instelling voert, naast het overleg, bedoeld in [artikel 53, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), overleg over het verzoek om goedkeuring van de voorgenomen fusie met de gemeente waar zij haar woonplaats heeft, die waar zij feitelijk werkzaam is, die waar de verkrijgende toegelaten instelling na die fusie haar woonplaats zal hebben en die waar zij daarna feitelijk werkzaam zal zijn.
-
-2. De fuserende toegelaten instelling stelt de huurders van haar andere gebouwen dan woongelegenheden in de gelegenheid met haar overleg te voeren over het verzoek, bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 95
 
@@ -1708,11 +1662,9 @@ De fuserende toegelaten instelling informeert zo spoedig mogelijk de colleges va
 
 - a. een fusievoorstel en een schriftelijke toelichting daarop, als bedoeld in de [artikelen 312](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=312) en [313 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=313);
 
-- b. de zienswijzen daarop van de gemeenten, bedoeld in [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=94&z=2021-11-27&g=2021-11-27), voor zover niet reeds bij het verzoek gevoegd ingevolge [artikel 53, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), alsmede die van de personen, bedoeld in artikel 94, tweede lid, en, in geval van een negatieve zodanige zienswijze of andere zienswijze als bedoeld in artikel 53, derde lid, van de wet, een onderbouwde reactie daarop van de fuserende toegelaten instelling, dan wel, bij het uitgebleven zijn van een zienswijze, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd;
+- b. de zienswijzen daarop van de gemeenten, bedoeld in [artikel 92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=92&z=2022-01-01&g=2022-01-01), voor zover niet reeds bij het verzoek gevoegd ingevolge [artikel 53, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), en, in geval van een negatieve zodanige zienswijze of andere zienswijze als bedoeld in artikel 53, derde lid, van de wet, een onderbouwde reactie daarop van de fuserende toegelaten instelling, dan wel, bij het uitblijven van een zienswijze na zes weken nadat hierom is gevraagd, bescheiden waaruit blijkt dat zij om die zienswijze heeft gevraagd; en
 
-- c. de mededeling, bedoeld in [artikel 53, tweede lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), en
-
-- d. indien die fusie een concentratie is waarop [Hoofdstuk 5 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5) van toepassing is:
+- c. indien die fusie een concentratie is waarop [Hoofdstuk 5 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5) van toepassing is:
 
 - 1°. een onvoorwaardelijke mededeling als bedoeld in [artikel 37, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) dat voor die concentratie geen vergunning is vereist, of een verklaring dat geen mededeling als bedoeld in dat lid is gedaan binnen vier weken na de melding van die fusie aan de Autoriteit Consument en Markt;
 
@@ -1722,7 +1674,9 @@ De fuserende toegelaten instelling informeert zo spoedig mogelijk de colleges va
 
 - 4°. in geval van een negatief oordeel als bedoeld in [artikel 53, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53): een onderbouwde reactie daarop van de fuserende toegelaten instelling, dan wel, bij het uitblijven van een oordeel, bescheiden waaruit blijkt dat zij om dat oordeel heeft gevraagd.
 
-2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
+2. Het eerste lid, onderdeel b, is niet van toepassing indien sprake is van een fusie als bedoeld in [artikel 53, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53).
+
+3. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 96
 
@@ -1748,7 +1702,9 @@ De fuserende toegelaten instelling informeert zo spoedig mogelijk de colleges va
 
 - d. de financiële draagkracht van de verkrijgende toegelaten instelling.
 
-3. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
+3. Het eerste lid, onderdeel c, en het tweede lid zijn niet van toepassing indien sprake is van een fusie als bedoeld in [artikel 53, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53).
+
+4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 97
 
@@ -1758,7 +1714,7 @@ Op verzoek van Onze Minister verstrekt de fuserende toegelaten instelling hem na
 
 1. Onze Minister keurt de voorgenomen fusie niet goed, indien naar zijn oordeel de lokale binding van de verkrijgende toegelaten instelling niet voldoende gewaarborgd zal zijn.
 
-2. Het percentage, bedoeld in [artikel 53, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), is 50.
+2. Het percentage, bedoeld in [artikel 53, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), is 70.
 
 ##### Artikel 99
 
@@ -1770,13 +1726,13 @@ De verkrijgende toegelaten instelling doet onverwijld een gewaarmerkt afschrift 
 
 1. Onze Minister keurt de voorgenomen splitsing niet goed, indien deze niet leidt tot een zich verbinden als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21).
 
-2. Op voorgenomen splitsingen die geen juridische scheiding zijn, is het bepaalde bij en krachtens [afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&z=2021-11-27&g=2021-11-27) van overeenkomstige toepassing:
+2. Op voorgenomen splitsingen die geen juridische scheiding zijn, is het bepaalde bij en krachtens [afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing:
 
-- a. met uitzondering van de [artikelen 95, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=95&z=2021-11-27&g=2021-11-27), [96, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=96&z=2021-11-27&g=2021-11-27), en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=98&z=2021-11-27&g=2021-11-27);
+- a. met uitzondering van de [artikelen 95, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=95&z=2022-01-01&g=2022-01-01), [96, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=96&z=2022-01-01&g=2022-01-01), en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=98&z=2022-01-01&g=2022-01-01);
 
-- b. voorts met uitzondering van de bepalingen van [afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&z=2021-11-27&g=2021-11-27) in het onderwerp waarvan wordt voorzien door het bepaalde bij en krachtens [artikel 21, eerste tot en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) en
+- b. voorts met uitzondering van de bepalingen van [afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&z=2022-01-01&g=2022-01-01) in het onderwerp waarvan wordt voorzien door het bepaalde bij en krachtens [artikel 21, eerste tot en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21) en
 
-- c. met dien verstande dat onder de instanties, bedoeld in [artikel 93, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=93&z=2021-11-27&g=2021-11-27), niet de Autoriteit Consument en Markt wordt begrepen.
+- c. met dien verstande dat onder de instanties, bedoeld in [artikel 92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=7&artikel=92&z=2022-01-01&g=2022-01-01), niet de Autoriteit Consument en Markt wordt begrepen.
 
 ### Afdeling 6. Juridische scheiding
 
@@ -1786,7 +1742,7 @@ De verkrijgende toegelaten instelling doet onverwijld een gewaarmerkt afschrift 
 
 Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=54), is een bij ministeriële regeling te bepalen percentage.
 
-#### § 1. Inrichting van de woningvennootschap en geldstromen tussen de toegelaten instelling en de woningvennootschap
+#### § 4. Goedkeuring van de administratieve scheiding
 
 ##### Artikel 102
 
@@ -1798,7 +1754,13 @@ Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.o
 
 ##### Artikel 103
 
-Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), wordt vastgesteld door het bestuur. Het is onderworpen aan de goedkeuring van de raad van commissarissen en Onze Minister. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van de tweede volzin.
+1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), wordt vastgesteld door het bestuur. Het is onderworpen aan de goedkeuring van de raad van commissarissen en Onze Minister.
+
+2. Een wijziging van een reeds vastgesteld en goedgekeurd reglement is onderworpen aan de goedkeuring van de raad van commissarissen en wordt verantwoord in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36).
+
+3. Een wijziging als bedoeld in het tweede lid die geheel of mede betrekking heeft op het beleid en beheer van het aantrekken of aanhouden van financiële derivaten door de toegelaten instelling, de dochtermaatschappij of de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan, is tevens onderworpen aan de goedkeuring van Onze Minister.
+
+4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 104
 
@@ -1822,7 +1784,7 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), omvat voorts, steeds mede ten aanzien van het aantrekken en gebruiken van financiële derivaten ten aanzien van collegiale leningen en ten aanzien van beleggingsactiviteiten:
 
-- a. de bepaling dat de administratie zodanig wordt ingericht, dat het bestuur steeds op de hoogte kan zijn van de ontwikkeling van de waarden en indicatoren, bedoeld in [artikel 104, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=9&paragraaf=3&artikel=104&z=2021-11-27&g=2021-11-27), en daarover de raad van commissarissen kan inlichten;
+- a. de bepaling dat de administratie zodanig wordt ingericht, dat het bestuur steeds op de hoogte kan zijn van de ontwikkeling van de waarden en indicatoren, bedoeld in [artikel 104, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=9&paragraaf=3&artikel=104&z=2022-01-01&g=2022-01-01), en daarover de raad van commissarissen kan inlichten;
 
 - b. de bepaling dat de beheersing van financiële risico’s wordt geïntegreerd in de bedrijfsvoering;
 
@@ -1838,7 +1800,7 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 - 3°. dat de controlfunctie mede de aspecten van de interne bedrijfsvoering alsmede de effectiviteit en de efficiency van de organisatie omvat;
 
-- 4°. dat de controlfunctie bij een toegelaten instelling of dochtermaatschappij die meer dan 2.500 verhuureenheden in eigendom heeft in een afzonderlijke organisatie-eenheid is opgenomen en zowel gevraagd als ongevraagd het bestuur en de raad van commissarissen kan adviseren omtrent in het kader van het financiële beleid en beheer te nemen maatregelen;
+- 4°. dat de controlfunctie bij een toegelaten instelling of dochtermaatschappij die meer dan 5.000 verhuureenheden in eigendom heeft in een afzonderlijke organisatie-eenheid is opgenomen en zowel gevraagd als ongevraagd het bestuur en de raad van commissarissen kan adviseren omtrent in het kader van het financiële beleid en beheer te nemen maatregelen;
 
 - f. voorschriften die waarborgen dat de raad van commissarissen voldoende kennis heeft van financieel beleid en beheer;
 
@@ -1858,15 +1820,15 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 106
 
-1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), bepaalt dat de toegelaten instelling en de dochtermaatschappij:
+1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), bepaalt dat de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan:
 
-- a. de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan, inzake financiële derivaten, collegiale leningen en beleggingen geen rentevisie hanteert;
+- a. inzake financiële derivaten, collegiale leningen en beleggingen geen rentevisie hanteren;
 
-- b. het aantrekken en afstoten van financiële derivaten en beleggingsactiviteiten uitsluitend ten doel hebben om risico’s van het financiële beleid en beheer te beperken;
+- b. financiële derivaten en beleggingsactiviteiten uitsluitend aantrekken en afstoten met als doel risico’s van het financiële beleid en beheer te beperken;
 
-- c. het vervreemden van financiële derivaten, anders dan het sluiten van derivaatposities, niet is toegestaan en
+- c. geen financiële derivaten vervreemden, anders dan door het sluiten van derivaatposities, en
 
-- d. het lenen van gelden met het doel deze uit te zetten bij dezelfde of een andere partij niet is toegestaan.
+- d. geen gelden lenen met het doel deze uit te zetten bij dezelfde of een andere partij.
 
 2. Het reglement bepaalt voorts dat in of ten aanzien van financiële derivaten geen clausules worden gehanteerd, die op enigerlei wijze de uitoefening van het toezicht op toegelaten instellingen, dochtermaatschappijen en verbonden ondernemingen waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan kunnen belemmeren, en dat een toegelaten instelling die op het tijdstip waarop dit besluit in werking is getreden een derivatenportefeuille heeft die financiële derivaten met zodanige clausules bevat, een plan van aanpak heeft dat is gericht op het zo spoedig mogelijk afstoten van die derivaten.
 
@@ -1874,23 +1836,23 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 107
 
-1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), bepaalt voorts dat de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan,:
+1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), bepaalt voorts dat de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan:
 
-- a. geen andere financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), begripsomschrijving van financiële derivaten, onderdeel a, aantrekt dan rentecaps of payer swaps ter hedging van variabele leningen die voor of tegelijk met het tijdstip van aantrekken van dat derivaat zijn aangetrokken, welke payer swaps geen langere looptijd hebben dan 10 kalenderjaren, waarvan het kalenderjaar waarin zij worden aangetrokken het eerste is, en
+- a. geen andere financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), begripsomschrijving van financiële derivaten, onderdeel a, aantrekt dan rentecaps of payer swaps ter hedging van variabele leningen die voor of tegelijk met het tijdstip van aantrekken van dat derivaat zijn aangetrokken, welke payer swaps geen langere looptijd hebben dan 10 kalenderjaren, waarvan het kalenderjaar waarin zij worden aangetrokken het eerste is, en
 
-- b. geen andere financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), begripsomschrijving van financiële derivaten, onderdeel b, aantrekt dan basisrenteleningen, indien dat geschiedt in het kader van een plan van aanpak als bedoeld in [artikel 106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=9&paragraaf=3&artikel=106&z=2021-11-27&g=2021-11-27).
+- b. geen andere financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), begripsomschrijving van financiële derivaten, onderdeel b, aantrekt dan basisrenteleningen, indien dat geschiedt in het kader van een plan van aanpak als bedoeld in [artikel 106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=9&paragraaf=3&artikel=106&z=2022-01-01&g=2022-01-01).
 
-2. Het reglement bepaalt voorts dat de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan,:
+2. Het reglement bepaalt voorts dat de toegelaten instelling, de dochtermaatschappij en de verbonden onderneming waarvan de toegelaten instelling meer dan de helft van de bestuurders kan benoemen of ontslaan:
 
 - a. uitsluitend financiële derivaten aantrekt, indien de instelling van welke zij die derivaten aantrekt haar heeft aangemerkt als een niet-professionele belegger als bedoeld in [artikel 4:18d van de Wet op het financieel toezicht;](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:18d)
 
 - b. uitsluitend financiële derivaten aantrekt, nadat zij met de instelling van welke zij die derivaten aantrekt een raamovereenkomst, overeenkomstig een bij ministeriële regeling vast te stellen model daarvoor, heeft gesloten;
 
-- c. uitsluitend financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-11-27&g=2021-11-27), begripsomschrijving van financiële derivaten, onderdeel a, aantrekt onder het sluiten van een modelovereenkomst, overeenkomstig een bij ministeriële regeling vast te stellen model daarvoor, met de instelling van welke zij die derivaten aantrekt en
+- c. uitsluitend financiële derivaten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), begripsomschrijving van financiële derivaten, onderdeel a, aantrekt onder het sluiten van een modelovereenkomst, overeenkomstig een bij ministeriële regeling vast te stellen model daarvoor, met de instelling van welke zij die derivaten aantrekt en
 
 - d. uitsluitend financiële derivaten aantrekt, die luiden in euro’s.
 
-3. Het reglement bepaald voorts dat een bank, waarbij een dochtermaatschappij financiële derivaten afsluit of middelen uitzet, voldoet aan de eisen, genoemd in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-11-27&g=2021-11-27).
+3. Het reglement bepaald voorts dat een bank, waarbij een dochtermaatschappij financiële derivaten afsluit of middelen uitzet, voldoet aan de eisen, genoemd in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 108
 
@@ -1908,21 +1870,21 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 109
 
-Het reglement, bedoeld in [artikel 55b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55b), is het voorbeeldreglement van Aedes vereniging van woningcorporaties.
+Vervallen
 
-#### § 3. Vervreemding van aandelen in een woningvennootschap
+#### § 1. Inrichting van de woningvennootschap en geldstromen tussen de toegelaten instelling en de woningvennootschap
 
 ##### Artikel 110
 
 1. De toegelaten instellingen zijn niet betrokken bij de volkshuisvesting buiten Nederland waarop [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40) niet van toepassing is.
 
-2. Garanties die met goedkeuring van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister voor Wonen, Wijken en Integratie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties of Onze Minister voor het tijdstip waarop [artikel I van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=I) in werking is getreden zijn verleend in verband met een betrokkenheid als bedoeld in het eerste lid, kunnen worden aangesproken overeenkomstig de voorwaarden waaronder zij zijn verleend.
+2. Garanties die met goedkeuring van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister voor Wonen, Wijken en Integratie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties of Onze Minister voor 1 juli 2015 zijn verleend in verband met een betrokkenheid als bedoeld in het eerste lid, kunnen worden aangesproken overeenkomstig de voorwaarden waaronder zij zijn verleend.
 
 ### Hoofdstuk VI. Sanering van en projectsteun ten behoeve van toegelaten instellingen
 
 ### Afdeling 9. Verdere bepalingen
 
-#### § 1. Huursom
+#### § 2. Goedkeuring van de juridische scheiding
 
 ##### Artikel 111
 
@@ -2022,7 +1984,7 @@ Het reglement, bedoeld in [artikel 55b, derde lid, van de wet](https://wetten.ov
 
 2. Bij de verstrekking van een subsidie als bedoeld in [artikel 57, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) geeft Onze Minister voorrang aan aanvragen om een zodanige subsidie van toegelaten instellingen op welke een situatie als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29) van toepassing is.
 
-3. De subsidie is niet hoger dan de kosten van de werkzaamheden ter tegemoetkoming in de kosten waarvan zij wordt verstrekt, verminderd met de door Onze Minister geraamde opbrengsten daaruit, en verminderd met bijdragen als bedoeld in [artikel 113, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=2&artikel=113&z=2021-11-27&g=2021-11-27).
+3. De subsidie is niet hoger dan de kosten van de werkzaamheden ter tegemoetkoming in de kosten waarvan zij wordt verstrekt, verminderd met de door Onze Minister geraamde opbrengsten daaruit, en verminderd met bijdragen als bedoeld in [artikel 113, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=2&artikel=113&z=2022-01-01&g=2022-01-01).
 
 4. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de berekening van de subsidie, bedoeld in [artikel 57, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57).
 
@@ -2048,9 +2010,9 @@ Het reglement, bedoeld in [artikel 55b, derde lid, van de wet](https://wetten.ov
 
 De bijdrage, bedoeld in [artikel 58, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58), bedraagt de som van:
 
-- a. de helft van de som van de ingevolge [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2021-11-27&g=2021-11-27), begrote bedragen, gedeeld door het totale aantal woongelegenheden die de toegelaten instellingen op 31 december van het jaar voorafgaand aan het jaar waarover die bijdrage verschuldigd is in eigendom hadden volgens de gegevens, opgenomen in het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), en vervolgens vermenigvuldigd met het op dienovereenkomstige wijze bepaalde aantal woongelegenheden die de betrokken toegelaten instelling in eigendom had, en
+- a. de helft van de som van de ingevolge [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2022-01-01&g=2022-01-01), begrote bedragen, gedeeld door het totale aantal woongelegenheden die de toegelaten instellingen op 31 december van het jaar voorafgaand aan het jaar waarover die bijdrage verschuldigd is in eigendom hadden volgens de gegevens, opgenomen in het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), en vervolgens vermenigvuldigd met het op dienovereenkomstige wijze bepaalde aantal woongelegenheden die de betrokken toegelaten instelling in eigendom had, en
 
-- b. de helft van de som van de ingevolge [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2021-11-27&g=2021-11-27), begrote bedragen, gedeeld door de totale WOZ-waarde van de woongelegenheden die de toegelaten instellingen op 31 december van het jaar voorafgaand aan het jaar waarover die bijdrage verschuldigd is in eigendom hadden volgens de gegevens, opgenomen in het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), en vervolgens vermenigvuldigd met de op dienovereenkomstige wijze bepaalde WOZ-waarde van de woongelegenheden die de betrokken toegelaten instelling in eigendom had.
+- b. de helft van de som van de ingevolge [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2022-01-01&g=2022-01-01), begrote bedragen, gedeeld door de totale WOZ-waarde van de woongelegenheden die de toegelaten instellingen op 31 december van het jaar voorafgaand aan het jaar waarover die bijdrage verschuldigd is in eigendom hadden volgens de gegevens, opgenomen in het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), en vervolgens vermenigvuldigd met de op dienovereenkomstige wijze bepaalde WOZ-waarde van de woongelegenheden die de betrokken toegelaten instelling in eigendom had.
 
 ##### Artikel 117
 
@@ -2062,9 +2024,9 @@ De bijdrage, bedoeld in [artikel 58, tweede lid, van de wet](https://wetten.over
 
 1. Onze Minister kan op verzoek van een toegelaten instelling de op grond van [artikel 58, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58) verschuldigde bijdrage kwijtschelden, indien die toegelaten instelling naar zijn oordeel niet over de financiële middelen beschikt om haar werkzaamheden te kunnen voortzetten.
 
-2. Onze Minister kan op verzoek van een toegelaten instelling een gedeelte van de op grond van [artikel 58, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58) verschuldigde bijdrage kwijtschelden, indien naar zijn oordeel de verzoekende toegelaten instelling gedurende de periode, bedoeld in [artikel 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2021-11-27&g=2021-11-27), bij een andere toegelaten instelling betrokken is geweest door middel van:
+2. Onze Minister kan op verzoek van een toegelaten instelling een gedeelte van de op grond van [artikel 58, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58) verschuldigde bijdrage kwijtschelden, indien naar zijn oordeel de verzoekende toegelaten instelling gedurende de periode, bedoeld in [artikel 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2022-01-01&g=2022-01-01), bij een andere toegelaten instelling betrokken is geweest door middel van:
 
-- a. het verwerven van woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47) van die toegelaten instelling tegen ten minste 80% van de gemiddelde WOZ-waarde van die woongelegenheden op het tijdstip van die verwerving en onder het beding deze vanaf dat tijdstip ten minste zeven jaar te zullen verhuren;
+- a. het verwerven van woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47) van die toegelaten instelling tegen ten minste de marktwaarde in verhuurde staat van die woongelegenheden op het tijdstip van die verwerving en onder het beding deze vanaf dat tijdstip ten minste zeven jaar te zullen verhuren;
 
 - b. het financieel bijdragen aan werkzaamheden van die toegelaten instelling, indien naar zijn oordeel zonder dat bijdragen aan die toegelaten instelling een subsidie als bedoeld in [artikel 57, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) had kunnen worden verstrekt, of
 
@@ -2090,9 +2052,9 @@ De bijdrage, bedoeld in [artikel 58, tweede lid, van de wet](https://wetten.over
 
 Voor zover een mandaat als bedoeld in [artikel 59, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) de betrokken in dat lid bedoelde bevoegdheid betreft:
 
-- a. zijn de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2021-11-27&g=2021-11-27), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=112&z=2021-11-27&g=2021-11-27) en [115 tot en met 118](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2021-11-27&g=2021-11-27) van overeenkomstige toepassing op de borgingsvoorziening en
+- a. zijn de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2022-01-01&g=2022-01-01), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=112&z=2022-01-01&g=2022-01-01) en [115 tot en met 118](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=2&artikel=115&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing op de borgingsvoorziening en
 
-- b. is [artikel 111, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2021-11-27&g=2021-11-27), niet van toepassing, waar het het in dat onderdeel bedoelde overleg met de borgingsvoorziening betreft.
+- b. is [artikel 111, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=VI&afdeling=1&paragraaf=1&artikel=111&z=2022-01-01&g=2022-01-01), niet van toepassing, waar het het in dat onderdeel bedoelde overleg met de borgingsvoorziening betreft.
 
 ### Hoofdstuk VII. Toezicht op toegelaten instellingen en dochtermaatschappijen
 
@@ -2112,7 +2074,7 @@ De autoriteit oefent toezicht uit op de juiste toepassing van de [Wet normering 
 
 3. Onze Minister stelt per toegelaten instelling de bijdrage, bedoeld in het eerste lid, vast en maakt deze uiterlijk op 1 oktober van het jaar waarover deze verschuldigd is bekend aan de toegelaten instellingen.
 
-4. Onze minister kan een verrekening toepassen op de, op grond van het tweede lid vastgestelde bijdrage, indien de totale kosten van het toezicht in het voorafgaande jaar meer of minder bedragen dan de voor dat jaar begrote kosten. De totale som waarmee de gezamenlijke bijdragen voor de toegelaten instellingen wordt verhoogd of verlaagd is in dat geval gelijk aan het verschil tussen de daadwerkelijke en begrote kosten van het toezicht voor het voorafgaande jaar.
+4. Onze Minister kan een verrekening toepassen op de, op grond van het tweede lid vastgestelde bijdrage, indien de totale kosten van het toezicht in het voorafgaande jaar meer of minder bedragen dan de voor dat jaar begrote kosten. De totale som waarmee de gezamenlijke bijdragen voor de toegelaten instellingen wordt verhoogd of verlaagd is in dat geval gelijk aan het verschil tussen de daadwerkelijke en begrote kosten van het toezicht voor het voorafgaande jaar.
 
 5. De bijdrage wordt betaald binnen een maand na dagtekening van de bekendmaking, bedoeld in het derde lid. Bij niet tijdige betaling is vanaf de datum van het verstrijken van die termijn de verplichting van toepassing tot betaling van een rente, bepaald overeenkomstig [afdeling 4.4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2).
 
@@ -2122,9 +2084,9 @@ De autoriteit oefent toezicht uit op de juiste toepassing van de [Wet normering 
 
 Onze Minister stelt de betrokken raden van commissarissen en besturen van dochtermaatschappijen op de hoogte van:
 
-- a. zijn voornemens om toepassing te geven aan [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), [48, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), [61d](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61d), [61g, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61g), [61h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61h), [104a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=104a), [105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105), of [120b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120b), alsmede zijn besluiten daartoe;
+- a. zijn voornemens om toepassing te geven aan [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), [48, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), [61d](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61d), [61g, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61g), [61h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61h), [104a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=104a), [105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105), of [120b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120b), alsmede zijn besluiten daartoe;
 
-- b. zijn voornemens om een goedkeuring als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b), [50b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50b), of [53, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), of in [artikel II, derde lid, eerste volzin, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II), niet te verlenen, alsmede zijn besluiten daartoe;
+- b. zijn voornemens om een goedkeuring als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41b), [49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49a), [50b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=50b), of [53, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=53), niet te verlenen, alsmede zijn besluiten daartoe;
 
 - c. zijn activiteiten en voorgenomen activiteiten jegens toegelaten instellingen ten aanzien van welke een situatie als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29) of [57, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) van toepassing is;
 
@@ -2146,9 +2108,7 @@ Voor zover gemeenten bevoegdheden die hen ingevolge dit besluit toekomen hebben 
 
 ##### Artikel 125
 
-1. Onze Minister kan van dit besluit afwijken of afwijking daarvan toestaan ten behoeve van experimenten die naar zijn oordeel in het belang van de volkshuisvesting zijn.
-
-2. Onze Minister kan besluiten dat een afwijking als bedoeld in het eerste lid van kracht blijft zolang een door hem op basis van het experiment noodzakelijk geoordeelde wijziging van dit besluit nog niet in werking is getreden.
+Vervallen
 
 ### Hoofdstuk IX. Overgangs- en slotbepalingen
 
@@ -2164,13 +2124,13 @@ Voor zover gemeenten bevoegdheden die hen ingevolge dit besluit toekomen hebben 
 
 - b. dragen de toegelaten instellingen, in afwijking van [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), er zorg voor dat de in dat lid genoemde instanties op 1 november van dat kalenderjaar beschikken over het overzicht, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=43), dat betrekking heeft op de op dat kalenderjaar eerstvolgende vijf kalenderjaren, en
 
-- c. wordt bij de verslaglegging over het uitvoering geven aan het bepaalde bij en krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2021-11-27&g=2021-11-27), op dezelfde wijze betrokken als in de situatie dat die grens had gegolden gedurende het gehele kalenderjaar waarin dat tijdstip valt.
+- c. wordt bij de verslaglegging over het uitvoering geven aan het bepaalde bij en krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) de betrokken inkomensgrens, genoemd in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), op dezelfde wijze betrokken als in de situatie dat die grens had gegolden gedurende het gehele kalenderjaar waarin dat tijdstip valt.
 
 3. Toegelaten instellingen kunnen tot 1 januari 2021, ten aanzien van 25% van het bruto-vloeroppervlak van de gebouwen, genoemd in de tweede volzin, het aangaan van overeenkomsten van huur en verhuur in de daeb-tak onderbrengen, indien het voornemen daartoe is opgenomen in het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a) over het jaar 2017. De gebouwen, bedoeld in de eerste volzin, zijn de gebouwen waarin na 31 december 2011 zorg is verleend door een instelling die behoort tot een categorie als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) en die is toegelaten voor de zorgvorm verblijf als bedoeld in het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149) zoals dat luidde op 31 december 2014, in combinatie met een of meer van de zorgvormen persoonlijke verzorging, verpleging en begeleiding als bedoeld in dat besluit, en voor welke zorg de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), een vergoeding voor kapitaallasten heeft vastgesteld op grond van [artikel 57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57). Tot het bruto-vloeroppervlak, bedoeld in de eerste volzin, behoort mede het vloeroppervlak van de bij die gebouwen behorende overdekte parkeervoorzieningen en de oppervlakte van de bij die gebouwen behorende overige parkeervoorzieningen.
 
 4. Tot en met 31 december 2015 behoren tot de categorieën van personen, bedoeld in [artikel 48, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48), personen die worden gehuisvest op grond van een indicatiebesluit als bedoeld in [artikel 1 van het Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946&artikel=1) zoals dat luidde op 31 december 2014, voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4) zoals dat luidde op die datum, verpleging als bedoeld in [artikel 5 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5) zoals dat luidde op die datum, of individuele begeleiding als bedoeld in [artikel 6 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6) zoals dat luidde op die datum, in welk indicatiebesluit ten minste 10 uur zorg per week wordt toegekend, en welk indicatiebesluit een geldigheidsduur heeft van ten minste een jaar of, indien het is afgegeven in de periode van 28 juli 2014 tot en met 31 december 2014, van ten minste zes maanden.
 
-5. [Artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52&z=2021-11-27&g=2021-11-27), zoals dat luidde op 30 juni 2016, blijft van toepassing op werkzaamheden, als bedoeld in dat artikel waarmee voor die datum een aanvang is gemaakt, of met betrekking tot welke uit schriftelijke, uitsluitend op die werkzaamheden betrekking hebbende, stukken blijkt dat het maken van die aanvang voor die datum werd beoogd.
+5. [Artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52&z=2022-01-01&g=2022-01-01), zoals dat luidde op 30 juni 2016, blijft van toepassing op werkzaamheden, als bedoeld in dat artikel waarmee voor die datum een aanvang is gemaakt, of met betrekking tot welke uit schriftelijke, uitsluitend op die werkzaamheden betrekking hebbende, stukken blijkt dat het maken van die aanvang voor die datum werd beoogd.
 
 ### Afdeling 1. De subsidies
 
@@ -2180,11 +2140,11 @@ Voor zover gemeenten bevoegdheden die hen ingevolge dit besluit toekomen hebben 
 
 2. Het bepaalde bij en krachtens het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) blijft van toepassing:
 
-- a. indien het tijdstip, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IX&afdeling=1&artikel=126&z=2021-11-27&g=2021-11-27), een ander is dan 1 januari van enig kalenderjaar: op de jaarrekening, het jaarverslag en het volkshuisvestingsverslag van de toegelaten instelling over het kalenderjaar waarin dat tijdstip valt, en het onderzoeken en beoordelen van die verslagen;
+- a. indien het tijdstip, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IX&afdeling=1&artikel=126&z=2022-01-01&g=2022-01-01), een ander is dan 1 januari van enig kalenderjaar: op de jaarrekening, het jaarverslag en het volkshuisvestingsverslag van de toegelaten instelling over het kalenderjaar waarin dat tijdstip valt, en het onderzoeken en beoordelen van die verslagen;
 
 - b. indien dat tijdstip 1 januari van enig kalenderjaar is: op de in onderdeel a genoemde verslagen over het aan dat kalenderjaar direct voorafgaande kalenderjaar, en het onderzoeken en beoordelen van die verslagen, en
 
-- c. voor zover de toegelaten instellingen ingevolge [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IX&afdeling=1&artikel=126&z=2021-11-27&g=2021-11-27), ten overstaan van Onze Minister aannemelijk hebben gemaakt dat het verrichten van werkzaamheden in verband met het toepassing geven aan artikel II, tweede lid, van de Herzieningswet toegelaten instellingen volkshuisvesting naar redelijkheid in de weg staat aan het door hen toepassing geven aan [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV).
+- c. voor zover de toegelaten instellingen ingevolge [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IX&afdeling=1&artikel=126&z=2022-01-01&g=2022-01-01), ten overstaan van Onze Minister aannemelijk hebben gemaakt dat het verrichten van werkzaamheden in verband met het toepassing geven aan artikel II, tweede lid, van de Herzieningswet toegelaten instellingen volkshuisvesting naar redelijkheid in de weg staat aan het door hen toepassing geven aan [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV).
 
 ##### Artikel 128
 
@@ -2200,7 +2160,7 @@ Vervallen
 
 ##### Artikel 130
 
-Op verzoeken om een goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), die zijn ingediend voor het tijdstip van inwerkingtreding van het Besluit van 27 maart 2017 tot wijziging van het Besluit toegelaten instellingen volkshuisvesting 2015 in verband met het wijzigen van de voorschriften omtrent het vervreemden van geliberaliseerde en potentieel te liberaliseren woongelegenheden door toegelaten instellingen (Stb. 2017, 129), zijn de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27) en [26 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=26&z=2021-11-27&g=2021-11-27) zoals dat luidde voor dat tijdstip, van toepassing.
+Op verzoeken om een goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), die zijn ingediend voor het tijdstip van inwerkingtreding van het Besluit van 27 maart 2017 tot wijziging van het Besluit toegelaten instellingen volkshuisvesting 2015 in verband met het wijzigen van de voorschriften omtrent het vervreemden van geliberaliseerde en potentieel te liberaliseren woongelegenheden door toegelaten instellingen (Stb. 2017, 129), zijn de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2022-01-01&g=2022-01-01) en [26 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=26&z=2022-01-01&g=2022-01-01) zoals dat luidde voor dat tijdstip, van toepassing.
 
 ##### Artikel 131
 
@@ -2296,11 +2256,11 @@ Heeft oog voor de ontwikkelingen, machtsverhoudingen en gevoelens binnen de toeg
 
 Is consistent in denken en doen (gedrag en houding) onder verschillende omstandigheden. Maakt zichtbaar wat hij/zij werkelijk belangrijk vindt en waar hij/zij voor staat.
 
-### Overtuigingskracht
+### Veroordelingen
 
-Kan met overredingskracht, persoonlijk overwicht en tact invloed uitoefenen op het standpunt van anderen om instemming te krijgen met bepaalde plannen, ideeën of producten. Houdt vast aan zijn/haar (professionele) principes, ondanks druk van anderen.
+Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### Resultaat- en «klant»gericht
+### 2. Overige strafrechtelijke antecedenten
 
 Weet op bedrijfsmatige en resultaatgerichte wijze sturing te geven aan de organisatie; heeft hoog kostenbewustzijn en weet medewerkers te stimuleren om op efficiënte wijze invulling te geven aan de organisatiedoelstellingen. Stelt op effectieve wijze kansen, doelen en prioriteiten vast. Is daarbij gericht op het leveren en waar nodig verbeteren van kwaliteit, die aansluit op de wensen en behoeften van huurders, woningzoekenden en andere belanghouders. Geeft benodigde acties, tijd en middelen aan om de gestelde doelen te kunnen bereiken.
 
@@ -2308,25 +2268,25 @@ Weet op bedrijfsmatige en resultaatgerichte wijze sturing te geven aan de organi
 
 Brengt samenwerkingsverbanden tot stand (samenwerking met belanghouders) en handhaaft deze. Heeft oog voor het groepsbelang en levert een bijdrage aan het gemeenschappelijke resultaat. Is tevens in staat in collegiaal verband te functioneren en geen pleitbezorger te zijn van individuele belangen. Weet intern en extern mensen aan zich te binden en draagvlak te creëren voor zijn/haar handelen.
 
-### Vakinhoudelijke kennis en visie
+### [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) (AWR):
 
 Investeert in een professionele relatie met en legt tijdig verantwoording af aan de raad van commissarissen.
 
-### Maatschappelijke (omgevings)sensitiviteit en verantwoordelijkheid
+### [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) (WED):
 
-Heeft oog voor de ontwikkelingen, machtsverhoudingen en gevoelens binnen de toegelaten instelling Onderkent de specifieke rol van de toegelaten instelling als maatschappelijke onderneming en bewaakt binnen de visie en missie van de toegelaten instelling de invulling daarvan.
+door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
 ## Bijlage 2. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2016-01-01&g=2016-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
-### Overtuigingskracht
+### [Wegenverkeerswet 1994](onbekend):
 
-### 2. Commissarissen
+### [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0001926)
 
-### Resultaat- en «klant»gericht
+### Buitenlandse strafbepalingen
 
-Weet op bedrijfsmatige en resultaatgerichte wijze sturing te geven aan de organisatie; heeft hoog kostenbewustzijn en weet medewerkers te stimuleren om op efficiënte wijze invulling te geven aan de organisatiedoelstellingen. Stelt op effectieve wijze kansen, doelen en prioriteiten vast. Is daarbij gericht op het leveren en waar nodig verbeteren van kwaliteit, die aansluit op de wensen en behoeften van huurders, woningzoekenden en andere belanghouders. Geeft benodigde acties, tijd en middelen aan om de gestelde doelen te kunnen bereiken.
+Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-### Samenwerkingsvermogen
+### 2.2. Transacties
 
 ### Helikopterview
 
@@ -2336,23 +2296,23 @@ Kan gegevens en mogelijke handelswijzen tegen elkaar afwegen en tot een logisch 
 
 ### Zelfreflectie
 
-### Maatschappelijke (omgevings)sensitiviteit en verantwoordelijkheid
+### 2.4. Andere feiten of omstandigheden
 
 ### 2. Commissarissen
 
 Laat blijken goed geïnformeerd te zijn over (de veranderende) maatschappelijke, politieke en andere ontwikkelingen in de omgeving van de toegelaten instelling alsook over de belangen van belanghouders. Kan dit vertalen naar de volkshuisvesting en deze kennis effectief benutten. Kan omgaan met diverse belanghouders en daarin tot een weloverwogen balans komen voor keuzes en handelen en verantwoordt zich daarover.
 
-### Onafhankelijke oordeelsvorming
+### 3.1. Persoonlijk
 
-### [Wegenverkeerswet 1994](onbekend):
+### 3.2. Zakelijk
 
-### Bestuurlijk inzicht
+### 3.3. Andere feiten of omstandigheden
 
 ### 1. Strafrechtelijke antecedenten
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-### [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) (WED):
+### 4.1. Toezichtantecedenten
 
 door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
@@ -2368,19 +2328,19 @@ Staat open voor en neemt actief deel aan kritische discussie over het functioner
 
 ### 1. Strafrechtelijke antecedenten
 
-### Teamspeler
+### 5.3. Andere feiten of omstandigheden
 
 ### 1. Strafrechtelijke antecedenten
 
-### Vakinhoudelijke kennis en visie
+### 6. Overige antecedenten
 
 Beschikt over de voor de bestuurlijke functie vereiste vakinhoudelijke kennis, bijvoorbeeld kennis van financiën bij toegelaten instellingen, van de ontwikkeling en het beheer van vastgoed en kennis op het gebied van volkshuisvestelijke vraagstukken. Heeft een voldoende realistische visie op toekomstige ontwikkelingen op het gebied van de volkshuisvesting en kan deze vertalen in lange termijn doelstellingen en een strategische planning ter verwezenlijking daarvan. Houdt hierbij goed zicht op risico’s en uitdagingen die de instelling loopt en neemt bijhorende beheermaatregelen.
 
-### Voorzittersvaardigheid (indien van toepassing)
+### Gebouwen en categorieën van gebouwen, bedoeld in [artikel 49, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01)
 
 ### [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
 
-### Zelfreflectie
+### Gebouwen en categorieën van gebouwen, bedoeld in [artikel 49, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01)
 
 Staat open voor en neemt actief deel aan kritische discussie over het functioneren van de raad en zichzelf als lid c.q. voorzitter. Heeft daarbij inzicht in interne en externe invloeden op zijn/haar functioneren en kan hierover verantwoording afleggen. Toont lerend vermogen en beseft dat zijn/haar handelen invloed heeft op het functioneren van de raad, en omgekeerd. Kan (persoonlijke) leerpunten benoemen en van gedachten wisselen over het vormgeven van het eigen leerproces.
 
@@ -2388,17 +2348,17 @@ Staat open voor en neemt actief deel aan kritische discussie over het functioner
 
 ### Betrouwbaarheid van leden of kandidaat-leden van het bestuur of de raad van commissarissen: antecedenten
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Schema B moet worden toegepast indien gegevens van de Belastingdienst ontbreken of indien uitgegaan wordt van het actuele inkomen, in de gevallen bedoeld in [artikel 56, zevende lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01).
 
 ### Veroordelingen
 
-Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
+De passendheidstoets is uitsluitend van toepassing op woningen waarvoor in principe huurtoeslag mogelijk is, dus waarvan de huurprijs is gelegen op of onder het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13). Hierdoor hebben zowel de inkomenstoets voor de DAEB als de inkomenstoets voor passende toewijzing betrekking op hetzelfde huursegment.
 
 ### 2. Overige strafrechtelijke antecedenten
 
-Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
+Onderdeel C betreft de toetsing van het vermogen voor AOW´ers met een inkomen tot maximaal het norminkomen uit de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659) en boven de zorgtoeslaggrens. Dit schema vereist toepassing op het moment dat een AOW’er de toegelaten instelling verzoekt om een woning met een niet-passende huur toegewezen te krijgen en de toegelaten instelling dit niet wenst op te vangen in de 5% vrije ruimte in het passend toewijzen. In dat geval dient het vermogen van de verzoekende AOW’er te worden getoetst. Deze toetsing wordt in beginsel gebaseerd op de meest recente definitieve aanslag inkomstenbelasting. Indien deze niet toereikend blijkt vanwege een recente wijziging van het vermogen kunnen andere bewijsstukken volstaan.
 
-### 2.2. Transacties
+### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
 ## Bijlage 3. bij [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2016-01-01&g=2016-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
@@ -2438,91 +2398,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 18a
 
-1. De bestuurders en de commissarissen van de borgingsvoorziening zijn geschikt en betrouwbaar voor de uitoefening van hun werkzaamheden.
-
-2. Alvorens de raad van commissarissen een commissaris benoemt of herbenoemt, verzoekt de raad van commissarissen Onze Minister om zijn zienswijze op de geschiktheid van de betrokken persoon voor het lidmaatschap van de raad van commissarissen en de betrouwbaarheid van die persoon aan haar kenbaar te maken.
-
-3. Alvorens de raad van commissarissen een bestuurder benoemt of herbenoemt, verzoekt de raad van commissarissen Onze Minister om zijn zienswijze op de geschiktheid van de betrokken persoon voor het lidmaatschap van het bestuur en de betrouwbaarheid van die persoon aan haar kenbaar te maken.
-
-4. Onze Minister beoordeelt de geschiktheid van een bestuurder of commissaris op basis van diens opleiding, diens werkervaring en de competenties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=1&z=2021-11-27&g=2021-11-27) bij dit besluit.
-
-5. Onze Minister beoordeelt de betrouwbaarheid van een bestuurder of commissaris op basis van diens handelen of nalaten of voornemens daartoe en uit de antecedenten, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2021-11-27&g=2021-11-27) bij dit besluit. De rijksbelastingdienst verstrekt Onze Minister op zijn verzoek de gegevens die naar zijn oordeel noodzakelijk zijn voor de toepassing van de vorige volzin.
-
-6. Een commissaris of bestuurder wordt niet benoemd of herbenoemd zonder dat Onze Minister daarover een positieve zienswijze heeft uitgebracht.
-
-7. Bij ministeriële regeling kunnen nadere regels worden gesteld met het oog op de toepassing van het vierde en het vijfde lid.
+Vervallen
 
 ##### Artikel 18b
 
-1. Het bestuur van de borgingsvoorziening stelt beleidsregels op met betrekking tot het voorzien in compensatie als bedoeld in [artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
-
-2. De beleidsregels hebben in ieder geval betrekking op de kaders voor de borging van geldleningen van deelnemers en voor de financiële soliditeit van de borgingsvoorziening, waaronder:
-
-- a. de gehanteerde financiële ratio’s en andere risico-indicatoren, en de relatie daarvan met de beoordeling van de financiële positie en de borgingsmogelijkheden van deelnemers;
-
-- b. de verstrekking van borging en de uitvoering van maatregelen richting deelnemers met een hoog financieel risico.
-
-- c. de maximale omvang per individuele toegelaten instelling van het totaal aan geborgde leningen;
-
-- d. de omvang van het risicokapitaal dat toereikend wordt geacht om verliezen van de borgingsvoorziening te dekken;
-
-- e. de wijze van informatieverstrekking en data-uitwisseling in het kader van de borging.
-
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de onderwerpen, genoemd in het tweede lid.
-
-4. De beleidsregels van de borgingsvoorziening behoeven de goedkeuring van Onze Minister.
-
-5. Onze Minister kan aan de beleidsregels zijn goedkeuring onthouden indien de beleidsregels:
-
-- a. in strijd zijn met de wettelijke voorschriften voor toegelaten instellingen, of
-
-- b. in onvoldoende mate ondersteunend zijn aan de ontwikkeling van consistente financiële kaders en normen voor toegelaten instellingen, of
-
-- c. in onvoldoende mate bijdragen aan een prudente risicobeheersing.
+Vervallen
 
 ##### Artikel 18c
 
-1. De wijze waarop de borgingsvoorziening in compensatie als bedoeld in [artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), voorziet is beheerst en integer.
-
-2. Bij de beoordeling door Onze minister van een beheerste bedrijfsvoering wordt in ieder geval rekening gehouden met:
-
-- a. de inrichting en kwaliteit van de uitvoerende processen;
-
-- b. de inrichting en kwaliteit van de administratieve en interne organisatie;
-
-- c. de inrichting en kwaliteit van de informatievoorziening en communicatie.
-
-3. Bij de beoordeling door Onze minister van een integere bedrijfsvoering wordt in ieder geval rekening gehouden met:
-
-- a. belangenverstrengeling;
-
-- b. het begaan van strafbare feiten en andere wetsovertredingen door de borgingsvoorziening, haar bestuurders of haar werknemers, die het vertrouwen in de borgingsvoorziening kunnen schaden;
-
-- c. andere handelingen door de borgingsvoorziening, haar bestuurders of haar werknemers die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betamelijk is, en die het vertrouwen in de borgingsvoorziening kunnen schaden.
+Vervallen
 
 ##### Artikel 18d
 
-1. Onze Minister kan in het belang van het voorzien in compensatie als bedoeld in [artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), indien door het nalaten of handelen van de borgingsvoorziening het vertrouwen in de borgingsvoorziening dreigt geschaad te worden of indien de borgingsvoorziening handelt in strijd met het bepaalde in deze paragraaf, de borgingsvoorziening een aanwijzing geven om een of meer handelingen te verrichten of na te laten. De aanwijzing heeft geen betrekking op individuele borgingsbeslissingen.
-
-2. Een aanwijzing omvat de gevolgen die Onze Minister verbindt aan het niet voldoen van die aanwijzing.
-
-3. In een aanwijzing als bedoeld in het eerste lid, wordt een termijn gesteld binnen welke de borgingsvoorziening daaraan dient te voldoen.
+Vervallen
 
 ##### Artikel 18e
 
-Indien de borgingsvoorziening niet of niet volledig binnen de gestelde termijn voldoet aan een aanwijzing als bedoeld in [artikel 18d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=5&artikel=18d&z=2021-11-27&g=2021-11-27), kan Onze Minister bepalen dat de borgingsvoorziening voor een door hem te bepalen tijdvak door hem aangegeven handelingen slechts mag verrichten na goedkeuring van een of meer door hem aangewezen personen of instanties, dan wel na zijn goedkeuring.
+Vervallen
 
 ##### Artikel 18f
 
-1. Onze Minister kan de voltallige raad van commissarissen van de borgingsvoorziening ontslaan indien door een doen of nalaten van de raad de borgingsvoorziening in strijd handelt met de bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gegeven voorschriften voor zover deze betrekking hebben op de borgingsvoorziening;
-
-2. Indien Onze Minister de voltallige raad van commissarissen heeft ontslagen, benoemt hij nieuwe commissarissen.
+Vervallen
 
 ### Hoofdstuk IV. Rechtsvorm en organisatie van toegelaten instellingen
 
 #### § 1. Voorschriften omtrent de geschiktheid van personen voor het lidmaatschap van het bestuur en de raad van commissarissen, en de betrouwbaarheid van die personen
 
-#### § 2. Goedkeuring door de raad van commissarissen van besluiten van het bestuur
+#### § 1. Voorschriften omtrent de geschiktheid van personen voor het lidmaatschap van het bestuur en de raad van commissarissen, en de betrouwbaarheid van die personen
 
 #### § 2. Goedkeuring door de raad van commissarissen van besluiten van het bestuur
 
@@ -2536,13 +2438,13 @@ Indien de borgingsvoorziening niet of niet volledig binnen de gestelde termijn v
 
 ### Afdeling 1. Relatie met de gemeente
 
-#### § 1. Woningmarktregio’s
+#### § 4. Goedkeuring door Onze Minister van besluiten van het bestuur omtrent vervreemdingen van aandelen
 
 ##### Artikel 37a
 
 1. Onze Minister kan op verzoek van een toegelaten instelling ontheffing verlenen van het verbod, bedoeld in [artikel 41c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=41c), ten aanzien van werkzaamheden die zich, gezien de aard en omvang daarvan, in hoofdzaak beperken tot het gebied ter plaatse van voordien daartoe gesloopte woongelegenheden of hun onroerende of infrastructurele aanhorigheden.
 
-2. [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=37&z=2021-11-27&g=2021-11-27) is niet van toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=1&paragraaf=1&artikel=37&z=2022-01-01&g=2022-01-01) is niet van toepassing op het verzoek, bedoeld in het eerste lid.
 
 #### § 2. Uitvoering van het gemeentelijke volkshuisvestingsbeleid
 
@@ -2550,19 +2452,17 @@ Indien de borgingsvoorziening niet of niet volledig binnen de gestelde termijn v
 
 ##### Artikel 40
 
-1. Onze Minister stelt een commissie in, die hem adviseert over de behandeling van geschillen als bedoeld in [artikel 44, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44). De commissie bestaat uit personen uit de kring van organisaties die zich ten doel stellen de belangen van toegelaten instellingen te behartigen, uit personen uit de kring van organisaties die zich ten doel stellen de belangen van gemeenten te behartigen, en personen uit de kring van bewonersorganisaties. De commissie is zodanig samengesteld, dat geen van die categorieën van personen de meerderheid van de commissie kan uitmaken.
+1. Onze Minister stelt een commissie in, die hem adviseert over de behandeling van geschillen als bedoeld in [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44). De commissie bestaat uit personen uit de kring van organisaties die zich ten doel stellen de belangen van toegelaten instellingen te behartigen, uit personen uit de kring van organisaties die zich ten doel stellen de belangen van gemeenten te behartigen, en personen uit de kring van bewonersorganisaties. De commissie is zodanig samengesteld, dat geen van die categorieën van personen de meerderheid van de commissie kan uitmaken.
 
-2. Onze Minister kan de termijn, genoemd in [artikel 44, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), door schriftelijke kennisgeving daarvan aan de toegelaten instelling, het college van burgemeester en wethouders van de bij het geschil, bedoeld in artikel 44, vierde lid, van de wet, betrokken gemeente en de daarbij betrokken bewonersorganisaties, telkens verlengen met een door hem daarbij te bepalen termijn van ten hoogste vier weken, van welke verlenging hij kennis geeft voor het verstrijken van de eerstgenoemde dan wel de voor de laatste maal verlengde termijn.
+2. Bij ministeriële regeling kunnen nadere voorschriften gegeven worden over de behandeling van geschillen als bedoeld in [artikel 44, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), en de werkwijze en samenstelling van de commissie, bedoeld in het eerste lid.
 
-3. Bij ministeriële regeling kunnen nadere voorschriften gegeven worden over de behandeling van geschillen als bedoeld in [artikel 44, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), en de werkwijze en samenstelling van de commissie, bedoeld in het eerste lid.
-
-#### § 3. Prestatieafspraken
+#### § 1. Woningmarktregio’s
 
 ### Afdeling 2. Het gebied van de volkshuisvesting
 
 ### Afdeling 2a. Werkzaamheden ten behoeve van de huisvesting van vergunninghouders
 
-### Afdeling 4. Diensten van algemeen economisch belang
+### Afdeling 2. Het gebied van de volkshuisvesting
 
 #### § 1. Toewijzing
 
@@ -2602,7 +2502,7 @@ Indien de borgingsvoorziening niet of niet volledig binnen de gestelde termijn v
 
 ### Hoofdstuk VI. Sanering van en projectsteun ten behoeve van toegelaten instellingen
 
-#### § 1. Subsidies voor financiële sanering
+#### § 3. Vervreemding van aandelen in een woningvennootschap
 
 #### § 2. Subsidies voor werkzaamheden
 
@@ -2662,11 +2562,11 @@ Oefent de functie adequaat en zorgvuldig uit, met inachtneming van regels en ver
 
 Is in staat op inspirerende wijze sturing te geven aan een organisatie. Stimuleert, motiveert en ontwikkelt medewerkers en borgt de vakbekwaamheid van medewerkers om een beoogd doel tot een goed einde te brengen. Organiseert besluitvorming zodanig dat iedereen zijn bijdrage kan leveren. Staat open en biedt ruimte voor kritische discussie en feedback. Zorgt voor een goed draagvlak. Toont leiderschap met moed, ook in kritieke situaties.
 
-### Authenticiteit
+### Betrouwbaarheid van leden of kandidaat-leden van het bestuur of de raad van commissarissen: antecedenten
 
 Is in staat op inspirerende wijze sturing te geven aan een organisatie. Stimuleert, motiveert en ontwikkelt medewerkers en borgt de vakbekwaamheid van medewerkers om een beoogd doel tot een goed einde te brengen. Organiseert besluitvorming zodanig dat iedereen zijn bijdrage kan leveren. Staat open en biedt ruimte voor kritische discussie en feedback. Zorgt voor een goed draagvlak. Toont leiderschap met moed, ook in kritieke situaties.
 
-### Helikopterview
+### [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941):
 
 Kan gegevens en mogelijke handelswijzen tegen elkaar afwegen en tot een logisch oordeel komen. Onderzoekt/herkent/begrijpt de essentiële vraagstukken. Kan over de eigen portefeuille heen kijken, vooral als problemen de continuïteit van de toegelaten instelling in gevaar kunnen brengen.
 
@@ -2676,21 +2576,21 @@ Laat blijken goed geïnformeerd te zijn over (de veranderende) maatschappelijke,
 
 Kan met overredingskracht, persoonlijk overwicht en tact invloed uitoefenen op het standpunt van anderen om instemming te krijgen met bepaalde plannen, ideeën of producten. Houdt vast aan zijn/haar (professionele) principes, ondanks druk van anderen.
 
-Brengt samenwerkingsverbanden tot stand (samenwerking met belanghouders) en handhaaft deze. Heeft oog voor het groepsbelang en levert een bijdrage aan het gemeenschappelijke resultaat. Is tevens in staat in collegiaal verband te functioneren en geen pleitbezorger te zijn van individuele belangen. Weet intern en extern mensen aan zich te binden en draagvlak te creëren voor zijn/haar handelen.
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of [artikel 76 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteiten.
 
 ## Bijlage 2. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2016-07-01&g=2016-07-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
-Onderkent de specifieke rol van de toegelaten instelling als maatschappelijke onderneming en bewaakt binnen de visie en missie van de toegelaten instelling de invulling daarvan.
+Andere feiten of omstandigheden die redelijkerwijs voor de Minister/toezichthouder van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
 
-### Authenticiteit
+### 3. Financiële antecedenten
 
 Dit betekent ook het open communiceren van intenties, ideeën en gevoelens, het uitnodigen tot openheid en eerlijkheid naar diverse betrokken partijen. Juiste informatie geven over de werkelijke situatie en het tijdig erkennen van risico’s, uitdagingen en problemen naar de bestuurders.
 
-### Helikopterview
+### 4. Toezichtantecedenten
 
-### Maatschappelijke (omgevings)sensitiviteit en verantwoordelijkheid
+### 5. Fiscaal bestuursrechtelijke antecedenten
 
-### [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
+### 5.1. Persoonlijk
 
 door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
@@ -2704,13 +2604,13 @@ Bezit de kwaliteiten om het groepsproces binnen de raad van commissarissen op ee
 
 ### [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
 
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Minister/toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+In de onder i, ii, iii en iv genoemde gevallen wordt er vanuit gegaan dat het inkomen niet uitgaat boven de inkomensgrenzen van de huurtoeslag; dat houdt in dat aan de desbetreffende huishoudens passend dient te worden toegewezen.
 
 ### [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941):
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+**** Uitzonderingen op de verplichte toetsing aan de hand van belastingbescheiden:**
 
-### 2.4. Andere feiten of omstandigheden
+### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
 
 ### [Wegenverkeerswet 1994](onbekend):
 
@@ -2782,7 +2682,7 @@ Vervallen
 
 ### Afdeling 7. Fusie
 
-### Afdeling 8. Splitsing
+### Afdeling 6. Juridische scheiding
 
 ### Afdeling 8. Splitsing
 
@@ -2818,19 +2718,19 @@ Vervallen
 
 #### § 2. Wijziging van op andere wetten dan de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gebaseerde algemene maatregelen van bestuur
 
-### Afdeling 4. Slotbepalingen
+### Afdeling 2. Intrekking en wijziging van op de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gebaseerde algemene maatregelen van bestuur
 
 ## Bijlage 1. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2017-04-01&g=2017-04-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
-### Maatschappelijke (omgevings)sensitiviteit en verantwoordelijkheid
+### 1. Strafrechtelijke antecedenten
 
 Dit betekent ook het open communiceren van intenties, ideeën en gevoelens, het uitnodigen tot openheid en eerlijkheid naar diverse betrokken partijen. Juiste informatie geven over de werkelijke situatie en het tijdig erkennen van risico’s, uitdagingen en problemen naar de toezichthouders.
 
 ### Besluitvaardig
 
-Oefent de functie adequaat en zorgvuldig uit, met inachtneming van regels en verantwoordelijkheden. Oordeelt en handelt op moreel verantwoorde wijze, op basis van algemeen aanvaarde sociale en ethische normen. Is hierbij aanspreekbaar op eigen gedrag en spreekt ook anderen hierop aan. Vertoont goed voorbeeldgedrag voor de eigen organisatie en de sector.
+Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokken van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### Leiderschap
+### [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
 
 Dit betekent ook het open communiceren van intenties, ideeën en gevoelens, het uitnodigen tot openheid en eerlijkheid naar diverse betrokken partijen. Juiste informatie geven over de werkelijke situatie en het tijdig erkennen van risico’s, uitdagingen en problemen naar de bestuurders.
 
@@ -2838,7 +2738,7 @@ Dit betekent ook het open communiceren van intenties, ideeën en gevoelens, het 
 
 Kan ingewikkelde materie snel overzien, heeft realiteitszin en een gezond boerenverstand. Heeft oog voor de ontwikkelingen, machtsverhoudingen en gevoelens binnen de toegelaten instelling. Kan schakelen op bestuurlijk niveau, weet complexiteit van het aansturen van een organisatie in al zijn aspecten te duiden en kan goed klankbord zijn voor de bestuurder.
 
-Oefent de functie adequaat en zorgvuldig uit, met inachtneming van regels en verantwoordelijkheden. Oordeelt en handelt op moreel verantwoorde wijze, op basis van algemeen aanvaarde sociale en ethische normen. Is hierbij aanspreekbaar op eigen gedrag en spreekt ook anderen hierop aan. Vertoont goed voorbeeldgedrag voor de eigen organisatie en de sector.
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
 Is consistent in denken en doen (gedrag en houding) onder verschillende omstandigheden. Maakt zichtbaar wat hij/zij werkelijk belangrijk vindt en waar hij/zij voor staat.
 
@@ -2846,13 +2746,13 @@ Is consistent in denken en doen (gedrag en houding) onder verschillende omstandi
 
 Kan gegevens en mogelijke handelswijzen tegen elkaar afwegen en tot een logisch oordeel komen. Onderzoekt/herkent/begrijpt de essentiële vraagstukken. Kan over de eigen portefeuille heen kijken, vooral als problemen de continuïteit van de toegelaten instelling in gevaar kunnen brengen.
 
-### Integriteit en moreel besef
+### 4.2. Andere feiten of omstandigheden
 
-### Onafhankelijke oordeelsvorming
+### 5.2. Zakelijk
 
 ### 2.1. Veroordelingen
 
-door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
+Schema A betreft toetsing aan de hand van gegevens van de Belastingdienst.
 
 ### 2.1. Veroordelingen
 
@@ -2894,31 +2794,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 25a
 
-1. [Artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), is niet van toepassing in geval van vervreemding van een geliberaliseerde woongelegenheid.
-
-2. [Artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), is tevens niet van toepassing in geval van vervreemding van een potentieel te liberaliseren woongelegenheid, of in geval van vervreemding van een gemengd geliberaliseerd complex, met dien verstande dat:
-
-- a. de zienswijze, bedoeld in [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), alleen dan niet bij de aanvraag hoeft te worden overlegd, indien:
-
-- 1°. met de gemeente waar die woongelegenheid is gelegen op grond van [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), afspraken zijn gemaakt over de bouw van huurwoningen waarvan de huurprijs lager is dan het bedrag, genoemd in [artikel 20, tweede lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=20), en met de voorgenomen vervreemding het totale aantal in dat tijdvak te vervreemden woongelegenheden als bedoeld in dit onderdeel, niet meer bedraagt dan de op grond van die afspraken voor dat tijdvak te realiseren woningen als hiervoor bedoeld, en
-
-- 2°. die woongelegenheid wordt vervreemd onder het beding dat zij ten minste zeven jaar na de eigendomsoverdracht als gevolg van de vervreemding voor verhuur met een huurprijs van ten hoogste € 850,– bestemd blijft;
-
-- b. dat uit de bescheiden, bedoeld in [artikel 25, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), in dat geval niet hoeft te blijken dat die woongelegenheid, indien zij verhuurd is, gedurende ten minste vier weken te koop is aangeboden aan de huurder tegen een prijs van ten hoogste de marktwaarde vrij van huur en gebruik of de WOZ-waarde.
-
-3. [Artikel 25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), is niet van toepassing in geval van vervreemding van een geliberaliseerde woongelegenheid, een potentieel te liberaliseren woongelegenheid of een gemengd geliberaliseerd complex.
-
-4. In geval van vervreemding van een geliberaliseerde woongelegenheid, een potentieel te liberaliseren woongelegenheid of een gemengd geliberaliseerd complex hoeft uit de bescheiden, bedoeld in [artikel 25, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=25&z=2021-11-27&g=2021-11-27), niet te blijken dat die woongelegenheid, indien zij verhuurd is, gedurende ten minste vier weken te koop is aangeboden aan de huurder en aan andere toegelaten instellingen tegen een prijs van ten hoogste de marktwaarde vrij van huur en gebruik of de WOZ-waarde.
+Vervallen
 
 ##### Artikel 26a
 
-In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=26&z=2021-11-27&g=2021-11-27) keurt Onze Minister een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), in geval van vervreemding van een gebouw dat de status heeft van rijksmonument als bedoeld in [artikel 1.1. van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1), of de status heeft van monument op grond van een provinciale of gemeentelijke verordening, tevens goed, indien:
-
-- a. zij wordt vervreemd aan een rechtspersoon met de status van professionele organisatie voor monumentenbehoud;
-
-- b. zij wordt vervreemd tegen een prijs van ten minste de getaxeerde waarde die zij met behoud van haar huidige bestemming vertegenwoordigt; en
-
-- c. zij wordt vervreemd onder het beding dat zij gedurende ten minste zeven jaar na de eigendomsoverdracht als gevolg van die vervreemding voor verhuur bestemd blijft.
+Vervallen
 
 #### § 6. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
@@ -2940,11 +2820,11 @@ In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&ho
 
 #### § 1. Toewijzing
 
-### Afdeling 5. Administratieve scheiding en vermogensscheiding
+### Afdeling 2a. Werkzaamheden ten behoeve van de huisvesting van vergunninghouders
 
 #### § 2. Compensatie
 
-#### § 4. Goedkeuring van de administratieve scheiding
+#### § 1. Toewijzing
 
 #### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling
 
@@ -2976,7 +2856,7 @@ In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&ho
 
 ### Afdeling 2. Intrekking en wijziging van op de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gebaseerde algemene maatregelen van bestuur
 
-### Afdeling 3. Overgangsbepalingen
+### Afdeling 2. De bijdrage
 
 ##### Artikel 46a
 
@@ -3008,13 +2888,13 @@ De diensten, bedoeld in [artikel 45, tweede lid, onderdeel j, van de wet](https:
 
 - 1°. meer dan de helft van de aandelen in laatstgenoemde verbonden onderneming door toegelaten instellingen wordt gehouden, of
 
-- 2°. toegelaten instellingen of een of meer met hen verbonden ondernemingen alleen of samen meer dan de helft van de bestuurders van laatstgenoemde verbonden onderneming kunnen benoemen of ontslaan, en
+- 2°. toegelaten instellingen of een of meer van haar dochtermaatschappijen alleen of samen meer dan de helft van de bestuurders van laatstgenoemde verbonden onderneming kunnen benoemen of ontslaan, en
 
 - 3°. zij ook diensten ten behoeve van de bedrijfsvoering of administratie van die andere toegelaten instelling verleent.
 
 ##### Artikel 52c
 
-De diensten, bedoeld in [artikel 45, tweede lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), worden door een toegelaten instelling of een met een toegelaten instelling verbonden onderneming uitsluitend verleend ten behoeve van de administratie van een in dat onderdeel bedoelde huurdersorganisatie of bewonderscommissie:
+De diensten, bedoeld in [artikel 45, tweede lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), worden door een toegelaten instelling of een met een toegelaten instelling verbonden onderneming uitsluitend verleend aan een in dat onderdeel bedoelde huurdersorganisatie of bewonerscommissie:
 
 - a. die de belangen van de huurders van een met een toegelaten instelling verbonden onderneming behartigt, of
 
@@ -3022,95 +2902,71 @@ De diensten, bedoeld in [artikel 45, tweede lid, onderdeel k, van de wet](https:
 
 ##### Artikel 52d
 
-1. Een toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap verricht de werkzaamheden, genoemd in [artikel 45, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), uitsluitend nadat Onze Minister daarvoor toestemming heeft verleend.
+1. Het verhuren van woongelegenheden en aanhorigheden van derden, bedoeld in [artikel 45, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is slechts toegestaan indien een overeenkomst van huur en verhuur wordt aangegaan:
 
-2. Het eerste lid is niet van toepassing indien:
+- a. met een huishouden waarvan het huishoudinkomen niet hoger is dan de inkomensgrens, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), of
 
-- a. het de werkzaamheden, genoemd in [artikel 45, zevende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), betreft, die de toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap verricht voor een vereniging van eigenaars in welke zij de meerderheid van stemmen heeft in de vergadering van eigenaars en
+- b. met categorieën van personen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=57&z=2022-01-01&g=2022-01-01), en
 
-- b. deze werkzaamheden worden verricht op grond van een overeenkomst van opdracht betreffende lastgeving als bedoeld in [artikel 414, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=414), die voldoet aan de bij ministeriële regeling daaraan te stellen voorwaarden.
+- c. tegen een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag.
 
-##### Artikel 52e
+2. Het in stand houden van en treffen van kleinschalige voorzieningen aan gebouwen van derden, bedoeld in [artikel 45, zevende lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is slechts toegestaan indien:
 
-1. Onze minister verleent toestemming als bedoeld in [artikel 52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2021-11-27&g=2021-11-27), voor het verhuren van woongelegenheden en aanhorigheden van derden, bedoeld in [artikel 45, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) indien:
+- a. de werkzaamheden die zijn gericht op het geschikt maken van het gebouw voor bewoning, een investering vergen van ten hoogste een bij ministeriële regeling bepaald bedrag per beoogde verhuureenheid;
 
-- a. het verhuren betrekking heeft op complexen waarin voor ten minste 90% van de woongelegenheden een overeenkomst van huur en verhuur wordt aangegaan:
+- b. de gebouwen en aanhorigheden ten aanzien waarvan de werkzaamheden worden verricht van de derde worden gehuurd als bedoeld in [artikel 45, zevende lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) of indien ten aanzien van de gebouwen en aanhorigheden tevens diensten ten behoeve van de bedrijfsvoering of administratie worden uitgevoerd als bedoeld in artikel 45, zevende lid, onderdeel d, van de wet, en
 
-- 1°. met een huishouden waarvan het huishoudinkomen niet hoger is dan de inkomensgrens, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), of
+- c. voor zover de werkzaamheden worden verricht in gebouwen en aanhorigheden, ten aanzien waarvan tevens diensten ten behoeve van de bedrijfsvoering of administratie als bedoeld in [artikel 45, zevende lid, onderdeel c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) worden uitgevoerd, de werkzaamheden worden verricht op grond van een overeenkomst van opdracht betreffende lastgeving als bedoeld in [artikel 414, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=414).
 
-- 2°. met categorieën van personen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=57&z=2021-11-27&g=2021-11-27), en
+3. Het huren van gebouwen van derden, bedoeld in [artikel 45, zevende lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is slechts toegestaan indien:
 
-- 3°. tegen een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag;
+- a. de toegelaten instelling deze gebouwen huurt met het oogmerk deze te verhuren op grond van [artikel 45, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45);
 
-- b. de in [artikel 52g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52g&z=2021-11-27&g=2021-11-27), bedoelde schriftelijke verklaring is afgegeven, indien het de voorgenomen werkzaamheden van een toegelaten instelling of een samenwerkingsvennootschap betreft, en
+- b. de ontwerphuurovereenkomst tussen de toegelaten instelling en de derde, bedoeld in [artikel 45, zevende lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), voldoet aan de bij ministeriële regeling daaraan te stellen voorwaarden, en
 
-- c. de gebouwen en aanhorigheden ten aanzien waarvan de werkzaamheden worden verricht van de derde worden gehuurd als bedoeld in [artikel 45, zevende lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45).
+- c. er voldoende vermogen beschikbaar is om de verplichtingen die volgen uit de overeenkomst te kunnen opvangen.
 
-2. Onze minister verleent toestemming als bedoeld in [artikel 52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2021-11-27&g=2021-11-27), voor het in stand houden van en treffen van kleinschalige voorzieningen aan gebouwen van derden, bedoeld in [artikel 45, zevende lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) indien:
+4. Het verlenen van diensten ten behoeve van de bedrijfsvoering of administratie van derden, bedoeld in [artikel 45, zevende lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), is slechts toegestaan indien:
 
-- a. de in [artikel 52g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52g&z=2021-11-27&g=2021-11-27), bedoelde schriftelijke verklaring is afgegeven, indien het de voorgenomen werkzaamheden van een toegelaten instelling of een samenwerkingsvennootschap betreft;
-
-- b. de werkzaamheden die zijn gericht op het geschikt maken van het gebouw voor bewoning, een investering vergen van ten hoogste € 25.000,– per beoogde verhuureenheid;
-
-- c. de gebouwen en aanhorigheden ten aanzien waarvan de werkzaamheden worden verricht van de derde worden gehuurd als bedoeld in [artikel 45, zevende lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) of indien ten aanzien van de gebouwen en aanhorigheden tevens diensten ten behoeve van de bedrijfsvoering of administratie worden uitgevoerd als bedoeld in artikel 45, zevende lid, onderdeel d, van de wet, en
-
-- d. voor zover de werkzaamheden worden verricht in gebouwen en aanhorigheden, ten aanzien waarvan tevens diensten ten behoeve van de bedrijfsvoering of administratie als bedoeld in [artikel 45, zevende lid, onderdeel c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) worden uitgevoerd, de werkzaamheden worden verricht op grond van een overeenkomst van opdracht betreffende lastgeving als bedoeld in [artikel 414, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=414), die voldoet aan de bij ministeriële regeling daaraan te stellen voorwaarden.
-
-3. Onze Minister verleent toestemming als bedoeld in [artikel 52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2021-11-27&g=2021-11-27), voor het huren van gebouwen van derden, bedoeld in [artikel 45 zevende lid, onderdeel c, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45)t indien:
-
-- a. de in [artikel 52g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52g&z=2021-11-27&g=2021-11-27), bedoelde schriftelijke verklaring is afgegeven, indien het de voorgenomen werkzaamheden van een toegelaten instelling of een samenwerkingsvennootschap betreft;
-
-- b. de toegelaten instelling, de met haar verbonden onderneming of de samenwerkingsvennootschap aantoont het voornemen te hebben deze gebouwen te gaan verhuren op grond van [artikel 45, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45);
-
-- c. de ontwerphuurovereenkomst tussen de toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap en de derde, bedoeld in [artikel 45, zevende lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), voldoet aan de bij ministeriële regeling daaraan te stellen voorwaarden, en
-
-- d. er voldoende vermogen beschikbaar is om de verplichtingen die volgen uit de overeenkomst te kunnen opvangen. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit lid.
-
-4. Onze Minister verleent toestemming als bedoeld in [artikel 52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2021-11-27&g=2021-11-27), voor het verlenen van diensten ten behoeve van de bedrijfsvoering of administratie van derden, bedoeld in [artikel 45, zevende lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) indien:
-
-- a. in het gebouw voor ten minste 90% van de woongelegenheden een overeenkomst van huur en verhuur is aangegaan:
+- a. met betrekking tot ten minste 90% van de woongelegenheden een overeenkomst van huur en verhuur is aangegaan:
 
 - 1°. met een huishouden waarvan het huishoudinkomen niet hoger is dan de inkomensgrens, of
 
-- 2°. met categorieën van personen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=57&z=2021-11-27&g=2021-11-27), en
+- 2°. met categorieën van personen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=4&paragraaf=1&artikel=57&z=2022-01-01&g=2022-01-01), en
 
-- 3°. tegen een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, waarbij met ten minste 95% van de huishoudens als bedoeld in [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) een huurprijs is overeengekomen van ten hoogste de huurprijs als bedoeld in dat lid;
+- 3°. tegen een huurprijs van ten hoogste het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag, waarbij met ten minste 95% van de huishoudens als bedoeld in artikel 46, tweede lid, van de wet een huurprijs is overeengekomen van ten hoogste de huurprijs als bedoeld in dat lid;
 
-- b. de in [artikel 52g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52g&z=2021-11-27&g=2021-11-27), bedoelde schriftelijke verklaring is afgegeven, indien het de voorgenomen werkzaamheden van een toegelaten instelling of een samenwerkingsvennootschap betreft;
+- b. de diensten worden verricht op grond van een overeenkomst van opdracht betreffende lastgeving als bedoeld in [artikel 414, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=414), en
 
-- c. de diensten worden verricht op grond van een overeenkomst van opdracht betreffende lastgeving als bedoeld in [artikel 414, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=414), en
+- c. de ontwerpovereenkomst van opdracht, bedoeld in onderdeel b, is opgenomen in het overzicht met verantwoordingsgegevens, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a).
 
-- d. de ontwerpovereenkomst van opdracht, bedoeld in onderdeel c, voldoet aan de bij ministeriële regeling daaraan te stellen voorwaarden.
+5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
-5. Onze Minister verleent geen toestemming als bedoeld in [artikel 52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2021-11-27&g=2021-11-27), indien naar zijn oordeel de aan het verrichten van de werkzaamheden verbonden financiële risico’s of de financiële positie van de toegelaten instelling, de met haar verbonden onderneming of de samenwerkingsvennootschap zodanig zijn, dat het onverantwoord is dat zij deze uitvoert. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit lid.
+##### Artikel 52e
+
+1. In afwijking van [artikel 52d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2022-01-01&g=2022-01-01) zijn de werkzaamheden, bedoeld in [artikel 45, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), voor zover deze worden verricht vanuit de niet-daeb-tak of door de met de toegelaten instelling verbonden onderneming of samenwerkingsvennootschap, slechts toegestaan indien:
+
+- a. zij worden verricht in gebieden waar woongelegenheden in eigendom van de toegelaten instelling gelegen zijn, en voor zover de gebouwen, bedoeld in [artikel 45, tweede lid, onderdelen d en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), een op een wijk, buurt of buurtschap in een zodanig gebied gerichte functie hebben; en
+
+- b. die werkzaamheden bijdragen aan het verrichten van andere werkzaamheden van de toegelaten instelling op het gebied van de volkshuisvesting.
+
+2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit artikel.
 
 ##### Artikel 52f
 
-Bij de aanvraag verstrekt de toegelaten instelling, de met haar verbonden onderneming of de samenwerkingsvennootschap de in [artikel 52e, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52e&z=2021-11-27&g=2021-11-27), bedoelde ontwerpovereenkomst. De toegelaten instelling of de samenwerkingsvennootschap verstrekt daarnaast tevens de verklaring, bedoeld in [artikel 52g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52g&z=2021-11-27&g=2021-11-27).
+Een toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap beëindigt in ieder geval de werkzaamheden, bedoeld in [artikel 45, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), indien:
+
+- a. niet aan de voorwaarden van de [artikelen 52d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52d&z=2022-01-01&g=2022-01-01) en [52e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52e&z=2022-01-01&g=2022-01-01) wordt voldaan; of
+
+- b. de aan het verrichten van de werkzaamheden verbonden financiële risico’s of de financiële positie van de toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap zodanig zijn, dat het onverantwoord is dat zij deze uitvoert. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de toepassing van dit onderdeel.
 
 ##### Artikel 52g
 
-1. Tenzij het de voorgenomen werkzaamheden van een verbonden onderneming betreft, verklaart het college van de gemeente op wier grondgebied de woongelegenheid, de aanhorigheid of het gebouw waar de werkzaamheden, bedoeld in [artikel 52e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52e&z=2021-11-27&g=2021-11-27), betrekking op hebben, zich bevindt, schriftelijk dat het voornemen tot het uitvoeren van de werkzaamheden, bedoeld in [artikel 45, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), tenminste vier weken van tevoren langs elektronische weg algemeen bekend is gemaakt. Voor de verklaring maakt het college gebruik van een bij ministeriële regeling vastgesteld formulier.
-
-2. De bekendmaking bevat in ieder geval:
-
-- a. de naam en contactgegevens van degene in wiens opdracht de werkzaamheden worden uitgevoerd;
-
-- b. de aanvang en looptijd van de opdracht;
-
-- c. een omschrijving van de woongelegenheid, de aanhorigheden of het gebouw waar de werkzaamheden worden uitgevoerd; en
-
-- d. de wijze waarop en de toestand waarin de woongelegenheid, de aanhorigheden of het gebouw na afloop van de werkzaamheden dienen te worden opgeleverd.
-
-3. Het eerste lid is, met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, van overeenkomstige toepassing op het orgaan dat in die openbare lichamen met het dagelijkse bestuur is belast.
+Vervallen
 
 ##### Artikel 52h
 
-Onze Minister kan de verleende toestemming, bedoeld in [artikel 52e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=52e&z=2021-11-27&g=2021-11-27), intrekken indien blijkt dat:
-
-- a. niet langer aan de voorwaarden voor het verkrijgen van toestemming wordt voldaan;
-
-- b. de aan het verrichten van de werkzaamheden verbonden financiële risico’s of de financiële positie van de toegelaten instelling, een met haar verbonden onderneming of een samenwerkingsvennootschap tijdens de looptijd van de werkzaamheden zodanig zijn geworden dan het niet langer verantwoord is dat zij deze uitvoert.
+Vervallen
 
 ### Afdeling 3. Passend toewijzen
 
@@ -3134,7 +2990,7 @@ Onze Minister kan de verleende toestemming, bedoeld in [artikel 52e, eerste lid]
 
 #### § 1. Huursom
 
-#### § 2. Bedrijfsvoering
+#### § 1. Huursom
 
 ### Hoofdstuk VI. Sanering van en projectsteun ten behoeve van toegelaten instellingen
 
@@ -3150,7 +3006,7 @@ Onze Minister kan de verleende toestemming, bedoeld in [artikel 52e, eerste lid]
 
 ### Afdeling 3. Toepasselijkheid bij mandaat aan borgingsvoorziening
 
-### Afdeling 2. Intrekking en wijziging van op de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gebaseerde algemene maatregelen van bestuur
+### Afdeling 3. Toepasselijkheid bij mandaat aan borgingsvoorziening
 
 ### Afdeling 3. Overgangsbepalingen
 
@@ -3162,23 +3018,23 @@ Is consistent in denken en doen (gedrag en houding) onder verschillende omstandi
 
 Is in staat op inspirerende wijze sturing te geven aan een organisatie. Stimuleert, motiveert en ontwikkelt medewerkers en borgt de vakbekwaamheid van medewerkers om een beoogd doel tot een goed einde te brengen. Organiseert besluitvorming zodanig dat iedereen zijn bijdrage kan leveren. Staat open en biedt ruimte voor kritische discussie en feedback. Zorgt voor een goed draagvlak. Toont leiderschap met moed, ook in kritieke situaties.
 
-### 2. Commissarissen
+### [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804):
 
-Kan ingewikkelde materie snel overzien, heeft realiteitszin en een gezond boerenverstand. Heeft oog voor de ontwikkelingen, machtsverhoudingen en gevoelens binnen de toegelaten instelling. Kan schakelen op bestuurlijk niveau, weet complexiteit van het aansturen van een organisatie in al zijn aspecten te duiden en kan goed klankbord zijn voor de bestuurder.
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Minister/toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-Oefent de functie adequaat en zorgvuldig uit, met inachtneming van regels en verantwoordelijkheden. Oordeelt en handelt op moreel verantwoorde wijze, op basis van algemeen aanvaarde sociale en ethische normen. Is hierbij aanspreekbaar op eigen gedrag en spreekt ook anderen hierop aan. Vertoont goed voorbeeldgedrag voor de eigen organisatie en de sector.
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse toezichtwetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Minister/toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ## Bijlage 2. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2021-10-28&g=2021-10-28) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
-Heeft oog voor het groepsbelang en levert een bijdrage aan het gemeenschappelijke resultaat. Is tevens in staat in collegiaal verband te functioneren en geen pleitbezorger te zijn van individuele belangen.
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Minister/toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokken van, medeplegen van, medeplichtigheid aan of plegen van:
 
 ### 1. Strafrechtelijke antecedenten
 
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of [artikel 76 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteiten.
+*** Uitzonderingen op de inkomenstoets:**
 
-Betrokkene wordt voor een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
+Wel is een inkomenstoets vereist bij huishoudens met zorgindicatie bij passend toewijzen voor de huurtoeslag. Het BTIV 2015 benoemt de categorieën van zorggeïndiceerden die ook bij een inkomen boven de inkomensgrens, genoemd in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), van het BTIV recht hebben op een sociale huurwoning. De betreffende woningtoewijzingen worden toegerekend aan de 80% toewijzingen aan de doelgroep met een inkomen tot de inkomensgrens, genoemd in artikel 16, eerste lid, onderdeel a, van het BTIV. Vanuit het oogpunt van betaalbaarheid geldt voor deze categorieën zorggeïndiceerden de passendheidsnorm; derhalve dient het inkomen te worden getoetst (zo mogelijk aan de hand van belastingbescheiden, anders conform het toetsingsschema B). Toetsing van het inkomen in deze gevallen kan achterwege blijven indien de huurprijs van de woning is gelegen op of onder de voor het huishouden toepasselijke aftoppingsgrens. In dat geval is met de toewijzing immers in elk geval voldaan aan de passendheidsnorm. Bij de bepaling van het percentage passend gehuisveste huishoudens blijven de toewijzingen aan huishoudens die wel een zorgindicatie maar geen inkomensgegevens hebben overgelegd, buiten beschouwing.
 
 ### 2.3. (voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
 
@@ -3224,17 +3080,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 13a
 
-1. Een toegelaten instelling trekt de financiële middelen voor werkzaamheden op het gebied van de volkshuisvesting die niet behoren tot de diensten van algemeen economisch belang uitsluitend aan bij categorieën van instellingen als bedoeld in het bepaalde bij en krachtens [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-11-27&g=2021-11-27), en zonder gebruikmaking van de borgingsvoorziening. Zij kan uitsluitend op een andere wijze financiële middelen voor die werkzaamheden inzetten:
+1. Een toegelaten instelling trekt de financiële middelen voor werkzaamheden op het gebied van de volkshuisvesting die niet behoren tot de diensten van algemeen economisch belang uitsluitend aan bij categorieën van instellingen als bedoeld in het bepaalde bij en krachtens [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), en zonder gebruikmaking van de borgingsvoorziening. Zij kan uitsluitend op een andere wijze financiële middelen voor die werkzaamheden inzetten:
 
 - a. in geval van herstructurering, of
 
 - b. indien zij ten overstaan van Onze Minister aannemelijk heeft gemaakt dat zij geen gevolg kan geven aan de eerste volzin.
 
-2. De toegelaten instelling stelt ten behoeve van toepassing van het eerste lid, tweede volzin, een voorziening in, ten laste waarvan zij een interne lening verstrekt, die aan de niet-daeb-tak ten goede komt. Op het rentepercentage van die lening is het bepaalde bij en krachtens [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing.
+2. De toegelaten instelling stelt ten behoeve van toepassing van het eerste lid, tweede volzin, een voorziening in, ten laste waarvan zij een interne lening verstrekt, die aan de niet-daeb-tak ten goede komt. Op het rentepercentage van die lening is het bepaalde bij en krachtens [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
-3. De voorziening, bedoeld in het tweede lid, bevat uitsluitend de netto-opbrengsten van vervreemdingen op 1 januari 2012 of nadien van woongelegenheden als bedoeld in [artikel 66, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2021-11-27&g=2021-11-27), en [artikel 47, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), verminderd met het per jaar aan die woongelegenheden toe te rekenen deel van de leningen, bedoeld in artikel 66, eerste lid, onderdeel f, welk deel verhoudingsgewijs gelijk is aan het quotiënt van het totaalbedrag van die leningen en dat van de WOZ-waarde van die woongelegenheden, welke totaalbedragen blijken uit de voor dat jaar vastgestelde balans van de toegelaten instelling. De voorziening bevat die aldus verminderde netto-opbrengsten voorts uitsluitend, voor zover er een batig saldo over het betrokken jaar is uit de verhuur en de vervreemding van woongelegenheden als bedoeld in de eerste volzin, bepaald op grond van waardering van die woongelegenheden tegen de modelmatige marktwaarde. De eerste en tweede volzin zijn van overeenkomstige toepassing op de jaarlijks aan de voorziening toe te voegen middelen.
+3. De voorziening, bedoeld in het tweede lid, bevat uitsluitend de netto-opbrengsten van vervreemdingen op 1 januari 2012 of nadien van woongelegenheden als bedoeld in [artikel 66, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=66&z=2022-01-01&g=2022-01-01), en [artikel 47, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), verminderd met het per jaar aan die woongelegenheden toe te rekenen deel van de leningen, bedoeld in artikel 66, eerste lid, onderdeel f, welk deel verhoudingsgewijs gelijk is aan het quotiënt van het totaalbedrag van die leningen en dat van de WOZ-waarde van die woongelegenheden, welke totaalbedragen blijken uit de voor dat jaar vastgestelde balans van de toegelaten instelling. De voorziening bevat die aldus verminderde netto-opbrengsten voorts uitsluitend, voor zover er een batig saldo over het betrokken jaar is uit de verhuur en de vervreemding van woongelegenheden als bedoeld in de eerste volzin, bepaald op grond van waardering van die woongelegenheden tegen de modelmatige marktwaarde. De eerste en tweede volzin zijn van overeenkomstige toepassing op de jaarlijks aan de voorziening toe te voegen middelen.
 
-4. Op de aflossing van de lening, bedoeld in het tweede lid, is [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2021-11-27&g=2021-11-27), van overeenkomstige toepassing.
+4. Op de aflossing van de lening, bedoeld in het tweede lid, is [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=5&paragraaf=3&artikel=70&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 #### § 4. Verdere algemene bepalingen inzake toegelaten instellingen
 
@@ -3248,7 +3104,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24a
 
-Vervreemdingen waarvoor geen goedkeuring is vereist op grond van [artikel 24, onderdelen a of d, onder 1°, of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=24&z=2021-11-27&g=2021-11-27), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel N, van het Besluit van 17 november 2021 tot wijziging van het Besluit toegelaten instellingen volkshuisvesting 2015 naar aanleiding van de evaluatie van de herziene Woningwet (Stb. 2021, 570), voor zover deze artikel 24 wijzigt, vinden, indien aan een toegelaten instelling wordt vervreemd, van 1 januari 2021 tot het tijdstip van inwerkingtreding van dat besluit plaats tegen een bij ministeriële regeling bepaalde waarde, tenzij de toegelaten instelling het noodzakelijk acht een andere prijs te hanteren, in welk geval zij dit verantwoordt in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36).
+Vervreemdingen waarvoor geen goedkeuring is vereist op grond van [artikel 24, onderdelen a of d, onder 1°, of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=24&z=2022-01-01&g=2022-01-01), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel N, van het Besluit van 17 november 2021 tot wijziging van het Besluit toegelaten instellingen volkshuisvesting 2015 naar aanleiding van de evaluatie van de herziene Woningwet (Stb. 2021, 570), voor zover deze artikel 24 wijzigt, vinden, indien aan een toegelaten instelling wordt vervreemd, van 1 januari 2021 tot het tijdstip van inwerkingtreding van dat besluit plaats tegen een bij ministeriële regeling bepaalde waarde, tenzij de toegelaten instelling het noodzakelijk acht een andere prijs te hanteren, in welk geval zij dit verantwoordt in het jaarverslag, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36).
 
 #### § 6. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
@@ -3256,7 +3112,7 @@ Vervreemdingen waarvoor geen goedkeuring is vereist op grond van [artikel 24, on
 
 ### Afdeling 1. Relatie met de gemeente
 
-#### § 1. Woningmarktregio’s
+#### § 6. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
 #### § 1. Woningmarktregio’s
 
@@ -3286,7 +3142,7 @@ Vervreemdingen waarvoor geen goedkeuring is vereist op grond van [artikel 24, on
 
 #### § 3. Financieel beheer
 
-#### § 3. Financieel beheer
+#### § 2. Bedrijfsvoering
 
 ### Afdeling 1. De subsidies
 
@@ -3318,7 +3174,7 @@ Kan goed naar zichzelf kijken: reflecteert op (en leert van) zijn/haar persoonli
 
 Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokken van, medeplegen van, medeplichtigheid aan of plegen van:
 
-door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
+De toetsing voor de passende toewijzing voor de huurtoeslag dient vanaf 1 januari 2016 plaats te vinden. Deze toets kan, tezamen met de inkomenstoets voor de DAEB, die per 1 juli 2015 is vereist, in één administratieve handeling worden uitgevoerd. Indien het huishoudinkomen valt binnen de inkomensgrenzen voor passend toewijzen in het kader van de huurtoeslag, staat daarmee tevens vast dat het betreffende huishouden behoort tot de 80% doelgroep in het kader van de DAEB.
 
 door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
@@ -3358,23 +3214,83 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het verzoek, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), betreffende de vervreemding van potentieel te liberaliseren daeb-woongelegenheden of potentieel te liberaliseren daeb-complexen, aan natuurlijke personen niet voor eigen gebruik of aan rechtspersonen, niet zijnde andere toegelaten instellingen, gaat vergezeld van:
+
+- a. een uiteenzetting van het belang van de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
+
+- b. de ontwerpkoopovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten;
+
+- c. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger, tenzij deze een dochtermaatschappij van de vervreemdende toegelaten instelling is;
+
+- d. de zienswijze van de gemeente waar die woongelegenheid of dat complex is gelegen, tenzij:
+
+- 1°. met die gemeente op grond van [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), afspraken zijn gemaakt over de omvang van de voorraad van woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdelen b, c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), en de eventuele vervreemding van een deel van die voorraad, en
+
+- 2°. die woongelegenheid of de van dat complex deel uitmakende woongelegenheden worden vervreemd onder het beding dat zij ten minste zeven jaar na de eigendomsoverdracht als gevolg van de vervreemding voor verhuur met een huurprijs van ten hoogste € 1000,– bestemd blijven; en
+
+- e. de getaxeerde marktwaarde van die woongelegenheid of dat complex.
+
+2. Het verzoek gaat, tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is, tevens vergezeld van bescheiden waaruit blijkt dat die woongelegenheid of dat complex gedurende ten minste vier weken in het openbaar te koop is aangeboden aan elke gegadigde, tenzij de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt.
 
 ##### Artikel 23b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het verzoek, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), betreffende de vervreemding van niet-daeb woongelegenheden of niet-daeb complexen, aan natuurlijke personen niet voor eigen gebruik of aan rechtspersonen, niet zijnde andere toegelaten instellingen, gaat vergezeld van:
+
+- a. een uiteenzetting van het belang van de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
+
+- b. de ontwerpkoopovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten;
+
+- c. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger, tenzij deze een dochtermaatschappij van de vervreemdende toegelaten instelling is; en
+
+- d. de getaxeerde marktwaarde van die woongelegenheid of dat complex.
+
+2. Het verzoek gaat, tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is, tevens vergezeld van bescheiden waaruit blijkt dat die woongelegenheid of dat complex gedurende ten minste vier weken in het openbaar te koop is aangeboden aan elke gegadigde, tenzij de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt.
 
 ##### Artikel 23c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het verzoek, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), betreffende de vervreemding van een verhuurd gebouw dat een maatschappelijke gebruiksbestemming heeft als bedoeld in [artikel 45, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45), of een verhuurd gebouw met een zorgfunctie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2&z=2022-01-01&g=2022-01-01) bij dit besluit, dat functioneel een eenheid vormt met woongelegenheden als bedoeld in [artikel 47, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), gaat vergezeld van:
+
+- a. een uiteenzetting van het belang van de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
+
+- b. de ontwerpkoopovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten;
+
+- c. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger, tenzij deze een dochtermaatschappij van de vervreemdende toegelaten instelling is;
+
+- d. de zienswijze van de gemeente waar dat gebouw is gelegen en van de huurder; en
+
+- e. de getaxeerde marktwaarde van dat gebouw.
+
+2. Het verzoek gaat, tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is, tevens vergezeld van bescheiden waaruit blijkt dat dit gebouw:
+
+- a. gedurende ten minste vier weken te koop is aangeboden aan de huurder; en
+
+- b. gedurende ten minste vier weken in het openbaar te koop aangeboden aan elke gegadigde, tenzij de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt.
+
+3. Uit de bescheiden, bedoeld in het tweede lid, volgen, voor zover van toepassing, de afwegingen die ertoe hebben geleid dat niet aan de huurder is vervreemd.
 
 ##### Artikel 23d
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het verzoek, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), betreffende de vervreemding van een onroerende zaak waarop de [artikelen 23 tot en met 23c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23&z=2022-01-01&g=2022-01-01) niet van toepassing zijn, de vestiging van een recht van erfpacht, opstal of vruchtgebruik op een onroerende zaak of de overdracht van de economische eigendom van een onroerende zaak gaat vergezeld van:
+
+- a. een uiteenzetting van het belang van de volkshuisvesting van het ter goedkeuring voorgelegde besluit;
+
+- b. in geval van vervreemding: de ontwerpovereenkomst die de toegelaten instelling voornemens is met de beoogde verkrijger te sluiten;
+
+- c. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van de beoogde verkrijger of begunstigde, tenzij deze een dochtermaatschappij van de vervreemdende toegelaten instelling is;
+
+- d. de zienswijze van de gemeente waar die onroerende zaak is gelegen en de bij ministeriële regeling bepaalde andere zienswijzen; en
+
+- e. de getaxeerde marktwaarde van de onroerende zaak.
+
+2. Indien het verzoek betrekking heeft op een vervreemding als bedoeld in het eerste lid, gaat het verzoek, tenzij de beoogde verkrijger een dochtermaatschappij van de vervreemdende toegelaten instelling is of de toegelaten instelling 5% of meer van de aandelen van de beoogde verkrijger houdt, tevens vergezeld van bescheiden waaruit blijkt dat die onroerende zaak gedurende ten minste vier weken in het openbaar te koop is aangeboden aan elke gegadigde.
+
+3. Het eerste lid, onderdelen c en d, is niet van toepassing in geval van een vervreemding als bedoeld in het eerste lid aan een toegelaten instelling of een natuurlijk persoon voor eigen gebruik.
 
 ##### Artikel 23e
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het verzoek, bedoeld in de [artikelen 23 tot en met 23d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=3&artikel=23&z=2022-01-01&g=2022-01-01), wordt ingediend met gebruikmaking van een door Onze Minister beschikbaar te stellen formulier. Onze Minister bevestigt binnen twee weken de ontvangst van een zodanig verzoek.
+
+2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de bij een verzoek om een goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), over te leggen gegevens.
 
 #### § 5. Bepalingen in verband met de taakvervulling door de raad van commissarissen
 
@@ -3390,21 +3306,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 49a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een toegelaten instelling kan gebouwen verwerven die geen verband houden met werkzaamheden op het gebied van de volkshuisvesting indien zij binnen vijf jaar na verwerving die gebouwen:
+
+- a. zal slopen en ter plaatse gebouwen zal doen bouwen die verband houden met werkzaamheden op het gebied van de volkshuisvesting; of
+
+- b. zal verbouwen tot onroerende zaken die verband houden met werkzaamheden op het gebied van de volkshuisvesting.
+
+2. Onze Minister kan op verzoek van een toegelaten instelling bepalen dat het verhuren van gebouwen als bedoeld in het eerste lid, of gedeelten daarvan, aan personen die daar op het tijdstip van indiening van dat verzoek huurder van zijn, ten aanzien van die toegelaten instelling tot het gebied van de volkshuisvesting behoort, indien die toegelaten instelling ten overstaan van hem aannemelijk maakt dat zij binnen vijf jaar na dat tijdstip die gebouwen:
+
+- a. zal slopen en ter plaatse gebouwen zal doen bouwen die verband houden met werkzaamheden op het gebied van de volkshuisvesting; of
+
+- b. zal verbouwen tot onroerende zaken die verband houden met werkzaamheden op het gebied van de volkshuisvesting.
 
 ### Afdeling 3. Passend toewijzen
 
 ##### Artikel 54a
 
-Dit onderdeel is nog niet inwerking getreden
+Op verzoek van een uit een of meer personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt, bestaand huishouden waarvan de rendementsgrondslag, bedoeld in [artikel 5.3, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), meer bedraagt dan het in [artikel 2a van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) genoemde van toepassing zijnde bedrag, kan de toegelaten instelling ten aanzien van dat huishouden het in [artikel 46, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46) over de huurprijs buiten toepassing laten.
 
 ### Afdeling 4. Diensten van algemeen economisch belang
 
 #### § 1. Voorschriften in geval van het niet verplicht zijn van de vermogensscheiding
 
-#### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
+#### § 1. Voorschriften in geval van het niet verplicht zijn van de vermogensscheiding
 
-#### § 3. Inrichting van en geldstromen tussen de daeb-tak en de niet-daeb-tak
+#### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
 #### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling
 
@@ -3416,7 +3342,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 8. Splitsing
 
-### Afdeling 9. Verdere bepalingen
+### Afdeling 8. Splitsing
 
 #### § 4. Behandeling van klachten
 
@@ -3430,7 +3356,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 1. Toepassing van [artikel II, tweede tot en met zevende, tiende en elfde lid, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II)
 
-### Afdeling 2. Intrekking en wijziging van op de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gebaseerde algemene maatregelen van bestuur
+### Afdeling 1. Toepassing van [artikel II, tweede tot en met zevende, tiende en elfde lid, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II)
 
 ### Afdeling 3. Overgangsbepalingen
 
@@ -3440,23 +3366,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 Neemt op tijd noodzakelijke beslissingen. Onderneemt acties of legt zich vast door het uitspreken van zijn/haar mening en wacht niet onnodig met het maken van keuzes. Is in staat om oplossingen te bieden.
 
-### Integriteit en moreel besef
+### 2.1. Veroordelingen
 
-### Vakinhoudelijke kennis en visie
+### 2.3. (voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
 
-Beschikt over de voor de bestuurlijke functie vereiste vakinhoudelijke kennis, bijvoorbeeld kennis van financiën bij toegelaten instellingen, van de ontwikkeling en het beheer van vastgoed en kennis op het gebied van volkshuisvestelijke vraagstukken. Heeft een voldoende realistische visie op toekomstige ontwikkelingen op het gebied van de volkshuisvesting en kan deze vertalen in lange termijn doelstellingen en een strategische planning ter verwezenlijking daarvan. Houdt hierbij goed zicht op risico’s en uitdagingen die de instelling loopt en neemt bijhorende beheermaatregelen.
+Betrokkene wordt voor een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
 Kan goed naar zichzelf kijken: reflecteert op (en leert van) zijn/haar persoonlijk beroepsmatig handelen in de maatschappelijke context. Bouwt deze reflectie op een natuurlijke wijze in het handelen in en stimuleert dit binnen de organisatie.
 
-Laat blijken goed geïnformeerd te zijn over (de veranderende) maatschappelijke, politieke en andere ontwikkelingen in de omgeving van de toegelaten instelling alsook over de belangen van belanghouders. Kan dit vertalen naar de volkshuisvesting en deze kennis effectief benutten. Kan omgaan met diverse belanghouders en daarin tot een weloverwogen balans komen voor keuzes en handelen en verantwoordt zich daarover.
+Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd voor één of meer van de hieronder genoemde strafbare feiten:
 
-Moet de lastige vragen durven blijven stellen (ook als hij/zij daar aanvankelijk alleen in staat), in durven grijpen als dat nodig is en een ‘rechte rug’ hebben bij moeilijke beslissingen. Moet in staat zijn tot onafhankelijke oordeelsvorming. Kan de goede vragen stellen en durft door te vragen.
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als bestuurder of commissaris, of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd voor één of meer van de hieronder genoemde strafbare feiten:
 
 ## Bijlage 2. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2021-11-27&g=2021-11-27) van het Besluit toegelaten instellingen volkshuisvesting 2015
 
 Bij vonnis is betrokkene onherroepelijk veroordeeld voor een poging tot, voorbereiding van, doen plegen van, uitlokken van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804):
+### C. Toetsing vermogen voor AOW’ers met een norminkomen tot de huurtoeslag boven de zorgtoeslaggrens
 
 ### 3.2. Zakelijk
 
@@ -3497,5 +3423,87 @@ Wel is een inkomenstoets vereist bij huishoudens met zorgindicatie bij passend t
 **** Uitzonderingen op de verplichte toetsing aan de hand van belastingbescheiden:**
 
 ### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+De termijn voor de inbreng van zienswijzen waarvoor ingevolge dit besluit de gelegenheid wordt geboden bedraagt acht weken, tenzij anders is bepaald.
+
+### Hoofdstuk III. Algemene bepalingen inzake toegelaten instellingen
+
+#### § 1. Toelating
+
+#### § 3. Het aangaan van verbindingen
+
+#### § 4. Verdere algemene bepalingen inzake toegelaten instellingen
+
+### Hoofdstuk IV. Rechtsvorm en organisatie van toegelaten instellingen
+
+### Hoofdstuk V. Werkzaamheden van toegelaten instellingen
+
+### Afdeling 1. Relatie met de gemeente
+
+#### § 2. Uitvoering van de gemeentelijke woonvisie
+
+#### § 3. Prestatieafspraken
+
+#### § 4. Goedkeuring van werkzaamheden die niet behoren tot de diensten van algemeen economisch belang
+
+##### Artikel 45a
+
+1. Het financieel voordeel, bedoeld in [artikel 44d, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44d), is het verschil tussen:
+
+- a. de canon die de gemeente op basis van de actuele grondwaarde zou opleggen bij uitgifte van de grond, indien die bestemd is voor huurwoningen met een aanvangshuurprijs van ten minste het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), en ten hoogste een in de gemeentelijke verordening bepaalde, jaarlijks te indexeren aanvangshuurprijs, en;
+
+- b. de canon die de gemeente op basis van de actuele grondwaarde zou opleggen bij uitgifte van de grond met de bestemming voorafgaand aan een wijziging daarvan als bedoeld in [artikel 44d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44d).
+
+2. De grondwaarden, bedoeld in het eerste lid, worden uiterlijk een maand na wijziging van de bestemming bepaald door een onafhankelijke taxateur als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), die door de gemeente en de toegelaten instelling gezamenlijk is aangesteld voor rekening van de toegelaten instelling. De taxateur rapporteert aan beide partijen.
+
+### Afdeling 3. Passend toewijzen
+
+### Afdeling 4. Diensten van algemeen economisch belang
+
+### Afdeling 5. Administratieve scheiding en vermogensscheiding
+
+#### § 3. Inrichting van en geldstromen tussen de daeb-tak en de niet-daeb-tak
+
+#### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling
+
+### Afdeling 7. Fusie
+
+### Afdeling 9. Verdere bepalingen
+
+#### § 3. Financieel beheer
+
+### Hoofdstuk VI. Sanering van en projectsteun ten behoeve van toegelaten instellingen
+
+### Afdeling 1. De subsidies
+
+#### § 1. Subsidies voor financiële sanering
+
+#### § 2. Subsidies voor werkzaamheden
+
+### Hoofdstuk VII. Toezicht op toegelaten instellingen en dochtermaatschappijen
+
+### Hoofdstuk VIII. Verdere bepalingen inzake toegelaten instellingen
+
+### Hoofdstuk IX. Overgangs- en slotbepalingen
+
+### Afdeling 3. Overgangsbepalingen
+
+### Afdeling 4. Slotbepalingen
+
+## Bijlage 1. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=IV&paragraaf=1&artikel=19&z=2022-01-01&g=2022-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
+
+## Bijlage 2. bij [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
+
+## Bijlage 3. bij [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=2&artikel=49&z=2022-01-01&g=2022-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
+
+## Bijlage 4. bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01) van het Besluit toegelaten instellingen volkshuisvesting 2015
+
+Deze bijlage bevat drie onderdelen. Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen, bedoeld in [artikel 56, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01), van het Besluit toegelaten instellingen volkshuisvesting 2015 (BTIV 2015; passend toewijzen in het kader van de huurtoeslag) bepalen.
+
+De eisen die gesteld worden aan de over te leggen documentatie zijn neergelegd in het hiervoor genoemde artikel. Het vaststellen van het huishoudinkomen aan de hand van een Inkomenverklaring of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in het BTIV 2015 zich voordoen (zie ook hierna). Ter bepaling van het huishoudinkomen dienen de verzamelinkomens uit het jaar t-1 respectievelijk t-2 te worden vermenigvuldigd met index I1, respectievelijk index I2. De hoogte van index I1 en index I2 wordt jaarlijks bij ministeriële regeling vastgesteld en gepubliceerd ([artikel 56, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&hoofdstuk=V&afdeling=3&artikel=56&z=2022-01-01&g=2022-01-01), van het BTIV).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
