@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2021-01-23"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -200,7 +200,7 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2021-01-23&g=2021-01-23) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2024-09-27&g=2022-01-01) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 | Functie | Totaal | Togavergoeding | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- | --- |
