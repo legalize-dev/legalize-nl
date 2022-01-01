@@ -4,7 +4,7 @@ identifier: "BWBR0043909"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-12-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043909"
 soort: "AMvB"
@@ -76,6 +76,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a. Verlenging periode
 
-Dit onderdeel is nog niet inwerking getreden
+De periode, bedoeld in [artikel 8:8, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=8:8) wordt voor het jaar 2022 verlengd met een jaar.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
