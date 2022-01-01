@@ -4,7 +4,7 @@ identifier: "BWBR0041196"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041196"
 soort: "zbo"
@@ -52,27 +52,27 @@ Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling van enkele syllabi 2021 en 2022
 
-1. De syllabi worden vastgesteld voor de centrale examens 2021 voor de vakken als vermeld in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&bijlage=3a&z=2021-01-01&g=2021-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+1. Vervallen.
 
-2. De syllabi worden vastgesteld voor de centrale examens 2022 voor de vakken als vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&bijlage=3b&z=2021-01-01&g=2021-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+2. De syllabi worden vastgesteld voor de centrale examens 2022 voor de vakken als vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&bijlage=3b&z=2022-01-01&g=2022-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=2&z=2021-01-01&g=2021-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2021-01-01&g=2021-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=1&z=2022-01-01&g=2022-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2022-01-01&g=2022-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=1&z=2021-01-01&g=2021-01-01) per 1 januari 2021;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=1&z=2022-01-01&g=2022-01-01) per 1 januari 2021;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=2&z=2021-01-01&g=2021-01-01): per 1 januari 2020;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=2&z=2022-01-01&g=2022-01-01): per 1 januari 2020;
 
-- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2021-01-01&g=2021-01-01): per 1 januari 2022;
+- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2022-01-01&g=2022-01-01): per 1 januari 2022;
 
-- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2021-01-01&g=2021-01-01): per 1 januari 2023.
+- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041196&artikel=3&z=2022-01-01&g=2022-01-01): per 1 januari 2023.
 
 ##### Artikel 6. Citeertitel
 
@@ -166,6 +166,14 @@ Vervallen
 
 ## Bijlage 3a
 
+Vervallen
+
 ### Preliminaire vaststelling syllabi 2021
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 3b
+
+### Preliminaire vaststelling syllabi 2022
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
