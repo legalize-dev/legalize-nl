@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -60,7 +60,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. [Artikel 4 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=4) is niet van toepassing.
 
-4. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op kindgebonden budget indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de ouder aan het begin van het berekeningsjaar meer bedraagt dan € 116.613 of, indien de ouder het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001, van de ouder en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 147.459. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
+4. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op kindgebonden budget indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de ouder aan het begin van het berekeningsjaar meer bedraagt dan € 120.020 of, indien de ouder het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001, van de ouder en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 151.767. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
+
+5. In afwijking van [artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9), bestaat er wel aanspraak op kindgebonden budget voor een kind dat rechtmatig in Nederland verblijf houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 ##### Artikel 2. Aanspraak en hoogte kindgebonden budget
 
@@ -68,25 +70,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het kindgebonden budget bedraagt voor een berekeningsjaar:
 
-- a. indien de ouder aanspraak heeft voor één kind: € 1.204,00;
+- a. indien de ouder aanspraak heeft voor één kind: € 1.220;
 
-- b. indien de ouder aanspraak heeft voor twee kinderen: € 2.226,00;
+- b. indien de ouder aanspraak heeft voor twee kinderen: € 2.326;
 
-- c. indien de ouder aanspraak heeft voor drie kinderen: € 3.145,00;
+- c. indien de ouder aanspraak heeft voor drie kinderen: € 3.327;
 
-- d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 3.145,00, verhoogd met zoveel maal € 919,00 als het aantal kinderen meer bedraagt dan drie.
+- d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 3.327, verhoogd met zoveel maal € 1.001 als het aantal kinderen meer bedraagt dan drie.
 
 3. Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.
 
-4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 247,00.
+4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 251.
 
-5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 441,00.
+5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 447.
 
-6. De ouder die geen partner heeft, heeft aanspraak op een verhoging van het kindgebonden budget van € 3.242,00.
+6. De ouder die geen partner heeft, heeft aanspraak op een verhoging van het kindgebonden budget van € 3.285.
 
 7. Bij een toetsingsinkomen van de ouder die geen partner heeft, van meer dan het drempelinkomen wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde, vijfde en zesde lid verminderd met 6,75% van het verschil tussen het toetsingsinkomen en het drempelinkomen.
 
-8. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan het met € 17.018,00 verhoogde drempelinkomen wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 6,75% van het verschil tussen het gezamenlijk toetsingsinkomen en het met € 17.018,00 verhoogde drempelinkomen.
+8. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan het met € 17.240 verhoogde drempelinkomen wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 6,75% van het verschil tussen het gezamenlijk toetsingsinkomen en het met € 17.240 verhoogde drempelinkomen.
 
 9. Een ouder als bedoeld in het eerste en derde lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
 
@@ -112,11 +114,11 @@ bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stell
 
 ##### Artikel 3. Wijziging bedragen
 
-1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2021-01-01&g=2021-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2021-01-01&g=2021-01-01), worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
+1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-01-01&g=2022-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-01-01&g=2022-01-01), worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2021-01-01&g=2021-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2021-01-01&g=2021-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-01-01&g=2022-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-01-01&g=2022-01-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
