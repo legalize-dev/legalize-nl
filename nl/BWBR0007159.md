@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -659,7 +659,7 @@ De verklaring, bedoeld in [artikel 17, eerste lid, van het besluit](https://wett
 
 - b. met behulp van elektriciteitsmeters de hoeveelheid elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 36c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c).
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk IX. Algemene bepaling
 
 ### Hoofdstuk IV. Brandstoffenbelasting
 
@@ -709,7 +709,7 @@ Vervallen
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2021-10-01&g=2021-10-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -1011,7 +1011,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2021-10-01&g=2021-10-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2022-01-01&g=2022-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -1055,7 +1055,7 @@ Vervallen
 
 ### Hoofdstuk VII. Vliegbelasting
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk VII. Vliegbelasting
 
 ##### Artikel 32b
 
@@ -1077,7 +1077,7 @@ Vervallen
 
 ### Hoofdstuk VII. Vliegbelasting
 
-### Hoofdstuk IX. Algemene bepaling
+### Hoofdstuk VIII. Verpakkingenbelasting
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
@@ -1139,7 +1139,9 @@ Vervallen
 
 - d. de EAN-code van de aansluiting waarop de verklaring betrekking heeft;
 
-- e. de verklaring dat de elektriciteit uitsluitend wordt aangewend in een walstroominstallatie die geheel of nagenoeg geheel bestemd is voor schepen niet zijnde particuliere pleziervaartuigen als bedoeld in [artikel 70a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), die beschikt over een zelfstandige aansluiting en dat deze walstroominstallatie geen deel uitmaakt van een meer omvattende onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
+- e. de verklaring dat de elektriciteit uitsluitend wordt aangewend in een walstroominstallatie die geheel of nagenoeg geheel bestemd is voor schepen niet zijnde particuliere pleziervaartuigen als bedoeld in [artikel 70a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a);
+
+- f. de verklaring dat de walstroominstallatie beschikt over een zelfstandige aansluiting en dat deze walstroominstallatie geen deel uitmaakt van een meer omvattende onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16), of dat de walstroominstallatie beschikt over een comptabele meetinrichting als bedoeld in [artikel a18a van het besluit](onbekend).
 
 ##### Artikel 20c
 
@@ -1162,6 +1164,28 @@ Vervallen
 ### Hoofdstuk V. Kolenbelasting
 
 ### Hoofdstuk VI. Energiebelasting
+
+### Hoofdstuk X. Slotbepalingen
+
+## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
+
+Vervallen
+
+##### Artikel 16a
+
+1. De verklaring bedoeld in [artikel b18a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=b18a) wordt ondertekend en bevat ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van de energieopslagfaciliteit;
+
+- c. naam en adres van de leverancier.
+
+2. De organisatorische eenheid die de energieopslagfaciliteit beheert, dient zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de heffing van de energiebelasting van belang zijnde bedrijfshandelingen.
+
+3. De organisatorische eenheid meldt onmiddellijk schriftelijk aan zijn leverancier indien hij niet langer een energieopslagfaciliteit exploiteert.
+
+4. De verklaring kan worden samengevoegd met de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=16&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk X. Slotbepalingen
 
