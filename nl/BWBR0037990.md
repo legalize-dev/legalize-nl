@@ -4,7 +4,7 @@ identifier: "BWBR0037990"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2019-07-02"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037990"
 soort: "pbo"
@@ -42,23 +42,21 @@ In deze verordening wordt verstaan onder:
 
 - **accountant:** accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- **accountantsregister:** het accountantsregister, bedoeld in [artikel 36, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants;
-
-- **beroepseed:** de eed of de belofte, bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02);
+- **beroepseed:** eed of belofte als bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01);
 
 - **contributiegroep H, L, M of Z:** contributiegroep H, L, M of Z als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=2);
 
-- **diploma-uitreiking:** de door de NBA georganiseerde gelegenheid tijdens welke aan een groep van aspirant-ingeschrevenen de getuigschriften, bedoeld in [artikel 47, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), worden uitgereikt;
+- **diploma-uitreiking:** door de NBA georganiseerde gelegenheid tijdens welke aan een groep van aspirant-ingeschrevenen de getuigschriften, bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), worden uitgereikt;
 
 - **maatregel van tijdelijke doorhaling:** maatregel van tijdelijke doorhaling als bedoeld in [artikel 2, eerste lid, onderdeel d van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=2);
 
-- **praktijkopleiding:** de praktijkopleiding, bedoeld in [artikel 47, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
+- **praktijkopleiding:** praktijkopleiding als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
 
 - **aspirant-ingeschrevene:** degene die het examen ter afronding van de praktijkopleiding heeft afgelegd, maar nog niet is ingeschreven in het accountantsregister;
 
-- **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
@@ -124,13 +122,13 @@ So help me God/I promise/I declare.’
 
 ##### Artikel 5
 
-1. Een aspirant-ingeschrevene die de beroepseed heeft afgelegd bij de diploma-uitreiking is na zijn inschrijving in het accountantsregister ontheven van de verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2019-07-02&g=2019-07-02), mits hij voorafgaand aan de diploma-uitreiking of binnen zes maanden na de diploma-uitreiking een aanvraag als bedoeld in [artikel 38, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) heeft ingediend.
+1. Een aspirant-ingeschrevene die de beroepseed heeft afgelegd bij de diploma-uitreiking is na zijn inschrijving in het accountantsregister ontheven van de verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2022-01-01&g=2022-01-01), mits hij voorafgaand aan de diploma-uitreiking of binnen zes maanden na de diploma-uitreiking een aanvraag als bedoeld in [artikel 38, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) heeft ingediend.
 
-2. Een accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z is vrijgesteld van de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02).
+2. Een accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z is vrijgesteld van de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6
 
-Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschrevenen die overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2019-07-02&g=2019-07-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=4&z=2019-07-02&g=2019-07-02) de beroepseed hebben afgelegd.
+Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschrevenen die overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2022-01-01&g=2022-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=4&z=2022-01-01&g=2022-01-01) de beroepseed hebben afgelegd.
 
 ##### Artikel 7
 
