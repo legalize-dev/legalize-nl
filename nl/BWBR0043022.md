@@ -4,7 +4,7 @@ identifier: "BWBR0043022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-04-30"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043022"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Mandaat aan SG en DG’s
 
-1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2021-04-30&g=2021-04-30).
+1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2021-04-30&g=2022-01-01).
 
 2. De SG en DG’s hebben binnen het kader van de jaarplannen en binnen eventueel door de minister of namens de minister door de SG gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -120,7 +120,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. De SG en DG’s zijn hoofdbudgethouder voor wat betreft hun taken en zijn uit dien hoofde bevoegd verplichtingen – met financiële consequenties – aan te gaan en uitgaven goed te keuren binnen hun budgetten.
 
-2. In afwijking van het eerste lid, gaan de directeuren-generaal Belastingdienst, Toeslagen en Douane verplichtingen ten aanzien waarvan het toezicht FEZ geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2021-04-30&g=2021-04-30), slechts aan in overeenstemming met respectievelijk de directeur Control en Financiën van het DGBD, de aangewezen controller van het DGTSL, de aangewezen controller van het DGD dan wel de directeur Financieel-Economische Zaken.
+2. In afwijking van het eerste lid, gaan de directeuren-generaal Belastingdienst, Toeslagen en Douane verplichtingen ten aanzien waarvan het toezicht FEZ geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2021-04-30&g=2022-01-01), slechts aan in overeenstemming met respectievelijk de directeur Control en Financiën van het DGBD, de aangewezen controller van het DGTSL, de aangewezen controller van het DGD dan wel de directeur Financieel-Economische Zaken.
 
 3. De hoofdbudgethouders zijn verantwoordelijk voor een adequaat financieel beheer.
 
@@ -128,7 +128,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. Het mandaat van de DG met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de DG ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.
 
-2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2021-04-30) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
+2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2022-01-01) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
 
 ##### Artikel 9. Instemming van de directeur FEZ
 
@@ -190,15 +190,15 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 ##### Artikel 13. Voorbehouden aan de pSG
 
-Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) is aan de pSG voorbehouden:
+Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) is aan de pSG voorbehouden:
 
 - a. het, na overleg met de bestuursraad, doen van voorstellen omtrent de vaststelling van de organisatie van het kernministerie vanaf het niveau van afdelingen (of daarmee vergelijkbare organisatieonderdelen) en lager, en hiermee samenhangend het besluiten tot reorganisaties;
 
 - b. het vaststellen van de formatie van het DGBD, het DGTSL en het DGD, voor zover het een uitbreiding van de totale formatie betreft;
 
-- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
+- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
 
-- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
+- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
 
 - e. het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de vorige twee onderdelen;
 
@@ -240,7 +240,7 @@ Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR004302
 
 Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van een DG, uitgezonderd het DGBD, het DGTSL en het DGD, ten aanzien van onder hen ressorterende medewerkers voorbehouden het nemen van beslissingen:
 
-- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2021-04-30&g=2021-04-30);
+- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2021-04-30&g=2022-01-01);
 
 - b. het afnemen van de eed of belofte;
 
@@ -274,9 +274,9 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - b. tot het vaststellen van de formatie, waarbij tot wijzigingen in formatie van functies met salarisschaal 16 en hoger na overleg met de bestuursraad besloten wordt;
 
-- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
+- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
 
-- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
+- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
 
 - e. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de CAO Rijk;
 
@@ -284,7 +284,7 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - g. tot het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de onderdelen c, d en e van dit artikel.
 
-- h. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2021-04-30) – beloning van ambtenaren in:
+- h. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2021-04-30&g=2022-01-01) – beloning van ambtenaren in:
 
 - i. overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies, of
 
@@ -340,7 +340,7 @@ Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zij
 
 ##### Artikel 18. Personeelsbeslissingen
 
-Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2021-04-30&g=2021-04-30) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
+Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2021-04-30&g=2022-01-01) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
 
 ##### Artikel 19. Overige bepalingen
 
@@ -370,7 +370,7 @@ Deze regeling wordt aangehaald als: Mandaatbesluit Ministerie van Financiën 202
 
 ## Bijlage 1. Toezicht FEZ
 
-De toepasselijkheid van het toezicht FEZ, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2021-04-30), wordt beoordeeld aan de hand van de hierna genoemde criteria.
+De toepasselijkheid van het toezicht FEZ, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2021-04-30&g=2022-01-01), wordt beoordeeld aan de hand van de hierna genoemde criteria.
 
 - •. De directeur Financieel-Economische Zaken (DFEZ) van het kernministerie beoordeelt aan te gane verplichtingen van het DG Belastingdienst (DGBD), het DG Toeslagen (DGTSL) en het DG Douane (DGD). Uitgangspunt hierbij is een drempelbedrag van € 500.000,- inclusief BTW. Voor de verplichtingen tussen de € 500.000,- en € 1.000.000,- geldt dat FEZ in 20% van deze gevallen beoordeelt (bij wijze van steefproef). Boven de € 1.000.000,- vervalt het steekproefprincipe en beoordeelt FEZ integraal.
 
@@ -426,9 +426,115 @@ De toepasselijkheid van het toezicht FEZ, bedoeld in [artikel 7, tweede lid](htt
 
 - ○. Ontvangsten (belastingontvangsten en apparaatsontvangsten).
 
-## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2021-04-30)
+## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2022-01-01)
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2021-04-30) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2021-04-30&g=2022-01-01) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
+
+- •. stopzetten of opschorten beloning bij ziekte;
+
+- •. verplichtingen en sancties bij ziekte en re-integratie;
+
+- •. verplichtingen werkgever bij ziekte en re-integratie;
+
+- •. ontslag/sanctie bij reorganisatie;
+
+- •. toekennen VWNW-voorzieningen en stimuleringspremie;
+
+- •. beroep op de hardheidsclausule;
+
+- •. aanzuiveren tekort als bedoeld in het eerste lid van [artikel 7:661 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=661);
+
+- •. wijziging van de salarisschaal zonder wijziging van de functie;
+
+- •. ordemaatregelen en straffen;
+
+- •. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de CAO Rijk;
+
+- •. opzegging met toestemming UWV;
+
+- •. opzegging wegens dringende reden;
+
+- •. opzegging met instemming;
+
+- •. verzoeken tot ontbinding van de arbeidsovereenkomst;
+
+- •. vaststellingsovereenkomst waarin het einde van de arbeidsovereenkomst wordt geregeld;
+
+- •. hoogte en uitbetaling transitievergoeding;
+
+- •. vermissing;
+
+alsmede
+
+- •. aangelegenheden met betrekking tot (de aansprakelijkheidsstelling al dan niet als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten, waarbij de pSG wordt geïnformeerd, en
+
+- •. de vaststelling van de formatie zoals gebaseerd op artikel 3 van het Coördinatiebesluit organisatie en bedrijfsvoering 2011.
+
+Zie ook [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027), Staatscourant 2019, 70716.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19aa. De IG
+
+1. Met inachtneming van de voorgaande artikelen van dit besluit is aan de IG ten aanzien van onder hem ressorterende medewerkers voorbehouden, het nemen van beslissingen betreffende:
+
+- a. het vaststellen van de organisatie van de IBTD, en hiermee samenhangend het besluiten tot reorganisaties. In die gevallen wordt de bestuursraad niet gehoord;
+
+- b. het aangaan, het plaatsen en het beëindigen van de arbeidsovereenkomst;
+
+- c. het maken van afspraken over de beloning en het toekennen van maatregelen van sociaal flankerend beleid;
+
+- d. het toekennen van een (bijzondere) beloning;
+
+- e. het opleggen van ordemaatregelen en straffen, met uitzondering van de wettelijke mogelijkheden het dienstverband te beëindigen;
+
+- f. het geven van toestemming op verzoeken om systemen te mogen raadplegen naar aanleiding van vermoedens van niet integer gedrag door onder hem ressorterende medewerkers;
+
+- g. het sluiten van een tijdelijke arbeidsovereenkomst in bijzondere situaties;
+
+- h. opzegging wegens bereiken AOW-gerechtigde leeftijd;
+
+- i. (verlenging) tijdelijke arbeidsovereenkomst;
+
+- j. een (tijdelijke) uitzending in het buitenland;
+
+- k. schadeloosstelling;
+
+- l. het verzoeken van toestemming aan het UWV tot ontslag wegens ziekte;
+
+- m. (de aansprakelijkheidsstelling als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten als bedoeld in de CAO Rijk, waarbij de pSG door de IG wordt geïnformeerd.
+
+2. De afdelingshoofden van de IBTD hebben, voor zover het hun werkterrein betreft en binnen door de minister of namens de minister door de IG gegeven richtlijnen en behoudens de voorgaande bepalingen, mandaat tot het nemen van besluiten en afdoen van stukken betreffende de taken die behoren tot de IBTD genoemd in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027), tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
+
+3. De functionarissen zoals bedoeld in het tweede lid zijn bevoegd tot het afdoen en ondertekenen van beslissingen aangaande de:
+
+- a. vaststelling feitelijk opgedragen functie;
+
+- b. ver- en herplaatsing;
+
+- c. tijdelijk opdragen van andere werkzaamheden;
+
+- d. toekenning extra periodieke verhoging;
+
+- e. onthouding van een periodieke verhoging;
+
+- f. wijziging van salarisschaal;
+
+- g. incidentele beloning voor bijzondere prestaties;
+
+- h. korting beloning bij arbeidsongeschiktheid;
+
+- i. het maken van afspraken tot uitbreiding van een arbeidsduur van meer dan 36 uur per week.
+
+4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=4&z=2024-06-15&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5&z=2024-06-15&g=2022-01-01), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2024-06-15&g=2022-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=19&z=2024-06-15&g=2022-01-01) worden op de IG van overeenkomstige toepassing verklaard.
+
+5. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2022-01-01) en de in dat artikel bedoelde bijlage is van overeenkomstige toepassing. De IG hoeft echter geen voorafgaand advies aan de directeur CDMO te vragen als het gaat om de personeelsaangelegenheid **wijziging van de salarisschaal zonder wijziging van de functie**.
+
+### Hoofdstuk 5. Slotbepalingen
+
+## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2022-01-01)
+
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2022-01-01) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
 
 - •. stopzetten of opschorten beloning bij ziekte;
 
