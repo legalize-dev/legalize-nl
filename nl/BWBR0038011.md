@@ -4,7 +4,7 @@ identifier: "BWBR0038011"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-01-01"
-last_updated: "2016-06-08"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038011"
 soort: "beleidsregel"
@@ -44,7 +44,7 @@ Besluit:
 
 1. Deze beleidsregel geeft invulling aan punt 2.2, derde zin, van Bijlage I, essentiële veiligheids- en gezondheidseisen betreffende het ontwerp en de bouw van liften en veiligheidscomponenten, van [richtlijn 2014/33](32014L0033)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake liften en veiligheidscomponenten voor liften (PbEU 2014, L 96).
 
-2. Indien het onuitvoerbaar is om met name in bestaande gebouwen voldoende vrije ruimte onder of boven in de liftschat te creëren ter voorkoming van het risico van verplettering kan, mits daarvoor voorafgaande instemming van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid is verkregen, worden uitgegaan van de volgende vrije ruimten:
+2. Indien het onuitvoerbaar is om met name in bestaande gebouwen voldoende vrije ruimte onder of boven in de liftschat te creëren ter voorkoming van het risico van verplettering kan, mits daarvoor voorafgaande instemming van de Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid is verkregen, worden uitgegaan van de volgende vrije ruimten:
 
 - a. boven de kooi: de vrije ruimte wordt bepaald overeenkomstig de hoofdstukken 5.5, 5.6, 6 en 7 van NEN-EN 81-21:2009+A1:2012 Veiligheidsregels voor het vervaardigen en het aanbrengen van liften – Liften voor het vervoer van personen en goederen – Deel 21: Nieuwe personenliften en personengoederenliften in bestaande gebouwen; en
 
