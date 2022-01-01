@@ -4,7 +4,7 @@ identifier: "BWBR0042905"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-12-20"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042905"
 soort: "wet"
@@ -46,13 +46,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 1
 
-In deze wet wordt verstaan onder:
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **elektrisch rendement:** het elektrisch rendement zoals opgenomen in de omgevingsvergunning voor een productie-installatie op het moment waarop deze wet in werking treedt;
 
 - **kolen:** producten van de GN-codes 2701, 2702 en 2704 als bedoeld in bijlage I bij [Verordening (EEG) nr. 2658/87](31987R2658) van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEU 1987, L 256);
 
 - **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+
+- **opgesteld vermogen:** maximaal vermogen dat onder nominale condities benut kan worden voor het leveren van elektrische energie, vastgelegd in de omgevingsvergunning voor een productie-installatie op 1 juli 2020;
 
 - **productie-installatie:** een installatie, bestaande uit één of meer productie-eenheden, voor de opwekking van elektriciteit.
 
@@ -62,15 +64,25 @@ Het is verboden om in een productie-installatie elektriciteit op te wekken met b
 
 ##### Artikel 3
 
-Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2019-12-20&g=2019-12-20), is:
+1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), is:
 
 - a. tot en met 31 december 2024 niet van toepassing op alle productie-installaties;
 
 - b. tot 1 januari 2030 niet van toepassing op een productie-installatie met een elektrisch rendement van 44% of meer.
 
+2. Het eerste lid is slechts van toepassing indien een productie-installatie in een kalenderjaar bij het opwekken van elektriciteit met behulp van kolen niet meer CO2 produceert dan 35% van het aantal Mton CO2 dat in een kalenderjaar geproduceerd zou worden bij volledige inzet van het opgesteld vermogen van de productie-installatie voor het opwekken van elektriciteit met behulp van kolen.
+
+3. Het aantal Mton CO2 dat in een jaar geproduceerd zou worden bij volledige inzet van het opgesteld vermogen van de productie-installatie voor het opwekken van elektriciteit met behulp van kolen, wordt bepaald door het aantal GW opgesteld vermogen te vermenigvuldigen met 7,06 of, indien het een productie-installatie als bedoeld in het eerste lid, onderdeel b, betreft, met 6,44.
+
+4. De hoeveelheid CO2 die in een kalenderjaar is geproduceerd bij het opwekken van elektriciteit met behulp van kolen wordt vastgesteld op basis van een overeenkomstig artikel 67 van Verordening (EU) Nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad (PbEU 2012, L 181) ingediend geverifieerd emissieverslag of, indien van toepassing, een overeenkomstig artikel 70 van die verordening gemaakte schatting.
+
+5. Indien het tweede lid in werking treedt met ingang van een andere datum dan 1 januari van een kalenderjaar, geldt dat lid met betrekking tot dat kalenderjaar uitsluitend voor het resterende gedeelte van dat kalenderjaar. Daarbij heeft het percentage, bedoeld in het tweede lid, voor dat kalenderjaar betrekking op het aantal Mton CO2 dat geproduceerd zou worden bij volledige inzet van het opgesteld vermogen van de productie-installatie voor het opwekken van elektriciteit met behulp van kolen, naar rato van het aantal resterende dagen in dat kalenderjaar.
+
+6. Bij toepassing van het vijfde lid dient een exploitant van een productie-installatie uiterlijk op 31 maart van het jaar na inwerkingtreding van het tweede lid bij Onze Minister een geverifieerd emissieverslag in over de periode vanaf inwerkingtreding tot en met 31 december van het jaar van inwerkingtreding. De artikelen 67, 70 en 72 van Verordening (EU) Nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad (PbEU 2012, L 181) zijn van overeenkomstige toepassing.
+
 ##### Artikel 3a
 
-In afwijking van [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2019-12-20&g=2019-12-20), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2019-12-20&g=2019-12-20), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
+In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
 
 - a. een elektrisch rendement van minder dan 44% heeft;
 
@@ -80,7 +92,17 @@ In afwijking van [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 4
 
-Onze Minister kan op verzoek van een exploitant van een productie-installatie een tegemoetkoming verlenen indien de desbetreffende exploitant aantoont dat hij ten gevolge van het verbod, ten opzichte van andere exploitanten van een kolengestookte productie-installatie, onevenredig zwaar wordt geraakt.
+1. Onze Minister kan op verzoek van een exploitant van een productie-installatie een tegemoetkoming verlenen indien de desbetreffende exploitant aantoont dat hij ten gevolge van het verbod, ten opzichte van andere exploitanten van een kolengestookte productie-installatie, onevenredig zwaar wordt geraakt.
+
+2. Onze Minister kent op verzoek van een exploitant van een productie-installatie een vergoeding toe voor schade als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), die niet voor rekening van die exploitant behoort te blijven.
+
+3. Onze Minister kent de vergoeding voor schade toe onder de opschortende voorwaarde dat de Europese Commissie besluit dat de vergoeding van de schade geen onverenigbare staatssteun als bedoeld in artikel 107 van het verdrag betreffende de werking van de Europese Unie betreft.
+
+4. De exploitant overlegt bij het verzoek alle gegevens die noodzakelijk zijn voor de vaststelling van het besluit van de Europese Commissie, bedoeld in het derde lid.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het verzoek om, de berekening van de hoogte van en de uitkering van de vergoeding, bedoeld in het tweede lid.
+
+6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 5
 
@@ -88,13 +110,15 @@ Onze Minister kan op verzoek van een exploitant van een productie-installatie ee
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2019-12-20&g=2019-12-20) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
+3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
 
 4. Verstrekking aan een bestuursorgaan vindt uitsluitend plaats indien de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd.
 
 ##### Artikel 6
 
-Onze Minister kan in geval van overtreding van deze wet de overtreder een last onder bestuursdwang opleggen.
+1. Onze Minister kan in geval van overtreding van deze wet de overtreder een last onder bestuursdwang opleggen.
+
+2. Onze Minister kan in geval van overtreding van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), als gevolg van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien dat meer is, ten hoogste 20% van de netto-omzet, bedoeld in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377), die de overtreder heeft behaald in het meest recente boekjaar ten aanzien waarvan de overtreder een jaarrekening beschikbaar heeft of zou moeten hebben.
 
 ##### Artikel 7
 
@@ -103,5 +127,19 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Wet verbod op kolen bij elektriciteitsproductie.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Er is een fonds waaruit uitkeringen kunnen worden gedaan aan werknemers van een productie-installatie alsmede investeringen in om- en bijscholing.
+
+2. Bij algemene maatregel van bestuur worden nadere regels gesteld over het fonds en de wijze waarop de uitkeringen worden verstrekt alsmede de wijze waarop investeringen worden gedaan in om- en bijscholing.
+
+3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+##### Artikel 5a
+
+In geval van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), in een kalenderjaar wordt het in dat lid bedoelde percentage voor de desbetreffende productie-installatie in het jaar van vaststelling van de overtreding van rechtswege verlaagd met het aantal procentpunten dat teveel is geproduceerd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
