@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -239,7 +239,7 @@ Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
 
-De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2021-01-01&g=2021-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2021-01-01&g=2021-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2022-01-01&g=2022-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2022-01-01&g=2022-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -269,7 +269,7 @@ De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.over
 | Roemenië | 50% |
 | Slovenië | 80% |
 | Slowakije | 70% |
-| Spanje | 90% |
+| Spanje | 80% |
 | Tsjechië | 70% |
 | Zweden | 100% |
 | Zwitserland | 100% |
