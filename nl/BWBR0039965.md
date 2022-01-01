@@ -4,7 +4,7 @@ identifier: "BWBR0039965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-21"
-last_updated: "2021-07-15"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039965"
 soort: "ministeriele-regeling"
@@ -48,21 +48,19 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 - **directeur:** een functionaris die, afzonderlijk of met een andere directeur, leiding geeft aan een of meer directies;
 
-- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2021-07-15&g=2021-07-15);
+- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01);
 
 - **IG-team:** de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
 
-- **inspecteur-generaal:** de inspecteur-generaal Sociale Zaken en Werkgelegenheid;
+- **inspecteur-generaal**: de inspecteur-generaal Nederlandse Arbeidsinspectie;
 
-- **inspectie:** de Inspectie SZW;
-
-- **jaarplan:** het jaarplan voor de gehele inspectie, genoemd in [artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8);
+- **jaarplan:** het jaarplan voor de gehele Nederlandse Arbeidsinspectie, genoemd in [artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8);
 
 - **opdrachtgever:** de functioneel leidinggevende van de programmamanager of de projectleider;
 
-- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2021-07-15&g=2021-07-15), of een samenstel daarvan;
+- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), of een samenstel daarvan;
 
-- **portfolio:** het totaal aan programma’s en projecten van de Inspectie SZW gedurende een bepaalde periode;
+- **portfolio:** het totaal aan programma’s van de Nederlandse Arbeidsinspectie gedurende een bepaalde periode;
 
 - **programma:** een tijdelijke set van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen;
 
@@ -70,7 +68,7 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-##### Artikel 2. Organisatie inspectie
+##### Artikel 2. Organisatie Nederlandse Arbeidsinspectie
 
 Onder de inspecteur-generaal ressorteren:
 
@@ -84,15 +82,15 @@ Onder de inspecteur-generaal ressorteren:
 
 ##### Artikel 3. Het IG-team
 
-1. De inspecteur-generaal en de directeuren voeren regelmatig collegiaal overleg over de strategische sturing van de inspectie en over de vervulling van de portefeuilles. Dit overleg staat onder voorzitterschap van de inspecteur-generaal. Beslissingen worden genomen door de inspecteur-generaal, gehoord de overige leden van het IG-team.
+1. De inspecteur-generaal en de directeuren voeren regelmatig collegiaal overleg over de strategische sturing van de Nederlandse Arbeidsinspectie en over de vervulling van de portefeuilles. Dit overleg staat onder voorzitterschap van de inspecteur-generaal. Beslissingen worden genomen door de inspecteur-generaal, gehoord de overige leden van het IG-team.
 
 2. De inspecteur-generaal kan elk van de directeuren schriftelijk belasten met taken en verantwoordelijkheden, de inspectie betreffende, naast de verantwoordelijkheden voor de eigen directie. Over dergelijke taken en verantwoordelijkheden verantwoordt de desbetreffende directeur zich op de wijze, aangegeven door de inspecteur-generaal.
 
 ##### Artikel 4. Sturing organisatie
 
-1. Het uitvoerende werk van de Inspectie SZW vindt grotendeels plaats in programma’s en projecten.
+1. Het uitvoerende werk van de Nederlandse Arbeidsinspectie vindt grotendeels plaats in programma’s en projecten.
 
-2. Op basis van een inspectiebrede risico- en omgevingsanalyse wordt een een- of meerjarig portfolio van programma’s en projecten samengesteld en door het IG-team vastgesteld. In het portfolio wordt tevens op hoofdlijnen bepaald hoe mensen en middelen worden ingezet in de programma’s en projecten. Het portfolio wordt periodiek herijkt.
+2. Op basis van een Nederlandse Arbeidsinspectiebrede risico- en omgevingsanalyse wordt een een- of meerjarig portfolio van programma’s en projecten samengesteld en door het IG-team vastgesteld. In het portfolio wordt tevens op hoofdlijnen bepaald hoe mensen en middelen worden ingezet in de programma’s en projecten. Het portfolio wordt periodiek herijkt.
 
 3. De directie Opsporing voert als Bijzondere Opsporingsdienst onder het gezag van het Functioneel Parket van het Openbaar Ministerie strafrechtelijke onderzoeken uit, hetgeen een aantal aanvullende eisen stelt aan de sturing op werkprocessen.
 
@@ -114,7 +112,7 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - f. het op orde hebben van de administratieve organisatie, voor zover deze niet is belegd bij de directeur Mensen & Middelen;
 
-- g. het leveren van een bijdrage betreffende zijn directie aan het meerjarig strategisch plan, het jaarplan en het jaarverslag van de inspectie;
+- g. het leveren van een bijdrage betreffende zijn directie aan het meerjarig strategisch plan, het jaarplan en het jaarverslag van de Nederlandse Arbeidsinspectie;
 
 - h. het voorbereiden en uitvoeren van het de eigen directie betreffende deel van het jaarplan binnen de door de secretaris-generaal en inspecteur-generaal vastgestelde uitgangspunten;
 
@@ -130,11 +128,11 @@ Elk van de directeuren is verantwoordelijk voor:
 
 1. De directeur Analyse, Programmering en Strategie is verantwoordelijk voor:
 
-- a. het in samenwerking met de directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de inspectie, waaronder het meerjarig strategisch plan, de landelijke strategieën op het gebied van de programma’s, de opsporing van de directie Opsporing en het uitvoeren van deze beslissingen voor zover het de eigen directie betreft;
+- a. het in samenwerking met de directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de Nederlandse Arbeidsinspectie, waaronder het meerjarig strategisch plan, de landelijke strategieën op het gebied van de programma’s, de opsporing van de directie Opsporing en het uitvoeren van deze beslissingen voor zover het de eigen directie betreft;
 
-- b. het coördineren van de beleidsontwikkeling en -uitvoering van de inspectie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
+- b. het coördineren van de beleidsontwikkeling en -uitvoering van de Nederlandse Arbeidsinspectie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
 
-- c. het verrichten van de inspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de inspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
+- c. het verrichten van de Nederlandse Arbeidsinspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de Nederlandse Arbeidsinspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
 
 - d. het uitvoeren van de taken van het verbindingsbureau detacheringsarbeid, bedoeld in [artikel 4, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4);
 
@@ -144,17 +142,17 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - g. het zorgen voor de totstandkoming van handhaafbaarheids- en toezichtbaarheidstoetsen, in samenwerking met de desbetreffende directie;
 
-- h. het verzorgen van de communicatie in brede zin van de inspectie;
+- h. het verzorgen van de communicatie in brede zin van de Nederlandse Arbeidsinspectie;
 
 - i. het verzorgen van de beleidsondersteuning en beleidsmatige signalering;
 
-- j. het analyseren van de gemeten effecten betreffende de inspectie en haar activiteiten;
+- j. het analyseren van de gemeten effecten betreffende de Nederlandse Arbeidsinspectie en haar activiteiten;
 
-- k. het ondersteunen van inspecteurs en rechercheurs op het gebied van handhavings- en wetgevingskennis en het formuleren van een inspectiebreed handhavingsbeleid;
+- k. het ondersteunen van inspecteurs en rechercheurs op het gebied van handhavings- en wetgevingskennis en het formuleren van een Nederlandse Arbeidsinspectiebreed handhavingsbeleid;
 
 - l. het bewaken van de kwaliteit en consistentie van de boetebeschikkingen en toepassing van bestuursdwang en het zorg dragen voor de voortgang en bewaking van termijnen;
 
-- m. het opstellen van boete- en bestuursdwangbeschikkingen van de inspectie in het kader van toezicht en handhaving, en de executie van die beschikkingen;
+- m. het opstellen van boete- en bestuursdwangbeschikkingen van de Nederlandse Arbeidsinspectie in het kader van toezicht en handhaving, en de executie van die beschikkingen;
 
 - n. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive;
 
@@ -210,23 +208,23 @@ Elk van de directeuren is verantwoordelijk voor:
 
 De directeur Mensen & Middelen is verantwoordelijk voor:
 
-- a. het voorbereiden van kaderstellende beslissingen over inrichting en uitvoering van een effectieve en efficiënte bedrijfsvoering van de inspectie, voor periodieke evaluatie daarvan;
+- a. het voorbereiden van kaderstellende beslissingen over inrichting en uitvoering van een effectieve en efficiënte bedrijfsvoering van de Nederlandse Arbeidsinspectie, voor periodieke evaluatie daarvan;
 
 - b. de regie op de calamiteitenorganisatie;
 
-- c. de planning, administratie en control, waaronder mede begrepen het financiële beheer, van de inspectie;
+- c. de planning, administratie en control, waaronder mede begrepen het financiële beheer, van de Nederlandse Arbeidsinspectie;
 
-- d. het voorbereiden van het jaarplan en het jaarverslag van de inspectie, in samenwerking en afstemming met de overige directies van de inspectie;
+- d. het voorbereiden van het jaarplan en het jaarverslag van de Nederlandse Arbeidsinspectie, in samenwerking en afstemming met de overige directies van de Nederlandse Arbeidsinspectie;
 
-- e. het personeelsadvies en -beleid, de personeelsontwikkeling en het personeelsbeheer van de inspectie;
+- e. het personeelsadvies en -beleid, de personeelsontwikkeling en het personeelsbeheer van de Nederlandse Arbeidsinspectie;
 
-- f. het facilitymanagement en het relatiemanagement met leveranciers van de inspectie, en de afstemming daarover met de directie Organisatie, Bedrijfsvoering en Personeel van het ministerie, alsmede de beveiliging van personen en gebouwen;
+- f. het facilitymanagement en het relatiemanagement met leveranciers van de Nederlandse Arbeidsinspectie, en de afstemming daarover met de directie Organisatie, Bedrijfsvoering en Personeel van het ministerie, alsmede de beveiliging van personen en gebouwen;
 
 - g. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0032429);
 
-- h. het binnen de door de inspecteur-generaal gestelde kaders verzorgen van het informatiemanagement en de informatievoorziening van de inspectie in brede zin, waaronder mede begrepen de specifieke (beveiligings)eisen aan apparatuur voor, toegang tot de gebruiksruimten door en gebruik van informatie door medewerkers, betrokken bij de opsporing, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=9&z=2021-07-15&g=2021-07-15);
+- h. het binnen de door de inspecteur-generaal gestelde kaders verzorgen van het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie in brede zin, waaronder mede begrepen de specifieke (beveiligings)eisen aan apparatuur voor, toegang tot de gebruiksruimten door en gebruik van informatie door medewerkers, betrokken bij de opsporing, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=9&z=2022-01-01&g=2022-01-01);
 
-- i. het verlenen van administratieve ondersteuning voor de werkzaamheden van de inspectie en van secretariële ondersteuning van de inspecteur-generaal, de directeuren en de managers van de inspectie;
+- i. het verlenen van administratieve ondersteuning voor de werkzaamheden van de Nederlandse Arbeidsinspectie en van secretariële ondersteuning van de inspecteur-generaal, de directeuren en de managers van de Nederlandse Arbeidsinspectie;
 
 - j. het ontvangen, beoordelen en doorgeleiden van ongevalsmeldingen en overige meldingen, klachten signalen, ontheffingsverzoeken en vrijstellingsverzoeken naar de inhoudelijk verantwoordelijke directie, met uitzondering van opsporingssignalen die rechtstreeks worden ontvangen door de directie Opsporing.
 
@@ -250,7 +248,7 @@ De directeur Mensen & Middelen is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2021-07-15&g=2021-07-15), genoemde personeelsaangelegenheden;
+- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -282,7 +280,7 @@ De directeur Mensen & Middelen is verantwoordelijk voor:
 
 De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
-- a. het vaststellen van het meerjarig strategisch plan, het jaarplan en het jaarverslag van de inspectie en rapporten die worden toegezonden aan een bewindspersoon;
+- a. het vaststellen van het meerjarig strategisch plan, het jaarplan en het jaarverslag van de Nederlandse Arbeidsinspectie en rapporten die worden toegezonden aan een bewindspersoon;
 
 - b. het aangaan en ondertekenen van convenanten of samenwerkingsovereenkomsten met een partij buiten het ministerie, het vaststellen en ondertekenen van brieven, gericht aan een bewindspersoon of secretaris-generaal, alsmede van brieven ter aanbieding van vastgestelde jaarplannen, meerjarenplannen en rapporten aan instellingen die onder toezicht staan van de directie Toezicht op het terrein van Werk en Inkomen;
 
@@ -312,7 +310,7 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030867) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2021-07-15&g=2021-07-15), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2021-07-15&g=2021-07-15) van deze regeling.
+2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2022-01-01&g=2022-01-01) van deze regeling.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -320,6 +318,6 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 15. Citeertitel
 
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017.
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
