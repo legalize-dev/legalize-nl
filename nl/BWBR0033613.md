@@ -4,7 +4,7 @@ identifier: "BWBR0033613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2021-04-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033613"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Treedt in werking op het tijdstip waarop het Besluit werving, reclame en verslav
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvullende cursus:** cursus als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-04-01&g=2021-04-01);
+- a. **aanvullende cursus:** cursus als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01);
 
-- b. **basiscursus:** cursus als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=8&z=2021-04-01&g=2021-04-01);
+- b. **basiscursus:** cursus als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=8&z=2022-01-01&g=2022-01-01);
 
 - c. **besluit:** het [Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412);
 
@@ -98,19 +98,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Verbod op reclame door beroepssporters en andere rolmodellen
 
-1. De vergunninghouder maakt voor wervings- en reclamedoeleinden in ieder geval geen gebruik van individuele beroepssporters of een team bestaande uit beroepssporters. Hij maakt tevens geen gebruik van andere rolmodellen, voor zover die rolmodellen:
+1. De houder van een vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8) of [27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a) maakt voor wervings- en reclamedoeleinden geen gebruik van individuele beroepssporters, een team bestaande uit beroepssporters en andere rolmodellen, voor zover die rolmodellen:
 
 - a. jonger dan 25 jaar zijn; of
 
 - b. substantieel bereik hebben onder minderjarigen of jongvolwassenen.
 
-2. Ter beoordeling van het substantieel bereik als bedoeld in het eerste lid, onder a, onderzoekt de vergunninghouder voorafgaand aan de samenwerking met een rolmodel onder welke leeftijdsgroepen dat rolmodel bereik heeft en hoe groot dat bereik is, en hij legt de uitkomsten van dat onderzoek en de gegevens waarop die uitkomsten zijn gebaseerd schriftelijk vast. Hij betrekt bij het onderzoek in ieder geval gegevens over:
+2. De houder van een vergunning op grond van de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23), [27g](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g), [30c, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c), en [31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31) maakt voor wervings- en reclamedoeleinden in ieder geval geen gebruik van individuele beroepssporters of een team bestaande uit beroepssporters. Hij maakt tevens geen gebruik van andere rolmodellen, voor zover die rolmodellen:
+
+- a. jonger dan 25 jaar zijn; of
+
+- b. substantieel bereik hebben onder minderjarigen of jongvolwassenen.
+
+3. Ter beoordeling van het substantieel bereik als bedoeld in het eerste en tweede lid onderzoekt de vergunninghouder voorafgaand aan de samenwerking met een rolmodel onder welke leeftijdsgroepen dat rolmodel bereik heeft en hoe groot dat bereik is, en hij legt de uitkomsten van dat onderzoek en de gegevens waarop die uitkomsten zijn gebaseerd schriftelijk vast. Hij betrekt bij het onderzoek in ieder geval gegevens over:
 
 - a. de leeftijd van het publiek dat het rolmodel aantrekt; en
 
 - b. de doelgroepen van de producten of diensten waarvoor het rolmodel eerder heeft gewerkt of reclame voor heeft gemaakt.
 
-3. Het eerste lid is niet van toepassing op de sponsoring van individuele beroepssporters en teams bestaande uit beroepssporters.
+4. Het eerste en tweede lid zijn niet van toepassing op de sponsoring van individuele beroepssporters en teams bestaande uit beroepssporters.
 
 ##### Artikel 5. Verbod op reclame bij informatie inzake verslavingspreventie
 
@@ -126,15 +132,15 @@ In deze regeling wordt verstaan onder:
 
 1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand biedt de speler geen bonus aan vanaf het moment dat:
 
-- a. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder a of b, of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), tot 30 dagen zijn verstreken na dat moment;
+- a. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder a of b, of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), tot 30 dagen zijn verstreken na dat moment;
 
-- b. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder c, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), tot 60 dagen zijn verstreken na dat moment;
+- b. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder c, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), tot 60 dagen zijn verstreken na dat moment;
 
-- c. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder d, of tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), tot 60 dagen zijn verstreken na de afloop van de daaruit voortvloeiende toegangsbeperking;
+- c. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder d, of tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), tot 60 dagen zijn verstreken na de afloop van de daaruit voortvloeiende toegangsbeperking;
 
-- d. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), tot 90 dagen zijn verstreken na dat moment;
+- d. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), tot 90 dagen zijn verstreken na dat moment;
 
-- e. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), tot 90 dagen zijn verstreken na de afloop van de daaruit voortvloeiende uitsluiting;
+- e. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), tot 90 dagen zijn verstreken na de afloop van de daaruit voortvloeiende uitsluiting;
 
 - f. hij die speler tot tijdelijke uitsluiting heeft geadviseerd als bedoeld in [artikel 27ja, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), of [31m, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), tot twaalf maanden zijn verstreken na dat moment;
 
@@ -248,7 +254,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - d. de verstrekking van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8);
 
-- e. de samenstelling van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=3&artikel=16&z=2021-04-01&g=2021-04-01) van deze regeling;
+- e. de samenstelling van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=3&artikel=16&z=2022-01-01&g=2022-01-01) van deze regeling;
 
 - f. de analyse, bedoeld in de [artikelen 27ja](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v) en [31m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), en in ieder geval:
 
@@ -266,7 +272,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - i. de wijze waarop de vergunninghouder voorkomt dat wervings- en reclameactiviteiten gericht zijn op maatschappelijk kwetsbare groepen van personen als bedoeld in [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2) en jongvolwassenen;
 
-- j. de onderbouwing van de periode waarbinnen de speler geen bonus wordt aangeboden ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=2&artikel=6&z=2021-04-01&g=2021-04-01), van deze regeling.
+- j. de onderbouwing van de periode waarbinnen de speler geen bonus wordt aangeboden ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=2&artikel=6&z=2022-01-01&g=2022-01-01), van deze regeling.
 
 ##### Artikel 13. Kwaliteitsmanagementsysteem verslavingspreventiebeleid
 
@@ -294,7 +300,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - c. de uitkomsten van de risico-analyse, bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), en de maatregelen en voorzieningen die naar aanleiding van die risico-analyse zijn getroffen;
 
-- d. de beoordeling, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=2&artikel=13&z=2021-04-01&g=2021-04-01), en de wijzigingen die naar aanleiding van die beoordeling zijn doorgevoerd in het verslavingspreventiebeleid van de vergunninghouder;
+- d. de beoordeling, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=2&artikel=13&z=2022-01-01&g=2022-01-01), en de wijzigingen die naar aanleiding van die beoordeling zijn doorgevoerd in het verslavingspreventiebeleid van de vergunninghouder;
 
 - e. andere wijzigingen die zijn doorgevoerd in het verslavingspreventiebeleid.
 
@@ -370,7 +376,7 @@ Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, va
 
 2. De vergunninghouder betrekt bij de keuze voor de toepassing van een interventiemaatregel of de gelijktijdige dan wel opeenvolgende toepassing van meerdere interventiemaatregelen de noodzakelijkheid, doelmatigheid en de proportionaliteit daarvan.
 
-3. De houder van een vergunning tot het organiseren van kansspelen op afstand treft de interventiemaatregel, bedoeld in [artikel 18, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2021-04-01&g=2021-04-01), in ieder geval op het moment waarop de speler een grens als bedoeld in [artikel 4.14, tweede lid, onder a of b, van het Besluit kansspelen op afstand](onbekend) bereikt of overschrijdt.
+3. De houder van een vergunning tot het organiseren van kansspelen op afstand treft de interventiemaatregel, bedoeld in [artikel 18, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-01-01&g=2022-01-01), in ieder geval op het moment waarop de speler een grens als bedoeld in [artikel 4.14, tweede lid, onder a of b, van het Besluit kansspelen op afstand](onbekend) bereikt of overschrijdt.
 
 4. De vergunninghouder geeft de speler bij de toepassing van iedere interventiemaatregel op duidelijke en begrijpelijke wijze toelichting over de aanleiding daartoe.
 
@@ -442,7 +448,7 @@ De houder van een vergunning tot het organiseren van een speelcasino, tot het aa
 
 ##### Artikel 26. De beveiliging van persoonsgegevens
 
-1. Het informatiebeveiligingssysteem van de houder van een vergunning tot het organiseren van een speelcasino of tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, bedoeld in [artikel 20, vijfde lid, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&bijlage=A&z=2021-04-01&g=2021-04-01) bij deze regeling.
+1. Het informatiebeveiligingssysteem van de houder van een vergunning tot het organiseren van een speelcasino of tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, bedoeld in [artikel 20, vijfde lid, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&bijlage=A&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 2. De raad van bestuur draagt zorg voor het ontwikkelen, het toepassen en het onderhouden van een informatiebeveiligingssysteem ter zake de verwerking van persoonsgegevens dat voldoet aan het normenkader Baseline Informatiebeveiliging Overheid.
 
@@ -456,7 +462,7 @@ Deze regeling berust mede op de [artikelen 2a, eerste lid, onder b](onbekend), [
 
 Deze Regeling wordt aangehaald als: Regeling werving, reclame en verslavingspreventie kansspelen.
 
-## Bijlage A. behorend bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=7&artikel=26&z=2021-04-01&g=2021-04-01) van de Regeling werving, reclame en verslavingspreventie kansspelen
+## Bijlage A. behorend bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=7&artikel=26&z=2022-01-01&g=2022-01-01) van de Regeling werving, reclame en verslavingspreventie kansspelen
 
 | Beheersaspect | Beheersdoel | Beheer |
 | --- | --- | --- |
