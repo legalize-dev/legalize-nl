@@ -4,7 +4,7 @@ identifier: "BWBR0035248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035248"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Besluit:
 
 - –. **vleeskuiken:** kip van 72 uur en ouder die wordt opgefokt of wordt gehouden voor de productie van vlees.
 
-2. Onder inrichting wordt in de [hoofdstukken 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3a&z=2021-11-01&g=2021-11-01), [4, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=4&paragraaf=2&z=2021-11-01&g=2021-11-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&z=2021-11-01&g=2021-11-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&z=2021-11-01&g=2021-11-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&z=2021-11-01&g=2021-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&z=2021-11-01&g=2021-11-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&z=2021-11-01&g=2021-11-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&z=2021-11-01&g=2021-11-01) verstaan: een inrichting als bedoeld in artikel 4, onderdeel 27, van verordening (EU) nr. 2016/429.
+2. Onder inrichting wordt in de [hoofdstukken 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3a&z=2022-05-05&g=2022-01-01), [4, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=4&paragraaf=2&z=2022-05-05&g=2022-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&z=2022-05-05&g=2022-01-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&z=2022-05-05&g=2022-01-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&z=2022-05-05&g=2022-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&z=2022-05-05&g=2022-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&z=2022-05-05&g=2022-01-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&z=2022-05-05&g=2022-01-01) verstaan: een inrichting als bedoeld in artikel 4, onderdeel 27, van verordening (EU) nr. 2016/429.
 
 3. Deze regeling berust mede op [artikel 5.10, eerste lid, onder a, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10), in samenhang met [artikel 5.1, eerste en derde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.1) en de [artikelen 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.37), [1.39](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.39), [1.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.40), [1.41](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.41), [1.48](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.48), [1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.51), [1.52](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.52), [1.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.53), [1.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.54), [1.55](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.55), [1.56](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.56), [1.57](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.57), [1.58](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.58), [1.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.59), [1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.61), [2.10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10a), [2.10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10f), [2.27b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27b), [2.27h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27h)[2.27p, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27p), [2.27q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27q), [2.46a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.46a), [1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.61), [2.76ib, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ib), [2.76ic](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ic),[2.76id, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), [2.76ie](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ie), [3.24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.24), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.16) en [4.18, derde lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.18).
 
@@ -242,25 +242,25 @@ Vervallen
 
 ##### Artikel 5.4. Getuigschrift van vakbekwaamheid
 
-1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-11-01&g=2021-11-01), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
+1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2022-05-05&g=2022-01-01), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
 
 2. Een getuigschrift van vakbekwaamheid wordt niet verstrekt indien niet is voldaan aan het vereiste, bedoeld in artikel 21, zesde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.5. Voorlopige getuigschriften van vakbekwaamheid
 
-1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-11-01&g=2021-11-01), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2022-05-05&g=2022-01-01), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
-2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
+2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2022-05-05&g=2022-01-01), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
 
 ##### Artikel 5.6. Indiening collectieve aanvragen
 
-Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-11-01&g=2021-11-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2022-05-05&g=2022-01-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-05-05&g=2022-01-01) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.7. Gelijkstelling van voor 1 juni 2013 verstrekte getuigschriften
 
-1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-11-01&g=2021-11-01).
+1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2022-05-05&g=2022-01-01).
 
-2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2021-11-01&g=2021-11-01) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-11-01&g=2021-11-01) kan worden verstrekt.
+2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2022-05-05&g=2022-01-01) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-05-05&g=2022-01-01) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2022-05-05&g=2022-01-01) kan worden verstrekt.
 
 ##### Artikel 5.8. Verbodsbepaling
 
@@ -270,7 +270,7 @@ Als voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, 
 
 ##### Artikel 6.1. Voorzieningen reinigings- en ontsmettingsplaats
 
-Een reinigings- en ontsmettingsplaats als bedoeld in [artikel 2.10a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10a), bevat de voorzieningen, bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=8&z=2021-11-01&g=2021-11-01).
+Een reinigings- en ontsmettingsplaats als bedoeld in [artikel 2.10a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10a), bevat de voorzieningen, bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=8&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 6.2. Toegankelijkheid register erkende reinigings- en ontsmettingsplaatsen
 
@@ -278,7 +278,7 @@ Het register van erkende reinigings- en ontsmettingsplaatsen, bedoeld in [artike
 
 ##### Artikel 6.3. Aangewezen dierziekten reiniging en ontsmetting vervoermiddelen afkomstig uit het buitenland
 
-Als besmettelijke dierziekten bij gehouden evenhoevigen of pluimvee als bedoeld in [artikel 2.10f, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10f) zijn aangewezen de dierziekten, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=9&z=2021-11-01&g=2021-11-01).
+Als besmettelijke dierziekten bij gehouden evenhoevigen of pluimvee als bedoeld in [artikel 2.10f, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10f) zijn aangewezen de dierziekten, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=9&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 6.4. Uitzondering reiniging en ontsmetting binnen inrichting
 
@@ -402,7 +402,7 @@ De verplichting tot reiniging en ontsmetting, bedoeld in artikel 4, onderdeel b,
 
 1. Een A-bedrijf, C-bedrijf of E-bedrijf voldoet aan de volgende voorwaarden:
 
-- a. een dierenarts neemt eenmaal per maand monsters van de aanwezige varkens overeenkomstig de procedure van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=10&z=2021-11-01&g=2021-11-01) ten behoeve van serologisch onderzoek op de aanwezigheid van klassieke varkenspest dat door Wageningen Bioveterinary Research wordt verricht;
+- a. een dierenarts neemt eenmaal per maand monsters van de aanwezige varkens overeenkomstig de procedure van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=10&z=2022-05-05&g=2022-01-01) ten behoeve van serologisch onderzoek op de aanwezigheid van klassieke varkenspest dat door Wageningen Bioveterinary Research wordt verricht;
 
 - b. op het bedrijf is een douche aanwezig, die is gelegen in de onmiddellijke nabijheid van de ingang van de inrichting waar varkens worden gehouden, waarvan bezoekers van die inrichting voorafgaand aan het betreden van de stallen gebruik maken; en
 
@@ -412,7 +412,7 @@ De verplichting tot reiniging en ontsmetting, bedoeld in artikel 4, onderdeel b,
 
 3. De varkenshouder stelt de uitslag van het serologisch onderzoek, bedoeld in het eerste lid, onderdeel a, beschikbaar aan de minister.
 
-4. Indien een A-bedrijf beschikt over een toevoegstal, voldoet dat bedrijf aan de in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=11&z=2021-11-01&g=2021-11-01) opgenomen eisen over inrichting en gebruik van die stal.
+4. Indien een A-bedrijf beschikt over een toevoegstal, voldoet dat bedrijf aan de in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=11&z=2022-05-05&g=2022-01-01) opgenomen eisen over inrichting en gebruik van die stal.
 
 ### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
 
@@ -466,7 +466,7 @@ Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het besluit](https://w
 
 1. Het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.15), is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.
 
-2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2021-11-01&g=2021-11-01) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2021-11-01&g=2021-11-01) hebben plaatsgevonden en bevat de volgende gegevens:
+2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2022-05-05&g=2022-01-01) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2022-05-05&g=2022-01-01) hebben plaatsgevonden en bevat de volgende gegevens:
 
 - –. naam en praktijkadres van de dierenarts;
 
@@ -490,13 +490,13 @@ De volgende diergroepen, bedoeld in [artikel 3.11, eerste lid, van het besluit](
 
 ##### Artikel 8.7. Vermelden diergroep resultatenlijst
 
-De resultatenlijst behorend bij een diploma van het kwalificatiedossier Dierverzorging (Crebo 23214), bedoeld in [bijlage 3 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3), vermeldt de diergroep, bedoeld in [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2021-11-01&g=2021-11-01) van deze regeling, waarvoor het onderwijs is genoten.
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier Dierverzorging (Crebo 23214), bedoeld in [bijlage 3 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3), vermeldt de diergroep, bedoeld in [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2022-05-05&g=2022-01-01) van deze regeling, waarvoor het onderwijs is genoten.
 
 ##### Artikel 8.8. Erkenning beroepskwalificaties
 
-1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2021-11-01&g=2021-11-01) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
+1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2022-05-05&g=2022-01-01) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
 
-2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2021-11-01&g=2021-11-01) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
+2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2022-05-05&g=2022-01-01) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
 
 ##### Artikel 8.9. Aanvraag erkenning beroepskwalificaties
 
@@ -712,7 +712,7 @@ De melding, bedoeld in [artikel 1.27, eerste lid van het besluit](https://wetten
 
 3. Indien de melding wordt gedaan ten aanzien van een diergeneesmiddel dat bij kippen of kalkoenen wordt toegepast, worden tevens de volgende gegevens verstrekt:
 
-- a. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), van de Regeling houders van dieren;
+- a. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), van de Regeling houders van dieren;
 
 - b. de geboortedatum van het koppel waarbij het diergeneesmiddel is toegepast;
 
@@ -722,9 +722,9 @@ De melding, bedoeld in [artikel 1.27, eerste lid van het besluit](https://wetten
 
 ##### Artikel 3.5. Moment van de melding
 
-1. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2021-11-01&g=2021-11-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) na afvoer van ieder koppel dieren.
+1. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2022-05-05&g=2022-01-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) na afvoer van ieder koppel dieren.
 
-2. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2021-11-01&g=2021-11-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) jaarlijks.
+2. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2022-05-05&g=2022-01-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) jaarlijks.
 
 #### § 2.1. Registratie aangewezen diergeneesmiddelen
 
@@ -818,7 +818,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.1. Positieflijst (huisdierenlijst)
 
-Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) worden aangewezen de diersoorten en diercategorieën, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1&z=2021-11-01&g=2021-11-01).
+Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) worden aangewezen de diersoorten en diercategorieën, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 2.2. Wijziging positieflijst
 
@@ -840,7 +840,7 @@ Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van
 
 Van het verbod van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) zijn vrijgesteld
 
-de categorieën houders van dieren genoemd in tabel A en tabel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=2&z=2021-11-01&g=2021-11-01), voor de daarbij genoemde diersoorten en met inachtneming van de daarbij genoemde voorschriften.
+de categorieën houders van dieren genoemd in tabel A en tabel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=2&z=2022-05-05&g=2022-01-01), voor de daarbij genoemde diersoorten en met inachtneming van de daarbij genoemde voorschriften.
 
 ##### Artikel 2.4. Ontheffing
 
@@ -1398,7 +1398,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5.9
 
-1. Aal wordt voorafgaand aan het doden elektrisch bedwelmd volgens een van de methoden beschreven in de [artikelen 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.10&z=2021-11-01&g=2021-11-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2021-11-01&g=2021-11-01).
+1. Aal wordt voorafgaand aan het doden elektrisch bedwelmd volgens een van de methoden beschreven in de [artikelen 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.10&z=2022-05-05&g=2022-01-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2022-05-05&g=2022-01-01).
 
 2. De toestand van bewusteloosheid en gevoelloosheid ten gevolge van de bedwelming wordt aangehouden totdat het dodingsproces voltooid is.
 
@@ -2244,11 +2244,11 @@ Een exploitant doet de inkennisstelling van de gegevens, bedoeld in de artikelen
 
 ##### Artikel 5a.2. Middel registratie inrichtingen landdieren, aquacultuurdieren en handelaren
 
-De inkennisstelling en de verstrekking van gegevens, bedoeld in de artikelen 84, eerste lid, onderdelen a en b, en tweede lid, ingeval het gaat om een inrichting waar landdieren worden gehouden, 90, eerste lid, onderdelen a en b, en tweede lid, en 172, eerste lid, onderdelen a en b, en tweede lid, van verordening (EU) nr. 2016/429, en [artikel 5a.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), in samenhang met artikel 84, tweede lid, aanhef en onderdeel a, van verordening (EU) nr. 2016/429, geschieden met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+De inkennisstelling en de verstrekking van gegevens, bedoeld in de artikelen 84, eerste lid, onderdelen a en b, en tweede lid, ingeval het gaat om een inrichting waar landdieren worden gehouden, 90, eerste lid, onderdelen a en b, en tweede lid, en 172, eerste lid, onderdelen a en b, en tweede lid, van verordening (EU) nr. 2016/429, en [artikel 5a.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), in samenhang met artikel 84, tweede lid, aanhef en onderdeel a, van verordening (EU) nr. 2016/429, geschieden met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 
 ##### Artikel 5a.3. Termijn inkennisstelling wijziging gegevens registratie
 
-Een exploitant doet de inkennisstelling van de gegevens, bedoeld in de artikelen 84, tweede lid, ingeval het gaat om een inrichting waar landdieren worden gehouden, artikel 90, tweede lid, of 172, tweede lid, van verordening (EU) nr. 2016/429, of in [artikel 5a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), in samenhang met artikel 84, tweede lid, aanhef en onderdeel a, van verordening (EU) nr. 2016/429, ingeval het gaat om een inrichting waar landdieren worden gehouden, binnen 30 dagen, te rekenen vanaf de dag nadat de desbetreffende wijziging of stopzetting heeft plaatsgevonden.
+Een exploitant doet de inkennisstelling van de gegevens, bedoeld in de artikelen 84, tweede lid, ingeval het gaat om een inrichting waar landdieren worden gehouden, artikel 90, tweede lid, of 172, tweede lid, van verordening (EU) nr. 2016/429, of in [artikel 5a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), in samenhang met artikel 84, tweede lid, aanhef en onderdeel a, van verordening (EU) nr. 2016/429, ingeval het gaat om een inrichting waar landdieren worden gehouden, binnen 30 dagen, te rekenen vanaf de dag nadat de desbetreffende wijziging of stopzetting heeft plaatsgevonden.
 
 ##### Artikel 5a.4. Uitzondering registratieplicht bepaalde inrichtingen landdieren
 
@@ -2318,13 +2318,13 @@ Een exploitant doet de inkennisstelling van de gegevens, bedoeld in de artikelen
 
 ##### Artikel 5b.4. Termijnen bijhouden en bewaren gegevens
 
-1. De exploitant van een inrichting als bedoeld in artikel 102, eerste lid, aanhef, van verordening (EU) nr. 2016/429, legt de gegevens, bedoeld in dat artikellid, en voor zover van toepassing, de artikelen 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, en 37, van verordening (EU) nr. 2019/2035 en voor zover van toepassing [artikel 5b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2021-11-01&g=2021-11-01), [5b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2021-11-01&g=2021-11-01), en [5b.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2021-11-01&g=2021-11-01), vast binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden.
+1. De exploitant van een inrichting als bedoeld in artikel 102, eerste lid, aanhef, van verordening (EU) nr. 2016/429, legt de gegevens, bedoeld in dat artikellid, en voor zover van toepassing, de artikelen 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, en 37, van verordening (EU) nr. 2019/2035 en voor zover van toepassing [artikel 5b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2022-05-05&g=2022-01-01), [5b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2022-05-05&g=2022-01-01), en [5b.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2022-05-05&g=2022-01-01), vast binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden.
 
-2. De minimumduur, bedoeld in artikel 102, derde lid, onderdeel b, van verordening (EU) nr. 2016/429, al dan niet in samenhang met [artikel 5b.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2021-11-01&g=2021-11-01), [5b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2021-11-01&g=2021-11-01) of [5.3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2021-11-01&g=2021-11-01), bedraagt drie jaar.
+2. De minimumduur, bedoeld in artikel 102, derde lid, onderdeel b, van verordening (EU) nr. 2016/429, al dan niet in samenhang met [artikel 5b.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2022-05-05&g=2022-01-01), [5b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2022-05-05&g=2022-01-01) of [5.3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2022-05-05&g=2022-01-01), bedraagt drie jaar.
 
 ##### Artikel 5b.5. Uitzondering plicht tot vastleggen en bewaren van gegevens
 
-Artikel 102, eerste lid, van verordening (EU) nr. 2016/429 en de [artikelen 5b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2021-11-01&g=2021-11-01), [5b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2021-11-01&g=2021-11-01) en [5b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2021-11-01&g=2021-11-01) zijn niet van toepassing op een exploitant, indien is voldaan aan artikel 102, vierde lid, onderdelen a en b, van verordening (EU) nr. 2016/429, met dien verstande dat de informatie, bedoeld in die onderdelen, voor zover van toepassing ook de gegevens bevat, bedoeld in de artikelen 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, en 37 van verordening (EU) nr. 2019/2035 en voor zover van toepassing de artikelen 5b.1, eerste lid, 5b.2, eerste lid, en 5b.3, eerste lid.
+Artikel 102, eerste lid, van verordening (EU) nr. 2016/429 en de [artikelen 5b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.1&z=2022-05-05&g=2022-01-01), [5b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.2&z=2022-05-05&g=2022-01-01) en [5b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.1&artikel=5b.3&z=2022-05-05&g=2022-01-01) zijn niet van toepassing op een exploitant, indien is voldaan aan artikel 102, vierde lid, onderdelen a en b, van verordening (EU) nr. 2016/429, met dien verstande dat de informatie, bedoeld in die onderdelen, voor zover van toepassing ook de gegevens bevat, bedoeld in de artikelen 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, en 37 van verordening (EU) nr. 2019/2035 en voor zover van toepassing de artikelen 5b.1, eerste lid, 5b.2, eerste lid, en 5b.3, eerste lid.
 
 ### Afdeling 5b.2. Algemene regels identificatiemiddelen en merken
 
@@ -2344,7 +2344,7 @@ Artikel 102, eerste lid, van verordening (EU) nr. 2016/429 en de [artikelen 5b.1
 
 - b. voldoet aan de in verordening (EU) nr. 2021/520 gestelde regels aan het desbetreffende identificatiemiddel; en
 
-- c. voor zover van toepassing, voldoet aan de in de [artikelen 5b.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.18&z=2021-11-01&g=2021-11-01), [5b.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.24&z=2021-11-01&g=2021-11-01), [5b.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.25&z=2021-11-01&g=2021-11-01), [5b.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.26&z=2021-11-01&g=2021-11-01), [5b.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2021-11-01&g=2021-11-01), [5b.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.32&z=2021-11-01&g=2021-11-01) en [5b.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.33&z=2021-11-01&g=2021-11-01) gestelde regels aan het desbetreffende identificatiemiddel.
+- c. voor zover van toepassing, voldoet aan de in de [artikelen 5b.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.18&z=2022-05-05&g=2022-01-01), [5b.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.24&z=2022-05-05&g=2022-01-01), [5b.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.25&z=2022-05-05&g=2022-01-01), [5b.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.26&z=2022-05-05&g=2022-01-01), [5b.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2022-05-05&g=2022-01-01), [5b.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.32&z=2022-05-05&g=2022-01-01) en [5b.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.33&z=2022-05-05&g=2022-01-01) gestelde regels aan het desbetreffende identificatiemiddel.
 
 5. De minister keurt een model voor honden, katten of fretten als bedoeld in het tweede lid goed indien het model voldoet aan bijlage II bij verordening (EU) nr. 576/2013.
 
@@ -2358,9 +2358,9 @@ Artikel 102, eerste lid, van verordening (EU) nr. 2016/429 en de [artikelen 5b.1
 
 2. Een aanvraag tot goedkeuring als bedoeld in het eerste lid wordt gedaan bij de minister.
 
-3. De minister keurt een model goed, indien het voldoet aan [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2021-11-01&g=2021-11-01) en [5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2021-11-01&g=2021-11-01).
+3. De minister keurt een model goed, indien het voldoet aan [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2022-05-05&g=2022-01-01) en [5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2022-05-05&g=2022-01-01).
 
-4. De minister trekt een goedkeuring in, indien het model niet meer voldoet aan [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2021-11-01&g=2021-11-01) en [5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2021-11-01&g=2021-11-01).
+4. De minister trekt een goedkeuring in, indien het model niet meer voldoet aan [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2022-05-05&g=2022-01-01) en [5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2022-05-05&g=2022-01-01).
 
 5. Het tweede en derde lid zijn van overeenkomstige toepassing op wijzigingen van een goedgekeurd model.
 
@@ -2384,9 +2384,9 @@ Artikel 102, eerste lid, van verordening (EU) nr. 2016/429 en de [artikelen 5b.1
 
 - a. de leverancier aan een exploitant als bedoeld in het eerste lid een identificatiemiddel of merk heeft geleverd waarvan het model niet is goedgekeurd voor de desbetreffende diersoort;
 
-- b. de leverancier van identificatiemiddelen voor runderen, schapen, geiten, of kameelachtigen of hertachtigen niet voldoet aan [artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2021-11-01&g=2021-11-01);
+- b. de leverancier van identificatiemiddelen voor runderen, schapen, geiten, of kameelachtigen of hertachtigen niet voldoet aan [artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2022-05-05&g=2022-01-01);
 
-- c. de leverancier van identificatiemiddelen of merken voor varkens niet voldoet aan [artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2021-11-01&g=2021-11-01) en [5b.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.11&z=2021-11-01&g=2021-11-01).
+- c. de leverancier van identificatiemiddelen of merken voor varkens niet voldoet aan [artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2022-05-05&g=2022-01-01) en [5b.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.11&z=2022-05-05&g=2022-01-01).
 
 5. De minister heft een schorsing als bedoeld in het vierde lid op indien desbetreffende leverancier ten genoegen van de minister heeft aangetoond dat hij overeenkomstig de bepalingen van deze regeling zal handelen.
 
@@ -2418,7 +2418,7 @@ Een bestelling van identificatiemiddelen, slachtmerken of gebruiksmerken wordt r
 
 4. De gegevens in de administratie, bedoeld in het derde lid, worden dertig jaar bewaard, te rekenen vanaf de dag nadat zij in de administratie zijn opgenomen.
 
-5. [Artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2021-11-01&g=2021-11-01) is niet van toepassing op een leverancier van injecteerbare transponders voor paardachtigen.
+5. [Artikel 5b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.10&z=2022-05-05&g=2022-01-01) is niet van toepassing op een leverancier van injecteerbare transponders voor paardachtigen.
 
 ##### Artikel 5b.13. Voorschriften voor gebruik identificatiemiddelen
 
@@ -2462,7 +2462,7 @@ Een bestelling van identificatiemiddelen, slachtmerken of gebruiksmerken wordt r
 
 1. Het is een exploitant die runderen, paardachtigen, schapen, geiten of varkens houdt verboden om bij zijn dieren identificatiemiddelen, slachtmerken of gebruiksmerken aan te brengen die blijkens de op het identificatiemiddel vermelde gegevens door de minister aan derden ter beschikking zijn gesteld.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op exploitanten die runderen, schapen of geiten houden, indien de derde, bedoeld in het eerste lid, de middelen of merken aan de exploitant heeft verstrekt nadat hij hiervan melding heeft gemaakt als bedoeld in [artikel 5b.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.13&z=2021-11-01&g=2021-11-01).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op exploitanten die runderen, schapen of geiten houden, indien de derde, bedoeld in het eerste lid, de middelen of merken aan de exploitant heeft verstrekt nadat hij hiervan melding heeft gemaakt als bedoeld in [artikel 5b.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.13&z=2022-05-05&g=2022-01-01).
 
 3. Het is de exploitant die dieren houdt verboden om bij zijn dieren identificatiemiddelen, slachtmerken of gebruiksmerken aan te brengen die niet afkomstig zijn van een erkende leverancier.
 
@@ -2516,7 +2516,7 @@ Als elektronische identificatiemiddelen voor runderen zijn uitsluitend toegestaa
 
 - b. de dieren zijn geboren in een door de minister aangewezen natuurterrein;
 
-- c. de minister van de geboorte van elk kalf in kennis wordt gesteld binnen de termijn, bedoeld in [artikel 5b.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.49&z=2021-11-01&g=2021-11-01).
+- c. de minister van de geboorte van elk kalf in kennis wordt gesteld binnen de termijn, bedoeld in [artikel 5b.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.49&z=2022-05-05&g=2022-01-01).
 
 2. Wanneer bij kalveren onder toepassing van het eerste lid zes maanden of later na hun geboorte identificatiemiddelen worden aangebracht, wordt bij het aanbrengen van de identificatiemiddelen de identiteit van het moederdier op grond van een DNA-test geverifieerd.
 
@@ -2532,7 +2532,7 @@ een ambtenaar van de NVWA, dan wel een dierenarts of een ander persoon die voor 
 
 ##### Artikel 5b.22. Termijn bestellen identificatiemiddelen
 
-1. Ingeval [artikel 5b.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.21&z=2021-11-01&g=2021-11-01) van toepassing is, bestelt de exploitant binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het rund is geconstateerd, een identificatiemiddel ter vervanging.
+1. Ingeval [artikel 5b.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.21&z=2022-05-05&g=2022-01-01) van toepassing is, bestelt de exploitant binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het rund is geconstateerd, een identificatiemiddel ter vervanging.
 
 2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen tien werkdagen nadat het verlies van het identificatiemiddel van een rund is geconstateerd en voordat het rund de inrichting verlaat.
 
@@ -2604,11 +2604,11 @@ Het is de exploitant die schapen of geiten houdt, in afwijking van artikel 45, d
 
 ##### Artikel 5b.29. Termijn voor het bestellen van een vervangend identificatiemiddel
 
-1. Ingeval [artikel 5b.28, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2021-11-01&g=2021-11-01), van toepassing is, bestelt de exploitant binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het schaap of de geit is geconstateerd, een identificatiemiddel ter vervanging.
+1. Ingeval [artikel 5b.28, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2022-05-05&g=2022-01-01), van toepassing is, bestelt de exploitant binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het schaap of de geit is geconstateerd, een identificatiemiddel ter vervanging.
 
 2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen tien werkdagen nadat het verlies van het identificatiemiddel van het schaap of de geit is geconstateerd en voordat het schaap of de geit de inrichting verlaat.
 
-3. Ingeval [artikel 5b.28, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2021-11-01&g=2021-11-01), van toepassing is, brengt de exploitant binnen drie werkdagen, te rekenen vanaf de dag waarop het verlies van het identificatiemiddel van het schaap of de geit is geconstateerd, de nieuwe identificatiemiddelen aan en in ieder geval voordat het schaap of de geit de inrichting verlaat.
+3. Ingeval [artikel 5b.28, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2022-05-05&g=2022-01-01), van toepassing is, brengt de exploitant binnen drie werkdagen, te rekenen vanaf de dag waarop het verlies van het identificatiemiddel van het schaap of de geit is geconstateerd, de nieuwe identificatiemiddelen aan en in ieder geval voordat het schaap of de geit de inrichting verlaat.
 
 #### § 5b.3.3. Varkens
 
@@ -2618,7 +2618,7 @@ Het is de exploitant die schapen of geiten houdt, in afwijking van artikel 45, d
 
 2. In afwijking van het eerste lid kan bij een zeug, gelt of beer die voor de slacht wordt aangeboden, in aanvulling op de in artikel 52, eerste lid, van verordening (EU) nr. 2019/2035 voorgeschreven identificatiemiddelen, een gebruiksmerk worden aangebracht.
 
-3. Wanneer een slachtmerk of een gebruiksmerk onleesbaar is geworden, wordt een nieuw merk met dezelfde gegevens als bedoeld in [artikel 5b.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2021-11-01&g=2021-11-01), of indien van toepassing, [artikel 5b.35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2021-11-01&g=2021-11-01) aangebracht.
+3. Wanneer een slachtmerk of een gebruiksmerk onleesbaar is geworden, wordt een nieuw merk met dezelfde gegevens als bedoeld in [artikel 5b.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2022-05-05&g=2022-01-01), of indien van toepassing, [artikel 5b.35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2022-05-05&g=2022-01-01) aangebracht.
 
 ##### Artikel 5b.31. Eisen aan conventioneel oormerk
 
@@ -2644,9 +2644,9 @@ Het is de exploitant die schapen of geiten houdt, in afwijking van artikel 45, d
 
 ##### Artikel 5b.32. Eisen aan elektronisch oormerk
 
-1. In aanvulling op artikel 9, derde lid en artikel 11, eerste lid, van verordening (EU) nr. 2021/520, wordt een model van een elektronisch oormerk voor varkens, en wijzigingen daarvan, uitsluitend goedgekeurd indien het voldoet aan [artikel 5b.31, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2021-11-01&g=2021-11-01).
+1. In aanvulling op artikel 9, derde lid en artikel 11, eerste lid, van verordening (EU) nr. 2021/520, wordt een model van een elektronisch oormerk voor varkens, en wijzigingen daarvan, uitsluitend goedgekeurd indien het voldoet aan [artikel 5b.31, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2022-05-05&g=2022-01-01).
 
-2. In aanvulling op het eerste lid, kan op het merkdeel van het oormerk, bedoeld in [artikel 5b.31, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2021-11-01&g=2021-11-01), een individueel volgnummer van het betreffende dier worden opgenomen.
+2. In aanvulling op het eerste lid, kan op het merkdeel van het oormerk, bedoeld in [artikel 5b.31, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2022-05-05&g=2022-01-01), een individueel volgnummer van het betreffende dier worden opgenomen.
 
 3. In afwijking van artikel 52, eerste lid, onderdeel a, van verordening (EU) nr. 2019/2035 is het niet toegestaan om op het oormerk het unieke registratienummer van de laatste inrichting van de toeleveringsketen te vermelden.
 
@@ -2700,7 +2700,7 @@ In aanvulling op artikel 52, eerste lid, onderdeel b, van verordening (EU) nr. 2
 
 2. In afwijking van artikel 17, eerste lid, van verordening (EU) nr. 2021/520 bedraagt de termijn voor identificatie van de daar genoemde varkens drie werkdagen, te rekenen vanaf de dag na de dag van aanvoer op de inrichting van bestemming.
 
-3. Het slachtmerk, bedoeld in [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2021-11-01&g=2021-11-01), of het gebruiksmerk, bedoeld in [artikel 5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2021-11-01&g=2021-11-01), wordt bij slachtvarkens aangebracht voordat deze van een inrichting, al dan niet via een verzamelcentrum, worden afgevoerd naar een slachthuis.
+3. Het slachtmerk, bedoeld in [artikel 5b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2022-05-05&g=2022-01-01), of het gebruiksmerk, bedoeld in [artikel 5b.35](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.35&z=2022-05-05&g=2022-01-01), wordt bij slachtvarkens aangebracht voordat deze van een inrichting, al dan niet via een verzamelcentrum, worden afgevoerd naar een slachthuis.
 
 ##### Artikel 5b.37. Verlies identificatiemiddel
 
@@ -2708,7 +2708,7 @@ Het is de exploitant die varkens houdt, in afwijking van artikel 52, tweede lid,
 
 ##### Artikel 5b.38. Termijn voor het bestellen van een vervangend identificatiemiddel
 
-1. Ingeval [artikel 5b.37](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.37&z=2021-11-01&g=2021-11-01) van toepassing is, bestelt de exploitant, ingeval hij geen vervangend identificatiemiddel voorhanden heeft, binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het varken is geconstateerd, een identificatiemiddel ter vervanging.
+1. Ingeval [artikel 5b.37](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.37&z=2022-05-05&g=2022-01-01) van toepassing is, bestelt de exploitant, ingeval hij geen vervangend identificatiemiddel voorhanden heeft, binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het varken is geconstateerd, een identificatiemiddel ter vervanging.
 
 2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen tien werkdagen nadat het verlies van het identificatiemiddel van een varken is geconstateerd en voordat het varken de inrichting verlaat.
 
@@ -2738,7 +2738,7 @@ Het is de exploitant die kameel- of hertachtigen houdt, in afwijking van artikel
 
 ##### Artikel 5b.43. Termijn voor het bestellen van een vervangend identificatiemiddel
 
-1. Ingeval [artikel 5b.42](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.5&artikel=5b.42&z=2021-11-01&g=2021-11-01) van toepassing is, bestelt de exploitant binnen veertien dagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van de kameel- of hertachtige is geconstateerd, een identificatiemiddel ter vervanging.
+1. Ingeval [artikel 5b.42](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.5&artikel=5b.42&z=2022-05-05&g=2022-01-01) van toepassing is, bestelt de exploitant binnen veertien dagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van de kameel- of hertachtige is geconstateerd, een identificatiemiddel ter vervanging.
 
 2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen 21 dagen nadat het verlies van het identificatiemiddel van de kameel- of hertachtige is geconstateerd en voordat het dier de inrichting verlaat.
 
@@ -2838,13 +2838,13 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 1. De termijn, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 2021/520, bedraagt voor een exploitant die runderen houdt, drie werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis, heeft plaatsgevonden.
 
-2. Een exploitant die runderen houdt, geeft de in de [artikelen 5b.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.44&z=2021-11-01&g=2021-11-01), [5b.45](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.45&z=2021-11-01&g=2021-11-01), [5b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.46&z=2021-11-01&g=2021-11-01), en [5b.47](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.47&z=2021-11-01&g=2021-11-01) bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
+2. Een exploitant die runderen houdt, geeft de in de [artikelen 5b.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.44&z=2022-05-05&g=2022-01-01), [5b.45](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.45&z=2022-05-05&g=2022-01-01), [5b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.46&z=2022-05-05&g=2022-01-01), en [5b.47](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.47&z=2022-05-05&g=2022-01-01) bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
 
-3. De geboorte van een rund wordt doorgegeven nadat het rund is geïdentificeerd, binnen de termijn, bedoeld in [artikel 5b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.19&z=2021-11-01&g=2021-11-01).
+3. De geboorte van een rund wordt doorgegeven nadat het rund is geïdentificeerd, binnen de termijn, bedoeld in [artikel 5b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.19&z=2022-05-05&g=2022-01-01).
 
-4. Het derde lid geldt niet voor runderen, bedoeld in [artikel 5b.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.20&z=2021-11-01&g=2021-11-01).
+4. Het derde lid geldt niet voor runderen, bedoeld in [artikel 5b.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.1&artikel=5b.20&z=2022-05-05&g=2022-01-01).
 
-5. Een exploitant die runderen houdt, geeft de in [artikel 5b.48](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.48&z=2021-11-01&g=2021-11-01) bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden of zoveel eerder als het rund wordt afgevoerd van de inrichting.
+5. Een exploitant die runderen houdt, geeft de in [artikel 5b.48](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.48&z=2022-05-05&g=2022-01-01) bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden of zoveel eerder als het rund wordt afgevoerd van de inrichting.
 
 ##### Artikel 5b.50. Middel voor het doorgeven van informatie
 
@@ -2874,7 +2874,7 @@ De gegevens, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 2021/520
 
 ##### Artikel 5b.53. Doorgeven gegevens bij vervanging identificatiemiddel
 
-De exploitant die schapen of geiten houdt, stelt de minister bij het vervangen van een verloren identificatiemiddel door twee nieuwe identificatiemiddelen, als bedoeld in [artikel 5b.28 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2021-11-01&g=2021-11-01), in kennis van de identificatiecode van het oorspronkelijke merk, de identificatiecode van de nieuwe identificatiemiddelen en de datum van het aanbrengen van de nieuwe identificatiemiddelen.
+De exploitant die schapen of geiten houdt, stelt de minister bij het vervangen van een verloren identificatiemiddel door twee nieuwe identificatiemiddelen, als bedoeld in [artikel 5b.28 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.2&artikel=5b.28&z=2022-05-05&g=2022-01-01), in kennis van de identificatiecode van het oorspronkelijke merk, de identificatiecode van de nieuwe identificatiemiddelen en de datum van het aanbrengen van de nieuwe identificatiemiddelen.
 
 ##### Artikel 5b.54. Doorgeven gegevens over verplaatsingen
 
@@ -2888,7 +2888,7 @@ De exploitant die schapen of geiten houdt, stelt de minister bij het vervangen v
 
 - a. de diersoort; en
 
-- b. ingeval [artikel 5b.70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.5&paragraaf=5b.5.2&artikel=5b.70&z=2021-11-01&g=2021-11-01), van toepassing is, de gegevens, bedoeld in artikel 50, onderdeel d en e, van verordening (EU) nr. 2019/2035.
+- b. ingeval [artikel 5b.70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.5&paragraaf=5b.5.2&artikel=5b.70&z=2022-05-05&g=2022-01-01), van toepassing is, de gegevens, bedoeld in artikel 50, onderdeel d en e, van verordening (EU) nr. 2019/2035.
 
 3. Als het doorgeven van gegevens, bedoeld in het eerste lid, betrekking heeft op de aanvoer van een schaap of geit, afkomstig uit een lidstaat, geeft de exploitant die schapen en geiten houdt ook het land van herkomst, het nummer van het gezondheidscertificaat en de diersoort door.
 
@@ -2912,11 +2912,11 @@ De exploitant die schapen of geiten houdt, stelt de minister bij het vervangen v
 
 1. De termijn, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 2021/520, bedraagt voor een exploitant die schapen en geiten houdt, zeven dagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis die wordt doorgegeven, heeft plaatsgevonden.
 
-2. De termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2021-11-01&g=2021-11-01), [5b.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.53&z=2021-11-01&g=2021-11-01), [5b.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.54&z=2021-11-01&g=2021-11-01), en [5b.55](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.55&z=2021-11-01&g=2021-11-01), worden doorgegeven, bedraagt zeven dagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis die wordt doorgegeven heeft plaatsgevonden, of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
+2. De termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2022-05-05&g=2022-01-01), [5b.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.53&z=2022-05-05&g=2022-01-01), [5b.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.54&z=2022-05-05&g=2022-01-01), en [5b.55](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.55&z=2022-05-05&g=2022-01-01), worden doorgegeven, bedraagt zeven dagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis die wordt doorgegeven heeft plaatsgevonden, of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
 
-3. De termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2021-11-01&g=2021-11-01), worden doorgegeven, bedraagt zes maanden na de geboorte, of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
+3. De termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2022-05-05&g=2022-01-01), worden doorgegeven, bedraagt zes maanden na de geboorte, of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
 
-4. In afwijking van het derde lid, bedraagt de termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2021-11-01&g=2021-11-01), worden doorgegeven, ingeval van de geboorte van een geit op een inrichting waarop op enig moment in het kalenderjaar vijftig geiten of meer worden gehouden ten behoeve van de bedrijfsmatige productie van melk, zeven dagen, te rekenen vanaf de dag na de dag van de geboorte, of zoveel eerder als de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
+4. In afwijking van het derde lid, bedraagt de termijn waarbinnen de gegevens, bedoeld in [artikel 5b.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2022-05-05&g=2022-01-01), worden doorgegeven, ingeval van de geboorte van een geit op een inrichting waarop op enig moment in het kalenderjaar vijftig geiten of meer worden gehouden ten behoeve van de bedrijfsmatige productie van melk, zeven dagen, te rekenen vanaf de dag na de dag van de geboorte, of zoveel eerder als de geit wordt afgevoerd of over de openbare weg wordt verplaatst.
 
 ##### Artikel 5b.57. Middel voor het doorgeven van informatie
 
@@ -2954,15 +2954,15 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 1. De termijn, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 2021/520, bedraagt voor een exploitant die varkens houdt, twee werkdagen, te rekenen vanaf de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
 
-2. De termijn waarbinnen de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2021-11-01&g=2021-11-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2021-11-01&g=2021-11-01), worden doorgegeven, bedraagt twee werkdagen, te rekenen vanaf de dag na de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
+2. De termijn waarbinnen de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2022-05-05&g=2022-01-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2022-05-05&g=2022-01-01), worden doorgegeven, bedraagt twee werkdagen, te rekenen vanaf de dag na de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
 
 ##### Artikel 5b.62. Middel voor het doorgeven van gegevens
 
-1. De exploitant geeft de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2021-11-01&g=2021-11-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2021-11-01&g=2021-11-01), door via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal voor de melding van die gegevens.
+1. De exploitant geeft de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2022-05-05&g=2022-01-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2022-05-05&g=2022-01-01), door via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal voor de melding van die gegevens.
 
 2. Indien de minister meer dan één elektronisch portaal heeft aangewezen, volstaat het doorgeven van de gegevens bij een van de elektronische portalen.
 
-3. Indien de minister geen elektronisch portaal heeft aangewezen, geeft de exploitant de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2021-11-01&g=2021-11-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2021-11-01&g=2021-11-01), door met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+3. Indien de minister geen elektronisch portaal heeft aangewezen, geeft de exploitant de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2022-05-05&g=2022-01-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2022-05-05&g=2022-01-01), door met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 
 4. Indien blijkt dat gegevens als bedoeld in het eerste lid, niet juist of volledig zijn, verstrekt de exploitant de gecorrigeerde gegevens.
 
@@ -2986,7 +2986,7 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 4. De melding, bedoeld in het tweede lid, bevat de volgende gegevens:
 
-- a. het unieke nummer van de transponder, bedoeld in [artikel 5b.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.12&z=2021-11-01&g=2021-11-01), of het uniek levensnummer van de paardachtige, bedoeld in artikel 65, eerste lid, onderdeel b, van verordening (EU) 2019/2035, waarbij de verantwoordelijke dierenarts de maatregel, bedoeld in artikel 37, derde lid, van verordening (EU) nr. 262/2015, heeft uitgevoerd; en
+- a. het unieke nummer van de transponder, bedoeld in [artikel 5b.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.2&paragraaf=5b.2.2&artikel=5b.12&z=2022-05-05&g=2022-01-01), of het uniek levensnummer van de paardachtige, bedoeld in artikel 65, eerste lid, onderdeel b, van verordening (EU) 2019/2035, waarbij de verantwoordelijke dierenarts de maatregel, bedoeld in artikel 37, derde lid, van verordening (EU) nr. 262/2015, heeft uitgevoerd; en
 
 - b. de datum van de uitgevoerde maatregel, bedoeld in artikel 37, derde lid, van verordening (EU) nr. 262/2015.
 
@@ -3014,7 +3014,7 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 - a. het aan de inrichting van de exploitant toegekende unieke registratienummer;
 
-- b. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), van de inrichting van herkomst en bestemming;
+- b. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), van de inrichting van herkomst en bestemming;
 
 - c. het nummer of de aanduiding van de stal van herkomst en bestemming, wanneer die stal in Nederland is gelegen;
 
@@ -3024,7 +3024,7 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 - f. de datum van verplaatsing;
 
-- g. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), van de locatie waar de ouderdieren van de verplaatste vogels zijn gehouden;
+- g. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), van de locatie waar de ouderdieren van de verplaatste vogels zijn gehouden;
 
 - h. het aantal verplaatste vogels per geslacht;
 
@@ -3042,17 +3042,17 @@ In aanvulling op artikel 3, eerste lid, van verordening (EU) nr. 2021/520, geven
 
 ##### Artikel 5b.67. Termijnen voor het doorgeven van gegevens
 
-1. De exploitant geeft de gegevens, bedoeld in [artikel 5b.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2021-11-01&g=2021-11-01), binnen vijf werkdagen, te rekenen vanaf de dag na de dag van de verplaatsing door.
+1. De exploitant geeft de gegevens, bedoeld in [artikel 5b.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2022-05-05&g=2022-01-01), binnen vijf werkdagen, te rekenen vanaf de dag na de dag van de verplaatsing door.
 
-2. De exploitant geeft de gecorrigeerde gegevens, bedoeld in [artikel 5b.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2021-11-01&g=2021-11-01), binnen vijf werkdagen door, te rekenen vanaf de dag na de dag dat de exploitant op de hoogte is gesteld van de onjuistheid of onvolledigheid van de gegevens of de onjuistheid of onvolledigheid heeft vastgesteld in het geval hij hiervan niet op de hoogte is gesteld.
+2. De exploitant geeft de gecorrigeerde gegevens, bedoeld in [artikel 5b.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2022-05-05&g=2022-01-01), binnen vijf werkdagen door, te rekenen vanaf de dag na de dag dat de exploitant op de hoogte is gesteld van de onjuistheid of onvolledigheid van de gegevens of de onjuistheid of onvolledigheid heeft vastgesteld in het geval hij hiervan niet op de hoogte is gesteld.
 
 ##### Artikel 5b.68. Middel voor het doorgeven van gegevens
 
-1. De exploitant geeft de gegevens, bedoeld in [artikel 5b.66](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2021-11-01&g=2021-11-01), door via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4), door de minister is aangewezen als elektronisch portaal voor de registratie van de gegevens, bedoeld in artikel 5b.66, tweede lid.
+1. De exploitant geeft de gegevens, bedoeld in [artikel 5b.66](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2022-05-05&g=2022-01-01), door via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4), door de minister is aangewezen als elektronisch portaal voor de registratie van de gegevens, bedoeld in artikel 5b.66, tweede lid.
 
 2. Indien de minister meer dan één elektronisch portaal heeft aangewezen, volstaat het doorgeven van de gegevens bij een van de elektronisch portalen.
 
-3. Indien de minister geen elektronisch portaal heeft aangewezen, geeft de exploitant de gegevens, bedoeld in [artikel 5b.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2021-11-01&g=2021-11-01), aan de minister door met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
+3. Indien de minister geen elektronisch portaal heeft aangewezen, geeft de exploitant de gegevens, bedoeld in [artikel 5b.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2022-05-05&g=2022-01-01), aan de minister door met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 
 ### Afdeling 5b.5. Regels over identificatiedocumenten en verplaatsingsdocumenten
 
@@ -3096,7 +3096,7 @@ De exploitant van een reizend circus of dierennummer voor gehouden landdieren do
 
 ##### Artikel 5b.74. Regels over dieren die niet voldoen aan aanvullende Nederlandse regels over identificatie en registratie
 
-1. Het is verboden dieren ten aanzien waarvan niet is voldaan aan [artikel 5b.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.44&z=2021-11-01&g=2021-11-01), [5b.47](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.47&z=2021-11-01&g=2021-11-01), [5b.48](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.48&z=2021-11-01&g=2021-11-01), [5b.52](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2021-11-01&g=2021-11-01), [5b.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.53&z=2021-11-01&g=2021-11-01), [5b.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.54&z=2021-11-01&g=2021-11-01) of [5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2021-11-01&g=2021-11-01), van een inrichting af te voeren of in de handel te brengen wanneer zij zijn bestemd voor een inrichting in Nederland.
+1. Het is verboden dieren ten aanzien waarvan niet is voldaan aan [artikel 5b.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.44&z=2022-05-05&g=2022-01-01), [5b.47](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.47&z=2022-05-05&g=2022-01-01), [5b.48](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.48&z=2022-05-05&g=2022-01-01), [5b.52](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.52&z=2022-05-05&g=2022-01-01), [5b.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.53&z=2022-05-05&g=2022-01-01), [5b.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.54&z=2022-05-05&g=2022-01-01) of [5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2022-05-05&g=2022-01-01), van een inrichting af te voeren of in de handel te brengen wanneer zij zijn bestemd voor een inrichting in Nederland.
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing ten aanzien van dieren die rechtstreeks van de inrichting worden afgevoerd naar een in Nederland gelegen slachthuis.
 
@@ -3136,11 +3136,11 @@ De exploitant van een reizend circus of dierennummer voor gehouden landdieren do
 
 ##### Artikel 5c.4. Voorschriften erkend verzamelcentrum voor Nederlandse markt
 
-Artikel 97, eerste lid, van verordening (EU) nr. 2016/429 en artikel 5 van verordening (EU) nr. 2019/2035 zijn van overeenkomstige toepassing op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+Artikel 97, eerste lid, van verordening (EU) nr. 2016/429 en artikel 5 van verordening (EU) nr. 2019/2035 zijn van overeenkomstige toepassing op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 5c.5. Documentatie erkend verzamelcentrum
 
-1. Artikel 105, eerste lid, van verordening (EU) nr. 2016/429 en artikel 35 van verordening (EU) nr. 2019/2035 zijn van overeenkomstige toepassing op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+1. Artikel 105, eerste lid, van verordening (EU) nr. 2016/429 en artikel 35 van verordening (EU) nr. 2019/2035 zijn van overeenkomstige toepassing op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
 2. De gegevens, bedoeld in het eerste lid, worden nadat de gegevens bekend zijn bij de exploitant van het verzamelcentrum onverwijld bijgehouden.
 
@@ -3148,7 +3148,7 @@ Artikel 97, eerste lid, van verordening (EU) nr. 2016/429 en artikel 5 van veror
 
 ##### Artikel 5c.6. Aanvraag, schorsen en intrekken erkenning
 
-1. De aanvraag tot erkenning van een verzamelcentrum als bedoeld in [artikel 5c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01), geschiedt met een daartoe beschikbaar gesteld middel.
+1. De aanvraag tot erkenning van een verzamelcentrum als bedoeld in [artikel 5c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01), geschiedt met een daartoe beschikbaar gesteld middel.
 
 2. Artikel 99, tweede tot en met vijfde lid, van verordening (EU) nr. 2016/429 is van overeenkomstige toepassing op de verlening van een erkenning als bedoeld in het eerste lid.
 
@@ -3164,35 +3164,35 @@ Artikel 97, eerste lid, van verordening (EU) nr. 2016/429 en artikel 5 van veror
 
 ##### Artikel 5c.8. Periode houden dieren erkend verzamelcentrum Nederlandse markt
 
-1. Varkens, runderen, schapen of geiten worden in totaal niet meer dan zes dagen gehouden op één of meer verzamelcentra als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+1. Varkens, runderen, schapen of geiten worden in totaal niet meer dan zes dagen gehouden op één of meer verzamelcentra als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
 2. De periode van zes dagen, bedoeld in het eerste lid, vangt aan op het moment dat de aanvang is gemeld op grond van [artikel 1.36 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.36).
 
 ##### Artikel 5c.9. Vervoer varkens vanaf verzamelcentrum
 
-In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om varkens afkomstig van een inrichting in Nederland, die bestemd zijn voor een in Nederland gelegen slachthuis, ten hoogste een keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om varkens afkomstig van een inrichting in Nederland, die bestemd zijn voor een in Nederland gelegen slachthuis, ten hoogste een keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 5c.10. Toegestane verzamelingen runderen Nederlandse markt
 
-1. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om runderen afkomstig van een inrichting in Nederland, en die bestemd zijn voor een inrichting in Nederland ten hoogste één keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+1. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om runderen afkomstig van een inrichting in Nederland, en die bestemd zijn voor een inrichting in Nederland ten hoogste één keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
-2. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om runderen jonger dan 12 weken afkomstig van een inrichting in Nederland, die bestemd zijn voor een inrichting in Nederland ten hoogste twee keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+2. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om runderen jonger dan 12 weken afkomstig van een inrichting in Nederland, die bestemd zijn voor een inrichting in Nederland ten hoogste twee keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
-3. Ingeval runderen als bedoeld in het tweede lid, twee keer worden verzameld op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01), verstrekken de exploitanten van het eerste en het tweede verzamelcentrum, bedoeld in het tweede lid, in afwijking van [artikel 5b.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.49&z=2021-11-01&g=2021-11-01), onmiddellijk na respectievelijk voor iedere aan- en afvoer van runderen de gegevens, bedoeld in artikel 42 van verordening (EU) nr. 2019/2035, aan de minister.
+3. Ingeval runderen als bedoeld in het tweede lid, twee keer worden verzameld op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01), verstrekken de exploitanten van het eerste en het tweede verzamelcentrum, bedoeld in het tweede lid, in afwijking van [artikel 5b.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.1&artikel=5b.49&z=2022-05-05&g=2022-01-01), onmiddellijk na respectievelijk voor iedere aan- en afvoer van runderen de gegevens, bedoeld in artikel 42 van verordening (EU) nr. 2019/2035, aan de minister.
 
 ##### Artikel 5c.11. Vervoer runderen vanaf een verzamelcentrum
 
-Runderen afkomstig van een inrichting in Nederland die bijeen zijn gebracht op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01), en bestemd zijn voor de slacht worden verplaatst naar een slachthuis in Nederland.
+Runderen afkomstig van een inrichting in Nederland die bijeen zijn gebracht op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01), en bestemd zijn voor de slacht worden verplaatst naar een slachthuis in Nederland.
 
 ##### Artikel 5c.12. Toegestane verzamelingen schapen of geiten Nederlandse markt
 
-1. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om schapen of geiten afkomstig van een inrichting in Nederland, die bestemd zijn voor een inrichting in Nederland ten hoogste twee keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01).
+1. In afwijking van [artikel 1.42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.42) is het toegestaan om schapen of geiten afkomstig van een inrichting in Nederland, die bestemd zijn voor een inrichting in Nederland ten hoogste twee keer te verzamelen op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01).
 
-2. Ingeval schapen of geiten als bedoeld in het eerste lid, twee keer worden verzameld op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01), verstrekken de exploitanten van het eerste en het tweede verzamelcentrum, bedoeld in het eerste lid, in afwijking van [artikel 5b.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.56&z=2021-11-01&g=2021-11-01), onmiddellijk na respectievelijk voor iedere aan- en afvoer van schapen of geiten de gegevens, bedoeld in artikel 49 van verordening (EU) nr. 2019/2035, aan de minister.
+2. Ingeval schapen of geiten als bedoeld in het eerste lid, twee keer worden verzameld op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01), verstrekken de exploitanten van het eerste en het tweede verzamelcentrum, bedoeld in het eerste lid, in afwijking van [artikel 5b.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.2&artikel=5b.56&z=2022-05-05&g=2022-01-01), onmiddellijk na respectievelijk voor iedere aan- en afvoer van schapen of geiten de gegevens, bedoeld in artikel 49 van verordening (EU) nr. 2019/2035, aan de minister.
 
 ##### Artikel 5c.13. Vervoer van schapen en geiten vanaf een verzamelcentrum
 
-Schapen of geiten afkomstig van een inrichting in Nederland die bijeen zijn gebracht op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2021-11-01&g=2021-11-01) en bestemd zijn voor de slacht worden, na al dan niet twee keer te zijn verzameld op een verzamelcentrum als bedoeld in artikel 5c.3, eerste lid, verplaatst naar een slachthuis in Nederland.
+Schapen of geiten afkomstig van een inrichting in Nederland die bijeen zijn gebracht op een verzamelcentrum als bedoeld in [artikel 5c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.2&artikel=5c.3&z=2022-05-05&g=2022-01-01) en bestemd zijn voor de slacht worden, na al dan niet twee keer te zijn verzameld op een verzamelcentrum als bedoeld in artikel 5c.3, eerste lid, verplaatst naar een slachthuis in Nederland.
 
 ### Hoofdstuk 5c. Bijeenbrengen van dieren
 
@@ -3208,7 +3208,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 ##### Artikel 7.2. Aanvraag toestemming voor vervoer en documentatie
 
-1. Een houder die varkens afvoert van zijn inrichting dient een aanvraag als bedoeld in [artikel 2.27p, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27p) in via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal voor de melding van de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2021-11-01&g=2021-11-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2021-11-01&g=2021-11-01).
+1. Een houder die varkens afvoert van zijn inrichting dient een aanvraag als bedoeld in [artikel 2.27p, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27p) in via een elektronisch portaal dat op grond van [artikel 1.4, derde lid, Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal voor de melding van de gegevens, bedoeld in de [artikelen 5b.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.59&z=2022-05-05&g=2022-01-01) en [5b.60](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.3&artikel=5b.60&z=2022-05-05&g=2022-01-01).
 
 2. Indien de minister geen portaal heeft aangewezen, dient de houder de aanvraag, bedoeld in het eerste lid, in bij de minister met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
 
@@ -3220,7 +3220,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 ##### Artikel 7.3. Monstername monitoring Ziekte van Aujezsky
 
-1. De houder van varkens op een A-bedrijf, C-bedrijf, of E-bedrijf, laat eenmaal per maand bloedmonsters nemen van de aanwezige varkens overeenkomstig de procedure van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=8&z=2021-11-01&g=2021-11-01).
+1. De houder van varkens op een A-bedrijf, C-bedrijf, of E-bedrijf, laat eenmaal per maand bloedmonsters nemen van de aanwezige varkens overeenkomstig de procedure van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=8&z=2022-05-05&g=2022-01-01).
 
 2. De houder van varkens op een B-bedrijf, F-bedrijf, of D-bedrijf laat iedere viermaandelijkse periode die loopt van januari tot en met april, van mei tot en met augustus en van september tot en met december, bloed bemonsteren van drie varkens die:
 
@@ -3236,7 +3236,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 ##### Artikel 7.4. Aanleveren van gegevens
 
-1. De houder van varkens laat het bloed, bedoeld in [artikel 7.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2021-11-01&g=2021-11-01), in een laboratorium dat daarvoor op grond van [artikel 3 van de Regeling erkenning veterinaire laboratoria](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&artikel=3) is erkend, onderzoeken op de aanwezigheid van antistoffen tegen het Aujeszky-virus of het Aujeszky-vaccin.
+1. De houder van varkens laat het bloed, bedoeld in [artikel 7.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2022-05-05&g=2022-01-01), in een laboratorium dat daarvoor op grond van [artikel 3 van de Regeling erkenning veterinaire laboratoria](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&artikel=3) is erkend, onderzoeken op de aanwezigheid van antistoffen tegen het Aujeszky-virus of het Aujeszky-vaccin.
 
 2. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij het laboratorium, bedoeld in het eerste lid.
 
@@ -3254,7 +3254,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 ##### Artikel 7.5. Bewaren en registreren van gegevens
 
-1. De houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2021-11-01&g=2021-11-01), en de gegevens, bedoeld in [artikel 7.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.4&z=2021-11-01&g=2021-11-01), ten minste drie jaar.
+1. De houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2022-05-05&g=2022-01-01), en de gegevens, bedoeld in [artikel 7.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.2&artikel=7.4&z=2022-05-05&g=2022-01-01), ten minste drie jaar.
 
 2. De houder registreert de uitslag, bedoeld in het eerste lid, bij de minister.
 
@@ -3272,7 +3272,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 3. De kennisgeving gaat per stal vergezeld van de volgende gegevens:
 
-- a. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01);
+- a. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01);
 
 - b. het relatienummer van de houder;
 
@@ -3284,7 +3284,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 - f. het bouwjaar van de stal en, indien van toepassing, het jaar waarin een grondige verbouwing met directe gevolgen voor het dierenwelzijn heeft plaatsgevonden.
 
-4. De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn gemeld via een elektronisch portaal dat ingevolge [artikel 1.4, derde lid, Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal door middel waarvan de registratie, bedoeld in [artikel 5b.66](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2021-11-01&g=2021-11-01) plaatsvindt.
+4. De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn gemeld via een elektronisch portaal dat ingevolge [artikel 1.4, derde lid, Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.4) is aangewezen als elektronisch portaal door middel waarvan de registratie, bedoeld in [artikel 5b.66](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.4&paragraaf=5b.4.5&artikel=5b.66&z=2022-05-05&g=2022-01-01) plaatsvindt.
 
 ##### Artikel 7b.3. Kennisgeving lagere bezettingsdichtheid
 
@@ -3292,9 +3292,9 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 2. Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.
 
-3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 7b.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01).
+3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 7b.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01).
 
-4. [7b.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing.
+4. [7b.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7b.4. Berekening bezettingsdichtheid
 
@@ -3318,11 +3318,11 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 - a. bij het slachthuis:
 
-- 1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=3&z=2021-11-01&g=2021-11-01) bij deze regeling is gevoegd, dan wel:
+- 1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=3&z=2022-05-05&g=2022-01-01) bij deze regeling is gevoegd, dan wel:
 
-- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2021-11-01&g=2021-11-01);
+- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2022-05-05&g=2022-01-01);
 
-- b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide controleur, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=5&z=2021-11-01&g=2021-11-01) bij deze regeling is gevoegd.
+- b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide controleur, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=5&z=2022-05-05&g=2022-01-01) bij deze regeling is gevoegd.
 
 4. De totaalscore voor het koppel wordt vastgesteld:
 
@@ -3330,7 +3330,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 - b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten = (percentage dieren klasse 0) x 0 + (percentage dieren klasse 1) x (0,5) + (percentage dieren klasse 2) x 2
 
-5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01), en [7b.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.8&z=2021-11-01&g=2021-11-01), zijn van overeenkomstige toepassing.
+5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01), en [7b.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.8&z=2022-05-05&g=2022-01-01), zijn van overeenkomstige toepassing.
 
 6. De in het eerste lid bedoelde houder stelt na elk kalenderjaar een gemiddelde score voor het afgelopen jaar per stal vast op basis van de gegevens, bedoeld in het vijfde lid.
 
@@ -3348,17 +3348,17 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 ##### Artikel 7b.6. Gevolgen hoge scores
 
-1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2021-11-01&g=2021-11-01), niet hoger dan 80 punten.
+1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2022-05-05&g=2022-01-01), niet hoger dan 80 punten.
 
-2. Indien de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2021-11-01&g=2021-11-01), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
+2. Indien de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2022-05-05&g=2022-01-01), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
 
 - a. stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 maart van het jaar dat volgt op het jaar waarop de verstrekte gegevens betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waarvoor de gemiddelde score meer dan 120 punten bedroeg, om ervoor te zorgen dat in elk geval aan het einde van dat jaar wordt voldaan aan het eerste lid, en
 
 - b. past de houder in elke stal waarvoor de gemiddelde score meer dan 120 punten bedroeg, uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, een bezettingsdichtheid toe van ten hoogste 39 kg/m².
 
-3. Indien de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2021-11-01&g=2021-11-01), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
+3. Indien de gemiddelde score, bedoeld in [artikel 7b.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2022-05-05&g=2022-01-01), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
 
-4. Een verbeterplan wordt ingediend bij de minister. [Artikel 7b.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing.
+4. Een verbeterplan wordt ingediend bij de minister. [Artikel 7b.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01), is van overeenkomstige toepassing.
 
 5. Indien naar het oordeel van de minister de uitvoering van het verbeterplan er in redelijkheid niet toe kan leiden dat binnen een kalenderjaar kan worden voldaan aan het eerste lid, dient de houder op verzoek van de minister binnen een maand na dat verzoek een aangepast verbeterplan in.
 
@@ -3366,13 +3366,13 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 7. De houder bewaart bewijsstukken van de maatregelen die hij bij de uitvoering van het verbeterplan heeft genomen gedurende ten minste 5 jaar, gerekend vanaf de datering van die stukken.
 
-##### Artikel 7b.7. Voortduren meting bij toepassing [artikel 7b.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.6&z=2021-11-01&g=2021-11-01)
+##### Artikel 7b.7. Voortduren meting bij toepassing [artikel 7b.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.6&z=2022-05-05&g=2022-01-01)
 
-[Artikel 7b.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2021-11-01&g=2021-11-01) is van overeenkomstige toepassing op de houder, bedoeld in [7b.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.6&z=2021-11-01&g=2021-11-01), ten aanzien van het kalenderjaar waarin hij op grond van 7b.6, tweede lid, onderdeel b, een bezettingsdichtheid toepast van ten hoogste 39 kg/m².
+[Artikel 7b.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.5&z=2022-05-05&g=2022-01-01) is van overeenkomstige toepassing op de houder, bedoeld in [7b.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.6&z=2022-05-05&g=2022-01-01), ten aanzien van het kalenderjaar waarin hij op grond van 7b.6, tweede lid, onderdeel b, een bezettingsdichtheid toepast van ten hoogste 39 kg/m².
 
 ##### Artikel 7b.8. Verstrekking gegevens aantallen vleeskuikens
 
-1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de [artikelen 7b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01) en [7b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.3&z=2021-11-01&g=2021-11-01), er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
+1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de [artikelen 7b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01) en [7b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.3&z=2022-05-05&g=2022-01-01), er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
 
 - a. het aantal binnengebrachte vleeskuikens, bedoeld in [artikel 2.52, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52);
 
@@ -3390,7 +3390,7 @@ Ingeval er op grond van [artikel 4.10, tweede lid, van het Besluit handhaving en
 
 3. De houder bewaart de gegevens, bedoeld in het eerste lid, gedurende drie jaren na de datum van de verstrekking bij de gegevens die op grond van [artikel 2.52 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52) worden geregistreerd.
 
-4. [Artikel 7b.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing.
+4. [Artikel 7b.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.1&artikel=7b.2&z=2022-05-05&g=2022-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7b.9. Erkenning opleidingscertificaat
 
@@ -3448,7 +3448,7 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://w
 
 ##### Artikel 7b.14. Aanleveren van gegevens
 
-1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2021-11-01&g=2021-11-01).
+1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2022-05-05&g=2022-01-01).
 
 2. Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangeleverd:
 
@@ -3462,7 +3462,7 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://w
 
 ##### Artikel 7b.15. Frequentie monstername
 
-1. In aanvulling op [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2021-11-01&g=2021-11-01), laat de houder van:
+1. In aanvulling op [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2022-05-05&g=2022-01-01), laat de houder van:
 
 - a. vleeskuikens, parelhoenders, loopvogels en kwartels, jaarlijks een bloedmonster nemen van ten minste 30 dieren met een leeftijd van ten minste vier weken;
 
@@ -3482,11 +3482,11 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://w
 
 ##### Artikel 7b.16. Frequentie monstername vrije uitloop
 
-In afwijking van [artikel 7b.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.15&z=2021-11-01&g=2021-11-01) laat de houder die op een bedrijf waar onder meer dieren worden gehouden in een houderijsysteem met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van [verordening (EG) nr. 589/2008](32008R0589), ieder kwartaal een bloedmonster nemen van ten minste 30 dieren.
+In afwijking van [artikel 7b.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.15&z=2022-05-05&g=2022-01-01) laat de houder die op een bedrijf waar onder meer dieren worden gehouden in een houderijsysteem met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van [verordening (EG) nr. 589/2008](32008R0589), ieder kwartaal een bloedmonster nemen van ten minste 30 dieren.
 
 ##### Artikel 7b.17. Administratie monstername
 
-Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2021-11-01&g=2021-11-01), ten minste drie jaar.
+Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.1&artikel=7b.13&z=2022-05-05&g=2022-01-01), ten minste drie jaar.
 
 #### § 7b.2.2. Monitoring mycoplasma spp. en salmonella-serotypen
 
@@ -3502,7 +3502,7 @@ Het onderzoek, bedoeld in bijlage II, deel 2, punt 3, onder 3.6, bij verordening
 
 ##### Artikel 7b.20. Aanleveren van gegevens onderzoek mycoplasma spp.
 
-1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.19&z=2021-11-01&g=2021-11-01).
+1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.19&z=2022-05-05&g=2022-01-01).
 
 2. Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangeleverd:
 
@@ -3516,7 +3516,7 @@ Het onderzoek, bedoeld in bijlage II, deel 2, punt 3, onder 3.6, bij verordening
 
 ##### Artikel 7b.21. Administratie monstername
 
-Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.19&z=2021-11-01&g=2021-11-01), ten minste drie jaar.
+Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.19&z=2022-05-05&g=2022-01-01), ten minste drie jaar.
 
 ##### Artikel 7b.22. Ziektebewakingsprogramma mycoplasma spp. Nederlandse markt
 
@@ -3526,7 +3526,7 @@ Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.19](http
 
 3. Een houder als bedoeld in [artikel 2.76ic, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ic) van vleeskalkoenen laat, in afwijking van dat artikel, drie weken voorafgaand aan het moment waarop de dieren worden geslacht van die dieren 24 bloedmonsters nemen.
 
-4. De [artikelen 7b.18 tot en met 7b.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.18&z=2021-11-01&g=2021-11-01) zijn van overeenkomstige toepassing op de monstername en het onderzoek, bedoeld in het eerste tot en met derde lid.
+4. De [artikelen 7b.18 tot en met 7b.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.18&z=2022-05-05&g=2022-01-01) zijn van overeenkomstige toepassing op de monstername en het onderzoek, bedoeld in het eerste tot en met derde lid.
 
 ##### Artikel 7b.23. Monstername ziektebewakingsprogramma salmonella-serotypen
 
@@ -3542,7 +3542,7 @@ Het onderzoek, bedoeld in bijlage II, deel 2, punt 2, onder 2.6, bij verordening
 
 ##### Artikel 7b.25. Aanleveren van gegevens onderzoek salmonella-serotypen
 
-1. De monsters, bedoeld in [artikel 7b.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.23&z=2021-11-01&g=2021-11-01), worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.24&z=2021-11-01&g=2021-11-01).
+1. De monsters, bedoeld in [artikel 7b.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.23&z=2022-05-05&g=2022-01-01), worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.24&z=2022-05-05&g=2022-01-01).
 
 2. Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangeleverd:
 
@@ -3556,13 +3556,13 @@ Het onderzoek, bedoeld in bijlage II, deel 2, punt 2, onder 2.6, bij verordening
 
 ##### Artikel 7b.26. Administratie monstername
 
-Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.23&z=2021-11-01&g=2021-11-01), ten minste drie jaar.
+Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.23&z=2022-05-05&g=2022-01-01), ten minste drie jaar.
 
 ##### Artikel 7b.27. Ziektebewakingsprogramma salmonella-serotypen Nederlandse markt
 
 1. Voor het onderzoek naar de aanwezigheid salmonella-serotypen als bedoeld in [artikel 2.76ic, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ic) zijn de soorten en categorieën pluimvee als bedoeld in dat artikel, de soorten pluimvee als bedoeld in bijlage II, deel 2, punt 2, onder 2.2, bij verordening (EU) nr. 2019/2035 voor zover die dieren broedeieren produceren.
 
-2. De [artikelen 7b.22 tot en met 7b.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.22&z=2021-11-01&g=2021-11-01) zijn van overeenkomstige toepassing op een houder als bedoeld in [artikel 2.76ic, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ic).
+2. De [artikelen 7b.22 tot en met 7b.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.2&artikel=7b.22&z=2022-05-05&g=2022-01-01) zijn van overeenkomstige toepassing op een houder als bedoeld in [artikel 2.76ic, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76ic).
 
 #### § 7b.2.1. Monitoring aviaire influenza
 
@@ -3596,13 +3596,13 @@ Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.23](http
 
 ##### Artikel 7b.29. Monitoring vaccinatie Newcastle disease
 
-1. De exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), laat een dierenarts of dierenartsassistent paraveterinair een bloedmonster nemen van de door hem gehouden dieren als bedoeld in [artikel 7b.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01), en laat dat monster onderzoeken op de werking van de vaccinatie, bedoeld in artikel 2.76id, eerste lid, van het besluit, door de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
+1. De exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), laat een dierenarts of dierenartsassistent paraveterinair een bloedmonster nemen van de door hem gehouden dieren als bedoeld in [artikel 7b.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01), en laat dat monster onderzoeken op de werking van de vaccinatie, bedoeld in artikel 2.76id, eerste lid, van het besluit, door de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
 
 2. Bij de monstername wordt ten minste 1 milliliter bloed per dier afgenomen.
 
 ##### Artikel 7b.30. Aanleveren van gegevens
 
-1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01).
+1. De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij de instelling, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01).
 
 2. Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangeleverd:
 
@@ -3616,7 +3616,7 @@ Een houder bewaart de uitslag van het onderzoek, bedoeld in [artikel 7b.23](http
 
 ##### Artikel 7b.31. Monstername vermeerderingsdieren
 
-In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per stal bloedmonsters nemen van vermeerderingsdieren van de soort kip of kalkoen of kippen of kalkoenen die worden opgefokt tot vermeerderingsdier op de volgende momenten:
+In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per stal bloedmonsters nemen van vermeerderingsdieren van de soort kip of kalkoen of kippen of kalkoenen die worden opgefokt tot vermeerderingsdier op de volgende momenten:
 
 - a. 70 dagen na het uitkomen, tenzij het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd;
 
@@ -3632,7 +3632,7 @@ In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248
 
 ##### Artikel 7b.32. Monstername leghennen
 
-In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per stal bloedmonsters nemen van leghennen of dieren die worden opgefokt tot leghen op de volgende momenten:
+In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per stal bloedmonsters nemen van leghennen of dieren die worden opgefokt tot leghen op de volgende momenten:
 
 - a. 70 dagen na het uitkomen, tenzij het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd;
 
@@ -3646,7 +3646,7 @@ In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248
 
 ##### Artikel 7b.33. Monstername vleeskuikens
 
-In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal bloedmonsters nemen van vleeskuikens op de volgende momenten:
+In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal bloedmonsters nemen van vleeskuikens op de volgende momenten:
 
 - a. in de periode van 4 tot 6 weken na het uitkomen;
 
@@ -3654,7 +3654,7 @@ In aanvulling op [artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248
 
 ##### Artikel 7b.34. Monstername vleeskalkoenen
 
-In aanvulling op [artikel 7b.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal bloedmonsters nemen van vleeskalkoenen op de volgende momenten:
+In aanvulling op [artikel 7b.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01) laat de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id), van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal bloedmonsters nemen van vleeskalkoenen op de volgende momenten:
 
 - a. vanaf dertien weken na het uitkomen;
 
@@ -3662,33 +3662,33 @@ In aanvulling op [artikel 7b.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035248
 
 ##### Artikel 7b.35. Monstername dieren ouder dan 18 dagen niet gevaccineerd
 
-Van dieren als bedoeld in [artikel 7b.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01), is al naar gelang de categorie waartoe zij behoren, de in respectievelijk [artikel 7b.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.31&z=2021-11-01&g=2021-11-01), [7b.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.32&z=2021-11-01&g=2021-11-01), [7b.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.33&z=2021-11-01&g=2021-11-01) en [7b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.34&z=2021-11-01&g=2021-11-01) opgenomen verplichting tot het nemen van bloedmonsters van overeenkomstige toepassing, met dien verstande dat het bloed wordt afgenomen in de periode van 3 tot 4 weken na de datum waarop de dieren zijn gevaccineerd.
+Van dieren als bedoeld in [artikel 7b.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01), is al naar gelang de categorie waartoe zij behoren, de in respectievelijk [artikel 7b.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.31&z=2022-05-05&g=2022-01-01), [7b.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.32&z=2022-05-05&g=2022-01-01), [7b.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.33&z=2022-05-05&g=2022-01-01) en [7b.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.34&z=2022-05-05&g=2022-01-01) opgenomen verplichting tot het nemen van bloedmonsters van overeenkomstige toepassing, met dien verstande dat het bloed wordt afgenomen in de periode van 3 tot 4 weken na de datum waarop de dieren zijn gevaccineerd.
 
 ##### Artikel 7b.36. Maatregelen te lage waarden vermeerderingsdier of leghen
 
-1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), blijkt dat de betreffende waarde, bedoeld in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 1, bij een koppel vermeerderingsdieren van de soort kip of kalkoen, of kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen niet wordt behaald, laat de exploitant de dieren terstond door een dierenarts vaccineren.
+1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), blijkt dat de betreffende waarde, bedoeld in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 1, bij een koppel vermeerderingsdieren van de soort kip of kalkoen, of kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen niet wordt behaald, laat de exploitant de dieren terstond door een dierenarts vaccineren.
 
-2. Binnen vier weken na vaccinatie, bedoeld in het eerste lid, worden de dieren, bedoeld in dat lid opnieuw onderzocht. [Artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01) in samenhang met [artikel 7b.31, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.31&z=2021-11-01&g=2021-11-01) of [7b.32, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.32&z=2021-11-01&g=2021-11-01), zijn van overeenkomstige toepassing.
+2. Binnen vier weken na vaccinatie, bedoeld in het eerste lid, worden de dieren, bedoeld in dat lid opnieuw onderzocht. [Artikel 7b.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01) in samenhang met [artikel 7b.31, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.31&z=2022-05-05&g=2022-01-01) of [7b.32, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.32&z=2022-05-05&g=2022-01-01), zijn van overeenkomstige toepassing.
 
-3. De houder stuurt uiterlijk twee weken na de vaccinatie een kopie van de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01), aan de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
+3. De houder stuurt uiterlijk twee weken na de vaccinatie een kopie van de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01), aan de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
 
 ##### Artikel 7b.37. Maatregelen te lage waarden vleeskuiken
 
-1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2, bij de eerstvolgende twee koppels vleeskuikens niet wordt behaald, maakt de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id) een plan van aanpak in overleg met een dierenarts en de Gezondheidsdienst voor dieren B.V..
+1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2, bij de eerstvolgende twee koppels vleeskuikens niet wordt behaald, maakt de exploitant, bedoeld in [artikel 2.76id, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76id) een plan van aanpak in overleg met een dierenarts en de Gezondheidsdienst voor dieren B.V..
 
-2. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), van de eerstvolgende zes koppels blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2, niet wordt behaald, herziet de exploitant het plan van aanpak in overleg met een dierenarts en de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
+2. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), van de eerstvolgende zes koppels blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2, niet wordt behaald, herziet de exploitant het plan van aanpak in overleg met een dierenarts en de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
 
 3. Het plan van aanpak, bedoeld in het tweede lid, wordt uitgevoerd bij ten minste de eerstvolgende zes koppels vleeskuikens die op het bedrijf worden gevaccineerd.
 
 4. Het plan van aanpak, bedoeld in het eerste en tweede lid, bevat in ieder geval:
 
-- a. een analyse van de dierenarts van de mogelijke oorzaken van het niet behalen van de waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2;
+- a. een analyse van de dierenarts van de mogelijke oorzaken van het niet behalen van de waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2;
 
-- b. maatregelen die erop zijn gericht om de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2, bij de volgende koppels te behalen;
+- b. maatregelen die erop zijn gericht om de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2, bij de volgende koppels te behalen;
 
 - c. de naam en handtekening van de exploitant;
 
-- d. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01);
+- d. het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01);
 
 - e. de datum van opstellen van het plan van aanpak.
 
@@ -3696,19 +3696,19 @@ Van dieren als bedoeld in [artikel 7b.28, derde lid](https://wetten.overheid.nl/
 
 ##### Artikel 7b.38. Maatregelen te lage waarden vleeskalkoenen
 
-1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2, bij een koppel vleeskalkoenen niet wordt behaald, laat de exploitant de eerstvolgende twee koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren.
+1. Indien uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2, bij een koppel vleeskalkoenen niet wordt behaald, laat de exploitant de eerstvolgende twee koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren.
 
-2. Wanneer uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2021-11-01&g=2021-11-01), onderdeel 2, bij een koppel vleeskalkoenen dat overeenkomstig het eerst lid gevaccineerd is, niet wordt behaald, laat de exploitant de eerstvolgende drie koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren.
+2. Wanneer uit het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), blijkt dat de betreffende waarde, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=12&z=2022-05-05&g=2022-01-01), onderdeel 2, bij een koppel vleeskalkoenen dat overeenkomstig het eerst lid gevaccineerd is, niet wordt behaald, laat de exploitant de eerstvolgende drie koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren.
 
-3. De exploitant stuurt uiterlijk twee weken na de vaccinatie een kopie van de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01), aan de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
+3. De exploitant stuurt uiterlijk twee weken na de vaccinatie een kopie van de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01), aan de instelling die op grond van [artikel 3.1 van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=3.1) is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
 
 ##### Artikel 7b.39. Administratie vaccinatie en monitoring Newcastle disease
 
-1. Een exploitant bewaart de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2021-11-01&g=2021-11-01), en de resultaten van het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2021-11-01&g=2021-11-01), tenminste drie jaar.
+1. Een exploitant bewaart de gegevens, bedoeld in [artikel 7b.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.28&z=2022-05-05&g=2022-01-01), en de resultaten van het onderzoek, bedoeld in [artikel 7b.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.29&z=2022-05-05&g=2022-01-01), tenminste drie jaar.
 
 2. Een exploitant die vermeerderingsdieren van de soort kip of kalkoen, kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen houdt, en deze dieren aan een andere exploitant overdraagt, doet deze exploitant een kopie van de gegevens, bedoeld het eerste lid, toekomen.
 
-3. Een exploitant bewaart het plan van aanpak, bedoeld in [artikel 7b.37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.37&z=2021-11-01&g=2021-11-01), gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.
+3. Een exploitant bewaart het plan van aanpak, bedoeld in [artikel 7b.37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.37&z=2022-05-05&g=2022-01-01), gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.
 
 #### § 7b.2.4. Monitoring zoönotische Salmonella
 
@@ -3716,7 +3716,7 @@ Van dieren als bedoeld in [artikel 7b.28, derde lid](https://wetten.overheid.nl/
 
 ##### Artikel 7b.40. Begripsbepalingen
 
-1. In [paragraaf 7b.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&z=2021-11-01&g=2021-11-01) wordt verstaan onder:
+1. In [paragraaf 7b.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&z=2022-05-05&g=2022-01-01) wordt verstaan onder:
 
 - a. **verordening (EG) nr. 1190/2012:** verordening (EU) nr. 1190/2012 van de Commissie van 12 december 2012 tot vaststelling van een doelstelling van de Unie voor het terugdringen van Salmonella enteritidis en Salmonella typhimurium bij koppels kalkoenen, als vastgesteld in [Verordening (EG) nr. 2160/2003](32003R2160) van het Europees Parlement en de Raad (PbEU 2012, L 340);
 
@@ -3746,7 +3746,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 ##### Artikel 7b.43. Monstername vermeerderingsdieren
 
-1. Een houder van kippen die worden opgefokt tot vermeerderingsdier laat die dieren overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2021-11-01&g=2021-11-01) bemonsteren:
+1. Een houder van kippen die worden opgefokt tot vermeerderingsdier laat die dieren overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2022-05-05&g=2022-01-01) bemonsteren:
 
 - a. in de eerste 3 levensdagen;
 
@@ -3770,7 +3770,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 ##### Artikel 7b.44. Monstername leghennen
 
-1. Een houder van kippen die worden opgefokt tot leghen laat die dieren overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2021-11-01&g=2021-11-01) bemonsteren:
+1. Een houder van kippen die worden opgefokt tot leghen laat die dieren overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2022-05-05&g=2022-01-01) bemonsteren:
 
 - a. in de eerste 3 levensdagen; en
 
@@ -3780,23 +3780,23 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 ##### Artikel 7b.45. Aanvullende monstername
 
-1. In aanvulling op punt 2.1, onderdeel a, van de bijlage bij verordening (EU) nr. 200/2012 laat de exploitant van een levensmiddelenbedrijf, bedoeld in die verordening, eendagskuikens overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2021-11-01&g=2021-11-01) bemonsteren bij de plaatsing van die dieren op het bedrijf en onderzoeken overeenkomstig de bijlage bij verordening (EU) nr. 200/2012.
+1. In aanvulling op punt 2.1, onderdeel a, van de bijlage bij verordening (EU) nr. 200/2012 laat de exploitant van een levensmiddelenbedrijf, bedoeld in die verordening, eendagskuikens overeenkomstig [artikel 7b.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.46&z=2022-05-05&g=2022-01-01) bemonsteren bij de plaatsing van die dieren op het bedrijf en onderzoeken overeenkomstig de bijlage bij verordening (EU) nr. 200/2012.
 
 2. In aanvulling op punt 2.1 van de bijlage bij verordening (EU) nr. 517/2011 laat de exploitant van een levensmiddelenbedrijf leghennen in de 3 weken voorafgaand aan het moment waarop die dieren worden geslacht overeenkomstig die bijlage bemonsteren en onderzoeken.
 
 ##### Artikel 7b.46. Wijze van monstername
 
-1. Bij de aanvoer van eendagskuikens als bedoeld in de [artikelen 7b.43, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.43&z=2021-11-01&g=2021-11-01), [7b.44, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.44&z=2021-11-01&g=2021-11-01), en [7b.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2021-11-01&g=2021-11-01), worden per vrachtwagen of aanhanger 40 mestmonsters genomen, waarbij de monsters verspreid over die vrachtwagen of aanhanger worden genomen uit de onderste kratten, containers of dozen.
+1. Bij de aanvoer van eendagskuikens als bedoeld in de [artikelen 7b.43, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.43&z=2022-05-05&g=2022-01-01), [7b.44, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.44&z=2022-05-05&g=2022-01-01), en [7b.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2022-05-05&g=2022-01-01), worden per vrachtwagen of aanhanger 40 mestmonsters genomen, waarbij de monsters verspreid over die vrachtwagen of aanhanger worden genomen uit de onderste kratten, containers of dozen.
 
 2. De houder van eendagskuikens, bedoeld in het eerste lid, voegt de monsters, bedoeld in het eerste lid, samen tot een verzamelmonster.
 
-3. De houder van kippen als bedoeld in de [artikel 7b.43, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.43&z=2021-11-01&g=2021-11-01), neemt per koppel verspreid over de stal:
+3. De houder van kippen als bedoeld in de [artikel 7b.43, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.43&z=2022-05-05&g=2022-01-01), neemt per koppel verspreid over de stal:
 
 - a. 150 monsters van blindedarmmest, dan wel, voor zover dat niet of onvoldoende aanwezig is, mest van de cloaca, en voegt steeds 25 van die monsters samen tot een verzamelmonster; of
 
 - b. 5 monsters overeenkomstig punt 2.2.2.1, onderdeel b, eerste drie alinea’s en onder i, van de bijlage bij verordening (EU) nr. 200/2010.
 
-4. De houder van kippen als bedoeld in [artikel 7b.44, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.44&z=2021-11-01&g=2021-11-01), neemt per koppel verspreid over de stal 2 monsters overeenkomstig punt 2.2.1 van de bijlage bij verordening (EU) nr. 517/2011 en laat die monsters door een laboratorium als bedoeld in [artikel 7b.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2021-11-01&g=2021-11-01), samenvoegen tot een verzamelmonster.
+4. De houder van kippen als bedoeld in [artikel 7b.44, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.44&z=2022-05-05&g=2022-01-01), neemt per koppel verspreid over de stal 2 monsters overeenkomstig punt 2.2.1 van de bijlage bij verordening (EU) nr. 517/2011 en laat die monsters door een laboratorium als bedoeld in [artikel 7b.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2022-05-05&g=2022-01-01), samenvoegen tot een verzamelmonster.
 
 ##### Artikel 7b.47. Onderzoek
 
@@ -3812,7 +3812,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 - 2°. adres;
 
-- 3°. het unieke registratienummer, bedoeld in artikel 93, slot, van verordening (EU) nr. 2016/429, het unieke erkenningsnummer, bedoeld in artikel 2, onderdeel 16, van verordening (EU) nr. 2019/2035, dan wel het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01), van de Regeling houders van dieren;
+- 3°. het unieke registratienummer, bedoeld in artikel 93, slot, van verordening (EU) nr. 2016/429, het unieke erkenningsnummer, bedoeld in artikel 2, onderdeel 16, van verordening (EU) nr. 2019/2035, dan wel het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01), van de Regeling houders van dieren;
 
 - b. gegevens ter identificatie van degene die het monster heeft genomen en ter identificatie van de dieren die zijn bemonsterd;
 
@@ -3828,7 +3828,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 - a. de bijlage, punt 2.1, onder a, bij verordening (EU) nr. 200/2012, laat de bemonstering, bedoeld in punt 2 van die bijlage uitvoeren door een dierenarts of een dierenartsassistent paraveterinair;
 
-- b. [artikel 7b.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2021-11-01&g=2021-11-01), laat de bemonstering, bedoeld in dat artikellid, uitvoeren door een dierenarts of een dierenartsassistent paraveterinair.
+- b. [artikel 7b.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.4&sub-paragraaf=7b.2.4.3&artikel=7b.45&z=2022-05-05&g=2022-01-01), laat de bemonstering, bedoeld in dat artikellid, uitvoeren door een dierenarts of een dierenartsassistent paraveterinair.
 
 2. De exploitant van een levensmiddelenbedrijf als bedoeld in het eerste lid, onder a, laat de monsters, bedoeld in het eerste lid, onder a, onderzoeken op de aanwezigheid van:
 
@@ -3854,7 +3854,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 2. De houder verstrekt bij de registratie, bedoeld in het eerste lid, in ieder geval de volgende gegevens:
 
-- a. bedoeld in artikel 93, slot, van verordening (EU) nr. 2016/429, het unieke erkenningsnummer, bedoeld in artikel 2, onderdeel 16, van verordening (EU) nr. 2019/2035, dan wel het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2021-11-01&g=2021-11-01);
+- a. bedoeld in artikel 93, slot, van verordening (EU) nr. 2016/429, het unieke erkenningsnummer, bedoeld in artikel 2, onderdeel 16, van verordening (EU) nr. 2019/2035, dan wel het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5a&artikel=5a.1&z=2022-05-05&g=2022-01-01);
 
 - b. laboratoriumcode, datum, tijdstip en aanduiding van de uitslag;
 
@@ -3880,7 +3880,7 @@ Deze paragraaf is niet van toepassing, indien de minister op het moment van bemo
 
 - b. een groep houders van schapen, verenigd in een organisatie met rechtspersoonlijkheid, die zich in ieder geval ten doel stelt het fokken gericht op het terugdringen van de TSE-gevoeligheid bij schapen en die niet is aangesloten bij een stamboekvereniging als bedoeld in onderdeel a.
 
-2. De minister verleent op aanvraag een erkenning als bedoeld in de aanhef van het eerste lid, indien het fokprogramma voldoet aan bijlage VII, hoofdstuk C, delen 1 en 2, van [verordening (EG) nr. 999/2001](32001R0999) en aan [artikel 7c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.2&z=2021-11-01&g=2021-11-01).
+2. De minister verleent op aanvraag een erkenning als bedoeld in de aanhef van het eerste lid, indien het fokprogramma voldoet aan bijlage VII, hoofdstuk C, delen 1 en 2, van [verordening (EG) nr. 999/2001](32001R0999) en aan [artikel 7c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.2&z=2022-05-05&g=2022-01-01).
 
 3. Een aanvraag als bedoeld in het tweede lid wordt voor 1 juni van het betreffende jaar ingediend, waarbij in ieder geval de volgende gegevens worden vermeld:
 
@@ -3910,11 +3910,11 @@ Het certificatiesysteem, bedoeld in bijlage VII, hoofdstuk C, deel 1, punt 3, bi
 
 ##### Artikel 7c.4. Intrekken erkenning
 
-Indien niet langer wordt voldaan aan de voorwaarden, bedoeld in [artikel 7c.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.1&z=2021-11-01&g=2021-11-01) respectievelijk [artikel 7c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.3&z=2021-11-01&g=2021-11-01), trekt de minister een erkenning als bedoeld in die artikelen in.
+Indien niet langer wordt voldaan aan de voorwaarden, bedoeld in [artikel 7c.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.1&z=2022-05-05&g=2022-01-01) respectievelijk [artikel 7c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.3&z=2022-05-05&g=2022-01-01), trekt de minister een erkenning als bedoeld in die artikelen in.
 
 ##### Artikel 7c.5. Gegevens fokprogramma
 
-Een stamboekvereniging en een groep houders van schapen als bedoeld in [artikel 7c.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.1&z=2021-11-01&g=2021-11-01), rapporteren jaarlijks voor 1 februari aan de minister over:
+Een stamboekvereniging en een groep houders van schapen als bedoeld in [artikel 7c.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7c&paragraaf=7c.1&artikel=7c.1&z=2022-05-05&g=2022-01-01), rapporteren jaarlijks voor 1 februari aan de minister over:
 
 - a. de resultaten van de genotyperingen, waarbij onderscheid wordt gemaakt tussen rammen en ooien, en tussen dieren die de leeftijd van 1 jaar nog niet hebben bereikt en dieren die 1 jaar of ouder zijn;
 
@@ -3968,7 +3968,7 @@ De houder van de runderen, schapen of geiten die worden aangevoerd op of afgevoe
 
 - c. papegaaiachtigen voldoen aan de voorschriften, bedoeld in artikel 59, tweede lid, onderdelen b tot en met d, van verordening (EU) nr. 2020/688.
 
-2. De vogels, bedoeld in het eerste lid, onderdelen a en b, gaan vergezeld van een verklaring van de vaccinatie overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=13&z=2021-11-01&g=2021-11-01) voor zover het postduiven betreft of [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=14&z=2021-11-01&g=2021-11-01) voor zover het andere in gevangenschap levende vogels betreft.
+2. De vogels, bedoeld in het eerste lid, onderdelen a en b, gaan vergezeld van een verklaring van de vaccinatie overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=13&z=2022-05-05&g=2022-01-01) voor zover het postduiven betreft of [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=14&z=2022-05-05&g=2022-01-01) voor zover het andere in gevangenschap levende vogels betreft.
 
 ##### Artikel 8a.6. Gegevens tentoonstelling, keuring of wedvlucht
 
@@ -4044,7 +4044,7 @@ In dit hoofdstuk verstaan onder:
 
 ##### Artikel 8b.5. Schorsing van erkenning
 
-1. De minister kan een erkenning als bedoeld in [artikel 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2021-11-01&g=2021-11-01) schorsen voor een door hem te bepalen termijn indien een uitgever niet voldoet aan één of meer voorschriften als bedoeld in de [artikelen 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2021-11-01&g=2021-11-01), [8b.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.4&z=2021-11-01&g=2021-11-01), [8b.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.8&z=2021-11-01&g=2021-11-01) en aan [artikel 1.14, onderdeel i, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.14).
+1. De minister kan een erkenning als bedoeld in [artikel 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2022-05-05&g=2022-01-01) schorsen voor een door hem te bepalen termijn indien een uitgever niet voldoet aan één of meer voorschriften als bedoeld in de [artikelen 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2022-05-05&g=2022-01-01), [8b.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.4&z=2022-05-05&g=2022-01-01), [8b.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.8&z=2022-05-05&g=2022-01-01) en aan [artikel 1.14, onderdeel i, van de Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&artikel=1.14).
 
 2. De uitgever wiens erkenning door de minister is geschorst verschaft de minister onverwijld een overzicht van:
 
@@ -4052,7 +4052,7 @@ In dit hoofdstuk verstaan onder:
 
 - b. de blanco identificatiedocumenten die de uitgever reeds heeft geproduceerd of laten produceren, en nog niet heeft uitgegeven aan gemachtigde dierenartsen, onder vermelding van de unieke alfanumerieke code van de blanco identificatiedocumenten.
 
-3. De minister kan een erkenning als bedoeld in [artikel 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2021-11-01&g=2021-11-01), intrekken indien de uitgever tijdens de schorsingstermijn niet voldoet aan de voorschriften, bedoeld in het tweede lid, of na afloop van de schorsingstermijn niet heeft aangetoond dat hij voldoet aan de voorschriften, bedoeld in het eerste lid.
+3. De minister kan een erkenning als bedoeld in [artikel 8b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2022-05-05&g=2022-01-01), intrekken indien de uitgever tijdens de schorsingstermijn niet voldoet aan de voorschriften, bedoeld in het tweede lid, of na afloop van de schorsingstermijn niet heeft aangetoond dat hij voldoet aan de voorschriften, bedoeld in het eerste lid.
 
 4. De uitgever wiens erkenning door de minister is ingetrokken verstrekt de blanco identificatiedocumenten, bedoeld in het tweede lid, onderdeel b, onverwijld aan de minister.
 
@@ -4072,13 +4072,13 @@ In dit hoofdstuk verstaan onder:
 
 2. Het verbod, bedoeld in het eerste lid, geldt niet voor:
 
-- a. gemachtigde dierenartsen als bedoeld in [artikel 8b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.2&artikel=8b.2&z=2021-11-01&g=2021-11-01); en
+- a. gemachtigde dierenartsen als bedoeld in [artikel 8b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.2&artikel=8b.2&z=2022-05-05&g=2022-01-01); en
 
-- b. erkende uitgevers als bedoeld in [artikel 8b.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2021-11-01&g=2021-11-01).
+- b. erkende uitgevers als bedoeld in [artikel 8b.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.3&artikel=8b.3&z=2022-05-05&g=2022-01-01).
 
 ##### Artikel 8b.8. Verstrekking van blanco identificatiedocumenten
 
-1. Het is verboden blanco identificatiedocumenten te verstrekken aan anderen dan gemachtigde dierenartsen als bedoeld in [artikel 8b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.2&artikel=8b.2&z=2021-11-01&g=2021-11-01).
+1. Het is verboden blanco identificatiedocumenten te verstrekken aan anderen dan gemachtigde dierenartsen als bedoeld in [artikel 8b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8b&paragraaf=8b.2&artikel=8b.2&z=2022-05-05&g=2022-01-01).
 
 2. Indien een gemachtigde dierenarts een blanco identificatiedocument verstrekt aan een andere gemachtigde dierenarts, houdt de verstrekkende gemachtigde dierenarts een administratie bij met de naam en contactgegevens van de ontvangende gemachtigde dierenarts onder vermelding van de unieke alfanumerieke code van het verstrekte identificatiedocument.
 
@@ -4096,7 +4096,7 @@ Het is verboden in strijd te handelen met artikel 4 van uitvoeringsbesluit (EU) 
 
 ### Hoofdstuk 9. Overige bepalingen
 
-### Hoofdstuk 10. Wijziging en intrekking van regelingen
+### Hoofdstuk 8b. Niet-commerciële verkeer van honden, katten en fretten
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -4697,50 +4697,7 @@ Ondergetekende dierenarts verklaart dat bovengenoemde duiven volgens bijsluiter 
 
 **Naam, stempel en handtekening van de bevoegde dierenarts**
 
-## Bijlage 14. verklaring van vaccinatie andere in gevangenschap levende vogels tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2021-07-08&g=2021-07-08)
-
-De volgende persoon:
-
-Naam en voorletters:
-
-Wondende te: (adres, postcode, plaats):
-
-verklaart dat hij/zij eigenaar/houder is van de volgende vogels:
-
-| **Ras/soort** | **Aantal** | **Ringnummers** |
-| --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-**Datum:**
-
-**Handtekening:**
-
-Ondergetekende persoon... (naam, voorletters), wondende te... (adres, postcode en plaats), verklaart dat:
-
-- •. hij/zij bekwaam is om de vaccinatie uit te voeren.
-
-- •. Hij/zij de bovenomschreven vogels, voor zover ouder dan 30 dagen, volgens de bijsluiter, tegen pseudeo-vogelpest heeft gevaccineerd.
-
-| Entstof |   |
-| --- | --- |
-| Batch nummer |   |
-| Vervaldatum vaccin |   |
-
-**Datum: ......**
-
-**Handtekening: .....**
+## Bijlage 1. Aangewezen diersoorten en diercategorieën als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2022-05-05&g=2022-01-01) van de Regeling houders van dieren
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -4960,7 +4917,7 @@ Bij een hond wordt een injecteerbare transponder onderhuids aan de linkerzijde v
 
 ##### Artikel 5b.73b. Identificatiedocument kat en fret
 
-[Artikel 5b.73a, vierde lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.5&paragraaf=5b.5.6&artikel=5b.73a&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing op het afgeven van een identificatiedocument voor een kat of een fret.
+[Artikel 5b.73a, vierde lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.5&paragraaf=5b.5.6&artikel=5b.73a&z=2022-05-05&g=2022-01-01), is van overeenkomstige toepassing op het afgeven van een identificatiedocument voor een kat of een fret.
 
 ### Afdeling 5b.6. Overige bepalingen
 
@@ -5002,7 +4959,7 @@ Bij een hond wordt een injecteerbare transponder onderhuids aan de linkerzijde v
 
 #### § 7c.1. Gezondheidsvoorschriften
 
-### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
+### Hoofdstuk 7d. Voorschriften biologische productie aquacultuur en weekdieren
 
 ### Hoofdstuk 8a. Het houden en bijeenbrengen van evenhoevigen, pluimvee of in gevangenschap levende vogels voor vertoning
 
@@ -5026,15 +4983,309 @@ Bij een hond wordt een injecteerbare transponder onderhuids aan de linkerzijde v
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage 1. Aangewezen diersoorten en diercategorieën als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2021-11-01&g=2021-11-01) van de Regeling houders van dieren
+## Bijlage 1. Aangewezen diersoorten en diercategorieën als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2021-11-01&g=2022-01-01) van de Regeling houders van dieren
 
 ### Positieflijst huisdierenlijst
 
 Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) die gehouden kunnen worden zonder toepassing van soortspecifieke houderijvoorschriften.
 
-### Tabel 2
+### Tabel 1
 
 Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), die gehouden kunnen worden met toepassing van soortspecifieke houderijvoorschriften.
+
+## Bijlage 2
+
+Vrijstellingen als bedoeld in artikel 2.3
+
+| Categorie vrijgestelde houder | Soorten waarvoor vrijstelling geldt |
+| --- | --- |
+| a. houders van zoogdieren | De zoogdiersoorten of zoogdiercategorieën die zijn opgenomen in tabel 4 |
+| b. houders van zoogdieren | De zoogdiersoorten of zoogdiercategorieën die niet zijn opgenomen in tabel 4, mits de houder bij de minister binnen veertien dagen melding doet van het houden van het dier. De melding wordt ingediend met gebruikmaking van het daarvoor bestemde formulier en bevat ten minste het volgende: a. het burgerservicenummer van de houder dan wel het inschrijvingsnummer in het handelsregister indien de houder een onderneming is; b. de diersoort of diercategorie waarvoor de melding wordt gedaan. |
+| c. exploitanten van dierentuinen | alle zoogdiersoorten |
+| d. opvangcentra, die voldoen aan het Protocol opvang verboden diersoorten, bedreigde uitheemse diersoorten en bedreigde inheemse diersoorten: | zoogdieren van soorten ten aanzien waarvan het besluit is genomen dat zij niet worden aangewezen of waarvan de aanwijzing is ingetrokken en zoogdieren van soorten als bedoeld in [bijlage IIa bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IIa) |
+| e. houders van een instellings-vergunning als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2) en [11a van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a) | proefdieren |
+| f. degene die een of meer exemplaren zoogdiersoorten vervoert van of naar een Nederlandse zee- of luchthaven, met inbegrip van een daarmee verband houdend verblijf in Nederland van ten hoogste 4 werkdagen | alle zoogdiersoorten |
+| g. dierenartsen in de uitoefening van hun praktijk, ten behoeve van diergeneeskundige behandeling | alle zoogdiersoorten |
+
+Diersoorten die niet worden aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2)
+
+Vervallen.
+
+| Geslacht | Ondergeslacht | Soort | Nederlands |
+| --- | --- | --- | --- |
+| Echinops |   | telfairi | Kleine egeltenrek |
+| Hemicentetes |   | nigriceps | Zwartkoptenrek |
+| Hemicentetes |   | semispinosus | Gestreepte tenrek |
+| Setifer |   | setosus | Grote egeltenrek |
+| Tenrec |   | ecaudatus | Gewone tenrek |
+| Antilocapra |   | americana | Gaffelbok |
+| Neotragus |   | pygmaeus | Dwergantilope |
+| Alcelaphus |   | buselaphus | Hartenbeest |
+| Connochaetes |   | gnou | Witstaartgnoe |
+| Damaliscus |   | lunatus | Lierantilope |
+| Aepyceros |   | melampus | Impala |
+| Antidorcas |   | marsupialis | Springbok |
+| Antilope |   | cervicapra | Indische antilope |
+| Gazella |   | subgutturosa | Kropgazelle |
+| Nanger |   | granti | Grantgazelle |
+| Nanger |   | soemmerringii | Soemerringgazelle |
+| Ourebia |   | ourebi | Oribi |
+| Procapra |   | picticaudata | Tibetaanse gazelle |
+| Saiga |   | tatarica | Saiga |
+| Bison |   | bison | Bizon |
+| Bison |   | bonasus | Wisent |
+| Bos |   | grunniens | Jak (domestic form) |
+| Syncerus |   | caffer | Afrikaanse buffel |
+| Boselaphus |   | tragocamelus | Nijlgau |
+| Taurotragus |   | derbianus | Reuzenelandantilope |
+| Taurotragus |   | oryx | Elandantilope |
+| Tetracerus |   | quadricornis | Vierhoornantilope |
+| Tragelaphus |   | angasii | Nyala |
+| Tragelaphus |   | buxtoni | Bergnyala |
+| Tragelaphus |   | eurycerus | Bongo |
+| Tragelaphus |   | imberbis | Kleine koedoe |
+| Tragelaphus |   | scriptus | Bosbok |
+| Tragelaphus |   | spekii | Sitatoenga |
+| Tragelaphus |   | strepsiceros | Grote koedoe |
+| Ammotragus |   | lervia | Manenschaap |
+| Capra |   | falconeri | Schroefhoorngeit |
+| Capra |   | ibex | Steenbok |
+| Capra |   | nubiana | Nubische steenbok |
+| Capra |   | pyrenaica | Spaanse steenbok |
+| Capra |   | sibirica | Siberische steenbok |
+| Capricornis |   | crispus | Japanse bosgems |
+| Capricornis |   | sumatraensis | Sumatraanse bosgems |
+| Hemitragus |   | jemlahicus | Himalayathargeit |
+| Ovis |   | ammon | Wild schaap |
+| Ovis |   | canadensis | Dikhoornschaap |
+| Ovis |   | dalli | Dalls schaap |
+| Pantholops |   | hodgsonii | Tibetaanse antilope |
+| Pseudois |   | nayaur | Blauwschaap |
+| Rupicapra |   | rupicapra | Gems |
+| Addax |   | nasomaculatus | Addax |
+| Hippotragus |   | equinus | Roanantilope |
+| Hippotragus |   | niger | Sabelantilope |
+| Oryx |   | beisa | Beisa |
+| Oryx |   | dammah | Algazel |
+| Oryx |   | gazella | Gemsbok |
+| Oryx |   | leucoryx | Arabische oryx |
+| Kobus |   | ellipsiprymnus | Waterbok |
+| Redunca |   | fulvorufula | Bergrietbok |
+| Redunca |   | redunca | Bohorrietbok |
+| Camelus |   | bactrianus | Kameel |
+| Camelus |   | dromedarius | Dromedaris |
+| Lama |   | glama | Lama |
+| Vicugna |   | pacos | Alpaca |
+| Vicugna |   | vicugna | Vicuña |
+| Alces |   | americanus | Amerikaanse eland |
+| Blastocerus |   | dichotomus | Moerashert |
+| Capreolus |   | capreolus | Ree |
+| Odocoileus |   | hemionus | Muildierhert |
+| Odocoileus |   | virginianus | Witstaarthert |
+| Rangifer |   | tarandus | Rendier |
+| Axis |   | axis | Axishert |
+| Cervus |   | nippon | Sikahert |
+| Elaphodus |   | cephalophus | Kuifhert |
+| Elaphurus |   | davidianus | Pater-Davidshert |
+| Muntiacus |   | muntjak | Indische muntjak |
+| Hydropotes |   | inermis | Chinese waterree |
+| Hylochoerus |   | meinertzhageni | Reuzenboszwijn |
+| Phacochoerus |   | aethiopicus | Woestijnknobbelzwijn |
+| Potamochoerus |   | porcus | Penseelzwijn |
+| Sus |   | scrofa | Wild zwijn |
+| Canis |   | adustus | Gestreepte jakhals |
+| Canis |   | aureus | Gewone jakhals |
+| Canis |   | mesomelas | Zadeljakhals |
+| Nyctereutes |   | procyonoides | Wasbeerhond |
+| Otocyon |   | megalotis | Grootoorvos |
+| Vulpes |   | corsac | Steppevos |
+| Vulpes |   | lagopus | Poolvos |
+| Vulpes |   | rueppellii | Zandvos |
+| Vulpes |   | vulpes | Vos |
+| Vulpes |   | zerda | Woestijnvos |
+| Felis |   | chaus | Moeraskat |
+| Felis |   | margarita | Woestijnkat |
+| Leptailurus |   | serval | Serval |
+| Crossarchus |   | obscurus | Koesimanse |
+| Cynictis |   | penicillata | Vosmangoest |
+| Helogale |   | parvula | Dwergmangoest |
+| Mungos |   | mungo | Zebramangoeste |
+| Suricata |   | suricatta | Stokstaartje |
+| Mephitis |   | mephitis | Gestreepte skunk |
+| Aonyx |   | cinerea | Kleinklauwotter |
+| Eira |   | barbara | Tayra |
+| Galictis |   | vittata | Grote grison |
+| Nasua |   | nasua | Rode neusbeer |
+| Potos |   | flavus | Rolstaartbeer |
+| Procyon |   | lotor | Wasbeer |
+| Ursus |   | arctos | Bruine beer |
+| Arctictis |   | binturong | Beermarter |
+| Paradoxurus |   | hermaphroditus | Loewak |
+| Civettictis |   | civetta | Afrikaanse civetkat |
+| Genetta |   | genetta | Genetkat |
+| Genetta |   | maculata | Roestgenet |
+| Genetta |   | pardina | Pardin's genetkat |
+| Genetta |   | thierryi | Hausagenet |
+| Genetta |   | tigrina | Tijgergenet |
+| Viverra |   | zibetha | Indische civetkat |
+| Carollia |   | perspicillata | Brilbladneusvleermuis |
+| Eidolon |   | helvum | Palmvleerhond |
+| Hypsignathus |   | monstrosus | Hamerkopvleerhond |
+| Pteropus |   | vampyrus | Kalong |
+| Rousettus | Rousettus | aegyptiacus | Nijlroezet |
+| Dasypus |   | novemcinctus | Negenbandgordeldier |
+| Chaetophractus |   | vellerosus | Klein behaard gordeldier |
+| Chaetophractus |   | villosus | Bruinbehaard gordeldier |
+| Euphractus |   | sexcinctus | Zesbandgordeldier |
+| Tolypeutes |   | matacus | Kogelgordeldier |
+| Didelphis |   | albiventris | Zuidamerikaanse opossum |
+| Monodelphis |   | domestica | Kortstaartopossum |
+| Macropus | Macropus | fuliginosus | Westelijke grijze reuzenkangoeroe |
+| Macropus | Macropus | giganteus | Oostelijke grijze reuzenkangoeroe |
+| Macropus | Notamacropus | agilis | Zandwallabie |
+| Macropus | Notamacropus | eugenii | Tammarwallabie |
+| Macropus | Notamacropus | parma | Parmawallabie |
+| Macropus | Notamacropus | rufogriseus | Bennettwallabie |
+| Macropus | Osphranter | robustus | Bergkangoeroe |
+| Macropus | Osphranter | rufus | Rode reuzenkangoeroe |
+| Thylogale |   | thetis | Roodhalspademelon |
+| Wallabia |   | bicolor | Moeraswallabie |
+| Dactylopsila |   | trivirgata | Gestreepte buideleekhoorn |
+| Petaurus |   | breviceps | Suikereekhoorn |
+| Ailurops |   | ursinus | Beer koeskoes |
+| Bettongia |   | lesueur | Lesueurborstelstaartkangoeroerat |
+| Bettongia |   | penicillata | Borstelstaartkangoeroerat |
+| Atelerix |   | albiventris | Witbuikegel |
+| Atelerix |   | frontalis | Zuid-Afrikaanse egel |
+| Atelerix |   | sclateri | Somalische egel |
+| Hemiechinus |   | auritus | Grootooregel |
+| Procavia |   | capensis | Rotsklipdas |
+| Lepus | Eulagos | europaeus | Europese haas |
+| Lepus | Lepus | timidus | Sneeuwhaas |
+| Equus |   | burchellii | Steppezebra |
+| Equus |   | hemionus | Onager |
+| Equus |   | kiang | Kiang |
+| Tapirus |   | terrestris | Laaglandtapir |
+| Bradypus |   | tridactylus | Drievingerige luiaard |
+| Choloepus |   | didactylus | Tweevingerige luiaard |
+| Calomyscus |   | bailwardi | Turkmeense muishamster |
+| Cavia |   | aperea | Wilde cavia |
+| Cavia |   | magna | Moerascavia |
+| Dolichotis |   | patagonum | Mara |
+| Dolichotis |   | salinicola | Kleine mara |
+| Hydrochoeris |   | hydrochaeris | Capybara |
+| Kerodon |   | rupestris | Rotsmoko |
+| Chinchilla |   | lanigera | Chinchilla |
+| Lagurus |   | lagurus | Steppelemming |
+| Lasiopodomys |   | brandtii | Steppewoelmuis |
+| Microtus | Alexandromys | fortis | Chinese woelmuis |
+| Microtus | Microtus | arvalis | Veldmuis |
+| Microtus | Microtus | guentheri | Mediterrane woelmuis |
+| Synaptomys | Mictomys | borealis | Moeras lemming |
+| Cricetulus |   | barabensis | Chinese dwerghamster |
+| Phloeomys |   | pallidus | Nevelrat |
+| Phodopus |   | campbelli | Campbells dwerghamster |
+| Phodopus |   | roborovskii | Woestijndwerghamster |
+| Phodopus |   | sungorus | Russische dwerghamster |
+| Peromyscus |   | eremicus | Cactusmuis |
+| Peromyscus |   | leucopus | Witvoetmuis |
+| Peromyscus |   | polionotus | Strandmuis |
+| Sigmodon | Sigmodon | hispidus | Katoenrat |
+| Dasyprocta |   | azarae | Azara’s agoeti |
+| Dasyprocta |   | leporina | Goudhaas |
+| Dasyprocta |   | prymnolopha | Zwartrugagoeti |
+| Dasyprocta |   | punctata | Midden-Amerikaanse agoeti |
+| Allactaga | Orientallactaga | sibirica | Siberische paardenspringmuis |
+| Allactaga | Scarturus | tetradactyla | Vierteenrenmuis |
+| Jaculus |   | jaculus | Kleine woestijnspringmuis |
+| Jaculus |   | orientalis | Reuzenwoestijnspringmuis |
+| Glis |   | glis | Relmuis |
+| Graphiurus | Graphiurus | murinus | Afrikaanse dwergrelmuis |
+| Eliomys |   | melanurus | Woestijnslaapmuis |
+| Hystrix | Hystrix | cristata | Gewoon stekelvarken |
+| Hystrix | Hystrix | indica | Witstaartstekelvarken |
+| Acomys | Acomys | cahirinus | Egyptische stekelmuis |
+| Acomys | Acomys | dimidiatus | Sinaïstekelmuis |
+| Acomys | Acomys | russatus | Gouden stekelmuis |
+| Acomys | Acomys | spinosissimus | Dwergstekelmuis |
+| Dipodillus | Petteromys | dasyurus | Wagnersgerbil |
+| Gerbillus | Gerbillus | cheesmani | Cheesman's gerbil |
+| Gerbillus | Gerbillus | gerbillus | Kleine Egyptische renmuis |
+| Gerbillus | Gerbillus | perpallidus | Bleke gerbil |
+| Gerbillus | Gerbillus | pyramidum | Grote Egyptische renmuis |
+| Gerbillus | Hendecapleura | nanus | Algerijnse gerbil |
+| Meriones | Pallasiomys | crassus | Sundevalls gerbil |
+| Meriones | Pallasiomys | shawi | Shawi gerbil |
+| Meriones | Pallasiomys | tristrami | Tristam’s gerbil |
+| Meriones | Parameriones | persicus | Perzische woestijnmuis |
+| Pachyuromys |   | duprasi | Vetstaartgerbil |
+| Psammomys |   | obesus | Vette zandrat |
+| Sekeetamys |   | calurus | Pluimstaartgerbil |
+| Taterillus |   | harringtoni | Harrington’s gerbil |
+| Apodemus |   | sylvaticus | Bosmuis |
+| Arvicanthis |   | neumanni | Tanzaniaanse grasrat |
+| Arvicanthis |   | niloticus | Koesoegrasrat |
+| Lemniscomys |   | barbarus | Zebragrasmuis |
+| Lemniscomys |   | striatus | Gestreepte grasmuis |
+| Mastomys |   | natalensis | Veeltepelmuis |
+| Micromys |   | minutus | Europese dwergmuis |
+| Mus | Nannomys | minutoides | Afrikaanse dwergmuis |
+| Rattus |   | rattus | Zwarte rat |
+| Rhabdomys |   | pumilio | Streepmuis |
+| Thallomys |   | paedulcus | Acacia rat |
+| Myocastor |   | coypus | Beverrat |
+| Cricetomys |   | gambianus | Gambiahamsterrat |
+| Octodon |   | degus | Degoe |
+| Spalacopus |   | cyanus | Koeroero |
+| Pedetes |   | capensis | Springhaas |
+| Callosciurus |   | finlaysonii | Finlaysonklappereekhoorn |
+| Callosciurus |   | notatus | Zwartneusklappereekhoorn |
+| Callosciurus |   | prevostii | Driekleureekhoorn |
+| Dremomys |   | pernyi | Perny eekhoorn |
+| Funambulus | Prasadsciurus | pennantii | Vijfstrepige palmeekhoorn |
+| Tamiops |   | swinhoei | Chinese gestreepte boomeekhoorn |
+| Tamiops |   | mcclellandii | Thaise dwergstreepeekhoorn |
+| Sciurus | Sciurus | lis | Japanse eekhoorn |
+| Sciurus | Sciurus | variegatoides | Grote gevlekte boomeekhoorn |
+| Sciurus | Urosciurus | igniventris | Peruaanse witnekeekhoorn |
+| Tamiasciurus |   | hudsonicus | Hudson eekhoorn |
+| Cynomys | Cynomys | ludovicianus | Zwartstaartprairiehond |
+| Cynomys | Leucocrossuromys | parvidens | Utahprairiehond |
+| Marmota | Marmota | marmota | Alpenmarmot |
+| Sciurotamias | Sciurotamias | davidianus | Chinese rotseekhoorn |
+| Spermophilus | Otospermophilus | variegatus | Amerikaanse rotseekhoorn |
+| Spermophilus | Spermophilus | richardsonii | Richardsongrondeekhoorn |
+| Tamias | Eutamias | sibiricus | Boeroendoek |
+| Tamias | Tamias | striatus | Chipmunk |
+| Tupaia |   | belangeri | Belangers toepaja |
+| Tupaia |   | glis | Gewone toepaja |
+| Suncus |   | murinus | Muskusspitsmuis |
+
+## Bijlage 3. Protocol voor de visuele monitoring van voetzoollaesies aan vleeskuikens in het slachthuis als bedoeld in artikel 6.5, derde lid, onderdeel a, van de Regeling houders van dieren
+
+- 1. Deze monitoring wordt uitgevoerd in het slachthuis waar het koppel vleeskuikens of het grootste deel ervan wordt geslacht.
+
+- 2. De monitoring wordt uitgevoerd door hiervoor opgeleide slachthuismedewerkers, onder toezicht van de minister.
+
+- 3. 100 vleeskuikens per koppel (per stal) worden beoordeeld, waarvan 50 kuikens rond de verwerking van 30% van het koppel, en 50 kuikens rond de verwerking van 60% van het koppel.
+
+- 4. Alleen de rechter poot van elk vleeskuiken van de steekproeven wordt beoordeeld. Hiervoor worden de te monitoren poten van de slachtlijn gehaald en verzameld.
+
+- 5. De medewerker baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart en stelt de totaalscore voor het koppel vast met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0,5 + (aantal dieren klasse 2)x2
+
+- 6. Deze gegevens worden door het slachthuis geregistreerd en doorgegeven aan de houder.
+
+## Bijlage 4. Protocol voor de monitoring van voetzoollaesies aan vleeskuikens in het slachthuis met behulp van een digitaal meetsysteem als bedoeld in artikel 6.5, derde lid, onderdeel a, subonderdeel 2°, van de Regeling houders van dieren
+
+- 1. In het slachthuis is een rapport aanwezig van een onafhankelijke kennisinstelling of instantie, waaruit blijkt dat het digitale meetsysteem zodanig werkt dat de scores een score oplevert die vergelijkbaar is met de score van een visuele beoordeling die aan de hand van de scorekaart is uitgevoerd. In het rapport is een beschrijving door de kennisinstelling of de instantie opgenomen van de wijze waarop dit is vastgesteld.
+
+- 2. Het camerasysteem meet ten minste 70% van de poten van elk koppel.
+
+- 3. De percentages per klasse en de eindscores worden minimaal 1 keer per werkdag door het systeem opgeleverd, door het slachthuis verwerkt en aan de pluimveeveehouder doorgegeven.
+
+- 4. Het slachthuis treft maatregelen om het digitale meetsysteem en de daarbij gebruikte software te beschermen tegen willekeurige wijzigingen.
+
+- 5. Het slachthuis zorgt ervoor dat het systeem zodanig wordt onderhouden dat het goed blijft functioneren. Indien het systeem gebreken of defecten vertoont meldt het slachthuis dit aan de leverancier of de fabrikant en de betrokken pluimveehouders.
 
 ## Bijlage 2
 
@@ -5350,9 +5601,9 @@ Vervallen.
 
 - 9. Deze wordt berekend met onderstaande formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0.5 + (aantal dieren klasse 2)x2
 
-## Bijlage 6. als bedoeld in de [artikelen 5b.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2021-11-01&g=2021-11-01), en [5b.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2021-11-01&g=2021-11-01)
+## Bijlage 6. als bedoeld in de [artikelen 5b.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.31&z=2022-05-05&g=2022-01-01), en [5b.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.3&artikel=5b.34&z=2022-05-05&g=2022-01-01)
 
-## Bijlage 7. als bedoeld in [artikel 5b.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.4&artikel=5b.40&z=2021-11-01&g=2021-11-01)
+## Bijlage 7. als bedoeld in [artikel 5b.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5b&afdeling=5b.3&paragraaf=5b.3.4&artikel=5b.40&z=2022-05-05&g=2022-01-01)
 
 | Diezenmonding | Engelsedijk, Den Bosch |
 | --- | --- |
@@ -5483,7 +5734,7 @@ Vervallen.
 | Huis ter Heide Noord | Middelstraat 1 5176 NH De Moer |
 | Witte Veen | Markslagweg 7 7481 RE Haaksbergen |
 
-## Bijlage 8. Voorzieningen reinigings- en ontsmettingsplaats als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.1&z=2021-11-01&g=2021-11-01)
+## Bijlage 8. Voorzieningen reinigings- en ontsmettingsplaats als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.1&z=2022-05-05&g=2022-01-01)
 
 - 1. Het bedrijf is voorzien van een verharde plaats die geschikt is om de reiniging en ontsmetting van vervoermiddelen, waarmee evenhoevigen op het bedrijf zijn aangevoerd, uit te voeren en die de gehele lengte van het vervoermiddel beslaat, in voorkomende gevallen inclusief geopende laadklep.
 
@@ -5501,7 +5752,7 @@ Vervallen.
 
 - 8. Op het bedrijf is een voorziening aanwezig voor het reinigen van de gebruikte laarzen of worden bedrijfseigen laarzen gebruikt en zijn bedrijfsoveralls beschikbaar.
 
-## Bijlage 9. Aangewezen besmettelijke dierziekten als bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2021-11-01&g=2021-11-01)
+## Bijlage 9. Aangewezen besmettelijke dierziekten als bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2022-05-05&g=2022-01-01)
 
 Voor evenhoevigen:
 
@@ -5527,7 +5778,100 @@ Voor pluimvee:
 
 - –. Newcastle Disease.
 
-## Bijlage 10. Monsterprocedure ten behoeve van het serologisch onderzoek als bedoeld in [artikel 7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-11-01&g=2021-11-01)
+### 1. Vermeerderingsdieren van de soort kip of kalkoen, kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen
+
+### 2. Vleeskuikens en vleeskalkoenen
+
+## Bijlage 12. Te behalen waarde bij vaccinatie Newcastle disease als bedoeld in de [artikelen 7b.36](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.36&z=2022-05-05&g=2022-01-01), [7b.37](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.37&z=2022-05-05&g=2022-01-01) en [7b.38](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.38&z=2022-05-05&g=2022-01-01)
+
+## Bijlage 14. verklaring van vaccinatie andere in gevangenschap levende vogels tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2021-11-01&g=2022-01-01)
+
+De volgende persoon:
+
+Naam en voorletters:
+
+Wondende te: (adres, postcode, plaats):
+
+verklaart dat hij/zij eigenaar/houder is van de volgende vogels:
+
+| **Ras/soort** | **Aantal** | **Ringnummers** |
+| --- | --- | --- |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+**Datum:**
+
+**Handtekening:**
+
+Ondergetekende persoon... (naam, voorletters), wondende te... (adres, postcode en plaats), verklaart dat:
+
+- •. hij/zij bekwaam is om de vaccinatie uit te voeren.
+
+- •. Hij/zij de bovenomschreven vogels, voor zover ouder dan 30 dagen, volgens de bijsluiter, tegen pseudeo-vogelpest heeft gevaccineerd.
+
+| Entstof |   |
+| --- | --- |
+| Batch nummer |   |
+| Vervaldatum vaccin |   |
+
+**Datum: ......**
+
+**Handtekening: .....**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7d.1. Ontheffing
+
+1. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister goedkeuring geven om in het wild gevangen of niet overeenkomstig de biologische productiemethode geproduceerde aquacultuurdieren in een biologisch bedrijf binnen te brengen overeenkomstig bijlage II, deel III, punt 3.1.2.1, onderdeel d, van [verordening (EU) 2018/848](32748R2018).
+
+2. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister goedkeuring geven om wild zaad van weekdieren te verzamelen overeenkomstig bijlage II, deel III, punt 3.2.1, onderdeel d, van [verordening (EU) 2018/848](32748R2018).
+
+##### Artikel 7d.2. Opkweekdoeleinden
+
+Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister voor opkweekdoeleinden toestemming geven dat in een biologische productie-eenheid gebruik wordt gemaakt van maximaal 50 procent niet-biologische juvenielen overeenkomstig punt 3.1.2.1, onderdeel e, van bijlage II, deel III, van [verordening (EU) 2018/848](32748R2018) en onder de daar opgenomen voorwaarden en beperkingen.
+
+### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
+
+### Hoofdstuk 8a. Het houden en bijeenbrengen van evenhoevigen, pluimvee of in gevangenschap levende vogels voor vertoning
+
+#### § 8a.1. Tentoonstellen en keuren van runderen, schapen of geiten
+
+#### § 8a.2. Tentoonstellen, keuring en wedvluchten van pluimvee of in gevangenschap levende vogels
+
+#### § 8b.1. Begripsbepalingen
+
+#### § 8b.2. Uitvoering verordening (EU) nr. 576/2013
+
+#### § 8b.3. Aanvullende regels ter uitvoering van verordening (EU) nr. 576/2013
+
+### Hoofdstuk 8c. Verplaatsing waterdieren naar lidstaten
+
+### Hoofdstuk 9. Overige bepalingen
+
+### Hoofdstuk 10. Wijziging en intrekking van regelingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+### Positieflijst huisdierenlijst
+
+Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) die gehouden kunnen worden zonder toepassing van soortspecifieke houderijvoorschriften.
+
+### Tabel 2
+
+Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), die gehouden kunnen worden met toepassing van soortspecifieke houderijvoorschriften.
+
+## Bijlage 10. Monsterprocedure ten behoeve van het serologisch onderzoek als bedoeld in [artikel 7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2022-05-05&g=2022-01-01)
 
 | Aantal varkens in de toevoegstal onderscheidenlijk aantal op het A-bedrijf of C-bedrijf aanwezige varkens van ten minste 25 kg, of de zwaarste dieren die aanwezig zijn op een E-bedrijf: | Aantal daarvan te onderzoeken varkens |
 | --- | --- |
@@ -5536,7 +5880,7 @@ Voor pluimvee:
 | 7 tot en met 10 | 7 |
 | 1 tot en met 6 | alle |
 
-## Bijlage 11. Eisen aan een toevoegstal als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2021-11-01&g=2021-11-01)
+## Bijlage 11. Eisen aan een toevoegstal als bedoeld in [artikel 7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2022-05-05&g=2022-01-01)
 
 - 1. **inrichtingseisen:**
 
@@ -5566,13 +5910,11 @@ Voor pluimvee:
 
 - •. indien een varken gedurende het verblijf in de toevoegstal overlijdt, biedt de varkenshouder het varken overeenkomstig verordening (EU) 2019/627 aan voor sectie om te worden onderzocht op aangewezen besmettelijke dierziekten.
 
-## Bijlage 12. Te behalen waarde bij vaccinatie Newcastle disease als bedoeld in de [artikelen 7b.36](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.36&z=2021-11-01&g=2021-11-01), [7b.37](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.37&z=2021-11-01&g=2021-11-01) en [7b.38](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=7b&paragraaf=7b.2*&sub-paragraaf=7b.2.3&artikel=7b.38&z=2021-11-01&g=2021-11-01)
-
 ### 1. Vermeerderingsdieren van de soort kip of kalkoen, kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen
 
 ### 2. Vleeskuikens en vleeskalkoenen
 
-## Bijlage 13. Verklaring van vaccinatie van duiven tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2021-11-01&g=2021-11-01)
+## Bijlage 13. Verklaring van vaccinatie van duiven tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2022-05-05&g=2022-01-01)
 
 De volgende persoon:
 
@@ -5621,7 +5963,7 @@ Ondergetekende dierenarts verklaart dat bovengenoemde duiven volgens bijsluiter 
 
 **Naam, stempel en handtekening van de bevoegde dierenarts**
 
-## Bijlage 14. verklaring van vaccinatie andere in gevangenschap levende vogels tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2021-11-01&g=2021-11-01)
+## Bijlage 14. verklaring van vaccinatie andere in gevangenschap levende vogels tegen Newcastle Disease als bedoeld in [artikel 8a.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8a&paragraaf=8a.2&artikel=8a.5&z=2022-05-05&g=2022-01-01)
 
 De volgende persoon:
 
