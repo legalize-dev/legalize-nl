@@ -4,7 +4,7 @@ identifier: "BWBR0040787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2019-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040787"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](onbekend);
 
-- **BMKL:** Berichtenmodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2019-01-01&g=2019-01-01);
+- **BMKL:** Berichtenmodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
 
 - **burgerservicenummer:** burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- **IMKL:** Informatiemodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2019-01-01&g=2019-01-01);
+- **IMKL:** Informatiemodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
 
 - **minister:** Minister van Economische Zaken en Klimaat.
 
@@ -86,9 +86,9 @@ In deze regeling wordt verstaan onder:
 
 - b. identificeert zich op een andere wijze ten genoege van de Dienst.
 
-2. Indien in het kader van de uitoefening van een beroep of een bedrijf een oriëntatieverzoek of een graafmelding wordt gedaan door tussenkomst van de Dienst en de betrokkene niet over een code beschikt op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), is artikel 2, tweede, derde en vierde lid, van overeenkomstige toepassing.
+2. Indien in het kader van de uitoefening van een beroep of een bedrijf een oriëntatieverzoek of een graafmelding wordt gedaan door tussenkomst van de Dienst en de betrokkene niet over een code beschikt op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), is artikel 2, tweede, derde en vierde lid, van overeenkomstige toepassing.
 
-3. Indien het oriëntatieverzoek of de graafmelding wordt gedaan door een bestuursorgaan dat niet op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01) over een code beschikt, is artikel 2, tweede lid, van overeenkomstige toepassing.
+3. Indien het oriëntatieverzoek of de graafmelding wordt gedaan door een bestuursorgaan dat niet op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01) over een code beschikt, is artikel 2, tweede lid, van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -130,7 +130,7 @@ Van de verplichtingen van de [artikelen 6, tweede en derde lid](https://wetten.o
 
 6. Indien de beheerder bij de verstrekking van beheerdersinformatie andere gegevens verstrekt dan waartoe hij op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11) is gehouden, geeft hij hierbij toepassing aan het IMKL en het BMKL.
 
-7. Tot en met 30 juni 2019 voldoet een beheerder ook aan de verplichtingen van het tweede, derde, vijfde en zesde lid indien hij gebruik maakt van en toepassing geeft aan het IMKL en het BMKL zoals die luidden tot 1 januari 2019.
+7. Tot en met 30 april 2022 voldoet een beheerder ook aan de verplichtingen van het tweede, derde, vijfde en zesde lid indien hij gebruik maakt van en toepassing geeft aan het IMKL en het BMKL zoals die luidden tot 1 januari 2022.
 
 ##### Artikel 8
 
@@ -138,7 +138,7 @@ Van de verplichtingen van de [artikelen 6, tweede en derde lid](https://wetten.o
 
 2. Van de vaststelling doet de minister mededeling in de Staatscourant. Indien die mededeling geen integrale bekendmaking inhoudt van het IMKL of het BMKL maakt de minister bekend op welke wijze het IMKL of het BMKL raadpleegbaar is.
 
-3. Het IMKL en het BMKL, bedoeld in het eerste lid, zijn de versies van het IMKL en het BMKL waarvan op de website van de Dienst is vermeld dat die geldig zijn met ingang van 1 januari 2019 op de website van de Dienst.
+3. Het IMKL en het BMKL, bedoeld in het eerste lid, zijn de versies van het IMKL en het BMKL waarvan op de website van de Dienst is vermeld dat die geldig zijn met ingang van 1 januari 2022 op de website van de Dienst.
 
 ##### Artikel 9
 
@@ -164,7 +164,7 @@ Voor het geval graafmeldingen overeenkomstig [artikel 14 van de wet](https://wet
 
 1. De melding, bedoeld in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=19), en [20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=20), wordt gedaan via het elektronische informatiesysteem of langs elektronische weg overeenkomstig de door de Dienst bepaalde wijze en door weergave van de ligging en kenmerken van het desbetreffende gedeelte van het net op het hiertoe door de Dienst verstrekte kaartmateriaal.
 
-2. De melding, bedoeld in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=20), kan achterwege blijven indien de grondroerder redelijkerwijs kan aannemen dat hij een net heeft aangetroffen dat wordt beheerd door een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf of waarvan de beheerder op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) is vrijgesteld van de verplichtingen van de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=6), en [11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11).
+2. De melding, bedoeld in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=20), kan achterwege blijven indien de grondroerder redelijkerwijs kan aannemen dat hij een net heeft aangetroffen dat wordt beheerd door een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf of waarvan de beheerder op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01) is vrijgesteld van de verplichtingen van de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=6), en [11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11).
 
 ##### Artikel 13
 
