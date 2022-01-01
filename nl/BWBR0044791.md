@@ -4,7 +4,7 @@ identifier: "BWBR0044791"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-02-10"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044791"
 soort: "AMvB"
@@ -50,8 +50,6 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
@@ -62,11 +60,11 @@ Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
 ##### Artikel IV
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=I&z=2021-02-10&g=2021-02-10) en [III, onderdeel A, subonderdeel 3, en onderdeel B, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2021-02-10&g=2021-02-10).
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=I&z=2022-01-01&g=2022-01-01) en [III, onderdeel A, subonderdeel 3, en onderdeel B, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2022-01-01&g=2022-01-01).
 
-2. [Artikel III, onderdeel B, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2021-02-10&g=2021-02-10), treedt in werking met ingang van 28 juni 2021.
+2. [Artikel III, onderdeel B, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 28 juni 2021.
 
-3. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=I&z=2021-02-10&g=2021-02-10) en [III, onderdeel A, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2021-02-10&g=2021-02-10), treden in werking met ingang van 1 januari 2022.
+3. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=I&z=2022-01-01&g=2022-01-01) en [III, onderdeel A, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044791&artikel=III&z=2022-01-01&g=2022-01-01), treden in werking met ingang van 1 januari 2022.
 
 ##### Artikel V
 
