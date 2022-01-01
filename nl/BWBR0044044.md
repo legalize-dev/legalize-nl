@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2021-10-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-10-21&g=2021-10-21), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -154,11 +154,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 ##### Artikel 7. Geldigheid ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -170,7 +170,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - b. onherroepelijk is afgewezen.
 
-7. Vanaf 29 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 ##### Artikel 8. Uitzonderingssituaties toepassing marktonderzoek
 
@@ -216,9 +216,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. is [artikel 3, eerste en tweede lid, met uitzondering van de onderdelen f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2021-10-21&g=2021-10-21) van overeenkomstige toepassing;
+- a. is [artikel 3, eerste en tweede lid, met uitzondering van de onderdelen f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van de onderdelen j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2021-10-21&g=2021-10-21), van overeenkomstige toepassing; en
+- b. is [artikel 4, eerste lid, met uitzondering van de onderdelen j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing; en
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid.
 
