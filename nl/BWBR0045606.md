@@ -207,21 +207,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2022.
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging nieuwe scholen en samenvoeging vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Omhang
-
-Deze regeling berust op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.3, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.3).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 5. Slotbepalingen
-
-##### Artikel 11. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging nieuwe scholen en samenvoeging vo.
-
-##### Artikel 11a. Omhang
-
-Deze regeling berust op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.3, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.3).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
