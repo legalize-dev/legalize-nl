@@ -4,7 +4,7 @@ identifier: "BWBR0049169"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049169"
 soort: "wet"
@@ -42,8 +42,6 @@ entry_into_force: "2024-01-01"
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
@@ -77,6 +75,8 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VII
 
 Wijzigt de Algemene douanewet.
+
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
