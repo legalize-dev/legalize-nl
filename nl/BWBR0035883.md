@@ -4,7 +4,7 @@ identifier: "BWBR0035883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2020-06-24"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035883"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **leerling:** leerling van een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1),
 
-- g. **DUO:** Dienst Uitvoering Onderwijs.
+- g. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen.
 
 ##### Artikel 2. Subsidievoorwaarden
 
@@ -78,17 +78,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Genormeerde subsidiebedragen
 
-1. Het vaste bedrag bedraagt eenmalig in het eerste jaar dat de eindtoets door de subsidieontvanger wordt aangeboden en afgenomen € 595.000 en in de daarop volgende jaren € 315.000 per jaar.
+1. Het vaste bedrag bedraagt € 500.000 per jaar. Indien door de subsidieontvanger in een bepaald jaar zowel een papieren als digitale versie van een eindtoets wordt aangeboden wordt het vaste bedrag in dat jaar van € 500.000 met € 315.000 verhoogd.
 
-2. Het variabele bedrag wordt berekend door het aantal leerlingen dat de eindtoets heeft gemaakt te vermenigvuldigen met een bedrag per leerling. Het bedrag per leerling neemt af met een in hoeveelheid toenemend aantal leerlingen:
+2. Het variabele bedrag wordt berekend door het aantal leerlingen dat de eindtoets heeft gemaakt te vermenigvuldigen met een bedrag per leerling. Het bedrag per leerling neemt af naarmate een toenemend aantal leerlingen de eindtoets heeft gemaakt. Het bedrag per leerling bedraagt:
 
-Voor leerling 1 tot en met leerling 5.000: € 40 per leerling
+- a. voor leerling 1 tot en met leerling 5.000: € 45 per leerling;
 
-Voor leerling 5.001 tot en met leerling 10.000: € 30 per leerling
+- b. voor leerling 5.001 tot en met leerling 10.000: € 35 per leerling; en
 
-Voor leerling 10.001 tot en met leerling 15.000: € 22 per leerling
-
-Voor leerling 15.001 en verder: € 17 per leerling
+- c. voor leerling 10.001 en verder: € 27 per leerling.
 
 ##### Artikel 4. Subsidieaanvraag en -verlening
 
@@ -98,11 +96,11 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 - b. een verklaring van de subsidieontvanger dat de onderliggende gegevens van de opgave als bedoeld onder a en de aanmeldingen voor het verstrekken van de eindtoets van de betreffende schoolbesturen in de administratie aanwezig zijn en desgevraagd opgeleverd kunnen worden, en
 
-- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2020-06-24&g=2020-06-24), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
+- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2022-01-01&g=2022-01-01), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
 
-2. De subsidieontvanger maakt bij de aanvraag bedoeld in het eerste lid gebruik van het standaardformulier gepubliceerd op de website van DUO.
+2. De subsidieontvanger maakt bij de aanvraag bedoeld in het eerste lid gebruik van het standaardformulier gepubliceerd op de website van DUS-I.
 
-3. Aanvragen die op of na 1 maart van het schooljaar waarin de eindtoets wordt aangeboden bij DUO binnenkomen worden afgewezen.
+3. Aanvragen die op of na 1 maart van het schooljaar waarin de eindtoets wordt aangeboden bij DUS-I binnenkomen worden afgewezen.
 
 4. De minister beslist uiterlijk binnen 6 weken op de aanvraag tot subsidieverlening.
 
@@ -110,7 +108,7 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 1. De subsidieontvanger dient jaarlijks de eindtoets van de desbetreffende jaargang in bij de onafhankelijke commissie, bedoeld in [artikel 9 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=9), voor 1 augustus van het schooljaar waarin de toets wordt afgenomen.
 
-2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2020-06-24&g=2020-06-24) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
+2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2022-01-01&g=2022-01-01) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
 
 3. De subsidieontvanger verstrekt aan de minister alle inlichtingen die deze nodig acht ten behoeve van een goede uitvoering en naleving van deze regeling.
 
@@ -118,13 +116,13 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 1. De subsidieontvanger ontvangt het totale subsidiebedrag in één keer bij wijze van voorschot voor 15 april van het jaar van de subsidieaanvraag.
 
-2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2020-06-24&g=2020-06-24), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2020-06-24&g=2020-06-24).
+2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2022-01-01&g=2022-01-01), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2022-01-01&g=2022-01-01).
 
 3. Het subsidiebedrag wordt jaarlijks voor 1 november vastgesteld op basis van de opgave van het feitelijk aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets.
 
 ##### Artikel 7. Verantwoording
 
-De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2020-06-24&g=2020-06-24).
+De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 8. Begrotingsvoorbehoud
 
@@ -136,11 +134,11 @@ Deze regeling wordt jaarlijks gemonitord en kan naar aanleiding daarvan worden b
 
 ##### Artikel 10. Overgangsbepaling
 
-In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2020-06-24&g=2020-06-24), dient de subsidieontvanger in 2015 uiterlijk 28 februari een aanvraag tot subsidieverlening in. In afwijking van artikel 4, derde lid, worden in 2015 aanvragen die na 28 februari worden ingediend afgewezen.
+Vervallen
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2022.
+Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2025.
 
 ##### Artikel 12. Citeertitel
 
@@ -156,6 +154,6 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 ##### Artikel 10a. Afwijking berekening subsidiebedrag 2020 in verband met COVID-19
 
-In 2020 vindt de vaststelling van het subsidiebedrag, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2020-06-24&g=2020-06-24), plaats op basis van de opgave van het aantal leerlingen, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2020-06-24&g=2020-06-24).
+In 2020 vindt de vaststelling van het subsidiebedrag, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2022-01-01&g=2022-01-01), plaats op basis van de opgave van het aantal leerlingen, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2022-01-01&g=2022-01-01).
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
