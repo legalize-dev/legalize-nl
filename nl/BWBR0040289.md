@@ -4,7 +4,7 @@ identifier: "BWBR0040289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-05"
-last_updated: "2018-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040289"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - **borgtocht:** een overeenkomst als bedoeld in [artikel 850 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=850) op basis waarvan een derde kan beschikken over een overeengekomen maximaal bedrag van de liquide middelen die de rechtspersoon aanhoudt in de schatkist van het Rijk;
 
-- **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro OverNight Index Average, zijnde de rente waartegen in de geldmarkt voor één dag kan worden geleend zonder onderpand;
+- **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
 
 - **deposito:** het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover de rechtspersoon gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
 
@@ -172,7 +172,7 @@ Deze regeling treedt in werking per 1 januari 2018.
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren RWT’s en andere rechtspersonen.
 
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&paragraaf=4&artikel=8&z=2018-01-01&g=2018-01-01) van de Regeling schatkistbankieren RWT’s en andere rechtspersonen
+## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&paragraaf=4&artikel=8&z=2022-01-01&g=2022-01-01) van de Regeling schatkistbankieren RWT’s en andere rechtspersonen
 
 ### Bepaling 1. Begrippen
 
