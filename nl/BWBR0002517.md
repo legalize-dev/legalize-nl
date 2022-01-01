@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -207,7 +207,7 @@ Vervallen
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 
-De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2021-01-01&g=2021-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2022-01-01&g=2022-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -237,7 +237,7 @@ De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overhei
 | Roemenië | 50% |
 | Slovenië | 80% |
 | Slowakije | 70% |
-| Spanje | 90% |
+| Spanje | 80% |
 | Tsjechië | 70% |
 | Zweden | 100% |
 | Zwitserland | 100% |
