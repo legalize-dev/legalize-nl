@@ -4,7 +4,7 @@ identifier: "BWBR0036646"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-07-23"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036646"
 soort: "AMvB"
@@ -68,9 +68,9 @@ Wijzigt het Besluit stimulering duurzame energieproductie.
 
 ##### Artikel 17
 
-1. Dit besluit, met uitzondering van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2021-07-23&g=2021-07-23), treedt in werking met ingang van 1 juli 2015.
+1. Dit besluit, met uitzondering van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 juli 2015.
 
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2021-07-23&g=2021-07-23) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2022-01-01&g=2022-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 18
 
@@ -182,13 +182,13 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 - a. de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft;
 
-- b. de gegevens, bedoeld in [artikel 4, eerste lid, onder b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2021-07-23&g=2021-07-23);
+- b. de gegevens, bedoeld in [artikel 4, eerste lid, onder b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01);
 
 - c. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker;
 
 - d. indien dit mogelijk en nuttig is een vergelijking van het energieverbruik met het energieverbruik van een gemiddelde eindafnemer, doorleverancier of eindgebruiker uit een vergelijkbare verbruikerscategorie;
 
-- e. indien dit mogelijk is een vergelijking, bij voorkeur in grafische vorm, van de onder [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2021-07-23&g=2021-07-23) bedoelde gegevens, met dezelfde gegevens uit dezelfde periode van het voorgaande jaar;
+- e. indien dit mogelijk is een vergelijking, bij voorkeur in grafische vorm, van de onder [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01) bedoelde gegevens, met dezelfde gegevens uit dezelfde periode van het voorgaande jaar;
 
 - f. de contactinformatie en de internetadressen van consumentenorganisaties of soortgelijke organisaties die informatie verstrekken over energiebesparende maatregelen, over vergelijkende verbruiksprofielen of over objectieve technische specificaties van energieverbruikende apparatuur.
 
@@ -198,9 +198,9 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 - b. de gegevens, bedoeld in het eerste lid, onder c tot en met f;
 
-- c. de gegevens, bedoeld in [artikel 4, eerste lid, onder b, f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2021-07-23&g=2021-07-23);
+- c. de gegevens, bedoeld in [artikel 4, eerste lid, onder b, f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01);
 
-- d. de kosten, bedoeld in [artikel 4, eerste lid, onderdeel c, d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2021-07-23&g=2021-07-23), gebaseerd op de actuele hoogtes van de verbruiksafhankelijke en verbruiksonafhankelijke kosten voor de afgenomen energie en de actuele kosten voor de netto hoeveelheid afgenomen energie van de eindafnemer, de doorleverancier of de eindgebruiker in de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft.
+- d. de kosten, bedoeld in [artikel 4, eerste lid, onderdeel c, d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), gebaseerd op de actuele hoogtes van de verbruiksafhankelijke en verbruiksonafhankelijke kosten voor de afgenomen energie en de actuele kosten voor de netto hoeveelheid afgenomen energie van de eindafnemer, de doorleverancier of de eindgebruiker in de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft.
 
 3. Het eerste en het tweede lid zijn niet van toepassing op een verbruiks- en indicatief kostenoverzicht van een leverancier van brandstof, indien de desbetreffende gegevens niet beschikbaar zijn.
 
@@ -234,7 +234,7 @@ Een energieleverancier vermeldt op een verbruiks- en indicatief kostenoverzicht 
 
 2. Een doorleverancier verzendt een factuur en een verbruiks- en indicatief kostenoverzicht naar de desbetreffende eindgebruiker langs elektronische weg, tenzij de eindgebruiker verzoekt om verzending van een verbruiks- en indicatief kostenoverzicht per post of verzending langs elektronische weg niet mogelijk is.
 
-3. In aanvulling van het eerste en tweede lid kan ingeval van elektronische facturering een energieleverancier of een doorleverancier ervoor kiezen de vergelijkingen bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=10&z=2021-07-23&g=2021-07-23), online beschikbaar te stellen en daar in de factuur naar de verwijzen.
+3. In aanvulling van het eerste en tweede lid kan ingeval van elektronische facturering een energieleverancier of een doorleverancier ervoor kiezen de vergelijkingen bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), online beschikbaar te stellen en daar in de factuur naar de verwijzen.
 
 ##### Artikel 13
 
@@ -262,7 +262,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De leverancier kan op het verbruiks- en indicatief kostenoverzicht aan de eindafnemer een advies verstrekken over de energiebesparende maatregelen die de desbetreffende eindafnemer kan nemen om zijn energieverbruik te verminderen.
 
-2. Het advies, bedoeld in het eerste lid, is gebaseerd op de verbruiksgegevens van de desbetreffende eindafnemer, waar de leverancier toegang tot heeft ter voldoening van zijn verplichtingen als bedoeld in de [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=2&z=2021-07-23&g=2021-07-23) en indien nuttig openbare gegevens.
+2. Het advies, bedoeld in het eerste lid, is gebaseerd op de verbruiksgegevens van de desbetreffende eindafnemer, waar de leverancier toegang tot heeft ter voldoening van zijn verplichtingen als bedoeld in de [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01) en indien nuttig openbare gegevens.
 
 #### § 4. Informatie-uitwisseling
 
