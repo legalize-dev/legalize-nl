@@ -4,7 +4,7 @@ identifier: "BWBR0036576"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2015-05-05"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036576"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De originele papieren archiefbescheiden die volgens de vastgestelde selectielijst voor vernietiging dan wel voor permanente bewaring in aanmerking komen van de Inspectie van het ministerie van Sociale Zaken en Werkgelegenheid voor de systemen Diwi, I-Net en ISBB, worden overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=2&z=2015-05-05&g=2015-05-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=3&z=2015-05-05&g=2015-05-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=4&z=2015-05-05&g=2015-05-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=5&z=2015-05-05&g=2015-05-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=6&z=2015-05-05&g=2015-05-05) digitaal vervangen.
+De originele papieren archiefbescheiden die volgens de vastgestelde selectielijst voor vernietiging dan wel voor permanente bewaring in aanmerking komen van de Nederlandse Arbeidsinspectie voor de systemen Diwi, I-Net en ISBB, worden overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=3&z=2022-01-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=5&z=2022-01-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036576&artikel=6&z=2022-01-01&g=2022-01-01) digitaal vervangen.
 
 ##### Artikel 2
 
@@ -50,7 +50,7 @@ De digitale vervanging geschiedt overeenkomstig de eisen van [artikel 26b van de
 
 ##### Artikel 3
 
-De digitale vervanging geschiedt volgens de specificaties vastgesteld in het Handboek digitale vervanging archiefbescheiden Inspectie SZW systemen Diwi, I-Net en ISBB.
+De digitale vervanging geschiedt volgens de specificaties vastgesteld in het Handboek digitale vervanging archiefbescheiden Nederlandse Arbeidsinspectie systemen Diwi, I-Net en ISBB.
 
 ##### Artikel 4
 
@@ -68,9 +68,9 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 ##### Artikel 6
 
-Deze regeling wordt aangehaald als: Regeling digitale vervanging archiefbescheiden Inspectie SZW systemen Diwi, I-Net en ISBB.
+Deze regeling wordt aangehaald als: Regeling digitale vervanging archiefbescheiden Nederlandse Arbeidsinspectie systemen Diwi, I-Net en ISBB.
 
-## Handboek digitale vervanging archiefbescheiden Inspectie SZW systemen DIWI, I-Net en ISBB
+## Handboek digitale vervanging archiefbescheiden Nederlandse Arbeidsinspectie systemen DIWI, I-Net en ISBB
 
 Ligt ter inzage bij het Service- en Informatiecentrum van het ministerie van Sociale Zaken en Werkgelegenheid.
 
