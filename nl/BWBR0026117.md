@@ -4,7 +4,7 @@ identifier: "BWBR0026117"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026117"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - 3°. de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- 4°. de Directie Opsporing van de Inspectie Sociale Zaken en Werkgelegenheid: Onze Minister van Sociale Zaken en Werkgelegenheid;
+- 4°. de Directie Opsporing van de Nederlandse Arbeidsinspectie: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - d. **ambtenaar van politie:** de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
@@ -74,15 +74,15 @@ In dit besluit wordt verstaan onder:
 
 1. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het bij die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de artikelen:
 
-- a. [10, eerste lid, de onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en [37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37), voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2021-10-01&g=2021-10-01);
+- a. [10, eerste lid, de onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en [37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37), voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2022-01-01&g=2022-01-01);
 
-- b. [10, eerste lid, onderdeel c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en [37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37), voor de verwerking door de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel c, punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2021-10-01&g=2021-10-01).
+- b. [10, eerste lid, onderdeel c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en [37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37), voor de verwerking door de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel c, punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2022-01-01&g=2022-01-01).
 
 2. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het in het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de artikelen:
 
-- a. [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, e, f, i, j, k, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6) voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2021-10-01&g=2021-10-01);
+- a. [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, e, f, i, j, k, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6) voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2022-01-01&g=2022-01-01);
 
-- b. [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen c, d, e, f, j, k, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6) voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2021-10-01&g=2021-10-01).
+- b. [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen c, d, e, f, j, k, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6) voor de verwerking door de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onderdeel c, punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026117&artikel=1&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3. Autorisaties
 
