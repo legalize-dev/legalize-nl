@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2011-09-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -116,23 +116,25 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 - a. het indienen van aanvragen om toelating tot Nederland op grond van [afdeling 3 van hoofdstuk 3 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=3), tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd;
 
-- b. het aanvragen van een uitkering;
+- b. toelatingsaanvragen van vreemdelingen die behandeld worden volgens de procedure bij voorzienbare inwilliging geregeld in [Afdeling 5, paragraaf 3, subparagraaf 2, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&sub-paragraaf=2);
 
-- c. het indienen van een aanvraag tot naturalisatie;
+- c. het aanvragen van een uitkering;
 
-- d. het doen van belastingaangifte;
+- d. het indienen van een aanvraag tot naturalisatie;
 
-- e. het indienen van een bezwaarschrift in een belastingzaak, indien het bezwaar uitsluitend betrekking heeft op een geschil van feitelijke of rekenkundige aard;
+- e. het doen van belastingaangifte;
 
-- f. het vragen van kwijtschelding van een belastingschuld;
+- f. het indienen van een bezwaarschrift in een belastingzaak, indien het bezwaar uitsluitend betrekking heeft op een geschil van feitelijke of rekenkundige aard;
 
-- g. het vragen van een voor beroep vatbare beslissing tenzij de aanvraag uitvoerig wordt gemotiveerd;
+- g. het vragen van kwijtschelding van een belastingschuld;
 
-- h. het vragen van vrijstelling of uitstel van de militaire dienstplicht;
+- h. het vragen van een voor beroep vatbare beslissing tenzij de aanvraag uitvoerig wordt gemotiveerd;
 
-- i. het verkrijgen van rechtsbijstand;
+- i. het vragen van vrijstelling of uitstel van de militaire dienstplicht;
 
-- j. het indienen van een andere aanvraag bij een bestuursorgaan om een besluit te nemen.
+- j. het verkrijgen van rechtsbijstand;
+
+- k. het indienen van een andere aanvraag bij een bestuursorgaan om een besluit te nemen.
 
 2. In afwijking van het eerste lid kan een toevoeging worden verleend, indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
