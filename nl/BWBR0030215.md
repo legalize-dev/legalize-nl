@@ -4,7 +4,7 @@ identifier: "BWBR0030215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-10-06"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030215"
 soort: "ministeriele-regeling"
@@ -93,7 +93,7 @@ In dit reglement wordt verstaan onder:
 
 - 25. **bemanning:** de dekbemanning en de machinisten;
 
-- 26. **minimumbemanning:** de voorgeschreven minimumbemanning overeenkomstig in de [artikelen 3.14 tot 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06) van dit reglement;
+- 26. **minimumbemanning:** de voorgeschreven minimumbemanning overeenkomstig in de [artikelen 3.14 tot 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01) van dit reglement;
 
 - 27. **dekbemanning:** de bemanning met uitzondering van machinisten;
 
@@ -111,7 +111,7 @@ In dit reglement wordt verstaan onder:
 
 - 34. **schipperspatent:** een Rijnpatent of een ander bevoegdheidsbewijsvoor het voeren van een binnenvaartschip;
 
-- 35. **Rijnpatent:** een bevoegdheidsbewijs voor het voeren van een schip op de Rijn overeenkomstig [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2021-10-06&g=2021-10-06) van dit reglement;
+- 35. **Rijnpatent:** een bevoegdheidsbewijs voor het voeren van een schip op de Rijn overeenkomstig [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2022-05-19&g=2022-01-01) van dit reglement;
 
 - 36. **ADN-Reglement:** het bij het Europees Verdrag over het internationale Vervoer van gevaarlijke Stoffen over Binnenwateren (ADN) gevoegde Reglement.
 
@@ -165,7 +165,7 @@ In het belang van een eenvoudige en uniforme toepassing van het onderhavige regl
 
 - 2. Elke Rijnoeverstaat of België kan bepalen dat de nationale voorschriften betreffende de arbeidsbescherming van toepassing zijn op de Rijnschepen die in die staat zijn ingeschreven. Niet in een register ingeschreven schepen vallen onder de wettelijke voorschriften van die Rijnoeverstaat of België waarin het bedrijf zijn hoofdzetel of de eigenaar zijn wettelijke domicilie heeft. In afwijking hiervan kunnen de bevoegde autoriteiten van de Rijnoeverstaten of België bilateraal overeenkomen dat bepaalde schepen die in de ene staat zijn ingeschreven, onder de voorschriften van de andere staat vallen. Zwangere vrouwen en kraamvrouwen mogen gedurende ten minste 14 weken, waarvan ten minste zes weken voor en zeven weken na de bevalling geen deel uitmaken van de bemanning.
 
-- 3. Voor de toepassing van de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2021-10-06&g=2021-10-06), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-10-06&g=2021-10-06) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2021-10-06&g=2021-10-06) dient tevens rekening te worden gehouden met vaar- en rusttijden diebuiten het toepassingsgebied van dit reglement vervuld zijn.
+- 3. Voor de toepassing van de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2022-05-19&g=2022-01-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-05-19&g=2022-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2022-05-19&g=2022-01-01) dient tevens rekening te worden gehouden met vaar- en rusttijden diebuiten het toepassingsgebied van dit reglement vervuld zijn.
 
 ## Hoofdstuk 3. Voorschriften voor alle typen schepen
 
@@ -213,7 +213,7 @@ De leden van de bemanning moeten aan de volgende voorwaarden voldoen:
 
 - b). een met goed gevolg afgesloten driejarige opleiding als bedoeld in het tweede lid of een met goed gevolg afgelegd eindexamen na een opleiding van ten minste 3 jaar aan een vakschool voor schippers, indien deze opleiding ten minste één jaar vaartijd in de binnenvaart omvat; of
 
-- c). een vaartijd in de binnenvaart van ten minste één jaar als matroos, zoals bedoeld in het derde lid, onderdeel b, en een met goed gevolg afgelegd praktijkexamen als bedoeld in [bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2021-10-06&g=2021-10-06), onderdeel 3.1, van dit reglement; of
+- c). een vaartijd in de binnenvaart van ten minste één jaar als matroos, zoals bedoeld in het derde lid, onderdeel b, en een met goed gevolg afgelegd praktijkexamen als bedoeld in [bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2022-05-19&g=2022-01-01), onderdeel 3.1, van dit reglement; of
 
 - d). een vaartijd in de binnenvaart van ten minste twee jaar als matroos, zoals bedoeld in het derde lid, onderdeel b;
 
@@ -225,7 +225,7 @@ De leden van de bemanning moeten aan de volgende voorwaarden voldoen:
 
 - c). een vaartijd in de binnenvaart van ten minste vier jaar en het bezit van een aan het grote patent gelijkwaardig vaarbevoegdheidsbewijs;
 
-- 6. voor de schipper: hetzij een overeenkomstig dit reglement afgegeven Rijnpatent, hetzij een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het desbetreffende scheepstype en de desbetreffende scheepsgrootte, alsmede het bewijs voor het te bevaren riviergedeelte overeenkomstig [artikel 6.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2021-10-06&g=2021-10-06) van dit reglement;
+- 6. voor de schipper: hetzij een overeenkomstig dit reglement afgegeven Rijnpatent, hetzij een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het desbetreffende scheepstype en de desbetreffende scheepsgrootte, alsmede het bewijs voor het te bevaren riviergedeelte overeenkomstig [artikel 6.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2022-05-19&g=2022-01-01) van dit reglement;
 
 - 7. voor de machinist:
 
@@ -237,19 +237,19 @@ Houders van een groot patent, een overeenkomstig [Richtlijn 96/50/EG](31996L0050
 
 ##### Artikel 3.03. Lichamelijke en geestelijke geschiktheid van debemanningsleden
 
-- 1. Alle leden van de bemanning moeten voldoen aan de voorwaarden voor de lichamelijke en geestelijke geschiktheid zoals bedoeld in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06). De lichamelijke en geestelijke geschiktheid moet voor de eerste afgifte van het dienstboekje of een Rijnpatent worden aangetoond door
+- 1. Alle leden van de bemanning moeten voldoen aan de voorwaarden voor de lichamelijke en geestelijke geschiktheid zoals bedoeld in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01). De lichamelijke en geestelijke geschiktheid moet voor de eerste afgifte van het dienstboekje of een Rijnpatent worden aangetoond door
 
-- a). een medische verklaring, overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die niet ouder dan drie maanden mag zijn. Zijn er dan nog twijfels over de lichamelijke en geestelijke geschiktheid, dankan de bevoegde autoriteit het recht, aanvullende medische verklaringen of verklaringen van medische specialisten eisen; of
+- a). een medische verklaring, overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die niet ouder dan drie maanden mag zijn. Zijn er dan nog twijfels over de lichamelijke en geestelijke geschiktheid, dankan de bevoegde autoriteit het recht, aanvullende medische verklaringen of verklaringen van medische specialisten eisen; of
 
-- b). een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder dan drie maanden mag zijn en op zijn minst overeenkomstig de vereisten van [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) is afgegeven; of
+- b). een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder dan drie maanden mag zijn en op zijn minst overeenkomstig de vereisten van [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) is afgegeven; of
 
-- c). een als gelijkwaardig erkend, geldig vaarbevoegdheidsbewijs, waarvoor op zijn minst dezelfde vereisten gelden, als die in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) zijn vastgesteld.
+- c). een als gelijkwaardig erkend, geldig vaarbevoegdheidsbewijs, waarvoor op zijn minst dezelfde vereisten gelden, als die in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) zijn vastgesteld.
 
 - 2. Voor de functie van machinist hoeft niet aan de vereisten voor ogen en oren, zoals bedoeld in [bijlage B1 van het Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0026045&bijlage=B1), te worden voldaan.
 
 ##### Artikel 3.04. Regelmatige controle van de lichamelijke en geestelijke geschiktheid
 
-Het bewijs van lichamelijke en geestelijke geschiktheid moet vernieuwd worden door het overleggen van een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06) of een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder dan drie maanden mag zijn:
+Het bewijs van lichamelijke en geestelijke geschiktheid moet vernieuwd worden door het overleggen van een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01) of een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder dan drie maanden mag zijn:
 
 - a). voor de houder van een schipperspatent, iedere vijf jaar vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar, daarna ieder jaar vanaf het bereiken van de leeftijd van 65 jaar;
 
@@ -261,17 +261,17 @@ Het bewijs van lichamelijke en geestelijke geschiktheid moet vernieuwd worden do
 
 - 1. De bekwaamheid voor een functie aan boord moet te allen tijde aangetoond kunnen worden
 
-- a). door de schipper aan de hand van een Rijnpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het desbetreffende scheepstype en de desbetreffende scheepsafmetingen, alsmede het bewijs voor het te bevaren riviergedeelte overeenkomstig [artikel 6.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2021-10-06&g=2021-10-06) van dit reglement,
+- a). door de schipper aan de hand van een Rijnpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het desbetreffende scheepstype en de desbetreffende scheepsafmetingen, alsmede het bewijs voor het te bevaren riviergedeelte overeenkomstig [artikel 6.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2022-05-19&g=2022-01-01) van dit reglement,
 
-- b). door de overige leden van de bemanning aan de hand van een op hun naam afgegeven geldig dienstboekje, overeenkomstig het model van [bijlage A2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A2&z=2021-10-06&g=2021-10-06), of een ander door de CCR als gelijkwaardig erkend, geldig dienstboekje; de lijst van de als gelijkwaardig erkende dienstboekjes is in [bijlage A6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A5&z=2021-10-06&g=2021-10-06) van dit reglement opgenomen.
+- b). door de overige leden van de bemanning aan de hand van een op hun naam afgegeven geldig dienstboekje, overeenkomstig het model van [bijlage A2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A2&z=2022-05-19&g=2022-01-01), of een ander door de CCR als gelijkwaardig erkend, geldig dienstboekje; de lijst van de als gelijkwaardig erkende dienstboekjes is in [bijlage A6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A5&z=2022-05-19&g=2022-01-01) van dit reglement opgenomen.
 
-- 2. De leden van de bemanning kunnen, met uitzondering van de machinist, hun bekwaamheid ook aantonen door een groot patent of een daarmee overeenstemmend en door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs overeenkomstig [deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2021-10-06&g=2021-10-06) van dit reglement.
+- 2. De leden van de bemanning kunnen, met uitzondering van de machinist, hun bekwaamheid ook aantonen door een groot patent of een daarmee overeenstemmend en door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs overeenkomstig [deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2022-05-19&g=2022-01-01) van dit reglement.
 
 ##### Artikel 3.06. Dienstboekje
 
 - 1. De persoon op wiens naam het dienstboekje is afgegeven, wordt als houder van het dienstboekje aangemerkt. Een bemanningslid mag slechts in het bezit van één dienstboekje zijn. Het dienstboekje moet door de bevoegde autoriteit worden afgegeven en moet op zijn minst in één van de officiële talen van de CCR zijn gesteld.
 
-- 2. Het dienstboekje bevat enerzijds algemene gegevens, zoals de medische verklaringen en de bekwaamheid van de houder, zoals bedoeld in [artikel 3.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.02&z=2021-10-06&g=2021-10-06), en anderzijds specifieke gegevens betreffende de afgelegde reizen.
+- 2. Het dienstboekje bevat enerzijds algemene gegevens, zoals de medische verklaringen en de bekwaamheid van de houder, zoals bedoeld in [artikel 3.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.02&z=2022-05-19&g=2022-01-01), en anderzijds specifieke gegevens betreffende de afgelegde reizen.
 
 - 3. De bevoegde autoriteit is verantwoordelijk voor het invullen van de algemene gegevens en de afstempeling ter controle. Zij heeft het recht het overleggen van vaartijdenboeken dan wel uittreksels daarvan of andere relevante bewijsstukken te verlangen. Zij mag alleen ingeschreven reizen van een stempel voorzien die niet langer dan 15 maanden geleden zijn afgelegd. Voor de aantekening van specifieke gegevens met betrekking tot de afgelegde reizen is de schipper verantwoordelijk.
 
@@ -293,11 +293,11 @@ Het bewijs van lichamelijke en geestelijke geschiktheid moet vernieuwd worden do
 
 ##### Artikel 3.07. Verlies van de geldigheid van het dienstboekje
 
-- 1. De geldigheid van een dienstboekje wordt ook zonder ambtelijke beschikking tot aan de verlenging van het bewijs van lichamelijke en geestelijke geschiktheid ambtshalve opgeschort, , als de lichamelijke en geestelijke geschiktheid niet binnen drie maanden na de verlengingstermijn zoals vastgesteld in [artikel 3.04, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06), opnieuw is aangetoond.
+- 1. De geldigheid van een dienstboekje wordt ook zonder ambtelijke beschikking tot aan de verlenging van het bewijs van lichamelijke en geestelijke geschiktheid ambtshalve opgeschort, , als de lichamelijke en geestelijke geschiktheid niet binnen drie maanden na de verlengingstermijn zoals vastgesteld in [artikel 3.04, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01), opnieuw is aangetoond.
 
-- 2. Heeft de bevoegde autoriteit twijfel aan de lichamelijke en geestelijke geschiktheid van de houder van een dienstboekje zoals bedoeld in [artikel 3.05, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=2&artikel=3.05&z=2021-10-06&g=2021-10-06),
+- 2. Heeft de bevoegde autoriteit twijfel aan de lichamelijke en geestelijke geschiktheid van de houder van een dienstboekje zoals bedoeld in [artikel 3.05, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=2&artikel=3.05&z=2022-05-19&g=2022-01-01),
 
-- a). informeert ze de autoriteit die het dienstboekje heeft afgegeven. Deze kan verlangen dat een medische verklaring die is afgegeven overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06) of een door de CCR als gelijkwaardig erkend medische verklaring betreffende de huidige staat van de lichamelijke en geestelijke geschiktheid wordt overgelegd. De kosten hiervoor worden alleen dan door de houder van het dienstboekje gedragen, indien de twijfels gegrond blijken te zijn;
+- a). informeert ze de autoriteit die het dienstboekje heeft afgegeven. Deze kan verlangen dat een medische verklaring die is afgegeven overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01) of een door de CCR als gelijkwaardig erkend medische verklaring betreffende de huidige staat van de lichamelijke en geestelijke geschiktheid wordt overgelegd. De kosten hiervoor worden alleen dan door de houder van het dienstboekje gedragen, indien de twijfels gegrond blijken te zijn;
 
 - b). kan ze de geldigheid van het dienstboekje voor een bepaalde tijd opschorten, maar niet langer dan de datum die door de autoriteit die het dienstboekje heeft afgegeven, voor het overleggen van een nieuwe medische verklaringis vastgesteld . De CCR en de autoriteit die het dienstboekje heeft afgeven, dienen in dit geval van haar beslissing op de hoogte te worden gesteld.
 
@@ -311,7 +311,7 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 ##### Artikel 3.09. Bewijs van vaartijd en reizen op bepaalde riviergedeelten
 
-- 1. De vereiste vaartijd en de reizen op bepaalde riviergedeelten van de Rijn moeten worden aangetoond aan de hand van een naar behoren ingevuld en gewaarmerkt dienstboekje, overeenkomstig het model van [bijlage A2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A2&z=2021-10-06&g=2021-10-06) van dit reglement, of aan de hand van een door de CCR voor de Rijn als gelijkwaardig erkend dienstboekje. De lijst van de als gelijkwaardig erkende dienstboekjes staat in [bijlage A5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A5&z=2021-10-06&g=2021-10-06) van dit reglement vermeld.
+- 1. De vereiste vaartijd en de reizen op bepaalde riviergedeelten van de Rijn moeten worden aangetoond aan de hand van een naar behoren ingevuld en gewaarmerkt dienstboekje, overeenkomstig het model van [bijlage A2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A2&z=2022-05-19&g=2022-01-01) van dit reglement, of aan de hand van een door de CCR voor de Rijn als gelijkwaardig erkend dienstboekje. De lijst van de als gelijkwaardig erkende dienstboekjes staat in [bijlage A5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A5&z=2022-05-19&g=2022-01-01) van dit reglement vermeld.
 
 - 2. Als volgens de nationale voorschriften van de Rijnoeverstaten of van België voor de vaarwegen buiten de Rijn geen dienstboekje aanwezig hoeft te zijn, kan de vaartijd ook door een geldig, officieel document worden aangetoond dat ten minste de volgende gegevens dient te bevatten: Voor het overheidspatent worden de voorgeschreven reizen en vaartijden aan de hand van een certificaat aangetoond dat door de instantie waar de aanvrager bij in dienst is, wordt opgesteld.
 
@@ -325,7 +325,7 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 - e). de bevaren riviergedeelten (precieze aanduiding met plaatsen van vertrek en aankomst).
 
-- 3. De vaartijd kan eveneens aan de hand van een bewijs van vaarbekwaamheid zoals bedoeld in [artikel 7.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2021-10-06&g=2021-10-06), worden aangetoond en wel voor de duur van de vaartijd die voor het verkrijgen van dit bewijs vereist was.
+- 3. De vaartijd kan eveneens aan de hand van een bewijs van vaarbekwaamheid zoals bedoeld in [artikel 7.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2022-05-19&g=2022-01-01), worden aangetoond en wel voor de duur van de vaartijd die voor het verkrijgen van dit bewijs vereist was.
 
 - 4. De vaartijd op zee moet door middel van een monsterboekje worden aangetoond. De vaartijd in de kustvaart en de visserij moet worden aangetoond door een geldig ambtelijk document.
 
@@ -339,9 +339,9 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 - 1. Men onderscheidt de volgende exploitatiewijzen: A1 vaart van ten hoogste 14 uur, A2 vaart van ten hoogste 18 uur, B vaart van ten hoogste 24 uur, telkens binnen een periode van 24 uur.
 
-- 2. Bij exploitatiewijze A1 mag de vaart eenmaal per week tot maximaal 16 uur worden verlengd, indien de vaartijd kan worden aangetoond met de registraties van een goed functionerende tachograaf van een type dat overeenkomstig [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2021-10-06&g=2021-10-06) van dit reglement door de bevoegde autoriteit van een Rijnoeverstaat of van België is goedgekeurd en wanneer er behalve de schipper nog een bemanningslid met de kwalificatie van stuurman aan boord is.
+- 2. Bij exploitatiewijze A1 mag de vaart eenmaal per week tot maximaal 16 uur worden verlengd, indien de vaartijd kan worden aangetoond met de registraties van een goed functionerende tachograaf van een type dat overeenkomstig [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2022-05-19&g=2022-01-01) van dit reglement door de bevoegde autoriteit van een Rijnoeverstaat of van België is goedgekeurd en wanneer er behalve de schipper nog een bemanningslid met de kwalificatie van stuurman aan boord is.
 
-- 3. Een schip dat in exploitatiewijze A1, respectievelijk A2 wordt geëxploiteerd, moet de vaart gedurende acht, respectievelijk zes aaneengesloten uren onderbreken, te weten: Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd door middel van een tachograaf van een type dat door de bevoegde autoriteit van een Rijnoeverstaat of België is goedgekeurd en toegelaten, aan de vereisten van [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2021-10-06&g=2021-10-06) van dit reglement voldoet en naar behoren functioneert. De tachograaf moet ten minste vanaf het begin van de laatste ononderbroken rusttijd van acht, respectievelijk zes uur zijn ingeschakeld en voor de controlerende diensten te allen tijde bereikbaar zijn.
+- 3. Een schip dat in exploitatiewijze A1, respectievelijk A2 wordt geëxploiteerd, moet de vaart gedurende acht, respectievelijk zes aaneengesloten uren onderbreken, te weten: Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd door middel van een tachograaf van een type dat door de bevoegde autoriteit van een Rijnoeverstaat of België is goedgekeurd en toegelaten, aan de vereisten van [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2022-05-19&g=2022-01-01) van dit reglement voldoet en naar behoren functioneert. De tachograaf moet ten minste vanaf het begin van de laatste ononderbroken rusttijd van acht, respectievelijk zes uur zijn ingeschakeld en voor de controlerende diensten te allen tijde bereikbaar zijn.
 
 - a). in de exploitatiewijze A1 tussen 22.00 en 06.00 uur, en
 
@@ -367,7 +367,7 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 ##### Artikel 3.12. Wisseling of herhaling van exploitatiewijze
 
-- 1. In afwijking van [artikel 3.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2021-10-06&g=2021-10-06), is een wisseling of herhaling van de exploitatiewijze slechts mogelijk met inachtneming van de bepalingen van het tweede tot met zesde lid.
+- 1. In afwijking van [artikel 3.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2022-05-19&g=2022-01-01), is een wisseling of herhaling van de exploitatiewijze slechts mogelijk met inachtneming van de bepalingen van het tweede tot met zesde lid.
 
 - 2. Van exploitatiewijze A1 mag slechts dan naar exploitatiewijze A2 worden gewisseld, indien:
 
@@ -391,15 +391,15 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 - a). de bemanning in zijn geheel is afgelost, of
 
-- b). de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd of overeenkomstig de voorschriften van [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-10-06&g=2021-10-06), in acht genomen en aangetoond hebben, en de voor exploitatiewijze B voorgeschreven versterking zich aan boord bevindt.
+- b). de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd of overeenkomstig de voorschriften van [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-05-19&g=2022-01-01), in acht genomen en aangetoond hebben, en de voor exploitatiewijze B voorgeschreven versterking zich aan boord bevindt.
 
 - 6. Een schip kan onmiddellijk in aansluiting op een reis in exploitatiewijze A1 of A2 voor een volgende reis in exploitatiewijze A1 of A2 worden ingezet, indien een voltallige uitwisseling van de bemanning heeft plaatsgevonden en de nieuwe bemanningsleden onmiddellijk voorafgaand aan de verdere exploitatiewijze A1 en A2 een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd in acht genomen en aangetoond hebben.
 
-- 7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in [bijlage A4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A4&z=2021-10-06&g=2021-10-06) van dit reglement of door een kopie van de pagina van het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan. Indien de rusttijd tijdens de vaart plaatsvond, is tevens een kopie van het binnenschipcertificaat van onderzoek van het betreffende schip vereist waaruit blijkt dat de maximale geluidsdruk in die ruimte van dat schip voldoet aan de voorschriften van [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-10-06&g=2021-10-06).
+- 7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in [bijlage A4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A4&z=2022-05-19&g=2022-01-01) van dit reglement of door een kopie van de pagina van het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan. Indien de rusttijd tijdens de vaart plaatsvond, is tevens een kopie van het binnenschipcertificaat van onderzoek van het betreffende schip vereist waaruit blijkt dat de maximale geluidsdruk in die ruimte van dat schip voldoet aan de voorschriften van [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-05-19&g=2022-01-01).
 
 ##### Artikel 3.13. Vaartijdenboek – Tachograaf
 
-- 1. Aan boord van elk schip, met uitzondering van sleep- en duwboten die slechts in havens verkeren, onbemande duwbakken, overheidsschepen en pleziervaartuigen, moet zich in de stuurhut een vaartijdenboek bevinden overeenkomstig het model van [bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A1&z=2021-10-06&g=2021-10-06). Dit boek dient te worden bijgehouden overeenkomstig de daarin vervatte aanwijzingen. De schipper is verantwoordelijk voor de aanwezigheid van het vaartijdenboek en de aantekeningen die daarin moeten worden gemaakt. Het eerste vaartijdenboek, waarop het nummer 1, de naam van het schip en het uniek Europees scheepsidentificatienummer (ENI) of het officiële scheepsnummer dienen te staan, moet worden afgegeven door een bevoegde autoriteit van een Rijnoeverstaat of België op vertoon van een geldig binnenschipcertificaat. Aan boord van schepen die over een krachtens [Bijlage O van het ROSR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=O) op de Rijn erkend communautair certificaat beschikken, kan zich in plaats van het door een bevoegde autoriteit van een Rijnoeverstaat of België afgegeven vaartijdenboek, een door een bevoegde autoriteit van een derde staat afgegeven en door de CCR erkend vaartijdenboek bevinden. Erkende vaartijdenboeken moeten in ten minste één van de officiële talen van de CCR worden bijgehouden. De bevoegde autoriteiten voor de afgifte van op de Rijn geldige vaartijdenboeken staan vermeld in bijlage A1a.
+- 1. Aan boord van elk schip, met uitzondering van sleep- en duwboten die slechts in havens verkeren, onbemande duwbakken, overheidsschepen en pleziervaartuigen, moet zich in de stuurhut een vaartijdenboek bevinden overeenkomstig het model van [bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A1&z=2022-05-19&g=2022-01-01). Dit boek dient te worden bijgehouden overeenkomstig de daarin vervatte aanwijzingen. De schipper is verantwoordelijk voor de aanwezigheid van het vaartijdenboek en de aantekeningen die daarin moeten worden gemaakt. Het eerste vaartijdenboek, waarop het nummer 1, de naam van het schip en het uniek Europees scheepsidentificatienummer (ENI) of het officiële scheepsnummer dienen te staan, moet worden afgegeven door een bevoegde autoriteit van een Rijnoeverstaat of België op vertoon van een geldig binnenschipcertificaat. Aan boord van schepen die over een krachtens [Bijlage O van het ROSR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=O) op de Rijn erkend communautair certificaat beschikken, kan zich in plaats van het door een bevoegde autoriteit van een Rijnoeverstaat of België afgegeven vaartijdenboek, een door een bevoegde autoriteit van een derde staat afgegeven en door de CCR erkend vaartijdenboek bevinden. Erkende vaartijdenboeken moeten in ten minste één van de officiële talen van de CCR worden bijgehouden. De bevoegde autoriteiten voor de afgifte van op de Rijn geldige vaartijdenboeken staan vermeld in bijlage A1a.
 
 - 2. Alle daarop volgende vaartijdenboeken mogen worden afgegeven door elke bevoegde autoriteit van een Rijnoeverstaat of België, die het van een volgnummer voorziet; zij kunnen evenwel slechts worden afgegeven tegen overlegging van het voorgaande vaartijdenboek. Het voorgaande vaartijdenboek moet worden voorzien van de onuitwisbare aantekening ‘ ongeldig’ en dient aan de schipper te worden teruggegeven. De afgifte van een nieuw vaartijdenboek kan geschieden op vertoon van het in het vierde lid bedoelde document. De eigenaar van het schip moet ervoor zorgen, dat het voorafgaande vaartijdenboek binnen 30 dagen na de afgiftedatum van het nieuwe vaartijdenboek wordt voorgelegd aan dezelfde bevoegde autoriteit die voor het nieuwe vaartijdenboek de in het vierde lid bedoelde verklaring heeft opgesteld, zodat deze autoriteit het bovengenoemde vooafgaande vaartijdenboek kan voorzien van de vermelding ‘ongeldig’. De eigenaar van het schip moet er bovendien voor zorgen, dat het vaartijdenboek daarna weer aan boord wordt gebracht.
 
@@ -407,9 +407,9 @@ Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binne
 
 - 4. Bij de afgifte van het eerste vaartijdenboek overeenkomstig het eerste lid bevestigt de autoriteit die het eerste vaartijdenboek afgeeft, deze afgifte door middel van een verklaring waarop de naam van het schip, het uniek Europees identificatienummer (ENI) van het schip, of het officiële scheepsnummer, het nummer van het vaartijdenboek en de datum van afgifte zijn vermeld. Deze verklaring dient aan boord te worden bewaard en op verzoek te worden getoond. De afgifte van latere vaartijdenboeken overeenkomstig het tweede lid moet door de bevoegde autoriteit op de verklaring worden aangetekend.
 
-- 5. De naleving van de rusttijden kan bovendien door een tachograaf worden aangetoond, die voldoet aan de technische vereisten van [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2021-10-06&g=2021-10-06) van dit reglement. De registraties van de tachografen moeten gedurende zes maanden na de laatste registratie aan boord worden bewaard.
+- 5. De naleving van de rusttijden kan bovendien door een tachograaf worden aangetoond, die voldoet aan de technische vereisten van [bijlage A3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A3&z=2022-05-19&g=2022-01-01) van dit reglement. De registraties van de tachografen moeten gedurende zes maanden na de laatste registratie aan boord worden bewaard.
 
-- 6. Bij aflossing of versterking van de bemanning zoals bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2021-10-06&g=2021-10-06) moet voor ieder nieuw bemanningslid een verklaring overeenkomstig [bijlage A4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A4&z=2021-10-06&g=2021-10-06) of een kopie van de pagina met de aantekeningen van de vaar-, respectievelijk rusttijden uit het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden zijn.
+- 6. Bij aflossing of versterking van de bemanning zoals bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2022-05-19&g=2022-01-01) moet voor ieder nieuw bemanningslid een verklaring overeenkomstig [bijlage A4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=A4&z=2022-05-19&g=2022-01-01) of een kopie van de pagina met de aantekeningen van de vaar-, respectievelijk rusttijden uit het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden zijn.
 
 - 7.
 
@@ -580,7 +580,7 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 | 2 | Toegestaan aantal bedden: van 51 tot 100 | schipper stuurman volmatroos matroos lichtmatroos machinist | 1 1 – 1 – 1 | 1 1 – 1 – 1 | 1 1 – – 1 1 | 2 – – 1 – 1 | 2 – – – 1 1 | 3 – – 1 – 1 | 3 – – – 1 1 |
 | 3 | Toegestaan aantal bedden meer dan 100 | schipper stuurman volmatroos matroos lichtmatroos machinist | 1 of 1 – 2 – 1 | 1 1 – 1 2 1 | 1 1 – 1 1 1 | 2 – – 3 – 1 | 2 – 1 1 1 1 | 3 – – 3 – 1 | 3 – 1 1 1 1 |
 
-- 4. Voor passagiersschepen, zoals bedoeld in het eerste en het derde lid, die zonder passagiers aan boord varen, wordt de minimumbemanning bepaald overeenkomstig [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2021-10-06&g=2021-10-06).
+- 4. Voor passagiersschepen, zoals bedoeld in het eerste en het derde lid, die zonder passagiers aan boord varen, wordt de minimumbemanning bepaald overeenkomstig [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2022-05-19&g=2022-01-01).
 
 - 5. De voorgeschreven matrozen overeenkomstig de in het eerste lid genoemde tabel mogen door lichtmatrozen worden vervangen die de minimumleeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
 
@@ -614,15 +614,15 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 
 - 10. De machinisten die zijn voorgeschreven overeenkomstig de in het eerste tot derde lid genoemde tabellen mogen door bijkomende volmatrozen worden vervangen. Deze volmatrozen mogen door bijkomende matrozen worden vervangen, wanneer het aantal volmatrozen dat als minimumbemanning overeenkomstig de in het eerste tot derde lid genoemde tabellen is voorgeschreven, overeenstemt met het aantal te vervangen machinisten.
 
-##### Artikel 3.18. Afwijking van de in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06) voorgeschreven uitrusting
+##### Artikel 3.18. Afwijking van de in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01) voorgeschreven uitrusting
 
-- 1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, zoals bepaald in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06) van het onderhavige reglement, dient de minimumbemanning, zoals bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2021-10-06&g=2021-10-06), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2021-10-06&g=2021-10-06) of [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2021-10-06&g=2021-10-06), te worden verhoogd
+- 1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, zoals bepaald in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01) van het onderhavige reglement, dient de minimumbemanning, zoals bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2022-05-19&g=2022-01-01), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2022-05-19&g=2022-01-01) of [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2022-05-19&g=2022-01-01), te worden verhoogd
 
 - a). in de exploitatiewijze A1 en A2 telkens met één matroos, en
 
-- b). in de exploitatiewijze B met twee matrozen. Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i) en l), respectievelijk de onderdelen i) of l) van de standaard S1, zoals bedoeld in [artikel 3.14, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
+- b). in de exploitatiewijze B met twee matrozen. Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i) en l), respectievelijk de onderdelen i) of l) van de standaard S1, zoals bedoeld in [artikel 3.14, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
 
-- 2. Voldoet de uitrusting van een schip slechts gedeeltelijk aan de Standaard S1 zoals deze is bepaald in artikel 3.14 van dit Reglement, en niet aan één of meer van de in [artikel 3.14, lid 1.1, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06), van dit Reglement gestelde eisen wordt voldaan, dan In het in de eerste zin bedoelde geval kunnen de volmatrozen door matrozen worden vervangen, indien de volmatrozen reeds deel uitmaken van de in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2021-10-06&g=2021-10-06), [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2021-10-06&g=2021-10-06) of [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2021-10-06&g=2021-10-06) voorgeschreven minimumbemanning.
+- 2. Voldoet de uitrusting van een schip slechts gedeeltelijk aan de Standaard S1 zoals deze is bepaald in artikel 3.14 van dit Reglement, en niet aan één of meer van de in [artikel 3.14, lid 1.1, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01), van dit Reglement gestelde eisen wordt voldaan, dan In het in de eerste zin bedoelde geval kunnen de volmatrozen door matrozen worden vervangen, indien de volmatrozen reeds deel uitmaken van de in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2022-05-19&g=2022-01-01), [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2022-05-19&g=2022-01-01) of [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2022-05-19&g=2022-01-01) voorgeschreven minimumbemanning.
 
 - a). moet in de exploitatiewijzen A1 en A2 de matroos, zoals voorgeschreven in het eerste lid, onderdeel a, door een volmatroos, en
 
@@ -632,9 +632,9 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 
 ##### Artikel 3.19. Minimumbemanning van overige vaartuigen
 
-- 1. De Commissie van Deskundigen bepaalt voor de vaartuigen waarop de [artikelen 3.15 tot en met 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2021-10-06&g=2021-10-06) niet van toepassing zijn(zoals sleepboten, sleepschepen en drijvende werktuigen) naar gelang hun afmetingen, bouwwijze, inrichting en benutting, welke bemanning zich tijdens de vaart aan boord moet bevinden.
+- 1. De Commissie van Deskundigen bepaalt voor de vaartuigen waarop de [artikelen 3.15 tot en met 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2022-05-19&g=2022-01-01) niet van toepassing zijn(zoals sleepboten, sleepschepen en drijvende werktuigen) naar gelang hun afmetingen, bouwwijze, inrichting en benutting, welke bemanning zich tijdens de vaart aan boord moet bevinden.
 
-- 2. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimumbemanning voorschrijven die afwijkt van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2021-10-06&g=2021-10-06).
+- 2. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimumbemanning voorschrijven die afwijkt van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2022-05-19&g=2022-01-01).
 
 - 3. De Commissie van Deskundigen schrijft deze aantekeningen in onder nummer 48 van het binnenschipcertificaat.
 
@@ -642,7 +642,7 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 
 - 1. Voor de bepaling van de minimumbemanning van zeeschepen is deel II van dit reglement van toepassing.
 
-- 2. In afwijking van het eerste lid kunnen zeeschepen blijven varen onder de bemanningsregeling die voorzien is in de bepalingen vanResolutie A. 481 (XII) van de IMO en van het Internationaal Verdrag van 1978 over de normen voor zeevarenden betreffende opleiding, diplomering en wachtdienst, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning zoals voorgeschreven in deel II voor exploitatiewijze B, waarbij met name rekening dient te worden gehouden met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2021-10-06&g=2021-10-06) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2021-10-06&g=2021-10-06) van dit reglement In dit geval moeten de dienovereenkomstige documenten waaruit de bekwaamheid van de bemanningsleden en hun aantal blijkt, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het grote patent overeenkomstig dit reglement, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uur per periode van 24 uur moet deze patenthouder door een andere patenthouder worden vervangen. In het vaartijdenboek moeten de volgende aantekeningen worden gemaakt:
+- 2. In afwijking van het eerste lid kunnen zeeschepen blijven varen onder de bemanningsregeling die voorzien is in de bepalingen vanResolutie A. 481 (XII) van de IMO en van het Internationaal Verdrag van 1978 over de normen voor zeevarenden betreffende opleiding, diplomering en wachtdienst, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning zoals voorgeschreven in deel II voor exploitatiewijze B, waarbij met name rekening dient te worden gehouden met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2022-05-19&g=2022-01-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2022-05-19&g=2022-01-01) van dit reglement In dit geval moeten de dienovereenkomstige documenten waaruit de bekwaamheid van de bemanningsleden en hun aantal blijkt, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het grote patent overeenkomstig dit reglement, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uur per periode van 24 uur moet deze patenthouder door een andere patenthouder worden vervangen. In het vaartijdenboek moeten de volgende aantekeningen worden gemaakt:
 
 - a). de naam van de patenthouders die zich aan boord bevinden, alsmede het begin en einde van hun diensttijd;
 
@@ -690,13 +690,13 @@ Aan boord van schepen die gevaarlijke stoffen vervoeren, moet een persoon houder
 
 De deskundige voor de passagiervaart moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon:
 
-- a). aan een door de bevoegde autoriteit erkende basisopleiding heeft deelgenomen, die ten minste aan de in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.03&z=2021-10-06&g=2021-10-06) gestelde eisen voldoet, en het examen met goed gevolg heeft afgelegd, en
+- a). aan een door de bevoegde autoriteit erkende basisopleiding heeft deelgenomen, die ten minste aan de in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.03&z=2022-05-19&g=2022-01-01) gestelde eisen voldoet, en het examen met goed gevolg heeft afgelegd, en
 
-- b). regelmatig overeenkomstig [artikel 5.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.04&z=2021-10-06&g=2021-10-06), wordt bijgeschoold.
+- b). regelmatig overeenkomstig [artikel 5.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.04&z=2022-05-19&g=2022-01-01), wordt bijgeschoold.
 
 ##### Artikel 5.03. Basisopleiding voor deskundigen
 
-Personen die de taak als deskundige in de zin van [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.02&z=2021-10-06&g=2021-10-06) moeten waarnemen, moeten voor het verkrijgen van de vakkennis aan een basisopleiding deelnemen. De basisopleiding moet in het kader van een door de bevoegde autoriteit georganiseerde of door haar erkende opleiding worden gevolgd en moet ten minste bestaan uit:
+Personen die de taak als deskundige in de zin van [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.02&z=2022-05-19&g=2022-01-01) moeten waarnemen, moeten voor het verkrijgen van de vakkennis aan een basisopleiding deelnemen. De basisopleiding moet in het kader van een door de bevoegde autoriteit georganiseerde of door haar erkende opleiding worden gevolgd en moet ten minste bestaan uit:
 
 - a). theoretische scholing over:
 
@@ -738,11 +738,11 @@ De eerste hulpverlener moet ten minste 17 jaar zijn en de vereiste bekwaamheid b
 
 - a). aan een cursus voor eerste hulpverlener heeft deelgenomen, en
 
-- b). regelmatig overeenkomstig [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.07&z=2021-10-06&g=2021-10-06) wordt bijgeschoold.
+- b). regelmatig overeenkomstig [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.07&z=2022-05-19&g=2022-01-01) wordt bijgeschoold.
 
 ##### Artikel 5.06. Persluchtmaskerdrager
 
-De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in [artikel 19.12, tiende lid, onderdeel a, van ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.07&z=2021-10-06&g=2021-10-06) is bijgeschoold.
+De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in [artikel 19.12, tiende lid, onderdeel a, van ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.07&z=2022-05-19&g=2022-01-01) is bijgeschoold.
 
 ##### Artikel 5.07. Cursussen en bijscholing voor eerste hulpverleners en persluchtmaskerdragers
 
@@ -750,13 +750,13 @@ De opleiding en bijscholing voor eerste hulpverleners en persluchtmaskerdragers 
 
 ##### Artikel 5.08. Wijze van aantonen van bekwaamheid
 
-- 1. De bekwaamheid van deskundige voor de passagiersvaart wordt bevestigd door een verklaring van deskundige voor de passagiersvaart volgens het model van [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C1&z=2021-10-06&g=2021-10-06), die wordt afgegeven door de bevoegde autoriteit of het opleidingsinstituut. Na deelname aan een herhalingscursus verlengt de bevoegde autoriteit of het opleidingsinstituut de verklaring van de deelnemer als deskundige voor de passagiersvaart met 5 jaar, of wordt hem een nieuwe verklaring verstrekt.
+- 1. De bekwaamheid van deskundige voor de passagiersvaart wordt bevestigd door een verklaring van deskundige voor de passagiersvaart volgens het model van [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C1&z=2022-05-19&g=2022-01-01), die wordt afgegeven door de bevoegde autoriteit of het opleidingsinstituut. Na deelname aan een herhalingscursus verlengt de bevoegde autoriteit of het opleidingsinstituut de verklaring van de deelnemer als deskundige voor de passagiersvaart met 5 jaar, of wordt hem een nieuwe verklaring verstrekt.
 
-- 2. Op vertoon van het cursusbewijs geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheidals eerste hulpverlener volgens het model van [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C2&z=2021-10-06&g=2021-10-06) of verlengt deze. Als verklaringen gelden ook de documenten van de nationale of regionale organisaties van het Rode Kruis of vergelijkbare nationale of regionale reddingsorganisaties die door de Centrale Commissie voor de Rijnvaart gepubliceerd worden.
+- 2. Op vertoon van het cursusbewijs geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheidals eerste hulpverlener volgens het model van [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C2&z=2022-05-19&g=2022-01-01) of verlengt deze. Als verklaringen gelden ook de documenten van de nationale of regionale organisaties van het Rode Kruis of vergelijkbare nationale of regionale reddingsorganisaties die door de Centrale Commissie voor de Rijnvaart gepubliceerd worden.
 
-- 3. Op vertoon van het cursusbewijs geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als persluchtmaskerdrager volgens het model van [bijlage C3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C3&z=2021-10-06&g=2021-10-06) of verlengt deze. Deze cursusbewijzen gelden als verklaring, als deze zijn afgegeven door een volgens het nationale recht van de Rijnoeverstaten of België erkend opleidingsinstituut en door de Centrale Commissie voor de Rijnvaart gepubliceerd zijn.
+- 3. Op vertoon van het cursusbewijs geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als persluchtmaskerdrager volgens het model van [bijlage C3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C3&z=2022-05-19&g=2022-01-01) of verlengt deze. Deze cursusbewijzen gelden als verklaring, als deze zijn afgegeven door een volgens het nationale recht van de Rijnoeverstaten of België erkend opleidingsinstituut en door de Centrale Commissie voor de Rijnvaart gepubliceerd zijn.
 
-- 4. De verklaring van deskundige voor de passagiersvaart overeenkomstig [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C1&z=2021-10-06&g=2021-10-06), de verklaring van eerste hulpverlener overeenkomstig [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C2&z=2021-10-06&g=2021-10-06) en de verklaring van persluchtmaskerdrager overeenkomstige [bijlage C3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C3&z=2021-10-06&g=2021-10-06) kunnen in één enkel document overeenkomstig [bijlage C4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C4&z=2021-10-06&g=2021-10-06) worden samengevat.
+- 4. De verklaring van deskundige voor de passagiersvaart overeenkomstig [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C1&z=2022-05-19&g=2022-01-01), de verklaring van eerste hulpverlener overeenkomstig [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C2&z=2022-05-19&g=2022-01-01) en de verklaring van persluchtmaskerdrager overeenkomstige [bijlage C3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C3&z=2022-05-19&g=2022-01-01) kunnen in één enkel document overeenkomstig [bijlage C4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=C4&z=2022-05-19&g=2022-01-01) worden samengevat.
 
 #### Paragraaf 2. : Verplichtingen bij de exploitatie van passagiersschepen
 
@@ -792,7 +792,7 @@ De opleiding en bijscholing voor eerste hulpverleners en persluchtmaskerdragers 
 
 - b). het veiligheidspersoneel instruëren en bekend maken met het passagiersschip,
 
-- c). de vereiste bevoegdheid van het veiligheidspersoneel aan boord, zoals bedoeld in de [artikelen 5.02 tot en met 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.02&z=2021-10-06&g=2021-10-06), op ieder momentaan de hand van de verklaringen zoals bedoeld in [artikel 5.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.08&z=2021-10-06&g=2021-10-06) kunnen aantonen,
+- c). de vereiste bevoegdheid van het veiligheidspersoneel aan boord, zoals bedoeld in de [artikelen 5.02 tot en met 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.02&z=2022-05-19&g=2022-01-01), op ieder momentaan de hand van de verklaringen zoals bedoeld in [artikel 5.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=5&paragraaf=1&artikel=5.08&z=2022-05-19&g=2022-01-01) kunnen aantonen,
 
 - d). ervoor zorgen dat gecontroleerd kan worden dat er regelmatig veiligheidsrondes plaatsvinden.
 
@@ -818,15 +818,15 @@ Dit deel regelt de verplichting tot het hebben van een patent voor de scheepvaar
 
 ##### Artikel 6.02. Verplichting tot het hebben van een schipperspatent
 
-- 1. Degene die op de Rijn een schip wil voeren, moet houder zijn van een overeenkomstig het onderhavige reglement afgegeven Rijnpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het type en de afmetingen van het betreffende schip, alsmede voor het te bevaren riviergedeelte; de lijst van de als gelijkwaardig erkende vaarbevoegdheidsbewijzen alsmede de eventuele aanvullende voorwaarden voor deze erkenning zijn in [bijlage D5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D5&z=2021-10-06&g=2021-10-06) opgenomen.
+- 1. Degene die op de Rijn een schip wil voeren, moet houder zijn van een overeenkomstig het onderhavige reglement afgegeven Rijnpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs voor het type en de afmetingen van het betreffende schip, alsmede voor het te bevaren riviergedeelte; de lijst van de als gelijkwaardig erkende vaarbevoegdheidsbewijzen alsmede de eventuele aanvullende voorwaarden voor deze erkenning zijn in [bijlage D5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D5&z=2022-05-19&g=2022-01-01) opgenomen.
 
-- 2. Het Rijnpatent wordt verleend voor de gehele Rijn of voor een bepaald gedeelte daarvan; wordt het voor een bepaald riviergedeelte afgegeven, dan geldt het ook voor de vaart benedenstrooms van het Spijksche Veer (km 857,40) en op het gedeelte tussen Bazel (Mittlere Rheinbrücke km 166,64) en de sluizen van Iffezheim (km 335,92). De als gelijkwaardig erkende vaarbevoegdheidsbewijzen gelden slechts op de in [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2021-10-06&g=2021-10-06) beschreven riviergedeelten, als de bezitter een bewijs voor riviergedeelten conform het model van [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2021-10-06&g=2021-10-06) bezit.
+- 2. Het Rijnpatent wordt verleend voor de gehele Rijn of voor een bepaald gedeelte daarvan; wordt het voor een bepaald riviergedeelte afgegeven, dan geldt het ook voor de vaart benedenstrooms van het Spijksche Veer (km 857,40) en op het gedeelte tussen Bazel (Mittlere Rheinbrücke km 166,64) en de sluizen van Iffezheim (km 335,92). De als gelijkwaardig erkende vaarbevoegdheidsbewijzen gelden slechts op de in [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2022-05-19&g=2022-01-01) beschreven riviergedeelten, als de bezitter een bewijs voor riviergedeelten conform het model van [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2022-05-19&g=2022-01-01) bezit.
 
 - 3. Voor de vaart benedenstrooms van het Spijksche Veer (km 857,40) en op het riviergedeelte tussen Bazel (Mittlere Rheinbrücke – km 166,64) en de sluizen van Iffezheim (km 335,92), kan worden volstaan met:
 
-- a). in plaats van het in [artikel 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2021-10-06&g=2021-10-06) bedoelde patent , een vaarbewijs als bedoeld in bijlage I van [Richtlijn 91/672/EEG](31991L0672), of een vaarbewijs afgegeven krachtens [Richtlijn 96/50/EG](31996L0050);
+- a). in plaats van het in [artikel 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2022-05-19&g=2022-01-01) bedoelde patent , een vaarbewijs als bedoeld in bijlage I van [Richtlijn 91/672/EEG](31991L0672), of een vaarbewijs afgegeven krachtens [Richtlijn 96/50/EG](31996L0050);
 
-- b). in plaats van het patent, zoals bedoeld in de [artikelen 7.02 tot en met 7.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2021-10-06&g=2021-10-06), een ander door de bevoegde autoriteit als gelijkwaardig erkend bewijs van vaarbekwaamheid.
+- b). in plaats van het patent, zoals bedoeld in de [artikelen 7.02 tot en met 7.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2022-05-19&g=2022-01-01), een ander door de bevoegde autoriteit als gelijkwaardig erkend bewijs van vaarbekwaamheid.
 
 - 4. Voor schepen met een lengte van minder dan 15 m, met uitzondering van passagiersschepen, duw- en sleepboten, kan worden volstaan met een bewijs van vaarbekwaamheid voor de binnenwateren dat in overeenstemming is met de nationale voorschriften van de Rijnoeverstaten en België.
 
@@ -840,15 +840,15 @@ Dit deel regelt de verplichting tot het hebben van een patent voor de scheepvaar
 
 ##### Artikel 6.03. Verplichting tot het hebben van een radarpatent
 
-- 1. Degene die op de Rijn op radar wil varen moet, naast het voor het te bevaren riviergedeelte benodigde schipperspatent, houder zijn van een radarpatent dat in overeenstemming met dit reglement is afgegeven of van een ander door de CCR als gelijkwaardig erkendbewijs van bekwaamheid voor de radarvaart. De lijst van de als gelijkwaardig erkende ’bewijzen van bekwaamheid voor de radarvaart, alsmede de eventuele aanvullende voorwaarden voor deze erkenning zijn in [bijlage D6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D6&z=2021-10-06&g=2021-10-06) opgenomen.
+- 1. Degene die op de Rijn op radar wil varen moet, naast het voor het te bevaren riviergedeelte benodigde schipperspatent, houder zijn van een radarpatent dat in overeenstemming met dit reglement is afgegeven of van een ander door de CCR als gelijkwaardig erkendbewijs van bekwaamheid voor de radarvaart. De lijst van de als gelijkwaardig erkende ’bewijzen van bekwaamheid voor de radarvaart, alsmede de eventuele aanvullende voorwaarden voor deze erkenning zijn in [bijlage D6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D6&z=2022-05-19&g=2022-01-01) opgenomen.
 
-- 2. De bevoegde autoriteit kan binnen het gebied waar hij bevoegd is, in afwijking van [artikel 8.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=8&artikel=8.05&z=2021-10-06&g=2021-10-06), voor het voeren van een veerpont een een radarpatent afgeven, waarinrekening wordt gehouden met de bijzonderheden van het traject waarvoor het radarpatent moet gelden.
+- 2. De bevoegde autoriteit kan binnen het gebied waar hij bevoegd is, in afwijking van [artikel 8.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=8&artikel=8.05&z=2022-05-19&g=2022-01-01), voor het voeren van een veerpont een een radarpatent afgeven, waarinrekening wordt gehouden met de bijzonderheden van het traject waarvoor het radarpatent moet gelden.
 
 ##### Artikel 6.04. Soorten patent
 
 In de zin van dit reglement onderscheidt men
 
-- 1. vier soorten Rijnpatenten: Met de bovengenoemde patenten is het eveneens geoorloofd een schip te voeren als bedoeld in [artikel 6.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2021-10-06&g=2021-10-06).
+- 1. vier soorten Rijnpatenten: Met de bovengenoemde patenten is het eveneens geoorloofd een schip te voeren als bedoeld in [artikel 6.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2022-05-19&g=2022-01-01).
 
 - a). het grote patent voor het voeren van alle schepen;
 
@@ -874,7 +874,7 @@ In de zin van dit reglement onderscheidt men
 
 - 3. De kandidaat moet de nodige bekwaamheid bezitten; bekwaam is degene die:
 
-- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
+- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
 
 - b). geen strafbare feiten in de scheepvaart heeft begaan, zodat op grond van zijn vroeger gedrag verwacht mag worden dat hij een schip veilig zal voeren en geschikt is het commando over een bemanning te voeren;
 
@@ -882,7 +882,7 @@ In de zin van dit reglement onderscheidt men
 
 - 4. De kandidaat moet een vaartijd aantonen van ten minste vier jaar als lid van een dekbemanning, waarvan ten minste twee jaar in de binnenvaart als matroos dan wel ten minste één jaar als volmatroos. De vaartijd moet op motorschepen zijn volbracht waarvoor het grote patent of het kleine patent vereist is.
 
-- 5. De vaartijd wordt berekend overeenkomstig het bepaalde in [artikel 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=3&artikel=3.08&z=2021-10-06&g=2021-10-06). Tot de vaartijd wordt eveneens gerekend:
+- 5. De vaartijd wordt berekend overeenkomstig het bepaalde in [artikel 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=3&artikel=3.08&z=2022-05-19&g=2022-01-01). Tot de vaartijd wordt eveneens gerekend:
 
 - a). de tijd van de opleiding, met een maximum van drie jaar, indien de gegadigde in het bezit is van een door de bevoegde autoriteit erkende verklaring betreffende een met goed gevolg afgesloten beroepsopleiding met praktijkgedeelten op het gebied van de binnenvaart,
 
@@ -896,7 +896,7 @@ In de zin van dit reglement onderscheidt men
 
 - 3. De kandidaat moet de nodige bekwaamheid bezitten; bekwaam is degene die:
 
-- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
+- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
 
 - b). geen strafbare feiten in de scheepvaart heeft begaan, zodat op grond van zijn vroeger gedrag verwacht mag worden dat hij een schip veilig zal voeren en geschikt is het commando over een bemanning te voeren;
 
@@ -904,7 +904,7 @@ In de zin van dit reglement onderscheidt men
 
 - 4. De kandidaat moet een vaartijd aantonen van drie jaar in de binnenvaart als lid van dekpersoneel waarvan ten minste één jaar in de binnenvaart als matroos. De vaartijd moet op motorschepen zijn volbracht waarvoor het grote patent of het kleine patent vereist is.
 
-- 5. De vaartijd wordt berekend overeenkomstig het bepaalde in [artikel 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=3&artikel=3.08&z=2021-10-06&g=2021-10-06). Tot de vaartijd wordt eveneens gerekend:
+- 5. De vaartijd wordt berekend overeenkomstig het bepaalde in [artikel 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=3&artikel=3.08&z=2022-05-19&g=2022-01-01). Tot de vaartijd wordt eveneens gerekend:
 
 - a). de tijd van de opleiding, met een maximum van drie jaar, indien de kandidaat in het bezit is van een door de bevoegde autoriteit erkende verklaring betreffende een met goed gevolg afgesloten beroepsopleiding met praktijkgedeelten op het gebied van de binnenvaart,
 
@@ -916,7 +916,7 @@ In de zin van dit reglement onderscheidt men
 
 - 2. De kandidaat moet de nodige bekwaamheid bezitten; bekwaam is degene die:
 
-- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
+- a). lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;
 
 - b). geen strafbare feiten in de scheepvaart heeft begaan,en op grond van zijn vroeger gedrag verwacht mag worden dat hij een schip veilig zal voeren;
 
@@ -930,13 +930,13 @@ In de zin van dit reglement onderscheidt men
 
 - b). deel uit maken van een politie- of douanedienst, een andere autoriteit dan wel van een erkende brandweerdienst;
 
-- c). lichamelijk en geestelijk geschikt zijn om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;;
+- c). lichamelijk en geestelijk geschikt zijn om een schip te voeren. De lichamelijke en geestelijke geschiktheid wordt aangetoond door het overleggen van een medische verklaring overeenkomstig de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die is afgegeven door een arts die door de bevoegde autoriteit erkend is;;
 
 - d). bekwaam zijn, dat wil zeggen, beschikken over de noodzakelijke beroepsmatige vaardigheden en kennis, ook in nautisch opzicht, alsmede over voldoende kennis van de reglementen en de vaarweg. Aan de voorwaarden wordt geacht te zijn voldaan wanneer de kandidaat het daartoe ingestelde examen met goed gevolg heeft afgelegd.
 
 - e). ten minste drie jaar praktische ervaring in de binnenvaart hebben opgedaan, waarvan ten minste drie maanden gedurende het laatste jaar.
 
-- 2. De autoriteit waaronder de kandidaat ressorteert, moet een verklaring hebben afgegeven waarin wordt bevestigd dat de kandidaat voldoet aan de in het eerste lid, onderdelen b) en e) en inde [artikelen 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2021-10-06&g=2021-10-06) en [7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.06&z=2021-10-06&g=2021-10-06) genoemde vereisten..
+- 2. De autoriteit waaronder de kandidaat ressorteert, moet een verklaring hebben afgegeven waarin wordt bevestigd dat de kandidaat voldoet aan de in het eerste lid, onderdelen b) en e) en inde [artikelen 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2022-05-19&g=2022-01-01) en [7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.06&z=2022-05-19&g=2022-01-01) genoemde vereisten..
 
 #### Subparagraaf 2. : Kennis vanriviergedeelten
 
@@ -954,13 +954,13 @@ Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien ver
 
 - c). Degene die een overheidspatent wil verkrijgen, moet zijn reizen aan boord van een schip met een lengte van 15 m of meer hebben gemaakt; de reizen komen slechts in aanmerking, als de persoon ten minste 15 jaar oud is.
 
-- 2. De kandidaat moet bovendien met goed gevolg een examen hebben afgelegd, dat een beschrijving van de vaarweg in de op- en de afvaart, een beschrijving van de afmetingen van de vaarweg en vragen moet omvatten, waarmee kan worden vastgesteld dat hij in staat is de specifieke voorschriften van het Politiereglement voor het riviergedeelte dat ligt tussen de sluizen van Iffezheim en het Spijksche Veer kan toepassen ([bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2021-10-06&g=2021-10-06)).
+- 2. De kandidaat moet bovendien met goed gevolg een examen hebben afgelegd, dat een beschrijving van de vaarweg in de op- en de afvaart, een beschrijving van de afmetingen van de vaarweg en vragen moet omvatten, waarmee kan worden vastgesteld dat hij in staat is de specifieke voorschriften van het Politiereglement voor het riviergedeelte dat ligt tussen de sluizen van Iffezheim en het Spijksche Veer kan toepassen ([bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2022-05-19&g=2022-01-01)).
 
 ##### Artikel 7.07. Bewijs van kennis voor een riviergedeelte
 
-- 1. De kandidaat voor een patent voor een riviergedeelte dat het in [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2021-10-06&g=2021-10-06) gedefinieerde riviergedeelte geheel of gedeeltelijk omvat, en de houder van een als gelijkwaardig erkend vaarbevoegdheidsbewijs, die het in artikel 7.05 gedefinieerde riviergedeelte geheel of gedeeltelijk willen bevaren, moeten de vereiste kennis van het riviergedeelte kunnen aantonen.
+- 1. De kandidaat voor een patent voor een riviergedeelte dat het in [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2022-05-19&g=2022-01-01) gedefinieerde riviergedeelte geheel of gedeeltelijk omvat, en de houder van een als gelijkwaardig erkend vaarbevoegdheidsbewijs, die het in artikel 7.05 gedefinieerde riviergedeelte geheel of gedeeltelijk willen bevaren, moeten de vereiste kennis van het riviergedeelte kunnen aantonen.
 
-- 2. Als bewijs van de kennis van riviergedeelten wordt op de patentkaart het riviergedeelte aangegeven waarvoor deze patentkaart geldig is. Voor vaarbevoegdheidsbewijzen die erkend zijn als gelijkwaardig aan het grote patent, wordt de kennis van het riviergedeelte door middel van een bewijs voor riviergedeelten overeenkomstig [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2021-10-06&g=2021-10-06) aangetoond.
+- 2. Als bewijs van de kennis van riviergedeelten wordt op de patentkaart het riviergedeelte aangegeven waarvoor deze patentkaart geldig is. Voor vaarbevoegdheidsbewijzen die erkend zijn als gelijkwaardig aan het grote patent, wordt de kennis van het riviergedeelte door middel van een bewijs voor riviergedeelten overeenkomstig [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2022-05-19&g=2022-01-01) aangetoond.
 
 #### Paragraaf 2. : Toelatings- en examenprocedure
 
@@ -986,7 +986,7 @@ Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien ver
 
 - b). een kopie van de identiteitskaart of het paspoort;
 
-- c). een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), die niet ouder dan drie maanden mag zijn. In geval van twijfel aan de lichamelijke en geestelijke geschiktheid kan de bevoegde autoriteit verlangen dat aanvullende verklaringen van een specialist worden overgelegd.
+- c). een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), die niet ouder dan drie maanden mag zijn. In geval van twijfel aan de lichamelijke en geestelijke geschiktheid kan de bevoegde autoriteit verlangen dat aanvullende verklaringen van een specialist worden overgelegd.
 
 - d). een bewijs van de vaartijd en van de afgelegde reizen;
 
@@ -994,11 +994,11 @@ Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien ver
 
 - f). een uittreksel uit het strafregister.
 
-- 3. In plaats van een medische verklaring zoals bedoeld in [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), kan de lichamelijke en geestelijke geschiktheid eveneens worden aangetoond door één van de volgende, door de CCR erkende documenten:
+- 3. In plaats van een medische verklaring zoals bedoeld in [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), kan de lichamelijke en geestelijke geschiktheid eveneens worden aangetoond door één van de volgende, door de CCR erkende documenten:
 
-- a). een geldig vaarbevoegdheidsbewijs, waarvoor dezelfde minimumeisen gelden als vastgesteld in de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06) en dat conform [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06) is vernieuwd, of
+- a). een geldig vaarbevoegdheidsbewijs, waarvoor dezelfde minimumeisen gelden als vastgesteld in de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01) en dat conform [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01) is vernieuwd, of
 
-- b). een medische verklaring, die niet ouder dan drie maanden is en op zijn minst moet voldoen aan de eisen zoals vastgesteld in de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2021-10-06&g=2021-10-06) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06).
+- b). een medische verklaring, die niet ouder dan drie maanden is en op zijn minst moet voldoen aan de eisen zoals vastgesteld in de [bijlagen B1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B1&z=2022-05-19&g=2022-01-01) en [B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01).
 
 - 4. In plaats van het uittreksel uit het strafregister kan de geschiktheid voor het voeren van het commando over een bemanning worden aangetoond met een gelijkwaardig document overeenkomstig het geldende recht van de woonplaats. Dit document moet nog geldig zijn en mag niet ouder zijn dan 6 maanden.
 
@@ -1034,27 +1034,27 @@ Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien ver
 
 - b). een kopie van de identiteitskaart of het paspoort;
 
-- c). een kopie van het door de CCR, overeenkomstig [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2021-10-06&g=2021-10-06), als gelijkwaardig erkend geldig vaarbevoegdheidsbewijs
+- c). een kopie van het door de CCR, overeenkomstig [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2022-05-19&g=2022-01-01), als gelijkwaardig erkend geldig vaarbevoegdheidsbewijs
 
 - d). het bewijs van de afgelegde reizen.
 
 ##### Artikel 7.11. Toelating tot het examen
 
-- 1. Een kandidaat voor een Rijnpatent wordt toegelaten tot het examen wanneer alle vereisten zoals bedoeld in de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2021-10-06&g=2021-10-06), [7.02, met uitzondering van het derde lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2021-10-06&g=2021-10-06), of [7.03, met uitzondering van het tweede lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.03&z=2021-10-06&g=2021-10-06) worden nagekomen en het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2021-10-06&g=2021-10-06). Indien uit de medische verklaring slechts een beperkte geschiktheid blijkt, wordt de kandidaat toch tot het examen toegelaten. De bevoegde autoriteit kan in dit geval aan het patent voorwaarden verbinden, die bij afgifte in het patent worden aangetekend. Een afwijzing van de aanvraag moet met redenen worden omkleed. De bevoegde autoriteit kan voor een kandidaat, wiens uittreksel uit het strafregister of een ander gelijkwaardig document niet aan de eisen voldoet, beslissen dat hij vóór afloop van een bepaalde termijn niet tot een examen kan worden toegelaten (uitsluitingstermijn).
+- 1. Een kandidaat voor een Rijnpatent wordt toegelaten tot het examen wanneer alle vereisten zoals bedoeld in de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2022-05-19&g=2022-01-01), [7.02, met uitzondering van het derde lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2022-05-19&g=2022-01-01), of [7.03, met uitzondering van het tweede lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.03&z=2022-05-19&g=2022-01-01) worden nagekomen en het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2022-05-19&g=2022-01-01). Indien uit de medische verklaring slechts een beperkte geschiktheid blijkt, wordt de kandidaat toch tot het examen toegelaten. De bevoegde autoriteit kan in dit geval aan het patent voorwaarden verbinden, die bij afgifte in het patent worden aangetekend. Een afwijzing van de aanvraag moet met redenen worden omkleed. De bevoegde autoriteit kan voor een kandidaat, wiens uittreksel uit het strafregister of een ander gelijkwaardig document niet aan de eisen voldoet, beslissen dat hij vóór afloop van een bepaalde termijn niet tot een examen kan worden toegelaten (uitsluitingstermijn).
 
-- 2. Degene die een Rijnpatent met een ander riviergedeelte wil uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2021-10-06&g=2021-10-06).
+- 2. Degene die een Rijnpatent met een ander riviergedeelte wil uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2022-05-19&g=2022-01-01).
 
-- 3. De houder van een Rijnpatent die een ander type Rijnpatent wil verkrijgen, wordt tot het examen toegelaten, als het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2021-10-06&g=2021-10-06).
+- 3. De houder van een Rijnpatent die een ander type Rijnpatent wil verkrijgen, wordt tot het examen toegelaten, als het aanvraagdossier volledig is overeenkomstig het bepaalde in [artikel 7.09, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.09&z=2022-05-19&g=2022-01-01).
 
-- 4. Degene die een bewijs voor kennis van een riviergedeelte wil verkrijgen of uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is, overeenkomstig het bepaalde in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2021-10-06&g=2021-10-06).
+- 4. Degene die een bewijs voor kennis van een riviergedeelte wil verkrijgen of uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is, overeenkomstig het bepaalde in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2022-05-19&g=2022-01-01).
 
 ##### Artikel 7.12. Examen
 
 - 1. De kandidaat moet tijdens het examen voor de examencommissie aantonen dat hij:
 
-- a). beschikt over voldoende kennis van de voorschriften met betrekking tot het voeren van schepen en de voor het veilig voeren van schepen vereiste nautische en technische kennis, beroepsvaardigheden en kennis van de grondbeginselen van de ongevallenpreventie; deze kennis wordt door een examen overeenkomstig het examenprogramma van [bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2021-10-06&g=2021-10-06) getoetst;
+- a). beschikt over voldoende kennis van de voorschriften met betrekking tot het voeren van schepen en de voor het veilig voeren van schepen vereiste nautische en technische kennis, beroepsvaardigheden en kennis van de grondbeginselen van de ongevallenpreventie; deze kennis wordt door een examen overeenkomstig het examenprogramma van [bijlage D7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D7&z=2022-05-19&g=2022-01-01) getoetst;
 
-- b). beschikt over de vereiste kennis van het riviergedeelte, indien krachtens [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2021-10-06&g=2021-10-06) voor het desbetreffende riviergedeelte een dergelijk examen vereist is.
+- b). beschikt over de vereiste kennis van het riviergedeelte, indien krachtens [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2022-05-19&g=2022-01-01) voor het desbetreffende riviergedeelte een dergelijk examen vereist is.
 
 - 2. Voor het verkrijgen van het grote patent of het kleine patent is een theoretisch examen, en voor het verkrijgen van het sportpatent of het overheidspatent een theoretisch en een praktisch examen vereist.
 
@@ -1064,29 +1064,29 @@ Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien ver
 
 - 1. Degene die het eindexamen van een beroepsopleiding met goed gevolg heeft afgelegd, kan worden vrijgesteld van dat gedeelte van het examen dat betrekking heeft op kennis en vaardigheden die reeds onderwerp waren van een door de CCR als gelijkwaardig erkend examen.
 
-- 2. De houder van een bewijs van vaarbekwaamheid zoals bedoeld in [artikel 6.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2021-10-06&g=2021-10-06), kan worden vrijgesteld bij het verwerven van het sportpatent van dat gedeelte van het examen dat betrekking heeft op nautische kennis.
+- 2. De houder van een bewijs van vaarbekwaamheid zoals bedoeld in [artikel 6.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.02&z=2022-05-19&g=2022-01-01), kan worden vrijgesteld bij het verwerven van het sportpatent van dat gedeelte van het examen dat betrekking heeft op nautische kennis.
 
-- 3. De houder van een vaarbewijs van één der Rijnoeverstaten of België dan wel een ander geldig en door de Centrale Commissie voor de Rijnvaart als gelijkwaardig erkend bewijs van vaarbekwaamheid moet voor het verkrijgen van een Rijnpatent voldoen aan de toelatingseisen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2021-10-06), doch tijdens het examen slechts de kennis van de op de Rijn van toepassing zijnde reglementen en bepalingen en de kennis van het betreffende riviergedeelte conform [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2021-10-06&g=2021-10-06) aantonen.
+- 3. De houder van een vaarbewijs van één der Rijnoeverstaten of België dan wel een ander geldig en door de Centrale Commissie voor de Rijnvaart als gelijkwaardig erkend bewijs van vaarbekwaamheid moet voor het verkrijgen van een Rijnpatent voldoen aan de toelatingseisen als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2022-05-19&g=2022-01-01), doch tijdens het examen slechts de kennis van de op de Rijn van toepassing zijnde reglementen en bepalingen en de kennis van het betreffende riviergedeelte conform [artikel 7.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.05&z=2022-05-19&g=2022-01-01) aantonen.
 
 - 4. De houder van een overheidspatent verkrijgt op aanvraag een sportpatent voor hetzelfde riviergedeelte zonder daarvoor examen te doen.
 
-- 5. Voor het verkrijgen van een ander patent als bedoeld in [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2021-10-06&g=2021-10-06) of van een uitbreiding tot een ander riviergedeelte kan de houder van een Rijnpatent van dat deel van het examen worden vrijgesteld dat betrekking heeft op de kennis of de vaardigheden, die reeds voor het verkrijgen van zijn huidige patent moesten worden aangetoond.
+- 5. Voor het verkrijgen van een ander patent als bedoeld in [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2022-05-19&g=2022-01-01) of van een uitbreiding tot een ander riviergedeelte kan de houder van een Rijnpatent van dat deel van het examen worden vrijgesteld dat betrekking heeft op de kennis of de vaardigheden, die reeds voor het verkrijgen van zijn huidige patent moesten worden aangetoond.
 
 ##### Artikel 7.14. Afgifte en uitbreiding van Rijnpatenten
 
-- 1. De bevoegde autoriteit geeft aan degene die het examen met goed gevolg heeft afgelegd het betreffende Rijnpatent af volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2021-10-06&g=2021-10-06). De patentkaart heeft één der navolgende opdrukken: ‘Groot Patent’, ‘Klein Patent’, ‘Sportpatent’ of ‘Overheidspatent’.
+- 1. De bevoegde autoriteit geeft aan degene die het examen met goed gevolg heeft afgelegd het betreffende Rijnpatent af volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2022-05-19&g=2022-01-01). De patentkaart heeft één der navolgende opdrukken: ‘Groot Patent’, ‘Klein Patent’, ‘Sportpatent’ of ‘Overheidspatent’.
 
-- 2. De voorwaarden bedoeld in [artikel 7.11, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2021-10-06&g=2021-10-06), moeten op de patentkaart zijn aangetekend.
+- 2. De voorwaarden bedoeld in [artikel 7.11, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.11&z=2022-05-19&g=2022-01-01), moeten op de patentkaart zijn aangetekend.
 
-- 3. Voor de tijd gelegen tussen het slagen voor het examen en de afgifte van het patent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2021-10-06&g=2021-10-06), verstrekt de autoriteit die het patent afgeeft een voorlopig Rijnpatent volgens het model van de [bijlage D2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D2&z=2021-10-06&g=2021-10-06); ook kan de bevoegde autoriteit een voorlopig Rijnpatent verstrekken voor de tijd tussen de vervaldatum voor de vernieuwing van het patent en de afgifte van het nieuwe Rijnpatent.
+- 3. Voor de tijd gelegen tussen het slagen voor het examen en de afgifte van het patent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2022-05-19&g=2022-01-01), verstrekt de autoriteit die het patent afgeeft een voorlopig Rijnpatent volgens het model van de [bijlage D2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D2&z=2022-05-19&g=2022-01-01); ook kan de bevoegde autoriteit een voorlopig Rijnpatent verstrekken voor de tijd tussen de vervaldatum voor de vernieuwing van het patent en de afgifte van het nieuwe Rijnpatent.
 
-- 4. In geval van een uitbreiding kan een bevoegde autoriteit het in het derde lid bedoelde voorlopige Rijnpatent ook afgeven ter overbrugging van de tijd gelegen tussen het slagen voor het examen en de afgifte van het nieuwe Rijnpatent. In verband met de afgifte van een nieuw Rijnpatent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2021-10-06&g=2021-10-06) wordt de autoriteit die het patent heeft afgegeven, hiervan in kennis gesteld.
+- 4. In geval van een uitbreiding kan een bevoegde autoriteit het in het derde lid bedoelde voorlopige Rijnpatent ook afgeven ter overbrugging van de tijd gelegen tussen het slagen voor het examen en de afgifte van het nieuwe Rijnpatent. In verband met de afgifte van een nieuw Rijnpatent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2022-05-19&g=2022-01-01) wordt de autoriteit die het patent heeft afgegeven, hiervan in kennis gesteld.
 
 - 5. De autoriteit die het patent heeft afgegeven, geeft op verzoek een vervangend patent af indien het Rijnpatent onbruikbaar is geworden of verloren is gegaan. Dit patent wordt als zodanig gewaarmerkt. De houder moet bij de bevoegde autoriteit melding maken van het verlies. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.
 
 ##### Artikel 7.15. Afgifte van een bewijs voor kennis van riviergedeelten
 
-De bevoegde autoriteit geeft aan degene die het examen voor de kennis van riviergedeelten zoals voorzien in [artikel 7.06, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.06&z=2021-10-06&g=2021-10-06), met goed gevolg heeft afgelegd een bewijs voor kennis van riviergedeelten af volgens het model van de [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2021-10-06&g=2021-10-06).
+De bevoegde autoriteit geeft aan degene die het examen voor de kennis van riviergedeelten zoals voorzien in [artikel 7.06, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=2&artikel=7.06&z=2022-05-19&g=2022-01-01), met goed gevolg heeft afgelegd een bewijs voor kennis van riviergedeelten af volgens het model van de [bijlage D3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D3&z=2022-05-19&g=2022-01-01).
 
 ##### Artikel 7.16. Kosten
 
@@ -1096,7 +1096,7 @@ Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het
 
 ##### Artikel 7.17. Regelmatige controle van de lichamelijke en geestelijke geschiktheid
 
-- 1. De houder van het grote patent, het kleine patent, het sportpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs moet zijn lichamelijke en geestelijke geschiktheid opnieuw aantonen door het overleggen van een medische verklaring, overeenkomstig [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06) van dit reglement.
+- 1. De houder van het grote patent, het kleine patent, het sportpatent of een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs moet zijn lichamelijke en geestelijke geschiktheid opnieuw aantonen door het overleggen van een medische verklaring, overeenkomstig [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01) van dit reglement.
 
 - 2. Hij moet zijn bewijs van lichamelijke en geestelijke geschiktheid voorleggen aan de autoriteit die het patent heeft afgegeven. Hij kan het bewijs ook aan een andere bevoegde autoriteit voorleggen. Deze autoriteit geeft de overgelegde stukken door aande autoriteit die het patent heeft afgegeven en kan in de plaats van deze autoriteit een tijdelijke Rijnpatent afgeven.
 
@@ -1104,27 +1104,27 @@ Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het
 
 ##### Artikel 7.18. Bewijs van lichamelijke en geestelijke geschiktheid door houders van een Rijnpatent vanaf de leeftijd van 50 jaar
 
-- 1. De autoriteit die het patent heeft afgegeven, verstrekt de houder van een patent op vertoon van een medische verklaring, op basis van deze verklaring: Op het bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06) moet een vervaldatum vermeld staan die de vervaldatum van de patentkaart vervangt.
+- 1. De autoriteit die het patent heeft afgegeven, verstrekt de houder van een patent op vertoon van een medische verklaring, op basis van deze verklaring: Op het bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01) moet een vervaldatum vermeld staan die de vervaldatum van de patentkaart vervangt.
 
 - a). een nieuwe patentkaart bij het bereiken van de leeftijd van 50 en 65 jaar;
 
-- b). een nieuwe patentkaart of een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), bij het bereiken van de leeftijd van 55 en 60 jaar;
+- b). een nieuwe patentkaart of een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), bij het bereiken van de leeftijd van 55 en 60 jaar;
 
-- c). een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06), voor de controles die na het bereiken van de leeftijd van 65 jaar plaatsvinden.
+- c). een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01), voor de controles die na het bereiken van de leeftijd van 65 jaar plaatsvinden.
 
-- 2. Het bewijs overeenkomstig [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06), zoals bedoeld in het eerste lid, onderdelen b) en c), kan worden vervangen door een aantekening door de bevoegde autoriteit die het patent heeft afgegeven, op de overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06) afgegeven medische verklaring . De aantekening op de medische verklaring moet in dit geval ook de geldigheidsdatum vermelden, die de geldigheidsdatum van de patentkaart in dat geval vervangt.
+- 2. Het bewijs overeenkomstig [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01), zoals bedoeld in het eerste lid, onderdelen b) en c), kan worden vervangen door een aantekening door de bevoegde autoriteit die het patent heeft afgegeven, op de overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01) afgegeven medische verklaring . De aantekening op de medische verklaring moet in dit geval ook de geldigheidsdatum vermelden, die de geldigheidsdatum van de patentkaart in dat geval vervangt.
 
-- 3. Blijkt uit de medische verklaring slechts een beperkte lichamelijke en geestelijke geschiktheid, dantekent de bevoegde autoriteit de aanvullende voorwaarden voor de geldigheid van het patent aan op de vernieuwde patentkaart, op het bewijs van lichamelijke en geestelijke geschiktheid of op de medische verklaring die is afgegeven overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06).
+- 3. Blijkt uit de medische verklaring slechts een beperkte lichamelijke en geestelijke geschiktheid, dantekent de bevoegde autoriteit de aanvullende voorwaarden voor de geldigheid van het patent aan op de vernieuwde patentkaart, op het bewijs van lichamelijke en geestelijke geschiktheid of op de medische verklaring die is afgegeven overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01).
 
-- 4. Wordt geen nieuwe patentkaart afgegeven, dan is het Rijnpatent slechts geldig, als de houder van het patent in het bezit is van een bewijs van lichamelijke en geestelijke geschiktheid bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06) of van een door de bevoegde autoriteit gewaarmerkte medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06).
+- 4. Wordt geen nieuwe patentkaart afgegeven, dan is het Rijnpatent slechts geldig, als de houder van het patent in het bezit is van een bewijs van lichamelijke en geestelijke geschiktheid bedoeld in [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01) of van een door de bevoegde autoriteit gewaarmerkte medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01).
 
 ##### Artikel 7.19. Bewijs van lichamelijke en geestelijke geschiktheid voor houders van een als gelijkwaardig erkend vaarbevoegdheidsbewijs vanaf de leeftijd van 50 jaar
 
-- 1. De bevoegde autoriteit, zoals deze in [artikel 7.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2021-10-06&g=2021-10-06), wordt gedefinieerd, geeft op vertoon van de medische verklaring en op basis daarvan, de houder van een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs vanaf de leeftijd van 50 jaar een verklaring van lichamelijke en geestelijke geschiktheid conform het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06). Gelden volgens de nationale regelgeving voor de vernieuwing van de verklaring van lichamelijke en geestelijke geschiktheid dezelfde eisen als volgens dit reglement en de met de aanvraag belaste autoriteit tevens de autoriteit is die het als gelijkwaardig erkende vaarbevoegdheidsbewijs afgeeft, dan kan deze ook in plaats van een verklaring voor de lichamelijke en geestelijke geschiktheid volgens het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06), bij elke vernieuwing van de lichamelijke en geestelijke geschiktheid een nieuw vaarbevoegdheidsbewijs afgeven waarop de geldigheidsdatum vermeld staat.
+- 1. De bevoegde autoriteit, zoals deze in [artikel 7.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2022-05-19&g=2022-01-01), wordt gedefinieerd, geeft op vertoon van de medische verklaring en op basis daarvan, de houder van een door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs vanaf de leeftijd van 50 jaar een verklaring van lichamelijke en geestelijke geschiktheid conform het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01). Gelden volgens de nationale regelgeving voor de vernieuwing van de verklaring van lichamelijke en geestelijke geschiktheid dezelfde eisen als volgens dit reglement en de met de aanvraag belaste autoriteit tevens de autoriteit is die het als gelijkwaardig erkende vaarbevoegdheidsbewijs afgeeft, dan kan deze ook in plaats van een verklaring voor de lichamelijke en geestelijke geschiktheid volgens het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01), bij elke vernieuwing van de lichamelijke en geestelijke geschiktheid een nieuw vaarbevoegdheidsbewijs afgeven waarop de geldigheidsdatum vermeld staat.
 
 - 2. Blijkt uit de medische verklaring slechts een beperkte lichamelijke en geestelijke geschiktheid, dan vult de bevoegde autoriteit op het bewijs van lichamelijke en geestelijke geschiktheid of op het vernieuwde vaarbevoegdheidsbewijs de aanvullende voorwaarden voor de geldigheid van het als gelijkwaardig erkende vaarbevoegdheidsbewijs op de Rijn in.
 
-- 3. Als er geen nieuw vaarbevoegdheidsbewijs wordt afgegeven, dan is het als gelijkwaardig erkende vaarbevoegdheidsbewijs alleengeldig, als dit vergezeld gaat van een verklaring van lichamelijke en geestelijke geschiktheid overeenkomstig het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06).
+- 3. Als er geen nieuw vaarbevoegdheidsbewijs wordt afgegeven, dan is het als gelijkwaardig erkende vaarbevoegdheidsbewijs alleengeldig, als dit vergezeld gaat van een verklaring van lichamelijke en geestelijke geschiktheid overeenkomstig het model van [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01).
 
 #### Paragraaf 4. : Opschorting en intrekking
 
@@ -1134,11 +1134,11 @@ Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het
 
 - a). door een beslissing van de bevoegde autoriteit die daarbij de duur van de opschorting vaststelt. De bevoegde autoriteit kan een dergelijke beslissing tot opschorting nemen wanneer niet aan alle voorwaarden voor intrekking is voldaan, maar er twijfel bestaat over de geschiktheid van de patenthouder. Indien deze twijfel vóór het einde van de opschortingstermijn wordt weggenomen, dient de beslissing te worden ingetrokken;
 
-- b). van ambtswege, zelfs zonder een dergelijke beslissing, tot aan de vernieuwing van het bewijs van lichamelijke en geestelijke geschiktheid, indien de lichamelijke en geestelijke geschiktheid niet binnen drie maanden na de verlengingstermijn, zoals vastgesteld in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06), opnieuw is aangetoond.
+- b). van ambtswege, zelfs zonder een dergelijke beslissing, tot aan de vernieuwing van het bewijs van lichamelijke en geestelijke geschiktheid, indien de lichamelijke en geestelijke geschiktheid niet binnen drie maanden na de verlengingstermijn, zoals vastgesteld in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01), opnieuw is aangetoond.
 
 - 2. Heeft de bevoegde autoriteit twijfels aan de lichamelijke en geestelijke geschiktheid van een Rijnpatenthouder,
 
-- a). informeert ze de autoriteit die het patent heeft afgegeven. Deze kan verlangen dat een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06), of een door de CCR als gelijkwaardig erkende medische verklaring betreffende de huidige staat van de lichamelijke en geestelijke geschiktheid wordt overgelegd. De houder van het patent hoeft alleen dan op te komen voor de kosten hiervan, als het vermoeden gegrond blijkt te zijn;
+- a). informeert ze de autoriteit die het patent heeft afgegeven. Deze kan verlangen dat een medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01), of een door de CCR als gelijkwaardig erkende medische verklaring betreffende de huidige staat van de lichamelijke en geestelijke geschiktheid wordt overgelegd. De houder van het patent hoeft alleen dan op te komen voor de kosten hiervan, als het vermoeden gegrond blijkt te zijn;
 
 - b). kan ze de geldigheid van het patent opschorten, voor een periode die de datum van het besluit vande autoriteit die het Rijnpatent heeft afgegeven op basis van de nieuwe medische verklaring niet mag overschrijden. In dit geval inormeert zij de CCR en de autoriteit die het patent heeft afgegeven over haar beslissing.
 
@@ -1148,15 +1148,15 @@ Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het
 
 Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amtbstwege, zijn geldigheid op de Rijn, zelfs zonder een beslissing,
 
-- a). wanneer het bewijs van lichamelijke en geestelijke geschiktheid conform [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2021-10-06&g=2021-10-06) niet wordt getoond, of niet binnen drie maanden na de in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06), bedoelde verlengingstermijn wordt vernieuwd, of
+- a). wanneer het bewijs van lichamelijke en geestelijke geschiktheid conform [bijlage B3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B3&z=2022-05-19&g=2022-01-01) niet wordt getoond, of niet binnen drie maanden na de in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01), bedoelde verlengingstermijn wordt vernieuwd, of
 
-- b). wanneer in de gevallen waarin de CCR overeenkomstig [artikel 7.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.19&z=2021-10-06&g=2021-10-06), de afgifte van een nieuw vaarbevoegdheidsbewijs als geldig bewijs voor de vernieuwing van de lichamelijke en geestelijke geschiktheid erkent, de geldigheidsdatum van het als gelijkwaardig erkende vaarbevoegdheidsbewijs sedert ten minste drie maanden verstreken is.
+- b). wanneer in de gevallen waarin de CCR overeenkomstig [artikel 7.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.19&z=2022-05-19&g=2022-01-01), de afgifte van een nieuw vaarbevoegdheidsbewijs als geldig bewijs voor de vernieuwing van de lichamelijke en geestelijke geschiktheid erkent, de geldigheidsdatum van het als gelijkwaardig erkende vaarbevoegdheidsbewijs sedert ten minste drie maanden verstreken is.
 
 ##### Artikel 7.22. Intrekking van het Rijnpatent
 
-- 1. De autoriteit die het patent heeft afgegeven, moet het patent intrekken, indien blijkt dat de houder van een Rijnpatent in de zin van de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2021-10-06&g=2021-10-06), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2021-10-06&g=2021-10-06) en [7.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.03&z=2021-10-06&g=2021-10-06) niet bekwaam is tot het voeren van een schip.
+- 1. De autoriteit die het patent heeft afgegeven, moet het patent intrekken, indien blijkt dat de houder van een Rijnpatent in de zin van de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.01&z=2022-05-19&g=2022-01-01), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.02&z=2022-05-19&g=2022-01-01) en [7.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=1&sub-paragraaf=1&artikel=7.03&z=2022-05-19&g=2022-01-01) niet bekwaam is tot het voeren van een schip.
 
-- 2. De autoriteit die het patent heeft afgegeven kan het patent intrekken, indien de houder van een Rijnpatent herhaaldelijk een voorwaarde of een beperking als bedoeld in [artikel 7.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2021-10-06&g=2021-10-06), niet nakomt.
+- 2. De autoriteit die het patent heeft afgegeven kan het patent intrekken, indien de houder van een Rijnpatent herhaaldelijk een voorwaarde of een beperking als bedoeld in [artikel 7.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2022-05-19&g=2022-01-01), niet nakomt.
 
 - 3. Bij intrekking verliest het Rijnpatent haar geldigheid. Het ongeldige patent dient onverwijld bij de autoriteit die het patent heeft afgegeven te worden ingeleverd dan wel te worden overgelegd, om ongeldig gemaakt te worden.
 
@@ -1172,7 +1172,7 @@ Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amt
 
 ##### Artikel 7.23. Vaarverbod voor de houder van een als gelijkwaardig erkend vaarbevoegdheidsbewijs
 
-- 1. Indien er twijfel is over de lichamelijke en geestelijke geschiktheid van de schipper die houder is van een als gelijkwaardig erkend vaarbevoegdheidsbewijs, kan de bevoegde autoriteit of de bevoegde rechtbank een tijdelijk vaarverbod voor de Rijn opleggen, tot een nieuwe medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2021-10-06&g=2021-10-06) of een door de CCR als gelijkwaardig erkend bewijs wordt overgelegd; de bevoegde autoriteit informeert de CCR en de autoriteit van afgifte over haar besluit. Wordt de twijfel op vertoon van de medische verklaring weggenomen, dan moet het opgelegde vaarverbod worden opgeheven. De houder van het patent hoeft alleen dan op te komen voor de kosten hiervan, alshet vermoeden gegrond blijkt te zijn.
+- 1. Indien er twijfel is over de lichamelijke en geestelijke geschiktheid van de schipper die houder is van een als gelijkwaardig erkend vaarbevoegdheidsbewijs, kan de bevoegde autoriteit of de bevoegde rechtbank een tijdelijk vaarverbod voor de Rijn opleggen, tot een nieuwe medische verklaring overeenkomstig [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=B2&z=2022-05-19&g=2022-01-01) of een door de CCR als gelijkwaardig erkend bewijs wordt overgelegd; de bevoegde autoriteit informeert de CCR en de autoriteit van afgifte over haar besluit. Wordt de twijfel op vertoon van de medische verklaring weggenomen, dan moet het opgelegde vaarverbod worden opgeheven. De houder van het patent hoeft alleen dan op te komen voor de kosten hiervan, alshet vermoeden gegrond blijkt te zijn.
 
 - 2. De bevoegde autoriteit of de bevoegde rechtbank kan aan een schipper die houder van een als gelijkwaardig erkend vaarbevoegdheidsbewijs is, een tijdelijk of definitief vaarverbod op de Rijn opleggen:
 
@@ -1184,11 +1184,11 @@ Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amt
 
 ##### Artikel 7.24. Invordering van een Rijnpatent
 
-- 1. Indien er dringende redenen zijn om het Rijnpatent in te trekken ([artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2021-10-06&g=2021-10-06)) of de geldigheid daarvan op te schorten ([artikel 7.20, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2021-10-06&g=2021-10-06), of er een ernstig vermoeden van fraude bestaat,kan de bevoegde autoriteit gelasten dat het patenttijdelijk wordt ingevorderd.
+- 1. Indien er dringende redenen zijn om het Rijnpatent in te trekken ([artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2022-05-19&g=2022-01-01)) of de geldigheid daarvan op te schorten ([artikel 7.20, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2022-05-19&g=2022-01-01), of er een ernstig vermoeden van fraude bestaat,kan de bevoegde autoriteit gelasten dat het patenttijdelijk wordt ingevorderd.
 
 - 2. Een Rijnpatent dat tijdelijk isingevorderd, moet onverwijld bij de autoriteit die het heeft afgegeven of bij de bevoegde rechtbank overeenkomstig de wettelijke nationale voorschriftenvan de Rijnoeverstaten en van Belgiëonder opgave van de redenen van de invordering , worden overgelegd.
 
-- 3. De autoriteit die het patent heeft afgegeven moet onverwijld, nadat zij van het besluit van de tijdelijke invordering kennis heeft genomen, een beslissing nemen over de opschorting van de geldigheid of de intrekking van het patent. Indien een rechtbank bevoegd is, beschikt de rechter overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België. Totdat een besluit als bedoeld in eerste of tweede zin is genomen, geldt het besluit van de tijdelijke invordering als een besluit in de zin van [artikel 7.20, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2021-10-06&g=2021-10-06).
+- 3. De autoriteit die het patent heeft afgegeven moet onverwijld, nadat zij van het besluit van de tijdelijke invordering kennis heeft genomen, een beslissing nemen over de opschorting van de geldigheid of de intrekking van het patent. Indien een rechtbank bevoegd is, beschikt de rechter overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België. Totdat een besluit als bedoeld in eerste of tweede zin is genomen, geldt het besluit van de tijdelijke invordering als een besluit in de zin van [artikel 7.20, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2022-05-19&g=2022-01-01).
 
 - 4. De tijdelijke invordering van het Rijnpatent moet worden beëindigd en het patent moet aan de houder worden teruggegeven, wanneer de oorzaak daarvan is komen te vervallen of wanneer er niet totopschorting of intrekking van het patent wordt besloten.
 
@@ -1240,7 +1240,7 @@ Degene die een radarpatent wil verkrijgen, moet:
 
 ##### Artikel 8.04. Examen
 
-- 1. De kandidaat moet tijdens het examen overeenkomstig het examenprogramma zoals vermeld in [bijlage D8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D8&z=2021-10-06&g=2021-10-06) (theoretisch en praktijkgedeelte), ten overstaan van een examencommissie zoals bedoeld in [artikel 8.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=8&artikel=8.03&z=2021-10-06&g=2021-10-06) aantonen dat hij beschikt over voldoende kennis om een schip te voeren met behulp van radar.
+- 1. De kandidaat moet tijdens het examen overeenkomstig het examenprogramma zoals vermeld in [bijlage D8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D8&z=2022-05-19&g=2022-01-01) (theoretisch en praktijkgedeelte), ten overstaan van een examencommissie zoals bedoeld in [artikel 8.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=8&artikel=8.03&z=2022-05-19&g=2022-01-01) aantonen dat hij beschikt over voldoende kennis om een schip te voeren met behulp van radar.
 
 - 2. Het praktijkexamen kan ook op een door de bevoegde autoriteit hiervoor toegelaten radarsimulator worden afgenomen.
 
@@ -1252,11 +1252,11 @@ Degene die een radarpatent wil verkrijgen, moet:
 
 ##### Artikel 8.05. Afgifte van het radarpatent
 
-- 1. Indien de kandidaat voor het examen is geslaagd, verstrekt de bevoegde autoriteit hem het radarpatent dat overeen moeten stemmen met het model van [bijlage D4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D4&z=2021-10-06&g=2021-10-06).
+- 1. Indien de kandidaat voor het examen is geslaagd, verstrekt de bevoegde autoriteit hem het radarpatent dat overeen moeten stemmen met het model van [bijlage D4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D4&z=2022-05-19&g=2022-01-01).
 
 - 2. De verkrijging van het radarpatent kan bovendien worden bevestigd door inschrijving van het woord ‘radar’ op de schipperspatentkaart.
 
-- 3. Op de radarpatenten, bedoeld in [artikel 6.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.03&z=2021-10-06&g=2021-10-06), wordt aangetekend: ‘Alleen geldig voor het voeren van een veerpont tussen ........ en ..........’.
+- 3. Op de radarpatenten, bedoeld in [artikel 6.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.03&z=2022-05-19&g=2022-01-01), wordt aangetekend: ‘Alleen geldig voor het voeren van een veerpont tussen ........ en ..........’.
 
 - 4. Is een radarpatent onbruikbaar geworden of verloren gegaan,verstrekt de autoriteit die het heeft afgegeven op aanvraag een duplicaat, dat als zodanig is gewaarmerkt. De houder moet het verlies bij de bevoegde autoriteit melden. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven, worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.
 
@@ -1284,17 +1284,17 @@ Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die
 
 - 1. Patenten voor het varen op de Rijn, afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid krachtens de genoemde voorschriften verlengd werd, blijven geldig met inachtneming van die voorschriften tot de eerste vernieuwing van het bewijs van lichamelijke en geestelijke geschiktheid.
 
-- 2. De bepalingen van [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2021-10-06&g=2021-10-06) betreffende de controle van de lichamelijke en geestelijke geschiktheid zijn van toepassing op de houders van het in het eerste lid bedoelde Rijnschipperspatent, kleine patent en sportpatent, waarbij het anomaalquotiënt bij het kleuronderscheidingsvermogen 0,7 tot 3,0 mag bedragen. De houders van een patent die bij de inwerkingtreding van dit reglement reeds de leeftijd, bedoeld in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2021-10-06&g=2021-10-06), hebben bereikt, moeten hun bewijs van lichamelijke en geestelijke geschiktheid bij de eerstvolgende voorgeschreven onderzoeksdatum vernieuwen. Bij de eerste verlenging van het bewijs van lichamelijke en geestelijke geschiktheid wordt een patent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2021-10-06&g=2021-10-06) afgegeven.
+- 2. De bepalingen van [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2022-05-19&g=2022-01-01) betreffende de controle van de lichamelijke en geestelijke geschiktheid zijn van toepassing op de houders van het in het eerste lid bedoelde Rijnschipperspatent, kleine patent en sportpatent, waarbij het anomaalquotiënt bij het kleuronderscheidingsvermogen 0,7 tot 3,0 mag bedragen. De houders van een patent die bij de inwerkingtreding van dit reglement reeds de leeftijd, bedoeld in [artikel 3.04, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=1&artikel=3.04&z=2022-05-19&g=2022-01-01), hebben bereikt, moeten hun bewijs van lichamelijke en geestelijke geschiktheid bij de eerstvolgende voorgeschreven onderzoeksdatum vernieuwen. Bij de eerste verlenging van het bewijs van lichamelijke en geestelijke geschiktheid wordt een patent volgens het model van de [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2022-05-19&g=2022-01-01) afgegeven.
 
-- 3. De bepalingen van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2021-10-06&g=2021-10-06) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2021-10-06&g=2021-10-06) zijn van toepassing op de patenten als bedoeld in het eerste lid.
+- 3. De bepalingen van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2022-05-19&g=2022-01-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2022-05-19&g=2022-01-01) zijn van toepassing op de patenten als bedoeld in het eerste lid.
 
 - 4. Radarpatenten en radardiploma’s afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement, blijven geldig met inachtneming van die voorschriften. Zij kunnen worden vervangen door radarpatenten conform dit reglement.
 
 ##### Artikel 9.03. Overeenstemming van de verschillende patenten
 
-- 1. Geldige patenten zoals bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=9&artikel=9.02&z=2021-10-06&g=2021-10-06), stemmen overeen met de patenten zoals bedoeld in [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2021-10-06&g=2021-10-06), zoals in onderstaande tabel is aangegeven:
+- 1. Geldige patenten zoals bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=9&artikel=9.02&z=2022-05-19&g=2022-01-01), stemmen overeen met de patenten zoals bedoeld in [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2022-05-19&g=2022-01-01), zoals in onderstaande tabel is aangegeven:
 
-| De volgende geldige patenten als bedoeld in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=9&artikel=9.01&z=2021-10-06&g=2021-10-06) | stemmen overeen met | de patenten als bedoeld in [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2021-10-06&g=2021-10-06), van dit reglement |
+| De volgende geldige patenten als bedoeld in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=9&artikel=9.01&z=2022-05-19&g=2022-01-01) | stemmen overeen met | de patenten als bedoeld in [artikel 6.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=6&artikel=6.04&z=2022-05-19&g=2022-01-01), van dit reglement |
 | --- | --- | --- |
 | Rijnschipperspatent | → | Groot patent |
 | Klein patent | → | Klein patent |
@@ -1509,9 +1509,9 @@ Het gehoor is als voldoende te beschouwen, indien het gemiddeld gehoorverlies va
 
 Bij de installatie van tachografen aan boord moet aan de volgende voorwaarden worden voldaan:
 
-## Bijlage A4. Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 3.12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2021-10-06&g=2021-10-06) (Model)
+## Bijlage A4. Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 3.12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2022-05-19&g=2022-01-01) (Model)
 
-(geldt alleen tezamen met het dienstboekje, respectievelijk met het grote patent zoals bedoeld in [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2021-10-06&g=2021-10-06), respectievelijk het voorlopige grote patent, zoals bedoeld in [bijlage D2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D2&z=2021-10-06&g=2021-10-06) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn)
+(geldt alleen tezamen met het dienstboekje, respectievelijk met het grote patent zoals bedoeld in [bijlage D1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D1&z=2022-05-19&g=2022-01-01), respectievelijk het voorlopige grote patent, zoals bedoeld in [bijlage D2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=D2&z=2022-05-19&g=2022-01-01) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn)
 
 Naam en voornaam:
 
@@ -1933,7 +1933,7 @@ Vaarbewijs categorie B (van kracht geworden op 15.3.2015)
 
 ##### Artikel 9.05. Verklaring van deskundigheid aangaande het gebruik van vloeibaar aardgas (LNG) als brandstof
 
-De bevoegde autoriteiten verstrekken een verklaring overeenkomstig [artikel 4a.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.02&z=2021-10-06&g=2021-10-06) aan bemanningsleden van schepen die vóór 1 juli 2016 zijn begonnen met het gebruik van LNG als brandstof, wanneer de betrokken bemanningsleden op grond van een aanbeveling van de CCR krachtens [artikel 2.19 van het ROSR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.19) zijn opgeleid en een vaartijd van ten minste 90 dagen op dergelijke schepen kunnen aantonen.
+De bevoegde autoriteiten verstrekken een verklaring overeenkomstig [artikel 4a.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.02&z=2022-05-19&g=2022-01-01) aan bemanningsleden van schepen die vóór 1 juli 2016 zijn begonnen met het gebruik van LNG als brandstof, wanneer de betrokken bemanningsleden op grond van een aanbeveling van de CCR krachtens [artikel 2.19 van het ROSR](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.19) zijn opgeleid en een vaartijd van ten minste 90 dagen op dergelijke schepen kunnen aantonen.
 
 ## Bijlage A1. Vaartijdenboek (Model B-00734)
 
@@ -1991,7 +1991,7 @@ Ieder bemanningslid moet te allen tijde zijn kwalificatie en geschiktheid door m
 
 Houder van een dienstboekje is degene op wiens naam het dienstboekje is afgegeven.
 
-Het dienstboekje moet bij de eerste indiensttreding aan de schipper worden overhandigd en vanaf de datum van afgifte jaarlijks en op zijn minst eenmaal binnen twaalf maanden bij de bevoegde autoriteit ter waarmerking worden overgelegd. Een stuurman die geen groot Patent overeenkomstig [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2021-10-06&g=2021-10-06) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn wil verkrijgen, is krachtens [artikel 3.06, punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=2&artikel=3.06&z=2021-10-06&g=2021-10-06) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vrijgesteld van de verplichting het dienstboekje te overleggen voor aantekening van het controlewaarmerk. In dit geval moet hij overeenkomstig het Reglement betreffende het Scheepvaartpersoneel op de Rijn op bladzijde 10 van het dienstboekje de aantekening: ‘Is niet voornemens een schipperspatent te verkrijgen’ aanbrengen en rechtsgeldig ondertekenen.
+Het dienstboekje moet bij de eerste indiensttreding aan de schipper worden overhandigd en vanaf de datum van afgifte jaarlijks en op zijn minst eenmaal binnen twaalf maanden bij de bevoegde autoriteit ter waarmerking worden overgelegd. Een stuurman die geen groot Patent overeenkomstig [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2022-05-19&g=2022-01-01) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn wil verkrijgen, is krachtens [artikel 3.06, punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=3&paragraaf=1&sub-paragraaf=2&artikel=3.06&z=2022-05-19&g=2022-01-01) van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vrijgesteld van de verplichting het dienstboekje te overleggen voor aantekening van het controlewaarmerk. In dit geval moet hij overeenkomstig het Reglement betreffende het Scheepvaartpersoneel op de Rijn op bladzijde 10 van het dienstboekje de aantekening: ‘Is niet voornemens een schipperspatent te verkrijgen’ aanbrengen en rechtsgeldig ondertekenen.
 
 ## Bijlage A3. Eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord
 
@@ -2212,19 +2212,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4a.02. Verklaring
 
-De betrokken bemanningsleden tonen hun kennis aan door middel van een verklaring overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2021-10-06&g=2021-10-06).
+De betrokken bemanningsleden tonen hun kennis aan door middel van een verklaring overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2022-05-19&g=2022-01-01).
 
-De verklaring wordt afgegeven wanneer de kandidaat voldoet aan de eisen van [artikelen 4a.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.03&z=2021-10-06&g=2021-10-06) en [4a.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.04&z=2021-10-06&g=2021-10-06).
+De verklaring wordt afgegeven wanneer de kandidaat voldoet aan de eisen van [artikelen 4a.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.03&z=2022-05-19&g=2022-01-01) en [4a.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.04&z=2022-05-19&g=2022-01-01).
 
 ##### Artikel 4a.03. Cursus en examen
 
 De cursus inzake de kennis bestaat uit een theoretisch gedeelte en een praktisch gedeelte en wordt door een examen afgesloten.
 
-Het theoretische gedeelte van de cursus omvat de in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2021-10-06&g=2021-10-06), deel A, genoemde onderwerpen.
+Het theoretische gedeelte van de cursus omvat de in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2022-05-19&g=2022-01-01), deel A, genoemde onderwerpen.
 
-Het praktische gedeelte van de cursus betreft de toepassing van de verworven theoretische kennis in de praktijk aan boord van een schip dat vloeibaar aardgas (LNG) als brandstof gebruikt en/of in een daartoe geschikte installatie aan de wal. Het omvat de in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2021-10-06&g=2021-10-06), deel B, genoemde onderwerpen.
+Het praktische gedeelte van de cursus betreft de toepassing van de verworven theoretische kennis in de praktijk aan boord van een schip dat vloeibaar aardgas (LNG) als brandstof gebruikt en/of in een daartoe geschikte installatie aan de wal. Het omvat de in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2022-05-19&g=2022-01-01), deel B, genoemde onderwerpen.
 
-Het examen bestaat uit een theoretisch en uit een praktisch deel. Het omvat alle in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2021-10-06&g=2021-10-06), deel A en deel B genoemde onderwerpen. Het examen is met goed gevolg afgelegd wanneer de kandidaat in beide geëxamineerde delen heeft aangetoond over voldoende kennis en vaardigheden te beschikken.
+Het examen bestaat uit een theoretisch en uit een praktisch deel. Het omvat alle in [bijlage E2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E2&z=2022-05-19&g=2022-01-01), deel A en deel B genoemde onderwerpen. Het examen is met goed gevolg afgelegd wanneer de kandidaat in beide geëxamineerde delen heeft aangetoond over voldoende kennis en vaardigheden te beschikken.
 
 Het praktisch deel van het examen wordt aan boord van een schip en/of aan de wal afgenomen.
 
@@ -2232,7 +2232,7 @@ Het praktisch deel van het examen wordt aan boord van een schip en/of aan de wal
 
 1. De verklaring heeft een geldigheidsduur van vijf jaar.
 
-2. De geldige verklaring overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2021-10-06&g=2021-10-06) wordt op verzoek van de houder door de bevoegde autoriteit met vijf jaar verlengd met ingang van de datum van aanvraag wanneer de houder:
+2. De geldige verklaring overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2022-05-19&g=2022-01-01) wordt op verzoek van de houder door de bevoegde autoriteit met vijf jaar verlengd met ingang van de datum van aanvraag wanneer de houder:
 
 - a). de onderstaande vaartijd kan aantonen op een schip dat vloeibaar aardgas (LNG) als brandstof gebruikt: of, wanneer dit niet het geval is,
 
@@ -2240,11 +2240,11 @@ Het praktisch deel van het examen wordt aan boord van een schip en/of aan de wal
 
 - –. ten minste 90 dagen voor de voorafgaande periode van een jaar;
 
-- b). aan een opfriscursus met examen heeft deelgenomen. De bepalingen van [artikel 4a.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.03&z=2021-10-06&g=2021-10-06) zijn van overeenkomstige toepassing op de inhoud van de opfriscursus en van het examen, waarbij de cursus- en examenomvang wordt teruggebracht.
+- b). aan een opfriscursus met examen heeft deelgenomen. De bepalingen van [artikel 4a.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&hoofdstuk=4a&artikel=4a.03&z=2022-05-19&g=2022-01-01) zijn van overeenkomstige toepassing op de inhoud van de opfriscursus en van het examen, waarbij de cursus- en examenomvang wordt teruggebracht.
 
 ##### Artikel 4a.05. Bevoegdheid
 
-De bevoegdheid om erkende cursussen en opfriscursussen te verzorgen, examens af te nemen en verklaringen overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2021-10-06&g=2021-10-06) af te geven ligt bij erkende opleidingsinstituten.
+De bevoegdheid om erkende cursussen en opfriscursussen te verzorgen, examens af te nemen en verklaringen overeenkomstig het model van [bijlage E1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=E1&z=2022-05-19&g=2022-01-01) af te geven ligt bij erkende opleidingsinstituten.
 
 De cursussen, opfriscursussen en opleidingsinstituten worden erkend door de bevoegde autoriteiten op basis van de uniforme criteria die door de CCR zijn vastgelegd.
 
