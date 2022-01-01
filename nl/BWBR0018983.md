@@ -4,7 +4,7 @@ identifier: "BWBR0018983"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018983"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet toelating zorginstellingen in werking treedt.
 
-### Hoofdstuk I. Aanwijzing instellingen
+### Hoofdstuk I. Begripsomschrijvingen
 
 ##### Artikel 1.1
 
@@ -58,123 +58,71 @@ In dit besluit wordt, tenzij anders bepaald, verstaan onder:
 
 - b. Wlz-verblijf: het verblijf, bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
-- c. Zvw-verblijf: het verblijf, omschreven in [artikel 2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12).
+- c. Zvw-verblijf: het verblijf, omschreven in [artikel 2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12);
+
+- d. kleinschalige woonvoorziening: instelling die:
+
+- –. bestaat uit een of meerdere zelfstandige woningen, dat wil zeggen woningen die naast één of meer privévertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben;
+
+- –. een beperkte omvang heeft, dat wil zeggen dat deze huisvesting biedt aan ten hoogste zes personen; en
+
+- –. samen met andere in de directe omgeving gelegen zodanige voorzieningen aan niet meer dan 50 personen verblijf biedt.
 
 ##### Artikel 1.2
 
-Voor de toepassing van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) worden de volgende categorieën van instellingen aangewezen:
-
-- 1. instellingen voor medisch-specialistische zorg;
-
-- 2. audiologische centra;
-
-- 3. trombosediensten;
-
-alsmede instellingen voor:
-
-- 4. vervallen;
-
-- 5. huisartsenzorg;
-
-- 6. verloskundige zorg;
-
-- 7. kraamzorg;
-
-- 8. mondzorg;
-
-- 9. paramedische zorg;
-
-- 10. het verstrekken van hulpmiddelen;
-
-- 11. het verlenen van farmaceutische zorg;
-
-- 12. ziekenvervoer;
-
-- 13. erfelijkheidsadvisering;
-
-- 14. behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening;
-
-- 15. vervallen;
-
-- 16. vervallen;
-
-- 17. persoonlijke verzorging;
-
-- 18. verpleging;
-
-- 19. begeleiding;
-
-- 20. ADL-assistentie;
-
-- 21. behandeling, anders dan bedoeld onder nummer 14;
-
-- 22. vervallen;
-
-- 23. vervallen;
-
-- 24. de uitleen van verpleegartikelen.
+Vervallen
 
 ### Hoofdstuk II. Uitzonderingen
 
 ##### Artikel 2.1
 
-1. Niet tot de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01) genoemde instellingen behoren militaire instellingen als ziekenboegen, gezondheidscentra en operationeel geneeskundige instellingen.
-
-2. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01), voor zover het betreft militaire ziekenhuizen en militaire revalidatiecentra, zijn de [artikelen 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=7), [9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=9), en [13, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=13) niet van toepassing.
-
-3. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01), voor zover het betreft academische ziekenhuizen, is [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2021-01-01&g=2021-01-01) van dit besluit niet van toepassing.
-
-4. [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2021-01-01&g=2021-01-01) is uitsluitend van toepassing op:
-
-- a. de instellingen, bedoeld in het vijfde lid, met uitzondering van academische ziekenhuizen, en
-
-- b. op overige instellingen wanneer daarop [artikel 2, eerste lid, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) van toepassing is.
-
-5. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) zijn uitsluitend van toepassing op de instellingen, bedoeld in [artikel 1.2, onder de nummers 1, 17, 18, 19, en 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01) alsmede op de Regionale Ambulancevoorzieningen, bedoeld in de [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925).
-
-6. [Artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) is uitsluitend van toepassing op:
-
-- a. de instellingen, bedoeld in [artikel 1.2, nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01), een en ander met uitzondering van militaire instellingen;
-
-- –. die zorg verlenen in combinatie met Zvw-verblijf;
-
-- –. voor welke zorg op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) een tarief is vastgesteld; en
-
-- –. welke zorg behoort tot de ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) te verzekeren prestaties,
-
-- b. instellingen die zorg verlenen in combinatie met Wlz-verblijf.
-
-7. In afwijking van het zesde lid geldt [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan die:
-
-- a. bestaan uit zelfstandige woningen, dat wil zeggen woningen die naast één of meer privévertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben,
-
-- b. een beperkte omvang hebben, dat wil zeggen dat zij huisvesting bieden aan ten hoogste zes personen, en
-
-- c. samen met andere in de directe omgeving gelegen zodanige voorzieningen aan niet meer dan 50 personen verblijf bieden.
+Vervallen
 
 ##### Artikel 2.2
 
-De instellingen, genoemd in [artikel 1.2, onder de nummers 5 tot en met 14, 20 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01) worden voor de toepassing van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) aangemerkt als in het bezit van een toelating.
+Vervallen
 
 ### Hoofdstuk III. Winstoogmerk
 
 ##### Artikel 3.1
 
-Als instellingen waarvoor winstoogmerk is toegestaan, worden aangewezen:
+Als categorieën van instellingen waarvoor winstoogmerk is toegestaan, worden aangewezen instellingen die uitsluitend een of meer van de volgende vormen van zorg verlenen:
 
-- a. de instellingen, behorend tot de categorie, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01), die uitsluitend de daar genoemde zorg verlenen in verband met een psychiatrische aandoening, niet in combinatie met Zvw-verblijf;
+- –. audiologische zorg;
 
-- b. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 2, 3, 5 tot en met 12, 14 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01);
+- –. behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening;
 
-- c. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 17, 18, 19 en 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2021-01-01&g=2021-01-01), die de desbetreffende zorg niet verlenen in combinatie met Wlz-verblijf;
+- –. farmaceutische zorg;
 
-- d. de instellingen, bedoeld in [artikel 2.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=II&artikel=2.1&z=2021-01-01&g=2021-01-01).
+- –. huisartsenzorg;
+
+- –. kraamzorg;
+
+- –. medisch specialistische zorg, uitsluitend in verband met een psychiatrische aandoening en niet in combinatie met Zvw-verblijf;
+
+- –. mondzorg;
+
+- –. paramedische zorg;
+
+- –. persoonlijke verzorging, verpleging, begeleiding, schoonmaak van de woning of behandeling, anders dan behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening, indien deze vormen van zorg niet worden verleend in combinatie met Wlz-verblijf;
+
+- –. trombosezorg;
+
+- –. uitleen van verpleegartikelen;
+
+- –. verloskundige zorg;
+
+- –. verstrekken van hulpmiddelen;
+
+- –. vervoer;
+
+- –. zorg in een kleinschalige woonvoorziening.
 
 ### Hoofdstuk IV. Aanvraag toelating
 
 ##### Artikel 4.1
 
-De aanvraag aan Onze Minister om een toelating wordt ingediend onder gebruikmaking van een door Onze Minister beschikbaar te stellen formulier.
+Vervallen
 
 ##### Artikel 4.2
 
@@ -204,15 +152,7 @@ Vervallen
 
 ##### Artikel 6.1
 
-1. Met betrekking tot de bestuursstructuur van instellingen gelden de volgende eisen:
-
-- a. er is een orgaan dat toezicht houdt op het beleid van de dagelijkse of algemene leiding van de instelling en deze met raad ter zijde staat; geen persoon kan tegelijk deel uitmaken van het toezichthoudend orgaan en de dagelijkse of algemene leiding;
-
-- b. het toezichthoudend orgaan is zodanig samengesteld dat de leden ten opzichte van elkaar, de dagelijkse en algemene leiding van de instelling en welk deelbelang dan ook onafhankelijk en kritisch kunnen opereren;
-
-- c. de instelling legt inzichtelijk de verantwoordelijkheidsverdeling tussen het toezichthoudend orgaan en de dagelijkse of algemene leiding vast, alsmede de wijze waarop interne conflicten tussen beide organen worden geregeld.
-
-2. Instellingen die rechtspersoon zijn, met uitzondering van kerkgenootschappen, leggen het in het eerste lid bepaalde vast in de statuten; de overige instellingen leggen dat anderszins schriftelijk vast.
+Vervallen
 
 ##### Artikel 6.2
 
@@ -222,57 +162,37 @@ Vervallen
 
 ##### Artikel 6.3
 
-De instelling heeft schriftelijk vastgelegd welk orgaan of welke organen van de instelling welke bevoegdheden heeft onderscheidenlijk hebben ten aanzien van welk onderdeel of aspect van de bedrijfsvoering.
+Vervallen
 
 ##### Artikel 6.4
 
-1. De instelling heeft schriftelijk en inzichtelijk vastgelegd hoe de zorgverlening georganiseerd wordt, van welke andere organisatorische verbanden daarbij gebruik wordt gemaakt en wat de aard is van de relaties met die andere verbanden, waaronder begrepen verantwoordelijkheden, taken en beslissingsbevoegdheden.
-
-2. De activiteiten van de instelling waarvoor de toelating geldt, worden in ieder geval financieel onderscheiden van andere activiteiten van de instelling.
+Vervallen
 
 ##### Artikel 6.5
 
-In de financiële administratie van de instelling zijn ontvangsten en betalingen duidelijk traceerbaar naar bron en bestemming, en duidelijk is wie op welk moment welke verplichtingen voor of namens de instelling is aangegaan.
+Vervallen
 
 ### Hoofdstuk VII. Gegevensverstrekking
 
 ##### Artikel 7.1
 
-Dit hoofdstuk heeft betrekking op de in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) bedoelde gegevens van de in [artikel 2.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=II&artikel=2.1&z=2021-01-01&g=2021-01-01), bedoelde instellingen, voor zover die betreffen:
-
-- –. de structuur van de instellingen;
-
-- –. het gebruik van de instellingen;
-
-- –. de investeringen en de exploitatiekosten van de instellingen,
-
-in de volgende artikelen «gegevens» genoemd.
+Vervallen
 
 ##### Artikel 7.2
 
-1. Onze Minister geeft per categorie van instellingen en per categorie van personen die bij de exploitatie van een instelling betrokken zijn, aan, welke gegevens jaarlijks dienen te worden verstrekt.
-
-2. Onze Minister kan voor instellingen gelegen binnen een door hem aan te wijzen gebied en voor personen die bij de exploitatie van die instellingen betrokken zijn, aangeven welke gegevens op zijn desbetreffend verzoek dienen te worden verstrekt.
-
-3. Met betrekking tot academische en militaire ziekenhuizen geeft Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen onderscheidenlijk in overeenstemming met Onze Minister van Defensie aan welke gegevens dienen te worden verstrekt.
+Vervallen
 
 ##### Artikel 7.3
 
-1. De gegevens bedoeld in [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2021-01-01&g=2021-01-01), dienen jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben te worden verstrekt.
-
-2. De gegevens, bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2021-01-01&g=2021-01-01), dienen te worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van Onze Minister.
-
-3. Met betrekking tot academische ziekenhuizen en militaire ziekenhuizen geeft Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen onderscheidenlijk in overeenstemming met Onze Minister van Defensie aan, op welke termijn de gegevens bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2021-01-01&g=2021-01-01), dienen te worden verstrekt.
+Vervallen
 
 ##### Artikel 7.4
 
-1. Onze Minister kan regels vaststellen over de wijze waarop en de vorm waarin de gegevens dienen te worden verstrekt.
-
-2. Onze Minister wijst instanties aan die de te verstrekken gegevens verzamelen en verwerken. Hij stelt voorschriften die door die instanties in acht worden genomen.
+Vervallen
 
 ##### Artikel 7.5
 
-De gegevens kunnen door Onze Minister op door hem te bepalen wijze ter beschikking worden gesteld van de organen genoemd in of betrokken bij de uitvoering van de wet.
+Vervallen
 
 ##### Artikel 7.6
 
@@ -280,7 +200,7 @@ Vervallen
 
 ##### Artikel 7.7
 
-Onze Minister stelt regels omtrent de wijze van vergoeding van de kosten, verbonden aan de verstrekking van de gegevens.
+Vervallen
 
 ##### Artikel 7.8
 
@@ -336,7 +256,27 @@ In dit hoofdstuk wordt verstaan onder sanering: het geheel van de maatregelen di
 
 ##### Artikel 8.6
 
-Vervallen
+1. [Artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) is uitsluitend van toepassing op:
+
+- a. instellingen die medisch specialistische zorg verlenen:
+
+- 1°. die wordt verleend in combinatie met Zvw-verblijf;
+
+- 2°. waarvoor op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) een tarief is vastgesteld; en
+
+- 3°. die behoort tot de ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) te verzekeren prestaties;
+
+- b. instellingen die zorg verlenen in combinatie met Wlz-verblijf.
+
+2. In afwijking van het eerste lid geldt [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) niet voor:
+
+- a. kleinschalige woonvoorzieningen;
+
+- b. de militair geneeskundige dienst, bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
+
+- c. rijksinstellingen als bedoeld in [artikel 1.1, eerste lid, onderdeel j, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1);
+
+- d. instellingen als bedoeld in [artikel 3.3, eerste lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3).
 
 ##### Artikel 8.7
 
