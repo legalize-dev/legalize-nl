@@ -4,7 +4,7 @@ identifier: "BWBR0042934"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042934"
 soort: "wet"
@@ -52,19 +52,13 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-1. Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat [artikel I, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0042934&artikel=I&z=2020-01-01&g=2020-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
-
-2. In afwijking van het eerste lid treden [artikel I, onderdelen A, B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0042934&artikel=I&z=2020-01-01&g=2020-01-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042934&artikel=II&z=2020-01-01&g=2020-01-01) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042934&artikel=III&z=2020-01-01&g=2020-01-01) in werking met ingang van 1 januari 2022, met dien verstande dat die artikelen voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2022.
+Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat [artikel I, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0042934&artikel=I&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
 
 ##### Artikel V
 
