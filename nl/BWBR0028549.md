@@ -4,7 +4,7 @@ identifier: "BWBR0028549"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-01-01"
-last_updated: "2021-06-30"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028549"
 soort: "wet-BES"
@@ -91,7 +91,7 @@ entry_into_force: "2010-10-10"
 
 - y. **Vluchtinformatiegebied San Juan:** gebied begrensd door de posities met de hierna genoemde coördinaten alsmede het luchtruim daarboven: 2330N6000W-20000N60000W-1800N6130W- 1800N6200W-1722N6300W- 1520N6300W- 1500N6315W- 1500N6500W- 1541N6704W- 1600N6800W-1900N6800W- 1930N6853W- 2045N6734W- 2245N6828N-2330N6814W;
 
-- z. **luchtverkeersdienstverlener:** bij of krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2021-06-30&g=2021-06-30) aangewezen rechtspersoon belast met het geven van luchtverkeersdienstverlening;
+- z. **luchtverkeersdienstverlener:** bij of krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=1&artikel=22&z=2022-01-01&g=2022-01-01) aangewezen rechtspersoon belast met het geven van luchtverkeersdienstverlening;
 
 - aa. **NOTAM:** een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering er tijdig kennis van nemen.
 
@@ -167,17 +167,17 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 6. Een vergunning kan onder beperkingen worden verleend.
 
-7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30) is van overeenkomstige toepassing.
+7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 #### § 2. Particulier vervoer
 
 ##### Artikel 12
 
-1. Het is verboden met een luchtvaartuig particulier vervoer te verrichten, wanneer de houder of de gezagvoerder van het betrokken luchtvaartuig niet aannemelijk kan maken, dat het betreffende vervoer niet als beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30) kan worden aangemerkt.
+1. Het is verboden met een luchtvaartuig particulier vervoer te verrichten, wanneer de houder of de gezagvoerder van het betrokken luchtvaartuig niet aannemelijk kan maken, dat het betreffende vervoer niet als beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01) kan worden aangemerkt.
 
 2. Het is verboden particulier vervoer te verrichten met een luchtvaartuig met een toegelaten startmassa van meer dan 2000 kg.
 
-3. Door de Minister kan ontheffing worden verleend van het tweede lid, indien de aanvrager aantoont dat met het luchtvaartuig, waarvoor de ontheffing is gevraagd, geen beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30), zal worden verricht en dat het vervoer veilig kan plaatsvinden.
+3. Door de Minister kan ontheffing worden verleend van het tweede lid, indien de aanvrager aantoont dat met het luchtvaartuig, waarvoor de ontheffing is gevraagd, geen beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01), zal worden verricht en dat het vervoer veilig kan plaatsvinden.
 
 4. De in het derde lid bedoelde ontheffing wordt telkens verleend voor ten hoogste vijf jaar.
 
@@ -185,7 +185,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 6. Een ontheffing kan onder beperkingen worden verleend.
 
-7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30) is van overeenkomstige toepassing.
+7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 8. Door de Minister wordt de verleende ontheffing ingetrokken wanneer:
 
@@ -213,7 +213,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 7. Door de Minister kan van het vereiste ten aanzien van de nationaliteit, zoals bepaald in het tweede lid, worden afgeweken.
 
-8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30) is van overeenkomstige toepassing.
+8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 #### § 4. Bijzondere activiteiten
 
@@ -233,7 +233,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 7. Door de Minister kan van het vereiste ten aanzien van de nationaliteit zoals bepaald in het tweede lid, worden afgeweken.
 
-8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30) is van overeenkomstige toepassing.
+8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 #### § 5. Rondvluchten
 
@@ -249,7 +249,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 4. Een vergunning kan onder beperkingen worden verleend.
 
-5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30) is van overeenkomstige toepassing.
+5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 ### Afdeling 5
 
@@ -259,7 +259,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 1. Een vergunning wordt geschorst:
 
-- a. wanneer niet wordt voldaan aan het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30).
+- a. wanneer niet wordt voldaan aan het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01).
 
 - b. wegens uitoefening van het vervoer of de betreffende activiteit in strijd met bij of krachtens deze wet gegeven regels;
 
@@ -303,9 +303,9 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 - b. bij herhaling of in ernstige mate van gebreken bij de uitvoering der vluchten is gebleken;
 
-- c. een van de redenen van intrekking als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2021-06-30&g=2021-06-30), van toepassing is.
+- c. een van de redenen van intrekking als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2022-01-01&g=2022-01-01), van toepassing is.
 
-3. Voor de publicatie van de verlenging is het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2021-06-30&g=2021-06-30), van overeenkomstige toepassing.
+3. Voor de publicatie van de verlenging is het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 4. Het bepaalde in dit artikel is tevens van toepassing op een ontheffing.
 
@@ -335,23 +335,17 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 3. Van de afkondiging van bedoelde periode wordt mededeling gedaan door middel van de Staatscourant.
 
-### Hoofdstuk IV. Luchtverkeer en veiligheid
+### Hoofdstuk IV. Veiligheid luchtverkeer en beveiliging van de burgerluchtvaart
 
 ##### Artikel 22
 
-1. Bij of krachtens algemene maatregel van bestuur, worden, onder vastlegging van de begrenzing van de gedeelten van het luchtruim die zich bevinden boven het territoir van de openbare lichamen dan wel die delen waarbinnen de Minister de verantwoordelijkheid voor het verzorgen van de luchtverkeersdienstverlening heeft aanvaard, regels gesteld:
+Bij of krachtens algemene maatregel van bestuur, worden, onder vastlegging van de begrenzing van de gedeelten van het luchtruim die zich bevinden boven het territoir van de openbare lichamen dan wel die delen waarbinnen de Minister van Infrastructuur en Waterstaat de verantwoordelijkheid voor het verzorgen van de luchtverkeersdienstverlening heeft aanvaard, regels gesteld:
 
 - a. terzake de luchtverkeerdienstverlening in genoemd gebied, de doeleinden hiervan en de toepassing van deze regels;
 
 - b. met betrekking tot de uitvoering van de luchtverkeersdienstverlening;
 
 - c. ter bevordering van de veiligheid en de regelmaat van het luchtverkeer.
-
-2. Het bepaalde bij of krachtens [afdeling 3A van Hoofdstuk IV van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&afdeling=3A) is met uitzondering van [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37t) van overeenkomstige toepassing op de beveiliging van de burgerluchtvaart, met dien verstande dat in de [artikelen 37ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ab), [37ae, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ae), en [37t](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37t) de verwijzing naar ‘een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart’ buiten beschouwing blijft. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing.
-
-3. De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen als bedoeld in [artikel 37a, eerste lid, onderdeel d, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37a) en is gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen ter zake. Onze Minister van Justitie kan nadere regels stellen over de controle van vracht.
-
-4. Bij regeling van Onze Minister van Veiligheid en Justitie kan ten aanzien van bepaalde luchthavens vrijstelling worden verleend van een of meer van de beveiligingsmaatregelen die bij of krachtens [afdeling 3A van Hoofdstuk IV van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&afdeling=3A) zijn vastgesteld. Indien een vrijstelling is verleend, kan Onze Minister van Veiligheid en Justitie met het oog op een adequate beveiliging aanwijzingen geven over vervangende maatregelen.
 
 ##### Artikel 22a
 
@@ -387,7 +381,7 @@ Het is verboden de luchtvaart uit te oefenen:
 
 - a. op zodanige wijze, dat de openbare orde of veiligheid wordt verstoord of in gevaar gebracht;
 
-- b. in strijd met door de Minister gegeven voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=23&z=2021-06-30&g=2021-06-30) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2021-06-30&g=2021-06-30).
+- b. in strijd met door de Minister gegeven voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=23&z=2022-01-01&g=2022-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 26
 
@@ -437,9 +431,9 @@ Het is verboden de luchtvaart uit te oefenen:
 
 - a. een vergroting van het luchtvaartterrein;
 
-- b. een wijziging in de ligging van banen, een vergroting van lengte of breedte van bestaande banen of een verharding van banen, indien zulks een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2021-06-30&g=2021-06-30), ten gevolge kan hebben;
+- b. een wijziging in de ligging van banen, een vergroting van lengte of breedte van bestaande banen of een verharding van banen, indien zulks een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2022-01-01&g=2022-01-01), ten gevolge kan hebben;
 
-- c. een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2021-06-30&g=2021-06-30), om andere dan de onder b genoemde redenen.
+- c. een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2022-01-01&g=2022-01-01), om andere dan de onder b genoemde redenen.
 
 5. De Minister kan een verzoek tot aanwijzing of wijziging van een aanwijzing na overleg met het betrokken Bestuurscollege om redenen ontleend aan het algemeen belang afwijzen.
 
@@ -531,7 +525,7 @@ De exploitant van een voor het openbaar luchtverkeer aangewezen luchtvaartterrei
 
 - a. in strijd met de voorschriften en beperkingen bij de aanwijzing gesteld;
 
-- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2021-06-30&g=2021-06-30);
+- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2022-01-01&g=2022-01-01);
 
 - c. voor andere doeleinden, dan die, welke verband houden met de exploitatie van het luchtvaartterrein.
 
@@ -543,7 +537,7 @@ De exploitant van een voor het openbaar luchtverkeer aangewezen luchtvaartterrei
 
 - a. in strijd met de voorschriften en beperkingen bij de aanwijzing gesteld;
 
-- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2021-06-30&g=2021-06-30).
+- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2022-01-01&g=2022-01-01).
 
 2. Het eerste lid geldt niet, indien en voor zover door de Minister ontheffing is verleend.
 
@@ -585,25 +579,25 @@ In bijzondere omstandigheden in geval van ernstige verstoring van de binnenlands
 
 ##### Artikel 50
 
-1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2021-06-30&g=2021-06-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2021-06-30&g=2021-06-30), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2021-06-30&g=2021-06-30), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2021-06-30&g=2021-06-30), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2021-06-30&g=2021-06-30), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2021-06-30&g=2021-06-30), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2021-06-30&g=2021-06-30), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2021-06-30&g=2021-06-30), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2021-06-30&g=2021-06-30), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2021-06-30&g=2021-06-30), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2021-06-30&g=2021-06-30), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=37&z=2021-06-30&g=2021-06-30), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=38&z=2021-06-30&g=2021-06-30), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=39&z=2021-06-30&g=2021-06-30), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=40&z=2021-06-30&g=2021-06-30) of [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=3&artikel=43&z=2021-06-30&g=2021-06-30), wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2022-01-01&g=2022-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2022-01-01&g=2022-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2022-01-01&g=2022-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=1&artikel=22&z=2022-01-01&g=2022-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2022-01-01&g=2022-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2022-01-01&g=2022-01-01), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2022-01-01&g=2022-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=37&z=2022-01-01&g=2022-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=38&z=2022-01-01&g=2022-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=39&z=2022-01-01&g=2022-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=40&z=2022-01-01&g=2022-01-01) of [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=3&artikel=43&z=2022-01-01&g=2022-01-01), wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-2. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2021-06-30&g=2021-06-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2021-06-30&g=2021-06-30), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2021-06-30&g=2021-06-30), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2021-06-30&g=2021-06-30), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2021-06-30&g=2021-06-30), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2021-06-30&g=2021-06-30), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+2. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2022-01-01&g=2022-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2022-01-01&g=2022-01-01), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-3. Met dezelfde straf wordt gestraft de gezagvoerder, die één van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2021-06-30&g=2021-06-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2021-06-30&g=2021-06-30), [25, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2021-06-30&g=2021-06-30) of [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2021-06-30&g=2021-06-30), overtreedt.
+3. Met dezelfde straf wordt gestraft de gezagvoerder, die één van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01), [25, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2022-01-01&g=2022-01-01) of [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2022-01-01&g=2022-01-01), overtreedt.
 
 4. Op overtreding van een voorschrift, gegeven bij of krachtens algemene maatregel van bestuur ingevolge deze wet, wordt bij die algemene maatregel van bestuur geen andere of hogere hoofdstraf gesteld, dan hetzij hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-5. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2021-06-30&g=2021-06-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2021-06-30&g=2021-06-30), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2021-06-30&g=2021-06-30), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2021-06-30&g=2021-06-30), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2021-06-30&g=2021-06-30), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2021-06-30&g=2021-06-30), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+5. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2022-01-01&g=2022-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2022-01-01&g=2022-01-01), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
 ##### Artikel 51
 
-Overtreding van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2021-06-30&g=2021-06-30) of 53 wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de zesde categorie, hetzij met beide straffen. Voor zover dat niet opzettelijk is begaan wordt de overtreding gestraft met een gevangenisstraf van vier jaren en een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+Overtreding van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2022-01-01&g=2022-01-01) of 53 wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de zesde categorie, hetzij met beide straffen. Voor zover dat niet opzettelijk is begaan wordt de overtreding gestraft met een gevangenisstraf van vier jaren en een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
 ##### Artikel 57
 
-1. De feiten strafbaar gesteld bij [artikel 50, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2021-06-30&g=2021-06-30), zijn overtredingen.
+1. De feiten strafbaar gesteld bij [artikel 50, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2022-01-01&g=2022-01-01), zijn overtredingen.
 
-2. De feiten strafbaar gesteld bij de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2021-06-30&g=2021-06-30), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=51&z=2021-06-30&g=2021-06-30) zijn misdrijven.
+2. De feiten strafbaar gesteld bij de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2022-01-01&g=2022-01-01), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=51&z=2022-01-01&g=2022-01-01) zijn misdrijven.
 
 ##### Artikel 58
 
@@ -623,9 +617,9 @@ De Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod.
 
 ##### Artikel 59
 
-1. Bij overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2021-06-30&g=2021-06-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2021-06-30&g=2021-06-30), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2021-06-30&g=2021-06-30), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2021-06-30&g=2021-06-30), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2021-06-30&g=2021-06-30) kan het luchtvaartuig door de personen, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=2&artikel=62&z=2021-06-30&g=2021-06-30), worden aangehouden en in beslag genomen.
+1. Bij overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2022-01-01&g=2022-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2022-01-01&g=2022-01-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2022-01-01&g=2022-01-01) kan het luchtvaartuig door de personen, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=2&artikel=62&z=2022-01-01&g=2022-01-01), worden aangehouden en in beslag genomen.
 
-2. Indien na een aanhouding en inbeslagneming op grond van een overtreding van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2021-06-30&g=2021-06-30), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2021-06-30&g=2021-06-30), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2021-06-30&g=2021-06-30) de gestelde boete door de bekeurde binnen een door de Minister te bepalen termijn is voldaan, kan de afgifte van het luchtvaartuig aan de rechthebbende overeenkomstig het gestelde in het tweede lid geschieden.
+2. Indien na een aanhouding en inbeslagneming op grond van een overtreding van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2022-01-01&g=2022-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2022-01-01&g=2022-01-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2022-01-01&g=2022-01-01) de gestelde boete door de bekeurde binnen een door de Minister te bepalen termijn is voldaan, kan de afgifte van het luchtvaartuig aan de rechthebbende overeenkomstig het gestelde in het tweede lid geschieden.
 
 ##### Artikel 61
 
@@ -647,7 +641,7 @@ Indien tijdens het plegen van een misdrijf nog geen jaar is verlopen, sedert een
 
 2. Bij ministeriële regeling kunnen personen worden aangewezen, die bevoegd zijn de opstijging van luchtvaartuigen te verbieden en te beletten.
 
-3. In de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=3&artikel=65&z=2021-06-30&g=2021-06-30) bedoelde gebouwen en inrichtingen, fabrieken, werkplaatsen en aanhorigheden daarvan, welke tevens woningen zijn, of alleen door een woning toegankelijk zijn, treden de in het eerste lid bedoelde ambtenaren tegen de wil van de bewoner niet binnen, dan op vertoon van een schriftelijke bijzondere machtiging van de officier van justitie of een hulpofficier van justitie, dan wel in tegenwoordigheid van een van dezen.
+3. In de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=3&artikel=65&z=2022-01-01&g=2022-01-01) bedoelde gebouwen en inrichtingen, fabrieken, werkplaatsen en aanhorigheden daarvan, welke tevens woningen zijn, of alleen door een woning toegankelijk zijn, treden de in het eerste lid bedoelde ambtenaren tegen de wil van de bewoner niet binnen, dan op vertoon van een schriftelijke bijzondere machtiging van de officier van justitie of een hulpofficier van justitie, dan wel in tegenwoordigheid van een van dezen.
 
 4. Van dit binnentreden wordt proces-verbaal opgemaakt, waarvan binnen tweemaal vier en twintig uur aan degene, in wiens woning is binnengetreden, een afschrift wordt uitgereikt.
 
@@ -731,13 +725,13 @@ Bij ministeriële regeling kunnen personen worden aangewezen, die bevoegd zijn d
 
 2. De ingevolge het Curacaosch Luchtvaartbesluit 1935 afgegeven bewijzen van inschrijving, van luchtwaardigheid, van bevoegdheid en van gelijkstelling blijven, voor zover zij hun geldigheid krachtens de bepalingen van dat besluit niet hebben verloren, hun geldigheid behouden totdat, bij algemene maatregel van bestuur een nadere regeling te dien aanzien zal zijn getroffen.
 
-3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij de Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kan [artikel 30 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=30&z=2021-06-30&g=2021-06-30), geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
+3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij de Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kan [artikel 30 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=30&z=2022-01-01&g=2022-01-01), geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
 
 4. Het voorgaande lid vindt overeenkomstige toepassing op beslissingen betreffende belemmerende werken en handelingen ingevolge het in het eerste lid bedoelde besluit genomen.
 
 5. De ingevolge het Reglement Luchtvaartexamens (PB 1995 no. 109) afgelegde examens blijven, voor zover zij hun geldigheid krachtens de bepalingen van dat reglement niet hebben verloren, hun geldigheid behouden totdat bij Ministeriële regeling een nadere regeling te dien aanzien zal zijn getroffen.
 
-6. Binnen twee jaar na de inwerkingtreding van deze wet worden de alsdan van kracht zijnde vergunningen door de bevoegde autoriteiten opnieuw vastgesteld met inachtneming van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30) van deze wet.
+6. Binnen twee jaar na de inwerkingtreding van deze wet worden de alsdan van kracht zijnde vergunningen door de bevoegde autoriteiten opnieuw vastgesteld met inachtneming van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01) van deze wet.
 
 ##### Artikel 69
 
@@ -755,7 +749,7 @@ Deze wet wordt aangehaald als: Luchtvaartwet BES.
 
 ##### Artikel 52
 
-1. Bij veroordeling wegens overtreding van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2021-06-30&g=2021-06-30), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2021-06-30&g=2021-06-30), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2021-06-30&g=2021-06-30), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2021-06-30&g=2021-06-30), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2021-06-30&g=2021-06-30), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2021-06-30&g=2021-06-30), kan de schuldige de bevoegdheid om een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
+1. Bij veroordeling wegens overtreding van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2022-01-01&g=2022-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2022-01-01&g=2022-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2022-01-01&g=2022-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2022-01-01&g=2022-01-01), kan de schuldige de bevoegdheid om een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
 
 2. Bij toepassing van het bepaalde in het eerste lid verliest een aan de veroordeelde afgegeven bewijs van bevoegdheid of van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak, voor wat betreft deze bijkomende straf, voor ten uitvoerlegging vatbaar is geworden.
 
@@ -768,5 +762,401 @@ Deze wet wordt aangehaald als: Luchtvaartwet BES.
 Het is degene, die weet of redelijkerwijze moet vermoeden, dat hem bij rechterlijke uitspraak de bevoegdheid een luchtvaartuig te bedienen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid ontzegd is, een luchtvaartuig te bedienen.
 
 ### Afdeling 3. Toezicht
+
+### Hoofdstuk VII. Luchtvaartterreinen
+
+### Afdeling 1. Luchtverkeersdienstverlening
+
+### Afdeling 2. Beveiliging van de burgerluchtvaart
+
+#### § 1. Algemeen
+
+##### Artikel 22b
+
+1. Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **beveiligingspersoneel:**
+
+- 1°. personen in dienst van een exploitant van een luchtvaartterrein of van een particuliere beveiligingsorganisatie en ambtenaren in de zin van [artikel 1, eerste lid van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1), die zijn belast met beveiligingstaken op een luchtvaartterrein, en
+
+- 2°. de door Onze Minister van Justitie en Veiligheid aangewezen ambtenaren van politie, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
+
+- b. **verboden voorwerpen:** wapens, explosieven of andere gevaarlijke apparaten, voorwerpen of stoffen die kunnen worden gebruikt om een wederrechtelijke daad te begaan die een gevaar vormt voor de veiligheid van de burgerluchtvaart;
+
+- c. **bagage:** goederen toebehorende aan passagiers,
+
+- 1°. die deze zelf in het luchtvaartuig meenemen als handbagage, of
+
+- 2°. die deze in verband met hun reis aan de luchtvaartmaatschappij hebben afgegeven teneinde in het ruim van het luchtvaartuig te worden vervoerd als ruimbagage;
+
+- d. **vracht:** goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen postzendingen, als bedoeld in [artikel 1, onder e, van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=1).
+
+- e. **luchtvaartterrein:** een luchtvaartterrein of deel daarvan dat niet uitsluitend voor militaire doeleinden wordt gebruikt, met inbegrip van vliegtuigen, bussen, bagagekarretjes of andere vervoersmiddelen, dan wel wandelgangen of loopbruggen;
+
+- f. **beveiligingscontrole:** de toepassing van middelen om het binnenbrengen van verboden voorwerpen te kunnen voorkomen;
+
+- g. **beveiligingsonderzoek:** de toepassing van technische en andere middelen die tot doel hebben verboden voorwerpen te identificeren en/of te detecteren;
+
+- h. **beveiligingscontrole van een luchtvaartuig:** een inspectie van die delen van de binnenkant van een vliegtuig waartoe passagiers zich toegang kunnen hebben verschaft alsmede een inspectie van het ruim met het doel verboden voorwerpen en wederrechtelijke daden tegen het luchtvaartuig op te sporen;
+
+- i. **beveiligingsdoorzoeking van een luchtvaartuig:** een inspectie van de binnenkant en van de toegankelijke delen van de buitenkant van het luchtvaartuig met het doel verboden voorwerpen en wederrechtelijke daden tegen het luchtvaartuig op te sporen;
+
+- j. **entiteit:** een persoon, organisatie of onderneming anders dan een exploitant van een luchtvaartterrein of luchtvaartmaatschappij, die maatregelen in verband met de beveiliging van de burgerluchtvaart toepast;
+
+- k. **erkend agent;** een luchtvaartmaatschappij, agent, expediteur of andere entiteit die zorg draagt voor beveiligingscontroles met betrekking tot vracht of post en als zodanig is erkend door Onze Minister van Justitie en Veiligheid;
+
+- l. **bekende afzender:** een afzender die voor eigen rekening vracht of post voor vervoer aanbiedt en wiens procedures in voldoende mate aan geldende beveiligingsregels en -normen beantwoorden om deze vracht of post met om het even welk luchtvaartuig te vervoeren en die als zodanig is goedgekeurd door Onze Minister van Justitie en Veiligheid.
+
+##### Artikel 22c
+
+Onze Minister van Justitie en Veiligheid is belast met de beveiliging van de burgerluchtvaart. De exploitant van een luchtvaartterrein, de luchtvaartmaatschappij en entiteiten zijn gehouden te voldoen aan door Onze Minister van Justitie en Veiligheid of namens deze door de commandant van de Koninklijke marechaussee gegeven aanwijzingen inzake de nakoming van een verplichting die op hen rust ingevolge de [artikelen 22f](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22f&z=2022-01-01&g=2022-01-01), [22i](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22i&z=2022-01-01&g=2022-01-01), [22k](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01), [22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22l&z=2022-01-01&g=2022-01-01), [22m](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22m&z=2022-01-01&g=2022-01-01), [22na](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=3&artikel=22na&z=2022-01-01&g=2022-01-01), [22nc](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=4&artikel=22nc&z=2022-01-01&g=2022-01-01), [22o](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), [22p](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22p&z=2022-01-01&g=2022-01-01), [22q](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22q&z=2022-01-01&g=2022-01-01), [22s](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22s&z=2022-01-01&g=2022-01-01), [22u](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22u&z=2022-01-01&g=2022-01-01) of [22va](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=6&artikel=22va&z=2022-01-01&g=2022-01-01).
+
+##### Artikel 22d
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van de controle, bedoeld in [artikel 22k, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01), en in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&z=2022-01-01&g=2022-01-01) en [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=6&z=2022-01-01&g=2022-01-01), alsmede voor de afhandeling van daarbij geconstateerde onregelmatigheden. De controle wordt verricht met inachtneming van de door Onze Minister van Justitie en Veiligheid gegeven algemene aanwijzingen.
+
+2. Onze Minister van Justitie en Veiligheid kan naar aanleiding van onvoorziene omstandigheden of bijzondere dreigingen bijzondere aanwijzingen geven voor de uitvoering van de controle, bedoeld in het eerste lid. In dat geval bepaalt Onze Minister van Justitie en Veiligheid dat de kosten worden vergoed die redelijkerwijs zijn gemaakt om de aanwijzing uit te voeren.
+
+##### Artikel 22e
+
+1. Onze Minister van Justitie en Veiligheid kan op grond van omstandigheden of inlichtingen vaststellen, dat er voor een luchtvaartterrein dan wel bepaalde daar aanwezige luchtvaartuigen, een bijzonder gevaar bestaat dat zij het object van geweldpleging, aanslagen of bedreiging zullen vormen. Hij geeft hiervan onverwijld kennis aan de exploitant van dat luchtvaartterrein en, in voorkomend geval, aan de luchtvaartmaatschappij van die luchtvaartuigen.
+
+2. Na toepassing van het eerste lid worden geen goederen aan boord van de betrokken luchtvaartuigen gebracht dan na, zo nodig stuksgewijs, onderzoek op de aanwezigheid van verboden voorwerpen.
+
+3. Onze Minister van Justitie en Veiligheid kan in andere dan de in het eerste lid bedoelde gevallen, luchtvaartuigen aanwijzen waarop het tweede lid van toepassing is.
+
+##### Artikel 22f
+
+1. Ter beveiliging van de burgerluchtvaart kan Onze Minister van Justitie en Veiligheid vluchten van een luchtvaartmaatschappij aanwijzen waarop ambtenaren van de Koninklijke marechaussee worden ingezet.
+
+2. De [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=14b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=14c) en [14d van het Besluit beveiliging burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=14d) zijn van overeenkomstige toepassing.
+
+##### Artikel 22g
+
+1. Indien de naleving van de bij of krachtens deze afdeling gestelde voorschriften gevaar dreigt te lopen, doet de exploitant van een luchtvaartterrein of de betrokken luchtvaartmaatschappij daarvan onverwijld mededeling aan de commandant van de Koninklijke marechaussee.
+
+2. Bij wijze van bestuursdwang kan Onze Minister van Justitie en Veiligheid het opstijgen van een luchtvaartuig verbieden en beletten indien er een redelijk vermoeden bestaat dat wegens het niet naleven van de bij of krachtens deze afdeling gestelde voorschriften, de beveiliging van de burgerluchtvaart in gevaar kan komen.
+
+3. Onze Minister van Justitie en Veiligheid kan de bevoegdheid, bedoeld in het tweede lid, mandateren aan de commandant van de Koninklijke marechaussee.
+
+##### Artikel 22h
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de inhoud van de opleidingen in het kader van de beveiliging van de burgerluchtvaart en de organisaties die deze opleidingen verzorgen.
+
+##### Artikel 22i
+
+1. De exploitant van een luchtvaartterrein draagt ervoor zorg dat het beveiligingspersoneel, bedoeld in [artikel 22b, eerste lid, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22b&z=2022-01-01&g=2022-01-01), en het personeel dat werkzaam is op de delen van het luchtvaartterrein, bedoeld in [artikel 22k, eerste lid, onderdeel b tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01), met uitzondering van het beveiligingspersoneel, bedoeld in artikel 22b, eerste lid, onderdeel a, onder 2, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+
+2. De luchtvaartmaatschappij, erkend agent en bekende afzender dragen ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+
+3. De houder van de concessie, bedoeld in [artikel 2 van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2), draagt ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtpost, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+
+4. De entiteit draagt ervoor zorg dat het personeel dat belast is met de uitvoering van beveiligingscontroles, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+
+##### Artikel 22j
+
+Onze Minister van Justitie en Veiligheid kan ten aanzien van bepaalde luchthavens vrijstelling verlenen van een of meer van de beveiligingsmaatregelen die bij of krachtens dit hoofdstuk zijn vastgesteld. Indien een vrijstelling is verleend, kan Onze Minister van Justitie en Veiligheid met het oog op een adequate beveiliging aanwijzingen geven over vervangende maatregelen.
+
+#### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
+
+##### Artikel 22k
+
+1. De exploitant van een luchtvaartterrein verdeelt het luchtvaartterrein in:
+
+- a. een landzijde;
+
+- b. een luchtzijde;
+
+- c. om beveiligingsredenen beperkt toegankelijke zones.
+
+2. Onze Minister van Justitie en Veiligheid, in overeenstemming met Onze Minister, kan delen van het luchtvaartterrein aanwijzen die in ieder geval tot een van de in het eerste lid bedoelde delen behoren.
+
+3. De exploitant van een luchtvaartterrein draagt er zorg voor:
+
+- a. dat personen anders dan passagiers die toegang hebben tot een van de in het eerste lid, onder b en c, bedoelde delen, over een door hem verstrekt of erkend toegangsbewijs beschikken, waaruit tevens duidelijk kenbaar is tot welke delen de drager toegang heeft;
+
+- b. dat personen anders dan passagiers die zich in een van de in het eerste lid, onder b en c, bedoelde delen bevinden, verplicht zijn het onder a bedoelde toegangsbewijs zichtbaar te dragen en dit te allen tijde op verzoek van een lid van het beveiligingspersoneel ter inzage te geven;
+
+- c. dat passagiers die zich in een van de in het eerste lid, onder b en c bedoelde delen bevinden, verplicht zijn een geldig reisbiljet of een daartoe afgegeven persoonsgebonden kaart bij zich te hebben en dit te allen tijde op verzoek van een lid van het beveiligingspersoneel ter inzage te geven;
+
+- d. dat voertuigen die worden gebruikt op de delen, bedoeld in het eerste lid, onder b en c, zijn voorzien van een door de exploitant van een luchtvaartterrein afgegeven toegangsbewijs dat duidelijk zichtbaar is aangebracht en waarop duidelijk kenbaar is tot welke delen het voertuig toegang heeft.
+
+4. Onze Minister van Justitie en Veiligheid kan nadere regels stellen met betrekking tot de eisen waar een door de exploitant van een luchtvaartterrein verstrekt of erkend toegangsbewijs moet voldoen.
+
+5. De exploitant van een luchtvaartterrein schermt de in het eerste lid, onder b en c, bedoelde delen van het luchtvaartterrein zodanig onderling van elkaar af dat zij slechts op een beperkt aantal door beveiligingspersoneel of anderszins bewaakte plaatsen toegankelijk zijn na controle van het toegangsbewijs. Delen die voor onderscheiden categorieën personeel toegankelijk zijn worden daarbij als onderscheiden delen aangemerkt.
+
+6. De plaatsen bedoeld in het vijfde lid, dienen duidelijk gemarkeerd te zijn onder aanduiding van de categorieën personen die toegang hebben.
+
+7. Een ieder die toegang zoekt tot of zich bevindt op een van de in het eerste lid, onder b en c, bedoelde delen, gedoogt dat vanwege de exploitant van een luchtvaartterrein onderzoek plaatsvindt aan zijn kleding, van voorwerpen die hij bij zich heeft of van het voertuig dat hij gebruikt.
+
+8. De exploitant van een luchtvaartterrein draagt er zorg voor, dat personen die niet voldoen aan het derde lid, onder b en c, of het zevende lid, de verdere toegang tot de in het eerste lid bedoelde delen van het luchtvaartterrein wordt ontzegd.
+
+##### Artikel 22l
+
+1. De exploitant van een luchtvaartterrein treft de nodige voorzieningen om te voorkomen dat personen of bagage aan boord van een luchtvaartuig gaan zonder dat deze zijn onderworpen aan een controle overeenkomstig [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&z=2022-01-01&g=2022-01-01).
+
+2. De exploitant van een luchtvaartterrein is verplicht te beschikken over:
+
+- a. voldoende en passende detectieapparatuur voor de uitoefening van de controle door het beveiligingspersoneel overeenkomstig [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&z=2022-01-01&g=2022-01-01);
+
+- b. een ruimte voor vertrekkende passagiers die zodanig is ingericht dat gecontroleerde passagiers en handbagage zijn afgeschermd en een vermenging met niet gecontroleerde personen en voorwerpen niet mogelijk is;
+
+- c. een ruimte voor onderzoek van bagage en dieren bestemd voor vervoer;
+
+- d. een afsluitbare en beveiligde ruimte bestemd voor het bewaren van verdachte bagage.
+
+3. Onze Minister van Justitie en Veiligheid kan, in overeenstemming met Onze Minister, nadere regels stellen met betrekking tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart.
+
+4. De ingebruikname van detectieapparatuur ten behoeve van de uitvoering van beveiligingsonderzoeken behoeft instemming van Onze Minister van Justitie en Veiligheid. Bij regeling van Onze Minister van Justitie en Veiligheid kunnen nadere regels worden gesteld omtrent de procedure tot instemming en intrekking van de instemming.
+
+##### Artikel 22m
+
+De exploitant van een luchtvaartterrein richt het luchtvaartterrein zodanig in, en treft zodanige voorzieningen dat:
+
+- a. een plaats beschikbaar is voor het afzonderen van een luchtvaartuig;
+
+- b. het beveiligingspersoneel snel en op eenvoudige wijze de verschillende delen van het luchtvaartterrein kan bereiken en toezicht kan houden op daar aanwezige personen;
+
+- c. redelijkerwijze voorkomen wordt dat onbevoegden een geparkeerd luchtvaartuig betreden;
+
+- d. de verschillende delen van het luchtvaartterrein helder verlicht en afsluitbaar zijn;
+
+- e. het beveiligingspersoneel op onvoorspelbare en op risico gebaseerde wijze patrouilles uitvoert op het luchtvaartterrein.
+
+##### Artikel 22n
+
+1. De exploitant van een luchtvaartterrein is gehouden een programma op te stellen met betrekking tot de beveiliging van het luchtvaartterrein. Het programma, alsmede de wijziging daarvan, behoeft de instemming van Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister. Het programma wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
+
+2. Het programma, bedoeld in het eerste lid, omvat in ieder geval:
+
+- a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van het luchtvaartterrein;
+
+- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 22e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22e&z=2022-01-01&g=2022-01-01);
+
+- c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein;
+
+- d. andere bij algemene maatregel van bestuur te bepalen onderwerpen.
+
+3. De exploitant van een luchtvaartterrein informeert Onze Minister en Onze Minister van Justitie en Veiligheid indien het programma niet kan worden uitgevoerd. Hij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van het luchtvaartterrein.
+
+4. Indien een onderdeel van het programma niet wordt uitgevoerd, kan Onze Minister van Justitie en Veiligheid de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het programma aangegeven niveau van beveiliging te benaderen.
+
+#### § 3. De verplichtingen van een luchtvaartmaatschappij
+
+##### Artikel 22na
+
+1. De luchtvaartmaatschappij treft zodanige voorzieningen ten aanzien van een door haar geëxploiteerd luchtvaartuig dat redelijkerwijze wordt voorkomen dat onbevoegden dit luchtvaartuig betreden.
+
+2. De luchtvaartmaatschappij onderwerpt een door haar geëxploiteerd luchtvaartuig voor vertrek aan een beveiligingsdoorzoeking of beveiligingscontrole van een luchtvaartuig.
+
+3. Onze Minister van Justitie en Veiligheid kan, in overeenstemming met Onze Minister, nadere regels stellen met betrekking tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart.
+
+##### Artikel 22nb
+
+1. De luchtvaartmaatschappij is gehouden een programma op te stellen met betrekking tot de beveiliging van haar luchtvaartuigen en deze ter inzage voor te leggen aan Onze Minister van Justitie en Veiligheid en Onze Minister.
+
+2. Het programma van een luchtvaartmaatschappij waarvan de exploitatievergunning in Nederland is afgegeven door Onze Minister, alsmede de wijziging daarvan, behoeft de instemming van Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister. Het programma wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
+
+3. Het programma van een luchtvaartmaatschappij waarvan de exploitatievergunning niet in Nederland is afgegeven wordt op verzoek van Onze Minister van Justitie en Veiligheid ter instemming voorgelegd aan Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister. Het programma wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
+
+4. Het programma, bedoeld in het eerste lid, omvat onder meer:
+
+- a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van de luchtvaartuigen;
+
+- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 22e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22e&z=2022-01-01&g=2022-01-01);
+
+- c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein;
+
+- d. andere bij algemene maatregel van bestuur te bepalen onderwerpen.
+
+5. De luchtvaartmaatschappij informeert Onze Minister van Justitie en Veiligheid en Onze Minister indien het programma niet kan worden uitgevoerd. Zij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van haar luchtvaartuigen.
+
+6. Indien een onderdeel van het programma niet wordt uitgevoerd, kan Onze Minister van Justitie en Veiligheid de luchtvaartmaatschappij een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het programma aangegeven niveau van beveiliging te benaderen.
+
+#### § 4. De verplichtingen van een entiteit
+
+##### Artikel 22nc
+
+1. De entiteit treft zodanige voorzieningen ten aanzien van de door haar behandelde goederen dat redelijkerwijze wordt voorkomen dat met deze goederen verboden voorwerpen het luchtvaartterrein of een luchtvaartuig worden binnengebracht.
+
+2. Onze Minister van Justitie en Veiligheid kan, in overeenstemming met Onze Minister, nadere regels stellen met betrekking tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart.
+
+##### Artikel 22nd
+
+1. De entiteit is gehouden een programma op te stellen met betrekking tot de beveiligingsmaatregelen die zij neemt ten aanzien van de beveiliging van de burgerluchtvaart en deze op verzoek voor te leggen aan Onze Minister van Justitie en Veiligheid.
+
+2. Het programma, alsmede de wijziging daarvan, wordt op verzoek van Onze Minister van Justitie en Veiligheid ter instemming voorgelegd. Het programma wordt op zijn verzoek, onder het stellen van een redelijke termijn, aangepast.
+
+3. Het programma, bedoeld in het eerste lid, omvat onder meer:
+
+- a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van de burgerluchtvaart;
+
+- b. andere bij algemene maatregel van bestuur te bepalen onderwerpen.
+
+4. De entiteit informeert Onze Minister van Justitie en Veiligheid indien het programma niet kan worden uitgevoerd of daarin wijzigingen worden aangebracht. Zij verstrekt desgevraagd Onze Minister van Justitie en Veiligheid informatie over de door haar genomen beveiligingsmaatregelen.
+
+5. Indien een onderdeel van het programma niet wordt uitgevoerd, kan Onze Minister van Justitie en Veiligheid de entiteit een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het programma aangegeven niveau van beveiliging te benaderen.
+
+#### § 5. Controle van personen, bagage en goederen
+
+##### Artikel 22o
+
+1. De exploitant van een luchtvaartterrein draagt ervoor zorg dat:
+
+- a. alle personen die toegang zoeken tot de in [artikel 22k, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01) bedoelde delen door het beveiligingspersoneel worden gecontroleerd op hun identiteit en op de rechtmatigheid van hun aanwezigheid in deze delen;
+
+- b. alle personen die als passagiers aan boord gaan van een luchtvaartuig, alsmede hun bagage, door het beveiligingspersoneel worden gecontroleerd op de aanwezigheid van verboden voorwerpen;
+
+- c. alle personen die anders dan als passagier toegang zoeken tot de in [artikel 22k eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01) bedoelde deel, alsmede de goederen die zij bij zich dragen, door het beveiligingspersoneel worden gecontroleerd op de aanwezigheid van verboden voorwerpen;
+
+- d. alle voertuigen die toegang zoeken tot het in [artikel 22k eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01) bedoelde deel, door het beveiligingspersoneel worden gecontroleerd op de aanwezigheid van verboden voorwerpen.
+
+2. De exploitant van een luchtvaartterrein draagt ervoor zorg dat goederen die bestemd zijn voor verkoop, verspreiding of gebruik in de om beveiligingsredenen beperkt toegankelijke zones door het beveiligingspersoneel worden gecontroleerd op de aanwezigheid van verboden voorwerpen.
+
+3. Indien bij controle verboden voorwerpen worden aangetroffen of de naleving van het gestelde in dit artikel met betrekking tot de uitvoering van de controle in gevaar komt, doet de exploitant van een luchtvaartterrein daarvan onverwijld mededeling aan de commandant van de Koninklijke marechaussee.
+
+##### Artikel 22p
+
+1. De luchtvaartmaatschappij draagt zorg dat geen ruimbagage aan boord is die niet toebehoort aan de aan boord zijnde passagiers. Onze Minister van Justitie en Veiligheid kan hiervoor vrijstelling verlenen. Daarbij worden voorschriften gegeven als vervangende waarborg met het oog op de beveiliging. In bijzondere gevallen kan Onze Minister van Justitie en Veiligheid ontheffing verlenen.
+
+2. De luchtvaartmaatschappij draagt zorg voor de controle op de aanwezigheid van verboden voorwerpen van alle goederen die aan boord gaan van een luchtvaartuig niet zijnde bagage of vracht.
+
+3. Het bepaalde in [artikel 22o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 22q
+
+1. De controle, bedoeld in [artikel 22o, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), omvat, voor zover het de controle van personen, handbagage en goederen die personen anders dan passagiers bij zich dragen betreft:
+
+- a. een onderzoek met behulp van daartoe bestemde detectieapparatuur van passagiers en handbagage of andere technische hulpmiddelen;
+
+- b. steekproefsgewijs en indien de detectieapparatuur daartoe aanleiding geeft, een onderzoek van personen aan hun kleding en een nader onderzoek van hun handbagage of goederen;
+
+- c. de stelselmatige uitvoering van het onderzoek aan kleding van passagiers en van handbagage in door Onze Minister van Justitie en Veiligheid bij ministeriële regeling te bepalen gevallen;
+
+- d. een bevraging van de passagiers met het oog op hun betrouwbaarheid in door Onze Minister van Justitie en Veiligheid bij ministeriële regeling te bepalen gevallen.
+
+2. De controle, bedoeld in [artikel 22o, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), omvat, voor zover het ruimbagage betreft, in ieder geval:
+
+- a. een onderzoek met behulp van daartoe bestemde detectieapparatuur of andere technische hulpmiddelen;
+
+- b. een nader onderzoek naar de inhoud van de bagage indien daartoe aanleiding is.
+
+3. De controle, bedoeld in [artikel 22o, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), omvat:
+
+- a. een nader onderzoek van het toegangsbewijs waarover de betrokkene beschikt;
+
+- b. een nader onderzoek van de identiteit van de betrokkene.
+
+4. De controle, bedoeld in [artikel 22o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01) en [artikel 22p, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22p&z=2022-01-01&g=2022-01-01), omvat in ieder geval een visuele uitwendige controle van de goederen of hun verpakking.
+
+5. Bij regeling van Onze Minister van Justitie en Veiligheid kan ten aanzien van bepaalde soorten vluchten of luchtvaartuigen, vrijstelling worden verleend van een controle van passagiers, handbagage of ruimbagage als bedoeld in het eerste en tweede lid, of van de controle bedoeld in [artikel 22p, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22p&z=2022-01-01&g=2022-01-01), wanneer de dreiging voor deze vluchten of luchtvaartuigen als gevolg van verboden voorwerpen, verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
+
+6. Bij regeling van Onze Minister van Justitie en Veiligheid kan om objectieve redenen ten aanzien van bepaalde categorieën personen, bagage, goederen of voertuigen vrijstelling worden verleend van een controle als bedoeld in [artikel 22o eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01). Daarbij kunnen nadere voorschriften worden gegeven.
+
+7. Onze Minister van Justitie en Veiligheid kan in bijzondere gevallen op de gronden, bedoeld in het vijfde en zesde lid, ontheffing verlenen van de controle.
+
+##### Artikel 22r
+
+1. Een lid van het beveiligingspersoneel belast met de controle, dat de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijze moet vermoeden, en voor wie niet reeds uit hoofde van ambt of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak de noodzaak tot bekendmaking voortvloeit.
+
+2. Een gelijke verplichting bestaat voor degene die anders dan bedoeld in het eerste lid ten behoeve van de beveiliging van de burgerluchtvaart een vertrouwensfunctie als bedoeld in [artikel 3 van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) vervult.
+
+##### Artikel 22s
+
+De exploitant van een luchtvaartterrein doet:
+
+- a. personen die weigeren zichzelf of hun bagage of goederen die zij bij zich dragen te onderwerpen aan de controle bedoeld in [artikel 22o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), verhinderen enig luchtvaartuig te betreden, hen de verdere toegang tot de in [artikel 22k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=2&artikel=22k&z=2022-01-01&g=2022-01-01), bedoelde delen ontzeggen en hen daaruit zo nodig verwijderen;
+
+- b. bij de controle van personen aangetroffen verboden voorwerpen, niet dan in overeenstemming met door Onze Minister van Justitie en Veiligheid te stellen regels of te geven aanwijzingen, aan boord van een luchtvaartuig brengen;
+
+- c. de maatregelen als bedoeld in onderdeel a, treffen jegens degene bij wie of in wiens bagage verboden voorwerpen worden aangetroffen, indien deze niet overeenkomstig de regels of aanwijzingen als bedoeld in onderdeel b, op verzoek van het beveiligingspersoneel zijn afgegeven.
+
+##### Artikel 22t
+
+De personen die aan boord gaan van een luchtvaartuig, zijn verplicht:
+
+- a. zich te onderwerpen aan een controle als bedoeld in [artikel 22o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01);
+
+- b. medewerking te verlenen aan de handelingen ter uitvoering van de verplichting, bedoeld in [artikel 22s, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22s&z=2022-01-01&g=2022-01-01).
+
+##### Artikel 22u
+
+De bepalingen in deze paragraaf laten onverlet dat de exploitant van een luchtvaartterrein op verzoek van een luchtvaartmaatschappij of een buitenlandse overheid een verdergaande controle kan uitvoeren, indien dit in de vervoersovereenkomst tussen de passagier en de luchtvaartmaatschappij wordt bepaald.
+
+#### § 6. Controle van vracht en post
+
+##### Artikel 22v
+
+1. De luchtvaartmaatschappij draagt ervoor zorg dat alle vracht en post die aan boord gaat van een door haar geëxploiteerd luchtvaartuig door haar of door een erkend agent is onderworpen aan een beveiligingsonderzoek, of afkomstig is van een bekende afzender en is beschermd tegen manipulatie door onbevoegden.
+
+2. Het beveiligingsonderzoek, bedoeld in het eerste lid, omvat in ieder geval:
+
+- a. een onderzoek met behulp van daartoe bestemde detectieapparatuur of andere technische hulpmiddelen;
+
+- b. een nader onderzoek naar de inhoud van de vracht of post indien daartoe aanleiding is.
+
+3. Bij regeling van Onze Minister van Justitie en Veiligheid, kan van het bepaalde in het eerste lid vrijstelling worden verleend. Daarbij worden voorschriften gegeven als vervangende waarborg met het oog op de beveiliging. In bijzondere gevallen kan Onze Minister van Justitie en Veiligheid ontheffing verlenen.
+
+4. Het bepaalde in [artikel 22o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=5&artikel=22o&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 22va
+
+1. Onze Minister van Justitie en Veiligheid kan een entiteit die vracht of post verwerkt erkennen als erkend agent of bekende afzender.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de erkenningsprocedure en de eisen waaraan entiteiten dienen te voldoen alvorens zij erkend kunnen worden als erkend agent of bekende afzender.
+
+##### Artikel 22vb
+
+1. Aan de luchtvaartmaatschappij of erkend agent voor vervoer toevertrouwde postzendingen als bedoeld in [artikel 1, onder e, van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=1) worden zonder goedvinden van de afzender of van de geadresseerde slechts geopend indien de rechter-commissaris bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba daartoe, op verzoek van de luchtvaartmaatschappij of erkend agent, bevel heeft gegeven.
+
+2. Het bevel, bedoeld in het eerste lid, wordt slechts gegeven indien het vermoeden bestaat dat zich in de postzending verboden voorwerpen bevinden.
+
+#### § 7. Handhaving
+
+##### Artikel 22w
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling is belast de commandant van de Koninklijke marechaussee. Onze Minister van Justitie en Veiligheid kan daartoe aanwijzingen geven.
+
+##### Artikel 22x
+
+1. Onze Minister van Justitie en Veiligheid is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze afdeling. [Afdeling 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) en [5.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.2) zijn van overeenkomstige toepassing.
+
+2. Onze Minister van Justitie en Veiligheid kan van de in het eerste lid genoemde bevoegdheid mandaat verlenen aan de commandant van de Koninklijke marechaussee.
+
+##### Artikel 22y
+
+1. Een klacht tegen beveiligingspersoneel als bedoeld in [artikel 22b, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22b&z=2022-01-01&g=2022-01-01), over een gedraging bij de uitvoering van een taak ingevolge deze afdeling, kan worden ingediend bij de commandant van de Koninklijke marechaussee.
+
+2. De klacht wordt behandeld door Onze Minister van Justitie en Veiligheid. Deze kan hiervoor mandaat verlenen aan de commandant van de Koninklijke marechaussee.
+
+3. [Titel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) en [9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) en de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) zijn van overeenkomstige toepassing.
+
+4. Voor de toepassing van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) en [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) wordt een gedraging als bedoeld in het eerste lid, aangemerkt als een gedraging van Onze Minister van Justitie en Veiligheid.
+
+5. Indien de klacht zich tevens richt tegen beveiligingspersoneel als bedoeld in [artikel 22b, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&afdeling=2&paragraaf=1&artikel=22b&z=2022-01-01&g=2022-01-01), en betrekking heeft op hetzelfde feitencomplex, wordt deze behandeld volgens de procedure die geldt voor dat beveiligingspersoneel.
+
+### Hoofdstuk V. Verboden operaties Verboden gebieden
+
+#### Misleidend kenmerk
+
+### Hoofdstuk VI
+
+### Afdeling 1. Aanwijzing van luchtvaartterreinen
+
+### Afdeling 2. Gebruik van luchtvaartterreinen
+
+### Afdeling 3. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
+
+### Hoofdstuk VIII. Bijzondere omstandigheden
+
+### Hoofdstuk IX
+
+### Afdeling 1. Strafbepalingen
+
+### Afdeling 2. Niet-strafrechtelijke maatregelen
+
+### Afdeling 3. Toezicht
+
+### Hoofdstuk X. Nadere voorschriften en Wijzigingen
 
 ### Hoofdstuk XI. Overgangs- en Slotbepalingen
