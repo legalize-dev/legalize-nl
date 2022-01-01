@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2021-02-26"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -214,7 +214,7 @@ In deze bijlage is in tabelvorm opgenomen voor welk artikel, artikellid of onder
 
 18 De ZO luidt: het bij plaatsonafhankelijke arbeid ontbreken of het onjuist toepassen van voorgeschreven beveiligingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen aan arbeidsmiddelen.
 
-19 De ODB luidt: het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Inspectie SZW over de voorgenomen totstandkoming van het bouwwerk.
+19 De ODB luidt: het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Nederlandse Arbeidsinspectie over de voorgenomen totstandkoming van het bouwwerk.
 
 20 De ODB luidt: het ontbreken van een veiligheid- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498).
 
@@ -340,9 +340,9 @@ N.B. Indien het valgevaar gepaard gaat met risico verhogende omstandigheden, zoa
 
 79 De ZO luiden:
 
-80 De ODB luidt: het werken met asbest of asbesthoudende producten zonder dit tijdig en (volledig) op correcte wijze te hebben gemeld aan de Inspectie SZW (lid 1).
+80 De ODB luidt: het werken met asbest of asbesthoudende producten zonder dit tijdig en (volledig) op correcte wijze te hebben gemeld aan de Nederlandse Arbeidsinspectie (lid 1).
 
-81 De ODB luidt: Het niet opnieuw melden aan de Inspectie SZW, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten (lid 2).
+81 De ODB luidt: Het niet opnieuw melden aan de Nederlandse Arbeidsinspectie, telkens wanneer een verandering in de arbeidsomstandigheden kan leiden tot een aanzienlijke toename van de blootstelling aan asbeststof of asbesthoudende producten (lid 2).
 
 82 De ZO luiden:
 
@@ -390,7 +390,7 @@ N.B. Indien het valgevaar gepaard gaat met risico verhogende omstandigheden, zoa
 
 104 De ODB luiden:
 
-105 De ODB luidt: het niet tijdig en op correcte wijze hebben gemeld aan de Inspectie SZW van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3e of 4e categorie.
+105 De ODB luidt: het niet tijdig en op correcte wijze hebben gemeld aan de Nederlandse Arbeidsinspectie van een ongeval of incident dat (mogelijkerwijs) heeft geleid tot het vrijkomen van een of meer biologische agentia van de 3e of 4e categorie.
 
 106 De ZO luiden:
 
@@ -432,7 +432,7 @@ N.B. Indien het valgevaar gepaard gaat met risico verhogende omstandigheden, zoa
 
 125 ZO luidt: het door één persoon verrichten van caissonarbeid.
 
-126 ODB luidt: het verrichten van caissonarbeid zonder de Inspectie SZW daarvan tijdig en op correcte wijze in kennis te stellen, onder overlegging van een deugdelijk werkplan.
+126 ODB luidt: het verrichten van caissonarbeid zonder de Nederlandse Arbeidsinspectie daarvan tijdig en op correcte wijze in kennis te stellen, onder overlegging van een deugdelijk werkplan.
 
 127 ZO luiden:
 
@@ -592,7 +592,7 @@ De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situat
 
 Er bestaat een aantal overtredingen in de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen. Het gaat hierbij om feiten met betrekking tot:
 
-Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
+Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Nederlandse Arbeidsinspectie ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
 **c.**met voorgenomen decompressie,
 
