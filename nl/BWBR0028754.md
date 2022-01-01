@@ -4,7 +4,7 @@ identifier: "BWBR0028754"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028754"
 soort: "ministeriele-regeling-BES"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het hoofd van de RCN-unit SZW, welke is gevestigd te Bonaire, Sint Eustatius en Saba, alsmede zijn plaatsvervanger en de ambtenaren die aldaar werkzaam zijn en die Inspecteur SZW of ambtenaar van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid zijn, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
+1. Het hoofd van de RCN-unit SZW, welke is gevestigd te Bonaire, Sint Eustatius en Saba, alsmede zijn plaatsvervanger en de ambtenaren die aldaar werkzaam zijn en die Inspecteur SZW of ambtenaar van de Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid zijn, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
 
 - a. de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437);
 
@@ -72,7 +72,7 @@ Besluit:
 
 - n. de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
 
-2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Inspectie SZW van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
+2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Nederlandse Arbeidsinspectie van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
 
 3. Naast de in het eerste en tweede lid genoemde ambtenaren worden tevens de ambtenaren die bij de RCN-unit SZW werkzaam zijn als medewerker of coördinator onderstand, aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595).
 
