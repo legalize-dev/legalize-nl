@@ -4,7 +4,7 @@ identifier: "BWBR0036229"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2014-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036229"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 Aan de directeur van de DICTU wordt volmacht en machtiging verleend tot:
 
-- a. het verlengen en zo nodig sluiten van overeenkomsten inzake ICT-beveiliging en -dienstverlening alsmede inzake hardware, ten behoeve van het beveiligde platform van de Inspectie SZW met de navolgende bedrijven:
+- a. het verlengen en zo nodig sluiten van overeenkomsten inzake ICT-beveiliging en -dienstverlening alsmede inzake hardware, ten behoeve van het beveiligde platform van de Nederlandse Arbeidsinspectie met de navolgende bedrijven:
 
 - I. Fox Crypto B.V., gevestigd te Delft, handelend onder de naam Fox-IT, voor de levering van hardware,
 
@@ -84,6 +84,6 @@ directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken
 
 1. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst, en werkt terug tot en met 1 november 2014.
 
-2. Deze regeling komt te vervallen met ingang van de dag dat het beveiligde platform van de Inspectie SZW wordt overgedragen aan de DICTU.
+2. Deze regeling komt te vervallen met ingang van de dag dat het beveiligde platform van de Nederlandse Arbeidsinspectie wordt overgedragen aan de DICTU.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
