@@ -4,7 +4,7 @@ identifier: "BWBR0044668"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-12-31"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044668"
 soort: "AMvB"
@@ -50,19 +50,13 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit beveiliging burgerluchtvaart.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit politiegegevens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -70,9 +64,9 @@ Wijzigt het Besluit beveiliging burgerluchtvaart.
 
 ##### Artikel V
 
-1. Dit besluit, met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044668&artikel=IV&z=2021-12-31&g=2021-12-31), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. Dit besluit, met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044668&artikel=IV&z=2022-01-01&g=2022-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044668&artikel=IV&z=2021-12-31&g=2021-12-31) treedt in werking met ingang van 31 december 2021.
+2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044668&artikel=IV&z=2022-01-01&g=2022-01-01) treedt in werking met ingang van 31 december 2021.
 
 ##### Artikel VI
 
