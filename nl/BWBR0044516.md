@@ -4,7 +4,7 @@ identifier: "BWBR0044516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-31"
-last_updated: "2021-09-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044516"
 soort: "ministeriele-regeling"
@@ -80,9 +80,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044516&artikel=2&z=2021-09-01&g=2021-09-01), zijn tot 1 januari 2022 met het toezicht onderscheidenlijk het markttoezicht op de naleving van het bepaalde bij of krachtens de [artikelen 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20f) en [20g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20g) belast de door de directie van de Dienst Wegverkeer aangewezen ambtenaren, niet zijnde ambtenaren van de divisie Voertuig, Regelgeving & Toelating van de Dienst Wegverkeer, indien en voor zover het betreft het op grond van [artikel 2b, tweede lid, van het Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006158&artikel=2b) in de gebruiksfase terugroepen van aangewezen motorrijtuigen als bedoeld in [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b).
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044516&artikel=2&z=2022-03-31&g=2022-01-01), zijn tot 1 januari 2022 met het toezicht onderscheidenlijk het markttoezicht op de naleving van het bepaalde bij of krachtens de [artikelen 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20f) en [20g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20g) belast de door de directie van de Dienst Wegverkeer aangewezen ambtenaren, niet zijnde ambtenaren van de divisie Voertuig, Regelgeving & Toelating van de Dienst Wegverkeer, indien en voor zover het betreft het op grond van [artikel 2b, tweede lid, van het Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006158&artikel=2b) in de gebruiksfase terugroepen van aangewezen motorrijtuigen als bedoeld in [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b).
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044516&artikel=2&z=2021-09-01&g=2021-09-01) zijn tot 1 januari 2022 met het toezicht onderscheidenlijk het markttoezicht op de naleving van het bepaalde bij of krachtens de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29) en [30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30) belast de in het eerste lid bedoelde ambtenaren van de Dienst Wegverkeer, indien en voor zover het betreft de taken als bedoeld in [artikel 2b, tweede lid, van het Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006158&artikel=2b).
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044516&artikel=2&z=2022-03-31&g=2022-01-01) zijn tot 1 januari 2022 met het toezicht onderscheidenlijk het markttoezicht op de naleving van het bepaalde bij of krachtens de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29) en [30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30) belast de in het eerste lid bedoelde ambtenaren van de Dienst Wegverkeer, indien en voor zover het betreft de taken als bedoeld in [artikel 2b, tweede lid, van het Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006158&artikel=2b).
 
 ##### Artikel 4
 
