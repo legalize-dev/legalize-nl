@@ -4,7 +4,7 @@ identifier: "BWBR0027093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2021-01-27"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027093"
 soort: "ministeriele-regeling"
@@ -161,7 +161,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2021-01-27&g=2021-01-27)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2021-01-27&g=2022-01-01)
 
 | Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- |
