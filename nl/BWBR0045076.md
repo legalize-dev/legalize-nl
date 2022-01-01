@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-12-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -293,5 +293,195 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Directie Toeslagen
+
+1. De directie Toeslagen staat onder leiding van een directeur.
+
+2. De directie Toeslagen heeft de volgende hoofdtaken:
+
+- a. het juist, tijdig en rechtmatig toekennen van toeslagen, die niet (semi)automatisch gedaan kunnen worden;
+
+- b. het waarmaken van de geformuleerde beloftes richting toeslaggerechtigden;
+
+- c. het (dagelijks) managen van de eigen operatie door het organiseren van het reguliere werk, het reageren op verstoringen en problemen en het zorgen voor kwaliteitsbeheersing, voorraadbeheer en capaciteitsmanagement;
+
+- d. het (systematisch) zoeken naar mogelijkheden om bestaande processen structureel te verbeteren en vernieuwen om te komen tot een optimale uitvoering;
+
+- e. in samenspraak met het directoraat-generaal Belastingdienst/FIOD en Functioneel Parket signalen van oneigenlijk gebruik en misbruik in de strafrechtketen brengen.
+
+3. De directie Toeslagen bestaat uit de volgende afdelingen:
+
+- a. de afdeling Vaktechniek, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- b. de afdeling Handhaving & Toezicht, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- c. de afdeling Uitvoeringsregie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- d. de afdeling Bezwaar, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- e. de afdeling Burgerinteractie & Dienstverlening, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- f. de afdeling Informatiebeheer, Data & Analytics, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- g. de afdeling Uitval/Uitworp, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- h. de afdeling Organisatie & Personeel, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider.
+
+4. Het afdelingshoofd bedoeld in het derde lid, onderdeel h, vervult tevens de rol van plaatsvervangend algemeen directeur.
+
+##### Artikel 7b. Directie Uitvoeringsorganisaties Herstel Toeslagen
+
+De directie Uitvoeringsorganisaties Herstel Toeslagen staat onder leiding van een directeur.
+
+##### Artikel 7c. Directie Strategie, Recht & Beleid
+
+1. De directie Strategie, Recht & Beleid staat onder leiding van een directeur, tevens plaatsvervangend directeur-generaal Toeslagen.
+
+2. De directie Strategie Recht & Beleid heeft de volgende taken:
+
+- a. bijdragen aan een toeslagenbeleid dat tegemoet komt aan de behoeften van toeslaggerechtigden, goed uitvoerbaar is en aansluit bij de wet en algemene rechtsbeginselen;
+
+- b. het namens de directeur-generaal vervullen van de rol van opdrachtnemer voor de opdrachtgevers;
+
+- c. het als kaderstellende directie samen met de uitvoerende directies vertalen van besluiten naar uitvoeringskaders en het bewaken van de eenheid van beleid en uitvoering;
+
+- d. het coördineren van de inhoudelijke bijdrage van het directoraat-generaal aan het parlementaire proces, waaronder de regievoering op het schrijven van Kamerbrieven en het beantwoorden van Kamervragen namens het directoraat-generaal.
+
+3. De directie Strategie, Recht & Beleid bestaat uit de volgende afdelingen:
+
+- a. de afdeling Beleid, politiek en strategie, dat onder leiding staat van een afdelingshoofd;
+
+- b. de afdeling Juridische zaken en vaktechniek, dat onder leiding staat van een afdelingshoofd.
+
+4. Een van de afdelingshoofden vervult tevens de rol van plaatsvervangend directeur. Binnen de afdelingen vervult de Coördinerend specialistisch adviseur de rol van plaatsvervangend afdelingshoofd.
+
+##### Artikel 7d. Directie Bedrijfsvoering
+
+1. De directie Bedrijfsvoering staat onder leiding van een directeur.
+
+2. De directie Bedrijfsvoering:
+
+- a. ondersteunt de directeur-generaal bij alle verantwoordelijkheden op het vlak van bedrijfsvoering om zo bij te dragen aan het realiseren van de inrichtings-, uitvoerings- en ontwikkelopgave van het directoraat-generaal; en
+
+- b. is daartoe kaderstellend en ondersteunend en heeft daarbij de volgende taakgebieden:
+
+- –. Human Resources;
+
+- –. Organisatieontwikkeling;
+
+- –. Communicatie;
+
+- –. Huisvesting;
+
+- –. Informatiehuishouding;
+
+- –. Veiligheid;
+
+- –. P&C en interne beheersing;
+
+- –. Inkoop.
+
+3. De directie Bedrijfsvoering bestaat uit de volgende teams:
+
+- a. het team HR/OO, dat onder leiding staat van een teamleider;
+
+- b. het team Communicatie, dat onder leiding staat van een teamleider;
+
+- c. het team Bedrijfsvoering, dat onder leiding staat van een teamleider.
+
+##### Artikel 7e. Directie Ketenregie
+
+1. De directie Ketenregie staat onder leiding van een directeur.
+
+2. De directie Ketenregie:
+
+- a. is verantwoordelijk voor het geheel van de massale Toeslagenprocessen en de IV-ondersteuning van de volledige Toeslagenketen;
+
+- b. waarborgt een effectieve uitvoering en de IV-ondersteuning van de keten(samenwerking) Toeslagen;
+
+- c. draagt zorg voor de planning, sturing, beheersing en monitoring van de massale processen;
+
+- d. heeft de taken behorende bij de CIO-Office.
+
+3. De directie Ketenregie bestaat uit de volgende teams die alle worden aangestuurd door de ketenmanager:
+
+- a. het team Running the business;
+
+- b. het team Changing the business;
+
+- c. het team Verantwoording en beheersing;
+
+- d. het team Kaderstelling c.q. visievorming (CIO Office).
+
+4. De ketenmanager vervult tevens de rol van plaatsvervangend directeur.
+
+##### Artikel 7f. Directie Control & Risk
+
+1. De directie Control & Risk staat onder leiding van een directeur.
+
+2. De directie Control & Risk heeft de volgende hoofdtaken:
+
+- a. het zelfstandig uitvoeren van de Toeslagenbrede (business en financiële) control;
+
+- b. het bewaken en het voeren van regie op de P&C-cyclus en bijdragen aan de departementale P&C-cyclus;
+
+- c. het bewaken van de rijksbrede en departementale kaders voor de financiën, control, financieel en materieel beheer;
+
+- d. onafhankelijk gevraagd en ongevraagd signaleren en adviseren (m.b.t. geld, formatie en bezetting, data en doelmatigheid);
+
+- e. interne beheersing, coördinatie richting de Accountantsdienst Rijk en – via de directie Financieel-Economische Zaken – de Algemene Rekenkamer;
+
+- f. het ontwikkelen, beheren en monitoren van het geheel van de control frameworks en overige systemen voor de diverse vormen van control en kwaliteitsborging binnen het directoraat-generaal als geheel;
+
+- g. het opstellen van een integrale Strategische Risicoanalyse en de verdere borging van risicomanagement binnen het directoraat-generaal;
+
+- h. het beleggen van budgetverantwoordelijkheid;
+
+- i. ontwikkelen en beheren van normen voor inrichting van de AO/IC-organisatie, in samenwerking met de directie Financieel-Economische Zaken en directoraat-generaal/directie Bedrijfsvoering;
+
+- j. het afstemmen met de (concern)controller van het Ministerie van Financiën, de directie Financieel-Economische Zaken en het directoraat-generaal Belastingdienst/concerndirectie Control en Financiën.
+
+3. De directie Control & Risk bestaat uit de volgende clusters die ieder onder functionele leiding staan van een clustercoördinator:
+
+- a. het cluster DG-control;
+
+- b. het cluster DO-control;
+
+- c. het cluster Kennis Organisatie, Proces & Risk.
+
+4. Een van de clustercoördinatoren vervult tevens de rol van plaatsvervangend directeur.
+
+##### Artikel 7g. Directie Business Ontwikkeling
+
+1. De directie Business Ontwikkeling staat onder leiding van een programmadirecteur.
+
+2. De directie draagt de zorg voor integrale regie, samenhang en ondersteuning voor de ontwikkelopgaven van het directoraat-generaal en heeft daarbij de volgende hoofdtaken:
+
+- a. het op basis van opdracht adviseren, aanjagen en ondersteunen bij de veranderopgaven van het directoraat-generaal, die project- of programmamatig worden opgepakt;
+
+- b. het – in opdracht – opzetten en aansturen van deze programma’s en projecten gericht op de verdere ontwikkeling van het directoraat-generaal’
+
+- c. het voorzien in voldoende kwalitatief hoogwaardige interne capaciteit op het terrein van project- of programmamanagement om invulling te kunnen geven aan de projecten en programma’s voor het directoraat-generaal.
+
+##### Artikel 7h. Bureau DG
+
+1. Het Bureau DG staat onder leiding van een afdelingshoofd.
+
+2. De Coördinerend Bestuursadviseur vervult tevens de rol van plaatsvervangend afdelingshoofd.
+
+3. Het Bureau DG heeft de volgende hoofdtaken:
+
+- a. Bestuursadvisering;
+
+- b. Procescoördinatie;
+
+- c. Bestuursondersteuning.
+
+### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
+
+### Hoofdstuk 6. Slotbepalingen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
