@@ -4,7 +4,7 @@ identifier: "BWBR0028723"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2023-07-07"
-last_updated: "2012-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028723"
 soort: "AMvB-BES"
@@ -103,7 +103,7 @@ Aan de ambtenaar, die niet in wachtdienst werkzaam is, wordt in beginsel op zond
 
 ##### Artikel 5
 
-Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2012-07-01&g=2012-07-01) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
+Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2012-07-01&g=2022-01-01) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
 
 ## Overwerk
 
