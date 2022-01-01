@@ -4,7 +4,7 @@ identifier: "BWBR0035217"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035217"
 soort: "AMvB"
@@ -96,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.2. Verhouding met [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081)
 
-Dit besluit is met uitzondering van de [artikelen 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.19&z=2021-11-01&g=2021-11-01) en [1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2021-11-01&g=2021-11-01) niet van toepassing op dieren waarop de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) van toepassing is.
+Dit besluit is met uitzondering van de [artikelen 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.19&z=2022-01-01&g=2022-01-01) en [1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2022-01-01&g=2022-01-01) niet van toepassing op dieren waarop de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) van toepassing is.
 
 ##### Artikel 1.3. Verboden gedragingen ten aanzien van dieren
 
@@ -114,7 +114,15 @@ Als gedragingen als bedoeld in [artikel 2.1, derde lid, van de wet](https://wett
 
 - f. het zich vervoeren of verplaatsen, het zich laten vervoeren of laten verplaatsen of een ander doen vervoeren of doen verplaatsen op een dier of in of op een vervoermiddel dat wordt voortbewogen door een dier, indien dat vervoeren of verplaatsen de krachten van dat dier kennelijk te boven gaat, of indien het dier daartoe kennelijk niet geschikt is;
 
-- g. het gebruik van of het vastbinden of aanlijnen van een dier met een voorwerp waarmee het dier door middel van scherpe uitsteeksels pijn kan worden toegebracht.
+- g. het gebruik van of het vastbinden of aanlijnen van een dier met een voorwerp waarmee het dier door middel van scherpe uitsteeksels pijn kan worden toegebracht;
+
+- h. het gebruik van apparatuur die geschikt is om aan een hond stroomstoten af te geven, met uitzondering van:
+
+- 1°. het gebruik daarvan bij het beroepsmatig verrichten van diergeneeskundige handelingen;
+
+- 2°. het gebruik daarvan in de uitvoering van de taak van de politie of de politietaken van de Koninklijke marechaussee, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3), onderscheidenlijk [artikel 4, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), in de uitvoering van de taken van de krijgsmacht, bedoeld in [artikel 97 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=97), in de uitvoering van een overheidstaak in het kader van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel of bij het trainen ten behoeve van de uitvoering van deze taken door de betrokken overheidsorganisatie, voor zover het met dat gebruik beoogde doel dit rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt;
+
+- 3°. het gebruik van elektrische afrastering.
 
 ##### Artikel 1.4. Criteria voor aanwijzing diersoorten of diercategorieën op positieflijst
 
@@ -142,7 +150,7 @@ Als gedragingen als bedoeld in [artikel 2.1, derde lid, van de wet](https://wett
 
 - ix. de mate waarin het dier behoefte heeft aan prikkels en afleiding, of
 
-- 2°. behoren tot een diersoort of diercategorie die bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-11-01&g=2021-11-01) zijn aangewezen, of
+- 2°. behoren tot een diersoort of diercategorie die bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-01-01&g=2022-01-01) zijn aangewezen, of
 
 - b. het houden van dieren van de desbetreffende diersoort of diercategorie:
 
@@ -220,7 +228,7 @@ Als gevallen als bedoeld in [artikel 2.10, eerste lid, van de wet](https://wette
 
 ##### Artikel 1.11. Reikwijdte
 
-De [artikelen 1.12 tot en met 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=3&artikel=1.12&z=2021-11-01&g=2021-11-01) zijn van toepassing op zoogdieren, reptielen, amfibieën en vogels.
+De [artikelen 1.12 tot en met 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=3&artikel=1.12&z=2022-01-01&g=2022-01-01) zijn van toepassing op zoogdieren, reptielen, amfibieën en vogels.
 
 ##### Artikel 1.12. Besparen vermijdbare vorm van pijn, spanning of lijden
 
@@ -286,7 +294,7 @@ Als diercategorieën als bedoeld in [artikel 2.2, zevende lid, van de wet](https
 
 - c. konijnen: 6 weken;
 
-- d. papegaaiachtigen: de voor de desbetreffende soort papegaaiachtigen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=I&z=2021-11-01&g=2021-11-01) bij dit besluit vermelde leeftijd;
+- d. papegaaiachtigen: de voor de desbetreffende soort papegaaiachtigen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=I&z=2022-01-01&g=2022-01-01) bij dit besluit vermelde leeftijd;
 
 - e. Chimpansees: 4,5 jaar;
 
@@ -396,13 +404,13 @@ Het is degen die een dier houdt verboden de diergeneesmiddelen, bedoeld in [arti
 
 ##### Artikel 2.1. Aanwijzing productiedieren
 
-Als diersoorten of diercategorieën als bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3) worden aangewezen de diersoorten en diercategorieën die worden genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2021-11-01&g=2021-11-01) bij dit besluit, met dien verstande dat pluimvee waarbij een lichamelijke ingreep is verricht die krachtens de wet niet is toegestaan, niet is aangewezen.
+Als diersoorten of diercategorieën als bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3) worden aangewezen de diersoorten en diercategorieën die worden genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2022-01-01&g=2022-01-01) bij dit besluit, met dien verstande dat pluimvee waarbij een lichamelijke ingreep is verricht die krachtens de wet niet is toegestaan, niet is aangewezen.
 
 #### § 1. Algemeen
 
 ##### Artikel 2.2. Reikwijdte
 
-Deze paragraaf en de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2021-11-01&g=2021-11-01) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2021-11-01&g=2021-11-01) zijn van toepassing op dieren die met het oog op de productie van producten, afkomstig van die dieren of voor andere landbouwdoeleinden worden gefokt of gehouden, met uitzondering van vissen, reptielen, amfibieën en ongewervelde dieren.
+Deze paragraaf en de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2022-01-01&g=2022-01-01) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2022-01-01&g=2022-01-01) zijn van toepassing op dieren die met het oog op de productie van producten, afkomstig van die dieren of voor andere landbouwdoeleinden worden gefokt of gehouden, met uitzondering van vissen, reptielen, amfibieën en ongewervelde dieren.
 
 ##### Artikel 2.3. Houden van productiedieren
 
@@ -418,7 +426,7 @@ Wanneer een dier permanent of geregeld wordt aangebonden, vastgeketend of geïmm
 
 4. Een ziek of gewond dier wordt zo nodig afgezonderd in een passend onderkomen dat zo nodig is voorzien van droog strooisel.
 
-5. Wanneer de zorg, bedoeld in [artikel 1.7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01), geen verbetering in de toestand van het dier brengt, wordt zo spoedig mogelijk een dierenarts geraadpleegd.
+5. Wanneer de zorg, bedoeld in [artikel 1.7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01), geen verbetering in de toestand van het dier brengt, wordt zo spoedig mogelijk een dierenarts geraadpleegd.
 
 6. Een dier krijgt voedsel met ten minste de tussenpozen die bij zijn fysiologische behoeften passen.
 
@@ -426,7 +434,7 @@ Wanneer een dier permanent of geregeld wordt aangebonden, vastgeketend of geïmm
 
 ##### Artikel 2.5. Verlichting en ventilatie
 
-1. Onverminderd [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2021-11-01&g=2021-11-01), wordt een dier niet permanent in het duister of in kunstlicht gehouden zonder dat dit voor een passende periode wordt uitgeschakeld en is, indien het beschikbare natuurlijke licht niet voldoende is voor de ethologische en fysiologische behoeften van het dier, in de ruimte waarin het dier wordt gehouden geschikt kunstlicht aanwezig.
+1. Onverminderd [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2022-01-01&g=2022-01-01), wordt een dier niet permanent in het duister of in kunstlicht gehouden zonder dat dit voor een passende periode wordt uitgeschakeld en is, indien het beschikbare natuurlijke licht niet voldoende is voor de ethologische en fysiologische behoeften van het dier, in de ruimte waarin het dier wordt gehouden geschikt kunstlicht aanwezig.
 
 2. In een ruimte waarin dieren worden gehouden is voldoende verlichting aanwezig voor een grondige controle van die dieren op elk willekeurig tijdstip.
 
@@ -524,7 +532,7 @@ Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wett
 
 ##### Artikel 2.15. Tijdelijke afzondering
 
-1. In afwijking van [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.13&z=2021-11-01&g=2021-11-01), is het toegestaan:
+1. In afwijking van [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.13&z=2022-01-01&g=2022-01-01), is het toegestaan:
 
 - a. een zeug ten behoeve van het zogen van de biggen, tezamen met de biggen, individueel te houden;
 
@@ -590,11 +598,11 @@ Stallen waarin varkens worden gehouden zijn op zodanige wijze ingericht dat de v
 
 1. De voor de varkens beschikbare vloer van een stal bestaat niet geheel uit roostervloer, tenzij de vloer is bestemd voor gespeende varkens of zogende zeugen met biggen en niet is vervaardigd van beton.
 
-2. Indien de vloer van de in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2021-11-01&g=2021-11-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de voor gelten of zeugen zonder biggen beschikbare vloer per gelt of zeug ten minste 1,3 m2.
+2. Indien de vloer van de in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2022-01-01&g=2022-01-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de voor gelten of zeugen zonder biggen beschikbare vloer per gelt of zeug ten minste 1,3 m2.
 
-3. Indien de vloer van de in [artikel 2.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2021-11-01&g=2021-11-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de vloer per varken ten minste 40% van de ingevolge artikel 2.17 voorgeschreven beschikbare oppervlakte per varken.
+3. Indien de vloer van de in [artikel 2.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2022-01-01&g=2022-01-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de vloer per varken ten minste 40% van de ingevolge artikel 2.17 voorgeschreven beschikbare oppervlakte per varken.
 
-4. Indien de vloer van de in [artikel 2.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2021-11-01&g=2021-11-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt, in afwijking van het derde lid, vanaf een bij koninklijk besluit te bepalen tijdstip de oppervlakte van het dichte deel van de voor varkens beschikbare vloer per varken met een gemiddeld gewicht ten minste:
+4. Indien de vloer van de in [artikel 2.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.17&z=2022-01-01&g=2022-01-01), bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt, in afwijking van het derde lid, vanaf een bij koninklijk besluit te bepalen tijdstip de oppervlakte van het dichte deel van de voor varkens beschikbare vloer per varken met een gemiddeld gewicht ten minste:
 
 - a. tot 30 kg: 0,24 m2;
 
@@ -606,7 +614,7 @@ Stallen waarin varkens worden gehouden zijn op zodanige wijze ingericht dat de v
 
 - e. van meer dan 110 kg: 0,75 m2.
 
-5. Indien de vloer van de in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2021-11-01&g=2021-11-01) bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de vloer ten minste twee derden van de totale vloeroppervlakte.
+5. Indien de vloer van de in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2022-01-01&g=2022-01-01) bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de vloer ten minste twee derden van de totale vloeroppervlakte.
 
 6. Een vloer of een gedeelte daarvan, die is voorzien van gierdoorlatende openingen, wordt als dicht beschouwd indien:
 
@@ -732,7 +740,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 2.30. Toepassingsbereik
 
-De [artikelen 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=5&sub-paragraaf=5.2&artikel=2.32&z=2021-11-01&g=2021-11-01) en [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=5&sub-paragraaf=5.2&artikel=2.33&z=2021-11-01&g=2021-11-01) zijn niet van toepassing op een kalf dat door de moeder wordt gezoogd.
+De [artikelen 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=5&sub-paragraaf=5.2&artikel=2.32&z=2022-01-01&g=2022-01-01) en [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=5&sub-paragraaf=5.2&artikel=2.33&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op een kalf dat door de moeder wordt gezoogd.
 
 ##### Artikel 2.31. Aanbinden en muilkorven
 
@@ -808,13 +816,13 @@ De installaties die voor het voederen en drenken worden gebruikt, zijn op zodani
 
 ##### Artikel 2.40. Apparatuur
 
-Maatregelen als bedoeld in [artikel 2.5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), bestaan in ieder geval uit het toepassen van andere voedermethoden en het handhaven van een acceptabel leefklimaat.
+Maatregelen als bedoeld in [artikel 2.5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), bestaan in ieder geval uit het toepassen van andere voedermethoden en het handhaven van een acceptabel leefklimaat.
 
 ##### Artikel 2.41. Voederen
 
 1. Kalveren worden ten minste tweemaal per dag gevoederd.
 
-2. Onverminderd de [artikelen 1.7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01), en [2.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), beschikken kalveren over voer dat beantwoordt aan de met hun gedrag samenhangende behoeften.
+2. Onverminderd de [artikelen 1.7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01), en [2.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), beschikken kalveren over voer dat beantwoordt aan de met hun gedrag samenhangende behoeften.
 
 3. De voeding bevat voldoende ijzer om een gemiddeld hemoglobinegehalte van ten minste 4.5 mmol/l te bereiken.
 
@@ -822,7 +830,7 @@ Maatregelen als bedoeld in [artikel 2.5, negende lid](https://wetten.overheid.nl
 
 ##### Artikel 2.42. Drenken
 
-1. In afwijking van [artikel 1.7, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01), kunnen aan een kalf ouder dan twee weken ook andere vloeistoffen dan water worden verstrekt om in zijn behoefte aan drinken te voorzien.
+1. In afwijking van [artikel 1.7, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01), kunnen aan een kalf ouder dan twee weken ook andere vloeistoffen dan water worden verstrekt om in zijn behoefte aan drinken te voorzien.
 
 2. Bij warm weer en voor zieke kalveren is permanent vers drinkwater beschikbaar.
 
@@ -830,7 +838,7 @@ Maatregelen als bedoeld in [artikel 2.5, negende lid](https://wetten.overheid.nl
 
 ##### Artikel 2.43. Inspectie
 
-In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), worden op stal gehouden kalveren ten minste tweemaal per dag en in de open lucht gehouden kalveren ten minste eenmaal per dag geïnspecteerd.
+In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), worden op stal gehouden kalveren ten minste tweemaal per dag en in de open lucht gehouden kalveren ten minste eenmaal per dag geïnspecteerd.
 
 ##### Artikel 2.44. Reiniging en ontsmetting
 
@@ -840,7 +848,7 @@ In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 2.45. Zieke en gewonde dieren
 
-Het afzonderen, bedoeld in [artikel 2.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), vindt plaats in een adequate ruimte die is voorzien van droog en comfortabel strooisel en die plaats biedt aan ten minste 1% van het aantal gehouden kalveren en indien dit minder is dan één, aan ten minste één kalf.
+Het afzonderen, bedoeld in [artikel 2.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), vindt plaats in een adequate ruimte die is voorzien van droog en comfortabel strooisel en die plaats biedt aan ten minste 1% van het aantal gehouden kalveren en indien dit minder is dan één, aan ten minste één kalf.
 
 ##### Artikel 2.46. Invoer vanuit derde land
 
@@ -872,7 +880,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **bruikbare oppervlakte:** van strooisel voorziene oppervlakte die te allen tijde voor vleeskuikens toegankelijk is;
 
-- **dagelijkse mortaliteit:** aantal vleeskuikens dat op dezelfde dag in een stal gestorven is, met inbegrip van de vleeskuikens die zijn gedood als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&z=2021-11-01&g=2021-11-01), gedeeld door het aantal vleeskuikens dat op die dag in de stal aanwezig was, vermenigvuldigd met 100;
+- **dagelijkse mortaliteit:** aantal vleeskuikens dat op dezelfde dag in een stal gestorven is, met inbegrip van de vleeskuikens die zijn gedood als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&z=2022-01-01&g=2022-01-01), gedeeld door het aantal vleeskuikens dat op die dag in de stal aanwezig was, vermenigvuldigd met 100;
 
 - **gecumuleerde dagelijkse mortaliteit:** som van de dagelijkse mortaliteitscijfers;
 
@@ -910,19 +918,19 @@ Deze paragraaf is niet van toepassing op:
 
 - a. de bezettingsdichtheid niet hoger is dan 33 kg/m2, en
 
-- b. wordt voldaan aan de [artikelen 2.51 tot en met 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.51&z=2021-11-01&g=2021-11-01).
+- b. wordt voldaan aan de [artikelen 2.51 tot en met 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.51&z=2022-01-01&g=2022-01-01).
 
 3. In afwijking van het eerste lid en het tweede lid, onderdeel a, is het toegestaan vleeskuikens te houden met een hogere bezettingsdichtheid dan 33 kg/m2, indien:
 
 - a. de bezettingsdichtheid niet hoger is dan 39 kg/m2, en
 
-- b. wordt voldaan aan de [artikelen 2.55 tot en met 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2021-11-01&g=2021-11-01).
+- b. wordt voldaan aan de [artikelen 2.55 tot en met 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2022-01-01&g=2022-01-01).
 
 4. In afwijking van het eerste lid, het tweede lid, onderdeel a en het derde lid, is het toegestaan vleeskuikens te houden met een hogere bezettingsdichtheid dan 39 kg/m2, indien:
 
 - a. de bezettingsdichtheid niet hoger is dan 42 kg/m2, en
 
-- b. wordt voldaan aan het gestelde bij of krachtens de [artikelen 2.55 tot en met 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2021-11-01&g=2021-11-01).
+- b. wordt voldaan aan het gestelde bij of krachtens de [artikelen 2.55 tot en met 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2.51. Houden, huisvesten en verzorgen
 
@@ -966,7 +974,7 @@ Vleeskuikens worden gehouden, gehuisvest en verzorgd overeenkomstig de punten 1 
 
 3. De cursussen, bedoeld in het eerste lid, zijn toegespitst op welzijnsaspecten en hebben in ieder geval betrekking op:
 
-- a. de voorschriften van bijlage I van [richtlijn 2007/43/EG](32007L0043) en de [artikelen 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.56&z=2021-11-01&g=2021-11-01) en [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.57&z=2021-11-01&g=2021-11-01);
+- a. de voorschriften van bijlage I van [richtlijn 2007/43/EG](32007L0043) en de [artikelen 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.56&z=2022-01-01&g=2022-01-01) en [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.57&z=2022-01-01&g=2022-01-01);
 
 - b. de fysiologie, met name de drink- en voederbehoeften, het diergedrag en het begrip stress;
 
@@ -984,7 +992,7 @@ Vleeskuikens worden gehouden, gehuisvest en verzorgd overeenkomstig de punten 1 
 
 1. De houder die voornemens is een zodanig aantal vleeskuikens te gaan houden dat de bezettingsdichtheid hoger zal worden dan 33 kg/m2, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen en geeft daarbij aan hoe hoog de bezettingsdichtheid zal zijn.
 
-2. Indien Onze Minister daarom verzoekt, stuurt de houder een samenvatting van de informatie, bedoeld in [artikel 2.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.56&z=2021-11-01&g=2021-11-01), toe.
+2. Indien Onze Minister daarom verzoekt, stuurt de houder een samenvatting van de informatie, bedoeld in [artikel 2.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.56&z=2022-01-01&g=2022-01-01), toe.
 
 3. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kennisgeving, bedoeld in het eerste lid, plaatsvindt.
 
@@ -1036,11 +1044,11 @@ De houder rust elke stal van zijn pluimveebedrijf uit met een ventilatiesysteem 
 
 1. De houder die voornemens is een zodanig aantal vleeskuikens te gaan houden dat de bezettingsdichtheid hoger zal worden dan 39 kg/m2, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen en geeft daarbij aan hoe hoog de bezettingsdichtheid zal zijn.
 
-2. [Artikel 2.55, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2021-11-01&g=2021-11-01), is van overeenkomstige toepassing.
+2. [Artikel 2.55, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.55&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 2.60. Geen tekortkomingen
 
-1. In de twee jaren, voorafgaand aan de kennisgeving, bedoeld in [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.59&z=2021-11-01&g=2021-11-01), zijn door ambtenaren als bedoeld in [artikel 8.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1) op het pluimveebedrijf geen tekortkomingen in de naleving van deze paragraaf waargenomen.
+1. In de twee jaren, voorafgaand aan de kennisgeving, bedoeld in [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.59&z=2022-01-01&g=2022-01-01), zijn door ambtenaren als bedoeld in [artikel 8.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1) op het pluimveebedrijf geen tekortkomingen in de naleving van deze paragraaf waargenomen.
 
 2. Ingeval er op het pluimveebedrijf in de twee jaren, bedoeld in het eerste lid, geen toezicht op de naleving van deze paragraaf heeft plaatsgevonden, geldt in afwijking van het eerste lid, dat er alsnog toezicht plaatsvindt, en hierbij geen tekortkomingen in de naleving van deze paragraaf worden waargenomen.
 
@@ -1050,7 +1058,7 @@ De houder maakt bij de bedrijfsvoering gebruik van gidsen voor goede praktijken,
 
 ##### Artikel 2.62. Gecumuleerde dagelijkse mortaliteit
 
-1. De gecumuleerde dagelijkse mortaliteit van ten minste zeven opeenvolgende gecontroleerde koppels van een stal bedraagt voorafgaand aan de kennisgeving, bedoeld in [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.59&z=2021-11-01&g=2021-11-01), minder dan de som van:
+1. De gecumuleerde dagelijkse mortaliteit van ten minste zeven opeenvolgende gecontroleerde koppels van een stal bedraagt voorafgaand aan de kennisgeving, bedoeld in [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.59&z=2022-01-01&g=2022-01-01), minder dan de som van:
 
 - a. 1% en
 
@@ -1070,7 +1078,7 @@ De houder maakt bij de bedrijfsvoering gebruik van gidsen voor goede praktijken,
 
 1. Voor de toepassing van dit artikel wordt verstaan onder een nieuw pluimveebedrijf: een pluimveebedrijf waar vleeskuikens worden gehouden en dat van start gaat na de inwerkingtreding van deze paragraaf.
 
-2. De [artikelen 2.60 tot en met 2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.60&z=2021-11-01&g=2021-11-01) zijn niet van toepassing op een pluimveebedrijf waar voorafgaand aan 1 februari 2011 vleeskuikens worden gehouden tot het tijdstip waarop door een ambtenaar als bedoeld in artikel 114, eerste lid, van de wet toezicht is uitgeoefend op de naleving van deze paragraaf.
+2. De [artikelen 2.60 tot en met 2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.60&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op een pluimveebedrijf waar voorafgaand aan 1 februari 2011 vleeskuikens worden gehouden tot het tijdstip waarop door een ambtenaar als bedoeld in artikel 114, eerste lid, van de wet toezicht is uitgeoefend op de naleving van deze paragraaf.
 
 3. De houder van een pluimveebedrijf als bedoeld in het tweede lid stelt Onze Minister binnen 15 dagen na inwerkingtreding van deze paragraaf in kennis van zijn voornemen om een zodanig aantal vleeskuikens te houden dat de bezettingsdichtheid na de inwerkingtreding van deze paragraaf hoger zal zijn dan 39 kg/m2.
 
@@ -1078,13 +1086,13 @@ De houder maakt bij de bedrijfsvoering gebruik van gidsen voor goede praktijken,
 
 - a. een nieuw pluimveebedrijf;
 
-- b. een pluimveebedrijf waar voorheen vleeskuikens werden gehouden op een wijze als bedoeld in [artikel 2.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.49&z=2021-11-01&g=2021-11-01), en dat overstapt op het houden van vleeskuikens op een wijze waarop deze paragraaf van toepassing is.
+- b. een pluimveebedrijf waar voorheen vleeskuikens werden gehouden op een wijze als bedoeld in [artikel 2.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.49&z=2022-01-01&g=2022-01-01), en dat overstapt op het houden van vleeskuikens op een wijze waarop deze paragraaf van toepassing is.
 
 ##### Artikel 2.65. Lagere bezettingsgraad dan 33 of 39 kg/m2
 
 1. De houder die voornemens is wijziging aan te brengen in het door hem te houden aantal vleeskuikens, waardoor de bezettingsdichtheid lager wordt dan 33 of 39 kg/m2, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen.
 
-2. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kennisgeving, bedoeld in [artikel 2.64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.64&z=2021-11-01&g=2021-11-01), en in het eerste lid, plaatsvindt.
+2. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kennisgeving, bedoeld in [artikel 2.64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.2&artikel=2.64&z=2022-01-01&g=2022-01-01), en in het eerste lid, plaatsvindt.
 
 #### § 4.2. Welzijnsvoorschriften
 
@@ -1112,9 +1120,9 @@ Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 35
 
 ##### Artikel 2.68. Toepasselijkheid voorschriften
 
-1. Legkippen worden ten minste gehuisvest en verzorgd overeenkomstig de [artikelen 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.70&z=2021-11-01&g=2021-11-01), [2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.73&z=2021-11-01&g=2021-11-01), [2.74, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.74&z=2021-11-01&g=2021-11-01), [2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.75&z=2021-11-01&g=2021-11-01) en [2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.76&z=2021-11-01&g=2021-11-01).
+1. Legkippen worden ten minste gehuisvest en verzorgd overeenkomstig de [artikelen 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.70&z=2022-01-01&g=2022-01-01), [2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.73&z=2022-01-01&g=2022-01-01), [2.74, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.74&z=2022-01-01&g=2022-01-01), [2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.75&z=2022-01-01&g=2022-01-01) en [2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.76&z=2022-01-01&g=2022-01-01).
 
-2. In afwijking van het eerste lid is het toegestaan legkippen in een kooi als bedoeld in [artikel 2.71](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.71&z=2021-11-01&g=2021-11-01) te houden indien de legkippen ten minste worden gehuisvest en verzorgd overeenkomstig de artikelen 2.71 en [2.73 tot en met 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.73&z=2021-11-01&g=2021-11-01).
+2. In afwijking van het eerste lid is het toegestaan legkippen in een kooi als bedoeld in [artikel 2.71](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.71&z=2022-01-01&g=2022-01-01) te houden indien de legkippen ten minste worden gehuisvest en verzorgd overeenkomstig de artikelen 2.71 en [2.73 tot en met 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.73&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2.69. Registratie houders
 
@@ -1176,7 +1184,7 @@ Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 35
 
 ##### Artikel 2.71. Houden en huisvesten in aangepaste kooien: koloniehuisvesting
 
-1. Een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2021-11-01&g=2021-11-01), heeft:
+1. Een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2022-01-01&g=2022-01-01), heeft:
 
 - a. een hoogte van ten minste 60 cm aan de zijde van de kooi waar de voerbak zich bevindt;
 
@@ -1186,7 +1194,7 @@ Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 35
 
 - d. ten minste twee zitstokken.
 
-2. Legkippen die worden gehuisvest in een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2021-11-01&g=2021-11-01), hebben ten minste de beschikking over:
+2. Legkippen die worden gehuisvest in een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2022-01-01&g=2022-01-01), hebben ten minste de beschikking over:
 
 - a. 800 cm2 bruikbare oppervlakte per legkip met een gewicht van ten hoogste twee kilogram en 900 cm2 bruikbare oppervlakte per legkip met een gewicht van meer dan twee kilogram;
 
@@ -1216,7 +1224,7 @@ Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 35
 
 - b. 90 cm2 per legkip, wanneer in de kooi meer dan 30 legkippen worden gehouden.
 
-6. Indien een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2021-11-01&g=2021-11-01), wordt gebruikt voor het houden en huisvesten van ten minste vijf en ten hoogste acht legkippen voor het testen van legkippen ten behoeve van de fokkerij zijn tot 1 januari 2035 niet van toepassing:
+6. Indien een kooi als bedoeld in [artikel 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2022-01-01&g=2022-01-01), wordt gebruikt voor het houden en huisvesten van ten minste vijf en ten hoogste acht legkippen voor het testen van legkippen ten behoeve van de fokkerij zijn tot 1 januari 2035 niet van toepassing:
 
 - a. het eerste lid, onderdelen a en b, met dien verstande dat de hoogte van de kooi aan de zijde waar de voerbak zich bevindt en boven de bruikbare oppervlakte ten minste 45 cm bedraagt;
 
@@ -1236,7 +1244,7 @@ Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 35
 
 ##### Artikel 2.72. Houden en huisvesten in aangepaste kooien: verrijkte kooien
 
-1. Legkippen die worden gehuisvest in een kooi als bedoeld in [artikel 2.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2021-11-01&g=2021-11-01) hebben ten minste de beschikking over:
+1. Legkippen die worden gehuisvest in een kooi als bedoeld in [artikel 2.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.3&artikel=2.68&z=2022-01-01&g=2022-01-01) hebben ten minste de beschikking over:
 
 - a. 750 cm2 oppervlakte waarvan 600 cm2 bruikbare oppervlakte per legkip, met dien verstande dat de kooi boven andere plaatsen dan de bruikbare oppervlakte op elk punt ten minste 20 cm hoog moet zijn en dat de totale oppervlakte van een kooi niet kleiner mag zijn dan 2.000 cm2;
 
@@ -1312,9 +1320,9 @@ Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wett
 
 1. Het is de eigenaren of gebruikers van erven, landerijen of andere terreinen verboden daarop een hond te houden, die:
 
-- a. aan een ketting of op andere wijze is vastgelegd, indien niet is voldaan aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2021-11-01&g=2021-11-01);
+- a. aan een ketting of op andere wijze is vastgelegd, indien niet is voldaan aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2022-01-01&g=2022-01-01);
 
-- b. is ingesloten in een ren, indien niet is voldaan aan [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2021-11-01&g=2021-11-01), of
+- b. is ingesloten in een ren, indien niet is voldaan aan [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-01-01&g=2022-01-01), of
 
 - c. is ingesloten in een ren en daarin aan een ketting of op een andere wijze is vastgelegd.
 
@@ -1338,7 +1346,7 @@ Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wett
 
 ##### Artikel 3.3. Houden van een hond in een ren
 
-1. De ren, bedoeld in [artikel 3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2021-11-01&g=2021-11-01);
+1. De ren, bedoeld in [artikel 3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-01-01&g=2022-01-01);
 
 - a. is uitsluitend bestemd voor het verblijf van één hond of meerdere honden;
 
@@ -1348,7 +1356,7 @@ Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wett
 
 2. De bodem van de ren wordt zodanig onderhouden dat deze schoon blijft en niet drassig wordt.
 
-3. [Artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2021-11-01&g=2021-11-01), is van toepassing.
+3. [Artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2022-01-01&g=2022-01-01), is van toepassing.
 
 4. In de ren bevinden zich geen voorwerpen waaraan de hond zich kan verwonden.
 
@@ -1380,9 +1388,9 @@ Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wett
 
 In deze paragraaf wordt verstaan onder:
 
-- –. **beheerder:** degene die dagelijks leiding geeft aan in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01), bedoelde activiteiten;
+- –. **beheerder:** degene die dagelijks leiding geeft aan in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01), bedoelde activiteiten;
 
-- –. **inrichting:** aan één locatie gebonden ruimte of ruimtes, bestemd voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten.
+- –. **inrichting:** aan één locatie gebonden ruimte of ruimtes, bestemd voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten.
 
 ##### Artikel 3.6. Verbod en uitzondering voor niet-bedrijfsmatig handelen
 
@@ -1392,17 +1400,17 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.7. Verrichten bedrijfsmatige activiteiten in inrichting of onder voorwaarden op tentoonstelling, beurs of markt
 
-1. De activiteiten, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01), worden verricht in een inrichting die bij Onze Minister overeenkomstig [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01) is aangemeld.
+1. De activiteiten, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01), worden verricht in een inrichting die bij Onze Minister overeenkomstig [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01) is aangemeld.
 
-2. In afwijking van het eerste lid, is het toegestaan gezelschapsdieren te verkopen, ten verkoop in voorraad te houden of af te leveren buiten een inrichting indien dit plaatsvindt op een tentoonstelling, beurs of markt, voor zover daarbij is voldaan aan de [artikelen 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), [3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01), [3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2021-11-01&g=2021-11-01), [3.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2021-11-01&g=2021-11-01), en [3.17 tot en met 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.17&z=2021-11-01&g=2021-11-01).
+2. In afwijking van het eerste lid, is het toegestaan gezelschapsdieren te verkopen, ten verkoop in voorraad te houden of af te leveren buiten een inrichting indien dit plaatsvindt op een tentoonstelling, beurs of markt, voor zover daarbij is voldaan aan de [artikelen 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), [3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01), [3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2022-01-01&g=2022-01-01), [3.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2022-01-01&g=2022-01-01), en [3.17 tot en met 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.17&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3.8. Aanmelding inrichting en tentoonstelling, beurs of markt
 
-1. De aanmelding van een inrichting geschiedt door degene onder wiens verantwoordelijkheid de in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01), bedoelde activiteiten worden verricht of door de beheerder, indien dat degene is onder wiens verantwoordelijkheid de activiteiten worden verricht. Na de aanmelding wordt aan de inrichting een uniek nummer toegekend.
+1. De aanmelding van een inrichting geschiedt door degene onder wiens verantwoordelijkheid de in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01), bedoelde activiteiten worden verricht of door de beheerder, indien dat degene is onder wiens verantwoordelijkheid de activiteiten worden verricht. Na de aanmelding wordt aan de inrichting een uniek nummer toegekend.
 
 2. Bij de in het eerste lid bedoelde aanmelding wordt opgave gedaan van de volgende gegevens:
 
-- a. de naam, adres, woonplaats, het burgerservicenummer of het nummer van de inschrijving in het handelsregister van degene onder wiens verantwoordelijkheid de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten worden verricht, of, indien die activiteiten worden verricht onder de verantwoordelijkheid van een rechtspersoon, de naam en het adres van vestiging van de rechtspersoon en het nummer van de inschrijving in het handelsregister;
+- a. de naam, adres, woonplaats, het burgerservicenummer of het nummer van de inschrijving in het handelsregister van degene onder wiens verantwoordelijkheid de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten worden verricht, of, indien die activiteiten worden verricht onder de verantwoordelijkheid van een rechtspersoon, de naam en het adres van vestiging van de rechtspersoon en het nummer van de inschrijving in het handelsregister;
 
 - b. het adres van de inrichting en een beschrijving van de gebouwen en voorzieningen die voor het houden van gezelschapsdieren worden gebruikt of zullen worden gebruikt;
 
@@ -1412,15 +1420,15 @@ In deze paragraaf wordt verstaan onder:
 
 - e. de diergroep of diergroepen waarmee de activiteiten worden verricht;
 
-- f. een kopie van het bewijs van vakbekwaamheid als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01), van de op de inrichting werkzame beheerder;
+- f. een kopie van het bewijs van vakbekwaamheid als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01), van de op de inrichting werkzame beheerder;
 
 - g. de datum waarop met de uitoefening van de activiteiten een aanvang wordt gemaakt.
 
 3. Voor de aanmelding, bedoeld in het eerste lid, wordt gebruik gemaakt van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
-4. Aanmelding van een inrichting geschiedt voor aanvang van de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten.
+4. Aanmelding van een inrichting geschiedt voor aanvang van de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten.
 
-5. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2021-11-01&g=2021-11-01), organiseert, doet uiterlijk twee weken voor het tijdstip waarop de tentoonstelling, beurs of markt aanvang neemt, een melding van het houden van de tentoonstelling, beurs of markt bij Onze Minister en doet daarbij opgave van de volgende gegevens:
+5. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2022-01-01&g=2022-01-01), organiseert, doet uiterlijk twee weken voor het tijdstip waarop de tentoonstelling, beurs of markt aanvang neemt, een melding van het houden van de tentoonstelling, beurs of markt bij Onze Minister en doet daarbij opgave van de volgende gegevens:
 
 - a. de naam, adres, woonplaats en het burgerservicenummer of het nummer van de inschrijving in het handelsregister van degene onder wiens verantwoordelijkheid de tentoonstelling, beurs of markt wordt gehouden, of, indien die activiteiten worden verricht onder de verantwoordelijkheid van een rechtspersoon, de naam en het adres van vestiging van de rechtspersoon en het nummer van de inschrijving in het handelsregister;
 
@@ -1430,13 +1438,13 @@ In deze paragraaf wordt verstaan onder:
 
 - d. de diergroep of diergroepen die aanwezig zullen zijn op de tentoonstelling, beurs of markt;
 
-- e. een kopie van het bewijs van vakbekwaamheid van de persoon die aanwezig is op de beurs of tentoonstelling, beurs of markt, bedoeld in [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01).
+- e. een kopie van het bewijs van vakbekwaamheid van de persoon die aanwezig is op de beurs of tentoonstelling, beurs of markt, bedoeld in [artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3.9. Wijziging gegevens
 
-1. Bij wijziging van één of meer van de gegevens, bedoeld in [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), wordt binnen vier weken na het intreden daarvan aan Onze Minister melding gemaakt van de wijziging door degene die ten tijde van het intreden van die wijziging op de inrichting verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten.
+1. Bij wijziging van één of meer van de gegevens, bedoeld in [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), wordt binnen vier weken na het intreden daarvan aan Onze Minister melding gemaakt van de wijziging door degene die ten tijde van het intreden van die wijziging op de inrichting verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten.
 
-2. Op de melding, bedoeld in het eerste lid, is [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), van overeenkomstige toepassing.
+2. Op de melding, bedoeld in het eerste lid, is [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 3.10. Administratie
 
@@ -1452,7 +1460,7 @@ In deze paragraaf wordt verstaan onder:
 
 4. Het eerste lid, onderdeel a, is niet van toepassing op inrichtingen waar gezelschapsdieren gehouden worden ten behoeve van opvang en onbekend is van wie de gezelschapsdieren afkomstig zijn.
 
-5. Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van inrichtingen waar honden worden gehouden ten behoeve van de in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01), bedoelde activiteiten, indien de honden overeenkomstig [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009019&hoofdstuk=2) geregistreerd zijn.
+5. Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van inrichtingen waar honden worden gehouden ten behoeve van de in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01), bedoelde activiteiten, indien de honden overeenkomstig [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009019&hoofdstuk=2) geregistreerd zijn.
 
 ##### Artikel 3.11. Vakbekwaamheid
 
@@ -1460,15 +1468,15 @@ In deze paragraaf wordt verstaan onder:
 
 2. Een kopie van het in het eerste lid bedoelde bewijs van vakbekwaamheid wordt bij een inspectie ter naleving van dit besluit aan de daartoe aangewezen ambtenaar ter beschikking gesteld.
 
-3. Bij langdurige ziekte, ontslag of overlijden van de beheerder kan, voor de duur van een periode van ten hoogste 12 aaneengesloten maanden, worden afgeweken van het eerste lid met dien verstande dat de persoon die dagelijks leiding in de inrichting geeft over de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde handelingen over voldoende relevante werkervaring beschikt en dit kan aantonen.
+3. Bij langdurige ziekte, ontslag of overlijden van de beheerder kan, voor de duur van een periode van ten hoogste 12 aaneengesloten maanden, worden afgeweken van het eerste lid met dien verstande dat de persoon die dagelijks leiding in de inrichting geeft over de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde handelingen over voldoende relevante werkervaring beschikt en dit kan aantonen.
 
-4. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2021-11-01&g=2021-11-01), organiseert, draagt zorg voor de aanwezigheid van een persoon die een erkend bewijs van vakbekwaamheid bezit als bedoeld in het eerste lid.
+4. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2022-01-01&g=2022-01-01), organiseert, draagt zorg voor de aanwezigheid van een persoon die een erkend bewijs van vakbekwaamheid bezit als bedoeld in het eerste lid.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het in het eerste lid bedoelde bewijs van vakbekwaamheid.
 
 ##### Artikel 3.12. Huisvesting en verzorging
 
-1. Onverminderd de [artikelen 1.5 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.5&z=2021-11-01&g=2021-11-01) wordt een gezelschapsdier gehouden in een daarvoor geschikte ruimte. Dit houdt tenminste in dat:
+1. Onverminderd de [artikelen 1.5 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.5&z=2022-01-01&g=2022-01-01) wordt een gezelschapsdier gehouden in een daarvoor geschikte ruimte. Dit houdt tenminste in dat:
 
 - a. het dier over voldoende bewegingsruimte beschikt;
 
@@ -1482,7 +1490,7 @@ In deze paragraaf wordt verstaan onder:
 
 - f. het aantal en de samenstelling van dieren en diersoorten per verblijf zodanig is dat dit niet het welzijn of de gezondheid van het dier nadelig beïnvloedt.
 
-2. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2021-11-01&g=2021-11-01), organiseert, draagt zorg voor geschikte huisvesting van dieren gedurende de tentoonstelling, beurs of markt, die voldoet aan de [artikelen 1.5 tot en met 1.8 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.5&z=2021-11-01&g=2021-11-01), met dien verstande dat dieren als bedoeld in onderdeel d niet worden toegelaten.
+2. Degene die een tentoonstelling, beurs of markt als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2022-01-01&g=2022-01-01), organiseert, draagt zorg voor geschikte huisvesting van dieren gedurende de tentoonstelling, beurs of markt, die voldoet aan de [artikelen 1.5 tot en met 1.8 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.5&z=2022-01-01&g=2022-01-01), met dien verstande dat dieren als bedoeld in onderdeel d niet worden toegelaten.
 
 ##### Artikel 3.13. Huisvesting zieke of van ziekte verdachte gezelschapsdieren
 
@@ -1512,9 +1520,9 @@ In deze paragraaf wordt verstaan onder:
 
 4. Gezelschapsdieren verdacht van een besmettelijke ziekte en dieren met klinische verschijnselen van een besmettelijke ziekte worden na binnenkomst in de inrichting onmiddellijk in een isolatieruimte geplaatst.
 
-5. Een hond of kat mag de quarantaineruimte van de inrichting niet verlaten gedurende ten minste 7 dagen nadat de in [artikel 3.15, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2021-11-01&g=2021-11-01), bedoelde inentingen hebben plaatsgevonden, tenzij het de teruggave aan de eigenaar betreft.
+5. Een hond of kat mag de quarantaineruimte van de inrichting niet verlaten gedurende ten minste 7 dagen nadat de in [artikel 3.15, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2022-01-01&g=2022-01-01), bedoelde inentingen hebben plaatsgevonden, tenzij het de teruggave aan de eigenaar betreft.
 
-6. Degene die een tentoonstelling, beurs of markt, als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2021-11-01&g=2021-11-01), organiseert, draagt zorg voor een veterinaire gezondheidscontrole van de dieren voordat toegang wordt verstrekt en laat geen dieren toe verdacht van een besmettelijke ziekte of dieren met klinische verschijnselen van een besmettelijke ziekte.
+6. Degene die een tentoonstelling, beurs of markt, als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2022-01-01&g=2022-01-01), organiseert, draagt zorg voor een veterinaire gezondheidscontrole van de dieren voordat toegang wordt verstrekt en laat geen dieren toe verdacht van een besmettelijke ziekte of dieren met klinische verschijnselen van een besmettelijke ziekte.
 
 ##### Artikel 3.15. Inenting honden en katten
 
@@ -1540,7 +1548,7 @@ Een hond wordt, passend bij zijn ethologische en fysiologische behoefte, dagelij
 
 ##### Artikel 3.18. Informatieverstrekking over gezondheidsstatus
 
-Bij de verkoop of aflevering van een gezelschapsdier, wordt aan de koper of degene aan wie de aflevering plaatsvindt alle relevante informatie verstrekt met betrekking tot de gezondheidsstatus van het verkochte of afgeleverde gezelschapsdier, waaronder ten minste het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2021-11-01&g=2021-11-01).
+Bij de verkoop of aflevering van een gezelschapsdier, wordt aan de koper of degene aan wie de aflevering plaatsvindt alle relevante informatie verstrekt met betrekking tot de gezondheidsstatus van het verkochte of afgeleverde gezelschapsdier, waaronder ten minste het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3.19. Verkoopverbod aan personen jonger dan zestien jaar
 
@@ -1564,7 +1572,7 @@ Indien een gezelschapsdier in een inrichting verblijft tijdens de periode waarin
 
 ##### Artikel 3.23. Huisvesting honden en katten buiten inrichting
 
-Honden en katten die tijdelijk gehouden worden ten behoeve van opvang omdat daarvan afstand is gedaan, of omdat de eigenaar op het moment van opvang onbekend is, kunnen in afwijking van [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2021-11-01&g=2021-11-01), en [artikel 3.14, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2021-11-01&g=2021-11-01), tijdelijk buiten de inrichting gehuisvest worden ten behoeve van socialisatie, resocialisatie, behandeling van gedragsproblemen of intensieve zorgverlening in geval van ziekte, mits de locatie en verblijfsduur uit de administratie van de inrichting blijken.
+Honden en katten die tijdelijk gehouden worden ten behoeve van opvang omdat daarvan afstand is gedaan, of omdat de eigenaar op het moment van opvang onbekend is, kunnen in afwijking van [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2022-01-01&g=2022-01-01), en [artikel 3.14, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2022-01-01&g=2022-01-01), tijdelijk buiten de inrichting gehuisvest worden ten behoeve van socialisatie, resocialisatie, behandeling van gedragsproblemen of intensieve zorgverlening in geval van ziekte, mits de locatie en verblijfsduur uit de administratie van de inrichting blijken.
 
 ### Hoofdstuk 4. Houden van dieren voor vertoning
 
@@ -1578,7 +1586,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **diergroep:** dieren levend in een groep, die gelet op hun omvang en kenmerken afzonderlijk niet te individualiseren zijn;
 
-- **wilde dieren:** dieren behorende tot diersoorten of diercategorieën waarvan de daartoe behorende dieren van nature in het wild leven met uitzondering van de diersoorten of diercategorieën, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2021-11-01&g=2021-11-01) bij dit besluit, en honden en katten.
+- **wilde dieren:** dieren behorende tot diersoorten of diercategorieën waarvan de daartoe behorende dieren van nature in het wild leven met uitzondering van de diersoorten of diercategorieën, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2022-01-01&g=2022-01-01) bij dit besluit, en honden en katten.
 
 ##### Artikel 4.2. Exploitatie dierentuin
 
@@ -1586,11 +1594,11 @@ In deze paragraaf wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. inrichtingen waar wilde dieren worden gehouden van ten hoogste tien diersoorten, niet zijnde diersoorten genoemd in [bijlage IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IIa&z=2021-11-01&g=2021-11-01);
+- a. inrichtingen waar wilde dieren worden gehouden van ten hoogste tien diersoorten, niet zijnde diersoorten genoemd in [bijlage IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IIa&z=2022-01-01&g=2022-01-01);
 
 - b. inrichtingen die voldoen aan elk van de volgende voorschriften:
 
-- 1°. naast wilde dieren van ten hoogste tien diersoorten worden in hoofdzaak dieren behorend tot de diersoorten of diercategorieën, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2021-11-01&g=2021-11-01) bij dit besluit, gehouden;
+- 1°. naast wilde dieren van ten hoogste tien diersoorten worden in hoofdzaak dieren behorend tot de diersoorten of diercategorieën, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II&z=2022-01-01&g=2022-01-01) bij dit besluit, gehouden;
 
 - 2°. de dieren worden niet tijdelijk of langdurig ten behoeve van verzorging of verpleging opgevangen;
 
@@ -1614,7 +1622,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 4.3. Aanvraag
 
-1. Een vergunning als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2021-11-01&g=2021-11-01), wordt op aanvraag verstrekt.
+1. Een vergunning als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2022-01-01&g=2022-01-01), wordt op aanvraag verstrekt.
 
 2. De vergunningaanvraag bevat in ieder geval de volgende gegevens:
 
@@ -1630,13 +1638,13 @@ In deze paragraaf wordt verstaan onder:
 
 - 2°. de afmeting en inrichting van de dierenverblijven en de daarin verblijvende aantallen dieren, per diersoort;
 
-- e. een afschrift van het beleidsprotocol, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.12&z=2021-11-01&g=2021-11-01).
+- e. een afschrift van het beleidsprotocol, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.12&z=2022-01-01&g=2022-01-01).
 
 3. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag voor een vergunning, bedoeld in het eerste lid.
 
 ##### Artikel 4.4. Toetsing
 
-1. Alvorens op een aanvraag om een vergunning als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2021-11-01&g=2021-11-01), wordt beslist, wordt een dierentuin door Onze Minister geïnspecteerd.
+1. Alvorens op een aanvraag om een vergunning als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2022-01-01&g=2022-01-01), wordt beslist, wordt een dierentuin door Onze Minister geïnspecteerd.
 
 2. Een vergunning wordt verstrekt indien aan de navolgende eisen wordt voldaan:
 
@@ -1656,19 +1664,19 @@ In deze paragraaf wordt verstaan onder:
 
 - b. de dierenverblijven zijn voorzien van een adequate afscheiding die het uitbreken van de dieren voorkomt en die een veilige barrière tussen de dieren en het publiek vormt;
 
-- c. het beleidsprotocol, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.12&z=2021-11-01&g=2021-11-01), voldoet aan de in dat artikel gestelde eisen;
+- c. het beleidsprotocol, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.12&z=2022-01-01&g=2022-01-01), voldoet aan de in dat artikel gestelde eisen;
 
 - d. er is voorzien in een adequate quarantainevoorziening en een behandelruimte;
 
-- e. er kan worden voldaan aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2021-11-01&g=2021-11-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2021-11-01&g=2021-11-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.7&z=2021-11-01&g=2021-11-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.8&z=2021-11-01&g=2021-11-01).
+- e. er kan worden voldaan aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2022-01-01&g=2022-01-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2022-01-01&g=2022-01-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.7&z=2022-01-01&g=2022-01-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.8&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 4.5. Registratie vergunningen
 
-Onze Minister registreert de vergunningen, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2021-11-01&g=2021-11-01), in een openbaar register.
+Onze Minister registreert de vergunningen, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2022-01-01&g=2022-01-01), in een openbaar register.
 
 ##### Artikel 4.6. Nadere voorschriften en beperkingen
 
-De voorschriften en beperkingen die op grond van [artikel 7.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) aan een vergunning kunnen worden verbonden, strekken tot nadere uitwerking van de [artikelen 4.7 tot en met 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.7&z=2021-11-01&g=2021-11-01).
+De voorschriften en beperkingen die op grond van [artikel 7.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) aan een vergunning kunnen worden verbonden, strekken tot nadere uitwerking van de [artikelen 4.7 tot en met 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.7&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 4.7. Houden
 
@@ -1682,9 +1690,9 @@ De voorschriften en beperkingen die op grond van [artikel 7.5, eerste lid, van d
 
 - d. zieke of gewonde dieren indien nodig worden afgezonderd in een passend onderkomen;
 
-- e. het in een dierenverblijf verblijvende aantal dieren, bedoeld in [artikel 4.3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2021-11-01&g=2021-11-01), niet wordt overschreden.
+- e. het in een dierenverblijf verblijvende aantal dieren, bedoeld in [artikel 4.3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2022-01-01&g=2022-01-01), niet wordt overschreden.
 
-2. Van de voorschriften, bedoeld in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2021-11-01&g=2021-11-01), en in het eerste lid van dit artikel, onderdelen a, b en e, kan tijdelijk worden afgeweken indien er opvang wordt geboden aan een dier of diergroep waarvoor voldoende deskundigheid aanwezig is, maar waardoor de capaciteit van de dierentuin wordt overschreden en mits de opvang niet elders op betere wijze kan plaatsvinden.
+2. Van de voorschriften, bedoeld in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2022-01-01&g=2022-01-01), en in het eerste lid van dit artikel, onderdelen a, b en e, kan tijdelijk worden afgeweken indien er opvang wordt geboden aan een dier of diergroep waarvoor voldoende deskundigheid aanwezig is, maar waardoor de capaciteit van de dierentuin wordt overschreden en mits de opvang niet elders op betere wijze kan plaatsvinden.
 
 ##### Artikel 4.8. Verzorgen
 
@@ -1754,15 +1762,15 @@ De vergunninghouder beschikt over een beleidsprotocol met daarin opgenomen:
 
 - b. het beleid met betrekking tot de voeding en de preventieve en curatieve diergeneeskundige verzorging van de dieren dat is opgesteld onder begeleiding van een dierenarts;
 
-- c. het doel van de activiteiten, bedoeld in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.10&z=2021-11-01&g=2021-11-01), en van het programma, bedoeld in artikel 4.10, tweede lid;
+- c. het doel van de activiteiten, bedoeld in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.10&z=2022-01-01&g=2022-01-01), en van het programma, bedoeld in artikel 4.10, tweede lid;
 
-- d. een eenduidig beleid met betrekking tot de in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.10&z=2021-11-01&g=2021-11-01) genoemde onderwerpen,
+- d. een eenduidig beleid met betrekking tot de in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.10&z=2022-01-01&g=2022-01-01) genoemde onderwerpen,
 
 en handelt dienovereenkomstig.
 
 ##### Artikel 4.13. Sluiting, aanpassing en intrekking
 
-1. Indien de vergunninghouder niet voldoet aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2021-11-01&g=2021-11-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01) of [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2021-11-01&g=2021-11-01) of aan de bij of krachtens deze paragraaf gestelde voorschriften kan de dierentuin op last van Onze Minister geheel of gedeeltelijk worden gesloten voor het publiek.
+1. Indien de vergunninghouder niet voldoet aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2022-01-01&g=2022-01-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01) of [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.8&z=2022-01-01&g=2022-01-01) of aan de bij of krachtens deze paragraaf gestelde voorschriften kan de dierentuin op last van Onze Minister geheel of gedeeltelijk worden gesloten voor het publiek.
 
 2. Onze Minister kan in het geval, bedoeld in het eerste lid, de exploitant verplichten tot het aanpassen, verwijderen of aanbrengen van specifieke voorzieningen binnen de daarbij vermelde termijn, die ten hoogste twee jaar bedraagt.
 
@@ -1774,7 +1782,7 @@ en handelt dienovereenkomstig.
 
 ##### Artikel 5.1. Doden van productiedieren
 
-[Paragraaf 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=3&z=2021-11-01&g=2021-11-01) is niet van toepassing op het doden van dieren en op met het doden verband houdende activiteiten, waarop verordening (EG) nr. 1099/2009 van toepassing is.
+[Paragraaf 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=3&z=2022-01-01&g=2022-01-01) is niet van toepassing op het doden van dieren en op met het doden verband houdende activiteiten, waarop verordening (EG) nr. 1099/2009 van toepassing is.
 
 ##### Artikel 5.2. Uitvoering [verordening (EG) nr. 1099/2009](32009R1099)
 
@@ -1804,15 +1812,15 @@ en handelt dienovereenkomstig.
 
 ##### Artikel 5.4. Doden van dieren zonder voorgaande bedwelming
 
-Bij het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), wordt voldaan aan het bepaalde bij of krachtens de [artikelen 5.5 tot en met 5.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) en aan de terzake krachtens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2021-11-01&g=2021-11-01) gestelde regels.
+Bij het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), wordt voldaan aan het bepaalde bij of krachtens de [artikelen 5.5 tot en met 5.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-01-01&g=2022-01-01) en aan de terzake krachtens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2022-01-01&g=2022-01-01) gestelde regels.
 
 ##### Artikel 5.5. Registratie
 
-Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2021-11-01&g=2021-11-01), geschiedt slechts in een inrichting die daartoe over een registratie beschikt.
+Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2022-01-01&g=2022-01-01), geschiedt slechts in een inrichting die daartoe over een registratie beschikt.
 
 ##### Artikel 5.6
 
-Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), geschiedt slechts door personen die door een organisatie als bedoeld in [artikel 5.5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2021-11-01&g=2021-11-01) zijn voorgedragen om het slachtproces overeenkomstig de betrokken religieuze ritus uit te voeren, en die van die voordracht een bewijs overleggen aan de ambtenaar, bedoeld in [artikel 5.5f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5f&z=2021-11-01&g=2021-11-01).
+Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), geschiedt slechts door personen die door een organisatie als bedoeld in [artikel 5.5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2022-01-01&g=2022-01-01) zijn voorgedragen om het slachtproces overeenkomstig de betrokken religieuze ritus uit te voeren, en die van die voordracht een bewijs overleggen aan de ambtenaar, bedoeld in [artikel 5.5f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5f&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 5.7. Volgen aanwijzingen
 
@@ -1852,13 +1860,13 @@ De persoon die belast is met het doden zonder voorafgaande bedwelming van een di
 
 ##### Artikel 6.1. Overgangsrecht vleeskalkoenen
 
-In afwijking van [artikel 2.76f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.4&artikel=2.76f&z=2021-11-01&g=2021-11-01), bedraagt de in dat lid bedoelde luchtverversingscapaciteit in stallen die voor 1 juni 2003 zijn gebouwd en sindsdien niet zijn verbouwd ten minste 3 m3 per kg levend gewicht per uur.
+In afwijking van [artikel 2.76f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=6&sub-paragraaf=6.1&sub-paragraaf=6.1.4&artikel=2.76f&z=2022-01-01&g=2022-01-01), bedraagt de in dat lid bedoelde luchtverversingscapaciteit in stallen die voor 1 juni 2003 zijn gebouwd en sindsdien niet zijn verbouwd ten minste 3 m3 per kg levend gewicht per uur.
 
 ##### Artikel 6.2. Overgangsrecht konijnen
 
-1. Tot en met 22 april 2016 is het toegestaan om een voedster als bedoeld in artikel 2.78 buiten de periode van drie dagen voor het berekende tijdstip van werpen tot en met 18 dagen na het werpen te huisvesten in een kooi als bedoeld in [artikel 2.76o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2021-11-01&g=2021-11-01).
+1. Tot en met 22 april 2016 is het toegestaan om een voedster als bedoeld in artikel 2.78 buiten de periode van drie dagen voor het berekende tijdstip van werpen tot en met 18 dagen na het werpen te huisvesten in een kooi als bedoeld in [artikel 2.76o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2022-01-01&g=2022-01-01).
 
-2. Tot en met 22 april 2016 is het degene die konijnen houdt in een huisvestingssysteem dat op 23 april 2006 reeds in gebruik was toegestaan om af te wijken van de [artikelen 2.76o, eerste lid, onderdeel a, subonderdeel 2, onderdelen b en c, tweede lid en het vierde tot en met zesde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2021-11-01&g=2021-11-01), op voorwaarde dat de houder ten minste 50 punten behaalt volgens de tabel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=III&z=2021-11-01&g=2021-11-01) bij dit besluit.
+2. Tot en met 22 april 2016 is het degene die konijnen houdt in een huisvestingssysteem dat op 23 april 2006 reeds in gebruik was toegestaan om af te wijken van de [artikelen 2.76o, eerste lid, onderdeel a, subonderdeel 2, onderdelen b en c, tweede lid en het vierde tot en met zesde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2022-01-01&g=2022-01-01), op voorwaarde dat de houder ten minste 50 punten behaalt volgens de tabel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=III&z=2022-01-01&g=2022-01-01) bij dit besluit.
 
 3. Onze Minister kan tot en met 22 april 2016 ontheffing verlenen van de voorwaarde, bedoeld in het tweede lid, aan een konijnenhouder als bedoeld in [artikel 16, eerste lid, aanhef en onderdeel a, van de Verordening welzijnsnormen konijnen (PPE) 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019560&artikel=16), zoals dat luidde onmiddellijk voor inwerkingtreding van dit lid.
 
@@ -1870,27 +1878,27 @@ In afwijking van [artikel 2.76f, eerste lid](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 6.3. Overgangsrecht huisvesting gelten en zeugen
 
-1. [Artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2021-11-01&g=2021-11-01), is gedurende 10 jaar na het in dat lid bedoelde tijdstip niet van toepassing indien de gebruiker van de stal kan aantonen dat:
+1. [Artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2022-01-01&g=2022-01-01), is gedurende 10 jaar na het in dat lid bedoelde tijdstip niet van toepassing indien de gebruiker van de stal kan aantonen dat:
 
-- a. de stal vóór het in [artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2021-11-01&g=2021-11-01), bedoelde tijdstip in gebruik is genomen, en
+- a. de stal vóór het in [artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2022-01-01&g=2022-01-01), bedoelde tijdstip in gebruik is genomen, en
 
-- b. de stal of de vloer van de stal na het in [artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2021-11-01&g=2021-11-01), bedoelde tijdstip niet is verbouwd of herbouwd.
+- b. de stal of de vloer van de stal na het in [artikel 2.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.18&z=2022-01-01&g=2022-01-01), bedoelde tijdstip niet is verbouwd of herbouwd.
 
-2. In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.11&z=2021-11-01&g=2021-11-01) wordt in dit artikel verstaan onder stal: de kleinste eenheid waarin varkens kunnen worden gehuisvest.
+2. In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.11&z=2022-01-01&g=2022-01-01) wordt in dit artikel verstaan onder stal: de kleinste eenheid waarin varkens kunnen worden gehuisvest.
 
 ##### Artikel 6.4
 
-1. Aan inrichtingen waarvan de exploitant een melding heeft gedaan op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) zoals dat luidde onmiddellijk voorafgaand aan inwerkingtreding van dit artikel, wordt geacht een registratie te zijn verleend op grond van de artikelen 5.5 en [5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2021-11-01&g=2021-11-01) van dit besluit.
+1. Aan inrichtingen waarvan de exploitant een melding heeft gedaan op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-01-01&g=2022-01-01) zoals dat luidde onmiddellijk voorafgaand aan inwerkingtreding van dit artikel, wordt geacht een registratie te zijn verleend op grond van de artikelen 5.5 en [5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2022-01-01&g=2022-01-01) van dit besluit.
 
-2. Aan inrichtingen waarop artikel 6.4, eerste lid, zoals dat luidde onmiddellijk voorafgaand aan inwerkingtreding dit artikel, van toepassing is, wordt geacht een registratie te zijn verleend op grond van de [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) en [5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2021-11-01&g=2021-11-01) van dit besluit.
+2. Aan inrichtingen waarop artikel 6.4, eerste lid, zoals dat luidde onmiddellijk voorafgaand aan inwerkingtreding dit artikel, van toepassing is, wordt geacht een registratie te zijn verleend op grond van de [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-01-01&g=2022-01-01) en [5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2022-01-01&g=2022-01-01) van dit besluit.
 
 3. Het eerste en het tweede lid zijn niet van toepassing indien in de desbetreffende inrichting na het tijdstip waarop dit artikel in werking treedt, meer dan een jaar geen dieren zonder voorafgaande bedwelming volgens de islamitische of israëlitische ritus zijn geslacht.
 
 ##### Artikel 6.5. Eisen aan tentoonstellingen, beurzen en markten voor gezelschapsdieren
 
-1. De [artikelen 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), [3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2021-11-01&g=2021-11-01), en [3.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2021-11-01&g=2021-11-01), zijn gedurende vier maanden vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.
+1. De [artikelen 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), [3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.12&z=2022-01-01&g=2022-01-01), en [3.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2022-01-01&g=2022-01-01), zijn gedurende vier maanden vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.
 
-2. [Artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01), is ten aanzien van:
+2. [Artikel 3.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01), is ten aanzien van:
 
 - a. honden en katten gedurende vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing;
 
@@ -1898,19 +1906,19 @@ In afwijking van [artikel 2.76f, eerste lid](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 6.6. Vakbekwaamheid bedrijfsmatige activiteiten met gezelschapsdieren
 
-1. [Artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01), is gedurende een periode van vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel niet van toepassing:
+1. [Artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01), is gedurende een periode van vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel niet van toepassing:
 
-- a. indien degene die verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten desgevraagd kan aantonen dat de inrichting voor het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit;
+- a. indien degene die verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten desgevraagd kan aantonen dat de inrichting voor het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit;
 
-- b. ten aanzien van andere gezelschapsdieren dan honden en katten, indien degene die verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten desgevraagd kan aantonen dat het een inrichting betreft waarvoor een aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, waar ook andere gezelschapsdieren werden gehouden dan honden en katten.
+- b. ten aanzien van andere gezelschapsdieren dan honden en katten, indien degene die verantwoordelijk is voor de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten desgevraagd kan aantonen dat het een inrichting betreft waarvoor een aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, waar ook andere gezelschapsdieren werden gehouden dan honden en katten.
 
-2. Het erkende bewijs van vakbekwaamheid op basis van het [Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als bewijs van vakbekwaamheid als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2021-11-01&g=2021-11-01), voor zover activiteiten worden verricht met honden en katten.
+2. Het erkende bewijs van vakbekwaamheid op basis van het [Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als bewijs van vakbekwaamheid als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2022-01-01&g=2022-01-01), voor zover activiteiten worden verricht met honden en katten.
 
 ##### Artikel 6.7. Aanmelding inrichting
 
-1. Een aanmelding bij Onze Minister die is verricht op grond van [artikel 3, eerste lid van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als een aanmelding als bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), voor activiteiten met honden of katten, voor zover die activiteiten bij die eerdere aanmelding zijn gemeld.
+1. Een aanmelding bij Onze Minister die is verricht op grond van [artikel 3, eerste lid van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als een aanmelding als bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), voor activiteiten met honden of katten, voor zover die activiteiten bij die eerdere aanmelding zijn gemeld.
 
-2. [Artikel 3.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2021-11-01&g=2021-11-01), is gedurende een periode van vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing op een inrichting, indien degene onder wiens verantwoordelijkheid de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2021-11-01&g=2021-11-01) bedoelde activiteiten op die inrichting worden verricht:
+2. [Artikel 3.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2022-01-01&g=2022-01-01), is gedurende een periode van vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing op een inrichting, indien degene onder wiens verantwoordelijkheid de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-01&g=2022-01-01) bedoelde activiteiten op die inrichting worden verricht:
 
 - a. desgevraagd kan aantonen dat de inrichting vóór het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=3), en
 
@@ -1918,9 +1926,9 @@ In afwijking van [artikel 2.76f, eerste lid](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 6.8. Huisvesting zieke of van ziekte verdachte gezelschapsdieren
 
-1. [Artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2021-11-01&g=2021-11-01), en [artikel 3.14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2021-11-01&g=2021-11-01), zijn gedurende een periode van drie jaar vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.
+1. [Artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2022-01-01&g=2022-01-01), en [artikel 3.14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2022-01-01&g=2022-01-01), zijn gedurende een periode van drie jaar vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=9) en [10 van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=10), zoals dat gold onmiddellijk voor intrekking van dat besluit, blijven van toepassing, gedurende drie jaar vanaf het tijdstip van inwerkingtreding van de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2021-11-01&g=2021-11-01) en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2021-11-01&g=2021-11-01).
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=9) en [10 van het Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200&artikel=10), zoals dat gold onmiddellijk voor intrekking van dat besluit, blijven van toepassing, gedurende drie jaar vanaf het tijdstip van inwerkingtreding van de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2022-01-01&g=2022-01-01) en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6.9. Intrekking [Honden- en kattenbesluit 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010200) en uitgestelde werking Honden- en kattenbesluit in verband met wijziging [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081)
 
@@ -2602,7 +2610,7 @@ Deze paragraaf is van toepassing op bedrijfsmatig gehouden ouderdieren van vlees
 
 4. In afwijking van het eerste lid, onderdeel a, beschikt een ouderdier van een koppel waarvan de hennen een eindgewicht van ten hoogste 2,4 kg bereiken over ten minste 1.200 cm2 bruikbare oppervlakte per ouderdier.
 
-5. Onverminderd de [artikelen 1.7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2021-11-01&g=2021-11-01), en [2.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01) beschikt een ouderdier als bedoeld in het vierde lid permanent over luzerne, snijmaissilage of daarmee vergelijkbaar ruwvoer.
+5. Onverminderd de [artikelen 1.7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=2&artikel=1.7&z=2022-01-01&g=2022-01-01), en [2.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01) beschikt een ouderdier als bedoeld in het vierde lid permanent over luzerne, snijmaissilage of daarmee vergelijkbaar ruwvoer.
 
 ##### Artikel 2.65e. Huisvesting ouderdieren tijdens opfok
 
@@ -2610,9 +2618,9 @@ Een dier dat wordt opgefokt om te worden gehouden als ouderdier beschikt over ee
 
 ##### Artikel 2.65f. Controles
 
-1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), worden ouderdieren ten minste tweemaal per dag gecontroleerd.
+1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), worden ouderdieren ten minste tweemaal per dag gecontroleerd.
 
-2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van ouderdieren ten minste tweemaal per dag gecontroleerd.
+2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van ouderdieren ten minste tweemaal per dag gecontroleerd.
 
 3. De houder van ouderdieren controleert tweemaal per dag de kwaliteit van het strooisel.
 
@@ -2704,7 +2712,7 @@ Deze paragraaf is van toepassing op bedrijfsmatig gehouden vleeskalkoenen, ouder
 
 ##### Artikel 2.76g. Verlichting
 
-1. Onverminderd [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), worden vleeskalkoenen en ouderdieren gehouden in een ruimte waar een aaneengesloten rustperiode wordt gehanteerd van ten minste acht uur per etmaal, waarin die ruimte niet of nauwelijks kunstmatig wordt verlicht.
+1. Onverminderd [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), worden vleeskalkoenen en ouderdieren gehouden in een ruimte waar een aaneengesloten rustperiode wordt gehanteerd van ten minste acht uur per etmaal, waarin die ruimte niet of nauwelijks kunstmatig wordt verlicht.
 
 2. De lichtintensiteit in een ruimte bestemd voor vleeskalkoenen of ouderdieren bedraagt op dierhoogte ten minste 20 Lux, tenzij een lagere lichtsterkte tijdelijk noodzakelijk is om letsel als gevolg van pikkerij te voorkomen.
 
@@ -2714,9 +2722,9 @@ Tijdens vervoer dat op Nederlands grondgebied begint en eindigt, worden vleeskal
 
 ##### Artikel 2.76i. Controles
 
-1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), worden vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.
+1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), worden vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.
 
-2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.
+2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.
 
 3. De houder van vleeskalkoenen en ouderdieren controleert tweemaal per dag de kwaliteit van het strooisel.
 
@@ -2858,7 +2866,7 @@ Het is verboden om een vrouwelijk konijn te laten dekken of insemineren voordat 
 
 ##### Artikel 2.76q. Verlichting
 
-1. Onverminderd [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), worden konijnen gehouden in een ruimte waar een dag- en nachtritme wordt gehanteerd waarbij het ten minste acht uur licht is en ten minste acht uur donker, in beide gevallen ten minste vier uur aaneengesloten.
+1. Onverminderd [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), worden konijnen gehouden in een ruimte waar een dag- en nachtritme wordt gehanteerd waarbij het ten minste acht uur licht is en ten minste acht uur donker, in beide gevallen ten minste vier uur aaneengesloten.
 
 2. In een ruimte bestemd voor voedsters en fokrammen:
 
@@ -2868,9 +2876,9 @@ Het is verboden om een vrouwelijk konijn te laten dekken of insemineren voordat 
 
 ##### Artikel 2.76r. Controles
 
-1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2021-11-01&g=2021-11-01), worden konijnen ten minste tweemaal per dag gecontroleerd.
+1. In afwijking van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-01-01&g=2022-01-01), worden konijnen ten minste tweemaal per dag gecontroleerd.
 
-2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2021-11-01&g=2021-11-01), wordt de apparatuur die noodzakelijk is voor de voer- en watervoorzieningen van konijnen ten minste tweemaal per dag gecontroleerd.
+2. In afwijking van [artikel 2.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2022-01-01&g=2022-01-01), wordt de apparatuur die noodzakelijk is voor de voer- en watervoorzieningen van konijnen ten minste tweemaal per dag gecontroleerd.
 
 #### § 6b. Houden van nertsen voor productie
 
@@ -3544,7 +3552,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.14. Verbod op deelname met andere dan aangewezen dieren aan een circus of ander optreden en op vervoer van die dieren ten behoeve van een circus of ander optreden
 
-1. Het is verboden met andere zoogdieren dan die behoren tot de diersoorten, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IV&z=2021-11-01&g=2021-11-01), deel te nemen aan een circus of een ander optreden.
+1. Het is verboden met andere zoogdieren dan die behoren tot de diersoorten, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IV&z=2022-01-01&g=2022-01-01), deel te nemen aan een circus of een ander optreden.
 
 2. Het is verboden dieren als bedoeld in het eerste lid te vervoeren ten behoeve van:
 
@@ -3552,7 +3560,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. een niet in Nederland gevestigd circus of een niet in Nederland gevestigde natuurlijke persoon, rechtspersoon of vennootschap die met die dieren deelneemt aan een circus of een ander optreden in Nederland.
 
-3. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing op optredens in dierentuinen als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2021-11-01&g=2021-11-01).
+3. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing op optredens in dierentuinen als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk 5. Doden van dieren voor de productie van dierlijke producten
 
@@ -4163,7 +4171,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.5a. Voorwaarde voor aanvraag registratie
 
-Een aanvraag tot registratie als bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01) kan slechts worden gedaan door een inrichting die op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) door Onze Minister is erkend.
+Een aanvraag tot registratie als bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-01-01&g=2022-01-01) kan slechts worden gedaan door een inrichting die op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) door Onze Minister is erkend.
 
 ##### Artikel 5.5b. Eisen voor verlenen registratie
 
@@ -4183,15 +4191,15 @@ Een aanvraag tot registratie als bedoeld in [artikel 5.5](https://wetten.overhei
 
 ##### Artikel 5.5c. Register
 
-Van de verleende registratie, bedoeld in [artikel 5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2021-11-01&g=2021-11-01), wordt voor de betreffende inrichting aantekening gemaakt in het register waarin de erkenning van de inrichtingen op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) is geregistreerd.
+Van de verleende registratie, bedoeld in [artikel 5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2022-01-01&g=2022-01-01), wordt voor de betreffende inrichting aantekening gemaakt in het register waarin de erkenning van de inrichtingen op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) is geregistreerd.
 
 ##### Artikel 5.5d. Vervallen registratie
 
-Indien een erkenning op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) als bedoeld in [artikel 5.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5a&z=2021-11-01&g=2021-11-01) wordt ingetrokken, vervalt de registratie, bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=6&artikel=6.5&z=2021-11-01&g=2021-11-01), van rechtswege.
+Indien een erkenning op grond van artikel 4 van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 226) als bedoeld in [artikel 5.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5a&z=2022-01-01&g=2022-01-01) wordt ingetrokken, vervalt de registratie, bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=6&artikel=6.5&z=2022-01-01&g=2022-01-01), van rechtswege.
 
 ##### Artikel 5.5e. Schorsing en intrekking van de registratie
 
-De registratie, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2021-11-01&g=2021-11-01), kan worden geschorst dan wel ingetrokken, indien niet langer wordt voldaan aan de eisen, bedoeld in [artikel 5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2021-11-01&g=2021-11-01).
+De registratie, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2022-01-01&g=2022-01-01), kan worden geschorst dan wel ingetrokken, indien niet langer wordt voldaan aan de eisen, bedoeld in [artikel 5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.5b&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 5.5f. Permanent toezicht
 
@@ -4223,7 +4231,7 @@ De fixatievoorzieningen en de fixatie-uitrusting voldoen in elk geval aan de vol
 
 1. Het te doden dier gaat het fixatieapparaat niet eerder binnen dan nadat de slachter gereed staat met het mes om het dier te doden.
 
-2. De fixatie van het te slachten dier wordt niet eerder opgeheven dan nadat overeenkomstig het gestelde in [artikel 5.9a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.9a&z=2021-11-01&g=2021-11-01), zeker is gesteld dat het dier het bewustzijn heeft verloren.
+2. De fixatie van het te slachten dier wordt niet eerder opgeheven dan nadat overeenkomstig het gestelde in [artikel 5.9a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=5&paragraaf=2&artikel=5.9a&z=2022-01-01&g=2022-01-01), zeker is gesteld dat het dier het bewustzijn heeft verloren.
 
 ##### Artikel 5.9a. Periode bewustzijn
 
@@ -5200,11 +5208,11 @@ Deze paragraaf is van toepassing op het doden van aal met het oog op de producti
 
 ##### Artikel 6.10. Overgangsrecht betonroostervloeren
 
-[Artikel 2.21, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2021-11-01&g=2021-11-01), is niet van toepassing op betonroostervloeren indien de gebruiker van de stal kan aantonen dat:
+[Artikel 2.21, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2022-01-01&g=2022-01-01), is niet van toepassing op betonroostervloeren indien de gebruiker van de stal kan aantonen dat:
 
 - a. de betreffende betonroostervloer voor 1 juli 2018 in gebruik is genomen;
 
-- b. de betreffende betonroostervloer ten tijde van de inwerkingtreding van dat onderdeel voldeed aan [artikel 2.21, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2021-11-01&g=2021-11-01), van het Besluit houders van dieren zoals dat luidde voor de inwerkingtreding van dat onderdeel en nadien is blijven voldoen aan die bepaling; en
+- b. de betreffende betonroostervloer ten tijde van de inwerkingtreding van dat onderdeel voldeed aan [artikel 2.21, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2022-01-01&g=2022-01-01), van het Besluit houders van dieren zoals dat luidde voor de inwerkingtreding van dat onderdeel en nadien is blijven voldoen aan die bepaling; en
 
 - c. de vloer van de stal niet is verbouwd of vervangen na de inwerkingtreding van dat onderdeel.
 
@@ -5477,11 +5485,11 @@ Een exploitant van een levensmiddelenbedrijf als bedoeld in artikel 3, derde lid
 
 ##### Artikel 1.35. Overladen bij verzamelen op vervoermiddel
 
-1. Bij het verzamelen, bedoeld in [artikel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=8&sub-paragraaf=8.1&artikel=1.34&z=2021-11-01&g=2021-11-01), is het toegestaan evenhoevigen ten hoogste een keer over te laden van een vervoermiddel op een bij dat vervoermiddel behorende achterwagen, indien:
+1. Bij het verzamelen, bedoeld in [artikel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=8&sub-paragraaf=8.1&artikel=1.34&z=2022-01-01&g=2022-01-01), is het toegestaan evenhoevigen ten hoogste een keer over te laden van een vervoermiddel op een bij dat vervoermiddel behorende achterwagen, indien:
 
 - a. bij het overladen alle aanwezige dieren worden verplaatst naar de achterwagen;
 
-- b. het overladen van dieren plaatsvindt op een inrichting als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10a&z=2021-11-01&g=2021-11-01) of [2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01) of een andere inrichting die voldoet aan de krachtens artikel 2.10a gestelde regels; en
+- b. het overladen van dieren plaatsvindt op een inrichting als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10a&z=2022-01-01&g=2022-01-01) of [2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01) of een andere inrichting die voldoet aan de krachtens artikel 2.10a gestelde regels; en
 
 - c. het lege vervoermiddel na het overladen wordt gereinigd en ontsmet.
 
@@ -5685,7 +5693,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de gegevens die een
 
 ##### Artikel 1.53. Herstel en intrekking melding
 
-Bij ministeriële regeling kunnen regels worden gesteld over het herstel of de intrekking van een kennisgeving, bedoeld in de [artikelen 1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=11&sub-paragraaf=11.1&artikel=1.51&z=2021-11-01&g=2021-11-01) en [1.52](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=11&sub-paragraaf=11.1&artikel=1.52&z=2021-11-01&g=2021-11-01), en de voorwaarden waaronder een kennisgeving kan worden hersteld, ingetrokken of alsnog kan worden gedaan.
+Bij ministeriële regeling kunnen regels worden gesteld over het herstel of de intrekking van een kennisgeving, bedoeld in de [artikelen 1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=11&sub-paragraaf=11.1&artikel=1.51&z=2022-01-01&g=2022-01-01) en [1.52](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=11&sub-paragraaf=11.1&artikel=1.52&z=2022-01-01&g=2022-01-01), en de voorwaarden waaronder een kennisgeving kan worden hersteld, ingetrokken of alsnog kan worden gedaan.
 
 ##### Artikel 1.54. Bedrijfsadministratie
 
@@ -5807,7 +5815,7 @@ Ingeval artikel 234, derde lid, van verordening (EU) nr. 2016/429 van toepassing
 
 ##### Artikel 2.10b. Medewerking houder bij reiniging en ontsmetting
 
-Een houder als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10a&z=2021-11-01&g=2021-11-01) verleent na aanvoer van evenhoevigen medewerking aan de reiniging en ontsmetting van het vervoermiddel waarmee die dieren zijn vervoerd.
+Een houder als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10a&z=2022-01-01&g=2022-01-01) verleent na aanvoer van evenhoevigen medewerking aan de reiniging en ontsmetting van het vervoermiddel waarmee die dieren zijn vervoerd.
 
 ##### Artikel 2.10c. Erkenning reinigings- en ontsmettingsplaats
 
@@ -5821,9 +5829,9 @@ Een houder als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.10d. Reiniging en ontsmetting op erkende plaats
 
-1. Een exploitant van een op grond van [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01) erkende reinigings- en ontsmettingsplaats, een slachthuis of een verzamelcentrum zorgt ervoor dat:
+1. Een exploitant van een op grond van [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01) erkende reinigings- en ontsmettingsplaats, een slachthuis of een verzamelcentrum zorgt ervoor dat:
 
-- a. reiniging- en ontsmetting gebeurt volgens een daartoe opgesteld protocol als bedoeld in [artikel 2.10c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01);
+- a. reiniging- en ontsmetting gebeurt volgens een daartoe opgesteld protocol als bedoeld in [artikel 2.10c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01);
 
 - b. de exploitant of een vertegenwoordiger van die exploitant aanwezig is bij elke reiniging- en ontsmetting.
 
@@ -5845,17 +5853,17 @@ Een houder als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.10e. Schorsen en intrekken erkenning
 
-1. Indien een reinigings- en ontsmettingsplaats niet langer voldoet aan de eisen, bedoeld in de [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01) of [2.10d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10d&z=2021-11-01&g=2021-11-01), kan Onze Minister de erkenning schorsen of intrekken.
+1. Indien een reinigings- en ontsmettingsplaats niet langer voldoet aan de eisen, bedoeld in de [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01) of [2.10d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10d&z=2022-01-01&g=2022-01-01), kan Onze Minister de erkenning schorsen of intrekken.
 
 2. Onze Minister kan een schorsing beëindigen, als de exploitant heeft aangetoond aan de in het eerste lid bedoelde eisen te voldoen.
 
 ##### Artikel 2.10f. Vervoermiddelen afkomstig uit het buitenland
 
-1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een derde land of uit een door Onze Minister aangewezen lidstaat, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10b&z=2021-11-01&g=2021-11-01) onmiddellijk vervoerd naar een ingevolge artikel 2.10c erkende reinigings- en ontsmettingsplaats, een slachthuis of een verzamelcentrum, om aldaar te worden gereinigd en ontsmet.
+1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een derde land of uit een door Onze Minister aangewezen lidstaat, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10b&z=2022-01-01&g=2022-01-01) onmiddellijk vervoerd naar een ingevolge artikel 2.10c erkende reinigings- en ontsmettingsplaats, een slachthuis of een verzamelcentrum, om aldaar te worden gereinigd en ontsmet.
 
-2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in derde landen, of in door Onze Minister aangewezen lidstaten, en dat vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2021-11-01&g=2021-11-01) erkende reiniging- en ontsmettingsplaats, een slachthuis of een verzamelcentrum.
+2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in derde landen, of in door Onze Minister aangewezen lidstaten, en dat vanuit deze derde landen of lidstaten, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10c&z=2022-01-01&g=2022-01-01) erkende reiniging- en ontsmettingsplaats, een slachthuis of een verzamelcentrum.
 
-3. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan Onze Minister een bewijs van de reiniging en ontsmetting als bedoeld in [artikel 2.10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10d&z=2021-11-01&g=2021-11-01).
+3. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan Onze Minister een bewijs van de reiniging en ontsmetting als bedoeld in [artikel 2.10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=3a&artikel=2.10d&z=2022-01-01&g=2022-01-01).
 
 4. Wanneer het vervoermiddel, bedoeld in het eerste of tweede lid, afkomstig is uit een lidstaat, meldt de exploitant aan Onze Minister in aanvulling op het derde lid binnen 24 uur na binnenkomst in Nederland het nummer van het gezondheidscertificaat, bedoeld in artikel 143, van verordening (EU) nr. 2016/429, dat het meest recentelijk is afgegeven.
 
@@ -5877,21 +5885,21 @@ Een houder als bedoeld in [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BW
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **A-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- a. **A-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
-- b. **B-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- b. **B-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
-- c. **C-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- c. **C-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
-- d. **D-bedrijf:** inrichting als bedoeld in [artikel 2.27b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- d. **D-bedrijf:** inrichting als bedoeld in [artikel 2.27b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
-- e. **E-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- e. **E-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
-- f. **F-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01);
+- f. **F-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01);
 
 - g. **onderzoeksinstituut:** onderzoeksinstituut dat beschikt over een instellingsvergunning als bedoeld in [artikel 2 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2);
 
-- h. **RE-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01).
+- h. **RE-bedrijf:** inrichting als bedoeld in [artikel 2.27b, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2.27b. Registratie inrichtingen met varkens
 
@@ -5923,7 +5931,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.27c. Uitzonderingen registratieplicht
 
-[Artikel 2.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01) is niet van toepassing op:
+[Artikel 2.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01) is niet van toepassing op:
 
 - a. een onderzoeksinstituut;
 
@@ -5967,15 +5975,15 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.27f. Schorsen of intrekken registratie
 
-Onze Minister kan een registratie als bedoeld in [artikel 2.27b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01), schorsen of intrekken, indien de houder:
+Onze Minister kan een registratie als bedoeld in [artikel 2.27b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01), schorsen of intrekken, indien de houder:
 
 - a. niet langer voldoet aan de registratievoorwaarden; of
 
-- b. in strijd handelt met de vervoersbepalingen, bedoeld in de [artikelen 2.27g tot en met 2.27n](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27g&z=2021-11-01&g=2021-11-01).
+- b. in strijd handelt met de vervoersbepalingen, bedoeld in de [artikelen 2.27g tot en met 2.27n](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27g&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2.27g. Vervoer van en naar geregistreerde inrichtingen
 
-1. Varkens worden slechts vervoerd vanaf of naar een inrichting die is geregistreerd op grond van [artikel 2.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01), indien dat vervoer is toegestaan op grond van de [artikelen 2.27h tot en met 2.27n](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27h&z=2021-11-01&g=2021-11-01).
+1. Varkens worden slechts vervoerd vanaf of naar een inrichting die is geregistreerd op grond van [artikel 2.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01), indien dat vervoer is toegestaan op grond van de [artikelen 2.27h tot en met 2.27n](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27h&z=2022-01-01&g=2022-01-01).
 
 2. Het eerste lid is niet van toepassing, indien een houder varkens:
 
@@ -6009,7 +6017,7 @@ Onze Minister kan een registratie als bedoeld in [artikel 2.27b, eerste lid](htt
 
 - a. een A-bedrijf, B-bedrijf of D-bedrijf;
 
-- b. telkens hetzelfde C-bedrijf of cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2021-11-01&g=2021-11-01); of
+- b. telkens hetzelfde C-bedrijf of cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2022-01-01&g=2022-01-01); of
 
 - c. telkens hetzelfde E-bedrijf.
 
@@ -6043,7 +6051,7 @@ Onze Minister kan een registratie als bedoeld in [artikel 2.27b, eerste lid](htt
 
 - 1°. per twaalf maanden naar ten hoogste 40 bedrijven wordt afgevoerd; of
 
-- 2°. voor zover het C-bedrijf onderdeel is van een cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2021-11-01&g=2021-11-01), per twaalf maanden door de bedrijven in dat cluster gezamenlijk naar ten hoogste 30 bedrijven wordt afgevoerd.
+- 2°. voor zover het C-bedrijf onderdeel is van een cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2022-01-01&g=2022-01-01), per twaalf maanden door de bedrijven in dat cluster gezamenlijk naar ten hoogste 30 bedrijven wordt afgevoerd.
 
 ##### Artikel 2.27k. Vervoer D-bedrijven
 
@@ -6057,7 +6065,7 @@ Het is toegestaan om varkens aan te voeren op een D-bedrijf, indien die dieren a
 
 - a. een A-bedrijf, B-bedrijf of D-bedrijf; of
 
-- b. uitsluitend hetzelfde C-bedrijf of cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2021-11-01&g=2021-11-01).
+- b. uitsluitend hetzelfde C-bedrijf of cluster van C-bedrijven als bedoeld in [artikel 2.27d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27d&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2.27m. Vervoer F-bedrijven
 
@@ -6067,7 +6075,7 @@ Het is toegestaan om varkens aan te voeren op een D-bedrijf, indien die dieren a
 
 - a. het B-bedrijf waarvan die dieren oorspronkelijk afkomstig waren; of
 
-- b. een D-bedrijf, waarbij voor zover het F-bedrijf onderdeel is van een cluster van F-bedrijven als bedoeld in [artikel 2.27e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27e&z=2021-11-01&g=2021-11-01), per periode van:
+- b. een D-bedrijf, waarbij voor zover het F-bedrijf onderdeel is van een cluster van F-bedrijven als bedoeld in [artikel 2.27e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27e&z=2022-01-01&g=2022-01-01), per periode van:
 
 - 1°. zes weken afvoer is toegestaan naar ten hoogste zes D-bedrijven, en
 
@@ -6079,7 +6087,7 @@ Het is toegestaan om varkens aan te voeren op een RE-bedrijf, indien daarmee op 
 
 ##### Artikel 2.27o. Wissel vaste afnemer of leverancier
 
-1. Een houder van varkens als bedoeld in [artikel 2.27h, eerste lid, onderdeel a, onder 1°, of derde lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27h&z=2021-11-01&g=2021-11-01), of [artikel 2.27i, eerste lid, onderdeel a, onder 1°, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27i&z=2021-11-01&g=2021-11-01), die uitsluitend van hetzelfde bedrijf dieren ontvangt of aan hetzelfde bedrijf of dezelfde bedrijven dieren levert, registreert dat bij Onze Minister via een daartoe door Onze Minister beschikbaar gesteld middel.
+1. Een houder van varkens als bedoeld in [artikel 2.27h, eerste lid, onderdeel a, onder 1°, of derde lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27h&z=2022-01-01&g=2022-01-01), of [artikel 2.27i, eerste lid, onderdeel a, onder 1°, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27i&z=2022-01-01&g=2022-01-01), die uitsluitend van hetzelfde bedrijf dieren ontvangt of aan hetzelfde bedrijf of dezelfde bedrijven dieren levert, registreert dat bij Onze Minister via een daartoe door Onze Minister beschikbaar gesteld middel.
 
 2. Een houder als bedoeld in het eerste lid kan éénmaal per twaalf maanden wisselen van leverancier of afnemer van varkens, nadat de houder daarvan melding heeft gedaan bij Onze Minister via een daartoe door Onze Minister beschikbaar gesteld middel.
 
@@ -6097,7 +6105,7 @@ Het is toegestaan om varkens aan te voeren op een RE-bedrijf, indien daarmee op 
 
 ##### Artikel 2.27q. Monitoring varkens
 
-1. Een houder van varkens als bedoeld in [artikel 2.27b, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2021-11-01&g=2021-11-01), laat die dieren onderzoeken op de aanwezigheid van besmettelijke dierziekten.
+1. Een houder van varkens als bedoeld in [artikel 2.27b, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.1&artikel=2.27b&z=2022-01-01&g=2022-01-01), laat die dieren onderzoeken op de aanwezigheid van besmettelijke dierziekten.
 
 2. Bij ministeriële regeling worden regels gesteld over:
 
@@ -6281,7 +6289,7 @@ Artikel 10, tweede lid, verordening (EU) nr. 2016/429 is van overeenkomstige toe
 
 #### § 1. Houden van dieren in dierentuinen
 
-#### § 2. Houden van dieren ten behoeve van circussen en andere optredens
+#### § 1. Houden van dieren in dierentuinen
 
 #### § 3. Houden van evenhoevigen voor vertoning
 
@@ -6311,7 +6319,7 @@ Artikel 10, tweede lid, verordening (EU) nr. 2016/429 is van overeenkomstige toe
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de gegevens die een organisator als bedoeld in [artikel 4.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=3&artikel=4.15&z=2021-11-01&g=2021-11-01) overlegt;
+- a. de gegevens die een organisator als bedoeld in [artikel 4.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=3&artikel=4.15&z=2022-01-01&g=2022-01-01) overlegt;
 
 - b. het vervoermiddel waarmee runderen, schapen of geiten worden aangevoerd naar of afgevoerd van een tentoonstelling of keuring;
 
@@ -6321,13 +6329,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 ##### Artikel 4.17. Houden en bijeenbrengen schapen en geiten
 
-1. Het is verboden schapen of geiten die niet zijn gevaccineerd overeenkomstig [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=9&artikel=1.46&z=2021-11-01&g=2021-11-01) te houden op een inrichting die is opengesteld voor het publiek met het oogmerk om direct contact tussen bezoekers en dieren te faciliteren, tenzij die schapen of geiten:
+1. Het is verboden schapen of geiten die niet zijn gevaccineerd overeenkomstig [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=9&artikel=1.46&z=2022-01-01&g=2022-01-01) te houden op een inrichting die is opengesteld voor het publiek met het oogmerk om direct contact tussen bezoekers en dieren te faciliteren, tenzij die schapen of geiten:
 
 - a. in hun eerste levensjaar worden geslacht en geen dieren dekken, onderscheidenlijk gedekt of geïnsemineerd worden; of
 
 - b. jonger zijn dan drie maanden.
 
-2. Het is verboden schapen of geiten die niet zijn gevaccineerd overeenkomstig [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=9&artikel=1.46&z=2021-11-01&g=2021-11-01) bijeen te brengen op een tentoonstelling, keuring of ander evenement.
+2. Het is verboden schapen of geiten die niet zijn gevaccineerd overeenkomstig [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=9&artikel=1.46&z=2022-01-01&g=2022-01-01) bijeen te brengen op een tentoonstelling, keuring of ander evenement.
 
 3. Het tweede lid is niet van toepassing op lammeren, jonger dan drie maanden, die samen met het moederdier bijeen worden gebracht.
 
@@ -7071,15 +7079,15 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.26. Reikwijdte
 
-1. De [artikelen 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.27&z=2021-11-01&g=2021-11-01), [3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2021-11-01&g=2021-11-01), [3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2021-11-01&g=2021-11-01), en [3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01), zijn niet van toepassing op:
+1. De [artikelen 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.27&z=2022-01-01&g=2022-01-01), [3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2022-01-01&g=2022-01-01), [3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2022-01-01&g=2022-01-01), en [3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01), zijn niet van toepassing op:
 
 - a. een hond die wordt gehouden overeenkomstig [artikel 13 van het Dierproevenbesluit 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=13); en
 
 - b. een hond, geboren in Nederland voor 1 april 2013, tenzij de hond wordt overgedragen of wordt voorzien van een identificatiedocument.
 
-2. [Artikel 3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2021-11-01&g=2021-11-01), is niet van toepassing op een houder die voor de datum van inwerkingtreding van dat artikel de hond reeds hield, tenzij de hond wordt overgedragen.
+2. [Artikel 3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2022-01-01&g=2022-01-01), is niet van toepassing op een houder die voor de datum van inwerkingtreding van dat artikel de hond reeds hield, tenzij de hond wordt overgedragen.
 
-3. De [artikelen 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2021-11-01&g=2021-11-01), en [3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01), zijn niet van toepassing op uit het buitenland afkomstige houders die korter dan drie maanden met hun hond in Nederland verblijven, tenzij de hond wordt overgedragen.
+3. De [artikelen 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2022-01-01&g=2022-01-01), en [3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01), zijn niet van toepassing op uit het buitenland afkomstige houders die korter dan drie maanden met hun hond in Nederland verblijven, tenzij de hond wordt overgedragen.
 
 ##### Artikel 3.27. Identificatieplicht
 
@@ -7109,7 +7117,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. de houder een hond voor het eerst in Nederland brengt;
 
-- c. de houder een hond heeft verkregen die niet is voorzien van een injecteerbare transponder of die niet is geregistreerd overeenkomstig [artikel 3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01) of [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9).
+- c. de houder een hond heeft verkregen die niet is voorzien van een injecteerbare transponder of die niet is geregistreerd overeenkomstig [artikel 3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01) of [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9).
 
 2. De registratie wordt slechts gedaan indien de houder nog niet bij Onze Minister geregistreerd is.
 
@@ -7129,13 +7137,13 @@ In deze paragraaf wordt verstaan onder:
 
 Een persoon verkrijgt geen hond van een houder indien de hond:
 
-- a. niet is voorzien van een injecteerbare transponder overeenkomstig [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.27&z=2021-11-01&g=2021-11-01);
+- a. niet is voorzien van een injecteerbare transponder overeenkomstig [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.27&z=2022-01-01&g=2022-01-01);
 
-- b. niet is voorzien van een identificatiedocument overeenkomstig [artikel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2021-11-01&g=2021-11-01);
+- b. niet is voorzien van een identificatiedocument overeenkomstig [artikel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.28&z=2022-01-01&g=2022-01-01);
 
-- c. niet is geregistreerd overeenkomstig de [artikelen 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) en [artikel 3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01); of
+- c. niet is geregistreerd overeenkomstig de [artikelen 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) en [artikel 3.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01); of
 
-- d. niet is geregistreerd overeenkomstig [artikel 3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01).
+- d. niet is geregistreerd overeenkomstig [artikel 3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3.32. Aanwijzing van portalen
 
@@ -7151,7 +7159,7 @@ Een persoon verkrijgt geen hond van een houder indien de hond:
 
 2. De beheerder van het portaal:
 
-- a. registreert de gegevens, bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2021-11-01&g=2021-11-01) en [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) direct bij Onze Minister; en
+- a. registreert de gegevens, bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2022-01-01&g=2022-01-01) en [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) direct bij Onze Minister; en
 
 - b. wijzigt op verzoek van Onze Minister de wijze waarop gegevens bij Onze Minister worden geregistreerd.
 
@@ -7181,7 +7189,7 @@ Een persoon verkrijgt geen hond van een houder indien de hond:
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage I. als bedoeld in [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2021-11-01&g=2021-11-01) van het Besluit houders van dieren
+## Bijlage I. als bedoeld in [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=1&paragraaf=5&artikel=1.20&z=2022-01-01&g=2022-01-01) van het Besluit houders van dieren
 
 Soorten papegaaiachtigen en de minimum leeftijd die per soort moet worden aangehouden bij het scheiden van kuiken en ouderdier.
 
@@ -7556,7 +7564,7 @@ Soorten papegaaiachtigen en de minimum leeftijd die per soort moet worden aangeh
 | Zwartwangagapornis | Agapornis nigrigenis | 54 |
 | Zwavelborstparkiet | Aratinga maculata | 66 |
 
-## Bijlage II. als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-11-01&g=2021-11-01) van het Besluit houders van dieren
+## Bijlage II. als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-01-01&g=2022-01-01) van het Besluit houders van dieren
 
 Aangewezen soorten en categorieën van in Nederland te houden dieren met het oog op de productie van van die dieren afkomstige producten.
 
@@ -7714,7 +7722,7 @@ Categorieën
 
 - –. de kruising tussen de Heterobranchus longifilis en de Clarias gariepinus
 
-## Bijlage IIa. Diersoorten als bedoeld in [artikel 4.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2021-11-01&g=2021-11-01).
+## Bijlage IIa. Diersoorten als bedoeld in [artikel 4.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2022-01-01&g=2022-01-01).
 
 - a. vogelsoorten als bedoeld in artikel 1 van de richtlijn 2009/147/EG van het Europees Parlement en de Raad van 30 november 2009 inzake het behoud van de vogelstand (PbEU 2010, L 20);
 
@@ -7732,9 +7740,9 @@ Categorieën
 
 - h. diersoorten, genoemd in [onderdeel A van de bijlage bij de Wet natuurbescherming](onbekend).
 
-## Bijlage III. als bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=6&artikel=6.2&z=2021-11-01&g=2021-11-01), van het besluit
+## Bijlage III. als bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=6&artikel=6.2&z=2022-01-01&g=2022-01-01), van het besluit
 
-| [Artikel 2.76o](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2021-11-01&g=2021-11-01) | Aantal punten als aan de voorschriften is voldaan |
+| [Artikel 2.76o](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=2&paragraaf=8&artikel=2.76o&z=2022-01-01&g=2022-01-01) | Aantal punten als aan de voorschriften is voldaan |
 | --- | --- |
 | 1. Eerste lid, onderdeel a, subonderdeel 2, vijfde lid en zesde lid, onderdeel a, voor zover dat betrekking heeft op het eerste lid, onderdeel a, subonderdeel 2 | 10 |
 | 2. Eerste lid, onderdeel a, aanhef | 10 |
@@ -7748,7 +7756,68 @@ Categorieën
 | 10. Vierde lid, onderdeel b, voor zover dat onderdeel betrekking heeft op een kooi zonder plateau | 10 |
 | 11. Zesde lid, onderdelen a en b, voor zover die onderdelen betrekking hebben op een kooi als bedoeld in de aanhef van het vierde lid | 5 |
 
-## Bijlage IV. als bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=2&artikel=4.14&z=2021-11-01&g=2021-11-01) van het besluit
+## Bijlage IV. als bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=2&artikel=4.14&z=2022-01-01&g=2022-01-01) van het besluit
+
+Aangewezen soorten van zoogdieren waarmee deelname aan en vervoer ten behoeve van een circus of een ander optreden is toegestaan.
+
+| **Soorten** |   |
+| --- | --- |
+| Equus asinus | (Ezel) |
+| Equus caballus | (Paard) |
+| Canis lupus familiaris | (Hond) |
+| Felis catus | (Kat) |
+| Bos taurus | (Rund) |
+| Ovis aries | (Schaap) |
+| Capra hircus | (Geit) |
+| Sus scrofa | (Varken) |
+| Lama glama (Guanaco familiaris) | (Lama) |
+| Vicugna pacos | (Alpaca) |
+| Camelus bactrianus | (Kameel) |
+| Camelus dromedarius | (Dromedaris) |
+| Oryctolagus cuniculus | (Konijn) |
+| Rattus norvegicus | (Bruine rat) |
+| Mus musculus | (Tamme muis/huismuis) |
+| Cavia porcellus | (Cavia) |
+| Mesocricetus auratus | (Goudhamster) |
+| Meriones unguiculatus | (Gerbil) |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.78
+
+Bij ministeriële regeling kunnen regels worden gesteld over het houden van aquacultuur ten behoeve van de biologische productie, bedoeld in artikel 3, onderdeel 1, van [verordening (EU) 2018/848](32748R2018), van aquacultuur.
+
+### Hoofdstuk 3. Houden van dieren anders dan voor landbouwdoeleinden
+
+#### § 1. Algemeen
+
+#### § 2. Het bedrijfsmatig verkopen, afleveren, houden ten behoeve van opvang van of fokken met gezelschapsdieren
+
+#### § 3. Niet-commerciële verkeer van gezelschapsdieren
+
+#### § 4. Identificatie en registratie van honden
+
+### Hoofdstuk 4. Houden van dieren voor vertoning
+
+#### § 2. Houden van dieren ten behoeve van circussen en andere optredens
+
+#### § 3. Houden van evenhoevigen voor vertoning
+
+#### § 4. Houden van vogels voor vertoning
+
+### Hoofdstuk 5. Doden van dieren voor de productie van dierlijke producten
+
+#### § 1. Algemeen
+
+#### § 2. Doden van dieren zonder voorafgaande bedwelming
+
+#### § 3. Bedwelming van aal
+
+### Hoofdstuk 6. Overige bepalingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage IV. als bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&hoofdstuk=4&paragraaf=2&artikel=4.14&z=2022-05-05&g=2022-01-01) van het besluit
 
 Aangewezen soorten van zoogdieren waarmee deelname aan en vervoer ten behoeve van een circus of een ander optreden is toegestaan.
 
