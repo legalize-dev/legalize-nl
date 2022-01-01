@@ -4,7 +4,7 @@ identifier: "BWBR0038145"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-01"
-last_updated: "2020-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038145"
 soort: "beleidsregel"
@@ -35,9 +35,9 @@ entry_into_force: "2016-07-01"
 ---
 # Besluit Bestuurlijke Boeten Belastingdienst
 
-Dit besluit betreft een wijziging van het [besluit van 23 december 2015, nr. BLKB2015/1429M](https://wetten.overheid.nl/jci1.3:c:BWBR0037437), Stcrt. 2015, nr. 46501 (Besluit Bestuurlijke Boeten Belastingdienst) in verband met het verhogen van de boete bij inkeer van verzwegen vermogen van 60% naar 120% per 1 juli 2016. Deze wijziging is opgenomen in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2020-07-01&g=2020-07-01). Daarnaast is een verouderde verwijzing in [paragraaf 24a, derde lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBR0037437&paragraaf=24a) aangepast.
+Dit besluit betreft een wijziging van het [besluit van 23 december 2015, nr. BLKB2015/1429M](https://wetten.overheid.nl/jci1.3:c:BWBR0037437), Stcrt. 2015, nr. 46501 (Besluit Bestuurlijke Boeten Belastingdienst) in verband met het verhogen van de boete bij inkeer van verzwegen vermogen van 60% naar 120% per 1 juli 2016. Deze wijziging is opgenomen in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2022-01-01&g=2022-01-01). Daarnaast is een verouderde verwijzing in [paragraaf 24a, derde lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBR0037437&paragraaf=24a) aangepast.
 
-Het voorgaande besluit wordt ingetrokken (zie [paragraaf 40](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=5&paragraaf=40&z=2020-07-01&g=2020-07-01)).
+Het voorgaande besluit wordt ingetrokken (zie [paragraaf 40](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=5&paragraaf=40&z=2022-01-01&g=2022-01-01)).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
