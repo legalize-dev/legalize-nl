@@ -4,7 +4,7 @@ identifier: "BWBR0050691"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050691"
 soort: "AMvB"
@@ -77,6 +77,24 @@ Wijzigt het Inkomstenbesluit militairen.
 De [Voorziening Tijdelijke Toelage Loongebouw](https://wetten.overheid.nl/jci1.3:c:BWBR0044293) wordt ingetrokken.
 
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 september 2022
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 januari 2023
+
+### Hoofdstuk 6. Wijzigingen met ingang van 1 juli 2022
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 september 2022
+
+##### Artikel 5.1
+
+Wijzigt het Besluit personenchauffeurs defensie.
+
+##### Artikel 5.2
+
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+
+##### Artikel 5.3
+
+Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 januari 2023
 
