@@ -4,7 +4,7 @@ identifier: "BWBR0046019"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-02"
-last_updated: "2021-12-08"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046019"
 soort: "wet"
@@ -110,9 +110,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. Samenloop met wetsvoorstel uitvoeren breed offensief
 
-Wijzigt deze wet.
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2021/627.
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XIII. Samenloop met wetsvoorstel wijziging van de Wet financiering sociale verzekeringen om te voorzien in differentiatie naar grootte van werkgever bij de premieheffing voor het Arbeidsongeschiktheidsfonds en om de systematiek van voortschrijdend cumulatief rekenen aan te passen
 
