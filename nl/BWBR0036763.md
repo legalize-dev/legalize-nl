@@ -4,7 +4,7 @@ identifier: "BWBR0036763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036763"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlij
 
 - d. artistieke functies, artistieke steunfuncties en productie- of voorstellingsgebonden functies in de podiumkunstensectoren toneel en dans;
 
-- e. remplaçant in dienst bij de door de Nederlandse orkesten opgerichte Stichtingen Remplaçanten of het Muziekcentrum van de Omroep;
+- e. de functie van remplaçant in dienst bij de orkesten die lid zijn van de Vereniging van Nederlandse Orkesten of bij de door de Nederlandse orkesten opgerichte Stichtingen Remplaçanten;
 
 - f. de presentator, in dienst bij RTL Nederland B.V, die presentatiewerkzaamheden verzorgt voor de media of hieraan een zichtbare of hoorbare onderscheidende bijdrage levert, en van wie het bruto jaarsalaris, inclusief vakantiebijslag, omgerekend naar een fulltime dienstverband gebaseerd op 40 uur per week, en ongeacht het door de presentator daadwerkelijk gewerkte aantal uren, gelijk aan of hoger is dan € 100.000,–;
 
@@ -64,7 +64,7 @@ Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlij
 
 ##### Artikel 2
 
-Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2020-01-01&g=2020-01-01).
+Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 3
 
