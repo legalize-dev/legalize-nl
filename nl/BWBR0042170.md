@@ -4,7 +4,7 @@ identifier: "BWBR0042170"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-01-01"
-last_updated: "2018-09-18"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042170"
 soort: "zbo"
@@ -40,16 +40,16 @@ Op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&ar
 
 Aan deze vergunning zijn de navolgende voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de loterijen inschakelt, hetzij direct, hetzij indirect.
 
-### A. Vergund kansspel
+### Algemeen
 
-### B. Afdracht ten behoeve van het algemeen belang
+### Kenmerken van de loterij(en)
 
-### C. Bescherming van kwetsbare groepen
+### Afdracht ten behoeve van het algemeen belang
 
-### D. Bescherming van consumenten
+### Consumentenbescherming
 
-### E. Betrouwbaarheid en integriteit
+### Transparantie
 
-### F. Controle, rapportage en toezicht
+### Meldplicht
 
-### G. Overig
+### Rapportage
