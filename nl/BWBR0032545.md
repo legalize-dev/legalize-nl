@@ -4,7 +4,7 @@ identifier: "BWBR0032545"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-02"
-last_updated: "2020-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032545"
 soort: "ministeriele-regeling"
@@ -68,13 +68,13 @@ Vervallen
 
 ##### Artikel 3. Vaststelling uren gelijkgesteld aan arbeidsuren bij ziekte of arbeidsongeschiktheid
 
-1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel f respectievelijk h, gelijkgesteld wordt, gelijk aan:
+1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2022-01-01&g=2022-01-01), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel f respectievelijk h, gelijkgesteld wordt, gelijk aan:
 
-- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), en hij een vast aantal arbeidsuren had; of
+- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2022-01-01&g=2022-01-01), en hij een vast aantal arbeidsuren had; of
 
-- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), en hij geen aantal vaste arbeidsuren had.
+- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2022-01-01&g=2022-01-01), en hij geen aantal vaste arbeidsuren had.
 
-2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), niet werkzaam was.
+2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2022-01-01&g=2022-01-01), niet werkzaam was.
 
 ##### Artikel 4. Berekening van het gemiddeld aantal arbeidsuren in geval van ploegendienst of arbeidsduurverkorting in de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -88,7 +88,7 @@ Vervallen
 
 2. Voor de toepassing van het eerste lid wordt de arbeidsduurverkorting geacht gelijkelijk te zijn verspreid over een periode van een kalenderjaar. Indien de werknemer in een kalenderweek meer uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid gelijkgesteld met arbeidsuren. Indien de werknemer in een kalenderweek minder uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid buiten beschouwing gelaten.
 
-3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01) zijn gelijkgesteld met arbeidsuren.
+3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2022-01-01&g=2022-01-01) zijn gelijkgesteld met arbeidsuren.
 
 ##### Artikel 5. Het buiten beschouwing laten van arbeidsuren bij een andere werkgever
 
@@ -100,13 +100,13 @@ Indien de werknemer arbeidsuren heeft die voortvloeien uit een dienstbetrekking 
 
 - a. zich tijdens een recht op uitkering opnieuw werkloosheid als bedoeld in [artikel 16, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) voordoet; of
 
-- b. een recht op uitkering geheel of gedeeltelijk is geëindigd en zich vervolgens opnieuw werkloosheid als bedoeld in [artikel 16, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) voordoet, voor zover op dat moment het totale verlies van arbeidsuren groter is dan het verlies van arbeidsuren op het moment, waarop het eerstgenoemde recht is ontstaan.
+- b. een recht op uitkering is geëindigd en zich vervolgens opnieuw werkloosheid als bedoeld in [artikel 16, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) voordoet, voor zover op dat moment het totale verlies van arbeidsuren groter is dan het verlies van arbeidsuren op het moment, waarop het eerstgenoemde recht is ontstaan.
 
-2. Het eerste lid is niet van toepassing in gevallen waarin het recht op uitkering geheel of gedeeltelijk is geëindigd en zich vervolgens opnieuw werkloosheid als bedoeld in [artikel 16, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) voordoet, indien:
+2. Het eerste lid is niet van toepassing in gevallen waarin het recht op uitkering is geëindigd en zich vervolgens opnieuw werkloosheid als bedoeld in [artikel 16, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) voordoet, indien:
 
-- a. de werknemer op het moment, waarop het geheel of gedeeltelijk geëindigde recht ontstond, al zijn arbeidsuren in dienstbetrekking had verloren; of
+- a. de werknemer op het moment, waarop het geëindigde recht ontstond, al zijn arbeidsuren in dienstbetrekking had verloren; of
 
-- b. het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop zich opnieuw werkloosheid voordoet, gelijk is aan, dan wel groter is dan het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop het geheel of gedeeltelijk geëindigde recht ontstond.
+- b. het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop zich opnieuw werkloosheid voordoet, gelijk is aan, dan wel groter is dan het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop het geëindigde recht ontstond.
 
 ##### Artikel 7. Gelijkstelling kalenderweken ten behoeve van referte-eis [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
