@@ -4,7 +4,7 @@ identifier: "BWBR0008066"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008066"
 soort: "wet"
@@ -59,9 +59,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. implantatie: het in- of aanbrengen van een orgaan van een donor in of aan het lichaam van een ander met het oog op diens geneeskundige behandeling;
 
-- f. ziekenhuis: een krachtens [artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) als ziekenhuis of verpleeginrichting toegelaten instelling of een afdeling daarvan;
+- f. ziekenhuis: een ziekenhuis dat of een verpleeginrichting dan wel een afdeling daarvan waar zorg of een andere dienst wordt verleend waarop aanspraak bestaat ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- g. orgaancentrum: een instelling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01).
+- g. orgaancentrum: een instelling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=4&artikel=24&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2
 
@@ -99,11 +99,11 @@ De toestemming, bedoeld in dit hoofdstuk, wordt vooraf verleend bij een verklari
 
 ##### Artikel 7
 
-Aan de donor en degenen van wie ingevolge dit hoofdstuk toestemming voor het verwijderen van een orgaan is vereist, mogen uitsluitend de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), worden vergoed.
+Aan de donor en degenen van wie ingevolge dit hoofdstuk toestemming voor het verwijderen van een orgaan is vereist, mogen uitsluitend de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), worden vergoed.
 
 ##### Artikel 8
 
-Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor toestemming is verleend ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01).
+Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor toestemming is verleend ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk 3. Ter beschikking stellen van organen na overlijden
 
@@ -113,7 +113,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 1. Meerderjarigen en minderjarigen van twaalf jaar of ouder, die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen toestemming verlenen tot het na hun overlijden verwijderen van hun organen of bepaalde door hen aan te wijzen organen, dan wel daartegen bezwaar maken. De wettelijk vertegenwoordiger van een meerderjarige die niet in staat is tot een redelijke waardering van zijn belangen ter zake van orgaandonatie kan namens hem toestemming verlenen tot het na zijn overlijden verwijderen van zijn organen of bepaalde door de wettelijke vertegenwoordiger aan te wijzen organen, dan wel daartegen bezwaar maken.
 
-2. De toestemming wordt verleend en het bezwaar gemaakt door het invullen en laten registreren van een donorformulier als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01). Indien een in het eerste lid bedoelde persoon de beslissing over het verwijderen van zijn organen wenst over te laten aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01) bedoelde nabestaanden of aan een door hem te bepalen persoon, kan hij dat ook op het donorformulier te kennen geven.
+2. De toestemming wordt verleend en het bezwaar gemaakt door het invullen en laten registreren van een donorformulier als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10&z=2022-01-01&g=2022-01-01). Indien een in het eerste lid bedoelde persoon de beslissing over het verwijderen van zijn organen wenst over te laten aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01) bedoelde nabestaanden of aan een door hem te bepalen persoon, kan hij dat ook op het donorformulier te kennen geven.
 
 3. Een wilsverklaring omtrent het verwijderen van organen kan te allen tijde worden herroepen door het opnieuw invullen en laten registreren van een donorformulier.
 
@@ -125,11 +125,11 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 1. Onze minister draagt ervoor zorg dat iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), een donorformulier wordt toegezonden, wanneer hij of zij de leeftijd van achttien jaren heeft bereikt. Donorformulieren worden voorts op verzoek door de zorg van Onze minister en door het college van burgemeester en wethouders kosteloos ter beschikking gesteld.
 
-2. Er is een donorregister waarin, met het oog op de kenbaarheid van de wilsbeschikking van de betrokkene ter zake aantekening wordt gehouden van door middel van het donorformulier verleende toestemming tot of gemaakt bezwaar tegen het na overlijden verwijderen van organen, dan wel de door middel van dat formulier te kennen gegeven wens de beslissing ter zake over te laten aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01) bedoelde nabestaanden of aan een door hem te bepalen persoon dan wel dat de betrokkene geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen. Daarbij kan worden aangetekend dat een wilsbeschikking namens een betrokkene door een andere persoon kenbaar is gemaakt. Het register wordt gehouden door of vanwege Onze minister.
+2. Er is een donorregister waarin, met het oog op de kenbaarheid van de wilsbeschikking van de betrokkene ter zake aantekening wordt gehouden van door middel van het donorformulier verleende toestemming tot of gemaakt bezwaar tegen het na overlijden verwijderen van organen, dan wel de door middel van dat formulier te kennen gegeven wens de beslissing ter zake over te laten aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01) bedoelde nabestaanden of aan een door hem te bepalen persoon dan wel dat de betrokkene geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen. Daarbij kan worden aangetekend dat een wilsbeschikking namens een betrokkene door een andere persoon kenbaar is gemaakt. Het register wordt gehouden door of vanwege Onze minister.
 
 3. Het register kan door of in opdracht van een arts dag en nacht worden geraadpleegd wanneer dat met het oog op de voorgenomen verwijdering van een orgaan noodzakelijk is.
 
-4. Bij de toezending van het donorformulier wordt uitdrukkelijk vermeld dat een meerderjarige persoon door of namens wie geen wilsverklaring of wilsbeschikking als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01) is afgelegd en verstrekt, zes weken na het verzenden van een herinnering als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10a&z=2021-07-01&g=2021-07-01), in het donorregister wordt geregistreerd als een persoon die geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de vorm, inhoud en toezending van het donorformulier en het bijhouden en de toegankelijkheid van het donorregister. Daarbij kan worden bepaald dat een donorformulier wordt toegezonden aan personen die na het bereiken van de leeftijd van negentien jaar nieuw als ingezetene zijn ingeschreven dan wel opnieuw als ingezetene zijn geregistreerd in de basisregistratie personen.
+4. Bij de toezending van het donorformulier wordt uitdrukkelijk vermeld dat een meerderjarige persoon door of namens wie geen wilsverklaring of wilsbeschikking als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01) is afgelegd en verstrekt, zes weken na het verzenden van een herinnering als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10a&z=2022-01-01&g=2022-01-01), in het donorregister wordt geregistreerd als een persoon die geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de vorm, inhoud en toezending van het donorformulier en het bijhouden en de toegankelijkheid van het donorregister. Daarbij kan worden bepaald dat een donorformulier wordt toegezonden aan personen die na het bereiken van de leeftijd van negentien jaar nieuw als ingezetene zijn ingeschreven dan wel opnieuw als ingezetene zijn geregistreerd in de basisregistratie personen.
 
 5. De voordracht voor een algemene maatregel van bestuur krachtens het vierde lid wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging vier weken zijn verstreken.
 
@@ -145,7 +145,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 5. Indien een minderjarige van twaalf jaar of ouder de beslissing over het verwijderen van zijn organen heeft overgelaten aan een bepaalde persoon, kan na het vaststellen van de dood toestemming voor het verwijderen van zijn organen worden verleend door de in de wilsbeschikking genoemde persoon. Bij afwezigheid of onbereikbaarheid van die persoon kan toestemming worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.
 
-6. Indien van een minderjarige van twaalf jaar of ouder geen wilsverklaring of wilsbeschikking als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), aanwezig is, kan na het vaststellen van de dood toestemming voor het verwijderen van organen worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.
+6. Indien van een minderjarige van twaalf jaar of ouder geen wilsverklaring of wilsbeschikking als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), aanwezig is, kan na het vaststellen van de dood toestemming voor het verwijderen van organen worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.
 
 7. Ten aanzien van een minderjarige beneden de twaalf jaar kan na het vaststellen van de dood toestemming voor het verwijderen van zijn organen worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.
 
@@ -153,11 +153,11 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 9. Indien een persoon toestemming heeft verleend voor het na zijn overlijden verwijderen van organen, kan voor het verwijderen van een orgaan dat niet is opgenomen in de tekst van een op het tijdstip van toestemming geldend donorformulier en tegen verwijdering waarvan hij niet anderszins reeds zelf bezwaar heeft gemaakt, toestemming worden verleend met overeenkomstige toepassing van het eerste, zevende en achtste lid.
 
-10. Uitsluitend indien de verwachting bestaat dat de dood op grond van circulatoire criteria zal worden vastgesteld, mag de toestemming, bedoeld in de vorige leden, reeds worden verleend na het verstrekken van de informatie, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01).
+10. Uitsluitend indien de verwachting bestaat dat de dood op grond van circulatoire criteria zal worden vastgesteld, mag de toestemming, bedoeld in de vorige leden, reeds worden verleend na het verstrekken van de informatie, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 12
 
-Overlijdt een persoon voor het bereiken van de zestienjarige leeftijd en heeft hij ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01) toestemming gegeven voor het verwijderen van zijn organen, dan vindt geen verwijdering plaats indien daartegen bezwaar wordt gemaakt door een ouder die de ouderlijke macht uitoefent of de voogd. Bij afwezigheid of onbereikbaarheid van beide ouders of van de voogd kan de verwijdering plaatsvinden.
+Overlijdt een persoon voor het bereiken van de zestienjarige leeftijd en heeft hij ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01) toestemming gegeven voor het verwijderen van zijn organen, dan vindt geen verwijdering plaats indien daartegen bezwaar wordt gemaakt door een ouder die de ouderlijke macht uitoefent of de voogd. Bij afwezigheid of onbereikbaarheid van beide ouders of van de voogd kan de verwijdering plaatsvinden.
 
 ##### Artikel 13
 
@@ -167,7 +167,7 @@ Tenzij degene die toestemming verleent of geen bezwaar heeft uitdrukkelijk ander
 
 ##### Artikel 14
 
-1. Voordat een orgaan wordt verwijderd, wordt de dood vastgesteld door een arts die niet bij de verwijdering of implantatie van het orgaan betrokken mag zijn. Indien het voornemen bestaat tot het verwijderen van een orgaan uit een stoffelijk overschot, wordt de dood vastgesteld aan de hand van de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het vaststellen van de hersendood onderscheidenlijk van de dood op grond van circulatoire criteria door een ter zake kundige arts. De wijze waarop de hersendood is vastgesteld, wordt vastgelegd in een verklaring waarvan het model is opgenomen in het in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde protocol.
+1. Voordat een orgaan wordt verwijderd, wordt de dood vastgesteld door een arts die niet bij de verwijdering of implantatie van het orgaan betrokken mag zijn. Indien het voornemen bestaat tot het verwijderen van een orgaan uit een stoffelijk overschot, wordt de dood vastgesteld aan de hand van de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het vaststellen van de hersendood onderscheidenlijk van de dood op grond van circulatoire criteria door een ter zake kundige arts. De wijze waarop de hersendood is vastgesteld, wordt vastgelegd in een verklaring waarvan het model is opgenomen in het in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=15&z=2022-01-01&g=2022-01-01), bedoelde protocol.
 
 2. Onder hersendood wordt verstaan het volledig en onherstelbaar verlies van de functies van de hersenen, inclusief de hersenstam en het verlengde merg. Vaststelling van de hersendood vindt slechts plaats in geval van een dodelijk hersenletsel waarvan de oorzaak bekend is en dat niet behandelbaar is. Zij geschiedt eerst nadat aannemelijk is geworden dat andere oorzaken van bewusteloosheid en reactieloosheid niet aanwezig zijn.
 
@@ -175,7 +175,7 @@ Tenzij degene die toestemming verleent of geen bezwaar heeft uitdrukkelijk ander
 
 ##### Artikel 15
 
-1. De Gezondheidsraad stelt met inachtneming van [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=14&z=2021-07-01&g=2021-07-01), vast welke de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het met zekerheid vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria zijn. Op basis daarvan stelt de Gezondheidsraad protocollen op met betrekking tot de bij het vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria in ziekenhuizen te volgen procedures en uit te voeren onderzoeken in gevallen waarin het voornemen bestaat tot verwijdering van een orgaan. De protocollen worden vastgesteld bij algemene maatregel van bestuur.
+1. De Gezondheidsraad stelt met inachtneming van [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=14&z=2022-01-01&g=2022-01-01), vast welke de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het met zekerheid vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria zijn. Op basis daarvan stelt de Gezondheidsraad protocollen op met betrekking tot de bij het vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria in ziekenhuizen te volgen procedures en uit te voeren onderzoeken in gevallen waarin het voornemen bestaat tot verwijdering van een orgaan. De protocollen worden vastgesteld bij algemene maatregel van bestuur.
 
 2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
 
@@ -191,7 +191,7 @@ Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaa
 
 ##### Artikel 18
 
-1. De daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01), aangewezen functionaris doet van het vermoedelijk beschikbaar komen van organen voor implantatie onmiddellijk melding bij een orgaancentrum.
+1. De daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris doet van het vermoedelijk beschikbaar komen van organen voor implantatie onmiddellijk melding bij een orgaancentrum.
 
 2. Het orgaancentrum wijst aan wie voor implantatie van een bij het centrum aangemeld orgaan in aanmerking komt. Indien geen onmiddellijke aanwijzing kan plaatsvinden en het orgaancentrum zulks op medische gronden noodzakelijk acht, kan het bepalen dat een daarvoor naar zijn aard geschikt orgaan voor implantatie beschikbaar dient te blijven.
 
@@ -205,23 +205,23 @@ Vervallen
 
 ##### Artikel 20
 
-1. Wanneer een gerede kans bestaat dat een persoon binnen afzienbare tijd zal overlijden, maar in ieder geval zo spoedig mogelijk na het vaststellen van de dood, gaat de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01), aangewezen functionaris na wat ten aanzien van de betrokkene is geregistreerd in het donorregister, tenzij reeds vaststaat dat de betrokkene medisch gezien niet in aanmerking komt als donor.
+1. Wanneer een gerede kans bestaat dat een persoon binnen afzienbare tijd zal overlijden, maar in ieder geval zo spoedig mogelijk na het vaststellen van de dood, gaat de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris na wat ten aanzien van de betrokkene is geregistreerd in het donorregister, tenzij reeds vaststaat dat de betrokkene medisch gezien niet in aanmerking komt als donor.
 
 2. De aangewezen functionaris verstrekt de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten informatie over de registratie in het donorregister. In geval van een meerderjarige waarvan duidelijk of aannemelijk is dat hij niet in staat is tot een redelijke waardering van zijn belangen verstrekt hij daarenboven informatie aan diens wettelijke vertegenwoordiger, indien deze aanwezig en bereikbaar is.
 
-3. Indien de registratie niet overeenkomt met een andere aanwezige verklaring als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), geldt de laatst gedateerde registratie dan wel verklaring.
+3. Indien de registratie niet overeenkomt met een andere aanwezige verklaring als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), geldt de laatst gedateerde registratie dan wel verklaring.
 
-4. Indien de betrokkene in het donorregister is geregistreerd als een persoon die toestemming heeft verleend voor dan wel geen bezwaar heeft tegen het na zijn dood verwijderen van zijn organen en een andersluidende verklaring als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), aanwezig is, geldt in afwijking van het derde lid de laatstbedoelde verklaring.
+4. Indien de betrokkene in het donorregister is geregistreerd als een persoon die toestemming heeft verleend voor dan wel geen bezwaar heeft tegen het na zijn dood verwijderen van zijn organen en een andersluidende verklaring als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), aanwezig is, geldt in afwijking van het derde lid de laatstbedoelde verklaring.
 
-5. Indien de betrokkene in het register is geregistreerd als een persoon die toestemming heeft verleend voor dan wel geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen en een andersluidende verklaring ontbreekt, maar zijn nabestaanden, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01), maken aannemelijk dat die registratie niet overeenkomt met de wens van de betrokkene, geldt de informatie van de nabestaanden.
+5. Indien de betrokkene in het register is geregistreerd als een persoon die toestemming heeft verleend voor dan wel geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen en een andersluidende verklaring ontbreekt, maar zijn nabestaanden, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01), maken aannemelijk dat die registratie niet overeenkomt met de wens van de betrokkene, geldt de informatie van de nabestaanden.
 
-6. Indien geen registratie ten aanzien van de betrokkene aanwezig is of de betrokkene gebruik heeft gemaakt van de in de tweede volzin van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), bedoelde mogelijkheid, geeft de aangewezen functionaris, zodra redelijkerwijs vaststaat dat de betrokkene binnen afzienbare termijn zal overlijden, aan de persoon of personen, die op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01) bevoegd zijn tot het verlenen van toestemming voor het verwijderen van organen, passende informatie over de mogelijkheid van orgaandonatie. Na het vaststellen van de dood verzoekt hij hen om toestemming voor het verwijderen van organen, tenzij reeds is gebleken van bezwaar daartegen van de vorenbedoelde bevoegde persoon of personen. Uitsluitend indien de verwachting bestaat dat de dood op grond van circulatoire criteria zal worden vastgesteld, mag de functionaris de toestemming reeds na het verstrekken van de informatie vragen.
+6. Indien geen registratie ten aanzien van de betrokkene aanwezig is of de betrokkene gebruik heeft gemaakt van de in de tweede volzin van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde mogelijkheid, geeft de aangewezen functionaris, zodra redelijkerwijs vaststaat dat de betrokkene binnen afzienbare termijn zal overlijden, aan de persoon of personen, die op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01) bevoegd zijn tot het verlenen van toestemming voor het verwijderen van organen, passende informatie over de mogelijkheid van orgaandonatie. Na het vaststellen van de dood verzoekt hij hen om toestemming voor het verwijderen van organen, tenzij reeds is gebleken van bezwaar daartegen van de vorenbedoelde bevoegde persoon of personen. Uitsluitend indien de verwachting bestaat dat de dood op grond van circulatoire criteria zal worden vastgesteld, mag de functionaris de toestemming reeds na het verstrekken van de informatie vragen.
 
 7. De aangewezen functionaris stelt de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten op de hoogte van de wijze waarop aan een toestemming voor het verwijderen van organen gevolg wordt gegeven.
 
-8. Indien de betrokkene zelf toestemming heeft gegeven voor het verwijderen van organen, stelt de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01), aangewezen functionaris de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten op de hoogte van de wijze waarop aan de toestemming gevolg wordt gegeven.
+8. Indien de betrokkene zelf toestemming heeft gegeven voor het verwijderen van organen, stelt de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten op de hoogte van de wijze waarop aan de toestemming gevolg wordt gegeven.
 
-9. De toepassing van dit artikel geschiedt met inachtneming van de regels gesteld in het in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01) bedoelde protocol. Van de toepassing doet de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01), aangewezen functionaris verslag door invulling van een door het orgaancentrum vastgesteld papieren of digitaal formulier. Bij ministeriële regeling kunnen regels worden gesteld omtrent de verstrekking van gegevens betreffende de toepassing van dit artikel aan het orgaancentrum.
+9. De toepassing van dit artikel geschiedt met inachtneming van de regels gesteld in het in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01) bedoelde protocol. Van de toepassing doet de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris verslag door invulling van een door het orgaancentrum vastgesteld papieren of digitaal formulier. Bij ministeriële regeling kunnen regels worden gesteld omtrent de verstrekking van gegevens betreffende de toepassing van dit artikel aan het orgaancentrum.
 
 10. Aan de in dit artikel bedoelde functionarissen wordt voor zover dat voor de uitvoering van de werkzaamheden betreffende de toepassing van dit artikel noodzakelijk is, inzage gegeven in het dossier van de patiënt.
 
@@ -231,13 +231,13 @@ Vervallen
 
 Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
-- a. met toepassing van het bepaalde bij of krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01) is vastgesteld dat daarvoor door of ten aanzien van de overledene toestemming is verleend dan wel daartegen geen bezwaar bestaat overeenkomstig deze wet;
+- a. met toepassing van het bepaalde bij of krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01) is vastgesteld dat daarvoor door of ten aanzien van de overledene toestemming is verleend dan wel daartegen geen bezwaar bestaat overeenkomstig deze wet;
 
-- b. de aangewezen functionaris, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2021-07-01&g=2021-07-01), zich ervan heeft vergewist dat de overledene ten tijde van het verlenen van toestemming dan wel van de registratie als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10a&z=2021-07-01&g=2021-07-01) wilsbekwaam was;
+- b. de aangewezen functionaris, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), zich ervan heeft vergewist dat de overledene ten tijde van het verlenen van toestemming dan wel van de registratie als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10a&z=2022-01-01&g=2022-01-01) wilsbekwaam was;
 
-- c. voldaan is aan [de artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=14&z=2021-07-01&g=2021-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=16&z=2021-07-01&g=2021-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=17&z=2021-07-01&g=2021-07-01);
+- c. voldaan is aan [de artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=14&z=2022-01-01&g=2022-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=16&z=2022-01-01&g=2022-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=17&z=2022-01-01&g=2022-01-01);
 
-- d. het voor implantatie ter beschikking gestelde orgaan overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=3&artikel=18&z=2021-07-01&g=2021-07-01) is aangemeld bij een orgaancentrum.
+- d. het voor implantatie ter beschikking gestelde orgaan overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=3&artikel=18&z=2022-01-01&g=2022-01-01) is aangemeld bij een orgaancentrum.
 
 ##### Artikel 22
 
@@ -251,7 +251,7 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 - –. andere maatregelen noodzakelijk om organen geschikt te houden voor implantatie.
 
-2. Indien ten aanzien van een persoon in het donorregister geen registratie aanwezig is of gebruik is gemaakt van de in de tweede volzin van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), bedoelde mogelijkheid, mogen reeds voor het vaststellen van de dood, de in het eerste lid genoemde voorbereidingen worden getroffen voor zover:
+2. Indien ten aanzien van een persoon in het donorregister geen registratie aanwezig is of gebruik is gemaakt van de in de tweede volzin van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde mogelijkheid, mogen reeds voor het vaststellen van de dood, de in het eerste lid genoemde voorbereidingen worden getroffen voor zover:
 
 - a. het redelijkerwijs vaststaat dat betrokkene binnen afzienbare tijd zal overlijden;
 
@@ -259,9 +259,9 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 - c. uitstel van de voorbereidingen tot na het vaststellen van de dood niet mogelijk is; en
 
-- d. de procedure ter verstrekking van informatie, bedoeld in [artikel 20 zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), nog niet heeft geleid tot bezwaar van de persoon of personen die op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2021-07-01&g=2021-07-01) bevoegd zijn tot het geven van toestemming voor het verwijderen van organen tegen het treffen van de voorbereidingen.
+- d. de procedure ter verstrekking van informatie, bedoeld in [artikel 20 zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), nog niet heeft geleid tot bezwaar van de persoon of personen die op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=11&z=2022-01-01&g=2022-01-01) bevoegd zijn tot het geven van toestemming voor het verwijderen van organen tegen het treffen van de voorbereidingen.
 
-3. Indien ten aanzien van een persoon in het donorregister geen registratie aanwezig is of gebruik is gemaakt van de in de [tweede volzin van artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), bedoelde mogelijkheid, kunnen na het het vaststellen van de dood, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, de volgende maatregelen worden getroffen:
+3. Indien ten aanzien van een persoon in het donorregister geen registratie aanwezig is of gebruik is gemaakt van de in de [tweede volzin van artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde mogelijkheid, kunnen na het het vaststellen van de dood, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, de volgende maatregelen worden getroffen:
 
 - –. onderzoek noodzakelijk voor de voorbereiding van implantatie;
 
@@ -277,31 +277,31 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 1. Het bestuur van een ziekenhuis draagt zorg voor vaststelling van een protocol met betrekking tot ter beschikking stelling van organen ten behoeve van implantatie en ziet toe op de naleving daarvan.
 
-2. In het protocol worden de functionarissen aangewezen die binnen het ziekenhuis zijn belast met de uitvoering van de in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=3&artikel=18&z=2021-07-01&g=2021-07-01), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01) genoemde taken en worden regels gesteld omtrent:
+2. In het protocol worden de functionarissen aangewezen die binnen het ziekenhuis zijn belast met de uitvoering van de in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=3&artikel=18&z=2022-01-01&g=2022-01-01), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01) genoemde taken en worden regels gesteld omtrent:
 
 - a. de wijze waarop wordt nagegaan of een overledene in aanmerking komt als donor;
 
 - b. de wijze waarop:
 
-- 1°. overeenkomstig [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), het donorregister wordt geraadpleegd;
+- 1°. overeenkomstig [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), het donorregister wordt geraadpleegd;
 
-- 2°. de personen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), worden geïnformeerd;
+- 2°. de personen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), worden geïnformeerd;
 
-- 3°. wordt omgegaan met de informatie van nabestaanden, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01);
+- 3°. wordt omgegaan met de informatie van nabestaanden, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01);
 
-- 4°. de personen, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), om toestemming wordt gevraagd; dan wel
+- 4°. de personen, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), om toestemming wordt gevraagd; dan wel
 
-- 5°. de personen, bedoeld in [20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), op de hoogte worden gesteld;
+- 5°. de personen, bedoeld in [20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), op de hoogte worden gesteld;
 
 - c. de procedure die wordt gevolgd bij de melding van een orgaan bij een orgaancentrum;
 
-- d. de wijze waarop aan de personen, bedoeld in [artikel 20, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2021-07-01&g=2021-07-01), nazorg wordt verleend;
+- d. de wijze waarop aan de personen, bedoeld in [artikel 20, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), nazorg wordt verleend;
 
 - e. de voorlichting in het ziekenhuis over de in het protocol gestelde regels.
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de inhoud van het in het eerste lid bedoelde protocol en kan worden bepaald dat dit artikel geheel of gedeeltelijk niet van toepassing is op bepaalde categorieën ziekenhuizen.
 
-4. Indien in een ziekenhuis de mogelijkheid bestaat tot het vaststellen van de hersendood, bevat het protocol tevens de daarvoor geldende methoden en criteria en de daarbij te volgen procedures en onderzoeken zoals vastgesteld op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=15&z=2021-07-01&g=2021-07-01).
+4. Indien in een ziekenhuis de mogelijkheid bestaat tot het vaststellen van de hersendood, bevat het protocol tevens de daarvoor geldende methoden en criteria en de daarbij te volgen procedures en onderzoeken zoals vastgesteld op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=15&z=2022-01-01&g=2022-01-01).
 
 5. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -371,25 +371,25 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ##### Artikel 32
 
-1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk in strijd handelt met het bepaalde in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=8&z=2021-07-01&g=2021-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=21&z=2021-07-01&g=2021-07-01).
+1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk in strijd handelt met het bepaalde in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=21&z=2022-01-01&g=2022-01-01).
 
 2. Met dezelfde straf wordt gestraft:
 
-- a. degene die opzettelijk teweegbrengt of bevordert dat een ander aan een derde toestemming verleent voor het bij leven verwijderen van een orgaan waarvoor een vergoeding wordt betaald die meer bedraagt dan de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), dan wel dat een ander in strijd handelt met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=7&z=2021-07-01&g=2021-07-01);
+- a. degene die opzettelijk teweegbrengt of bevordert dat een ander aan een derde toestemming verleent voor het bij leven verwijderen van een orgaan waarvoor een vergoeding wordt betaald die meer bedraagt dan de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), dan wel dat een ander in strijd handelt met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=7&z=2022-01-01&g=2022-01-01);
 
-- b. degene die openlijk hetzij voor het ontvangen van een orgaan een vergoeding aanbiedt die meer bedraagt dan de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), hetzij zich tegen een dergelijke vergoeding als donor aanbiedt hetzij diensten aanbiedt bestaande uit gedragingen, strafbaar gesteld in onderdeel **a**;
+- b. degene die openlijk hetzij voor het ontvangen van een orgaan een vergoeding aanbiedt die meer bedraagt dan de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), hetzij zich tegen een dergelijke vergoeding als donor aanbiedt hetzij diensten aanbiedt bestaande uit gedragingen, strafbaar gesteld in onderdeel **a**;
 
 - c. degene die de behoefte aan, of de beschikbaarheid van organen onder de aandacht brengt met het oogmerk financiële of vergelijkbare voordelen aan te bieden of te behalen;
 
 - d. degene die opzettelijk teweegbrengt of bevordert dat bestanddelen van een persoon of van een stoffelijk overschot, bij wie onderscheidenlijk waarbij de hersenen geheel of nagenoeg geheel ontbreken, worden gebruikt met het oogmerk om in of aan het lichaam van een ander ten behoeve van diens geneeskundige behandeling te worden in- of aangebracht.
 
-3. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met het bepaalde in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=22&z=2021-07-01&g=2021-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01).
+3. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met het bepaalde in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=22&z=2022-01-01&g=2022-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=4&artikel=24&z=2022-01-01&g=2022-01-01).
 
 4. De in het eerste tot en met derde lid strafbaar gestelde feiten zijn misdrijven.
 
 ##### Artikel 33
 
-1. Onze Minister draagt zorg voor de informatievoorziening over het ter beschikking stellen van organen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&z=2021-07-01&g=2021-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&z=2021-07-01&g=2021-07-01).
+1. Onze Minister draagt zorg voor de informatievoorziening over het ter beschikking stellen van organen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&z=2022-01-01&g=2022-01-01).
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop uitvoering wordt gegeven aan de informatievoorziening, bedoeld in het eerste lid.
 
@@ -417,7 +417,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a
 
-1. De informatie, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01), omvat in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+1. De informatie, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01), omvat in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
 
 2. Een wijziging van de in het eerste lid genoemde richtlijn gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -441,9 +441,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 10a
 
-1. Indien zes weken na verzending van het donorformulier, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), geen invulling is gegeven aan het bepaalde in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), zendt Onze Minister de betrokkene een herinnering, vergezeld van een nieuw donorformulier en een mededeling overeenkomstig het bepaalde in het tweede lid.
+1. Indien zes weken na verzending van het donorformulier, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10&z=2022-01-01&g=2022-01-01), geen invulling is gegeven aan het bepaalde in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), zendt Onze Minister de betrokkene een herinnering, vergezeld van een nieuw donorformulier en een mededeling overeenkomstig het bepaalde in het tweede lid.
 
-2. Indien door of namens de betrokkene zes weken na het verzenden van de herinnering, bedoeld in het eerste lid, geen invulling is gegeven aan het bepaalde in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), wordt hij in het donorregister geregistreerd als een persoon die geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen.
+2. Indien door of namens de betrokkene zes weken na het verzenden van de herinnering, bedoeld in het eerste lid, geen invulling is gegeven aan het bepaalde in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), wordt hij in het donorregister geregistreerd als een persoon die geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen.
 
 3. De betrokkene ontvangt binnen zes weken na de registratie, bedoeld in het tweede lid, een bevestiging van het feit dat hij geregistreerd is als een persoon die geen bezwaar heeft tegen het na zijn overlijden verwijderen van zijn organen, vergezeld van een mededeling overeenkomstig het bepaalde in het vijfde lid.
 
