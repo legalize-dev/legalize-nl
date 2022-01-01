@@ -4,7 +4,7 @@ identifier: "BWBR0018544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018544"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ Vervallen
 
 - c. nog geen houder is van een werkplaatskaart, tenzij het een aanvraag betreft:
 
-- 1°. overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2021-01-01&g=2021-01-01);
+- 1°. overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - 2°. van een werkplaatskaart ten behoeve van werkzaamheden onder gezag van een andere erkenninghouder dan degene onder wiens gezag de aanvrager reeds een kaart bezit;
 
@@ -75,7 +75,7 @@ Vervallen
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, indien aan zijn werkgever voor hem is afgegeven:
+In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, indien aan zijn werkgever voor hem is afgegeven:
 
 - a. een tewerkstellingsvergunning als bedoeld in [artikel 2, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), en
 
@@ -85,15 +85,15 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 1. De Minister van Infrastructuur en Milieu beslist op aanvraag van een tachograafkaart binnen vier weken nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
 
-2. Voor het in behandeling nemen van een aanvraag voor een Smart tachograafkaart wordt een vergoeding in rekening gebracht van € 93,– per Smart tachograafkaart.
+2. Voor het in behandeling nemen van een aanvraag voor een Smart tachograafkaart wordt een vergoeding in rekening gebracht van € 95,– per Smart tachograafkaart.
 
 ##### Artikel 5
 
 1. In geval een bestuurderskaart of werkplaatskaart zoek raakt door verlies of diefstal, of defect of beschadigd is, vraagt de aanvrager binnen zeven kalenderdagen na het tijdstip van vaststelling daarvan een vervangende tachograafkaart aan.
 
-2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), beslist de Minister van Infrastructuur en Milieu op de in het eerste lid bedoelde aanvraag van een bestuurderskaart of werkplaatskaart binnen vijf werkdagen nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
+2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), beslist de Minister van Infrastructuur en Milieu op de in het eerste lid bedoelde aanvraag van een bestuurderskaart of werkplaatskaart binnen vijf werkdagen nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
 
-3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), beslist de Minister van Infrastructuur en Milieu op aanvraag van een bestuurderskaart of werkplaatskaart die in de plaats komt van een kaart met een resterende geldigheidsduur van ten minste twee weken, binnen de termijn, genoemd in artikel 25, tweede lid, van verordening (EU) Nr. 165/2014 gerekend vanaf het moment dat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen voorzover die termijn nog ten minste een week is.
+3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), beslist de Minister van Infrastructuur en Milieu op aanvraag van een bestuurderskaart of werkplaatskaart die in de plaats komt van een kaart met een resterende geldigheidsduur van ten minste twee weken, binnen de termijn, genoemd in artikel 25, tweede lid, van verordening (EU) Nr. 165/2014 gerekend vanaf het moment dat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen voorzover die termijn nog ten minste een week is.
 
 #### § 3. Inleverplicht tachograafkaart
 
@@ -115,7 +115,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - a. bij zodanig misbruik van de kaart dat een deugdelijke registratie van rij- en rusttijden in gevaar komt;
 
-- b. indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in [artikel 2, tweede en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01).
+- b. indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in [artikel 2, tweede en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 8
 
@@ -127,7 +127,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - c. drie maanden, na de datum van dagtekening van het bericht waarin de aanvrager wordt geïnformeerd dat zijn kaart gereed ligt, zijn verstreken en de kaart in die periode niet is afgehaald; of
 
-- d. het bestuurdersattest dat of de tewerkstellingsvergunning die ten grondslag ligt aan de verlening van een bestuurderskaart op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01) zijn geldigheid verliest.
+- d. het bestuurdersattest dat of de tewerkstellingsvergunning die ten grondslag ligt aan de verlening van een bestuurderskaart op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01) zijn geldigheid verliest.
 
 2. De onderdelen a en b van het eerste lid zijn van overeenkomstige toepassing op de bedrijfskaart.
 
@@ -137,13 +137,13 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 1. De wijze van afgifte van een tachograafkaart wordt schriftelijk aan de aanvrager gemeld.
 
-2. Afgifte van een bestuurderskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig rijbewijs als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
+2. Afgifte van een bestuurderskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig rijbewijs als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
 
 3. Afgifte van een werkplaatskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
 
 4. Een bestuurderskaart of werkplaatskaart die is aangevraagd in verband met een defect of beschadiging of vernieuwing van de oude kaart wordt niet eerder afgegeven dan na inlevering van de te vervangen kaart op de plaats van afgifte.
 
-5. Bij afgifte van een bestuurderskaart aan een bestuurder die een geldig rijbewijs heeft zonder pasfoto en aan een bestuurder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01) toont de aanvrager naast de in het tweede lid genoemde documenten ook een geldig paspoort.
+5. Bij afgifte van een bestuurderskaart aan een bestuurder die een geldig rijbewijs heeft zonder pasfoto en aan een bestuurder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01) toont de aanvrager naast de in het tweede lid genoemde documenten ook een geldig paspoort.
 
 #### § 6. Gebruik van de tachograafkaart en andere registratiemiddelen
 
