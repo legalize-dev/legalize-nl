@@ -4,7 +4,7 @@ identifier: "BWBR0019082"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-08-31"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019082"
 soort: "AMvB"
@@ -80,19 +80,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2021-08-31&g=2021-08-31), wordt jaarlijks uiterlijk op 30 november van het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2022-08-31&g=2022-01-01), wordt jaarlijks uiterlijk op 30 november van het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. Onze Minister stelt jaarlijks voor de provincies, gemeenten, openbare lichamen en waterschappen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. Deze vaststelling geschiedt uiterlijk op 1 augustus van het jaar waarover de vergoeding is verschuldigd.
 
 ##### Artikel 5
 
-1. De vergoeding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2021-08-31&g=2021-08-31), wordt jaarlijks achteraf en uiterlijk op 1 maart van het jaar volgend op het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. De vergoeding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2022-08-31&g=2022-01-01), wordt jaarlijks achteraf en uiterlijk op 1 maart van het jaar volgend op het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. Onze Minister stelt jaarlijks voor de gemeenschappelijke regelingen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. De vaststelling geschiedt terstond na de laatstgenoemde datum.
 
 ##### Artikel 6
 
-Bij ministeriële regeling worden de bedragen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2021-08-31&g=2021-08-31), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2021-08-31&g=2021-08-31), ieder jaar aangepast overeenkomstig het door het Centraal Bureau voor de Statistiek in het kader van de Nationale Rekeningen vastgestelde prijsindexcijfer van de netto materiële consumptie van de overheid van de activiteit algemeen bestuur, volgens de jaar-op-jaarmethode.
+Bij ministeriële regeling worden de bedragen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2022-08-31&g=2022-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2022-08-31&g=2022-01-01), ieder jaar aangepast overeenkomstig het door het Centraal Bureau voor de Statistiek in het kader van de Nationale Rekeningen vastgestelde prijsindexcijfer van de netto materiële consumptie van de overheid van de activiteit algemeen bestuur, volgens de jaar-op-jaarmethode.
 
 ##### Artikel 7
 
