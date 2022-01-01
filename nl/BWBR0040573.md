@@ -4,7 +4,7 @@ identifier: "BWBR0040573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-02-06"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040573"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **beheerder:** de beheerder van het NDRIS, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2021-02-06&g=2021-02-06);
+- a. **beheerder:** de beheerder van het NDRIS, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2022-01-01&g=2022-01-01);
 
 - b. **besluit:** het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179);
 
@@ -58,27 +58,27 @@ In deze regeling wordt verstaan onder:
 
 - f. **NDRIS:** het Nationaal Dosis Registratie- en Informatie Systeem;
 
-- g. **toezichthouder:** de Inspectie SZW of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, het Staatstoezicht op de Mijnen.
+- g. **toezichthouder:** de Nederlandse Arbeidsinspectie of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, het Staatstoezicht op de Mijnen.
 
 #### § 2. Risico-inventarisatie en -evaluatie
 
 ##### Artikel 2.1. Nadere eisen risico-inventarisatie en -evaluatie met het oog op de risico’s van blootstelling van werknemers aan ioniserende straling
 
-1. De identificatie van het risico op blootstelling aan ioniserende straling, de bepaling van die blootstelling en de evaluatie van dat risico worden gedaan overeenkomstig [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=A&z=2021-02-06&g=2021-02-06) bij deze regeling en vastgelegd in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5).
+1. De identificatie van het risico op blootstelling aan ioniserende straling, de bepaling van die blootstelling en de evaluatie van dat risico worden gedaan overeenkomstig [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=A&z=2022-01-01&g=2022-01-01) bij deze regeling en vastgelegd in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5).
 
-2. De risico-inventarisatie en -evaluatie bevat tevens een beschrijving van de maatregelen gericht op het voorkomen van blootstelling aan ioniserende straling, de registratie van blootstellingsituaties en de ter zake getroffen maatregelen en bevat daartoe ten minste de elementen, bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=A&z=2021-02-06&g=2021-02-06) bij deze regeling.
+2. De risico-inventarisatie en -evaluatie bevat tevens een beschrijving van de maatregelen gericht op het voorkomen van blootstelling aan ioniserende straling, de registratie van blootstellingsituaties en de ter zake getroffen maatregelen en bevat daartoe ten minste de elementen, bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=A&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 3. De risico-inventarisatie en -evaluatie wordt beoordeeld, en indien nodig aangepast, zo dikwijls als de daarmee opgedane ervaring, gewijzigde werkmethoden of -omstandigheden of stand van de wetenschap en professionele dienstverlening daartoe aanleiding geven en tenminste eenmaal per vijf jaar.
 
 ##### Artikel 2.2. Bepaling verwachte jaardosis vliegtuigbemanning
 
-Voor het bepalen van de beroepsmatige blootstelling aan kosmische straling van een werknemer die deel uitmaakt van een vliegtuigbemanning, ten behoeve van de identificatie van blootgestelde werknemers voorafgaand aan de arbeid en de indeling van die werknemers in categorie A of B, maakt de ondernemer gebruik van een methode als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=B&z=2021-02-06&g=2021-02-06) bij deze regeling.
+Voor het bepalen van de beroepsmatige blootstelling aan kosmische straling van een werknemer die deel uitmaakt van een vliegtuigbemanning, ten behoeve van de identificatie van blootgestelde werknemers voorafgaand aan de arbeid en de indeling van die werknemers in categorie A of B, maakt de ondernemer gebruik van een methode als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=B&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 #### § 3. Het gezondheidskundig toezicht stralingsbescherming
 
 ##### Artikel 3.1. Registratie stralingsarts
 
-De registratie, herregistratie en buitengewone registratie, bedoeld in deze paragraaf, in het door de Autoriteit beheerde Register stralingsartsen geschieden door de Autoriteit indien is voldaan aan de eisen die in deze paragraaf en de [Bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=C&z=2021-02-06&g=2021-02-06) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=D&z=2021-02-06&g=2021-02-06) bij deze regeling aan de registratie, herregistratie en buitengewone registratie worden gesteld.
+De registratie, herregistratie en buitengewone registratie, bedoeld in deze paragraaf, in het door de Autoriteit beheerde Register stralingsartsen geschieden door de Autoriteit indien is voldaan aan de eisen die in deze paragraaf en de [Bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=C&z=2022-01-01&g=2022-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=D&z=2022-01-01&g=2022-01-01) bij deze regeling aan de registratie, herregistratie en buitengewone registratie worden gesteld.
 
 ##### Artikel 3.2. Criteria registratie stralingsarts
 
@@ -98,7 +98,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 - b. bezit een diploma op het niveau van coördinerend deskundige als bedoeld in [artikel 5.4 van de Regeling basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&artikel=5.4); en
 
-- c. heeft in de vijf jaar voorafgaand aan de aanvraag conform [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=C&z=2021-02-06&g=2021-02-06) bij deze regeling, 120 punten verdiend met kennisonderhoud.
+- c. heeft in de vijf jaar voorafgaand aan de aanvraag conform [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=C&z=2022-01-01&g=2022-01-01) bij deze regeling, 120 punten verdiend met kennisonderhoud.
 
 2. Herregistratie in het Register stralingsartsen heeft telkens een duur van maximaal vijf jaar.
 
@@ -112,7 +112,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 - c. bezit een diploma op het niveau van coördinerend deskundige als bedoeld in [artikel 5.4 van de Regeling basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&artikel=5.4); en
 
-- d. voldoet aan de kerncompetenties, bedoeld in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=D&z=2021-02-06&g=2021-02-06) bij deze regeling.
+- d. voldoet aan de kerncompetenties, bedoeld in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=D&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 2. Een buitengewone registratie in het Register stralingsartsen is eenmalig en heeft een duur van maximaal vijf jaar.
 
@@ -142,7 +142,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 ##### Artikel 4.2. Tekst bij waarschuwingsbord of gevarenpictogram algemeen
 
-1. Onder of naast het bord of pictogram, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), bevinden zich een of meer gele, rechthoekige borden of pictogrammen met een zwarte rand, met daarop in het zwart de goed leesbare tekst:
+1. Onder of naast het bord of pictogram, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), bevinden zich een of meer gele, rechthoekige borden of pictogrammen met een zwarte rand, met daarop in het zwart de goed leesbare tekst:
 
 - a. ‘RÖNTGENSTRALING’, indien een toestel de oorzaak van de mogelijke blootstelling is;
 
@@ -158,23 +158,23 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 ##### Artikel 4.3. Waarschuwingsborden, gevarenpictogrammen en teksten op ingekapselde bronnen, toestellen en bronhouders
 
-1. Op ingekapselde bronnen en toestellen worden steeds het bord of pictogram, bedoeld in [artikel 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), en het rechthoekig bord of pictogram, bedoeld in [artikel 4.2, eerste lid, onder a of b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2021-02-06&g=2021-02-06), aangebracht.
+1. Op ingekapselde bronnen en toestellen worden steeds het bord of pictogram, bedoeld in [artikel 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), en het rechthoekig bord of pictogram, bedoeld in [artikel 4.2, eerste lid, onder a of b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2022-01-01&g=2022-01-01), aangebracht.
 
 2. Het eerste lid is niet van toepassing op ingekapselde bronnen die voor 1 maart 2002 in gebruik zijn genomen.
 
 3. Het eerste lid is niet van toepassing indien de afmeting van de ingekapselde bron te klein is voor een met het blote oog herkenbaar bord of pictogram.
 
-4. Op bronhouders worden steeds het bord of pictogram, bedoeld in [artikel 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), en het rechthoekige bord of pictogram, bedoeld in [artikel 4.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2021-02-06&g=2021-02-06), geplaatst indien zich daarin een radioactieve bron bevindt.
+4. Op bronhouders worden steeds het bord of pictogram, bedoeld in [artikel 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), en het rechthoekige bord of pictogram, bedoeld in [artikel 4.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2022-01-01&g=2022-01-01), geplaatst indien zich daarin een radioactieve bron bevindt.
 
-5. Op de borden of pictogrammen, aangebracht op bronhouders, is [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), niet van toepassing indien de bronhouder zodanige afmetingen heeft dat daarop het aanbrengen van het bord of pictogram, bedoeld in artikel 4.1, eerste lid, met een afmeting als bedoeld in artikel 4.1, tweede lid, tezamen met het rechthoekige bord of pictogram, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2021-02-06&g=2021-02-06), met een afmeting als bedoeld in artikel 4.2, derde lid, technisch niet mogelijk is.
+5. Op de borden of pictogrammen, aangebracht op bronhouders, is [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), niet van toepassing indien de bronhouder zodanige afmetingen heeft dat daarop het aanbrengen van het bord of pictogram, bedoeld in artikel 4.1, eerste lid, met een afmeting als bedoeld in artikel 4.1, tweede lid, tezamen met het rechthoekige bord of pictogram, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.2&z=2022-01-01&g=2022-01-01), met een afmeting als bedoeld in artikel 4.2, derde lid, technisch niet mogelijk is.
 
 6. Het vijfde lid is niet van toepassing op de bronhouder die tegelijkertijd als broncontainer wordt gebruikt, mits die bronhouder is voorzien van een etiket dat voldoet aan de eisen van het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
 
 ##### Artikel 4.4. Verbodsbord en gevarenpictogram gecontroleerde zone
 
-1. Indien er geen feitelijke toegangsbeperking tot een gecontroleerde zone als bedoeld in [artikel 7.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.8), is, wordt onverminderd [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), bij de ingang van die zone een verbodsbord of gevarenpictogram aangebracht overeenkomstig het model, bedoeld in [bijlage XVIII, onderdeel 1, bij de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII), voor gebruik in de situatie van een verbod van toegang voor onbevoegden.
+1. Indien er geen feitelijke toegangsbeperking tot een gecontroleerde zone als bedoeld in [artikel 7.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.8), is, wordt onverminderd [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), bij de ingang van die zone een verbodsbord of gevarenpictogram aangebracht overeenkomstig het model, bedoeld in [bijlage XVIII, onderdeel 1, bij de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII), voor gebruik in de situatie van een verbod van toegang voor onbevoegden.
 
-2. [Artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2021-02-06&g=2021-02-06), is van overeenkomstige toepassing op de borden en pictogrammen, bedoeld in het eerste lid.
+2. [Artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=4&artikel=4.1&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing op de borden en pictogrammen, bedoeld in het eerste lid.
 
 #### § 5. NDRIS-systeem, dosisgegevens en -registratie
 
@@ -194,7 +194,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 - d. gegevens over de blootstelling van de externe werknemer aan ioniserende straling.
 
-4. De opslag van de gegevens, bedoeld in het derde lid, geschiedt overeenkomstig [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2021-02-06&g=2021-02-06) bij deze regeling.
+4. De opslag van de gegevens, bedoeld in het derde lid, geschiedt overeenkomstig [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 ##### Artikel 5.2. Persoonlijk dosiscontrolemiddel
 
@@ -208,7 +208,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 5. De dosimetrische dienst is de bewerker van de dosisgegevens van de blootgestelde werknemer, zulks ten behoeve van de ondernemer en in voorkomend geval de werkgever van de externe werkgever.
 
-6. De dosimetrische dienst draagt zorg voor opname in het NDRIS van de dosisgegevens, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2021-02-06&g=2021-02-06), die worden afgeleid van het gebruikte persoonlijk dosiscontrolemiddel.
+6. De dosimetrische dienst draagt zorg voor opname in het NDRIS van de dosisgegevens, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2022-01-01&g=2022-01-01), die worden afgeleid van het gebruikte persoonlijk dosiscontrolemiddel.
 
 7. Ter uitvoering van het zesde lid verstrekt de dosimetrische dienst de beheerder periodiek en uiterlijk twee maanden nadat het persoonlijk dosiscontrolemiddel is aangeboden voor uitlezing, de dosisgegevens, bedoeld in dat lid.
 
@@ -232,7 +232,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 ##### Artikel 5.4. Toepassing loodschortcorrectie
 
-1. Bij het bepalen van de blootstelling, bedoeld in [artikel 7.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.12), kan een loodschortcorrectiefactor worden opgenomen als onderdeel van de dosisgegevens, mits bij het gebruik van het persoonlijk dosiscontrolemiddel, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.2&z=2021-02-06&g=2021-02-06), wordt voldaan aan de volgende voorwaarden:
+1. Bij het bepalen van de blootstelling, bedoeld in [artikel 7.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.12), kan een loodschortcorrectiefactor worden opgenomen als onderdeel van de dosisgegevens, mits bij het gebruik van het persoonlijk dosiscontrolemiddel, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.2&z=2022-01-01&g=2022-01-01), wordt voldaan aan de volgende voorwaarden:
 
 - a. het betreft een A-werknemer;
 
@@ -240,13 +240,13 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 - b. de werknemer wordt bij de handelingen alleen blootgesteld aan verstrooide straling veroorzaakt door het werken met röntgentoestellen met een buisspanning van ten hoogste 150 kVp; en
 
-- c. in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.1&z=2021-02-06&g=2021-02-06), is bij de handelingen van de werknemer onderbouwd aangegeven waarom de loodschortcorrectiefactor wordt toegepast.
+- c. in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.1&z=2022-01-01&g=2022-01-01), is bij de handelingen van de werknemer onderbouwd aangegeven waarom de loodschortcorrectiefactor wordt toegepast.
 
 2. De loodschortcorrectiefactor bedraagt 0,2.
 
 3. Indien de loodschortcorrectiefactor, bedoeld in het tweede lid, is opgenomen als onderdeel van de dosisgegevens, wordt het door de dosimetrische dienst op basis van de uitlezing van het persoonlijk dosiscontrolemiddel vastgestelde persoonsdosisequivalent Hp(10) vermenigvuldigd met de loodschortcorrectiefactor, beschouwd als de effectieve dosis mits wordt voldaan aan de volgende voorwaarden:
 
-- a. het persoonlijk dosiscontrolemiddel is gedurende de gehele meetperiode alleen gebruikt bij handelingen verricht overeenkomstig het schriftelijke protocol, bedoeld in [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=E&z=2021-02-06&g=2021-02-06) bij deze regeling; en
+- a. het persoonlijk dosiscontrolemiddel is gedurende de gehele meetperiode alleen gebruikt bij handelingen verricht overeenkomstig het schriftelijke protocol, bedoeld in [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=E&z=2022-01-01&g=2022-01-01) bij deze regeling; en
 
 - b. de ondernemer heeft samen met de betrokken blootgestelde werknemer vastgesteld dat aan de voorwaarde, bedoeld onder a, is voldaan en heeft dit schriftelijk vastgelegd.
 
@@ -292,7 +292,7 @@ De registratie, herregistratie en buitengewone registratie, bedoeld in deze para
 
 ##### Artikel 6.2. Voorwaarden erkenning als dosimetrische dienst
 
-De erkenning, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2021-02-06&g=2021-02-06), wordt verleend aan een dosimetrische dienst, indien:
+De erkenning, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2022-01-01&g=2022-01-01), wordt verleend aan een dosimetrische dienst, indien:
 
 - a. deze is geaccrediteerd volgens de criteria, bedoeld in NEN-EN-ISO/IEC 17025:2005, zulks met inbegrip van het kalibratiesysteem;
 
@@ -310,7 +310,7 @@ De erkenning, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - a. indien bij de aanvraag onjuiste of onvolledige gegevens zijn verstrekt en kennis van de juiste of volledige gegevens tot een andere beschikking zou hebben geleid;
 
-- b. indien de accreditatie, bedoeld in [artikel 6.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2021-02-06&g=2021-02-06), geschorst, ingetrokken of niet meer geldig is;
+- b. indien de accreditatie, bedoeld in [artikel 6.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2022-01-01&g=2022-01-01), geschorst, ingetrokken of niet meer geldig is;
 
 - c. indien overigens niet wordt voldaan aan de bij of krachtens het besluit gestelde verplichtingen voor dosimetrische diensten; of
 
@@ -356,7 +356,7 @@ De dosimetrische dienst verstrekt de Autoriteit jaarlijks voor 1 juni een jaarve
 
 1. Tijdens de looptijd van de erkenning stelt de Autoriteit periodiek vast of de dosimetrische dienst:
 
-- a. nog voldoet aan de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2021-02-06&g=2021-02-06) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2021-02-06&g=2021-02-06);
+- a. nog voldoet aan de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2022-01-01&g=2022-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2022-01-01&g=2022-01-01);
 
 - b. de taken van de dosimetrische dienst naar behoren uitvoert; en
 
@@ -366,27 +366,27 @@ De dosimetrische dienst verstrekt de Autoriteit jaarlijks voor 1 juni een jaarve
 
 ##### Artikel 6.7. Informatie-uitwisseling over non-conformiteit
 
-1. De Autoriteit informeert de betrokken nationale accreditatie-instantie zo spoedig mogelijk over non-conformiteit op de eisen voor erkenning, bedoeld in de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2021-02-06&g=2021-02-06) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2021-02-06&g=2021-02-06), die voor de Autoriteit aanleiding kan zijn tot het schorsen of intrekken van de erkenning.
+1. De Autoriteit informeert de betrokken nationale accreditatie-instantie zo spoedig mogelijk over non-conformiteit op de eisen voor erkenning, bedoeld in de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.1&z=2022-01-01&g=2022-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2022-01-01&g=2022-01-01), die voor de Autoriteit aanleiding kan zijn tot het schorsen of intrekken van de erkenning.
 
 2. De betrokken nationale accreditatie-instantie informeert de Autoriteit zo spoedig mogelijk over feiten die voor de Autoriteit aanleiding kunnen zijn tot het schorsen of intrekken van de erkenning.
 
 3. De Autoriteit en de betrokken nationale accreditatie-instantie maken schriftelijke afspraken over de uitwisseling van informatie die gevolgen kan hebben voor de accreditatie of de erkenning.
 
-4. De dosimetrische dienst informeert de Autoriteit zo spoedig mogelijk over bevindingen en non-conformiteiten, door de betrokken nationale accreditatie-instantie vastgesteld met betrekking tot de accreditatie, bedoeld in [artikel 6.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2021-02-06&g=2021-02-06), voor zover die gevolgen kunnen hebben voor de erkenning. De dosimetrische dienst informeert de Autoriteit samen met de bevindingen en non-conformiteiten over de wijze waarop en het tijdsbestek waarbinnen deze door haar worden opgelost.
+4. De dosimetrische dienst informeert de Autoriteit zo spoedig mogelijk over bevindingen en non-conformiteiten, door de betrokken nationale accreditatie-instantie vastgesteld met betrekking tot de accreditatie, bedoeld in [artikel 6.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.2&z=2022-01-01&g=2022-01-01), voor zover die gevolgen kunnen hebben voor de erkenning. De dosimetrische dienst informeert de Autoriteit samen met de bevindingen en non-conformiteiten over de wijze waarop en het tijdsbestek waarbinnen deze door haar worden opgelost.
 
 ##### Artikel 6.8. Algemene taken van de beheerder
 
 1. De beheerder draagt zorg voor het NDRIS in algemene zin.
 
-2. De beheerder draagt zorg voor het secretariaat van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2021-02-06&g=2021-02-06).
+2. De beheerder draagt zorg voor het secretariaat van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2022-01-01&g=2022-01-01).
 
 3. De beheerder neemt deel aan (inter)nationale overleggen ten behoeve van het beheer van het NDRIS.
 
 ##### Artikel 6.9. Gegevensbeheer door de beheerder
 
-1. De beheerder verwerkt de door de dosimetrische dienst aangeleverde dosisgegevens en de door de ondernemer, en in voorkomend geval door de werkgever van een externe werknemer, aangeleverde uitslagen van de individuele dosisberekeningen, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.3&z=2021-02-06&g=2021-02-06), en van de inwendige doses, bedoeld in [artikel 7.15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15).
+1. De beheerder verwerkt de door de dosimetrische dienst aangeleverde dosisgegevens en de door de ondernemer, en in voorkomend geval door de werkgever van een externe werknemer, aangeleverde uitslagen van de individuele dosisberekeningen, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.3&z=2022-01-01&g=2022-01-01), en van de inwendige doses, bedoeld in [artikel 7.15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15).
 
-2. De beheerder draagt zorg voor een passend beheer van de gegevens, bedoeld in de [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2021-02-06&g=2021-02-06). In dat kader neemt hij de nodige maatregelen ter voorkoming van misbruik, vervalsing, en onrechtmatige bewerking van het NDRIS.
+2. De beheerder draagt zorg voor een passend beheer van de gegevens, bedoeld in de [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2022-01-01&g=2022-01-01). In dat kader neemt hij de nodige maatregelen ter voorkoming van misbruik, vervalsing, en onrechtmatige bewerking van het NDRIS.
 
 3. De beheerder wijzigt de dosisgegevens, bedoeld in het eerste lid, alleen op verzoek van de toezichthouder.
 
@@ -394,9 +394,9 @@ De dosimetrische dienst verstrekt de Autoriteit jaarlijks voor 1 juni een jaarve
 
 ##### Artikel 6.10. Verantwoording door de beheerder
 
-1. De beheerder legt jaarlijks voorafgaand aan het betreffende kalenderjaar een inhoudelijk en financieel jaarplan, waaronder de te hanteren tarieven, betreffende zijn werkzaamheden uit hoofde van deze regeling ter goedkeuring voor aan de minister. Bij het jaarplan is gevoegd het advies ter zake van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2021-02-06&g=2021-02-06).
+1. De beheerder legt jaarlijks voorafgaand aan het betreffende kalenderjaar een inhoudelijk en financieel jaarplan, waaronder de te hanteren tarieven, betreffende zijn werkzaamheden uit hoofde van deze regeling ter goedkeuring voor aan de minister. Bij het jaarplan is gevoegd het advies ter zake van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2022-01-01&g=2022-01-01).
 
-2. De beheerder legt jaarlijks voor 1 juni een inhoudelijk en financieel jaarverslag, waaronder de gehanteerde tarieven, betreffende zijn werkzaamheden uit hoofde van deze regeling over het voorafgaande kalenderjaar ter goedkeuring voor aan de minister Bij het jaarverslag is gevoegd het advies ter zake van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2021-02-06&g=2021-02-06).
+2. De beheerder legt jaarlijks voor 1 juni een inhoudelijk en financieel jaarverslag, waaronder de gehanteerde tarieven, betreffende zijn werkzaamheden uit hoofde van deze regeling over het voorafgaande kalenderjaar ter goedkeuring voor aan de minister Bij het jaarverslag is gevoegd het advies ter zake van het Centraal Dosimetrisch Overleg, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.11&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6.11. Het Centraal Dosimetrisch Overleg
 
@@ -404,7 +404,7 @@ De dosimetrische dienst verstrekt de Autoriteit jaarlijks voor 1 juni een jaarve
 
 2. Het Centraal Dosimetrisch Overleg heeft als taken:
 
-- a. het adviseren met betrekking tot de goedkeuring van het jaarplan en jaarverslag van de beheerder, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.10&z=2021-02-06&g=2021-02-06).
+- a. het adviseren met betrekking tot de goedkeuring van het jaarplan en jaarverslag van de beheerder, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=6&artikel=6.10&z=2022-01-01&g=2022-01-01).
 
 - b. het adviseren over aangelegenheden die betrekking hebben op het dosimetriestelsel in Nederland.
 
@@ -446,7 +446,7 @@ De dosimetrische dienst verstrekt de Autoriteit jaarlijks voor 1 juni een jaarve
 
 ##### Artikel 7.2. Registratie gegevens blootstelling aan radon
 
-De door de werkgever, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=7&artikel=7.1&z=2021-02-06&g=2021-02-06), te registreren gegevens als bedoeld in [artikel 7.38, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.38) omvatten:
+De door de werkgever, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=7&artikel=7.1&z=2022-01-01&g=2022-01-01), te registreren gegevens als bedoeld in [artikel 7.38, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.38) omvatten:
 
 - a. de naam, voornaam, geboortedatum en het geslacht van de werknemer;
 
@@ -474,35 +474,35 @@ De door de werkgever, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 8.2. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [Bijlage F, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2021-02-06&g=2021-02-06), bij deze regeling treedt in werking met ingang van 6 februari 2018.
+1. Deze regeling, met uitzondering van [Bijlage F, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2022-01-01&g=2022-01-01), bij deze regeling treedt in werking met ingang van 6 februari 2018.
 
-2. [Bijlage F, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2021-02-06&g=2021-02-06), bij deze regeling treedt in werking met ingang van 6 februari 2021.
+2. [Bijlage F, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=F&z=2022-01-01&g=2022-01-01), bij deze regeling treedt in werking met ingang van 6 februari 2021.
 
 ##### Artikel 8.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling stralingsbescherming beroepsmatige blootstelling 2018.
 
-## Bijlage A. behorend bij [artikel 2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.1&z=2021-02-06&g=2021-02-06)
+## Bijlage A. behorend bij [artikel 2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.1&z=2022-01-01&g=2022-01-01)
 
 ### Nadere eisen en elementen betreffende de risico-inventarisatie en -evaluatie
 
 NB. In het kader van de identificatie van blootgestelde werknemers en de indeling van blootgestelde werknemers in categorie A of B wordt de afschermende werking van persoonlijke beschermingsmiddelen als bedoeld in [artikel 1, eerste lid, onder a, van het Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570&artikel=1), niet meegenomen bij de bepaling van de reguliere en potentiële blootstelling van de werknemer.
 
-## Bijlage B. behorend bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.2&z=2021-02-06&g=2021-02-06)
+## Bijlage B. behorend bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.2&z=2022-01-01&g=2022-01-01)
 
 ### Bepalingsmethoden voor toetsing aan 1 mSv dosis als gevolg van beroepsmatige blootstelling aan kosmische straling
 
-De bepaling van de beroepsmatige dosis als gevolg van beroepsmatige blootstelling aan kosmische straling als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.2&z=2021-02-06&g=2021-02-06), wordt uitgevoerd met een van de methodes, bedoeld in onderstaande tabel.
+De bepaling van de beroepsmatige dosis als gevolg van beroepsmatige blootstelling aan kosmische straling als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=2&artikel=2.2&z=2022-01-01&g=2022-01-01), wordt uitgevoerd met een van de methodes, bedoeld in onderstaande tabel.
 
 Voor methode 1 worden alle jaarlijks door de werknemer gemaakte vlieguren conservatief gesteld op de hoogst behaalde vlieghoogte. Indien de voor methode 1 vereiste conservatieve aanname tot overschrijding van de 1 mSv per kalenderjaar leidt, kan methode 2 worden gehanteerd.
 
 In methode 2 worden de jaarlijks door de werknemer gemaakte vlieguren ingedeeld naar vlieghoogte, waarna de dosis per vlieghoogte wordt bepaald door vermenigvuldiging met het bijbehorende dosistempo, bedoeld in de onderstaande tabel. Vervolgens wordt de dosis afkomstig van de verschillende vlieghoogten geaccumuleerd ten einde te komen tot de totale dosis als gevolg van blootstelling aan kosmische straling.
 
-## Bijlage C. behorend bij [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=3&artikel=3.3&z=2021-02-06&g=2021-02-06)
+## Bijlage C. behorend bij [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=3&artikel=3.3&z=2022-01-01&g=2022-01-01)
 
 ### Puntensysteem ten behoeve van het kennisonderhoud door de stralingsarts
 
-## Bijlage D. behorend bij [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=3&artikel=3.4&z=2021-02-06&g=2021-02-06)
+## Bijlage D. behorend bij [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=3&artikel=3.4&z=2022-01-01&g=2022-01-01)
 
 **Buitengewone registratie als stralingsarts**
 
@@ -518,11 +518,11 @@ Om buitengewoon geregistreerd te kunnen worden als stralingsarts toont betrokken
 
 ### Kerncompetentie 4: Samenwerking – De stralingsarts werkt actief samen binnen het werkveld stralingsbescherming:
 
-## Bijlage E. behorend bij [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.4&z=2021-02-06&g=2021-02-06)
+## Bijlage E. behorend bij [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.4&z=2022-01-01&g=2022-01-01)
 
 ### Protocol loodschort
 
-## Bijlage F. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2021-02-06&g=2021-02-06)
+## Bijlage F. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&paragraaf=5&artikel=5.1&z=2022-01-01&g=2022-01-01)
 
 ### Gegevens met betrekking tot externe werknemers op te nemen in het NDRIS
 
