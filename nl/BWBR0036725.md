@@ -4,7 +4,7 @@ identifier: "BWBR0036725"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2019-01-29"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036725"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **team criminele inlichtingen Inspectie SZW-DO:** eenheid als bedoeld in [artikel 12, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12) bij de Directie Opsporing Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid;
+- a. **team criminele inlichtingen Nederlandse Arbeidsinspectie-DO:** eenheid als bedoeld in [artikel 12, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12) bij de Directie Opsporing Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid;
 
 - b. **team nationale criminele inlichtingen:** landelijk team van de politie belast met de coördinatie van de werkzaamheden betreffende zowel nationale als internationale criminele inlichtingen dat onderdeel vormt van de landelijke eenheid, bedoeld in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
 
@@ -54,27 +54,27 @@ Besluit:
 
 - d. **informantgegevens:** gegevens omtrent een informant als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), met inbegrip van de door die persoon verstrekte gegevens;
 
-- e. **ci-officier van justitie:** als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van het team criminele inlichtingen Inspectie SZW-DO;
+- e. **ci-officier van justitie:** als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO;
 
-- f. **Inspectie SZW-DO:** Directie Opsporing Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid;
+- f. **Nederlandse Arbeidsinspectie-DO:** Directie Opsporing Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid;
 
 - g. **verwerkingsverantwoordelijke:** de Minister van Sociale Zaken en Werkgelegenheid;
 
 - h. **centrale verwijzingsindex:** de door de Minister van Veiligheid en Justitie aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of van de bijzondere opsporingsdiensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen.
 
-2. Namens de verwerkingsverantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de functionaris van de Inspectie SZW-DO die leiding geeft aan het team criminele inlichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=2&z=2019-01-29&g=2019-01-29).
+2. Namens de verwerkingsverantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de functionaris van de Nederlandse Arbeidsinspectie-DO die leiding geeft aan het team criminele inlichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=2&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2
 
-1. Er is bij de Inspectie SZW-DO een team criminele inlichtingen onder de naam team criminele inlichtingen Inspectie SZW-DO (tci-ISZW-DO).
+1. Er is bij de Nederlandse Arbeidsinspectie-DO een team criminele inlichtingen onder de naam team criminele inlichtingen Nederlandse Arbeidsinspectie-DO (tci-NLA-DO).
 
-2. Het team criminele inlichtingen Inspectie SZW-DO is belast met de informatievoorziening in het kader van de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
+2. Het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO is belast met de informatievoorziening in het kader van de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
 3. Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele inlichtingen verwerkt overeenkomstig het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde.
 
 ##### Artikel 3
 
-1. Het team criminele inlichtingen Inspectie SZW-DO verricht in ieder geval de volgende werkzaamheden:
+1. Het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO verricht in ieder geval de volgende werkzaamheden:
 
 - a. het verzamelen en verifiëren van criminele inlichtingen;
 
@@ -92,21 +92,21 @@ Besluit:
 
 - f. het verwerken van informantgegevens, overeenkomstig het bepaalde in [artikel 12 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), onder gelijktijdige codetoekenning.
 
-2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt het team criminele inlichtingen Inspectie SZW-DO gebruik van de centrale verwijzingsindex.
+2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO gebruik van de centrale verwijzingsindex.
 
-3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), wordt binnen de Inspectie SZW-DO uitsluitend verricht door het team criminele inlichtingen Inspectie SZW-DO.
+3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), wordt binnen de Nederlandse Arbeidsinspectie-DO uitsluitend verricht door het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO.
 
 ##### Artikel 4
 
-1. Het team criminele inlichtingen Inspectie SZW-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2019-01-29&g=2019-01-29).
+1. Het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2022-01-01&g=2022-01-01).
 
-2. De verwerkingsverantwoordelijke autoriseert in verband met de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) en op grond van [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) de opsporingsambtenaren van het team criminele inlichtingen Inspectie SZW-DO voor de verwerking van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). De autorisatie omvat mede de toegang tot de gegevensbestanden van de teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten.
+2. De verwerkingsverantwoordelijke autoriseert in verband met de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) en op grond van [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) de opsporingsambtenaren van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO voor de verwerking van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). De autorisatie omvat mede de toegang tot de gegevensbestanden van de teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten.
 
-3. De verwerkingsverantwoordelijke autoriseert de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7) aangewezen ambtenaren van de andere teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten, belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), tot toegang tot het gegevensbestand bij het team criminele inlichtingen Inspectie SZW-DO.
+3. De verwerkingsverantwoordelijke autoriseert de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7) aangewezen ambtenaren van de andere teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten, belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), tot toegang tot het gegevensbestand bij het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO.
 
 ##### Artikel 5
 
-1. Het team criminele inlichtingen Inspectie SZW-DO stelt het team nationale criminele inlichtingen in kennis van:
+1. Het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO stelt het team nationale criminele inlichtingen in kennis van:
 
 - a. criminele inlichtingen die van nationale of internationale betekenis zijn;
 
@@ -116,27 +116,27 @@ Besluit:
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door het team nationale criminele inlichtingen.
 
-2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=II&z=2019-01-29&g=2019-01-29), maakt het team criminele inlichtingen Inspectie SZW-DO gebruik van de centrale verwijzingsindex.
+2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=II&z=2022-01-01&g=2022-01-01), maakt het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO gebruik van de centrale verwijzingsindex.
 
 ##### Artikel 6
 
-1. De verwerkingsverantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren die deel uitmaken van het team criminele inlichtingen Inspectie SZW-DO worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
+1. De verwerkingsverantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren die deel uitmaken van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verwerkingsverantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=3&z=2019-01-29&g=2019-01-29), ononderbroken deel uitmaakt van het team criminele inlichtingen Inspectie SZW-DO.
+2. De verwerkingsverantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=3&z=2022-01-01&g=2022-01-01), ononderbroken deel uitmaakt van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
 ##### Artikel 7
 
-1. De bij het team criminele inlichtingen Inspectie SZW-DO in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang ambtenaren die deel uitmaken van het team criminele inlichtingen Inspectie SZW-DO, personen die door deze ambtenaren worden begeleid en de ci-officier van justitie.
+1. De bij het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang ambtenaren die deel uitmaken van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO, personen die door deze ambtenaren worden begeleid en de ci-officier van justitie.
 
-2. In afwijking van het eerste lid, tweede volzin, kan de verwerkingsverantwoordelijke aan anderen toegang zonder begeleiding toestaan, indien het betreden van de vertrekken alleen kan plaatsvinden nadat identiteitsgegevens elektronisch zijn vastgelegd en de toegang noodzakelijk is vanuit zijn verantwoordelijkheid voor de ambtenaren en vertrekken van het team criminele inlichtingen Inspectie SZW-DO.
+2. In afwijking van het eerste lid, tweede volzin, kan de verwerkingsverantwoordelijke aan anderen toegang zonder begeleiding toestaan, indien het betreden van de vertrekken alleen kan plaatsvinden nadat identiteitsgegevens elektronisch zijn vastgelegd en de toegang noodzakelijk is vanuit zijn verantwoordelijkheid voor de ambtenaren en vertrekken van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO.
 
-3. Bij afwezigheid van ambtenaren van het team criminele inlichtingen Inspectie SZW-DO zijn de vertrekken deugdelijk afgesloten.
+3. Bij afwezigheid van ambtenaren van het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO zijn de vertrekken deugdelijk afgesloten.
 
 ##### Artikel 8
 
-De verwerkingsverantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij het team criminele inlichtingen Inspectie SZW-DO gehouden criminele inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan worden getroffen opdat het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde kan worden nageleefd.
+De verwerkingsverantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij het team criminele inlichtingen Nederlandse Arbeidsinspectie-DO gehouden criminele inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan worden getroffen opdat het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde kan worden nageleefd.
 
 ##### Artikel 9
 
@@ -156,9 +156,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 13
 
-1. Deze regeling wordt aangehaald als: Regeling team criminele inlichtingen Inspectie SZW-DO.
+1. Deze regeling wordt aangehaald als: Regeling team criminele inlichtingen Nederlandse Arbeidsinspectie-DO.
 
-2. De in het eerste lid genoemde citeertitel kan worden afgekort tot: Regeling tci-Inspectie SZW-DO.
+2. De in het eerste lid genoemde citeertitel kan worden afgekort tot: Regeling tci-Nederlandse Arbeidsinspectie-DO.
 
 ## Bijlage I
 
@@ -260,4 +260,4 @@ Opmerkingen:
 
 - 2. Het team nationale criminele inlichtingen (tnci) kan in afstemming met de gebruikersgroep de objectgegevens aanvullen.
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2019-01-29&g=2019-01-29) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2022-01-01&g=2022-01-01) in de Staatscourant worden geplaatst.
