@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand;
 
-- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2021-01-01&g=2021-01-01) vastgestelde bedrag;
+- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2022-01-01&g=2022-01-01) vastgestelde bedrag;
 
 - h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -71,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De normpremie bedraagt een percentage van het drempelinkomen in het berekeningsjaar, vermeerderd met een percentage van het toetsingsinkomen van de verzekerde in dat jaar voorzover dat toetsingsinkomen het drempelinkomen te boven gaat. Voor een verzekerde met een partner wordt daarbij het gezamenlijke toetsingsinkomen in aanmerking genomen.
 
-3. De percentages worden voor verzekerden met een partner vastgesteld op 4,225% van het drempelinkomen, vermeerderd met 13,580% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 1,915% van het drempelinkomen, vermeerderd met 13,580% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
+3. De percentages worden voor verzekerden met een partner vastgesteld op 4,225% van het drempelinkomen, vermeerderd met 13,610% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 1,848% van het drempelinkomen, vermeerderd met 13,610% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
 
 4. In afwijking van het eerste lid bedraagt de aanspraak op een zorgtoeslag voor een verzekerde met een partner die geen verzekerde is, vijftig procent van het op grond van het eerste lid berekende bedrag.
 
@@ -83,7 +83,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2021-01-01&g=2021-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2022-01-01&g=2022-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
@@ -117,7 +117,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op een zorgtoeslag indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de verzekerde aan het begin van het berekeningsjaar meer bedraagt dan € 118.479 of, indien de verzekerde het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3, van de Wet inkomstenbelasting 2001, van de verzekerde en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 149.819. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
+1. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op een zorgtoeslag indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de verzekerde aan het begin van het berekeningsjaar meer bedraagt dan € 120.020 of, indien de verzekerde het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3, van de Wet inkomstenbelasting 2001, van de verzekerde en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 151.767. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
 
 2. Bij het begin van het kalenderjaar worden de bedragen, bedoeld in het eerste lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
