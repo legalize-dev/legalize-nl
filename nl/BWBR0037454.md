@@ -4,7 +4,7 @@ identifier: "BWBR0037454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-05"
-last_updated: "2020-02-12"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037454"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Het hoofd van de afdeling Participatie en Financiële Sturing is verantwoordelij
 
 - c. de informatievoorziening rond de afbouw van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903);
 
-- d. het onderhouden van de contacten met het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Inspectie SZW met betrekking tot de gemeentelijke verantwoording over de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en de mogelijke toepassing van aanwijzingen of in de plaatsstellingen;
+- d. het onderhouden van de contacten met het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Nederlandse Arbeidsinspectie met betrekking tot de gemeentelijke verantwoording over de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en de mogelijke toepassing van aanwijzingen of in de plaatsstellingen;
 
 - e. de ondersteuning en het voeren van het secretariaat voor de Toetsingscommissie Participatiewet;
 
