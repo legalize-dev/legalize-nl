@@ -4,7 +4,7 @@ identifier: "BWBR0033787"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-07-01"
-last_updated: "2016-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033787"
 soort: "pbo"
@@ -44,13 +44,9 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - –. **accountant:** een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantskamer:** de accountantskamer, bedoeld in [artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
+- –. **accountantskamer:** accountantskamer als bedoeld in [artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
 
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
-
-- –. **bestuur:** het bestuur van de beroepsorganisatie;
-
-- –. **lid of leden:** het lid of de leden van de Raad voor Toezicht.
+- –. **lid of leden:** lid of leden van de Raad voor Toezicht.
 
 ### Hoofdstuk 2. De Raad voor Toezicht
 
@@ -128,7 +124,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 1. Een ieder die is betrokken bij de uitvoering van de taak van de Raad en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens geheimhouding geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
-2. De Raad kan een externe deskundige, als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-01) ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786&artikel=26).
+2. De Raad kan een externe deskundige, als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01) ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786&artikel=26).
 
 ##### Artikel 7
 
@@ -146,7 +142,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 8
 
-1. De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-01), bedoelde taak en de daarbij te hanteren werkwijze.
+1. De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), bedoelde taak en de daarbij te hanteren werkwijze.
 
 2. De Raad voert de [Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786) uit.
 
