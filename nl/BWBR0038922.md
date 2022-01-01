@@ -4,7 +4,7 @@ identifier: "BWBR0038922"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-01-01"
-last_updated: "2017-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038922"
 soort: "beleidsregel"
@@ -78,7 +78,7 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 - 4.°. de onderneming van de overdragende S&O-inhoudingsplichtige met toepassing van [artikel 3.65 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65) wordt omgezet in de vorm van een door een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming;
 
-- d. de overnemende S&O-inhoudingsplichtige geen S&O-verklaringen heeft ontvangen die geheel of gedeeltelijk betrekking hebben op dezelfde periode als de periode waarop het omzettingsverzoek ziet; en
+- d. de overnemende S&O-inhoudingsplichtige ten aanzien van een ingediende aanvraag voor een S&O-verklaring die betrekking heeft op een periode die is gelegen voor 1 januari 2022, geen S&O-verklaringen heeft ontvangen die geheel of gedeeltelijk betrekking hebben op dezelfde periode als de periode waarop het omzettingsverzoek ziet; en
 
 - e. de overnemende S&O-inhoudingsplichtige kan aantonen dat hij de speur- en ontwikkelingswerkzaamheden heeft verricht en, indien van toepassing, de kosten en uitgaven heeft gerealiseerd waarvoor de S&O-verklaring is afgegeven.
 
@@ -86,7 +86,7 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 1. Een omzettingsverzoek is gemotiveerd en gaat vergezeld van de volgende gegevens:
 
-- a. een omschrijving en eventuele bewijsstukken van de organisatorische wijziging, bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038922&artikel=3&z=2017-01-01&g=2017-01-01), en
+- a. een omschrijving en eventuele bewijsstukken van de organisatorische wijziging, bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038922&artikel=3&z=2022-01-01&g=2022-01-01), en
 
 - b. indien sprake is van een overdragende S&O-inhoudingsplichtige die nog niet is opgehouden te bestaan: een schriftelijk bewijs dat de overdragende S&O-inhoudingsplichtige instemt met het omzettingsverzoek.
 
