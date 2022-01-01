@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,7 +76,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -84,7 +84,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 5. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1&z=2020-01-01&g=2020-01-01).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6. Taak Dienst Uitvoering Onderwijs
 
@@ -92,9 +92,9 @@ De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [arti
 
 ##### Artikel 7. Opleidingseisen
 
-1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 6, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=6).
+1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 6, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=6).
 
-2. De beroepskwalificatie-eisen en bewijsstukken die voor pedagogisch beleidsmedewerkers worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 6, derde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=6).
+2. De beroepskwalificatie-eisen en bewijsstukken die voor pedagogisch beleidsmedewerkers worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 6, derde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=6).
 
 ##### Artikel 8. Kwalificatie eerste hulp aan kinderen
 
@@ -130,7 +130,7 @@ De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [arti
 
 ##### Artikel 9. Inzet beroepskrachten in opleiding en stagiairs
 
-De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 7, achtste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=7) geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening, met dien verstande dat gedurende de dagopvang maximaal een derde deel van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van artikel 7 van het Besluit kwaliteit kinderopvang minimaal aantal in te zetten beroepskrachten op de afzonderlijke stamgroepen, bestaat uit beroepskrachten in opleiding of stagiairs.
+De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in artikel 7, achtste lid, van het Besluit kwaliteit kinderopvang geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus, met dien verstande dat gedurende de dagopvang maximaal de helft van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van [artikel 7 van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=7) minimaal aantal in te zetten beroepskrachten op de afzonderlijke stamgroepen, bestaat uit beroepskrachten in opleiding of stagiairs, waarbij het aantal in te zetten stagiairs maximaal een derde deel van het totaal aantal in te zetten beroepskrachten bedraagt.
 
 #### Paragraaf 4. Nadere regels met betrekking tot deskundigheidseisen gastouders
 
@@ -168,7 +168,7 @@ De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 7, a
 
 - d. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 1.59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.59),
 
-- e. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders,
+- e. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, burgerservicenummer, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders,
 
 - f. afschriften van alle met ouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de soort kinderopvang waarop de overeenkomst betrekking heeft, de voor die kinderopvang te betalen prijs per uur, naam, geboortedatum en adres van het kind, het aantal uren kinderopvang per jaar en de duur van de overeenkomst,
 
@@ -216,9 +216,19 @@ De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 7, a
 
 #### Paragraaf 6. Gemeentelijk jaarverslag
 
-##### Artikel 12. Verslag
+##### Artikel 12. Gegevensverstrekking college
 
-Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2020-01-01&g=2020-01-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
+1. Het college verstrekt aan de Minister uiterlijk op 1 juli van elk kalenderjaar gegevens over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken in het daaraan voorafgaande kalenderjaar, met gebruikmaking van een daartoe door de Minister vastgesteld formulier.
+
+2. Onder de opgedragen taken, bedoeld in het eerste lid, worden in ieder geval verstaan:
+
+- a. het uitvoeren van de registertaak van het landelijk register kinderopvang;
+
+- b. de behandeling van aanvragen tot registratie;
+
+- c. het laten uitvoeren van de verplichte onderzoeken door de toezichthouder; en
+
+- d. het handhaven of actie ondernemen in reactie op de door de toezichthouder geconstateerde overtredingen.
 
 #### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
@@ -258,7 +268,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2020-01-01&g=2020-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -472,7 +482,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10c
 
-De opleidingen die voor beroepskrachten voorschoolse educatie worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangewezen als opleidingen als bedoeld in [artikel 4, eerste lid, onder a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4).
+De opleidingen die voor beroepskrachten voorschoolse educatie worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus worden aangewezen als opleidingen als bedoeld in [artikel 4, eerste lid, onder a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4).
 
 #### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
@@ -514,11 +524,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a. Opleidingseisen
 
-1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 15, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=15).
+1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 15, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=15).
 
 2. Een beroepskracht meertalige buitenschoolse opvang beschikt over een bewijsstuk waaruit blijkt dat hij de Duitse, Engelse of Franse taal voor de deelvaardigheden gesprekken voeren, lezen, luisteren en spreken beheerst op ten minste niveau B2 van het Europees Referentiekader voor Talen.
 
-3. De beroepskwalificatie-eisen en bewijsstukken die voor pedagogisch beleidsmedewerkers worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 15, derde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=15).
+3. De beroepskwalificatie-eisen en bewijsstukken die voor pedagogisch beleidsmedewerkers worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 15, derde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=15).
 
 ##### Artikel 9b. Kwalificatie eerste hulp aan kinderen
 
@@ -554,7 +564,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9c. Inzet beroepskrachten in opleiding en stagiairs
 
-De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 16, zevende lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=16) geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening, met dien verstande dat gedurende de buitenschoolse opvang maximaal een derde deel van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van artikel 16 van het Besluit kwaliteit kinderopvang minimaal aantal in te zetten beroepskrachten op de afzonderlijke basisgroepen, bestaat uit beroepskrachten in opleiding of stagiairs.
+De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 16, zevende lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=16) geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst Kinderopvang voor Kindercentra en Gastouderbureaus, met dien verstande dat gedurende de buitenschoolse opvang maximaal de helft van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van artikel 16 van het Besluit kwaliteit kinderopvang minimaal aantal in te zetten beroepskrachten op de afzonderlijke basisgroepen, bestaat uit beroepskrachten in opleiding of stagiairs, waarbij het aantal in te zetten stagiairs maximaal een derde deel van het totaal aantal in te zetten beroepskrachten bedraagt.
 
 #### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
@@ -3670,7 +3680,7 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2020-01-01&g=2020-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2020-01-01&g=2020-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2020-01-01&g=2020-01-01).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2022-01-01&g=2022-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2022-01-01&g=2022-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2022-01-01&g=2022-01-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
@@ -3854,7 +3864,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2020-01-01&g=2020-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2022-01-01&g=2022-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
 
 ## Bijlage 1a
 
@@ -3916,7 +3926,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11i. Overgangsbepaling klachtenverslag
 
-[Artikel 11h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5c&artikel=11h&z=2020-01-01&g=2020-01-01) zoals dat luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) blijft van toepassing op het verslag dat ziet op het kalenderjaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I van genoemde regeling.
+[Artikel 11h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5c&artikel=11h&z=2022-01-01&g=2022-01-01) zoals dat luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) blijft van toepassing op het verslag dat ziet op het kalenderjaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I van genoemde regeling.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -3952,7 +3962,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 5c. Verslag klachtenregeling kindercentra en gastouderbureaus
 
-#### Paragraaf 6. Gemeentelijk jaarverslag
+#### Paragraaf 6. Gegevensverstrekking
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -3964,14 +3974,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De minister verwerkt de gegevens van de personen die op 28 februari 2018 op basis van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=9a) en [9b van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=9b) continu gescreend worden in het personenregister kinderopvang in de periode die loopt van 1 maart 2018 tot 1 juli 2018.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5&artikel=11&z=2020-01-01&g=2020-01-01) zoals dat luidde op 28 februari 2018 blijft ten aanzien van de in het eerste lid genoemde personen en gedurende de in het eerste lid genoemde periode van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang en op grond van [artikel 1.48d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48d), zijn gekoppeld aan de houder van een kindercentrum of gastouderbureau.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5&artikel=11&z=2022-01-01&g=2022-01-01) zoals dat luidde op 28 februari 2018 blijft ten aanzien van de in het eerste lid genoemde personen en gedurende de in het eerste lid genoemde periode van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang en op grond van [artikel 1.48d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48d), zijn gekoppeld aan de houder van een kindercentrum of gastouderbureau.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01)
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01)
 
 ## Bijlage 1g
 
 Vervallen
 
-## Bijlage 2. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2020-01-01&g=2020-01-01)
+## Bijlage 2. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01)
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
