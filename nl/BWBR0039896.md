@@ -4,7 +4,7 @@ identifier: "BWBR0039896"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-07-15"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039896"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **dienst:** de Algemene Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. **coördinator:** de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2021-07-15&g=2021-07-15);
+- b. **coördinator:** de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2022-01-01&g=2022-01-01);
 
 - c. **Onze betrokken Minister:**
 
@@ -67,9 +67,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **gegevensverwerking of verwerking van gegevens:** elke handeling of elk geheel van handelingen met betrekking tot gegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
 
-- g. **commissie van toezicht:** de commissie, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2021-07-15&g=2021-07-15);
+- g. **commissie van toezicht:** de commissie, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2022-01-01&g=2022-01-01);
 
-- h. **toetsingscommissie:** de commissie, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.1&artikel=32&z=2021-07-15&g=2021-07-15).
+- h. **toetsingscommissie:** de commissie, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.1&artikel=32&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 2
 
@@ -93,7 +93,7 @@ De diensten en de coördinator verrichten hun taak in gebondenheid aan de wet en
 
 1. Er is een toetsingscommissie inzet bevoegdheden.
 
-2. De toetsingscommissie is belast met het toetsen van de rechtmatigheid van de door Onze betrokken Minister verleende toestemming als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2021-07-15&g=2021-07-15), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2021-07-15&g=2021-07-15), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2021-07-15&g=2021-07-15), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2021-07-15&g=2021-07-15), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2021-07-15&g=2021-07-15), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2021-07-15&g=2021-07-15), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2021-07-15&g=2021-07-15), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2021-07-15&g=2021-07-15) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2021-07-15&g=2021-07-15). Het oordeel van de toetsingscommissie is bindend.
+2. De toetsingscommissie is belast met het toetsen van de rechtmatigheid van de door Onze betrokken Minister verleende toestemming als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2022-01-01&g=2022-01-01), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2022-01-01&g=2022-01-01), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2022-01-01&g=2022-01-01), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2022-01-01&g=2022-01-01), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2022-01-01&g=2022-01-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2022-01-01&g=2022-01-01), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2022-01-01&g=2022-01-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2022-01-01&g=2022-01-01) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2022-01-01&g=2022-01-01). Het oordeel van de toetsingscommissie is bindend.
 
 ##### Artikel 33
 
@@ -103,7 +103,7 @@ De diensten en de coördinator verrichten hun taak in gebondenheid aan de wet en
 
 3. De leden en de plaatsvervangende leden van de toetsingscommissie kunnen niet tevens lid zijn van de commissie van toezicht of van de afdeling klachtbehandeling van de commissie van toezicht.
 
-4. De [artikelen 99, eerste, tweede, vijfde, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2021-07-15&g=2021-07-15), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2021-07-15&g=2021-07-15), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=101&z=2021-07-15&g=2021-07-15), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2021-07-15&g=2021-07-15) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=104&z=2021-07-15&g=2021-07-15) zijn van overeenkomstige toepassing.
+4. De [artikelen 99, eerste, tweede, vijfde, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2022-01-01&g=2022-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2022-01-01&g=2022-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=101&z=2022-01-01&g=2022-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2022-01-01&g=2022-01-01) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=104&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 34
 
@@ -121,7 +121,7 @@ De diensten en de coördinator verrichten hun taak in gebondenheid aan de wet en
 
 2. De vergaderingen van de toetsingscommissie zijn niet openbaar.
 
-3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2021-07-15&g=2021-07-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2021-07-15&g=2021-07-15), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.3&artikel=132&z=2021-07-15&g=2021-07-15) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.4&artikel=133&z=2021-07-15&g=2021-07-15) zijn van overeenkomstige toepassing op de toetsingscommissie.
+3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2022-01-01&g=2022-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2022-01-01&g=2022-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.3&artikel=132&z=2022-01-01&g=2022-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.4&artikel=133&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing op de toetsingscommissie.
 
 #### Paragraaf 3.2.2.2. De toetsing door de toetsingscommissie
 
@@ -161,9 +161,9 @@ De diensten en de coördinator verrichten hun taak in gebondenheid aan de wet en
 
 - a. het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens deze wet en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is gesteld;
 
-- b. het gevraagd en ongevraagd inlichten en adviseren van Onze betrokken Ministers aangaande de door de commissie geconstateerde bevindingen. Desgewenst kan de commissie onze betrokken Ministers vragen deze inlichtingen en adviezen ter kennis van een of beide kamers der Staten-Generaal te brengen, waarbij de werkwijze zoals beschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.2&artikel=113&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing is;
+- b. het gevraagd en ongevraagd inlichten en adviseren van Onze betrokken Ministers aangaande de door de commissie geconstateerde bevindingen. Desgewenst kan de commissie onze betrokken Ministers vragen deze inlichtingen en adviezen ter kennis van een of beide kamers der Staten-Generaal te brengen, waarbij de werkwijze zoals beschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.2&artikel=113&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing is;
 
-- c. het ongevraagd adviseren van Onze betrokken Ministers ter zake van de uitvoering van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2021-07-15&g=2021-07-15);
+- c. het ongevraagd adviseren van Onze betrokken Ministers ter zake van de uitvoering van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2022-01-01&g=2022-01-01);
 
 - d. het toezicht op de toepassing van de bevoegdheid van [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) door Onze Minister van Veiligheid en Justitie, waarbij in het bijzonder aandacht wordt geschonken aan de doelmatigheid en proportionaliteit van de toepassing van deze bevoegdheid.
 
@@ -211,7 +211,7 @@ Aan de leden van de commissie van toezicht en de leden van de afdeling klachtbeh
 
 - b. wanneer de betrokkene uit hoofde van ziekten of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 99, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2021-07-15&g=2021-07-15);
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 99, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2022-01-01&g=2022-01-01);
 
 - d. bij het verlies van Nederlanderschap;
 
@@ -233,7 +233,7 @@ Aan de leden van de commissie van toezicht en de leden van de afdeling klachtbeh
 
 - c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief worden gesteld, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 100, onder b en h](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2021-07-15&g=2021-07-15), zouden kunnen leiden.
+2. Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief worden gesteld, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 100, onder b en h](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2022-01-01&g=2022-01-01), zouden kunnen leiden.
 
 3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. Door Onze betrokken Ministers gezamenlijk kan de non-activiteit telkens met ten hoogste drie maanden worden verlengd. De non-activiteit wordt door Onze betrokken Ministers gezamenlijk beëindigd zodra de grond voor non-activiteit is vervallen.
 
@@ -255,7 +255,7 @@ Bij algemene maatregel van bestuur worden de bezoldiging, de aanspraken in geval
 
 ##### Artikel 104
 
-Op de leden van de commissie van toezicht, de leden van de afdeling klachtbehandeling alsmede de tot het secretariaat behorende personen is [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing, met dien verstande dat de ontheffing, bedoeld in het tweede lid, wordt verleend door Onze Minister-President, Minister van Algemene Zaken.
+Op de leden van de commissie van toezicht, de leden van de afdeling klachtbehandeling alsmede de tot het secretariaat behorende personen is [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat de ontheffing, bedoeld in het tweede lid, wordt verleend door Onze Minister-President, Minister van Algemene Zaken.
 
 ##### Artikel 105
 
@@ -279,7 +279,7 @@ De vergaderingen van de commissie van toezicht en haar afdelingen zijn niet open
 
 ##### Artikel 143
 
-1. Overtreding van de [artikelen 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2021-07-15&g=2021-07-15), [45, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2021-07-15&g=2021-07-15), [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2021-07-15&g=2021-07-15), [53, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2021-07-15&g=2021-07-15), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2021-07-15&g=2021-07-15), [55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2021-07-15&g=2021-07-15), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2021-07-15&g=2021-07-15), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2021-07-15&g=2021-07-15), is strafbaar.
+1. Overtreding van de [artikelen 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2022-01-01&g=2022-01-01), [45, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2022-01-01&g=2022-01-01), [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2022-01-01&g=2022-01-01), [53, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2022-01-01&g=2022-01-01), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2022-01-01&g=2022-01-01), [55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2022-01-01&g=2022-01-01), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2022-01-01&g=2022-01-01), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2022-01-01&g=2022-01-01), is strafbaar.
 
 2. Overtredingen van de in het eerste lid strafbaar gestelde feiten zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover zij geen misdrijven zijn, zijn zij overtredingen.
 
@@ -291,13 +291,13 @@ De vergaderingen van de commissie van toezicht en haar afdelingen zijn niet open
 
 ##### Artikel 144
 
-Op gegevens verwerkt door of ten behoeve van inlichtingen- en veiligheidsdiensten die zijn opgeheven, zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2021-07-15&g=2021-07-15), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2021-07-15&g=2021-07-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2021-07-15&g=2021-07-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2021-07-15&g=2021-07-15), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2021-07-15&g=2021-07-15), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2021-07-15&g=2021-07-15) alsmede de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2021-07-15&g=2021-07-15), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&z=2021-07-15&g=2021-07-15) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing, met dien verstande dat de desbetreffende bevoegdheden en verplichtingen toekomen aan Onze Minister bij wie de desbetreffende gegevens berusten.
+Op gegevens verwerkt door of ten behoeve van inlichtingen- en veiligheidsdiensten die zijn opgeheven, zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2022-01-01&g=2022-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2022-01-01&g=2022-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2022-01-01&g=2022-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2022-01-01&g=2022-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2022-01-01&g=2022-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2022-01-01&g=2022-01-01) alsmede de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2022-01-01&g=2022-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&z=2022-01-01&g=2022-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing, met dien verstande dat de desbetreffende bevoegdheden en verplichtingen toekomen aan Onze Minister bij wie de desbetreffende gegevens berusten.
 
 ##### Artikel 145
 
-1. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-07-15&g=2021-07-15), [artikel 8, tweede lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), [artikel 10, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2021-07-15&g=2021-07-15), op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2021-07-15&g=2021-07-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&z=2021-07-15&g=2021-07-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&z=2021-07-15&g=2021-07-15) in het kader van de uitvoering van de taken, bedoeld in artikel 8, tweede lid, onder a, c, d, e en f, en artikel 10, tweede lid, onder a, c, d, e, f en g, alsmede [artikel 136, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2021-07-15&g=2021-07-15).
+1. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2022-01-01&g=2022-01-01), [artikel 8, tweede lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), [artikel 10, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2022-01-01&g=2022-01-01), op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2022-01-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&z=2022-01-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&z=2022-01-01&g=2022-01-01) in het kader van de uitvoering van de taken, bedoeld in artikel 8, tweede lid, onder a, c, d, e en f, en artikel 10, tweede lid, onder a, c, d, e, f en g, alsmede [artikel 136, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2022-01-01&g=2022-01-01).
 
-2. Het eerste lid is niet van toepassing op een besluit op grond van de [artikelen 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2021-07-15&g=2021-07-15), [53, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2021-07-15&g=2021-07-15), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2021-07-15&g=2021-07-15), [55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2021-07-15&g=2021-07-15) of [56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2021-07-15&g=2021-07-15).
+2. Het eerste lid is niet van toepassing op een besluit op grond van de [artikelen 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2022-01-01&g=2022-01-01), [53, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2022-01-01&g=2022-01-01), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2022-01-01&g=2022-01-01), [55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2022-01-01&g=2022-01-01) of [56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 146
 
@@ -377,7 +377,7 @@ Wijzigt de Wijzigingswet Telecommunicatiewet, enz.(aanpassing bewaarplicht telec
 
 ##### Artikel 165
 
-[Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2021-07-15&g=2021-07-15) is niet van toepassing met betrekking tot door de diensten uitgeoefende bijzondere bevoegdheden als bedoeld in het eerste lid van dat artikel die hebben plaatsgevonden voor 29 mei 2002.
+[Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2022-01-01&g=2022-01-01) is niet van toepassing met betrekking tot door de diensten uitgeoefende bijzondere bevoegdheden als bedoeld in het eerste lid van dat artikel die hebben plaatsgevonden voor 29 mei 2002.
 
 ##### Artikel 166
 
@@ -397,19 +397,19 @@ De [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid
 
 Na de inwerkingtreding van deze wet berust:
 
-- 1. het **Besluit aanwijzing onderwerpen ex artikel 6, tweede lid, onder d, en 7, tweede lid, onder e, Wet op de inlichtingen en veiligheidsdiensten 2002** op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-07-15&g=2021-07-15), van deze wet;
+- 1. het **Besluit aanwijzing onderwerpen ex artikel 6, tweede lid, onder d, en 7, tweede lid, onder e, Wet op de inlichtingen en veiligheidsdiensten 2002** op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2022-01-01&g=2022-01-01), van deze wet;
 
-- 2. de **Regeling aanwijzing risicolanden** op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2021-07-15&g=2021-07-15) van deze wet;
+- 2. de **Regeling aanwijzing risicolanden** op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2022-01-01&g=2022-01-01) van deze wet;
 
-- 3. het **Besluit ex artikel 28 WIV 2002** op [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2021-07-15&g=2021-07-15) van deze wet;
+- 3. het **Besluit ex artikel 28 WIV 2002** op [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2022-01-01&g=2022-01-01) van deze wet;
 
-- 4. het **Aanwijzingsbesluit artikel 39 WIV 2002** op [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=67&z=2021-07-15&g=2021-07-15) van deze wet;
+- 4. het **Aanwijzingsbesluit artikel 39 WIV 2002** op [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=67&z=2022-01-01&g=2022-01-01) van deze wet;
 
-- 5. het **Besluit van 22 juli 2002 tot vaststelling van de rechtspositie van de voorzitter en leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten** (Stb. 2002, 454) op [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2021-07-15&g=2021-07-15) van deze wet;
+- 5. het **Besluit van 22 juli 2002 tot vaststelling van de rechtspositie van de voorzitter en leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten** (Stb. 2002, 454) op [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2022-01-01&g=2022-01-01) van deze wet;
 
-- 6. het **Besluit van 14 mei 2003, houdende regels met betrekking tot benoeming, schorsing en ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten behorende personen** (Stb. 2003, 258), op [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2021-07-15&g=2021-07-15) van deze wet;
+- 6. het **Besluit van 14 mei 2003, houdende regels met betrekking tot benoeming, schorsing en ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten behorende personen** (Stb. 2003, 258), op [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2022-01-01&g=2022-01-01) van deze wet;
 
-- 7. de **Aanwijzingsregeling Koninklijke marechaussee ex artikel 60, tweede lid, WIV 2002** op [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15) van deze wet.
+- 7. de **Aanwijzingsregeling Koninklijke marechaussee ex artikel 60, tweede lid, WIV 2002** op [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01) van deze wet.
 
 ##### Artikel 170
 
@@ -433,7 +433,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Onze betrokken Ministers plegen regelmatig onderling overleg over hun beleid betreffende de diensten en de coördinatie van dat beleid.
 
-2. Voor zover het overleg, bedoeld in het eerste lid, betrekking heeft op de wijze waarop door de diensten invulling wordt gegeven aan de taken als bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), en [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), worden bij het overleg ook Onze Ministers van Buitenlandse Zaken en van Veiligheid en Justitie betrokken.
+2. Voor zover het overleg, bedoeld in het eerste lid, betrekking heeft op de wijze waarop door de diensten invulling wordt gegeven aan de taken als bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), en [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), worden bij het overleg ook Onze Ministers van Buitenlandse Zaken en van Veiligheid en Justitie betrokken.
 
 3. Andere dan Onze betrokken Ministers worden voor deelname aan het overleg uitgenodigd, indien dit, gelet op de door hen te behartigen belangen, noodzakelijk is.
 
@@ -445,7 +445,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De coördinator heeft tot taak om overeenkomstig de aanwijzingen van Onze Minister-President, Minister van Algemene Zaken, in overeenstemming met Onze overige betrokken Ministers:
 
-- a. het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2021-07-15&g=2021-07-15) bedoelde overleg voor te bereiden;
+- a. het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-01-01&g=2022-01-01) bedoelde overleg voor te bereiden;
 
 - b. de uitvoering van de taken van de diensten te coördineren.
 
@@ -453,7 +453,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. De coördinator beschikt ter ondersteuning van zijn werkzaamheden over een secretariaat.
 
-6. Op de verwerking van gegevens door de coördinator is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2021-07-15&g=2021-07-15) met uitzondering van [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), alsmede [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing.
+6. Op de verwerking van gegevens door de coördinator is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2022-01-01&g=2022-01-01) met uitzondering van [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), alsmede [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -465,7 +465,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De commissie heeft in ieder geval tot taak:
 
-- a. het jaarlijks in kaart brengen van de inlichtingenbehoefte van Onze Ministers, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2021-07-15&g=2021-07-15), in relatie tot de aan de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk Militaire Inlichtingen- en Veiligheidsdienst opgedragen taken als bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15) alsmede het wegen en prioriteren van de vastgestelde behoefte aan inlichtingen;
+- a. het jaarlijks in kaart brengen van de inlichtingenbehoefte van Onze Ministers, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-01-01&g=2022-01-01), in relatie tot de aan de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk Militaire Inlichtingen- en Veiligheidsdienst opgedragen taken als bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01) alsmede het wegen en prioriteren van de vastgestelde behoefte aan inlichtingen;
 
 - b. het ten behoeve van besluitvorming door Onze betrokken Ministers gezamenlijk op basis van de inventarisatie, bedoeld onder a, opstellen van een voorstel voor een geïntegreerde aanwijzing, welke bestaat uit:
 
@@ -479,15 +479,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6
 
-1. Onze betrokken Ministers gezamenlijk stellen de geïntegreerde aanwijzing voor de uitvoering van de in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15) bedoelde taken vast. De geïntegreerde aanwijzing heeft een looptijd van vier jaren.
+1. Onze betrokken Ministers gezamenlijk stellen de geïntegreerde aanwijzing voor de uitvoering van de in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01) bedoelde taken vast. De geïntegreerde aanwijzing heeft een looptijd van vier jaren.
 
-2. Onze betrokken Ministers bezien jaarlijks aan de hand van voorstellen van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-07-15&g=2021-07-15) of de geïntegreerde aanwijzing aanpassing behoeft.
+2. Onze betrokken Ministers bezien jaarlijks aan de hand van voorstellen van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01) of de geïntegreerde aanwijzing aanpassing behoeft.
 
 3. De vaststelling van de geïntegreerde aanwijzing alsmede daarop aan te brengen aanpassingen geschiedt niet dan nadat ter zake overleg is gevoerd met Onze Ministers van Buitenlandse Zaken en van Veiligheid en Justitie.
 
 ##### Artikel 7
 
-De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-07-15&g=2021-07-15), verlenen de coördinator medewerking voor de uitoefening van zijn taak. Zij verschaffen hem daartoe alle nodige inlichtingen.
+De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2022-01-01&g=2022-01-01), verlenen de coördinator medewerking voor de uitoefening van zijn taak. Zij verschaffen hem daartoe alle nodige inlichtingen.
 
 #### Paragraaf 2.2. De Algemene Inlichtingen- en Veiligheidsdienst
 
@@ -511,7 +511,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 ##### Artikel 9
 
-1. De dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
+1. De dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
 
 - a. de personen, bedoeld in de [artikelen 4, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), en [42, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42);
 
@@ -525,7 +525,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 - f. het openbaar ministerie.
 
-2. De Algemene Inlichtingen- en Veiligheidsdienst is slechts bevoegd gegevens te verzamelen ten behoeve van het opstellen van de dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), indien de gegevens die op grond van het eerste lid zijn verstrekt dat noodzakelijk maken.
+2. De Algemene Inlichtingen- en Veiligheidsdienst is slechts bevoegd gegevens te verzamelen ten behoeve van het opstellen van de dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), indien de gegevens die op grond van het eerste lid zijn verstrekt dat noodzakelijk maken.
 
 #### Paragraaf 2.3. De Militaire Inlichtingen- en Veiligheidsdienst
 
@@ -561,7 +561,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 ##### Artikel 11
 
-1. De dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
+1. De dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), worden opgesteld naar aanleiding van gegevens die worden verstrekt door:
 
 - a. de personen, bedoeld in de [artikelen 4, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), en [42, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42);
 
@@ -575,7 +575,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 - f. het openbaar ministerie.
 
-2. De Militaire Inlichtingen- en Veiligheidsdienst is slechts bevoegd gegevens te verzamelen ten behoeve van het opstellen van de dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), indien de gegevens die op grond van het eerste lid zijn verstrekt dat noodzakelijk maken.
+2. De Militaire Inlichtingen- en Veiligheidsdienst is slechts bevoegd gegevens te verzamelen ten behoeve van het opstellen van de dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), indien de gegevens die op grond van het eerste lid zijn verstrekt dat noodzakelijk maken.
 
 #### Paragraaf 2.4. Verslaglegging omtrent de taakuitvoering door de diensten
 
@@ -607,7 +607,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 1. De ambtenaren van de diensten bezitten geen bevoegdheid tot het opsporen van strafbare feiten.
 
-2. De in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15) en [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15) bedoelde ambtenaren oefenen bij het verrichten van de daar bedoelde werkzaamheden geen bevoegdheden tot het opsporen van strafbare feiten uit.
+2. De in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01) en [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01) bedoelde ambtenaren oefenen bij het verrichten van de daar bedoelde werkzaamheden geen bevoegdheden tot het opsporen van strafbare feiten uit.
 
 ##### Artikel 14
 
@@ -619,17 +619,17 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 2. Onze betrokken Minister kan ontheffing van het in het eerste lid bedoelde verbod verlenen, indien dringende persoonlijke of andere belangen van de betrokken ambtenaar dat vereisen en de veiligheid of andere gewichtige belangen van de staat zich daartegen niet verzetten.
 
-3. Dit artikel is van overeenkomstige toepassing ten aanzien van de coördinator, de aan hem ondergeschikte ambtenaren en de krachtens [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15), en [artikel 92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15), aangewezen ambtenaren.
+3. Dit artikel is van overeenkomstige toepassing ten aanzien van de coördinator, de aan hem ondergeschikte ambtenaren en de krachtens [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01), en [artikel 92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01), aangewezen ambtenaren.
 
 ##### Artikel 15
 
 1. De hoofden van de diensten dragen zorg voor het treffen van de noodzakelijke voorzieningen van personele, organisatorische en technische aard ter beveiliging van de ambtenaren van de diensten.
 
-2. Aan de ambtenaren, bedoeld in het eerste lid, kan met het oog op hun persoonlijke veiligheid door het hoofd van de desbetreffende dienst worden toegestaan zich in het kader van hun taakuitvoering te bedienen van een aangenomen identiteit en hoedanigheid. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2021-07-15&g=2021-07-15), is van overeenkomstige toepassing.
+2. Aan de ambtenaren, bedoeld in het eerste lid, kan met het oog op hun persoonlijke veiligheid door het hoofd van de desbetreffende dienst worden toegestaan zich in het kader van hun taakuitvoering te bedienen van een aangenomen identiteit en hoedanigheid. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 3. Van de toepassing van dit artikel wordt aantekening gehouden.
 
-4. Dit artikel is van overeenkomstige toepassing ten aanzien van de krachtens [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15), en [92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15), aangewezen ambtenaren.
+4. Dit artikel is van overeenkomstige toepassing ten aanzien van de krachtens [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01), en [92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01), aangewezen ambtenaren.
 
 #### Paragraaf 2.6. Nadere regels met betrekking tot organisatie, werkwijze en beheer van de diensten
 
@@ -665,9 +665,9 @@ De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de 
 
 - f. die werkzaam zijn of zijn geweest voor een dienst;
 
-- g. omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15);
+- g. omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigings- en risicoanalyses, bedoeld in [artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01);
 
-- h. omtrent wie dat noodzakelijk is in het kader van het doen van een mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15).
+- h. omtrent wie dat noodzakelijk is in het kader van het doen van een mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01).
 
 2. De verwerking van persoonsgegevens door de Militaire Inlichtingen- en Veiligheidsdienst kan slechts betrekking hebben op personen:
 
@@ -683,13 +683,13 @@ De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de 
 
 - f. die werkzaam zijn of zijn geweest voor een dienst;
 
-- g. omtrent wie dat noodzakelijk is in het kader van een onderzoek als bedoeld in [artikel 10, tweede lid, onderdeel a, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15);
+- g. omtrent wie dat noodzakelijk is in het kader van een onderzoek als bedoeld in [artikel 10, tweede lid, onderdeel a, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01);
 
-- h. omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15);
+- h. omtrent wie dat noodzakelijk is in het kader van het opstellen van de dreigingsanalyses, bedoeld in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01);
 
 - i. omtrent wie dat noodzakelijk is in het kader van het opstellen van een analyse door de Militaire Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van Defensie, van potentiële dreigingen tegen een bij de krijgsmacht werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object, welke niet ingevolge de [artikelen 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), en [42, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42), onderscheidenlijk [artikel 16 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=16) is aangewezen;
 
-- j. omtrent wie dat noodzakelijk is in het kader van het doen van een mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15).
+- j. omtrent wie dat noodzakelijk is in het kader van het doen van een mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01).
 
 3. De verwerking van persoonsgegevens wegens iemands godsdienst of levensovertuiging, ras, lidmaatschap van een vakvereniging, gezondheid en seksuele leven vindt niet plaats.
 
@@ -705,7 +705,7 @@ De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de 
 
 3. De verwijderde gegevens worden vernietigd, tenzij wettelijke regels omtrent bewaring daaraan in de weg staan.
 
-4. Indien met betrekking tot de voor vernietiging in aanmerking komende gegevens een aanvraag tot kennisneming als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) of [80](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.3&artikel=80&z=2021-07-15&g=2021-07-15) is gedaan, wordt de vernietiging van de desbetreffende gegevens opgeschort tot ten minste het moment waarop het besluit op de aanvraag onherroepelijk is geworden. Voor zover de aanvraag om kennisneming is ingewilligd, worden de desbetreffende gegevens niet eerder vernietigd dan nadat de betrokkene van de desbetreffende gegevens overeenkomstig artikel 76, derde lid, onderscheidenlijk artikel 80, tweede lid, kennis heeft kunnen nemen.
+4. Indien met betrekking tot de voor vernietiging in aanmerking komende gegevens een aanvraag tot kennisneming als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) of [80](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.3&artikel=80&z=2022-01-01&g=2022-01-01) is gedaan, wordt de vernietiging van de desbetreffende gegevens opgeschort tot ten minste het moment waarop het besluit op de aanvraag onherroepelijk is geworden. Voor zover de aanvraag om kennisneming is ingewilligd, worden de desbetreffende gegevens niet eerder vernietigd dan nadat de betrokkene van de desbetreffende gegevens overeenkomstig artikel 76, derde lid, onderscheidenlijk artikel 80, tweede lid, kennis heeft kunnen nemen.
 
 5. Indien de voor vernietiging in aanmerking komende gegevens van belang zijn:
 
@@ -721,11 +721,11 @@ De diensten zijn bevoegd tot het verwerken van gegevens met inachtneming van de 
 
 ##### Artikel 22
 
-1. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2021-07-15&g=2021-07-15), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2021-07-15&g=2021-07-15) en [19, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2021-07-15&g=2021-07-15), zijn tevens van toepassing op de verwerking van gegevens ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15), en de artikelen 17, 18 en 19, tweede tot en met vijfde lid, zijn tevens van toepassing op de verwerking van gegevens ten behoeve van de Militaire Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15).
+1. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2022-01-01&g=2022-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2022-01-01&g=2022-01-01) en [19, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2022-01-01&g=2022-01-01), zijn tevens van toepassing op de verwerking van gegevens ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01), en de artikelen 17, 18 en 19, tweede tot en met vijfde lid, zijn tevens van toepassing op de verwerking van gegevens ten behoeve van de Militaire Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01).
 
 2. De verwerking van gegevens, bedoeld in het eerste lid, ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk de Militaire Inlichtingen- en Veiligheidsdienst, blijft strikt gescheiden van de verwerking van gegevens door de desbetreffende ambtenaren ten behoeve van andere doeleinden. Het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst kan daaromtrent nadere aanwijzingen geven.
 
-3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk Onze Minister van Defensie draagt zorg voor archiefbescheiden die verband houden met de gegevensverwerking ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk de Militaire Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15) onderscheidenlijk [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15), voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.
+3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk Onze Minister van Defensie draagt zorg voor archiefbescheiden die verband houden met de gegevensverwerking ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk de Militaire Inlichtingen- en Veiligheidsdienst door de ambtenaren, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01) onderscheidenlijk [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01), voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.
 
 ##### Artikel 23
 
@@ -761,9 +761,9 @@ De hoofden van de diensten dragen zorg voor:
 
 - b. uit informatiebronnen waarvoor aan de dienst een recht op kennisneming van de aldaar berustende gegevens is verleend;
 
-- c. via raadpleging van informanten als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2021-07-15&g=2021-07-15);
+- c. via raadpleging van informanten als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2022-01-01&g=2022-01-01);
 
-- d. met uitoefening van bijzondere bevoegdheden als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15);
+- d. met uitoefening van bijzondere bevoegdheden als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01);
 
 - e. in het kader van de samenwerking tussen inlichtingen- en veiligheidsdiensten en met andere instanties.
 
@@ -783,17 +783,17 @@ De hoofden van de diensten dragen zorg voor:
 
 ##### Artikel 27
 
-1. Gegevens verkregen door uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) worden zo spoedig mogelijk op hun relevantie voor het onderzoek waarvoor ze zijn verworven onderzocht. Gegevens waarvan is vastgesteld dat deze niet relevant zijn voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), worden terstond vernietigd. Gegevens die, tenzij bij de wet anders is bepaald, na een periode van een jaar niet op hun relevantie voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in artikel 8, tweede lid, onder a en d, onderscheidenlijk artikel 10, tweede lid, onder a, c en e, zijn onderzocht, worden terstond vernietigd.
+1. Gegevens verkregen door uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) worden zo spoedig mogelijk op hun relevantie voor het onderzoek waarvoor ze zijn verworven onderzocht. Gegevens waarvan is vastgesteld dat deze niet relevant zijn voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), onderscheidenlijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), worden terstond vernietigd. Gegevens die, tenzij bij de wet anders is bepaald, na een periode van een jaar niet op hun relevantie voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in artikel 8, tweede lid, onder a en d, onderscheidenlijk artikel 10, tweede lid, onder a, c en e, zijn onderzocht, worden terstond vernietigd.
 
-2. Gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt en verkregen zijn door de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) in andere gevallen dan bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=30&z=2021-07-15&g=2021-07-15), worden terstond vernietigd, tenzij de verdere verwerking van de gegevens noodzakelijk is voor het onderzoek in het kader waarvan de gegevens zijn verworven en de rechtbank Den Haag daartoe toestemming heeft verleend. Ingeval de rechtbank Den Haag de toestemming als bedoeld in de vorige volzin niet verleent, worden de gegevens terstond vernietigd. Van de vernietiging wordt een verslag opgesteld.
+2. Gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt en verkregen zijn door de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) in andere gevallen dan bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=30&z=2022-01-01&g=2022-01-01), worden terstond vernietigd, tenzij de verdere verwerking van de gegevens noodzakelijk is voor het onderzoek in het kader waarvan de gegevens zijn verworven en de rechtbank Den Haag daartoe toestemming heeft verleend. Ingeval de rechtbank Den Haag de toestemming als bedoeld in de vorige volzin niet verleent, worden de gegevens terstond vernietigd. Van de vernietiging wordt een verslag opgesteld.
 
 3. Het hoofd van de dienst kan de termijn van een jaar als bedoeld in het eerste lid, derde volzin, eenmalig met ten hoogste zes maanden verlengen met betrekking tot een daarbij aangegeven categorie van gegevens die met de uitoefening van een bevoegdheid voor het desbetreffende onderzoek zijn verkregen.
 
 ##### Artikel 28
 
-1. Een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) mag slechts worden uitgeoefend, voor zover dat noodzakelijk is voor de goede uitvoering van de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), en de taken, bedoeld in [artikel 10, tweede lid, onder a, c, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15).
+1. Een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) mag slechts worden uitgeoefend, voor zover dat noodzakelijk is voor de goede uitvoering van de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), en de taken, bedoeld in [artikel 10, tweede lid, onder a, c, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01).
 
-2. Een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) kan, in afwijking van het bepaalde in het eerste lid, voorts worden uitgeoefend ter ondersteuning van een goede taakuitvoering van de diensten, voor zover dat noodzakelijk is om:
+2. Een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) kan, in afwijking van het bepaalde in het eerste lid, voorts worden uitgeoefend ter ondersteuning van een goede taakuitvoering van de diensten, voor zover dat noodzakelijk is om:
 
 - a. te beoordelen of het noodzakelijk is bijzondere veiligheidsmaatregelen te treffen voor een persoon die werkzaam is voor of ten behoeve van de dienst in verband met de vervulling door deze persoon van een aan hem op te dragen dan wel opgedragen taak;
 
@@ -801,7 +801,7 @@ De hoofden van de diensten dragen zorg voor:
 
 ##### Artikel 29
 
-1. De toestemming voor de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), wordt, voor zover bij of krachtens de wet niet anders is bepaald, verleend voor een periode van ten hoogste drie maanden en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
+1. De toestemming voor de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), wordt, voor zover bij of krachtens de wet niet anders is bepaald, verleend voor een periode van ten hoogste drie maanden en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
 
 2. Een verzoek om toestemming, alsmede een verzoek om verlenging van een toestemming, bevat ten minste:
 
@@ -827,11 +827,11 @@ De hoofden van de diensten dragen zorg voor:
 
 ##### Artikel 30
 
-1. De toestemming voor de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) in de gevallen, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=28&z=2021-07-15&g=2021-07-15), wordt verleend door Onze betrokken Minister op een daartoe strekkend schriftelijk verzoek van het hoofd van de betrokken dienst. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens op een daartoe strekkend schriftelijk verzoek worden verlengd voor eenzelfde periode. Van een verleende toestemming wordt de commissie van toezicht terstond op de hoogte gesteld.
+1. De toestemming voor de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) in de gevallen, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=28&z=2022-01-01&g=2022-01-01), wordt verleend door Onze betrokken Minister op een daartoe strekkend schriftelijk verzoek van het hoofd van de betrokken dienst. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens op een daartoe strekkend schriftelijk verzoek worden verlengd voor eenzelfde periode. Van een verleende toestemming wordt de commissie van toezicht terstond op de hoogte gesteld.
 
-2. De uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) jegens een journalist, waarbij de uitoefening kan leiden tot verwerving van gegevens inzake de bron van de journalist, is slechts toegestaan, indien de rechtbank Den Haag daartoe, op verzoek van Onze betrokken Minister, toestemming heeft verleend. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens worden verlengd voor eenzelfde periode. Onder bron als bedoeld in de eerste volzin wordt verstaan: personen die gegevens ter openbaarmaking aan een journalist hebben verstrekt.
+2. De uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) jegens een journalist, waarbij de uitoefening kan leiden tot verwerving van gegevens inzake de bron van de journalist, is slechts toegestaan, indien de rechtbank Den Haag daartoe, op verzoek van Onze betrokken Minister, toestemming heeft verleend. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens worden verlengd voor eenzelfde periode. Onder bron als bedoeld in de eerste volzin wordt verstaan: personen die gegevens ter openbaarmaking aan een journalist hebben verstrekt.
 
-3. De uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15) jegens een advocaat, waarbij de uitoefening kan leiden tot verwerving van gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt, is slechts toegestaan, indien de rechtbank te Den Haag daartoe, op een daartoe strekkend verzoek van Onze betrokken Minister, toestemming heeft verleend. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
+3. De uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01) jegens een advocaat, waarbij de uitoefening kan leiden tot verwerving van gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt, is slechts toegestaan, indien de rechtbank te Den Haag daartoe, op een daartoe strekkend verzoek van Onze betrokken Minister, toestemming heeft verleend. De toestemming wordt verleend voor een periode van ten hoogste vier weken en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
 
 ##### Artikel 31
 
@@ -845,7 +845,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 ##### Artikel 36
 
-1. Onze betrokken Minister legt een door hem verleende toestemming voor de uitoefening van een bevoegdheid als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2021-07-15&g=2021-07-15), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2021-07-15&g=2021-07-15), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2021-07-15&g=2021-07-15), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2021-07-15&g=2021-07-15), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2021-07-15&g=2021-07-15), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2021-07-15&g=2021-07-15), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2021-07-15&g=2021-07-15), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2021-07-15&g=2021-07-15) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2021-07-15&g=2021-07-15), ter toetsing voor aan de toetsingscommissie. Onze betrokken Minister verstrekt de toetsingscommissie daartoe het aan de toestemming ten grondslag liggende verzoek alsmede diens besluit. Onze betrokken Ministers verstrekken desgevraagd aan de toetsingscommissie alle inlichtingen en verlenen haar alle overige medewerking die zij voor een goede uitoefening van haar taak noodzakelijk acht.
+1. Onze betrokken Minister legt een door hem verleende toestemming voor de uitoefening van een bevoegdheid als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2022-01-01&g=2022-01-01), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2022-01-01&g=2022-01-01), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2022-01-01&g=2022-01-01), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2022-01-01&g=2022-01-01), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2022-01-01&g=2022-01-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2022-01-01&g=2022-01-01), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2022-01-01&g=2022-01-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2022-01-01&g=2022-01-01) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2022-01-01&g=2022-01-01), ter toetsing voor aan de toetsingscommissie. Onze betrokken Minister verstrekt de toetsingscommissie daartoe het aan de toestemming ten grondslag liggende verzoek alsmede diens besluit. Onze betrokken Ministers verstrekken desgevraagd aan de toetsingscommissie alle inlichtingen en verlenen haar alle overige medewerking die zij voor een goede uitoefening van haar taak noodzakelijk acht.
 
 2. De uitoefening van de desbetreffende bevoegdheid vangt niet eerder aan dan nadat de toetsingscommissie ter zake haar oordeel heeft uitgebracht dat deze rechtmatig is verleend. Het oordeel wordt zo spoedig mogelijk uitgebracht.
 
@@ -853,7 +853,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 ##### Artikel 37
 
-1. Indien onverwijlde spoed toepassing van het bepaalde in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.2&artikel=36&z=2021-07-15&g=2021-07-15), niet toelaat, kan reeds tot de uitoefening van een bevoegdheid waarvoor Onze betrokken Minister toestemming heeft verleend worden overgegaan. Onze betrokken Minister legt de toestemming onverwijld voor aan de toetsingscommissie.
+1. Indien onverwijlde spoed toepassing van het bepaalde in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.2&artikel=36&z=2022-01-01&g=2022-01-01), niet toelaat, kan reeds tot de uitoefening van een bevoegdheid waarvoor Onze betrokken Minister toestemming heeft verleend worden overgegaan. Onze betrokken Minister legt de toestemming onverwijld voor aan de toetsingscommissie.
 
 2. Bij het voorleggen van de toestemming aan de toetsingscommissie wordt de toetsingscommissie omtrent de toepassing van het bepaalde in het eerste lid, eerste volzin, met redenen omkleed geïnformeerd. De toetsingscommissie betrekt de toepassing van het eerste lid, eerste volzin, in haar beoordeling.
 
@@ -867,7 +867,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 1. De diensten zijn bevoegd tot het al dan niet met gebruikmaking van een technisch hulpmiddel stelselmatig verzamelen van gegevens omtrent personen uit voor een ieder toegankelijke informatiebronnen.
 
-2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan, indien Onze betrokken Minister of namens deze het hoofd van een dienst daarvoor toestemming heeft verleend. Het hoofd van een dienst kan aan hem ondergeschikte ambtenaren bij schriftelijk besluit aanwijzen die de toestemming, bedoeld in de eerste volzin, namens hem verlenen. Onze betrokken Minister wordt een afschrift van het besluit, bedoeld in de tweede volzin, gezonden. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15) is van overeenkomstige toepassing.
+2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan, indien Onze betrokken Minister of namens deze het hoofd van een dienst daarvoor toestemming heeft verleend. Het hoofd van een dienst kan aan hem ondergeschikte ambtenaren bij schriftelijk besluit aanwijzen die de toestemming, bedoeld in de eerste volzin, namens hem verlenen. Onze betrokken Minister wordt een afschrift van het besluit, bedoeld in de tweede volzin, gezonden. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
 #### Paragraaf 3.2.4. Raadpleging van informanten
 
@@ -901,7 +901,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 3. De toepassing van observatie- en registratiemiddelen, bedoeld in het eerste lid, onder a, binnen woningen is slechts toegestaan, indien daarvoor door Onze betrokken Minister schriftelijk toestemming is verleend aan het hoofd van de dienst.
 
-4. Het verzoek om toestemming als bedoeld in het derde lid wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), is bepaald:
+4. Het verzoek om toestemming als bedoeld in het derde lid wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), is bepaald:
 
 - a. het adres van de woning waarbinnen het middel dient te worden toegepast;
 
@@ -951,7 +951,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 4. Van de bevoegdheid, bedoeld in het eerste lid, onder a, mag, voor zover het woningen betreft, slechts gebruik worden gemaakt, indien daarvoor door Onze betrokken Minister schriftelijk toestemming is verleend aan het hoofd van de dienst.
 
-5. Het verzoek om toestemming als bedoeld in het vierde lid wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), is bepaald, het adres van de woning die dient te worden doorzocht.
+5. Het verzoek om toestemming als bedoeld in het vierde lid wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), is bepaald, het adres van de woning die dient te worden doorzocht.
 
 ##### Artikel 43
 
@@ -965,23 +965,23 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 2. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek schriftelijk toestemming is verleend aan het hoofd van de dienst.
 
-3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. een zo nauwkeurig mogelijke aanduiding van de persoon ten aanzien van wie de uitoefening van de bevoegdheid wordt verlangd, voor zover deze bekend is;
 
 - b. een nauwkeurige omschrijving van het celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, waaraan het onderzoek wordt verricht alsmede de wijze waarop dit is verkregen.
 
-4. Het in het eerste lid bedoelde DNA-onderzoek wordt binnen drie maanden nadat het celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, is vergaard, uitgevoerd. Indien binnen deze termijn geen DNA-onderzoek kan plaatsvinden wordt het celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, terstond vernietigd, tenzij Onze betrokken Minister de termijn, bedoeld in de eerste volzin, op een daartoe strekkend verzoek van het hoofd van de dienst voor een periode van ten hoogste drie maanden heeft verlengd. In aanvulling op het bepaalde in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), wordt in het verzoek de reden aangegeven waarom het DNA-onderzoek niet binnen de termijn van drie maanden heeft kunnen plaatsvinden.
+4. Het in het eerste lid bedoelde DNA-onderzoek wordt binnen drie maanden nadat het celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, is vergaard, uitgevoerd. Indien binnen deze termijn geen DNA-onderzoek kan plaatsvinden wordt het celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, terstond vernietigd, tenzij Onze betrokken Minister de termijn, bedoeld in de eerste volzin, op een daartoe strekkend verzoek van het hoofd van de dienst voor een periode van ten hoogste drie maanden heeft verlengd. In aanvulling op het bepaalde in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), wordt in het verzoek de reden aangegeven waarom het DNA-onderzoek niet binnen de termijn van drie maanden heeft kunnen plaatsvinden.
 
-5. Het vergaarde celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, wordt binnen drie maanden na het DNA-onderzoek vernietigd. Van vernietiging van het voorwerp wordt afgezien, indien dit overeenkomstig het bepaalde in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2021-07-15&g=2021-07-15), kan worden teruggeplaatst. Van de vernietiging wordt een verslag gemaakt.
+5. Het vergaarde celmateriaal, waaronder begrepen het voorwerp met daarop mogelijk celmateriaal, wordt binnen drie maanden na het DNA-onderzoek vernietigd. Van vernietiging van het voorwerp wordt afgezien, indien dit overeenkomstig het bepaalde in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2022-01-01&g=2022-01-01), kan worden teruggeplaatst. Van de vernietiging wordt een verslag gemaakt.
 
-6. De resultaten van een DNA-onderzoek mogen uitsluitend worden verwerkt voor het onderzoek ten behoeve waarvan de toestemming is verleend. Elk verdere verwerking is slechts toegestaan, indien daarvoor toestemming is verkregen van Onze betrokken Minister. Het verzoek om toestemming wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), is bepaald:
+6. De resultaten van een DNA-onderzoek mogen uitsluitend worden verwerkt voor het onderzoek ten behoeve waarvan de toestemming is verleend. Elk verdere verwerking is slechts toegestaan, indien daarvoor toestemming is verkregen van Onze betrokken Minister. Het verzoek om toestemming wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), is bepaald:
 
 - a. een nauwkeurige omschrijving van de beoogde verdere verwerking;
 
 - b. voor zover het de verstrekking van de resultaten van het DNA-onderzoek aan een derde betreft, welke derde het betreft.
 
-7. Het door of ten behoeve van de dienst vervaardigde DNA-profiel wordt voor ten hoogste vijf jaren bewaard en daarna terstond vernietigd. Op een daartoe strekkend verzoek van het hoofd van de dienst aan Onze betrokken Minister kan de bewaartermijn telkens voor ten hoogste vijf jaren worden verlengd met dien verstande dat de bewaartermijn in totaliteit de dertig jaar niet overschrijdt. [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), is van overeenkomstige toepassing.
+7. Het door of ten behoeve van de dienst vervaardigde DNA-profiel wordt voor ten hoogste vijf jaren bewaard en daarna terstond vernietigd. Op een daartoe strekkend verzoek van het hoofd van de dienst aan Onze betrokken Minister kan de bewaartermijn telkens voor ten hoogste vijf jaren worden verlengd met dien verstande dat de bewaartermijn in totaliteit de dertig jaar niet overschrijdt. [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 8. Bij algemene maatregel van bestuur worden nadere regels gesteld voor het verrichten van DNA-onderzoek, het verwerken van DNA-profielen, waaronder begrepen de inrichting, het beheer en de toegang tot deze gegevens, en de omgang met celmateriaal, waaronder begrepen voorwerpen met daarop mogelijk celmateriaal. De bij algemene maatregel van bestuur te stellen regels hebben mede betrekking op medewerkers van de dienst die bij de uitvoering van het DNA-onderzoek fysiek in aanraking kunnen komen met voorwerpen met daarop mogelijk celmateriaal en het veiliggestelde celmateriaal. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers van de Staten-Generaal is overgelegd.
 
@@ -991,7 +991,7 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 1. De diensten zijn bevoegd tot het openen van brieven en andere geadresseerde zendingen, zonder goedvinden van de afzender of de geadresseerde, indien de rechtbank Den Haag daartoe, op verzoek van het hoofd van de dienst, een last heeft afgegeven.
 
-2. Het verzoek om een last, bedoeld in het eerste lid, bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), de naam en het adres van de instelling van post of vervoer, die de brieven of andere geadresseerde zendingen dient uit te leveren.
+2. Het verzoek om een last, bedoeld in het eerste lid, bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), de naam en het adres van de instelling van post of vervoer, die de brieven of andere geadresseerde zendingen dient uit te leveren.
 
 3. Een last wordt slechts afgegeven, indien dat noodzakelijk is voor een goede uitoefening van de aan de dienst opgedragen taak.
 
@@ -1023,13 +1023,13 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 - b. het aanbrengen van technische voorzieningen teneinde versleuteling van gegevens opgeslagen of verwerkt in het geautomatiseerde werk ongedaan te maken;
 
-- c. het aanbrengen van technische voorzieningen in verband met de toepassing van de bevoegdheid als bedoeld in de [artikelen 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2021-07-15&g=2021-07-15), en [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15);
+- c. het aanbrengen van technische voorzieningen in verband met de toepassing van de bevoegdheid als bedoeld in de [artikelen 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2022-01-01&g=2022-01-01), en [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01);
 
 - d. het overnemen van de gegevens opgeslagen of verwerkt in het geautomatiseerde werk.
 
 3. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek schriftelijk toestemming is verleend aan het hoofd van de dienst.
 
-4. Het verzoek om toestemming, bedoeld in het derde lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+4. Het verzoek om toestemming, bedoeld in het derde lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. een omschrijving van de technische risico’s verbonden aan de uitoefening van de desbetreffende bevoegdheid;
 
@@ -1049,7 +1049,7 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 10. De bevoegdheid, bedoeld in het negende lid, mag slechts worden uitgeoefend indien door Onze betrokken Minister op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst.
 
-11. Het verzoek om toestemming, bedoeld in het tiende lid, is schriftelijk en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+11. Het verzoek om toestemming, bedoeld in het tiende lid, is schriftelijk en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. gegevens betreffende de identiteit van de persoon aan wie de opdracht wordt verstrekt;
 
@@ -1081,7 +1081,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien Onze betrokken Minister daarvoor op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst.
 
-3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. voor zover van toepassing, het nummer dan wel het technisch kenmerk;
 
@@ -1105,7 +1105,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst. De toestemming wordt verleend voor een periode van ten hoogste een jaar en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
 
-3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. voor zover van toepassing de reden waarom de uitoefening van de bevoegdheid ook betrekking dient te hebben op de inhoud van telecommunicatie of gegevensoverdracht door middel van een geautomatiseerd werk;
 
@@ -1113,19 +1113,19 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze betrokken Minister is bevoegd tot het verlenen van toestemming aan door hem bij besluit aangewezen aan hem ondergeschikte ambtenaren, welke bij uitsluiting van anderen kennis mogen nemen van de verworven gegevens ten behoeve van de in het eerste lid, tweede en derde volzin, bedoelde activiteiten. Onze betrokken Minister kan de bevoegdheid, bedoeld in de eerste volzin, mandateren aan het hoofd van de dienst.
 
-5. In afwijking van het bepaalde in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=27&z=2021-07-15&g=2021-07-15), mogen gegevens die zijn verzameld door uitoefening van de bevoegdheid als bedoeld in het eerste lid voor een periode van ten hoogste drie jaren na verwerving of na het ongedaan maken van de versleuteling worden bewaard ten behoeve van een gegevensverwerking als bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2021-07-15&g=2021-07-15) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2021-07-15&g=2021-07-15). Gegevens waarvan in dat kader is vastgesteld dat deze niet relevant zijn voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), onderscheidelijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), worden terstond vernietigd. Gegevens die niet op hun relevantie zijn onderzocht, worden na afloop van deze periode terstond vernietigd.
+5. In afwijking van het bepaalde in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=27&z=2022-01-01&g=2022-01-01), mogen gegevens die zijn verzameld door uitoefening van de bevoegdheid als bedoeld in het eerste lid voor een periode van ten hoogste drie jaren na verwerving of na het ongedaan maken van de versleuteling worden bewaard ten behoeve van een gegevensverwerking als bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2022-01-01&g=2022-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2022-01-01&g=2022-01-01). Gegevens waarvan in dat kader is vastgesteld dat deze niet relevant zijn voor het onderzoek dan wel enig ander lopend onderzoek vallend onder de taken, bedoeld in [artikel 8, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), onderscheidelijk [artikel 10, tweede lid, onder a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), worden terstond vernietigd. Gegevens die niet op hun relevantie zijn onderzocht, worden na afloop van deze periode terstond vernietigd.
 
 6. Indien gegevens versleuteld zijn mogen zij in verband met het ongedaan maken van de versleuteling voor een periode van ten hoogste drie jaar na verwerving worden bewaard. Versleutelde gegevens worden na afloop van deze periode terstond vernietigd. Op een daartoe strekkend verzoek van het hoofd van de dienst aan Onze betrokken Minister kan de bewaartermijn telkens voor ten hoogste drie jaren worden verlengd. Het vierde lid is van overeenkomstige toepassing.
 
 ##### Artikel 49
 
-1. De diensten zijn bevoegd tot onderzoek aan de gegevens die door de uitoefening van de bevoegdheid, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), zijn verworven, met het oog op:
+1. De diensten zijn bevoegd tot onderzoek aan de gegevens die door de uitoefening van de bevoegdheid, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), zijn verworven, met het oog op:
 
 - a. het vaststellen van de kenmerken en de aard van de telecommunicatie;
 
 - b. het vaststellen van de identiteit van de persoon of organisatie behorende bij de telecommunicatie.
 
-2. De diensten zijn voorts in verband met de uitvoering van een verleende toestemming als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2021-07-15&g=2021-07-15), bevoegd tot onderzoek aan de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15) verworven gegevens, met het oog op:
+2. De diensten zijn voorts in verband met de uitvoering van een verleende toestemming als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2022-01-01&g=2022-01-01), bevoegd tot onderzoek aan de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01) verworven gegevens, met het oog op:
 
 - a. het vaststellen en verifiëren van selectiecriteria in relatie tot personen en organisaties die onderscheidenlijk onderwerpen welke door de diensten worden onderzocht;
 
@@ -1135,35 +1135,35 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De in het eerste en tweede lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst. De toestemming voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, wordt verleend voor een periode van ten hoogste een jaar en voor de bevoegdheid, bedoeld in het tweede lid, voor een periode van ten hoogste drie maanden. De toestemming kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
 
-5. Onze betrokken Minister is bevoegd tot het verlenen van toestemming aan door hem bij besluit aangewezen aan hem ondergeschikte ambtenaren, welke ter uitvoering van het bepaalde in dit artikel bij uitsluiting van anderen kennis mogen nemen van de inhoud van de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15) verworven gegevens ten behoeve van de in het eerste en tweede lid bedoelde activiteiten. Onze betrokken Minister kan de bevoegdheid, bedoeld in de eerste volzin, mandateren aan het hoofd van de dienst.
+5. Onze betrokken Minister is bevoegd tot het verlenen van toestemming aan door hem bij besluit aangewezen aan hem ondergeschikte ambtenaren, welke ter uitvoering van het bepaalde in dit artikel bij uitsluiting van anderen kennis mogen nemen van de inhoud van de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01) verworven gegevens ten behoeve van de in het eerste en tweede lid bedoelde activiteiten. Onze betrokken Minister kan de bevoegdheid, bedoeld in de eerste volzin, mandateren aan het hoofd van de dienst.
 
 ##### Artikel 50
 
 1. De diensten zijn bevoegd tot:
 
-- a. het selecteren van de gegevens die door de uitoefening van de bevoegdheid, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), zijn verzameld;
+- a. het selecteren van de gegevens die door de uitoefening van de bevoegdheid, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), zijn verzameld;
 
-- b. het toepassen van geautomatiseerde data-analyse als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2021-07-15&g=2021-07-15) ten aanzien van de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15) verzamelde gegevens anders dan die welke de inhoud van de desbetreffende telecommunicatie betreft.
+- b. het toepassen van geautomatiseerde data-analyse als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2022-01-01&g=2022-01-01) ten aanzien van de ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01) verzamelde gegevens anders dan die welke de inhoud van de desbetreffende telecommunicatie betreft.
 
-2. De toestemming voor de selectie als bedoeld in het eerste lid, onder a, wordt door Onze betrokken Minister op een daartoe strekkend verzoek verleend aan het hoofd van de dienst voor een periode van ten hoogste drie maanden en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode. Het verzoek om toestemming bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15), de identiteit van de persoon of organisatie of een omschrijving van het onderwerp ten aanzien waarvan de bevoegdheid moet worden toegepast.
+2. De toestemming voor de selectie als bedoeld in het eerste lid, onder a, wordt door Onze betrokken Minister op een daartoe strekkend verzoek verleend aan het hoofd van de dienst voor een periode van ten hoogste drie maanden en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode. Het verzoek om toestemming bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01), de identiteit van de persoon of organisatie of een omschrijving van het onderwerp ten aanzien waarvan de bevoegdheid moet worden toegepast.
 
 3. Ter uitvoering van een door Onze betrokken Minister verleende toestemming als bedoeld in het tweede lid kunnen, gerelateerd aan het desbetreffende onderzoek, selectiecriteria worden vastgesteld. Selectiecriteria worden voorzien van een toereikende motivering in relatie tot het onderzoek waarvoor ze dienen te worden toegepast. Het vaststellen van de selectiecriteria geschiedt door Onze betrokken Minister of namens deze het hoofd van de dienst. Het hoofd van de dienst kan aan hem ondergeschikte ambtenaren bij schriftelijk besluit aanwijzen die de toestemming, bedoeld in de vorige volzin, namens hem verlenen. Onze betrokken Minister wordt een afschrift van het besluit, bedoeld in de vorige volzin, gezonden. Indien de toestemming als bedoeld in het tweede lid vervalt, worden de daaraan gerelateerde selectiecriteria terstond verwijderd.
 
-4. De toestemming voor de geautomatiseerde data-analyse als bedoeld in het eerste lid, onder b, voor zover deze gericht is op het identificeren van personen of organisaties, waarbij sprake is van een verwerking als bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2021-07-15&g=2021-07-15), wordt door Onze betrokken Minister op een daartoe strekkend verzoek verleend aan het hoofd van de dienst voor een periode van ten hoogste een jaar en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode. Het verzoek tot het verlenen van toestemming bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+4. De toestemming voor de geautomatiseerde data-analyse als bedoeld in het eerste lid, onder b, voor zover deze gericht is op het identificeren van personen of organisaties, waarbij sprake is van een verwerking als bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2022-01-01&g=2022-01-01), wordt door Onze betrokken Minister op een daartoe strekkend verzoek verleend aan het hoofd van de dienst voor een periode van ten hoogste een jaar en kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode. Het verzoek tot het verlenen van toestemming bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
-- a. een aanduiding van de toe te passen vorm van geautomatiseerde data-analyse als bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2021-07-15&g=2021-07-15);
+- a. een aanduiding van de toe te passen vorm van geautomatiseerde data-analyse als bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.3&artikel=60&z=2022-01-01&g=2022-01-01);
 
 - b. voor zover van toepassing een aanduiding van de gegevensbestanden die in de geautomatiseerde data-analyse worden betrokken.
 
-#### Paragraaf 3.2.5.6.4. Informatie- en medewerkingsplicht aanbieders van communicatiediensten bij de verwerving van telecommunicatie op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15)
+#### Paragraaf 3.2.5.6.4. Informatie- en medewerkingsplicht aanbieders van communicatiediensten bij de verwerving van telecommunicatie op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01)
 
 ##### Artikel 51
 
-Deze paragraaf is van toepassing op de uitoefening van de bevoegdheid als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), waarvoor de medewerking is vereist van een aanbieder van een communicatiedienst op wie niet reeds op grond van [artikel 13.2 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) een verplichting tot medewerking rust, alsmede op de uitoefening van de bevoegdheid als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15).
+Deze paragraaf is van toepassing op de uitoefening van de bevoegdheid als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), waarvoor de medewerking is vereist van een aanbieder van een communicatiedienst op wie niet reeds op grond van [artikel 13.2 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) een verplichting tot medewerking rust, alsmede op de uitoefening van de bevoegdheid als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 52
 
-1. De diensten zijn bevoegd zich te wenden tot een aanbieder van een communicatiedienst met de opdracht gegevens te verstrekken, welke noodzakelijk zijn om toepassing te kunnen geven aan de bevoegdheid, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), dan wel [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15). Bij algemene maatregel van bestuur worden de categorieën van gegevens bepaald, waarop de in de eerste zin bedoelde opdracht betrekking kan hebben.
+1. De diensten zijn bevoegd zich te wenden tot een aanbieder van een communicatiedienst met de opdracht gegevens te verstrekken, welke noodzakelijk zijn om toepassing te kunnen geven aan de bevoegdheid, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), dan wel [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01). Bij algemene maatregel van bestuur worden de categorieën van gegevens bepaald, waarop de in de eerste zin bedoelde opdracht betrekking kan hebben.
 
 2. De opdracht wordt schriftelijk verleend door het hoofd van de dienst en omvat ten minste:
 
@@ -1175,23 +1175,23 @@ Deze paragraaf is van toepassing op de uitoefening van de bevoegdheid als bedoel
 
 3. De aanbieder van een communicatiedienst is verplicht aan een opdracht als bedoeld in het eerste lid, eerste volzin, te voldoen.
 
-4. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid, is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing.
+4. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid, is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 5. [Artikel 13.6, tweede en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6) is van overeenkomstige toepassing op het voldoen aan een opdracht als bedoeld in het eerste lid door aanbieders van communicatiediensten.
 
 ##### Artikel 53
 
-1. De diensten zijn bevoegd zich te wenden tot een aanbieder van een communicatiedienst met de opdracht om medewerking te verlenen aan de uitvoering van de bevoegdheid als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), dan wel [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), waarvoor op grond van artikel 47, tweede lid, dan wel artikel 48, tweede lid, toestemming is verleend.
+1. De diensten zijn bevoegd zich te wenden tot een aanbieder van een communicatiedienst met de opdracht om medewerking te verlenen aan de uitvoering van de bevoegdheid als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), dan wel [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), waarvoor op grond van artikel 47, tweede lid, dan wel artikel 48, tweede lid, toestemming is verleend.
 
 2. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst.
 
-3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het tweede lid, wordt gedaan door het hoofd van de dienst en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. gegevens betreffende de identiteit van de aanbieder van een communicatiedienst aan wie de opdracht tot medewerking dient te worden opgelegd;
 
 - b. een nauwkeurige omschrijving van de soort medewerking die aan de desbetreffende aanbieder dient te worden opgedragen.
 
-De toestemming wordt verleend voor een periode van ten hoogste drie maanden, indien de medewerking is vereist met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), onderscheidenlijk ten hoogste een jaar, indien de medewerking is vereist met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15). De toestemming kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
+De toestemming wordt verleend voor een periode van ten hoogste drie maanden, indien de medewerking is vereist met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), onderscheidenlijk ten hoogste een jaar, indien de medewerking is vereist met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01). De toestemming kan telkens op een daartoe strekkend verzoek worden verlengd voor eenzelfde periode.
 
 4. Een toestemming als bedoeld in het tweede lid wordt niet eerder ter uitvoering gebracht dan nadat ter zake met de desbetreffende aanbieder van een communicatiedienst overleg is gevoerd. Het bepaalde in de eerste volzin is niet van toepassing ingeval de toestemming ongewijzigd wordt verlengd.
 
@@ -1215,7 +1215,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 2. De in het eerste lid bedoelde bevoegdheid mag slechts worden uitgeoefend, indien door Onze betrokken Minister daarvoor op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst.
 
-3. Het verzoek om toestemming, bedoeld in het derde lid, wordt schriftelijk gedaan en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het derde lid, wordt schriftelijk gedaan en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. het nummer of een andere aanduiding waarmee de gebruiker als bedoeld in het eerste lid, onder a, onderscheidenlijk de derde als bedoeld in het eerste lid, onder b, kan worden geïdentificeerd;
 
@@ -1225,7 +1225,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 4. De aanbieder van een communicatiedienst onderscheidenlijk de persoon of instantie die in het kader van de uitoefening van een beroep of bedrijf de opslag verzorgt is verplicht aan een opdracht als bedoeld in het eerste lid te voldoen.
 
-5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing.
+5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 6. [Artikel 13.6, tweede en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6) is van overeenkomstige toepassing op het voldoen aan een opdracht als bedoeld in het eerste lid.
 
@@ -1247,7 +1247,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 4. De aanbieder van een communicatiedienst op wie niet reeds ingevolge [artikel 13.4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) een verplichting tot medewerking rust, is verplicht aan een opdracht als bedoeld in het eerste lid, eerste volzin, te voldoen. De verlangde gegevens worden, voor zover bij de opdracht niet anders is bepaald, terstond verstrekt.
 
-5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid, is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing.
+5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid, is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 6. [Artikel 13.6, tweede en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6) is van overeenkomstige toepassing op het voldoen aan een opdracht als bedoeld in het eerste lid door aanbieders van communicatiediensten, voor zover zij niet reeds op grond van artikel 13.6, tweede lid, van de Telecommunicatiewet in aanmerking komen voor vergoeding van de aldaar bedoelde kosten.
 
@@ -1259,13 +1259,13 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 - b. naam, adres, postcode, woonplaats van degene die de rekening betaalt voor de communicatiedienst die de gebruiker ter beschikking heeft of heeft gehad en het daartoe gebruikte bankrekeningnummer dan wel betalingsmiddel.
 
-2. Indien de gegevens, bedoeld in het eerste lid, onder a, bij de aanbieder van een openbaar telecommunicatienetwerk of openbare telecommunicatiedienst in de zin van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) niet bekend zijn en zij nodig zijn voor de toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15) en [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2021-07-15&g=2021-07-15) kan de dienst opdragen dat de desbetreffende aanbieder de verzochte gegevens achterhaalt en verstrekt.
+2. Indien de gegevens, bedoeld in het eerste lid, onder a, bij de aanbieder van een openbaar telecommunicatienetwerk of openbare telecommunicatiedienst in de zin van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) niet bekend zijn en zij nodig zijn voor de toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01) en [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2022-01-01&g=2022-01-01) kan de dienst opdragen dat de desbetreffende aanbieder de verzochte gegevens achterhaalt en verstrekt.
 
 3. De aanbieder van een communicatiedienst op wie niet reeds ingevolge [artikel 13.4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) een verplichting tot medewerking rust is verplicht aan een opdracht als bedoeld in het eerste lid te voldoen. De verlangde gegevens worden, voor zover bij de opdracht niet anders is bepaald, terstond verstrekt.
 
 4. Een opdracht aan een aanbieder van een communicatiedienst op wie niet de verplichting tot verstrekking als bedoeld in [artikel 13.4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) van toepassing is, wordt schriftelijk gedaan door of namens het hoofd van de desbetreffende dienst.
 
-5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing.
+5. Op de verstrekking van gegevens ingevolge een opdracht als bedoeld in het eerste lid is [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.4&artikel=39&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
 6. [Artikel 13.6, tweede en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6) is van overeenkomstige toepassing op het voldoen aan een opdracht als bedoeld in het eerste lid door aanbieders van communicatiediensten, voor zover zij niet reeds op grond van artikel 13.6, tweede lid, van de Telecommunicatiewet in aanmerking komen voor vergoeding van de aldaar bedoelde kosten.
 
@@ -1273,11 +1273,11 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 ##### Artikel 57
 
-1. De diensten zijn bevoegd in het kader van de uitoefening van de bevoegdheid, bedoeld in de [artikelen 47, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), en [48, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), zich te wenden tot degene van wie redelijkerwijs vermoed wordt dat hij kennis draagt van de wijze van versleuteling van de desbetreffende gesprekken, telecommunicatie of gegevensoverdracht met de opdracht alle noodzakelijke medewerking te verlenen tot het ontsleutelen van de gegevens door hetzij deze kennis ter beschikking te stellen, hetzij de versleuteling ongedaan te maken. Een opdracht ziet niet op het inbouwen van het afzwakken van de encryptie van de systemen of op het inbouwen van toegang tot de systemen om ontsleutelde gegevens te verkrijgen.
+1. De diensten zijn bevoegd in het kader van de uitoefening van de bevoegdheid, bedoeld in de [artikelen 47, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), en [48, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), zich te wenden tot degene van wie redelijkerwijs vermoed wordt dat hij kennis draagt van de wijze van versleuteling van de desbetreffende gesprekken, telecommunicatie of gegevensoverdracht met de opdracht alle noodzakelijke medewerking te verlenen tot het ontsleutelen van de gegevens door hetzij deze kennis ter beschikking te stellen, hetzij de versleuteling ongedaan te maken. Een opdracht ziet niet op het inbouwen van het afzwakken van de encryptie van de systemen of op het inbouwen van toegang tot de systemen om ontsleutelde gegevens te verkrijgen.
 
 2. De bevoegdheid, bedoeld in het eerste lid, mag slechts worden uitgeoefend indien door Onze betrokken Minister op een daartoe strekkend verzoek toestemming is verleend aan het hoofd van de dienst.
 
-3. Het verzoek om toestemming, bedoeld in het tweede lid, is schriftelijk en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15):
+3. Het verzoek om toestemming, bedoeld in het tweede lid, is schriftelijk en bevat in aanvulling op hetgeen is bepaald in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01):
 
 - a. gegevens betreffende de identiteit van de persoon aan wie de opdracht tot medewerking wordt verstrekt;
 
@@ -1291,17 +1291,17 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 1. De diensten hebben toegang tot elke plaats, voor zover dat redelijkerwijs nodig is om:
 
-- a. observatie- en registratiemiddelen als bedoeld in [artikel 40, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2021-07-15&g=2021-07-15), aan te brengen, te vervangen of te verwijderen alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
+- a. observatie- en registratiemiddelen als bedoeld in [artikel 40, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2022-01-01&g=2022-01-01), aan te brengen, te vervangen of te verwijderen alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
 
-- b. volgmiddelen, plaatsbepalingsapparatuur en registratiemiddelen als bedoeld in [artikel 40, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2021-07-15&g=2021-07-15), aan te brengen, te vervangen of te verwijderen alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
+- b. volgmiddelen, plaatsbepalingsapparatuur en registratiemiddelen als bedoeld in [artikel 40, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2022-01-01&g=2022-01-01), aan te brengen, te vervangen of te verwijderen alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
 
-- c. de bevoegdheid, bedoeld in [artikel 42, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2021-07-15&g=2021-07-15), uit te oefenen;
+- c. de bevoegdheid, bedoeld in [artikel 42, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2022-01-01&g=2022-01-01), uit te oefenen;
 
-- d. de bevoegdheid, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2021-07-15&g=2021-07-15), uit te oefenen;
+- d. de bevoegdheid, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2022-01-01&g=2022-01-01), uit te oefenen;
 
-- e. de bevoegdheid, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), uit te oefenen, waaronder begrepen het aanbrengen, vervangen of verwijderen van een technisch hulpmiddel alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
+- e. de bevoegdheid, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), uit te oefenen, waaronder begrepen het aanbrengen, vervangen of verwijderen van een technisch hulpmiddel alsmede daarmee samenhangende voorbereidende activiteiten uit te voeren;
 
-- f. met betrekking tot de aldaar aanwezige telecommunicatie-apparatuur de gegevens te verzamelen die noodzakelijk zijn om de bevoegdheid, waarvoor overeenkomstig [artikel 47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), toestemming is verleend, uit te kunnen oefenen.
+- f. met betrekking tot de aldaar aanwezige telecommunicatie-apparatuur de gegevens te verzamelen die noodzakelijk zijn om de bevoegdheid, waarvoor overeenkomstig [artikel 47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), toestemming is verleend, uit te kunnen oefenen.
 
 2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan door personen die daartoe door het hoofd van een dienst zijn aangewezen.
 
@@ -1313,7 +1313,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 ##### Artikel 59
 
-1. Onze betrokken Minister onderzoekt vijf jaar na de beëindiging van de uitoefening van een bijzondere bevoegdheid als bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2021-07-15&g=2021-07-15), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), alsmede [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.7&artikel=58&z=2021-07-15&g=2021-07-15), voor zover is binnengetreden in een woning zonder toestemming van de bewoner, en daarna telkens eenmaal per jaar, of de persoon ten aanzien van wie één van deze bijzondere bevoegdheden is uitgeoefend, daarvan verslag kan worden uitgebracht. Indien dit mogelijk is, geschiedt dit zo spoedig mogelijk.
+1. Onze betrokken Minister onderzoekt vijf jaar na de beëindiging van de uitoefening van een bijzondere bevoegdheid als bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2022-01-01&g=2022-01-01), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), alsmede [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.7&artikel=58&z=2022-01-01&g=2022-01-01), voor zover is binnengetreden in een woning zonder toestemming van de bewoner, en daarna telkens eenmaal per jaar, of de persoon ten aanzien van wie één van deze bijzondere bevoegdheden is uitgeoefend, daarvan verslag kan worden uitgebracht. Indien dit mogelijk is, geschiedt dit zo spoedig mogelijk.
 
 2. Indien het uitbrengen van het verslag aan de persoon ten aanzien van wie de bijzondere bevoegdheden, bedoeld in het eerste lid, zijn uitgeoefend niet mogelijk is, wordt de commissie van toezicht hiervan op de hoogte gesteld. De mededeling aan de commissie gaat vergezeld van de motivering waarom het verslag niet kan worden uitgebracht.
 
@@ -1333,7 +1333,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 5. De verplichting tot het uitbrengen van een verslag, bedoeld in het eerste lid, vervalt op het moment dat is vastgesteld dat zulks redelijkerwijs niet mogelijk is.
 
-6. Het uitbrengen van een verslag aan de persoon wordt uitgesteld, indien de desbetreffende bijzondere bevoegdheid is uitgeoefend in het kader van een onderzoek, waaromtrent verstrekking van gegevens aan de betrokken persoon, indien deze op het moment van onderzoek een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) zou hebben ingediend, ingevolge [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2021-07-15&g=2021-07-15) zou moeten worden geweigerd.
+6. Het uitbrengen van een verslag aan de persoon wordt uitgesteld, indien de desbetreffende bijzondere bevoegdheid is uitgeoefend in het kader van een onderzoek, waaromtrent verstrekking van gegevens aan de betrokken persoon, indien deze op het moment van onderzoek een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) zou hebben ingediend, ingevolge [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2022-01-01&g=2022-01-01) zou moeten worden geweigerd.
 
 7. De verplichting tot onderzoek, bedoeld in het eerste lid, vervalt, indien het uitbrengen van een verslag omtrent de uitoefening van de desbetreffende bijzondere bevoegdheid naar redelijke verwachting ertoe leidt, dat:
 
@@ -1373,7 +1373,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 ##### Artikel 61
 
-De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan een binnen de dienst of ingevolge [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15) ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst werkzame ambtenaar onderscheidenlijk ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2021-07-15&g=2021-07-15) ten behoeve van de Militaire Inlichtingen- en Veiligheidsdienst werkzame ambtenaar vindt slechts plaats, voor zover dat noodzakelijk is voor een goede uitvoering van de aan de desbetreffende ambtenaar opgedragen taak.
+De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan een binnen de dienst of ingevolge [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01) ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst werkzame ambtenaar onderscheidenlijk ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2022-01-01&g=2022-01-01) ten behoeve van de Militaire Inlichtingen- en Veiligheidsdienst werkzame ambtenaar vindt slechts plaats, voor zover dat noodzakelijk is voor een goede uitvoering van de aan de desbetreffende ambtenaar opgedragen taak.
 
 #### Paragraaf 3.4.2. De externe verstrekking van gegevens
 
@@ -1389,7 +1389,7 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 - c. andere personen of instanties wie deze aangaan;
 
-- d. daarvoor in aanmerking komende inlichtingen- en veiligheidsdiensten van andere landen waarmee een samenwerkingsrelatie als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15), wordt onderhouden, alsmede andere daarvoor in aanmerking komende internationale beveiligings-, verbindingsinlichtingen- en inlichtingenorganen.
+- d. daarvoor in aanmerking komende inlichtingen- en veiligheidsdiensten van andere landen waarmee een samenwerkingsrelatie als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01), wordt onderhouden, alsmede andere daarvoor in aanmerking komende internationale beveiligings-, verbindingsinlichtingen- en inlichtingenorganen.
 
 2. Een mededeling als bedoeld in het eerste lid geschiedt door Onze betrokken Minister, indien de aard van de mededeling daartoe aanleiding geeft.
 
@@ -1397,7 +1397,7 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 ##### Artikel 63
 
-1. Onverminderd het bepaalde in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15) kan in het kader van een goede taakuitvoering op een daartoe strekkend schriftelijk verzoek als bedoeld in [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), en [artikel 10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), mededeling worden gedaan omtrent door de dienst verwerkte gegevens omtrent een persoon of instantie.
+1. Onverminderd het bepaalde in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01) kan in het kader van een goede taakuitvoering op een daartoe strekkend schriftelijk verzoek als bedoeld in [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), en [artikel 10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), mededeling worden gedaan omtrent door de dienst verwerkte gegevens omtrent een persoon of instantie.
 
 2. Een verzoek als bedoeld in het eerste lid wordt gericht aan Onze betrokken Minister en bevat in ieder geval de volgende gegevens:
 
@@ -1409,15 +1409,15 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 3. Een verklaring als bedoeld in het tweede lid, onder b, kan achterwege blijven indien dit de effectiviteit van het uitvoeren van het verzoek zou kunnen schaden.
 
-4. Een mededeling als bedoeld in het eerste lid geschiedt door Onze betrokken Minister dan wel namens deze het hoofd van de betrokken dienst, voor zover dit in de regeling als bedoeld in [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-07-15&g=2021-07-15), of, [10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2021-07-15&g=2021-07-15), is bepaald.
+4. Een mededeling als bedoeld in het eerste lid geschiedt door Onze betrokken Minister dan wel namens deze het hoofd van de betrokken dienst, voor zover dit in de regeling als bedoeld in [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-01-01&g=2022-01-01), of, [10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2022-01-01&g=2022-01-01), is bepaald.
 
 ##### Artikel 64
 
 1. De diensten zijn in het kader van een goede taakuitvoering voorts bevoegd om op grond van een dringende en gewichtige reden gegevens te verstrekken aan:
 
-- a. een inlichtingen- of veiligheidsdienst van een ander land waarmee geen samenwerkingsrelatie bestaat als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15);
+- a. een inlichtingen- of veiligheidsdienst van een ander land waarmee geen samenwerkingsrelatie bestaat als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01);
 
-- b. een inlichtingen- of veiligheidsdienst van een ander land waarmee een samenwerkingsrelatie bestaat als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15), maar waarbij in het kader van de weging, bedoeld in artikel 88, tweede lid, is vastgesteld dat daaraan regulier geen gegevens kunnen worden verstrekt.
+- b. een inlichtingen- of veiligheidsdienst van een ander land waarmee een samenwerkingsrelatie bestaat als bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01), maar waarbij in het kader van de weging, bedoeld in artikel 88, tweede lid, is vastgesteld dat daaraan regulier geen gegevens kunnen worden verstrekt.
 
 2. Een verstrekking als bedoeld in het eerste lid vindt niet eerder plaats dan nadat Onze betrokken Minister op een daartoe strekkend verzoek van het hoofd van de dienst toestemming heeft verleend.
 
@@ -1427,7 +1427,7 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 1. De verstrekking van gegevens kan geschieden onder de voorwaarde dat degene aan wie de gegevens worden verstrekt, deze gegevens niet aan anderen mag verstrekken.
 
-2. De voorwaarde, bedoeld in het eerste lid, wordt in ieder geval gesteld, indien gegevens worden verstrekt aan een instantie als bedoeld in [artikel 62, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15), alsmede aan een instantie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=64&z=2021-07-15&g=2021-07-15).
+2. De voorwaarde, bedoeld in het eerste lid, wordt in ieder geval gesteld, indien gegevens worden verstrekt aan een instantie als bedoeld in [artikel 62, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01), alsmede aan een instantie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=64&z=2022-01-01&g=2022-01-01).
 
 3. Indien gegevens zijn verstrekt onder de voorwaarde dat deze niet aan anderen mogen worden verstrekt, kan door Onze betrokken Minister of namens deze het hoofd van de dienst alsnog toestemming worden verleend om deze aan andere personen of instanties te verstrekken. Aan de toestemming kunnen voorwaarden worden verbonden.
 
@@ -1439,13 +1439,13 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 3. Indien de mededeling, bedoeld in het eerste lid, betrekking heeft op gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt wordt voorafgaand aan het doen van die mededeling toestemming van de rechtbank Den Haag gevraagd. Indien de toestemming niet wordt verleend, blijft de mededeling achterwege. Het tweede lid is niet van toepassing op een mededeling als bedoeld in de eerste volzin.
 
-4. Op een daartoe strekkend verzoek van het daartoe aangewezen lid van het openbaar ministerie wordt inzage gegeven in alle aan de mededeling ten grondslag liggende gegevens die voor de beoordeling van de juistheid van de mededeling noodzakelijk zijn. De [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=135&z=2021-07-15&g=2021-07-15) en [136](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2021-07-15&g=2021-07-15) zijn van overeenkomstige toepassing.
+4. Op een daartoe strekkend verzoek van het daartoe aangewezen lid van het openbaar ministerie wordt inzage gegeven in alle aan de mededeling ten grondslag liggende gegevens die voor de beoordeling van de juistheid van de mededeling noodzakelijk zijn. De [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=135&z=2022-01-01&g=2022-01-01) en [136](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 67
 
-1. Onverminderd het bepaalde in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=66&z=2021-07-15&g=2021-07-15) kan voorts, indien bij de verwerking van gegevens door of ten behoeve van een dienst daarvan is gebleken, uit eigen beweging dan wel desgevraagd op grond van een dringende en gewichtige reden schriftelijk mededeling worden gedaan van gegevens aan bij of krachtens algemene maatregel van bestuur aangewezen personen of instanties die betrokken zijn bij de uitvoering van een publieke taak, voor zover deze gegevens tevens van belang kunnen zijn voor de behartiging van de aan hen in dat kader opgedragen belangen.
+1. Onverminderd het bepaalde in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=66&z=2022-01-01&g=2022-01-01) kan voorts, indien bij de verwerking van gegevens door of ten behoeve van een dienst daarvan is gebleken, uit eigen beweging dan wel desgevraagd op grond van een dringende en gewichtige reden schriftelijk mededeling worden gedaan van gegevens aan bij of krachtens algemene maatregel van bestuur aangewezen personen of instanties die betrokken zijn bij de uitvoering van een publieke taak, voor zover deze gegevens tevens van belang kunnen zijn voor de behartiging van de aan hen in dat kader opgedragen belangen.
 
-2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=68&z=2021-07-15&g=2021-07-15), is van overeenkomstige toepassing.
+2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=68&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -1457,7 +1457,7 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 2. In spoedeisende gevallen kan de mededeling, bedoeld in het eerste lid, mondeling geschieden. Onze betrokken Minister of namens deze het hoofd van de dienst bevestigt de desbetreffende mededeling zo spoedig mogelijk schriftelijk.
 
-3. Onze betrokken Minister of namens deze het hoofd van de dienst kan aan een persoon of instantie inzage verlenen in de aan de mededeling ten grondslag liggende gegevens, voor zover dat voor de beoordeling van de juistheid van de mededeling noodzakelijk is. De [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=135&z=2021-07-15&g=2021-07-15) en [136, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2021-07-15&g=2021-07-15), zijn van overeenkomstige toepassing op de personen en instanties waaraan inzage in de desbetreffende gegevens is verleend.
+3. Onze betrokken Minister of namens deze het hoofd van de dienst kan aan een persoon of instantie inzage verlenen in de aan de mededeling ten grondslag liggende gegevens, voor zover dat voor de beoordeling van de juistheid van de mededeling noodzakelijk is. De [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=135&z=2022-01-01&g=2022-01-01) en [136, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2022-01-01&g=2022-01-01), zijn van overeenkomstige toepassing op de personen en instanties waaraan inzage in de desbetreffende gegevens is verleend.
 
 ##### Artikel 69
 
@@ -1465,15 +1465,15 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 2. In afwijking van het eerste lid kan over persoonsgegevens slechts mededeling worden gedaan aan:
 
-- a. een dienst of een instantie, bedoeld in [artikel 62, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15);
+- a. een dienst of een instantie, bedoeld in [artikel 62, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01);
 
 - b. instanties die zijn belast met de opsporing en vervolging van strafbare feiten;
 
 - c. andere instanties in door Onze betrokken Minister te bepalen bijzondere gevallen.
 
-3. Bij een mededeling als bedoeld in het tweede lid wordt de mate van betrouwbaarheid alsmede de ouderdom van de daaraan ten grondslag liggende gegevens vermeld. Indien met betrekking tot de desbetreffende gegevens een verklaring als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=77&z=2021-07-15&g=2021-07-15), voorhanden is, wordt deze gelijktijdig verstrekt.
+3. Bij een mededeling als bedoeld in het tweede lid wordt de mate van betrouwbaarheid alsmede de ouderdom van de daaraan ten grondslag liggende gegevens vermeld. Indien met betrekking tot de desbetreffende gegevens een verklaring als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=77&z=2022-01-01&g=2022-01-01), voorhanden is, wordt deze gelijktijdig verstrekt.
 
-4. [Artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=68&z=2021-07-15&g=2021-07-15), is van overeenkomstige toepassing.
+4. [Artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=68&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 70
 
@@ -1485,7 +1485,7 @@ Van de verstrekking van persoonsgegevens wordt aantekening gehouden.
 
 ##### Artikel 71
 
-Op de uitoefening van de bijzondere bevoegdheden in dit hoofdstuk zijn de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=28&z=2021-07-15&g=2021-07-15), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2021-07-15&g=2021-07-15) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=31&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing.
+Op de uitoefening van de bijzondere bevoegdheden in dit hoofdstuk zijn de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=28&z=2022-01-01&g=2022-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2022-01-01&g=2022-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=31&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 4.2. Oprichten en inzet rechtspersonen
 
@@ -1507,11 +1507,11 @@ Op de uitoefening van de bijzondere bevoegdheden in dit hoofdstuk zijn de [artik
 
 2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan, indien Onze betrokken Minister of namens deze het hoofd van een dienst daarvoor toestemming heeft verleend. Het hoofd van een dienst kan aan hem ondergeschikte ambtenaren bij schriftelijk besluit aanwijzen die de toestemming, bedoeld in de eerste volzin, namens hem verlenen. Onze betrokken Minister wordt een afschrift van het besluit, bedoeld in de tweede volzin, gezonden.
 
-3. Bij het bevorderen of treffen van een maatregel wordt slechts die maatregel bevorderd of getroffen, die gelet op de omstandigheden van het geval, waaronder de ernst van de bedreiging van de door een dienst te beschermen belangen, voor de betrokkene het minste nadeel oplevert. [Artikel 26, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=26&z=2021-07-15&g=2021-07-15), is van overeenkomstige toepassing.
+3. Bij het bevorderen of treffen van een maatregel wordt slechts die maatregel bevorderd of getroffen, die gelet op de omstandigheden van het geval, waaronder de ernst van de bedreiging van de door een dienst te beschermen belangen, voor de betrokkene het minste nadeel oplevert. [Artikel 26, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=26&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
-4. Het bevorderen of treffen van maatregelen als bedoeld in het eerste lid kan bij een instructie als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2021-07-15&g=2021-07-15), worden opgedragen aan een natuurlijke persoon als bedoeld in dat artikel.
+4. Het bevorderen of treffen van maatregelen als bedoeld in het eerste lid kan bij een instructie als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2022-01-01&g=2022-01-01), worden opgedragen aan een natuurlijke persoon als bedoeld in dat artikel.
 
-5. In het geval dat het bevorderen of treffen van maatregelen wordt opgedragen aan een medewerker van de dienst, is [artikel 41, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2021-07-15&g=2021-07-15), van overeenkomstige toepassing, met dien verstande dat onder «de natuurlijke persoon» of «persoon» in de desbetreffende artikelleden wordt verstaan: de medewerker van de dienst die wordt belast met de feitelijke uitvoering van de in het eerste lid bedoelde handelingen.
+5. In het geval dat het bevorderen of treffen van maatregelen wordt opgedragen aan een medewerker van de dienst, is [artikel 41, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.2&artikel=41&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat onder «de natuurlijke persoon» of «persoon» in de desbetreffende artikelleden wordt verstaan: de medewerker van de dienst die wordt belast met de feitelijke uitvoering van de in het eerste lid bedoelde handelingen.
 
 ### Hoofdstuk 5. Kennisneming van door of ten behoeve van de diensten verwerkte gegevens
 
@@ -1519,7 +1519,7 @@ Op de uitoefening van de bijzondere bevoegdheden in dit hoofdstuk zijn de [artik
 
 ##### Artikel 74
 
-Onverminderd de kennisneming van op grond van [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&z=2021-07-15&g=2021-07-15) verstrekte gegevens, kan van de gegevens verwerkt door of ten behoeve van een dienst slechts kennis worden genomen overeenkomstig de bepalingen van dit hoofdstuk.
+Onverminderd de kennisneming van op grond van [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&z=2022-01-01&g=2022-01-01) verstrekte gegevens, kan van de gegevens verwerkt door of ten behoeve van een dienst slechts kennis worden genomen overeenkomstig de bepalingen van dit hoofdstuk.
 
 ##### Artikel 75
 
@@ -1539,7 +1539,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 ##### Artikel 77
 
-1. Degene die ingevolge [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) kennis heeft genomen van door of ten behoeve van een dienst omtrent hem verwerkte gegevens, kan daaromtrent een schriftelijke verklaring overleggen. Deze verklaring wordt bij de desbetreffende gegevens gevoegd.
+1. Degene die ingevolge [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) kennis heeft genomen van door of ten behoeve van een dienst omtrent hem verwerkte gegevens, kan daaromtrent een schriftelijke verklaring overleggen. Deze verklaring wordt bij de desbetreffende gegevens gevoegd.
 
 2. Bij de kennisneming door betrokkene van de hem betreffende gegevens, wordt deze gewezen op het bepaalde in het eerste lid.
 
@@ -1547,7 +1547,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 ##### Artikel 78
 
-1. In afwijking van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) stelt het hoofd van een dienst een persoon werkzaam bij of ten behoeve van een dienst of werkzaam geweest bij of ten behoeve van een dienst op diens verzoek zo spoedig mogelijk, doch uiterlijk binnen vier weken na het verzoek, in de gelegenheid van zijn gegevens in de personeels- en salarisadministratie van de desbetreffende dienst kennis te nemen.
+1. In afwijking van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) stelt het hoofd van een dienst een persoon werkzaam bij of ten behoeve van een dienst of werkzaam geweest bij of ten behoeve van een dienst op diens verzoek zo spoedig mogelijk, doch uiterlijk binnen vier weken na het verzoek, in de gelegenheid van zijn gegevens in de personeels- en salarisadministratie van de desbetreffende dienst kennis te nemen.
 
 2. Van inzage zijn uitgezonderd de gegevens die zicht kunnen geven op bronnen die geheim moeten worden gehouden.
 
@@ -1557,11 +1557,11 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 5. Het hoofd van een dienst bericht de verzoeker binnen zes weken na ontvangst van het verzoek, bedoeld in het vierde lid, of dan wel in hoeverre hij daaraan voldoet.
 
-6. [Artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=85&z=2021-07-15&g=2021-07-15) is niet van toepassing.
+6. [Artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=85&z=2022-01-01&g=2022-01-01) is niet van toepassing.
 
 ##### Artikel 79
 
-1. [Artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) is van overeenkomstige toepassing op een aanvraag met betrekking tot persoonsgegevens die zijn verwerkt door of ten behoeve van een dienst ten aanzien van een overleden echtgenoot, geregistreerd partner, kind of ouder van de aanvrager.
+1. [Artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing op een aanvraag met betrekking tot persoonsgegevens die zijn verwerkt door of ten behoeve van een dienst ten aanzien van een overleden echtgenoot, geregistreerd partner, kind of ouder van de aanvrager.
 
 2. In de aanvraag, bedoeld in het eerste lid, worden ten minste de volgende gegevens vermeld:
 
@@ -1605,7 +1605,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 ##### Artikel 82
 
-1. Een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) wordt in ieder geval afgewezen, indien:
+1. Een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) wordt in ieder geval afgewezen, indien:
 
 - a. betreffende de aanvrager in het kader van enig onderzoek gegevens zijn verwerkt, tenzij:
 
@@ -1621,11 +1621,11 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 ##### Artikel 83
 
-[Artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2021-07-15&g=2021-07-15) is van overeenkomstige toepassing op een aanvraag als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=79&z=2021-07-15&g=2021-07-15) met dien verstande dat in artikel 82 voor «de aanvrager» wordt gelezen: de overleden persoon.
+[Artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing op een aanvraag als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=79&z=2022-01-01&g=2022-01-01) met dien verstande dat in artikel 82 voor «de aanvrager» wordt gelezen: de overleden persoon.
 
 ##### Artikel 84
 
-1. Een aanvraag als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.3&artikel=80&z=2021-07-15&g=2021-07-15) wordt afgewezen, voor zover verstrekking van de gegevens waarop de aanvraag betrekking heeft:
+1. Een aanvraag als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.3&artikel=80&z=2022-01-01&g=2022-01-01) wordt afgewezen, voor zover verstrekking van de gegevens waarop de aanvraag betrekking heeft:
 
 - a. de eenheid van de Kroon in gevaar zou kunnen brengen;
 
@@ -1651,7 +1651,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 3. Indien een aanvraag tot kennisneming wordt afgewezen wordt de commissie van toezicht hiervan op de hoogte gesteld. De mededeling aan de commissie gaat vergezeld van een motivering waarom het verzoek is afgewezen.
 
-4. De voorgaande leden zijn van overeenkomstige toepassing op een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2021-07-15&g=2021-07-15) onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=79&z=2021-07-15&g=2021-07-15), voor zover een dergelijke aanvraag niet wordt afgewezen ingevolge [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2021-07-15&g=2021-07-15) onderscheidenlijk [83](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=83&z=2021-07-15&g=2021-07-15).
+4. De voorgaande leden zijn van overeenkomstige toepassing op een aanvraag als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=76&z=2022-01-01&g=2022-01-01) onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.2&artikel=79&z=2022-01-01&g=2022-01-01), voor zover een dergelijke aanvraag niet wordt afgewezen ingevolge [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=82&z=2022-01-01&g=2022-01-01) onderscheidenlijk [83](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&paragraaf=5.5&artikel=83&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 85
 
@@ -1675,15 +1675,15 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 - b. het verlenen van technische en andere vormen van ondersteuning.
 
-3. Een verzoek om het verlenen van technische en andere vormen van ondersteuning voor zover deze betrekking heeft op de toepassing van bijzondere bevoegdheden als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2021-07-15&g=2021-07-15) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2021-07-15&g=2021-07-15) wordt gedaan door Onze betrokken Minister of namens deze het hoofd van de dienst en omvat een nauwkeurige omschrijving van de verlangde werkzaamheden. Onze betrokken Minister die om de ondersteuning heeft verzocht, is verantwoordelijk voor de feitelijke uitvoering van de te verrichten werkzaamheden. De verzochte ondersteuning wordt slechts verleend, indien daarvoor toestemming is verkregen van Onze betrokken Minister of namens deze het hoofd van de dienst.
+3. Een verzoek om het verlenen van technische en andere vormen van ondersteuning voor zover deze betrekking heeft op de toepassing van bijzondere bevoegdheden als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2022-01-01&g=2022-01-01) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2022-01-01&g=2022-01-01) wordt gedaan door Onze betrokken Minister of namens deze het hoofd van de dienst en omvat een nauwkeurige omschrijving van de verlangde werkzaamheden. Onze betrokken Minister die om de ondersteuning heeft verzocht, is verantwoordelijk voor de feitelijke uitvoering van de te verrichten werkzaamheden. De verzochte ondersteuning wordt slechts verleend, indien daarvoor toestemming is verkregen van Onze betrokken Minister of namens deze het hoofd van de dienst.
 
-4. In het kader van de samenwerking als bedoeld in het eerste lid zijn de diensten voorts bevoegd gezamenlijke werkverbanden te vormen. Onze betrokken Ministers gezamenlijk kunnen met betrekking tot een gezamenlijk werkverband bij ministeriële regeling nadere regels stellen. Voor zover de ministeriële regeling betrekking heeft op de ondersteuning bij toepassing van bijzondere bevoegdheden als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2021-07-15&g=2021-07-15) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2021-07-15&g=2021-07-15), blijft het derde lid, eerste volzin ter zake buiten toepassing.
+4. In het kader van de samenwerking als bedoeld in het eerste lid zijn de diensten voorts bevoegd gezamenlijke werkverbanden te vormen. Onze betrokken Ministers gezamenlijk kunnen met betrekking tot een gezamenlijk werkverband bij ministeriële regeling nadere regels stellen. Voor zover de ministeriële regeling betrekking heeft op de ondersteuning bij toepassing van bijzondere bevoegdheden als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2022-01-01&g=2022-01-01) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2022-01-01&g=2022-01-01), blijft het derde lid, eerste volzin ter zake buiten toepassing.
 
 5. In afwijking van het derde lid kan het verzoek om ondersteuning als bedoeld in het tweede lid, aanhef en onder b, worden gedaan door of namens het hoofd van de betrokken dienst, mits het verzoek om medewerking uitsluitend betrekking heeft op het ter beschikking stellen van technische apparatuur.
 
 ##### Artikel 87
 
-1. In het kader van de samenwerking als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.1&artikel=86&z=2021-07-15&g=2021-07-15), draagt een dienst er zorg voor dat hij de andere dienst tijdig informeert over voorgenomen operationele activiteiten in Nederland en in andere landen, die naar verwachting van invloed kunnen zijn op een goede taakuitvoering van die andere dienst.
+1. In het kader van de samenwerking als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.1&artikel=86&z=2022-01-01&g=2022-01-01), draagt een dienst er zorg voor dat hij de andere dienst tijdig informeert over voorgenomen operationele activiteiten in Nederland en in andere landen, die naar verwachting van invloed kunnen zijn op een goede taakuitvoering van die andere dienst.
 
 2. Indien de eigen goede taakuitvoering van een dienst zich verzet tegen het verstrekken van informatie als bedoeld in het eerste lid, treden de hoofden van de diensten met elkaar in overleg.
 
@@ -1713,7 +1713,7 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 ##### Artikel 89
 
-1. In het kader van een samenwerkingsrelatie als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15) zijn de diensten bevoegd aan de desbetreffende dienst van een ander land gegevens te verstrekken ten behoeve van door deze instanties te behartigen belangen, voor zover:
+1. In het kader van een samenwerkingsrelatie als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01) zijn de diensten bevoegd aan de desbetreffende dienst van een ander land gegevens te verstrekken ten behoeve van door deze instanties te behartigen belangen, voor zover:
 
 - a. deze belangen niet onverenigbaar zijn met de belangen die de diensten hebben te behartigen, en
 
@@ -1721,9 +1721,9 @@ In dit hoofdstuk wordt onder document, bestuurlijke aangelegenheid, intern beraa
 
 2. Voor zover de verstrekking van gegevens als bedoeld in het eerste lid betrekking heeft op ongeëvalueerde gegevens, vindt de verstrekking niet eerder plaats dan nadat Onze betrokken Minister daarvoor toestemming heeft verleend. De toestemming voor meerdere opeenvolgende verstrekkingen van vergelijkbare aard wordt verleend voor een periode van ten hoogste twaalf maanden en kan telkens op een daartoe strekkend verzoek worden verleend voor eenzelfde periode. Van een toestemming tot verstrekking wordt de commissie van toezicht terstond op de hoogte gesteld.
 
-3. Op de verstrekking van gegevens als bedoeld in het eerste lid zijn de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=65&z=2021-07-15&g=2021-07-15), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2021-07-15&g=2021-07-15) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing.
+3. Op de verstrekking van gegevens als bedoeld in het eerste lid zijn de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=65&z=2022-01-01&g=2022-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2022-01-01&g=2022-01-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
-4. In het kader van een samenwerkingsrelatie als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15) zijn de diensten voorts bevoegd op een daartoe schriftelijk verzoek aan de desbetreffende dienst technische en andere vormen van ondersteuning te verlenen ten behoeve van door deze instanties te behartigen belangen, voor zover:
+4. In het kader van een samenwerkingsrelatie als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01) zijn de diensten voorts bevoegd op een daartoe schriftelijk verzoek aan de desbetreffende dienst technische en andere vormen van ondersteuning te verlenen ten behoeve van door deze instanties te behartigen belangen, voor zover:
 
 - a. deze belangen niet onverenigbaar zijn met de belangen die de diensten hebben te behartigen, en
 
@@ -1733,7 +1733,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 5. Een verzoek om ondersteuning als bedoeld in het vierde lid dient ondertekend te zijn door de daartoe bevoegde autoriteit van deze dienst en omvat een nauwkeurige omschrijving van de verlangde vorm van ondersteuning alsmede de reden waarom de ondersteuning wenselijk wordt geacht. De verzochte ondersteuning wordt slechts verleend, indien daarvoor toestemming is verkregen van Onze betrokken Minister.
 
-6. Onze betrokken Minister kan, voor zover de ondersteuning geen betrekking heeft op de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2021-07-15&g=2021-07-15) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2021-07-15&g=2021-07-15), de bevoegdheid tot het verlenen van toestemming als bedoeld in het vijfde lid mandateren aan het hoofd van de dienst met dien verstande dat ingeval het een dienst van een ander land betreft ter zake waarvan uit de weging als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15) is gebleken dat daaraan risico’s zijn verbonden, de toestemming wordt verleend door Onze betrokken Minister. Van een verleende toestemming door het hoofd van de dienst wordt Onze betrokken Minister zo spoedig mogelijk geïnformeerd.
+6. Onze betrokken Minister kan, voor zover de ondersteuning geen betrekking heeft op de uitoefening van een bijzondere bevoegdheid als bedoeld in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2022-01-01&g=2022-01-01) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2022-01-01&g=2022-01-01), de bevoegdheid tot het verlenen van toestemming als bedoeld in het vijfde lid mandateren aan het hoofd van de dienst met dien verstande dat ingeval het een dienst van een ander land betreft ter zake waarvan uit de weging als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01) is gebleken dat daaraan risico’s zijn verbonden, de toestemming wordt verleend door Onze betrokken Minister. Van een verleende toestemming door het hoofd van de dienst wordt Onze betrokken Minister zo spoedig mogelijk geïnformeerd.
 
 ##### Artikel 90
 
@@ -1741,9 +1741,9 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 2. Indien het verzoek, bedoeld in het eerste lid, strekt ter ondersteuning bij de uitoefening van een bijzondere bevoegdheid, waarvoor toestemming is verleend, wordt de toestemming voor het verzoek om ondersteuning verleend door degene die ingevolge het bij of krachtens deze wet bepaalde, bevoegd is tot het verlenen van toestemming voor de uitoefening van de desbetreffende bijzondere bevoegdheid.
 
-3. Indien het verzoek om ondersteuning als bedoeld in het eerste lid het verrichten van een handeling betreft die overeenkomt met de uitoefening van een bijzondere bevoegdheid als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2021-07-15&g=2021-07-15), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2021-07-15&g=2021-07-15) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2021-07-15&g=2021-07-15), is hetgeen bij of krachtens deze paragrafen ter zake is bepaald, van overeenkomstige toepassing.
+3. Indien het verzoek om ondersteuning als bedoeld in het eerste lid het verrichten van een handeling betreft die overeenkomt met de uitoefening van een bijzondere bevoegdheid als bedoeld in de [paragrafen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&z=2022-01-01&g=2022-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.2&z=2022-01-01&g=2022-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&paragraaf=4.3&z=2022-01-01&g=2022-01-01), is hetgeen bij of krachtens deze paragrafen ter zake is bepaald, van overeenkomstige toepassing.
 
-4. In afwijking van het bepaalde in het tweede en derde lid, wordt, ingeval de verlangde ondersteuning niet in overeenstemming is met de aard en intensiteit van de samenwerkingsrelatie met de desbetreffende inlichtingen- en veiligheidsdienst van een ander land, zoals vastgesteld naar aanleiding van de weging als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2021-07-15&g=2021-07-15), de toestemming voor het verzoek om ondersteuning verleend door Onze betrokken Minister.
+4. In afwijking van het bepaalde in het tweede en derde lid, wordt, ingeval de verlangde ondersteuning niet in overeenstemming is met de aard en intensiteit van de samenwerkingsrelatie met de desbetreffende inlichtingen- en veiligheidsdienst van een ander land, zoals vastgesteld naar aanleiding van de weging als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.2&artikel=88&z=2022-01-01&g=2022-01-01), de toestemming voor het verzoek om ondersteuning verleend door Onze betrokken Minister.
 
 5. Een verzoek om ondersteuning als bedoeld in het eerste lid kan geen betrekking hebben op het verrichten van handelingen die niet overeenkomen met de uitoefening van een bevoegdheid als bedoeld in deze wet.
 
@@ -1753,7 +1753,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 ##### Artikel 91
 
-1. De korpschef, de politiechef van een landelijke eenheid, de politiechef van een regionale eenheid, de commandant van de Koninklijke marechaussee, de directeur-generaal van de rijksbelastingdienst van het Ministerie van Financiën, de Hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie en de inspecteur-generaal van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid verrichten werkzaamheden ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst.
+1. De korpschef, de politiechef van een landelijke eenheid, de politiechef van een regionale eenheid, de commandant van de Koninklijke marechaussee, de directeur-generaal van de rijksbelastingdienst van het Ministerie van Financiën, de Hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie en de inspecteur-generaal van de Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid verrichten werkzaamheden ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst.
 
 2. Onze Ministers onder wie de in het eerste lid genoemde ambtenaren ressorteren, onderscheidenlijk de korpschef en de korpsbeheerder van het politiekorps van Bonaire, Sint Eustatius en Saba wijzen in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondergeschikten van deze ambtenaren aan tot de feitelijke uitvoering van en het toezicht op de aldaar bedoelde werkzaamheden.
 
@@ -1779,7 +1779,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 ##### Artikel 94
 
-1. De ambtenaren van politie, de ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst doen desgevraagd dan wel uit eigen beweging onverwijld mededeling van gegevens die voor een dienst van belang kunnen zijn aan de in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2021-07-15&g=2021-07-15), bedoelde ambtenaar aan wie zij ondergeschikt zijn. In afwijking van de eerste zin vindt de mededeling van ambtenaren van politie die zijn tewerkgesteld bij een regionale eenheid plaats aan de politiechef van de desbetreffende regionale eenheid. De in artikel 91, eerste lid, bedoelde ambtenaar waaraan de mededeling is gedaan, zendt de gegevens onverwijld aan die dienst.
+1. De ambtenaren van politie, de ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst doen desgevraagd dan wel uit eigen beweging onverwijld mededeling van gegevens die voor een dienst van belang kunnen zijn aan de in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2022-01-01&g=2022-01-01), bedoelde ambtenaar aan wie zij ondergeschikt zijn. In afwijking van de eerste zin vindt de mededeling van ambtenaren van politie die zijn tewerkgesteld bij een regionale eenheid plaats aan de politiechef van de desbetreffende regionale eenheid. De in artikel 91, eerste lid, bedoelde ambtenaar waaraan de mededeling is gedaan, zendt de gegevens onverwijld aan die dienst.
 
 2. In afwijking van het bepaalde in het eerste lid kan de verstrekking van de gegevens tevens plaatsvinden op rechtstreeks geautomatiseerde wijze. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de te treffen technische en organisatorische maatregelen.
 
@@ -1829,7 +1829,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 ##### Artikel 108
 
-1. Een afdeling van de commissie van toezicht kan, indien zij dat voor een goede uitoefening van haar taak noodzakelijk acht, de personen, bedoeld in [artikel 107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=107&z=2021-07-15&g=2021-07-15), en andere personen als getuige of als deskundige om inlichtingen verzoeken en deze oproepen om voor haar te verschijnen.
+1. Een afdeling van de commissie van toezicht kan, indien zij dat voor een goede uitoefening van haar taak noodzakelijk acht, de personen, bedoeld in [artikel 107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=107&z=2022-01-01&g=2022-01-01), en andere personen als getuige of als deskundige om inlichtingen verzoeken en deze oproepen om voor haar te verschijnen.
 
 2. Het verzoek geschiedt schriftelijk en vermeldt zo veel als mogelijk de feiten waaromtrent door de getuige of de deskundige inlichtingen dienen te worden verstrekt. Indien de getuige of de deskundige is opgeroepen om voor een afdeling van de commissie te verschijnen, vermeldt het verzoek tevens de plaats en het tijdstip waarop deze zal worden gehoord en de gevolgen die zijn verbonden aan het niet verschijnen. De oproeping om te verschijnen geschiedt bij aangetekende brief of bij brief met ontvangstbevestiging.
 
@@ -1837,7 +1837,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 4. De verplichting om voor een afdeling van de commissie te verschijnen geldt niet voor Onze betrokken Ministers. Wanneer een minister niet verschijnt, laat hij zich vertegenwoordigen.
 
-5. Indien een ambtenaar die betrokken is bij de uitvoering van deze wet ingevolge dit artikel als getuige of als deskundige optreedt is [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2021-07-15&g=2021-07-15), niet van toepassing.
+5. Indien een ambtenaar die betrokken is bij de uitvoering van deze wet ingevolge dit artikel als getuige of als deskundige optreedt is [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2022-01-01&g=2022-01-01), niet van toepassing.
 
 6. Een afdeling van de commissie van toezicht kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor haar worden gebracht om aan hun verplichtingen te voldoen.
 
@@ -1857,13 +1857,13 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 ##### Artikel 111
 
-Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewezen lid is bevoegd alle plaatsen te betreden, met uitzondering van een woning zonder toestemming van de bewoner, voor zover dat voor de vervulling van haar taak redelijkerwijs nodig is. De afdeling dan wel het door haar aangewezen lid kan zich daarbij doen vergezellen van door de voorzitter aangewezen personen van het secretariaat, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2021-07-15&g=2021-07-15).
+Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewezen lid is bevoegd alle plaatsen te betreden, met uitzondering van een woning zonder toestemming van de bewoner, voor zover dat voor de vervulling van haar taak redelijkerwijs nodig is. De afdeling dan wel het door haar aangewezen lid kan zich daarbij doen vergezellen van door de voorzitter aangewezen personen van het secretariaat, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2022-01-01&g=2022-01-01).
 
 #### Paragraaf 7.2.2. De uitoefening van het toezicht door de afdeling toezicht
 
 ##### Artikel 112
 
-1. In het kader van haar toezichthoudende taak, bedoeld in [artikel 97, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2021-07-15&g=2021-07-15), is de afdeling toezicht bevoegd tot het verrichten van onderzoek naar de wijze waarop hetgeen bij of krachtens deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is gesteld, is uitgevoerd.
+1. In het kader van haar toezichthoudende taak, bedoeld in [artikel 97, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2022-01-01&g=2022-01-01), is de afdeling toezicht bevoegd tot het verrichten van onderzoek naar de wijze waarop hetgeen bij of krachtens deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is gesteld, is uitgevoerd.
 
 2. De afdeling toezicht kan voorts een onderzoek als bedoeld in het eerste lid verrichten op een daartoe strekkend verzoek van elk van de beide kamers der Staten-Generaal.
 
@@ -1871,7 +1871,7 @@ Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewe
 
 ##### Artikel 113
 
-1. De afdeling toezicht stelt naar aanleiding van het door haar verrichte onderzoek een toezichtsrapport op. Het toezichtsrapport is openbaar, met uitzondering van gegevens als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2021-07-15&g=2021-07-15).
+1. De afdeling toezicht stelt naar aanleiding van het door haar verrichte onderzoek een toezichtsrapport op. Het toezichtsrapport is openbaar, met uitzondering van gegevens als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2022-01-01&g=2022-01-01).
 
 2. Alvorens het toezichtsrapport vast te stellen, stelt de afdeling toezicht Onze betrokken Minister in de gelegenheid binnen een door de afdeling toezicht gestelde redelijke termijn op de in het toezichtsrapport opgenomen bevindingen te reageren.
 
@@ -1879,7 +1879,7 @@ Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewe
 
 4. Het toezichtsrapport wordt na vaststelling door de afdeling toezicht gezonden aan Onze betrokken Minister.
 
-5. Onze betrokken Minister zendt het toezichtsrapport alsmede zijn reactie daarop binnen zes weken aan de beide kamers der Staten-Generaal. Vermelding van in ieder geval de gegevens, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2021-07-15&g=2021-07-15), blijft daarbij achterwege. Deze gegevens kunnen ter vertrouwelijke kennisneming aan een of beide kamers der Staten-Generaal worden medegedeeld.
+5. Onze betrokken Minister zendt het toezichtsrapport alsmede zijn reactie daarop binnen zes weken aan de beide kamers der Staten-Generaal. Vermelding van in ieder geval de gegevens, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2022-01-01&g=2022-01-01), blijft daarbij achterwege. Deze gegevens kunnen ter vertrouwelijke kennisneming aan een of beide kamers der Staten-Generaal worden medegedeeld.
 
 #### Paragraaf 7.2.3. De behandeling van klachten door de afdeling klachtbehandeling
 
@@ -1887,7 +1887,7 @@ Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewe
 
 1. Een ieder heeft het recht bij de afdeling klachtbehandeling van de commissie van toezicht een klacht in te dienen over het optreden of het vermeende optreden van Onze betrokken Ministers, de hoofden van de diensten, de coördinator, en de voor de diensten en de coördinator werkzame personen jegens een natuurlijke of rechtspersoon ter uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277). [Titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) is niet van toepassing.
 
-2. De afdeling klachtbehandeling is verplicht een klacht als bedoeld in het eerste lid in behandeling te nemen, tenzij [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=120&z=2021-07-15&g=2021-07-15), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=121&z=2021-07-15&g=2021-07-15) of [122](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=122&z=2021-07-15&g=2021-07-15) van toepassing is.
+2. De afdeling klachtbehandeling is verplicht een klacht als bedoeld in het eerste lid in behandeling te nemen, tenzij [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=120&z=2022-01-01&g=2022-01-01), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=121&z=2022-01-01&g=2022-01-01) of [122](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=122&z=2022-01-01&g=2022-01-01) van toepassing is.
 
 3. Alvorens een klacht in te dienen bij de afdeling klachtbehandeling van de commissie van toezicht, stelt de klager Onze betrokken Minister wie het aangaat in kennis van de klacht en stelt hij deze in de gelegenheid diens zienswijze daarop te geven, tenzij dit redelijkerwijs niet van hem kan worden gevergd.
 
@@ -1953,7 +1953,7 @@ De afdeling klachtbehandeling is niet bevoegd een onderzoek in te stellen of voo
 
 De afdeling klachtbehandeling is niet verplicht een onderzoek in te stellen of voort te zetten indien:
 
-- a. het klaagschrift niet voldoet aan de vereisten, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=115&z=2021-07-15&g=2021-07-15);
+- a. het klaagschrift niet voldoet aan de vereisten, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=115&z=2022-01-01&g=2022-01-01);
 
 - b. de klacht kennelijk ongegrond is;
 
@@ -1967,7 +1967,7 @@ De afdeling klachtbehandeling is niet verplicht een onderzoek in te stellen of v
 
 - g. de klacht betrekking heeft op een optreden ten aanzien waarvan door een andere rechterlijke instantie dan een bestuursrechter uitspraak is gedaan;
 
-- h. niet is voldaan aan het vereiste van [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=114&z=2021-07-15&g=2021-07-15);
+- h. niet is voldaan aan het vereiste van [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=114&z=2022-01-01&g=2022-01-01);
 
 - i. een klacht, hetzelfde optreden betreffende, bij haar in behandeling is of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over het bedoelde optreden zou hebben kunnen leiden – door haar is afgedaan;
 
@@ -1993,7 +1993,7 @@ De afdeling klachtbehandeling is niet verplicht een onderzoek in te stellen of v
 
 ##### Artikel 123
 
-1. Indien de afdeling klachtbehandeling op grond van [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=120&z=2021-07-15&g=2021-07-15), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=121&z=2021-07-15&g=2021-07-15) of [122](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=122&z=2021-07-15&g=2021-07-15) geen onderzoek instelt of dit niet voortzet, deelt zij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de klager mede.
+1. Indien de afdeling klachtbehandeling op grond van [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=120&z=2022-01-01&g=2022-01-01), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=121&z=2022-01-01&g=2022-01-01) of [122](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=122&z=2022-01-01&g=2022-01-01) geen onderzoek instelt of dit niet voortzet, deelt zij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de klager mede.
 
 2. In het geval dat de afdeling klachtbehandeling een onderzoek niet voortzet, doet zij de in het eerste lid bedoelde mededeling tevens aan Onze betrokken Minister en, in voorkomend geval, aan degene op wiens optreden het onderzoek betrekking heeft.
 
@@ -2051,7 +2051,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 127
 
-1. De afdeling klachtbehandeling neemt de melding in behandeling, indien zij van oordeel is dat er sprake is van een melding van het vermoeden van een misstand. Met betrekking tot de beoordeling van een melding en de verdere behandeling zijn de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=116&z=2021-07-15&g=2021-07-15) en [118](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=118&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing.
+1. De afdeling klachtbehandeling neemt de melding in behandeling, indien zij van oordeel is dat er sprake is van een melding van het vermoeden van een misstand. Met betrekking tot de beoordeling van een melding en de verdere behandeling zijn de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=116&z=2022-01-01&g=2022-01-01) en [118](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=118&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
 2. Indien de afdeling klachtbehandeling de melding in behandeling neemt, deelt zij de inhoud van de melding aan Onze betrokken Minister mede, waarbij zij erop toeziet dat deze niet herleidbaar is tot de identiteit van de melder. De identiteit van de melder kan slechts aan Onze betrokken Minister worden medegedeeld, indien de melder daarmee instemt.
 
@@ -2059,7 +2059,7 @@ In deze paragraaf wordt verstaan onder:
 
 1. De afdeling klachtbehandeling is niet verplicht een onderzoek naar de melding in te stellen of voort te zetten, indien:
 
-- a. de melding niet voldoet aan het bepaalde in [artikel 126, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.4&artikel=126&z=2021-07-15&g=2021-07-15);
+- a. de melding niet voldoet aan het bepaalde in [artikel 126, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.4&artikel=126&z=2022-01-01&g=2022-01-01);
 
 - b. de melding kennelijk ongegrond is;
 
@@ -2075,11 +2075,11 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 129
 
-Indien de afdeling klachtbehandeling geen onderzoek instelt of dit niet voortzet, deelt zij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de melder en, voor zover Onze betrokken Minister op grond van [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.4&artikel=127&z=2021-07-15&g=2021-07-15), van de melding op de hoogte is gesteld, Onze betrokken Minister mede.
+Indien de afdeling klachtbehandeling geen onderzoek instelt of dit niet voortzet, deelt zij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de melder en, voor zover Onze betrokken Minister op grond van [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.4&artikel=127&z=2022-01-01&g=2022-01-01), van de melding op de hoogte is gesteld, Onze betrokken Minister mede.
 
 ##### Artikel 130
 
-Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=117&z=2021-07-15&g=2021-07-15) van overeenkomstige toepassing.
+Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.3&artikel=117&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 131
 
@@ -2097,7 +2097,7 @@ Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten
 
 7. Onze betrokken Minister stelt de afdeling klachtbehandeling binnen twee weken na ontvangst van het oordeel schriftelijk op de hoogte van de wijze waarop deze aan het oordeel van de afdeling klachtbehandeling gevolg zal geven en binnen welke termijn.
 
-8. Onze betrokken Minister zendt het oordeel van de afdeling klachtbehandeling alsmede diens reactie als bedoeld in het zevende lid zo spoedig mogelijk aan een of beide kamers der Staten-Generaal. Vermelding van in ieder geval de gegevens, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2021-07-15&g=2021-07-15), blijft daarbij achterwege. De gegevens, bedoeld in de tweede volzin, kunnen ter vertrouwelijke kennisneming aan een of beide kamers der Staten-Generaal worden medegedeeld.
+8. Onze betrokken Minister zendt het oordeel van de afdeling klachtbehandeling alsmede diens reactie als bedoeld in het zevende lid zo spoedig mogelijk aan een of beide kamers der Staten-Generaal. Vermelding van in ieder geval de gegevens, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2022-01-01&g=2022-01-01), blijft daarbij achterwege. De gegevens, bedoeld in de tweede volzin, kunnen ter vertrouwelijke kennisneming aan een of beide kamers der Staten-Generaal worden medegedeeld.
 
 9. Een oordeel of aanbeveling behelst geen vaststelling van civielrechtelijke aansprakelijkheid in verband met een misstand, noch een vermoeden van schuld aan enig strafbaar feit.
 
@@ -2105,7 +2105,7 @@ Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten
 
 ##### Artikel 132
 
-1. De commissie van toezicht brengt jaarlijks voor 1 mei een openbaar verslag uit van haar werkzaamheden. Het verslag wordt aangeboden aan beide kamers der Staten-Generaal en aan Onze betrokken Ministers. [Artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2021-07-15&g=2021-07-15), zijn van overeenkomstige toepassing.
+1. De commissie van toezicht brengt jaarlijks voor 1 mei een openbaar verslag uit van haar werkzaamheden. Het verslag wordt aangeboden aan beide kamers der Staten-Generaal en aan Onze betrokken Ministers. [Artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2022-01-01&g=2022-01-01), zijn van overeenkomstige toepassing.
 
 2. Het openbare jaarverslag wordt algemeen verkrijgbaar gesteld.
 
@@ -2117,11 +2117,11 @@ Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten
 
 2. Verzoeken om kennisneming of openbaarmaking van deze gegevens worden geweigerd.
 
-3. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2021-07-15&g=2021-07-15) is van overeenkomstige toepassing op de archiefbescheiden die berusten bij de commissie van toezicht en haar afdelingen, met dien verstande dat voor Onze betrokken Minister wordt gelezen: Onze betrokken Minister wie het aangaat.
+3. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing op de archiefbescheiden die berusten bij de commissie van toezicht en haar afdelingen, met dien verstande dat voor Onze betrokken Minister wordt gelezen: Onze betrokken Minister wie het aangaat.
 
 ##### Artikel 134
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2021-07-15&g=2021-07-15) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2021-07-15&g=2021-07-15) zijn van overeenkomstige toepassing op de commissie van toezicht.
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2022-01-01&g=2022-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing op de commissie van toezicht.
 
 ### Hoofdstuk 8. Geheimhouding
 
@@ -2135,7 +2135,7 @@ De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&pa
 
 1. De verplichting tot geheimhouding van een ambtenaar die betrokken is bij de uitvoering van deze wet, geldt niet tegenover hem aan wie de ambtenaar middellijk of onmiddellijk ondergeschikt is, noch in zover hij door een boven hem gestelde van die verplichting is ontslagen.
 
-2. De ambtenaar, bedoeld in het eerste lid, die krachtens een wettelijke bepaling verplicht wordt als getuige of deskundige op te treden, legt slechts een verklaring af omtrent datgene waartoe zijn verplichting tot geheimhouding zich uitstrekt, voor zover Onze betrokken Minister en Onze Minister van Veiligheid en Justitie gezamenlijk hem daartoe schriftelijk van de verplichting hebben ontheven. Daarbij wordt voor ambtenaren die in hun functie kennis hebben gekregen van gegevens die krachtens [artikel 62, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15), door een dienst zijn verstrekt als: «Onze betrokken Minister» aangemerkt: Onze Minister onder wie de dienst ressorteert die de gegevens heeft verstrekt.
+2. De ambtenaar, bedoeld in het eerste lid, die krachtens een wettelijke bepaling verplicht wordt als getuige of deskundige op te treden, legt slechts een verklaring af omtrent datgene waartoe zijn verplichting tot geheimhouding zich uitstrekt, voor zover Onze betrokken Minister en Onze Minister van Veiligheid en Justitie gezamenlijk hem daartoe schriftelijk van de verplichting hebben ontheven. Daarbij wordt voor ambtenaren die in hun functie kennis hebben gekregen van gegevens die krachtens [artikel 62, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01), door een dienst zijn verstrekt als: «Onze betrokken Minister» aangemerkt: Onze Minister onder wie de dienst ressorteert die de gegevens heeft verstrekt.
 
 3. Dit artikel is van overeenkomstige toepassing in het geval dat het betrokken zijn bij de uitvoering van deze wet is geëindigd.
 
@@ -2145,7 +2145,7 @@ De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&pa
 
 2. Indien in een bestuursrechtelijke procedure inzake de toepassing van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) Onze betrokken Minister of de commissie van toezicht door het Gerecht of het Hof ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=28) en [29 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=29) wordt verplicht tot het verstrekken van inlichtingen dan wel het overleggen van stukken en de desbetreffende inlichtingen worden verstrekt onderscheidenlijk de stukken worden overgelegd waarbij door Onze betrokken Minister dan wel de commissie van toezicht is aangegeven dat vanwege het bestaan van gewichtige redenen als bedoeld in [artikel 24, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) uitsluitend het Gerecht of het Hof kennis zal mogen nemen van de desbetreffende inlichtingen onderscheidenlijk de stukken, en het Gerecht of het Hof op grond van artikel 24, derde lid, van de Wet administratieve rechtspraak BES tot het oordeel komt dat ten onrechte een beroep op gewichtige redenen wordt gedaan, worden de stukken aan Onze betrokken Minister dan wel de commissie van toezicht teruggezonden. Het Gerecht of het Hof stelt daaraan voorafgaand Onze betrokken Minister dan wel de commissie van toezicht in de gelegenheid de desbetreffende inlichtingen onderscheidenlijk stukken alsnog zonder het voorbehoud dat uitsluitend het Gerecht of het Hof er kennis van kan nemen te verstrekken.
 
-3. Het eerste en tweede lid is van overeenkomstige toepassing ingeval Onze betrokken Minister, niet zijnde partij in de bestuursrechtelijke procedure, wordt verplicht tot het geven van inlichtingen dan wel het overleggen van stukken in verband met door de dienst gedane mededelingen als bedoeld in [artikel 62, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2021-07-15&g=2021-07-15).
+3. Het eerste en tweede lid is van overeenkomstige toepassing ingeval Onze betrokken Minister, niet zijnde partij in de bestuursrechtelijke procedure, wordt verplicht tot het geven van inlichtingen dan wel het overleggen van stukken in verband met door de dienst gedane mededelingen als bedoeld in [artikel 62, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2022-01-01&g=2022-01-01).
 
 4. Indien door Onze betrokken Minister of de commissie van toezicht aan de bestuursrechter onderscheidenlijk het Gerecht of het Hof stukken dienen te worden overgelegd, kan worden volstaan met het ter inzage geven van de desbetreffende stukken. Van de desbetreffende stukken mag op generlei wijze een afschrift worden vervaardigd.
 
@@ -2181,7 +2181,7 @@ Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius 
 
 ##### Artikel 142
 
-1. De personen en instanties die bij of krachtens de [Wet op de telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) bevoegd zijn tot het verzorgen van telecommunicatieverkeer voor derden zijn verplicht medewerking te verlenen aan de uitvoering van de bijzondere bevoegdheden als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2021-07-15&g=2021-07-15), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2021-07-15&g=2021-07-15), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2021-07-15&g=2021-07-15), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2021-07-15&g=2021-07-15), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2021-07-15&g=2021-07-15), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2021-07-15&g=2021-07-15), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2021-07-15&g=2021-07-15) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2021-07-15&g=2021-07-15) van de wet, voor zover deze betrekking heeft op het aftappen of opnemen van telecommunicatie en het verstrekken van gegevens omtrent een gebruiker en het telecommunicatieverkeer met betrekking tot die gebruiker. Onder een gebruiker wordt in dit kader verstaan de natuurlijke of rechtspersoon die met de persoon of een instantie als bedoeld in de eerste volzin een overeenkomst is aangegaan met betrekking tot het verzorgen van telecommunicatieverkeer, alsmede de natuurlijke of rechtspersoon wiens telecommunicatieverkeer het betreft.
+1. De personen en instanties die bij of krachtens de [Wet op de telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) bevoegd zijn tot het verzorgen van telecommunicatieverkeer voor derden zijn verplicht medewerking te verlenen aan de uitvoering van de bijzondere bevoegdheden als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2022-01-01&g=2022-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2022-01-01&g=2022-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2022-01-01&g=2022-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2022-01-01&g=2022-01-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2022-01-01&g=2022-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2022-01-01&g=2022-01-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2022-01-01&g=2022-01-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2022-01-01&g=2022-01-01) van de wet, voor zover deze betrekking heeft op het aftappen of opnemen van telecommunicatie en het verstrekken van gegevens omtrent een gebruiker en het telecommunicatieverkeer met betrekking tot die gebruiker. Onder een gebruiker wordt in dit kader verstaan de natuurlijke of rechtspersoon die met de persoon of een instantie als bedoeld in de eerste volzin een overeenkomst is aangegaan met betrekking tot het verzorgen van telecommunicatieverkeer, alsmede de natuurlijke of rechtspersoon wiens telecommunicatieverkeer het betreft.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Defensie en Onze Minister van Economische Zaken gezamenlijk kunnen in bijzondere gevallen de personen en instanties, bedoeld in het eerste lid, ontheffing verlenen van de verplichting tot medewerking.
 
