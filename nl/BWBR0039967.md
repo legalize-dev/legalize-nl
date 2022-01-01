@@ -4,7 +4,7 @@ identifier: "BWBR0039967"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-19"
-last_updated: "2021-07-15"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039967"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - **projectleider:** de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde doelstellingen;
 
-- **vakgroep:** een vakgroep die valt onder de directie Mensen & Middelen van de inspectie;
+- **vakgroep:** een vakgroep die valt onder de directie Mensen & Middelen van de Nederlandse Arbeidsinspectie;
 
 - **vakgroep P&P:** de vakgroep Programma- & Projectmanagement;
 
@@ -96,7 +96,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - d. het sturen op de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld en capaciteit, in het vastgestelde programmaplan;
 
-- e. het oog houden voor de bijdrage van het programma aan inspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
+- e. het oog houden voor de bijdrage van het programma aan Nederlandse Arbeidsinspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
 
 - f. het in de P&C-cyclus op programmaniveau aan de opdrachtgever uitbrengen van rapporten waarin de output is gekoppeld aan doelstellingen en beoogde maatschappelijke effecten;
 
@@ -120,7 +120,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - m. het functioneel sturing geven aan projectleiders en projectsecretarissen bij het plannen, uitvoeren en evalueren van interventieprojecten;
 
-- n. het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- n. het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 #### § 4. Bevoegdheden
 
@@ -176,11 +176,11 @@ Het vakgroephoofd P&P is verantwoordelijk voor de volgende algemene taken:
 
 - a. het leiding geven aan de eigen vakgroep, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen vakgroep;
 
-- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen vakgroep aan de uitvoering van het jaarplan van de inspectie;
+- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen vakgroep aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
 - c. het doen van voorstellen aan de directeur Toezicht met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van Nederlandse Arbeidsinspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het in het kader van het proces van programmeren en alloceren zorg dragen voor een goede vertaalslag van strategische en tactische allocatie naar de feitelijke bemensing van programma’s en projecten;
 
@@ -194,7 +194,7 @@ Het vakgroephoofd P&P is verantwoordelijk voor de volgende algemene taken:
 
 - j. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op zijn vakgebied;
 
-- k. het vervullen van het proceseigenaarschap van het proces Programmatisch- en projectmatig werken, het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- k. het vervullen van het proceseigenaarschap van het proces Programmatisch- en projectmatig werken, het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 ##### Artikel 3b. Verantwoordelijkheden teammanagers
 
@@ -236,7 +236,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - m. de borging van regionale netwerken, voor zover deze programmaoverstijgend zijn;
 
-- n. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- n. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 ##### Artikel 3c. Taken en verantwoordelijkheden vakgroep P&P
 
@@ -252,7 +252,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het aansturen op de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld en capaciteit, in het vastgestelde programmaplan;
 
-- d. het oog houden voor de bijdrage van het programma aan inspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
+- d. het oog houden voor de bijdrage van het programma aan Nederlandse Arbeidsinspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
 
 - e. het functioneel aansturen van de medewerkers die onderdeel zijn van het programmateam, waaronder de projectleiders;
 
@@ -264,7 +264,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het onderhouden van de relevante externe contacten met samenwerkingspartners op operationeel niveau;
 
-- j. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- j. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 4. De projectleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -278,7 +278,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - e. het aansturen op een optimale bijdrage van het project aan de programmadoelen en het daartoe leggen van verbinding met andere projecten;
 
-- f. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+- f. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
 
 #### § 4. Bevoegdheden
 
