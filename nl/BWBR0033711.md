@@ -4,7 +4,7 @@ identifier: "BWBR0033711"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033711"
 soort: "AMvB"
@@ -72,17 +72,17 @@ In dit besluit wordt verstaan onder:
 
 2. Het looptijdonafhankelijke deel voor elke afgeronde zaak bedraagt:
 
-- a. € 1.151 indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
+- a. € 1.207 indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
 
-- b. € 2.550 indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
+- b. € 2.674 indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
 
-- c. € 1.380 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
+- c. € 1.447 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden; of
 
-- d. € 3.059 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden.
+- d. € 3.208 indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt en de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden.
 
-3. Het looptijdafhankelijke deel wordt berekend over iedere maand, een gedeelte van een maand daaronder begrepen, gedurende welke de schuldsaneringsregeling in een zaak van toepassing is, en bedraagt voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken € 56,50.
+3. Het looptijdafhankelijke deel wordt berekend over iedere maand, een gedeelte van een maand daaronder begrepen, gedurende welke de schuldsaneringsregeling in een zaak van toepassing is, en bedraagt voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken € 59,50.
 
-4. Indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt, bedraagt het looptijdafhankelijke deel in een zaak, in afwijking van het derde lid, € 68,50.
+4. Indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt, bedraagt het looptijdafhankelijke deel in een zaak, in afwijking van het derde lid, € 72,00.
 
 5. De in het tweede, derde en vierde lid genoemde bedragen worden jaarlijks met ingang van 1 januari bij regeling van Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
 
@@ -102,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De rechtbank berekent het bedrag van de vergoeding overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2&z=2021-01-01&g=2021-01-01).
+1. De rechtbank berekent het bedrag van de vergoeding overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2&z=2022-01-01&g=2022-01-01).
 
 2. Indien daartoe gronden zijn, kan de rechtbank in afwijking van het eerste lid de vergoeding op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel ambtshalve, aanpassen.
 
@@ -116,7 +116,7 @@ Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoe
 
 1. Onze Minister kan van zijn bevoegdheid tot het verstrekken van een bewindvoerderssubsidie mandaat verlenen aan de raad.
 
-2. De bewindvoerderssubsidie is gelijk aan het bedrag van de vergoeding dat overeenkomstig [artikel 3, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3&z=2021-01-01&g=2021-01-01), wordt berekend, verminderd met het overeenkomstig artikel 3, derde lid, vastgestelde salaris.
+2. De bewindvoerderssubsidie is gelijk aan het bedrag van de vergoeding dat overeenkomstig [artikel 3, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3&z=2022-01-01&g=2022-01-01), wordt berekend, verminderd met het overeenkomstig artikel 3, derde lid, vastgestelde salaris.
 
 3. Indien overeenkomstig het eerste lid mandaat is verleend, stelt het bestuur van de raad aan de rechtbanken ten minste eenmaal per jaar een actuele opgave ter beschikking van personen die naar zijn oordeel geschikt zijn om voor de bewindvoering in aanmerking te komen.
 
