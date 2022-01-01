@@ -4,7 +4,7 @@ identifier: "BWBR0008118"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008118"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder Minister: Minister van Infrastructuur en M
 
 ##### Artikel 2
 
-Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 392,– aan de Minister verschuldigd.
+Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheffing is € 401,– aan de Minister verschuldigd.
 
 ##### Artikel 3
 
@@ -57,7 +57,7 @@ Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheff
 
 ##### Artikel 4
 
-1. Indien een ander dan de Minister, de Minister van Defensie of de Dienst Wegverkeer de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=3&z=2021-01-01&g=2021-01-01), genoemde handelingen verricht, is hem een vergoeding verschuldigd op basis van een tarief waarvan hij de hoogte en de wijze van betalen zelf vaststelt.
+1. Indien een ander dan de Minister, de Minister van Defensie of de Dienst Wegverkeer de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=3&z=2022-01-01&g=2022-01-01), genoemde handelingen verricht, is hem een vergoeding verschuldigd op basis van een tarief waarvan hij de hoogte en de wijze van betalen zelf vaststelt.
 
 2. De geraamde opbrengst van een vergoeding gaat per soort van handeling de geraamde uitgaven ter zake niet te boven.
 
@@ -65,11 +65,11 @@ Voor het behandelen van een verzoek tot het verlenen of wijzigen van een ontheff
 
 ##### Artikel 5
 
-De Minister kan een tarief als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2021-01-01&g=2021-01-01) vaststellen, in welk geval deze vaststelling zo nodig in de plaats treedt van die, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2021-01-01&g=2021-01-01).
+De Minister kan een tarief als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2022-01-01&g=2022-01-01) vaststellen, in welk geval deze vaststelling zo nodig in de plaats treedt van die, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 6
 
-1. Een verzoek betreffende een handeling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=2&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=3&z=2021-01-01&g=2021-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2021-01-01&g=2021-01-01) kan buiten behandeling worden gelaten totdat het verschuldigde is voldaan.
+1. Een verzoek betreffende een handeling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=3&z=2022-01-01&g=2022-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=4&z=2022-01-01&g=2022-01-01) kan buiten behandeling worden gelaten totdat het verschuldigde is voldaan.
 
 2. Indien het te keuren, te beproeven of te onderzoeken object op het afgesproken tijdstip en de afgesproken plaats niet in een voldoende staat van gereedheid aanwezig is, is de aanvrager een vergoeding verschuldigd die gelijk is aan het voor de aangevraagde verrichting verschuldigde bedrag, verminderd met de besparingen die voortvloeien uit het niet verrichten van de desbetreffende handeling.
 
@@ -85,6 +85,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 10a van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) is een tarief verschuldigd van € 8.527,– aan de Minister.
+Voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 10a van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) is een tarief verschuldigd van € 8.732,- aan de Minister.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
