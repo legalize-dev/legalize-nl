@@ -4,7 +4,7 @@ identifier: "BWBR0044043"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2021-10-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044043"
 soort: "ministeriele-regeling-BES"
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 72, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2021-10-21&g=2021-10-21), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 5. Nadere regels belangstellingsmeting
 
@@ -144,11 +144,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -160,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 - b. onherroepelijk is afgewezen.
 
-7. Vanaf 29 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 ##### Artikel 7. Uitzonderingssituaties toepassing marktonderzoek
 
