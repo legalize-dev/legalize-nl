@@ -4,7 +4,7 @@ identifier: "BWBR0040730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2021-03-25"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040730"
 soort: "ministeriele-regeling"
@@ -317,7 +317,9 @@ Ten behoeve van de Nationale Dodenherdenking op 4 mei is om redenen van openbare
 
 - c. EHTSA 18 (Bloemendaal/Overveen) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 52°24'00.00"N 004°37'00.00"E tot FL 055, van 19.30 tot 20.30 uur plaatselijke tijd;
 
-- d. EHTSA 19 (Rhenen/Grebbeberg) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 51°57'30.00"N 005°35'30.00"E tot FL 055, van 19.10 tot 20.40 uur plaatselijke tijd.
+- d. EHTSA 19 (Rhenen/Grebbeberg) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 51°57'30.00"N 005°35'30.00"E tot FL 055, van 19.10 tot 20.40 uur plaatselijke tijd;
+
+- e. EHTSA 21 (Westerbork) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,5 nautische mijl vanuit positie 52°55'15.53"N 006°34'10.71"E tot 3.000 ft AMSL, van 19.00 uur tot 21.00 uur plaatselijke tijd.
 
 ##### Artikel 4. Gebieden ten behoeve van de herdenkingen op 15 augustus en 4 oktober en ten behoeve van ceremoniële langsvluchten
 
@@ -355,19 +357,19 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 ##### Artikel 6. Vluchten uitgezonderd van de verboden
 
-1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2021-03-25&g=2021-03-25) (gebied EHR 3), is niet van toepassing op:
+1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2022-01-01&g=2022-01-01) (gebied EHR 3), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid, en
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2021-03-25&g=2021-03-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2021-03-25&g=2021-03-25), zijn niet van toepassing op:
+2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2022-01-01&g=2022-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2022-01-01&g=2022-01-01), zijn niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2021-03-25&g=2021-03-25) (gebied EHP 25), is niet van toepassing op:
+3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2022-01-01&g=2022-01-01) (gebied EHP 25), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -375,7 +377,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2021-03-25&g=2021-03-25) (gebied EHP 26A), is niet van toepassing op:
+4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2022-01-01&g=2022-01-01) (gebied EHP 26A), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -387,7 +389,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. vluchten door civiel geregistreerde historische militaire luchtvaartuigen die deelnemen aan de luchtvaartvertoning ter gelegenheid van de Nederlandse Veteranendag.
 
-5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2021-03-25&g=2021-03-25), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2021-03-25&g=2021-03-25). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
+5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2022-01-01&g=2022-01-01), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2022-01-01&g=2022-01-01). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 7. Coördinatie militaire oefeningen
 
