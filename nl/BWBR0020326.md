@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -104,7 +104,11 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - m. zorg die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) wordt gefinancierd;
 
-- n. zorg die wordt bekostigd op grond van [artikel 70a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=70a).
+- n. zorg die wordt bekostigd op grond van [artikel 70a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=70a);
+
+- o. verblijf als bedoeld in [artikel 2.12, eerste lid, van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) buiten een ziekenhuis dat noodzakelijk is in verband met geneeskundige zorg zoals medisch specialisten die plegen te bieden en dat niet gepaard gaat met verpleging, verzorging of paramedische zorg;
+
+- p. levering van elektriciteit voor mechanische ademhalingsondersteuning in de thuissituatie.
 
 2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn, in afwijking van het eerste lid, van toepassing op:
 
@@ -153,6 +157,42 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 6a
 
 1. De wet is niet van toepassing op zorg die ten laste van het integraal budget als bedoeld in [artikel 1 van het Besluit experiment integraal pgb 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042404&artikel=1) wordt gefinancierd.
+
+2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+De [artikelen 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a) en [40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) zijn niet van toepassing op:
+
+- a. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend zorg verlenen anders dan zorg en overige diensten die behoren tot het op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verzekerde pakket, bedoeld in [artikel 3.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of onderdeel uitmaken van de zorgplicht van de zorgverzekeraar, bedoeld in [artikel 11, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), en waarvoor Onze Minister geen subsidie verleent;
+
+- b. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend de volgende zorg verlenen:
+
+- 1°. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
+
+- 2°. vervoer als bedoeld in [artikel 2.5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5), [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.14) of [artikel 2.15 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.15);
+
+- 3°. schoonhouden van de woonruimte als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 2°, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
+
+- 4°. leveren van roerende voorzieningen of mobiliteitshulpmiddelen als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 3°, onderscheidenlijk onderdeel e, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
+
+- 5°. verstrekken van eten en drinken als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 1°, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
+
+- 6°. verblijf als bedoeld in [artikel 2.12, eerste lid, van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) dat noodzakelijk is in verband met geneeskundige zorg zoals medisch specialisten die plegen te bieden en dat niet gepaard gaat met verpleging, verzorging of paramedische zorg;
+
+- 7°. levering van elektriciteit voor mechanische ademhalingsondersteuning in de thuissituatie;
+
+- c. zorgaanbieders als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+
+- d. natuurlijke personen die geen zorg doen verlenen;
+
+- e. natuurlijke personen voor zover zij zorg doen verlenen in het kader van een maatschap of vennootschap waarvan zij vennoot zijn.
+
+##### Artikel 5b
+
+1. [Artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) blijft in afwijking van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a&z=2022-01-01&g=2022-01-01), buiten toepassing voor zorgaanbieders waarop op het onmiddellijk aan de inwerkingtreding van [artikel II, onderdeel C, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=II) voorafgaand tijdstip, de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) niet van toepassing waren.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
