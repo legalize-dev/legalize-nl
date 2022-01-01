@@ -4,7 +4,7 @@ identifier: "BWBR0033813"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2018-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033813"
 soort: "pbo"
@@ -46,7 +46,7 @@ In deze verordening wordt verstaan onder:
 
 - –. **accountant:** accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountant in business:** de accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;
+- –. **accountant in business:** accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;
 
 - –. **accountantsafdeling:** organisatorische eenheid binnen een organisatie waar een accountant een assurance of aan assurance verwante opdracht uitvoert in opdracht van deze organisatie;
 
@@ -56,37 +56,37 @@ In deze verordening wordt verstaan onder:
 
 - –. **accountantspraktijk:** accountantskantoor of accountantsorganisatie;
 
-- –. **afgevaardigde:** een afgevaardigde als bedoeld in [artikel 17, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
+- –. **afgevaardigde:** afgevaardigde als bedoeld in artikel 17, derde lid, van de wet;
 
 - –. **assurance-opdracht:** assurance-opdracht als bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
 
 - –. **begroting:** begroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **beroepsorganisatie:** Nederlandse beroepsorganisatie van accountants als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
-
-- –. **bestuur:** bestuur van de beroepsorganisatie;
-
 - –. **contributiegroep:** contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789);
 
-- –. **intern accountant:** de accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;
+- –. **intern accountant:** accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;
 
 - –. **ledengroep:** ledengroep als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
 
-- –. **ledengroepbestuur:** een bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
+- –. **ledengroepbestuur:** bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
-- –. **ledengroepvergadering:** de vergadering van leden van een ledengroep;
+- –. **ledengroepvergadering:** vergadering van leden van een ledengroep;
 
-- –. **ledenvergadering:** de ledenvergadering, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4);
+- –. **ledenvergadering:** ledenvergadering als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4);
 
-- –. **ontwerpbegroting:** een ontwerpbegroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
+- –. **ontwerpbegroting:** ontwerpbegroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **openbaar accountant:** de accountant die werkzaam is bij of verbonden is aan een accountantspraktijk;
+- –. **openbaar accountant:** accountant die werkzaam is bij of verbonden is aan een accountantspraktijk;
 
-- –. **overheid:** de entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan hij is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en nader door het bestuur van de NBA aangewezen entiteiten;
+- –. **overheid:** entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan de overheidsaccountant is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en nader door het bestuur van de NBA aangewezen entiteiten;
 
-- –. **overheidsaccountant:** accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst, en accountant die werkzaam is bij de belastingdienst. Tot een overheidsaccountant wordt eveneens gerekend de accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;
+- –. **overheidsaccountant:**
 
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- a. accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst;
+
+- b. accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;
+
+- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
@@ -112,11 +112,11 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een ledengroepbestuur roept een ledengroepvergadering zo dikwijls als het zulks nodig acht, doch minstens een keer per jaar bijeen of op verzoek van ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.
+1. Een ledengroepbestuur roept een ledengroepvergadering zo dikwijls bijeen als het zulks nodig acht of op verzoek van ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.
 
 2. De bijeenkomst van een ledengroepvergadering is openbaar.
 
-3. In een bijeenkomst van een ledengroepvergadering worden de deuren gesloten, wanneer ten minste een vijfde van de aanwezige leden van de ledengroep daar om verzoekt of de voorzitter het nodig acht, tenzij de ledengroepvergadering anders beslist.
+3. Een ledengroepbestuur kan besluiten een bijeenkomst van een ledengroepvergadering geheel of gedeeltelijk via elektronische communicatiemiddelen te laten plaatsvinden.
 
 ##### Artikel 5
 
@@ -136,9 +136,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Een stemming in een bijeenkomst van een ledengroepvergadering is ongeldig indien niet meer dan de helft van de stemmen is uitgebracht van de ter vergadering aanwezige of vertegenwoordigde stemmen.
-
-2. Bij stemming over personen worden blanco stemmen, voor de toepassing van dit artikel meegerekend.
+Vervallen
 
 ##### Artikel 8
 
@@ -160,9 +158,7 @@ In deze verordening wordt verstaan onder:
 
 1. Het aantal leden van het ledengroepbestuur wordt door de ledengroepvergadering bepaald, doch bedraagt ten hoogste zeven.
 
-2. Jaarlijks treedt een deel van de leden van een ledengroepbestuur af volgens een door de ledengroepvergadering vast te stellen rooster. Het rooster wordt zo ingericht, dat voor zover mogelijk telkens hetzelfde aantal leden van het ledengroepbestuur aftreedt.
-
-3. Een ledengroepbestuur bevordert dat het ledengroepbestuur een evenwichtige afspiegeling van de ledengroep vormt.
+2. Een ledengroepbestuur bevordert dat het ledengroepbestuur een evenwichtige afspiegeling van de ledengroep vormt.
 
 ##### Artikel 11
 
@@ -226,13 +222,11 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 17
 
-1. De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door een ledengroep uit het ledengroepbestuur benoemd.
+1. De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door het ledengroepbestuur uit het midden van het ledengroepbestuur benoemd.
 
 2. De voorzitter en de plaatsvervangend voorzitter van het ledengroepbestuur zijn terstond herbenoembaar.
 
 3. Het ledengroepbestuur van de ledengroep van openbaar accountants benoemt, in het geval de voorzitter van het bestuur een Registeraccountant is, een Accountant-Administratieconsulent tot voorzitter van het ledengroepbestuur en vice versa.
-
-4. Het ledengroepbestuur van de ledengroep van intern en overheidsaccountants benoemt, in het geval een overheidsaccountant tot afgevaardigde van de ledengroep is benoemd, een intern accountant tot voorzitter van het ledengroepbestuur en vice versa.
 
 ### Hoofdstuk 5. De afgevaardigde uit ledengroepbestuur
 
@@ -272,15 +266,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 20
 
-1. Binnen zes maanden na de inwerkingtreding van deze verordening belegt een ledengroepbestuur een bijeenkomst van de ledengroepvergadering waarin in ieder geval wordt besloten over het benoemen van de leden van het ledengroepbestuur.
-
-2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2018-01-01&g=2018-01-01).
-
-3. Tot de benoeming van het ledengroepbestuur, bedoeld in het eerste lid, wordt het ledengroepbestuur gevormd door de leden van het ledengroepbestuur zoals deze door de gezamenlijke besturen van het NIVRA en de NOvAA zijn benoemd tot leden van het ledengroepbestuur van de door het NIVRA en de NOvAA ingestelde ledengroepen.
-
-4. Het bestuur benoemt na raadpleging van het ledengroepbestuur, bedoeld in het vorige lid, uit zijn midden de eerste afgevaardigde van een ledengroep.
-
-5. De op grond van het vorige lid benoemde afgevaardigde, neemt op het rooster van aftreden, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=12), de plaats in van een door een ledengroepbestuur benoemde afgevaardigde.
+Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
