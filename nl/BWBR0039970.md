@@ -4,7 +4,7 @@ identifier: "BWBR0039970"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2018-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039970"
 soort: "pbo"
@@ -72,7 +72,7 @@ Deze beleidsregel is van toepassing op het verlenen van subsidie voor activiteit
 
 ##### Artikel 3. Subsidieplafond en hoogte subsidie
 
-1. De algemene raad stelt krachtens [artikel 2.36c van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=2.36c) jaarlijks voorafgaand aan het subsidietijdvak het subsidieplafond vast.
+1. De algemene raad stelt krachtens [artikel 2.36c van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=2.36c) jaarlijks voorafgaand aan het boekjaar het subsidieplafond vast.
 
 2. De algemene raad verlaagt het subsidieplafond indien:
 
@@ -86,7 +86,7 @@ Deze beleidsregel is van toepassing op het verlenen van subsidie voor activiteit
 
 De algemene raad legt de subsidie-ontvanger verplichtingen op met betrekking tot:
 
-- a. de aard en omvang van de activiteiten waarvoor subsidie wordt verleend, namelijk uitsluitend in overeenstemming met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039970&artikel=3&z=2018-11-01&g=2018-11-01) en artikel 4, derde lid en aan de in de begroting en het activiteitenplan van de subsidie-ontvanger genoemde activiteiten;
+- a. de aard en omvang van de activiteiten waarvoor subsidie wordt verleend, namelijk uitsluitend in overeenstemming met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039970&artikel=3&z=2022-01-01&g=2022-01-01) en artikel 4, derde lid en aan de in de begroting en het activiteitenplan van de subsidie-ontvanger genoemde activiteiten;
 
 - b. de administratie van aan de activiteiten verbonden uitgaven en inkomsten; namelijk in overeenstemming met [artikel 2:10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10);
 
@@ -160,4 +160,4 @@ Deze beleidsregel treedt in werking met ingang van 1 oktober 2017.
 
 ##### Artikel 9. citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel subidies NOvA.
+Deze beleidsregel wordt aangehaald als: Beleidsregel subsidies NOvA.
