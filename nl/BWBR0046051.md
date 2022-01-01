@@ -4,7 +4,7 @@ identifier: "BWBR0046051"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2021-12-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046051"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2021-12-21"
 
 Wijzigt de Aanbestedingswet 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ia. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 Wijzigt de Algemene Kinderbijslagwet.
@@ -58,8 +56,6 @@ Wijzigt de Algemene Ouderdomswet.
 ##### Artikel IV. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
 Wijzigt de Arbeidswet 2000 BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Besluit gelijkstelling niet-Nederlanders met Nederlanders (Algemene Ouderdomswet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003880)
 
@@ -81,8 +77,6 @@ Wijzigt de Werkloosheidswet.
 
 Wijzigt de Wet arbeid en zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
@@ -95,55 +89,37 @@ Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet betaald ouderschapsverlof](https://wetten.overheid.nl/jci1.3:c:BWBR0046019)
 
 Wijzigt de Wet betaald ouderschapsverlof.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIIa. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. Wet gegevensverwerking door samenwerkingsverbanden
 
 Wijzigt de Wet gegevensverwerking door samenwerkingsverbanden.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331)
 
 Wijzigt de Wet gemeentelijke schuldhulpverlening.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
 Wijzigt de Wet inburgering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
 
 Wijzigt de Wet inburgering 2021.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIIa. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
@@ -165,13 +141,9 @@ Wijzigt de Wet kinderopvang.
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 Wijzigt de Wet ongevallenverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
@@ -181,49 +153,33 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV. [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469)
 
 Wijzigt de Wet op de kansspelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
 
 Wijzigt de Wet op de ondernemingsraden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII. [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
 Wijzigt de Wet op het kindgebonden budget.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX. [Wet rol werknemers bij Europese rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0018115)
 
 Wijzigt de Wet rol werknemers bij Europese rechtspersonen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXX. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI. [Wet tot wijziging van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0045741)
 
 Wijzigt de Wijzigingswet Wet arbeid vreemdelingen (toekomstbestendig maken van de wetgeving op het terrein van arbeidsmigratie).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -237,17 +193,13 @@ Wijzigt de Ziektewet.
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### XXXVa. Samenloop
 
 Wijzigt de Wijzigingswet Participatiewet, enz. (uitsluiten van fraudevorderingen bij de vermogenstoets en het beperken van het verbod tot medewerking aan een schuldregeling bij een fraudevordering tot gevallen van opzet of grove schuld)(Kamerstukken 35 374).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Ia&z=2021-12-21&g=2021-12-21), [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=II&z=2021-12-21&g=2021-12-21), [III, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=III&z=2021-12-21&g=2021-12-21), [VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VI&z=2021-12-21&g=2021-12-21), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VII&z=2021-12-21&g=2021-12-21), [VIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VIII&z=2021-12-21&g=2021-12-21), [X, onderdelen Ea en G](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=X&z=2021-12-21&g=2021-12-21), [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Xa&z=2021-12-21&g=2021-12-21), [XVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIa&z=2021-12-21&g=2021-12-21), [XVIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIb&z=2021-12-21&g=2021-12-21), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XIX&z=2021-12-21&g=2021-12-21), [XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XX&z=2021-12-21&g=2021-12-21), [XXIII, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXIII&z=2021-12-21&g=2021-12-21), [XXXII, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXII&z=2021-12-21&g=2021-12-21), [XXXIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII&z=2021-12-21&g=2021-12-21), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Ia&z=2022-01-01&g=2022-01-01), [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=II&z=2022-01-01&g=2022-01-01), [III, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=III&z=2022-01-01&g=2022-01-01), [VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VI&z=2022-01-01&g=2022-01-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VII&z=2022-01-01&g=2022-01-01), [VIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VIII&z=2022-01-01&g=2022-01-01), [X, onderdelen Ea en G](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=X&z=2022-01-01&g=2022-01-01), [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Xa&z=2022-01-01&g=2022-01-01), [XVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIa&z=2022-01-01&g=2022-01-01), [XVIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIb&z=2022-01-01&g=2022-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XIX&z=2022-01-01&g=2022-01-01), [XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XX&z=2022-01-01&g=2022-01-01), [XXIII, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXIII&z=2022-01-01&g=2022-01-01), [XXXII, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXII&z=2022-01-01&g=2022-01-01), [XXXIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII&z=2022-01-01&g=2022-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVI. Citeertitel
 
