@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -180,7 +180,7 @@ Met betrekking tot het registratieobject booronderzoek binnen de categorie verke
 
 Met betrekking tot het registratieobject wandonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige wandbeschrijving met de resultaten van een onderzoek van de wand van een profielkuil op een locatie naar de bodemkundige eigenschappen van de bodem door middel van grondmonsters die zijn verkregen van de wand van een profielkuil of andere ontsluiting aan de hand waarvan de bodemopbouw in verschillende horizonten is beschreven.
 
-#### § 3. Grondwatermonitoring
+#### § 2. Bodemkwaliteit
 
 #### § 6. Modellen
 
@@ -278,7 +278,45 @@ Met betrekking tot het registratieobject grondwaterstandonderzoek binnen de cate
 
 #### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
 
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.1.9
+
+Met betrekking tot het registratieobject booronderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een geologische boormonsteranalyse die bij een veld- en laboratoriumonderzoek is opgemaakt over de waarnemingen inzake het grondmonster dat is genomen tijdens de geologische boring.
+
+#### § 3. Grondwatermonitoring
+
+##### Artikel 2.3.5
+
+Met betrekking tot het registratieobject formatieweerstandonderzoek binnen de categorie constructies wordt als brondocument aangewezen een document met periodieke waarnemingen van de totale weerstand van de ondergrond binnen het bereik van het gebruikte meetinstrument, die in of aan een monitoringbuis van een grondwatermonitoringput gemeten zijn. De periodieke waarnemingen worden gedaan voor een of meer monitoringdoelen en de geregistreerde resultaten zijn voorzien van een beoordelingsresultaat.
+
+#### § 4. Grondwatergebruik
+
+##### Artikel 2.5.2
+
+Dit onderdeel is nog niet inwerking getreden
+
 #### § 6. Modellen
+
+##### Artikel 2.6.6
+
+Met betrekking tot het registratieobject model grondwaterspiegeldieptemodel binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met een model dat grondwaterspiegeldiepte in Nederland karakteriseert, en dat gegevens bevat over:
+
+- a. de gemiddeld hoogste grondwaterstand,
+
+- b. de gemiddeld laagste grondwaterstand,
+
+- c. de gemiddelde voorjaarsgrondwaterstand, en
+
+- d. de grondwatertrap.
+
+### Hoofdstuk 3. De registratie ondergrond
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
