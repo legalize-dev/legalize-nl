@@ -4,7 +4,7 @@ identifier: "BWBR0034327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034327"
 soort: "ministeriele-regeling"
@@ -62,23 +62,23 @@ In deze regeling wordt verstaan onder:
 
 De systeembeschrijving wordt gevormd door:
 
-- a. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2021-07-01&g=2021-07-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.13a, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01);
+- a. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.14, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01);
 
-- b. de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2021-07-01&g=2021-07-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.14a, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01);
+- b. de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2022-01-01&g=2022-01-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.15, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01);
 
-- c. de hoofdstukken 3 en 4 van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=3&z=2021-07-01&g=2021-07-01) bij deze regeling opgenomen beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2021-07-01&g=2021-07-01) bedoelde onderdelen worden toegepast.
+- c. de hoofdstukken 3 en 4 van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=3&z=2022-01-01&g=2022-01-01) bij deze regeling opgenomen beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2022-01-01&g=2022-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2022-01-01&g=2022-01-01) bedoelde onderdelen worden toegepast.
 
 ##### Artikel 3
 
-1. Het Logisch Ontwerp GBA, versie 3.13a, is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2021-07-01&g=2021-07-01) bij deze regeling.
+1. Het Logisch Ontwerp GBA, versie 3.14, is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-2. Het Logisch Ontwerp RNI, versie 2.14a, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2021-07-01&g=2021-07-01) bij deze regeling.
+2. Het Logisch Ontwerp RNI, versie 2.15, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 #### § 3. De bewaring van geschriften en andere bescheiden
 
 ##### Artikel 4
 
-1. De te bewaren geschriften en andere bescheiden, ongeacht hun vorm, die de verwerkingsverantwoordelijke heeft gebruikt in verband met de verwerking van gegevens in de basisregistratie, zijn vermeld in de lijst die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=6&z=2021-07-01&g=2021-07-01) bij deze regeling is gevoegd.
+1. De te bewaren geschriften en andere bescheiden, ongeacht hun vorm, die de verwerkingsverantwoordelijke heeft gebruikt in verband met de verwerking van gegevens in de basisregistratie, zijn vermeld in de lijst die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=6&z=2022-01-01&g=2022-01-01) bij deze regeling is gevoegd.
 
 2. De in het eerste lid bedoelde geschriften en andere bescheiden worden met het oog op het gebruik daarvan bij de uitvoering van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) bewaard gedurende de in de lijst vermelde termijnen.
 
@@ -152,7 +152,7 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 ##### Artikel 14
 
-De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2021-07-01&g=2021-07-01) bij de [artikelen 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), en [32, tweede lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=7&z=2021-07-01&g=2021-07-01) bij deze regeling.
+De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2022-01-01&g=2022-01-01) bij de [artikelen 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), en [32, tweede lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=7&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 ##### Artikel 15
 
@@ -160,11 +160,11 @@ De administratieve gegevens, bedoeld in de [artikelen 23, tweede lid](https://we
 
 ##### Artikel 16
 
-Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9&z=2021-07-01&g=2021-07-01) bij deze regeling.
+Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 ##### Artikel 17
 
-Als instellingen voor gezondheidszorg als bedoeld in [artikel 2.40, derde lid, onderdeel a, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de instellingen, bedoeld in [artikel 1.2, onder 14 en 18, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2).
+Als instellingen voor gezondheidszorg als bedoeld in [artikel 2.40, derde lid, onderdeel a, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de instellingen, bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), voor zover het gaat om instellingen voor behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening en instellingen voor verpleging.
 
 ##### Artikel 18
 
@@ -172,13 +172,13 @@ Als instellingen op het gebied van de kinderbescherming als bedoeld in [artikel 
 
 ##### Artikel 19
 
-Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de inrichtingen die door de Minister van Veiligheid en Justitie zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=18&z=2021-07-01&g=2021-07-01).
+Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de inrichtingen die door de Minister van Justitie en Veiligheid zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=18&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
 
 ##### Artikel 20
 
-Het formulier, bedoeld in [artikel 38 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=10&z=2021-07-01&g=2021-07-01) bij deze regeling.
+Het formulier, bedoeld in [artikel 38 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=10&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 ### Hoofdstuk 4. Toezicht, overgangs- en slotbepalingen
 
@@ -242,7 +242,7 @@ Het college van burgemeester en wethouders van ’s-Gravenhage heeft de zorg ove
 
 ##### Artikel 25
 
-Indien het college van burgemeester en wethouders van ’s-Gravenhage voor een doelmatige dagelijkse uitvoering van de taak ten aanzien van het schakelregister gebruik maakt van een op basis van het oorspronkelijke register vervaardigd elektronisch hulpregister, worden uit dat hulpregister geen gegevens verstrekt.
+Indien het college van burgemeester en wethouders van ’s-Gravenhage voor een doelmatige dagelijkse uitvoering van de taak ten aanzien van het schakelregister gebruikmaakt van een op basis van het oorspronkelijke register vervaardigd elektronisch hulpregister, worden uit dat hulpregister geen gegevens verstrekt.
 
 ##### Artikel 26
 
@@ -270,7 +270,7 @@ Het doel van het centraal archief van overledenen is het verstrekken van gegeven
 
 ##### Artikel 30
 
-1. Ten behoeve van een onderzoek als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=2&artikel=29&z=2021-07-01&g=2021-07-01) kunnen uit het centraal archief van overledenen op schriftelijk verzoek gegevens worden verstrekt aan:
+1. Ten behoeve van een onderzoek als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=2&artikel=29&z=2022-01-01&g=2022-01-01) kunnen uit het centraal archief van overledenen op schriftelijk verzoek gegevens worden verstrekt aan:
 
 - a. een derde, indien deze bij de verstrekking een gerechtvaardigd belang heeft en voor zover de persoonlijke levenssfeer daardoor niet onevenredig wordt geschaad;
 
@@ -298,7 +298,7 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 ##### Artikel 31
 
-1. Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen kan de minister schriftelijk verzoeken, geen gegevens die hem betreffen aan een derde te verstrekken. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
+1. Eenieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen kan de minister schriftelijk verzoeken, geen gegevens die hem betreffen aan een derde te verstrekken. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
 
 2. De verzoeker verstrekt de benodigde inlichtingen om aan het verzoek te kunnen voldoen.
 
@@ -312,7 +312,7 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 ##### Artikel 32
 
-1. Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen wordt op diens verzoek binnen vier weken kosteloos inzage verleend in die gegevens. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
+1. Eenieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen wordt op diens verzoek binnen vier weken kosteloos inzage verleend in die gegevens. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
 
 2. De verzoeker verstrekt de benodigde inlichtingen om aan het verzoek te kunnen voldoen.
 
@@ -324,15 +324,15 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 2. De vergoeding, bedoeld in het eerste lid, bedraagt in het geval van verstrekking uit het centraal archief van overledenen:
 
-- a. € 4,45 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 8,90 in rekening wordt gebracht;
+- a. € 4,50 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 9,– in rekening wordt gebracht;
 
-- b. € 4,05 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.
+- b. € 4,15 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.
 
 #### § 3. Overgangs- en slotbepalingen
 
 ##### Artikel 34
 
-[Artikel 26 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=26) is niet van toepassing in de gevallen dat de in dat artikel bedoelde gegevens, bescheiden of inlichtingen worden verstrekt of mededelingen worden gedaan aan een college van burgemeester en wethouders dat gebruik maakt van een oude gemeentelijke voorziening als bedoeld in [artikel 4.15, eerste lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.15).
+[Artikel 26 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=26) is niet van toepassing in de gevallen dat de in dat artikel bedoelde gegevens, bescheiden of inlichtingen worden verstrekt of mededelingen worden gedaan aan een college van burgemeester en wethouders dat gebruikmaakt van een oude gemeentelijke voorziening als bedoeld in [artikel 4.15, eerste lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.15).
 
 ##### Artikel 35
 
@@ -352,29 +352,29 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet BRP](https://wett
 
 Deze regeling wordt aangehaald als: Regeling basisregistratie personen.
 
-## Bijlage 1. De onderdelen van het Logisch Ontwerp GBA, versie 3.13a, die deel uitmaken van de systeembeschrijving
+## Bijlage 1. De onderdelen van het Logisch Ontwerp GBA, versie 3.14, die deel uitmaken van de systeembeschrijving
 
-### Bijlage bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01)
 
-De onderdelen van het Logisch Ontwerp GBA, die deel uitmaken van de systeembeschrijving:
+De onderdelen van het Logisch Ontwerp GBA, versie 3.14, die deel uitmaken van de systeembeschrijving:
 
-## Bijlage 2. De onderdelen van het Logisch Ontwerp RNI, versie 2.14a, die deel uitmaken van de systeembeschrijving
+## Bijlage 2. De onderdelen van het Logisch Ontwerp RNI, versie 2.15, die deel uitmaken van de systeembeschrijving
 
-### Bijlage bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01)
 
-De onderdelen van het Logisch Ontwerp RNI, die deel uitmaken van de systeembeschrijving:
+De onderdelen van het Logisch Ontwerp RNI, versie 2.15, die deel uitmaken van de systeembeschrijving:
 
-## Bijlage 3. De beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2021-07-01&g=2021-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2021-07-01&g=2021-07-01) bedoelde onderdelen worden toegepast
+## Bijlage 3. De beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2022-01-01&g=2022-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2022-01-01&g=2022-01-01) bedoelde onderdelen worden toegepast
 
-### Bijlage bij [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01)
 
 ### 1. Inleiding
 
 In deze bijlage wordt een beschrijving gegeven van de wijze waarop de systeembeschrijving BRP moet worden toegepast. Die beschrijving is noodzakelijk omdat er nog geen Logisch Ontwerp BRP beschikbaar is dat specifiek is toegesneden op de uitvoering van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715). De nieuwe regelgeving wordt daarom voorlopig uitgevoerd op basis van een systeembeschrijving waarin onderdelen zijn aangewezen van het bestaande Logisch Ontwerp GBA (LO GBA) en van het nieuwe Logisch Ontwerp RNI (LO RNI). Het LO RNI is weliswaar nieuw, maar sluit wat betreft opzet en inhoud zeer nauw aan bij het LO GBA. In veel gevallen wordt in het LO RNI volstaan met een verwijzing naar het LO GBA.
 
-In het LO GBA zijn voorzieningen opgenomen die op grond van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) deels als gemeentelijke voorziening en deels als centrale voorzieningen moeten worden aangemerkt. De bestaande gemeentelijke GBA systemen zijn onder de Wet BRP aan te merken als de oude gemeentelijke voorziening, waarmee door de gemeenten uitvoering wordt gegeven aan de wet. Het LO GBA bevat tevens een beschrijving van de voorziening GBA Verstrekkingen (GBA-V), die in technisch opzicht op de bestaande gemeentelijke systemen aansluit. De GBA-V moet onder de Wet BRP worden aangemerkt als centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Voorts is in het LO GBA de terugmeldvoorziening beschreven, die onder de Wet BRP eveneens als een centrale voorziening moet worden aangemerkt die functioneert onder de verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+In het LO GBA zijn voorzieningen opgenomen die op grond van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) deels als gemeentelijke voorziening en deels als centrale voorzieningen moeten worden aangemerkt. De bestaande gemeentelijke GBA systemen zijn onder de Wet BRP aan te merken als de oude gemeentelijke voorziening, waarmee door de gemeenten uitvoering wordt gegeven aan de Wet BRP. Het LO GBA bevat tevens een beschrijving van de voorziening GBA Verstrekkingen (GBA-V), die in technisch opzicht op de bestaande gemeentelijke systemen aansluit. De GBA-V moet onder de Wet BRP worden aangemerkt als centrale voorziening, waarvoor de minister verantwoordelijk is. Voorts is in het LO GBA de terugmeldvoorziening beschreven, die onder de Wet BRP eveneens als een centrale voorziening moet worden aangemerkt die functioneert onder de verantwoordelijkheid van de minister.
 
-Het LO RNI beschrijft de technische voorziening die nodig is voor de registratie van niet-ingezetenen. Het gaat hier om een centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Daartoe behoren ook de inschrijfvoorzieningen waar een niet-ingezetene zich kan inschrijven, die fysiek zijn ondergebracht bij een aantal gemeenten. De RNI voorziening is in technisch opzicht nog gebaseerd op de bestaande GBA voorzieningen, met gebruikmaking van dezelfde standaarden voor gegevensopslag en gegevensuitwisseling.
+Het LO RNI beschrijft de technische voorziening die nodig is voor de registratie van niet-ingezetenen. Het gaat hier om een centrale voorziening, waarvoor de minister verantwoordelijk is. Daartoe behoren ook de inschrijfvoorzieningen waar een niet-ingezetene zich kan inschrijven, die fysiek zijn ondergebracht bij een aantal gemeenten. De RNI voorziening is in technisch opzicht nog gebaseerd op de bestaande GBA voorzieningen, met gebruikmaking van dezelfde standaarden voor gegevensopslag en gegevensuitwisseling.
 
 Deze beschrijving geeft, in aanvulling op de aanwijzing van de onderdelen van de hiervoor genoemde Logisch Ontwerpen, aan hoe deze verschillende onderdelen in onderlinge samenhang en in het licht van de nieuwe regelgeving moeten worden toegepast. Daartoe wordt enerzijds in een concordantietabel de in de aangewezen onderdelen gehanteerde terminologie en inhoud van sommige begrippen, die nog naar de [Wet GBA](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) verwijzen, zoveel mogelijk vertaald naar het nieuwe begrippenkader van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715). Anderzijds wordt op hoofdlijnen beschreven in hoeverre de in de systeembeschrijving BRP aangewezen onderdelen van toepassing zijn als gevolg van de aanwijzing of de niet aanwijzing van andere onderdelen van de Logisch Ontwerpen.
 
@@ -422,35 +422,35 @@ De in de systeembeschrijving aangewezen onderdelen van het LO RNI komen grotende
 
 Wat betreft het ARS, dat in het LO RNI van toepassing is verklaard, houdt het voorgaande in dat het ARS de hiervoor in hoofdstuk 3, onder a, beschreven rol in het LO GBA ook vervult in het LO RNI bij de berichtuitwisseling tussen het RNI-systeem en de gemeenten, het RNI-systeem en GBA-V, het RNI-systeem en het Rijksdienst voor Identiteitsgegevens (in verband met de tabelberichten) en het RNI-systeem en de IND (de berichtuitwisseling in verband met de levering van verblijfstitels).
 
-## Bijlage 4. Logisch ontwerp GBA, versie 3.13a
+## Bijlage 4. Logisch Ontwerp GBA, versie 3.14
 
-### Bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01)
 
-Deze bijlage wordt bekendgemaakt op https://www.rvig.nl.
+Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend).
 
-## Bijlage 5. Het Logisch Ontwerp RNI, versie 2.14a
+## Bijlage 5. Logisch Ontwerp RNI, versie 2.15
 
-### Bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01)
 
-Deze bijlage wordt bekendgemaakt op https://www.rvig.nl.
+Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend).
 
 ## Bijlage 6. Bewaring van geschriften en andere bescheiden
 
-### Bijlage bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=3&artikel=4&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01)
 
 ## Bijlage 7. De aantekeningen in verband met het verblijfsrecht van de vreemdeling
 
-### Bijlage bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=14&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=14&z=2022-01-01&g=2022-01-01)
 
 De aantekeningen in verband met het verblijfsrecht van de vreemdeling:
 
 ## Bijlage 8. De administratieve gegevens
 
-### Bijlage bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=15&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=15&z=2022-01-01&g=2022-01-01)
 
 ## Bijlage 9. Het verhuisbericht
 
-### Bijlage bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=16&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=16&z=2022-01-01&g=2022-01-01)
 
 ### Model verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21)
 
@@ -458,8 +458,8 @@ Het verhuisbericht dat moet worden verstrekt aan een persoon die in de aangifte 
 
 ## Bijlage 10. Het autorisatie-aanvraagformulier
 
-### Bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=3&artikel=20&z=2021-07-01&g=2021-07-01)
+### Bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=3&artikel=20&z=2022-01-01&g=2022-01-01)
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2021-07-01&g=2021-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2021-07-01&g=2021-07-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2022-01-01&g=2022-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2022-01-01&g=2022-01-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2019-01-01&g=2019-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2019-01-01&g=2019-01-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
