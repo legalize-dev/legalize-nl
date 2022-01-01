@@ -4,7 +4,7 @@ identifier: "BWBR0033788"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033788"
 soort: "pbo"
@@ -47,23 +47,19 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 - –. **accountant:** een accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantspraktijk:** de accountantspraktijk, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **accountantspraktijk:** accountantspraktijk als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **bestuur:** het bestuur van de beroepsorganisatie;
+- –. **CEA:** Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- –. **CEA:** de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- –. **examen gedrags- en beroepsregels:** examen als bedoeld in [artikel 54, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
 
-- –. **examen gedrags- en beroepsregels:** het examen, bedoeld in [artikel 54, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
+- –. **examen Nederlands recht:** examen als bedoeld in [artikel 54, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
 
-- –. **examen Nederlands recht:** het examen, bedoeld in [artikel 54, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
+- –. **examens:** examen gedrags- en beroepsregels en examen Nederlands recht;
 
-- –. **examens:** het examen gedrags- en beroepsregels of het examen Nederlands recht;
+- –. **kandidaat:** degene die een verzoek of een aanvraag heeft gedaan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=6&artikel=8&z=2022-01-01&g=2022-01-01);
 
-- –. **kandidaat:** degene die een verzoek of een aanvraag heeft gedaan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=6&artikel=8&z=2014-01-01&g=2014-01-01);
-
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
-
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ### Hoofdstuk 2. Inhoud van de examens
 
@@ -107,15 +103,15 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van het examen Nederlands recht en of het examen gedrags- en beroepsregels aan de kandidaat die na het behalen van een accountantsdiploma dat recht geeft op het afleggen van het desbetreffende examen:
 
-- a. in een voltijds dienstverband bij een Nederlandse vestiging van een accountantspraktijk gedurende ten minste drie jaar in de Nederlandse praktijk een aantoonbare staat van dienst heeft opgebouwd van relevante werkzaamheden met betrekking tot de inhoud van het examen, bedoeld in [artikel 2, eerste lid onderscheidenlijk het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01); en
+- a. in een voltijds dienstverband bij een Nederlandse vestiging van een accountantspraktijk gedurende ten minste drie jaar in de Nederlandse praktijk een aantoonbare staat van dienst heeft opgebouwd van relevante werkzaamheden met betrekking tot de inhoud van het examen, bedoeld in [artikel 2, eerste lid onderscheidenlijk het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01); en
 
 - b. aan het bestuur een overzicht heeft overgelegd waarin hij de werkzaamheden die ten grondslag hebben gelegen aan zijn hiervoor in onderdeel a bedoelde staat van dienst heeft vastgelegd, welk overzicht beoordeeld en goedgekeurd dient te zijn door een accountant werkzaam op de desbetreffende vestiging van de accountantspraktijk; en
 
-- c. het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2014-01-01&g=2014-01-01), bedoelde gesprek heeft gevoerd dat tot een positief oordeel van het bestuur heeft geleid.
+- c. het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01), bedoelde gesprek heeft gevoerd dat tot een positief oordeel van het bestuur heeft geleid.
 
 ##### Artikel 6
 
-1. Indien aan het gestelde in [artikel 5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2014-01-01&g=2014-01-01), is voldaan, beoordeelt het bestuur of beoordelen de door het bestuur aan te wijzen personen in een gesprek met de kandidaat, in de Nederlandse of Engelse taal naar keuze van de kandidaat, in hoeverre de in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2014-01-01&g=2014-01-01), bedoelde kennis op het vereiste niveau aanwezig is.
+1. Indien aan het gestelde in [artikel 5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2022-01-01&g=2022-01-01), is voldaan, beoordeelt het bestuur of beoordelen de door het bestuur aan te wijzen personen in een gesprek met de kandidaat, in de Nederlandse of Engelse taal naar keuze van de kandidaat, in hoeverre de in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2022-01-01&g=2022-01-01), bedoelde kennis op het vereiste niveau aanwezig is.
 
 2. Een herkansing van het gesprek, bedoeld in het eerste lid, wordt niet toegestaan.
 
@@ -123,15 +119,15 @@ Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van h
 
 ##### Artikel 7
 
-1. Alvorens het examen Nederlands recht of het examen gedrags- en beroepsregels, dan wel een gesprek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2014-01-01&g=2014-01-01) kan worden gevoerd dan wel afgelegd, betaalt de kandidaat het daarvoor verschuldigde examengeld.
+1. Alvorens het examen Nederlands recht of het examen gedrags- en beroepsregels, dan wel een gesprek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01) kan worden gevoerd dan wel afgelegd, betaalt de kandidaat het daarvoor verschuldigde examengeld.
 
-2. Voor het afleggen van het examen Nederlands recht en het examen gedrags- en beroepsregels en het gesprek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2014-01-01&g=2014-01-01) wordt een bij verordening vast te stellen bedrag in rekening gebracht.
+2. Voor het afleggen van het examen Nederlands recht en het examen gedrags- en beroepsregels en het gesprek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01) wordt een bij verordening vast te stellen bedrag in rekening gebracht.
 
 ### Hoofdstuk 6. Verzoek tot het afleggen van het examen
 
 ##### Artikel 8
 
-Bij het voor de eerste maal indienen van een verzoek tot het afleggen van het examen Nederlands recht, het examen gedrags- en beroepsregels of een verzoek tot vrijstelling op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=4&z=2014-01-01&g=2014-01-01), overlegt de aanvrager een bewijsstuk als bedoeld in [artikel 54, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54).
+Bij het voor de eerste maal indienen van een verzoek tot het afleggen van het examen Nederlands recht, het examen gedrags- en beroepsregels of een verzoek tot vrijstelling op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=4&z=2022-01-01&g=2022-01-01), overlegt de aanvrager een bewijsstuk als bedoeld in [artikel 54, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54).
 
 ### Hoofdstuk 7. Slotbepalingen
 
