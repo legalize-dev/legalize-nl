@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2020-10-10"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2020-10-10&g=2020-10-10), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2020-10-10&g=2022-01-01), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
