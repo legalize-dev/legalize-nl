@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-11-26"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **het ministerie:** het Ministerie van Financiën;
+- a. **het ministerie van Financiën:** het kernministerie, de Belastingdienst en de inspectie belastingen, toeslagen en douane;
 
-- b. **het kernministerie:** het Ministerie van Financiën exclusief de directoraten-generaal Belastingdienst, Toeslagen en Douane;
+- b. **het kernministerie:** de Generale Thesaurie, het directoraat-generaal Rijksbegroting, het directoraat-generaal Fiscale Zaken en het cluster secretaris-generaal;
 
-- c. **de Belastingdienst:** de directoraten-generaal Belastingdienst, Toeslagen en Douane van het Ministerie van Financiën;
+- c. **de Belastingdienst:** de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
 - d. **de minister:** de Minister van Financiën;
 
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 4. De bestuursraad
 
@@ -242,13 +242,15 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - f. het directoraat-generaal Rijksbegroting (DGRB);
 
-- g. de Generale Thesaurie (GT).
+- g. de Generale Thesaurie (GT);
+
+- h. de inspectie belastingen, toeslagen en douane (IBTD).
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -334,7 +336,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 1. De directie Bedrijfsvoering heeft de volgende hoofdtaken:
 
-- a. zorgdragen voor adequate ondersteuning van het bedrijfsvoeringsproces van het kernministerie integraal en POIFAH-breed;
+- a. zorgdragen voor adequate ondersteuning van het bedrijfsvoeringsproces van het kernministerie en de IBTD integraal en POIFAH-breed;
 
 - b. het adviseren over en uitvoeren van opdrachten van de Bestuursraad en het bedrijfsvoeringsberaad;
 
@@ -370,7 +372,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - a. verantwoordelijk voor de ICT-dienstverlening;
 
-- b. vormgeven van I-strategie van de rijksdienst en de I-strategie van het kernministerie;
+- b. vormgeven van I-strategie van de rijksdienst en de I-strategie van het kernministerie en de IBTD;
 
 - c. beheer en onderhoud van een aantal specifieke, bedrijfskritische applicaties.
 
@@ -394,7 +396,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - b. planning en control en AO/IC;
 
-- c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kerndepartement, rekening houdend met de rol van de directie FEZ.
+- c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kernministerie en de IBTD, rekening houdend met de rol van de directie FEZ.
 
 8. Het team Inkoop/CDI-Office heeft de volgende taken:
 
@@ -404,7 +406,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2021-11-26&g=2021-11-26). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-01-01&g=2022-01-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -506,9 +508,9 @@ De directie Communicatie heeft de volgende taken:
 
 - b. adviseert en ondersteunt de politieke en ambtelijke leiding op het terrein van woordvoering en communicatie en is verantwoordelijk voor het departementale beleid terzake en coördineert DG-overstijgende onderwerpen in relatie tot woordvoering en communicatie evenals de beantwoording van Wob-verzoeken van de media of Wob-verzoeken met een maatschappelijk en/of politiek belang;
 
-- c. is verantwoordelijk voor de organisatiecommunicatie van het ministerie inclusief het bewaken van de huisstijl en voor de vraaggestuurde individuele voorlichting (in samenwerking met andere departementen, uitvoeringsinstanties etc.);
+- c. is verantwoordelijk voor de organisatiecommunicatie van het ministerie, uitgezonderd de IBTD, inclusief het bewaken van de huisstijl en voor de vraaggestuurde individuele voorlichting (in samenwerking met andere departementen, uitvoeringsinstanties etc.);
 
-- d. vertegenwoordigt het ministerie in externe, interdepartementale en interne gremia in relatie tot woordvoering, voorlichting en communicatie en vervult daarbij een voortrekkersrol in samenwerkingsprocessen en is tevens verantwoordelijk voor de departementsbrede communicatie met het parlement;
+- d. vertegenwoordigt het ministerie, uitgezonderd de IBTD, in externe, interdepartementale en interne gremia in relatie tot woordvoering, voorlichting en communicatie en vervult daarbij een voortrekkersrol in samenwerkingsprocessen en is tevens verantwoordelijk voor de departementsbrede communicatie met het parlement, behalve ten aanzien van de IBTD;
 
 - e. voert de hoofdredactie van de internetsite van het ministerie en van Fintranet, mede in reactie op maatschappelijk relevante ontwikkelingen;
 
@@ -1338,23 +1340,23 @@ De Generale Thesaurie:
 
 ##### Artikel 42. Planning en control
 
-De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gestructureerd verantwoording af over de uitvoering van aan hen opgelegde taken en het gebruik van daarbij verleende bevoegdheden.
+De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijds, gestructureerd verantwoording af over de uitvoering van aan hen opgelegde taken en het gebruik van daarbij verleende bevoegdheden.
 
 ##### Artikel 43. Planning en managementrapportages
 
 1. De DG’s stellen ieder jaar een jaarplan op en bespreken dit met de SG. In het jaarplan worden beleidsdoelstellingen opgenomen, alsmede een risicoanalyse, voorgenomen activiteiten en budgetten.
 
-2. De DG’s stellen gedurende het jaar twee uitvoeringsrapportages op en bespreken deze met de SG. In de uitvoeringsrapportages wordt gerapporteerd over het realiseren van beleidsdoelstellingen en activiteiten, over de uitputting van budgetten en over bijzonderheden in de bedrijfsvoering.
+2. De DG’s en de IG stellen gedurende het jaar twee uitvoeringsrapportages op en bespreken deze met de SG. In de uitvoeringsrapportages wordt gerapporteerd over het realiseren van beleidsdoelstellingen en activiteiten, over de uitputting van budgetten en over bijzonderheden in de bedrijfsvoering.
 
-3. Op basis van de uitvoeringsrapportages van de DG's stelt de directeur Financieel-Economische Zaken tweemaal per jaar een concernrapportage op die wordt besproken in de bestuursraad.
+3. Op basis van de uitvoeringsrapportages van de DG’s en de IG stelt de directeur Financieel-Economische Zaken tweemaal per jaar een concernrapportage op die wordt besproken in de bestuursraad.
 
-4. De DG’s stellen na afloop van ieder jaar een afsluiten uitvoeringsrapportage en een managementverklaring op en bespreken deze met de SG. In de managementverklaring wordt verslag gedaan van afwijkingen in de bedrijfsvoering en over de risicobeheersing daarbij. Voorts bevat de managementverklaring een oordeel over de rechtmatigheid van de gedane uitgaven.
+4. De DG’s en de IG stellen na afloop van ieder jaar een afsluitende uitvoeringsrapportage en een managementverklaring op en bespreken deze met de SG. In de managementverklaring wordt verslag gedaan van afwijkingen in de bedrijfsvoering en over de risicobeheersing daarbij. Voorts bevat de managementverklaring een oordeel over de rechtmatigheid van de gedane uitgaven.
 
 5. De SG stelt na afloop van ieder jaar een samenvattende managementverklaring (bedrijfsvoeringsparagraaf) op en brengt deze ter kennis van de minister.
 
 ##### Artikel 44. Control
 
-1. De directeur Financieel-Economische Zaken (FEZ) ondersteunt in de vorm van toezicht en advies de SG en de DG’s bij hun overkoepelende verantwoordelijkheid voor beleidsterreinen en bijbehorende bedrijfsvoering.
+1. De directeur Financieel-Economische Zaken (FEZ) ondersteunt in de vorm van toezicht en advies de SG, de DG’s en de IG bij hun overkoepelende verantwoordelijkheid voor beleidsterreinen en bijbehorende bedrijfsvoering.
 
 2. De hoofddirecteur FEZ vervult de rol van concerncontroller – vanuit de in wet- en regelgeving, waaronder de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), vastgelegde taken – bij de totstandkoming van solide begrotingen en verantwoordingen in het kader van de planning- en controlcyclus, en bij de beoordeling van voorstellen met financiële gevolgen.
 
@@ -1376,7 +1378,7 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 3. De externe leden van het Audit Committee kunnen hun bevindingen separaat aan de minister kenbaar maken.
 
-### Hoofdstuk 10. Overige bepalingen
+### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
 ##### Artikel 47. Aanpassing organisatie
 
@@ -1386,13 +1388,17 @@ De SG en de DG’s leggen, aan het eind van het verslagjaar en tussentijds, gest
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2021-11-26&g=2021-11-26) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2021-11-26&g=2021-11-26), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
-3. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
+3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
-### Hoofdstuk 11. Slotbepalingen
+4. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
+
+5. Het vierde lid is niet van toepassing indien er sprake is van een uitbreiding van de personele formatie van de IBTD, voor zover die uitbreiding past binnen het budget van de IBTD.
+
+### Hoofdstuk 9. Verantwoording
 
 ##### Artikel 49. Vaste verandermomenten
 
@@ -1434,7 +1440,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 10. Overige bepalingen
+### Hoofdstuk 9. Verantwoording
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -1476,7 +1482,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 8. Generale thesaurie
 
-### Hoofdstuk 9. Verantwoording
+### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
+
+### Hoofdstuk 10. Overige bepalingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 41a. Structuur IBTD
+
+1. De IBTD staat onder leiding van de inspecteur-generaal belastingen, toeslagen en douane (IG).
+
+2. De IBTD ressorteert rechtstreeks onder de SG.
+
+3. De IG rapporteert over zijn bevindingen, oordelen, adviezen en andere relevante gegevens rechtstreeks aan de minister.
+
+4. De IG stelt de organisatie van de IBTD nader vast in een organisatiebesluit.
+
+##### Artikel 41b. Taken IBTD
+
+De IBTD heeft de volgende taken:
+
+- a. het ter beoordeling van de inspecteur-generaal signaleren, onderzoeken en agenderen van structurele en incidentele problemen in de kwaliteit van de uitvoering door de directoraten-generaal Belastingdienst, Toeslagen en Douane. De inspectie houdt toezicht vanuit het perspectief van de rechtsstatelijkheid en kijkt daarbij naar het volledige proces van wet- en regelgeving, uitvoering inclusief rechtsbescherming en rechtspraak;
+
+- b. het toezicht houden op de directoraten-generaal Belastingdienst, Toeslagen en Douane, zowel op de taakuitvoering door die directoraten-generaal, als op de aansturing en de samenwerkingsrelaties in het kader van de uitvoering, en
+
+- c. het delen van bevindingen en adviezen met de bewindspersonen over onderwerpen die hen aangaan, voor zover het het werkterrein van de IBTD betreft.
+
+##### Artikel 41c. Nadere regeling
+
+De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van de IBTD.
+
+### Hoofdstuk 10. Overige bepalingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 41.0a. Programmadirectie Herstel- en Veerkrachtplan
+
+De programmadirectie Herstel- en Veerkrachtplan heeft de volgende taken:
+
+- a. het schrijven, uitwerken en afstemmen van de onderdelen van het Nederlands Herstel- en Veerkrachtplan;
+
+- b. het begeleiden en coördineren van de parlementaire behandeling van het Nederlands Herstel- en Veerkrachtplan;
+
+- c. het indienen van het Nederlands Herstel- en Veerkrachtplan bij de Europese Commissie;
+
+- d. het coördineren van de periodieke rapportages aan de Europese Commissie over het Nederlands Herstel- en Veerkrachtplan gedurende de implementatiefase.
 
 ### Hoofdstuk 10. Overige bepalingen
 
