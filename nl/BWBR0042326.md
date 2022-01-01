@@ -4,7 +4,7 @@ identifier: "BWBR0042326"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042326"
 soort: "AMvB"
@@ -228,9 +228,9 @@ Het openbaar ministerie verstrekt door tussenkomst van Onze Minister aan de zorg
 
 - c. het tijdelijk plaatsen in een andere instelling, bedoeld in [artikel 6.5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.5), teneinde te bezien of een overplaatsing met het oog op de veiligheid of op een andere behandeling nodig is;
 
-- d. het overplaatsen van de forensische patiënt naar een andere instelling, dan wel naar de instelling of de penitentiaire inrichting waar de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of de vrijheidsbenemende maatregel, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=6&artikel=6.3&z=2021-07-01&g=2021-07-01);
+- d. het overplaatsen van de forensische patiënt naar een andere instelling, dan wel naar de instelling of de penitentiaire inrichting waar de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of de vrijheidsbenemende maatregel, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=6&artikel=6.3&z=2022-01-01&g=2022-01-01);
 
-- e. het beëindigen van het verblijf in de instelling, bedoeld in [artikel 6.4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=6&artikel=6.4&z=2021-07-01&g=2021-07-01).
+- e. het beëindigen van het verblijf in de instelling, bedoeld in [artikel 6.4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=6&artikel=6.4&z=2022-01-01&g=2022-01-01).
 
 6. Met het oog op het beëindigen van het toezicht stuurt de reclasseringsinstelling zo spoedig mogelijk een afloopbericht met een weergave van het feitelijk verloop van het toezicht aan het openbaar ministerie en Onze Minister. In het geval de forensisch patiënt buiten de instelling voor de verpleging van ter beschikking gestelden of de penitentiaire inrichting verblijft bij welke de algemene verantwoordelijkheid voor de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel ligt, stuurt de reclasseringsinstelling het afloopbericht tevens aan het hoofd van die instelling of de directeur van die inrichting.
 
@@ -242,7 +242,7 @@ Het openbaar ministerie verstrekt door tussenkomst van Onze Minister aan de zorg
 
 2. Bij de aanvraag worden, voor zover mogelijk, de volgende bescheiden overgelegd:
 
-- a. de toelating, bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5);
+- a. de toelatingsvergunning, bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1);
 
 - b. de statuten of reglementen van de rechtspersoon die de private instelling beheert;
 
@@ -250,7 +250,7 @@ Het openbaar ministerie verstrekt door tussenkomst van Onze Minister aan de zorg
 
 - d. de door Onze Minister verlangde gegevens over de personele en materiële toerusting die van belang zijn voor de beoordeling van de geschiktheid van de instelling;
 
-- e. het integraal beveiligingsplan, als bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=3&artikel=3.3&z=2021-07-01&g=2021-07-01).
+- e. het integraal beveiligingsplan, als bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=3&artikel=3.3&z=2022-01-01&g=2022-01-01).
 
 3. Onze Minister bepaalt in de aanwijzing dat de private instelling of de organisatorische eenheid in het bijzonder is bestemd voor de verpleging van ter beschikking gestelden, indien minimaal vijfenzeventig procent van de zorgplaatsen in de instelling of de organisatorische eenheid bestemd is voor de verpleging van personen aan wie de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd.
 
@@ -262,7 +262,7 @@ Het openbaar ministerie verstrekt door tussenkomst van Onze Minister aan de zorg
 
 - a. op verzoek van de rechtspersoon die de private instelling beheert;
 
-- b. indien de beveiliging dan wel de personele of materiële toerusting van de instelling, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=3&artikel=3.1&z=2021-07-01&g=2021-07-01), niet meer voldoet aan de eisen die daaraan naar het oordeel van Onze Minister moeten worden gesteld.
+- b. indien de beveiliging dan wel de personele of materiële toerusting van de instelling, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), niet meer voldoet aan de eisen die daaraan naar het oordeel van Onze Minister moeten worden gesteld.
 
 2. De aanwijzing als private instelling kan door Onze Minister worden opgeschort of ingetrokken, indien de rechtspersoon die de private instelling beheert heeft gehandeld in strijd met de toepasselijke wet- en regelgeving.
 
