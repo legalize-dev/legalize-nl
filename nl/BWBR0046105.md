@@ -4,7 +4,7 @@ identifier: "BWBR0046105"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2021-04-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046105"
 soort: "wet"
@@ -42,13 +42,9 @@ entry_into_force: "2022-01-01"
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -60,19 +56,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de huurtoeslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet op de loonbelasting 1964.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -86,75 +76,67 @@ De vrije ruimte, bedoeld in [artikel 31a, derde lid, van de Wet op de loonbelast
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xa
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 15a, eerste tot en met vierde lid, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15a) zoals dat luidde op 31 december 2021 blijft tot en met 31 maart 2022 van toepassing wanneer een notaris niet beschikt over de juiste software om te voldoen aan de nieuwe vereisten die met ingang van 1 januari 2022 gelden voor de inhoud van het elektronische aangiftebericht als onderdeel van de aangifte overdrachtsbelasting.
 
 ##### Artikel XI
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) vindt bij het begin van het kalenderjaar 2022 geen toepassing op de bedragen, genoemd in de tabel die is opgenomen in [artikel 9, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en op de bedragen, genoemd in de laatste zin van dat lid, en in de laatste zin van artikel 9, tweede lid, van die wet.
 
 ##### Artikel XIII
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+1. In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) worden in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2023 bij ministeriële regeling verhoogd met 2,35 percent. De bedragen in het eerste lid, laatste zin, en tweede lid, laatste zin, worden dienovereenkomstig verhoogd.
+
+2. Bij ministeriële regeling worden, na toepassing van het eerste lid, de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), derde kolom van de tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Artikel XIV vindt eerst toepassing nadat [artikel 16b, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2023 is toegepast.
 
 ##### Artikel XVI
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+1. In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) worden in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2024 bij ministeriële regeling verhoogd met 2,35 percent. De bedragen in het eerste lid, laatste zin, en tweede lid, laatste zin, worden dienovereenkomstig verhoogd.
+
+2. Bij ministeriële regeling worden, na toepassing van het eerste lid, de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), derde kolom van de tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XVII&z=2022-01-01&g=2022-01-01) vindt eerst toepassing nadat [artikel 16b, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar van 2024 is toegepast.
 
 ##### Artikel XIX
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+1. In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) worden in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2025 bij ministeriële regeling verhoogd met 2,35 percent. De bedragen in het eerste lid, laatste zin, en tweede lid, laatste zin, worden dienovereenkomstig verhoogd.
+
+2. Bij ministeriële regeling worden, na toepassing van het eerste lid, de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), derde kolom van de tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XX&z=2022-01-01&g=2022-01-01) vindt eerst toepassing nadat [artikel 16b, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar van 2025 is toegepast.
 
 ##### Artikel XXII
 
@@ -164,8 +146,6 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII
 
 Wijzigt het Belastingplan 2021.
@@ -174,16 +154,38 @@ Wijzigt het Belastingplan 2021.
 
 Wijzigt de Wet fiscale maatregelen Klimaatakkoord.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2021 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van 1 januari 2022, met dien verstande dat:
+
+- a. [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XXIII&z=2022-01-01&g=2022-01-01) terugwerkt tot en met 1 januari 2020;
+
+- b. de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=III&z=2022-01-01&g=2022-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VII&z=2022-01-01&g=2022-01-01) terugwerken tot en met 1 januari 2021;
+
+- c. [artikel XXII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=XXII&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 april 2021;
+
+- d. [artikel IX, onderdelen A, B, C, D, E, F, G, H, Ha, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=IX&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
+
+- e. [artikel VI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VI&z=2022-01-01&g=2022-01-01), toepassing vindt voordat [artikel 35o, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35o) met ingang van 1 januari 2022 wordt toegepast;
+
+- f. [artikel I, onderdelen Ba en D, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=I&z=2022-01-01&g=2022-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2022 is toegepast;
+
+- g. het in [artikel VI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VI&z=2022-01-01&g=2022-01-01), opgenomen [artikel 31a, dertiende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) voor het eerst toepassing vindt met ingang van 1 januari 2023;
+
+- h. [artikel VI, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046105&artikel=VI&z=2022-01-01&g=2022-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2022 is toegepast.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2022.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming voor het jaar 2022 en dat het ook in het kader van het fiscale beleid voor het jaar 2022 en volgende jaren wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
