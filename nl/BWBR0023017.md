@@ -4,7 +4,7 @@ identifier: "BWBR0023017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2017-07-22"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023017"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 3. Aan de aanwijzing van de Nederlandse Transplantatie Stichting wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt overeenkomstig het Handboek NTS.
 
-4. Met ingang van 1 september 2011 worden de instellingen die zorg verlenen, als bedoeld in [artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), aangewezen als instanties die rechtstreeks het donorregister kunnen raadplegen.
+4. Met ingang van 1 september 2011 worden de ziekenhuizen waarin zorg wordt verleend waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), aangewezen als instanties die rechtstreeks het donorregister kunnen raadplegen.
 
 5. Aan de aanwijzing van de in het vierde lid bedoelde instellingen wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt volgens het door het bestuur van de zorginstelling ingevolge [artikel 23 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=23) vastgesteld protocol.
 
