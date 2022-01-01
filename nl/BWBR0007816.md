@@ -4,7 +4,7 @@ identifier: "BWBR0007816"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2021-02-12"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007816"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 - **Arbodienst:** een voor de militair aangewezen arbodienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
-- **bezoldiging:** het salaris, in voorkomend geval vermeerderd met de overbruggingstoelage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2021-02-12&g=2021-02-12), en de garantietoelage minimumloon, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=10&z=2021-02-12&g=2021-02-12);
+- **bezoldiging:** het salaris, in voorkomend geval vermeerderd met de overbruggingstoelage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2021-02-12&g=2022-01-01), en de garantietoelage minimumloon, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=10&z=2021-02-12&g=2022-01-01);
 
 - **commandant:** een bij ministeriële regeling aan te wijzen functionaris;
 
@@ -94,17 +94,17 @@ Hebben goedgevonden en verstaan:
 
 - **Onze Minister:** Onze Minister van Defensie;
 
-- **Pensioengevend inkomen:** de in de berekeningsgrondslag pensioenen opgenomen inkomensbestanddelen dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12);
+- **Pensioengevend inkomen:** de in de berekeningsgrondslag pensioenen opgenomen inkomensbestanddelen dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01);
 
 - **rang:** een militaire rang en stand of klasse, voor zover niet titulair toegekend;
 
-- **salaris:** het bedrag dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=5&z=2021-02-12&g=2021-02-12);
+- **salaris:** het bedrag dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=5&z=2021-02-12&g=2022-01-01);
 
 - **salarisschaal:** een reeks van salarissen, behorende bij een bepaalde rang;
 
 - **salarisnummer:** het getal dat in een salarisschaal voor een salaris is vermeld;
 
-- **verhoogde bezoldiging:** de bezoldiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2021-02-12&g=2021-02-12), verhoogd met 8 procent vakantie-uitkering en het percentage vaste vergoeding extra beslaglegging als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=11b&z=2021-02-12&g=2021-02-12) en de eindejaarsuitkering als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15&z=2021-02-12&g=2021-02-12);
+- **verhoogde bezoldiging:** de bezoldiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2021-02-12&g=2022-01-01), verhoogd met 8 procent vakantie-uitkering en het percentage vaste vergoeding extra beslaglegging als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=11b&z=2021-02-12&g=2022-01-01) en de eindejaarsuitkering als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15&z=2021-02-12&g=2022-01-01);
 
 - **werknemersverzekering:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), dan wel de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
@@ -164,7 +164,7 @@ Vervallen
 
 ##### Artikel 4. Vaststelling salarisschalen
 
-De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2021-02-12&g=2021-02-12).
+De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2021-02-12&g=2022-01-01).
 
 ##### Artikel 5. Salaris
 
@@ -232,11 +232,11 @@ Vervallen
 
 3. Indien de in het tweede lid bedoelde militair tijdelijk is bevorderd en de rang herkrijgt die hij had voordat hij tijdelijk werd bevorderd, vervalt de in het vorige lid bedoelde verhoging van het salarisnummer.
 
-4. Het salarisnummer van de korporaal van de Koninklijke Landmacht of van de Koninklijke Luchtmacht, die wordt bevorderd tot korporaal der eerste klasse, wordt met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2021-02-12).
+4. Het salarisnummer van de korporaal van de Koninklijke Landmacht of van de Koninklijke Luchtmacht, die wordt bevorderd tot korporaal der eerste klasse, wordt met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2022-01-01).
 
 ##### Artikel 8a. Overgangsbepaling 1 juni 2001
 
-1. Voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, wordt op 1 juni 2001 zijn tot die tijd geldende diensttijd omgezet in een salarisnummer aan de hand van de salarisschalen van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2021-02-12&g=2021-02-12) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2021-02-12&g=2021-02-12) en met inachtneming van het volgende:
+1. Voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, wordt op 1 juni 2001 zijn tot die tijd geldende diensttijd omgezet in een salarisnummer aan de hand van de salarisschalen van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2021-02-12&g=2022-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2021-02-12&g=2022-01-01) en met inachtneming van het volgende:
 
 - a. Het salarisnummer wordt toegekend zodanig, dat het salaris op 1 juni 2001 gelijk is aan het salaris dat voor hem op die datum zou hebben gegolden bij toepassing van dit besluit zoals dat luidde op 31 mei 2001;
 
@@ -244,7 +244,7 @@ Vervallen
 
 - c. Voor de militair, die één of meer jaren diensttijd had boven de diensttijd behorende bij het maximum salaris in de salarisschaal, wordt het salarisnummer hoger vastgesteld overeenkomstig dat aantal jaren diensttijd.
 
-2. In afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2021-02-12), wordt voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, de datum van de eerstvolgende verhoging van het salarisnummer na 1 juni 2001 als volgt vastgesteld:
+2. In afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2022-01-01), wordt voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, de datum van de eerstvolgende verhoging van het salarisnummer na 1 juni 2001 als volgt vastgesteld:
 
 - a. voor de militair, bedoeld in het eerste lid, onder b: één jaar na de toekenning van het salarisnummer;
 
@@ -346,7 +346,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - f. de toelage woninghuur Koninklijke marechaussee;
 
-- g. het emolument van kleermakers, schoenmakers en barbiers der zeemacht, bedoeld in [artikel 23a, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12);
+- g. het emolument van kleermakers, schoenmakers en barbiers der zeemacht, bedoeld in [artikel 23a, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01);
 
 - h. de toelage Huis van Hare Majesteit de Koningin.
 
@@ -360,9 +360,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. met salarisnummer 3 of hoger: € 173,59.
 
-3. Ten aanzien van de militair op wie [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2021-02-12), van toepassing is, wordt voor de toepassing van dit artikel uitgegaan van de inkomsten waarop die militair aanspraak zou hebben, indien de verhindering tot dienstverrichting niet was ingetreden.
+3. Ten aanzien van de militair op wie [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2022-01-01), van toepassing is, wordt voor de toepassing van dit artikel uitgegaan van de inkomsten waarop die militair aanspraak zou hebben, indien de verhindering tot dienstverrichting niet was ingetreden.
 
-4. Indien de militair - anders dan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2021-02-12) - aanspraak heeft op een gedeelte van de voor hem geldende inkomsten, wordt het in het tweede lid bedoelde bedrag naar evenredigheid verminderd.
+4. Indien de militair - anders dan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2022-01-01) - aanspraak heeft op een gedeelte van de voor hem geldende inkomsten, wordt het in het tweede lid bedoelde bedrag naar evenredigheid verminderd.
 
 ##### Artikel 15. Eindejaarsuitkering
 
@@ -422,11 +422,11 @@ Bij ministeriële regeling kan de militair aanspraak worden verleend op:
 
 7. In bijzondere gevallen kan het hoofd defensieonderdeel in de situaties, genoemd in het vijfde en zesde lid, bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in [artikel 104 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=104) in zijn voordeel is beslist.
 
-8. Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17a&z=2021-02-12&g=2021-02-12), met een uitkering op grond van en werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
+8. Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17a&z=2021-02-12&g=2022-01-01), met een uitkering op grond van en werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
 
 ##### Artikel 17a. Samenloop tijdens ziekte van inkomsten en uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke regeling
 
-1. Indien de militair, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2021-02-12), ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2021-02-12) recht heeft.
+1. Indien de militair, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2022-01-01), ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2022-01-01) recht heeft.
 
 2. Indien als gevolg van handelingen of het nalaten van handelingen door de militair de uitkering ingevolge een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), dan wel de bovenwettelijke WW-uitkering een vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk niet wordt toegekend, wordt die uitkering voor de toepassing van het eerste lid steeds aangemerkt als een uitkering die onverminderd is genoten. Indien het een uitkering betreft op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) die in het geheel niet wordt toegekend, wordt voor de toepassing van dit artikel rekening gehouden met de uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.
 
@@ -484,7 +484,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 ##### Artikel 22. Vermissing
 
-1. Indien de militair wordt vermist en gegronde redenen bestaan om aan te nemen dat hij zich aan zijn dienstverplichtingen onttrekt, dan wel zich in krijgsgevangenschap bevindt of door een vreemde mogendheid is geïnterneerd, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=18&z=2021-02-12&g=2021-02-12), onderscheidenlijk [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=21&z=2021-02-12&g=2021-02-12) van overeenkomstige toepassing.
+1. Indien de militair wordt vermist en gegronde redenen bestaan om aan te nemen dat hij zich aan zijn dienstverplichtingen onttrekt, dan wel zich in krijgsgevangenschap bevindt of door een vreemde mogendheid is geïnterneerd, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=18&z=2021-02-12&g=2022-01-01), onderscheidenlijk [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=21&z=2021-02-12&g=2022-01-01) van overeenkomstige toepassing.
 
 2. Indien de militair wordt vermist en het eerste lid niet van toepassing is, wordt de militair geacht te zijn overleden op de dag waarop hij wordt vermist.
 
@@ -500,7 +500,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 1. Onverminderd het tweede lid kan het hoofd defensieonderdeel het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de geldelijke inkomsten waarop die militair over hetzelfde tijdvak aanspraak heeft uit of in verband met arbeid of bedrijf anders dan als militair. Dit geldt uitsluitend, indien laatstbedoelde geldelijke inkomsten zijn verkregen uit of in verband met werkzaamheden, verricht gedurende de voor de militair geldende werktijd, bedoeld in [artikel 54a, onder d, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54a). De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.
 
-2. Indien de militair, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2021-02-12), tijdens verhindering tot dienstverrichting in het belang van zijn genezing door de militair geneeskundige dienst wenselijk geachte arbeid voor zichzelf of voor derden verricht, worden - in afwijking van het eerste lid - de geldelijke inkomsten uit die arbeid slechts op zijn inkomsten als militair in mindering gebracht, voor zover de inkomsten uit die arbeid 30 procent van zijn inkomsten als militair te boven gaan.
+2. Indien de militair, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2021-02-12&g=2022-01-01), tijdens verhindering tot dienstverrichting in het belang van zijn genezing door de militair geneeskundige dienst wenselijk geachte arbeid voor zichzelf of voor derden verricht, worden - in afwijking van het eerste lid - de geldelijke inkomsten uit die arbeid slechts op zijn inkomsten als militair in mindering gebracht, voor zover de inkomsten uit die arbeid 30 procent van zijn inkomsten als militair te boven gaan.
 
 3. Indien de militair reeds vóór het tijdstip waarop hij de in het eerste lid bedoelde werkzaamheden heeft aangevangen, naast zijn inkomsten als militair tevens inkomsten uit of in verband met arbeid of bedrijf genoot, worden die inkomsten niet in aanmerking genomen bij de toepassing van het eerste lid. Dit is uitsluitend het geval, indien hij aannemelijk kan maken dat die inkomsten niet het gevolg zijn van verhoogde werkzaamheden of van andere oorzaken die verband houden met de werkzaamheden, bedoeld in het eerste lid.
 
@@ -520,7 +520,7 @@ Vervallen
 
 ##### Artikel 24a. Overgangsbepaling overbruggingstoelage
 
-De militair die op 31 mei 2001 aanspraak had op een overbruggingstoelage op grond van [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2021-02-12&g=2021-02-12), volgens de bepalingen van dit besluit zoals deze luidden op 31 mei 2001, behoudt zijn aanspraak op de overbruggingstoelage volgens de bepalingen van dit besluit zoals deze luidden op voornoemde datum.
+De militair die op 31 mei 2001 aanspraak had op een overbruggingstoelage op grond van [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2021-02-12&g=2022-01-01), volgens de bepalingen van dit besluit zoals deze luidden op 31 mei 2001, behoudt zijn aanspraak op de overbruggingstoelage volgens de bepalingen van dit besluit zoals deze luidden op voornoemde datum.
 
 ##### Artikel 25. Vakantie-uitkering
 
@@ -528,7 +528,7 @@ Bij de vaststelling van de grondslag voor de vakantie-uitkering wordt in voorkom
 
 ##### Artikel 25a. Mandaatverlening
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [artikel 16, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2021-02-12&g=2021-02-12), kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [artikel 16, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2021-02-12&g=2022-01-01), kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 29. Inwerkingtreding
 
@@ -608,7 +608,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het eerste lid en het tweede lid, onderdeel a, zijn van overeenkomstige toepassing voor de gewezen militair die een ontslaguitkering, waaronder tevens te begrijpen een uitkering ingevolge de Uitkeringswet gewezen militairen, geniet in de zin van de bij of krachtens de Kaderwet militaire pensioenen vastgestelde regels, met dien verstande dat onderdeel n van Tabel 1 niet als inkomensbestanddeel bij de berekening van de pensioengrondslag wordt meegenomen.
 
-| Tabel 1. | a. de bezoldiging; b. de vakantie-uitkering; c. de eindejaarsuitkering; d. de vliegtoelage; e. de garantievliegtoelage; f. de toelage Huis van Z.M. de Koning; g. de functioneringstoelage, indien deze voor ten minste vijf jaren onafgebroken is toegekend; h. de toelage officieren-arts, officieren-tandarts en officieren-apotheker, zodra deze toelage laatstelijk gedurende vijf jaren onafgebroken is genoten; i. de toelage officieren-medisch specialist, zodra deze toelage laatstelijk gedurende vijf jaren onafgebroken is genoten; j. de brevettoelage marinierskapel; k. een op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=5&artikel=26&z=2021-02-12&g=2021-02-12) van dit besluit dan wel een voor 1 januari 2009 op grond van [artikel 115 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=115) toegekende schadeloosstelling, vergoeding of tegemoetkoming, voor zover deze, naar het oordeel van Onze Minister, een vast onderdeel van zijn inkomen vormt; l. de door Onze Minister te schatten geldswaarden per jaar van het emolument van kleermakers, schoenmakers en barbiers der zeemacht wegens werkzaamheden ten dienste van de militairen, welke schatting niet individueel geschiedt doch voor alle kleermakers, schoenmakers en barbiers naar een voor elk van deze categorieën te bepalen bedrag, berekend naar de gemiddelde inkomsten, welke door elke categorie jaarlijks uit het bedrijf wordt genoten; m. het emolument huisvesting Koninklijke marechaussee; n. de vaste vergoeding voor extra beslaglegging van de militair die zich in fase 2 of 3 bevindt, voor zover hij deze na 31 december 2001 heeft genoten; o. eenmalige uitkeringen aan het defensiepersoneel. |
+| Tabel 1. | a. de bezoldiging; b. de vakantie-uitkering; c. de eindejaarsuitkering; d. de vliegtoelage; e. de garantievliegtoelage; f. de toelage Huis van Z.M. de Koning; g. de functioneringstoelage, indien deze voor ten minste vijf jaren onafgebroken is toegekend; h. de toelage officieren-arts, officieren-tandarts en officieren-apotheker, zodra deze toelage laatstelijk gedurende vijf jaren onafgebroken is genoten; i. de toelage officieren-medisch specialist, zodra deze toelage laatstelijk gedurende vijf jaren onafgebroken is genoten; j. de brevettoelage marinierskapel; k. een op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=5&artikel=26&z=2021-02-12&g=2022-01-01) van dit besluit dan wel een voor 1 januari 2009 op grond van [artikel 115 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=115) toegekende schadeloosstelling, vergoeding of tegemoetkoming, voor zover deze, naar het oordeel van Onze Minister, een vast onderdeel van zijn inkomen vormt; l. de door Onze Minister te schatten geldswaarden per jaar van het emolument van kleermakers, schoenmakers en barbiers der zeemacht wegens werkzaamheden ten dienste van de militairen, welke schatting niet individueel geschiedt doch voor alle kleermakers, schoenmakers en barbiers naar een voor elk van deze categorieën te bepalen bedrag, berekend naar de gemiddelde inkomsten, welke door elke categorie jaarlijks uit het bedrijf wordt genoten; m. het emolument huisvesting Koninklijke marechaussee; n. de vaste vergoeding voor extra beslaglegging van de militair die zich in fase 2 of 3 bevindt, voor zover hij deze na 31 december 2001 heeft genoten; o. eenmalige uitkeringen aan het defensiepersoneel. |
 | --- | --- |
 | Tabel 2. | a. de functioneringstoelage; b. de toelage officieren-arts, officieren-tandarts en officieren-apotheker; c. de toelage officieren-medisch specialist; d. de vaste vergoeding voor extra beslaglegging van de militair die zich in fase 1 bevindt; e. de tijdelijke toelage loongebouw. |
 | Tabel 3. | a. de waarnemingstoelage; b. de functioneringsgratificatie; c. de bindingspremie; d. de behoudpremie. e. de naar bij ministeriële regeling vastgestelde regels genoten toelage of vergoeding voor extra beslaglegging bedoeld in [artikel 60c, onderdelen a en b, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60c); f. overige vergoedingen en toelagen voor zover dit bij ministeriële regeling is bepaald. |
@@ -628,13 +628,13 @@ Vervallen
 
 ##### Artikel 23d. Pseudo-pensioenpremietoelage officieren-medisch specialist
 
-1. Over de toelage bedoeld in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12), wordt, zolang niet is uitgesloten dat aan de in dat onderdeel bedoelde voorwaarde zal worden voldaan, een pseudo-pensioenpremie ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn, indien die toelage tot zijn pensioengrondslag zou behoren.
+1. Over de toelage bedoeld in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01), wordt, zolang niet is uitgesloten dat aan de in dat onderdeel bedoelde voorwaarde zal worden voldaan, een pseudo-pensioenpremie ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn, indien die toelage tot zijn pensioengrondslag zou behoren.
 
-2. De in het eerste lid bedoelde pseudo-pensioenpremie is verschuldigd, totdat blijkt dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12), bedoelde voorwaarde is voldaan.
+2. De in het eerste lid bedoelde pseudo-pensioenpremie is verschuldigd, totdat blijkt dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01), bedoelde voorwaarde is voldaan.
 
-3. De in het eerste lid bedoelde pseudo-pensioenpremie over de toelage wordt aan de militair gerestitueerd, zodra die toelage niet meer wordt genoten en is uitgesloten dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12), bedoelde voorwaarde zal worden voldaan.
+3. De in het eerste lid bedoelde pseudo-pensioenpremie over de toelage wordt aan de militair gerestitueerd, zodra die toelage niet meer wordt genoten en is uitgesloten dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01), bedoelde voorwaarde zal worden voldaan.
 
-4. Het derde lid is van overeenkomstige toepassing indien de militair komt te overlijden en niet aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2021-02-12), bedoelde voorwaarde is voldaan.
+4. Het derde lid is van overeenkomstige toepassing indien de militair komt te overlijden en niet aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2021-02-12&g=2022-01-01), bedoelde voorwaarde is voldaan.
 
 ### Hoofdstuk 4a. Inhoudingen en berekeningsgrondslagen pensioenen
 
@@ -796,7 +796,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6. Bijzondere bepalingen militairen met de rang van kapitein ter zee/kolonel of hoger
 
-1. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2021-02-12), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=8&z=2021-02-12&g=2021-02-12), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12&z=2021-02-12&g=2021-02-12), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12a&z=2021-02-12&g=2021-02-12) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=13&z=2021-02-12&g=2021-02-12) aan militairen met de rang van kapitein ter zee/kolonel en hoger berust bij de Secretaris-Generaal.
+1. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2021-02-12&g=2022-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=8&z=2021-02-12&g=2022-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12&z=2021-02-12&g=2022-01-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12a&z=2021-02-12&g=2022-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=13&z=2021-02-12&g=2022-01-01) aan militairen met de rang van kapitein ter zee/kolonel en hoger berust bij de Secretaris-Generaal.
 
 2. De militair met de rang van vice-admiraal, luitenant-generaal, luitenant-admiraal of generaal heeft aanspraak op een eindejaarsuitkering van 8,3% van de door hem genoten bezoldiging.
 
@@ -816,7 +816,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ** generaal-majoor met de functie van commandant van het wapen der Koninklijke marechaussee.
 
-## Bijlage A. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2021-02-12&g=2021-02-12))
+## Bijlage A. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2021-02-12&g=2022-01-01))
 
 | **salarisnummer** | **matr3** **sld3** **mar4** | **matr2** **sld2** **mar3** | **sld1** **mar2** | **matr1** | **kpl/kpl1** **mar1** | **kpl** | **sgt** | **sgt** | **sgt1** | **sm** | **smjr** | **aoo** | **aoo** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1014,7 +1014,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15c. Tijdelijke toelage loongebouw
 
-De militair heeft in afwachting van de invoering van het nieuwe loongebouw per 1 juli 2020 van 1 januari 2019 tot en met 30 juni 2020 aanspraak op een tijdelijke toelage loongebouw, opgenomen in de bij dit besluit behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=C&z=2021-02-12&g=2021-02-12) of [D](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=D&z=2021-02-12&g=2021-02-12).
+De militair heeft in afwachting van de invoering van het nieuwe loongebouw per 1 juli 2020 van 1 januari 2019 tot en met 30 juni 2020 aanspraak op een tijdelijke toelage loongebouw, opgenomen in de bij dit besluit behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=C&z=2021-02-12&g=2022-01-01) of [D](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=D&z=2021-02-12&g=2022-01-01).
 
 ##### Artikel 15a. Eindejaarsuitkering topfunctionarissen
 
@@ -1022,11 +1022,11 @@ Vervallen
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-## Bijlage B. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2021-02-12&g=2021-02-12))
+## Bijlage B. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2021-02-12&g=2022-01-01))
 
 Vervallen
 
-## Bijlage C. (IBM, [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15c&z=2021-02-12&g=2021-02-12))
+## Bijlage C. (IBM, [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15c&z=2021-02-12&g=2022-01-01))
 
 | **salarisnummer** | **matr3** | **matr2** | **matr1** | **kpl** | **sgt** | **smjr** | **aoo** | **ltz3** | **ltz2** | **ltz2oc** | **ltz1** | **kltz** | **ktz** | **cdr** | **sbn** | **vadm** | **ltadm** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1070,7 +1070,7 @@ Vervallen
 | 37 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 0,00 | 0,00 | 0,00 |   |   |
 | 38 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
 
-## Bijlage D. (IBM, [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15c&z=2021-02-12&g=2021-02-12))
+## Bijlage D. (IBM, [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=15c&z=2021-02-12&g=2022-01-01))
 
 | **salarisnummer** | **sld3** **mar4** | **sld2** **mar3** | **sld1** | **mar2** | **kpl/kpl1** **mar1** | **sgt** | **sgt1** | **sm** | **aoo** | **tlnt** | **elnt** | **kap** | **maj** | **lkol** | **kol** | **bgen** | **genm** | **lgen** | **gen** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
