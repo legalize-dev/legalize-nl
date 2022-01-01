@@ -4,7 +4,7 @@ identifier: "BWBR0006192"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2020-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006192"
 soort: "AMvB"
@@ -60,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
-"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2020-07-01&g=2020-07-01),
+"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-01-01&g=2022-01-01),
 
-"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2020-07-01&g=2020-07-01),
+"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2022-01-01&g=2022-01-01),
 
-"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2020-07-01&g=2020-07-01),
+"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2022-01-01&g=2022-01-01),
 
 "College voor toetsen en examens": College voor toetsen en examens, genoemd in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 "diploma": het diploma Nederlands als tweede taal,
 
-"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2020-07-01&g=2020-07-01),
+"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01),
 
 "kandidaat": degene die aan een of meer examenonderdelen deelneemt.
 
@@ -100,9 +100,11 @@ Vervallen
 
 ##### Artikel 5. Examengeld
 
-1. Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 180. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 45.
+1. Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 200. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 50.
 
 2. De in het eerste lid bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
+
+3. In afwijking van het eerste lid kunnen kandidaten die inburgeringsplichtig zijn als bedoeld in [artikel 13, eerste lid, van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13), het examen afleggen als examenonderdeel van een taalschakeltraject als bedoeld in [artikel 8 van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8), en deelnemen aan een volledig examen of een examenonderdeel van programma I of II, twee kosteloze examenpogingen doen overeenkomstig [artikel 3.7 van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.7).
 
 ##### Artikel 6. Onregelmatigheden
 
@@ -186,7 +188,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2020-07-01&g=2020-07-01).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-01-01&g=2022-01-01).
 
 4. Het College voor toetsen en examens stelt modellen van de diploma's en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -200,7 +202,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Na afloop van de zes maanden kan het werk worden vernietigd.
 
-3. Het College voor toetsen en examens verstrekt ten behoeve van opneming in het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47), de beheerder daarvan de examenresultaten van de inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1).
+3. Vervallen.
 
 4. Het College voor toetsen en examens kan, met goedvinden van de kandidaat, de examenresultaten aan derden bekend maken.
 
@@ -228,7 +230,7 @@ Het College voor toetsen en examens kan toestaan dat een gehandicapte kandidaat 
 
 2. Het College voor toetsen en examens kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. Het College voor toetsen en examens deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2020-07-01&g=2020-07-01).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 22. Geheimhouding
 
@@ -238,11 +240,11 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2020-07-01&g=2020-07-01).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01).
 
-##### Artikel 24. Examens voor 1 januari 1994
+##### Artikel 24. Overgangsbepaling vanwege de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
 
-Vervallen
+Op een inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), op wie het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) van toepassing was op de dag voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555), blijft [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-01-01&g=2022-01-01), van het Staatsexamenbesluit Nederlands als tweede taal, zoals dit luidde op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.
 
 ##### Artikel 25. Inwerkingtreding
 
