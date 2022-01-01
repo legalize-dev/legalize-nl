@@ -4,7 +4,7 @@ identifier: "BWBR0034671"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-01-01"
-last_updated: "2015-09-29"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034671"
 soort: "zbo"
@@ -71,7 +71,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 21
 
-1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=5&artikel=18&z=2015-09-29&g=2015-09-29), dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) in werking treedt.
+1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=5&artikel=18&z=2022-01-01&g=2022-01-01), dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) in werking treedt.
 
 2. Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.
 
@@ -79,9 +79,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder:
 
-- –. **accountantskantoor:** het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
-
-- –. **NBA:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2).
+- –. **accountantskantoor:** accountantskantoor als bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
 
 ##### Artikel 3
 
@@ -133,7 +131,7 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 1. Een ieder die wil klagen over de wijze waarop een accountant zich ten aanzien van de uitoefening van zijn beroep jegens hem heeft gedragen, kan hierover schriftelijk een klacht indienen bij de Klachtencommissie.
 
-2. De accountant, bedoeld in [artikel 2, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=2&artikel=2&z=2015-09-29&g=2015-09-29), stuurt een door hem ontvangen klacht onverwijld door aan de Klachtencommissie.
+2. De accountant, bedoeld in [artikel 2, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), stuurt een door hem ontvangen klacht onverwijld door aan de Klachtencommissie.
 
 3. Een klacht kan niet over de hoogte van een declaratie gaan.
 
@@ -219,7 +217,7 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 2. De termijn kan worden opgeschort met ingang van de dag waarop door de Klachtencommissie is verzocht:
 
-- a. een verzuim als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=4&artikel=8&z=2015-09-29&g=2015-09-29), van deze verordening te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken;
+- a. een verzuim als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=4&artikel=8&z=2022-01-01&g=2022-01-01), van deze verordening te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken;
 
 - b. aanvullende gegevens of bescheiden te verstrekken, tot de dag waarop zij zijn verstrekt of de daarvoor gestelde termijn ongebruikt is verstreken.
 
