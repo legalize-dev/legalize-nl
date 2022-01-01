@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2015-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -168,23 +168,23 @@ Wijzigt de Wet van 22 december 2011 tot aanpassing van een aantal wetten op het 
 
 ##### Artikel XXXI
 
-1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel XXIX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIX&z=2015-01-01&g=2015-01-01), toepassing vindt voordat [artikel VII, onderdeel B, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VII) wordt toegepast.
+1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel XXIX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIX&z=2022-01-01&g=2022-01-01), toepassing vindt voordat [artikel VII, onderdeel B, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VII) wordt toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2015-01-01&g=2015-01-01), in werking met ingang van 1 januari 2022.
+2. In afwijking van het eerste lid treedt [artikel II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2022.
 
-3. [Artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2006.
+3. [Artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2022-01-01&g=2022-01-01), werkt terug tot en met 1 januari 2006.
 
-4. [Artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2009.
+4. [Artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2022-01-01&g=2022-01-01), werkt terug tot en met 1 januari 2009.
 
-5. [Artikel XXVI, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXVI&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2011.
+5. [Artikel XXVI, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXVI&z=2022-01-01&g=2022-01-01), werkt terug tot en met 1 januari 2011.
 
-6. [Artikel I, onderdelen J en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2012.
+6. [Artikel I, onderdelen J en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2022-01-01&g=2022-01-01), werkt terug tot en met 1 januari 2012.
 
-7. [Artikel I, onderdeel Ka](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2015-01-01&g=2015-01-01), [artikel II, onderdelen A en I](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2015-01-01&g=2015-01-01), [artikel III, onderdeel G, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=III&z=2015-01-01&g=2015-01-01), [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2015-01-01&g=2015-01-01), [artikel IX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IX&z=2015-01-01&g=2015-01-01), [artikel XIX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIX&z=2015-01-01&g=2015-01-01), [artikel XXII, onderdelen C, D, E, F, G, H, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXII&z=2015-01-01&g=2015-01-01), [artikel XXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIA&z=2015-01-01&g=2015-01-01), [artikel XXIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIB&z=2015-01-01&g=2015-01-01) en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXV&z=2015-01-01&g=2015-01-01) werken terug tot en met 1 januari 2013.
+7. [Artikel I, onderdeel Ka](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2022-01-01&g=2022-01-01), [artikel II, onderdelen A en I](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2022-01-01&g=2022-01-01), [artikel III, onderdeel G, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=III&z=2022-01-01&g=2022-01-01), [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2022-01-01&g=2022-01-01), [artikel IX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IX&z=2022-01-01&g=2022-01-01), [artikel XIX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIX&z=2022-01-01&g=2022-01-01), [artikel XXII, onderdelen C, D, E, F, G, H, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXII&z=2022-01-01&g=2022-01-01), [artikel XXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIA&z=2022-01-01&g=2022-01-01), [artikel XXIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIB&z=2022-01-01&g=2022-01-01) en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXV&z=2022-01-01&g=2022-01-01) werken terug tot en met 1 januari 2013.
 
-8. [Artikel XI, onderdeel AA, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XI&z=2015-01-01&g=2015-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XII&z=2015-01-01&g=2015-01-01) en [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIII&z=2015-01-01&g=2015-01-01) werken terug tot en met 1 maart 2013.
+8. [Artikel XI, onderdeel AA, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XI&z=2022-01-01&g=2022-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XII&z=2022-01-01&g=2022-01-01) en [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIII&z=2022-01-01&g=2022-01-01) werken terug tot en met 1 maart 2013.
 
-9. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2015-01-01&g=2015-01-01), [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2015-01-01&g=2015-01-01), [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2015-01-01&g=2015-01-01), en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=V&z=2015-01-01&g=2015-01-01) werken terug tot en met 22 juli 2013.
+9. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2022-01-01&g=2022-01-01), [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2022-01-01&g=2022-01-01), [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2022-01-01&g=2022-01-01), en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=V&z=2022-01-01&g=2022-01-01) werken terug tot en met 22 juli 2013.
 
 ##### Artikel XXXII
 
