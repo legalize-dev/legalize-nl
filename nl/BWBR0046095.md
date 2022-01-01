@@ -4,7 +4,7 @@ identifier: "BWBR0046095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046095"
 soort: "ministeriele-regeling"
@@ -40,11 +40,23 @@ entry_into_force: "2022-01-01"
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+A. Wijzigt de Wet op de rechtsbijstand.
+
+B. Wijzigt het Besluit eigen bijdrage rechtsbijstand.
+
+C. Wijzigt het Besluit eigen bijdrage rechtsbijstand.
+
+D. Wijzigt het Besluit eigen bijdrage rechtsbijstand.
+
+E. Wijzigt het Besluit toevoeging mediation.
+
+F. Wijzigt het Besluit toevoeging mediation.
+
+- 1. Met ingang van 1 januari 2022 wordt het normbedrag als bedoeld in [artikel 35, tweede lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) vastgesteld op € 908.
+
+- 2. Met ingang van 1 januari 2022 wordt het voorschot als bedoeld in [artikel 35, vierde lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) vastgesteld op: ten hoogste 10% van € 55.900.
 
 ##### Artikel III
 
@@ -52,7 +64,7 @@ De [bekendmaking van 17 november 2021, Stcrt. 2021, 47593](https://wetten.overhe
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking op 1 januari 2022 en werkt ten aanzien van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0046095&artikel=III&z=2022-01-01&g=2022-01-01), terug tot en met 1 januari 2020.
 
 Gelet op [artikel 34, vierde lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), [artikel 3, tweede lid, van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=3), [artikel 4, vijfde lid van het Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=4), en [artikel 3, tweede lid van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3);
 
