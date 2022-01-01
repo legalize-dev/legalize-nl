@@ -4,7 +4,7 @@ identifier: "BWBR0028535"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-01-01"
-last_updated: "2011-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028535"
 soort: "AMvB-BES"
@@ -39,7 +39,7 @@ entry_into_force: "2010-10-10"
 
 1. De door Onze Minister verlangde inlichtingen, bedoeld in de [artikelen 12, tweede lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12) en de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12) omvatten ten minste:
 
-- a. de naam en de voornamen van de werknemer, het identiteitsnummer, het geslacht, het beroep of de functie;
+- a. de naam en de voornamen van de werknemer, het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is, het geslacht, het beroep of de functie;
 
 - b. de datum van indiensttreding van de werknemer;
 
