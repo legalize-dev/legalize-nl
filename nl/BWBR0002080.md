@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,11 +81,11 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2021-01-01&g=2021-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2021-01-01&g=2021-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2022-01-01&g=2022-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2022-01-01&g=2022-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
-Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Amstelveen, Amsterdam, Diemen, Ouder-Amstel en Uithoorn.
+Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Amstelveen, Amsterdam, Diemen, Ouder-Amstel, Uithoorn en Weesp.
 
 ##### Artikel 5
 
@@ -97,11 +97,11 @@ Het arrondissement Limburg omvat het grondgebied van de provincie Limburg.
 
 ##### Artikel 7
 
-Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flevoland en Utrecht alsmede van de gemeenten Blaricum, Gooise Meren, Hilversum, Huizen, Laren, Weesp en Wijdemeren.
+Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flevoland en Utrecht alsmede van de gemeenten Blaricum, Gooise Meren, Hilversum, Huizen, Laren en Wijdemeren.
 
 ##### Artikel 8
 
-Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad en Zandvoort.
+Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Dijk en Waard, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmermeer, Heemskerk, Heemstede, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad en Zandvoort.
 
 ##### Artikel 9
 
@@ -109,7 +109,7 @@ Het arrondissement Noord-Nederland omvat het grondgebied van de provincies Drent
 
 ##### Artikel 10
 
-Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Landerd, Meierijstad, Mill en St. Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Sint Anthonis, Sint-Michielsgestel, Someren, Son en Breugel, Uden, Valkenswaard, Veldhoven, Vught en Waalre.
+Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxtel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Land van Cuijk, Maashorst, Meierijstad, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Sint-Michielsgestel, Someren, Son en Breugel, Valkenswaard, Veldhoven, Vught en Waalre.
 
 ##### Artikel 11
 
