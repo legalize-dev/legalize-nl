@@ -4,7 +4,7 @@ identifier: "BWBR0034622"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-09-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034622"
 soort: "pbo"
@@ -42,25 +42,21 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032123&artikel=2);
-
-- –. **bestuur:** het bestuur van de beroepsorganisatie;
-
 - –. **CPB:** Centraal Planbureau, bedoeld in [artikel 2, eerste lid van de Wet voorbereiding van de vaststelling van een Centraal Economisch Plan](https://wetten.overheid.nl/jci1.3:c:BWBR0002029&artikel=2);
 
-- –. **NBA stagebureau:** het stagebureau, bedoeld in [artikel 5, tweede lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=5);
+- –. **NBA stagebureau:**stagebureau, bedoeld in [artikel 5, tweede lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=5);
 
-- –. **praktijkopleiding:** de praktijkopleiding AA of de praktijkopleiding RA;
+- –. **praktijkopleiding:** praktijkopleiding als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
 
-- –. **praktijkopleiding AA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;
+- –. **praktijkopleiding AA:** praktijkopleiding AA als bedoeld in de [Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795);
 
-- –. **praktijkopleiding RA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;
+- –. **praktijkopleiding RA:** praktijkopleiding RA als bedoeld in de [Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795);
 
-- –. **rapportage:** een rapportage als bedoeld in [artikel 12, tweede lid van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=12);
+- –. **rapportage:** rapportage als bedoeld in [artikel 12, tweede lid van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=12);
 
-- –. **referaat:** een door de trainee in het derde praktijkopleidingsjaar te houden mondelinge presentatie over een daaraan door de trainee ten grondslag gelegde casusbeschrijving;
+- –. **referaat:** door de trainee in het derde praktijkopleidingsjaar te houden mondelinge presentatie over een daaraan door de trainee ten grondslag gelegde casusbeschrijving;
 
-- –. **trainee:** een natuurlijk persoon welke de praktijkopleiding volgt.
+- –. **trainee:** natuurlijk persoon die de praktijkopleiding volgt.
 
 #### Geldelijke bijdragen praktijkopleidingen algemeen
 
@@ -108,7 +104,7 @@ Aan trainees die gedurende de praktijkopleiding van stagebureau wijzigen, kan ee
 
 ##### Artikel 8
 
-De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), en [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), indien hij of zij zich binnen zes maanden na de eerste datum van inschrijving voor de praktijkopleiding, schriftelijk bij het bestuur afmeldt.
+De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), en [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=3&z=2022-01-01&g=2022-01-01), indien hij of zij zich binnen zes maanden na de eerste datum van inschrijving voor de praktijkopleiding, schriftelijk bij het bestuur afmeldt.
 
 #### Aanpassing van tarieven
 
@@ -118,9 +114,9 @@ De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoe
 
 2. Artikel 2, tweede lid wordt voor trainees die zijn ingeschreven voor 1 januari 2012, voor het eerst toegepast vanaf 1 januari 2017.
 
-3. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding AA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 3, eerste lid onderdeel a en b, van de Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0022559&artikel=3) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
+3. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding AA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2022-01-01&g=2022-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 3, eerste lid onderdeel a en b, van de Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0022559&artikel=3) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
 
-4. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding RA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 2, tweede lid, van de Verordening op de geldelijke bijdragen praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0026501&artikel=2) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
+4. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding RA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2022-01-01&g=2022-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 2, tweede lid, van de Verordening op de geldelijke bijdragen praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0026501&artikel=2) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
 
 5. Een restitutie als bedoeld in het derde en vierde lid, wordt slechts verleend indien het daartoe strekkende verzoek is ingediend voor 1 januari 2015.
 
@@ -142,7 +138,7 @@ De [Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR00225
 
 ##### Artikel 8a
 
-1. De bedragen, genoemd in de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
+1. De bedragen, genoemd in de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
 
 2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het CPB laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
 
