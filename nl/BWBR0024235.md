@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2021-06-03"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -164,11 +164,11 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 ##### Artikel 1:13
 
-1. De ambtenaar die geweld heeft aangewend, meldt dit aanwenden van het geweld, de redenen die daartoe hebben geleid en de daaruit voortvloeiende gevolgen onverwijld aan zijn meerdere.
+1. De ambtenaar die geweld heeft aangewend, meldt dit aanwenden van het geweld, de redenen die daartoe hebben geleid en de daaruit voortvloeiende gevolgen onverwijld aan de hulpofficier van justitie die krachtens aanwijzing is belast met de registratie van aangewend geweld.
 
 2. De melding, bedoeld in het eerste lid, geschiedt binnen 48 uur in de vorm van een schriftelijk rapport indien:
 
-- a. de gevolgen van het geweld daartoe, naar het oordeel van de in het eerste lid bedoelde meerdere, aanleiding geven;
+- a. de gevolgen van het geweld daartoe, naar het oordeel van de in het eerste lid bedoelde hulpofficier van justitie, aanleiding geven;
 
 - b. van een vuurwapen gebruik is gemaakt; of
 
@@ -178,7 +178,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 4. Indien het aanwenden van geweld dan wel een geweldsmiddel op uitdrukkelijke last van een meerdere heeft plaatsgevonden, wordt het rapport, bedoeld in tweede lid, door die meerdere opgemaakt.
 
-5. De meerdere licht de ambtenaar zo spoedig mogelijk in over de afhandeling van het rapport, bedoeld in het tweede lid. Desgevraagd worden aan bedoelde ambtenaar tussentijds inlichtingen verstrekt.
+5. De hulpofficier van justitie licht de ambtenaar zo spoedig mogelijk in over de afhandeling van het rapport, bedoeld in het tweede lid. Desgevraagd worden aan bedoelde ambtenaar tussentijds inlichtingen verstrekt.
 
 ##### Artikel 1:14
 
@@ -294,11 +294,11 @@ Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2021-06-03&g=2021-06-03) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2022-01-01&g=2022-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2021-06-03&g=2021-06-03), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2022-01-01&g=2022-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -308,11 +308,11 @@ Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2021-06-03&g=2021-06-03) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2022-01-01&g=2022-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2021-06-03&g=2021-06-03), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2022-01-01&g=2022-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -328,7 +328,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2021-06-03&g=2021-06-03) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2021-06-03&g=2021-06-03) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2022-01-01&g=2022-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2022-01-01&g=2022-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
