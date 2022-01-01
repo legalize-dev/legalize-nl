@@ -229,9 +229,3 @@ Deze regeling treedt in werking op 1 januari 2022 en vervalt op 1 januari 2027, 
 Deze regeling wordt aangehaald als: Stimuleringsregeling ontmoetingsruimten in ouderenhuisvesting.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 11a. Overgangsrecht
-
-Op reeds verleende subsidies zijn de bepalingen uit deze regeling van toepassing, zoals deze golden op het tijdstip van verlening van de subsidie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
