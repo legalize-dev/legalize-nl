@@ -4,7 +4,7 @@ identifier: "BWBR0035357"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-05-01"
-last_updated: "2014-08-14"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035357"
 soort: "beleidsregel"
@@ -48,13 +48,13 @@ de [artikelen 4.45, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 2
 
-1. Het besluit tot openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), wordt genomen met in achtneming van [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10).
+1. Het besluit tot openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), wordt genomen met in achtneming van [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10).
 
-2. Openbaarmaking vindt plaats op de website van de Inspectie SZW.
+2. Openbaarmaking vindt plaats op de website van de Nederlandse Arbeidsinspectie.
 
 ##### Artikel 3
 
-1. De Inspectie SZW maakt in geval van overtreding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=1&z=2014-08-14&g=2014-08-14) genoemde artikelen de volgende inspectiegegevens actief openbaar:
+1. De Nederlandse Arbeidsinspectie maakt in geval van overtreding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=1&z=2022-01-01&g=2022-01-01) genoemde artikelen de volgende inspectiegegevens actief openbaar:
 
 - a. de naam en vestigingsplaats van de rechtspersoon dan wel van de natuurlijke persoon;
 
@@ -68,33 +68,33 @@ de [artikelen 4.45, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:
 
 - f. of tegen de onder e bedoelde bestuurlijke besluiten een rechtsmiddel is ingesteld dan wel of daartoe nog de mogelijkheid bestaat.
 
-2. Op verzoek van belanghebbende kan in de zienswijzefase bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=4&z=2014-08-14&g=2014-08-14) een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in het eerste lid, van ten hoogste 100 woorden worden gevoegd bij de openbaar te maken gegevens op de website van de Inspectie SZW. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website van de Inspectie SZW gepubliceerd.
+2. Op verzoek van belanghebbende kan in de zienswijzefase bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=4&z=2022-01-01&g=2022-01-01) een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in het eerste lid, van ten hoogste 100 woorden worden gevoegd bij de openbaar te maken gegevens op de website van de Nederlandse Arbeidsinspectie. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website van de Nederlandse Arbeidsinspectie gepubliceerd.
 
 ##### Artikel 4
 
 1. Op het besluit tot openbaarmaking is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) van toepassing.
 
-2. Belanghebbenden worden in de gelegenheid gesteld een zienswijze naar voren te brengen over het voornemen tot openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14). De zienswijze op het voornemen tot openbaarmaking wordt gelijktijdig gevraagd met de zienswijze op het voornemen tot het opleggen van een bestuurlijke boete wegens overtreding van één of meerdere artikelen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=1&z=2014-08-14&g=2014-08-14) dan wel het voornemen tot het opleggen van het bevel tot stillegging van werk in verband met recidive, bedoeld in [artikel 28a, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28a).
+2. Belanghebbenden worden in de gelegenheid gesteld een zienswijze naar voren te brengen over het voornemen tot openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01). De zienswijze op het voornemen tot openbaarmaking wordt gelijktijdig gevraagd met de zienswijze op het voornemen tot het opleggen van een bestuurlijke boete wegens overtreding van één of meerdere artikelen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=1&z=2022-01-01&g=2022-01-01) dan wel het voornemen tot het opleggen van het bevel tot stillegging van werk in verband met recidive, bedoeld in [artikel 28a, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28a).
 
 ##### Artikel 5
 
-1. De openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), op de website van de Inspectie SZW geschiedt niet eerder dan nadat tien werkdagen zijn verstreken nadat het besluit tot openbaarmaking aan de rechtspersoon of de natuurlijke persoon die de overtreding heeft begaan bekend is gemaakt.
+1. De openbaarmaking van de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), op de website van de Nederlandse Arbeidsinspectie geschiedt niet eerder dan nadat tien werkdagen zijn verstreken nadat het besluit tot openbaarmaking aan de rechtspersoon of de natuurlijke persoon die de overtreding heeft begaan bekend is gemaakt.
 
 2. Indien binnen tien werkdagen nadat het besluit tot openbaarmaking, bedoeld in het eerste lid bekend is gemaakt, wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de openbaarmaking van het besluit opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.
 
 ##### Artikel 6
 
-1. De gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), blijven na plaatsing op de website vijf jaar na de datum waarop de inspectie heeft plaatsgevonden op de website van de Inspectie SZW toegankelijk.
+1. De gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), blijven na plaatsing op de website vijf jaar na de datum waarop de inspectie heeft plaatsgevonden op de website van de Nederlandse Arbeidsinspectie toegankelijk.
 
-2. Indien in verband met een beslissing op bezwaar, beroep of hoger beroep over een door de Inspectie SZW genomen bestuurlijk besluit als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), wordt vastgesteld dat de gegevens bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), niet meer juist of volledig zijn, worden deze gegevens op de website van de Inspectie SZW binnen vijf werkdagen na de betreffende beslissing door de Inspectie SZW aangepast.
+2. Indien in verband met een beslissing op bezwaar, beroep of hoger beroep over een door de Nederlandse Arbeidsinspectie genomen bestuurlijk besluit als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), wordt vastgesteld dat de gegevens bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), niet meer juist of volledig zijn, worden deze gegevens op de website van de Nederlandse Arbeidsinspectie binnen vijf werkdagen na de betreffende beslissing door de Nederlandse Arbeidsinspectie aangepast.
 
 ##### Artikel 7
 
-1. Indien sprake is van een overtreding van [artikel 4:54d, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) worden de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14), ook openbaar gemaakt via een persbericht, tenzij er dringende redenen aanwezig zijn die noodzaken een persbericht achterwege te laten.
+1. Indien sprake is van een overtreding van [artikel 4:54d, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) worden de gegevens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01), ook openbaar gemaakt via een persbericht, tenzij er dringende redenen aanwezig zijn die noodzaken een persbericht achterwege te laten.
 
 2. Indien sprake is van een groot publiek belang in verband met direct gevaar of direct dreigend voor de gezondheid en veiligheid van derden, wordt een persbericht als bedoeld in het eerste lid onverwijld na constatering van de overtreding uitgebracht.
 
-3. In een persbericht als bedoeld in het eerste lid en tweede lid, kan naast de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2014-08-14&g=2014-08-14) genoemde gegevens zo nodig aanvullende relevante informatie worden vermeld.
+3. In een persbericht als bedoeld in het eerste lid en tweede lid, kan naast de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035357&artikel=3&z=2022-01-01&g=2022-01-01) genoemde gegevens zo nodig aanvullende relevante informatie worden vermeld.
 
 ##### Artikel 8
 
