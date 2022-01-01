@@ -4,7 +4,7 @@ identifier: "BWBR0007286"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-11-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007286"
 soort: "wet"
@@ -189,6 +189,20 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 2a
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=2&z=2018-11-01&g=2018-11-01) kan bij algemene maatregel van bestuur worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=2&z=2022-01-01&g=2022-01-01) kan bij algemene maatregel van bestuur worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Het is verboden een stof die op grond van het tweede lid is aangewezen, in te voeren, uit te voeren, te vervoeren of voorhanden te hebben.
+
+2. De aanwijzing van een stof als bedoeld in het eerste lid, geschiedt bij ministeriële regeling, van Onze Minister van Justitie en Veiligheid mede namens Onze Minister, indien:
+
+- a. is gebleken dat een stof, niet zijnde een geregistreerde stof of een op een lijst van niet-geregistreerde stoffen geplaatste stof als bedoeld in [Verordening nr. 273/2004](32004R0273) en [Verordening nr. 111/2005](32005R0111), kan worden gebruikt voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen; en
+
+- b. geen legale toepassing van de stof bekend is.
+
+3. De aanwijzing van een stof als bedoeld in het tweede lid vervalt van rechtswege indien een aangewezen stof wordt geregistreerd of op een lijst van niet-geregistreerde stoffen wordt geplaatst op grond van [Verordening nr. 273/2004](32004R0273) of [Verordening nr. 111/2005](32005R0111). Hiervan wordt mededeling gedaan in de Staatscourant.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
