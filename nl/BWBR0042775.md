@@ -4,7 +4,7 @@ identifier: "BWBR0042775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-21"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042775"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie Opsporing van de Inspectie;
+- a. **directie:** de directie Opsporing van de Nederlandse Arbeidsinspectie;
 
 - b. **directeur:** de directeur van de directie Opsporing;
 
@@ -88,15 +88,15 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 - a. het leiding geven aan de eigen afdeling, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen afdeling;
 
-- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen directie aan de uitvoering van het jaarplan van de inspectie;
+- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen directie aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
 - c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van Nederlandse Arbeidsinspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als lid van de Stuur- en Weegploeg inhoudelijk sturen op de onderzoeken die zijn beschreven in het Handhavingsarrangement dat door de directie samen met het Functioneel Parket van het Openbaar ministerie wordt vastgesteld;
 
-- f. het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen;
+- f. het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen;
 
 - g. het toewijzen van voldoende capaciteit aan de afdeling om hun taak uit te voeren;
 
@@ -128,11 +128,11 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 - g. de informatie-uitwisseling met relevante partnerorganisaties;
 
-- h. verbinding met de programmatische aanpak van de gehele inspectie.
+- h. verbinding met de programmatische aanpak van de gehele Nederlandse Arbeidsinspectie.
 
-2. De afdeling Recherche SZW is belast met de uitvoering van strafrechtelijke taken ten behoeve van binnen de inspectie vastgestelde programma’s en projecten.
+2. De afdeling Recherche SZW is belast met de uitvoering van strafrechtelijke taken ten behoeve van binnen de Nederlandse Arbeidsinspectie vastgestelde programma’s en projecten.
 
-3. De afdeling Recherche SZW draagt ten behoeve van binnen de inspectie vastgestelde programma’s en projecten zorg voor het voorzien in vakbekwame medewerkers voor het verrichten van toezichttaken.
+3. De afdeling Recherche SZW draagt ten behoeve van binnen de Nederlandse Arbeidsinspectie vastgestelde programma’s en projecten zorg voor het voorzien in vakbekwame medewerkers voor het verrichten van toezichttaken.
 
 ##### Artikel 5. Verantwoordelijkheden en taken afdeling Recherche Zorg
 
@@ -150,7 +150,7 @@ De afdeling Recherche Zorg is verantwoordelijk voor:
 
 - f. de informatie-uitwisseling met relevante partnerorganisaties;
 
-- g. verbinding met de programmatische aanpak van de gehele inspectie.
+- g. verbinding met de programmatische aanpak van de gehele Nederlandse Arbeidsinspectie.
 
 ##### Artikel 6. Verantwoordelijkheden en taken afdeling Opsporingsondersteuning
 
@@ -234,7 +234,7 @@ De teamleider TCI is gevolmachtigd tot het aangaan van overeenkomsten ter waarde
 
 ##### Artikel 14. Doorverlening
 
-Een afdelingshoofd kan zijn taak om als tactisch manager te participeren in het ontwikkelen en implementeren van inspectiebrede plannen onder zijn verantwoordelijkheid laten uitvoeren door een teamleider.
+Een afdelingshoofd kan zijn taak om als tactisch manager te participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen onder zijn verantwoordelijkheid laten uitvoeren door een teamleider.
 
 ##### Artikel 15. Plaatsvervanging
 
