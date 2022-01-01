@@ -4,7 +4,7 @@ identifier: "BWBV0006830"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-01-01"
-last_updated: "2019-05-13"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006830"
 soort: "verdrag"
@@ -68,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 - f. wordt onder „het [Verdrag van Chicago](onbekend)” verstaan het Verdrag inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944, met inbegrip van alle overeenkomstig [artikel 90 van dat Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) aangenomen Bijlagen en elke wijziging van de Bijlagen of van het Verdrag van Chicago ingevolge de artikelen 90 en [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) daarvan, voor zover deze Bijlagen en wijzigingen in werking zijn getreden voor, of zijn bekrachtigd door beide partijen;
 
-- g. wordt onder „aangewezen luchtvaartmaatschappij” verstaan de luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3 (Aanwijzing en verlening van vergunningen](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=3&z=2019-05-13&g=2019-05-13)) van dit Verdrag;
+- g. wordt onder „aangewezen luchtvaartmaatschappij” verstaan de luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3 (Aanwijzing en verlening van vergunningen](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01)) van dit Verdrag;
 
 - h. wordt onder „boordproviand” verstaan consumptiegoederen bestemd voor gebruik of verkoop aan boord van een luchtvaartuig tijdens de vlucht, met inbegrip van verstrekte etenswaren en dranken;
 
@@ -112,7 +112,7 @@ Zijn het volgende overeengekomen:
 
 2. Geen van de bepalingen van het eerste lid van dit artikel wordt geacht de luchtvaartmaatschappij(en) van de ene partij het recht te verlenen deel te nemen in luchtvervoer tussen punten op het grondgebied van de andere partij (cabotage).
 
-3. De luchtvaartmaatschappijen van elke partij die niet zijn aangewezen onder [artikel 3 (Aanwijzing en verlening van vergunningen)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=3&z=2019-05-13&g=2019-05-13) van dit Verdrag, genieten eveneens de rechten als omschreven in de onderdelen a en b van het eerste lid van dit artikel.
+3. De luchtvaartmaatschappijen van elke partij die niet zijn aangewezen onder [artikel 3 (Aanwijzing en verlening van vergunningen)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=3&z=2022-01-01&g=2022-01-01) van dit Verdrag, genieten eveneens de rechten als omschreven in de onderdelen a en b van het eerste lid van dit artikel.
 
 ##### Artikel 3. Aanwijzing en verlening van vergunningen
 
@@ -144,7 +144,7 @@ Zijn het volgende overeengekomen:
 
 - iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van onderdanen van deze staat,
 
-- d. de regering die de luchtvaartmaatschappij(en) aanwijst de in [artikel 15 (Veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=15&z=2019-05-13&g=2019-05-13) en [artikel 16 (Beveiliging van de luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=16&z=2019-05-13&g=2019-05-13) van dit Verdrag vervatte normen handhaaft en toepast;
+- d. de regering die de luchtvaartmaatschappij(en) aanwijst de in [artikel 15 (Veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=15&z=2022-01-01&g=2022-01-01) en [artikel 16 (Beveiliging van de luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01) van dit Verdrag vervatte normen handhaaft en toepast;
 
 - e. de aangewezen luchtvaartmaatschappij(en) in staat is (zijn) te voldoen aan de in de wetten en voorschriften gestelde voorwaarden die de partij die de aanvraag of aanvragen behandelt gewoonlijk toepast op de exploitatie van internationaal luchtdiensten.
 
@@ -178,9 +178,9 @@ Zijn het volgende overeengekomen:
 
 - iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van en niet daadwerkelijk onder toezicht staat van de staat en/of van onderdanen van deze staat.
 
-- d. die luchtvaartmaatschappij heeft verzuimd de in[artikel 13 (Toepassing van wetten, voorschriften en procedures)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=13&z=2019-05-13&g=2019-05-13) van dit Verdrag bedoelde wetten en voorschriften na te leven;
+- d. die luchtvaartmaatschappij heeft verzuimd de in[artikel 13 (Toepassing van wetten, voorschriften en procedures)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=13&z=2022-01-01&g=2022-01-01) van dit Verdrag bedoelde wetten en voorschriften na te leven;
 
-- e. de andere partij de in [artikel 15 (Veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=15&z=2019-05-13&g=2019-05-13) van dit Verdrag vervatte normen niet handhaaft en toepast;
+- e. de andere partij de in [artikel 15 (Veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=15&z=2022-01-01&g=2022-01-01) van dit Verdrag vervatte normen niet handhaaft en toepast;
 
 - f. een dergelijke luchtvaartmaatschappij heeft nagelaten ten genoegen van de luchtvaartautoriteiten van de partij die de vergunning beoordeelt, aan te tonen dat zij voldoet aan de door die autoriteiten gewoonlijk en redelijkerwijze in overeenstemming met het [Verdrag van Chicago](onbekend) op de exploitatie van internationale luchtdiensten toegepaste wetten en voorschriften;
 
@@ -188,7 +188,7 @@ Zijn het volgende overeengekomen:
 
 2. Tenzij onmiddellijk ingrijpen van wezenlijk belang is ter voorkoming van verdere inbreuken op de voorwaarden als bedoeld in het eerste lid van dit artikel, worden de in dit artikel vastgestelde rechten slechts uitgeoefend na overleg met de andere partij. Tenzij anders is overeengekomen door de partijen, vangt dergelijk overleg aan binnen een termijn van zestig (60) dagen na de datum van ontvangst van het verzoek.
 
-3. Dit artikel doet geen afbreuk aan de rechten van de partijen de exploitatievergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen van de andere partij in overeenstemming met de bepalingen van [artikel 16 (Beveiliging van de luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=16&z=2019-05-13&g=2019-05-13) van dit Verdrag te weigeren, in te trekken, te beperken of hieraan voorwaarden te verbinden.
+3. Dit artikel doet geen afbreuk aan de rechten van de partijen de exploitatievergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen van de andere partij in overeenstemming met de bepalingen van [artikel 16 (Beveiliging van de luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01) van dit Verdrag te weigeren, in te trekken, te beperken of hieraan voorwaarden te verbinden.
 
 ### HOOFDSTUK III. COMMERCIËLE BEPALINGEN
 
@@ -330,7 +330,7 @@ Elke partij behoudt zich evenwel het recht voor de erkenning van bewijzen van be
 
 1. Elke partij kan te allen tijde verzoeken om overleg inzake door de andere partij aanvaarde veiligheidsnormen op elk gebied met betrekking tot bemanning, luchtvaartuigen of hun exploitatie. Dergelijk overleg vindt plaats binnen dertig (30) dagen na dat verzoek.
 
-2. Indien een partij na dergelijk overleg oordeelt dat de andere partij op een willekeurig gebied niet op doeltreffende wijze veiligheidsnormen en -eisen handhaaft en toepast die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het [Verdrag van Chicago](onbekend) waren vastgesteld, stelt de eerstgenoemde partij de andere partij daarvan in kennis en van de noodzakelijk geachte stappen om te voldoen aan die minimumnormen en neemt die andere partij passende corrigerende maatregelen. Indien de andere partij nalaat binnen vijftien (15) dagen, of binnen een mogelijk overeen te komen langere termijn, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 4 (Intrekking en schorsing van vergunningen)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=4&z=2019-05-13&g=2019-05-13) van dit Verdrag.
+2. Indien een partij na dergelijk overleg oordeelt dat de andere partij op een willekeurig gebied niet op doeltreffende wijze veiligheidsnormen en -eisen handhaaft en toepast die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het [Verdrag van Chicago](onbekend) waren vastgesteld, stelt de eerstgenoemde partij de andere partij daarvan in kennis en van de noodzakelijk geachte stappen om te voldoen aan die minimumnormen en neemt die andere partij passende corrigerende maatregelen. Indien de andere partij nalaat binnen vijftien (15) dagen, of binnen een mogelijk overeen te komen langere termijn, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 4 (Intrekking en schorsing van vergunningen)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=II&artikel=4&z=2022-01-01&g=2022-01-01) van dit Verdrag.
 
 3. Onverminderd de verplichtingen bedoeld in [artikel 33 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33) wordt overeengekomen dat elk luchtvaartuig dat door of op grond van een leaseregeling namens de luchtvaartmaatschappij of luchtvaartmaatschappijen van de ene partij wordt geëxploiteerd op diensten naar of van het grondgebied van de andere partij, terwijl het zich op het grondgebied van de andere partij bevindt, mag worden onderworpen aan een inspectie door de bevoegde vertegenwoordigers van de andere partij, aan boord en rond het luchtvaartuig, om zowel de geldigheid van de documenten van het luchtvaartuig als die van zijn bemanning en de kennelijke toestand van het luchtvaartuig en zijn uitrusting te controleren (platforminspecties), mits dit niet leidt tot onredelijke vertraging.
 
@@ -372,7 +372,7 @@ staat het de partij die de inspectie verricht vrij, voor de toepassing van [arti
 
 ##### Artikel 17. Dienstregeling
 
-Geen van de partijen eist dat schema’s, programma's voor vluchten of exploitatieplannen door aangewezen luchtvaartmaatschappij(en) van de andere partij ter goedkeuring worden ingediend, tenzij dit op basis van non-discriminatie kan worden vereist ten behoeve van de tenuitvoerlegging van de uniforme voorwaarden als voorzien in het tweede lid van [artikel 8 (Eerlijke concurrentie)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=III&artikel=8&z=2019-05-13&g=2019-05-13) van dit Verdrag, of wanneer dit specifiek wordt toegestaan in de Bijlage bij dit Verdrag. Wanneer een partij indiening vereist ten behoeve van informatie, beperkt zij de administratieve belasting ten gevolge van voorschriften en procedures inzake indiening voor tussenpersonen voor luchtvervoer en voor aangewezen luchtvaartmaatschappijen van de andere partij tot een minimum.
+Geen van de partijen eist dat schema’s, programma's voor vluchten of exploitatieplannen door aangewezen luchtvaartmaatschappij(en) van de andere partij ter goedkeuring worden ingediend, tenzij dit op basis van non-discriminatie kan worden vereist ten behoeve van de tenuitvoerlegging van de uniforme voorwaarden als voorzien in het tweede lid van [artikel 8 (Eerlijke concurrentie)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=III&artikel=8&z=2022-01-01&g=2022-01-01) van dit Verdrag, of wanneer dit specifiek wordt toegestaan in de Bijlage bij dit Verdrag. Wanneer een partij indiening vereist ten behoeve van informatie, beperkt zij de administratieve belasting ten gevolge van voorschriften en procedures inzake indiening voor tussenpersonen voor luchtvervoer en voor aangewezen luchtvaartmaatschappijen van de andere partij tot een minimum.
 
 ##### Artikel 18. Chartervluchten/niet-geregelde vluchten
 
@@ -386,7 +386,7 @@ Geen van de partijen eist dat schema’s, programma's voor vluchten of exploitat
 
 2. Elke partij kan om overleg verzoeken met het oog op wijziging van dit Verdrag en/of van de Bijlage erbij. Dit overleg begint binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere partij, tenzij anders wordt overeengekomen. Dit overleg kan zowel door middel van besprekingen als door middel van een briefwisseling worden gevoerd.
 
-3. Elke wijziging van dit Verdrag en van noot 2 van de Bijlage wordt overeengekomen tussen de partijen en geschiedt bij diplomatieke notawisseling. Een dergelijke wijziging treedt in werking in overeenstemming met het bepaalde in het eerste lid van [artikel 25 (Inwerkingtreding)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=VII&artikel=25&z=2019-05-13&g=2019-05-13) van dit Verdrag.
+3. Elke wijziging van dit Verdrag en van noot 2 van de Bijlage wordt overeengekomen tussen de partijen en geschiedt bij diplomatieke notawisseling. Een dergelijke wijziging treedt in werking in overeenstemming met het bepaalde in het eerste lid van [artikel 25 (Inwerkingtreding)](https://wetten.overheid.nl/jci1.3:c:BWBV0006830&hoofdstuk=VII&artikel=25&z=2022-01-01&g=2022-01-01) van dit Verdrag.
 
 4. Onverminderd de bepalingen van het derde lid van dit artikel, kunnen wijzigingen van de routetabel in de Bijlage en van noot 1 van de Bijlage bij dit Verdrag tussen de luchtvaartautoriteiten van de partijen worden overeengekomen en bij diplomatieke notawisseling worden bevestigd, en treden in werking op een in de diplomatieke notawisseling te bepalen datum. Deze uitzondering op het derde lid van dit artikel geldt niet in het geval vrijheidsrechten aan de Bijlage worden toegevoegd.
 
