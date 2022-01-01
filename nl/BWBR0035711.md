@@ -4,7 +4,7 @@ identifier: "BWBR0035711"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-07-03"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035711"
 soort: "AMvB"
@@ -86,7 +86,15 @@ Hebben goedgevonden en verstaan:
 
 - j. **drankenkartons:** verpakkingen, geschikt voor het verpakken van vloeibare levensmiddelen, bestaande voor ten minste 70% uit papier en karton en voor het overige uit een ander materiaal of andere materialen;
 
-- k. **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
+- k. **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
+
+- l. **drank:** vloeistof bestemd voor menselijke consumptie en primair bedoeld om te worden gedronken, niet zijnde een medicinale drank die als geneesmiddel, als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), kan worden gekwalificeerd;
+
+- m. **systeem voor hergebruik van verpakkingen:** organisatorische, technische of financiële regelingen die ervoor zorgen dat herbruikbare verpakkingen meerdere omlopen maken;
+
+- n. **omloop:** het traject dat een herbruikbare verpakking aflegt vanaf het moment waarop de verpakking samen met de door de verpakking in te sluiten, te beschermen, te verladen, af te leveren of aan te bieden producten in de handel wordt gebracht, tot het moment waarop deze met het oog op hergebruik wordt teruggezonden middels een systeem voor hergebruik van verpakkingen, met als doel deze verpakking opnieuw als verpakking van producten in de handel te brengen;
+
+- o. **overeenkomsten op afstand:** iedere overeenkomst die tussen de handelaar en de consument wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige fysieke aanwezigheid van handelaar en consument en waarbij, tot op en met inbegrip van het moment waarop de overeenkomst wordt gesloten, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand.
 
 2. Als verpakkingen als bedoeld in het eerste lid, onderdelen a tot en met d, worden in ieder geval aangemerkt die verpakkingen die zijn genoemd in bijlage I bij de richtlijn verpakkingen.
 
@@ -138,7 +146,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. Een producent of importeur verstrekt op een met redenen omkleed verzoek van Onze Minister, binnen een bij dat verzoek te bepalen termijn, aan hem alle benodigde informatie en documentatie om het voldoen aan de [artikelen 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2021-07-03&g=2021-07-03), en [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2021-07-03&g=2021-07-03), aan te tonen.
+1. Een producent of importeur verstrekt op een met redenen omkleed verzoek van Onze Minister, binnen een bij dat verzoek te bepalen termijn, aan hem alle benodigde informatie en documentatie om het voldoen aan de [artikelen 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), en [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), aan te tonen.
 
 2. In het geval een verpakking niet voldoet aan de verplichtingen, bedoeld in het eerste lid, brengt de producent of importeur van die verpakking Onze Minister onmiddellijk daarvan op de hoogte en neemt hij alle maatregelen om de verpakking alsnog te laten voldoen. Op verzoek van Onze Minister verleent de producent of importeur van een verpakking, die niet voldoet aan die verplichtingen, alle medewerking aan de te nemen maatregelen om te zorgen dat de verpakking alsnog voldoet aan dit besluit.
 
@@ -146,7 +154,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-1. De producent of importeur draagt zorg voor de gescheiden inname of de inname en nascheiding van door hem in Nederland in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan, ten minste voor zover nodig om te kunnen voldoen aan de verplichtingen uit de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-03&g=2021-07-03).
+1. De producent of importeur draagt zorg voor de gescheiden inname of de inname en nascheiding van door hem in Nederland in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich in dat kalenderjaar heeft ontdaan, ten minste voor zover nodig om te kunnen voldoen aan de verplichtingen uit de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01).
 
 2. De kosten van de gescheiden inname of de inname en nascheiding van verpakkingen komen voor rekening van de producent of importeur.
 
@@ -188,7 +196,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het eerste en tweede lid zijn niet van toepassing op een producent of importeur die verpakkingen op het moment dat deze aan een ander ter beschikking worden gesteld, aan een stof, preparaat of ander product toevoegt, voor zover het deze verpakkingen betreft en voor zover deze verpakkingen niet zijn voorzien van zijn naam, logo of merkteken.
 
-4. Onverminderd het eerste en tweede lid, onder a, en indien er overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=5&artikel=9&z=2021-07-03&g=2021-07-03), gezamenlijk uitvoering wordt gegeven aan het eerste en tweede lid, dragen producenten en importeurs er gezamenlijk zorg voor dat per kalenderjaar ten minste een bij ministeriële regeling bepaalde gewichtshoeveelheid kunststof verpakkingsafval dat bij huishoudens vrijkomt, wordt gerecycled.
+4. Onverminderd het eerste en tweede lid, onder a, en indien er overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=5&artikel=9&z=2022-01-01&g=2022-01-01), gezamenlijk uitvoering wordt gegeven aan het eerste en tweede lid, dragen producenten en importeurs er gezamenlijk zorg voor dat per kalenderjaar ten minste een bij ministeriële regeling bepaalde gewichtshoeveelheid kunststof verpakkingsafval dat bij huishoudens vrijkomt, wordt gerecycled.
 
 ##### Artikel 7
 
@@ -198,7 +206,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-1. De producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich heeft ontdaan jaarlijks meer dan 50.000 kilogram bedraagt, zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2021-07-03&g=2021-07-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-03&g=2021-07-03), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2021-07-03&g=2021-07-03).
+1. De producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich heeft ontdaan jaarlijks meer dan 50.000 kilogram bedraagt, zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2022-01-01&g=2022-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2022-01-01&g=2022-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2022-01-01&g=2022-01-01).
 
 2. Het verslag, bedoeld in het eerste lid, gaat vergezeld van documenten waarmee de juistheid van de gegevens in het verslag wordt aangetoond.
 
@@ -208,7 +216,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9
 
-1. De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5&z=2021-07-03&g=2021-07-03), [6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-03&g=2021-07-03) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2021-07-03&g=2021-07-03).
+1. De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2022-01-01&g=2022-01-01), [6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2022-01-01&g=2022-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2022-01-01&g=2022-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01).
 
 2. Indien aan het eerste lid is voldaan, zijn de in het eerste lid bedoelde verplichtingen niet van toepassing op:
 
@@ -232,7 +240,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. de wijze waarop de verpakkingen nuttig worden toegepast of worden verwijderd.
 
-2. De gegevens, bedoeld in het eerste lid, worden door de in dat lid bedoelde rechtspersoon uitsluitend gebruikt ten behoeve van het verslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2021-07-03&g=2021-07-03).
+2. De gegevens, bedoeld in het eerste lid, worden door de in dat lid bedoelde rechtspersoon uitsluitend gebruikt ten behoeve van het verslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=4&artikel=8&z=2022-01-01&g=2022-01-01).
 
 3. Bij ministeriële regeling worden regels gesteld over de wijze waarop aan de verplichting, bedoeld in het eerste lid, uitvoering wordt gegeven.
 
@@ -254,7 +262,7 @@ In deze paragraaf wordt verstaan onder frisdrank: drinkwaar als bedoeld in [arti
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2020/122.
 
-De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03), is niet van toepassing op:
+De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01), is niet van toepassing op:
 
 - a. verpakkingen van:
 
@@ -276,11 +284,11 @@ De verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 14
 
-Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03), bepaald. In die regeling kan voor een verschillende inhoud van de kunststof fles een verschillende minimale hoogte van het statiegeld worden vastgesteld.
+Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01), bepaald. In die regeling kan voor een verschillende inhoud van de kunststof fles een verschillende minimale hoogte van het statiegeld worden vastgesteld.
 
 ##### Artikel 15
 
-1. Indien de verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03), van toepassing is, voorziet de producent of importeur de verpakking van een aanduiding omtrent het statiegeld. Onze Minister kan vorm en inhoud van deze aanduiding vaststellen.
+1. Indien de verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01), van toepassing is, voorziet de producent of importeur de verpakking van een aanduiding omtrent het statiegeld. Onze Minister kan vorm en inhoud van deze aanduiding vaststellen.
 
 2. De aanduiding, bedoeld in het eerste lid, wordt duidelijk en onuitwisbaar op de verpakking aangebracht.
 
@@ -288,11 +296,11 @@ Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld 
 
 ##### Artikel 16
 
-Onze Minister zendt uiterlijk in 2024 een verslag over de doeltreffendheid en de effecten van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2021-07-03&g=2021-07-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2021-07-03&g=2021-07-03) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03) van dit besluit aan de Staten-Generaal.
+Onze Minister zendt uiterlijk in 2024 een verslag over de doeltreffendheid en de effecten van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2022-01-01&g=2022-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2022-01-01&g=2022-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01) van dit besluit aan de Staten-Generaal.
 
 ##### Artikel 17
 
-Een wijziging van de richtlijn verpakkingen of van de beschikkingen, genoemd in [artikel 2, tweede lid, onder b onderscheidenlijk onder c, en in het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2021-07-03&g=2021-07-03), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van de richtlijn verpakkingen of van de beschikkingen, genoemd in [artikel 2, tweede lid, onder b onderscheidenlijk onder c, en in het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 18
 
@@ -304,15 +312,15 @@ Vervallen
 
 2. Het [Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139) blijft van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor het tijdstip van intrekking van dat besluit.
 
-3. [Artikel 6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), zoals gewijzigd ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=7&artikel=18&z=2021-07-03&g=2021-07-03), is niet van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor 1 januari 2022.
+3. [Artikel 6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), zoals gewijzigd ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=7&artikel=18&z=2022-01-01&g=2022-01-01), is niet van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor 1 januari 2022.
 
 ##### Artikel 20
 
-1. Dit besluit treedt, met uitzondering van de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-03&g=2021-07-03) en [11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2021-07-03&g=2021-07-03), in werking op 1 januari 2015.
+1. Dit besluit treedt, met uitzondering van de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01) en [11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2022-01-01&g=2022-01-01), in werking op 1 januari 2015.
 
-2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), treedt in werking op 1 januari 2016.
+2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), treedt in werking op 1 januari 2016.
 
-3. De artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2021-07-03&g=2021-07-03), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2021-07-03&g=2021-07-03), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2021-07-03&g=2021-07-03), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=14&z=2021-07-03&g=2021-07-03) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2021-07-03&g=2021-07-03) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2022-01-01&g=2022-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2022-01-01&g=2022-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=14&z=2022-01-01&g=2022-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2022-01-01&g=2022-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21
 
@@ -322,7 +330,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De producent of importeur die drank in een kunststof fles met een inhoud van 3 liter of minder in Nederland in de handel brengt, draagt er zorg voor dat per kalenderjaar ten minste 90 gewichtsprocent van het totaal van deze door hem in dat kalenderjaar in Nederland in de handel gebrachte flessen, doppen en deksels inbegrepen, gescheiden wordt ingezameld.
+
+2. In afwijking van het eerste lid kan volstaan worden met gescheiden inzameling als bedoeld in dat lid van ten minste 85 gewichtsprocent, mits ten minste 5 gewichtsprocent van het totaal van de in de handel gebrachte flessen, doppen en deksels inbegrepen, dat niet geschieden is ingezameld, niet minder potentieel bevatten om voorbereiding voor hergebruik, recycling of andere behandelingen voor nuttige toepassing te ondergaan en de producten die uit die handelingen voortkomen een vergelijkbare kwaliteit hebben als producten die voortvloeien uit gescheiden ingezamelde flessen.
 
 #### § 4. Verslaglegging
 
@@ -336,7 +346,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-1. Onverminderd [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen tenminste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
+1. Onverminderd [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen tenminste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
 
 - a. in 2021: 71 gewichtsprocent;
 
@@ -346,7 +356,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. met ingang van 2025: 74 gewichtsprocent.
 
-2. Onverminderd [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2021-07-03&g=2021-07-03), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen:
+2. Onverminderd [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen:
 
 - a. van het kunststof in de verpakkingen ten minste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
 
