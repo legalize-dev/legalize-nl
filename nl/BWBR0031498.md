@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2020-03-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 
 1. Een melding wordt, onder overlegging van een schriftelijk en naar waarheid afgelegde verklaring, opgesteld op een daartoe door het Uitvoeringsinstituut werknemersverzekeringen verstrekt formulier, gedaan door:
 
-- a. de werkgever van de vreemdeling, bedoeld in [artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1k), die meldt: het kenmerk van het goedgekeurde traject, de gegevens van de werkgever in Nederland, de naam, het adres, en indien van toepassing, het KvK-nummer of vergelijkbare registratiegegevens in het land van vestiging van de in het buitenland gevestigde onderneming, werkgever of opdrachtgever, de identiteitsgegevens van de vreemdeling, de omschrijving, aard en duur van de werkzaamheden, en het adres van de werkplek in Nederland;
+- a. de werkgever van de vreemdeling, bedoeld in [artikel 5.2 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=5.2), die meldt: het kenmerk van het goedgekeurde traject, de gegevens van de werkgever in Nederland, de naam, het adres, en indien van toepassing, het KvK-nummer of vergelijkbare registratiegegevens in het land van vestiging van de in het buitenland gevestigde onderneming, werkgever of opdrachtgever, de identiteitsgegevens van de vreemdeling, de omschrijving, aard en duur van de werkzaamheden, en het adres van de werkplek in Nederland;
 
-- b. de werkgever van de vreemdeling, bedoeld in [artikel 1m van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1m), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
+- b. de werkgever van de vreemdeling, bedoeld in [artikel 2.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.5), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
 
-- c. de werkgever van de vreemdeling, bedoeld in artikel 1n van het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
+- c. de werkgever van de vreemdeling, bedoeld in [artikel 2.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.6), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
 
 2. In dit artikel wordt verstaan onder het KvK-nummer: het door de Kamer van Koophandel toegekende unieke nummer over een onderneming in het handelsregister.
 
-3. Een melding door middel van een A-1 verklaring, ingediend voor 1 juli 2017, door de werkgever van de vreemdeling, bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), wordt beschouwd als melding, bedoeld in het eerste lid, onderdeel a.
+3. Een melding door middel van een A-1 verklaring, ingediend voor 1 juli 2017, door de werkgever van de vreemdeling, bedoeld in [artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.6), wordt beschouwd als melding, bedoeld in het eerste lid, onderdeel a.
 
 ##### Artikel 4. Inwerkingtreding
 
@@ -78,6 +78,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Melding gedetacheerde werknemers
 
-Gelet op [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) heeft de dienstverrichter die een vreemdeling als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) detacheert een meldplicht op grond van [artikel 8 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8).
+Gelet op [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) heeft de dienstverrichter die een vreemdeling als bedoeld in [artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.6) detacheert een meldplicht op grond van [artikel 8 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
