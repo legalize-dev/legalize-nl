@@ -4,7 +4,7 @@ identifier: "BWBR0010998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010998"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het tarief, bedoeld in [artikel 1, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), wordt voor de consument duidelijk leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde.
+1. Het tarief, bedoeld in [artikel 1, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), wordt voor de consument duidelijk leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde.
 
 2. Ten behoeve van het duidelijk kenbaar maken van de klachtenbehandeling, bedoeld in [artikel 72a van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=72a) wordt voor de consument leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde:
 
@@ -73,7 +73,7 @@ Besluit:
 
 De gegevens over de klachtenbehandeling zijn in ieder geval duidelijk kenbaar, indien zij worden bekendgemaakt met gebruikmaking van een taxi-informatiekaart waarvan het model overeenkomt met het in de bijlage bij de regeling opgenomen model A1 of model B.
 
-3. Met uitzondering van het taxivervoer dat op de openbare weg wordt aangeboden, kunnen het tarief, bedoeld in [artikel 1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), en de gegevens ten behoeve van de klachtenbehandeling, bedoeld in het tweede lid, in plaats van duidelijk leesbaar getoond aan de binnen- en buitenzijde van de auto, langs elektronische weg duidelijk kenbaar aan de consument worden gemaakt.
+3. Met uitzondering van het taxivervoer dat op de openbare weg wordt aangeboden, kunnen het tarief, bedoeld in [artikel 1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), en de gegevens ten behoeve van de klachtenbehandeling, bedoeld in het tweede lid, in plaats van duidelijk leesbaar getoond aan de binnen- en buitenzijde van de auto, langs elektronische weg duidelijk kenbaar aan de consument worden gemaakt.
 
 4. Aan het eerste tot en met derde lid wordt eveneens voldaan indien naar het oordeel van de Minister van Infrastructuur en Milieu het tarief duidelijk leesbaar onderscheidenlijk de gegevens over de klachtenbehandeling duidelijk kenbaar zijn.
 
@@ -81,7 +81,7 @@ De gegevens over de klachtenbehandeling zijn in ieder geval duidelijk kenbaar, i
 
 ##### Artikel 2a
 
-Overtreding van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2021-01-01&g=2021-01-01), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2021-01-01&g=2021-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2021-01-01&g=2021-01-01) vormen een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
+Overtreding van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2022-01-01&g=2022-01-01), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2022-01-01&g=2022-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2022-01-01&g=2022-01-01) vormen een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ##### Artikel 3
 
@@ -101,23 +101,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. Het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), bedraagt ten hoogste:
+1. Het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), bedraagt ten hoogste:
 
-- a. € 3,29 voor het vaste bedrag;
+- a. € 3,36 voor het vaste bedrag;
 
-- b. € 2,42 voor het bedrag per kilometer;
+- b. € 2,47 voor het bedrag per kilometer;
 
-- c. € 0,40 voor het bedrag per minuut.
+- c. € 0,41 voor het bedrag per minuut.
 
-2. Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen en waarin ook feitelijk tenminste vijf personen aanwezig zijn, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), ten hoogste:
+2. Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen en waarin ook feitelijk tenminste vijf personen aanwezig zijn, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), ten hoogste:
 
-- a. € 6,69 voor het vaste bedrag;
+- a. € 6,83 voor het vaste bedrag;
 
-- b. € 3,05 voor het bedrag per kilometer;
+- b. € 3,11 voor het bedrag per kilometer;
 
-- c. € 0,45 voor het bedrag per minuut.
+- c. € 0,46 voor het bedrag per minuut.
 
-3. Het tarief, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), bedraagt ten hoogste € 45,33 per uur.
+3. Het tarief, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), bedraagt ten hoogste € 46,29 per uur.
 
 ## Bijlage
 
@@ -133,7 +133,7 @@ Vervallen
 
 1. De vervoerder biedt de consument na afloop van het verrichte taxivervoer een automatisch gegenereerd schriftelijk ritbewijs aan, waarop tenminste de volgende gegevens staan vermeld:
 
-- a. informatie over de door de vervoerder toegepaste tarieven, gebaseerd op de in [artikel 1, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), bedoelde bedragen;
+- a. informatie over de door de vervoerder toegepaste tarieven, gebaseerd op de in [artikel 1, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), bedoelde bedragen;
 
 - b. de gereden afstand uitgedrukt in kilometers tot tenminste één cijfer achter de komma nauwkeurig;
 
@@ -149,13 +149,13 @@ Vervallen
 
 2. Met uitzondering van het taxivervoer dat op de openbare weg wordt aangeboden, kan het ritbewijs, bedoeld in het eerste lid, in plaats van schriftelijk, langs elektronische weg duidelijk kenbaar aan de consument worden aangeboden.
 
-3. Het eerste lid is van overeenkomstige toepassing indien sprake is van een vast tarief als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01).
+3. Het eerste lid is van overeenkomstige toepassing indien sprake is van een vast tarief als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01).
 
 4. De in het eerste en tweede lid bedoelde weergave van de aldaar genoemde informatie dient duidelijk kenbaar en in overeenstemming met de werkelijkheid te zijn en, voor zover van toepassing, een nauwgezette en rechtstreekse weergave te zijn van de relevante gegevens die de basis zijn voor de werking van de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=127) dan wel [artikel 78 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) bedoelde taxameter dan wel voor de werking van de in [artikel 79 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) bedoelde boordcomputer.
 
 5. Het eerste lid is niet van toepassing, indien sprake is van in [artikel 81, tweede lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81) bedoeld vervoer.
 
-6. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan [artikel 1, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01), dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
+6. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan [artikel 1, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01), dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
 
 ##### Artikel 1d
 
@@ -171,13 +171,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2aa
 
-1. De in [artikel 78, zesde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) bedoelde nader te bepalen gevallen betreffende het niet van toepassing zijn van de eis betreffende de zichtbare aanwezigheid van een taxameter zijn de gevallen waarin het voertuig aantoonbaar uitsluitend wordt gebruikt voor taxivervoer tegen een voorafgaand aan de taxirit op kenbare en transparante wijze met de consument overeengekomen vast tarief per rit als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2021-01-01&g=2021-01-01).
+1. De in [artikel 78, zesde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) bedoelde nader te bepalen gevallen betreffende het niet van toepassing zijn van de eis betreffende de zichtbare aanwezigheid van een taxameter zijn de gevallen waarin het voertuig aantoonbaar uitsluitend wordt gebruikt voor taxivervoer tegen een voorafgaand aan de taxirit op kenbare en transparante wijze met de consument overeengekomen vast tarief per rit als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2022-01-01&g=2022-01-01).
 
 2. Het eerste lid is niet van toepassing indien het taxivervoer wordt aangeboden op de openbare weg.
 
 ## Bijlage
 
-Bijlage behorende bij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2021-01-01&g=2021-01-01), van de Regeling maximumtarief en bekendmaking tarieven taxivervoer, in verband met het stellen van nadere regels omtrent de kenbaarheid tarieven en klachtenbehandeling.
+Bijlage behorende bij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2022-01-01&g=2022-01-01), van de Regeling maximumtarief en bekendmaking tarieven taxivervoer, in verband met het stellen van nadere regels omtrent de kenbaarheid tarieven en klachtenbehandeling.
 
 Vervallen.
 
