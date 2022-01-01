@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2020-08-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -64,15 +64,15 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 2. Een groep kinderen waaraan voorschoolse educatie wordt aangeboden bestaat uit ten hoogste 16 feitelijk aanwezige kinderen.
 
-3. De bezitter van een getuigschrift als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2020-08-01&g=2020-08-01), die aantoonbaar is ingeschreven voor de scholing, bedoeld in artikel 4, derde lid, onderdeel b, wordt voor de toepassing van het eerste lid gelijkgesteld met een beroepskracht voorschoolse educatie, met dien verstande dat dit slechts geldt:
+3. De bezitter van een getuigschrift als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2022-01-01&g=2022-01-01), die aantoonbaar is ingeschreven voor de scholing, bedoeld in artikel 4, derde lid, onderdeel b, wordt voor de toepassing van het eerste lid gelijkgesteld met een beroepskracht voorschoolse educatie, met dien verstande dat dit slechts geldt:
 
 - a. indien hij niet eerder is ingeschreven voor dergelijke scholing;
 
 - b. gedurende de inschrijving voor de scholing, met dien verstande dat deze periode maximaal drie maanden voor de aanvang van de scholing begint en in ieder geval twee jaar na aanvang van de scholing eindigt;
 
-- c. indien hij voldoet aan de taaleis, bedoeld in [artikel 4, lid 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2020-08-01&g=2020-08-01); en
+- c. indien hij voldoet aan de taaleis, bedoeld in [artikel 4, lid 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2022-01-01&g=2022-01-01); en
 
-- d. indien bij het aanbieden van voorschoolse educatie ten minste één beroepskracht voorschoolse educatie die voldoet aan de eisen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2020-08-01&g=2020-08-01), ook op de groep aanwezig is, met dien verstande dat indien de groep uit meer dan acht feitelijk aanwezige kinderen bestaat, dit geen beroepskracht voorschoolse educatie als bedoeld in artikel 4, vijfde lid, betreft.
+- d. indien bij het aanbieden van voorschoolse educatie ten minste één beroepskracht voorschoolse educatie die voldoet aan de eisen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2022-01-01&g=2022-01-01), ook op de groep aanwezig is, met dien verstande dat indien de groep uit meer dan acht feitelijk aanwezige kinderen bestaat, dit geen beroepskracht voorschoolse educatie als bedoeld in artikel 4, vijfde lid, betreft.
 
 ##### Artikel 4. Basisvoorwaarden voor kwaliteit van beroepskrachten voorschoolse educatie
 
@@ -110,7 +110,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 - b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1), zoals dat luidde op 31 december 2017 werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2020-08-01&g=2020-08-01).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2022-01-01&g=2022-01-01).
 
 6. Indien van een groep waaraan voorschoolse educatie wordt aangeboden, feitelijk meer dan acht kinderen aanwezig zijn, is ten hoogste op één van de aanwezige beroepskrachten voorschoolse educatie het vijfde lid van toepassing.
 
@@ -158,9 +158,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - f. de wijze waarop vorm wordt gegeven aan de inhoudelijke aansluiting tussen voor- en vroegschoolse educatie en aan een zorgvuldige overgang van het kind van voor- naar vroegschoolse educatie,
 
-- g. hoe aan de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2a&z=2020-08-01&g=2020-08-01), wordt voldaan, en
+- g. hoe aan de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2&z=2022-01-01&g=2022-01-01), wordt voldaan, en
 
-- h. dit onderdeel is nog niet in werking getreden.
+- h. de wijze waarop invulling wordt gegeven aan de verplichting tot inzet van een pedagogisch beleidsmedewerker, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2a&z=2022-01-01&g=2022-01-01), en hoe daarmee de kwaliteit van de voorschoolse educatie wordt bevorderd.
 
 2. De houder geeft uitvoering aan het pedagogisch beleidsplan wat de onderwerpen van het eerste lid betreft, evalueert de uitvoering jaarlijks, en stelt het plan zo nodig aan de hand hiervan bij.
 
@@ -168,6 +168,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a. Inzet pedagogisch beleidsmedewerker
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onverminderd de bij of krachtens [artikel 1.50 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50) voorgeschreven inzet van een pedagogisch beleidsmedewerker ten behoeve van de kinderopvang, zet de houder van een kindercentrum waar voorschoolse educatie wordt aangeboden een pedagogisch beleidsmedewerker in ten behoeve van de verhoging van de kwaliteit van de voorschoolse educatie.
+
+2. De inzet van de pedagogisch beleidsmedewerker ten behoeve van de verhoging van de kwaliteit van voorschoolse educatie betreft de totstandkoming en implementatie van beleidsvoornemens met betrekking tot voorschoolse educatie of coaching van beroepskrachten voorschoolse educatie.
+
+3. Deze inzet omvat per kindercentrum een minimaal aantal uren per jaar, dat jaarlijks wordt bepaald door het aantal kinderen waaraan in het kindercentrum op 1 januari van het betreffende jaar voorschoolse educatie wordt aangeboden te vermenigvuldigen met tien uur. Hierbij worden slechts kinderen meegeteld die tussen tweeëneenhalf en vier jaar oud zijn en behoren tot de op grond van [artikel 167, eerste lid, onderdeel a, subonderdeel 2°, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) vastgestelde doelgroep.
+
+4. De houder legt vast aan hoeveel van deze kinderen op 1 januari voorschoolse educatie wordt aangeboden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
