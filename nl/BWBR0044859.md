@@ -4,7 +4,7 @@ identifier: "BWBR0044859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2021-02-26"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044859"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Met de behandeling van klachten zijn belast:
 
 - a. namens de Minister van Infrastructuur en Waterstaat: de ambtenaren van de Inspectie Leefomgeving en Transport; en
 
-- b. namens de Minister van Sociale Zaken en Werkgelegenheid: de ambtenaren van de Inspectie Sociale Zaken en Werkgelegenheid.
+- b. namens de Minister van Sociale Zaken en Werkgelegenheid: de ambtenaren van de Nederlandse Arbeidsinspectie.
 
 ##### Artikel 3
 
