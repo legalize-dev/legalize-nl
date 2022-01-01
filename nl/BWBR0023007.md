@@ -4,7 +4,7 @@ identifier: "BWBR0023007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2018-05-10"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023007"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 wet: [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919);
 
-klachtencommissie: commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023007&paragraaf=2&artikel=2&z=2018-05-10&g=2018-05-10);
+klachtencommissie: commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023007&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01);
 
 Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij de opsporingsambtenaar is aangesteld over wiens gedraging een schriftelijke klacht is ingediend.
 
@@ -64,7 +64,7 @@ Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij 
 
 - c. de divisie Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit, ressorterend onder de Minister van Landbouw, Natuur en Voedselkwaliteit, bedoeld in [artikel 2, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- d. de directie Opsporing van de Inspectie SZW, ressorterend onder de Minister van Sociale Zaken en Werkgelegenheid, bedoeld in [artikel 2, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2).
+- d. de directie Opsporing van de Nederlandse Arbeidsinspectie, ressorterend onder de Minister van Sociale Zaken en Werkgelegenheid, bedoeld in [artikel 2, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2).
 
 2. [Afdeling 9.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.3) is van toepassing.
 
