@@ -4,7 +4,7 @@ identifier: "BWBR0033795"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033795"
 soort: "pbo"
@@ -42,27 +42,23 @@ Stelt de volgende verordening vast:
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aantekening:** de aantekening, bedoeld in [artikel 36, tweede lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- –. **aantekening:** aantekening als bedoeld in [artikel 36, tweede lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
 - –. **accountant:** een accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantsregister:** het accountantsregister, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- –. **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
+- –. **fraude:** opzettelijk handelen of nalaten van een trainee, waardoor het vormen van een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt gemaakt;
 
-- –. **bestuur:** het bestuur van de beroepsorganisatie;
+- –. **kernvakgebieden:** kernvakgebieden als genoemd in [paragraaf 3.3 van het Besluit tot vaststellen van de (gewijzigde) Eindtermen accountantsopleiding 2016](onbekend);
 
-- –. **fraude:** het opzettelijk handelen of nalaten van een trainee, waardoor het vormen van een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt gemaakt;
+- –. **praktijkopleiding AA:** praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;
 
-- –. **kernvakgebieden:** de kernvakgebieden, genoemd in [paragraaf 3.3 van de Eindtermen accountantsopleiding 2016](onbekend) (Staatscourant 2015, 48003);
-
-- –. **praktijkopleiding AA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;
-
-- –. **praktijkopleiding RA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;
+- –. **praktijkopleiding RA:** praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;
 
 - –. **trainee:** een natuurlijk persoon welke de praktijkopleiding AA of de praktijkopleiding RA volgt;
 
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ### Hoofdstuk 2. De Raad voor de Praktijkopleidingen
 
@@ -122,9 +118,9 @@ Vervallen
 
 ##### Artikel 7
 
-1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01).
+1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2022-01-01&g=2022-01-01).
 
-2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01).
+2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2022-01-01&g=2022-01-01), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 8
 
@@ -196,7 +192,7 @@ Het examen ter afsluiting van de praktijkopleiding toetst de vaardigheid in de p
 
 ##### Artikel 16
 
-Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2020-01-01&g=2020-01-01) afnemen.
+Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2022-01-01&g=2022-01-01) afnemen.
 
 #### Paragraaf 6.2. Het examen ter afsluiting van de praktijkopleiding RA
 
@@ -222,7 +218,7 @@ De trainee wordt tot het mondeling examen toegelaten indien:
 
 ##### Artikel 20
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2020-01-01&g=2020-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2022-01-01&g=2022-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
@@ -298,7 +294,7 @@ Vervallen
 
 ##### Artikel 10a
 
-Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2020-01-01&g=2020-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2020-01-01&g=2020-01-01), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
+Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2022-01-01&g=2022-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2022-01-01&g=2022-01-01), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
 
 - a. het met goed gevolg afronden van één of meer aanvullende cursussen of vakken; of
 
