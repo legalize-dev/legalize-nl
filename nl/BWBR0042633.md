@@ -4,7 +4,7 @@ identifier: "BWBR0042633"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2020-08-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042633"
 soort: "AMvB"
@@ -52,10 +52,10 @@ Wijzigt het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
 
 ##### Artikel II. Overgangsrecht
 
-Ten aanzien van het door een houder verzorgde aanbod van voorschoolse educatie aan kinderen die ten tijde van de inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042633&artikel=I&z=2020-08-01&g=2020-08-01), de leeftijd van tweeëneenhalf jaar al hebben bereikt, blijft [artikel 2 van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2) gelden zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel A.
+Ten aanzien van het door een houder verzorgde aanbod van voorschoolse educatie aan kinderen die ten tijde van de inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042633&artikel=I&z=2022-01-01&g=2022-01-01), de leeftijd van tweeëneenhalf jaar al hebben bereikt, blijft [artikel 2 van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2) gelden zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel A.
 
 ##### Artikel III. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 2020, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042633&artikel=I&z=2020-08-01&g=2020-08-01), en artikel I, onderdeel C, subonderdeel 2, onderdeel h, die in werking treden met ingang van 1 januari 2022.
+Dit besluit treedt in werking met ingang van 1 augustus 2020, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042633&artikel=I&z=2022-01-01&g=2022-01-01), en artikel I, onderdeel C, subonderdeel 2, onderdeel h, die in werking treden met ingang van 1 januari 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
