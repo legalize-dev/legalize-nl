@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2021-03-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2021-03-01&g=2021-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2021-03-01&g=2021-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2021-03-01&g=2021-03-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2021-03-01&g=2021-03-01) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2021-03-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2021-03-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2021-03-01&g=2022-01-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2021-03-01&g=2022-01-01) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -208,7 +208,7 @@ De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, v
 
 1. Onze Minister is de bevoegde autoriteit, voor:
 
-- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2021-03-01&g=2021-03-01), bedoelde bevoegdheid van de Stichting KCB vallen;
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2021-03-01&g=2022-01-01), bedoelde bevoegdheid van de Stichting KCB vallen;
 
 - b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007;
 
@@ -220,7 +220,7 @@ De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, v
 
 ##### Artikel 18
 
-Vervallen
+Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2022-05-05&g=2022-01-01), worden opgedragen bij ministeriële regeling.
 
 ##### Artikel 19
 
@@ -269,6 +269,12 @@ Vervallen
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 18a
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18
 
 Vervallen
 
