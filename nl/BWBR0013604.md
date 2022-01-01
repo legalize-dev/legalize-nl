@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2013-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2013-01-01&g=2013-01-01);
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2022-05-26&g=2022-01-01);
 
 - d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
