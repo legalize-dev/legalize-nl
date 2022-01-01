@@ -4,7 +4,7 @@ identifier: "BWBR0044035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-22"
-last_updated: "2021-07-14"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3. Staatssteun
 
-1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2021-07-14&g=2021-07-14), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2022-07-16&g=2022-01-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
@@ -124,7 +124,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2021-07-14&g=2021-07-14).
+2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2022-07-16&g=2022-01-01).
 
 3. In aanvulling op het tweede lid gaat de aanvraag tot verlening van de subsidie van een universitair medisch centrum vergezeld van een schriftelijke verklaring over de geldigheidsduur van bestaande convenanten met het betrokken kernziekenhuis en dienstverleningsovereenkomsten met de NTS.
 
