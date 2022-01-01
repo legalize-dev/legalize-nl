@@ -4,7 +4,7 @@ identifier: "BWBR0007952"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2013-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007952"
 soort: "wet"
@@ -67,7 +67,7 @@ winkel: een voor het publiek toegankelijke besloten ruimte, waarin goederen aan 
 
 ##### Artikel 3
 
-1. De gemeenteraad kan bij verordening vrijstelling verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2013-07-01&g=2013-07-01) vervatte verboden.
+1. De gemeenteraad kan bij verordening vrijstelling verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2022-01-01&g=2022-01-01) vervatte verboden.
 
 2. De gemeenteraad kan bij verordening aan burgemeester en wethouders de bevoegdheid verlenen om in de gevallen, in de verordening aan te wijzen, en met inachtneming van de daarin gestelde regels op daartoe strekkend verzoek ontheffing van de in het eerste lid bedoelde verboden te verlenen.
 
@@ -83,7 +83,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Indien de eigenaar of beheerder van een winkel tot een kerkgenootschap behoort, dat de wekelijkse rustdag op een andere dag dan de zondag houdt, of te goeder trouw verklaart een godsdienst of levensovertuiging te belijden welke vordert, dat de wekelijkse rustdag op een andere dag dan de zondag wordt gehouden, verlenen burgemeester en wethouders op zijn verzoek ontheffing van het verbod van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2013-07-01&g=2013-07-01).
+1. Indien de eigenaar of beheerder van een winkel tot een kerkgenootschap behoort, dat de wekelijkse rustdag op een andere dag dan de zondag houdt, of te goeder trouw verklaart een godsdienst of levensovertuiging te belijden welke vordert, dat de wekelijkse rustdag op een andere dag dan de zondag wordt gehouden, verlenen burgemeester en wethouders op zijn verzoek ontheffing van het verbod van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2022-01-01&g=2022-01-01).
 
 2. Aan de ontheffing wordt het voorschrift verbonden dat de winkel op die andere dag gesloten dient te zijn.
 
@@ -93,7 +93,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Bij algemene maatregel van bestuur kan vrijstelling worden verleend van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2013-07-01&g=2013-07-01) vervatte verboden ten behoeve van:
+1. Bij algemene maatregel van bestuur kan vrijstelling worden verleend van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2022-01-01&g=2022-01-01) vervatte verboden ten behoeve van:
 
 - a. instellingen voor de volksgezondheid,
 
@@ -109,7 +109,9 @@ Verordeningen van de gemeenteraad kunnen geen betrekking hebben op de openingsti
 
 ##### Artikel 10
 
-Vervallen
+1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=3&z=2022-01-01&g=2022-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=6&z=2022-01-01&g=2022-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=8&z=2022-01-01&g=2022-01-01), is een eenzijdige wijziging van openingstijden waarmee de eigenaar of beheerder van een winkel niet uitdrukkelijk heeft ingestemd op het moment van die wijziging, nietig ten aanzien van die eigenaar of beheerder.
+
+2. De nietigheid geldt voor eenzijdige wijzigingen die voor de datum van inwerkingtreding van het eerste lid aan de eigenaar of beheerder van een winkel bekend zijn gemaakt, vanaf die datum.
 
 ##### Artikel 11
 
