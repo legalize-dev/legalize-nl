@@ -4,7 +4,7 @@ identifier: "BWBR0042476"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042476"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling syllabi ten behoeve van het examenjaar 2021
 
-De syllabi worden vastgesteld dan wel nader vastgesteld voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2021, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2021-01-01&g=2021-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1b&z=2021-01-01&g=2021-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1c&z=2021-01-01&g=2021-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2020
 
@@ -52,27 +52,27 @@ Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023
 
-1. De syllabi worden vastgesteld voor de centrale examens in het vwo en havo ten behoeve van het examenjaar 2022 voor de vakken als vermeld in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2021-01-01&g=2021-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+1. De syllabi worden vastgesteld voor de centrale examens in het vwo en havo ten behoeve van het examenjaar 2022 voor de vakken als vermeld in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2022-01-01&g=2022-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
-2. Er wordt een syllabus vastgesteld voor de centrale examens in het vwo ten behoeve van het examenjaar 2023 voor het vak vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2021-01-01&g=2021-01-01) bij deze regeling, welk vak na bekendmaking deel uitmaakt van deze regeling.
+2. Er wordt een syllabus vastgesteld voor de centrale examens in het vwo ten behoeve van het examenjaar 2023 voor het vak vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2022-01-01&g=2022-01-01) bij deze regeling, welk vak na bekendmaking deel uitmaakt van deze regeling.
 
 ##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2021-01-01&g=2021-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2021-01-01&g=2021-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2022-01-01&g=2022-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2022-01-01&g=2022-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2021-01-01&g=2021-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2021-01-01&g=2021-01-01): per 1 januari 2022;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2022-01-01&g=2022-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2022-01-01&g=2022-01-01): per 1 januari 2022;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2021-01-01&g=2021-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2021-01-01&g=2021-01-01): per 1 januari 2021;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2022-01-01&g=2022-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2022-01-01&g=2022-01-01): per 1 januari 2021;
 
-- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2021-01-01&g=2021-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2021-01-01&g=2021-01-01): per 1 januari 2023;
+- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2022-01-01&g=2022-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2022-01-01&g=2022-01-01): per 1 januari 2023;
 
-- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2021-01-01&g=2021-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2021-01-01&g=2021-01-01): per 1 januari 2024.
+- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2022-01-01&g=2022-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2022-01-01&g=2022-01-01): per 1 januari 2024.
 
 ##### Artikel 6. Citeertitel
 
@@ -80,88 +80,15 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens vo 2021.
 
 ## Bijlage 1a. Syllabi vwo 2021
 
-**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
-
-Voor de centrale examens vwo 2021 worden syllabi voor de volgende vakken vastgesteld:
-
-| aardrijkskunde |
-| --- |
-| bedrijfseconomie (nadere vaststelling van de syllabus in 2016 vastgesteld) |
-| beeldende vakken |
-| biologie |
-| economie |
-| filosofie |
-| Fries |
-| geschiedenis |
-| Grieks |
-| kunst (beeldende vormgeving/dans/drama/muziek/algemeen) |
-| Latijn |
-| maatschappijwetenschappen |
-| moderne vreemde talen |
-| muziek |
-| natuurkunde |
-| Nederlands |
-| scheikunde |
-| wiskunde A, B en C |
+Vervallen
 
 ## Bijlage 1b. Syllabi havo 2021
 
-**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
-
-Voor de centrale examens havo 2021 worden syllabi voor de volgende vakken vastgesteld:
-
-| aardrijkskunde |
-| --- |
-| bedrijfseconomie |
-| beeldende vakken |
-| biologie |
-| economie |
-| filosofie |
-| Fries |
-| geschiedenis (nadere vaststelling van de syllabus die in 2018 is vastgesteld) |
-| kunst (beeldende vormgeving/dans/drama/muziek/algemeen) |
-| maatschappijwetenschappen |
-| moderne vreemde talen |
-| muziek |
-| natuurkunde |
-| Nederlands |
-| scheikunde |
-| wiskunde A en B |
+Vervallen
 
 ## Bijlage 1c. Syllabi vmbo 2021
 
-**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
-
-Voor de centrale examens vmbo 2021 worden syllabi voor de volgende vakken vastgesteld:
-
-| **algemene vakken:** |
-| --- |
-| aardrijkskunde |
-| beeldende vakken |
-| biologie |
-| dans |
-| drama |
-| economie |
-| fries |
-| geschiedenis en staatsinrichting |
-| maatschappijkunde |
-| moderne vreemde talen |
-| muziek |
-| natuur- en scheikunde I |
-| natuur- en scheikunde II |
-| Nederlands |
-| wiskunde |
-|   |
-| **profielvakken beroepsgericht:** |
-| bouwen, wonen en interieur |
-| produceren, installeren en energie |
-| mobiliteit en transport |
-| media, vormgeving en ict |
-| zorg en welzijn |
-| economie en ondernemen |
-| horeca, bakkerij en recreatie |
-| dienstverlening en producten |
-| groen |
+Vervallen
 
 ## Bijlage 2. Nadere vaststelling syllabi 2020
 
