@@ -4,7 +4,7 @@ identifier: "BWBR0044894"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044894"
 soort: "AMvB"
@@ -92,19 +92,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het college stelt de loonwaarde vast op basis van de feitelijke werkzaamheden op de werkplek van de werknemer bij de werkgever met inachtneming van het bij of krachtens deze paragraaf gestelde op grond van het rapport, bedoeld in het derde lid, onderdeel d, en met inbreng van de werknemer en de werkgever die voornemens is een dienstbetrekking aan te gaan dan wel een dienstbetrekking is aangegaan met de werknemer.
 
-2. De loonwaarde bedraagt de som van de arbeidsprestaties per hoofdtaak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), rekenkundig afgerond op hele procenten.
+2. De loonwaarde bedraagt de som van de arbeidsprestaties per hoofdtaak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), rekenkundig afgerond op hele procenten.
 
 3. De loonwaardedeskundige:
 
-- a. bepaalt de normfunctie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=4&z=2021-07-01&g=2021-07-01);
+- a. bepaalt de normfunctie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01);
 
-- b. stelt de arbeidsprestaties per hoofdtaak vast overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01);
+- b. stelt de arbeidsprestaties per hoofdtaak vast overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01);
 
 - c. berekent de loonwaarde; en
 
 - d. legt de bevindingen, nadat de werknemer en de werkgever die een dienstbetrekking is aangegaan met de werknemer of dat voornemens is in staat zijn gesteld hun zienswijze kenbaar te maken, vast in een rapport dat voldoet aan bij ministeriële regeling te stellen regels.
 
-4. Het college draagt er zorg voor dat de loonwaardedeskundige aan de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=6&z=2021-07-01&g=2021-07-01) gestelde kwaliteitseisen voldoet en in voldoende mate onafhankelijk functioneert.
+4. Het college draagt er zorg voor dat de loonwaardedeskundige aan de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01) gestelde kwaliteitseisen voldoet en in voldoende mate onafhankelijk functioneert.
 
 ##### Artikel 4. Bepalen van de normfunctie
 
@@ -152,7 +152,7 @@ De loonwaardedeskundige voldoet wat betreft kennis over de relevante wet- en reg
 
 ##### Artikel 7. Dag van uitbetaling van de loonkostensubsidie bij vaste arbeidsduur
 
-Dit onderdeel is nog niet inwerking getreden
+Het college betaalt de loonkostensubsidie voor het deel van de arbeidsduur dat in de arbeidsovereenkomst is vastgelegd uiterlijk uit op de laatste werkdag voorafgaand aan de eenentwintigste dag van de maand waarin de arbeid is verricht.
 
 #### § 5. Slotbepalingen
 
@@ -174,6 +174,6 @@ Dit besluit wordt aangehaald als: Besluit loonkostensubsidie Participatiewet 202
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2021, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
+Dit besluit treedt in werking met ingang van 1 juli 2021, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4&artikel=7&z=2022-01-01&g=2022-01-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
