@@ -4,7 +4,7 @@ identifier: "BWBR0042435"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2020-12-12"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042435"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **directeur-generaal:** de directeur-generaal Werk;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2020-12-12&g=2020-12-12);
+- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01);
 
 - c. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -230,7 +230,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 ##### Artikel 11
 
-1. De afdeling BMO is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2020-12-12&g=2020-12-12), verantwoordelijk voor de ondersteuning van de activiteiten van de directeuren zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=3&artikel=3&z=2020-12-12&g=2020-12-12), waaronder:
+1. De afdeling BMO is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), verantwoordelijk voor de ondersteuning van de activiteiten van de directeuren zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=3&artikel=3&z=2022-01-01&g=2022-01-01), waaronder:
 
 - a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
 
@@ -256,7 +256,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=3&artikel=3&z=2020-12-12&g=2020-12-12), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=3&artikel=3&z=2022-01-01&g=2022-01-01), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -284,7 +284,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 ##### Artikel 13
 
-1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2020-12-12&g=2020-12-12) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling BMO, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling BMO, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
 2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling BMO mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
 
@@ -298,7 +298,9 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 ##### Artikel 14
 
-In afwijking van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2020-12-12&g=2020-12-12), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Kinderopvang en de directie Gezond en Veilig Werken.
+1. In afwijking van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2022-01-01&g=2022-01-01), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Kinderopvang en de directie Gezond en Veilig Werken.
+
+2. In afwijking van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2022-01-01&g=2022-01-01), wordt aan de directeur van de directie Werknemersregelingen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover het wetten en regelingen betreft op het werkterrein van de directie Arbeidsverhoudingen.
 
 ##### Artikel 15
 
