@@ -4,7 +4,7 @@ identifier: "BWBR0040419"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040419"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Onze Minister:** Onze Minister-President, Minister van Algemene Zaken;
 
-- c. **lid:** degene die is benoemd tot voorzitter of lid van de toetsingscommissie inzet bevoegdheden onderscheidenlijk tot voorzitter of lid van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
+- c. **lid:** degene die is benoemd tot voorzitter, lid of plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden onderscheidenlijk tot voorzitter of lid van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
 
 - d. **lid van de afdeling klachtbehandeling:** degene die is benoemd tot lid van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen en veiligheidsdiensten, niet zijnde de voorzitter van de afdeling klachtbehandeling;
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040419&artikel=2&z=2020-01-01&g=2020-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van reis- en verblijfkosten voor dienstreizen, een tegemoetkoming in de kosten voor reizen in het kader van woon-werkverkeer en een gratificatie bij ambtsjubileum overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040419&artikel=2&z=2022-01-01&g=2022-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van reis- en verblijfkosten voor dienstreizen, een tegemoetkoming in de kosten voor reizen in het kader van woon-werkverkeer en een gratificatie bij ambtsjubileum overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. Indien rijksambtenaren een eenmalige uitkering wordt toegekend, ontvangen de leden deze op gelijke voet.
 
@@ -108,11 +108,11 @@ Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardo
 
 ##### Artikel 6
 
-1. Een lid van de afdeling klachtbehandeling geniet een vergoeding per vergadering van 3% overeenkomstig het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+1. Een lid van de afdeling klachtbehandeling en een plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden geniet een vergoeding per vergadering van 3% overeenkomstig het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=3) en [6 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) zijn van overeenkomstige toepassing.
 
-3. Een lid van de afdeling klachtbehandeling ontvangt voor het bijwonen van een vergadering een vergoeding voor reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+3. Een lid van de afdeling klachtbehandeling en een plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden ontvangt voor het bijwonen van een vergadering een vergoeding voor reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 7
 
