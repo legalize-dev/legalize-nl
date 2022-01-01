@@ -4,7 +4,7 @@ identifier: "BWBR0031331"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031331"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. hoe de samenwerking met schuldeisers, waaronder verhuurders van tot bewoning bestemde onroerende zaken, zorgverzekeraars, water- en energiebedrijven, wordt vormgegeven;
 
-- d. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2021-01-01&g=2021-01-01), genoemde periode, en
+- d. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2022-01-01&g=2022-01-01), genoemde periode, en
 
 - e. hoe schuldhulpverlening aan gezinnen met inwonende minderjarige kinderen wordt vormgegeven.
 
@@ -82,11 +82,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Verantwoordelijkheid college
 
-1. Het college heeft tot taak en voert daarbij het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2021-01-01&g=2021-01-01), uit, om:
+1. Het college heeft tot taak en voert daarbij het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2022-01-01&g=2022-01-01), uit, om:
 
 - a. schuldhulpverlening aan de inwoners van zijn gemeente te geven;
 
-- b. een inwoner een aanbod te doen tot een eerste gesprek als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2021-01-01&g=2021-01-01), als een bij of krachtens algemene maatregel van bestuur te bepalen signaal van schuldeisers is ontvangen door het college over betalingsachterstanden, dat een goede indicatie vormt voor meer schulden.
+- b. een inwoner een aanbod te doen tot een eerste gesprek als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2022-01-01&g=2022-01-01), als een bij of krachtens algemene maatregel van bestuur te bepalen signaal van schuldeisers is ontvangen door het college over betalingsachterstanden, dat een goede indicatie vormt voor meer schulden.
 
 2. Het college kan schuldhulpverlening in ieder geval weigeren in geval een inwoner al eerder gebruik heeft gemaakt van schuldhulpverlening.
 
@@ -102,7 +102,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. een inwoner zich tot het college wendt voor schuldhulpverlening; of
 
-- b. het college een signaal als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2021-01-01&g=2021-01-01), heeft ontvangen, in het geval de inwoner het aanbod heeft geaccepteerd.
+- b. het college een signaal als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2022-01-01&g=2022-01-01), heeft ontvangen, in het geval de inwoner het aanbod heeft geaccepteerd.
 
 2. Indien er sprake is van een bedreigende situatie vindt binnen drie werkdagen het eerste gesprek plaats waarin de hulpvraag wordt vastgesteld. Onder bedreigende situatie wordt verstaan gedwongen woningontruiming, beëindiging van de levering van gas, elektriciteit, stadsverwarming of water of opzegging dan wel ontbinding van de zorgverzekering.
 
@@ -132,7 +132,7 @@ De cliënt doet aan het college op verzoek of onverwijld uit eigen beweging mede
 
 1. Bestuursorganen en andere bij algemene maatregel van bestuur aangewezen personen en instanties verstrekken onder te bepalen voorwaarden aan het college de gegevens en inlichtingen waarvan kennisneming van belang kan zijn voor de uitvoering van deze wet.
 
-2. Het college kan onder bij algemene maatregel van bestuur te bepalen voorwaarden aan bestuursorganen en aan bij algemene maatregel van bestuur aan te wijzen instanties gegevens verstrekken voortvloeiende uit de uitvoering van deze wet, die deze bestuursorganen en instanties behoeven in verband met uitoefening van hun taak en dienstverlening.
+2. Het college verstrekt onder bij algemene maatregel van bestuur te bepalen voorwaarden aan bestuursorganen en aan bij algemene maatregel van bestuur aan te wijzen instanties gegevens voortvloeiende uit de uitvoering van deze wet, die deze bestuursorganen en instanties behoeven in verband met uitoefening van hun taak en dienstverlening.
 
 3. Het vragen en het verstrekken van gegevens door het college aan en door de in het eerste en tweede lid bedoelde bestuursorganen en instanties kan geschieden door tussenkomst van het Inlichtingenbureau, bedoeld in [artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63).
 
@@ -146,9 +146,9 @@ De cliënt doet aan het college op verzoek of onverwijld uit eigen beweging mede
 
 ##### Artikel 10. Tijdelijke regeling
 
-1. In afwijking van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2021-01-01&g=2021-01-01), kan bij ministeriële regeling voor de duur van maximaal vijf jaren een signaal van een schuldeiser over betalingsachterstanden, die een betere indicatie vormen voor meer schulden, worden aangewezen, waarna bij ontvangst daarvan door bij die regeling aangewezen gemeenten, het college uit eigen beweging een eerste gesprek aanbiedt als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2021-01-01&g=2021-01-01).
+1. In afwijking van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2022-01-01&g=2022-01-01), kan bij ministeriële regeling voor de duur van maximaal vijf jaren een signaal van een schuldeiser over betalingsachterstanden, die een betere indicatie vormen voor meer schulden, worden aangewezen, waarna bij ontvangst daarvan door bij die regeling aangewezen gemeenten, het college uit eigen beweging een eerste gesprek aanbiedt als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2022-01-01&g=2022-01-01).
 
-2. Als toepassing is gegeven aan het eerste lid kunnen in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8&z=2021-01-01&g=2021-01-01), bij ministeriële regeling personen en instanties worden aangewezen die een signaal over betalingsachterstanden aan het college verstrekken en zijn artikel 8, tweede tot en met vierde lid van overeenkomstige toepassing met dien verstande dat waar « bij algemene maatregel van bestuur» staat gelezen wordt «bij ministeriële regeling».
+2. Als toepassing is gegeven aan het eerste lid kunnen in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8&z=2022-01-01&g=2022-01-01), bij ministeriële regeling personen en instanties worden aangewezen die een signaal over betalingsachterstanden aan het college verstrekken en zijn artikel 8, tweede tot en met vierde lid van overeenkomstige toepassing met dien verstande dat waar « bij algemene maatregel van bestuur» staat gelezen wordt «bij ministeriële regeling».
 
 ##### Artikel 11. Wijziging van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
@@ -174,7 +174,7 @@ Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rec
 
 ##### Artikel 4a. Beschikking tot schuldhulpverlening dan wel de afwijzing of beëindiging ervan
 
-1. Na het eerste gesprek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2021-01-01&g=2021-01-01), wordt een beschikking afgegeven, inhoudende:
+1. Na het eerste gesprek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2022-01-01&g=2022-01-01), wordt een beschikking afgegeven, inhoudende:
 
 - a. het plan van aanpak; of
 
@@ -192,17 +192,17 @@ Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rec
 
 ##### Artikel 8a. Verwerking persoonsgegevens schuldhulpverlening
 
-Het college is bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming en persoonsgegevens van strafrechtelijke aard voor zover noodzakelijk voor de uitvoering van de taak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2021-01-01&g=2021-01-01).
+Het college is bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming en persoonsgegevens van strafrechtelijke aard voor zover noodzakelijk voor de uitvoering van de taak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 8b. Verwerking persoonsgegevens wanneer college uit eigen beweging een gesprek aanbiedt
 
-1. Het college is bevoegd tot het verwerken van persoonsgegevens van de inwoner voor zover die gegevens noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2021-01-01&g=2021-01-01).
+1. Het college is bevoegd tot het verwerken van persoonsgegevens van de inwoner voor zover die gegevens noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2022-01-01&g=2022-01-01).
 
-2. Onder noodzakelijke gegevens wordt verstaan de gegevens uit de basisregistratie personen en gegevens die noodzakelijk zijn om de signalen, bedoeld in de [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2021-01-01&g=2021-01-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10&z=2021-01-01&g=2021-01-01), te verwerken.
+2. Onder noodzakelijke gegevens wordt verstaan de gegevens uit de basisregistratie personen en gegevens die noodzakelijk zijn om de signalen, bedoeld in de [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3&z=2022-01-01&g=2022-01-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10&z=2022-01-01&g=2022-01-01), te verwerken.
 
 ##### Artikel 8c. Gebruik burgerservicenummer
 
-Het college gebruikt het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1) van een inwoner bij het verwerken van persoonsgegevens als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8a&z=2021-01-01&g=2021-01-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8b&z=2021-01-01&g=2021-01-01) met het doel te waarborgen dat de in het kader van de uitvoering van deze wet te verwerken persoonsgegevens op die inwoner betrekking hebben.
+Het college gebruikt het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1) van een inwoner bij het verwerken van persoonsgegevens als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8a&z=2022-01-01&g=2022-01-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8b&z=2022-01-01&g=2022-01-01) met het doel te waarborgen dat de in het kader van de uitvoering van deze wet te verwerken persoonsgegevens op die inwoner betrekking hebben.
 
 ##### Artikel 8d. Gebruik gegevens sociaal domein
 
