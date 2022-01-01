@@ -4,7 +4,7 @@ identifier: "BWBR0043903"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2020-09-10"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043903"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **aangesloten partijen:** partijen die op grond van [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) zijn aangesloten op het verwijzingsportaal bankgegevens;
 
-- b. **bevoegde autoriteiten:** de instanties en functionarissen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=4&artikel=6&z=2020-09-10&g=2020-09-10) van dit besluit;
+- b. **bevoegde autoriteiten:** de instanties en functionarissen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=4&artikel=6&z=2022-01-01&g=2022-01-01) van dit besluit;
 
 - c. **verwijzingsportaal bankgegevens:** het centraal elektronisch systeem, bedoeld in [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i);
 
@@ -99,7 +99,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 ##### Artikel 3
 
-1. Onze Minister van Justitie en Veiligheid, de bevoegde autoriteiten en de aangesloten partijen treffen ieder de technische en organisatorische voorzieningen die nodig zijn teneinde uitvoering te geven aan de ingevolge de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=3&artikel=4&z=2020-09-10&g=2020-09-10) op hen rustende verplichtingen.
+1. Onze Minister van Justitie en Veiligheid, de bevoegde autoriteiten en de aangesloten partijen treffen ieder de technische en organisatorische voorzieningen die nodig zijn teneinde uitvoering te geven aan de ingevolge de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01) op hen rustende verplichtingen.
 
 2. De technische voorzieningen bij de bevoegde autoriteiten zijn zo ingericht dat ze uitsluitend toegankelijk zijn voor personen die daartoe door de betreffende bevoegde autoriteit zijn geautoriseerd. De bevoegde autoriteiten houden een registratie bij van daartoe geautoriseerde personen.
 
@@ -145,7 +145,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 De volgende bevoegde autoriteiten gebruiken het verwijzingsportaal bankgegevens:
 
-- 1°. opsporingsambtenaren als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), werkzaam bij de Nationale Politie, het openbaar ministerie, de Koninklijke Marechaussee, de Rijksrecherche, de Fiscale Inlichtingen- en Opsporingsdienst, de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit, de directie Opsporing van de Inspectie Sociale Zaken en Werkgelegenheid of de Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport;
+- 1°. opsporingsambtenaren als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), werkzaam bij de Nationale Politie, het openbaar ministerie, de Koninklijke Marechaussee, de Rijksrecherche, de Fiscale Inlichtingen- en Opsporingsdienst, de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit, de directie Opsporing van de Nederlandse Arbeidsinspectie of de Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport;
 
 - 2°. de officier van justitie, bedoeld in [artikel 9 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=9);
 
