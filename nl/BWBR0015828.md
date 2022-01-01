@@ -4,7 +4,7 @@ identifier: "BWBR0015828"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-07"
-last_updated: "2021-03-04"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015828"
 soort: "ministeriele-regeling"
@@ -110,11 +110,11 @@ Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loo
 
 ##### Artikel 4. Bedrag toelage bedrijfshulpverlening
 
-Per kalenderjaar bedraagt de toelage bedrijfshulpverlening als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2021-03-04&g=2021-03-04): € 296,76.
+Per kalenderjaar bedraagt de toelage bedrijfshulpverlening als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2022-01-01): € 296,76.
 
 ##### Artikel 5. Bedrag functietoeslag
 
-Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2021-03-04&g=2021-03-04):
+Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2022-01-01):
 
 - a. voor de bedrijfshulpverlener met specialisatie: € 148,37;
 
@@ -140,11 +140,11 @@ Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode d
 
 ##### Artikel 8. Bedrag toelage eerste medische bijstand
 
-Per kalenderjaar bedraagt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2021-03-04&g=2021-03-04): € 296,76.
+Per kalenderjaar bedraagt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2022-01-01): € 296,76.
 
 ##### Artikel 9. Toelage en functietoeslag naar evenredigheid
 
-Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO’er, wordt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2021-03-04&g=2021-03-04) vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
+Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO’er, wordt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2022-01-01) vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
 
 ##### Artikel 10. Jubileumgratificatie
 
@@ -182,7 +182,7 @@ na 40 jaar: € 534,16.
 
 3. Deze gratificatie bedraagt € 273,02 netto.
 
-4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2021-03-04&g=2021-03-04) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
+4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2025-02-07&g=2022-01-01) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
 
 ##### Artikel 12. Intrekking
 
