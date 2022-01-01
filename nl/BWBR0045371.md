@@ -307,37 +307,3 @@ Deze regeling wordt aangehaald als: Regeling uitvoering beveiliging burgerluchtv
 Deze regeling treedt in werking met ingang van de dag waarop het [Uitvoeringsbesluit EG-verordening 300/2008](https://wetten.overheid.nl/jci1.3:c:BWBR0044668) in werking treedt.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Een erkenning als erkend agent wordt slechts verleend, indien de aanvrager:
-
-- a. een zending fysiek aanvaardt voor het uitvoeren van de verplichte beveiligingscontroles, waaronder het onderzoeken van de buitenzijde van de zending op tekenen van manipulatie door onbevoegden, sabotage of enige afwijkingen die aanleiding kunnen geven tot verdenking van manipulatie;
-
-- b. wanneer hij de beveiligingscontroles uitbesteedt aan een andere erkende agent of goedgekeurde entiteit, de beveiligingscontroles laat uitvoeren op de eigen goedgekeurde locatie, uitbestede beveiligingscontroles opneemt in het beveiligingsprogramma en volledige verantwoordelijkheid behoudt voor de uitvoering, vereisten en uitkomsten van de controles;
-
-- c. de operationele locatie die overeenkomstig de erkenning wordt goedgekeurd, overeenkomt met de locatie waar zendingen fysiek worden opgeslagen of aan beveiligingscontroles worden onderworpen;
-
-- d. het beveiligingsprogramma, bedoeld in [artikel 37abc, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37abc) opeen gestandaardiseerd modelformulier heeft beschreven en wat de Minister van Justitie en Veiligheid positief heeft beoordeeld.
-
-##### Artikel 9b
-
-De aanvraag voor een erkenning als erkend agent kan worden afgewezen, indien na onderzoek naar de betrouwbaarheid van personen werkzaam voor de aanvrager van een erkenning, als bedoeld in [artikel 37q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37q), uit omstandigheden of feiten redelijkerwijs kan worden aangenomen dat de veiligheid en de betrouwbaarheid niet is geborgd.
-
-#### § 5. Werving en opleiding van personeel
-
-#### § 5.1. Eisen aan het opleidingsprogramma van een beveiligingsopleiding
-
-#### § 5.2. Eisen aan de organisatie van de opleidingsinstelling
-
-#### § 5.3. Gecertificeerde instructeurs en gecertificeerd personeel
-
-#### § 5.4. Explosievenspeurhonden
-
-##### Artikel 20a
-
-De Minister van Justitie en Veiligheid verleent mandaat en machtiging voor het erkennen van personeel, bedoeld in [artikel 37rd, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd) en het verrichten van daarbij behorende overige handelingen aan de instelling die in het kader van de certificering een door de Minister van Justitie en Veiligheid goedgekeurde theorie-, praktijk- of beeldinterpretatie-examen uitvoert.
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
