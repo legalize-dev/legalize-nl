@@ -177,9 +177,3 @@ De regeling treedt in werking met ingang van 1 januari 2022.
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging geïsoleerde vestigingen vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Omhang
-
-Deze regeling is mede gebaseerd op [artikel 5.9 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
