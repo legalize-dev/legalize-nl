@@ -4,7 +4,7 @@ identifier: "BWBR0032543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2020-11-25"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032543"
 soort: "ministeriele-regeling"
@@ -52,21 +52,23 @@ In deze regeling wordt verstaan onder:
 
 1. De eindtermen voor de opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs, als bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden als volgt vastgesteld:
 
-- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling;
+- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze regeling;
 
-- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2020-11-25&g=2020-11-25) bij deze regeling;
+- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2022-01-01&g=2022-01-01) bij deze regeling;
 
-- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling;
+- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2022-01-01&g=2022-01-01) bij deze regeling;
 
-- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2020-11-25&g=2020-11-25) bij deze regeling.
+- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2020-11-25&g=2020-11-25) bij deze regeling.
+2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2020-11-25&g=2020-11-25) bij deze regeling.
+3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-4. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2020-11-25&g=2020-11-25) bij deze regeling.
+4. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-5. De eindtermen voor de opleiding digitale vaardigheden, bedoeld in [artikel 1 van de Regeling digitale vaardigheden educatie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=8&z=2020-11-25&g=2020-11-25) bij deze regeling.
+5. De eindtermen voor de opleiding digitale vaardigheden, bedoeld in [artikel 1, eerste lid, van de Regeling aanwijzing opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=8&z=2022-01-01&g=2022-01-01) bij deze regeling.
+
+6. De eindtermen voor de taalschakeltrajecten, bedoeld in [artikel 1, tweede lid, van de Regeling aanwijzing opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=9&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
 ##### Artikel 3. Intrekken regeling
 
@@ -78,9 +80,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 4. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25), in werking met ingang van 1 januari 2013.
+1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2013.
 
-2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25), treedt in werking met ingang van 1 augustus 2013.
+2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 augustus 2013.
 
 ##### Artikel 5. Citeertitel
 
@@ -622,7 +624,7 @@ De onderstaande tabel geeft inzicht in globale kenmerken van de vaardigheden op 
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage 8. behorend bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25)
+## Bijlage 8. behorend bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01)
 
 Eindtermen digitale vaardigheden
 
@@ -803,5 +805,249 @@ Inhoudsopgave
 | Voorbeeld: **Contact opnemen met de helpdesk van KOBO als het downloaden van een e-book niet lukt.** |
 | 4. Maakt een presentatie naar eigen ontwerp met gebruik van beeldmateriaal. |
 | Voorbeeld: **Een presentatie maken in Prezi over zijn geboortestad met grafieken, een kaart en afbeeldingen.** |
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+## Bijlage 9. behorende bij [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01), van de Regeling eindtermen educatie 2013
+
+### Eindtermen taalschakeltraject
+
+### Inhoudsopgave
+
+Deze bijlage bevat de volgende hoofdstukken:
+
+### 1. Leeswijzer
+
+Alle taalschakeltrajecten bestaan uit basisvakken en eventuele maatwerkvakken en omvatten daarnaast leervaardigheden, vaardigheden voor opleidings- en beroepskeuze en kennis van de Nederlandse maatschappij. De basisvakken en eventuele maatwerkvakken verschillen per taalschakeltraject en zijn te vinden in de hoofdstukken 2 tot en met 8. De eindtermen voor de leervaardigheden, vaardigheden voor opleidings- en beroepskeuze en kennis van de Nederlandse maatschappij zijn hetzelfde voor alle taalschakeltrajecten en te vinden in de hoofdstukken 9 tot en met 11. Per taalschakeltraject zijn dus de volgende eindtermen van toepassing:
+
+De basisvakken betreffen verschillende niveaus voor Nederlands, Engels en rekenen of wiskunde. Voor de niveau-aanduiding voor Nederlands en Engels wordt gebruik gemaakt van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen, overal afgekort als ‘ERK’.
+
+### 2. Eindtermen basis- en maatwerkvakken taalschakeltraject naar de basisberoepsopleiding
+
+### 2.1. Basisvakken
+
+### 2.2. Maatwerkvakken
+
+N.v.t.
+
+### 3. Eindtermen basis- en maatwerkvakken taalschakeltraject naar de vakopleiding
+
+### 3.1. Basisvakken
+
+### 3.2. Maatwerkvakken
+
+N.v.t.
+
+### 4. Eindtermen basis- en maatwerkvakken taalschakeltraject naar de middenkaderopleiding
+
+### 4.1. Basisvakken
+
+### 4.2. Maatwerkvakken
+
+### 5. Eindtermen basis- en maatwerkvakken taalschakeltraject naar het hoger beroepsonderwijs, profiel Maatschappij, economie en informatietechnologie
+
+### 5.1. Basisvakken
+
+### 5.2. Maatwerkvakken
+
+### 6. Eindtermen basis- en maatwerkvakken taalschakeltraject naar het hoger beroepsonderwijs, profiel Natuur, techniek en gezondheid
+
+### 6.1. Basisvakken
+
+### 6.2. Maatwerkvakken
+
+1 Deze eindterm is optioneel.
+
+### 7. Eindtermen basis- en maatwerkvakken taalschakeltraject naar het wetenschappelijk onderwijs, profiel Maatschappij, economie en informatietechnologie
+
+### 7.1. Basisvakken
+
+### 7.2. Maatwerkvakken
+
+### 8. Eindtermen basis- en maatwerkvakken taalschakeltraject naar het wetenschappelijk onderwijs, profiel Natuur, techniek en gezondheid
+
+### 8.1. Basisvakken
+
+### 8.2. Maatwerkvakken
+
+1 Deze eindterm is optioneel.
+
+### 9. Eindtermen leervaardigheden
+
+Deze eindtermen gelden voor alle taalschakeltrajecten. Op deze eindtermen dient de deelnemer een ontwikkeling te laten zien.
+
+### I. Sociale en (inter)culturele vaardigheden
+
+### A. Kennis hebben van de Nederlandse onderwijscultuur
+
+De deelnemer weet wat de (onderscheidende) kenmerken zijn van de Nederlandse onderwijscultuur, zoals de omgang tussen docenten en deelnemers, en de nadruk op zelfstandigheid en samenwerking in het leren.
+
+### B. Verschillende visies, uitingen en gedragingen respecteren
+
+De deelnemer gaat in discussies en omgang respectvol om met mensen met verschillende culturele, politieke en religieuze achtergrond, met andersdenkenden en heeft aandacht voor diversiteit en inclusie.
+
+### C. Gedragscodes in verschillende sociale situaties herkennen en toepassen
+
+De deelnemer weet welk gedrag (omgangsvorm, uiterlijk) verwacht wordt in verschillende situaties tijdens de opleiding en laat dit gedrag zelf ook zien.
+
+### D. Op gepaste wijze omgaan met anderen in verschillende rollen en contexten
+
+De deelnemer gaat met mededeelnemers, docenten en collega’s om zoals dat van hem17 verwacht wordt in het kader van de opleiding.
+
+### E. Vermogen tot zelfregulatie
+
+De deelnemer weet wat hij moet doen als een situatie in het kader van zijn opleiding voor hem (persoonlijk) een uitdaging vormt.
+
+Denkt na over het eigen gedrag en past dit eventueel aan in het kader van zijn opleiding.
+
+Benoemt wat de gevolgen voor hemzelf en anderen zijn als hij een keuze maakt binnen een opdracht of taak in het kader van zijn opleiding.
+
+Als hij zelf op basis van reflectie constateert of door anderen gewezen wordt op bepaalde effecten van zijn gedrag, past hij dit aan.
+
+### II. Zelfstandig leervermogen en projectmatig (samen)werken
+
+### A. Informatievaardigheden
+
+De deelnemer behandelt nieuwe informatie op de juiste wijze in het kader van zijn opleiding.
+
+Weet hoe hij informatie moet zoeken en selecteert deze in het kader van zijn opleiding.
+
+Verwerkt informatie ten behoeve van een opdracht of taak in het kader van zijn opleiding.
+
+Analyseert en interpreteert gevonden informatie in het kader van zijn opleiding.
+
+Geeft een oordeel over relevantie, bruikbaarheid en betrouwbaarheid van informatie.
+
+Presenteert in het kader van zijn opleiding informatie die hij verwerkt, geanalyseerd en geëvalueerd heeft en kiest hiervoor een passende presentatievorm.
+
+### B. Zelfstandig leren
+
+De deelnemer geeft zelf sturing aan zijn leerproces in het kader van zijn opleiding.
+
+Neemt zelf de verantwoordelijkheid voor zijn leerproces in het kader van zijn opleiding.
+
+Werkt in het kader van zijn opleiding zelf zijn leerdoelen uit en stelt deze bij als dit tijdens het proces nodig blijkt.
+
+Bepaalt welke leeractiviteiten hij onderneemt om zijn leerdoel te bereiken in het kader van zijn opleiding.
+
+Plant zijn werkzaamheden volgens de gestelde leerdoelen in het kader van zijn opleiding.
+
+Gaat (in overleg met zijn docent) regelmatig na of de voortgang volgens planning verloopt in het kader van zijn opleiding.
+
+### C. Samenwerken
+
+De deelnemer werkt samen met anderen in groepsverband in een team of in een project in het kader van zijn opleiding.
+
+Komt afspraken na, zoals op tijd komen, beloofde bijdragen tijdig aanleveren e.d. in het kader van zijn opleiding.
+
+Luistert actief en praat mee over het onderwerp van een discussie of overleg in het kader van zijn opleiding.
+
+Werkt in het kader van zijn opleiding volgens de afgesproken taakverdeling waarbij hij het verwachte eindresultaat in het oog houdt.
+
+Spreekt in het kader van zijn opleiding anderen op een gepaste manier aan op hun gedrag of houding.
+
+Reageert in het kader van zijn opleiding passend op kritische opmerkingen en geeft aan wat hij hiermee gaat doen.
+
+Neemt in het kader van zijn opleiding waar nodig maatregelen om zijn traject goed te laten verlopen en te houden.
+
+### D. Communicatie
+
+De deelnemer onderhoudt op gepaste wijze contact met anderen in het kader van zijn opleiding.
+
+Luistert naar wat anderen zeggen en vinden, in het kader van zijn opleiding.
+
+Zorgt ervoor dat hij aan het woord komt als hij iets wil zeggen in een gesprek, overleg of discussie in het kader van zijn opleiding.
+
+Geeft duidelijk aan wat hij wil in het kader van zijn opleiding.
+
+Geeft zijn mening op momenten dat dit opportuun is in het kader van zijn opleiding.
+
+### E. Probleemoplossend vermogen
+
+De deelnemer is in staat oplossingen te vinden voor problemen die binnen een opdracht of taak tijdens het werkproces ontstaan in het kader van zijn opleiding.
+
+Herkent een probleem tijdens het werkproces en benoemt het op een begrijpelijke manier in het kader van zijn opleiding.
+
+Geeft de oorzaak en aard aan van problemen die ontstaan tijdens het werkproces in het kader van zijn opleiding.
+
+Bedenkt (samen met anderen) mogelijke oplossingen voor problemen die hij tegenkomt in het kader van zijn opleiding.
+
+Vraagt op het juiste moment en op de juiste manier gericht om hulp bij het oplossen van een probleem in het kader van zijn opleiding.
+
+### III. Taalvaardigheden voor studie
+
+### A. Lezen
+
+Weet wat hij moet doen naar aanleiding van geschreven instructies, bijvoorbeeld een stappenplan of een handleiding in het kader van zijn opleiding.
+
+Leest studieteksten om informatie te kunnen onthouden, begrijpen en reproduceren in het kader van zijn opleiding.
+
+Begrijpt betogende teksten en weet waarvan de schrijver hem probeert te overtuigen in het kader van zijn opleiding.
+
+### B. Luisteren
+
+Begrijpt een langere uitleg in de klas en kan er de juiste informatie uit halen.
+
+Weet wat hij moet doen naar aanleiding van mondelinge instructies en uitleg in het kader van zijn opleiding.
+
+### C. Gesprekken voeren
+
+Neemt actief deel aan overleg en discussies om informatie en meningen uit te wisselen over onderwerpen in het kader van zijn opleiding.
+
+Neemt actief deel aan informele gesprekken met mededeelnemers, in de pauze of tussen de lessen.
+
+### D. Spreken
+
+Geeft in het kader van zijn opleiding presentaties over onderwerpen, resultaten van opdrachten of onderzoek.
+
+Is in het kader van zijn opleiding langere tijd aan het woord tijdens een discussie, overleg of gesprek om iets uit te leggen of zijn mening te onderbouwen.
+
+### E. Schrijven
+
+Maakt in het kader van zijn opleiding begrijpelijke aantekeningen van een korte en gestructureerde plenair gegeven uitleg of van een kort overleg of opdracht.
+
+Maakt in het kader van zijn opleiding een schriftelijk verslag van een project of opdracht.
+
+### F. Woordenschat
+
+Begrijpt de algemene schooltaalwoorden die hij nodig heeft om de opleiding te kunnen volgen en kan deze ook gebruiken in het kader van zijn opleiding.
+
+Begrijpt de algemene rekentaal die hij nodig heeft om de opleiding te kunnen volgen en kan deze ook gebruiken in het kader van zijn opleiding.
+
+Beheerst een redelijke basis wat betreft algemene vaktaalwoorden en kan deze ook gebruiken in het kader van zijn opleiding.
+
+### IV. Digitale vaardigheden
+
+### A. Werken met verschillende digitale devices
+
+De deelnemer gebruikt verschillende digitale devices (zoals computer, smartphone) op een passende manier in het kader van zijn opleiding.
+
+### B. Basisvaardigheden van digitale applicaties beheersen
+
+De deelnemer gebruikt de interfacemogelijkheden voor basisfuncties binnen applicaties in het kader van zijn opleiding.
+
+### C. Werken met veelgebruikte applicaties op mbo, hbo of universiteit
+
+De deelnemer gebruikt in het kader van zijn opleiding meerdere relevante applicaties die tegelijkertijd actief zijn en kan informatie uitwisselen tussen die applicaties.
+
+### D. (betrouwbare) online informatie gebruiken
+
+De deelnemer gebruikt webadressen, portals en zoekmachines op een manier die past bij de zoekvraag om (betrouwbare) digitale bronnen te vinden in het kader van zijn opleiding.
+
+### E. Mediawijsheid
+
+Neemt maatregelen om te voorkomen dat (privé)informatie ongewenst wordt verspreid op internet in het kader van zijn opleiding.
+
+Weet hoe de bron achterhaald en beoordeeld kan worden van informatie zoals op sociale media en online communicatie en herkent nepnieuws of fraude.
+
+Weet, in het kader van zijn opleiding, dat de media invloed proberen uit te oefenen op zijn internetgebruik.
+
+### 10. Eindtermen vaardigheden voor opleidings- en beroepskeuze
+
+Deze eindtermen gelden voor alle taalschakeltrajecten.
+
+### 11. Eindtermen kennis van de Nederlandse maatschappij
+
+Zie voor de eindtermen voor kennis van de Nederlandse maatschappij bijlage 2 bij de Regeling inburgering 2021. Deze eindtermen gelden voor alle taalschakeltrajecten.
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
