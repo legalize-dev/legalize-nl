@@ -4,7 +4,7 @@ identifier: "BWBV0001019"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-01-01"
-last_updated: "1979-12-28"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001019"
 soort: "verdrag"
@@ -37,13 +37,11 @@ entry_into_force: "1979-12-28"
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat,
 
-Partijen bij het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, gesloten binnen het kader van de Organisatie voor Europese Economische Samenwerking, thans de Organisatie voor Economische Samenwerking en Ontwikkeling, en zoals gewijzigd bij het op 28 januari 1964 te Parijs gesloten Aanvullend Protocol en bij het op 16 november 1982 te Parijs gesloten Protocol, (hierna te noemen „Verdrag van Parijs"),
+Partijen bij het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, gesloten in het kader van de Organisatie voor Europese Economische Samenwerking en Ontwikkeling, thans de Organisatie voor Economische Samenwerking en Ontwikkeling en zoals gewijzigd bij het op 28 januari 1964 te Parijs gesloten Aanvullend Protocol, bij het op 16 november 1982 te Parijs gesloten Protocol en bij het op 12 februari 2004 te Parijs gesloten Protocol (hierna te noemen „Verdrag van Parijs”);
 
 Geleid door de wens de maatregelen waarin dat Verdrag voorziet aan te vullen, ten einde het bedrag der vergoeding voor schade, veroorzaakt door het gebruik van kernenergie voor vreedzame doeleinden, te verhogen,
 
 Zijn overeengekomen als volgt:
-
-Betreft de Nederlandse tekst van het Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals laatstelijk gewijzigd door het Protocol houdende wijziging van het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, Trb. 1983, 80.
 
 ##### Artikel 1
 
@@ -51,129 +49,121 @@ De regeling waarin dit Verdrag voorziet ter aanvulling van die van het Verdrag v
 
 ##### Artikel 2
 
-a. De regeling in dit Verdrag voorzien is van toepassing op schade, veroorzaakt door kernongevallen, met uitzondering van die welke zich geheel hebben voorgedaan op het grondgebied van een Staat die geen Partij is bij dit Verdrag:
+a). De regeling in dit Verdrag is van toepassing op kernschade waarvoor krachtens het Verdrag van Parijs de aansprakelijkheid berust bij de exploitant van een kerninstallatie voor vreedzaam gebruik, gelegen op het grondgebied van een Partij bij het onderhavige Verdrag (hierna genoemd „Partij") en die geleden is:
 
-- i). waarvoor krachtens het Verdrag van Parijs de aansprakelijkheid berust bij de exploitant van een kerninstallatie voor vreedzaam gebruik, gelegen op het grondgebied van een Partij bij het onderhavige Verdrag (hierna genoemd „Partij") en vermeld op de lijst e overeenkomstig artikel 13 wordt opgesteld en bijgehouden,
+- (i). op het grondgebied van een Partij; of
 
-- ii). en die geleden is
+- (ii). in of boven maritieme gebieden buiten de territoriale zee van een Partij
 
-- 1. op het grondgebied van een Partij, of
+- 1. aan boord van of door een schip varend onder de vlag van een Partij, of aan boord van of door een luchtvaartuig dat op het grondgebied van een Partij is ingeschreven, of op of door een kunstmatig eiland, installatie of structuur onder de rechtsmacht van een Partij, of
 
-- 2. in volle zee, of daarboven, aan boord van een schip of een luchtvaartuig, ingeschreven op het grondgebied van een Partij, of
+- 2. door een onderdaan van een Partij, met uitzondering van schade geleden in of boven de territoriale zee van een Staat die geen Partij is bij dit Verdrag; of
 
-- 3. in volle zee of daarboven door een onderdaan van een Partij, onder voorwaarde dat, indien het schade aan een schip of een luchtvaartuig betreft, dit schip of luchtvaartuig op het grondgebied van een Partij is ingeschreven, mits de rechters van een Partij bevoegd zijn overeenkomstig het Verdrag van Parijs.
+- (iii). in of boven de exclusieve economische zone van een Partij of op het continentaal plat van een Partij in verband met de exploitatie of exploratie van de natuurlijke rijkdommen van die exclusieve economische zone of dat continentaal plat, mits de rechters van een Partij krachtens het Verdrag van Parijs bevoegd zijn.
 
-b. Iedere ondergetekende of toetredende Regering kan bij de ondertekening van dit Verdrag of bij de toetreding daartoe dan wel bij de nederlegging van haar akte van bekrachtiging verklaren, dat zij voor de toepassing van lid a) ii) 3) natuurlijke personen die volgens haar wetgeving hun gewone verblijfplaats op haar grondgebied hebben, of bepaalde categorieën daarvan, gelijkstelt met haar eigen onderdanen.
+b). Iedere ondertekenende of toetredende Regering kan bij de ondertekening van dit Verdrag of bij de toetreding daartoe dan wel bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring verklaren, dat zij voor de toepassing van lid (a)(ii) 2 natuurlijke personen die volgens haar recht hun gewone verblijfplaats op haar grondgebied hebben, of bepaalde categorieën daarvan, gelijkstelt met haar eigen onderdanen.
 
-c. Voor de toepassing van dit artikel wordt onder de uitdrukking „onderdaan van een Partij" mede verstaan iedere Partij of ieder staatsrechtelijk onderdeel van een Partij of iedere publiek- of privaatrechtelijke rechtspersoon, alsmede ieder publiek- of privaatrechtelijk lichaam zonder rechtspersoonlijkheid, gevestigd op het grondgebied van een Partij.
+c). Voor de toepassing van dit artikel wordt onder de uitdrukking „onderdaan van een Partij" mede verstaan iedere Partij of ieder staatsrechtelijk onderdeel van een Partij, of iedere publiek- of privaatrechtelijke rechtspersoon, alsmede ieder publiek- of privaatrechtelijk lichaam zonder rechtspersoonlijkheid, gevestigd op het grondgebied van een Partij.
 
 ##### Artikel 3
 
-a. Overeenkomstig de bepalingen van dit Verdrag verplichten de Verdragsluitende Partijen zich ervoor zorg te dragen, dat de in artikel 2 bedoelde schade tot een bedrag van 300 miljoen bijzondere trekkingsrechten per ongeval wordt vergoed.
+a). Overeenkomstig de bepalingen van dit Verdrag verplichten de Partijen zich ervoor zorg te dragen, dat de in artikel 2 bedoelde kernschade tot een bedrag van 1500 miljoen euro per kernongeval wordt vergoed, onverminderd de toepassing van artikel 12bis.
 
-b. Deze schadevergoeding vindt plaats:
+b). Deze schadevergoeding vindt plaats:
 
-- i). tot een bedrag van ten minste 5 miljoen bijzondere trekkingsrechten, dat daarvoor is vastgesteld krachtens de wetgeving van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, uit middelen afkomstig van een verzekeng of andere financiële zekerheid;
+- (i). tot een bedrag van ten minste 700 miljoen euro vast te stellen krachtens de wetgeving van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, uit middelen afkomstig van een verzekering of andere financiële zekerheid of uit de ingevolge artikel 10(c) van het Verdrag van Parijs verstrekte openbare middelen, en uit te keren tot een bedrag van 700 miljoen euro in overeenstemming met het Verdrag van Parijs;
 
-- ii). tussen dit bedrag en 175 miljoen bijzondere trekkingsrechten, uit openbare middelen, ter beschikking te stellen door de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen;
+- (ii). tussen het in lid (b)(i) bedoelde bedrag en 1 200 miljoen euro, uit openbare middelen, ter beschikking te stellen door de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen;
 
-- iii). tussen 175 miljoen en 300 miljoen bijzondere trekkingsrechten, uit openbare middelen, ter beschikking te stellen door de Partijen volgens de in artikel 12 vastgestelde verdeelsleutel.
+- (iii). tussen 1200 miljoen euro en 1500 miljoen euro uit openbare middelen, ter beschikking te stellen door de Partijen volgens de in artikel 12 bedoelde verdeelsleutel, onder voorbehoud dat een dergelijk bedrag wordt verhoogd in overeenstemming met het in artikel 12bis bedoelde mechanisme.
 
-c. Te dien einde moet elke Partij
+c). Te dien einde moet elke Partij:
 
-- i). hetzij overeenkomstig artikel 7 van het Verdrag van Parijs het maximumbedrag van de aansprakelijkheid van de exploitant vaststellen op 300 miljoen bijzondere trekkingsrechten en bepalen dat deze aansprakelijkheid wordt gedekt door alle in lid b) bedoelde middelen;
+- (i). hetzij ingevolge haar wetgeving vaststellen dat de aansprakelijkheid van de exploitant ten minste het in lid (a) bedoelde bedrag bedraagt, en bepalen dat deze aansprakelijkheid wordt gedekt door alle in lid (b) bedoelde middelen;
 
-- ii). hetzij de maximumgrens der aansprakelijkheid van de exploitant vaststellen op een bedrag dat ten minste gelijk is aan het overeenkomstig lid b) i) vastgestelde bedrag, en bepalen dat boven dat bedrag tot 300 miljoen bijzondere trekkingsrechten in lid b) ii) en iii) bedoelde openbare middelen ter beschikking worden gesteld anders dan ter dekking van de aansprakelijkheid van de exploitant, mits geen inbreuk wordt gemaakt op de in dit Verdrag vastgestelde materieelrechtelijke en procesrechtelijke regels.
+- (ii). hetzij ingevolge haar wetgeving de aansprakelijkheid van de exploitant vaststellen op een bedrag dat ten minste gelijk is aan het overeenkomstig lid (b)(i) hierboven of artikel 7(b) van het Verdrag van Parijs vastgestelde bedrag, en bepalen dat boven dat bedrag tot het in lid (a) bedoelde bedrag, de in lid (b)(i), (ii) en (iii) bedoelde openbare middelen ter beschikking worden gesteld anders dan ter dekking van de aansprakelijkheid van de exploitant, mits geen inbreuk wordt gemaakt op de in dit Verdrag vastgestelde materieelrechtelijke en procesrechtelijke regels.
 
-d. De exploitant is slechts gehouden zijn verplichting tot betaling van schadevergoeding uit de overeenkomstig artikel 3 b) ii) en iii) en f) ter beschikking gestelde middelen na te komen, naarmate deze middelen daadwerkelijk ter beschikking worden gesteld.
+d). De verplichting van de exploitant tot betaling van schadevergoeding, interest of kosten uit de overeenkomstig de leden (b (ii) en (iii) en (g) ter beschikking gestelde openbare middelen is jegens hem slechts afdwingbaar indien en voor zover deze middelen daadwerkelijk ter beschikking worden gesteld.
 
-e. De Partijen verplichten zich bij de uitvoering van dit Verdrag geen gebruik te maken van de in artikel 15 b) van het Verdrag van Parijs bedoelde bevoegdheid tot het stellen van bijzondere voorwaarden:
+e). Wanneer een Staat gebruik maakt van de in artikel 21(c) van het Verdrag van Parijs bedoelde optie kan deze alleen Partij bij dit Verdrag worden indien hij waarborgt dat middelen beschikbaar zijn om het verschil tussen het bedrag waarvoor de exploitant aansprakelijk is en 700 miljoen euro te dekken.
 
-- i). voor schadevergoeding uit de in lid b) i) bedoelde middelen;
+f). Bij de uitvoering van dit Verdrag verplichten de Partijen zich ertoe, ten aanzien van vergoeding van kernschade uit de in lid (a) bedoelde middelen, geen gebruik te maken van de in artikel 15(b) van het Verdrag van Parijs bedoelde bevoegdheid om bijzondere voorwaarden te stellen, anders dan die welke zijn neergelegd in dit Verdrag.
 
-- ii). buiten de in dit Verdrag vastgestelde voorwaarden, voor schadevergoeding uit de in lid b) ii) en iii) bedoelde openbare middelen.
+g). De in artikel 7(h) van het Verdrag van Parijs bedoelde kosten en interesten zijn verschuldigd boven de in lid (b) genoemde bedragen en zijn, naar gelang zij zijn toegewezen uit hoofde van schadevergoeding ten laste van de middelen bedoeld in:
 
-f. De in artikel 7 g) van het Verdrag van Parijs bedoelde kosten en interesten zijn verschuldigd boven de in lid b) genoemde bedragen en zijn, naar gelang zij zijn toegewezen uit hoofde van schadevergoeding ten laste van de middelen bedoeld in:
+- (i). lid (b)(i), voor rekening van de aansprakelijke exploitant;
 
-- i). lid b) i), voor rekening van de aansprakelijke exploitant;
+- (ii). lid (b)(ii), voor rekening van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, naargelang van de door die Partij beschikbaar gestelde middelen;
 
-- ii). lid b) ii), voor rekening van de Partij op wier grondgebied de kerninstallatie van deze exploitant is gelegen;
+- (iii). lid (b)(iii), voor rekening van de Partijen gezamenlijk.
 
-- iii). lid b) iii), voor rekening van de Partijen gezamenlijk.
-
-g. Voor de toepassing van dit Verdrag wordt onder „bijzonder trekkingsrecht" verstaan het bijzondere trekkingsrecht zoals dit is omschreven door het Internationale Monetaire Fonds. De in dit Verdrag genoemde bedragen worden omgerekend in de nationale munteenheid van een Partij volgens de waarde van deze munteenheid op de datum van het ongeval, tenzij met betrekking tot een bepaald ongeval een andere datum eenstemmig door de Partijen wordt vastgesteld. De waarde van de nationale munteenheid van een Partij, uitgedrukt in bijzondere trekkingsrechten, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties.
+h). De in dit Verdrag genoemde bedragen worden omgerekend in de nationale munteenheid van de Partij waarvan de rechters bevoegd zijn, volgens de waarde van die munteenheid op de datum van het ongeval, tenzij met betrekking tot een bepaald ongeval een andere datum door de Partijen wordt overeengekomen.
 
 ##### Artikel 4
 
-a. Indien een kernongeval schade teweegbrengt die aanleiding geeft tot aansprakelijkheid van meer dan één exploitant, beloopt de gezamenlijke aansprakelijkheid, bedoeld in artikel 5 d) van het Verdrag van Parijs, ten hoogste 300 miljoen bijzondere trekkingsrechten, voor zover openbare middelen, als bedoeld in artikel 3b) ii) en iii), ter beschikking moeten worden gesteld.
-
-b. Het totaal van de krachtens artikel 3 b) ii) en iii) ter beschikking gestelde openbare middelen kan in dat geval niet meer bedragen dan het verschil tussen de som van de voor die exploitanten overeenkomstig artikel 3 b) i) of, indien de kerninstallatie van de exploitant is gelegen op het grondgebied van een Staat die geen Partij is bij dit Verdrag, overeenkomstig artikel 7 van het Verdrag van Parijs vastgestelde bedragen, en 300 miljoen bijzondere trekkingsrechten. Indien meer dan één Partij verplicht is openbare middelen ter beschikking te stellen overeenkomstig artikel 3 b) ii), wordt het bedrag hiervan omgeslagen over deze Partijen naar verhouding van het aantal op het grondgebied van ieder hunner gelegen kerninstallaties, die betrokken zijn bij het kernongeval en waarvan de exploitanten aansprakelijk zijn.
+Vervallen
 
 ##### Artikel 5
 
-a. Indien de aansprakelijke exploitant recht van verhaal heeft overeenkomstig artikel 6 f) van het Verdrag van Parijs, treft de Partij op wier grondgebied de kerninstallatie van deze exploitant is gelegen, in haar wetgeving de nodige voorzieningen om dit recht van verhaal aan deze Partij en de overige Partijen ten goede te doen komen, voor zover openbare middelen beschikbaar worden gesteld krachtens artikel 3 b) ii) en iii) en f).
-
-b. Deze wetgeving kan voor het terugverkrijgen van de krachtens artikel 3 b) ii) en iii) en f) ter beschikking gestelde openbare middelen van de aansprakelijke exploitant, voorzien in maatregelen, indien de schade aan diens schuld te wijten is.
+Indien de aansprakelijke exploitant recht van verhaal heeft overeenkomstig artikel 6(f) van het Verdrag van Parijs, hebben de Partijen bij dit Verdrag hetzelfde recht van verhaal, voor zover ingevolge artikel 3(b) en (g) openbare middelen beschikbaar zijn gesteld.
 
 ##### Artikel 6
 
-Voor de berekening van de krachtens dit Verdrag ter beschikking te stellen bedragen worden uitsluitend de rechten op schadevergoeding in aanmerking genomen, die binnen een termijn van tien jaar na de datum van het kernongeval geldend worden gemaakt. In geval van schade veroorzaakt door een kernongeval, waarbij splijtstoffen of radioactieve produkten of afvalstoffen zijn betrokken, welke op het tijdstip van het ongeval gestolen, verloren, geworpen of verlaten zijn en niet zijn terugverkregen, mag deze termijn in geen geval langer zijn dan twintig jaar te rekenen vanaf het tijdstip waarop die goederen gestolen, verloren, geworpen of verlaten werden. De termijn wordt voorts verlengd in de gevallen en onder de voorwaarden, vermeld in artikel 8 d) van het Verdrag van Parijs. Een wijziging van eis overeenkomstig artikel 8 e) van het Verdrag van Parijs na het verstrijken van deze termijn, wordt mede in aanmerking genomen.
+Voor de berekening van de krachtens dit Verdrag ter beschikking te stellen openbare middelen worden uitsluitend de rechten op schadevergoeding in aanmerking genomen, die binnen een termijn van dertig jaar na de datum van het kernongeval in geval van overlijden of persoonlijk letsel, en tien jaar na de datum van het kernongeval in geval van alle overige kernschade, uitgeoefend worden. Deze termijn wordt bovendien verlengd in de gevallen en onder de voorwaarden vermeld in artikel 8(e) van het Verdrag van Parijs. Wijzigingen van vorderingen gemaakt na het verstrijken van deze termijn, worden mede in aanmerking genomen overeenkomstig de voorwaarden vastgesteld in artikel 8(f) van het Verdrag van Parijs.
 
 ##### Artikel 7
 
-Wanneer een Partij gebruik maakt van de bevoegdheid, bedoeld in artikel 8 c) van het Verdrag van Parijs, is de door haar bepaalde termijn een verjaringstermijn van drie jaar, die ingaat op de dag waarop de persoon die schade heeft geleden kennis draagt of redelijkerwijze geacht kan worden kennis te dragen van de schade en de aansprakelijke exploitant.
+Wanneer een Partij gebruik maakt van de bevoegdheid, voorzien in artikel 8(d) van het Verdrag van Parijs, is de door haar bepaalde termijn een verjaringstermijn van ten minste drie jaar, die ingaat op de dag waarop de persoon die schade heeft geleden kennis draagt of redelijkerwijze geacht kan worden kennis te dragen van de schade en de aansprakelijke exploitant.
 
 ##### Artikel 8
 
-Ieder die aan dit Verdrag een aanspraak op schadevergoeding ontleent, heeft recht op de volledige vergoeding van de geleden schade overeenkomstig het nationale recht. Nochtans kan elke Partij maatstaven voor een billijke verdeling vaststellen voor het geval dat het bedrag van de schade:
-
-- i). 300 miljoen bijzondere trekkingsrechten, of
-
-- ii). indien uit een cumulatie van aansprakelijkheid krachtens artikel 5 d) van het Verdrag van Parijs een hoger bedrag zou voortvloeien, te boven gaat of dat hogere bedrag dreigt te boven te gaan, ongeacht de herkomst der middelen en, behoudens het bepaalde n artikel 2, zonder onderscheid naar nationaliteit en naar woon- of verblijfplaats van de persoon die de schade heeft geleden.
+Ieder die aan dit Verdrag een aanspraak op schadevergoeding ontleent, heeft recht op de volledige vergoeding van de geleden kernschade overeenkomstig het nationale recht, met dien verstande dat wanneer het bedrag van deze schade 1500 miljoen euro te boven gaat of waarschijnlijk te boven gaat, elke Partij billijke maatstaven voor de verdeling van het krachtens dit Verdrag beschikbare bedrag aan schadevergoeding kan vaststellen. Deze maatstaven worden toegepast ongeacht de herkomst van de middelen en, met inachtneming van het bepaalde in artikel 2, zonder onderscheid naar nationaliteit, woon- of verblijfplaats van de persoon die de schade heeft geleden.
 
 ##### Artikel 9
 
-a. De regering volgens welke de in artikel 3 b) ii) en iii) en f) bedoelde openbare middelen beschikbaar worden gesteld, is die van de Partij waarvan de rechters bevoegd zijn.
+a). De regeling volgens welke de krachtens dit Verdrag beschikbaar gestelde openbare middelen worden betaald, is die van de Partij waarvan de rechters bevoegd zijn.
 
-b. Iedere Partij dient er voor zorg te dragen dat de personen die schade hebben geleden hun rechten op schadevergoeding kunnen uitoefenen, zonder dat zij gedingen, die naargelang van de herkomst der voor deze schadevergoeding bestemde gelden verschillen, aanhangig behoeven te maken.
+b). Iedere Partij draagt er zorg voor dat personen die kernschade hebben geleden hun rechten op schadevergoeding kunnen uitoefenen, zonder dat zij afzonderlijke gedingen, die naargelang van de herkomst van de voor deze schadevergoeding bestemde gelden verschillen, aanhangig behoeven te maken.
 
-c. Geen Partij is gehouden de in artikel 3 b) ii) en iii) bedoelde openbare middelen ter beschikking te stellen, zolang er nog middelen, als bedoeld in artikel 3 b) i), beschikbaar zijn.
+c). Een Partij is gehouden de in artikel 3(b)(iii) bedoelde middelen beschikbaar te stellen zodra het bedrag van de schadevergoeding uit hoofde van dit Verdrag het totaal van de in artikel 3(b)(i) en (ii) heeft bereikt, ongeacht de vraag of de door de exploitant ter beschikking te stellen middelen beschikbaar blijven of de vraag of de aansprakelijkheid van de exploitant niet tot een bepaald bedrag is beperkt.
 
 ##### Artikel 10
 
-a. De Partij wier rechters bevoegd zijn, is verplicht de overige Partijen in te lichten omtrent het plaatsvinden en de toedracht van een kernongeval, zodra blijkt dat de schade, veroorzaakt door dit ongeval, een bedrag van 175 miljoen bijzondere trekkingsrechten te boven gaat of dreigt te boven te gaan. De Partijen nemen onverwijld alle maatregelen die voor het regelen van hun betrekkingen terzake noodzakelijk zijn.
+a). De Partij wier rechters bevoegd zijn, is verplicht de overige Partijen in te lichten omtrent een kernongeval en de toedracht, zodra blijkt dat de schade, veroorzaakt door dit ongeval, de som van de in artikel 3(b)(i) en (ii) bedoelde bedragen te boven gaat of dreigt te boven te gaan. De Partijen nemen onverwijld alle maatregelen die voor het regelen van hun betrekkingen terzake noodzakelijk zijn.
 
-b. Alleen de Partij wier rechters bevoegd zijn kan van de overige Partijen de terbeschikkingstelling van de in artikel 3 b) iii) en f) bedoelde openbare middelen verlangen en is bevoegd tot uitkering van deze middelen.
+b). Alleen de Partij wier rechters bevoegd zijn kan van de overige Partijen de terbeschikkingstelling van de in artikel 3(b)(iii) en (g) bedoelde openbare middelen verlangen en is bevoegd tot uitkering van deze middelen.
 
-c. Deze Partij oefent zo nodig de in artikel 5 bedoelde verhaalsrechten uit ten behoeve van de overige Partijen, indien deze uit hoofde van artikel 3 b) iii) en f) openbare middelen ter beschikking hebben gesteld.
+c). Deze Partij oefent zo nodig de in artikel 5 bedoelde verhaalsrechten uit ten behoeve van de overige Partijen, indien deze uit hoofde van artikel 3(b)(iii) en (g) openbare middelen ter beschikking hebben gesteld.
 
-d. Dadingen en schikkingen die zijn aangegaan overeenkomstig de in de nationale wetgeving bepaalde voorwaarden met betrekking tot schadevergoeding uit de in artikel 3 b) ii) en iii) bedoelde openbare middelen, worden door de overige Partijen erkend; vonnissen, gewezen door de bevoegde rechters terzake van zodanige schadevergoeding, worden uitvoerbaar op het grondgebied van de overige Partijen overeenkomstig de bepalingen van artikel 13 d) van het Verdrag van Parijs.
+d). Dadingen en schikkingen die zijn aangegaan overeenkomstig de in de nationale wetgeving bepaalde voorwaarden met betrekking tot de vergoeding van kernschade uit de in artikel 3(b)(ii) en (iii) bedoelde openbare middelen, worden door de overige Partijen erkend en vonnissen gewezen door de bevoegde rechters terzake van zodanige schadevergoeding, worden uitvoerbaar op het grondgebied van de overige Partijen overeenkomstig de bepalingen van artikel 13(i) van het Verdrag van Parijs.
 
 ##### Artikel 11
 
-a. Indien de rechters van een andere Partij dan die op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, bevoegd zijn, worden de in artikel 3 b) ii) en f) bedoelde openbare middelen uitgekeerd door de eerstbedoelde Partij. De Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, betaalt de uitgekeerde bedragen aan de andere Partij terug. De beide Partijen bepalen in onderlinge overeenstemming de wijze van terugbetaling.
+a). Indien de rechters van een andere Partij dan die op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, bevoegd zijn, worden de in artikel 3(b)(ii) en (g) bedoelde openbare middelen uitgekeerd door de eerstbedoelde Partij. De Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, betaalt de uitgekeerde bedragen aan de andere Partij terug. De beide Partijen bepalen in onderlinge overeenstemming de wijze van terugbetaling.
 
-b. Wanneer de Partij wier rechters bevoegd zijn, na het tijdstip van het ongeval wettelijke of bestuursrechtelijke bepalingen vaststelt, die betrekking hebben op de aard, de vorm en de omvang van de schadevergoeding, op de wijze van terbeschikkingstelling van de in artikel 3 b) ii) bedoelde openbare middelen en eventueel op de maatstaven voor de verdeling van deze middelen, raadpleegt zij dienaangaande de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen. Bovendien treft zij alle vereiste maatregelen, ten einde laatstgenoemde Partij in staat te stellen zich in gedingen te voegen of daarin tussen te komen en deel te nemen aan dadingen en schikkingen inzake schadevergoeding.
+b). Indien meer dan één Partij gehouden is openbare middelen beschikbaar te stellen ingevolge artikel 3(b)(ii) en (g), zijn de bepalingen van lid a) van overeenkomstige toepassing. Terugbetaling vindt plaats naar de mate waarin elke exploitant tot het kernongeval heeft bijgedragen.
+
+c). Wanneer de Partij wier rechters bevoegd zijn, na het tijdstip van het kernongeval wettelijke of bestuursrechtelijke bepalingen vaststelt die betrekking hebben op de aard, de vorm en de omvang van de schadevergoeding, op de wijze van de terbeschikkingstelling van de in artikel 3(b)(ii) en (g) bedoelde openbare middelen en eventueel op de maatstaven voor de verdeling van deze middelen, raadpleegt zij dienaangaande de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen. Bovendien treft zij alle vereiste maatregelen, teneinde laatstgenoemde Partij in staat te stellen zich in gedingen te voegen of daarin tussen te komen en deel te nemen aan dadingen en schikkingen inzake schadevergoeding.
 
 ##### Artikel 12
 
-a. De verdeelsleutel volgens welke de Partijen de in artikel 3 b) iii) bedoelde openbare middelen ter beschikking stellen, wordt vastgesteld als volgt:
+a). De verdeelsleutel volgens welke de Partijen de in artikel 3(b)(iii) bedoelde openbare middelen ter beschikking stellen, wordt als volgt vastgesteld:
 
-- i). voor 50% op de grondslag van de verhouding tussen het bruto nationaal produkt tegen lopende prijzen van elke Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal produkt tegen lopende prijzen van alle Partijen, anderzijds, zoals deze cijfers voor het jaar voorafgaande aan dat waarin het kernongeval zich heeft voorgedaan, worden afgeleid uit de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling;
+- (i). voor 35% op de grondslag van de verhouding tussen het bruto nationaal product tegen lopende prijzen van elke Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal product tegen lopende prijzen van alle Partijen, anderzijds, zoals deze cijfers voor het jaar voorafgaande aan dat waarin het kernongeval zich heeft voorgedaan, worden afgeleid uit de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling;
 
-- ii). voor 50% op de grondslag van de verhouding tussen het thermisch vermogen van de reactoren die zich op het grondgebied van elke Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, anderzijds. Deze berekening zal worden gebaseerd op het thermische vermogen van de reactoren die op de datum van het kernongeval voorkomen op de in artikel 2 a) i) bedoelde lijst. Een reactor wordt evenwel voor deze berekening slechts in aanmerking genomen vanaf de dag waarop hij voor het eerst kritisch is geworden.
+- (ii). voor 65% op de grondslag van de verhouding tussen het thermisch vermogen van de reactoren die zich op het grondgebied van elke Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, anderzijds. Deze berekening wordt gebaseerd op het thermisch vermogen van de reactoren die op de datum van het kernongeval voorkomen op de in artikel 13 bedoelde lijst, met dien verstande dat een reactor voor deze berekening slechts in aanmerking wordt genomen vanaf de dag waarop hij voor het eerst kritisch is geworden en dat een reactor bij de berekening buiten beschouwing wordt gelaten wanneer alle splijtstoffen permanent uit de reactorkern zijn verwijderd en in overeenstemming met goedgekeurde procedures veilig zijn opgeslagen.
 
-b. Voor de toepassing van dit Verdrag wordt onder „thermisch vermogen" verstaan:
+b). Voor de toepassing van dit Verdrag wordt onder „thermisch vermogen” verstaan:
 
-- i). vóór de afgifte van de definitieve vergunning tot exploitatie: het verwachte thermisch vermogen;
+- (i). vóór de afgifte van de definitieve vergunning tot exploitatie: het verwachte thermisch vermogen;
 
-- ii). na de afgifte van een zodanige vergunning: het door het bevoegde nationale gezag toegestane thermisch vermogen.
+- (ii). na de afgifte van een zodanige vergunning: het door de bevoegde nationale autoriteiten toegestane thermisch vermogen.
 
 ##### Artikel 13
 
-a. Elke Partij dient ervoor zorg te dragen dat alle op haar grondgebied gelegen kerninstallaties voor vreedzaam gebruik, die beantwoorden aan de begripsbepalingen, vervat in artikel 1 van het Verdrag van Parijs, op de in artikel 2 a) i) bedoelde lijst worden vermeld.
+a. Elke Partij draagt er zorg voor dat alle op haar grondgebied gelegen kerninstallaties voor vreedzaam gebruik, die beantwoorden aan de begripsbepalingen, vervat in artikel 1 van het Verdrag van Parijs, op een lijst worden vermeld.
 
-b. Te dien einde deelt elke ondertekenende en toetredende Regering bij de nederlegging van zijn akte van bekrachtiging of toetreding aan de Belgische Regering een volledig overzicht van die installaties mede.
+b. Te dien einde deelt elke ondertekenende of toetredende Regering bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de Belgische Regering de volledige gegevens van die installaties mede.
 
 c. Dit overzicht omvat:
 
@@ -185,33 +175,33 @@ d. Elke Partij deelt voorts aan de Belgische Regering de juiste datum mede, waar
 
 e. Elke Partij deelt aan de Belgische Regering alle in de lijst aan te brengen wijzigingen mede. Ingeval een wijziging de toevoeging van een kerninstallatie betreft, dient de mededeling uiterlijk drie maanden voor de datum van het vermoedelijke intreden van het risico van een kernongeval te worden gedaan.
 
-f. Indien een Partij van mening is dat het overzicht of een in de lijst aan te brengen wijziging, medegedeeld door een andere Partij, niet in overeenstemming is met artikel 2 a) i) en met het onderhavige artikel, kan zij slechts bezwaren inbrengen door deze aan de Belgische Regering mede te delen binnen drie maanden te rekenen van de datum waarop zij een kennisgeving overeenkomstig lid h) heeft ontvangen.
+f. Indien een Partij van mening is dat de gegevens of een in de lijst aan te brengen wijziging, medegedeeld door een andere Partij, niet in overeenstemming is met de bepalingen van dit artikel, kan zij daartegen slechts bezwaren inbrengen door deze aan de Belgische Regering mede te delen binnen drie maanden te rekenen vanaf de datum waarop zij een kennisgeving overeenkomstig lid (h) heeft ontvangen.
 
 g. Indien een Partij van mening is dat één der volgens dit artikel voorgeschreven mededelingen niet binnen de voorgeschreven termijn heeft plaatsgevonden, kan zij daartegen slechts bezwaren inbrengen door deze aan de Belgische Regering mede te delen, binnen een termijn van drie maanden nadat zij kennis heeft gekregen van feiten die naar haar mening hadden moeten worden medegedeeld.
 
 h. De Belgische Regering stelt zo spoedig mogelijk iedere Partij op de hoogte van de mededelingen en de bezwaren die zij overeenkomstig dit artikel ontvangen heeft.
 
-i. De overzichten en wijzigingen bedoeld in de leden b), c), d) en e) vormen tezamen de in artikel 2 a) i) bedoelde lijst; bezwaren ingediend overeenkomstig het bepaalde in de leden f) en g) hebben, indien zij erkend worden, terugwerkende kracht tot de dag waarop zij zijn ingediend.
+i. De gegevens en wijzigingen bedoeld in de leden (b), (c), (d), en (e) vormen tezamen de in dit artikel bedoelde lijst; bezwaren ingediend overeenkomstig het bepaalde in de leden (f) en (g) hebben, indien zij worden erkend, terugwerkende kracht tot de dag waarop zij zijn ingediend.
 
 j. De Belgische Regering verstrekt aan de Partijen op hun verzoek een bijgehouden staat van de kerninstallaties die onder dit Verdrag vallen en van de gegevens die daarover ingevolge dit artikel zijn verstrekt.
 
 ##### Artikel 14
 
-a. Voor zover in het onderhavige Verdrag niet anders is bepaald, kan iedere Partij de haar door het Verdrag van Parijs toegekende bevoegdheden uitoefenen; alle uit dien hoofde getroffen maatregelen kunnen voor de terbeschikkingstelling van de openbare middelen, bedoeld in artikel 3 b) ii) en iii), tegen de andere Partijen worden ingeroepen.
+a). Voor zover in dit Verdrag niet anders is bepaald, kan iedere Partij de haar door het Verdrag van Parijs toegekende bevoegdheden uitoefenen; alle uit dien hoofde getroffen maatregelen kunnen voor de terbeschikkingstelling van de openbare middelen, bedoeld in artikel 3(b)(ii) en (iii), tegen de andere Partijen worden ingeroepen.
 
-b. De door een Partij overeenkomstig de artikelen 2 en 9 van het Verdrag van Parijs genomen maatregelen kunnen echter, voor wat de terbeschikkingstelling van de in artikel 3 b) ii) en iii) bedoelde openbare middelen betreft, slechts tegen een andere Partij worden ingeroepen, voor zover deze daarin heeft toegestemd.
+b). De door een Partij overeenkomstig artikel 2(b) van het Verdrag van Parijs genomen maatregelen ten gevolge waarvan de in artikel 3(b)(ii) en (iii) bedoelde openbare middelen ter beschikking moeten worden gesteld, kunnen echter slechts tegen een andere Partij worden ingeroepen voor zover deze daarin heeft toegestemd.
 
-c. Het onderhavige Verdrag belet niet dat een Partij voorzieningen treft buiten het kader van het Verdrag van Parijs en van dit Verdrag, mits deze geen verdere verplichtingen voor de andere Partijen medebrengen ten aanzien van de door deze Partijen ter beschikking te stellen openbare middelen.
+c). Dit Verdrag belet niet dat een Partij voorzieningen treft buiten het kader van het Verdrag van Parijs en van dit Verdrag, mits deze geen verdere verplichtingen voor de andere Partijen medebrengen ten aanzien van de door deze Partijen ter beschikking te stellen openbare middelen.
+
+d). Wanneer alle Partijen bij dit Verdrag andere verdragen op het gebied van aanvullende vergoeding voor kernschade bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden, kan een Partij bij dit Verdrag de ingevolge artikel 3(b)(iii) van dit Verdrag ter beschikking te stellen middelen aanwenden ter vervulling van een verplichting die zij uit hoofde van een dergelijk ander verdrag zou kunnen hebben om aanvullende vergoeding voor kernschade uit openbare middelen ter beschikking te stellen.
 
 ##### Artikel 15
 
-a. Elke Partij kan met een Staat die geen Partij is bij dit Verdrag, een overeenkomst sluiten inzake vergoeding uit openbare middelen van door een kernongeval veroorzaakte schade.
+a). Elke Partij kan met een Staat die geen Partij is bij dit Verdrag een overeenkomst sluiten inzake vergoeding uit openbare middelen van door een kernongeval veroorzaakte schade. Elke Partij die voornemens is een dergelijke overeenkomst te sluiten, stelt de overige Partijen van haar voornemen in kennis. Van gesloten overeenkomsten wordt kennisgeving gedaan aan de Belgische Regering.
 
-b. Voor zover de vergoedingsvoorwaarden in een dergelijke overeenkomst niet gunstiger zijn dan de voor de toepassing van het Verdrag van Parijs en van dit Verdrag door de betrokken Partij getroffen maatregelen, kan het bedrag van de krachtens een dergelijke overeenkomst te betalen vergoeding voor de schade, veroorzaakt door een kernongeval waarop dit Verdrag van toepassing is, met het oog op de toepassing van artikel 8, tweede volzin, in aanmerking worden genomen voor de berekening van het totale bedrag van de door dit ongeval veroorzaakte schade.
+b). Voor zover de voorwaarden voor de betaling van schadevergoeding volgens een dergelijke overeenkomst niet gunstiger zijn dan die welke voortvloeien uit de door de betrokken Partij getroffen maatregelen voor de toepassing van het Verdrag van Parijs en van dit Verdrag, kan, indien het bepaalde in artikel 8 van toepassing is, het bedrag van de te vergoeden schade, veroorzaakt door een kerngeval waarop dit Verdrag van toepassing is, en waarvoor krachtens een dergelijke overeenkomst schadevergoeding dient te worden betaald in aanmerking worden genomen bij de berekening van het totale schadebedrag ten gevolge van dat ongeval.
 
-c. Het bepaalde in de leden a) en b) kan in geen geval wijziging brengen in de verplichtingen die krachtens artikel 3 b) ii) en iii) rusten op de Partijen die niet toestemmen in een dergelijke overeenkomst.
-
-d. Elke Partij die voornemens is een dergelijke overeenkomst te sluiten, dient hiervan mededeling te doen aan de overige Partijen. Van de gesloten overeenkomsten moet kennis worden gegeven aan de Belgische Regering.
+c). Het bepaalde in de leden (a) en (b) kan in geen geval wijziging brengen in de verplichtingen die krachtens artikel 3(b)(ii) en (iii) rusten op de Partijen die niet toestemmen in een dergelijke overeenkomst.
 
 ##### Artikel 16
 
@@ -221,15 +211,21 @@ b. Zij zullen elkander raadplegen omtrent de wenselijkheid het onderhavige Verdr
 
 ##### Artikel 17
 
-Ieder geschil tussen twee of meer Partijen over de uitlegging of toepassing van dit Verdrag wordt op verzoek van een der betrokken Partijen voorgelegd aan het Europese Tribunaal voor Kernenergie, ingesteld bij het Verdrag van 20 december 1957 inzake de instelling van een veiligheidscontrole op het gebied van de kernenergie.
+a). Ingeval een geschil ontstaat tussen twee of meer Partijen betreffende de interpretatie of toepassing van dit Verdrag, plegen de partijen bij het geschil overleg met het oog op regeling van het geschil door middel van onderhandeling of met andere vreedzame middelen.
+
+b). Wanneer een in lid (a) bedoeld geschil niet is geregeld binnen zes maanden, te rekenen vanaf de datum waarop door een van de partijen bij het geschil het bestaan ervan wordt erkend, komen de Partijen bijeen teneinde de partijen bij het geschil bij te staan bij het treffen van een minnelijke schikking.
+
+c). Wanneer binnen drie maanden, te rekenen vanaf de in lid (b) bedoelde bijeenkomst, het geschil niet is beslecht, wordt het geschil op verzoek van een van de partijen daarbij voorgelegd aan het Europese Tribunaal voor Kernenergie, ingesteld bij het Verdrag van 20 december 1957 inzake de instelling van een veiligheidscontrole op het gebied van de kernenergie.
+
+d). Wanneer een kernongeval aanleiding geeft tot een geschil tussen twee of meer Partijen betreffende de interpretatie of toepassing van het Verdrag van Parijs en van dit Verdrag, is de procedure voor het beslechten van een dergelijk geschil de procedure bedoeld in artikel 17 van het Verdrag van Parijs.
 
 ##### Artikel 18
 
-a. Voorbehouden ten aanzien van één of meer bepalingen van dit Verdrag kunnen te allen tijde vóór de bekrachtiging van dit Verdrag worden gemaakt, indien de tekst van de voorbehouden uitdrukkelijk door alle ondertekenende Regeringen is aanvaard of bij de toetreding dan wel bij de toepassing van de artikelen 21 en 24, indien de tekst daarvan uitdrukkelijk door alle ondertekenende en toetredende Regeringen is aanvaard.
+a). Ten aanzien van één of meer bepalingen van dit Verdrag kan te allen tijde vóór de bekrachtiging, aanvaarding of goedkeuring van dit Verdrag een voorbehoud worden gemaakt, indien de bepalingen daarvan uitdrukkelijk door alle ondertekenende Regeringen zijn aanvaard of, bij de toetreding dan wel bij de toepassing van de artikelen 21 en 24, indien de bepalingen daarvan van dat voorbehoud uitdrukkelijk door alle ondertekenende en toetredende Regeringen zijn aanvaard.
 
-b. De goedkeuring van een ondertekenende Regering is echter niet vereist, indien deze niet zelf dit Verdrag heeft bekrachtigd binnen 12 maanden na de datum waarop zij kennisgeving van het voorbehoud heeft ontvangen van de Belgische Regering overeenkomstig artikel 25.
+b). Een zodanige aanvaarding is niet vereist van een ondertekenende Regering die niet zelf dit Verdrag heeft bekrachtigd, aanvaard of goedgekeurd binnen een termijn van 12 maanden na de dag waarop haar door de Belgische Regering overeenkomstig artikel 25 mededeling is gedaan van een zodanig voorbehoud.
 
-c. Elk voorbehoud dat overeenkomstig lid a) is aanvaard, kan te allen tijde worden ingetrokken door kennisgeving aan de Belgische Regering.
+c). Elk voorbehoud dat overeenkomstig lid (a) is aanvaard, kan te allen tijde door middel van een aan de Belgische Regering gerichte kennisgeving worden ingetrokken.
 
 ##### Artikel 19
 
@@ -237,17 +233,17 @@ Een Staat kan slechts dan Partij bij dit Verdrag worden of blijven, indien hij P
 
 ##### Artikel 20
 
-a. De bijlage bij dit Verdrag maakt een integrerend deel daarvan uit.
+a). De Bijlage bij dit Verdrag maakt een integrerend deel daarvan uit.
 
-b. Dit Verdrag zal worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Belgische Regering.
+b). Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Belgische Regering.
 
-c. Dit Verdrag treedt in werking drie maanden na de nederlegging van de zesde akte van bekrachtiging.
+c). Dit Verdrag treedt in werking drie maanden na de datum van nederlegging van de zesde akte van bekrachtiging, aanvaarding of goedkeuring.
 
-d. Voor iedere ondertekenende Regering die dit Verdrag bekrachtigt na de nederlegging van de zesde akte, zal het van kracht worden drie maanden na de nederlegging van haar akte van bekrachtiging.
+d). Voor iedere ondertekenende Regering die dit Verdrag bekrachtigt, aanvaardt of goedkeurt na de nederlegging van de zesde akte van bekrachtiging, aanvaarding of goedkeuring zal het van kracht worden drie maanden na de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring.
 
 ##### Artikel 21
 
-Wijzigingen van dit Verdrag worden aanvaard met onderling goedvinden van de Partijen. Zij worden van kracht op de datum waarop alle Partijen deze hebben bekrachtigd of goedgekeurd.
+Wijzigingen van dit Verdrag worden aangenomen met onderling goedvinden van alle Partijen. Zij worden van kracht op de datum waarop alle Partijen deze hebben bekrachtigd, aanvaard of goedgekeurd.
 
 ##### Artikel 22
 
@@ -285,7 +281,7 @@ f. Indien het Verdrag van Parijs niet langer van toepassing is op één van die 
 
 ##### Artikel 25
 
-De Belgische Regering doet aan alle ondertekenende en toetredende Regeringen mededeling van de ontvangst van iedere akte van bekrachtiging, toetreding, opzegging en van alle kennisgevingen die zij mocht hebben ontvangen. Zij doet hun eveneens mededeling van het tijdstip waarop dit Verdrag in werking treedt, van de tekst van de wijzigingen van dit Verdrag en van het tijdstip waarop deze wijzigingen van kracht worden, alsmede van de voorbehouden welke overeenkomstig artikel 18 worden gemaakt.
+De Belgische Regering doet aan alle ondertekenende en toetredende Regeringen mededeling van de ontvangst van iedere akte van bekrachtiging, aanvaarding, goedkeuring, toetreding of opzegging en van alle kennisgevingen die zij heeft ontvangen. Zij doet hun eveneens mededeling van het tijdstip waarop dit Verdrag in werking treedt, van de tekst van de wijzigingen van dit Verdrag en van het tijdstip waarop deze wijzigingen van kracht worden, van de voorbehouden welke overeenkomstig artikel 18 worden gemaakt, alsmede van eventuele verhoging van de schadevergoedingen die moeten worden verstrekt krachtens artikel 3(a) als gevolg van de toepassing van artikel 12bis.
 
 ##### Artikel 12bis
 
