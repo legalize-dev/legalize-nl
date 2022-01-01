@@ -4,7 +4,7 @@ identifier: "BWBR0043751"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043751"
 soort: "ministeriele-regeling-BES"
@@ -84,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2020-07-01&g=2020-07-01), wordt vermeerderd met een toeslag ter hoogte van USD 4,30 per dag:
+1. Het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2022-04-02&g=2022-01-01), wordt vermeerderd met een toeslag ter hoogte van USD 4,30 per dag:
 
 - a. zolang sprake is van een crisisplaatsing waarbij het pleegkind met spoed is geplaatst bij de pleegouder, gedurende de eerste vier weken van het verblijf van het pleegkind;
 
 - b. zolang bij een pleegouder drie of meer pleegkinderen verblijven, voor het derde en volgende pleegkind.
 
-2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2020-07-01&g=2020-07-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste USD 4,30 per dag, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
+2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2022-04-02&g=2022-01-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste USD 4,30 per dag, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
 
 - a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk zijn in verband met de beperkingen;
 
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 1. De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen vergoeding voor bijzondere kosten voor het pleegkind voor zover:
 
-- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2020-07-01&g=2020-07-01), dan wel uit de toeslagen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2020-07-01&g=2020-07-01);
+- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2022-04-02&g=2022-01-01), dan wel uit de toeslagen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2022-04-02&g=2022-01-01);
 
 - b. voor deze kosten geen uitkering op grond van een andere regeling kan worden verstrekt, en
 
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2020-07-01&g=2020-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2020-07-01&g=2020-07-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2022-04-02&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2022-04-02&g=2022-01-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
 ##### Artikel 6
 
