@@ -4,7 +4,7 @@ identifier: "BWBR0037036"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2015-09-29"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037036"
 soort: "pbo"
@@ -42,17 +42,15 @@ In deze verordening wordt verstaan onder:
 
 - –. **accountant:** een accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantsregister:** het accountantsregister, bedoeld in [artikel 36, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- –. **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- –. **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
+- –. **examen praktijkopleiding RA:** examen als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), ter afronding van de praktijkopleiding passend bij een inschrijving in het accountantsregister met de vermelding van de beroepstitel van Registeraccountant;
 
-- –. **examen praktijkopleiding RA:** het examen, bedoeld in [artikel, 47, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), ter afronding van de praktijkopleiding passend bij een inschrijving in het accountantsregister met de vermelding van de beroepstitel van Registeraccountant;
+- –. **praktijkopleiding:** praktijkopleiding als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
 
-- –. **praktijkopleiding:** de praktijkopleiding, bedoeld in [artikel 47, eerste lid, eerste volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
+- –. **verordening:** [Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795);
 
-- –. **verordening:** de [Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795);
-
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
