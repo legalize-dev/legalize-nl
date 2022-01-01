@@ -4,7 +4,7 @@ identifier: "BWBR0045086"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045086"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ De publicatiebladen, bedoeld in [artikel 3.1, eerste lid, van het besluit](https
 
 ##### Artikel 2.3. Regels en technische standaarden
 
-1. Regels als bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8), zijn met betrekking tot de aan te leveren gegevens over de te publiceren teksten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=1&z=2021-07-01&g=2021-07-01).
+1. Regels als bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8), zijn met betrekking tot de aan te leveren gegevens over de te publiceren teksten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=1&z=2022-01-01&g=2022-01-01).
 
 2. Het eerste lid is niet van toepassing voor zover krachtens [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8) technische standaarden zijn aangewezen.
 
@@ -98,7 +98,7 @@ Vervangende uitgifte van de publicatiebladen als bedoeld in [artikel 17, eerste 
 
 - a. door middel van publicatie op een door de minister aan te wijzen vervangend internetadres;
 
-- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.5&z=2021-07-01&g=2021-07-01) genoemde uitgiftepunt; of
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.5&z=2022-01-01&g=2022-01-01) genoemde uitgiftepunt; of
 
 - c. op een andere door de minister te bepalen wijze.
 
@@ -108,15 +108,15 @@ Het uitgiftepunt, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten
 
 ##### Artikel 2.6. Publicatiekosten decentrale overheden
 
-1. Voor zover [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2021-07-01&g=2021-07-01), van toepassing is, worden aan gedeputeerde staten, het college van burgemeester en wethouders en het dagelijks bestuur van het waterschap de kosten in verband met het publiceren in het provinciaal blad, het gemeenteblad, het waterschapsblad en het publicatieblad gemeenschappelijke regeling jaarlijks in rekening gebracht.
+1. Voor zover [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2022-01-01&g=2022-01-01), van toepassing is, worden aan gedeputeerde staten, het college van burgemeester en wethouders en het dagelijks bestuur van het waterschap de kosten in verband met het publiceren in het provinciaal blad, het gemeenteblad, het waterschapsblad en het publicatieblad gemeenschappelijke regeling jaarlijks in rekening gebracht.
 
-2. Het in rekening brengen van de kosten, bedoeld in het eerste lid, geschiedt voor zover het gedeputeerde staten en het college van burgemeester en wethouders betreft volgens de maatstaven die zijn opgenomen in tabel 1 onderscheidenlijk tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=2&z=2021-07-01&g=2021-07-01). De kosten die in verband met het publiceren aan de dagelijkse besturen van de waterschappen door tussenkomst van Het Waterschapshuis jaarlijks in rekening worden gebracht, bedragen € 290.134,–.
+2. Het in rekening brengen van de kosten, bedoeld in het eerste lid, geschiedt voor zover het gedeputeerde staten en het college van burgemeester en wethouders betreft volgens de maatstaven die zijn opgenomen in tabel 1 onderscheidenlijk tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=2&z=2022-01-01&g=2022-01-01). De kosten die in verband met het publiceren aan de dagelijkse besturen van de waterschappen door tussenkomst van Het Waterschapshuis jaarlijks in rekening worden gebracht, bedragen € 299.121,–.
 
 ##### Artikel 2.7. Publicatiekosten uittreksels van exploten
 
 1. Aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders worden kosten in rekening gebracht voor het publiceren in de Staatscourant van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54).
 
-2. De kosten, bedoeld in het eerste lid, bedragen € 5,40 per uittreksel.
+2. De kosten, bedoeld in het eerste lid, bedragen € 5,54 per uittreksel.
 
 ### Hoofdstuk 3. Beschikbaarstelling geconsolideerde teksten
 
@@ -128,9 +128,9 @@ Teksten in geconsolideerde vorm als bedoeld in [artikel 5.1, eerste lid, van het
 
 Regels als bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19), zijn met betrekking tot:
 
-- a. de wijze van consolideren opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=3&z=2021-07-01&g=2021-07-01), onder 3.4 tot en met 3.16; en
+- a. de wijze van consolideren opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=3&z=2022-01-01&g=2022-01-01), onder 3.4 tot en met 3.16; en
 
-- b. de aan te leveren gegevens over de te consolideren teksten opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=4&z=2021-07-01&g=2021-07-01).
+- b. de aan te leveren gegevens over de te consolideren teksten opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=4&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk 4. Elektronische berichten
 
@@ -176,13 +176,13 @@ De [Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decen
 
 ##### Artikel 8.1. Overgangsrecht geconsolideerde teksten
 
-In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2021-07-01&g=2021-07-01), kunnen de minister, gedeputeerde staten, het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap, het bestuurscollege, het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie en het gemeenschappelijk orgaan beschikbaar gestelde geconsolideerde teksten beschikbaar houden overeenkomstig de regels die golden ten tijde van de eerste beschikbaarstelling van de betreffende geconsolideerde tekst.
+In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2022-01-01&g=2022-01-01), kunnen de minister, gedeputeerde staten, het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap, het bestuurscollege, het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie en het gemeenschappelijk orgaan beschikbaar gestelde geconsolideerde teksten beschikbaar houden overeenkomstig de regels die golden ten tijde van de eerste beschikbaarstelling van de betreffende geconsolideerde tekst.
 
 ##### Artikel 8.2. Invoeringsbepaling omgevingsbesluiten
 
-1. In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.1&z=2021-07-01&g=2021-07-01) kan het publicatieblad worden uitgegeven op https://www.ruimtelijkeplannen.nl, voor zover het betreft de publicatie van specifieke delen van algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
+1. In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.1&z=2022-01-01&g=2022-01-01) kan het publicatieblad worden uitgegeven op https://www.ruimtelijkeplannen.nl, voor zover het betreft de publicatie van specifieke delen van algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-2. Op de publicaties, bedoeld in het eerste lid, zijn de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.2&z=2021-07-01&g=2021-07-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2021-07-01&g=2021-07-01) niet van toepassing.
+2. Op de publicaties, bedoeld in het eerste lid, zijn de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.2&z=2022-01-01&g=2022-01-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2022-01-01&g=2022-01-01) niet van toepassing.
 
 3. Dit artikel vervalt op het tijdstip waarop [artikel 11.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=1.1) vervalt.
 
@@ -194,7 +194,7 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel 1.1 van de Wet e
 
 Deze regeling wordt aangehaald als: Regeling elektronische publicaties.
 
-## Bijlage 1. als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2021-07-01&g=2021-07-01) (aan te leveren gegevens over de te publiceren teksten)
+## Bijlage 1. als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2022-01-01&g=2022-01-01) (aan te leveren gegevens over de te publiceren teksten)
 
 | Aan te leveren gegevens (metadata) | Nadere voorschriften |
 | --- | --- |
@@ -218,54 +218,54 @@ Deze regeling wordt aangehaald als: Regeling elektronische publicaties.
 | Persoonsgegevens opgeroepene | De naam van de opgeroepene. |
 | Kenmerk deurwaardersdossier oproeping | Het nummer van dossier waaronder de zaak bekendstaat. |
 
-## Bijlage 2. als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.6&z=2021-07-01&g=2021-07-01) (berekening publicatiekosten provincies en gemeenten)
+## Bijlage 2. als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.6&z=2022-01-01&g=2022-01-01) (berekening publicatiekosten provincies en gemeenten)
 
 | Provincie | Bedrag (in €) |
 | --- | --- |
-| Drenthe | 21.214 |
-| Flevoland | 18.718 |
-| Fryslân | 23.651 |
-| Gelderland | 29.715 |
-| Groningen | 22.606 |
-| Limburg | 23.419 |
-| Noord-Brabant | 28.380 |
-| Noord-Holland | 24.231 |
-| Overijssel | 23.767 |
-| Utrecht | 26.088 |
-| Zeeland | 19.560 |
-| Zuid-Holland | 28.786 |
+| Drenthe | 21.836 |
+| Flevoland | 19.443 |
+| Fryslân | 24.229 |
+| Gelderland | 30.211 |
+| Groningen | 23.331 |
+| Limburg | 23.930 |
+| Noord-Brabant | 29.314 |
+| Noord-Holland | 25.425 |
+| Overijssel | 24.528 |
+| Utrecht | 26.921 |
+| Zeeland | 20.041 |
+| Zuid-Holland | 29.912 |
 
 | Aantal inwoners gemeente1 | Bedrag (in €) |
 | --- | --- |
-| <10.000 | 2.231 |
-| 10.000 tot 20.000 | 4.462 |
-| 20.000 tot 30.000 | 6.692 |
-| 30.000 tot 40.000 | 8.923 |
-| 40.000 tot 50.000 | 11.154 |
-| 50.000 tot 60.000 | 13.385 |
-| 60.000 tot 70.000 | 15.615 |
-| 70.000 tot 80.000 | 17.846 |
-| 80.000 tot 90.000 | 20.077 |
-| 90.000 tot 100.000 | 22.308 |
-| 100.000 tot 110.000 | 24.538 |
-| 110.000 tot 120.000 | 26.769 |
-| 120.000 tot 140.000 | 29.000 |
-| 140.000 tot 160.000 | 31.231 |
-| 160.000 tot 180.000 | 33.462 |
-| 180.000 tot 200.000 | 35.692 |
-| 200.000 tot 220.000 | 37.923 |
-| 220.000 tot 240.000 | 40.154 |
-| 240.000 tot 260.000 | 42.385 |
-| 260.000 tot 280.000 | 44.615 |
-| 280.000 tot 300.000 | 46.846 |
-| 300.000 tot 320.000 | 49.077 |
-| 320.000 tot 340.000 | 51.308 |
-| 340.000 tot 360.000 | 53.538 |
-| ≥360.000 | 55.769 |
+| <10.000 | 2.291 |
+| 10.000 tot 20.000 | 4.582 |
+| 20.000 tot 30.000 | 6.873 |
+| 30.000 tot 40.000 | 9.164 |
+| 40.000 tot 50.000 | 11.455 |
+| 50.000 tot 60.000 | 13.746 |
+| 60.000 tot 70.000 | 16.037 |
+| 70.000 tot 80.000 | 18.328 |
+| 80.000 tot 90.000 | 20.618 |
+| 90.000 tot 100.000 | 22.909 |
+| 100.000 tot 110.000 | 25.200 |
+| 110.000 tot 120.000 | 27.491 |
+| 120.000 tot 140.000 | 29.782 |
+| 140.000 tot 160.000 | 32.073 |
+| 160.000 tot 180.000 | 34.364 |
+| 180.000 tot 200.000 | 36.655 |
+| 200.000 tot 220.000 | 38.946 |
+| 220.000 tot 240.000 | 41.237 |
+| 240.000 tot 260.000 | 43.528 |
+| 260.000 tot 280000 | 45.819 |
+| 280.000 tot 300.000 | 48.110 |
+| 300.000 tot 320.000 | 50.401 |
+| 320.000 tot 340.000 | 52.692 |
+| 340.000 tot 360.000 | 54.983 |
+| ≥360.000 | 57.274 |
 
 1 Op 1 januari van het voorafgaande kalenderjaar, volgens opgave van het Centraal Bureau voor de Statistiek.
 
-## Bijlage 3. als bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2021-07-01&g=2021-07-01) (consolidatievoorschriften decentrale overheden)
+## Bijlage 3. als bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2022-01-01&g=2022-01-01) (consolidatievoorschriften decentrale overheden)
 
 ### 3.1. Achtergrond
 
@@ -345,7 +345,7 @@ In de volgende situaties wordt een redactionele opmerking in het desbetreffende 
 
 Een toelichting bij een algemeen verbindend voorschrift maakt geen onderdeel uit van het algemeen verbindend voorschrift en hoeft dus niet te worden geconsolideerd. Indien het bestuursorgaan naast het algemeen verbindend voorschrift ook een toelichting bij dit algemeen verbindend voorschrift opneemt in de geconsolideerde versie, kan ook de toelichting bij een latere wijziging van het algemeen verbindend voorschrift worden geconsolideerd. De toelichting wordt direct onder de tekst van het algemeen verbindend voorschrift opgenomen. Indien bij een wijziging alleen de toelichting wordt gewijzigd, leidt dit tot een nieuwe geconsolideerde versie.
 
-## Bijlage 4. als bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2021-07-01&g=2021-07-01) (aan te leveren gegevens over de te consolideren teksten van decentrale overheden)
+## Bijlage 4. als bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2022-01-01&g=2022-01-01) (aan te leveren gegevens over de te consolideren teksten van decentrale overheden)
 
 | Aan te leveren gegevens (metadata) | Nadere voorschriften |
 | --- | --- |
@@ -361,7 +361,7 @@ Een toelichting bij een algemeen verbindend voorschrift maakt geen onderdeel uit
 | Bron van (een wijziging van) het besluit | De uitgave van het publicatieblad waarin de publicatie verschijnt. Bij elektronische bekendmaking wordt ook een URL opgenomen. |
 | Gedelegeerde regelgeving | Alle algemeen verbindende voorschriften en beleidsregels die op het algemeen verbindend voorschrift zijn gebaseerd. |
 | Betreft | Een aanduiding van de gewijzigde onderdelen van een besluit of, in geval van een nieuw besluit, ‘nieuwe regeling’. |
-| Redactionele opmerkingen | Redactionele opmerkingen als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=3&z=2021-07-01&g=2021-07-01). |
+| Redactionele opmerkingen | Redactionele opmerkingen als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=3&z=2022-01-01&g=2022-01-01). |
 | Datum vaststelling van (een wijziging van) het besluit | De datum waarop het besluit is genomen. |
 | Datum inwerkingtreding van (een versie van) het besluit | De datum waarop het besluit in werking treedt. Let op: niet de datum tot en met wanneer het algemeen verbindend voorschrift eventueel terugwerkt. |
 | Datum terugwerkende kracht (t/m) van (een versie van) het besluit | De in het besluit eventueel genoemde vóór de inwerkingtreding gelegen datum vanaf wanneer het besluit van toepassing is. |
