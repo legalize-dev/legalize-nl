@@ -262,11 +262,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet toetreding zorgaanbieders.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 17a
-
-Een instelling die op het moment van inwerkingtreding van [artikel VIIIa, onderdeel A, van de Verzamelwet VWS 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0050314&artikel=VIIIa), ingevolge dit artikel voor het eerst over een toelatingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-01-01&g=2025-01-01), moet beschikken, verkrijgt van rechtswege een toelatingsvergunning.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
