@@ -4,7 +4,7 @@ identifier: "BWBR0034017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-04-30"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034017"
 soort: "ministeriele-regeling"
@@ -63,7 +63,9 @@ Deze regeling verstaat onder:
 
 - h. **elektronische kopie:** elektronische kopie als bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4) die is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093) (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
 
-- i. **elektronische kopie van een annex:** elektronische kopie van een aan een notariële akte gehecht stuk als bedoeld in [artikel 7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b).
+- i. **elektronische kopie van een annex:** elektronische kopie van een aan een notariële akte gehecht stuk als bedoeld in [artikel 7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b);
+
+- j. **RSIN:** rechtspersonen en samenwerkingsverbanden informatienummer dat door de Kamer van Koophandel wordt verstrekt bij inschrijving van rechtspersonen en samenwerkingsverbanden in het handelsregister.
 
 ### Hoofdstuk 2. Registratie van notariële akten langs elektronische weg bij de KNB
 
@@ -75,7 +77,7 @@ Deze regeling verstaat onder:
 
 3. Het opvragen en aanbieden van een elektronische kopie van een annex geschiedt overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen.
 
-4. Bij de registratie van een akte, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4), worden ten minste de gegevens, bedoeld in [artikel 3, eerste lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=2&artikel=3&z=2021-04-30&g=2021-04-30), vermeld, met uitzondering van de woonplaats.
+4. Bij de registratie van een akte, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4), worden ten minste de gegevens, bedoeld in [artikel 3, eerste lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), vermeld, met uitzondering van de woonplaats.
 
 5. De notaris ontvangt ter bevestiging van de registratie van een akte een elektronisch ontvangstbericht met de datum van de registratie van die akte.
 
@@ -113,13 +115,23 @@ Deze regeling verstaat onder:
 
 ##### Artikel 4
 
-1. De notaris doet aangifte overdrachtsbelasting als bedoeld in [artikel 21a, eerste lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=21a), via de KNB bij de inspecteur door registratie van de akte, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3), alsmede door het insturen van een elektronisch bericht overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen, dat ten minste de volgende gegevens omvat:
+1. De notaris doet aangifte overdrachtsbelasting als bedoeld in [artikel 21a van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=21a), via de KNB bij de inspecteur door registratie van de akte, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3), en indien van toepassing het aanbieden van de verklaring, bedoeld in [artikel 15a van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15a), alsmede door het insturen van een of meerdere elektronische berichten overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen, het bericht omvat ten minste de volgende gegevens:
 
-- a. het verschuldigde bedrag;
+- a. het burgerservicenummer of het RSIN van iedere verkrijger;
 
-- b. de vermelding of sprake is van meegeleverde roerende zaken;
+- b. het verschuldigde bedrag;
 
-- c. de vermelding of een beroep op een vrijstelling wordt gedaan.
+- c. het tarief dat wordt toegepast, voor iedere verkrijger afzonderlijk;
+
+- d. de maatstaf van heffing per toegepast tarief;
+
+- e. de vermelding of sprake is van meegeleverde roerende zaken;
+
+- f. de vermelding voor iedere verkrijger afzonderlijk of een beroep op een vrijstelling wordt gedaan onder verwijzing naar de bepaling van de vrijstelling waarop een beroep wordt gedaan;
+
+- g. indien een beroep wordt gedaan op [artikel 14, tweede lid, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=14) de adresgegevens van het verkregen object.
+
+- h. indien een beroep wordt gedaan op [artikel 15, eerste lid, onderdeel p, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) de adresgegevens en het totaal van de waarde van de woning of rechten waaraan deze is onderworpen en tot die woning behorende aanhorigheden.
 
 2. Als tijdstip van het doen van aangifte overdrachtsbelasting bij de inspecteur geldt het tijdstip waarop het elektronische afschrift en het elektronische bericht de KNB hebben bereikt. Als tijdstip van ontvangst door de inspecteur van de berichten inzake de overdrachtsbelasting waarmee een aangifte wordt gecorrigeerd, waarmee bezwaar wordt gemaakt of waarmee een verzoek wordt ingediend, geldt het tijdstip waarop dat bericht de KNB heeft bereikt. De inzending van de berichten, bedoeld in de eerste en tweede volzin, geschiedt overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen.
 
@@ -157,7 +169,7 @@ De registers, bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https:
 
 ##### Artikel 12
 
-1. De aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt bij de inspecteur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=11&z=2021-04-30&g=2021-04-30), bij het daartoe door de Belastingdienst opengestelde kantoor.
+1. De aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt bij de inspecteur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=11&z=2022-01-01&g=2022-01-01), bij het daartoe door de Belastingdienst opengestelde kantoor.
 
 2. Het kantoor, bedoeld in het eerste lid, is voor het aanbieden van de akten ter registratie dagelijks van 9.00 uur tot 17.00 uur geopend, met uitzondering van de zaterdag, de zondag, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en de bij of krachtens [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) daarmee gelijkgestelde dagen.
 
@@ -169,7 +181,7 @@ De registers, bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https:
 
 ##### Artikel 14
 
-De registratie in het register Registratie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2021-04-30&g=2021-04-30), omvat voor elke akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) ten minste de volgende gegevens:
+De registratie in het register Registratie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2022-01-01&g=2022-01-01), omvat voor elke akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) ten minste de volgende gegevens:
 
 - a. een per registerdeel doorlopend volgnummer;
 
@@ -193,7 +205,7 @@ Ingeval een akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet]
 
 ##### Artikel 16
 
-Tegelijk ter registratie aangeboden gelijksoortige akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), die door dezelfde persoon zijn aangeboden, kunnen tezamen worden geregistreerd onder een aantal volgnummers dat overeenkomt met het aantal akten. In dat geval worden de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=14&z=2021-04-30&g=2021-04-30), slechts eenmaal vermeld, voor zover deze voor de verschillende akten gelijk zijn.
+Tegelijk ter registratie aangeboden gelijksoortige akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), die door dezelfde persoon zijn aangeboden, kunnen tezamen worden geregistreerd onder een aantal volgnummers dat overeenkomt met het aantal akten. In dat geval worden de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=14&z=2022-01-01&g=2022-01-01), slechts eenmaal vermeld, voor zover deze voor de verschillende akten gelijk zijn.
 
 ##### Artikel 17
 
@@ -221,7 +233,7 @@ Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel
 
 - d. het aantal renvooien en het aantal annexen;
 
-- e. de omstandigheid, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=15&z=2021-04-30&g=2021-04-30).
+- e. de omstandigheid, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=15&z=2022-01-01&g=2022-01-01).
 
 3. De dagtekening van de registratie wordt – met uitzondering van de eeuw – in letters gesteld.
 
