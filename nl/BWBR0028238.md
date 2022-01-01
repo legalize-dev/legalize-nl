@@ -4,7 +4,7 @@ identifier: "BWBR0028238"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-01-01"
-last_updated: "2019-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028238"
 soort: "wet-BES"
@@ -39,256 +39,316 @@ entry_into_force: "2022-01-01"
 
 ##### Artikel 1
 
-In de artikelen van deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint Eustatius of Saba.
+In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **de Kamers:** de Kamers van Koophandel en Nijverheid, bedoeld in [artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2022-01-01&g=2022-01-01);
+
+- b. **Onze Minister:** de Minister van Economische Zaken en Klimaat;
+
+- c. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 1a
 
 1. De handel en nijverheid op Bonaire, Sint Eustatius of Saba wordt door de Kamers van Koophandel en Nijverheid vertegenwoordigd.
 
-2. Er wordt één Kamer ingesteld voor Bonaire, welke haar zetel heeft op Bonaire, en één Kamer voor Sint Eustatius en Saba gezamenlijk, welke haar zetel heeft op Sint Eustatius. De Kamers bestaan uit ten hoogste vijf leden.
+2. Er wordt één Kamer ingesteld voor Bonaire, die haar zetel heeft op Bonaire, en één Kamer voor Sint Eustatius en Saba gezamenlijk, die haar zetel heeft op Sint Eustatius. Beide Kamers hebben een bestuur dat uit ten minste drie en ten hoogste vijf bestuursleden bestaat.
 
-3. De verkiezing van de leden van de Kamers en alles wat daarmede in verband staat, wordt geregeld bij een afzonderlijk reglement, vastgesteld bij algemene maatregel van bestuur, behoudens de hieronder volgende bepalingen.
+3. Het bestuur van de Kamer voor Sint Eustatius en Saba bestaat uit:
+
+- a. ten hoogste drie vertegenwoordigers van ondernemingen of rechtspersonen, gevestigd in hetzelfde openbaar lichaam;
+
+- b. ten minste een vertegenwoordiger van een onderneming of rechtspersoon, gevestigd op Sint Eustatius; en
+
+- c. ten minste een vertegenwoordiger van een onderneming of rechtspersoon, gevestigd op Saba.
 
 ##### Artikel 2
 
-1. De Kamers vertegenwoordigen het grootbedrijf en het kleinbedrijf beide.
-
-2. Voor de Kamer op Bonaire kiezen de kiezers voor het grootbedrijf twee leden van de Kamer en de kiezers voor het kleinbedrijf kiezen de overige leden.
-
-3. Kiezers voor het grootbedrijf zijn de kiesgerechtigden als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2019-01-01&g=2019-01-01), wier namen in het handelsregister voorkomen als betrokken bij een onderneming of een nevenvestiging voor wier inschrijving in het handelsregister een bedrag verschuldigd is dat gebaseerd is op een in de onderneming of nevenvestiging aanwezige eigen vermogen van tenminste USD 55.865,92. Alle andere kiesgerechtigden als vorenbedoeld zijn kiezers voor het kleinbedrijf.
-
-4. Het onderscheid tussen grootbedrijf en kleinbedrijf geldt niet voor de openbare lichamen Sint Eustatius en Saba.
-
-5. De kiezers die ingezetene zijn van het openbaar lichaam Sint Eustatius kiezen twee leden en de kiezers die ingezetene zijn van het openbaar lichaam Saba kiezen twee leden. Als vijfde lid van het bestuur wordt diegene gekozen die daarna de meeste stemmen heeft behaald, ongeacht de herkomst van die stemmen.
+Vervallen
 
 ## Kiesrecht
 
 ##### Artikel 3
 
-1. De leden van de kamers worden gekozen;
+1. De bestuursleden van de Kamers worden gekozen door de vertegenwoordigers van ondernemingen en rechtspersonen, met uitzondering van verenigingen en stichtingen, die in het handelsregister van de desbetreffende Kamer zijn ingeschreven.
 
-door de ingezetenen van het openbaar lichaam alwaar de Kamer haar gebied heeft, die op 1 juli voorafgaande aan het opmaken van de kiezerslijst, in het handelsregister van het gebied van de Kamer voorkomen,
-
-hetzij als eigenaar van een in het gebied van de Kamer gevestigde onderneming of nevenvestiging, en wel alleen of tezamen met andere personen, als lid van een vennootschap onder firma, of als beherende vennoot van een commanditaire vennootschap,
-
-hetzij als directeur, als adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, of als bekleed met een andere functie, welke de bevoegdheid meebrengt omtrent het besturen of het beheren van een rechtspersoon aan wie een onderneming of nevenvestiging toebehoort, hetzij zelfstandig, hetzij krachtens gezamenlijk genomen besluit handelingen te verrichten,
-
-hetzij als algemeen gevolmachtigde of algemeen procuratiehouder bij een ingeschreven onderneming, mits deze de bevoegdheid is toegekend zonder beperking verbintenissen aan te gaan ten bate en ten laste van degene die hij vertegenwoordigt, zij het ook dat collectieve tekening daartoe is vereist.
-
-2. Van het kiesrecht zijn uitgesloten zij, die rechtens van hunne vrijheid zijn beroofd, die krachtens onherroepelijke rechterlijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hunne goederen hebben verloren, die van het ouderlijk gezag over een of meer hunner kinderen ontzet zijn, of die ingevolge onherroepelijk geworden rechterlijke uitspraak in staat van faillissement verkeeren of anderszins de beschikking of het beheer hunner goederen hebben verloren en zij, aan wie bij onherroepelijke rechterlijke uitspraak het kiesrecht is ontzegd.
-
-3. Zij, wier naam in het handelsregister bij meer dan eene Kamer van Koophandel en Nijverheid voorkomt, hebben slechts kiesrecht voor de Kamer binnen welker gebied zij hun woonplaats hebben.
-
-4. De Kamer kan het bewijs vorderen dat de personen in het 1ste lid bedoeld de hoedanigheid bezitten waarop hun opname in het handelsregister is gegrond.
-
-5. Als ingezetene bedoeld in den zin van deze wet wordt beschouwd hij die in het bevolkingsregister van Bonaire, Sint Eustatius of Saba is ingeschreven.
-
-6. Voor de verkiezingen in het jaar 2011, kan, in afwijking van de in het eerste lid genoemde datum van 1 juli, de datum van 15 oktober gehanteerd worden.
+2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de personen die kunnen worden aangemerkt als vertegenwoordigers als bedoeld in het eerste lid.
 
 ## Kiezerslijst
 
 ##### Artikel 4
 
-1. De Kamer van Bonaire maakt jaarlijks twee kiezerslijsten op van de kiezers, die gerechtigd zijn, hun stem uit te brengen bij verkiezingen voor leden van die Kamer. De Kamer van Sint Eustatius en Saba maakt een kiezerslijst per openbaar lichaam met de kiezers die ingezetene zijn van dat openbaar lichaam.
-
-2. De ene kiezerslijst vermeldt de kiezers voor het grootbedrijf en de andere die voor het kleinbedrijf, respectievelijk de kiezers die ingezetene zijn van het openbaar lichaam.
-
-3. Deze lijsten blijven van kracht voor de verkiezingen ter vervulling van tusschentijds opengevallen plaatsten, totdat de lijsten voor het volgend kalenderjaar zijn vastgesteld.
-
-4. De kiezerslijsten voor elke Kamer worden in het gebied van elke Kamer openbaar gemaakt.
-
-Tegen die lijsten kunnen bezwaren bij de Kamer worden ingediend.
-
-5. In het reglement, bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2019-01-01&g=2019-01-01) wordt geregeld:
-
-- a. het opmaken der kiezerslijsten;
-
-- b. het openbaar maken der kiezerslijsten;
-
-- c. de termijn waarbinnen en de wijze waarop bezwaren tegen de openbaar gemaakte kiezerslijsten kunnen worden ingediend;
-
-- d. de termijn, waarbinnen en de wijze waarop die bezwaren moet worden beslist;
-
-- e. het tijdstip voor het sluiten der kiezerslijsten.
+Vervallen
 
 ## Verkiesbaarheid
 
 ##### Artikel 5
 
-1. Tot lid eener Kamer kunnen worden gekozen of benoemd zij die gedurende de laatste twee jaren ingezetenen van Bonaire, Sint Eustatius of Saba zijn geweest en den ouderdom van 25 jaren op den 15den oktober van het jaar, waarin de verkiezing valt, hebben bereikt.
+1. Tot bestuurslid van de Kamers kunnen worden gekozen de vertegenwoordigers van ondernemingen en rechtspersonen, met uitzondering van verenigingen en stichtingen, die
 
-2. Twee of meer personen, die tot eenzelfde ingeschreven onderneming of nevenvestiging in betrekking staan als eigenaar, directeur, adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, dan wel een andere functie bekleden bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2019-01-01&g=2019-01-01), kunnen niet tegelijkertijd leden van de Kamer zijn.
+- a. in het handelsregister van de betreffende Kamer zijn ingeschreven;
 
-3. Van de verkiesbaarheid zijn uitgesloten zij, die rechtens van hunne vrijheid zijn beroofd, die krachtens onherroepelijke rechtelijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hunne goederen hebben verloren, die van het ouderlijke gezag over een of meer hunner kinderen ontzet zijn, of die ingevolge onherroepelijk geworden rechterlijke uitspraak in staat van faillissement verkeerden of anderszins de beschikking of het beheer hunner goederen hebben verloren en zij die van het kiesrecht voor de Kamer of van de verkiesbaarheid bij onherroepelijke rechterlijke uitspraak zijn ontzet.
+- b. op het moment van de verkiezingen en gedurende de laatste twee jaren voor de verkiezingen ingeschreven zijn geweest in het bevolkingsregister van het openbaar lichaam waar de betreffende Kamer op ziet;
 
-## Duur van het lidmaatschap
+- c. op de dag van de stemming de leeftijd van achttien jaren hebben bereikt; en
+
+- d. van ten minste vijftien kiesgerechtigden voor de Kamer voor Bonaire respectievelijk ten minste vijf kiesgerechtigden voor de Kamer voor Sint Eustatius en Saba een schriftelijke verklaring tot ondersteuning van hun kandidatuur hebben overgelegd.
+
+2. Twee vertegenwoordigers van dezelfde onderneming of rechtspersoon, kunnen niet tegelijkertijd bestuurslid zijn van dezelfde Kamer.
+
+3. Niet verkiesbaar zijn personen die:
+
+- a. rechtens van hun vrijheid zijn beroofd; of
+
+- b. onder curatele zijn gesteld.
+
+4. Bij algemene maatregel van bestuur worden nadere regels gesteld over:
+
+- a. de personen die kunnen worden aangemerkt als vertegenwoordigers als bedoeld in de aanhef van het eerste lid; en
+
+- b. de verklaring tot ondersteuning, bedoeld in het eerste lid, onderdeel d.
+
+## Verkiezingen
 
 ##### Artikel 6
 
-1. De leden der Kamer hebben zitting gedurende drie jaren.
+1. De bestuursleden van de Kamers nemen zitting in het bestuur voor een periode van drie jaren, lopend van 1 januari van het eerste jaar tot en met 31 december van derde jaar.
 
-2. Jaarlijks treedt op den 1sten januari een derde der leden van elke Kamer volgens rooster af.
+2. Het gehele bestuur treedt tegelijk af op 31 december van het derde jaar.
 
-Indien het getal leden eener Kamer niet deelbaar is door 3 neemt men het dichtbijzijnde veelvoud van drie. Het eerste en het tweede jaar treden af telkenmale een derde van dat veelvoud en het derde jaar de rest van het aantal leden.
+3. Indien een lid van het bestuur tussentijds aftreedt, wordt het bestuur, indien er minder dan drie bestuursleden over zijn, telkens aangevuld met de eerstvolgende kandidaat die:
 
-3. Hij, die ter vervulling eener buiten den bij den rooster bepaalden tijd opengevallen plaats, tot lid eener Kamer is verkozen, treedt af op het tijdstip, waarop degeen, in wiens plaats hij verkozen is, moet aftreden.
+- a. bij de laatste verkiezingen de meeste stemmen heeft behaald;
 
-4. De aftredende leden kunnen ten hoogste drie maal worden herbenoemd.
+- b. sinds de laatste verkiezingen nog geen lid van het bestuur is geweest;
 
-5. De rooster van aftreden bedoeld in het 2de lid van dit artikel, door de Kamer voor het eerst na toelating der voor de eerste maal gekozen nieuwe leden der Kamer vastgesteld, zal voor Bonaire, Sint Eustatius of Saba een voortzetting zijn van de ten tijde van het in werking treden dezer wet bestaande rooster, met dien verstande dat de onderlinge plaatsing der nieuwe leden bij het lot zal geschieden.
+- c. instemt met het lidmaatschap; en
 
-6. Voor de verkiezingen in het jaar 2011 en 2012 kan worden afgeweken van het eerste en tweede lid, op bij algemene maatregel van bestuur vast te stellen wijze.
+- d. in het geval het de Kamer voor Sint Eustatius en Saba betreft, is ingeschreven in het bevolkingsregister van een openbaar lichaam waar ook een van de afgetreden en nog niet vervangen bestuursleden was ingeschreven, met inachtneming van het vereiste, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2022-01-01&g=2022-01-01).
+
+4. Indien twee kandidaten die op grond van het derde lid in aanmerking zouden komen voor een plaats in het bestuur een gelijk aantal stemmen hebben behaald, dan beslist het lot.
+
+5. Indien er minder dan drie bestuursleden zijn, en het bestuur niet aangevuld kan worden overeenkomstig het derde lid, wordt op voordracht van de overige bestuursleden een bestuurslid benoemd door het Bestuurscollege van het openbaar lichaam waar het voorgedragen bestuurslid staat ingeschreven in het bevolkingsregister. Benoeming geschiedt alleen indien het voorgedragen bestuurslid voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2022-01-01&g=2022-01-01) en instemt met het lidmaatschap.
+
+6. Het derde tot en met vijfde lid is van overeenkomstige toepassing als, in het geval het de Kamer van Sint Eustatius en Saba betreft, de ondernemingen of rechtspersonen van één van de twee openbare lichamen geen bestuurslid hebben dat hen vertegenwoordigt.
+
+7. Onverminderd het derde lid, kan het bestuur overeenkomstig het derde en vierde lid worden aangevuld, indien het bestuur uit drie of vier leden bestaat.
+
+8. Bij algemene maatregel van bestuur worden aanvullende regels gesteld met betrekking tot het tussentijds aftreden en aanvullen van bestuursleden.
 
 ##### Artikel 7
 
-1. De leden der Kamer kunnen te allen tijde hun ontslag nemen; het schriftelijk bericht daarvan wordt door hen opgezonden aan de kamer, die daarvan aan het Bestuurscollege, binnen wiens gebied de Kamer gevestigd is, bericht geeft.
-
-2. Zij verliezen van rechtswege hun lidmaatschap, zoodra zich eene der in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2019-01-01&g=2019-01-01), vermelde omstandigheden voordoet, die de verkiesbaarheid uitsluiten.
-
-3. Wanneer tusschen twee of meer leden van de Kamer de verboden verhouding bedoeld in het [tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2019-01-01&g=2019-01-01) ontstaat, verliest of verliezen het lid of de leden, die het laatst in die niet toegelaten betrekking is of zijn gekomen van rechtswege zijn of hun lidmaatschap.
-
-4. Voorts vervalt het lidmaatschap door het opgeven der vestiging als hoofdverblijf in het openbaar lichaam of door een afwezigheid daarvan langer dan 8 maanden.
+Vervallen
 
 ## Tijdperk der verkiezing
 
 ##### Artikel 8
 
-1. De Kamer stelt het tijdperk van elke verkiezing vast, en deelt dat mede aan het Bestuurscollege binnen wiens gebied zij gevestigd is. Tusschen deze mededeeling en den aanvangsdatum van dat tijdperk moet tenminste een maand verloopen.
+Vervallen
 
-2. Bij periodieke aftreding, ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=6&z=2019-01-01&g=2019-01-01), geschiedt deze mededeeling in de maand Augustus, voorafgaande aan de aftreding, en heeft de verkiezing plaats in de maand November of, indien omstandigheden zulks noodig maken, in de maand December daaropvolgend; bij het openvallen van plaatsen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=7&z=2019-01-01&g=2019-01-01) en in alle andere gevallen geschiedt deze mededeeling binnen één maand na het openvallen en heeft de verkiezing plaats binnen drie maanden na die mededeeling.
-
-3. Voor de verkiezingen in het jaar 2011 geldt dat de mededeling in de maand oktober geschiedt.
-
-## Verkiezingscommissie
+## Tijdperk der verkiezing
 
 ##### Artikel 9
 
-1. Voor de verkiezing van leden van de Kamer van Koophandel en Nijverheid is eene commissie gevestigd in elk openbaar lichaam, waar eene kamer haren zetel heeft, hierna te noemen Verkiezingscommissie.
+1. Er is een verkiezingscommissie die verantwoordelijk is voor de verkiezingsprocedure en tot taak heeft toezicht te houden op de verkiezingen.
 
-2. Elke verkiezingscommissie bestaat uit een voorzitter, twee leden en drie plaatsvervangende leden welke voor een kalenderjaar uit de kiesgerechtigden voor de Kamer door het Bestuurscollege worden benoemd. Als secretaris treedt op de secretaris van de Kamer.
+2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de samenstelling van de verkiezingscommissie en de uitoefening van haar werkzaamheden.
 
-3. De Kamer stelt een lokaal beschikbaar voor de zitting van de Verkiezings-commissie en zorgt voor de inrichting van dat lokaal.
-
-4. De verkiezingscommissie voor de Kamer van Sint Eustatius en Saba behoeft tevens de instemming van het bestuurscollege van Saba.
-
-## Wijze van verkiezing
+## Verkiezingscommissie
 
 ##### Artikel 10
 
-1. De verkiezing geschiedt op de wijze als voorgeschreven is in het reglement bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2019-01-01&g=2019-01-01).
+Vervallen
 
-2. Het tijdstip en de wijze van indiening van – en de beslissing op de bezwaren tegen eene verkiezing, alsmede omtrent afgifte, onderzoek en beslissing over geloofsbrieven en indiening van – en beslissing op bezwaren tegen beslissing te dier zake worden tevens in dat reglement vastgesteld.
-
-## Bevoegdheden en verplichtingen der Kamers
+## Wijze van verkiezing
 
 ##### Artikel 11
 
-1. De Kamers zijn verplicht aan het Bestuurscollege binnen wiens gebied zij gevestigd zijn, adviezen of inlichtingen te geven over die aangelegenheden van handel en nijverheid, waarover door het Bestuurscollege haar oordeel of inlichtingen gevraagd worden.
-
-2. Zij kunnen ook uit eigen beweging aan het Bestuurscollege binnen wiens gebied zij gevestigd zijn, zoodanige adviezen of inlichtingen geven, en verzoeken of voorstellen doen.
+De Kamers geven aan Onze Minister en aan het Bestuurscollege, van het gebied waarbinnen zij gevestigd zijn, gevraagd en ongevraagd adviezen of inlichtingen.
 
 ##### Artikel 12
 
-De Kamers zijn verplicht de functie te verrichten, welke haar door wet of besluiten zijn opgedragen.
+1. De Kamers hebben tot taak:
+
+- a. het stimuleren van economische ontwikkelingen in hun gebied door middel van het bevorderen van onderzoeken en van overleg- en samenwerkingsvormen die de economische belangen van handel en nijverheid in hun gebied betreffen;
+
+- b. het verstrekken van inlichtingen van algemene aard over het oprichten en drijven van een onderneming in hun gebied, waaronder juridische en economische voorlichting.
+
+2. De Kamers kunnen de volgende taken uitvoeren:
+
+- a. het afgeven van verklaringen ten dienste van de handel en nijverheid;
+
+- b. het legaliseren van handtekeningen van personen die een onderneming of rechtspersoon in het handelsregister hebben ingeschreven;
+
+- c. het in depot nemen van algemene voorwaarden en het verstrekken van informatie daarover als bedoeld in [artikel 234, eerste lid, onderdeel b, van Boek 6 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=234);
+
+- d. het uitvoeren van het hun opgedragen beheer over inrichtingen ten dienste van handel en nijverheid.
+
+3. De Kamers brengen de integrale kosten die samenhangen met het verrichten van de in het tweede lid vermelde werkzaamheden in rekening en laste van degene voor wie deze werkzaamheden zijn verricht.
+
+4. De bedragen ter vergoeding van de integrale kosten die samenhangen met het verrichten van de taken, bedoeld in het tweede lid, onderdelen a, b en c, worden bij ministeriële regeling vastgesteld.
+
+5. De bedragen ter vergoeding van de kosten die samenhangen met het verrichten van de taken, bedoeld in het tweede lid, onderdeel d, kunnen bij ministeriële regeling worden vastgesteld.
 
 ##### Artikel 13
 
-1. De Kamers zijn bevoegd tot:
-
-- a. het verleenen van subsidies aan instellingen, die een algemeen belang van handel en nijverheid bevorderen;
-
-- b. het zich belasten met het haar opgedragen beheer over al of niet door het Openbaar gezag in het leven geroepen inrichtingen ten dienste van handel en nijverheid;
-
-- c. het afgeven van verklaringen ten dienste van het handelsverkeer, zooals verklaringen omtrent het bestaan en den aard van handelsrecht in haar gebied;
-
-- d. het legaliseeren van handteekeningen, die in het handelsregister zijn ingeschreven;
-
-- e. het heffen van gelden voor het gebruik van bij haar in beheer zijnde inrichtingen en van retributies voor door haar aan belanghebbenden bewezen diensten of voor hen verrichte werkzaamheden;
-
-- f. het verzamelen van statische gegevens;
-
-- g. het verrichten van al hetgeen bevorderlijk kan zijn voor de belangen van handel en nijverheid.
-
-2. Zij kunnen van de overheid mededeelingen bekomen van de voor hare verslagen en verzamelingen van statische gegevens benoodigde opgaven volgens door het Bestuurscollege te geven voorschriften en behoudens de gevallen, waarin deze geheimhouding noodig acht.
+De Kamers kunnen aan instellingen die een algemeen belang van handel en nijverheid bevorderen subsidie verlenen.
 
 ##### Artikel 14
 
-De kamers geven sturing aan één uitvoeringsorganisatie welke is gevestigd op Bonaire waar ook voor Bonaire een publiekskantoor is. Daarnaast is er zowel op Sint Eustatius als op Saba een publiekskantoor. Het publiekskantoor krijgt ondersteuning vanuit de uitvoeringsorganisatie bij de taakuitvoering.
+De Kamer voor Bonaire heeft een vestiging op Bonaire. De Kamer voor Sint Eustatius en Saba heeft vestigingen op Sint Eustatius en Saba.
 
 ##### Artikel 15
 
-1. Elke Kamer kiest in de eerste vergadering van elk kalenderjaar uit hare leden een voorzitter en een ondervoorzitter.
+1. Het bestuur van een Kamer staat aan het hoofd van de Kamer.
 
-2. Bij ontstentenis van den Voorzitter treedt de Ondervoorzitter als zoodanig op. En bij ontstentenis ook van dezen laatste treedt als Voorzitter op het lid, dat in een onafgebroken reeks van perioden het langst lid van de Kamer is.
+2. Het bestuur benoemt uit zijn midden een voorzitter, een plaatsvervangend voorzitter en een penningmeester.
 
-3. De voorzitter vertegenwoordigt de Kamer in rechten.
+3. De bestuursleden hebben elk gelijk stemrecht. Indien het bestuur bestaat uit een even aantal bestuursleden en de stemmen staken bij enig onderwerp, is de stem van de voorzitter doorslaggevend.
+
+4. De bestuursleden hebben op persoonlijke titel zitting in het bestuur en oefenen hun functie uit zonder last of ruggespraak.
 
 ##### Artikel 16
 
-1. Elke Kamer benoemt een Secretaris en een Penningmeester. Deze betrekkingen kunnen door één persoon worden waargenomen. Hunne salarissen worden jaarlijks door de Kamer vastgesteld.
+1. Het bestuur benoemt en ontslaat de secretaris.
 
-2. De Secretaris en de Penningmeester behoeven geen lid der Kamer te zijn. Indien de Secretaris geen lid der Kamer is, heeft hij een raadgevende stem in hare vergaderingen.
+2. De secretaris is het hoofd van het overige personeel en benoemt en ontslaat dat personeel.
 
-3. De Secretaris en de Penningmeester kunnen door de Kamer worden ontslagen.
+3. De secretaris heeft in bestuursvergaderingen een raadgevende stem.
 
-4. Het verder noodige personeel wordt eveneens door de Kamer benoemd en ontslagen. De salarissen van dit personeel worden door de Kamer jaarlijks vastgesteld.
+4. Het bestuur stelt de salarissen van de secretaris en het overige personeel vast.
 
-## Vergaderingen
+## Vestiging, bestuur en personeel van de Kamers
 
 ##### Artikel 17
 
-1. De vergaderingen zijn toegankelijk voor de kiezers. In gevallen ter beoordeeling van den voorzitter of van de meerderheid der Kamer, kunnen geheime vergaderingen worden gehouden.
-
-2. De Kamer kan personen, niet lid der Kamer zijnde, verzoeken haar tijdens de vergaderingen van voorlichting te dienen.
+De vergaderingen zijn toegankelijk voor de kiezers. Wanneer de voorzitter of de meerderheid van de bestuursleden dat nodig vindt, wordt een besloten vergadering gehouden.
 
 ## Reglement van orde
 
 ##### Artikel 18
 
-Elke Kamer stelt een reglement van orde vast ter regeling van haren inwendigen dienst. Dat reglement en de later daarin te brengen wijzigingen behoeven alvorens van kracht te zijn de goedkeuring van het Bestuurscollege.
+Vervallen
 
 ## Geldmiddelen
 
 ##### Artikel 19
 
-1. De kosten van elke Kamer worden bestreden uit de gelden en retributies bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=13&z=2019-01-01&g=2019-01-01), alsmede uit hare overige inkomsten.
+De baten van de Kamer bestaan uit:
 
-2. Het comptabel toezicht op het geldelijk beheer der Kamers wordt bij huishoudelijk reglement geregeld.
+- a. de opbrengsten uit de krachtens [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=12&z=2022-01-01&g=2022-01-01), ontvangen vergoedingen;
 
-## Verslag
+- b. de opbrengsten uit vergoedingen voor andere bij of krachtens de wet aan de Kamer opgedragen taken;
+
+- c. de opbrengsten uit andere werkzaamheden en uit samenwerking met derden;
+
+- d. het heffen van gelden voor het gebruik van bij haar in beheer zijnde inrichtingen; en
+
+- e. andere baten voor bij of krachtens de wet aan de Kamer opgedragen taken of voor de bedrijfsvoering van de Kamers.
+
+## Vergaderingen
 
 ##### Artikel 20
 
-Elke Kamer brengt jaarlijks een verslag uit van haar handelingen in het voorafgaande kalenderjaar en over den toestand in dit tijdvak van handel en nijverheid in haar gebied. Het Bestuurscollege, binnen wiens gebied een Kamer gevestigd is, ontvangt een exemplaar van dat verslag.
+1. Elke Kamer brengt jaarlijks een verslag uit van haar handelingen in het voorafgaande kalenderjaar en over de toestand van handel en nijverheid in dit jaar in haar gebied.
 
-## Toezicht van het bestuur
+2. In het verslag rapporteert de Kamer over de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=13a&z=2022-01-01&g=2022-01-01).
+
+3. Onze Minister en het Bestuurscollege, van het openbaar lichaam waar de Kamer op ziet, ontvangen vóór 1 mei van het jaar, dat volgt op het kalenderjaar waarop het verslag betrekking heeft, een exemplaar van het verslag.
+
+## Reglement van orde
 
 ##### Artikel 21
 
-1. Aan de goedkeuring van het Bestuurscollege worden onderworpen de besluiten der Kamers betreffende:
+Aan de goedkeuring van het Bestuurscollege worden onderworpen de besluiten van het bestuur betreffende:
 
-- a. het verleenen van subsidies aan instellingen, die een algemeen belang van handel en nijverheid bevorderen;
+- a. het verlenen van subsidies aan instellingen, die een algemeen belang van handel en nijverheid bevorderen;
 
-- b. het zich belasten met het beheer van inrichtingen ten dienste van handel en nijverheid, welke niet door het openbaar gezag in het leven zijn geroepen;
+- b. het zich belasten met het beheer van inrichtingen ten dienste van handel en nijverheid, die niet door het openbaar gezag in het leven zijn geroepen;
 
 - c. het stichten van inrichtingen ten dienste van handel en nijverheid;
 
-- d. het koopen, verkoopen en bezwaren van onroerende zaken en de rechten waaraan deze zijn onderworpen.
-
-2. De Kamers geven aan het Bestuurscollege, binnen wiens gebied zij gevestigd zijn, alle gewenste inlichtingen omtrent haar werkzaamheden.
+- d. het kopen, verkopen en bezwaren van onroerende zaken en de rechten waaraan deze zijn onderworpen.
 
 ##### Artikel 22
 
-1. De besluiten der Kamers kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken en Klimaat worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, den duur daarvan bepaalt, en welk besluit bekend wordt gemaakt in de courant, waarin officieele stukken worden gepubliceerd.
+1. De besluiten van het bestuur kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken en Klimaat worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, de duur daarvan bepaalt, en dat bekend wordt gemaakt in de Staatscourant.
 
 2. Schorsing stuit onmiddellijk de werking van het geschorste besluit. Zij kan niet langer duren dan zes maanden. Besluiten, die geschorst zijn geweest, kunnen niet opnieuw geschorst worden.
 
-3. Vernietiging wegens strijd met wettelijke regelingen brengt mede vernietiging van alle gevolgen van het vernietigde besluit, voor zoover die voor vernietiging vatbaar zijn. Bij vernietiging wegens strijd met het algemeen belang kunnen niet met dat belang strijdige gevolgen in stand blijven.
+3. Vernietiging wegens strijd met wettelijke regelingen brengt vernietiging mee van alle gevolgen van het vernietigde besluit, voor zover die voor vernietiging vatbaar zijn. Bij vernietiging wegens strijd met het algemeen belang kunnen niet met dat belang strijdige gevolgen in stand blijven.
 
 4. Gedeeltelijke schorsing of vernietiging van een besluit heeft geen invloed op de geldigheid van het niet geschorste of niet-vernietigde deel van het besluit.
 
-5. Ingeval eene Kamer ernstig nalatig is in het naleven van haar ingevolge deze wet of andere wettelijke regelingen opgelegde verplichtingen, wordt daarin door de Rijksvertegenwoordiger voor de openbare lichamen ten koste van de nalatige Kamer voorzien. Deze voorziening brengt mede de bevoegdheid van de Rijksvertegenwoordiger voor de openbare lichamen om de noodige gelden uit de kas der Kamer te putten, alsmede om over de diensten van den Secretaris/Penningmeester der Kamer te beschikken, hem personeel toe te wijzen en hem bij gebleken ongeschiktheid of nalatigheid te ontslaan en in deze vervanging te voorzien.
+5. Ingeval het bestuur ernstig nalatig is in het naleven van verplichtingen die haar ingevolge deze wet of andere wettelijke regelingen zijn opgelegd, besluit de Rijksvertegenwoordiger daarin namens het bestuur te voorzien ten koste van de nalatige Kamer. Deze voorziening brengt de bevoegdheid van de Rijksvertegenwoordiger mee om de nodige gelden uit de kas van de Kamer te putten, alsmede om over de diensten van de secretaris van de Kamer te beschikken, hem personeel toe te wijzen en hem bij gebleken ongeschiktheid of nalatigheid te ontslaan en in zijn vervanging te voorzien.
 
 ##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet op de Kamers van Koophandel en Nijverheid BES.
+
+##### Artikel 5a
+
+1. Indien het aantal kandidaten dat zich verkiesbaar stelt voor het bestuur van de Kamer voor Bonaire groter is dan vijf, vinden er verkiezingen plaats. Is het aantal kandidaten gelijk aan of kleiner dan vijf, treden alle kandidaten van rechtswege toe tot het bestuur.
+
+2. Indien het aantal kandidaten dat zich verkiesbaar stelt voor het bestuur van de Kamer voor Sint Eustatius en Saba in beide openbare lichamen groter is dan drie, kiezen vertegenwoordigers van ondernemingen en rechtspersonen die gevestigd zijn in het openbaar lichaam Sint Eustatius twee leden en kiezen de vertegenwoordigers van ondernemingen en rechtspersonen die gevestigd zijn in het openbaar lichaam Saba twee leden. Als vijfde lid van het bestuur wordt diegene gekozen die daarna de meeste stemmen heeft behaald, ongeacht de herkomst van die stemmen.
+
+3. Indien het aantal kandidaten dat zich verkiesbaar stelt voor het bestuur van de Kamer voor Sint Eustatius en Saba in geen van de openbare lichamen groter is dan drie, treden de kandidaten van rechtswege toe tot het bestuur.
+
+4. Indien het aantal kandidaten dat zich verkiesbaar stelt voor het bestuur van de Kamer voor Sint Eustatius en Saba in een van de twee openbare lichamen groter is dan drie en in het andere openbare lichaam kleiner is dan drie, vinden er verkiezingen plaats voor de leden in het openbaar lichaam waarin meer dan drie leden zich verkiesbaar hebben gesteld en treedt de kandidaat of treden de kandidaten in het andere openbare lichaam van rechtswege toe tot het bestuur.
+
+5. Bij algemene maatregel van bestuur worden nadere regels gesteld over de procedure van de verkiezing van de bestuursleden van de Kamers.
+
+## Zittingsduur en aanvulling van het bestuur
+
+## Bevoegdheden en taken van de Kamers
+
+##### Artikel 13a
+
+1. De Kamers verrichten, met de baten, bedoeld in [artikel 19, onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=19&z=2022-01-01&g=2022-01-01), geen activiteiten waarmee zij rechtstreeks concurreren met ondernemingen of vrije beroepsbeoefenaren.
+
+2. De Kamers dragen er zorg voor dat hun werkzaamheden niet leiden tot het verhinderen, beperken of vervalsen van de mededinging tussen ondernemingen of vrije beroepsbeoefenaren.
+
+##### Artikel 15a
+
+Een bestuurslid vervult geen functies die ongewenst zijn met het oog op de goede vervulling van zijn functie als bestuurslid of van zijn onafhankelijkheid of het vertrouwen daarin.
+
+##### Artikel 15b
+
+1. Het bestuur draagt zorg voor de uitvoering van de taken van de Kamer.
+
+2. Het bestuur stelt een bestuursreglement vast, waarin in elk geval regels worden gesteld over:
+
+- a. de wijze waarop beslissingen van het bestuur worden voorbereid, genomen en uitgevoerd, en
+
+- b. de taak en bevoegdheden van de bestuursleden en de secretaris.
+
+3. De voorzitter vertegenwoordigt de Kamer in rechte.
+
+4. De voorzitter en de secretaris vertegenwoordigen bij de uitvoering van bestuursbesluiten gezamenlijk de Kamer buiten rechte.
+
+## Geldmiddelen
+
+## Verslag
+
+## Toezicht
+
+## Financieel toezicht
+
+##### Artikel 22a
+
+1. Het bestuur stelt de begroting en het jaarplan vast en zendt deze aan het Bestuurscollege van het desbetreffende openbaar lichaam en aan Onze Minister vóór 1 november van het jaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft.
+
+2. Het bestuur stelt de jaarrekening vast en zendt deze, tegelijkertijd met het jaarverslag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=20&z=2022-01-01&g=2022-01-01), aan het Bestuurscollege van het desbetreffende openbaar lichaam en aan Onze Minister vóór 1 mei van het jaar dat volgt op het kalenderjaar waarop de jaarrekening betrekking heeft.
+
+##### Artikel 22b
+
+1. De jaarrekening, waarin rekening en verantwoording wordt afgelegd over het financieel beheer en van de geleverde prestaties in het verstreken boekjaar, wordt zoveel mogelijk met overeenkomstige toepassing van [artikel 15 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=15) ingericht.
+
+2. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Kamer aangewezen deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121). Bij de aanwijzing van de accountant bedingt een Kamer dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.
+
+3. De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door een Kamer.
+
+4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van een Kamer voldoen aan de eisen van doelmatigheid.
+
+##### Artikel 22c
+
+Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de inrichting van en de toelichting op de begroting en de jaarrekening, omtrent eisen met betrekking tot de hoogte en samenstelling van het eigen vermogen en omtrent aandachtspunten voor de accountantscontrole.
