@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2021-10-21"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** bevoegd gezag dat bij de minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school;
+- **aanvrager:** bevoegd gezag dat bij de Minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school;
 
 - **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 124a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a);
 
@@ -54,13 +54,45 @@ In deze regeling wordt verstaan onder:
 
 - **bijzondere school:** bijzondere school als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
+- **CAPE:** Caribbean Advanced Proficiency Examination als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
+
+- **CSEC:** Caribbean Secondary Education Certificate als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
+
+- **CVQ:** Caribbean Vocational Qualification als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
+
 - **DUO:** Dienst Uitvoering Onderwijs;
 
 - **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
 
+- **kalenderjaar waarin de school volgroeid is:**
+
+- a. wat betreft een school voor vbo of mavo: het vierde kalenderjaar na het jaar dat de school voor bekostiging in aanmerking is gebracht;
+
+- b. wat betreft een school voor havo: het vijfde kalenderjaar na het jaar dat de school voor bekostiging in aanmerking is gebracht;
+
+- c. wat betreft een school voor vwo: het zesde kalenderjaar na het jaar dat de school voor bekostiging in aanmerking is gebracht;
+
+- d. wat betreft een school voor praktijkonderwijs: het vijfde kalenderjaar na het jaar dat de school voor bekostiging in aanmerking is gebracht;
+
+- e. wat betreft een scholengemeenschap op Saba of St. Eustatius die CVQ, CSCEC of CAPE aanbiedt: het vijfde kalenderjaar dat de school bekostigd wordt.
+
 - **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+
+- **nieuwe school:** school of scholengemeenschap als bedoeld in [artikel 120, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120), niet zijnde een school als bedoeld in [artikel 121, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=121);
+
+- **schooljaar waarin de school volgroeid is:**
+
+- a. wat betreft een school voor vbo of mavo: het vierde schooljaar dat de school bekostigd wordt;
+
+- b. wat betreft een school voor havo: het vijfde schooljaar dat de school bekostigd wordt;
+
+- c. wat betreft een school voor vwo: het zesde schooljaar dat de school bekostigd wordt;
+
+- d. wat betreft een school voor praktijkonderwijs: het vijfde schooljaar dat de school bekostigd wordt;
+
+- e. wat betreft een scholengemeenschap op Saba of St. Eustatius die CVQ, CSCEC of CAPE aanbiedt: het vijfde schooljaar dat de school bekostigd wordt.
 
 - **Rijksvertegenwoordiger:** Rijksvertegenwoordiger als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
@@ -126,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2021-10-21&g=2021-10-21).
+Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
@@ -196,7 +228,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 124, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2021-10-21&g=2021-10-21), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
@@ -248,11 +280,11 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 10. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 124a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 124a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -260,7 +292,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 124a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
 
-7. Vanaf 29 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 ##### Artikel 11. Uitzonderingssituaties toepassing marktonderzoek
 
@@ -324,43 +356,39 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 16. Startbekostiging nieuwe school of scholengemeenschap
 
-1. Voorafgaand aan de feitelijke start per 1 augustus verstrekt de minister een nieuwe school of scholengemeenschap op aanvraag eenmalig een bekostiging voor personeelskosten overeenkomstig het vijfde lid.
+1. Voorafgaand aan de feitelijke start van een nieuwe school per 1 augustus van het eerste schooljaar verstrekt de Minister aan de nieuwe school eenmalig een startbekostiging ter hoogte van de helft van het bedrag per school, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
 
-2. Voorafgaand aan de feitelijke start per 1 augustus verleent de minister op aanvraag eenmalig een bekostiging voor exploitatiekosten ter hoogte van een derde van het jaarbedrag voor deze kosten op basis van de prognose van het aantal leerlingen in het eerste schooljaar. De in de vorige volzin bedoelde bekostiging wordt vastgesteld in december van het eerste schooljaar op basis van het werkelijke aantal leerlingen op 1 oktober.
+2. De startbekostiging wordt verstrekt nadat het bevoegd gezag van de school de prognose van het aantal leerlingen op 1 oktober van het eerste schooljaar heeft ingediend bij de Minister.
 
-3. De startbekostiging, bedoeld in het eerste en tweede lid, wordt verstrekt nadat het bevoegd gezag van de school de prognose van het aantal leerlingen op 1 oktober van het eerste schooljaar heeft ingediend bij de minister.
+3. De prognose wordt ingediend nadat de goedkeuring voor de start van de nieuwe school is verleend in het kader van de voorzieningenplanning. De Minister verstrekt aan het bevoegd gezag van de school een beschikking waarin de startbekostiging is vermeld.
 
-4. De in het derde lid vermelde prognose wordt ingediend nadat de nieuwe school voor bekostiging in aanmerking is gebracht.
-
-5. De bekostiging voor de personeelskosten bedraagt in USD:
-
-| Schoolsoort | Directie | Onderwijsondersteunend personeel (oop) | Totaal |
-| --- | --- | --- | --- |
-| A. Categoraal mavo en praktijkonderwijs | 16042.82 | 8397.11 | 24439.93 |
-| B. Categoraal, vwo, havo en scholengemeenschap vwo/havo | 19147.23 | 8397.11 | 27544.34 |
-| C. Categoraal vbo en scholengemeenschap mavo/vbo | 24064.22 | 12595.67 | 36659.89 |
-| D. Scholengemeenschap havo/mavo al dan niet met vwo | 37855.71 | 16794.22 | 54649.93 |
-| E. Scholengemeenschap mavo/havo/vbo al dan niet met vwo | 46001.10 | 20992.78 | 66993.88 |
-
-6. De bedragen, genoemd in het vijfde lid, worden jaarlijks geïndexeerd.
+4. De Minister betaalt de startbekostiging in de maand mei.
 
 ##### Artikel 17. Aanvullende bekostiging nieuwe school eerste schooljaar
 
-1. De minister verleent een nieuwe school op aanvraag personele en materiële bekostiging over de eerste vijf maanden van het eerste schooljaar op basis van de prognose van het aantal leerlingen op 1 oktober van het eerste schooljaar. Deze bekostiging wordt vastgesteld in december van het eerste schooljaar op basis van het werkelijk aantal leerlingen op 1 oktober van dat kalenderjaar.
+1. De Minister verstrekt aan een nieuwe school ambtshalve aanvullende bekostiging over de eerste vijf maanden van het eerste schooljaar. De bekostiging wordt berekend op basis van de prognose van het aantal leerlingen per 1 oktober volgend op de feitelijke start per 1 augustus van het eerste schooljaar.
 
-2. De minister verstrekt in het eerste schooljaar eenmalig een aanvullende bekostiging ten bedrage van eenmaal de landelijk gemiddelde personeelslast die op 1 augustus van dat kalenderjaar geldt voor leraren van de schoolsoortgroep waartoe de school behoort. Deze aanvullende bekostiging wordt in een keer in de maand augustus van het eerste schooljaar uitbetaald.
+2. De aanvullende bekostiging bestaat uit:
 
-##### Artikel 18. Aanvullende bekostiging nieuwe school in tweede en volgende schooljaar
+- a. het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8); en
 
-1. Het bevoegd gezag van de nieuwe school kan vanwege leerlingengroei een aanvraag indienen voor een aanvullende bekostiging als bedoeld in [artikel 155, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=155).
+- b. per geprognosticeerde leerling 5/12de van het bedrag als bedoeld in [artikel 8, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
 
-2. De leerlingengroei wordt vastgesteld door het verschil te berekenen tussen het aantal geprognosticeerde leerlingen in het lopende schooljaar en het aantal leerlingen op 1 oktober van het daaraan voorafgaande kalenderjaar.
+3. De Minister betaalt de aanvullende bekostiging, bedoeld in het eerste lid, in vijf gelijke termijnen.
 
-3. De aanvullende bekostiging wordt berekend door het verschil, bedoeld in het tweede lid, te vermenigvuldigen met een bedrag per leerling. Het product wordt vervolgens vermenigvuldigd met 32%. De in de vorige volzin bedoelde bekostiging wordt vastgesteld in december van het lopende schooljaar op basis van het werkelijke aantal leerlingen op 1 oktober.
+4. De aanvullende bekostiging wordt in december van het eerste schooljaar gewijzigd vastgesteld op basis van de voorlopige telling van het werkelijk aantal leerlingen op 1 oktober en uiterlijk in de maand december van het tweede schooljaar nader gewijzigd vastgesteld op basis van het door de accountant goedgekeurde aantal leerlingen dat op 1 oktober in het eerste schooljaar stond ingeschreven bij de school.
 
-4. De in het eerste lid genoemde aanvraag kan betrekking hebben op het tweede schooljaar of daaropvolgende schooljaren tot en met het schooljaar waarin aan de school onderwijs wordt gegeven in alle leerjaren van de toegestane schoolsoorten.
+##### Artikel 18. Aanvullende bekostiging nieuwe school vanaf het eerste kalenderjaar na start
 
-5. De aanvullende bekostiging wordt slechts verleend indien de financiële positie van het bevoegd gezag van de nieuwe school daartoe blijkens de jaarrekening over het voorafgaande kalenderjaar aanleiding geeft.
+1. De Minister verstrekt aan een nieuwe school in het eerste kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van 1,5 maal het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+
+2. De Minister verstrekt aan een nieuwe school in het tweede kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+
+3. De Minister verstrekt aan een nieuwe school vanaf het derde kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, tot en met het kalenderjaar waarin de school volgroeid is ambtshalve een aanvullende bekostiging ter hoogte van de helft van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+
+4. De Minister betaalt de aanvullende bekostiging, bedoeld in het eerste, tweede en derde lid, in de maand augustus.
+
+5. De aanvullende bekostiging, bedoeld in het eerste en tweede lid, wordt in december van het lopende schooljaar gewijzigd vastgesteld op basis van de voorlopige telling van het werkelijk aantal leerlingen op 1 oktober en uiterlijk in de maand december van het daaropvolgende schooljaar nader gewijzigd vastgesteld op basis van het door de accountant goedgekeurde aantal leerlingen dat op 1 oktober in het voorafgaande schooljaar stond ingeschreven bij de school.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -375,5 +403,19 @@ Deze regeling treedt in werking met ingang van 1 november 2020.
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning vo CN 2020.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 18a. Aanvraag aanvullende bekostiging voor leerlingengroei nieuwe school tweede en volgende schooljaar
+
+1. Een bevoegd gezag van een nieuwe school kan vanaf het tweede schooljaar tot en met het schooljaar waarin de school volgroeid is op grond van [artikel 156 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=156) een aanvraag indienen voor aanvullende bekostiging vanwege leerlingengroei. De aanvraag wordt ingediend in het kalenderjaar waarin de leerlingengroei zich voordoet.
+
+2. De leerlingengroei wordt vastgesteld door het verschil te berekenen tussen het aantal geprognosticeerde leerlingen in het lopende schooljaar en het aantal leerlingen op 1 oktober van het kalenderjaar t-1.
+
+3. De aanvullende bekostiging wordt vastgesteld door de leerlingengroei te vermenigvuldigen met het bedrag per leerling, bedoeld in [artikel 8, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8). De uitkomst wordt vervolgens vermenigvuldigd met 5/12de.
+
+4. De aanvullende bekostiging wordt in december van het lopende schooljaar gewijzigd vastgesteld op basis van de voorlopige telling van het werkelijk aantal leerlingen op 1 oktober en uiterlijk in de maand december van het daaropvolgende schooljaar nader gewijzigd vastgesteld op basis van het door de accountant goedgekeurde aantal leerlingen dat op 1 oktober in het voorafgaande schooljaar staat ingeschreven bij de school.
+
+### Hoofdstuk 3. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
