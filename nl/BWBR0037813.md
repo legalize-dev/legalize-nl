@@ -4,7 +4,7 @@ identifier: "BWBR0037813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037813"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **CBS:** Centraal Bureau voor de Statistiek;
 
-- b. **KWI:** Kennisplatform Werk en Inkomen, waarin het UWV, de SVB, de gemeenten Amsterdam en Amersfoort, Divosa, het SCP, de Minister van Sociale Zaken en Werkgelegenheid en de Inspectie SZW met elkaar samenwerken in de kennisontwikkeling op het gebied van werk en inkomen, met het CBS als adviserend lid;
+- b. **KWI:** Kennisplatform Werk en Inkomen, waarin het UWV, de SVB, de gemeenten Amsterdam en Amersfoort, Divosa, het SCP, de Minister van Sociale Zaken en Werkgelegenheid en de Nederlandse Arbeidsinspectie met elkaar samenwerken in de kennisontwikkeling op het gebied van werk en inkomen, met het CBS als adviserend lid;
 
 - c. **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **SCP:** Sociaal en Cultureel Planbureau;
 
-- g. **stuurgroep:** de stuurgroep van het KWI, bestaande uit de Secretaris-Generaal van het Ministerie van Sociale Zaken en Werkgelegenheid, de Inspecteur-Generaal van de Inspectie SZW, de voorzitter van de raad van bestuur van het UWV, de directeur van het SCP, de voorzitter van de raad van bestuur van de SVB en de voorzitter van Divosa;
+- g. **stuurgroep:** de stuurgroep van het KWI, bestaande uit de Secretaris-Generaal van het Ministerie van Sociale Zaken en Werkgelegenheid, de Inspecteur-Generaal van de Nederlandse Arbeidsinspectie, de voorzitter van de raad van bestuur van het UWV, de directeur van het SCP, de voorzitter van de raad van bestuur van de SVB en de voorzitter van Divosa;
 
 - h. **SVB:** Sociale verzekeringsbank.
 
@@ -82,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 - e. in samenwerking met de overige stuurgroepleden een inhoudelijke bijdrage leveren aan de kennisuitwisseling met en door de stuurgroep over actuele kennisrelevante onderwerpen.
 
-2. De voorzitter heeft eveneens tot taak de organisatie van een 2-jaarlijks congres door de leden van het KWI te coördineren. De voorzitter draagt daarbij in samenwerking met de overige organisaties, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=1&z=2021-01-01&g=2021-01-01), zorg voor het bepalen van de doelgroep, de vaststelling van het onderwerp en nodigt hiertoe sprekers uit. Het secretariaat, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=4&z=2021-01-01&g=2021-01-01), draagt zorg voor de organisatie en het budgetbeheer van het congres. De voorzitter stemt de inhoud en budget vooraf af met de stuurgroep.
+2. De voorzitter heeft eveneens tot taak de organisatie van een 2-jaarlijks congres door de leden van het KWI te coördineren. De voorzitter draagt daarbij in samenwerking met de overige organisaties, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=1&z=2022-01-01&g=2022-01-01), zorg voor het bepalen van de doelgroep, de vaststelling van het onderwerp en nodigt hiertoe sprekers uit. Het secretariaat, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=4&z=2022-01-01&g=2022-01-01), draagt zorg voor de organisatie en het budgetbeheer van het congres. De voorzitter stemt de inhoud en budget vooraf af met de stuurgroep.
 
 3. De voorzitter neemt deel aan de adviesraad van het kennisprogramma ‘Vakkundig aan het werk’ voor de uitvoeringpraktijk van gemeenten.
 
 ##### Artikel 4. Secretariaat KWI
 
-1. In het secretariaat wordt voorzien door het Ministerie van Sociale Zaken en Werkgelegenheid, de Inspectie SZW en het UWV.
+1. In het secretariaat wordt voorzien door het Ministerie van Sociale Zaken en Werkgelegenheid, de Nederlandse Arbeidsinspectie en het UWV.
 
 2. De werkwijze van het secretariaat wordt door de voorzitter en het secretariaat KWI gezamenlijk bepaald.
 
