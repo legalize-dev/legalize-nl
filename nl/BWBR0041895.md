@@ -4,7 +4,7 @@ identifier: "BWBR0041895"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041895"
 soort: "AMvB"
@@ -52,13 +52,15 @@ Hebben goedgevonden en verstaan:
 
 - **aangiftetijdvak:** tijdvak van vier weken of één maand waarop de aangifte op basis waarvan de ingehouden loonbelasting wordt afgedragen betrekking heeft of, als de inhoudingsplichtige over een afwijkend tijdvak aangifte doet, het tijdvak waarover loon is betaald herleid tot één maand;
 
+- **arbeidsvoorwaardenbedrag:** het aan de werknemer toegekende en in geld uitgedrukte toekomstige loonbestanddeel, niet zijnde een afzonderlijke opbouw van vakantiebijslag, dat is opgebouwd ingevolge afspraken in de individuele of collectieve arbeidsovereenkomst, voor zover dit toekomstige loonbestanddeel kan leiden tot loon als bedoeld in [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16);
+
 - **inkomstenverhouding:** rechtsverhouding waaraan een vordering tot periodieke betaling is verbonden als bedoeld in [artikel 475c, eerste lid, onderdelen a tot en met i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c);
 
 - **loon LB/PH:** inkomen waarover de loonbelasting en premie volksverzekeringen wordt berekend voor het aangiftetijdvak;
 
 - **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+- **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
 - **wet:** [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
 
@@ -70,9 +72,9 @@ Hebben goedgevonden en verstaan:
 
 2. Het loon LB/PH wordt:
 
-- a. verminderd met een binnen het aangiftetijdvak uitbetaalde vakantiebijslag of extra periode salaris; en
+- a. verminderd met een binnen het aangiftetijdvak uitbetaalde vakantiebijslag of een uitbetaald bedrag ten laste van een arbeidsvoorwaardenbedrag; en
 
-- b. vermeerderd met een reservering in verband met vakantiebijslag of extra periode salaris binnen het aangiftetijdvak.
+- b. vermeerderd met een reservering in verband met vakantiebijslag of opbouw ten behoeve van een arbeidsvoorwaardenbedrag binnen het aangiftetijdvak.
 
 3. Als het aangiftetijdvak niet gelijk is aan een maand, wordt de uitkomst naar een maandinkomen herleid.
 
@@ -104,9 +106,9 @@ Hebben goedgevonden en verstaan:
 
 1. De hoogte van het in mindering te brengen bedrag, bedoeld in [artikel 475db, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475db) wordt berekend op basis van het loon LB/PH, de ingehouden inkomensafhankelijke bijdrage zoals bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de ingehouden loonbelasting en premie volksverzekeringen in het aangiftetijdvak.
 
-2. De hoogte van het bedrag is gelijk aan het loon LB/PH, waarop van een uitbetaald recht op vakantiebijslag of extra periode salaris, de ingehouden inkomensafhankelijke bijdrage zoals bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de ingehouden loonbelasting en premie volksverzekeringen in mindering zijn gebracht.
+2. De hoogte van het bedrag is gelijk aan het loon LB/PH, waarop van een uitbetaald recht op vakantiebijslag of een uitbetaald bedrag ten laste van een arbeidsvoorwaardenbedrag, de ingehouden inkomensafhankelijke bijdrage zoals bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de ingehouden loonbelasting en premie volksverzekeringen in mindering zijn gebracht.
 
-3. Als het gemiddeld belastbaar maandinkomen wordt gebruikt voor de berekening van de beslagvrije voet, wordt de hoogte van het in mindering te brengen bedrag berekend op basis van het gemiddelde van het loon LB/PH, het gemiddelde van de ingehouden inkomensafhankelijke bijdrage, bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en het gemiddelde van de ingehouden loonbelasting en premie volksverzekeringen over de tijdvakken die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=3&z=2021-01-01&g=2021-01-01), worden betrokken.
+3. Als het gemiddeld belastbaar maandinkomen wordt gebruikt voor de berekening van de beslagvrije voet, wordt de hoogte van het in mindering te brengen bedrag berekend op basis van het gemiddelde van het loon LB/PH, het gemiddelde van de ingehouden inkomensafhankelijke bijdrage, bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en het gemiddelde van de ingehouden loonbelasting en premie volksverzekeringen over de tijdvakken die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=3&z=2022-01-01&g=2022-01-01), worden betrokken.
 
 4. Als het aangiftetijdvak niet gelijk is aan een maand, wordt de uitkomst van het tweede of derde lid naar een maandinkomen herleid.
 
@@ -126,7 +128,7 @@ Hebben goedgevonden en verstaan:
 
 - c. een vermelding in hoeverre rekening is gehouden met niet onder beslag liggende neveninkomsten; en
 
-- d. een vermelding in hoeverre rekening is gehouden met een reeds gelegd beslag, reeds lopende verrekening dan wel een vordering als bedoeld in artikel 19 van de Invorderingswet 1990, een verhaal zonder dwangbevel op grond van [artikel 27 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) en [artikel 6:4:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) of een inhouding in verband met de inning van de bestuursrechtelijke premie als bedoeld in [artikel 18f van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f).
+- d. een vermelding in hoeverre rekening is gehouden met een reeds gelegd beslag, een reeds lopende verrekening, een vordering als bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) of een verhaal zonder dwangbevel op grond van [artikel 27 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) of [artikel 6:4:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6).
 
 2. Het model wordt vastgesteld bij ministeriële regeling.
 
@@ -164,15 +166,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 9. Ondersteuning door de beroepsorganisatie van gerechtsdeurwaarders
 
-1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8&z=2021-01-01&g=2021-01-01) is de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders belast met de ondersteuning, bedoeld in artikel 8, eerste en tweede lid, voor zover het de ondersteuning betreft van bij ministeriële regeling aangewezen partijen, en verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze ondersteuning.
+1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8&z=2022-01-01&g=2022-01-01) is de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders belast met de ondersteuning, bedoeld in artikel 8, eerste en tweede lid, voor zover het de ondersteuning betreft van bij ministeriële regeling aangewezen partijen, en verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze ondersteuning.
 
 2. De Stichting Netwerk Gerechtsdeurwaarders is verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming.
 
 3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-##### Artikel 10. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
+##### Artikel 10. Uitkeringen
 
-Wijzigt het Besluit Suwi.
+De uitkeringen, bedoeld in [artikel 475dc, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475dc), zijn:
+
+- a. algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), met uitzondering van algemene bijstand als bedoeld in [artikel 47a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a);
+
+- b. uitkeringen op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- c. uitkeringen op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -205,5 +213,17 @@ Zijn van de inkomstenverhouding(en) slechts twee aangiftetijdvakken bekend?
 ### Stap 5
 
 Wijkt – onder aftrek van de uitbetaalde vakantiebijslag of het extra periode salaris – het loon LB/PH van het voorlaatste beschikbare aangiftetijdvak minder dan 5% af van het loon LB/PH in de aan het voorlaatste aangiftetijdvak voorafgaande tijdvak?
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a. Overgangsbepaling
+
+1. Indien bij de berekening van het belastbaar inkomen in de indicatieperiode aangiftetijdvakken zijn gelegen van voor 1 januari 2022, is op die aangiftetijdvakken de tekst van dit besluit van toepassing, zoals dit luidde op de dag voor die datum.
+
+2. Dit artikel vervalt met ingang van 1 januari 2027.
+
+## Bijlage. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=2&z=2022-01-01&g=2022-01-01), van het Besluit beslagvrije voet
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
