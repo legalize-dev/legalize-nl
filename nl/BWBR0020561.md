@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,26 +54,26 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2021 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2022 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-| naam gemeente | aantal behandel- eenheden | maximum aantal behandelplaatsen | maximale uitkering 2021 |
+| naam gemeente | aantal behandeleenheden | maximum aantal behandelplaatsen | maximale uitkering 2022 |
 | --- | --- | --- | --- |
-| Amsterdam | 2 | 100 | 2.004.838 |
-| Apeldoorn | 1 | 20 | 579.439 |
-| Arnhem | 1 | 24 | 662.876 |
-| Den Haag | 1 | 65 | 1.251.575 |
-| Deventer | 1 | 20 | 579.439 |
-| Eindhoven | 1 | 20 | 579.439 |
-| Enschede | 1 | 25 | 683.735 |
-| Groningen | 1 | 37 | 890.013 |
-| Heerlen | 1 | 35 | 857.565 |
-| ’s-Hertogenbosch | 1 | 20 | 579.439 |
-| Leeuwarden | 1 | 30 | 776.446 |
-| Maastricht | 1 | 20 | 579.439 |
-| Nijmegen | 1 | 20 | 579.439 |
-| Rotterdam | 1 | 83 | 1.460.164 |
-| Tilburg | 1 | 20 | 579.439 |
-| Utrecht | 1 | 44 | 994.311 |
+| Amsterdam | 2 | 100 | € 2.037.076 |
+| Apeldoorn | 1 | 20 | € 588.756 |
+| Arnhem | 1 | 24 | € 673.535 |
+| Den Haag | 1 | 68 | € 1.307.024 |
+| Deventer | 1 | 20 | € 588.756 |
+| Eindhoven | 1 | 20 | € 588.756 |
+| Enschede | 1 | 25 | € 694.730 |
+| Groningen | 1 | 38 | € 920.809 |
+| Heerlen | 1 | 33 | € 838.385 |
+| ‘s-Hertogenbosch | 1 | 20 | € 588.756 |
+| Leeuwarden | 1 | 30 | € 788.931 |
+| Maastricht | 1 | 20 | € 588.756 |
+| Nijmegen | 1 | 22 | € 631.146 |
+| Rotterdam | 1 | 82 | € 1.471.869 |
+| Tilburg | 1 | 22 | € 631.146 |
+| Utrecht | 1 | 45 | € 1.024.429 |
 
 2. Onder kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -101,7 +101,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 - 8º. uiterlijk vijf jaar voor de aanvang van de heroïnebehandeling gedurende ten minste een maand dagelijks meer dan 50 mg methadon is toegediend indien het een patiënt betreft die de heroïne inhaleert of meer dan 60 mg methadon is toegediend indien het een patiënt betreft die de heroïne injecteert;
 
-- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in het Uitvoeringsprotocol Opiaatonderhoudsbehandelingen bij heroïneverslaving met medische heroïne, methadon en buprenorfine, versie 3 juli 2019.
+- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in de Handreiking Opiaatonderhoudsbehandeling bij heroïneverslaving met medische heroïne, methadon en buprenorfine, versie 4 mei 2021.
 
 - c. de kwaliteit van de heroïnebehandeling systematisch wordt bewaakt, beheerst en verbeterd;
 
@@ -165,7 +165,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2021-01-01&g=2021-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2022-01-01&g=2022-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 2. De specifieke uitkering wordt vastgesteld op een bedrag voor:
 
