@@ -4,7 +4,7 @@ identifier: "BWBR0043651"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043651"
 soort: "wet"
@@ -49,31 +49,7 @@ Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel II
 
-1. [Artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is, onverminderd [artikel 37 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), niet van toepassing op voor de datum van inwerkingtreding van dit artikel in het verkeer gebrachte:
-
-- a. landbouw- of bosbouwtrekkers;
-
-- b. motorrijtuigen met beperkte snelheid; en
-
-- c. aanhangwagens die uitsluitend bestemd zijn om te worden voortbewogen door landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid of mobiele machines.
-
-2. [Artikel 48, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) is niet van toepassing op voor de datum van inwerkingtreding van dit artikel in het verkeer gebrachte:
-
-- a. landbouw- of bosbouwtrekkers;
-
-- b. motorrijtuigen met beperkte snelheid; en
-
-- c. aanhangwagens die uitsluitend bestemd zijn om te worden voortbewogen door landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid of mobiele machines.
-
-3. [Artikel 50 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) is niet van toepassing op de eerste inschrijving en tenaamstelling van voor de datum van inwerkingtreding van dit artikel in het verkeer gebrachte:
-
-- a. landbouw- of bosbouwtrekkers;
-
-- b. motorrijtuigen met beperkte snelheid; en
-
-- c. aanhangwagens die uitsluitend bestemd zijn om te worden voortbewogen door landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid of mobiele machines.
-
-4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze van aanvragen van de eerste inschrijving en tenaamstelling van de voertuigen, bedoeld in het derde lid.
+Vervallen
 
 ##### Artikel III
 
@@ -101,7 +77,7 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel V
 
-Als personenauto als bedoeld in [artikel 3, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) worden niet aangemerkt landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, die voor de datum van inwerkingtreding van dit artikel in het verkeer zijn gebracht.
+Vervallen
 
 ##### Artikel VI
 
@@ -109,7 +85,7 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel VII
 
-Als motorrijtuig waarvoor geen kenteken is opgegeven als bedoeld in [artikel 7, eerste lid, onderdeel b, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) worden niet aangemerkt landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, die voor de datum van inwerkingtreding van dit artikel in het verkeer zijn gebracht.
+Vervallen
 
 ##### Artikel VIII
 
@@ -123,8 +99,8 @@ Onze Minister van Infrastructuur en Waterstaat zendt binnen drie jaar na de inwe
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=II&z=2021-01-01&g=2021-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=V&z=2021-01-01&g=2021-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=VII&z=2021-01-01&g=2021-01-01) vervallen met ingang van een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=II&z=2022-01-01&g=2022-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=V&z=2022-01-01&g=2022-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=VII&z=2022-01-01&g=2022-01-01) vervallen met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=III&z=2021-01-01&g=2021-01-01) vervalt met ingang van 1 januari 2025.
+3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=III&z=2022-01-01&g=2022-01-01) vervalt met ingang van 1 januari 2025.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
