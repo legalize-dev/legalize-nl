@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2018-08-13"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -51,157 +51,81 @@ De vergunning tot het organiseren van de staatsloterij als bedoeld in [artikel 9
 
 Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de staatsloterij inschakelt, hetzij direct, hetzij indirect.
 
-- A.1. De vergunninghouder organiseert onder deze vergunning uitsluitend staatsloterijen in de zin van [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8), waarbij hij:
+- 1. De vergunninghouder moet de staatsloterij op doelmatige en doeltreffende wijze exploiteren.
 
-- a. per kalenderjaar ten hoogste 69 loterijen houdt;
+- 2. De vergunninghouder waarborgt de veiligheid en betrouwbaarheid van de staatsloterij.
 
-- b. geen hogere inzet hanteert dan 30 euro per geheel lot.
+- 3. De vergunninghouder onderwerpt de mechanische, elektrische en elektronische processen die gebruikt worden bij de prijsbepaling aan een voorafgaande goedkeuring en jaarlijkse controle door een door de Minister conform [artikel 4, derde lid, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4) aangewezen onafhankelijke deskundige of keuringsinstelling.
 
-- A.2. De vergunninghouder mag deelloten uitgeven, die aanspraak geven op een evenredig deel van de prijs die op een heel lot is gevallen.
+- 4. De vergunninghouder heeft voor de staatsloterij een afzonderlijke, overzichtelijke en doelmatige administratie.
 
-- A.3. De vergunninghouder mag de vergunde kansspelen uitsluitend aanbieden: De vergunninghouder mag de loten van de vergunde kansspelen aanbieden zowel via losse verkoop als via abonnementen.
+- 5. De vergunninghouder maakt uitsluitend noodzakelijke kosten. Dit betekent dat de vergunninghouder alleen kosten mag maken die rechtstreeks verband houden met het organiseren van de staatsloterij en die tot de normale bedrijfskosten gerekend kunnen worden.
 
-- a. via fysieke verkoop;
+- 6. De vergunninghouder waarborgt dat zijn betrouwbaarheid, die van de personen die zijn beleid bepalen of mede bepalen, en die van zijn uiteindelijke belanghebbende(n), buiten twijfel staat. Hij heeft een beleid om de betrouwbaarheid te waarborgen van de leidinggevenden, van personen op sleutelposities, en van personen die met spelers in aanraking komen.
 
-- b. langs elektronische weg (zoals internet of apps).
+- 7. De vergunninghouder beschikt over procedures en maatregelen om belangenverstrengeling tegen te gaan.
 
-- A.4. De vergunninghouder waarborgt de veiligheid en betrouwbaarheid van de staatsloterijen. De vergunninghouder maakt het trekkingsproces inzichtelijk, en stelt daartoe een trekkingsprocedure op.
+- 8. De vergunninghouder waarborgt dat het uitbesteden van zijn werkzaamheden (of een deel daarvan) geen belemmering vormt voor:
 
-- A.5. De vergunninghouder verricht alle trekkingen van staatsloterijen in het openbaar in Nederland en in aanwezigheid van een notaris die het verloop van de trekkingen bij proces-verbaal constateert. Als de notaris enige onregelmatigheid constateert en een trekking ongeldig verklaart, organiseert de vergunninghouder onverwijld een vervangende trekking.
-
-- B.1. De vergunninghouder draagt, gerekend over een kalenderjaar, de volledige opbrengst van de staatsloterij – na aftrek van prijzen en kosten – af, met een minimum van 15% van de nominale waarde van alle verkochte loten (hierna: afdracht).
-
-- B.2. De vergunninghouder keert de afdracht uiterlijk drie maanden na afloop van elk kalenderjaar uit.
-
-- B.3. De vergunninghouder maakt uitsluitend noodzakelijke kosten, dat wil zeggen de kosten die rechtstreeks verband houden met het organiseren van de vergunde kansspelen en die gerekend kunnen worden tot de normale bedrijfskosten. De vergunninghouder beperkt deze kosten door de vergunde kansspelen op doelmatige en doeltreffende wijze te exploiteren.
-
-- C.1. De vergunninghouder laat personen die de leeftijd van achttien jaren nog niet hebben bereikt (hierna: minderjarigen) niet toe als deelnemer. Als een minderjarige een prijs wint, keert de vergunninghouder deze prijs niet uit. De vergunninghouder beschikt over een procedure om te waarborgen dat deze verbodsbepalingen worden nageleefd.
-
-- C.2. De vergunninghouder waarborgt dat de aard en de organisatie van de vergunde kansspelen niet aanzetten tot onmatige deelname of kansspelverslaving.
-
-- C.3. De vergunninghouder verleent geen krediet aan spelers, en treedt niet op als bemiddelaar bij kredietverlening aan spelers.
-
-- D.1. De vergunninghouder informeert de consument op duidelijke, begrijpelijke en ondubbelzinnige wijze over de rechten en plichten die samenhangen met deelname aan de vergunde kansspelen, en stelt daartoe een deelnemersreglement op. Dit omvat in ieder geval de eventuele algemene voorwaarden in de zin van [artikel 6:231, onder a, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=231).
-
-- D.2. De vergunninghouder maakt de volgende documenten via zijn website openbaar op duidelijke, begrijpelijke en ondubbelzinnige wijze, en stelt deze desgevraagd ter beschikking van de consument:
-
-- a. deze vergunning;
-
-- b. zijn deelnemersreglement;
-
-- c. zijn trekkingsprocedure;
-
-- d. zijn meest recente jaarverslag.
-
-- D.3. De vergunninghouder maakt de prijzen en het prijzenschema op duidelijke, begrijpelijke en ondubbelzinnige wijze, en in ieder geval via zijn website, bekend vóór de verkoop van de loten begint. Hij geeft hierbij aan of de winnaar zelf nog kansspelbelasting moet betalen. Als het prijzenschema prijzen bevat die niet gegarandeerd vallen, is de vergunninghouder verplicht duidelijk aan te geven: Als het prijzenschema niet-gegarandeerde prijzen bevat en er bij de trekking gebruik gemaakt wordt van andere loten dan de geplaatste, is de vergunninghouder verplicht duidelijk aan te geven:
-
-- a. welke prijzen niet gegarandeerd vallen;
-
-- b. wat er gebeurt met niet-gegarandeerde prijzen als deze niet vallen.
-
-- a. dat er bij de trekking gebruik gemaakt wordt van niet-geplaatste loten;
-
-- b. wat de verhouding is tussen de geplaatste loten enerzijds en het universum van geplaatste en niet-geplaatste loten anderzijds.
-
-- D.4. De vergunninghouder maakt plaats en tijd van de trekking(en), en het tijdstip en wijze waarop de uitslag bekend gemaakt wordt, op duidelijke, begrijpelijke en ondubbelzinnige wijze bekend vóór de verkoop van de loten begint.
-
-- D.5. De vergunninghouder maakt de uitslag van de trekking(en) onverwijld op duidelijke, begrijpelijke en ondubbelzinnige wijze bekend.
-
-- D.6. De vergunninghouder waarborgt een onverwijlde uitbetaling van prijzen en eventuele inhouding van kansspelbelasting. De termijn waarbinnen de winnaars hun prijs kunnen opeisen bedraagt ten minste een jaar na de bekendmaking van de uitslag van de trekking.
-
-- D.7. De vergunninghouder vermeldt op alle loten en publicaties op duidelijke, begrijpelijke en ondubbelzinnige wijze, voor zover praktisch mogelijk:
-
-- a. dat de Kansspelautoriteit de vergunning heeft verleend, onder aanhaling van dagtekening en kenmerk van het besluit;
-
-- b. zijn naam en het (e-mail)adres, website en/of telefoonnummer waarop inlichtingen verkrijgbaar zijn;
-
-- c. het prijzenschema;
-
-- d. de nominale waarde van het lot of deellot;
-
-- e. plaats en tijdstip van de trekking(en).
-
-- E.1. De vergunninghouder waarborgt dat zijn betrouwbaarheid, die van de personen die zijn beleid bepalen of mede bepalen, en die van zijn uiteindelijke belanghebbende(n) buiten twijfel staan. Hij heeft een beleid om de betrouwbaarheid te waarborgen van de leidinggevenden, van personen op sleutelposities, en van personen die met spelers in aanraking komen.
-
-- E.2. De vergunninghouder waarborgt dat zijn formele of feitelijke zeggenschapsstructuur en het uitbesteden van bedrijfsactiviteiten geen belemmering vormen voor:
-
-- a. het naleven van de toepasselijke wet- en regelgeving en de vergunningsvoorschriften;
+- a. het naleven van de toepasselijke wet- en regelgeving en de vergunningvoorschriften; en
 
 - b. het doelmatig en doeltreffend uitoefenen van toezicht hierop.
 
-- E.3. De vergunninghouder heeft een integriteitsbeleid dat gericht is op het onderkennen en voorkomen van fraude met, en misbruik van, de vergunde kansspelen, en moet in ieder geval beschikken over:
+- 9. De vergunninghouder beschikt over procedures en maatregelen voor het behandelen en vastleggen van incidenten.
 
-- a. een actuele en systematische inventarisatie, analyse en evaluatie van de integriteitsrisico’s;
+- 10. De vergunninghouder organiseert maximaal 69 trekkingen per kalenderjaar.
 
-- b. een actuele en systematische registratie en analyse van gegevens die van belang zijn voor het onderkennen van integriteitsinbreuken en passende procedures voor de behandeling en afwikkeling van mogelijke integriteitsinbreuken.
+- 11. De maximale verkoopprijs van een geheel lot van de staatsloterij is 30 euro.
 
-- E.4. De vergunninghouder laat niet toe als deelnemer, hetzij rechtstreeks hetzij via tussenpersonen:
+- 12. De vergunninghouder mag deelloten uitgeven, die aanspraak geven op een evenredig deel van de prijs die op een heel lot is gevallen.
 
-- a. personen die zijn beleid bepalen of mede bepalen;
+- 13. De vergunninghouder draagt, gerekend over een kalenderjaar, de opbrengst (aantal verkochte deelnamebewijzen x verkoopprijs deelnamebewijzen) van de staatsloterij – na aftrek van de prijzen en noodzakelijke kosten – af aan de Staat, met een minimum van 15% van de opbrengst (hierna: afdracht).
 
-- b. zijn uiteindelijke belanghebbende(n);
+- 14. De vergunninghouder keert de afdracht zo spoedig mogelijk, en in ieder geval uiterlijk drie maanden na afloop van elk kalenderjaar uit aan de begunstigde.
 
-- c. zijn leidinggevenden en personen op sleutelposities;
+- 15. De vergunninghouder waarborgt dat minderjarigen niet deelnemen aan de loterij(en).
 
-- d. personen die betrokken zijn bij de trekkingen, waaronder de bij de trekking aanwezige notaris en de personen betrokken bij de voorafgaande goedkeuring en jaarlijkse controle door de onafhankelijke deskundige of keuringsinstelling.
+- 16. De vergunninghouder moet te allen tijde alle prijzen en premies, die hij de deelnemers voorafgaand aan elke trekking aan de desbetreffende loterij in het vooruitzicht stelt, in de trekking toekennen aan verkochte dan wel aan alle te koop aangeboden deelnamebewijzen. De vergunninghouder mag hieraan geen voorwaarden of drempelwaarden verbinden.
 
-- F.1. De vergunninghouder waarborgt via zijn organisatorische en administratieve procedures en maatregelen dat: De vergunninghouder heeft voor dat doel:
+- 17. De vergunninghouder mag prijzen en premies trekken uit verkochte en niet-verkochte deelnamebewijzen (universumtrekking).
 
-- a. de toepasselijke wet- en regelgeving en de vergunningsvoorschriften nageleefd worden;
+- 18. De vergunninghouder maakt de uitslag van de trekking(en) zo spoedig mogelijk en op een duidelijke, begrijpelijke en ondubbelzinnige wijze bekend.
 
-- b. doelmatig en doeltreffend uitoefenen van toezicht hierop mogelijk is;
+- 19. De vergunninghouder keert de prijzen zo spoedig mogelijk uit. Het uitkeren van prijzen aan minderjarigen is niet toegestaan.
 
-- c. belangenverstrengeling en incidenten tegengegaan worden.
+- 20. De vergunninghouder vermeldt, voor zover praktisch mogelijk, op alle publicaties en deelnamebewijzen van de staatsloterij de naam, (e-mail)adres en telefoonnummer van de vergunninghouder, de domeinnaam van de website(s) van de staatsloterij, en dat de Kansspelautoriteit de vergunning heeft verleend. De vergunninghouder vermeldt op de fysieke deelnamebewijzen ook de prijs van het deelnamebewijs.
 
-- a. één interne en ter zake kundige functionaris die binnen zijn organisatie verantwoordelijk en beschikbaar is voor de uitvoering van het interne toezicht (hierna: **compliance officer**);
+- 21. De vergunninghouder publiceert in ieder geval de volgende informatie op duidelijke, begrijpelijke en ondubbelzinnige wijze op de website(s) van de staatsloterij:
 
-- b. een afzonderlijke, overzichtelijke en doelmatige administratie van de afzonderlijke vergunde kansspelen.
+- a. Dat de Kansspelautoriteit de vergunning heeft verleend.
 
-- F.2. De vergunninghouder waarborgt de kwaliteit van de vergunde kansspelen, met name met het oog op het voorkomen van alle situaties die het vertrouwen van de consument in de vergunde kansspelen kunnen schaden (hierna: incidenten). De vergunninghouder is in ieder geval verplicht:
+- b. De meest recente versie van het deelnemersreglement en de meest recente versie van de trekkingsprocedure.
 
-- a. te beschikken over procedures en maatregelen met betrekking tot de omgang met, en de vaststelling van, incidenten;
+- c. Een duidelijke speluitleg waarin in ieder geval staat beschreven hoe bepaald wordt welke deelnames winnend zijn.
 
-- b. de Kansspelautoriteit onverwijld, maar in ieder geval binnen 72 uur, te informeren als zich een incident voordoet;
+- d. Het prijzenschema per trekking, de plaats en het tijdstip van de trekking, en het tijdstip en de wijze waarop de uitslag van de trekking bekend gemaakt wordt. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
 
-- c. naar aanleiding van een incident maatregelen te nemen die zijn gericht op het beëindigen van het incident, het beperken van de schade en het voorkomen van herhaling, en de Kansspelautoriteit hierover onverwijld te informeren.
+- e. Per trekking en voorafgaand aan de verkoop van deelnamebewijzen maakt de vergunninghouder bekend of hij gebruik maakt van een universumtrekking, welke prijzen mogelijk niet vallen en wat er gebeurt met de prijzen die worden toegekend aan een niet-verkocht deelnamebewijs.
 
-- F.3. De vergunninghouder heeft een beleid dat gericht is op het onderkennen en voorkomen van IT-risico’s met betrekking tot het organiseren van de vergunde kansspelen. De vergunninghouder heeft voor dat doel: De vergunninghouder onderwerpt zijn IT-processen, waaronder de processen met betrekking tot het prijzenschema, de deelname- en deelnemersadministratie, het spelresultaat, en de uitbetaling aan de winnaars, aan een jaarlijkse controle door een onafhankelijke externe IT-auditor.
+- f. De verkoopprijs of -prijzen van loten en deelloten. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
 
-- a. een actuele en systematische inventarisatie, analyse en evaluatie van de IT-risico’s;
+- g. De wijze waarop een consument een prijs kan opeisen.
 
-- b. een actuele en systematische registratie en analyse van gegevens die van belang zijn voor het onderkennen van inbreuken met betrekking tot IT en passende procedures voor de behandeling en afwikkeling van mogelijke inbreuken.
+- h. De jaarrekening en het jaarverslag. De vergunninghouder publiceert deze documenten vóór 1 juli van elk jaar.
 
-- F.4. De vergunninghouder heeft een beleid dat gericht is op het onderkennen en voorkomen van de risico’s met betrekking tot de mechanische, elektrische en elektronische processen die gebruikt worden bij de deelneming, prijsbepaling en vaststelling van de winnaars. De vergunninghouder onderwerpt de mechanische, elektrische en elektronische processen aan een voorafgaande goedkeuring en jaarlijkse controle door een door de Minister krachtens artikel 5, derde lid, van het Kansspelenbesluit aangewezen onafhankelijke deskundige of keuringsinstelling.
+- 22. De vergunninghouder verricht alle trekkingen in het openbaar en in aanwezigheid van een notaris, die het verloop van elke trekking bewaakt. Als de notaris enige onregelmatigheid constateert en de trekking ongeldig verklaart, organiseert de vergunninghouder de trekking zo spoedig mogelijk opnieuw.
 
-- F.5. De vergunninghouder zendt binnen een maand na afloop van elk kwartaal een verslag aan de Kansspelautoriteit met betrekking tot het financiële verloop en andere door de Kansspelautoriteit noodzakelijk geachte gegevens. De vergunninghouder zendt binnen vier maanden na afloop van elk kalenderjaar aan de Kansspelautoriteit: De vergunninghouder zorgt dat bovengenoemd kwartaalverslag, jaarrekening, jaarverslag, en onderzoeksverslag voldoen aan de voorschriften in bijlage A.
+- 23. De vergunninghouder meldt bij de Kansspelautoriteit binnen één maand na inwerkingtreding van dit wijzigingsbesluit, alle merk-, domein- en applicatienamen (voor de consument) die hij gebruikt bij het aanbieden van de staatsloterij.
 
-- a. een jaarrekening en een jaarverslag op die voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
+- 24. De vergunninghouder meldt bij de Kansspelautoriteit elke wijziging van eerder bij de Kansspelautoriteit gemelde merk-, domein- en applicatienamen, en alle nieuw in gebruik te nemen merk-, domein- en applicatienamen, zo spoedig mogelijk, en in ieder geval voordat de wijziging van kracht is.
 
-- b. een onderzoeksverslag omtrent de naleving van de vergunningsvoorschriften en een verklaring zoals bedoeld in [artikel 393, vierde en vijfde lid, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), omtrent de getrouwheid van de jaarrekening en het jaarverslag, opgesteld door een accountant die op basis van [artikel 36 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) is ingeschreven in het accountantsregister;
+- 25. De vergunninghouder meldt bij de Kansspelautoriteit alle onvoorziene en niet-structurele gedragingen en gebeurtenissen (incidenten) die een ernstig gevaar kunnen vormen voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen of het vertrouwen in de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen kunnen schaden, zo spoedig mogelijk, en in ieder geval binnen 72 uur nadat de vergunninghouder kennis heeft genomen van het incident. De vergunninghouder legt het incident vast en neemt direct maatregelen om het incident te beëindigen, de schade te beperken of te herstellen en om herhaling te voorkomen.
 
-- c. de jaarlijkse rapportage van de onafhankelijke externe IT-auditor;
+- 26. De vergunninghouder voert periodiek een audit uit van de betrouwbaarheid van de organisatie van de staatsloterij. De vergunninghouder voert de audit uit aan de hand van het op de website van de Kansspelautoriteit gepubliceerde ‘IT-audit programma loterijen’. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 mei 2023, en vervolgens vóór 1 mei van elk daaropvolgend jaar van elk jaar, de rapportage van de audit over het voorafgaande kalenderjaar.
 
-- d. de jaarlijkse rapportage van de onafhankelijke deskundige of keuringsinstelling.
+- 27. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 juli van elk jaar voor de staatsloterij een rekening en verantwoording over het voorafgaande kalenderjaar. De vergunninghouder gebruikt het daarvoor bestemde formulier van de Kansspelautoriteit. De vergunninghouder is verplicht elke rekening en verantwoording vergezeld te laten gaan van een onderzoeksverslag en een verklaring van de getrouwheid, opgesteld door een accountant, zijnde een auditor als bedoeld in de [Richtlijn 2006/43/EG](32006L0043), die staat ingeschreven in een openbaar register zoals bedoeld in artikel 15 van die richtlijn. De vergunninghouder publiceert uiterlijk vóór 1 juli van elk jaar de rekening en verantwoording over het voorafgaande kalenderjaar op de website(s) van de staatsloterij.
 
-- F.6. De vergunninghouder informeert de Kansspelautoriteit onverwijld over wijzigingen van:
-
-- a. de trekkingsprocedure, inclusief de voorafgaande goedkeuring door de onafhankelijke deskundige of keuringsinstelling;
-
-- b. het deelnemersreglement;
-
-- c. personen die zijn beleid bepalen of mede bepalen, inclusief volledig ingevulde persoonlijke verklaring(en);
-
-- d. zijn uiteindelijke belanghebbende(n), inclusief volledig ingevulde persoonlijke verklaring(en);
-
-- e. de binnen zijn organisatie werkzame compliance officer.
-
-- G.1. De vergunninghouder heeft een beleid dat gericht is op risicobeheersing, en beschikt daartoe over een risicobeheerssystematiek die de procedures bevat voor: De vergunninghouder onderwerpt zijn risicobeheerssystematiek aan een jaarlijkse audit door een ter zake deskundig onafhankelijke persoon, overeenkomstig geschikte en geharmoniseerde normen. De vergunninghouder zendt de rapportage van deze jaarlijkse audit binnen vier maanden na afloop van elk kalenderjaar aan de Kansspelautoriteit.
-
-- a. de periodieke en systematische identificatie van risico’s, waaronder procesrisico’s en technische risico’s, die zich kunnen voordoen bij de deelneming, prijsbepaling en vaststelling van de winnaars;
-
-- b. de beheersing van de geïdentificeerde risico’s;
-
-- c. de periodieke en systematische evaluatie van de effectiviteit van de risicobeheerssystematiek en, naar aanleiding daarvan, de actualisatie van de risicobeheerssystematiek.
+- 28. De vergunninghouder verstrekt uiterlijk vóór 1 april van elk jaar een overzicht van de maatregelen en voorzieningen die hij in het voorgaande kalenderjaar heeft getroffen om verslaving aan de staatsloterij zoveel mogelijk te voorkomen. De vergunninghouder voegt daarbij een rapportage over eventuele wijzigingen in het overzicht ten opzichte van het verstrekte overzicht van het jaar daarvoor, en, indien van toepassing, over het aantal interventies en maatregelen dat hij in het voorgaande kalenderjaar heeft ondernomen.
 
 ##### Artikel 4
 
