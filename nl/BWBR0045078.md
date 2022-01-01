@@ -4,7 +4,7 @@ identifier: "BWBR0045078"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-04-30"
+last_updated: "2022-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045078"
 soort: "ministeriele-regeling"
@@ -148,9 +148,9 @@ Bas van den Dungen Secretaris-generaal
 
 1. Conform het [Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022), verleent de DG voor de in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=7) en [8 van het voornoemde mandaatbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=8) genoemde bevoegdheden ondermandaat aan budgethouders.
 
-2. De directeuren (van de topstructuur DGBD) zoals genoemd in [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2021-04-30), worden gemandateerd door de DG om financiële verplichtingen aan te gaan. In een ondermandaat wordt de omvang ervan aangegeven.
+2. De directeuren (van de topstructuur DGBD) zoals genoemd in [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2022-01-01), worden gemandateerd door de DG om financiële verplichtingen aan te gaan. In een ondermandaat wordt de omvang ervan aangegeven.
 
-3. De leidinggevende functionarissen, zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&bijlage=1&z=2021-04-30&g=2021-04-30), die ressorteren onder de directeuren (behorende tot de topstructuur DGBD), worden gemandateerd, voor zover het binnen het eigen werkterrein betreft, financiële verplichtingen aan te gaan. Deze verplichtingen zijn beperkt tot de maximumbedragen als genoemd in bijlage 1. Daarnaast geldt de restrictie dat een budgethouder niet meer mag verplichten dan het beschikbare budget.
+3. De leidinggevende functionarissen, zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&bijlage=1&z=2021-04-30&g=2022-01-01), die ressorteren onder de directeuren (behorende tot de topstructuur DGBD), worden gemandateerd, voor zover het binnen het eigen werkterrein betreft, financiële verplichtingen aan te gaan. Deze verplichtingen zijn beperkt tot de maximumbedragen als genoemd in bijlage 1. Daarnaast geldt de restrictie dat een budgethouder niet meer mag verplichten dan het beschikbare budget.
 
 4. Verplichtingen van of boven de € 50.000,– exclusief BTW worden alleen aangegaan mits er goedkeuring is van de (concern)controller van het DG of, ten aanzien van de DGBD, de (concern)directie Control & Financiën.
 
@@ -180,7 +180,7 @@ Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als b
 
 ##### Artikel 12. Personeelsbeslissingen
 
-1. Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven door de verantwoordelijk leidinggevende met betrekking tot de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&bijlage=2&z=2021-04-30&g=2021-04-30) opgenomen personeelsaangelegenheden is voorafgaand advies van de directeur SSO Organisatie & Personeel (O&P), of een door de directeur SSO O&P aan te wijzen afdelingshoofd, vereist voor het DGBD en het DGTSL, of is voorafgaand advies van de directeur DLSO vereist indien het het DGD betreft, of is voorafgaand advies van de directeur FIOD vereist indien het de FIOD betreft.
+1. Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven door de verantwoordelijk leidinggevende met betrekking tot de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&bijlage=2&z=2021-04-30&g=2022-01-01) opgenomen personeelsaangelegenheden is voorafgaand advies van de directeur SSO Organisatie & Personeel (O&P), of een door de directeur SSO O&P aan te wijzen afdelingshoofd, vereist voor het DGBD en het DGTSL, of is voorafgaand advies van de directeur DLSO vereist indien het het DGD betreft, of is voorafgaand advies van de directeur FIOD vereist indien het de FIOD betreft.
 
 2. Bij het beslissen over verzoeken ten aanzien van het starten van een gerechtelijke procedure met betrekking tot personeelsaangelegenheden is voorafgaande goedkeuring door de directeur concerndirectie Organisatie & Personeel voor het DGBD en FIOD vereist, of is voorafgaande goedkeuring door de directeur-generaal Toeslagen vereist indien het het DGTSL betreft, of is voorafgaande goedkeuring door de directeur-generaal Douane vereist indien het het DGD betreft
 
@@ -194,7 +194,7 @@ Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als b
 
 ##### Artikel 14. Mandaatregister
 
-Onderdeel van deze regeling vormt een mandaat- en volmachtregister dat wordt gepubliceerd. Het mandaat- en volmachtregister bevat handtekeningen en parafen van de gemandateerde functionarissen zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&z=2021-04-30&g=2021-04-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&z=2021-04-30&g=2021-04-30) van dit besluit.
+Onderdeel van deze regeling vormt een mandaat- en volmachtregister dat wordt gepubliceerd. Het mandaat- en volmachtregister bevat handtekeningen en parafen van de gemandateerde functionarissen zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&z=2021-04-30&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&z=2021-04-30&g=2022-01-01) van dit besluit.
 
 ### Hoofdstuk 3. Algemene bepalingen ten aanzien van de uitoefening van taken
 
@@ -244,13 +244,13 @@ Met inachtneming van [hoofdstuk 4 van het Mandaatbesluit Ministerie van Financi�
 
 - 17. Handelingen en beslissingen verband houdende met een adviesaanvraag bij het College voor de rechten van de mens;
 
-- 18. Met inachtneming van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=11) en [15 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=15) worden de bevoegdheden opgenomen in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2021-04-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=10&z=2021-04-30&g=2021-04-30) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=11&z=2021-04-30&g=2021-04-30) uitgeoefend door de algemene leiding voor zover het rechtspositionele handelingen en beslissingen betreft aangaande directeuren (van de topstructuur DGBD); en
+- 18. Met inachtneming van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=11) en [15 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=15) worden de bevoegdheden opgenomen in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2022-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=10&z=2021-04-30&g=2022-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=11&z=2021-04-30&g=2022-01-01) uitgeoefend door de algemene leiding voor zover het rechtspositionele handelingen en beslissingen betreft aangaande directeuren (van de topstructuur DGBD); en
 
 - 19. Het verrichten van handelingen en nemen van beslissingen voor zover dit besluit daarin niet voorziet.
 
 ##### Artikel 16. Voorbehouden aan de pDGBD
 
-Met inachtneming van hetgeen bepaald in voorgaande artikelen en in [hoofdstuk 4 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4) is de pDGBD bevoegd om ten aanzien van de directies als bedoeld in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2021-04-30), van dit besluit namens de Staat der Nederlanden de navolgende handelingen en beslissingen te verrichten of te nemen:
+Met inachtneming van hetgeen bepaald in voorgaande artikelen en in [hoofdstuk 4 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4) is de pDGBD bevoegd om ten aanzien van de directies als bedoeld in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=7&z=2021-04-30&g=2022-01-01), van dit besluit namens de Staat der Nederlanden de navolgende handelingen en beslissingen te verrichten of te nemen:
 
 - 1. Het beslissen over verzoeken ten aanzien van het starten van of verweren in een gerechtelijke procedure, voor zover die betrekking hebben op handelingen of beslissingen waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is;
 
@@ -284,7 +284,7 @@ Met inachtneming van hetgeen is bepaald in voorgaande artikelen en in [hoofdstuk
 
 - 11. Het niet instellen van een vordering of het niet opleggen van een terugbetalingsverplichting, dan wel het (gedeeltelijk) kwijtschelden van een vordering op personeel; en
 
-- 12. De bevoegdheden opgenomen in [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=19&z=2021-04-30&g=2021-04-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=20&z=2021-04-30&g=2021-04-30) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2021-04-30) worden uitgeoefend door de directeuren (van de topstructuur DGBD) voor zover het handelingen en beslissingen betreft aangaande de direct onder hen ressorterende leidinggevenden.
+- 12. De bevoegdheden opgenomen in [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=19&z=2021-04-30&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=20&z=2021-04-30&g=2022-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2022-01-01) worden uitgeoefend door de directeuren (van de topstructuur DGBD) voor zover het handelingen en beslissingen betreft aangaande de direct onder hen ressorterende leidinggevenden.
 
 ##### Artikel 18. Voorbehouden aan de algemeen directeuren (van de topstructuur DGBD)
 
@@ -340,7 +340,7 @@ Met inachtneming van hetgeen bepaald in voorgaande artikelen en in [hoofdstuk 4 
 
 - 19. Op verzoeken tot het niet laten vervallen / verjaren van wettelijke vakantie-uren; en
 
-- 20. De bevoegdheden opgenomen in [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=20&z=2021-04-30&g=2021-04-30) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2021-04-30) worden uitgeoefend door de overige directeuren voor zover het rechtspositionele handelingen en besluiten betreft aangaande de direct onder hen ressorterende leidinggevenden.
+- 20. De bevoegdheden opgenomen in [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=20&z=2021-04-30&g=2022-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2022-01-01) worden uitgeoefend door de overige directeuren voor zover het rechtspositionele handelingen en besluiten betreft aangaande de direct onder hen ressorterende leidinggevenden.
 
 ##### Artikel 20. Voorbehouden aan de afdelingshoofden of vergelijkbare leidinggevende functionarissen
 
@@ -410,7 +410,7 @@ Met inachtneming van hetgeen bepaald in voorgaande artikelen en in [hoofdstuk 4 
 
 - 21. Het maken van loopbaanafspraken in het kader van studiefaciliteiten zonder garantie op een hogere functie; en
 
-- 22. De bevoegdheden opgenomen in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2021-04-30) worden uitgeoefend door de afdelingshoofden voor zover het handelingen en beslissingen betreft aangaande de direct onder hen ressorterende leidinggevenden.
+- 22. De bevoegdheden opgenomen in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=21&z=2021-04-30&g=2022-01-01) worden uitgeoefend door de afdelingshoofden voor zover het handelingen en beslissingen betreft aangaande de direct onder hen ressorterende leidinggevenden.
 
 ##### Artikel 21. Voorbehouden aan de teamleiders of vergelijkbare leidinggevende functionarissen
 
@@ -480,7 +480,7 @@ Daar waar de functionaris niet is benoemd in de organisatie, geldt de regel dat 
 
 ## Bijlage 2
 
-Advies personeelsaangelegenheden op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=12&z=2021-04-30&g=2021-04-30) Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane.
+Advies personeelsaangelegenheden op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&artikel=12&z=2021-04-30&g=2022-01-01) Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane.
 
 Bij het nemen van besluiten, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot de volgende personeelsaangelegenheden is voorafgaand advies van de directeur SSO O&P, of een door de directeur SSO O&P aan te wijzen afdelingshoofd vereist voor het DGBD en het DGTSL, of is voorafgaand advies van de directeur DLSO vereist indien het het DGD betreft, of is voorafgaand advies van de directeur FIOD vereist indien het de FIOD betreft:
 
