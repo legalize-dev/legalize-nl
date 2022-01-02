@@ -4,7 +4,7 @@ identifier: "BWBR0046116"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-08-12"
-last_updated: "2022-01-01"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046116"
 soort: "zbo"
@@ -92,7 +92,7 @@ Vervanging kan plaatsvinden op basis van:
 
 ### Artikel 14. Bekostiging
 
-Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=12&z=2022-01-01&g=2022-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-01), dan vindt bekostiging plaats met inachtneming van dit artikel.
+Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=12&z=2022-01-01&g=2022-01-02) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-02), dan vindt bekostiging plaats met inachtneming van dit artikel.
 
 ### Hoofdstuk 5. Vervangingspools
 
@@ -110,7 +110,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00461
 
 ### Artikel 20. Algemene voorwaarden voor bekostiging financiële varianten
 
-Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=12&z=2022-01-01&g=2022-01-01), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-01) en aan de voorwaarden van dit artikel.
+Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=12&z=2022-01-01&g=2022-01-02), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-02) en aan de voorwaarden van dit artikel.
 
 ### Artikel 21. Wijziging of opzegging
 
@@ -287,9 +287,9 @@ De bekostiging van de wegens ziekte afwezige vervanger wordt dan door het Vervan
 
 ## Bijlage 4. Werkwijze vervangingspools
 
-Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=5&z=2022-01-01&g=2022-01-01) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
+Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=5&z=2022-01-01&g=2022-01-02) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
 
-Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor pooldeclaraties die tijdig door het Vervangingsfonds zijn ontvangen en waarvoor een (pool)verantwoording door het bevoegd gezag is ingediend, wordt een vergoeding uitgekeerd. Deze vergoeding wordt maandelijks berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=5&artikel=16&z=2022-01-01&g=2022-01-01). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige.
+Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor pooldeclaraties die tijdig door het Vervangingsfonds zijn ontvangen en waarvoor een (pool)verantwoording door het bevoegd gezag is ingediend, wordt een vergoeding uitgekeerd. Deze vergoeding wordt maandelijks berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=5&artikel=16&z=2022-01-01&g=2022-01-02). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige.
 
 Het bevoegd gezag dient de inzetverantwoording van de in de vervangingspool geplaatste personeelsleden in via ‘MijnVf’. Hiervoor geldt een termijn van 3 maanden, te rekenen vanaf de dag dat het Vervangingsfonds het bevoegd gezag heeft laten weten dat de inzetverantwoording voor de betreffende maand ingediend kan worden. Indien de inzetverantwoording buiten deze termijn door het Vervangingsfonds wordt ontvangen, dan komt de maand waarop de inzetverantwoording betrekking heeft niet voor vergoeding in aanmerking.
 
@@ -317,7 +317,7 @@ Terugvordering: 98% – 80% = 18% x € 80.000 = € 14.400.
 
 ## Bijlage 5. Werkwijze financiële varianten
 
-Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=6&z=2022-01-01&g=2022-01-01) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
+Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046116&hoofdstuk=6&z=2022-01-01&g=2022-01-02) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
 
 Hieronder worden deze varianten nader omschreven en wordt bepaald hoe de bekostiging voor elk van de vier financiële varianten plaatsvindt.
 
