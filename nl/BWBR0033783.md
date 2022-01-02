@@ -4,7 +4,7 @@ identifier: "BWBR0033783"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033783"
 soort: "pbo"
@@ -78,7 +78,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ##### Artikel 5
 
-1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2022-01-01&g=2022-01-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2022-01-01&g=2022-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2022-01-01&g=2022-01-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
+1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2022-01-01&g=2022-01-02), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2022-01-01&g=2022-01-02) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2022-01-01&g=2022-01-02) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
 
 2. Het bestuur kan verlangen dat aan hem bewijsstukken worden overgelegd waaruit de juistheid van de ingediende declaratie blijkt.
 
@@ -96,7 +96,7 @@ De [Verordening op de kostenvergoedingen](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2a
 
-Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2022-01-01&g=2022-01-01) van toepassing is.
+Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2022-01-01&g=2022-01-02) van toepassing is.
 
 ##### Artikel 2b
 
@@ -104,7 +104,7 @@ Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor he
 
 2. Een dagdeel omvat een tijdsperiode van vier uur.
 
-3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2022-01-01&g=2022-01-01) bedraagt € 0,81 per afgelegde kilometer boven een totale reisafstand van honderd kilometer met een maximum van vijfhonderd kilometer per reis.
+3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2022-01-01&g=2022-01-02) bedraagt € 0,81 per afgelegde kilometer boven een totale reisafstand van honderd kilometer met een maximum van vijfhonderd kilometer per reis.
 
 4. Parkeer-, tol- en veergelden en vergoedingen voor reiskosten worden geacht te zijn begrepen in de vergoedingen bedoeld in het eerste en derde lid.
 
@@ -114,12 +114,18 @@ Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor he
 
 2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het Centraal Planbureau, bedoeld in [artikel 2, eerste lid van de Wet voorbereiding van de vaststelling van een Centraal Economisch Plan](https://wetten.overheid.nl/jci1.3:c:BWBR0002029&artikel=2), laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
 
-3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig met uitzondering van het tarief, genoemd in [artikel 2b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-01), welk tarief naar boven wordt afgerond op gehele eurocenten nauwkeurig.
+3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig met uitzondering van het tarief, genoemd in [artikel 2b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-02), welk tarief naar boven wordt afgerond op gehele eurocenten nauwkeurig.
 
 4. Het bestuur maakt ieder jaar zo spoedig mogelijk na 1 april de bedragen bekend die voortvloeien uit de toepassing van het eerste tot en met het derde lid en vermeldt daarbij tevens de publicatie, bedoeld in het tweede lid, die aan de toepassing van deze leden ten grondslag is gelegd.
 
 ##### Artikel 2c
 
-1. In afwijking van [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-01) bedraagt het presentiegeld voor deelname aan een vergadering via een telefoon- of beeldverbinding € 247,– per vergadering.
+1. In afwijking van [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-02) bedraagt het presentiegeld voor deelname aan een vergadering via een telefoon- of beeldverbinding € 247,– per vergadering.
 
-2. In afwijking van [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-01) en het vorige lid bedraagt de vergoeding voor deelname aan een vergadering via een telefoon- of beeldverbinding die niet langer duurt dan een uur € 96,– per vergadering.
+2. In afwijking van [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2022-01-01&g=2022-01-02) en het vorige lid bedraagt de vergoeding voor deelname aan een vergadering via een telefoon- of beeldverbinding die niet langer duurt dan een uur € 96,– per vergadering.
+
+##### Artikel 5c
+
+1. De vergoeding, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=1&z=2023-01-01&g=2022-01-02), is een vergoeding voor een tijdsbesteding die gelijk staat aan 58% van een voltijdsdienstverband dat geldt voor het personeel dat werkzaam is bij de beroepsorganisatie op grond van een arbeidsovereenkomst.
+
+2. De vergoeding, bedoeld in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=1&z=2023-01-01&g=2022-01-02), is een vergoeding voor een tijdsbesteding die gelijk staat aan 15% van een voltijdsdienstverband dat geldt voor het personeel dat werkzaam is bij de beroepsorganisatie op grond van een arbeidsovereenkomst.
