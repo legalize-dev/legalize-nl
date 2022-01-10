@@ -4,7 +4,7 @@ identifier: "BWBR0036366"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-12"
-last_updated: "2019-05-17"
+last_updated: "2022-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036366"
 soort: "ministeriele-regeling"
@@ -74,15 +74,15 @@ De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu word
 
 ##### Artikel 4
 
-De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2019-05-17&g=2019-05-17), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2019-05-17&g=2019-05-17), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
+De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2022-02-12&g=2022-01-10), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2022-02-12&g=2022-01-10), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 5
 
 De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt volmacht en machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2019-05-17&g=2019-05-17), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2019-05-17&g=2019-05-17) bedoelde besluiten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2022-02-12&g=2022-01-10), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2022-02-12&g=2022-01-10) bedoelde besluiten; en
 
-- b. het voeren van procedures bij de rechter over de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2019-05-17&g=2019-05-17), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2019-05-17&g=2019-05-17) bedoelde besluiten, alsmede het verrichten van daarbij behorende handelingen.
+- b. het voeren van procedures bij de rechter over de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2022-02-12&g=2022-01-10), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2022-02-12&g=2022-01-10) bedoelde besluiten, alsmede het verrichten van daarbij behorende handelingen.
 
 ##### Artikel 6
 
@@ -94,11 +94,11 @@ De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu word
 
 ##### Artikel 7
 
-De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2019-05-17&g=2019-05-17), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2022-02-12&g=2022-01-10), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 8
 
-Indien uitvoering wordt gegeven aan de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2019-05-17&g=2019-05-17) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2022-02-12&g=2022-01-10) luidt de ondertekening:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
