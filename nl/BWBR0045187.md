@@ -4,7 +4,7 @@ identifier: "BWBR0045187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2021-12-07"
+last_updated: "2022-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045187"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 4. De subsidie, bedoeld in het eerste tot en met derde lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
 
-5. Per adres kan ten hoogste tweemaal subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2021-12-07&g=2021-12-07).
+5. Per adres kan ten hoogste tweemaal subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2021-12-07&g=2022-01-10).
 
 6. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste tot en met derde lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. De aanvraag
 
-In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), ten minste:
+In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), ten minste:
 
 - a. het adres van het gebouw ten behoeve waarvan subsidie wordt aangevraagd;
 
@@ -190,21 +190,21 @@ De subsidiabele kosten voor verbetering van het gebouw zijn de kosten voor verbe
 
 ##### Artikel 7. Subsidiabele kosten vóór indiening van de aanvraag
 
-In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), tevens voor subsidie in aanmerking indien deze zijn gemaakt vóór de indiening van de aanvraag doch na 6 november 2020.
+In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), tevens voor subsidie in aanmerking indien deze zijn gemaakt vóór de indiening van de aanvraag doch na 6 november 2020.
 
 ##### Artikel 8. Hoogte van de subsidie
 
-1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
+1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
 
-2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
+2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
 
-3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
+3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
 
 ##### Artikel 9. Vaststelling van de subsidie
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling wordt toepassing gegeven aan [artikel 16, tweede lid, onderdeel b, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
-2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2021-12-07&g=2021-12-07) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
+2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2021-12-07&g=2022-01-10) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
 
 ##### Artikel 10. Afwijzingsgronden
 
@@ -212,9 +212,9 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 11. Subsidieplafonds
 
-1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07) is € 266.000.000.
+1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10) is € 266.000.000.
 
-2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2021-12-07), is in:
+2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), is in:
 
 - a. 2021: € 79.200.000;
 
