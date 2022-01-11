@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2021-10-15"
+last_updated: "2022-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -196,7 +196,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2021-10-15&g=2021-10-15) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2022-01-11&g=2022-01-11) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -242,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2021-10-15&g=2021-10-15) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2022-01-11&g=2022-01-11) van de Kiesregeling
 
 4. Het model voor de stempas voor de verkiezing van de leden van het algemeen bestuur van het waterschap waarmee in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:
 
@@ -412,7 +412,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Model J 16. Kiezershandleidingen voor verkiezingen
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2021-10-15&g=2021-10-15) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2022-01-11&g=2022-01-11) van de Kies- en referendumregeling
 
 Vervallen
 
@@ -452,6 +452,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal en voor de verkiezing van de leden van het Europees parlement luidt als volgt:
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2021-10-15&g=2021-10-15) van de Kiesregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2022-01-11&g=2022-01-11) van de Kiesregeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
