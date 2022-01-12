@@ -4,7 +4,7 @@ identifier: "BWBR0046164"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-01-12"
-last_updated: "2022-01-01"
+last_updated: "2022-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046164"
 soort: "zbo"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - 2. **De Raad van Bestuur:** het met de dagelijkse leiding van de SVB belaste orgaan, bedoeld in [artikel 6, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
 
-- 3. **De Commissie:** Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=2&z=2022-01-12&g=2022-01-01);
+- 3. **De Commissie:** Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=2&z=2022-01-12&g=2022-01-12);
 
 - 4. **Begeleidende instellingen:** Stichting 1940–1945, Stichting Joods Maatschappelijk Werk, Stichting Pelita;
 
@@ -97,7 +97,7 @@ Het lidmaatschap van de Commissie eindigt:
 
 - d. als naar het oordeel van de Raad van Bestuur de goede gang van zaken bij de werkzaamheden van de Commissie door toedoen van het lid wordt belemmerd;
 
-- e. wegens het eindigen van de termijn van vijf jaar als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=5&z=2022-01-12&g=2022-01-01).
+- e. wegens het eindigen van de termijn van vijf jaar als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=5&z=2022-01-12&g=2022-01-12).
 
 ##### Artikel 8. Vergoedingen
 
