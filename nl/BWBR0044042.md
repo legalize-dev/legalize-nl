@@ -4,7 +4,7 @@ identifier: "BWBR0044042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-15"
-last_updated: "2022-01-01"
+last_updated: "2022-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044042"
 soort: "ministeriele-regeling"
@@ -55,6 +55,8 @@ In deze regeling wordt verstaan onder:
 - **bevoegd gezag:** bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
 - **bovenbouw:** twee laatste leerjaren van het vbo, mavo of havo, of de drie laatste leerjaren van het vwo;
+
+- **BRIN-nummer:** door de minister gehanteerd nummer van de school in de Basisregistratie Instellingen van DUO;
 
 - **DUO:** Dienst Uitvoering Onderwijs;
 
@@ -168,7 +170,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 67a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-13&g=2022-01-13), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 7. Verblijfsjaren
 
@@ -288,11 +290,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Bij een aanvraag tot bekostiging voor een school of scholengemeenschap die ontstaat na splitsing als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64):
 
-- a. is [artikel 4, eerste lid en tweede lid, met uitzondering van onderdeel g, h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing;
+- a. zijn van [artikel 4 het eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2022-01-13&g=2022-01-13) met uitzondering van onderdeel h van overeenkomstige toepassing;
 
-- b. is [artikel 5, eerste lid, met uitzondering van onderdeel j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing; en
+- b. is [artikel 5, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-13&g=2022-01-13), van overeenkomstige toepassing;
 
-- c. is een splitsingsplan gevoegd.
+- c. is een splitsingsplan gevoegd; en
+
+- d. zijn de melding en de aanvraag voorzien van het BRIN-nummer van de te splitsen school.
 
 2. Het splitsingsplan omvat:
 
@@ -356,9 +360,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien het bevoegd gezag dat reeds bekostigd wordt voor het verzorgen van leerwegondersteunend onderwijs, bij de minister een aanvraag indient om dit onderwijs in meer leerwegen of op meer vestigingen te verzorgen, neemt de minister hierover een besluit.
 
-2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-01&g=2022-01-01).
+2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-13&g=2022-01-13).
 
-3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-01&g=2022-01-01).
+3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-13&g=2022-01-13).
 
 4. De aanvraag tot uitbreiding leerwegondersteunend onderwijs wordt ingediend in het digitale portaal via de website www.duo.nl.
 
