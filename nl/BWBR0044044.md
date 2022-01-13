@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2022-01-01"
+last_updated: "2022-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -51,6 +51,8 @@ In deze regeling wordt verstaan onder:
 - **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 74a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a);
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+
+- **instellingscode:** door de minister gehanteerd nummer van de school in de Basisregistratie Instellingen van DUO;
 
 - **DUO:** Dienst Uitvoering Onderwijs;
 
@@ -142,7 +144,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-13&g=2022-01-13), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -216,11 +218,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. is [artikel 3, eerste en tweede lid, met uitzondering van de onderdelen f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing;
+- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-01-13&g=2022-01-13) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van de onderdelen j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing; en
+- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-13&g=2022-01-13), van overeenkomstige toepassing;
 
-- c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid.
+- c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid; en
+
+- d. zijn de melding en de aanvraag voorzien van de instellingscode van de te verzelfstandigen vestiging.
 
 2. Het aantal leerlingen op 1 oktober in het jaar voorafgaand aan de aanvraag, bedoeld in [artikel 84a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), is van het overblijvende deel van de school minimaal de opheffingsnorm en van de te verzelfstandigen vestiging minimaal de stichtingsnorm.
 
