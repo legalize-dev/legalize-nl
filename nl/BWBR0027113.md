@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -42,43 +42,43 @@ Besluit:
 
 ### 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- b. **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- **bezoldigingsschaal:** de salarisschaal volgens welke de betrokken leraar wordt bezoldigd;
 
-- c. **voortgezet onderwijs:** het onderwijs, bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- **Convenant Leerkracht van Nederland:** tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, als vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);
 
-- d. **school:** een school of scholengemeenschap voor voortgezet onderwijs zoals bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), die wordt bekostigd op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- **functiemix:** verdeling van leraren in voltijdequivalenten over de bezoldigingsschalen;
 
-- e. **bevoegd gezag:** het bevoegd gezag van een school;
+- **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
 
-- f. **vestiging:** een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16) en [65, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=65) en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 18, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=18);
+- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2020 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2021-10-01&g=2022-01-01) bij deze regeling;
+- **personeelsgegevens:** personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
 
-- h. **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
+- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2021 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2022-01-13&g=2022-01-13);
 
-- i. **personeelsgegevens:** personeelsgegevens zoals bedoeld in bijlage B van het Convenant Leerkracht van Nederland en [bijlage 1 van het Besluit Informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
+- **school:** een school of scholengemeenschap als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), die wordt bekostigd op grond van de wet;
 
-- j. **Convenant Leerkracht van Nederland:** tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, zoals vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);
+- **teldatum:** 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt.
 
-- k. **bezoldigingsschaal:** de salarisschaal volgens welke de betrokken leraar wordt bezoldigd;
+- **vestiging:** hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging als bedoeld in de [artikelen 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73a), [73b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73b) en [73d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73d), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 18, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=18);
 
-- l. **functiemix:** verdeling van leraren in voltijdequivalenten over de bezoldigingsschalen;
+- **voortgezet onderwijs:** het voortgezet onderwijs, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=2);
 
-- m. **teldatum:** 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt.
+- **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
 ### 2. Hoofdlijnen
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2021 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2022 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
-2. De aanvullende personele bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
+2. De aanvullende bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
 - a. versterking van de functiemix in de Randstadregio’s maakt deel uit van de afspraken in het Convenant Leerkracht van Nederland van 1 juli 2008 over versterking van de landelijke functiemix.
 
@@ -86,39 +86,41 @@ In deze regeling wordt verstaan onder:
 
 - c. in het Convenant Leerkracht van Nederland is afgesproken dat de voortgang van deze prestatieafspraken jaarlijks zal worden gemonitord op school- en sectorniveau.
 
-##### Artikel 3. Aanvullende personele bekostiging
+##### Artikel 3. Aanvullende bekostiging
 
-Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2021-10-01&g=2022-01-01).
+De aanvullende bekostiging wordt verstrekt aan bevoegde gezagsorganen met één of meer scholen of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar.
 
-##### Artikel 4. Berekening aanvullende personele bekostiging
+##### Artikel 4. Berekening aanvullende bekostiging
 
-1. Voor deze aanvullende bekostiging is in 2021 een bedrag van € 67,2 miljoen beschikbaar.
+1. Voor de aanvullende bekostiging is in 2022 een bedrag van € 68,75 miljoen beschikbaar.
 
-2. De verstrekking van de aanvullende personele bekostiging vindt plaats per kalenderjaar.
+2. De verstrekking van de aanvullende bekostiging vindt plaats per kalenderjaar.
 
-3. De aanvullende personele bekostiging wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen verdeeld naar rato van het budget dat zij, met inachtneming van de artikelen [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) en [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), in de lumpsumbekostiging aan personele bekostiging ontvangen voor leraren op scholen of vestigingen in de Randstadregio’s. De omvang van dit budget wordt bepaald op basis van het aandeel leerlingen dat les ontvangt op vestigingen binnen de Randstadregio’s ten opzichte van het totaal aantal leerlingen op een school.
+3. De aanvullende bekostiging wordt verdeeld naar rato van de bekostiging, bedoeld in [artikel 79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79), voor scholen of vestigingen in de Randstadregio’s. De aanvullende bekostiging wordt mede bepaald op basis van het aantal leerlingen van een school dat op de teldatum is ingeschreven op een vestiging gelegen binnen de Randstadregio’s ten opzichte van het totale aantal leerlingen dat op de teldatum is ingeschreven op alle scholen voor zover het de vestigingen betreft die zijn gelegen binnen de Randstadregio’s. Herrekening op basis van het door de instellingaccountant gevalideerde aantal leerlingen vindt niet plaats.
 
 4. De aanvullende bekostiging van een in aanmerking komende school wordt berekend op grond van de volgende formule:
 
-Xi=A * (Bi * LLri/ LLi) / Σ(Bi * LLri/ LLi).
+Xi= A * (Bi* LLri / LLi)/Σ(Bi * LLri/ LLi).
 
 De definitie van de verschillende componenten uit deze formule is als volgt:
 
-- a. Xi = de aanvullende personele bekostiging voor een individuele school;
+Xi = de aanvullende bekostiging voor een individuele school;
 
-- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2021-10-01&g=2022-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
+A = het voor aanvullende bekostiging beschikbare bedrag, genoemd in het eerste lid;
 
-- c. Bi = reguliere personele bekostiging voor leraren van school i in het betreffende kalenderjaar als bedoeld in [artikel 8 van het Formatiebesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005446&artikel=8);
+Bi = de bekostiging, bedoeld in [artikel 79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79), van school i in het betreffende kalenderjaar;
 
-- d. LLri = de op de teldatum bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i, uitgaande van voorlopige leerlingaantallen;
+LLri = de op de teldatum bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i;
 
-- e. LLi = de op de teldatum bekostigde leerlingen van school i, uitgaande van voorlopige leerlingaantallen;
+LLi = de op de teldatum bekostigde leerlingen van school i;
 
-- f. Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor deze regeling in aanmerking komende scholen.
+Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2022-01-13&g=2022-01-13) in aanmerking komende scholen.
 
-##### Artikel 5. Betaling aanvullende personele bekostiging
+##### Artikel 5. Vaststelling en betaling aanvullende bekostiging
 
-De betaling van de aanvullende bekostiging vindt plaats volgens het gebruikelijke betaalritme van de reguliere personele bekostiging.
+1. De aanvullende bekostiging wordt uiterlijk in de maand mei vastgesteld en deze wordt betaald in maandelijkse termijnen van gelijke omvang.
+
+2. Bij de eerste betaling wordt rekening gehouden met het moment van vaststellen. In de maand waarop de vaststelling en de eerste betaling plaatsvindt wordt ook de bekostiging van de eventueel voorafgaande maand of maanden betaald.
 
 ### 3. Verantwoording
 
