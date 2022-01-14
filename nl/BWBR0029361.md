@@ -4,7 +4,7 @@ identifier: "BWBR0029361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-14"
-last_updated: "2021-06-20"
+last_updated: "2022-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029361"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 6. Een machtiging wordt niet verleend
 
-- a. ten behoeve van een vreemdeling zonder rechtmatig verblijf als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), tenzij begeleid verlof naar het oordeel van de Minister noodzakelijk is ten behoeve van het vertrek uit Nederland;
+- a. ten behoeve van een vreemdeling zonder rechtmatig verblijf als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), tenzij begeleid verlof naar het oordeel van de Minister noodzakelijk is ten behoeve van het vertrek uit Nederland of ter voorbereiding op de resocialisatie van de vreemdeling in het land van herkomst;
 
 - b. ten behoeve van verlof in het buitenland, met inbegrip van de delen van het Koninkrijk buiten Europa;
 
@@ -110,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - d. indien een levenslange gevangenisstraf wordt ondergaan, tenzij de verpleegde activiteiten worden aangeboden als bedoeld in [artikel 1, onderdeel f, van het Besluit Adviescollege levenslanggestraften](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=1) en aan de overige voorwaarden voor het verlenen van verlof wordt voldaan.
 
-7. De risicotaxatie bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20), is niet ouder dan een jaar, gerekend vanaf de datum van de verlofaanvraag.
+7. De risicotaxatie bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), is niet ouder dan een jaar, gerekend vanaf de datum van de verlofaanvraag.
 
 ##### Artikel 3
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het verzoek bevat die informatie die relevant is voor de gevraagde wijziging. De wijziging van het verlofplan past binnen de bestaande machtiging.
 
-3. Het verzoek voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20).
+3. Het verzoek voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14).
 
 ##### Artikel 4
 
@@ -136,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 1. Met het oog op een nieuwe machtiging wordt door het hoofd FPC een evaluatie opgesteld, die ten hoogste vier maanden en uiterlijk twee maanden voordat de machtiging verloopt, wordt ingediend.
 
-2. De evaluatie voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met vierde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20).
+2. De evaluatie voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met vierde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14).
 
 ##### Artikel 6
 
@@ -144,11 +144,9 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid, wordt de aanvraag voor een machtiging incidenteel verlof en de aanvraag voor een machtiging eenmalig begeleid verlof uitgezonderd van advisering door het AVt.
 
-3. In afwijking van het eerste lid, is advisering door het AVt niet verplicht voor de aanvraag voor een machtiging begeleid verlof voor vreemdelingen zonder rechtmatig verblijf als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+3. Indien het AVt adviseert geen machtiging te verlenen, beslist de Minister dienovereenkomstig.
 
-4. Indien het AVt adviseert geen machtiging te verlenen, beslist de Minister dienovereenkomstig.
-
-5. Indien het AVt adviseert een machtiging te verlenen, kan de Minister gemotiveerd een andere beslissing nemen.
+4. Indien het AVt adviseert een machtiging te verlenen, kan de Minister gemotiveerd een andere beslissing nemen.
 
 ##### Artikel 7
 
@@ -192,17 +190,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 12
 
-1. Voor de ter beschikking gestelde die geplaatst is in een longstay-voorziening wordt geen machtiging voor verlof verleend, behoudens het bepaalde in het tweede en vijfde lid en het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2021-06-20&g=2021-06-20) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2021-06-20&g=2021-06-20).
+1. Voor de ter beschikking gestelde die geplaatst is in een longstay-voorziening wordt geen machtiging voor verlof verleend, behoudens het bepaalde in het tweede en vijfde lid en het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2022-01-14&g=2022-01-14) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2022-01-14&g=2022-01-14).
 
 2. Het hoofd FPC kan voor de ter beschikking gestelde, die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, een machtiging begeleid verlof aanvragen.
 
-3. De aanvraag voor een machtiging begeleid verlof voor een ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20), informatie omtrent de aanvaarding door de ter beschikking gestelde van zijn verblijf in een longstay-voorziening.
+3. De aanvraag voor een machtiging begeleid verlof voor een ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), informatie omtrent de aanvaarding door de ter beschikking gestelde van zijn verblijf in een longstay-voorziening.
 
 4. Het hoofd FPC kan de ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, en voor wie een machtiging is verleend, begeleid verlof in groepsverband verlenen na toestemming van de Minister. De Minister geeft slechts toestemming voor bedoeld verlof, indien groepssamenstelling en groepsgrootte geen veiligheidsrisico’s voor de samenleving opleveren. De aanvraag voor begeleid groepsverlof bevat de informatie op basis waarvan bedoelde veiligheidsrisico’s kunnen worden afgewogen.
 
 5. Het hoofd FPC kan voor de ter beschikking gestelde, die geplaatst is in een voorziening voor langdurige forensische en psychiatrische zorg en voor wie een laag beveiligingsniveau is vastgesteld, maximaal twee maal een machtiging onbegeleid verlof aanvragen indien bedoeld verlof noodzakelijk is voor de plaatsing in een vervolgvoorziening.
 
-6. De aanvraag als bedoeld in het vijfde lid bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20), een uitstroomplan waarin de noodzaak van bedoeld verlof gemotiveerd wordt toegelicht.
+6. De aanvraag als bedoeld in het vijfde lid bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), een uitstroomplan waarin de noodzaak van bedoeld verlof gemotiveerd wordt toegelicht.
 
 7. De Minister kan aan de in dit artikel bedoelde verlofverlening aanvullende voorwaarden verbinden.
 
@@ -212,7 +210,7 @@ In deze regeling wordt verstaan onder:
 
 1. De aanvraag voor een machtiging tot incidenteel verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn in de persoonlijke levenssfeer van de ter beschikking gestelde of anderszins verpleegde, die zijn aanwezigheid op een plaats buiten het FPC, om redenen van humanitaire aard, noodzakelijk maakt.
 
-2. Op een aanvraag voor een machtiging tot incidenteel verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20), niet van toepassing.
+2. Op een aanvraag voor een machtiging tot incidenteel verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), niet van toepassing.
 
 3. In de aanvraag voor een machtiging tot incidenteel verlof geeft het hoofd FPC aan welke beveiliging en begeleiding hij noodzakelijk acht.
 
@@ -222,7 +220,7 @@ In deze regeling wordt verstaan onder:
 
 1. De aanvraag voor een machtiging voor eenmalig begeleid verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn, die de aanwezigheid van de ter beschikking gestelde of anderszins verpleegde op een plaats buiten het FPC noodzakelijk maakt, om redenen die voortvloeien uit de resocialisatie.
 
-2. Op een aanvraag voor een machtiging eenmalig begeleid verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2021-06-20&g=2021-06-20), niet van toepassing.
+2. Op een aanvraag voor een machtiging eenmalig begeleid verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), niet van toepassing.
 
 3. In de aanvraag voor een machtiging eenmalig begeleid verlof geeft het hoofd van het FPC aan welke beveiliging en/of begeleiding hij noodzakelijk acht.
 
@@ -260,7 +258,7 @@ In deze regeling wordt verstaan onder:
 
 1. Indien een machtiging is vervallen doordat de ter beschikking gestelde of anderszins verpleegde, ten behoeve van wie de machtiging was verleend, door het openbaar ministerie is aangemerkt als verdachte van een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, wordt géén nieuwe machtiging verleend zolang de zaak nog niet onherroepelijk is afgedaan.
 
-2. Het eerste lid is niet van toepassing in die gevallen dat een machtiging wordt aangevraagd op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2021-06-20&g=2021-06-20) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2021-06-20&g=2021-06-20).
+2. Het eerste lid is niet van toepassing in die gevallen dat een machtiging wordt aangevraagd op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2022-01-14&g=2022-01-14) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2022-01-14&g=2022-01-14).
 
 ### Hoofdstuk 7. Overgangsbepaling
 
@@ -288,47 +286,47 @@ Mits-nummer:
 
 Hierbij zenden wij u [de aanmelding]/ [de aanvraag]/ [het advies] met bijlagen ten behoeve van [naam patiënt], geboren [datum] te [plaats]
 
-### BOX 3. Behandeling
+### 1.2. Verloop tbs maatregel
 
-### 1.1. Voorgeschiedenis en Persoonsgegevens
+### 1.3. Korte biografische schets tot oplegging huidige maatregel
 
-### BOX 4. Risicotaxatie en risicomanagement
+### 1.4. Strafrechtelijk verloop van de criminogene ontwikkeling tot oplegging huidige maatregel
 
-### BOX 5. Aanvraag verlofmodaliteit en (proef)verlofplan
+### 1.5. Behandelgeschiedenis tot oplegging huidige maatregel
 
-### Box 2. Delictdiagnostiek
+### 1.6. Behandelgeschiedenis van oplegging huidige maatregel, advies of aanvraag
 
-### BOX 5a. Slachtofferonderzoek en maatschappelijke gevoeligheid
+### Box 2. (Delict)diagnostiek
 
-### BOX 8. Houding ter beschikking gestelde
+### 2.1. Diagnostiek
 
-### Bijlage 2. : overzicht van voorgestelde wijzigingen1Door toevoegingen en wijzigingen te benoemen wordt uiteengezet hoe het huidige format in het voorgestelde format terugkomt. De wijzigingen op het gebied van de gevraagde informatie worden per box besproken. De verplaatsingen worden eenmalig weergegeven, dus niet bij beide boxen. Binnen de boxen is de volgorde van de punten ook aangepast. De weergave hiervan is zeer gedetailleerd en op aanvraag beschikbaar.
+### 2.2. Delicttheorie op basis van de delictanalyse
 
-### Box 0. Samenvatting (nieuw)
+### 2.3. Delictgerelateerde criminogene factoren
 
-### 3.3. Incidenten2Hieronder vallen tevens alle voorvallen die dienen te worden gemeld op grond van de Regeling melding bijzonder voorval.
-
-### Box 1. Voorgeschiedenis
-
-### 3a.1. Verloop begeleiding tot aan de aanvraag.
-
-### 3a.2. Medicatie
-
-### Box 2. (delict)Diagnostiek
-
-### Box 4. Risicotaxatie en risicomanagement
-
-### 4.1. Risicoanalyse
+### 2.4. Indien aan de orde, ander risicovol gedrag
 
 ### Box 3. Behandeling
 
-### 4.3. Recidivegevaar
+### 3.1. Behandeling per delictgerelateerde criminogene factor
 
-### Box 4a. Risicotaxatie en risicomanagement bij evaluatie proefverlof
+### 3a.2. Medicatie
+
+### 3.2. Behandelverloop huidige FPC (focus op het afgelopen jaar)
+
+### 3.3. Incidenten
+
+### Box 4. Risicotaxatie en risicomanagement
+
+### 4.1. Beknopte weergave ingevulde risicotaxatie-instrumenten
+
+### 4.2. Welke risico’s kunnen ontstaan bij deze aanvraag of dit advies?
+
+### 4.3. Recidiverisico, inclusief schadekansen, en risico op ongeoorloofde afwezigheid
 
 ### Box 4. Risicotaxatie en Risicomanagement
 
-### 4a.2. Specifieke/overige dynamische risicofactoren en beloop risicomanagement
+### Box 5. Aanvraag verlofmodaliteit en (proef)verlofplan
 
 ### 4a.3. Slachtoffergerichte voorwaarden
 
@@ -336,23 +334,23 @@ Hierbij zenden wij u [de aanmelding]/ [de aanvraag]/ [het advies] met bijlagen t
 
 ### Box 5. Verlofplan
 
-### 5.1. Verlofplan
+### 5.1. Verlofmodaliteit en de datum akkoord interne verloftoetsingscommissie
 
 Overig:
 
-### Box 5a. Beschouwing FPC bij evaluatie proefverlof
+### 5.3. (proef)Verlofplan: verlofgerelateerd risicomanagement, waaronder verlofvoorwaarden
 
-### Box 5a2De nummering van de boxen wijkt af. In samenspraak met het werkveld is in 2010 één boxenformat vastgesteld. Box 6 (verlenging maatregel), box 7 (herselectie) en box 9 (aanvraag longstayplaatsing) zijn niet opgenomen in de ministeriële Verlofregeling TBS en derhalve ongewijzigd.. Slachtofferonderzoek en maatschappelijke gevoeligheid (nieuw)
+### 5.4. (proef)Verlofplan: stappenplan
 
 Toegevoegd:
 
-### Box 83De nummering van de boxen wijkt af. In samenspraak met het werkveld is in 2010 één boxenformat vastgesteld. Box 6 (verlenging maatregel), box 7 (herselectie) en box 9 (aanvraag longstayplaatsing) zijn niet opgenomen in de ministeriële Verlofregeling TBS en derhalve ongewijzigd.. Houding ter beschikking gestelde
+### 5.6. Relatie met andere adviezen/beslissingen
 
-### 8.1. Motivatie patiënt
+### 5.7. Verloop eerder verlof
 
-### Bijlage 3. : huidig format verlofaanvragen, zoals opgenomen in de Verlofregeling TBS van 24 december 2010
+### 5.8. Voorwaarden begeleid verlof bij vreemdelingen
 
-### Format bij de ministeriële regeling Verloftoetsing tbs
+### Box 5a. Slachtofferonderzoek en maatschappelijke gevoeligheid
 
 ### Box 8a. Bijlage evaluatie proefverlof
 
@@ -360,11 +358,11 @@ Toegevoegd:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### BOX 0. Samenvatting
+### Box 0. Samenvatting
 
-### BOX 1. Voorgeschiedenis
+### Box 1. Voorgeschiedenis
 
-### BOX 2. (Delict)diagnostiek
+### 1.1. Indexdelict
 
 **Indien het proefverlof betreft, kan “begeleiding” worden gelezen waar “behandeling” staat vermeld.**
 
@@ -374,7 +372,7 @@ Toegevoegd:
 
 Toegevoegd:
 
-Verplaatst:
+Korte vermelding/opsomming interventies: betrokkene heeft meegewerkt aan een delictanalyse, schematherapie, een middelenanalyse, etc.
 
 Toegevoegd:
 
@@ -386,9 +384,9 @@ Verplaatst:
 
 Toegevoegd:
 
-Verplaatst:
+**Indien evaluatie proefverlof: in deze box alleen 5.1, 5.2, 5.3 en 5.7 invullen**
 
-Toegevoegd:
+**Indien tbs-gestelde zonder geldige verblijfstatus in Nederland, ook 5.8 invullen**
 
 Verplaatst:
 
@@ -396,7 +394,7 @@ Bij een evaluatie proefverlof zijn niet alle boxen relevant. In het huidige form
 
 Toegevoegd:
 
-[naam FPC]
+**In geval er gesproken wordt over het slachtoffer wordt bedoeld alle slachtoffers van het indexdelict en/of hun omgeving (bijvoorbeeld nabestaanden).**
 
 kenmerk:
 
@@ -404,21 +402,21 @@ Mits-nummer:
 
 Hierbij zenden wij u [de aanmelding]/[de aanvraag]/[het advies] met bijlagen ten behoeve van [naam patiënt], geboren [datum] te [plaats]
 
-### Box 1. Persoonsgegevens en voorgeschiedenis
+### 5a.5. Maatschappelijke gevoeligheid
 
-### Box 2. Delictdiagnostiek
+### 5a.6. Slotsom
 
 ### Box 3. Behandelverloop tot de aanvraag
 
-### Box 3a. Behandelverloop bij evaluatie proefverlof
+### Box 8. Houding ter beschikking gestelde
 
-### Box 4. Risicotaxatie en risicomanagement
+### 8.1. Houding van de ter beschikking gestelde ten aanzien van het indexdelict
 
-### Box 4a. Risicotaxatie en risicomanagement bij evaluatie proefverlof
+### 8.2. Houding van de ter beschikking gestelde ten aanzien van het slachtoffer
 
-### Box 5. Verlofplan
+### 8.3. Reactie van ter beschikking gestelde bij bespreken onderliggende rapportage
 
-### Box 5a. Beschouwing FPC bij evaluatie proefverlof
+### 8.4. Overeenstemming over het te volgen traject
 
 **Verlofplan**
 
@@ -429,5 +427,27 @@ Op [datum] heeft het (wnd.) hoofd van het FPC op advies van de multidisciplinair
 ### Box 8a. Bijlage evaluatie proefverlof
 
 Meegestuurde bijlagen door FPC:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Persoons- en aanvraaggegevens
+
+Bondig gemotiveerd consensusoordeel in termen van laag, matig of hoog over:
+
+**Indien verlengingsadvies: in deze box alleen 5.2, 5.5 en 5.6 invullen**
+
+### 5.2. (proef)Verlofplan: plaats van het verlof in de behandeling en verlofdoelen
+
+### 5.5. Koers en prognose
+
+### 5a.1. Relatie tot het slachtoffer
+
+### 5a.2. Confrontatie en geografie
+
+### 5a.3. Slachtofferschuld
+
+### 5a.4. Informatie
+
+Afwegingen in het slachtofferonderzoek en de maatschappelijke gevoeligheid
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
