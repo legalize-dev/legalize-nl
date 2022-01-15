@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2022-01-10"
+last_updated: "2022-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **Ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap,
 
-- b. **bewindspersoon:** Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
+- b. **bewindspersoon:** Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Primair en Voortgezet Onderwijs of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
 - c. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
 
@@ -182,7 +182,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2020-06-25&g=2022-01-10), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2022-01-15&g=2022-01-15), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -220,7 +220,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2020-06-25&g=2022-01-10),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2022-01-15&g=2022-01-15),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -242,7 +242,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2020-06-25&g=2022-01-10).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2022-01-15&g=2022-01-15).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -262,7 +262,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2020-06-25&g=2022-01-10) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2022-01-15&g=2022-01-15) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -288,7 +288,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2020-06-25&g=2022-01-10) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2022-01-15&g=2022-01-15) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De Staat der Nederlanden,**
 
@@ -302,7 +302,7 @@ naam van de gemandateerde.
 
 **naam van de gevolmachtigde**
 
-3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2020-06-25&g=2022-01-10) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2022-01-15&g=2022-01-15) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -1282,9 +1282,11 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De bewindspersonen van het ministerie zijn:
 
-- –. mr. drs. I.K. van Engelshoven, Minister van Onderwijs, Cultuur en Wetenschap
+- –. dr. R.H. Dijkgraaf, Minister van Onderwijs, Cultuur en Wetenschap
 
-- –. drs. A. Slob, Minister voor Basis- en Voortgezet Onderwijs en Media
+- –. drs. A.D. Wiersma, Minister voor Primair en Voortgezet Onderwijs
+
+- –. dr. G. Uslu, Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 
 Het managementteam van het ministerie bestaat uit:
 
