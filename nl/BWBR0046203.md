@@ -4,7 +4,7 @@ identifier: "BWBR0046203"
 country: "nl"
 rank: "kb"
 publication_date: "2022-01-19"
-last_updated: "2022-01-10"
+last_updated: "2022-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046203"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en van
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046203&artikel=1&z=2022-01-19&g=2022-01-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046203&artikel=2&z=2022-01-19&g=2022-01-10) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046203&artikel=1&z=2022-01-19&g=2022-01-19) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046203&artikel=2&z=2022-01-19&g=2022-01-19) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
