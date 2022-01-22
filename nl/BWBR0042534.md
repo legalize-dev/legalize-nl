@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2022-01-01"
+last_updated: "2022-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2022-01-22&g=2022-01-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2022-01-22&g=2022-01-22).
 
 ##### Artikel 2. Instelling en taak
 
@@ -61,6 +61,22 @@ In dit besluit wordt verstaan onder:
 - c. stelselpartijen en kennisinfrastructuur; De commissie houdt verbinding met stelselpartijen (met name de Nederlandse Zorgautoriteit (NZa) en Zorgverzekeraars Nederland (ZN)) over de vorderingen bij specifieke doelgroepen. Ook kan de commissie aan de NZa en ZN adviseren over de wijze waarop de bekostiging en de contractering van de specifieke doelgroepen kan gaan plaatsvinden. Daarnaast werkt de commissie de samenhang uit met de overige onderdelen van de kennisinfrastructuur zoals de Academische Werkplaatsen, beroepsorganisaties, Stichting KwaliteitsImpuls Langdurige Zorg, Zorgonderzoek Nederland Medische Wetenschappen en Vilans;
 
 - d. adviseer over de structurele situatie; Het nu aanwijzen van de partijen is geen eenmalige actie. Er zal bezien moeten worden of de aangewezen partijen hun rol in de kennisinfrastructuur waar maken en wellicht zullen de selectiecriteria op termijn geactualiseerd moeten worden. De commissie werkt de mogelijkheden daartoe uit.
+
+3. De commissie heeft tevens tot taak:
+
+- a. het waarborgen en bevorderen van de kwaliteit en continuïteit van de laagvolume hoogcomplexe doelgroepnetwerken en kenniscentra in de langdurige zorg;
+
+- b. het opstellen en beheren van criteria voor doelgroepnetwerken, kenniscentra en expertisecentra die onderdeel zijn van de doelgroepnetwerken, alsmede het inrichten van visitatie en beoordelingsprocessen;
+
+- c. het stimuleren en faciliteren van kennisuitwisseling en kennisimplementatie tussen doelgroepnetwerken en kenniscentra onderling, alsmede met andere kennisinfrastructuren;
+
+- d. het ondersteunen van doelgroepnetwerken en kenniscentra;
+
+- e. het verrichten van visitaties, het adviseren van de minister over onder andere deze visitaties mede ten aanzien van nieuwe doelgroepnetwerken;
+
+- f. het organiseren of doen organiseren van bijeenkomsten; en
+
+- g. het deelnemen in en mede vormgeven aan discussie, opinievorming en beleidsbepaling op het gebied van de laagvolume hoogcomplexe langdurige zorg.
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
@@ -78,21 +94,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instelling
 
-De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2022.
+De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2023.
 
 ##### Artikel 5. Leden
 
-Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en met 31 december 2021 tot lid van de commissie benoemd:
+Met ingang van 1 januari 2022 worden voor de periode van 1 januari 2022 tot en met 1 januari 2023 tot lid van de commissie benoemd:
 
-- a. De heer dr. C.B. Leerink, te Schalkhaar, tevens voorzitter;
+- a. Mevrouw A.A.H.M de Bresser, te Badhoevedorp, tevens voorzitter;
 
-- b. Mevrouw A.A.H.M. de Bresser, te Badhoevedorp;
+- b. Mevrouw M.H.A. Brakx, te Nijmegen;
 
-- c. Mevrouw M.H.A. Brakx, te Nijmegen;
+- c. mevrouw D.A.M. Maes-Festen te Rotterdam;
 
-- d. Mevrouw J.W.M. Pietersen, te Nieuwkoop;
-
-- e. De heer R.T.C.M. Koopmans, te Malden.
+- d. De heer R.T.C.M. Koopmans, te Malden.
 
 ##### Artikel 6. Secretariaat
 
@@ -116,9 +130,9 @@ Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en me
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-01-22&g=2022-01-01), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
+1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-01-22&g=2022-01-22), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-01-22&g=2022-01-01), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-01-22&g=2022-01-22), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding die aan de andere leden van de commissie is toegekend.
 
@@ -134,7 +148,7 @@ Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en me
 
 ##### Artikel 11. Verantwoording
 
-De commissie biedt de minister bij voorkeur vóór 1 december 2021, doch uiterlijk 31 december 2021, een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister bij voorkeur vóór 1 december 2022, doch uiterlijk 31 december 2022 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 12. Archiefbescheiden
 
