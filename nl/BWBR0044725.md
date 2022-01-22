@@ -4,7 +4,7 @@ identifier: "BWBR0044725"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-22"
-last_updated: "2021-01-20"
+last_updated: "2022-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044725"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **activiteitsniveau:** totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
 
-- c. **activiteitspunt:** aan een te veilen FM-vergunning op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
+- c. **activiteitspunt:** aan een te veilen FM-vergunning op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
 
 - d. **bekendmakingsbesluit:** besluit van de minister op grond van [artikel 3.10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), omtrent de keuze en het tijdstip van aanvang van de verdeling van de in dat besluit omschreven vergunning of vergunningen voor niet-landelijke commerciële radio met toepassing van de procedure, bedoeld in artikel 3.10, eerste lid, onder f, van de wet;
 
@@ -92,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 1. Degene die voor een FM-vergunning in aanmerking wil komen, dient daartoe een aanvraag in.
 
-2. Degene die een ontbindende voorwaarde als bedoeld in [artikel 1, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2021-01-20&g=2021-01-20), kan inroepen, dient in ieder geval een aanvraag in voor de FM-vergunning of FM-vergunningen waarop die ontbindende voorwaarde betrekking heeft.
+2. Degene die een ontbindende voorwaarde als bedoeld in [artikel 1, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2022-01-22&g=2022-01-22), kan inroepen, dient in ieder geval een aanvraag in voor de FM-vergunning of FM-vergunningen waarop die ontbindende voorwaarde betrekking heeft.
 
 3. De aanvraag overschrijdt de beschikbare demografische ruimte van de aanvrager niet.
 
@@ -116,9 +116,9 @@ Emmasingel 1
 
 9. In de aanvraag worden de namen vermeld van ten minste één en ten hoogste vier natuurlijke personen, die ieder voor zich zelfstandig bevoegd zijn om namens de aanvrager handelingen te verrichten gedurende de veilingprocedure en die daartoe beschikken over een rechtsgeldige en toereikende volmacht.
 
-10. De aanvraag wordt ingediend met gebruikmaking van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2021-01-20&g=2021-01-20) opgenomen model en gaat, onverminderd de overige in deze regeling gestelde eisen, vergezeld van de in dit model genoemde gegevens en bescheiden.
+10. De aanvraag wordt ingediend met gebruikmaking van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2022-01-22&g=2022-01-22) opgenomen model en gaat, onverminderd de overige in deze regeling gestelde eisen, vergezeld van de in dit model genoemde gegevens en bescheiden.
 
-11. Bij het invullen van de aanvraag neemt de aanvrager het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20) in acht.
+11. Bij het invullen van de aanvraag neemt de aanvrager het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22) in acht.
 
 12. De aanvraag is in de Nederlandse taal gesteld.
 
@@ -126,15 +126,15 @@ Emmasingel 1
 
 14. De gegevens en bescheiden, bedoeld in het dertiende lid, mogen in afwijking van het twaalfde lid, in een van de officiële talen van de Europese Unie of Europese Economische Ruimte worden gesteld. In dat geval worden die gegevens en bescheiden vergezeld van een Nederlandse vertaling van die gegevens en bescheiden.
 
-15. De aanvrager informeert de minister per aangetekende brief, die wordt geadresseerd op de in het vierde lid genoemde wijze, onverwijld over wijzigingen met betrekking tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2021-01-20&g=2021-01-20) bedoelde gegevens en bescheiden.
+15. De aanvrager informeert de minister per aangetekende brief, die wordt geadresseerd op de in het vierde lid genoemde wijze, onverwijld over wijzigingen met betrekking tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2022-01-22&g=2022-01-22) bedoelde gegevens en bescheiden.
 
 16. Op de termijn, bedoeld in het vierde lid, is [artikel 1, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Teneinde te kunnen voldoen aan het Nationaal Frequentieplan 2014 doet de aanvrager die een aanvraag doet voor een FM-vergunning, zijn aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), vergezeld gaan van een aanvraag voor een vergunning voor digitale radio-omroep per FM-vergunning waarop de aanvraag ingevolge artikel 3, zevende lid, betrekking heeft, onder de voorwaarde dat aan hem op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2021-01-20&g=2021-01-20), of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=28&z=2021-01-20&g=2021-01-20) een FM-vergunning wordt verleend.
+1. Teneinde te kunnen voldoen aan het Nationaal Frequentieplan 2014 doet de aanvrager die een aanvraag doet voor een FM-vergunning, zijn aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), vergezeld gaan van een aanvraag voor een vergunning voor digitale radio-omroep per FM-vergunning waarop de aanvraag ingevolge artikel 3, zevende lid, betrekking heeft, onder de voorwaarde dat aan hem op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22), of [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=28&z=2022-01-22&g=2022-01-22) een FM-vergunning wordt verleend.
 
-2. De aanvraag, bedoeld in het eerste lid, wordt ingediend met gebruikmaking van het daartoe in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2021-01-20&g=2021-01-20), onderdeel C, opgenomen model.
+2. De aanvraag, bedoeld in het eerste lid, wordt ingediend met gebruikmaking van het daartoe in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=I&z=2022-01-22&g=2022-01-22), onderdeel C, opgenomen model.
 
 ##### Artikel 5
 
@@ -142,15 +142,15 @@ Emmasingel 1
 
 - a. de aanvrager op grond van zijn beschikbare demografische ruimte geen van de FM-vergunningen kan verwerven;
 
-- b. niet is voldaan aan [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20).
+- b. niet is voldaan aan [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22).
 
-2. De aanvraag wordt gedeeltelijk geweigerd met betrekking tot een FM-vergunning waarvoor de betrokken aanvrager niet in aanmerking kan komen, omdat verlening daarvan in strijd zou komen met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20).
+2. De aanvraag wordt gedeeltelijk geweigerd met betrekking tot een FM-vergunning waarvoor de betrokken aanvrager niet in aanmerking kan komen, omdat verlening daarvan in strijd zou komen met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22).
 
-3. De aanvraag wordt gedeeltelijk geweigerd voor de FM-vergunningen die ingevolge het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20) niet aan hem kunnen worden verleend. Het aantal activiteitspunten waarover de aanvrager kan beschikken, wordt met hetzelfde aantal verminderd. Bij deze gedeeltelijke afwijzing vermeldt de minister op welke FM-vergunningen de aanvraag als gevolg van deze gedeeltelijke weigering betrekking heeft.
+3. De aanvraag wordt gedeeltelijk geweigerd voor de FM-vergunningen die ingevolge het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22) niet aan hem kunnen worden verleend. Het aantal activiteitspunten waarover de aanvrager kan beschikken, wordt met hetzelfde aantal verminderd. Bij deze gedeeltelijke afwijzing vermeldt de minister op welke FM-vergunningen de aanvraag als gevolg van deze gedeeltelijke weigering betrekking heeft.
 
 ##### Artikel 6
 
-1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de FM-vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per FM-vergunning waar de aanvraag ingevolge [artikel 3, zevende](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), of, voor zover van toepassing, na toepassing van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2021-01-20&g=2021-01-20), betrekking op heeft, ter grootte van € 20.000,–.
+1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de FM-vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per FM-vergunning waar de aanvraag ingevolge [artikel 3, zevende](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), of, voor zover van toepassing, na toepassing van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2022-01-22&g=2022-01-22), betrekking op heeft, ter grootte van € 20.000,–.
 
 2. De waarborgsom wordt verstrekt voor de periode tot:
 
@@ -160,33 +160,33 @@ Emmasingel 1
 
 - c. in geval van intrekking van de aanvraag, het tijdstip van de intrekking;
 
-- d. in geval van toewijzing van de aanvraag, het tijdstip waarop het winnende bod als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20), volledig is betaald.
+- d. in geval van toewijzing van de aanvraag, het tijdstip waarop het winnende bod als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22), volledig is betaald.
 
-3. Een aanvrager zorgt ervoor dat uiterlijk op het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), bedoelde tijdstip:
+3. Een aanvrager zorgt ervoor dat uiterlijk op het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), bedoelde tijdstip:
 
 - a. de waarborgsom is ontvangen op bankrekeningnummer 705001199, IBAN: NL41INGB0705001199, BIC: INGBNL2A, ten name van Ministerie van Economische Zaken en Klimaat, Agentschap Telecom, Afdeling Finance & Control, onder vermelding van naam en nummer van het betrokken bekendmakingsbesluit, of
 
-- b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=II&z=2021-01-20&g=2021-01-20), is ontvangen op het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), genoemde adres.
+- b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=II&z=2022-01-22&g=2022-01-22), is ontvangen op het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), genoemde adres.
 
-4. In geval blijkt dat voor meer FM-vergunningen een waarborgsom is gestort dan het aantal waar de aanvraag na een gedeeltelijke weigering op grond van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2021-01-20&g=2021-01-20), betrekking op heeft, wordt het te hoog gestorte bedrag aan de betrokken aanvrager teruggestort uiterlijk twee weken na de gedeeltelijke weigering. De minister vergoedt aan de aanvrager rente over dat te hoog gestorte bedrag over de periode vanaf de dag na de dag dat de gedeeltelijke weigering op grond van artikel 5, tweede of derde lid is gedaan tot en met de dag voorafgaand aan de dag waarop het te hoog gestorte bedrag door de minister wordt teruggestort. Deze rente wordt op dezelfde dag teruggestort als de dag waarop hij het te hoog gestorte bedrag terugstort.
+4. In geval blijkt dat voor meer FM-vergunningen een waarborgsom is gestort dan het aantal waar de aanvraag na een gedeeltelijke weigering op grond van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2022-01-22&g=2022-01-22), betrekking op heeft, wordt het te hoog gestorte bedrag aan de betrokken aanvrager teruggestort uiterlijk twee weken na de gedeeltelijke weigering. De minister vergoedt aan de aanvrager rente over dat te hoog gestorte bedrag over de periode vanaf de dag na de dag dat de gedeeltelijke weigering op grond van artikel 5, tweede of derde lid is gedaan tot en met de dag voorafgaand aan de dag waarop het te hoog gestorte bedrag door de minister wordt teruggestort. Deze rente wordt op dezelfde dag teruggestort als de dag waarop hij het te hoog gestorte bedrag terugstort.
 
 ##### Artikel 7
 
-1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20), [artikel 3, tweede, derde, zesde tot en met tiende lid, twaalfde lid of veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2021-01-20&g=2021-01-20) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
+1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22), [artikel 3, tweede, derde, zesde tot en met tiende lid, twaalfde lid of veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2022-01-22&g=2022-01-22) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
 2. De aanvrager heeft gedurende tien werkdagen, te rekenen vanaf de dag na dagtekening van de mededeling, bedoeld in het eerste lid, de gelegenheid het verzuim te herstellen.
 
-3. De gegevens of bescheiden ten behoeve van het verzuimherstel worden per aangetekende post ontvangen dan wel door middel van persoonlijke overhandiging ingediend op het adres, genoemd in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), binnen de in het tweede lid bedoelde termijn, met dien verstande dat de ontvangst geschiedt vóór 16.00 uur van de laatste werkdag van die termijn.
+3. De gegevens of bescheiden ten behoeve van het verzuimherstel worden per aangetekende post ontvangen dan wel door middel van persoonlijke overhandiging ingediend op het adres, genoemd in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), binnen de in het tweede lid bedoelde termijn, met dien verstande dat de ontvangst geschiedt vóór 16.00 uur van de laatste werkdag van die termijn.
 
-4. Verzuimherstel aangaande de waarborgsom geschiedt binnen dezelfde termijn, en met gebruikmaking van het bankrekeningnummer, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20).
+4. Verzuimherstel aangaande de waarborgsom geschiedt binnen dezelfde termijn, en met gebruikmaking van het bankrekeningnummer, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22).
 
-5. [Artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), is van overeenkomstige toepassing met dien verstande dat als datum en tijdstip van ontvangst gelden de datum en het tijdstip waarop de gegevens en bescheiden, bedoeld in het derde lid, zijn ontvangen.
+5. [Artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), is van overeenkomstige toepassing met dien verstande dat als datum en tijdstip van ontvangst gelden de datum en het tijdstip waarop de gegevens en bescheiden, bedoeld in het derde lid, zijn ontvangen.
 
-6. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en op de wijze, vermeld in het derde lid, is hersteld of indien na herstel niet wordt voldaan aan de in [artikel 3, zesde tot en met tiende lid, twaalfde lid of veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2021-01-20&g=2021-01-20) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20), gestelde eisen, kan de minister besluiten de aanvraag met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
+6. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en op de wijze, vermeld in het derde lid, is hersteld of indien na herstel niet wordt voldaan aan de in [artikel 3, zesde tot en met tiende lid, twaalfde lid of veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2022-01-22&g=2022-01-22) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), gestelde eisen, kan de minister besluiten de aanvraag met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
 ##### Artikel 8
 
-Een aanvrager heeft zich blijkens een door hem ondertekende verklaring overeenkomstig [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=III&z=2021-01-20&g=2021-01-20) bij deze regeling ertoe verplicht dat een krachtens deze regeling aan hem verleende FM-vergunning zal worden gebruikt voor het uitzenden van een radioprogramma van een commerciële omroepinstelling dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
+Een aanvrager heeft zich blijkens een door hem ondertekende verklaring overeenkomstig [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=III&z=2022-01-22&g=2022-01-22) bij deze regeling ertoe verplicht dat een krachtens deze regeling aan hem verleende FM-vergunning zal worden gebruikt voor het uitzenden van een radioprogramma van een commerciële omroepinstelling dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
 
 ##### Artikel 9
 
@@ -208,7 +208,7 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 ##### Artikel 11
 
-1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring, overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=IV&z=2021-01-20&g=2021-01-20) bij deze regeling, dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
+1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring, overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=IV&z=2022-01-22&g=2022-01-22) bij deze regeling, dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
 
 2. De minister kan een aanvraag afwijzen als:
 
@@ -220,31 +220,31 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 ##### Artikel 12
 
-1. In geval blijkens het bekendmakingsbesluit één FM-vergunning verdeeld wordt en de minister ten aanzien van die FM-vergunning vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, de aanvraag is ingetrokken of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, slechts één aanvraag voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2021-01-20&g=2021-01-20) van deze regeling gestelde eisen, vindt geen veiling van de FM-vergunning plaats en wordt die FM-vergunning aan de betreffende aanvrager om niet verleend.
+1. In geval blijkens het bekendmakingsbesluit één FM-vergunning verdeeld wordt en de minister ten aanzien van die FM-vergunning vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, de aanvraag is ingetrokken of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, slechts één aanvraag voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2022-01-22&g=2022-01-22) van deze regeling gestelde eisen, vindt geen veiling van de FM-vergunning plaats en wordt die FM-vergunning aan de betreffende aanvrager om niet verleend.
 
-2. In geval blijkens het bekendmakingsbesluit twee of meer FM-vergunningen worden verdeeld en de minister voor een FM-vergunning vaststelt dat, uitgezonderd de aanvraag die buiten behandeling is gesteld, de aanvraag die geheel is afgewezen, de aanvraag die is ingetrokken, de aanvraag van de aanvrager aan wie de betrokken FM-vergunning gelet op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20), niet kan worden verleend, of de aanvraag die op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, slechts één aanvraag voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2021-01-20&g=2021-01-20) van deze regeling gestelde eisen, vindt geen veiling van de FM-vergunning plaats, en wordt die FM-vergunning aan de betreffende aanvrager om niet verleend.
+2. In geval blijkens het bekendmakingsbesluit twee of meer FM-vergunningen worden verdeeld en de minister voor een FM-vergunning vaststelt dat, uitgezonderd de aanvraag die buiten behandeling is gesteld, de aanvraag die geheel is afgewezen, de aanvraag die is ingetrokken, de aanvraag van de aanvrager aan wie de betrokken FM-vergunning gelet op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22), niet kan worden verleend, of de aanvraag die op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, slechts één aanvraag voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2022-01-22&g=2022-01-22) van deze regeling gestelde eisen, vindt geen veiling van de FM-vergunning plaats, en wordt die FM-vergunning aan de betreffende aanvrager om niet verleend.
 
-3. In geval toepassing wordt gegeven aan het eerste dan wel tweede lid, kan de houder van een FM-vergunning de ontbindende voorwaarde inroepen indien hij niet degene is die als enige aanvrager voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2021-01-20&g=2021-01-20) van deze regeling gestelde eisen. Het inroepen van een ontbindende voorwaarde geschiedt uiterlijk tot 16:00 uur op de tweede werkdag nadat de houder van de FM-vergunning door de minister van de voorgenomen toepassing van het eerste dan wel tweede lid in kennis is gesteld. [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20) is van overeenkomstige toepassing.
+3. In geval toepassing wordt gegeven aan het eerste dan wel tweede lid, kan de houder van een FM-vergunning de ontbindende voorwaarde inroepen indien hij niet degene is die als enige aanvrager voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2022-01-22&g=2022-01-22) van deze regeling gestelde eisen. Het inroepen van een ontbindende voorwaarde geschiedt uiterlijk tot 16:00 uur op de tweede werkdag nadat de houder van de FM-vergunning door de minister van de voorgenomen toepassing van het eerste dan wel tweede lid in kennis is gesteld. [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22) is van overeenkomstige toepassing.
 
-4. Indien de aanvrager aan wie op grond van het eerste of tweede lid een FM-vergunning om niet is verleend ter zekerheidsstelling een waarborgsom heeft verstrekt, wordt uiterlijk twee weken na de verlening van de FM-vergunning een bedrag van € 20.000,– aan de betrokken aanvrager teruggestort per FM-vergunning die aan hem om niet is verleend. De minister vergoedt aan de aanvrager rente over dat bedrag over de periode vanaf de dag dat hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20), tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort. Deze rente wordt op dezelfde dag gestort als de dag waarop de waarborgsom wordt terugstort.
+4. Indien de aanvrager aan wie op grond van het eerste of tweede lid een FM-vergunning om niet is verleend ter zekerheidsstelling een waarborgsom heeft verstrekt, wordt uiterlijk twee weken na de verlening van de FM-vergunning een bedrag van € 20.000,– aan de betrokken aanvrager teruggestort per FM-vergunning die aan hem om niet is verleend. De minister vergoedt aan de aanvrager rente over dat bedrag over de periode vanaf de dag dat hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort. Deze rente wordt op dezelfde dag gestort als de dag waarop de waarborgsom wordt terugstort.
 
 5. Indien de aanvrager aan wie op grond van het eerste of tweede lid een vergunning om niet is verleend ter zekerheidsstelling een bankgarantie heeft verstrekt, stuurt de minister, uiterlijk twee weken na de verdeling van de betrokken FM-vergunning, aan de bank van de aanvrager een schriftelijke verklaring dat de bankgarantie vervalt, indien als gevolg van de verlening om niet:
 
 - a. ten aanzien van geen enkele FM-vergunning op grond van het tweede lid de noodzaak van veilen is komen vast te staan, of
 
-- b. de betrokken aanvrager, gelet op het bepaalde in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), niet over voldoende activiteitspunten beschikt om toegelaten te worden tot de veiling.
+- b. de betrokken aanvrager, gelet op het bepaalde in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), niet over voldoende activiteitspunten beschikt om toegelaten te worden tot de veiling.
 
 6. Ten aanzien van een FM-vergunning die blijkens het bekendmakingsbesluit wordt verdeeld en die niet op grond van het eerste of tweede lid om niet wordt verleend, is de noodzaak van veilen komen vast te staan.
 
 ##### Artikel 13
 
-1. Indien na toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20) de noodzaak van veilen van een FM-vergunning is komen vast te staan, deelt de minister de aanvragers, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, de aanvraag is ingetrokken of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, schriftelijk mee dat zij als deelnemer worden toegelaten tot de veiling.
+1. Indien na toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22) de noodzaak van veilen van een FM-vergunning is komen vast te staan, deelt de minister de aanvragers, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, de aanvraag is ingetrokken of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, schriftelijk mee dat zij als deelnemer worden toegelaten tot de veiling.
 
 2. Bij de mededeling, bedoeld in het eerste lid, wordt tevens bekendgemaakt:
 
 - a. wie deelnemen aan de veiling van een FM-vergunning;
 
-- b. de FM-vergunning of de FM-vergunningen waarop de deelnemer een bod kan uitbrengen, in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20);
+- b. de FM-vergunning of de FM-vergunningen waarop de deelnemer een bod kan uitbrengen, in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22);
 
 - c. het aantal activiteitspunten waarover de deelnemer aan het begin van de veiling kan beschikken;
 
@@ -252,19 +252,19 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 - e. in geval meerdere FM-vergunningen worden verdeeld en de deelnemer meerdere vergunningen heeft aangevraagd, de combinaties van FM-vergunningen waarop de deelnemer bij aanvang van de veiling uitsluitend een bod kan uitbrengen.
 
-3. Het aantal activiteitspunten van een deelnemer, bedoeld in het tweede lid, onderdeel c, is gelijk aan het aantal FM-vergunningen waar zijn aanvraag ingevolge [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20) betrekking op heeft of zoveel minder als waar de aanvraag na een gedeeltelijke weigering op grond van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2021-01-20&g=2021-01-20), betrekking op heeft, verminderd met het aantal FM-vergunningen dat hem op grond van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20), om niet is verleend. Indien het aantal activiteitspunten van een deelnemer nul bedraagt, wordt hij niet toegelaten tot de veiling.
+3. Het aantal activiteitspunten van een deelnemer, bedoeld in het tweede lid, onderdeel c, is gelijk aan het aantal FM-vergunningen waar zijn aanvraag ingevolge [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22) betrekking op heeft of zoveel minder als waar de aanvraag na een gedeeltelijke weigering op grond van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2022-01-22&g=2022-01-22), betrekking op heeft, verminderd met het aantal FM-vergunningen dat hem op grond van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22), om niet is verleend. Indien het aantal activiteitspunten van een deelnemer nul bedraagt, wordt hij niet toegelaten tot de veiling.
 
-4. In geval toepassing wordt gegeven aan het eerste lid, kan de houder van een FM-vergunning de ontbindende voorwaarde inroepen indien hij niet als deelnemer wordt toegelaten tot de veiling van die FM-vergunning. Het inroepen van een ontbindende voorwaarde geschiedt uiterlijk tot 16:00 uur op de tweede werkdag nadat de houder van de FM-vergunning, in afwijking van het eerste lid, door de minister van de voorgenomen toepassing van het eerste lid in kennis is gesteld. [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20) is van overeenkomstige toepassing.
+4. In geval toepassing wordt gegeven aan het eerste lid, kan de houder van een FM-vergunning de ontbindende voorwaarde inroepen indien hij niet als deelnemer wordt toegelaten tot de veiling van die FM-vergunning. Het inroepen van een ontbindende voorwaarde geschiedt uiterlijk tot 16:00 uur op de tweede werkdag nadat de houder van de FM-vergunning, in afwijking van het eerste lid, door de minister van de voorgenomen toepassing van het eerste lid in kennis is gesteld. [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22) is van overeenkomstige toepassing.
 
 #### § 4. De veiling
 
 ##### Artikel 14
 
-1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem, en geschiedt door middel van een simultane meerrondenveiling, met dien verstande dat tijdens de veiling alleen kan worden geboden op een vergunning of combinaties van vergunningen zoals bedoeld in [artikel 13, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20).
+1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem, en geschiedt door middel van een simultane meerrondenveiling, met dien verstande dat tijdens de veiling alleen kan worden geboden op een vergunning of combinaties van vergunningen zoals bedoeld in [artikel 13, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22).
 
 2. Biedingen worden uitsluitend uitgebracht door middel van het elektronisch veilingsysteem.
 
-3. Andere communicatie vindt plaats via het elektronisch veilingsysteem dan wel telefonisch of per e-mail, waarbij de deelnemer bereikbaar is op het door hem in zijn aanvraag opgegeven telefoonnummer en e-mailadres en de minister bereikbaar is op het telefoonnummer en e-mailadres bedoeld in [artikel 15, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=15&z=2021-01-20&g=2021-01-20).
+3. Andere communicatie vindt plaats via het elektronisch veilingsysteem dan wel telefonisch of per e-mail, waarbij de deelnemer bereikbaar is op het door hem in zijn aanvraag opgegeven telefoonnummer en e-mailadres en de minister bereikbaar is op het telefoonnummer en e-mailadres bedoeld in [artikel 15, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=15&z=2022-01-22&g=2022-01-22).
 
 4. De veiling wordt uitsluitend op werkdagen gehouden.
 
@@ -276,7 +276,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - a. de datum, de aanvangstijd van de eerste biedronde;
 
-- b. de duur van de eerste biedronde en, voor zover van toepassing, dat de biedronde overeenkomstig [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=17&z=2021-01-20&g=2021-01-20), niet eerder eindigt dan nadat die duur is verstreken;
+- b. de duur van de eerste biedronde en, voor zover van toepassing, dat de biedronde overeenkomstig [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=17&z=2022-01-22&g=2022-01-22), niet eerder eindigt dan nadat die duur is verstreken;
 
 - c. de voor de veiling benodigde programmatuur;
 
@@ -288,7 +288,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 ##### Artikel 16
 
-1. Een deelnemer, inbegrepen diegene die een deelnemer ten behoeve van de veiling bijstaat, onthoudt zich van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure. Daaronder wordt mede verstaan afspraken of gedragingen die leiden tot een wijziging in de beoordeling, ten opzichte van de situatie ten tijde van het indienen van de aanvraag van de deelnemer, of er sprake is van één rechtspersoon waaraan verlening van een FM-vergunning of een combinatie van FM-vergunningen in strijd zou komen met [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3), voor zover als gevolg van die afspraken of gedragingen de informatie bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), vermeld in de mededeling aan de betrokken deelnemer niet langer juist is.
+1. Een deelnemer, inbegrepen diegene die een deelnemer ten behoeve van de veiling bijstaat, onthoudt zich van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure. Daaronder wordt mede verstaan afspraken of gedragingen die leiden tot een wijziging in de beoordeling, ten opzichte van de situatie ten tijde van het indienen van de aanvraag van de deelnemer, of er sprake is van één rechtspersoon waaraan verlening van een FM-vergunning of een combinatie van FM-vergunningen in strijd zou komen met [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3), voor zover als gevolg van die afspraken of gedragingen de informatie bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), vermeld in de mededeling aan de betrokken deelnemer niet langer juist is.
 
 2. De minister kan de veiling stopzetten of opschorten indien naar zijn oordeel sprake is van afspraken of gedragingen in strijd met het eerste lid.
 
@@ -300,7 +300,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
-2. Onverminderd het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=18&z=2021-01-20&g=2021-01-20), eindigt een biedronde zodra de door de minister vastgestelde duur van de biedronde, bedoeld in het eerste lid, is verstreken, of zoveel eerder als alle deelnemers, die op grond van hun beschikbare activiteitsniveau daartoe gerechtigd zijn, een bod hebben uitgebracht.
+2. Onverminderd het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=18&z=2022-01-22&g=2022-01-22), eindigt een biedronde zodra de door de minister vastgestelde duur van de biedronde, bedoeld in het eerste lid, is verstreken, of zoveel eerder als alle deelnemers, die op grond van hun beschikbare activiteitsniveau daartoe gerechtigd zijn, een bod hebben uitgebracht.
 
 3. In afwijking van het tweede lid, kan de minister bij het vaststellen van de duur van een biedronde, bedoeld in het eerste lid, bepalen dat de biedronde niet eerder eindigt dan nadat de door hem vastgestelde duur van die biedronde is verstreken, ongeacht of alle deelnemers die op grond van hun beschikbare activiteitsniveau daartoe gerechtigd zijn eerder dan het verstrijken van de biedronde een bod hebben uitgebracht.
 
@@ -308,9 +308,9 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bod uitbrengt op een of meerdere vergunningen, wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten.
 
-2. Een verlenging als bedoeld in het eerste lid vindt in ten hoogste twee biedronden per deelnemer plaats, niet meegerekend biedronden waarvoor de minister op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=16&z=2021-01-20&g=2021-01-20), of [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=19&z=2021-01-20&g=2021-01-20), heeft besloten dat deze opnieuw moeten worden gehouden.
+2. Een verlenging als bedoeld in het eerste lid vindt in ten hoogste twee biedronden per deelnemer plaats, niet meegerekend biedronden waarvoor de minister op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=16&z=2022-01-22&g=2022-01-22), of [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=19&z=2022-01-22&g=2022-01-22), heeft besloten dat deze opnieuw moeten worden gehouden.
 
-3. In de situatie dat alle actieve deelnemers een bod in de biedronde of verlengde biedronde hebben uitgebracht, bedoeld in [artikel 19, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=19&z=2021-01-20&g=2021-01-20), maar een deelnemer daartoe gebruik heeft moeten maken van een verlenging, bedoeld in het eerste lid, omdat technische problemen zijn ontstaan voor het verstrijken van de biedronde, kan de minister, onverminderd het bepaalde in het tweede lid, besluiten dat die verlengde biedronde overeenkomstig het tweede lid niet wordt meegerekend.
+3. In de situatie dat alle actieve deelnemers een bod in de biedronde of verlengde biedronde hebben uitgebracht, bedoeld in [artikel 19, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=19&z=2022-01-22&g=2022-01-22), maar een deelnemer daartoe gebruik heeft moeten maken van een verlenging, bedoeld in het eerste lid, omdat technische problemen zijn ontstaan voor het verstrijken van de biedronde, kan de minister, onverminderd het bepaalde in het tweede lid, besluiten dat die verlengde biedronde overeenkomstig het tweede lid niet wordt meegerekend.
 
 4. Een op grond van het eerste lid verlengde biedronde is afgelopen zodra de termijn van de verlengde biedronde, bedoeld in het eerste lid, is verstreken, of zoveel eerder als alle deelnemers wiens biedronde is verlengd, een bod hebben uitgebracht.
 
@@ -332,7 +332,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 1. Het activiteitsniveau van een deelnemer bedraagt:
 
-- a. in de eerste biedronde, het aantal activiteitspunten dat hem op grond van [artikel 13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), is medegedeeld.
+- a. in de eerste biedronde, het aantal activiteitspunten dat hem op grond van [artikel 13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), is medegedeeld.
 
 - b. in biedronden volgend op de eerste biedronde, het aantal activiteitspunten van de bieding van de deelnemer in de voorgaande ronde.
 
@@ -346,13 +346,13 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - a. die hoger is dan het activiteitsniveau van de deelnemer in die biedronde;
 
-- b. op andere FM-vergunningen als bedoeld in [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20);
+- b. op andere FM-vergunningen als bedoeld in [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22);
 
-- c. op een combinatie van FM-vergunningen, waarvan het gezamenlijke demografisch bereik zoals bekendgemaakt op de dag na inwerkingtreding van het bekendmakingsbesluit, zijn beschikbare demografische ruimte, bedoeld in [artikel 13, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), overschrijdt;
+- c. op een combinatie van FM-vergunningen, waarvan het gezamenlijke demografisch bereik zoals bekendgemaakt op de dag na inwerkingtreding van het bekendmakingsbesluit, zijn beschikbare demografische ruimte, bedoeld in [artikel 13, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), overschrijdt;
 
 - d. op een FM-vergunning waarvoor de deelnemer het hoogste bod heeft.
 
-4. Het derde lid, onderdeel d, is niet van toepassing in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20).
+4. Het derde lid, onderdeel d, is niet van toepassing in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22).
 
 ##### Artikel 21
 
@@ -364,7 +364,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 4. De rondeprijs voor een FM-vergunning in de volgende biedronden is gelijk aan het in de voorgaande biedronde hoogst geboden bedrag voor die vergunning, vermeerderd met een door de minister vast te stellen bedrag.
 
-5. Het eerste lid is niet van toepassing op een bieding in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20).
+5. Het eerste lid is niet van toepassing op een bieding in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22).
 
 ##### Artikel 22
 
@@ -386,7 +386,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - e. per FM-vergunning de rondeprijs die in de volgende biedronde geldt;
 
-- f. de aanvangstijd en de duur van de volgende biedronde en in hoeverre in die biedronde op grond van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=17&z=2021-01-20&g=2021-01-20), afgeweken wordt van artikel 17, tweede lid, en
+- f. de aanvangstijd en de duur van de volgende biedronde en in hoeverre in die biedronde op grond van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=17&z=2022-01-22&g=2022-01-22), afgeweken wordt van artikel 17, tweede lid, en
 
 - g. het rondenummer van de volgende biedronde.
 
@@ -400,7 +400,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - d. zijn verlengingsmogelijkheden in de volgende biedronde.
 
-3. In afwijking van het eerste en tweede lid, wordt geen informatie over een volgende biedronde gegeven indien de biedronden op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20), definitief eindigen.
+3. In afwijking van het eerste en tweede lid, wordt geen informatie over een volgende biedronde gegeven indien de biedronden op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22), definitief eindigen.
 
 ##### Artikel 24
 
@@ -418,11 +418,11 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 ##### Artikel 25
 
-1. De houder van een FM-vergunning kan de ontbindende voorwaarde inroepen indien hij als deelnemer niet het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20), voor die FM-vergunning heeft uitgebracht.
+1. De houder van een FM-vergunning kan de ontbindende voorwaarde inroepen indien hij als deelnemer niet het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22), voor die FM-vergunning heeft uitgebracht.
 
 2. Het inroepen van een ontbindende voorwaarde als bedoeld in het eerste lid geschiedt uiterlijk tot 16:00 uur op de tweede werkdag na vaststelling van het winnende bod.
 
-3. Het inroepen van een ontbindende voorwaarde vindt plaats door middel van persoonlijke overhandiging van de verklaring, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=V&z=2021-01-20&g=2021-01-20), op het adres, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20). Artikel 3, vijfde lid, is van overeenkomstige toepassing.
+3. Het inroepen van een ontbindende voorwaarde vindt plaats door middel van persoonlijke overhandiging van de verklaring, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&bijlage=V&z=2022-01-22&g=2022-01-22), op het adres, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22). Artikel 3, vijfde lid, is van overeenkomstige toepassing.
 
 4. Indien een ontbindende voorwaarde is ingeroepen deelt de minister dit mee aan alle deelnemers van die veiling.
 
@@ -430,15 +430,15 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 De veiling is geëindigd:
 
-- a. na vaststelling van het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20), of
+- a. na vaststelling van het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22), of
 
-- b. na het inroepen van de ontbindende voorwaarde, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20).
+- b. na het inroepen van de ontbindende voorwaarde, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22).
 
 #### § 5. Vergunningverlening na veiling
 
 ##### Artikel 27
 
-1. Na beëindiging van de veiling, verleent de minister, indien ten aanzien van de betreffende vergunning geen ontbindende voorwaarde is ingeroepen, de betreffende FM-vergunning aan de deelnemer die ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20) het winnende bod voor die FM-vergunning heeft uitgebracht, nadat hij het door hem verschuldigde bedrag, bedoeld in het vierde lid, heeft betaald. De minister deelt alle deelnemers mee wie het hoogste bod heeft uitgebracht.
+1. Na beëindiging van de veiling, verleent de minister, indien ten aanzien van de betreffende vergunning geen ontbindende voorwaarde is ingeroepen, de betreffende FM-vergunning aan de deelnemer die ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22) het winnende bod voor die FM-vergunning heeft uitgebracht, nadat hij het door hem verschuldigde bedrag, bedoeld in het vierde lid, heeft betaald. De minister deelt alle deelnemers mee wie het hoogste bod heeft uitgebracht.
 
 2. Nadat de FM-vergunning is verleend, wijst de minister de overige aanvragen voor de betreffende FM-vergunning af.
 
@@ -450,9 +450,9 @@ De veiling is geëindigd:
 
 - b. stuurt de minister aan de bank van iedere deelnemer aan wie geen vergunning wordt verleend en die ter zekerheidstelling een bankgarantie heeft overgelegd, een schriftelijke verklaring dat de bankgarantie vervalt. Een kopie van voornoemde verklaring stuurt de minister aan de deelnemer.
 
-5. Het door de deelnemer aan wie de FM-vergunning op grond van het eerste lid wordt verleend, verschuldigde bedrag is gelijk aan het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2021-01-20&g=2021-01-20).
+5. Het door de deelnemer aan wie de FM-vergunning op grond van het eerste lid wordt verleend, verschuldigde bedrag is gelijk aan het winnende bod, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=24&z=2022-01-22&g=2022-01-22).
 
-6. De deelnemer aan wie de FM-vergunning op grond van het eerste lid wordt verleend, betaalt het door hem verschuldigde bedrag binnen twee weken na de mededeling, bedoeld in het eerste lid, laatste volzin, door overmaking op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20), onder vermelding van de naam en het nummer van het betrokken bekendmakingsbesluit.
+6. De deelnemer aan wie de FM-vergunning op grond van het eerste lid wordt verleend, betaalt het door hem verschuldigde bedrag binnen twee weken na de mededeling, bedoeld in het eerste lid, laatste volzin, door overmaking op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), onder vermelding van de naam en het nummer van het betrokken bekendmakingsbesluit.
 
 7. Indien de deelnemer, aan wie de FM-vergunning op grond van het eerste lid wordt verleend, een bankgarantie heeft verstrekt, stuurt de minister, zodra het verschuldigde bedrag ingevolge het zesde lid van de deelnemer is ontvangen, per aangetekende brief een schriftelijke verklaring dat de bankgarantie vervalt aan de bank van die deelnemer. Een kopie van voornoemde verklaring stuurt de minister aan de deelnemer.
 
@@ -460,9 +460,9 @@ De veiling is geëindigd:
 
 - a. indien de waarborgsom van een deelnemer minder dan het voor de vergunning verschuldigde bedrag bedraagt, die deelnemer het restant van het verschuldigde bedrag betaalt overeenkomstig het zesde lid, en
 
-- b. indien de waarborgsom van een deelnemer méér dan het verschuldigde bedrag bedraagt, het bedrag van de waarborgsom dat resteert aan die deelnemer wordt teruggestort uiterlijk twee weken nadat de vergunning, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=7&artikel=30&z=2021-01-20&g=2021-01-20), is verleend.
+- b. indien de waarborgsom van een deelnemer méér dan het verschuldigde bedrag bedraagt, het bedrag van de waarborgsom dat resteert aan die deelnemer wordt teruggestort uiterlijk twee weken nadat de vergunning, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=7&artikel=30&z=2022-01-22&g=2022-01-22), is verleend.
 
-9. De minister vergoedt de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20), met dien verstande dat de rente wordt vergoed tot en met de dag:
+9. De minister vergoedt de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), met dien verstande dat de rente wordt vergoed tot en met de dag:
 
 - a. voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort: voor de deelnemer aan wie geen vergunning wordt verleend, of
 
@@ -474,7 +474,7 @@ De veiling is geëindigd:
 
 ##### Artikel 28
 
-1. Indien de deelnemer aan wie de FM-vergunning op grond van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2021-01-20&g=2021-01-20), word verleend, het door hem verschuldigde bedrag niet, niet geheel of niet tijdig heeft betaald, wordt de vergunning opnieuw geveild. De [artikelen 13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), [26, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=26&z=2021-01-20&g=2021-01-20), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2021-01-20&g=2021-01-20) zijn van overeenkomstige toepassing, met dien verstande dat de minister ten aanzien van de deelnemer, bedoeld in de eerste volzin:
+1. Indien de deelnemer aan wie de FM-vergunning op grond van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22), word verleend, het door hem verschuldigde bedrag niet, niet geheel of niet tijdig heeft betaald, wordt de vergunning opnieuw geveild. De [artikelen 13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), [26, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=26&z=2022-01-22&g=2022-01-22), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22) zijn van overeenkomstige toepassing, met dien verstande dat de minister ten aanzien van de deelnemer, bedoeld in de eerste volzin:
 
 - a. diens waarborgsom niet terugstort, of
 
@@ -488,7 +488,7 @@ De veiling is geëindigd:
 
 ##### Artikel 29
 
-Op grond van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2021-01-20&g=2021-01-20), wordt aan de deelnemer aan wie op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2021-01-20&g=2021-01-20), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2021-01-20&g=2021-01-20), of [28](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=28&z=2021-01-20&g=2021-01-20) een FM-vergunning is verleend, een vergunning verleend voor digitale radio-omroep, die ingevolge het Nationaal Frequentieplan 2014 aan de verleende FM-vergunning is gekoppeld.
+Op grond van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=4&z=2022-01-22&g=2022-01-22), wordt aan de deelnemer aan wie op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=13&z=2022-01-22&g=2022-01-22), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22), of [28](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=28&z=2022-01-22&g=2022-01-22) een FM-vergunning is verleend, een vergunning verleend voor digitale radio-omroep, die ingevolge het Nationaal Frequentieplan 2014 aan de verleende FM-vergunning is gekoppeld.
 
 #### § 7. Slotbepalingen
 
@@ -500,7 +500,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen.
 
-## Bijlage I. behorend bij [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20)
+## Bijlage I. behorend bij [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22)
 
 ### – Model aanvraagformulier –
 
@@ -648,13 +648,13 @@ Handtekening: .....
 
 ### B. 4. Informatie aangaande verbonden instellingen
 
-### B. 4.1. Beschrijving eigendoms- en zeggenschapsverhoudingen
+### B. 4.1. Verbondenheidstoets
+
+Is er ten aanzien van de aanvrager in 2021 een verbondenheidstoets uitgevoerd?
+
+### B. 4.2. Beschrijving eigendoms- en zeggenschapsverhoudingen
 
 Bij de aanvraag wordt gevoegd een beschrijving van de eigendoms- en zeggenschapsverhoudingen die de rechtspersoon raken. De beschrijving moet inzicht geven in alle banden met andere partijen, zodat kan worden nagegaan of er een zodanige verbondenheid is met andere aanvragers van vergunningen of met bestaande houders van een FM-vergunning dat er sprake is van een rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3). De beschrijving bevat in elk geval gegevens, inclusief de bijbehorende documenten, genoemd in onderdeel a tot en met g. In het geval het subonderdeel niet van toepassing is, dient dit als zodanig bij het betreffende subonderdeel te worden aangeven:
-
-### B. 4.2. Extra bij te voegen documenten
-
-De aanvrager voegt in verband met de in onderdeel B.4.1 bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
 
 De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
 
@@ -666,15 +666,19 @@ De aanvrager vermeldt, in overeenstemming met [artikel 3, zesde lid](https://wet
 
 1 de FM-vergunning die is ingeleverd onder de ontbindende voorwaarde als bedoeld in [artikel 1 onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2021-01-20&g=2021-01-20), hoeft hier niet ingevuld te worden. Deze vergunning telt niet mee voor het bepalen van de beschikbare demografische ruimte.
 
-2 als vermeld in de publicatie op de dag na inwerkingtreding van het Bekendmakingsbesluit
+De aanvrager vermeldt, in overeenstemming met [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), van de Regeling, in onderstaande tabel van welke vergunningen voor landelijke of niet-landelijke commerciële radio FM-band hij en anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt reeds houder is. Daartoe wordt informatie verschaft over de betrokken kavel en de houder van een vergunning (de aanvrager zelf of de anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt, waarbij de naam van die instelling wordt vermeld). Voor het bepalen van de beschikbare demografische ruimte (zie ook onderdeel B.5.2) wordt per kavel het demografisch bereik van de kavel vermeld, uitgaande van de publicatie van het demografisch bereik van elke vergunningen voor niet-landelijke commerciële radio in de FM-band door de minister ten tijde van het betrokken bekendmakingsbesluit. Het totaal van deze percentages wordt tevens ingevuld.
 
 ### B. 5.2. Beschikbare demografische ruimte
 
-De aanvrager vermeldt de omvang van zijn beschikbare demografische ruimte, gelet op hetgeen in onderdeel B.5.1 is ingevuld.
+2 als vermeld in de publicatie op de dag na inwerkingtreding van het Bekendmakingsbesluit
 
 Beschikbare demografische ruimte: 30% –.............. <<invullen in onderdeel B.5.1 genoemde totaal %>> =..................%
 
 ### B. 6. Verklaring notaris
+
+Beschikbare demografische ruimte: 30% –.............. <<invullen in onderdeel B.5.1 genoemde totaal %>> =..................%
+
+verklaart, zonder voorbehoud, dat op het moment dat hij/zij deze verklaring ondertekent:
 
 Ondergetekende, notaris te..... (plaatsnaam)
 
@@ -684,19 +688,19 @@ Naam: .....
 
 Plaats: .....
 
-Datum: .....
-
-Handtekening: .....
-
 ### Onderdeel C. Specificatie aanvraag
 
 ### C. 1. Aanvraag in geval slechts één FM-vergunning wordt verdeeld
 
 Dit onderdeel dient u in te vullen in geval slechts één FM-vergunning blijkens het bekendmakingsbesluit wordt verdeeld.
 
-### C. 2. Aanvraag in geval meerdere FM-vergunningen worden verdeeld
+### C. 1. Aanvraag in geval slechts één FM-vergunning wordt verdeeld
 
-Dit onderdeel dient u in te vullen in geval meerdere FM-vergunningen blijkens het bekendmakingsbesluit worden verdeeld. Dit onderdeel vult u in met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2021-01-20&g=2021-01-20) van de Regeling. In dat kader houdt u bij het invullen van het aantal FM-vergunningen waarvoor u in aanmerking wenst te komen, rekening met uw beschikbare demografische ruimte als ingevuld in onderdeel B.5.2. Dit betekent dat het gezamenlijk demografisch bereik kleiner of gelijk is dan uw beschikbare demografische ruimte. Mijn aanvraag heeft betrekking op:
+Dit onderdeel dient u in te vullen in geval slechts één FM-vergunning blijkens het bekendmakingsbesluit wordt verdeeld.
+
+o 1...........
+
+Dit onderdeel dient u in te vullen in geval meerdere FM-vergunningen blijkens het bekendmakingsbesluit worden verdeeld. Dit onderdeel vult u in met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22) van de Regeling. In dat kader houdt u bij het invullen van het aantal FM-vergunningen waarvoor u in aanmerking wenst te komen, rekening met uw beschikbare demografische ruimte als ingevuld in onderdeel B.5.2. Dit betekent dat het gezamenlijk demografisch bereik kleiner of gelijk is dan uw beschikbare demografische ruimte. Mijn aanvraag heeft betrekking op:
 
 o 1...........
 
@@ -778,25 +782,21 @@ o 38..........
 
 **NB2! U dient dan voor de invulling van uw aanvraag uit te gaan van de beschikbare vergunningen zoals opgenomen in het bekendmakingsbesluit. Dit besluit zal worden vastgesteld nadat er duidelijkheid is ontstaan welke vergunningen er beschikbaar komen.**
 
+### C. 3. Beschikbare demografische ruimte
+
 **NB3! U dient bij de invulling van uw aanvraag rekening te houden met uw beschikbare demografische ruimte, u geeft daarom aan:**
-
-**NB4! het aantal FM-vergunningen waar u over wenst te beschikken is van belang voor:**
-
-### C.4. Voorwaardelijke aanvraag vergunningen digitale radio-omroep
-
-Onder de voorwaarde dat aan mij op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20) of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2021-01-20&g=2021-01-20) van de Regeling een FM-vergunning is verleend, vraag ik de daaraan ingevolge het Nationaal Frequentieplan 2014 gekoppelde vergunning voor digitale radio-omroep aan.
 
 ## Bijlage II. behorend bij [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20)
 
-### – Model bankgarantie –
+### C. 4. Voorwaardelijke aanvraag vergunningen digitale radio-omroep
 
-Plaats: ..........................................................................................................................
+Onder de voorwaarde dat aan mij op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22) of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22) van de Regeling een FM-vergunning is verleend, vraag ik de daaraan ingevolge het Nationaal Frequentieplan 2014 gekoppelde vergunning voor digitale radio-omroep aan.
 
 Datum: ..........................................................................................................................
 
 Naam Bank en ondertekening
 
-..........................................................................................................................
+Plaats: ..........................................................................................................................
 
 ## Bijlage III. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=8&z=2021-01-20&g=2021-01-20)
 
@@ -831,6 +831,90 @@ Handtekening:
 ## Bijlage V. behorend bij [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20) of [artikel 25, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20)4**Enkel in te vullen en conform artikel 12, derde lid, dan wel artikel 25 aan Agentschap Telecom toe te doen komen als hetgeen in een van deze artikelen is beschreven zich voordoet.**[lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20)
 
 Ondergetekende, bevoegd op grond van het bij de aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart dat hij de ontbindende voorwaarde, bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2021-01-20&g=2021-01-20), inroept, ten aanzien van de vergunning met dossiernummer ......... (invullen).
+
+Naam aanvrager (rechtspersoon):
+
+Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
+
+Plaats:
+
+Datum:
+
+Handtekening:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### B. 4.3. Extra bij te voegen documenten
+
+De aanvrager voegt in verband met de in onderdeel B.4.1 bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
+
+De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
+
+### B. 5. Beschikbare demografische ruimte
+
+### B. 5.1. Informatie vergunningen commerciële radio-omroep in de FM-band, waarvan aanvrager of anderen rechtspersonen die met de aanvrager als één rechtspersoon worden aangemerkt reeds houder is
+
+1 de FM-vergunning die is ingeleverd onder de ontbindende voorwaarde als bedoeld in [artikel 1 onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2022-01-22&g=2022-01-22), hoeft hier niet ingevuld te worden. Deze vergunning telt niet mee voor het bepalen van de beschikbare demografische ruimte.
+
+### B. 5.2. Beschikbare demografische ruimte
+
+De aanvrager vermeldt de omvang van zijn beschikbare demografische ruimte, gelet op hetgeen in onderdeel B.5.1 is ingevuld.
+
+### B. 6. Verklaring notaris
+
+Datum: .....
+
+Handtekening: .....
+
+### Onderdeel C. Specificatie aanvraag
+
+### C. 2. Aanvraag in geval meerdere FM-vergunningen worden verdeeld
+
+**NB4! het aantal FM-vergunningen waar u over wenst te beschikken is van belang voor:**
+
+## Bijlage II. behorend bij [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22)
+
+### – Model bankgarantie –
+
+Datum: ..........................................................................................................................
+
+Naam Bank en ondertekening
+
+..........................................................................................................................
+
+## Bijlage III. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=8&z=2022-01-22&g=2022-01-22)
+
+Ondergetekende verklaart dat hij, indien aan hem een FM-vergunning als opgenomen in het Bekendmakingsbesluit....... **<<citeertitel en datum>>** zal worden verleend met toepassing van deze Regeling, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
+
+Naam aanvrager (rechtspersoon):
+
+Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
+
+Plaats:
+
+Datum:
+
+Handtekening:
+
+## Bijlage IV. behorend bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=11&z=2022-01-22&g=2022-01-22)
+
+**Verklaring aanvrager dat geen sprake is van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging**
+
+Ondergetekende verklaart dat hij en, indien er sprake is van rechtspersonen als bedoeld in [artikel 3.11, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), anderen die zijn betrokken bij die rechtspersonen, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
+
+Naam aanvrager (rechtspersoon):
+
+Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
+
+Plaats:
+
+Datum:
+
+Handtekening:
+
+## Bijlage V. behorend bij [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22) of [artikel 25, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22)4**Enkel in te vullen en conform artikel 12, derde lid, dan wel artikel 25 aan Agentschap Telecom toe te doen komen als hetgeen in een van deze artikelen is beschreven zich voordoet.**[lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22)
+
+Ondergetekende, bevoegd op grond van het bij de aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart dat hij de ontbindende voorwaarde, bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2022-01-22&g=2022-01-22), inroept, ten aanzien van de vergunning met dossiernummer ......... (invullen).
 
 Naam aanvrager (rechtspersoon):
 
