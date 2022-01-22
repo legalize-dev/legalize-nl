@@ -4,7 +4,7 @@ identifier: "BWBR0046220"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-22"
-last_updated: "2022-01-01"
+last_updated: "2022-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046220"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De besteedbare middelen ter dekking van de voor de uitvoering van de [Wet langdu
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046220&artikel=1&z=2022-01-22&g=2022-01-01) genoemde bedrag is € 95,157 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 140,398 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van de Wlz-uitvoerders en € 39,611 miljoen voor de Sociale verzekeringsbank voor de uitvoering van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046220&artikel=1&z=2022-01-22&g=2022-01-22) genoemde bedrag is € 95,157 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 140,398 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van de Wlz-uitvoerders en € 39,611 miljoen voor de Sociale verzekeringsbank voor de uitvoering van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
 
 ##### Artikel 3
 
