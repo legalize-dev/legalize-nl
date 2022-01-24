@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2021-12-27"
+last_updated: "2022-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-12-27&g=2021-12-27);
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-01-24&g=2022-01-24);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2021-12-27&g=2021-12-27);
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-01-24&g=2022-01-24);
 
 - c. Noord-Brabant; en
 
@@ -112,7 +112,7 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2021-12-27&g=2021-12-27), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2021-12-27&g=2021-12-27), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-12-27&g=2021-12-27), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2021-12-27&g=2021-12-27) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2021-12-27&g=2021-12-27) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2022-01-24&g=2022-01-24), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2022-01-24&g=2022-01-24), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-01-24&g=2022-01-24), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2022-01-24&g=2022-01-24) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2022-01-24&g=2022-01-24) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
@@ -170,7 +170,7 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-12-27&g=2021-12-27) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
+In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-01-24&g=2022-01-24) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
 
 - a. risicovogels aanwezig zijn of gewoonlijk worden gehouden in een overkapte doorloopvolière; en
 
@@ -178,7 +178,7 @@ In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&h
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2021-12-27&g=2021-12-27) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-01-24&g=2022-01-24) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -252,9 +252,17 @@ Een exploitant van vogels houdt een register bij van bezoeken aan een vogelverbl
 
 4. De exploitant van de slachthuis waar de eenden of kalkoenen onder toepassing van het tweede lid worden afgeleverd, bewaart de in het tweede lid, onderdeel c, bedoelde verklaring gedurende zes maanden.
 
-##### Artikel 3.14. Vervoeren naar inrichting eenden of kalkoenen
+##### Artikel 3.14. Vervoersverbod risicovogels Gelderse Vallei Zuid
 
-Vervallen
+1. Het is verboden risicovogels te vervoeren in de regio, beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=2&z=2022-01-24&g=2022-01-24).
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien:
+
+- a. de vogels rechtstreeks worden vervoerd naar een slachthuis om te worden geslacht;
+
+- b. het vervoer geschiedt overeenkomstig een hygiëneprotocol; en
+
+- c. een verklaring die minder dan 24 uur oud is, van een dierenarts dat uit een klinische inspectie van de desbetreffende dieren niet is gebleken dat zij verschijnselen van aviaire influenza vertonen.
 
 #### § 3.6. Maatregelen meldingsplicht
 
@@ -370,7 +378,7 @@ Het leefgebied is in donkergroen aangeduid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-12-27&g=2021-12-27)
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2022-01-24&g=2022-01-24)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -386,19 +394,19 @@ Dit hoofdstuk berust op [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 6.3. Reiniging en ontsmetting van voertuigen uit het buitenland
 
-1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2021-12-27&g=2021-12-27) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
+1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-01-24&g=2022-01-24) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
 
-2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2021-12-27&g=2021-12-27) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
+2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-01-24&g=2022-01-24) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
 
 3. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan de Minister een bewijs van de reiniging en ontsmetting als bedoeld in [artikel 2.10d, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10d).
 
 4. Wanneer het vervoermiddel, bedoeld in het eerste of tweede lid, afkomstig is uit een lidstaat, meldt de exploitant aan de Minister in aanvulling op het derde lid binnen 24 uur na binnenkomst in Nederland het nummer van het gezondheidscertificaat, bedoeld in artikel 143 van [verordening (EU) nr. 2016/429](32329R2016), dat het meest recentelijk is afgegeven.
 
-5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2021-12-27&g=2021-12-27), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2021-12-27&g=2021-12-27).
+5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-01-24&g=2022-01-24), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2022-01-24&g=2022-01-24).
 
 ##### Artikel 6.4. Besmettelijke dierziekten reiniging en ontsmetting vervoermiddelen afkomstig uit het buitenland
 
-De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2021-12-27&g=2021-12-27), zijn:
+De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-01-24&g=2022-01-24), zijn:
 
 - a. voor evenhoevigen:
 
@@ -426,7 +434,7 @@ De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde l
 
 ##### Artikel 6.5. Aanwijzing lidstaten met besmettingen bij wilde dieren waarvoor reiniging en ontsmetting is verplicht
 
-Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2021-12-27&g=2021-12-27), zijn aangewezen:
+Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-01-24&g=2022-01-24), zijn aangewezen:
 
 - –. geen.
 
@@ -440,7 +448,7 @@ Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https
 
 ### Hoofdstuk 11. Slotbepalingen
 
-Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2021-12-27&g=2021-12-27)
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2022-01-24&g=2022-01-24)
 
 ### 1. Leefgebied Wild zwijn Veluwe
 
@@ -448,88 +456,12 @@ Het leefgebied is in donkergroen aangeduid.
 
 ### 2. Leefgebied De Meinweg, Leefgebied Meerlebroek
 
-## Bijlage 2. als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2021-12-27&g=2021-12-27)
+## Bijlage 2. als bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.5&artikel=3.14&z=2022-01-24&g=2022-01-24)
 
-Gebieden waar de ophok- en afschermplicht niet geldt
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-- 1. Vanaf Knooppunt Heerenveen de A7 volgend in noordoostelijke richting tot aan de kruising van de A7 met de A28, Knooppunt Julianaplein.
+Regio waar vervoer van risicovogels verboden is:
 
-- 2. De A28 volgend in zuidelijke richting, overgaand in de N48 tot aan de rivier de Vecht.
-
-- 3. De rivier de Vecht volgend in westelijke richting tot aan de Afslag 21 Ommen van de A28.
-
-- 4. Vanaf Afslag 21 Ommen de A28 volgend in noordelijke richting, overgaand in de A32 het Knooppunt Heerenveen van de A7.
-
-- 1. Vanaf Knooppunt Julianaplein de N28/N7 volgend in oostelijke richting tot aan de kruising van de N28/N7 met de A7, Knooppunt Europaplein.
-
-- 2. De A7 volgend in oostelijke richting tot aan de landgrens met Duitsland (Bij afslag 49 Nieuwerschans).
-
-- 3. De landgrens van Duitsland volgend in zuidelijke richting tot aan de rivier de Vecht.
-
-- 4. De rivier de Vecht volgend in westelijke richting tot aan de N48.
-
-- 5. De N48 volgend in noordelijke richting overgaand in de A28 tot aan het Knooppunt Julianaplein de N28/N7.
-
-- 1. Vanaf de kruising van de rivier IJssel en het Zwolle-IJssel Kanaal, het Zwolle-IJssel Kanaal volgend in noordelijke richting tot aan de rivier het Zwarte Water.
-
-- 2. De rivier het Zwarte Water volgend in noordelijke richting tot aan de rivier OverijsselseVecht.
-
-- 3. De rivier de Overijsselse Vecht volgend in oostelijke richting overgaand in de Vecht tot aan de Landgrens van Nederland met Duitsland.
-
-- 4. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot aan de A1(De Lutte)
-
-- 5. De A1 volgend in oostelijke richting tot aan de Kruising A1 met de rivier de IJssel bij Deventer (vlakbij de afslag 23 Deventer)
-
-- 6. De rivier de IJssel volgend in noordelijke richting tot aan de kruising de rivier de IJssel en het Zwolle-IJssel Kanaal.
-
-- 1. Vanaf de Kruising van de A1 met de rivier de IJssel (Deventer), de A1 volgend in oostelijke richting overgaand in de A35/A1 (Knooppunt Azelo) overgaand in de A1 (Knooppunt Buren) tot aan de grens met Duitsland ter hoogte van de plaats De Lutte.
-
-- 2. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting overgaand in westelijke richting tot aan de rivier de Rijn (ter hoogte van de plaats Spijk).
-
-- 3. De rivier de Rijn volgend in westelijke richting, overgaand in het Bijlands Kanaal, overgaand in het Pannerdens Kanaal overgaand in de rivier de Nederrijn, overgaand in de rivier de IJssel tot aan de kruising van de rivier de IJssel met de A1 (Deventer)
-
-- 1. Vanaf de kruising van de Sluisweg (Waalwijk) en de rivier de Bergsche Maas, de rivier de Bergsche Maas volgend in oostelijke richting overgaand in de Maas tot aan de A2 (ter hoogte van Knooppunt Empel).
-
-- 2. De A2 volgend in zuidelijke richting tot aan de rivier de Zuid-Willemsvaart (Afslag 21 Veghel van de A2).
-
-- 3. De rivier de Zuid-Willemsvaart volgend in oostzuidelijke richting tot aan de A67 (Afslag 35 Someren van de A67).
-
-- 4. De A67 volgend in westelijke richting tot aan de Landgrens van Nederland met België.
-
-- 5. De Landgrens van Nederland met België volgend in westelijke richting tot aan de Poppelseweg (N283).
-
-- 6. De Poppelseweg (N283) volgend in noordelijke richting overgaand in de Turnhoutsebaan (N283) overgaand in de Blaakweg (N283) overgaand in de Ringbaan West (Tilburg) overgaand in de Midden Brabantweg, overgaand in de A261, overgaand in de Midden Brabantweg (N261) overgaand in de Biesbosweg (Waalwijk) tot aan de Sluisweg.
-
-- 7. De Sluisweg volgend in noordelijke richting tot aan de brug over de rivier de Bergsche Maas.
-
-- 1. Vanaf de kruising van de A2 met de rivier de Maas ter hoogte van Den Bosch, de rivier de Maas volgend oostelijke richting tot aan de Mookerplas.
-
-- 2. De Mookerplas volgend in oostelijke richting tot aan de Witteweg.
-
-- 3. De Witteweg volgend in noordoostelijke richting tot aan de N271.
-
-- 4. De N271 volgend in zuidoostelijke richting tot aan Zwarteweg (N843).
-
-- 5. De Zwarteweg (N843) volgend in noordelijke richting tot aan de Landgrens van Nederland met Duitsland.
-
-- 6. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot aan de A67 (ter hoogte van de plaats Herungerberg).
-
-- 7. De A67 volgend in westelijke richting tot aan de kruising van de A67 met de rivier de Zuid-Willemsvaart (Afslag 35 Someren van de A67).
-
-- 8. De rivier de Zuid-Willemsvaart volgend in westnoordelijke richting tot aan de A2 (Afslag 21 Veghel van de A2)
-
-- 9. De A2 volgend in noordelijke richting tot aan de kruising van de A2 met de rivier de Maas.
-
-- 1. Vanaf de kruising van de Landgrens van Nederland met België en de rivier de Maas, de rivier de Maas volgend in noordoostelijke richting tot de kruising van de rivier de Maas met de N280, Knooppunt Haelen.
-
-- 2. De N280 volgend in oostelijke richting tot aan de Sint Wirosingel (Roermond).
-
-- 3. De Sint Wirosingel (Roermond) volgend in zuidelijke richting tot aan de N68.
-
-- 4. De N68 volgend oostelijke richting tot aan de landgrens Nederland en Duitsland (Bij de plaats Asenray).
-
-- 5. De Landgrens van Nederland met Duitsland volgend in zuidelijke richting tot de Landgrens van Nederland met België bij de plaats Vaals, Drielandenpunt.
-
-- 6. Vanaf het drielandenpunt bij Vaals de Landgrens van Nederland met België volgend in westelijke richting tot aan de rivier de Maas.
+### Regio 10
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
