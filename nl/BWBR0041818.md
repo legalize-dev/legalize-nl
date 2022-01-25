@@ -4,7 +4,7 @@ identifier: "BWBR0041818"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-25"
-last_updated: "2020-01-15"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041818"
 soort: "ministeriele-regeling"
@@ -54,11 +54,15 @@ In dit besluit wordt verstaan onder:
 
 - d. **de afdelingshoofden:** de hoofden van een afdeling van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
 
-- e. **de personeelsfunctionaris:** de personeelsfunctionaris van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
+- e. **de coördinator Personeelsbeleid:** de coördinator Personeelsbeleid van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
 
-- f. **de medewerker Bibliotheek:** de medewerker Bibliotheek van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
+- f. **de coördinator Managementondersteuning en bedrijfsvoering:** de coördinator Managementondersteuning en Bedrijfsvoering van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
 
-- g. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- g. **de coördinator Communicatie:** de coördinator Communicatie van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
+
+- h. **de medewerker Bibliotheek:** de medewerker Bibliotheek van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat;
+
+- i. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur en de onder hem ressorterende functionarissen
 
@@ -116,7 +120,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 ##### Artikel 5
 
-Aan de personeelsfunctionaris en de medewerker bibliotheek wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+Aan de coördinator Personeelsbeleid, de coördinator Managementondersteuning en Bedrijfsvoering, de coördinator Communicatie en de medewerker Bibliotheek wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
 
 #### § 3. Vervanging
 
