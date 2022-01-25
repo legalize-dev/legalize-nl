@@ -4,7 +4,7 @@ identifier: "BWBR0041881"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041881"
 soort: "beleidsregel-BES"
@@ -48,79 +48,79 @@ Besluit van te stellen:
 
 Met deze beleidsregels wordt voorzien in het regelen van de volgende onderwerpen:
 
-In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&z=2022-01-01&g=2022-01-01) ‘Kring van rechthebbenden’
+In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&z=2022-01-25&g=2022-01-25) ‘Kring van rechthebbenden’
 
-- –. Onderstand teruggekeerde eilandskinderen ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01))
+- –. Onderstand teruggekeerde eilandskinderen ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&artikel=2&z=2022-01-25&g=2022-01-25))
 
-- –. Opname inrichting buiten Caribisch Nederland ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01))
+- –. Opname inrichting buiten Caribisch Nederland ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=2&artikel=3&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&z=2022-01-01&g=2022-01-01) ‘Verplichtingen arbeidsinschakeling’
+In [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&z=2022-01-25&g=2022-01-25) ‘Verplichtingen arbeidsinschakeling’
 
-- –. Inspanningsverplichtingen met het oog op arbeidsinschakeling ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&artikel=4&z=2022-01-01&g=2022-01-01))
+- –. Inspanningsverplichtingen met het oog op arbeidsinschakeling ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&artikel=4&z=2022-01-25&g=2022-01-25))
 
-- –. Vrijstelling verplichtingen arbeidsinschakeling ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&artikel=5&z=2022-01-01&g=2022-01-01))
+- –. Vrijstelling verplichtingen arbeidsinschakeling ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&artikel=5&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&z=2022-01-01&g=2022-01-01) ‘Toepassing algemene onderstand’
+In [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&z=2022-01-25&g=2022-01-25) ‘Toepassing algemene onderstand’
 
-- –. In aanmerking nemen vermogen bij middelentoets algemene onderstand ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01))
+- –. Vrijlatingsregeling vergoedingen medische uitzending ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=6&z=2022-01-25&g=2022-01-25))
 
-- –. Vrijlatingsregeling inkomsten kinderalimentatie ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=7&z=2022-01-01&g=2022-01-01))
+- –. Vrijlatingsregeling inkomsten kinderalimentatie ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=7&z=2022-01-25&g=2022-01-25))
 
-- –. Vrijlatingsregeling uitkering Wet schadefonds geweldsmisdrijven ([artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=7a&z=2022-01-01&g=2022-01-01))
+- –. Vrijlatingsregeling uitkering Wet schadefonds geweldsmisdrijven ([artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=7a&z=2022-01-25&g=2022-01-25))
 
-- –. Basisbedrag bij opname in instelling ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=8&z=2022-01-01&g=2022-01-01))
+- –. Basisbedrag bij opname in instelling ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=8&z=2022-01-25&g=2022-01-25))
 
-- –. Tegemoetkoming AOV-gerechtigden ([artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=9&z=2022-01-01&g=2022-01-01))
+- –. Tegemoetkoming AOV-gerechtigden ([artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=9&z=2022-01-25&g=2022-01-25))
 
-- –. Toeslag arbeidsongeschiktheid bij tijdelijke of gedeeltelijke arbeidsgeschiktheid ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=10&z=2022-01-01&g=2022-01-01))
+- –. Toeslag arbeidsongeschiktheid bij tijdelijke of gedeeltelijke arbeidsgeschiktheid ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=4&artikel=10&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&z=2022-01-01&g=2022-01-01) ‘Aanvraag en criteria bijzondere onderstand’
+In [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&z=2022-01-25&g=2022-01-25) ‘Aanvraag en criteria bijzondere onderstand’
 
-- –. Termijn aanvraag bijzondere onderstand ([artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=11&z=2022-01-01&g=2022-01-01))
+- –. Termijn aanvraag bijzondere onderstand ([artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=11&z=2022-01-25&g=2022-01-25))
 
-- –. Toetsing aanvraag bijzondere onderstand ([artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=12&z=2022-01-01&g=2022-01-01))
+- –. Toetsing aanvraag bijzondere onderstand ([artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=12&z=2022-01-25&g=2022-01-25))
 
-- –. Inkomensgrens bijzondere onderstand ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=13&z=2022-01-01&g=2022-01-01))
+- –. Inkomensgrens bijzondere onderstand ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=13&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&z=2022-01-01&g=2022-01-01) ‘Kostensoorten bijzondere onderstand’
+In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&z=2022-01-25&g=2022-01-25) ‘Kostensoorten bijzondere onderstand’
 
-- –. Begrafeniskosten ([artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=14&z=2022-01-01&g=2022-01-01))
+- –. Begrafeniskosten ([artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=14&z=2022-01-25&g=2022-01-25))
 
-- –. Schooluniform en schoolbenodigdheden voortgezet onderwijs ([artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=15&z=2022-01-01&g=2022-01-01))
+- –. Schooluniform en schoolbenodigdheden voortgezet onderwijs ([artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=15&z=2022-01-25&g=2022-01-25))
 
-- –. Medisch dieetkosten ([artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=16&z=2022-01-01&g=2022-01-01))
+- –. Medisch dieetkosten ([artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=16&z=2022-01-25&g=2022-01-25))
 
-- –. Waterreservoir en waterpomp ([artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=17&z=2022-01-01&g=2022-01-01))
+- –. Waterreservoir en waterpomp ([artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=17&z=2022-01-25&g=2022-01-25))
 
-- –. Verbruikskosten water op tijdelijke basis ([artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=18&z=2022-01-01&g=2022-01-01))
+- –. Verbruikskosten water op tijdelijke basis ([artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=18&z=2022-01-25&g=2022-01-25))
 
-- –. Duurzame gebruiksgoederen algemeen ([artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=19&z=2022-01-01&g=2022-01-01))
+- –. Duurzame gebruiksgoederen algemeen ([artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=19&z=2022-01-25&g=2022-01-25))
 
-- –. Baby-uitzet en babybed ([artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-01&g=2022-01-01))
+- –. Baby-uitzet en babybed ([artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-25&g=2022-01-25))
 
-- –. Bedmatras en slaapbank ([artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=21&z=2022-01-01&g=2022-01-01))
+- –. Bedmatras en slaapbank ([artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=21&z=2022-01-25&g=2022-01-25))
 
-- –. Huishoudelijke apparatuur ([artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=22&z=2022-01-01&g=2022-01-01))
+- –. Huishoudelijke apparatuur ([artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=22&z=2022-01-25&g=2022-01-25))
 
-- –. Dubbele huur ([artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=23&z=2022-01-01&g=2022-01-01))
+- –. Dubbele huur ([artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=23&z=2022-01-25&g=2022-01-25))
 
-- –. Eigen bijdragen ([artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=24&z=2022-01-01&g=2022-01-01))
+- –. Eigen bijdragen ([artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=24&z=2022-01-25&g=2022-01-25))
 
-- –. Tandartskosten voor extracties ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=25&z=2022-01-01&g=2022-01-01))
+- –. Tandartskosten voor extracties ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=25&z=2022-01-25&g=2022-01-25))
 
-- –. Overige vergoedingen in bijzondere gevallen ([artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=26&z=2022-01-01&g=2022-01-01))
+- –. Overige vergoedingen in bijzondere gevallen ([artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=26&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&z=2022-01-01&g=2022-01-01) ‘Maatregelen en terugvordering’
+In [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&z=2022-01-25&g=2022-01-25) ‘Maatregelen en terugvordering’
 
-- –. Hersteltermijn bij onvoldoende medewerking belanghebbende ([artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=27&z=2022-01-01&g=2022-01-01))
+- –. Hersteltermijn bij onvoldoende medewerking belanghebbende ([artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=27&z=2022-01-25&g=2022-01-25))
 
-- –. Algemeen terugvorderingsbeleid ([artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=28&z=2022-01-01&g=2022-01-01))
+- –. Algemeen terugvorderingsbeleid ([artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=28&z=2022-01-25&g=2022-01-25))
 
-- –. Drempelbedrag ([artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=29&z=2022-01-01&g=2022-01-01))
+- –. Drempelbedrag ([artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=7&artikel=29&z=2022-01-25&g=2022-01-25))
 
-In [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&z=2022-01-01&g=2022-01-01) ‘Afwijking met het oog op onredelijke gevolgen’
+In [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&z=2022-01-25&g=2022-01-25) ‘Afwijking met het oog op onredelijke gevolgen’
 
-- –. Bijzondere gevallen ([artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&artikel=30&z=2022-01-01&g=2022-01-01))
+- –. Bijzondere gevallen ([artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&artikel=30&z=2022-01-25&g=2022-01-25))
 
 ### Hoofdstuk 2. Kring van rechthebbenden
 
@@ -188,9 +188,11 @@ Onder dringende reden op basis waarvan tijdelijke ontheffing wordt verleend van 
 
 ### Hoofdstuk 4. Toepassing algemene onderstand
 
-##### Artikel 6. In aanmerking te nemen vermogen bij middelentoets algemene onderstand
+##### Artikel 6. Vrijlatingsregeling vergoedingen medische uitzending
 
-Vervallen
+Niet tot de middelen van belanghebbende wordt gerekend een vergoeding met betrekking tot een medische uitzending op grond van [artikel 1.13.4 van de Regeling aanspraken zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&artikel=1.13.4) aan een verzekerde op grond van die regeling of diens eventuele begeleider, tenzij vrijlating van deze vergoeding uit oogpunt van verlening van onderstand niet verantwoord is te achten.
+
+**Grondslag: artikel 12 en artikel 18, tweede lid, onderdeel a, Besluit onderstand BES.**
 
 ##### Artikel 7. Vrijlatingsregeling inkomsten kinderalimentatie
 
@@ -250,7 +252,7 @@ De toetsing van een aanvraag bijzondere onderstand geschiedt aan de hand van de 
 
 - –. de toets op de aanwezigheid van een voorliggende voorziening;
 
-- –. de toepassing van de inkomenstoets (zie ook hierna [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=13&z=2022-01-01&g=2022-01-01));
+- –. de toepassing van de inkomenstoets (zie ook hierna [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=5&artikel=13&z=2022-01-25&g=2022-01-25));
 
 - –. de toepassing van de vermogenstoets;
 
@@ -280,7 +282,7 @@ De omrekening van minimumuurloon naar maandbedragen is berekend volgens deze for
 
 De mogelijkheid van kostenvergoeding uit hoofde van de bijzondere onderstand is dus beperkt tot de alleenstaande of het gezin met een inkomen – ongeacht van welke aard – tot maximaal de hier vastgestelde inkomensgrens en een ontoereikend vermogen om de kosten zelf te voldoen. Voorts dient te worden voldaan aan de plicht tot arbeidsinschakeling, behoudens in geval dat daar op individuele gronden ontheffing van is verleend.
 
-Voor vergoeding van begrafeniskosten (zie hierna [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=14&z=2022-01-01&g=2022-01-01)) is de kring van rechthebbenden smaller. De Minister vergoedt uitsluitend begrafeniskosten via de bijzondere onderstand ten behoeve van personen die op het tijdstip van overlijden algemene onderstand genieten, alsmede begrafeniskosten van ten laste van de onderstandgerechtigde komende kinderen. Dit in verband met de verantwoordelijkheid van het openbaar lichaam uit hoofde van de [Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363).
+Voor vergoeding van begrafeniskosten (zie hierna [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=14&z=2022-01-25&g=2022-01-25)) is de kring van rechthebbenden smaller. De Minister vergoedt uitsluitend begrafeniskosten via de bijzondere onderstand ten behoeve van personen die op het tijdstip van overlijden algemene onderstand genieten, alsmede begrafeniskosten van ten laste van de onderstandgerechtigde komende kinderen. Dit in verband met de verantwoordelijkheid van het openbaar lichaam uit hoofde van de [Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363).
 
 **Grondslag: Artikel 6, eerste lid, Besluit onderstand BES (kring van rechthebbenden) en 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand).**
 
@@ -350,7 +352,7 @@ De Minister beoordeelt bij de aanvraag of de aanvrager daadwerkelijk op het adre
 
 ##### Artikel 19. Afbakening duurzame gebruiksgoederen
 
-In dit artikel vindt een afbakening plaats van het recht op bijzondere onderstand voor duurzame gebruiksgoederen als bedoeld in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-01&g=2022-01-01). Deze afbakening is ingegeven door ervaringen met de huidige wijze van verlening van bijzondere onderstand en dient mede om de verhoging van de inkomensgrens voor de bijzondere onderstand in het juiste kader te plaatsen.
+In dit artikel vindt een afbakening plaats van het recht op bijzondere onderstand voor duurzame gebruiksgoederen als bedoeld in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-25&g=2022-01-25). Deze afbakening is ingegeven door ervaringen met de huidige wijze van verlening van bijzondere onderstand en dient mede om de verhoging van de inkomensgrens voor de bijzondere onderstand in het juiste kader te plaatsen.
 
 Bijzondere onderstand voor duurzame gebruiksgoederen komt aan de orde als de betrokkene (a) niet de middelen kan verwerven om te voorzien in (b) noodzakelijke kosten van het bestaan (c) die uit bijzondere omstandigheden voortvloeien ([artikel 20 Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=20)).
 
@@ -362,7 +364,7 @@ Verstrekking vindt (f) plaats in natura ([artikel 27, derde lid, van het Besluit
 
 Hierna worden deze punten nader uitgewerkt.
 
-- •. Onder middelen verstaat het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) alle vermogens- en inkomensbestanddelen gerekend waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken ([artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=18&z=2022-01-01&g=2022-01-01)).
+- •. Onder middelen verstaat het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) alle vermogens- en inkomensbestanddelen gerekend waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken ([artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=18&z=2022-01-25&g=2022-01-25)).
 
 - •. Op de rol van de plicht tot arbeidsinschakeling in dit verband wordt hierna ingegaan onder e. Voldoen aan de plicht tot arbeidsinschakeling.
 
@@ -372,7 +374,7 @@ Hierna worden deze punten nader uitgewerkt.
 
 - •. Binnen de bijzondere onderstand wordt geen onderscheid gemaakt naar de aard van het inkomen. Wel naar de hoogte van het inkomen. Naar mate het inkomen hoger is, wordt betrokkene geacht meer mogelijkheden te hebben om met dat inkomen in het gevraagde te voorzien - en bijgevolg geen recht op bijzondere onderstand te hebben. Anders gezegd: naar mate het inkomen hoger is, worden er zwaardere eisen gesteld aan de bijzondere omstandigheden die recht geven op bijzondere onderstand voor de aanschaf van duurzame gebruiksgoederen. In de volgende onderdeel wordt dit nader uitgewerkt.
 
-- •. **De noodzaak van de aanschaf is op zich géén bijzondere omstandigheid** De aanschaf van de hierna in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-01&g=2022-01-01) aan de orde komende duurzame gebruiksgoederen behoort tot de algemeen gebruikelijke uitgaven. Dat betekent dat de aanschafkosten van duurzame gebruiksgoederen in beginsel behoren tot de algemeen noodzakelijke kosten van het bestaan die voldaan dienen te worden uit een inkomen dat gelijk is aan of hoger dan het toepasselijke algemene onderstandbedrag. De noodzaak van de aanschaf is op zich dus niet aan te merken als een bijzondere omstandigheid. Hoe hoger het inkomen, des te meer is er sprake van algemeen noodzakelijke kosten.
+- •. **De noodzaak van de aanschaf is op zich géén bijzondere omstandigheid** De aanschaf van de hierna in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-25&g=2022-01-25) aan de orde komende duurzame gebruiksgoederen behoort tot de algemeen gebruikelijke uitgaven. Dat betekent dat de aanschafkosten van duurzame gebruiksgoederen in beginsel behoren tot de algemeen noodzakelijke kosten van het bestaan die voldaan dienen te worden uit een inkomen dat gelijk is aan of hoger dan het toepasselijke algemene onderstandbedrag. De noodzaak van de aanschaf is op zich dus niet aan te merken als een bijzondere omstandigheid. Hoe hoger het inkomen, des te meer is er sprake van algemeen noodzakelijke kosten.
 
 - •. **Bij de eerste aanschaf van een duurzaam gebruiksgoed kunnen alleen medische of dringende sociale redenen een bijzondere omstandigheid zijn** De noodzaak van de eerste aanschaf van duurzame gebruiksgoederen is – anders dan bij een vervangingsaanschaf – (ruim) van tevoren te voorzien. Bijvoorbeeld als men voor het eerst zelfstandig gaat wonen. Daarom kan bij de eerste aanschaf alleen een medische reden of een dringende sociale reden als bijzondere omstandigheid worden aangemerkt.
 
@@ -392,7 +394,7 @@ Hierna worden deze punten nader uitgewerkt.
 
 - •. Bij een inkomen van meer dan 100% van het WML wordt rekening gehouden met het feit dat er ruimere financiële mogelijkheden zijn waarop de bestedingen zijn afgestemd. Dat gebeurt door rekening te houden met de kosten van meer dan drie kinderen. Voor deze kosten wordt voor het vierde en volgende kind rekening gehouden met een bedrag gelijk aan dat voor het tweede en derde kind in de algemene onderstand ([artikel 16, tweede lid, Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=16)).
 
-- •. Het lijdt geen twijfel dat duurzame gebruiksgoederen zoals die in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-01&g=2022-01-01) aan de orde komen tot de noodzakelijke kosten van het bestaan behoren - wat, als hiervoor aangegeven, een noodzakelijke maar geen voldoende voorwaarde is voor verlening van bijzondere onderstand.
+- •. Het lijdt geen twijfel dat duurzame gebruiksgoederen zoals die in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-25&g=2022-01-25) aan de orde komen tot de noodzakelijke kosten van het bestaan behoren - wat, als hiervoor aangegeven, een noodzakelijke maar geen voldoende voorwaarde is voor verlening van bijzondere onderstand.
 
 - •. Of andere dan de in die artikelen genoemde duurzame gebruiksgoederen noodzakelijke kosten van het bestaan kunnen zijn, komt hierna aan de orde bij (d) afstemming op omstandigheden, mogelijkheden en middelen.
 
@@ -400,13 +402,13 @@ Hierna worden deze punten nader uitgewerkt.
 
 - •. Het moet gaan om noodzakelijke kosten die volledig betrekking hebben **op het bestaan van betrokkene**. Als de betrokkene met meerdere anderen met een voor deze kosten toereikend inkomen een woning bewoont zijn de kosten van een koelkast, fornuis en dergelijke goederen waarvan ook de anderen gebruik maken, geen kosten die volledig betrekking hebben op het bestaan van betrokkene. Derhalve zijn deze kosten voor betrokkene geen noodzakelijke kosten van het bestaan.
 
-- •. Net als bij de algemene onderstand geldt bij de bijzondere onderstand het individualiseringsbeginsel; de bijzondere onderstand dient te worden afgestemd op de omstandigheden, mogelijkheden en middelen van de belanghebbende, alsmede op het betoonde besef van verantwoordelijkheid voor de voorziening in het bestaan ([artikel 12, eerste en tweede lid, Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12)). Zie ook [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&artikel=30&z=2022-01-01&g=2022-01-01) van deze beleidsregels. Bij wijze van individualisering kunnen dus ook andere dan de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=17&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-01&g=2022-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=21&z=2022-01-01&g=2022-01-01) genoemde duurzame gebruiksgoederen tot de noodzakelijke kosten van het bestaan behoren. Deze individualisering vindt echter zijn begrenzing in de hiervoor onder (b) genoemde betekenis van het feit dat de bijzondere onderstand noodzakelijke kosten van het bestaan betreft.
+- •. Net als bij de algemene onderstand geldt bij de bijzondere onderstand het individualiseringsbeginsel; de bijzondere onderstand dient te worden afgestemd op de omstandigheden, mogelijkheden en middelen van de belanghebbende, alsmede op het betoonde besef van verantwoordelijkheid voor de voorziening in het bestaan ([artikel 12, eerste en tweede lid, Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12)). Zie ook [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&artikel=30&z=2022-01-25&g=2022-01-25) van deze beleidsregels. Bij wijze van individualisering kunnen dus ook andere dan de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=17&z=2022-01-25&g=2022-01-25), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2022-01-25&g=2022-01-25) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=21&z=2022-01-25&g=2022-01-25) genoemde duurzame gebruiksgoederen tot de noodzakelijke kosten van het bestaan behoren. Deze individualisering vindt echter zijn begrenzing in de hiervoor onder (b) genoemde betekenis van het feit dat de bijzondere onderstand noodzakelijke kosten van het bestaan betreft.
 
 - •. Tot het besef van verantwoordelijkheid voor de voorziening in het bestaan behoort het zorgvuldig omgaan met duurzame gebruiksgoederen. Voor duurzame gebruiksgoederen kan bij een zorgvuldig gebruik een levensduur van vijf jaar worden aangehouden. Als het goed binnen die periode onbruikbaar wordt, zal in de regel sprake zijn van tekortschietend besef van verantwoordelijkheid. Daarom kan binnen een periode van vijf jaar niet voor een tweede keer bijzondere bijstand worden verleend voor de aanschaf van hetzelfde duurzame gebruiksgoed. Vanzelfsprekend geldt deze regel ook als het betreffende goed is verkocht of weg geschonken.
 
 - •. Ook in het bestedingspatroon kan tekortschietend besef van verantwoordelijkheid besloten liggen. Bijvoorbeeld als geld besteed is aan een (te) duur mobiel telefoonabonnement. En ook dan bestaat geen recht op bijzondere onderstand in de aanschafkosten van een duurzaam gebruiksgoed.
 
-Ook ten aanzien van de bijzondere onderstand voor duurzame gebruiksgoederen geldt dat betrokkene primair zelf verantwoordelijk is voor de voorziening in deze kosten. Bijgevolg is daar dan ook de plicht tot arbeidsinschakeling aan verbonden. Zie hiervoor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&z=2022-01-01&g=2022-01-01) van deze beleidsregels.
+Ook ten aanzien van de bijzondere onderstand voor duurzame gebruiksgoederen geldt dat betrokkene primair zelf verantwoordelijk is voor de voorziening in deze kosten. Bijgevolg is daar dan ook de plicht tot arbeidsinschakeling aan verbonden. Zie hiervoor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=3&z=2022-01-25&g=2022-01-25) van deze beleidsregels.
 
 Gelet op het bepaalde in [artikel 27, derde lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=27) wordt bijzondere onderstand voor de aanschafkosten van duurzame gebruiksgoederen in natura verstrekt.
 
@@ -588,9 +590,9 @@ Het is de eigen verantwoordelijkheid van de burger om zelf in het bestaan te voo
 
 Het is de eigen verantwoordelijkheid van de burger om zelf in het bestaan te voorzien. Er zijn omstandigheden waarin de burger daartoe niet in staat is. Het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) fungeert dan als vangnet, waarbij de inkomensondersteuning voor de algemeen noodzakelijke kosten van het bestaan via de algemene onderstand loopt. Bijzondere omstandigheden kunnen ertoe leiden dat de alleenstaande of het gezin niet de middelen kan verwerven om te voorzien in de uit die omstandigheden voortvloeiende noodzakelijke kosten van het bestaan. In die situatie kan een belanghebbende een beroep op de bijzondere onderstand doen.
 
-Het is de eigen verantwoordelijkheid van de burger om zelf in het bestaan te voorzien. Er zijn omstandigheden waarin de burger daartoe niet in staat is. Het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) fungeert dan als vangnet, waarbij de inkomensondersteuning voor de algemeen noodzakelijke kosten van het bestaan via de algemene onderstand loopt. Bijzondere omstandigheden kunnen ertoe leiden dat de alleenstaande of het gezin niet de middelen kan verwerven om te voorzien in de uit die omstandigheden voortvloeiende noodzakelijke kosten van het bestaan. In die situatie kan een belanghebbende een beroep op de bijzondere onderstand doen.
-
 Bijzondere onderstand kan naast de algemene onderstand worden verstrekt, maar is ook beschikbaar voor belanghebbenden die geen algemene onderstand ontvangen en aan de voorwaarden voor de bijzondere onderstand voldoen.
+
+Wanneer een belanghebbende voor uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten geen beroep kan doen op een voorliggende voorziening, kan de Minister bijzondere onderstand verstrekken. Behoudens in het geval er sprake is van volledige en duurzame arbeidsongeschiktheid of indien het een AOV-gerechtigde betreft, geldt daarbij als voorwaarde dat voldaan wordt aan de plicht tot arbeidsinschakeling. In geval tijdelijke ontheffing van de plicht tot arbeidsinschakeling is verleend wordt beoordeeld of betrokkene in de periode voorafgaand aan de tijdelijke ontheffing aan de opgelegde verplichtingen heeft voldaan. Voorts moet worden vastgesteld of de uitgaven noodzakelijk zijn, daadwerkelijk moeten worden gemaakt en voortkomen uit bijzondere omstandigheden.
 
 ### § 2. Afwegingscriteria
 
@@ -598,9 +600,7 @@ Bij het beoordelen van een aanvraag voor bijzondere onderstand levert de Ministe
 
 Het recht op bijzondere onderstand wordt beoordeeld aan de hand van de volgende afwegingscriteria:
 
-Het recht op bijzondere onderstand wordt beoordeeld aan de hand van de volgende afwegingscriteria:
-
-### § 3. Toets noodzakelijkheid en bijzondere omstandigheden
+De genoemde afwegingscriteria komen hierna in afzonderlijke paragrafen aan de orde.
 
 ### § 3. Toets noodzakelijkheid en bijzondere omstandigheden
 
@@ -615,6 +615,8 @@ Het recht op bijzondere onderstand wordt beoordeeld aan de hand van de volgende 
 ### § 7. Tekortschietend besef van verantwoordelijkheid
 
 ### § 8. Afwijkingsmogelijkheid
+
+### § 9. Samenloop van vergoedingen
 
 De medewerker legt vast in het dossier hoe de beoordeling (bevindingen en gemaakte afwegingen) plaats heeft gevonden ten aanzien van het toetsen van:
 
@@ -638,15 +640,15 @@ Niet tot de middelen van belanghebbende wordt gerekend een uitkering op grond va
 
 ## Leidraad toetsing bijzondere onderstand
 
-### Bijlage bij de Beleidsregels toepassing Besluit onderstand BES 2019
+### § 1. Inleiding
 
-Wanneer een belanghebbende voor uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten geen beroep kan doen op een voorliggende voorziening, kan de Minister bijzondere onderstand verstrekken. Behoudens in het geval er sprake is van volledige en duurzame arbeidsongeschiktheid of indien het een AOV-gerechtigde betreft, geldt daarbij als voorwaarde dat voldaan wordt aan de plicht tot arbeidsinschakeling. In geval tijdelijke ontheffing van de plicht tot arbeidsinschakeling is verleend wordt beoordeeld of betrokkene in de periode voorafgaand aan de tijdelijke ontheffing aan de opgelegde verplichtingen heeft voldaan. Voorts moet worden vastgesteld of de uitgaven noodzakelijk zijn, daadwerkelijk moeten worden gemaakt en voortkomen uit bijzondere omstandigheden.
+Bij het beoordelen van een aanvraag voor bijzondere onderstand levert de Minister individueel maatwerk. Hierbij wordt rekening gehouden met de hele situatie waarin de belanghebbende zich bevindt en wordt bezien wat de belanghebbende op dat moment nodig heeft. Hierbij is het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) samen met de toepasselijke beleidsregels leidend, waarmee een uniforme uitvoering willekeur wordt geborgd.
 
 ### § 2. Afwegingscriteria
 
-De genoemde afwegingscriteria komen hierna in afzonderlijke paragrafen aan de orde.
+De medewerker legt de aan de hand van deze criteria gemaakte afweging vast in het dossier, waar nodig met relevante bewijsstukken.
 
-### § 9. Samenloop van vergoedingen
+### § 10. Dossiervorming
 
 De medewerker legt vast in het dossier hoe de beoordeling (bevindingen en gemaakte afwegingen) plaats heeft gevonden ten aanzien van het toetsen van:
 
