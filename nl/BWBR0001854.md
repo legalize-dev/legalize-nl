@@ -4,7 +4,7 @@ identifier: "BWBR0001854"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001854"
 soort: "wet"
@@ -60,17 +60,17 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland aan b
 
 De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
-- a. aan een van de misdrijven omschreven in de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01), [97a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=97a&z=2022-01-01&g=2022-01-01), [98 tot en met 98c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-01&g=2022-01-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-01&g=2022-01-01) en [108 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01);
+- a. aan een van de misdrijven omschreven in de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26), [97a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=97a&z=2022-01-26&g=2022-01-26), [98 tot en met 98c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-26&g=2022-01-26), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-26&g=2022-01-26) en [108 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26);
 
-- b. aan een van de misdrijven omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-01&g=2022-01-01) en [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=189&z=2022-01-01&g=2022-01-01), indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, een misdrijf is als onder a bedoeld;
+- b. aan een van de misdrijven omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-26&g=2022-01-26) en [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=189&z=2022-01-26&g=2022-01-26), indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, een misdrijf is als onder a bedoeld;
 
-- c. aan een van de misdrijven omschreven in de [artikelen 208 tot en met 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-01&g=2022-01-01) en [216 tot en met 223](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01);
+- c. aan een van de misdrijven omschreven in de [artikelen 208 tot en met 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-26&g=2022-01-26) en [216 tot en met 223](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26);
 
-- d. aan een van de misdrijven omschreven in de [artikelen 225 tot en met 227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01) en [232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=232&z=2022-01-01&g=2022-01-01) indien het strafbare feit is gepleegd tegen een Nederlandse overheidsinstelling;
+- d. aan een van de misdrijven omschreven in de [artikelen 225 tot en met 227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26) en [232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=232&z=2022-01-26&g=2022-01-26) indien het strafbare feit is gepleegd tegen een Nederlandse overheidsinstelling;
 
-- e. aan een van de misdrijven omschreven in de [artikelen 381 tot en met 385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01), [409](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=409&z=2022-01-01&g=2022-01-01) en [410](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=410&z=2022-01-01&g=2022-01-01) of aan de overtreding omschreven in [artikel 446a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=III&artikel=446a&z=2022-01-01&g=2022-01-01);
+- e. aan een van de misdrijven omschreven in de [artikelen 381 tot en met 385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26), [409](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=409&z=2022-01-26&g=2022-01-26) en [410](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=410&z=2022-01-26&g=2022-01-26) of aan de overtreding omschreven in [artikel 446a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=III&artikel=446a&z=2022-01-26&g=2022-01-26);
 
-- f. aan het misdrijf omschreven in [artikel 207a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2022-01-01&g=2022-01-01).
+- f. aan het misdrijf omschreven in [artikel 207a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2022-01-26&g=2022-01-26).
 
 ##### Artikel 4a
 
@@ -100,21 +100,21 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schul
 
 2. De Nederlandse strafwet is voorts toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt:
 
-- a. aan een van de misdrijven omschreven in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&z=2022-01-01&g=2022-01-01) en [II van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&z=2022-01-01&g=2022-01-01) en in de [artikelen 192a tot en met 192c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=192a&z=2022-01-01&g=2022-01-01), [197a tot en met 197c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197a&z=2022-01-01&g=2022-01-01), [206](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=206&z=2022-01-01&g=2022-01-01), [237](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIII&artikel=237&z=2022-01-01&g=2022-01-01), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=272&z=2022-01-01&g=2022-01-01) en [273](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=273&z=2022-01-01&g=2022-01-01);
+- a. aan een van de misdrijven omschreven in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&z=2022-01-26&g=2022-01-26) en [II van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&z=2022-01-26&g=2022-01-26) en in de [artikelen 192a tot en met 192c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=192a&z=2022-01-26&g=2022-01-26), [197a tot en met 197c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197a&z=2022-01-26&g=2022-01-26), [206](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=206&z=2022-01-26&g=2022-01-26), [237](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIII&artikel=237&z=2022-01-26&g=2022-01-26), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=272&z=2022-01-26&g=2022-01-26) en [273](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=273&z=2022-01-26&g=2022-01-26);
 
-- b. aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-01&g=2022-01-01), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=178&z=2022-01-01&g=2022-01-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-01&g=2022-01-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-01&g=2022-01-01), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=189&z=2022-01-01&g=2022-01-01), [200](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=200&z=2022-01-01&g=2022-01-01), [207a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2022-01-01&g=2022-01-01), [285a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285a&z=2022-01-01&g=2022-01-01) en [361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=361&z=2022-01-01&g=2022-01-01), voor zover het feit gericht is tegen de rechtspleging van het Internationaal Strafhof;
+- b. aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-26&g=2022-01-26), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=178&z=2022-01-26&g=2022-01-26), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-26&g=2022-01-26), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-26&g=2022-01-26), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=189&z=2022-01-26&g=2022-01-26), [200](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=200&z=2022-01-26&g=2022-01-26), [207a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2022-01-26&g=2022-01-26), [285a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285a&z=2022-01-26&g=2022-01-26) en [361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=361&z=2022-01-26&g=2022-01-26), voor zover het feit gericht is tegen de rechtspleging van het Internationaal Strafhof;
 
-- c. aan een van de misdrijven omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01) en [242 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01);
+- c. aan een van de misdrijven omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26) en [242 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26);
 
-- d. aan een van de misdrijven omschreven in de [artikelen 300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-01&g=2022-01-01), voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;
+- d. aan een van de misdrijven omschreven in de [artikelen 300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-26&g=2022-01-26), voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;
 
-- e. aan het misdrijf omschreven in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-01&g=2022-01-01).
+- e. aan het misdrijf omschreven in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-26&g=2022-01-26).
 
 3. Met een Nederlander wordt voor de toepassing van het eerste en het tweede lid, onder b tot en met e, gelijkgesteld de vreemdeling die na het plegen van het feit Nederlander wordt alsmede, voor de toepassing van het eerste en tweede lid, de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.
 
 ##### Artikel 8
 
-De Nederlandse strafwet is toepasselijk op de Nederlandse ambtenaar die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in [Titel XXVIII van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&z=2022-01-01&g=2022-01-01).
+De Nederlandse strafwet is toepasselijk op de Nederlandse ambtenaar die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in [Titel XXVIII van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&z=2022-01-26&g=2022-01-26).
 
 ## Titel II. Straffen
 
@@ -158,7 +158,7 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 
 2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste achttien jaren.
 
-3. Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-01&g=2022-01-01), de tijd van achttien jaren wordt overschreden.
+3. Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-26&g=2022-01-26), de tijd van achttien jaren wordt overschreden.
 
 4. Zij kan in geen geval de tijd van dertig jaren te boven gaan.
 
@@ -184,13 +184,13 @@ Vervallen
 
 2. De proeftijd bedraagt ten hoogste drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
-3. De proeftijd kan eveneens ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat de gezondheid of het welzijn van een of meer dieren benadeelt. Onder het benadelen van de gezondheid of het welzijn van een dier wordt voor de toepassing van dit artikel mede begrepen het misdrijf, bedoeld in de [artikelen 254](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=254&z=2022-01-01&g=2022-01-01) en [254a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=254a&z=2022-01-01&g=2022-01-01).
+3. De proeftijd kan eveneens ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat de gezondheid of het welzijn van een of meer dieren benadeelt. Onder het benadelen van de gezondheid of het welzijn van een dier wordt voor de toepassing van dit artikel mede begrepen het misdrijf, bedoeld in de [artikelen 254](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=254&z=2022-01-26&g=2022-01-26) en [254a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=254a&z=2022-01-26&g=2022-01-26).
 
 ##### Artikel 14c
 
-1. Toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-01&g=2022-01-01) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
+1. Toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-26&g=2022-01-26) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
 
-2. Bij toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-01&g=2022-01-01) kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:
+2. Bij toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-26&g=2022-01-26) kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:
 
 - 1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;
 
@@ -220,7 +220,7 @@ Vervallen
 
 - 14°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
 
-3. Indien bij de toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-01&g=2022-01-01) een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
+3. Indien bij de toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-26&g=2022-01-26) een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
 
 - a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt; en
 
@@ -228,7 +228,7 @@ Vervallen
 
 4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
 
-5. Bij het stellen van één van de bijzondere voorwaarden genoemd in het tweede lid, onder 3° en 4°, vinden de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=23&z=2022-01-01&g=2022-01-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24&z=2022-01-01&g=2022-01-01) overeenkomstige toepassing.
+5. Bij het stellen van één van de bijzondere voorwaarden genoemd in het tweede lid, onder 3° en 4°, vinden de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=23&z=2022-01-26&g=2022-01-26), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24&z=2022-01-26&g=2022-01-26) overeenkomstige toepassing.
 
 6. De rechter kan opdracht geven dat de reclassering toezicht houdt op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan begeleidt.
 
@@ -290,7 +290,7 @@ Vervallen
 
 1. De duur van de hechtenis is ten minste een dag en ten hoogste een jaar.
 
-2. Zij kan voor ten hoogste een jaar en vier maanden worden opgelegd in de gevallen waarin wegens strafverhoging ter zake van samenloop, herhaling van misdrijf of het bepaalde bij [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-01&g=2022-01-01), de tijd van een jaar wordt overschreden.
+2. Zij kan voor ten hoogste een jaar en vier maanden worden opgelegd in de gevallen waarin wegens strafverhoging ter zake van samenloop, herhaling van misdrijf of het bepaalde bij [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-26&g=2022-01-26), de tijd van een jaar wordt overschreden.
 
 3. Zij kan in geen geval de tijd van een jaar en vier maanden te boven gaan.
 
@@ -398,7 +398,7 @@ Vervallen
 
 ##### Artikel 24c
 
-1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast. Indien de veroordeelde een rechtspersoon is, blijft dit bevel achterwege. [Artikel 51, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=51&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast. Indien de veroordeelde een rechtspersoon is, blijft dit bevel achterwege. [Artikel 51, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=51&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 2. De duur van de vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld.
 
@@ -466,13 +466,13 @@ Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewa
 
 - 4°. bij afzonderlijke oplegging, voor een tijd van ten minste twee en ten hoogste vijf jaren.
 
-2. De ontzetting van het recht vermeld in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), gaat in op de dag dat de veroordeling daartoe onherroepelijk is geworden. De ontzetting van een van de andere in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten gaat in op de dag waarop de rechterlijke uitspraak kan worden ten uitvoer gelegd.
+2. De ontzetting van het recht vermeld in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), gaat in op de dag dat de veroordeling daartoe onherroepelijk is geworden. De ontzetting van een van de andere in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten gaat in op de dag waarop de rechterlijke uitspraak kan worden ten uitvoer gelegd.
 
 ##### Artikel 33
 
 1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24&z=2022-01-26&g=2022-01-26) is van overeenkomstige toepassing.
 
 ##### Artikel 33a
 
@@ -518,7 +518,7 @@ In de verbeurdverklaring van een voorwerp is begrepen die van de verpakking waar
 
 2. De voorwerpen moeten in dit geval worden uitgeleverd of de geschatte waarde moet worden betaald.
 
-3. De [artikelen 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-01&g=2022-01-01) en 25 en de [artikelen 6:4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) en [6:4:7 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) vinden overeenkomstige toepassing.
+3. De [artikelen 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-26&g=2022-01-26) en 25 en de [artikelen 6:4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) en [6:4:7 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) vinden overeenkomstige toepassing.
 
 ##### Artikel 35
 
@@ -544,7 +544,7 @@ Vervallen
 
 - 1°. bij de rechterlijke uitspraak waarbij iemand wegens een strafbaar feit wordt veroordeeld;
 
-- 2°. bij de rechterlijke uitspraak waarbij overeenkomstig [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9a&z=2022-01-01&g=2022-01-01) wordt bepaald dat geen straf zal worden opgelegd;
+- 2°. bij de rechterlijke uitspraak waarbij overeenkomstig [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9a&z=2022-01-26&g=2022-01-26) wordt bepaald dat geen straf zal worden opgelegd;
 
 - 3°. bij de rechterlijke uitspraak waarbij, niettegenstaande vrijspraak of ontslag van alle rechtsvervolging, wordt vastgesteld dat een strafbaar feit is begaan;
 
@@ -552,7 +552,7 @@ Vervallen
 
 - 5°. bij een strafbeschikking.
 
-2. De [artikelen 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=33b&z=2022-01-01&g=2022-01-01) en [33c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=33c&z=2022-01-01&g=2022-01-01), alsmede [artikel 446 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446), zijn van overeenkomstige toepassing.
+2. De [artikelen 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=33b&z=2022-01-26&g=2022-01-26) en [33c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=33c&z=2022-01-26&g=2022-01-26), alsmede [artikel 446 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446), zijn van overeenkomstige toepassing.
 
 3. De maatregel kan te zamen met straffen en met andere maatregelen worden opgelegd.
 
@@ -598,7 +598,7 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 8. De rechter kan bij de bepaling van de hoogte van het voordeel kosten in mindering brengen die rechtstreeks in verband staan met het begaan van strafbare feiten, bedoeld in het eerste tot en met derde lid, en die redelijkerwijs voor aftrek in aanmerking komen.
 
-9. Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen alsmede de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer als bedoeld in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36f&z=2022-01-01&g=2022-01-01) voor zover die zijn voldaan, in mindering gebracht.
+9. Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen alsmede de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer als bedoeld in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36f&z=2022-01-26&g=2022-01-26) voor zover die zijn voldaan, in mindering gebracht.
 
 10. Bij de oplegging van de maatregel wordt rekening gehouden met uit hoofde van eerdere beslissingen opgelegde verplichtingen tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel.
 
@@ -606,15 +606,15 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 ##### Artikel 36f
 
-1. Aan degene die bij rechterlijke uitspraak wegens een strafbaar feit wordt veroordeeld tot een straf of aan wie bij rechterlijke uitspraak een maatregel of een last als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37&z=2022-01-01&g=2022-01-01) wordt opgelegd, of waarbij door de rechter bij de strafoplegging rekening is gehouden met een strafbaar feit, waarvan in de dagvaarding is meegedeeld dat het door de verdachte is erkend en ter kennis van de rechtbank wordt gebracht dan wel jegens wie een strafbeschikking wordt uitgevaardigd, kan de verplichting worden opgelegd tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer of de personen genoemd in [artikel 51f, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51f). De staat keert een ontvangen bedrag onverwijld uit aan het slachtoffer of de personen genoemd in artikel 51f, tweede lid, van het Wetboek van Strafvordering.
+1. Aan degene die bij rechterlijke uitspraak wegens een strafbaar feit wordt veroordeeld tot een straf of aan wie bij rechterlijke uitspraak een maatregel of een last als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37&z=2022-01-26&g=2022-01-26) wordt opgelegd, of waarbij door de rechter bij de strafoplegging rekening is gehouden met een strafbaar feit, waarvan in de dagvaarding is meegedeeld dat het door de verdachte is erkend en ter kennis van de rechtbank wordt gebracht dan wel jegens wie een strafbeschikking wordt uitgevaardigd, kan de verplichting worden opgelegd tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer of de personen genoemd in [artikel 51f, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51f). De staat keert een ontvangen bedrag onverwijld uit aan het slachtoffer of de personen genoemd in artikel 51f, tweede lid, van het Wetboek van Strafvordering.
 
 2. De maatregel kan worden opgelegd indien en voor zover de verdachte jegens het slachtoffer naar burgerlijk recht aansprakelijk is voor de schade die door het strafbare feit is toegebracht.
 
 3. De maatregel kan te zamen met straffen en andere maatregelen worden opgelegd.
 
-4. [Artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24a&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+4. [Artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24a&z=2022-01-26&g=2022-01-26) is van overeenkomstige toepassing.
 
-5. De rechter bepaalt bij de oplegging van de maatregel de duur volgens welke met toepassing van [artikel 6:4:20 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) gijzeling kan worden toegepast. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste één jaar. [Artikel 77l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77l&z=2022-01-01&g=2022-01-01), en [artikel 6:6:30, derde en vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:30) zijn van overeenkomstige toepassing.
+5. De rechter bepaalt bij de oplegging van de maatregel de duur volgens welke met toepassing van [artikel 6:4:20 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) gijzeling kan worden toegepast. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste één jaar. [Artikel 77l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77l&z=2022-01-26&g=2022-01-26), en [artikel 6:6:30, derde en vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:30) zijn van overeenkomstige toepassing.
 
 ### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
 
@@ -628,7 +628,7 @@ Vervallen
 
 - 1°. bij de verdachte tijdens het begaan van het feit gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond; en
 
-- 2°. het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld dan wel behoort tot een van de misdrijven omschreven in de [artikelen 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-01&g=2022-01-01), [285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285b&z=2022-01-01&g=2022-01-01), en [395 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-01&g=2022-01-01), [175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175), en [11, tweede lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11).
+- 2°. het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld dan wel behoort tot een van de misdrijven omschreven in de [artikelen 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-26&g=2022-01-26), [285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285b&z=2022-01-26&g=2022-01-26), en [395 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-26&g=2022-01-26), [175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175), en [11, tweede lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11).
 
 2. Bij toepassing van het vorige lid kan de rechter afzien van het opleggen van straf, ook indien hij oordeelt dat het feit wel aan de verdachte kan worden toegerekend.
 
@@ -638,7 +638,7 @@ Vervallen
 
 5. Bij het geven van een last als bedoeld in het eerste lid neemt de rechter in aanmerking de inhoud van de overige adviezen en rapporten die over de persoonlijkheid van de verdachte zijn uitgebracht, alsmede de ernst van het begane feit of de veelvuldigheid van voorafgegane veroordelingen wegens misdrijf.
 
-6. Indien betrokkene verdacht wordt van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam als bedoeld in [artikel 38e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38e&z=2022-01-01&g=2022-01-01) van het Wetboek van Strafrecht en hij weigert medewerking te verlenen aan enig onderzoek als bedoeld in het vierde lid kan de officier van justitie de voorzitter van de multidisciplinaire commissie, bedoeld in het negende lid, gelasten dat die commissie aan hem een advies uitbrengt over de aanwezigheid en de bruikbaarheid van persoonsgegevens betreffende een mogelijke gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van betrokkene, ten aanzien waarvan de verdachte niet bereid is om medewerking te verlenen aan de verstrekking. De leden van de multidisciplinaire commissie zijn bevoegd persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, op te vragen van artsen en gedragsdeskundigen en daarvan kennis te nemen. Op een verzoek van de multidisciplinaire commissie is de arts of gedragsdeskundige verplicht de persoonsgegevens van betrokkene aan de multidisciplinaire commissie te verstrekken. De multidisciplinaire commissie brengt uiterlijk 30 dagen na de last, bedoeld in de eerste volzin, gemotiveerd advies uit aan de officier van justitie over de aanwezigheid en bruikbaarheid van de persoonsgegevens in relatie tot de aanwezigheid van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens tijdens het begaan van het feit. Van een last, bedoeld in de eerste volzin, doet de officier van justitie mededeling aan de verdachte, onder medezending van het advies van de multidisciplinaire commissie.
+6. Indien betrokkene verdacht wordt van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam als bedoeld in [artikel 38e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38e&z=2022-01-26&g=2022-01-26) van het Wetboek van Strafrecht en hij weigert medewerking te verlenen aan enig onderzoek als bedoeld in het vierde lid kan de officier van justitie de voorzitter van de multidisciplinaire commissie, bedoeld in het negende lid, gelasten dat die commissie aan hem een advies uitbrengt over de aanwezigheid en de bruikbaarheid van persoonsgegevens betreffende een mogelijke gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van betrokkene, ten aanzien waarvan de verdachte niet bereid is om medewerking te verlenen aan de verstrekking. De leden van de multidisciplinaire commissie zijn bevoegd persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, op te vragen van artsen en gedragsdeskundigen en daarvan kennis te nemen. Op een verzoek van de multidisciplinaire commissie is de arts of gedragsdeskundige verplicht de persoonsgegevens van betrokkene aan de multidisciplinaire commissie te verstrekken. De multidisciplinaire commissie brengt uiterlijk 30 dagen na de last, bedoeld in de eerste volzin, gemotiveerd advies uit aan de officier van justitie over de aanwezigheid en bruikbaarheid van de persoonsgegevens in relatie tot de aanwezigheid van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens tijdens het begaan van het feit. Van een last, bedoeld in de eerste volzin, doet de officier van justitie mededeling aan de verdachte, onder medezending van het advies van de multidisciplinaire commissie.
 
 7. De persoonsgegevens van betrokkene die aan de multidisciplinaire commissie zijn verstrekt, kunnen uitsluitend worden gebruikt ten behoeve van een rapport of advies als bedoeld in het vijfde lid. Voor de toepassing van de eerste volzin behoeft de officier van justitie een schriftelijke machtiging, op diens vordering te verlenen door de penitentiaire kamer. Bij deze vordering legt de officier van justitie het advies van de multidisciplinaire commissie over. Indien de officier van justitie, op basis van het advies van de multidisciplinaire commissie, afziet van het doen van een vordering, doet hij hiervan mededeling aan de verdachte en de commissie. In dit artikel wordt onder penitentiaire kamer verstaan: de meervoudige kamer, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), in de samenstelling, bedoeld in het derde lid van dat artikel.
 
@@ -666,7 +666,7 @@ Vervallen
 
 ##### Artikel 38
 
-1. Indien de rechter niet een bevel als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-01&g=2022-01-01) geeft, stelt hij ter bescherming van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen voorwaarden betreffende het gedrag van de ter beschikking gestelde. Als algemene voorwaarde geldt dat de ter beschikking gestelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt.
+1. Indien de rechter niet een bevel als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-26&g=2022-01-26) geeft, stelt hij ter bescherming van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen voorwaarden betreffende het gedrag van de ter beschikking gestelde. Als algemene voorwaarde geldt dat de ter beschikking gestelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt.
 
 2. De rechter geeft tevens een in de uitspraak aangewezen instelling, die aan bepaalde bij of krachtens algemene maatregel van bestuur te stellen eisen voldoet, opdracht de ter beschikking gestelde bij de naleving van de voorwaarden hulp en steun te verlenen.
 
@@ -684,7 +684,7 @@ Vervallen
 
 ##### Artikel 38a
 
-1. De voorwaarden bedoeld in het eerste lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38&z=2022-01-01&g=2022-01-01) kunnen inhouden dat de ter beschikking gestelde zich in een door de rechter aangewezen instelling laat opnemen, zich onder behandeling stelt van een in de uitspraak aangewezen deskundige, of door de behandelend arts voorgeschreven geneesmiddelen inneemt dan wel gedoogt dat deze door de behandelend arts aan hem worden toegediend.
+1. De voorwaarden bedoeld in het eerste lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38&z=2022-01-26&g=2022-01-26) kunnen inhouden dat de ter beschikking gestelde zich in een door de rechter aangewezen instelling laat opnemen, zich onder behandeling stelt van een in de uitspraak aangewezen deskundige, of door de behandelend arts voorgeschreven geneesmiddelen inneemt dan wel gedoogt dat deze door de behandelend arts aan hem worden toegediend.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een door de rechter aan te wijzen instelling moet voldoen.
 
@@ -700,13 +700,13 @@ Vervallen
 
 1. De terbeschikkingstelling geldt voor de tijd van twee jaar, te rekenen van de dag waarop de rechterlijke uitspraak waarbij zij is opgelegd onherroepelijk is geworden.
 
-2. De termijn van de terbeschikkingstelling kan, behoudens het bepaalde in [artikel 38e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38e&z=2022-01-01&g=2022-01-01) of [artikel 38j](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38j&z=2022-01-01&g=2022-01-01), door de rechter, op vordering van het openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen die verlenging eist.
+2. De termijn van de terbeschikkingstelling kan, behoudens het bepaalde in [artikel 38e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38e&z=2022-01-26&g=2022-01-26) of [artikel 38j](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38j&z=2022-01-26&g=2022-01-26), door de rechter, op vordering van het openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen die verlenging eist.
 
 ##### Artikel 38e
 
 1. De totale duur van de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege gaat een periode van vier jaar niet te boven, tenzij de terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
-2. Behoudens de gevallen waarin een bevel als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-01&g=2022-01-01), of [artikel 6:6:10, eerste lid, onder e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10) is gegeven, gaat de totale duur van de maatregel van terbeschikkingstelling een periode van negen jaar niet te boven.
+2. Behoudens de gevallen waarin een bevel als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-26&g=2022-01-26), of [artikel 6:6:10, eerste lid, onder e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10) is gegeven, gaat de totale duur van de maatregel van terbeschikkingstelling een periode van negen jaar niet te boven.
 
 3. Indien de totale duur van de terbeschikkingstelling niet in tijd is beperkt, kan de termijn van de terbeschikkingstelling telkens worden verlengd, wanneer de veiligheid van anderen, dan wel de algemene veiligheid van personen die verlenging eist.
 
@@ -840,7 +840,9 @@ Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk voors
 
 ##### Artikel 44
 
-Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
+1. Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
+
+2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
 ## Titel IV. Poging en voorbereiding
 
@@ -868,7 +870,7 @@ Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambts
 
 ##### Artikel 46a
 
-Poging om een ander door een der in [artikel 47, eerste lid onder 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-01&g=2022-01-01), vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.
+Poging om een ander door een der in [artikel 47, eerste lid onder 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-26&g=2022-01-26), vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.
 
 ##### Artikel 46b
 
@@ -968,21 +970,21 @@ Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere s
 
 ##### Artikel 60
 
-In de gevallen van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-01&g=2022-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-01&g=2022-01-01) gelden ten aanzien van bijkomende straffen de volgende bepalingen:
+In de gevallen van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-26&g=2022-01-26) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-26&g=2022-01-26) gelden ten aanzien van bijkomende straffen de volgende bepalingen:
 
 - 1°. de straffen van ontzetting van dezelfde rechten worden opgelost in één straf, in duur de opgelegde hoofdstraf of hoofdstraffen ten minste twee en ten hoogste vijf jaren te boven gaande, of ingeval geen andere hoofdstraf dan geldboete is opgelegd, in één straf van ten minste twee en ten hoogste vijf jaren;
 
 - 2°. de straffen van ontzetting van verschillende rechten worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd;
 
-- 3°. de straffen van verbeurdverklaring van bepaalde voorwerpen worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd; de vervangende vrijheidsstraffen mogen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-01&g=2022-01-01), niet overschrijden.
+- 3°. de straffen van verbeurdverklaring van bepaalde voorwerpen worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd; de vervangende vrijheidsstraffen mogen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-26&g=2022-01-26), niet overschrijden.
 
 ##### Artikel 60a
 
-Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-01&g=2022-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-01&g=2022-01-01) bedoeld, geldt voor de maatregel genoemd in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36f&z=2022-01-01&g=2022-01-01) dat de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in [artikel 24c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-01&g=2022-01-01), niet mogen overschrijden.
+Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-26&g=2022-01-26) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-26&g=2022-01-26) bedoeld, geldt voor de maatregel genoemd in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36f&z=2022-01-26&g=2022-01-26) dat de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in [artikel 24c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-26&g=2022-01-26), niet mogen overschrijden.
 
 ##### Artikel 61
 
-1. De betrekkelijke zwaarte van ongelijksoortige hoofdstraffen wordt bepaald door de volgorde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2022-01-01&g=2022-01-01).
+1. De betrekkelijke zwaarte van ongelijksoortige hoofdstraffen wordt bepaald door de volgorde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2022-01-26&g=2022-01-26).
 
 2. Waar de rechter de keuze tussen twee hoofdstraffen is gelaten, komt bij de vergelijking alleen de zwaarste van die straffen in aanmerking.
 
@@ -992,9 +994,9 @@ Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 62
 
-1. Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-01&g=2022-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-01&g=2022-01-01) bedoeld, hetzij van overtredingen met misdrijven, hetzij van overtredingen onderling, wordt voor elke overtreding zonder vermindering straf opgelegd.
+1. Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-26&g=2022-01-26) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2022-01-26&g=2022-01-26) bedoeld, hetzij van overtredingen met misdrijven, hetzij van overtredingen onderling, wordt voor elke overtreding zonder vermindering straf opgelegd.
 
-2. De vervangende vrijheidsstraffen mogen voor de misdrijven en overtredingen of voor de overtredingen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-01&g=2022-01-01), niet overschrijden.
+2. De vervangende vrijheidsstraffen mogen voor de misdrijven en overtredingen of voor de overtredingen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2022-01-26&g=2022-01-26), niet overschrijden.
 
 ##### Artikel 63
 
@@ -1008,11 +1010,11 @@ Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het
 
 ##### Artikel 65
 
-1. Indien de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-01&g=2022-01-01) aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, geschiedt de klacht door zijn wettige vertegenwoordiger in burgerlijke zaken.
+1. Indien de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-26&g=2022-01-26) aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, geschiedt de klacht door zijn wettige vertegenwoordiger in burgerlijke zaken.
 
-2. Indien de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-01&g=2022-01-01) aangewezen persoon overleden is, zijn tot de klacht gerechtigd: zijn ouders, zijn kinderen en zijn overlevende echtgenoot, tenzij blijkt dat hij een vervolging niet heeft gewild.
+2. Indien de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-26&g=2022-01-26) aangewezen persoon overleden is, zijn tot de klacht gerechtigd: zijn ouders, zijn kinderen en zijn overlevende echtgenoot, tenzij blijkt dat hij een vervolging niet heeft gewild.
 
-3. Indien de klacht tegen de wettige vertegenwoordiger in burgerlijke zaken van de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-01&g=2022-01-01) aangewezen persoon moet geschieden, zijn tot de klacht gerechtigd: de echtgenoot, een bloedverwant in de rechte linie of, bij het ontbreken van al die personen, een broer en een zuster.
+3. Indien de klacht tegen de wettige vertegenwoordiger in burgerlijke zaken van de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2022-01-26&g=2022-01-26) aangewezen persoon moet geschieden, zijn tot de klacht gerechtigd: de echtgenoot, een bloedverwant in de rechte linie of, bij het ontbreken van al die personen, een broer en een zuster.
 
 4. Indien een in het tweede of derde lid aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, kan vervolging plaatsvinden op klacht van diens wettige vertegenwoordiger in burgerlijke zaken.
 
@@ -1060,21 +1062,21 @@ Het recht tot strafvordering vervalt door de dood van de verdachte.
 
 - 1°. voor de misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld;
 
-- 2°. voor de misdrijven, omschreven in de [artikelen 240b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-01&g=2022-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-01&g=2022-01-01) en [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-01&g=2022-01-01), voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
+- 2°. voor de misdrijven, omschreven in de [artikelen 240b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-26&g=2022-01-26), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-26&g=2022-01-26) en [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-26&g=2022-01-26), voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
 
 ##### Artikel 71
 
 De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd, behoudens in de volgende gevallen:
 
-- 1°. bij de misdrijven omschreven in de [artikelen 173, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173&z=2022-01-01&g=2022-01-01), en [173b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173b&z=2022-01-01&g=2022-01-01), vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;
+- 1°. bij de misdrijven omschreven in de [artikelen 173, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173&z=2022-01-26&g=2022-01-26), en [173b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173b&z=2022-01-26&g=2022-01-26), vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;
 
 - 2°. bij valsheid op de dag na die waarop gebruik is gemaakt van het voorwerp ten opzichte waarvan de valsheid gepleegd is;
 
-- 3°. bij de misdrijven omschreven in de [artikelen 240b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [247 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-01&g=2022-01-01), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-01&g=2022-01-01), [284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-01&g=2022-01-01) en [285c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285c&z=2022-01-01&g=2022-01-01), voor zover gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, de [artikelen 300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-01&g=2022-01-01), voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt of voor zover het feit oplevert mishandeling van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel het misdrijf, omschreven in [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-01&g=2022-01-01), voor zover het feit oplevert gedwongen abortus of gedwongen sterilisatie van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;
+- 3°. bij de misdrijven omschreven in de [artikelen 240b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [247 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-26&g=2022-01-26), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-26&g=2022-01-26), [284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-26&g=2022-01-26) en [285c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285c&z=2022-01-26&g=2022-01-26), voor zover gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, de [artikelen 300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-26&g=2022-01-26), voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt of voor zover het feit oplevert mishandeling van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel het misdrijf, omschreven in [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-26&g=2022-01-26), voor zover het feit oplevert gedwongen abortus of gedwongen sterilisatie van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;
 
-- 4°. bij de misdrijven omschreven in de [artikelen 279](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=279&z=2022-01-01&g=2022-01-01) en [282, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-01&g=2022-01-01) op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;
+- 4°. bij de misdrijven omschreven in de [artikelen 279](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=279&z=2022-01-26&g=2022-01-26) en [282, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-26&g=2022-01-26) op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;
 
-- 5°. bij de overtredingen omschreven in de [artikelen 465](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=465&z=2022-01-01&g=2022-01-01), [466](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2022-01-01&g=2022-01-01) en [467](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=467&z=2022-01-01&g=2022-01-01), op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van [artikel 18c van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=18c), de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in [afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&afdeling=Achtste) zijn overgebracht.
+- 5°. bij de overtredingen omschreven in de [artikelen 465](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=465&z=2022-01-26&g=2022-01-26), [466](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2022-01-26&g=2022-01-26) en [467](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=467&z=2022-01-26&g=2022-01-26), op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van [artikel 18c van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=18c), de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in [afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&afdeling=Achtste) zijn overgebracht.
 
 ##### Artikel 72
 
@@ -1098,7 +1100,7 @@ De schorsing van de strafvervolging ter zake van een prejudicieel geschil schors
 
 - c. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
 
-- d. voldoening aan de staat van een geldbedrag of overdracht van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36e&z=2022-01-01&g=2022-01-01) voor ontneming vatbare wederrechtelijk verkregen voordeel;
+- d. voldoening aan de staat van een geldbedrag of overdracht van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36e&z=2022-01-26&g=2022-01-26) voor ontneming vatbare wederrechtelijk verkregen voordeel;
 
 - e. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;
 
@@ -1108,23 +1110,23 @@ De schorsing van de strafvervolging ter zake van een prejudicieel geschil schors
 
 4. [Artikel 6:1:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:1) is van overeenkomstige toepassing op de op grond van het eerste lid gestelde voorwaarden.
 
-5. Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=22b&z=2022-01-01&g=2022-01-01), [22c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=22c&z=2022-01-01&g=2022-01-01), en de [artikelen 6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:1), en [6:3:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:6) met betrekking tot taakstraffen, van overeenkomstige toepassing. Bij het verrichten van de onbetaalde arbeid of het leerproject wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a). De onbetaalde arbeid of het leerproject wordt binnen een termijn van negen maanden na instemming met de voorwaarde voltooid.
+5. Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=22b&z=2022-01-26&g=2022-01-26), [22c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=22c&z=2022-01-26&g=2022-01-26), en de [artikelen 6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:1), en [6:3:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:6) met betrekking tot taakstraffen, van overeenkomstige toepassing. Bij het verrichten van de onbetaalde arbeid of het leerproject wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a). De onbetaalde arbeid of het leerproject wordt binnen een termijn van negen maanden na instemming met de voorwaarde voltooid.
 
 6. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de nakoming van de voorwaarde, bedoeld in het tweede lid, onderdeel a. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldsom, de termijn waarbinnen die betaling moet zijn geschied en de verantwoording van de ontvangen geldbedragen. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de nakoming van de overige in het tweede lid bedoelde voorwaarden.
 
 ##### Artikel 74a
 
-Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01), te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01), niet weigeren.
+Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26), te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26), niet weigeren.
 
 ##### Artikel 74b
 
-1. Een bevel als bedoeld in [artikel 12k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12k) doet, na voldoening aan de overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01) gestelde voorwaarden, het recht tot strafvordering herleven als ware het niet vervallen geweest.
+1. Een bevel als bedoeld in [artikel 12k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12k) doet, na voldoening aan de overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26) gestelde voorwaarden, het recht tot strafvordering herleven als ware het niet vervallen geweest.
 
-2. Na een bevel, als bedoeld in het vorige lid, worden bedragen, betaald in toepassing van [artikel 74, tweede lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01), onverwijld terugbetaald aan degene die ze heeft betaald.
+2. Na een bevel, als bedoeld in het vorige lid, worden bedragen, betaald in toepassing van [artikel 74, tweede lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26), onverwijld terugbetaald aan degene die ze heeft betaald.
 
-3. Volgt na een bevel als bedoeld in het eerste lid een veroordeling, dan houdt de rechter rekening met de afstand of uitlevering door de veroordeelde van voorwerpen op grond van [artikel 74, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01), met de vergoeding van schade op grond van artikel 74, tweede lid, onder e, en met de onbetaalde arbeid die is verricht of het leerproject dat is gevolgd op grond van artikel 74, tweede lid, onder f.
+3. Volgt na een bevel als bedoeld in het eerste lid een veroordeling, dan houdt de rechter rekening met de afstand of uitlevering door de veroordeelde van voorwerpen op grond van [artikel 74, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26), met de vergoeding van schade op grond van artikel 74, tweede lid, onder e, en met de onbetaalde arbeid die is verricht of het leerproject dat is gevolgd op grond van artikel 74, tweede lid, onder f.
 
-4. Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in [artikel 74, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-01&g=2022-01-01), zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
+4. Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in [artikel 74, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2022-01-26&g=2022-01-26), zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
 
 ##### Artikel 74c
 
@@ -1152,27 +1154,27 @@ Vervallen
 
 ##### Artikel 77a
 
-Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van twaalf jaren doch nog niet die van achttien jaren heeft bereikt, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2022-01-01&g=2022-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2022-01-01&g=2022-01-01), 12 tot en met 31, [36 tot en met 38p](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=36&z=2022-01-01&g=2022-01-01), [43a tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-01&g=2022-01-01) en [57 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-01&g=2022-01-01) niet van toepassing. In de plaats daarvan treden de bijzondere bepalingen vervat in de [artikelen 77d tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77d&z=2022-01-01&g=2022-01-01).
+Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van twaalf jaren doch nog niet die van achttien jaren heeft bereikt, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2022-01-26&g=2022-01-26), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2022-01-26&g=2022-01-26), 12 tot en met 31, [36 tot en met 38p](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=36&z=2022-01-26&g=2022-01-26), [43a tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2022-01-26&g=2022-01-26) en [57 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2022-01-26&g=2022-01-26) niet van toepassing. In de plaats daarvan treden de bijzondere bepalingen vervat in de [artikelen 77d tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77d&z=2022-01-26&g=2022-01-26).
 
 ##### Artikel 77b
 
-1. Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van zestien jaren doch nog niet die van achttien jaren heeft bereikt, kan de rechter de [artikelen 77g tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2022-01-01&g=2022-01-01) buiten toepassing laten en recht doen overeenkomstig de bepalingen in de voorgaande titels vervat, indien hij daartoe grond vindt in de ernst van het begane feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.
+1. Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van zestien jaren doch nog niet die van achttien jaren heeft bereikt, kan de rechter de [artikelen 77g tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2022-01-26&g=2022-01-26) buiten toepassing laten en recht doen overeenkomstig de bepalingen in de voorgaande titels vervat, indien hij daartoe grond vindt in de ernst van het begane feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.
 
 2. Bij toepassing van het eerste lid kan levenslange gevangenisstraf niet worden opgelegd.
 
 ##### Artikel 77c
 
-1. Ten aanzien van de jongvolwassene die ten tijde van het begaan van het strafbaar feit de leeftijd van achttien jaren doch nog niet die van drieëntwintig jaren heeft bereikt, kan de rechter, indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, recht doen overeenkomstig [de artikelen 77g tot en met 77hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2022-01-01&g=2022-01-01).
+1. Ten aanzien van de jongvolwassene die ten tijde van het begaan van het strafbaar feit de leeftijd van achttien jaren doch nog niet die van drieëntwintig jaren heeft bereikt, kan de rechter, indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, recht doen overeenkomstig [de artikelen 77g tot en met 77hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2022-01-26&g=2022-01-26).
 
-2. [Artikel 77e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77e&z=2022-01-01&g=2022-01-01) blijft buiten toepassing.
+2. [Artikel 77e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77e&z=2022-01-26&g=2022-01-26) blijft buiten toepassing.
 
 ##### Artikel 77d
 
-1. De verjaringstermijn van het recht tot strafvordering, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=70&z=2022-01-01&g=2022-01-01), wordt ten aanzien van misdrijven tot de helft van de daar bedoelde duur ingekort.
+1. De verjaringstermijn van het recht tot strafvordering, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=70&z=2022-01-26&g=2022-01-26), wordt ten aanzien van misdrijven tot de helft van de daar bedoelde duur ingekort.
 
-2. Het eerste lid is niet van toepassing op misdrijven omschreven in de [artikelen 240b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [247 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-01&g=2022-01-01) en [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-01&g=2022-01-01), gepleegd door een persoon die ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren heeft bereikt, ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
+2. Het eerste lid is niet van toepassing op misdrijven omschreven in de [artikelen 240b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [247 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-26&g=2022-01-26) en [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-26&g=2022-01-26), gepleegd door een persoon die ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren heeft bereikt, ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
 
-3. Het recht tot strafvordering voor misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld, en de misdrijven omschreven in de [artikelen 240b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-01&g=2022-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-01&g=2022-01-01) en [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-01&g=2022-01-01) voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart in twintig jaren.
+3. Het recht tot strafvordering voor misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld, en de misdrijven omschreven in de [artikelen 240b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-26&g=2022-01-26), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-26&g=2022-01-26) en [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-26&g=2022-01-26) voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart in twintig jaren.
 
 ##### Artikel 77e
 
@@ -1198,7 +1200,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 - a. de jeugdige zich zal richten naar de aanwijzingen van een gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) voor een daarbij te bepalen termijn van ten hoogste zes maanden;
 
-- b. indien de jeugdige ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren reeds heeft bereikt, kan de officier van justitie in plaats daarvan de aanwijzing geven dat de jeugdige zich zal richten naar de aanwijzingen van een reclasseringsinstelling als bedoeld in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-01&g=2022-01-01).
+- b. indien de jeugdige ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren reeds heeft bereikt, kan de officier van justitie in plaats daarvan de aanwijzing geven dat de jeugdige zich zal richten naar de aanwijzingen van een reclasseringsinstelling als bedoeld in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-26&g=2022-01-26).
 
 2. In afwijking van [artikel 257a, tweede lid, onderdeel a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) kan de officier van justitie in een strafbeschikking een taakstraf opleggen voor ten hoogste zestig uren.
 
@@ -1256,7 +1258,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 2. De duur van de jeugddetentie wordt in de rechterlijke uitspraak aangewezen in dagen, weken of maanden.
 
-3. [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2022-01-01&g=2022-01-01) is bij veroordeling tot jeugddetentie van overeenkomstige toepassing.
+3. [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2022-01-26&g=2022-01-26) is bij veroordeling tot jeugddetentie van overeenkomstige toepassing.
 
 ##### Artikel 77j
 
@@ -1268,7 +1270,7 @@ Vervallen
 
 ##### Artikel 77l
 
-1. Het bedrag van de geldboete is ten minste het bedrag, genoemd in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=23&z=2022-01-01&g=2022-01-01), en ten hoogste het maximum van een geldboete van de tweede categorie. [Artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24a&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing met dien verstande dat de rechter of de officier van justitie bij elke geldboete kan bepalen dat het bedrag in gedeelten kan worden voldaan. De rechter of de officier van justitie stelt daarbij de hoogte van elk van die gedeelten vast.
+1. Het bedrag van de geldboete is ten minste het bedrag, genoemd in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=23&z=2022-01-26&g=2022-01-26), en ten hoogste het maximum van een geldboete van de tweede categorie. [Artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24a&z=2022-01-26&g=2022-01-26) is van overeenkomstige toepassing met dien verstande dat de rechter of de officier van justitie bij elke geldboete kan bepalen dat het bedrag in gedeelten kan worden voldaan. De rechter of de officier van justitie stelt daarbij de hoogte van elk van die gedeelten vast.
 
 2. De rechter kan bij de uitspraak waarbij geldboete wordt opgelegd, bevelen dat voor het geval volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, vervangende jeugddetentie zal worden toegepast.
 
@@ -1282,7 +1284,7 @@ Vervallen
 
 4. Indien meer dan één taakstraf wordt opgelegd, bedraagt het totaal aantal uren niet meer dan tweehonderdenveertig.
 
-5. [Artikel 27, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2022-01-01&g=2022-01-01), is bij veroordeling tot een taakstraf door de rechter van overeenkomstige toepassing.
+5. [Artikel 27, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2022-01-26&g=2022-01-26), is bij veroordeling tot een taakstraf door de rechter van overeenkomstige toepassing.
 
 ##### Artikel 77n
 
@@ -1312,7 +1314,7 @@ Ontzegging van de bevoegdheid motorrijtuigen te besturen is slechts mogelijk in 
 
 1. Aan de verdachte bij wie ten tijde van het begaan van het misdrijf een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan de maatregel van plaatsing in een inrichting voor jeugdigen worden opgelegd, indien
 
-- a. het feit waarvoor de maatregel wordt opgelegd, een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel behoort tot een der misdrijven omschreven in de [artikelen 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-01&g=2022-01-01), [285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285b&z=2022-01-01&g=2022-01-01) en [395](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-01&g=2022-01-01) van het Wetboek van Strafrecht, [175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175), en [11, tweede lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11), en
+- a. het feit waarvoor de maatregel wordt opgelegd, een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel behoort tot een der misdrijven omschreven in de [artikelen 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-26&g=2022-01-26), [285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285b&z=2022-01-26&g=2022-01-26) en [395](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-26&g=2022-01-26) van het Wetboek van Strafrecht, [175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175), en [11, tweede lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11), en
 
 - b. de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen het opleggen van die maatregel eist, en
 
@@ -1358,13 +1360,13 @@ Vervallen
 
 - b. indien een kennisgeving als bedoeld in [artikel 366a, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=366a) moet worden betekend, op de vijftiende dag na die betekening, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden;
 
-- c. indien de rechter een bevel als bedoeld in [artikel 77za, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77za&z=2022-01-01&g=2022-01-01), heeft gegeven, op de dag van de einduitspraak.
+- c. indien de rechter een bevel als bedoeld in [artikel 77za, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77za&z=2022-01-26&g=2022-01-26), heeft gegeven, op de dag van de einduitspraak.
 
 ##### Artikel 77z
 
-1. Toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-01&g=2022-01-01) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
+1. Toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-26&g=2022-01-26) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
 
-2. Bij toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-01&g=2022-01-01) kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:
+2. Bij toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-26&g=2022-01-26) kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:
 
 - 1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;
 
@@ -1396,11 +1398,11 @@ Vervallen
 
 - 15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
 
-3. Indien bij de toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-01&g=2022-01-01) een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
+3. Indien bij de toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-26&g=2022-01-26) een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
 
 - a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt; en
 
-- b. medewerking verleent aan het reclasseringstoezicht, bedoeld in [artikel 77aa, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77aa&z=2022-01-01&g=2022-01-01), daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.
+- b. medewerking verleent aan het reclasseringstoezicht, bedoeld in [artikel 77aa, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77aa&z=2022-01-26&g=2022-01-26), daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.
 
 4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
 
@@ -1412,13 +1414,13 @@ Vervallen
 
 2. De rechter kan, indien de veroordeelde ingevolge [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255) onder toezicht is gesteld, aan een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) opdragen aan de veroordeelde ter zake van de naleving der bijzondere voorwaarden hulp en steun te verlenen.
 
-3. Indien de jeugdige de leeftijd van zestien jaren heeft bereikt, kan de rechter een in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-01&g=2022-01-01), bedoelde reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.
+3. Indien de jeugdige de leeftijd van zestien jaren heeft bereikt, kan de rechter een in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-26&g=2022-01-26), bedoelde reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.
 
 4. Bij algemene maatregel van bestuur, op de voordracht van Onze Minister van Veiligheid en Justitie en Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van het toezicht en de begeleiding, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 77bb
 
-[Artikel 366a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=366a) is van overeenkomstige toepassing op de mededeling van de veroordeling, waarbij [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-01&g=2022-01-01) en [77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2022-01-01&g=2022-01-01) zijn toegepast.
+[Artikel 366a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=366a) is van overeenkomstige toepassing op de mededeling van de veroordeling, waarbij [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2022-01-26&g=2022-01-26) en [77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2022-01-26&g=2022-01-26) zijn toegepast.
 
 ##### Artikel 77cc
 
@@ -1440,7 +1442,7 @@ Vervallen
 
 1. De straffen en maatregelen als bedoeld in deze Titel, zijn voor poging, voorbereiding, deelneming en medeplichtigheid dezelfde als die voor het voltooide misdrijf.
 
-2. Bij samenloop worden meer feiten die als op zichzelf staande handelingen moeten worden beschouwd, voor de toepassing van straffen en maatregelen als één feit aangemerkt. [Artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=63&z=2022-01-01&g=2022-01-01) is met betrekking tot straffen van toepassing.
+2. Bij samenloop worden meer feiten die als op zichzelf staande handelingen moeten worden beschouwd, voor de toepassing van straffen en maatregelen als één feit aangemerkt. [Artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=63&z=2022-01-26&g=2022-01-26) is met betrekking tot straffen van toepassing.
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
@@ -1450,7 +1452,7 @@ Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder gesproke
 
 ##### Artikel 79
 
-Aanslag tot een feit bestaat, zodra het voornemen van de dader zich door een begin van uitvoering, in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IV&artikel=45&z=2022-01-01&g=2022-01-01), heeft geopenbaard.
+Aanslag tot een feit bestaat, zodra het voornemen van de dader zich door een begin van uitvoering, in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IV&artikel=45&z=2022-01-26&g=2022-01-26), heeft geopenbaard.
 
 ##### Artikel 80
 
@@ -1598,7 +1600,7 @@ Onder psychiater wordt verstaan een arts die bevoegd is de titel van psychiater 
 
 ##### Artikel 90octies
 
-Waar van huwelijk of echtgenoot wordt gesproken wordt, met uitzondering van [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IV&artikel=449&z=2022-01-01&g=2022-01-01), daaronder mede begrepen geregistreerd partnerschap dan wel geregistreerde partner.
+Waar van huwelijk of echtgenoot wordt gesproken wordt, met uitzondering van [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IV&artikel=449&z=2022-01-26&g=2022-01-26), daaronder mede begrepen geregistreerd partnerschap dan wel geregistreerde partner.
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
@@ -1632,9 +1634,9 @@ Hij die door geweld of bedreiging met geweld een vergadering van de raad van min
 
 ##### Artikel 96
 
-1. De samenspanning tot een der in de [artikelen 92-95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01) omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot een der in de [artikelen 92-95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26) omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. Dezelfde straf is toepasselijk op hem die, met het oogmerk om een der in de [artikelen 92-95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01) omschreven misdrijven voor te bereiden of te bevorderen:
+2. Dezelfde straf is toepasselijk op hem die, met het oogmerk om een der in de [artikelen 92-95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26) omschreven misdrijven voor te bereiden of te bevorderen:
 
 - 1°. een ander tracht te bewegen om het misdrijf te plegen, te doen plegen of mede te plegen, om daarbij behulpzaam te zijn of om daartoe gelegenheid, middelen of inlichtingen te verschaffen;
 
@@ -1672,7 +1674,7 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 ##### Artikel 98a
 
-1. Hij die een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-01&g=2022-01-01), hetzij opzettelijk openbaar maakt, hetzij zonder daartoe gerechtigd te zijn opzettelijk verstrekt aan of ter beschikking stelt van een buitenlandse mogendheid, een in het buitenland gevestigd persoon of lichaam, dan wel een zodanig persoon of lichaam dat gevaar ontstaat dat de inlichting of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend wordt, wordt, indien hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting of zodanige gegevens betreft, gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+1. Hij die een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-26&g=2022-01-26), hetzij opzettelijk openbaar maakt, hetzij zonder daartoe gerechtigd te zijn opzettelijk verstrekt aan of ter beschikking stelt van een buitenlandse mogendheid, een in het buitenland gevestigd persoon of lichaam, dan wel een zodanig persoon of lichaam dat gevaar ontstaat dat de inlichting of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend wordt, wordt, indien hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting of zodanige gegevens betreft, gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien de schuldige heeft gehandeld in tijd van oorlog dan wel in dienst of in opdracht van een buitenlandse mogendheid of van een in het buitenland gevestigd persoon of lichaam, kan levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie worden opgelegd.
 
@@ -1680,15 +1682,15 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 ##### Artikel 98b
 
-Hij aan wiens schuld te wijten is dat een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-01&g=2022-01-01), openbaar worden gemaakt of ter beschikking komt van een tot kennisneming daarvan niet gerechtigd persoon of lichaam, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+Hij aan wiens schuld te wijten is dat een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-26&g=2022-01-26), openbaar worden gemaakt of ter beschikking komt van een tot kennisneming daarvan niet gerechtigd persoon of lichaam, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 ##### Artikel 98c
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
 
-- 1°. hij die opzettelijk een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-01&g=2022-01-01), zonder daartoe gerechtigd te zijn, onder zich neemt of houdt;
+- 1°. hij die opzettelijk een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-26&g=2022-01-26), zonder daartoe gerechtigd te zijn, onder zich neemt of houdt;
 
-- 2°. hij die enige handeling verricht, ondernomen met het oogmerk om, zonder daartoe gerechtigd te zijn, de beschikking te krijgen over een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-01&g=2022-01-01);
+- 2°. hij die enige handeling verricht, ondernomen met het oogmerk om, zonder daartoe gerechtigd te zijn, de beschikking te krijgen over een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2022-01-26&g=2022-01-26);
 
 - 3°. hij die tersluik, onder een vals voorgeven, door middel van een vermomming of langs een andere dan de gewone toegang op of in een verboden plaats komt of tracht te komen, aldaar in dier voege aanwezig is, of zich op een van die wijzen of door een van die middelen vandaar verwijdert of tracht te verwijderen.
 
@@ -1716,11 +1718,11 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 ##### Artikel 103
 
-De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-01&g=2022-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-26&g=2022-01-26) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 ##### Artikel 103a
 
-Niet strafbaar is hij die een der in de [artikelen 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-01&g=2022-01-01) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=103&z=2022-01-01&g=2022-01-01) omschreven misdrijven heeft begaan in de redelijke overtuiging het Nederlandse belang niet te schaden.
+Niet strafbaar is hij die een der in de [artikelen 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-26&g=2022-01-26) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=103&z=2022-01-26&g=2022-01-26) omschreven misdrijven heeft begaan in de redelijke overtuiging het Nederlandse belang niet te schaden.
 
 ##### Artikel 104
 
@@ -1738,19 +1740,19 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 ##### Artikel 106
 
-1. Bij veroordeling wegens het in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01) omschreven misdrijf, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens het in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26) omschreven misdrijf, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-2. Bij veroordeling wegens een der in de [artikelen 93-103](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=93&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+2. Bij veroordeling wegens een der in de [artikelen 93-103](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=93&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-3. Bij veroordeling wegens het in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-01&g=2022-01-01) omschreven misdrijf, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft en van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten, en kan openbaarmaking van de rechterlijke uitspraak worden gelast.
+3. Bij veroordeling wegens het in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-26&g=2022-01-26) omschreven misdrijf, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft en van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten, en kan openbaarmaking van de rechterlijke uitspraak worden gelast.
 
 ##### Artikel 107
 
-De straffen gesteld op de in de [artikelen 102-105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-01&g=2022-01-01) omschreven feiten, zijn toepasselijk indien een van die feiten wordt gepleegd tegen of met betrekking tot de bondgenoten van de staat in een gemeenschappelijke oorlog.
+De straffen gesteld op de in de [artikelen 102-105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2022-01-26&g=2022-01-26) omschreven feiten, zijn toepasselijk indien een van die feiten wordt gepleegd tegen of met betrekking tot de bondgenoten van de staat in een gemeenschappelijke oorlog.
 
 ##### Artikel 107a
 
-De [artikelen 100, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=100&z=2022-01-01&g=2022-01-01), en [101-107](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=101&z=2022-01-01&g=2022-01-01) vinden overeenkomstige toepassing in geval van een gewapend conflict dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken, hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale vrede en veiligheid.
+De [artikelen 100, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=100&z=2022-01-26&g=2022-01-26), en [101-107](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=101&z=2022-01-26&g=2022-01-26) vinden overeenkomstige toepassing in geval van een gewapend conflict dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken, hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale vrede en veiligheid.
 
 ## Titel I. Misdrijven tegen de veiligheid van de staat
 
@@ -1782,7 +1784,7 @@ Vervallen
 
 ##### Artikel 114
 
-Bij veroordeling wegens een der in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-01&g=2022-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-26&g=2022-01-26) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Slotbepaling
 
@@ -1820,7 +1822,7 @@ Vervallen
 
 ##### Artikel 120
 
-Bij veroordeling wegens een der in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel III. Misdrijven tegen hoofden van bevriende Staten en andere internationaal beschermde personen
 
@@ -1830,9 +1832,9 @@ Hij die door geweld of bedreiging met geweld een vergadering van de beide kamers
 
 ##### Artikel 122
 
-1. De samenspanning tot het in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-01&g=2022-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-26&g=2022-01-26) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 123
 
@@ -1866,9 +1868,9 @@ Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven ve
 
 ##### Artikel 130
 
-1. Bij veroordeling wegens een der in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-01&g=2022-01-01) en [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens een der in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-26&g=2022-01-26) en [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-2. Bij veroordeling wegens een der in de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=122&z=2022-01-01&g=2022-01-01), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-01&g=2022-01-01) en [129](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=129&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+2. Bij veroordeling wegens een der in de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=122&z=2022-01-26&g=2022-01-26), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-26&g=2022-01-26) en [129](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=129&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 
@@ -1902,13 +1904,13 @@ Hij die, kennis dragende van een strafbare samenspanning, op een tijdstip waarop
 
 ##### Artikel 136
 
-1. Hij die, kennis dragende van een voornemen tot het plegen van een der in de [artikelen 92-110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01) omschreven misdrijven, tot desertie in tijd van oorlog, tot militair verraad, tot moord, mensenroof of verkrachting of tot een der in [Titel VII van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&z=2022-01-01&g=2022-01-01) omschreven misdrijven dan wel een terroristisch misdrijf, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, opzettelijk nalaat daarvan tijdig voldoende kennis te geven, hetzij aan de ambtenaren van de justitie of politie, hetzij aan de bedreigde, wordt, indien het misdrijf is gevolgd, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
+1. Hij die, kennis dragende van een voornemen tot het plegen van een der in de [artikelen 92-110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26) omschreven misdrijven, tot desertie in tijd van oorlog, tot militair verraad, tot moord, mensenroof of verkrachting of tot een der in [Titel VII van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&z=2022-01-26&g=2022-01-26) omschreven misdrijven dan wel een terroristisch misdrijf, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, opzettelijk nalaat daarvan tijdig voldoende kennis te geven, hetzij aan de ambtenaren van de justitie of politie, hetzij aan de bedreigde, wordt, indien het misdrijf is gevolgd, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Dezelfde straf is toepasselijk op hem die, kennis dragende van enig in het eerste lid vermeld reeds gepleegd misdrijf waardoor levensgevaar is ontstaan, op een tijdstip waarop de gevolgen nog kunnen worden afgewend, opzettelijk nalaat daarvan gelijke kennisgeving te doen.
 
 ##### Artikel 137
 
-De bepalingen van de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=135&z=2022-01-01&g=2022-01-01) en [136](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=136&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie, voor zijn echtgenoot of gewezen echtgenoot, of voor een ander bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
+De bepalingen van de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=135&z=2022-01-26&g=2022-01-26) en [136](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=136&z=2022-01-26&g=2022-01-26) zijn niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie, voor zijn echtgenoot of gewezen echtgenoot, of voor een ander bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
 
 ##### Artikel 137c
 
@@ -1996,7 +1998,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 - 2°. zonder deelnemer aan dat gesprek te zijn en anders dan in opdracht van zulk een deelnemer opneemt.
 
-2. [Artikel 139a, tweede lid, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139a&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 139a, tweede lid, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139a&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 139c
 
@@ -2014,13 +2016,13 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die met het oogmerk dat daardoor een gesprek, telecommunicatie of andere gegevensoverdracht of andere gegevensverwerking door een geautomatiseerd werk wederrechtelijk wordt afgeluisterd, afgetapt of opgenomen, een technisch hulpmiddel op een bepaalde plaats aanwezig doet zijn.
 
-2. Met dezelfde straf wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in [artikel 138ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138ab&z=2022-01-01&g=2022-01-01), [138b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01) of [139c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139c&z=2022-01-01&g=2022-01-01) wordt gepleegd:
+2. Met dezelfde straf wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in [artikel 138ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138ab&z=2022-01-26&g=2022-01-26), [138b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26) of [139c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139c&z=2022-01-26&g=2022-01-26) wordt gepleegd:
 
 - a. een technisch hulpmiddel dat hoofdzakelijk geschikt gemaakt of ontworpen is tot het plegen van een zodanig misdrijf, vervaardigt, ontvangt, zich verschaft, overdraagt, verkoopt, verwerft, vervoert, invoert, uitvoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft, of
 
 - b. een computerwachtwoord, toegangscode of daarmee vergelijkbaar gegeven waardoor toegang kan worden gekregen tot een geautomatiseerd werk of een deel daarvan, vervaardigt verkoopt, verwerft, invoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft.
 
-3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in [artikel 138ab, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138ab&z=2022-01-01&g=2022-01-01).
+3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in [artikel 138ab, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138ab&z=2022-01-26&g=2022-01-26).
 
 ##### Artikel 139e
 
@@ -2070,7 +2072,7 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categori
 
 - 3°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
 
-3. [Artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IX&artikel=81&z=2022-01-01&g=2022-01-01) blijft buiten toepassing.
+3. [Artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IX&artikel=81&z=2022-01-26&g=2022-01-26) blijft buiten toepassing.
 
 ##### Artikel 142
 
@@ -2138,7 +2140,7 @@ Hij die uit winstbejag opzettelijk bevordert dat een kind beneden de leeftijd va
 
 1. Degene die in de uitoefening van een beroep of bedrijf opzettelijk teweegbrengt of bevordert dat een vrouw rechtstreeks of middellijk met een ander onderhandelt of een afspraak maakt in verband met de wens van die vrouw de verzorging en opvoeding van haar kind duurzaam aan een ander over te laten, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-2. Onverminderd het bepaalde in [artikel 151**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=151b&z=2022-01-01&g=2022-01-01), is het eerste lid niet van toepassing
+2. Onverminderd het bepaalde in [artikel 151**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=151b&z=2022-01-26&g=2022-01-26), is het eerste lid niet van toepassing
 
 - a. indien het in dat lid bedoelde teweegbrengen of bevorderen geschiedt door de raad voor de kinderbescherming of een door de raad daartoe aangewezen rechtspersoon;
 
@@ -2148,7 +2150,7 @@ Hij die uit winstbejag opzettelijk bevordert dat een kind beneden de leeftijd va
 
 ##### Artikel 152
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 138b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01), en [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140a&z=2022-01-01&g=2022-01-01) kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 138b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26), en [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140a&z=2022-01-26&g=2022-01-26) kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 153
 
@@ -2428,7 +2430,7 @@ Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekend
 
 1. Bij veroordeling wegens enig in deze titel omschreven misdrijf kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
-2. Bij veroordeling wegens een der in de [artikelen 174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01) en [175](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=175&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten.
+2. Bij veroordeling wegens een der in de [artikelen 174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26) en [175](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=175&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten.
 
 ## Titel VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht
 
@@ -2444,7 +2446,7 @@ Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekend
 
 3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
-4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 177a
 
@@ -2458,15 +2460,15 @@ Vervallen
 
 3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
-4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 178a
 
-1. Met ambtenaren worden ten aanzien van [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-01&g=2022-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
+1. Met ambtenaren worden ten aanzien van [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-26&g=2022-01-26) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
 
-2. Met ambtenaren worden ten aanzien van [artikel 177, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-01&g=2022-01-01), voormalige ambtenaren gelijkgesteld.
+2. Met ambtenaren worden ten aanzien van [artikel 177, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2022-01-26&g=2022-01-26), voormalige ambtenaren gelijkgesteld.
 
-3. Met rechter wordt ten aanzien van [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=178&z=2022-01-01&g=2022-01-01) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
+3. Met rechter wordt ten aanzien van [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=178&z=2022-01-26&g=2022-01-26) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
 
 ##### Artikel 179
 
@@ -2478,7 +2480,7 @@ Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werk
 
 ##### Artikel 181
 
-De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-01&g=2022-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-01&g=2022-01-01) omschreven worden gestraft:
+De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-26&g=2022-01-26) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-26&g=2022-01-26) omschreven worden gestraft:
 
 - 1°. met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
 
@@ -2488,7 +2490,7 @@ De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl
 
 ##### Artikel 182
 
-1. De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-01&g=2022-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-01&g=2022-01-01) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
+1. De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-26&g=2022-01-26) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2022-01-26&g=2022-01-26) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 2. De schuldige wordt gestraft:
 
@@ -2500,7 +2502,7 @@ De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl
 
 ##### Artikel 183
 
-Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-01&g=2022-01-01) gelijkgesteld de schipper of gezagvoerder van een luchtvaartuig die een bevoegdheid uitoefent of een verplichting vervult welke hem als zodanig is toegekend of opgelegd bij een bepaling van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903). Onder schipper wordt begrepen hij die het hoogste gezag uitoefent op een overeenkomstig [artikel 136**a**, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=136a) aangewezen installatie.
+Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-26&g=2022-01-26) gelijkgesteld de schipper of gezagvoerder van een luchtvaartuig die een bevoegdheid uitoefent of een verplichting vervult welke hem als zodanig is toegekend of opgelegd bij een bepaling van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903). Onder schipper wordt begrepen hij die het hoogste gezag uitoefent op een overeenkomstig [artikel 136**a**, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=136a) aangewezen installatie.
 
 ##### Artikel 184
 
@@ -2518,7 +2520,7 @@ Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het openbaar
 
 ##### Artikel 185a
 
-Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-01&g=2022-01-01), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=184&z=2022-01-01&g=2022-01-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=185&z=2022-01-01&g=2022-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
+Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2022-01-26&g=2022-01-26), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=184&z=2022-01-26&g=2022-01-26) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=185&z=2022-01-26&g=2022-01-26) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
 
 ##### Artikel 186
 
@@ -2540,13 +2542,13 @@ Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat 
 
 - 2°. hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;
 
-- 3°. hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36e&z=2022-01-01&g=2022-01-01) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
+- 3°. hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36e&z=2022-01-26&g=2022-01-26) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 
 2. In het geval het misdrijf, bedoeld in het eerste lid, een terroristisch misdrijf betreft, kan een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie worden opgelegd.
 
 3. Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.
 
-4. Met ambtenaren van de justitie of politie worden gelijkgesteld: personen in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is, die belast zijn met de opsporing of vervolging van enig misdrijf.
+4. Met ambtenaren van de justitie of politie worden gelijkgesteld: personen in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is, die belast zijn met de opsporing of vervolging van enig misdrijf, alsmede personen in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
 
 ##### Artikel 190
 
@@ -2626,11 +2628,11 @@ Hij die een ander, die zich wederrechtelijk toegang tot of verblijf in Nederland
 
 ##### Artikel 197c
 
-Hij die van het in [artikel 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2022-01-01&g=2022-01-01) omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+Hij die van het in [artikel 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2022-01-26&g=2022-01-26) omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
 ##### Artikel 197d
 
-Indien de schuldige de in de [artikelen 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2022-01-01&g=2022-01-01) of [197c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197c&z=2022-01-01&g=2022-01-01) omschreven feiten begaat in de uitoefening van enig ambt of beroep kan de rechter tevens de ontzetting uitspreken van de uitoefening van het recht het ambt te bekleden of het beroep uit te oefenen en de openbaarmaking van zijn uitspraak gelasten.
+Indien de schuldige de in de [artikelen 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2022-01-26&g=2022-01-26) of [197c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197c&z=2022-01-26&g=2022-01-26) omschreven feiten begaat in de uitoefening van enig ambt of beroep kan de rechter tevens de ontzetting uitspreken van de uitoefening van het recht het ambt te bekleden of het beroep uit te oefenen en de openbaarmaking van zijn uitspraak gelasten.
 
 ##### Artikel 198
 
@@ -2660,15 +2662,15 @@ Hij die opzettelijk brieven of andere stukken, aan een post- of telegraafkantoor
 
 ##### Artikel 202
 
-Indien de schuldige aan een der in de [artikelen 198-201](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=198&z=2022-01-01&g=2022-01-01) omschreven misdrijven zich de toegang tot de plaats van het misdrijf verschaft of het goed onder zijn bereik brengt door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum, kan de straf met ten hoogste een jaar gevangenisstraf worden verhoogd.
+Indien de schuldige aan een der in de [artikelen 198-201](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=198&z=2022-01-26&g=2022-01-26) omschreven misdrijven zich de toegang tot de plaats van het misdrijf verschaft of het goed onder zijn bereik brengt door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum, kan de straf met ten hoogste een jaar gevangenisstraf worden verhoogd.
 
 ##### Artikel 203
 
-Hij die in tijd van vrede opzettelijk desertie van een krijgsman in dienst van het Rijk uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-01&g=2022-01-01), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2022-01-01&g=2022-01-01) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+Hij die in tijd van vrede opzettelijk desertie van een krijgsman in dienst van het Rijk uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-26&g=2022-01-26), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2022-01-26&g=2022-01-26) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 ##### Artikel 204
 
-Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in dienst van het Rijk, uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-01&g=2022-01-01), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2022-01-01&g=2022-01-01) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
+Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in dienst van het Rijk, uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2022-01-26&g=2022-01-26), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2022-01-26&g=2022-01-26) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 ##### Artikel 205
 
@@ -2698,13 +2700,13 @@ Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in 
 
 3. Met de eed staat gelijk de belofte of bevestiging die krachtens de wet voor de eed in de plaats treedt.
 
-4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 207a
 
 1. Hij die in de gevallen waarin door of krachtens een verdrag waarbij het Koninkrijk partij is, een verklaring onder ede of onder een daarvoor in de plaats tredende bevestiging of belofte wordt gevorderd, voor een internationaal gerecht mondeling of schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, opzettelijk een valse verklaring in die vorm aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-2. De [leden 2 en 4 van artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207&z=2022-01-01&g=2022-01-01) zijn van toepassing.
+2. De [leden 2 en 4 van artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207&z=2022-01-26&g=2022-01-26) zijn van toepassing.
 
 ## Titel VI. Tweegevecht
 
@@ -2722,7 +2724,7 @@ Hij die opzettelijk en wederrechtelijk muntspeciën of munt- of bankbiljetten we
 
 ##### Artikel 213
 
-Hij die opzettelijk valse of vervalste muntspeciën of valse of vervalste munt- of bankbiljetten uitgeeft, wordt, behoudens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=209&z=2022-01-01&g=2022-01-01), gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
+Hij die opzettelijk valse of vervalste muntspeciën of valse of vervalste munt- of bankbiljetten uitgeeft, wordt, behoudens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=209&z=2022-01-26&g=2022-01-26), gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
 
 ##### Artikel 214
 
@@ -2742,7 +2744,7 @@ voor zover daarmede het misdrijf is gepleegd of zij het voorwerp daarvan hebben 
 
 ##### Artikel 215
 
-Bij veroordeling wegens een der in de [artikelen 208 tot en met 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in de [artikelen 208 tot en met 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel IX. Meineed
 
@@ -2778,7 +2780,7 @@ Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde catego
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft:
 
-- 1°. hij die andere dan de in de [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=217&z=2022-01-01&g=2022-01-01) en [218](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=218&z=2022-01-01&g=2022-01-01) bedoelde merken, die krachtens wettelijk voorschrift op goederen of hun verpakking moeten of kunnen worden geplaatst, daarop valselijk plaatst of echte vervalst, met het oogmerk om die goederen te gebruiken of door anderen te doen gebruiken alsof de daarop geplaatste merken echt en onvervalst waren;
+- 1°. hij die andere dan de in de [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=217&z=2022-01-26&g=2022-01-26) en [218](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=218&z=2022-01-26&g=2022-01-26) bedoelde merken, die krachtens wettelijk voorschrift op goederen of hun verpakking moeten of kunnen worden geplaatst, daarop valselijk plaatst of echte vervalst, met het oogmerk om die goederen te gebruiken of door anderen te doen gebruiken alsof de daarop geplaatste merken echt en onvervalst waren;
 
 - 2°. hij die, met gelijk oogmerk, op de bedoelde goederen of hun verpakking merken plaatst door wederrechtelijk gebruik te maken van echte stempels;
 
@@ -2786,7 +2788,7 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde catego
 
 ##### Artikel 220
 
-Hij die opzettelijk valse, vervalste of wederrechtelijk vervaardigde zegels, tekens of merken, of de voorwerpen waaraan zij wederrechtelijk verbonden zijn, gebruikt, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als waren die zegels, tekens of merken echt en onvervalst en niet wederrechtelijk vervaardigd of wederrechtelijk aan de voorwerpen verbonden, wordt gestraft met dezelfde straffen als in de [artikelen 216-219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01) zijn bepaald, naar de daar gemaakte onderscheidingen.
+Hij die opzettelijk valse, vervalste of wederrechtelijk vervaardigde zegels, tekens of merken, of de voorwerpen waaraan zij wederrechtelijk verbonden zijn, gebruikt, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als waren die zegels, tekens of merken echt en onvervalst en niet wederrechtelijk vervaardigd of wederrechtelijk aan de voorwerpen verbonden, wordt gestraft met dezelfde straffen als in de [artikelen 216-219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26) zijn bepaald, naar de daar gemaakte onderscheidingen.
 
 ##### Artikel 221
 
@@ -2796,21 +2798,21 @@ Hij die opzettelijk valse, vervalste of wederrechtelijk vervaardigde zegels, tek
 
 ##### Artikel 222
 
-1. Hij die van zegels als bedoeld in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01) welke reeds tot gebruik hebben gediend ontdoet van het merk bestemd om ze voor verder gebruik ongeschikt te maken, met het oogmerk om die zegels te gebruiken of door anderen te doen gebruiken als waren zij nog niet gebruikt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
+1. Hij die van zegels als bedoeld in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26) welke reeds tot gebruik hebben gediend ontdoet van het merk bestemd om ze voor verder gebruik ongeschikt te maken, met het oogmerk om die zegels te gebruiken of door anderen te doen gebruiken als waren zij nog niet gebruikt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straffen wordt gestraft hij die opzettelijk deze van dat merk ontdane zegels gebruikt, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als waren zij nog niet gebruikt.
 
 ##### Artikel 222bis
 
-De bepalingen van de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01), [219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=219&z=2022-01-01&g=2022-01-01), [220](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=220&z=2022-01-01&g=2022-01-01) en [222](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222&z=2022-01-01&g=2022-01-01) zijn naar de daar gemaakte onderscheidingen mede van toepassing, indien de daarin omschreven feiten worden gepleegd met betrekking tot zegels of merken van Aruba, Curaçao, Sint Maarten, een buitenlandse mogendheid of een volkenrechtelijke organisatie.
+De bepalingen van de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26), [219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=219&z=2022-01-26&g=2022-01-26), [220](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=220&z=2022-01-26&g=2022-01-26) en [222](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222&z=2022-01-26&g=2022-01-26) zijn naar de daar gemaakte onderscheidingen mede van toepassing, indien de daarin omschreven feiten worden gepleegd met betrekking tot zegels of merken van Aruba, Curaçao, Sint Maarten, een buitenlandse mogendheid of een volkenrechtelijke organisatie.
 
 ##### Artikel 223
 
-Hij die stoffen of voorwerpen voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van enig in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01) of in [artikel 222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222bis&z=2022-01-01&g=2022-01-01) in verband met artikel 216 omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
+Hij die stoffen of voorwerpen voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van enig in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26) of in [artikel 222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222bis&z=2022-01-26&g=2022-01-26) in verband met artikel 216 omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
 ##### Artikel 224
 
-Bij veroordeling wegens een der in de [artikelen 216-222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in de [artikelen 216-222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel IX. Meineed
 
@@ -2878,7 +2880,7 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.
 
-3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 232
 
@@ -2888,15 +2890,15 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 ##### Artikel 234
 
-1. Hij die stoffen, voorwerpen of gegevens vervaardigt, ontvangt, zich verschaft, verkoopt, overdraagt, verwerft, vervoert, invoert, uitvoert, verspreidt, anderszins ter beschikking stelt of voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van een der in de [artikelen 226, eerste lid, onderdelen 2° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=226&z=2022-01-01&g=2022-01-01), [231, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231&z=2022-01-01&g=2022-01-01), [231a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231a&z=2022-01-01&g=2022-01-01), [231b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231b&z=2022-01-01&g=2022-01-01) en [232, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=232&z=2022-01-01&g=2022-01-01), omschreven misdrijven dan wel een der misdrijven omschreven in de [artikelen 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-01&g=2022-01-01), [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-01&g=2022-01-01), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-01&g=2022-01-01), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-01&g=2022-01-01), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-01&g=2022-01-01) en [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-01&g=2022-01-01), voor zover deze feiten betrekking hebben op de verkrijging van een niet-contant betaalinstrument, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
+1. Hij die stoffen, voorwerpen of gegevens vervaardigt, ontvangt, zich verschaft, verkoopt, overdraagt, verwerft, vervoert, invoert, uitvoert, verspreidt, anderszins ter beschikking stelt of voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van een der in de [artikelen 226, eerste lid, onderdelen 2° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=226&z=2022-01-26&g=2022-01-26), [231, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231&z=2022-01-26&g=2022-01-26), [231a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231a&z=2022-01-26&g=2022-01-26), [231b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231b&z=2022-01-26&g=2022-01-26) en [232, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=232&z=2022-01-26&g=2022-01-26), omschreven misdrijven dan wel een der misdrijven omschreven in de [artikelen 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-26&g=2022-01-26), [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-26&g=2022-01-26), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-26&g=2022-01-26), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-26&g=2022-01-26), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-26&g=2022-01-26) en [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-26&g=2022-01-26), voor zover deze feiten betrekking hebben op de verkrijging van een niet-contant betaalinstrument, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
 
-2. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 235
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
-2. Bij veroordeling wegens een der in de [artikelen 225 tot en met 232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01) en [artikel 234](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=234&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+2. Bij veroordeling wegens een der in de [artikelen 225 tot en met 232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26) en [artikel 234](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=234&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel XI. Valsheid in zegels en merken
 
@@ -2904,7 +2906,7 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 1. Hij die door enige handeling opzettelijk eens anders afstamming onzeker maakt, wordt, als schuldig aan verduistering van staat, gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
-2. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+2. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 3. Vervolging heeft niet plaats dan nadat een verzoek tot inroeping of tot betwisting van staat is gedaan en de burgerlijke rechter daarop een eindbeslissing heeft gegeven. Indien het verzoek echter door het stilzitten van partijen onvoldoende voortgang vindt, kan vervolging ook plaats hebben nadat de burgerlijke rechter heeft beslist dat er een begin van bewijs is.
 
@@ -2918,7 +2920,7 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 2. Indien hij die opzettelijk een dubbel huwelijk aangaat, aan de wederpartij zijn gehuwde staat heeft verzwegen, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-3. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+3. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 238
 
@@ -2980,21 +2982,21 @@ Hij die met iemand van wie hij weet dat hij in staat van bewusteloosheid, vermin
 
 ##### Artikel 248
 
-1. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [242 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01), [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien het feit wordt gepleegd door twee of meer verenigde personen.
+1. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [242 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26), [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien het feit wordt gepleegd door twee of meer verenigde personen.
 
-2. De in de artikelen [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [242 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01) en [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen zijn kind, een kind over wie hij het gezag uitoefent, een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin, zijn pupil, een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige of zijn minderjarige bediende of ondergeschikte.
+2. De in de artikelen [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [242 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26) en [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen zijn kind, een kind over wie hij het gezag uitoefent, een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin, zijn pupil, een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige of zijn minderjarige bediende of ondergeschikte.
 
-3. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [244](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=244&z=2022-01-01&g=2022-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-01&g=2022-01-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-01&g=2022-01-01), voor zover het betreft met iemand beneden de leeftijd van zestien jaren buiten echt ontuchtige handelingen plegen of laatstgemelde tot het plegen of dulden van zodanige handelingen buiten echt met een derde verleiden [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01), en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon bij wie misbruik van een kwetsbare positie wordt gemaakt.
+3. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [244](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=244&z=2022-01-26&g=2022-01-26), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-26&g=2022-01-26), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-26&g=2022-01-26), voor zover het betreft met iemand beneden de leeftijd van zestien jaren buiten echt ontuchtige handelingen plegen of laatstgemelde tot het plegen of dulden van zodanige handelingen buiten echt met een derde verleiden [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26), en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon bij wie misbruik van een kwetsbare positie wordt gemaakt.
 
-4. De in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-01&g=2022-01-01) en [249, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01), bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon beneden de leeftijd van achttien jaar bij wie misbruik van een kwetsbare positie wordt gemaakt.
+4. De in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-26&g=2022-01-26) en [249, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26), bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon beneden de leeftijd van achttien jaar bij wie misbruik van een kwetsbare positie wordt gemaakt.
 
-5. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [244](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=244&z=2022-01-01&g=2022-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-01&g=2022-01-01), [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01), en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien het feit is voorafgegaan, vergezeld of gevolgd van geweld.
+5. De in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [244](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=244&z=2022-01-26&g=2022-01-26), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-26&g=2022-01-26), [248a tot en met 248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26), en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien het feit is voorafgegaan, vergezeld of gevolgd van geweld.
 
-6. De in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-01&g=2022-01-01), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-01&g=2022-01-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-01&g=2022-01-01) en [249, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01), bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon beneden de leeftijd van achttien jaar en het feit is voorafgegaan, vergezeld of gevolgd van geweld.
+6. De in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-26&g=2022-01-26), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2022-01-26&g=2022-01-26), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2022-01-26&g=2022-01-26) en [249, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26), bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige het feit begaat tegen een persoon beneden de leeftijd van achttien jaar en het feit is voorafgegaan, vergezeld of gevolgd van geweld.
 
-7. Indien een der in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-01&g=2022-01-01), [245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-01&g=2022-01-01), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-01&g=2022-01-01), [248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248f&z=2022-01-01&g=2022-01-01) en [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01) omschreven misdrijven zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
+7. Indien een der in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-26&g=2022-01-26), [245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2022-01-26&g=2022-01-26), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-26&g=2022-01-26), [248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248f&z=2022-01-26&g=2022-01-26) en [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26) omschreven misdrijven zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
 
-8. Indien een der in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-01&g=2022-01-01), [243 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-01&g=2022-01-01), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-01&g=2022-01-01), [248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248f&z=2022-01-01&g=2022-01-01) en [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-01&g=2022-01-01) omschreven misdrijven de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
+8. Indien een der in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2022-01-26&g=2022-01-26), [243 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2022-01-26&g=2022-01-26), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-26&g=2022-01-26), [248f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248f&z=2022-01-26&g=2022-01-26) en [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26) omschreven misdrijven de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
 
 ##### Artikel 248a
 
@@ -3016,6 +3018,8 @@ Hij die ontucht pleegt met iemand die zich beschikbaar stelt tot het verrichten 
 
 - 3°. degene die, werkzaam in de gezondheidszorg of maatschappelijke zorg, ontucht pleegt met iemand die zich als patiënt of cliënt aan zijn hulp of zorg heeft toevertrouwd.
 
+3. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+
 ##### Artikel 250
 
 1. Wordt gestraft:
@@ -3032,9 +3036,11 @@ Vervallen
 
 ##### Artikel 251
 
-1. Bij veroordeling wegens een der in de [artikelen 240b tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01) onderscheidenlijk 248a tot en met 250 omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens een der in de [artikelen 240b tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26) onderscheidenlijk 248a tot en met 250 omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-2. Indien de schuldige aan een der misdrijven in de [artikelen 240b tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01) en 248a tot en met 250 omschreven, het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
+2. Indien de schuldige aan een der misdrijven in de [artikelen 240b tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26) en 248a tot en met 250 omschreven, het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
+
+3. De bijkomende straffen, bedoeld in het eerste en tweede lid, kunnen niet worden uitgesproken bij veroordeling wegens het in [artikel 249, tweede lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2022-01-26&g=2022-01-26), omschreven misdrijf waarbij toepassing is gegeven aan het derde lid van dat artikel.
 
 ##### Artikel 252
 
@@ -3068,23 +3074,23 @@ Hij die een kind beneden de leeftijd van zeven jaren te vondeling legt of, met h
 
 ##### Artikel 257
 
-1. Indien een der in de [artikelen 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-01&g=2022-01-01) en [256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-01&g=2022-01-01) omschreven feiten zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste zeven jaren en zes maanden of geldboete van de vijfde categorie.
+1. Indien een der in de [artikelen 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-26&g=2022-01-26) en [256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-26&g=2022-01-26) omschreven feiten zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste zeven jaren en zes maanden of geldboete van de vijfde categorie.
 
 2. Indien een van deze feiten de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
 ##### Artikel 258
 
-Indien de schuldige aan het in [artikel 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-01&g=2022-01-01) omschreven misdrijf de vader of de moeder is, kunnen te zijnen aanzien de in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-01&g=2022-01-01) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen met een derde worden verhoogd.
+Indien de schuldige aan het in [artikel 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-26&g=2022-01-26) omschreven misdrijf de vader of de moeder is, kunnen te zijnen aanzien de in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-26&g=2022-01-26) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen met een derde worden verhoogd.
 
 ##### Artikel 259
 
-Indien de moeder onder de werking van vrees voor de ontdekking van haar bevalling haar kind kort na de geboorte te vondeling legt of, met het oogmerk om er zich van te ontdoen, verlaat, wordt het maximum der in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-01&g=2022-01-01) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-01&g=2022-01-01) vermelde gevangenisstraffen tot de helft verminderd en wordt de in [artikel 257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-01&g=2022-01-01) vermelde geldboete tot de vierde categorie teruggebracht.
+Indien de moeder onder de werking van vrees voor de ontdekking van haar bevalling haar kind kort na de geboorte te vondeling legt of, met het oogmerk om er zich van te ontdoen, verlaat, wordt het maximum der in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2022-01-26&g=2022-01-26) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-26&g=2022-01-26) vermelde gevangenisstraffen tot de helft verminderd en wordt de in [artikel 257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2022-01-26&g=2022-01-26) vermelde geldboete tot de vierde categorie teruggebracht.
 
 ##### Artikel 260
 
-1. Bij veroordeling wegens een der in de [artikelen 255-259](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens een der in de [artikelen 255-259](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-2. Bij veroordeling wegens het in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-01&g=2022-01-01) omschreven misdrijf kan de schuldige, indien hij het misdrijf in zijn beroep heeft begaan, worden ontzet van de uitoefening van dat beroep.
+2. Bij veroordeling wegens het in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2022-01-26&g=2022-01-26) omschreven misdrijf kan de schuldige, indien hij het misdrijf in zijn beroep heeft begaan, worden ontzet van de uitoefening van dat beroep.
 
 ## Titel XVI. Belediging
 
@@ -3100,7 +3106,7 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 1. Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last gelegde feit in strijd met de waarheid is, wordt, als schuldig aan laster, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 265
 
@@ -3118,7 +3124,7 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 ##### Artikel 267
 
-De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de belediging wordt aangedaan aan:
+1. De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de belediging wordt aangedaan aan:
 
 - 1°. de Koning, de echtgenoot van de Koning, de vermoedelijke opvolger van de Koning, diens echtgenoot, of de Regent;
 
@@ -3126,17 +3132,19 @@ De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen 
 
 - 3°. een openbaar lichaam of een openbare instelling.
 
+2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+
 ##### Artikel 268
 
 1. Hij die opzettelijk tegen een bepaald persoon bij de overheid een valse klacht of aangifte schriftelijk inlevert of in schrift doet brengen, waardoor de eer of goede naam van die persoon wordt aangerand, wordt, als schuldig aan lasterlijke aanklacht, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 269
 
 1. Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van hem tegen wie het misdrijf is gepleegd.
 
-2. Het eerste lid is niet van toepassing op de gevallen voorzien in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=267&z=2022-01-01&g=2022-01-01).
+2. Het eerste lid is niet van toepassing op de gevallen voorzien in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=267&z=2022-01-26&g=2022-01-26).
 
 3. Het eerste lid is tevens niet van toepassing in geval van belediging van leden van algemeen vertegenwoordigende lichamen.
 
@@ -3154,7 +3162,7 @@ De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen 
 
 3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat en er tijdens het plegen van het misdrijf nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een van deze misdrijven onherroepelijk is geworden, kan hij van de uitoefening van dat beroep worden ontzet.
 
-4. De misdrijven worden niet vervolgd dan op klacht van de in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=269&z=2022-01-01&g=2022-01-01) en het [tweede lid van artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=270&z=2022-01-01&g=2022-01-01) aangewezen personen, behalve in de gevallen voorzien in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=267&z=2022-01-01&g=2022-01-01).
+4. De misdrijven worden niet vervolgd dan op klacht van de in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=269&z=2022-01-26&g=2022-01-26) en het [tweede lid van artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=270&z=2022-01-26&g=2022-01-26) aangewezen personen, behalve in de gevallen voorzien in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=267&z=2022-01-26&g=2022-01-26).
 
 ## Titel XII. Valsheid in geschriften, opgave van onware gegevens en schending van de verplichting gegevens te verstrekken
 
@@ -3220,6 +3228,8 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 3. Van zorgvuldige hulpverlening vormen de onverwijlde melding dat hulp wordt verleend alsmede de onverwijlde bekendmaking van de identiteit van de hulpverlener en zijn plaats van verblijf of vestiging aan degene die het gezag over de minderjarige uitoefent, bestanddelen.
 
+4. Met ambtenaren van justitie en politie worden gelijkgesteld personen in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
+
 ##### Artikel 281
 
 1. Als schuldig aan schaking wordt gestraft:
@@ -3254,7 +3264,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 2. Indien het feit de dood ten gevolge heeft wordt hij gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-3. Het [vierde lid van artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-01&g=2022-01-01) is toepasselijk.
+3. Het [vierde lid van artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-26&g=2022-01-26) is toepasselijk.
 
 ##### Artikel 283
 
@@ -3292,7 +3302,7 @@ Hij die een ander door bedreiging met diefstal of afpersing van splijtstof, als 
 
 1. Hij die opzettelijk mondeling, door gebaren, bij geschrift of afbeelding zich jegens een persoon uit, kennelijk om diens vrijheid om naar waarheid of geweten ten overstaan van een rechter of ambtenaar een verklaring af te leggen te beïnvloeden, terwijl hij weet of ernstige reden heeft te vermoeden dat die verklaring zal worden afgelegd, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-2. Met rechter of ambtenaar wordt gelijkgesteld: een rechter bij onderscheidenlijk een persoon in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is.
+2. Met rechter of ambtenaar wordt gelijkgesteld: een rechter bij onderscheidenlijk een persoon in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is en een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
 ##### Artikel 285b
 
@@ -3302,7 +3312,7 @@ Hij die een ander door bedreiging met diefstal of afpersing van splijtstof, als 
 
 ##### Artikel 286
 
-Bij veroordeling wegens een der in [artikelen 274-282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=274&z=2022-01-01&g=2022-01-01) en in het [tweede lid van artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in [artikelen 274-282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=274&z=2022-01-26&g=2022-01-26) en in het [tweede lid van artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel XI. Valsheid in zegels en merken
 
@@ -3328,7 +3338,7 @@ De moeder die, ter uitvoering van een onder de werking van vrees voor de ontdekk
 
 ##### Artikel 292
 
-De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=290&z=2022-01-01&g=2022-01-01) en [291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=291&z=2022-01-01&g=2022-01-01) omschreven misdrijven worden ten aanzien van anderen die er aan deelnemen als doodslag of als moord aangemerkt.
+De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=290&z=2022-01-26&g=2022-01-26) en [291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=291&z=2022-01-26&g=2022-01-26) omschreven misdrijven worden ten aanzien van anderen die er aan deelnemen als doodslag of als moord aangemerkt.
 
 ##### Artikel 293
 
@@ -3344,9 +3354,9 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 ##### Artikel 295
 
-1. Bij veroordeling wegens doodslag, wegens moord of wegens een der in de [artikelen 293, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=293&z=2022-01-01&g=2022-01-01), en [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIXA&artikel=296&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens doodslag, wegens moord of wegens een der in de [artikelen 293, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=293&z=2022-01-26&g=2022-01-26), en [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIXA&artikel=296&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-2. Indien de schuldige aan een der misdrijven in de [artikelen 287 tot en met 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-01&g=2022-01-01) omschreven, het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
+2. Indien de schuldige aan een der misdrijven in de [artikelen 287 tot en met 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-26&g=2022-01-26) omschreven, het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
 ## Titel XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
@@ -3398,7 +3408,7 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 ##### Artikel 304
 
-De in de [artikelen 300-303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd:
+1. De in de [artikelen 300-303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd:
 
 - 1°. ten aanzien van de schuldige die het misdrijf begaat tegen zijn moeder, zijn vader tot wie hij in familierechtelijke betrekking staat, zijn echtgenoot, zijn levensgezel, zijn kind, een kind over wie hij het gezag uitoefent of een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin of een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige;
 
@@ -3408,11 +3418,13 @@ De in de [artikelen 300-303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boe
 
 - 4°. indien het misdrijf wordt gepleegd door toediening van voor het leven of de gezondheid schadelijke stoffen.
 
+2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+
 ##### Artikel 305
 
-1. Bij veroordeling wegens een der in de [artikelen 301](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2022-01-01&g=2022-01-01) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens een der in de [artikelen 301](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2022-01-26&g=2022-01-26) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
-3. Bij veroordeling wegens een der in de [artikelen 301–303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan de schuldige, indien hij het misdrijf in zijn beroep heeft begaan, worden ontzet van de uitoefening van dat beroep.
+3. Bij veroordeling wegens een der in de [artikelen 301–303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan de schuldige, indien hij het misdrijf in zijn beroep heeft begaan, worden ontzet van de uitoefening van dat beroep.
 
 ##### Artikel 306
 
@@ -3484,7 +3496,7 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 
 ##### Artikel 313
 
-Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ##### Artikel 314
 
@@ -3498,9 +3510,9 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 - 1°. stroperij gepleegd met behulp van vaartuigen, wagens, trek- of lastdieren;
 
-- 2°. stroperij gepleegd onder een of meer der in [artikel 311, eerste lid, onder 2°-5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-01&g=2022-01-01), vermelde omstandigheden.
+- 2°. stroperij gepleegd onder een of meer der in [artikel 311, eerste lid, onder 2°-5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-26&g=2022-01-26), vermelde omstandigheden.
 
-2. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten kan worden uitgesproken.
+2. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten kan worden uitgesproken.
 
 ##### Artikel 316
 
@@ -3508,7 +3520,7 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 2. Indien hij zijn van tafel en bed of van goederen gescheiden echtgenoot is of zijn bloed- of aanverwant, hetzij in de rechte linie, hetzij in de tweede graad van de zijlinie, heeft de vervolging, voor zover hem betreft, alleen plaats op een tegen hem gerichte klacht van degene tegen wie het misdrijf is gepleegd.
 
-3. Indien het vorige lid van toepassing is, neemt de termijn bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=66&z=2022-01-01&g=2022-01-01) een aanvang op de dag nadat de identiteit van de verdachte aan de tot de klacht gerechtigde bekend werd.
+3. Indien het vorige lid van toepassing is, neemt de termijn bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=66&z=2022-01-26&g=2022-01-26) een aanvang op de dag nadat de identiteit van de verdachte aan de tot de klacht gerechtigde bekend werd.
 
 ## Titel XIV. Misdrijven tegen de zeden
 
@@ -3518,7 +3530,7 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 2. Met dezelfde straf wordt gestraft hij die de dwang, bedoeld in het eerste lid, uitoefent door de bedreiging dat gegevens die door middel van een geautomatiseerd werk zijn opgeslagen, onbruikbaar of ontoegankelijk zullen worden gemaakt of zullen worden gewist.
 
-3. De bepalingen van het [tweede en derde lid van artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-01&g=2022-01-01) zijn op dit misdrijf van toepassing.
+3. De bepalingen van het [tweede en derde lid van artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-26&g=2022-01-26) zijn op dit misdrijf van toepassing.
 
 ##### Artikel 318
 
@@ -3530,11 +3542,11 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 ##### Artikel 319
 
-De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-01&g=2022-01-01) is op de in deze titel omschreven misdrijven van toepassing.
+De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-26&g=2022-01-26) is op de in deze titel omschreven misdrijven van toepassing.
 
 ##### Artikel 320
 
-Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel XVIII. Misdrijven tegen de persoonlijke vrijheid
 
@@ -3556,11 +3568,11 @@ Hij die opzettelijk en wederrechtelijk middelen die met een bepaald doel door of
 
 ##### Artikel 324
 
-De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-01&g=2022-01-01) is op de in deze titel omschreven misdrijven van toepassing.
+De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-26&g=2022-01-26) is op de in deze titel omschreven misdrijven van toepassing.
 
 ##### Artikel 325
 
-1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en ontzetting uitspreken van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten.
+1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en ontzetting uitspreken van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten.
 
 2. Indien de schuldige het misdrijf in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
@@ -3698,13 +3710,13 @@ invoert, doorvoert of uitvoert, verkoopt, te koop aanbiedt, aflevert, uitdeelt o
 
 ##### Artikel 338
 
-De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-01&g=2022-01-01) is op de in deze titel omschreven misdrijven van toepassing.
+De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-26&g=2022-01-26) is op de in deze titel omschreven misdrijven van toepassing.
 
 ##### Artikel 339
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
-2. Bij veroordeling wegens een der in de [artikelen 326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-01&g=2022-01-01), [328](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=328&z=2022-01-01&g=2022-01-01), [331](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=331&z=2022-01-01&g=2022-01-01) en [332](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=332&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+2. Bij veroordeling wegens een der in de [artikelen 326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-26&g=2022-01-26), [328](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=328&z=2022-01-26&g=2022-01-26), [331](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=331&z=2022-01-26&g=2022-01-26) en [332](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=332&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel XVI. Belediging
 
@@ -3762,9 +3774,9 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 ##### Artikel 347
 
-1. De bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2022-01-01&g=2022-01-01) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-01&g=2022-01-01), buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan zijn medewerking heeft verleend of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
+1. De bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2022-01-26&g=2022-01-26) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-26&g=2022-01-26), buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan zijn medewerking heeft verleend of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
-2. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2022-01-01&g=2022-01-01) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-01&g=2022-01-01), buitensporig middelen van de rechtspersoon verbruikt, uitgeeft of vervreemdt, dan wel hieraan medewerkt of daaraan zijn toestemming geeft, met het oogmerk zichzelf of een ander te bevoordelen, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt.
+2. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2022-01-26&g=2022-01-26) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-26&g=2022-01-26), buitensporig middelen van de rechtspersoon verbruikt, uitgeeft of vervreemdt, dan wel hieraan medewerkt of daaraan zijn toestemming geeft, met het oogmerk zichzelf of een ander te bevoordelen, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt.
 
 ##### Artikel 348
 
@@ -3772,15 +3784,15 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk een goed dat is onderworpen aan een pandrecht, een retentierecht of een recht van vruchtgebruik of gebruik van een ander, vernielt, beschadigt of onbruikbaar maakt.
 
-3. De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-01&g=2022-01-01) is op deze misdrijven van toepassing.
+3. De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-26&g=2022-01-26) is op deze misdrijven van toepassing.
 
 ##### Artikel 349
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
-2. Bij veroordeling wegens een der in de [artikelen 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=341&z=2022-01-01&g=2022-01-01), [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-01&g=2022-01-01) en [344](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=344&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan de schuldige worden ontzet van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten.
+2. Bij veroordeling wegens een der in de [artikelen 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=341&z=2022-01-26&g=2022-01-26), [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-26&g=2022-01-26) en [344](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=344&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan de schuldige worden ontzet van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten.
 
-3. Bij veroordeling wegens een der in de [artikelen 340-345](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=340&z=2022-01-01&g=2022-01-01) omschreven misdrijven, kan openbaarmaking van de rechterlijke uitspraak worden gelast.
+3. Bij veroordeling wegens een der in de [artikelen 340-345](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=340&z=2022-01-26&g=2022-01-26) omschreven misdrijven, kan openbaarmaking van de rechterlijke uitspraak worden gelast.
 
 ## Titel XVII. Schending van geheimen
 
@@ -3794,7 +3806,7 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 1. Hij die opzettelijk en wederrechtelijk gegevens die door middel van een geautomatiseerd werk of door middel van telecommunicatie zijn opgeslagen, worden verwerkt of overgedragen, verandert, wist, onbruikbaar of ontoegankelijk maakt, dan wel andere gegevens daaraan toevoegt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-2. [Artikel 138b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 138b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 3. Hij die opzettelijk en wederrechtelijk gegevens ter beschikking stelt of verspreidt die zijn bestemd om schade aan te richten in een geautomatiseerd werk, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -3820,7 +3832,7 @@ Hij die opzettelijk en wederrechtelijk enig gebouw, vaartuig of zijn lading, ins
 
 ##### Artikel 353
 
-De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-01&g=2022-01-01) is op de in deze titel omschreven misdrijven van toepassing.
+De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2022-01-26&g=2022-01-26) is op de in deze titel omschreven misdrijven van toepassing.
 
 ##### Artikel 354
 
@@ -3842,7 +3854,7 @@ Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde catego
 
 ##### Artikel 356
 
-Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie worden gestraft de ministers en staatssecretarissen aan wier grove schuld te wijten is dat de in [artikel 355, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2022-01-01&g=2022-01-01), omschreven uitvoering wordt nagelaten.
+Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie worden gestraft de ministers en staatssecretarissen aan wier grove schuld te wijten is dat de in [artikel 355, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2022-01-26&g=2022-01-26), omschreven uitvoering wordt nagelaten.
 
 ##### Artikel 357
 
@@ -3900,11 +3912,11 @@ Vervallen
 
 ##### Artikel 364a
 
-1. Met ambtenaren worden ten aanzien van de [artikelen 361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=361&z=2022-01-01&g=2022-01-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-01&g=2022-01-01), [365 tot en met 368](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=365&z=2022-01-01&g=2022-01-01) en [376](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=376&z=2022-01-01&g=2022-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
+1. Met ambtenaren worden ten aanzien van de [artikelen 358 tot en met 361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=358&z=2022-01-26&g=2022-01-26), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-26&g=2022-01-26), [365 tot en met 371](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=365&z=2022-01-26&g=2022-01-26) en [376](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=376&z=2022-01-26&g=2022-01-26) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
 
-2. Met ambtenaren worden ten aanzien van [artikel 363, onder 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-01&g=2022-01-01), voormalige ambtenaren gelijkgesteld.
+2. Met ambtenaren worden ten aanzien van [artikel 363, onder 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-26&g=2022-01-26), voormalige ambtenaren gelijkgesteld.
 
-3. Met rechter wordt ten aanzien van [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=364&z=2022-01-01&g=2022-01-01) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
+3. Met rechter wordt ten aanzien van [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=364&z=2022-01-26&g=2022-01-26) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
 
 ##### Artikel 365
 
@@ -3986,9 +3998,9 @@ Degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Wa
 
 ##### Artikel 380
 
-1. Bij veroordeling wegens een der in de [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2022-01-01&g=2022-01-01), [357](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=357&z=2022-01-01&g=2022-01-01) en [358](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=358&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+1. Bij veroordeling wegens een der in de [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2022-01-26&g=2022-01-26), [357](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=357&z=2022-01-26&g=2022-01-26) en [358](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=358&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
-2. Bij veroordeling wegens een der in de [artikelen 359](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=359&z=2022-01-01&g=2022-01-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-01&g=2022-01-01), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=364&z=2022-01-01&g=2022-01-01), [366](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=366&z=2022-01-01&g=2022-01-01) en [379, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=379&z=2022-01-01&g=2022-01-01), omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+2. Bij veroordeling wegens een der in de [artikelen 359](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=359&z=2022-01-26&g=2022-01-26), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2022-01-26&g=2022-01-26), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=364&z=2022-01-26&g=2022-01-26), [366](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=366&z=2022-01-26&g=2022-01-26) en [379, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=379&z=2022-01-26&g=2022-01-26), omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ## Titel XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
@@ -4002,21 +4014,21 @@ Degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Wa
 
 2. Met het gemis van machtiging wordt gelijkgesteld het overschrijden van de machtiging alsmede het voorzien zijn van machtigingen afkomstig van tegen elkander oorlog voerende mogendheden.
 
-3. [Artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IX&artikel=81&z=2022-01-01&g=2022-01-01) blijft buiten toepassing.
+3. [Artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IX&artikel=81&z=2022-01-26&g=2022-01-26) blijft buiten toepassing.
 
 4. Het in de vorige leden ten aanzien van de schipper en de schepeling bepaalde is van overeenkomstige toepassing ten aanzien van de gezagvoerder onderscheidenlijk het lid van de bemanning van een luchtvaartuig. Onder vaartuig wordt in de vorige leden luchtvaartuig begrepen en onder open zee het luchtruim daarboven.
 
 ##### Artikel 382
 
-Indien de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01) omschreven daden van geweld de dood van een der zich op het aangevallen vaartuig of luchtvaartuig bevindende personen ten gevolge hebben, wordt de schipper of de gezagvoerder van het luchtvaartuig en worden zij die aan de daden van geweld hebben deelgenomen, met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie gestraft.
+Indien de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26) omschreven daden van geweld de dood van een der zich op het aangevallen vaartuig of luchtvaartuig bevindende personen ten gevolge hebben, wordt de schipper of de gezagvoerder van het luchtvaartuig en worden zij die aan de daden van geweld hebben deelgenomen, met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie gestraft.
 
 ##### Artikel 383
 
-Hij die voor eigen of vreemde rekening een vaartuig of luchtvaartuig uitrust met de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01) omschreven bestemming, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
+Hij die voor eigen of vreemde rekening een vaartuig of luchtvaartuig uitrust met de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26) omschreven bestemming, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 ##### Artikel 384
 
-Hij die voor eigen of vreemde rekening middellijk of onmiddellijk medewerkt tot het verhuren, vervrachten of verzekeren van een vaartuig of luchtvaartuig, wetende dat het de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01) omschreven bestemming heeft, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
+Hij die voor eigen of vreemde rekening middellijk of onmiddellijk medewerkt tot het verhuren, vervrachten of verzekeren van een vaartuig of luchtvaartuig, wetende dat het de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26) omschreven bestemming heeft, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
 ##### Artikel 385
 
@@ -4086,7 +4098,7 @@ Vervallen
 
 ##### Artikel 389ter
 
-Hij die ter voldoening aan het voorschrift van het [vierde lid van artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=194&z=2022-01-01&g=2022-01-01), van het [vijfde lid van artikel 784](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), van het [eerste lid onder a ten derde van artikel 786](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786) of van het [vierde lid van artikel 1303 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1303) een schriftelijke verklaring overlegt van welke hij weet dat de inhoud in strijd is met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+Hij die ter voldoening aan het voorschrift van het [vierde lid van artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=194&z=2022-01-26&g=2022-01-26), van het [vijfde lid van artikel 784](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), van het [eerste lid onder a ten derde van artikel 786](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786) of van het [vierde lid van artikel 1303 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1303) een schriftelijke verklaring overlegt van welke hij weet dat de inhoud in strijd is met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ##### Artikel 390
 
@@ -4136,7 +4148,7 @@ Hij die aan boord van een Nederlands schip of zeevissersschip tot muiterij op da
 
 ##### Artikel 401
 
-De in de [artikelen 386](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=386&z=2022-01-01&g=2022-01-01), [395-397](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-01&g=2022-01-01) en [400](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=400&z=2022-01-01&g=2022-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige aan een der in die artikelen omschreven misdrijven scheepsofficier is.
+De in de [artikelen 386](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=386&z=2022-01-26&g=2022-01-26), [395-397](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-26&g=2022-01-26) en [400](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=400&z=2022-01-26&g=2022-01-26) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige aan een der in die artikelen omschreven misdrijven scheepsofficier is.
 
 ##### Artikel 402
 
@@ -4192,7 +4204,7 @@ De schipper die de krachtens het [eerste lid van artikel 358a](https://wetten.ov
 
 ##### Artikel 415
 
-Bij veroordeling wegens een der in de [artikelen 381-387](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=402&z=2022-01-01&g=2022-01-01) en [403](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=403&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken.
+Bij veroordeling wegens een der in de [artikelen 381-387](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=402&z=2022-01-26&g=2022-01-26) en [403](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=403&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken.
 
 ## Titel XXVIII. Ambtsmisdrijven
 
@@ -4222,7 +4234,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 
 ##### Artikel 417ter
 
-Bij veroordeling wegens een der in de [artikelen 416-417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=416&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
+Bij veroordeling wegens een der in de [artikelen 416-417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=416&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
 ##### Artikel 418
 
@@ -4274,7 +4286,7 @@ Indien de aard van het geschrift of de afbeelding een misdrijf oplevert dat alle
 
 ##### Artikel 420quinquies
 
-Bij veroordeling wegens een der in de [artikelen 420bis tot en met 420quater.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis&z=2022-01-01&g=2022-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft begaan.
+Bij veroordeling wegens een der in de [artikelen 420bis tot en met 420quater.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis&z=2022-01-26&g=2022-01-26) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft begaan.
 
 ## Titel XXVII. Vernieling of beschadiging
 
@@ -4286,13 +4298,13 @@ Bij veroordeling wegens een der in de [artikelen 420bis tot en met 420quater.1](
 
 - b. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan wel opzettelijk voorwerpen verzamelt, verwerft, voorhanden heeft of aan een ander verschaft, die geheel of gedeeltelijk, onmiddellijk of middellijk, dienen om geldelijke steun te verlenen aan het plegen van een van de misdrijven omschreven in:
 
-- –. de [artikelen 117 tot en met 117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01) alsmede [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), indien dat misdrijf is gericht tegen een internationaal beschermd persoon of diens beschermde goederen;
+- –. de [artikelen 117 tot en met 117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26) alsmede [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), indien dat misdrijf is gericht tegen een internationaal beschermd persoon of diens beschermde goederen;
 
-- –. de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79) en [80 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), de [artikelen 161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-01&g=2022-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-01&g=2022-01-01) en [284a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284a&z=2022-01-01&g=2022-01-01) alsmede de artikelen [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-01&g=2022-01-01), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), [310 tot en met 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-01&g=2022-01-01), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-01&g=2022-01-01), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-01&g=2022-01-01), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-01&g=2022-01-01), [322](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322&z=2022-01-01&g=2022-01-01) en [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-01&g=2022-01-01), indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;
+- –. de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79) en [80 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), de [artikelen 161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-26&g=2022-01-26), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-26&g=2022-01-26) en [284a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284a&z=2022-01-26&g=2022-01-26) alsmede de artikelen [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-26&g=2022-01-26), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), [310 tot en met 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-26&g=2022-01-26), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-26&g=2022-01-26), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-26&g=2022-01-26), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-26&g=2022-01-26), [322](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322&z=2022-01-26&g=2022-01-26) en [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-26&g=2022-01-26), indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;
 
-- –. de [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-01&g=2022-01-01), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-01&g=2022-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-01&g=2022-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-01&g=2022-01-01), [282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282a&z=2022-01-01&g=2022-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-01&g=2022-01-01), [385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-01&g=2022-01-01);
+- –. de [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-26&g=2022-01-26), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-26&g=2022-01-26), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-26&g=2022-01-26), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-26&g=2022-01-26), [282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282a&z=2022-01-26&g=2022-01-26), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-26&g=2022-01-26), [385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-26&g=2022-01-26);
 
-- –. de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01), [121 tot en met 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-01&g=2022-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-01&g=2022-01-01), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-01&g=2022-01-01), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-01&g=2022-01-01), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-01&g=2022-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-01&g=2022-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-01&g=2022-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-01&g=2022-01-01), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-01&g=2022-01-01), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288&z=2022-01-01&g=2022-01-01) en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-01&g=2022-01-01), indien het feiten betreft die worden gepleegd door middel van het opzettelijk wederrechtelijk tot ontlading of ontploffing brengen van een springstof of ander voorwerp, of het laten vrijkomen, verspreiden of inwerken van een voorwerp, waardoor levensgevaar, gevaar voor zwaar lichamelijk letsel voor een ander of aanzienlijke materiële schade te duchten is.
+- –. de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26), [121 tot en met 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-26&g=2022-01-26), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-26&g=2022-01-26), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-26&g=2022-01-26), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-26&g=2022-01-26), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-26&g=2022-01-26), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-26&g=2022-01-26), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-26&g=2022-01-26), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-26&g=2022-01-26), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-26&g=2022-01-26), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288&z=2022-01-26&g=2022-01-26) en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-26&g=2022-01-26), indien het feiten betreft die worden gepleegd door middel van het opzettelijk wederrechtelijk tot ontlading of ontploffing brengen van een springstof of ander voorwerp, of het laten vrijkomen, verspreiden of inwerken van een voorwerp, waardoor levensgevaar, gevaar voor zwaar lichamelijk letsel voor een ander of aanzienlijke materiële schade te duchten is.
 
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
@@ -4326,7 +4338,7 @@ Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wo
 
 1. Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid bedreigt, hetzij enige handeling verricht waarbij, tot voorkoming van gevaar voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen worden vereist, wordt gestraft met hechtenis van ten hoogste zes dagen of geldboete van de eerste categorie.
 
-2. Indien tijdens het plegen van de overtreding nog geen jaar is verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke of de in [artikel 453](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VI&artikel=453&z=2022-01-01&g=2022-01-01) omschreven overtreding onherroepelijk is geworden, wordt hij gestraft met hechtenis van ten hoogste twee weken of geldboete van de tweede categorie.
+2. Indien tijdens het plegen van de overtreding nog geen jaar is verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke of de in [artikel 453](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VI&artikel=453&z=2022-01-26&g=2022-01-26) omschreven overtreding onherroepelijk is geworden, wordt hij gestraft met hechtenis van ten hoogste twee weken of geldboete van de tweede categorie.
 
 ##### Artikel 426bis
 
@@ -4480,7 +4492,7 @@ Vervallen
 
 ##### Artikel 437bis
 
-1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de handelaar die op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2022-01-01&g=2022-01-01) bij algemene maatregel van bestuur is aangewezen en in de oefening van zijn beroep of bedrijf:
+1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de handelaar die op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2022-01-26&g=2022-01-26) bij algemene maatregel van bestuur is aangewezen en in de oefening van zijn beroep of bedrijf:
 
 - a. een goed van een minderjarige verwerft, of
 
@@ -4492,7 +4504,7 @@ Vervallen
 
 ##### Artikel 437ter
 
-1. De handelaar aangewezen bij algemene maatregel van bestuur op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2022-01-01&g=2022-01-01), die een verordening door de raad van een gemeente ter bestrijding van heling uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
+1. De handelaar aangewezen bij algemene maatregel van bestuur op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2022-01-26&g=2022-01-26), die een verordening door de raad van een gemeente ter bestrijding van heling uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die van opkopen een beroep of gewoonte maakt, zonder daarvan te voren de burgemeester of een door die burgemeester aangewezen ambtenaar schriftelijk in kennis te hebben gesteld.
 
@@ -4686,7 +4698,7 @@ Met geldboete van de eerste categorie wordt gestraft:
 
 ##### Artikel 468a
 
-Onder ambtenaar van de burgerlijke stand wordt ten aanzien van de [artikelen 466-468](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2022-01-01&g=2022-01-01) verstaan een ieder die ingevolge enig wettelijk voorschrift met de bewaring van een register van de burgerlijke stand is belast.
+Onder ambtenaar van de burgerlijke stand wordt ten aanzien van de [artikelen 466-468](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2022-01-26&g=2022-01-26) verstaan een ieder die ingevolge enig wettelijk voorschrift met de bewaring van een register van de burgerlijke stand is belast.
 
 ## Titel XXXI. Bepalingen over herhaling van misdrijf aan verschillende titels gemeen
 
@@ -4886,9 +4898,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Hij die in de gevallen waarin door of krachtens een verdrag een verklaring onder ede of onder een daarvoor in de plaats tredende bevestiging of belofte wordt gevorderd, in Nederland, per videoconferentie, voor een rechterlijke autoriteit van een andere staat mondeling, persoonlijk, opzettelijk een valse verklaring aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-2. [Artikel 207, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207&z=2022-01-01&g=2022-01-01), is van toepassing.
+2. [Artikel 207, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207&z=2022-01-26&g=2022-01-26), is van toepassing.
 
-3. Geen vervolging vindt plaats dan op klacht van de rechterlijke autoriteit voor wie de valse verklaring werd afgelegd. [Artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=66&z=2022-01-01&g=2022-01-01) blijft met betrekking tot de in dit lid bedoelde klacht buiten toepassing.
+3. Geen vervolging vindt plaats dan op klacht van de rechterlijke autoriteit voor wie de valse verklaring werd afgelegd. [Artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=66&z=2022-01-26&g=2022-01-26) blijft met betrekking tot de in dit lid bedoelde klacht buiten toepassing.
 
 ## Titel VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht
 
@@ -5070,31 +5082,31 @@ Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking of een de
 
 ##### Artikel 114a
 
-Indien een misdrijf, strafbaar gesteld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-01&g=2022-01-01) of [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
+Indien een misdrijf, strafbaar gesteld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-26&g=2022-01-26) of [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
 ##### Artikel 114b
 
-1. De samenspanning tot de in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot de in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel III. Misdrijven tegen hoofden van bevriende Staten en andere internationaal beschermde personen
 
 ##### Artikel 120a
 
-Indien een misdrijf, strafbaar gesteld in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-01&g=2022-01-01), [117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2022-01-01&g=2022-01-01) of [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
+Indien een misdrijf, strafbaar gesteld in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-26&g=2022-01-26), [117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2022-01-26&g=2022-01-26) of [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
 ##### Artikel 120b
 
-1. De samenspanning tot de in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot de in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel I. Misdrijven tegen de veiligheid van de staat
 
 ##### Artikel 130a
 
-Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-01&g=2022-01-01) of [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in deze artikelen bepaalde tijdelijke gevangenisstraf met de helft verhoogd.
+Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-26&g=2022-01-26) of [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in deze artikelen bepaalde tijdelijke gevangenisstraf met de helft verhoogd.
 
 ## Titel II. Misdrijven tegen de koninklijke waardigheid
 
@@ -5104,7 +5116,7 @@ Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.
 
 2. Oprichters, leiders of bestuurders worden gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-3. Het [vijfde lid van artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+3. Het [vijfde lid van artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2022-01-26&g=2022-01-26) is van overeenkomstige toepassing.
 
 ## Titel VI. Tweegevecht
 
@@ -5112,13 +5124,13 @@ Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.
 
 ##### Artikel 176a
 
-Indien een misdrijf, strafbaar gesteld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2022-01-01&g=2022-01-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2022-01-01&g=2022-01-01), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-01&g=2022-01-01), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-01&g=2022-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-01&g=2022-01-01), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-01&g=2022-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-01&g=2022-01-01), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-01&g=2022-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-01&g=2022-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-01&g=2022-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-01&g=2022-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-01&g=2022-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-01&g=2022-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-01&g=2022-01-01) of [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
+Indien een misdrijf, strafbaar gesteld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2022-01-26&g=2022-01-26), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2022-01-26&g=2022-01-26), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-26&g=2022-01-26), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-26&g=2022-01-26), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-26&g=2022-01-26), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-26&g=2022-01-26), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-26&g=2022-01-26), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-26&g=2022-01-26), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-26&g=2022-01-26), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-26&g=2022-01-26), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-26&g=2022-01-26), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-26&g=2022-01-26), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-26&g=2022-01-26), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-26&g=2022-01-26) of [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
 ##### Artikel 176b
 
-1. De samenspanning tot de in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [161, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-01&g=2022-01-01), [161bis, onderdelen 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-01&g=2022-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-01&g=2022-01-01), [161sexies, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-01&g=2022-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-01&g=2022-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-01&g=2022-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-01&g=2022-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-01&g=2022-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-01&g=2022-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-01&g=2022-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-01&g=2022-01-01) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot de in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [161, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2022-01-26&g=2022-01-26), [161bis, onderdelen 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-26&g=2022-01-26), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-26&g=2022-01-26), [161sexies, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-26&g=2022-01-26), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-26&g=2022-01-26), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-26&g=2022-01-26), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-26&g=2022-01-26), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-26&g=2022-01-26), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-26&g=2022-01-26), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-26&g=2022-01-26), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-26&g=2022-01-26) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht
 
@@ -5140,13 +5152,13 @@ Indien een misdrijf, strafbaar gesteld in [artikel 157](https://wetten.overheid.
 
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met een terroristisch oogmerk, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 282, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 282, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 282c
 
-1. De samenspanning tot het in [artikel 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-01&g=2022-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-26&g=2022-01-26) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 288a
 
@@ -5154,21 +5166,21 @@ Doodslag, gepleegd met een terroristisch oogmerk, wordt gestraft met levenslange
 
 ##### Artikel 289a
 
-1. De samenspanning tot het in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-01&g=2022-01-01) omschreven misdrijf, te begaan met een terroristisch oogmerk, alsmede het in [artikel 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-01&g=2022-01-01) omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-26&g=2022-01-26) omschreven misdrijf, te begaan met een terroristisch oogmerk, alsmede het in [artikel 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-26&g=2022-01-26) omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel XIV. Misdrijven tegen de zeden
 
 ##### Artikel 304a
 
-Indien een misdrijf, strafbaar gesteld in [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-01&g=2022-01-01) of [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
+Indien een misdrijf, strafbaar gesteld in [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-26&g=2022-01-26) of [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
 ##### Artikel 304b
 
-1. De samenspanning tot het in [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-01&g=2022-01-01) omschreven misdrijf, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-26&g=2022-01-26) omschreven misdrijf, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel XVII. Schending van geheimen
 
@@ -5186,13 +5198,13 @@ Indien een misdrijf, strafbaar gesteld in [artikel 302](https://wetten.overheid.
 
 ##### Artikel 415a
 
-Indien een misdrijf, strafbaar gesteld in een der [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-01&g=2022-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
+Indien een misdrijf, strafbaar gesteld in een der [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-26&g=2022-01-26), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
 ##### Artikel 415b
 
-1. De samenspanning tot de in de [artikelen 385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-01&g=2022-01-01), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385b&z=2022-01-01&g=2022-01-01) en [385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385d&z=2022-01-01&g=2022-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot de in de [artikelen 385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-26&g=2022-01-26), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385b&z=2022-01-26&g=2022-01-26) en [385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385d&z=2022-01-26&g=2022-01-26) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ## Titel XXIX. Scheepvaart- en luchtvaartmisdrijven
 
@@ -5222,11 +5234,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Onder terroristisch misdrijf wordt verstaan:
 
-- 1º. elk van de misdrijven omschreven in de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01), [108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01), [115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01), [117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-01&g=2022-01-01), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=122&z=2022-01-01&g=2022-01-01), [157, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [161quater, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-01&g=2022-01-01), [164, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-01&g=2022-01-01), [166, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-01&g=2022-01-01), [168, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-01&g=2022-01-01), [170, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-01&g=2022-01-01), [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01), en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-01&g=2022-01-01), alsmede in [artikel 80, tweede lid, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), indien het misdrijf is begaan met een terroristisch oogmerk;
+- 1º. elk van de misdrijven omschreven in de [artikelen 92 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26), [108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26), [115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26), [117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2022-01-26&g=2022-01-26), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=122&z=2022-01-26&g=2022-01-26), [157, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [161quater, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-26&g=2022-01-26), [164, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-26&g=2022-01-26), [166, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-26&g=2022-01-26), [168, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-26&g=2022-01-26), [170, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-26&g=2022-01-26), [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26), en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-26&g=2022-01-26), alsmede in [artikel 80, tweede lid, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), indien het misdrijf is begaan met een terroristisch oogmerk;
 
-- 2º. elk van de misdrijven waarop ingevolge de [artikelen 114a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=114a&z=2022-01-01&g=2022-01-01), [114b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=114b&z=2022-01-01&g=2022-01-01), [120a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120a&z=2022-01-01&g=2022-01-01), [120b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120b&z=2022-01-01&g=2022-01-01), [130a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=130a&z=2022-01-01&g=2022-01-01), [138b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01), [176a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176a&z=2022-01-01&g=2022-01-01), [176b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176b&z=2022-01-01&g=2022-01-01), [282c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282c&z=2022-01-01&g=2022-01-01), [289a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289a&z=2022-01-01&g=2022-01-01), [304a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304a&z=2022-01-01&g=2022-01-01), [304b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304b&z=2022-01-01&g=2022-01-01), [354a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354a&z=2022-01-01&g=2022-01-01),[415a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415a&z=2022-01-01&g=2022-01-01) en [415b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415b&z=2022-01-01&g=2022-01-01), alsmede [artikel 80, derde lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80) gevangenisstraf is gesteld;
+- 2º. elk van de misdrijven waarop ingevolge de [artikelen 114a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=114a&z=2022-01-26&g=2022-01-26), [114b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=114b&z=2022-01-26&g=2022-01-26), [120a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120a&z=2022-01-26&g=2022-01-26), [120b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120b&z=2022-01-26&g=2022-01-26), [130a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=130a&z=2022-01-26&g=2022-01-26), [138b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26), [176a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176a&z=2022-01-26&g=2022-01-26), [176b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176b&z=2022-01-26&g=2022-01-26), [282c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282c&z=2022-01-26&g=2022-01-26), [289a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289a&z=2022-01-26&g=2022-01-26), [304a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304a&z=2022-01-26&g=2022-01-26), [304b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304b&z=2022-01-26&g=2022-01-26), [354a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354a&z=2022-01-26&g=2022-01-26),[415a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415a&z=2022-01-26&g=2022-01-26) en [415b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415b&z=2022-01-26&g=2022-01-26), alsmede [artikel 80, derde lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80) gevangenisstraf is gesteld;
 
-- 3º. elk van de misdrijven omschreven in de [artikelen 140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140a&z=2022-01-01&g=2022-01-01), [282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-01&g=2022-01-01), [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), en [288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-01&g=2022-01-01), alsmede in [artikel 55, vijfde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=55), [artikel 6, vierde lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=6), [artikel 33b van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=33b) en [artikel 79 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79).
+- 3º. elk van de misdrijven omschreven in de [artikelen 140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140a&z=2022-01-26&g=2022-01-26), [282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-26&g=2022-01-26), [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), en [288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-26&g=2022-01-26), alsmede in [artikel 55, vijfde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=55), [artikel 6, vierde lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=6), [artikel 33b van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=33b) en [artikel 79 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79).
 
 ## Boek Tweede. Misdrijven
 
@@ -5516,17 +5528,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 43a
 
-De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2022-01-01&g=2022-01-01), met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van de schuldige tot gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid is ontnomen.
+De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2022-01-26&g=2022-01-26), met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van de schuldige tot gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid is ontnomen.
 
 ##### Artikel 43b
 
 Als misdrijven welke soortgelijk zijn aan elkaar worden in elk geval aangemerkt:
 
-- 1°. de misdrijven omschreven in de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-01&g=2022-01-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01), [208 tot en met 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-01&g=2022-01-01), [213](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=213&z=2022-01-01&g=2022-01-01), [214](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=214&z=2022-01-01&g=2022-01-01), [216 tot en met 222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-01&g=2022-01-01), [225 tot en met 232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-01&g=2022-01-01), [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-01&g=2022-01-01), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-01&g=2022-01-01), [315](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=315&z=2022-01-01&g=2022-01-01), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-01&g=2022-01-01), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-01&g=2022-01-01), [321 tot en met 323a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-01&g=2022-01-01), [326 tot en met 332](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-01&g=2022-01-01), [341](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=341&z=2022-01-01&g=2022-01-01), [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-01&g=2022-01-01), [344](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=344&z=2022-01-01&g=2022-01-01), [359](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=359&z=2022-01-01&g=2022-01-01), [361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=361&z=2022-01-01&g=2022-01-01), [366](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=366&z=2022-01-01&g=2022-01-01), [373, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=373&z=2022-01-01&g=2022-01-01), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=402&z=2022-01-01&g=2022-01-01), [416](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=416&z=2022-01-01&g=2022-01-01), [417](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=417&z=2022-01-01&g=2022-01-01), [420bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis&z=2022-01-01&g=2022-01-01), [420bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis.1&z=2022-01-01&g=2022-01-01) en [420ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420ter&z=2022-01-01&g=2022-01-01);
+- 1°. de misdrijven omschreven in de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2022-01-26&g=2022-01-26), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26), [208 tot en met 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2022-01-26&g=2022-01-26), [213](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=213&z=2022-01-26&g=2022-01-26), [214](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=214&z=2022-01-26&g=2022-01-26), [216 tot en met 222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2022-01-26&g=2022-01-26), [225 tot en met 232](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2022-01-26&g=2022-01-26), [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-26&g=2022-01-26), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-26&g=2022-01-26), [315](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=315&z=2022-01-26&g=2022-01-26), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-26&g=2022-01-26), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-26&g=2022-01-26), [321 tot en met 323a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-26&g=2022-01-26), [326 tot en met 332](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-26&g=2022-01-26), [341](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=341&z=2022-01-26&g=2022-01-26), [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2022-01-26&g=2022-01-26), [344](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=344&z=2022-01-26&g=2022-01-26), [359](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=359&z=2022-01-26&g=2022-01-26), [361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=361&z=2022-01-26&g=2022-01-26), [366](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=366&z=2022-01-26&g=2022-01-26), [373, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=373&z=2022-01-26&g=2022-01-26), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=402&z=2022-01-26&g=2022-01-26), [416](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=416&z=2022-01-26&g=2022-01-26), [417](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=417&z=2022-01-26&g=2022-01-26), [420bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis&z=2022-01-26&g=2022-01-26), [420bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis.1&z=2022-01-26&g=2022-01-26) en [420ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420ter&z=2022-01-26&g=2022-01-26);
 
-- 2°. de misdrijven omschreven in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-01&g=2022-01-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-01&g=2022-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-01&g=2022-01-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-01&g=2022-01-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-01&g=2022-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-01&g=2022-01-01), [117 tot en met 117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01), [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=141&z=2022-01-01&g=2022-01-01), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=181&z=2022-01-01&g=2022-01-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=182&z=2022-01-01&g=2022-01-01), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-01&g=2022-01-01), [293, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=293&z=2022-01-01&g=2022-01-01), [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIXA&artikel=296&z=2022-01-01&g=2022-01-01), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-01&g=2022-01-01), [381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-01&g=2022-01-01), [382](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=382&z=2022-01-01&g=2022-01-01), [395](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-01&g=2022-01-01) en [396](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=396&z=2022-01-01&g=2022-01-01);
+- 2°. de misdrijven omschreven in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2022-01-26&g=2022-01-26), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2022-01-26&g=2022-01-26), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2022-01-26&g=2022-01-26), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2022-01-26&g=2022-01-26), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2022-01-26&g=2022-01-26), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2022-01-26&g=2022-01-26), [117 tot en met 117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26), [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=141&z=2022-01-26&g=2022-01-26), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=181&z=2022-01-26&g=2022-01-26), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=182&z=2022-01-26&g=2022-01-26), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2022-01-26&g=2022-01-26), [293, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=293&z=2022-01-26&g=2022-01-26), [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIXA&artikel=296&z=2022-01-26&g=2022-01-26), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2022-01-26&g=2022-01-26), [381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2022-01-26&g=2022-01-26), [382](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=382&z=2022-01-26&g=2022-01-26), [395](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2022-01-26&g=2022-01-26) en [396](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=396&z=2022-01-26&g=2022-01-26);
 
-- 3°. de misdrijven omschreven in de [artikelen 261 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=261&z=2022-01-01&g=2022-01-01), [418](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=418&z=2022-01-01&g=2022-01-01) en [419](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=419&z=2022-01-01&g=2022-01-01);
+- 3°. de misdrijven omschreven in de [artikelen 261 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVI&artikel=261&z=2022-01-26&g=2022-01-26), [418](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=418&z=2022-01-26&g=2022-01-26) en [419](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=419&z=2022-01-26&g=2022-01-26);
 
 - 4°. de misdrijven omschreven in de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
@@ -5622,7 +5634,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - c. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
 
-3. Bij toepassing van het tweede lid, onder b, blijft [artikel 14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-01&g=2022-01-01), buiten toepassing.
+3. Bij toepassing van het tweede lid, onder b, blijft [artikel 14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2022-01-26&g=2022-01-26), buiten toepassing.
 
 ## Titel V. Deelneming aan strafbare feiten
 
@@ -5700,7 +5712,7 @@ Waar van veroordeling wordt gesproken wordt daaronder een strafbeschikking begre
 
 2. Indien het feit wordt gepleegd:
 
-- a. met behulp van een aanzienlijk aantal geautomatiseerde werken die getroffen zijn door het gebruik van een middel als bedoeld in [artikel 139d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139d&z=2022-01-01&g=2022-01-01), dat hoofdzakelijk daarvoor geschikt is gemaakt of ontworpen; of
+- a. met behulp van een aanzienlijk aantal geautomatiseerde werken die getroffen zijn door het gebruik van een middel als bedoeld in [artikel 139d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139d&z=2022-01-26&g=2022-01-26), dat hoofdzakelijk daarvoor geschikt is gemaakt of ontworpen; of
 
 - b. met het oogmerk om zich of een ander wederrechtelijk te bevoordelen,
 
@@ -5780,7 +5792,7 @@ De persoon belast met de dienst van een ten algemenen nutte gebezigde telegraafi
 
 ##### Artikel 273e
 
-Enig in de [artikelen 273a tot en met 273d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=273a&z=2022-01-01&g=2022-01-01) bedoeld persoon die opzettelijk toelaat dat een ander een der in deze artikelen vermelde feiten pleegt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met de straffen en naar de onderscheidingen in die bepalingen vastgesteld.
+Enig in de [artikelen 273a tot en met 273d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=273a&z=2022-01-26&g=2022-01-26) bedoeld persoon die opzettelijk toelaat dat een ander een der in deze artikelen vermelde feiten pleegt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met de straffen en naar de onderscheidingen in die bepalingen vastgesteld.
 
 ##### Artikel 273f
 
@@ -5820,7 +5832,7 @@ Enig in de [artikelen 273a tot en met 273d](https://wetten.overheid.nl/jci1.3:c:
 
 6. Onder kwetsbare positie wordt mede begrepen een situatie waarin een persoon geen andere werkelijke of aanvaardbare keuze heeft dan het misbruik te ondergaan.
 
-7. [Artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=251&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+7. [Artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=251&z=2022-01-26&g=2022-01-26) is van overeenkomstige toepassing.
 
 ## Titel XVI. Belediging
 
@@ -5874,7 +5886,7 @@ Vervallen
 
 ##### Artikel 77wa
 
-1. De rechter kan bepalen dat het in [artikel 77w, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77w&z=2022-01-01&g=2022-01-01), bedoelde programma geheel of ten dele komt te bestaan uit een vorm van jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+1. De rechter kan bepalen dat het in [artikel 77w, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77w&z=2022-01-26&g=2022-01-26), bedoelde programma geheel of ten dele komt te bestaan uit een vorm van jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 2. Indien de rechter toepassing heeft gegeven aan het bepaalde in het eerste lid, doet de raad daarvan onverwijld mededeling aan de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
@@ -5942,7 +5954,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.
 
-2. De rechter legt de maatregel slechts op, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming, dat wordt ondersteund door ten minste een gedragsdeskundige. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hier slechts gebruik van maken met instemming van het openbaar ministerie en de verdachte. Indien de maatregel met toepassing van [artikel 77c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77c&z=2022-01-01&g=2022-01-01) wordt opgelegd aan een jongvolwassene die ten tijde van het misdrijf of de misdrijven die voor het opleggen van de maatregel aanleiding geeft of geven, de leeftijd van achttien jaren maar nog niet de leeftijd van drieëntwintig jaren heeft bereikt, kan een advies van de raad voor de kinderbescherming achterwege blijven en wordt met een advies van een gedragsdeskundige volstaan.
+2. De rechter legt de maatregel slechts op, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming, dat wordt ondersteund door ten minste een gedragsdeskundige. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hier slechts gebruik van maken met instemming van het openbaar ministerie en de verdachte. Indien de maatregel met toepassing van [artikel 77c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77c&z=2022-01-26&g=2022-01-26) wordt opgelegd aan een jongvolwassene die ten tijde van het misdrijf of de misdrijven die voor het opleggen van de maatregel aanleiding geeft of geven, de leeftijd van achttien jaren maar nog niet de leeftijd van drieëntwintig jaren heeft bereikt, kan een advies van de raad voor de kinderbescherming achterwege blijven en wordt met een advies van een gedragsdeskundige volstaan.
 
 3. De rechter geeft in zijn uitspraak aan waar de maatregel uit bestaat. De maatregel kan inhouden dat de veroordeelde aan een programma deelneemt in een door de rechter aan te wijzen instelling of dat de veroordeelde een ambulant programma zal volgen onder begeleiding van een door de rechter aan te wijzen organisatie.
 
@@ -6006,7 +6018,7 @@ Hij die opzettelijk een parlementaire enquêtecommissie of door haar aangewezen 
 
 ##### Artikel 192d
 
-De misdrijven genoemd in de [artikelen 192 tot en met 192c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=192&z=2022-01-01&g=2022-01-01) worden niet vervolgd, indien zij zijn begaan door een lid van de Staten-Generaal, een minister of een staatssecretaris.
+De misdrijven genoemd in de [artikelen 192 tot en met 192c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=192&z=2022-01-26&g=2022-01-26) worden niet vervolgd, indien zij zijn begaan door een lid van de Staten-Generaal, een minister of een staatssecretaris.
 
 ## Titel XI. Valsheid in zegels en merken
 
@@ -6108,7 +6120,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 83b
 
-Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-01&g=2022-01-01), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-01&g=2022-01-01), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=134a&z=2022-01-01&g=2022-01-01), [138b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01), [197a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197a&z=2022-01-01&g=2022-01-01), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=205&z=2022-01-01&g=2022-01-01), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), [285, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), [311, eerste lid, onderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-01&g=2022-01-01), [312, tweede lid, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-01&g=2022-01-01), [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-01&g=2022-01-01), jo. [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-01&g=2022-01-01), [318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-01&g=2022-01-01), [322a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322a&z=2022-01-01&g=2022-01-01), [326, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-01&g=2022-01-01), [354a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354a&z=2022-01-01&g=2022-01-01) en [421](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXI&artikel=421&z=2022-01-01&g=2022-01-01).
+Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-26&g=2022-01-26), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2022-01-26&g=2022-01-26), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=134a&z=2022-01-26&g=2022-01-26), [138b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26), [197a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197a&z=2022-01-26&g=2022-01-26), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=205&z=2022-01-26&g=2022-01-26), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), [285, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), [311, eerste lid, onderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2022-01-26&g=2022-01-26), [312, tweede lid, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-26&g=2022-01-26), [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-26&g=2022-01-26), jo. [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2022-01-26&g=2022-01-26), [318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2022-01-26&g=2022-01-26), [322a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322a&z=2022-01-26&g=2022-01-26), [326, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2022-01-26&g=2022-01-26), [354a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354a&z=2022-01-26&g=2022-01-26) en [421](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXI&artikel=421&z=2022-01-26&g=2022-01-26).
 
 ## Slotbepaling
 
@@ -6122,7 +6134,7 @@ Hij die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen vers
 
 ##### Artikel 137h
 
-Indien de schuldige een van de strafbare feiten, omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-01&g=2022-01-01) en [137c tot en met 137g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=137c&z=2022-01-01&g=2022-01-01), in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
+Indien de schuldige een van de strafbare feiten, omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2022-01-26&g=2022-01-26) en [137c tot en met 137g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=137c&z=2022-01-26&g=2022-01-26), in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
 ## Titel VI. Tweegevecht
 
@@ -6138,7 +6150,7 @@ Indien de schuldige een van de strafbare feiten, omschreven in de [artikelen 131
 
 ##### Artikel 322a
 
-Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-01&g=2022-01-01) en [322](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322&z=2022-01-01&g=2022-01-01) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2022-01-26&g=2022-01-26) en [322](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322&z=2022-01-26&g=2022-01-26) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
 ## Titel XXIII. Afpersing en afdreiging
 
@@ -6146,9 +6158,9 @@ Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 354a
 
-1. Indien een der in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-01&g=2022-01-01), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-01&g=2022-01-01), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-01&g=2022-01-01), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-01&g=2022-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-01&g=2022-01-01) en [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-01&g=2022-01-01) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+1. Indien een der in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-26&g=2022-01-26), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-26&g=2022-01-26), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-26&g=2022-01-26), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-26&g=2022-01-26), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-26&g=2022-01-26) en [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-26&g=2022-01-26) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-2. Indien een feit strafbaar gesteld in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-01&g=2022-01-01), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-01&g=2022-01-01), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-01&g=2022-01-01), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-01&g=2022-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-01&g=2022-01-01) of [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-01&g=2022-01-01) is begaan met een terroristisch oogmerk, wordt de op het feit gestelde gevangenisstraf met de helft verhoogd.
+2. Indien een feit strafbaar gesteld in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-26&g=2022-01-26), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-26&g=2022-01-26), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-26&g=2022-01-26), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-26&g=2022-01-26), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-26&g=2022-01-26) of [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-26&g=2022-01-26) is begaan met een terroristisch oogmerk, wordt de op het feit gestelde gevangenisstraf met de helft verhoogd.
 
 ## Boek Derde. Overtredingen
 
@@ -6378,13 +6390,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 77ta
 
-1. Indien de maatregel voorwaardelijk eindigt als bedoeld in [artikel 77s, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77s&z=2022-01-01&g=2022-01-01), en [artikel 77t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77t&z=2022-01-01&g=2022-01-01), zijn daaraan van rechtswege de voorwaarden verbonden dat:
+1. Indien de maatregel voorwaardelijk eindigt als bedoeld in [artikel 77s, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77s&z=2022-01-26&g=2022-01-26), en [artikel 77t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77t&z=2022-01-26&g=2022-01-26), zijn daaraan van rechtswege de voorwaarden verbonden dat:
 
 - a. de veroordeelde zich ten tijde van de voorwaardelijke beëindiging niet schuldig maakt aan een strafbaar feit;
 
-- b. de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt en medewerking verleent aan het toezicht door de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) dan wel van een reclasseringsinstelling als bedoeld in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-01&g=2022-01-01).
+- b. de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt en medewerking verleent aan het toezicht door de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) dan wel van een reclasseringsinstelling als bedoeld in [artikel 14c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-26&g=2022-01-26).
 
-2. Een jaar nadat de maatregel voorwaardelijk is geëindigd als bedoeld in het bepaalde in de [artikelen 6:2:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22), en [6:6:31, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:31) eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke beëindiging wordt verlengd op de wijze als bedoeld in [artikel 77tb](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77tb&z=2022-01-01&g=2022-01-01). In de gevallen waarin de voorwaardelijke beëindiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke beëindiging is bereikt.
+2. Een jaar nadat de maatregel voorwaardelijk is geëindigd als bedoeld in het bepaalde in de [artikelen 6:2:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22), en [6:6:31, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:31) eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke beëindiging wordt verlengd op de wijze als bedoeld in [artikel 77tb](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77tb&z=2022-01-26&g=2022-01-26). In de gevallen waarin de voorwaardelijke beëindiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke beëindiging is bereikt.
 
 ##### Artikel 77tb
 
@@ -6442,7 +6454,7 @@ Vervallen
 
 1. In het vonnis waarbij de vrijheidsbeperkende maatregel wordt opgelegd, beveelt de rechter dat vervangende jeugddetentie zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.
 
-2. De [artikelen 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-01&g=2022-01-01), [38w, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38w&z=2022-01-01&g=2022-01-01), en [artikel 6:3:10, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:10), zijn van overeenkomstige toepassing.
+2. De [artikelen 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-26&g=2022-01-26), [38w, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38w&z=2022-01-26&g=2022-01-26), en [artikel 6:3:10, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:10), zijn van overeenkomstige toepassing.
 
 ##### Artikel 77wf
 
@@ -6476,7 +6488,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;
 
-- b. een van de misdrijven omschreven in de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=181&z=2022-01-01&g=2022-01-01), [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-01&g=2022-01-01), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-01&g=2022-01-01) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01).
+- b. een van de misdrijven omschreven in de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=181&z=2022-01-26&g=2022-01-26), [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-26&g=2022-01-26), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-26&g=2022-01-26) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26).
 
 2. Een taakstraf wordt voorts niet opgelegd in geval van veroordeling voor een misdrijf indien:
 
@@ -6520,7 +6532,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 14e
 
-De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-01&g=2022-01-01) gestelde voorwaarden en hierop uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
+De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2022-01-26&g=2022-01-26) gestelde voorwaarden en hierop uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
 ##### Artikel 14l
 
@@ -6546,7 +6558,7 @@ Vervallen
 
 - 1°. waarbij iemand wegens een strafbaar feit wordt veroordeeld;
 
-- 2°. waarbij overeenkomstig [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9a&z=2022-01-01&g=2022-01-01) wordt bepaald dat geen straf zal worden opgelegd.
+- 2°. waarbij overeenkomstig [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9a&z=2022-01-26&g=2022-01-26) wordt bepaald dat geen straf zal worden opgelegd.
 
 2. De maatregel kan inhouden dat de verdachte wordt bevolen:
 
@@ -6566,13 +6578,13 @@ Vervallen
 
 ##### Artikel 38w
 
-1. In het vonnis waarbij de maatregel als bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-01&g=2022-01-01) wordt opgelegd, beveelt de rechter dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.
+1. In het vonnis waarbij de maatregel als bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-26&g=2022-01-26) wordt opgelegd, beveelt de rechter dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.
 
 2. De rechter bepaalt in het vonnis de duur van de vervangende hechtenis die ten hoogste ten uitvoer wordt gelegd voor iedere keer dat niet aan de maatregel wordt voldaan. De duur van deze vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld en bedraagt ten minste drie dagen.
 
 3. De totale duur van de tenuitvoergelegde vervangende hechtenis bedraagt ten hoogste zes maanden.
 
-4. Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de maatregel, bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-01&g=2022-01-01), tweede lid, niet op.
+4. Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de maatregel, bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2022-01-26&g=2022-01-26), tweede lid, niet op.
 
 ##### Artikel 38x
 
@@ -6592,7 +6604,7 @@ Vervallen
 
 ##### Artikel 77za
 
-De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2022-01-01&g=2022-01-01) gestelde voorwaarden, en het op grond van [artikel 77aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77aa&z=2022-01-01&g=2022-01-01) uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
+De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2022-01-26&g=2022-01-26) gestelde voorwaarden, en het op grond van [artikel 77aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77aa&z=2022-01-26&g=2022-01-26) uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
 ##### Artikel 77cca
 
@@ -6620,7 +6632,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;
 
-- b. een van de misdrijven omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-01&g=2022-01-01), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-01&g=2022-01-01), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-01&g=2022-01-01) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01).
+- b. een van de misdrijven omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248a&z=2022-01-26&g=2022-01-26), [248b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248b&z=2022-01-26&g=2022-01-26), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-26&g=2022-01-26) en [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26).
 
 2. Van het eerste lid kan worden afgeweken indien naast de taakstraf, jeugddetentie, de maatregel betreffende het gedrag of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.
 
@@ -6630,7 +6642,7 @@ Vervallen
 
 ##### Artikel 86b
 
-Voor de toepassing van [Titel I van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&z=2022-01-01&g=2022-01-01) wordt onder het hebben van een vaste woon- of verblijfplaats in Nederland verstaan het rechtmatig verblijven in Nederland gedurende een onafgebroken periode van vijf jaar of langer.
+Voor de toepassing van [Titel I van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&z=2022-01-26&g=2022-01-26) wordt onder het hebben van een vaste woon- of verblijfplaats in Nederland verstaan het rechtmatig verblijven in Nederland gedurende een onafgebroken periode van vijf jaar of langer.
 
 ## Boek Tweede. Misdrijven
 
@@ -6688,7 +6700,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Met dezelfde straf wordt gestraft hij die in gevallen waarin biometrische kenmerken of biometrische persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, opzettelijk gebruik maakt van valse of vervalste biometrische kenmerken of biometrische persoonsgegevens als waren deze echt en onvervalst met het oogmerk om zijn identiteit te verhelen of de identiteit van een ander te misbruiken of opzettelijk gebruik maakt van biometrische kenmerken of biometrische persoonsgegevens van een ander met het oogmerk om de verdenking van een strafbaar feit op de ander of niet op hem te doen ontstaan.
 
-3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 231b
 
@@ -6708,7 +6720,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-De Nederlandse strafwet is toepasselijk op de schipper en opvarenden van een Nederlands vaartuig die zich buiten Nederland, ook buiten boord, schuldig maken aan een van de strafbare feiten omschreven in [Titel XXIX van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&z=2022-01-01&g=2022-01-01) en [Titel IX van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IX&z=2022-01-01&g=2022-01-01).
+De Nederlandse strafwet is toepasselijk op de schipper en opvarenden van een Nederlands vaartuig die zich buiten Nederland, ook buiten boord, schuldig maken aan een van de strafbare feiten omschreven in [Titel XXIX van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&z=2022-01-26&g=2022-01-26) en [Titel IX van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IX&z=2022-01-26&g=2022-01-26).
 
 ##### Artikel 8b
 
@@ -6730,7 +6742,7 @@ De Nederlandse strafwet is toepasselijk op de vreemdeling die zich buiten Nederl
 
 ##### Artikel 8d
 
-De toepasselijkheid van de [artikelen 2 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&artikel=2&z=2022-01-01&g=2022-01-01) wordt beperkt door de uitzonderingen in het volkenrecht erkend.
+De toepasselijkheid van de [artikelen 2 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&artikel=2&z=2022-01-26&g=2022-01-26) wordt beperkt door de uitzonderingen in het volkenrecht erkend.
 
 ## Titel II. Straffen
 
@@ -6780,11 +6792,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daardoor wederrechtelijk verhindering of bemoeilijking van de opslag, verwerking of overdracht van gegevens of stoornis in een telecommunicatienetwerk of in de uitvoering van een telecommunicatiedienst, ontstaat.
 
-2. [Artikel 138b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 138b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2022-01-26&g=2022-01-26), is van overeenkomstige toepassing.
 
 ##### Artikel 350d
 
-Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in [artikel 350a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-01&g=2022-01-01), of [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-01&g=2022-01-01) wordt gepleegd:
+Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in [artikel 350a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-26&g=2022-01-26), of [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-26&g=2022-01-26) wordt gepleegd:
 
 - a. een technisch hulpmiddel dat hoofdzakelijk geschikt gemaakt of ontworpen is tot het plegen van een zodanig misdrijf, vervaardigt, ontvangt, zich verschaft, overdraagt, verkoopt, verwerft, vervoert, invoert, uitvoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft, of
 
@@ -6800,7 +6812,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 285c
 
-Hij die opzettelijk een persoon buiten of naar Nederland lokt met het oogmerk ten aanzien van die persoon een in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-01&g=2022-01-01) omschreven misdrijf te plegen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+Hij die opzettelijk een persoon buiten of naar Nederland lokt met het oogmerk ten aanzien van die persoon een in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2022-01-26&g=2022-01-26) omschreven misdrijf te plegen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 ## Boek Derde. Overtredingen
 
@@ -6814,11 +6826,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Ter bescherming van de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen kan de rechter, ambtshalve of op vordering van het openbaar ministerie, een verdachte een maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking opleggen indien die verdachte bij die rechterlijke uitspraak:
 
-- a. ter beschikking wordt gesteld als bedoeld in de [artikelen 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37a&z=2022-01-01&g=2022-01-01), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-01&g=2022-01-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38&z=2022-01-01&g=2022-01-01);
+- a. ter beschikking wordt gesteld als bedoeld in de [artikelen 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37a&z=2022-01-26&g=2022-01-26), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2022-01-26&g=2022-01-26) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38&z=2022-01-26&g=2022-01-26);
 
 - b. wordt veroordeeld tot een gevangenisstraf, of een gevangenisstraf waarvan een gedeelte niet zal worden ten uitvoer gelegd, wegens een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen en waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;
 
-- c. wordt veroordeeld tot een gevangenisstraf, of een gevangenisstraf waarvan een gedeelte niet zal worden ten uitvoer gelegd, wegens een misdrijf als omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-01&g=2022-01-01), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-01&g=2022-01-01), [248d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248d&z=2022-01-01&g=2022-01-01), [248e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248e&z=2022-01-01&g=2022-01-01), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-01&g=2022-01-01), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-01&g=2022-01-01), [317, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-01&g=2022-01-01).
+- c. wordt veroordeeld tot een gevangenisstraf, of een gevangenisstraf waarvan een gedeelte niet zal worden ten uitvoer gelegd, wegens een misdrijf als omschreven in de [artikelen 240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240b&z=2022-01-26&g=2022-01-26), [248c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248c&z=2022-01-26&g=2022-01-26), [248d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248d&z=2022-01-26&g=2022-01-26), [248e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=248e&z=2022-01-26&g=2022-01-26), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=250&z=2022-01-26&g=2022-01-26), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-26&g=2022-01-26), [317, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2022-01-26&g=2022-01-26).
 
 2. Bij de vordering tot oplegging van de maatregel legt de officier van justitie een recent opgemaakt, met redenen omkleed en ondertekend advies over van een reclasseringsinstelling.
 
@@ -6968,37 +6980,37 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 120c
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-01&g=2022-01-01), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2022-01-01&g=2022-01-01) en [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 120b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120b&z=2022-01-01&g=2022-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2022-01-26&g=2022-01-26), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2022-01-26&g=2022-01-26) en [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 120b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120b&z=2022-01-26&g=2022-01-26), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 130b
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-01&g=2022-01-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2022-01-26&g=2022-01-26) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 176c
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-01&g=2022-01-01), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2022-01-01&g=2022-01-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2022-01-01&g=2022-01-01), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-01&g=2022-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-01&g=2022-01-01), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-01&g=2022-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-01&g=2022-01-01), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-01&g=2022-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-01&g=2022-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-01&g=2022-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-01&g=2022-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-01&g=2022-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-01&g=2022-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-01&g=2022-01-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 176b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176b&z=2022-01-01&g=2022-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2022-01-26&g=2022-01-26), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2022-01-26&g=2022-01-26), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2022-01-26&g=2022-01-26), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2022-01-26&g=2022-01-26), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2022-01-26&g=2022-01-26), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2022-01-26&g=2022-01-26), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2022-01-26&g=2022-01-26), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2022-01-26&g=2022-01-26), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2022-01-26&g=2022-01-26), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2022-01-26&g=2022-01-26), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2022-01-26&g=2022-01-26), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2022-01-26&g=2022-01-26), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2022-01-26&g=2022-01-26), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2022-01-26&g=2022-01-26), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 176b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176b&z=2022-01-26&g=2022-01-26), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 286a
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-01&g=2022-01-01), [282c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282c&z=2022-01-01&g=2022-01-01) en [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-01&g=2022-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2022-01-26&g=2022-01-26), [282c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282c&z=2022-01-26&g=2022-01-26) en [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2022-01-26&g=2022-01-26), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 295a
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-01&g=2022-01-01) en [289a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289a&z=2022-01-01&g=2022-01-01) alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2022-01-26&g=2022-01-26) en [289a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289a&z=2022-01-26&g=2022-01-26) alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 304c
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-01&g=2022-01-01) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 304b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304b&z=2022-01-01&g=2022-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2022-01-26&g=2022-01-26) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 304b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304b&z=2022-01-26&g=2022-01-26), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ## Titel XXIII. Afpersing en afdreiging
 
 ##### Artikel 354b
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-01&g=2022-01-01), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-01&g=2022-01-01), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-01&g=2022-01-01), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-01&g=2022-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-01&g=2022-01-01), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2022-01-26&g=2022-01-26), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2022-01-26&g=2022-01-26), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2022-01-26&g=2022-01-26), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2022-01-26&g=2022-01-26), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2022-01-26&g=2022-01-26), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ##### Artikel 415c
 
-Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-01&g=2022-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 415b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415b&z=2022-01-01&g=2022-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-01&g=2022-01-01), vermelde recht worden uitgesproken.
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2022-01-26&g=2022-01-26), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 415b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415b&z=2022-01-26&g=2022-01-26), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2022-01-26&g=2022-01-26), vermelde recht worden uitgesproken.
 
 ## Boek Derde. Overtredingen
 
@@ -7098,7 +7110,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 273g
 
-1. Hij die seksuele handelingen verricht met een ander, terwijl hij weet of ernstige reden heeft om te vermoeden dat die ander zich onder de in [artikel 273f, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-01&g=2022-01-01), bedoelde omstandigheden beschikbaar stelt tot het verrichten van seksuele handelingen met een derde tegen betaling, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+1. Hij die seksuele handelingen verricht met een ander, terwijl hij weet of ernstige reden heeft om te vermoeden dat die ander zich onder de in [artikel 273f, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2022-01-26&g=2022-01-26), bedoelde omstandigheden beschikbaar stelt tot het verrichten van seksuele handelingen met een derde tegen betaling, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. De schuldige wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie indien degene ten aanzien van wie het in het eerste lid omschreven feit wordt gepleegd een persoon is die de leeftijd van achttien jaren nog niet heeft bereikt.
 
@@ -7122,7 +7134,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De in het eerste en tweede lid bepaalde gevangenisstraf kan met een derde worden verhoogd, indien:
 
-- a. de schuldige zich op de besloten plaats, bedoeld in het eerste lid, de toegang heeft verschaft tot een gebouw, ruimte of vervoermiddel bestemd voor de distributie, opslag of overslag van goederen door middel van de handelingen, bedoeld in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138&z=2022-01-01&g=2022-01-01);
+- a. de schuldige zich op de besloten plaats, bedoeld in het eerste lid, de toegang heeft verschaft tot een gebouw, ruimte of vervoermiddel bestemd voor de distributie, opslag of overslag van goederen door middel van de handelingen, bedoeld in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138&z=2022-01-26&g=2022-01-26);
 
 - b. het feit wordt gepleegd door twee of meer verenigde personen.
 
