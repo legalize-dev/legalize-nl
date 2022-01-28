@@ -4,7 +4,7 @@ identifier: "BWBR0013904"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-28"
-last_updated: "2019-11-20"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013904"
 soort: "ministeriele-regeling"
@@ -49,17 +49,17 @@ Besluit:
 
 ##### Artikel 1
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2019-11-20&g=2019-11-20), [2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=2&z=2019-11-20&g=2019-11-20), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=3&z=2019-11-20&g=2019-11-20), [4, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=4&z=2019-11-20&g=2019-11-20) het eerste en tweede gedachtestreepje, en tweede lid, en 5, eerste lid, van [Verordening (EG) nr. 2580/2001](32001R2580) van de Raad van de Europese Unie van 27 december 2001 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme (Pb EG L 344) zijn van overeenkomstige toepassing ten aanzien van personen, groepen en entiteiten die met een ster zijn aangemerkt in de bijlage bij Gemeenschappelijk Standpunt van de Raad van de Europese Unie van 27 december 2001 nr. 2002/931/GBVB betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme (Pb EG L 344).
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2022-01-28&g=2022-01-28), [2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=2&z=2022-01-28&g=2022-01-28), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=3&z=2022-01-28&g=2022-01-28), [4, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=4&z=2022-01-28&g=2022-01-28) het eerste en tweede gedachtestreepje, en tweede lid, en 5, eerste lid, van [Verordening (EG) nr. 2580/2001](32001R2580) van de Raad van de Europese Unie van 27 december 2001 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme (Pb EG L 344) zijn van overeenkomstige toepassing ten aanzien van personen, groepen en entiteiten die met een ster zijn aangemerkt in de bijlage bij Gemeenschappelijk Standpunt van de Raad van de Europese Unie van 27 december 2001 nr. 2001/931/GBVB betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme (Pb EG L 344).
 
 2. Artikel 3, tweede lid, van [Verordening (EG) nr. 2580/2001](32001R2580) is van overeenkomstige toepassing met dien verstande dat de informatie, bedoeld in dat artikel, uitsluitend ter kennis van het Ministerie van Financiën wordt gebracht.
 
 ##### Artikel 2
 
-Overtreding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2019-11-20&g=2019-11-20) van overeenkomstige toepassing verklaarde [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=2&z=2019-11-20&g=2019-11-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=3&z=2019-11-20&g=2019-11-20) en [4, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=4&z=2019-11-20&g=2019-11-20) het eerste en tweede gedachtestreepje, ten aanzien van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2019-11-20&g=2019-11-20), bedoelde personen, groepen en entiteiten is verboden.
+Overtreding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2022-01-28&g=2022-01-28) van overeenkomstige toepassing verklaarde [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=2&z=2022-01-28&g=2022-01-28), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=3&z=2022-01-28&g=2022-01-28) en [4, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=4&z=2022-01-28&g=2022-01-28) het eerste en tweede gedachtestreepje, ten aanzien van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2022-01-28&g=2022-01-28), bedoelde personen, groepen en entiteiten is verboden.
 
 ##### Artikel 3
 
-De Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, kan, elk voor het gebied waartoe hun competentie zich uitstrekt, in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de toepassing van de artikelen, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2019-11-20&g=2019-11-20).
+De Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, kan, elk voor het gebied waartoe hun competentie zich uitstrekt, in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de toepassing van de artikelen, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013904&artikel=1&z=2022-01-28&g=2022-01-28).
 
 ##### Artikel 4
 
