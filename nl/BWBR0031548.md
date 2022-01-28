@@ -4,7 +4,7 @@ identifier: "BWBR0031548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-28"
-last_updated: "2019-12-20"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031548"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ##### Artikel 2
 
-1. Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.
+1. Aan de directeur wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van het [Besluit diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0032386), de [Regeling diergeneesmiddelen 2022](onbekend), [Verordening (EU) nr. 2019/6](31906R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van [Richtlijn 2001/82/EG](32001L0082) (PbEU 2019, L 4) en op die verordening gebaseerde gedelegeerde handelingen of uitvoeringshandelingen, die verband houden met vergunningen voor het in de handel brengen, vergunningen voor de vervaardiging, vergunningen voor groot- en kleinhandel, de kanalisatie van diergeneesmiddelen en overige onderwerpen die behoren tot het werkterrein van de directeur.
 
 2. Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346);
 
@@ -62,17 +62,17 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ##### Artikel 3
 
-1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2019-12-20&g=2019-12-20) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
+1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2022-01-28&g=2022-01-28) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
 
-2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie.
+2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-3. Een afschrift van besluiten inzake ondermandaat en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie en aan degenen aan wie krachtens het besluit ondermandaat en machtiging is verleend.
+3. Een afschrift van besluiten inzake ondermandaat en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat en machtiging is verleend.
 
 ##### Artikel 4
 
-Het krachtens mandaat ondertekenen van stukken geschiedt als volgt:
+1. Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
 
 namens deze:
 
@@ -81,6 +81,20 @@ namens deze:
 (naam functionaris)
 
 (functie)
+
+2. Het krachtens mandaat of machtiging ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
+
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
+
+namens deze:
+
+(naam functionaris)
+
+(functie)
+
+Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
+
+3. In uitzondering op het tweede lid kan een automatisch gegenereerd stuk ook met handtekening worden ondertekend. De ondertekening geschiedt dan zoals genoemd in het eerste lid.
 
 ##### Artikel 5
 
