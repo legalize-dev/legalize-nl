@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2022-01-01"
+last_updated: "2022-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -58,19 +58,19 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag.
 
-2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-01&g=2022-01-01), een dergelijke verlaging of verhoging rechtvaardigen.
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-29&g=2022-01-29), een dergelijke verlaging of verhoging rechtvaardigen.
 
-3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-01&g=2022-01-01), een dergelijke verlaging of verhoging rechtvaardigen.
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-29&g=2022-01-29), een dergelijke verlaging of verhoging rechtvaardigen.
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2022-01-29&g=2022-01-29) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-01&g=2022-01-01), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
+2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2022-01-29&g=2022-01-29), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
 #### § 2. Indeling van overtredingen in categorieën
 
@@ -130,6 +130,7 @@ Vervallen
 | [1:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), voor zover het betreft de niet-naleving van een met betrekking tot [artikel 4:24a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24a), gegeven aanwijzing | 3 |   |
 | [1:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75a) | 2 |   |
 | [1:76, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76) | 2 |   |
+| [1:76ba](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76ba) | 2 |   |
 | [1:77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:77) | 3 |   |
 | [1:77c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:77c) | 3 |   |
 | [1:77d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:77d) | 3 |   |
@@ -484,17 +485,28 @@ Vervallen
 | [3:306](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:306) | 2 |   |
 |   |   |   |
 | Deel [Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3a) |   |   |
+| [3A:11b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:11b) | 2 |   |
 | [3A:13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:13) | 2 |   |
-| [3A:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:14) | 3 |   |
-| [3A:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:15) | 3 |   |
-| [3A:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:16) | 3 |   |
+| [3A:13a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:13a) | 2 |   |
+| [3A:13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:13b) | 2 |   |
+| [3A:14, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:14) | 3 |   |
+| [3A:15, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:15) | 3 |   |
+| [3A:16, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:16) | 3 |   |
+| [3A:16b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:16b) | 3 |   |
+| [3A:20b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:20b) | 2 |   |
 | [3A:22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:22) | 2 |   |
 | [3A:26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:26) | 2 |   |
-| [3A:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:36) |   |   |
+| [3A:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:36) | 2 |   |
 | [3A:42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:42) | 2 |   |
 | [3A:45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:45) | 2 |   |
 | [3A:47, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:47) | 2 |   |
 | [3A:48, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:48) | 2 |   |
+| [3A:52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:52) | 2 |   |
+| [3A:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:53) | 2 |   |
+| [3A:54, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:54) | 2 |   |
+| [3A:56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:56) | 2 |   |
+| [3A:57a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:57a) | 2 |   |
+| [3A:63a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:63a) | 3 |   |
 | [3A:71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:71) | 3 |   |
 |   |   |   |
 | [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) |   |   |
@@ -528,6 +540,7 @@ Vervallen
 | [4:22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22) | 2 | P |
 | [4:22a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22a) | 2 |   |
 | [4:23, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) | 2 | P |
+| [4:23a, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23a) | 2 | P |
 | [4:24, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24) | 2 | P |
 | [4:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24) | 3 |   |
 | [4:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25) | 2 |   |
@@ -1743,7 +1756,7 @@ Dit besluit berust mede op de [artikelen 1:81, derde lid](https://wetten.overhei
 
 ##### Artikel 3a
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2022-01-29&g=2022-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2022-01-29&g=2022-01-29) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
 
 #### § 2. Indeling van overtredingen in categorieën, bijzondere boetemaxima en bijzondere termijnen openbaarmaking
 
