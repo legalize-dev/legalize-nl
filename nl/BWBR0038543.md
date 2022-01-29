@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2021-10-28"
+last_updated: "2022-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2021-10-28&g=2021-10-28) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-01-29&g=2022-01-29) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2021-10-28&g=2021-10-28).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-01-29&g=2022-01-29).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2021-10-28&g=2021-10-28)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-01-29&g=2022-01-29)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -372,10 +372,20 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1264 | Specialisatie plaatsen van beglazingssystemen |
 | K1265 | Specialisatie smart infra installatie, service en onderhoud |
 | K1049 | Waterstoftechnologie |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2022** | **Certificaten voor keuzedelen vanaf januari 2022** |
+| K1290 | Cloud Engineering |
+| K1272 | Eenvoudig modern meubelstofferen |
+| K0219 | Gezonde leefstijl |
+| K1296 | Helpende plus |
+| K1280 | Retailtransformatie als tactisch middel |
+| K1162 | Seniorenbewegingsleider |
+| K1261 | Smart maintenance, geschikt voor niveau 3 |
+| K1262 | Smart maintenance, geschikt voor niveau 4 |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2021-10-28&g=2021-10-28)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-01-29&g=2022-01-29)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -446,6 +456,16 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0067 | Ondersteunende audicienswerkzaamheden | 25047 | Audicien |
 | C0068 | Opsluiten en voormonteren van standaard houten kozijnen en ramen | 25583 | Montagemedewerker houttechniek |
 | C0069 | Plannen van ondersteunende begeleiding en zorg | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2022** |
+| C0070 | Aanbrengen, onderhouden en repareren van bitumineuze dakbedekkingsmaterialen | 25088 | Dakdekker bitumen en kunststof |
+| C0071 | Aanbrengen, onderhouden en repareren van kunststof dakbedekkingsmaterialen | 25088 | Dakdekker bitumen en kunststof |
+| C0072 | Coördineren van logistieke werkzaamheden | 25372 | Logistiek teamleider |
+| C0073 | Ondersteunende audicienswerkzaamheden | 25047 | Audicien |
+| C0074 | Optimaliseren van het logistieke proces | 25372 | Logistiek teamleider |
+| C0075 | Realiseren van aansluitingen op drinkwaterdistributienetten | 25272 | Monteur gas-, water- en warmtedistributie |
+| C0076 | Realiseren van aansluitingen op laagspanningsdistributienetten | 25273 | Monteur laagspanningsdistributie |
+| C0077 | Voorbereiden en stofferen van vloeren | 25659 | Interieurvakman woningstofferen |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
