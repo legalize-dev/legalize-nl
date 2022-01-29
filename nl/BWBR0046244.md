@@ -4,7 +4,7 @@ identifier: "BWBR0046244"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-20"
-last_updated: "2022-01-01"
+last_updated: "2022-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046244"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 ##### Artikel 6. Aanvraag
 
-1. Het college van gedeputeerde staten van een provincie kan een specifieke uitkering aanvragen voor een publiek-privaat haveninitiatief gelegen aan een van de vaarwegen op een van de goederenvervoercorridors en daarop aansluitende vaarwegen ten behoeve van de realisatie van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=3&z=2022-01-29&g=2022-01-01) omschreven doel.
+1. Het college van gedeputeerde staten van een provincie kan een specifieke uitkering aanvragen voor een publiek-privaat haveninitiatief gelegen aan een van de vaarwegen op een van de goederenvervoercorridors en daarop aansluitende vaarwegen ten behoeve van de realisatie van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=3&z=2022-01-29&g=2022-01-29) omschreven doel.
 
 2. Aanvragen kunnen jaarlijks tot 1 mei worden gedaan.
 
@@ -122,11 +122,11 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 De Minister beslist afwijzend op een aanvraag om een uitkering, indien:
 
-- a. de beoordelingsscore, als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-01), minder bedraagt dan 20 punten;
+- a. de beoordelingsscore, als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-29), minder bedraagt dan 20 punten;
 
 - b. er geen sprake is van cofinanciering door de provincie;
 
-- c. de private investeringsomvang bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=6&z=2022-01-29&g=2022-01-01), niet is aangetoond.
+- c. de private investeringsomvang bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=6&z=2022-01-29&g=2022-01-29), niet is aangetoond.
 
 ##### Artikel 8. Verlening
 
@@ -154,7 +154,7 @@ De ontvanger legt verantwoording af over de besteding van de uitkering op de wij
 
 ##### Artikel 12. Vaststelling
 
-De Minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=13&z=2022-01-29&g=2022-01-01), heeft plaatsgevonden.
+De Minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=13&z=2022-01-29&g=2022-01-29), heeft plaatsgevonden.
 
 ##### Artikel 13. Evaluatieverslag
 
@@ -172,7 +172,7 @@ De Minister publiceert voor 1 juli 2026 een verslag over de doeltreffendheid en 
 
 Deze regeling wordt aangehaald als: Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost en Zuidoost 2022–2026.
 
-## Bijlage. Toetsingscriteria, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-01)
+## Bijlage. Toetsingscriteria, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-29)
 
 ### a. Relevantie
 
