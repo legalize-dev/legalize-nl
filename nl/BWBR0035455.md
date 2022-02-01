@@ -4,7 +4,7 @@ identifier: "BWBR0035455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035455"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder besluit: [Warenwetbesluit hoeveelheden voo
 
 De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
-- a. € 2.190 voor een voorlopige erkenning als bedoeld in [artikel 5, derde lid, van het besluit](onbekend);
+- a. € 2.494 voor een voorlopige erkenning als bedoeld in [artikel 5, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&artikel=5);
 
-- b. € 1.540 voor een definitieve erkenning als bedoeld in [artikel 5, tweede lid, van het besluit](onbekend);
+- b. € 1.754 voor een definitieve erkenning als bedoeld in [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&artikel=5);
 
-- c. € 1.995 voor een certificaat als bedoeld in [artikel 6 van het besluit](onbekend).
+- c. € 2.272 voor een certificaat als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&artikel=6).
 
 ##### Artikel 3
 
