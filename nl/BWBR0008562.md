@@ -4,7 +4,7 @@ identifier: "BWBR0008562"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2014-01-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008562"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Vervallen
 
 2. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een speciale school voor basisonderwijs tenminste dient te bevatten, bedraagt 6,6 m2. Tevens geldt per school en per nevenvestiging een vaste voet van ten minste 90 m2.
 
-3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2014-01-01&g=2014-01-01).
+3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2022-02-01&g=2022-02-01).
 
 ##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
@@ -147,9 +147,9 @@ Vervallen
 
 Dit besluit is niet van toepassing op:
 
-- a. scholen voor voortgezet onderwijs die deel uitmaken van een scholengemeenschap met een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
+- a. scholen voor voortgezet onderwijs die deel uitmaken van een verticale scholengemeenschap met een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
 
-- b. scholen voor mavo die deel uitmaken van een scholengemeenschap met een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), en
+- b. scholen voor mavo die deel uitmaken van een verticale scholengemeenschap met een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), en
 
 - c. vbo dat wordt verzorgd in een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
@@ -160,5 +160,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 6a. Omhangbepaling
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
