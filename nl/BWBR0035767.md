@@ -4,7 +4,7 @@ identifier: "BWBR0035767"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-04"
-last_updated: "2014-11-25"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035767"
 soort: "ministeriele-regeling"
@@ -56,13 +56,13 @@ Aan het hoofd van de Immigratie- en Naturalisatiedienst van het Ministerie van V
 
 Het hoofd van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie wordt in zijn functie als hoofd van de Visadienst gemachtigd tot:
 
-- a. het verrichten van alle benodigde werkzaamheden, niet zijnde instructies ten aanzien van functionarissen werkzaam op een vertegenwoordiging van het Koninkrijk in het buitenland, ter voorbereiding van de besluiten, het instellen van rechtsmiddelen en het in rechte vertegenwoordigen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2014-11-25), en
+- a. het verrichten van alle benodigde werkzaamheden, niet zijnde instructies ten aanzien van functionarissen werkzaam op een vertegenwoordiging van het Koninkrijk in het buitenland, ter voorbereiding van de besluiten, het instellen van rechtsmiddelen en het in rechte vertegenwoordigen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2022-02-01), en
 
 - b. het ontvangen van de vergoedingen die ingevolge [artikel 2 van de rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2) juncto [artikel 1, onder s, sub 6° dan wel 7°, van de Regeling op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1) aan de Minister van Buitenlandse Zaken zijn verschuldigd ter zake van de afdoening van aanvragen voor toegang en verblijf respectievelijk tot het verlenen van een machtiging tot voorlopig verblijf.
 
 ##### Artikel 3
 
-1. Het hoofd van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie kan in zijn functie als hoofd van de Visadienst met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2014-11-25) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=2&z=2014-11-25&g=2014-11-25), ondermandaat en machtiging verlenen aan:
+1. Het hoofd van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie kan in zijn functie als hoofd van de Visadienst met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2022-02-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=2&z=2014-11-25&g=2022-02-01), ondermandaat en machtiging verlenen aan:
 
 - a. één of meer onder hem ressorterende functionarissen;
 
@@ -72,7 +72,7 @@ Het hoofd van de Immigratie- en Naturalisatiedienst van het Ministerie van Veili
 
 - d. ambtenaren belast met de grensbewaking dan wel het toezicht op personen, bedoeld in [artikel 22a van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22a).
 
-2. In afwijking van het eerste lid kan geen ondermandaat of machtiging worden verleend aan de ambtenaren, bedoeld onder b, c en d, van de bevoegdheden, bedoeld in [artikel 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2014-11-25), en [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=2&z=2014-11-25&g=2014-11-25).
+2. In afwijking van het eerste lid kan geen ondermandaat of machtiging worden verleend aan de ambtenaren, bedoeld onder b, c en d, van de bevoegdheden, bedoeld in [artikel 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=1&z=2014-11-25&g=2022-02-01), en [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035767&artikel=2&z=2014-11-25&g=2022-02-01).
 
 ##### Artikel 4
 
