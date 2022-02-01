@@ -4,7 +4,7 @@ identifier: "BWBR0039819"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2020-11-25"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039819"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** adviescommissie, bedoeld in [artikel 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), [artikel 53h, vierde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h), [artikel 2.1.11, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.11), en [artikel 16.16b, derde lid van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b);
+- b. **commissie:** adviescommissie, bedoeld in [artikel 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), [artikel 53h, vierde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h), [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), en [artikel 16.16b, derde lid van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b);
 
 - c. **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
@@ -64,9 +64,9 @@ In deze regeling wordt verstaan onder:
 
 - h. **school:** school als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- i. **instelling:** instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 1.8 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
+- i. **instelling:** instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 1.8 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
-- j. **fusie:** fusie als bedoeld in [artikel 64 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64), [artikel 66 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66), [artikel 53e van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e), [artikel 2.1.8 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), en [artikel 16.16 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16);
+- j. **fusie:** fusie als bedoeld in [artikel 64 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64), [artikel 66 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66), [artikel 53e van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e), [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 16.16 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16);
 
 - k. **mbo-student:** student als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
@@ -76,17 +76,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanvraag
 
-1. Het modelformulier voor de aanvraag wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1&z=2020-11-25&g=2020-11-25). Voor de aanvraag kan tevens het digitale aanvraagformulier van de website van de Dienst Uitvoering Onderwijs worden gebruikt. Dit is te vinden op: https://www.duo.nl/zakelijk/formulieren/.
+1. Het modelformulier voor de aanvraag wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1&z=2022-02-01&g=2022-02-01). Voor de aanvraag kan tevens het digitale aanvraagformulier van de website van de Dienst Uitvoering Onderwijs worden gebruikt. Dit is te vinden op: https://www.duo.nl/zakelijk/formulieren/.
 
-2. Het modelformulier voor de fusie-effectrapportage wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=2&z=2020-11-25&g=2020-11-25).
+2. Het modelformulier voor de fusie-effectrapportage wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=2&z=2022-02-01&g=2022-02-01).
 
-3. De aanvraag en daarbij behorende stukken, bedoeld in [artikel 64b, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64b), [artikel 66b, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66b), [artikel 53g, eerste lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53g), [artikel 2.1.10, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.10) of [artikel 16.16a, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16a), worden ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+3. De aanvraag en daarbij behorende stukken, bedoeld in [artikel 64b, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64b), [artikel 66b, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66b), [artikel 53g, eerste lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53g), [artikel 2.1.7, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7) of [artikel 16.16a, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16a), worden ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 3. Advisering
 
-1. De noodzaak tot advisering ten aanzien van de goedkeuring, bedoeld in [artikel 64c, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 53h, derde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h) en [artikel 66c, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), en voor bestuurlijke fusies als bedoeld in [artikel 17 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17), [artikel 53c van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53c), of [artikel 28 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28), ontbreekt.
+1. De noodzaak tot advisering ten aanzien van de goedkeuring, bedoeld in [artikel 64c, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 53h, derde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h) en [artikel 66c, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), en voor bestuursoverdrachten als bedoeld in [artikel 17 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17), [artikel 53c van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53c), of [artikel 28 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28), ontbreekt.
 
-2. Fusies waarbij zowel een school als bedoeld in [art. 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), als een instelling als bedoeld in [art. 1.1.1, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of een instelling voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), is betrokken, worden voor advies voorgelegd aan de commissie als bedoeld in [artikel 2.1.11, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.11) of als bedoeld in [artikel 16.16b, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b).
+2. Fusies waarbij zowel een school als bedoeld in [art. 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), als een instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of een instelling voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), is betrokken, worden voor advies voorgelegd aan de commissie als bedoeld in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) of als bedoeld in [artikel 16.16b, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b).
 
 ##### Artikel 4. Noodzaak tot advisering
 
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 5. Toetscriteria
 
-Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=3&z=2020-11-25&g=2020-11-25), en in [artikel 2.1.11, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.11), onderzoekt de commissie of sprake is van een significante belemmering van de daadwerkelijke variatie in het onderwijsaanbod, bedoeld in artikel 2.1.11, eerste lid, van de WEB, waarbij de commissie in haar advies ten aanzien van de goedkeuring in ieder geval de volgende aspecten betrekt bij de afweging of er sprake is van een significante belemmering:
+Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=3&z=2022-02-01&g=2022-02-01), en in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), onderzoekt de commissie of sprake is van een significante belemmering van de daadwerkelijke variatie in het onderwijsaanbod, bedoeld in artikel 2.1.8, eerste lid, van de WEB, waarbij de commissie in haar advies ten aanzien van de goedkeuring in ieder geval de volgende aspecten betrekt bij de afweging of er sprake is van een significante belemmering:
 
 - a. de regionale context, waaronder begrepen leerlingendaling;
 
@@ -128,7 +128,7 @@ In het hoger onderwijs is in ieder geval sprake van een significante belemmering
 
 ##### Artikel 7. Rechtvaardigingsgronden
 
-Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=3&paragraaf=2&artikel=6&z=2020-11-25&g=2020-11-25), kunnen in het hoger onderwijs in ieder geval zijn:
+Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=3&paragraaf=2&artikel=6&z=2022-02-01&g=2022-02-01), kunnen in het hoger onderwijs in ieder geval zijn:
 
 - a. de omstandigheid dat bij het achterwege blijven van de fusie de continuïteit of de variatie van het onderwijsaanbod in gevaar komt, hetgeen onder meer kan blijken uit een daling of binnen vijf jaar te verwachten daling van het aantal ho-studenten;
 
@@ -164,7 +164,9 @@ Deze regeling wordt aangehaald als: Regeling en beleidsregels fusietoets in het 
 
 Met dit formulier vraagt u om goedkeuring voor een fusie. De fusie-effectrapportage is onderdeel van deze aanvraag, alsmede – afhankelijk van de onderwijssector waar de aanvraag betrekking op heeft – de instemming of het advies van de relevante medezeggenschapsorganen of de uitspraak van de geschillencommissie of de Ondernemingskamer. Wanneer één van de verplichte bijlagen ontbreekt of niet alle vragen zijn ingevuld (voor zover van toepassing), wordt de aanvraag niet in behandeling genomen.
 
-De aanvraag kan ook digitaal worden ingediend via de website van DUO (https://www.duo.nl/zakelijk/formulieren/). Het digitaal formulier van DUO bevat een aantal aanvullende vragen waarmee de behandeling van de aanvraag wordt vereenvoudigd.
+Met dit formulier vraagt u om goedkeuring voor een fusie. De fusie-effectrapportage is onderdeel van deze aanvraag, alsmede – afhankelijk van de onderwijssector waar de aanvraag betrekking op heeft – de instemming of het advies van de relevante medezeggenschapsorganen of de uitspraak van de geschillencommissie of de Ondernemingskamer. Wanneer één van de verplichte bijlagen ontbreekt of niet alle vragen zijn ingevuld (voor zover van toepassing), wordt de aanvraag niet in behandeling genomen.
+
+### 1. Gegevens contactpersoon
 
 ### 1. Gegevens contactpersoon
 
@@ -176,11 +178,13 @@ De aanvraag kan ook digitaal worden ingediend via de website van DUO (https://ww
 
 ### 5. Indien sprake is van een bestuursoverdracht: welke scholen/ instellingen gaan over naar een ander bestuur
 
-### 6. Ondertekening
+### 6. Gevolgen voor een verticale scholengemeenschap (indien van toepassing)
 
-### 7. Bijlage(n)
+### 7. Ondertekening
 
-### Toelichting
+### 8. Bijlage(n)
+
+Bij een bestuursoverdracht worden één of meer scholen van het ene bestuur overgedragen naar een ander bestuur, maar beide besturen blijven bestaan. Bij een institutionele fusie fuseren twee of meer scholen/ instellingen tot één school/ instelling. Bij een fusie waarbij scholen institutioneel fuseren, maar onder verschillende besturen vallen, is eerst een bestuursoverdracht noodzakelijk. Bij deze fusiebeweging wordt alleen getoetst aan de criteria voor institutionele fusies, aangezien er geen overdracht van de instandhouding van een school plaatsvindt.
 
 ### Bij 2 Type fusie
 
@@ -188,7 +192,7 @@ Bij een bestuursoverdracht worden één of meer scholen van het ene bestuur over
 
 ### Bij 3 Gegevens fusiepartners
 
-Vul voor iedere fusiepartner de gegevens onder 3.1 t/m 3.3 in. Wanneer sprake is van een bestuurlijke fusie wordt de vijfcijferige code van het bevoegd gezag ingevuld, wanneer sprake is van een institutionele fusie moet u het zescijferige BRIN-nummer van de school of instelling opgeven.
+Vul voor iedere fusiepartner de gegevens onder 3.1 t/m 3.3 in. Wanneer sprake is van een bestuursoverdracht wordt de vijfcijferige code van het bevoegd gezag ingevuld, wanneer sprake is van een institutionele fusie moet u het zescijferige BRIN-nummer van de school of instelling opgeven.
 
 ### Bij 4 Overblijvende partij
 
@@ -198,15 +202,19 @@ Deze vraag hoeft niet ingevuld te worden wanneer sprake is van een bestuursoverd
 
 Vul hier in het geval van een bestuursoverdracht in welke scholen/ instellingen overgaan naar een ander bevoegd gezag. Voor iedere school/ instelling worden alle gegevens ingevuld.
 
-### Bij 6 Ondertekening
+### Bij 6 Gevolgen voor een verticale scholengemeenschap
 
-Bij een bestuurlijke fusie moet er namens elk bestuur worden getekend. Als het gaat om een institutionele fusie binnen één bestuur, dan moet alleen dat bestuur tekenen. Bij een institutionele fusie van scholen van meerdere besturen, moeten alle besturen ondertekenen.
-
-### Bij 7 Aantal meegezonden bijlagen
-
-Stuur met dit formulier de volgende bijlagen mee
+Vul deze gegevens in indien bij de fusie een school, scholengemeenschap en/of instelling is betrokken die deel uitmaakt of gaat uitmaken van een verticale scholengemeenschap. Er is sprake van een wijziging van een bestaande verticale scholengemeenschap indien het aantal schoolsoorten in die verticale scholengemeenschap wijzigt. Wijzigt het aantal schoolsoorten in de verticale scholengemeenschap niet maar heeft de fusie op een andere wijze gevolgen voor de verticale scholengemeenschap, beschrijf dit dan onder ‘Anders, namelijk’. Hierbij kan bijvoorbeeld worden gedacht aan een situatie waarin twee categorale scholen binnen een verticale scholengemeenschap institutioneel fuseren tot een scholengemeenschap. Zie voor de verdere eisen die gelden bij de vorming, wijziging of beëindiging van een verticale scholengemeenschap de [Regeling verticale scholengemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0046250).
 
 ## Bijlage 2. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2020-11-25&g=2020-11-25), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+
+### Modelformulier fusie-effectrapportage
+
+### Bij 8 Aantal meegezonden bijlagen
+
+### 1. Beoogde fusie en aanleiding voor de fusie
+
+### 2. Communicatie over de fusie
 
 ### Modelformulier fusie-effectrapportage
 
@@ -220,7 +228,7 @@ Stuur met dit formulier de volgende bijlagen mee
 
 ### 4. Effecten van de fusie op keuzevrijheid, diversiteit en bereikbaarheid
 
-### 5. Kosten en baten van de fusie
+Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijlage bij de fusie-effectrapportage.
 
 ### 6. Evaluatie van de fusie
 
@@ -228,7 +236,7 @@ Stuur met dit formulier de volgende bijlagen mee
 
 ### Bijlagen
 
-Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijlage bij de fusie-effectrapportage.
+### 2. Communicatie over de fusie
 
 ### Modelformulier fusie-effectrapportage
 
@@ -256,26 +264,50 @@ Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijl
 
 ### 3. Doelen
 
-### 4. Effecten op diversiteit
-
-### 5. Kosten en baten
-
-### 6. Effecten op personeel en ho-studenten
-
-### 7. Communicatie en evaluatie
-
 ## Bijlage 3. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=4&z=2020-11-25&g=2020-11-25), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
 
 Vervallen
 
-### Paragraaf 1. Berekeningswijze demografische krimp in het primair onderwijs
+### 5. Kosten en baten
 
 Voor het basisonderwijs en het (voortgezet) speciaal onderwijs wordt de verwachte demografische krimp van 15% of meer in de gemeente van tenminste één van de fuserende scholen berekend aan de hand van het databestand ‘Groei en krimp aantal leerlingen (bo en sbo)’ dat jaarlijks door DUO wordt bijgesteld en te raadplegen valt op: https://www.duo.nl/open_onderwijsdata/databestanden/po/leerlingen-po/bo-sbo/prog-8.jsp.
 
-### Paragraaf 2. Berekeningswijze demografische krimp in het voortgezet onderwijs
+### 7. Communicatie en evaluatie
 
 Voor het voortgezet onderwijs wordt de verwachte demografische krimp van 15% of meer van het aantal leerlingen op tenminste één van de fuserende scholen berekend aan de hand van het databestand ‘Groei en krimp aantal leerlingen in het voortgezet onderwijs’ dat jaarlijks door DUO wordt bijgesteld en te raadplegen valt op: https://duo.nl/open_onderwijsdata/databestanden/vo/leerlingen/leerlingen-vo-12.jsp.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Ingangsdatum fusie
+
+Indien er sprake is van samenloop met een vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [paragraaf 3 van de Regeling verticale scholengemeenschap](onbekend), vinden de fusie en de vorming, wijziging of beëindiging van de verticale scholengemeenschap gelijktijdig plaats op 1 augustus van enig kalenderjaar.
+
+## Bijlage 1. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+
+### Aanvraag fusietoets
+
+De aanvraag kan ook digitaal worden ingediend via de website van DUO (https://www.duo.nl/zakelijk/formulieren/). Het digitaal formulier van DUO bevat een aantal aanvullende vragen waarmee de behandeling van de aanvraag wordt vereenvoudigd.
+
+### Toelichting
+
+### Bij 7 Ondertekening
+
+Bij een bestuursoverdracht moet er namens elk bestuur worden getekend. Als het gaat om een institutionele fusie binnen één bestuur, dan moet alleen dat bestuur tekenen. Bij een institutionele fusie van scholen van meerdere besturen, moeten alle besturen ondertekenen.
+
+Stuur met dit formulier de volgende bijlagen mee
+
+## Bijlage 2. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+
+### 5. Kosten en baten van de fusie
+
+Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijlage bij de fusie-effectrapportage.
+
+### 4. Effecten op diversiteit
+
+### 6. Effecten op personeel en ho-studenten
+
+## Bijlage 3. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=4&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+
+Vervallen
