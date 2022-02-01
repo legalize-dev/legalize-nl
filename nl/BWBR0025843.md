@@ -4,7 +4,7 @@ identifier: "BWBR0025843"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-01"
-last_updated: "2020-11-25"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025843"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **instelling:** instelling als bedoeld in [artikel 1.1.1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **instelling:** instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **splitsing:** elke rechtshandeling van een rechtspersoon die een bekostigde instelling in stand houdt die ertoe leidt dat twee of meer instellingen ontstaan door splitsing van een instelling.
 
@@ -72,15 +72,17 @@ Vervallen
 
 ##### Artikel 5. Voorwaarden aanvraag
 
-De rechtspersoon dient een aanvraag als bedoeld in [artikel 2.1.3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.3) in bij de minister. De aanvraag gaat vergezeld van:
+De rechtspersoon dient een aanvraag als bedoeld in [artikel 2.1.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4) in bij de minister. De aanvraag:
 
-- a. een door de rechtspersoon opgestelde effectrapportage splitsing, en
+- a. gaat vergezeld van een door de rechtspersoon opgestelde effectrapportage splitsing;
 
-- b. een schriftelijke advies over de splitsing van de betrokken medezeggenschapsraad.
+- b. gaat vergezeld van een schriftelijk advies over de splitsing van de betrokken medezeggenschapsraden; en
+
+- c. vermeldt of de te splitsen instelling deel uitmaakt van een verticale scholengemeenschap.
 
 ##### Artikel 6. Effectrapportage splitsing
 
-De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2020-11-25&g=2020-11-25), bevat een weergave van:
+De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2022-02-01&g=2022-02-01), bevat een weergave van:
 
 - a. de motieven voor de splitsing,
 
@@ -121,5 +123,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling splitsingtoets BVE.
+
+Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Grondslag
+
+Deze regeling berust op [artikel 2.1.4, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4).
 
 Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
