@@ -4,7 +4,7 @@ identifier: "BWBR0044042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-15"
-last_updated: "2022-01-13"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044042"
 soort: "ministeriele-regeling"
@@ -158,9 +158,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - j. viercijferige postcode van de beoogde plaats van vestiging;
 
-- k. gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel; en
+- k. gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel;
 
-- l. beschrijving van het onderwijskundig concept in ten hoogste 3000 tekens.
+- l. beschrijving van het onderwijskundig concept in ten hoogste 3000 tekens; en
+
+- m. indien van toepassing: dat de te splitsen school of scholengemeenschap deel uitmaakt van een verticale scholengemeenschap.
 
 2. Uit het document, bedoeld in [artikel 67a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), blijkt dat in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 15 september van het kalenderjaar van de aanvraag de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
 
@@ -170,7 +172,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 67a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-13&g=2022-01-13), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-02-01&g=2022-02-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 7. Verblijfsjaren
 
@@ -290,9 +292,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Bij een aanvraag tot bekostiging voor een school of scholengemeenschap die ontstaat na splitsing als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64):
 
-- a. zijn van [artikel 4 het eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2022-01-13&g=2022-01-13) met uitzondering van onderdeel h van overeenkomstige toepassing;
+- a. zijn van [artikel 4 het eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=4&z=2022-02-01&g=2022-02-01) met uitzondering van onderdeel h van overeenkomstige toepassing;
 
-- b. is [artikel 5, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-01-13&g=2022-01-13), van overeenkomstige toepassing;
+- b. is [artikel 5, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-02-01&g=2022-02-01), van overeenkomstige toepassing;
 
 - c. is een splitsingsplan gevoegd; en
 
@@ -360,9 +362,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien het bevoegd gezag dat reeds bekostigd wordt voor het verzorgen van leerwegondersteunend onderwijs, bij de minister een aanvraag indient om dit onderwijs in meer leerwegen of op meer vestigingen te verzorgen, neemt de minister hierover een besluit.
 
-2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-13&g=2022-01-13).
+2. De aanvraag is voorzien van de gegevens, bedoeld in [artikel 14, derde lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-02-01&g=2022-02-01).
 
-3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-01-13&g=2022-01-13).
+3. Indien een samenwerkingsverband op grond van [artikel 17a1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a1), een school die gerechtigd is tot het verzorgen van leerweg ondersteunend onderwijs voordraagt om in aanmerking te komen om dit onderwijs in meer leerwegen of op meer vestigingen te kunnen verzorgen, voorziet het samenwerkingsverband de aanvraag van de gegevens, bedoeld in [artikel 14, vierde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=14&z=2022-02-01&g=2022-02-01).
 
 4. De aanvraag tot uitbreiding leerwegondersteunend onderwijs wordt ingediend in het digitale portaal via de website www.duo.nl.
 
@@ -414,9 +416,11 @@ Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de verplaatsing, bedo
 
 - b. achternaam, voorletters, telefoonnummer en e-mailadres van de contactpersoon van het bevoegd gezag;
 
-- c. het registratienummer van de onderwijsinstelling, naam van de school, adres, postcode, plaats, aangeboden afsluitend onderwijs en gewenst afsluitend onderwijs van de hoofdvestiging; en
+- c. het registratienummer van de onderwijsinstelling, naam van de school, adres, postcode, plaats, aangeboden afsluitend onderwijs en gewenst afsluitend onderwijs van de hoofdvestiging;
 
-- d. indien van toepassing: het registratienummer van de onderwijsinstelling, naam van de school, adres, postcode, plaats, aangeboden afsluitend onderwijs en gewenst afsluitend onderwijs van de nevenvestiging.
+- d. indien van toepassing: het registratienummer van de onderwijsinstelling, naam van de school, adres, postcode, plaats, aangeboden afsluitend onderwijs en gewenst afsluitend onderwijs van de nevenvestiging; en
+
+- e. indien van toepassing: dat de scholengemeenschap waar de school van afsplitst, deel uitmaakt van een verticale scholengemeenschap en of die school na afsplitsing binnen de verticale scholengemeenschap blijft of, zodat sprake is van een inkrimping als bedoeld in de [Regeling verticale scholengemeenschap](onbekend), daarbuiten wordt gebracht.
 
 2. De aanvraag wordt ingediend in het digitale portaal via de website www.duo.nl.
 
