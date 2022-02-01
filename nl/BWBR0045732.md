@@ -4,7 +4,7 @@ identifier: "BWBR0045732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-01"
-last_updated: "2022-01-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045732"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Wijzigt de Regeling uitvoering Wet arbeid vreemdelingen 2014.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2022.
 
-2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045732&artikel=I&z=2022-01-01&g=2022-01-01), vervalt met ingang van 1 februari 2022, met dien verstande dat [paragraaf 19c van de Regeling uitvoering Wet arbeid vreemdelingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) zoals die luidt op de dag voor de vervaldatum, van toepassing blijft op:
+2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045732&artikel=I&z=2022-02-01&g=2022-02-01), vervalt met ingang van 1 februari 2022, met dien verstande dat [paragraaf 19c van de Regeling uitvoering Wet arbeid vreemdelingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) zoals die luidt op de dag voor de vervaldatum, van toepassing blijft op:
 
 - a. tewerkstellingsvergunningen of gecombineerde vergunningen die zijn verleend op grond van [paragraaf 19c van de Regeling uitvoering Wet arbeid vreemdelingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I);
 
-- b. aanvragen die zijn ontvangen voorafgaand aan het vervallen van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045732&artikel=I&z=2022-01-01&g=2022-01-01);
+- b. aanvragen die zijn ontvangen voorafgaand aan het vervallen van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045732&artikel=I&z=2022-02-01&g=2022-02-01);
 
 - c. de afwikkeling van bezwaar- en beroepsprocedures ten aanzien van vergunningen als bedoeld in onderdeel a, of aanvragen als bedoeld in onderdeel b.
 
