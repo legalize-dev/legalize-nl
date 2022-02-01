@@ -4,7 +4,7 @@ identifier: "BWBR0045183"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2022-01-01"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045183"
 soort: "beleidsregel"
@@ -58,7 +58,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet inburgering 2021]
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel diploma-erkenning opleidingen overige educatie (2021).
 
-## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045183&artikel=1&z=2022-01-01&g=2022-01-01)
+## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045183&artikel=1&z=2022-02-01&g=2022-02-01)
 
 ### Aanleiding
 
@@ -82,11 +82,11 @@ Verder vallen de opleidingen voortgezet algemeen volwassenenonderwijs (vavo) nie
 
 ### 2. Wie kan diploma-erkenning aanvragen?
 
-Degene die eindverantwoordelijk is voor de opleiding vraagt de diploma-erkenning aan. De [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) noemt dit het ‘bevoegd gezag’ van een instelling.
+Degene die eindverantwoordelijk is voor de opleiding vraagt de diploma-erkenning aan. De WEB noemt dit het ‘bevoegd gezag’ van een instelling.
 
-Dit kan een uit ’s Rijks kas bekostigde mbo-instelling zijn die naast haar wettelijke taak een of meer opleidingen overige educatie wil verzorgen. In dat geval is het bevoegd gezag het college van bestuur van de mbo-instelling.4Artikel 1.1.1, sub w, onder 2, en artikel 1.4a.1, tweede lid, van de WEB.
+Dit kan een uit ’s Rijks kas bekostigde mbo-instelling zijn die naast haar wettelijke taak een of meer opleidingen overige educatie wil verzorgen.4Artikel 1.4a.1, tweede lid, WEB. In dat geval is het bevoegd gezag de rechtspersoon die de instelling in stand houdt.
 
-Het kan ook om een andere instelling dan een uit ’s Rijks kas bekostigde mbo-instelling gaan. Meestal betreft deze categorie private ofwel niet-bekostigde instellingen, maar het kan bijvoorbeeld ook om een uit ’s Rijks kas bekostigde ho-instelling gaan. In dat geval is het bevoegd gezag het bestuur van de rechtspersoon die de instelling in stand houdt. Hierbij kan men denken aan het bestuur van een BV of, in het voorbeeld van de uit ’s Rijks kas bekostigde ho-instelling, het bestuur van een stichting. Een niet-bekostigde instelling kan ook in stand worden gehouden door een natuurlijk persoon in plaats van een rechtspersoon. Dan is deze natuurlijke persoon het bevoegd gezag.5Artikel 1. 1.1.1, sub w, onder 3, en artikel 1.4a.1, tweede lid, van de WEB.
+Het kan ook om een andere instelling dan een uit ’s Rijks kas bekostigde mbo-instelling gaan.5Artikel 1.4a.1, tweede lid, WEB. Meestal betreft deze categorie private ofwel niet-bekostigde instellingen, maar het kan bijvoorbeeld ook om een uit ’s Rijks kas bekostigde ho-instelling gaan. In dat geval is het bevoegd gezag eveneens de rechtspersoon die de instelling in stand houdt. Hierbij kan men denken aan het bestuur van een BV of, in het voorbeeld van de uit ’s Rijks kas bekostigde ho-instelling, het bestuur van een stichting. Een niet-bekostigde instelling kan ook in stand worden gehouden door een natuurlijke persoon in plaats van een rechtspersoon. Dan is deze natuurlijke persoon het bevoegd gezag.
 
 ### 3. Aanvraagformulier, inzend- en beslistermijn
 
