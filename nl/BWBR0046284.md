@@ -4,7 +4,7 @@ identifier: "BWBR0046284"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-08"
-last_updated: "2022-01-01"
+last_updated: "2022-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046284"
 soort: "ministeriele-regeling"
@@ -38,7 +38,15 @@ entry_into_force: "2022-02-08"
 
 ##### Artikel 1. Definities
 
-Dit onderdeel is nog niet inwerking getreden
+In deze aanwijzing wordt verstaan onder:
+
+- –. **Aanwijzing coronakosten:** Aanwijzing inzake de meerkosten en continuïteitsbijdrage vanwege het coronavirus in curatieve en forensische zorg1Aanwijzing van de Minister voor Medische Zorg van 23 april 2020, met kenmerk 1677978-204496-PZO, inzake de meerkosten en continuïteitsbijdrage vanwege het coronavirus in curatieve en forensische zorg.;
+
+- –. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+
+- –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+
+- –. **prestatiebeschrijving meerkosten:** de prestatiebeschrijving zoals omschreven in artikel 3, tweede lid, van de Aanwijzing coronakosten.
 
 ##### Artikel 2. Opdracht
 
