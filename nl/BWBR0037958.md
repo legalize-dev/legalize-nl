@@ -4,7 +4,7 @@ identifier: "BWBR0037958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-07-03"
+last_updated: "2022-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037958"
 soort: "ministeriele-regeling"
@@ -139,9 +139,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.4
 
-1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2021-07-03&g=2021-07-03), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
+1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2022-02-16&g=2022-02-16), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
 
-2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2021-07-03&g=2021-07-03), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
+2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2022-02-16&g=2022-02-16), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
 
 ##### Artikel 2.5
 
@@ -157,7 +157,7 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.7
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2021-07-03&g=2021-07-03) is van overeenkomstige toepassing op het tabaksproduct zelf.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2022-02-16&g=2022-02-16) is van overeenkomstige toepassing op het tabaksproduct zelf.
 
 ##### Artikel 2.8
 
@@ -189,7 +189,7 @@ De etikettering van een verpakkingseenheid of buitenverpakking van een tabakspro
 
 1. Een gezondheidswaarschuwing op een verpakkingseenheid en een buitenverpakking van tabaksproducten die in de handel worden gebracht voldoen aan artikel 8, eerste tot en met vierde lid, van de tabaksproductenrichtlijn.
 
-2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2021-07-03&g=2021-07-03), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2021-07-03&g=2021-07-03), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2021-07-03&g=2021-07-03) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2021-07-03&g=2021-07-03) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
+2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2022-02-16&g=2022-02-16), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2022-02-16&g=2022-02-16), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2022-02-16&g=2022-02-16) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2022-02-16&g=2022-02-16) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
 
 3. Een gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van een tabaksproduct wordt omgeven door een 1 mm brede zwarte rand, binnen de voor deze gezondheidswaarschuwing bestemde oppervlakte. Deze eis geldt niet voor de gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2).
 
@@ -449,9 +449,9 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.4
 
-1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2021-07-03&g=2021-07-03), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2021-07-03&g=2021-07-03) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2021-07-03&g=2021-07-03) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
+1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2022-02-16&g=2022-02-16), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2022-02-16&g=2022-02-16) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2022-02-16&g=2022-02-16) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
 
-2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2021-07-03&g=2021-07-03), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2021-07-03&g=2021-07-03) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2021-07-03&g=2021-07-03), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
+2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2022-02-16&g=2022-02-16), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2022-02-16&g=2022-02-16) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2022-02-16&g=2022-02-16), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
 
 ##### Artikel 4.5
 
@@ -525,7 +525,7 @@ Het leeftijdsverificatiesysteem, bedoeld in [artikel 5.6, eerste lid, van het be
 
 1. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van tabaksproducten die gericht zijn op consumenten in de Europese Economische Ruimte worden zodanig weergegeven dat de tekst van de grootste gezondheidswaarschuwing duidelijk zichtbaar is.
 
-2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2021-07-03&g=2021-07-03), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
+2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2022-02-16&g=2022-02-16), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
 
 3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een speciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
 
@@ -549,11 +549,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 7.3
 
-1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2021-07-03&g=2021-07-03), van deze regeling.
+1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2022-02-16&g=2022-02-16), van deze regeling.
 
 2. Een verpakkingseenheid of buitenverpakking van sigaretten of shagtabak die voldoet aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 30 september 2020 en die is geproduceerd of in het vrije verkeer is gebracht voor 1 oktober 2020, mag tot 1 oktober 2021 in de handel worden gebracht.
-
-3. Volumetabak die voldoet aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 1 juli 2021 en die is geproduceerd of in het vrije verkeer is gebracht voor 1 juli 2021, mag tot 1 januari 2022 in de handel worden gebracht.
 
 ##### Artikel 7.4
 
@@ -591,7 +589,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevat geen vermeldingen of andere elementen die verwijzen naar een bepaald thema of waaruit blijkt dat er sprake is van een gelimiteerde editie.
 
-4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2021-07-03&g=2021-07-03), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
+4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2022-02-16&g=2022-02-16), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
 
 5. Een verpakkingseenheid van voor roken bestemde tabaksproducten met uitzondering van sigaren bevat uitsluitend die producten en, indien van toepassing onbedrukt foliepapier dat de producten omhult om de versheid te bewaren.
 
@@ -655,13 +653,13 @@ Reclame in of aan speciaalzaak wordt slechts aangebracht met inachtneming van de
 
 - b. bevestigd op of aan dispensers van andere producten dan tabaksproducten of aanverwante producten, verrijdbare rekken met wenskaarten, manden met snoepgoed en speciaal voor de verkoop van tijdschriften ontworpen kasten.
 
-3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2021-07-03&g=2021-07-03) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
+3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2022-02-16&g=2022-02-16) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
 
 #### § 7. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 4. Rapportageverplichtingen
+#### § 3a. Volg- en traceersysteem en veiligheidskenmerk
 
 #### § 5. Grensoverschrijdende verkoop op afstand
 
@@ -814,6 +812,56 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ## Bijlage. bij de Tabaks- en rookwarenregeling
 
 Bijlage als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2021-07-03&g=2021-07-03), bevattende de meetmethode voor volumetabak genoemd in artikel 2.2, eerste lid, onderdeel a.
+
+Voor het vaststellen van de te gebruiken hoeveelheid volumetabak wordt 10 ± 1 gram geconditioneerde shag (volgens ISO 15592-2) in een kunststof maatcilinder van 250 ml afgewogen en belast met een metalen staaf van 1.875 ± 5 gram met een diameter van 37,3 ± 0,5 mm. Dit wordt ook gedaan met de meest recente referentie-shagtabak (EMT), die bekend is bij producenten en laboratoria. Hierdoor kan de toename in het volume worden vastgesteld ten opzichte van de meest recente referentie-shag. Na 5 ± 0,2 minuten wordt het volume afgelezen, zonder de metalen staaf te verwijderen. De te gebruiken maatcilinder heeft een interne diameter die maximaal 1,0 mm groter is dan de te gebruiken metalen staaf en een schaalverdeling met op minimaal elke 2 ml een markering. Het exacte gewicht in mg dat gebruikt mag worden voor volumetabak (in de formule hierna aangegeven als: correctie gewicht tabak), wordt als volgt berekend:
+
+In deze formule wordt voor het berekenen van het exacte gewicht in mg dat gebruikt mag worden voor volumetabak, de ingewogen hoeveelheid tabak omgerekend naar exact 10 gram.
+
+Bij het vaststellen van de toegestane hoeveelheid volumetabak in een sjekkie, wordt vervolgens het percentage berekend waarmee dit exacte gewicht is toegenomen ten opzichte van de referentie-shag.
+
+Hoeveel procent de volumetabak ten opzichte van de referentie-shag is toegenomen, wordt berekend met de volgende formule:
+
+In deze formule wordt het correctiegewicht van de gemeten EMT (de waarde boven de breuk) op 100% gesteld. Het percentage dat de volumetabak is toegenomen ten opzichte van de referentie-shag, valt vervolgens in één van de in de tabel hieronder opgenomen procentklassen. Indien de volumetabak is toegenomen met een percentage dat tussen de 0 en de 100% ligt, is de hoeveelheid te gebruiken volumetabak in een sjekkie 750 mg. Is de volumetabak toegenomen met 105%, dan is de hoeveelheid te gebruik volumetabak in een sjekkie 710 mg, enzovoorts. Indien uit de formule een percentage komt dat niet uitkomt op een heel getal, dan worden deze getallen volgens algemeen geldende regels afgerond naar hele getallen. 100,5% wordt 101% en 110,3% wordt 110%.
+
+| Volume percentage (%) ten opzichte van EMT | Volume percentage (%) ten opzichte van EMT | Te gebruiken hoeveelheid volumetabak (mg) in een sjekkie |
+| --- | --- | --- |
+| vanaf | tot en met | Te gebruiken hoeveelheid volumetabak (mg) in een sjekkie |
+| 0% | 100% | 750 |
+| 101% | 110% | 710 |
+| 111% | 120% | 650 |
+| 121% | 130% | 600 |
+| 131% | 140% | 560 |
+| 141% | 150% | 520 |
+| 151% | 160% | 480 |
+| 161% | 170% | 450 |
+| 171% | 180% | 430 |
+| 181% | 190% | 410 |
+| 191% | 200% | 380 |
+| 201% | 210% | 370 |
+| 211% | 220% | 350 |
+| 221% | 230% | 330 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.7a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 3. Verpakkingseisen
+
+#### § 4. Rapportageverplichtingen
+
+#### § 5. Grensoverschrijdende verkoop op afstand
+
+#### § 6. Reclamebeperkingen
+
+#### § 6a. Tabaksproducten en aanverwante producten uit het zicht en registratie van speciaalzaken
+
+#### § 7. Slotbepalingen
+
+## Bijlage. bij de Tabaks- en rookwarenregeling
+
+Bijlage als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2022-02-16&g=2022-02-16), bevattende de meetmethode voor volumetabak genoemd in artikel 2.2, eerste lid, onderdeel a.
 
 Voor het vaststellen van de te gebruiken hoeveelheid volumetabak wordt 10 ± 1 gram geconditioneerde shag (volgens ISO 15592-2) in een kunststof maatcilinder van 250 ml afgewogen en belast met een metalen staaf van 1.875 ± 5 gram met een diameter van 37,3 ± 0,5 mm. Dit wordt ook gedaan met de meest recente referentie-shagtabak (EMT), die bekend is bij producenten en laboratoria. Hierdoor kan de toename in het volume worden vastgesteld ten opzichte van de meest recente referentie-shag. Na 5 ± 0,2 minuten wordt het volume afgelezen, zonder de metalen staaf te verwijderen. De te gebruiken maatcilinder heeft een interne diameter die maximaal 1,0 mm groter is dan de te gebruiken metalen staaf en een schaalverdeling met op minimaal elke 2 ml een markering. Het exacte gewicht in mg dat gebruikt mag worden voor volumetabak (in de formule hierna aangegeven als: correctie gewicht tabak), wordt als volgt berekend:
 
