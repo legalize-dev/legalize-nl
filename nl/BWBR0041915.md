@@ -4,7 +4,7 @@ identifier: "BWBR0041915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-09"
-last_updated: "2019-12-25"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041915"
 soort: "ministeriele-regeling"
@@ -44,9 +44,11 @@ Besluit:
 
 Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-##### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond en wijze van verdeling
 
-Voor subsidieverstrekking op grond van dit besluit voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 is in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar.
+1. Voor subsidieverstrekking op grond van dit besluit voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 is in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar.
+
+2. Indien het resterende beschikbare bedrag, bedoeld in het eerste lid, in een bepaald kalenderjaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt het in de bijlage vastgestelde subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ##### Artikel 3. Wijziging van het besluit
 
@@ -88,7 +90,7 @@ Natuurlijk is het mogelijk dat een aanvraag wordt gedaan door een bevoegd verteg
 
 Dit beleidskader wordt namens de Minister voor Onderwijs, Cultuur en Wetenschap (hierna: de minister) uitgevoerd door de Rijksdienst voor het Cultureel Erfgoed (hierna: de RCE). De uitbetaling geschiedt door de Stichting Nationaal Restauratiefonds (hierna: het NRF).
 
-### 5. Subsidiabele kosten en hoogte subsidie
+### 5. Hoogte subsidiebedrag en wijze van verdeling
 
 In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een tot het rijksmonument met een woonfunctie behorende tuin komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
 
@@ -96,7 +98,7 @@ Om te bepalen welke werkzaamheden subsidiabel zijn, wordt aangesloten bij de [bi
 
 Particuliere eigenaren die in een bepaald jaar voor een rijksmonument voor meer dan € 70.000,– aan kosten subsidie aan willen vragen, kunnen voor aanvang van de werkzaamheden de RCE vragen te beoordelen welk gedeelte van deze kosten subsidiabel is op grond van de [Leidraad](onbekend). Voor een dergelijke beoordeling is in elk geval vereist dat er voldoende inzicht wordt gegeven in de voorgenomen werkzaamheden en dat er een inspectierapport wordt ingediend. Op www.cultureelerfgoed.nl wordt een formulier geplaatst waarvan hiervoor gebruik kan worden gemaakt. Paragraaf 6 bevat de eisen die aan een inspectierapport zijn gesteld. De beoordeling door de RCE heeft het karakter van een mededeling op basis van de dan beschikbare gegevens en is derhalve niet vatbaar voor bezwaar of beroep.
 
-De subsidie bedraagt 38% van de subsidiabele kosten voor kosten die zijn gemaakt in de kalenderjaren 2019 en 2020 (de aanvragen met betrekking tot deze kosten worden in 2020, respectievelijk 2021 ingediend; zie nader paragraaf 6). Het subsidiepercentage voor subsidiabele kosten die in de daaropvolgende kalenderjaren (2021 en 2022) worden gemaakt, zal afzonderlijk worden vastgesteld door wijziging van dit beleidskader. Dit percentage bedraagt echter niet meer dan 38%.
+De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2022-02-17&g=2022-02-17), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 Aanvragen komen niet voor subsidie in aanmerking voor zover voor de subsidiabele kosten waarop de aanvraag betrekking heeft, reeds een andere rijkssubsidie is verstrekt of voor zover daarvoor reeds een lening van het NRF is ontvangen. Voor werkzaamheden die in 2019 zijn uitgevoerd maar zijn betaald in 2018, kan geen subsidie worden aangevraagd. Voor de uitgaven voor deze werkzaamheden is de fiscale aftrek over het jaar 2018 nog van toepassing.
 
