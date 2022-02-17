@@ -4,7 +4,7 @@ identifier: "BWBV0001340"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-11-16"
-last_updated: "2013-11-01"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001340"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Er wordt een onafhankelijke internationale organisatie opgericht met de naam „
 
 1. De Regering van de Republiek Korea verleent het Instituut dezelfde rechten, voorrechten en immuniteiten als die welke gewoonlijk worden toegekend aan soortgelijke internationale organisaties.
 
-2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2013-11-01&g=2013-11-01) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
+2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2022-02-17&g=2022-02-17) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
 
 ##### Artikel III. Depositaris
 
@@ -66,11 +66,11 @@ Dit Verdrag staat op het Hoofdkantoor van de Verenigde Naties te New York open v
 
 ##### Artikel V. Bekrachtiging, aanvaarding en goedkeuring
 
-Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2013-11-01&g=2013-11-01).
+Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-02-17&g=2022-02-17).
 
 ##### Artikel VI. Toetreding
 
-Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2013-11-01&g=2013-11-01) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
+Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-02-17&g=2022-02-17) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
 
 ##### Artikel VII. Regeling van geschillen
 
@@ -98,7 +98,7 @@ Iedere Partij bij dit Verdrag kan dit Verdrag te allen tijde opzeggen door midde
 
 ##### Artikel X. Beëindiging
 
-Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2013-11-01&g=2013-11-01).
+Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2022-02-17&g=2022-02-17).
 
 ##### Artikel XI. Authentieke tekst
 
@@ -194,29 +194,25 @@ De organen van het Instituut zijn:
 
 ##### Artikel IX. Samenstelling van de Raad
 
-1. De Raad bestaat uit ten minste negen en ten hoogste tweeëntwintig leden, die als volgt worden gekozen:
+1. De Raad bestaat uit ten minste negen leden, die als volgt worden gekozen:
 
 - i. ten hoogste tien leden in algemene dienst worden gekozen door de Raad. Hierbij wordt in het bijzonder gekeken naar de beroepservaring en de kwalificaties van de voorgedragen leden, naar een adequate geografische spreiding, naar organisaties en landen die interesse hebben in en wezenlijke steun geven aan het Instituut, of naar het feit dat zich in bepaalde landen belangrijke voorzieningen bevinden;
 
-- ii. twee leden worden benoemd door het gastland;
+- ii. twee leden worden benoemd door het gastland, de Republiek Korea;
 
-- iii. twee leden worden benoemd door de WHO;
+- iii. een lid wordt benoemd door de WHO;
 
-- iv. ten hoogste vijf leden worden gekozen door de Raad op voordracht van de regeringen van de partijen bij dit Verdrag;
+- iv. leden worden benoemd door de Raad op voordracht van de regeringen van de partijen bij dit Verdrag; De Raad stelt passende procedures op voor het benoemen van leden van de regeringen van de partijen bij dit Verdrag; en
 
-- v. een lid wordt gekozen door de Raad op voordracht van het UNDP;
+- v. de Directeur van het Instituut wordt ambtshalve lid.
 
-- vi. de Uitvoerend Secretaris van het GAVI, of zijn/haar vertegenwoordiger, wordt ambtshalve lid; en
-
-- vii. de Directeur van het Instituut wordt ambtshalve lid.
-
-2. Algemene leden worden benoemd voor termijnen van ten hoogste drie jaar overeenkomstig hetgeen vóór de benoeming door de Raad is vastgesteld. In geval een vacature voor leden in algemene dienst ontstaat vanwege pensioen, overlijden, onbekwaamheid of enige andere reden, zorgt de Raad ervoor dat in de vacature wordt voorzien op dezelfde wijze als bij de oorspronkelijke benoeming. Een nieuw lid dat tijdens de termijn van een ander lid tot diens vervanger wordt benoemd, kan worden benoemd voor de resterende termijn van het lid in wiens plaats hij komt. Hij/zij is herkiesbaar voor twee volgende termijnen.
+2. Leden in algemene dienst worden benoemd voor termijnen van ten hoogste drie jaar overeenkomstig hetgeen vóór de benoeming door de Raad is vastgesteld. In geval een vacature voor leden in algemene dienst ontstaat vanwege pensioen, overlijden, onbekwaamheid of enige andere reden, zorgt de Raad ervoor dat in de vacature wordt voorzien op dezelfde wijze als bij de oorspronkelijke benoeming. Een nieuw lid dat tijdens de termijn van een ander lid tot diens vervanger wordt benoemd, kan worden benoemd voor de resterende termijn van het lid in wiens plaats hij komt. Hij/zij is herkiesbaar voor twee volgende termijnen.
 
 3. De leden van de Raad zijn herkiesbaar voor benoeming voor een tweede termijn, maar zij mogen niet meer dan twee achtereenvolgende termijnen dienen, met uitzondering van het lid dat tot voorzitter, vicevoorzitter, secretaris of penningmeester wordt gekozen; de termijn van dit lid kan door de Raad worden verlengd zodat deze samenvalt met de periode waarvoor hij/zij tot voorzitter, vicevoorzitter, secretaris of penningmeester is benoemd.
 
-4. De leden van de Raad, buiten de leden die ambtshalve lid zijn, de door het gastland en de WHO benoemde leden en de leden die op voordracht van de regeringen zijn gekozen, zijn lid op persoonlijke titel en worden niet beschouwd noch kunnen zij optreden als officiële vertegenwoordigers van regeringen of organisaties.
+4. De leden van de Raad, buiten de leden die ambtshalve lid zijn, de door het gastland, de Republiek Korea, en de WHO benoemde leden en de leden die op voordracht van de regeringen zijn gekozen, zijn lid op persoonlijke titel en worden niet beschouwd noch kunnen zij optreden als officiële vertegenwoordigers van regeringen of organisaties.
 
-5. De ambtstermijn en de selectie van de door de Regering van het gastland (hierna te noemen „de Regering”) te benoemen leden wordt bepaald door de Regering.
+5. De ambtstermijn en de selectie van de door de Regering van het gastland, de Republiek Korea, (hierna te noemen „de Regering”) te benoemen leden wordt bepaald door de Regering.
 
 6. De leden van de Raad die op voordracht van de regeringen worden gekozen, hebben een ambtstermijn van drie jaar en kunnen worden herkozen.
 
@@ -250,7 +246,7 @@ De organen van het Instituut zijn:
 
 - x. alle andere handelingen verrichten die noodzakelijk, gepast en geschikt kunnen worden geacht voor het bereiken van de in artikel IV van dit Statuut genoemde doelstellingen van het Instituut.
 
-3. De Raad kan een Uitvoerend Comité samenstellen uit haar leden dat bevoegd is namens de Raad op te treden in de periode tussen de vergaderingen van de Raad, en over aangelegenheden die door de Raad aan dit comité zijn gedelegeerd. Over alle tussentijdse handelingen van het Uitvoerend Comité wordt aan de voltallige Raad verslag uitgebracht bij de volgende vergadering. Het Uitvoerend Comité bestaat uit vijf leden van de Raad. De Directeur en ten minste een ambtshalve aangewezen lid van het gastland zullen als lid in het Uitvoerend Comité zitting nemen.
+3. De Raad kan een Uitvoerend Comité samenstellen uit haar leden dat bevoegd is namens de Raad op te treden in de periode tussen de vergaderingen van de Raad, en over aangelegenheden die door de Raad aan dit comité zijn gedelegeerd. Over alle tussentijdse handelingen van het Uitvoerend Comité wordt aan de voltallige Raad verslag uitgebracht bij de volgende vergadering. De Raad beslist over het lidmaatschap van het Uitvoerend Comité als subgroep van de Raad. De Directeur en ten minste een ambtshalve aangewezen lid van het gastland, de Republiek Korea, zullen als lid in het Uitvoerend Comité zitting nemen.
 
 4. De Raad kan alle andere subcomités in het leven roepen die hij noodzakelijk acht voor de uitoefening van zijn taken.
 
