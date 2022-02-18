@@ -265,17 +265,3 @@ Deze regeling wordt binnen vijf jaar na inwerkingtreding geëvalueerd.
 Deze regeling wordt aangehaald als Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.6. Algemene subsidieverplichting
-
-De ontvanger van een subsidie op grond van deze regeling is verplicht om er zorg voor te dragen dat seksueel grensoverschrijdend gedrag binnen zijn organisatie wordt tegengegaan. Indien de subsidie wordt verantwoord met toepassing van [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.6) of [artikel 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8), neemt de subsidieontvanger in zijn activiteitenverslag een nadere toelichting op over het interne beleid ten aanzien van het tegengaan van seksueel grensoverschrijdend gedrag. Indien [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=1&artikel=1.5&z=2023-08-01&g=2023-08-01) van toepassing is, wordt eveneens een toelichting opgenomen in de in dat artikel bedoelde tussentijdse rapportages.
-
-### Hoofdstuk 2. Alliantiesubsidie
-
-### Hoofdstuk 3. Archiefsubsidie
-
-### Hoofdstuk 4. Projectsubsidie
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
