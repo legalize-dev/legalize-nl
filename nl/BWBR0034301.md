@@ -4,7 +4,7 @@ identifier: "BWBR0034301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-18"
-last_updated: "2021-01-06"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034301"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergi
 
 ##### Artikel 4
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) zijn belast de ambtenaren van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid voor zover het hun werkterrein betreft. Dit betreft mede de veiligheid en gezondheid van elke werknemer, zelfstandige en vrijwilliger in de zin van [artikel 1, eerste, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), die aan straling blootgesteld wordt:
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) zijn belast de ambtenaren van de Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid voor zover het hun werkterrein betreft. Dit betreft mede de veiligheid en gezondheid van elke werknemer, zelfstandige en vrijwilliger in de zin van [artikel 1, eerste, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), die aan straling blootgesteld wordt:
 
 - a. bij door hem ten behoeve van een ondernemer in de zin van [bijlage 1 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), in diens onderneming uitgevoerde werkzaamheden;
 
