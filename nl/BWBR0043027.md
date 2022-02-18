@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-01-01"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-02-18).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-02-18).
 
 ##### Artikel 4. De bestuursraad
 
@@ -118,9 +118,11 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 1. De plaatsvervangend secretaris-generaal (de pSG) is verantwoordelijk voor
 
-- a. de integrale ontwikkeling en realisering van de strategische doelstellingen op bedrijfsvoeringgebied voor het ministerie, en
+- a. de integrale ontwikkeling en realisering van de strategische doelstellingen op bedrijfsvoeringgebied voor het ministerie;
 
-- b. de afstemming van de bedrijfsvoering op het primaire proces van het ministerie.
+- b. de afstemming van de bedrijfsvoering op het primaire proces van het ministerie;
+
+- c. het categoriemanagement van de categorieën die ressorteren onder het ministerie.
 
 2. De pSG is door middel van kaderstelling verantwoordelijk voor de bedrijfsvoering van het ministerie.
 
@@ -194,7 +196,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - e. gevraagd en ongevraagd adviseren van de ambtelijke en politieke leiding over het inkoopbeleid en -beheer.
 
-3. De CDI wordt ondersteund door een CDI-Office.
+3. De CDI wordt ondersteund door een CDI Office.
 
 ##### Artikel 8. De bedrijfsvoeringsraad
 
@@ -248,9 +250,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-02-18) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-02-18) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -354,9 +356,9 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. team Financiën;
 
-- e. team Inkoop/CDI Office.
+- e. afdeling CDI Office en Categoriemanagement.
 
-3. De teams Financiën en Inkoop/CDI Office zijn rechtstreeks geplaatst onder de directeur Bedrijfsvoering.
+3. Het team Financiën en de afdeling CDI Office en Categoriemanagement zijn rechtstreeks geplaatst onder de directeur Bedrijfsvoering.
 
 4. De eenheid FHS heeft de volgende taken:
 
@@ -398,15 +400,17 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kernministerie en de IBTD, rekening houdend met de rol van de directie FEZ.
 
-8. Het team Inkoop/CDI-Office heeft de volgende taken:
+8. De afdeling CDI Office en Categoriemanagement heeft de volgende taken:
 
-- a. beleid op het gebied van inkoop en contractmanagement formuleren en implementeren;
+- a. beleid op het gebied van inkoop en contractmanagement formuleren en implementeren, waaronder departementaal beleid op het gebied van inkoop als bedoeld in het Taakbesluit CPO Rijk en het Taakbesluit CDI;
 
 - b. het inrichten en beheren van een inkoopstelsel en binnen de systeemverantwoordelijkheid vervullen van de kaderstellende en toetsende rol op het gebied van inkoop en aanbesteding voor het gehele Ministerie van Financiën;
 
-- c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding.
+- c. beleidsmatige en vakinhoudelijke ondersteuning van de CDI bij de positie- en rolbepaling als ook de strategische (interdepartementale) agendasetting op het gebied van inkoop en aanbesteding;
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-01-01&g=2022-01-01). Het hoofd team Inkoop/CDI-office is tevens plaatsvervangend CDI.
+- d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
+
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-02-18&g=2022-02-18). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -498,7 +502,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - k. het volgen en monitoren van de stukkenstroom van het departement.
 
-2. De directie Bestuursondersteuning en Advies bestaat uit een afdeling Advies en een afdeling Bestuursondersteuning en Protocol.
+2. De directie Bestuursondersteuning en Advies bestaat uit een afdeling Advies, een afdeling Bestuursondersteuning en Protocol en een afdeling Parlementaire Enquêtes.
 
 ##### Artikel 18. Directie Communicatie
 
@@ -552,7 +556,7 @@ De directie Communicatie heeft de volgende taken:
 
 1. De Auditdienst Rijk heeft de volgende hoofdtaken:
 
-- a. het uitvoeren van de bij de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) opgedragen taken betreffende de controle van de jaarlijkse financiële verantwoording en het onderzoeken van het gevoerde financiële en materieelbeheer van de ministeries;
+- a. het uitvoeren van de bij de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en het Besluit Auditdienst Rijk opgedragen taken betreffende de controle van de jaarlijkse financiële verantwoording en het onderzoeken van het gevoerde financiële en materieelbeheer van de ministeries;
 
 - b. het in opdracht van de ministeries uitvoeren van vraaggestuurde onderzoeken;
 
@@ -560,17 +564,17 @@ De directie Communicatie heeft de volgende taken:
 
 2. De algemeen directeur geeft sturing aan de ADR.
 
-3. Het directieteam bestaat uit vier personen: een algemeen directeur, twee directeuren onderzoek en een directeur kennis en ontwikkeling. Eén directeur onderzoek is tevens plaatsvervangend algemeen directeur.
+3. Het directieteam van de ADR bestaat uit: de algemeen directeur, de directeur onderzoek, de directeur kennis en ontwikkeling, vijf accountdirecteuren, vier sectormanagers en de manager van de stafafdeling bestuursondersteuning en vaktechniek. De directeur onderzoek is tevens plaatsvervangend algemeen directeur.
 
 4. De stafafdeling bestuursondersteuning en vaktechniek is rechtstreeks geplaatst onder de algemeen directeur.
 
-5. De stafafdeling heeft tot taak de strategische ondersteuning van het directieteam, de inrichting van de bedrijfsvoeringsprocessen en de ontwikkeling van vaktechnische kaders waarbinnen de ADR zijn werkzaamheden uitvoert.
+5. De stafafdeling heeft tot taak de strategische ondersteuning van de directie, de inrichting van de bedrijfsvoeringsprocessen en de ontwikkeling van vaktechnische kaders waarbinnen de ADR zijn werkzaamheden uitvoert.
 
 6. De Auditdienst Rijk is onderverdeeld in vijf accounts, elk onder leiding van een accountdirecteur. De accounts zijn verantwoordelijk voor het inventariseren van de klantvragen binnen het account en het organiseren en verrichten van onderzoeken binnen het account. De ministeries zijn als volgt over de accounts verdeeld:
 
 - a. VWS, SZW en OCW;
 
-- b. FIN en EZK;
+- b. FIN, EZK en LNV;
 
 - c. DEF en AZ;
 
@@ -1088,7 +1092,9 @@ De Generale Thesaurie bestaat uit de volgende organisatieonderdelen:
 
 - c. de directie Buitenlandse Financiële Betrekkingen;
 
-- d. de directie Financieringen.
+- d. de directie Financieringen;
+
+- e. de programmadirectie Herstel- en Veerkrachtplan.
 
 ##### Artikel 37. Taken GT
 
@@ -1302,39 +1308,29 @@ De Generale Thesaurie:
 
 1. De Directie Financieringen heeft de volgende doelstellingen:
 
-- a. Bevorderen dat vakdepartementen publieke doelen met een bedrijfseconomisch doelmatige inzet van activa realiseren;
+- a. Het beheer van staatsdeelnemingen;
 
-- b. Het oprichten, aangaan, beheren en (gedeeltelijk) afstoten van staatsdeelnemingen;
+- b. Het oprichten, aangaan en (gedeeltelijk) afstoten van staatsdeelnemingen;
 
-- c. Zorgen dat departementen voor grote overheidsinvesteringen een gestructureerde afweging maken en concessies uitgeven en/of pps-constructies aangaan, als dit de bedrijfseconomische meest doelmatige manier is om publieke doelen te realiseren;
+- c. Het onderzoeken van en adviseren over strategische en bedrijfseconomische vraagstukken rondom staatsdeelnemingen.
 
-- d. Het beheer van staatsdeelnemingen;
+2. De directie Financieringen bestaat uit de volgende organisatieonderdelen:
 
-2. De directie Financieringen is onderverdeeld in de volgende organisatieonderdelen:
+- a. de afdeling Deelnemingen Financiële Instellingen, Transport & Kansspelen (Deelnemingen FTK);
 
-- a. Deelnemingen met als taken:
+- b. de afdeling Deelnemingen Energie, Nucleair & Projecten (Deelnemingen ENP).
 
-- i. Formuleren, evalueren en uitvoeren van beleid gericht op het oprichten, aangaan, (gedeeltelijk) afstoten en beheren van staatsdeelnemingen;
+3. Aan de in het vorige lid genoemde afdelingen zijn de staatsdeelnemingen toegewezen die vallen binnen de aan hun toegewezen sectoren. Ten aanzien daarvan hebben beide afdelingen de volgende taken:
 
-- ii. Voorbereiden en bijwonen van aandeelhoudersvergaderingen en nemen van (bijzondere) aandeelhoudersbesluiten;
+- a. Formuleren, evalueren en uitvoeren van beleid gericht op het oprichten, aangaan, (gedeeltelijk) afstoten en beheren van staatsdeelnemingen;
 
-- iii. Uitvoeren van transacties t.b.v. het oprichten, aangaan, beheren en (gedeeltelijk) afstoten van staatsdeelnemingen, hetzij adviseren over/bewaken van dergelijke transacties van anderen;
+- b. Voorbereiden en bijwonen van aandeelhoudersvergaderingen en nemen van (bijzondere) aandeelhoudersbesluiten;
 
-- iv. Ontwikkelen, vastleggen en verspreiden van kennis van financiële analysemethoden, kennis van corporate governance en waardevermeerdering van staatsdeelnemingen ten behoeve van het oprichten, aangaan, beheren en (gedeeltelijk) afstoten van staatsdeelnemingen en meer specifiek kennis van verkooptransacties.
+- c. Uitvoeren van transacties t.b.v. het oprichten, aangaan, beheren en (gedeeltelijk) afstoten van staatsdeelnemingen, hetzij adviseren over/bewaken van dergelijke transacties van anderen;
 
-- b. Publiek Private Investeringen (PPI) met als taken:
+- d. Ontwikkelen, vastleggen en verspreiden van kennis van financiële analysemethoden, kennis van corporate governance en waardevermeerdering van staatsdeelnemingen ten behoeve van het oprichten, aangaan, beheren en (gedeeltelijk) afstoten van staatsdeelnemingen en meer specifiek kennis van verkooptransacties;
 
-- i. Ontwikkelen en onderhouden van bedrijfseconomische en privaatrechtelijke kaders/instrumenten en hiermee toetsen van investeringen;
-
-- ii. Zorgen voor uniformiteit bij het vormgeven van pps en concessies;
-
-- iii. Ontwikkelen van bedrijfseconomische kennis ten behoeve van investeringen/aankoop, beheer, ontwikkeling en verkoop van activa;
-
-- iv. Stimuleren van het toepassen van bedrijfseconomische kaders bij het vormgeven van financiële constructies;
-
-- v. (Mede)uitvoeren van bijzondere financieringsconstructies;
-
-- vi. Adviseren over en ontwikkelen van instrumenten en/of (mede)uitvoering geven aan gebiedsontwikkelingsprojecten met betrokkenheid van marktpartijen.
+- e. Adviseren over strategische en bedrijfseconomische vraagstukken rondom staatsdeelnemingen.
 
 ### Hoofdstuk 9. Verantwoording
 
@@ -1388,9 +1384,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-01-01&g=2022-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-02-18) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-02-18), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
