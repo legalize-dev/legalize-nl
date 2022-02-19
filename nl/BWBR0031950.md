@@ -4,7 +4,7 @@ identifier: "BWBR0031950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-10"
-last_updated: "2013-01-01"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031950"
 soort: "ministeriele-regeling"
@@ -42,13 +42,13 @@ Besluit:
 
 In dit besluit wordt verstaan onder
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. **de Minister:** de Minister van Justitie en Veiligheid;
 
 - b. **cyber security:** het vrij zijn van gevaar of van schade veroorzaakt door verstoring of uitval van ICT of door misbruik van ICT;
 
 - c. **gevaar of schade:** beperking van de beschikbaarheid en betrouwbaarheid van de ICT, schending van de vertrouwelijkheid van in ICT opgeslagen informatie of schade aan de integriteit van die informatie;
 
-- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2013-01-01&g=2013-01-01);
+- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2022-02-19&g=2022-02-19);
 
 - d. **Nationale Cyber Security Strategie:** een integraal plan van aanpak voor het versterken van de veiligheid van de digitale samenleving om het vertrouwen in het gebruik van ICT door burger, bedrijfsleven en overheid te verhogen.
 
@@ -100,9 +100,9 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 4. Vergoeding
 
-1. De medevoorzitter en de leden, genoemd in artikel 2, eerste lid, onderdelen b tot en met i, ontvangen een vergoeding per vergaderdag en ontvangen een vergoeding van reis- en verblijfskosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+1. De medevoorzitter en de leden, genoemd in [artikel 2a, eerste lid, onderdelen b tot en met h en o tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2a&z=2022-02-19&g=2022-02-19), ontvangen een vergoeding per vergaderdag en ontvangen een vergoeding van reis- en verblijfskosten overeenkomstig de CAO Rijk.
 
-2. De vergoeding per vergadering, bedoeld in het eerste lid, bedraagt voor de leden een bedrag dat gelijk is aan 3% van het maximum van salarisschaal 18 van de [bijlage B bij het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De vergoeding voor de medevoorzitter bedraagt 130% van de hoogte van de vergoeding voor de leden.
+2. De vergoeding per vergadering, bedoeld in het eerste lid, bedraagt voor de leden een bedrag dat gelijk is aan 3% van het maximum van salarisschaal 18 van de CAO Rijk. De vergoeding voor de medevoorzitter bedraagt 130% van de hoogte van de vergoeding voor de leden.
 
 ##### Artikel 5. De kosten van de Raad
 
@@ -114,7 +114,7 @@ De Raad biedt de Minister jaarlijks uiterlijk op 1 juli een verslag aan van zijn
 
 ##### Artikel 7. Evaluatie
 
-De werkzaamheden van de Raad worden twee jaar na de eerste werkzaamheden geëvalueerd. De uitkomsten daarvan worden ter kennis gebracht aan de Minister.
+De werkzaamheden van de Raad worden eens in de vijf jaar geëvalueerd. De uitkomsten daarvan worden ter kennis gebracht aan de Minister.
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -125,3 +125,49 @@ De werkzaamheden van de Raad worden twee jaar na de eerste werkzaamheden geëval
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Cyber Security Raad.
+
+##### Artikel 2a. Samenstelling
+
+1. De Raad wordt gevormd door:
+
+- a. De Nationaal Coördinator Terrorismebestrijding en Veiligheid, medevoorzitter;
+
+- b. Mevrouw S. van Es, namens het bedrijfsleven, medevoorzitter;
+
+- c. Mevrouw drs. C. de Andrade-de Wit, namens CIO-platform, lid;
+
+- d. De heer mr. Th. J. Henrar, namens FME, lid;
+
+- e. De heer ir. W. Draijer, namens de financiële sector, lid;
+
+- f. De heer mr. J.F.E. Farwerck, namens de overige vitale sectoren, lid;
+
+- g. De heer P. Zijlema, namens NLdigital, lid;
+
+- h. Mevrouw T. Netelenbos, namens ECP, lid;
+
+- i. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst, lid;
+
+- j. Een lid van het College van procureurs-generaal, lid;
+
+- k. Een lid van de bestuursstaf van het Ministerie van Defensie, lid;
+
+- l. De Korpschef Landelijke Politiediensten, lid;
+
+- m. De directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat, lid;
+
+- n. De directeur-generaal Overheidsorganisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, lid;
+
+- o. Mevrouw prof. dr. B. van den Berg, lid;
+
+- p. De heer prof. dr. M.J.G. van Eeten, lid;
+
+- q. De heer prof. dr. B.P.F. Jacobs, lid;
+
+- r. Mevrouw prof. mr. E.M.L. Moerel, lid.
+
+2. De medevoorzitter en de leden van de Raad, genoemd in het eerste lid, onderdelen b tot en met h en o tot en met r, worden door de Minister voor de duur van vier jaar benoemd. Zij kunnen tweemaal en telkens voor de duur van ten hoogste vier jaar door de Minister herbenoemd worden.
+
+3. Bij het vertrek van de medevoorzitter en de leden, genoemd in het eerste lid, onderdelen b tot en met h, benoemt de Minister telkens een lid uit dezelfde sector onderscheidenlijk organisatie als de vertrekkende medevoorzitter of het vertrekkende lid.
+
+4. Bij het vertrek van de leden, genoemd in het eerste lid, onderdelen o tot en met r, wordt door de Minister een vervanger benoemd.
