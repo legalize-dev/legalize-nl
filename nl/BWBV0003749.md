@@ -4,7 +4,7 @@ identifier: "BWBV0003749"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-02-20"
-last_updated: "1977-07-25"
+last_updated: "2022-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003749"
 soort: "verdrag"
@@ -680,55 +680,69 @@ Het Secretariaat verricht de functies die het in deze Overeenkomst zijn opgedrag
 
 - b). zij slechts onder bepaalde voorwaarden bindend zijn.
 
-##### Artikel 62. [Red: In verband met de toetreding door Nieuw-Zeeland tot de Overeenkomst dient aan de lijst in het tweede lid te worden toegevoegd: Nieuw-Zeeland....... - 3 - 0 - 3 De laatste regel van het tweede lid dient te luiden: Totaal......... - 51 - 100 - 151 In het vierde lid, letter a, dient „36 algemene stemgewichten” te worden gewijzigd in „39 algemene stemgewichten” en in letter b „42 algemene stemgewichten” in „45 algemene stemgewichten”.]
+##### Artikel 62
 
 1. Voor eenparigheid van stemmen zijn alle stemmen vereist van de deelnemende landen die aanwezig zijn en hun stem uitbrengen. Landen die zich van stemming onthouden worden geacht geen stem uit te brengen.
 
 2. Wanneer een meerderheid of een gekwalificeerde meerderheid van stemmen is vereist, hebben de deelnemende landen de volgende stemgewichten:
 
-|   | Algemene stemgewichten | Stemgewichten olieverbruik | Gecombineerde stemgewichten |
+|   | **Algemene** **stemgewichten** | **Stemgewichten** **oliegebruik** | **Gecombineerde** **stemgewichten** |
 | --- | --- | --- | --- |
-| België............. | 3 | 2 | 5 |
-| Canada............. | 3 | 5 | 8 |
-| Denemarken............. | 3 | 1 | 4 |
-| Duitsland............. | 3 | 8 | 11 |
-| Ierland............. | 3 | 0 | 3 |
-| Italië............. | 3 | 6 | 9 |
-| Japan............. | 3 | 15 | 18 |
-| Luxemburg............. | 3 | 0 | 3 |
-| Nederland............. | 3 | 2 | 5 |
-| Oostenrijk............. | 3 | 1 | 4 |
-| Spanje............. | 3 | 2 | 5 |
-| Turkije............. | 3 | 1 | 4 |
-| Verenigd Koninkrijk............. | 3 | 6 | 9 |
-| Verenigde Staten............. | 3 | 48 | 51 |
-| Zweden............. | 3 | 2 | 5 |
-| Zwitserland............. | 3 | 1 | 4 |
-| Totaal............. | 48 | 100 | 148 |
+| Australië | 3 | 1 | 4 |
+| België | 3 | 1 | 4 |
+| Canada | 3 | 4 | 7 |
+| Denemarken | 3 | 1 | 4 |
+| Duitsland | 3 | 7 | 10 |
+| Estland | 3 | 0 | 3 |
+| Finland | 3 | 1 | 4 |
+| Frankrijk | 3 | 6 | 9 |
+| Griekenland | 3 | 0 | 3 |
+| Hongarije | 3 | 0 | 3 |
+| Ierland | 3 | 0 | 3 |
+| Italië | 3 | 5 | 8 |
+| Japan | 3 | 14 | 17 |
+| Korea (Republiek) | 3 | 1 | 4 |
+| Litouwen | 3 | 0 | 3 |
+| Luxemburg | 3 | 0 | 3 |
+| Mexico | 3 | 2 | 5 |
+| Nederland | 3 | 1 | 4 |
+| Nieuw-Zeeland | 3 | 0 | 3 |
+| Oostenrijk | 3 | 1 | 4 |
+| Polen | 3 | 1 | 4 |
+| Portugal | 3 | 0 | 3 |
+| Slowakije | 3 | 0 | 3 |
+| Spanje | 3 | 2 | 5 |
+| Tsjechië | 3 | 1 | 4 |
+| Turkije | 3 | 1 | 4 |
+| Verenigd Koninkrijk | 3 | 5 | 8 |
+| Verenigde Staten | 3 | 42 | 45 |
+| Zweden | 3 | 2 | 5 |
+| Zwitserland | 3 | 1 | 4 |
+| **Totaal** | **90** | **100** | **190** |
 
 3. Voor een meerderheid van stemmen zijn 60 % van de totale gecombineerde stemgewichten en 50 algemene stemgewichten vereist.
 
 4. Voor een gekwalificeerde meerderheid van stemmen is vereist:
 
-- a). 60 % van de totale gecombineerde stemgewichten en 36 algemene stemgewichten voor:
+- a). 60 % van de totale gecombineerde stemgewichten en 68 algemene stemgewichten voor:
 
-- -. het besluit bedoeld in artikel 2, tweede lid, betreffende de vergroting van de verplichte noodvoorraad;
+- –. het besluit bedoeld in artikel 2, tweede lid, betreffende de vergroting van de verplichte noodvoorraad;
 
-- -. de besluiten bedoeld in artikel 19, derde lid, de in de artikelen 13 en 14 voorziene noodmaatregelen niet in werking te stellen;
+- –. de besluiten bedoeld in artikel 19, derde lid, de in de artikelen 13 en 14 voorziene noodmaatregelen niet in werking te stellen;
 
-- -. de besluiten bedoeld in artikel 20, derde lid, inzake de maatregelen die zijn vereist om aan de situatie die is ontstaan het hoofd te bieden;
+- –. de besluiten bedoeld in artikel 20, derde lid, inzake de maatregelen die zijn vereist om aan de situatie die is ontstaan het hoofd te bieden;
 
-- -. de besluiten bedoeld in artikel 23, derde lid, tot handhaving van de noodmaatregelen voorzien in de artikelen 13 en 14;
+- –. de besluiten bedoeld in artikel 23, derde lid, tot handhaving van de noodmaatregelen voorzien in de artikelen 13 en 14;
 
-- -. de besluiten bedoeld in artikel 24 tot intrekking van de noodmaatregelen voorzien in de artikelen 13 en 14;
+- –. de besluiten bedoeld in artikel 24 tot intrekking van de noodmaatregelen voorzien in de artikelen 13 en 14;
 
-- b). 42 algemene stemgewichten voor:
+- b). 81 algemene stemgewichten voor:
 
-- -. de besluiten bedoeld in artikel 19, derde lid, de noodmaatregelen voorzien in artikel 17 niet in werking te stellen;
+- –. de besluiten bedoeld in artikel 19, derde lid, de noodmaatregelen voorzien in artikel 17 niet in werking te stellen;
 
-- -. de besluiten bedoeld in artikel 23, derde lid, tot handhaving van de noodmaatregelen voorzien in artikel 17;
+- –. de besluiten bedoeld in artikel 23, derde lid, tot handhaving van de noodmaatregelen voorzien in artikel 17;
 
-- -. de besluiten bedoeld in artikel 24 tot intrekking van de noodmaatregelen voorzien in artikel 17.
+- –. de besluiten bedoeld in artikel 24 tot intrekking van de noodmaatregelen voorzien in artikel 17.
 
 5. De Raad van Bestuur besluit met eenparigheid van stemmen over de noodzakelijke verhoging, vermindering en herverdeling van de stemgewichten bedoeld in het tweede lid, alsmede over wijziging van de stemvoorwaarden vervat in het derde en het vierde lid ingeval
 
