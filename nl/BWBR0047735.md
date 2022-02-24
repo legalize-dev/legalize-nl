@@ -4,7 +4,7 @@ identifier: "BWBR0047735"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2017-04-01"
+last_updated: "2022-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047735"
 soort: "wet"
@@ -273,8 +273,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XLI
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLII
 
