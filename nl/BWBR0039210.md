@@ -4,7 +4,7 @@ identifier: "BWBR0039210"
 country: "nl"
 rank: "wet"
 publication_date: "2022-02-26"
-last_updated: "2017-03-01"
+last_updated: "2022-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039210"
 soort: "wet"
@@ -50,13 +50,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- a. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
 
-- b. **Schengengebied:** het grondgebied van de staten waarop de Schengengrenscode en de Schengen Uitvoeringsovereenkomst van toepassing zijn;
+- b. **Schengengebied:** het grondgebied van de staten waarop de Schengengrenscode van toepassing is;
 
-- c. **Schengengrenscode:** [Verordening (EG) nr. 562/2006](32006R0562) van het Europees Parlement en de Raad van 15 maart 2006 tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU L 105);
-
-- d. **Schengen Uitvoeringsovereenkomst:** de op 19 juni 1990 tot stand gekomen Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (Trb. 1990, 145), alsmede de daarop gebaseerde Protocollen.
+- c. **Schengengrenscode:** [Verordening (EU) 2016/399](32299R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU 2016, L77).
 
 #### § 2. Individuele maatregelen
 
@@ -74,11 +72,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2a
 
-1. Indien dat noodzakelijk is met het oog op de naleving van een verbod als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01), kan Onze Minister besluiten tot het toepassen van een technische voorziening waarmee toezicht wordt gehouden op de naleving van dat verbod.
+1. Indien dat noodzakelijk is met het oog op de naleving van een verbod als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26), kan Onze Minister besluiten tot het toepassen van een technische voorziening waarmee toezicht wordt gehouden op de naleving van dat verbod.
 
-2. Het in het eerste lid bedoelde besluit wordt ingetrokken zodra het niet meer noodzakelijk is met het oog op de naleving van een verbod als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01).
+2. Het in het eerste lid bedoelde besluit wordt ingetrokken zodra het niet meer noodzakelijk is met het oog op de naleving van een verbod als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26).
 
-3. [Artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing op de bekendmaking van een besluit op grond van het eerste lid.
+3. [Artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2022-02-26&g=2022-02-26), is van overeenkomstige toepassing op de bekendmaking van een besluit op grond van het eerste lid.
 
 4. Voor de toepassing van de in het eerste lid bedoelde technische voorziening kan Onze Minister een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling aanwijzen.
 
@@ -90,7 +88,7 @@ Onze Minister kan, indien dat noodzakelijk is met het oog op de bescherming van 
 
 ##### Artikel 4
 
-1. Een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2017-03-01&g=2017-03-01) wordt opgelegd voor een periode van ten hoogste zes maanden, maar niet langer dan strikt noodzakelijk is voor de bescherming van de nationale veiligheid. De maatregel kan worden verlengd met een telkens door Onze Minister vast te stellen periode van ten hoogste zes maanden.
+1. Een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2022-02-26&g=2022-02-26) wordt opgelegd voor een periode van ten hoogste zes maanden, maar niet langer dan strikt noodzakelijk is voor de bescherming van de nationale veiligheid. De maatregel kan worden verlengd met een telkens door Onze Minister vast te stellen periode van ten hoogste zes maanden.
 
 2. Indien dat aanvaardbaar is met het oog op de bescherming van de nationale veiligheid kan Onze Minister op aanvraag tijdelijk ontheffing verlenen van een of meer verplichtingen die voortvloeien uit een opgelegde maatregel. Onze Minister kan aan de ontheffing voorschriften verbinden.
 
@@ -102,7 +100,7 @@ Onze Minister kan, indien dat noodzakelijk is met het oog op de bescherming van 
 
 ##### Artikel 5
 
-1. De rechtbank behandelt het beroep tegen een besluit omtrent het opleggen, wijzigen, verlengen of intrekken van een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2017-03-01&g=2017-03-01), een besluit omtrent het toepassen van een technische voorziening als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2a&z=2017-03-01&g=2017-03-01), en een besluit omtrent het verlenen van een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2017-03-01&g=2017-03-01), met toepassing van [artikel 8:52 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:52).
+1. De rechtbank behandelt het beroep tegen een besluit omtrent het opleggen, wijzigen, verlengen of intrekken van een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2022-02-26&g=2022-02-26), een besluit omtrent het toepassen van een technische voorziening als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2a&z=2022-02-26&g=2022-02-26), en een besluit omtrent het verlenen van een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2022-02-26&g=2022-02-26), met toepassing van [artikel 8:52 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:52).
 
 2. De rechtbank houdt bij de beoordeling van het beroep rekening met feiten en omstandigheden die na het nemen van het bestreden besluit zijn opgekomen, tenzij de goede procesorde zich daartegen verzet of de afdoening van de zaak daardoor ontoelaatbaar wordt vertraagd. De rechtbank verzoekt Onze Minister om zo spoedig mogelijk schriftelijk aan de wederpartij en de rechtbank te laten weten of de ingeroepen feiten en omstandigheden aanleiding zijn voor handhaving, wijziging of intrekking van het bestreden besluit.
 
@@ -120,19 +118,19 @@ Een bestuursorgaan kan een aanvraag voor een subsidie, vergunning, ontheffing of
 
 ##### Artikel 7
 
-1. Alvorens een besluit te nemen omtrent het opleggen, wijzigen, verlengen of intrekken van een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2017-03-01&g=2017-03-01) of omtrent het verlenen van een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2017-03-01&g=2017-03-01), overlegt Onze Minister met de burgemeester van de gemeente waar degene tot wie het voorgenomen besluit zich richt woon- of verblijfplaats heeft alsmede andere bij het voorgenomen besluit betrokken burgemeesters, tenzij de spoedeisendheid van de situatie daaraan in de weg staat. In dat geval informeert Onze Minister deze burgemeesters hierover onverwijld.
+1. Alvorens een besluit te nemen omtrent het opleggen, wijzigen, verlengen of intrekken van een maatregel als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2022-02-26&g=2022-02-26) of omtrent het verlenen van een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2022-02-26&g=2022-02-26), overlegt Onze Minister met de burgemeester van de gemeente waar degene tot wie het voorgenomen besluit zich richt woon- of verblijfplaats heeft alsmede andere bij het voorgenomen besluit betrokken burgemeesters, tenzij de spoedeisendheid van de situatie daaraan in de weg staat. In dat geval informeert Onze Minister deze burgemeesters hierover onverwijld.
 
-2. Alvorens een besluit te nemen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=3&artikel=6&z=2017-03-01&g=2017-03-01), dan wel het ontwerp van het te nemen besluit overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11) ter inzage te leggen, overlegt een bestuursorgaan met Onze Minister.
+2. Alvorens een besluit te nemen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=3&artikel=6&z=2022-02-26&g=2022-02-26), dan wel het ontwerp van het te nemen besluit overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11) ter inzage te leggen, overlegt een bestuursorgaan met Onze Minister.
 
 3. Aan de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) wordt niet eerder toepassing gegeven dan nadat het in het eerste en tweede lid bedoelde overleg heeft plaatsgevonden.
 
-#### § 5. Slotbepalingen
+#### § 4a. Verwerking van bijzondere persoonsgegevens en persoonsgegevens van strafrechtelijke aard
 
 ##### Artikel 8
 
-1. Opzettelijk handelen in strijd met een verplichting of verbod, opgelegd krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2017-03-01&g=2017-03-01), of de voorschriften, verbonden aan een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2017-03-01&g=2017-03-01), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+1. Opzettelijk handelen in strijd met een verplichting of verbod, opgelegd krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2022-02-26&g=2022-02-26), of de voorschriften, verbonden aan een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2022-02-26&g=2022-02-26), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-2. Opzettelijk onttrekken aan controle middels een technische voorziening als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2a&z=2017-03-01&g=2017-03-01), wordt gestraft met een gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+2. Opzettelijk onttrekken aan controle middels een technische voorziening als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2a&z=2022-02-26&g=2022-02-26), wordt gestraft met een gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn misdrijven.
 
@@ -150,13 +148,13 @@ Wijzigt deze wet.
 
 ##### Artikel 12
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt voor 1 september 2024 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 13
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-2. Deze wet vervalt vijf jaar na de inwerkingtreding ervan.
+2. Deze wet vervalt met ingang van 1 maart 2027.
 
 ##### Artikel 14
 
@@ -169,5 +167,19 @@ Wijzigt de Algemene wet bestuursrecht.
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7a
+
+1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken en verwerking van gegevens over gezondheid als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) te verwerken niet van toepassing indien de verwerking geschiedt door Onze Minister voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
+
+2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming mag Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken, indien de verwerking noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
+
+##### Artikel 7b
+
+De in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=4a&artikel=7a&z=2022-02-26&g=2022-02-26) bedoelde persoonsgegevens worden vernietigd zodra zij niet langer noodzakelijk zijn voor de uitoefening van de bevoegdheden op grond van deze wet, in ieder geval uiterlijk 5 jaar na de laatste verwerking.
+
+#### § 5. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
