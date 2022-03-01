@@ -4,7 +4,7 @@ identifier: "BWBR0032335"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-27"
-last_updated: "2022-01-01"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032335"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **verordening (EG) nr. 853/2004:** verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004 L 139);
 
-- –. **verordening (EG) nr. 2075/2005:** verordening (EG) nr. 2075/2005 van de Commissie van 5 december 2005 tot vaststelling van specifieke voorschriften voor de officiële controles op Trichinella in vlees (PbEU 2005 L 338);
+- –. **verordening (EU) nr. 1375/2015:** Uitvoerings[verordening (EU) 2015/1375](33275R2015) van de Commissie van 10 augustus 2015 tot vaststelling van specifieke voorschriften voor de officiële controles op Trichinella in vlees (PbEU 2015, L 212);
 
 - –. **verordening (EU) nr. 2016/429:** verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84);
 
@@ -116,9 +116,9 @@ Rechtstreekse levering van kleine hoeveelheden vlees van op het bedrijf geslacht
 
 ##### Artikel 2.4. Onderzoek wilde zwijnen
 
-1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2021-04-21&g=2022-01-01), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, derde lid, derde alinea, van verordening (EG) nr. 2075/2005.
+1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2022-03-01&g=2022-03-01), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, tweede lid, tweede alinea, van [verordening (EU) nr. 1375/2015](32015R1375).
 
-2. De bemonstering en het onderzoek van het monster vinden plaats overeenkomstig bijlage I, hoofdstuk I, onderdeel 1, onderdeel 2, onder c, tweede alinea en onderdeel 3, onder I en II, en bijlage III, aanhef en onderdelen a, d en f, van verordening (EG) nr. 2075/2005.
+2. De bemonstering en het onderzoek van het monster vinden plaats overeenkomstig bijlage I, hoofdstuk I, onderdeel 1, onderdeel 2, onder c, tweede alinea, onderdeel 3, onder I en II, en bijlage III, aanhef en onderdelen a, d, en f, van [verordening (EU) nr. 1375/2015](32015R1375).
 
 3. De gekwalificeerde persoon brengt op een karkas van een wild zwijn een uniek merk aan en vermeldt dat merk bij de gegevens die behoren bij het monster, bedoeld in het eerste lid.
 
@@ -152,9 +152,9 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.7. Regels ter uitvoering EU-rechtshandelingen
 
-1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2022-01-01) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
+1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2022-03-01&g=2022-03-01) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
 
-2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2022-01-01) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
+2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2022-03-01&g=2022-03-01) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
 
 ##### Artikel 2.8. Nationale kwaliteitsvoorschriften voor kaas
 
@@ -176,7 +176,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.9. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
-1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2021-04-21&g=2022-01-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2021-04-21&g=2022-01-01), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
+1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2022-03-01&g=2022-03-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2022-03-01&g=2022-03-01), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
 
 - a. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8), [11, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), en [13 tot en met 13y van de Landbouwkwaliteitswet](onbekend);
 
@@ -184,7 +184,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 2. Op de uitvoering van het toezicht op de naleving van regels over de kwaliteit van levensmiddelen van dierlijke oorsprong door Onze Minister, is [artikel 11, tweede en vierde tot en met zevende lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) van overeenkomstige toepassing.
 
-3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2021-04-21&g=2022-01-01).
+3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2022-03-01&g=2022-03-01).
 
 ##### Artikel 2.10. Controles en bewijsstukken
 
@@ -238,7 +238,7 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 2. De tarieven, alsmede wijzigingen daarvan, behoeven de goedkeuring van Onze Minister.
 
-3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2021-04-21&g=2022-01-01).
+3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-03-01&g=2022-03-01).
 
 4. Indien de vanaf een kalenderjaar te berekenen tarieven niet voor 1 januari van dat jaar zijn goedgekeurd, kan Onze Minister de tarieven vaststellen.
 
@@ -248,7 +248,7 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 ##### Artikel 3.5. Extra kosten
 
-Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2021-04-21&g=2022-01-01), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
+Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2022-03-01&g=2022-03-01), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
 
 ### Hoofdstuk 3. Niet voor menselijke consumptie bestemde dierlijke producten
 
