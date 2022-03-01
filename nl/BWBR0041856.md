@@ -4,7 +4,7 @@ identifier: "BWBR0041856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-31"
-last_updated: "2021-09-01"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041856"
 soort: "ministeriele-regeling"
@@ -74,8 +74,6 @@ Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
 - ○. om medische redenen binnen de tijdspanne van een jaar zijn gestopt met de hormoontherapie;
 
-- –. De operatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2021-09-01&g=2021-09-01), nog niet ondergaan hebben;
-
 - –. Geen aanspraak kunnen maken op vergoeding van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie op grond van [artikel 2.1, onderdeel c, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.1).
 
 ##### Artikel 5
@@ -116,7 +114,7 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 2. De Minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% van het subsidiebedrag.
 
-3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2021-09-01&g=2021-09-01), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
+3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2022-03-01&g=2022-03-01), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
 
 4. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
