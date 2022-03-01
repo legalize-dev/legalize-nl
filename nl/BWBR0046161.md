@@ -4,7 +4,7 @@ identifier: "BWBR0046161"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-10"
-last_updated: "2022-01-11"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046161"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=2&z=2022-01-11&g=2022-01-11).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=2&z=2022-03-01&g=2022-03-01).
 
 ##### Artikel 2
 
-Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij het Team Buitengerechtelijke Afdoening, in de functie van Assistent Intake en Service A, Assistent Intake en Service B, medewerker Intake en Service, generalist Intake en Service, senior Intake en Service, die hun werkgebied hebben in de regionale eenheid Oost-Nederland.
+Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij het Team Buitengerechtelijke Afdoening, in de functie van Assistent Intake en Service A, Assistent Intake en Service B, medewerker Intake en Service, generalist Intake en Service, senior Intake en Service, die hun werkgebied hebben in de regionale eenheid Amsterdam.
 
 ##### Artikel 3
 
@@ -82,13 +82,13 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=2&z=2022-01-11&g=2022-01-11) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=2&z=2022-03-01&g=2022-03-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=5&z=2022-01-11&g=2022-01-11) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046161&artikel=5&z=2022-03-01&g=2022-03-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
