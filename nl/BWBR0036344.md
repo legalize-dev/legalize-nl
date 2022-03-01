@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2021-03-01"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -72,7 +72,7 @@ Besluit:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2021-03-01&g=2021-03-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -80,7 +80,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2021-03-01&g=2021-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2021-03-01&g=2021-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2022-03-01&g=2022-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -88,7 +88,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2021-03-01&g=2021-03-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2022-03-01&g=2022-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -96,7 +96,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2021-03-01&g=2021-03-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2022-03-01&g=2022-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -108,7 +108,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2021-03-01&g=2021-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2021-03-01&g=2021-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2021-03-01&g=2021-03-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2022-03-01&g=2022-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2022-03-01&g=2022-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -124,118 +124,25 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 ##### Artikel 13. Citeertitel
 
-Deze regeling kan worden aangehaald als Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015.
+Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo en Staatsexamens vo BES.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo en Staatsexamens vo BES 2021
+## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo en Staatsexamens vo BES 2022
 
-(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2021-03-01&g=2021-03-01))
+### Schriftelijke toetsen staatsexamens VO en staatsexamens VO BES 2015
 
 Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo en Staatsexamens vo BES.
 
 Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de college-examens:
 
-| schrijfopdracht Nederlandse taal en literatuur |
-| --- |
-| schrijfopdracht Franse taal en literatuur |
-| schrijfopdracht Friese taal en cultuur |
-| schrijfopdracht Duitse taal en literatuur |
-| schrijfopdracht Engelse taal en literatuur |
-| schrijfopdracht Italiaanse taal en literatuur |
-| leesopdracht Italiaanse taal en literatuur |
-| schrijfopdracht Italiaanse taal en literatuur (elementair) |
-| leesopdracht Italiaanse taal en literatuur (elementair) |
-| schrijfopdracht Papiamentse taal |
-| schrijfopdracht Spaanse taal en literatuur |
-| schrijfopdracht Spaanse taal en literatuur (elementair) |
-| leesopdracht Spaanse taal en literatuur (elementair) |
-| schrijfopdracht Russische taal en literatuur |
-| leesopdracht Russische taal en literatuur (elementair) |
-| schrijfopdracht Turkse taal en literatuur |
-| schrijfopdracht Turkse taal en literatuur (elementair) |
-| leesopdracht Turkse taal en literatuur (elementair) |
-| schrijfopdracht Arabische taal en literatuur |
-| leesopdracht Arabische taal en literatuur (elementair) |
-| schrijfopdracht Chinese taal en cultuur |
-| leesopdracht Chinese taal en cultuur |
-| schrijfopdracht Chinese taal en cultuur (elementair) |
-| leesopdracht Chinese taal en cultuur (elementair) |
-| maatschappijleer |
-| algemene natuurwetenschappen |
-| natuur, leven en technologie |
-| informatica |
-
-| schrijfopdracht Nederlandse taal en literatuur |
-| --- |
-| schrijfopdracht Franse taal en literatuur |
-| schrijfopdracht Friese taal en cultuur |
-| schrijfopdracht Duitse taal en literatuur |
-| schrijfopdracht Engelse taal en literatuur |
-| schrijfopdracht Italiaanse taal en literatuur |
-| leesopdracht Italiaanse taal en literatuur |
-| schrijfopdracht Italiaanse taal en literatuur (elementair) |
-| leesopdracht Italiaanse taal en literatuur (elementair) |
-| schrijfopdracht Papiamentse taal |
-| schrijfopdracht Spaanse taal en literatuur |
-| schrijfopdracht Spaanse taal en literatuur (elementair) |
-| leesopdracht Spaanse taal en literatuur (elementair) |
-| schrijfopdracht Russische taal en literatuur |
-| leesopdracht Russische taal en literatuur (elementair) |
-| schrijfopdracht Turkse taal en literatuur |
-| schrijfopdracht Turkse taal en literatuur (elementair) |
-| leesopdracht Turkse taal en literatuur (elementair) |
-| schrijfopdracht Arabische taal en literatuur |
-| leesopdracht Arabische taal en literatuur (elementair) |
-| maatschappijleer |
-| algemene natuurwetenschappen |
-| natuur, leven en technologie |
-| informatica |
-| informatica (oud programma) |
-| rekenen |
-
-| schrijfopdracht Frans |
-| --- |
-| schrijfopdracht Fries |
-| schrijfopdracht Duits |
-| schrijfopdracht Engels |
-| schrijfopdracht Papiamentse taal |
-| schrijfopdracht Spaans |
-| schrijfopdracht Turks |
-| maatschappijleer |
-| rekenen |
-
-| schrijfopdracht Franse taal |
-| --- |
-| schrijfopdracht Duitse taal |
-| schrijfopdracht Engelse taal |
-| schrijfopdracht Spaanse taal |
-| schrijfopdracht Turkse taal |
-| maatschappijleer |
-| rekenen |
-
-| schrijfopdracht Franse taal |
-| --- |
-| schrijfopdracht Duitse taal |
-| schrijfopdracht Engelse taal |
-| schrijfopdracht Spaanse taal |
-| schrijfopdracht Turkse taal |
-| maatschappijleer |
-| rekenen |
-
-### Schriftelijke toetsen staatsexamens VO en staatsexamens VO BES 2015
-
-Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de staatsexamens VO en staatsexamens VO BES.
-
-Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen:
-
 ## Bijlage 2. behorende bij de Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015, van 9 februari 2015, nummer CvTE-15.00619
 
-### Mondelinge examens staatsexamens VO en staatsexamens VO BES 2015
+### Tabel 1b
 
 De volgende mondelinge examens worden afgenomen:
 
 ## Bijlage 3. behorende bij de Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015, van 9 februari 2015, nummer CvTE-15.00619
 
-### Praktische examens staatsexamens VO en staatsexamens VO BES 2015
+### Tabel 1e
 
 De volgende praktische examens worden afgenomen:
 
@@ -398,3 +305,39 @@ De volgende praktische examens worden afgenomen:
 | --- |
 | kunstvakken II: beeldende vakken-tekenen |
 | kunstvakken II: muziek |
+
+(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2022-03-01&g=2022-03-01))
+
+### Tabel 1a
+
+### Tabel 1c
+
+### Tabel 1d
+
+## Bijlage 2. Mondelinge examens Staatsexamens vo en Staatsexamens vo BES 2022
+
+(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2022-03-01&g=2022-03-01))
+
+De volgende mondelinge examens worden afgenomen:
+
+### Tabel 2a
+
+### Tabel 2b
+
+### Tabel 2c
+
+### Tabel 2d
+
+### Tabel 2e
+
+## Bijlage 3. Praktische examens Staatsexamens vo en Staatsexamens vo BES 2022
+
+(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2022-03-01&g=2022-03-01))
+
+De volgende praktische examens worden afgenomen:
+
+### Tabel 3a
+
+### Tabel 3b
+
+### Tabel 3c
