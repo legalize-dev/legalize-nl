@@ -4,7 +4,7 @@ identifier: "BWBR0042394"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042394"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet wordt verstaan onder:
 
 - **aandeel hernieuwbare energie:** aandeel hernieuwbare energie, berekend in overeenstemming met de artikelen 5 tot en met 11 van de Richtlijn hernieuwbare energie, in het brutoeindverbruik van energie;
 
-- **broeikasgassen:** gassen genoemd in bijlage I van de monitoringsmechanisme-verordening;
+- **broeikasgassen:** gassen genoemd in bijlage V, deel 2, van de Verordening governance van de Energie-unie;
 
 - **hernieuwbare energie:** energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de Richtlijn hernieuwbare energie;
 
@@ -59,9 +59,9 @@ In deze wet wordt verstaan onder:
 
 - **Richtlijn hernieuwbare energie:** [Richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEU 2009, L 140)
 
-- **monitoringsmechanisme-verordening:** verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende een bewakings- en rapportagesysteem voor de uitstoot van broeikasgassen en een rapportagemechanisme voor overige informatie op nationaal niveau en op het niveau van de unie met betrekking tot klimaatverandering, en tot intrekking van Beschikking nr. 280/2004/EG (PbEU 2013, L 165);
+- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
+- **verordening governance van de energie-unie:** [Verordening (EU) 2018/1999](32018R1999) van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van [Richtlijn 94/22/EG](31994L0022), [Richtlijn 98/70/EG](31998L0070), [Richtlijn 2009/31/EG](32009L0031), Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, [Richtlijn 2009/73/EG](32009L0073), [Richtlijn 2009/119/EG](32009L0119) van de Raad, [Richtlijn 2010/31](32010L0031)/EU, [Richtlijn 2012/27](32012L0027)/EU, [Richtlijn 2013/30](32013L0030)/EU en [Richtlijn (EU) 2015/652](32015L0652) van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328).
 
 ##### Artikel 2
 
@@ -69,17 +69,17 @@ In deze wet wordt verstaan onder:
 
 2. Teneinde deze doelstelling voor 2050 te bereiken streven Onze Ministers die het aangaat naar een reductie van de emissies van broeikasgassen van 49% in 2030 en een volledige CO2-neutrale elektriciteitsproductie in 2050.
 
-3. Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen als bedoeld in artikel 2, onderdeel b, van de monitoringsmechanisme-verordening.
+3. Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen afkomstig van sectoren en bronnen en de verwijdering per put die in de nationale broeikasgasinventarissen overeenkomstig artikel 4, eerste lid, onder a, van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering (Trb. 1992, 189) zijn opgenomen.
 
 ### Hoofdstuk 2. Klimaatplan
 
 ##### Artikel 3
 
-1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), voor de eerstvolgende tien jaren.
+1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), voor de eerstvolgende tien jaren.
 
 2. Het klimaatplan bevat tevens:
 
-- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), worden bereikt;
+- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), worden bereikt;
 
 - b. het verwachte aandeel hernieuwbare energie en de verwachte besparing op het primaire energiegebruik;
 
@@ -109,7 +109,7 @@ In deze wet wordt verstaan onder:
 
 3. De Afdeling advisering van de Raad van State wordt over het klimaatplan gehoord.
 
-4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
+4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Verantwoording
 
@@ -145,7 +145,7 @@ In deze wet wordt verstaan onder:
 
 - e. de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan, en
 
-- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), als deze is uitgevoerd.
+- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), als deze is uitgevoerd.
 
 4. De Afdeling advisering van de Raad van State wordt over de klimaatnota gehoord.
 
@@ -153,11 +153,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
+1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
 
 2. In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.
 
-3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01).
+3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02).
 
 ### Hoofdstuk 5. Slotbepalingen
 
