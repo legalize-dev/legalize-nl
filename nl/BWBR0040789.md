@@ -4,7 +4,7 @@ identifier: "BWBR0040789"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-02"
-last_updated: "2018-03-31"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040789"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **antennesysteem:** samenstel van twee of meer antennes met bijbehorende bekabeling en technische voorzieningen;
 
-- **besluit:** [Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0040788);
+- **besluit:** [Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0040788);
 
 - **ERP:** Effective Radiated Power;
 
@@ -246,6 +246,18 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet informatie-uitwis
 
 ##### Artikel 8
 
-Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke infrastructuur.
+Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) bevat ten minste een omschrijving van:
+
+- a. het draadloze toegangspunt met klein bereik ten dienste waarvan het medegebruik wordt gevraagd;
+
+- b. de elementen van het elektronische communicatienetwerk waarvan het draadloze toegangspunt met klein bereik deel uitmaakt;
+
+- c. de beoogde tijdsplanning voor de aanleg.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
