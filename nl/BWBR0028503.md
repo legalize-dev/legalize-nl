@@ -4,7 +4,7 @@ identifier: "BWBR0028503"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-03-02"
-last_updated: "2022-01-01"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028503"
 soort: "wet-BES"
@@ -69,7 +69,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Behoort de onderneming toe aan een natuurlijke persoon, of is een vennootschap onder firma of een commanditaire vennootschap aangegaan, dan worden tevens de gegevens daarvan ingeschreven.
 
-3. Aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=4&z=2022-01-01&g=2022-01-01), genoemde rechtspersonen, met uitzondering van stichtingen, stichtingen particulier fonds en verenigingen, wordt steeds geacht een onderneming toe te behoren.
+3. Aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=4&z=2022-03-02&g=2022-03-02), genoemde rechtspersonen, met uitzondering van stichtingen, stichtingen particulier fonds en verenigingen, wordt steeds geacht een onderneming toe te behoren.
 
 4. Het bepaalde in het derde lid is van overeenkomstige toepassing op in het openbaar lichaam gevestigde buitenlandse rechtspersonen.
 
@@ -99,11 +99,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 6
 
-1. Tot inschrijving van een in het openbaar lichaam gevestigde onderneming of nevenvestiging is bevoegd de Kamer binnen welker gebied de onderneming haar hoofdvestiging respectievelijk hoofdnederzetting heeft.
+1. Tot inschrijving van een in het openbaar lichaam gevestigde onderneming of nevenvestiging is bevoegd de Kamer van het gebied waarbinnen de onderneming haar hoofdvestiging respectievelijk hoofdnederzetting heeft.
 
-2. Tot inschrijving van een in het openbaar lichaam gevestigde rechtspersoon is bevoegd de Kamer binnen welker gebied de rechtspersoon volgens zijn statuten zijn zetel heeft.
+2. Tot inschrijving van een in het openbaar lichaam gevestigde rechtspersoon is bevoegd de Kamer van het gebied waarbinnen de rechtspersoon volgens zijn statuten zijn zetel heeft.
 
-3. Tot inschrijving van een buiten het openbaar lichaam gevestigde onderneming is bevoegd de Kamer binnen welker gebied de onderneming haar hoofdnederzetting heeft.
+3. Tot inschrijving van een buiten het openbaar lichaam gevestigde onderneming is bevoegd de Kamer van het gebied waarbinnen de onderneming haar hoofdnederzetting heeft.
 
 ##### Artikel 7
 
@@ -117,7 +117,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. De andere voorgeschreven opgaven worden gedaan uiterlijk één week na het plaatsvinden van het feit ten gevolge waarvan de verplichting tot de opgave ontstaat, voor zover bij of krachtens algemene maatregel van bestuur niet anders is bepaald.
 
-3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover het een wijziging betreft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-01-01&g=2022-01-01) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=10&z=2022-01-01&g=2022-01-01), zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
+3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover het een wijziging betreft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-03-02&g=2022-03-02) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=10&z=2022-03-02&g=2022-03-02), zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
 
 ##### Artikel 9
 
@@ -133,7 +133,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 1. Indien uit het bevolkingsregister blijkt dat degene aan wie een onderneming toebehoort of een andere in verband met de onderneming of rechtspersoon in het register ingeschreven persoon is overleden, is de Kamer ambtshalve bevoegd dit feit in het register in te schrijven.
 
-2. [Artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-01-01&g=2022-01-01), is op de inschrijving, bedoeld in het eerste lid, van overeenkomstige toepassing.
+2. [Artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-03-02&g=2022-03-02), is op de inschrijving, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 ## Openbaarheid en externe werking handelsregisterinzage, afschrift of uittreksel
 
@@ -155,7 +155,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 13
 
-Ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen gegevens of bescheiden beperkingen worden vastgesteld ten aanzien van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2022-01-01&g=2022-01-01).
+Ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen gegevens of bescheiden beperkingen worden vastgesteld ten aanzien van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2022-03-02&g=2022-03-02).
 
 ##### Artikel 14
 
