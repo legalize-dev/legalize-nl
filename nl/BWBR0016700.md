@@ -4,7 +4,7 @@ identifier: "BWBR0016700"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2013-07-01"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016700"
 soort: "AMvB"
@@ -64,11 +64,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen in Nederland.
+Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen in Nederland.
 
 ##### Artikel 3
 
-1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, behandelt oproepen van zijn eindgebruikers naar eindgebruikers die binnen de Europese Unie gebruik maken van:
+1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, behandelt oproepen van zijn eindgebruikers naar eindgebruikers die binnen de Europese Unie gebruik maken van:
 
 - a. nummers die behoren tot de Europese telefoonnummeringsruimte, en
 
@@ -80,13 +80,13 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 ##### Artikel 4
 
-1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:
+1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:
 
 - a. een zich in Nederland bevindende abonnee die gebruik maakt van een door de Autoriteit Consument en Markt toegekend nummer op dat nummer kan worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers, en
 
 - b. een zich in een andere lidstaat van de Europese Unie bevindende abonnee die gebruik maakt van een nummer, toegekend door een nationale regelgevende instantie, op dat nummer kan worden opgeroepen door zich in Nederland bevindende eindgebruikers.
 
-2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op aanbieders van andere openbare elektronische communicatiediensten dan de openbare telefoondienst die abonnees die gebruik maken van een door de Autoriteit Consument en Markt toegekend niet-geografisch nummer de mogelijkheid bieden om binnenkomende oproepen te ontvangen en aanbieders van openbare elektronische communicatienetwerken wier medewerking noodzakelijk is om die dienst aan te bieden.
+2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op aanbieders van andere openbare elektronische communicatiediensten dan de spraakcommunicatiedienst die abonnees die gebruik maken van een door de Autoriteit Consument en Markt toegekend niet-geografisch nummer de mogelijkheid bieden om binnenkomende oproepen te ontvangen en aanbieders van openbare elektronische communicatienetwerken wier medewerking noodzakelijk is om die dienst aan te bieden.
 
 3. De verplichting, bedoeld in het eerste en tweede lid, geldt niet:
 
@@ -96,9 +96,9 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 ##### Artikel 5
 
-1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, waarborgt dat eindgebruikers gebruik kunnen maken van diensten met gebruikmaking van niet-geografische nummers binnen de Europese Unie.
+1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, waarborgt dat eindgebruikers gebruik kunnen maken van diensten met gebruikmaking van niet-geografische nummers binnen de Europese Unie.
 
-2. De verplichting, bedoeld in het eerste lid, houdt in ieder geval in dat de in het eerste lid bedoelde aanbieders van openbare telefoondiensten en van openbare elektronische communicatienetwerken voor oproepen naar een nummer uit de reeks 0800, 084, 085, 087, 088, 0900, 0906, 0909, 116, 14 of 18 tarieven of andere vergoedingen hanteren die vergelijkbaar zijn met de tarieven of andere vergoedingen die deze aanbieders hanteren voor oproepen naar geografische nummers, en zij uitsluitend een afwijkend tarief of afwijkende vergoeding hanteren indien dit noodzakelijk is om de extra kosten te dekken die gemoeid zijn met de oproepen naar deze niet-geografische nummers. Bij ministeriële regeling kan worden bepaald dat deze verplichting van toepassing is op andere categorieën aanbieders of op andere categorieën niet-geografische nummers.
+2. De verplichting, bedoeld in het eerste lid, houdt in ieder geval in dat de in het eerste lid bedoelde aanbieders van spraakcommunicatiediensten en van openbare elektronische communicatienetwerken voor oproepen naar een nummer uit de reeks 0800, 084, 085, 087, 088, 0900, 0906, 0909, 116, 14 of 18 tarieven of andere vergoedingen hanteren die vergelijkbaar zijn met de tarieven of andere vergoedingen die deze aanbieders hanteren voor oproepen naar geografische nummers, en zij uitsluitend een afwijkend tarief of afwijkende vergoeding hanteren indien dit noodzakelijk is om de extra kosten te dekken die gemoeid zijn met de oproepen naar deze niet-geografische nummers. Bij ministeriële regeling kan worden bepaald dat deze verplichting van toepassing is op andere categorieën aanbieders of op andere categorieën niet-geografische nummers.
 
 3. Bij ministeriële regeling kunnen ten aanzien van de in het eerste lid bedoelde verplichting nadere regels worden gesteld.
 
@@ -110,6 +110,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-Een aanbieder van openbare telefoondiensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.
+Een aanbieder van spraakcommunicatiediensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
