@@ -4,7 +4,7 @@ identifier: "BWBR0032895"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2020-03-01"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032895"
 soort: "AMvB"
@@ -56,7 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **vergunning:** vergunning als bedoeld in [artikel 3.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13);
 
-- c. **antenneregister:** openbaar antenneregister als bedoeld in [artikel 3.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.23).
+- c. **antenneregister:** openbaar antenneregister als bedoeld in [artikel 3.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.23);
+
+- d. **geharmoniseerde frequentieruimte:** frequentieruimte waarvoor door middel van technische uitvoeringsmaatregelen op grond van Beschikking nr. 676/2002/EG van het Europees Parlement en de Raad van 7 maart 2002 (PbEG 2002, L 108) of een andere vergelijkbare maatregel gebaseerd op artikel 114 van het Verdrag betreffende de Werking van de Europese Unie, geharmoniseerde voorwaarden zijn vastgesteld.
 
 ### Hoofdstuk 2. Gebruik van frequentieruimte zonder vergunning
 
@@ -88,11 +90,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het veroorzaken van belemmeringen in radioapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radioapparaat.
 
-3. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-03-01&g=2020-03-01), is van overeenkomstige toepassing.
+3. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Bij ministeriële regeling kunnen eisen worden gesteld waaraan een natuurlijke persoon moet voldoen voor het gebruik van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2020-03-01&g=2020-03-01). Deze eisen kunnen slechts inhouden dat:
+1. Bij ministeriële regeling kunnen eisen worden gesteld waaraan een natuurlijke persoon moet voldoen voor het gebruik van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2022-03-02&g=2022-03-02). Deze eisen kunnen slechts inhouden dat:
 
 - a. de gebruiker een bepaalde leeftijd heeft bereikt;
 
@@ -112,13 +114,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. het verkrijgen van een certificaat van bediening.
 
-3. Bij ministeriële regeling kunnen regels worden gesteld voor het gebruik door rechtspersonen van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2020-03-01&g=2020-03-01).
+3. Bij ministeriële regeling kunnen regels worden gesteld voor het gebruik door rechtspersonen van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2022-03-02&g=2022-03-02).
 
 4. Voor de toepassing van dit artikel wordt een vennootschap zonder rechtspersoonlijkheid gelijk gesteld met een rechtspersoon.
 
 ##### Artikel 5
 
-1. Degene die voornemens is frequentieruimte waarvoor geen vergunning is vereist te gebruiken als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2020-03-01&g=2020-03-01), doet hiervan melding aan Onze Minister.
+1. Degene die voornemens is frequentieruimte waarvoor geen vergunning is vereist te gebruiken als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2022-03-02&g=2022-03-02), doet hiervan melding aan Onze Minister.
 
 2. Onze Minister registreert het in de melding bedoelde frequentiegebruik tenzij niet wordt voldaan aan bij ministeriële regeling te stellen regels.
 
@@ -142,7 +144,7 @@ Ingeval van een procedure voor de verlening van een vergunning als bedoeld in [a
 
 1. Uiterlijk zeven dagen nadat het besluit, bedoeld in [artikel 3.10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), in werking is getreden, maakt Onze Minister bekend:
 
-- a. de regels, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2020-03-01&g=2020-03-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2020-03-01&g=2020-03-01);
+- a. de regels, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2022-03-02&g=2022-03-02), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2022-03-02&g=2022-03-02);
 
 - b. de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15).
 
@@ -220,9 +222,9 @@ Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aan
 
 - d. de aanvrager een redelijk belang heeft bij het voorgenomen gebruik van de gevraagde frequentieruimte.
 
-2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2020-03-01&g=2020-03-01), is van overeenkomstige toepassing.
+2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), is van overeenkomstige toepassing.
 
-3. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01), en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
+3. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02), en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
 
 ##### Artikel 12
 
@@ -264,7 +266,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 ##### Artikel 15
 
-1. Uiterlijk negen weken na ontvangst van een aanvraag die voldoet aan het bepaalde op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2020-03-01&g=2020-03-01), maakt Onze Minister in de Staatscourant bekend:
+1. Uiterlijk negen weken na ontvangst van een aanvraag die voldoet aan het bepaalde op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2022-03-02&g=2022-03-02), maakt Onze Minister in de Staatscourant bekend:
 
 - a. de ontvangst van de aanvraag en de frequentieband waarop deze aanvraag betrekking heeft;
 
@@ -272,11 +274,11 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan een vergunning voor het gebruik van de betreffende frequentieband zullen worden verbonden.
 
-2. Het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2020-03-01&g=2020-03-01) bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.
+2. Het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2022-03-02&g=2022-03-02) bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.
 
 ##### Artikel 16
 
-1. Uiterlijk negen weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2020-03-01&g=2020-03-01), neemt Onze Minister:
+1. Uiterlijk negen weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2022-03-02&g=2022-03-02), neemt Onze Minister:
 
 - a. een besluit omtrent de verlening van een vergunning voor het gebruik van frequentieruimte indien de totale omvang van de aangevraagde frequentieruimte kleiner is dan of gelijk is aan de beschikbare frequentieruimte binnen het betreffende frequentie- en geografische bereik of
 
@@ -292,7 +294,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan het gebruik van de betreffende frequentieruimte zullen worden verbonden.
 
-4. In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2020-03-01&g=2020-03-01), een besluit omtrent de verlening van een vergunning.
+4. In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2022-03-02&g=2022-03-02), een besluit omtrent de verlening van een vergunning.
 
 #### Paragraaf 3.5. Aan een vergunning verbonden voorschriften en beperkingen
 
@@ -310,13 +312,15 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - e. het veroorzaken van belemmeringen in radioapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radioapparaat;
 
-- f. het waarborgen van de in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01), bedoelde belangen;
+- f. het waarborgen van de in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02), bedoelde belangen;
 
 - g. de diensten die moeten worden aangeboden, het soort elektronisch communicatienetwerk dat moet worden aangeboden of de technologie die moet worden gebruikt;
 
 - h. de naleving van verplichtingen die voortvloeien uit verdragen of uit bindende besluiten van volkenrechtelijke organisaties betreffende het gebruik van radiofrequenties of posities in de ruimte;
 
-- i. de identificatie van het zendapparaat door middel van een daartoe bij de vergunningverlening toe te kennen combinatie van letters of cijfers.
+- i. de identificatie van het zendapparaat door middel van een daartoe bij de vergunningverlening toe te kennen combinatie van letters of cijfers;
+
+- j. algemene criteria voor verlenging als bedoeld in [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.6&artikel=18a&z=2022-03-02&g=2022-03-02).
 
 2. De in het eerste lid, onderdeel a, bedoelde voorschriften en beperkingen kunnen onder meer betrekking hebben op de termijn waarop en het geografisch gebied waarbinnen de in het eerste lid, onderdeel g, bedoelde diensten moeten worden aangeboden.
 
@@ -330,31 +334,49 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 ##### Artikel 18
 
-1. Voor alle categorieën vergunningen die zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), geldt dat een vergunning van rechtswege telkens met een periode van vijf jaar wordt verlengd.
+1. Vergunningen die geen betrekking hebben op geharmoniseerde frequentieruimte en die zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), worden van rechtswege telkens met een periode van vijf jaar verlengd.
 
-2. Vergunningen die zijn verleend met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onderdelen b tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) worden niet verlengd, tenzij Onze Minister besluit dat een vergunning geheel of gedeeltelijk verlengbaar is omdat hij van oordeel is dat:
+2. Vergunningen die geen betrekking hebben op geharmoniseerde frequentieruimte en die zijn verleend met toepassing van een van de procedures, bedoeld in [artikel 3.10, eerste lid, onderdelen b tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) worden niet verlengd, tenzij Onze Minister besluit dat een vergunning geheel of gedeeltelijk verlengbaar is omdat hij van oordeel is dat:
 
 - a. een verlenging het algemeen maatschappelijk, cultureel of economisch belang dient, of
 
 - b. verlenging van belang is voor de bevordering van de overgang van analoge naar digitale techniek.
 
-3. Onze Minister neemt het besluit, bedoeld in het tweede lid, in de periode tussen vier en twee jaar voor afloop van de vergunning. Bij het gebruik van frequentieruimte door of ten behoeve van commerciële media-instellingen als bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) kan, in afwijking van de vorige volzin, het besluit in de periode tussen vier en een jaar voor afloop van de vergunning genomen worden.
+3. Voor vergunningen voor geharmoniseerde frequentieruimte voor ander gebruik dan gebruik voor draadlozebreedbanddiensten als bedoeld in artikel 49, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972), die zijn verleend met toepassing van een van de procedures, bedoeld in artikel 3.10, eerste lid, van de wet, besluit Onze Minister over de verlengbaarheid ervan, rekening houdend met in elk geval:
 
-4. Onze Minister maakt het besluit, bedoeld in het tweede lid, bekend in de Staatscourant, alsmede de verlengingsperiode en, voor zover dit op dat moment reeds mogelijk is, de voorschriften en beperkingen die bij verlenging zullen worden gewijzigd of aan de vergunning zullen worden verbonden.
+- a. de mate waarin naar het oordeel van Onze Minister verlenging bijdraagt aan het verwezenlijken van de doelstellingen van artikel 3, artikel 45, tweede lid, en artikel 48, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972) en de mate waarin verlenging het algemeen maatschappelijk, cultureel of economisch belang dient;
 
-5. Een aanvraag om verlenging wordt ingediend binnen een bij ministeriële regeling te bepalen periode.
+- b. geharmoniseerde voorwaarden die zijn vastgesteld met technische uitvoeringsmaatregelen overeenkomstig artikel 4 van Beschikking nr. 676/2002/EG;
 
-6. Voordat de aanvraagperiode, bedoeld in het vijfde lid, start, maakt Onze Minister de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15) bekend.
+- c. het belang van daadwerkelijke mededinging;
 
-7. Indien de continuïteit van dienstverlening naar het oordeel van Onze Minister in het geding is, kan hij, in afwijking van het tweede lid, vanaf twee jaar voor afloop van de vergunning een vergunning ambtshalve verlengen voor een door hem te bepalen termijn. Onze Minister maakt tevens met het besluit, bedoeld in de eerste volzin, de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15), de verlengingsperiode en de voorschriften en beperkingen die bij verlenging zullen worden gewijzigd of aan de vergunning zullen worden verbonden, bekend. Indien bij de verlenging, bedoeld in de eerste volzin toepassing gegeven wordt aan het tiende lid, kunnen de wijzigingen en toevoegingen bedoeld in dat lid ingaan op een eerdere datum dan die waarop de looptijd van de te verlengen vergunning verstrijkt.
+- d. het belang van doelmatig frequentiegebruik en
 
-8. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een vergunning die op grond van de [artikelen 3.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) of [3.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.20) is verkregen.
+- e. de noodzaak om ernstige verstoring van de dienstverlening te voorkomen.
 
-9. Vergunningen die zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6), worden op aanvraag verlengd, tenzij een doelmatige ordening van het frequentiespectrum zich daartegen verzet.
+4. Het derde lid is niet van toepassing op vergunningen die niet verlengbaar zijn op grond van bij of krachtens deze wet gestelde regels dan wel aan de vergunning verbonden voorschriften en beperkingen.
 
-10. In het geval een vergunning wordt verlengd kunnen de aan de vergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan de vergunning worden toegevoegd.
+5. Onze Minister neemt het besluit, bedoeld in het tweede, onderscheidenlijk het derde lid, in de periode tussen vijf en twee jaar voor afloop van de vergunning, met dien verstande dat bij het gebruik van frequentieruimte door of ten behoeve van commerciële media-instellingen als bedoeld in [artikel 1.1 van de Mediawet 2008](onbekend) deze periode tussen vijf en één jaar voor afloop van de vergunning bedraagt.
 
-11. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de verlenging van vergunningen. Deze regels kunnen per te verlenen vergunning verschillen.
+6. Op de voorbereiding van het besluit, bedoeld in het tweede onderscheidenlijk het derde lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
+
+7. Onze Minister maakt het besluit, bedoeld in het tweede onderscheidenlijk het derde lid, bekend in de Staatscourant, alsmede de verlengingsperiode en, voor zover dit op dat moment reeds mogelijk is, de voorschriften en beperkingen die bij verlenging zullen worden gewijzigd of aan de vergunning zullen worden verbonden.
+
+8. Een aanvraag om verlenging wordt ingediend binnen een bij ministeriële regeling te bepalen periode.
+
+9. Voorafgaand aan de aanvraagperiode, bedoeld in het achtste lid, maakt Onze Minister in voorkomend geval de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15) bekend.
+
+10. Een aanvraag om verlenging kan worden afgewezen met overeenkomstige toepassing van [artikel 3.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19).
+
+11. Indien de continuïteit van dienstverlening naar het oordeel van Onze Minister in het geding is, kan hij, in afwijking van het vijfde lid, vanaf twee jaar voor afloop van de vergunning een vergunning ambtshalve verlengen voor een door hem te bepalen termijn. Onze Minister maakt tevens met het besluit, bedoeld in de eerste volzin, de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15), de verlengingsperiode en de voorschriften en beperkingen die bij verlenging zullen worden gewijzigd of aan de vergunning zullen worden verbonden, bekend. Indien bij de verlenging, bedoeld in de eerste volzin toepassing gegeven wordt aan het veertiende lid, kunnen de wijzigingen en toevoegingen bedoeld in dat lid ingaan op een eerdere datum dan die waarop de looptijd van de te verlengen vergunning verstrijkt.
+
+12. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een vergunning die op grond van de [artikelen 3.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) of [3.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.20) is verkregen.
+
+13. Vergunningen die zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6), worden op aanvraag verlengd, tenzij een doelmatige ordening van het frequentiespectrum zich daartegen verzet.
+
+14. In het geval een vergunning wordt verlengd kunnen de aan de vergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan de vergunning worden toegevoegd.
+
+15. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de verlenging van vergunningen. Deze regels kunnen per te verlenen vergunning verschillen.
 
 #### Paragraaf 3.7. Verplichte overdracht van een vergunning
 
@@ -402,7 +424,7 @@ Deze regels kunnen per vergunning verschillen.
 
 - f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digitale techniek.
 
-3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01), is van overeenkomstige toepassing op de in het eerste lid bedoelde eisen.
+3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02), is van overeenkomstige toepassing op de in het eerste lid bedoelde eisen.
 
 4. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het tweede en derde lid bij ministeriële regeling tevens regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
 
@@ -446,13 +468,15 @@ Deze regels kunnen per vergunning verschillen.
 
 - b. antennes die zijn geplaatst op een vaste locatie en die tot een netwerk behoren, indien meer dan de helft van het aantal antennes van het netwerk een zendvermogen van meer dan 10 dB watt ERP heeft;
 
-- c. antennes van radiozendamateurs die zijn geregistreerd als gebruiker van frequentieruimte.
+- c. antennes van radiozendamateurs die zijn geregistreerd als gebruiker van frequentieruimte;
+
+- d. antennes waarop bij of krachtens artikel 57, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972) gestelde regels van toepassing zijn.
 
 2. Van het eerste lid zijn uitgezonderd de gegevens van antennes in gebruik bij overheidsorganen die een taak uitoefenen op het terrein van politie, justitie of veiligheid.
 
 ##### Artikel 24
 
-1. In het antenneregister worden voor de antennes, bedoeld in [artikel 23, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2020-03-01&g=2020-03-01) de volgende gegevens opgenomen:
+1. In het antenneregister worden voor de antennes, bedoeld in [artikel 23, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2022-03-02&g=2022-03-02), de volgende gegevens opgenomen:
 
 - a. de toepassing van de antenne;
 
@@ -466,13 +490,15 @@ Deze regels kunnen per vergunning verschillen.
 
 - f. de datum van ingebruikname van de antenne;
 
-- g. de locatie van de antenne-installatie, met een nauwkeurigheid van 15 meter, aangeduid met toepassing van het World Geodetic System 1984.
+- g. de locatie van de antenne-installatie, onder vermelding van de geografische positie in graden, minuten, seconden volgens het Europees Terrestrisch Referentiesysteem 89 of het World Geodetic System 1984, in ieder geval met een nauwkeurigheid van 15 meter;
+
+- h. de verklaring dat de antenne voldoet aan de eisen van de krachtens artikel 57, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972) gestelde regels, indien het een antenne als bedoeld in [artikel 23, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2022-03-02&g=2022-03-02), betreft.
 
 2. De gegevens, bedoeld in het eerste lid, worden aan Onze Minister verstrekt door diegene die de frequentie gebruikt of wil gebruiken.
 
 ##### Artikel 25
 
-1. In het antenneregister worden voor de antennes als bedoeld in [artikel 23, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2020-03-01&g=2020-03-01), de volgende gegevens opgenomen:
+1. In het antenneregister worden voor de antennes als bedoeld in [artikel 23, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2022-03-02&g=2022-03-02), de volgende gegevens opgenomen:
 
 - a. de locatie van de antenne-installatie, met een nauwkeurigheid van 15 meter, aangeduid met toepassing van het World Geodetic System 1984;
 
@@ -572,19 +598,19 @@ Wijzigt het Besluit randapparaten en radioapparaten 2007.
 
 Na de inwerkingtreding van dit besluit berust:
 
-- a. de [Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285) op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2020-03-01&g=2020-03-01), en [11, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2020-03-01&g=2020-03-01) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5) en [6 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6);
+- a. de [Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285) op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), en [11, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2022-03-02&g=2022-03-02) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5) en [6 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6);
 
-- b. de [Regeling aanvraag en toelating vergunningen voor het gebruik van frequentiegebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0015731) op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2020-03-01&g=2020-03-01), 11, tweede lid, juncto 4, tweede lid, en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2020-03-01&g=2020-03-01) van dit besluit;
+- b. de [Regeling aanvraag en toelating vergunningen voor het gebruik van frequentiegebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0015731) op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2022-03-02&g=2022-03-02), 11, tweede lid, juncto 4, tweede lid, en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2022-03-02&g=2022-03-02) van dit besluit;
 
-- c. de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2020-03-01&g=2020-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2020-03-01&g=2020-03-01) van dit besluit
+- c. de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2022-03-02&g=2022-03-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2022-03-02&g=2022-03-02) van dit besluit
 
-- d. de [Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0031069) op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2020-03-01&g=2020-03-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2020-03-01&g=2020-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2020-03-01&g=2020-03-01) van dit besluit;
+- d. de [Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0031069) op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2022-03-02&g=2022-03-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2022-03-02&g=2022-03-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2022-03-02&g=2022-03-02) van dit besluit;
 
-- e. de [Regeling openbaar antenneregister](https://wetten.overheid.nl/jci1.3:c:BWBR0027031) op [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=26&z=2020-03-01&g=2020-03-01) van dit besluit;
+- e. de [Regeling openbaar antenneregister](https://wetten.overheid.nl/jci1.3:c:BWBR0027031) op [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=26&z=2022-03-02&g=2022-03-02) van dit besluit;
 
-- f. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-03-01&g=2020-03-01), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2020-03-01&g=2020-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2020-03-01&g=2020-03-01), en [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-03-01&g=2020-03-01), van dit besluit, en
+- f. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2022-03-02&g=2022-03-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), en [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2022-03-02&g=2022-03-02), van dit besluit, en
 
-- g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2020-03-01&g=2020-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2020-03-01&g=2020-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2020-03-01&g=2020-03-01) van dit besluit.
+- g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2022-03-02&g=2022-03-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2022-03-02&g=2022-03-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2022-03-02&g=2022-03-02) van dit besluit.
 
 ##### Artikel 39
 
@@ -639,6 +665,56 @@ Een vergunning wordt geweigerd voor zover verlening daarvan in strijd zou zijn m
 #### Paragraaf 3.6. Verlenging van een vergunning
 
 #### Paragraaf 3.7. Verplichte overdracht van een vergunning
+
+### Hoofdstuk 4. Antenneregister en medegebruik van antenne-opstelpunten
+
+### Hoofdstuk 5. Wijziging diverse algemene maatregelen van bestuur
+
+### Hoofdstuk 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18a
+
+1. Vergunningen die betrekking hebben op geharmoniseerde frequentieruimte voor het gebruik voor draadlozebreedbanddiensten als bedoeld in artikel 49, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972), worden verleend voor een termijn van ten minste vijftien jaar.
+
+2. Indien de looptijd van de in het eerste lid bedoelde vergunningen minder dan twintig jaar bedraagt, zijn het derde tot en met het zesde lid van toepassing.
+
+3. Bij het besluit, bedoeld in [artikel 3.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), worden algemene criteria vastgesteld voor de verlenging ervan tot ten minste een totale looptijd van twintig jaar. De termijn voor het naar voren brengen van zienswijzen over het ontwerp van de algemene criteria bedraagt in afwijking van [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) drie maanden.
+
+4. De in het derde lid bedoelde algemene criteria hebben betrekking op een doelmatig gebruik van frequentieruimte, het bevorderen van breedbanddekking, van de dekking van transportroutes en van technologische ontwikkeling betreffende draadloze communicatie, de waarborging van de veiligheid van het leven, de openbare orde, de openbare veiligheid, de defensie of de waarborging van ongestoorde mededinging.
+
+5. Uiterlijk twee jaar voor afloop van een vergunning verlengt Onze Minister op aanvraag die vergunning indien uit een beoordeling volgt dat voldaan wordt aan de algemene criteria, tenzij de oplegging van een last onder dwangsom of een bestuurlijke boete aan de vergunninghouder of het voornemen daartoe vanwege een overtreding van de bij of krachtens de wet dan wel de aan de vergunning verbonden voorschriften en beperkingen zich naar het oordeel van Onze Minister daar tegen verzet. [Artikel 18, negende, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.6&artikel=18&z=2022-03-02&g=2022-03-02), zijn van overeenkomstige toepassing.
+
+6. Op de voorbereiding van een besluit tot verlenging als bedoeld in het vijfde lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat de termijn voor het naar voren brengen van zienswijzen in afwijking van [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) drie maanden bedraagt.
+
+7. Van het eerste tot en met het zesde lid kan worden afgeweken indien een vergunning als bedoeld in het eerste lid wordt verleend:
+
+- a. voor het aanbieden van diensten in een geografisch gebied waar de toegang tot netwerken met hoge snelheid zeer gebrekkig is en voor zover noodzakelijk voor het bereiken van de doelstellingen van artikel 45, tweede lid, van [richtlijn (EU) 2018/1972](32018L1972);;
+
+- c. voor frequentiegebruik dat kan samengaan met het gebruik voor de in het eerste lid bedoelde draadlozebreedbanddiensten;
+
+- d. voor een ander gebruik dan voor de in het eerste lid bedoelde draadlozebreedbanddiensten vanwege het ontbreken van vraag naar de frequentieruimte.
+
+8. Om te bewerkstelligen dat de looptijd van vergunningen, bedoeld in het eerste lid, gelijktijdig verstrijkt met de looptijd van andere vergunningen, kan worden afgeweken van het eerste lid tot en met het zesde lid.
+
+9. Bij besluit van Onze Minister kan ten aanzien van vergunningen als bedoeld in het eerste lid waarop het derde tot en met het zesde lid niet van toepassing zijn dan wel in gevallen waarin toepassing is gegeven aan het zevende lid of het achtste lid, kan [artikel 18, derde tot en met elfde lid en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.6&artikel=18&z=2022-03-02&g=2022-03-02), van overeenkomstige toepassing worden verklaard.
+
+10. In het geval een vergunning wordt verlengd overeenkomstig het vijfde lid kunnen de aan de vergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan de vergunning worden toegevoegd voor zover dit betrekking heeft op de algemene criteria.
+
+11. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de verlenging van vergunningen op grond van dit artikel. Deze regels kunnen per te verlenen vergunning verschillen.
+
+#### Paragraaf 3.7. Verplichte overdracht van een vergunning
+
+#### Paragraaf 3.8. Overdracht en verhuur van een vergunning
+
+##### Artikel 22a
+
+De overdracht of verhuur van een vergunning als bedoeld in [artikel 3.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.20), respectievelijk [artikel 3.20a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.20a), is niet mogelijk voor vergunningen voor commerciële omroep, voor zover de overdracht of verhuur betrekking heeft op
+
+- a. een gedeelte van een vergunning die betrekking heeft op de frequentieband 87.5 MHz tot 104.9 MHz, en;
+
+- b. een vergunning voor gebruik van frequentieruimte die ingevolge het Nationaal Frequentieplan slechts tegelijkertijd met een vergunning voor gekoppelde frequentieruimte kan worden gebruikt, tenzij de overdracht of verhuur beide vergunningen betreft.
 
 ### Hoofdstuk 4. Antenneregister en medegebruik van antenne-opstelpunten
 
