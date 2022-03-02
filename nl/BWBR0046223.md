@@ -4,7 +4,7 @@ identifier: "BWBR0046223"
 country: "nl"
 rank: "wet"
 publication_date: "2022-03-02"
-last_updated: "2018-03-31"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046223"
 soort: "wet"
@@ -41,73 +41,49 @@ entry_into_force: "2022-03-02"
 
 Wijzigt de Aanbestedingswet 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. ([Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440))
 
 Wijzigt de Gaswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. ([Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777))
 
 Wijzigt de Handelsregisterwet 2007.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. ([Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503))
 
 Wijzigt de Handelsregisterwet 2009 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. ([Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043))
 
 Wijzigt de Instellingswet Autoriteit Consument en Markt.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. ([Klimaatwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042394))
 
 Wijzigt de Klimaatwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. ([Machtigingswet oprichting Invest-NL](https://wetten.overheid.nl/jci1.3:c:BWBR0042840))
 
 Wijzigt de Machtigingswet oprichting Invest-NL.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. ([Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393))
 
 Wijzigt de Vorderingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. ([Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284))
 
 Wijzigt de Waarborgwet 2019.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. ([Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729))
 
 Wijzigt de Warmtewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. ([Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586))
 
 Wijzigt de Wet handhaving consumentenbescherming.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. ([Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728))
 
@@ -117,39 +93,29 @@ Wijzigt de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en ne
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
 Wijzigt de Wet milieubeheer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. ([Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063))
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. ([Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926))
 
 Wijzigt de Wet op het Centraal bureau voor de statistiek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. ([Wet van 26 juni 2019 tot wijziging van de Handelsregisterwet 2007 in verband met de evaluatie van die wet, alsmede regeling van enkele andere aan het Handelsregister gerelateerde onderwerpen in het Burgerlijk Wetboek, de Handelsregisterwet 2007 en de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0042497) (Stb. 2019, 280))
 
 Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (evaluatie Handelsregisterwet 2007, alsmede regeling van enkele andere aan het handelsregister gerelateerde onderwerpen).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. (Inwerkingtreding)
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046223&artikel=XIII&z=2022-03-02&g=2022-03-02) terugwerkt tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XX. (Citeertitel)
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet EZK, met vermelding van het jaartal van het Staatsblad waarin zij wordt geplaatst.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
