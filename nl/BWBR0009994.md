@@ -4,7 +4,7 @@ identifier: "BWBR0009994"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2005-07-13"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009994"
 soort: "AMvB"
@@ -48,35 +48,35 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking als artikel 4.10 van de Telecommunicatiewet in werking treedt.
 
-##### Artikel 1
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- –. **geografisch nummer:** nummer dat uitsluitend uit cijfers bestaat en krachtens een nummerplan is bestemd voor:
 
-- b. geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan dat krachtens zijn bestemming gebruikt mag worden voor de ontvangst van gesprekken en waarvan een deel van de cijferstructuur een geografische betekenis heeft;
+- 1. het bereiken van gebruikers van een openbare elektronische communicatiedienst op een vaste locatie, waarbij die dienst wordt geboden via een netwerkaansluitpunt dat zich bevindt in het bij het nummer behorende netnummergebied, of
 
-- c. niet-geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan dat krachtens zijn bestemming gebruikt mag worden voor de ontvangst van gesprekken, anders dan een nummer waarvan een deel van de cijferstructuur een geografische betekenis heeft;
+- 2. het bereiken van gebruikers van een openbare elektronische communicatiedienst waarbij de abonnee van die dienst een woon- of vestigingsplaats heeft in het bij het nummer behorende netnummergebied;
 
-- d. geografisch gebonden dienst: een vaste openbare elektronische communicatiedienst waarbij gebruik wordt gemaakt van een geografisch nummer;
+- –. **niet-geografisch nummer:** nummer dat uitsluitend uit cijfers bestaat, niet zijnde een geografisch nummer;
 
-- e. niet-geografisch gebonden dienst: een openbare elektronische communicatiedienst waarbij gebruik wordt gemaakt van een niet-geografisch nummer.
+- –. **nummerplan:** nummerplan als bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1);
 
-##### Artikel 2
+- –. **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-Een aanbieder van een geografisch gebonden dienst is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde geografische nummer te blijven gebruiken, indien diegene ervoor kiest om binnen hetzelfde netnummergebied:
+##### Artikel 2. Aanwijzing categorieën nummers als bedoeld in [artikel 4.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10)
 
-- a. de geografisch gebonden dienst af te nemen van een andere aanbieder, of
+1. Als categorieën van nummers als bedoeld in [artikel 4.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10), worden aangewezen:
 
-- b. van hem de geografisch gebonden dienst af te nemen vanaf een andere locatie of tegen andere contractuele voorwaarden.
+- a. geografische nummers, en
+
+- b. niet-geografische nummers.
+
+2. De aanwijzing, bedoeld in het eerste lid, geldt uitsluitend voor zover het gebruik van het nummer in overeenstemming blijft met de krachtens een nummerplan gestelde bestemming.
 
 ##### Artikel 3
 
-Een aanbieder van een niet-geografisch gebonden dienst is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde niet-geografische nummer te blijven gebruiken, indien diegene ervoor kiest om:
-
-- a. de niet-geografisch gebonden dienst af te nemen van een andere aanbieder, of
-
-- b. van hem de niet-geografisch gebonden dienst af te nemen tegen andere contractuele voorwaarden.
+Vervallen
 
 ##### Artikel 4
 
@@ -92,15 +92,11 @@ Vervallen
 
 ##### Artikel 7
 
-1. Een aanbieder van een geografisch gebonden dienst als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2005-07-13&g=2005-07-13), of van een niet-geografisch gebonden dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13), mag ter zake van de naleving van de in die artikelen bedoelde verplichtingen van degene die zijn nummer wil blijven gebruiken geen vergoeding verlangen.
-
-2. Van degene die, met een beroep op [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2005-07-13&g=2005-07-13), of op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13), met behoud van het gebruik van het reeds bij hem in gebruik zijnde nummer de in die artikelen bedoelde diensten voortaan van een andere aanbieder afneemt, mag door die aanbieder ter dekking van de administratieve kosten van de realisatie van het nummerbehoud een eenmalige vergoeding van ten hoogste € 10,00 worden verlangd.
-
-3. Het in het tweede lid genoemde bedrag kan bij ministeriële regeling worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
+Vervallen
 
 ##### Artikel 8
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2005-07-13&g=2005-07-13) die in werking treden met ingang van 1 januari 1999.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2022-03-02&g=2022-03-02) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2022-03-02&g=2022-03-02) die in werking treden met ingang van 1 januari 1999.
 
 ##### Artikel 9
 
