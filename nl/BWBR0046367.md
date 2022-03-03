@@ -4,7 +4,7 @@ identifier: "BWBR0046367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-03"
-last_updated: "2022-01-10"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046367"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-01-10).
+- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-03-03).
 
 ##### Artikel 2. Instelling en taak
 
@@ -92,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 1. De werkgroep wordt ingesteld per 10 januari 2022.
 
-2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-01-10) door de Minister van Financiën aan de Minister van Sociale Zaken en Werkgelegenheid is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
+2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-03-03) door de Minister van Financiën aan de Minister van Sociale Zaken en Werkgelegenheid is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
 ##### Artikel 5. Secretariaat
 
