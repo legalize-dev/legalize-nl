@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2021-12-15"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1202,13 +1202,11 @@ Vanaf 1 juni 2022 tot 1 september 2025 is de frequentieruimte behorend bij een F
 
 Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gelegerde buitenlandse strijdkrachten.
 
-Onverminderd de eerste alinea, zijn deze allotments in elk geval bestemd voor het ongewijzigd en gelijktijdig uitzenden van krachtens [artikel 17 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17) aangewezen radioprogramma’s van de in de eerste alinea van deze voetnoot bedoelde radio-omroepen.
-
 Vanaf 1 september 2017 tot 1 september 2022 is 1/18 deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments 8A, 6B, 6C, 7A, 9D-N en 9D-Z bestemd voor commerciële middengolfomroepen of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/18 deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+Vanaf 1 juni 2022 tot 1 september 2025 is 1/12e deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments HOL2401, HOL2402, HOL2403, HOL2404, HOL2405, HOL2406, HOL2407 bestemd voor commerciële middengolfomroep of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/12e deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
 
-Het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, wordt in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel op volgorde van binnenkomst verleend.
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte van het frequentieblok 11C bestemd voor landelijke commerciële omroepen die zowel een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C als een FM-vergunning voor landelijke commerciële radio-omroep houden of gaan houden.
 
@@ -1217,6 +1215,10 @@ Vanaf 1 september 2022 tot 1 september 2025 is 1/9e deel van de capaciteit van d
 Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
 Tot en met 31 augustus 2024 zijn de frequentieblokken in de onderstaande tabel en afbeelding bestemd voor digitale radio-omroep.
+
+1 De frequentieblokken 6B en 8A zijn vanaf 1 september 2022 beschikbaar voor digitale radio in laag 6.
+
+2 De frequentieblokken 6C en 8D zijn van 1 juni 2022 tot 1 september 2022 tijdelijk bestemd voor digitale radio in laag 6.
 
 Naar aanleiding van de internationale coördinatie is het mogelijk dat voor een aantal ingekleurde geografische gebieden in de bovenstaande tabel de kanaalnummers van het frequentieblok gewijzigd worden.
 
@@ -1234,7 +1236,7 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-Bestemming voor GNSS-repeaters voor de hoofdcategorie zakelijk gebruik is ingeperkt
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1370,9 +1372,9 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Mobile station / Mobiel station**
 
-**A station in the mobile service intended to be used while in motion or during halts at unspecified points.** / Een station dat behoort tot de mobiele radiocommunicatiedienst en gebruikt mag worden indien in beweging of vast op ongespecificeerde locaties.
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+**MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
 
 **NDB** – **Non Directional Beacon**/ Navigatiebaken.
 
@@ -1438,11 +1440,15 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**A station in the mobile service intended to be used while in motion or during halts at unspecified points.** / Een station dat behoort tot de mobiele radiocommunicatiedienst en gebruikt mag worden indien in beweging of vast op ongespecificeerde locaties.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-**MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -1450,27 +1456,23 @@ The main part of this decree is the frequency table (chapter 10). It contains an
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
+Het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, wordt in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel op volgorde van binnenkomst verleend.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
 
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-Vanaf 1 juni 2022 tot 1 september 2025 is 1/12e deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments HOL2401, HOL2402, HOL2403, HOL2404, HOL2405, HOL2406, HOL2407 bestemd voor commerciële middengolfomroep of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/12e deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
 This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
 
-This frequency plan mentions, where possible, the English terms and abbreviations so as to make it also accessible to the non-Dutch reader. However, Dutch regulation requires this decree to be published in Dutch. (Should there be any possible difference in interpretation, the Dutch text shall prevail).
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+This frequency plan mentions, where possible, the English terms and abbreviations so as to make it also accessible to the non-Dutch reader. However, Dutch regulation requires this decree to be published in Dutch. (Should there be any possible difference in interpretation, the Dutch text shall prevail).
 
 An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
 
@@ -1478,13 +1480,11 @@ In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage re
 
 In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
 
-In addition to this Frequency plan, a Frequency Register is also available and largely accessible in English. In this database the entire Dutch national allocation table can be consulted on assignments, usage conditions and radio interfaces. See https://loket.at-ez.nl/fpat/content/select_language.do?lang=en
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-The procedure for changing this decree has a duration of approximately five months. A public consultation of six weeks is standard in this procedure. Following the publication of this document, this frequency table will be periodically adapted i.e. updated with the latest EC-Decisions, ECC Decisions etc. The consolidated decree version of this frequency plan is permanently available at: http://www.rijksoverheid.nl/onderwerpen/frequentiebeleid/nationaal-frequentieplan-nfp
+In addition to this Frequency plan, a Frequency Register is also available and largely accessible in English. In this database the entire Dutch national allocation table can be consulted on assignments, usage conditions and radio interfaces. See https://loket.at-ez.nl/fpat/content/select_language.do?lang=en
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1604,6 +1604,8 @@ The downlinks for a passive radiocommunication service in which space crafts or 
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+The procedure for changing this decree has a duration of approximately five months. A public consultation of six weeks is standard in this procedure. Following the publication of this document, this frequency table will be periodically adapted i.e. updated with the latest EC-Decisions, ECC Decisions etc. The consolidated decree version of this frequency plan is permanently available at: http://www.rijksoverheid.nl/onderwerpen/frequentiebeleid/nationaal-frequentieplan-nfp
+
 For more information please consult the names and addresses in the colophon.
 
 **Lijst met belangrijke links:**
@@ -1623,8 +1625,6 @@ Agentschap Telecom
 Emmasingel 1
 
 9726 AH Groningen
-
-Postbus 450
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1650,6 +1650,8 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+Postbus 450
+
 9700 AL Groningen
 
 Telefoon (050) 587 74 44
@@ -1670,22 +1672,20 @@ Postbus 20401
 
 Telefoon (070) 379 89 11
 
-Internet http://www.rijksoverheid.nl/frequentiebeleid
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-Email: frequenties@minez.nl
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
+Email: frequenties@minez.nl
+
 Email: frequenties@minez.nl
 
 Email: frequenties@minez.nl
@@ -1699,3 +1699,7 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
