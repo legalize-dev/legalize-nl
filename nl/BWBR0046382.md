@@ -4,7 +4,7 @@ identifier: "BWBR0046382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-04"
-last_updated: "2022-02-01"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046382"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet ter Be
 
 ##### Artikel 4
 
-1. De ondertekening van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046382&artikel=3&z=2022-03-04&g=2022-02-01) bedoelde besluiten luidt:
+1. De ondertekening van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046382&artikel=3&z=2022-03-04&g=2022-03-04) bedoelde besluiten luidt:
 
 DE MINISTER VAN JUSTITIE EN VEILIGHEID,
 
