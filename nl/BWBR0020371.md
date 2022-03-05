@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2021-12-09"
+last_updated: "2022-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid, artikel 1 septies, eerste en tweede lid, artikel 1 octies, eerste lid, artikel 1 nonies, eerste lid, artikel 1 decies, eerste lid, artikel 1 undecies, artikel 1 duodecies, eerste lid, artikel 1 terdecies, eerste lid, artikel 1 quaterdecies, artikel 2, eerste, tweede en derde lid, artikel 5 en artikel 8 ter, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
+1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid en tweede lid, artikel 1 septies, eerste en tweede lid, artikel 1 octies, eerste lid, en lid 1 bis, artikel 1 nonies, eerste lid, artikel 1 decies, eerste lid, en lid 1 bis, artikel 1 undecies, artikel 1 duodecies, eerste lid, artikel 1 terdecies, eerste lid, artikel 1 quaterdecies, artikel 1 sedecies, eerste lid, artikel 1 septiesdecies, eerste lid, artikel 1 octiesdecies, eerste lid, artikel 1 noviesdecies, eerste lid, artikel 1 vicies, eerste lid, artikel 2, eerste, tweede en derde lid, artikel 5, artikel 8 ter, eerste lid, en artikel 8 quinquies, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen met het oog op de situatie in Belarus en de betrokkenheid van Belarus bij de Russische agressie tegen Oekraïne (PbEU, L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 sexies, tweede lid, tweede volzin, artikel 1 septies, derde of vierde lid, artikel 1 octies, derde lid, artikel 1 nonies, tweede of derde lid, artikel 1 decies, tweede lid, artikel 1 duodecies, tweede, derde of vierde lid, artikel 1 terdecies, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 sexies, derde, vierde, of vijfde lid, artikel 1 septies, derde lid, vierde lid of vijfde lid, artikel 1 septies bis, eerste lid, artikel 1 nonies, tweede of vierde lid, artikel 1 duodecies, tweede of derde lid, artikel 1 terdecies, tweede lid, artikel 1 sedecies, tweede lid, artikel 1 septiesdecies, tweede lid, artikel 1 octiesdecies, tweede lid, artikel 1 noviesdecies, tweede lid, artikel 1 vicies, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 3 bis, eerste lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
@@ -62,13 +62,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, artikel 1 quater, eerste en tweede lid, en artikel 1 sexies, tweede lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, en artikel 1 quater, eerste en tweede lid, van Verordening (EG) nr. 765/2006 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, en artikel 1 quinquies, eerste lid, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de verlening van de bedoelde diensten of technische bijstand, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en, voor zover het betreft de financiering of financiële bijstand, de Minister van Financiën.
+2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, derde tot en met achtste lid, artikel 1 septies, derde tot en met achtste lid, artikel 1 septies bis, artikel 1 septies quater, eerste lid, en artikel 1 vicies, tweede lid, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de verlening van de bedoelde diensten of transacties met betrekking tot technische bijstand of tussenhandeldiensten en informatie of kennisgevingen over deze onderwerpen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en, voor zover het betreft de financiering of financiële bijstand, financiële diensten en informatie of kennisgevingen over deze onderwerpen, de Minister van Financiën.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-4. De bevoegde autoriteit, bedoeld in artikel 1 duodecies, derde lid, artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
+4. De bevoegde autoriteit, bedoeld in artikel 1 duodecies, derde lid, artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
 
 5. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 765/2006 is de Minister van Financiën.
 
