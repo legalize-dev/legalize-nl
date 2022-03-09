@@ -107,9 +107,3 @@ De besteding van de bijzondere en aanvullende bekostiging op grond van deze rege
 Deze regeling wordt aangehaald als: Regeling bijzondere en aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Omhangbepaling
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
