@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2021-11-01"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 1. In dit besluit wordt verstaan onder:
 
-- –. **richtlijn 2001/82/EG:** [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEU 2001 L 311);
-
 - –. **verordening (EG) nr. 1/2005:** Verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);
+
+- –. **verordening (EU) nr. 2019/6:** [Verordening (EU) 2019/6](31906R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van [Richtlijn 2011/82/EG](32011L0082) (PbEU 2019, L 4);
 
 - –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
 
@@ -62,11 +62,11 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane;
 
-- d. de ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
+- d. de ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en Sport, voor zover het betreft het toezicht op de naleving van:
 
-- 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20, met uitzondering van het tweede lid, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens [hoofdstuk 4 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=4);
+- 1°. de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met hoofdstuk VI van verordening (EU) nr. 2019/6;
 
-- 2°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=2) en [3 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=3) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage I, inleiding en algemene beginselen, onderdeel 6, van [richtlijn 2001/82/EG](32001L0082);
+- 2°. artikel 8, eerste lid, onderdeel b, van [verordening (EU) nr. 2019/6](31906R2019) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage II, inleiding en algemene beginselen, onderdeel 6, van verordening (EU) nr. 2019/6;
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
@@ -108,7 +108,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 11.°. de regels over identificatie en registratie in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217), het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091), de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) en de Regeling diergeneeskundigen ten aanzien van runderen, varkens, schapen, geiten, paarden of honden.
 
-- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6);
+- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van de artikelen 77, 78 en 81 van [verordening (EU) nr. 2019/6](31906R2019) en de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.1) en [5.2 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.2);
 
 - i. dierenartsen en andere personen die voor specifieke toezichtswerkzaamheden door de Minister van Landbouw, Natuur en Voedselkwaliteit worden ingezet;
 
@@ -134,8 +134,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-11-01&g=2021-11-01), bedoelde ambtenaren.
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2022-03-10&g=2022-03-10), bedoelde ambtenaren.
 
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-11-01&g=2021-11-01), bedoelde personen.
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2022-03-10&g=2022-03-10), bedoelde personen.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
