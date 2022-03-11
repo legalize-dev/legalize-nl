@@ -4,7 +4,7 @@ identifier: "BWBR0046239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-28"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046239"
 soort: "ministeriele-regeling"
@@ -48,21 +48,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386);
+- **besluit:** [Besluit diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046416);
 
 - **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - **richtlijn 96/22/EG:** [Richtlijn 96/22/EG](31996L0022) van de Raad van 29 april 1996 betreffende het verbod op het gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking, alsmede van ß-agonisten en tot intrekking van de [Richtlijnen 81/602/EEG](31981L0602), [88/146/EEG](31988L0146) en [88/299/EEG](31988L0299) (PbEG 1996, L 125);
 
-- **verordening (EG) nr. 470/2009:** Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEG 2009, L 152);
-
-- **voorschriftplichtige diergeneesmiddelen:** diergeneesmiddelen die zijn geclassificeerd als diergeneesmiddel waarvoor een diergeneeskundig voorschrift vereist is als bedoeld in artikel 34 van [verordening (EU) nr. 2019/6](31906R2019).
+- **verordening (EG) nr. 470/2009:** Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEG 2009, L 152).
 
 ### Hoofdstuk 2. In de handel brengen van diergeneesmiddelen
 
 ##### Artikel 2.1. Geen vergunning voor het in de handel brengen vereist
 
-Artikel 5, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is niet van toepassing op diergeneesmiddelen die bestemd zijn voor uitsluitend als gezelschapsdier gehouden aquarium- of vijverdieren, siervissen, kooivogels, postduiven, terrariumdieren, kleine knaagdieren, fretten en konijnen, mits voor de diergeneesmiddelen geen diergeneeskundig voorschrift vereist is als bedoeld in artikel 34 van verordening (EU) nr. 2019/6 en de diergeneesmiddelen voldoen aan [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.2&z=2022-01-28&g=2022-01-28) en de artikelen 10, eerste en tweede lid, 11, eerste lid, aanhef en onderdelen a tot en met g, derde en vierde lid, 12, 13 en 14 van verordening (EU) nr. 2019/6.
+Artikel 5, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is niet van toepassing op diergeneesmiddelen die bestemd zijn voor uitsluitend als gezelschapsdier gehouden aquarium- of vijverdieren, siervissen, kooivogels, postduiven, terrariumdieren, kleine knaagdieren, fretten en konijnen, mits voor de diergeneesmiddelen geen diergeneeskundig voorschrift vereist is als bedoeld in artikel 34 van verordening (EU) nr. 2019/6 en de diergeneesmiddelen voldoen aan [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.2&z=2022-03-11&g=2022-03-11) en de artikelen 10, eerste en tweede lid, 11, eerste lid, aanhef en onderdelen a tot en met g, derde en vierde lid, 12, 13 en 14 van verordening (EU) nr. 2019/6.
 
 ##### Artikel 2.2. Identificatiecode op primaire verpakking en buitenverpakking van diergeneesmiddelen
 
@@ -74,9 +72,9 @@ Artikel 5, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is niet van
 
 In de bijsluiter bij een diergeneesmiddel wordt, indien van toepassing, vermeld dat het diergeneesmiddel:
 
-- a. uitsluitend wordt geleverd door een dierenarts of een apotheker als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-01-28&g=2022-01-28);
+- a. uitsluitend wordt geleverd door een dierenarts of een apotheker als bedoeld in [artikel 5.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=5.1);
 
-- b. is aangewezen voor toepassing door een dierenarts of een andere diergeneeskundige op grond van [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-28&g=2022-01-28).
+- b. is aangewezen voor toepassing door een dierenarts of een andere persoon die is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen op grond van [artikel 5.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=5.3).
 
 ##### Artikel 2.4. Vorm van de bijsluiter
 
@@ -102,13 +100,7 @@ De bijsluiter bij een diergeneesmiddel wordt op papier of in elektronische vorm 
 
 ##### Artikel 3.1. Levering van diergeneesmiddelen
 
-1. Een diergeneesmiddel dat is geclassificeerd als een diergeneesmiddel waarvoor een diergeneeskundig voorschrift vereist is als bedoeld in artikel 34 van [verordening (EU) nr. 2019/6](31906R2019) wordt uitsluitend geleverd door een dierenarts of een apotheker.
-
-2. In afwijking van het eerste lid kan een diergeneesmiddel waarvoor een diergeneeskundig voorschrift vereist is worden geleverd door iedere persoon met een vergunning voor kleinhandel indien het diergeneesmiddel daartoe door de minister is aangewezen vanwege een naar het oordeel van de minister beperkt gevaar voor de volksgezondheid, diergezondheid, het dierenwelzijn of milieu.
-
-3. Een dierenarts kan het afleveren van een diergeneesmiddel door een andere persoon, in afwijking van het eerste en tweede lid, uit laten voeren voor zover dit in overeenstemming is met de zorgplichten, bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.2).
-
-4. Voor incidentele leveringen van kleine hoeveelheden diergeneesmiddelen tussen kleinhandelaars in Nederland is geen vergunning voor groothandel vereist.
+Vervallen
 
 ##### Artikel 3.2. Verpakking bij afleveren aan een houder van dieren
 
@@ -166,21 +158,19 @@ De bijsluiter bij een diergeneesmiddel wordt op papier of in elektronische vorm 
 
 Een kleinhandelaar levert voorschriftplichtige diergeneesmiddelen uitsluitend af aan een houder van een dier:
 
-- a. in een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-01-28&g=2022-01-28); of
+- a. in een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-03-11&g=2022-03-11); of
 
-- b. vanuit een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-01-28&g=2022-01-28) bij het bedrijf, met een voor het diergeneesmiddel geschikte wijze van vervoer.
+- b. vanuit een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2022-03-11&g=2022-03-11) bij het bedrijf, met een voor het diergeneesmiddel geschikte wijze van vervoer.
 
 ##### Artikel 3.5. Kleinhandel op afstand in diergeneesmiddelen
 
-1. Een persoon met een vergunning voor kleinhandel kan, in afwijking van artikel 104, eerste lid, van verordening (EU) nr. 2019/6, via diensten van de informatiemaatschappij als bedoeld in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241) diergeneesmiddelen aanbieden die zijn aangewezen op grond van [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-01-28&g=2022-01-28).
-
-2. Het eerste lid is uitsluitend van toepassing op personen die in Nederland gevestigd zijn en enkel ten aanzien van levering in Nederland.
+Vervallen
 
 #### § 2. Gebruik van diergeneesmiddelen
 
 ##### Artikel 3.6. Gebruik van diergeneesmiddelen
 
-De minister kan voorschriftplichtige diergeneesmiddelen aanwijzen waarvan toepassing is voorbehouden aan een dierenarts of een andere diergeneeskundige vanwege een gevaar voor de volksgezondheid, diergezondheid, het dierenwelzijn of milieu
+Vervallen
 
 ##### Artikel 3.7. Eisen aan afleveren en toepassen van immunologische diergeneesmiddelen aan houders van varkens
 
@@ -246,11 +236,11 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.9. Gebruik antimicrobieel diergeneesmiddel
 
-1. Een houder van vijf of meer varkens, vijf of meer vleeskalveren, vijf of meer melkveerunderen, 25 of meer geiten, 250 of meer kalkoenen, 250 of meer konijnen of 250 of meer vleeskuikens past antimicrobiële diergeneesmiddelen toe overeenkomstig de [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2022-01-28&g=2022-01-28).
+1. Een houder van vijf of meer varkens, vijf of meer vleeskalveren, vijf of meer melkveerunderen, 25 of meer geiten, 250 of meer kalkoenen, 250 of meer konijnen of 250 of meer vleeskuikens past antimicrobiële diergeneesmiddelen toe overeenkomstig de [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2022-03-11&g=2022-03-11).
 
 2. Een houder die dieren houdt, anders dan de dieren, bedoeld in het eerste lid, past een antimicrobieel diergeneesmiddel toe overeenkomstig het behandeladvies van de dierenarts.
 
-3. De [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2022-01-28&g=2022-01-28) zijn uitsluitend van toepassing op houders als bedoeld in het eerste lid.
+3. De [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2022-03-11&g=2022-03-11) zijn uitsluitend van toepassing op houders als bedoeld in het eerste lid.
 
 ##### Artikel 3.10. Overeenkomst dierhouder en dierenarts bij gebruik antimicrobieel diergeneesmiddel
 
@@ -258,7 +248,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Indien de houder bij meerdere diersoorten antimicrobiële diergeneesmiddelen gebruikt, heeft de houder één overeenkomst per diersoort.
 
-3. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2022-01-28&g=2022-01-28) en [3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28), [artikel 1.28, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28) en [artikel 5.9, tweede lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=5.9), opgenomen.
+3. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2022-03-11&g=2022-03-11) en [3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11), [artikel 1.28, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28) en [artikel 5.9, tweede lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=5.9), opgenomen.
 
 4. De houder en dierenarts handelen overeenkomstig het bepaalde in de overeenkomst.
 
@@ -306,7 +296,7 @@ De houder:
 
 5. In afwijking van het vierde lid, kan het bezoek voor melkveerunderen eenmaal per zes maanden plaatsvinden, mits in de tussenliggende periode een beoordeling en een evaluatie als bedoeld in het derde lid, onderdelen a respectievelijk b, plaatsvindt en hiervan een verslag wordt gemaakt.
 
-6. De dierenarts bezoekt het bedrijf, waarbij een individuele behandeling als bedoeld in [artikel 3.13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-01-28&g=2022-01-28), plaatsvindt ten minste eenmaal per twee weken bij behandeling van:
+6. De dierenarts bezoekt het bedrijf, waarbij een individuele behandeling als bedoeld in [artikel 3.13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-03-11&g=2022-03-11), plaatsvindt ten minste eenmaal per twee weken bij behandeling van:
 
 - 1°. biggen tot en met de leeftijd van acht weken;
 
@@ -314,17 +304,17 @@ De houder:
 
 7. Bij een bezoek als bedoeld in het zesde lid, laat de dierenarts een schriftelijke instructie inzake het gebruik van het middel achter, waarin in ieder geval de mogelijk te behandelen dieren ondubbelzinnig geïdentificeerd worden, dan wel het moederdier indien het een ongeboren dier betreft.
 
-8. De houder bewaart de verslagen, bedoeld in het tweede lid, onderdeel b, en het vijfde lid, alsmede de instructie, bedoeld in het zevende lid en in [artikel 3.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-01-28&g=2022-01-28), gedurende vijf jaar op zijn bedrijf.
+8. De houder bewaart de verslagen, bedoeld in het tweede lid, onderdeel b, en het vijfde lid, alsmede de instructie, bedoeld in het zevende lid en in [artikel 3.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-03-11&g=2022-03-11), gedurende vijf jaar op zijn bedrijf.
 
 ##### Artikel 3.13. Bedrijfsgezondheidsplan en bedrijfsbehandelplan
 
-1. Het bedrijfsgezondheidsplan, bedoeld in artikel 1.28, eerste lid, van het besluit, bevat, in aanvulling op het bepaalde in [artikel 5.14, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.14):
+1. Het bedrijfsgezondheidsplan, bedoeld in [artikel 1.28, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28), bevat, in aanvulling op het bepaalde in [artikel 5.14, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.14):
 
 - a. een reductiedoelstelling voor het gebruik van antimicrobiële middelen die gekoppeld is aan de maatregelen, bedoeld in [artikel 5.14, eerste lid, onderdeel g, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.14);
 
 - b. een beschrijving van de voorziening voor noodzakelijke vervanging van de dierenarts.
 
-2. In het bedrijfsbehandelplan, bedoeld in artikel 1.28, eerste lid, van het besluit, is, in aanvulling op het bepaalde in [artikel 5.17, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.17), met betrekking tot antimicrobiële middelen in ieder geval opgenomen dat:
+2. In het bedrijfsbehandelplan, bedoeld in [artikel 1.28, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28), is, in aanvulling op het bepaalde in [artikel 5.17, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.17), met betrekking tot antimicrobiële middelen in ieder geval opgenomen dat:
 
 - a. de dierenarts uitsluitend op basis van een klinische inspectie van de te behandelen dieren en de op grond daarvan gestelde diagnose antimicrobiële middelen aflevert waarmee deze dieren overeenkomstig de bijsluiter bij het diergeneesmiddel eenmaal behandeld kunnen worden;
 
@@ -344,7 +334,7 @@ De houder:
 
 - 2°. in het bedrijfsgezondheidsplan maatregelen zijn opgenomen om de uitbraak voor die aandoeningen te bestrijden en herhaling te voorkomen.
 
-4. Behoudens de gevallen, genoemd [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28), vraagt de houder bij een individuele behandeling van dieren als bedoeld in het derde lid, onderdeel c, toestemming aan de dierenarts. De dierenarts stelt vervolgens een schriftelijke instructie inzake het gebruik van het middel op voor de houder, inclusief de datum en tijd van de toestemming voor de behandeling.
+4. Behoudens de gevallen, genoemd [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11), vraagt de houder bij een individuele behandeling van dieren als bedoeld in het derde lid, onderdeel c, toestemming aan de dierenarts. De dierenarts stelt vervolgens een schriftelijke instructie inzake het gebruik van het middel op voor de houder, inclusief de datum en tijd van de toestemming voor de behandeling.
 
 5. Op het bedrijf van de houder mogen niet meer antimicrobiële middelen aanwezig zijn dan de hoeveelheid:
 
@@ -364,7 +354,7 @@ voor zover geen van de door de houder gehouden dieren waarop de overeenkomst bet
 
 ##### Artikel 3.14. Beëindiging van de overeenkomst
 
-1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in [artikel 3.12, tweede lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28), en het bedrijfsgezondheidsplan, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-01-28&g=2022-01-28), ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.
+1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in [artikel 3.12, tweede lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11), en het bedrijfsgezondheidsplan, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-03-11&g=2022-03-11), ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.
 
 2. De reden van het opzeggen van de overeenkomst wordt door de dierenarts waarmee de overeenkomst eindigt, in het bedrijfsgezondheidsplan vermeld.
 
@@ -380,15 +370,15 @@ De dierenarts doet binnen tien werkdagen na het sluiten of eindigen van de overe
 
 1. Een houder van dieren die een structureel laag gebruik van antimicrobiële middelen heeft, is uitgezonderd van de verplichtingen, bedoeld in:
 
-- a. [artikel 3.12, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28);
+- a. [artikel 3.12, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11);
 
-- b. [artikel 3.12, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28);
+- b. [artikel 3.12, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11);
 
-- c. [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28);
+- c. [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11);
 
-- d. [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-01-28&g=2022-01-28).
+- d. [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2022-03-11&g=2022-03-11).
 
-2. Ingeval de houder is uitgezonderd van de verplichting, bedoeld in het eerste lid, onderdeel b, zorgt hij er voor dat de dierenarts, bedoeld in [artikel 3.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-01-28&g=2022-01-28), eenmaal per jaar een bezoek aan zijn bedrijf brengt.
+2. Ingeval de houder is uitgezonderd van de verplichting, bedoeld in het eerste lid, onderdeel b, zorgt hij er voor dat de dierenarts, bedoeld in [artikel 3.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2022-03-11&g=2022-03-11), eenmaal per jaar een bezoek aan zijn bedrijf brengt.
 
 ### Hoofdstuk 4. Retributies
 
@@ -406,7 +396,7 @@ De dierenarts doet binnen tien werkdagen na het sluiten of eindigen van de overe
 
 5. Een houder van een vergunning voor groothandel als bedoeld in artikel 99, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 52,00 voor de instandhouding van die vergunning.
 
-6. Een houder van een vergunning voor kleinhandel als bedoeld in [artikel 5.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=5.1) is jaarlijks een retributie verschuldigd van € 52,00 voor de instandhouding van die vergunning.
+6. Een houder van een vergunning voor kleinhandel als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) is jaarlijks een retributie verschuldigd van € 52,00 voor de instandhouding van die vergunning.
 
 7. Een importeur, fabrikant of distributeur van werkzame stoffen bestemd voor diergeneesmiddelen die zich heeft aangemeld overeenkomstig artikel 95, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 30,00 voor de instandhouding van de aanmelding.
 
@@ -440,7 +430,7 @@ Deze paragraaf is uitsluitend van toepassing op diergeneesmiddelen die zijn best
 
 ##### Artikel 4.4. Vergunning voor het in de handel brengen generiek of hybride diergeneesmiddel
 
-1. In afwijking van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-01-28&g=2022-01-28) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
+1. In afwijking van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-03-11&g=2022-03-11) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
 
 2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 5.707,00.
 
@@ -498,7 +488,7 @@ Deze paragraaf is uitsluitend van toepassing op diergeneesmiddelen die zijn best
 
 ##### Artikel 4.10. Vergunning voor het in de handel brengen generiek of hybride diergeneesmiddel
 
-1. In afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-01-28&g=2022-01-28) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
+1. In afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-03-11&g=2022-03-11) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
 
 2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 5.707,00.
 
@@ -550,11 +540,11 @@ Voor de behandeling van een aanvraag voor een nationale registratie van een home
 
 - c. € 448,00, indien de behandeling van de wijziging naar het oordeel van de minister slechts een administratieve beoordeling vereist en het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van verordening (EU) nr. 2019/6.
 
-5. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen die moet worden beoordeeld als bedoeld in artikel 62, eerste lid, van verordening (EU) nr. 2019/6 en waarvoor de termijn voor het opstellen van het beoordelingsrapport of advies overeenkomstig artikel 66, derde lid, van verordening (EU) nr. 2019/6 is verlengd tot 90 dagen is de houder van de vergunning, in afwijking van het derde en vierde lid, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&z=2022-01-28&g=2022-01-28) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&z=2022-01-28&g=2022-01-28) is vastgesteld voor de aanvraag voor de vergunning voor het in de handel brengen van het desbetreffende type vergunning.
+5. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen die moet worden beoordeeld als bedoeld in artikel 62, eerste lid, van verordening (EU) nr. 2019/6 en waarvoor de termijn voor het opstellen van het beoordelingsrapport of advies overeenkomstig artikel 66, derde lid, van verordening (EU) nr. 2019/6 is verlengd tot 90 dagen is de houder van de vergunning, in afwijking van het derde en vierde lid, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&z=2022-03-11&g=2022-03-11) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&z=2022-03-11&g=2022-03-11) is vastgesteld voor de aanvraag voor de vergunning voor het in de handel brengen van het desbetreffende type vergunning.
 
 6. Indien een wijziging als bedoeld in het vijfde lid wordt behandeld volgens de werkverdelingsprocedure, bedoeld in artikel 65 van verordening (EU) nr. 2019/6, is een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in het vijfde lid is vastgesteld.
 
-7. In afwijking van het zesde lid, is bij een werkverdelingsprocedure waarin uitsluitend nationale vergunningen voor het in de handel brengen zijn betrokken en de minister beoordelende autoriteit is, een retributie verschuldigd waarvan de hoogte gelijk is aan het desbetreffende bedrag, genoemd in de [artikelen 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-01-28&g=2022-01-28), [4.3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-01-28&g=2022-01-28), [4.4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-01-28&g=2022-01-28), [4.4, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-01-28&g=2022-01-28), [4.9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-01-28&g=2022-01-28), [4.9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-01-28&g=2022-01-28), [4.10, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2022-01-28&g=2022-01-28), of [4.10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2022-01-28&g=2022-01-28).
+7. In afwijking van het zesde lid, is bij een werkverdelingsprocedure waarin uitsluitend nationale vergunningen voor het in de handel brengen zijn betrokken en de minister beoordelende autoriteit is, een retributie verschuldigd waarvan de hoogte gelijk is aan het desbetreffende bedrag, genoemd in de [artikelen 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-03-11&g=2022-03-11), [4.3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-03-11&g=2022-03-11), [4.4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-03-11&g=2022-03-11), [4.4, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-03-11&g=2022-03-11), [4.9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-03-11&g=2022-03-11), [4.9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-03-11&g=2022-03-11), [4.10, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2022-03-11&g=2022-03-11), of [4.10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2022-03-11&g=2022-03-11).
 
 8. In afwijking van het zesde lid is, indien de ninister in een werkverdelingsprocedure geen beoordelende autoriteit is en waarbij vergunningen voor het in de handel brengen zijn betrokken die via de decentrale of wederzijdse erkenningsprocedure, of de nationale procedure zijn verleend, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat is vastgesteld voor aanvragen voor vergunningen die volgens de decentrale of de wederzijdse erkenningsprocedure worden verleend, waarbij Nederland geen referentielidstaat is.
 
@@ -572,7 +562,7 @@ Indien een aanvrager uitsluitend met het oog op eenzelfde wijziging waarvoor gee
 
 ##### Artikel 4.17. Parallelhandel in diergeneesmiddelen
 
-1. Voor de behandeling van een aanvraag voor een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2022-01-28&g=2022-01-28) is de aanvrager een retributie verschuldigd van € 896,00.
+1. Voor de behandeling van een aanvraag voor een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2022-03-11&g=2022-03-11) is de aanvrager een retributie verschuldigd van € 896,00.
 
 2. In afwijking van het eerste lid bedraagt de retributie voor de behandeling van de aanvraag € 336,00 indien slechts een administratieve beoordeling is uitgevoerd.
 
@@ -596,13 +586,13 @@ Indien een aanvrager uitsluitend met het oog op eenzelfde wijziging waarvoor gee
 
 - b. een vergunning voor groothandel in diergeneesmiddelen als bedoeld in artikel 99, eerste lid, van verordening (EU) nr. 2019/6;
 
-- c. een vergunning voor kleinhandel in diergeneesmiddelen als bedoeld in [artikel 5.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=5.1).
+- c. een vergunning voor kleinhandel in diergeneesmiddelen als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2).
 
 2. Voor de behandeling van een aanvraag voor wijziging van de vergunningen, bedoeld in het eerste lid, is de aanvrager een retributie verschuldigd van € 104,00.
 
 ##### Artikel 4.21. Vergunning voor proeven
 
-Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in [artikel 3.22, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=3.22) is de aanvrager een retributie verschuldigd van:
+Voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=2.1) is de aanvrager een retributie verschuldigd van:
 
 - a. € 288,00 voor de administratieve behandeling van de aanvraag;
 
@@ -618,7 +608,7 @@ Voor het uitvoeren van een onderzoek ter plaatse voorafgaand aan het verlenen va
 
 - b. € 1.044,00 per halve dag bij een aanvraag voor een vergunning voor groothandel als bedoeld in artikel 99, eerste lid, van verordening (EU) nr. 2019/6;
 
-- c. € 261,00 bij een aanvraag voor een vergunning voor kleinhandel als bedoeld in [5.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=5.1) of de wijziging van de locatie van deze vergunning.
+- c. € 261,00 bij een aanvraag voor een vergunning voor kleinhandel als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) of de wijziging van de locatie van deze vergunning.
 
 - d. € 1.044,00 per halve dag bij de aanmelding van activiteiten van een importeur, fabrikant of distributeur van werkzame stoffen als bedoeld in artikel 95, eerste lid, van verordening (EU) nr. 2019/6.
 
@@ -650,7 +640,7 @@ Voor de behandeling van een aanvraag voor een certificaat als bedoeld in artikel
 
 4. Voor zover verschuldigd, is de omzetbelasting in het tarief begrepen.
 
-5. Indien de retributie, bedoeld in [artikel 4.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-01-28&g=2022-01-28), of [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=4&artikel=4.22&z=2022-01-28&g=2022-01-28) niet is betaald, kan de minister de vergunning voor kleinhandel schorsen of intrekken, onderscheidenlijk de ontheffing intrekken.
+5. Indien de retributie, bedoeld in [artikel 4.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-11&g=2022-03-11), of [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=4&artikel=4.22&z=2022-03-11&g=2022-03-11) niet is betaald, kan de minister de vergunning voor kleinhandel schorsen of intrekken, onderscheidenlijk de ontheffing intrekken.
 
 6. De hoogte van de totaal op grond van deze regeling verschuldigde retributie wordt vastgesteld door de minister.
 
@@ -704,15 +694,15 @@ Een dierenarts stelt de houder van de vergunning voor het in de handel brengen o
 
 ##### Artikel 5.4. In de handel brengen van een dier na een proef
 
-Een dier waarop een diergeneesmiddel of een andere substantie met mogelijk farmacologische werking is beproefd, of een levensmiddel van een dergelijk dier wordt niet in de handel gebracht, tenzij een vergunning is verleend waarbij andersluidende voorschriften zijn gesteld en een wachttijd is vastgesteld.
+Vervallen
 
 ##### Artikel 5.5. Aanwijzing van nationale referentielaboratoria
 
-De minister is bevoegd tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van [verordening (EU) 2017/625](32525R2017), ten aanzien van onderwerpen die diergeneesmiddelen of substanties als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5&artikel=5.3&z=2022-01-28&g=2022-01-28) betreffen.
+De minister is bevoegd tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van [verordening (EU) 2017/625](32525R2017), ten aanzien van onderwerpen die diergeneesmiddelen of substanties als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5&artikel=5.3&z=2022-03-11&g=2022-03-11) betreffen.
 
 ##### Artikel 5.6. Reclame voor diergeneesmiddelen
 
-Het maken van reclame voor diergeneesmiddelen waarvoor een diergeneeskundig voorschrift vereist is, is enkel toegestaan bij professionele houders van dieren, voor zover de voorwaarden van artikel 120, tweede lid, onderdelen a en b, van verordening (EU) nr. 2019/6 worden nageleefd.
+Vervallen
 
 ##### Artikel 5.7. Betrokkenheid van de Minister van Volksgezondheid, Welzijn en Sport bij de totstandkoming van vergunningen voor het in de handel brengen
 
@@ -740,19 +730,13 @@ Zolang de regels, bedoeld in artikel 17, eerste lid, van [verordening (EU) nr. 2
 
 ##### Artikel 7.2. Overgangsrecht bijsluiter
 
-1. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.3&z=2022-01-28&g=2022-01-28) is niet van toepassing op diergeneesmiddelen die overeenkomstig richtlijn nr. 2001/82/EG of verordening (EG) nr. 726/2004 in de handel zijn gebracht.
+1. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.3&z=2022-03-11&g=2022-03-11) is niet van toepassing op diergeneesmiddelen die overeenkomstig richtlijn nr. 2001/82/EG of verordening (EG) nr. 726/2004 in de handel zijn gebracht.
 
 2. Dit artikel vervalt met ingang van 30 januari 2027.
 
 ##### Artikel 7.3. Overgangsrecht kanalisatie
 
-1. Zolang de minister nog geen aanwijzingsbesluit heeft genomen als bedoeld in de [artikelen 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-01-28&g=2022-01-28), en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-28&g=2022-01-28) gelden de voorschriften die zijn verbonden aan de vergunningen voor het in de handel brengen van diergeneesmiddelen, bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.15), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.17) en [2.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.18), zoals die regeling luidde op 27 januari 2022, als aanwijzingen als bedoeld in de [artikelen 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-01-28&g=2022-01-28), en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2022-01-28&g=2022-01-28).
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. antimicrobiële diergeneesmiddelen; en
-
-- b. immunologische diergeneesmiddelen voor varkens.
+Vervallen
 
 ##### Artikel 7.4. Intrekken [Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626)
 
@@ -765,5 +749,153 @@ Deze regeling treedt in werking met ingang van 28 januari 2022.
 ##### Artikel 7.6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling diergeneesmiddelen 2022.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.2. Grondslag
+
+Deze regeling berust mede op de [artikelen 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2), en [5.3, derde lid van het Besluit diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=5.3).
+
+### Hoofdstuk 2. In de handel brengen van diergeneesmiddelen
+
+### Hoofdstuk 3. Kleinhandel in diergeneesmiddelen en gebruik van diergeneesmiddelen
+
+#### § 1. Kleinhandel
+
+#### § 2. Gebruik van diergeneesmiddelen
+
+#### § 3. Gebruik van antimicrobiële diergeneesmiddelen
+
+### Hoofdstuk 4. Retributies
+
+#### § 1. Instandhouding vergunningen en registraties
+
+#### § 2. Diergeneesmiddelen bestemd voor voedselproducerende dieren
+
+#### § 3. Diergeneesmiddelen bestemd voor niet-voedselproducerende dieren
+
+#### § 4. Overige bepalingen over retributies
+
+### Hoofdstuk 5. Overige bepalingen
+
+### Hoofdstuk 5a. Ziekteverwekkers
+
+##### Artikel 5a.1. Aanwijzing ziekteverwekkers waarvoor een meldplicht voor laboratoria geldt
+
+Als ziekteverwekkers als bedoeld in [artikel 6.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=6.1) worden aangewezen de in de bijlage genoemde ziekteverwekkers.
+
+##### Artikel 5a.2. Aangewezen ziekteverwekkers
+
+Als ziekteverwekkers als bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=6.2) worden aangewezen:
+
+- a. het mond- en klauwzeervirus;
+
+- b. het Afrikaanse varkenspestvirus;
+
+- c. het klassieke varkenspestvirus;
+
+- d. het aviaire influenzavirus.
+
+##### Artikel 5a.3. Erkenning laboratorium, voorziening of andere ruimte voor werken met ziekteverwekkers
+
+1. Het voorhanden of in voorraad hebben van ziekteverwekkers als bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2022-03-11&g=2022-03-11) is uitsluitend toegestaan aan door de minister erkende laboratoria, voorzieningen of andere natuurlijke of rechtspersonen als bedoeld in artikel 16, eerste lid, van [verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L84).
+
+2. De minister verleent een erkenning als bedoeld in het eerste lid indien:
+
+- a. de in voorhanden zijnde of in voorraad gehouden ziekteverwekker, bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2022-03-11&g=2022-03-11), uitsluitend bestemd is voor het gebruik voor wetenschappelijke doeleinden, diagnose of de ontwikkeling, productie of controle van diergeneesmiddelen; en
+
+- b. is voldaan aan artikel 16, eerste lid, van de in het eerste lid genoemde verordening.
+
+3. Een aanvraag tot erkenning als bedoeld in het eerste lid geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld en bevat in ieder geval gegevens waaruit blijkt dat wordt voldaan aan het tweede lid, onderdeel b.
+
+4. De minister kan een erkenning als bedoeld in het eerste lid schorsen voor een door hem te bepalen termijn indien niet wordt voldaan aan het tweede lid, onderdelen a of b.
+
+5. De minister kan een erkenning als bedoeld in het eerste lid, intrekken indien:
+
+- a. na afloop van de schorsing, bedoeld in het vierde lid, blijkt dat nog steeds niet wordt voldaan aan het tweede lid, onderdelen a of b;
+
+- b. blijkt dat binnen een periode van twaalf maanden na afloop van de schorsingstermijn, bedoeld in het vierde lid, wederom niet wordt voldaan aan het tweede lid, onderdelen a of b.
+
+6. Voordat een besluit tot schorsing of intrekking wordt genomen, wordt de belanghebbende van het laboratorium, de voorziening of de natuurlijke of rechtspersoon in de gelegenheid gesteld binnen een bepaalde termijn alsnog aan het tweede lid, onderdelen a en b, te voldoen.
+
+7. De minister kan de erkenning met onmiddellijke ingang intrekken indien het belang van de dier- of volksgezondheid dat vereist.
+
+### Hoofdstuk 6. Wijziging andere ministeriële regelingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage. Aangewezen ziekteverwekkers als bedoeld in [artikel 5a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.1&z=2022-03-11&g=2022-03-11)
+
+- 1. Virussen
+
+- –. Afrikaanse paardenpest virus
+
+- –. Afrikaanse varkenspest virus
+
+- –. Aviaire influenza virus typen H5 en H7
+
+- –. Blauwtong virus
+
+- –. Ebola virus
+
+- –. Geitenpokken virus
+
+- –. Klassieke varkenspest virus
+
+- –. Marburg virus
+
+- –. Mond- en klauwzeer virus
+
+- –. Newcastle disease virus
+
+- –. Nodulaire dermatose virus
+
+- –. Peste des petits ruminant virus / pest van kleine herkauwer virus
+
+- –. Pseudorabies virus (virus van de ziekte van Aujeszky)
+
+- –. Rabies virus / Lyssa virus
+
+- –. Rift valley virus
+
+- –. Runderpest virus
+
+- –. SARS-gerelateerd corona virus
+
+- –. Schapenpokken virus
+
+- –. Virale paardenencefalomyelitiden virussen (Japanese, Eastern, Venezualan en western equine encephalitis virus)
+
+- –. Virus van enzoötische hemorraghische ziekte bij herten
+
+- –. Westnile virus
+
+- 2. Bacteriën
+
+- –. Bacillus anthracis
+
+- –. Brucella abortus
+
+- –. Brucella canis
+
+- –. Brucella melitensis
+
+- –. Brucella suis
+
+- –. Burkholderia mallei
+
+- –. Chlamydia psittaci
+
+- –. Coxiella burnetii
+
+- –. Francisella tularensis
+
+- –. Yersinia pesti
+
+- 3. Overig
+
+- –. Transmissible spongiform encephalopathies (TSEs)
+
+- –. Trichinella spp
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
