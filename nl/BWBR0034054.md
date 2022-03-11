@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2020-12-31"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -58,7 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
 
-- **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
+- **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+
+- **uitvoeringsverordening (EU) nr. 2018/1976:** uitvoerings[verordening (EU) 2018/1976](31976R2018) van de Commissie van 14 december 2018 tot vaststelling van gedetailleerde regels inzake vluchtuitvoeringen met zweefvliegtuigen en de afgifte van bewijzen van bevoegdheid voor cockpitbemanning van zweefvliegtuigen overeenkomstig [Verordening (EU) 2018/1139](33039R2018) van het Europees Parlement en de Raad (PbEU 2018, L 326);
+
+- **verordening (EU) nr. 2018/395:** [verordening (EU) 2018/395](32295R2018) van de Commissie van 13 maart 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met ballonnen en voor bewijzen van bevoegdheid voor de bemanning van ballonnen overeenkomstig [Verordening (EU) 2018/1139](33039R2018) van het Europees Parlement en de Raad (PbEU 2018, L 71).
 
 #### § 2. Uitvoering
 
@@ -94,23 +98,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
-- a. artikelen 9, eerste lid, 11, 12, 14, 15, 16, 22, eerste lid, en 29, van de basisverordening juncto de artikelen 2, 8, eerste lid, en 9, eerste lid, en bijlage I, paragrafen 21.A.179, en 21.A.181, van verordening (EU) nr. 748/2012 of de artikelen 3, 4, eerste lid, en 5, bijlage I, paragraaf M.A.201, onderdeel a, onder 1 en 4, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, M.A.402, onderdeel a, M.A.603, onderdeel a, M.A.710, onderdeel a, onder 11, en bijlage II, paragraaf 145.A.30, onderdelen a, b, g en h, van verordening (EU) nr. 1321/2014;
+- a. artikelen 9, eerste lid, 11, 12, 14, 15, 16, 22, eerste lid, en 29, juncto bijlage V, onderdeel 6.1, onder a en d, van de basisverordening, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, juncto de artikelen 2, 8, eerste lid, en 9, eerste lid, en bijlage I, paragrafen 21.A.179, en 21.A.181, van verordening (EU) nr. 748/2012 of de artikelen 3, 4, eerste lid, en 5, bijlage I, paragraaf M.A.201, onderdeel a, onder 1 en 4, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, M.A.402, onderdeel a, M.A.603, onderdeel a, M.A.710, onderdeel a, onder 11, en bijlage II, paragraaf 145.A.30, onderdelen a, b, g en h, van verordening (EU) nr. 1321/2014;
 
 - b. artikel 9, tweede lid, voor zover het de eisen inzake milieubescherming als vervat in wijziging 12 van Boekdeel I en wijziging 9 van Boekdeel II, van Bijlage 16 bij het Verdrag van Chicago betreft, van de basisverordening juncto artikel 2, en bijlage I, paragrafen 21.A.209 en 21.A.211, van verordening (EU) nr. 748/2012;
 
-- c. artikelen 20, 21 eerste lid en 26, eerste en tweede lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.30, van verordening (EU) nr. 1178/2011;
+- c. artikelen 20, 21 eerste lid en 26, eerste en tweede lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.055, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van [verordening (EU) nr. 1178/2011](32011R1178) en artikel 29, juncto bijlage V, onderdeel 7.6, van de basisverordening, voor zover het betreft het niet kunnen uitvoeren van taken als gevolg van letsel, vermoeidheid, medicatie, ziekte of andere soortgelijke oorzaken;
 
 - d. artikel 48 en 49, eerste lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
 
-- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012;
+- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4001, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012;
 
-- f. de artikelen 5, eerste lid, 7, 8, 9, eerste lid, 10, 14, vijfde, zesde, zevende en achtste lid, en de paragrafen UAS.OPEN.050, UAS.OPEN.060, met uitzondering van het tweede lid, onder a, UAS.SPEC.050 en UAS.SPEC.060, met uitzonderling van het eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
+- f. de artikelen 5, eerste lid, 7, 8, 9, eerste lid, 10, 14, vijfde, zesde, zevende en achtste lid, en de paragrafen UAS.OPEN.050, UAS.OPEN.060, met uitzondering van het tweede lid, onder a, UAS.SPEC.050 en UAS.SPEC.060, met uitzonderling van het eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947;
+
+- g. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen SFCL.045, SFCL.050, SFCL.065 en SFCL.070, onderdeel b, van uitvoeringsverordening (EU) nr. 2018/1976 of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011;
+
+- h. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen BFCL.045, BFCL.050, BFCL.065 en BFCL.070, onderdeel b, van verordening (EU) nr. 2018/395, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
 ##### Artikel 3.2. (aanwijzing misdrijven)
 
-1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 29, eerste lid, juncto bijlage V, onderdeel 6.1, onder c, voor zover dit het bewijs van luchtwaardigheid betreft, van de basisverordening, juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014 en de paragrafen UAS.OPEN.060, tweede lid, onder a, en UAS.SPEC.060, eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
+
+- a. artikel 29, juncto bijlage V, onderdeel 6.1, onder a, van de basisverordening, voor zover dit de luchtwaardige toestand van het luchtvaartuig betreft, en onder c, voor zover dit het bewijs van luchtwaardigheid betreft, juncto bijlage I, paragraaf M.A. 201, onderdeel a, onder 1 en 3, van verordening (EU) nr. 1321/2014, voor zover het de vluchtuitvoering betreft;
+
+- b. artikel 29, juncto bijlage V, onderdeel 7.6, van de basisverordening, voor zover het betreft het bemanningslid dat onder invloed is van psychoactieve stoffen of alcohol; en
+
+- c. de paragrafen UAS.OPEN.060, tweede lid, onder a, en UAS.SPEC.060, eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
 
